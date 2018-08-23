@@ -1,0 +1,64 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO CONTRA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. NORMA LOCAL. COMPETÊNCIA DO STF.
+1. Não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Ao contrário do suscitado pela recorrente, o Tribunal amazonen-se decidiu em consonância com o Superior Tribunal de Justiça, portanto, não há que se falar em notória divergência jurisprudencial.
+3. Não se pode dizer que houve prequestionamento da matéria. Luiz Guilherme Marinoni, em sua obra, O STJ - Enquanto Corte de Precedentes, 2º edição, Revista dos Tribunais, pag. 121, faz um alerta sobre os riscos de transformar o Recurso Especial em mais um recurso para rediscutir todos os aspectos da causa.
+4. A questão em apreço não foi debatida durante toda fase processual, uma vez que não existe prequestionamento na mera citação da matéria controvertida, mas sim, com o pronunciamento do Tribunal a quo sobre a questão em litígio.
+5. A solução encontrada pela Corte estadual envolveu análise de legislação local, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal
+6. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática deste relator que negou seguimento ao recurso interposto, com base no art. 932 do CPC.
+A agravante afirma que a decisão monocrática é omissa, porquanto deixou de analisar diversas questões de direito (fl. 494, e-STJ).
+Aduz que houve prequestionamento de toda matéria suscitada em seu recurso.
+A parte agravada apresentou impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.8.2018.
+A irresignação não merece prosperar.
+Constato que não se configurou a ofensa ao art. 1.022, II, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição. Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Confiram-se:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS À EXECUÇÃO. ART. 535, I e II, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE VÍCIO. PERCENTUAL DOS JUROS DE MORA. COISA JULGADA. REDISCUSSÃO DA MATÉRIA. NÃO CABIMENTO. SEGUNDOS EMBARGOS DE DECLARAÇÃO. ABUSIVIDADE MANIFESTA. APLICAÇÃO DE MULTA. POSSIBILIDADE. ART. 538, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO CIVIL.
+I - A oposição de embargos de declaração, consoante o disposto no art. 535, I e II, do Código de Processo Civil, é restrita às hipóteses de correção de obscuridade, contradição ou omissão no acórdão embargado, revelando-se tal via inadequada para a pretensão de rejulgamento da causa.
+II - Para interpretação de toda decisão judicial, não basta o exame de seu dispositivo, integrado que está à fundamentação que lhe dá sentido e alcance; havendo dúvidas, deve ser adotada a que seja mais conforme à fundamentação e aos limites da lide, em harmonia com o pedido formulado na inicial, conforme expressamente consignado no MS 6.864/DF, ou seja, juros de mora de 1% ao mês.
+III - A impropriedade da alegação nos segundos aclaratórios opostos com o escopo de rediscutir a suposta existência de vícios no julgado, já enfrentada nos primeiros embargos de declaração, constitui prática processual abusiva sujeita à aplicação de multa, nos termos do art. 538, parágrafo único, do Código de Processo Civil.
+IV - Embargos de declaração rejeitados, com aplicação de multa de 1% sobre o valor atualizado da causa.
+(EDcl nos EmbExeMS 6.864/DF, Rel. Ministra REGINA HELENA COSTA, TERCEIRA SEÇÃO, DJe 21/8/2014).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE IMPENHORABILIDADE DO BEM. PEQUENA PROPRIEDADE RURAL. PREQUESTIONAMENTO. NECESSIDADE.
+1. Os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado.
+(..)
+(Resp 1.222.936/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 26/2/2014).
+Ao contrário do entendimento do embargante, a questão em apreço não foi debatida durante toda fase processual, uma vez que não existe prequestionamento na mera citação da matéria controvertida, mas sim, com o pronunciamento do Tribunal a quo sobre a questão em litígio.
+Dessarte, não se pode dizer que houve prequestionamento da matéria. Luiz Guilherme Marinoni, em sua obra, O STJ - Enquanto Corte de Precedentes, 2º edição, Revista dos Tribunais, pag. 121, faz um alerta sobre os riscos de transformar o Recurso Especial em mais um recurso para rediscutir todos os aspectos da causa, verbis:
+Desse modo, praticamente toda questão federal decidida por Tribunal de Justiça ou Regional Federal acaba abrindo oportunidade a recurso especial. O acesso à Corte Suprema fica na dependência da imaginação fértil do advogado da parte que sucumbiu. A falta de distinção entre texto legal e norma jurídica (pronunciada pelo Judiciário) transformou o recurso especial num recurso em que basta argumentar que a interpretação conferida pelo tribunal ordinário deve ser "outra", ou, mais precisamente, uma interpretação que atenda ao interesse da parte que restou vencida.
+Ao contrário do suscitado pela recorrente, o Tribunal manauara decidiu em consonância com o Superior Tribunal de Justiça, portanto, não há que se falar em notória divergência jurisprudencial. Segue ementa do precitado decisum:
+EMENTA: DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. APELAÇÃO. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. RESPONSABILIDADE OBJETIVA DA APELADA - ART. 136 DO CTN E 38, X, DO RICMS. DESNECESSIDADE DE PROVA DE PREJUÍZO AO FISCO. OBRIGAÇÃO ACESSÓRIA. DESCUMPRIMENTO. IMPOSIÇÃO DE PENALIDADE. AUTO DE INFRAÇÃO. PRESUNÇÃO RELATIVA DE VERACIDADE E LEGITIMIDADE. NÃO DESCONSTITUIÇÃO - ART. 333, I, DO CTN. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA. PEDIDO JULGADO IMPROCEDENTE.
+I - De acordo com o art. 136 do CTN, a responsabilidade por infrações tributárias é, em regra, objetiva, cujo exame independe da aferição de dolo ou culpa na prática do respectivo ato. Outrossim, na trilha do referido dispositivo, a existência da responsabilidade prescinde da efetividade, natureza e extensão dos efeitos do ato.
+II - Pela própria dicção do art. 38, X, do RICMS, é possível extrair a desnecessidade de comprovação de prejuízo ao fisco, para a caracterização da responsabilidade tributária por infrações. O referido artigo impõe, ao contribuinte do ICMS, a título de obrigação acessória, exigir, de outro contribuinte, nas operações de saída de mercadorias ou prestações de serviço que para ele realizar, a exibição do cartao de inscrição estadual. Na continuação, esclarece, ainda, que, na hipótese de não cumprimento da obrigação acessória pelo alienante e, caso tal desobediência acarrete o não pagamento do imposto, este (o alienante) responderá solidariamente pelo adimplemento da obrigação principal.
+III - É certo, ademais, que o auto de infração realizado pelos auditores fiscais, por ser forma de declaração do Estado, é ato administrativo e, portanto, detentor de todos os atributos inerentes aos atos dessa natureza, a saber: presunção de veracidade e legitimidade, imperatividade, auto-executoriedade e tipicidade.
+IV Apelação conhecida e provida, com a finalidade de reformar a sentença atacada, no sentido de julgar improcedente o pedido anulatória formulado pela apelada, a teor do art. 269, I, do CPC.
+Por outro lado, segue decisões do STJ:
+RECURSO ESPECIAL. TRIBUTÁRIO. IMPOSTO DE RENDA. DIFERENÇA SALARIAL DECORRENTE DA CONVERSÃO DA URV (11,98%). JUROS E MULTA. INCIDÊNCIA.
+1. As verbas percebidas por servidores públicos resultantes da diferença apurada na conversão de suas remunerações da URV para o Real (11,98%) têm natureza salarial e, portanto, estão sujeitas à incidência do Imposto de Renda. Precedentes.
+2. Segundo o art. 136 do CTN, "Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato".
+3. Se o imposto de renda deixou de ser retido na fonte no momento próprio, sobre o tributo incidem juros de mora e multa, independentemente da boa-fé do agente, ainda que a ausência de retenção tenha sido imputada à instituição pagadora.
+4. A ausência de retenção na fonte não retira a responsabilidade do contribuinte que recebeu o rendimento de submeter a renda à incidência do imposto, arcando, obviamente, com os consectários legais decorrentes do inadimplemento. Precedentes da Segunda Turma.
+5. Recurso especial provido.
+(REsp 1.337.166/AL, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe 15/2/2013).
+TRIBUTÁRIO. RECURSO ESPECIAL. AGRAVO REGIMENTAL. IMPOSTO DE RENDA. DIFERENÇA SALARIAL DECORRENTE DA CONVERSÃO DA URV (11,98%). INCIDÊNCIA. RESOLUÇÃO 245 DO STF. INAPLICABILIDADE. JUROS E MULTA. INCIDÊNCIA.
+1. Se o recurso especial foi conhecido e examinado em seu mérito, obviamente, a questão que se alega omitida na origem foi tida por prequestionada, o que torna prejudicada a alegação de contrariedade ao art. 535, II, do CPC. Ausência de supressão de instância.
+2. As verbas percebidas por servidores públicos resultantes da diferença apurada na conversão de suas remunerações da URV para o Real (11,98%) têm natureza salarial e, portanto, estão sujeitas à incidência do Imposto de Renda. Precedentes.
+3. A Resolução Administrativa 245 do Supremo Tribunal Federal é inaplicável ao caso. A mencionada norma faz referência ao abono variável concedido aos magistrados pela Lei 9.655/1998, e não à parcela correspondente aos 11,98% em favor dos servidores públicos.
+Precedentes.
+4. Dispõe o art. 136 do CTN: "Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato".
+5. Se o imposto de renda deixou de ser retido na fonte no momento próprio, sobre o tributo incidem juros de mora e multa, independentemente da boa-fé do agente, ainda que a ausência de retenção tenha sido imputada à instituição pagadora.
+6. A ausência de retenção na fonte pela instituição pagadora não retira a responsabilidade do contribuinte que recebeu o rendimento de submeter a renda à incidência do imposto, arcando, obviamente, com os consectários legais decorrentes do inadimplemento.
+7. Agravo regimental não provido.
+(AgRg no REsp 1262609/PE, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe 4/10/2012).
+Por último, ressalto que a questão solucionada pela Corte estadual envolveu análise de legislação local, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal, conforme trechos do acórdão recorrido infratranscritos:
+No mais, o art. 375, § 1.º, I, do RICMS caracteriza como infração, toda a ação ou omissão, que implique violação à legislação tributária do Estado do Amazonas ou atos administrativos de caráter normativo (seja referente à obrigação principal, seja concernente à obrigação acessória), pela qual responderão todos os que, de alguma forma, concorreram para a sua prática ou dela se beneficiaram.
+É certo, ademais, que o auto de infração realizado pelos auditores, por ser forma de declaração do Estado, é ato administrativo e, portanto, detentor de todos os atributos inerentes aos atos dessa natureza, a saber: presunção de veracidade e legitimidade, imperatividade, auto-executoriedade e tipicidade. (grifei).
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
