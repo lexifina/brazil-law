@@ -1,0 +1,38 @@
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao nobre apelo. Incidência, por analogia, da Súmula 182/STJ.
+2. Inadmitido o recurso especial diante do óbice contido na Súmula 7/STJ, cabe à parte agravante, diante da indicação de que a questão suscitada implica revolvimento do conjunto probatório, demonstrar a situação particular do caso concreto que justificasse o afastamento do referido óbice sumular.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto por Telemar Brasil S/A, contra decisão que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182/STJ.
+Irresignada, a empresa agravante sustenta que: "Ora, na hipótese dos autos, o contexto fático é simplório e incontroverso desde o início da demanda. Discute-se apenas se a adjudicação do objeto da licitação e o encerramento do contrato celebrado prejudicam a ação de impugnação dos atos de habilitação no certame. Não há sequer disputa quanto aos fatos. A decisão de inadmissão do recurso especial é manifestamente equivocada e foi devidamente impugnada pela suplicante" (fls. 1.437/8).
+O recurso foi objeto de impugnação às fls. 1.453/61.
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Nas razões do agravo, a empresa recorrente, ao manifestar o inconformismo com a incidência da Súmula 7/STJ no juízo de admissibilidade realizado pelo Tribunal a quo, aduz: (fl. 1.303/):
+Verifica-se, dessa forma, que a r. decisão, por mais que se vista como óbice da súmula 7/STJ na verdade está prejulgando o objeto do Recurso Especial no que diz respeito a falta de comprovação da autora, sobre o dever desta empresa declarar a nulidade dos atos administrativo.
+Nota-se que a presente demanda tem origem na inabilitação da agravada do processo licitatório realizado pela UNITAU, tanto que seu recurso administrativo discutiu apenas a classificação da recorrente, mas não eventual nulidade do procedimento A agravada em sua inicial sequer formulou o pedido postulando sua habilitação.
+A verdade é que não há nulidade no procedimento licitatório, que foi legalmente realizado e devidamente encerrado com a assinatura do contrato administrativo.
+Sendo assim, verifica-se a patente ausência de interesse de agir, pois o objeto da licitação foi adjudicado pela recorrente, o contrato já foi concluído, sendo, no momento, impossível a sua suspensão.
+Ademais, não há que se falar, sob qualquer hipótese em julgamento de mérito, tendo em vista que a falta de interesse de agir, pois o processo deixou de ser útil para o interesse pretendido.
+Ora Excelência, a licitação está encerrada, não havendo mais que se falar em nulidade, razão pelo qual o v. acórdão que deu provimento a apelação da a parte agravada, para determinar a remessa dos autos à vara de origem, viola diretamente o disposto do artigo 485, VI.
+Dessa forma, uma vez demonstrada a desnecessidade de se reanalisar fatos e provas constante dos autos, é imperioso que se dê provimento ao presente para que se conheça do Recurso Especial ora interposto.
+Cumpre observar que tais afirmações não tem o condão de rebater, de modo específico, o fundamento autônomo e suficiente para a manutenção da decisão de admissibilidade do recurso especial, razão pela qual não há como afastar a incidência da Súmula 182/STJ.
+Conforme destacado na decisão atacada, negado o processamento do recurso especial ante a necessidade de revisão do acervo fático-probatório dos autos para a reforma do acórdão recorrido, é necessário que as razões do agravo tragam não só o pedido de destrancamento do apelo nobre, mas que também infirmem o juízo formulado pela decisão agravada, demonstrando a situação particular que justificasse o afastamento da Súmula 7/STJ.
+Isso porque, uma vez aplicado o óbice contido na referida súmula, deve o recurso indicar especificamente qual ponto da moldura fática delineada na instância ordinária contrasta com a aplicação do direito federal, possibilitando conclusão diversa da adotada pelo acórdão recorrido, sob pena de atrair a incidência da Súmula 182/STJ.
+Em outras palavras, "Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente" (AgInt no AREsp 1.070.028/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 20/10/2017).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, §§ 1º E 3º, DO CPC/2015 E SÚMULA 182/STJ.
+1. Uma das principais mudanças de paradigma trazidas pelo Código de Processo Civil/2015 diz respeito a uma maior exigência de motivação das decisões judiciais. Em especial, quanto ao julgamento do Agravo Interno, o art. 1.021, § 3º, do novo diploma adjetivo dispõe que "É vedado ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno".
+2. Ocorre que, não raro, a parte sucumbente interpõe Agravo Interno tão somente repetindo os argumentos já aduzidos no apelo indeferido monocraticamente. Nessa hipótese, à primeira vista, poderia ter-se a ideia de que o Magistrado deveria fazer uso da sua criatividade para adotar novos fundamentos em face de argumentos repetidos.
+3. Entretanto, não foi esse o intento do legislador. Em contrapartida à impossibilidade de o relator limitar-se à reprodução dos fundamentos da decisão agravada, ficou estabelecido no art. 1.021, § 1º, do novo Codex que, "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+4. Em busca do aperfeiçoamento do sistema processual pátrio, o legislador instituiu como peças de uma mesma engrenagem tanto a obrigação do julgador de explicitar de forma particularizada as razões que ensejaram a prolação do provimento jurisdicional quanto o ônus da parte recorrente de impugnar especificadamente os fundamentos da decisão atacada.
+5. In casu, a parte agravante limitou-se basicamente a reiterar as razões do Recurso Especial, alegando, de forma genérica, a ocorrência de violação dos arts. 20, § 3º, e 535 do CPC/1973 (1.022 do CPC/2015) e a não incidência da Súmula 7/STJ, sem contrapor especificadamente os fundamentos que dão supedâneo ao decisum hostilizado.
+6. A ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"), que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º.
+7. Agravo Interno não conhecido.
+(AgInt no AREsp 933.639/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 29/11/2016)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
