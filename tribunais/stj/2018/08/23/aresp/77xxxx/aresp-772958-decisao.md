@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] DE CEZAR e OUTRA de decisão que negou seguimento a recurso especial fundado no art. 105, III, a, da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ação de cobrança de aluguéis. Alienação do estabelecimento comercial pelos locatários. Preliminar. Nulidade da sentença afastada. Inexistência de decisão extra petita. Mérito. Cessão irregular da locação. Vedação contratual nesse sentido. Ausência de consentimento prévio e escrito dos locadores. Art. 13, caput, da Lei 8.245/91. Hipótese que não configura novação subjetiva passiva da obrigação. Sentença mantida. Recurso improvido." (fl. 330).
+Opostos embargos de declaração contra o v.acórdão estadual, foram rejeitados (fls. 343/348).
+Nas razões do recurso especial, os recorrentes apontam violação do art. 535, II, do Código de Processo Civil, alegando, em síntese, a nulidade do julgamento proferido pelo Tribunal de origem, uma vez que "o v. acórdão silencia acerca do ponto fulcral objeto do recurso de apelação, qual seja, o encerramento do contrato de locação, o ingresso de outro estabelecimento no imóvel, o pagamento deste terceiro aos autores e a nefasta cobrança contra os recorrentes" (fl. 353).
+Foram apresentadas contrarrazões (fls. 363/366).
+É o relatório. Decido.
+2. Não merece ser prestigiada a tese de afronta ao art. 535, II, do CPC.
+A matéria suscitada foi devidamente enfrentada pelo colegiado a quo, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente, daí porque rejeitados os embargos de declaração da parte.
+Efetivamente, a simples leitura do v. acórdão impugnado revela o enfrentamento das questões postas em discussão, que foram expressamente decididas pelo Tribunal a quo, nos seguintes termos:
+ "A controvérsia dos autos consiste em verificar a regularidade da cessão da locação realizada pelos locatários após a alienação de seu estabelecimento comercial a terceiros, que passaram a ocupar o imóvel em dezembro de 2007.
+ No caso, os apelantes afirmam que os locadores tinham conhecimento da cessão mencionada e que não podem ser responsabilizados pelo débito relativo aos aluguéis vencidos no período de novembro de 2008 a novembro de 2009.
+ Como bem decidido pelo ilustre sentenciante, a modificação dos locatários não se verificou corretamente, de modo que a relação estabelecida entre as partes prevalece, não se justificando o reconhecimento da responsabilidade de terceiros, com base no instrumento de trespasse (fs. 63/64).
+ Com efeito, a transferência da locação a terceiros era vedada pelo contrato de locação firmado entre as partes, como se verifica da cláusula 5.7 do instrumento (fs. 161).
+ (..)
+ Nem se argumente que se trata de hipótese de novação subjetiva passiva, uma vez que não houve o surgimento de uma nova obrigação (aliquid novi), distinta da original, em relação aos credores, e nem demonstração de que os locadores anuíram expressa ou tacitamente com o negócio.
+ (..)
+ O fato de terceiro ter ocupado o imóvel e efetuado o pagamento dos aluguéis por determinado período não demonstra o inequívoco ânimo de novar dos locadores (art. 361 do CC), que somente receberam os aluguéis em beneficio dos locatários, que permaneceram vinculados ao contrato de locação.
+ Destarte, era mesmo dispensável a presença do terceiro adquirente nos autos, ressalvando-se que diante do inadimplemento contratual por ele praticado, no sentido de deixar de transferir a titularidade do contrato de locação no prazo de dez dias contados da assinatura do contrato (cláusula 4a - fs. 64), poderão os apelantes buscar a reparação de eventuais prejuízos em ação própria." (fls. 331/334)
+No caso, o mero inconformismo da parte com o resultado do julgamento não se coaduna com o escopo dos embargos de declaração de sanar eventual omissão, obscuridade ou contradição, inexistentes no caso.
+Ressalte-se ainda que, em conformidade com a jurisprudência do Superior Tribunal, o magistrado não está obrigado a se pronunciar sobre todos os pontos abordados pelas partes, mormente quando já tiver decidido a controvérsia sob outros fundamentos. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS DO ART. 535 DO CPC. OMISSÃO. INEXISTÊNCIA. EXCEPCIONALIDADE DA CONCESSÃO DE EFEITOS INFRINGENTES.
+I - Os embargos de declaração são recurso de natureza particular, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (CPC, art. 535). O efeito modificativo não lhe é característico, podendo decorrer de casos excepcionais.
+II - É inviável a concessão do excepcional efeito infringente, quando a oposição dos declaratórios cinge-se a repisar os fundamentos do recurso anterior.
+III - A jurisprudência dominante neste Tribunal Superior proclama a inocorrência de violação ao art. 535, incs. I e II, do Código de Processo Civil, se o acórdão recorrido, ainda que sucinto, tiver bem delineado as questões a ele submetidas, não se encontrando o magistrado obrigado a responder a todas as alegações das partes, quando já tiver encontrado motivos suficientes para fundar a decisão, nem a ater-se aos fundamentos indicados por elas ou a responder um a um a todos os seus argumentos. Embargos rejeitados." (EDcl no REsp 202.056/SP, Relator o Ministro CASTRO FILHO, DJ de 01/10/2001)
+Do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
