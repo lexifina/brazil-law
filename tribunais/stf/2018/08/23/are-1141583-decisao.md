@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RECURSO CONTRA DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE. PRECEDENTES. RECURSO RECEBIDO COMO PETIÇÃO. NADA A PROVER.
+Relatório
+    1. Em 3.8.2018, determinei a devolução dos autos ao Tribunal de origem por ter este Supremo Tribunal aplicado a sistemática da repercussão geral nas questões trazidas neste processo:
+    a) Tema 73, Recurso Extraordinário n. 578.657: ausência de repercussão geral;
+    b) Tema 339, Agravo de Instrumento n. 791.292: repercussão geral reconhecida e mérito julgado; e
+    c) Tema 660, Recurso Extraordinário com Agravo n. 748.371: ausência de repercussão geral.
+    2. Em 13.8.2018, Israel Sonego dos Santos opõe embargos de declaração nos quais alega que “a r. decisão contém um erro material, senão uma obscuridade, visto que o recurso interposto pelos ora Embargantes em nada guarda semelhança com as controvérsias reconhecidas pelo STF pelos temas 73, 339 e 660.
+    (...) verifica-se que o debate acerca da violação ao princípio do contraditório e da ampla defesa, bem como da obrigatoriedade de fundamentação das decisões judiciais não possui qualquer relação com o objeto do recurso interposto pelos Embargantes, qual seja, a violação ao art. 5º, XXXV e LIV, da Constituição Federal e o reconhecimento do desvio de função do embargante” (sic, doc. 8, fls. 4-5).
+    Analisada a questão trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao embargante.
+    4. Pelo Código de Processo Civil disciplinou-se o sistema processual da repercussão geral, em harmonia com o entendimento deste Supremo Tribunal.
+    Submetido o recurso paradigma ao Plenário Virtual, este Supremo Tribunal pode: a) recusá-lo por ausência de repercussão geral e devolver os demais recursos aos Tribunais de origem, que a eles deverão negar seguimento (al. a do inc. I do art. 1.030 do Código de Processo Civil); b) reconhecer a existência da repercussão geral e devolver os demais recursos aos Tribunais de origem para serem sobrestados e aguardarem o julgamento de mérito pelo Supremo Tribunal Federal (inc. III do art. 1.030 do Código de Processo Civil); c) reconhecer a repercussão geral e julgar o mérito do recurso, devolvendo os demais recursos aos Tribunais de origem, que a eles negarão seguimento ou exercerão juízo de retratação, conforme o caso (al. a do inc. I e inc. II do art. 1.030 do Código de Processo Civil).
+    5. As possibilidades descritas compõem a sistemática da repercussão geral. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da irrecorribilidade do ato (decisão ou despacho) de devolução dos autos aos Tribunais de origem para os fins previstos na legislação processual referentes ao instituto da repercussão. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. RECURSO INTERPOSTO CONTRA DESPACHO PELO QUAL SE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. INADMISSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 874.816-AgR-AgR, Plenário, de minha relatoria, DJe 8.11.2016).
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EX-EMPREGADO DA FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA. BASE DE CÁLCULO. SALÁRIO MÍNIMO. MATÉRIA JÁ EXAMINADA SOB O ENFOQUE DA REPERCUSSÃO GERAL. TEMA 256. RE 603.451. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM. IRRECORRIBILIDADE. PRECEDENTES. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 904.576-AgR-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe 26.10.2016).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL RECONHECIDA. DESISTÊNCIA DO RECURSO PARADIGMA. FUTURA SUBSTITUIÇÃO. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DO ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. IDENTIDADE MATERIAL: IRRECORRIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL NÃO CONHECIDO” (RE n. 784.034-AgR, de minha relatoria, Segunda Turma, DJe 24.6.2014).
+    6. Recebo o recurso interposto como simples petição.
+    7. Nada havendo a prover quanto às alegações do peticionário, mantenho o despacho de devolução dos autos à origem pela sistemática da repercussão geral (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de agosto de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
