@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça desse Estado.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 134/139, in verbis:
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele Estado, nos autos do Agravo em Execução nº 1.0301.13.011169-5/001.
+Consoante se extrai dos autos, o Juízo da Vara de Execuções Criminais de Igarapé deixou de proceder à unificação das penas aplicadas ao reeducando [NOME], mesmo sobrevindo duas condenações, ante a ausência de trânsito em julgado, além de ter suspendido o cumprimento da pena restritiva de direitos fixada anteriormente.
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal de Justiça do Estado de Minas Gerais, requerendo a reforma da decisão, para que a pena restritiva de direitos seja convertida em pena privativa de liberdade, e somada às reprimendas supervenientes, fixando-se o regime fechado, independentemente do trânsito em julgado da nova condenação. A Primeira Câmara Criminal, por unanimidade, negou provimento ao recurso, conforme acórdão assim ementado (fl. 49):
+AGRAVO EM EXECUÇÃO PENAL - RECURSO MINISTERIAL - PLEITO DE RECONVERSÃO DA PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE - SUPERVENIÊNCIA DE NOVA CONDENAÇÃO À PENA PRIVATIVA DE LIBERDADE INCOMPATÍVEL COM CUMPRIMENTO DA PENA ALTERNATIVA ANTERIORMENTE IMPOSTA - IMPOSSIBILIDADE - CONDENAÇÃO PENDENTE DE RECURSO - NECESSIDADE DE TRÂNSITO EM JULGADO - PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - RECURSO MINISTERIAL NÃO PROVIDO.
+1) Nos termos do art. 44, § 5º, do Código Penal, e do art. 181, § 1º, alínea "e", da LEP, nas hipóteses em que houver superveniência de condenação à pena privativa de liberdade, caberá ao julgador sopesar a conveniência (ou não) de manter o cumprimento simultâneo de sanções penais de natureza distinta. Todavia, em caso de incompatibilidade entre estas, a conversão é medida imperativa.
+2) Todavia, se a condenação superveniente não é definitiva, porquanto pendente de recurso, impossível é a reconversão da pena restritiva de direitos em privativa de liberdade, em observância ao princípio constitucional da presunção de inocência, pois poderá acarretar situação mais gravosa ao reeducando, haja vista não se tratar de condenação definitiva e, via de consequência, a reprimenda fixada poderá ser reduzida, podendo o reeducando, inclusive, ser absolvido.
+Foram opostos embargos de declaração pelo Ministério Público Estadual, os quais não foram acolhidos (fls. 80/87).
+Sobreveio recurso especial interposto pelo Parquet, com fundamento no art. 105, III, alínea "a" da CF, no qual aponta violação ao disposto nos arts. 2º, parágrafo único, 111, caput e parágrafo único, 181, § 1º, alíneas "d" e "e", todos da Lei 7.210/84, e 44, §§ 4º e 5º, e 76, ambos do Código Penal.
+Alega o recorrente que "o reeducando cumpria pena restritiva de direitos quando sobrevieram duas novas condenações, ambas a penas privativas de liberdade, penas estas que, unificadas, somaram 10 anos, 11 meses e 10 dias de reclusão, regime fechado" (fl. 101). Acrescenta que, sendo a pena substitutiva incompatível com o cumprimento simultâneo com a reprimenda corporal em regime fechado, impõe-se a reconversão.
+Requer, assim, que seja determinada a reconversão das penas restritivas de direitos em privativa de liberdade, procedendo-se à sua soma com as demais constritivas de liberdade.
+Contrarrazões apresentadas às fls. 114/120.
+Decisão de admissibilidade às fls. 122/123.
+É a síntese do necessário.
+O Ministério Público Federal, ao final, manifestou-se pelo provimento do recurso (e-STJ fls. 134/139).
+É, em síntese, o relatório.
+Decido.
+Assiste razão ao recorrente.
+Com efeito, este Tribunal Superior firmou a orientação no sentido de que a superveniência de nova condenação, não suspensa, que impossibilite o cumprimento simultâneo das reprimendas justifica a conversão da sanção restritiva de direitos em privativa de liberdade e a consequente unificação das penas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAS RESTRITIVAS DE DIREITOS EM CUMPRIMENTO. NOVAS CONDENAÇÕES A PENA PRIVATIVA DE LIBERDADE QUE, SOMADAS, ULTRAPASSAM 8 ANOS DE RECLUSÃO. IMPOSSIBILIDADE DE EXECUÇÃO SIMULTÂNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Esta Corte firmou o entendimento de que, na hipótese de unificação prevista no art. 111 da LEP, é permitida a reconversão de pena restritiva de direitos se o Juiz verificar a incompatibilidade do seu cumprimento simultâneo com pena privativa de liberdade posterior.
+ ..
+4. Agravo regimental não provido (AgRg no HC 424.866/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/03/2018, DJe 12/03/2018, grifei).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO. SUPERVENIÊNCIA DE CONDENAÇÃO A PENAS RESTRITIVAS DE DIREITOS. INCOMPATIBILIDADE DE EXECUÇÃO SIMULTÂNEA. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITO EM SANÇÃO CORPORAL E UNIFICAÇÃO DAS REPRIMENDAS. POSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 181 E 111 DA LEI DE EXECUÇÃO PENAL. INAPLICABILIDADE DO ART. 76 DO CÓDIGO PENAL. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - A jurisprudência deste Tribunal Superior firmou-se no sentido de que, no caso de nova condenação a penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou semiaberto, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das penas. Nesses casos, as penas restritivas de direito devem ser convertidas em sanção privativa de liberdade, unificando-se as reprimendas, nos termos dos arts. 181 e 111 da Lei de Execução Penal, respectivamente, não sendo aplicável o art. 76 do Código Penal. Precedentes.
+Habeas Corpus não conhecido (HC 400.480/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/09/2017, DJe 21/09/2017, grifei).
+Confiram-se, ainda, o REsp n. 1.721.369/MG, Relatora Ministra MINISTRA MARIA THEREZA DE ASSIS MOURA, DJe 13/4/2018; o REsp n. 1.731.879/MG, Relator Ministro Felix Fischer, DJe de 11/6/2018 e o REsp n. 1.724.650/MG, Relator Ministro Nefi Cordeiro, DJe de 30/5/2018.
+Ante o exposto, tendo em vista que o posicionamento expendido no acórdão recorrido destoa da orientação firmada no Superior Tribunal de Justiça, dou provimento ao recurso especial para determinar a reconversão das penas restritivas de direitos em privativas de liberdade.
+Publique-se. Intimem-se.
