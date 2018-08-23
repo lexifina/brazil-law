@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o Juízo de Direito da Vara Adjunta de Execuções Criminais de Osório/RS, nos autos de Execução Penal n. 0003387-79.2014.8.24.0069, sendo suscitado o Juízo de Direito da Vara Criminal de Tubarão/SC.
+Depreende-se dos autos que [NOME] foi condenado pelo Juízo da Comarca de Sombrio/SC a 5 (cinco) anos e 4 (quatro) meses de reclusão, a ser cumprida em regime semiaberto. Descontava sua pena em presídio localizado na Comarca de Tubarão/SC, onde o Juiz das Execuções, em 24 de abril de 2016, o promoveu para o regime aberto, com prisão domiciliar, havendo informação de que passaria a residir na Rua Rosita Tomé, s/n, Parque Rosita, Santa Rosa do Sul/SC. Posteriormente, informou que residiria na cidade de Torres/RS.
+Diante disso, o Juiz das Execuções de Tubarão/SC declinou de sua competência para o Juiz da Comarca de Torres/RS, competente, no seu entender, para fiscalizar o cumprimento da pena do reeducando, em regime aberto domiciliar (e-STJ fl. 72).
+Em 30 de maio de 2016, o Juiz das Execuções Criminais de Tubarão encaminhou os autos do PEC para a Comarca de Torres/RS.
+Em 14 de agosto de 2016, o sentenciado foi preso preventivamente na Comarca de Torres/RS, sendo encaminhado à Penitenciária Modulada de Osório/RS.
+Em 06 de outubro de 2016, diante da notícia de que o sentenciado cumpria pena em regime aberto, com prisão domiciliar, em virtude de condenação no Estado de Santa Catarina, e diante da prisão pelo cometimento de novo crime, o Ministério Público na Comarca de Osório/RS requereu a instauração de Processo Administrativo Disciplinar para apuração de falta grave.
+Já nessa Augusta Corte, convertido o julgamento em diligência, foram buscadas informações ao Juízo da Comarca de Osório acerca da situação do sentenciado, vindo aos autos notícia de que, em 24 de abril deste ano, pelo Juízo suscitante, foi restabelecido o regime aberto ao sentenciado, cuja decisão não foi cumprida por estar vigente a prisão preventiva anteriormente decretada contra ele.
+Informou, ainda, que em virtude da nova condenação oriunda da Comarca de Torres, houve a unificação das penas, em 14 anos, 09 meses e 09 dias de reclusão, sendo regredido o regime prisional do apenado para o fechado.
+Em parecer, a Subprocuradoria-Geral da República opina pelo conhecimento do conflito e pela competência do Juízo suscitante (fls. 191 a 193).
+É o relatório.
+Verifica-se que, in casu, não houve transferência legal do condenado para a comarca de Osório/RS, tendo o apenado sido encaminhado para essa Comarca apenas em decorrência de prisão provisória de ato praticado na Comarca de Torres/RS. Dessa forma, conforme a jurisprudência desta Corte de Justiça somente serão competência de um Juízo diferente daquele que sentencia os processos nos quais ocorre a transferência legal do condenado, o que não ocorreu na hipótese dos autos.
+Acerca do tema, colhe-se o seguinte precedente, desta Terceira Seção:
+"CRIMINAL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA PARA A EXECUÇÃO. INEXISTÊNCIA DE TRANSFERÊNCIA LEGAL A MODIFICAR A COMPETÊNCIA. IMPROPRIEDADE DO DESLOCAMENTO. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+"Somente as transferências de sentenciados legalmente efetuadas podem alterar a competência do Juízo da execução da pena.
+"Não há como se deslocar a competência para a execução, na hipótese de condenado beneficiado com sursis que se mudou - sem autorização do Juízo da Execução de São Paulo - para cidade Mineira, onde acabou preso em função do mandado de prisão expedido pelo Juízo Paulista.
+"Transferência legal de sentenciado não configurada.
+"Conflito conhecido para declarar a competência do Juízo de Direito do Júri e da Vara de Execuções Criminais de São Bernardo do Campo - SP, o Suscitante" (CC 33355/SP, rel. Min. GILSON DIPP, Terceira Seção, p. no DJ de 25-03-2002, p. 176).
+No entanto, como bem asseverado pelo ilustre Subprocurador-Geral da República, "parece que o incidente se encontra prejudicado, tendo em vista que, após sua suscitação, o Juiz de Osório, suscitante, resolveu a questão relativa ao incidente da execução da pena em regime aberto, restabelecendo-o, até o deslinde da ação penal pelo novo crime cometido pelo sentenciado na Comarca de Torres/RS, conforme decisão proferida em 24 de abril deste ano (e-STJ fl. 108), certo, ainda, que em virtude da nova condenação oriunda da Comarca de Torres, houve a unificação das penas, em 14 anos, 09 meses e 09 dias de reclusão, sendo regredido o regime do apenado para o fechado" (fls. 114).
+Assim, julgo prejudicado o presente conflito de competência.
+Publique-se e intime-se.
+Dê-se ciência aos Juízes em conflito.
+Cientifique-se o Ministério Público Federal.
