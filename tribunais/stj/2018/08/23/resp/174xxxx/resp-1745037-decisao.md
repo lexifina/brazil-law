@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que deu parcial provimento aos recursos defensivos.
+Sustenta o recorrente violação dos arts. 14 e 16, ambos da Lei 10.826/2003, 33, § 4º, e 42, da Lei 11.343/2006, 33, § 3º, 44, III, 59, 68, 69 e 70, todos do Código Penal, ao fundamento de que não haveria consunção entre os delitos do estatuto do desarmamento, uma vez que buscam proteger bens jurídicos diversos. Pugnam pelo afastamento da minorante de tráfico privilegiado, uma vez que os elementos dos autos indicam dedicação à atividade criminosa, bem como pelo afastamento da substituição da pena corporal por restritivas de direitos, e pelo estabelecimento do regime inicial fechado.
+Requer o afastamento da consunção quanto aos crimes do Estatuto do Desarmamento, aplicando-se a regra do concurso material, no tocante ao recorrido [NOME], o afastamento da minorante de tráfico privilegiado, a desconstituição da substituição da pena, e o estabelecimento do regime fechado aos demais recorridos.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+Decido.
+Consta dos autos que o recorrido ALBERTO foi condenado à pena de 8 anos e 12 meses de reclusão, a ser cumprida em regime semiaberto, e ao pagamento de 561 dias-multa, como incurso no art. 33, caput, da Lei de Drogas, em concurso material com o art. 16 da Lei 10.826/2003. Já os recorridos, PATRICK, FRANKLIN e LEONARDO foram condenados à pena de 3 anos e 8 meses de reclusão, a ser cumprida inicialmente em regime regime aberto, e ao pagamento de 176 dias-multa, tendo sido a pena privativa de liberdade dos dois primeiros (PATRICK e FRANKLIN) substituída por restritiva de direitos, como incursos no art. 33, § 4º, da Lei 11.343/2006 em concurso material com o art. 14 do Estatuto do Desarmamento.
+Quanto à aplicação do princípio da consunção entre os crimes previstos nos arts. 14 e 16 da Lei nº 10.826/2003, nos quais o recorrido [NOME] é incurso, o acórdão consignou os seguintes fundamentos (fls. 759/761):
+Por outro lado, em relação ao apelante [NOME], entendo que deve ser aplicada a consunção entre os crimes do artigo 14 e 16 da Lei 10.826/03.
+Conforme se depreende dos autos, Alberto, além das munições, possuia sob sua guarda uma arma de fogo calibre 38, com numeração raspada.
+A despeito do entendimento da douta juíza sentenciante, tenho que o fato de o apelante, numa mesma ocasião, possuir munições do mesmo calibre da arma de fogo com numeração raspada, não configura concurso de crimes, tratando-se de crime único.
+ ..
+Desta forma, restando comprovado nos autos que o apelante possuía munições .38 e uma arma de fogo com numeração raspada, calibre .38. no mesmo contexto fático, não há que se falar em concurso de crimes, devendo ser aplicada a consunção.
+Assim, sendo o crime do artigo 16 da lei 10.826/06, o mais grave, ele absorve o crime previsto no artigo 14 da mesma lei.
+Aplicado o principio da consunção deve ser decotada a pena imposta pelo crime do artigo 14 da Lei de Desarmamento, em relação ao réu Alberto.
+É assente, nesta Corte Superior, o entendimento de não ser possível a aplicação do princípio da consunção entre os crimes previstos nos arts. 14 e 16 da Lei 10.826/2003, uma vez que o delito capitulado neste último tutela, além da paz e segurança pública, os cadastros no Sistema Nacional de Armas, resguardando bens jurídicos distintos, assistindo, no ponto, razão ao órgão ministerial.
+A propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL E PROCESSO PENAL. PORTE DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. DELITOS DIVERSOS. ART. 14 E 16 DA LEI N. 10.826/2003. CRIME ÚNICO. IMPOSSIBILIDADE. RECONHECIMENTO DE CONCURSO FORMAL.
+1. A prática, em um mesmo contexto fático, dos delitos tipificados nos artigos 14 e 16 da Lei n. 10.826/2003, configuram diferentes crimes porque descrevem ações distintas, com lesões à bens jurídicos diversos, devendo ser somados em concurso formal.
+2. Agravo regimental improvido.
+(AgRg no REsp 1588298 / MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/05/2016, DJe 12/05/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE ILEGAL DE ARMAS DE FOGO E MUNIÇÕES DE USO RESTRITO E PERMITIDO. ARTS. 14 E 16 DA LEI N. 10.826/03. PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. BENS JURÍDICOS DISTINTOS.
+I. As condutas de possuir arma de fogo e munições de uso permitido e de uso restrito, apreendidas em um mesmo contexto fático, configuram concurso formal de delitos.
+II. O art. 16 do Estatuto do Desarmamento, além da paz e segurança públicas, também protege a seriedade dos cadastros do Sistema Nacional de Armas, sendo inviável o reconhecimento de crime único, pois há lesão a bens jurídicos diversos.
+III. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1619960 / MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+No tocante à aplicação da causa especial de diminuição do tráfico privilegiado, o Tribunal de origem, tomando por base os elementos fático-probatórios produzidos nos autos, entendeu devidamente comprovados os requisitos necessários para a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas, por não haver provas de que os recorridos FRANKLIN, PATRICK e LEONARDO dedicavam-se a atividades criminosas ou integravam organização criminosa.
+Assim, para que esta Corte venha a alcançar conclusão diversa, seria necessário o reexame do material fático-probatório, o que é vedado na estreita via do recurso especial, em atenção ao óbice criado pela Súmula 7/STJ. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS (19,735 KG DE CRACK). VIOLAÇÃO DOS ARTS. 33, § 4º, E 42, AMBOS DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO DE PENA. QUANTIDADE OU QUALIDADE COMO FUNDAMENTO EXCLUSIVO PARA NEGAR A CONCESSÃO DA CAUSA DE DIMINUIÇÃO. IMPOSSIBILIDADE. REQUISITOS ATESTADOS PELO TRIBUNAL DE ORIGEM. AFASTAMENTO. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. ÓBICE DA SÚMULA 7/STJ.
+1. O entendimento esposado do Tribunal paranaense está em consonância com a jurisprudência do Superior Tribunal de Justiça, haja vista a impossibilidade da quantidade e natureza da droga apreendida, isoladamente consideradas, ter o condão de vedar a concessão da minorante prevista na Lei de Drogas.
+2. Isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018).
+3. A simples menção à quantidade das drogas, dissociada de qualquer outro elemento, não é suficiente para se concluir acerca da dedicação do paciente às atividades criminosas ou participação em organização criminosa (HC n. 403.022/DF, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/10/2017).
+4. De rigor, a aplicação do óbice contido na Súmula 7/STJ, porquanto tendo a Corte de origem concluído que o agravado preenchia os requisitos para se beneficiar da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, notadamente pela não participação em organização criminosa, é inviável entender de modo diverso, dada a necessidade de revisão de elementos fático-probatórios, vedada nesta via recursal.
+ ..
+(AgRg no REsp 1716202 / PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018, grifei).
+Passo ao redimensionamento da pena imposta a [NOME].
+Quanto ao delito previsto no art. 14 da Lei 10.826/2003:
+Utilizando os mesmos critérios adotados na origem, fixo a pena-base no mínimo, a saber, 2 anos e 4 meses de reclusão e 11 dias-multa. Na segunda fase, presente a agravante de reincidência, aumento a pena em 1/6, totalizando 2 anos, 8 meses e 20 dias e 12 dias-multa, tornando-a definitiva neste patamar.
+Quanto ao crime previsto no art. 16 da Lei 10.826/2003:
+Fixada a pena-base em 3 anos de reclusão e 10 dias-multa, presente a agravante de reincidência, fica a pena intermediária estabelecida em 3 anos e 6 meses de reclusão, e 11 dias-multa, montante que se torna definitivo, dada a ausência de causas de diminuição ou de aumento.
+Observada a ocorrência de concurso formal entre os delitos, figura prevista no art. 69 do CP, aplico a pena do crime mais grave, capitulado no art. 16 do Estatuto do Desarmamento, acrescida de 1/6, tornando-a definitiva e 4 anos e 1 mês de reclusão, a ser cumprida em regime semiaberto, e ao pagamento de 23 dias-multa, nos termos do art. 72 do CP.
+Existindo concurso material entre o crime previsto no art. 33, caput, da Lei 11.343/2006, e os delitos supramencionados, aplico cumulativamente as penas impostas, condenando o recorrido [NOME] à pena de 9 anos e 7 meses de reclusão, além do pagamento de 573 dias-multa.
+O regime inicial de cumprimento deverá ser o fechado, em atenção ao disposto no art. 33, § 2º, a, do Código Penal.
+Ante o exposto, conheço parcialmente o recurso especial e, nesta extensão, dou-lhe provimento para restabelecer a condenação do recorrido [NOME] quanto ao delito do art. 14 da Lei 10.826/2003, redimensionando a pena a ele imposta nos moldes acima explicitados.
+Publique-se. Intimem-se.
