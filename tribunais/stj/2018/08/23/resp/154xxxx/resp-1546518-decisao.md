@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado:
+"PENAL. PROCESSO PENAL. CONTRABANDO. MÁQUINAS [NOME]. SUSPENSÃO CONDICIONAL DO PROCESSO. REVOGAÇÃO. ART. 89, § 3º DA LEI N.º 9.099/95. RECURSO MINISTERIAL NÃO PROVIDO.
+I - O art. 89, §3º da Lei n.º 9.099/95 demanda reiteração posterior para efeito de revogação do benefício da suspensão condicional do processo.
+II - Denúncia que retrata a terceira acusação veiculada contra o recorrido, mas que assim foi apresentada acompanhada da proposta de suspensão condicional do processo e não havendo oposição por parte do MM. Juízo de origem o benefício foi aceito pelo acusado. Em outras palavras, o MPF ofereceu proposta de suspensão condicional ciente das duas outras acusações já formuladas anteriormente.
+III - Fatos que cronologicamente não são reiterações no curso do período de prova. Outras duas denúncias que envolvem fatos anteriores à suspensão condicional que se pretende revogar.
+IV - A só presença de anotações na FAC, com duas denúncias até aquele momento oferecidas, já caracterizava motivação idônea para negar a suspensão condicional (requisitos do art. 77 do CP). Contudo, se o MPF, ciente dessa condição, propôs suspensão condicional e esta foi aceita pelo réu, não cabe ponderar desses mesmos fatos para revogá-la com base no art. 83, §3º da Lei n. 9.099/95, tomando como marco a data do recebimento da denúncia.
+V - Recurso ministerial não provido." (e-STJ, fl. 191).
+Nas razões recursais, a acusação sustenta violação do art. 89, § 3º, da Lei n. 9.099/95.
+Nesse sentido, aduz que a suspensão condicional do processo referente a um delito só pode ser revogada após o recebimento da denúncia atinente ao segundo crime. Defende que, quando oferecida a suspensão condicional do processo, o réu, que possuía anotações na FAC, podia usufruir do benefício. Entretanto, após o recebimento das denúncias (relativas às anotações), ele deixou de possuir o direito.
+Assim, requer a revogação do sursis processual.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 233-235).
+É o relatório.
+Decido.
+Contrariando o que o Tribunal local concluiu, "esta Corte firmou o entendimento, em consonância com o disposto no art. 89, § 3º, da Lei n.º 9.099/95, de que é obrigatória a revogação do sursis processual, quando o beneficiário vier a ser processado pelo cometimento de crime, bem como contravenção, no curso do período de prova. Na espécie, diante da realidade processual (recebimento de denúncia, referente ao cometimento de outro crime, no curso do período de prova do benefício), inviável o restabelecimento da pretendida suspensão condicional do processo." (RHC 50.274/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 07/10/2014, DJe 17/10/2014; grifou-se).
+Note-se que se revela irrelevante que os fatos apurados no novo processo sejam anteriores ao período da suspensão ou que já constassem da folha de antecedentes criminais do acusado, quando o Ministério Público ofertou o benefício. A propósito, confira-se o teor do art. 89, § 3.º, da Lei 9.099/95:
+"A suspensão será revogada se, no curso do prazo, o beneficiário vier a ser processado por outro crime". (grifou-se)
+Não é despiciendo destacar, com o escólio do professor [NOME], que "o recebimento da peça acusatória (..) é tido, por grande parte da doutrina, como o marco inicial do processo. Prevalece o entendimento de que não é a propositura (..) que instaura a ação penal, mas sim o seu recebimento". (LIMA, Renato Brasileiro de. Manual de processo penal. 4ª ed. Salvador: Juspodvim, 2016, p. 1.277).
+No caso, durante o período de prova do sursis processual, o recorrido teve, contra si, denúncia recebida, o que pode ser visto pela ementa colacionada acima. Portanto, a revogação é medida que se impõe.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para revogar a suspensão condicional do processo e, consequentemente, determinar o prosseguimento da ação penal.
+Publique-se. Intimem-se.
