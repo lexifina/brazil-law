@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de PAULO VICTOR GALEGO ANTONIO, em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que proveu parcialmente a apelação defensiva.
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, mais 160 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei de Drogas.
+Ato seguinte, a defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe proveu parcialmente para reduzir a pena-base ao mínimo legal, sem, contudo, reflexos na reprimenda final. Opôs, ainda, embargos de declaração, os quais foram rejeitados.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal sob o argumento de que seria devido o abrandamento do regime inicial ao aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Requer a concessão da ordem constitucional para que seja alterado o modo prisional e convertida a pena privativa em restritiva.
+Deferida a liminar, prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+É o relatório.
+DECIDO.
+No que toca aos pleitos de alteração do regime inicial para o aberto e substituição da pena privativa de liberdade por restritiva de direitos, tem-se que a Corte de origem manteve o modo fechado e negou a conversão, com os seguintes fundamentos (fls. 33/37):
+Relativamente ao pedido defensivo de substituição da reprimenda corporal por restritivas de direitos, inviável seu acolhimento, visto que, na hipótese vertente, tanto a conduta social reprovável do acusado, quanto as graves circunstâncias e conseqüências do delito, estão a demonstrar não ser tal operação suficiente à reprovação da infração (cf. artigo 44, caput, inciso III, do Código Penal).
+ ..
+Relativamente ao regime prisional imponível à espécie, insta conservar-se a adoção da modalidade inicial fechada, pois tem-se que a opção pelo módulo carcerário mais rigoroso atendeu, sobretudo em virtude da gravidade concreta da hipótese vertente, ao disposto no artigo 33, § 3o, do Código Penal, não havendo, dessarte, falar-se na incidência, in casu, das Súmulas nºs 718 e 719 do Pretório Excelso.
+Com efeito, nota-se que o Tribunal estadual negou a substituição com fundamento tanto a conduta social reprovável do acusado, quanto as graves circunstâncias e conseqüências do delito, contudo, tais quesitos não foram valorados de modo negativo na primeira fase da dosimetria, tanto que a reprimenda básica foi reduzida ao mínimo legal no julgamento da apelação. Da mesma forma, o regime inicial foi mantido no fechado com esteio na gravidade concreta da hipótese vertente, abstendo-se o Colegiado de origem de apontar o que indicaria tal gravidade concreta.
+Assim, contata-se a ausência de indicação de elementos idôneos que justificassem a negativa da conversão da pena privativa em restritiva e a manutenção do modo prisional mais gravoso, de modo que, tendo em vista a fixação da pena-base no mínimo legal a paciente primário, com aplicação da causa de diminuição do art. 33, § 4º, da Lei de Drogas e a reprimenda final em patamar inferior a 4 anos de reclusão, impõe-se a concessão da ordem constitucional. Nesse mesmo norte:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. REDUÇÃO EM 1/4. QUANTIDADE E NATUREZA DA DROGA. QUANTIA INEXPRESSIVA. RÉU PRIMÁRIO E DE BONS ANTECEDENTES. NECESSIDADE DE READEQUAÇÃO DA PENA. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO ABERTO. PLEITO DE DETRAÇÃO. PREJUDICADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. POSSIBILIDADE. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. Estabelecida a reprimenda final em 1 ano e 8 meses de reclusão, verificada a primariedade do agente e sendo favoráveis as circunstâncias do art. 59 do CP, o regime inicial aberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", do Código Penal.
+6. Preenchidos os requisitos legais do art. 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritiva de direitos.
+ ..
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo, redimensionando a pena do paciente para 1 ano e 8 meses de reclusão mais 166 dias-multa, bem como para estabelecer o regime aberto e substituir a pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo Execução. (HC 438.845/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/6/2018, DJe 1º/8/2018)
+Ante o exposto, concedo o habeas corpus para alterar o regime inicial para o aberto e determinar a substituição da pena privativa de liberdade por restritiva de direitos, a serem estabelecidas pelo Tribunal a quo.
+Comuniquem-se.
+Publique-se.
+Intimem-se.
