@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONCLUSÃO DO TRIBUNAL ESTADUAL PELA PRODUÇÃO DA PROVA PERICIAL. OCORRÊNCIA. CERCEAMENTO DE DEFESA. FUNDAMENTO INATACADO, EMBORA SUFICIENTE PARA A MANUTENÇÃO DO DECISUM. INCIDÊNCIA. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 497):
+APELAÇÃO CÍVEL - PROCESSUAL CIVIL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS - ACIDENTE DE TRÂNSITO - PEDIDO INICIAL JULGADO IMPROCEDENTE POR AUSÊNCIA DE PROVAS DOS DANOS - PROVA PERICIAL OPORTUNAMENTE REQUERIDA - NÃO ACOLHIMENTO - CERCEAMENTO DE DEFESA - PREJUÍZO DEMONSTRADO - NULIDADE DA SENTENÇA - RECURSO PROVIDO.
+Os embargos de declaração opostos foram desacolhidos (e-STJ, fls. 520-525).
+Nas razões do recurso especial, além de dissídio jurisprudencial, a parte insurgente alegou violação aos arts. 333, I, 473 e 543 do Código de Processo Civil/1973, alegando que ocorreu a preclusão quanto ao requerimento da prova pericial.
+Argumentou que ficou evidenciado que os recorridos tiveram inúmeras oportunidades de requereu a perícia, mas nada fizeram, e somente após tomarem conhecimento da sentença desfavorável é que se insurgiram com relação à sua falta de realização.
+As contrarrazões foram apresentadas (e-STJ, fls. 578-584).
+A Corte de origem deixou de admitir o recurso especial ante a incidência da Súmula 7/STJ.
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, na hipótese dos autos, o Tribunal de origem, ao dirimir a controvérsia, considerou presentes os requisitos para o deferimento da indenização pleiteada pelos recorridos, consistentes em danos materiais e morais, ante a ocorrência do cerceamento de defesa pelos seguintes fundamentos (e-STJ, fls. 499-501):
+O caso dos autos refere a pleito de indenização por danos materiais, morais e estéticos, decorrente de acidente de trânsito.
+Ao sentenciar o processo, o juiz da causa, após reconhecer a responsabilidade exclusiva do réu pelo evento danoso, julgou improcedente o pedido inicial em razão da ausência de provas dos danos, sua extensão e respectiva repercussão.
+A análise dos autos está a demonstrar, no entanto, que os autores formularam, em sua peça inicial, pedido expresso de realização de prova pericial, apresentando, inclusive, em anexo, os respectivos quesitos, atinentes às lesões corporais decorrentes do acidente e suas consequências (mov. 1.1), o mesmo ocorrendo na contestação apresentada pelo réu (mov. 1.5).
+No despacho inaugural, o juiz da causa imprimiu ao processo o rito sumário (mov. 1.1 - fl. 51), sendo que, na sequência, determinou fosse retirada da pauta a audiência já designada, mediante intimação do réu para apresentar contestação no prazo legal (mov. 1.4).
+Ato continuo, após a audiência de conciliação (que restou infrutífera - mov. 1.3 -fl. 87), o juiz, ao sanear o processo, consignou o seguinte:
+"Embora os autores tenham requerido a produção de prova pericial, por ora, se faz desnecessário tal pleito. Isso porque, pelo que consta no documento de fls. 45, o primeiro autor é segurado do INSS, por esta razão, a perícia realizada perante aquela Autarquia (INSS) poderá ser aproveitada nesta demanda.
+Nada impede que, sendo verificado que necessário esclarecimento posterior, este seja procedido, inclusive com nova perícia, o que se poderá analisar após o encerramento da oitiva de testemunhas e apresentação do laudo pelo INSS" (sic, mov. 1.5 - fl. 130).
+Contudo, realizada a audiência de instrução (mov. 1.6 -fl. 146 e mov. 42.1), sobreveio a sentença ora recorrida, que julgou improcedente o pedido inicial por ausência de prova dos danos sofridos pelos autores.
+Como é fácil constatar, a não realização da prova pericial, propugnada por ambas as partes, acabou por se revelar o fator determinante para o indeferimento do pedido inicial, caracterizando, portanto, inegável cerceamento de defesa.
+Tratando do tema, o Superior Tribunal de Justiça já se pronunciou no sentido de que as nulidades decorrentes da não produção de provas somente podem ser declaradas quando comprovado o dano advindo da negativa.
+A propósito, daquela Corte Superior:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CERCEAMENTO DE DEFESA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. NULIDADE. DEMONSTRAÇÃO DO PREJUÍZO. NÃO OCORRÊNCIA. CORREÇÃO MONETÁRIA. TERMO INICIAL. 1. (..) 2. A declaração da nulidade dos atos processuais depende da demonstração da existência de prejuízo à parte interessada ("pas de nullité sans grier). 3. (..) 5. AGRAVO REGIMENTAL DESPROVIDO. (STJ - Agravo Regimental no Recurso Especial 1392308/SC, Rel. Min. Paulo de Tarso Sanseverino, 3" Turma, julgado em 24/03/2015, DJe 30/03/2015).
+Resulta evidente a existência de efetivo prejuízo à parte autora que, sem ter a oportunidade de produzir prova amplamente requerida, viu, ao cabo, sua pretensão julgada improcedente.
+Há, portanto, claro cerceamento de defesa, devendo a sentença ser declarada nula, com o retorno dos autos ao Juízo de origem para a necessária instrução probatória.
+O acórdão firmou o entendimento de que os recorridos requereram a produção da prova pericial à época do ajuizamento da ação, tendo esta sido indeferida pelo Juízo primevo.
+Ocorre, todavia, que, nas razões do apelo extremo, tal questão não foi sobejamente abordada e discutida, limitando-se o recorrente a afirmar que ocorreu a preclusão temporal, aduzindo como violados os arts. 333, I, 473 e 543 do Código de Processo Civil/1973, o que atrai a incidência da Súmula 283 /STF a obstar o conhecimento do recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 200,00 (duzentos reais), observadas as regras da Justiça Gratuita.
+Publique-se.
