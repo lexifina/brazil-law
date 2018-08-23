@@ -1,0 +1,65 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO. MARCO DO INÍCIO DA CONTAGEM DO PRAZO. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE REDUÇÃO. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A violação do art. 1.022 do Código de Processo Civil de 2015 não ficou configurada, tendo em conta que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia.
+2. Descabe a esta Corte Superior apreciar os documentos, fatos e provas que levaram as instâncias ordinárias a determinado entendimento, ante a proibição de se rever o suporte fático-probatório dos autos. Incidência das Súmulas 5 e 7/STJ.
+3. Ressalvadas hipóteses de notória exorbitância ou manifesta insignificância, os honorários advocatícios fixados por critério de equidade (CPC/1973, art. 20, § 4º) não se submetem a controle por via de recurso especial, já que isso demandaria reexame de matéria fática (Súmula 7/STJ).
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por VONPAR REFRESCOS S.A. contra decisão desta relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, assim ementada (e-STJ, fl. 584):
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRESCRIÇÃO. MARCO DO INÍCIO DA CONTAGEM DO PRAZO. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE REDUÇÃO. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL DE VONPAR REFRESCOS S.A. E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do recurso (e-STJ, fls. 598-609), a agravante alega que não incidem os óbices invocados na decisão recorrida. Sustenta que o entendimento expresso para fundamentar a aplicação da Súmula 83/STJ está superado.
+Impugnação não apresentada (e-STJ, fls. 613-622).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+Conforme foi consignado na decisão agravada, apesar de rejeitados os embargos de declaração, a matéria em exame foi suficientemente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitados pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Os fundamentos utilizados pelo acórdão recorrido - no sentido de que a violação do direito ocorreu bem antes da data prevista para o término do contrato, fundamentando o acórdão no argumento de que as condições que caracterizam a violação do direito - teriam se implementado em conformidade com os fatos narrados e provas apresentadas.
+O próprio autor na inicial, apesar de não citar datas, afirma a violação do direito (e-STJ, fl. 3):
+Ocorre que antes do término da vigência contratual, sem que tivesse sido atingida a meta, o estabelecimento do primeiro demandado foi fechado. Tal violação contratual, nos termos da cláusula décima terceira, é justo motivo de rescisão contratual pela Autora, e, cumulada a causa de rescisão com a ausência de cumprimento da meta de vendas pelo contratado, tem-se a necessidade de devolução dos valores adiantados pela Demandante em contraprestação à comercialização da quantidade de produtos definidas. É a previsão do parágrafo primeiro da referida cláusula décima terceira.
+Assim, correta a aplicação das Súmulas n. 5, 7 e 83 deste Tribunal ao caso, posto que o termo inicial da prescrição segue a teoria da actio nata. Ademais, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local quanto à data em que a violação do direito teria ocorrido implicaria na análise de cláusulas contratuais e no reexame do conjunto fático-probatório.
+No que concerne aos honorários de sucumbência e o argumento de que esta seria excessiva, vale destacar que não ficou demonstrada a excessividade para causas do mesmo tipo, nem ficou delineada a similitude entre a ementa apresentada e o caso em deslinde.
+Assim, deve ser mantido o entendimento delineado na decisão combatida.
+A propósito, seguem os fundamentos da decisão monocrática ora agravada:
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 318-321):
+No caso dos autos, as partes celebraram contrato de parceria comercial em 22/01/2004.
+A cláusula sexta dispôs que "o prazo do presente ajuste será de 36 (trinta e seis) meses, com início em 15 de janeiro de 2004 e término em 15 de janeiro de 2007, independentemente de aviso/interpelação".
+De outro lado, a cláusula segunda, parágrafo único, consignou que "na hipótese da CONTRATADA atingir a meta descrita no caput em sua totalidade, antes do término do prazo de vigência, o presente contrato será resolvido".
+Ainda, a cláusula décima -terceira prevê que a violação de qualquer cláusula bem como a prática de atos incompatíveis com o contrato, tais como e não exclusivamente a quebra de exclusividade, fechamento do estabelecimento, bem como o inadimplemento das compras realizadas pela CONTRATADA, representarão justo motivo para rescisão.
+Ocorrendo a rescisão, antes do término do período de vigência do contrato, de acordo com o parágrafo primeiro da cláusula décima -terceira, sem que tenha ocorrido o cumprimento da meta de compra de produtos estabelecida, a CONTRATADA deverá proceder na devolução do valor recebido (em espécie e/ou em produtos) discriminado no Anexo I, na proporcionalidade do volume faltante para cumprimento da meta, valor este devidamente corrigido monetariamente pelo IGP-M da FGV ou outro índice que vier a substituí-lo, acrescido de multa de 10% sobre o valor a ser restituído e juros de mora de 1% ao mês. O cálculo do valor a ser devolvido será elaborado com base na tabela vigente da Vonpar, à época da rescisão (parágrafo segundo da cláusula -terceira).
+Nesse sentido, a causa de rescisão do contrato está amparada na alegação do fechamento do estabelecimento sem que tivesse sido atingida a meta.
+No caso dos autos, não havia previsão de que, não atingida a meta, poderia haver a prorrogação do contrato, automaticamente, até que se procedesse no cumprimento da meta pré -estabelecida. Portanto, o marco final para análise de prescrição seria a data ajustada para o término do contrato, isto é, 15 de janeiro de 2007.
+contratual que enseja rescisão da avença, o prazo deve ter seu início a partir do momento em que ocorreu a violação do direito.
+De acordo com o art. 189 do Código Civil:
+"violado o direito, nasce para o titular a pretensão, a qual se extingue, pela prescrição, nos prazos a que aludem os arts. 205 e 206." Destarte, a pretensão do credor, portanto, nasce da violação do direito, e esta, ao meu sentir, deve ser considerada como verificada um mês após a última compra efetivada pela CONTRATADA, vez que, de acordo com a tabela de fl. 26, as bonificações eram feitas de forma mensal, e a última aquisição dos produtos se deu em data de 19/08/2005 (NF 340587).
+Assim, tenho que o prazo prescricional, quinquenal, tem seu início de contagem a partir de 19/09/2005.
+Com efeito, o prazo prescricional à pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular é o quinquenal previsto no art. 206, § 5º, I do CC.
+A ação foi ajuizada em 27 de abril de 2011 (fl. 02).
+Logo, a pretensão da parte autora restou fulminada pela prescrição.
+(..)
+Para a apreciação equitativa do juiz, serão considerados os ditames contidos nas alíneas "a", "b" e "c" do §3º do CPC, em combinação com o §4º, de modo que a verba honorária será estabelecida após a análise do grau de zelo empregado pelo advogado da parte beneficiada com os honorários, da natureza e da importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+No caso em apreço, em que pese a simplicidade da causa, entendo que os honorários foram fixados em patamar ínfimo, merecendo, pois, majoração para R$ 10.000,00, valor este que se afigura mais condizente com o trabalho realizado pelo advogado e o tempo de tramitação do feito.
+Cumpre asseverar que o acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão da recorrente, não havendo, portanto, omissão ou erro material ensejadores de oposição de embargos de declaração, pelo que deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+Quanto à alegação de que a contagem do prazo prescricional deveria iniciar-se na data prevista para o término do contrato, pois seria aí a violação do direito, vale destacar que o acórdão recorrido analisou os fatos e as provas constantes dos autos e as cláusulas contratuais, concluindo que a violação do direito ocorreu bem antes da data prevista para término do contrato. O próprio autor na inicial, apesar de não citar datas, afirma a violação do direito (e-STJ, fl. 3):
+Ocorre que antes do término da vigência contratual, sem que tivesse sido atingida a meta, o estabelecimento do primeiro demandado foi fechado. Tal violação contratual, nos termos da cláusula décima terceira, é justo motivo de rescisão contratual pela Autora, e, cumulada a causa de rescisão com a ausência de cumprimento da meta de vendas pelo contratado, tem-se a necessidade de devolução dos valores adiantados pela Demandante em contraprestação à comercialização da quantidade de produtos definidas. É a previsão do parágrafo primeiro da referida cláusula décima terceira.
+O Tribunal estadual entendeu que a pretensão do credor nasce com a violação do direito e que este teria sido infringido 1 (um) mês após a última compra efetivada pela empresa, por serem as bonificações feitas de forma mensal, momento em que a empresa teria descumprindo cláusula contratual que ensejaria rescisão da avença.
+Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local implicaria na análise de cláusulas contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+No que diz respeito à verba honorária, depreende-se que o Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos. Assim, a alteração do percentual fixado encontra-se impedida, uma vez que importaria necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO INDUSTRIAL. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE MAJORAÇÃO. ARBITRAMENTO POR EQUIDADE. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Ressalvadas hipóteses de notória exorbitância ou manifesta insignificância, os honorários advocatícios fixados por critério de equidade (CPC, art. 20, § 4º) não se submetem a controle por via de recurso especial, já que tal demandaria reexame de matéria fática (Súmula 7/STJ).
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 505.199/SC, Relatora a Ministra Maria Isabel Gallotti, DJe 09/02/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA. PRETENSÃO DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão dos critérios de justiça e equidade utilizados pelas instâncias ordinárias para fixação da verba honorária, ressalvadas as hipóteses excepcionais de valor irrisório ou excessivo, depende da reapreciação dos elementos fático-probatórios do caso concreto, o que esbarra no óbice da Súmula 7/STJ. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 606.268/PR, Relator o Ministro Mauro Campbell Marques, DJe 15/12/2014)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial interposto por VONPAR REFRESCOS S.A. e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 200,00 (duzentos reais).
+Publique-se.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
