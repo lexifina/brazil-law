@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA E DEVER DE RESTITUIÇÃO DOS VALORES PAGOS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por LPS BRASIL CONSULTORIA DE IMÓVEIS S.A. E OUTRA contra a decisão de fl. 699 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 612, e-STJ):
+Rescisão de contrato de compra e venda de imóvel - Direito do Consumidor - Sentença de parcial procedência para determinar a restituição da taxa SATI e de 80% das parcelas anuídas a título do preço.
+Apelação das empresas de corretagem e assessoria técnico-imobiliária - ilegitimidade passiva ad causam repelida - existência de relação jurídica entre as partes - responsabilidade solidária por força do código de defesa do consumidor.
+Apelação da incorporadora - Valor de retenção correspondente a 20% do valor pago compatível com a análise do caso sub judice percentual capaz de abranger a taxa de 10% de despesas administrativas e da multa compensatória de igual magnitude valor que se coaduna ao parâmetro entre 10 e 25% adotado pelo C. STJ necessidade de restabelecimento ao status quo ante - inteligência das Súmulas nº. 1, 2 e 3 deste E.
+Tribunal Correção monetária que deve incidir a partir dos desembolsos, pois se trata de mera reposição do valor real da moeda. Juros de mora a partir da citação.
+Honorários recursais arbitrados com preceptivo no art. 85, § 11 do CPC/15 Recursos de apelação desprovidos.
+Nas razões do recurso especial (e-STJ, fls. 629-641), fundado em dissídio jurisprudencial, as insurgentes alegaram que o acórdão impugnado incorreu em violação dos arts. 186 e 927 do Código Civil de 2002.
+Sustentaram, em suma: (i) não haver cometido nenhum ato ilícito a ensejar sua condenação ao ressarcimento dos valores pagos pelos consumidores em razão da rescisão contratual; e (ii) não possuir responsabilidade pela rescisão contratual operada, tendo em vista não ter relação societária com as demais empresas constantes da presente lide, e ainda que suas ações limitaram-se ao fornecimento de serviços de intermediação e assessoria técnico-imobiliária (corretagem).
+A Corte de origem deixou de admitir o recurso especial em razão de o dissídio alegado não ter sido comprovado nos termos exigidos pelo art. 1.029 do CPC/2015, ante a ausência de similitude fática entre os acórdãos colacionados.
+Irresignadas (fls. 702-714, e-STJ), argumentam as agravantes que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 717-729 (e-STJ).
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na hipótese ora em foco, o Tribunal de origem, com base no contexto fático-probatório dos autos, considerou devida a restituição de 80% dos valores pagos pelos consumidores, decorrente de rescisão contratual e afastou a preliminar de ilegitimidade ativa da recorrida, nos seguintes termos (e-STJ, fls. 617, 620-625):
+(..)
+O instrumento de promessa de venda e compra da unidade autônoma juntado às fls. 59/64 evidencia que o contrato foi estipulado tão somente entre a promissária vendedora Dracena 1081 Empreendimentos e a promissária compradora [NOME]. Entretanto, tendo em vista que o objeto da ação englobou a discussão de valores direcionados à construtora e assessora técnico-imobiliária (Taxa de Corretagem e Taxa SATI), não há que se falar em extinção do processo sem resolução do mérito concernente a estas apelantes. Ademais, tratando-se de relação tipicamente consumerista, com consumidores (artigo 2º, caput, do CDC) e fornecedores (artigo 3º, caput, do CDC) bem delineados, nítida se faz ao caso a aplicação do Código de Defesa do Consumidor.
+Assim, o simples fato de LPS Brasil e For You Assessoria se enquadrarem na condição de fornecedoras já imprime a estas pessoas jurídicas a responsabilidade solidária.
+Afasto, pois, a preliminar de ilegitimidade passiva ad causam de LPS Brasil e For You, eis que efetivamente integram a cadeia de fornecedores.
+(..)
+Ab initio, necessário frisar que a rescisão contratual deu-se por desinteresse da promitente compradora na mantença do negócio, conforme se vislumbra às fls. 4 da prefacial, inocorrendo qualquer inadimplemento. Deste modo, deve ser assegurado à consumidora o retorno ao status quo ante, ocasião em que o comprador devolve a coisa e o vendedor o preço, conforme estatui o entendimento sumulado deste E. Tribunal
+(..)
+Deste modo, admitido o dever de restituir, a questão se restringe ao percentual a ser retido, o qual deve ser analisado de acordo com o caso concreto. Em caso de culpa do vendedor, a restituição deve se dar integralmente, sem qualquer retenção. Mas não é o caso em tela, já que a rescisão foi pleiteada pela parte que vislumbrou desinteresse superveniente na mantença do contrato.
+(..)
+Quanto ao valor a ser descontado para a devolução do valor pago, o E. Superior Tribunal de Justiça tem adotado como parâmetro a porcentagem de retenção entre 10% e 25% sobre o valor pago:
+(..)
+A retenção de 20% sobre o valor pago, deste modo, revela-se condizente com o parâmetro do A. STJ, e com o caso concreto sub judice, necessário para ressarcir as despesas administrativas previstas no contrato à taxa de 10% (dez por cento) e a multa compensatória de igual magnitude. Os incisos b, c, d e f, da cláusula VIII, tangente às contribuições ao PIS, COFINS, demais impostos e despesas não foram comprovados pela vendedora, motivo pelo qual não devem fazer parte do valor retido. Ademais, no caso, a autora sequer teve a posse da unidade objeto do instrumento de venda e compra, que poderia ser comercializada novamente, afastando prejuízo adicionais, conforme bem delineado pela Exma. [NOME] a quo na concessão da tutela antecipada de fls. 147:
+(..)
+Postas tais premissas, por meu voto, NEGO PROVIMENTO aos recursos de apelação para manter a sentença que declarou rescindido o contrato celebrado entre as partes e condenou as rés, solidariamente, a restituírem à autora a taxa SATI, bem como 80% (oitenta por cento) do valor pago a título de preço (Sem grifos no original).
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Impende registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Corrobora esse entendimento o seguinte julgado:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. MANUTENÇÃO INDEVIDA DE GRAVAME. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL.
+INEXISTÊNCIA DE SIMILITUDE.
+1. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+2. Tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+3. Agravo regimental desprovido (AgRg no AREsp n 794.875/RS, Relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 3/12/2015, DJe 10/12/2015).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 1% do valor da condenação.
+Publique-se.
