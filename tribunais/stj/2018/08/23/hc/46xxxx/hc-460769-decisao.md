@@ -1,0 +1,19 @@
+DECISÃO
+LUÃ CAVALCANTE SANTOS alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo n. 0002213-71.2018.8.26.0026.
+A Defensoria Pública argumenta que "a data base para a progressão ao regime aberto deve ser a data em que o paciente preencheu o lapso temporal para a progressão ao regime semiaberto, independentemente da data da decisão judicial que deferiu o benefício, tendo em vista seu caráter declaratório" (fl. 3).
+Requer a retificação dos cálculos penais.
+Deferida a liminar, os autos foram encaminhados ao Ministério Público Federal, que opinou pela concessão da ordem.
+Decido.
+Confira-se a ementa do aresto impugnado, que bem sintetiza a controvérsia:
+Agravo em Execução - R. decisão que homologou cálculo e consignou que o marco inicial para a progressão ao regime aberto é a data em que foi concedido o regime semiaberto - Pleito defensivo buscando a reforma da r. decisão prolatada - Alegação de que o cálculo para fins de progressão de regime deve ser feito tomando como data-base o dia do preenchimento do lapso temporal para a progressão ao regime semiaberto, não importando a data da decisão que concedeu a benesse - Impossibilidade - A data a ser considerada como início da contagem do prazo para a progressão ao regime aberto é mesmo aquela em que houve a r. decisão de concessão da progressão ao regime semiaberto - Ar. decisão que concede a progressão de regime não é meramente declaratória - Eventual progressão por saltos - Óbice previsto na súmula nº 491, do C. STJ - Precedentes desta C. Câmara - Observância ao princípio in dubio pro Societate, preponderante durante a fase de execução da pena - R. decisão que não comporta reparos - Recurso desprovido.
+O writ comporta solução por decisão monocrática, uma vez que existe jurisprudência pacífica sobre o tema. Este Superior Tribunal é firme em assinalar que a data-base para subsequente progressão de regime é aquela em que o reeducando preencheu os requisitos objetivo e subjetivo do art. 112 da Lei de Execução Penal.
+Prevalece o entendimento já adotado pelo Supremo Tribunal, de que a decisão que defere a progressão de regime é declaratória, e não constitutiva. Não se pode desconsiderar, em prejuízo do sentenciado, o período em que permaneceu cumprindo pena enquanto o Judiciário analisava seu requerimento de progressão.
+Ilustrativamente:
+ ..  A Quinta Turma do Superior Tribunal de Justiça - STJ, acompanhando o posicionamento adotado pela Suprema Corte no HC n. 115.254, Relator o Ministro Gilmar Mendes, modificou seu entendimento no sentido de que, nos casos em que houver excesso de prazo na apreciação do pedido de progressão de regime prisional, a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal, e não a data da efetiva inserção do reeducando no atual regime (AgRg no REsp 1.582.285/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/08/2016).
+ ..
+(HC n. 449.221/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 29/6/2018).
+3. Flagrante ilegalidade. A data-base para subsequente progressão de regime é aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das execuções deferiu o benefício.
+4. Agravo regimental improvido. Ordem concedida de ofício a fim de determinar o retorno dos autos ao Tribunal de origem para considerar a data-base para progressão de regime a data de implementação dos requisitos.
+(AgRg no REsp n. 1721008/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 6/6/2018).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus para fixar a data em que o apenado cumpriu os requisitos objetivo e subjetivo para a promoção ao regime semiaberto como termo a quo a ser observado em futuro pedido de progressão de regime.
+Publique-se e intime-se.
