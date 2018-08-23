@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de pedido formulado em benefício de ALESSANDRO [NOME], contra decisão proferida às e-STJ fls. 182/187, por meio da qual rejeitei os embargos de declaração opostos anteriormente, mediante os seguintes fundamentos (e-STJ fls. 184/187):
+Preliminarmente, recebo o presente pedido como embargos de declaração.
+No entanto, o recurso não merece prosperar.
+É que, como é cediço, os embargos de declaração, nos termos do artigo 619 do Código de Processo Penal, dirigem-se à correção de defeitos na mensagem do julgador, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, situação não evidenciada no caso em análise.
+Essa é a vocação legal dos aclaratórios, sempre enfatizada nos precedentes desta Corte, como se percebe o aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados.
+(EDcl na APn 613/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 03/02/2016)
+Acerca do vício da omissão, o vaticínio da doutrina aponta na seguinte direção:
+A omissão configura-se quando o juízo ou tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou cognoscíveis de ofício; ou quando não se manifesta sobre algum tópico da matéria submetida à sua apreciação, inclusive quanto ao ponto acessório, como seria o caso da condenação em despesas processuais. Mas inexiste omissão suprível por embargos de declaração quando se trata de matéria cuja apreciação dependia de provocação da parte, que não ocorreu. (GRINOVER, [NOME]. [NOME]. Antonio Scarance FERNANDES. Recursos no processo penal: teoria geral dos recursos, recursos em espécie, ações de impugnação, reclamação aos tribunais. 5. ed. rev. atual. e ampl. São Paulo: Editora Revista dos Tribunais, 2008, p. 228)
+Nesse contexto, o texto da decisão embargada é suficiente à sua compreensão, inexistindo qualquer omissão a ser sanada, já que o julgado decidiu a controvérsia de modo fundamentado, abordando todos os tópicos suscitados pela defesa, porém de forma contrária aos seus interesses.
+No mais, cumpre frisar que o pleito referente ao reconhecimento de eventual prazo em dobro de defensor dativo para recorrer não pode ser conhecido, por constituir verdadeira inovação recursal, porquanto tal controvérsia nem sequer foi levantada na petição inicial do habeas corpus.
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+1. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos. Ademais, nos termos da jurisprudência deste Tribunal Superior, a ampliação da quaestio no âmbito dos embargos de declaração representa descabida inovação recursal.
+2. Assinale-se que "eventual ocorrência da prescrição da pretensão executória deve ser avaliada, primeiro, pelo Juízo das execuções, dadas as peculiaridades que envolvem o instituto" (AgRg nos EREsp n. 1030490/DF, rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 10/5/2017, DJe 15/5/2017).
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1310146/PE, de minha relatoria, SEXTA TURMA, julgado em 19/06/2018, DJe 01/08/2018, grifei)
+De qualquer forma, ainda que assim não fosse, cumpre ressaltar que, "Consoante orientação desta Corte Superior, o defensor dativo, por não integrar o quadro estatal de assistência judiciária, não dispõe da prerrogativa de prazo em dobro para recorrer, como ocorre com os defensores públicos" (AgRg no AREsp n. 1130826/SP, rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 1º/3/2018, DJe 12/3/2018).
+Por último, no que se refere à alegada ausência de manifestação quanto ao pedido de reconhecimento de eventual prevenção do Ministro Felix Fischer para julgamento do presente habeas corpus, em virtude de decisão proferida nos autos do HC n. 357.162/SP, assevero que, formulada consulta à Sua Excelência, foi negada a prevenção, em despacho proferido à e-STJ fl. 161, cujo teor colaciono a seguir:
+Consulta o em. Ministro Antonio Saldanha Palheiro, à fl. 161, acerca de eventual prevenção para análise do presente habeas corpus, em virtude da análise da medida de urgência do HC n. 357.162/SP.
+Verifico, em consulta aos assentamentos desta Corte, que a distribuição do HC nº 354.069/SP ocorreu em 07/04/2016 ao em. Ministro Antonio Saldanha Palheiro. Por outro lado, o HC nº 357.162/SP apenas foi distribuído à Quinta Turma desta Corte, sob a minha relatoria, em 10/05/2016.
+Com efeito, nos termos do caput do art. 71 do RISTJ, a distribuição do habeas corpus torna preventa a competência do relator.
+Ante o exposto, com a devida venia do em. Ministro Antonio Saldanha Palheiro, não aceito a prevenção.
+Não se verifica, portanto, nenhum vício na decisão aqui embargada, de modo que o não acolhimento dos embargos de declaração é medida que se impõe.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+Nesta oportunidade, o requerente reitera as razões lançadas no recurso de e-STJ fls. 173/177, sustentando a existência de omissão na referida decisão, pela inexistência de manifestação quanto à ausência de publicação do despacho por meio do qual o Min. Felix Fischer não reconheceu a prevenção para o julgamento do presente writ - e-STJ fl. 164 -, bem como quanto à possibilidade de estabelecimento de prazo em dobro para o defensor dativo recorrer.
+É o relatório.
+O pedido não comporta deferimento.
+Inicialmente, assevero, tal como ressaltei na decisão ora objurgada, que, consoante a orientação desta Corte Superior, o defensor dativo, por não integrar o quadro estatal de assistência judiciária, não dispõe da prerrogativa de prazo em dobro para recorrer, como ocorre com os defensores públicos.
+Ademais, tal controvérsia nem sequer fora deduzida nas razões da inicial do writ, o que impediu maiores considerações acerca do tema na decisão objurgada, por constituir verdadeira inovação recursal.
+Lado outro, melhor sorte não socorre o requerente quanto à alegação de prevenção do Min. Felix Fischer para análise do presente writ, uma vez que, consoante consta do despacho proferido por Sua Excelência, à e-STJ fl. 164, "a distribuição do HC nº 354.069/SP ocorreu em 07/04/2016 ao em. Ministro Antonio Saldanha Palheiro", sendo que "o HC nº 357.162/SP apenas foi distribuído à Quinta Turma desta Corte, sob a minha relatoria, em 10/05/2016".
+Com efeito, nos termos do art. 71 do Regimento Interno do Superior Tribunal de Justiça, "A distribuição da ação, do recurso ou do incidente torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo, inclusive na fase de cumprimento de decisão".
+Tendo o presente writ, portanto, sido distribuído anteriormente ao habeas corpus acerca do qual aduz-se a prevenção de outro ministro, revela-se manifestamente descabida a pretensão deduzida de reconhecimento de nulidade da decisão proferida às e-STJ fls. 166/168, ao argumento de que não houve publicação do despacho que não reconheceu a alegada prevenção.
+Como quer que seja, tratando-se de mero despacho proferido em consulta de prevenção, não há que se falar em necessidade de publicação e consequente cabimento de agravo regimental, haja vista o disposto no art. 258 do Regimento Interno desta Corte, o qual dispõe que "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+Assim, é manifesta a improcedência do presente pedido, revelando-se a insurgência como mera irresignação diante do resultado do julgamento.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
