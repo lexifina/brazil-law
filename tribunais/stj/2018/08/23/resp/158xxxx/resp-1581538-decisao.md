@@ -1,0 +1,22 @@
+DECISÃO
+ Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM CONFLITO NEGATIVO INTERPOSTO PELO MINISTÉRIO PÚBLICO EM FACE DE DECISUM MONOCRÁTICO DESTA RELATORIA. ILEGITIMIDADE RECURSAL DO AGRAVANTE CARACTERIZADA. AUSÊNCIA DE MANEJO DE EXCEÇÃO DECLINATÓRIA DE FORO PELO DEMANDADO. ÓRGÃO MINISTERIAL, NA CONDIÇÃO DE CUSTOS LEGIS, NÃO REVESTIDO DE LEGITIMAÇÃO RECURSAL. SUSCITAÇÃO DE OFÍCIO. PRELIMINAR ACOLHIDA. ORIENTAÇÃO PACIFICADA NO PLENÁRIO DESTA CORTE.
+AGRAVO NÃO CONHECIDO." (e-STJ,fl. 123)
+Em suas razões recursais, a recorrente aponta violação do art. 499, §2º, do CPC/73, sustentando, em síntese, que o Ministério Público tem legitimidade para recorrer nas demandas em que atua como fiscal da lei.
+Não foram apresentadas contrarrazões.
+O MPF opinou pelo provimento do recurso especial (e-STJ, fls. 159/162).
+É o relatório. Passo a decidir.
+O Tribunal de origem concluiu que o Ministério Público não teria legitimidade para interpor recurso em conflito de competência suscitado com fundamento em incompetência relativa se a ré não opôs exceção de incompetência.
+No entanto, é assente o entendimento de que o Ministério Público tem legitimidade para interpor recurso nas demandas em que atue como fiscal da lei, ainda que haja recurso interposto pela parte, nos termos da Súmula 99/STJ. Confira-se:
+"PROCESSUAL CIVIL. MINISTÉRIO PÚBLICO. INTERVENÇÃO. FISCAL DA LEI (ART. 82, III, e 83 DO CPC). EMISSÃO DE PARECER. FALTA DE INTIMAÇÃO DOS ATOS PROCESSUAIS SUBSEQUENTES. NULIDADE. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. PREJUÍZO CONSTATADO. SÚMULA 99/STJ.
+1. Cuidam os autos de ação rescisória ajuizada pelo Estado da Bahia em que o Tribunal a quo, no exercício da competência originária, intimou o Ministério Público como custos legis, o qual emitiu parecer pela procedência da ação.
+2. Alega o agravante nulidade processual por falta da intimação do Ministério Público dos atos processuais subsequentes à emissão do parecer, à luz do art. 83, inciso I, do CPC.
+3. A jurisprudência desta Corte se cristalizou no sentido e que a ausência de intimação do Ministério Público, por si só, não enseja a decretação de nulidade do julgado, a não ser que se demonstre o efetivo prejuízo às partes ou para apuração da verdade substancial da controvérsia jurídica, à luz do princípio pas de nullité sans grief.
+4. Se em primeiro momento foi reconhecido pelo Tribunal de origem a indispensabilidade de atuação do Ministério Público como fiscal da lei, ocasião em que emitiu opinião pela procedência da ação rescisória, este não pode, a posteriori, sonegar a continuidade da intervenção do Parquet, deixando-o de intimá-lo dos atos subsequentes, sobretudo quando, ao apreciar os embargos infringentes, o órgão julgador modifica in totum o acórdão embargado para estabelecer a improcedência da ação.
+5. Verificado o prejuízo ensejador na nulidade, uma vez que ao fiscal da lei foi omitida a oportunidade de recorrer, o que fere o ditame contido na Súmula 99/STJ, "o Ministério Público tem legitimidade para recorrer no processo em que oficiou como fiscal da lei, ainda que haja recurso da parte".
+Agravo regimental parcialmente provido para conhecer do agravo e dar provimento ao recurso especial, para declarar a nulidade do feito após o acórdão que julgou os embargos infringentes."
+(AgRg no AREsp 235.365/BA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/11/2013, DJe 16/12/2013)
+Dessarte, com fundamento na Súmula 568/STJ, merece reforma o acórdão recorrido, em virtude de seu dissenso com o entendimento do STJ.
+Frise-se, ainda, que a legitimidade recursal do Ministério Público para interpor recurso não se confunde com o mérito do conflito de competência suscitado na origem, visto que aquela configura pressuposto recursal e decorre da circunstância de o Parquet atuar como custos legis por determinação legal, cabendo ao Tribunal de origem prosseguir no julgamento do conflito.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para reconhecer a legitimidade recursal do Ministério Público e determinar a remessa dos autos ao Tribunal de origem para que prossiga no julgamento do agravo regimental por ele interposto.
+Publique-se.
