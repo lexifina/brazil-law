@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno, interposto pela ICATU SEGUROS S/A, contra decisão monocrática desta Relatoria, a qual conheceu do agravo para dar provimento ao recurso especial, interposto pela agravada, a fim de reconhecer o direito da autora ao recebimento da indenização securitária.
+A agravante, em suas razões recursais, pugna pelo não reconhecimento do direito ao recebimento da indenização securitária pela parte autora, visto que o aresto recorrido, levando-se em consideração os elementos fático-probatório dos autos, reconheceu a ausência de boa fé da segurada, sendo que a inversão de tais premissas encontra óbice no enunciado 7/STJ.
+Aduz, ainda, que, caso mantida a decisão agravada, a correção monetária deve incidir a partir da data do ajuizamento da ação, ou, alternativamente, a partir da data de negativa de pagamento, e, os juros moratórios, desde a citação.
+Devidamente intimada, a agravada apresentou impugnação às fls. 549-554.
+É o relatório.
+Afiguram-se-me relevantes as alegações, e com base no art. 259 do RISTJ, reconsidero a decisão hostilizada.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. SEGUROS. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO DE VIDA. INVALIDEZ PERMANENTE. DOENÇA PREEXISTENTE. TRANSTORNO AFETIVO BIPOLAR. PATOLOGIA QUE CAUSOU A INTERDIÇÃO DA SEGURADA E POR CONSEQUÊNCIA A INVALIDEZ. DIAGNÓSTICO ANTERIOR A ASSINATURA DA PROPOSTA DE SEGURO. PRESUNÇÃO DE BOA-FÉ AFASTADA NO CASO CONCRETO. PROVA DOCUMENTAL. OMISSÃO CONSCIENTE NO PREENCHIMENTO DA PROPOSTA. DEVER DE INDENIZAR NÃO CONFIGURADO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. Trata-se de recurso de apelação interposto contra a sentença de improcedência de ação de cobrança de seguro de vida com cobertura para invalidez permanente. A parte autora, representada por sua curadora, insurge-se contra a negativa de pagamento da indenização securitária, fundada na alegação de que a doença que causou a invalidez da segurada (esquizofrenia) seria preexistente à contratação. Não obstante a parte ré tenha deixado de adotar qualquer cautela ao contratar, pois não realizou exames prévios na segurada, no caso em concreto, a vasta prova documental coligida ao feito conduz ao afastamento da presunção de boa-fé, comumentemente, aplicada nas demandas que discutem negativa de pagamento de seguro por doença preexistente. In casu, considerando que o contrato de seguro foi celebrado em 30.03.2005 e a doença que causou levou à interdição da parte autora e, por consequência, à invalidez, qual seja, transtorno afetivo bipolar, foi diagnosticada em 22.10.2002, resta afastada a presunção de boa-fé, comumentemente, aplicada nas demandas que discutem negativa de pagamento de seguro por doença preexistente. Restou demonstrado nos autos que a segurada omitiu conscientemente que sofria de transtorno afetivo bipolar quando da assinatura da proposta, patologia que, posteriormente, foi causa da decretação da interdição e do reconhecimento da invalidez. Sendo assim, imperiosa se mostra a manutenção do juízo de improcedência desta ação de cobrança, desprovendo-se a apelação. APELAÇÃO DESPROVIDA." (fls. 353-354)
+Os embargos de declaração restaram rejeitados.
+Nas razões do recurso especial, a agravada apontou violação aos artigos 422, 757, 765, 768 do Código Civil, 51, IV e XI, 54, § 4º, do CDC, 333, II, do CPC/73, sustentando, em síntese, fazer jus ao prêmio do seguro contratado, porquanto a seguradora aceita o risco quando pactua contrato de seguro sem a determinação de exames prévios, comprobatórios do estado de saúde do segurado, como no caso em comento, além de que a má-fé não pode ser presumida, pelo contrário, deve ser comprovada, o que não ocorreu na hipótese.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Com efeito, a jurisprudência do STJ é firme no sentido de que é lícita a recusa de cobertura securitária, por motivo de doença preexistente à celebração do contrato, se comprovada a má-fé do segurado, hipótese que não depende da exigência pela seguradora de exames prévios à contratação. Confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DEMANDA POSTULANDO O PAGAMENTO DE INDENIZAÇÃO PREVISTA EM CONTRATO DE SEGURO DE VIDA - NEGATIVA DE PAGAMENTO DO PRÊMIO PELA GARANTIDORA, EM RAZÃO DE ALEGAÇÃO DE DOENÇA PREEXISTENTE - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO APELO EXTREMO.
+INSURGÊNCIA DO AUTOR.
+1. "O Superior Tribunal de Justiça possui entendimento no sentido de que é lícita a recusa da cobertura securitária, sob a alegação de doença preexistente à contratação do seguro, se comprovada a má-fé do segurado." (Cf. AgRg no AREsp 704.606/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/06/2015, DJe 26/06/2015).
+2. A revisão da conclusão a que chegou o Tribunal de origem, acerca da configuração da má-fé do segurado, em razão da omissão de doença preexistente à contratação, é vedada no âmbito do julgamento de recurso especial, ante o óbice inserto na Súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1357593/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2017, DJe 02/05/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO. DOENÇA PREEXISTENTE. CONHECIMENTO DO SEGURADO. OMISSÃO INTENCIONAL. MÁ-FÉ DO CONTRATANTE. INEXIGÊNCIA DE PRÉVIO EXAME MÉDICO PARA SEGURADORA OPOR-SE AO PAGAMENTO DA INDENIZAÇÃO. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1 - O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+2 - O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3 - O reexame de fatos e provas em recurso especial é inadmissível.
+4 - Agravo interno no recurso especial não provido.
+(AgInt no REsp 1376986/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/11/2016, DJe 22/11/2016)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SEGURO. INVALIDEZ TOTAL E PERMANENTE. DOENÇA PREEXISTENTE. OMISSÃO CONSCIENTE DO SEGURADO.
+NEGATIVA DE COBERTURA. RECURSO NÃO PROVIDO.
+1. Quando o segurado tem ciência de doença preexistente e omite essa informação à época da contratação de seguro, torna-se legítima a recusa da seguradora à cobertura da invalidez total por essa doença.
+Precedentes.
+2. No caso, o Tribunal de origem examinou a prova dos autos para concluir que a segurado tinha ciência da preexistência de sua doença, agindo de má-fé ao contratar a proteção securitária sem informar tal situação à seguradora. Alterar esse entendimento é inviável em recurso especial (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 879.306/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/06/2016, DJe 01/08/2016)
+O Tribunal de origem, no que pertine à alegação de má-fé da segurada, expressamente consignou o seguinte:
+Portanto, pode-se concluir que no momento da contratação do seguro de vida, em 30 de março de 2005, a parte autora já padecia da doença que foi a causa de sua interdição e, por evidente, de sua invalidez, qual seja, transtorno afetivo bipolar (CID 10 F:31).
+Dessa forma, não há que se falar em presunção de boa-fé, uma vez que a vasta prova documental coligida ao feito indica omissão consciente acerca da patologia preexistente que ocasionou a invalidez da segurada por ocasião do preenchimento da proposta do seguro.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Ante o exposto, dou provimento ao agravo interno para, exercendo juízo de retratação, reconsiderar a decisão de fls. 516-518 e conhecer do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à seguradora de R$ 800,00 (oitocentos reais) para R$ 880,00 (oitocentos e oitenta reais ), observado o disposto no art. 12 da Lei nº 1.060/50, dada a eventual concessão de justiça gratuita.
+Publique-se.
