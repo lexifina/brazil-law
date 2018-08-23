@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA INES PEREIRA e OUTROS contra decisão do Presidente da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, que negou seguimento e não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fls. 559/560):
+REEXAME NECESSÁRIO. Interposição obrigatória, nos termos do art. 475, inc. I do CPC.
+DESAPROPRIAÇÃO. Indenização bem fixada. Adoção do valor apontado pelo laudo pericial. Perícia bem fundamentada. Valor mantido. Sentença mantida, neste
+aspecto.
+JUROS COMPENSATÓRIOS. Incidência da taxa de 12% ao ano (por abranger período posterior a 13.09.01), a partir do efetivo cumprimento da imissão na posse. Observância do art. 15-A do Decreto-Lei nº 3.365/41. Súmula nº 408 do STJ. Sentença mantida, neste aspecto, com observação.
+JUROS COMPENSATÓRIOS. Base de cálculo. Inclusão do depósito complementar. Diferença entre o valor total depositado para imissão, incluindo-se o depósito complementar e o valor da indenização. Sentença mantida, neste aspecto.
+JUROS COMPENSATÓRIOS. Incidência até a data da expedição do precatório original e, a partir daí, atualização do débito nos moldes do artigo 100, § 12º, da CF, com a redação da EC 62/2009. Sentença mantida, neste aspecto.
+JUROS MORATÓRIOS. Termo a quo. Incidência no patamar de 6% ao ano, com o termo inicial de acordo com o artigo 15-B do Decreto-Lei nº 3.365/41, alterado pela Medida Provisória nº 2.183-56, de 24 de agosto de 2001. São devidos no caso do art. 100 da Constituição Federal. Entendimento firmado pelo STJ ao julgar o REsp
+1.118.103/SP, sob o regime do art. 543-C do CPC. Base de cálculo. Deverá ser somado o depósito complementar com a oferta inicial da indenização, para a atualização dos juros moratórios. Sentença alterada, em parte, neste aspecto.
+INCIDÊNCIA CONJUNTA DE JUROS MORATÓRIOS E COMPENSATÓRIOS. Não há que se falar em incidência conjunta de juros moratórios e compensatórios, por se tratarem de encargos que incidem em períodos distintos.
+HONORÁRIOS ADVOCATÍCIOS. Devem ser fixados em 5% sobre a diferença entre a oferta, incluindo-se o depósito complementar atualizado e o preço, ambos corrigidos, incluindo-se os juros. Observância das súmulas 131 e 141 do STJ. Sentença alterada, cm parte, neste aspecto. Reexame necessário e recurso voluntário parcialmente providos.
+Aclaratórios foram rejeitados (e-STJ fls. 578/584).
+Opostos novos embargos de declaração, foram rejeitados com a aplicação de multa de 1% sobre o valor atualizado da causa nos termos do art. 538, parágrafo único, do Código de Processo Civil de 1973 (e-STJ fls. 591/598).
+No especial obstaculizado, os ora agravantes apontaram violação dos arts. 463, I e 538, parágrafo único, do Estatuto Processual então vigente.
+Depois de contra-arrazoado, o Tribunal de origem negou seguimento ao recurso especial, com fulcro no art. 543-C, § 7º, do CPC/1973, em relação às questões relativas ao termo inicial dos juros moratórios e à fixação de multa na embargos de declaração, por entender que o acórdão recorrido se coaduna com o entendimento firmado nos REsps 1.118.103/SP e 1.410.839/SC, julgados sob a sistemática dos recursos repetitivos.
+Quanto as demais matérias, inadmitiu o apelo nobre, por ausência de ofensa à lei federal, em face do óbice da Súmula 7 do STJ e da inobservância dos requisitos legais para demonstração do dissídio jurisprudencial. (e-STJ fls. 675/676).
+Na presente irresignação, os agravantes alegam que o recurso obstado atende aos pressupostos para a sua admissão (e-STJ fls. 693/699).
+O Ministério Público manifestou-se pelo pelo parcial provimento do recurso especial (e-STJ fls. 729/733).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, registre-se que a Corte Especial, no julgamento do AgRg no AREsp n. 260.033/PR, Relator o Ministro Raul Araújo, decidiu que, na hipótese de o Tribunal a quo negar seguimento ao apelo extremo com base no art. 543-C, § 7º, do CPC/1973, não constitui erro grosseiro a interposição do agravo previsto no art. 544 do CPC/73.
+O referido julgado guarda a seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO, NO TRIBUNAL A QUO, QUE NEGA SEGUIMENTO AO ESPECIAL COM BASE NO ART. 543-C DO CPC. INTERPOSIÇÃO DO AGRAVO DO ART. 544 DO CPC. DESCABIMENTO. ERRO GROSSEIRO. NÃO CONFIGURAÇÃO. REMESSA DO RECURSO PELO STJ À CORTE DE ORIGEM PARA APRECIAÇÃO COMO AGRAVO INTERNO. AGRAVO PROVIDO.
+1. No julgamento da Questão de Ordem no Ag 1.154.599/SP, a Corte Especial assentou o entendimento de que não cabe agravo (CPC, art. 544) contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC, podendo a parte interessada manejar agravo interno ou regimental na origem, demonstrando a especificidade do caso concreto.
+2. Entretanto, o art. 544 do CPC prevê o cabimento do agravo contra a decisão que não admite o recurso especial, sem fazer distinção acerca do fundamento utilizado para a negativa de seguimento do apelo extraordinário. O não cabimento do agravo em recurso especial, naquela hipótese, deriva de interpretação adotada por esta Corte Superior, a fim de obter a máxima efetividade da sistemática dos recursos representativos da controvérsia, implementada pela Lei 11.672/2008.
+3. Então, se equivocadamente a parte interpuser o agravo do art. 544 do CPC contra a referida decisão, por não configurar erro grosseiro, cabe ao Superior Tribunal de Justiça remeter o recurso à Corte de origem para sua apreciação como agravo interno.
+4. Agravo interno provido (DJe de 25/09/2015).
+Dessa forma, tendo em vista que o agravo em recurso especial atacou também os fundamentos que levaram o Tribunal de origem a negar seguimento ao apelo nobre, os autos devem retornar ao Tribunal de origem, a fim de que o agravo interposto às e-STJ fls. 693/699 seja apreciado como agravo interno.
+Nesse contexto, a fim de evitar a cisão no julgamento, deixo de apreciar os demais temas alegados no referido agravo.
+Ante o exposto, nos termos do art. 1.042, CPC/2015, DETERMINO a devolução dos autos ao Tribunal de origem, a fim de que processe o agravo de e-STJ fls. 693/699 como agravo interno.
+Publique-se. Intimem-se.
