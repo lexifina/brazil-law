@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] OLIVEIRA, em face de acórdão do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que o Juízo das Execuções proferiu decisão unificando as penas a serem cumpridas pelo paciente, mantendo a data do último delito como data-base para a concessão de benefícios.
+Em face da decisão, recorreu o Ministério Público, tendo o Tribunal Estadual provido o agravo em execução, determinando que a data a ser considerada deve ser a do trânsito em julgado da nova condenação.
+No presente writ, alega a Defensoria Pública, em síntese, o seguinte:
+ ..  não se harmoniza com a noção de Justiça que o preso sofra as conseqüências negativas pela demora do Estado em impor a nova condenação, devendo o Poder Judiciário deixar de modificar o marco para contagem da progressão de regime em caso de trânsito em julgado de condenação superveniente (por fato anterior ou posterior) ou em caso publicação da sentença (ou acórdão condenatória ou qualquer outro marco que se possa inventar para manter o sujeito no sistema prisional por mais tempo do que o necessário. (fl. 4)
+Requer, liminarmente e no mérito, o restabelecimento da data-base para a obtenção de novos benefícios da execução penal.
+Liminar deferida (fls. 112-116).
+As Informações foram prestadas (fls. 120-178).
+O Ministério Público Federal ofertou parecer, às fls. 182/186, manifestando-se pelo não conhecimento do writ, mas pela concessão da ordem de ofício.
+É o relatório.
+DECIDO.
+Conforme relatado, o Tribunal a quo deu provimento ao agravo em execução da acusação, nos seguintes termos (fls. 76/77 e 79):
+Trata-se de agravo em execução interposto pelo Ministério Público inconformado com a decisão proferida pela Magistrada da Vara de Execuções Criminais da Comarca de Novo Hamburgo que, nos autos do Processo de Execução Criminal de n9 143500-0, entendeu não ser possível alterar a data-base do apenado, pois o delito teria ocorrido em data anterior ao início do cumprimento das penas desta execução.
+Em suas razões, sustenta, em síntese, que a superveniência de condenação em razão de cometimento de crime doloso conforme o art. 111 e art. 118 da Lei de Execuções Penais implicam na unificação das penas, bem como na interrupção do prazo para obtenção de novos benefícios na execução criminal. Citou Jurisprudência e teceu argumentação a respeito. Pugnou que seja alterada a data-base para a data do trânsito em julgado da condenação que sobreveio aos autos (nº 001/2.14.0007182-6).
+ ..
+Adianto que dou provimento ao agravo.
+Trata o caso concreto de apenado que no curso do cumprimento da pena veio a ser condenado por outro delito, sendo indeferido o pedido do Ministério Público para que fosse alterada a data-base para o dia do trânsito em julgado da nova condenação, decisão ora recorrida.
+Com efeito, encontra-se sedimentado no Superior Tribunal de Justiça a possibilidade de alteração da data-base da execução penal, quando sobrevier nova condenação, seja por fato anterior ou posterior ao início da execução penal, tendo como nova data base a data do trânsito em julgado do decreto condenatório superveniente.
+ ..
+Ressalto, ainda, que não importa se a nova condenação é
+originária de fato anterior ou posterior ao início da execução pena.
+No caso, o trânsito em julgado da nova condenação ocorreu em 10.11.2015 (proc. Nº 001/2.14.0007182-6- fl. 20). devendo esta ser a
+nova data-base.
+Assim como evidenciado, o cerne da impetração consiste em determinar a data que, após a unificação das penas, será considerada como termo inicial para a concessão de novos benefícios.
+Sobre o assunto, é bem verdade que a jurisprudência do STJ adotava o trânsito em julgado da última condenação, por fato posterior ou anterior ao início da execução, como o marco inicial para a concessão de novos benefícios da execução.
+Ocorre que a Terceira Seção, em recente precedente, uniformizou o entendimento jurisprudencial desta Corte, fixando a data da última prisão como marco interruptivo para concessão dos benefícios da execução, no caso de crimes cometidos antes do início da execução da pena, e, nos casos de delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar. Confira-se:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/2/2018, DJe 15/3/2018.)
+Assim, o entendimento do Tribunal a quo, ao estabelecer o trânsito em julgado da última condenação como marco interruptivo para a concessão de novos benefícios prisionais, não está de acordo com a atual jurisprudência desta Corte Superior. Além disso, o entendimento de que a interrupção dos prazos para a concessão de benefícios da execução, decorrente da unificação, alcance o livramento condicional, não traduz a inteligência desta Corte Superior de Justiça, o que evidencia a existência de constrangimento ilegal.
+Dessa forma, ressalta-se que a interrupção do marco para futuros benefícios da condenação não se opera para livramento condicional, indulto e comutação. Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. UNIFICAÇÃO DE PENAS. DATA-BASE PARA A CONCESSÃO DE BENEFÍCIOS FUTUROS. DATA DA ÚLTIMA PRISÃO DO REEDUCANDO, RESSALVADAS AS HIPÓTESES DE LIVRAMENTO CONDICIONAL, DE INDULTO E DE COMUTAÇÃO DA PENA.
+1. A decisão agravada está na mais absoluta harmonia com a jurisprudência firmada pela Terceira Seção de que a alteração da data-base em razão da unificação de reprimendas afronta os princípios da legalidade e da individualização das penas por não possuir previsão legal e por implicar excesso de execução, devendo ser preservado o marco interruptivo anterior à unificação, uma vez que sua alteração não pode mais ser consectário imediato do mero somatório das sanções impostas ao reeducando.
+ 2. Agravo regimental desprovido. (AgRg no AREsp n.º 1150292/ Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 29/5/2018.)
+Ante o exposto, concedo o habeas corpus para determinar a data da última prisão como marco interruptivo para concessão dos benefícios da execução, exceto livramento condicional, comutação e indulto, no caso de crimes cometidos antes do início da execução da pena, e, nos casos de delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar.
+Comunique-se.
+Publique-se.
+Intimem-se.
