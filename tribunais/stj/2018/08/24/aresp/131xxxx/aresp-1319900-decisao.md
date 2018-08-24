@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE BENEFÍCIO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO CESTA-ALIMENTAÇÃO RECEBIDO EM PROVIMENTO JURISDICIONAL PROVISÓRIO POSTERIORMENTE REVOGADO. DEVOLUÇÃO. POSSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/15.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O acórdão recorrido que adota orientação firmada pela jurisprudência do STJ não merece reforma.
+5. Os valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, haja vista a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: revisional de benefício previdenciário, ajuizada pelo agravante, em face de FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL, devido à omissão da agravada em proceder ao reajuste devidos aos aposentados por ocasião dos aumentos concedidos aos empregados da ativa, na qual pleiteia a revisão de seu benefício previdenciário.
+Sentença: julgou parcialmente procedente o pedido, para incluir do cômputo do benefício do agravante o "ADI - abono/adicional de dedicação integral -" equivalente ao valor repassado aos funcionário em atividade, bem como para condenar a agravada a descontar, mês a mês, a importância a título de contribuição do beneficiário e imposto de renda sobre cada parcela paga pelo agravante.
+Decisão interlocutória: determinou a devolução dos valores percebidos em sede de antecipação de tutela, conforme consta nos autos do pedido de cumprimento de sentença.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO CESTA ALIMENTAÇÃO. DEVOLUÇÃO DE VALORES RECEBIDOS EM RAZÃO DE PROVIMENTO JUDICIAL POSTERIORMENTE REVOGADO. POSSIBILIDADE JURÍDICA.
+Da inexistência de prescrição do direito vindicado
+1. No caso dos autos não há que se falar prescrição do direito, sob o argumento de que da data em que pagas as parcelas antecipatórias e a do pedido repetição teria transcorrido o prazo trienal.
+2. Releva ponderar que as parcelas a título de auxílio cesta-alimentação foram pagas por força de determinação judicial, em sede de antecipação de tutela, oportunidade na qual a parte embargada não poderia deixar de fazê-lo, sob pena de descumprir ordem judicial.
+3. Ademais, em sentido diverso do entendimento da parte embargante, o direito à repetição dos valores se deu apenas com o trânsito em julgado da sentença que definiu o feito de conhecimento, julgando improcedente a pretensão da parte embargante.
+4. Portanto, a contrario sensu do alegado pela recorrente, não há que se falar em implemento do lapso prescricional, uma vez que o direito à repetição dos valores pagos surgiu com o julgamento de improcedência dos pedido formulados pala embargante na demanda de conhecimento.
+MÉRITO DO RECURSO
+5. No momento da concessão da tutela antecipada pleiteada na ação principal, encontravam-se presentes os requisitos a que alude o artigo 273 do Código de Processo Civil anterior, cujos termos equivalem aos do art.
+300 da legislação processual atual, consubstanciados na verossimilhança das alegações do recorrente e a possibilidade de ocorrer dano de difícil reparação, em face do caráter alimentar do benefício previdenciário pleiteado.
+6. Entretanto, em que pese tenha a parte autora percebido os valores atinentes ao auxílio cesta-alimentação de boa fé, haja vista que o benefício previdenciário lhe foi pago em função da tutela antecipada, comando judicial este respaldado pelo entendimento jurisprudencial pacificado na época, tal provimento jurisdicional era de cunho provisório, de sorte que a sua revogação tem como conseqüência a restituição dos valores recebidos em decorrência da referida decisão judicial.
+7. Ressalte-se que a não devolução pela parte agravada dos valores recebidos em função do provimento judicial precitado e posteriormente revogado, importaria em enriquecimento sem causa, afrontando o disposto no artigo 885 do Código Civil.
+8. Ao interpretar o art. 297, parágrafo único, combinado com o art. 520, ambos do novel Código de Processo Civil, o magistrado deve se utilizar de princípios como o da proporcionalidade, levando em consideração ainda a natureza alimentar das verbas a serem restituídas, além da condição econômica do devedor que auferiu as vantagens em caráter provisório e de boa-fé.
+9. Assim, com base nos parâmetros precitados, e levando em conta a condição econômico-financeira da parte recorrida, mostra-se razoável o desconto mensal de 10% sobre o valor líquido da prestação do benefício, a fim de restituir os valores pagos em função da tutela antecipada posteriormente revogada, percentual aquele que também foi adotado pela Corte Superior, como limite proporcional para o caso examinado.
+Afastada a preliminar suscitada e, no mérito, dado parcial provimento ao agravo de instrumento. (e-STJ Fl. 222/223)
+Embargos de declaração: interpostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, e 1.022 do CPC/15; 885 do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que as parcelas de natureza alimentar revestem-se de caráter irrepetível.
+Relatado o processo, decide-se.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da inocorrência de prescrição à espécie, consignando que "a contrario sensu do alegado pela recorrente, não há que se falar em implemento do lapso prescricional, uma vez que o direito à repetição dos valores pagos surgiu com o julgamento de improcedência dos pedido formulados pala embargante na demanda de conhecimento" (e-STJ fl. 226), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/15.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inocorrência de implemento do prazo prescricional, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+O TJ/RS, ao decidir que os valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, haja vista a reversibilidade da medida antecipatória e a vedação do enriquecimento sem causa, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgInt no REsp 1579839/RS, Terceira Turma, Dje de 23/04/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais R$ 500,00 (mil reais) em favor do procurador da parte agravada. Contudo, isento-a do pagamento por ser beneficiária da gratuidade de justiça.
+Publique-se. Intimem-se.
