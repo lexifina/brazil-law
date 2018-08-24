@@ -1,0 +1,13 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO POPULAR. SUSPENSÃO PELO TJMS PARA AGUARDAR JULGAMENTO DE CAUTELARES. PERDA DE OBJETO ANTE O JULGAMENTO DAS CAUTELARES QUE IMPEDIAM O PROSSEGUIMENTO DO FEITO. RECURSO ESPECIAL PREJUDICADO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 435, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO POPULAR - PRELIMINAR DE ILEGITIMIDADE PASSIVA ALEGADA EM CONTRAMINUTA - NÃO CONHECIDA - SUPRESSÃO DE INSTÂNCIA - PRELIMINAR DE PRECLUSÃO PRO JUDICATO - AFASTADA - MÉRITO - COMPETÊNCIA PARA O PROCESSAMENTO E JULGAMENTO DA DEMANDA - JUÍZO DE PRIMEIRO GRAU - RESOLUÇÃO Nº 221/94 - AUSÊNCIA DE PREVISÃO LEGAL QUE INDIQUE SER A COMPETÊNCIA ORIGINÁRIA DO ÓRGÃO ESPECIAL DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA - SUSPENSÃO DO FEITO ATÉ O JULGAMENTO DEFINITIVO DE DUAS AÇÕES CAUTELARES - NECESSIDADE, A FIM DE SER EVITAR DECISÕES CONFLITANTES - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os recorrentes sustentam, em síntese, que: (a) o acórdão recorrido foi omisso quanto às seguintes questões: (i) ausência de conexão entre a ação popular e outras cautelas interpostas por terceiros, com nítido cunho preparatório e de antecipação de provas, e, portanto, não há motivo para a suspensão da tramitação da presente ação popular; (ii) não se apontou o nível de dependência entre a ação popular e as cautelares, tendo em vista que suspensão da tramitação da ação popular se de eu por prejudicialidade externa; (b) o pedido contido no agravo de instrumento era tão somente o de modificação da competência, razão pela qual a determinação de suspensão da tramitação do feito importa em julgamento extra petita e reformatio in pejus, com violação dos arts. 512 do CPC/1973; (c) "a simples menção feita no acórdão acerca da existência das cautelares, não autoriza a aplicação do art. 265 IV "a" do CPC" (fl. 490, e-STJ).
+Contrarrazões da Assembléia Legislativa do Estado de Mato Grosso do Sul (fls. 502-510, e-STJ), do Ministério Público do Estado de Mato Grosso do Sul (fls. 511-518, e-STJ) e de [NOME] (fls. 519-524, e-STJ).
+Decisão que admitiu o recurso especial às fls. 527-529, e-STJ.
+É o relatório.
+O recorrente insurge-se contra a determinação do TJMS de suspensão do feito até a conclusão do julgamento, pela Corte estadual, das cautelares conexas à ação popular.
+Ocorre que em consulta do sítio eletrônico do TJMS é possível constatar que ambas as cautelares (0023199-58.2011.8.12.0001 e 0014044-34.2011.8.12.0000) já foram julgadas pelo TJMS, razão pela qual não mais subsiste o motivo da suspensão do feito.
+Ante o exposto, julgo prejudicado o recurso especial, ante a perda do objeto.
+Publique-se. Intimem-se.
