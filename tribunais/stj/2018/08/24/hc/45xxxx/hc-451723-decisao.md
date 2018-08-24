@@ -1,0 +1,12 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. FUNDAMENTOS. SUPERVENIÊNCIA DE SENTENÇA. NOVO TÍTULO. PERDA DO OBJETO.
+Writ prejudicado.
+DECISÃO
+Perdeu o objeto o presente habeas corpus impetrado em favor de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no Habeas Corpus n. 2222527-35.2017.8.26.0000.
+Segundo consulta observada em consulta ao site oficial do Tribunal local, o Juízo da 10ª Vara Criminal do Foro Central Criminal Barra Funda da comarca de São Paulo/SP, no dia 26/6/2018, nos Autos n. 0099535-53.2017.8.26.0050, proferiu sentença penal condenatória.
+Ora, o acórdão combatido nesta impetração foi proferido no dia 7/2/2018 à luz do primevo decreto prisional e, ante a prolação de édito condenatório, que alterou a realidade fática dos autos, esvaziou-se o objeto do pedido aqui formulado, no sentido de não estarem presentes os requisitos exigidos para a imposição da custódia cautelar (AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017).
+Considerando que a sentença superveniente inaugura nova realidade processual, resta impedido o exame da questão invocada nesta Corte, sob pena de incorrer em indevida supressão de instância, sendo prescindível a utilização de fundamentos diversos para a aplicação da prejudicialidade ao objeto do habeas corpus (AgRg no RHC n. 73.759/BA, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/11/2016).
+Afinal, na ocasião da prolação de sentença condenatória,  ..  em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente,  ..  a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria. (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017).
+De mais a mais, o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que apresentada fundamentação concreta, no qual a Magistrada destacou que o paciente ostenta passagem recente pelos mesmos delitos, com denúncia recebida pela 32ª Vara Criminal Central, a indicar que, em liberdade, não consegue se manter afastado da seara criminosa (fl. 13).
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
