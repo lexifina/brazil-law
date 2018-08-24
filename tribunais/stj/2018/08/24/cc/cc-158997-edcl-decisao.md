@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME], em face de decisão que conheceu do conflito para declarar a competência do d. JUÍZO DA 78ª VARA DO TRABALHO DE SÃO PAULO - SP.
+Afirma a embargante que a decisão embargada incorreu em erro material, porquanto a entidade de previdência privada interessada no presente Conflito de Competência é a FUNDAÇÃO SAÚDE ITAÚ S/A e não a Fundação Sabesp de Seguridade Social.
+É o relatório.
+Passo a decidir.
+Assiste razão à embargante, porquanto a entidade de previdência privada interessada no presente Conflito de Competência é a FUNDAÇÃO SAÚDE ITAÚ S/A.
+Desse modo, o erro material deve ser corrigido e promovido novo julgamento do incidente.
+Incide na espécie o entendimento sufragado pelo eg. Supremo Tribunal Federal no julgamento dos Recursos Extraordinários nº 586.453/SE e nº 583.050/RS, assevera ser da Justiça Comum a competência para processar e julgar demandas de natureza previdenciária promovidas contra entidades de previdência privada. Confira-se, a propósito, a ementa desse último:
+EMENTA Recurso extraordinário - Direito Previdenciário e Processual Civil - Repercussão geral reconhecida - Competência para o processamento de ação ajuizada contra entidade de previdência privada e com o fito de obter complementação de aposentadoria - Afirmação da autonomia do Direito Previdenciário em relação ao Direito do Trabalho - Litígio de natureza eminentemente constitucional, cuja solução deve buscar trazer maior efetividade e racionalidade ao sistema - Competência da Justiça comum para o processamento do feito - Recurso não provido. 1. A competência para o processamento de ações ajuizadas contra entidades privadas de previdência complementar é da Justiça comum, dada a autonomia do Direito Previdenciário em relação ao Direito do Trabalho. Inteligência do art. 202, § 2º, da Constituição Federal a excepcionar, na análise desse tipo de matéria, a norma do art. 114, inciso IX, da Magna Carta. 2. O intérprete diante de controvérsia em que há fundamentos constitucionais para se adotar mais de uma solução possível deve optar por aquela que efetivamente trará maior efetividade e racionalidade ao sistema. 3. Recurso extraordinário não provido.
+(RE 583050, Relator(a): Min. CEZAR PELUSO, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno, DJe-109 DIVULG 10-06-2013 PUBLIC 11-06-2013 EMENT VOL-02694-01 PP-00001)
+Ante o exposto, acolho os embargos de declaração para declarar a competência do d. JUÍZO DE DIREITO DA 21ª VARA CÍVEL DE SÃO PAULO - SP.
+Publique-se.
