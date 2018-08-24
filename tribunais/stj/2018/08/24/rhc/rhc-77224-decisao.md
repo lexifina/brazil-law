@@ -1,0 +1,7 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DESCRITO NO ART. 35, C/C O ART. 40, VI, AMBOS DA LEI N. 11.343/2006. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSIÇÃO DO REGIME ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. FACULTADO O RECURSO EM LIBERDADE. EXPEDIÇÃO DE ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Recurso em habeas corpus prejudicado.
+DECISÃO
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de Minas Gerais e ora juntadas aos autos dão conta de que, em 10/8/2018, o Juízo de Direito da 3ª Vara de Tóxicos da Comarca de Belo Horizonte/MG julgou parcialmente procedente a denúncia para condenar o ora recorrente à pena de 3 anos e 6 meses de reclusão, em regime aberto, e ao pagamento de 817 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direito, como incurso no art. 35, c/c o art. 40, VI, ambos da Lei n. 11.343/2006, facultado o recurso em liberdade, expedindo, na oportunidade, o alvará de soltura em seu favor (Ação Penal n. 0024.17.074.329-8 - fls. 395/413), fato que esgota a pretensão contida na presente interposição recursal, dada a perda superveniente do objeto da demanda e a alteração do cenário fático-processual.
+Em consequência, julgo prejudicado o recurso em habeas corpus (arts. 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
