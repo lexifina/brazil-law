@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECE DO APELO EXTREMO COM FUNDAMENTO NO ART. 543-C, 7o. DO CPC. NÃO CABIMENTO DE RECURSO. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL. QO NO AG 1.154.599/SP, CE, REL. MIN. CESAR ASFOR ROCHA, DJe 12.5.2011. AGRAVO NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por JULIO TEIXEIRA KUNSLER, com fundamento na alínea a e c do art. 105, III da Carta Magna, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. PREVIDÊNCIA PÚBLICA- MUNICÍPIO DE GRAVATAÍ. CONTRIBUIÇÃO PREVIDENCIÁRIA. PLANO DE ASSISTÊNCIA A SAÚDE. IPAG. FILIAÇÃO OBRIGATÓRIA. RESTITUIÇÃO. AUSENTE PEDIDO ADMINISTRATIVO.
+- PEDIDO DE RESTITUIÇÃO - Incabível a restituição dos valores descontados da remuneração do servidor, a título de contribuição para o plano de saúde mantido pelo ente público municipal, quando não manifestado na via administrativa o interesse em desfiliação.
+- ÔNUS DE SUCUMBÊNCIA - Considerando que não houve modificação da sentença em grau recursal, impõe-se a manutenção dos ônus sucumbenciais, porquanto corretamente distribuídos pelo Juiz de primeiro grau.
+- PREQUESTIONAMENTO - O julgador não está obrigado a rebater todos os argumentos, tampouco mencionar todos os dispositivos constitucionais e legais invocados pelas partes, bastando declinar os motivos que fundamentam o decisum.
+- CUSTAS PROCESSUAIS - A Fazenda Pública é isenta do pagamento de custas processuais e emolumentos, conforme o previsto no art. 12 da Lei 13.47112010, que deu nova redação ao art. 11 do Regimento de Custas (Lei 8.121/85).
+A isenção das despesas está suspensa, por força de decisão liminar proferida no Agravo Regimental [CPF], incidental à ADI 7003875586, onde é discutida a extensão do novo dispositivo do Regimento de Custas.
+A cobrança de tais rubricas, portanto, seguirá a legislação pertinente. Desta forma, não é devido o pagamento de valores a título de ressarcimento pelas despesas com condução aos oficiais de justiça, na forma do art. 29 da Lei 7.305179, com a redação que lhe conferiu a Lei 10.972/97, uma vez que estes já percebem verba específica para este fim.
+APELO DESPROVIDO SENTENÇA PARCIALMENTE REFORMADA EM REEXAME NECESSÁRIO. (fls.96).
+2. Nas razões de seu Apelo Nobre inadmitido, o Recorrente aponta violação aos arts. 5o., XX, 40 e 149, § 1o. da CF, 165 do CTN, 884 e 885 do CC/02 e do 42 CDC, ao argumento de que devem ser devolvidos os valores descontados compulsoriamente em folha de pagamento para o fundo de assistência à saúde instituído pelo recorrido, mesmo que o serviço estivesse à disposição da Recorrente, sob pena de enriquecimento indevido do Município.
+3. Ao Recurso Especial foi negado seguimento pelo Tribunal de origem com base no 543-C, § 7o., I do CPC/1973.
+4. Esta Corte pacificou o entendimento, no julgamento da Questão de Ordem no Ag 1.154.599/SP, de que o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C do CPC/1973 é o Agravo Interno, a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual.
+5. Eis a ementa desse julgado:
+QUESTÃO DE ORDEM. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CABIMENTO. EXEGESE DOS ARTS. 543 E 544 DO CPC.AGRAVO NÃO CONHECIDO.
+1. Não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, parág. 7o., inciso I, do CPC.
+2. Agravo não conhecido (QO no Ag 1.154.599/SP, CE, Rel. Min. CESAR ASFOR ROCHA, DJe 12.5.2011).
+6. O mesmo entendimento foi confirmado pelo Supremo Tribunal, no julgamento da Questão de Ordem no Agravo de Instrumento 760.358-7, que reconheceu inadequada a utilização da reclamação para correção de equívocos na aplicação da jurisprudência do STF aos processos sobrestados na origem pela repercussão geral, asseverando que o único instrumento possível a tal impugnação seria o Agravo Interno.
+7. Ante o exposto, não conheço do Agravo, devendo ser remetidos os autos ao Tribunal de origem para que o recurso seja apreciado como Agravo Interno.
+8. Publique-se. Intimações necessárias.
