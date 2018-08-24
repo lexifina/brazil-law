@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Direito real de garantia. Imóveis hipotecados para garantia do cumprimento da obrigação de pagar assumida em contrato de cessão de cotas celebrado em 29/05/1992.
+Embargos de terceiro pleiteando a nulidade das penhoras efetivadas sobre os imóveis hipotecados. Causa petendi fundada na prescrição da pretensão relativa ao exercício do direito real hipotecário; na ausência de citação do devedor hipotecário e na ineficácia da garantia em relação ao imóvel não inscrito no RGI. Descabimento.
+Prescrição do direito real não configurada, uma vez que a obrigação de pagar subsiste até o momento.
+Vinculação do prazo da hipoteca ao da obrigação principal que lhe deu origem, por se tratar de direito acessório de garantia.
+Aplicação da teoria da actio nata subjetiva, na qual o termo inicial da prescrição inicia-se a partir da data da lesão que, no caso, iniciou-se para o credor hipotecário após o inadimplemento da obrigação principal e respectiva condenação dos réus ao pagamento.
+Incidência do art. 1.498, do Código Civil de 2002: "Vale o registro da hipoteca, enquanto a obrigação perdurar; mas a especialização, em completando vinte anos, deve ser renovada." No caso, sequer há que se falar em decurso do prazo para renovação da especialização.
+A ausência de inscrição da hipoteca tem como consequência apenas a inoponibilidade erga omnes, não afetando o compromisso assumido entre os contraentes.
+Garantidor hipotecário que além de ter oferecido contestação no processo principal, foi intimado das penhoras que incidiram sobre os imóveis hipotecados, na fase de cumprimento de sentença, sendo, portanto, válidas a constrições.
+" ..  No caso dos autos, os garantes hipotecários foram devidamente intimados e tiveram ciência de forma inequívoca a respeito da existência da execução contra os devedores principais, não havendo falar em ocorrência de nulidade da execução;  .. "(REsp 1186325/MS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 07/10/2010, DJe 21/10/2010).
+Desprovimento do recurso." (e-STJ fl. 279/284)
+Opostos embargos de declaração, foram rejeitados (e-STJ fl. 297/302)
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 82, 130 e 676, todos do Código Civil de 1916, bem como do artigo 167 da Lei de Registros Públicos e divergência jurisprudencial, sustentando, em síntese, que: (a) é nula a penhora que recaiu sobre dois de seus imóveis, tendo em vista que, na condição de garantidor hipotecário, deveria ter sido citado na ação principal ou na fase de execução, o que não ocorreu; e (b) a inscrição da hipoteca perante o ofício do registro geral de imóveis é indispensável à sua constituição e à produção de seus efeitos, seja em face de terceiros, seja das partes contraentes e não inscrita e registrada a hipoteca sobre o imóvel situado à Travessa da Luz, matrícula nº 77.271 do 11º Ofício do Registro de Imóveis, não há que se falar em subsistência da garantia, devendo a constrição sobre o referido bem ser imediatamente desconstituída.
+Contrarrazões nas fls. 402/409 (e-STJ).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+A Corte de origem consignou expressamente que a recorrente apresentou contestação no feito principal e que, na fase de cumprimento de sentença, foi devidamente intimada da penhora que recaiu sobre seus imóveis, não havendo que se falar em cerceamento defesa, in verbis:
+"A alegada ausência de intimação da garantidora hipotecária na ação de cobrança fundada no inadimplemento do pacto principal também deve ser rejeitada, pois ao contrário que alega, a referida sociedade foi intimada no processo principal, tendo, inclusive, oferecido contestação (fls. 305/312, índice 367 do processo em apenso).
+Além disso, na fase de cumprimento de sentença, também foi intimada das penhoras que incidiram sobre os imóveis hipotecados." (e-STJ fl.283)
+Neste sentido:
+RECURSO ESPECIAL. PROCESSO CIVIL E CIVIL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. GARANTIA HIPOTECÁRIA. EMBARGOS DA INTERVENIENTE HIPOTECANTE, CÔNJUGE DO AVALISTA. NULIDADE DA EXECUÇÃO POR AUSÊNCIA DE CITAÇÃO E POR INEXISTÊNCIA DE PROVA DA ENTREGA DO NUMERÁRIO MUTUADO PELO BANCO EXEQUENTE. INTIMAÇÃO DA EMBARGANTE NA PENHORA DO IMÓVEL HIPOTECADO. AUSÊNCIA DE PREJUÍZO. PROVA DO CUMPRIMENTO DA OBRIGAÇÃO DO BANCO. SÚMULAS 282, 283 E 356 DO STF. RECURSO DESPROVIDO.
+1. A jurisprudência do Tribunal Superior é no sentido de que "o proprietário do imóvel hipotecado em garantia do pagamento da dívida deve ser citado da execução, ainda que não seja o devedor" (REsp 286.172/SP, Rel. Ministro ARI PARGENDLER, Terceira Turma, DJ de 23/4/2001). Precedentes.
+2. A embargante, esposa do segundo executado (avalista), que figura no contrato como interveniente hipotecante, embora não tenha sido citada para a execução, veio a ser intimada da penhora sobre a totalidade do imóvel dado em garantia, ocasião em que pôde apresentar e apresentou embargos do devedor. Na oportunidade, impugnou a execução como um todo, deduzindo matérias próprias de defesa do devedor (inclusive pedido de nulidade da execução), bem como matérias concernentes aos embargos de terceiro (defesa de sua meação).
+3. Nesse contexto, não há falar em cerceamento do direito de defesa ou existência de algum prejuízo à interveniente hipotecante.
+4. Por sua vez, o fundamento do v. aresto recorrido, de que o tema referente ao correto cumprimento da obrigação por parte do exequente já fora decidido quando do julgamento de anteriores embargos opostos pelos devedores principais, é suficiente para manter o decisório quanto ao ponto e não foi atacado neste recurso especial, o que atrai a incidência, por analogia, do disposto na Súmula 283 do Supremo Tribunal Federal.
+5. Quanto ao mais, tem-se a ausência de prequestionamento dos artigos tidos por violados, na tentativa da recorrente de ressuscitar tema referente ao não cumprimento da obrigação por parte do Banco exequente, de repasse do numerário mutuado à executada-creditada.
+6. Recurso especial desprovido.
+(REsp 705.834/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/03/2014, DJe 03/06/2014)
+RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO - ESCRITURA DE [NOME] COM GARANTIA HIPOTECÁRIA - EXECUÇÃO DIRIGIDA APENAS CONTRA OS DEVEDORES PRINCIPAIS - CITAÇÃO DOS GARANTES HIPOTECÁRIOS - DESNECESSIDADE - INTIMAÇÃO DESSES DA PENHORA - SUFICIÊNCIA - PRECEDENTES DO STJ - PRESCRIÇÃO - DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL - INCIDÊNCIA DO ENUNCIADO N. 284/STF, NO PONTO - RECURSO ESPECIAL IMPROVIDO.
+I - Quando a execução é dirigida apenas contra os devedores principais, é inadmissível a penhora de bens pertencentes ao terceiro garante que não integrou a relação processual executiva mediante citação pessoal ou intimação da penhora sobre o bem hipotecado;
+II - No caso dos autos, os garantes hipotecários foram devidamente intimados e tiveram ciência de forma inequívoca a respeito da existência da execução contra os devedores principais, não havendo falar em ocorrência de nulidade da execução;
+III - Com referência à prescrição, os recorrentes não apontaram qualquer violação a legislação infraconstitucional, tampouco fizeram referência aos artigos de lei eventualmente violados, como seria de rigor, sendo inafastável a incidência do enunciado n. 284/STF;
+IV - Recurso especial improvido.
+(REsp 1186325/MS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 07/10/2010, DJe 21/10/2010)
+Também no que toca à alegação de nulidade da penhora por não ter sido registrada não assiste razão à recorrente.
+Sobre o tema, dispôs o acórdão:
+Conforme observou a douta magistrada de origem, [NOME] em sua bem fundamentada sentença, cujos termos aqui são colhidos na forma do permissivo constante no art. 92, § 4º, do Regimento Interno desta Corte de Justiça:
+ ..  o art. 676 do CC/1916 dispõe que "Os direitos reais sobre imóveis constituídos ou transmitidos por atos entre vivos só se adquirem depois da transcrição, ou da Inscrição, no Registo de Imóveis, dos referidos títulos (arts. 530, I e 856), salvo os casos expressos neste Código".
+Como o art. 848 do CC/1916 dispõe que: "AS hipotecas somente valem contra terceiros desde a data da inscrição. Enquanto não inscritas, as hipotecas só subsistem entre os contraentes", se depreende que o art. 848 é uma exceção à regra do art. 676.
+Portanto, apesar da inexistência de inscrição da hipoteca sobre o imóvel situado na Travessa da Luz no 11º ofício de registro de imóveis, esta subsiste entre o embargante e os embargados." (e-STJ fl. 281)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+"CIVIL. DIREITO REAL DE GARANTIA. HIPOTECA. VALIDADE. AVERBAÇÃO NO CARTÓRIO DE REGISTRO DE IMÓVEIS. NÃO OCORRÊNCIA. BEM DE FAMÍLIA. EXCEÇÃO À REGRA DA IMPENHORABILIDADE. HIPÓTESE CONFIGURADA.
+1. Nos termos do art. 3º, V, da Lei n. 8.009/90, ao imóvel dado em garantia hipotecária não se aplica a impenhorabilidade do bem de família na hipótese de dívida constituída em favor da entidade familiar.
+2. A hipoteca se constitui por meio de contrato (convencional), pela lei (legal) ou por sentença (judicial) e desde então vale entre as partes como crédito pessoal. Sua inscrição no cartório de registro de imóveis atribui a tal garantia a eficácia de direito real oponível erga omnes.
+3. A ausência de registro da hipoteca não afasta a exceção à regra de impenhorabilidade prevista no art. 3º, V, da Lei n. 8.009/90; portanto, não gera a nulidade da penhora incidente sobre o bem de família ofertado pelos proprietários como garantia de contrato de compra e venda por eles descumprido.
+4. Recurso especial provido."
+(REsp 1455554/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 14/06/2016, DJe 16/06/2016)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
