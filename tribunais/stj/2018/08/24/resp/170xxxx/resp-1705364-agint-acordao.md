@@ -1,0 +1,66 @@
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO DO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO AO ART. 535, II, DO CPC/1973. NÃO OCORRÊNCIA. MULTA. VIOLAÇÃO AOS ARTS. 267, VI, e 459, do CPC/1973 AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. OFENSA AO ART. 461, §4, CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NEGADO PROVIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que se refere à alegada negativa de prestação jurisdicional por ofensa ao art. 535 do CPC/1973, observa-se que o Tribunal de origem decidiu de forma fundamentada a questão. Portanto, não houve omissão quanto à questão suscitada. Em verdade, o agravante objetiva apenas o reexame do mérito da causa a fim de que o Tribunal de origem acolha o seu pedido.
+Quanto à suposta ofensa ao art. 267, VI, e 459, do CPC/1973, da análise do conteúdo do acórdão verifica-se que não há como apreciar o mérito da controvérsia, uma vez que os dispositivos legais mencionados não foram objeto de debate pela instância ordinária.
+Por fim, quanto à irresignação relacionada à aplicação da multa prevista no art. 461, §4º, do CPC/1973, vale ressaltar que, apenas, excepcionalmente, o valor pode ser revisto quando verifica-se sua exorbitância ou irrisoriedade. Não é o caso dos autos. A reiterada jurisprudência desta Corte Superior, consolidou-se no sentido de que a revisão da astreintes encontra óbice na Súmula 7/STJ.
+Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto pelo ESTADO DO RIO DE JANEIRO contra decisão desta Relatoria, assim ementada:
+ADMINISTRATIVO E PROCESSO CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO AO ART. 535, II, DO CPC/1973. NÃO OCORRÊNCIA. DECISÃO MONOCRÁTICA. CONFIRMAÇÃO PELO COLEGIADO DO TRIBUNAL. POSSIBILIDADE. PRECEDENTES. SÚMULA 568/STJ. INTERESSE DE AGIR DO MINISTÉRIO PÚBLICO ESTADUAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. ALTERAÇÃO DO PRAZO PARA CUMPRIMENTO DA OBRIGAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NEGADO PROVIMENTO.
+Alega a agravante, inicialmente, que as instâncias ordinárias foram omissas quanto ao argumento de que o Poder Público tem atuado em políticas públicas para a extinção da carência de professores na rede pública.
+Salienta, ainda, que a referida omissão acabou por prejudicar a pretensão recursal, na medida em que a decisão agravada observou ausência de prequestionamento (Súmulas 282/STF e 211/STJ), situação que obstou o processamento do recurso especial aviado.
+Por fim, aponta que as questões alinhavadas no recurso especial prescindem de reexame do conjunto fático-probatório, razão pela qual a aplicação da Súmula 7/STJ não se mostra adequada.
+Impugnação pela agravada às fls. 934/946 e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. VIOLAÇÃO AO ART. 535, II, DO CPC/1973. NÃO OCORRÊNCIA. MULTA. VIOLAÇÃO AOS ARTS. 267, VI, e 459, do CPC/1973 AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. OFENSA AO ART. 461, §4, CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NEGADO PROVIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que se refere à alegada negativa de prestação jurisdicional por ofensa ao art. 535 do CPC/1973, observa-se que o Tribunal de origem decidiu de forma fundamentada a questão. Portanto, não houve omissão quanto à questão suscitada. Em verdade, o agravante objetiva apenas o reexame do mérito da causa a fim de que o Tribunal de origem acolha o seu pedido.
+Quanto à suposta ofensa ao art. 267, VI, e 459, do CPC/1973, da análise do conteúdo do acórdão verifica-se que não há como apreciar o mérito da controvérsia, uma vez que os dispositivos legais mencionados não foram objeto de debate pela instância ordinária.
+Por fim, quanto à irresignação relacionada à aplicação da multa prevista no art. 461, §4º, do CPC/1973, vale ressaltar que, apenas, excepcionalmente, o valor pode ser revisto quando verifica-se sua exorbitância ou irrisoriedade. Não é o caso dos autos. A reiterada jurisprudência desta Corte Superior, consolidou-se no sentido de que a revisão da astreintes encontra óbice na Súmula 7/STJ.
+Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Com efeito, o recurso especial não merece ser conhecido, considerando os capítulos da decisão ora agravada que foram impugnados nas razões do presente agravo interno.
+No que se refere à alegada negativa de prestação jurisdicional por ofensa ao art. 535 do CPC/1973, verifica-se que a insurgência recursal não merece prosperar. Deveras, como bem salientado no decisum monocrático, o Tribunal de origem decidiu de forma fundamentada a questão, a saber:
+No caso em tela, a Ouvidoria do Ministério Público recebeu informações a cerca da carência de professores no CE João Alfredo, onde no documento de fls.216, consta a carência real de professores nas disciplinas de Biologia, Educação Física, Física, Geografia, Francês e Matemática, e carência temporária nas disciplinas de História e Língua Portuguesa.
+Para suprir tal deficiência, o apelado tinha algumas opções, dentre elas, dar posse aos candidatos aprovados no concurso público de 2013, remanejar professores de outras unidades em regime de dupla regência ou transferência e efetuar contratações temporárias.
+Contudo, diante da falta de bom senso e de boa vontade, tal passividade se arrasta desde 2011, sendo que, inexplicavelmente e sem qualquer congruência com a urgência do caso narrado, porquanto ainda vigora o prazo do concurso, para a contratação de professores, do ano de 2013, o apelado optou por realizar novo concurso com edital lançado em dezembro de 2014, para cadastro de reserva, devendo ser ressaltado que o concurso não avançou nas etapas seguintes.
+A carência de professores persiste desde 2011 até a presente data, não obstante o esforço empreendido pelo Órgão Ministerial, conforme se denota no Inquérito Civil nº 311/2011.
+Ora, como dito alhures, a educação é direito fundamental que permite à instrumentalização dos demais, pois sem o conhecimento não há o implemento universal dos direitos fundamentais. A ignorância leva a uma passividade generalizada que impede questionamentos, assegura a manutenção de velhos sistemas violadores das normas que valorizam o ser humano e impede o crescimento do ser humano e o consequente amadurecimento da nação.
+É evidente que a carência de professores prejudica em demasia os alunos do CE João Alfredo, que além de ficarem tolhidos no aprendizado de matérias relevantes, ficaram com o ano letivo comprometido, em flagrante violação à isonomia, se comparada à educação dos alunos da rede privada de ensino.
+Tal fato configura omissão específica da Administração Pública, cabendo ao Poder Judiciário determinar a implementação de Políticas Públicas fundamentais, no caso em comento, a educação, sem que isso configure violação ao princípio da separação de poderes.
+Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+No caso, portanto, não houve omissão quanto à questão suscitada. Em verdade, o agravante objetiva apenas o reexame do mérito da causa a fim de que o Tribunal de origem acolha o seu pedido.
+Quanto à suposta ofensa ao art. 267, VI, e 459, do CPC/1973, da análise do conteúdo do acórdão verifica-se que não há como apreciar o mérito da controvérsia, uma vez que os dispositivos legais mencionados não foram objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do especial no ponto por ausência de prequestionamento. Incidem ao caso as súmulas 282 do STF e 211 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DEVIDOS PELO ESTADO À DEFENSORIA PÚBLICA. IMPOSSIBILIDADE. CONFUSÃO. ART.
+1.049 DO CÓDIGO CIVIL DE 1916. VIOLAÇÃO DO ART. 267 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DISSÍDIO PRETORIANO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF.
+1. O prequestionamento dos dispositivos legais tidos como violados é requisito indispensável à admissibilidade do recurso especial.
+2. Revela-se deficiente a fundamentação de recurso especial interposto com fulcro na alínea "c" do permissivo constitucional, quando não há indicação de julgado para demonstrar a ocorrência do dissídio pretoriano (inteligência da Súmula n. 284 do STF).
+3. O Estado não paga honorários advocatícios nas demandas em que a parte contrária for representada pela Defensoria Pública.
+Precedentes.
+4. Extingue-se a obrigação quando configurado o instituto da confusão (art. 318 do Código Civil atual).
+5. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp 577.834/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, julgado em 21/09/2006, DJ 30/10/2006, p. 265)
+CONSTITUCIONAL E ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. DIREITO FUNDAMENTAL À SAÚDE. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA EM RECURSO ESPECIAL. COMPETÊNCIA DO STF. OFENSA AO ART. 333, I, DO CPC NÃO CONFIGURADA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ.
+1. Conforme a jurisprudência do STJ, "o funcionamento do Sistema Único de Saúde - SUS é de responsabilidade solidária da União, estados-membros e municípios de modo que qualquer destas entidades tem legitimidade ad causam para figurar no polo passivo de demanda que objetiva a garantia do acesso à medicação para pessoas desprovidas de recursos financeiros" (STJ, AgRg no REsp 1.225.222/RR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 5/12/2013).
+2. O Tribunal de origem decidiu a controvérsia acerca do fornecimento de medicamentos sob o enfoque exclusivamente constitucional, o que torna inviável a análise da questão em Recurso Especial, sob pena de usurpação da competência do STF. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/12/2014; AgRg no REsp 1.473.025/PR, Rel.
+Ministro Humberto Martins, Segunda Turma, DJe de 3/12/2014).
+3. No tocante à pretensa violação ao art. 333, I, do CPC, nota-se, pela leitura dos autos, que não houve apreciação pelo Tribunal de origem da tese em referência, o que impossibilita o julgamento do recurso nesse aspecto, por ausência de prequestionamento, nos termos das Súmulas 282/STF e 211/STJ.
+4. Por fim, a parte agravante não atacou, mediante Recurso Extraordinário, os referidos fundamentos constitucionais. Incidência da Súmula 126 do STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1692336/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/10/2017, DJe 19/12/2017)
+Por fim, quanto à irresignação relacionada à aplicação da multa prevista no art. 461, §4º, do CPC/1973, vale ressaltar que a reiterada jurisprudência desta Corte Superior, consolidou-se no sentido de que, via de regra, a sua revisão encontra óbice na Súmula 7/STJ. Apenas, excepcionalmente, o valor pode ser revisto quando verifica-se sua exorbitância ou irrisoriedade. Não é o caso dos autos. Neste sentido: AgInt no AREsp 1053808/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/08/2017, DJe 25/08/2017; REsp 1662614/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 20/06/2017; AgInt no AREsp 1020781/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/05/2017, DJe 09/06/2017.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
