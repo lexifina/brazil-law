@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. REGISTRO PROFISSIONAL. COBRANÇA DE ANUIDADES. AUSÊNCIA DE COMPROVAÇÃO DE CANCELAMENTO DO REGISTRO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA 284/STF. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 7 e 83 do STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 325):
+TRIBUTÁRIO. ANUIDADES. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. INVIABILIDADE DO EXERCÍCIO DA PROFISSÃO NÃO COMPROVADA. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA. DESCABIMENTO.
+1. A anuidade ao conselho regional de fiscalização profissional é devida em razão do registro do respectivo profissional.
+2. Ainda que o profissional comprove que exerceu atividades que não estão sujeitas à fiscalização do conselho, no período do débito, isso não significa que não tenha exercido, concomitantemente, atividade que está sujeita à fiscalização, pois, para tanto, está habilitado em razão de sua inscrição na instituição.
+3. A inscrição no Conselho Profissional é ato voluntário, decorrendo desta condição a obrigação de pagar anuidade. No momento em que o profissional opta pelo não exercício da profissão regulamentada, deve adotar procedimentos administrativos visando ao seu desligamento junto aos quadros do órgão de classe, para que se desobrigue do pagamento da anuidade.
+4. Hipótese em que não há prova nos autos de que a autora exercia atividade incompatível com o exercício da profissão de enfermagem, no período referente às anuidades executadas.
+5. Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença.
+6. Reformada a sentença e configurada a sucumbência recíproca, impõe-se a condenação da autora em honorários advocatícios, com exigibilidade suspensa face à concessão do benefício da AJG nestes autos.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente sustenta dissídio jurisprudencial e ofensa aos artigos 5º da Lei 12.514/2011, 9º, I, do CTN e 150, I, da CRFB/1988, ao fundamento de que " ..  a cobrança de anuidades sem a comprovação do efetivo exercício de atividade profissional, em período anterior à entrada em vigor da Lei nº 12.514/2011 vai de encontro ao princípio da legalidade tributária  .. " (fl. 353).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+De início, frise-se que nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do artigo 150, I, da CRFB/1988.
+Quanto aos demais dispositivos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não estava comprovado o exercício de atividade incompatível com a profissão de enfermagem, de forma que, ausente o cancelamento do registro, é legal a cobrança das anuidades referentes aos anos de 2008 a 2011.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Por fim, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos. Incidência da Súmula 284/STF.
+Ademais, a divergência jurisprudencial suscitada não atende ao requisito da identidade fático-jurídica entre os acórdãos confrontados, uma vez que as peculiaridades do caso vertente não se encontram espelhadas nos paradigmas, os quais, a toda evidência, lastrearam-se em fatos, provas e circunstâncias distintas das constantes dos autos sob análise.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
