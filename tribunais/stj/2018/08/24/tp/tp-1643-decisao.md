@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de tutela provisória formulado por COOPERATIVA VITIVINÍCOLA FORQUETA LTDA, requerendo a suspensão da decisão proferida pelo Tribunal de Justiça do Rio Grande do Sul, conforme a ementa abaixo transcrita, verbis:
+AÇÃO RESCISÓRIA. SENTENÇA QUE REJEITOU EMBARGOS A ARREMATAÇÃO. QUESTÕES RESOLVIDAS PELO TRIBUNAL EM AGRAVO DE INSTRUMENTO RESULTANTE DOS AUTOS DA EXECUÇÃO, NÃO PODEM SER OBJETO DE PEDIDO RESCISÓRIO CONTRA SENTENÇA QUE REJEITOU EMBARGOS A ARREMATAÇÃO. NO MAIS, QUANTO À CIENTIFICAÇÃO DA EXECUTADA A RESPEITO DA HASTA PÚBLICA, CIRCUNSTÂNCIAS AFIRMADORAS DE CIÊNCIA INEQUÍVOCA, AFASTANDO-SE, COM RAZOABILIDADE, TENHA HAVIDO VIOLAÇÃO DO ENTÃO VIGENTE ART. 485, V, DO CPC/1973. VOTO VENCIDO.
+AÇÃO RESCISÓRIA IMPROCEDENTE.
+Contra a referida decisão foram opostos embargos de declaração que restaram rejeitados e, posteriormente recurso especial, com fundamento no art. 105, III, a e c da Constituição Federal, tendo indicado como violados os arts. 687, §5º do CPC/73 e 927 do Código Civil, alegando, em síntese, a irregularidade na cientificação do executado sobre a alienação de imóvel em hasta pública.
+Entende presentes o fumus boni iuris representado, em suma, pela plausibilidade do provimento do recurso especial, tendo em vista a legislação e a jurisprudência, e o periculum in mora, caracterizado pela iminente perda da posse.
+Pugna, ao final, por liminar para a concessão de efeito suspensivo ao referido recurso especial.
+É o relatório. Decido.
+De acordo com o art. 995, parágrafo único, do Código de Processo Civil de 2015, em caso de recurso que em regra não é dotado de efeito suspensivo, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Por sua vez, o art. 1.029, § 5º, inciso I, do CPC/2015 estabelece que o pedido de concessão de efeito suspensivo a recurso especial poderá ser formulado por requerimento dirigido ao Tribunal Superior respectivo, no período compreendido entre a interposição do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo.
+Como se pode notar, para a excepcional concessão do efeito suspensivo, há se exigir a presença cumulada dos dois requisitos legais, quais sejam, a possibilidade de risco de dano grave ou de difícil ou impossível reparação e a probabilidade de provimento do recurso.
+Na hipótese dos autos, observa-se que a questão vem sendo examinada de há muito e que o derradeiro capítulo, agora sob exame na via do recurso especial, encerra decisão em ação rescisória.
+Para o afastamento da alegada improcedência da ação rescisória, no caso entelado, seria preciso demonstrar a violação literal do dispositivo legal apontado, in casu, relacionado à cientificação do devedor. No entanto, no acórdão recorrido resta assentado que houve a devida cientificação, rectius, que a executada teve ciência inequívoca.
+A afirmação que fundamentou a decisão recorrida vai ao encontro da convicção do recorrente, ora requerente, o que demonstra, a um só tempo, a fragilidade do apelo nobre e a necessidade de reexaminar as provas para afastar o entendimento do julgador no sentido da legalidade da cientificação.
+Neste panorama, ausente o fumus boni iuris, inviável o prosseguimento do pleito enfitado.
+Ante o exposto, com fundamento no art. 288, § 2º, do RI/STJ, indefiro liminarmente a própria tutela provisória.
+ Publique-se. Intimem-se.
