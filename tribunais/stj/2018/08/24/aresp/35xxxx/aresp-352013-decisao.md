@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INOMINADO NA APELAÇÃO. DECISÃO MONOCRÁTICA PROFERIDA PELO RELATOR. RECURSO MANIFESTAMENTE IMPROCEDENTE. LITIGÂNCIA DE MÁ-FÉ VERIFICADA. AGRAVO IMPROVIDO. MULTA.
+1 - O art. 557, do CPC, expressamente autoriza o juízo monocrático de mérito, na hipótese de recurso manifestamente improcedente. Hipótese verificada nos autos.
+2 - Na hipótese, verifica-se que a sentença não merece reparo, porquanto restou inconteste nos autos que o recorrente requereu a homologação de um suposto acordo que não existiu.
+3 - É de de refutar as proposições recursais de fls. 476/482, porquanto o reconhecimento da litigância de má-fé do banco-recorrente decorreu da utilização da tese inverídica, consistente na suposta transação a respeito da extinção da ação revisional. Fato que não se verificou no caso concreto, devendo permanecer a multa por litigância de má-fé, vez que a conduta está perfeitamente subsumida nas hipóteses previstas nos incisos 1 e 11, do art. 17, do Código de Processo Civil.
+4 - Sendo o agravo inominado manifestamente infundado, incorre o recorrente na multa prevista no art. 557, § 20, do CPC.
+5 - Recurso conhecido e desprovido, condenando o agravante ao pagamento, em favor dos agravados, de multa arbitrada no percentual de 10 % sobre o valor da causa, devidamente corrigido e acrescido de juros de mora até o efetivo pagamento, ficando condicionada a interposição de qualquer recurso ao depósito do respectivo valor.
+Nas razões de recurso especial, alega o ora agravante violação dos artigos 17 e 557, § 2º, do Código de Processo Civil de 1973, além de divergência jurisprudencial.
+Afirma que é inaplicável a multa prevista no artigo 557, § 2º, do CPC quando o agravo interno objetiva o exaurimento da instância ordinária para interposição de futuro recurso especial. Sustenta, também: i) que: "é notória a ausência de dolo do recorrente de inviabilizar a celeridade no andamento processual e o deslinde da demanda"; ii) que "o suposto erro material cometido pelo recorrente, portanto, afigura-se justificável, na medida em que, caso contrário, não teria proposto qualquer tipo de acordo para quitação da dívida"; iii) que "não se pode afirmar que o recorrente alterou a verdade dos fatos, pelo que inaplicáveis à espécie os incisos I e II do art. 17 do CPC; e, iv) que "a jurisprudência do STJ é uníssona no sentido de que a ausência de dolo aliada à falta de comprovação do prejuízo inviabiliza a imposição da pena por litigância de má-fé".
+A decisão agravada foi publicada antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Pois bem.
+No tocante à multa do artigo 17 do Código de Processo Civil de 1973, consignou o Tribunal de origem que "o reconhecimento da litigância de má-fé do banco-recorrente decorreu da utilização da tese inverídica, consistente na suposta transação a respeito da extinção da ação revisional (fato que não se verificou)" (fls. 635-636/e-STJ).
+Correta, no ponto, a decisão ora agravada ao obstar o recurso especial pela incidência da Súmula 7/STJ, na medida em que apenas com o reexame do conjunto fático-probatório dos autos seria possível infirmar as conclusões do acórdão recorrido.
+Quanto à multa do artigo 557, § 2º, do CPC/1973, no entanto, assiste razão ao agravante.
+É que o entendimento desta Corte é no sentido de que a utilização de instrumentos processuais, por si só, não implica má-fé. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - EMPRESA EM RECUPERAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO EM RAZÃO DA AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL E DA INCIDÊNCIA DA SÚMULA 83 DO STJ. IRRESIGNAÇÃO DA RECUPERANDA.
+1. Não há falar em violação do art. 535 do CPC/73 na hipótese em que a questão fora satisfatoriamente decidida pelo Tribunal a quo, fundamentadamente.
+2. De acordo com o art. 49 da Lei nº 11.101/2005, apenas os créditos existentes na data do pedido estão sujeitos à recuperação judicial.
+Assim, créditos posteriores ao pleito recuperacional não se submetem aos seus efeitos. Precedentes.
+3. Consoante a jurisprudência desta Corte Superior, "A simples utilização de instrumento processual previsto no ordenamento jurídico pátrio não demonstra, por si só, intuito protelatório, de modo que não tem cabimento a multa prevista no artigo 557, § 2º, do revogado Código de Processo Civil" (AgRg no AREsp 461.220/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2016, DJe 12/08/2016).
+4. Agravo regimental desprovido.
+(AgRg no AgRg no REsp 1494870/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/9/2016, DJe 14/9/2016)
+Em face do exposto, conheço do agravo e dou provimento, em parte, ao recurso especial, para afastar a multa do artigo 557, § 2º, do Código de Processo Civil de 1973.
+Intimem-se.
