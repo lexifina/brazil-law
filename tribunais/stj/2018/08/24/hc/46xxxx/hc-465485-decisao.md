@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido liminar, deduzido em sede de habeas corpus, impetrado em favor de EDILSON GALDINO DA SILVA, contra r. decisum de em. Desembargador do eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi preso em flagrante delito, em tese, pela prática do crime de tentativa de furto qualificado, sendo a custódia convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante a eg. Corte de origem, que indeferiu o pedido liminar, nos termos do decisum juntado às fls. 40-44, e ainda não julgou o mérito da impetração.
+No presente writ, postula o impetrante a revogação da prisão preventiva, em razão da alegada ausência de fundamentação idônea para a segregação cautelar, pelo fato do crime não etr sido praticado com violência nem grave ameaça à pessoa.
+Requer, ao final, a concessão da liminar, para revogar a segregação preventiva do paciente (fls. 1-12).
+É o relatório.
+Decido.
+Ab initio, verifica-se que o presente writ investe contra decisão proferida por em. Desembargador de Tribunal de Justiça que denegou o pedido liminar em habeas corpus impetrado na origem.
+Sobre o tema, contudo, insta consignar que a jurisprudência desta Corte há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado sumular nº 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Na hipótese, o writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, in verbis: "Numa análise superficial, não se vislumbra flagrante ilegalidade ou abuso na prisão preventiva decretada, pelo menos em princípio, haja vista adequada motivação. Permitida a prisão preventiva (313, I, cpp), levando em conta a pena máxima in abstrato prevista para o crime ora em apuração, além da menção pelo Juiz "a quo" na r. decisão ora impugnada de que "o indiciado possui passagens anteriores, inclusive no ano passado no mesmo local-vítima", daí porque inviável, por ora, concessão de medida urgente, emergencial."
+In casu, considerando que houve fundamentação lastreada em dados concretos dos autos, notadamente ante a reiteração delitiva do paciente, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
