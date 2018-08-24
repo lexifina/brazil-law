@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL (CPC/2015). INVERSÃO DO ÔNUS DA PROVA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. PRODUTOR RURAL. CONSUMIDOR. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por DU [NOME] S/A contra decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o recurso especial, fundamentado nas alíneas "a" e "c", da Constituição da República, manejado contra acórdão assim ementado (e-STJ, fl. 227):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INDENIZAÇÃO - REQUERIMENTO DE INVERSÃO DO ÔNUS DA PROVA - APLICABILIDADE DA TEORIA FINALISTA. À luz da teoria finalista, adotada pelo Superior Tribunal de Justiça, são inaplicáveis as normas da Lei 8.070/90 - Código de Defesa do Consumidor, quando o adquirente do produto ou serviço não é seu destinatário final, excetuando-se esse conceito apenas quando apresentada vulnerabilidade da parte, como se verifica na espécie.
+Nas razões do recurso especial, a parte recorrente alegou violação dos arts. 357, III, e 373 do CPC/2015. Sustenta, em síntese que (e-STJ, fl. 269) :
+A inversão do ônus da prova deve ocorrer em momento oportuno, quando já fixados os pontos controvertidos e compreendida a capacidade das partes de produzir determinadas provas.
+A subversão da ordem processual, com a inversão do ônus da prova antes de fixados os pontos controvertidos, com a suposta finalidade de garantir a paridade de forças entre as partes, acaba gerando distorções, impondo-se a uma parte a obrigação de produzir uma prova que não tem condições de produzir, com claro prejuízo para o contraditório e ampla defesa.
+E, como corretamente decidiu o MM Juízo de Primeiro Grau, o momento processual adequado para a distribuição do ônus da prova é a fase de saneamento, o que a c. 18a Câmara Cível do TJ-MG, data maxima venia, não tomou em consideração.
+Contrarrazões às fls. 294/303 e 305/320.
+É o relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito à alegação do momento inoportuno para inversão dos ônus da prova, percebe-se que o tema não foi apreciado pela Corte de origem, pois concluiu tratar-se de verdadeira inovação recursal (e-STJ, fl. 260):
+"Dessa feita, como os argumentos ora apresentados sobre o momento processual oportuno para a distribuição das provas não foram trazidos à baila pelo embargante na sua contraminuta ao agravo de instrumento, não há que falar em omissão no acórdão embargado, pois não é dado ao recorrente inovar nos fundamentos que deveriam ter sido arguidos no tempo e na via adequada".
+ Assim, verifica-se que, apesar de opostos embargos declaratórios pela parte Recorrente, o Tribunal de origem não se manifestou acerca dos mencionados argumentos, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+Quanto à alegação trazida com base na alínea "c" melhor sorte não socorre a recorrente. Verifica-se que a argumentação utilizada no que diz respeito à "sujeição da relação entre produtores rurais e empresas produtoras de insumos agrícolas às regras do Código de Defesa do Consumidor" (e-STJ, fl. 274), demonstra-se deficiente, pois não houve a indicação de dispositivo de lei federal, incidindo, na espécie, o óbice da Súmula 284 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese o teor da Súmula 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+2. A revisão da conclusão estadual - acerca da legitimidade passiva da recorrente, da desnecessidade da produção de prova pericial, da competência da Justiça Estadual para julgar o feito, bem como pela cobrança indevida dos juros de obra ao consumidor - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providência inviável na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+3. Por fim, registre-se não ser cabível o arbitramento de honorários recursais previstos no § 11 do art. 85 do Novo Código de Processo Civil no recurso de agravo interno.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1213182/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/04/2018, DJe 03/05/2018; grifou-se)
+Assim sendo, ante a ausência de prequestionamento e de indicação de dispositivo violado, o não conhecimento do recurso é medida que se impõe.
+Ante o exposto, CONHEÇO do agravo para não conhecer do recurso especial.
+Por fim, cumpre esclarecer que "não cabe a majoração dos honorários advocatícios nos termos do § 11 do art. 85 do CPC de 2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários" (AgInt no REsp 1.507.973/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 19/05/2016, DJe 24/05/2016).
+Intimem-se.
