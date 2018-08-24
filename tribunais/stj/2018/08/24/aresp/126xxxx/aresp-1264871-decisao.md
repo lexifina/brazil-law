@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSO CIVIL E TRIBUTÁRIO. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 557 DO CPC. AUSÊNCIA DE PROVAS DO RECOLHIMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS DO EMPREGADO E NÃO REPASSE AOS CORES PÚBLICOS (ART. 168-A DO CP). CONCLUSÃO DIVERSA QUE IMPLICARIA O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. AGRAVO (ART. 557 DO CPC). RESPONSABILIDADE DOS SÓCIOS. INEXISTÊNCIA. INCLUSÃO DOS SÓCIOS NO POLO PASSIVO UNICAMENTE EM RAZÃO DO ART. 13 DA LEI Nº 8.620/93 HOJE REVOGADO. ART. 168-A DO CP. AUSÊNCIA DE PROVAS DO DESCONTO E NÃO REPASSE. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. 0 agravo previsto no art. 557, §1º, do Código de Processo Civil tem o propósito de submeter ao órgão colegiado o controle da extensão dos poderes do relator, bem como a legalidade da decisão monocrática proferida, não se prestando à rediscussão da matéria já decidida.
+2. Mantida a decisão agravada, porque seus fundamentos estão em consonância com a jurisprudência pertinente à matéria.
+3. Agravo legal a que se nega provimento (fls. 130).
+2. Nas razões do Apelo Nobre inadmitido, a recorrente aponta violação ao art. 557 do CPC e, no mérito, sustenta que a ausência de recolhimento de contribuição social já descontada dos segurados e não recolhidas à Seguridade Social autoriza a inclusão dos sócios no executivo fiscal , por configurar infração à lei com base no art. 135, III, do CTN (fls. 140).
+3. Inadmitido o Recurso Especial (fls. 149/151), sobreveio o Agravo de fls. 153/164.
+4. É o relatório. Decido.
+5. O recurso não merece prosperar.
+6. Quanto à nulidade da decisão monocrática, é pacífica a jurisprudência deste Superior Tribunal de Justiça no sentido de que o julgamento pelo órgão colegiado via agravo regimental convalida eventual ofensa ao art. 557, caput, do CPC (REsp 1.355.947/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 21.6.2013).
+7. No mais, o Ente Público requer o redirecionamento da Execução Fiscal, ao argumento de que o crédito executado se refere a contribuições previdenciárias descontadas dos empregados e não recolhidas à Seguridade Social (fls. 140). Todavia, nesse ponto, o acórdão recorrido afirma que não logrou a exequente provar que houve o efetivo recolhimento das contribuições e o não repasse aos cofres públicos, razão pela qual não se pode presumir a infração a lei e, ainda, que a agravante sequer juntou aos autos cópia da Certidão de Dívida Ativa, limitando-se a alegar que os créditos do tipo 5 são referentes a contribuições descontadas e não repassadas aos cofres públicos, sem qualquer prova (fls. 128). Verifica-se, assim, que o acolhimento das alegações deduzidas no Apelo Nobre ensejaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+8. Diante do exposto, nega-se provimento ao Agravo.
+9. Publique-se.
+10. Intimações necessárias.
