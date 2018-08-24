@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 240):
+ADMINISTRATIVO. REVISÃO DE BENEFÍCIO. EX-FERROVIÁRIO (RFFSA). REAJUSTE DE 26,06% DECORRENTE DE ACORDO COLETIVO. POSTERIOR TRANSAÇÃO REALIZADA EM AÇÃO DE CUMPRIMENTO. SUBSTITUIÇÃO DO REAJUSTE POR VERBA DE NATUREZA INDENIZATÓRIA. MANUTENÇÃO DA SENTENÇA.
+1. Em acordo coletivo de trabalho firmado entre a RFFSA e o sindicato representante dos ferroviários foi assegurado a estes o reajuste de 26,06%. Em face da não observância desse acordo, foi ajuizada ação de cumprimento na Justiça do Trabalho, na qual foi celebrado novo acordo, substituindo esse percentual de 26,06% por uma parcela de natureza indenizatória, com expressa renúncia aos demais direitos que decorreriam do título judicial.
+2. Com a nova transação realizada, extinguiram-se os efeitos do título judicial que determinava a concessão do índice de 26,06%, o qual, portanto, não chegou a compor os salários do(s) autor(es) e não pode ser acrescido aos salários de contribuição com base nos quais foi calculada a renda mensal inicial do seu benefício de aposentadoria.
+3. Apelação não provida para manter a sentença que julgou improcedente o pedido.
+Na origem, cuida-se de ação em que o autor objetiva o reajuste dos seus proventos com a incidência do percentual de 26,06% sobre os mesmos, com valor da causa fixado em R$ 40.000,00 (quarenta mil reais). Na sentença, julgou-se improcedente o pedido (fls. 206-209). No TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, a sentença foi mantida (fls. 234-240).
+Opostos embargos declaratórios, foram rejeitados (fls. 274-280).
+Interposto recurso especial, alega a parte recorrente violação do art. 40, §§4º e 5º, da CRFB/88, Lei n. 8.186/91, Decreto n. 57.629/66, Decreto-lei n. 956/69, Lei n. 10.478/2002.
+Negado seguimento ao recurso especial na origem, foi interposto agravo em recurso especial (fls. 337-346).
+É o relatório. Decido.
+Incide sobre o recurso especial o Enunciado Administrativo n. 2/STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No que diz respeito a suposta ofensa ao art. 40, §§4º e 5º, da CRFB/88, bem como às figuras constitucionais da coisa julgada, ato jurídico perfeito, direito adquirido e segurança jurídica, não cabe ao STJ a análise de suposta violação de dispositivos constitucionais, ainda que para o fim de prequestionamento, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp 1.604.506/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017.
+Quanto à alegada violação da Lei n. 8.186/91, Decreto n. 57.629/66, Decreto-lei n. 956/69 e Lei n. 10.478/2002, verifica-se que o acórdão recorrido decidiu que a transação realizada pelas partes na ação de cumprimento trabalhista previu que o reajuste de 26,06% seria substituído pelo pagamento de determinada e única quantia em dinheiro. Assim, para se chegar à conclusão diversa, seria necessário o reexame da citada transação, o que configuraria reanálise fático-probatória dos autos, procedência esta vedada pela Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CDA. REEXAME DE PROVAS. SÚMULA 7 DO STJ. DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. ASSISTÊNCIA GRATUITA CONCEDIDA NA ORIGEM.
+(..)
+3. A alteração do decisum, para modificar o entendimento do magistrado, demanda incursão no acervo fático-probatório dos autos, medida que encontra óbice na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+(..)
+(REsp 1721132/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/02/2018, DJe 02/08/2018)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo em recurso especial, para não conhecer do recurso especial.
+Publique-se. Intime-se.
