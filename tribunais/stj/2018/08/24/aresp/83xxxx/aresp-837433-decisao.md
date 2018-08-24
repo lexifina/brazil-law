@@ -1,0 +1,24 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. IMPOSTO DE RENDA. DEPÓSITO BANCÁRIO. ORIGEM NÃO COMPROVADA. ALTERAÇÃO DA CONCLUSÃO DO JULGADO IMPUGNADO QUE RESULTARIA NO REVOLVIMENTO DE PROVAS, O QUE É DEFESO EM RESP. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com fundamento na alínea a do art. 105, III da CF/1988, objetivando a reforma do acórdão proferido pelo TRF da 4a. Região, assim ementado:
+IRPF. LANÇAMENTO DE OFÍCIO. OMISSÃO DE RENDIMENTO. DEPÓSITO BANCÁRIO. ORIGEM NÃO COMPROVADA.
+É devida a cobrança de Imposto de Renda Pessoa Física - IRPF sobre os valores depositados na conta bancária do contribuinte, quando não comprovada a sua origem (fls. 886).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 904/906).
+3. Nas razões do Apelo Nobre (fls. 913/922), a parte recorrente aponta violação do art.108, II do CTN, argumentando, em suma, que, em face da violação ao princípio in dúbio pro contribuinte, deve ser reconhecida a nulidade do débito fiscal em comento, porquanto, o conjunto de provas, de forma inegável, justifica os valores transitados na conta do apelante demonstrando não se tratarem de renda tributável, mas sim valores de terceiros em trânsito por sua conta (fls. 920).
+4. Com contrarrazões (fls. 929/931), o recurso foi inadmitido na origem (fls. 934/935).
+5. É o relatório. Decido.
+6. A irresignação não merece acolhimento.
+7. A Corte de origem consignou que:
+(..), o autor não comprovou que os depósitos efetuados em sua conta corrente correspondiam a valores passados por seus clientes para fazer frente a despesas com obras.
+Outrossim, o princípio do "in dubio pro contribuinte" não é aplicável ao caso dos autos, por não se tratar aqui de interpretação da lei tributária (art. 112 do Código Tributário Nacional).
+Em verdade, cabia ao autor comprovar a origem dos valores depositados em sua conta bancária, de modo que poderia ter ele apresentado os comprovantes de depósito das quantias em sua conta, fornecidos pelos seus clientes. A simples apresentação de recibos relativos a gastos com obras e de documentos relativos à contratação para realização de empreitada não se mostra, por certo, suficiente para demonstrar que as quantias depositadas provieram de clientes do demandante.
+Causa estranheza, ademais, considerando o elevado montante dos depósitos, que não dispusessem os clientes do autor de comprovantes da transferência dos valores para a conta bancária do demandante (fls. 884/885).
+8. Assim, diante das circunstâncias postas nos autos, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão recorrido, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em Recurso Especial. Isso porque, alinhado à orientação desta Corte, entendeu o Tribunal de origem que o recorrente não comprovou, como lhe competia, a origem dos valores depositados em sua conta bancária. Confira-se, a propósito, o seguinte precedente:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ALEGAÇÕES GENÉRICAS DE OFENSA AO ART. 535 DO CPC. SÚMULA 284/STF. IMPOSTO DE RENDA. OMISSÃO DE RENDIMENTOS. DEPÓSITOS BANCÁRIOS. ART. 42 DA LEI 9.430/1996. LEGALIDADE. DECADÊNCIA. TERMO INICIAL. AUSÊNCIA DE PAGAMENTO ANTECIPADO. INCIDÊNCIA DO ART. 173, I, DO CTN.
+1. Não se conhece da alegada ofensa ao art. 535 do CPC quando a parte se limita a apresentar alegações genéricas, sem demonstrar a razão pela qual a apreciação de determinados dispositivos legais seria obrigatória no âmbito do Tribunal a quo e sem explicitar a relevância deles para o deslinde da controvérsia. Aplicação analógica da Súmula 284/STF.
+2. Não comprovado o pagamento antecipado do tributo, incide a regra do art. 173, I, do CTN, em detrimento do disposto no art. 150, § 4º, consoante orientação assentada em julgamento submetido ao rito do art. 543-C do CPC (REsp 973.733/SC, Rel. Ministro Luiz Fux, Primeira Seção, DJe 18.9.2009).
+3. A análise do inteiro teor do acórdão recorrido revela que a causa não foi decidida, sequer implicitamente, à luz dos arts. 332 do CPC e 6º da LINDB. A falta de prequestionamento impede o conhecimento do recurso quanto a esse ponto (Súmula 211/STJ).
+4. A jurisprudência do STJ reconhece a legalidade do lançamento do imposto de renda com base no art. 42 da Lei 9.430/1996, tendo assentado que cabe ao contribuinte o ônus de comprovar a origem dos recursos a fim de ilidir a presunção de que se trata de renda omitida (AgRg no REsp 1.467.230/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28.10.2014; AgRg no AREsp 81.279/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 21.3.2012).
+5. Agravo Regimental não provido AgRg no AREsp 664.675/RN, Rel. Min. HERMAN BENJAMIN, DJe 21.5.2015).
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+10. Publique-se. Intimações necessárias.
