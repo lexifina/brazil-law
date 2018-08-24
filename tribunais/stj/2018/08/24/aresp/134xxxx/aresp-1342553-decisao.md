@@ -1,0 +1,59 @@
+EMENTA
+PENAL. ROUBO MAJORADO. EMPREGO DE ARMA. PLEITO DE DECOTE DA MAJORANTE. ALEGAÇÃO DE AUSÊNCIA DE POTENCIALIDADE LESIVA. IMPOSSIBILIDADE. PRECEDENTES. EREsp n. 961.863/RS. SÚMULA N. 568/STJ. INCIDÊNCIA. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão proferida pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+O MM. Juízo de 1º Grau condenou o ora agravante como incurso nas sanções do art. 157, § 2º, inciso I, do Código Penal, à pena de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial fechado (fls. 156-163).
+O eg Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa, para manter a sentença recorrida (fls. 206-222). Eis a ementa do decisum:
+"APELAÇÃO CRIME. CRIMES CONTRA O PATRIMÔNIO. ROUBO MAJORADO. PRELIMINAR DE NULIDADE.
+Embora o acusado não tenha sido conduzido pela SUSEPE à audiência na qual foram colhidas as declarações da vítima, não há nulidade a declarar, uma vez que foi garantido o exercício do contraditório pela defensora presente à solenidade e não houve a comprovação de prejuízo concreto. Da mesma forma, aplicável ao caso o disposto no art. 217 do CPP. Prefaciai de nulidade rechaçada.
+MATERIALIDADE E AUTORIA DEMONSTRADAS.
+CONDENAÇÃO MANTIDA.
+Os elementos de convicção constantes dos autos demonstram a materialidade do crime de roubo majorado pelo emprego de arma e elucidam a respectiva autoria, que recai de forma segura sobre o denunciado.
+As declarações do ofendido e a confissão parcial apresentada pelo acusado são subsídios que determinam a rejeição do pedido de absolvição por insuficiência probatória formulado pela defesa.
+MAJORANTE DO EMPREGO DE ARMA.
+A aplicação da majorante do emprego de arma dispensa a apreensão do artefato, bastando prova, por qualquer meio admitido, quanto a sua efetiva utilização durante a ação subtrativa.
+Potencial lesivo in re ipsa que torna desnecessária a realização de perícia.
+DOSIMETRIA
+Penas confirmadas nos moldes sentenciais.
+PRELIMINAR REJEITADA. APELO DESPROVIDO."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega violação ao art. 157, § 2º, inciso I, do Código Penal. Para tanto, menciona que:
+a) " ..  a caracterização da arma não pode ter por único critério a intimidação à vítima, visto que, sem controvérsia, a grave ameaça é elementar do tipo. Logo, para configuração da majorante, especialmente por tratar-se de lei penal, torna-se evidente a indispensabilidade da efetiva comprovação de seu potencial lesivo, posto que existente dúvida acerca deste ponto, o afastamento da mesma é medida de rigor" (fl. 232);
+b) " ..  compreendida na grave ameaça contida no caput do tipo penal e não é capaz de caracterizar a majorante do emprego da arma de fogo. Decorre, ao se equiparar as circunstâncias, em superdimensionamento de situação muito mais branda ao igualá-la à ação cometida com arma de fogo, real objetivo do aumento de pena pela majorante. Daí o erro de valoração havido no julgamento" (fls. 233-234);
+O especial foi inadmitido na origem pela incidência da Súmula n. 83/STJ (fls. 247-252).
+Daí o presente agravo, no qual o agravante repisa os argumentos expendidos no apelo nobre e rebate o fundamento da decisão que o inadmitiu (fls. 256-263).
+Contraminuta apresentada pelo Parquet (fls. 270-273).
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo desprovimento do agravo (fls. 291-292).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se ao argumento de que houve violação ao art. 157, § 2º, inciso I, do CP, sob o argumento de que " ..  a caracterização da arma não pode ter por único critério a intimidação à vítima, visto que, sem controvérsia, a grave ameaça é elementar do tipo. Logo, para configuração da majorante, especialmente por tratar-se de lei penal, torna-se evidente a indispensabilidade da efetiva comprovação de seu potencial lesivo, posto que existente dúvida acerca deste ponto, o afastamento da mesma é medida de rigor" (fl. 232), e de que " ..  compreendida na grave ameaça contida no caput do tipo penal e não é capaz de caracterizar a majorante do emprego da arma de fogo. Decorre, ao se equiparar as circunstâncias, em superdimensionamento de situação muito mais branda ao igualá-la à ação cometida com arma de fogo, real objetivo do aumento de pena pela majorante. Daí o erro de valoração havido no julgamento" (fls. 233-234).
+Contudo, o reclamo não merece prosperar.
+O eg. Tribunal a quo assim se manifestou sobre o ponto:
+"O segundo ponto de insurgência recursal relativo ao mérito diz com a pretensão de afastamento da majoração decorrente do emprego de arma, no que não assiste razão à defesa.
+Trata-se da hipótese prevista no inciso I do §2.º do artigo 157 do Código Penal, cuja intenção do legislador foi estabelecer punição mais severa ao criminoso que, utilizando-se de tal expediente, potencializa o poder de coação à vítima como forma de mais facilmente despojá-la de seu patrimônio. Tanto pode se dar com o emprego de artefato produzido com finalidade bélica - recebendo a denominação de arma própria (revólver, pistola, punhal) - ou outro objeto com destinação diversa, mas que apresente potencial para intimidar ou ferir - configurando arma imprópria (faca de cozinha, pedaços de madeira, barra metálica, etc.).
+Para a comprovação desta causa de aumento, é desnecessária a apreensão ou a realização de perícia na arma utilizada, uma vez que seu potencial lesivo é in re ipsa, podendo ser demonstrada por qualquer meio de prova, em especial pelas declarações da vítima - devido ao contato direto com o agente criminoso - ou pelo depoimento de testemunha presencial.
+Este entendimento encontra-se pacificado no âmbito das Cortes Superiores, contando com decisões do Plenário do Supremo Tribunal de Federal e da Terceira Seção do Superior Tribunal de Justiça.
+Pela representatividade dos julgamentos, colaciono as respectivas:
+ ..
+Na hipótese dos autos, embora não tenha sido apreendida a arma utilizada no crime, ao prestar declarações em Juízo, o ofendido ressaltou que o acusado proferiu ameaças com uma arma de fogo no curso da ação subtrativa, o que basta para a incidência da majorante disposta no inciso I do § 2º do art. 157 do Código Penal.
+Não desconheço que, em sua defesa, o denunciado afirmou que teria utilizado apenas um simulacro de arma para executar o roubo.
+Contudo, o ônus de demonstrar este fato competia a sua defesa, devendo ser salientado que nenhum elemento confirmativo nesse sentido veio aos autos. Portanto, examinando as firmes declarações do ofendido - que salientou que o réu proferiu grave ameaça com uma pistola - e a negativa trazida pelo acusado - sustentando tratar-se de mera réplica -, confiro valor predominante àquelas, até porque não há qualquer indicativo de intenção oculta de agravar, injustamente, a punição a ser aplicada ao criminoso.
+ ..
+Ratifico, portanto, a condenação de [NOME] RODRIGUES [NOME] como incurso nas sanções do art. 157, §2º, I, do Código Penal." (fls. 206-222, grifei).
+Deve ser mantido o acórdão recorrido, tendo em vista que encontra-se em consonância com a jurisprudência deste eg. Tribunal Superior, que é firme no sentido de que: "A Terceira Seção desta Corte, quando do julgamento do EREsp n. 961.863/RS, submetido à sistemática dos recursos repetitivos, firmou o entendimento no sentido de que, para a incidência da causa especial de aumento prevista no art. 157, § 2º, inciso I, do Código Penal, é dispensável a apreensão e realização de perícia no respectivo objeto, desde que existentes outros meios que comprovem a utilização da arma de fogo na prática delituosa" (HC n. 449.697/SP, Quinta Turma, de minha relatoria, DJe 28/6/2018, grifei).
+Acerca da questão, colaciono os seguintes precedentes desta Corte:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. AFASTAMENTO DA MAJORANTE DO CONCURSO DE AGENTES. IMPOSSIBILIDADE. PROVA ORAL. REEXAME FÁTICO-PROBATÓRIO. MAJORANTE DO EMPREGO DE ARMA. APREENSÃO E PERÍCIA. DESNECESSIDADE. UTILIZAÇÃO DE OUTROS MEIOS DE PROVA. COMPREENSÃO FIRMADA NA TERCEIRA SEÇÃO (ERESP N. 961.863/RS). CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O acolhimento do pedido da defesa de análise quanto ao afastamento da majorante do concurso de agentes demanda o reexame aprofundado de provas, inviável em habeas corpus. Ademais, com base nas provas dos autos, sobretudo o depoimento policial e da vítima, as instâncias ordinárias concluíram que houve concurso de agentes.
+3. A Terceira Seção do STJ, no julgamento do EREsp n. 961.863/RS, pacificou o entendimento no sentido de que a incidência da majorante do emprego de arma prescinde de apreensão e perícia da arma, notadamente quando comprovada sua utilização por outros meios de prova. As instâncias ordinárias concluíram pela incidência da majorante em razão da prova oral colhida nos autos (depoimento da vítima e do policial militar), o que afasta a necessidade de apreensão e perícia da arma.
+Habeas corpus não conhecido." (HC n. 420.389/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, Dje 29/6/2018).
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO MAJORADO. VIOLAÇÃO DOS ARTS. 59, 68, E 157, § 2º, I, TODOS DO CP, E 381 DO CPP. CAUSA ESPECIAL DE AUMENTO. EMPREGO DE ARMA. APREENSÃO E PERÍCIA. DESNECESSIDADE QUANDO ATESTADA A PRESENÇA DE OUTROS ELEMENTOS DE CONVICÇÃO. CONFISSÃO DO AGRAVANTE QUANTO À UTILIZAÇÃO DO ARTEFATO. PRECEDENTES DO STJ. ALEGAÇÃO DE AUSÊNCIA DE POTENCIALIDADE LESIVA. ÔNUS DA DEFESA.
+1. O Superior Tribunal de Justiça possui entendimento firme de que é prescindível a apreensão e a perícia da arma para a incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, quando existirem nos autos outros elementos de prova capazes de comprovar a sua utilização no delito, como no caso concreto, em que demonstrado pela própria Corte de origem que por meio do depoimento da vítima e do corréu, que o apelante com o corréu praticaram o roubo utilizando arma de fogo.
+2. O uso de arma de fogo foi objeto de confissão pelo agravante, razão pela qual não há que se falar em afastamento da causa de aumento de pena. Precedentes.
+ ..
+4. O poder vulnerante integra a própria natureza do artefato, sendo ônus da defesa, caso alegue o contrário, provar tal evidência. Exegese do art. 156 do CPP. (AgRg no Ag no REsp n. 1.561.836/SP, Ministro Jorge Mussi, Quinta Turma, DJe 25/4/2018).
+5. Agravo regimental improvido." (AgRg no REsp n. 1.712.795/AM, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 12/6/2018, grifei).
+Assim, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, in casu, o enunciado da Súmula n. 568/STJ, in verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Diante do exposto, conheço do agravo para desprover o recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea b, do Regimento Interno deste Superior Tribunal de Justiça.
+P. e I.
