@@ -1,0 +1,82 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. TEMPESTIVIDADE. TERMO INICIAL DO PRAZO. CARGA DOS AUTOS PELO ADVOGADO. ART. 231, VIII, DO NCPC. INÍCIO DA CONTAGEM. EXCLUSÃO DO DIA DO COMEÇO, NOS TERMOS DO ART. 224 DO NCPC (ART. 184 DO CPC/1973). SÚMULA Nº 568 DO STJ. JURISPRUDÊNCIA DOMINANTE DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+CARLOS ROBERTO OLIVEIRA DE NOVAES (CARLOS) interpôs agravo de instrumento contra decisão em execução provisória de sentença promovida por [NOME] ([NOME] E OUTROS).
+O agravo de instrumento foi julgado intempestivo e CARLOS impugnou a decisão mediante agravo interno. O Tribunal de Justiça do Estado de Pernambuco deu provimento ao agravo interno reconhecendo a tempestividade do recurso em acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CARGA DOS AUTOS. INÍCIO DA CONTAGEM DE PRAZO RECURSAL. INTELIGÊNCIA DO ART. 224 DO CPC/2015. RECURSO PROVIDO PARA AFASTAR A INTEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO. DECISÃO POR MAIORIA.
+1. No caso dos autos, verifica-se ter o advogado do agravante retirado, na origem, os autos em carga no dia 6/7/2016, iniciando-se no dia subsequente a tal data, qual seja, 7/7/2016, o prazo para interposição do referido recurso (com consequente termo final na data do dia 27/7/2016). Inteligência do art. 224 do CPC/2015.
+2. Registre-se que a regra geral prevista no art. 224 do CPC/2015 aplica-se à contagem de todos os prazos processuais, não havendo previsão legal para contagem de modo distinto na hipótese de carga dos autos do processo pelo advogado.
+3. Assim, tendo o agravo de instrumento sido interposto no dia 27/7/2017, ou seja, dentro do prazo recursal previsto no art. § 5º do art. 1.003 do CPC/2015, deve ser afastada a intempestividade do aludido recurso equivocadamente reconhecida pelo Relator.
+4. Agravo Interno provido para afastar a intempestividade do agravo de instrumento interposto pelo agravante. Decisão por maioria. (e-STJ, fl. 909, sem destaque no original).
+Os embargos de declaração foram acolhidos parcialmente sem efeitos modificativos (e-STJ, fls. 944/950).
+Inconformados, [NOME] E OUTROS interpuseram recurso especial com base no art. 105, III, a e c, da Constituição Federal, por violação dos arts. 231, III e VIII; e 224 do NCPC. Aduziram, em síntese, que a decisão recorrida violou lei federal ao interpretar as normas relativas ao cômputo dos prazos processuais. Segundo os recorrentes, o art. 224 é aplicável "salvo se houver disposição em contrário" e, quando a ciência do advogado ocorre pela carga dos autos, há exceção à regra de exclusão do dia do começo do prazo. Sustentaram, ademais, dissídio jurisprudencial em relação a julgados deste Superior Tribunal de Justiça (e-STJ, fls. 258/985).
+Em juízo de admissibilidade, a vice-presidência do Tribunal a quo, inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 1053/1058).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo à apreciação do recurso especial.
+A irresignação não merece prosperar.
+A Corte estadual assim dirimiu a controvérsia:
+Nas razões dos aclaratórios, [NOME] e outros afirmam ter havido omissão no julgado referente ao art. 231, III e VIII, CPC/15, que, segundos eles, seriam uma exceção à regra contida no art. 224, no qual se baseou o acórdão embargado.
+Verifico que, embora não tenha havido expressa menção ao art. 231 do CPC/15, a decisão embargada não o desconsidera, pois, logo de início, no voto-vista por mim proferido restou estabelecido "inexistir divergência acerca do fato de que a carga dos autos pelo advogado da parte, antes da sua intimação pela imprensa oficial, enseja sua ciência inequívoca."(fl. 824) Ora, a regra do art. 231 enumera os atos que deflagrarão os prazos processuais às partes, sem tratar da forma de contagem, a qual é tratada no art. 224. Senão, vejamos o teor dos dispositivos:
+"Art. 224. Salvo disposição em contrário, os prazos serão contados excluindo o dia do começo e incluindo o dia do vencimento."
+"Art. 231. Salvo disposição em sentido diverso, considera-se dia do começo do prazo:
+I - a data de juntada aos autos do aviso de recebimento, quando a citação ou a intimação for pelo correio;
+II - a data de juntada aos autos do mandado cumprido, quando a citação ou a intimação for por oficial de justiça;
+III - a data de ocorrência da citação ou da intimação, quando ela se der por ato do escrivão ou do chefe de secretaria;
+IV - o dia útil seguinte ao fim da dilação assinada pelo juiz, quando a citação ou a intimação for por edital;
+V - o dia útil seguinte à consulta ao teor da citação ou da intimação ou ao término do prazo para que a consulta se dê, quando a citação ou a intimação for eletrônica;
+VI - a data de juntada do comunicado de que trata o art. 232 ou, não havendo esse, a data de juntada da carta aos autos de orig devidamente cumprida, quando a citação ou a intimação se realizar em cumprir,ento de carta;
+VII - a data de publicação, quando a intimação se der pelo Diário da Justiça impresso ou eletrônico;
+VIII - o dia da carga, quando a intimação se der por meio da retirada dos autos, em carga, do cartório ou da secretaria."
+Assim, não há dúvidas - e o acórdão recorrido não se opõe a isso - de que o dia do começo do prazo coincide com a data da carga dos autos pelo patrono da parte (art. 231).
+Entretanto, por expressa previsão legal, o dia do começo é excluído da contagem (art. 224).
+Ora, ao contrário do que sustenta [NOME] e outros, não se está diante de regra nova imposta pelo CPC/15, mas de regramento consagrado e conhecido por advogados e demais operadores do direito.
+Tanto é assim que caso contado o prazo da forma que [NOME] e outros defendem ser correta nem mesmo estes embargos declaratórios seriam considerados tempestivos.
+Isso porque o mesmo art. 231, no inciso VII, impõe ser o dia do começo do prazo o da data de publicação, quando da intimação por diário oficial. No caso, a publicação intimando [NOME] e outros ocorreu em 4/5/2017 e, se incluso esse dia na contagem do prazo de 5 dias úteis, teríamos como findo quinquídio em 10/5/2017, um dia antes do protocolo dos embargos ora apreciados.
+Contudo, repito, o dia de início não é computado na contagem do prazo, razão pela qual não se falar em intempestividade do agravo de instrumento interposto por Carlos, assim como tempestivo são os presentes embargos.
+Por outro lado, saliento que se constata a contradição quando, no contexto do acórdão, estão contidas proposições inconciliáveis entre si, dificultando-lhe a compreensão. Assim, a contradição que rende ensejo à oposição de embargos de declaração é aquela interna do julgado,  .. .
+ ..
+De todo modo, esclareço que nenhuma das decisões do STJ colacionadas nos autos conta o prazo processual de forma distinta da consagrada no acórdão embargado.
+Por fim, esclareço que art. 1.025 do CPC/2015 dispõe que se consideram prequestionados os elementos que o Embargante suscitou, ainda que os aclaratórios sejam inadmitidos ou rejeitados.
+Ante o exposto, ACOLHO parcialmente os embargos de declaração, tão somente para sanar a omissão apontada (menção ao art. 231, III e VIII, CPC/15), sem efeitos modificativos (e-STJ, fls. 947/949).
+Da leitura dos trechos destacados, verifica-se que o Tribunal de origem deu provimento ao apelo do recorrido seguindo entendimento do STJ no sentido de que o termo inicial do prazo não se confunde com o início da contagem do prazo. Acrescentou que não há ressalva legal para a contagem de prazo na hipótese de cientificação do advogado mediante carga dos autos, expressa no art. 231, VIII, do Código de Processo Civil de 2015.
+Ocorre que, mesmo sob a vigência do CPC/1973, este Tribunal já tinha jurisprudência no sentido de que a intimação do causídico é antecipada pela carga dos autos, e a contagem do prazo processual iniciava-se nos termos do art. 184 do CPC/1973, cuja redação foi mantida no art. 224 do Novo Código de Proceso Civil.
+Nesse sentido, vejam-se os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. PRAZO. CONTAGEM. CIÊNCIA DA DECISÃO MEDIANTE CARGA DOS AUTOS. OBSERVÂNCIA DO ART. 184 E §§, DO CPC. TRIBUTÁRIO. IMPOSTO DE RENDA DA PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. EMPRESAS CONTROLADAS E COLIGADAS SITUADAS NO EXTERIOR. TRIBUTAÇÃO DO RESULTADO POSITIVO DA EQUIVALÊNCIA PATRIMONIAL. IMPOSSIBILIDADE NAQUILO QUE EXCEDE A PROPORÇÃO A QUE FAZ JUS A EMPRESA INVESTIDORA NO LUCRO AUFERIDO PELA EMPRESA INVESTIDA. ILEGALIDADE DO ART. 7º, §1º, DA IN/SRF N. 213/2002.
+1. Segundo a jurisprudência desta Casa, o termo inicial do prazo recursal é antecipado para a data em que o advogado retira os autos mediante carga, pois nessa data é considerado como intimado. Contudo, em nenhum dos casos essa intimação se dá com prejuízo do disposto no art. 184 e §§, do CPC. Precedentes: REsp. n. 146.197/SP, Terceira Turma, Rel. Min. Carlos Alberto Menezes Direito, julgado em 16.4.1998; REsp. n. 88.509/SP, Terceira Turma, Rel. Min. Costa Leite, julgado em 21.5.1996; REsp. n. 57.754/GO, Segunda Turma, Rel. Min. Américo Luz, julgado em 8.3.1995; REsp. n. 11.228/PR, Terceira Turma, Rel. Min. Dias Trindade, julgado em 20.8.1991; REsp. n. 11.228/PR, Terceira Turma, Rel. Min. Dias Trindade, julgado em 20.8.1991; REsp. n. 2.840/MG, Quarta Turma, Rel. Min. Barros Monteiro, julgado em 6.11.1990.
+ ..
+5. Recurso especial não provido.
+(REsp 1211882/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 5/4/2011, DJe 14/4/2011, sem destaque no original)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. AÇÃO CIVIL PÚBLICA. EFEITO SUSPENSIVO A RECURSO ESPECIAL PENDENTE DE ANÁLISE PELA CORTE LOCAL.TEMPESTIVIDADE DO RECURSO DE . TERMO INICIAL DO PRAZO. ART. 184 DO CPC. PRESENÇA DOS REQUISITOS AUTORIZADORES PARA SUA CONCESSÃO.
+1. Na origem, cuida-se de ação civil pública em que o Ministério Público do Estado de São Paulo requereu o bloqueio de bens e valores dos réus para a garantia de futura execução quanto aos prejuízos urbanísticos causados pela implementação de parcelamento irregular.
+2. A jurisprudência do Superior Tribunal de Justiça admite, em casos excepcionalíssimos, a atribuição de efeito suspensivo a recurso especial ainda não interposto ou pendente de análise no órgão ordinário.
+3. O acórdão recorrido considerou intempestiva a apelação, porquanto fora incluída na contagem do prazo a data de recebimento dos autos no setor administrativo do Ministério Público. Todavia, nos termos do art. 184 do CPC, "computar-se-ão os prazos excluindo o dia do começo e incluindo o do vencimento".
+4. Na hipótese, caracterizada a plausibilidade do direito invocado, pois a intempestividade da apelação decorreu da não exclusão do dia de começo na contagem do prazo recursal. Por sua vez, o periculum in mora está representado pela possibilidade de ocorrer o desbloqueio de bens dos réus, essenciais para a garantia da futura execução.
+Medida cautelar procedente.
+(MC 16.633/SP, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 20/3/2012, DJe 28/3/2012, sem destaque no original)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR. PRAZO. TERMO INICIAL. INTIMAÇÃO PESSOAL. REGRA ESPECIAL DO ART. 16, III DA LEI 6.830/80. TERMO INICIAL DA CONTAGEM DO PRAZO. PRIMEIRO DIA ÚTIL SEGUINTE AO DA INTIMAÇÃO. ART. 184, DO CPC.
+1. Os embargos do devedor, na execução fiscal, devem ser opostos da intimação pessoal do representante legal da devedora, com expressa advertência legal do prazo de trinta dias para sua oposição, não restando, assim, o termo a quo, da juntada aos autos do respectivo mandado.
+2. Precedentes da Corte: REsp 953.574/RS, Rel. Ministro Francisco Falcão, DJ 25.10.2007; AgRg no Ag 702551 / SP, 1ª Turma, Rel. Min. Luiz Fux, DJ 18/05/2006; REsp 810051 / RS, 2ª Turma, Rel. Min. Eliana Calmon, DJ 25/05/2006; REsp 268284 / SP, 2ª Turma, Rel. Min. João Otávio Noronha, DJ 06/03/2006.
+3. Não obstante, é de sabença que os prazos processuais contam-se com a exclusão do dia do começo e inclusão do vencimento, nos termos do art. 184, do CPC, sendo certo que o § 2º do referido artigo é explícito quanto ao termo a quo da contagem dos prazos ser o primeiro dia útil após a intimação. (Precedentes: REsp 242.076/PR, DJ 02.04.2007; AgRg no Ag 926.830/MT, DJ 28.04.2008; REsp 692.284/RJ, DJ 15.08.2005; REsp 200351/RS, DJ 19.06.2000) 4. In casu, conforme demonstra a certidão de fl. 9, houve a lavratura do auto de penhora, depósito e avaliação, com a intimação da empresa executada para acompanhar os termos da execução, em 20/08/2001, razão pela qual os embargos à execução ajuizados em 19/09/2001 são tempestivos.
+5. Agravo regimental desprovido.
+(AgRg no REsp 986.831/RJ, Rel. Ministro LUIZ FUX, Primeira Turma, julgado em 12/8/2008, DJe 11/9/2008, sem destaque no original)
+AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - INTIMAÇÃO PESSOAL - RECURSO ESPECIAL - CONTAGEM DO PRAZO - INTERPRETAÇÃO DOS ARTIGOS 184 E 241, II, AMBOS DO CPC - NÃO-JUNTADA DA CERTIDÃO DE JUNTADA DO MANDADO DE INTIMAÇÃO CUMPRIDO.
+Deve ser afastado o óbice atinente à ausência da cópia do acórdão proferido nos embargos de declaração, uma vez que, da atenta leitura dos autos, verifica-se que a referida peça encontra-se nas fls. 75/79.
+Não merece reforma a decisão agravada, todavia, no tocante à ausência de peça essencial para a aferição da tempestividade do recurso especial.
+No caso em apreço, a contagem do prazo recursal deve ser orientada pela regra do artigo 241, II, do CPC, o qual dispõe que o prazo começa a correr da data de juntada aos autos do mandado cumprido quando a intimação for por oficial de justiça. Por sua vez, o artigo 184 do mesmo Código estabelece que os prazos são computados, excluindo-se o dia do começo, que, na espécie, é a data da juntada do referido mandado. Nesse sentido: REsp 448.663/RJ, DJU 22.04.2003, Rel. Min. Jorge Scartezzini.
+Constata-se, porém, que não consta dos autos a certidão de juntada do mandado de intimação cumprido, motivo pelo qual é inviável aferir se o recurso especial é ou não tempestivo.
+Agravo regimental improvido.
+(AgRg no Ag 545.511/RS, Rel. Ministro FRANCIULLI NETTO, Segunda Turma, julgado em 3/2/2005, DJ 2/5/2005, p. 282)
+PROCESSO CIVIL - PRAZO PARA APELAR - SENTENÇA PROFERIDA EM AUDIÊNCIA - INÍCIO - CONTAGEM.
+Proferida a sentença em audiência, desde então inicia-se o prazo para recorrer. A contagem do prazo, todavia, segue a regra do artigo 184 do Código de Processo Civil, que determina a exclusão do dia do começo e a inclusão do dia de vencimento.
+Recurso especial provido.
+(REsp 513.016/RJ, Rel. Ministro CASTRO FILHO, Terceira Turma, julgado em 26/8/2004, DJ 27/9/2004, p. 354, sem destaque no original)
+Essa é a situação dos autos, em que não há controvérsia sobre o dia da carga dos autos como data da intimação da parte, apenas sobre o início da contagem.
+Conforme demonstrado, a contagem inicia-se no dia útil seguinte à carga, ou intimação, estando correta a conclusão do acórdão ora recorrido no sentido da tempestividade do agravo de instrumento interposto na instância de origem.
+Assim, estando o acórdão recorrido em harmonia com a jurisprudência dominante do STJ, aplicável, no caso concreto, a Súmula 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo, para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários, por ser a providência inaplicável ao presente caso.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
