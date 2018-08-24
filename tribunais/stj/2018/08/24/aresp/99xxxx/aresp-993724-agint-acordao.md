@@ -1,0 +1,30 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada, incidindo, portanto, a Súmula 182/STJ.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por [NOME], desafiando decisão que negou provimento ao agravo em recurso especial, sob os fundamentos de que: (I) aplica-se a Súmula 284/STF, tendo em vista que a tese da inexistência de condomínio pro indiviso não está amparada na violação de qualquer dispositivo de lei; (II) incide a Súmula 283/STF, na hipótese, tendo em vista que, quanto à alegada ofensa ao art. 300 do CPC/73, o recurso especial não impugna fundamento basilar que ampara o acórdão recorrido, qual seja, a incidência do art. 278, § 1º, do CPC/73; e (III) o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça, segundo o qual a ocupação indevida de bem público afasta o direito à retenção por benfeitorias e desautoriza o pedido de indenização.
+Inconformada, a parte agravante, em suas razões, sustenta que: (I) não se aplica a Súmula 284/STF, porquanto "a recorrente desde a contestação firmou sua posição contra ao que se propala como condomínio pro indiviso" (fl. 951); (II) em relação à ofensa ao art. 300 do CPC/73, não incide a Súmula 283/STF, pois "a ora agravante, em sede de contestação, ocorrida no ano 2000, provou com documentos, e com perícia, que a área reivindicanda não pertencia a autora." (fl. 952); e (III) "restou expressamente combatida a alegação de que o recurso especial só poderia ser processado por um suposto reexame do conjunto fático probatório carreado aos autos" (fl. 954).
+A parte agravada não apresentou impugnação (fl. 957).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O agravo interno não merece ser conhecido, tendo em vista que a parte agravante deixou de rebater, de modo específico, o fundamento concernente à incidência das Súmulas 283 e 284, ambas do STF, bem como a conformidade do acórdão recorrido com o entendimento desta Corte Superior.
+Com efeito, quanto ao óbice da Súmula 284/STF, por ausência de indicação de dispositivo de lei a amparar a tese da inexistência de condomínio pro indiviso, a parte agravante tece considerações genéricas sobre o art. 1314 do Código Civil, sem apontar em que ponto da petição do recurso especial o dispositivo de lei teria sido apontado como violado.
+Verifica-se, ainda, a ausência de impugnação do óbice previsto na Súmula 283/STF, tendo a parte agravante mencionado, apenas, que "a ora agravante, em sede de contestação, ocorrida no ano 2000, provou com documentos, e com perícia, que a área reivindicanda não pertencia a autora." (fl. 952). Contudo, não se demostrou em que ponto da petição do recurso especial o tema teria sido exposto, nem eventual caráter secundário do tema.
+Por fim, o agravo interno não trouxe qualquer argumentação no que diz respeito à consonância do acórdão recorrido com a jurisprudência do Superior Tribunal de Justiça.
+Assim, a parte agravante deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que também atrai a incidência da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida"). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para viabilizar o prosseguimento do agravo, a irresignação recursal há de ser completa, especifica e objetiva. Não basta a impugnação genérica (Súmula 182/STJ).
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp 621.634/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, DJe 26/10/2015)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - ACIDENTE DE VEÍCULO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO COM BASE NA SÚMULA 182/STJ E APLICOU MULTA DE 1% SOBRE O VALOR DA CAUSA, FICANDO A INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO CONDICIONADA AO RECOLHIMENTO DO RESPECTIVO VALOR. INSURGÊNCIA DO AUTOR.
+1. Razões do agravo que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. De acordo com a jurisprudência desta Corte, mesmo que o recorrente seja beneficiário da justiça gratuita, é indispensável o recolhimento da multa em questão, pois "o benefício da assistência judiciária não tem o condão de tornar o assistido infenso às penalidades processuais legais por atos de procrastinação ou litigância de má-fé por ele praticados no curso da lide." (EDcl no AgRg no Resp 1.113.799/RS).
+Portanto, caracterizada uma das hipóteses previstas no caput do art. 557 do CPC, autorizado estará o relator, desde logo, a aplicar multa sancionatória e, consequentemente, condicionar a interposição de qualquer outro recurso ao depósito do respectivo valor.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 239.360/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 1º/2/2016)
+Ante o exposto, não se conhece do agravo interno.
+É o voto.
