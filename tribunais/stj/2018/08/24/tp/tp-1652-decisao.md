@@ -1,0 +1,24 @@
+EMENTA
+PROCESSO CIVIL. PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE DEMONSTRADOS O FUMUS BONI IURIS E O PERICULUM IN MORA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. PERIGO CONCRETO. AUSÊNCIA. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial, para tanto, porém, é necessária a demonstração do periculum in mora e a caracterização do fumus boni juris.
+2. A ausência do periculum in mora basta para o indeferimento do pedido, pois deve se fazer presente cumulativamente com o fumus boni iuris.
+3. Pedido de tutela provisória indeferido.
+DECISÃO
+Cuida-se de pedido incidental de tutela provisória formulado por PASCHOAL DEL MATTO FILHO e [NOME] BARBOSA objetivando a concessão de efeito suspensivo a agravo em recurso especial, interposto contra o acórdão proferido pelo TJ/SP.
+Ação: de indenização de danos materiais, ajuizada por KRON COMERCIO DE BOMBONS LTDA em face dos requerentes, decorrente de prejuízos advindos de relação comercial para a produção e distribuição dos chocolates "Montblanc".
+Sentença: julgou parcialmente procedentes os pedidos, para condenar os requerentes a ressarcirem o valor de R$ 162.389,13, com correção monetária desde 2010 e juros de mora a partir da citação.
+Acórdão: negou provimento ao agravo retido e à apelação interpostos pelos requerentes.
+Embargos de declaração: opostos pelos requerentes, foram rejeitados.
+Recurso especial: fundamentado nas alíneas "a" e "c" do permissivo constitucional, os requerentes apontam, além de divergência jurisprudencial, a violação dos arts. 3º, 7º, 489, § 1º, e 1.022, II, do CPC/15.
+Decisão de admissibilidade: inadmitiu o recurso especial.
+Pedido de tutela provisória: requer a atribuição de efeito suspensivo a agravo em recurso especial interposto contra o acórdão do TJ/SP, sustentando que, além da probabilidade de êxito na alegação de violação aos arts. 489, § 1º, e 1.022, II, do CPC/15, existe risco de dano irreparável, pois a requerida pleiteou o cumprimento provisório da sentença e, por se tratar do agravo do art. 1.042 do CPC/15, pode ser dispensada a caução para a pratica de atos executórios .
+RELATADOS OS FATOS, DECIDE-SE.
+A concessão do pretendido efeito suspensivo ao agravo em recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+De fato, por se tratar de atribuição de efeito suspensivo a agravo em recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Na hipótese dos autos, a requerente afirma estarem presentes os requisitos para a concessão do efeito suspensivo ao seu agravo em recurso especial, pois i) há probabilidade de que seu recurso especial seja conhecido e acolhido pela violação os arts. 489, § 1º, e 1.022, II, do CPC/15; e ii) o prosseguimento da execução provisória pode ensejar a ocorrência de dano irreparável, eis que, por se tratar do agravo do art. 1.042 do CPC/15, pode ser dispensada a caução para a pratica de atos executórios.
+Vê-se, ao menos em tese, com base em juízo perfunctório, que os argumentos da requerente não evidenciam qualquer risco iminente de dano irreparável ou de difícil reparação, tendo em vista que se limita a afirmar, genericamente, que a requerida pleiteou o cumprimento provisório da sentença.
+Ressalte-se que a própria execução provisória, por si só, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao seu recurso especial, até mesmo porque esse procedimento possui mecanismos próprios para evitar prejuízos ao executado (AgRg na MC 25.558/RJ, 4ª Turma, Rel. Min. Marco Buzzi, DJe 31/03/2016; e AgRg na MC 18.633/RJ, 3ª Turma, Rel. Min. Ricardo Villas Bôas Cueva, DJe 13/02/2012).
+Ademais, tem-se que, na hipótese, não foi indicado nenhum prejuízo que, concretamente, possa advir da demora no julgamento do agravo em recurso especial, devendo-se sublinhar, por oportuno, que a simples referência ao cumprimento provisório de sentença e à possibilidade teórica de ser dispensada a caução, nos termos do art. 521, III, do CPC/15, não são argumentos suficientes a amparar o pleito da agravante sob a ótica do exigido requisito do periculum in mora.
+Dessa forma, não demonstrada a urgência da prestação jurisdicional, suficiente para inviabilizar o deferimento do pedido de efeito suspensivo, desnecessária se torna a análise do requerimento sob a ótica do fumus boni iuris.
+Forte nessas razões, INDEFIRO a tutela provisória requerida.
+Publique-se. Intimem-se.
