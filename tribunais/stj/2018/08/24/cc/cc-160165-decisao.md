@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUIZO DA 5ª VARA DO TRABALHO DE OSASCO-SP, Juízo suscitante, e o JUIZO DE DIREITO DA 2ª VARA DA FAZENDA PÚBLICA DE OSASCO-SP, suscitado, nos autos da ação ordinária proposta por EVA GREGORIA CONTRERAS BISSOLI, em face do Município de Osasco-SP, por meio da qual solicita o recebimento de verbas rescisórias.
+O juízo suscitado declarou-se incompetente para o julgamento conforme os seguintes fundamentos apresentados ( fls. 19-22):
+(..)
+Com efeito, a natureza das pretensões é que qualifica a lide. Sustentando o libelo a existência de vínculo empregatício regido pela CLT entre as partes e reivindicando verbas dele especialmente emergentes, compete exclusivamente à Justiça do Trabalho.
+Por oportuno, menciono os seguintes precedentes oriundos do Col. Superior Tribunal de Justiça proferidos em decisão de conflito negativo de competência instaurado entre a Justiça Comum Estadual e a do Trabalho:
+(..)
+Dignos de menção, ainda, os precedentes oriundos de processos desta Comarca de Osasco também decididos pelo Egrégio STJ, CC nº 148.548 - Rei. Ministra Regina Helena Costa; CC nº 143.103 - Rei. Min. Humberto Martins, e CC nº 119.848- Rei. Min. Benedito Gonçalves.
+Diante do exposto DECLARO este Juízo INCOMPETENTE para o processamento e julgamento do presente feito e determino a remessa dos autos à uma das Varas da Justiça do Trabalho de Osasco. Rogo ao MM. Juízo da Justiça do Trabalho que na hipótese de discordar da presente decisão que suscite conflito negativo de competência perante o Col. Superior Tribunal de Justiça.
+(..)
+O juízo suscitante instaurou o conflito negativo, aduzindo, em síntese, o que se segue (fls. 153-155):
+No caso, é incontroverso nos autos que a parte autora foi contratada pelo réu, trabalhando de 29-4-2014 a 28-4-2016, mediante sucessivos e ininterruptos contratos temporários.
+A Justiça do Trabalho é competente para processar e julgar as ações oriundas da relação de trabalho (CRFB, art. 114).
+Entretanto, em 21-8-2008, ao julgar o RE n. 573.202-9, o Plenário do Supremo Tribunal Federal acolheu o voto do Min. Ricardo Lewandowski, reconhecendo a repercussão geral da matéria, estabeleceu que esta Justiça Especializada é incompetente para julgar as lides entre os entes públicos e servidores quando contratados sob o regime temporário, o que incluiu, por óbvio, os cargos em comissão.
+Naquela decisão, os Ministros Corte Suprema entenderam que esta modalidade de contratação, mesmo que regido pela CLT, possui caráter eminentemente administrativo, a teor do art. 37, IX, da CRFB, razão pela qual a Justiça Comum Estadual é a competente para o seu julgamento.
+(..)
+No caso, o contrato de trabalho da autora, além de prever o seu caráter temporário, na forma do art. 37, IX, da CRFB, ainda, estabelece que ele será regido pela Lei Municipal n. 2.094/89, a qual definiu (modificação introduzida pela Lei n. 4.315/2009), que "As contratações de que trata esta lei serão feitas a través do regime especial a fim de atender a necessidade temporária de excepcional interesse público."
+Diante do caráter nitidamente administrativo que envolve a contratação precária com a Administração Pública, mediante contrato por prazo determinado, entendo que esta hipótese não está inserida na redação do inciso I do artigo 114 da CF.
+É o relatório. Decido.
+Inicialmente, acentuo que o conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, inciso I, alínea d, da Magna Carta.
+Sobre a questão, a Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal - STF suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores.
+In casu, a parte reclamante foi contratada para trabalhar na função de médica socorrista, sem concurso público ou processo seletivo, em 29/04/2014, tendo permanecido até o dia 28/04/2016, quando houve a resilição do contrato de trabalho.
+Desse modo, ausente a competência à Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público, ainda que em contratações irregulares.
+A orientação desta Corte Superior se firmou no sentido de que a contratação irregular com o poder público é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes. Confira-se:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONTRATAÇÃO SEM CONCURSO PÚBLICO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. O Excelso Pretório, no julgamento da Ação Declaratória de Inconstitucionalidade 3.395-DF, excluiu da expressão relação de trabalho prevista no art. 114, inc. I (redação conferida pela Emenda Constitucional n. 45/2004), as ações decorrentes do regime estatutário, aplicável aos servidores públicos, que devem ser julgadas pela Justiça Comum, Estadual ou Federal, a depender do ente público ao qual se vincula o servidor - ainda que se trate de contratações temporárias ou irregulares, caso dos autos.
+2. A Lei local que alterou o regime jurídico dos servidores para o celetista, no caso, impõe a contratação por meio de processo seletivo, o que não ocorreu na espécie dos autos, afastando assim a competência da Justiça Laboral para o exame da causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no CC 147.725/PA, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 08/02/2017, DJe 14/02/2017)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. CONTRATAÇÃO VERBAL, SEM CONCURSO PÚBLICO. RELAÇÃO DE NATUREZA JURÍDICO-ADMINISTRATIVA. ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente público em face de município, questionando o pagamento de verbas trabalhistas, em razão de contrato verbal e sem concurso público.
+2. A Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores.
+3. A contratação irregular com o poder público é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes. Precedentes.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no CC 144.107/MS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 25/05/2016, DJe 01/06/2016)
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRABALHO. SERVIDOR PÚBLICO MUNICIPAL. CONTRATAÇÃO TEMPORÁRIA PELA MUNICIPALIDADE, SEM CONCURSO PÚBLICO. INCIDÊNCIA DAS REGRAS PREVISTAS NA CLT. COMPETÊNCIA DA JUSTIÇA LABORAL.
+1. A controvérsia em exame diz respeito à ação de indenização por danos morais e estéticos decorrentes de acidente do trabalho. Dessarte, subjaz que as indenizações perquiridas resultaram de relação de trabalho; isso porque, sem que houvesse o vínculo empregatício, sequer existiria o acidente de trabalho.
+2. No caso em foco, sobreleva notar que, para se aferirem os elementos típicos do ato ilícito, tais como o nexo causal e a culpa, é imprescindível que se esteja o mais próximo do dia a dia da complexa relação do trabalho.
+3. O autor da demanda foi contratado pela entidade municipal sem concurso público e mediante contrato temporário, atraindo a incidência das regras previstas na Consolidação das Leis do Trabalho. Nesse sentido, conforme já decidiu esta egrégia Corte, prevalece a competência da Justiça laboral para decidir sobre a indenização do acidente de trabalho de servidor público, admitido indevidamente sem concurso público, através de contrato de caráter celetista. Precedentes: CC 50.443 - SP, Rel. Ministro Luiz Fux, Primeira Seção, DJU 2/4/07 e CC 33.84/SP, Rel. Ministro Paulo Gallotti, Terceira Seção, DJU 24/4/06).
+4. Agravo regimental não provido.
+(AgRg no CC 108.627/MS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 24/02/2010, DJe 04/03/2010)
+Ante o exposto, conheço do presente conflito para declarar competente para a causa o JUIZO DE DIREITO DA 2ª VARA DA FAZENDA PÚBLICA DE OSASCO-SP.
+Comunique-se aos Juízos Suscitante e Suscitado.
+Publique-se. Intime-se.
