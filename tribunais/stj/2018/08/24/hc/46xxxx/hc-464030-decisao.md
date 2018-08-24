@@ -1,0 +1,10 @@
+DECISÃO
+O paciente acoima de ilegal o acórdão proferido pelo Tribunal a quo no Recurso em Sentido Estrito n. 0142354-14.2018.8.21.7000, em que foi mantida sua pronúncia pela suposta prática do delito previsto no art. 121, § 2º, III, c/c o art. 14, II, ambos do Código Penal.
+A defesa alega que "o acórdão recorrido nega vigência ao disposto no artigo 155 do Código de Processo Penal, bem como lhe dá interpretação divergente daquela atribuída por outros Tribunais, pois pronunciou o recorrente com base apenas em elementos colhidos no inquérito policial" (fl. 2), razão pela qual requer a anulação da decisão de pronúncia.
+Decido.
+No caso vertente, a Corte de origem, ao manter a decisão de pronúncia, apontou que:
+ ..  há abundantes indícios de autoria. O ofendido mantém relato consistente em fase policial e quando ouvido judicialmente, nos autos do processo nº 030/5.08.0000087-3, afirmando que o réu, com auxílio do adolescente Renan, passou a lhe agredir com pauladas e golpes de faca, depoimento que coaduna com o auto de exame de corpo de delito às fls. 24/25.
+O acusado Sidnei, ainda que apresente versões diferentes nas duas vezes em que ouvido, confessa, em fase judicial, que agrediu a vítima com socos e golpes de facão, além de arguir que enrolou uma corda no pescoço de Emir, com a finalidade de enforcá-lo  ..  (fl. 493, grifei).
+Dessa forma, a despeito da alegação defensiva, percebe-se que o Tribunal local destaca provas colhidas na fase judicial, as quais, aliadas ao restante do acervo probatória, forneceriam indícios suficientes de autoria para a pronúncia do réu. Aliás, para se infirmar a interpretação apresentada pela instância ordinária e possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
