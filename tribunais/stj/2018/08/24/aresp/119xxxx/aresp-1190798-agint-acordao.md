@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRATAMENTO MÉDICO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO DO INSTITUTO DE ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL A QUE SE NEGA PROVIMENTO.
+1. Pela leitura das razões recursais, tem-se que efetivamente a parte agravante não rebateu os fundamentos da decisão que inadmitiu o Recurso Especial, deixando de se manifestar quanto à aplicação do óbice da Súmula 280/STF.
+2. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão de admissibilidade do Recurso Especial devem ser veiculadas imediatamente naquela oportunidade, pois, convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do Recurso Excepcional, diante da preclusão consumativa.
+4. Agravo Interno do INSTITUTO DE ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pelo INSTITUTO DE ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL contra decisão que não conheceu do seu Agravo em Recurso Especial por incidência da Súmula 182/STJ.
+2. Nas razões recursais (fls. 341/343), a parte agravante sustenta que a decisão recorrida não merece prosperar. Assevera, em síntese, que houve impugnação específica à alegação de impedimento consubstanciado na Súmula 280/STF (fls. 343).
+3. Pugna, desse modo, pela reconsideração da decisão ora atacada ou a apresentação do feito à Turma Julgadora para que seja provido o recurso.
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRATAMENTO MÉDICO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO DO INSTITUTO DE ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL A QUE SE NEGA PROVIMENTO.
+1. Pela leitura das razões recursais, tem-se que efetivamente a parte agravante não rebateu os fundamentos da decisão que inadmitiu o Recurso Especial, deixando de se manifestar quanto à aplicação do óbice da Súmula 280/STF.
+2. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão de admissibilidade do Recurso Especial devem ser veiculadas imediatamente naquela oportunidade, pois, convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do Recurso Excepcional, diante da preclusão consumativa.
+4. Agravo Interno do INSTITUTO DE ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL a que se nega provimento.
+1. A despeito das alegações da parte agravante, razão não lhe assiste.
+2. A decisão ora recorrida não conheceu do Agravo em razão da falta de impugnação dos fundamentos da decisão que inadmitiu o Recurso Especial, notadamente quanto à aplicação do óbice da Súmula 280/STF. Em razão disso, consignou-se a incidência da Súmula 182/STJ.
+3. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+4. Em nova análise do Agravo interposto, tem-se que, efetivamente, a parte agravante não infirmou adequadamente os fundamentos da decisão que inadmitiu o Recurso Especial, quais sejam: a) ausência de violação/negativa de vigência/contrariedade; b) incidência das Súmulas 7/STJ e 280/STF. Na verdade, limitou-se a arguir a inexistência do impedimento da Súmula 7/STJ, a usurpação da competência do STJ e a ofensa à legislação federal, deixando de se manifestar quanto à aplicação do óbice da Súmula 280/STF.
+5. Inafastável, assim, a incidência do óbice da Súmula 182/STJ, segundo a qual é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+6. Registre-se que o Recurso de Agravo, tanto aquele previsto no art. 544 do CPC/73 (atual art. 1.042 do NCPC), como o dito Regimental ou Interno previsto no art. 545 do CPC/73 (atual art. 1.021, § 1o. do NCPC), objetiva desconstituir os fundamentos que impediram o processamento do Recurso Especial; sem essa providência, não lhe comporta seguimento.
+7. Ainda, é mister repetir que as razões demonstrativas do desacerto da decisão de admissibilidade do Recurso Especial devem ser veiculadas imediatamente naquela oportunidade, pois, convém frisar, não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do Recurso Excepcional, diante da preclusão consumativa.
+8. Diante do exposto, nega-se provimento ao Agravo Interno do INSTITUTO DE ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL. É o voto.
