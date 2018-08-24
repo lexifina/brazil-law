@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE IPU contra decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do estado do Ceará, assim ementado (fl. 136):
+RECURSO DE APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. DIREITO ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDORA PÚBLICA MUNICIPAL. EXONERAÇÃO. DECISÃO JUDICIAL. ANULAÇÃO. REINTEGRAÇÃO. VENCIMENTOS E VANTAGENS NO PERÍODO DO AFASTAMENTO. DEVIDOS. DANOS MATERIAIS COMPROVADOS. PRECEDENTES DO STJ E DESTA CORTE. REEXAME NECESSÁRIO E RECURSO DE APELAÇÃO CÍVEL CONHECIDOS E DESPROVIDOS.
+1. Cuida-se de Recurso de Apelação Cível e Reexame Necessário com vistas a reforma da sentença de mérito que em sede de Ação de Cobrança condenou o município recorrente no pagamento de indenização dos danos materiais sofridos por ocasião da sumária demissão da servidora pública do cargo público efetivo que exercia. Servidora reintegrada no respectivo cargo por força de decisão judicial transitada em julgado, posto que constatada a abusividade da conduta desempenhada pelo gestor municipal. Município condenado no pagamento de indenização equivalente à remuneração, e seus consectários legais, não percebida pela servidora no interregno entre a entrada em vigor do RJU dos servidores municipais e a efetiva reintegração da servidora no cargo. Alega o recorrente que a presente condenação caracteriza enriquecimento sem causa em favor da promovente, posto não ter ela laborado no cargo público respectivo.
+2. A decisão que declara a nulidade do ato de demissão e determina a reintegração de servidor público ao cargo de origem opera efeitos ex tunc, com força de garantir ao servidor prejudicado o direito de perceber indenização em valor equivalente ao que perceberia se no exercício do cargo público em referência. Precedentes do STJ e deste Tribunal de Justiça.
+3. Recurso de Apelação e Reexame Necessário conhecidos e desprovidos.
+Na origem, cuida-se de ação em que a autora objetiva a condenação do ente público ao pagamento dos vencimentos entre a data de seu afastamento do cargo público e a determinação de reintegração pela Justiça do Trabalho, com valor da causa fixado em R$ 5.000,00 (cinco mil reais). Na sentença, julgou-se procedente o pedido (fls. 93-101). No TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, a sentença foi mantida (fls. 136-145).
+Não foram opostos embargos de declaração.
+Interposto recurso especial, alega a parte recorrente violação do art. 884 do Código Civil (fls. 157-164).
+Negado seguimento ao recurso especial na origem, foi interposto agravo em recurso especial (fls. 174-183).
+É o relatório. Decido.
+Incide sobre o recurso especial o Enunciado Administrativo n. 3/STJ, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito a suposta violação do art. 884 do Código Civil, verifica-se que a Corte de origem decidiu pela condenação do ente público ao pagamento das verbas pleiteadas ante à ilegalidade do ato de exoneração da ora recorrida, levando em consideração o contexto fático-probatório dos autos. Assim, acolher a tese recursal apresentada, de sorte a alterar o entendimento do Tribunal de origem, tornaria necessário o reexame fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRARIEDADE AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ALEGAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. EXIGIBILIDADE DO TÍTULO EXECUTIVO JUDICIAL. REQUISITOS CONFIGURADOS NA ORIGEM. REEXAME DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+(..)
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+(..)
+(REsp 1710851/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo em recurso especial, para não conhecer do recurso especial.
+Publique-se. Intime-se.
