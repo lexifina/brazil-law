@@ -1,0 +1,48 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 1ª Região assim ementado (e-STJ, fls. 395/396):
+PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A FOLHA DE SALÁRIOS. CONTRIBUIÇÃO SAT/RAT. QUINZE PRIMEIROS DIAS DE AUXÍLIO-DOENÇA E AUXÍLIO-ACIDENTE. TERÇO CONSTITUCIONAL DE FÉRIAS. AVISO PRÉVIO INDENIZADO. FÉRIAS E DÉCIMO TERCEIRO SALÁRIO PROPORCIONAIS AO AVISO PRÉVIO INDENIZADO. NÃO INCIDÊNCIA. CONTRIBUIÇÃO A TERCEIROS (FNDE, INCRA, SESI, SENAI, SEBRAE): INCIDÊNCIA.
+1. No julgamento do REsp 1.230.957/RS, sob a sistemática dos recursos repetitivos, art. 543-C do CPC/1973, o egrégio Superior Tribunal de Justiça reconheceu a inexigibilidade da contribuição social previdenciária sobre o pagamento correspondente aos primeiros 15 (quinze) dias de afastamento do empregado doente ou acidentado, o aviso prévio indenizado e os valores pagos pelo empregador ao empregado a título de terço constitucional de férias.
+2. Não sendo exigível a contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, também não é possível a cobrança da contribuição patronal sobre as férias e o décimo terceiro salário proporcionais à referida verba. Precedentes. (AMS 0028956-85.2010.4.01.3500/GO, Rel. DES. FEDERAL JOSÉ AMILCAR MACHADO, 7a Turma, e-DJF1 p.1079 de 13/02/2015).
+3. Reconhecida a não incidência da contribuição previdenciária sobre a exação destinada ao financiamento para o Risco Ambiental do Trabalho - RAT (antigo Seguro Acidente de Trabalho - SAT) sobre verbas de caráter indenizatório.
+4. As contribuições destinadas a terceiros (SESI, SENAI, SEBRAE, FNDE e INCRA) possuem natureza jurídica de contribuição de intervenção no domínio econômico, conforme entendimento jurisprudencial do egrégio Supremo Tribunal Federal (AI n. 622.981; RE n. 396.266), com destinação diferente das contribuições previdenciárias, ensejando o reconhecimento da legalidade das referidas contribuições (STF, AI n. 622.981; RE n. 396.266). Nesse sentido: (AC 0030991- 22.2013.4.01.3400/DF, Rel. DES. FEDERAL [NOME], 7a Turma, e-DJF1 de 22/01/2016). Ressalvadas as verbas de natureza indenizatória, conforme decisão, unânime proferida em 31/08/2016, pela colenda Oitava Turma desta egrégia Corte, no julgamento da ApReeNec 0033390.24.2013.4.01.3400, sob o rito do art. 942 do NCPC.
+5. Apelações da Fazenda Nacional e remessa oficial não providas. Apelação dos autores parcialmente provida.
+Os embargos de declaração opostos pela Fazenda Nacional não foram providos (e-STJ, fls. 410/414). Os aclaratórios da contribuinte foram parcialmente colhidos para condenar a Fazenda em honorários (e-STJ, fls. 444/449).
+A recorrente alega contrariedade aos arts. 1.022 do CPC/2015; 22 e 28 da Lei n. 8.212/1991. Sustenta, em suma, a incidência da contribuição previdenciária sobre o décimo terceiro salário proporcional ao aviso-prévio indenizado.
+Apresentadas contrarrazões às e-STJ, fls. 525/535.
+Admitido o recurso especial na origem (e-STJ, fl. 537), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+Registro, de logo, que não merece prosperar a tese de violação do art. 1.022, II, do CPC/2015, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EXCESSO NA CONDUTA DOS POLICIAIS, NO MOMENTO DA PRISÃO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC vigente, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.197/AC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/4/2017, DJe 4/5/2017)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. NOMEAÇÃO TARDIA. OMISSÃO DO ACÓRDÃO DISTRITAL AFASTADA. DECISÃO JUDICIAL. COISA JULGADA. INEXISTÊNCIA. SÚMULA 7/STJ. INDENIZAÇÃO. INVIABILIDADE. PRECEDENTES.
+1. Afasta-se a alegada violação do art. 1.022, I e II, do CPC/2015, porquanto a instância ordinária dirimiu, de forma clara e fundamentada, a questão que lhe foi submetida, e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 990.169/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 6/4/2017, DJe 19/4/2017)
+Quanto ao mérito, a controvérsia gira em torno da incidência da contribuição previdenciária no décimo terceiro salário proporcional ao aviso-prévio indenizado.
+Sobre o tema, "a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que é devida a contribuição previdenciária sobre o décimo terceiro salário proporcional ao aviso prévio, em virtude da natureza remuneratória da parcela ora em apreço" (AgInt no REsp 1.603.338/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/12/2017).
+Nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA SALARIAL. INCIDÊNCIA.
+1. Inexiste contrariedade ao art. 1.022 do CPC/2015 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que "incide contribuição previdenciária sobre os valores relativos ao décimo terceiro proporcional ao aviso prévio indenizado, ante o caráter remuneratório de tais verbas  .. " (AgRg no REsp 1.569.576/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 1º/3/2016). Precedentes.
+3. Recurso especial parcialmente provido.
+(REsp 1.719.970/AM, de minha relatoria, SEGUNDA TURMA, julgado em 15/3/2018, DJe 21/3/2018)
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA. SÚMULA 83 DO STJ.
+1. As Turmas que integram a Primeira Seção do STJ sedimentaram a orientação de que, "embora o Superior Tribunal de Justiça tenha consolidado jurisprudência no sentido de que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, por não se tratar de verba salarial, relativamente à incidência da exação sobre o décimo terceiro salário proporcional no aviso prévio indenizado, prevalece o entendimento firmado em sede de recurso repetitivo, de que o décimo terceiro salário (gratificação natalina) integra o salário de contribuição para fins de incidência de contribuição previdenciária"(AgRg nos EDcl nos EDcl no REsp 1.379.550/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 13/04/2015). Aplicação da Súmula 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.676.425/AP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 23/2/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. 13º SALÁRIO INDENIZADO. INCIDÊNCIA. ESCLARECIMENTOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Os embargos declaratórios são cabíveis quando houver, na sentença ou no acórdão, obscuridade ou contradição, ou quando for omitido ponto sobre o qual devia o juiz ou tribunal se pronunciar. Também as inexatidões materiais e os "erros evidentes" são sanáveis pela via dos embargos de declaração, consoante a jurisprudência e a doutrina (EDcl no REsp 1.359.259/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2.5.2013, DJe 7.5.2013.).
+2. "(..) Os valores relativos ao 13º proporcional ao aviso prévio indenizado por possuírem natureza remuneratória (salarial), sem o cunho de indenização, sujeitam-se à incidência da contribuição previdenciária" (AgRg no REsp 1.535.343/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/08/2015, DJe 11/09/2015.).
+Embargos de declaração acolhidos, sem efeitos modificativos, tão somente para fins de esclarecimentos.
+(EDcl no AgRg no REsp 1.512.946/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2015, DJe 26/10/2015)
+Portanto, a decisão recorrida encontra-se em dissonância com a jurisprudência desta Corte Superior.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou parcial provimento ao recurso especial, nos termos da fundamentação, para afirmar que incide contribuição previdenciária sobre os valores relativos ao décimo terceiro salário proporcional ao aviso-prévio indenizado.
+Publique-se. Intimem-se.
