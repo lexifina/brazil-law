@@ -1,0 +1,27 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC/1973. SIMPLES NACIONAL. EXCLUSÃO ANTES DA VIGÊNCIA DA LEI 9.732/1998. COMPETÊNCIA. SECRETARIA DA RECEITA FEDERAL. ART. 15, § § 3o. E 4o. DA LEI 9.317/1996. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do art. 105, III da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 1a. Região, assim ementado:
+TRIBUTÁRIO. SIMPLES. EXCLUSÃO: ATO PRATICADO EM MOMENTO ANTERIOR À VIGÊNCIA DA LEI 9.732/98. COMPETÊNCIA EXCLUSIVA DA SECRETARIA DA RECEITA FEDERAL
+1. O INSS não possui competência para praticar o ato de exclusão do SIMPLES em período anterior à vigência da Lei 9.732/98. Nesse caso, o contribuinte deveria ter sido excluído do regime por ato da Secretaria da Receita Federal, sendo este o órgão que detinha, à época, competência exclusiva para o ato. Precedente do STJ: RESP 200901754077, [NOME], STJ - Segunda Turma, DJE 06/1 0/201 0.
+2. Remessa oficial e apelação não providas (fls. 262).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 276).
+3. Nas razões de seu Apelo Nobre, a parte recorrente aponta violação dos arts. 458 e 535, II do CPC/1973; 9o., XIII, 15, II da Lei 9.317/1996 e 144 do CTN. Sustenta, além de negativa de prestação jurisdicional, que na época do lançamento do crédito (30.11.1998) não havia lei que determinasse a competência exclusiva da Receita Federal para promover a exclusão do SIMPLES. Assim, deve ser reconhecida a competência do INSS para o ato de exclusão.
+4. Apresentadas as contrarrazões (fls. 298/305), o recurso foi inadmitido na origem (fls. 309/310).
+5. O Ministério Público Federal, por meio do parecer de fls. 343/347, opinou pelo não provimento do Agravo.
+6. É o relatório. Decido.
+7. A insurgência não merece prosperar.
+8. De início, cumpre destacar que a alegada violação aos arts. 458 e 535, II do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+9. Quanto ao mérito, verifica-se que o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, a qual entende que antes da vigência da Lei 9.732/1998 o INSS não possuía competência para praticar ato de exclusão do SIMPLES, mas sim a Secretaria da Receita Federal. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. EXCLUSÃO DE CONTRIBUINTE DO REGIME TRIBUTÁRIO SIMPLES. COMPETÊNCIA. SECRETARIA DA RECEITA FEDERAL. ART. 15, § § 3º E 4º DA LEI N. 9.317/96.
+1. A Corte a quo declinou de forma clara e fundamentada os motivos pelos quais entendeu que o INSS não detém competência para a exclusão de contribuinte do regime de tributação SIMPLES, não havendo que se falar em violação do art. 535 do CPC.
+2. Nos termos do art. 15, § § 3º e 4º, da Lei n. 9.317/96, acrescentados pela Lei n. 9.732/98, a competência para a excluir o contribuinte do regime tributário SIMPLES é da Secretaria da Receita Federal, assegurado o contraditório e a ampla defesa, observada a legislação relativa ao processo tributário administrativo, cabendo aos órgãos de fiscalização do Instituto Nacional do Seguro Social ou de qualquer entidade convenente representar à SRF caso verifiquem, em suas atividades fiscalizadoras, hipótese de exclusão do regime.
+3. A ora recorrente não traz nenhuma norma que conferia competência ao INSS para realizar exclusão de contribuintes do SIMPLES antes do advento da Lei n. 9.732/98, o que demonstra que, se não havia lei lhe atribuindo expressamente tal competência, não há que se entender que implicitamente o INSS a detinha. Consoante comezinha lição de direito administrativo, o princípio da legalidade para a Administração Pública adota um cunho restrito, o que significa que, diferentemente do particular, o administrador somente pode fazer o que a lei lhe autoriza.
+4. Recurso especial não provido (REsp. 1.156.677/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 6.10.2010).
+
+TRIBUTÁRIO. RECURSO ESPECIAL. SIMPLES. EXCLUSÃO OBRIGATÓRIA. COMPETÊNCIA DA SECRETARIA DA RECEITA FEDERAL. ART. 15, § 4º, E 17 DA LEI N. 9.317/96.
+1. Não se conhece de recurso especial em que não resta cumprido o requisito indispensável do prequestionamento. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Consoante disposto no art. 17 da Lei n. 9.317/96, é da competência da Secretaria da Receita Federal realizar as atividades de fiscalização, arrecadação, cobrança e tributação dos impostos e contribuições pagas pelas empresas optantes do SIMPLES. Dessa forma, verificando o INSS, no exercício de suas atividades fiscalizadoras, a ocorrência de uma das situações de exclusão obrigatória, deve representar à autoridade fazendária para que ela faça a comunicação ao contribuinte excluído.
+3. Recurso especial não-conhecido (REsp. 363.429/RS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJ 23.5.2006, p. 135).
+10. Ante o exposto, conhece-se do Agravo, e nega-se provimento ao Recurso Especial da FAZENDA NACIONAL.
+11. Publique-se.
+12. Intimações necessárias.
