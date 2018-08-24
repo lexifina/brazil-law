@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Robert Diogers Lopes Leandro e Marcos Fredson Soares Fernandes afirmam haver a Segunda Turma do Tribunal Regional do Trabalho da 21ª Região, no processo nº 0000562-06.2017.5.21.0001, contrariado decisões proferidas pelo Supremo.
+    Segundo narram, figuram como réus em ação ajuizada por Marília Romeyca Silva Ferreira visando o pagamento de verbas trabalhistas. Ressaltam a declaração da própria revelia pelo Juízo, apesar da alegada ausência de recebimento da citação. Declaratórios não alcançaram êxito. Dizem da interposição de recurso ordinário, cuja sequência foi obstada ante a deserção. Sobreveio agravo de instrumento, que se fez acompanhado de declarações por si firmadas atestando a inexistência de recursos financeiros suficientes ao custeio das despesas processuais. Conforme discorrem, o Tribunal reclamado reputou impróprio o deferimento do benefício da gratuidade de justiça, mas proveu parcialmente o recurso de modo a abrir prazo de 5 dias para o pagamento das despesas processuais, tendo em vista a orientação jurisprudencial nº 269, item II, da Subseção I Especializada em Dissídios Individuais do Tribunal Superior do Trabalho.
+    Consoantem argumentam, ao deixar de atender ao pleito de justiça gratuita, o Órgão reclamado admitiu premissa equivocada, segundo a qual estariam em jogo pessoas jurídicas. Articulam com a ofensa aos princípios da garantia do acesso à justiça e da inércia da jurisdição. Referem-se ao artigo 99, § 3º, do Código de Processo Civil de 2015, no que a declaração de insuficiência, por pessoa natural, possuiria presunção de veracidade. Aludem a decisões do Supremo, surgidas de processos subjetivos, no mesmo sentido.
+    Realçam a tramitação da ação direta de inconstitucionalidade nº 5.766, da relatoria do ministro Luís Roberto Barroso, na qual discutida a validade de preceitos atinentes à chamada Reforma Trabalhista, inclusive no tocante ao tema da gratuidade de justiça. Entendem pertinente a suspensão do caso visando aguardar o desenlace do processo objetivo.
+    Sob o ângulo do risco, assinalam estarem obrigados a efetuar o pagamento de depósito recursal e custas, em prejuízo do sustento pessoal e da família.
+    Requerem, em sede liminar, a suspensão do ato impugnado. Buscam, alfim, a cassação do pronunciamento atacado e a concessão dos benefícios da justiça gratuita.
+    2. Esta reclamação somente serve à sobrecarga da máquina judiciária, hoje suportada pelo Tribunal, que, no tocante à celeridade processual, encontra-se inviabilizado. Revela-se impertinente a medida, voltada a arguir apontado desrespeito a acórdãos do Supremo surgidos de processos subjetivos, dos quais os reclamantes não participaram. Mostra-se imprópria a utilização desta via excepcional visando a uniformização de jurisprudência.
+    No mais, está pendente de conclusão o julgamento da ação direta de inconstitucionalidade nº 5.766. A tramitação desta não autoriza a suspensão pretendida, até mesmo porque o pronunciamento a ser formalizado não se prestará a respaldar ataque a decisões proferidas em momento anterior.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 24 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
