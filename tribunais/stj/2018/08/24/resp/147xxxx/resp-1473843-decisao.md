@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Usina de Açúcar e Álcool Goioerê Ltda., com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fl. 252):
+TRIBUTÁRIO. IPI. CREDITO PRESUMIDO. AQUISIÇÃO DE INSUMOS DE PESSOAS FÍSICAS OU DE COOPERATIVAS. AQUISIÇÃO DE INSUMOS EMPREGADOS NA PRODUÇÃO DE PRODUTOS NÃO TRIBUTADOS PELO IPI E EXPORTADOS. CORREÇÃO MONETÁRIA. SELIC. TERMO INICIAL.
+1. O fisco possui o prazo de cinco anos para efetuar o lançamento por homologação, assim como para a homologação da compensação, conforme o art. 74, § 5º, da Lei n. 9.430/96.
+2. A Lei 9.363/96 prevê a base de cálculo do crédito presumido como o valor total das aquisições dos insumos utilizados no processo produtivo, sem condicionantes, sendo possível a inclusão dos insumos adquiridos de pessoas físicas e cooperativas, afastadas as restrições ilegais da N/RF nºs 23/97.
+3. Os arts. 21, § 1º, II, das IN SRF7 69/2001, 315/2003 e 420/2004 e art. 17, § 1º, da IN SRF 419/2004, que afastam o direito ao aproveitamento do crédito presumido de IPI em relação às exportações de produtos não tributados e às aquisições de pessoas físicas e cooperativas, não têm amparo em qualquer norma legal e, por sua natureza infralegal, não podem inovar no mundo jurídico.
+4. Devem ser corrigidos monetariamente os créditos presumidos que não foram aproveitados em face do ilegal óbice imposto pelo Fisco, conforme decisão do STJ submetida à sistemática dos recursos repetitivos, no REsp. 1.035.847, Primeira Seção, Rel. Min. Luiz Fux, julgado em 24.6.2009.
+5. Esta Corte entende que incide a taxa SELIC a partir da data do protocolo do pedido administrativo de ressarcimento de créditos escriturais ou presumidos de IPI (TRF4, APELREEX 5003561-62.2010.404.7108, Primeira Seção, Rel. p/ Acórdão [NOME], D.E. 07/10/2011).
+Os embargos de declaração (e-STJ, fls. 255/258 e 260/263) foram rejeitados, nos termos da decisão de e-STJ, fls. 274/283.
+A recorrente alega, nas razões do especial, existência de contrariedade aos arts. 74, §§ 6º a 11, da Lei n. 9.430/1996; 174 do CTN; e 21, parágrafo único, do CPC/1973.
+Defende, em síntese, que o prazo prescricional para o fisco proceder à cobrança de créditos decorrentes de compensação não homologada se inicia com o pedido de compensação, pelo que, na espécie, teriam decorridos os cinco anos a que se refere o art. 174 do CTN até a propositura da execução fiscal.
+Sustenta, de outra parte, a materialização da sucumbência mínima em relação à contribuinte, bem como a irrisoriedade dos honorários arbitrados pela instância a quo em seu favor.
+Foram apresentadas contrarrazões às e-STJ, fls. 320/322.
+Admitido o recurso especial na origem (e-STJ, fl. 332), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+A pretensão não merece prosperar, pois, conforme precedentes desta Corte Superior, o termo inicial da prescrição para as hipóteses como a dos autos se inicia com a decisão administrativa a respeito da compensação realizada pelo contribuinte.
+Confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRÉDITO PRESUMIDO DE IPI. RESSARCIMENTO. LEGALIDADE DO ART. 17, § 1º, DA INSTRUÇÃO NORMATIVA SRF N. 313/2003. CORREÇÃO MONETÁRIA. SÚMULA N. 411/STJ. TERMO INICIAL DA MORA E CONSEQUENTE CORREÇÃO MONETÁRIA. ART. 24 DA LEI N. 11.457/2007. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. DECISÃO ADMINISTRATIVA QUE NÃO HOMOLOGA A COMPENSAÇÃO. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA MÍNIMA OU MAJORAÇÃO. REVISÃO. IMPOSSIBILIDADE NA HIPÓTESE. ALTERAÇÃO DOS CRITÉRIOS ADOTADOS NA ORIGEM. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. O art. 2º, § 2º, da Instrução Normativa n. 23/97, impôs limitação ilegal ao art. 1º da Lei n. 9.363/96, quando condicionou gozo do benefício do crédito presumido do IPI, para ressarcimento de PIS/PASEP e COFINS, somente às aquisições efetuadas de pessoas jurídicas sujeitas às contribuições para o PIS/PASEP e COFINS. Tema já julgado pelo recurso representativo da controvérsia REsp. n.
+993.164/MG, Primeira Seção, Rel. Min. Luiz Fux, julgado em 13.12.2010.
+2. O art. 17, § 1º, da IN SRF n. 313/2003, não viola o art. 2º, da Lei n. 9.363/96, pois encontra guarida no art. 6º, da mesma lei, que admitiu que o conceito de "receita de exportação" (componente da base de cálculo do benefício fiscal) ficaria submetido a normatização inferior, podendo, inclusive, ser restringido ou ampliado, conforme a teleologia do benefício e razões de política fiscal.
+3. O tema da correção monetária dos créditos escriturais de IPI é matéria sumulada neste STJ (Súmula 411/STJ: "É devida a correção monetária ao creditamento do IPI quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco") e já foi objeto de julgamento pela sistemática para recursos repetitivos prevista no artigo 543-C, do CPC, e da Resolução STJ 08/2008, no REsp. Nº 1.035.847 - RS, Primeira Seção, Rel. Min. Luiz Fux, julgado em 24.6.2009.
+4. Nas ações em que se objetiva o aproveitamento de créditos escriturais de IPI, presumidos ou não, o prazo prescricional é de cinco anos, por força do Decreto n. 20.910/32. A pretensão de cobrança dos valores pelo fisco apenas surge a partir do momento em que, exercendo seu dever de fiscalização, dentro do prazo previsto no § 5º do art. 74 da Lei 9.430/96, a autoridade reputa não homologada a compensação, conforme §§ 7 e 8º do mesmo dispositivo.
+5. A aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, tendo em vista o óbice disposto na Súmula 7 do STJ.
+6. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1.473.410/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 6/10/2015, DJe 16/10/2015)
+MEDIDA CAUTELAR. COMPENSAÇÃO TRIBUTÁRIA.
+A compensação, na forma declarada pelo contribuinte, extingue o crédito tributário, sob condição resolutiva (L. 9.430/96, art. 74, § 2º); extinto o crédito, não há como cobrá-lo, nem como suspendê-lo, porque o crédito simplesmente não existe.
+A condição resolutiva pode, todavia, surtir seus efeitos se, no prazo de até cinco anos contados da entrega da declaração (L. 9.430/96, art. 74, § 5º), a autoridade fiscal deixar de homologar a compensação; esse ato corresponde ao lançamento de ofício, tanto que dele cabe impugnação e, mal sucedida esta, recurso para o Conselho de Contribuintes (hoje, sob a denominação de Conselho Administrativo de Recursos Fiscais - Carf).
+Quer dizer, o período de (5) cinco anos que se segue à declaração de compensação corresponde ao prazo que a Fazenda Pública tem para constituir o crédito tributário; é, portanto, um prazo de decadência, não de prescrição, que só inicia com a decisão que indefere o pedido compensação.
+Nessa linha, estão equivocados os precedentes jurisprudenciais que atribuem à declaração de compensação o efeito de suspender a exigibilidade do crédito tributário; a declaração de compensação, como visto, extingue o crédito tributário sob condição resolutiva.
+Agravo regimental provido para indeferir a medida cautelar.
+(AgRg na MC 20.634/PE, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 21/5/2013, DJe 28/5/2013)
+Por fim, quanto aos honorários advocatícios, a análise dessa controvérsia esbarra no óbice da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. IMPOSSIBILIDADE. VALOR ARBITRADO EM PATAMAR RAZOÁVEL. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE ANÁLISE. INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que a revisão do valor a ser indenizado somente é possível quando exorbitante ou irrisória a importância arbitrada, o que não é o caso dos autos.
+2. O entendimento do STJ é no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, vedado pela Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.013.012/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 6/3/2018, DJe 14/3/2018)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO ARTIGO 535 DO CPC/1973. NÃO CARACTERIZAÇÃO. PRETENSÃO DE REDISTRIBUIÇÃO DOS HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. No que toca ao valor dos honorários de advogado, a decisão agravada observou a assente jurisprudência do STJ de que a revisão dos honorários advocatícios fixados pelas instâncias ordinárias somente é admissível em situações excepcionais, quando o valor revelar-se manifestamente irrisório ou excessivo; caso contrário, dada a necessidade de ponderação de aspectos fático-probatórios, o recurso especial é obstaculizado pela incidência da Súmula 7/STJ.
+3. Ademais, a apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 979.859/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/3/2017, DJe 17/3/2017)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
