@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO MERCANTIL DO BRASIL SA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivando reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 1.657):
+EMENTA: EMBARGOS INFRINGENTES - JUROS REMUNERATÓRIOS - LIVRE ESTIPULAÇÃO - IMPOSSIBILIDADE - LIMITAÇÃO. - A livre estipulação de juros não foi recepcionada pelo conjunto de princípios e normas contido na Constituição da República. Isso porque o custo do crédito tem impacto direto na produção e circulação de riquezas, devendo se submeter a normas que estejam alinhadas aos objetivos constitucionais perseguidos pelo Estado. - Na ausência de norma específica acerca da limitação dos juros, aplica-se, após o advento da CF/88, o Código Civil vigente na data da celebração do contrato. Interpretando-se, conjuntamente, Código Civil de 2002 (artigos 591 e 406) e o Código Tributário Nacional, chega-se à conclusão de que o limite de juros compensatórios permitido pelo direito brasileiro, hoje, para todas as pessoas, inclusive instituições financeiras, permanece no patamar de 12% ao ano.- Em razão dos limites impostos pela devolução dos embargos infringentes, é de se manter o acórdão que limitou em 4% ao mês os juros remuneratórios.
+A parte insurgente apontou, além do dissídio jurisprudencial, ofensa aos arts. 21, caput, 333, I, do CPC/73; 161, § 1º, do Código Tributário Nacional; 113, 406, 421 e 591 do Código Civil; 4º, IX, da Lei n. 4.595/64; 5º da Medida Provisória n. 1.963-17/2000; 4º do Decreto n. 22.626/33; 51, IV e § 1º, do Código de Defesa do Consumidor; e 1º da Lei n. 8.392/91.
+Sustentou, em síntese, que: a) inexistiu abusividade na contratação dos juros remuneratórios, pois a sua taxa estava de acordo com a média de mercado aplicável a contratos da mesma espécie; b) a capitalização mensal de juros é admitida, desde que pactuada pelas partes; c) é legal a incidência da comissão de permanência no período de anormalidade contratual; e d) é devida a compensação de honorários de sucumbência, quando o feito ainda se submete às regras do CPC/73.
+O trâmite do apelo especial, inicialmente, foi suspenso, em razão da pendência de julgamento de recursos especiais repetitivos que poderiam alterar o resultado da lide.
+Retomado o julgamento do feito, o Tribunal de Justiça do Estado de Minas Gerais, à luz das teses repetitivas fixadas por esta Corte Superior, decidiu pela possibilidade de capitalização mensal de juros e de comissão de permanência (fl. 1.842) e autorizou a cobrança de juros remuneratórios acima de 12% (doze por cento) ao ano e a compensação de honorários de sucumbência, na forma da Súmula 306/STJ.
+O apelo especial, então, foi inadmitido (fl. 1.865/1.866).
+Interposto pela instituição financeira o agravo interno, este foi provido para admitir o processamento do recurso especial, com posterior envio dos autos a este STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Em princípio, esclarece-se que o recurso só pode ser examinado no tocante à tese de legalidade da taxa de juros remuneratórios, pois, considerando que somente ela integrou as razões de agravo interno em recurso especial de fls. 1.883/1.889, as demais consideram-se preclusas.
+2. O recurso só pode ser admitido se houver interesse recursal da parte insurgente, manifestado pela sucumbência no ponto controvertido.
+Na espécie, o acórdão do Tribunal de origem que promoveu o juízo de retratação previsto no art. 543-C, § 7º, I, do CPC/73 permitiu a cobrança de juros remuneratórios acima de 12% (doze por cento) ao ano, sem limitá-los à taxa de 4% (quatro por cento) ao mês, conforme anotado pela parte recorrente.
+A propósito, cabe destacar do dispositivo do referido aresto:
+Mediante tais fundamentos, ACOLHO OS EMBARGOS DECLARATÓRIOS para autorizar a cobrança de juros remuneratórios superiores a 12% (doze por cento) ao ano, determinar a cobrança da comissão de permanência adequada aos termos da súmula 472 STJ autorizar a compensação de honorários nos termos da súmula 306/STJ.
+Opostos embargos de declaração em face dessa decisão colegiada, o Tribunal de origem ainda esclareceu tratar-se de "confusão processual" da recorrente:
+Ressalta-se que a decisão recorrida é clara e cristalina em autorizar a cobrança de juros remuneratórios superiores a 12% (doze por cento) ao ano, não fazendo menção alguma sobre os juros mensais que foram delimitados no patamar de 4% (quatro por cento) ao mês nos acórdãos retro citados, com adequada e pertinente fundamentação.
+Assim, resta claro não haver interesse recursal da instituição financeira em questionar a taxa de juros autorizada.
+Ademais, se fosse do interesse da parte insurgente discutir eventual vício de fundamentação do acórdão (obscuridade ou erro material), deveria ter acrescido às razões do especial tese de violação ao art. 1.022 do NCPC.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Deixo de majorar os honorários, pois o apelo especial foi interposto em face de acórdão publicado na vigência do CPC/73.
+Publique-se.
+Intimem-se.
