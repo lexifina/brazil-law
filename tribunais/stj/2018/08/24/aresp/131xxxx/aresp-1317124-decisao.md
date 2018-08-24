@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por TELEMAR NORTE LESTE S/A. - EM RECUPERAÇÃO JUDICIAL, em face de acórdão assim ementado (fl. 397):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO DE PERFAZIMENTO OBRIGACIONAL DE SUBSCRIÇÃO ACIONÁRIA E PERDAS E DANOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SÚMULA Nº 371 DO STJ. VALOR PATRIMONIAL DA AÇÃO. APURAÇÃO COM BASE NO BALANCETE DO MÊS DA INTEGRALIZAÇÃO. ENTENDIMENTO PACIFICADO NO 0. MANUTENÇÃO DA DECISÃO AGRAVADA.
+DE ROVIMENTO DO RECURSO.
+- De acordo com a Súmula nº 371 do STJ "Nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização".
+Nas razões do especial, o ora agravante alega violação dos arts. 3º do Código de Processo Civil/1973 (art. 17 do Código de Processo Civil/2015); e 177 do Código Civil de 1916 (arts. 205 e 206, § 3º, IV e V, do Código Civil de 2002). Pretende seja considerada prescrita a pretensão, afirmando inaplicável o prazo previsto no art. 177 do Código Civil/1916; e aduz não ser parte legítima para figurar no polo passivo da ação.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, no que concerne à arguição de prescrição, referida matéria não foi objeto de debate pela Corte de origem. Assim, ressentindo-se o especial do requisito de prequestionamento, exigido inclusive para as matérias de ordem pública, e não tendo sido opostos embargos de declaração com vistas a sanar tal vício, inviabilizada a apreciação do recurso por esta Corte, por se tratar de óbice intransponível contido nos enunciados 282 e 356 da Súmula do STF.
+No mais, o Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela legitimidade passiva da ora recorrente, assim se pronunciando (fl. 398):
+A presente preliminar deve ser rejeitada. Conforme bem ressaltou o membro do Parquet Estadual, "é fato inconteste que a empresa demandada assumiu o controle acionário da extinta TELPA S.A. - que firmara os contratos de participação financeira em investimento telefônico do sistema TELEBRÁS (plano de expansão) -, incorporando-a e recebendo tanto os passivos quanto os ativos advindos daquela empresa de telecomunicações, tornando-a assim, parte integrante da sua estrutura patrimonial." Diante de tal esclarecimento, resta patente a legitimidade passiva da demandada.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. Nesse sentido: AREsp n. 1.270.697/PB, Relator Ministro MARCO AURÉLIO BELLIZZE, DJe de 28/5/2018.
+Na mesma direção:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVOS REGIMENTAIS NO AGRAVO EM RECURSO ESPECIAL. ILEGITIMIDADE ATIVA. MATÉRIA FÁTICA. SÚMULA 7/STJ. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. REVELIA. RT. 319 DO CPC. PRESUNÇÃO RELATIVA DE VERACIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. QUANTUM INDENIZATÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO, NO RECURSO ESPECIAL, DE VIOLAÇÃO A DISPOSITIVO DE LEI FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVOS REGIMENTAIS IMPROVIDOS.
+I. No caso, as razões que levaram o Tribunal de origem a reconhecer a legitimidade ativa das autoras e a responsabilização da TELEMAR NORTE LESTE S/A pelos danos por elas sofridos, foram fundamentadas no acervo fático-probatório dos autos, razão pela qual acolher as alegações deduzidas no Recurso Especial e afastar a responsabilidade da concessionária, ensejaria, inevitavelmente, a incursão no acervo fático-probatório dos autos, o que é inviável, em sede de Recurso Especial, tendo em vista o óbice previsto na Súmula 7/STJ.
+(..)
+(AgRg no AREsp 293.968/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/04/2015, DJe 24/04/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. COMPLEMENTAÇÃO ACIONÁRIA. ALEGADA ILEGITIMIDADE PASSIVA. IMPOSSIBILIDADE DE ANÁLISE. SÚMULAS N. 5 e 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. A análise da alegada ilegitimidade passiva da Brasil Telecom S.A. em razão do disposto no Edital MC/BNDES n. 01/98 esbarra nos óbices das Súmulas n. 5 e 7 desta Corte Superior. Precedentes.
+2. Agravo regimental desprovido. (AgRg no AREsp 568.094/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/12/2014, DJe 16/12/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TELEMAR. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. LEGITIMIDADE. SÚMULAS NºS 5 E 7/STJ. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO.
+1. A alteração do julgado é inviável em virtude dos óbices contidos nas Súmulas nºs 5 e 7 desta Corte.
+2. Incide o Código de Defesa do Consumidor nos contratos de participação financeira vinculados ao serviço de telefonia.
+3. Agravo regimental não provido.
+(AgRg no AREsp 481.566/PB, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/08/2014, DJe 04/09/2014)
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
