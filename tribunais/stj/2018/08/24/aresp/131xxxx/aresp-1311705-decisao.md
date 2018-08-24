@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manifestado em face da decisão que negou seguimento ao recurso especial interposto contra acórdão assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. ORDINÁRIA.
+O aval prestado em cédula de crédito rural pignoratícia é válido e produz todos os efeitos dele decorrentes. Incidência, à espécie, do previsto pelo "caput" do art. 60 do Decreto-Lei nº 167/67. Inaplicabilidade do disposto nos §§ 2º e 3º, do aludido dispositivo legal. Jurisprudência da Corte e da Câmara. Manutenção da sentença que se impõe.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Argumenta a parte recorrente, em síntese, que o acórdão é omisso, e que o art. 60, § 3º, do Decreto-Lei n. 167/67 fulmina de nulidade as garantias prestadas por pessoas físicas nas cédulas de crédito rural.
+As Turmas integrantes da Segunda Seção desta Corte Superior adotaram nova orientação, a partir do julgamento do REsp 1.483.853/MS, de relatoria do Ministro Moura Ribeiro. Na oportunidade, a Terceira Turma do STJ consignou que a melhor interpretação do art. 60 do Decreto-Lei 167/1967 não inclui as cédulas de crédito rural na cominação de nulidade de garantias, mas apenas as notas e duplicatas rurais.
+Confira-se a ementa do julgado paradigma:
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE AVAL EMITIDO POR PESSOA FÍSICA. CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA. INTERPRETAÇÃO DO ART. 60, § 3º, DO DECRETO-LEI Nº 167/67 NA REDAÇÃO CONFERIDA PELA LEI Nº 6.754/79. RATIO LEGIS. FUNÇÃO SOCIAL DO CONTRATO.
+1. As mudanças no Decreto-Lei nº 167/67 não tiveram como alvo as cédulas de crédito rural. Por isso elas nem sequer foram mencionadas nas proposições que culminaram com a aprovação da Lei nº 6.754/79, que alterou o Decreto-lei referido.
+2. A interpretação sistemática do art. 60 do Decreto-Lei nº 167/67 permite inferir que o significado da expressão "também são nulas outras garantias, reais ou pessoais", disposta no seu § 3º, refere-se diretamente ao § 2º, ou seja, não se dirige às cédulas de crédito rural, mas apenas às notas e duplicatas rurais.
+3. Vedar a possibilidade de oferecimento de crédito rural direto mediante a constituição de garantia de natureza pessoal (aval) significa obstruir o acesso a ele pelo pequeno produtor ou só o permitir em linhas de crédito menos vantajosas.
+4. Recurso especial provido.
+(unânime, DJe de 18.11.2014)
+Na mesma linha de raciocínio, a Quarta Turma deste Tribunal também adotou o referido entendimento, conforme se verifica no recente precedente, cuja ementa se transcreve abaixo:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO BANCÁRIO E DIREITO CAMBIÁRIO. CÉDULA DE CRÉDITO RURAL - CCR. CONTRATO DE FINANCIAMENTO DA PRODUÇÃO AGRÍCOLA. DECRETO-LEI 167, DE 1967, ART. 60, §§ 1º, 2º E 3º. TEOR NORMATIVO ESPECÍFICO ÀS CAMBIAIS. GARANTIA DADA POR TERCEIROS EM CCR. VALIDADE. REGIMENTAL NÃO PROVIDO.
+1. Diversamente da nota promissória rural e da duplicata rural, que são emitidas pelo comprador da produção agrícola e representam o preço de venda a prazo de bens de natureza agrícola, em geral cedidas pelo produtor rural nas operações de desconto bancário, a cédula de crédito rural corresponde a financiamento obtido para viabilizar a produção agrícola.
+2. "As mudanças no Decreto-Lei n.167/67 não tiveram como alvo as cédulas de crédito rural. Por isso elas nem sequer foram mencionadas nas proposições que culminaram com a aprovação da Lei nº 6.754/79, que alterou o Decreto-Lei referido. A interpretação sistemática do art. 60 do Decreto-Lei nº 167/67 permite inferir que o significado da expressão "também são nulas outras garantias, reais ou pessoais", disposta no seu § 3º, refere-se diretamente ao § 2º, ou seja, não se dirige às cédulas de crédito rural, mas apenas às notas e duplicatas rurais" (REsp 1.483.853/MS, TERCEIRA TURMA, Rel. Ministro MOURA RIBEIRO, julgado em 4/11/2014, DJe de 18/11/2014).
+3. O Decreto-Lei 167/67, em seu art. 60, §§ 2º e 3º, determina a nulidade do aval e de outras garantias, reais ou pessoais, referindo-se apenas à nota promissória rural e à duplicata rural endossadas, ressalvando a validade das garantias nestes títulos quando prestadas por pessoas físicas participantes de sociedade empresária emitente, por esta ou por outras pessoas jurídicas.
+4. Tal nulidade, portanto, não atinge a cédula de crédito rural, porque esta corresponde a um financiamento bancário, negócio jurídico, de natureza contratual, em que há a participação direta de instituição de crédito. Trata-se de operação diversa das referentes às notas promissórias e duplicatas rurais, nas quais o banco não participa da relação jurídica subjacente, ingressando na relação cambial apenas durante o ciclo de circulação do título.
+5. Dada a natureza de financiamento bancário, inexiste óbice à prestação de quaisquer garantias na cédula de crédito rural, sendo válidas mesmo as dadas por terceiro pessoa física, cumprindo-se assim a função social dessa espécie contratual.
+6. Agravo regimental não provido.
+(AgRg no AREsp 17.723/MS, Rel. Ministro RAUL ARAÚJO, unânime, DJe de 8.4.2015)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
