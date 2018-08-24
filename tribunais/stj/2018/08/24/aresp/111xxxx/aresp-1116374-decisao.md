@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso, este interposto contra acórdão do Tribunal de Justiça de São Paulo, assim ementado (fl. 233):
+EMBARGOS À EXECUÇÃO. Recolhimento do valor de preparo a menor. Determinação de complementação. Inteligência do § 2º do art. 511 do Código de Processo Civil de 1973. Recolhimento extemporâneo. Deserção caracterizada. Recurso não conhecido.
+Embargos de declaração rejeitados.
+Nas razões do recurso especial a parte ora agravante alega ofensa aos arts. 98, 99, 282, 932, 938 e 1.007 do Código de Processo Civil de 2015 e 14 da Lei 9.289/1996, ao deixar de deferir os benefícios da justiça gratuita e de conhecer o recurso de apelação mesmo após a complementação das custas recursais. Aduz que a negativa do seguimento do recurso especial representa excesso de formalismo, o que contraria os princípios elementares de acesso à jurisdição.
+É o relatório. Decido.
+No caso, o col, Tribunal a quo não conheceu da apelação da parte ora recorrente pela ausência de complementação do preparo no prazo estipulado. Eis o teor do acórdão recorrido, verbis:
+Depreende-se dos autos que o recurso de apelação foi interposto com o recolhimento do valor do preparo inferior ao que determina a lei que rege a matéria. Intimados ao complemento em 17/02/2016 (fls. 223), os apelantes recolheram o valor em 03/03/2016 (fls. 227/228), ou seja, posteriormente ao prazo disposto no § 2º do art. 511 do Código de Processo Civil. (..) No caso, o valor correto do preparo deveria ser apresentado quando da interposição recursal ou até o temo final do prazo para complementá-lo, e isso não foi feito pelos recorrentes. (..) Considerado o recolhimento extemporâneo da complementação do preparo, de rigor o não conhecimento do recurso, ante a deserção caracterizada. (fls. 232/236, n.g)
+É entendimento sedimentada no Superior Tribunal de Justiça que o recurso é deserto se o recorrente for devidamente intimado a regularizar o recolhimento e não comprova, tempestivamente, a regularização do respectivo preparo.
+Nesse sentido, confiram-se os seguintes precedentes:
+GRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO CIVIL. PREPARO INCOMPLETO. INTIMAÇÃO PARA COMPLEMENTAÇÃO. INTEMPESTIVIDADE. DESERÇÃO. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que, tendo sido o recorrente intimado para efetuar a complementação do preparo, nos termos do art. 511, § 2º, do Código de Processo Civil, e não tendo sido recolhido o valor devido no prazo, impõe-se o reconhecimento da deserção do recurso.
+2. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 1408616/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/08/2015, DJe 21/08/2015)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. PREPARO INCOMPLETO. INTIMAÇÃO PARA COMPLEMENTAÇÃO. INÉRCIA. DESERÇÃO. PRECEDENTES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Na linha da jurisprudência desta Corte, tendo sido o recorrente intimado para efetuar a complementação do preparo, nos termos do art. 511, § 2º, do Código de Processo Civil, e não recolhido o valor devido no prazo, impõe-se o reconhecimento da deserção do recurso.
+2. Ausente o prequestionamento das teses defendida no recurso especial, sequer de modo implícito, incide o disposto na Súmula nº 282/STF.
+3. Agravo regimental não provido. (AgRg nos EDcl no Ag 953.341/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/09/2012, DJe 27/09/2012)
+PROCESSUAL CIVIL. APELAÇÃO. INTIMAÇÃO DA PARTE PARA COMPLEMENTAÇÃO DO PREPARO. INÉRCIA. DESERÇÃO.
+1. A decisão agravada foi acertada ao manter o acórdão que decretou a deserção da apelação, uma vez que, apesar da parte recorrente ter sido intimada a realizar a complementação do preparo, permaneceu inerte.
+2. Incide o disposto na Súmula 7/STJ, na hipótese em que a parte recorrente pretende rever premissa de fato adotada pelo Tribunal de origem com base no suporte fático-probatório dos autos. Na espécie, a agravante alega que, nas razões de apelação, houve pedido de intimação exclusiva em nome de determinado advogado, o que não foi observado pelo juízo quando da intimação para complementação do preparo, ao passo em que o Tribunal a quo consignou que referido pedido se referia apenas a que o advogado pudesse comparecer na sessão de julgamento. Logo, alterar tal conclusão implica analisar matéria fática, o que é vedado nesta seara recursal.
+3. Agravo regimental não provido. (AgRg no AREsp 150.022/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/05/2012, DJe 14/05/2012)
+AGRAVOS REGIMENTAIS NO AGRAVO. INTERPOSIÇÃO DE DOIS AGRAVOS REGIMENTAIS DA MESMA DECISÃO. PRECLUSÃO CONSUMATIVA. RECURSO ESPECIAL. PREPARO INSUFICIENTE. INTIMAÇÃO PARA COMPLEMENTAÇÃO. INTEMPESTIVIDADE. DESERÇÃO. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Tendo a parte interposto dois Agravos Regimentais atacando a mesma decisão, o segundo recurso, em face da preclusão consumativa, não comporta conhecimento.
+2.- Tendo sido intimado o recorrente para realizar a complementação do preparo e não recolhido o valor devido no prazo de cinco dias, impõe-se a aplicação da pena de deserção. Precedentes.
+3.- O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental às fls. 238/244 não conhecido e Agravo Regimental de fls. 232/235 improvido. (AgRg no AREsp 49.349/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 15/12/2011, DJe 1º/02/2012)
+Aplicável, portanto, óbice contido na Súmula 83 do STJ.
+Ademais, no caso dos autos, não foi apresentada nenhuma justificativa razoável, a fim de que se possa afastar a deserção decretada pela Corte de origem, uma vez que, regularmente intimada para efetuar a complementação do preparo, os agravantes efetuaram o pagamento fora do prazo legal.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
