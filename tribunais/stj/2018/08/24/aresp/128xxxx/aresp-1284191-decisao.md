@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ASSUNÇÃO DE DÍVIDA POR TERCEIRO. FALTA DE PREQUESTIONAMENTO. JULGAMENTO EXTRA PETITA E PRECLUSÃO. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+CJ Franz Distribuidora de Carnes Ltda. interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ, fl. 129):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DÍVIDA DA SOCIEDADE. PENHORA DE BEM IMÓVEL PERTENCENTE AO SÓCIO. IMPOSSIBILIDADE.
+É nula a penhora de bem imóvel não pertencente à devedora, mas a seus sócios e sem que se tenha operado a desconsideração da personalidade jurídica. Acolhimento da pretensão que ensejaria a responsabilização de terceiros que não figuram no polo passivo da execução, o que se mostra absolutamente vedado.
+AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, alegou a recorrente violação dos arts. 299 do Código Civil e 278 e 492 do CPC/2015, na medida em que, "havendo interesse de terceiro em pagar o débito da empresa executada, através da oferta de bens passíveis de penhora, e com a concordância do exequente, não pode o juízo, de ofício, determinar o levantamento da constrição sob o fundamento de que a penhora não pode recair sobre bem de terceiro" (e-STJ, fls. 163-164).
+Aduziu que a determinação de levantamento da constrição constante sobre o bem ofertado pelo sócio da empresa executada configurou julgamento extra petita, sobretudo porque não se trata de matéria de ordem pública apta a ser conhecida de ofício pelo magistrado.
+Afirmou ser possível a assunção da obrigação por terceiro, mesmo que este não figure no polo passivo da execução, ou seja, sócio da empresa executada.
+Defendeu, ainda, a preclusão da matéria acerca da constrição mantida sobre bem ofertado pelo sócio da empresa executada, tendo em vista que a parte executada não apresentou "qualquer manifestação ou inconformidade com o ato" (e-STJ, fl. 170).
+O Tribunal de origem inadmitiu o apelo extremo, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, registro que o art. 299 do Código Civil, apontado como violado no recurso especial pela agravante, diz respeito à assunção de dívida, hipótese em que o devedor antigo cede lugar ao novo, que assume a posição daquele, responsabilizando-se pela dívida, que não é extinta. Tal hipótese, que não se confunde com a sub-rogação, se caracteriza pela transferência (por delegação ou por expromissão) da obrigação de pagar, isto é, diz respeito à transmissão das obrigações.
+A despeito da alegação da agravante, o acórdão, em nenhum momento, tratou da possibilidade ou não de contrato da assunção de dívida de empresa pelo sócio. Restringiu-se, no particular, apenas a afirmar que o imóvel objeto de constrição, embora indicado pelo sócio da empresa e sem a discordância do credor, não pertencia à devedora.
+Tal situação não faz presumir, por mais que a indicação do imóvel haja sido espontânea e de boa-fé, que o caso verse sobre hipótese de assunção de dívida. Ao contrário, as alegações da agravante indicam que a sua pretensão se aproximaria muito mais de uma sub-rogação do que de assunção de dívida. Fato é que tal alegação não se encontra prequestionada, nem sequer implicitamente.
+Melhor sorte não assiste quanto às alegações de preclusão e julgamento extra petita. O próprio art. 278 do CPC/2015 indicado como violado pela agravante prevê, em seu parágrafo único, que "não se aplica o disposto no caput às nulidades que o juiz deva decretar de ofício, nem prevalece a preclusão provando a parte legítimo impedimento".
+Ora, considerar a penhora de patrimônio do sócio, de per si, a fim de que possa responder por obrigação contraída pela empresa, sem que haja a desconsideração da personalidade jurídica, é causa de nulidade verificável de ofício, tal como destacou o decisum agravado e, por isso mesmo, não se mostra extra petita.
+Trata-se de questão entrelaçada a própria legitimidade do sócio para figurar no polo de obrigação contraída por pessoa distinta.
+Além disso, a preclusão de matérias de ordem pública, consoante entendimento desta Corte, somente se operam nas hipóteses em que houver decisão anterior sobre o tema (AgInt no AREsp 1.228.430/RS, Relator o Ministro Lázaro Guimarães, Desembargador Convocado do TRF da 5ª Região, DJe de 1º/8/2018).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
