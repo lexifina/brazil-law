@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. AUSÊNCIA DE RESPONSABILIDADE DOS ENTES PÚBLICOS AO SEU FORNECIMENTO. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. CONTROVÉRSIA DECIDIDA EM FUNDAMENTO CONSTITUCIONAL. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO NÃO PROVIDO.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto, contra decisão que não admitiu o recurso especial, que enfrenta acórdão, com a seguinte ementa (fls. 102):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. DIREITO À SAÚDE. FORNECIMENTO DE BIÓPSIA DE TESTÍCULOS C/C FERTILIZAÇÃO IN VITRO. INFERTILIDADE MASCULINA. AUSÊNCIA DE RESPONSABILIDADE DOS ENTES PÚBLICOS AO SEU FORNECIMENTO.
+O fornecimento dos procedimentos postulados não pode ser considerado como pedido de efetivação da tutela à saúde (art. 196, da CF/88), tendo em vista que o tratamento para infertilidade não constitui dever do Estado, eis que não se trata de risco à vida ou à saúde, bens jurídicos protegidos pela Carta Magna.
+Precedentes desta Corte.
+Apelação desprovida.
+Embargos de declaração rejeitados.
+No recurso especial, o agravante alega, além de divergência jurisprudencial, violação dos artigos 2º, da Lei nº 8.080/90; 196 e 226, §7º, da CF/88; 1º e 9º, da Lei nº 9.263/96. Defende, em síntese, que tem direito à saúde e à liberdade no planejamento familiar, portanto está inconformado com a negativa ao pedido de tratamento pleiteado.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Ainda, nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação aos dispositivos constitucionais.
+Mas ainda que assim não fosse, da análise detida dos autos, verifica-se que o acórdão recorrido não emitiu qualquer juízo acerca dos artigos 2º, da Lei nº 8.080/90; 1º e 9º, da Lei nº 9.263/96, o que leva à incidência, da Súmula 211 do STJ, por falta de prequestionamento.
+Frise-se que ainda que superado os óbices acima, infere-se que a controvérsia, relativa ao fornecimento dos procedimentos postulados pelo autor, foi dirimida com fundamento constitucional, especificamente com base no artigo 196 da CF/88, de modo que o recurso especial é inviável quanto ao ponto, sob pena de usurpar-se a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Por fim, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
