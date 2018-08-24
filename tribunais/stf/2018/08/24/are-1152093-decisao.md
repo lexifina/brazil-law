@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO. AGRAVO INTERNO EM APELAÇÃO CÍVEL. SERVIDOR. DIREITO À REMOÇÃO PARA ACOMPANHAR CÔNJUGE TRANSFERIDO PARA O EXTERIOR. EXERCÍCIO PROVISÓRIO EM OUTRO ÓRGÃO DA ADMINISTRAÇÃO. ART. 84, §2° DA LEI 8.112/90. INAPLICABILIDADE.
+    I - O Estatuto do servidor público federal (Lei 8.112/90), ao disciplinar a remoção do servidor para acompanhar cônjuge transferido para outro ponto do território nacional, para o exterior ou para o exercício de mandato eletivo dos Poderes Executivo e Legislativo fixou, como regra geral, a licença por prazo indeterminado e sem remuneração (1° do art. 84), mas criou uma exceção a essa regra, no §2° do art. 84, estabelecendo a possibilidade de ser concedida a remoção para exercício provisório em outro órgão desde que para o desempenho de atividade compatível com o cargo atual do requerente.
+    II - Inexistindo atividade compatível com o cargo exercido pela servidora (Escrivã da Polícia Federal) na localidade para a qual foi transferido seu cônjuge (Roma-Itália) e não havendo possibilidade legal de exercício provisório das atividades exercidas pelos policiais federais acreditados nas missões brasileiras permanentes ou transitórias no exterior nas unidades administrativas do Ministério das Relações Exteriores, (art. 69 da Lei 11.440/06), afigura-se inaplicável à hipótese o §2° do art. 84 da Lei 8.112/90.
+    III - A decisão administrativa que nega a licença prevista no 2° do art. 84 da Lei 8.112/90 por ausência de seus requisitos autorizadores não implica contrariedade ao art. 226 da Constituição, pois a manutenção do núcleo familiar através do direito de o servidor acompanhar o cônjuge continua preservada pela regra geral do art. 84 da Lei 8.112/90, que atualmente independe do número de vagas existentes no local de transferência.
+    IV - A concessão de passaportes diplomáticos aos familiares do titular da missão no exterior visa apenas a facilitar a imigração de toda a família, evitando filas e outros contratempos, mas não se destina a contemplar os interesses próprios dos dependentes do titular e nem pode ser vista como medida governamental de "indução" do servidor a formular requerimento de licença remunerada.
+    V - Agravo interno conhecido mas desprovido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º; 226, §§ 6º e 7º; e 227 da CF.
+    O recurso extraordinário não deve ser provido. Isso porque, para dissentir das conclusões do Tribunal de origem acerca da impossibilidade da remoção pleiteada pela servidora, seria necessário analisar as normas infraconstitucionais pertinentes e reexaminar os fatos e provas constantes dos autos, providências inviáveis de serem realizadas neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
