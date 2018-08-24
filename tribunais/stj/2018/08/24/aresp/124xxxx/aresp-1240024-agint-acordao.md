@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REJEIÇÃO LIMINAR DO PEDIDO. INCIDÊNCIA DO ART. 285-A DO CPC/73 AFASTADA PELO ACÓRDÃO RECORRIDO. NECESSIDADE DE ANÁLISE DE MATÉRIA DE FATO. ALEGADA AUSÊNCIA DE LESIVIDADE DOS ATOS IMPUGNADOS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. SÚMULA 7/STJ.
+1. Na hipótese, o Tribunal de origem entendeu não ser o caso de improcedência liminar do pedido deduzido na ação popular, pois a questão não pode ser considerada unicamente de direito, posto que não versa somente sobre a possibilidade da Administração Pública utilizar ou não verbas com publicidade, mas também traz consigo a impugnação dos valores supostamente utilizados no mês de julho de 2013, bem como o questionamento de observância dos procedimentos regulamentados na lei 12.232/10 (fl. 234 e-STJ).
+2. A reversão desses entendimentos demanda o reexame do conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por Petropolis Camara Municipal em face de decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. CORRETA IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REJEIÇÃO LIMINAR DO PEDIDO. INCIDÊNCIA DO ART. 285-A DO CPC/73 AFASTADA PELO ACÓRDÃO RECORRIDO. NECESSIDADE DE ANÁLISE DE MATÉRIA DE FATO. ALEGADA AUSÊNCIA DE LESIVIDADE DOS ATOS IMPUGNADOS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESTA PARTE NEGAR PROVIMENTO À INSURGÊNCIA.
+A agravante defende a impossibilidade de incidência do Súmula 7/STJ no caso em análise, eis que o recurso especial discute tão somente a aplicação do artigo 285-A do CPC/1973 nos casos de demandas repetitivas em que a questão já se encontra pacificada no juízo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REJEIÇÃO LIMINAR DO PEDIDO. INCIDÊNCIA DO ART. 285-A DO CPC/73 AFASTADA PELO ACÓRDÃO RECORRIDO. NECESSIDADE DE ANÁLISE DE MATÉRIA DE FATO. ALEGADA AUSÊNCIA DE LESIVIDADE DOS ATOS IMPUGNADOS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. SÚMULA 7/STJ.
+1. Na hipótese, o Tribunal de origem entendeu não ser o caso de improcedência liminar do pedido deduzido na ação popular, pois a questão não pode ser considerada unicamente de direito, posto que não versa somente sobre a possibilidade da Administração Pública utilizar ou não verbas com publicidade, mas também traz consigo a impugnação dos valores supostamente utilizados no mês de julho de 2013, bem como o questionamento de observância dos procedimentos regulamentados na lei 12.232/10 (fl. 234 e-STJ).
+2. A reversão desses entendimentos demanda o reexame do conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão recursal não merece acolhimento.
+De pórtico, destaca-se excerto do acórdão recorrido acerca da controvérsia suscitada no presente feito, qual seja (fl. 234 e-STJ):
+No caso em tela a problemática reside no fato de a sentença ter sido proferida em julgamento liminar do feito, na forma do artigo 285-A do CPC/73, por entender o magistrado que se trata de questão unicamente de direito.
+Em verdade, os apelantes, por meio da ação popular, impugnam os gastos com publicidade referente ao mês de julho de 2013, no valor de R$ 75.497/73, por entenderem que tais verbas afrontam os princípios que norteiam a Administração Pública, tais como economicidade, causando prejuízos ao erário.
+Ademais, para instrução do feito, requereram que o juízo requisitasse aos demandados as informações sobre o critério utilizado para a remuneração de cada um dos órgãos de imprensa contratados, bem como se deu a adequação de tais gastos com a Lei nº 12.232/10, tudo a comprovar o alegado.
+A questão não pode ser considerada unicamente de direito, posto que não versa somente sobre a possibilidade da Administração Pública utilizar ou não verbas com publicidade, mas também traz consigo a impugnação dos valores supostamente utilizados no mês de julho de 2013, bem como o questionamento de observância dos procedimentos regulamentados na lei 12.232/10. Por tal razão comporta produção de provas para apuração dos fatos alegados.
+Ressalte-se que para o julgamento liminar do feito na forma do artigo 285-A do CPC/73, deve haver a presença simultânea dos seguintes requisitos: julgamento de casos idênticos em que foi proferida sentença de total improcedência e questão ser unicamente de direito.
+Assim, mesmo tendo o juízo a quo se deparado com questões semelhantes cujos julgamentos resultaram em sentenças de total improcedência, falta o requisito da questão ser unicamente de direito para que seja permitido o julgamento em caráter liminar.
+Com efeito, observa-se que a decisão agravada consignou que o acórdão recorrido concluiu no sentido de que há questão de fato a ser dirimida, motivo pelo qual entendeu que não é possível a aplicação do art. 285-A do CPC/73.
+Afinal, decidiu o Tribunal de origem entendeu não ser o caso de improcedência liminar do pedido deduzido na ação popular, pois a questão não pode ser considerada unicamente de direito, posto que não versa somente sobre a possibilidade da Administração Pública utilizar ou não verbas com publicidade, mas também traz consigo a impugnação dos valores supostamente utilizados no mês de julho de 2013, bem como o questionamento de observância dos procedimentos regulamentados na lei 12.232/10.
+Acrescenta-se, outrossim, que nem mesmo o ora agravante trouxe fundamentação a apontar como seria possível concluir de maneira diversa a partir da interpretação das razões de decidir do acórdão recorrido. Como cediço, a revaloração do contexto fático limita-se ao que estiver presente no aresto vergastado.
+Logo, deve ser mantido o entendimento expendido na decisão ora agravada no sentido de que o recurso especial não pode ser conhecido em razão da incidência da Súmula 7/STJ na hipótese, pois não é possível analisar o mérito da alegação de que os atos impugnados na ação popular não são lesivos, tendo em vista a necessidade de revolvimento do conjunto fático e probatório constante dos autos
+A propósito, confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POLICIAL MILITAR. AUXÍLIO-MORADIA. REJEIÇÃO LIMINAR DO PEDIDO. NÃO DEMONSTRADA A ALEGADA VIOLAÇÃO AO ART. 535 DO CPC. INCIDÊNCIA DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO DO ART. 244 DO CPC. INCIDÊNCIA DA SÚMULA 211/STJ. JULGAMENTO LIMINAR DE MÉRITO. MEDIDA EXCEPCIONAL. IMPRESCINDÍVEL A PRESENÇA CONCOMITANTE DOS REQUISITOS LEGAIS. A DESATENÇÃO AOS PRESSUPOSTOS DO ART. 285-A DO CPC ACARRETA À CASSAÇÃO DA SENTENÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recorrentes não demonstraram, nas razões do Recurso Especial, de que modo o acórdão teria contrariado o art. 535 do CPC, deixando de especificar eventuais omissões no aresto recorrido, o que impede a exata compreensão da questão, incidindo a Súmula 284/STF.
+2. O tema inserto no art. 244 do CPC não foi debatido pelo Tribunal de origem, malgrado a oposição de Embargos Declaratórios.
+Assim, ante a ausência de prequestionamento, incide a Súmula 211 desta Corte.
+3. O julgamento liminar de mérito previsto no art. 285-A do CPC é medida excepcional, admitida apenas quando presentes, concomitantemente, os requisitos elencados no referido dispositivo.
+A aplicação do aludido comando legal está adstrita às hipóteses em que a matéria controvertida for exclusivamente de direito e que no juízo já houver sido proferida sentença de total improcedência em casos idênticos; ademais, não basta a mera menção às sentenças anteriormente prolatadas, sendo necessária a reprodução dos paradigmas.
+4. A desatenção aos requisitos do art. 285-A do CPC impõe a cassação da sentença e a baixa dos autos para regular processamento da ação.
+5. Agravo Regimental desprovido.
+(AgRg no REsp 1177368/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 03/02/2011, DJe 21/02/2011)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO DO ART. 285-A DO CPC/73. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA E DE DIREITO ENTRE OS ACÓRDÃOS CONFRONTADOS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 07/03/2016, contra decisão publicada em 02/03/2016, na vigência do CPC/73.
+II. Na esteira da jurisprudência desta Corte, "ultrapassar o entendimento adotado pelo colegiado de origem, no sentido de que não se aplica, na presente hipótese, o disposto no art. 285-A do CPC, demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede de recurso especial, conforme disposto na Súmula 7 desta Corte" (STJ, AgRg no AREsp 804.313/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 04/02/2016). No mesmo sentido: STJ, AgRg no AREsp 742.290/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2016; AgRg no REsp 1.458.596/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/11/2015.
+III. Dissídio jurisprudencial não demonstrado, em virtude da ausência de similitude fática e de direito entre os acórdãos confrontados. Isso porque "não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo" (STJ, AgRg no AREsp 678.952/PR, Rel.
+Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 28/04/2016).
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 807.158/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/05/2016, DJe 02/06/2016)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
