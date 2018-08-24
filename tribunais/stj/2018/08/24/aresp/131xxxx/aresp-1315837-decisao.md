@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - PRELIMINAR - TARIFAS - INOVAÇÃO RECURSAL - NÃO CONHECIMENTO - JUROS REMUNERTÓRIOS - OBSERVÂNCIA DA TAXA MÉDIA DE MERCADO - CAPITALIZAÇÃO MENSAL DE JUROS - PREVISÃO CONTRATUAL - ADMISSIBILIDADE - COMISSÃO DE PERMANÊNCIA - LIMITAÇÃO AOS ENCARGOS REMUNERATÓRIOS E MORATÓRIOS PREVISTOS NO CONTRATO - IMPOSSIBILIDADE DE CUMULAÇÃO COM OUTROS ENCARGOS DA INADIMPLÊNCIA - DESCARACTERIZAÇÃO DA MORA - INOCORRÊNCIA - REPETIÇÃO DO INDÉBITO - FORMA SIMPLES.
+1 - A inovação recursal - caracterizada pela suscitação de tese, pela primeira vez, em instância revisora - é vedada pelo ordenamento jurídico pátrio.
+2 - As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33).
+3 - A estipulação de juros remuneratórios superiores a 12% ao ano, por si, não indica abusividade - Resp nº 1061530/RS.
+4 - A fixação de taxa mensal de juros remuneratórios é atividade estranha aos limites de atuação do Poder Judiciário, que, contudo, pode afastar eventual discrepância com a taxa media de mercado definida pelo Banco Central do Brasil.
+5 - A incidência de juros capitalizados, com periodicidade inferior a um ano, é autorizada quando o contrato entabulado for posterior à publicação da MP nº 1.963-17/2000 e prever expressamente a cobrança do encargo - Resp nº 660.679/RS.1 6- É vedada a cumulação da comissão de permanência com outros encargos moratórios e o seu valor, quando cobrada isoladamente, não pode superar a soma dos encargos remuneratórios e moratórios previstos no contrato.
+7 - O reconhecimento da abusividade de encargo incidente sobre o período de anormalidade contratual - inadimplência - não enseja a descaracterização da mora.
+8 - A repetição em dobro do indébito, com fulcro no parágrafo único do art. 42 do Código de Defesa do Consumidor, só é admitida quando comprovada a má-fé na cobrança.
+Volta-se contra a capitalização mensal de juros e a utilização da Tabela Price e a cobrança da comissão de permanência, pretendendo, ainda, a limitação dos juros remuneratórios em 12% (doze por cento) ao ano e a vedação à compensação dos honorários advocatícios, invocando diversos dispositivos legais sobre o tema.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local negou seguimento ao recurso especial porque os termas discutidos já haviam sido decididos nesta Corte com base no artigos 543-C do revogado Código de Processo Civil, ou seja, pela sistemática dos recursos repetitivos.
+Assim, desde a sentença (prolatada em outubro de 2016 - e-STJ, fl. 196) já estava em vigor o atual Código de Processo Civil, de sorte que caberia ao recorrente a interposição de agravo interno no Tribunal de origem, consistindo erro grosseiro a interposição de agravo para este Tribunal.
+Assim:
+PROCESSUAL CIVIL. RECURSO REPETITIVO. JUÍZO DE ADMISSIBILIDADE. INTERPOSIÇÃO DE NOVO APELO ESPECIAL CONTRA ACÓRDÃO PROFERIDO EM AGRAVO REGIMENTAL MANEJADO CONTRA DECISÃO LOCAL QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM BASE NO ARTIGO 543-C, § 7º, DO CÓDIGO DE PROCESSO CIVIL. NÃO CABIMENTO.
+1. Esta Corte firmou compreensão de que "o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual".
+2. Mostra-se inadmissível a interposição de novo Recurso Especial contra acórdão que, no julgamento de Agravo Interno, mantém a decisão que negou seguimento ao apelo anterior com base no artigo 543-C, § 7º, do CPC, por considerar que o julgado recorrido está de acordo com a orientação do Superior Tribunal de Justiça, firmada em recurso representativo da controvérsia.
+3. Na sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1113091/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/4/2018, DJe 24/5/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. CAPITALIZAÇÃO DOS JUROS. DECISÃO QUE, COM BASE NO ARTIGO 543-C, § 7º, INCISO I, DO CPC, OBSTA RECURSO ESPECIAL. AGRAVO. NÃO CABIMENTO. REEXAME DE MATÉRIA FÁTICA DA LIDE. IMPOSSIBILIDADE. ENUNCIADO 7 DA SÚMULA DO STJ. TÍTULO EXECUTIVO EXTRAJUDICIAL. LEI 10.931/2004.
+1. Não tendo havido o prequestionamento de parte dos temas ventilados no recurso especial, incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. A Corte Especial do STJ, em julgamento da Questão de Ordem no Agravo de Instrumento 1.154.599/SP, firmou ser incabível agravo contra decisão que, com fundamento no artigo 543-C, § 7º, inciso I, do Código de Processo Civil de 1973 (CPC), nega seguimento a recurso especial. Precedentes.
+3. O acolhimento da pretensão reformatória impõe o reexame de matéria fática, o que é inviável em recurso especial, nos termos da Súmula 7 do STJ.
+4. A cédula de crédito bancário, mesmo quando o valor nela expresso seja oriundo de saldo devedor em contrato de abertura de crédito em conta corrente, tem natureza de título executivo, exprimindo obrigação líquida e certa, por força do disposto na Lei n.
+10.930/2004. Precedentes da Segunda Seção e da Quarta Turma do STJ.
+5. Agravo interno a que se nega provimento.
+(AgRg no AREsp 778.620/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/5/2017, DJe 16/5/2017)
+Diante do exposto, não conheço do agravo. Tendo o julgado impugnado sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil, limitado ao estabelecido nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
