@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AUXÍLIO-DOENÇA E APOSENTADORIA POR INVALIDEZ. IMPOSSIBILIDADE DE CUMULAÇÃO. BENEFÍCIO POR INCAPACIDADE. ATIVIDADE LABORATIVA. PERÍODO CONCOMITANTE. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSS contra decisão que não admitiu seu recurso especial manejado contra acórdão do Tribunal Regional Federal da 3ª Região, com a seguinte ementa (e-STJ fl. 99):
+PREVIDENCIÁRIO. APELAÇÃO. EMBARGOS À EXECUÇÃO. AUXÍLIO-DOENÇA E APOSENTADORIA POR INVALIDEZ. IMPOSSIBILIDADE DE CUMULAÇÃO. BENEFÍCIO POR INCAPACIDADE. ATIVIDADE LABORATIVA. PERÍODO CONCOMITANTE.
+I. O artigo 124, incisos I e II, da Lei 8.213/91, com a redação dada pela Lei 9.032/95, não permite o recebimento conjunto de aposentadoria e auxílio-doença tampouco de mais de uma aposentadoria.
+II. Considerando que o valor referente ao auxílio-doença, no período de 01/11/2009 a 15/11/2009, não foi efetivamente recebido pelo embargado, o cálculo de liquidação dos atrasados da aposentadoria por invalidez poderá abranger o citado período, ficando consignada, porém, a impossibilidade de levantamento da mencionada quantia disponibilizada a título de auxílio-doença.
+III. A legislação previdenciária em vigor estabelece que o exercício de atividade laborativa é incompatível com o recebimento do benefício por incapacidade.
+IV. Contudo, diante do indeferimento de benefício, naturalmente, o segurado vê-se obrigado a permanecer trabalhando para sobreviver - muitas vezes à custa da própria saúde -, tendo em vista a possibilidade de não obter êxito em seu pleito judicial.
+V. Comprovados os requisitos legais, a parte embargada faz jus à totalidade dos atrasados da condenação, ainda que tenha efetivamente desempenhado suas atividades laborativas após o termo inicial do benefício judicialmente concedido.
+VI. Apelação parcialmente provida.
+Foram opostos embargos de declaração, os quais foram rejeitados, nos termos da ementa de e-STJ fl. 112.
+No recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, o agravante aponta ofensa aos arts. 42, 43, e 46, da Lei 8.213/1991 e 884 e 885 do Código Civil, tendo em vista que "é consabido que a aposentadoria por invalidez é benefício previdenciário substitutivo da renda, de modo que não pode ser pago ao longo do tempo em que o segurado exerceu atividade remunerada" (e-STJ fl. 118, grifos no original).
+Contrarrazões não apresentadas.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Contraminuta apresentada (e-STJ fls. 133-136).
+É o relatório. Decido.
+O recurso não merece prosperar.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, (e-STJ fl. 95):
+ ..  com respaldo em dados obtidos mediante o sistema CNIS, apontando a existência de vínculo empregatício mantido pela parte embargada em período posterior ao termo inicial do benefício em questão, o INSS afirma que, em virtude da impossibilidade de percepção cumulada de remuneração e do benefício previdenciário por incapacidade, a parte embargada não teria direito a receber a sua aposentadoria no citado interregno.
+Os benefícios por incapacidade têm a finalidade de substituir a renda que o segurado percebia no período em que exercia suas atividades laborais, devendo ser mantidos enquanto perdurar o estado incapacitante.
+O fato de a parte embargada ter trabalhado para garantir a sua subsistência, em razão da não obtenção da aposentadoria/auxílio-doença pela via administrativa, contudo, não descaracteriza a existência de incapacidade.
+Embora a legislação previdenciária em vigor (art. 46 da Lei nº 8.213/91) estabeleça que o exercício de atividade laborativa é incompatível com o recebimento do benefício por incapacidade, há que se considerar, naturalmente, que, diante do indeferimento de benefício, o segurado vê-se obrigado a permanecer trabalhando para sobreviver - muitas vezes à custa da própria saúde - considerando a possibilidade de não obter êxito em seu pleito judicial.
+Portanto, comprovados os requisitos legais, a parte embargada faz jus à totalidade dos atrasados da condenação, ainda que tenha efetivamente desempenhado suas atividades laborativas após o termo inicial do benefício judicialmente concedido.
+Logo, a pretensão esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+No mais, o Tribunal de origem não se pronunciou sobre a tese do especial que sustenta o possível enriquecimento ilícito da autora (arts. 884 e 885 do Código Civil), apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
