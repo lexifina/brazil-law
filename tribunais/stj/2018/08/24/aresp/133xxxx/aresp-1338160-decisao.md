@@ -1,0 +1,45 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. REQUISITOS. RECURSO ESPECIAL. MANEJADO SOB A ÉGIDE DO CPC/73. VIOLAÇÃO DOS ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA Nº 284, DO STF. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS DO ART. 273 DO CPC/73. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
+DECISÃO
+[NOME] e JOSMAR PIACENTINE MOURA ([NOME] e outro) interpuseram agravo de instrumento contra decisão proferida na ação declaratória c/c baixa de ônus hipotecário ajuizada em face de MAFRA CONSTRUTORA E INCORPORADORA LTDA e BANCO BRADESCO S.A, que indeferiu pedido de tutela antecipada visando a suspensão dos efeitos da hipoteca instituída pelo agente financeiro e a averbação na matrícula dos imóveis acerca da existência da demanda.
+O Tribunal de origem deu parcial provimento ao agravo apenas para deferir em parte a tutela antecipada e determinar que conste nas matrículas dos imóveis, a existência da ação ajuizada pelos agravantes [NOME] e outro. O acórdão ficou assim ementado:
+COMPROMISSO DE COMPRA E VENDA - DECLARATÓRIA DE INEXIGIBILIDADE DE VALOR C.C. BAIXA DE ÔNUS HIPOTECÁRIO - Irresignação face à decisão que indeferiu pedido de antecipação de tutela visando a suspensão dos efeitos da hipoteca instituída pelo agente financeiro e averbação na matrícula dos imóveis acerca da existência da primeira demanda - Cabimento da segunda pretensão - Quanto a suspensão dos efeitos da hipoteca, não vislumbro a presença de dano irreparável ou de difícil reparação - Prevalência do princípio do contraditório e da ampla defesa - Já a averbação nas matrículas comporta acolhida em sede de cognição sumária, com base no poder geral de cautela, com fundamento no que dispõe o artigo 167, inciso I, item nº 21, da Lei nº 6.015, de 31 de dezembro de 1.973, sem óbice à sua oneração como garantia ou alienação, apenas e exclusivamente, para tomar de conhecimento de terceiros a pendência "sub judice", a fim de resguardar os interesses dos agravantes e de pretensos adquirentes do bem - Decisão reformada Recurso parcialmente provido (e-STJ, fl. 1.303).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.323/1.326).
+Inconformados, [NOME] e outro interpuseram recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 273, I e 535, I e II do CPC/73, bem como 1.420 do CC/02, alegando, em síntese (1) negativa de prestação jurisdicional; (2) que foi demonstrado a presença dos requisitos para a concessão da tutela antecipada; e, (3) que os imóveis não poderiam ter sido alienados sem autorização dos recorrentes, não gerando efeitos a hipoteca constituída.
+Suscitaram dissídio jurisprudencial.
+Em juízo de admissibilidade, a presidência da seção de direito privado do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 1.421/1.430).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial, bem como o apelo nobre foram interpostos contra decisão publicada na vigência do CPC/73, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Art. 535, I e II do CPC/73
+A alegação de ofensa ao art. 535 do CPC/73 foi realizada de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão recorrido teria sido omisso, contraditório ou obscuro, revelando deficiência na fundamentação, incidindo-se o óbice da Súmula nº 284, do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ART. 535 DO CPC/1973. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VEÍCULO. PENHORA. POSSE OU PROPRIEDADE. COMPROVAÇÃO. AUSÊNCIA. SÚMULA Nº 7/STJ.
+1.  ..
+2. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+3. Rever o entendimento firmado nas instâncias ordinárias de que inexiste cerceamento de defesa pelo julgamento antecipado da lide, demandaria a incursão no acervo fático-probatório dos autos, o que atrai o óbice da Súmula nº 7/STJ. 4. A Corte local concluiu pela ausência de comprovação da propriedade ou posse do veículo no momento da sua constrição, o que só poderia ser revisto mediante a análise dos fatos e provas do caso, procedimento vedado no recurso especial pela incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1025521/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 12/12/2017, DJe 2/2/2018 - sem destaque no original)
+(2)(3) Arts. 273, I do CPC/73 e 1.420 do CC/02 - concessão da tutela antecipada
+A discussão acerca do preenchimento dos requisitos necessários à concessão da tutela antecipada, prevista no art. 273 do CPC/73, demandaria revolvimento do acervo fático-probatório dos autos, incidindo, a Súmula nº 7 desta Corte.
+A propósito, vejam-se os acórdãos:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TUTELA ANTECIPADA (ART. 273 DO CPC). REQUISITOS. PREENCHIMENTO. REFORMA DO JULGAMENTO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS NºS 7, DO STJ E, POR ANALOGIA, 735 DO STF. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte Superior é pacífica no sentido de que a apreciação dos requisitos de que trata o art. 273 do CPC, para a concessão da tutela antecipada, enseja o reexame do conjunto fático-probatório, o que é vedado, em recurso especial, em razão do óbice contido na Súmula nº 7 desta Corte e, por analogia, 273 do STF.
+2. Não sendo a linha argumentativa apresentada pela operadora capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 704.400/MG, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 17/3/2016, DJe 28/3/2016)
+AGRAVO REGIMENTAL EM AGRAVO (ARTIGO 544 DO CPC) - AGRAVO DE INSTRUMENTO - ANTECIPAÇÃO DE TUTELA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL.
+INSURGÊNCIA DO AGRAVADO.
+1. Revela-se inviável o pleito de concessão de efeito suspensivo ao recurso especial, ante a inadequação da via eleita, pois, nos termos da jurisprudência desta Corte, tal pedido deve ser formulado de forma apartada, ou seja, mediante ação cautelar (artigo 288 do RISTJ), não se admitindo sua inserção nas razões do apelo extremo.
+Precedentes.
+2. Alterar a fundamentação do aresto recorrido, no tocante à existência de relação jurídica entre as partes é tarefa que demandaria, necessariamente, a incursão no acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 deste Tribunal. Precedentes.
+3. A jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar.").
+Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (artigo 273 do CPC) reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 635.230/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 15/12/2015, DJe 1/2/2016)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
