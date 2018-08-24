@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME], contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fl. 177):
+EMENTA: AGRAVO DE INSTRUMENTO EXECUÇÃO DE ASTREINTES. INTIMAÇÃO PESSOAL DA PARTE EXECUTADA. NECESSIDADE. APLICAÇÃO DA MULTA A PARTIR DA CITAÇÃO. INDEFERIMENTO DO PEDIDO DE EXECUÇÃO. MANUTENÇÃO DA DECISÃO A QUO. DESPROVIMENTO DO RECURSO.
+Em se tratando de execução de astreintes é absolutamente indispensável a intimação pessoal da parte obrigada, só ensejando a aplicação da respectiva multa a partir de então.
+Opostos embargos declaratórios, foram acolhidos com efeitos integrativos, nestes termos (fl. 192):
+EMENTA: EMBARGOS DE DECLARAÇÃO. MULTA DIÁRIA FIXADA EM SENTENÇA. TERMO INICIAL DE SUA EXIGIBILIDADE. INTIMAÇÃO DA PARTE DEMANDADA. OMISSÃO VERIFICADA. ACOLHIMENTO COM EFEITOS MERAMENTE INTEGRATIVOS.
+- Acolhem-se os Embargos de Declaração com efeitos meramente integrativos quando, apesar de sanada a omissão sobre o ponto embargado, não se pode falar em modificação do dispositivo da decisão guerreada.
+- A exigibilidade do título judicial que arbitra a multa pecuniária tem como requisito a ciência do obrigado e a sua recalcitrância, sendo incabível como parâmetro a data da sentença que fixa a multa diária. Não é possível retroagir para "castigar" a parte demandada, motivo pelo qual o termo "a quo" de sua incidência deve estar relacionado à exigibilidade da obrigação contida no preceito ao qual a multa se vincula.
+Irresignada, a parte recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 273, 520, VII, e 535 do CPC/73. Para tanto, sustenta que o aresto integrativo deveria ser anulado, porque não teria sanado vício indicado nos aclaratórios. Por fim, aduz que as decisões judiciais que imponham obrigação de fazer ou não fazer têm execução imediata, de modo que as astreintes devem incidir a partir da sentença que antecipou a tutela jurisdicional.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Por outro lado, vale salientar que, somente na oposição dos embargos de declaração de fls. 184/186 é que surgiu a tese jurídica amparada na suposta ofensa aos arts. arts. 273 e 520, VII, do CPC/73.
+Destarte, como o referido tema trazido no recurso especial não foi submetido oportunamente à análise do Tribunal a quo, já que foi ventilado tão-somente nas razões dos embargos de declaração opostos na origem, resta configurada a inovação recursal, cuja análise é incabível no presente recurso em razão da preclusão consumativa, o que atrai a incidência da Súmula 211/STJ.
+Nessa mesma linha de raciocínio, destaca-se o seguinte precedente:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535, II, DO CPC. VIOLAÇÃO. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não há contradição em afastar a alegada ofensa ao art. 535 do CPC, e, ao mesmo tempo, não conhecer do recurso, por ausência de prequestionamento. Precedentes do STJ (AgRg no AREsp 543.829/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 30/10/2014; EDcl nos EDcl no REsp 1.190.734/RJ, Rel. Ministro Mauro campbell Marques, Segunda Turma, DJe de 14/6/2011).
+2. Os dispositivos indicados apenas foram suscitados nos embargos de declaração, após o julgamento da apelação, o que constitui inovação recursal. Incidência do óbice da Súmula 211/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 315.129/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 23/9/2015)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
