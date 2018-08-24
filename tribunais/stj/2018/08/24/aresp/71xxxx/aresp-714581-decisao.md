@@ -1,0 +1,8 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Rio de Janeiro.
+2. A irresignação, contudo, não merece ser admitida, visto que a parte agravante não infirmou adequadamente os fundamentos da decisão agravada, qual sejam, (i) não houve violação do art. 535 do CPC/1973; (ii) a apontada ofensa do art. 481, parág. único, do CPC/1973 não foi prequestionada; (iii) incidência da Súm. 284/STF quanto aos argumentos do Apelo Nobre que não refutam as teses apresentadas no Acórdão; (iv) a parte recorrente pretende a revisão de matéria de fato, o que encontra óbice na Súm. 7/STJ; e (v) não se pode analisar violação de norma Constitucional em sede de Recurso Especial.
+3. Na verdade, limitou-se a reafirmar a violação do art. 535 do CPC e a defender que não pretende o revolvimento fático-probatório com o presente Apelo Nobre, sem, todavia, explanar de forma escorreita a fundamentação apta a impugnar da decisão hostilizada para ascender o seu Apelo Especial.
+4. Com efeito, o Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182/STJ.
+5. Diante dessas considerações, não se conhece o Agravo em Recurso Especial.
+6. Publique-se. Intimações necessárias.
