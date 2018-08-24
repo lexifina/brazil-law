@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, contra acórdão prolatado, por unanimidade, pela 3ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de Apelações, assim ementado (fls. 3.286/3.307e):
+Ação civil pública. Loteamento irregular.
+1. Tratando-se de ato de improbidade, o direito ao ressarcimento do dano encontra definição na CF/88 (art. 37, § 5º) e a prescrição é regulada pela regra geral do CC, embora exista corrente doutrinária e jurisprudencial entendendo a ocorrência de imprescritibilidade.
+2. Coexistem interesse público do Estado e interesse coletivo dos adquirentes de lotes na regularização do loteamento junto ao Registro Público para efeito da registrabilidade dos títulos de aquisição.
+3. Em tal hipótese é inafastável a legitimidade do Ministério Público para propor ação civil pública objetivando a regularização do loteamento junto ao registro imobiliário. É equivocada a visão de que em tal hipótese se define mero interesse individual homogêneo quer se considere este como de simples natureza coletiva para efeito de tutela quer por apresentar certa uniformidade por seus titulares se encontrarem em situações análogas a permitir um destaque da massa de indivíduos isoladamente considerados.
+4. Proclamado o dever do Município em velar pelo exato cumprimento da Lei Federal nº 6.766 179 e da sua própria legislação sobre a matéria , tem sido admitida a sua responsabilidade solidária no ressarcimento dos danos causados aos adquirentes dos lotes, que são considerados consumidores. Com efeito, a omissão da fiscalização municipal pode, em princípio, ser considerada como um mau funcionamento do serviço público ao permitir a comercialização irregular dos lotes, advindo a responsabilidade do Município por força do art. 6º, X, e 70, parágrafo único, do CDC.
+RECURSOS DESPROVIDOS
+Opostos embargos de declaração, foram rejeitados (fls. 3.339/3.345e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 3º e 40, §5º, da Lei n. 6.766/79, e 65, do Lei n. 4.504/64, alegando-se, em síntese, que não era cabível a regularização do loteamento irregular, mas tão somente a sua desconstituição integral.
+Com contrarrazões (fls. 3.455/3.460e), o recurso foi inadmitido (fl. 3.486e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fls. 3.575/3.580e).
+O Ministério Público Federal manifestou-se às fls. 3.590/3.595e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil de 1973, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+No que se refere à tese de que não era cabível a regularização do loteamento irregular, mas tão somente a sua desconstituição integral, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem, até porque a parte não interpôs recurso de apelação contra a sentença pedindo a substituição da medida.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação dos suscitados arts. 3º e 40, §5º, da Lei n. 6.766/79, e 65, do Lei n. 4.504/64.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1183546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010, destaque meu).
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 535, do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil de 1973, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
