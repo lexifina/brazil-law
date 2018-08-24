@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas que negou provimento à apelação da defesa para manter a sentença que condenou o recorrente à pena de 2 (dois) anos de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias-multa, pela prática da conduta descrita no artigo 14 da Lei n. 10.826/03. (e-STJ, fl. 253).
+ Os elementos existentes nos autos indicam que o recorrente foi denunciado pela prática do crime de porte ilegal de arma de fogo de uso permitido, por ter sido apreendido portando 1 (um) revolver, calibre 22, com 3 (três) munições, incurso no artigo 14 da Lei n. 10.826/03. (e-STJ, fls. 86/88)
+Julgada procedente a denúncia, o paciente foi condenado à pena de 2 (dois) anos de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias-multa. (e-STJ, fls. 167)
+A sentença foi mantida pela Corte de origem, em apelação da defesa. (e-STJ, fl. 223)
+Nas razões do presente apelo nobre (e-STJ, fls. 233/241), a defesa alega violação do artigo 44, incisos I, II, III e § 3º, do Código Penal, sustentando que faz jus à substituição da pena privativa de liberdade por restritivas de direitos.
+Requer, ao final, o provimento do especial para reforma do acórdão recorrido.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do inconformismo. (e-STJ, fl. 273)
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+No tocante à substituição da reprimenda corporal por restritivas de direitos, verifica-se que o Tribunal a quo negou o benefício com esteio na insuficiência da medida, in verbis:
+02.17. Com efeito, apesar da possibilidade de substituição da pena privativa de liberdade por restritiva de direitos conferida à reincidência genérica, no presente caso não vislumbro tal beneficio em favor do apelante, pois não vejo que a medida seja adequada ao caso concreto. Explico.
+02.18. Primeiramente, constata-se que a reincidência não foi aplicada pelo MM. Juiz a quo de modo a agravar a pena, considerando-a apenas para fins de não aplicar a substituição da pena privativa de liberdade por restritiva de direitos e para fins de fixação do regime inicial do cumprimento da pena.
+02.19. Além disso, fazendo uma análise da vida pregressa do Apelante, este declarou: não possuir qualquer ocupação; não ter papel de provedor de família e que, inclusive, se dá ao uso de bebidas alcoólicas e substância entorpecentes, juntamente com sua ficha de registros criminais, a revelar que o mesmo tem índole voltada para práticas delituosas e não possui uma integração social saudável, não demonstrando interesse em ser útil seja à sua família ou à sociedade.
+02.20. Assim, o apelante além de não atender ao requisito do inciso II, do artigo 44, do Código penal, também não preenche os requisitos do inciso III, segundo o qual a substituição é possível quando "a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente". (..)
+02.22. Assim, entendo que o quadro-fático processual delineado, não
+recomenda socialmente a referida substituição. (e-STJ, fls. 222/223)
+Logo, no momento da análise quanto à possibilidade de substituição da pena corporal pela limitadora de direitos, deve o julgador observar os requisitos objetivos e subjetivos previstos no art. 44 do CP.
+In casu, o Tribunal de origem entendeu que, além de o paciente ser reincidente, a permuta não seria socialmente recomendável, estando, portanto, devidamente justificada a não substituição da pena privativa pela restritiva.
+Isso porque, os elementos específicos narrados no aresto objurgado denotam a maior reprovabilidade da conduta, justificando a inviábilidade da substituição da sanção corporal por restritiva de direitos, uma vez que as circunstâncias concretas não indicam que essa medida seja suficiente, devendo ser mantida a privação de liberdade por não estarem preenchidos os requisitos subjetivos previstos no art. 44 do CP.
+Nesse sentido destacam-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. ART. 44 DO CP. AUSÊNCIA DOS PRESSUPOSTOS LEGAIS. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. IMPOSSIBILIDADE.
+1. Segundo o art. 44 do CP, as penas restritivas de direitos substituem as privativas de liberdade, quando: (i) aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (ii) o réu não for reincidente em crime doloso; (iii) a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+2. No presente caso, embora estabelecida a pena definitiva menor que 4 anos (2 anos e 9 meses de reclusão), sendo primário o acusado e sem antecedentes, a presença de circunstâncias judiciais negativas (circunstâncias e consequências do crime) veda a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44 do Código Penal, uma vez que demonstra que a medida não se mostra socialmente recomendável, nem suficiente para a prevenção e repressão do crime.
+3. Agravo regimental não provido.
+(AgRg no REsp 1551101 / SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, Julgado em 21/06/2018, DJe 29/06/2018)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. REGIME PRISIONAL FECHADO. CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEIS. RÉU REINCIDENTE. POSSIBILIDADE DE IMPOSIÇÃO DO MODO MAIS GRAVE. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É válida a imposição do regime inicial fechado ao réu reincidente que teve a circunstância judicial considerada desfavorável, mesmo quando condenado a pena inferior a 4 anos.
+2. A substituição da reprimenda privativa de liberdade por restritiva de direitos não se mostra medida socialmente recomendável. Isso porque, conforme consta dos autos, o réu é reincidente e as circunstâncias do caso concreto foram consideradas graves pelas instâncias ordinárias.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1127758 / MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, Julgado em 21/06/2018, DJe 01/08/2018)
+Ante o exposto, com fundamento no art. 255, § 4º, inciso II, do Regimento Interno do Superior Tribunal de Justiça, nega-se provimento ao recurso especial.
+Publique-se. Intimem-se.
