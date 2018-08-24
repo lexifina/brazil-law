@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0043626-35.2018.8.21.7000).
+Consta dos autos que o recorrente foi preso preventivamente pela suposta prática dos crimes previstos no artigo 2.º, §§ 2.º, 3.º e 4.º, incisos I, II e IV, da Lei n. 12.850/2013, combinado com o artigo 144, § 6.º, da Constituição Federal; artigo 33, caput, combinado com o artigo 40, inciso II, ambos da Lei n. 11.343/2006; artigo 17, caput e § único, combinado com o artigo 19 e o artigo 20, todos da Lei n. 10.826/2003, tudo na forma do artigo 69, caput, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal estadual. O acórdão recebeu a seguinte ementa (e-STJ fl. 342):
+HABEAS CORPUS . ORGANIZAÇÃO CRIMINOSA. TRÁFICO DE DROGAS. COMÉRCIO ILEGAL DE ARMAS DE FOGO. INCOMPETÊNCIA DO JUÍZO. PRISÃO PREVENTIVA. DECISÃO ADEQUADAMENTE FUNDAMENTADA. RISCO CONCRETO À ORDEM PÚBLICA. EXCESSO DE PRAZO. INOCORRÊNCIA.
+Não é o habeas corpus a via adequada para solver questão atinente à competência.
+Cuidando-se o tráfico de drogas de crime grave, tanto que equiparado a hediondo, a repercussão social dele decorrente, quer no âmbito da saúde pública, quer na esfera da criminalidade - potencializada pelo uso e pelo comércio de substâncias entorpecentes - está a evidenciar concreto risco à ordem pública a tornar necessária a prisão preventiva e obstar a aplicação das medidas cautelares a que alude o art. 319 do Código de Processo Penal.
+Segregação cautelar devidamente fundamentada, baseada em extensa investigação levada a efeito com interceptações telefônicas indicando o paciente como líder em organização criminosa que, integrada por outros doze policiais militares, além de nove civis, voltava-se para a prática de tráfico de drogas e comércio ilegal de armas de fogo, sobretudo se os dados informativos colhidos denotam a oferta a venda a mais de uma facção criminosa de vultosa quantidade de droga (170 kg de maconha) de que teriam se apropriado os policiais militares no exercício da função.
+Mostra-se inaceitável a extrapolação dos prazos processuais, se decorrente de inércia ou negligência do juízo, devidamente demonstradas na impetração, o que não ocorre no caso vertente.
+ORDEM DENEGADA.
+Na presente impetração (e-STJ fls. 357/383), a defesa alega, em síntese, a fundamentação inidônea do acórdão ora impugnado, afirmando que o Tribunal reforçou consideravelmente a decisão de primeiro grau, o qual se valia, única e exclusivamente, do fumus do delito imputado, trazendo novos argumentos não enfrentados pelo decreto preventivo.
+Declara que a prisão preventiva é ilegal, pois foi decretada por Magistrado incompetente.
+Argumenta acerca da configuração de constrangimento ilegal diante do excesso de prazo, que teria sido ocasionado pelo Estado, pois duas audiências teriam sido canceladas diante da ausência de intimação do corréu.
+Afirma que o recorrente é primário, pai de uma criança de três anos de idade, tem endereço fixo e é policial militar há nove anos.
+Pugna, liminarmente e no mérito, pela revogação da prisão preventiva, e, alternativamente, pela imposição das medidas cautelares diversas da prisão.
+Indeferida a liminar (e-STJ fls. 415/419), o Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 426/431).
+É o relatório. Decido.
+Busca-se no presente recurso a revogação da prisão preventiva do recorrente.
+Ocorre que, em consulta ao endereço eletrônico do Tribunal de origem, verifica-se que o Juízo da 1ª Vara Criminal da Comarca de Porto Alegre/RS, em 7/3/2018, declinou da competência do feito, em relação aos réus militares inclusive ao ora recorrente, à Justiça Castrense daquele Estado.
+Nesse aspecto, não é demais lembrar que, nos termos da orientação desta Corte, a declinação da competência não tem o condão, por si só, de invalidar os atos decisórios. Nesse sentido:
+HABEAS CORPUS. PENAL. ROUBO E LATROCÍNIO TENTADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. COMPLEXIDADE DO FEITO. PRISÃO DECRETADA POR JUÍZO INCOMPETENTE. RATIFICAÇÃO DOS ATOS PELO JUÍZO COMPETENTE. NULIDADE ABSOLUTA. INEXISTÊNCIA. ORDEM DENEGADA.
+[NOME] casu, o atraso no andamento do processo não pode ser atribuído ao Juiz ou ao Ministério Público, mas à complexidade do próprio feito, não restando configurada flagrante ilegalidade. Ressalta-se que eventual dilação é aceitável devido à observância aos trâmites processuais e formalidades legais.
+II. O prazo legalmente estabelecido para a conclusão da instrução criminal não é absoluto e o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificada, o que não se vislumbra na presente hipótese.
+III. Firmada a competência da Justiça Federal, com a ratificação dos atos decisórios, incluindo-se o decreto de prisão, não há como se acolher pleito de revogação da custódia preventiva, ao argumento de nulidade absoluta.
+IV. Ordem denegada (HC n. 197.133/PE, Rel. Ministro GILSON DIPP, DJe 28/04/2011).
+Por outro lado, o Juízo Militar, ao receber o feito, poderá ou não validar os atos decisórios até então realizados. Quanto ao aspecto da prisão preventiva, sua manutenção dependerá de decisão específica e nova. Assim, ter-se-á novo ato coator cuja análise deverá ser submetida primeiramente ao Tribunal a quo, sob pena de indevida supressão de instância.
+A título de exemplo:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA DECRETADA. RECLAMAÇÃO PERANTE O SUPREMO TRIBUNAL FEDERAL. LIMINAR CONCEDIDA. RECOLHIMENTO DO MANDADO DE PRISÃO. EXTENSÃO AOS CORRÉUS EM SITUAÇÃO IDÊNTICA. ALTERAÇÃO DOS FATOS QUESTIONADOS NO RECURSO. RECURSO ORDINÁRIO EM HABEAS CORPUS PREJUDICADO. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com a alteração da situação fática inicialmente questionada neste recurso, decorrente do recolhimento do mandado de prisão contra o Recorrente e da pendência de julgamento de ação adequada à verificação do alegado descumprimento de decisão proferida pela Suprema Corte, fica prejudicado o recurso.
+2. Na ausência de argumento apto a afastar as razões consideradas no decisum, deve ser a decisão agravada mantida por seus próprios fundamentos.
+3. Agravo regimental desprovido (AgRg no RHC n. 36.144/RJ, Relatora Ministra LAURITA VAZ, QUINTA TURMA, julgado em 17/12/2013, DJe 03/02/2014).
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o habeas corpus.
+Publique-se. Intime-se.
