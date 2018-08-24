@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo (artigo 1042 do NCPC), interposto por [NOME], contra decisão que deixou de admitir recurso especial.
+O apelo extremo veio fundamentado na alínea "a", do permissivo constitucional, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 165, e-STJ):
+Possessória ação visando a reintegração na posse de imóvel ocupado irregularmente pela requerida prova documental que demonstrou que a autora cedeu seus direitos hereditários sobre o imóvel à madrasta da requerida e que, posteriormente, o contrato foi rescindido com restituição do imóvel à autora esbulho possessório caracterizado pela permanência da requerida no imóvel após ter sido notificada da rescisão impossibilidade de considerar a requerida adquirente de boa fé, eis que figurou como testemunha no contrato de cessão de direitos firmado entre a autora e sua madrasta demanda procedente recurso improvido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (fls. 172/177, e-STJ), a insurgente apontou violação aos artigos 556 e 561, inciso I, do Código de Processo Civil de 2015. Sustentou que detém a posse mansa e pacífica do imóvel há mais de 14 anos, devido a contrato verbal entabulado entre seu genitor e sua madrasta, tendo neste ínterim quitado as dívidas relativas ao IPTU. Afirmou que neste tempo, foram realizadas benfeitorias no imóvel, sendo que o acórdão recorrido sequer lhe conferiu direito à indenização.
+Contrarrazões às fls. 182/189, e-STJ.
+Em juízo de admissibilidade (fls. 190/191, e-STJ), negou-se o processamento do recurso especial pela ausência de demonstração aos dispositivos arroladas e pela incidência da Súmula 7/STJ.
+ Daí o presente agravo (fls. 194/198, e-STJ), que busca destrancar o processamento daquela insurgência.
+Contraminuta às fls. 201/205, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. A recorrente sustentou que detém a posse mansa e pacífica do imóvel há mais de 14 anos, devido a contrato verbal entabulado entre seu genitor e sua madrasta, tendo neste ínterim quitado as dívidas relativas ao IPTU e realizado benfeitorias no imóvel.
+No entanto, a Corte Estadual decidiu a controvérsia nos seguintes termos:
+6. Superada a preliminar, no mérito o recurso não comporta provimento. Conforme se depreende do exame dos autos, a autora firmou contrato de cessão de direitos hereditários com [NOME], que a requerida em contestação esclareceu ser sua madrasta. Ocorre que em 2014 referido contrato foi rescindido nos termos do acordo firmado na ação de obrigação de fazer ajuizada pela autora contra [NOME] e o pai da requerida, Sr. [NOME] (fls. 33/34 homologado judicialmente a fls. 35). E, como constou no referido acordo, por força da rescisão o imóvel foi restituído à autora, de modo que a permanência da requerida após a notificação extrajudicial de fls. 37/38 (recebida e assinada por ela fls. 39), caracteriza esbulho possessório.
+7. Por outro lado, não vinga a justificativa da requerida no sentido de ter adquirido o imóvel de boa fé do seu genitor e de [NOME], sua madrasta, uma vez que não verificou se a aquisição deles junto à autora havia realmente sido concretizada, o que seria de rigor já que a própria requerida figurou como testemunha no contrato de cessão de direitos hereditários acostado a fls. 23/30. Assim, ainda que realmente tenha adquirido o imóvel através de contrato verbal, o fez de quem não eram os legítimos proprietários, o que, repita-se, afasta sua boa fé e por conseguinte impede a restituição de qualquer quantia investida no imóvel, anotando-se ainda que não restou comprovada a realização de obras ou benfeitorias.
+Com efeito, a Corte Estadual analisou o conjunto fático-probatório juntado aos autos, concluiu que o contrato entabulado entre a recorrida e o pai da autora foi desfeito em 2014, e o imóvel foi restituído à recorrida naquela ação. A boa fé da recorrente foi afastada na medida que firmou contrato verbal com quem sequer era legítimo proprietário. Em relação às supostas benfeitorias realizadas no imóvel, estas não restaram comprovadas.
+Nesse contexto, a modificação do entendimento lançado no acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. AUSÊNCIA DE DEMONSTRAÇÃO DA POSSE JUSTA DO ATUAL OCUPANTE. REEXAME DE PROVA.
+1. Verificada, pelo Tribunal de origem, a ausência de prova que competia à parte ré acerca de sua alegada legitimidade para permanecer no imóvel além do tempo previsto no contrato de aluguel autorizado pelo anterior proprietário, não há como se acolher premissa fática contrária em recurso especial, dado o disposto na Súmula 7 do STJ.
+2. É inviável o recurso especial quando não contém impugnação de todos os fundamentos do acórdão recorrido. Aplicação da Súmula 283 do STF.
+3. Embargos de declaração acolhidos para negar provimento ao recurso especial.
+(EDcl no AgInt no REsp 1567163/CE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/06/2018, DJe 01/08/2018; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE MANUTENÇÃO DE POSSE 1. POSSE DO IMÓVEL. TURBAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 2. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem, quanto à comprovação pelo recorrido da posse do imóvel objeto da lide, bem como a turbação demandariam, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, impossibilitando o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1142773/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/05/2018, DJe 25/05/2018; grifou-se)
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, nega-se provimento ao agravo e, com base no art. 85, § 11, do NCPC, majora-se os honorários de R$ 1.500,00 (um mil e quinhentos reais) para R$ 1.600,00 (um mil e seiscentos reais), em favor da parte recorrida.
+Publique-se.
+Intimem-se.
