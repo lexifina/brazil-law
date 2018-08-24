@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 535 do CPC/1973 e incidência da Súmula 280 do STF.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 257):
+PRELIMINAR - ILEGITIMIDADE PASSIVA DA SPPREV - Ocorrência - Preliminar acolhida - Extinção do feito sem julgamento de mérito, nos termos do art. 267, VI, do CPC. APELAÇÃO - CARTEIRA DE PREVIDÊNCIA DOS ADVOGADOS - Ação visando a declaração de responsabilidade da SPPREV e da Fazenda do Estado pelo pagamento de benefícios da CPA e, subsidiariamente, a restituição integral dos valores pagos a título de contribuição - Sentença que reconheceu somente o direito à restituição das quantias - Responsabilidade da Fazenda do Estado reconhecida - Julgamento pelo E. STF da ADI nº 4429 - Ação parcialmente procedente, por motivo diverso - Recursos voluntários da autora e dos réus parcialmente providos. Reexame necessário parcialmente acolhido.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa às Leis Estaduais 10.394/1970, 13.549/2009 e 14.016/2010, Decreto Estadual 30.550/1989 e LC Estadual 1.010/2007, ao argumento de que a SPPREV é legitimada passiva por solidariedade
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Ainda preliminarmente, não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+No mérito, no que diz respeito à tese de legitimidade passiva, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento nas Leis Estaduais 10.394/1970, 13.549/2009 e 14.016/2010, bem como a própria parte indicar violação às citadas Leis e ao Decreto Estadual 30.550/1989 e LC Estadual 1.010/2007, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+Ademais, ainda que fosse superado o referido óbice, o recorrente não indicou os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
