@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR DE AUTARQUIA ESTADUAL À DISPOSIÇÃO DA SECRETARIA DE ESTADO DA EDUCAÇÃO. GRATIFICAÇÃO DE PRODUTIVIDADE. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO ORDINÁRIO DESPROVIDO.
+1. Trata-se de Recurso Ordinário em Mandado de Segurança interposto por CINTIA GUIMARÃES DA CUNHA PIMENTEL, com fundamento no art. 105, II, b da Constituição Federal, contra acórdão proferido pelo egrégio TJSC, que denegou a segurança, nos termos da seguinte ementa:
+ADMINISTRATIVO. SERVIDOR DE AUTARQUIA ESTADUAL À DISPOSIÇÃO DA SECRETARIA DE ESTADO DA EDUCAÇÃO. GRATIFICAÇÃO DE PRODUTIVIDADE (LEI 13.761/2006). ORDEM DENEGADA.
+A gratificação instituída pela Lei ni. 13.76112006 é devida "para os servidores do Quadro único do Pessoal Civil lotado no órgão central da Secretaria de Estado da Educação, Ciência e Tecnologia" (art. 1o.). A ela não faz jus servidor de autarquia estadual à disposição da Secretaria de Estado da Educação (fls. 82).
+2. Nas razões recursais, alega a recorrente, em suma, que, ao contrário do entendimento da Secretaria de Educação e mantido no acórdão debatido, é que não há que se falar que a Gratificação de Produtividade só cabe a esse ou aquele servidor ou que não cabe a servidor do quadro do magistério ou de qualquer outro Setor, pois a lei é clara quanto as formalidades para o recebimento da Gratificação de Produtividade e, neste diapasão, resta demonstrado que a Recorrente possui todas as condições legais para o percebimento de tal verba, já que é servidora público civil, lotado ou em exercício em órgão central da Secretaria de Educação. Assim, não basta o reconhecimento de que aqueles que trabalham no mesmo local, fazendo as mesmas funções, com a mesma perfeição técnica, se reportando a mesma chefia, ter o direito de receber a mesma coisa (fls. 94/95).
+3. O Ministério Público Federal, às fls. 163/167, pronunciou-se pelo desprovimento do recurso.
+4. É o relatório. Decido.
+5. In casu, a Corte de origem denegou a segurança pelos seguintes fundamentos:
+A impetrante reclama o reconhecimento do direito à gratificação de produtividade (Lei 13.761/2006).
+A referida gratificação é devida para os servidores do Quadro Único do Pessoal Civil lotado no órgão central da Secretaria de Estado da Educação, Ciência e Tecnologia (art. 10).
+Os documentos de fls. 63/64 e 70 comprovam que ela é servidora da Agência Reguladora de Serviços Públicos do Estado de Santa Catarina - AGESO, autarquia vinculada à Secretaria de Estado da Infra-Estrutura, e encontra-se à disposição da Secretaria de Estado da Educação desde 04.10.2013 (fls. 84).
+6. Tal entendimento encontra amparo na jurisprudência do STJ. Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO DE PRODUTIVIDADE. NÃO ATENDIMENTO À EXIGÊNCIA DA LEI N. 13.761/2006.
+1. A percepção da Gratificação de Produtividade prevista na Lei Estadual 13.761/2006 exige que o servidor preencha dois requisitos cumulativos, quais sejam: 1) pertença ao Quadro Único de Pessoal Civil; e 2) seja lotado no órgão central da Secretaria de Estado de Educação, Ciência e Tecnologia.
+2. In casu, os recorrentes não atendem à exigência de lotação no "órgão central", tal como estabelecido pela legislação local, de modo que não há falar em direito líquido e certo.
+3. Agravo regimental não provido (AgRg no RMS 36.409/SC, Rel. Min. BENEDITO GONÇALVES, DJe 4.3.2015).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO. LEI 13.761/2006. PRETENSÃO DE NATUREZA PATRIMONIAL. INADEQUAÇÃO DA VIA ELEITA FRENTE AO ÓBICE DAS SÚMULAS 269 E 271/STF. DESATENDIMENTO DOS REQUISITOS LEGAIS. SÚMULA 339/STF.
+1. Trata-se, originariamente, de Mandado de Segurança impetrado contra ato do Secretário de Estado da Educação que os requerentes reputam ilegal diante do não pagamento da Gratificação de Produtividade que a Lei Estadual 13.761/2006 instituiu aos servidores do Quadro Único de Pessoal Civil lotados no Órgão Central da Secretaria de Estado da Educação, Ciência e Tecnologia.
+2. É inadequada a via procedimental eleita pelos demandantes, que se servem do writ objetivando alcançar efeitos de ordem patrimonial, como claramente estampado na inicial que postula a condenação da autoridade coatora a pagar a gratificação de produtividade desde 22/5/2006, data da criação da pleiteada vantagem remuneratória. Incidência, na espécie, das Súmulas 269 e 271/STF.
+3. No mérito, os recorrentes não satisfazem os critérios fixados pela legislação local, como reconhecido pelo acórdão de origem. A invocação de isonomia, no caso concreto, esbarra no óbice da Súmula 339/STF.
+4. Recurso Ordinário não provido (RMS 37.749/SC, Rel. Ministro HERMAN BENJAMIN, DJe 12.9.2013).
+7. Ademais, conforme salientado no precedente acima colacionado, proferido em caso idêntico ao dos autos, é inadequada a via procedimental eleita pelos demandantes, que se servem do writ objetivando alcançar efeitos de ordem patrimonial, como claramente estampado na inicial que postula a condenação da autoridade coatora a pagar a gratificação de produtividade desde 22/5/2006, data da criação da pleiteada vantagem remuneratória. Incidência, na espécie, das Súmulas 269 e 271/STF (RMS 37.749/SC, Rel. Ministro HERMAN BENJAMIN, DJe 12.9.2013).
+8. Ante o exposto, nega-se provimento ao Recurso Ordinário.
+9. Publique-se.
+10. Intimações necessárias.
