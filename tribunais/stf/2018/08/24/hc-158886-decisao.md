@@ -1,0 +1,57 @@
+Decisão: Trata-se de habeas corpus com pedido de liminar (eDOC 1, p. 1-26), impetrado por José Carlos Cabral, em favor de José Winiarski, contra decisões proferidas no âmbito do STJ nos HCs 440.834/SC e 440.494/SC (eDOCs 9 e 12).
+    Preliminarmente, consta dos autos o seguinte:
+    “O impetrante se insurge contra o indeferimento do indulto/comutação previsto no Decreto Presidencial n. 9.246/2017. Afirma que o dano causado pelo crime foi ressarcido ou, ainda que assim não fosse, seria mister reconhecer a prescrição de eventual pretensão cível ou a renúncia tácita do direito pelas vítimas, que não manifestaram nenhum interesse na indenização. Ademais, a condenação foi prolatada contra quatro réus, ‘não se podendo exigir apenas de um deles (o paciente) que repare os supostos danos’ (fl. 14).
+    O advogado afirma haver requerido o benefício antes da suspensão, pelo Supremo Tribunal Federal, de alguns artigos do decreto presidencial, mas que os dispositivos foram restabelecidos em 12/3/2018. Ademais, a revogação da prisão domiciliar é nula e foi fundada em boatos de frequência a bailes, jogos de futebol etc. O sentenciado ‘só poderia ter a comutação negada após eventual julgamento", respeitados os direitos de defesa e do contraditório (fl. 3).’
+    Irresignada, a defesa impetrou habeas corpus perante o TJ/SC, que denegou a ordem (eDOC 9, p. 28-32).
+    Daí a impetração, no STJ, dos referidos HCs 440.834/SC e 440.494/SC, cujas liminares foram indeferidas (eDOC 20, p. 8-4-5; eDOC 21, p. 4-5). Posteriormente, denegou-se a ordem no HC 440.834/SC (eDOC 20, p. 8-13, bem como não se conheceu do HC 440.494/SC (eDOC 21, p. 8-9).
+    No presente HC, sustenta-se, em síntese:
+    a) morosidade no julgamento dos mencionados HCs 440.834/SC e 440.494/SC no âmbito do STJ;
+    b) preenchimento dos requisitos legais para a concessão do indulto, nos termos do Decreto 9.246/2017.
+    Ao final, a parte impetrante pede, em liminar e no mérito:
+    “a concessão do INDULTO PRESIDENCIAL, subsidiariamente a comutação de penas, eis que a decisão de primeiro grau do juízo a quo, e do referido acórdão do Tribunal de Justiça de Santa Catarina no HC nº 0000330-27.2018.8.24.0000, está eivada de nulidade processual, e é totalmente contrária aos princípios Constitucionais, bem como, está totalmente contrária ao Decreto Presidencial que estabelece as regras do Indulto de 2017. Inclusive pede-se a concessão da ordem se necessário ex officio pela morosidade de julgamento dos Habeas Corpus pelo STJ (HC nº 440494/SC e HC nº 440834/SC).”
+    Ou, subsidiariamente:
+    “(...) que seja reestabelecida a prisão domiciliar do paciente até audiência de justificação, em razão do principio do devido processo legal, presunção de inocência e contraditório. Eis que até o presente momento, o paciente não teve qualquer chance de se defender, sendo a sua defesa CLARAMENTE cerceada pelo Estado.” (eDOC 1, p. 25-26)
+    Requisitei informações ao Juízo da 3ª Vara da Comarca de São Bento do Sul/SC (Processo 0000471-42.2013.8.24.0058), sobretudo a respeito da execução da pena imposta ao paciente e da notícia de que se encontra foragido (eDOC 2, p. 164); ao Relator, no TJ/SC, do HC 0000330-27.2018.8.24.0000; bem como ao Relator, no STJ, dos HCs 440.834/SC e 440.494/SC, principalmente sobre a alegação de demora da prestação jurisdicional (eDOC 15, p. 1), as quais foram prestadas (eDOCs 19-23).
+    A parte impetrante prestou esclarecimentos (eDOCs 22-25).
+    É o relatório.
+    Decido.
+    Diante das informações recebidas do STJ (eDOCs 20-21), afasto o argumento de demora da prestação jurisdicional no julgamento dos citados HCs 440.494/SC e 440.834/SC, os quais foram regularmente processados e julgados a tempo e modo, sendo ainda certo que as impetrações ocorreram, respectivamente, em 13.3.2018 e 15.3.2018 e as decisões terminativas em 2.7.2018.
+    Outrossim, as demais pretensões deduzidas neste HC não merecem prosperar, tendo em vista as informações prestadas pelo juízo de execuções, as quais transcrevem fundamentadas e legítimas decisões tomadas por aquele juízo, à luz do Decreto 9.246/2017, que foram acertadamente mantidas no TJ/SC (eDOC 9, p. 28-32) e STJ (eDOCs 20-21).
+    Transcrevo, pois, da decisão que denegou o HC 440.834/SC:
+    “O paciente foi condenado a cumprir 17 anos e 2 meses de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos arts. 171 (15 vezes), 288 e 171, § 2°, I, do CP. Em 3/4/2017, foi beneficiado com a prisão domiciliar. No dia 14/12/2017, seu pedido de indulto com lastro no Decreto Presidencial n. 8.940/2016 foi indeferido, assim como a progressão para o regime aberto. O Juízo da VEC revogou a prisão domiciliar.
+    Em regime de plantão, o advogado apresentou novo pedido de induto, desta vez com base no Decreto Presidencial n. 9.246/2017, o qual foi indeferido.
+    O sentenciado encontra-se foragido.
+    (…)
+    Dito isso, não se verifica ilegalidade passível de ser sanada na via do habeas corpus. O Juiz da VEC assim fundamentou o indeferimento do benefício, in verbis:
+    [...] Extrai-se do art. 1° do Decreto Presidencial n. 9.246/2017, sobretudo no que interessa ao condenado José Winiarski:
+    Art. 1° O indulto natalino coletivo será concedido às pessoas nacionais e estrangeiras que, até 25 de dezembro de 2017, tenham cumprido:
+    I - um quinto da pena, se não reincidentes, e um terço da pena, se reincidentes, nos crimes praticados sem grave ameaça ou violência a pessoa;
+    […]
+    VI - um sexto da pena, se não reincidentes, ou um quarto, se reincidentes, nos casos de crime contra o patrimônio, cometido sem grave ameaça ou violência a pessoa, desde que haja reparação do dano até 25 de dezembro de 2017, exceto se houver inocorrência de dano ou incapacidade econômica de repará-lo;
+    De fato, até 25-12-2017 o reeducando José Winiarski já havia cumprido um quinto da pena que lhe fora imposta (3 anos e 5 meses), conforme se depreende do atestado de págs. 726-728.
+    Porém, como bem ressaltou o representante ministerial na p. 823, o Supremo Tribunal Federal, em 28-12-2017, suspendeu alguns artigos do referido Decreto, entre eles o inciso I do art. 1°, de modo que, em relação a ele, o apenado não pode ser beneficiado.
+    Subsiste, nesse ínterim, a análise quanto ao preenchimento dos requisitos mencionados no inciso IV do art. 1°, assim como nos demais artigos em vigor do Decreto Presidencial em voga, para fins de concessão ou não do indulto ao condenado José Winiarski.
+    Ocorre que, além de o apenado José não ter reparado o dano causado às vítimas, nem comprovado impossibilidade econômica de repará-lo, afastando-se, assim, a incidência do inciso IV do art. 1°, é certo que o apenado descumpriu as condições fixadas para a prisão albergue domiciliar, conforme se verifica da decisão que revogou tal benefício (págs. 776-778), posteriormente confirmada pelo Tribunal de Justiça em sede de Habeas Corpus (págs. 816-819), fato que também impede a concessão do indulto e da comutação de pena, nos termo do art. 4, IV, do Decreto Presidencial n. 9.246/2017 - não suspenso -, in verbis:
+    Art. 4° O indulto natalino ou a comutação não será concedido às pessoas que:
+    […]
+    IV - tenham descumprido as condições fixadas para a prisão albergue domiciliar, com ou sem monitoração eletrônica, ou para o livramento condicional, garantido o direito aos princípios do contraditório e da ampla defesa. Em sendo assim, por todo lado que se olha, verifica-se inexistir direito ao apenado a concessão do indulto/comutação de pena com base no Decreto Presidencial n. 9.246/2017. [...].
+    O Tribunal de Justiça destacou que o ‘magistrado singular bem fundamentou a decisão’ (fl. 33) e ‘em não havendo qualquer mácula no trâmite regular do processo de execução provisória, afasta-se a tese de constrangimento ilegal’ (fl. 34).
+    Deveras, o Juiz da VEC não realizou interpretação extensiva das restrições contidas no decreto presidencial. Indicou, exclusivamente, o não preenchimento dos requisitos estabelecidos na norma de regência, adstrito ao princípio da legalidade, uma vez que o apenado não comprovou haver reparado o dano às vítimas e, ainda, descumpriu as condições para prisão albergue domiciliar.
+    Impossível, em habeas corpus, dirimir controvérsias fáticas e afastar a premissas estabelecidas na decisão judicial, uma vez que o remédio constitucional não comporta dilação probatória e este Superior Tribunal está adstrito ao controle de legalidade do ato apontado como coator, nos limites da motivação judicial e da moldura fática externadas pelas instâncias ordinárias.
+    A defesa requer o indulto natalino com lastro em dois dispositivos do decreto, benéfico aos sentenciados que, até 25 de dezembro de 2017, tenham cumprido:
+    I - um quinto da pena, se não reincidentes, e um terço da pena, se reincidentes, nos crimes praticados sem grave ameaça ou violência a pessoa;
+    […]
+    VI - um sexto da pena, se não reincidentes, ou um quarto, se reincidentes, nos casos de crime contra o patrimônio, cometido sem grave ameaça ou violência a pessoa, desde que haja reparação do dano até 25 de dezembro de 2017, exceto se houver inocorrência de dano ou incapacidade econômica de repará-lo;
+    Em relação ao art. 1°, VI, do Decreto, as instâncias ordinárias salientaram que o paciente não comprovou a reparação do dano até 25/12/2017 e não cumpriu o estabelecido no art. 4º, IV, do mesmo regramento. Eventual premissa equivocada do Juiz deve ser indicada em primeiro grau, acompanhada dos documentos pertinentes.
+    Quanto ao art. 1°, I, do mesmo decreto, existe, em tramitação, ação direta de inconstitucionalidade que questiona o ato do Presidente da República. Diferentemente do que assinala o advogado, o dispositivo em questão não foi restabelecido.
+    O relator da ação, Ministro Roberto Barroso, em 12/3/2018, reiterou a medida cautelar, com melhor explicitação das situações por ela colhidas. Na oportunidade, fixou critérios para que os Juízes da VEC apliquem a parte não suspensa do Decreto nº 9.246/2017. A cautelar foi confirmada para, dentre outros fins:
+    [...] determinar que, nas hipóteses previstas no inciso I do art. 1º do Decreto nº 9.246/2017, o indulto depende do cumprimento mínimo de 1/3 da pena e só se aplica aos casos em que a condenação não for superior a oito anos, balizas que condicionam a interpretação do inciso I do §1º do art. 2º do Decreto nº 9.246/2017; (…)
+     Observe-se que o paciente foi condenado à pena privativa de liberdade de 17 anos e 2 meses de reclusão e o Ministro do Supremo Tribunal Federal estabeleceu a exigência de cumprimento do prazo mínimo de 1/3 (um terço) da pena e do limite máximo da condenação em 8 (oito) anos para obtenção do benefício previsto no art. 1°, I, do Decreto n. 9.246/2017, pois, no ponto, retomou o padrão de indulto praticado na maior parte dos trinta anos de vigência da Constituição de 1988.
+    Assim, o pedido deduzido neste habeas corpus está em confronto com as disposições vigentes do decreto presidencial.
+    À vista do exposto, com fulcro no art. 34, XX, do RISTJ, conheço em parte deste habeas corpus, e, nesta extensão, denego a ordem.” (eDOC 20, p. 9-12)
+    Diante do exposto, ausente constrangimento ilegal a ser sanado, denego a presente ordem de habeas corpus, com fundamento no artigo 192, caput, do RI/STF.
+    Publique-se.
+    Brasília, 24 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+                 Documento assinado digitalmente
