@@ -1,0 +1,19 @@
+DECISÃO
+ADMINISTRATIVO. PROCESSO ADMINISTRATIVO. NOTIFICAÇÃO. SUPOSTO VÍCIO. INDISPENSABILIDADE DO REEXAME DO CONTEÚDO FÁTICO PROBATÓRIO. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 5a. Região, assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. PROCESSO ADMINISTRATIVO. AUSÊNCIA DE NOTIFICAÇÃO. NULIDADE DE TODOS OS ATOS QUE SUCEDERAM A NOTIFICAÇÃO. APLICAÇÃO DE SANÇÃO. INSCRIÇÃO NO SICAF. IMPOSSIBILIDADE.
+1. Apelação de sentença que julgou parcialmente procedente mandado de segurança, para declarar a nulidade da notificação realizada nos autos de Processo Administrativo, instaurado pela Portaria nº 02/2011-Comando Militar do Nordeste, anulando os atos praticados após a referida notificação.
+2. Consta dos autos Aviso de Recebimento (AR) desprovido de devida assinatura do destinatario (fl. 157), relativo à correspondência, a qual não foi entregue em razão de ausência, bem como de relatório de emissão de fac-símile, no qual não consta o código do estado (DDD), não se podendo afirmar ao certo para onde foi transmitido, razão pela qual a notificação foi reputada invalida na primeira instância.
+3. Sabendo-se que os procedimentos administrativos são regulados acessoriamente pelo Código de Processo Civil, caberia à administração renovar a notificação ou promovê-la mediante publicação de edital.
+4. É imprescindível a instauração de devido processo legal para a imposição de sanções que interfiram na esfera de direitos e interesses particulares do indivíduo (art. 28 da Lei nº. 9.784/99), causando-lhe prejuízo, e porque comporta produção de provas, motivo pelo qual ha de se manter a decisão que anulou todos os atos praticados que sucederam a notificação.
+5. Ressalte-se que não consta dos autos qualquer tentativa de notificação do impetrante da decisão administrativa que impôs a sanção da inscrição de seu nome no SICAF - Sistema de Cadastramento Unificado de Fornecedores.
+6. Improvimento da apelação.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Alega a recorrente, de início, ofensa ao art. 535 do CPC/1973, reputando omisso o acórdão recorrido, não obstante a oposição dos Aclaratórios.
+4. No mérito, aponta violação dos arts. 1o. da Lei 12.016/2009; 7o. e 9o. da Lei 10.520/2002; 86 e 87 da Lei 8.666/1993; do Decreto 5.450/2005 e dos arts. 2o. 4o., 26, § 3o. e 39, parág. único, todos da Lei 9.784/1999. Sustenta o descumprimento contratual da recorrida para justificar a imposição de multa decorrente do não fornecimento dos veículos contratados por pregão.
+5. Defende, também, ser válida a notificação da punição realizada a funcionário da empresa, bem como a inviabilidade de apreciação do mérito administrativo da aplicação da penalidade pelo Poder Judiciário.
+6. É o relatório. Decido.
+7. Inicialmente, em relação à suposta contrariedade ao art. 535 do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. No mérito, verifica-se que a Corte de origem manifestou haverem dúvidas acerca do envio e efetivo recebimento do fac-simile referente à notificação da Empresa, circunstância que caracterizaria a mácula do procedimento administrativo. Desse modo, a aferição da correta adoção das medidas de cientificação da contratada, e a consequente verificação da pertinência da multa, demandariam a incursão no acervo fático-probatório dos autos, medida vedada em sede de Recurso Especial. Incide, na espécie, o óbice da Súmula 7/STJ.
+9. Ante o exposto, nega-se seguimento ao Recurso Especial.
+10. Publique-se. Intimações necessárias.
