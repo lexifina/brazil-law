@@ -1,0 +1,32 @@
+EMENTA
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR INCLUSÃO EM CADASTRO RESTRITIVO DE CRÉDITO. INEXISTÊNCIA DO DEVER DE RESTITUIÇÃO DE PAGAMENTO POR DÍVIDA PRESCRITA. DISSÍDIO JURISPRUDENCIAL BASEADO EM ACÓRDÃOS PROFERIDOS POR TURMAS RECURSAIS DE JUIZADOS ESPECIAIS CÍVEIS. DESCABIMENTO. IRRESPONSABILIDADE DO AVALISTA NÃO PARTICIPANTE DA RENEGOCIAÇÃO DA DÍVIDA. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DA AMAZÔNIA S.A., com base no art. 105, III, c, da CF, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia assim ementado:
+Apelação cível. Inscrição indevida. Novação da dívida sem participação do fiador. Extinção da garantia originária. Cobrança, com ameaças, de dívida. Restituição dos valores pagos indevidamente. Possibilidade. Dano moral configurado. Quantum indenizatório. Manutenção. Recurso não provido.
+Inscrição do nome do fiador originário, que não participou da novação, em órgão restritivo de crédito, é ilegítima e, como tal, gera dano moral.
+O valor da indenização a título de danos morais deve ser fixado com moderação, considerando a realidade de cada caso, cabível a intervenção do Tribunal apenas quando absurdo, causador de enriquecimento ilícito ou irrisório.
+O pagamento efetuado, mediante coação, por quem não tinha a obrigação de fazê-lo, impõe a repetição dos valores recebidos.
+Em suas razões recursais, o recorrente alega dissídio jurisprudencial acerca da interpretação do art. 882 do CC, defendendo a impossibilidade de restituição do pagamento da dívida prescrita, bem como da indenização por danos morais daí decorrentes, com base em julgados de Turmas Recursais do Juizado Especial Cível do Estado do Rio Grande do Sul.
+Contrarrazões não apresentadas (e-STJ, fl. 129).
+Brevemente relatado, decido.
+O recurso especial não pode ser conhecido, porque foi interposto com base em divergência entre o acórdão recorrido e acórdãos paradigmas oriundos de Turmas Recursais de Juizado Especial Cível, hipótese de cabimento não contemplada pelo art. 105, III, c, que exige a divergência entre Tribunais e não entre Tribunal e órgão de segundo grau de Juizado Especial, o qual não está sujeito ao controle da uniformidade do direito federal infraconstitucional exercido por esta Corte Superior, nos termos da Súmula 203/STJ.
+Não obstante, conforme disposto pelos arts. 1.029, §1º, do CPC/2015 e 255, §1º, do RISTJ, a interposição do recurso especial fundado na alínea c do permissivo constitucional exige a demonstração analítica da alegada divergência, mediante a transcrição dos trechos que configuram o dissenso e a menção das circunstâncias que identificam os casos confrontados, ônus do qual o recorrente não se desincumbiu.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. SEGURO HABITACIONAL. ILEGITIMIDADE ATIVA AD CAUSAM. VÍCIOS CONSTRUTIVOS. OBRIGAÇÃO INDENIZATÓRIA. MULTA DECENDIAL. PREVISÃO EM APÓLICE. INCIDÊNCIA DAS SÚMULAS 5, 7 E 13 DO STJ. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO IMPROVIDO.
+1. Tendo sido o recurso especial interposto contra acórdão publicado anteriormente à entrada em vigor do Novo Código de Processo Civil, é cabível a aplicação, no caso, do Enunciado Administrativo 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. "A divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula 13 do STJ).
+3. Para a caracterização da divergência jurisprudencial (alínea c do permissivo constitucional), não basta a simples transcrição das ementas dos acórdãos confrontados, devendo ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados. 4. Não há como, na via estreita do recurso especial, alterar a premissa firmada pelo Tribunal estadual, com base no acervo fático-probatório dos autos, de que os sinistros ocorreram durante a vigência do contrato com determinada seguradora, e não com a outra, tendo em vista o óbice da Súmula 7/STJ.
+5. O Tribunal a quo, após analisar as cláusulas contratuais e a prova pericial produzida nos autos, entendeu que os vícios na construção encontravam-se cobertos pela apólice securitária. Alterar tal conclusão, em recurso especial, esbarra nas Súmulas 5 e 7/STJ.
+6. Agravo interno improvido.
+(AgInt no REsp n. 1.420.791/SC, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 7/11/2017, DJe 13/11/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. FALTA DE PREQUESTIONAMENTO. MATÉRIA DE PROVA. APLICAÇÃO DAS SÚMULAS Nº 7/STJ E Nº 282/STF. DISSÍDIO NÃO CONFIGURADO.
+1. Não viola o art 535 do CPC o acórdão que motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+2. O conteúdo normativo dos dispositivos apontados como violados no recurso especial não foi objeto de discussão nas instâncias ordinárias sequer de modo implícito. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF.
+3. Quando as conclusões da Corte de origem resultam da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda, não há como rever o posicionamento por aplicação da Súmula nº 7/STJ.
+4. Para a demonstração do dissídio pretoriano, na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ, são necessários a similitude fática e o cotejo analítico entre os acórdãos confrontados, o que não se satisfaz com a mera transcrição de ementas dos arestos indicados como paradigmas.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 244.097/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4/8/2015, DJe 12/8/2015)
+Por fim, não houve impugnação ao fundamento principal do acórdão recorrido, consistente na ilegalidade da inscrição do nome do recorrido em órgão restritivo de crédito em virtude da irresponsabilidade do avalista pela dívida renegociada sem a sua partição, motivo pelo qual incide o óbice da Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 5% sobre o valor atualizado da condenação.
+Publique-se.
