@@ -1,0 +1,62 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (1.034G DE MACONHA). VIOLAÇÃO DOS ARTS. 33, § 4º, E 42, AMBOS DA LEI N. 11.343/2006. PLEITOS DE RECONHECIMENTO DA CONDIÇÃO DE MULA, VISANDO AFASTAR O CARÁTER HEDIONDO DO DELITO; DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO EM PATAMAR MAIS ELEVADO; DE ABRANDAMENTO DO REGIME PRISIONAL; E DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CARÊNCIA, NESTES PONTOS, DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. PLEITO DE RECONHECIMENTO E APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NA LEI DE DROGAS. CONSTATADA A REINCIDÊNCIA DO RECORRENTE PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO DO ENTENDIMENTO. INVIABILIDADE.
+Recurso especial parcialmente conhecido, e, nessa extensão, desprovido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais na Apelação Criminal n. 1.0126.16.001460-4/001.
+Consta dos autos que, na sentença de fls. 159/173, o recorrente foi condenado às penas de 5 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, mais pagamento de 565 dias-multa, como incurso nas iras do art. 33, caput, da Lei n. 11.343/2006 c/c os 61, I, e 65, III, d, ambos do Código Penal
+Inconformada com os termos do édito condenatório, a defesa interpôs recurso de apelação (fls. 191/203).
+O Tribunal mineiro negou provimento ao apelo defensivo (fls. 233/237).
+APELAÇÃO CRIMINAL -TRÁFICO DE DROGAS - DIMINUIÇÃO DA REPRIMENDA - IMPOSSIBILIDADE - DESCONHECIMENTO DA LEI - ATENUANTE NÃO RECONHECIDA - CONFISSÃO ESPONTÂNEA X REINCIDÊNCIA - COMPENSAÇÃO - MINORANTE DO ART. 33, § 4º, DA LEI 11.343/06 - INAPLICABILIDADE - NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS - MODIFICAÇÃO DO REGIME PRISIONAL - DESCABIMENTO - RECURSO NÃO PROVIDO.
+1. Descabido é o reconhecimento da atenuante prevista no artigo 65, inciso II, do Código Penal, por não restar demonstrado nos autos desconhecimento de lei pelo réu.
+2. Existindo concomitantemente a agravante da reincidência e a atenuante da confissão espontânea, não existe fundamento para preponderância em abstrato de uma sobre a outra, devendo, pois serem tais circunstâncias compensadas.
+3. O réu primário e de bons antecedentes, que não integra organização criminosa ou se dedica a atividades criminosas, faz jus a minorante do artigo 33, parágrafo 4º, da Lei nº 11.343/06, sendo certo que a condição de reincidente impede a concessão da referida causa especial de diminuição de pena.
+4. O tráfico de drogas é crime hediondo que impõe o estabelecimento do regime prisional fechado.
+No presente recurso especial é indicada a violação dos arts. 33, § 4º, e 42, ambos da Lei n. 11.343/2006.
+Pede o conhecimento e o provimento do recurso especial para que seja reconhecida a condição de mula do tráfico, retirando o caráter hediondez do caso, com progressão de regime prisional com o cumprimento de 1/6 da pena, aplicação do artigo 33, parágrafo 4º, da Lei Federal 11.343/2006, aplicação da atenuante da confissão em patamar mais elevado, reconhecimento de regime prisional menos gravoso e, por fim de substituir a reprimenda corporal por restritivas de direitos.
+Oferecidas contrarrazões (fls. 257/259), o recurso especial foi admitido na origem (fls. 261/262).
+O Ministério Público Federal opina pelo não conhecimento ou desprovimento da insurgência (fls. 272/276).
+PENAL. TRÁFICO DE ENTORPECENTES. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A" DA CF. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 33, § 4º, DA LEI Nº 11.343/06. PRETENSÃO DE REFORMA DA DOSIMETRIA DA PENA, DE FIXAÇÃO DO REGIME INICIAL SEMIABERTO E DE SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO A ARTIGOS DE LEI, SEM INDICAÇÃO DE COMO SE DEU A SUPOSTA VIOLAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DA SÚMULA 7/STJ. RÉU REINCIDENTE E GRANDE QUANTIDADE DE ENTORPECENTES APREENDIDOS IMPEDEM A APLICAÇÃO DO REDUTOR DO ARTIGO 33, § 4º, DA LEI 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME INICIAL FECHADO DEVIDAMENTE FUNDAMENTADO. REINCIDÊNCIA DO ACUSADO. PRECEDENTES DO STJ. QUANTUM DA PENA NÃO ADMITE SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. PARECER PELO NÃO CONHECIMENTO E, SE CONHECIDO, PELO DESPROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+De início, quanto aos pleitos de reconhecimento da condição de mula do tráfico, de decote do caráter hediondo do delito, para progressão de regime prisional com o cumprimento de 1/6 da pena, de aplicação da atenuante da confissão em patamar mais elevado, de reconhecimento de regime prisional menos gravoso e de substituição da reprimenda corporal por restritivas de direitos, tenho que o recurso especial, nestes tópicos, não ultrapassa as condições de admissibilidade, haja vista a não indicação dos dispositivos infraconstitucionais violados, o que faz incidir na espécie o teor da Súmula 284/STF.
+A corroborar:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA 284/STF. PEDIDO DE CONCESSÃO DE HABEAS CORPUS. NÃO CABIMENTO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Não tendo sido apontadas, especificamente, quais normas teriam sido contrariadas, incide a Súmula 284 do STF, segundo o qual: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+2. Descabe postular HC de ofício, em sede de regimental, como forma de tentar burlar a inadmissão do recurso especial. O deferimento ocorre por iniciativa do próprio órgão jurisdicional, quando constatada a existência de ilegalidade flagrante ao direito de locomoção, inexistente na hipótese (EDcl no AgRg no AREsp 1.939/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/08/2015, DJe 13/08/2015).
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.151.992/TO, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/5/2018 - grifo nosso).
+Por fim, quanto à aludida violação do art. 33, § 4º, da Lei n. 11.343/2006, extrai-se da sentença condenatória e do combatido aresto, os fundamentos utilizados para o não reconhecimento do tráfico privilegiado (fls. 163/164 e 236 - grifo nosso):
+ ..
+c) Da Não Aplicação do §4º do art. 33 da Lei 11.343/06.
+O § 4º do art. 33 da Lei 11.343/06 somente é aplicado se o acusado for primário, não integrar organização criminosa ou dedicar a atividade criminosa, veja-se:
+Art. 33 (..) § 42 Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+A CAC de ff. 64/65 aponta que o acusado [NOME] é reincidente em crime dolos, pois possui condenação com extinção da punibilidade em 15/04/2013, pela pratica do delito tipificado no art. 33 da Lei 11.343/06. Assim, incabível a aplicação do § 4º do art. 33 da lei 11.343/06.
+A defesa sustenta que o acusado era apenas uma "mula do tráfico", pois apenas estava transportando a droga para um terceiro. Porém, a conduta de transportar também é tipificada no caput do art. 33 da Lei de Drogas.
+Segue o entendimento do e. TJMG, veja-se:
+EMENTA: APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ART. 33, CAPUT DA LEI FEDERAL Nº 11.343/06 - AUTORIA E MATERIALIDADE DELITIVAS CONFIGURADAS - ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS E/OU DESCLASSSIFICAÇÃO DA CONDUTA - IMPOSSIBILIDADE - PROVA SUFICIENTE AO ÉDITO CONDENATÓRIO - REDUÇÃO DA REPRIMENDA DO APELANTE M.A.F. - NECESSIDADE - ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS PARA O RÉU M.H.A.R. - VIABILIDADE - ISENÇÃO DAS CUSTAS PROCESSUAIS - MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO - RECURSOS PROVIDOS EM PARTE.
+- Estando o acervo probatório harmônico no sentido de apontar ambos os apelantes como autores do crime de tráfico de drogas, a condenação é medida que se impõe.
+- Para a caracterização do delito do art. 33, caput da Lei Federal nº.
+11.343/06, crime de ação múltipla, basta que o agente porte e transporte drogas, não exigindo a respectiva consumação de qualquer resultado, como a venda ou a efetiva entrega do entorpecente.
+- Havendo patente desproporcionalidade no quantum de aumento utilizado para a incidência da circunstância agravante da reincidência (art. 61, I, CP), a pena do réu M.A.F. deve ser reduzida em atenção aos principios da razoabilidade e proporcionalidade.
+- Diante da presença das condições legais previstas no art. 33, §§ 2º e 3º do Código Penal, deve ser fixado o regime aberto para inicio de cumprimento da pena do réu M.H.A.R..
+- Restando atendido todos os requisitos legais elencados nos incisos I, II e Ill do art. 44 do Código Penal, a pena privativa de liberdade do réu M.H.A.R. deve ser substituída por duas restritivas de direitos.
+- A parca situação financeira do acusado, não impede, por si só, a condenação ao pagamento das custas processuais, cuja exigibilidade ficará sujeita à análise de suas condições financeiras pelo Juízo da Execução, nos termos do art.12, da Lei nº1.060/50.
+V.V. - ABRANDAMENTO DO REGIME PRISIONAL - IMPOSSIBILIDADE - SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS - NÃO CABIMENTO.
+- Para o crime de tráfico de entorpecentes o regime de cumprimento da pena privativa de liberdade deve ser o fechado, em observância à disposição contida no art. 2º, § 1º, da Lei n.º 8.072/90, modificada pela Lei n.º 11.464/07.
+- Nos delitos de tráfico de drogas não há falar-se em substituição da pena privativa de liberdade por restritivas de direitos, por expressa vedação legal.
+(TJMG - Apelação Criminal 1.0625.13.008583-4/001, Relator(a): Des.(a) Jaubert Carneiro Jaques , 6a CÃMARA CRIMINAL, julgamento em 05/04/2016, publicação da súmula em 12/04/2016).
+Assim, diante a quantidade de droga apreendida e do fato do acusado ser reincidente em crime específico, incabível a aplicação do § 4º do art. 33 da Lei 11.343/06.
+ ..
+Continuando, apenas o réu primário, possuidor de bons antecedentes, não integrante de organização criminosa e que não tem envolvimento em atividade criminosa, faz jus à minorante do artigo 33, parágrafo 4º, da Lei nº 11.343/06.
+Assim, como o apelante é reincidente, condição atestada pela Certidão de Antecedentes de fls. 64/65, evidenciando a existência de condenação criminal transitada em julgado anteriormente ao fato em questão, não poderá ele ser beneficiado pelo reconhecimento da mencionada causa especial de diminuição de pena.
+Certo é que a eventual condição de "mula" do acusado não autoriza a concessão da minorante do artigo 33, parágrafo 4º, da Lei nº 11.343/06, como alegado pela Defesa.
+ ..
+Tendo as instâncias ordinárias concluído que o recorrente não preenchia os requisitos para se beneficiar da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, mormente pela constatada reincidência, é inviável entender de modo diverso.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. REINCIDÊNCIA. COMPROVAÇÃO POR MEIO DE FOLHA DE ANTECEDENTES. POSSIBILIDADE. SÚMULA 7/STJ. NÃO INCIDÊNCIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N.11.343/2006). AUSÊNCIA DE UM DOS REQUISITOS EXIGIDOS PELA LEI. REINCIDÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O mero reconhecimento de reincidência constatado a partir da folha de antecedentes criminais, por não envolver propriamente análise de fatos e provas, não encontra óbice na Súmula 7/STJ.
+2. A jurisprudência desta Corte Superior entende que a folha de antecedentes criminais, por ser um documento revestido de fé pública, é hábil e suficiente para o reconhecimento da reincidência ou dos maus antecedentes.
+3. Para a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei nº 11.343/06, é necessário o preenchimento dos quatro requisitos cumulativos (o agente ser primário, de bons antecedentes, não se dedicar às atividades criminosas, nem integrar organização criminosa). A ausência de qualquer um deles impede a concessão do benefício.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.449.194/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/10/2017 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, I, II, do RISTJ, conheço parcialmente do recurso especial, e, nessa extensão, nego-lhe provimento.
+Publique-se.
