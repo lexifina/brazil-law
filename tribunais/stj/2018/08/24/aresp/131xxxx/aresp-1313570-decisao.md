@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao seu recurso especial, fundado no art. 105, III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo.
+Nas razões do nobre apelo, o ora Agravante sustenta as seguintes teses: a) violação do art. 535, incisos I e II, do Código de Processo Civil de 1973, em razão da negativa de prestação jurisdicional; e b) redimensionamento dos honorários advocatícios.
+É o relatório. Decido.
+Negativa de prestação jurisdicional:
+A violação do art. 1.022 do Código de Processo Civil não se efetivou na hipótese sub examine, uma vez que não se vislumbra contradição ou omissão no aresto proferido pela Corte de origem que, com efeito, pronunciou-se, de forma coerente, acerca de todas as questões relevantes para o deslinde da lide.
+É cediço que quando o julgador se manifesta de forma clara e suficiente sobre a matéria debatida nos autos, não cabe falar em nulidade do seu decisum somente porque contrário aos interesses da parte.
+Assim, afasto a alegação de omissão do acórdão proferido pelo Tribunal de origem.
+Ônus da sucumbência e falta de interesse de agir na ação cautelar de exibição de documentos:
+A Segunda Seção deste Superior Tribunal de Justiça, no julgamento do Tema n.º 648, vinculado ao Recurso Especial n.º 1.349.453/MS (Rel. Min. Luis Felipe Salomão, DJe de 02/02/2015), processado sob o rito dos recursos repetitivos, firmou entendimento no sentido de que "a propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável e o pagamento do custo do serviço conforme previsão contratual e a normatização da autoridade monetária", nos termos do acórdão assim ementado:
+"PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA. EXIBIÇÃO DE EXTRATOS BANCÁRIOS. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. PEDIDO PRÉVIO À INSTITUIÇÃO FINANCEIRA E PAGAMENTO DO CUSTO DO SERVIÇO. NECESSIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese:
+A propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária.
+2. No caso concreto, recurso especial provido." (grifei)
+Na espécie, verifica-se que o acórdão recorrido está em conformidade com o entendimento firmado por este Tribunal Superior ao reconhecer a ausência de interesse de agir ante a falta de comprovação de prévio pedido administrativo idôneo e pagamento da tarifa relativa ao custo de serviço. Eis o teor do julgado sobre a questão:
+"Verifica-se que o autor juntou cópia da solicitação do documento por escrito. Contudo, no referido requerimento não consta protocolo de recebimento pelo banco réu, nem comprovação de que tenha sido o pedido encaminhado pelo correio, porque não existe nos autos a juntada de aviso de recebimento.
+Assim, não há que se afirmar que houve o regular pedido administrativo.
+A falta do pedido prévio válido enseja a ausência do interesse de agir e a extinção do processo por carência de ação." (fl. 290)
+Destaque-se que o reexame da questão, relativamente à idoneidade do referido pedido prévio, ensejaria o revolvimento de matéria fático-probatória, o que é inviável na via do recurso especial, nos termos do enunciado sumular n.º 7 do STJ.
+Por outro lado, quanto ao redimensionamento os honorários advocatícios, esta Corte Superior tem entendimento pacificado no sentido de que nas ações de exibição de documento, a ré somente é condenada em honorários advocatícios quando houver pretensão resistida em fornecer os documentos pleiteados, aplicando-se os princípios da sucumbência e da causalidade, tendo em vista que é ela quem deu causa à demanda judicial e, assim, quem deve arcar com o ônus sucumbencial.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. EXIBIÇÃO DE DOCUMENTOS. HONORÁRIOS. CONFIGURAÇÃO DA PRETENSÃO RESISTIDA. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Nas ações de exibição de documento, a instituição financeira é condenada em honorários advocatícios quando houver pretensão resistida em fornecer os documentos pleiteados, aplicando-se os princípios da sucumbência e da causalidade.
+3. No caso, alterar a conclusão do Tribunal de origem de que não houve pretensão resistida demandaria o reexame da prova dos autos, procedimento inviável em recurso especial ante o óbice da Súmula nº 7/STJ.
+4. Agravo regimental não provido." (AgRg no REsp 1563745/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/02/2016.)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AOS ARTS. 458 E 515 DO CPC. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 458 e 515 do CPC quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. Nas ações de exibição de documento, a instituição financeira é condenada em honorários advocatícios quando houver pretensão resistida em fornecer os documentos pleiteados, aplicando-se os princípios da sucumbência e da causalidade.
+3. No caso, alterar a conclusão do Tribunal de origem de que não houve pretensão resistida, demandaria o reexame da prova dos autos, inviável em recurso especial ante o óbice da Súmula n. 7/STJ.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 760.277/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 14/10/2015.)
+In casu, ausente a resistência à pretensão do requerente por parte da empresa ré, o entendimento a quo está em conformidade com a jurisprudência desta Corte Superior ao condenar o autor da ação, ora Requerente, ao ônus sucumbencial.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Por fim, deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o recurso especial foi interposto contra acórdão publicado ainda na vigência do Código de Processo Civil de 1973.
+Publique-se. Intimem-se.
