@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, ementado nos seguintes termos:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CIVIL. HOMICÍDIO. POLICIAL MILITAR. PERÍODO DE FOLGA. RESPONSABILIDADE OBJETIVA DO ESTADO. TEORIA DO RISCO ADMINISTRATIVO. OMISSÃO. INDENIZAÇÃO. DANOS MORAIS. PENSÃO MENSAL.” (eDOC 6, p. 43)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, § 6º, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que não cabe ao Estado o dever de indenização, ao argumento de que o agente público estava fora do serviço e não se utilizava da condição oficial, quando disparou em face da vítima. (eDOC 7, p. 5)
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou a responsabilidade objetiva do Estado pelo ato praticado por seu agente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Pois bem, da análise das provas produzidas nos autos, restou incontroverso que a morte do companheiro/genitor dos apelados/autores foi provocada por disparo de arma de fogo da PMDF efetuado por policial militar da corporação que estava em período de folga.
+    (…)
+    Ademais, ainda que fora do horário de expediente ou em período de folga, caso a atuação do agente público que venha a causar danos a terceiro esteja relacionada a sua qualidade de agente público, o Estado poderá ser objetivamente responsabilizado.
+    (…)
+    Além disso, da dinâmica dos fatos apurados, verifica-se que o homicídio somente teria sido praticado em razão de desentendimentos entre o agente estatal e a vítima quanto ao exercício irregular da atividade de segurança particular pelo policial militar, visto que ambos já haviam se encontrado, na mesma noite, momentos antes do ocorrido, em um bar, e o disparo só teria sido efetuado após discussão entre os dois.
+    (…)
+    Está, portanto, demonstrado o nexo de causalidade entre a ação/omissão estatal e o dano sofrido pelos apelados/autores, pois conduta omissiva do Estado quanto à fiscalização de seu agente foi relevante e determinante para a ocorrência do resultado, o qual, de outra forma, não teria ocorrido” (eDOC 6, p. 48-52)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO (CF, ART. 37, § 6º) – CONFIGURAÇÃO – TEORIA DO RISCO ADMINISTRATIVO – MORTE CAUSADA POR DISPARO EFETUADO COM ARMA DE FOGO PARTICULAR MANEJADA POR POLICIAL MILITAR DO ESTADO DE PERNAMBUCO EM PERÍODO DE FOLGA – RECONHECIMENTO, PELO TRIBUNAL DE JUSTIÇA LOCAL, DE QUE SE ACHAM PRESENTES TODOS OS ELEMENTOS IDENTIFICADORES DO DEVER ESTATAL DE REPARAR O DANO – CARÁTER SOBERANO DA DECISÃO LOCAL, QUE, PROFERIDA EM SEDE RECURSAL ORDINÁRIA, RECONHECEU, COM APOIO NO EXAME DOS FATOS E PROVAS, A INEXISTÊNCIA DE CAUSA EXCLUDENTE DA RESPONSABILIDADE CIVIL DO PODER PÚBLICO – INADMISSIBILIDADE DE REEXAME DE PROVAS E FATOS EM SEDE RECURSAL EXTRAORDINÁRIA (SÚMULA 279/STF) – DOUTRINA E PRECEDENTES EM TEMA DE RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO – ACÓRDÃO RECORRIDO QUE SE AJUSTA À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL – SUCUMBÊNCIA RECURSAL (CPC/15, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE “TRABALHO ADICIONAL” POR PARTE DO VENCEDOR DA DEMANDA (NÃO APRESENTAÇÃO DE CONTRARRAZÕES RECURSAIS) – AGRAVO INTERNO IMPROVIDO.” (ARE-AgR 919.386, Rel. Min. Celso de Mello, Segunda Turma, DJe 21.11.2016)
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO POR CONDUTA OMISSIVA. RESPONSABILIDADE OBJETIVA. EXAME DE MATÉRIA JURÍDICA. DESNECESSIDADE DO REEXAME DE FATOS E PROVAS. INAPLICABILIDADE DA SÚMULA 279/STF. 1. Nos termos da jurisprudência deste Supremo Tribunal, a responsabilidade civil – ou extracontratual – pelas condutas estatais omissivas e comissivas é objetiva, com base na teoria do risco administrativo. Precedentes. 2. Agravo interno a que se nega provimento.” (RE-AgR 499.432, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 1.9.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 6, p. 55), observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 24 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
