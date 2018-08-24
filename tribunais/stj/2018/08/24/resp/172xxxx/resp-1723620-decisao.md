@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], em 03/07/2017, com fundamento no art. 105, III, a, da CF/88, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, que se encontra assim ementado:
+"RECURSO DE APELAÇÃO - COMPENSAÇÃO POR DANOS MORAIS - SUPOSTO ABUSO DE AUTORIDADE DOS AGENTES PÚBLICOS MEDIANTE AGRESSÕES FÍSICAS E HUMILHAÇÕES - RESPONSABILIDADE OBJETIVA DO ESTADO - AUSÊNCIA DE DEMONSTRAÇÃO DO NEXO CAUSAL E DA CONDUTA DOS AGENTES.
+Quando ausente a demonstração da conduta dos agentes quanto às humilhações, bem como o nexo causal das agressões físicas provenientes de suposto abuso de autoridade dos agente públicos, não há responsabilidade objetiva do Estado em compensar os danos morais" (fl. 389e).
+Opostos Embargos Declaratórios, restaram rejeitados (fls. 448/451e).
+Aponta o recorrente a ocorrência de violação aos artigos 1º, III, 37, da CF e 942 do CPC/2015. Alega, em síntese, que, diante do não provimento, por maioria, do recurso de apelação por ele manejado, a Corte de origem deveria ter observado a técnica de ampliação de julgamento de que trata o art. 942 do CPC/2015.
+Argumenta que "o art. 942 do CPC prevê uma técnica de ampliação do colegiado para julgamento, estabelecendo a suspensão da sessão de julgamento quando o resultado não for unânime e determinado que se prossiga, com outros membros, em nova designação" (fl. 483e).
+Requer, por fim, o provimento do Recurso Especial, para "decretar a nulidade do r. Acórdão de f. 389/400 em razão da total inobservância da técnica do art. 942, CPC, devendo outro ser proferido e, caso ocorra nova divergência, que sejam convocados novos julgadores que não sejam os mesmos que já compõem a 2ª Câmara Cível" (fl. 486e).
+Contrarrazões às fls. 493/499e.
+Decido.
+O Recurso Especial não merece prosperar.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou que, "conforme entendimento firmado pela 2ª Câmara Cível, numa interpretação sistêmica, serão objeto da técnica de julgamento prevista no art. 942 os julgados de reforma da sentença por maioria. Isso porque seria uma técnica substitutiva dos embargos infringentes e somente caberia nas situações equivalentes à espécie recursal suprimida pela novel legislação processual" (fl. 450e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Por outro lado, é pacífica a jurisprudência no sentido de que "não cabe a esta Corte, em recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Carta Magna" (STJ, AgRg no AREsp 470.765/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 31/03/2014).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em 10% (dez por cento) sobre o valor da causa, para 11% (onze por cento) sobre o valor da causa, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
