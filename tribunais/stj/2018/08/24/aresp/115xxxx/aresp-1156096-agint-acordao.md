@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. Constata-se que, quando da interposição do Agravo em Recurso Especial, os agravantes não rebateram, como lhes competia, os fundamentos da decisão agravada, tendo se limitado a aduzir os argumentos já lançados em seu Apelo Nobre e a afirmar a existência de prequestionamento, deixando de se manifestar quanto à aplicação do óbice das Súmulas 83/STJ, 283 e 284/STF.
+2. O Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação da Súmula 182 do STJ.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão de admissibilidade do Recurso Especial devem ser veiculadas imediatamente naquela oportunidade, pois, convém frisar, não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do Recurso Excepcional, diante da preclusão consumativa.
+4. Agravo Interno dos Particulares a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto contra decisão da Presidência desta Corte Superior que não conheceu do seu Agravo em Recurso Especial por ausência de impugnação específica de todos os fundamentos da decisão agravada.
+2. No presente Regimental, alegam os agravantes, em síntese, que foram impugnados todos os fundamentos da decisão agravada.
+3. Pugnam, desse modo, pela apresentação do feito à Turma Julgadora para que seja conhecido e provido o Agravo.
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. Constata-se que, quando da interposição do Agravo em Recurso Especial, os agravantes não rebateram, como lhes competia, os fundamentos da decisão agravada, tendo se limitado a aduzir os argumentos já lançados em seu Apelo Nobre e a afirmar a existência de prequestionamento, deixando de se manifestar quanto à aplicação do óbice das Súmulas 83/STJ, 283 e 284/STF.
+2. O Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação da Súmula 182 do STJ.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão de admissibilidade do Recurso Especial devem ser veiculadas imediatamente naquela oportunidade, pois, convém frisar, não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do Recurso Excepcional, diante da preclusão consumativa.
+4. Agravo Interno dos Particulares a que se nega provimento.
+1. A despeito das alegações dos agravantes, razão não lhes assiste.
+2. A decisão ora recorrida não conheceu do Agravo em Recurso Especial em razão da ausência da devida impugnação de todos os fundamentos da decisão que inadmitiu o Recurso Especial, notadamente quanto à aplicação das Súmulas 83/STJ, 283 e 284/STF (fls. 2.129/2.131).
+3. Como cediço, a parte, para ver seu Recurso Especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+4. Em nova análise do Agravo interposto, tem-se que, efetivamente, os agravantes não infirmaram adequadamente os fundamentos da decisão que inadmitiu o Recurso Especial, tendo se limitado a aduzir os argumentos já lançados em seu Apelo Nobre e a afirmar a existência de prequestionamento, deixando de se manifestar quanto à aplicação do óbice das Súmulas 83/STJ, 283 e 284/STF.
+5. Inafastável, assim, a incidência do óbice da Súmula 182/STJ, segundo a qual é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+6. Registre-se que o Recurso de Agravo, tanto aquele previsto no art. 544 do CPC/73 (atual art. 1.042 do NCPC), como o dito Regimental ou Interno previsto no art. 545 do CPC/73 (atual art. 1.021, § 1o. do NCPC), objetiva desconstituir os fundamentos que impediram o processamento do Recurso Especial; sem essa providência, não comporta seguimento.
+7. Ainda, é mister repetir que as razões demonstrativas do desacerto da decisão de admissibilidade do Recurso Especial devem ser veiculadas imediatamente naquela oportunidade, pois, convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do Recurso Excepcional, diante da preclusão consumativa.
+8. Diante do exposto, permanecendo íntegros os fundamentos da decisão agravada, nega-se provimento ao Agravo Interno dos Particulares. É como voto.
