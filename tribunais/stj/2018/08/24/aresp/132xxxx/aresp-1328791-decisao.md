@@ -1,0 +1,55 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO REVISIONAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO MENSAL DOS JUROS. PRECEDENTES. INADMISSÃO EM PARTE COM FUNDAMENTO NO ART. 1.030, I, b, DO NCPC (ART. 543-C, PARÁGRAFO 7º, INCISO I DO CPC/73). AGRAVO INVIÁVEL EM HIPÓTESES DE INADMISSÃO COM FUNDAMENTO NA APLICAÇÃO DE ENTENDIMENTO FIRMADO EM JULGAMENTO DE RECURSOS REPETITIVOS (ART.1.042 DO NCPC) POR SE TRATAR DE ERRO GROSSEIRO. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO NCPC E DOS JUROS E DA MULTA MORATÓRIOS. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. AGRAVO NÃO CONHECIDO SEGUNDO O RITO DO ART. 1.030, I, b, DO NCPC (ART. 543-C DO CPC/73) E, DEMAIS PONTOS AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+
+DECISÃO
+TRICOFIO MALHAS LTDA. (TRICOFIO) promoveu contra COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS CARLOS BARBOSA - SICREDI SERRANA RS (SINCREDI), ação revisional de contrato de cédula de crédito bancário.
+O Juízo de piso julgou parcialmente procedente o pedido elaborado por TRICOFIO.
+TRICOFIO apelou. O Tribunal de origem negou provimento ao recurso, em acórdão assim ementado:
+AÇÃO REVISIONAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO MENSAL DOS JUROS. ORIENTAÇÃO SOBRE A POSSIBILIDADE DA CAPITALIZAÇÃO DOS JUROS EM PERIODICIDADE INFERIOR A ANUAL FIRMADA PELO STF EM REPERCUSSÃO GERAL RECONHECIDA - TEMA 33 (RE 592.377).
+Possível a capitalização mensal de juros em contratos bancários celebrados após o advento da Medida Provisória nº 1.963-17/2000, de 31.03.2000, desde que expressamente prevista no contrato.
+Consoante definido pelo Egrégio STJ no julgamento do REsp n. 973.827/RS, mostra-se suficiente a indicação de juros anuais em índice inferior ao duodécuplo da taxa mensal. Recente edição de verbetes pelo STJ. Súmulas nº 539 e 541.
+ENCARGOS MORATÓRIOS.
+Inexistindo abusividade na cobrança dos encargos relativos ao período da normalidade da Cédula objeto da revisão, não está descaracterizada a mora, em consonância com o entendimento do STJ.
+APELAÇÃO IMPROVIDA (e-STJ, fl. 122)
+Os embargos de declaração opostos por TRICOFIO foram rejeitados (e-STJ, fls. 140/145).
+TRICOFIO, então, interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 1.022 do NCPC e 6º, III, 46, 47 e 52, II, do CDC. Alegou (1) que é nula a cláusula do contrato que se refere à capitalização de juros, que devem ser aplicados de forma simples; (2) que o tribunal não se manifestou sobre as questões levantadas pela recorrente; e (3) não há que se falar da incidência de juros e multa moratórios, uma vez que não foi possibilitada a recorrente adimplir com as obrigações estabelecidas no contrato em análise.
+Em juízo de admissibilidade, o Presidente do Tribunal de Justiça do Rio Grande do Sul negou seguimento ao apelo nobre no tocante à capitalização dos juros, nos termos do art. 543-C, parágrafo 7º, I do CPC/73 (atual art. 1.030, I, b, do NCPC). Ademais, também deixou de admitir o recurso interposto diante da ausência de omissão do aresto recorrido e à incidência das Súmulas nºs 5, 7 e 83 do STF.
+Interposto o agravo em recurso especial, TRICOFIO alegou que não pretende rediscutir questões fatico-probatórias.
+Contraminuta foi apresentada (e-STJ, fls. 224/231).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) Da capitalização dos juros.
+Verifica-se que a Corte estadual, no juízo de admissibilidade exercido, negou seguimento ao recurso especial por entender que o pedido relativo à capitalização dos juros encontra óbice no art. 1.030, I, alínea b, do NCPC (art. 543-C, § 7º, inciso I, do CPC/73).
+Assim, considerando o recente entendimento desta Corte, a hipótese é de não conhecimento do presente agravo quanto ao tema. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. Não se configura ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, embora rejeite os embargos de declaração opostos, manifesta-se acerca de todas as questões devolvidas com o recurso e consideradas necessárias à solução da controvérsia, sendo desnecessária a manifestação pontual sobre todos os artigos de lei indicados como violados pela parte vencida.
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991, Rel. Min. MARCO AURÉLIO BELIZZE, Terceira Turma, [NOME], DJe 25/8/2016).
+(2) Da violação do art. 1.022 do NCPC.
+Observa-se das razões recursais que TRICOFIO se limitou a alegar a violação do referido artigo, porém, não detalhou e demonstrou, de forma clara, precisa e fundamentada, como e em que medida o acórdão recorrido teria afrontado os dispositivos legais, o que caracteriza a deficiência na fundamentação. Portanto, incide no caso, por analogia, a Súmula nº 284 do STF, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL INTERPOSTO SOB A ÉGIDE DO CPC/1973. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SÚMULA N. 410 DO STJ. NÃO CONHECIMENTO. OFENSA AO ART. 535 DO CPC/1973. SÚMULA N. 284 DO STF. ART. 475-C, II, DO CPC/1973. FORMA DE LIQUIDAÇÃO. REVISÃO. SÚMULA N. 7 DO STJ. ART. 412 DO CPC/1973. NÃO IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. ARTS. 461, § 4º, 461-A E 632 DO CPC/1973. FIXAÇÃO DE PRAZO PARA CUMPRIMENTO DA DECISÃO. IMPOSSIBILIDADE DE VERIFICAÇÃO. ART. 645 DO CPC. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. É inviável o conhecimento do apelo especial em relação à alegação de ofensa a súmula, tendo em vista que tal enunciado não tem a natureza de lei federal, não podendo, portanto, ser objeto de discussão em recurso especial.
+2. Atrai a incidência do óbice previsto na Súmula n. 284 do STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso.
+3. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+5. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+6. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+7. Agravo regimental desprovido.
+(AgRg no REsp nº 1.540.980/RR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado aos 2/6/2016, DJe de 9/6/2016, sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SUPOSTA OFENSA AO ART. 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. EXIBIÇÃO DOS EXTRATOS BANCÁRIOS. DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DA EXISTÊNCIA DA CONTRATAÇÃO. AGRAVO NÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp nº 1.169.135/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 12/4/2016, DJe de 22/2/2016, sem destaque no original).
+(3) Dos juros e da multa moratórios.
+TRICOFIO sustentou não há que se falar da incidência de juros e multa moratórios, uma vez que não foi possibilitada a recorrente adimplir com as obrigações estabelecidas no contrato em análise.
+Em relação aos juros e a multa moratórios, não foi feita a indicação clara e precisa do dispositivo de lei federal que foi violado, o que evidencia a deficiência na fundamentação do recurso, a atrair o óbice da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), NÃO CONHEÇO do agravo em recurso especial com relação à matéria repetitiva e, no referente as demais matérias, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da TRICOFIO nos termos do art. 85, §§ 2º e 11 do NCPC, observando-se, no que couber, o art. 98 do mesmo diploma.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
