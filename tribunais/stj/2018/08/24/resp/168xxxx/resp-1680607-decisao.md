@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que tem como pano de fundo revisão de Renda Mensal Inicial, e que restou ementado, in verbis (fl. 202):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ATIVIDADES CONCOMITANTES. ART. 32 DA LEI Nº 8.213/91.
+1. O salário de benefício do segurado que contribuir em razão de atividades concomitantes deve ser calculado nos termos do art. 32 da Lei nº 8.213/91, somando-se os respectivos salários de contribuição quando satisfizer, em relação a cada atividade, as condições do benefício requerido. Não tendo o segurado preenchido as condições para a concessão do benefício em relação a ambas as atividades, o salário de benefício corresponderá à soma do salário de benefício da atividade principal e de um percentual da média do salário de contribuição da atividade secundária, sendo considerada como atividade principal aquela que gerará maior proveito econômico no cálculo da renda mensal inicial.
+2. O sentido da regra contida no art. 32 da Lei 8.213/91 era o de evitar que, nos últimos anos antes de se aposentar, o segurado pudesse engendrar artificial incremento dos salários de contribuição que compõem o período básico de cálculo (PBC), 36 meses dentro de um conjunto de 48 meses, e assim elevar indevidamente o valor da renda mensal inicial da prestação.
+3. Todavia, modificado o período básico de cálculo pela Lei 9.876/1999, apurado sobre todas as contribuições a partir de 1994 (as 80% melhores), já não haveria sentido na norma, pois inócua seria uma deliberada elevação dos salários de contribuição, uma vez ampliado, em bases tão abrangentes, o período a ser considerado.
+4. No cálculo de benefícios previdenciários concedidos após abril de 2003, devem ser somados os salários de contribuição das atividades exercidas concomitantemente, sem aplicação do art. 32, inclusive para períodos anteriores a 1º de abril de 2003, e com observação, por óbvio, do teto do salário de contribuição (art. 28, § 5º, da Lei 8.212/91).
+5. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, a iniciar-se com a observância dos critérios da Lei 11.960/2009, de modo a racionalizar o andamento do processo, permitindo-se a expedição de precatório pelo valor incontroverso, enquanto pendente, no Supremo Tribunal Federal, decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4ª Região.
+Não foram opostos embargos declaratórios.
+No presente recurso especial (fls. 204-209) o recorrente aponta violação do art. 32, I e II da Lei n. 8.213/91.
+Alega que TRF4 entendeu que deveria o INSS desconsiderar a inexistência de atividade principal e secundária, procedendo a soma simples para indicar o salário de benefício de cada mês, entretanto, tal entendimento viola o citado dispositivo legal.
+Aduz que o que impende analisar nos casos em que o segurado exerce atividades concomitantes é a efetiva satisfação dos requisitos imprescindíveis ao gozo da aposentadoria em todas as atividades. Se este fosse o caso, estaria correta a simples soma dos salários-de-contribuição para fins de cálculo do benefício, na forma prevista do art. 32, I, da Lei. 8.213/91.
+Contudo, não sendo esse o caso, o artigo 32 dispõe de regra expressa para a hipótese em que o segurado reúne as condições para se aposentar em apenas uma das atividades.
+Argumenta que uma vez desatendidos os requisitos para a fruição do benefício relativamente a cada atividade, a regra jurídica para a composição do salário-de-benefício deverá tomar a referência legal de preponderância ou atividade principal, que é o tempo de atividade, merecendo reforma, portanto, o acórdão recorrido.
+Com contrarrazões, o recurso foi admitido na origem.
+É o relatório. Decido.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca do dispositivo violado ter sido derrogado pela Lei n. 9.876/99, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+
+Além disso, para se verificar se houve o preenchimento das condições para a concessão do benefício em cada atividade ou em apenas uma das atividades exercidas concomitantemente, de modo a permitir a correta interpretação do dispositivo supostamente violado, seria necessário o revolvimento de todo o conteúdo fático probatório, o que é vedado em sede de recurso especial, conforme enunciado da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
