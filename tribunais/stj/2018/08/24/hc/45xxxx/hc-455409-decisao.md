@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 0028200-76.2015.
+Depreende-se dos autos que o paciente foi denunciado "como incurso no art. 155, § 4º, IV do Código Penal, porque no dia 01 de outubro de 2015, por volta das 23h30min, na Fazenda Macaúba, localizada na rodovia SP 321, nesta cidade e comarca, em concurso e com unidade de desígnios com dois indivíduos identificados apenas como "Neguinho" e "Buiu", teriam subtraído para eles um animal suíno, pertencente a [NOME]" (e-STJ fl. 25).
+Superadas as demais fases processuais, o paciente foi condenado à pena de 2 (dois) anos e 4 (quatro) meses de reclusão, a ser cumprida inicialmente no regime semiaberto, por infração ao art. 155, § 4º, inciso IV, c/c o art. 61, inciso I, ambos do Código Penal (e-STJ fls. 25/29).
+O Tribunal de origem negou provimento ao apelo defensivo, mantendo na íntegra a sentença condenatória (e-STJ fls. 9/16).
+No presente writ, a defesa destaca que "o paciente está na iminência de ser preso, uma vez que já houve decisão de segunda instância e expiraram-se os prazos para interposição de recursos ordinários" (e-STJ fl. 3).
+Alega que não há fundamentação idônea para a negativa de substituição da pena privativa de liberdade por medidas restritivas de direitos.
+Afirma que "o tribunal paulista não especificou porque, considerando a condenação anterior do paciente, a substituição não seria recomendável, limitando-se a fundamentar sua decisão na reincidência do paciente (não específica)" - e-STJ fl. 6.
+Postula, liminar e definitivamente, que o paciente possa aguardar o julgamento final deste writ em liberdade ou que, desde logo, seja reformado o acórdão para substituir a pena reclusiva por medidas alternativas.
+O pedido liminar foi indeferido (e-STJ fls. 34/36).
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional (e-STJ fls. 59/61).
+É, em síntese, o relatório.
+Consoante se observa do relatório, sustenta a defesa estarem preenchidos todos os requisitos necessários a substituição da pena privativa de liberdade por medidas restritivas de direitos.
+No pertinente vaticínio da doutrina, sendo a "pena um mal necessário, o Estado deve buscar aquela que seja mais adequada para a proteção dos bens jurídicos, mas por outro lado não atinja de forma brutal a dignidade humana, observando o principio da proporcionalidade" (GRECO, Rogério. Curso de Direito Penal, vol. I. 10 ed. Rio de Janeiro: 2008, editora Impetus, p. 528).
+Nesse particular, as penas substitutivas surgiram no cenário nacional com a missão de minimizar a crise carcerária vigente e promover uma reeducação do apenado com a finalidade de reintegrá-lo à sociedade.
+O art. 44 do Código Penal elenca os requisitos objetivos e subjetivos para a substituição, quais sejam: a) quantidade de pena aplicada não superior a 4 anos; b) natureza do crime cometido (com privilégio o crime culposo, pois independe da pena aplicada); c) modalidade de execução: sem violência ou grave ameaça a pessoa; d) réu não reincidente em crime doloso; e) prognose de suficiência da substituição, sendo critérios de análise a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias do fato (BITENCOURT, Cezar Roberto. Novas Penas Alternativas. 3 ed. São Paulo: editora saraiva, 2006, p. 82 e 85).
+No caso em análise, evidente que o paciente não atende aos requisitos subjetivos necessários da substituição, nos mais estritos termos do art. 44, III, do Código Penal, porquanto "reincidente em delitos patrimoniais" (e-STJ fl. 16). Sobre o tema, a jurisprudência de ambas as Turmas da Terceira Seção:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. RÉU REINCIDENTE E FORAGIDO DA JUSTIÇA. MEDIDA QUE NÃO SE APRESENTA SOCIALMENTE RECOMENDÁVEL E NEM SUFICIENTE À PREVENÇÃO DO DELITO. RESSOCIALIZAÇÃO DO RECORRENTE. MATÉRIA QUE NÃO FOI VERSADA NAS RAZÕES DO APELO EXTREMO. INOVAÇÃO RECURSAL.
+1. Nos termos da jurisprudência desta Corte Superior, a substituição da pena privativa de liberdade por restritiva de direitos só é possível quando preenchidos os requisitos objetivos e subjetivos previstos no art. 44 do Código Penal. Precedentes.
+2. Na hipótese, a substituição da reprimenda revelou-se inadequada e insuficiente, tendo em vista tratar-se de réu reincidente e foragido da justiça.
+3. A alegação de que o réu está em vias de ressocializar-se, já que não possui, desde à época dos fatos narrados na denúncia, qualquer pendência com a justiça criminal, não foram abordadas nas razões do especial, que se limitou a sustentar a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos ao reincidente não específico.
+4. Agravo Regimental improvido.
+(AgRg no REsp 1365534/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/08/2014, DJe 19/08/2014, grifei.)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PENAL E PROCESSO PENAL. REPRIMENDA FINAL EM PATAMAR INFERIOR A QUATRO ANOS. REGIME INICIAL SEMIABERTO. RÉU REINCIDENTE. SUBSTITUIÇÃO DA REPRIMENDA. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA.
+1. Não há falar em constrangimento ilegal na hipótese em que, estabelecida a pena final em patamar inferior a 4 (quatro) anos de reclusão, foi fixado o regime semiaberto para o início do cumprimento da reprimenda em razão de ser o réu reincidente em crime doloso.
+2. A possibilidade de substituição da pena privativa de liberdade por restritiva de direitos exige o preenchimento dos requisitos do artigo 44, § 3º, do CP, o que não ocorre quando o réu conta com outra condenação transitada em julgado, não é a medida socialmente recomendável e nem suficiente à prevenção do delito.
+3. Agravo regimental improvido.
+(AgRg no Ag 1332238/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 24/04/2013, grifei.)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ASSOCIAÇÃO CRIMINOSA ARMADA. PENA NÃO SUPERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTO IDÔNEO PARA O ESTABELECIMENTO DO REGIME INICIAL SEMIABERTO E PARA NEGAR A SUBSTITUIÇÃO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..  2. Não obstante o paciente tenha sido condenado a pena privativa de liberdade não superior a 4 anos de reclusão, a ponderação negativa das circunstâncias judiciais, com lastro em fatores que denotam o maior desvalor da ação, constitui óbice ao pretendido regime inicial aberto e à substituição da pena privativa de liberdade por restritiva de direitos.
+3. Habeas corpus não conhecido.
+(HC 385.364/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/03/2017, DJe 10/03/2017)
+Tal o contexto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
