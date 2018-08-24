@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, não conheceu do agravo interno, nos termos da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por COMERCIAL DE AREIA VENCEDORA LTDA., tendo por objeto reforma de decisão proferida às fls. 1.286/1.289.
+A agravante refuta a decisão agravada, afirmando que "amplamente manifesto no Agravo fls.03 e 04, os pontos a serem impugnados, postulados no RESP e negados pelo julgador" (fl. 1.305).
+Requer, outrossim, a retratação desta Relatora ou o provimento do recurso pelo órgão colegiado.
+Intimada à fl. 1.307, não houve impugnação da parte agravada.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não merece conhecimento.
+A decisão ora agravada ficou assim redigida (fls. 1.286/1.289):
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por COMERCIAL DE AREIA VENCEDORA LTDA., em face de acórdão assim ementado (fls. 1.126/1.128):
+apelação cível. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO INDENIZATÓRIA.
+DANOS MATERIAIS. Pedido de reembolso das despesas médicas oriundas do tratamento das sequelas ocasionadas pelo acidente que restaram suportadas pelos pais da vítima. Recurso não conhecido no ponto. Pedido expressamente atendido pela sentença recorrida.
+PRELIMINAR CONTRARRECURSAL DE AUSÊNCIA DE INTERESSE PELOS PAIS ACERCA DE PLEITOS PERSONALISSÍMOS DO FILHO. Com a interposição de recurso, adequado e tempestivo, pelo próprio interessado após a manifestação do apelado, verifica-se prejudicada a preliminar contrarrecursal de ausência de interesse.
+NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. Não ocorrência. Questão já enfrentada por este tribunal de justiça quando da interposição de agravo de instrumento em face da decisão interlocutória que indeferiu a oitiva da testemunha referida pleiteada. Recurso Especial interposto e retido nos autos. Ausência de reiteração expressa pela parte nos termos do artigo 523, § 1º, do Código de Processo Civil/1973 vigente à época.
+RESPONSABILIDADE SUBJETIVA. Necessário a prova do ato, do dano, do nexo causal e da culpa pelo acidente. Invasão de pista contrária por caminhão que veio a tombar sobre o veículo conduzido pelo autor. Demonstrada a responsabilidade do caminhoneiro pelo infortúnio que atingiu o automóvel de passeio na contramão de direção. Culpa de terceiro ou concorrência de culpas não verificada. Sentença mantida no ponto.
+DANOS MORAIS. Danos que se dão na modalidade in re ipsa. Acidente ocorrido na véspera de natal do ano de 2009. Vítima com 24 anos que, após meses de internação hospitalar, restou paraplégica. Majoração do quantum arbitrado à vítima e aos pais. Adequação aos parâmetros desta Câmara Cível.
+BAIXA DO VEÍCULO SINISTRADO. São devidos os valores necessários à regularização do veículo sinistrado junto ao órgão de trânsito em virtude de sua perda total uma vez que diretamente decorrentes do ilícito objeto da ação.
+indenização dos valores gastos com serviço de GUINCHO. Em que pese também tenham origem no infortúnio, resta inviável o reembolso das despesas com o serviço de guincho, no caso concreto, ante à ausência expressa de pedido pela parte nesse sentido. Decisão que obrigatoriamente tem de se limitar ao postulado sob pena de incorrer em julgamento ultra-petita, o que é vedado por lei.
+DANOS MATERIAIS FUTUROS DECORRENTES DA PARAPLEGIA. Possibilidade de ressarcimento. Inteligência do artigo 949 do Código Civil. Necessidade de comprovação em sede de liquidação de sentença. Valores que devem ser corrigidos pelo IGP-M a contar do desembolso.
+PENSIONAMENTO mensal. Incontroversa a incapacidade do autor frente à impossibilidade de realização de qualquer atividade laborativa, devido é o pensionamento que tem caráter vitalício e não se sujeita aos marcos temporais de idade. Presente a possibilidade de reversão da sequela, nos termos do pedido inicial, permite-se a desoneração do pagamento acaso sobrevenha recuperação integral. Juros de mora e correção monetária. Termo inicial computado da data do vencimento de cada parcela. Adequação de ofício.
+VALOR DO PENSIONAMENTO MENSAL. Caso dos autos em que a vítima possui formação em Direito, concluída anteriormente ao acidente, e, a época do infortúnio, prestava os exames finais do concurso para provimento do cargo de inspetor da Polícia Civil do Estado do Rio Grande do Sul. Viabilidade de arbitramento do pensionamento com base nos rendimentos da referida profissão e seus correspondentes reajustes.
+CONSECTÁRIOS LEGAIS. Juros de mora sobre as condenações arbitradas por dano material e moral que se aplicam a ordem de 1% ao mês.
+ÔNUS SUCUMBENCIAIS e HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE MODIFICAÇÃO. Verba que, mesmo tendo sido arbitrada no mínimo legal, ante o valor total da condenação, mostra-se suficiente à adequada remuneração do profissional da advocacia.
+à UNANIMIDADE, conheceram parcialmente do apelo dos pais da vítima e, na parte conhecida, deram-lhe parcial provimento E deram parcial provimento ao RECURSO do réu, alteraNDO, DE OFÍCIO, O TERMO inicial dos juros de mora e DA correção monetária incidentes sobre o pensionamento. por maioria, deram parcial provimento ao RECURSO DE APELAÇÃO INTERPOSTO PELA vítima, vencidOS OS desEMBARGADORES [NOME], que o proviaM em menor extensão.
+A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: I) não demonstração da afronta aos dispositivos invocados no especial; II) a via especial é inadequada para análise de arguição de contrariedade a texto constitucional; III) necessidade de reexame fático-probatório para análise das razões do especial, bem como para revisão do valor fixado para a indenização por danos morais em R$ 100.000,00 (cem mil reais), em decorrência de paraplegia.
+A agravante não infirmou os fundamentos da decisão recorrida arguindo, genericamente, que pretendia apenas a revaloração da prova e deixando de se pronunciar acerca dos seguintes pontos: I) impossibilidade de discussão acerca de ofensa à Constituição em sede especial; II) aplicação da Súmula 518/STJ; III) Incidência da Súmul 284/STF; e IV) não configuração do dissídio jurisprudencial.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento do requisito exigido no art. 932, III, do Código de Processo Civil/2015.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
+Verifique-se que as razões do agravo não se prestam a combater os fundamentos da decisão agravada, pois, não se insurge a agravante acerca da não impugnação dos seguintes pontos da admissibilidade: I) impossibilidade de discussão acerca de ofensa à Constituição em sede especial; II) aplicação da Súmula 518/STJ; III) Incidência da Súmula 284/STF; e IV) não configuração do dissídio jurisprudencial.
+Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida. Incidência do enunciado 182 da Súmula do STJ.
+Assim, não cumprida a exigência constante do art. 1021, § 1º, do Código de Processo Civil/2015, não conheço do agravo interno.
+É como voto.
