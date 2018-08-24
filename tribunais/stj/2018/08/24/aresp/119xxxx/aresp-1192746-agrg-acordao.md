@@ -1,0 +1,53 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TORTURA. AUSÊNCIA DE INTENÇÃO DE CAUSAR SOFRIMENTO FÍSICO OU MENTAL OU DE APLICAR CASTIGO PESSOAL Á VÍTIMA. NEGATIVA DE VIGÊNCIA AO ART. 1º, II, C/C O § 4º, II, DA LEI 9.455/97. NÃO OCORRÊNCIA. ALTERAÇÃO DO JULGADO. NECESSIDADE DE REEXAME DO MATERIAL FÁTICO E PROBATÓRIO DO AUTOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo, soberano na análise dos elementos fáticos e probatórios dos autos, concluiu não existirem provas capazes de conduzir à certeza do propósito de causar sofrimento físico ou moral à vítima, ou seja, não ficou demonstrado o dolo específico necessário à caracterização do crime de tortura.
+2. Nesse contexto, a alteração do julgado, para o fim de condenar o réu pela prática do crime de tortura previsto no art. 1º, II, c/c §3º, da Lei 9.455/97, implicaria necessariamente o reexame do material fático-probatório dos autos, notadamente o Laudo de Exame de Lesões Corporais, Laudo de Exame de Sanidade Física, fotocópias do prontuário médico, testemunhos e depoimentos da vítima e do acusado. Todavia, tal providência é inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática desta Relatoria que, fundamentada no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 1.263-1.265).
+O agravante sustenta que a controvérsia limita-se "em saber se a verificação do acerto da desclassificação operada pela Corte estadual, com base no contexto probatório que se encontra nos limites do acórdão atacado, caracteriza reexame de matéria fático-probatória ou apenas revaloração dos fatos incontroversos explicitados no decisum do TJ-PR" (e-STJ, fls. 1.273-1.274).
+Afirma que "os elementos de prova merecem ser devidamente valorados, e sobre os quais não há controvérsias. A conclusão lógica decorrente dessa recategorização dos fatos narrados é que eles tipificam o crime de tortura previsto no artigo 1º, II, da Lei n. 9.455/97, e não o delito de lesões corporais graves previsto no art. 129,§ 1º, I, do CP. Daí a necessidade de, em caso de não retratação pelo próprio Relator, submeter-se a tese jurídica (questão unicamente de direito) à apreciação do Órgão Colegiado" (e-STJ, fl. 1.276).
+Requer seja reformada a decisão agravada, a fim de restabelecer os termos da sentença que condenou o agravado pela prática do crime de tortura.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TORTURA. AUSÊNCIA DE INTENÇÃO DE CAUSAR SOFRIMENTO FÍSICO OU MENTAL OU DE APLICAR CASTIGO PESSOAL Á VÍTIMA. NEGATIVA DE VIGÊNCIA AO ART. 1º, II, C/C O § 4º, II, DA LEI 9.455/97. NÃO OCORRÊNCIA. ALTERAÇÃO DO JULGADO. NECESSIDADE DE REEXAME DO MATERIAL FÁTICO E PROBATÓRIO DO AUTOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo, soberano na análise dos elementos fáticos e probatórios dos autos, concluiu não existirem provas capazes de conduzir à certeza do propósito de causar sofrimento físico ou moral à vítima, ou seja, não ficou demonstrado o dolo específico necessário à caracterização do crime de tortura.
+2. Nesse contexto, a alteração do julgado, para o fim de condenar o réu pela prática do crime de tortura previsto no art. 1º, II, c/c §3º, da Lei 9.455/97, implicaria necessariamente o reexame do material fático-probatório dos autos, notadamente o Laudo de Exame de Lesões Corporais, Laudo de Exame de Sanidade Física, fotocópias do prontuário médico, testemunhos e depoimentos da vítima e do acusado. Todavia, tal providência é inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Com efeito, o Tribunal de origem reformou a sentença de primeiro grau, desclassificando a conduta do réu, antes enquadrada como crime de tortura - art. 1º, II, c/c §3º, da Lei 9.455/97 - para lesão corporal - art. 129, §1º, I, do Código Penal -, por entender que não restou demonstrado nos autos que o denunciado agiu com dolo de impor intenso sofrimento como forma de castigo ou medida preventiva à vítima, tal como alegado pelo Ministério Público Federal. A propósito, veja-se o seguinte trecho do aresto que julgou os embargos declaratórios, que bem esclarece a controvérsia:
+"O apelante foi condenado pela prática do seguinte delito:
+Art. 1º Constitui crime de tortura:
+II - submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico ou mental, como forma de aplicar castigo pessoal ou medida de caráter preventivo.
+No caso, é inegável que a vítima sofreu violência física. A materialidade do fato encontra-se amparada no Laudo de Exame de Lesões Corporais (fl. 242), no Laudo de Exame de Sanidade Física (fl. 243), nas fotocópias do. prontuário médico relacionado ao paciente [NOME] (fls. 304/341) e na informação dada pelos peritos do Instituto Médico Legal (fl. 480).
+A autoria também é certa, uma vez que o apelante relata que efetuou a prisão da vítima na noite dos fatos e a acompanhou durante todo o período da ocorrência. No mesmo sentido é o depoimento da vítima, pois reconheceu o apelante como o policial que realizou sua prisão e que lhe causou as lesões.
+Todavia, para a configuração desta modalidade do delito de tortura, exige-se a demonstração de dolo específico, qual seja, "causar intenso sofrimento físico ou mental, como forma de aplicar castigo pessoal ou medida de caráter preventivo", o que não ficou demonstrado no caso em apreço.
+Sobre o tema, Guilherme de Souza NUCCI leciona que aplicar castigo pessoal ou medida de caráter preventivo "não se trata de submeter alguém a uma situação de mero maltrato, mas, sim, ir além disso, atingindo uma forma de ferir com prazer ou outro sentimento igualmente reles para o contexto" .
+A vítima em seu depoimento não expôs qualquer tipo de atuação por parte do apelado com vontade de fazê-lo sofrer em demasia. O que se verifica das provas é que o réu promoveu as agressões porque estava irritado pelo fato de o ofendido ter ligado por diversas vezes para sua casa, importunando sua esposa e sua cunhada com palavras ofensivas, mesmo depois de ele ter pedido para que ele cessasse as ligações. Portanto, a vítima relata que fez ligações à casa do réu, o que motivou a prática das agressões ao ofendido, limitando-se a agredi-lo, sem qualquer demonstração da vontade específica de submetê-lo a sofrimento intenso.
+Desta feita, não verifico a presença de provas do dolo específico de causar sofrimento intenso ao ofendido apto a caracterizar o delito de tortura.
+Além disso, o ofendido afirma que ao ser liberado pelos policiais foi andando sozinho até a casa de sua ex-esposa, não evidenciando ter sido submetido a grande sofrimento físico. Apenas no dia seguinte aos fatos buscou, tendo descoberto as fraturas na costela, o que lhe causou certo sofrimento.
+Assim, me parece que se as lesões lhe tivessem causado tamanho sofrimento, intenso o suficiente para caracterizar o delito de tortura, ela teria ido diretamente buscar ajuda médica.
+Como se sabe, o intenso sofrimento requerido pelo tipo penal não serve para qualquer caso, especialmente quando a conduta do agente pode amoldar-se de forma mais coerente com outros delitos definidos pela lei penal, como o delito de lesão corporal ou maus-tratos.
+Nesse sentido têm decidido nossos Tribunais:
+ ..
+Desta feita, ante a inexistência de provas do dolo específico de causar sofrimento intenso, bem como a não comprovação de que a vítima sofreu em demasia, faz-se necessária a desclassificação do crime imputado ao acusado para o delito de lesão corporal, que melhor se adequa aos fatos demonstrados." (e-STJ, fl. 1.066-1.071.)
+Como se vê, o Tribunal a quo, soberano na análise dos elementos fáticos e probatórios dos autos, concluiu não existirem provas capazes de conduzir à certeza do propósito de causar sofrimento físico ou moral à vítima, ou seja, não ficou demonstrado o dolo específico necessário à caracterização do crime de tortura.
+Nesse contexto, a alteração do julgado, para o fim de condenar o réu pela prática do crime de tortura previsto no art. 1º, II, c/c §3º, da Lei 9.455/97, implicaria necessariamente o reexame do material fático-probatório dos autos, notadamente o Laudo de Exame de Lesões Corporais, Laudo de Exame de Sanidade Física, fotocópias do prontuário médico, testemunhos e depoimentos da vítima e do acusado. Todavia, tal providência é inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+No mesmo sentido:
+" ..
+1. A reforma do acórdão recorrido, que absolveu os recorridos pelos delitos de tortura e registro de cena pornográfica envolvendo criança - ao concluir que não foi demonstrado que o padrastro da menor (como tampouco sua mãe, por conduta omissiva) teria agido com a intenção de lhe causar sofrimento físico ou mental, que tampouco objetivava lhe aplicar castigo pessoal, e que não se demonstrou o dolo de expor a criança com conotação libidinosa - demandaria a alteração das premissas fático-probatórias estabelecidas na origem, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7/STJ.
+2. Agravo regimental improvido."
+(AgRg no REsp 1.671.783/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 08/05/2018, DJe 16/05/2018).
+" ..
+1. Para examinar se os recorrentes teriam agido com o dolo de submeter a vítima a intenso sofrimento físico ou mental, assim como o pleito de desclassificação para o crime de abuso de autoridade, seria necessário o aprofundado revolvimento do conjunto fático-probatório, o que é vedado na via eleita em razão das peculiaridades do seu rito.
+2. Recurso improvido."
+(RHC 30.353/RN, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/08/2013, DJe 04/09/2013).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto
