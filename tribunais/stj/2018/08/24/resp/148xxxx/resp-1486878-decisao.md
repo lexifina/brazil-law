@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 345/STJ. RECURSO AFETADO À SISTEMÁTICA DO ART. 1.036 DO CPC/2015: RESP. 1.648.238/RS, REL. MIN. GURGEL DE FARIA. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Recurso Especial interposto com fundamento nas alíneas a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+AGRAVO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA NÃO EMBARGADA CONTRA A FAZENDA PÚBLICA. OBRIGAÇÃO POR MEIO DE PRECATÓRIO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. Admitida a impossibilidade de fixação de honorários advocatícios nas execuções por quantia certa contra a Fazenda Pública não embargadas, salvo na hipótese de pagamento de obrigações definidos em lei como de pequeno valor, o que não é o caso dos autos, cujo valor em execução é de R$ 517.196,57, exigindo a satisfação da obrigação por meio de precatório.
+2. Ademais, no presente caso, não se está diante de execução de sentença advinda de ação civil pública ou ação coletiva, ajuizada por Associação ou Sindicato, como substitutos processuais, a atrair a aplicação da Súmula 345 do STJ.
+3. Agravo improvido (fls. 131).
+2. Nas razões do Apelo Especial, a recorrente sustenta, em síntese, que é cabível o arbitramento de honorários advocatícios na fase executória e a dispensa do recolhimento de custas pelo advogado, aproveitando-se a concessão da gratuidade de justiça na origem (fls. 160).
+3. É o relatório. Decido.
+4. O tema relativo à possibilidade de aplicação da Súmula 345/STJ diante da superveniência do art. 85, § 7o. do CPC/2015 foi afetado pelo eminente Ministro GURGEL DE FARIA à sistemática do art. 1.036 do CPC/2015, tendo sido destacado como paradigma o REsp. 1.648.238/RS, conjuntamente com o REsp. 1.648.498/RS e REsp. 1.650.588/RS. Confira-se o seguinte excerto da decisão que recebeu o mencionado recurso como representativo da controvérsia:
+Determino, para tanto, a adoção das seguintes providências:
+a) delimitação da seguinte tese controvertida: análise acerca da aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7º, do CPC/2015. b) suspensão da tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão, em todo o território nacional;
+c) comunicação, com cópia da decisão colegiada de afetação, aos demais Ministros desta eg. Corte Superior e aos Presidentes dos Tribunais de Justiça e dos Tribunais Regionais Federais;
+d) vista dos autos ao Ministério Público Federal para parecer, pelo prazo de 15 dias, nos termos do art. 1.038, III, § 1º, do CPC/2015, c/c o art. 256-M do RISTJ.
+5. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015 e da Resolução 8, de 7.8.2008 do STJ.
+6. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos dos arts. 1.040 e 1.041 do CPC/2015.
+7. Publique-se.
+8. Intimações necessárias.
