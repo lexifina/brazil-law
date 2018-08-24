@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com amparo no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ, fl. 184):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CÁLCULOS DO CONTADOR. HONORÁRIOS ADVOCATÍCIOS.
+I - Havendo divergência entre os cálculos apresentados pelas partes, devem ser aplicados na execução os valores apurados pela Contadoria do Juízo, por serem equidistantes dos interesses litigantes, e merecerem fé de ofício.
+II - Os honorários devem corresponder ao excesso encontrado. Isto porque o direito discutido é justamente a diferença entre o valor executado e o valor encontrado após o julgamento dos embargos.
+III - Apelação da União improvida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 197-202).
+Aponta a recorrente, nas razões do especial (e-STJ, fls. 206-215), violação dos arts. 20, § 4º, 21, caput, e 535 do CPC/1973.
+Este Tribunal, em decisão monocrática proferida pelo Ministro Castro Meira (e-STJ, fls. 260-261), reconheceu a alegada omissão do acórdão recorrido acerca da aplicabilidade dos dispositivos legais suscitados nos recursos ordinários, oportunidade em que foi dado provimento ao recurso especial, para determinar o retorno dos autos à origem, a fim de que seja sanado o vício apontado.
+Em nova apreciação dos aclaratórios, a Corte de origem deu provimento ao recurso, para sanar a aludida omissão, nos termos da seguinte ementa (e-STJ, fl. 309):
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. EXISTÊNCIA DE OMISSÃO.
+I. O § 4º do artigo 20 do CPC constitui exceção ao disposto no § 3º do referido dispositivo legal. Enquanto o § 3º preceitua que a verba honorária é fixada dentre o limite de 10% a 20% do valor da condenação, o § 4º estabelece hipótese de exceção, ao dispor que, nas causas de pequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação eqüitativa do juiz, atendidas as normas das alíneas "a", "b" e "c" do § 3º.
+II. Razoável o valor fixado pelo Juízo monocrático a título de honorários advocatícios em 10% do valor da referente à diferença entre o valor apresentado e o valor encontrado pela contadoria.
+III. Embargos de declaração providos.
+Nesta fase processual, sustenta a recorrente malferimento aos arts. 20, § 4º, e 21, caput, do CPC/1973. Pleiteia, em suma, que seja reconhecida a ocorrência da sucumbência recíproca, sob o argumento de que ambas as partes teriam sofrido perdas parciais nos seus pedidos.
+Informa que, "conforme reiteradamente aduzido nas razões de apelo da União, como também nos embargos declaratórios aventados, mostra-se clara a sucumbência recíproca das partes, uma vez que a sentença de fls. 118/120 reconheceu haver excesso de execução no pedido feito pela embargada - que executou o valor de R$ 283.477,26, sendo reconhecido pelo MM. Juízo a quo" o valor apresentado pela Contadoria do Juízo, no valor de R$ 168.195,28, o que demonstra um excesso de R$ 115.281,98" (e-STJ, fl. 212).
+Contrarrazões apresentadas às e-STJ, fls. 221-224.
+É o relatório.
+O Tribunal de origem, ao enfrentar a controvérsia, entendeu por "razoável o valor fixado pelo Juízo monocrático a título de honorários advocatícios em 10% do valor referente à diferença entre o valor apresentado e o valor encontrado pela contadoria" (e-STJ, fl. 307).
+Nesse contexto, verifico que não se mostra cabível examinar a referida questão na via eleita. Há jurisprudência pacífica desta Corte Superior no sentido de que "a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em sede de recurso especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula 7/STJ" (REsp 1.272.229/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 5/4/2016, DJe 13/4/2016).
+Na mesma linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR. AÇÃO REFERENTE A COBRANÇA DE DIFERENÇAS DO PISO SALARIAL NACIONAL DOS PROFISSIONAIS DO MAGISTÉRIO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. ART. 932, III, DO CPC/2015. DISCUSSÃO SOBRE A OCORRÊNCIA DE SUCUMBÊNCIA RECÍPROCA OU MÍNIMA, NA VIA ESPECIAL, PARA FINS DE REVISÃO DE DISTRIBUIÇÃO DE VERBA HONORÁRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 23/11/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Segundo entendimento desta Corte, "no caso de agravo em recurso especial, é perfeitamente admissível o julgamento monocrático, na forma do art. 932, III, IV e VIII, do CPC c/c o art. 253 do RISTJ, quando incidentes a Súmula 7 ou 83 desta Corte, nos exatos termos da Súmula 568/STJ. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental" (STJ, AgRg no AREsp 1.131.067/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 18/12/2017). Precedentes.
+III. A jurisprudência do STJ orientou-se no sentido de que, em sede de Recurso Especial, é vedada a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos, na demanda, bem como da proporção em que cada parte foi sucumbente, em relação ao pedido inicial, por tal ensejar o revolvimento de matéria eminentemente fática, a atrair o óbice do enunciado sumular 7/STJ. Nesse sentido: STJ, AgInt nos EAREsp 954.045/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 27/11/2017.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.194.497/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/5/2018, DJe 24/5/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
