@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], em 30/10/2017, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. PRISÃO POLÍTICA DURANTE O REGIME MILITAR.
+REPARAÇÃO CONCEDIDA AOS ANISTIADOS POLÍTICOS. LEI Nº 10.559/2002. INDENIZAÇÃO POR DANOS MORAIS. INACUMULABILIDADE. A Lei nº 10.559/2002, que regulamenta o disposto no artigo 8º dos Atos das Disposições Transitórias, instituindo o regime do anistiado político, prevê a concessão de indenização, que abarca danos materiais e morais, uma vez que veda a cumulação de pagamentos, benefícios ou indenização com o mesmo fundamento.
+Precedentes dos Tribunais e STJ" (fl. 688e).
+Houve a oposição de Embargos Declaratórios pelo recorrente, tendo sido parcialmente acolhidos, tão somente para fins de prequestionamento, pelo Tribunal de origem (fls. 761/721e).
+Após, diante da interposição de Recurso Especial pelo ora recorrente, esta Relatoria deu provimento à alegada ofensa ao art. 535, II, do CPC/73 para anular o acórdão dos aclaratórios e determinar o retorno dos autos à origem para novo julgamento (fls. 790/793e).
+Sendo assim, o Tribunal a quo proferiu novo acórdão, acolhendo os embargos de declaração antes opostos, nos seguintes termos:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. ANISTIA. INDENIZAÇÃO. ABRANGÊNCIA. DANOS MATERIAIS E MORAIS. PRECLUSÃO. Não tendo havido insurgência da União contra a decisão que reconheceu que a indenização concedida ao anistiado na esfera administrativa, com base na Lei n.º 10.559/2002 e art. 8º do ADCT da Constituição Federal de 1988, restringiu-se aos danos materiais sofridos no período da ditadura militar, operou-se a preclusão em relação a não inclusão no valor recebido dos danos morais suportados por ele" (fl. 825e).
+Opostos Embargos de Declaração pelo ora recorrente, foram rejeitados, por acórdão assim ementado:
+"ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE.
+Os embargos de declaração constituem recurso interposto perante o magistrado ou colegiado prolator da decisão impugnada, com vistas à supressão de omissão, contradição, obscuridade ou erro material no texto que possa dificultar a exata compreensão da manifestação judicial. E mesmo quando opostos com o objetivo de prequestionar matéria a ser versada em provável recurso extraordinário ou especial, devem atender aos pressupostos delineados no artigo 1.022 do CPC, pois não se prestam, por si só, para forçar o ingresso na instância superior, decorrendo, sua importância, justamente do conteúdo integrador da sentença ou do aresto impugnado.
+Com efeito, não se revelam meio hábil ao reexame da causa ou modificação do julgado no seu mérito, pois opostos quando já encerrado o ofício jurisdicional naquela instância" (fl. 855e).
+Alega-se, nas razões do Recurso Especial, além de dissídio jurisprudencial, ofensa aos artigos: a) 186, 944 do Código Civil de 2002 e 159 do Código Civil de 1916, sob a tese de que "o acórdão recorrido reconheceu o dever de indenizar do recorrido, mas data venia, equivocou-se ao arbitrar indenização por danos morais em valor insuficiente para a integral reparação dano, à luz das normas que regem a matéria e que, por certo, foram aplicadas à solução da lide" (fl. 871e); b) 398 do Código Civil de 2002 e 962 do Código Civil de 1916, eis que, em se tratando de responsabilidade extracontratual, os juros moratórios devem incidir desde a data do evento danoso.
+Requer, ao final, o provimento do Recurso Especial.
+Em sede de contrarrazões (fls. 927/933e), a parte recorrida afirma que incide, na espécie, o óbice da Súmula 7/STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 940e).
+Sem razão a parte recorrente.
+Na origem, trata-se de Ação Indenizatória ajuizada pela parte ora recorrida, com o objetivo de obter a condenação da UNIÃO ao pagamento de indenização por danos morais, em decorrência perseguição política durante o período militar.
+Julgada procedente a demanda, recorreu o autor e o réu, tendo havido o parcial provimento da remessa oficial, a negativa de provimento da Apelação da União e do autor.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, cabe destacar que o Tribunal de origem não se manifestou acerca do teor dos arts. 398 do Código Civil de 2002 e 962 do Código Civil de 1916, relativos à tese de que em se tratando de responsabilidade extracontratual, os juros moratórios devem incidir desde a data do evento danoso. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+No tocante à irresignação relativa ao quantum indenizatório, o Tribunal a quo, soberano na análise fática da causa, reconheceu a existência dos danos morais em decorrência de tortura sofrida durante o regime militar, mantendo a indenização que fora fixada na sentença, no valor de R$ 50.000,00 (cinquenta mil reais), nos seguintes termos:
+"No tocante ao pleito indenizatório deduzido pelo autor, não há reparos à sentença, que examinou, com profundidade, o acervo probatório existente nos autos e arbitrou o valor de R$ 50.000,00 em 14/12/2012, em conformidade com os parâmetros adotados em casos similares:
+(..)" (fl. 821e).
+Neste contexto, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Ademais, ressalte-se que a jurisprudência deste Tribunal permite o afastamento do óbice previsto na Súmula 7/STJ, apenas na hipótese de fixação em valor irrisório ou abusivo, inocorrentes no presente caso.
+A propósito, confira-se:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. PERSEGUIÇÃO POLÍTICA E TORTURA DURANTE O REGIME MILITAR. IMPRESCRITIBILIDADE DE PRETENSÃO INDENIZATÓRIA. INAPLICABILIDADE DO ART. 1º DO DECRETO N. 20.910/32. SÚMULA N. 83/STJ. CONFIGURAÇÃO DO DANO E REVISÃO DO VALOR ARBITRADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não se aplica a prescrição quinquenal do Decreto n.
+20.910/32 às ações de reparação de danos sofridos em razão de perseguição, tortura e prisão, por motivos políticos, afirmando a sua imprescritibilidade, incidindo, no caso, o enunciado da Súmula n. 83/STJ.
+2. Segundo entendimento desta Corte, não é possível revisar a decisão do Tribunal de origem que fixa o valor de indenização por danos morais, por importar na necessidade de reexame do conjunto fático-probatório, o que encontra óbice na Súmula n. 7/STJ.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.366.968/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/04/2015).
+Sinale-se, por fim, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
