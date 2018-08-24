@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO IRREGULAR. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. MÁ-FÉ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por BANCO RCI BRASIL S.A de decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao seu recurso especial, fundamentado na alínea "a" e "c" do permissivo constitucional, manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. IRREGULARIDADE DA NOTIFICAÇÃO EXTRAJUDICIAL REALIZADA. MORA FRAGILIZADA. LIMINAR REVOGADA.
+A ação de busca e apreensão possui como requisito a existência da mora, nos termos do art. 3º do Decreto-Lei n.º 911/69. Notificação extrajudicial via carta AR não efetivada. Não havendo elementos para demonstrar que a demandada tenha tomado ciência da notificação, a mora resta fragilizada, descabendo o deferimento da liminar de busca e apreensão. Liminar revogada e afastada a restrição pelo sistema RENAJUD. Pedidos de extinção da ação e de fixação de multa cominatória para caso de descumprimento da ordem judicial que devem ser deduzidos na origem, evitando-se a supressão de instância.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO. (e-STJ, fl. 213).
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 240 do CPC/2015, 113 e 422 do Código Civil e art. 3º do Decreto-Lei nº 911/1969. Sustenta, em síntese, que:
+No entanto, não se pode concordar que uma vez encaminhada a correspondência, e não entregue por motivos alheios aos atos do credor (recorrente/autor), seja-lhe negado a obtenção da tutela jurisdicional.
+Ora, nunca é demais observar que o Direito não coaduna com atos protelatórios e nem os inquinados de má-fé, tanto que se consagrou o brocardo nemo auditur propriam turpitudinem allegans segundo o qual ninguém poderá se valer da própria torpeza.
+Então, como se poderá impor ao credor o pressuposto de recebimento da correspondência, beneficiando o devedor que se descuidou de informar endereço no qual se poderia encontrar pessoa de confiança para receber correspondências da instituição financeira
+A interpretação esposada no v. acórdão ora impugnado adotou uma linha que beneficiou o devedor: muito fácil, basta que a correspondência (notificação com Aviso de Recebimento) não seja entregue para que o credor tenha de suportar os prejuízos decorrentes do inadimplemento contratual. (e-STJ, fls. 231)
+É o relatório.
+Passo a decidir.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Verifica-se que a pretensão da parte agravante não pode ser conhecida, haja vista ausência de prequestionamento quanto ao disposto nos arts. 240 do CPC/2015, 113 e 422 do Código Civil, bem como a não oposição do recurso de embargos de declaração, a fim de suprir eventual omissão do acórdão vergastado.
+Destarte, patente a incidência do óbice constante das Súmulas 282 e 356/STF.
+No que diz respeito à alegação de que restou comprovada a mora do devedor, assim se pronunciou o Tribunal de origem:
+Em que pese a instituição financeira tenha alegado em contrarrazões a regularidade na notificação extrajudicial realizada, inexistem elementos para demonstrar a regular constituição da demandada em mora, na medida em que a notificação extrajudicial encaminhada não foi entregue, porquanto ausente o destinatário (fl. 88).
+Ademais, não há nos autos indicativos de que quaisquer outras diligências tenham sido efetivadas para tentar realizar a notificação da devedora, não sendo possível afirmar que a fiduciante tenha tomado ciência de eventual notificação, de modo que a medida liminar de busca e apreensão deve ser revogada e o registro de restrição do veículo no Sistema RENAJUD excluído.
+Assim, para se alterar a conclusão do acórdão recorrido no sentido de considerar que "Depreende-se dos documentos oportunamente acostado aos autos pelo Recorrente, que está comprovada a mora do financiado uma vez que o contrato em discussão contém bem definido, o valor e a data do vencimento das prestações que não foram adimplidas" (e-STJ, fl. 230), como requer o recorrente em suas razões, seria necessária a incursão no contexto fático-probatório contido nos autos, procedimento vedado em sede especial, a teor da Súmula 7 deste Superior Tribunal de Justiça.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CONSTITUIÇÃO DO DEVEDOR EM MORA. NOTIFICAÇÃO EXTRAJUDICIAL. VALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. In casu, o v. acórdão estadual considerou válido o protesto do título por edital, uma vez que "restou cabalmente demonstrado que a notificação foi encaminhada no endereço do requerido, cópia da notificação extrajudicial (..) e, o AR foi recebido pelo representante legal".
+2. "A simples propositura da ação de revisão de contrato não inibe a caracterização da mora do autor" (Súmula 380/STJ). Ademais, na espécie, o Desembargador relator concluiu, quanto à ação revisional, que "nada foi modificado, pois a taxa pactuada foi de 20,84% ao ano, ou seja, aquém da que foi limitada no acórdão (f. 112)".
+3. Nesse contexto, a inversão do que foi decidido pelo Tribunal de origem demandaria, necessariamente, novo exame do acervo fático-probatório dos autos, providência que encontra óbice no enunciado da Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 205.032/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/10/2014, DJe 13/11/2014)
+Registre-se que, consoante jurisprudência desta Corte, a incidência da súmula 7/STJ inviabiliza o conhecimento do recurso lastreado, também, pela alínea "c" do permissivo constitucional.
+Ante o exposto, CONHEÇO do agravo para não conhecer do especial.
+Por fim, cumpre esclarecer que "não cabe a majoração dos honorários advocatícios nos termos do § 11 do art. 85 do CPC de 2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários" (AgInt no REsp 1.507.973/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 19/05/2016, DJe 24/05/2016).
+Intimem-se.
