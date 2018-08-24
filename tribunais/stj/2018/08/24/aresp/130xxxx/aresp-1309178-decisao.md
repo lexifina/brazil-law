@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Embargos do devedor. Instrumento particular de confissão de dívida assinado pelos devedores e duas testemunhas. Título executivo extrajudicial. Art. 585, II, CPC/1973, correspondente ao art. 784, III, do CPC/2015. Exame da dívida desde a origem. Alegações genéricas acerca da relação anterior. Art. 739-A, § 5º, CPC/1973, correspondente ao art. 917, § 3º, do CPC/2015. Revisão limitada ao excesso declarado na petição inicial. Ausência de prova do excesso apontado. Rejeição dos embargos do devedor. Imputação do ônus da sucumbência ao vencido.
+Agravo retido não provido. Apelação 1 não provida.
+Apelação 2 provida.
+A parte agravante sustenta que a regra do art. 739-A, § 5º, CPC/1973 somente pode ser aplicada quando houver intimação prévia do autor para emenda da inicial dos embargos. Argumenta que a realização da prova pericial supriu a falta de indicação dos valores indevidos, conforme reconhecidos na sentença. Alega que não foi possível elaborar a planilha com a indicação dos valores cobrados indevidamente porque não detinha todos os documentos necessários para sua elaboração.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+A alegação de impossibilidade de juntada da memória de cálculo com a inicial, por ausência de documentos suficientes para sua elaboração, só poderia ser verificada diante da análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto aos demais temas indicados no recurso especial, pois são estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública. Necessário ressaltar que esses temas não foram objeto dos embargos declaratórios opostos ao acórdão que julgou a apelação.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Intimem-se.
