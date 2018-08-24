@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado pelo Juízo Federal da 7ª Vara Criminal da Seção Judiciária do Estado de São Paulo em face do Juízo Federal da 2ª Vara da Seção Judiciária do Estado do Rio Grande do Sul, nos autos de inquérito policial instaurado para apurar a suposta prática do delito previsto no art. 273, §1º-B, inciso V, do Código Penal.
+Em breve síntese, extrai-se dos autos que o Juízo Federal da 2ª Vara da Seção Judiciária do Estado do Rio Grande do Sul, acolhendo pedido do Ministério Público Federal, declinou de sua competência em favor do Juízo Federal da 7ª Vara Criminal da Seção Judiciária do Estado de São Paulo, pois os delitos em apuração seriam relacionados a delitos que já teriam sido declinados para a Justiça Federal de São Paulo/SP.
+Recebidos os autos, o Juízo Federal de São Paulo/SP suscitou o presente conflito de competência sustentando seu decisium na Súmula 235 desta Corte pois, independentemente de haver ou não conexão dentre os fatos, a conexão não determinaria a reunião dos processos se um deles já tiver sido julgado, como é o caso dos autos, em que os processos anteriormente declinados já estariam com sentença prolatada (fl. 473-476).
+O Ministério Público Federal opinou, às fls. 486-488, pela declaração de competência do Juízo Federal da 2ª Vara da Seção Judiciária do Estado do Rio Grande do Sul, o suscitado, nos termos da Súmula 235/STJ.
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+Nos termos do artigo 105, I, "d" da Constituição Federal, é da competência desta Corte Superior decidir o presente conflito de competência envolvendo Juízos vinculados a tribunais diversos.
+A controvérsia está em definir qual juízo competente para processamento de inquérito policial que apura a suposta prática de comércio de anabolizantes e outras substâncias ilícitas em academias da cidade de Rio Grande/RS, fato que se enquadraria no art. o art. 273, §1º-B, inciso V, do Código Penal, já que fatos supostamente relacionados com esse teriam sido declinados ao Juízo Federal de São Paulo/SP.
+Analisando os argumentos de ambos os Juízos, entendo que é caso de incidência da Súmula 235 desta Corte, a qual dispõe que:
+ "A conexão não determina a reunião dos processos, se um deles já foi julgado."
+Dessa forma, diante do noticiado pelo Juízo suscitante, no sentido de que os processos supostamente conexos declinados à Justiça Federal Paulista já teriam sido julgados, entendo que a competência para processamento do inquérito policial é do Juízo Federal da 2ª Vara da Seção Judiciária do Estado do Rio Grande do Sul, ante a desnecessidade de reunião.
+Sobre o tema, os seguintes julgados desta Terceira Seção:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. TRÁFICO INTERNACIONAL DE DROGAS. CAIXA POSTAL. HOLANDA. SÃO PAULO. JUSTIÇA FEDERAL. LIAME INSTRUMENTAL ENTRE INQUÉRITO POLICIAL E AÇÃO PENAL JÁ JULGADA: IMPOSSIBILIDADE DE REUNIÃO DOS PROCESSOS (SÚMULA 235/STJ). PRECEDENTES DA TERCEIRA SEÇÃO.
+1. É inviável a reunião de processos supostamente conexos se um deles já foi julgado. Enunciado n. 235 da Súmula/STJ.
+2. Nessa linha de raciocínio, não se pode concluir pela competência do Juízo suscitante sempre que um mesmo autor de crime, nele já processado, vier a cometer o mesmo delito, ainda que em condições semelhantes.
+3. Liame instrumental existente na espécie. Entretanto, encontrando-se o feito já sentenciado, não há que se falar em prevenção do seu Juízo processante para eventuais crimes que a condenada vier a cometer, ainda que sob as mesmas condições.
+Precedentes.
+4. Conflito negativo conhecido para declarar a competência do Juízo Federal da 4ª Vara Criminal da Seção Judiciária do Estado de São Paulo-SP , o suscitado." (CC 154.407/PR, Terceira Seção, Rel. Min. Reynaldo Soares da Fonseca, DJe 20/10/2017, grifei)
+"CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS E ATIVIDADES DE RECEPTAÇÃO DE AUTOMÓVEIS, ROUBO E VENDA DE COMBUSTÍVEIS. INEXISTÊNCIA DE CONEXÃO PROBATÓRIA. GRANDE QUANTIDADE DE FATOS CRIMINAIS. SEPARAÇÃO RECOMENDADA.
+1. A grande quantidade de agentes e fatos revela como recomendável a separação, mesmo entabuladas as ações por grupo criminoso (conexão intersubjetiva por concurso), evitando a mora e tumulto processual.
+2. Situação de inexistência de conexão probatória, com diversidade de crimes e de suas circunstâncias de tempo, lugar e modo de ação.
+3. Incidência da Súmula n. 235 desta Corte Superior de Justiça, pois a conexão não determina a reunião dos processos se um deles já foi julgado.
+4. Conflito conhecido para declarar competente o Juízo Estadual, ora suscitante." (CC 113.013/AM, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe 21/08/2014)
+"CONSTITUCIONAL, PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CONEXÃO. REUNIÃO DE PROCESSOS. IMPOSSIBILIDADE, NO CASO DOS AUTOS, NA MEDIDA EM QUE UM DELES JÁ SE ENCONTRA JULGADO. INCIDÊNCIA DA ORIENTAÇÃO FIXADA PELA CORTE ESPECIAL DESTE SUPERIOR TRIBUNAL DE JUSTIÇA, POR MEIO DA SÚMULA 235.
+1. Na forma dos precedentes deste Superior Tribunal de Justiça, "Se o conflito positivo de competência se estabelecer por força de uma regra de conexão, ele não poderá ser conhecido se uma das sentenças foi proferida, ainda que sem trânsito em julgado, por força da Súmula 235/STJ." (CC 108.717/SP, Rel. Min. NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe 20/9/2010).
+2. No mesmo sentido: "Existindo conexão entre duas ações que tramitam perante juízos diversos, configurada pela identidade do objeto ou da causa de pedir, impõe-se a reunião dos processos, a fim de evitar julgamentos incompatíveis entre si. Não se justifica, porém, a reunião quando um dos processos já se encontra sentenciado, pois neste esgotou-se a função jurisdicional do magistrado anteriormente prevento. Incidência da Súmula n. 235/STJ." (CC 47.611/SP, Rel. Min. TEORI ALBINO ZAVASCKI, DJ de 2/5/2005).
+ ..
+4. Agravo regimental a que se nega provimento." (AgRg no CC 111.426/BA, Terceira Seção, Rel. Min. Og Fernandes, DJe 21/03/2012, grifei)
+Ante o exposto, conheço do conflito e declaro competente o Juízo Federal da 2ª Vara da Seção Judiciária do Estado do Rio Grande do Sul, o suscitado.
