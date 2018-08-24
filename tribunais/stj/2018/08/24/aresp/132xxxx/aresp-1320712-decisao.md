@@ -1,0 +1,47 @@
+EMENTA
+PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo manejado por [NOME] em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o juízo singular condenou o agravante como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena de 6 (seis) anos de reclusão, em regime fechado, além de 500 (quinhentos) dias-multa (fls. 560-604).
+O eg. Tribunal a quo negou provimento ao apelo da defesa, mantendo a sentença condenatória. O v. acórdão foi ementado nos seguintes termos (fls. 756-790):
+"TRÁFICO DE DROGAS. ASSOCIAÇÃO. INÉPCIA DA DENÚNCIA. VIOLAÇÃO DE DOMICÍLIO. AFRONTA À SÚMULA VINCULANTE Nº 11. OFENSA AO ARTIGO 400, DO CÓDIGO DE PROCESSO PENAL. INEXISTÊNCIA. PROVA. PROPÓSITO DE COMÉRCIO OU FORNECIMENTO CONFIGURADO. CONDENAÇÃO. APENAMENTO. MINORANTE. REGIME PRISIONAL. MULTA.
+Tendo um dos acusados em seu poder e os corréus em depósito as substâncias entorpecentes, como delito de que trata o art. 33, caput, da lei n2 11.343/2006, é de natureza permanente, encontrava-se presente a situação de flagrância, com o que a ação policial não demandava prévia obtenção de mandado de busca, estando autorizados os agentes policiais ao ingresso na residência, sem autorização dos moradores.
+Aliás, nos termos da norma constitucional tida por violada, a situação retratada nos autos situa-se nas exceções nela contempladas.
+Ao contrário do que ocorre no procedimento comum (ordinário, sumário e sumaríssimo), no especial rito da Lei 11.343/2006, o interrogatório é realizado no limiar da audiência de instrução e julgamento.
+A infração de que trata a regra contida no art. 33, caput, da Lei Antidrogas, não é caracterizada pela venda ou entrega, tão-somente, resultando incriminadas diversas outras condutas, como as de simplesmente levar consigo, guardar ou ter em depósito a substância entorpecente, desde que com tal propósito, desimportando tenham sido os agentes - ou não - flagrados realizando o comércio ou entrega, bastando que os elementos probatórios coligidos evidenciem tal intento.
+Caso em que resultou apreendida, em poder dos denunciados (um deles, reincidente), vultosa quantidade de crack - cento e sessenta e cinco pedras, pesando aproximadamente 30 gramas, e outras quinhentas e vinte e uma pedras, com peso aproximado de 89 gramas -, além de maconha (uma porção, com peso aproximado de 17,2 gramas), balança de precisão e materiais destinados ao fracionamento e à embalagem de substâncias entorpecentes, em diligência policial decorrente de denúncia noticiando o fracionamento e depósito de grande quantidade de drogas a serem distribuídas nessa capital e na região metropolitana, resultando evidente o propósito de comercialização.
+Condenações mantidas. Apenamento adequado."
+Opostos embargos de declaração, estes foram rejeitados (fls. 801-805).
+Interposto recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, a defesa alegou ofensa ao art. 33, § 4º, da Lei n. 11.343/2006.
+Apresentadas as contrarrazões (fls. 853-855), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 83/STJ, pois o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 879-893).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento do agravo em recurso especial (fls. 930-931).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 83/STJ.
+No caso, deveria o agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+2. E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 01/08/2017)
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido." (AgInt no AREsp 1140814/SP, Quinta Turma, de minha relatoria, DJe 16/02/2018)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA.
+VERBETE SUMULAR N. 182/STJ. 1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos." (AgRg no AREsp 1074077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 19/12/2017)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. NÃO OCORRÊNCIA. SÚMULA 283/STF. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. As razões do recurso especial não rebateram de forma específica fundamento suficiente para manter o acórdão recorrido, circunstância que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+2. "É descabido postular a concessão de habeas corpus, de ofício, como forma de tentar burlar a inadmissão do recurso especial".
+3. Agravo regimental desprovido." (AgRg no AREsp 1051954/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 19/12/2017)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, I, DO CP. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Compete ao recorrente, nas razões do agravo regimental, infirmar especificamente todos os fundamentos expostos na decisão agravada. Incidência do enunciado 182 da Súmula do Superior Tribunal de Justiça.
+2. "Nos termos do art. 112, I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado". (AgRg no RHC 74.996/PB, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe 19/09/2017)
+3. Agravo regimental não conhecido. Habeas Corpus concedido de ofício." (AgInt no AREsp 1156766/SP, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 28/11/2017)
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
