@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, em 18/08/2017, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+"TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO 110 PREVIDENCIÁRIA. VERBAS INDENIZATÓRIAS. COMPENSAÇÃO.
+1. NÃO INCIDE a contribuição previdenciária sobre as seguintes verbas considerando sua natureza indenizatória:
+- aviso prévio indenizado - REsp 1.230.957 - RS, "representativo da controvérsia", r. Ministro Mauro Campbell Marques, 1ª Seção do STJ.
+- 13º proporcional ao aviso prévio - AMS 0005162-98.2012.4.01.4200 - RR, r. Des. Federal Maria do Carmo Cardoso, 8ª Turma deste TRF1, em 21.03.2014; e AC 0004722-95.2013.4.01.3803 - MG, r. Des. Federal Reynaldo Fonseca, 7ª Turma deste TRF1.
+2. A compensação será realizada de acordo com a lei vigente na época de sua efetivação, vedada antes do trânsito em julgado (REsp 1.164.452-MG, "representativo da controvérsia", r. Ministro Teori Albino Zavaski, 1a Seção do STJ).
+3. Apelação da União desprovida. Remessa necessária parcialmente provida" (fl. 373e).
+Opostos Embargos de Declaração, foram eles rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. CONTRIBUIÇÃO PREVIDENCIÁRIA. VERBAS INDENIZATÓRIAS. INEXIGIBILIDADE.
+1. Inexistência de omissão, contradição ou obscuridade relativamente à inexigibilidade da contribuição previdenciária sobre verbas de natureza indenizatória, conforme precedentes do STJ e deste Tribunal.
+2. Embargos declaratórios da União desprovidos" (fl. 388e).
+Nas razões do Recurso Especial, a parte alega ofensa aos arts. 1.022, do CPC/2015, 22 e 28, da Lei 8.212/91.
+Sustenta a parte recorrente, de início, a existência de omissão, não suprida em sede de Embargos Declaratórios, quanto a "a incidência da contribuição previdenciária sobre o reflexo do aviso prévio indenizado sobre o décimo terceiro salário, bem assim os preceitos legais incidentes na espécie, para fins de integral prequestionamento. Foi requerida, também, manifestação a respeito do regime jurídico da compensação ser o vigente ao tempo do ajuizamento da ação" (fls. 393/394e).
+Assevera, de outra parte, em síntese, que é devida a contribuição previdenciária sobre os valores pagos a título de décimo terceiro salário proporcional ao aviso prévio, pelo que aduz o seguinte:
+"Impende salientar que, a teor do art. 22 da Lei n. 8.212/91, a contribuição previdenciária incide sobre o total das remunerações pagas, a qualquer título.
+Ademais, a orientação adotada pela r. decisão embargada está superada no âmbito do col. Superior Tribunal de Justiça, que, com base na Carta Constitucional e na legislação de regência, entende que ser possível a incidência de contribuição previdenciária sobre as verbas acima destacadas.
+O acórdão desconsiderou as disposições contidas nos artigos 22 e 28, da Lei 8.212/91, cujo parágrafo 9º dispõe que:
+(..)
+Da combinação do mencionado artigo com o dispositivo constante no artigo 22, do mesmo diploma legal, percebe-se que os valores do décimo terceiro proporcionais ao aviso prévio indenizado integram, para todos os fins, a base de cálculo sobre a qual deve incidir a contribuição previdenciária. Veja-se o dispositivo abaixo:
+(..)
+Assim, a base de cálculo da contribuição previdenciária nada tem com o caráter indenizatório da verba ou a sua correspondência nos benefícios a serem auferidos pelo aposentado.
+Não resta dúvida que não há identidade entre salário de benefício e salário de contribuição, não havendo que se falar sinalagma na prestação (e assim forçar a conclusão de que não havendo correspondência no benefício, não há que incidir a exação). O texto acima esclarece que essa identidade não passa de uma falsa impressão e que, na realidade, não existe.
+Da mesma forma, a verba indenizatória, sobre a qual não incide, por exemplo, o imposto de renda, não pode ser objeto de exclusão da incidência da contribuição, pois o conceito de verba indenizatória não interessa ao direito previdenciário para fins de incidência da contribuição.
+Considere-se o art. 28 da Lei 8212/91, acima transcrito. Curiosamente, importa menos a expressão ".. a qualquer título .." do que a ".. quer pelos serviços efetivamente prestados, quer pelo tempo à disposição do empregador ou tomador de serviços ..".
+A expressão ".. a qualquer título ..", contida no dispositivo supra transcrito, confere noção acerca da generalidade pretendida pela mens legislatoris. A intenção do legislador foi, definitivamente, abarcar a maior quantidade de rubricas possível e pôr fim à criatividade dos contratantes no momento de nomear parcelas eminentemente retributivas.
+Ademais, o artigo 28, da Lei nº 8.212/91 encerra, ao seu § 9º, rol de rubricas isentas de contribuição social. Divergências já se estabeleceram sobre a natureza do referido rol. Contudo, observada a parte inicial do § sob análise, resta de clarividência axiomática a sua taxatividade. Definitivamente, numerus clausus. Não enumera, não exemplifica, mas sim encerra. Dessa forma, isentas de contribuição social estariam tão somente as rubricas constantes do rol mencionado. A contrario sensu, rubricas ausentes do rol de isenção compõem a base de incidência de contribuição social.
+Assim, merece ser mantida a tributação sobre as verbas em discussão.
+(..)
+Não bastassem as considerações acima, necessário que se reconheça que o pagamento realizado pelo recorrido a título de décimo terceiro proporcional ao aviso prévio indenizado em favor de seus empregados, integra a folha de salários e é decorrente do vinculo de trabalho.
+Impende observar que o posicionamento da Corte a quo violou diretamente os dispositivos legais que disciplinam a cobrança da contribuição previdenciária além de ter divergido da atual e reiterada orientação do Superior Tribunal de Justiça.
+Por ambos os aspectos que se analise a questão, conclui-se que a cobrança da contribuição previdenciária é legítima, não tendo a Eg. Corte a quo proferido a mais adequada decisão, perfilhando posicionamento que viola os dispositivos legais aplicáveis à espécie e divergindo da orientação do Tribunal Superior.
+(..)
+Da leitura conjunta das disposições legais acima destacadas (arts. 22 e 28 da Lei 8.212/91), a única conclusão possível é a que as verbas em questão possuem natureza remuneratória e, como tal são passíveis de incidência da contribuição previdenciária - inclusive ao RAT -, especialmente, por não se encontrarem inseridas no rol taxativo de exclusão disposto no art. 28, §9º da Lei nº 8.212/91.
+Em resumo, ao afastar a contribuição previdenciária sobre as parcelas discutidas houve a inobservância do disposto nos arts. 22 e 28 da Lei nº 8.212/91, configurando, portanto, verdadeira afronta às regras insertas nestas normas" (fls. 394/401e).
+Requer, ao final, o "provimento do recurso especial, a fim de: a) anular-se o acórdão recorrido, relativamente às omissões destacadas pela recorrente, determinando-se o retorno dos autos ao Tribunal de origem para novo julgamento do feito; b) sucessivamente, considerando-se que os demais temas estão em condição de exame, reformar-se o v. julgado, para se afastar a ofensa aos dispositivos infraconstitucionais" (fl. 401e).
+Em sede de contrarrazões, a parte recorrida defende a manutenção do acórdão impugnado (fls. 404/418e).
+O Recurso Especial foi admitido pelo Tribunal a quo (fl. 420e).
+Na origem, trata-se de Mandado de Segurança impetrado pela parte ora recorrida com o objetivo de não ser compelida ao recolhimento da contribuição social previdenciária patronal incidente sobre o aviso prévio indenizado e a respectiva parcela do décimo terceiro salário, bem como a compensação dos valores recolhidos indevidamente a tais títulos.
+Concedida a segurança, recorreu a Fazenda Nacional, restando mantida a sentença pelo Tribunal regional e tendo sido dado parcial provimento à remessa necessária apenas para estabelecer que a compensação do indébito observe a lei vigente na data em que for efetivada e afirmar que incidem somente juros moratórios mensais equivalentes à taxa Selic.
+Os Embargos de Declaração opostos foram rejeitados.
+Daí a interposição do presente Recurso Especial, cujo objeto se restringe ao pleito de reconhecimento da incidência da contribuição previdenciária sobre o décimo terceiro salário proporcional ao aviso prévio indenizado.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+No mérito, com razão a Fazenda Nacional.
+Conforme relatado, o Tribunal regional entendeu que não incide a contribuição previdenciária sobre o aviso prévio indenizado e a respectiva parcela proporcional de décimo terceiro salário.
+Com efeito, a Primeira Seção do Superior Tribunal de Justiça, ao apreciar o Recurso Especial Repetitivo 1.230.957/RS, sob o rito do art. 543-C do CPC, decidiu pela não incidência de contribuições previdenciárias sobre o aviso prévio indenizado, por não se tratar de verba salarial.
+No entanto, no que tange à cobrança de contribuições previdenciárias sobre o décimo terceiro salário proporcional ao aviso prévio indenizado, deve prevalecer o entendimento firmado, no Recurso Especial Repetitivo 1.066.682/SP, julgado pela Primeira Seção, sob o rito do art. 543-C do CPC, no sentido de que o décimo terceiro salário (gratificação natalina) integra o salário de contribuição para fins de incidência de contribuição previdenciária.
+Nesse sentido:
+"TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE 13º SALÁRIO PROPORCIONAL AO AVISO PRÉVIO. PRECEDENTES. (..)
+1. Esta Corte já decidiu legitima a incidência de contribuição previdenciária sobre os valores relativos ao décimo terceiro salário proporcional ao aviso prévio indenizado, ante o caráter remuneratório de tal verba. Precedentes: AgRg no REsp 1.569.576/RN, Rel. Min. Sergio Kukina, Primeira Turma, DJe 01/03/2016; AgInt no REsp 1.420.490/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 16/11/2016.
+2. (..).
+3. Agravo interno parcialmente provido" (STJ, AgInt no REsp 1.536.082/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 21/11/2017).
+"TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL PREVIDENCIÁRIA. INCIDÊNCIA SOBRE O DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO. DIVERGÊNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDENCIA DO STJ.
+I - A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que é devida a contribuição previdenciária sobre o décimo terceiro salário proporcional ao aviso prévio, em virtude da natureza remuneratória da parcela ora em apreço.
+II - Agravo interno improvido" (STJ, AgInt no REsp 1.672.915/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 31/10/2017).
+"TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO. NÃO INCIDÊNCIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MONOCRÁTICA. INAPTIDÃO.
+1. Embora o Superior Tribunal de Justiça tenha consolidado jurisprudência no sentido de que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, por não se tratar de verba salarial, relativamente à incidência da exação sobre o décimo terceiro salário proporcional no aviso prévio indenizado, prevalece o entendimento firmado em sede de recurso repetitivo, de que o décimo terceiro salário (gratificação natalina) integra o salário de contribuição para fins de incidência de contribuição previdenciária.
+2. (..).
+Agravo regimental improvido" (STJ, AgRg nos EDcl nos EDcl no REsp 1.379.550/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/04/2015).
+"TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GRATIFICAÇÃO NATALINA PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA.
+1. A jurisprudência do STJ consolidou-se no sentido de que não incide contribuição previdenciária sobre os valores pagos a título de aviso prévio indenizado, por não se tratar de verba salarial.
+2. A gratificação natalina, por ostentar caráter permanente, integra o conceito de remuneração, sujeitando-se, consequentemente, à contribuição previdenciária. A Lei 8.620/1993, em seu art. 7º, § 2º, autorizou expressamente a incidência da contribuição previdenciária sobre o valor bruto do 13º salário.
+3. Nesse contexto, a circunstância de o aviso prévio indenizado refletir na composição da gratificação natalina é irrelevante, devendo a contribuição previdenciária incidir sobre o total da respectiva verba.
+4. Assim, os valores relativos ao 13º proporcional ao aviso prévio indenizado por possuem natureza remuneratória (salarial), sem o cunho de indenização, sujeitam-se à incidência da contribuição previdenciária.
+5. Agravo Regimental não provido" (STJ, AgRg no REsp 1.383.613/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/10/2014).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial para reconhecer a incidência de contribuição previdenciária sobre os valores pagos a título de décimo terceiro salário proporcional ao aviso prévio indenizado.
+I.
