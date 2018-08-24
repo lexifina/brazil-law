@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONDOMINIO RESIDENCIAL ILHAS GREGAS contra decisão monocrática desta Relatoria que conheceu do agravo para não conhecer do recurso especial, ao fundamento de que o entendimento firmado pelo v. acórdão recorrido demandaria revolvimento do acervo fático-probatório dos autos, o que atraiu a incidência da Súmula n. 7/STJ.
+Nas razões dos embargos, sustenta a embargante que houve omissão na referida decisão, na apreciação dos seguintes pontos: "a)"ciência inequívoca" é considerada a partir do ato de o ilustre Perito protocolar seu laudo (físico), desconsiderando os debates promovidos após, tais as impugnações, mais as respostas às impugnações ou; b) Se a ciência inequívoca é considerada a partir da homologação do Laudo pelo Juízo de origem" (fl. 561).
+A parte embargada apresentou impugnação às fls. 564-569.
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material.
+Com efeito, não se verifica a apontada omissão, uma vez que a decisão vergastada pronunciou-se expressamente sobre a questão relacionada ao momento de ciência inequívoca dos vícios redibitórios objurgados, concluindo pelo não conhecimento da matéria, conforme se depreende da leitura do seguinte excerto (fls. 549-550):
+ "Nas razões recursais, sustenta a recorrente vulneração ao art. 445, § 1º do Código Civil, em síntese, ao argumento de que: "a interpretação do artigo 445 parágrafo primeiro do Código Civil, deve ser no sentido de que corre o prazo decadencial de um ano a partir da homologação do laudo, ato que concretiza e evidencia a ciência inequívoca do dano causado"(fl. 489).
+ Por sua vez, o eg. TJ-SP assentou que decaiu o prazo ânuo de ajuizamento da ação para exercício da pretensão redibitória. É o que se verifica in verbis (fl. 480):
+"Considerando-se que os condôminos tomaram total conhecimento do todos os vícios da coisa quando da divulgação do laudo pericial, em abril de 2009, o ajuizamento da ação ocorreu após a consumação do prazo decadencial de 1 ano, de que trata o §1º do art. 445 do Código Civil".
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, ora transcrito, a fim de perquirir o momento da ciência inequívoca dos condôminos acerca dos vícios redibitórios no imóvel objurgado, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe as Súmula 7 deste Pretório".
+A esse respeito, impende consignar que não conhecer de determinado pleito recursal não significa omissão ou negativa de prestação jurisdicional, mas, sim, manifestação relativa à admissibilidade, o que também faz parte da atividade do julgador, mesmo que isso contrarie o interesse da parte.
+No caso dos autos, não se conheceu do apelo nobre, ao fundamento de aplicação das Súmula n. 7/STJ, portanto, não há que se falar em omissão relativa ao mérito recursal, uma vez que os óbices de admissibilidade impedem o conhecimento deste. Nesse sentido, colhe-se o seguinte julgado:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ART. 535 DO CPC. INOVAÇÃO RECURSAL NOS EMBARGOS OPOSTOS NA ORIGEM. NÃO MANIFESTAÇÃO DO TRIBUNAL LOCAL. INEXISTÊNCIA DE VIOLAÇÃO. ALEGAÇÃO DE OMISSÃO QUANTO AOS DISPOSITIVOS LEGAIS CONFIGURADORES DE INOVAÇÃO RECURSAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. NO MÉRITO, ÓBICE À ANÁLISE DESSES MESMOS DISPOSITIVOS LEGAIS, NESTA SEDE RECURSAL, POR AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+(..)
+4. "Inviável o conhecimento de tese vinculada ao mérito quando se observa que o recurso especial não ultrapassou sequer o juízo de admissibilidade e quando revestida de inovação recursal" (AgRg no AREsp 374.352/BA, SEGUNDA TURMA, Rel. Ministro HUMBERTO MARTINS, julgado em 1º/10/2013, DJe de 9/10/2013)
+5. Agravo regimental não provido".
+(AgRg no Ag 1350540/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/02/2014, DJe 28/03/2014 - grifou-se)
+De ver-se, portanto, que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
