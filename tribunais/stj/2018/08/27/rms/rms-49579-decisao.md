@@ -1,0 +1,34 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. REENQUADRAMENTO FUNCIONAL. EXTENSÃO DA FORMA DE REMUNERAÇÃO A SERVIDOR INATIVO. PARIDADE. LEI 18.276/2013. ATO ÚNICO DE EFEITOS CONCRETOS. DECADÊNCIA NA IMPETRAÇÃO. ART. 23 DA LEI 12.016/2009. RECURSO ORDINÁRIO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Ordinário em Mandado de Segurança interposto por [NOME] contra acórdão do TJGO que denegou a ordem, nos termos da seguinte ementa:
+MANDADO DE SEGURANÇA. REENQUADRAMENTO FUNCIONAL. EXTENSÃO DA FORMA DE REMUNERAÇÃO A SERVIDOR INATIVO. PARIDADE. LEI 18.276/2013. ATO DE EFEITOS CONCRETOS. DECADÊNCIA.
+I- O regramento que reestruturou a carreira do pessoal ativo da Agência Goiana de Transportes e Obras (AGETOP) e dispôs sobre a forma de enquadramento conferida aos aposentados e pensionistas, configura ato legislativo único de efeitos concretos, não se tratando, portanto, de relação jurídica de trato sucessivo, pelo que o prazo decadencial de 120 (cento e vinte) dias, para impetração de mandado de segurança, tem como marco inicial a data em que a legislação vergastada entrou em vigor.
+II- O pedido de reconsideração de ato administrativo não interrompe o prazo decadencial para impetração do mandado de segurança, a teor da Súmula 430/STF.
+DECADÊNCIA RECONHECIDA. SEGURANÇA DENEGADA (fls. 183/184).
+2. Irresignada, pretende a parte recorrente que seja afastada a decadência e concedida a segurança para equiparação dos proventos de aposentadoria ao subsídio percebido pelos Servidores da ativa, ocupantes no mesmo cargo que se aposentou.
+3. O douto Ministério Público Federa manifestou-se pelo desprovimento do recurso.
+4. É o relatório.
+5. A jurisprudência desta Corte Superior de Justiça afirma que o enquadramento do Servidor Público é ato único de efeitos permanentes, iniciando-se a contagem do prazo decadencial para impetração do mandamus a partir da ciência do ato impugnado e que o ato impugnado concretiza-se com a publicação da Lei Estadual.
+6. A propósito, os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REENQUADRAMENTO ALEGADAMENTE FEITO DE FORMA INCORRETA. DECADÊNCIA.
+1. Trata-se de Mandado de Segurança com pedido para que o impetrante seja reenquadrado no cargo de Agente de Atividade Agropecuária. Sustenta que, em 1994, foi indevidamente transposto para o cargo de Técnico em Colonização  em desconformidade com as Leis 5.645/70, 5.524/68, 8.112/90, 8.460/92 e com a Constituição da República  , tendo em vista que sua formação técnica atenderia às exigências para o enquadramento na função de Agente de Atividade Agropecuária.
+2. O impetrante, na verdade, contesta o ato que, em 15.9.1989, o reenquadrou na função de Técnico de Colonização, sendo a alegação de que estaria se voltando contra a omissão da autoridade coatora em reenquadrá-lo mera tentativa de alterar a realidade dos fatos para afastar consequência a ele desfavorável.
+3. Poder-se-ia cogitar de omissão da autoridade coatora, se, após o reenquadramento feito, houvesse surgido alteração legislativa que conduzisse à necessidade de novo reenquadramento. Todavia, se o impetrante afirma que o reenquadramento foi originalmente feito de forma errada, ele está, sim, contestando o ato concreto.
+4. É firme no STJ o entendimento de que o ato de enquadramento/reenquadramento é único de efeitos concretos, cujo prazo decadencial para a impetração do Mandado de Segurança tem início na ciência do ato impugnado. Nesse sentido: AgRg no MS 14.961/DF, Rel. Ministro Mauro Cambpell Marques, Primeira Seção, DJe 12.11.2012; AgRg no RMS 32.739/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 21.5.2014; AgRg no RMS 27.873/MT, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 8.9.2014.
+5. Segurança denegada (MS 21.886/DF, Rel. Min. HERMAN BENJAMIN, DJe 3.5.2017).
+
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. MILITAR. PROVENTOS. PRETENSÃO DE REVISÃO DA APOSENTADORIA POR REENQUADRAMENTO. ATO ÚNICO DE EFEITOS CONCRETOS. INAPLICABILIDADE DA SÚMULA 85/STJ. PRECEDENTES.
+1. Recurso ordinário no qual os impetrantes alegam que não haveria falar em decadência no seu pleito de modificação do enquadramento funcional ocorrido quando da sua aposentadoria; suscitam que haveria omissão e, assim, que deveria incidir a Súmula 85/STJ.
+2. Esclarecem os autos que os servidores inativos postulam que as suas aposentadorias deveriam ter como base a reorganização hierárquica local efetivada pelas Leis Estaduais 7.145/97 e 11.356/2009.
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o reenquadramento configura ato de efeitos concretos, cujo marco inicial é a ciência do ato lesivo, tendo o prazo para impetração judicial o limite de 120 (cento e vinte) dias, em razão do art. 23 da Lei 12.016/2009. Precedentes: AgRg no RMS 27.873/MT, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 8.9.2014; AgRg no RMS 32.739/MS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 21.5.2014; e RMS 38.474/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27.3.2014.
+Agravo regimental improvido (AgRg no RMS 49.665/BA, Rel. Min. HUMBERTO MARTINS, DJe 19.4.2016).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CARÁTER MANIFESTAMENTE INFRINGENTE. SERVIDOR PÚBLICO ESTADUAL. LEI 13.666/02. ENQUADRAMENTO. LEI DE EFEITOS CONCRETOS. MANDADO DE SEGURANÇA. IMPETRAÇÃO. MARCO INICIAL. CIÊNCIA DO ATO IMPUGNADO. DECADÊNCIA. ART. 18 DA LEI 1.533/51.
+1. Embargos de declaração recebidos como agravo regimental, dado o seu caráter manifestamente infringente, em observância ao princípio da fungibilidade recursal.
+2. A jurisprudência desta Corte Superior de Justiça orienta-se no sentido de que o enquadramento do servidor público é ato único de efeitos permanentes, iniciando-se a contagem do prazo decadencial para impetração do mandamus a partir da ciência do ato impugnado.
+3. O ato impugnado concretizou-se com a publicação da Lei Estadual 13.666/02, ocorrida em 5.7.2002. Como a impetração do mandado de segurança se efetivou somente em 19.5.2008, quando já ultrapassado o prazo de 120 (cento e vinte) dias, impõe-se o reconhecimento da decadência da ação mandamental, nos termos do art. 18 da Lei 1.533/51 (vigente à época da propositura).
+4. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento (EDcl no RMS 29.189/PR, Rel. Min. OG FERNANDES, DJe 9.11.2011).
+7. No caso dos autos, a Lei Estadual 18.276/13 foi editada em 20.12.2013. Contudo o Mandando de Segurança só foi impetrado em 20.5.2015, mais de 120 dias depois da vigência da norma, restando clara a decadência operada, devendo ser mantido, incólume, o acórdão hostilizado.
+8. Diante do exposto, nego provimento ao recurso.
+9. Publique-se.
+10. Intimações necessárias.
