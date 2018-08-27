@@ -1,0 +1,26 @@
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO, PELO JUÍZO TRABALHISTA, DE CRÉDITOS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. RECONHECIMENTO.
+DECISÃO
+Agral S.A. - Agrícola Aracanguá - em recuperação judicial suscita o presente conflito positivo de competência, apontando como suscitados o Juízo de Direito da 2ª Vara Cível de Araçatuba/SP e o Juízo da 3ª Vara do Trabalho de Teresina/PI.
+Na espécie, noticia que, "em 28/2/2014, a Suscitante, em conjunto com outras empresas do Grupo Aralco, formulou pedido de recuperação judicial, o qual foi distribuído perante o d. Juízo suscitado da 2ª Vara Cível da Comarca de Araçatuba/SP (doc. 3), que verificando estarem presentes os pressupostos e condições estipuladas pela Lei 11.101/2005 deferiu o seu processamento (doc. 4)" (e-STJ, fl. 3), ficando, dessa forma, competente para dirimir todas as questões patrimoniais desta.
+Não obstante o deferimento da recuperação judicial, o Juízo da 3ª Vara do Trabalho de Teresina/PI determinou o prosseguimento da execução, com diversas ordens de atos constritivos como bloqueio de ativos da suscitante através dos sistemas BACENJUD e RENAJUD.
+Diante dessas considerações, pediu liminarmente (e-STJ, fl. 11):
+(i) seja suspensa a decisão proferida pelo MM. Juízo da 3ª Vara do Trabalho de Teresina/PI nos autos da reclamação trabalhista n 0080637-04.2014.5.22.0003 ajuizada por [NOME], que determinou a continuidade da execução, com atos constritivos no patrimônio da Suscitante (novamente, doc. 5).
+(ii) seja designado o MM. Juízo da 2ª Vara Cível da Comarca de Araçatuba/SP para, em caráter provisório, resolver as medidas urgentes que versem sobre todas as questões do patrimônio da Suscitante e demais empresas que compõem o Grupo Aralco, que está em recuperação judicial.
+A liminar foi deferida às fls. 56-58 (e-STJ), para determinar a imediata suspensão da execução trabalhista nos autos do Processo n. 0080637-04.2014.5.22.0003, em trâmite no Juízo da 3ª Vara do Trabalho de Teresina/PI, ficando designado o Juízo da 2ª Vara Cível da Comarca de Araçatuba/SP para dirimir, em caráter provisório, as questões urgentes.
+Foram prestadas as informações por ambos os Juízos suscitados (e-STJ, fls. 74-77).
+O Ministério Público Federal opinou pelo reconhecimento da competência do Juízo da recuperação judicial (e-STJ, fls. 80-84).
+Brevemente relatado, decido.
+De acordo com a jurisprudência desta Corte, compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento.
+Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Após o deferimento da recuperação judicial, é do juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa recuperanda.
+2. Nesses casos, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução). 3. Agravo interno não provido. (AgInt no CC n. 147.032/RJ, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 19/9/2017)
+Frise-se, por oportuno, que a jurisprudência consolidada no âmbito da Segunda Seção desta Corte de Justiça reconhece ser o Juízo em que se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que tenham origem em créditos trabalhistas, os quais englobam os depósitos recursais efetivados em demandas trabalhistas.
+Confira-se, a esse respeito, o seguinte julgado:
+CONFLITO DE COMPETÊNCIA - JUSTIÇA TRABALHISTA E JUÍZO FALIMENTAR - EXECUÇÃO DE CRÉDITO TRABALHISTA - DEPÓSITO RECURSAL - LEVANTAMENTO - POSSÍVEL PREJUÍZO AOS DEMAIS CREDORES HABILITADOS - CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO R. JUÍZO UNIVERSAL DA FALÊNCIA.
+1. A decretação da falência carreia ao juízo universal da falência a competência para distribuir o patrimônio da massa falida aos credores conforme as regras concursais da lei falimentar, inclusive, decidir acerca do destino dos depósitos recursais feitos no curso da reclamação trabalhista, ainda que anteriores à decretação da falência.
+2. Por essa razão, após a quebra, é inviável o prosseguimento de atos de expropriação patrimonial em reclamações trabalhistas movidas contra a falida perante a Justiça do Trabalho. 3. Conflito conhecido para declarar a competência do r. juízo falimentar. (CC 101477/SP, Relator o Ministro Massami Uyeda, Segunda Seção, DJe de 12/5/2010)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara Cível de Araçatuba-SP.
+Dê-se ciência aos Juízos suscitados.
+Publique-se.
