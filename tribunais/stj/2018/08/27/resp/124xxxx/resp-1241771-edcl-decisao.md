@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela Fazenda Nacional contra decisão por mim proferida no processo em epígrafe, pela qual dei provimento ao recurso especial da parte contribuinte, ao fundamento de ser inexigível na execução fiscal multa administrativa imposta contra a massa falida.
+A parte embargante, em suas razões, sustenta que a decisão embargada incidiu em contradição, "quando reconheceu a necessidade de exclusão das multas em sua fundamentação e concluiu, em seu dispositivo, pela extinção da execução, uma vez que remanescem valores de principal a serem pagos à União" (fls. 363/364).
+Aberta vista à parte embargada, Construtora Técnica da Máquinas S/A Cotema apresentou a impugnação de fls. 398/399, concordando com o pleito fazendário (fls. 367/368).
+É o relatório.
+Compulsando os autos, verifica-se que, de fato, a decisão embargada incorreu em erro material ao reconhecer, com base na jurisprudência do STJ, a inexigibilidade das multas administrativas em face da massa falida, e determinar a extinção da execução fiscal. Com efeito, no ponto, deveria ter sido determinada a exclusão das multas do feito executivo, e não a extinção do processo.
+Logo, no ponto, os presentes aclaratórios merecem ser acolhidos, com efeitos infringentes, devendo ser feita a seguinte alteração na parte dispositiva da decisão de fls. 335/338: onde estava dito "Ante o exposto, dou provimento ao recurso especial, para declarar extinta a execução fiscal, nos termos da fundamentação desta decisão." (fl. 338), leia-se: "Ante o exposto, dou provimento ao recurso especial, para decotar da execução fiscal os valores relativos às multas administrativas, nos termos da fundamentação desta decisão."
+Assim, acolho os embargos, com efeitos infringentes, para sanar o vício apontado, nos termos da fundamentação.
+Publique-se.
