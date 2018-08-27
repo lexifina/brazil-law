@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por [NOME] TAUBATÉ - COOPERATIVA DE TRABALHO MÉDICO, em face de decisão que não admitiu recurso especial (fls. 455-487, e-STJ).
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 378-388, e-STJ):
+PLANO DE SAÚDE. Paciente acometido de tratamento cirúrgico de hérnia discal. Solicitação cobertura do procedimento e dos materiais e insumos solicitados pelo médico especialista. Negativa de cobertura ou fornecimento de um dos produtos solicitados (duragen), a pretexto de ser desnecessário. Abusividade reconhecida. Danos morais configurados. Precedentes do STJ. Sentença mantida. Recurso desprovido.
+Nas razões do recurso especial (fls. 391-424, e-STJ), a recorrente aponta violação aos artigos 186, 927, 944 do Código Civil, bem como dissídio jurisprudencial quanto à interpretação dos aludidos dispositivos legais. Sustenta, em síntese, que: a) inexistiu negativa de cobertura no caso, uma vez o material autorizado para a realização do procedimento médico era adequado; b) diante da ausência de ilicitude, é descabida a condenação por danos morais; c) não restou comprovada lesão a direitos da personalidade; d) de acordo com a jurisprudência do STJ, o simples inadimplemento contratual não enseja dano moral.
+Contrarrazões às fls. 437-448, e-STJ.
+Em juízo de admissibilidade (fls. 450-452, e-STJ), negou-se o processamento do recurso especial, ao argumento de que a simples menção a dispositivos legais ou transcrição de ementas não autoriza o conhecimento do recurso especial.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, já que se encontra devidamente fundamentado.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Nos termos da Súmula 608/STJ, aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo àqueles firmados junto a entidades de autogestão.
+Nesse contexto, assenta a jurisprudência do STJ que, ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do Código Consumerista), revela-se abusivo o preceito excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico ou do procedimento cirúrgico coberto ou de internação hospitalar.
+Logo, a existência de cobertura contratual para a doença apresentada pelo usuário conduz, necessariamente, ao custeio do tratamento proposto pelo médico especialista. Precedentes:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OFENSA AOS ARTIGOS 458, II, E 535 DO CPC. PRAZO PRESCRICIONAL. AUSÊNCIA DE COMPROVAÇÃO DA DATA DA RECUSA DO PAGAMENTO PELA SEGURADORA. SÚMULA 7/STJ. TRATAMENTO HOME CARE. RECUSA INDEVIDA. AGRAVO REGIMENTAL NÃO PROVIDO. (..)
+3. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento domiciliar quando essencial para garantir a saúde ou a vida do segurado.
+4. Agravo regimental não provido (AgRg no Ag 1325939/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/04/2014, DJe 09/05/2014)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. TRATAMENTO COM FERRIPROX PRESCRITO POR PROFISSIONAL MÉDICO. COBERTURA. NEGATIVA INDEVIDA. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+(..)
+2. O Superior Tribunal de Justiça entende ser abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do beneficiário, porque o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica, indicada por profissional habilitado, na busca da cura.
+(..)
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1181718/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. ABUSIVIDADE DA CLÁUSULA CONTRATUAL. MEDICAMENTO AMBULATORIAL OU DOMICILIAR.
+1 - A jurisprudência desta Corte é no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas.
+(..)
+(AgRg no AREsp 300648/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 23/04/2013, DJe 07/05/2013)
+Na espécie, restou consignado pelas instâncias ordinárias que a moléstia a ser tratada era objeto cobertura pelo plano de saúde, e que o tratamento proposto pelo médico responsável pelo acompanhamento era necessário e adequado. No ponto, relevante a menção ao seguinte trecho do acórdão recorrido: (fls. 382-385, e-STJ):
+O entendimento dos Tribunais é o de interpretar o contrato em favor do consumidor, especialmente em se tratando de contrato de adesão, nos quais as cláusulas foram redigidas por apenas uma das partes. A previsão legal de limitação de riscos não significa que qualquer uma delas seja aceita como legítima: existe essa faculdade, mas ela deve ser exercida de acordo com a boa-fé e com as regras de proteção ao consumidor.
+No caso, se o contrato prevê a cobertura do tratamento dos males da coluna, não pode mesmo ser reputada plausível a negativa de cobertura integral do procedimento cirúrgico, bem como, dos materiais e insumos indicados pelo médico especialista como necessários ao tratamento da moléstia, sob pena de torná-lo ineficaz ao seu objetivo.
+Ora, se o contrato não prevê restrição à cobertura, não há como se excluir materiais ou insumos apontados por médico especialista como necessários e imprescindíveis ao êxito do procedimento cirúrgico.
+Desse modo, havendo a citada cobertura, é obrigação da ré disponibilizar ou custear tudo o que foi solicitado pelo médico responsável pelo tratamento do paciente, sendo descabida a alegação de desnecessidade de materiais ou insumos apontados como necessários e indispensáveis ao êxito do procedimento cirúrgico. Certo que a prescrição do tratamento a ser ministrado ao paciente, bem como, a indicação dos materiais necessários ao ato cirúrgico não cabe à operadora de plano de saúde, mas sim ao médico especialista. Nesse sentido, diversos julgados, inclusive de minha relatoria:
+(..)
+Assim, ante a essencialidade do procedimento, materiais e insumos solicitados para o adequado tratamento do paciente, não há mesmo falar em exclusão de cobertura. Certo que negar cobertura ao material apontado como imprescindível à realização do ato cirúrgico equivaleria a negar cobertura à própria patologia, sendo que esta possui cobertura pelo contrato firmado.
+Desse modo, considerando que a decisão hostilizada encontra-se em consonância com a jurisprudência desta Casa, inarredável a incidência da Súmula 83/STJ à hipótese.
+3. No que toca à suposta inexistência de lesão a direito extrapatrimonial, melhor razão não assiste à recorrente.
+No ponto, restou consignado pelo Tribunal de origem que a conduta da ora recorrente teve natureza ilícita e gerou ofensa a direitos da personalidade titularizados pelo ora recorrido. Veja-se (fls. 385, e-STJ):
+A urgência da realização da intervenção cirúrgica afasta, por outro lado, a tese de que se trata de mero dissabor decorrente do retardo no cumprimento de cláusula contratual, pois a resistência da ré ocorreu em caso de elevada gravidade, com risco de morte. Acertou, assim, o ilustre Juiz sentenciante ao reconhecer a existência de danos morais indenizáveis.
+Tem-se, portanto, que, para derruir tal conclusão, revelar-se-ia necessário incursionar sobre o acervo fático-probatório produzido pelas instâncias ordinárias, providência inviável na presente esfera processual, ante o óbice contido na Súmula 7/STJ.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PROCEDIMENTO DE EMERGÊNCIA. CONCLUSÃO DO ACÓRDÃO PELA CONFIGURAÇÃO DOS DANOS MORAIS. REVER O JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AGRAVO INTERNO IMPROVIDO.
+1. Tendo o Tribunal de origem assentado a configuração dos danos morais diante da negativa de cobertura ao procedimento de emergência solicitado, não há como rever a referida conclusão sem proceder ao revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+2. A recorrente não cumpriu o disposto nos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, pois a demonstração da divergência não se perfaz com a simples transcrição de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não foi feito na hipótese.
+3. Agravo interno improvido.
+(AgInt no AREsp 1154946/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE PRÓTESE. IMPOSSIBILIDADE. SÚMULA Nº 83/STJ. DANOS MORAIS. OCORRÊNCIA. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. O Tribunal de origem, no caso concreto, entendeu pela ocorrência de danos morais, de modo que a tese defendida no recurso especial demanda reexame do contexto fático e probatório dos autos, vedado pela Súmula nº 7/STJ.
+3. O contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura. Precedentes. Súmula nº 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1096312/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+4. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568 do STJ, nego provimento ao agravo. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 1% (um por cento) o valor dos honorários advocatícios arbitrados pelo Tribunal de origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
