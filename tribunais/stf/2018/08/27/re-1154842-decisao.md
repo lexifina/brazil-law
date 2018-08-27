@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade aos arts. 30, I e V, 142, 144, § 5º, e 145, II, da Constituição Federal.
+    Insurge-se contra acórdão assim ementado:
+    “Apelação. Execução fiscal. Imposto predial e territorial urbano. Taxas de remoção de lixo e de prevenção de incêndio. Contribuição de melhoria. Exercícios de 2004 e 2005. Sentença que, em virtude do pequeno valor da causa, extingue o processo. Inadmissibilidade. Legítimo interesse do exequente de cobrar crédito de natureza tributária ou não, independentemente de seu montante. Recurso provido.
+    Taxa de prevenção de incêndio. Exercícios de 2004 e 2005. Descabimento da exação. Serviço que beneficia toda a comunidade, não um contribuinte individualmente considerado. Inteligência dos artigos 145 da Constituição Federal e 77 e 79 do Código Tributário Nacional.
+    Taxa de remoção de lixo. Exercícios de 2004 e 2005. Rateio do custo do serviço de acordo com a área construída ou a testada do imóvel. Inadmissibilidade. Base de cálculo sem relação com o custo da atividade estatal. Inobservância do princípio da isonomia. Inteligência do artigo 150, II, da Constituição Federal. Reconhecimento ‘ex officio’. Matéria de ordem pública. Precedentes do Superior Tribunal de Justiça.”
+    Tendo em vista o julgamento do RE nº 576.321/SP, determinou-se o retorno dos autos à Turma julgadora, que manteve a conclusão de que é inconstitucional a taxa de remoção de lixo.
+    Decido.
+    A irresignação merece prosperar apenas em parte.
+    Em relação à conclusão do Tribunal de origem de que não é possível a cobrança da taxa de prevenção de incêndio, verifica-se que não há divergência em relação à jurisprudência do Supremo Tribunal Federal.
+    Com efeito, a Corte firmou entendimento no sentido da inconstitucionalidade das taxas de combate a incêndio, conforme se verifica da ementa do seguinte precedente do Tribunal Pleno, julgado na sistemática da repercussão geral:
+    “TAXA DE COMBATE A INCÊNDIO INADEQUAÇÃO CONSTITUCIONAL. Descabe introduzir no cenário tributário, como obrigação do contribuinte, taxa visando a prevenção e o combate a incêndios, sendo imprópria a atuação do município em tal campo.” (RE n° 643.247/SP, Tribunal Pleno, Relator o Ministro Marco Aurélio, DJe de 19/12/17).
+    No tocante à taxa de remoção de lixo debatida nos autos, constata-se que a Corte a quo assim se pronunciou sobre o assunto:
+    “Da análise do acima transcrito verifica-se que a taxa de remoção de lixo é calculada segundo a área construída ou a testada do imóvel. Tal critério não guarda relação com o efetivo custo da atividade estatal correspondente. Por isso que ilegítima a exação: constitui flagrante desrespeito ao princípio da igualdade perante a lei cobrar o tributo sem levar em conta o custo do serviço público realizado ou oferecido ao contribuinte.”
+    Ao assim decidir, o acórdão recorrido divergiu da orientação do Supremo Tribunal Federal.
+    A Corte consolidou entendimento no sentido de considerar constitucional a taxa de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, desde que essas atividades sejam completamente dissociadas de outros serviços públicos de limpeza realizados em benefício da população em geral.
+    Na Questão de Ordem suscitada no RE n° 576.321/SP, Relator o Ministro Ricardo Lewandowski, a Corte reconheceu a repercussão geral da matéria posta nos autos e confirmou a jurisprudência pacificada, por meio de acórdão assim ementado:
+    “CONSTITUCIONAL. DIREITO TRIBUTÁRIO. TAXA. SERVIÇOS DE LIMPEZA PÚBLICA. DISTINÇÃO. ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. AUSÊNCIA DE IDENTIDADE. ART. 145, II E § 2º, DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIAS DE MÉRITO PACIFICADAS NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE OS MESMOS TEMAS. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 256.588-ED-EDV/RJ, MIN. ELLEN GRACIE; RE 232.393/SP, CARLOS VELLOSO. II JULGAMENTO DE MÉRITO CONFORME PRECEDENTES. III RECURSO PROVIDO.” (RE n° 576.321/SP-RG-QO, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski, DJe de 13/2/09).
+    A respeito do tema, anote-se o teor da Súmula Vinculante n° 19:
+    “A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, não viola o artigo 145, II, da Constituição Federal.”
+    Ressalte-se, também, o enunciado da Súmula Vinculante nº 29 que assim dispõe:
+    “É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.”
+    Corroborando o entendimento acerca da constitucionalidade da taxa ora analisada, destaco o seguinte julgado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. TAXA DE COLETA DE LIXO: BASE DE CÁLCULO. IPTU. MUNICÍPIO DE SÃO CARLOS, S.P. I. - O fato de um dos elementos utilizados na fixação da base de cálculo do IPTU - a metragem da área construída do imóvel - que é o valor do imóvel (CTN, art. 33), ser tomado em linha de conta na determinação da alíquota da taxa de coleta de lixo, não quer dizer que teria essa taxa base de cálculo igual à do IPTU: o custo do serviço constitui a base imponível da taxa. Todavia, para o fim de aferir, em cada caso concreto, a alíquota, utiliza-se a metragem da área construída do imóvel, certo que a alíquota não se confunde com a base imponível do tributo. Tem-se, com isto, também, forma de realização da isonomia tributária e do princípio da capacidade contributiva: C.F., artigos 150, II, 145, § 1º. II. - R.E. não conhecido.” (RE nº 232.393/SP, Tribunal Pleno, Relator o Ministro Carlos Velloso, DJ de 5/4/02 - destaquei).
+    Vide, fora isso, os seguintes precedentes: RE nº 1.142.536/SP, Relator o Ministro Alexandre de Moraes, DJe de 1º/8/18; RE nº 1.003.775/SP, Relator o Ministro Alexandre de Moraes, DJe de 27/3/18; RE nº 932.686/SP, de minha relatoria, DJe de 29/4/16.
+    Ante o exposto, dou parcial provimento ao recurso extraordinário para reformar o acórdão recorrido apenas na parte em que afastou a cobrança da taxa de remoção de lixo.
+    Publique-se.
+    Brasília, 27 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
