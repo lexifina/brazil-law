@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ROGERIO [NOME] [NOME] contra decisão singular, por meio da qual Desembargador do Tribunal de Justiça do Estado do Ceará indeferiu o writ pleiteado naquela instância, nos autos de n. 0626409-92.2018.8.06.0000 (e-STJ fls. 93/94).
+A defesa sustenta a ilegitimidade da segregação cautelar, afirmando, em síntese, que não se apontaram indícios válidos e suficiente quanto ao fumus comissi delicti e o periculum libertatis.
+Em liminar e no mérito, pede o relaxamento da prisão preventiva.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC n. 318.415/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+No caso destes autos, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a concessão da ordem de ofício.
+O Juízo da primeira instância enxergou indícios de que o paciente participaria de organização criminosa especializada em estelionatos (e-STJ fls. 50/52):
+Analisando, agora, a questão do flagrante, de plano se observa que a prisão obedeceu às exigências legais, sendo os agentes presos em estado de flagrância, estando perfeitamente nas situações descritas no artigo 302, IV, do CPP.
+Ademais, verifico que as garantias constitucionais foram respeitadas, sobretudo no que concerne à oitiva dos flagranteados, de seus condutores e expedição de nota de culpa.
+Por outro lado, em obediência à Lei 12.403/11, sobretudo no que tange às alterações introduzidas no artigo 310, do CPP, observo que os fatos narrados no auto de flagrante não permitem a concessão da liberdade provisória dos custodiados, sendo de ressaltar que as circunstâncias impeditivas de tal benefício são exatamente aquelas que dão suporte à decretação de sua prisão preventiva.
+Neste sentido, observo, inicialmente, que há fortes indícios quanto à materialidade e autoria delitivas, nos termos do auto de prisão, inclusive pela declaração das testemunhas, vítimas e depoimentos dos custodiados, bem como pelos extratos bancários acostados, garantindo, assim, a presença dos pressupostos da prisão preventiva, na forma do artigo 312, do CPP.
+Com efeito, a análise dos interrogatórios de [NOME], [NOME] e [NOME], nos quais os autuados confirmaram que recebiam valores de origem desconhecida em suas respectivas contas bancárias, repassando-os em seguida na forma indicada pela pessoa conhecida como "Silvana", sinaliza para a possível prática do crime de estelionato, sendo certo que ainda não se tem com precisão a exata dimensão da quantidade de crimes efetivamente praticados, já que este tipo de delito tende a se repetir por inúmeras vezes.
+Não bastasse isto, a ordem pública restou abalada, já tão amedrontada com crimes praticados em prejuízo do patrimônio das pessoas, mesmo no campo digitai, sendo necessária a custódia para garantia da instrução processual e fiel aplicação da lei, conforme entendimento do Superior Tribunal de Justiça, senão veja-se: (..).
+Ademais, pela narrativa dos autos, há imperiosa necessidade de custódia dos flagranteados como forma de melhor elucidar o caso, haja vista ser possível que outras vítimas ou outros fatos surjam no decorrer das investigações, havendo indícios que os autuados integravam organização criminosa com vistas a prática de crimes de estelionato, configurando, ainda, o crime descrito no artigo 288, do CPB.
+Por fim, não vislumbro como adequada qualquer das medidas previstas no artigo 319, do CPP, pelo que entendo imprescindível a prisão preventiva dos agentes, até porque a conduta dos custodiados pode incidir, tn tese, em outros delitos, o que deverá ser apurado com segurança no curso das investigações policiais.
+E é certo que a jurisprudência desta Corte admite a prisão preventiva com finalidade de obstar a continuidade de organização criminosa, a teor dos seguintes julgados, dentre diversos de igual teor:
+HABEAS CORPUS. LAVAGEM DE DINHEIRO, ASSOCIAÇÃO CRIMINOSA E FURTO QUALIFICADO. PRISÃO PREVENTIVA. POSIÇÃO DE DESTAQUE EM COMPLEXA E ESTRUTURADA ORGANIZAÇÃO CRIMINOSA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL COM OS CORRÉUS SOLTOS. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Havendo notícias de que o paciente ocupa posição de destaque em complexa e estruturada organização criminosa, fundamentada está a manutenção da sua prisão cautelar. Precedentes.
+(..).
+3. Ordem denegada.
+(HC 443.819/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 07/06/2018, DJe 13/06/2018)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PENA EM PERSPECTIVA. ANÁLISE INVIÁVEL. HABEAS CORPUS NÃO CONHECIDO.
+(..).
+III - No caso, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, aptos a demonstrar a indispensabilidade da prisão para a garantia da ordem pública, notadamente se considerada a periculosidade do agente, tendo em vista, em tese, pertencer à organização criminosa destinada ao tráfico de drogas.
+IV - Sobre o tema, já se pronunciou o col. Supremo Tribunal Federal no sentido de que "A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (HC n. 95.024/SP, Primeira Turma, Relª. Minª. Cármen Lúcia, DJe de 20/2/2009).
+V - Inviável considerar, nesse momento, que a prisão cautelar seria extremamente gravosa se comparada a regime prisional a ser definido no julgamento da ação penal, por tratar-se de mera presunção em perspectiva das condições a serem imputadas ao paciente.
+Habeas Corpus não conhecido.
+(HC 439.015/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. FURTO QUALIFICADO. EXPLOSÃO DE CAIXAS ELETRÔNICOS. DISPARO DE ARMA DE FOGO. EXCESSO DE PRAZO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE AUTORIA. DILAÇÃO PROBATÓRIA. NÃO CONHECIMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ORGANIZAÇÃO CRIMINOSA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS DENEGADO.
+(..).
+3. Apresentada fundamentação concreta para a decretação da prisão preventiva, explicitando que o paciente integra complexa organização criminosa para a práticas de crimes graves, dentre os quais furtos a agências bancárias com emprego de explosivos e armas de fogo, bem como tráfico de entorpecentes, além de receptação e outras subtrações, não se há falar em ilegalidade do decreto prisional.
+4. Habeas corpus denegado.
+(HC 441.711/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/06/2018, DJe 11/06/2018)
+Em resumo, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+De todo modo, as questões suscitadas pela defesa serão tratadas oportunamente pela instância de origem, por ocasião do julgamento de mérito do mandamus, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do presente habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
