@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa ao art. 1.022 do CPC/2015 e incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 179. e-STJ):
+REMESSA E APELAÇÃO CÍVEL. PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. LAUDO PERICIAL REALIZADO EM JUÍZO. INCAPACIDADE LABORATIVA NÃO COMPROVADA. EXISTÊNCIA DE FARTA DOCUMENTAÇÃO MÉDICA QUE SE CONTRAPÕE À PERÍCIA REALIZADA PELO EXPERTS DO JUÍZO. CONJUNTO PROBATÓRIO. VALORAÇÃO DAS DEMAIS PROVAS DOS AUTOS. DIREITO ASSEGURADO SOMENTE AO BENEFÍCIO DE AUXÍLIO DOENÇA. INGRESSO IMEDIATO DO SEGURADO NO PROGRAMA DE REABILITAÇÃO PROFISSIONAL DO INSS. RECEBIMENTO DAS DIFERENÇAS DEVIDAS. CORREÇÃO E JUROS DE MORA. APLICABILIDADE DA LEI 11.960/2009. VERBA HONORÁRIA. FIXAÇÃO. FASE DE LIQUIDAÇÃO DO JULGADO. ART. 85, §4º, II, DO NCPC.
+REMESSA E RECURSO PARCIALMENTE PROVIDOS.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 11, 489 § 1º, e 1022 do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito da quaestio iuris em debate, qual seja, a impossibilidade do agravamento da condenação da Fazenda Pública quando esta é a única recorrente (reformatio in pejus), bem como acerca da não incidência do CPC/2015, no que tange aos honorários advocatícios, aos recursos interpostos antes da vigência de tal lei.
+Quanto às questões de fundo, defende que, tendo a prova pericial produzida nos autos comprovado a capacidade laborativa da parte autora, a decisão que rechaça as conclusões médicas ofende o disposto no art. 59 da Lei n. 8.213/1991.
+Ademais, acusa o acórdão de ter promovido reformatio in pejus, em ofensa aos art. 1.008 e 1.013, haja vista ter determinado a retroação da data de início do benefício por incapacidade mesmo inexistindo apelação da parte nesse sentido, bem como majorado a verba honorária que havia sido arbitrada nos termos do estatuto processual anterior (Enunciado Administrativo n. 7 do STJ, art. 14, 1.045, 1.046 do CPC/2015). Ressalta que mesmo na análise do duplo grau obrigatório (art. 496, I, do CPC/2015) é vedado o agravamento da condenação imposta à Fazenda Pública, como cristalizado na Súmula nº 45 do STJ.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Pretende-se a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que este remanesce omisso quanto ao julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da impossibilidade de se agravar a condenação do apelante quando a outra parte não se insurge quanto aos termos da sentença (art. 1.008 e 1.013 do CPC/2015), bem como acerca do ordenamento jurídico aplicável à espécie no que tange à fixação dos honorários sucumbenciais (art.14, 1.045, 1.046 do CPC/2015).
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, I ou II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
