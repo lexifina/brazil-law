@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/73. AGRAVO DE INSTRUMENTO. INVENTÁRIO. RESERVA DE BENS. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NO APELO NOBRE. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ANTÔNIO RODRIGUES BRITO (ANTÔNIO) interpôs agravo de instrumento contra decisão que, nos autos do inventário (Proc. nº 0117407-05.2006.805.0000-0) dos bens deixados por [NOME], entendeu que não havia necessidade de nova reserva de bens para pagar dívida do espólio pois não havia quantificação do valor ou mesmo título constituído, já que a discussão se travava em juízo diverso (e-STJ, fl. 30).
+O agravante narrou que era credor do espólio agravado no importe de R$ 92.774,21 (noventa e dois mil e setecentos e setenta e quatro reais), em razão do não pagamento, pelo autor da herança, da terceira parcela do contrato de compra e venda do imóvel residencial nº 7877, em Camaçari - BA que eles firmaram.
+Sustentou que o indeferimento da especificação dos bens a serem reservados para o pagamento da dívida contrariou determinação anterior proferida em outro agravo de instrumento que interpôs, inviabilizando a garantia do seu crédito que será óbito na Ação Monitoria nº 0093333-42.2010.805.0001.
+Requereu que fosse provido o recurso, com determinação para imediata reserva de bens já requerida, suficientes para a garantia do seu crédito.
+O Tribunal de origem negou provimento ao agravo, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. NÃO QUANTIFICAÇÃO DO CRÉDITO DO AGRAVANTE. IMPOSSIBILIDADE DE ESPECIFICAÇÃO DOS BENS DO ESPÓLIO A SEREM RESERVADOS PARA GARANTIA DO SEU CRÉDITO. NÃO DEMONSTRADOS OS REQUISITOS DA FUMAÇA DO BOM DIREITO E PERICULUM IN MORA. AGRAVO IMPROVIDO (e-STJ, fls. 226).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 248/253).
+Inconformado, ANTÔNIO interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 471, 473, 535, II, e 1.018, parágrafo único, do CPC/73 e 397 e 1.991, § 1º, do CC/02, ao sustentar que 1) ocorreu a preclusão acerca do valor do crédito para o efeito de reserva de bens no inventário, tendo em vista o julgamento anterior pelo Tribunal a quo do Agravo de Instrumento nº 13151-7/2009, que apreciou tal matéria; 2) o Juízo do inventário não poderia ter descumprido decisão do Tribunal de Justiça que determinou a imposição de reserva de bens de acordo com os cálculos que apresentou; 3) ao entender que os juros de mora são contados da citação, o acórdão recorrido violou o art. 397 do CC/02 e a jurisprudência do STJ; 4) o valor que atualmente prevalece para efeito de reserva de bens é insuficiente para garantir o futuro pagamento da dívida; e, 5) na eventualidade de se entender que não houve prequestionamento dos temas, impõe-se reconhecer a violação do art. 535 do CPC/73.
+Contrarrazões do recurso especial (e-STJ, fls. 286/292).
+O apelo nobre não foi admitido na origem.
+Dei provimento ao agravo em recurso especial, para melhor exame da matéria (e-STJ, fl. 326).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade do recurso especial, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+
+Como dito no relatório, cuida-se de agravo de instrumento interposto por ANTÔNIO contra decisão que, nos autos do inventário (Proc. nº 0117407-05.2006.805.0000-0) dos bens deixados por [NOME], entendeu que não havia necessidade de nova reserva de bens para pagar dívida do espólio pois não havia quantificação do valor ou mesmo título constituído, já que a discussão se travava em juízo diverso.
+O Tribunal de Justiça local negou provimento ao agravo porque concluiu que não estavam presentes os requisitos autorizadores da antecipação da tutela para o fim de especificar os bens sobre os quais deveria incidir a reserva para garantir o crédito de ANTÔNIO, o que ensejou a interposição do presente recurso especial que, como dito, não merece prosperar.
+Verifica-se que o Tribunal a quo avaliou a presença dos requisitos autorizadores da tutela antecipada, tendo concluído que não estavam presentes a fumaça do bom direito e o perigo na demora para autorizar a especificação dos bens do espólio que deveriam ser reservados para garantir o seu pagamento.
+Isso posto, observei que nas razões do apelo especial não houve combate específico aos referidos fundamentos suficientes para manutenção do acórdão recorrido, quais sejam, os requisitos autorizadores da tutela antecipada (perigo na demora e fumaça do bom direito). Cabia ao recorrente, portanto, ter demonstrado, com fundamentação idônea, que eles estavam presentes os requisitos para autorizar a tutela antecipada, principalmente, o perigo na demora.
+Nesse cenário, é a hipótese de incidência, por analogia, da Súmula nº 283 do STF, verbis: é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito a multa (arts. 1.021, § 4º e 1.026, § 2º do NCPC).
+Publique-se. Intimem-se.
