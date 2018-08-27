@@ -1,0 +1,41 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 483, § 4º, DO CPP. JÚRI. ALEGAÇÃO DE MÁ-FORMULAÇÃO DO QUESITO REFERENTE AO PEDIDO DE DESCLASSIFICAÇÃO. NULIDADE NÃO ARGUIDA NO MOMENTO OPORTUNO. PRECLUSÃO. PRECEDENTES DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado da Bahia, ementado verbis:
+"APELAÇÃO CRIME. JÚRI. ART. 121, § 2º INCISO II, DO CP. PENA DE 12 (DOZE) ANOS DE RECLUSÃO, EM REGIME INICIALMENTE FECHADO. RECURSO DA DEFESA QUE PRETENDE ANULAÇÃO DO JULGAMENTO POR CONTRADIÇÃO NA QUESITAÇÃO. TESE DEFENSIVA, EM PLENÁRIO DE DESCLASSIFICAÇÃO PARA HOMICÍDIO CULPOSO. INCIDÊNCIA DO § 4º, DO ART. 483, DO CPP. ELABORAÇÃO OBRIGATÓRIA DE QUESITO SOBRE A DESCLASSIFICAÇÃO. INEXISTÊNCIA DE NULIDADE NA QUESITAÇÃO. IMPROVIMENTO DO APELO. DECISÃO UNÂNIME." (fl. 680)
+Em seu recurso especial, às fls. 692/697, sustenta o recorrente afronta ao artigo 483, § 4º, do Código de Processo Penal, ao argumento de que o terceiro quesito, além de possuir uma redação incoerente, não deveria estar localizado após a indagação sobre a autoria ou participação no fato. Explicita que "a defesa sustentou a desclassificação do homicídio qualificado para o homicídio culposo, no entanto não houve a elaboração de um quesito claro e nítido em face dessa desclassificação, o que inevitavelmente culminou na condenação do réu de forma injusta."
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 713/714, sob os seguintes fundamentos:
+"Inicialmente, cumpre salientar que o debate proposto na impugnação sub examine, gira em torno da suposta nulidade da quesitação, quando do julgamento pelo tribunal do júri. Frise-se, nesse diapasão, que o insurgente suscitou, em suas razões, matérias referentes à "nítida contradição entre o segundo e o terceiro quesito" (fl. 27) e à eventual inexistência de "elaboração de um questio claro e nítido em face da desclassificação" (fl. 29).
+Desse modo, se observa que o objetivo do recorrente é infirmar, na via estreita da irresignação excepcional, o conteúdo dos quesitos formulados, sustentando, nessa senda, que supostamente "o terceiro quesito induz os jurados a uma distorção em face da realidade dos fatos." (fl. 27).
+Nesse sentido, incide in casu, o conteúdo insculpido no enunciado nº 7, da súmula de jurisprudência dominante do Superior Tribunal de Justiça, cujo teor prescreve que "A pretensão de simples reexame de prova não enseja recurso especial." Limitou-se o acórdão recorrido a consignar o seguinte, litteris:
+(..)
+Em outras palavras, a alegação de nulidade aventada no caso em tela, diz respeito, em verdade, à discussão acerca da indução ou não do júri através da formulação dos quesitos - que, frise-se, seguiu estritamente a letra da Lei Processual Penal vigente. Isto posto, inviável o apelo raro, tendo em vista a impossibilidade de revisão da matéria fática nessa seara."
+Em seu agravo, às fls. 718/726, assevera o recorrente que não buscou o reexame das provas, mas a revaloração das mesmas.
+O Ministério Público Federal manifestou-se às fls. 747/751, pelo não provimento do agravo em recurso especial, verbis:
+
+"AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI. QUESITAÇÃO. NULIDADE. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRETENSÃO QUE DEMANDA O REEXAME DE PROVAS. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO AGRAVO."
+É o relatório.
+A insurgência não merece prosperar.
+Com efeito, quanto à alegada violação ao artigo 483, § 4º, do Código de Processo Penal, ao argumento de que há nulidade em virtude da má-formulação do terceiro quesito, no tocante à tese de desclassificação, sem razão o recorrente.
+De fato, colhe-se dos autos que a defesa não alegou tal nulidade no momento oportuno, ou seja, logo depois de ocorrer, conforme preceitua o artigo 571, inciso VIII, do Código de Processo Penal, pois nada consta na Ata da Sessão de julgamento a respeito (fls. 617/618).
+Nesse sentido esta Corte sufragou entendimento de que "as nulidades ocorridas em plenário do Tribunal do Júri devem ser arguidas no momento próprio, ou seja, logo depois de ocorrerem, e registradas na ata da sessão de julgamento, sob pena de preclusão." (AgRg no AREsp 1202268/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/03/2018, DJe 27/03/2018) Neste contexto, não tendo a defesa arguido eventual irregularidade no momento processual oportuno, resta preclusa a matéria. Confiram-se, nesse sentido, os seguintes julgados da 5ª e 6ª Turma deste Superior Tribunal de Justiça:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. JURI. AUSÊNCIA DE ELABORAÇÃO DE QUESITO ESPECÍFICO REFERENTE À LEGÍTIMA DEFESA PUTATIVA. DESNECESSIDADE. JULGAMENTO OCORRIDO APÓS AS ALTERAÇÕES PROMOVIDAS PELA LEI 11.689/2008. OMISSÃO. INEXISTÊNCIA. ACLARATÓRIO DESACOLHIDO.
+1. Explicitada a razão pela qual se entendeu que a tese da legítima defesa putativa, com o advento da Lei n. 11.689/08, foi incorporada ao quesito obrigatório da absolvição, prevista no artigo 483, inciso III e § 2º, do Código de Processo Penal, não havendo, portanto, que se falar em nulidade pela ausência na sua quesitação, inexiste omissão a ser sanada.
+2. Nos termos do artigo 571, inciso VIII, do Código de Processo Penal, as nulidades do julgamento em plenário devem ser arguidas logo após a sua ocorrência, sob pena de preclusão.
+3. Embargos de declaração rejeitados."
+(EDcl no AgRg no AREsp 767.879/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/12/2017, DJe 13/12/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. QUESITAÇÃO. DEFICIÊNCIA. ALEGAÇÃO. IMPUGNAÇÃO NA SESSÃO DE JULGAMENTO. AUSÊNCIA. NECESSIDADE. PRECLUSÃO.
+1. De acordo com o que preceitua o art. 571, VIII, do Código de Processo Penal, as nulidades do julgamento em plenário devem ser arguidas logo após a sua ocorrência, sob pena de preclusão.
+2. Tendo a defesa concordado com os quesitos elaborados, na sessão do Tribunal do Júri, não há que se cogitar posterior alegação de nulidade. Precedentes.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 1012215/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/02/2017, DJe 09/02/2017)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. IMPEDIMENTO DE JURADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. NULIDADE NÃO ARGUIDA NO MOMENTO OPORTUNO. PRECLUSÃO. PRECEDENTES DO STJ. OFENSA A PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. AGRAVOS IMPROVIDOS.
+1. Não se verifica negativa de prestação jurisdicional, na hipótese em que o Tribunal de origem enfrenta a alegação de nulidade absoluta, por impedimento de jurado, adotando, contudo, solução jurídica contrária aos interesses da parte.
+2. O entendimento do acórdão recorrido está em harmonia com a jurisprudência desta Corte no sentido da impossibilidade de se reconhecer a nulidade do julgamento do Tribunal do Júri, sob a alegação de participação de jurados impedidos ou suspeitos, quando a questão não foi suscitada no momento oportuno.
+3. Tratando-se de processo de competência do Tribunal do Júri, as nulidades posteriores à pronúncia devem ser arguidas depois de anunciado o julgamento e apregoadas as partes, e as do julgamento em plenário, em audiência, ou sessão do Tribunal, logo após sua ocorrência, sob pena de preclusão, consoante determina o art. 571, V e VIII, do Código de Processo Penal (HC 149007/MT, Rel. Min. Gurgel de Faria, Dje de 21/5/2015).
+4. O julgamento monocrático do recurso especial, com fundamento em jurisprudência dominante do Superior Tribunal de Justiça, não constitui ofensa ao princípio da colegialidade, nos termos da Súmula 568/STJ.
+5. Agravos regimentais improvidos."
+(AgRg no REsp 1366851/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/10/2016, DJe 17/10/2016)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intime-se.
