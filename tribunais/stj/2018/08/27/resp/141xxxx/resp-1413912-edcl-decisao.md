@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ contra a decisão de fls. 482-487 (e-STJ), que conheceu parcialmente do recurso especial ministerial e, nesta extensão, lhe deu provimento para determinar que o Tribunal de origem prosseguisse no julgamento do recurso em sentido estrito defensivo.
+O embargante alega contradição entre a fundamentação e o dispositivo da decisão.
+Aduz que o recurso especial requereu a reforma do acórdão do TJPR para que a denúncia contra os recorridos fosse recebida e o provimento do presente especial foi determinando o prosseguimento do julgamento do recurso em sentido estrito defensivo, não fazendo sentido com o pleito recursal.
+Requer, ao final, o acolhimento dos declaratórios para o fim de sanar o vício do dispositivo, devendo constar que o recurso foi parcialmente conhecido e, nesta, extensão, provido para determinar que seja recebida a denúncia oferecida em primeiro grau contra os dois acusados (e-STJ, fl. 496).
+É o relatório.
+Decido.
+Os embargos de declaração destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Inexistindo qualquer um desses elementos essenciais, rejeitam-se os declaratórios.
+Extrai-se dos autos que os ora embargados foram pronunciados pela prática dos delitos tipificados no art. 121, caput e art. 129, caput c/c art. 29 e art. 69, todos do Código Penal (e-STJ, fls. 215-220).
+Dessa decisão, a defesa apresentou recurso em sentido estrito alegando, preliminarmente, a inépcia da denúncia e, no mérito, sustentou a nulidade da decisão, ao argumento de que o magistrado singular, para afastar a arguição de legítima defesa, utilizou-se de linguagem inapropriada à fase do iudicium accusationis.
+O Tribunal de Justiça do Paraná deu provimento ao recurso para reconhecer a inépcia da denúncia, anulando o processo ab initio, julgando prejudicada a outra matéria arguída no recurso (e-STJ, fl. 283).
+No especial, o recorrente alegou contrariedade aos arts. 41, 43, 381, III, 619, 620 e 569 do Código de Processo Penal e 29, 69, 121, caput, 129, caput, do Código Penal. Sustentou, em suma, infringência ao dever de motivação dos atos judiciais, bem como que a narrativa da peça acusatória descrevia suficientemente a participação dos acusados nos delitos. Ao final, requereu, a reforma do acórdão para que a denúncia fosse recebida.
+Na decisão ora embargada foi explicitado que: a) não houve ofensa aos arts. 381, III, 619 e 620, do Código de Processo Penal e b) quanto aos demais artigos tidos como violados, entendeu-se que a inicial acusatória preenchia os requisitos exigidos pelo art. 41 do CPP, permitindo a compreensão dos fatos e possibilitando aos acusados rechaçar os fundamentos acusatórios, não havendo se falar em inépcia da denúncia.
+Assim, o recurso especial foi parcialmente conhecido e, nesta extensão lhe foi dado provimento para determinar que o Tribunal de origem prosseguisse no julgamento do recurso em sentido estrito defensivo.
+Neste contexto, exsurge claro que não há possibilidade de provimento do especial nos termos como entende o embargante, qual seja, para que a denúncia contra os recorridos seja recebida, uma vez que, cassado por esta Corte o acórdão que reconheceu a preliminar de inépcia da inicial e anulou o processo desde o início, o provimento do apelo somente poderia ser no sentido de determinar o retorno dos autos à origem para a análise da matéria de mérito não analisada.
+Desta forma, inviável a utilização dos embargos de declaração, sob a alegação de suposta contradição.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
