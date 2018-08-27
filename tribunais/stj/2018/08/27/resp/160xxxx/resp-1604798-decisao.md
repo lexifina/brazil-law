@@ -1,0 +1,54 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CONTRATO DE MÚTUO HABITACIONAL. EMBARGOS DO DEVEDOR. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO DA ÚLTIMA PRESTAÇÃO.
+1. Não há negativa de prestação jurisdicional quando o acórdão recorrido trata da questão central controvertida, inexistindo afronta aos arts. 131, 165, 458 e 535 do CPC/73.
+2. Vencido este relator no tocante ao termo inicial do prazo prescricional da cobrança das prestações inadimplidas de financiamento habitacional quando do julgamento do REsp 1.523.661/SE, passa-se a adotar o entendimento que se sagrara vencedor nesta Terceira Turma, que, ainda, é acompanhado por multifários outros precedentes da 4ª Turma e, ainda, da Seção de Direito Público, no sentido de que a contagem da prescrição se inicia do vencimento da última parcela do empréstimo/financiamento.
+3. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por MARCELO [NOME], com fundamento na alínea "a" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal Regional Federal da 4ª Região, cuja ementa está assim redigida:
+SISTEMA FINANCEIRO DA HABITAÇÃO. PRESCRIÇÃO. VENCIMENTO DO CONTRATO. LIMITE DA TAXA ANUAL DE JUROS. CAPITALIZAÇÃO ANUAL. POSSIBILIDADE.
+1. Em se tratando de prestações de trato sucessivo, como é o caso do contrato de mútuo celebrado no âmbito do SFH, o prazo prescricional para revisão das prestações e eventual repetição de indébito começa a fluir com o advento da data final prevista no contrato, e não do vencimento de cada parcela.
+2. A limitação dos juros ao percentual de 10% ao ano com base no art. 2º do Decreto 63.182/68 é plenamente aplicável para contratos firmados na sua vigência. Somente após a publicação da Lei 8.692/93 é que os juros passaram a ser limitados em 12% a.a.
+3. A capitalização anual de juros é permitida e independe de pactuação expressa, sendo vedada apenas a incidência de juros sobre juros em periodicidade inferior a um ano.
+Opostos embargos de declaração, foram acolhidos para fins de prequestionamento.
+Em suas razões recursais, sustentou a afronta aos arts. 131, 165, 458, II, e 535 do CPC/73, 93, IX, da CF, 189, 193, 202, caput, VI (art. 174, V do CC/1916), 204, 206, § 5º, I, e 1.425, III, do CC/2002 (art. 762, III, do CC/1916). Asseverou ter, em sede de embargos à execução, arguido a prescrição da pretensão em relação a diversas das parcelas objeto de cobrança na execução ajuizada pela EMGEA no valor de R$ 887.124,11, relativo ao período de agosto de 1996 a janeiro de 2013, já que deflagrada a contagem em relação a cada parcela do financiamento vencida e impaga.
+Disse indevida a contagem levada a efeito pela instância de origem após o término do prazo para pagamento da última prestação, ou seja, em 12/03/2010, pois a olvidar o início da pretensão, a boa-fé objetiva e o dever de mitigação do próprio prejuízo. Ressaltou a negativa de prestação jurisdicional e pediu o provimento do recurso.
+Houve contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+A questão devolvida ao conhecimento desta Corte Superior mediante o presente recurso especial já é conhecida, dizendo com o termo inicial do prazo prescricional das prestações de financiamento habitacional.
+Tanto a sentença, quanto o acórdão recorrido reconheceram que o prazo da prescrição das parcelas vencidas desde 1996 somente iniciaria em 2010, com o vencimento da última parcela do financiamento.
+Em que pese este relator já tenha sustentado a tese formulada pelo ora recorrente no seu apelo excepcional, de que o início da contagem do prazo prescricional de 5 anos, previsto no art. 206, §5º, I, do CCB, ocorreria no vencimento de cada prestação inadimplida, isto quando do julgamento do REsp nº 1.523.661/SE, a orientação que, por maioria, sagrou-se vencedora fora aquela no sentido da contagem do prazo de prescrição de qualquer das prestações inadimplidas do vencimento da última parcela do financiamento.
+Não houve, ainda, a confecção do acórdão recorrido, cuja relatoria foi atribuída ao e. Min. Ricardo Cueva na sessão do dia 26/06/2018, mas este é o atual entendimento da Terceira Turma sobre a questão, o qual passei a adotar desde então.
+Nesse mesmo sentido, impõe-se a menção aos demais precedentes:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. INADIMPLÊNCIA. 1. ALEGAÇÃO DE PRESCRIÇÃO AFASTADA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. 2. AUSÊNCIA DE PREQUESTIONAMENTO. OBSERVÂNCIA AO DISPOSTO NO ART. 1.025 DO CPC/2015. IMPOSSIBILIDADE DE ACOLHIMENTO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 7/STJ. 3. EXCESSO DE EXECUÇÃO. REVISÃO DAS CONCLUSÕES DA CORTE DE ORIGEM. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 4. AGRAVO IMPROVIDO.
+1. Quanto à alegação de prescrição do débito, o recurso não prospera por incidência do óbice da Súmula 83/STJ. A jurisprudência desta Corte Superior está pacificada no sentido de que o vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, o qual deve observar o termo final indicado no contrato, que, no caso (mútuo imobiliário), é o dia do vencimento da última parcela.
+2. Ausência de prequestionamento dos artigos 187 do CC/2002; 4º, IV, 6º, III, e 42, parágrafo único, do CDC; e 580, 585, § 1º, 586, 618, I, do CPC/1973. Ainda que fosse o caso de superar a ausência de prequestionamento, em observância à inovação trazida pelo art. 1.025 do CPC/2015, tais teses não mereceriam acolhimento, pois, para sua aferição, demandariam o reexame de fatos e provas, o que não se admite no âmbito do recurso especial, em razão do disposto na Súmula 7/STJ.
+3. A alteração do entendimento sedimentado na instância ordinária acerca de eventual excesso de execução, na forma como quer fazer crer a parte agravante, só é possível mediante o revolvimento dos elementos de fato e das provas, providência que esbarra no óbice da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AgInt no AREsp 1051949/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. INADIMPLÊNCIA. VENCIMENTO ANTECIPADO DA DÍVIDA. PRESCRIÇÃO. TERMO INICIAL INALTERADO. DATA DA ÚLTIMA PARCELA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte de Justiça tem reiterado o entendimento de que o vencimento antecipado do contrato de financiamento imobiliário por inadimplemento do devedor não altera o termo inicial da prescrição, o qual deve ser contado do término da avença nos termos em que estipulado.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp 1635172/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/05/2017, DJe 18/05/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO. CRÉDITO EDUCATIVO. INADIMPLÊNCIA. ANTECIPAÇÃO DO VENCIMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. Trata-se de ação de execução de título extrajudicial referente a contrato de abertura de crédito para financiamento estudantil em que a Corte de origem declarou a prescrição da pretensão executiva, ao argumento de que o termo inicial da prescrição é a data em que o contrato passou a ser exigível, no caso, com o trancamento/cancelamento da matrícula.
+2. Esta Corte pacificou entendimento no sentido de que, mesmo diante do vencimento antecipado da dívida, subsiste inalterado o termo inicial do prazo de prescrição - no caso, o dia do vencimento da última parcela. Precedentes.
+3. Recurso especial provido para afastar a prescrição e determinar retorno dos autos à origem para que se prossiga no julgamento da demanda. (REsp 1292757/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/08/2012, DJe 21/08/2012)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AGRAVANTE.
+1. O Superior Tribunal de Justiça possui entendimento no sentido de que, o prazo prescricional da ação de execução de cédula de crédito rural é de 3 (três) anos, a contar da data do vencimento do título, nos termos do art. 60 do Decreto-Lei n.º 167/67 e do art. 70 do Decreto n.º 57.663/66. Precedentes.
+2. O vencimento antecipado da dívida não enseja a alteração do termo inicial do prazo de prescrição, que é contado da data do vencimento da última parcela. Precedentes.
+3. A conformidade do acórdão recorrido com o entendimento desta Corte impede o conhecimento da pretensão recursal, nos termos da Súmula 83/STJ, óbice aplicável tanto aos recursos interpostos pela alínea "a" do permissivo constitucional, como pela alínea "c".
+4. Agravo interno desprovido. (AgInt no REsp 1408664/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2018, DJe 30/04/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MÚTUO. EMBARGOS DO DEVEDOR. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO.
+1. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que, no caso (mútuo imobiliário), é o dia do vencimento da última parcela.
+2. Agravo interno não provido (AgInt no AREsp 1094478/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO. CÉDULA RURAL PIGNORATÍCIA. PRESCRIÇÃO TRIENAL. TERMO INICIAL. VENCIMENTO DA ÚLTIMA PARCELA.
+1. O vencimento das prestações não altera o termo inicial do prazo trienal de prescrição para a execução de dívida fundada em cédula rural pignoratícia, que é contado do vencimento da última parcela.
+Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 1083752/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/11/2017, DJe 29/11/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. MÚTUO IMOBILIÁRIO. INADIMPLEMENTO. VENCIMENTO ANTECIPADO DA DÍVIDA. PRESCRIÇÃO. TERMO INICIAL. DATA DO VENCIMENTO DA ÚLTIMA PARCELA DO CONTRATO. PRECEDENTES. NEGADO PROVIMENTO.
+1. A jurisprudência desta Corte de Justiça firmou entendimento de que o vencimento antecipado do contrato por inadimplemento do devedor não altera o termo inicial da prescrição, que, no caso de mútuo imobiliário, é o dia do vencimento da última parcela.
+2. Agravo interno a que se nega provimento. (AgInt no REsp 1520483/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Nessa perspectiva, é patente a aplicação do enunciado 83/STJ, seja em relação ao dissídio, seja em relação à interpretação dos dispositivos indicados como afrontados no recurso especial.
+Ante o exposto, nego provimento ao recurso especial.
+É o voto.
