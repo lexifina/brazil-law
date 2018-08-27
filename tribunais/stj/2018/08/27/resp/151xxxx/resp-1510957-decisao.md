@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MINISTÉRIO PÚBLICO FEDERAL, em 29/11/2013, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"AGRAVO LEGAL. AÇÃO CIVIL PÚBLICA. ARTIGO 16 DA LEI Nº 3.857/60. LEGITIMIDADE DA UNIÃO FEDERAL. REGISTRO NO MINISTÉRIO DA EDUCAÇÃO E CULTURA E INSCRIÇÃO NA ORDEM DOS MÚSICOS DO BRASIL. INCOMPATIBILIDADE COM A CONSTITUIÇÃO FEDERAL DE 1988. LIBERDADES CONSTITUCIONAIS DE EXPRESSÃO ARTÍSTICA. ADEQUAÇÃO DOS PRECEDENTES AO CASO CONCRETO. AUSÊNCIA DE ELEMENTOS CAPAZES DE INVALIDAR A DECISÃO RECORRIDA.
+1. A parte inconformada com a decisão proferida com base no art. 557 do Código de Processo Civil pode interpor o agravo de que trata o § 1º.
+2. "A atividade de músico não está condicionada à inscrição na Ordem dos Músicos do Brasil e, consequentemente, inexige comprovação de quitação da respectiva anuidade, sob pena de afronta ao livre exercício da profissão e à garantia da liberdade de expressão (artigo 5º, IX e XIII, da Constituição Federal). Precedentes: RE n. 414.426 , Plenário, Relatora a Ministra Ellen Gracie, DJe de 12.8.11; RE n. 600.497, Relatora a Ministra Cármen Lúcia, DJe de 28.09.11; RE n. 509.409, Relator o Ministro Celso de Mello, DJe de 08.09.11; RE n. 652.771, Relator o Ministro Ricardo Lewandowski, DJe de 02.09.11; RE n. 510.126, Relator o Ministro Ayres Britto, DJe de 08.09.11; RE n. 510.527, Relator o Ministro Dias Toffoli, DJe de 15.08.11; RE n. 547.888, Relator o Ministro Gilmar Mendes, DJe de 24.08.11 ; RE n. 504.425, Relatora a Ministra Ellen Gracie, DJe de 10.08.11, entre outros" (RE 555320 AgR/SC - Relator(a): Min. LUIZ FUX).
+3. Não há nos autos alteração substancial capaz de influir na decisão proferida, uma vez que a agravante apenas reitera argumentos já expostos.
+4. De rigor a manutenção do decisum uma vez que as agravantes apenas pretendem rediscutir o mérito da demanda.
+5. Agravos legais desprovidos" (fls. 745/746e).
+Nas razões do Recurso Especial, aduz a parte recorrente violação aos arts. 11 da Lei 7.347/85 e 461, § 4º, do CPC/73, pleiteando a majoração da multa cominatória aplicada, ao argumento de que, "considerando a desproporção da penalidade aplicada ao caso - cumpre aumentar pena pecuniária diminuta, a ignorar direitos fundamentais dos músicos ao livre exercício da profissão e expressão artística, bem como da sociedade de acesso à cultura" (fl. 754e).
+Requer, ao final, o provimento do recurso.
+Negado seguimento ao Recurso Especial (fls. 836/837e), foi interposto o presente Agravo (fls. 845/848e).
+A irresignação não merece acolhimento.
+No que concerne ao valor arbitrado a título de astreintes, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento no sentido de que somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, sob pena de ofensa ao disposto na Súmula 7 desta Corte, o que não ocorre, na espécie.
+No caso, o Tribunal de origem, à luz das provas dos autos, concluiu pela fixação do valor da multa em R$ 1.000,00, em atenção às peculiaridades do caso concreto.
+Nesse contexto, não sendo o caso de manifesta irrisoriedade, não há como afastar a incidência da Súmula 7/STJ, no caso.
+Nesse sentido:
+"PROCESSUAL CIVIL. DESCUMPRIMENTO DE DECISÃO JUDICIAL. MULTA DIÁRIA. MAJORAÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Não é cabível, na via estreita do recurso especial, a revisão do montante fixado a título de multa cominatória (astreintes), ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7 do STJ. 2. Somente em casos excepcionais, quando a quantia arbitrada se mostrar exorbitante ou insignificante, em flagrante violação dos princípios da razoabilidade e da proporcionalidade, admite-se rever o valor da multa diária aplicada pelas instâncias ordinárias.
+3. Hipótese em que o valor estabelecido a titulo de astreintes não se mostra flagrantemente desproporcional ou insignificante a ponto de afastar o óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido" (STJ, AgInt no AREsp 747.974/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/10/2017).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
