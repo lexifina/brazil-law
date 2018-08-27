@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO ESTADUAL E JUÍZO FEDERAL. AÇÃO INDENIZATÓRIA. VÍCIOS DE CONSTRUÇÃO. SEGURO ADJETO A CONTRATO PARA AQUISIÇÃO DE CASA PRÓPRIA PELO SISTEMA FINANCEIRO DA HABITAÇÃO - SFH. INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL - CEF AFASTADO PELO JUÍZO FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 16ª Vara Cível da Comarca de Campo Grande/MS em desfavor do Tribunal Regional Federal da 3ª Região, nos autos de ação ordinária em que se discute acerca de indenização securitária em razão de sinistro ocorrido em moradia adquirida pelo Sistema Financeiro da Habitação - SFH, com apólice pública (ramo 66), garantida pelo Fundo de Compensação de Variações Salariais - FCVS.
+O Ministério Público Federal opinou pela fixação da competência na Justiça Estadual.
+Pois bem, é ressabido competir à Justiça Federal decidir sobre o interesse jurídico que justifique a presença da União, suas autarquias e empresas públicas no processo, conforme preconiza a Súmula n. 150/STJ.
+No caso em foco, a Justiça Federal assentou que " ..  o contrato de financiamento foi firmado em 1984 (fls. 53-59), fora do período compreendido entre 02/12/1988 e 29/12/2009, evidenciando, assim, a desnecessidade de intervenção da CEF, seja como ré ou assistente.
+Esse entendimento foi reafirmado pela Segunda Seção, no julgamento do REsp 1.091.393/SC, julgado pelo rito do art. 543-C do CPC/1973.
+Oportuna é a transcrição da ementa do julgado em comento:
+DIREITO PROCESSUAL CIVIL. SFH. SEGURO. AÇÃO INDENIZATÓRIA. CAIXA ECONÔMICA FEDERAL. INTERESSE. INTERVENÇÃO. LIMITES E CONDIÇÕES. INCIDENTE DE PROCESSO REPETITIVO. ART. 543-C DO CPC.
+1. Nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro Habitacional - SFH, a Caixa Econômica Federal - CEF - detém interesse jurídico para ingressar na lide como assistente simples somente nos contratos celebrados de 02.12.1988 a 29.12.2009 - período compreendido entre as edições da Lei nº 7.682/88 e da MP nº 478/09 - e nas hipóteses em que o instrumento estiver vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66).
+2. Ainda que compreendido no mencionado lapso temporal, ausente a vinculação do contrato ao FCVS (apólices privadas, ramo 68), a CEF carece de interesse jurídico a justificar sua intervenção na lide.
+3. O ingresso da CEF na lide somente será possível a partir do momento em que a instituição financeira provar documentalmente o seu interesse jurídico, mediante demonstração não apenas da existência de apólice pública, mas também do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA, colhendo o processo no estado em que este se encontrar no instante em que houver a efetiva comprovação desse interesse, sem anulação de nenhum ato anterior.
+4. Evidenciada desídia ou conveniência na demonstração tardia do seu interesse jurídico de intervir na lide como assistente, não poderá a CEF se beneficiar da faculdade prevista no art. 55, I, do CPC.
+5. Na hipótese específica dos autos, tendo o Tribunal Estadual concluído pela ausência de vinculação dos contratos de seguro ao FCVS, inexiste interesse jurídico da CEF para integrar a lide.
+6. Embargos de declaração parcialmente acolhidos, com efeitos infringentes (REsp 1091393/SC, Relatora para acórdão Ministra Nancy Andrighi, Segunda Seção, DJe 14/12/2012).
+Logo, é mister fixar a competência da Justiça Estadual, conforme decidido no bojo do REsp 1.091.393/SC.
+Isso posto, conheço do conflito para declarar a competência do Juízo de Direito da 16ª Vara Cível da Comarca de Campo Grande/MS. Outrossim, torno sem efeito a decisão de fl. 52.
+Publique-se. Intimem-se.
