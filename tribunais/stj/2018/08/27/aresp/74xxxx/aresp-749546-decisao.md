@@ -1,0 +1,124 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravos interpostos por [NOME] - Espólio e outros e o Município do Rio de Janeiro contra decisão que inadmitiu o recurso especial ao argumento de incidência da Súmula 7/STJ, inexistência de omissão e não demonstração do dissídio jurisprudencial alegado (e-STJ, fls. 2.649-2.653).
+Os primeiros agravantes sustentam ser evidente, e terem demonstrado devidamente, a omissão quanto à violação da coisa julgada, persistente mesmo após a oposição de três aclaratórios, por ambas as partes.
+Aduzem terem sido excluídos os valores relativos a juros compensatórios e honorários advocatícios, conforme dispostos no título transitado em julgado, da conta que visava cumprir determinação desta Corte Superior de inclusão dos expurgos inflacionários relativos a março, abril e maio de 1990.
+Afirmam também omissão quanto ao termo final de incidência de juros compensatórios, honorários advocatícios e correção monetária, que deveria corresponder à data de efetivo pagamento e não só até à data de expedição do ofício requisitório de cada precatório.
+Alegam ainda que, tendo o título judicial transitado força executiva na sua inteireza, rege não só as rubricas devidas, mas, também, sua forma de incidência. Ao alterar tais critérios, estaria violada a coisa julgada, argumento devidamente desenvolvido no recurso especial, merecendo este trânsito a este colegiado.
+Por fim, indicam terem realizado o cotejo analítico quanto à exceção à não incidência de juros de mora no período de pagamento previsto constitucionalmente para os precatórios, quando tais parcelas são dispostas expressamente na sentença transitada em julgado (e-STJ, fls. 2.686-2.705).
+O Município do Rio de Janeiro, a seu turno, aduz haver demonstrado omissão no que concerne à incidência de juros de mora e à forma de atualização da conta. Sustenta haver indicado como devido o cálculo que proceda à correção não só do quanto não pago, mas, também, das parcelas já pagas, com inclusão dos expurgos em ambas.
+Aduz ter sido inicialmente, nos primeiros embargos, afastados os juros de mora e compensatórios sobre a diferença de correção monetária devida a partir da inclusão dos expurgos, à luz do disposto no título exequendo. Entretanto, no julgamento dos segundos embargos, as parcelas relativas aos juros de mora teriam sido reincluídas indevidamente, além de ter sido considerado equivocadamente o termo final de correção dos precatórios já pagos.
+Argumenta ter realizado o cotejo analítico quanto à divergência no que diz respeito à inclusão indevida de juros moratórios no prazo constitucional de pagamento, bem como de compensatórios após a data do pagamento do primeiro precatório.
+Acresce ter questionado a ocorrência de preclusão e prescrição quanto a eventuais rubricas não pagas por ocasião da quitação das parcelas de precatórios, diante de insurgência das partes somente 23 anos após o pagamento do primeiro precatório, em 1984.
+Portanto, seria necessário o processamento do recurso especial da municipalidade (e-STJ, fls. 2.657-2.685).
+Contraminutas às e-STJ, fls. 2.708-2.737 e 2.738-2.757 e contrarrazões às e-STJ, fls. 2.580-2.604 e 2.608-2.637.
+Parecer pela negativa de provimento aos agravos, por tratar-se nos recursos especiais de matéria fática (e-STJ, fls. 2.788-2.799).
+É o relatório.
+Atendidos os requisitos de conhecimento dos presentes agravos, passo a examinar os recursos especiais interpostos (e-STJ, fls. 2.489-2.512 e 2.517-2.550).
+[NOME] - Espólio e outros e Município do Rio de Janeiro recorrem com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro assim ementado (e-STJ, fls. 2.403-2.404):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA. PERÍCIA DESNECESSÁRIA. CÁLCULOS DO CONTADOR QUE DEVEM SER REFEITOS.
+1. Cuida-se de agravo de instrumento contra decisão que, em ação de desapropriação em fase de execução, indeferiu o pedido formulado pelo exequente às fls. 1875 e determinou o recolhimento e restituição do precatório em questão, sem pagamento do crédito nele constante, imediatamente, contendendo inservíveis os cálculos elaborados e determinou a realização de perícia para apuração se ainda há qualquer valor a ser pago a parte autora e quanto, facultando as partes a indicação de assistentes técnicos e apresentação de quesitos.
+2. Defendem a observância da coisa julgada, ao passo que a Municipalidade agravada impugna em relação à incidência de juros de mora e compensatórios.
+4. Contudo, pende divergência entre as partes quanto ao valor da divida remanescente, proveniente da correção monetária e juros de precatórios já pagos pelo ora agravado.
+5. O juízo a quo entendeu serem imprestáveis os cálculos do contador judicial, determinando a realização de perícia, a fim de que seja apurado se ainda há qualquer valor a ser pago à parte autora.
+6. Correta a decisão atacada quando rechaça a aplicação de juros compensatórios e moratórios de forma ininterrupta.
+7. A Constituição da República Federativa do Brasil de 1988 determina que os valores constantes de precatórios judiciais, apresentados até 1o de julho, devem ser pagos até o final do exercício seguinte, quando terão seus valores atualizados monetariamente (art.100, parágrafo primeiro). Súmula Vinculante nº 17 do STF.
+8. Logo, se os precatórios judiciais em questão foram pagos dentro do prazo constitucional estabelecido, não há que se falar em incidência dos juros de mora.
+9. Não se deve aplicar no presente caso o disposto no art. 354 do Código Civil, por ser dívida da Fazenda Pública. Precedentes do STJ.
+10. Reforma parcial da decisão para determinar que os cálculos sejam refeitos pelo contador judicial no prazo de 20 (vinte dias), observando os critérios definidos.
+11. Parcial provimento do recurso.
+Opostos aclaratórios por ambas as partes (e-STJ, fls. 2.416-2.418 e 2.420-2.428), somente os do Município foram julgados, em acórdão assim ementado (e-STJ, fls. 2.438-2.439):
+EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ARTIGO 535 DO CPC.
+1. Os embargos declaratórios destinam-se a sanar obscuridade, contradição ou omissão no decisum, estando seu cabimento adstrito às hipóteses legais previstas no art. 535 do Código de Processo Civil.
+2. Houve pequeno erro material na parte dispositiva do acórdão atacado, pois deixou de constar no Item IV os juros compensatórios. Correção.
+PRETENSÃO DE REDISCUSSÃO DA MATÉRIA E ATRIBUIÇÃO DE EFEITOS INFRINGENTES AO RECURSO.
+2. O provimento judicial efetivo e adequado prescinde da análise de todos os pontos abordados pelas partes, mas tão-somente àqueles necessários ao deslinde do litígio.
+3. Impossibilidade de rediscussão da matéria já analisada. Ausência de caráter integrativo do recurso.
+PREQUESTIONAMENTO.
+4. Não existe qualquer exigência legal de menção expressa aos dispositivos tidos por violados, sendo suficiente que a decisão aponte os fundamentos jurídicos que embasaram o julgamento da causa.
+5. Correção de erro material constante na parte dispositiva do acórdão atacado.
+6. Desprovimento dos embargos de declaração.
+Diante de novos embargos pelos particulares (e-STJ, fls. 2.450-2.457), estes foram desprovidos, nos seguintes termos (e-STJ, fls. 2.462-2.463):
+EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ARTIGO 535 DO CPC.
+1. Os embargos declaratórios destinam-se a sanar obscuridade,
+contradição ou omissão no decisum, estando seu cabimento adstrito às hipóteses legais previstas no art 535 do Código de Processo Civil.
+PRETENSÃO DE REDISCUSSÃO DA MATÉRIA E ATRIBUIÇÃO DE EFEITOS INFRINGENTES AO RECURSO.
+2. O provimento judicial efetivo e adequado prescinde da análise de todos os pontos abordados pelas partes, mas tão-somente àqueles necessários ao deslinde do litígio.
+3. Impossibilidade de rediscussão da matéria já analisada. Ausência de caráter integrativo do recurso.
+4. Esclarecimentos realizados com o intuito de dirimir qualquer dúvida que possa existir para o cumprimento do acórdão ora atacado.
+PREQUESTIONAMENTO.
+5. Não existe qualquer exigência legal de menção expressa aos dispositivos tidos por violados, sendo suficiente que a decisão aponte os fundamentos jurídicos que embasaram o julgamento da causa.
+6. Embargos de declaração desprovidos esclarecendo-se as questões analisadas na fundamentação.
+Ambas as partes, então, opuseram novos aclaratórios (e-STJ, fls. 2.470-2.474 e 2.476-2.480), obtendo o seguinte provimento (e-STJ, fl. 2.483):
+DOIS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS NO ARTIGO 535 DO CPC.
+1. Os embargos declaratórios destinam-se a sanar obscuridade, contradição ou omissão no decisum, estando seu cabimento adstrito às hipóteses legais previstas no art. 535 do Código de Processo Civil.
+PRETENSÃO DE REDISCUSSÃO DA MATÉRIA E ATRIBUIÇÃO DE EFEITOS INFRINGENTES AO RECURSO.
+2. O provimento judicial efetivo e adequado prescinde da análise de todos os pontos abordados pelas partes, mas tão-somente àqueles necessários ao deslinde do litígio.
+3. Impossibilidade de rediscussão da matéria já analisada. Ausência de caráter integrativo do recurso.
+PREQUESTIONAMENTO.
+4. Não existe qualquer exigência legal de menção expressa aos dispositivos tidos por violados, sendo suficiente que a decisão aponte os fundamentos jurídicos que embasaram o julgamento da causa.
+5. Desprovimento dos embargos de declaração opostos por ambas as partes.
+Dessa decisão, recorreram ambas as partes, tendo sido os dois recursos especiais inadmitidos na origem (e-STJ, fls. 2.649-2.653), cujo processamento ora se determina. Passo a examiná-los.
+Historiciando o processo, iniciado em 1944, verifica-se ter a imissão na posse ocorrido em 1962, tendo sido o depósito da oferta comunicado aos expropriados somente em 1956, data em que a sentença fixaria o termo inicial de sua correção.
+Em 1979, os expropriados moveram a ação que deu origem ao presente feito, no qual pleitearam o ressarcimento das perdas em que incorreram devido ao ato ilícito do Poder Público, constituído pelo pagamento a menor da indenização expropriatória, sem correção e outras parcelas, no processo inicial de desapropriação.
+O laudo pericial deste feito foi elaborado em 1980, e a sentença proferida em 1981. A correção dos valores obtidos pelo perito se faria a partir de um ano após o laudo produzido neste novo processo. Os juros compensatórios foram fixados em 12% ao ano, desde a imissão na posse. Os de mora, em 6% ao ano a partir do trânsito em julgado da sentença. Fixou-se honorários de 5% sobre o total devido.
+Em apelação, os expropriados obtiveram a fixação do termo inicial dos juros moratórios na citação e o da correção do preço no laudo pericial, além de elevação dos honorários para 10%, considerados inclusive os juros compensatórios nessa base de cálculo.
+A execução foi buscada em 1983, quando se procedeu à primeira liquidação. Nela incluiram-se, conforme o Município, os valores devidos a título de principal, correção monetária, sucumbência e juros moratórios e compensatórios, com expedição do precatório em seguida.
+Por ocasião da 9ª parcela, diante dos pacotes econômicos da década de 80, os expropriados buscaram a correção monetária relativa aos expurgos inflacionários, direito reconhecido por esta Corte em 1999 (REsp 225.932).
+Com esse reconhecimento, voltou-se à execução, que foi embargada pelo Município. Em 2009, os embargos foram anulados, com determinação, pelo TJRJ, de seguimento da execução conforme os títulos originais e acréscimos decorrentes dos expurgos.
+Transitada em julgado a decisão, foi apresentada nova conta pelos expropriados, certificada pela contadoria, obtendo-se o valor de R$ 94 milhões (R$ 93.979.118,58), em 2010.
+Determinada a expedição de precatório nesse montante, o Município agravou de instrumento, apontando excesso de execução pela inclusão de juros moratórios e compensatórios e honorários advocatícios nos cálculos. O TJRJ determinou a elaboração de novos cálculos pela contadoria, que obteve o valor de R$ 54 milhões para 2010 (R$ 54.639.199,34).
+Diante da diferença, o Tribunal local cassou a expedição do precatório, mas observou o descabimento da pretensão do ente público de rediscutir as parcelas relativas a juros moratórios e compensatórios, correção monetária e honorários, tornadas definitivas pelo título exequendo.
+Esse acórdão deu origem a recursos especiais julgados por este colegiado em 2016 (REsp 1.417.254), que foram ambos parcialmente conhecidos e, no quanto conhecidos, desprovidos.
+Antes de concluído o julgamento supracitado, os autos foram à contadoria para atualização dos cálculos, concluindo-se em 2012 pelo saldo de R$ 64 milhões (R$ 64.136.272,51), já descontados os valores pagos em precatórios anteriores.
+O Município se insurgiu novamente, tendo o juízo inicial acolhido parcialmente as alegações. Em agravo de instrumento dos particulares, julgado em 2014, foi em parte mantida a sentença, dando origem aos presentes recursos.
+Nesta sede, o Município do Rio de Janeiro defende que o acórdão recorrido limitou-se a rejeitar a realização de perícia para averiguação do saldo remanescente, determinando que o cálculo seja feito pela contadoria. Para os expropriados, o provimento altera a coisa julgada, excluindo parcelas já reconhecidas em reiteradas decisões definitivamente transitadas.
+Sustentam os particulares terem obtido, em sentença transitada em julgado, direito às seguintes parcelas incidentes sobre complementação do valor da desapropriação: atualização monetária, juros compensatórios de 12%, juros de mora de 6% desde a citação e honorários advocatícios de 10% sobre o total devido.
+No acórdão recorrido, entretanto, a Corte a quo teria afastado da verba devida os valores relativos aos juros compensatórios e aos honorários advocatícios. Além disso, o termo final da correção deveria ser, conforme anteriormente disposto em decisão irrecorrível, a data de efetivo pagamento e não a da expedição do precatório complementar.
+A seu turno, afirma o ente público ter o Tribunal local incorrido na seguinte sequência decisória:
+1 - acórdão: incluir todas as rubricas do título executivo judicial e os expurgos inflacionários, calculados até a data de expedição de cada ofício requisitório, afastados os juros de mora no prazo constitucional de pagamento;
+2 - primeiros aclaratórios, opostos pelo Município: corrigindo erro material, afastar a incidência de juros moratórios e compensatórios no prazo constitucional;
+3 - segundos aclaratórios, opostos pelos expropriados: em esclarecimento do decidido, determinou-se o recálculo dos valores originais com a inclusão dos expurgos até a data de expedição de cada ofício requisitório. Obtido o valor atualizado, deveria o contador abater o valor requisitado, resultando na diferença em favor dos expropriados. Sobre esse saldo, incidiriam "correção monetária e juros de mora, na forma estabelecida no título executivo judicial, até a data de expedição do novo precatório";
+4 - terceiros aclaratórios, opostos por ambas as partes: foram rejeitados por suposta não ocorrência das hipóteses de cabimento.
+Nesse passo, apontam os particulares violação dos arts. 467 e 535 do CPC/1973. Afirmam ter questionado a violação dos critérios determinados no título exequendo, não tendo, apesar disso, a Corte local enfrentado a matéria. Além disso, questionaram diretamente os próprios critérios alterados e parcelas suprimidas, ponto sobre o qual igualmente teria se omitido a origem.
+Para fins de divergência, indicam precedente desta Segunda Turma em que, ao contrário do disposto na origem, se manteve a incidência de juros moratórios no prazo de pagamento constitucional, a despeito da Súmula Vinculante 17, por estar expressamente determinada a aplicação da parcela no título transitado em julgado (REsp 1.257.457).
+Por sua vez, conforme o Município, nos segundos embargos, a Corte de origem teria incorrido em contradição, ao voltar a determinar a incidência dos juros moratórios no prazo constitucional, apesar de terem sido todos os 9 precatórios anteriores quitados tempestivamente. Aduz que a condenação no precatório restante deveria se limitar aos expurgos relativos a 1989 e 1990.
+Diante do provimento finalmente obtido, aponta o Município do Rio de Janeiro violação dos arts. 463, I e II, e 535 do CPC/1973.
+Argumenta ter questionado a ocorrência de prescrição e preclusão como fatos impeditivos à cobrança de juros moratórios e compensatórios após a expedição, sem impugnação, do primeiro precatório, matéria sobre a qual a Corte local não se manifestou.
+Aduz ainda a obscuridade e contradição emanada no julgamento dos segundos aclaratórios, quando teriam sido restabelecidas as parcelas afastadas nos julgados anteriores, apesar de se afirmar que se está apenas a esclarecer o julgado.
+Sustenta ter apontado os vícios por ocasião dos últimos embargos, que, não obstante, foram rejeitados, ensejando a violação da norma processual.
+Colaciona, ainda, o Município julgados em que se afastou a incidência dos juros moratórios e remuneratórios após o pagamento tempestivo do primeiro precatório.
+No caso presente, tal pagamento teria ocorrido em dezembro de 1984. Afirma o ente público não ter havido a inclusão dos juros moratórios e compensatórios desde então e pelos demais precatórios pagos, que somente agora, por ocasião da 10ª parcela, passados 23 anos da primeira quitação, vieram a ser pleiteados. Reitera ter a Corte a quo, no julgamento dos segundos aclaratórios, reconhecido tal incidência, apesar de apenas manifestar estar esclarecendo o julgado.
+Alega ainda o Município que a sentença exequenda dispôs apenas que os juros moratórios e compensatórios incidiriam até a data de homologação do cálculo que serviu à expedição do primeiro aclaratório. Novas incidências de tais rubricas só seriam permitidas, quanto aos moratórios, se houvesse atraso no pagamento dos precatórios subsequentes, que não existiram na hipótese; quanto aos compensatórios, nem nessa situação.
+Acresce que todas as disposições relativas a juros seriam de ordem pública e, portanto, não violaria a coisa julgada sua aplicação conforme a lei vigente na respectiva época.
+Passo, agora, a apreciar as alegações.
+Em síntese, ambas as partes afirmam a ocorrência de nulidade por ocasião do julgamento dos terceiros embargos, por omissão, contradição ou obscuridade, e por violação da coisa julgada, no momento do julgamento dos segundos embargos.
+Para os particulares, o acórdão não poderia ter excluído da verba a ser corrigida pela inclusão dos expurgos os valores relativos aos juros compensatórios e aos honorários advocatícios, além de não poder alterar o termo final da correção para a data de expedição do precatório complementar em vez da do efetivo pagamento.
+Para o Município, o Tribunal incorreu em contradição ao reincluir, a título de esclarecimento nos segundos embargos, as parcelas relativas aos juros de mora e compensatórios após a expedição do primeiro precatório.
+Preliminarmente, é necessário analisar o ponto controvertido quanto aos segundos aclaratórios. Veja-se o disposto, no quanto relevante para a causa aqui posta, no voto condutor desse julgamento (e-STJ, fls. 2.464-2.465, grifos acrescidos):
+A decisão recorrida examinou de forma apropriada e devidamente motivada a matéria posta nos autos, entendendo ser desnecessária a perícia, devendo ser refeitos os cálculos pelo próprio contador judicial.
+- Da inexistência da alegada omissão no acórdão atacado:
+O decisum pontuou que, não obstante o profissional ter afirmado que "os valores encontram-se deduzidos por seu valor efetivamente pago" (fl. 1.835), o cálculo não deixa claro se houve o desconto sobre o principal do valor da indenização já recebida pelos credores por meio dos diversos precatórios expedidos na demanda e, em caso positivo, se estes foram corrigidos ou utilizados seu valor histórico.
+Destacou que, segundo o sistema dos precatórios judiciais, previsto na Emenda Constitucional 62/2009 e na Resolução 10 do Órgão Especial deste Tribunal, o cálculo correto para apuração da quantia devida a título de expurgos inflacionários, é aquele no qual é utilizado o valor histórico de cada precatório já pago (leia-se valor na data do ofício de requisição do precatório).
+Explicou que, a partir desta data, dentro do prazo legal previsto para pagamento dos precatórios, ou seja, entre a data do ofício requisitório e a data do efetivo pagamento pela Fazenda Pública, há a incidência de correção monetária e juros de mora previstos no sistema próprio de precatórios, ambos calculados pelo Setor de Precatórios da Presidência deste Tribunal, afastando os acréscimos legais comuns a qualquer cálculo judicial, a fim de que não ocorra bis in idem, fenômeno rechaçado pelo nosso ordenamento jurídico.
+Ressaltou que a decisão atacada encontra-se correta quando rechaça a aplicação de juros compensatórios e moratórios de forma ininterrupta.
+Asseverou que o Supremo Tribunal Federal, em entendimento fixado pela Súmula Vinculante nº 17, manifestou-se no sentido de não serem devidos os juros moratórios no período compreendido entre a data da expedição do precatório e a do efetivo pagamento, se realizado dentro do prazo constitucionalmente estipulado.
+ ..
+- Da ausência de contradição no acórdão atacado:
+O decisum, na sua parte final, deixou evidente que deverão ser observados os critérios estabelecidos na sentença conjugados com aqueles definidos no acórdão proferido pelo Superior Tribunal de Justiça no RESP 225932, de Relatoria do Ministro José Delgado, publicado em 02/12/1999.
+Apenas com o intuito de esclarecer e dirimir qualquer dúvida que possa existir para o cumprimento do acórdão ora atacado, o Contador Judicial deverá refazer o cálculo originário da demanda com a incidência dos expurgos inflacionários determinados pelo STJ até a data de expedição do ofício requisitório de cada precatório.
+Desse quantum apurado, deverá ser abatido o valor requisitado de cada um, que resultará na diferença a ser paga aos exequentes, acrescida de correção monetária e juros de mora, na forma estabelecida no titulo executivo judicial, até a data de expedição do novo precatório.
+Nessa linha de intelecção, não há que se falar em contradição, uma vez que serão utilizados os critérios determinados no título executivo judicial, em respeito à coisa julgada.
+Consta, por outro lado, no primeiro acórdão (e-STJ, fl. 2.408, grifos acrescidos):
+Sobreveio sentença de procedência em que foi condenado o ente municipal a indenizar os expropriados. Estabeleceu o julgador os seguintes critérios:
+I) correção do valor à disposição dos expropriados nos autos da ação expropriatória, desde quando tiveram ciência inequívoca de seu depósito (18/08/56), até o momento em se elaborou o laudo pericial (11/06/80);
+II) dedução desse valor, assim corrigido, da indenização que fixou o perito em seu laudo;
+III) prosseguimento da operação corretiva da moeda, pelo saldo, por essa forma obtido, a contar de um ano da elaboração do laudo até o efetivo pagamento, em seqüência trimestral, consoante índices aplicáveis;
+IV) cálculo de juros compensatórios a partir da imissão na posse do imóvel (06/02/62), sobre a diferença apurada, com a correção a que está sujeita, até o pagamento integral do quantum debeatur, à razão de 12% ao ano;
+V) juros de mora a partir do trânsito da sentença (seis por cento ao ano) e
+VI) cômputo da valor da verba honorária em cinco por cento sobre o quantum devido, nos termos do art. 20, §4º, do CPC.
+De fato, verifica-se haver não só contradição interna como obscuridade no julgado dos segundos aclaratórios. Fica evidente a incompatibilidade entre os critérios fixados na sentença exequenda e os determinados no próprio julgamento do acórdão ora recorrido, em particular quanto aos juros compensatórios, moratórios e seus termos finais de incidência.
+Diante dessa premissa, observa-se também a potencial existência de omissões em relação à argumentação expendida na origem sobre a violação da coisa julgada, que deverá ser também dirimida pela instância competente, após a definição precisa do que necessitará ser efetivamente observado pela contadoria.
+Por mais que se lamente o alongamento da solução de lide iniciada há mais de sete décadas, não há outra solução viável que não a explicitação do quanto efetivamente decidido pelo Tribunal local, cuja interpretação dos critérios de cálculo a serem observados podem resultar em diferenças, ao que consta, da ordem de R$ 60 milhões.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço dos agravos para dar provimento aos recursos especiais, a fim de anular o julgamento dos terceiros embargos de declaração e determinar o retorno dos autos à origem, para que se aprecie com integralidade as alegações deduzidas nos aclaratórios de ambas as partes.
+Publique-se. Intimem-se.
