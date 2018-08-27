@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL - INADIMPLENCIA COMPRADOR - RESOLUÇÃO DO CONTRATO - MULTA DE 10% SOBRE O VALOR TOTAL DO CONTRATO - IMPOSSIBILIDADE - RECURSO PROVIDO.
+- A promitente vendedora tem a obrigação de devolver, de uma só vez, as parcelas pagas pelo comprador inadimplente, assistindo-lhe o direito de reter o percentual de 10% (dez por cento) sobre o valor pago, a título de perdas e danos.
+- Recurso provido.
+Embargos de declaração rejeitados.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 1.022 do Código de Processo Civil de 2015 e 113, 417, 418, 420 e 725 do Código Civil, sustentando negativa da prestação jurisdicional e a validade da cláusula contratual para o caso de desistência do contrto d compra e venda de imóvel, fixada em 10% (dez por cento) do valor do contrato, porque atende a razoabilidade e proporcionalidade.
+É o relatório. Decido.
+No caso, o col. Tribunal a quo, mediante análise do contexto fático-probatório dos autos, concluiu pela índole abusiva da cláusula penal fixada no contrato (10% sobre o valor integral do imóvel) e fixou o percentual de 10% sobre o valor pago pelo promitente-comprador (fls. 275/291).
+"É abusiva a cláusula que fixa a multa pelo descumprimento do contrato com base não no valor das prestações pagas, mas, no valor do imóvel, onerando demasiadamente o devedor" (REsp 907.856/DF, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/06/2008, DJe de 1º/07/2008).
+Quanto ao percentual da multa, a jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga, a exemplo dos seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. TUTELA ANTECIPADA DEFERIDA NA ORIGEM. CLÁUSULA INSTITUIDORA DE HIPOTECA DADA PELA CONSTRUTORA. SÚMULA Nº 308 DO STJ. DISTRATO. RETENÇÃO ENTRE 10% E 25% DAS PRESTAÇÕES PAGAS. SÚMULA Nº 83 DO STJ. REQUISITOS. SÚMULA Nº 7 DO STJ. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO NÃO PROVIDO. (..)
+(AgRg no REsp 1.500.990/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/04/2016, DJe de 10/05/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. CONTRATO DE COMPROVA E VENDA DE IMÓVEL. RESCISÃO. INADIMPLEMENTO DA RECORRIDA CONFESSADO. PERMANÊNCIA NO IMÓVEL. INDENIZAÇÃO DA RECORRENTE. RETENÇÃO DE 10% (DEZ POR CENTO) DAS PARCELAS PAGAS. DEVOLUÇÃO DO IMÓVEL COM AS BENFEITORIAS REALIZADAS PELA RECORRIDA. EQUILÍBRIO ECONÔMICO E SUFICIÊNCIA DA INDENIZAÇÃO PELA OCUPAÇÃO INDEVIDA DO IMÓVEL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 07/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 605.144/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/10/2016, DJe de 25/10/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. RETENÇÃO. PERCENTUAL DE 10%. RAZOABILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA DESTE TRIBUNAL SUPERIOR. SÚMULA 83 DO STJ. AGRAVO NÃO PROVIDO. (..)
+(AgRg no AREsp 807.880/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2016, DJe de 29/04/2016)
+Dessa forma, em se tratando de resolução do contrato de promessa de compra e venda de imóvel por culpa do promitente-comprador, entendo que a retenção do percentual de 10% dos valores pagos à construtora não se distancia do admitido por esta Corte Superior, atraindo a aplicação da Súmula 83 do STJ.
+Outrossim, não é possível, na via especial, a modificação das premissas lançadas no v. acórdão recorrido acerca do percentual retido a título de cláusula penal melhor condizente com a realidade do caso concreto e a finalidade do contrato, pois a isso se opõem os óbices contidos nas Súmulas 5 e 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. MULTA CONTRATUAL. ONEROSIDADE EXCESSIVA. MATÉRIA QUE DEMANDA REEXAME DE PROVAS E DA RELAÇÃO CONTRATUAL. SÚMULAS 5 E 7 DO STJ. DESPROPORCIONALIDADE DO VALOR. REDUÇÃO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão estadual consignou que o valor avençado acarretou excessiva onerosidade ao promissário-comprador e o enriquecimento sem causa do promitente-vendedor. A revisão do julgado demandaria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+2. A jurisprudência consolidada neste Sodalício permite, quando verificada a onerosidade ao promissário-comprador, a possibilidade de redução da cláusula penal compensatória a patamar justo.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 996.306/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe de 20/02/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. RETENÇÃO. PERCENTUAL DE 10%. RAZOABILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM A JURISPRUDÊNCIA DESTE TRIBUNAL SUPERIOR. SÚMULA 83 DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO. (..)
+4. Não é possível, na via especial, a modificação das premissas lançadas no acórdão recorrido acerca do percentual retido a título de cláusula penal melhor condizente com a realidade do caso concreto e a finalidade do contrato, pois a isso se opõem os óbices contidos nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1016138/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/11/2017, DJe 22/11/2017)
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro em 1% (um por cento) os honorários advocatícios fixados em 10% sobre o valor da causa para a parte recorrente.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
