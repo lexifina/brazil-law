@@ -9,3 +9,5 @@ VII - afiançar a vigilância socioassistencial e a garantia de direitos.
 § 1º As ações ofertadas no âmbito do Suas têm por objetivo a proteção à família, à maternidade, à infância, à adolescência e à velhice e, como base de organização, o território.
 § 2º O Suas é integrado pelos entes federativos, pelos respectivos conselhos de assistência social e pelas entidades e organizações de assistência social abrangidas por esta Lei.
 § 3º A instância coordenadora da Política Nacional de Assistência Social é o Ministério do Desenvolvimento Social e Combate à Fome.
+§ 4º Cabe à instância coordenadora da Política Nacional de Assistência Social normatizar e padronizar o emprego e a divulgação da identidade visual do Suas.
+§ 5º A identidade visual do Suas deverá prevalecer na identificação de unidades públicas estatais, entidades e organizações de assistência social, serviços, programas, projetos e benefícios vinculados ao Suas.
