@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do respectivo ente federativo, assim ementado:
+"AGRAVO EM EXECUÇÃO. RECONHECIMENTO DE FALTA GRAVE. PRÁTICA DE FATO DEFINIDO COMO CRIME DOLOSO. PRELIMINAR CONTRARRECURSAL DE NÃO CONHECIMENTO PELA AUSÊNCIA DE PEÇAS ESSENCIAIS AO EXAME DO MÉRITO.
+A falta de peças essenciais ao exame do mérito do agravo em execução, no caso, cópia de eventual procedimento administrativo disciplinar instaurado, cópia de eventual denúncia apresentada ou do conjunto probatório que a tenha instruído, implica o não conhecimento do recurso, nos termos do art. 587, parágrafo único, do Código de Processo Penal.
+PRELIMINAR CONTRARRECURSAL ACOLHIDA. AGRAVO NÃO CONHECIDO" (e-STJ, fl. 38).
+Conforme se depreende dos autos, o Juízo das Execuções determinou que se aguardasse o deslinde de outro feito criminal na origem, para, somente após isso, apurar-se a eventual existência de falta grave praticada pelo recorrido (e-STJ, fls. 7-8).
+Irresignado, o Parquet estadual interpôs agravo em execução, perante o Tribunal de origem, que não conheceu da irresignação, conforme ementa anteriormente transcrita.
+Nas razões deste recurso, o Parquet estadual aponta violação dos arts. 587 e 588, ambos do Código de Processo Penal, aduzindo, em síntese, que o Tribunal de origem exigiu do próprio órgão ministerial a juntada de peças para a instrução do recurso então interposto, não reconhecendo, como bastante, a mera indicação de quais documentos o recorrente pretendia fazer juntar àquela peça processual.
+Requer, assim, que se determine ao TJRS que ultrapasse a preliminar em tela, para, no mérito, acolher o pedido originalmente formulado no agravo.
+Contrarrazões às fls. 68-71 (e-STJ).
+Após o juízo de admissibilidade (e-STJ, fls. 74-78), os autos ascenderam a esta Corte Superior.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 98-101).
+É o relatório.
+Decido.
+A pretensão recursal não merece acolhimento.
+Conforme se verifica, o motivo do não conhecimento do agravo pelo Tribunal a quo foi a ausência de juntada de qualquer documento que amparasse sua pretensão, nos termos da seguinte fundamentação:
+" ..  Em sede contrarrecursal, a defesa técnica do apenado [NOME] arguiu preliminar de não conhecimento do recurso ministerial, sustentando a ausência de elementos concretos que permitam o reconhecimento judicial da prática de falta grave, pois não foram juntados ao instrumento cópias da denúncia relativa ao suposto delito perpetrado pelo apenado e tampouco a decisão de seu recebimento, o que inviabilizaria o exame do mérito recursal.
+A preliminar aventada merece acolhimento.
+Assim como bem pontuado pela defesa técnica e asseverado pelo parecer ministerial, verifica-se, de fato, não terem sido acostadas peças que permitam o exame do mérito.
+O Parquet declara ter o apenado praticado fato previsto como crime doloso no curso da execução, assinalando que tal fato é objeto de exame do processo criminal n. 069/2170000260-8. Entretanto, limita-se o recorrente a isso, não munindo esta corte de elementos probatórios mínimos que permitam identificar qual seria o fato previsto como crime supostamente perpetrado. Ademais, reconheço que, de fato, o processo criminal informado e pelo qual estaria o agravado supostamente respondendo é dado como inexistente, conforme consulta processual ao site deste tribunal de justiça.
+No caso em questão, apenas a cópia de eventual procedimento administrativo disciplinar instaurado, cópia de denúncia apresentada ou do conjunto probatório que a instruiu (como inquérito policial ou boletim de ocorrência) seriam hábeis a dirimir as incongruências que obstam o exame do mérito.
+Cumpre ressaltar ser ônus do agravante a indicação de peças para traslado, bem como a conferência do recurso, sob pena de carência de pressuposto de admissibilidade recursal.
+Desta forma, entendo que o recurso não obedeceu à formalidade expressa no artigo 587, parágrafo único, do Código de Processo Penal, em vista da deficiente instrução ocasionada pela ausência de peças necessárias ao deslinde do feito" (e-STJ, fls. 64-65, grifou-se).
+A regra prevista no art. 587 do Código de Processo Penal estabelece que "quando o recurso houver de subir por instrumento, a parte indicará, no respectivo termo, ou em requerimento avulso, as peças dos autos de que pretenda traslado". Nesse sentido:
+"RECURSO ESPECIAL. PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. ART. 197 DA LEI N. 7.210/1984. OBSERVÂNCIA DO RITO DO RECURSO EM SENTIDO ESTRITO. ART. 587 DO CPP. FORMAÇÃO DO INSTRUMENTO. TRASLADO DAS PEÇAS. ATRIBUIÇÃO DO ESCRIVÃO. PROVIMENTO.
+1. Nos termos da jurisprudência do STJ, à míngua de expressa previsão legal, deve ser observado o rito do recurso em sentido estrito quando do manejo do recurso de agravo em execução.
+2. Conforme o art. 587 do Código de Processo Penal, quando o recurso tiver que subir por instrumento, a parte fará a indicação das peças que deverão ser trasladadas, cuja extração compete à escrivania do Juízo de primeiro grau. Precedentes.
+3. Logo, tendo sido indicados os documentos necessários para a instrução do agravo, não poderia a Corte de origem deixar de conhecer do recurso em razão da sua ausência.
+4. Recurso especial provido para determinar que, após a baixa dos autos para o traslado das peças indicadas pelo recorrente, o agravo em execução ministerial seja submetido a julgamento pelo Tribunal a quo."
+(REsp n. 1497029/MG, Relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/2/2015, DJe 25/2/2015).
+Desse modo, em uma análise preliminar, a Corte de origem não poderia alegar insuficiência na instrução para não conhecer do referido recurso. Todavia, no caso dos autos, mesmo considerando que a juntada das peças expressamente indicadas é ônus da serventia, verifica-se, da leitura das razões do recurso especial e da petição de agravo em execução (e-STJ, fls. 11-15), que o Ministério Público estadual não logrou indicar nenhuma das peças que julgava essenciais à formação do traslado.
+Assim, uma vez que o Parquet não indicou a necessidade de extração de cópia de quaisquer dos documentos que entendia necessários à análise de sua pretensão recursal, não há falar em ofensa ao disposto nos 587 e 588, ambos do Código de Processo Penal. Ilustrativamente, confira-se o precedente:
+" ..  2. Conforme o art. 587 do CPP, "quando o recurso houver de subir por instrumento, a parte indicará, no respectivo termo, ou em requerimento avulso, as peças dos autos de que pretenda traslado", cuja extração compete à escrivania do Juízo de primeiro grau.
+3. O acórdão recorrido não conheceu do agravo em execução interposto pelo Ministério Público por defeito no traslado das peças processuais - ausência da certidão de intimação da decisão agravada -, ressaltando que tal documento não foi indicado para traslado (e-STJ fl. 123).
+4. Constata-se que o ora recorrente não indicou, à e-STJ fl. 2, a extração de cópia da certidão de intimação da decisão agravada para ser encaminhada ao Tribunal local para fins de análise do recurso de agravo em execução, peça essencial para seu conhecimento, estando, portanto, correta a instância originária que, alegando insuficiência de instrução, não conheceu do aludido agravo, pois cabia ao recorrente a indicação das peças dos autos de que pretendia traslado.
+5. Agravo regimental não provido."
+(AgRg no AREsp 439.181/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/11/2015, DJe 24/11/2015, grifou-se).
+Assim, por estar o acórdão recorrido em consonância com a jurisprudência firmada nesta Corte, a pretensão recursal esbarra no óbice previsto na Súmula 83 deste Superior Tribunal de Justiça, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
