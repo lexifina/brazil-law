@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de requerimento formulado em favor de [NOME], no qual pleiteia a extinção da sua punibilidade em vista da consumação da prescrição da pretensão punitiva (fls. 1472-1475).
+Aduz o requerente, em síntese, que a r. sentença condenatória foi publicada em 22/3/2010, a qual aplicou-lhe a pena de 2 (dois) anos de detenção. A defesa e o Ministério Público apelaram para o eg. Tribunal de origem, o qual manteve a condenação (fls. 1044-1073).
+Opostos embargos de declaração, foram rejeitados. Tendo o parquet sido intimado em 5/9/2011, do v. acórdão, porém, não apresentou recursos constitucionais.
+Assevera que " ..  em vista da pena aplicada (estabelecida em 2 anos), incide o prazo prescricional de 4 anos previsto no art. 109, inc. V, do CP, cuja fluência se observa entre a data da publicação da sentença condenatória (22.03.2010) até o dia 21.03.2014 (às 24:00 hrs.), tudo nos termos dos arts. 110, §1º, 117, inc. IV, e 114, inc. II, todos do CP, a revelar a ocorrência da prescrição da pretensão punitiva em sua forma intercorrente, subsequente, ou superveniente, verificando-se a extinção da punibilidade do peticionário." (fl. 1474)
+Assim, requer-se " ..  que decrete a extinção da sua punibilidade em vista da consumação da prescrição da pretensão punitiva na modalidade e sob as bases legais acima referidas." (fl. 1475)
+É o relatório.
+Decido.
+Sustenta o peticionário a necessidade do reconhecimento da prescrição da pretensão punitiva estatal, ao argumento de que, entre a data da publicação da sentença condenatória (22/3/2010) até o dia 21/3/2014, findou-se o prazo de 4 (quatro) anos previsto no art. 109, V, do Código Penal, para prescrição de sua reprimenda, estabelecida em 2 (dois) anos de detenção.
+A irresignação não merece prosperar.
+No caso dos autos, o requerente foi condenado como incurso no art. 90 da Lei n. 8.666/93, à pena de 2 (dois) anos de detenção, nos termos da r. sentença publicada em 23/3/2010. O eg. Tribunal de origem negou provimento à sua apelação (fls. 1044-1073), bem como rejeitou seus aclaratórios (fls. 1094-1115).
+O ora peticionante interpôs recurso especial e extraordinário que foram inadmitidos (fls. 1325-1348).
+Contra a inadmissão do especial, o requerente interpôs recurso de agravo (fls. 1385-1415), que foi conhecido para não conhecer do recurso especial, sob o fundamento de que o v. acórdão fustigado não violou o disposto no artigo 619 do Código de Processo Penal, incidência da Súmula n. 7 desta Corte de Justiça e, ainda, por estar em harmonia com a orientação jurisprudencial deste tribunal (fls. 1455-1460).
+Pois bem.
+A Terceira Seção dessa Corte Superior, no julgamento do EAREsp n. 386.266/SP, de relatoria do Ministro GURGEL DE FARIA, julgado em 12/08/2015, decidiu que "a coisa julgada retroagirá à data do escoamento do prazo para a interposição do recurso admissível".
+Ilustrativamente, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. DESAPARECIMENTO, CONSUNÇÃO OU EXTRAVIO. DESCLASSIFICAÇÃO PARA PECULATO CULPOSO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+ ..
+2. A Terceira Seção deste Tribunal Superior, ainda sob a égide do Código de Processo Civil de 1973, no julgamento dos EAREsp n. 386.266/SP, consolidou o entendimento de que, quando esta Corte Superior, ao analisar o agravo em recurso especial, confirma a decisão do Tribunal de origem que inadmitiu o recurso especial com base no art. 544, § 4º, II, "a" ou "b", 1ª parte, do CPC, a formação da coisa julgada retroage à data de escoamento do prazo para a interposição do último recurso cabível.
+3. Não decorridos 2 anos entre a publicação da sentença condenatória (18/9/2014) e o trânsito em julgado da condenação (8/6/2015), não se verifica a prescrição da pretensão punitiva.
+4. Agravo regimental não provido." (AgRg no AREsp 787.713/SP, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe 26/4/2017).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL. QUINZE DIAS. INTEMPESTIVIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. NÃO OCORRÊNCIA. APLICAÇÃO DO ENTENDIMENTO FIRMADO NO ARESP 32.688/DF. AGRAVO NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias, conforme estabelecido no art. 26 da Lei n. 8.038/1990.
+2. "A decisão de admissibilidade proferida pelo Tribunal estadual não vincula esta Corte Superior de Justiça, na medida em que tal juízo está sujeito ao duplo controle. Assim, aportados os autos neste Sodalício, nova análise do preenchimento dos pressupostos recursais deverá ser realizada" (AgRg no AREsp 705.453/RN, QUINTA TURMA, Rel. Ministro JORGE MUSSI, DJ 21/10/2015).
+3. Na esteira do decidido no julgamento do EAREsp n. 386.266/SP, pela Terceira Seção desta Corte, na verificação da prescrição da pretensão punitiva estatal, sendo a decisão que inadmite o recurso especial de natureza eminentemente declaratória (ex tunc), o trânsito em julgado retroagirá a data de escoamento do prazo para a interposição do recurso inadmissível.
+4. No caso, confirmado por esta Corte o juízo negativo de admissibilidade da origem, não há como reconhecer a prescrição da pretensão punitiva estatal em favor do agravante, pois não houve o transcurso de 4 anos entre os marcos interruptivos.
+5. Agravo regimental não provido" (AgRg no AREsp 460.957/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/02/2016).
+Dessarte, uma vez que o recurso especial interposto pelo ora requerente não foi conhecido, a data do trânsito em julgado da sentença retroage à data ao último dia do prazo de interposição do recurso especial na origem. Assim, entre a publicação da sentença condenatória (23/3/2010) e o termo ad quem para a interposição do último recurso cabível (30/9/2011, fl. 1.126) não transcorreu o lapso para a configuração da prescrição, qual seja, de 4 (quatro) anos, conforme disciplinado no artigo 109, inciso IV, do Código Penal.
+Ante o exposto, indefiro o pedido de reconhecimento da prescrição da pretensão punitiva manejado pelo requerente.
+[NOME]
