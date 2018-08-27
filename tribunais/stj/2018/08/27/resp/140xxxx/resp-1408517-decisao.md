@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado pela BRA Transportes Aéreos Ltda - em recuperação judicial com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 84):
+PROCESSUAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO FISCAL E DE ATOS CONSTRITIVOS. IMPOSSIBILIDADE.
+1 - 0 artigo 60, § 70 da Lei 11.101/2005 dispõe expressamente que as execuções de natureza fiscal não são suspensas pelo deferimento da recuperação judicial, ressalvada a concessão de parcelamento nos termos do Código Tributário Nacional e da legislação ordinária específica.
+II - Consoante extraímos do art. 50 da Lei n. 6.380/80, a execução da Dívida Ativa exclui qualquer outro Juízo.
+III - A circunstância de a Agravante encontrar-se em recuperação judicial não se afigura, por si só, como impedimento ao prosseguimento de atos de constrição em sede de execução fiscal, nos termos do art. 60, § 70 da Lei 11.101/2005 e o art. 187 do CTN.
+IV - Precedentes do Egrégio Superior Tribunal de Justiça e desta Corte.
+V - Agravo de instrumento improvido.
+É o breve relato.
+A questão trazida a debate no apelo especial diz respeito à possibilidade de constrição judicial de bens em execução fiscal cujo executado esteja sendo submetido a recuperação judicial em processo que tramita no Juízo competente.
+Verifica-se que, após a prolação do juízo de admissibilidade do recurso especial (fls. 610/612), a Primeira Seção deste Superior Tribunal de Justiça afetou o tema em debate para exame sob o rito do art. 1.036, § 5º, do CPC/2015 (Tema 987 - "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal"), onde foram destacados como representativos de controvérsia os seguintes feitos: REsp 1.694.261/SP, REsp 1.694.316/SP e REsp 1.712.484/SP.
+Confira-se a ementa do julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. PROPOSTA DE AFETAÇÃO COMO REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. PRÁTICA DE ATOS CONSTRITIVOS.
+1. Questão jurídica central: "Possibilidade da prática de atos constritivos, em face de empresa em recuperação judicial, em sede de execução fiscal".
+2. Recurso especial submetido ao regime dos recursos repetitivos (afetação conjunta: REsp 1.694.261/SP, REsp 1.694.316 e REsp 1.712.484/SP).
+(ProAfR no REsp 1.712.484/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 20/2/2018, DJe 27/2/2018)
+ Assim, mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Confiram-se, a propósito, os seguintes precedentes desta Corte: AgInt no AREsp 411.892/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 20/10/2017 e AgInt no AgRg nos EDcl no REsp 1.345.683/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 11/10/2017.
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+Em razão do exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, tendo havido a publicação do acórdão no recurso representativo da controvérsia, o apelo especial: I) tenha seguimento negado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; II) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, I e II, do CPC/2015).
+Publique-se.
