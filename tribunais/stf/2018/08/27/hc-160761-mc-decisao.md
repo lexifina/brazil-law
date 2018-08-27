@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO DOMICILIAR – ARTIGO 318, INCISO V, DO CÓDIGO DE PROCESSO PENAL – ADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo do Plantão da Comarca de Itapetininga/SP, no processo nº 1500080-93.2018.8.26.0571, converteu em preventiva a prisão em flagrante da paciente, ocorrida no dia 7 de junho de 2018, ante o suposto cometimento dos delitos previstos nos artigos 33, cabeça (tráfico de entorpecentes), e 35 (associação para o tráfico) da Lei nº 11.343/2006. Reportando-se a depoimentos de policiais militares responsáveis pelo flagrante, apontou a destinação da droga – 260,96 gramas de cocaína – a terceiros, inclusive a cidadãos custodiados. Concluiu necessária a medida para preservar a ordem pública, aludindo ao envolvimento em organização criminosa. Disse inviável proceder-se à conversão da preventiva em domiciliar, considerada a ausência de comprovação de ser mãe de filho menor de 12 anos e a integração a grupo voltado à prática de delitos.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 462.988. O Relator indeferiu a liminar.
+    O impetrante afirma desprovida de fundamentação concreta a decisão por meio da qual imposta a preventiva. Ressalta que não se demonstrou o envolvimento da paciente em organização criminosa. Destaca ausentes os pressupostos versados no artigo 312 do Código de Processo Penal. Evoca condições subjetivas favoráveis – primariedade e bons antecedentes. Diz possível a observância do artigo 318, inciso V, do Código de Processo Penal, uma vez que se trata de mãe de criança menor de 12 anos.
+    No campo precário e efêmero, requer o afastamento da preventiva ou, sucessivamente, a conversão em domiciliar. Busca, alfim, a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, no dia 24 de agosto de 2018, revelou que o processo, em trâmite na Primeira Vara Criminal da Comarca de Itapetininga/SP, aguarda a apresentação de defesa prévia.
+    A fase é de apreciação da medida de urgência.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, considerada a quantidade de entorpecente apreendido – 260,96 gramas de cocaína – e a alusão à participação em organização criminosa, indicam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que o impetrante demonstrou ser a paciente mãe de Gustavo Henrique Cardilho Ribeiro, nascido em 16 de abril de 2012 – na data de hoje, com 6 anos, 4 meses e 11 dias de idade. Vale notar que é primária, denunciada por infração praticada sem emprego de violência, grave ameaça ou contra descendente.
+    Muito embora a existência de filhos menores não seja, por si só, suficiente a afastar a custódia, estão preenchidos os requisitos para a incidência da Lei nº 13.257, de 8 de março de 2016, a dispor sobre políticas públicas alusivas à primeira infância, a qual incluiu o inciso V no artigo 318 do Código de Processo Penal, facultando a conversão da prisão preventiva – gênero – em domiciliar quando o agente for mulher com filho de até 12 anos de idade incompletos.
+    3. Defiro a liminar para substituir por prisão domiciliar a preventiva formalizada em desfavor da paciente pelo Juízo do Plantão da Comarca de Itapetininga/SP, no processo nº 1500080-93.2018.8.26.0571. Advirtam-na da necessidade de permanecer com a residência indicada, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda da cidadã integrada à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
