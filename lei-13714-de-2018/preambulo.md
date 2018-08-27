@@ -1,0 +1,2 @@
+Altera a Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre a responsabilidade de normatizar e padronizar a identidade visual do Sistema Único de Assistência Social (Suas) e para assegurar o acesso das famílias e indivíduos em situações de vulnerabilidade ou risco social e pessoal à atenção integral à saúde.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
