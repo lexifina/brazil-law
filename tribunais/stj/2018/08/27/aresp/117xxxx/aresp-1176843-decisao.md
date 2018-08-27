@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL (CPC/2015). AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM COM BASE NO ARTIGO 1.030, I, B, DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO CABIMENTO. DEMAIS FUNDAMENTOS DE INADMISSÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por COOPERATIVA HABITACIONAL NOVA ERA - BARUERI, contra a decisão do Tribunal de Justiça do Estado de São Paulo, que negou seguimento ao recurso especial em virtude de o acórdão recorrido, no que tange a forma de devolução dos valores devidos em relações consumeristas, estar em consonância com tese firmada sob o rito dos recursos repetitivos (tema 577).
+Ato contínuo, não admitiu o recurso especial, por considerar que: (i) não restou demonstrada a violação aos demais dispositivos arrolados; (ii) o acórdão recorrido estaria em consonância com o entendimento deste Superior Tribunal de Justiça quanto à incidência do Código de Defesa do Consumidor às relações com a respectiva cooperativa habitacional, o que atrai o óbice da Súmula nº 83/STJ e (iii) incidiria o óbice da Súmula nº 7/STJ (e-STJ, fls. 332-334).
+É o breve relatório.
+Passo a decidir.
+O presente recurso não pode ser conhecido em virtude da ausência de impugnação específica aos fundamentos da decisão agravada, bem como pela inadequação da via eleita, no tocante ao fundamento de aplicação de tese firmada nesta Corte Superior, em julgamento de recursos repetitivos.
+Inicialmente, verifica-se que o Tribunal a quo negou seguimento ao recurso especial (e-STJ, fls. 425-428), porquanto, no que tange a possibilidade de repasse da obrigação de pagar a comissão de corretagem para o promitente comprador, o acórdão recorrido decidiu conforme o entendimento firmado por esta Corte Superior no julgamento do Resp 1.599.511/SP, em 24/08/2016, julgado sob o rito dos recursos repetitivos (tema 577).
+Observa-se, ainda, que a decisão de admissibilidade do recurso especial foi publicada em 01/09/2017, quando já se encontrava em vigor o Código de Processo Civil de 2015, que prevê em seu artigo 1.030, § 2º, que uma vez negado seguimento ao recurso especial na instância de origem ante a conformidade do entendimento exarado pelo acórdão recorrido com aquele firmado em julgamento repetitivo por esta Corte Superior, a irresignação da parte deve se dar por meio de agravo interno, previsto no art. 1.021 do CPC/2015.
+Confira-se:
+"Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá
+agravo interno, nos termos do art. 1.021".
+Na hipótese, como a decisão agravada foi publicada já na vigência do atual Código de Processo Civil, resta inviabilizado a aplicação do princípio da fungibilidade, uma vez que não há mais dúvidas objetivas acerca do recurso cabível.
+Ademais, a Terceira Turma deste Superior Tribunal, quando do julgamento do AREsp nº 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, em 16/08/2016, firmou entendimento que, quando a Corte de origem inadmitir o recurso especial com base em recurso repetitivo, a interposição de agravo em recurso especial constitui erro grosseiro. Assim:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3.  ..
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015." (grifei).
+Nesse ponto, portanto, inviável o conhecimento do recurso, por ser inadmissível a interposição de agravo em recurso especial obstado pela aplicação de tese firmada em Recurso Repetitivo.
+Quanto aos demais fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial, verifica-se que a parte agravante deixou de impugnar de forma específica e satisfatória os óbices sumulares aplicados.
+Efetivamente, é dever da parte agravante impugnar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Com efeito, em que pese haver impugnado o óbice da súmula nº 07/STJ em sua peça recursal, subsiste, à espécie, a incidência da Súmula nº 83/STJ, óbice não atacado pelo recorrente e suficiente, por si só, à manutenção do decisum.
+No que tange à incidência da Súmula 83/STJ, cumpre asseverar que, tendo o Tribunal de origem inadmitido o recurso especial ante a conformidade do acórdão com o entendimento desta Corte Superior, incumbe ao agravante evidenciar o desacerto desta conclusão, o que somente pode ser feito com a demonstração de inaplicabilidade dos paradigmas utilizados no caso concreto através de julgados contemporâneos aos trazidos pela decisão de admissibilidade, devendo comprovar que persiste divergência.
+No entanto, observa-se que o agravante limitou-se a tecer considerações genéricas acerca da inaplicabilidade do referido óbice à espécie, sem contudo apontar especificamente as razões pelas quais o entendimento desta Corte Superior divergiria do exposto no acórdão recorrido, no que se refere à incidência do Código de Defesa do Consumidor à cooperativa habitacional.
+Saliente-se, nesse passo, que alegações genéricas são insuficientes para a efetiva impugnação da decisão que inadmitiu o recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015 (ART. 544, § 4º, INCISO I, DO CPC/1973).
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (arts. 932, III, do CPC/2015 e 544, § 4º, inciso I, do CPC/1973).
+2. Agravo interno não provido.
+(AgInt no AREsp 906.849/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/09/2016, DJe 16/09/2016, grifei)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. 2. AGRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC.
+2. Agravo regimental improvido.
+(AgRg no AREsp 821.544/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/05/2016, DJe 06/06/2016, grifei)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 905.415/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/09/2016, DJe 21/09/2016, grifei).
+Dessa forma, as razões apresentadas não impugnam de maneira específica os fundamentos da decisão agravada, razão pela qual o recurso não merece ser conhecido.
+Nesse contexto, em virtude de ser inadmissível a interposição de agravo em recurso especial na hipótese dos autos, bem como pela não impugnação específica aos fundamentos da decisão agravada, o não conhecimento do presente recurso é medida que se impõe.
+Por fim, arbitro os honorários recursais em R$ 200,00 (duzentos reais), a serem suportados exclusivamente pela parte recorrente, em acréscimo àqueles da sucumbência do caso, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015.
+Ante o exposto, com base no art. 932, III, do CPC/2015, não conheço do agravo em recurso especial e, com base no art. 85, § 11, do CPC/2015, arbitro os honorários recursais em R$200,00 (duzentos reais), ressalvada a concessão do benefício da gratuidade da justiça.
+Intimem-se.
