@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo em Execução n. 7001266-88.2017.8.26.0071.
+Infere-se dos autos que o Juízo das Execuções deferiu ao paciente o pedido de progressão ao regime semiaberto.
+Irresignada, a acusação interpôs agravo em execução, tendo o Tribunal de origem dado provimento ao recurso, determinado o retorno do paciente ao regime fechado (fls. 8/11).
+No presente mandamus, a impetrante sustenta que o paciente cumpriu o requisito objetivo, possuindo bom comportamento, pois alega que o crime de associação para o tráfico não é considerado hediondo, devendo ser aplicada a fração de 1/6 para progressão de regime.
+Requer, em liminar e no mérito, seja restabelecida ao paciente a progressão ao regime semiaberto.
+Indeferido o pedido de liminar (fls. 39/40), as informações foram prestadas (fls. 46/60 e 63/69). O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 71/74).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Passo à análise das alegações expostas na inicial tão somente para verificar se existe flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, busca-se, no presente writ, a progressão ao regime semiaberto, haja vista que o delito de associação não é hediondo, devendo ser aplicada a fração de 1/6.
+O Magistrado das Execuções deferiu ao paciente o pedido de progressão ao regime semiaberto, conforme se verifica:
+Em que pese à argumentação do i. Promotor de Justiça, o sentenciado já resgatou o lapso temporal exigido e vem mantendo bom comportamento carcerário.
+Por outro lado, as demais informações constantes dos autos indicam que o reeducando também ostenta o requisito subjetivo para a progressão prisional, inclusive em razão da boa conduta carcerária atual e da inexistência de nova falta disciplinar. Além disso, o "boletim informativo" emitido pela unidade prisional não foi impugnado pelo Ministério Público. Apresenta o sentenciado mérito suficiente para a progressão de regime, que dará ao reeducando estímulo para a sua recuperação social.
+Assim, presentes os pressupostos autorizadores do benefício em questão, defiro o pedido do sentenciado e, via de conseqüência, promovo-o ao regime semiaberto em relação aos processos nº 1073/2001 da 4ª Vara Criminal da Comarca de Ribeirão Ribeirão Preto - SP e nº 16761/2011 da 3ª Vara Criminal da Comarca de Ribeirão Ribeirão Preto - SP. Fica desde já autorizada a sua remoção para unidade prisional adequada, observados os termos da Súmula Vinculante 56 do Supremo Tribunal Federal (fl. 15).
+O Tribunal de origem, por sua vez, deu provimento ao recurso da acusação para determinar seu retorno ao regime fechado, assentando:
+O agravado cumpre pena total de 29 anos, 11 meses e 14 dias de reclusão pela prática de latrocínio (cometido em antes da Lei nº 11.464/07) e tráfico de drogas, com término de cumprimento previsto somente em 8 de abril de 2032 (fls. 5/7).
+Para concessão da progressão de regime é imprescindível preenchimento dos requisitos objetivo (cumprimento da pena, no regime anterior, pelo tempo mínimo de 1/6 e, caso hediondo o crime, 2/5, se primário, e 3/5, se reincidente) e subjetivo (ostentar bom comportamento carcerário, podendo ser fundamentada a realização de exame criminológico).
+O agravado, reincidente (fls. 5), deveria cumprir lapso mínimo de 3/5 do crime equiparado a hediondo e 1/6 do crime considerado comum (anterior à Lei nº 11.464/07), cujo lapso estava previsto para 23 de setembro de 2017 (fls. 78).
+Contudo, a r. decisão combatida, proferida em 3 de maio de 2017, considerou o requisito objetivo cumprido.
+Como se observa, ao tempo da r. decisão combatida, o agravado não havia cumprido o lapso mínimo em regime fechado para galgar o benefício de progressão.
+Destarte, não preenchido o requisito objetivo.
+Ante o exposto, DOU PROVIMENTO ao agravo em execução interposto pelo Ministério Público, para cassar a decisão combatida, determinando o retorno do sentenciado [NOME] ao regime fechado (fls. 10/11).
+Na hipótese, verifica-se que a Corte estadual não mencionou o delito de associação para o tráfico para aplicar a fração referente ao delito hediondo, fazendo menção apenas ao delito de tráfico. Da mesma forma, não observo que tal delito tenha sido mencionado em primeiro grau. Dessa forma, verifico que a Corte estadual não analisou a tese apresentada pela defesa quanto a hediondez do delito de associação para o tráfico no presente mandamus.
+Destarte como a matéria não foi submetida a debate na instância ordinária, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+No mesmo sentido:
+HABEAS CORPUS. ASSOCIAÇÃO. TRÁFICO DE ENTORPECENTES. INSUFICIÊNCIA DE PROVAS PARA EMBASAR A CONDENAÇÃO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO DO DELITO PARA USO DE ENTORPECENTES. PRINCÍPIO DO LIVRE CONVENCIMENTO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ ..
+AFASTAMENTO DA HEDIONDEZ DO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. APELAÇÃO. EFEITO DEVOLUTIVO. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. ORDEM NÃO CONHECIDA.
+1. O efeito devolutivo do recurso de apelação criminal encontra limites nas razões expostas pelo recorrente, em respeito ao princípio da dialeticidade que rege os recursos no âmbito processual penal pátrio, por meio do qual se permite o exercício do contraditório pela parte que defende os interesses adversos, garantindo-se, assim, o respeito à cláusula constitucional do devido processo legal.
+2. Da análise dos autos, verifica-se que a Corte de origem não emitiu juízo de valor sobre o afastamento do caráter hediondo do crime de associação para o tráfico e a substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que não foi alvo de insurgência nas razões recursais ofertadas, circunstância que evidencia a impossibilidade de análise da impetração por este Sodalício, sob pena de indevida prestação jurisdicional em supressão de instância.
+3. Writ parcialmente conhecido e, nesta extensão, denegada a ordem (HC 169.452/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 30/05/2011).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE PRESCRIÇÃO DA FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. ACÓRDÃO IMPUGNADO QUE NÃO EXAMINOU O TEMA. SUPRESSÃO DE INSTÂNCIA. ENCAMINHAMENTO DOS AUTOS AO TRIBUNAL DE ORIGEM. ECONOMIA PROCESSUAL.
+1. Para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância.
+2. In casu, o acórdão impugnado manteve decisão do Juízo de origem que reconheceu a falta grave, mas não decidiu acerca da prescrição, o que impede esta Corte de examinar o tema. Assim, revela-se mais prudente, a despeito de se tratar de matéria de ordem pública, cognoscível em qualquer tempo e grau de jurisdição, que o tema seja primeiramente enfrentado pela Corte de origem.
+3. Agravo regimental improvido. Remessa dos autos ao Tribunal de origem (AgRg no HC 398.942/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 22/08/2017).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXECUÇÃO. FALTA GRAVE. PRÉVIA INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - PAD. IMPRESCINDIBILIDADE. RESP N. 1.378.557/RS REPRESENTATIVO DA CONTROVÉRSIA. SÚMULA N. 533 DO STJ. ADVOGADO REPRESENTANTE DA GERÊNCIA DO SERVIÇO DE REVISÕES CRIMINAIS. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. INOCORRÊNCIA. PRESCRIÇÃO. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+ ..
+4. Eventual prescrição, quanto à apuração das faltas graves não terem ocorrido no prazo estabelecido pela norma de regência, não foi submetida a debate na instância ordinária, o que impede este Tribunal Superior de pronunciar-se a respeito, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido (HC 391.592/SC, de minha Relatoria, QUINTA TURMA, DJe 30/06/2017).
+Ante exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
