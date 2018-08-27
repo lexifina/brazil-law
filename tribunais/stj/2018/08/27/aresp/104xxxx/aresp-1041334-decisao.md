@@ -1,0 +1,8 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto, o qual se insurgiu contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo.
+2. A irresignação, contudo, não merece ser conhecida, visto que a parte agravante não infirmou adequadamente os fundamentos da decisão agravada, quais sejam: (a) a ausência de violação ao art. 535 do CPC/1973; (b) incidência da Súmula 211 do STJ; e (c) incidência da Súmula 83 do STJ. Na verdade, conquanto os itens de a a b indicados acima tenham sido tratados em seu Agravo, não foi infirmada a conclusão de que a decisão recorrida está na mesma orientação da jurisprudência deste Tribunal, atraindo a incidência da referida Súmula 83.
+3. A parte agravante limitou-se a tecer considerações totalmente dissociadas da decisão objurgada acerca do mérito sem, contudo, impugnar de forma escorreita o decisório a fim de possibilitar a ascensão do Apelo Especial. Não foi apresentado qualquer precedente do STJ contrário à conclusão do acórdão recorrido, e a simples menção à Súmula 83 do STJ é insuficiente para atacar a decisão agravada.
+4. Com efeito, o Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação da Súmula 182 do STJ.
+5. Diante dessas considerações, não se conhece do Agravo.
+6. Publique-se. Intimações necessárias.
