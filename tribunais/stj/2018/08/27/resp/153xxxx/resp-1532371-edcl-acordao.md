@@ -1,0 +1,62 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. IMPROBIDADE ADMINISTRATIVA CONTRADIÇÃO. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para os presentes Embargos de Declaração e ao Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+IV - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Primeira Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Gurgel de Faria, Napoleão Nunes Maia Filho, Benedito Gonçalves e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+[NOME] opõe embargos de declaração contra o acórdão proferido em sede de agravo interno que, por unanimidade, negou-lhe provimento (fls. 707/708e), cuja ementa transcrevo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 489, § 1º, IV E V, DO CPC/15. DECISÃO FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 284/STF. REVOLVIMENTO FÁTICO. SÚMULA N. 7/STJ. PRINCÍPIOS DO DIREITO PENAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. TESE NÃO VENTILADA NO RESP. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973. Precedentes.
+II - Depreende-se da leitura da decisão agravada que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese, portanto, ausente violação ao art. 489, § 1º do estatuto processual civil.
+III - A ausência de impugnação específica de fundamento suficiente para manter a decisão enseja a aplicação do enunciado da S. 284/STF.
+IV - Acolher a pretensão recursal, a fim de declarar que havia situação emergencial apta a afastar a ocorrência de irregularidades no procedimento de aquisição de medicamentos pela prefeitura, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+V - A tese relativa à utilização dos princípios relativos à eficácia das leis penais no tempo foi apresentada apenas quando da interposição do agravo interno, o que configura inadmissível inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa, ainda que verse sobre matéria de ordem pública.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+Sustenta, em síntese, que o acórdão violou o art. 1.022, I, do CPC, assinalando que há contradições porquanto i) incabível o julgamento do feito por meio de decisão monocrática; ii) o acórdão recorrido, no fundamento que dá respaldo à possibilidade de julgamento monocrático do recurso, entra no mérito da questão recursal, inclusive realizando análise de prova, o que não é permitido nessa instância especial; iii) o acórdão embargado deixou de analisar a alegada violação ao art. 5º, XXXVI e XL, da Constituição da República; e iv) o acórdão recorrido, ao entender que a análise fática realizada pelo Tribunal de origem se deu de forma adequada, acabou por realizar a revisão do conteúdo fático probatório dos autos, o que não é permitido em sede de recurso especial.
+Impugnações às fls. 750/754 e 759/763e.
+Os embargos foram opostos tempestivamente.
+É o relatório.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 para os presentes Embargos de Declaração e ao Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+Sustenta o Embargante que há contradições a serem sanadas, nos termos do art. 1.022, I, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+Constatada apenas a discordância do Embargante com o deslinde da controvérsia, não restou demonstrada efetiva contradição a ensejar a integração do julgado, porquanto a fundamentação adotada no venerando acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição dos presentes embargos.
+Ademais, de acordo com a jurisprudência desta Corte, a contradição sanável mediante embargos de declaração é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, de modo a evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador. Portanto, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, ou acórdão proferido pelo tribunal de origem ou em outro processo.
+Na hipótese, não restou demonstrada efetiva contradição a exigir a integração do julgado, porquanto a fundamentação adotada é clara e suficiente para respaldar a conclusão alcançada.
+Nesse sentido, os seguintes precedentes:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015.
+1. De acordo com a norma prevista no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. A contradição apta a ensejar o emprego dos declaratórios é somente a interna, ou seja, a verificável entre a fundamentação e o dispositivo da própria decisão embargada, e não aquela externa, oriunda de contraste alegadamente existente em face de julgado diverso do embargado.
+3. É inadmissível o manejo dos aclaratórios com o propósito de reabrir discussão sobre questões já decididas no acórdão embargado.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1114315/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 23/02/2018).
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO INTERNA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 17, PARÁGRAFO ÚNICO, DA LEF. DISPOSITIVO NÃO DEBATIDO NA INSTÂNCIA DE ORIGEM. SÚMULA 282/STF. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 07/STJ. AFRONTA AO ART. 20, § 3º, DO CPC. REDISCUSSÃO DA JUSTEZA DA VERBA HONORÁRIA. INVIABILIDADE NA INSTÂNCIA ESPECIAL. INACUMULABILIDADE DOS HONORÁRIOS COM O ENCARGO LEGAL. AUSÊNCIA DE INDICAÇÃO CLARA E ESPECÍFICA DO DISPOSITIVO FEDERAL CONTRARIADO. ALEGAÇÃO GENÉRICA. INADMISSIBILIDADE. NORMA LOCAL. FUNDAMENTAÇÃO. APRECIAÇÃO VEDADA EM RECURSO ESPECIAL. SÚMULA 280/STF.
+1. Não procede a alegação de ofensa ao art. 1.022 do CPC/2015. O Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Somente contradição interna autoriza Embargos de Declaração com fundamento nesse vício. Inexistência, na espécie, de qualquer inadequação lógica entre termos da própria decisão embargada. Vício não configurado.
+(..)
+6. Recurso Especial conhecido em parte e, nessa parte, improvido.
+(REsp 1674216/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2017, DJe 09/10/2017).
+De outra parte, cumpre asseverar ser inviável o atendimento ao pleito de prequestionamento de dispositivos constitucionais, porquanto tarefa reservada pela Constituição da República ao Supremo Tribunal Federal.
+Nesse sentido, colaciono os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OPOSIÇÃO SOB A ÉGIDE DO CPC/2015. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PREQUESTIONAMENTO DE QUESTÕES CONSTITUCIONAIS. NÃO CABIMENTO NA INSTÂNCIA ESPECIAL.
+1. Rejeitam-se os embargos declaratórios quando, na decisão embargada, não há nenhum dos vícios previstos no art. 1.022 do Código de Processo Civil/2015.
+2. É inviável ao Superior Tribunal de Justiça intervir em matéria da competência do Supremo Tribunal Federal, ainda que para prequestionar questões constitucionais, sob pena de contrariar as rígidas atribuições recursais previstas na Carta Magna.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1431157/PB, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/06/2016, DJe 29/06/2016).
+TRIBUTÁRIO. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. NÃO INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O ADICIONAL DE UM TERÇO DE FÉRIAS.
+PRECEDENTES: RESP. 1.358.281/SP e RESP. 1.230.957/RS, JULGADOS SOB O RITO DO ART. 543-C. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+2. No caso em apreço o aresto embargado consignou que é pacífica a jurisprudência desta Corte pela não incidência de Contribuição Previdenciária sobre os valores recebidos a título de adicional de 1/3 de férias, uma vez que possuem caráter indenizatório (REsp.
+1.230.957/CE e 1.358.281/SP, julgados sob o rito do art. 543-C do CPC).
+3. É vedado a este Tribunal apreciar a violação de dispositivos constitucionais, ainda que para fins de prequestionamento, uma vez que o julgamento de matéria de índole constitucional é reservado ao Supremo Tribunal Federal. Precedente: AgRg nos EAg. 1.333.055/SP, Rel. Min. HUMBERTO MARTINS, CORTE ESPECIAL, DJe 24.4.2014.
+4. Ademais, o art. 1.025 CPC/2015 dispõe que consideram-se prequestionados os elementos que o Embargante suscitou, ainda que os Declaratórios sejam inadmitidos ou rejeitados.
+5. Embargos de Declaração da FAZENDA NACIONAL rejeitados.
+(EDcl no AgRg no REsp 1293990/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/05/2016, DJe 18/05/2016).
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Isto posto, REJEITO OS EMBARGOS DE DECLARAÇÃO.
