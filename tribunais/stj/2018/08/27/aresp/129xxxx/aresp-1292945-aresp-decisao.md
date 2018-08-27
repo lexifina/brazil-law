@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de petição (PET 00430213/2018, e-STJ fls. 653/655) apresentada por [NOME], em que sustenta a nulidade de todos os atos processuais desde o julgamento dos embargos de declaração opostos às fls. 486/490 e-STJ.
+Alega que houve requerimento expresso de intimação exclusiva de advogado indicado, e que a publicação de comunicação processual em nome de outro causídico configura cerceamento de defesa, o que evidencia a nulidade de todos os atos processuais desde a intimação levada a efeito à fl. 516 e-STJ, referente ao acórdão que julgou os embargos de declaração que interpusera.
+Com razão o requerente.
+Com efeito, a jurisprudência desta Corte é uniforme no sentido de que, quando houver pedido expresso para que seja feita intimação em nome de procurador específico, a não observância de tal disposição gera a nulidade do ato da intimação. No mesmo sentido: AgRg no REsp 1.416.618/RS, QUARTA TURMA, DJe 13/05/2014, EDcl no REsp 1.608.424/SP, TERCEIRA TURMA, DJe 21/09/2017.
+Ressalta-se, ademais, que, somente nesta instância especial, o requerente teve oportunidade de se manifestar sobre a nulidade de sua intimação, tendo em vista que antes da intimação da decisão de fls. 629/632 e-STJ, todas as demais intimações foram realizadas sem o nome do advogado indicado na petição dos embargos de declaração de fls. 486/490 e-STJ.
+Forte nessas razões, TORNO SEM EFEITO as decisões de fls. 629/632 e 648/649, e-STJ, e DECLARO a nulidade dos atos, a partir do acórdão de fls. 501/507 e-STJ, e-STJ, e determino o retorno dos autos ao Tribunal de origem para que proceda a devida intimação do requerente, na esteira do devido processo legal.
+Publique-se. Intimem-se.
