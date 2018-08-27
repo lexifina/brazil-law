@@ -1,0 +1,21 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. AUSÊNCIA DO DEVER DE FORNECER MEDICAMENTO NÃO REGISTRADO NA ANVISA. ANÁLISE DA TRANSMISSIBILIDADE DO DIREITO À INDENIZAÇÃO POR DANOS MORAIS PREJUDICADA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Unimed-Rio Cooperativa de Trabalho Médico do Rio de Janeiro Ltda. contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+Ação de obrigação de fazer cumulada com pedido de antecipação dos efeitos da tutela - Plano de saúde - Aplicação do Código de Defesa do Consumidor à hipótese - Autora acometida por carcinoma - Requerida que se recusa a fornecer o medicamento Revlimid, sob alegação de que não autorizados pela ANVISA, não sendo autorizada sua importação - Abusividade - Necessidade de cobertura pela requerida do tratamento indicado por médico assistente - Cláusula de exclusão genérica de caráter abusivo - Aplicação do Código de Defesa do Consumidor e das Súmulas 95 e 102 do Tribunal de Justiça ao caso - Impossibilidade de discussão pelo plano de saúde acerca da pertinência da prescrição feita pelo médico assistente - Medicamento não foi registrado perante a ANVISA - Necessidade de cobertura - Exclusão contratual que coloca em risco o objeto do contrato - Prevalência do princípio ao acesso à saúde - Abusividade da negativa de cobertura - Falecimento da autora enquanto aguardava tratamento - Legitimidade dos herdeiros para assumir o polo ativo da demanda - Danos morais - Caracterização - Fixação do valor da indenização em atendimento aos princípios da proporcionalidade e razoabilidade - Sentença de procedência - Manutenção - Recurso não provido. Nega-se provimento ao recurso.
+Nas razões do apelo extremo (e-STJ, fls. 306-334), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação aos arts. 10, V, da Lei 9.656/1998; 10, 12 e 16 da Lei 6.360/1976; e 273, § 1º, do Código Penal. Sustenta, em síntese: i) a ausência do dever de fornecer ou custear medicamentos não registrados na Anvisa; e ii) intransmissibilidade do direito à indenização por danos morais.
+Contrarrazões às fls. 375-391 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 400-401), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+A jurisprudência desta Corte Superior é no sentido da ausência de obrigação por parte da operadora do plano de saúde de custear o fornecimento de medicamento não registrado na Anvisa.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ART. 932 DO CPC/2015. JULGAMENTO MONOCRÁTICO. PLANO DE SAÚDE. MEDICAMENTO IMPORTADO SEM REGISTRO NA ANVISA. OBRIGAÇÃO DE FORNECIMENTO. AUSÊNCIA.
+1. É possível ao relator decidir o recurso de forma monocrática se baseado em jurisprudência dominante desta Corte, do Supremo Tribunal Federal ou de Tribunal Superior, sendo desnecessário submeter o feito à apreciação do órgão plural. Isso porque é facultada ao prejudicado a via do agravo interno para o colegiado, permitindo a apreciação de todas as questões suscitadas no recurso especial.
+2. A prestadora de serviços de plano de saúde está obrigada ao fornecimento de tratamento de saúde a que se comprometeu por contrato, pelo que deve fornecer os medicamentos necessários à recuperação da saúde do contratado, salvo o medicamento importado sem registro na Anvisa, ante a previsão de infração em razão da proibição de comercialização no território nacional de medicamento sem referido registro. Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1064153/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018).
+Dessa forma a decisão recorrida não refletiu o entendimento deste Tribunal, motivo pelo qual merece reforma.
+Quanto à alegada intransmissibilidade do direito à indenização por danos morais, sua análise se mostra prejudicada diante do provimento do recurso no que se refere à ausência de obrigação de fornecimento do medicamento.
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para julgar improcedente a presente ação.
+Inverto os ônus da sucumbência, devendo ser observada a gratuidade de justiça, requerida pela autora na inicial e nesse momento deferida.
+Publique-se.
