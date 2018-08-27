@@ -1,0 +1,19 @@
+DECISÃO
+TÍTULO CONDENATÓRIO – SUSPENSÃO – EXCEPCIONALIDADE – RELEVÂNCIA NÃO DEMONSTRADA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Sétima Auditoria de Justiça Militar da Circunscrição Judiciária de Recife/PE, no processo nº 000037-62.2016.7.07.0007, condenou o paciente a 1 ano de reclusão, em regime inicial aberto, pela prática do crime previsto no artigo 240, cabeça (furto), do Código Penal Militar. Implementou, pelo prazo de 2 anos, a suspensão condicional da pena, reportando-se ao artigo 84 do mesmo diploma. Consignou haver subtraído, no alojamento de soldados, aparelho celular pertencente a colega. Afirmou impertinente o princípio da insignificância, destacando que o valor do objeto constituía parte relevante do soldo da vítima. Afastou a possibilidade de desclassificação da conduta para transgressão disciplinar ou de incidência de benefício previsto no § 1º do artigo 240 (substituição da pena de reclusão por detenção, diminuição de 1/3 a 2/3 ou consideração da infração como disciplinar, se o agente for primário e de pequeno valor o bem furtado) do referido Código. Deixou de observar o § 2º do mesmo preceito (aplicação do disposto no § 1º, se restituído o objeto do delito antes da instauração do processo-crime), apontando não ter sido o celular devolvido, mas apreendido.
+    O Superior Tribunal Militar desproveu a apelação nº 37-62.2016.7.07.0007. Concluiu incabível o princípio da insignificância, ante a reprovabilidade concreta da conduta, a lesão significativa à Administração Militar e o valor do bem – R$ 599,00. Negou a pretendida desclassificação, realçando a apreensão do objeto.
+    A Defensoria Pública diz adequado, tendo em vista o artigo 240, parágrafos 1º e 2º, do Código Penal Militar, desclassificar a conduta para transgressão militar. Assevera ser o paciente primário, sem antecedentes. Sublinha a restituição do aparelho à vítima antes do oferecimento da denúncia, surgindo irrelevante se a devolução foi voluntária ou não.
+    No campo precário e efêmero, requer a suspensão, até o julgamento final do habeas, dos efeitos do acórdão do Superior Tribunal Militar. No mérito, busca a desclassificação para transgressão militar, aludindo ao artigo 240, parágrafos 1º e 2º, do Código Penal Militar.
+    Por meio da petição/STF nº 44.873/2018, protocolada em 3 de julho de 2018, pediu a apreciação do pedido de concessão de liminar.
+    A ministra Cármen Lúcia, em 9 de julho seguinte, durante o período de férias coletivas dos Ministros, concluindo não se enquadrar o caso no disposto no artigo 13, inciso VIII, do Regimento Interno do Supremo, determinou o encaminhamento do processo a Vossa Excelência.
+    A fase é de exame da medida acauteladora.
+    2. A suspensão de título condenatório situa-se no âmbito da excepcionalidade. Mostra-se indispensável haver quadro a caracterizar ilegalidade manifesta.
+    Consoante se depreende do acórdão formalizado pelo Superior Tribunal Militar, a reparação do dano, embora ocorrida antes do recebimento da denúncia, deu-se em razão da apreensão do aparelho celular objeto do crime, não havendo falar em restituição, no que pressupõe espontaneidade e voluntariedade. Reiterados são os pronunciamentos do Supremo no sentido de ser inviável, considerada a circunstância de o bem não haver sido voluntariamente devolvido à vítima, proceder-se à desclassificação da conduta para transgressão militar, uma vez inobservado o artigo 240, § 2º, do Código Penal Militar – precedentes: habeas corpus nº 123.393, Primeira Turma, relatora ministra Rosa Weber; e 99.207, Primeira Turma, relatora ministra Cármen Lúcia.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
