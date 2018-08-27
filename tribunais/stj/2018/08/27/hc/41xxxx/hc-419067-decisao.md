@@ -1,0 +1,9 @@
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NOS ARTS. 33, CAPUT, E 35, CAPUT, TODOS DA LEI N. 11.343/2006, NA FORMA DO ART. 69, CAPUT, DO CÓDIGO PENAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSIÇÃO DE REGIME PRISIONAL FECHADO. NEGATIVA DO RECURSO EM LIBERDADE. NOVO FUNDAMENTO. EFEITO DA CONDENAÇÃO. NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR QUE DEVE SER ANTES SUBMETIDO À ANÁLISE DO TRIBUNAL A QUO. PRECEDENTES DESTA CORTE SUPERIOR. PERDA DE OBJETO.
+Writ prejudicado.
+DECISÃO
+Este habeas corpus impetrado em benefício de [NOME], o qual buscava a revogação da prisão preventiva, aos argumentos de excesso de prazo na formação da culpa e ausência dos requisitos autorizadores da prisão preventiva, perdeu o objeto.
+A uma, porque diante da informação constante da página eletrônica do Tribunal de Justiça de São Paulo e ora juntada aos autos, em 1772/2018, sobreveio a prolação de sentença condenatória (Ação Penal n. 0004287-88.2017.8.26.0073, da 2ª Vara Criminal da Comarca de Avaré/SP), aplicável o disposto na Súmula 52/STJ, não havendo mais falar em excesso de prazo.
+A duas, porque na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso, consubstanciado em novo fundamento, qual seja, o efeito da condenação - já se encontra preso e por maior motivo assim deve permanecer (fl. 163) -, cujos requisitos específicos, desafiam, portanto, impugnação própria perante o Tribunal de origem. Nesse sentido, os seguintes julgados: AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017, AgRg no HC n. 366.680/SC, minha Relatoria, Sexta Turma, DJe 14/11/2016 e RHC n. 64.321/AL, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/10/2015.
+Tal o contexto, julgo prejudicado o presente habeas corpus (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
