@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por OI. S.A. em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE ADIMPLEMENTO CONTRATUAL COM EXIBIÇÃO DE DOCUMENTOS INCIDENTAIS EM FASE DE CONHECIMENTO - DECISÃO QUE DETERMINOU A APRESENTAÇÃO DOS DOCUMENTOS SOB PENA DE APLICAÇÃO DO ARTIGO 359 DO CPC - ILEGITIMIDADE PASSIVA E DETERMINAÇÃO DE APRESENTAÇÃO DOS DOCUMENTOS JÁ ANALISADOS NO AGRAVO DE INSTRUMENTO Nº 1.096.789-8 - POSSIBILIDADE DE APLICAÇÃO DO CDC E DO ARTIGO 359 DO CPC - DECISÃO MANTIDA - AGRAVO DE INSTRUMENTO" (fl. 589)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a agravante afirma violação aos arts. 400 e 1022, II, do Código de Processo Civil de 2015, sustentando, em síntese, existência de omissão no acórdão recorrido e impossibilidade de deferimento de exibição de documento pois os recorridos não comprovaram a celebração do contrato.
+Apresentadas contrarrazões às fls. 660-665.
+É o relatório.
+Inicialmente, não se vislumbra a alegada violação ao art. 1022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste qualquer omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+Ademais, o Tribunal a quo concluiu estar preclusa a questão relativa à aplicação do art. 400 do CPC/2015 (art. 359 do CPC/73) o pois foi "o acórdão se pautou em decisão anteriormente proferida pela Câmara julgadora, restando preclusa a pretensão do Embargante, pois já teve a oportunidade de se manifestar em momento oportuno" (fl. 610). Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO DO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATOS. PARTICIPAÇÃO FINANCEIRA. PRECLUSÃO TEMPORAL. TEMPESTIVIDADE. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA nº 283/STF. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. 1. O recurso especial inadmitido impugna acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola o artigo 1.022 do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta.
+3. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida assenta-se em mais de um fundamento suficiente e o recurso não abrange todos eles.
+4. O pedido de reconsideração formulado pela parte não é apto a interromper o prazo recursal. Precedentes.
+5. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+6. Conforme a dicção do art. 475-B, § 3º, do CPC/1973, não existe a obrigatoriedade, mas a simples faculdade de o juiz remeter os autos à Contadoria Judicial para comprovar a exatidão dos cálculos, na fase de cumprimento de sentença.
+7. Agravo interno não provido." (AgInt no AREsp 1135665/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/11/2017, DJe 20/11/2017, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
