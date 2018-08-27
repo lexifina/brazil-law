@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. DEPOSITÁRIO JUDICIAL. RESPONSABILIZAÇÃO HÁ DE SER RECONHECIDA EM AÇÃO PRÓPRIA PARA ESSE FIM E NÃO NA EXECUÇÃO FISCAL. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição da República, contra acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. AGRAVO LEGAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. DEPOSITÁRIO INFIEL. RESPONSABILIZAÇÃO.
+A responsabilização do depositário há de ser reconhecida unicamente se houver comprovação de que os prejuízos foram causados em razão de uma conduta culposa lato sensu (dolo, negligência, imperícia e imprudência) daquele, não bastando a mera existência de indícios em tal sentido. Assim, só cabível o redirecionamento do feito para o depositário quando essa situação for comprovada em ação própria para esse fim. Precedente do STJ e deste Tribunal.
+Com efeito, a previsão de redirecionamento da execução com base no art. 135 do CTN trata da prática de atos que evidentemente guardam relação com o crédito tributário em execução. Ora, a obrigação tributária não decorre do descumprimento da obrigação do fiel depositário, não sendo por isso dela resultante. Assim, não se cogita da aplicação do art. 135 do CTN. Ademais, ainda que considerados eventuais prejuízos causados pelo depositário em ação própria, não se vislumbra relação destes com os fatos geradores ou com o crédito tributário em execução (fls. 421).
+2. Os Embargos de Declaração opostos foram acolhidos para fins de prequestionamento (fls. 442/446).
+3. Nas razões do Apelo Nobre, a parte recorrente pede o redirecionamento da Execução Fiscal ao depositário infiel.
+4. Juízo de admissibilidade do recurso às fls. 454/464.
+5. É o breve relatório. Decido.
+6. Sobre o tema em debate, é assente nessa Corte de Justiça que a legislação não possibilita que o depositário seja responsabilizado na própria Ação de Execução Fiscal, devendo ser comprovada a sua conduta culposa, em ação própria para esse fim, exatamente como decidido pelo Tribunal a quo. Ilustrativamente:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ONLINE DE ATIVOS FINANCEIROS DO DEPOSITÁRIO INFIEL. BACEN JUD. IMPOSSIBILIDADE. PRECEDENTES.
+1. A jurisprudência desta Corte é no sentido de que não pode o depositário ser responsabilizado na própria ação de Execução Fiscal, sendo incabível a penhora eletrônica dos seus ativos financeiros, via BACEN JUD. Precedentes: REsp 1581272/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25/05/2016.
+2. Agravo interno não provido (AgInt no REsp. 1.615.370/SP, Rel. Min. BENEDITO GONÇALVES, DJe 16.10.2017).
+
+PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO FISCAL. DEPOSITÁRIO JUDICIAL. RESPONSABILIDADE PELA GUARDA E CONSERVAÇÃO DOS BENS. IMPOSSIBILIDADE. UTILIZAÇÃO DA AÇÃO DE EXECUÇÃO. PENHORA DE ATIVOS FINANCEIROS. EMBARGOS DE DECLARAÇÃO, ART. 535, II, DO CPC. OMISSÃO. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se pode conhecer da alegada ofensa ao art. 535 do CPC, porquanto as razões do recurso são genéricas e não indicam objetivamente de que forma teria havido omissão e qual a relevância do ponto, em tese omitido, para o deslinde da controvérsia. Aplica-se, por analogia, o óbice da Súmula 284/STF.
+2. A indicada afronta dos arts. 148, 149 e 902 do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. O depositário judicial possui o dever de guarda e conservação dos bens penhorados, arrestados ou arrecadados, caso não cumpra com diligência o seu mister, responde pelos prejuízos advindos do seu dolo ou culpa. Contudo, a legislação não possibilita que o depositário seja responsabilizado na própria Ação de Execução Fiscal e, muito menos, que seja deferida a penhora eletrônica dos seus ativos financeiros, via BACENJUD.
+4. Os estreitos limites da Ação de Execução Fiscal não permitem um juízo adequado de cognição que possibilitem apurar a responsabilidade do depositário judicial pelos danos sofridos aos bens penhorados.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido (REsp. 1.581.272/SP, Rel. Min. HERMAN BENJAMIN, DJe 25.5.2016).
+7. Ante o exposto, nega-se seguimento ao Recurso Especial.
+8. Publique-se. Intimações necessárias.
