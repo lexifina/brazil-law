@@ -1,0 +1,14 @@
+EMENTA
+HABEAS CORPUS. UNIFICAÇÃO DE PENAS. ALTERAÇÃO DA DATA-BASE PARA A CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE AMPARO LEGAL PARA TANTO (RESP N. 1.557.461/SC). ENTENDIMENTO PACIFICADO NO ÂMBITO DA TERCEIRA SEÇÃO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] - condenado à pena privativa de liberdade, ocasião em que sobreveio unificação de penas pela prática de outro crime, ensejando a alteração da data-base para a concessão de benefícios da execução -, em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e Territórios, que deu provimento ao agravo em execução penal ministerial (Agravo de Execução Penal n. 2017.00.2.021372-3), para determinar que o marco inicial para a concessão de novos benefícios no curso da execução é a data da publicação do acórdão prolatado na APR n. 2016.13.1.005517-6 (27/9/2017) - fl. 17.
+Alega a impetrante, em síntese, que, na espécie, está configurado manifesto constrangimento ilegal, uma vez que foi considerado o trânsito em julgado da última condenação penal como marco interruptivo para a progressão de regime, a despeito da inexistência de permissivo legal para tanto e da contrariedade ao entendimento fixado pela Terceira Seção do Superior Tribunal de Justiça (fl. 8).
+Postula, então, a concessão liminar da ordem, para que seja cassado o acórdão impugnado e restabelecida a decisão proferida pela VEP/DF.
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem in limine.
+A jurisprudência desta Corte Superior é pacífica em considerar que a superveniência de nova condenação com consequente unificação das penas interrompe o lapso temporal para a aquisição de benefícios, salvo para fins de livramento condicional, comutação de penas ou indulto (HC n. 399.067/SP, Ministro Felix Fischer, Quinta Turma, DJe 21/8/2017).
+Outrossim, deve-se observar, ainda, quanto ao marco inicial para obtenção dos benefícios que a superveniência do trânsito em julgado da sentença condenatória (ou a data da sentença condenatória) não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave (RESp. 1.557.461/SC, Minsitro Rogerio Schietti Cruz, Terceira Seção, julgado em 22/2/2018).
+Pelo exposto, concedo liminarmente a ordem para cassar o acórdão impugnado, restabelecendo a decisão do Juízo de Direito da Vara de Execuções Penais do Distrito Federal, nos autos da Execução n. 00029680620118070015.
+Comunique-se com urgência.
+Publique-se.
