@@ -1,0 +1,27 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ANULAÇÃO DE ATOS PROCESSUAIS VICIADOS PELA AUSÊNCIA DE INTIMAÇÃO VÁLIDA DO RECORRIDO. NULIDADE RECONHECIDA NA ORIGEM. IMPUGNAÇÃO INTEMPESTIVA. 1. AUSÊNCIA DE MANIFESTAÇÃO SOBRE AUSÊNCIA DE PREJUÍZO E PRECLUSÃO. PREQUESTIONAMENTO INEXISTENTE. SÚMULA 282/STF. 2. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. AGRAVO INTERNO DESPROVIDO.
+1. As questões de mérito recursal suscitadas pela agravante não foram objeto de prequestionamento, porquanto o acórdão recorrido não conheceu do recurso interposto por intempestividade (Súmula n. 282/STF). Nesse cenário, eventuais manifestações acerca das questões de fundo são mero obter dictum, inatacáveis por recurso especial.
+2. O fundamento da inércia da parte apesar de sua regular intimação, utilizado como razão de decidir pelo acórdão recorrido, não foi objeto de impugnação no recurso especial (Súmula n. 283/STF).
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por [NOME] - espólio contra decisão monocrática desta relatoria, assim ementada (e-STJ, fl. 784):
+RECURSO ESPECIAL. ANULAÇÃO DE ATOS PROCESSUAIS VICIADOS PELA AUSÊNCIA DE INTIMAÇÃO VÁLIDA DO RECORRIDO. NULIDADE RECONHECIDA NA ORIGEM. IMPUGNAÇÃO EXTEMPORÂNEA. 1. AUSÊNCIA DE MANIFESTAÇÃO SOBRE AUSÊNCIA DE PREJUÍZO E PRECLUSÃO. PREQUESTIONAMENTO INEXISTENTE. SÚMULA 282/STF. 2. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante sustenta que, "(a) data maxima venia, as alegações aqui trazidas foram objeto de apreciação pelo Tribunal local, embora tenha havido afastamento; (b) a preclusão originária por parte do agravado, que acarretou em manifesta intempestividade daquela manifestação, é matéria de ordem pública, podendo, portanto, ser revista posteriormente (ainda que, como disse o Ministro, a questão tenha sido suscitada pela agravante após transcurso de lapso temporal)" (e-STJ, fl. 794). Impugna ainda a incidência dos enunciados n. 282 e n. 283, ambos do STF, além de reprisar os argumentos deduzidos no recurso especial.
+Pleiteia, ao final, a reconsideração da decisão agravada ou, subsidiariamente, a apreciação da questão pelo órgão colegiado.
+Não foi apresentada Impugnação (e-STJ, fl. 808).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+De início, deve-se enfatizar que o acórdão recorrido não conheceu o recurso interposto pela agravante perante o Tribunal de origem. Desse modo, ainda que o Tribunal tenha se manifestado acerca das questões jurídicas que a agravante pretendia ressuscitar em embargos de declaração, essa manifestação não cumpre o prequestionamento: na medida em que o recurso não foi conhecido, manifestações de mérito são tão somente obter dictum, e não fundamentos de decisão.
+Nesse sentido, os pontos que juridicamente importam para o julgamento do recurso especial foram enfrentados pela decisão ora agravada, que e deve ser mantida pelos seus próprios fundamentos: (e-STJ, fls. 785-786)
+ ..  do mesmo modo que o recorrido não teria promovido a impugnação dentro do prazo recursal, argumento central do presente recurso especial, também o recorrente não foi oportunamente diligente.
+Todavia, constata-se que não houve a intimação do recorrido para o julgamento do agravo de instrumento, bem como para todos os demais atos processuais posteriores, até a efetiva diligência de seu patrono, muito após o trânsito em julgado, para declaração de nulidade. Por sua vez, o recorrente foi devidamente intimado, via publicação oficial, da decisão que reconheceu a nulidade dos atos que se seguiram à publicação do acórdão proferido no julgamento do agravo de instrumento, decisão esta que reabriu o prazo recursal para as partes, o qual, transitou in albis.
+Assim, apenas após o transcurso de mais de 1 (um) ano desde a decisão que reconhecera a nulidade dos atos por falta de intimação, é que o recorrente buscou impugnar a tempestividade da petição para reconhecimento da nulidade, tendo seu pleito sido afastado por manifesta intempestividade.
+Nesse cenário, nota-se que as razões do recurso especial, sejam quanto à inexistência de prejuízo, sejam quanto à intempestividade e preclusão do pleito de nulidade de atos processuais, não se encontra efetivamente debatida pelo Tribunal de origem, faltando-lhe o necessário prequestionamento da matéria. Isso porque, tendo o recorrente sido efetivamente intimado da decisão que acatou o pleito de nulidade, quedou-se inerte ao longo do transcurso do prazo recursal, não tendo sido o seu próprio pleito conhecido pelo Tribunal local. Aplicável assim o enunciado n. 282 da Súmula do STF.
+Além disso, as razões do recurso especial nem sequer impugnam o fato de que o pleito para chamamento do feito à ordem somente teria sido formulado após longo decurso do trânsito em julgado da decisão cuja desconstituição é pleiteada. Incide, por isso, o óbice consubstanciado no enunciado n. 283 da Súmula do STF.
+Com esses fundamentos, nego provimento ao presente agravo interno.
+É como voto.
