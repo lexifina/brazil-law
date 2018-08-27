@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284 DO STF. CONCURSO DE REMOÇÃO. REGRAS DO EDITAL. IMPOSSIBILIDADE DE REVISÃO. SÚMULAS 5 E 7 DO STJ. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 5a. Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCURSO DE REMOÇÃO. INSCRIÇÃO ANTES DE CUMPRIDO INTERSTÍCIO DE DOIS ANOS DA REMOÇÃO ANTERIOR. POSSIBILIDADE. APELAÇÃO NÃO PROVIDA.
+1. Apelação cível interposta pela UNIÃO contra sentença que, em Ação Ordinária, julgou procedente o pedido "para assegurar à autora a sua inscrição no concurso de remoção regrado pelo Edital PGR nº 8, de 21 de maio de 2013, da Procuradoria Geral da República".
+2. A autora, ora apelada, é servidora do MPU desde 29/10/2008, tendo sido removida do Ministério Público do DF para a Procuradoria da República em Petrolina/PE, conforme Portaria publicada no DOU de 16/11/2011, em razão de aprovação em concurso de remoção realizado em novembro/2011.
+3. Pela dicção do art. 28, § 2º, da Lei n.º 11.415/2006, não se exige, para fins de inscrição em concurso de remoção, que o servidor permaneça por 2 (dois) anos na unidade administrativa ou ramo do Ministério Público em que tenha sido lotado. Esse prazo, ao que parece, foi fixado apenas como condição para que venha a ser concretizada a remoção do servidor.
+4. O Edital PGR n.º 08/2013, em seu item 2.1, "b", todavia, fixou como condições para a participação no concurso de remoção que"o servidor não tenha sido removido há pelo menos 2 (dois) anos, por meio de concurso de remoção, considerados a partir da publicação da portaria de remoção.
+5. Do cotejo entre as disposições do art. 28, § 2º, da Lei n.º 11.415/2006 e do item 2.1, "b", do Edital PGR, n.º 08/2013, vê- se que o edital do concurso de remoção terminou sendo mais restritivo do que a lei com base na qual foi editada, em aparente ofensa ao princípio segundo o qual as normas restritivas"de direito devem ser interpretadas restritivamente.
+6. Apelação não provida (fls. 226/227).
+2. Alega a recorrente violação dos arts. 535 do Código de Processo Civil, bem como 28, § 2o. da Lei 11.415/06 e 36 da Lei 8.112/90, aos seguintes fundamentos: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso; e (b) a vedação direcionada aos servidores removidos nos últimos 02 (dois) anos não decorre apenas da regra editalícia em comento. Na verdade, a citada proibição consta da Lei nº 11.415/06, a qual dispõe, justamente, sobre as Carreiras dos Servidores do Ministério Público da União (fls. 256).
+3. É o relatório. Decido.
+4. Inicialmente, verifica-se, de pronto, a inadmissibilidade do recurso, dada a incidência da Súmula 284/STF, no tocante ao art. 535 do CPC. Observa-se que a recorrente não especificou em que consistiria a omissão perpetrada pelo Colegiado a quo, limitando-se a assertivas genéricas de malferimento ao referido dispositivo legal.
+5. No mérito, em que pesem os argumentos da Recorrente, ao contrário do alegado, o Tribunal a quo asseverou que o edital do concurso de remoção terminou sendo mais restritivo do que a lei com base na qual foi editada (fls. 227).
+6. Constata-se, assim, que o acórdão recorrido decidiu com base no edital e nos elementos fáticos constantes dos autos, como se pode depreender de uma simples leitura da ementa. O revolvimento dessa matéria em sede de recorribilidade extraordinária atrai o óbice das Súmulas 5 e 7 desta egrégia Corte.
+7. A corroborar referido entendimento:
+APELAÇÃO CÍVEL. CONCURSO PÚBLICO. TÉCNICO DO MPU - ESPECIALIDADE: SEGURANÇA INSTITUCIONAL E TRANSPORTE. PROVA FÍSICA. PERTINÊNCIA COM AS ATRIBUIÇÕES DO CARGO. POSSIBILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. REGRAS DO EDITAL. SÚMULA 5/STJ.
+1. Cuida-se de ação em que aduz o recorrente não haver previsão legal para o teste de aptidão física para o cargo de Segurança Institucional e Transporte do MPU.
+2. No tocante ao mérito da presente controvérsia, para contrariar o estatuído pelo Tribunal a quo, acatando o argumento da parte recorrente, seria necessário examinar as regras do Edital, bem como o conjunto fático-probatório, o que é impossível no Recurso Especial, ante os óbices contidos nas Súmulas 5 e 7 do STJ.
+3. Recurso Especial não conhecido (REsp. 1.665.082/DF, Rel. Min. HERMAN BENJAMIN, DJe 20.6.2017).
+
+ADMINISTRATIVO. MILITAR. SERVIÇO TÉCNICO TEMPORÁRIO. PROCESSO SELETIVO. EXIGÊNCIA EDITALÍCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 5/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283/STF.
+1. No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+2. Ademais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, interpretação de cláusulas do edital do certame, providência vedada em recurso especial a teor da Súmula 5/STJ, bem como da Portaria 46/2012, ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp. 814.784/RS, Rel. Min. SÉRGIO KUKINA, DJe 24.2.2016).
+8. Com essas considerações, nega-se seguimento ao Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
