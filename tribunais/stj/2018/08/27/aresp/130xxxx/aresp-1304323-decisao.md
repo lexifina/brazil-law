@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA R. DECISÃO PELA QUAL FOI INDEFERIDO PEDIDO DE ANULAÇÃO DE ATOS PRATICADOS POR ADVOGADO DO "DE CUJUS" ABES DIB FILHO, UM DOS EXEQUENTES - ALEGAÇÃO DE INCORREÇÃO - PEDIDO DE REFORMA - MANUTENÇÃO DA R. DECISÃO RECORRIDA - IMPOSSIBILIDADE DE RECONHECIMENTO DE NULIDADA E ATRAVÉS DA VIA ELEITA - TRÂNSITO EM JULGADO DA MATÉRIA - RECURSO NÃO PROVIDO.
+Nas razões do especial, aponta a parte recorrente a violação dos artigos 265, 471 e 791 do Código de Processo Civil de 1973; e 682 do Código Civil, alegando a ocorrência de nulidade absoluta em face do signatário da parte adversa, sem possuir poderes para tal, ter apresentado apelação contra a sentença que deu parcial provimento aos embargos à execução.
+Argumenta que em razão do falecimento do exequente a ação deveria ter sido suspensa, para que o espólio ou os herdeiros se habilitassem, bem como constituíssem patrono, visto que a procuração dada pelo de cujus se extinguira.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+O Colegiado estadual, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (fl. 859, e-STJ):
+O pedido de reconhecimento de nulidade dos atos processuais praticados pelo Advogado do "de cujus", sem a devida regularização processual não está a merecer acolhida por parte da Turma Julgadora.
+Conforme se verifica dos autos, já se registrou o trânsito em julgado das Decisões proferidas, não podendo ocorrer, através de pedido deduzido por simples petição, o reconhecimento da nulidade pleiteada pois, para todos efeitos, a via eleita pelo agravante na busca da satisfação de seus interesses se mostra inadequada, notadamente porque dispõe a sistemática do Código de Processo Civil, de instrumento adequado para tal o atingimento de seus propósitos (art. 485 do C.P.C.).
+Por esses motivos, incabível também a pretendida colheita de depoimento ao ser prestado pelo Advogado do Exequente, isso porque tal ato não implicará no reconhecimento de nulidade das questões em debate, uma vez que já acobertadas das pelo manto da coisa julgada.
+Verifica-se que a fundamentação do Colegiado estadual está em consonância com a jurisprudência desta Corte Superior, que possui entendimento no sentido de não ser possível rediscutir o acerto do acórdão transitado em julgado, como se fosse possível equiparar a Ação Rescisória aos recursos previstos na legislação processual civil. Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA. EXTINÇÃO ANTE A SATISFAÇÃO DA OBRIGAÇÃO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. (..)
+2. Com o trânsito em julgado, os litigantes ficam adstritos aos limites impostos pelo título executivo judicial e não podem rediscutir, no bojo da ação executiva, o que não está assegurado na condenação, questionando a legalidade do negócio e sua base de cálculo.
+3. Agravo interno não provido.
+(AgInt no AREsp 1079103/MS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 12/6/2018)
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. QUESTÃO SUSCITADA, POR MEIO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE, E DECIDIDA, OPERANDO-SE INCLUSIVE A COISA JULGADA. ALTERAÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ. 2. MATÉRIA DE ORDEM PÚBLICA. APRECIAÇÃO EM DECISÃO TRANSITADA EM JULGADO. CARACTERIZADA A PRECLUSÃO CONSUMATIVA. 3. AGRAVO INTERNO DESPROVIDO.
+1. A alteração do entendimento firmado no acórdão recorrido (acerca da ocorrência da preclusão consumativa, porquanto já suscitada e apreciada, na decisão de exceção de pré-executividade, já transitada em julgado, a questão concernente à exigibilidade do título, matéria que também está intimamente ligada à nulidade da cártula) demandaria o reexame dos fatos e das provas dos autos, atraindo, por conseguinte, a Súmula 7/STJ, não se tratando de hipótese de revaloração probatória.
+2. Ademais, "ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada" (AgRg no AREsp 630.587/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/6/2016, DJe 1/7/2016).
+3. Agravo interno desprovido.
+(AgInt no AgInt no REsp 1592256/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 24/2/2017)
+Incidência da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
