@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da r. decisão monocrática de fls. 3825/3827 que deu provimento aos embargos de declaração da parte adversa, com efeito modificativo, para conhecer do agravo e negar provimento ao recurso especial.
+No presente recurso, a parte embargante alega que não há na decisão ora embargada "a imposição de verba honorária que incide em sede recursal na conformidade do § 11 do art. 85 do CPC, vício esse que pode ser sanado via declaratórios, requerendo, assim, digne-se receber os presentes aclaratórios, dar-lhe provimento e impor a majoração da verba honorária na aplicação da acima referida norma jurídica". (fl. 3826).
+A parte contrária deixou transcorrer in albis o prazo das contrarrazões.
+É o relatório. Passo a decidir.
+Não assiste razão a parte embargante no tocante a omissão em relação, pois no caso trata-se de recurso especial contra acórdão proferido em agravo de instrumento, que não condenou as partes em honorários advocatícios, como se pode ver nas fls. 3675/3680.
+Com efeito, é entendimento desta Corte, "para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC/2015, é necessário, entre outros requisitos cumulativos, que a verba honorária sucumbencial seja devida desde a origem no feito em que interposto o recurso, o que não é a hipótese dos autos (Agravo de Instrumento). Precedente da Segunda Seção: AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, julgado em 09/08/2017, DJe de 19/10/2017. No mesmo sentido: (AgInt no AREsp 1178043/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 02/08/2018, DJe 10/08/2018).
+Ademais, observa-se que a parte ora embargante, na primeira oportunidade que falou nos autos, nada requereu em relação a honorários, de modo que aplica-se ao caso também a preclusão quanto ao ponto.
+Diante dos exposto, rejeito os embargos de declaração, nos termos da fundamentação supra.
+Intimem-se.
