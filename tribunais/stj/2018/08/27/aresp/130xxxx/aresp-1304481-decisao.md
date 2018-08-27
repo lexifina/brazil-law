@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA. ASTREINTES. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que enfrenta acórdão assim ementado (fls. 70):
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MULTA COMINATÓRIA. CARÁTER COERCITIVO. SÚMULA 410DO STJ. NÃO APLICAÇÃO. VALOR DA MULTA. REDUÇÃO.
+A multa cominatória, prevista na legislação processual, visa a compelir o litigante ao cumprimento de ordem judicial e, por via de consequência, à satisfação da pretensão sub judice (efetividade da prestação jurisdicional). Com efeito, não ostenta caráter indenizatório, mas coercitivo, uma vez que tem por escopo assegurar a efetividade da prestação jurisdicional, garantindo-lhe sua concreta observância.
+É firme o entendimento no sentido da não-aplicação da súmula n.º 410 do STJ, quando há pleno conhecimento do executado sobre o cumprimento da obrigação.
+O valor da multa cominatória pode ser redimensionado a qualquer tempo, segundo circunstâncias então vigentes - tais como as dificuldades de cumprimento alheias à conduta da parte, a fixação em quantia exorbitante ou ínfima -, de modo a evitar o enriquecimento injustificado de seu beneficiário (desvio de finalidade) ou a sua própria ineficácia.
+A multa impugnada pelo agravante foi fixada em virtude de reiterado descumprimento de ordem judicial consistente na apresentação do termo de quitação do contrato. Não obstante, considerando o quantum arbitrado originalmente a título de multa, o tempo em que perdurou a inércia do réu e os parâmetros adotados por esta Corte em casos similares, configura-se razoável a redução do quantum da multa diária.
+Embargos de declaração parcialmente providos, para fim exclusivo de prequestionamento.
+No apelo especial, os recorrentes alegam, além de divergência jurisprudencial, ofensa aos artigos 536, §1º e 537, caput, e §4º, do CPC/2015. Defende, em síntese, que "a multa foi aplicada em razão do descumprimento a diversas determinações judiciais, prolongando-se, a solução da lide, pois a parte Recorrida preferiu optar por uma postura de descaso com o Poder Judiciário, com o não cumprimento da obrigação por quase 01 (um) ano, não podendo, agora, ser a beneficiária do seu descaso" (fls. 135).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Cumpre ressaltar que na via especial não é cabível, em regra, a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado a título de astreintes seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não é o caso dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ASTREINTES. INTIMAÇÃO PESSOAL DO DEVEDOR. DESNECESSIDADE. MULTA DIÁRIA. REDUÇÃO. IMPOSSIBILIDADE NO CASO. SÚMULA 7 do STJ.
+1. É deficiente a alegação genérica de violação do art. 535 do CPC/1973, configurada quando o jurisdicionado não expõe objetivamente o ponto supostamente omitido pelo Tribunal local. Incidência da Súmula 284 do STF.
+(..)
+3. Para afirmar-se a desproporcionalidade do valor das astreintes, seria necessário reexaminar o contexto fático-probatório dos autos, providência inadmissível em sede de recurso especial. Incidência da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 901.025/SC, Relator Ministro Og Fernandes, Segunda Turma, DJe 5/5/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. DESNECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR PARA IMPLEMENTAÇÃO DA MULTA COMINATÓRIA. PRECEDENTES. ASTREINTES. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. "Segundo entendimento do STJ, após a vigência da Lei n. 11.232/2005, é desnecessária a intimação pessoal do executado para cumprimento da obrigação de fazer imposta em sentença, para fins de aplicação das astreintes" (AgRg no REsp 1441939/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/5/2014).
+2. Em regra, na via especial, não é cabível a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado a título de astreintes seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+3. Agravo interno desprovido. (AgInt no AREsp 893.554/RJ, Relator Sérgio Kukina, Primeira Turma, DJe 20/3/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO NÃO LEVANTADA NAS RAZÕES DO RECURSO ESPECIAL. INOVAÇÃO EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. FORNECIMENTO DE MEDICAMENTO. IMPOSIÇÃO DE MULTA DIÁRIA POR DESCUMPRIMENTO DE OBRIGAÇÃO. REVISÃO DO VALOR ARBITRADO (R$ 2.000,00). REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A revisão do valor fixado a título de multa em decorrência do descumprimento de decisão judicial, encontra óbice na Súmula 07/STJ, uma vez que fora estipulado em razão das peculiaridades do caso concreto, a exemplo, da capacidade econômica do ofensor e do ofendido, e ao caráter pedagógico da indenização.
+3. Somente é possível rever o valor a ser indenizado quando exorbitante ou irrisória a importância arbitrada, em violação dos princípios da razoabilidade e da proporcionalidade, o que não se observa no presente caso.
+4. Agravo Regimental do Estado de Pernambuco desprovido.
+(AgRg no AREsp 446.099/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 8/5/2014)
+No caso dos autos, os agravantes não demonstraram que o valor arbitrado se revelaria irrisório. Quanto ao ponto, o voto condutor do acórdão impugnado assim consignou (e-STJ fl. 68):
+A multa impugnada pelo agravante foi fixada em R$ 5.000,00 (cinco mil reais) por dia de descumprimento - a incidir a partir do decurso de prazo sem manifestação -, em virtude de reiterado descumprimento de ordem judicial consistente na apresentação do termo de quitação do contrato.
+A sua recalcitrância em atender à determinação judicial é incontroversa, não tendo sido apresentada qualquer justificativa plausível para a persistente omissão.
+Não obstante, considerando, o quantum arbitrado originalmente a título de multa (R$ 100,00 - evento 33), o tempo em que perdurou a inércia do réu e os parâmetros adotados por esta Corte em casos similares, tenho por razoável a redução do quantum da multa diária para R$ 2.000,00 (dois mil reais).
+Desse modo, deve ser mantido o valor estabelecido a título de astreintes, tendo em vista que ancorado no contexto fático delineado nos autos, não se mostrando irrisório.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
