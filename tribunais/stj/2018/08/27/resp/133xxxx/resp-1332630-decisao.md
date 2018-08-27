@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 265):
+E ME N TA - AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - NÃO CUMPRIMENTO DA REGRA DO ART. 526 DO CPC - NÃO LEVA POR SI Só AO NÃO CONHECIMENTO RECURSAL - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - AFASTADA POR AUSÊNCIA NA SUBSUNÇÃO NA REGRA EXCEPCIONAL QUE A PERMITE - RECURSO IMPROVIDO.
+A ontologia do art. 526 do CPC se volta na dimensão geográfica brasileira, onde se reconhece dificuldades do deslocamento do interior para a Capital a fim de se aferir o conteúdo das razões do agravo de instrumento. Desta feita e não havendo prejuízo, já que o agravado tem patrono na Capital e onde está situado o Tribunal, então, não se fala em não conhecimento, até porque, segue-se a linha do STJ no sentido de se aproveitar ao máximo os atos processuais.
+A regra geral de que a personalidade jurídica da empresa é distinta dos seus membros somente poderá ser quebrada se o fato se enquadrar com todas as letras nos casos legais que permitem a exceção, ou seja, a desconsideração da personalidade jurídica visando atingir bens particulares dos sócios. Pelo caso posto à apreciação se infere que a pretensão de desconsideração da personalidade jurídica decorre da alegação de que os débitos da empresa não foram honrados de e forma a prejudicar os credores e, portanto, pela má fé dos administradores. Este fato por si só não se enquadra nas hipóteses legais de desconsideração da pessoa jurídica, ou seja, não se verifica, realmente, os elementos autorizantes para a aplicação da medida excepcional, tanto que conforme se infere das razões recursais somente o presente débito se encontra em aberto e os demais foram devidamente quitados. Portanto, este fato é incompatível com os elementos exigidos para se declarar a desconsideração da pessoa jurídica.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 288/293).
+O recurso especial (e-STJ fls. 297/316), fundamentado no art. 105, III, alínea "a", da CF, aponta ofensa:
+(i) aos arts. 526, 527, 529 e 458 do CPC/1973, tendo em vista que o agravo de instrumento não deveria ter sido aceito, pois suas razões não foram protocolizadas pelo recorrido no juízo de primeiro grau,
+(ii) ao art. 557 do CPC/1973, haja vista esse dispositivo legal só poder ser "(..) utilizado para o Julgador negar de, plano e monocraticamente, o recurso manifestamente inadmissível, ou que confronte súmula ou jurisprudência dominante. Julgador não indeferiu, e, sim deferiu de, plano o Recurso de Agravo de Instrumento do Hospital Recorrido" (e-STJ fl. 309).
+(iii) ao art. 28, § 5º, do CDC, por cassar a decisão que desconsiderou a personalidade jurídica, mesmo estando presentes os requisitos legais. Informa, para tanto, que "O artigo 28 da Lei no 8.078190, permite ao Juiz desconsiderar a personalidade jurídica da sociedade quando, em detrimento do consumidor, houver abuso de direito, excesso de poderinfração da lei, fato ou ato ilícito ou violação dos estatutos ou contrato social" (e-STJ fl. 311).
+Foram apresentadas contrarrazões (e-STJ fls. 345/381).
+É o relatório.
+Decido.
+Do artigo 526, parágrafo único, do CPC/1973
+Assiste razão ao recorrente quanto à admissibilidade do agravo de instrumento interposto pela parte recorrida.
+A Corte estadual, soberana no exame das prova dos autos, afastou a preliminar concernente à falta de cumprimento da regra prevista no art. 526 do CPC/1973, consignando que "(..) não havendo prejuízo, já que o agravado tem patrono na Capital e onde está situado o Tribunal, então, não se fala em não conhecimento, até porque, segue-se a linha do STJ no sentido de se aproveitar ao máximo os atos processuais" (e-STJ fl. 268).
+Porém, o entendimento jurisprudencial do STJ orienta que a diligência estabelecida no art. 526 do CPC/1973, após a edição da Lei n. 10.352/2001, tornou-se obrigatória, devendo o recorrente, no prazo de 3 (três) dias, requerer a juntada de cópia da petição do agravo de instrumento e do comprovante de sua interposição, assim como da relação dos documentos que instruíram o recurso.
+O presente caso não trata de vício meramente formal, em que se poderia cogitar da existência de prejuízo à parte para mitigar os efeitos do art. 526, parágrafo único, do CPC/1973, mas de descumprimento do prazo, assinalado pela lei, de providência necessária à admissibilidade do recurso.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 526 DO CPC. DESCUMPRIMENTO. EXISTÊNCIA DE MANIFESTAÇÃO DA PARTE AGRAVADA. MATÉRIA FIRMADA EM RECURSO REPETITIVO. AGRAVO IMPROVIDO.
+1. Segundo o REsp n. 1.008.667/PR, submetido ao regime previsto no art. 543-C do CPC, "o descumprimento das providências enumeradas no caput do art. 526 do CPC, adotáveis no prazo de três dias, somente enseja as consequências dispostas em seu parágrafo único se o agravado suscitar a questão formal no momento processual oportuno, sob pena de preclusão", o que aconteceu no caso em tela.
+2. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp n. 627.631/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/05/2015, DJe 27/05/2015.)
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE. AGRAVO REGIMENTAL. ARTIGO 526 DO CPC, SOB A ÉGIDE DA LEI 10.352/2001. PRAZO PARA JUNTADA DA PETIÇÃO DE AGRAVO. NÃO CUMPRIMENTO. CAUSA DE INADMISSÃO CONFIGURADA.
+1. Nos termos do parágrafo único do art. 526 do CPC, a ausência de juntada aos autos principais da petição de agravo de instrumento nos três dias subsequentes à interposição, no regime posterior à edição da Lei 10.352/2001, alegada e comprovada pelo embargado, é causa de inadmissão do recurso.
+2. Rever o posicionamento do acórdão recorrido quanto à intempestividade da juntada de cópia da petição do agravo de instrumento e do comprovante de sua interposição é vedado pela Súmula 7/STJ.
+3. Embargos de declaração recebidos como agravo regimental a que se nega provimento.
+(EDcl no AgRg nos EDcl no Ag n. 1168708/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/10/2012, DJe 17/10/2012.)
+Portanto, o acórdão recorrido deve ser reformado, porque em desconformidade com o entendimento desta Corte.
+Ficam prejudicadas as demais alegações.
+Em face do exposto, DOU PROVIMENTO ao recurso especial, para cassar o acórdão impugnado, que conheceu do agravo de instrumento, diante do descumprimento, pelo recorrido, da regra prevista no art. 526 do CPC/1973.
+Publique-se e intimem-se.
