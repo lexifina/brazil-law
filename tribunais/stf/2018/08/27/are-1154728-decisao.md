@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 150, IV, e 152 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local (Decreto Estadual 14.876/1991), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. ISENÇÃO. ACORDO GERAL DE TARIFAS E COMÉRCIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Recepção pela Constituição da República de 1988 do Acordo Geral de Tarifas e Comércio. 2. Aplicação de isenção de ICMS às operações de importação de produto proveniente de país signatário do GATT. Impossibilidade da análise da legislação infraconstitucional. Ofensa constitucional indireta. Precedentes.” (AI 714039 AgR, Relator(a):  Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 15/09/2009, DJe-191 DIVULG 08-10-2009 PUBLIC 09-10-2009 EMENT VOL-02377-10 PP-02032)
+    “EMENTA Agravo regimental no agravo de instrumento. Isenção de Imposto sobre Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação. ICMS. Importação de produto proveniente de país signatário do GATT. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Pacífico o entendimento desta Corte no sentido de que a controvérsia referente à isenção de ICMS, relativa à importação de produto proveniente de país signatário do GATT, requer o exame da legislação infraconstitucional e dos fatos e provas dos autos, o que é inadmissível em recurso extraordinário. 2. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil.” (AI 589942 AgR, Relator(a):  Min. DIAS TOFFOLI, Primeira Turma, julgado em 17/08/2010, DJe-200 DIVULG 21-10-2010 PUBLIC 22-10-2010 EMENT VOL-02420-05 PP-01060)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
