@@ -1,0 +1,24 @@
+EMENTA
+TRIBUTÁRIO. COFINS. SOCIEDADE CIVIL. ISENÇÃO RECONHECIDA PELA LEI COMPLEMENTAR N. 70/91 (ART. 6º, II). REVOGAÇÃO PELA LEI ORDINÁRIA N. 9.430/96. LEGALIDADE. JUÍZO DE RETRATAÇÃO. ART. 543-B, §3º, DO CPC/1973 (ART. 1.040, II, DO CPC/2015).
+I - O Supremo Tribunal Federal, no julgamento do RE 377.457/PR, em repercussão geral (Tema 71/STF), firmou tese de que "é legítima a revogação da isenção estabelecida no art. 6º, II, da Lei Complementar 70/1991 pelo art. 56 da Lei n. 9.430/1996, dado que a LC 70/1991 é apenas formalmente complementar, mas materialmente ordinária com relação aos dispositivos concernentes à contribuição social por ela instituída".
+II - Agravo regimental provido para negar provimento ao recurso especial. Art. 543-b do CPC/1973. (art. 1.040, II, do CPC/2015).
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo interno para negar provimento ao recurso especial, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO:
+Trata-se de recurso especial ajuizado por União de Clínicas Rio Grande Ltda., com fundamento no artigo 105, inciso III, letras a e c, da Constituição Federal, tendo por finalidade a reforma do v. acórdão proferido pelo colendo Tribunal Regional Federal da 4ª Região, que, à unanimidade, negou provimento ao apelo da contribuinte, para declarar que "é constitucional a alteração feita pela (sic) lei 9.430/96 em relação a isenção da COFINS para as sociedades civis, que se encontrava prevista no artigo 6º, inciso II, da LC 70/91" (fl. 99).
+Em seu recurso especial, argumenta, em síntese, que a alteração da isenção da tributação para as sociedades civis só poderia se realizar por meio de norma legal de mesma estrutura legislativa, apontando, como violados os arts. 111 e 178 do CTN, além de divergência jurisprudencial.
+O recurso especial foi provido sob o entendimento de que o art. 56 da Lei n. 9.430/1996 não poderia revogar a isenção da COFINS conferida pela Lei Complementar n. 70/91 às sociedades civis de profissão regulamentada, sob pena de desconsiderar a superioridade hierárquica da Lei complementar em relação à Lei ordinária.
+Interposto agravo regimental a decisão monocrática foi mantida pela Segunda Turma.
+A Fazenda Nacional interpôs recurso extraordinário que foi inadmitido conforme a decisão de fls. 260-262.
+Interposto agravo contra a referida decisão e após o recebimento do feito para análise do Recurso Extraordinário, pelo Supremo Tribunal Federal, foi exarado despacho determinando o sobrestamento dos autos para aguardar o exame da controvérsia no RE n. 377.457 e, posteriormente, a devolução dos autos ao Superior Tribunal de Justiça para os fins do art. 543-B e parágrafos do CPC/1973 (fl. 288).
+Às fls. 305-306, o Ministro Vice-Presidente do Superior Tribunal de Justiça, observando o julgamento do RE 377.457/PR, encaminha os autos a este relator para os fins do disposto no art. 1.040, II, do CPC/2015.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (RELATOR):
+O Supremo Tribunal Federal, no julgamento do RE 377.457/PR, em repercussão geral (Tema 71/STF), firmou tese de que "é legítima a revogação da isenção estabelecida no art. 6º, II, da Lei Complementar 70/1991 pelo art. 56 da Lei n. 9.430/1996, dado que a LC 70/1991 é apenas formalmente complementar, mas materialmente ordinária com relação aos dispositivos concernentes à contribuição social por ela instituída".
+O julgado acima referido foi assim ementado, in verbis:
+Contribuição social sobre o faturamento - COFINS (CF, art. 195, I). 2. Revogação pelo art. 56 da Lei 9.430/96 da isenção concedida às sociedades civis de profissão regulamentada pelo art. 6º, II, da Lei Complementar 70/91. Legitimidade. 3. Inexistência de relação hierárquica entre lei ordinária e lei complementar. Questão exclusivamente constitucional, relacionada à distribuição material entre as espécies legais. Precedentes. 4. A LC 70/91 é apenas formalmente complementar, mas materialmente ordinária, com relação aos dispositivos concernentes à contribuição social por ela instituída. ADC 1, Rel. Moreira Alves, RTJ 156/721. 5. Recurso extraordinário conhecido mas negado provimento.
+O Superior Tribunal de Justiça, alinhando-se ao julgado do STF, por ocasião do julgamento do REsp. 826.428/MG, sujeito ao rito do art. 543-C do CPC/1973, redigiu a Súmula 508, firmando orientação de que a isenção da Cofins concedida pelo art. 6º, II, da LC 70/1991 às sociedades civis de prestação de serviços profissionais foi validamente revogada pelo art. 56 da Lei n. 9.430/1996.
+Ante o exposto, em juízo de retratação, dou provimento ao agravo regimental para negar provimento ao recurso especial.
+É o voto.
