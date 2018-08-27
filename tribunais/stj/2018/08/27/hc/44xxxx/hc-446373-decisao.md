@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (MS n.º 2227973-19.2017.8.26.0000).
+Depreende-se dos autos que o paciente foi preso em flagrante por suposta prática do delito de tráfico de drogas. Em sede de audiência de custódia, foi concedida a liberdade provisória ao paciente, cumulada com medidas cautelares diversas da prisão (fls. 14-18).
+Irresignado, o Ministério Público interpôs recurso em sentido estrito e, concomitantemente, impetrou mandado de segurança visando a concessão de efeito suspensivo ativo ao recurso. O tribunal de origem concedeu a segurança para atribuir efeito suspensivo ao RESE, determinando a permanência do paciente no cárcere até o julgamento do mencionado recurso.
+No presente mandamus, alega o impetrante, inicialmente, a ilegalidade de decretação da prisão preventiva em sede de mandado de segurança, invocando o enunciado sumular n.º 604 desta Corte.
+Destaca que o paciente, primário, possui 23 anos de idade e que, em caso de eventual condenação, poderá iniciar o cumprimento da pena em regime menos gravoso.
+Aduz que seu direito à ampla defesa está efetivamente prejudicado por decisão desarrazoada, desproporcional e contrária à jurisprudência deste egrégio Superior Tribunal.
+Sustenta a ausência de fundamentação idônea para a decretação da prisão preventiva do paciente.
+Argumenta que está "presente o perigo da demora da prestação jurisdicional, já que o paciente está custodiado ilegalmente há quase um mês (foi preso após concedido o mandado de segurança em 29 de março de 2018)".
+Requer, liminarmente e no mérito, o direito de o paciente responder ao processo em liberdade. Subsidiariamente, busca a aplicação de medida cautelar alternativa ao cárcere, qual seja, o comparecimento periódico em juízo.
+O pleito liminar foi deferido, em 20.4.2018, para suspender os efeitos do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Mandado de Segurança n.º 2227973-19.2017.8.26.0000, restabelecendo-se, até o julgamento final deste writ, a decisão do juiz de primeiro grau, bem como todas as condições impostas pelo julgador.
+As informações foram juntadas às fls. 74-113, 116-142 e 153-179.
+O Ministério Público Federal, às fls. 144-150, manifestou-se pela concessão da ordem para restabelecer a decisão que concedeu a liberdade provisória ao ora paciente com a imposição de medidas cautelares alternativas.
+É o relatório.
+Em contato com a 4ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, obteve-se a informação de que foi julgado o Recurso em Sentido Estrito interposto contra a decisão que deferiu ao paciente a liberdade provisória. O tribunal de origem, em 31.7.2018, deu provimento ao recurso ministerial para decretar a prisão preventiva do paciente. O aresto está assim sintetizado:
+RECURSO EM SENTIDO ESTRITO - TRÁFICO DE DROGAS - Liberdade provisória concedida na origem - Inconformismo ministerial - Pleito de revogação da benesse e decretação da prisão preventiva - Necessidade - Flagrante formalmente em ordem - Indícios suficientes de autoria - Impossibilidade de maiores incursões meritórias - Fatos graves - Posse, em tese, de significativa quantidade de drogas de naturezas variadas, dentre elas a cocaína, estupefaciente que, pela rápida absorção e metabolização no organismo, induz a reiteradas aspirações, ostentando alta nocividade - Descabida a alegação de que o recorrido fará jus ao redutor disposto no art. 33, §4º, da Lei de Drogas, caso seja condenado. Indesejável exercício de futurologia - Cautelares menos gravosas que não se mostram suficientes - Prisão preventiva necessária para garantir a ordem pública - Recurso provido, com determinação.
+Diante do julgamento do Recurso em Sentido Estrito pelo tribunal de origem, evidencia-se a prejudicialidade deste habeas corpus, que se insurge contra o acórdão que concedeu a segurança para atribuir efeito suspensivo ao referido recurso.
+Ante o exposto, com fundamento no art. 659 do Código de Processo Penal, e no art. 34, XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus e casso a liminar deferida às fls. 60-64.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
