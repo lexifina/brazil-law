@@ -1,0 +1,27 @@
+DECISÃO
+Através da Pet. n. 00381477/2018, OSÉAS DA COSTA FERNANDES requer o reconhecimento da prescrição, tendo em vista a redução da pena para 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão, por ocasião do julgamento do HC n. 404151/PB, e o fato de estar o requerente, nascido em 18/8/1946, com 71 (setenta e um) anos de idade.
+Decido.
+Por se tratar de matéria de ordem pública, a prescrição penal deve ser analisada a qualquer tempo e grau de jurisdição, podendo ser declarada de ofício ou a requerimento das partes, mesmo após o trânsito em julgado da sentença condenatória, nos termos do art. 61 do Código de Processo Penal.
+É descabida a alegação da defesa, no sentido de que o prazo prescricional incidente sobre a pretensão punitiva, no caso concreto, deve ser reduzido pela metade.
+Conforme a dicção do art. 115 do CP, são reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos, ou, na data da sentença, maior de 70 (setenta) anos. Nenhuma das duas hipóteses previstas na norma penal ocorre in casu.
+Isto porque, na data da sentença penal condenatória, proferida em 21/05/2014 (e-STJ fls. 447/470), o réu estava com 67 (sessenta e sete) anos de idade. Portanto, não há se falar em redução do prazo prescricional pela metade, pois a situação dos autos revela que o requerente somente completou 70 (setenta) anos de idade em data posterior ao primeiro decreto condenatório proferido nesta ação penal.
+Corroborando o entendimento acima, há precedente da Terceira Seção desta Corte Superior, in verbis:
+EMBARGOS DE DIVERGÊNCIA. RECURSO ESPECIAL. EXTINÇÃO DE PUNIBILIDADE. ARTIGO 115 DO CÓDIGO PENAL. IDADE DO RÉU NA DATA DO ACÓRDÃO. DIVERGÊNCIA CARACTERIZADA. EMBARGOS REJEITADOS.
+1. Incabível o recurso de embargos de divergência com base em dissídio com julgados da mesma Turma que proferiu o acórdão embargado. Inteligência do artigo 266 do Regimento Interno deste Superior Tribunal de Justiça.
+2. A redução do prazo prescricional, prevista no artigo 115 do Código Penal, só deve ser aplicada quando o réu atingir 70 anos até primeira decisão condenatória, seja ela sentença ou acórdão.
+3. Embargos de Divergência rejeitados. (EREsp 749.912/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 10/02/2010, DJe 05/05/2010)
+Nesse sentido, ainda, os recentes julgados:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRESCRIÇÃO EXECUTÓRIA. RÉU QUE COMPLETOU 70 ANOS DEPOIS DA SENTENÇA CONDENATÓRIA. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 115 DO CP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No âmbito deste Superior Tribunal, prevalece o entendimento de que o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, consoante a interpretação literal do art. 112 do CP, mais benéfica ao condenado.
+2. Por expressa previsão do art. 115 do CP, são reduzidos pela metade os prazos de prescrição quando o criminoso era, na data da sentença, maior de 70 anos. O acórdão confirmatório da condenação não substitui o marco de redução do prazo prescricional. Precedentes.
+3. É inviável adotar, à míngua de previsão legal, a imutabilidade da condenação como inédito parâmetro para a aplicação do art. 115 do CP. Em matéria de prescrição, é recomendável a interpretação restritiva, principalmente se considerado que o objetivo da norma é extinguir um direito devido à inércia de seu titular, e não há falar em desinteresse do Estado quando, no caso concreto, a impossibilidade de executar a pena substitutiva decorre da exigência do trânsito em julgado para ambas as partes.
+4. A idade limite foi completada pelo agravante depois da sentença e do acórdão proferido em apelação, o que impossibilita a concessão da ordem.
+5. Agravo regimental não provido. (AgRg no RHC 94.376/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/05/2018, DJe 01/06/2018)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO TRANSCURSO DO LAPSO TEMPORAL. RÉU QUE COMPLETOU 70 ANOS APÓS A SENTENÇA CONDENATÓRIA. ART. 115 DO CÓDIGO PENAL. REDUÇÃO DO PRAZO PRESCRICIONAL PELA METADE. IMPOSSIBILIDADE. PARCELAMENTO. SUSPENSÃO. INOVAÇÃO RECURSAL. FALTA DE PREQUESTIONAMENTO. NECESSIDADE DE EXAME DO ACERVO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS 282 E 356/STF E 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A redução do prazo prescricional, prevista no art. 115 do Código Penal, é incabível nos casos em que o acusado completa 70 anos de idade após a prolação da sentença condenatória. 2. Não decorrido o lapso prescricional entre os marcos interruptivos, não se operou a prescrição da pretensão punitiva.
+3. A ausência de prequestionamento relativamente ao parcelamento do débito tributário atrai a incidência das Súmulas 282 e 356/STF, bem como demanda exame do acervo fático-probatório, inadmissível a teor da Súmula 7/STJ.
+4. Agravo regimental improvido. (AgRg no AREsp 1064283/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/05/2018, DJe 23/05/2018)
+Assim, considerando o quantum de pena privativa de liberdade cominada ao requerente - sem o aumento da continuidade delitiva, isto é, 3 (três) anos de reclusão - e o trânsito em julgado para a acusação, conclui-se que o prazo prescricional cabível à hipótese é de 8 (oito) anos, conforme prevê o art. 109, IV, do CP, inocorrente no caso dos autos.
+Com essas considerações, indefiro a Petição n. 00381477/2018.
+Publique-se.
+Intimem-se.
