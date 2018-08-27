@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. SOCIEDADE COOPERATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. ART. 7º DA CONSTITUIÇÃO FEDERAL. APLICAÇÃO DA SÚMULA 126/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 317):
+Apelação. Liquidação Judicial. Cooperativa - Habilitação de crédito trabalhista. Inaplicabilidade da lei falimentar, dado o caráter não empresarial da cooperativa. Incidência da Lei n. 5.764/71. Entendimento pacificado do STJ neste sentido - Crédito trabalhista constituído entre 1991 e 1992, homologando-se a conta de liquidação cm 1993, quando iniciou-se o prazo prescricional. Instaurada a liquidação judicial em 1999. Pretensão de habilitação de crédito mais de dez anos depois, em 2015. Prescrição configurada.
+Sentença reformada. Recurso provido.
+Em suas razões de recurso especial (e-STJ, fls. 134-152), o recorrente alegou ofensa aos arts. 91 da Lei n. 5.764/1971; 47 da Lei n. 7.661/1945; 157 da Lei n. 11.101/2005; e 199, 202 e 205 do Código Civil de 2002.
+Sustentou, em síntese, a não ocorrência da prescrição por ser aplicável a Lei de Falências e haver causa interruptiva do prazo prescricional.
+Foram apresentadas contrarrazões (e-STJ, fls. 236-241).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da ausência de violação dos dispositivos apontados (e-STJ, fls. 254-255).
+Brevemente relatado, decido.
+Preliminarmente, os dispositivos legais apontados pelo recorrente - arts. 91 da Lei n. 5.764/1971; 157 da Lei n. 11.101/2005; e 199, 202 e 205 do Código Civil de 2002 - não foram enfrentados pelo acórdão impugnado, tampouco foram opostos embargos de declaração quanto a esse ponto. Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, ainda que em embargos de declaração, o que, na espécie, não ocorreu. Incidência das Súmulas n. 282 e 356 do STF.
+Consoante se extrai dos autos, o Tribunal de origem, ao julgar a apelação, consignou o seguinte (e-STJ, fls. 235-238):
+(..)
+O nobre Magistrado a quo afastou a alegação de prescrição, em virtude do reconhecimento do efeito suspensivo que ampara os interesses de credores sujeitos à execução concursal, nos moldes do artigo 473 do Decreto-lei 7.661/45.
+Com efeito, por não possuir a cooperativa caráter empresarial, nos termos do parágrafo único do artigo 982, do Código Civil, são inaplicáveis as disposições previstas na antiga Lei de Falências (DL 7.661/45), devendo incidir, na hipótese, os artigos 635 e seguintes da Lei nº 5.764/71, consoante entendimento pacificado no Superior Tribunal de Justiça:
+(..)
+Deste modo, assentada a inaplicabilidade da suspensão prevista na lei falimentar, resta resolver se ocorreu a prescrição do crédito do habilitante.
+Depreende-se, da leitura dos documentos que acompanham a exordial, que o crédito trabalhista do habilitante foi constituído entre 1991 e 1992 (fls. 14/23), e a conta de liquidação foi homologada em 26/04/1993, conforme documento de fls. 25/26.
+Destarte, a partir desta data iniciou-se o prazo prescricional.
+Entre 1994 e 1999 foi processada a liquidação extrajudicial da apelante, e desde 1999 está em processamento a liquidação judicial.
+De acordo com o que estabelece o artigo 76 da Lei nº 5.764/71, "a publicação no Diário Oficial, da ata da Assembléia Geral da sociedade, que deliberou sua liquidação, ou da decisão do órgão executivo federal quando a medida for de sua iniciativa, implicará a sustação de qualquer ação judicial contra a cooperativa, pelo prazo de 1 (um) ano, sem prejuízo, entretanto, da fluência dos juros legais ou pactuados e seus acessórios"; o parágrafo único deste artigo, por sua vez, estabelece que "decorrido o prazo previsto neste artigo, sem que, por motivo relevante, esteja encerrada a liquidação, poderá ser o mesmo prorrogado, no máximo por mais 1 (um) ano, mediante decisão do órgão citado no artigo, publicada, com os mesmos efeitos, no Diário Oficial.
+Ocorre que, na época em que se deliberou pela liquidação (1999), o crédito do habilitante já estava prescrito; e, ainda que assim não fosse reconhecido, somente em 2015, isto é, mais de 10 anos depois do início da liquidação judicial, com crédito já constituído (1993), o apelado ajuizou o pedido de habilitação de seu crédito, sendo inequívoca a prescrição de sua pretensão, nos termos do art. 7º, XXIX", da Constituição Federal e da Súmula 150 do Supremo Tribunal Federal.
+Ante o exposto, dá-se provimento ao recurso para, reconhecida a prescrição, julgar improcedente o pedido de habilitação de crédito, nos termos do artigo 487, inciso 119, do Código de Processo Civil vigente. (Sem grifo no original).
+Verifica-se que o recorrente não se desincumbiu de demonstrar as razões pelas quais considera violada as normas legais apontadas e tampouco impugnou os fundamentos do acórdão recorrido - incidência do art. 982 do Código Civil de 2002 -, incidindo, por analogia, os enunciados n. 283 e 284 do STF, que dispõem respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" e "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Além disso, não obstante a fundamentação constitucional do acórdão, não houve a devida impugnação da matéria por meio de recurso extraordinário, o que atrai o óbice da Súmula n. 126 desta Corte.
+Nesse sentido o seguinte julgado:
+AGRAVO REGIMENTAL. INDENIZAÇÃO. DIREITO À IMAGEM. MATÉRIA JORNALÍSTICA. ALEGAÇÃO DE OFENSA AOS ARTIGOS 165 458, II, E 535, II DO CPC. INEXISTÊNCIA. ACÓRDÃO FUNDADO EM PRECEITO CONSTITUCIONAL NÃO IMPUGNADO POR RECURSO EXTRAORDINÁRIO E NAS PROVAS COLIGIDAS NOS AUTOS. INCIDÊNCIA DAS SÚMULA 7 E 126 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não fere os artigos 165, 458, II, e 535, II do CPC o acórdão que, apesar de não adotar o ponto de vista da parte, examinou os pontos controvertidos postos na lide e declinou os fundamentos nos quais apoiou as conclusões assumidas.
+2. Se o acórdão reconheceu a ilicitude da conduta da agravante e o seu dever de reparar o dano moral, com base em fundamento constitucional não impugnado por recurso extraordinário e nas provas coligidas nos autos, têm aplicação as Súmulas 126 e 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 15.992/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/8/2012, DJe 28/8/2012).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
