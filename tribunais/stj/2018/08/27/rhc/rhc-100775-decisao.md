@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2057675-57.2018.8.26.0000).
+Consta dos autos que o recorrente foi preso em flagrante, sendo a custódia convertida em preventiva, pela suposta prática do crime previsto no artigo 33, caput, da Lei n. 11.343/2006, c/c artigo 12, do Estatuto do Desarmamento.
+Irresignada com a imposição da medida cautelar, a defesa impetrou habeas corpus, perante o Tribunal estadual, que denegou a ordem (e-STJ fls. 70/74).
+Na presente oportunidade, a defesa alega, em síntese, a ilegalidade da prisão preventiva diante da ausência de fundamentação idônea, afirmando que as decisões que mantiveram a imposição da medida não se basearam nos aspectos do caso concreto e do paciente.
+Ressalta que o paciente é primário, com residência fixa no distrito da culpa e ocupação lícita, razões pelas quais alega a desproporcionalidade da medida, pois a prisão preventiva seria mais severa do que a pena a ser cominada em caso de eventual condenação.
+Pugna, liminarmente e no mérito, pela revogação da prisão preventiva, com ou sem imposição de medidas cautelares alternativas.
+Indeferida a liminar pela presidência desta Corte (e-STJ fls. 106/108), o Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 113/117).
+É o relatório, decido.
+De plano, verifico que nesta Corte também foi impetrado o HC n. 450.278/SP, igualmente em favor do ora recorrente e em face do mesmo ato aqui impugnado, apontando-se, ainda, as mesmas ilegalidades quanto à manutenção da custódia cautelar. Ademais, em julgamento ocorrido em 12/06/2018, a 5ª Turma desta Corte superior não conheceu do citado writ, não se encontrando razões para se afastar a segregação cautelar decretada e mantida pelo Juiz a quo, que se mostrou devidamente fundamentada na garantia da ordem pública.
+Ressalte-se que o processamento do mencionado habeas corpus foi admitido em homenagem ao princípio da ampla defesa, a fim de se examinar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício, conforme entendimento adotado por esta Corte e pelo Supremo Tribunal Federal. Nesse sentido, confiram-se os seguintes precedentes: HC 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015 e STF, HC n. 113890, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Todavia, a utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou igualmente o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual não pode prosseguir o presente recurso.
+Nesse sentido, a título de exemplo:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido. (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1/9/2015, DJe 22/9/2015)
+Ante o exposto, com base no art. 34, inciso XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, nego seguimento ao presente recurso ordinário em habeas corpus.
+Publique-se.
