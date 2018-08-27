@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de turma recursal estadual, assim ementado:
+    “Os quinquênios e a sexta-parte são calculados sobre o salário-base e as gratificações de caráter geral. Condenação do recorrente ao pagamento das diferenças com juros e correção monetária nos termos da Tabela prática do e. TJ e juros iguais aos da caderneta de poupança”. (eDOC 6, p. 9)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 37, XIV, do texto constitucional.
+    Nas razões recursais, alega-se que a forma de cálculo deferida para o adicional de qualificação configura incidência de verba sobre verba, gerando efeito cascata. (eDOC 7, p. 8)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A Turma Recursal de origem, ao examinar a legislação local aplicável à espécie (Lei Complementar Municipal 5/1990), consignou que as gratificações concedidas aos servidores são, em essência, aumentos salariais, de modo que devem integrar a base de cálculo dos adicionais temporários. Nesse sentido, extrai-se o seguinte trecho da sentença confirmada por seus próprios fundamentos pelo acórdão impugnado:
+    “Observe-se, o RTI é devido aos servidores que optem pela jornada de trabalho de 40 horas semanais, não sendo possível que o servidor, tendo feito a opção, retorne a jornada menor. Ou seja, o servidor que opta por trabalhar mais, receberá mais. Assim o RTI é, na verdade, o acréscimo no salário-base destinado a remunerar o aumento de serviço. Desse modo, tratando-se de aumento disfarçado, sobre ele deverão incidir os adicionais temporais”. (eDOC 4, p. 3)
+    Assim, verifica-se que a matéria debatida pela Turma Recursal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO ADMINISTRATIVO. ADICIONAL POR TEMPO DE SERVIÇO. BASE DE CÁLCULO. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. SÚMULA 280. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 5° XXXVI, E 37, XIV, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/1973. 1. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo regimental conhecido e não provido.” (RE-AgR 898.128, rel. Min.Rosa Weber, Primeira Turma, DJe 21.11.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2.Administrativo. 3. Servidor público. 4. Base de cálculo para horas extras, quinquênio e gratificação. 5. Impossibilidade de análise da legislação infraconstitucional e de reexame de provas. 6. Súmulas 279 e 280. 7. Agravo regimental ao qual se nega provimento”. (ARE-AgR 957.504, de minha relatoria, Segunda Turma, DJe 18.11.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF) e majoro o valor da verba honorária fixada pela origem (eDOC 6, p. 10) em 10%, observados os limites previstos nos parágrafos 2º e 3º do art. 85 do CPC.
+    Publique-se.
+    Brasília, 27 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
