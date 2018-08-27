@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. AFASTAMENTO, COM BASE NA ANÁLISE DAS PROVAS CARREADAS AOS AUTOS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535, II DO CPC QUE NÃO SE VERIFICA. PRETENSÃO DE REEXAME DE PROVAS QUE NÃO SE COADUNA COM A NATUREZA REPARADORA DOS EMBARGOS DE DECLARAÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundado na alínea a do art. 105, III da Carta Magna, interposto pelo COLÉGIO BARDDAL FLORIANÓPOLIS S/C LTDA. contra acórdão do egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO. TAXA SELIC. LEGALIDADE.
+1. A constituição do crédito exequendo deu-se com a entrega da declaração. Contudo, não há informação da data em que o contribuinte efetuou a entrega da declaração, tampouco consta dos autos documentos que comprovem esta informação, impossibilitando a verificação da prescrição. O reconhecimento da prescrição pressupõe inércia da exequente, aplicando-se a Súmula 106 do STJ quando a demora na realização da citação ocorreu por culpa do judiciário.
+2. O Supremo Tribunal Federal, no julgamento do RE nº 582.461/SP, em regime de repercussão geral, consolidou o entendimento no sentido de que é legítima a incidência da taxa SELIC na atualização do débito tributário (fls. 198).
+2. Os Embargos Declaratórios apresentados foram rejeitados (fls. 214/218).
+3. Em seu Apelo Especial inadmitido (fls. 227/234), o Recorrente aponta violação do art. 535, II do CPC. Alega que em seu apelo, (..) argüiu que a sentença deixou de analisar e fazer a comparação de determinadas DCTFs juntadas pela recorrida nos autos e o número das DCTFs presentes nas CDAs que instruem a execução. Caso assim fizesse, seria possível verificar a prescrição de duas CDAs, com vencimento em 15/05/2002 (fls. 230).
+4. Sobreveio juízo negativo de admissibilidade (fls. 249/250), sob o óbice da Súmula 7/STJ e da não violação do art. 535, II do CPC, o que ensejou a interposição do presente Agravo (fls. 257/259).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Anote-se, primeiramente, a inexistência de vício na prestação jurisdicional. A lide foi decidida em sua integralidade, apresentando o acórdão fundamentação adequada e nos limites necessários à solução da controvérsia. Ademais, não está o julgador obrigado a refutar um a um os argumentos da parte, quando os fundamentos apresentados abordam e repelem toda a argumentação levada ao seu conhecimento
+8. Como é sabido, a natureza reparadora dos Embargos de Declaração só permite a sua oposição contra sentença ou acórdão que contenha omissão, obscuridade ou contradição. No caso dos autos, não se verifica a ocorrência de quaisquer das hipóteses mencionadas, contendo o acórdão exame apropriado referente aos pontos levantados no recurso e conclusão contrária às postulações recursais da parte, que busca, por via transversa, nova análise das razões apresentadas.
+9. A Corte de origem julgou com base nos elementos de prova que constam dos autos, os quais considerou suficientes e necessários para a formação de seu convencimento, nos seguintes termos:
+Consta dos autos que o débito fiscal foi constituído por meio de declarações do próprio contribuinte em 17.09.2003, 18.09.2003, 15.02.2005 e 14.05.2005 (fls. 125 /128 - evento3).
+Tendo em vista que a execução fiscal foi ajuizada após o advento da Lei Complementar 118/05, e o despacho que ordenou a citação do executado foi proferido em 13.06.2007 (fl.112-v) não há falar em prescrição no presente caso (fls. 195/196).
+10. Assim, o acolhimento das alegações deduzidas no Apelo Nobre demandaria nova incursão no acervo fático-probatório da causa, o que é defeso em Recurso Especial. Percebe-se que a ora recorrente pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos. Vejam-se, a propósito, os precedentes a seguir colacionados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTO. NOTIFICAÇÃO DE LANÇAMENTO. PUBLICAÇÃO NO DIÁRIO OFICIAL. QUEBRA DE SIGILO FISCAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DESTA CORTE. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. INCIDÊNCIA. DANOS MORAIS. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+(..).
+2. A análise da questão recorrida demanda necessária interpretação das disposições da Lei Distrital 4.567/11, o que, todavia, afigura-se vedado em sede de recurso especial por atrair a incidência da Súmula 280/STF.
+3. A alteração das conclusões adotadas pela Corte de origem, quanto à ausência de comprovação do dano moral, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto no enunciado 7/STJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 721.518/DF, Rel. Min. SÉRGIO KUKINA, DJe 19.8.2015).
+
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE RESPONSABILIDADE DA CONCESSIONÁRIA. CULPA EXCLUSIVA DE TERCEIRO. REVISÃO DESSE ENTENDIMENTO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal de origem, com amparo nos elementos de convicção dos autos, entendeu que não ficou configurada responsabilidade por imissão da Concessionária a ensejar o dever de reparar por dano moral decorrente de acidente ocorrido na rodovia.
+2. Insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática. Incidência da Súmula 7 deste Tribunal.
+Agravo regimental improvido (AgRg nos EDcl no AREsp. 665.559/SP, Rel. Min. HUMBERTO MARTINS, DJe 14.9.2015).
+11. Frise-se, por fim, que a jurisprudência desta Corte pacificou o entendimento de que o Tribunal de origem é soberano na análise das provas, podendo, portanto, concluir pela necessidade ou desnecessidade da produção de provas periciais e documentais. Isso porque o art. 130 do CPC consagra o princípio do livre convencimento motivado, segundo o qual o Magistrado fica habilitado a valorar, livremente, as provas trazidas à demanda.
+12. Ante o exposto, nega-se provimento ao Agravo.
+13. Publique-se.
+14. Intimações necessárias.
