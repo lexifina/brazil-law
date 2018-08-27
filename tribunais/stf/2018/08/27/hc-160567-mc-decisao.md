@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal de São Bernardo do Campo/SP, no processo nº 0011516-23.2013.8.26.0564, converteu em preventiva a prisão temporária do paciente, ocorrida no dia 30 de julho de 2013, ante a suposta prática das infrações previstas nos artigos 288, parágrafo único (formação de quadrilha ou bando armado), do Código Penal, 33, cabeça (tráfico de drogas), e 35, cabeça (associação para o tráfico), da Lei nº 11.343/2006. Na mesma decisão, determinou a custódia de outras quarenta pessoas. Afirmou-a necessária considerada a insuficiência de medida alternativa, dizendo tratar-se de organização altamente estruturada para o cometimento de delitos. Referiu-se a relatório da autoridade policial, no qual detalhada a participação de cada investigado no grupo, que teria agentes presos em unidades de segurança máxima e alguns em liberdade, com atuação em diversas regiões, mantendo vínculo com outros Estados da Federação. Consoante aduziu, a facção, nomeada Primeiro Comando da Capital, seria responsável por atentados contra o Estado Democrático de Direito.
+    Após o encerramento das investigações, o Ministério Público ofereceu várias denúncias. O Juízo, visando evitar tumulto processual, determinou o desmembramento do processo em oito conjuntos de acusados, tendo sido o paciente incluído no denominado Grupo 8 – processo autuado sob o nº 3013679-22.2013.8.26.0564.
+    Em 14 de junho de 2017, condenou-o a 16 anos, 11 meses e 10 dias de reclusão, em regime inicial fechado, e ao pagamento de 1.600 dias-multa, em razão da prática das infrações descritas nos artigos 288, parágrafo único, do Código Penal e 35, cabeça, combinado com o 40, incisos III, IV, V e VI (associação para o tráfico nas dependências ou imediações de estabelecimento prisional, com emprego de arma de fogo, entre Estados da Federação e com envolvimento de criança ou adolescente), da Lei de Drogas. Negou o direito de recorrer em liberdade, determinando a expedição de mandado de prisão. Consignou ser pessoa perigosa ao convívio social, integrante de organização a desafiar os poderes constituídos. Aludiu à quantidade de pena imposta, aos maus antecedentes e à reincidência.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 421.562/SP. A Sexta Turma indeferiu a ordem.
+    O impetrante aponta constrangimento ilegal em razão da negativa do direito de responder ao processo solto. Salienta que o ato foi lastreado na gravidade do delito e na sanção fixada.
+    Requer, no campo precário e efêmero, a expedição de contramandado de prisão, reconhecendo-se o direito de recorrer em liberdade. No mérito, pretende a confirmação da providência.
+    Pesquisa no sítio do Tribunal, em 24 de agosto de 2018, revelou haver apelação pendente de exame.
+    Vossa Excelência, no habeas corpus nº 136.695, revogou a preventiva do paciente por excesso de prazo, tendo o Juízo expedido alvará de soltura em 3 de outubro de 2016. A Primeira Turma, no dia 3 de outubro de 2017, inadmitiu a impetração e afastou a medida de urgência.
+    Formalizados os habeas de nº 147.609 e 155.350, nos quais veiculada idêntica pretensão, tiveram a liminar indeferida por Vossa Excelência considerada a reincidência do paciente. Pedidos de desistência foram homologados, respectivamente, em 3 de maio e 7 de agosto de 2018.
+    A etapa é de apreciação da medida acauteladora.
+    2. Nos habeas corpus nº 147.609 e 155.350, ao deixar de implementar a liminar, consignei ter o Juízo, na sentença, citado a reincidência do paciente, assentando autorizada a prisão, considerado o artigo 313, inciso II, do Código de Processo Penal. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal. Inexiste alteração do quadro fático a viabilizar o acolhimento do pedido.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
