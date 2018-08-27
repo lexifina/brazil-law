@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ARTS. 2º, 128 E 460 DO CPC/1973. JULGAMENTO EXTRA PETITA. ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª, assim ementado (fl. 100):
+Tributário. Repetição de Indébito. Imposto de Renda. Reclamação trabalhista. Precatório Judicial. Prescrição. Inocorrência.
+1. A sistemática de contagem do prazo prescricional instituída pela Lei Complementar 118/2005 somente se aplica aos fatos geradores ocorridos após o início de sua vigência (08.06.2005). O Plenário deste Tribunal, no julgamento do AI na AC 419228/PB, acolheu a inconstitucional1idade do art. 4º, do referido diploma legal, que permitia sua aplicação retroativa. Inconstitucionalidade também declarada pelo eg. Superior Tribunal de Justiça, no julgamento dá AI no EREsp 644736-PE. Inocorrência da prescrição.
+2. O fato de ter havido um pagamento de reajuste de proventos concedido judicialmente não retira dele o caráter remuneratório, sujeito à incidência do imposto de renda.
+3. Tratando-se de rendimentos pagos acumuladamente, via, precatório judicial, impõe-se observar as alíquotas e os limites de isenção do imposto de renda que seriam aplicáveis, se o reajuste salarial tivesse sido pago pela Administração na época devida.
+4. Provimento, em parte, da apelação para que sejam observados os limites de isenção do imposto de renda que seriam aplicáveis, se as obrigações salariais tivessem sido pagas pela Administração na época oportuna.
+Os embargos de declaração foram rejeitados (fls. 109/112).
+Nas razões do recurso especial, a parte recorrente alega, preliminarmente, violação do art. 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa aos arts. 2º, 128 e 460 do CPC/1973, sob o argumento de que houve julgamento extra petita, visto que a "presente ação foi ajuizada, com o objetivo de afastar totalmente a incidência do imposto de renda sobre as verbas remuneratórias, recebidas através de precatório judicial, sob o fundamento de serem indenizatórias, porque recebidas em atraso. Observa-se, claramente, que a autora em nenhum momento pleiteou, de forma subsidiária, a aplicação de alíquotas vigentes A época em que os valores deveriam ter sido pagos, ou seja, o afastamento do art. 12 da Lei nº 7.713/88" (fl. 151).
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 221.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Adiante, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se o Tribunal de origem apreciou no julgamento dos embargos de declaração a alegação de julgamento extra petita, nos seguintes termos (fl. 110):
+Não há que se falar em julgamento extra petita, uma vez que, constando do pedido inicial a inexigibilidade do imposto de renda sobre precatório judicial, inexiste inovação no julgado quando determinou a observância dos limites de isenção que seriam aplicáveis, caso as obrigações salariais tivessem sido pagas no momento oportuno pela Administração. Quem pede o mais, pede o menos.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 535 do CPC/1973.
+Por fim, nota-se que a parte recorrente apresentou argumentos genéricos a respeito da suposta ofensa aos arts. 2º, 128 e 460 do CPC/1973, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe priovimento.
+Publique-se Intimem-se.
