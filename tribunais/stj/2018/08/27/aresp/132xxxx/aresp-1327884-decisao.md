@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão assim ementado (fl. 276, e-STJ):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO DPVAT - EXTINÇÃO DO FEITO PELO ACOLHIMENTO DA COISA JULGADA - RECURSO PROVIDO.
+Ofende a coisa julgada o ajuizamento de ação de cobrança fundada na mesma causa de pedir.
+Recurso provido.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente sustentou violação dos arts. 337, §§ 1º, 2º e 4º, 498, IV e V, e 504, I e II, do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial. Alegou negativa de prestação jurisdicional e ausência de fundamentação do julgado recorrido especialmente sobre a questão do agravamento das sequelas físicas contraídas pelo acidente narrado nos autos. Argumenta que "deve-se considerar que a ciência dos danos das lesões decorrentes dos presentes autos, conforme se extrai da exordial e da documentação juntada, teria ocorrido apenas na data da realização da perícia judicial dos autos, data posterior à sentença homologatória do processo anterior" (fl. 296).
+Afirma que "a alegada coisa julgada deve ser afastada, tendo em vista a distinção da causa de pedir (lesões diversas) destes autos em relação à ação ajuizada anteriormente, bem como pelo posterior agravamento das sequela físicas abordadas nos presentes autos" (fl. 297).
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse não merece provimento, senão vejamos.
+Sem razão a recorrente quanto à alegada violação do art. 489 do CPC/2015, haja vista que enfrentadas de forma fundamentada todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade (EDcl no Ag 1296255/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 26.9.2013; AgRg no AREsp 39428/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 4.10.2013).
+Observo também que o Tribunal de origem não decidiu acerca do art. 485 do Código de Processo Civil, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, na espécie, o óbice disposto na Súmula n. 282/STF.
+O tema concernente à identificação de afronta à coisa julgada encontra o obstáculo do enunciado 7 da Súmula desta Corte, que veda o reexame dos elementos fáticos da demanda, para concluir em sentido diverso do que consta do acórdão recorrido. Isso ocorre porque o alcance e os limites da coisa julgada não podem ser revistos no STJ, mormente quando, nos moldes em que a questão foi apresentada, pressupõe-se o reexame de provas.
+No sentido confirmatório dessa impossibilidade, os seguintes precedentes deste Tribunal Superior:
+PROCESSUAL CIVIL. ACTIO NATA. PRESCRIÇÃO. INTERRUPÇÃO DA PRESCRIÇÃO. INEXISTÊNCIA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. O instituto da prescrição é regido pelo princípio da actio nata, ou seja, o curso do prazo prescricional tem início com a efetiva lesão ou ameaça do direito tutelado, momento em que nasce a pretensão a ser deduzida em juízo. (Precedente: AgRg no REsp 1.148.236/RN, Rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, julgado em 7.4.2011, DJe 14.4.2011).
+2. A análise dos limites da coisa julgada foi rechaçada pelo Tribunal de origem mediante o exame de matéria fático-probatória, atraindo a incidência da Súmula 7 desta Corte (Precedente : AgRg no Ag 1.373.008/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 7.4.2011, DJe 15.4.2011).
+3. Não há similitude fática e jurídica apta a ensejar o conhecimento do recurso, em face do confronto da tese adotada no acórdão hostilizado e na apresentada no aresto colacionado. Ademais, a identidade há de ser demonstrada, nos termos do art. 255, § 2º do RISTJ, a fim de evidenciar a necessidade da uniformização jurisprudencial preceituada na Constituição Federal de 1988.
+Agravo regimental improvido.
+(Segunda Turma, AgRg no REsp 1.247.142/PR, Rel. Ministro Humberto Martins, DJe de 1º.6.2011.)
+PROCESSUAL CIVIL. OMISSÃO DO ARESTO RECORRIDO NÃO CARACTERIZADA. AÇÃO RECLAMATÓRIA TRABALHISTA CUMULADA COM PEDIDO DE DANO MORAL. PEDIDO DE DESISTÊNCIA NO JUÍZO ESPECIALIZADO NÃO HOMOLOGADO. POSTERIOR REALIZAÇÃO DE ACORDO. AMPLITUDE DO TERMO DE QUITAÇÃO. COISA JULGADA MATERIAL QUANTO AO PEDIDO REPARATÓRIO DE DANO MORAL. INOCORRÊNCIA. RECURSO ESPECIAL. LIMITES DA TRANSAÇÃO. REEXAME DE PROVA. SÚMULA 7/STJ.
+I - Enfrentada de forma objetiva e fundamentada pela câmara a quo a questão relativa aos limites da cláusula de quitação decorrente do acordo celebrado entre as partes, não repousa sobre o julgado a indigitada omissão.
+II - Não se verifica a ocorrência de coisa julgada material, sob o fundamento de que o pedido de indenização por dano moral fora anteriormente cumulado com reclamação trabalhista, que terminou em acordo celebrado entre as partes, se o autor requerera anteriormente a desistência daquele pedido, e, ao celebrar a transação com a reclamada, a avença não contemplou o dano moral.
+III - Na interpretação do tribunal a quo, a não homologação do pedido de desistência só alcançaria o efeito almejado se a quitação tivesse sido dada de forma ampla e irrestrita, quando, então, abrangeria todo e qualquer direito vindicado, o que, de fato, não ocorreu, vez que, por ocasião da realização da transação, as partes declinaram, título a título, as parcelas que estavam sendo solvidas, entre as quais não se incluiu o dano moral.
+Nesse passo, a solução alvitrada no tribunal de origem decorreu da interpretação dos termos do referido acordo, cujo reexame não se mostra consentâneo com a natureza da via eleita, ante o óbice da Súmula 7 desta Corte.
+Recurso a que se nega conhecimento.
+(Terceira Turma, REsp 527.539/PB, Rel. Ministro CASTRO FILHO, unânime, DJU de 9.12.2003.)
+PROCESSUAL CIVIL - CONTRADIÇÃO - INOCORRÊNCIA - OFENSA À COISA JULGADA - REEXAME DE FATOS E PROVAS.
+1. A contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial e não entre duas decisões distintas.
+2. Suposta contradição entre decisões proferidas em processos diferentes não configura hipótese de cabimento dos declaratórios.
+3. A tese de afronta à coisa julgada, nos moldes em que apresentada, pressupõe reexame de provas, notadamente da decisão transitada em julgado que teria sido desrespeitada.
+4. Agravo regimental não provido.
+(Segunda Turma, AgRg no Ag 1.292.830/MG, Rel. Ministra ELIANA CALMON, unânime, DJe de 18.6.2010.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSO CIVIL. COISA JULGADA AFERIDA PELO TRIBUNAL A QUO. REAPRECIAÇÃO NESTA INSTÂNCIA. INVIABILIDADE. SÚMULA 7/STJ.
+1. A desconstituição das conclusões do Tribunal a quo, que reconheceu a existência de coisa julgada na espécie, demanda o revolvimento do substrato fático-probatório valorado na origem, o que é vedado pela Súmula 7/STJ. Precedentes.
+2. "Em mandado de segurança, se a sentença denegatória apreciou o mérito da causa, há coisa julgada sobre a matéria, não podendo a mesma questão ser reapreciada em ação ordinária." (AgRg no Ag 812.077/RJ, Rel. Min. SIDNEI BENETI, TERCEIRA TURMA, DJe 30/09/2008)
+3. Agravo regimental improvido.
+(Sexta Turma, AgRg no REsp 926.998/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, unânime, DJe de 8.11.2010.)
+A incidência, novamente, da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Colegiado estadual deu solução à causa.
+Diante do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de concessão de assistência judiciária gratuita.
+Intimem-se.
