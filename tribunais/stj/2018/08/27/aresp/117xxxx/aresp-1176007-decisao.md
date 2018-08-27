@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 461):
+AGRAVO DE INSTRUMENTO. INTIMAÇÃO. ADVOGADO CADASTRADO NO SISTEMA PROCESSUAL ELETRÔNICO. NULIDADE NÃO CONFIGURADA.
+Estando o procurador da parte regularmente cadastrado no sistema processual eletrônico, compete-lhe efetuar consulta aos processos de sua responsabilidade periodicamente, sob pena de as intimações serem consideradas automaticamente realizadas se decorridos 10 dias contados do seu envio (art. 5º, § 3º, da Lei nº 11.419/06). Nessa linha, não há falar em nulidade por ausência de intimação quando o subscritor da petição é advogado devidamente cadastrado e habilitado no processo.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente sustenta ofensa aos artigos 236 do CPC/1973 e 4º, § 2º, da Lei n. 11.419/2006, ao fundamento de que " ..  uma vez explicitado que a intimação seria realizada via Diário da Justiça Eletrônico, era de se esperar, em cumprimento aos dispositivos citados, que tal prática fosse adotada em todos os processos, inclusive os eletrônicos." (fl. 507).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+A irresignação não comporta conhecimento.
+De início, constata-se a incidência de óbice intransponível na fundamentação do recurso, pois o recorrente apontou infração a dispositivo de lei já revogado à época da publicação do acórdão proferido pelo Tribunal de origem - art. 236 do CPC/1973 -, sem indicação de possíveis correspondentes, de forma que este não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se a Súmula 284/STF.
+No mais, o recorrente, ao indicar ofensa aos artigos 236 do CPC/1973 e 4º, § 2º, da Lei n. 11.419/2006 e direcionar a sua tese no sentido generalizado de que não foi intimado pelo meio próprio, deixou de impugnar o fundamento do acórdão recorrido segundo o qual " ..  estando o procurador da parte regularmente cadastrado no sistema processual eletrônico, compete-lhe efetuar consulta aos processos sob sua responsabilidade periodicamente, sob pena de as intimações serem consideradas automaticamente realizadas se decorridos 10 dias contados do seu envio (art. 5º, § 3º, da Lei nº 11.419/06). Em suma, competia ao procurador da parte inteirar-se sobre o andamento processual por meio do sistema e-proc. O TRF4 reconhece que "não há que se falar em nulidade quando o subscritor da petição é advogado devidamente cadastrado e habilitado no processo, tendo pleno acesso em qualquer parte" (TRF4, AG 5011525-85.2013.404.0000, Terceira Turma, Relator p/ Acórdão Fernando Quadros da Silva, juntado aos autos em 29/08/2013)." (fl. 459).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Por fim, verifica-se que não houve juízo de valor por parte da Corte de origem a respeito do art. 4º, § 2º, da Lei n. 11.419/2006 e a tese a ele vinculada, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
