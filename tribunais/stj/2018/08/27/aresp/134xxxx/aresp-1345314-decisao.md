@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Tocantins que não admitiu recurso especial com base nos seguintes fundamento: uma vez verificado que a decisão atacada pelo Especial está em perfeita consonância com o acórdão do STF e que o tema discutido originou repercussão geral (Tema 5), já decidido pela Suprema Corte, falece ao Recorrente interesse recursal, motivo pelo qual deve ser negado seguimento ao apelo constitucional, nos termos do artigo 1.040, I, Código de Processo Civil (fl. 857).
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, insurgindo-se contra a aplicação da Súmula 207/STJ, defendendo, de forma inusitada, que não havia possibilidade de interposição do extinto Embargos Infringentes, tal como suscitado na decisão recorrida.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
