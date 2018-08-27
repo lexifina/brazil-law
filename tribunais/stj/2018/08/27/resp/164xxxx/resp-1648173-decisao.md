@@ -1,0 +1,36 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. ISENÇÃO. ITEM SIMILAR NACIONAL. ACÓRDÃO QUE, COM BASE NA ANÁLISE DOS ELEMENTOS PROBATÓRIOS CARREADOS AOS AUTOS, BEM COMO NOS REQUISITOS PREVISTOS EM LEGISLAÇÃO FEDERAL, ENTENDEU QUE A SITUAÇÃO FÁTICA ALI DELINEADA NÃO AUTORIZAVA O TRATAMENTO FISCAL POSTULADO. IMPOSSIBILIDADE DE REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO NESTA SEARA RECURSAL. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por SOLUCOES EM ACO USIMINAS S.A., com fulcro no art. 105, III, a e c da CF/1988, contra acórdão proferido pelo egrégio TRF/3a. Região, assim ementado:
+TRIBUTÁRIO. ADUANEIRO. IMPOSTO DE IMPORTAÇÃO. ISENÇÃO. SIMILAR NACIONAL. SUBMISSÃO AO CONSELHO DE POLÍTICA ADUANEIRA. ANTERIORIDADE À IMPORTAÇÃO. REDUÇÃO DE ALÍQUOTA. PORTARIA PUBLICADA POSTERIORMENTE AO REGISTRO DA DI. IMPOSSIBLIDADE DE RESTITUIÇÃO DO TRIBUTO RECOLHIDO.
+1) É dever do importador submeter ao Conselho de Política Aduaneira, diretamente ou em colaboração com outros órgãos governamentais ou entidades de classe, a apuração da similaridade, o que deve ser feito antes da importação, fato não verificado no caso dos autos. Precedentes.
+2) O fato gerador do imposto de importação ocorre com o registro da Declaração de Importação, conforme art. 23, do Decreto-lei 37/66.
+3) Assim, nos termos do art. 144, do CTN o lançamento rege-se pela lei vigente na data do fato gerador do tributo, mesmo que revogada ou modificada posteriormente.
+4) No caso dos autos, no momento do registro em causa (02-08- 1996), a alíquota do imposto de importação vigente era de 18%, sobrevindo a Portaria 201, publicada em 14-08-1996, não havendo como deferir o pedido de restituição do tributo recolhido.
+5) Apelo da União e remessa oficial a que se dá provimento, invertendo-se a sucumbência, inclusive a verba honorária. Apelo da autoria prejudicado (fls. 361).
+2. Os Embargos de Declaração opostos (fls. 364/374), foram rejeitados (fls. 404/410).
+3. Nas razões de seu Apelo Nobre, a parte recorrente aponta, além de dissídio entre julgados, violação dos arts. 165, 458, II e III, 535, II, do CPC/1973, 17 do Decreto-Lei 37/1966, 175, I, e 179 do CTN. Argumenta, em resumo, que não pode o contribuinte ser penalizado com a inércia do Poder Público em reconhecer o direito à isencão, de tal arte que a edição do ato administrativo correspondente tem efeito declaratório, justamente por reconhecer um direito preexistente (fls. 425).
+4. Outrossim, aduz que ao reputar que a isenção do imposto de importação de equipamento sem similar nacional, mesmo com atestado fornecido pela entidade de classe, a solução adotada acarretou ofensa aos preceitos legais.
+5. Com contrarrazões (fls. 454/461), o recurso foi admitido na origem (fls. 463/465).
+6. É o relatório. Decido.
+7. Inicialmente, não se vislumbra a alegada afronta aos arts. 165, 458, II e III, 535, II do CPC/1973. A lide foi resolvida integralmente e com a devida fundamentação, não padecendo o acórdão recorrido de qualquer mácula.
+8. Tem-se, na origem, pedido de benefício fiscal correspondente à declaração de inexigibilidade de tributo - Imposto de Importação - exigido sobre a compra de equipamento estrangeiro sem similar nacional. Requer, ainda, compensação ou repetição do indébito pago.
+9. A despeito das alegações da parte recorrente, razão não lhe assiste, devendo o acórdão recorrido ser mantido, porquanto, lastreado na minuciosa análise das provas carreadas aos autos, bem como no atendimento dos requisitos previstos em legislação federal, que nesta esfera recursal não podem ser revisitados. Confira-se trecho do julgado:
+No mérito, a sentença merece ser reformada.
+Com efeito, o art. 17, do Decreto-lei 37/66, dispôs acerca da isenção em causa, na hipótese de ausência de similar nacional, nos seguintes termos:
+(..).
+A leitura dos dispositivos revela o dever do importador de submeter ao Conselho de Política Aduaneira, diretamente ou em colaboração com outros órgãos governamentais ou entidades de classe, a apuração da similaridade, o que deve ser feito antes da importação, fato não verificado no caso dos autos.
+É certo que, apesar de constar atestado de não existência de produção nacional emitido pela Associação Brasileira da Indústria de Máquinas e Equipamentos - ABIMAC (fls. 62), é certo que não foi produzido pelo Conselho de Política Aduaneira ou ao menos submetido à sua apreciação, como determina o art. 19, supra citado.
+Ademais, o atestado foi emitido posteriormente à importação, de forma contrária ao que determina o referido artigo.
+Assim, não cabe a repetição do Imposto de Importação recolhido, já que o importador não cuidou de cumprir os requisitos exigidos para a isenção em causa (fls. 353/355).
+10. Assim, o Tribunal de origem afastou todos os argumentos favoráveis ao contribuinte. Ou seja, entendeu-se ali que os requisitos não estavam preenchidos. De outro lado, os elementos fáticos analisados pelo Tribunal local não podem ser reexaminados nesta seara recursal, já que defeso o reexame de provas em Recurso Especial. Ilustrativamente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. DESEMBARAÇO ADUANEIRO. IMPORTAÇÃO DE DIVERSOS ALIMENTOS IN NATURA CONGELADOS E EMBALADOS. ISENÇÃO TRIBUTÁRIA. GENERAL AGREEMENT ON TARIFFS AND TRADE - GATT. PREENCHIMENTO DOS REQUISITOS. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cinge-se a controvérsia saber se os vegetais congelados, importados dos países signatários do GATT, são ou não passíveis de serem conceituados como produtos industrializados, uma vez que não estariam em seu estado natural, já que são desidratados e acondicionados em sacos.
+2. Com efeito, o Tribunal de origem, ao solver a controvérsia, considerou legítima a isenção de ICMS, pois os produtos preenchem os requisitos para se deferir o benefício fiscal, nos termos da regulamentação de ICMS.
+3. Deste modo, atestando-se a satisfação dos requisitos para a isenção do tributo, verificar traços de industrialização dos produtos requer incursão no acervo fático-probatório dos autos, circunstância que impede a revisão do entendimento adotado, em virtude da Súmula 7/STJ.
+4. Recurso Especial não conhecido (REsp. 1.661.630/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.6.2017).
+
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. LOTEAMENTO URBANO. FALTA DO PREENCHIMENTO DOS REQUISITOS PARA A CONCESSÃO DE BENEFÍCIO FISCAL. INTERPRETAÇÃO DE NORMAS LOCAIS. ART. 63, § 8º, DA LEI MUNICIPAL 691/198. CÓDIGO TRIBUTÁRIO MUNICIPAL. SÚMULA 280/STF. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Quanto ao preenchimento dos requisitos para a concessão de benefício fiscal, verifica-se que o deslinde da controvérsia passa necessariamente pela análise do acervo fático-probatório dos autos, bem como pelo exame de legislação local (Código Tributário Municipal), medida vedada na via estreita do Recurso Especial, a teor das Súmulas 7/STJ e 280/STF, respectivamente.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 791.664/RJ, Rel. Min. SÉRGIO KUKINA, DJe 17.11.2015).
+11. Ante o exposto, nega-se seguimento ao Recurso Especial interposto por SOLUCOES EM ACO USIMINAS S.A.
+12. Publique-se. Intimações necessárias.
