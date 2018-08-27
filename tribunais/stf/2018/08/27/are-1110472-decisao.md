@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – AGRAVO DESPROVIDO.
+    1. O Tribunal Superior do Trabalho, acolhendo pedido formulado em recurso de revista, julgou improcedente o pedido de reajuste salarial. No extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 37, incisos X e XIII, e 169, cabeça, § 1º, incisos I e II, da Constituição Federal. Diz inobservado o verbete nº 37 da Súmula do Supremo. Afirma não se tratar de majoração salarial com base em isonomia, mas sim de reajuste salarial decorrente da Lei estadual nº 8.889/94 e das resoluções do CRUESP.
+    2. Colho da decisão recorrida o seguinte trecho:
+    Na hipótese vertente, a concessão dos reajustes salariais de forma idêntica às universidades estaduais paulistas, pelos índices fixados pelo Conselho de Reitores das Universidades do Estado de São Paulo (CRUESP), decorreu da interpretação e aplicação da Lei Estadual nº 8.898/94 e do Decreto Estadual nº 41.554/97.
+    Uma vez dirimida a controvérsia à luz de legislação estadual, a violação constitucional indicada no Recurso de Revista somente ocorreria de forma reflexa, não atendendo à exigência do art. 896, “c”, da CLT. Esta C. Turma assim decidiu, com fundamento em jurisprudência da C. SBDI-1 e do E. STF, cujos precedentes foram citados no trecho acima transcrito.
+     Não obstante, a despeito de o v. acórdão anterior haver afastado a especificidade dos arestos trazidos à colação, em razão de eles não enfrentarem a mesma legislação estadual controvertida nos autos, verifica-se que o aresto colacionado às fls. 778/779, proveniente do Eg. TRT da 2ª Região, atende às exigências da Súmula nº 337 do TST e contempla tese oposta, no sentido da impossibilidade de concessão dos reajustes salariais nos mesmos índices concedidos aos empregados das Universidades Paulistas, fixados por resoluções do CRUESP. Afirma a ausência de amparo legal.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de decidiu a partir de interpretação conferida a normas locais. Procedeu à análise da Lei estadual nº 8.898/94 e do Decreto estadual nº 41.554/97. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito da especializada.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 27 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
