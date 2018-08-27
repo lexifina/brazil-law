@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por BRF S.A em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte Embargante, em síntese, que:
+"Note-se que, no primeiro parágrafo, a decisão reconhece que dois foram os pontos alegados pela decisão do Tribunal a quo para negar seguimento ao recurso especial; no entanto, apenas um deles é mencionado no parágrafo seguinte, ignorando-se por completo a questão em torno da súmula 7.
+Repise-se que os fundamentos que ensejaram a interposição do recurso especial são independentes, ou seja, ainda que o recurso pudesse ter seguimento negado por inexistência de nulidade do acórdão recorrido (afronta ao 535, II do antigo CPC), poderia, acaso afastado o óbice da súmula 7, ser conhecido exclusivamente no que se refere a questão da decadência.
+Por tal motivo, era imperioso que se analisasse a questão posta no agravo em torno do cabimento do recurso especial em relação à decadência, qual seja a divergência em torno da aplicação dos artigos 150, § 4º ou 173, I, ambos do CTN." (fl. 919).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalte-se que o Superior Tribunal de Justiça pacificou o entendimento, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, de que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte Agravante deixou de impugnar especificamente os fundamentos da decisão agravada. Com claramente explanado na decisão embargada, houve a impugnação em relação à incidência da Súmula 7/STJ, mas a Parte deixou de impugnar a questão da ausência de obscuridade/contradição/omissão/erro.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada. Ilustrativamente: AgRg no AREsp 226.300/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/12/2012, DJe 13/12/2012.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
