@@ -1,0 +1,77 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL DE 1973. VIOLAÇÃO. DISSÍDIO. NÃO CABIMENTO. SÚMULA Nº 7/STJ. APLICAÇÃO. REGRA TÉCNICA DE ADMISSIBILIDADE. DISCUSSÃO. INADMISSIBILIDADE. CRITÉRIOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. REVISÃO. IMPOSSIBILIDADE.
+1. Por depender de minuciosa verificação casuística dos acórdãos confrontados, inviável o exame de divergência jurisprudencial em torno de suposta violação do artigo 535 do Código de Processo Civil de 1973. Precedentes.
+2.  Os embargos de divergência não se prestam para reverter os critérios de admissibilidade do recurso especial. Precedentes.
+3.  Agravo interno não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Segunda Seção, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Marco Aurélio Bellizze, Moura Ribeiro, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Nancy Andrighi, Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+Trata-se de agravo interno interposto por [NOME] e outra contra a decisão da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente os embargos de divergência.
+Naquela oportunidade, concluiu-se pela incidência da Súmula nº 315/STJ.
+Em suas razões, os agravantes, em síntese, reiteram os argumentos apresentados nos embargos de divergência, quais sejam, a dissonância do julgado embargado com paradigmas oriundos da Terceira Turma desta Corte no que diz respeito à violação do art. 535 do Código de Processo Civil de 1973 e à inaplicabilidade da Súmula nº 7/STJ acerca da existência ou não da outorga uxória para o fim de autorização e realização de negócio jurídico.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+O recurso não merece prosperar.
+Registra-se, inicialmente, a jurisprudência pacífica desta Corte no sentido de que, "(..) Por depender de minuciosa verificação casuística dos acórdãos confrontados, inviável o exame de divergência jurisprudencial em torno de suposta violação do artigo 535 do Código de Processo Civil" (AgRg nos EDv nos EREsp nº 1.227.137/RJ, Relator Ministro Ricardo Villas Bôas Cueva, DJe 3/8/2015).
+No mesmo sentido:
+"AGRAVO REGIMENTAL. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PARADIGMA ORIUNDO DO MESMO ÓRGÃO PROLATOR DO ACÓRDÃO RECORRIDO. INVIABILIDADE. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. DISSÍDIO. NÃO CARACTERIZAÇÃO. IMPOSSIBILIDADE.
+1. Em relação ao paradigma da Segunda Turma trazido a confronto, o alegado dissídio se dá entre acórdãos proferidos pelo mesmo órgão julgador, não sendo apto a caracterizar o dissenso necessário para o conhecimento dos embargos de divergência.
+2. "Exame em torno de violação do art. 535 do CPC depende de uma verificação casuística que, na esteira do entendimento firmado nesta Corte, não pode ser levado a termo em sede de embargos de divergência." (AgRg nos EAg 870.867/SP, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 02/02/2009, DJe 09/03/2009)
+3 - Agravo regimental a que se nega provimento"
+(AgRg nos EAREsp 522.277/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 11/3/2015, DJe 19/3/2015 - grifou-se).
+"PROCESSO CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. DISSÍDIO NÃO CARACTERIZADO. ACÓRDÃO RECORRIDO QUE EXAMINA AS PECULIARIDADES DO CASO CONCRETO. AGRAVO NÃO PROVIDO.
+1. De acordo com a jurisprudência do STJ, os embargos de divergência não se prestam para rediscutir os critérios de admissibilidade recursais, nem para revisar as conclusões do aresto impugnado quanto à alegativa de contrariedade ao art. 535 do CPC, quando esses elementos são aferidos de acordo com as peculiaridades do caso concreto.
+2. A missão uniformizadora da jurisprudência interna confiada aos embargos evidencia a inadmissibilidade dessa espécie recursal quando não está presente a divergência entre teses jurídicas, mas apenas o inconformismo do recorrente em relação ao pronunciamento judicial que, avaliando as especificidades da demanda, decidiu-lhe desfavoravelmente.
+3. Agravo regimental não provido."
+(AgRg nos EAREsp 18.056/PR, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 17/4/2013, DJe 25/4/2013 - grifou-se).
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS. VERIFICAÇÃO DA EXISTÊNCIA DOS VÍCIOS DESCRITOS NO ART. 535 DO CPC/1973, CORRESPONDENTE AO ATUAL ART. 1.022 DO CPC/2015. MATÉRIA NÃO IMPUGNÁVEL EM EMBARGOS DE DIVERGÊNCIA.
+1. Os embargos de divergência pressupõem a similitude fático-jurídica entre os julgados confrontados, com a menção de pontos que identifiquem ou aproximem os acórdãos paragonados e paradigmas.
+2. O acórdão embargado, embora tenha reconhecido que na hipótese não se trata de sócio-gerente, entendeu por aplicar o Enunciado de Súmula 435/STF, no sentido de que se presume "dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente". Isso por considerar, sobretudo, que o sócio de sociedade por cotas de responsabilidade limitada responde pelas obrigações da entidade, de forma excepcional, na situação de dissolução irregular.
+3. Extrai-se do acórdão paradigma, no entanto, que referida tese não foi objeto de análise, na medida em que enfrentou a questão relacionada à impossibilidade se imputar aos sócios-gerentes responsabilidade tributária apenas pelo fato de a sociedade empresária estar em débito. Desse modo, inexiste similitude fática e jurídica a admitir o conhecimento dos presentes embargos de divergência. Precedente: AgInt nos EREsp 1.314.449/MS, Rel. Ministro Francisco Falcão, Corte Especial, DJe 3/5/2017.
+4. A análise da existência dos vícios previstos no art. 535 do CPC/1973, correspondente ao atual art. 1.022 do CPC/2015, envolve matéria a ser dirimida em embargos de declaração, e não de embargos de divergência, por envolver, em regra, verificação casuística. Precedente: AgInt nos EAREsp 815.728/SP, Rel. Ministro Humberto Martins, Corte Especial, DJe 21/3/2017.
+5. Embargos de divergência não conhecidos"
+(EAREsp 15.042/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 28/6/2017, DJe 2/2/2018 - grifou-se).
+"AGRAVO REGIMENTAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. AUSÊNCIA DE CÓPIA DO INTEIRO TEOR DOS ACÓRDÃOS PARADIGMA OU DE REPOSITÓRIO OFICIAL. DESATENDIMENTO AO DISPOSTO NO ART. 266, § 1º, DO RISTJ. DIVERGÊNCIA ACERCA DE RECONHECIMENTO DE OMISSÃO. CASUÍSTICA. ANÁLISE DAS PARTICULARIDADES DE CADA CASO. INEXISTÊNCIA DE TESES DIVERGENTES. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. É requisito essencial ao conhecimento dos embargos de divergência a obrigatória juntada de cópias dos acórdãos apontados divergentes ou citação de repositório oficial, autorizado ou credenciado, em que estejam publicados. Inobservância dos requisitos do art. 266, § 1º, do Regimento Interno do Superior Tribunal de Justiça (AgRg na Pet n. 6.336/SP, Ministra Laurita Vaz, Corte Especial, DJe 30/10/2008).
+3. Nos termos do entendimento do Superior Tribunal de Justiça, verificar a existência de omissão no acórdão do Tribunal de origem exige uma análise particularizada de cada caso, considerando-se as peculiaridade da controvérsia jurídica em apreço, não se prestando os embargos de divergência para buscar o simples rejulgamento da matéria controvertida apresentada no recurso especial, visto que, na verdade, não há divergência de teses jurídicas.
+4. Agravo regimental improvido"
+(AgRg nos EREsp 1.116.829/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 26/9/2012, DJe 8/10/2012 - grifou-se).
+Ademais, os embargos de divergência não comportam seguimento na hipótese em que o acórdão paradigma adentra o mérito do recurso e o aresto embargado apenas não o conhece.
+Referido entendimento deve-se ao fato de ser inviável a verificação de similitude fática entre os arestos confrontados caso ao menos um deles verse acerca da aplicação de regra técnica concernente ao conhecimento de recurso especial.
+No caso dos autos, enquanto os acórdãos paradigmas decidiram o mérito da demanda, o aresto impugnado não conheceu da irresignação especial em virtude da incidência da Súmula nº 7/STJ, o que acarreta a inadmissão dos embargos de divergência.
+A propósito:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRESCRIÇÃO. ACÓRDÃO EMBARGADO. SÚMULA Nº 7/STJ. PARADIGMA QUE VERSA SOBRE O MÉRITO DA CONTROVÉRSIA. INEXISTÊNCIA DE SIMILITUDE FÁTICA. DISCUSSÃO SOBRE APLICAÇÃO DE REGRA TÉCNICA DE CONHECIMENTO. IMPOSSIBILIDADE. SOBRESTAMENTO. ART. 543-C DO CPC. DESCABIMENTO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não se verifica similitude fática a autorizar o conhecimento dos embargos de divergência quando os julgados confrontados não guardam idêntico grau de cognição.
+2. É firme a orientação jurisprudencial deste Sodalício no sentido de que os embargos de divergência não se prestam a discutir o erro ou o acerto do decisum quanto à incidência ou não de regra técnica de conhecimento de recurso especial, no caso, do enunciado nº 7 desta Corte.
+(..)
+4. Agravo regimental a que se nega provimento" (AgRg nos EREsp nº 1.442.743/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Corte Especial, DJe 24/9/2014).
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL. NÃO DEMONSTRAÇÃO DO DISSÍDIO. COTEJO ANALÍTICO NÃO REALIZADO. INEXISTÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ARESTOS CONFRONTADOS. DISCUSSÃO ACERCA DA APLICAÇÃO DE REGRA TÉCNICA RELATIVA AO CONHECIMENTO DO RECURSO ESPECIAL. APLICAÇÃO DAS SÚMULAS N. 5, 7 e 211 do STJ e 284 do STF.
+1. Mantém-se na íntegra a decisão recorrida cujos fundamentos não foram infirmados.
+2. A divergência jurisprudencial deve ser demonstrada na forma preceituada pelo CPC e RISTJ, com a realização do cotejo analítico dos arestos em confronto.
+3. Não se caracteriza o dissenso interpretativo quando inexiste similitude fático-jurídica entre o aresto recorrido e os paradigmas.
+4. É inviável, em sede de embargos de divergência, discussão acerca da admissibilidade do recurso especial, o que ocorre, entre outros, nos casos de incidência da Súmula n. 7/STJ e da ausência de prequestionamento.
+5. Agravo regimental desprovido" (AgRg nos EREsp nº 1.353.786/DF, Rel. Min. JOÃO OTÁVIO DE NORONHA, Corte Especial, DJe 26/6/2013).
+Por fim, registra-se que, na linha do entendimento jurisprudencial desta Corte, os embargos de divergência não se prestam para reverter o juízo de admissibilidade do recurso especial.
+Confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DISCUSSÃO ACERCA DA APLICAÇÃO DE REGRA TÉCNICA RELATIVA AO CONHECIMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. COMODATO VERBAL. COMPROVAÇÃO. USUCAPIÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Tese fixada na decisão embargada, "a Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que os bens ora pleiteados são de propriedade da agravada e foram objeto de contrato de comodato verbal firmado entre as partes. Concluiu, ainda, que, em decorrência da existência de tal contrato, não há que se falar em usucapião quanto aos referidos bens, pela inexistência de posse com animus domini. A alteração das premissas fáticas adotadas pela Corte de origem demandaria a interpretação de cláusulas contratuais e o reexame de provas, o que é vedado pelas Súmulas 5 e 7 do Superior Tribunal de Justiça".
+3. A Corte Especial deste STJ firmou compreensão segundo a qual não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial, tais como aqueles referentes à deficiência de fundamentação, ausência de prequestionamento, ao reexame de provas, à necessidade de interpretação de cláusulas contratuais (AgRg nos EREsp 1.191.545/RJ, Corte Especial, Rel. Min. Arnaldo Esteves Lima, DJe de 13.9.2012).
+4. Agravo interno não provido"
+(AgInt nos EAREsp 944.542/PR, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 6/6/2018, DJe 14/6/2018).
+"PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA EXPURGOS INFLACIONÁRIOS EM CONTA-POUPANÇA DECORRENTES DOS PLANOS COLLOR I E II. INCIDÊNCIA DA SÚMULA 5 E 7 DO STJ. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+I - Segundo decidido pelo Plenário desta Corte na sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, assim, o Código de Processo Civil de 2015.
+II - O art. 1.043, III, do CPC/2015 prevê o conhecimento de embargos de divergência quando o recurso especial "divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+III - A despeito do CPC de 2015 tenha viabilizado o cabimento de embargos de divergência entre acórdãos com julgamento de mérito e acórdãos que não conheceram do recurso, foi condicionado que esses acórdãos que não conheceram do recurso tenham apreciado a controvérsia.
+IV - Verifica-se que no acórdão recorrido não se analisou a matéria controvertida apresentada no acórdão paradigma, ficando claro que o julgado tratou, tão somente, da admissibilidade do recurso especial, sendo observada a incidência das Súmulas n. 5/STJ e 7/STJ.
+V - Nota-se, portanto, que a matéria do acórdão paradigma não foi apreciada no acórdão recorrido, e, por tal razão, fica evidente a ausência de similitude fática entre os julgados em confronto.
+VI - Parecer do Ministério Público Federal no sentido de que não cabem embargos de divergência com a finalidade de discutir eventual equívoco quanto ao exame dos requisitos de admissibilidade de recurso especial (AgRg nos EREsp 1.191.545/RJ, Corte Especial, Rel. Min. Arnaldo Esteves Lima, DJe dc 13.9.2012).
+VII - Agravo interno improvido"
+(AgInt nos EAREsp 918.410/SP, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 16/5/2018, DJe 23/5/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
