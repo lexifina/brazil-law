@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+LOCAÇÃO DE IMÓVEL COMERCIAL Ação de cobrança de valores relativos à manutenção de elevadores, acessório da locação pactuada entre as partes - Pretensão acolhida em sentença, reconhecida parcialmente prescrição e definidos encargos sobre valores devidos Contrato que prevê clausula limitativa de valores a incidir sobre a participação ordinária da Fazenda Pública nas despesas do Shopping Center Despesas com manutenção de elevadores que devem ser compreendidas dentro desta limitação Impedimento previsto no Estatuto Jurídico das Licitações (Lei Estadual 6544/1989) quanto aos efeitos financeiros retroativos de contratos a ele vinculados - Fato constitutivo do direito da locadora que não está evidenciado Interpretação contratual que não lhe socorre Cobrança indevida - Sentença reformada - Recurso provido.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, alega a agravante, em suma, violação aos artigos 23, XII, § 1º, "f", da Lei 8.245/91; 51, § 2º, do Decreto 2.300/86; e 126 da Lei 8.866/94.
+Sustenta que é do locatário a responsabilidade pelo pagamento de despesas de manutenção dos elevadores do bem imóvel locado.
+Defende que foi dada interpretação equivocada ao artigo 51, § 2º do Decreto 2.300/86, em violação ao disposto no artigo 126 da Lei 8.866/64, que teria servido de fundamento para afastar a pretensão em apreço.
+Apresentadas contrarrazões (e-STJ fls. 347 - 353), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 354 - 355, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à agravante.
+Ao afastar a pretensão em apreço, a Corte local registrou que (e-STJ, fls. 326 - 327):
+Com efeito, no termo de rerratificação do contrato, na cláusula 4ª, que trata de reembolso de custeio/participação no caixa das despesas e impostos, consta, no § 1º:
+"correrá por conta do LOCATÁRIO o pagamento ao caixa das despesas da administradora do complexo comercial do Shopping Center Interlagos, onde está inserido o espaço empresarial Interlagos, designado torre A, a sua participação nas despesas ordinárias, à semelhança de condomínio, bem como os encargos de limpeza, força e luz, água e saneamento, inclusive o seguro predial, que serão calculados e pagos à razão da área locada.
+Parágrafo segundo: com exceção do seguro predial, a participação do LOCATÁRIO no caixa da administradora, fica limitada à quantia de R$ 50.933,18, estabelecido no contrato original, mesmo que venha a ser demonstrado que a participação da torre A na proporção da área seja maior. Essa quantia trata-se de verba de custeio, sendo reajustada nas mesmas datas do aluguel mensal."
+Bem se vê, então, que a cláusula em questão está tratando de despesas ordinárias, que são limitadas, por acordo entre as partes, ao valor de R$ 50.933,18 e o fundamento da sentença é o de que o encargo da manutenção dos elevadores teria que ser incluído na conta da Fazenda Pública, o que não parece razoável à vista da intelecção da cláusula.
+Tem razão a Fazenda Pública, então, quando sustenta ausência de contratação expressa dessa verba adicional, posto que o que se presume é de que também esta "despesa ordinária" está incluída na limitação de valor prevista pelas partes.
+É verdade, de outra parte, que aparentemente o Poder Público resolveu, a partir de maio de 2012, suportar este pagamento, mas este fato, por si só, quando muito está a caracterizar uma novação objetiva do ajuste, mas sem repercussão retroativa.
+Esta alteração opera efeitos somente ex nunc, sem a retroação objetivada nesta ação condenatória.
+E aqui ainda se acresce, observado o Estatuto Jurídico das Licitações, que "é vedado atribuir efeitos financeiros retroativos aos contratos regidos por esta Lei, bem assim a suas alterações, sob pena de invalidade do ato e responsabilidade a quem lhe deu causa".
+Então, o fato constitutivo do pretenso direito da locadora não ficou demonstrado, quer à vista da contratação levada a efeito, quer em virtude da legislação pertinente às licitações públicas.
+Conforme se verifica, o fundamento contido no acórdão recorrido, de que teria ocorrido novação objetiva no caso dos autos, não foi impugnado nas razões do recurso especial da ora agravante, fundamento este suficiente para manter o julgado incólume. Incide no ponto a Súmula 283/STF.
+Por outro lado, ainda que superado o óbice, cumpre destacar que o recurso não comportaria provimento, tendo em vista a necessidade de reexame de cláusulas contratuais, bem como, dos fatos e provas levados aos autos. Aplicam-se, quanto ao tema, as Súmulas 5 e 7 do STJ.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NOVAÇÃO TÁCITA DA OBRIGAÇÃO. INEXIGIBILIDADE DO TÍTULO. REEXAME. SÚMULA 7/STJ.
+1. Rever o exame promovido pelas instâncias ordinárias, que extinguiu execução diante da constatação da intenção de novar das partes ao contrair nova obrigação, com substituição da constante do contrato de mútuo exequendo, demandaria investigação de prova, o que é impossível na via estreita do recurso especial, como pacificado no enunciado 7 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 516.219/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/09/2014, DJe 26/09/2014) CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REPRESENTAÇÃO COMERCIAL. PRESCRIÇÃO. REDUÇÃO ZONA DE ATUAÇÃO. REMUNERAÇÃO. ANUÊNCIA TÁCITA DO REPRESENTANTE. COMISSÃO.
+(..)
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O princípio da boa-fé objetiva torna inviável a pretensão da recorrente, de exigir retroativamente valores a título da diferença, que sempre foram dispensados, frustrando uma expectativa legítima, construída e mantida ao longo de toda a relação contratual pela recorrida.
+6. Recurso especial parcialmente provido. (REsp 1323404/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/08/2013, DJe 05/09/2013).
+RECURSO ESPECIAL. NOVAÇÃO. ART. 360 DO CC/02. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. DESNECESSIDADE DE REALIZAÇÃO DE NOVA PERÍCIA. INTELIGÊNCIA DOS ARTS. 130 E 437 E SEGUINTES DO CPC. POSSIBILIDADE DE CORREÇÃO EX OFFICIO DA DISSONÂNCIA VERIFICADA ENTRE A FUNDAMENTAÇÃO E A PARTE DISPOSITIVA DO JULGADO. ERRO MATERIAL. ART. 463, I, DO CPC. SUCUMBÊNCIA RECÍPROCA. IMPOSSIBILIDADE DE AFERIÇÃO. SÚMULA 7/STJ.
+1. O exame da ocorrência dos pressupostos da novação objetiva depende da análise e interpretação de fatos e cláusulas contratuais. Aplicação das Súmulas 5 e 7 do STJ.
+2. A prova é destinada ao Juiz, para a formação de seu convencimento, razão pela qual somente a ele cabe analisar a necessidade de realização de nova perícia. Aplicação dos arts. 130 e 437 e seguintes do CPC.
+3. Se a contradição existente entre a fundamentação e o dispositivo do comando judicial recorrido decorre de erro material manifesto, é possível a sua correção a qualquer tempo e grau de jurisdição, inclusive de ofício, a teor do art. 463 do CPC.
+4. O reexame da distribuição do ônus de sucumbência não pode ser efetuado em sede de recurso especial, a não ser nas hipóteses em que ocorra a violação do limite legalmente estipulado. Aplicação da Súmula 7/STJ.
+RECURSO ESPECIAL DE REXAM BEVERAGE CAN SOUTH AMERICA S/A PARCIALMENTE PROVIDO, A FIM DE CORRIGIR O ERRO MATERIAL VERIFICADO NO DISPOSITIVO DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL DE DOMINGOS FLORES FLEURY DA ROCHA E OUTROS IMPROVIDO. (REsp n. 1.070.772/RJ, Terceira Turma, Relatora a Ministra Nancy Andrighi, DJe de 3/8/2010).
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
