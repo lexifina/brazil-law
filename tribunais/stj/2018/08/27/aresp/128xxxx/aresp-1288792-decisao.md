@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado pelo Ministério Público do Estado do Maranhão contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça daquele ente, assim ementado (fl. 223):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA. CONTRATAÇÃO IRREGULAR. EX -PREFEITO. AUSÊNCIA DE COMPROVAÇÃO DO DOLO.
+I - "A Lei n.º 8.429/1992 se aplica aos agentes políticos, que na verdade são espécie de agentes públicos, estando, assim, sujeitos à mesma disciplina destes quanto à responsabilização por atos de improbidade administrativa".
+Precedentes do STJ.
+II - Para a caracterização do ato de improbidade deve restar demonstrada a malícia e má-fé, por parte do agente público, sendo considerado ônus da parte .autora a indicação e comprovação desses elementos essenciais.
+III- Inexistindo prova do dolo, bem como de dano ao erário, deve ser julgado improcedente o pedido da ação de improbidade.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 11, caput e V, e 12, III, ambos da Lei nº 8.429/1992. Sustenta, em síntese, que: (I) não se verifica nos autos a existência de qualquer das hipóteses autorizadoras da desobrigação de realização de processo seletivo pelo Município de Pedreiras, muito menos as de dispensa de realização de concurso público e (II) o elemento subjetivo exigido para configuração da referida conduta é o dolo genérico, ou seja, a mera demonstração de que o agente teve a vontade de realizar ato que atenta contra os princípios da Administração Pública, situação essa evidenciada pela conduta consciente e reiterada.
+O Ministério Público Federal, em parecer ofertado pelo Subprocurador-Geral da República Mario [NOME], opinou pelo conhecimento e provimento do agravo em recurso especial (fls. 291/298).
+É o relatório. Passo a decidir.
+A irresignação não merece acolhida.
+Com efeito, na hipótese em exame, o Tribunal de origem afirmou inexistentes elementos fáticos aptos a comprovar o elemento subjetivo necessário à configuração do ato de improbidade administrativa. Confira-se, a propósito, o seguinte trecho do voto condutor do acórdão objeto do recurso especial (fls. 231/232):
+ ..
+Pelas provas documentais produzidas, verifico que foi noticiada a existência de duas servidoras no quadro da Prefeitura sem concurso público, no entanto, tal fato, por si só, não acarreta a condenação automática do agente público nas penas dispostas na Lei de Improbidade Administrativa.
+É necessária á configuração do elemento subjetivo, ou seja, do dolo, da intenção de cometer a figura típica, a fim de burlar os princípios que regem a Administração Pública, o que entendo não ter ocorrido, pois não restou provado nos autos que o Prefeito tenha agido com a finalidade dolosa, em especial porque demonstrou a contratação de apenas uma servidora, sendo que no universo de vários servidores, a contratação precária, a meu ver, não pode ser tida como ato ímprobo, não se constatando qualquer vantagem pessoal do réu nessa contratação.
+ ..
+Ou seja, para que se configure a conduta de improbidade administrativa é necessária a perquirição do elemento volitivo do agente público e de terceiros (dolo ou culpa), não sendo suficiente, para tanto, a irregularidade ou a "ilegalidade do ato. Isso porque "não se pode confundir ilegalidade com improbidade. A improbidade é ilegalidade tipificada e qualificada pelo elemento subjetivo da conduta do agente".
+No presente caso, não restou demonstrado o dolo, em especial porque a prova do suposto ato de improbidade juntada aos autos foi a cópia da sentença de processo trabalhista.
+Então, inexistindo prova do dolo e de dano ao erário, bem como diante da gravidade das sanções a serem impostas, entendo que não estão configurados os atos de improbidade nos moldes descritos na inicial.
+ ..
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Na mesma linha de percepção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. IMPROBIDADE ADMINISTRATIVA. CONCLUSÃO, COM BASE NO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS, PELA AUSÊNCIA DE ELEMENTO SUBJETIVO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Foi com base no conjunto fático e probatório constante dos autos que o acórdão recorrido manteve a sentença e concluiu pela ausência de elemento subjetivo necessário à caracterização da conduta enquanto ato de improbidade administrativa. A revisão de tais fundamentos não é viável na via recursal eleita, tendo em vista a incidência da Súmula 7/STJ.
+2. Agravo interno não provido.
+(AgInt no REsp 1673900/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 01/12/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROCEDÊNCIA DA AÇÃO. ELEMENTO ANÍMICO NÃO COMPROVADO. ATO ÍMPROBO NÃO CARACTERIZADO. SÚMULA 7/STJ.
+1. Este Tribunal tem reiteradamente se manifestado no sentido de que "o elemento subjetivo, necessário à configuração de improbidade administrativa censurada nos termos do art. 11 da Lei 8.429/1992, é o dolo genérico de realizar conduta que atente contra os princípios da Administração Pública, não se exigindo a presença de dolo específico" (REsp 951.389/SC, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 04/05/2011).
+2. No caso dos autos, o Tribunal de origem, não obstante o reconhecimento da existência de irregularidades administrativas, julgou improcedente a ação civil pública por entender que, de acordo com o conjunto probatório dos autos, o elemento anímico da conduta dos réus não se fez presente. 3. Nesse contexto, tem-se que, para reconhecer a presença do elemento anímico doloso, ainda que na modalidade genérica, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedente: AgRg no AREsp 409.591/PB, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, , DJe 16/11/2017.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1317193/RR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 09/03/2018)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
