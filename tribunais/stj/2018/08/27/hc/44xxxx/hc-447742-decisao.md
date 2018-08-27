@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Sustenta o impetrante a existência de constrangimento ilegal ao argumento de que o crime de homicídio qualificado privilegiado não se encontra no rol dos crimes hediondos, e por esse motivo não deve ser considerado como tal.
+Afirma, ainda, que o paciente preenche todos os requisitos legais para a obtenção do benefício referente a progressão de regime.
+Requer a concessão da ordem a fim de que seja deferida a progressão de regime ao paciente.
+A liminar foi indeferida à fl. 700.
+As informações foram prestadas às fls. 733-735.
+O MPF, às fls. 733-735, manifestou-se pela denegação da ordem.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2.º, do Código de Processo Penal.
+No que se refere ao sustentado constrangimento ilegal decorrente do afastamento da hediondez do delito para o crime de homicídio qualificado privilegiado, verifica-se que a competência deste Superior Tribunal de Justiça está expressamente prevista no art. 105 e incisos da Constituição Federal, exigindo, para conhecimento da matéria trazida em caso de habeas corpus, a existência de ato coator de Tribunal sujeito à sua jurisdição ou de quaisquer das outras autoridades elencadas no inciso I, alíneas "b" e "c", da CF/88, o que não se vislumbra ocorrer na hipótese, pois a alegação deduzida na inicial sequer foi alvo de deliberação pelo Tribunal de origem, a indicar a atuação deste Sodalício em indevida supressão de instância.
+A propósito, confiram-se:
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. CRIME DE INCÊNDIO. PRINCÍPIO DA CORRELAÇÃO. TEMA NÃO EXAMINADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada for flagrante, hipótese em que se concede a ordem de ofício.
+2. Não analisada na origem a alegada violação ao princípio da correlação entre a inicial de acusação e a sentença condenatória, descabe a esta Corte examinar o tema, sob pena de indevida supressão de instância. Precedentes.
+3. Habeas corpus não conhecido. (HC 301.788/SC, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 24/03/2015, DJe 09/04/2015);
+HABEAS CORPUS. (..) MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MANIFESTO CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+(..)
+6. Inviável a análise, diretamente por este Superior Tribunal, de matérias não analisadas pela Corte de origem, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+7. Habeas corpus não conhecido. (HC 279.802/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/04/2014, DJe 05/05/2014).
+Quanto a possibilidade de obtenção do benefício referente a progressão de regime, cumpre registrar que esta Corte Superior pacificou orientação no sentido de que, "Legítima é a denegação de progressão de regime com fundamentos concretos, pelo não preenchimento do requisito subjetivo em virtude, essencialmente, do histórico carcerário conturbado, com o registro da prática de faltas disciplinares de natureza grave durante o cumprimento da pena, (..). Precedentes" (HC 308.744/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 05/02/2015, DJe 20/02/2015). Ou seja, "Não se vislumbra qualquer ilegalidade ou arbitrariedade na decisão impugnada, tendo em vista as peculiaridades do caso concreto que justificam o indeferimento da progressão do regime prisional em razão da ausência do cumprimento do requisito subjetivo pelo apenado" (HC 309.929/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 07/04/2015, DJe 29/04/2015).
+Na presente hipótese, verifica-se que não restou caracterizada flagrante ilegalidade ou constrangimento ilegal suficiente à concessão da ordem de ofício, tendo em vista que acórdão objurgado restou fundamentado, consoante se infere da leitura do seguinte excerto (e-STJ fls. 676-678):
+"Por fim, a decisão atacada, acertadamente restringiu à progressão a interrupção do lapso aquisitivo de benefícios, em consonância com entendimento prevalecente nesta Colenda Câmara.
+De fato, a conseqüência de sua prática é, além da perda dos dias remidos, a necessidade de começar novo período de um sexto da pena restante, desconsiderado o anterior tempo cumprido.
+Se o condenado já expia a pena em estabelecimento fechado, ele não pode regredir, porque não existe regime mais severo. Por questão de lógica, no entanto, deve reiniciar a contagem de novo lapso aquisitivo antes de fazer jus à promoção.
+ ..
+Onde bem se assentou que uma interpretação diversa levaria à "desproporcional hipótese de inviabilizar qualquer punição para o detento em regime fechado que cometer falta grave, em detrimento de outros detentos em regime menos severo que, ao cometerem falta grave, têm regredido o regime de cumprimento de pena e reiniciado o prazo para a obtenção de benefícios executórios" (HC
+94098, Rei. Min. Joaquim Barbosa, DJe 23/04/2009)
+Assim também, a Egrégia Quinta Turma do Colendo Superior Tribunal de Justiça mantém o mesmo entendimento sobre a matéria: HC 170.179/RS, Rei. Ministro Jorge Mussi, julgado aos 07/12/2010, DJe
+01/02/2011."
+Da leitura do excerto transcrito, verifica-se que o Tribunal de origem manteve o indeferimento do pedido de progressão de regime por ausência do requisito subjetivo, sob o fundamento de que o condenado apresenta histórico carcerário conturbado - cometimento de falta disciplinar grave (fl. 323) - circunstância que evidencia que o ato judicial está em consonância com o entendimento deste Sodalício.
+No mesmo sentido, confiram-se a jurisprudência desta Corte Superior:
+CONSTITUCIONAL. EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PROGRESSÃO DE REGIME PRISIONAL. INDEFERIMENTO. AUSÊNCIA DO REQUISITO SUBJETIVO. ELEMENTOS CONCRETOS. PRÁTICA DE FALTA GRAVE E DE NOVO DELITO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. O art. 122 da Lei de Execuções Penais exige, para a concessão da progressão de regime, o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+3. Indeferimento da progressão de regime adequadamente fundamentado pelo Juízo de Execuções e Tribunal a quo pelo não atendimento do requisito subjetivo, com base nas peculiaridades do caso concreto. Não ocorrência de constrangimento ilegal. (Precedentes.)
+4. Habeas corpus não conhecido. (HC 337.765/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 25/02/2016)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. INDEFERIDO LIMINARMENTE. PROGRESSÃO DE REGIME. FALTA DE MÉRITO DO CONDENADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+- A restrição de hipóteses de conhecimento dos habeas corpus substitutivos de recurso próprio está amparada no entendimento jurisprudencial tanto desta Corte quanto do Supremo Tribunal Federal.
+- Não há ilegalidade na decisão de primeiro grau que indeferiu o pedido de progressão de regime por falta de mérito sob o argumento de que o condenado "já perpetrou fugas em 30.10.2005 e 07.04.2009, sendo preso após a prática de novo delito, além de inúmeras faltas disciplinares de naturezas grave, evidenciando a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando." Agravo desprovido.
+(AgRg no HC 256.523/SP, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), QUINTA TURMA, julgado em 04/04/2013, DJe 12/04/2013)
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. DETERMINAÇÃO DO EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Inexiste constrangimento ilegal no ponto em que, de forma devidamente fundamentada, foi indeferida ao apenado a progressão de regime, com a determinação da realização de exame criminológico para aferição do requisito subjetivo, haja vista as peculiaridades do caso, notadamente o extenso número de faltas graves cometidas durante o cumprimento da pena, o que denotaria a necessidade de se avaliar, com critério, a viabilidade de concessão do benefício da progressão. Não se trata, portando, de consideração abstrata da gravidade de crime cometido pelo apenado, mas de um histórico de faltas graves cometidas, que revela, concretamente, a necessidade de laudo técnico.
+2. Agravo regimental não provido. (AgRg no HC 303.251/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 21/05/2015)
+Ante o exposto, com fundamento no artigo 34, inciso XX, do RISTJ, não se conhece do habeas corpus.
+Publique-se.
