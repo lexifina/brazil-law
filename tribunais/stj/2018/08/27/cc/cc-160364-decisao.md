@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de suposto conflito negativo de competência suscitado pelo Juízo de Direito da Vara Judicial de Rubiataba/GO em Ação Penal subsidiária da Pública (n. 201203184004) ajuizada por [NOME], incapaz representado por sua curadora, acusando [NOME], VIVIANE DE MELO SILVA [NOME], [NOME] e ADILSON ANTÔNIO [NOME] [NOME] da prática de estelionato (art. 171, § 2º, II e VI, do CP).
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou (e-STJ fls. 1.001/1.002) pela conversão do feito em diligência, a fim de que o Juízo suscitante prestasse informações sobre a existência, ou não, de decisão do Juízo suscitado.
+É o relatório. Passo a decidir.
+Ocorre que, pelo que se depreende dos documentos juntados aos autos, o Ministério Público do Estado de Goiás pugnou pela suscitação de conflito negativo de competência ao argumento de que o estelionato teria se consumado em Taguatinga/DF, local em que o apartamento objeto do crime foi entregue aos acusados e, subsidiariamente, "caso Vossa Excelência não entenda da forma descrita no item acima, o que não se espera, seja o feito desmembrado com relação a [NOME] ANTÔNIO e [NOME], com a remessa de cópia dos autos para a Comarca de Taguatinga- DF, uma vez que o fato narrado no aditamento da Queixa-Crime (fis. 687/698) ocorreu em Taguatinga-DF e não há nenhuma hipótese de cabimento dos institutos da conexão e continência previstos nos artigos 76 e 77 do Código de Processo Penal, permanecendo neste Juízo somente com relação aos dois primeiros querelados" (e-STJ fl. 815).
+Logo após tal manifestação, o Juízo suscitante, acolheu os argumentos do Parquet Estadual, mas, ao invés de remeter os autos ao Juízo apontado como competente, suscitou o conflito.
+Tanto é assim que não há, nos documentos juntados aos autos, cópia de decisão do Juízo suscitado, reputando-se incompetente para o julgamento da ação penal.
+Não havendo manifestação expressa de dois ou mais Juízos declarando-se competentes ou incompetente para o julgamento da mesma demanda, não se configura o pressuposto da existência do conflito de competência previsto no art. 66 do CPC/2015 (Lei n. 13.105/2015), cujo teor é o seguinte:
+Art. 66. Há conflito de competência quando:
+I - 2 (dois) ou mais juízes se declaram competentes;
+II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+Nesse sentido, entre outros, o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS NO CONFLITO DE COMPETÊNCIA. AÇÃO CAUTELAR FISCAL E EXECUÇÕES FISCAIS. ART. 115 DO CPC. PRESSUPOSTOS DO CONFLITO. NÃO-CONFIGURAÇÃO. EXECUÇÕES FISCAIS EM TRÂMITE PERANTE DIVERSOS JUÍZOS. INEXISTÊNCIA DE DECLARAÇÃO OU PRÁTICA DE ATOS, POR QUALQUER DOS JUÍZOS SUSCITADOS, RECONHECENDO A COMPETÊNCIA PARA O MESMO PROCESSO.
+1. Para caracterizar-se o conflito de competência, é indispensável a manifestação expressa de dois ou mais juízos que se considerem competentes ou incompetentes para processar e julgar a "mesma demanda" (Corte Especial, Rel. Min. Castro Meira, DJe de 14.10.2011). Com efeito, para a configuração de conflito, positivo ou negativo, é necessário que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar o "mesmo feito", ou que incida a prática de atos processuais "na mesma causa", por mais de um juiz (2ª Seção, AgRg no CC 120.584/GO Rel. Min. Massami Uyeda, DJe de 1º.8.2012).
+2. Quando não configurados os pressupostos do conflito de competência, tal incidente processual pode ser decidido monocraticamente, a teor do que dispõem os arts. 34, XVIII, do RISTJ, 38, da Lei 8.038/90, e 120, parágrafo único, do CPC.
+3. No caso, não se está diante de um conflito positivo de competência, pois, além de cada juízo suscitado encontrar-se atuando em sua própria esfera de jurisdição, sem, portanto, praticar atos processuais na "mesma causa", não se constata, principalmente, que tais atos sejam excludentes entre si.
+4. O conflito de competência não pode ser utilizado como sucedâneo recursal, bem como não se presta a resolver questões que devem ser dirimidas nas instâncias ordinárias.
+5. Agravos regimentais não providos.
+(AgRg no CC 121.226/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/03/2013, DJe 02/04/2013) - negritei.
+Tenho, portanto, que o suscitante não logrou demonstrar a existência de conflito de competência.
+Ante o exposto, com amparo no art. 34, XXII, do Regimento Interno do STJ (na redação dada pela Emenda Regimental n. 24, de 2016), não conheço do conflito.
+Dê-se ciência ao Juízo suscitante. Publique-se. Intimem-se.
