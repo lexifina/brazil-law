@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS: ACÓRDÃO EMBARGADO QUE, AO CONCLUIR NÃO SER POSSÍVEL CONHECER DO AGRAVO INTERNO, NOS TERMOS DA SÚMULA N. 182/STJ, NEM AO MENOS TANGENCIOU A QUESTÃO DE MÉRITO OBJETO DO ACÓRDÃO INDICADO COMO PARADIGMA. DISSÍDIO NÃO CONFIGURADO.
+Embargos de divergência indeferidos liminarmente.
+DECISÃO
+Em breve síntese, eis os fatos que antecederam a interposição destes embargos de divergência: no Tribunal de Justiça do Rio Grande do Sul, a Sexta Câmara Cível, em sessão realizada em 15/12/2016, decidiu negar provimento ao agravo de instrumento ali interposto por [NOME] e outros. Os fundamentos do acórdão foram sintetizados nesta ementa:
+Agravo de instrumento. Previdência privada. Incidente de exceção de preexecutividade. Incabível no caso concreto a interposição de medida restrita e excepcional. Agravo de instrumento não provido.
+Os embargos de declaração opostos a esse acórdão pelos agravantes foram rejeitados, tendo eles ingressado, na sequência, com recurso especial, que não foi admitido pelo Desembargador Terceiro Vice-Presidente do Tribunal de Justiça do Rio Grande do Sul.
+Irresignados, os agravantes interpuseram agravo em recurso especial, cujo exame inicial foi realizado pela Ministra Presidente desta Corte.
+Por decisão monocrática publicada em 13/11/2017, S. Exa. não conheceu do agravo sob o entendimento de não terem sido impugnados, nas razões recursais, todos os fundamentos da decisão de inadmissibilidade do especial.
+Ainda inconformados, [NOME] e outros interpuseram agravo interno, mas tal recurso nem ao menos foi conhecido pela Quarta Turma. A motivação do acórdão foi sintetizada nesta ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno não conhecido.
+Nos presentes embargos de divergência, os agravantes alegam que a decisão proferida pela Quarta Turma estaria em descompasso com o entendimento adotado pela Segunda Seção no julgamento do REsp n. 1.548.749/RS.
+Brevemente relatado, decido.
+Os embargos de divergência, tal como formulados, são inadmissíveis.
+Na hipótese dos autos, a Quarta Turma, ao julgar o agravo interno, entendeu não ser possível dele conhecer, nos termos da Súmula n. 182/STJ, em razão de os agravantes não haverem impugnado todos os fundamentos da decisão que concluiu por não conhecer do agravo em recurso especial.
+Já no acórdão invocado como paradigma (REsp n. 1.548.749/RS), a Segunda Seção, ultrapassando a barreira da admissibilidade, emitiu pronunciamento sobre o mérito do recurso especial, conforme se extrai da leitura da respectiva ementa:
+PROCESSUAL CIVIL E PREVIDÊNCIA COMPLEMENTAR. RECURSO ESPECIAL. APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. JULGAMENTO AFETADO À SEGUNDA SEÇÃO PARA PACIFICAÇÃO DE MATÉRIA NO ÂMBITO DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REPARAÇÃO DE DANO, DECORRENTE DE MEDIDA DEFERIDA NOS AUTOS. POSSIBILIDADE. RESPONSABILIDADE PROCESSUAL OBJETIVA. RECONHECIMENTO POSTERIOR DA INEXISTÊNCIA DO DIREITO. OBRIGAÇÃO DE REPARAR O DANO PROCESSUAL. DECORRE DA LEI, NÃO DEPENDENDO DE PRÉVIOS RECONHECIMENTO JUDICIAL E/OU PEDIDO DO LESADO. POSSIBILIDADE DE DESCONTO, COM ATUALIZAÇÃO MONETÁRIA, DO PERCENTUAL DE 10% DO MONTANTE DO BENEFÍCIO SUPLEMENTAR, ATÉ QUE OCORRA A COMPENSAÇÃO DO DANO. UTILIZAÇÃO DE ANALOGIA. LEI N. 8.112/1990.
+1. Os danos causados a partir da execução de tutela antecipada (assim também a tutela cautelar e a execução provisória) são disciplinados pelo sistema processual vigente à revelia da indagação acerca da culpa da parte, ou se esta agiu de má-fé ou não. Com efeito, à luz da legislação, cuida-se de responsabilidade processual objetiva, bastando a existência do dano decorrente da pretensão deduzida em juízo para que sejam aplicados os arts. 273, § 3º, 475-O, incisos I e II, e 811 do CPC/1973 (correspondentes aos arts. 297, parágrafo único, 520, I e II, e 302 do novo CPC).
+2. Em linha de princípio, a obrigação de indenizar o dano causado pela execução de tutela antecipada posteriormente revogada é consequência natural da improcedência do pedido, decorrência ex lege da sentença, e, por isso, independe de pronunciamento judicial, dispensando também, por lógica, pedido da parte interessada. A sentença de improcedência, quando revoga tutela antecipadamente concedida, constitui, como efeito secundário, título de certeza da obrigação de o autor indenizar o réu pelos danos eventualmente experimentados, cujo valor exato será posteriormente apurado em liquidação nos próprios autos.
+3. É possível reconhecer à entidade previdenciária, cujo plano de benefícios que administra suportou as consequências materiais da antecipação de tutela (prejuízos), a possibilidade de desconto no percentual de 10% do montante total do benefício mensalmente recebido pelo assistido, até que ocorra a integral compensação da verba percebida. A par de ser solução equitativa, a evitar o enriquecimento sem causa, cuida-se também de aplicação de analogia, em vista do disposto no art. 46, § 1º, da Lei n. 8.112/1990 - aplicável aos servidores públicos.
+4. Ademais, por um lado, os valores recebidos precariamente são legítimos enquanto vigorar o título judicial antecipatório, o que caracteriza a boa-fé subjetiva do autor; entretanto, isso não enseja a presunção de que tais verbas, ainda que alimentares, integram o seu patrimônio em definitivo. Por outro lado, as verbas de natureza alimentar do Direito de Família são irrepetíveis, porquanto regidas pelo binômio necessidade-possibilidade, ao contrário das verbas oriundas da suplementação de aposentadoria. (REsp 1555853/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 16/11/2015)
+5. Recurso especial não provido.
+Assim configurado o caso, observo que está sedimentado nesta Corte o entendimento segundo o qual, "é inviável o dissenso interpretativo entre os julgados confrontados quando o paradigma conhece do recurso e adentra o mérito e o acórdão impugnado não ultrapassa o juízo de admissibilidade" (AgRg nos EREsp n. 1.104.244/PR, Relator o Ministro João Otávio de Noronha, DJe 18/5/2012).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA.  ..  ACÓRDÃO RECORRIDO QUE NÃO CONHECE DO RECURSO. PARADIGMA QUE ADENTRA O MÉRITO. INVIÁVEL O DISSENSO INTERPRETATIVO.  ..
+I - Revela-se inviável o dissenso interpretativo quando o acórdão impugnado não ultrapassa o juízo de admissibilidade e o paradigma conhece do recurso e analisa o mérito.
+ ..
+IV - Agravo Regimental improvido.
+(AgRg nos EREsp n. 1.444.968/RS, Relatora a Ministra Regina Helena Costa, DJe 1º/7/2015)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.  ..  ACÓRDÃO RECORRIDO NÃO CONHECIDO. INDEFERIMENTO LIMINAR DOS EMBARGOS.
+ ..
+2. Os embargos de divergência não podem ser admitidos quando o acórdão recorrido deixa de examinar o mérito do especial. Não há dissenso jurisprudencial entre julgados quando o paradigma conhece do recurso e adentra o mérito e o acórdão recorrido não ultrapassa o juízo de admissibilidade.  ..
+3. Agravo regimental não provido.
+(AgRg nos EREsp n. 1.284.313/RS, Relator o Ministro Mauro Campbell Marques, DJe 11/12/2014)
+Ausente, portanto, a necessária similitude entre os casos confrontados, indefiro liminarmente os embargos de divergência (art. 266-C do RISTJ).
+Publique-se.
