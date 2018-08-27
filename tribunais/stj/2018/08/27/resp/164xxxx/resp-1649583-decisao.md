@@ -1,0 +1,35 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. CRÉDITOS. HABILITAÇÃO DE CREDOR. POSSIBILIDADE. JUNTADA DO CONTRATO DE HONORÁRIOS ANTERIOR À EMISSÃO DO PRECATÓRIO. REFORMA DO ACÓRDÃO RECORRIDO PARA ADEQUAÇÃO AO ENTENDIMENTO DESTA CORTE. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento no art. 105, III, alíneas a e c da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal Regional Federal da 2a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PRECATÓRIO. PENHORA NO ROSTO DOS AUTOS. VERBA HONORÁRIA CONTRATUAL. PREFERÊNCIA. CRÉDITO TRIBUTÁRIO.
+1. Trata-se de agravo de instrumento interposto por [NOME], patrono de [NOME], em face da decisão que entendeu, quanto ao pedido de destaque de honorários contratuais, que o crédito da União Federal tem preferência sobre os demais.
+2. O agravante alega, em síntese, que: 1) os honorários devem ser considerados separadamente do valor principal para que se verifique se o valor devido ultrapassa ou não o limite para expedição do RPV; 2) já está pacificado na jurisprudência que os honorários advocatícios tem natureza de alimentos para o advogado que a verba relativa aos honorários contratuais a que faz jus, em virtude de sentença favorável a empresa para a qual advoga, possui natureza e destinatário diverso da verba a ser recebida pela empresa.
+3. Compulsando os autos, trata-se de pedido de penhora no rosto dos autos requisitada pelo Juízo da 3a Vara Federal de Execução Fiscal, o qual foi acatado pelo juízo a quo), sendo que o valor bloqueado refere-se somente ao montante devido à parte autora do processo, no caso o Sr. [NOME] [NOME]. O valor referente aos honorários sucumbenciais foram pagos ao patrono, ora agravante.
+4. O contrato de honorários gera efeitos apenas entre as partes não sendo imponível à União Federal. O valor a ser recebido em precatório por [NOME] a título de repetição de indébito pertence integralmente a ele, e só após o efetivo recebimento do valor devido pela União é que o seu patrono poderá exigir do seu cliente o percentual referente ao honorário advocatício.
+5. De acordo com o artigo 186 do Código Tributário Nacional, o crédito tributário possui preferência em relação a qualquer outro, excetuando-se apenas os decorrentes da legislação do trabalho ou do acidente de trabalho.
+6. Agravo de instrumento improvido (fls. 365/366).
+2. Os Embargos de Declaração opostos (fls. 369/375), foram rejeitados (fls. 380/394).
+3. Em suas razões recursais sustenta a parte recorrente, além de divergência entre julgados, violação do art. 22, § 4o., da Lei 8.906/1994, defendendo que o artigo 22 da Lei 8.906/94, ao regulamentar o artigo 133 da CF estabelece o direito do advogado aos honorários, contratuais, fixados por arbitramento e sucumbência. Os parágrafos 2º e 3º também asseguram ao advogado os honorários, ainda que não estabelecidos, que sejam fixados judicialmente, de acordo com o trabalho desempenhado e o valor econômico da questão. E ainda direito autônomo e parcela de natureza salarial do profissional liberal (fls. 399).
+4. Com contrarrazões (fls. 412/415), o recurso fora admitido na origem (fls. 422).
+5. É o relatório, em síntese. Decido.
+6. Ao manifestar-se sobre a questão posta a debate, o Tribunal de origem assim consignou:
+O contrato de honorários gera efeitos apenas entre as partes não sendo imponível à União Federal. O valor a ser recebido em precatório por [NOME] a título de repetição de indébito pertence integralmente a ele, e só após o efetivo recebimento do valor devido pela União é que o seu patrono poderá exigir do seu cliente o percentual referente ao honorário advocatício.
+Ao contrário do honorário sucumbencial que é devido pelo sucumbente ao advogado do vencedor da ação, o honorário contratual é devido pelo próprio vencedor.
+Assim, não há como fazer retirar do valor penhorado, o percentual que seria posteriormente repassado pelo credor ao seu patrono.
+No que se refere à alegação trazida pela parte recorrente de que a ver oriunda de honorários contratuais possui natureza de verba alimentícia, cabe tecermos breves considerações.
+O Superior Tribunal de Justiça, em relação à natureza jurídica da verba decorrente de honorários advocatícios fixados em sentença, possui entendimento majoritário no sentido de se tratar de verba alimentar.
+Assim, apesar da discussão que envolve o tema, já que o posicionamento do STJ ainda não é pacífico, entendo que a verba oriunda de honorários contratuais tem natureza alimentar.
+Todavia, de acordo com o artigo 186 do Código Tributário Nacional, o crédito tributário possui preferência em relação a qualquer outro, excetuando-se apenas os decorrentes da legislação do trabalho ou do acidente de trabalho (fls. 359/360).
+7. A irresignação merece prosperar.
+8. É firme a orientação desta Corte de que é possível ao advogado requerer o pagamento dos seus honorários contratuais mediante destaque no precatório a ser pago ao seu cliente, desde que faça juntar o contrato de honorários em momento anterior à expedição do precatório. Confira-se:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. DESTAQUE DA VERBA SOBRE O VALOR PRINCIPAL. POSSIBILIDADE. MOMENTO. MANDADO DE EXPEDIÇÃO DO PRECATÓRIO OU LEVANTAMENTO. ART. 22, § 4o., DA LEI 8.906/1994.
+1. É pacífico, no Superior Tribunal de Justiça, o entendimento de que é possível ao patrono da causa, em seu próprio nome, requerer o destaque da verba honorária, mediante juntada aos autos do contrato de honorários, nos termos do artigo 22, § 4o., da Lei 8.906/1994, até a expedição do mandado de levantamento ou precatório.
+2. Agravo Regimental não provido (AgRg no AREsp. 447.744/RS, Rel. Min. HERMAN BENJAMIN, DJe 27.3.2014).
+
+PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA. RESERVA DE HONORÁRIOS. NECESSIDADE DA JUNTADA DO CONTRATO DE PRESTAÇÃO DE SERVIÇO ANTES DO MANDADO DE LEVANTAMENTO OU DA EXPEDIÇÃO DO PRECATÓRIO OU DO RPV. SÚMULA 83/STJ.
+1. O entendimento do Tribunal de origem não destoa da orientação desta Corte Superior no sentido de que a reserva dos honorários contratuais a favor dos patronos é permitida mediante a juntada do contrato de prestação de serviços profissionais, antes da expedição do mandado de levantamento ou precatório, desde que não haja litígio entre o outorgante e o advogado.
+2. Caso em que a parte não juntou aos autos o contrato de prestação de serviços. Inafastável, portanto, a incidência da Súmula 83/STJ. Agravo improvido (AgRg no AREsp. 408.178/RS, Rel. Min, HUMBERTO MARTINS, DJe 27.11.2013).
+9. Dessa forma, o acórdão recorrido deve ser reformado para que, diante da constatação de que houve a juntada do contrato de honorários em momento anterior à expedição do precatório, permitir a habilitação de cessionário do crédito pertencente ao Advogado originário da causa.
+10. Ante o exposto, dá-se provimento ao Recurso Especial de JOÃO [NOME] [NOME] [NOME], determinando o retorno dos autos à origem para que o Tribunal a quo se adeque ao entendimento adotado por esta Corte, nos termos da fundamentação acima.
+11. Publique-se.
+12. Intimações necessárias.
