@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO. SENTENÇA PROFERIDA NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 1973. IMÓVEL URBANO. ALEGAÇÃO DE POSSE SOBRE TERRENO COM EDIFICAÇÃO HÁ MAIS DE 15 ANOS. ORIGEM DA POSSE DECORRENTE DE CONTRATO DE LOCAÇÃO. AUSÊNCIA DO ANIMUS DO MINI. REQUISITO REQUISITO INDISPENSÁVEL. .PRECEDENTES JURISPRUDENCIAIS. PRESCRIÇÃO AQUISITIVA VEDADA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+"Não tem ânimo de dono o Iocatário, o comodatário, o arrendatário e todos aqueles que exercem posse direta sobre a coisa, sabendo que não lhe pertence e com reconhecimento do direito dominial de outrem, obrigando-se a devolvê-la" (GONÇALVES, Carlos Roberto. Direito Civil brasileiro. 4. ed. São Paulo: Saraiva, 2009. p. 259).
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO DE DISPOSITIVOS DE LEI. PRESSUPOSTOS DO ART. 1.022 DO NOVO DIPLOMA PROCESSUAL NÃO EVIDENCIADOS. REJEIÇÃO.
+"Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, o por conseguinte, a correta interpretação da legislação federal" (STJ, AgRg no AREsp n. 454.427/SP, rel. Min. Luis Felipe Salomão, j. em 12-2-2015, DJe 19-2-2015).
+Nas razões do especial, aponta a parte agravante violação aos artigos 1.240 do Código Civil e 10 da Lei n. 10.257/01 (Estatuto da Cidade).
+Argumenta ter sido preenchidos os requisitos necessários para o usucapião.
+ Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, apurou que não foram preenchidos os requisitos para a aquisição da propriedade pelo usucapião, assim se pronunciando :
+É consabido que a usucapião é uma das formas de aquisição da proprieados os mais requisitos insertos na lei. O Código Civil descreve no artigo 1.238 os requisitos para a usucapiente, compete o cumprir os requisitos legais caracterizadores da usucapião extraordinária, conhecida como usucapião ou prescrição de longo prazo  .. .
+Quanto aos requisitos formais da usucapião extraordinária, devem estar presentes aqueles considerados essenciais, que são comuns a toda prescrição (posse e tempo). Por conseguinte, os denominados suplementares, conquantos exigidos na usucapião ordinária, não se fazem necessários na extraordinária.
+O característico principal da modalidade aqui tratada perfaz-se pela maior o duração da posse e dispensa de justo título e de boa-fé.
+Em suma, para o reconhecimento da usucapião extraordinária é indispensável que se façam presentes os requisitos consistentes em posse qualificada e lapso de tempo, sem olvido de que a coisa deverá se, hábil (suscetível o de ser usucapida) (Tratado de usucapião. 4. ed. São Paulo: Saraiva, 2006. v. 12.p. 237-238). z ,s12 o Desse modo, a aquisição da propriedade pela usucapião extraordinária exige o exercício da posse ad usucapionem, de forma mansa, ininterrupta e o com intenção de dono, por lapso nunca inferior a 15 (quinze) anos.
+No caso, não há falar em usucapião, porquanto ás autoras não o preenchem um dos seus requisitos, qual seja, o animus domini. Isso porque elas estão no imóvel por força de contrato de locação firmado com o antigo proprietário do imóvel, o que faz derruir a alegação de ânimo de dono.
+O imóvel pertencia a [NOME], o qual, em 2004, o vendeu para o Sindicato réu.
+Não obstante, foram entregues os contratos de locação firmados por ele anteriormente à venda, com [NOME], esposo da autora [NOME] o o o nio, firmado em 1980 (fl. 74-75); com [NOME], mãe da autora [NOME], firmado também em 1980 (fl. 83-84); e, com [NOME] esposo de [NOME], esse, firmado em 2001 (fls. 91-92).
+Antes de [NOME] vender o imvel para o Sindicato, as autoras foram notificadas para exercer o seu direito de preferência, o qual foi por elas declinado em 2-9-2003, onde se declararam, incluSive, locatárias do imóvel.
+Além disso, [NOME] declarou que até fevereiro de 2004, o recebia regularmente os aluguéis referentes aos imóveis situados na Rua n. 235, e que, após essa data, a cobrança passou a ser de responsabilidade do Sindicato (fl. 77).
+Ademais, em notificação enviada pelas autoras ao Sindicato, elas se qualificaram como locatárias de [NOME], cada qual locando uma casa individual, o que demonstra que tinham ciência da sua condição de locatárias (fls. 64-67).
+Diante disso, vê-se que as autoras exerciam a posse sobre os imóveis em razão do contrato de locação firmado com o antigo proprietário do imóvel, o qual, após 2004, passou a ser de responsabilidade do réu. Consabido que o locatário é mero detentor da coisa, pois exerce de posse em nome do locador, e não em nome próprio. Assim,uma vez confirmada a relação locatícia entabulada, as autoras passaram a ser meras detentoras da coisa locada, motivo pelo qual não agiam como se donas da coisa fossem, porquanto faltou o requisito essencial para o reconhecimento da usucapião, qual seja, o animus domini.
+ ..
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, verificar se a recorrente preenche os requisitos para o usucapião, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Por fim, impende registrar que os apelos interpostos, com fundamento no art. 105, III, alínea "c" da Constituição Federal de 1988, atraem, regularmente, a incidência da Súmula n.º 07/STJ quando necessário examinar o contexto fático-probatório dos autos, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+SÚMULA N. 211/STJ. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+(..) 4. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 980.520/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/02/2017, DJe 13/02/2017) (grifou-se)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
