@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Goiás confirmou o entendimento do Juízo quanto à procedência do pedido de fixação de jornada máxima de 6 horas diárias para servidores militares estaduais exercentes de atividade de telefonia e teleatendimento, considerada a Constituição Estadual. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 42, § 1º, 114, inciso I, e 142, § 3º, inciso VIII, da Constituição Federal. Diz ter o acórdão recorrido implicado indevida extensão de direito de servidores civis a militares, destacando inexistir previsão constitucional ou legal nesse sentido. Alude a precedentes do Supremo.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos do acórdão recorrido:
+    De início, insta destacar que os servidores estaduais são regidos por legislação própria, sendo os civis pela Lei Estadual nº 10.460/88 (com previsão de jornada diária de trabalho de 8 horas), os policiais militares pela Lei Estadual n° 8.033/75 (jornada de 40 horas semanais), enquanto que os bombeiros militares sujeitam-se ao regime de dedicação exclusiva conforme a Lei Estadual n° 11.416/91.
+    Ocorre que, embora os militares realmente sejam regidos por estatuto próprio e os bombeiros militares estejam sujeitos a um regime de dedicação exclusiva, por ausência de previsão legal, a própria Constituição Estadual (art. 100, parágrafo único), estendeu aspectos e direitos dos servidores civis aos militares, dentre os quais o direito destes últimos a redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança. Neste sentido transcrevo a redação nos arts. 95, XV c/c 100, §9º:
+    “Art. 95. São direitos dos servidores públicos do Estado, além de outros que visem à melhoria de sua condição social:
+    XV - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança; Art. 100. Os membros da Polícia Militar e do Corpo de Bombeiros Militar, instituições organizadas com base na hierarquia e na disciplina, são militares estaduais, regidos por estatutos próprios.
+    §9º Aplicam-se aos militares, além do que vier a ser fixado em lei, as disposições dos arts. 14, § 8.º; 40, § 9.º; e 142, §§ 2.º e 3º da Constituição da República; e o disposto no § 9º do art. 97 e os preceitos dos incisos I, II, III, V, IX, X, XI, XIV e XV do art. 95, todos desta Constituição”.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Ao contrário do alegado, a decisão foi prolatada com fundamento em dispositivo da Constituição do Estado de Goiás. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, os precedentes indicados versam sobre tema diverso – limitação de jornada a 8 horas diárias e pagamento de pagamento de serviço suplementar com fundamento em incisos do artigo 7º da Constituição Federal – sendo, portanto, inservíveis a demonstrar a prevalência da argumentação lançada pelo recorrente.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 28 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
