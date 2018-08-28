@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. A admissibilidade de recurso de revista interposto em processo de execução depende de demonstração inequívoca de ofensa direta e literal à Constituição da República, nos termos do art. 896, § 2°, da CLT e da Súmula 266 do TST.
+    Agravo de Instrumento a que se nega provimento.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100, § 1º, da CF. Sustenta que o referido dispositivo constitucional restou violado, uma vez “que foi determinada a incidência de juros sobre precatório complementar, cujo pagamento deu-se dentro do prazo previsto constitucionalmente”.
+    O Ministro Joaquim Barbosa, relator originário do processo, determinou o sobrestamento do feito até o julgamento, pelo Plenário do Supremo Tribunal Federal (STF), do RE 579.431-RG, Rel. Min. Marco Aurélio.
+    Afasto o sobrestamento, tendo em vista que o STF já decidiu a questão constitucional objeto do paradigma acima mencionado.
+    Passo a análise do recurso.
+    O recurso merece provimento. Isso porque o acórdão recorrido não está alinhado à jurisprudência do STF, que afasta a incidência de juros moratórios aos pagamentos feitos dentro do prazo constitucional. Nessa linha, veja-se a ementa do RE 591.085-QO-RG, Rel. Min. Ricardo Lewandowski:
+    “CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II - Julgamento de mérito conforme precedentes. III - Recurso provido”.
+    Esse posicionamento ensejou a edição da Súmula Vinculante 17, assim transcrita: “Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre precatórios que nele sejam pagos”.
+    Ademais, ressalto que o Plenário do STF, no julgamento do RE 579.431-RG, Rel. Min. Marco Aurélio, entendeu pela incidência de juros da mora no período compreendido entre a data da realização dos cálculos e da expedição da requisição ou do precatório.
+    O Tribunal de origem divergiu dessas orientações, ao assentar que “a decisão judicial que ordena a contagem de juros sobre a importância da condenação atualizada não representa ofensa direta e literal a norma constitucional”.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, conheço do agravo de instrumento para dar provimento ao recurso extraordinário, a fim de afastar a incidência de juros moratórios no período previsto no art. 100, § 1º, da Constituição Federal (regra atualmente disposta no § 5º), qual seja, a data de apresentação do precatório e o final do exercício financeiro seguinte à sua apresentação, devendo incidir juros de mora somente a partir do primeiro dia do exercício financeiro seguinte ao fim do prazo constitucional.
+    Publique-se.
+          Brasília, 28 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
