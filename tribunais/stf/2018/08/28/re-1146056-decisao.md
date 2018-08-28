@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Ceará, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA. MILITAR. INCORPORTAÇÃO DE GRATIFICAÇÃO POR REPRESENTAÇÃO DE GABINETE. NECESSIDADE DE PERCEBIMENTO POR MAIS DE CINCO ANOS ININTERRUPTOS OU DEZ INTERCALADOS. ART. 2 DA LEI 10.722/82. IMPETRANTE QUE NÃO PRENCHE OS REQUISITOS. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+    1. Dispõe o art. 2º da Lei Estadual n° 10.722/82 que o “Policial Militar ao ser transferido para a inatividade, de acordo com as Lei número 10.072, de 20.12.76, 10.485 de 7.5.81, e 10.633, de 15.4.82, incorporará aos seus proventos, as vantagens da Comissão em cujo exercício se encontrar, desde que haja exercido, ou venha a exercer, durante cinco anos ininterruptos, ou dez intercalados, cargos de provimento em comissão ou função gratificada, bem ainda haja percebido durante igual período, gratificação pela representação de gabinete previstos no sistema administrativo do Estado.”
+    2. O impetrante, muito embora possua vários períodos em que esteve percebendo Gratificação de Representação de Gabinete ou no exercício de função comissionada, fato é que seu somatório, por sua descontinuidade, não perfazer o quantitativo mínimo exigido pela norma, que seria de 10 (dez) anos intercalados ou 05 ininterruptos, até a data de entrada em virgo da Lei n° 12.913, de 17 de junho de 1999, que rebogou expressamente o art. 2° da Lei 10.722/82.
+    3. Uma vez que o autor não implementou os requisitos legalmente exigidos para a incorporação a seus proventos de aposentadoria da gratificação perseguida, não há que se falar em direito líquido e certo apto a corroborar a concessão do pleito.
+    4. Segurança denegada.” (eDOC 5)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, não se aponta nenhum dispositivo constitucional supostamente violado. (eDOC 15)
+    Nas razões recursais, alega-se a possibilidade de homologação do pedido de desistência sem expressa anuência da parte contrária.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, ressalto que a orientação sumulada desta Corte é no sentido de que é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    No caso, verifica-se que o recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal, não indicando sequer o dispositivo constitucional que teria sido violado.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa à Constituição Federal, o que não ocorreu no caso dos autos, motivo pelo qual incide, na hipótese, a Súmula 284 do STF. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROCURADOR FEDERAL. CUMULAÇÃO DE PROVENTOS DE APOSENTADORIA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO”. (ARE 915374 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 17.11.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - A parte agravante não indicou o dispositivo constitucional violado, o que caracteriza deficiência na fundamentação (Súmula 284/STF). II Para dissentir do entendimento firmado pelo Tribunal a quo, necessário seria o reexame do conjunto fáticoprobatório constante dos autos e da análise de normas infraconstitucionais, o que inviabiliza o recurso extraordinário, nos termos da Súmula 279 do STF. Precedentes. III - Agravo regimental a que se nega provimento”. (ARE 770489 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 6.12.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, III, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
