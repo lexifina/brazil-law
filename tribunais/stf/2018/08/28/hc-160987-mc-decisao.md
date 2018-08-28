@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Aparecida de Goiânia/GO, no processo nº 12907895-95.2017.8.09.0011, determinou a prisão preventiva da paciente, ocorrida em 4 de outubro de 2017, e de outros 39 investigados, ante a suposta prática das infrações previstas nos artigos 2º, § 4º, inciso IV (integrar organização criminosa com causa de aumento de pena por manter conexão com outros grupos), da Lei nº 12.850/2013 e 157, § 2º, incisos I, II e V (roubo com causas de aumento por emprego de arma de fogo, concurso de pessoas e restrição da liberdade da vítima), do Código Penal, com redação anterior à Lei nº 13.654/2018. Consignou cabível a custódia para garantir a ordem pública, a aplicação da lei penal e a instrução processual. Observou tratar-se de facção voltada ao cometimento de roubos de cargas. Sublinhou haver indícios de autoria e prova da materialidade, reportando-se a interceptações telefônicas, relatórios de ERBs e mapas da movimentação de veículos envolvidos no delito de roubo, monitorados por meio de rastreadores. Ressaltou a troca de chips e conversas, mediante o aplicativo Whatsapp, como forma de frustrar as investigações. Enfatizou a periculosidade da paciente, aludindo à reiteração das condutas no curso das investigações. Teve como insuficiente medida alternativa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 463.912/GO. O Relator indeferiu a liminar.
+    O impetrante diz ser o caso de superação do verbete nº 691 da Súmula do Supremo. Sustenta o excesso de prazo da prisão provisória, a perdurar por 10 meses sem que iniciada a instrução criminal. Realça as condições pessoais favoráveis da paciente – primariedade, bons antecedentes e residência fixa. Aponta implementada, por Vossa Excelência, no habeas de nº 156.695, medida acauteladora para afastar a preventiva de corréu, ressaltando encontrar-se em idêntica situação jurídica. Articula com a ofensa ao princípio constitucional da não culpabilidade.
+    Requer, no campo precário e efêmero, a revogação da preventiva. No mérito, busca a confirmação da providência.
+    Este habeas foi distribuído por prevenção em virtude da vinculação com o de nº 156.965, referente a corréu. Nesse processo, Vossa Excelência, em 23 de maio de 2018, deferiu o pedido de liminar para afastar a preventiva, considerado o excesso de prazo.
+    A etapa é de exame da medida acauteladora.
+    2. A paciente encontra-se recolhida, sem culpa formada, desde o dia 4 de outubro de 2017, ou seja, há 10 meses e 24 dias. Surge o excesso de prazo tendo em vista a prisão provisória e o estágio do processo-crime, porquanto, consoante articulado pelo impetrante, sequer iniciada a instrução. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso a paciente não esteja presa por motivo diverso da custódia preventiva retratada no processo nº 12907895-95.2017.8.09.0011, em trâmite na Segunda Vara Criminal da Comarca de Aparecida de Goiânia/GO. Advirtam-na da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda da cidadã integrada à sociedade.
+    4. O curso desta impetração não prejudica a de nº 463.912, formalizada no Superior Tribunal de Justiça. Remetam cópia da decisão, com as homenagens merecidas, ao Relator, ministro Rogerio Schietti Cruz.
+    5. Ante a vinculação deste habeas com o de nº 156.965, providenciem o apensamento dos processos.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 28 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
