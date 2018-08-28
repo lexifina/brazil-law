@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, do qual se extrai da ementa o seguinte trecho:
+    “APELAÇÃO CRIMINAL – HOMICÍDIO QUALIFICADO – NULIDADE NA COMPOSIÇÃO DO CONSELHO DE SENTENÇA – INEXISTÊNCIA – AUSÊNCIA DE QUESITO OBRIGATÓRIO DE TESE DEFENSIVA – NÃO CONFIGURADO – CONDENAÇÃO CONTRÁRIA A PROVA DOS AUTOS – TESE REJEITADA – PRETENSÕES NÃO ACOLHIDAS – PROVAS SUFICIENTES PARA A CONDENAÇÃO – RECURSO IMPROVIDO.
+    […].”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXIX, da CF.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto. Como já registrado pelo Supremo Tribunal Federal, “a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Não bastasse, para chegar a conclusão diversa do acórdão recorrido, imprescindível seria a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF).
+    Nessa linha, veja-se o ARE 640.932-AgR, Relª. Minª. Rosa Weber, assim ementado:
+    “DIREITO PENAL E PROCESSUAL PENAL. EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA LEI MAIOR. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXIX E XLVI, DA CONSTITUIÇÃO DA REPÚBLICA. LEGALIDADE E VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS NA INDIVIDUALIZAÇÃO DA PENA. AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. Inexiste violação do art. 93, IX, da Constituição Federal. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento, desnecessário o exame detalhado de cada argumento suscitado pelas partes, sobretudo quando incapazes de influenciar no resultado da demanda.
+    2. O entendimento adotado na decisão agravada reproduz a jurisprudência firmada no Supremo Tribunal Federal. O exame da alegada ofensa ao art. 5º, XXXIX e XLVI, da Lei Maior, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, bem como do revolvimento do quadro fático delineado na origem, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta.
+    3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    4. Agravo interno conhecido e não provido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 28 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
