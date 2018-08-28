@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “APELAÇÃO E REEXAME NECESSÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. TETO REMUNERATÓRIO DOS SERVIDORES DOS TRIBUNAIS DE CONTAS. OMISSÃO DO TEXTO CONSTITUCIONAL. APLICAÇÃO POR SIMETRIA DO TETO DO PODER JUDICIÁRIO. LEI ESTADUAL Nº 13.464/04. FIXAÇÃO DE TETO EM PATAMAR INFERIOR. POSSIBILIDADE. RECURSO E REMESSA OFICIAL CONHECIDOS E PARCIALMENTE PROVIDOS.
+    1 - Por força da simetria constitucional (art. 75 da CF/88) e do art. 40 da Constituição Estadual, o teto dos servidores do TCE, na ausência de norma específica, é o mesmo do Poder Judiciário.
+    2 - Mesmo assim, os Estados podem instituir discricionariamente, por meio de lei, subtetos inferiores ao previsto na Constituição, o que ocorre no caso em tela, já que a Lei Estadual nº 13.464/04 optou por estender para os servidores dos Tribunais de Contas o teto do Poder Legislativo, inferior ao do Poder Judiciário.
+    3 - Dito isso, o servidor tem direito à irredutibilidade vencimental frente aos subtetos instituídos por lei, nas hipóteses em que sua remuneração já se enquadre dentro do máximo admitido pelas regras constitucionais.
+    4 - Assim, tendo em vista que a aplicação do teto da Lei 13.464/04 acarreta decesso remuneratório à autora, ela tem direito de receber o valor excedente ao teto do Poder Legislativo, mas inferior ao do Poder Judiciário, calculado quando da aplicação da Lei 13.464/04, sob a forma de Vantagem Pessoal Nominalmente Identifica - VPNI.
+    5 - A aplicação da Lei 13.464/04 é aqui compatibilizada com o preceito constitucional da irredutibilidade remuneratória, o que não significa dizer que há declaração implícita ou explícita, total ou parcial de inconstitucionalidade do diploma legal, não havendo falar, portanto, em desrespeito à cláusula de reserva de plenário.
+    6 - Recurso e remessa oficial parcialmente procedentes” (pág. 1 do documento eletrônico 8).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação dos arts. 5°, XXXVI, 37, XI, 73, 74 e 96 da mesma Carta.
+    A pretensão recursal merece acolhida.
+    Verifica-se que o acórdão recorrido, ao determinar, em respeito à irredutibilidade dos vencimentos, o pagamento à autora, sob a forma de Vantagem Pessoal Nominalmente Identificada, das diferenças existentes entre o subsídio dos desembargadores e o subsídio dos deputados estaduais, divergiu do entendimento firmado por esta Corte no julgamento do RE 609.381-RG/GO, de relatoria do Ministro Teori Zavascki (Tema 480 da repercussão geral), no qual foi fixada a seguinte tese de repercussão geral:
+    “O teto de retribuição estabelecido pela Emenda Constitucional 41/03 possui eficácia imediata, submetendo às referências de valor máximo nele discriminadas todas as verbas de natureza remuneratória percebidas pelos servidores públicos da União, Estados, Distrito Federal e Municípios, ainda que adquiridas de acordo com regime legal anterior. Os valores que ultrapassam os limites estabelecidos para cada nível federativo na Constituição Federal constituem excesso cujo pagamento não pode ser reclamado com amparo na garantia da irredutibilidade de vencimentos” (destaquei).
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (art. 21, § 1°, parte final, do RISTF).
+    Publique-se.
+    Brasília, 28 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
