@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ARREMATAÇÃO. PRAZO DECADENCIAL. TERMO INICIAL. DATA DA EXPEDIÇÃO DA CARTA DE ARREMATAÇÃO. RECURSO A QUE SE NEGA PROVIMENTO.
+    1. É firme a jurisprudência desta Corte no sentido de que a arrematação pode ser impugnada nos próprios autos da execução, mediante petição do interessado, ou invalidada, de ofício, caso haja nulidade, sendo certo que, após expedida a respectiva carta, a sua desconstituição deve ser pleiteada na via própria, isto é, por meio de ação anulatória.
+    2. Se a ação anulatória só tem cabimento após expedida a carta de arrematação, o termo inicial para a contagem do prazo decadencial para a propositura desse tipo de demanda deve ser a data de expedição da carta.
+    3. Embargos de divergência não providos” (pág. 22 do documento eletrônico 10).
+    No RE, fundado no art. 102, III, a, b e c, da Constituição Federal, sustenta-se violação aos arts. 5°, II e XXXV, da mesma Carta. Indica ter havido a negativa de aplicação do art. 649 do CPC/1973.
+    A pretensão recursal não merece acolhida.
+    Isso porque esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório, da prestação jurisdicional e dos limites da coisa julgada, quando a verificação dessas alegações depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Ementa: Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    De outro lado, esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636/STF).
+    Além disso, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição Federal seria apenas indireta.
+    Ademais, o recorrente não demonstrou de que forma o acórdão impugnado teria declarado a inconstitucionalidade de tratado ou lei federal, de forma a ensejar o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da CF.
+    Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284/STF. Nessa linha, menciono as seguintes decisões, entre outras: ARE 952.448-AgR/SP, Rel. Min. Roberto Barroso; ARE 771.250/SP, Rel. Min. Gilmar Mendes; AI 753.967/SP, Rel. Min. Joaquim Barbosa; ARE 717.574/RS e AI 833.240-AgR/RO, de minha relatoria.
+    Registra-se, por fim, que o presente caso não trata de acórdão que tenha julgado válida lei ou ato de governo local contestado em face da Constituição, o que afasta o cabimento de recurso extraordinário com base na alínea c do art. 102, III, da CF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
