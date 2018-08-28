@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. APELAÇÃO INTERPOSTA PELO ENTE AUTÁRQUICO. PREPARO. PORTE DE REMESSA E RETORNO. RECOLHIMENTO. INEXIGIBILIDADE. PRECEDENTE. RE 594.116. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. TEMA 810. RE 870.947. RECURSO PARCIALMENTE PROVIDO. DEVOLUÇÃO DO FEITO À ORIGEM QUANTO À QUESTÃO SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Trata-se de recurso extraordinário (Doc. 1, p. 188), manejado com arrimo nas alíneas a e d do permissivo constitucional, contra acórdão (Doc. 1, p. 162) que assentou, in verbis:
+    “ACIDENTÁRIA -- APELAÇÃO INTERPOSTA PELO INSS - AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO -- IMPOSIÇÃO DA LEI ESTADUAL 11.608/03 -- DESERÇÃO.
+    ‘A ausência de comprovação do recolhimento do porte de remessa e retorno previsto pela Lei 11.608/03 obsta o processamento da apelação interposta pelo INSS’.
+    ACIDENTÁRIA -- LESÃO COLUNAR -- LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL DEMONSTRADOS -- INDENIZABILIDADE.
+    ‘Demonstrado nos autos que o problema colunar que acomete o obreiro guarda liame com a atividade profissional desempenhada e efetivamente restringe a sua capacidade de trabalho, de rigor a concessão do auxílio-acidente com início a partir do dia seguinte ao da alta médica. Os valores em atraso serão apurados na forma da Lei 8.213/91 com atualização pelo IGP-DI e acrescidos de juros de mora (estes à base mensal conforme Lei 11.960/09). A renda mensal a ser implantada será reajustada pelos índices de manutenção’.
+    Apelação do INSS julgada deserta; sentença mantida em sede do reexame necessário com observações.”
+    Os embargos de declaração opostos foram desprovidos (Doc. 1, p. 180).
+    Nas razões do apelo extremo, a Autarquia sustentou preliminar de repercussão geral e, no mérito, apontou violação aos artigos 5º, XXXV, e 102, § 2º, da Constituição Federal. Alegou que é beneficiária da isenção do porte de remessa e retorno por entender abarcado pelo conceito de taxa forense. Aduziu a inaplicabilidade da TR como índice de correção monetária em fase anterior à expedição do precatório.
+    O Presidente da Seção de Direito Público do Tribunal a quo determinou o retorno dos autos à Turma julgadora, para eventual adequação do acórdão recorrido ao quanto decidido por esta Corte no julgamento do RE 594.116, Rel. Min. Edson Fachin, Plenário, DJe de 5/4/2016, Tema 135 da Repercussão Geral. Contudo, o órgão manteve o seu entendimento em acórdão (Doc. 1, p. 215) assim ementado:
+    “AÇÃO ACIDENTÁRIA -- APELAÇÃO DO INSS -- NÃO RECOLHIMENTO DO PORTE DE REMESSA E RETORNO PREVISTO PELA LEI ESTADUAL DE CUSTAS -- DESERÇÃO CONFIGURADA.
+    Acórdão mantido.”
+    É o relatório. DECIDO.
+    A irresignação merece prosperar em parte.
+    O Plenário do Supremo Tribunal Federal, no julgamento do RE 594.116, Rel. Min. Edson Fachin, DJe de 5/4/2016, assentou a inexigibilidade do porte de remessa e retorno do INSS. Por oportuno, consigno a elucidativa ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. TAXA JUDICIÁRIA. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. JUSTIÇA ESTADUAL.
+    1. A despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito. Precedente: AI-ED 309.883, de relatoria do Ministro Moreira Alves, Primeira Turma, DJ 14.06.2002.
+    2. O porte de remessa e retorno é típica despesa de um serviço postal, prestado por empresa pública monopolística e, assim, remunerado mediante tarifas ou preço público. Precedente: AI-QO 351.360, de relatoria do Ministro Sepúlveda Pertence, Primeira Turma, DJ 07.06.2002.
+    3. O art. 511 do Código de Processo Civil dispensa o recolhimento dessa despesa processual por parte do INSS, pois se trata de norma válida editada pela União, a quem compete dispor sobre as receitas públicas oriundas da prestação do serviço público postal.
+    4. A lei estadual, ora impugnada, apenas reproduziu o entendimento esposado no próprio CPC de que as despesas com o porte de remessa e retorno não se incluem no gênero taxa judiciária, de modo que não há vício de inconstitucionalidade no particular.
+    5. Verifica-se que o art. 2º, parágrafo único, II, in fine, da Lei paulista 11.608/2003, é inconstitucional, uma vez que o Conselho Superior da Magistratura, como órgão de nível estadual, não possui competência para tratar das despesas com o porte de remessa e retorno. Declaração incidental de inconstitucionalidade da expressão “cujo valor será estabelecido por ato do Conselho Superior da Magistratura”.
+    6. Recurso extraordinário a que se dá provimento, para cassar o acórdão recorrido e determinar o processamento da apelação no Tribunal de origem.”
+    Por outro lado, a matéria versada no recurso extraordinário -- regime de atualização monetária e juros moratórios incidente sobre condenações judiciais da Fazenda Pública -- foi submetida por esta Corte ao regime da repercussão geral (Tema 810, RE 870.947, Rel. Min. Luiz Fux).
+    Ex positis, PROVEJO EM PARTE o recurso extraordinário, com fundamento no disposto no artigo 932, V, do CPC/2015, para anular o acórdão da apelação a fim de que se faça novo julgamento, sem impor a exigência do porte de remessa e retorno, e, quanto à controvérsia decidida na remessa oficial envolvendo a atualização monetária, determino a DEVOLUÇÃO do feito à origem com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007).
+    Publique-se.
+    Brasília, 28 de agosto de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
