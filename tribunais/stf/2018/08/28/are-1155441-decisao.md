@@ -1,0 +1,29 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EXCEÇÃO DE SUSPEIÇÃO - PRELIMINAR DE CONHECIMENTO DO PEDIDO COMO OBJEÇÃO DE INCOMPETÊNCIA - REJEITADA - MÉRITO - ALEGAÇÃO DE PARCIALIDADE DO JULGADOR - INTERESSE NO JULGAMENTO DA CAUSA EM FAVOR DE UMA DAS PARTES - ARTIGO 135, DO CÓDIGO DE PROCESSO CIVIL - AUSÊNCIA DE PROVAS - REJEIÇÃO – ARQUIVAMENTO.
+    Deve-se rejeitar a alegação de suspeição quando não restar configurada qualquer das hipóteses previstas no artigo 135, do Código de Processo Civil” (pág. 67 do documento eletrônico 1).
+    Opostos embargos de declaração, foram rejeitados (págs. 88 a 96 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação aos arts. 5°, caput, II, XXXIV, a, XXXV, XXXVII, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Verifico, de início, que os requisitos de admissibilidade do presente recurso extraordinário regem-se pelas disposições do CPC/1973, norma vigente vigente quando da publicação do acórdão recorrido.
+    Nesse sentido, é assente na jurisprudência do Supremo Tribunal Federal, consolidada à luz da mencionada legislação processual, que o preparo do recurso extraordinário deve ser efetuado e comprovado no ato da interposição da peça recursal, o que, de fato, não ocorreu no presente caso, estando em desacordo com a determinação prevista no art. 511 do CPC/1973.
+    O Supremo Tribunal Federal fixou entendimento no sentido de que o preparo deve ser comprovado no momento da interposição do recurso, bem como que o benefício da assistência judiciária gratuita tem efeitos apenas após a sua concessão. Nesse sentido, cito os seguintes precedentes desta Corte:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE COMPROVAÇÃO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. DESERÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I Esta Corte possui entendimento firmado no sentido de que a comprovação do pagamento do preparo deve ocorrer no momento da interposição do recurso, sob pena de deserção. Precedentes.
+    II Agravo regimental a que se nega provimento” (ARE 899.733-AgR/RJ, Rel. Min. Presidente, Pleno).
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE PREPARO. DESERÇÃO. FUNGIBILIDADE.
+    1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que compete à parte Recorrente o ônus de comprovar o efetivo recolhimento do preparo em conformidade com os ditames legais, o que deve ocorrer no momento da interposição.
+    2. Na esteira da jurisprudência do STF, não cabe afastar a deserção de apelo extremo, porquanto o princípio da fungibilidade não se aplica a esses casos.
+    3. Agravo regimental a que se nega provimento” (ARE 914.294-AgR/RJ, Rel. Min. Edson Fachin, Primeira Turma).
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. preparo. Comprovação no ato de interposição. ausência. Deserção. Precedentes.
+    1. O preparo do recurso extraordinário deve ocorrer concomitantemente a sua interposição. Sua não efetivação, conforme os ditames legais, enseja a deserção do recurso.
+    2. Agravo regimental não provido” (ARE 880.817-AgR/DF, Rel. Min. Dias Toffoli, Segunda Turma).
+     Ainda que superado tal óbice, melhor sorte não assiste ao recorrente. Isso porque esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório, da prestação jurisdicional e dos limites da coisa julgada, quando a verificação dessas alegações depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria em acórdão assim ementado:
+    “Ementa: Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Outrossim, os Ministros deste Tribunal, no julgamento do AI 791.292-QO-RG/PE (Tema 339), de relatoria do Ministro Gilmar Mendes, reconheceram a repercussão geral e reafirmaram a jurisprudência desta Corte na linha de que a exigência do art. 93, IX, da Constituição não impõe que a decisão seja exaustivamente fundamentada.
+    Com efeito, o que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Nessa linha, transcrevo a ementa do referido precedente:
+    “Ementa: Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
