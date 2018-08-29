@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo, a qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional formulado contra acórdão assim ementado (e-STJ fl. 281):
+ACIDENTÁRIA - Aposentadoria por invalidez - Sequela de acidente típico e redução da visão - Obreiro que já recebe auxílio-acidente em virtude do referido infortúnio - Visão comprometida em razão de glaucoma crônico, de origem endêmica, sem nexo com o trabalho - Descabimento da associação de lesão ocupacional com outra doença extralaborativa (limitação da acuidade visual) para a concessão de aposentadoria por invalidez acidentária - Improcedência mantida - Recurso desprovido.
+No especial obstaculizado, o recorrente apontou ofensa ao art. 6º da Lei n. 6.367/1976, postulando a concessão do benefício pelas sequelas total e permanente.
+Transcorrido o prazo para contrarrazões (e-STJ, fl. 301), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que as razões do recurso não são suficientes para infirmar a conclusão do decisum local, tampouco atendidas nenhuma das hipóteses das alíneas "a", "b" e "c" do artigo constitucional.
+Na presente irresignação, o agravante se remete às razões do apelo especial.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Nos termos do disposto no art. 544, § 4º, I, do CPC/1973, o agravante deve infirmar especificamente todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles. Nesse sentido, vide: AgRg no AREsp 748.670/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 24/11/2015; AgRg no AREsp 700.751/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 28/09/2015.
+No caso dos autos, o agravante não se desincumbiu de infirmar os fundamentos impeditivos de seguimento do especial. No caso, apenas repisou as argumentações do recurso especial.
+Ante o exposto, com base no art. 932, III, do CPC/2015, c/c o art. 253, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
