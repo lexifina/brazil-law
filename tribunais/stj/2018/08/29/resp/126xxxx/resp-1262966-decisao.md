@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por ÂNGELO [NOME] [NOME], VITORINO [NOME], FRANCISCO [NOME] [NOME] e COMÉRCIO E INDÚSTRIA DE CAL TANCAL LTDA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+Conforme o contido nos autos, os recorrentes ÂNGELO [NOME] [NOME], VITORINO [NOME] e [NOME] foram condenados à sanção de 6 meses de detenção e 10 dias-multa pelo delito do art. 55 da Lei n. 9.605/1998 e à pena de 1 ano de reclusão e 10 dias-multa pelo delito do art. 62 do mesmo diploma legal. Foram ainda condenados a 1 ano de detenção pelo delito do art. 2º da Lei n. 8.176/1991. Observado o concurso formal de crimes, a sanção final imposta a cada um deles foi de 1 ano e 4 meses de reclusão e 30 dias-multa (e-STJ fl. 1.114).
+À recorrente pessoa jurídica foi imposta a sanção de 20 dias-multa e prestação de serviços à comunidade, pelos delitos dos arts. 55 e 62, ambos da Lei n. 9.605/1998 (e-STJ fl. 1.117).
+Interpuseram apelação, à qual o Tribunal a quo deu parcial provimento apenas para redimensionar a sanção privativa de liberdade de [NOME] para 1 ano e 2 meses e reduzir o valor da pena de multa de todos para dois mil reais (e-STJ fl. 1.258).
+Renitente, a defesa interpôs recurso especial alegando violação ao art. 619 do CPP em razão de a Corte Federal de origem não ter apreciado as teses de violação ao direito à ampla defesa e ao contraditório e de impossibilidade de condenação lastreada em provas indiciárias.
+Apontou violação ao art. 386, VI, do CPP, "eis que a prova utilizada na decisão condenatória restringiu-se a parecer elaborado pelos Fiscais do IBAMA, sem que novo laudo fosse realizado durante a instrução penal que pudesse corroborar as informações apresentadas pelo IBAMA" (e-STJ fl. 1.344), requerendo, assim, a absolvição dos recorrentes.
+Asseverou ter ocorrido a violação do art. 400 do CPP em decorrência da subversão da ordem dos depoimentos e pelo indeferimento da oitiva de testemunha de defesa.
+Relevou a não observância do que dispõe o art. 564, e, parte final, do CPP, em razão de os recorrentes não terem sido intimados a se manifestar sobre as informações prestadas pelo DNPM e pelo IAP.
+Ao final, pugnou pelo reconhecimento da prescrição da pretensão punitiva estatal, pela procedência da tese de conflito aparente de normas relativas às Leis n. 8.176/1998 e 9.605/1998, e pela aplicação do princípio da insignificância.
+Contrarrazões às e-STJ fls. 1.498/1.546.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (e-STJ fls. 1.587/1.606).
+É, em síntese, o relatório. Decido.
+Com razão a defesa quanto à ocorrência da prescrição da pretensão punitiva estatal.
+Com efeito, considerando a maior pena corporal fixada em 1 ano e 4 meses de reclusão, pelo édito condenatório de 13/4/2010 (e-STJ fls. 1.096/1.119), verifica-se, a partir desse marco interruptivo da prescrição, a implementação do lapso de quatro anos nos termos do disposto no art. 109, V, do Código Penal.
+Quanto à prescrição da pretensão punitiva estatal em relação à pessoa jurídica, de igual modo, tenho como implementada.
+Considerando que lhe foram impostas pena de multa e medida restritiva de direitos (e-STJ fl. 1.118), o lapso prescricional a ser observado é o mesmo previsto para pena privativa de liberdade dos delitos pelos quais fora condenada, nos termos dos arts. 114, II, e 109, parágrafo único, ambos do Código Penal.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. CRIME AMBIENTAL. PESSOA JURÍDICA. PRAZO PRESCRICIONAL. APLICAÇÃO SUBSIDIÁRIA DO CÓDIGO PENAL. SENTENÇA NÃO PROLATADA. PRESCRIÇÃO EM ABSTRATO. PENA MÁXIMA ABSTRATAMENTE COMINADA. ART. 109, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não prolatada a sentença, ou seja, inexistindo pena em concreto, a prescrição se regula pela pena máxima em abstrato prevista para o delito.
+2. Omissa a lei ambiental acerca dos prazos prescricionais aplicáveis aos crimes cometidos por pessoas jurídicas, a teor do art. 79 do referido diploma legal, aplicam-se subsidiariamente as disposições do Código Penal e do Código de Processo Penal.
+3. Dispõe o art. 21, § 3º, da Lei n. 9.605/98, que às pessoas jurídicas serão aplicáveis isolada, cumulativa ou alternativamente as penas de multa, de restrição de direitos ou de prestação de serviços à comunidade.
+4. Podendo, portanto, no caso dos crimes ambientais, além da pena de multa, ser aplicada cumulativamente medida restritiva de direitos, para o cômputo do prazo prescricional em abstrato, deve-se levar em consideração a disposição do art. 109, parágrafo único, do Código Penal, segundo a qual antes de transitar em julgado a sentença final, aplicam-se às penas restritivas de direito o mesmo prazo previsto para as privativas de liberdade.
+5. Agravo regimental improvido. (AgRg no RMS 56.158/PA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/06/2018, DJe 29/06/2018, grifei)
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. PRECEDENTES.
+ ..
+II - "Nos crimes ambientais, aplicada a pena restritiva de direito às pessoas jurídicas, os parâmetros de aferição de prazos prescricionais a serem considerados devem ser os disciplinados pelo Código Penal." (AgRg no Resp 1589299/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 07/06/2017). Precedentes do STF.
+Agravo regimental desprovido. (AgRg nos EDcl nos EDcl no AREsp 1072892/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/04/2018, DJe 16/04/2018, grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PESSOA JURÍDICA. DELITOS PREVISTOS NA LEI N. 9.605/98. PENA RESTRITIVA DE DIREITOS. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. PRESCRIÇÃO. APLICAÇÃO SUBSIDIÁRIA DOS ARTS. 43, IV E 109, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos crimes ambientais, aplicada a pena restritiva de direito às pessoas jurídicas, os parâmetros de aferição de prazos prescricionais a serem considerados devem ser os disciplinados pelo Código Penal.
+2. Com fulcro no art. 109, do Código Penal, antes de transitar em julgado a sentença final, aplica-se, às penas restritivas de direito, o mesmo prazo previsto para as privativas de liberdade.
+3. Agravo regimental desprovido. (AgRg no REsp 1589299/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/05/2017, DJe 07/06/2017, grifei)
+No caso, considerada a pena de 6 meses a 1 ano para o delito do art. 55, e de 1 a 3 anos para o crime do art. 62, ambos da Lei n. 9.605/1998, verifico que já transcorreram oito anos da sentença condenatória de 13/4/2010 (e-STJ fls. 1.096/1.119), não tendo havido nenhum outro marco interruptivo desde então.
+Ante o exposto, dou provimento ao recurso especial para declarar a extinção da punibilidade dos recorrentes pela prescrição da pretensão punitiva dos delitos dos arts. 55 e 62, ambos da Lei n. 9.605/1998 e do art. 1º da Lei n. 8.176/1991.
+Publique-se. Intimem-se.
