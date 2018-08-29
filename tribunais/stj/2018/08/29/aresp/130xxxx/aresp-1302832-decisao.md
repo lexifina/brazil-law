@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 356-357, e-STJ):
+APELAÇÃO CÍVEL. RECURSO ADESIVO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. ATROPELAMENTO DE PEDESTRE SOBRE A FAIXA DE SEGURANÇA. CULPA DA MOTORISTA DO VEÍCULO RATIFICADA. RUBRICAS INDENIZATÓRIAS. PRECEDENTES.
+Incabível reverter o juízo de procedência que reconheceu a responsabilidade da apelante pelo evento danoso. Ademais, em se tratando de atropelamento de pedestre em via urbana, a culpa do motorista é presumida, especialmente no presente caso em que a vítima foi colhida sobre a faixa de segurança destinada à travessia de pedestres. Presente o nexo causal entre o fato e os danos sofridos, a procedência da ação se impunha, com a condenação nas rubricas indenizatórias que merecem ser confirmadas. Incidência do art. 70, I, do CTB.
+Danos materiais corroborados, eis que não se pode exigir da vítima de dano injusto que opte pela realização dos procedimentos reparatórios necessários junto à rede pública. Tendo a vítima custeado os serviços médico -hospitalares de que necessitou, lógico que ela busque o ressarcimento perante o responsável pelo evento do qual resultou o dano, sob pena de violação dos regramentos basilares da responsabilidade civil.
+Danos morais em consonância com o contexto fático-probatório. O transtorno decorrente do sinistro possui contornos de relevo, eis que a vítima, octogenária quando do atropelamento, enfrentou dificuldade maior para recuperar-se, pois sofreu fratura no colo do fêmur à direita, precisando submeter-se a cirurgia reparadora de colocação de prótese no quadril.
+Ratificado o valor fixado, o qual reflete a prática jurisprudencial em situações análogas. Juros de mora confirmados. Incidência da Súmula nº 54 do STJ.
+Danos estéticos deferidos, pois a demandante além da cicatriz de aproximadamente 15 cm, oriunda da lesão sofrida e do procedimento cirúrgico pelo qual passou, com a colocação da prótese no quadril sofreu transformação em seu corpo, deixando saliências visíveis, bem como limitação de sua movimentação e imagem em todos os aspectos. Quantum fixado em atendimento ao princípio da razoabilidade, considerado que a cicatriz ostentada é discreta e pouco visível, não sendo capaz de gerar impressão de desagrado a terceiros.
+Honorários advocatícios fixados em conformidade ao disposto no art. 85, § 11, do CPC.
+APELAÇÃO IMPROVIDA.
+RECURSO ADESIVO PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, o recorrente aponta violação aos arts. 927, 944, 949 e 186 do Código Civil, ao fundamento de que a indenização por danos morais fixada em R$ 10.375,00 (dez mil, trezentos e setenta e cinco reais), bem como por danos estéticos, fixada em R$ 9.370,00 (nove mil, trezentos e setenta reais) lhe acarreta grave lesão, eis que é pessoa extremamente humilde e hipossuficiente, conforme alega. Requer o afastamento ou a minoração dos valores fixados.
+Contrarrazões às fls. 392-401, e-STJ.
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 404-410, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar, em razão da incidência da Súmula 7/STJ.
+Ao solucionar a controvérsia, o Tribunal de origem assim dispôs (fls. 365-369, e-STJ):
+No tocante aos danos morais, o demandado pugna a redução do valor fixado, que foi de R$ 10.375,00. Este valor, segundo a fundamentação da sentença seria o equivalente a 25 salários mínimos nacionais na época do evento, data a partir da qual será atualizado o valor fixado, segundo a sentença, ponto em relação ao qual não houve inconformidade.  ..  Além de adequado aos parâmetros praticados pela Câmara, tenho que o quantum no equivalente a 25 salários mínimos está em consonância com o contexto em exame. Há que se ter presente, em especial, o transtorno decorrente do sinistro, haja vista ter culminado a apelada, pessoa cuja faixa etária (80 anos de idade) implica, a toda evidência, em dificuldade superlativa para recuperação. Por ocasião do evento, em 2008, era octogenária (fl. 20), tendo sofrido fratura no colo do fêmur à direita, bem como precisou submeter-se a cirurgia reparadora de colocação de prótese no quadril.
+ ..
+Merece amparo a insurgência, pois a demandante embasa o pedido de indenização pelo dano estético na cicatriz oriunda da lesão sofrida e do procedimento cirúrgico pelo qual passou. Ostenta, desde então, cicatriz de aproximadamente 15 cm e a colocação da prótese no quadril transformou seu corpo, deixando saliências visíveis, bem como limita sua movimentação e imagem em todos os aspectos.
+ ..
+Destarte, observadas as peculiaridades do caso, defino a indenização no valor de R$ 9.370,00 (equivalente a dez salários mínimos), uma vez que, repiso, a cicatriz ostentada é discreta e pouco visível, não sendo capaz de gerar impressão de desagrado aos outros.
+Dessa forma, a modificação dos critérios utilizados pelo Tribunal de origem para fixar o valor das indenizações por danos morais e estéticos na espécie, demandaria o reexame do conjunto fático e probatório dos autos, o que é vedado em sede de recurso especial, em razão da Súmula 7/STJ.
+Destaque-se que os referidos valores não se distanciam da razoabilidade e proporcionalidade, nem destoam da jurisprudência desta Corte. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. OFENSA AO ART. 535, II, DO CPC/1973. NÃO CARACTERIZAÇÃO. DANOS E RESPONSABILIDADE CONFIGURADOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. VULNERAÇÃO AOS ARTS. 128 E 460 DO CPC/1973. NÃO OCORRÊNCIA. MONTANTE INDENIZATÓRIO PELOS DANOS MORAIS E ESTÉTICOS ADEQUADO. HONORÁRIOS ADVOCATÍCIOS, FIXAÇÃO ADEQUADA. NEGADO PROVIMENTO AO AGRAVO.
+ ..
+2. O Tribunal de origem concluiu pela responsabilidade da agravante pelos danos sofridos pela agravada com fundamento na prova pericial produzida nos autos. A alteração do entendimento, como pretendida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. A indenização por danos morais e estéticos, fixada na origem, em montante equivalente a 100 (cem) e 25 (vinte e cinco) salários mínimos, vigente à época, não se mostra exorbitante nem desproporcional aos danos sofridos pela recorrida.
+4. Na hipótese em exame, o quantum fixado, a título de verba honorária, pela instância ordinária, de 20% (vinte por cento) sobre o valor da condenação, não se caracteriza como exorbitante.
+5. Agravo interno ao qual se nega provimento.
+(AgInt nos EDcl no AREsp 209.728/SC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 29/6/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. MAJORAÇÃO DA INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS E ELEVAÇÃO DO PENSIONAMENTO MENSAL. REEXAME DE PROVA. DESCABIMENTO. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DE [NOME].
+1. Violação do artigo 535 do CPC/1973 não configurada.
+2. A alteração do entendimento adotado pela Corte de origem no tocante à majoração dos danos morais e estéticos e elevação do pensionamento mensal demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior.
+3. O não conhecimento do recurso especial pela alínea a do permissivo constitucional, diante da incidência da Súmula 7/STJ, prejudica o exame do dissídio jurisprudencial.
+4. A falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula 284 do STF, por analogia. (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+(AgInt no AREsp 979.703/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 3/8/2017).
+Quanto à majoração da verba honorária em razão do disposto no art. 85, § 11, do Código de Processo Civil, mostra-se incabível, uma vez que já houve a sua fixação no limite máximo pelas instâncias de origem.
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
