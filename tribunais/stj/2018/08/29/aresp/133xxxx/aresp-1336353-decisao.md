@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 357/371).
+O acórdão recorrido está assim ementado (e-STJ fl. 234):
+APELAÇÃO CÍVEL. MANDATOS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C CANCELAMENTO DE PROTESTO E INDENIZAÇÃO POR DANOS MORAIS.
+I. Afastada a hipótese de cerceamento de defesa levantada pela parte apelante.
+III. Em relação à indenização por danos morais, somente é cabível tal pretensão quando não houver inscrição pré -existente, consoante dispõe a Súmula 385 do STJ. Assim, em razão da inscrição precedente, tem-se por despropositado o pleito indenizatório.  III. Honorários de sucumbência majorados, por expressa previsão legal.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 253/258).
+No especial (e-STJ fls. 261/279), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Apontou contrariedade aos arts. 355 e 373, I, do CPC/2015, sustentando, em síntese, cerceamento de defesa pela impossibilidade de produção de provas.
+Indicou ainda afronta aos arts. 2º, 3º, 6º e 14 do CDC, 421, 422, e 423 do CC/2002 e 273 do CPC/1973.
+No agravo (e-STJ fls. 373/383), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 390).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 535 do CPC/1973, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+Quanto ao cerceamento de defesa, assim se manifestou a Corte estadual (e-STJ fls. 236/237):
+Inicialmente, no que concerne à preliminar de cerceamento de defesa argüida pela ora apelante, cumpre referir que a mesma não merece prosperar. A parte alega que o juiz de primeiro grau indeferiu seu pedido para que enviasse ofício às empresas telefônicas, para o fim de que estas dissessem que as inscrições presentes em seu nome são oriundas de fraude de terceiro. Tal pedido foi indeferido, e com razão, haja vista que não cabe a tais empresas informarem que certa inscrição foi originada por fraude ou não. A única função das referidas companhias, quando chamadas a prestar informações em algum processo, é para dizer se há ou não inscrição no nome de alguém. Sendo assim, não há que se falar em cerceamento de defesa.
+O acórdão recorrido, com base no conjunto fático-probatório, concluiu pela inexistência de cerceamento de defesa e pela presença das condições para o julgamento antecipado da lide. Entendeu ainda pela desnecessidade de produção de prova requerida, tendo em vista que não cabe a tais empresas informarem que certa inscrição foi originada por fraude ou não. Não há como modificar tal entendimento no âmbito do recurso especial, incidindo, nesse caso, a Súmula n. 7 do STJ. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONTRATO DE COMPRA E VENDA DE VIDRO. JULGAMENTO ANTECIPADO DA LIDE. CONVENIÊNCIA DA PRODUÇÃO DE PROVAS. PRESCINDIBILIDADE. REEXAME. NÃO CABIMENTO. ENUNCIADO 7 DA SÚMULA DO STJ. INCIDÊNCIA.
+1. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, em que se inclui a conveniência da produção dos elementos de convicção, que se entendeu dispensáveis ante o julgamento antecipado da causa, nos termos da vedação imposta pelo enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 236.748/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/12/2013, DJe 18/12/2013.)
+DIREITO PROCESSUAL CIVIL. COMPROVAÇÃO DO PREPARO NO ATO DA INTERPOSIÇÃO DO RECURSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DE PROVA. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE FATOS E PROVAS. 1. Na linha dos precedentes desta Corte, a comprovação do preparo do recurso deve ocorrer no momento de sua interposição. 2.- A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. 3.- Não há que se falar em cerceamento de defesa pelo indeferimento de oitiva de uma testemunha, mesmo com julgamento de improcedência ao final do processo, quando essa prova testemunhal não é capaz de comprovar o que pretendido pela recorrente. 4.- Se as instâncias de origem afirmam que a parte deduziu teses contrapostas e que isso causou tumulto processual, não há como, em sede de recurso especial, afastar a litigância de má-fé identificada. Incide, no caso, o óbice da Súmula 7/STJ. 5.- Agravos Regimentais a que se nega provimento.
+(AgRg no REsp n. 1.095.581/RS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/6/2011, DJe 1º/7/2011.)
+Por fim, a recorrente limita-se a indicar genericamente ofensa aos arts. 2º, 3º, 6º e 14 do CDC, 421, 422, e 423 do CC/2002 e 273 do CPC/1973, não esclarecendo, a contento, o motivo que o fez concluir pelo desrespeito aos comandos da lei federal. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
