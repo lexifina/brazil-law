@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 261-262, e-STJ):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CITAÇÃO NÃO REALIZADA. EXPEDIÇÃO DE OFÍCIOS EM BUSCA DO ENDEREÇO DO REQUERIDO. OFÍCIOS NÃO RESPONDIDOS. INEXISTÊNCIA DE INÉRCIA DA PARTE AUTORA. EXTINÇÃO DO PROCESSO. ART. 267, IV, CPC. SENTENÇA CASSADA. I - In casu, não há que se falar em intimação pessoal da autora para o cumprimento da providência ordenada, haja vista que a hipótese considerada pelo magistrado singular (falta de pressuposto processual de desenvolvimento válido e regular do processo - art. 267, IV, do CPC) não se enquadra no disposto no art. 267, §1º, do CPC (que diz respeito aos incisos II e III). 2 - Verifica não ser o caso de extinção do feito, com fulcro no inciso IV, do art. 267, CPC, haja vista que a falta de citação não é pressuposto de constituição e validade do processo. 3 - A demora em se efetivar a citação por circunstâncias alheias a vontade da requerente não pode causar a extinção do processo, sob pena de infringir sua garantia à tutela jurisdicional adequada e efetiva (art. 5", XXXV, da CF). RECURSO CONHECIDO E PROVIDO. SENTENÇA CASSADA.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, a recorrente aponta violação ao art. 582 do Código Civil.
+Sustenta que deve prevalecer o valor do aluguel conforme ajustado entre as partes, e que, ao contrário do que entendeu o acórdão recorrido, não se aplica ao caso o disposto no art. 413 do Código Civil, pois "A espécie não versa sobre cláusula penal, mas, como visto, aluguel devido pelo comodatário moroso" (fl. 487, e-STJ).
+Requer "a reforma do v. acórdão recorrido, de maneira que prevaleça o quanto do aluguel fixado no contrato de comodato até a efetiva devolução dos bens emprestados ao comodatário moroso" (fl. 489, e-STJ).
+Sem contrarrazões (fl. 512, e-STJ).
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 515-516, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar, em razão da incidência das Súmulas 5 e 7/STJ.
+Ao solucionar a controvérsia o Tribunal de origem assim dispôs (fls. 470-474, e-STJ):
+Por isso, hei por bem deixar de condenar no valor do aluguel lixado no pacto objeto dos presentes autos, qual seja, 1.000 (mil) litros de óleo diesel por dia, pois, findando o contrato em 2001, estaria o posto demandado em mora por um longo período aproximado, o que resultaria, após proceder aos cálculos devidos, num valor que supera em muito o valor do contrato entabulado.
+Assim, esse valor, tal como estipulado, afigura-se abusivo e excessivo por vilipendiar a comutatividade do contrato e, desvirtuando-se da sua destinação, transmudar-se em fonte de incremento patrimonial indevido, legitimando que seja revisado.
+Dessa forma, aplicando-se o juízo de equidade ao caso concreto, sob o crivo da proporcionalidade, nota-se que a quantia de 1.000 litros de óleo diesel por dia de atraso alcançará patamar exorbitante após os anos de mora, mostrando-se, de fato, desarrazoada e manifestamente excessiva, além de implicar enriquecimento sem causa do autor, o que não se pode admitir.
+ ..
+Sendo assim, em virtude dos princípios da probidade e da boa-fé, que devem nortear a conduta dos contratantes, nos termo do artigo 422 do Código Civil, mostra-se condizente com a situação fática concreta limitar a condenação ao valor do contrato, qual seja, R$ 10.661,00 (dez mil, seiscentos e sessenta e um reais).
+Dessa forma, a modificação dos critérios utilizados pelo Tribunal de origem para sopesar o valor da condenação imposta ao recorrente, em razão do descumprimento do contrato firmado entre as partes, demandaria a interpretação das cláusulas contratuais, bem como reexame das provas coligidas aos autos, o que é vedado em sede de recurso especial em razão das Súmulas 5 e 7/STJ, respectivamente.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
