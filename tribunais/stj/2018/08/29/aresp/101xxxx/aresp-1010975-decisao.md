@@ -1,0 +1,11 @@
+EMENTA
+PROCESSO CIVIL. PREVIDENCIÁRIO. RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO NA INTERPOSIÇÃO DO RECURSO. DIA DE CORPUS CHRISTI. INEXISTÊNCIA DE FERIADO NACIONAL. OBSERVÂNCIA DO CALENDÁRIO DO TRIBUNAL LOCAL. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão de sua intempestividade.
+É o relatório. Decido.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Mediante análise dos autos, verifica-se que o acórdão que julgou os embargos de declaração foi publicado em 15/5/2013, sendo o recurso especial interposto somente em 31/5/2013. Dessa forma, inadmissível, porquanto intempestivo, eis que interposto fora do prazo de 15 (quinze) dias, nos termos do art. 508 do CPC/1973.
+Conforme jurisprudência dominante nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido. Nesse sentido: AgRg no AREsp 527.290/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 22/8/2014.
+Ademais, "O dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi - não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem. Precedentes: AgInt no AREsp 1.174.371 - GO, Segunda Turma, Rel. Min. Assusete Magalhães, julgado em 03.04.2018, DJe 10.04.2018; AgInt no AREsp 1.139.753 - RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 10.04.2018, DJe 16.04.2018" (AgInt no REsp 1715972/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/05/2018).
+Ante o exposto, não conheço do recurso.
+ Publique-se. Intimem-se.
