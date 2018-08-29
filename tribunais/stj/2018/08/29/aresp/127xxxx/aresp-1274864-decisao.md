@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. DISPOSITIVO LEGAL NÃO DEBATIDO NO ACÓRDÃO RECORRIDO. FALTA DE PREQUESTIONAMENTO. ENUNCIADOS NS. 282/STF E 356/STF. ALTERAÇÃO DO VALOR DA MULTA DIÁRIA. VALOR ADEQUADO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ Fl. 101):
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. LIMINAR DEFERIDA. APREENSÃO E DEPÓSITO DO BEM FINANCIADO. PEDIDO DE VENDA DO BEM APREENDIDO. PURGA DA MORA.
+1. Segundo o preconizado no art. 3º, § 1º, do Decreto-Lei 911/69 "Cinco dias após executada a liminar mencionada no caput, consolidar-se-ão a propriedade e a posse plena e exclusiva do bem no patrimônio do credor fiduciário, cabendo às repartições competentes, quando for o caso, expedir novo certificado de registro de propriedade em nome do credor, ou de terceiro por ele indicado, livre do ônus da propriedade fiduciária." Assim, em exegese ao princípio geral de cautela do julgador, imperioso obstar a remoção e venda do veículo enquanto não certificado, pelo juízo de origem, o decurso do prazo fatal assinalado.
+Transcorrido o prazo da purga da mora, faculta-se ao credor fiduciário a remoção e venda do bem apreendido.
+2. A fixação de multa diária em caso de descumprimento de ordem judicial é medida idônea a coagir o obrigado no cumprimento da ordem judicial sem procrastinação, e não se confunde com a multa estabelecida no art. 3º, §§ 6º e 7º, do DL 911/69, podendo ser aplicados conjuntamente.
+3. Multa diária reduzida para se adequar a obrigação imposta.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, sustenta a parte agravante a vulneração aos arts. 884 do CC/02, 461 do CPC/73, 85, § 2º, e 536, §1º, do CPC/2015, bem como dissídio jurisprudencial. Insurge-se contra o valor da multa diária, o qual restou fixado na origem em R$ 500,00 (quinhentos reais), reputando-o excessivo e desproporcional. Aduz a necessidade de redistribuição dos ônus sucumbenciais.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Inicialmente, verifico restar ausente o prequestionamento da matéria relativa ao art. 85, § 2º, do CPC/2015 e à tese de redistribuição dos ônus sucumbenciais, porquanto não apreciada pelo julgado recorrido. Inviável, pois, o seu conhecimento nesta sede, nos termos das Súmulas 282 e 356/STF.
+De outro lado, no que concerne à pretensão de revisão das astreintes fixadas, saliento o quanto decidido pelo TJ/RS, verbis (e-STJ Fls. 110):
+3. Quanto à multa diária fixada para a hipótese de dever de restituição do veículo por parte da instituição financeira, entendo que ela deve ser reduzida.
+A decisão agravada fixou multa equivalente a um terço do valor do bem. Entendo que tal valor não se coaduna com a obrigação imposta, devendo ser minorado para R$ 500,00 (quinhentos reais), a serem cobrados na forma diária, bem como concedido prazo de 10 dias para cumprimento da obrigação (restituição do veículo). Destaco que a intimação pessoal do devedor para o cumprimento da obrigação é indispensável, nos termos da Súmula 410 do STJ, devendo ser realizada pelo primeiro grau.
+Veja-se que já houve redução do quantum arbitrado para fins de adequação da multa ao caso concreto. A jurisprudência desta Corte admite, em caráter excepcional, que o valor arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que, entretanto, não ocorreu na hipótese.
+Assim, elidir as conclusões do aresto impugnado e modificar tal valor demandaria, inevitavelmente, o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL. MEDIDA CAUTELAR. MULTA COMINATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. MULTA DIÁRIA. VALOR. RAZOABILIDADE. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A teor da Súmula nº 284/STF, aplicada por analogia, é inadmissível o recurso especial, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+4. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida assenta-se em mais de um fundamento suficiente e o recurso não abrange todos eles.
+5. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+6. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+7. A jurisprudência desta Corte firmou posicionamento no sentido da possibilidade de alteração do valor da multa diária, em sede de recurso especial, apenas em casos excepcionalíssimos, diante da manifesta exorbitância do valor ou de flagrante impossibilidade de cumprimento da medida, circunstâncias inexistentes no presente caso.
+8. Não escapam os recorrentes da imposição da multa de que trata o § 2º do art. 1.026 do Código de Processo Civil de 2015 ante a oposição de declaratórios de caráter manifestamente protelatório.
+9. Agravo interno não provido. (AgInt no REsp 1717507/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/06/2018, DJe 12/06/2018) - g.n.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INSCRIÇÃO INDEVIDA NO CADASTRO DE INADIMPLENTES. TUTELA ANTECIPADA. REQUISITOS. APLICAÇÃO DE ASTREINTES. VALOR FIXADO. REEXAME DE PROVA. SÚMULA N. 7/STJ. PRAZO LIMITE DE INCIDÊNCIA DA MULTA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INOVAÇÃO RECURSAL. MANTIDA A DECISÃO AGRAVADA.
+1. O reexame dos requisitos para a concessão de tutela antecipada demanda reapreciação do conjunto fático-probatório dos autos, o que é vedado nesta Corte pelo óbice do enunciado da Súmula n. 7/STJ.
+2. Aferir a adequação da multa diária é matéria que demandaria o reexame do conjunto fático-probatório, providência sabidamente incompatível com a via estreita do recurso especial por incidir a Súmula n. 7 do Superior Tribunal de Justiça, ressalvados os casos de valores irrisórios ou exorbitantes, situação que não se verifica na espécie.
+3. O Tribunal de origem não se manifestou quanto à necessidade de prazo limite para a incidência de astreintes, o que atrai a incidência das Súmulas n. 282 e 356 do STF.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 600.467/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/02/2015, DJe 12/02/2015) - g.n.
+Por fim, friso que tais óbices aplicam-se igualmente ao dissídio jurisprudencial, o qual não foi comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/73 (art. 1.029, § 1º, do CPC/2015), e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. No caso concreto, o recorrente aponta julgados que não guardam similitude fática com o caso dos autos. Outrossim, não se procedeu ao devido cotejo analítico.
+Destarte, inviável a pretensão do recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
