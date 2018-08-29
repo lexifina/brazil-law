@@ -1,0 +1,15 @@
+DECISÃO
+EVERTON MATEUS DA SILVA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que deu provimento ao agravo do Ministério Público para cassar seu livramento condicional (CNJ: 0151464-37.2018.8.21.70000).
+Alega a Defensoria Pública que o paciente atingiu o requisito objetivo e possui "bom comportamento carcerário, comprovado pelo diretor do estabelecimento penal" (fl. 2). Assim, faz jus ao restabelecimento do livramento condicional.
+Decido.
+O habeas corpus comporta pronta solução, pois a questão jurídica está pacificada no âmbito deste Superior Tribunal.
+O sentenciado cumpre pena de 6 anos e 4 meses de reclusão. Em 22/3/2017 foi progredido ao regime aberto. Em 12/4/2018, "foi-lhe deferido o pleito de livramento condicional" (fl. 98), cassado pelo Tribunal de Justiça no dia 28/6/2018, pelos seguintes fundamentos:
+Todavia, o mesmo não pode ser dito quanto ao requisito subjetivo, ainda que a conduta carcerária tenha sido apontada como "plenamente satisfatória" (fl. 25), pois não demonstrado o mérito para o alcance da benesse.
+Da simples análise dos elementos constantes de sua guia de execução penal, verifica-se que, por duas vezes, evadiu-se do sistema prisional durante o cumprimento em regime mais brando, sendo que a última foi implementada em data recente - 23-01-2018, com recaptura em 26-01-2018 - o que, por si só. demonstra a ausência de freios morais, e, sobretudo, de comprometimento com sua ressocialização.
+Friso que estas informações não podem ser ignoradas na avaliação judicial, pois comprovam que o detento não apresenta mérito subjetivo para gozar do derradeiro benefício antes de sua plena liberdade.
+É cediço que a interpretação que se extrai do art. 83, III, do CP, vai além do mero atestado de boa conduta carcerária, pois:
+ ..  a análise do requisito subjetivo pressupõe a verificação do mérito do condenado, que não está adstrito ao "bom comportamento carcerário", como faz parecer a literalidade da lei, sob pena de concretizar-se o absurdo de transformar o diretor do presídio no verdadeiro concedente do benefício e o juiz em simples homologador" (HC n. 106.678, 1ª T, Rel. Ministro Luiz Fux, Dje 17/4/2012).
+A prática de atos de indisciplina evidencia comportamento insatisfatório do apenado durante o resgate da pena (art. 83, III, do Código Penal). Por isso: "Legítima é a denegação de livramento condicional com base em fundamentos concretos, que acarretam o não preenchimento do requisito subjetivo, como o histórico carcerário conturbado do apenado" (AgRg no HC n. 414.730/MS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/3/2018).
+Não há ilegalidade a ser sanada na via do remédio heroico, uma vez que o Tribunal de Justiça destacou histórico carcerário conturbado e recente do paciente (fuga com recaptura em 26/1/2018) para indeferir o livramento condicional, em consonância com a jurisprudência sobre o tema.
+À vista do exposto, com fulcro no art. 34, XXIV, do RISTJ, denego este habeas corpus, in limine.
+Publique-se e intimem-se.
