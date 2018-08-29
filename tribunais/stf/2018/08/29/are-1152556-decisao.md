@@ -1,0 +1,38 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 54, p. 87):
+    “IMPROBIDADE ADMINISTRATIVA – Ação Civil Pública por ato de improbidade administrativa Casuística a revelar o cometimento de ato fraudador de processo licitatório – Contratação direta de Fundação Educacional com vista à realização de programa de formação continuada para o magistério municipal – Licitação considerada inexigível – Não houve comprovação dos requisitos da notória especialização da pessoa jurídica e da natureza singular do serviço – Procedimento licitatório indevidamente afastado - Ofensa à moralidade administrativa – Condenação apenas do Diretor do Departamento de Educação de Casa Branca que possuía vínculo empregatício (professor) com a Fundação contratada – Patente sua legitimidade para figurar no polo passivo da ação – Condenação que se mostra medida de rigor, já que dolosamente contribuiu para a contratação de sua outra empregadora - Inteligência do artigo 11, da Lei nº 8.429/92 – Dosimetria da pena realizada com estrita observância do princípio da razoabilidade/proporcionalidade – Precedente – R. Sentença mantida, neste aspecto.
+    SUCUMBÊNCIA RECÍPROCA – Indevido o seu reconhecimento ante a vedação do artigo 18, da Lei nº 7.347/85.
+    Recurso do Autor parcialmente provido.
+    Recurso do Corréu improvido.”
+    Os embargos de declaração foram rejeitados (eDOC 54, p. 136).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II, LIV, LV, XLVI, “a”, “c” e “e”; 37, caput e § 4º; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “A competência legal e administrativa para ordenar a inexigibilidade de licitação e proceder à respectiva contratação é do Prefeito Municipal, tanto que subscreveu a ambas. Se improbidade em tese houve, foi cometida pelo Prefeito Municipal, que poderia ou não contratar, que tinha o poder discricionário e competência legal para decidir, e contratar se fosse o caso.” (eDOC 55, p. 31).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 279 do STF (eDOC 55, p. 52-53).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 54, p. 89-96):
+    “Cuida-se de ação civil pública por ato de improbidade administrativa proposta pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO em face do MUNICÍPIO DE CASA BRANCA, representado por ALLAN DA SILVA COELHO e FUNDAÇÃO EDUCACIONAL GUAXUPÉ FUNDEG em razão de fraude em licitação.
+    Narra a inicial que o Réu ALLAN DA SILVA COELHO tão logo assumiu o cargo comissionado de Diretor do Departamento de Educação de Casa Branca, sob o pretexto de melhorar o magistério local, orquestrou a contratação da FUNDAÇÃO EDUCACIONAL GUAXUPÉ FUNDEG para realização do 'Programa de Formação Continuada do Magistério da Rede Municipal de Ensino', ao custo de R$ 113.244,00, comprazo de execução de 24 meses.
+    Ocorre que a contratação não foi precedida de licitação,conforme se verifica do Contrato nº 034/2009, o qual justifica a sua dispensa e inexigibilidade com fulcro nos artigos 13, VI, e 25, II, da Lei nº 8.666/93 (fls. 70).O Autor menciona que o indevido ajuste violou inúmeros princípios, tais como a legalidade, a impessoalidade e principalmente a moralidade, pois houve indevido favorecimento da FUNDEG.
+    (...)
+    Por sua vez, em que pese o disposto nos artigos 13, VI, e 25, II, da Lei nº 8.666/1993 acerca da inexigibilidade da licitação, tal possibilidade não pode ser aplicada ao caso dos autos.
+    Isto porque, não demonstrada a “notória especialização” da UNIFEG (FUNDEG) em relação a outros concorrentes, já que ausente qualquer pesquisa de mercado ou declaração do reconhecimento de tal título ou da comprovação de que a linha pedagógica buscada somente a Fundação Guaxupé pudesse prover, descaracterizando a “natureza singular” do serviço.
+    (...)
+    Infere-se da documentação lançada no processo que tais requisitos não foram observados, sendo desarrazoado o afastamento da licitação para a realização da contratação direta.
+    (...)
+    Denota-se claramente que ALLAN estava imbuído de dolo em sua conduta, vez que arquitetou o plano para a contratação, sem licitação, da UNIFEG (FUNDEG), instituição com a qual possui vínculo empregatício. Vale dizer, foi o personagem principal do ajuste e detinha plena consciência de seus atos, não lhe socorrendo o argumento de que havia parecer jurídico favorável.
+    Cumpre ressaltar a má-fé do agente, que não buscou outras propostas para a prestação do serviço, evidenciando o dirigismo da contratação de sua outra empregadora.
+    (...)
+    Dessa maneira, ainda que não reconhecido o dolo do agente público, a condenação determinada seria perfeitamente possível.
+    Todavia, considera-se superada a questão, já que constatado aqui o dolo na conduta perpetrada pelo Corréu ALLAN,concluindo-se que houve a prática do ato ímprobo, que frustrou o processo licitatório, desnaturando o caráter competitivo do certame, em manifesta violação à moralidade administrativa.
+    Assim, em relação ao Réu condenado, a improbidade administrativa está configurada, tendo em vista a prática, satisfatoriamente comprovada, de atos deletérios ao interesse público local, porquanto os documentos acostados robustecem os argumentos deduzidos na vestibular.”
+    Depreende-se desses fundamentos e daqueles que constam da ementa do acórdão recorrido, que eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que se refere ao procedimento licitatório praticado pelo recorrente, demandaria o reexame de fatos e provas e o exame da legislação infraconstitucional (Leis Federais nº 8.429/92 e 8.666/93). Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF.
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Por fim, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do Código de Processo Civil.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
