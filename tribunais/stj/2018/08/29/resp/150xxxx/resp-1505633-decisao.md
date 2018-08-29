@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ZIZA INDÚSTRIA METALÚRGICA LTDA. com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que possuiu a seguinte ementa (e-STJ fl. 190):
+EXECUÇÃO FISCAL E EMBARGOS À EXECUÇÃO. HONORÁRIOS. CONDENAÇÃO ÚNICA.
+A verba honorária deve ser arbitrada de forma única para a execução e para os embargos, a fim de evitar a dupla condenação da exequente/embargada.
+Os aclaratórios opostos foram rejeitados (e-STJ fls. 205/208).
+Em suas razões, a recorrente alega que o acórdão recorrido, ao deixar de fixar honorários sucumbenciais por ocasião da extinção dos embargos à execução, teria violado o art. 20, §§ 3º e 4º, do CPC/1973 (e-STJ fl. 233). Argumenta que, "à luz do princípio da causalidade, as despesas processuais e os honorários advocatícios devem recair sobre a parte que deu causa à propositura da ação" (e-STJ fl. 234).
+Sobre a questão, aponta, ainda, a ocorrência de divergência jurisprudencial, com o REsp 1.212.563/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 14/12/2010.
+Foram apresentadas contrarrazões às e-STJ fls. 242/246.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta à e-STJ fl. 249.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Considerado isso, importa mencionar que o presente recurso especial teve origem em embargos à execução (e-STJ fls. 4/21).
+No primeiro grau de jurisdição, a questão atinente aos honorários foi assim decidida (e-STJ fl. 140):
+Posto isso, EXTINGO os presentes embargos à execução, sem exame de mérito, pela perda do objeto.
+Sem condenação em honorários, tendo em vista que já fixados na execução fiscal.
+Sem custas processuais, por se tratar de embargos à execução (art. 7.º da Lei n. 9.289/96).
+O Tribunal de origem negou provimento à apelação interposta com a seguinte fundamentação (e-STJ fl. 187):
+Segundo a jurisprudência pacífica desta Corte e do STJ, a verba honorária deve ser arbitrada de forma única para a execução e para os embargos, a fim de evitar a dupla condenação da exequente/embargada. Nesse sentido:
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. PRETENDIDA DUPLA CONDENAÇÃO. IMPOSSIBILIDADE. 1. É pacífico o entendimento de que para evitar duplicidade de condenação, os honorários advocatícios fixados nos embargos à execução substituem aqueles fixados provisoriamente na execução fiscal, visto que a prévia estipulação de verba honorária no feito executivo, não afasta a possibilidade de novo arbitramento na sentença que decide os embargos à execução fiscal, os quais se tornam definitivos. 2. No caso, como a União foi condenada a pagar os honorários advocatícios nos embargos à execução, descabe nova condenação no momento da extinção da execução fiscal, evitando- se a dupla incidência da verba. 3. Agravo de instrumento desprovido. (TRF4, AGRAVO DE INSTRUMENTO Nº 2009.04.00.042568-3, 2ª Turma, Des. Federal OTÁVIO [NOME], POR UNANIMIDADE, D.E. 29/04/2010).
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. DUPLA CONDENAÇÃO DA UNIÃO. EMBARGOS E AÇÃO EXECUTIVA. RECONHECIMENTO EXPRESSO DA PRESCRIÇÃO. ART. 19 DA LEI Nº 10.522/2002. APLICAÇÃO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. 1. A verba honorária estabelecida nos embargos à execução fiscal abrange os honorários devidos também na ação executiva, ainda que se tratem de ações autônomas. Com efeito, uma nova fixação de honorários em favor da executada, no feito executivo, acarretaria dupla condenação da União, gerada de uma única circunstância, qual seja a insubsistência da dívida cobrada. 2. O art. 19, §1º, da Lei 10.522/02, permite ao Procurador da Fazenda reconhecer o pedido da parte autora nas matérias nele previstas, situação em que será afastada a condenação em honorários. 3. Em relação aos créditos exequendos a Fazenda Nacional concordou expressamente com a extinção do crédito, em virtude da ocorrência da prescrição, sendo aplicável o art. 19 da Lei nº 10.522/2002. 4. Sentença reformada, somente para isentar a União do pagamento de honorários advocatícios, tanto nos embargos, como na ação executiva. (TRF4, APELAÇÃO CÍVEL Nº 0020751-49.2011.404.999 9, 2ª Turma, Des. Federal LUCIANE AMARAL CORRÊA MÜNCH, POR UNANIMIDADE, D.E. 03/05/2012)
+Desse modo, já arbitrados honorários na execução fiscal, mostra-se indevida a condenação também nos embargos.
+Pois bem.
+O acórdão recorrido merece ser reformado, pois diverge do posicionamento deste Tribunal, segundo o qual:
+ nos termos da jurisprudência pacífica do STJ, os embargos à execução constituem ação autônoma e, por conseguinte, é possível a cumulação da condenação em honorários advocatícios arbitrados na ação de execução com aqueles arbitrados em embargos à execução, observado o limite percentual de 20% (art. 20, § 3º, do CPC) na soma das duas verbas (AgRg no REsp 1.559.922/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 24/11/2015, DJe 1º/12/2015).
+No mesmo sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO COM OS ARBITRADOS NOS EMBARGOS. POSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o CPC/15 ao presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - É possível a cumulação dos honorários advocatícios fixados na execução com aqueles arbitrados nos embargos, desde que a soma das condenações não ultrapasse o limite máximo de 20% (vinte por cento) estabelecido no art. 20, § 3º, do Código de Processo Civil.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.679.078/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/10/2017, DJe 30/10/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. MULTA AMBIENTAL. ART. 397 DO CÓDIGO DE PROCESSO CIVIL. ART. 1º DA LEI 9.873/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DOS REQUISITOS DA CDA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alegação de afronta ao art. 397 do Código de Processo Civil e ao art. 1º da Lei 9.873/1999, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal a quo. Incide a Súmula 211/STJ.
+2. Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da aplicação da norma federal ao caso concreto - o que não ocorreu.
+3. A aferição dos requisitos essenciais à validade da CDA demanda, em regra, reexame do conjunto fático-probatório dos autos, o que é inviável em Recurso Especial ante o óbice da Súmula 7/STJ.
+4. A jurisprudência do STJ é pacífica no sentido de ser possível cumular os honorários advocatícios fixados em Execução com os arbitrados em Embargos do Devedor, por constituírem ações autônomas, devendo-se observar o limite máximo de 20% (art. 20, § 3º, do CPC) na soma das duas verbas.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.446.378/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/11/2014, DJe 04/12/2014).
+Dessa forma, a Corte de origem deve proceder à fixação da verba honorária.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial e determino o retorno dos autos à origem para que o Tribunal fixe a verba honorária, observados os limites fixados no art. 20, CPC.
+Publique-se. Intimem-se.
