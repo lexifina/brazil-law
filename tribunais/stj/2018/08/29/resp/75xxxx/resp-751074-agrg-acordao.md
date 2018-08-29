@@ -1,0 +1,45 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. ART. 1040, II, DO CPC/2015. COFINS. SOCIEDADES PRESTADORAS DE SERVIÇO. ISENÇÃO. REVOGAÇÃO. POSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA PELO STF (RE 377.457/PR). TEMA 71.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo n. 2 do Plenário do STJ.
+2. Ao decidir o Tema 71, em repercussão geral (RE 377.457/PR), o STF entendeu ser legítima a revogação da isenção da COFINS às sociedades prestadoras de serviços: "É legítima a revogação da isenção estabelecida no art. 6º, II, da Lei Complementar 70/1991 pelo art. 56 da Lei 9.430/1996, dado que a LC 70/1991 é apenas formalmente complementar, mas materialmente ordinária com relação aos dispositivos concernentes à contribuição social por ela instituída".
+3. In casu, a Primeira Turma, ao negar provimento ao agravo regimental contra a decisão monocrática que deu provimento ao recurso especial, está em desconformidade com o entendimento do STF, motivo pelo qual deve ser realizado o juízo de retratação, nos termos do art. 1040, II, do CPC/2015.
+4. Agravo regimental provido para negar provimento ao recurso especial.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo regimental para negar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de remessa dos autos feita pela Vice-Presidência do STJ, em razão do disposto no art. 1.040, II, do CPC/2015, tendo em vista o julgamento proferido pelo STF, em sede de repercussão geral, no RE 377.457/PR (TEMA 71).
+O Recurso Extraordinário foi interposto pela FAZENDA NACIONAL, com fundamento no art. 102, inciso III, alínea a, do permissivo constitucional, em face de acórdão proferido pela Primeira Turma do STJ, que negou provimento ao agravo regimental, para manter o provimento monocrático do recurso especial do contribuinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. COFINS. ISENÇÃO. SOCIEDADES CIVIS PRESTADORAS DE SERVIÇOS. LC Nº 70/91. LEI Nº 9.430/96. DL Nº 2.397/87. PRECEDENTES. APLICAÇÃO DA SÚMULA Nº 276/STJ. ANÁLISE DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE.
+1. A Lei Complementar nº 70/91, de 30/12/1991, em seu art. 6º, II, isentou, expressamente, da contribuição da COFINS, as sociedades civis de que trata o art. 1º do Decreto-Lei nº 2.397, de 22/12/1987, sem exigir qualquer outra condição senão as decorrentes da natureza jurídica das mencionadas entidades.
+2. Em conseqüência da mensagem concessiva de isenção contida no art. 6º, II, da LC nº 70/91, fixa-se o entendimento de que a interpretação do referido comando posto em Lei Complementar, conseqüentemente, com potencialidade hierárquica em patamar superior à legislação ordinária, revela que serão abrangidas pela isenção da COFINS as sociedades civis que, cumulativamente, apresentem os seguintes requisitos:
+- sejam sociedades constituídas exclusivamente por pessoas físicas domiciliadas no Brasil;
+- tenham por objetivo a prestação de serviços profissionais relativos ao exercício de profissão legalmente regulamentada; e
+- estejam registradas no Registro Civil das Pessoas Jurídicas.
+3. Outra condição não foi considerada pela Lei Complementar, no seu art. 6º, II, para o gozo da isenção, especialmente, o tipo de regime tributário adotado para fins de incidência ou não de Imposto de Renda.
+4. Posto tal panorama, não há suporte jurídico para se acolher a tese da Fazenda Nacional de que há, também, ao lado dos requisitos acima elencados, um último, o do tipo de regime tributário adotado pela sociedade. A Lei Complementar não faz tal exigência, pelo que não cabe ao intérprete criá-la.
+5. É irrelevante o fato de a recorrente ter optado pela tributação dos seus resultados com base no lucro presumido, conforme lhe permite o art. 71 da Lei nº 8.383/91 e os arts. 1º e 2º da Lei nº 8.541/92. Essa opção terá reflexos para fins de pagamento do IR. Não afeta, porém, a isenção concedida pelo art. 6º, II, da LC nº 70/91, visto que esta não colocou como pressuposto para o gozo da isenção o tipo de regime tributário seguido pela sociedade civil.
+6. A revogação da isenção pela Lei nº 9.430/96 fere, frontalmente, o princípio da hierarquia das leis, visto que tal revogação só poderia ter sido veiculada por outra lei complementar.
+7. Precedentes das 1ª e 2ª Turmas desta Corte Superior.
+8. Aplicação da Súmula nº 276, aprovada, à unanimidade, pela Primeira Seção desta Corte Superior, em Sessão realizada em 14/05/2003, a qual dispõe "As sociedades civis de prestação de serviços profissionais são isentas de Cofins, irrelevante o regime tributário adotado".
+9. No curso de recurso especial não há lugar para se discutir, com carga decisória, preceitos constitucionais. Ao STJ compete, unicamente, unificar o direito ordinário federal, em face de imposição da Carta Magna. Na via extraordinária é que se desenvolvem a interpretação e a aplicação de princípios constantes no nosso Diploma Maior. A relevância de tais questões ficou reservada, apenas, para o colendo STF. Não pratica, pois, omissão o acórdão que silencia sobre alegações da parte no tocante à ofensa ou não de regra posta na Lei Maior.
+10. Agravo regimental não-provido.
+
+Embargos de Declaração rejeitados.
+A Fazenda Nacional sustentou, em seu agravo regimental e no recurso extraordinário, em síntese, a legitimidade da revogação da isenção da COFINS às sociedades civis prestadoras de serviços pela Lei 9.430/1996.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. ART. 1040, II, DO CPC/2015. COFINS. SOCIEDADES PRESTADORAS DE SERVIÇO. ISENÇÃO. REVOGAÇÃO. POSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA PELO STF (RE 377.457/PR). TEMA 71.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo n. 2 do Plenário do STJ.
+2. Ao decidir o Tema 71, em repercussão geral (RE 377.457/PR), o STF entendeu ser legítima a revogação da isenção da COFINS às sociedades prestadoras de serviços: "É legítima a revogação da isenção estabelecida no art. 6º, II, da Lei Complementar 70/1991 pelo art. 56 da Lei 9.430/1996, dado que a LC 70/1991 é apenas formalmente complementar, mas materialmente ordinária com relação aos dispositivos concernentes à contribuição social por ela instituída".
+3. In casu, a Primeira Turma, ao negar provimento ao agravo regimental contra a decisão monocrática que deu provimento ao recurso especial, está em desconformidade com o entendimento do STF, motivo pelo qual deve ser realizado o juízo de retratação, nos termos do art. 1040, II, do CPC/2015.
+4. Agravo regimental provido para negar provimento ao recurso especial.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Dito isso, o caso comporta exercício do juízo de retratação, nos termos do art. 1.030, II, do CPC/2015.
+Observa-se que, no julgamento do agravo regimental, concluiu-se: "A revogação da isenção pela Lei nº 9.430/96 fere, frontalmente, o princípio da hierarquia das leis, visto que tal revogação só poderia ter sido veiculada por outra lei complementar".
+Ocorre, porém, que o referido entendimento restou superado recentemente pelo Supremo Tribunal Federal, que no RE 377.457/PR, firmou a seguinte orientação:
+Contribuição Social sobre o faturamento - COFINS (CF, art. 195, I). 2. Revogação pelo art. 56 da Lei 9.430/96 da isenção concedida às sociedades civis de profissão regulamentada pelo art. 6º, II, da Lei Complementar 70/91. Legitimidade. 3. Inexistência de relação hierárquica entre lei ordinária e lei complementar. Questão exclusivamente constitucional, relacionada à distribuição material entre as espécies legais. Precedentes. 4. A LC 70/91 é apenas formalmente complementar, mas materialmente ordinária, com relação aos dispositivos concernentes à contribuição social por ela instituída. ADC 1, Rel. Moreira Alves, RTJ 156/721. 5. Recurso extraordinário conhecido mas negado provimento.
+Ante o exposto, em juízo de retratação, dou provimento ao agravo regimental interposto pela Fazenda Nacional (fls. 271/296) para JULGAR IMPROCEDENTE o recurso especial interposto por PSP MEDICAL CARE ASSISTÊNCIA MÉDICA S/C LTDA.
+É como voto.
