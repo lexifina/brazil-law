@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO (FAZENDA NACIONAL) contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. ITR. SUSPENSÃO DE CRÉDITOS FISCAIS PERANTE A UNIÃO E O INSS. AMPARADO POR DECISÃO LIMINAR. AUSÊNCIA DE ESPECIFICAÇÃO DOS CRÉDITOS. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. TRIBUTO SUJEITO A LANÇAMENTO DE OFÍCIO. NOTIFICAÇÃO PARA PAGAMENTO. FLUÊNCIA DO PRAZO PRESCRICIONAL. SUPREMACIA DO CTN (ART. 174) SOBRE A LEI DE EXECUÇÕES FISCAIS (ART. 20, § 3º). LAPSO PRESCRICIONAL CONSUMADO.
+I - A Fazenda Nacional não juntou aos autos nenhuma prova especificando qual o crédito fiscal relativo ao Imposto Territorial Rural - ITR, exercício / 1996, que embasa o feito executivo, estaria suspenso. Portanto, o ônus da prova caberia a apelante, que não logrou êxito em comprovar a inexistência da ocorrência de suspensão de exigibilidade dos créditos, objeto da execução fiscal.
+II - De acordo com a norma contida no art. 174 do CTN, o início do prazo prescricional para a cobrança do crédito tributário é a data da constituição definitiva.
+III - Analisando, pois, se ocorreu a prescrição da pretensão executória, no caso dos autos, o débito cobrado se refere à dívida oriunda que embasa a CDA, objeto da demanda, cujo lançamento de oficio realizada pela Fazenda Nacional ocorreu em 21/10/1996, com vencimento que abrange a data de 30/12/1996, conforme documento carreado à fl. 02, e o ajuizamento da execução fiscal ocorreu na data de 14/06/2002, ou seja, quando decorrido o prazo prescricional.
+IV - Logo, dispunha a Fazenda Nacional do prazo de 05 (cinco) anos, a partir da notificação do executado 21/10/1996 para interpor o executivo fiscal. Sendo que, o feito foi ajuizado em 14/06/2002, portanto, operou-se a prescrição da pretensão executória.
+V - Apelação improvida.
+Nas razões do especial alega violação do art. 535, II, do CPC/1973 e dos arts. 151, IV, e 174 do CTN, sustentando as seguintes teses:
+a) existência de negativa de prestação jurisdicional, tendo em vista suposta omissão do Tribunal de origem quanto ao enfrentamento de questão fática, relativa à suspensão da exigibilidade do crédito executado, oriunda de decisão proferida em mandado de segurança, o que implicou suspensão do lapso prescricional de 05 (cinco) anos para o ajuizamento do executivo fiscal;
+b) no mérito, ratificou os fundamentos que embasaram a alegada ofensa ao art. 535 do CPC/1973.
+Com contrarrazões, o recurso foi admitido pelo Tribunal de origem.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de embargos opostos pela recorrida à execução fiscal movida pela União em seu desfavor.
+Em primeiro grau de jurisdição, o Juízo da 3ª Vara da Comarca de Caucaia - CE acolheu os embargos, para extinguir o processo, nos termos do art. 269, IV, do CPC/1973, ante o reconhecimento da prescrição da pretensão executiva.
+Irresignada, a recorrente interpôs recurso de apelação que foi desprovido pelo TRF da 5ª Região. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fl. 125):
+No tocante à alegação da Fazenda Nacional de que o crédito tributário, objeto dos embargos á execução, teve a sua exigibilidade suspensa por força de medida liminar proferida pelo Juízo da 1ª Vara Federal do Ceará, no Mandado de Segurança n. 99.6075-0 (fls. 29/32), verifico que a referida liminar (fls. 29/32) não especifica quais créditos estariam suspensos por decisão judicial, se limitando a suspender de forma genérica os débitos que a embargante teria perante a União e o INSS.
+Sendo, assim, a Fazenda Nacional não juntou aos autos nenhuma prova especificando qual o crédito fiscal relativo ao Imposto Territorial Rural - ITR, exercício / 1996, que embasa o feito executivo, estaria suspenso. Portanto, o ônus da prova caberia a apelante, que não logrou êxito em comprovar a inexistência da ocorrência de suspensão de exigibilidade dos créditos, objeto da execução fiscal.
+Os embargos de declaração opostos pela recorrente foram rejeitados.
+Pois bem.
+a) Negativa de prestação jurisdicional
+Não há violação do art. 535, II, do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da leitura do excerto do acórdão supracitado, constata-se que o Tribunal de origem foi expresso ao ratificar o seu entendimento de que a liminar proferida no mandado de segurança citado pela União não especifica os créditos que estariam suspensos por decisão judicial. Acrescentou a Corte que a Fazenda Nacional não cumpriu com seu ônus probatório acerca da existência de efetiva suspensão da exigibilidade do crédito executado.
+Desse modo, não se observa nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+b) Violação dos arts. 151, IV, e 174 do CTN
+Quanto à alegação de que existe decisão judicial que suspendeu a exigibilidade do crédito objeto da execução fiscal, não merece conhecimento o recurso especial, tendo em vista que a conclusão do acórdão recorrido deriva da análise do conjunto fático-probatório dos autos.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal a quo sobre a questão demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial, e nesta parte, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
