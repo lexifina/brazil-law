@@ -1,0 +1,50 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E RESPECTIVA ASSOCIAÇÃO. ELEMENTARES DO CRIME DO ART. 35 DA LEI 11.343/06. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PREJUDICIALIDADE. MERA REPETIÇÃO. ORDEM NÃO CONHECIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DENIS ALMEIDA CHIAVELLI, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Paraná (Apelação Criminal nº 671.489-8).
+Consta dos autos que o paciente foi condenado pela prática do crime descrito no art. 33, caput c/c 40, inciso V e 35, todos da Lei 11.343/06, ao cumprimento de 8 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 1.283 dias-multa mínimos.
+O Tribunal de origem negou provimento ao apelo defensivo.
+No presente writ, o impetrante alega que, "Compulsando os autos, impossível olvidar que o V. Acórdão ora recorrido violou o disposto em Lei Federal, ao negar provimento ao recurso da Defesa para o fim de manter a condenação do paciente como incurso no artigo 35, da Lei n. 11.343/06, com base em fundamentos genéricos e que não indicam estabilidade e permanência." (fl. 4, e-STJ).
+Alega, ainda, que "uma vez afastada a condenação pelo crime de associação para fins de tráfico, via de consequência, mister se faz a aplicação do redutor previsto no art. 33, §4º, da Lei n. 11.343/06, em seu patamar máximo." (fl. 7, e-STJ).
+Requer, liminarmente, a readequação da pena e o direito de aguardar em liberdade o julgamento do presente writ. No mérito, pugna pela exclusão da condenação pelo art. 35 da Lei 11.343/06; pela aplicação do redutor previsto no artigo 33, §4º, na fração de 1/2, bem como pela aplicação do regime inicial semiaberto.
+Liminar indeferida às fls. 44/48.
+Informações prestadas às fls. 51/155.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 159/160).
+Estes autos foram distribuídos por prevenção do HC n.º 409.617/PR, impetrado em favor do ora paciente, cuja ordem restou denegada.
+É o relatório.
+Decido.
+A controvérsia jurídica cinge-se à ocorrência do crime de associação criminosa e aplicação dos consectários sancionatórios decorrentes de eventual reconhecimento de sua inexistência.
+De pronto, no tocante à presença/ausência das elementares para fins de tipificação do crime de associação criminosa, é de ver que a temática não fora sequer aventada perante o Tribunal de origem, a ilustrar indevida supressão de instância. Com efeito, o apelo de Dênis apenas contestou aspectos relacionados à dosagem das penas, como se pode notar do seguinte excerto do aresto objurgado (fl. 88):
+No mérito, busca a redução da pena imposta, alegando não estar adequada aos ditames legais. Sustenta a menoridade do apelante não foi devidamente analisada pelo magistrado. Além disso, sustenta que deve ser analisado na dosimetria da pena a hipótese prevista no § 4o do art. 33 da Lei n. 11.343/06. Sustenta ainda que o regime fechado foi erroneamente aplicado, diante do entendimento a respeito da inconstitucionalidade do § 1o do art. 2o da Lei n. 8072/90, requerendo a fixação do regime aberto. Pede ainda a revogação da prisão do apelante.
+Nessa vereda, como dito alhures, o redirecionamento da matéria diretamente a esta Corte culmina em indevida supressão de instância, inviabilizando o seu exame. Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. TRÁFICO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO, RECEPTAÇÃO, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. NULIDADE NO CUMPRIMENTO DA ORDEM DE BUSCA E APREENSÃO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Acerca da suposta nulidade no cumprimento do mandado de busca e apreensão, observa-se que não houve manifestação por parte do Tribunal de origem, o que impede a análise direta da tese por esta Corte por configurar indevida supressão de instância. Precedentes.
+3. Para a decretação da prisão preventiva é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+5. Caso em que a prisão cautelar foi mantida em razão da gravidade concreta das condutas imputadas, notadamente pela apreensão de elevada quantidade de drogas (cerca de 316g de maconha e 1.171,881g de cocaína) e de material voltado para a produção e comercialização dos entorpecentes, além de uma pistola, acessórios e munições.
+Ainda, de acordo com o decreto, os objetos apreendidos por ocasião do flagrante indicam que o paciente e seus irmãos se dedicavam ao refino da droga por meio de um laboratório instalado na residência.
+Ademais, o paciente é reincidente em crime de tráfico de entorpecentes, o que denota o risco de reiteração. Precedentes.
+6. Habeas corpus não conhecido.
+(HC 440.942/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/08/2018, DJe 15/08/2018)
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. INTERCEPTAÇÃO TELEFÔNICA. NULIDADES. NÃO OCORRÊNCIA. DENÚNCIA ANÔNIMA. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. FUNDAMENTAÇÃO CONCRETA. INTEGRANTE DE GRUPO CRIMINOSO. PARTICIPAÇÃO DE ADOLESCENTE. ILEGALIDADE. AUSÊNCIA. APLICAÇÃO DE MEDIDAS ALTERNATIVAS À PRISÃO. INSUFICIÊNCIA À GARANTIA DA ORDEM PÚBLICA.
+1. A alegação de que a investigação policial que culminou na prisão temporária do paciente seria nula, uma vez que embasada em denúncias anônimas, não foi debatida pelo Tribunal de origem, não podendo nesta sede ser analisada, sob pena de indevida supressão de instância.
+2. É lícito à autoridade policial representar pela quebra de sigilo telefônico dos investigados, a teor do art. 3º, I, da Lei n.
+9.296/96, sendo que a jurisprudência desta Corte não denota a ilegitimidade da Polícia Militar no requerimento da medida constritiva de interceptação telefônica, desde que ratificada pelo Ministério Público competente e devidamente autorizada pelo juízo, sob pena de ineficiência do procedimento investigatório.
+3. Inexiste nulidade nas decisões que deferiram as interceptações das linhas telefônicas requeridas pelo Parquet estadual, uma vez que amparadas pela legalidade e direcionadas à busca da verdade real, mesmo porque poderá o réu comprovar a sua inocência, se for o caso, no decorrer da instrução criminal por meio de ampla análise probatória, o que se configura inviável nos estreitos limites desta ação constitucional.
+4. A manutenção dos pressupostos que justificaram a decretação da interceptação telefônica permite a sucessiva prorrogação, desde que devidamente fundamentada, como ocorreu in casu. Precedentes desta Corte.
+5. Apresentada fundamentação concreta para a decretação da prisão preventiva, explicitando que o paciente integra organização criminosa voltada para a prática de tráfico de entorpecentes e comércio ilegal de armas de fogo, bem como pelo envolvimento de adolescente no cometimento dos crimes, demonstrando especial desvalor da conduta, não se há falar em ilegalidade do decreto de prisão preventiva.
+6. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. Precedentes.
+7. A estreita via do habeas corpus não comporta aprofundada dilação probatória, o que inviabiliza a análise de tese concernente à negativa de autoria que será analisada no cerne da ação penal.
+8. Recurso em habeas corpus improvido.
+(RHC 90.125/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/08/2018, DJe 15/08/2018)
+Na sequência, não havendo nenhum reproche a incidir sobre a condenação em testilha, nenhuma consequência há de ocorrer sobre o exame dosimétrico, se tratando de hipótese de prejudicialidade. Sem embargo, impende registrar que os aspectos sancionatórios aqui contestados já foram objeto de exame por esta Corte no HC prevento, cuja ementa é a seguinte:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI N.º 11.343/06. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. PLEITOS DE ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA E DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ANÁLISE PREJUDICADA. HABEAS CORPUS DENEGADO.
+1. Não é possível a incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/06, haja vista que a referida benesse não é aplicável ao réu também condenado pelo crime de associação pra o tráfico de drogas, tipificado no artigo 35 da mesma lei. Precedentes.
+2. Negado o pleito de aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/06, resta prejudicada análise dos pedidos de alteração do regime inicial de cumprimento de pena e de substituição da pena privativa de liberdade por restritiva de direitos.
+3. Habeas corpus denegado.
+Ao fim e ao cabo, há mera repetição das demais teses outrora alinhavadas, sendo mesmo a hipótese de não conhecimento da impetração.
+Portanto, não há qualquer ilegalidade a ser sanada.
+Diante do exposto, com fundamento no art. 34, XVIII, "a", e XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, ao arquivo.
