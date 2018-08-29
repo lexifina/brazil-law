@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Terceira Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “DIREITO PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. LITIGÂNCIA DE MÁ-FÉ. MULTA. CERTIDÃO DE DÍVIDA ATIVA. PENHORA POR MEIO ELETRÔNICO. CABIMENTO. PRINCÍPIO DA MENOR ONEROSIDADE. PROVA. AUSÊNCIA.
+    1. A alteração da verdade dos fatos, bem como o uso infindável de meios de impugnação, enseja a aplicação de multa por litigância de má-fé, cuja redução, de 5% (cinco por cento) para 1% (um por cento), se impõe, para a necessária adequação aos fatos.
+    2. Válida a certidão de dívida ativa que contém todos os requisitos legais, não se prestando para desnaturá-la fundamentos genéricos.
+    2. Como consolidado no Superior Tribunal de Justiça, aplicável a Taxa SELIC – Sistema Especial de Liquidação e de Custódia, a partir de 1º/1/1996, na atualização monetária do indébito tributário, não podendo ser cumulada com qualquer outro índice, seja de juros ou atualização monetária.
+    3. Agravo de instrumento de POSTO DE SERVIÇOS BIG AÇO LTDA. parcialmente provido.”
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos XXXIV, “a”, XXXV, LIV, e LV, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apoia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o prequestionamento implícito da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE n° 353.514/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 1°/10/10 destaquei).
+    Ressalte-se, ainda, que o acolhimento da pretensão recursal não prescinde do reexame da legislação infraconstitucional pertinente e dos fatos e provas dos autos, o que é incabível no âmbito recursal extraordinário. Incidência da Súmula nº 279 da Suprema Corte.
+    Por fim, registre-se que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
