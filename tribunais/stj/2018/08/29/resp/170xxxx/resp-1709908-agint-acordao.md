@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO QUE CONSIGNA A IMPOSSIBILIDADE DE ESTABELECER O ALCANCE DA LEGITIMIDADE ATIVA DA RECORRENTE PARA IMPETRAR O WRIT. DISCUSSÃO SOBRE A NÃO OCORRÊNCIA DE LITISPENDÊNCIA. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA DE FATO. ALEGADA VIOLAÇÃO AO ART. 127, II, DO CTN. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. FUNDAMENTAÇÃO DEFICIENTE.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula 284/STF).
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 375/387) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO QUE CONSIGNA A IMPOSSIBILIDADE DE ESTABELECER O ALCANCE DA LEGITIMIDADE ATIVA DA RECORRENTE PARA IMPETRAR O WRIT. DISCUSSÃO SOBRE A NÃO OCORRÊNCIA DE LITISPENDÊNCIA. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF. RECURSO NÃO CONHECIDO.
+A agravante alega, em síntese, o seguinte: a) "a preocupação da instância inferior sobre o ".. alcance da legitimidade processual.." não foi pautada em alguma explicação de fato" (fl. 380); b) "não é questão de fato porque o Código Tributário Nacional consagra o Princípio da Autonomia dos Estabelecimentos das empresas que tenham diferentes CNPJ" (fl. 384); c) "cada filial distinta, bem como a matriz, são tratadas de forma independente pelo fisco" (fl. 385); d) "a decisão contrariou o disposto no artigo 127, inciso II, do Código Tributário Nacional, ao reconhecer a ilegitimidade ativa da filial em impetrar Mandado de Segurança no qual se pretende afastar a incidência de contribuições previdenciárias, bem como a jurisprudência deste Colendo Superior Tribunal de Justiça" (fl. 386); e e) sucessivamente, ao menos, deve ocorrer a modulação "no sentido de manter a orientação jurisprudencial anterior" (fl. 387).
+Requer seja provido o recurso.
+Não houve apresentação de contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO QUE CONSIGNA A IMPOSSIBILIDADE DE ESTABELECER O ALCANCE DA LEGITIMIDADE ATIVA DA RECORRENTE PARA IMPETRAR O WRIT. DISCUSSÃO SOBRE A NÃO OCORRÊNCIA DE LITISPENDÊNCIA. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA DE FATO. ALEGADA VIOLAÇÃO AO ART. 127, II, DO CTN. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. FUNDAMENTAÇÃO DEFICIENTE.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula 284/STF).
+3. Agravo interno não provido.
+VOTO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Conquanto a agravante alegue que o writ fora por ela impetrado na condição de filial, com o escopo de afastar a incidência de contribuição previdenciária, extrai-se do acórdão recorrido que o juízo de primeiro grau reconheceu a existência de litispendência, adotando o entendimento de que a ação proposta pela matriz abrangeria as demais unidades.
+De seu turno, a agravante defende a tese segundo a qual as ações foram ajuizadas por filiais distintas, com CNPJ diversos, descabendo cogitar-se, portanto, de litispendência. Com base nessa premissa, pugna pelo reconhecimento de sua legitimidade ativa, enquanto filial, para impetrar mandado de segurança na qual se pretende afastar a incidência de contribuições previdenciárias.
+Contudo, o Tribunal de origem assentou que, no caso concreto, considerando a via eleita (ação mandamental), impossível uma análise mais acurada sobre tal questão, para que se consiga estabelecer o alcance da legitimidade processual da impetrante, ora agravante e, assim, afastar ou não a litispendência acolhida na sentença, fazendo-o nos seguintes termos (fl. 228):
+"É certo que o STJ tem o entendimento de que a matriz não tem legitimidade para representar judicialmente as filiais nos casos em que o fato gerador do tributo se operar de maneira individualizada, em cada estabelecimento comercial.
+(..)
+Como se vê, torna-se necessária uma análise mais acurada sobre tal questão, para que se consiga estabelecer o alcance da legitimidade processual da impetrante e, assim, afastar ou não a litispendência acolhida na sentença.
+Ocorre que a via eleita escolhida (ação mandamental), não possibilita dilação probatória, sendo certo que a documentação constante nos autos é insuficiente para tanto."
+Logo, acolher a pretensão recursal, para efeito de reconhecer a legitimidade ativa da agravante, na condição de filial, para impetrar o mandado de segurança e, em consequência, afastar o reconhecimento da litispendência, requer o revolvimento da matéria de fato, providência interditada na via do recurso especial, por ambas as alíneas do permissivo constitucional, em razão do óbice contido na Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. VÍCIOS DO ART. 535 DO CPC. INEXISTÊNCIA. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. MANDADO DE SEGURANÇA. DOCUMENTOS DOS AUTOS QUE NÃO PROVAM DIREITO LÍQUIDO E CERTO. AFERIÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Embargos de declaração recebidos como agravo regimental, em obediência aos princípios da economia processual e da fungibilidade. EDcl no AgRg no REsp 1.208.878/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30.5.2011.
+2. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, o que não foi demonstrado in casu. Incidência da súmula 284/STF.
+3. O Tribunal a quo delineou a controvérsia dentro do universo fático-comprobatório. Ademais, entende esta Corte que, para se aferir a existência de prova pré-constituída do direito líquido e certo, imprescindível o reexame dos fatos e provas da causa, vedado segundo os termos da Súmula 7/STJ.
+4. O recorrente não realizou o devido cotejo analítico, nos moldes exigidos pelo art. 255, §§ 1º, 2º e 3º, do RISTJ, c/c o art. 541, parágrafo único, do CPC, impedindo a admissão do especial pela divergência.
+5. Além disso, este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+Embargos de declaração recebidos como agravo regimental, mas improvido.
+(EDcl no AREsp 798.705/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 01/12/2015, DJe 10/12/2015) (grifou-se)
+Outrossim, não bastasse o referido impeditivo sumular, tem-se que o dispositivo tido por contrariado não detém comando normativo suficiente apto a infirmar o fundamento central sobre o qual apoiou-se o aresto recorrido, porquanto inviável, nesta instância excepcional, analisar se o fato gerador do tributo, na hipótese vertente, se deu de forma individualizada entre os estabelecimentos comerciais, como pretende a agravante. Tal circunstância atrai, por analogia, a incidência da Súmula 284/STF.
+Nesse sentido, destaca-se:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONCESSÃO DE BENEFÍCIO. ACIDENTE DE TRABALHO. NEXO CAUSAL NÃO DEMONSTRADO. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 no Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+(..) VI - Agravo Interno improvido.
+(AgInt no REsp 1676776/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+Assim, não merece reparo a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno. É o voto.
