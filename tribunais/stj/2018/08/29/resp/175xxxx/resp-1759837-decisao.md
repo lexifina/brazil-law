@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1802):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PROCEDIMENTO ESPECIAL DE RESSARCIMENTO. PRAZO PARA CONCLUSÃO DE PROCESSO ADMINISTRATIVO E RESSARCIMENTO ANTECIPADO. PORTARIA MF Nº 348/2010. ANÁLISE NA VIA ADMINISTRATIVA. COMPENSAÇÃO DE OFÍCIO. INADEQUAÇÃO.
+1. O direito alegado líquido e certo é extraído da Portaria MF de nº 348/2010, especificamente do seu art. 2o, que estabelece diversas condições para que o requerente se habilite ao procedimento do ressarcimento especial. 2. Determinar à autoridade o cumprimento do prazo estabelecido em lei, para análise de pedido administrativo de ressarcimento e concretização do direito, não constitui de forma alguma usurpação da competência do órgão administrativo pelo Poder Judiciário. Em verdade, se trata apenas de determinação judicial para que a autoridade competente atenda ao preceito legal, cumprindo seu dever. 3. Caracterizada a mora do Fisco em reconhecer o direito do contribuinte de aproveitar-se do crédito tributário, legitima-se a incidência de correção monetária, de forma a evitar que a Fiscalização se aproveite da própria mora e que ocorra enriquecimento sem causa. A matéria já foi apreciada pelo STJ sob o rito dos recursos repetitivos, disciplinado no art. 543-C do CPC (REsp nº 1.035.847/RS, Rei. Ministro LUIZ FUX, Ia Seção, julgado em 24/06/2009, DJe 03/08/2009).
+Opostos embargos declaratórios por ambas as partes, foram rejeitados os da União e acolhidos os do ora recorrido para reconhecer a existência de inconsistência no julgado, de modo a suprimir o item " 4. Possibilidade de correção monetária do crédito tributário quando há mora do Fisco ao examinar pedido para seu reconhecimento" (cf. fl. 1839).
+A parte recorrente aponta violação ao art. 24 da Lei nº 11.457/2007. Sustenta, em resumo, que "a correção monetária, na espécie, deve incidir apenas após a fluência do prazo de 360 dias" (fl. 1853).
+Contrarrazões às fls. 1864/1880.
+Parecer do Ministério Público Federal sem apreciação do mérito da causa (fls. 1905/1909).
+É o relatório.
+A matéria pertinente ao art. 24 da Lei nº 11.457/2007 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
