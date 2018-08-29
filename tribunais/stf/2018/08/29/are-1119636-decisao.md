@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+    Compulsando os autos, verifica-se que o agravo é intempestivo. Com efeito, a decisão agravada foi publicada no DJEERJ em 23.3.2017, quinta-feira (eDOC 2, p. 92). Entretanto, a petição recursal foi protocolada na Corte de origem em 26.4.2017 (eDOC 2, p. 107), quando já superado o prazo estabelecido no art. 1.003, § 5º, do Código de Processo Civil.
+    Ressalta-se que, nos termos da jurisprudência pacífica desta Corte, a interposição de recurso incabível não suspende nem interrompe o prazo recursal. Confira-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. NÃO CABE AGRAVO REGIMENTAL CONTRA ACÓRDÃO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. A INTERPOSIÇÃO DE RECURSO INCABÍVEL NÃO SUSPENDE NEM INTERROMPE O PRAZO RECURSAL. PRECEDENTES. AGRAVO REGIMENTAL NÃO CONHECIDO. BAIXA IMEDIATA.” (ARE 774095 AgR-ED-AgR-AgR-segundo, Relator(a): Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, julgado em 24/11/2017, PROCESSO ELETRÔNICO DJe-280 DIVULG 05-12-2017 PUBLIC 06-12-2017).
+    Cumpre salientar, ainda, que o recorrente não comprovou a ocorrência de feriado local no ato da interposição do recurso, conforme o disposto no art. 1.003, § 6º, do diploma normativo acima mencionado. Nessa linha, confira-se:
+    “Agravo regimental no recurso extraordinário com agravo. intempestividade. 1. O agravante não observou o prazo de 15 (quinze) dias úteis para a interposição do agravo manejado contra a decisão de inadmissão do recurso extraordinário, segundo dispõe o § 5º do art. 1.003 do Código de Processo Civil. 2. O art. 1.003, § 6°, do novo CPC determina que [o] recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. 3. agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do cpc). 4. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do Novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais em favor do recorrido pela Corte de origem.” (ARE 1.033.168-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 18.9.2017).
+    Ante o exposto, não conheço do recurso, nos termos do art. 932, III, do CPC.
+    Com fulcro no art. 85, §11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo, ressalvada a gratuidade de justiça.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
