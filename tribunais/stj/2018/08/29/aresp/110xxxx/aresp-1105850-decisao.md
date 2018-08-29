@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Ceará, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 809):
+PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO REGIMENTAL CONTRA JULGAMENTO MONOCRÁTICO DE APELAÇÃO. CÉDULA DE CRÉDITO RURAL. IMPOSSIBILIDADE DE COMISSÃO DE PERMANÊNCIA E DA MULTA DE 10%. PRECEDENTES DO STJ. RECURSO IMPROVIDO.
+1. Cuidam os presentes autos de agravo regimental, interposto por [NOME], contra decisão monocrática deste Relator que deu provimento a apelação interposta pelo ora agravado para reformar a sentença vergastada para julgar a lide improcedente ante a impossibilidade jurídica do pedido, tudo conforme o entendimento esposado no RE nº 632853.
+2. Irresignado, [NOME] agrava às fls. 01/19, momento no qual aduz que o espelho (gabarito) da questão de n. 04 da prova de direito ambiental e administrativo confronta o disposto no §1º do art. 14, da lei 12.651/12.
+Desta forma, resta configurado o erro material na correção de sua prova. Ao final, requer a reforma do julgado combatido para que seja atendido o princípio da legalidade ou, caso não seja provido seu recurso, devem os honorários serem afastados ou minorados.
+3. Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do
+certame. Precedentes. 4. Recurso extraordinário provido. (RE 632853, Relator(a):
+Min. GILMAR MENDES, Tribunal Pleno, julgado em 23/04/2015, ACÓRDÃO
+ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-125 DIVULG
+26-06-2015 PUBLIC 29-06-2015).
+4. Agravo Regimental conhecido, mas desprovido.
+No especial obstaculizado, a parte recorrente apontou violação do art. 14, § 1º da Lei n. 12.651/2012, uma vez que a ilegalidade consiste no fato de que o gabarito da questão 04 da prova discursiva viola o estabelecido na legislação e na jurisprudência (e-STJ fl. 593).
+Contrarrazões foram apresentadas às e-STJ fls. 610/617.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feito esse registro, observa-se que não merece prosperar a presente irresignação.
+Com efeito, acolher as razões defendidas pelo apelo nobre demandaria o reexame do conjunto fático-probatório dos autos, inviável na via de recurso especial (Súmula 7 do STJ). A propósito, registro as teses expostas no recurso especial (e-STJ fls. 593/594):
+Nesse diapasão, após longa análise sobre o caso em comento e, considerando o texto do art. 14, §19 da Lei ng 12.651/2012, o candidato, ora Recorrente, PAUTADO NA LEGALIDADE, respondeu a questão decidindo pela improcedência da ação,considerando o texto do art. 14, §le da Lei n5 12.651/2012, conforme abaixo:
+ ..
+Ocorre que a banca examinadora em seu espelho (gabarito) entendeu como correta a resposta que julgou pela procedência da ACP, vez que a localização da reserva legal na propriedade rural deve ser aprovada pelo órgão estadual integrante do SISNAMA ou por instituição por ele habilitada, desde que seja ela também integrante do SISNAMA em decorrência da aplicação do art. 14, § 1º e do art. 82 do Código Florestal, ferindo o dispositivo de lei mencionado, desprezando completamente a vontade do legislador.
+Importante destacar que a interpretação sistemática que é sustentada pelo espelho disponibilizado fora realizada tão somente pela banca examinadora, vez que a matéria sequer fora discutida no âmbito jurisprudencial, não havendo entendimento nem do STJ, muito menos do STF a esse respeito. Ademais, a banca examinadora acrescentou texto na norma (desde que seja ela também integrante do SISNAMA) que jamais existiu,suplantando a vontade do legislador.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. CRITÉRIOS DE CORREÇÃO DE PROVA DISCURSIVA. INVIABILIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. No julgamento do tema em Repercussão Geral 485, o Supremo Tribunal Federal concluiu não competir ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas, salvo excepcional juízo de compatibilidade do conteúdo das questões com o previsto no edital do certame (RE 632.853/CE, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 29.6.2015).
+2. Na hipótese dos autos, as instâncias ordinárias, com base no conjunto fático-probatório dos autos, consignaram que os critérios de correção não se afastaram do disposto no edital e programa do concurso.
+3. A inversão do que foi decidido pelo Tribunal de origem, tal como propugnado nas razões do Apelo Especial, demandaria, necessariamente, novo exame do acervo fático-probatório dos autos, providência, todavia, que encontra óbice no enunciado 7 da Súmula do Superior Tribunal de Justiça. 4. Agravo Interno do particular a que se nega provimento. (Grifos acrescidos).
+Soma-se a isso o entendimento desta Corte, no sentido de que "é firme a jurisprudência no sentido da impossibilidade de incursão do Poder Judiciário nos critérios de correção de prova de concurso público, consoante entendimento consolidado no Supremo Tribunal Federal" (AgInt RMS 52.345/PR, Rel. Min. FRANCISCO FALCÃO, Segunda Turma, DJe 13/04/2018).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11º, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
