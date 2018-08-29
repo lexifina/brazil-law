@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 216):
+AGRAVO REGIMENTAL - Negativa de seguimento a agravo de instrumento, com base no art. 557, caput do CPC, mantendo-se a decisão que não concedeu efeito suspensivo aos embargos à execução. Ausência dos requisitos do art. 739-A, § 1º, do CPC, que devem apresentar-se de forma cumulativa - Possibilidade, ademais, de prosseguimento da execução em face dos coobrigados avalistas do título exequendo - Obrigação do devedor solidário é autônoma e independente da situação da devedora principal em recuperação judicial - Decisão mantida - recurso negado.
+Os recorrentes, ADOLFO TIMM e JANAINA CARLA TIMM COUTINHO, intimados, por meio do despacho de fl. 316 (e-STJ), para que se manifestassem se persistia o interesse no julgamento do recurso especial, quedaram-se silentes, consoante certidão de fl. 318 (e-STJ).
+Tendo em vista a inércia dos recorrentes, que deixaram transcorrer in albis o prazo assinalado, bem como o julgamento dos embargos à execução aos quais está vinculado o presente feito (Processo n. 1078196-70.2014.8.26.0100), constata-se a superveniente falta de interesse processual, por perda de objeto.
+Ante o exposto, JULGO PREJUDICADO o recurso por perda de objeto.
