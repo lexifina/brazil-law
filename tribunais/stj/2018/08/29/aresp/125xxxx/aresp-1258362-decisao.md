@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO DO ART. 932, INCISO III, DO CPC. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por CESP COMPANHIA ENERGÉTICA DE SÃO PAULO contra decisão proferida pelo Tribunal de Justiça do Mato Grosso do Sul que negou seguimento a seu recurso especial.
+É o relatório.
+Passo a decidir.
+O presente recurso não deve ser conhecido em virtude da ausência de impugnação específica ao fundamento da decisão agravada.
+O juízo negativo de admissibilidade está fundamentado na conformidade do acórdão recorrido com o entendimento deste Tribunal Superior, transcrevendo as ementas de alguns julgados desta Corte para lastrear tal assertiva (AgRg no REsp 1203030/RS, AgRg no REsp 991.490/RS e AgRg no REsp 1214711/RS), motivo pelo qual aplicou a Súmula 83/STJ.
+Nas razões do agravo, a recorrente afirma que "deveria a r. decisão ater-se à verificação das condições da admissibilidade ou não do recurso", sustentando que "demonstrou em sede de Recurso Especial que o Tribunal de Justiça não aplicou corretamente as questões jurídicas contidas nos artigos, 4º, 6º, 139, IX, 203, § § 1º e 2º, 487, I, 920, III, 1.015, 1.019 e 1.021, §1º, todos do Código de Processo Civil, pois conforme destacado o Novo Código de Processo Civil protege o princípio da primazia do julgamento do mérito e fungibilidade recursal", acrescentando que "o artigo 4º do CPC resguarda o princípio da primazia do julgamento do mérito". Assevera que "a matéria recursal merece seguimento, pois não esbarra na Súmula 83 do STJ, haja vista que em Recurso Especial a Agravante demonstrou a aplicação do princípio da primazia do julgamento do mérito, bem como o princípio da fungibilidade". Discorre sobre o "princípio recursal da fungibilidade".
+Tais razões, todavia, não impugnam o único fundamento da decisão agravada.
+Tendo o Tribunal de origem negado seguimento ao recurso especial ante a conformidade do acórdão com o entendimento desta Corte Superior, caberia à agravante evidenciar o desacerto desta conclusão, o que somente poderia ser feito com a demonstração de inaplicabilidade dos paradigmas utilizados no caso concreto ou da ausência de uma posição majoritária quanto ao tema, hipótese em que seria necessário comprovar que persiste divergência quanto ao tema.
+A recorrente, todavia, limita-se a discorrer sobre sua tese recursal de que não foram observados "o princípio da primazia do julgamento do mérito e fungibilidade recursal", não apresentando qualquer particularidade do caso concreto apta a comprovar a inaplicabilidade dos precedentes indicados na decisão agravada. Da mesma forma, não há a indicação de qualquer precedente deste Tribunal Superior, não tendo demonstrado a existência de divergência jurisprudencial no âmbito desta Corte quanto à questão indicada.
+As razões apresentadas, quando muito, seriam aptas a afastar a aplicação da Súmula 284/STF, a afastar argumento no sentido de que as razões recursais seriam deficientes, mas não podem ser admitidas como impugnação à aplicação da Súmula 83/STJ.
+Ante o exposto, com fundamento no artigo 932, inciso III, NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
