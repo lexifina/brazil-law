@@ -1,0 +1,19 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ARMAZEM DA TRAIRA BAR E RESTAURANTE LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+PROCESSUAL CIVIL. PRELIMINAR DE NULIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. ART. 940 DO CC. INDENIZAÇÃO EM DOBRO. EXIGÊNCIA DE DÍVIDA PAGA. NÃO INCIDÊNCIA. DANO MORAL. PESSOA JURÍDICA. AUSÊNCIA DE DEMONSTRAÇÃO. PEDIDO RECONVENCIONAL. AUSÊNCIA DE PREPARO. INEXISTÊNCIA DO ATO.
+1. O Superior Tribunal de Justiça decidiu que o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+2. A previsão de indenização em dobro por cobrança de dívida no art. 940 do Código Civil pressupõe que a dívida objeto de exigência indevida já tenha sido liquidada.
+3. É possível a indenização por dano moral a pessoa jurídica (Súmula 227 do STJ). No entanto, cabe à pessoa jurídica provar que sua imagem e/ou credibilidade restaram abalados perante terceiros no exercício de suas atividades de modo a afetar seu regular funcionamento
+4. O pedido reconvencional realizado sem acompanhamento do devido preparo deve ser reputado inexistente e não deve ter qualquer consequência jurídica no processo, motivo pelo qual não cabem as condenações em verba de sucumbência e litigância de má-fé.
+5. Recurso conhecido e desprovido. Sentença mantida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 940 do Código Civil.
+Defende ser evidente a existência de cobrança por dívida paga. Assim, cabível a devolução em dobro dos valores cobrados indevidamente.
+É o relatório. DECIDO.
+2. Com efeito, a parte ora agravante busca a devolução em dobro. Ao apreciar o ponto, o Tribunal estadual consignou:
+Referente ao mérito, ressalto que não prospera a insurgência do recorrente de que há o dever de indenização em dobro na forma do art. 940 do Código Civil. Isso porque restou demonstrado nos autos que foram ajuizadas ação de execução e ação monitória com base em dívida existente enquanto que a redação do dispositivo legal é clara ao mencionar que há o pressuposto de que a obrigação já teria sido cumprida, o que não é o caso dos autos. Ao analisar a questão, bem destacou o magistrado sentenciante:
+No caso dos autos, não houve propriamente uma cobrança de dívida paga, mas a cobrança em duplicidade (ainda que parcialmente) de uma dívida existente, haja vista que em um processo foi cobrado o valor da última parcela, R$ 2.122,24, e noutro, o valor da Nota Fiscal, de R$ 1.211,06, o que autoriza reconhecer, no máximo, má-fé processual nos autos da ação ajuizada indevidamente, cuja competência não é deste juízo. (Id. 3222467 pág. 02/03)
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
