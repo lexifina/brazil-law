@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÕES CÍVEIS. ALIENAÇÃO FIDUCIÁRIA. PROCESSO DE "CONHECIMENTO. PEDIDO REVISIONAL. APELO DO CONSUMIDOR CONHECIDO EM PARTE.
+Ausência de interesse recursal quanto aos pedidos contemplados na sentença. Vedação da cobrança da comissão de permanência.
+Compensação e repetição de valores.
+CÓDIGO DE DEFESA DO CONSUMIDOR E PEDIDO REVISIONAL. O Código de Defesa do Consumidor é aplicável às instituições financeiras, nos termos da Súmula nº 297 do STJ e art. 32, §2º do CDC. É possível o pedido de revisão das cláusulas contratuais, com fundamento no art. 6º, V e art. 51, IV, ambos do CDC. A aplicação do CDC e a possibilidade do pedido revisional não asseguram a procedência dos pedidos formulados pelo consumidor.
+JUROS REMUNERATÓRIOS.. Tese Paradigma.
+Recurso Especial nº 1.061.530/RS. É admitida a revisão da taxa de juros remuneratórios quando a abusividade fique cabalmente demonstrada.
+Caso concreto. Percentual que discrepa substancialmente da taxa média de mercado do período. Demonstrada a abusividade. Juros remuneratórios reduzidos. Sentença mantida.
+CAPITALIZAÇÃO DOS JUROS. Constitucionalidade do art. 5º da Medida Provisória nº 2.170. Recurso Extraordinário nº 592.377. Repercussão Geral.
+Tema 33. As entidades integrantes do Sistema Financeiro Nacional estão sujeitas ao art. 5º da Medida Provisória nº 2.170, que autoriza a capitalização dos juros em periodicidade inferior a anual. Prevalência da Lei Especial em detrimento do art. 591 do Código Civil. Art. 28, parágrafo 1º, inciso I, da Lei nº 10.931/04.
+Súmula 539 do STJ. Forma de contratação. Tese Paradigma. Recurso Especial nº 973.827/RS. A capitalização pode ser demonstrada pela redação das cláusulas convencionadas ou quando a taxa anual dos juros é superior ao duodécuplo da taxa mensal. Súmula nº 541 do STJ. Caso concreto. Capitalização contratada.
+Mantida a forma de composição das parcelas na forma contratada.
+DESCARACTERIZAÇÃO DA MORA. Tese Paradigma. Recurso Especial n2 1.061.530/RS. A constatação de encargos abusivos durante o período da normalidade afasta a caracterização da mora. Caso concreto. Revisão de encargo incidente no período da normalidade. Mora descaracterizada.
+COMISSÃO DE PERMANÊNCIA E DEMAIS ENCARGOS COBRADOS NO PERÍODO DA INADIMPLÊNCIA. Tese Paradigma. Recurso Especial nº 1.058.114 -RS. Súmula nº 472 do Superior Tribunal de Justiça. A cobrança de comissão de permanência, cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual. Caso concreto.
+A comissão de permanência está prevista no contrato e extrapola os limites definidos na Súmula nº 472 do STJ. Cláusula alterada.
+TARIFA DE ABERTURA DE CRÉDITO (TAC), TARIFA DE EMISSÃO DE CARNÊ (TEC) OU OUTRA DENOMINAÇÃO COBRADA PELO MESMO FATO GERADOR. Recurso Especial nº 1.251.331/RS e nº 1.255.573/RS. Súmulas 565 e 566 do STJ. Tese Paradigma. Desde a entrada em vigor da Resolução nº 3.518/07 do Conselho Monetário Nacional, a cobrança por serviços bancários prioritários ficaram limitadas às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Caso concreto. Inexistência de previsão contratual da cobrança. Carência de interesse processual. Apelo não conhecido no tópico.
+TARIFA DE CADASTRO. Tese Paradigma. Recurso Especial nº 1.251.331/RS e nº 1.255.573/RS.
+Súmulas 565 e 566 do STJ. Resolução nº 3.518/07 do Conselho Monetário Nacional. É válida a Tarifa de Cadastro expressamente tipificada em ato normativo, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira.
+Caso concreto. Inexistência de previsão contratual da cobrança. Carência de interesse
+processual. Apelo não conhecido quanto no tópico.
+COMPENSAÇÃO E/OU DEVOLUÇÃO DE VALORES.
+A alteração de encargo incidente sobre o valor contratado justifica o deferimento do pedido de compensação e, caso quitado o débito, a devolução dos valores pagos a maior, na forma simples. Ante incerteza momentânea sobre a liquidez do crédito oriundo do contrato é inviável a afirmação de cobrança de dívida já paga por má-fé. Inocorrência das hipóteses previstas no art. 940 do Código Civil e art. 42 do Código de Defesa do Consumidor.
+Deferida a tutela provisória de urgência.
+ÔNUS SUCUMBENCIAIS E HONORÁRIOS ADVOCATÍCIOS. Mantida a distribuição do ônus sucumbenciais. Afastada a possibilidade de compensação. Majorado o valor dos honorários advocatícios estabelecidos na sentença.
+APELO DO CONSUMIDOR CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO.
+APELO DA INSTITUIÇÃO FINANCEIRA PARCIALMENTE PROVIDO." (e-STJ, fls. 205/207)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 51, IV, §2º, do CDC, 4º do Decreto 22.626/33, 591 do CC/02, 5º da MP 2.170-36/01 e divergência jurisprudencial, sustentando, em síntese, que: (a) a abusividade dos juros impõe sua redução ao patamar legal  taxa SELIC ou 12% ao ano; (b) não houve expressa pactuação de capitalização dos juros remuneratórios.
+É o relatório. Decido.
+Quanto aos juros remuneratórios, em recurso repetitivo, a 2ª Seção do STJ consolidou o entendimento de que, ausente pactuação da taxa de juros no contrato ou verificada a abusividade da taxa praticada, o magistrado deve limitar os juros à media de mercado nas operações da espécie. Confira-se:
+"BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONTRATO QUE NÃO PREVÊ O PERCENTUAL DE JUROS REMUNERATÓRIOS A SER OBSERVADO.
+I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE.
+ORIENTAÇÃO - JUROS REMUNERATÓRIOS 1 - Nos contratos de mútuo em que a disponibilização do capital é imediata, o montante dos juros remuneratórios praticados deve ser consignado no respectivo instrumento. Ausente a fixação da taxa no contrato, o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente.
+2 - Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados.
+II - JULGAMENTO DO RECURSO REPRESENTATIVO - Invertido, pelo Tribunal, o ônus da prova quanto à regular cobrança da taxa de juros e consignada, no acórdão recorrido, a sua abusividade, impõe-se a adoção da taxa média de mercado, nos termos do entendimento consolidado neste julgamento.
+- Nos contratos de mútuo bancário, celebrados após a edição da MP nº 1.963-17/00 (reeditada sob o nº 2.170-36/01), admite-se a capitalização mensal de juros, desde que expressamente pactuada.
+Recurso especial parcialmente conhecido e, nessa parte, provido.
+Ônus sucumbenciais redistribuídos."
+(REsp 1112880/PR, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 12/05/2010, DJe 19/05/2010)
+Na hipótese dos autos, tendo o Tribunal de origem concluído pela abusividade da taxa de juros remuneratórios praticada, a limitação da taxa à média de mercado é plenamente consentânea com o entendimento do STJ.
+A jurisprudência desta Eg. Corte pacificou-se no sentido de que a capitalização mensal de juros é admitida nos contratos bancários celebrados a partir da edição da Medida Provisória nº 1.963-17/2000, reeditada sob o nº 2.170-36/2001, qual seja, 31/3/2000, desde que expressamente pactuada. Nesse sentido: AgRg no REsp nº 1.068.984/MS, Quarta Turma, Rel. Min. João Otávio de Noronha, DJe de 29.6.2010; AgRg no Ag nº 1.266.124/SC, Terceira Turma, Rel. Min. Sidnei Beneti, DJe de 7.5.2010; AgRg no REsp nº 1.018.798/MS, Quarta Turma, Rel. Min. Honildo Amaral de Mello Castro (Des. Convocado do TJAP), DJe de 1º.7.2010; AgRg nos EDcl no REsp nº 733.548/RS, Quarta Turma, Rel. Min. Luis Felipe Salomão, DJe de 12.4.2010.
+Assim, para a cobrança da capitalização mensal dos juros, faz-se necessária a presença, cumulativa, dos seguintes requisitos: (a) legislação específica possibilitando a pactuação, como nos contratos bancários posteriores a 31.3.2000 (MP nº 1.963-17/2000, reeditada pela MP nº 2.170-36/2001), em vigência em face do art. 2º da Emenda Constitucional nº 32/2001 (AgRg no REsp nº 1.052.298/MS, Quarta Turma, Rel. Min. Aldir Passarinho Junior, DJe de 1º.3.2010); e (b) expressa previsão contratual quanto à periodicidade.
+Ocorre, no entanto, que esta Corte possui entendimento, firmado em recurso repetitivo, no sentido de que há previsão expressa de cobrança de juros capitalizados em periodicidade mensal quando a taxa de juros anual ultrapassa o duodécuplo da taxa mensal. Nesse sentido:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+4. Segundo o entendimento pacificado na 2ª Seção, a comissão de permanência não pode ser cumulada com quaisquer outros encargos
+remuneratórios ou moratórios.
+5. É lícita a cobrança dos encargos da mora quando caracterizado o estado de inadimplência, que decorre da falta de demonstração da abusividade das cláusulas contratuais questionadas.
+6. Recurso especial conhecido em parte e, nessa extensão, provido." (REsp 973.827/RS, Rel. originário Min. LUIS FELIPE SALOMÃO, Rel. para o acórdão Min. MARIA ISABEL GALLOTTI, DJe 24/9/2012).
+Assim, não merece reforma o acórdão recorrido quanto aos juros remuneratórios e à capitalização dos juros, em virtude de sua sintonia com o entendimento do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios, com fundamento no art. 85, §11, do CPC/15, de R$ 800,00 (oitocentos reais) para R$ 880,00 (oitocentos e oitenta reais).
+Publique-se.
