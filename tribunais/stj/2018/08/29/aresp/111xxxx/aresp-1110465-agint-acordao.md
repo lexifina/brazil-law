@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGADA VIOLAÇÃO AOS ARTS. 131, 458, II, E 535 DO CPC/1973. NÃO OCORRÊNCIA. OFENSA AOS ARTS. 257 E 620, DO CÓDIGO DE PROCESSO CIVIL DE 1973. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ALEGAÇÕES DE IMPROCEDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS NA FASE DE CUMPRIMENTO DE SENTENÇA E A IMPRESTABILIDADE E IMPROCEDÊNCIA DA PLANILHA E DOS VALORES APRESENTADOS PELO IMPUGNADO. SÚMULA 284. PROVIMENTO NEGADO.
+1. Não se verifica a alegada violação aos arts. 131, 458, II, e 535 do CPC/1973, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+2. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. A ausência de indicação do dispositivo considerado violado atrai, por analogia, o Enunciado Sumular n. 284 do STF, quer pela alínea "a", quer pela alínea "c".
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Trata-se de agravo interno interposto contra decisão monocrática, de fls. 394/398, que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, a parte agravante alega, em síntese, isto: (a) "A falta de enfrentamento de um fundamento ou alegação apresentado pela parte enseja a falta de motivação, tornando nula a decisão judicial" (fl. 407); (b) inaplicabilidade da Súmula 284/STF, pois "houve a impugnação específica da decisão agravada (que negou seguimento ao recurso especial), a fim de demonstrar onde o erro se encontrava" (fl. 408); (c) durante o trâmite do processo todas as teses suscitadas foram apreciadas e debatidas pelo Tribunal a quo.
+Devidamente intimada, a parte agravada apresentou impugnação do agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+A irresignação não merece prosperar.
+Como consignado na decisão impugnada, não se vislumbra a alegada violação aos arts. 131, 458, II e 535 do CPC, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste qualquer omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.05.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 02.05.2005.
+Ademais, conforme a jurisprudência do Superior Tribunal, o magistrado não está obrigado a se pronunciar sobre todos os pontos abordados pelas partes, mormente quando já tiver decidido a controvérsia sob outros fundamentos (EDcl no Resp 202.056/SP, 3ª Turma, Rel. Min. CASTRO FILHO, DJ de 21.10.2001).
+Com efeito, registre-se, ainda, que a uníssona jurisprudência desta eg. Corte é no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se os seguintes julgados:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS - EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - grifou-se)
+No que se refere aos arts. 257 e 620, do CPC/1973, verifica-se que encerram normatividade que não se encontra contemplada no objeto da controvérsia resolvida pelo Tribunal de origem, razão pela qual se vislumbra o prequestionamento necessário para viabilizar a interposição do presente recurso especial. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Incidência, pois, no ponto, das Súmulas 282 e 356 do STF.
+Quanto às alegações de improcedência de honorários advocatícios na fase de cumprimento de sentença e a imprestabilidade e improcedência da planilha e dos valores apresentados pelo impugnado, não se pode conhecer do recurso quer pela alínea "a", quer pela alínea "c" do permissivo constitucional. A ausência de indicação do dispositivo considerado violado atrai, por analogia, o Enunciado Sumular n. 284 do STF. Nesse sentido, leiam-se estes precedentes:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. TERMO FINAL DO PENSIONAMENTO. SÚMULA 284/STF. DANOS MORAIS. VALOR RAZOÁVEL.
+1. Segundo o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). Ressalva do ponto de vista pessoal da Relatora.
+2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da CF não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1432383/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+À luz das considerações acima, nega-se provimento ao agravo interno.
+É como voto.
