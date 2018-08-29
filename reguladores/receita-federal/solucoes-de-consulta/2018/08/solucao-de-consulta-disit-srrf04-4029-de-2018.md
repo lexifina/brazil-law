@@ -1,0 +1,21 @@
+Solução de Consulta Disit/SRRF04 nº 4029, de 17 de agosto de 2018
+Assunto: Contribuição para o PIS/Pasep
+NÃO CUMULATIVIDADE. CRÉDITO. INSUMO. PARTES E PEÇAS DE REPOSIÇÃO. SERVIÇOS DE MANUTENÇÃO. No regime de apuração não cumulativa da Contribuição para o PIS/Pasep, a possibilidade de creditamento, na modalidade aquisição de insumos, deve ser apurada tendo em conta o produto destinado à venda pela pessoa jurídica.
+As partes e peças de reposição, usadas em máquinas e equipamentos utilizados na produção ou fabricação de bens destinados à venda, quando não representarem acréscimo de vida útil superior a um ano ao bem em que forem aplicadas, e, ainda, sofrerem alterações, tais como o desgaste, o dano, ou a perda de propriedades físicas ou químicas, em função da ação diretamente exercida sobre o produto em fabricação ou em produção, são consideradas insumo para fins de crédito a ser descontado da Contribuição para o PIS/Pasep.
+É condição para que os serviços de manutenção gerem crédito o emprego em veículos, máquinas e equipamentos utilizados diretamente no processo produtivo.
+CRÉDITO. INSUMO. IMPOSSIBILIDADE. EDIFICAÇÕES E BENFEITORIAS. No regime de apuração não cumulativa da Contribuição para o PIS/Pasep, a pessoa jurídica que produz móveis não pode descontar crédito em relação aos dispêndios relativos à manutenção e reforma de imóveis próprios e de terceiros contabilizados como custo ou despesa no resultado do exercício, com base no inciso II do caput do art. 3º da Lei nº 10.637, de 2002.
+DEPRECIAÇÃO E AMORTIZAÇÃO. Diferentemente, na modalidade de creditamento prevista no inciso VII do caput do art. 3º da Lei nº 10.637, de 2002, podem ser descontados créditos em relação aos encargos de depreciação e amortização de edificações e benfeitorias em imóveis próprios ou de terceiros utilizados na atividade de fabricação de móveis.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 7, DE 23 DE AGOSTO DE 2016, E ÀS SOLUÇÕES DE CONSULTA COSIT NOS 213, DE 2017, E 99, DE 2015.
+Dispositivos Legais: Lei nº 10.637, de 2002, com alterações, art. 3º, II e VII; Lei nº 10.833, de 2003, com alterações, arts. 3º, VII, e 15, II; Instrução Normativa SRF nº 247, de 2002, art. 66.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+NÃO CUMULATIVIDADE. CRÉDITO. INSUMO. PARTES E PEÇAS DE REPOSIÇÃO. SERVIÇOS DE MANUTENÇÃO. No regime de apuração não cumulativa da Cofins, a possibilidade de creditamento, na modalidade aquisição de insumos, deve ser apurada tendo em conta o produto destinado à venda pela pessoa jurídica.
+As partes e peças de reposição, usadas em máquinas e equipamentos utilizados na produção ou fabricação de bens destinados à venda, quando não representarem acréscimo de vida útil superior a um ano ao bem em que forem aplicadas, e, ainda, sofrerem alterações, tais como o desgaste, o dano, ou a perda de propriedades físicas ou químicas, em função da ação diretamente exercida sobre o produto em fabricação ou em produção, são consideradas insumo para fins de crédito a ser descontado da Cofins.
+É condição para que os serviços de manutenção gerem crédito o emprego em veículos, máquinas e equipamentos utilizados diretamente no processo produtivo.
+CRÉDITO. INSUMO. IMPOSSIBILIDADE. EDIFICAÇÕES E BENFEITORIAS. No regime de apuração não cumulativa da Cofins, a pessoa jurídica que produz móveis não pode descontar crédito em relação aos dispêndios relativos à manutenção e reforma de imóveis próprios e de terceiros contabilizados como custo ou despesa no resultado do exercício, com base no inciso II do caput do art. 3º da Lei nº 10.833, de 2003.
+DEPRECIAÇÃO E AMORTIZAÇÃO. Diferentemente, na modalidade de creditamento prevista no inciso VII do caput do art. 3º da Lei nº 10.833, de 2003, podem ser descontados créditos em relação aos encargos de depreciação e amortização de edificações e benfeitorias em imóveis próprios ou de terceiros utilizados na atividade de fabricação de móveis.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 7, DE 23 DE AGOSTO DE 2016, E ÀS SOLUÇÕES DE CONSULTA COSIT NOS 213, DE 2017, E 99, DE 2015.
+Dispositivos Legais: Lei nº 10.833, de 2003, com alterações, art. 3º, II e VII; Instrução Normativa SRF nº 404, de 2004, art. 8º.
+SC SRRF04-Disit nº 4.029-2018
+[arquivo anexo: SC SRRF04-Disit nº 4.029-2018.pdf]
+FLÁVIO OSÓRIO DE BARROS
+Chefe
