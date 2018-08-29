@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da 8ª Câmara de Direito Privado do TJSP.
+O recorrente ajuizou ação de obrigação de fazer alegando que, por orientação de seu médico, foi a São Paulo para tratar de problema de saúde no Hospital Sírio Libanês, entretanto, a recorrida, negou-lhe cobertura, argumentando tratar-se de hospital de alto custo.
+A demanda foi julgada improcedente, extinguindo-se o processo com fundamento no art. 269, I, do CPC/1973.
+A apelação do autor foi desprovida em acórdão com a seguinte ementa (e-STJ fl. 503):
+Apelação. Obrigação de Fazer. Plano de Saúde. Prestação de Assistência Médico-Hospitalar. Autor que pretende reembolso de despesas com tratamento e cirurgia realizados no Hospital Sírio-Libanês. Alegação de descredenciamento do nosocômio sem a prévia comunicação ao beneficiário, em desatendimento ao art. 17 da Lei n. 9.656/98, sem o credenciamento novo de entidade equiparável em qualidade. Improcedência. Inconformismo do autor. O plano de saúde realizou aditivo ao contrato com a Associação de que o autor é beneficiário, onde não mais constava o referido hospital. Cumpria à Associação informar os associados do descredenciamento. A comunicação realizada pelo plano de saúde à Associação é válida. No entanto, os procedimentos de saúde cobertos pelos Planos não podem sofrer limitações quando o paciente está em tratamento, para proteção do direito à vida. Razoável que o plano de saúde custeie os gastos despendidos pelo apelante até o limite que arcaria se o tratamento fosse feito com hospital e médico cooperados/credenciados, conforme o plano de assistência médica da categoria de que o apelante é beneficiário. A sucumbência passa a ser recíproca. Recurso provido em parte.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 550/555).
+Sobreveio o recurso especial (e-STJ fls. 583/595), fundado no art. 105, III, alíneas "a" e "c", da CF, no qual o recorrente sustenta violação do art. 535, II, do CPC/1973, alegando negativa de prestação jurisdicional, uma vez que o Tribunal rejeitou os embargos de declaração sem enfrentar omissões do acórdão recorrido.
+Alega também violação dos arts. 2º do CDC e 17, § 1º, da Lei n. 9.656/1998, sustentando que "não houve, in casu, a prévia notificação do consumidor, destinatário final do contrato discutido nos autos, bem como a substituição da entidade hospitalar (no caso, Hospital Sírio Libanês) por nosocômio equivalente" (e-STJ fl. 591).
+Não se ofereceram contrarrazões.
+É o relatório.
+Decido.
+O presente recurso foi interposto contra decisão publicada na vigência do CPC/1973, razão pela qual serão adotados os requisitos de admissibilidade recursal nele previstos, nos termos do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Em relação à afronta ao art. 535, II, do CPC/1973, importa esclarecer que os embargos de declaração são cabíveis somente quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+O julgador não está compelido a ponderar sobre todos os argumentos invocados pela parte, quando tenha encontrado fundamentação satisfatória para dirimir integralmente a controvérsia.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+Ao reconhecer que cumpria à associação informar os associados do descredenciamento de hospital, uma vez que a comunicação realizada pelo plano de saúde à entidade foi válida, assim decidiu o Tribunal a quo (e-STJ fl. 505):
+Ocorre que a Unimed, em aditivo ao contrato levado à Associação dos Aposentados e Pensionistas de Volta Redonda datado de 01.10.2002 (fls. 170/173), informou quais hospitais eram os doravante credenciados, e cabia à Associação, da qual o autor é associado, comunicar os aderentes aos planos de saúde oferecidos pela apelada do descredenciamento de hospitais antes disponíveis.
+Quando o apelante contratou o plano Nacional, havia 19 hospitais credenciados em São Paulo, e atualmente existem apenas três: a Beneficência Portuguesa, [NOME] e [NOME]. Porém, ainda que tenha havido grande desvantagem ao associado, a dívida formada não pode ser atribuída à ré, porque a alteração foi de plena ciência da Associação.
+No decorrer do processo, houve arguição de ilegitimidade ativa, sob a alegação de quem poderia entrar com a ação seria a Associação, e não o associado.
+Inicialmente, o Juízo a quo acolher a preliminar de ilegitimidade, proferindo sentença às fls. 236/237 que extinguiu o feito com base no art. 267, IV do CPC, sentença essa que foi anulada pelo acórdão de fls. 282/295, proferindo por esta 8ª Câmara, por entendimento em sentido contrário.
+De qualquer forma, não se pode negar que a Associação, que é a contratante, é quem tinha o ônus de avisar os associados sobre a alteração, e como entendeu o Juízo a quo, a comunicação feita pela Unimed à Associação é válida.
+Diante da afirmação de que o comunicado foi válido, o recurso se mostra inviável, por atrair a Súmula n. 7 do STJ.
+Ademais, decisão monocrática de relator não é meio hábil a configurar dissídio jurisprudencial, de forma a impedir o cabimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesses termos:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA NÃO SERVE COMO PARADIGMA PARA FINS DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL. INTELIGÊNCIA DO ART. 266 DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA E DO ART. 546 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. INCIDÊNCIA DO ENTENDIMENTO SEDIMENTADO NA SÚMULA N.º 315 DO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. As decisões monocráticas, a teor do disposto no art. 546, inciso I, do Código de Processo Civil, c.c. o art. 266 do Regimento Interno do Superior Tribunal de Justiça, não se prestam como paradigmas para o fim de demonstrar dissídio jurisprudencial. Precedentes.
+2. Incide sobre a espécie, ainda, o entendimento sedimentado na Súmula n.º 315/STJ, in verbis: " n ão cabem embargos de divergência no âmbito do agravo de instrumento  ou agravo nos próprios autos  que não admite recurso especial". Precedentes da Corte Especial.
+3. Agravo regimental desprovido.
+(AgRg nos EAREsp 740.954/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 03/02/2016, DJe 26/02/2016)
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
