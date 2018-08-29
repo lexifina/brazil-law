@@ -1,0 +1,50 @@
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA DE FISIOTERAPIA MOTORA INTENSIVA PRESCRITA A CRIANÇA PORTADORA DE PARALISIA CEREBRAL. TÉCNICA MODERNA. NÃO CARACTERIZAÇÃO DE TRATAMENTO EXPERIMENTAL.
+1. "Tratamento experimental é aquele em que não há comprovação médico-científica de sua eficácia, e não o procedimento que, efetivado com a utilização de equipamentos modernos, é reconhecido pela ciência e escolhido pelo médico como o método mais adequado à preservação da integridade física e ao completo restabelecimento do paciente" (AgInt no AREsp 850.357/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22.08.2017, DJe 29.08.2017).
+2. Em havendo previsão de cobertura da doença que acomete o usuário, revela-se abusiva a recusa da operadora de plano de saúde a autorizar a utilização de técnica ou terapia mais moderna disponível em clínica/hospital credenciado e indicada pelo médico assistente, ante a flagrante frustração da finalidade precípua do contrato, qual seja, a garantia da saúde do usuário.
+3. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por Unimed do Estado de São Paulo e Federação Estadual de Cooperativas Médicas - FESP, com amparo na alínea "a" do permissivo constitucional, objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Plano de saúde. Possibilidade de condenação solidária às Unimeds. Embora se trate de várias pessoas jurídicas distintas, constituem uma única entidade, subdividida em diversas outras. Ilegitimidade afastada. Recusa de cobertura da terapia Therasuit, dita experimental ("off label"), e não regulada pela ANS. Inteligência do Código de Defesa do Consumidor. Aplicação da Súmula 102 do Tribunal de Justiça do Estado de São Paulo. Abusividade configurada. Indicação do tratamento adequado cabe ao médico especialista. Precedentes do STJ. Recurso do autor provido. Recurso da ré desprovido.
+Nas razões do especial, a operadora de plano de saúde aponta violação dos artigos 51 e 54 do Código de Defesa do Consumidor; 10 da Lei 9.656/98; 11 e 41 da Lei 9.661/2000; 267, inciso VI, do CPC de 1973. Sustenta, em síntese, não ser obrigada a custear tratamento/terapia experimental, que não consta do rol obrigatório das normas da Agência Nacional de Saúde - ANS.
+Apresentadas contrarrazões ao apelo extremo, o qual recebeu crivo positivo de admissibilidade na origem.
+É o relatório.
+DECIDO.
+2. Não merece guarida o reclamo.
+Nos termos da jurisprudência desta Corte, revela-se abusiva a cláusula de contrato de plano de saúde que exclua o custeio do tratamento clínico, procedimento cirúrgico, medicamento ou materiais necessários à cura de doença coberta, ante a flagrante frustração da finalidade precípua do contrato, qual seja, a garantia da saúde do usuário.
+Nesse diapasão, destacam-se ementas dos seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE PRÓTESE NECESSÁRIA A PROCEDIMENTO CIRÚRGICO. DANOS MORAIS.
+CABIMENTO. QUANTUM COMPENSATÓRIO. VALOR RAZOÁVEL. REGIMENTAL NÃO PROVIDO.
+1. É abusiva a cláusula que exclua da cobertura órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico a que se submete o consumidor. Precedentes.
+2. A jurisprudência do eg. Superior Tribunal de Justiça entende ser passível de indenização a título de danos morais a recusa indevida/injustificada pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico.
+(..)
+5. Agravo regimental não provido. (AgRg no AREsp 590.457/SE, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 08.03.2016, DJe 17.03.2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. PLANO DE SAÚDE. INDEVIDA NEGATIVA DE COBERTURA DO CUSTEIO DE MATERIAL SOLICITADO PELO MÉDICO PARA A REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. PREMISSA FÁTICA ASSENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CARACTERIZAÇÃO DE DANO MORAL IN RE IPSA. INDENIZAÇÃO POR DANOS MORAIS DEVIDA. PRECEDENTES. ENUNCIADO N. 83 DA SÚMULA DO STJ. PRETENSÃO DE MINORAR INDENIZAÇÃO POR DANOS MORAIS. EXORBITÂNCIA NÃO CARACTERIZADA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. Segundo a jurisprudência pacífica do STJ, a cláusula que exclui da cobertura do plano de saúde órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico a que se submete o consumidor é abusiva, razão pela qual a recusa indevida pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico faz nascer o dever de reparar os danos morais produzidos pelo agravamento da situação de aflição psicológica e de angústia no espírito do beneficiário, que se configura como dano moral in re ipsa (independente de prova). Precedentes.
+(..)
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 785.243/ES, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 03.12.2015, DJe 14.12.2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. PLANO DE SAÚDE. PRÓTESE. EXCLUSÃO DE COBERTURA. IMPOSSIBILIDADE. CLÁUSULA ABUSIVA. INCIDÊNCIA DO CDC. ENTENDIMENTO DO STJ. SUCUMBÊNCIA RECÍPROCA. DISTRIBUIÇÃO DOS ÔNUS. SÚMULA Nº 7/STJ.
+(..)
+2. É firme a jurisprudência desta Corte de que a abusividade das cláusulas contratuais de planos de saúde pode ser aferida à luz do Código de Defesa do Consumidor sem significar ofensa ao ato jurídico perfeito.
+3. Não é possível a exclusão de cobertura relativa à prótese diretamente ligada ao procedimento cirúrgico a que se submete o beneficiário do plano de saúde.
+(..)
+5. Agravo regimental não provido. (AgRg no AREsp 206.506/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11.11.2014, DJe 14.11.2014)
+Ademais, consoante cediço nesta Corte, "tratamento experimental é aquele em que não há comprovação médico-científica de sua eficácia, e não o procedimento que, efetivado com a utilização de equipamentos modernos, é reconhecido pela ciência e escolhido pelo médico como o método mais adequado à preservação da integridade física e ao completo restabelecimento do paciente" (AgInt no AREsp 850.357/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22.08.2017, DJe 29.08.2017).
+Desse modo, em havendo previsão de cobertura da doença que acomete o usuário, revela-se abusiva a recusa da operadora de plano de saúde a autorizar a utilização de técnica ou terapia mais moderna disponível em clínica/hospital credenciado e indicada pelo médico assistente, ante a flagrante frustração da finalidade precípua do contrato, qual seja, a garantia da saúde do usuário.
+No caso dos autos, o magistrado de piso assim fundamentou a parcial procedência da pretensão deduzida pelo usuário:
+Trata-se de ação na qual se busca a autorização para realizar tratamento de fisioterapia motora intensiva Therasuit por módulos, equoterapia, hidroterapia.
+Inicialmente, verifico que não há indicação médica para os tratamentos denominados equoterapia e hidroterapia, de modo que os pedidos ficam desde já indeferidos.
+No entanto, os documentos acostados pelo autor comprovam a existência da enfermidade, a indicação e a necessidade do tratamento de fisioterapia motora intensiva Therasuit por módulos, como mencionado na inicial.
+Os documentos demonstram a superioridade deste em relação aos demais tratamentos convencionais.
+Portanto, a recusa da requerida se mostra indevida . A negativa de cobertura pela alegação de que este tratamento não está incluso na lista gerada pela Agência Nacional de Saúde é abusiva, nos termos do artigo 51, do CDC.
+Aliás, o rol de coberturas obrigatórias editado pela ANS não é sequer considerado taxativo e, sendo os contratos de plano de saúde regidos pelo Código de Defesa do Consumidor, devem ser interpretados em favor deste. (fls. 196/197)
+O Tribunal de origem manteve a sentença, pelos seguintes fundamentos:
+(..) o documento de fls. 24/33 demonstram que o autor, menor com três anos de idade que sofre de atraso no desenvolvimento motor e crises epilépticas, necessita do tratamento TheraSuit, com o intuito de reparar o alinhamento dos membros inferiores, fortalecimento de extensores dorsais e abdominais, para melhor postura do tronco, entre outras vantagens funcionais.
+Assim, a recusa das seguradoras (fls. 27/29), a pretexto de que o tratamento aludido não está no rol de tratamentos regulados pela ANS, por apresentar caráter experimental, havendo, assim, expressa exclusão legal e contratual quanto à obrigatoriedade de custeio dessa modalidade terapia, revela-se abusiva, pois os planos de saúde submetem-se às regras do Código de Defesa do Consumidor, conforme a Súmula 469 do Superior Tribunal de Justiça, abaixo transcrita:
+(..)
+Além disso, é nula a disposição contratual que exclui a cobertura do tratamento de que necessitava o autor, porque restringe direitos e obrigações fundamentais inerentes à natureza do contrato, ameaçando seu objeto ou equilíbrio contratual (art. 51, § 1º, II do CDC), ao mesmo tempo em que se mostra excessivamente gravosa para o consumidor, considerando-se a natureza e conteúdo do contrato e o interesse das partes (art. 51, § 1º, III do CDC).
+(..)
+A recusa por parte da seguradora significa, em última análise, negar cobertura ao tratamento de moléstia amparada pelo contrato, contrariando sua finalidade e natureza de assistência à saúde, conforme a Súmula deste Tribunal transcrita acima. (fls. 259/262)
+Nesse contexto, não merece prosperar a insurgência especial, tendo em vista: (i) a consonância entre as premissas adotadas pelo acórdão recorrido e a jurisprudência desta Corte; (ii) não ter sido demonstrado, na origem, que o tratamento seria experimental, o que trazia incerteza ao tratamento indicado pelo médico assistente; e (iii) ser incontroverso que a doença acometida pelo usuário tem cobertura no plano de saúde.
+3. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
