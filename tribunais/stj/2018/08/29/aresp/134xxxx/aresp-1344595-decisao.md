@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por OMNI S/A CRÉDITO FINANCIAMENTO E INVESTIMENTO contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÕES CÍVEIS. ALIENAÇÃO FIDUCIÁRIA. PROCESSO DE "CONHECIMENTO. PEDIDO REVISIONAL. APELO DO CONSUMIDOR CONHECIDO EM PARTE.
+Ausência de interesse recursal quanto aos pedidos contemplados na sentença. Vedação da cobrança da comissão de permanência.
+Compensação e repetição de valores.
+CÓDIGO DE DEFESA DO CONSUMIDOR E PEDIDO REVISIONAL. O Código de Defesa do Consumidor é aplicável às instituições financeiras, nos termos da Súmula nº 297 do STJ e art. 32, §2º do CDC. É possível o pedido de revisão das cláusulas contratuais, com fundamento no art. 6º, V e art. 51, IV, ambos do CDC. A aplicação do CDC e a possibilidade do pedido revisional não asseguram a procedência dos pedidos formulados pelo consumidor.
+JUROS REMUNERATÓRIOS.. Tese Paradigma.
+Recurso Especial nº 1.061.530/RS. É admitida a revisão da taxa de juros remuneratórios quando a abusividade fique cabalmente demonstrada.
+Caso concreto. Percentual que discrepa substancialmente da taxa média de mercado do período. Demonstrada a abusividade. Juros remuneratórios reduzidos. Sentença mantida.
+CAPITALIZAÇÃO DOS JUROS. Constitucionalidade do art. 5º da Medida Provisória nº 2.170. Recurso Extraordinário nº 592.377. Repercussão Geral.
+Tema 33. As entidades integrantes do Sistema Financeiro Nacional estão sujeitas ao art. 5º da Medida Provisória nº 2.170, que autoriza a capitalização dos juros em periodicidade inferior a anual. Prevalência da Lei Especial em detrimento do art. 591 do Código Civil. Art. 28, parágrafo 1º, inciso I, da Lei nº 10.931/04.
+Súmula 539 do STJ. Forma de contratação. Tese Paradigma. Recurso Especial nº 973.827/RS. A capitalização pode ser demonstrada pela redação das cláusulas convencionadas ou quando a taxa anual dos juros é superior ao duodécuplo da taxa mensal. Súmula nº 541 do STJ. Caso concreto. Capitalização contratada.
+Mantida a forma de composição das parcelas na forma contratada.
+DESCARACTERIZAÇÃO DA MORA. Tese Paradigma. Recurso Especial n2 1.061.530/RS. A constatação de encargos abusivos durante o período da normalidade afasta a caracterização da mora. Caso concreto. Revisão de encargo incidente no período da normalidade. Mora descaracterizada.
+COMISSÃO DE PERMANÊNCIA E DEMAIS ENCARGOS COBRADOS NO PERÍODO DA INADIMPLÊNCIA. Tese Paradigma. Recurso Especial nº 1.058.114 -RS. Súmula nº 472 do Superior Tribunal de Justiça. A cobrança de comissão de permanência, cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual. Caso concreto.
+A comissão de permanência está prevista no contrato e extrapola os limites definidos na Súmula nº 472 do STJ. Cláusula alterada.
+TARIFA DE ABERTURA DE CRÉDITO (TAC), TARIFA DE EMISSÃO DE CARNÊ (TEC) OU OUTRA DENOMINAÇÃO COBRADA PELO MESMO FATO GERADOR. Recurso Especial nº 1.251.331/RS e nº 1.255.573/RS. Súmulas 565 e 566 do STJ. Tese Paradigma. Desde a entrada em vigor da Resolução nº 3.518/07 do Conselho Monetário Nacional, a cobrança por serviços bancários prioritários ficaram limitadas às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Caso concreto. Inexistência de previsão contratual da cobrança. Carência de interesse processual. Apelo não conhecido no tópico.
+TARIFA DE CADASTRO. Tese Paradigma. Recurso Especial nº 1.251.331/RS e nº 1.255.573/RS.
+Súmulas 565 e 566 do STJ. Resolução nº 3.518/07 do Conselho Monetário Nacional. É válida a Tarifa de Cadastro expressamente tipificada em ato normativo, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira.
+Caso concreto. Inexistência de previsão contratual da cobrança. Carência de interesse
+processual. Apelo não conhecido quanto no tópico.
+COMPENSAÇÃO E/OU DEVOLUÇÃO DE VALORES.
+A alteração de encargo incidente sobre o valor contratado justifica o deferimento do pedido de compensação e, caso quitado o débito, a devolução dos valores pagos a maior, na forma simples. Ante incerteza momentânea sobre a liquidez do crédito oriundo do contrato é inviável a afirmação de cobrança de dívida já paga por má-fé. Inocorrência das hipóteses previstas no art. 940 do Código Civil e art. 42 do Código de Defesa do Consumidor.
+Deferida a tutela provisória de urgência.
+ÔNUS SUCUMBENCIAIS E HONORÁRIOS ADVOCATÍCIOS. Mantida a distribuição do ônus sucumbenciais. Afastada a possibilidade de compensação. Majorado o valor dos honorários advocatícios estabelecidos na sentença.
+APELO DO CONSUMIDOR CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO.
+APELO DA INSTITUIÇÃO FINANCEIRA PARCIALMENTE PROVIDO." (e-STJ, fls. 205/207)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 402, 422 do CC/02, 3º da Lei 911/69, Resoluções 2.303/96 e 3.218/07 do CMN e divergência jurisprudencial, sustentando, em síntese, que: (a) preliminarmente, o julgamento do recurso deveria ter sido suspenso pelo Tribunal de origem, haja vista a afetação de recurso repetitivo que versa sobre o repasse de taxas de serviços prestados por terceiros, (b) a mera cobrança de juros remuneratórios superiores à taxa média de mercado não implica abusividade; (c) a mora está configurada; e (d) é legal o repasse da taxa de avaliação e registro de contrato ao consumidor.
+É o relatório. Decido.
+Em primeiro lugar, não há que se falar em suspensão do processo, tendo em vista que o acórdão recorrido nada tratou a respeito de tarifas de serviços prestados por terceiros, tema do recurso repetitivo afetado, limitando-se o Tribunal de origem a cuidar de tarifas cobradas pela própria instituição financeira.
+Do mesmo modo, não é possível conhecer do recurso quanto às tarifas de avaliação e de registro do contrato, em face da ausência de manifestação do acórdão recorrido acerca da matéria.
+Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+O Tribunal de origem, no que se refere à taxa de juros remuneratórios, expressamente consignou o seguinte:
+"Considerando que o caso concreto também discute revisão de juros remuneratórios em contrato de outorga de crédito firmado com instituição financeira e se amolda à situação do Recurso Especial paradigma, analiso a alegada abusividade dos juros remuneratórios tendo como parâmetro a taxa média de mercado do período da contratação divulgada pelo Banco Central do Brasil.
+O contrato juntado à(s) fI(s). 70/71, objeto do pedido revisional, foi firmado em 04/12/2012, onde se verifica que as partes ajustaram a incidência da taxa de juros remuneratórios de 3,7600% ao mês e de 55,725% ao ano sobre o valor financiado.
+No site do Banco Central do Brasil se extrai a informação que na data da assinatura do contrato a taxa média de mercado para esta modalidade de crédito era de 19,75% ao ano.
+Diante dessa realidade, verifica-se que a taxa de juros remuneratórios incidentes no caso concreto discrepa substancialmente da taxa de média de mercado do período." (e-STJ, fls. 222/223)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos e interpretação de cláusulas contratuais, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+Ressalte-se que o Tribunal não considerou os juros remuneratórios abusivos simplesmente porque superiores à taxa média, mas, em análise das circunstâncias do caso concreto, entendeu que a taxa cobrada (55,725% ao ano) discrepava substancialmente da taxa média de mercado (19,75% ao ano), conclusão que não se pode infirmar no presente recurso especial.
+Em face da cobrança de encargos ilegais  juros remuneratórios  , mantém-se o afastamento da mora.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios, com fundamento no art. 85, §11, do CPC/15, de R$ 1.200,00 (mil e duzentos reais) para R$ 1.320,00 (mil trezentos e vinte reais).
+Publique-se.
