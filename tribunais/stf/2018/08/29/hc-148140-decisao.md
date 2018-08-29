@@ -1,0 +1,19 @@
+Decisão:
+Ementa: Penal e processual penal. Habeas corpus. Tráfico de maconha. Prejudicialidade.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 416.643, do Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que a paciente foi presa em flagrante delito, em 13.08.2017, surpreendida com 110g de maconha, no momento em que realizaria visita a detento do Centro de Detenção Provisória do Município de Capela do Alto/SP. O Juízo de origem converteu a prisão em flagrante em preventiva, nos termos dos artigos 310, II, c/c art. 312, ambos do Código de Processo Penal.
+    3. Contra essa decisão foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Indeferida a liminar, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 416.643, Ministro Jorge Mussi, indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a decretação da custódia preventiva, destacando que a acusada “é primária, de bons antecedentes, com residência fixa e trabalho lícito”. Argumenta que a manutenção da prisão cautelar, em violação à necessidade de real motivação das decisões judiciais (art. 93, IX, da CF/88) e à dignidade da pessoa humana, poderá acarretar grave prejuízo moral e psicológico à paciente, se mantida no convívio de outras detentas já integradas à vida criminosa.
+    5. A medida liminar foi deferida “para permitir que a paciente aguarde, em liberdade, o julgamento do processo-crime, sem prejuízo da necessidade de expedição de nova ordem de prisão por motivo superveniente devidamente justificado ou mesmo da adoção das medidas cautelares do art. 319 do CPP”.
+    6. O Ministério Público Federal manifesta-se pela concessão da ordem.
+    Decido.
+    7. Para além de observar que o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem), não há como deixar de reconhecer o prejuízo da impetração. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “a superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do ‘habeas corpus’, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em conseqüência, a extinção anômala do processo”. (HC 83.799-AgR, Rel. Min. Celso de Mello).
+    8. No caso, a página oficial do Tribunal de Justiça do Estado de São Paulo na internet informa que foi proferida sentença condenatória da paciente a 5 anos de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput, c/c o artigo 40, III, da Lei 11.343/06. Em sede de apelação, o TJ/SP reduziu a pena para 2 (dois) anos e 11 (onze) meses de reclusão, mantido o regime inicial fechado.
+    9. Na sequência, a defesa apresentou novo pedido de habeas corpus no Superior Tribunal de Justiça. O Relator do HC 452.005, Ministro Jorge Mussi, indeferiu a medida cautelar.
+    10. Contra essa decisão, foi impetrado o HC 157.714, neste Supremo Tribunal Federal, sob minha relatoria. Em 28.06.2018, não conheci do writ. Contudo, concedi a ordem de ofício para fixar, desde logo, o regime inicial aberto e determinar ao Tribunal de origem que examinasse a possibilidade de substituição da reprimenda, nos termos do art. 44 do Código Penal. Deixei consignado que a paciente ficaria em liberdade, até o cumprimento desta deliberação por parte do Tribunal de segundo grau. De modo que este habeas corpus perdeu o objeto.
+    11.  Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o habeas corpus.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
