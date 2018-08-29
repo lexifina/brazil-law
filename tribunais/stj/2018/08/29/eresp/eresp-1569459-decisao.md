@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TERMO INICIAL DE PENSÃO POR MORTE DE EX-COMBATENTE. FILHA INVÁLIDA. DATA DO ÓBITO. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+DECISÃO
+Trata-se de Recurso Especial interposto por [NOME], com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+ADMINISTRATIVO. PENSÃO ESPECIAL DE EX-COMBATENTE. FILHA MAIOR E INVÁLIDA. REVERSÃO. LEI Nº 8.059/90. POSSIBILIDADE. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO. VERBA HONORÁRIA. MAJORAÇÃO. REMESSA OFICIAL IMPROVIDA. APELAÇÃO DA PARTE AUTORA PARCIALMENTE PROVIDA.
+1. Na espécie, restou devidamente comprovadas a condição de ex-combatente do instituidor da pensão especial, bem como a invalidez da parte autora desde o falecimento do seu genitor, instituidor da pensão especial. Assim sendo, nos termos do art. 5º, III, da Lei nº 8.059/90, faz jus à demandante à pensão deixada por ex-combatente na condição de filha maior inválida.
+2. Quanto ao termo inicial da condenação, em se tratando de concessão de pensão especial de ex-combatente, o início do pagamento do benefício é a data do requerimento administrativo, conforme o disposto nas próprias leis de regência, quais sejam o art. 53, II, do ADCT e a Lei nº 8.059/90, dispositivos que se aplicam à causa; ou a partir do pedido judicial, em caso de não ter havido prévio requerimento administrativo. Constatado que, in casu, houve requerimento administrativo da parte autora pleiteando a concessão de pensão especial de ex-combatente e que nesse requerimento ficou expressa a sua condição de invalidez (cf. documento de id. 4058000.137879), deve ser esse o marco inicial da condenação das parcelas pretéritas.Precedentes jurisprudenciais.
+3. Majoração do valor dos honorários advocatícios de R$ 1.000,00 (mil reais) para R$ 5.000,00 (cinco mil reais), nos termos do art. 20, § 4º, do CPC.
+4. Remessa oficial improvida. Apelação da parte autora parcialmente provida, apenas para determinar a data do requerimento administrativo como o termo inicial do pagamento das parcelas pretéritas da pensão especial de ex-combatente e para majorar a verba honorária advocatícia.
+A recorrente alega violação do artigo 198, I, c/c art. 3º, II, do Código Civil, sustentando que, por não correr prazo contra incapazes, o termo inicial do benefício da pensão por morte de ex-combatente é a data da morte do instituidor.
+É o relatório.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Merece prosperar o recurso.
+No caso dos autos, o Tribunal de origem assim consignou:
+"Da análise do substrato fático-probatório acostado ao feito eletrônico, afigura-se incontroversa nos autos a condição de ex-combatente do instituidor do benefício, genitor da autora, porquanto o mesmo percebeu a pensão de ex-combatente até o seu falecimento, ocorrido em janeiro de 2011, conforme demonstram os documentos anexados às fls. 10, 16 e 31).
+De igual modo, restou provada a condição de invalidez da autora desde a data do óbito do insituidor, seja pelo laudos médicos apresentados junto à petição inicial, seja pela perícia judicial, na qual consta que, em decorrência de patologia psiquiátrica, a postulante encontra-se incapaz de exercer os atos da vida civil há mais de vinte anos." (fl. 197).
+Inobstante a incapacidade da autora, a Corte de origem entendeu que o termo inicial do pagamento do benefício seria a data do requerimento administrativo, porquanto somente a partir desse momento é que se forma o vínculo entre a Administração e a parte interessada.
+Contudo, o entendimento desta Corte é o de que em se tratando de incapaz, contra o qual não corre a prescrição, o termo inicial do benefício da pensão por morte de ex-combatente é a data do óbito do instituidor.
+Confira-se o precedente:
+ADMINISTRATIVO. EX-COMBATENTE. PENSÃO ESPECIAL. ART. 53, II, DO ADCT. LEI 8.059/1990. INCAPAZ. TERMO INICIAL PARA CONCESSÃO DO BENEFÍCIO. DATA DO ÓBITO DO INSTITUIDOR.
+1. Cinge-se a controvérsia à data de início do pagamento de pensão de ex-combatente, quando requerida por incapaz.
+2. Conforme orientação jurisprudencial desta Corte, o termo inicial para o pagamento de pensão especial de ex-combatente quando ausente o prévio requerimento administrativo é a data da citação. Contudo, em se tratando de incapaz, é da data do óbito.
+3. À luz do art. 53, II, do ADCT e do art. 10 da Lei 8.059/90, não há falar em prescrição do fundo de direito da pretensão de recebimento de pensão especial de ex-combatente, podendo ser requerida a qualquer tempo.
+4. O Código Civil Brasileiro adotou o sistema protetivo dos interesses do absolutamente incapaz de que trata o art. 3º do mesmo Codex, de forma que contra ele não corre a prescrição. Como cediço, o prazo de prescrição começa a correr no momento que nasce a pretensão.
+5. No caso dos incapazes, o exercício da pretensão fica postergado para o momento do suprimento da incapacidade, razão pela qual é devida a pensão a partir da data do falecimento do instituidor da pensão.
+Embargos de divergência improvidos (EREsp. 1.141.037/SC, Corte Especial, Rel. Min. HUMBERTO MARTINS, DJe 16.12.2016).
+Ante o exposto, dou provimento ao recurso especial para fixar o termo inicial do benefício a data do óbito do instituidor da pensão. Mantida a verba honorária.
+Publique-se. Intimem-se.
