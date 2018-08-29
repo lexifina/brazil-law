@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+EXECUÇÃO - Auxílio-acidente e Aposentadoria por tempo de contribuição - Cumulação - Inadmissibilidade - Incidência, contudo, do disposto no artigo 31 da Lei 8.213/91 - Prosseguimento da execução com o refazimento dos cálculos - Recurso provido em parte.
+Naquela decisão, foi decidido que o valor mensal do auxílio-acidente integra o salário de contribuição para fins de cálculo do salário de benefício de qualquer aposentadoria.
+Foram rejeitados os embargos declaratórios opostos.
+No recurso especial, o recorrente aponta violação dos arts. 18, § 2º e 31 da Lei 8.213/1991.
+Sustenta, em síntese, pela impossibilidade de inclusão do auxílio-acidente no salário contribuição para cálculo da RMI da aposentadoria, assim porque o auxílio acidente é posterior à concessão da aposentadoria.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido pelo óbice da Súmula 83/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Conforme se depreende do acórdão recorrido, o segurado é beneficiário de aposentadoria por tempo de contribuição desde 22/04/2005.
+Ocorre que o acórdão objeto da presente execução, em que pese reconhecer a impossibilidade de cumulação dos benefícios de aposentadoria e auxílio-acidente, após a vigência da Lei n. 9.528/97, reconheceu que o valor do auxílio-acidente, que eventualmente poderia ser pago ao segurado à partir de 18/07/2006, deveria integrar o salário de contribuição para fins de cálculo do salário de benefício da aposentadoria.
+Entretanto, tanto o acórdão recorrido, quanto o acórdão exequendo, não se atentaram para o fato da aposentadoria do segurado ser anterior à data de início do pretenso auxílio-acidente.
+O Supremo Tribunal Federal, no julgamento do RE n. 661.256, sob o regime da repercussão geral, declarou a constitucionalidade da norma contida no art. 18, § 2º, da Lei n. 8.213/91, a qual veda aos aposentados que permaneçam em atividade, ou a essa retornem, o recebimento de qualquer prestação adicional em razão disso, senão vejamos:
+EMENTA Constitucional. Previdenciário. Parágrafo 2º do art. 18 da Lei 8.213/91. Desaposentação. Renúncia a anterior benefício de aposentadoria. Utilização do tempo de serviço/contribuição que fundamentou a prestação previdenciária originária. Obtenção de benefício mais vantajoso. Julgamento em conjunto dos RE nºs 661.256/sc (em que reconhecida a repercussão geral) e 827.833/sc. Recursos extraordinários providos.
+1. Nos RE nºs 661.256 e 827.833, de relatoria do Ministro Luís Roberto Barroso, interpostos pelo INSS e pela União, pugna-se pela reforma dos julgados dos Tribunais de origem, que reconheceram o direito de segurados à renúncia à aposentadoria, para, aproveitando-se das contribuições vertidas após a concessão desse benefício pelo RGPS, obter junto ao INSS regime de benefício posterior, mais vantajoso.
+2. A Constituição de 1988 desenhou um sistema previdenciário de teor solidário e distributivo. inexistindo inconstitucionalidade na aludida norma do art. 18, § 2º, da Lei nº 8.213/91, a qual veda aos aposentados que permaneçam em atividade, ou a essa retornem, o recebimento de qualquer prestação adicional em razão disso, exceto salário-família e reabilitação profissional.
+3. Fixada a seguinte tese de repercussão geral no RE nº 661.256/SC: " n o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei nº 8213/91".
+4. Providos ambos os recursos extraordinários (RE nºs 661.256/SC e 827.833/SC).
+(RE 661.256, Relator(a): Min. ROBERTO BARROSO, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 27/10/2016, PROCESSO ELETRÔNICO DJe-221 DIVULG 27-09-2017 PUBLIC 28-09-2017 - grifo nosso)
+ Logo, resta cristalina a impossibilidade de execução do presente título judicial. Assim porque, para integrar o auxílio-acidente no salário-de-contribuição para fins de cálculo do benefício, seria necessário que se procedesse à desaposentação do segurado na medida em que a sua aposentadoria antecede a concessão do auxílio-acidente, tornando o acórdão em que se funda a presente execução inexequível.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial e julgar extinta a presente execução.
+Publique-se. Intimem-se.
