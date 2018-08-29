@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e REGINALDO BARBOSA DE FRANCA, com amparo no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CRIMINAL  Roubo majorado  Artigo 157, § 2º, II do Código Penal  Acervo probatório que justifica a procedência da ação penal  Autoria e Materialidade comprovadas  Desclassificação para o delito de furto  Impossibilidade  Grave ameaça devidamente comprovada ao longo da instrução criminal  Palavra da vítima  Validade  Precedentes  Desclassificação para tentativa  Impossibilidade - o delito de roubo se consuma com a inversão  com violência ou grave ameaça  da posse da res furtivae pelo agente , sendo irrelevante o interregno da retenção do bem pelo acusado  Pena  Dosimetria  Reprimenda bem aplicada  Regime inicial fechado  Adequado à espécie  APELOS NÃO PROVIDOS." (e-STJ, fl. 270).
+Os recorrentes alegam negativa de vigência dos arts. 33, § 2º, "b", do Código Penal e 387, § 2º, do Código de Processo Penal. Sustentam, em suma, ausência de fundamentação da decisão que estabeleceu o regime mais gravoso. Aduzem, ainda, que o período que ficaram presos preventivamente deve ser considerado pelo Tribunal para a fixação do regime prisional inicial.
+Contrarrazões apresentadas (e-STJ, fls. 333-347) e admitido o recurso, os autos subiram a esta Corte.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, e ainda, requereu o início da execução provisória da pena (e-STJ, fls. 367-374).
+É o relatório.
+Decido.
+O Tribunal de origem estabeleceu o regime fechado pelos seguintes fundamentos:
+"É da dinâmica fático-probatória, decorrente da instrução: a vítima estacionou seu caminhão no acostamento da Rodovia Ayrton Senna, a fim de verificar um barulho na roda, momento em que foi abordada pelos acusados e pelo adolescente, os quais, se aproveitando da superioridade numérica, imobilizaram a vítima, segurando-a. Em seguida, eles despojaram-na dos bens que trazia consigo e se apoderaram dos objetos que estavam no interior do caminhão, fugindo logo em seguida.
+ ..
+Do mesmo modo, acertada a imposição de regime prisional inicial fechado, haja vista a gravidade in concreto do delito, caracterizada pelo fato de que os apelantes, mediante o emprego de grave ameaça, exercida com emprego de força física, subjugaram o ofendido, em plena Rodovia Ayrton Senna, subtraindo-lhe seus bens, a demonstrar total desprezo pela norma penal e pelas regras de convívio em sociedade." (e-STJ, fls. 271-276).
+Sobre o tema, cumpre ressaltar que a Súmula 440/STJ dispõe que "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+No mesmo sentido, a Súmula n. 718 da Suprema Corte, afirma que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Na hipótese dos autos, como se observa, o regime prisional mais grave foi estabelecido com fundamento em dados concretos, tendo em vista a participação de um adolescente no crime.
+Desse modo, embora tratar-se de acusados primários e a pena-base tenha sido estabelecida no mínimo legal, a indicação de circunstância fática que comprova a maior reprovabilidade do delito autoriza a definição do modo mais rigoroso de cumprimento de pena.
+No mesmo sentido, os seguintes precedentes:
+"HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. TERCEIRA FASE DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO SUFICIENTE DA SENTENÇA CONDENATÓRIA. MODIFICAÇÃO ILEGAL NO JULGAMENTO DO RECURSO DE APELAÇÃO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INSUFICIENTE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+4. As instâncias antecedentes entenderam devida a fixação do regime inicial fechado de cumprimento de pena com base tão somente na gravidade genérica do delito de roubo, sem, no entanto, apontar nenhum elemento concreto dos autos (como o modus operandi, a potencialidade lesiva de arma, a participação de adolescente no crime ou a desfavorabilidade de circunstâncias judiciais, por exemplo) que efetivamente justificasse a fixação do regime inicial mais gravoso, nos termos do art. 33, § 3º, do Código Penal.
+(..)." (HC 224.534/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/06/2015, DJe 03/08/2015).
+" ..  REGIME INICIAL FECHADO FIXADO COM BASE NA GRAVIDADE CONCRETA DO DELITO. CONCURSO DE TRÊS AGENTES. CONSTRANGIMENTO NÃO EVIDENCIADO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a escolha do sistema prisional não está atrelada, de modo absoluto, ao quantum de pena firmado, devendo-se considerar as demais circunstâncias do caso concreto.
+2. Na espécie, não obstante o redimensionamento da reprimenda para patamar inferior a 08 (oito) anos, o regime inicial fechado deve ser mantido em razão da gravidade concreta do delito cometido, considerando que foi perpetrado em concurso de 03 (três) agentes, sendo um deles adolescente.
+3. Habeas corpus não conhecido. Ordem concedida de ofício a fim de reduzir a sanção final do paciente para 07 (sete) anos, 05 (cinco) meses e 25 (vinte e cinco) dias de reclusão, e multa."
+(HC 353.237/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/06/2016, DJe 22/06/2016).
+Outrossim, ainda que fosse descontado o período em que o recorrente esteve preso provisoriamente, para fins de detração, nos termos do artigo 387, § 2º, tal desconto não teria o condão, por si só, de alterar o regime apicado, uma vez que a fixação do regime fechado, no caso, não se baseia na quantidade de pena aplicada, mas em circunstância fática que comprova a maior reprovabilidade do delito, qual seja, a participação de um adolescente no crime.
+Ademais, a regra contida no artigo 387, § 2º, do Código de Processo Penal, a qual determina que o tempo da prisão provisória deverá ser computado para fixação do regime inicial de cumprimento de pena pelo juiz sentenciante, não se confunde com progressão de regime.
+Nesse sentido, confira-se:
+"A questão, no caso, não é de execução penal, mas de fixação do regime inicial de cumprimento de pena a ser imposto pelo Juízo singular - o da condenação - por ocasião da sentença, quando se computará o período em que o réu permaneceu preso provisoriamente para fins de escolha do modo inicial de execução da sanção, por intenção e determinação do legislador.
+Da mesma forma deve se dar quando da análise da questão pelo Tribunal em sede de recurso com efeito devolutivo."
+(AgRg no AREsp 652.915/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 9/03/2016, grifou-se.)
+Ilustrativamente:
+" ..
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que o disposto no § 2º do art. 387 do Código de Processo Penal, com redação dada pela Lei n. 12.736/2012, refere-se ao regime inicial de cumprimento de pena, e não à progressão, própria da execução penal, competindo, portanto, ao juízo de conhecimento a análise da possibilidade de se estabelecer um regime inicial mais brando, observada a detração no caso concreto. Precedentes.
+2. Assim, cabe ao Magistrado sentenciante "descontar da pena privativa de liberdade imposta ao condenado o período de prisão provisória, de prisão administrativa ou de internação. Se, com o tempo descontado, à luz do art. 33, § 2º, do Código Penal, for possível a alteração do regime, poderá o juiz estabelecer novo regime inicial de cumprimento, se as circunstâncias do art. 59 do Código Penal assim recomendarem" (HC 307.521/SP, Rel. Ministro WALTER DE ALMEIDA GUILHERME - Desembargador Convocado do TJ/SP - DJe 3/12/2014).
+3. Agravo regimental não provido."
+AgRg no AREsp 627.082/DF, Rel. Ministro REYNALDO SOARES DA FONSECA,QUINTA TURMA, DJe 11/11/2015);
+" ..
+1. O Superior Tribunal de Justiça possui o entendimento de que o art. 387, § 2º, do Código de Processo Penal se refere ao regime inicial de cumprimento de pena e não possui relação com o instituto da progressão de regime, devendo o juiz sentenciante verificar a possibilidade de se fixar um regime mais brando de acordo com a detração no caso concreto. Sendo assim, não há falar em análise dos requisitos objetivos e subjetivos, até porque tal exame implicaria invasão da competência do Juízo de Execuções, prevista no art. 66, III, b, da Lei n. 7.210/1984.
+2. Agravo regimental improvido."
+(AgRg no REsp 1.540.451/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 5/11/2015)
+Por fim, diante da decisão proferida pelo Supremo Tribunal Federal, nos autos do HC 126.292/SP, ficou assente que, esgotadas as instâncias ordinárias, a interposição de Recurso Especial não obsta a execução da decisão penal condenatória.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial. Ademais, determino a comunicação imediata desta decisão ao Tribunal de origem, a fim de que tome as providências que entender necessárias no tocante ao início da execução provisória das penas dos recorrentes.
+Publique-se. Intimem-se.
