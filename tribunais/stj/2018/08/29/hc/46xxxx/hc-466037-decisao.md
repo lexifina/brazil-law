@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MOISES DOS SANTOS COSTA MAIA, apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal nº 0011460-47.2016.8.07.0003).
+Segundo os autos, o paciente foi condenado à pena de 2 anos e 8 meses de reclusão, em regime semiaberto, mais o pagamento de 20 dias multa, como incurso no art. 155, §4º, II, do Código Penal (fls. 75/85).
+Inconformada, a defesa interpôs recurso de apelação, ao qual o Tribunal de Justiça negou provimento, em aresto assim sumariado (fl. 93):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - ABUSO DE CONFIANÇA - COMPROVAÇÃO - FURTO DE USO - INOCORRÊNCIA - DESPROVIMENTO.
+I. Para a configuração do furto de uso faz-se necessária a ausência de ânimo de assenhoramento caracterizada pela rápida devolução do bem, ausência de dano e falta de percepção da vítima. No caso, o bem só foi restituído pela interferência do ofendido.
+II. O abuso de confiança está caracterizado. O réu valeu-se da relação de parentesco para subtrair o bem.
+III. Apelo desprovido.
+No presente mandamus, assere o impetrante que a genuína proprietária do veículo objeto de furto, parente colateral (tia) do paciente, com quem coabita, não representou às autoridades competentes sobre a prática do crime, não demonstrando interesse na propositura da ação penal. Nessa senda, assere que o comunicante do delito, em que pese ser tio do acusado, não é parte legítima para fins de representação.
+Outrossim, defende o reconhecimento da imunidade material penal do art. 182, III, do CP (escusa absolutória), a ensejar a nulidade absoluta da ação penal.
+Pondera, ainda, que já se findou o prazo oportuno para fins de representação, eis que ultrapassados 6 meses desde o fato, aplicando-se ao caso o art. 38 do CPP.
+Ao final, pede, liminarmente, possa o paciente aguardar em liberdade o julgamento deste writ. No mérito, pugna pelo reconhecimento da escusa absolutória e, via de consequência, pela extinção da punibilidade, nos termos do art. 107, IV, do Código Penal.
+É o relatório.
+Decido.
+Verifica-se, desde logo, que a questão trazida a debate no presente writ, a saber, o reconhecimento da escusa abdolutória do art. 182, III, do CP, não foi sequer ventilada perante o Tribunal a quo, o que impede sua cognição por esta Corte, sob pena de indevida supressão de instância.
+Dessarte, não tendo sido o tema em apreço enfrentado pelo Tribunal de origem, afigura-se inviável a sua cognição por este Sodalício. Nesse sentido:
+PENAL E PROCESSUAL PENAL. TRÁFICO ILÍCITO DE SUBSTÂNCIAS ENTORPECENTES. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. MODIFICAÇÃO DO REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. MATÉRIAS NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CUSTÓDIA CAUTELAR MANTIDA NA SENTENÇA CONDENATÓRIA. PERSISTÊNCIA DOS MOTIVOS ENSEJADORES DA PRISÃO PREVENTIVA. PERICULOSIDADE DO AGENTE. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE.
+- Os pedidos de aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, de modificação do regime prisional e de substituição da pena privativa de liberdade por restritiva de direitos não podem ser conhecidos neste Tribunal Superior, já que não foram enfrentados na origem, sob pena de indevida supressão de instância.
+- Não há ilegalidade na decisão impugnada que não conheceu das referidas questões, dado que necessário o reexame aprofundado das provas para análise dos pleitos, inviável na via eleita, e porquanto ausente situação excepcional a autorizar o uso do habeas corpus em substituição ao recurso próprio.
+ - "Não se concede o direito de recorrer em liberdade a réu que permaneceu preso durante a instrução do processo, pois a manutenção da segregação constitui um dos efeitos da respectiva condenação, mormente quando persistem os motivos ensejadores da custódia cautelar" (HC 245.975/MG, Rel. Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 7.12.2012).
+- No caso, a custódia cautelar está devidamente motivada na garantia da ordem pública, diretamente ameaçada pela periculosidade do recorrente, revelada nas circunstâncias que envolveram o fato criminoso, dada a apreensão de variada e expressiva quantidade de entorpecentes (1.853,40g de maconha em 225 sacolés, 78,90g da substância entorpecente cocaína em 15 sacolés, além de 629 pedras de crack).
+Recurso parcialmente conhecido e, nesta parte, improvido.
+(RHC 36.497/RJ, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), QUINTA TURMA, julgado em 25/06/2013, DJe 01/08/2013)
+RECURSO ORDINÁRIO EM HABEAS CORPUS 1. TRÁFICO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI N.º 11.343/2006. APLICAÇÃO EM PATAMAR MÍNIMO, MANTIDA PELO TRIBUNAL A QUO. QUANTIDADE E NATUREZA DA DROGA - 1,325 KG DE COCAÍNA. INVIABILIDADE DE REDUÇÃO DA PENA EM PATAMAR SUPERIOR. 2. FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. SUPRESSÃO DE INSTÂNCIA. 3. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça firmou jurisprudência no sentido de que, à luz do art. 42 da Lei n.º 11.343/2006, a natureza, a quantidade e a diversidade de droga apreendida, bem como as circunstâncias judiciais desfavoráveis, autorizam a aplicação do benefício inserido no art. 33, § 4º, do citado diploma legal, em patamar diverso do máximo de 2/3 (dois terços).
+2. Não tendo sido as matérias atinentes à fixação do regime aberto e à substituição da pena privativa de liberdade por restritivas de direitos, objeto de exame pelas instâncias anteriores, também não é possível a esta Corte Superior aferir eventual ilegalidade perpetrada, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida ao Superior Tribunal de Justiça, no art. 105 da Carta Magna, qual seja: analisar tema "decidido em única ou última instâncias pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão". Como quer que seja, a manutenção da pena tal como fixada não dá ensejo à referida substituição, devido ao não preenchimento do requisito objetivo previsto no art. 44, I, do Código Penal.
+3. Recurso ordinário não provido.
+(RHC 31.529/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 21/05/2013, DJe 29/05/2013)
+Diante do exposto, com fundamento no artigo 210 do Regimento Interno deste Tribunal, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
+Sem recurso, ao arquivo.
