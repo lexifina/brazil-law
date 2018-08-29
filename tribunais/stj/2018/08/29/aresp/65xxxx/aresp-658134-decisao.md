@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do Tribunal Regional Federal da 3ª Região, a qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 156):
+DIREITO PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INOMINADO. MANDADO DE SEGURANÇA. EXIGÊNCIA DO INSS DE PROTOCOLO DE PETIÇÕES E PRÉVIO AGENDAMENTO.
+1. Consolidada a jurisprudência, firme no sentido de que não é legítima a fixação de restrições, pelo INSS, ao atendimento específico de advogados em seus postos fiscais, com a limitação de inúmero de requerimentos e ainda a exigência de prévio agendamento, circunstâncias que violam o livre exercício profissional e as prerrogativas próprias da advocacia.
+2. Agravo inominado desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 172/179).
+No especial obstaculizado, o recorrente apontou preliminar de ofensa ao art. 535, I, do Código de Processo Civil/1973, ante a rejeição dos embargos de forma obscura acerca da matéria suscitada acerca do art. 3º da Lei n. 10.741/2003, do art. 5º, caput, e inciso II, e do art. 37 da Constituição Federal de 1988.
+No mérito, alegou dissídio jurisprudencial e violação do art. 3º da Lei n. 10.741/2003, sustentando ser obrigada por lei a dispensar ao idoso tratamento preferencial, imediato e individualizado; por essa razão, instituiu o agendamento para cumprir a legislação.
+Segundo defendeu, enquanto o TRF-3ª Região entende que o tratamento preferencial do impetrante constitui direito líquido e certo e que não deve o Instituto Autárquico limitar o exame pelos advogados procuradores de segurados a um processo por dia, por considerar supressão de um direito garantido legalmente, o TRF da 4ª Região firmou entendimento de que conferir tratamento privilegiado aos advogados configura ofensa ao objetivo da universalidade de atendimento, previsto no art. 194, parágrafo único, inciso I, da Constituição Federal.
+E conclui, caso prevaleça o acórdão recorrido, que a situação dos segurados da Previdência Social piorará, "pois vendo que não conseguem ser atendidos de forma adequada - já que os advogados sempre passarão na frente, com prioridade de atendimento, os segurados acabarão com a ideia equivocada de que é necessário se fazer representar por advogados" (e-STJ fl. 196).
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o qual foi impugnado (e-STJ fls. 230/231 e 235/245).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado. A propósito: EDcl no AgInt no RE nos EDcl no AgInt no AREsp 887.885/RN, Rel. Ministro HUMBERTO MARTINS, Corte Especial, julgado em 18/04/2018, DJe 26/04/2018.
+Quanto ao mais, merece ser mantido o julgado recorrido, visto estar em "consonância com a orientação desta Corte, segundo a qual, o advogado tem o direito de ser atendido nas repartições públicas sem a necessidade de prévio agendamento ou limitações no número de atendimento, não significando conferir privilégio injustificado em detrimento dos demais segurados" (AgInt no REsp 1.712.050/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, julgado em 22/05/2018, DJe 05/06/2018). (Grifos acrescidos).
+Em idêntica compreensão, da Segunda Turma:
+PROCESSUAL CIVIL. ADVOGADOS. INSS. ATENDIMENTO. AGENDAMENTO. HORA MARCADA. ESTATUTO DA ADVOCACIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado por [NOME], advogada, ora agravada, contra ato do Instituto Nacional do Seguro Social - INSS, ora agravante, com o objetivo de lhe assegurar o direito de protocolizar mais de um requerimento de beneficios previdenciários ao mesmo tempo, independentemente de atendimento por hora marcada.
+2. O Juiz de primeiro grau denegou a segurança.
+3. O Tribunal a quo deu provimento à Apelação da ora agravada.
+4. Esclareça-se que o STF quando apreciou o Recurso Extraordinário 769.254/SP, afetado para a análise da existência de repercussão geral do Tema 741 (Validade da exigência do INSS de prévio agendamento para atendimento de advogados e da restrição a um único requerimento de benefício previdenciário por atendimento), entendeu pela sua inexistência por ser a matéria de cunho infraconstitucional.
+5. A Administração Pública não pode restringir o direito assegurado ao advogado pela Lei 8.906/1994, Estatuto da Advocacia, por razões de conveniência para o bom atendimento ao público.
+6. Como bem destacou o Tribunal de origem, somente a Lei poderá restringir os direitos dos advogados, que são indispensáveis à administração da justiça.
+7. Assim, os advogados devem ser atendidos, dentro do horário do expediente do Instituto Nacional do Seguro Social - INSS, diretamente pelo servidor, sem necessidade de agendamento pelo chamado "Atendimento por hora marcada".
+8. Agravo Interno não provido.
+(AgInt no AREsp 659.677/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/05/2017, DJe 17/05/2017).
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito deduzido na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
