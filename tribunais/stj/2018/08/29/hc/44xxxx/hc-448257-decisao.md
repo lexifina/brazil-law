@@ -1,0 +1,18 @@
+DECISÃO
+JOÃO [NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo (Apelação n. 0018127-61.2013.8.08.0024).
+O paciente foi condenado a cumprir penas restritivas de direitos por incursão no art. 299 do CP.
+Os impetrantes buscam a anulação da sentença condenatória, haja vista "a inexistência de coerência intrínseca consubstanciada na evidente motivação contraditória e em absoluta testilha com a parte dispositiva das decisões suso enfocadas" (fl. 8). Esclarecem que o paciente não praticou o crime, uma vez que, "ao tempo das aludidas compras e vedas,  ..  já havia se desligado" da Superintendência dos Projetos de Polarização Industrial - SUPIN (fl. 4).
+Decido.
+Consta da sentença que, a partir de dezembro de 2005 até o ano de 2007, o paciente e outros dois réus fraudaram a comercialização de terrenos da [NOME], mediante celebração de contratos de compra e venda e da outorga e lavratura de escrituras públicas ideologicamente falsas.
+O Magistrado explicou: "[NOME]  ..  ocupou o cargo de superintendente da referida autarquia de 26/12/05 a 1/3/07" e "foi o responsável pela negociação com empresários e representação da autarquia na assinatura dos contratos" (fl. 40).
+Não está configurada a pretensa falta de motivação ou de coerência da condenação mantida pelo Tribunal de Justiça, porque:
+a) quanto à materialidade, a falsidade está comprovada pelo documento de "solicitação de escritura definitiva" e pelas "escrituras públicas" juntadas aos autos (fl. 84);
+b) em relação à autoria delitiva, os "depoimentos prestados pela testemunha Gilson" (fl. 85-88), pela "testemunha Luadicéia" (fl. 91-94) e por "[NOME] (engenheiro civil) e [NOME] (gerente comercial)" (fl. 97) demonstram a responsabilidade penal do paciente.
+Consta do acórdão que o próprio réu esclareceu que "na condição de [NOME], participou da venda do Lote n. 3  ..  para a empresa [NOME] - ME" e "logo depois solicitou a devolução do imóvel" (fl. 109).
+O Tribunal de Justiça salientou que as "provas orais" são convergentes e demonstram que "[NOME] e Vicente Santório Filho tinham relacionamento estreito, atuando de forma bastante incisiva na transferência de imóveis adquiridos da [NOME], contanto, inclusive, com a participação do superintendente [NOME] e das pessoas ligadas ao Cartório de Registro Geral de Imóveis" (fl. 119).
+De acordo com o aresto estadual, relatos específicos das testemunhas dão conta que "o réu [NOME] era o mentor de todo o esquema criminoso" e que "interviu no sentido de efetuar a devolução do terreno para a [NOME], com posterior lavratura de escrituras públicas, informando falsamente a transferência do imóvel para o seu domínimo e, posteriormente, para [NOME]" (fl. 119)
+Ademais, os depoimentos esclareceram "que [NOME] e Vicente Santório Filho atuavam em comunhão de desígnios com o acusado [NOME] na venda de terrenos da [NOME]" (fl. 119).
+Assim, conforme se observa da mera leitura da sentença e do acórdão, houve farta indicação de motivos para fundamentar a condenação. Nesse cenário, não há falar em violação do art. 93, IX, da CF e do art. 381, III, do CPP.
+Ademais: "Se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, ser o réu autor dos delitos descritos na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ" (HC n. 363.933/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 28/6/2017).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego este habeas corpus.
+Publique-se e intimem-se.
