@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal, assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. DIREITO PROCESSUAL CIVIL. CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. PROMOÇÃO EM RESSARCIMENTO DE PRETERIÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE PROVA. ADMINISTRAÇÃO PÚBLICA. ADSTRIÇÃO AO PRINCÍPIO DA LEGALIDADE. NÃO SUBSUNÇÃO AO TIPO LEGAL. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA”. (eDOC 5, p. 29)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e c, da Constituição Federal, aponta-se violação aos arts. 21, XIV; e 22, XXI, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que normas constantes dos Decretos Distritais 24.024/2003 e 26.364/2005, os quais violariam a competência privativa da União para tratar do regime jurídico do Corpo de Bombeiros Militar do DF, geraram a preterição do recorrente em favor de soldado mais moderno. (eDOC 5, p. 62)
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “Recurso Extraordinário com Agravo. Bombeiro militar do Distrito Federal. Direito à promoção por preterição. Necessidade de reexame de fatos e provas e da legislação infraconstitucional de regência. Falta de questão constitucional direta. Parecer por que se negue seguimento ao agravo”. (eDOC 9)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 12.086/2009) e o conjunto probatório constante dos autos, consignou que o recorrente não preencheria os requisitos legais – não regulamentares – para a promoção em ressarcimento. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Cabe, portanto, àquele que alega a preterição, provar que preenchia todos os requisitos de promoção, sob pena de se promover, na alegação de promoção em ressarcimento, um militar que, em verdade, apesar de possuir antiguidade ou merecimento, não preenchia outros critérios previstos em lei e nos editais convocatórios.
+    No caso em tela, o apelante alega que foi preterido na promoção ao posto de graduação superior em detrimento de outro companheiro de corporação militar, o qual seria mais moderno que o recorrente. Contudo, como bem salientado pelo douto magistrado sentenciante, "a verificação da antiguidade não é o único requisito para a promoção. São realizadas outras exigências como a higidez da saúde, aprovação no curso de formação dentro do número de vagas, tempo no posto à época da preterição, não comprovadas, a teor do art. 373, I, do Cód. de Processo Civil, nos autos. (fl. 328)”. (eDOC 5, p. 36)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO MILITAR. LEI ESTADUAL. PROMOÇÃO. PREENCHIMENTO DE REQUISITOS. 1. Questão que envolveria o reexame dos fatos e provas constantes dos autos, bem como a análise de legislação local. Incidência das Súmulas 279 e 280/STF. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973”. (ARE 920.730 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 21.10.2016)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. Promoção militar. 3. Necessidade de revolvimento do acervo fático-probatório e da legislação infraconstitucional. Impossibilidade. Precedentes. Incidência dos enunciados 279 e 280 da Súmula do STF. 4. Suposta ofensa ao princípio da legalidade. Inocorrência. Incidência do enunciado 636 da Súmula do STF. 5. Agravo regimental a que se nega provimento”. (ARE 886.024 AgR, de minha relatoria, Segunda Turma, DJe 5.11.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e majoro o valor da verba honorária fixada pela origem (eDOC 5, p. 44) em 10%, observados os limites previstos nos parágrafos 2º e 3º do art. 85 do CPC.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
