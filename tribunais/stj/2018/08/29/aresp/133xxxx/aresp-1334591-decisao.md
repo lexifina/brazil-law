@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça de São Paulo deixando de aplicar a figura privilegiada - art. 155, §2º, do CP - em favor de ALCIDES MARIA DA CONCEIÇÃO, condenado à pena de 6 (seis) meses de reclusão, em regime inicial aberto, mais 5 (cinco) dias-multa, por infração ao art. 155, caput, c/c art. 14, II, ambos do Código Penal.
+Nas razões do especial, fulcrado nas alíneas "a" e "c" do permissivo constitucional, alega o recorrente negativa de vigência ao art. 155, §2º, do Código Penal, além de divergência jurisprudencial.
+Sustenta, em síntese, o preenchimento dos requisitos autorizadores ao reconhecimento da figura privilegiada, pois é primário e de pequeno valor a coisa furtada, avaliada em R$ 690,00 (seiscentos e noventa reais).
+Contra-arrazoado (e-STJ fls. 237/242), o recurso foi inadmitido (e-STJ fls. 244/246), motivando o presente agravo.
+Contraminuta às e-STJ fls. 273/277 e manifestação ministerial nos termos da seguinte ementa (e-STJ fl. 291):
+AGRAVO EM RECURSO ESPECIAL. FURTO TENTADO (ART. 155, CAPUT, C/C ART. 14, II, AMBOS DO CP CP). PLEITO DE RECONHECIMENTO DO FURTO PRIVILEGIADO. RECURSO INTERPOSTO SEM A FUNDAMENTAÇÃO NECESSÁRIA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. JULGADOS MESMO TRIBUNAL PROLATOR DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 13/STJ. INADMISSIBILIDADE DO RECURSO ESPECIAL. Pelo conhecimento do agravo para não conhecer o recurso especial.
+É o relatório. Decido.
+O agravo é tempestivo e foram impugnados os fundamentos do despacho de inadmissibilidade.
+Passo, então, à análise do mérito do recurso especial.
+Veja o que disse o Tribunal a quo, ao repelir a incidência da figura privilegiada à hipótese (e-STJ fls. 211/212):
+Com efeito. Incabível a aplicação do privilégio. Isto porque, a regra preceituada no artigo 155, § 2o, do Código Penal, traz como requisitos para aplicação do privilégio ser o criminoso primário e de pequeno valor a coisa furtada.
+No presente caso, os bens apreendidos não eram de pequeno valor, sendo avaliados em R$ 690,00  seiscentos e noventa reais  (fls. 16 a 17), não fazendo, pois, o apelante, jus ao privilégio.
+A respeito, bem disserta o judicioso parecer da ilustrada Procuradoria Geral de Justiça, "em hipótese alguma pode-se dizer ser quantia de pequeno valor, na medida em que representa mais de setenta por cento do salário mínimo nacional (valor recebido por milhares de trabalhadores de bem como meio de mantença familiar) e em nada se relacionam os bens a itens relativos à necessidade de sobrevivência" (fl. 182).
+O reconhecimento do privilégio legal exige a conjugação de dois requisitos objetivos, quais sejam primariedade e pequeno valor, que, na linha da jurisprudência desta Corte, deve ter como parâmetro o valor do salário mínimo vigente à época dos fatos.
+No caso, o recorrente, aos 24/4/2011, tentou subtrair, para si, 1 (um) cortador de piso marca Fermat, 1 (um) fio elétrico de 20 metros, 45 (quarenta e cinco) interruptores completos, espelhos e parafusos, marca Fame, mais um paflon, marca bronzearte, pertencentes a [NOME], tudo avaliado em 690,00 (seiscentos e noventa) reais, valor superior ao salário mínimo vigente à época dos fatos, que era de R$ 545,00 (quinhentos e quarenta e cinco) reais, o que afasta a incidência da figura privilegiada.
+A propósito do tema, vale destacar os seguintes precedentes desta Eg. Corte:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO PENAL. FURTO. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DO ART. 155, § 2º, DO CÓDIGO PENAL. IMPOSSIBILIDADE. VALOR SUPERIOR A UM SALÁRIO MÍNIMO.
+1. A jurisprudência do Superior Tribunal de Justiça tem adotado o valor do salário mínimo como parâmetro para aplicação do privilégio no crime de furto, critério esse que, todavia, não é absoluto, podendo ser consideradas as circunstâncias que permeiam o caso concreto.
+2. Forçoso afastar a aplicação do privilégio na hipótese em que o bem furtado foi avaliado em R$ 1.000,00, (um mil reais) valor superior ao do salário mínimo vigente à época do fato (5/1/2015), que era de R$ 788,00 e não há nos autos maiores informações acerca das especificidades do fato concreto, notadamente quanto à repercussão dessa quantia em face da capacidade financeira da vítima.
+3. Agravo regimental improvido. (AgRg no REsp 1706416/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. PRETENSÃO DE RECONHECIMENTO DE FURTO PRIVILEGIADO (ART. 155, § 2º, DO CP). IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DO DELITO. ELEVADA REPROVABILIDADE DA CONDUTA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Na aplicação do furto privilegiado (art. 155, § 2º, do Código Penal), o salário mínimo vigente à época dos fatos vem sendo utilizado como parâmetro para se atribuir à coisa furtada a qualidade de "pequeno valor". Porém, não se trata de um critério absoluto. Deve ser considerado juntamente com as demais circunstâncias do delito.
+In casu, o valor furtado, equivalente a um salário mínimo vigente à época dos fatos, era proveniente da aposentadoria da vítima e ainda representada toda a quantia existente na conta bancária, o que demonstra elevada reprovabilidade da conduta e, em consequência, a impossibilidade de reconhecimento do furto privilegiado.
+Habeas corpus não conhecido. (HC 401.574/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+Diante do exposto, com fulcro no art. 932, inc. VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
