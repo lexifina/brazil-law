@@ -1,0 +1,31 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por José Augusto Marcondes de Moura Junior, em favor de Altair Gomes de Andrade (eDOC 1, p. 1-11), contra decisão proferida pelo Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC 440.200/MS (eDOC 4, p. 1-3).
+    Preliminarmente, consta dos autos o seguinte:
+    “(...) o Juízo (…) da 5ª Vara Federal da Seção Judiciária do Mato Grosso do Sul condenou o paciente pela prática do crime de contrabando – no dia 07/12/2009, recebeu e transportou 200.000 maços de cigarro de origem estrangeira, introduzidos de forma clandestina no território nacional, sem a devida documentação legal, mediante promessa de recompensa (fl. 30) –, à pena de 2 anos, 3 meses e 22 dias de reclusão, em regime inicial fechado (fls. 18/27 – Ação Penal n. 0014513-78.2009.403.6000).
+    Inconformada, a defesa interpôs apelação, tendo a Corte regional negado provimento ao recurso (fls. 28/32 – Apelação Criminal n. 0014513-78.2009.4.03.6000/MS ” (eDOC 4, p. 1)
+    No presente HC (eDOC 1, p. 1-11), sustenta-se, em síntese, a impossibilidade de fixação do regime prisional inicial fechado, ainda que presentes, no caso, a reincidência e maus antecedentes, sobretudo diante da reduzida pena de 2 anos e 3 meses de reclusão.
+    Ao final, o impetrante pede, em liminar e no mérito, a concessão da ordem para “sustar os efeitos da decisão proferida pelo Tribunal Regional Federal da 3ª Região, garantindo ao paciente ALTAIR GOMES DE ANDRADE, o direito de cumprir a reprimenda em regime inicial semiaberto” (eDOC 1, p. 11)
+    Registro que o presente HC foi a mim distribuído por prevenção ao RHC 154.626/MS (certidão, eDOC 6).
+    É o relatório.
+    Decido.
+    Inicialmente, para melhor compreensão da controvérsia, transcrevo da decisão ora impugnada, do STJ:
+    “Busca a impetração a fixação do regime inicial semiaberto de cumprimento da pena, alegando ausência de fundamentação idônea para imposição do regime fechado.
+    Da análise dos autos, tem-se que o regime inicial fechado foi fixado sem fundamentação – fixo o REGIME FECHADO para o início do cumprimento da pena privativa de liberdade (art. 33, § 2º, a, e § 3º, do CP) – e a pena-base exasperada em 1 ano, em razão da grande quantidade de cigarros apreendidos (fl. 22).
+    Por sua vez, o Tribunal a quo indeferiu a pretensão defensiva, ao fundamento de que o acusado dedica-se costumeiramente à prática delitiva, pois além de constar a condenação transitada em julgado acima referida que foi utilizada para aumentar a pena base, consta também outra condenação pelo mesmo tipo do artigo 334 do Código Penal nos autos do processo n° 0007653-20.2005.4.02.5001/ES, à pena de 3 (três) anos de reclusão (fl. 31).
+    No caso, não há coação ilegal na fixação do regime inicial fechado à condenação imposta ao paciente pelo crime de contrabando, pois a reincidência do réu, aliado ao fato de que as circunstâncias judiciais não foram favoráveis, justifica a imposição do regime fechado, uma vez que a da jurisprudência desta Corte admite o regime semiaberto ao reincidente, desde que favoráveis as circunstâncias judiciais. Confira-se:
+    É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais. (Enunciado n. 269 da Súmula do STJ).
+    Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o presente writ.” (eDOC 4, p. 2-3)
+    A presente irresignação não merece prosperar.
+    Ao julgar o RHC 153.134/SP, por mim relatado, DJe 24.4.2018, asseverei que o artigo 33, §§ 2º e 3º, do Código Penal é claro ao dispor que constitui faculdade, e não obrigação, sujeita ao prudente arbítrio do magistrado, aplicar o regime semiaberto para o início do cumprimento da pena, examinadas as peculiaridades de cada caso.
+    Consta dos autos que o paciente foi condenado em primeiro grau, pela prática do crime previsto no artigo 334, § 1º, alínea ‘b”, do Código Penal, à pena de 2 anos e 3 meses de reclusão, em regime inicial fechado (eDOC 2, p. 1-3), reprimenda que foi mantida pelo TRF da 3ª Região (eDOC 4, p. 1-2).
+    Assim, na espécie, o juízo sentenciante e o Tribunal de origem fundamentaram seu convencimento acerca da fixação do regime inicial fechado, baseados nos maus antecedentes e na reincidência do acusado.
+    Desse modo, verifico que a decisão ora impugnada, do STJ, ao manter o regime mais gravoso para início do cumprimento da pena, legitimamente se baseou nas circunstâncias judiciais desfavoráveis ao réu, mormente na reincidência e nos maus antecedentes.
+    Ressalto que a jurisprudência desta Suprema Corte entende que a dosimetria da pena submete-se a certa discricionariedade judicial. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Aos Tribunais Superiores, no exame da dosimetria das penas em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Sobre o tema, confiram-se julgamentos de ambas as Turmas dessa Corte: HC 132.029 AgR/SP, Rel. Min. Edson Fachin, Primeira Turma, DJe 28.9.2016; HC 135.241 AgR/ES, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 5.9.2016. Aliás, especificamente em relação ao paciente, também sobre a pretensão aqui deduzida, menciono: RHC 153.198/MS, Rel. Min. Luiz Fux, decisão monocrática, DJe 12.8.2018 e RHC 154.626/MS, por mim relatado, decisão monocrática de 28.8.2018.
+    Desse modo, verifico que a decisão impugnada está em consonância com a jurisprudência desta Corte e atende ao princípio da individualização da pena.
+    Finalmente, em consulta ao portal eletrônico do STJ, é relevante afirmar que a presente irresignação deduzida pelo ora paciente, em sede de recurso especial, também não logrou êxito, tendo em vista o trânsito em julgado aos 14.3.2017 da decisão proferida nos Embargos de Declaração no AREsp 1.013.348/MS (DJe 7.3.2017).
+    Ante o exposto, com fundamento no art. 192, caput, do RI/STF, denego a presente ordem de habeas corpus.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+      Documento assinado digitalmente
