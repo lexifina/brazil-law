@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por JURACI MARIANO DE SOUZA, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fls. 535/536):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. TRABALHO RURAL. EXPOSIÇÃO AO AGENTE AGRESSIVO RUÍDO. PREENCHIDOS OS REQUISITOS PARA APOSENTAÇÃO.
+(..)
+- A questão em debate consiste na possibilidade de se reconhecer o trabalho especificado na inicial como rurícola, bem como o labor em condições especiais e a sua conversão, para somados aos demais lapsos de trabalho em regime comum, propiciar a concessão da aposentadoria por tempo de serviço.
+- Do compulsar dos autos, verifica-se que o conjunto probatório, além de demonstrar a qualificação profissional do autor como lavrador, delimitam o lapso temporal e caracterizam a natureza da atividade exercida.
+- Em suma, é possível manter o reconhecimento de que o autor exerceu atividade como rurícola de 01/09/1976 a 31/12/1977 e 01/05/1978 a 30/06/1982, levando-se em conta os documentos em seu nome e o depoimento das testemunhas.
+- A atividade desenvolvida pelo autor enquadra-se no item 1.1.6 do Decreto nº 53.831/64, item 1.1.5 do Anexo I, do Decreto nº 83.080/79 e item 2.0.1 do Decreto nº 2.172/97 que contemplavam a atividade realizada em condições de exposição a ruídos excessivos, privilegiando os trabalhos permanentes nesse ambiente.
+- Ressalte-se que, nos interregnos de 06/03/1997 a 13/02/1998 - ruído de 89,6 dB (A) -; 28/04/1998 a 16/12/1998, 19/04/1999 a 01/11/1999, 15/05/2000 a 06/11/2000, 02/05/2001 a 06/12/2001, 15/04/2002 a 18/11/2003 - ruído de 87,1 dB (A) -; o labor nocente não restou reconhecido, eis que o nível de ruído esteve abaixo do considerado nocivo à época - 90,0 dB (A).
+- Assim, após a conversão do labor especial em comum e somado aos demais períodos de labor campesino e incontroversos, o demandante totalizou 37 anos, 08 meses e 28 dias, portanto, mais de 35 anos de tempo de serviço quando do requerimento administrativo, em 14/12/2013, suficiente para o deferimento de aposentadoria por tempo de contribuição.
+- O termo inicial deve ser fixado na data da citação, em 11/07/2014 (fls. 136), eis que o labor campesino e alguns períodos de labor especial só restaram comprovados com os documentos trazidos e produzidos nos autos da presente demanda.
+- A correção monetária e os juros moratórios incidirão nos termos do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal em vigor por ocasião da execução do julgado.
+- A verba deve ser fixada em 10% sobre o valor da condenação, até a sentença.
+- As Autarquias Federais são isentas de custas, cabendo apenas as em reembolso.
+- Não conheço do reexame necessário. Recurso adesivo da parte autora improvido. Apelação do INSS provida em parte.
+Opostos embargos de declaração, foram eles rejeitados (551/559).
+Nas suas razões, amparado no permissivo "a", o recorrente alega afronta ao art. 1.022 do CPC de 2015, pelo não suprimento de omissão apontada em sede de embargos de declaração no tocante ao termo inicial do benefício. Quanto ao permissivo "c", aponta divergência entre o acórdão impugnado e o entendimento deste Tribunal, ao fundamento de que a data de início da concessão do benefício de aposentadoria deve ser a do requerimento administrativo, ainda que tenha sido juntado novos documentos no curso do processo.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 631/633.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito esse registro, verifico que não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o que se constata é apenas entendimento discordante com a pretensão do recorrente (e-STJ fl. 531):
+O termo inicial deve ser fixado na data da citação, em 11/07/2014 (fls. 136), eis que o labor campesino e alguns períodos de labor especial só restaram comprovados com os documentos trazidos e produzidos nos autos da presente demanda.
+Assim, o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se observando, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1022 DO CPC/15. CDA. NOME DO SÓCIO. ÔNUS PROBATÓRIO. DEMONSTRADA AUSÊNCIA DE ABUSO DE PODER OU INFRAÇÃO À LEI. SÚMULA 7/STJ.
+1. Não se reconhece ofensa ao art. 1022 do CPC/15 quando o acórdão embargado enfrenta e decide, de maneira integral e com fundamentação suficiente, toda a controvérsia posta nos autos.
+2. A alteração das conclusões adotadas pela Corte de origem, quanto à alegação da prática de ato ilícito dos gestores da empresa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.625.480/RN, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 05/04/2018).
+Quanto ao termo inicial do benefício, não prospera a irresignação.
+Ressalvado meu entendimento pessoal, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. n. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+A fim de completar sua argumentação, em observância ao princípio da dialeticidade, incumbia à parte recorrente demonstrar as distintas interpretações de comando normativo. Assim, em respeito à orientação firmada pela Corte Especial desta Corte, ajusta-se à hipótese a aplicação do contido na Súmula 284 do Supremo Tribunal Federal.
+Vejam-se, a propósito, os precedentes de ambas as Turmas que integram a Primeira Seção do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não apreciou a controvérsia sob o enfoque do dispositivo legal apontado como violado (artigo 19, XIII, do Decreto 6.944/99), tampouco foram opostos embargos declaratórios para suprir eventual omissão neste aspecto. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 770.014/SC, Relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal.
+Agravo regimental improvido. (AgRg no AREsp n. 821.869/SP, Relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial .
+Publique-se. Intimem-se.
