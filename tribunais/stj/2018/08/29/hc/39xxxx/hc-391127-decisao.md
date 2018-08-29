@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MAX PAULO DE JESUS BINDA, apontando como autoridade coatora o Tribunal de Justiça do Espírito Santo.
+Consta dos autos que, em virtude de condenação superveniente, o Juízo de Direito da Vara de Execuções Penais da Comarca de Vila Velha unificou as penas do paciente, determinando que os novos cálculos considerassem como marco interruptivo para a progressão de regime a data do trânsito em julgado da última condenação (fls. 14/16).
+Inconformado com a decisão, o Paciente interpôs agravo em execução penal junto à Corte de origem, que negou provimento ao recurso para manter a data do trânsito em julgado para a acusação, na condenação superveniente, como o novo marco interruptivo para a progressão de regime (fls. 54/58).
+Daí a presente impetração, em que se alega, em síntese, constrangimento ilegal consistente na fixação da data do trânsito em julgado da última condenação como marco interruptivo para a nova progressão.
+Postula-se, então, a concessão da ordem, a fim de que a data da falta grave seja considerada como marco interruptivo para a progressão de regime.
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento e, caso conhecido, pela concessão do habeas corpus.
+É o relatório.
+DECIDO.
+O ponto nodal da impetração consiste em determinar a data que, após a unificação das penas, será considerada como termo inicial para a concessão de novos benefícios.
+Da análise dos autos, observa-se que o Tribunal a quo fixou como termo inicial o trânsito em julgado para o MP da última condenação unificada (fl. 56):
+Sobrevindo nova condenação, interrompe-se também a contagem do prazo para a concessão de novos benefícios, sendo pacífico o entendimento de que o marco interruptivo deve ser a data do trânsito em julgado da última condenação do reeducando e não a data da última prisão como requer a defesa.
+Registro que a súmula n.º 534 do STJ não se encaixa no caso em testilha, haja vista que estamos tratando da superveniência de nova condenação e unificação de penas, situação diversa do cometimento de falta grave no decorrer da execução da pena."
+Ocorre que a Terceira Seção, em recente precedente, uniformizou o entendimento jurisprudencial desta Corte Superior, fixando a data da última prisão como marco interruptivo para concessão dos benefícios da execução, no caso de crimes cometidos antes do início da execução da pena, e, nos casos de delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar. Confira-se:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido.
+(REsp n. 1.557.461/SC, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 15/3/2018)
+Assim, não pode o Juízo da execução desconsiderar o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+Ante o exposto, concedo o habeas corpus, para fixar a data da última prisão como marco interruptivo para concessão dos benefícios da execução, no caso de crimes cometidos antes do início da execução da pena, e, nos casos de delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar.
+Comunique-se.
+Publique-se.
+Intimem-se.
