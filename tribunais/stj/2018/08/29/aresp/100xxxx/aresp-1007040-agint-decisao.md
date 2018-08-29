@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL APOSENTADO. PARCELA AUTÔNOMA DO MAGISTÉRIO - PAM. REAJUSTES DA LEI ESTADUAL 10.395/1995. PRESCRIÇÃO DO DIREITO DE AÇÃO. NÃO OCORRÊNCIA. ACÓRDÃO IMPUGNADO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. DECISÃO RECONSIDERADA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 187):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. PRETENSÃO DE REAJUSTE SALARIAL. REVISÃO DO ATO. SUPERAÇÃO DO PRAZO. PRESCRIÇÃO QUINQUENAL ENTRE A APOSENTADORIA DA PARTE AUTORA E O AJUIZAMENTO DA AÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+A agravante alega violação ao art. 3º do Decreto 20.910/1932, ao argumento de que aplicável ao caso tão somente a prescrição quinquenal das parcelas, nos termos da Súmula 85/STJ, tendo em vista que não pretende a modificação do ato que a aposentou, mas tão somente o recálculo dos proventos, face a utilização de valores defasados.
+Sustenta, ainda, que a questão relativa ao mérito já não comporta mais discussão porquanto pacificada na ocasião do julgamento do REsp n. 1.336.213/RS, pela sistemática dos recursos repetitivos.
+Com impugnação.
+É o relatório. Passo a decidir.
+Com razão a agravante.
+A Corte de origem, ao apreciar a controvérsia, adotou entendimento consolidado no âmbito deste E.STJ, quando do julgamento do Recurso Especial n. 1.336.213/RS, sob a sistemática dos recursos repetitivos, que conta com a seguinte ementa:
+RECURSO ESPECIAL. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. SERVIDOR PÚBLICO. PARCELA AUTÔNOMA DO MAGISTÉRIO - PAM. REAJUSTES. LEI ESTADUAL 10.395/1995. POSTERIOR INCORPORAÇÃO. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. INTERESSE DE AGIR. ART. 267, VI, DO CPC. VERIFICAÇÃO DE LEGISLAÇÃO ESTADUAL E DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULAS 7/STJ E 280/STF. PRESCRIÇÃO DO FUNDO DE DIREITO. ART. 1º DO DECRETO 20.910/1932. NÃO OCORRÊNCIA. PRESTAÇÕES DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Cuida-se, na origem, de ação com intuito de impor ao Estado do Rio Grande do Sul reajustes da chamada Parcela Autônoma do Magistério - PAM, previstos na Lei estadual 10.395/1995. Tal parcela foi posteriormente incorporada aos vencimentos dos servidores por força da Lei estadual 11.662/2001.
+2. O recorrente almeja, em seu Recurso Especial, configurar violação do art. 535 do CPC, demonstrar a falta de interesse processual (art.
+267, VI, do CPC) e obter a declaração da prescrição do fundo de direito em razão de a PAM ter sido incorporada aos vencimentos dos servidores.
+3. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC. Nesse sentido: REsp 1.343.065/PR, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 4.12.2012; e REsp 1.104.184/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 8.3.2012.
+4. A pretensão de caracterizar a inexistência de interesse de agir da recorrida, com amparo no art. 267, IV, do CPC, requer a análise da legislação estadual que tratou da parcela autônoma dos vencimentos básicos dos professores (Leis estaduais 10.395/1995, 11.662/2001 e 12.961/2008), o que culmina na inadmissibilidade do Recurso Especial, nos termos da Súmula 280/STF.
+5. Também carece de admissibilidade o tópico recursal concernente à ausência de interesse de agir por conta de eventuais e inespecíficos pagamentos judiciais do objeto controvertido, pois demanda revolvimento fático-probatório dos autos. Aplicação da Súmula 7/STJ.
+6. Incorporar parcela remuneratória, no caso a PAM, aos vencimentos não constitui, por si só, negativa inequívoca do próprio direito para fins de prescrição do direito de revisão da verba incorporada.
+7. A incorporação da PAM aos vencimentos dos servidores continua a gerar efeitos financeiros de trato sucessivo, de forma que a revisão daquela parcela repercute continuamente na esfera jurídico-patrimonial do servidor.
+8. Incide no caso a regra geral da Súmula 85/STJ, segundo a qual "nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação."
+9. Recurso Especial parcialmente conhecido e, nessa parte, não provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ (REsp 1336213/RS, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 12/06/2013, DJe 07/10/2013)
+Em igual sentido: AgInt no AREsp 1.099.468/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 28/9/2017; AgRg no AREsp 239.149/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4/8/2015.
+Ante o exposto, dou provimento ao agravo interno, reconsiderando a decisão de fls. 187-189, para conhecer do agravo interposto pelo Estado do Rio grande do Sul e negar provimento ao seu recurso especial.
+Publique-se. Intimem-se.
