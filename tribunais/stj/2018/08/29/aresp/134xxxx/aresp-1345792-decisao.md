@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por TERRACO ITALIA RESTAURANTE LTDA, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 508/509):
+PROCESSUAL CIVIL. APELAÇÃO. EXECUÇÃO FISCAL. EXTINÇÃO. PAGAMENTO. ADESÃO A PROGRAMA DE PARCELAMENTO. EXECUTIVO AJUIZADO QUANDO AUSENTE CAUSA SUSPENSIVA DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. VERBA HONORÁRIA INDEVIDA. RECURSO E REMESSA OFICIAL, DADA POR OCORRIDA, IMPROVIDOS.
+- Incidem, no caso, as disposições do artigo 475, inciso I, do Código de Processo Civil, sujeitando-se a sentença à remessa oficial, ora tida como ocorrida, não se aplicando o disposto no artigo 475, §2º, do referido diploma, com redação dada pela Lei nº 10.352/2001.
+- O processo em questão foi extinto, com fundamento no artigo 794, inciso I, do Código de Processo Civil, ante o pagamento do débito, sem condenação da exequente no pagamento de verba honorária.
+- No que diz respeito à possibilidade de incidência de verba honorária, verifica-se que, tanto no caso de oposição de embargos, como no caso de mera apresentação de exceção de pré-exccutividade, o executado teve que efetuar despesas e constituir advogado para se defender da execução indevida, o que impõe o ressarcimento das quantias despendidas.
+- Cabe ao vencido, aquele que deu causa à instauração do processo, arcar com as despesas dele decorrentes. Dessa forma, será sucumbente a parte que deu causa à instauração de uma relação processual indevida.
+- Compulsando os autos, verifica-se que a empresa apresentou manifestação de inconformidade em 21/01/2005, em relação à decisão administrativa que negou o direito a compensação dos tributos (fls. 340/390).
+- Com vistas a suspender a exigibilidade dos tributos compensados nos procedimentos administrativos nº 10410.003023/2003-59, 10410.002638/2003.68 e 10410.005995/2002-05, a executada impetrou mandado dc segurança (2005.61.00.017525-0 - fls. 420/438), com liminar parcialmente deferida em 05/10/2005, apenas para expedição de certidão positiva com efeitos negativos (fls. 440/442).
+- Devido o ajuizamento do executivo fiscal, uma vez que até então não havia causa suspensiva da exigibilidade do crédito tributário.
+-Ar. sentença de fl. 318 extinguiu a execução fiscal, com fundamento no artigo 794, inciso I, do Código dc Processo Civil, ante o pagamento do débito. Segundo manifestação de fls. 324/329, a executada aderiu a programa de parcelamento de débito, homologado pela Procuradoria Geral da Fazenda Nacional e integralmente quitado, razão pela qual todas as inscrições foram canceladas.
+- Tendo em vista não ter havido ajuizamento indevido da execução fiscal, bem assim a adesão ao programa de parcelamento (que pressupõe o reconhecimento e a confissão irretratável do débito), com a quitação do crédito tributário, incabível a condenação da União Federal no pagamento da verba honorária.
+- Apelação e remessa oficial, dada por ocorrida, improvidas.
+Opostos embargos declaratórios por ambas as partes, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 151, III do CTN; 74, § 11 da Lei nº 9.430/96; e 20 e 535 do CPC/73. Sustenta que a União deve ser condenada ao pagamento de honorários, pois "apesar dos tributos terem sido quitados no curso da Execução Fiscal, o processo foi indevidamente ajuizado pela União Federal." (fl. 591).
+É o relatório.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Convém consignar que "segundo o princípio da causalidade, aquele que der causa à instauração da demanda ou do incidente processual deve arcar com as despesas deles decorrentes." (AgRg no AREsp 525.559/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/8/2014, DJe 19/8/2014). Nesse mesmo sentido, confiram-se:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXTINÇÃO DO PROCESSO. PERDA SUPERVENIENTE DO OBJETO. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. AGRAVO PROVIDO.
+1.- O fato novo noticiado pela agravante - extinção da execução na qual foi realizada a penhora sobre o imóvel, penhora esta que se pretende desconstituir nestes autos de Embargos de Terceiros, implica na perda do objeto do presente processo.
+2.- A condenação nos ônus da sucumbência, deve ser imposta a quem deu causa à instauração do incidente processual.
+3.- No caso, os embargos de terceiro visavam à desconstituição da penhora efetivada sobre o imóvel da ora agravante, nos autos de execução, fundada em contrato de abertura de crédito em conta corrente, que ao final foi julgada extinta por ausência de título executivo extrajudicial.
+4.- Agravo Regimental provido para extinguir o processo por perda superveniente do objeto.
+(AgRg no REsp 703.384/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/5/2014, DJe 13/6/2014).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PERDA SUPERVENIENTE DO OBJETO. EXTINÇÃO DO PROCESSO. PRINCÍPIO DA CAUSALIDADE. ÔNUS DA SUCUMBÊNCIA. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, na hipótese de extinção do feito por perda de objeto decorrente de fato superveniente, a verba honorária deve ser arbitrada observando-se o princípio da causalidade. Este determina a imposição da verba honorária à parte que deu causa à instauração do processo ou ao incidente processual.
+2. O Tribunal a quo decidiu que o ora recorrente deu causa à instauração do processo. Ora, para afastar a responsabilidade da recorrente pelo ajuizamento da ação, conforme consignado pelo acórdão recorrido, faz-se necessário adentrar no conjunto fático- probatório dos autos, o que é vedado pela Súmula 7/STJ.
+3. Recurso especial não conhecido.
+(REsp 1.262.419/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/6/12, DJe 13/6/12)
+Na espécie, a Corte de origem, com base no princípio da causalidade, entendeu ser incabível a condenação da União em honorários advocatícios nos seguintes termos (fls. 504/506):
+O processo em questão foi extinto, com fundamento no artigo 794, inciso 1, do Código de Processo Civil, ante o pagamento do débito, sem condenação da exequente no pagamento de verba honorária.
+Assim, o ponto específico do pleito refere-se à possibilidade de condenação da exequente em honorários.
+No que diz respeito à possibilidade de incidência de verba honorária, verifica-se que, tanto no caso de oposição de embargos, como no caso de mera apresentação de exceção dc pré-executividade, os executados tiveram que efetuar despesas e constituir advogado para se defender da execução indevida, o que impõe o ressarcimento das quantias despendidas.
+Assim, cabe ao vencido, aquele que deu causa à instauração do processo, arcar com as despesas dele decorrentes.
+A jurisprudência já firmou entendimento no sentido do cabimento da verba honorária, nas execuções, embargadas ou não, mediante apreciação equitativa do juiz.
+(..)
+Dessa forma, será sucumbente a parte que deu causa à instauração de uma relação processual indevida.
+Compulsando os autos, verifica-se que a empresa apresentou manifestação de inconformidade em 21/01/2005, em relação à decisão administrativa que negou o direito a compensação dos tributos (fls. 340/390).
+Com vistas a suspender a exigibilidade dos tributos compensados nos procedimentos administrativos nº 10410.003023/2003-59, 10410.002638/2003.68 e 10410.005995/2002-05, a executada impetrou mandado de segurança (2005.61.00.017525-0 - fls. 420/438), com liminar parcialmente deferida em 05/10/2005, apenas para expedição de certidão positiva com efeitos negativos (fls. 440/442).
+Logo, devido o ajuizamento do executivo fiscal, uma vez que até então não havia causa suspensiva da exigibilidade do crédito tributário.
+Por sua vez, importa considerar que a r. sentença de fl. 318 extinguiu a execução fiscal, com fundamento no artigo 794, inciso I, do Código de Processo Civil, ante o pagamento do débito. Segundo manifestação de fls. 324/329, a executada aderiu a programa de parcelamento de débito, homologado pela Procuradoria Geral da Fazenda Nacional e integralmente quitado, razão pela qual todas as inscrições foram canceladas.
+Desta feita, tendo em vista não ler havido ajuizamento indevido da execução fiscal, bem assim a adesão ao programa de parcelamento (que pressupõe o reconhecimento e a confissão irretratável do débito), com a quitação do crédito tributário, incabível a condenação da União Federal no pagamento de verba honorária.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
