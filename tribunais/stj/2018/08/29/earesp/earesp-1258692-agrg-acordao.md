@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. EMBRIAGUEZ AO VOLANTE. REGIMENTAL INTERPOSTO FORA DO QUINQUÍDIO LEGAL. INTEMPESTIVIDADE.
+I - "O prazo para interposição de agravo regimental, em processo penal, é de 5 dias, de acordo com os arts. 39 da Lei n. 8.038/1990 e 258 do RISTJ. 2. Mesmo após a entrada em vigor da Lei n. 13.105/2015 (Código de Processo Civil), o prazo para a interposição de agravo regimental continuou sendo regido pelo art. 39 da Lei n. 8.038/1990  .. " (AgInt no HC n. 380.298/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 2/2/2017).
+II - No caso dos autos, a decisão monocrática agravada foi disponibilizada no Diário da Justiça Eletrônico em 06/08/2018 e considerada publicada em 07/08/2018  terça-feira (fl. 498), findando-se o prazo recursal em 13/08/2018 (segunda-feira). O presente recurso, contudo, somente foi interposto em 15/08/2018, sendo, pois, manifesta a sua intempestividade.
+Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Maria Thereza de Assis Moura e os Srs. Ministros Jorge Mussi, Sebastião Reis Júnior, Reynaldo Soares da Fonseca, Ribeiro Dantas, Antonio Saldanha Palheiro e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro.
+Presidiu o julgamento o Sr. Ministro Rogerio Schietti Cruz.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de Agravo Regimental interposto por [NOME] em face de decisão monocrática de minha relatoria, proferida às fls. 492-497, em que indeferi liminarmente Embargos de Divergência outrora opostos, em razão da incidência da Súmula 168 desta Corte, com fulcro no art. 266-C, do RISTJ.
+Depreende-se dos autos que o embargante fora condenado em primeira instância pela prática dos delitos previstos nos arts. 306 e 310 da Lei n. 9.503/1997 - Código de Trânsito Brasileiro, condenação mantida pelo Tribunal de origem com a pena fixada em 1 ano de detenção mais 20 dias-multa, no regime inicial aberto, substituída por prestação pecuniária e suspensão do direito de dirigir. Rejeitados os embargos de declaração opostos, a parte interpôs recurso especial, o qual não foi admitido, pois o v. acórdão estaria alinhado à jurisprudência desta Corte Superior.
+Interposto agravo em recurso especial, o qual restou conhecido, com a negativa de provimento do REsp, diante da incidência da Súmula 83/STJ (fls. 445-447).
+Interposto agravo regimental, este não foi provido, conforme a seguinte ementa (fl. 464):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. TIPICIDADE. ALTERAÇÃO DA CAPACIDADE PSICOMOTORA. DEMONSTRAÇÃO. DESNECESSIDADE. DELITO DE PERIGO ABSTRATO. ACÓRDÃO QUE DECIDIU EM CONSONÂNCIA COM A JURISPRUDÊNCIA PREDOMINANTE. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O crime do art. 306 do CTB é de perigo abstrato, e a partir da edição das Leis n. 11.705/2008 e 12.760/2012, não mais se exige, para sua tipificação, a prova da alteração da capacidade motora do agente.
+Precedentes.
+2. Não há dissídio jurisprudencial se a Corte de origem decidiu em consonância com a orientação predominante do Superior Tribunal de Justiça. Incidência da Súmula n. 83 do STJ.
+3. Agravo regimental não provido."
+Irresignado, foi interposto o recurso de embargos de divergência, indicando como paradigma o acórdão proferido no julgamento do Recurso Especial n. 608.078/RS, Quinta Turma, de minha relatoria.
+Proferi decisão monocrática de indeferimento liminar dos Embargos de Divergência, assentando-se o julgado na incidência no caso da Súmula 168/STJ, pois o acórdão embargado encontra respaldo na jurisprudência atual desta Corte Superior ao consignar que o crime previsto no artigo 306, da Lei 9.503/97, é de perigo abstrato e, portanto, não exigiria prova da ocorrência do dano, bastando a prática das condutas lá descritas.
+Ao manejar o presente Agravo Regimental, sustenta o recorrente que a decisão sufragada merece reforma ao fundamento de que (fl. 508): "Ademais, o acórdão paradigma traz de maneira clara que para se configurar o delito de embriaguez ao volante é necessária a demonstração da alteração da capacidade psicomotora e a potencialidade lesiva da conduta, não bastando a mera constatação da ingestão de bebida alcóolica. Nítido, pois, o paralelismo entre a hipótese dos autos e a enfocada no v. aresto trazido à colação. Com relação ao apontado dissídio, o recorrente provou com o julgado paradigma, que serviu para fazer o cotejo analítico, por ser idêntico/semelhante ao suporte fático/jurídico apresentado pois a necessidade do acolhimento do Recurso Especial, já que o que vemos no acórdão paradigma é justamente o que fora negado no acórdão furreado, ou seja, a necessidade de demonstração da alteração da capacidade psicomotora do embargante e a real potencialidade lesiva, daí o claro paralelismo."
+Requer, ao final, o conhecimento e provimento do presente agravo regimental, com a reforma da decisão agravada, para fins de dar provimento ao recurso especial, com a consequente absolvição do embargante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. EMBRIAGUEZ AO VOLANTE. REGIMENTAL INTERPOSTO FORA DO QUINQUÍDIO LEGAL. INTEMPESTIVIDADE.
+I - "O prazo para interposição de agravo regimental, em processo penal, é de 5 dias, de acordo com os arts. 39 da Lei n. 8.038/1990 e 258 do RISTJ. 2. Mesmo após a entrada em vigor da Lei n. 13.105/2015 (Código de Processo Civil), o prazo para a interposição de agravo regimental continuou sendo regido pelo art. 39 da Lei n. 8.038/1990  .. " (AgInt no HC n. 380.298/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 2/2/2017).
+II - No caso dos autos, a decisão monocrática agravada foi disponibilizada no Diário da Justiça Eletrônico em 06/08/2018 e considerada publicada em 07/08/2018  terça-feira (fl. 498), findando-se o prazo recursal em 13/08/2018 (segunda-feira). O presente recurso, contudo, somente foi interposto em 15/08/2018, sendo, pois, manifesta a sua intempestividade.
+Agravo regimental não conhecido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente recurso não merece ser conhecido.
+O Código de Processo Civil de 2015 modificou as regras acerca da interposição dos agravos regimentais, agora denominados agravos internos, estabelecendo que este recurso será dirigido ao respectivo órgão colegiado contra decisão do relator, observando-se, quanto ao processamento, as regras do regimento interno de cada Tribunal (art. 1.021 do Código de Processo Civil/2015).
+Porém, no âmbito do processo penal, as alterações promovidas pela nova legislação processual não são aplicáveis aos recursos internos nos Tribunais Superiores. Isto porque o art. 39 da Lei n. 8.038/90 permanece em vigor, prevendo que, das decisões monocráticas proferidas pelo Presidente do Tribunal, Presidente de Seção, Presidente de Turma ou pelo Relator, que causarem gravame à parte, caberá agravo, no prazo de cinco dias.
+O mesmo está dito no art. 258 do Regimento Interno deste Superior Tribunal de Justiça: "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+No caso dos autos, a decisão monocrática agravada foi disponibilizada no Diário da Justiça Eletrônico em 06/08/2018 e considerada publicada em 07/08/2018  terça-feira (fl. 498), findando-se o prazo recursal em 13/08/2018 (segunda-feira). O presente recurso, contudo, somente foi interposto em 15/08/2018, sendo, pois, manifesta a sua intempestividade, porquanto ultrapassado o quinquídio legal.
+Nesse sentido, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 258 DO RISTJ. PRAZO. CINCO DIAS. INTEMPESTIVIDADE. INAPLICABILIDADE DAS DISPOSIÇÕES DO NOVO CPC. NÃO CONHECIMENTO.
+1. O agravo contra decisão monocrática de Relator nos tribunais superiores, em matéria penal, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração.
+2. A decisão agravada foi disponibilizada no DJe em 30/08/2016 e considerada publicada em 31/08/2016. O prazo recursal teve início em 01/09/2016 (quinta-feira), findando-se em 05/09/2016 (segunda-feira). Todavia, o presente recurso somente foi protocolado em 09/09/2016, sendo, pois, intempestivo.
+3. Agravo interno não conhecido" (AgRg no AREsp 908.275/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 11/10/2016, grifei).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INTEMPESTIVIDADE. REMESSA DOS AUTOS À DEFENSORIA PÚBLICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental protocolado nesta Corte quando já escoado o prazo de cinco dias, previsto no art. 258 do Regimento Interno do Superior Tribunal de Justiça e no art. 39 da Lei n. 8.038/90.
+ ..
+3. Agravo regimental não conhecido" (AgRg no HC 360.436/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 20/9/2016).
+Ainda sobre o tema, importante destacar que esta Corte Superior assentou entendimento no sentido de que " o  agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015)" (AgRg na Rcl n. 30.714/PB, Terceira Seção, Rel. Min. Reynaldo Soares da Fonseca, DJe de 4/5/2016, grifei).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
