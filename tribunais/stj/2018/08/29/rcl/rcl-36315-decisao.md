@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de reclamação ajuizada por Antônio Carlos Alves em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO INTERNO. RECURSO ESPECIAL. INADMISSÃO. RECURSO REPETITIVO. PRECEDENTE STJ. ART. 543-C DO CPC/73.
+Nega-se provimento a agravo interno interposto contra decisão de inadmissão de recurso especial quando o acórdão fustigado é consonante com a jurisprudência consolidada do STJ, em sede de recurso repetitivo, processado sob o rito do art. 543-C do CPC/73.
+Afirma tratar-se, na origem, de ação revisional de contrato de cartão de crédito, com pedido de indenização por danos morais, na qual se pleiteou a revisão da taxa de juros praticada pelo banco ora interessado, na modalidade de empréstimo consignado feito por meio de cartão de crédito.
+Acrescenta que, no "empréstimo na modalidade cartão de crédito utilizado pelas instituições de crédito, o consumidor assume o pagamento de elevadas taxas de juros em razão da falta de garantia do seu adimplemento, portanto, mostra-se incompatível sua utilização no presente caso, face sua garantia de contrato de empréstimo consignado em folha de pagamento (ausência de inadimplência e garantia total de recebimento do débito)".
+Aduz que a "16ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, por unanimidade, houve por bem em JULGAR IMPROCEDENTE O PEDIDO, por ausência de abusividade no negócio jurídico e impossibilidade de equiparar o contrato de cartão de crédito ao empréstimo consignado", sendo, então, interposto recurso especial, com a devida indicação do "acórdão paradigma (AC nº 38061.56.2015.8.09.0137-TJGO), afronta ao Resp nº 1.061.530/RS e Súmula nº 530 do STJ, face à ausência da indicação dos juros no instrumento contratual".
+Ressalta que, então, foi negado seguimento ao recurso ao fundamento de que o "acórdão recorrido supostamente amolda-se à orientação do STJ (art. 1.040, I, do CPC)" e, interposto agravo interno, foi proferido o acórdão ora reclamado, em claro error in procedendo.
+Assim posta a questão, verifico que o Tribunal de origem negou provimento ao agravo interno pelos seguintes fundamentos (fls. 177/180):
+In casu, como demonstrado na decisão inadmissória, bem como no decisum que negou seguimento ao primeiro agravo interno, no acórdão impugnado, a douta Turma Julgadora, estabelecidas premissas fáticas específicas do caso dos autos, expressou entendimento que está em linha com o que foi pacificado pelo Superior Tribunal de Justiça, seguindo a aludida sistemática dos recursos repetitivos.
+Destarte, verifica-se, a toda evidência, que a argumentação interpositiva, que busca desconstituir, in casu, a conclusão em torno da abusividade dos juros cobrados, equaciona-se sobre premissas recusadas pela Câmara, vinculando-se, pois, o acolhimento da pretensão recursal a uma alteração na moldura fática atribuída à demanda, a par de encontrar a decisão colegiada em harmonia com a definição da matéria no contexto da repetitividade.
+Dessa maneira, em observância ao disposto nos artigos 1.030, I e 1.040, I, do CPC, ausente qualquer razão para reforma do provimento judiciário ora reexaminado, NEGO PROVIMENTO ao agravo interno.
+Entendo, pois, que a decisão do Tribunal de origem que negou seguimento a recurso especial e ao subsequente agravo interno, com fundamento no artigo 1.030, I, "b, do Código de Processo Civil de 2015, aplicando entendimento desta Corte firmado pela sistemática do representativo da controvérsia, não caracteriza a apontada usurpação da competência deste Superior Tribunal, apta a autorizar o ajuizamento de reclamação.
+Nesse sentido são os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO STJ PARA APRECIAÇÃO DE AGRAVO INTERPOSTO CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL COM FUNDAMENTO NO ART. 543-C, § 7º, I, DO CPC/73 (ATUAL ART. 1.030, I, "B", do CPC/15). MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. VÍCIOS DO ART. 1022 DO CPC. INEXISTÊNCIA.
+1. Inexistência dos vícios tipificados no art. 1022 do Código de Processo Civil, a inquinar o acórdão embargado.
+2. Não há usurpação de competência desta Corte, quando o Tribunal de Origem analisa o recurso especial e o conseqüente agravo interno, aplicando o entendimento disposto no artigo 543-C, § 7º, do CPC/1973 (atual art. 1030, I, "b, do CPC/2015). Precedentes.
+3. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+(EDcl no AgInt na Rcl 32.795/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 27/09/2017, DJe 02/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO DO ART. 988 DO CPC/2015. RECURSO ESPECIAL PREJUDICADO COM BASE NO INCISO I, § 1º, DO ART. 543 DO CPC/1973. DESCABIMENTO DA RECLAMAÇÃO. USURPAÇÃO DA COMPETÊNCIA DO STJ. INEXISTÊNCIA. DECISÃO MANTIDA.
+1. No presente caso, a reclamante teve seu recurso especial considerado prejudicado nos termos do art. 543-C, § 7º, I, do CPC/1973, decisão contra a qual foi interposto agravo regimental, desprovido pela Seção de Direito Privado do TJSP.
+2. Nos termos do entendimento desta Corte Superior, não cabe reclamação constitucional contra o julgado que nega provimento a agravo regimental interposto contra decisão de inadmissibilidade do especial fundada no art. 543-C, § 7º, I, do CPC/1973, tendo em vista não estar caracterizada usurpação da competência do STJ.
+Precedentes.
+3. Ausência das hipóteses do art. 988, IV e §§ 4º e 5º, II, do CPC/2015, invocados no presente regimental.
+4. Agravo interno a que se nega provimento.
+(AgInt na Rcl 32.213/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 28/06/2017, DJe 01/08/2017)
+AGRAVO INTERNO EM RECLAMAÇÃO AJUIZADA COMO SUCEDÂNEO RECURSAL - IMPOSSIBILIDADE - INEXISTÊNCIA, NA HIPÓTESE, DE USURPAÇÃO DE COMPETÊNCIA OU DESRESPEITO À AUTORIDADE DAS DECISÕES DO STJ - PRECEDENTES.
+1. A reclamação constitucional não constitui sucedâneo recursal, pois destinada apenas a preservar a competência e a garantir a autoridade das decisões do Superior Tribunal de Justiça. Precedentes.
+2. É incabível reclamação contra decisão que nega seguimento ao recurso especial com espeque no artigo 543-C, § 7º, I, do CPC (Questão de Ordem no Ag 1.154.599-SP). Precedentes do STJ.
+3. Agravo interno desprovido.
+(AgInt na Rcl 33.061/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 08/03/2017, DJe 15/03/2017)
+É de se destacar que, "entendimento em sentido diverso, caso adotado, afrontaria a racionalidade da sistemática dos recursos repetitivos, bem como representaria, ao revés do que se alega na petição inicial, usurpação da competência do Tribunal de origem por esta Corte Superior", conforme bem destacado pelo Ministro Marco Buzzi, na Rcl n. 034962, julgada em 3.10.2017.
+Em face do exposto, com fundamento no art. 34, inciso XVIII, do Regimento Interno do Superior Tribunal de Justiça, não conheço da reclamação.
+Intimem-se.
