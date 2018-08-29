@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. CUMPRIMENTO DE SENTENÇA. PREQUESTIONAMENTO. SÚMULA 211/STJ. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por ROSE DE ALMEIDA contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ Fl. 110):
+AGRAVO DE INSTRUMENTO. Ação de reintegração de posse. Cumprimento de sentença. Considerando que não houve reconhecimento do direito à retenção na ação de reintegração de posse e que o direito à indenização pelas benfeitorias está sendo discutida em ação própria, razoável e justo que não se admita a discussão do direito de retenção de indenização por benfeitorias na fase de cumprimento de sentença. RECURSO IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ Fls. 126/128).
+Nas razões de seu recurso especial, sustenta a parte agravante a vulneração ao art. 313, V, a, do CPC/2015. Insurge-se contra a determinação de desocupação do imóvel que lhe fora imposta, mormente porquanto ainda se encontra em discussão o ressarcimento das benfeitorias realizadas. Aduz, assim, a necessidade de concessão de liminar para fins de suspensão do presente processo, com a consequente suspensão da ordem de reintegração de posse.
+Contrarrazões à e-STJ Fls. 144/146.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Com efeito, quanto à apontada violação ao art. 313, V, a, do CPC/2015, o recurso especial não pode ser conhecido pois, sobre a matéria de que trata essa norma, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Saliente-se que a agravante sequer apontou, nas razões de seu recurso especial, negativa de prestação jurisdicional (ofensa ao art. 1.022 do CPC/2015), de sorte que a análise de eventual omissão quanto ao referido tema resta inviabilizada nesta Corte.
+Ademais, ainda que assim não fosse, verifico que o Tribunal de origem assim se manifestou a respeito do prosseguimento da presente demanda (e-STJ Fls. 111/112):
+Interposto recurso de apelação, o v. acórdão de fls. 29/37 negou provimento ao recurso, consignando que a alegação das benfeitorias realizadas poderia comportar a busca de indenização pelas vias próprias.
+Convém destacar ainda que após o ajuizamento do recurso, a recorrente ingressou com ação de conhecimento (Processo nº 1007890-54.2016.8.26.0338), na qual foi textualmente decidido que:
+"No que toca à tutela de urgência, no sentido de permanência na posse do bem, não pode ser deferida.
+Isto porque, nos autos do processo que gerou a distribuição por dependência, cuja sentença (fls. 25/37) fora confirmada integralmente pelo acórdão copiado a fls. 40/78, já ficou decidido que a ora autora, lá requerida, mera comodatária, deverá desocupar o bem.
+Não lhe fora conferido nenhum direito de retenção por benfeitorias. De forma expressa, constou no dito acórdão que, se entendessem de direito, poderiam os comodatários se valer da via própria para buscar indenização.
+Além disso, é de ser consignado que, por ora, não há nenhuma prova objetiva de que (i) fora a autora que erigiu/construiu no local (ii) que procedera a melhorias úteis ou necessárias ou (iii) em caso positivo, que tais construções servirão para incrementar ou agregar valor à chácara dos proprietários requeridos, valendo aqui não se olvidar, a uma, de que, em não raros casos, construções simples da espécie são demolidas e, a duas, que a benfeitoria deve ser encarada do ponto de vista do proprietário (se a aproveitará ou não) e não daquele que residiu de forma graciosa no local.
+De outro lado, a fim de evitar a impossibilidade de futuro periciamento, eventualmente necessário, determino aos requeridos que, até ulterior decisão, não se seja demolida a casa que serviu de morada à autora."
+Dessa forma, não houve o reconhecimento do direito à retenção na ação de reintegração de posse e o eventual direito à indenização pelas benfeitorias está sendo discutido em ação própria.
+Portanto, apesar das dificuldades da recorrente enumeradas no recurso, a discussão do direito de retenção de indenização por benfeitorias não mais deverá ser admitida na fase de cumprimento de sentença, notadamente em virtude do já decidido anteriormente pelo Poder Judiciário no processo de conhecimento.
+(grifos nossos)
+Assim, elidir as conclusões do aresto impugnado quanto à possibilidade de concessão da tutela pleiteada e à suposta dependência entre as ações, hábil a ensejar eventual suspensão, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Saliente-se que tal entendimento encontra-se em harmonia com a jurisprudência desta Corte, senão vejamos:
+AGRAVO REGIMENTAL NO AGRAVO (ARTIGO 544 DO CPC) - PROSSEGUIMENTO DA DEMANDA REIVINDICATÓRIA DETERMINADA PELO ACÓRDÃO ESTADUAL AO PROVER AGRAVO DE INSTRUMENTO DIRIGIDO CONTRA A DETERMINAÇÃO JUDICIAL DE SUSPENSÃO DO FEITO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO AGRAVO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. IRRESIGNAÇÃO DOS RÉUS DA AÇÃO REIVINDICATÓRIA.
+1. Suspensão do processo quando a sentença de mérito depende do julgamento de outra causa ou da declaração da existência ou inexistência da relação jurídica que constitua o objeto principal de outro processo pendente (artigo 265, inciso IV, alínea "a", do CPC).
+1.1. Consoante cediço nesta Corte, à luz do § 5º do artigo 265 do citado codex, a suspensão do curso do processo, quando constatada hipótese de prejudicialidade externa, não pode ultrapassar o período de um ano. Precedentes. Incidência da Súmula 83/STJ.
+1.2. Acórdão estadual pugnando pelo escoamento do prazo ânuo previsto no § 5º do artigo 265 do CPC. A revisão de tal entendimento demanda o reexame dos aspectos fáticos delineados na lide, o que resta obstado nesta via recursal especial, a teor da Súmula 7/STJ.
+2. Pretensão de suspensão do processo com amparo no artigo 180 do CPC (suspensão do curso do prazo para prática de ato processual por obstáculo criado pela parte). Razões do regimental que não impugnam especificamente os fundamentos invocados na deliberação monocrática. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto da decisão agravada. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido. (AgRg no AREsp 488957/SP, Rel. Min. MARCO BUZZI, QUARTA TURMA, julgado em 02/06/2015, DJe 11/06/2015) - g.n.
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. ADMINISTRATIVO. SERVIDOR MUNICIPAL. MUNICÍPIO DE BELO HORIZONTE. PROGRESSÃO POR ESCOLARIDADE. PRODUÇÃO DE PROVAS E SUSPENSÃO DO PROCESSO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. ART. 84 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DECISÃO MONOCRÁTICA FUNDAMENTADA EM SÚMULA E JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. No que tange à alegação de prejudicialidade, com o intuito de suspender o processo, nos termos do artigo 265, IV, "b", do Código de Processo Civil, marcou a Corte a quo que o mero trâmite de inquérito civil, que não tem qualquer aptidão para, ao final, declarar a nulidade do título da postulante, não acarreta a imperatividade de suspensão da lide. Rever tais conclusões também é vedado a esta Corte Superior, em razão do enunciado da Súmula 7/STJ, segundo o qual a pretensão de simples reexame de prova não enseja recurso especial.
+ ..
+6. Agravo regimental não provido. (AgRg no AREsp 635353/MG, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/03/2015, DJe 11/03/2015) - g.n.
+TRIBUTÁRIO. PROCESSUAL CIVIL. SUSPENSÃO PROCESSUAL. ART. 265, IV, "A", DO CPC. PECULIARIDADES DO CASO CONCRETO.
+1. Este STJ possui compreensão no sentido de que a paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto. Precedentes: REsp 1.240.808/RS, Rel. Ministro Castro Meira, Segunda Turma, DJe 14/04/2011 e REsp 1.223.910/RS, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 25/02/2011.
+2. Agravo regimental a que se nega provimento. (AgRg no REsp 1148484/RJ, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2014, DJe 20/08/2014) - g.n.
+Destarte, inviável a pretensão da recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
