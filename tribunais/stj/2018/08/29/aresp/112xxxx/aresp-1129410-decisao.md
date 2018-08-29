@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/1973). AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONTRADIÇÃO E OMISSÃO. INOCORRÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL HOUVE DIVERGÊNCIA INTERPRETATIVA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por [NOME] contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ Fl. 339):
+Ação monitória. Pedido reconvencional. Pretensão de condenação do reconvindo nas penas previstas nos artigos 940 do Código Civil e 42 do Código de Defesa do Consumidor, diante da cobrança em juízo de valores indevidos. Inexiste nos autos indício ou prova de má-fé na cobrança do débito mencionado na exordial a autorizar a condenação do reconvindo nos termos do artigo 940 do Código Civil. Sentença mantida, por seus próprios e jurídicos fundamentos. Artigo 252 do Regimento Interno do TJSP.
+RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ Fls. 315/319).
+Nas razões de seu recurso especial, sustentam as partes agravantes a vulneração ao art. 535, I, do CPC/73, bem como dissídio jurisprudencial. Asseveram contradição e omissão do acórdão recorrido, mormente quanto à suposta conduta de boa-fé do banco agravado e à impossibilidade de aplicação do art. 940 do CC/02. Deduzem que o ajuizamento de ação monitória, ante a existência de coisa julgada referente à cobrança de dívida, faz presumir a existência de má-fé.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (cf. Enunciado Administrativo n. 2/STJ).
+Ato contínuo, friso que a contradição que dá ensejo aos embargos de declaração é a que se estabelece no âmbito interno do aresto, ou seja, a contradição do julgado consigo mesmo, como quando, por exemplo, o dispositivo não decorre logicamente da fundamentação, o que não ocorreu no caso concreto.
+Ademais, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação, senão vejamos (e-STJ Fls. 289/291):
+Com efeito, bem assinalou a douta julgadora que:
+"No tocante a reconvenção, o pedido há de ser julgado improcedente.
+Isso porque pleiteiam os réus reconvintes a condenação do reconvindo nas penas previstas no art. 940 do CC e art. 42 do CDC, tendo em vista o fato de ter o reconvindo lhe cobrado em juízo valores que não eram devidos. Estabelece o artigo 940 do Código Civil que: "Aquele que demandar por dívida já paga, no todo ou em parte, sem ressalvar as quantias recebidas ou pedir mais do que for devido, ficará obrigado a pagar ao devedor, no primeiro caso, o dobro do que houver cobrado, e, no segundo, o equivalente do que dele exigir, salvo se houver prescrição".
+No entanto, inexiste nos autos qualquer indício ou prova de má-fé na cobrança do débito mencionado na exordial a autorizar a condenação do reconvindo nos termos do artigo 940 do CC.
+Nesse sentido:
+"A aplicação da sanção prevista no artigo 1531 do Código Civil de 1916 (mantida pelo art. 940 do CC/2002). Pagamento em dobro por dívida já paga ou pagamento equivalente a valor superior do que é devido depende da demonstração de má-fé, dolo ou malícia, por parte do credor. Precedentes" (AgRg no REsp 107690/ES T3 Min. Relator Sidnei Beneti, DJe 15.06.2011).
+Pelos mesmos motivos acima expostos, também não é o caso de condenação do reconvindo nas sanções previstas no parágrafo único do art. 42, do CDC, ressaltando-se que já houve decisão judicial condenando a instituição financeira a ressarcir os reconvintes pelos prejuízos materiais e morais que suportaram em decorrência do contrato de prestação de serviços que instruiu a petição inicial na ação principal.
+Destarte, a improcedência da ação de reconvenção é medida que se impõe.
+(..)
+De fato, a pretensão foi bem rechaçada, pois como salientou a decisão impugnada o disposto o artigo 940 do Código Civil, só se aplica em casos de cobrança oriunda de má-fé, o que não é a hipótese dos autos, salientando-se que, inclusive, o banco reconvindo já foi condenado ao ressarcimento dos danos materiais e morais devidos. (grifos nossos)
+Assim, o Tribunal a quo foi expresso ao afastar a condenação do art. 940 do CC/02, notadamente fundamentando a ausência de demonstração de cobrança oriunda de má-fé, nos termos acima colacionados. Consigne-se que elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Saliente-se, nessa esteira, que tal entendimento encontra-se em harmonia com a jurisprudência desta Corte. A propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. ART. 1531 DO CÓDIGO CIVIL DE 1916. PROVA [NOME]. EXIGÊNCIA. S. 159/STF. S. 7/STJ.
+1. A aplicação da sanção prevista no artigo 1531 do Código Civil de 1916 (mantida pelo art. 940 do CC/2002) - pagamento em dobro por dívida já paga - depende da demonstração de má-fé, dolo ou malícia, por parte do credor. Precedentes.
+2. A reversão do entendimento exposto pelo Tribunal de origem, com a verificação da eventual má-fé da parte credora, exigiria, necessariamente, o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento" (AgRg no REsp 601.004/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/9/2012, DJe 14/9/2012) - g.n.
+Nesse mesmo passo, verifico que o recurso especial não pode ser conhecido quanto à interposição pela alínea c do permissivo constitucional.
+Com efeito, não há, na fundamentação do recurso, a indicação adequada da questão federal controvertida, tendo deixado os recorrentes de apontar os dispositivos de lei federal sobre os quais haveria divergência jurisprudencial, incidindo, na espécie, o óbice da Súmula 284 do STF.
+Ressalto que tal óbice aplica-se tanto para a interposição do recurso com fundamento na alínea a do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial, tendo em vista que os agravantes não apontaram dispositivo legal que teria obtido interpretação diversa da que foi dada por outro Tribunal (AgRg nos EREsp 382.756/SC, Corte Especial, Rel. Min. Laurita Vaz, DJe de 17/12/2009).
+Ainda que assim não fosse, o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/73 (art. 1.029, § 1º, do CPC/2015), e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. No caso concreto, os agravantes apontam julgados que não guardam similitude fática com o caso dos autos. Outrossim, não se procedeu ao devido cotejo analítico.
+Destarte, inviável a pretensão dos recorrentes.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
