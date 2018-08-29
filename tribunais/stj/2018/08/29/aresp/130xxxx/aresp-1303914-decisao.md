@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 182/183).
+O acórdão recorrido está assim ementado (e-STJ fl. 130):
+FALÊNCIA. HABILITAÇÃO DE CRÉDITO PREVIDENCIÁRIO. PRESCRIÇÃO. OCORRÊNCIA. CRÉDITOS ATINENTES AOS ANOS DE 1996 A 1998. INEXISTÊNCIA, CONTUDO, DE PROVA DA SUPERVENIÊNCIA DE QUAISQUER CAUSAS INTERRUPTIVAS DA PRESCRIÇÃO ENTRE A DATA DA CONSTITUIÇÃO DO CRÉDITO (1996) E O AJUIZAMENTO DO PEDIDO DE HABILITAÇÃO (2008). CASO EM QUE DECORRIDOS BEM MAIS DE CINCO ANOS ENTRE A EFETIVA CONSTITUIÇÃO DO CRÉDITO E A PRESENTE AÇÃO. INAPLICABILIDADE, POR FIM, DO ART. 47 DO DL 7661/45 AOS CRÉDITOS TRIBUTÁRIOS. INTELIGÊNCIA DO ART. 187 DO CTN E DO ART. 29 DA LEI 6830/80. HONORÁRIOS, CONTUDO, INDEVIDOS. DECISÃO REFORMADA. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 151/157).
+No especial (e-STJ fls. 163/170), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 1.022 do CPC/2015 por negativa de prestação jurisdicional. Destacou que (e-STJ fl. 165):
+Conforme apontado nos embargos declaratórios aviados pela União foram apontados expressamente as duas hipóteses legais de interrupção e suspensão do prazo prescricional, por primeiro, a adesão do devedor ao REFIS em 26/0412001, sendo excluído do referido parcelamento somente em 11/10/2003, momento em que voltou a fluir o prazo prescricional quinquenal; por segundo, a interrupção provocada pela imputação em mora do falido acarretada pela sentença declaratória de falência, em 20/12/2000, a justificar a interrupção do prazo prescricional, nos termos do art. 174, § único, III, do CTN. Considerando quaisquer das hipóteses de interrupção e suspensão articuladas pela defesa da União, não há que se falar em prescrição no caso em análise.
+Apontou ainda afronta ao art. 174, parágrafo único, III e IV, do CTN, sustentando, em síntese, a existência de causas interruptivas da prescrição.
+No agravo (e-STJ fls. 187/192), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 195/197).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o conhecimento do recurso especial nessa parte.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 131/132):
+No caso dos autos, o reconhecimento da prescrição esteou-se na documentação juntada pelo próprio Instituto Nacional do Seguro Social - INSS quando da propositura da demanda.
+É de se notar que o crédito que se pretendeu habilitar refere-se a fato gerador ocorrido entre janeiro de 1996 e dezembro de 1998 (fls. 06/07), inscritos em dívida ativa em 14 de março de 2000 (fl. 07).
+De toda sorte, é certo que não comprovou a habilitante tenha havido a citação da falida em processo executivo fiscal, e sequer o ajuizamento da competente ação até o presente momento, o que leva ao reconhecimento da prescrição.
+Note-se que entre a constituição do crédito com a inscrição em 14 de março de 2000 (fl. 07) e o ajuizamento do presente pedido de restituição, em 25 de março de 2008, passaram-se bem mais de cinco anos sem que se tenha notícia de qualquer providência do credor tendente ao recebimento do crédito e, muito menos, do advento de qualquer causa interruptiva do prazo.
+A Corte local, com base nas peculiaridades do caso concreto, concluiu pela inexistência de qualquer providência do credor tendente ao recebimento do crédito e de qualquer causa interruptiva do prazo. Para alterar os fundamentos acima transcritos seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
