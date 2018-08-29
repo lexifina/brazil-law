@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"1. No sistema da alienação fiduciária de bem imóvel instituído pela Lei 9.514/97, admite-se a capitalização dos juros.
+2. Não se admite, porém, a quem não integra o Sistema Financeiro Nacional, que não se confunde com o Sistema Financeiro Imobiliário, a exigência de juros de mora de meio por cento ao dia, o que em tese constitui crime de usura. Para a repetição do excesso, em que se compreende a pretensão revisional, acolhe-se em parte a demanda, ordenando-se a extração de cópia dos autos ao Ministério Público." (e-STJ, fl. 425)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação do art. 5º, III, da Lei 9.514/97 e divergência jurisprudencial, sustentando, em síntese, que é possível a livre pactuação de juros de mora em contratos celebrados por empresas integrantes do Sistema Financeiro Imobiliário que comercializam imóveis com pacto de alienação fiduciária.
+É o relatório. Decido.
+Embora a agravante defenda ser possível a livre pactuação de juros de mora em virtude de sua atuação no Sistema Financeiro Imobiliário, tal condição é irrelevante para o deslinde da controvérsia.
+Isso porque, conforme reconhecido pelo acórdão recorrido, o contrato previa juros de mora de 1% ao mês.
+Ademais, na vigência do CC/02, os juros de mora legais devem ser fixados à taxa de 1% ao mês, nos termos do art. 406 do diploma civil. Confiram-se:
+
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INCORPORAÇÃO IMOBILIÁRIA. INADIMPLEMENTO CONTRATUAL. RESPONSABILIDADE CIVIL. SÚMULAS 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. INOCORRÊNCIA. DANO MORAL. JUROS DE MORA. TEMPUS REGIT ACTUM. ENTENDIMENTO PACIFICADO NA JURISPRUDÊNCIA DO STJ.
+1. A conclusão do Tribunal Estadual, sobre a responsabilidade da recorrente na condição de incorporadora do empreendimento, decorreu da análise dos elementos fático-probatórios dos autos, bem como da interpretação dos pactos celebrados entre as partes e demais interessados. Entender de forma diversa implicaria na necessária incursão na seara fática para reexame de provas e interpretação de cláusula contratual, conduta vedada em sede de recurso especial, ante o óbice das Súmulas 5 e 7/STJ.
+2. "A incidência da referida Súmula desta Corte impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem". (AgRg no AREsp 62.120/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 13/12/2011, DJe 19/12/2011) 3. As instâncias ordinárias chegaram à conclusão de que a ocorrência de dano moral, no caso, decorreu do não-cumprimento de contrato de promessa de compra e venda de imóvel, cujo atraso trouxe tensão, ansiedade, angústia e desequilíbrio no estado emocional, circunstâncias que extrapolam o mero aborrecimento. A valoração pretendida pela recorrente, em relação ao dano moral, é vedada pela Súmula 7/STJ.
+4. É firme a jurisprudência do STJ no sentido de que os juros (de mora) legais devem ser fixados à taxa de 0,5% ao mês, no período anterior ao início da vigência do novo Código Civil, art. 1062 do CC/1916, e, posteriormente, regidos pelo disposto no artigo 406 do CC/2002. Precedentes.
+5. Agravo regimental a que se nega provimento."
+(AgRg no Ag 1161069/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2012, DJe 24/02/2012)
+"DIREITO CIVIL E PROCESSUAL CIVIL. JUROS DE MORA LEGAIS. CONFLITO DE NORMAS. SUCESSÃO DE LEIS NO TEMPO. TAXA SELIC. REFORMATIO IN PEJUS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR CULPA DO PROMITENTE VENDEDOR. RETENÇÃO DE VALORES A TÍTULO DE TAXA DE ADMINISTRAÇÃO. IMPOSSIBILIDADE.
+I - Os juros (de mora) legais devem ser fixados à taxa de 0,5% ao mês (artigo 1.062 do CC/1916) no período anterior ao início da vigência do novo Código Civil (10.1.2003) e, em relação ao período posterior, nos termos do disposto no artigo 406 do Código Civil de 2002, o qual corresponde à Taxa SELIC.
+II - Todavia, se a incidência da Taxa SELIC se dá em prejuízo do recorrente não é possível aplicá-la para o período posterior a 10.1.2003, sob pena de reformatio in pejus. Para esse período deve permanecer percentual indicado no acórdão recorrido: 1% ao mês.
+III - Na resolução de compromisso de compra e venda de imóvel por culpa do promitente-vendedor a restituição das parcelas pagas deve ser integral, indevida a retenção de valores a título de taxa de administração. Precedentes.
+IV - Agravo Regimental a que se dá parcial provimento apenas para afastar a reformatio in pejus identificada."
+(AgRg no Ag 1370108/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 12/04/2011, DJe 27/04/2011)
+Dessarte, à luz do contrato em tela ou da legislação civil, os juros de mora não podem ser exigidos em patamar superior a 1% ao mês.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
