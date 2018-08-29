@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AUTORES.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de não ser possível aferir eventual ofensa ao art. 333 do CPC/73 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. 1.1. A revisão do aresto impugnado no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a suficiência de provas da existência do contrato de leasing. Incidência da Súmula 7/STJ, aplicável também à alegação de dissídio jurisprudencial.
+2. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por KARLA DE SOUZA RODRIGUES E OUTROS em face da decisão acostada às fls. 613-616 e-STJ, da lavra deste relator, que negou provimento a agravo (art. 544 do CPC/73), por meio do qual os ora insurgentes pretendiam ver admitido recurso especial.
+O apelo extremo (art. 105, III, "a" e "c", da CF/88) fora deduzido em desafio ao acórdão de fls. 493-499 e-STJ, prolatado pelo e. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSO ADESIVO Ausência de mútua sucumbência Não cabimento Art. 500, do C.P.C. Recorrente que defende a sentença em contra-razões e pede a modificação da sentença no recurso adesivo Inviabilidade Recurso não conhecido. APELAÇÃO Responsabilidade civil Acidente de trânsito Ação movida em face de bancos arrendadores, que figuram como proprietários dos veículos envolvidos por meio de contratos de leasing Impossibilidade Precedentes Existência dos contratos incontroversa Ilegitimidade passiva ad causam confirmada Sucumbência mantida Recurso não provido.
+Nas razões do recurso especial, os ora agravantes aduziram, em síntese, que o acórdão recorrido teria violado os artigos 333, 334 inc. II, 867 e 893 do CPC/73 e art. 177 do Código Civil de 1916, defendendo, em síntese, que não é possível presumir a existência de contrato de arrendamento mercantil, de modo que seria ônus das companhias de leasing demonstrar ter realizado essa avença por meio da apresentação do instrumento contratual, afirmando, ainda, que os documentos apresentados pela parte insurgente não seriam suficientes para essa comprovação, concluindo ter sido indevida a exclusão das empresas do polo passivo da demanda.
+Contrarrazões a fls. 550-558 e 560-564 e-STJ
+Em juízo prévio de admissibilidade, o Tribunal estadual negou seguimento ao apelo nobre (fls. 566-567 e-STJ). Essa decisão foi impugnada por meio de agravo em recurso especial (fls. 570-580 e-STJ). Contraminuta a fls. 583-587 e589-592 e-STJ.
+Em julgamento monocrático, negou-se provimento ao reclamo por incidência das Súmulas 211/STJ, 83/STJ e 7/STJ.
+Inconformadas, interpuseram o presente agravo interno (fls. 620-633 e-STJ) alegando, em síntese, não serem aplicáveis os óbices invocados. Requereram a reforma do decisum ou a apresentação do feito em mesa.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AUTORES.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de não ser possível aferir eventual ofensa ao art. 333 do CPC/73 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. 1.1. A revisão do aresto impugnado no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a suficiência de provas da existência do contrato de leasing. Incidência da Súmula 7/STJ, aplicável também à alegação de dissídio jurisprudencial.
+2. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Não prosperam as alegações de ofensa aos artigos artigos 333, 334 inc. II, 867 e 893 do CPC/73 e art. 177 do Código Civil de 1916.
+Inicialmente, ressalte-se que, consoante a jurisprudência deste Tribunal, não é possível aferir a violação ao artigo 333 do CPC/1973 (equivalente ao art. 373 do CPC/15) sem incursão no arcabouço fático probatório dos autos, o que não é cabível em sede de recurso especial.
+Nesse sentido, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NOTA PROMISSÓRIA. VÍCIO DE CONSENTIMENTO. DOLO. ALEGADA VIOLAÇÃO AO ART. 373 DO CPC/2015. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+2. "A Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1199439/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. FALHA NA PRESTAÇÃO DE SERVIÇO DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. SÚMULA 7/STJ. ÔNUS DA PROVA. ART. 333 DO CPC/73. NECESSIDADE DE REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. AGRAVO INTERNO IMPROVIDO.
+ ..
+IV. Na forma da jurisprudência do STJ, "não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (STJ, REsp 1.602.794/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017). Em igual sentido: STJ, AgInt no REsp 1.651.346/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 21/06/2017.
+V. Agravo interno improvido.
+(AgInt no AREsp 1145076/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/12/2017, DJe 15/12/2017)
+Segundo os autos, a Corte de origem manteve a sentença que extinguiu sem resolução do mérito ação de indenização por acidente de trânsito promovida pelas ora recorrentes em face das instituições financeiras recorridas e da empresa de transportes que hora figura como interessada.
+Essencialmente, o Tribunal a quo verificou que "A existência dos contratos de leasing (indicada no boletim de ocorrência do acidente fls. 29 v., documento público) e a ausência de responsabilidade dos arrendadores é incontroversa" ( fl. 499 e-STJ), pois as próprias autoras teriam reconhecido a existência do contrato, conforme notificação enviada às instituições financeiras. Ademais, a Corte considerou escusável que as empresas não possuissem cópias dos instrumentos contratuais, haja vista o transcurso de quatorze anos desde a celebração desse.
+Cita-se o excerto correspondente (fl. 499 e-STJ, sem grifos no original)
+A existência dos contratos de leasing (indicada no boletim de ocorrência do acidente fls. 29 v., documento público) e a ausência de responsabilidade dos arrendadores é incontroversa, apontando as próprias autoras na notificação judicial havida antes da propositura da ação que: "(..) as financeiras que figuram como proprietárias, são arrendantes (..) pelo sistema de leasing, e como tal, os responsáveis pela indenização são os arrendatários, e não os arrendantes, daí a presente notificação." (fls. 24), dispensando apresentação de seus termos, ressaltando-se que os direitos de obrigações decorrentes deste tipo contratual é regido por lei específica.
+No mais, considerando o tempo decorrido entre o acidente e a propositura da ação (quase quatorze anos fls. 02/03), inviável exigir dos bancos requeridos cópia dos contratos firmados, reconhecida a condição contratual, conforme acima referido.
+O acórdão impugnado está, portanto, fundamentado no quadro fático singular formado na presente demanda. A revisão do aresto impugnado no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a suficiência de provas da existência do contrato de leasing. Essas medidas não são possíveis pela via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+1.1. Importante consignar que esta Corte de Justiça entende ser cabível a aplicação do quanto enunciado na Súmula 7/STJ também como óbice ao conhecimento do dissídio jurisprudencial, na medida em que, dada a ausência de similitude fática entre o acórdão paradigma e o recorrido, a divergência entre os julgados tem origem em quadros fáticos distintos, não em teses jurídicas opostas.
+Nesse sentido, vejam-se os seguintes precedentes: AgInt nos EDcl no REsp 1582424/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016; AgRg no AREsp 748.127/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/03/2016, DJe 21/03/2016; AgInt no REsp 1345421/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2016, DJe 16/09/2016.
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
