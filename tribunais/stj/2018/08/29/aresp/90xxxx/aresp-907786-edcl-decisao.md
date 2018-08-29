@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão de minha lavra, em que conheci do agravo para não conhecer do recurso especial ante a incidência da Súmula 7 do STJ (e-STJ fls. 261/264).
+Sustenta o embargante que ainda não houve o trânsito em julgado do Recurso Extraordinário 579.431/RS, ante a oposição de embargos aclaratórios com pedido de modulação dos efeitos. Portanto, aduz que, por medida de cautela, os autos deveriam ser sobrestados para "aguardar a futura decisão da Corte Suprema que unificará e pacificará todo o procedimento a ser seguido a partir de então" (e-STJ fl. 271).
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 273).
+Passo a decidir.
+De acordo com o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis quando houver, na decisão judicial, omissão, erro material, contradição ou obscuridade.
+Considerado isso, consigno, de pronto, que o agravante se equivoca quando assenta que a decisão agravada teria aplicado "o entendimento fixado pelo STF no RE 579.431/RS, da relatoria do Ministro Marco Aurélio, em regime de Repercussão Geral, que fixou a tese de que: Incidem os juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório" (e-STJ fl. 270).
+Com efeito, o referido agravo foi conhecido para não conhecer do recurso especial, em razão da impossibilidade de análise de Portaria do Ministério do Trabalho, por não se enquadrar no conceito de lei federal, bem como pela incidência da Súmula 7 do STJ.
+Assim, verifico que, além da inexistência de indicação de quaisquer vícios no decisum, as razões dos embargos de declaração estão dissociadas tanto do que foi efetivamente decidido neste Tribunal quanto do que foi suscitado no próprio apelo nobre, o que atrai o óbice da Súmula 284 do STF.
+A propósito, cito os seguintes precedentes (EDcl no AgRg no AREsp 688.515/RO, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/10/2015, DJe 04/11/2015; AgRg no AREsp 68.600/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 19/12/2014; AgRg no AREsp 655.352/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 08/09/2015; AgRg no AREsp 271.586/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13/05/2014).
+Com essas considerações, NÃO CONHEÇO dos embargos de declaração.
+Publique-se. Intimem-se.
