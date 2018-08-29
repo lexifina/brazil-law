@@ -1,0 +1,14 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal no seu direito a locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0000517-78.2016.8.26.0540.
+O paciente foi condenado à pena de 6 anos e 3 meses de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+Busca a defesa a redução da pena imposta, ao argumento de que foi utilizado indevidamente condenação extinta há mais de 5 anos para aumentar a pena-base a título de maus antecedentes.
+Indeferida a liminar e, suficientemente instruídos os autos, o Ministério Público opinou pela denegação da ordem.
+Decido.
+O Juiz sentenciante, por ocasião da primeira fase da dosimetria da pena, considerou desfavoráveis ao acusado a quantidade e natureza das drogas apreendidas e os antecedentes.
+De acordo com o Tribunal de origem, a condenação presente em certidão de antecedentes do réu, "embora tenha sido extinta no ano de 2006, ainda é passível de ser valorada negativamente" (fl. 37).
+Sobre a matéria posta em discussão, faço o registro de que, embora o Supremo Tribunal Federal ainda não haja decidido o mérito do RE n. 593.818 RG/SC - que, em repercussão geral já reconhecida (DJe 3/4/2009), decidirá se existe ou não um prazo limite para se sopesar uma condenação anterior como maus antecedentes -, certo é que, por ora, este Superior Tribunal possui o entendimento consolidado de que "O conceito de maus antecedentes, por ser mais amplo, abrange não apenas as condenações definitivas por fatos anteriores cujo trânsito em julgado ocorreu antes da prática do delito em apuração, mas também aquelas transitadas em julgado no curso da respectiva ação penal, além das condenações transitadas em julgado há mais de cinco anos, as quais também não induzem reincidência, mas servem como maus antecedentes. Precedentes." (HC n. 337.068/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 28/6/2016). Ainda, menciono: HC n. 413.693/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 16/10/2017.
+Vale dizer, decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não prevaleça mais para fins de reincidência, pode ser sopesada a título de maus antecedentes.
+Portanto, não vejo como qualificar de abusiva ou de ilegal a decisão, notadamente porque, conforme anteriormente salientado, esta Corte Superior possui a compreensão, tanto na Quinta quanto na Sexta Turma, de que as condenações atingidas pelo período depurador previsto no art. 64, I, do Código Penal, embora não caracterizem mais reincidência, podem ser sopesadas a título de maus antecedentes.
+À luz de tais considerações, não identifico nenhuma ilegalidade manifesta no ponto em que, fundamentadamente, foi reconhecida a existência de maus antecedentes em desfavor do ora paciente.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
