@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIÇO MILITAR OBRIGATÓRIO. PROFISSIONAL DA ÁREA DE SAÚDE. DISPENSA DO SERVIÇO MILITAR. EXCESSO DE CONTINGENTE. CONVOCAÇÃO ANTES DA EDIÇÃO DA LEI 12.336/2010. IMPOSSIBILIDADE. QUESTÃO PACIFICADA PELA PRIMEIRA SEÇÃO. RECURSO ESPECIAL REPETITIVO N. 1.186.513/RS. APLICAÇÃO DO ART. 543-C DO CPC/1973. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 192):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. DISPENSA DO SERVIÇO MILITAR OBRIGATÓRIO POR EXCESSO DE CONTINGENTE. POSTERIOR CONVOCAÇÃO COMO MÉDICO. POSSIBILIDADE. APELO E REMESSA OFICIAL PROVIDOS.
+1. O Sistema Jurídico vigente formado pela Lei Geral do Regime Militar (Lei nº.4.375 de 17/08/67) e pela lei especial que dispõe sobre o serviço militar de Médicos, Farmacêuticos, Dentistas e Veterinários ("MFDV") que é a Lei nº.5.292 de 08/06/67, instituiu dois momentos distintos em que pode eclodir a prestação militar em relação ao indivíduo que, mesmo no futuro, acabe se formando como "MFDV".
+2. Assim, um jovem dispensado por "excesso de contingente" que no futuro se gradua como "MFDV" poderá vir a ser convocado nos serviços de saúde das Forças Armadas (confiram-se: art. 3º, § 2º do art. 4º, art. 9º e art. 51 da Lei nº 5.292/67).
+3. A Lei nº.5.292/67 não se limitou apenas a disciplinar a situação dos jovens que se tornariam médicos, farmacêuticos, dentistas e veterinários ("MFDV") e que para fins desse estudo superior foram "dispensados" de incorporação no momento em que ingressaram em faculdades, mas também impôs a obrigação do serviço militar àqueles que concluíram o curso superior nessas áreas até atingirem 38 (trinta e oito) anos, mesmo que anteriormente tivessem sido "dispensados" do serviço militar obrigatório na forma da Lei nº.4.375/64.
+4. Apelação e remessa oficial providas.
+O recorrente alega, além do dissídio jurisprudencial, violação do art. 4º da Lei 5.292/1967, ao argumento de que a "convocação de médicos, no ano seguinte ao da terminação de seu curso, está condicionada a que sua dispensa da incorporação inicial ao serviço militar tivesse decorrido de sua condição de estudante de Medicina, o que não ocorre no presente caso" (fl. 205).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 301-303.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A pretensão recursal merece prosperar.
+A Primeira Seção desta Corte, no julgamento dos Edcl no REsp 1.186.513/RS, da relatoria do eminente Ministro Herman Benjamin, submetido ao rito do art. 543-C do CPC/1973, ao apreciar a controvérsia diante do advento da Lei 12.336/2010, reafirmou a jurisprudência desta Corte superior, no sentido de que "os estudantes de Medicina, Farmácia, Odontologia ou Veterinária dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar, compulsório tão somente àqueles que obtêm o adiamento de incorporação, conforme previsto no art. 4º, caput, da Lei 5.292/1967".
+Confira-se a ementa do julgado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SERVIÇO MILITAR OBRIGATÓRIO. DISPENSA POR EXCESSO DE CONTINGENTE. ESTUDANTE. ÁREA DE SAÚDE. LEIS 5.292/1967 e 12.336/2010.
+1. Os estudantes de Medicina, Farmácia, Odontologia ou Veterinária dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar, compulsório tão somente àqueles que obtêm o adiamento de incorporação, conforme previsto no art. 4º, caput, da Lei 5.292/1967.
+2. As alterações trazidas pela Lei 12.336 passaram a viger a partir de 26 de outubro de 2010 e se aplicam aos concluintes dos cursos nos IEs destinados à formação de médicos, farmacêuticos, dentistas e veterinários, ou seja, àqueles que foram dispensados de incorporação antes da referida lei, mas convocados após sua vigência, devem prestar o serviço militar.
+3. Embargos de Declaração acolhidos (EDcl no REsp 1.186.513/RS, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 14/2/2013).
+No presente caso, consoante pontuado pelo acórdão recorrido, o agravante foi dispensado por excesso de contingente em 01/02/1996, e reconvocado antes da entrada em vigor da Lei 12.336/2010, razão pela qual merece reforma o acórdão recorrido.
+Ante o exposto, dou provimento ao recurso especial, restabelecendo a sentença de fls. 90-92.
+Publique-se. Intimem-se.
