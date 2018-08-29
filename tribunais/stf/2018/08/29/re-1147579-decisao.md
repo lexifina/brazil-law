@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “Ação de revisão ele proventos/vencimentos fundada em não aplicação da metodologia de conversão de cruzeiros reais em URV, nos termos da Lei 8.880/94. Sentença de parcial procedência mantida. Negado provimento ao recurso das rés.” (pág. 144 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a e b, da Constituição Federal, sustentou-se aos arts. art. 5°, caput; 25; 37, X e XIII; 39, § 1°; e 169, § 1°, I e II, da mesma Carta. Alegou-se a reestruturação de carreira.
+    A pretensão recursal não merece acolhida.
+    Isso porque, à exceção dos arts. 37, X e XIII, e 39, § 1°, da CF, os demais dispositivos arguidos não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Nesse sentido, cito o RE 903.031-AgR/PR, de relatoria do Ministro Dias Toffoli, assim ementado:
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria por invalidez. Requisitos para concessão. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. É inviável o recurso extraordinário quando os dispositivos constitucionais nele suscitados carecem do necessário prequestionamento. Incidência das Súmulas nºs 282 e 356 da Corte. 2. A revisão do entendimento adotado pelo Tribunal de origem acerca da qualidade de segurada da agravante demandaria a análise da legislação infraconstitucional e o reexame do conjunto fático-probatório da causa, para os quais não se presta o recurso extraordinário. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido”.
+    Quanta à matéria de fundo, o Supremo Tribunal Federal no julgamento do ARE 968.574-RG/MT, de relatoria do Ministro Teori Zavascki concluiu pela inexistência de repercussão geral quanto a controvérsia relativa à ocorrência ou não de reestruturação remuneratória da carreira (Tema 913). Na oportunidade, a ementa ficou assim redigida:
+    “Ementa: PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ÍNDICE RELATIVO À PERDA SALARIAL DECORRENTE DA CONVERSÃO DO CRUZEIRO REAL EM UNIDADE REAL DE VALOR (URV). TERMO FINAL DA INCORPORAÇÃO. REESTRUTURAÇÃO REMUNERATÓRIA DA CARREIRA. VERIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    1. Possui natureza infraconstitucional a controvérsia relativa à ocorrência ou não de reestruturação remuneratória da carreira de servidor público, para fins de estabelecimento do termo final da incorporação do percentual relativo à perda salarial decorrente da conversão do Cruzeiro Real em URV.
+    2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009).
+    3. Ausência de repercussão geral da questão suscitada, nos termos do art. 1.035 do CPC/2015”.
+    No tocante à questão dos juros e correção monetária em face da Fazenda Pública, a matéria foi examinada por esta Corte na sistemática da repercussão geral (RE 870.947-RG – Tema 810).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    No ponto relativo aos juros e correção monetária, determino a devolução destes autos à origem a fim de que seja observado o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
