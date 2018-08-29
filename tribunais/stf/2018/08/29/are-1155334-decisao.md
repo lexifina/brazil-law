@@ -1,0 +1,29 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região.
+    No apelo extremo, interposto com amparo no art. 102, III, a, da Constituição Federal, a parte recorrente sustenta que houve violação aos seguintes dispositivos constitucionais: 5º, X; 37, § 6º; e 144, § 3º.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+     Quanto ao mais, verifica-se que o Tribunal de origem decidiu a controvérsia com base nos fatos e provas constantes dos autos. Veja-se, a propósito, a ementa do julgado (Doc. 2, fl. 164):
+    “CIVIL, ADMINISTRATIVO E CONSTITUCIONAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PRISÃO EM FLAGRANTE. ATIVIDADE POLICIAL NÃO REGULAMENTADA. IMPOSSIBILIDADE. AUSÊNCIA DE ATO ILÍCITO. RECURSO NÃO PROVIDO.
+    1. Trata-se de apelação interposta em face da sentença que julgou improcedente o pedido de indenização por danos morais em decorrência de prisão em flagrante pelo exercício irregular da atividade policial.
+    2. A questão posta é de autêntica responsabilidade objetiva do Estado. Pontifica o art. 37, § 6°, da Carta Magna de 1988, que responderão as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.
+    3. Inexistente o ato ilícito apontado. A ação da Polícia Federal que resultou na detenção do apelante não se reveste de ilicitude, eis que decorreu de uma operação deflagrada para investigar as irregularidades noticiadas, quanto ao exercício da função policial, na CBTU, por servidores que ocupam o cargo de Assistente de Segurança.
+    4. O cargo ocupado pelo apelante, de Assistente de Segurança da CBTU, possui atribuições que não podem ser equiparadas à atividade policial. Ademais, não há, nos autos, qualquer elemento que induza à responsabilidade da CBTU, no que tange ao fornecimento de equipamentos ou de armas para o exercício da atividade policial.
+    5. Ausente a ação ilícita, não há que se falar em dano a ser ressarcido.
+    6. Apelação improvida”.
+    Verifica-se, portanto, que a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Nesse sentido:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. PRISÃO ILEGAL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279/STF.
+     1. Hipótese em que para dissentir da solução conferida pelo Tribunal de origem à controvérsia – ocorrência, ou não, de erro judiciário – faz-se necessária uma nova apreciação dos fatos e do material probatório constantes dos autos (incidência da Súmula 279/STF).
+    2. Agravo regimental a que se nega provimento.” (AI 673.872-AgR/PI, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 22/9/2015)
+    “Agravo regimental no recurso extraordinário com agravo. 2. Responsabilidade civil do estado. Indenização por danos morais. 3. Reexame de conteúdo fático-probatório. Incidência do Enunciado 279 da Súmula do STF. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento”. (RE 779.484-AgR/RJ, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 2/4/2014).
+    No mesmo sentido veja-se, ainda, a seguinte decisão monocrática: RE 1.049015 / PE, Rel. Min. CELSO DE MELLO, DJe de 20/6/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
