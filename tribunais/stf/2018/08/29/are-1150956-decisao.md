@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Oitava Turma do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 2, p. 113):
+    “PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO INTERNO. MANUTENÇÃO DO JULGADO AGRAVADO. DIREITO AO BENEFÍCIO MAIS VANTAJOSO.
+    - Destarte, o segurado que houver implementado todos os requisitos para concessão de aposentadoria e permanecer em atividade, tem assegurado o direito à aposentadoria mais vantajosa.
+    - Assim, o demandante tem direito de optar pelo benefício administrativo, podendo, ainda, executar as parcelas do benefício judicial, mas somente até a data de implantação daquele concedido na via administrativa, eis que assim os períodos de pagamento restam distintos, não havendo afronta ao art. 124 da Lei 8.213/91, haja vista que não ocorre cumulatividade, dado que se assegura a não simultaneidade de proventos.
+    - Ainda, ressalte-se que se optar pelo benefício concedido judicialmente, todos os valores pagos administrativamente deverão ser compensados em execução.
+    - Agravo Interno do INSS desprovido.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 130-136).
+    No recurso extraordinário, com fundamento no art. 102, III, a e b, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 97; 195, caput e § 5º; 201, caput e § 1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma (eDOC 2 p. 144-146):
+    “... não é possível mesclar o regramento anterior à Emenda Constitucional n. 20/98 com o regramento posterior instituído pelo legislador, como parece pretender o autor, sendo certo que não é franqueado ao magistrado realizar a combinação de normas, sobretudo quando a norma posterior expressamente revoga a anterior, uma vez que não se pode utilizar tempo posterior à data de sua edição, pois é vedado ao segurado retirar dos dois benefícios o que melhor lhe aprouver.”
+    (...)
+    No caso vertente, a pretensão de utilização do tempo de serviço posterior à aposentação para transformação de uma aposentadoria mais benéfica, é contrária à ordem democrática, uma vez que não conta com autorização legal, e, além disso, é vedada por Lei (Lei n. 8.213/91, art. 18, § 2º).
+    (…)
+    Assim, se mantido o v. Acórdão, ocorrerá o recebimento de ambas as aposentadorias nos períodos em que cada uma delas é mais favorável ao autor-embargado (CUMULAÇÃO INDIRETA).”
+    A Vice-Presidência do TRF 3ª Região inadmitiu o recurso ao entendimento de que a alegada ofensa ao dispositivo constitucional invocado demanda prévia incursão pela legislação previdenciária ordinária (eDOC 2, p. 156/157).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do agravo regimental, nos termos do que contido na decisão que apreciou a apelação, asseverou:
+    “No que tange à atividade especial, a jurisprudência pacificou-se no sentido de que a legislação aplicável para sua caracterização é a vigente no período em que a atividade a ser avaliada foi efetivamente exercida, devendo, portanto, no caso em tela, ser levada em consideração a disciplina estabelecida pelos Decretos n. 53.831/64 e 83.080/79, até 05.03.1997 e, após, pelo Decreto n. 2.172/97, sendo irrelevante que o segurado não tenha completado o tempo mínimo de serviço para se aposentar época em que foi editada a Lei nº 9.032/95, como a seguir se verifica.” (eDOC 2, p. 99)
+    “Desta forma, pode ser considerada especial a atividade desenvolvida até 10.12.1997, mesmo sem a apresentação de laudo técnico, pois em razão da legislação de regência vigente até então, era suficiente para a caracterização da denominada atividade especial o enquadramento pela categoria profissional (até 28.04.1995 – Lei nº 9.032/95), e/ou a apresentação dos informativos SB-40 e DSS-8030.” (eDOC 2, p. 102)
+    “Quanto à possibilidade de conversão de tempo especial em comum, a jurisprudência do Superior Tribunal de Justiça e desta Corte consolidou-se no sentido da possibilidade de transmutação de tempo especial em comum, nos termos do art. 70, do Decreto 3.048/99, seja antes da Lei 6.887/80, seja após maio/1998, in verbis:” (eDOC 2, p. 104)
+    “... somando-se o período reconhecido como exercido em atividade especial, convertido para tempo de serviço comum, com os demais períodos de trabalho comum, registrados em CTPS e reconhecidos pelo INSS, a parte autora atinge tempo necessário para a concessão do benefício de aposentadoria por tempo de serviço integral, desde a data do requerimento administrativo junto à autarquia federal, pelo que faz jus ao restabelecimento desde a data da cessação.
+    Destarte, o segurado que houver implementado todos os requisitos para concessão de aposentadoria e permanecer em atividade, tem assegurado o direito à aposentadoria mais vantajosa.” (eDOC 2, p. 108)
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Leis 8.213/91 e 9.032/1995, Decretos 53.831/64, 83.080/79 e 2.172/97). Desse modo, as discussões referentes ao reconhecimento da atividade especial, da conversão do tempo especial em comum, da implementação todos os requisitos para concessão de aposentadoria, bem como da possibilidade de opção pelo benefício mais vantajoso revelam-se adstritas ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Além disso, eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o reexame do conjunto fático probatório dos autos, o que atrai a incidência à espécie do óbice da Súmula 279 do STF.
+    Observo, ainda, que não procede a pretensão da parte recorrente em afirmar que a manutenção do acórdão recorrido implicaria em cumulação de aposentadorias, em razão do irrefutável esclarecimento pelo Tribunal a quo, no sentido de que, “se optar pelo benefício concedido judicialmente, todos os valores pagos administrativamente deverão ser compensados em execução” (eDOC 2, p. 111).
+    Por fim, à alegação de que a pretensão de utilização do tempo de serviço posterior à aposentação para transformação de uma aposentadoria mais benéfica, é contrária à ordem democrática, tais argumentos estão dissociados dos fundamentos do acórdão recorrido, o que impõe a aplicação da Súmula 284 do STF.
+    Ante o exposto, nego provimento ao recurso extraordinário, com fundamento no art. 932, IV, a, do CPC e art. 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
