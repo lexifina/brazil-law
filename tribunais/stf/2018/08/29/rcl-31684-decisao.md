@@ -1,0 +1,33 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta por Nayana Maria da Silva Rodrigues em face de decisão proferida pelo Superior Tribunal de Justiça, nos autos do AREsp 920.610.
+    Na petição inicial, a parte reclamante alega usurpação da competência do Supremo Tribunal Federal, em razão da negativa de seguimento de agravo em recurso extraordinário.
+    Argumenta ainda afronta ao decidido por esta Corte nos RE-RG 612.260 (tema 295) e ARE 1.038.507 (tema 961), nos quais esta Corte reconheceu a existência de repercussão geral da questão constitucional relativa à impenhorabilidade do bem de família, com reafirmação de jurisprudência.
+    Nesses termos, sustenta a cassação da decisão que negou seguimento ao recurso extraordinário e determinou a certificação do seu trânsito em julgado, para que se remeta o apelo extremo a este Tribunal.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Passo a decidir.
+    Inicialmente, registro que esta Corte, na Sessão Plenária do dia 19.11.2009, por unanimidade, resolveu questão de ordem no AI 760.358, de minha relatoria, DJe de 19.2.2010, e nas Reclamações 7.569 e 7.547, Rel. Min. Ellen Gracie, DJe de 11.12.2009, no sentido de não conhecer de agravo de instrumento nem de reclamação contra decisões que aplicam a sistemática da repercussão geral na origem.
+    No caso, observo que o tribunal reclamado não conheceu do agravo em recurso extraordinário interposto contra decisão que aplicou a sistemática da repercussão geral. Eis a ementa desse julgado:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO A QUE SE NEGOU SEGUIMENTO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. RECURSO CABÍVEL: AGRAVO INTERNO/REGIMENTAL. RECURSO INTERPOSTO MANIFESTAMENTE INCABÍVEL. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+    1. Insurgem-se as agravantes contra decisão que negou seguimento ao recurso extraordinário em razão da aplicação da sistemática da repercussão geral.
+    2. Caberá agravo interno contra decisão que negar seguimento a recurso extraordinário que discuta questão constitucional sobre a qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou que esteja em conformidade com entendimento daquela Corte exarado no regime de repercussão geral (§ 2º do art. 1.030 do CPC).
+    3. No caso dos autos, a interposição do agravo em recurso extraordinário consubstancia erro grave. Não incidência do princípio da fungibilidade.
+    4. “Não terá seguimento pedido ou recurso dirigido ao Supremo Tribunal Federal, quando manifestamente incabível, ou apresentado fora do prazo, ou quando for evidente a incompetência do Tribunal” (Súmula 322/STF).
+    5. O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso. Precedentes: ARE 813.750 AgR, Relatora Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 28/10/2016, publicado em 22/11/2016; ARE 823.947 ED, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 15/12/2015, publicado em 19/2/2016; ARE 819.651 ED, Relator Min. LUIZ FUX, Primeira Turma, julgado em 9/9/2014, publicado em 10/10/2014.
+    Agravo em recurso extraordinário não conhecido com determinação de certificação do trânsito em julgado”. (eDOC 6, p. 1-2)
+    Depreende-se da ementa acima transcrita que o tribunal de origem aplicou ao caso o disposto no art. 1.042 do NCPC (art. 544 do CPC/1973), o qual prevê o cabimento do agravo nos próprios autos somente contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, com a ressalva dos casos em que a inadmissão fundar-se na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos.
+     Nesse sentido, o Código de Processo Civil de 2015 assentou que o recurso cabível contra a aplicação da sistemática da repercussão geral pelo tribunal de origem é o agravo interno (art. 1.030, § 2º).
+    Assim, tendo em vista não ser cabível o agravo nos próprios autos contra decisão que aplica a sistemática da repercussão geral na origem, não se verifica, na hipótese do autos, usurpação de competência desta Corte a ensejar o cabimento da reclamação. Cito, a propósito, os seguintes precedentes: Rcl 23.616, Rel. Min. Luiz Fux, DJe 19.4.2016; e Rcl 23.031, Rel. Min. Rosa Weber, DJe 15.4.2016.
+    Ainda que superado esse óbice, esta reclamação não merece prosperar.
+    Compulsando os documentos acostados aos autos, observo que o tribunal reclamado aplicou corretamente a jurisprudência do STF, firmada no julgamento do RE-RG 598.365 (tema 181), no sentido de que a discussão concernente ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Desse modo, não vislumbro a aplicação errônea da tese firmada por esta Corte no âmbito da repercussão geral. Com efeito, a parte pretende, em verdade, a revisitação da tese firmada por este Tribunal em recurso afetado pela sistemática da repercussão geral.
+    Nesses termos, saliento o entendimento do STF no sentido de que o instrumento processual da reclamação não pode ser empregado como sucedâneo recursal ou atalho processual para fazer chegar a causa diretamente ao Supremo Tribunal Federal, conforme ocorre nestes autos.
+    Confiram-se, a propósito, os seguintes precedentes: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009.
+    Desse modo, inadmissível esta reclamação, tendo em vista a utilização desta via processual como sucedâneo recursal.
+    Finalmente, registre-se que o Código de Processo Civil de 2015 determina a citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação (art. 989, III).
+    Consoante o art. 319, II, c/c o art. 321, do CPC/2015, é ônus da parte reclamante indicar o endereço atualizado do beneficiário da decisão impugnada, sob pena de indeferimento da inicial.
+    A citação é dispensável em casos, como o presente, de improcedência liminar do pedido. Entretanto, na eventualidade de interposição de recurso, deverá a parte reclamante fornecer o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, para fins de observância do art. 332, § 4º, do Código de Processo Civil.
+    Ante ao exposto, nego seguimento à reclamação (art. 21, §1º, do RISTF) e julgo prejudicado o pedido liminar.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
