@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Turma Recursal dos Juizados Especiais Federais de Tocantins, que confirmou a sentença cujos fundamentos reproduzo (eDOC 2, p. 49):
+    “Infere-se daí que a tributação do' imposto de renda somente. alcançará a disponibilidade financeira que se acresce ao patrimônio do contribuinte, não incidindo sobre verbas indenizatórias, pois nestas se tem apenas uma recomposição de um desfalque ou prejuízo suportado.
+    Ora, se o auxílio não integra o salário de contribuição para fins de incidência da contribuição previdenciária, uma das espécies tributárias, em função da sua natureza indenizatória, não existe razão para alterar sua natureza relativamente ao imposto de renda.”
+    No recurso extraordinário interposto com fulcro no art. 102, III, a, do permissivo constitucional, alega-se violação dos arts. 7º, XXV, e 208, IV, da Constituição Federal.
+    Nas razões recursais sustenta-se, em síntese, que “qualquer valor recebido pelo empregado/servidor público em razão de ter filhos com idade entre 5 e 6 anos deve ser considerado como renda efetiva e, de consequência, sujeito à incidência do imposto de renda e da contribuição previdenciária” (eDOC 1, p. 64).
+    É o relatório. Decido.
+    De plano é necessário considerar que controvérsia a respeito da natureza jurídica dos valores recebidos a título de auxílios ou gratificações, para fins de incidência do imposto de renda, demanda a interpretação da legislação infraconstitucional de regência, de modo que eventual ofensa à Constituição Federal possuiria caráter indireto e reflexo.
+    Nesse sentido, vejam-se os seguintes julgados:
+          “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO DE RENDA. CONVERSÃO DE LICENÇA-PRÊMIO. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+     I -- A jurisprudência desta Corte firmou-se no sentido de que a controvérsia acerca da incidência do imposto de renda sobre importâncias recebidas a título de conversão de licenças-prêmio em pecúnia demanda a análise de normas infraconstitucionais. A afronta à Constituição, se ocorrente seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes.
+     II -- Agravo regimental a que se nega provimento.” (ARE 727.022-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 23/6/2014).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE VERBAS INDENIZATÓRIAS. CONTROVÉRSIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (RE 597.564-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 14/8/2009).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA. MATÉRIA INFRACONSTITUCIONAL.
+    1. Para dissentir-se do acórdão impugnado quanto ao caráter da verba percebida -- indenizatória ou remuneratória -- seria necessária a análise da legislação infraconstitucional que disciplina a espécie. Agravo regimental a que se nega provimento.” (RE 344.021-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe de 1º/8/2008) “Imposto de Renda. 13º Salário. Questão de incidência desse imposto na fonte. - Inexistência de violação dos §§ 4º e 36 do artigo 153 da Emenda Constitucional nº 1/69 que, segundo o recorrente, acarretaria a nulidade do acórdão recorrido. - A alegada ofensa aos arts. 153, § 2º, e 23, § 1º, ambos da Emenda Constitucional nº 1/69, é meramente reflexa, pois, para se chegar a ela, mister será o exame da legislação infraconstitucional. E em se tratando de ofensa reflexa a textos constitucionais não cabe recurso extraordinário. Recurso extraordinário não conhecido.” (RE 117.703, Rel. Min. Moreira Alves, Primeira Turma, DJ de 8/9/1995).”.
+    No mesmo sentido, ARE 1134595, Rel. Min. Ricardo Lewandowski, DJe 21.6.2018; ARE 879535 AgR, Rel. Min. Gilmar Mendes, DJe 29.9.2017.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
