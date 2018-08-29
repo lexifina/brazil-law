@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+EXECUÇÃO FISCAL - IPVA Exigibilidade do crédito tributário suspensa Observância do art. 151, II, do CTN Impossibilidade do ajuizamento da execução Sentença que reconheceu a falta de interesse de agir da Fazenda do Estado para propor a ação de execução e julgou extinto o processo (art. 267, VI, do CPC) Extinção bem decretada.
+HONORÁRIOS ADVOCATÍCIOS. Verba honorária devida e fixada com moderação Princípio da causalidade Emprego por analogia da Súmula 153 do STJ Observância do art. 20, § 4º do CPC Precedentes Honorários advocatícios mantidos.
+RECURSO DESPROVIDO.
+O valor atribuído à presente execução fiscal perfazia o montante de R$ 1.041,84 (mil e quarenta e um reais e oitenta e quatro centavos), em dezembro de 2013.
+No recurso especial, a recorrente aponta violação dos arts. 26, da Lei n. 6.830/1980 e 20, do CPC/1973.
+Sustenta, em síntese, que (i) não é devida a condenação da Fazenda Estadual em honorários sucumbenciais, tendo em vista que a recorrente apresentou pedido de extinção do feito executivo antes da decisão do juízo monocrático e que (ii) os honorários advocatícios, arbitrados em R$ 1.000,00 (mil reais), foram fixados em patamar exorbitante.
+O recurso especial foi inadmitido com base na Súmula n. 7 do Superior Tribunal de Justiça.
+No presente agravo, a recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo a agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+O Superior Tribunal de Justiça consolidou entendimento no sentido de que é possível, em sede de exceção de pré-executividade, a condenação da Fazenda Pública exequente em honorários advocatícios quando a extinção da execução se der após a contratação de advogado pelo executado.
+Nesse sentido, confiram-se:
+RECURSO FUNDADO NO CPC/73. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HONORÁRIOS ADVOCATÍCIOS. EXTINÇÃO DA EXECUÇÃO FISCAL INFORMADA PELO PRÓPRIO EXEQUENTE. PRINCÍPIO DA CAUSALIDADE. CONDENAÇÃO. VALOR FIXADO NA DECISÃO AGRAVADA. OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+1. O entendimento pacificado do STJ é de que são devidos honorários advocatícios pela Fazenda Pública em sede de exceção de pré-executividade, quando a extinção da execução fiscal, a pedido da própria exequente, se dá após a contratação de advogado pelo executado, como no caso dos autos. Precedentes.
+2. Quanto ao valor da verba honorária, fixado na decisão ora agravada, tem-se que foram observadas as particularidades do caso concreto para tanto, razão pela qual não há falar em ofensa aos princípios da proporcionalidade e da razoabilidade.
+3. Agravo regimental a que se nega provimento (AgRg no REsp 1.390.169/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2016, DJe de 22/11/2016).
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO PELA FAZENDA NACIONAL DA PROCEDÊNCIA DO PEDIDO. CONDENAÇÃO EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES
+1. Nos termos do art. 19, § 1º, da Lei 10.522/2002, são indevidos honorários advocatícios nos casos em há reconhecimento da procedência do pedido pela Fazenda Pública.
+2. A dispensa de honorários sucumbenciais só é pertinente se o pedido de desistência da cobrança é apresentado antes de oferecidos os embargos. Logo, é possível a condenação da Fazenda Nacional em honorários advocatícios, a despeito do teor do art. 19, § 1º, da Lei 10.522/02, quando a extinção da execução ocorrer após o oferecimento de embargos pelo devedor, como no caso dos autos. Precedentes.
+3. O mesmo raciocínio pode ser utilizado para possibilitar a condenação da Fazenda Pública exequente em honorários advocatícios quando a extinção da execução ocorrer após a contratação de advogado pelo executado, ainda que para oferecer exceção de pré-executividade (AgRg no AREsp 155.323/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/08/2012, DJe 21/08/2012.).
+Agravo interno improvido (AgInt no REsp 1.590.005/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/6/2016, DJe de 14/6/2016).
+ Por outro lado, é irrefutável que o Tribunal de origem, à fl. 72, ao analisar o conteúdo fático e probatório colacionado aos autos, consignou que "mediante o emprego do princípio da causalidade, responderá a parte vencida pelo pagamento das custas e da verba honorária, e esta foi fixada com moderação na quantia de R$1.000,00.".
+Nessa esteira, é evidente que a verba sucumbencial, fixada pelo Tribunal a quo, foi estabelecida de forma equitativa, em consonância com o disposto no art. 20, §4º, do CPC/1973 e com os critérios jurídicos previstos nas alíneas do §3º do mesmo dispositivo legal.
+Dessa forma, verifica-se que a irresignação da recorrente, acerca do montante dos honorários advocatícios, vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos.
+Nesse diapasão, para rever tal posição e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intime-se.
