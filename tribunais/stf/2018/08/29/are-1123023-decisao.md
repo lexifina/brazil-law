@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 96)):
+    “Apelação Cível - Inexigibilidade da cobrança - Cobrança de valores devidos pelos serviços operacionais da Companhia de Engenharia de Tráfego - Custos relativos à operação do sistema viário em evento promovido por Associação - Apresentação de reconvenção com o objetivo de obter a condenação da autora-reconvinda no pagamento do débito - Procedência do pedido principal e improcedência do pedido reconvencional - Recurso interposto pela ADUNICAMP - Provimento de rigor - Interferência no sistema viário - Lei nº 14.072/05, regulada pelo Decreto nº 46.942/06 - Alegação de inconstitucionalidade da Lei nº 14.072/05 - Inocorrência - Arguição de Inconstitucionalidade rejeitada pelo C. Órgão Especial desta Corte - Situação fática que, todavia, se enquadra dentre as hipóteses previstas no artigo 2º, §1º, do Decreto nº 46.942/06 - Isenção legal - Ônus de sucumbência invertidos - R. Sentença reformada - Provimento do recurso da ADUNICAMP, para julgar procedente a ação e improcedente a reconvenção.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 8).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II; e 30, I, V e VIII; da Constituição da República, bem como ao art. 95 do Código Tributário Brasileiro - CTB.
+    Nas razões recursais, sustenta-se, em parte, que “O Recorrido encontra-se obrigado por LEI ao recolhimento dos custos operacionais dos serviços prestados pela Recorrente CET em seus eventos, de modo que, somente a LEI que criou a cobrança pode criar as exceções ao pagamento – e elas existem em seu artigo 2º, porém, não contemplam o Recorrido –, ou seja, somente o Poder Legislativo pode criar exceções ao pagamento do preço e não o Poder Judiciário, sob pena de se incidir em afronta a separação de poderes – cláusula pétrea (art. 60, §4º, III, da CF).” (eDOC 3, p. 36/37).
+    O recurso extraordinário foi inadmitido sob o fundamento de ofensa de modo indireto e reflexo a preceito constitucional (eDOC 3, p. 48/49).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Quando do julgamento da apelação, a 6ª Câmara de Direito Público do Tribunal de origem decidiu, in verbis (eDOC 2, p. 102/103):
+    “E, seu Decreto regulamentador nº 46.942/06, no art. 1º, autoriza a CET “a cobrar pelos custos operacionais de serviços prestados, relativos à operação do sistema viário, decorrentes da realização de eventos, inclusive seus ensaios, realizados em via aberta à circulação ou em locais fechados cujos reflexos possam perturbar ou interromper a livre circulação de veículos e pedestres ou colocar em risco sua segurança”.
+    Ocorre que, neste caso, a autora está contemplada pela isenção prevista no Decreto nº 46.942/06, que prevê em seu artigo 2º, §1º:
+    Art. 2º. Para os fins deste decreto, consideram-se eventos, nos termos do artigo 6º da Lei nº 14.072, de 2005, toda e qualquer atividade que interfira nas condições de normalidade das vias do Município, perturbando ou interrompendo a livre circulação de pedestres ou veículos, ou colocando em risco a segurança de pessoas e bens.
+    § 1º. Excetuam-se do pagamento do preço correspondente aos custos operacionais e dos valores referentes aos equipamentos de sinalização utilizados os eventos exclusivamente de caráter:
+    I – religioso;
+    II – político-partidário;
+    III - social, quando promovido por entidade declarada de utilidade pública, conforme legislação em vigor;
+    IV - manifestações públicas, por meio de passeatas, desfiles ou concentrações populares que tragam uma expressão pública de opinião sobre determinado fato;
+    V - manifestações de caráter cívico de notório reconhecimento social.
+    § 2º. Não farão jus à gratuidade mencionada no § 1° deste artigo as atividades que envolvam comercialização de bens ou serviços, shows artísticos e exposição de marcas e/ou logotipos visando à divulgação comercial de produtos ou serviços.
+    Ora, é exatamente este o caso dos autos, em que houve uma manifestação pública, por meio de concentração popular, com o objetivo de demonstrar opinião sobre determinado fato, a saber, o Ato pela democratização das Universidades Estaduais Paulistas, realizado pelo Fórum das Seis, entidade que congrega os sindicatos das três universidades estaduais paulistas, do Centro Paula Souza e as representações estudantis da USP, Unicamp e Unesp.”
+    Nesse contexto, sendo esses os fundamentos utilizados para dirimir a controvérsia, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local (Decreto 46.942/06 e Lei Municipal 14.072/05), de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Incide ao caso, portanto, a Súmula 280 desta Corte.
+    Além disso, divergir do entendimento firmado pelo Tribunal a quo demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário, incidência ao caso da Súmula 279 desta Corte. Confiram-se, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. TAXA MUNICIPAL. SERVIÇO DE TERMINAL RODOVIÁRIO. 1. A referibilidade, em concreto, do serviço público prestado pela estatalidade ao contribuinte de modo a ensejar a cobrança de taxa é matéria de índole local. Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento.” (ARE-AgR 939.148, de minha relatoria, Primeira Turma, DJe 17.3.2016).
+    Quanto à alegada violação do art. 95 do CTB, verifica-se a discussão revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do CPC.
+    Com fulcro no art. 85, §11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
