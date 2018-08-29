@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 1ª VARA DE TABATINGA/AM em face do JUÍZO DE DIREITO DA 1ª VARA DE EXECUÇÃO PENAL DE TABATINGA/AM.
+Depreende-se dos autos que no bojo do processo n. 0000402-23.2017.4.01.3201, [NOME] foi condenado, pela prática do crime inserto no art. 33, caput, e § 4º, c/c o art. 40, I e IV, da Lei n. 11.343/2006, à pena de 4 anos, 9 meses e 18 dias de reclusão, em regime inicial semiaberto, e 500 dias-multa.
+O Juízo suscitado, ao ser provocado pela defesa para que colocasse o réu no regime semiaberto, o estabelecido na sentença, declinou de sua competência ressaltando que, "malgrado este juízo seja competente da Vara de Execução Penal, por condenações definitivas, não detém competência para determinar a expedição do alvará de soltura e alterar/revogar o regime de cumprimento de pena fixado pelo Juiz Federal. Isso porque, como dito, trata-se de preso provisório e, assim sendo, a competência para determinação de regime de cumprimento caberá, tão somente, ao juiz da Justiça Federal" (e-STJ fl. 66).
+O Juízo suscitante, por sua vez, ressaltou que embora fixado na sentença o regime semiaberto, foi negado ao réu o apelo em liberdade. Asseverou a necessidade de serem observadas as regras atinentes ao referido regime ao preso provisório, destacando que tal dever deve recair sobre a Justiça estadual.
+O Ministério Público Federal manifestou-se pela competência do Juízo suscitado em parecer assim ementado (e-STJ fl. 83):
+EXECUÇÃO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. PRESO PROVISÓRIO DA JUSTIÇA FEDERAL. SENTENÇA CONDENATÓRIA. FIXAÇÃO DO REGIME SEMIABERTO. IMPLEMENTAÇÃO QUE DEVE SER FEITA PELO JUÍZO DA EXECUÇÃO PENAL.
+1. O Juízo da execução penal não detém competência para determinar a expedição de alvará de soltura de preso provisório, tampouco para alterar a fixação do regime prisional de quem está em prisão cautelar.
+2. O Juízo da execução penal, ao executar a pena imposta pela Justiça Federal, tem competência para implementar o regime semiaberto ao preso provisório, se assim for determinado na sentença condenatória, assim como avaliar a possibilidade do gozo de eventuais benefícios da execução penal.
+3. Parecer pelo conhecimento do conflito, a fim de que seja declarada a competência do JUÍZO DE DIREITO DA 1A VARA DE EXECUÇÃO PENAL DE TABATINGA - AM, ora suscitado.
+É, em síntese, o relatório.
+Cuida-se de incidente instaurado entre juízes vinculados a Tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Assiste razão ao Juízo suscitante.
+Consoante bem destacado pelo eminente presentante do Parquet, "o posterior requerimento da defesa dirigido ao Juízo Federal (fls.55/63) consistiu apenas na implementação do que já havia sido decidido pelo JUÍZO FEDERAL DA 1A VARA DE TABATINGA - SJ/AM - que, na sentença condenatória, determinou que a prisão provisória deveria ser mantida, mas o réu deveria receber o tratamento dispensado aos presos em regime semiaberto, podendo gozar, desde então, dos benefícios da execução penal (fls. 26/27). Nessa direção também segue o art. 8º da Resolução CNJ nº 113/2010" (e-STJ fl. 84).
+Ou seja, no caso, basta que o Juízo suscitado dê cumprimento ao que foi determinado na sentença exarada pela Justiça Federal, adequando a prisão cautelar às regras do regime semiaberto. Ademais, deve observar a possibilidade de gozo de outros benefícios pelo condenado, ainda que provisoriamente, nos termos do disposto na Súmula n. 192 desta Corte: "compete ao juízo das execuções penais do estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos a administração estadual".
+Nesse sentido:
+CRIMINAL. RHC. EXECUÇÃO. INCIDENTES DA EXECUÇÃO. EXECUÇÃO PROVISÓRIA DE CONDENAÇÃO PROFERIDA POR JUÍZO FEDERAL. PRESO CUMPRINDO PENA EM PRESÍDIO ESTADUAL. COMPETÊNCIA DO JUÍZO DA VARA DE EXECUÇÃO COMUM ESTADUAL. RECURSO PROVIDO.
+I. Compete ao Juízo da Vara de Execuções Comum Estadual a deliberação sobre os incidentes da execução da pena, ainda que provisória, de presos condenados pela justiça federal e que se encontram cumprindo pena em presídio sujeito à administração estadual.
+II. Incidência do verbete da Súmula 192 desta Corte. Precedentes.
+III. Deve ser declarada a competência do Juízo das Execuções Penais de Porto Velho/RO para a solução dos incidentes da execução da pena do paciente, devendo ser analisada a possibilidade de concessão do livramento condicional.
+IV. Recurso provido, nos termos do voto do Relator.
+(RHC 12.595/RO, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 24/06/2003, DJ 29/09/2003, p. 275, grifei)
+Ante o exposto, conheço do conflito e dou por competente o Juízo suscitado.
+Publique-se. Intimem-se.
