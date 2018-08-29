@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ELETRICIDADE PARAENSE S/A de decisão que negou seguimento a recurso especial fundado no art. 105, III, a, da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÕES DE COBRANÇA E DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO - LOCAÇÃO DE EQUIPAMENTOS PARA ESCORAMENTO DE LAJES E VIGAS - CONTRATO QUE NÃO VINCULA A EMISSÃO DAS NOTAS FISCAIS À PRÉVIA CONFERÊNCIA DAS MEDIÇÕES - INADIMPLEMENTO CONFESSO DA LOCATÁRIA QUE AUTORIZA A RESCISÃO DO CONTRATO - NÃO DEVOLUÇÃO DOS EQUIPAMENTOS QUE IMPLICA EM DANO MATERIAL QUE DEVE SER INDENIZADO (APLICAÇÃO DO ART. 252 DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DE SÃO PAULO) - RECURSO DESPROVIDO." (fl. 409)
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 165, 333, I, e 458 do Código de Processo Civil de 1973 e 186 e 944 do Código Civil de 2002, alegando, em síntese: a) nulidade do acórdão recorrido em razão da ausência de relatório e de fundamentação satisfatória; b) indevida inversão do ônus da prova, pois cabe ao autor provar o fato constitutivo do seu direito e, no caso, "inexiste nos autos relação dos bens entregues em locação, bem como dos bens que não teriam sido entregues e dos bens que teriam sofrido qualquer avaria ou perda material" (fl. 427); e c) ausência de conduta ilícita por parte da recorrente e de prova do dano alegado.
+Foram apresentadas contrarrazões (fls. 442/458).
+É o relatório. Decido.
+2. O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A insurgência, contudo, não tem como prosperar, uma vez que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, e tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Mesmo que assim não fosse, importa observar que, no caso, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, assim como a interpretação de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
