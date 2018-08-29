@@ -1,0 +1,27 @@
+DECISÃO
+
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça daquela unidade federativa, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 138):
+EMBARGOS À EXECUÇÃO - FATOR DE ATUALIZAÇÃO MONETÁRIA - FAM - APURAÇÃO DO DÉBITO COM BASE EM NOVAS CERTIDÕES QUE NÃO OFENDE A COISA JULGADA - RECURSO DA FAZENDA DO ESTADO NÃO PROVIDO. ART. 1º-F DA LEI 9.494/97 NA REDAÇÃO DA LEI 11.960/09 - NORMA DE NATUREZA INSTRUMENTAL - APLICAÇÃO AOS PROCESSOS EM CURSO - RECURSO PROVIDO.
+No especial obstaculizado, a recorrente apontou violação dos arts. 267, V, 467, do CPC/1973 e do art. 5º, XXXVI, da CF/1988, sustentando que a decisão proferida na fase de conhecimento foi clara ao determinar que o cálculo, por ocasião da execução, deveria ser elaborado com base nos valores acostados à exordial, de modo que o acórdão recorrido, ao não determinar a utilização da certidão que embasou a inicial, viola a coisa julgada.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que não houve desrespeito à legislação invocada (e-STJ fls. 159).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, quanto à possível violação do dispositivo constantes na Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Somado a isso, em relação à suposta ofensa dos arts. 267, V e 467, CPC/1973, observa-se que, para ser realizada sua análise nos moldes trazidos pelo recorrente, seria necessário o revolvimento de matéria fático-probatória constante nos autos para examinar se, de fato, foram transpostos os limites objetivos da coisa julgada, principalmente no tocante às certidões que embasaram os cálculos utilizados como parâmetro para execução, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS A EXECUÇÃO. VIOLAÇÃO DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A revisão do julgado, de modo a acolher a pretensão recursal, no sentido de que houve violação aos limites objetivos e subjetivos da coisa julgada, demandaria, necessariamente, o revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.133.837/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/12/2017, DJe 12/12/2017).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. COISA JULGADA. CONFIGURAÇÃO. ENTENDIMENTO DO TRIBUNAL DE ORIGEM BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+ ..
+2. A jurisprudência desta Corte Superior se pacificou no sentido de que "A revisão do juízo realizado pelo Tribunal de origem acerca dos efeitos contemplados pela coisa julgada requer incursão na matéria fático-probatória por ele considerada, o que é vedado ao STJ nos termos de sua Súmula 7." (AgRg no REsp 1.394.851/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/10/2013).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.107.207/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe 21/11/2017).
+Da mesma forma, a Súmula 7 do STJ obstaculiza a análise do argumento formulado, considerando que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que a apuração do débito com base em novas certidões em nada contrariou a determinação contida no título executivo. Assim, para ser revista estas circunstâncias seria necessário o reexame de fatos e provas.
+Para melhor elucidação, transcrevo o excerto no qual a Corte a quo decidiu o tema (e-STJ fl. 139):
+Como a sentença exequenda, ao julgar procedente a ação, consignou expressamente que "sobre o valor originário incidirão os juros legais de seis por cento ao ano e a correção monetária, esta segundo a Tabela de Atualização de Cálculos Judiciais, ambos a partir do momento em que foram considerados devidos, excluídos os valores administrativamente pagos", a apuração do débito com base em novas certidões em nada contraria a coisa julgada, ausente qualquer evidência de que tenha ocorrido duplicidade da incidência de juros.
+Por fim, cumpre salientar que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
