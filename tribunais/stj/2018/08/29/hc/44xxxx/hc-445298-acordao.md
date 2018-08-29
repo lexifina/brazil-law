@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTOS ABSTRATOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Na hipótese dos autos, verifico não estarem presentes fundamentos idôneos que justifiquem a prisão processual do paciente, visto que não há justificativa concreta a indicar de forma individualizada como a sua liberdade poderia colocar em risco a instrução criminal, tampouco a ordem pública, ainda mais, porque, conforme pontuou a defesa,  ..  entre a soltura do paciente, em 27/6/2017, e a decretação de sua nova custódia, em 21/3/2018, transcorreram-se aproximadamente 9 meses e  ..  não foi noticiada a prática de qualquer novo delito por parte do paciente. Este que já era primário e de bons antecedentes, permanece sem qualquer anotação criminal em sua FAC (fl. 3).
+2. Ordem concedida para revogar a prisão preventiva do paciente, confirmando-se a liminar por seus próprios fundamentos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conceder a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro.
+Narram os autos que o Juízo de Direito da 37ª Vara Criminal da comarca da Capital/RJ concedeu ao paciente, acusado pela suposta prática de crime de roubo, liberdade provisória (fls. 21/23 - Processo n. 0053277-30.2017.8.19.0001).
+A acusação, então, interpôs recurso em sentido estrito perante o Tribunal de Justiça que, por sua vez, conheceu e deu provimento ao recurso para decretar a prisão preventiva do acusado, com a imediata expedição do mandado de prisão (fls. 42/48 - Recurso em Sentido Estrito n. 0181632-58.2017.8.19.0001).
+Daí a presente impetração, em que se alega constrangimento ilegal consistente na prisão preventiva do paciente, sustentando, para isso, a ausência de fundamentos idôneos a justificá-la.
+Aduz-se que  ..  entre a soltura do paciente, em 27/6/2017, e a decretação de sua nova custódia, em 21/3/2018, transcorreram-se aproximadamente 9 meses e que não foi noticiada a prática de qualquer novo delito por parte do paciente. Este que já era primário e de bons antecedentes, permanece sem qualquer anotação criminal em sua FAC (fl. 3).
+Postula-se, então, a concessão liminar da ordem  ..  para determinar a imediata soltura do paciente, com a eventual aplicação de medidas cautelares diversas da prisão, caso se entenda necessária, para ao final ser a mesma confirmada, em definitivo (fl. 8).
+Em 16/4/2018, deferi a liminar para revogar a prisão preventiva do paciente com a imposição de medidas cautelares.
+Dispensadas as informações, o Ministério Público Federal emitiu parecer pela denegação da ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Extraí do acórdão ora impugnado, os fundamentos apresentados a justificar a segregação cautelar do acusado (fls. 45/48):
+ ..  Com efeito, a decisão que concedeu ao réu, ora recorrido, a liberdade provisória teve como substrato a pena em perspectiva, admitindo que a pena corporal a que o acusado for condenado, não ensejará a fixação de regime fechado, aduzindo que "na espécie em exame não há como ser mantida a prisão preventiva do réu, já que se trata de cidadão primário, detentor de bons antecedentes, sendo certo que considerando tais fatores e a pena abstratamente cominada, temos que muito possivelmente, na hipótese de condenação, fará jus o indiciado a regime diverso do fechado, pelo que desproporcional a cautela prisional, faltando à custódia homogeneidade."
+Entretanto, a imposição da medida de constrição cautelar da liberdade se acha, em primeiro lugar, condicionada à constatação da gravidade factual do episódio delituoso, revelando o caso concreto que delito foi praticado com extrema violência e ousadia, muito embora a arma de fogo não fosse eficaz para efetuar disparos, o temor provocado nos passageiros somada a ostentação de uma faca pela comparsa do réu, mostra-se suficiente a ineficácia isolada de qualquer outra providência cautelar substitutiva capaz de autorizar a excepcional incidência dos arts. 310, inc. II, e 311 (com nova redação dada pela Lei nº 12.403/2011), sendo certo, ainda, que o acusado não comprovou vínculo com o distrito da culpa revelando-se, desta forma, a indispensabilidade da imposição da medida extrema na hipótese.
+Dentro desse cenário, a inconteste gravidade concreta dessas circunstâncias, por si só, merece a resposta constritiva do Estado, fulcrada na garantia da ordem pública prevista no artigo 312 do C.P.P.
+Aliás, no particular, outra não tem sido a posição do Supremo Tribunal Federal.
+ ..
+Destarte, afirmada a custódia prisional como necessária e oportuna, afigura-se concretamente a desconstituição da decisão impugnada, para decretar-se a prisão preventiva do ora acusado [NOME].
+ ..  (grifo nosso)
+In casu, verifico que, a despeito dos argumentos lançados pela Corte estadual, não há justificativa concreta a indicar de forma individualizada como a liberdade do paciente poderia colocar em risco a instrução criminal, tampouco a ordem pública, ainda mais, porque, conforme pontuou a defesa,  ..  entre a soltura do paciente, em 27/6/2017, e a decretação de sua nova custódia, em 21/3/2018, transcorreram-se aproximadamente 9 meses e  ..  não foi noticiada a prática de qualquer novo delito por parte do paciente. Este que já era primário e de bons antecedentes, permanece sem qualquer anotação criminal em sua FAC (fl. 3).
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA DO DELITO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS A JUSTIFICAR A MEDIDA EXTREMA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO.
+- Esta Corte Superior tem entendimento pacífico de que a custódia cautelar possui natureza excepcional, somente sendo possível sua imposição ou manutenção quando demonstrado, em decisão devidamente motivada, o preenchimento dos pressupostos previstos no art. 312 do Código de Processo Penal - CPP.
+ ..
+Ordem concedida para revogar a prisão preventiva do paciente.
+(HC n. 342.836/PE, Sexta Turma, Ministro Nefi Cordeiro, Rel. p/ acórdão Ministro Ericson Maranho (Desembargador convocado do TJ/SP), julgado em 10/3/2016, DJe 12/4/2016)
+Ante o exposto, concedo a ordem para revogar a prisão preventiva do paciente, confirmando-se a liminar por seus próprios fundamentos.
