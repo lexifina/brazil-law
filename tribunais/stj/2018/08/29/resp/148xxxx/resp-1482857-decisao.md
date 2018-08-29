@@ -1,0 +1,59 @@
+EMENTA
+AÇÃO DE BUSCA E APREENSÃO. PURGAÇÃO DA MORA. NÃO QUITAÇÃO INTEGRAL DO CONTRATO DE FINANCIAMENTO. LEVANTAMENTO DO GRAVAME DE ALIENAÇÃO FIDUCIÁRIA. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1 "O contrato de alienação fiduciária é um contrato típico, essencialmente vinculado à sua finalidade, concebido e desenhado com o nítido intuito de atender às necessidades de proteção ao crédito em face do risco de inadimplemento." (REsp 1513190/DF, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 07/04/2017)
+2. Possuindo o objetivo exclusivo de garantir o adimplemento da dívida, somente poderá ser imposto ao credor a retirado do gravame da alienação fiduciária se já tiver ocorrido a quitação integral do financiamento.
+3. Recurso especial provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por BANCO GMAC S/A, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO - INTERLOCUTÓRIO QUE DEFERE A LIMINAR E POSSIBILITA A PURGAÇÃO DA: MORA COM O ADIMPLEMENTO DAS PRESTAÇÕES VENCIDAS E A RESTITUIÇÃO DO BEM. INCONFORMISMO DO BANCO. DEVOLUÇÃO DO AUTOMÓVEL. BAIXA DO GRAVAME DE ALIENAÇÃO FIDUCIÁRIA DEVIDA NA HIPÓTESE DE PURGAÇÃO DA MORA. DEVER DA INSTITUIÇÃO FINANCEIRA.. APLICAÇÃO DO ART. 30, §20, DO DECRETO LEI N. 911/69 C/C ART. 90 DA RESOLUÇÃO N. 320/2009 DO CONTRAN. MANUTENÇÃO DA DECISÃO. RECURSO DESPROVIDO
+Nas razões do recurso especial, o recorrente alega violação ao art. 3º, §1º e §2º, do Decreto-Lei 911/69 sustentando, em síntese, que não poderia haver o cancelamento do gravame após a purgação da mora, uma vez que não foi quitado a integralidade do contrato. A alienação fiduciária do bem é a garantia do empréstimo concedido, não podendo ser baixada sem que haja a quitação integral do contrato e não, como aconteceu na hipótese, em que quitou-se apenas as parcelas que estavam em atraso.
+DECIDO.
+2.Assiste razão ao recorrente.
+Na espécie, a r. sentença, ao tratar do cancelamento do gravame, assentou:
+No prazo de até 5 (cinco). dias. após o cumprimento da referida liminar poderá o devedor efetuar o pagamento do valor devido, assim entendido como sendo o valor das prestações efetivamente inadimplidas, desconsideradas as vencidas antecipadamente, devidamente atualizadas, hipótese em que o bem lhe será devolvido livre de ônus, conforme prevê o art. 30, §20, do Decreto-Lei 911/69.
+Por sua vez, o aresto estadual asseverou:
+(..) Segundo, quando o juízo singular registra que o veículo deverá ser restituído livre de ônus entende-se sem o gravame de alienação fiduciária, por certo. Aliás, tema o foi rebatido pela financeira sem qualquer dificuldade nas razões do agravo, de forma que a decisão mostra-se clara e precisa.
+Purgada a mora, ressalte-se, o carro, se apreendido deverá voltar imediatamente às mãos do consumidor livre de quaisquer embaraço, pois, nesse caso, o direito do credor fiduciário fica satisfeito.
+Além disso, frise-se, conforme estabelece o art. 90 da Resolução in. 320/2009 do Conselho Nacional de Trânsito - Contran, compete às instituições financeiras o cancelamento de gravames sob. -veículos objeto de alienação fiduciária.
+Portanto, as instâncias ordinárias entenderam que o pagamento das parcelas até então vencidas seria suficiente para purgar a mora, não sendo necessário o pagamento integral do empréstimo.
+Entendeu, ainda, que o pagamento somente das parcelas em atraso daria causa à necessidade de liberação do gravame de alienação fiduciária.
+Verifico, todavia, que houve uma certa confusão pelas instâncias ordinárias, uma vez que o pagamento das parcelas atrasadas, tão somente, não quitaria todo o contrato de empréstimo, condição esta imprescindível para a liberação do gravame.
+Nesse sentido, observa-se que o Decreto-Lei 911/69, com a redação dada pela Lei 10.931/2004, estabelece em seu art. 2º que o ônus sobre o bem será liberado caso haja o pagamento da integralidade do empréstimo:
+Art. 3º O proprietário fiduciário ou credor poderá, desde que comprovada a mora, na forma estabelecida pelo § 2º do art. 2º, ou o inadimplemento, requerer contra o devedor ou terceiro a busca e apreensão do bem alienado fiduciariamente, a qual será concedida liminarmente, podendo ser apreciada em plantão judiciário.
+
+§ 1º Cinco dias após executada a liminar mencionada no caput, consolidar-se-ão a propriedade e a posse plena e exclusiva do bem no patrimônio do credor fiduciário, cabendo às repartições competentes, quando for o caso, expedir novo certificado de registro de propriedade em nome do credor, ou de terceiro por ele indicado, livre do ônus da propriedade fiduciária. (Redação dada pela Lei 10.931, de 2004)
+§ 2o No prazo do § 1º, o devedor fiduciante poderá pagar a integralidade da dívida pendente, segundo os valores apresentados pelo credor fiduciário na inicial, hipótese na qual o bem lhe será restituído livre do ônus. (Redação dada pela Lei 10.931, de 2004)
+Portanto, o texto atual do art. 3º, parágrafos 1º e 2º, do Decreto-Lei n. 911/1969 é de clareza solar no tocante à necessidade de quitação de todo o débito para a purgação da mora, inclusive as prestações vincendas.
+Todavia, no presente caso, as instâncias ordinárias entenderam de maneira diversa e salientaram que o pagamento somente das parcelas até então em atraso seria suficiente para purgar a mora e extinguir a ação de busca e apreensão.
+A ora recorrente não se irresignou quanto ao entendimento de que foi purgada a mora, embora contrário ao disposto no referido Decreto-Lei e à jursiprudência desta Corte fixada em recurso especial repetitivo (REsp 1.418.593/MS), recorrendo, tão somente, quanto ao posicionamento de que o pagamento somente das parcelas em atraso, e não da integralidade do débito, daria ensejo à liberação do gravame de alienação fiduciária.
+Com efeito, a alienação fiduciária em garantia representa negócio jurídico em que o adquirente de um bem transfere - sob condição resolutiva - ao credor que financia a dívida, o domínio do bem adquirido. A alienação fiduciária em garantia não institui ônus real de garantia, ela opera a própria transmissão resolúvel do direito de propriedade.
+Esse fundamento encontra amparo na previsão legal disposta no art. 66 da Lei n. 4.728/1965, que, a partir da edição do Decreto-Lei n. 911/1969, passou a prever, expressamente, a dispensa da tradição para fins de transferência da propriedade resolúvel em favor do credor fiduciário.
+Art. 66. A alienação fiduciária em garantia transfere ao credor o domínio resolúvel e a posse indireta da coisa móvel alienada, independentemente da tradição efetiva do bem, tornando-se o alienante ou devedor em possuidor direto e depositário com tôdas as responsabilidades e encargos que lhe incumbem de acordo com a lei civil e penal.
+Observa-se que a alienação fiduciária foi concebida com o nítido intuito de atender às necessidade de proteção ao crédito não tutelados satisfatoriamente pelas garantias reais existentes, em decorrência da necessidade de interveniência do Poder Judiciário na realização dessas garantias.
+Sobre esse instituto, merece ser trazido à colação trecho do voto proferido pelo em. Ministro Marco Aurélio Bellizze no julgamento do REsp n. 1.549.529/SP:
+Esse movimento de facilitar a realização de sua finalidade garantidora do crédito, reduzindo a excessiva intervenção judiciária nas relações privadas, culminou no ressurgimento nos ordenamentos jurídicos do civil law de figuras que em muito se aproximam da fidúcia do direito romano e, ao mesmo tempo, incorporam nuances do trust anglo-saxão, embora a propriedade fiduciária brasileira ainda não possa ser identificada com nenhum desses antepassados.
+Por meio da alienação fiduciária em garantia (espécie contratual), se constitui uma "nova modalidade de domínio utilizado para fins de garantia", como bem acentua a lição de Moreira Alves (ALVES, J.C.M. Da alienação fiduciária em garantia. São Paulo: Saraiva, 1973, p. 41). De fato, o elemento essencial da propriedade fiduciária é a indissociável vinculação do bem com a finalidade de sua constituição, característica explicitamente incluída na definição legal da alienação fiduciária de bem imóvel, prevista no art. 22 da Lei n. 9.514/97:
+(..)
+Noutros termos, ainda que não se trate de uma cisão do direito de propriedade (propriedade formal versus propriedade substancial), a exemplo do que ocorre no trust, a legislação brasileira tem caminhado no sentido notório de se criar um patrimônio de afetação destinado à realização de um escopo declarado no contrato de alienação fiduciária e cuja tutela é reconhecida pela legislação pátria.
+De clareza solar o entendimento de que a propriedade fiduciária é constituída com a finalidade exclusiva de garantir o adimplemento da dívida.
+Trata-se de um eficiente redutor de risco de inadimplemento para a instituição financeira, na medida em que viabiliza a rápida execução de sua garantia na hipótese de mora do devedor contratante.
+A esse respeito:
+RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. 1. CONTRATO DE COMPRA E VENDA DE VEÍCULO. TRADIÇÃO. MERO INADIMPLEMENTO CONTRATUAL. ANULAÇÃO DE NEGÓCIO JURÍDICO. INVIÁVEL. 2. FINANCIAMENTO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. OPOSIÇÃO. AQUISIÇÃO DE PROPRIEDADE. BEM OBJETO DA GARANTIA. CONCRETIZAÇÃO DO NEGÓCIO EM RELAÇÃO AO CONSUMIDOR CONTRATANTE. IMPRESCINDIBILIDADE. INEXISTÊNCIA DE CONTRATO VÁLIDO. 3. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(..)
+3. O contrato de alienação fiduciária é um contrato típico, essencialmente vinculado à sua finalidade, concebido e desenhado com o nítido intuito de atender às necessidades de proteção ao crédito em face do risco de inadimplemento.
+(..)
+6. Recurso especial parcialmente provido.
+(REsp 1513190/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/03/2017, DJe 07/04/2017)
+Nessa ordem de idéias, a propriedade somente passará a ser do ora recorrido após a quitação integral do empréstimo, momento em que poderá ser retirado o gravame constante sobre o bem.
+Por exigir a integral quitação do contrato é que essa Corte Superior passou a entender que a demora na liberação do gravame de alienação fiduciária de automóvel constituirá dano moral. Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO INDENIZATÓRIA. DEMORA NA BAIXA DE GRAVAME DE VEÍCULO JUNTO AO DETRAN. DANO MORAL CONFIGURADO. ACÓRDÃO EM SENTIDO CONTRÁRIO À JURISPRUDÊNCIA DESTA CORTE. REFORMA.
+NECESSIDADE. PRECEDENTES. SENTENÇA RESTABELECIDA. AGRAVO INTERNO NÃO PROVIDO, COM INCIDÊNCIA DE MULTA.
+(..)
+2. A jurisprudência desta Corte firmou o entendimento de que configura dano moral a demora do banco em providenciar, no DETRAN, a imediata liberação do gravame de alienação fiduciária de automóvel, a despeito da quitação integral do contrato (AgRg no AREsp 651.105/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 18/5/2015). Precedentes.
+(..)
+4. Agravo interno não provido, com aplicação de multa.
+(AgInt no REsp 1667077/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/08/2017, DJe 06/09/2017)
+No presente caso, como não houve recurso do recorrente contra o entendimento das instâncias ordinárias, no sentido da desnecessidade de o devedor pagar a integralidade do valor do contrato para purgar a mora, esse ponto não pode ser reformado nesta instância especial.
+Todavia, não retira a necessidade de pagamento integral do empréstimo para que o bem saia da espera patrimonial do credor fiduciário e passe para o devedor, condição necessária para a retirada do gravame junto aos órgãos de trânsito.
+3. Ante o exposto, dou provimento ao recurso especial para determinar que o gravame de alienação fiduciária somente poderá ser retirado após a quitação do contrato de financiamento.
+Publique-se. Intimem-se.
