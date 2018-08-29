@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. Para o cabimento dos embargos de divergência, é necessária a demonstração da similitude fática dos casos comparados (CPC/1973, art. 546, inc. I, reproduzido no CPC/2015, art. 1.043, I e Regimento Interno do Superior Tribunal de Justiça, art. 266, caput).
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Segunda Seção, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze, Moura Ribeiro, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Nancy Andrighi e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 483/485 e-STJ, que indeferiu liminarmente os embargos de divergência.
+A parte agravante sustenta que o acórdão indicado como paradigma "discute justamente a obrigatoriedade das operadoras e cooperativas de saúde em reembolsar as despesas médico-hospitalares em caso de atendimento em caráter de urgência e emergência" (fl. 494 e-STJ). Afirma que a situação relatada naquele julgado é idêntica à do caso em discussão, pois o autor buscou atendimento fora da rede credenciada em razão de incontroversa urgência, mas a Terceira Turma do STJ condenou a recorrida ao reembolso nos limites do contrato. Sustenta que não discute o critério para o cálculo do reembolso, mas pleiteia a restituição de todos os valores despendidos com seu tratamento médico, realizado em caráter de urgêndcia em hospital não credenciado.
+Impugnação às fls. 505/510 e-STJ.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão agravada julgou embargos de divergência opostos por [NOME] contra acórdão proferido pela Terceira Turma desta Corte, assim ementado (fl. 415 e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. ATENDIMENTO DE EMERGÊNCIA/URGÊNCIA. REDE NÃO CREDENCIADA. POSSIBILIDADE. DESPESAS. REEMBOLSO. POSSIBILIDADE. LIMITAÇÃO. CONTRATO. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte é assente no sentido de que, nos termos do art. 12, VI, da Lei nº 9.656/98, o reembolso de despesas realizadas pelo beneficiário do plano de saúde com internação em clínica não conveniada apenas é admitido em casos excepcionais - situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada.
+3. Para atingir conclusão diversa daquela a que chegou o Tribunal de origem quanto a não ocorrência de situação de urgência e emergência, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 do STJ.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Agravo interno não provido, com imposição de multa.
+O recorrente, ora agravante, sustentou divergência com acórdãos da Quarta Turma, sob o fundamento de que não cabe à operadora de plano de saúde buscar modificar o entendimento do Tribunal de origem sobre o reembolso de tratamento fora da rede credenciada, pois tal pretensão esbarra no óbice da Súmula n. 7/STJ.
+Os acórdãos indicados como paradigmas traduzem jurisprudência pacífica dessa Corte, no sentido de que é possível o reembolso das despesas médicas realizadas fora da rede credenciada, quando ocorrer atendimento urgente - e as conclusões atinentes à urgência do tratamento são insuscetíveis de revisão em sede especial, a teor do verbete sumular n. 7/STJ.
+O acórdão embargado seguiu esse entendimento, como se depreende do seguinte trecho de sua fundamentação:
+Dessa forma, para adotar conclusão diversa da que chegou o eg. Tribunal a quo, de que o procedimento foi realizado em razão da urgência do tratamento e da gravidade da doença do autor, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 desta Corte.
+A despeito de afirmar o contrário, o agravante se insurge, na verdade, quanto ao critério para o cálculo do reembolso. O acórdão embargado, mantendo a decisão monocrática do Relator, afirmou que os valores a serem devolvidos deveriam obedecer a tabela do plano de saúde. O embargante, ora agravante, entretanto, não indicou acórdãos paradigmas que enfrentassem essa matéria, especificamente.
+Não há, portanto, similitude de bases fáticas entre os acórdãos confrontados a ensejar o cabimento dos embargos de divergência. Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ARTIGO 266 DO RISTJ. REJULGAMENTO DO FEITO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O conhecimento dos embargos de divergência pressupõe a demonstração efetiva do dissídio entre o acórdão afrontado e o acórdão paradigma, no qual se deverá explicitar as circunstâncias que os identifiquem ou assemelhem, porém, com pronunciamentos contrários, o que não se observa no presente caso.
+2. Ausente a indispensável similitude fática entre o acórdão embargado e aquele indicado como paradigma, não se conhece dos embargos de divergência.
+3. "A finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como um recurso a mais nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido quando do julgamento do recurso especial". (AgRg nos EAREsp 6.184/DF, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 14/05/2013).
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EREsp 1099627/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 06/08/2014, DJe 15/08/2014).
+À luz do exposto, nego provimento ao agravo interno.
+É como voto.
