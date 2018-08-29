@@ -1,0 +1,52 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por MARCUS VINICIUS CAMILO LINHARES contra decisão negou seguimento ao Recurso Especial, fundamentada na i) verificação de ausência de violação ao art. 535 do CPC/73; ii) aplicação da Súmula n. 83/STJ, quanto ao entendimento relativo ao instituto da prescrição intercorrente em ação de improbidade administrativa; e iii) ausência de cotejo analítico, no que diz respeito ao alegado dissenso pretoriano.
+Sustenta, em síntese, que a decisão embargada padece de omissão (art. 1.022, II, do CPC), porquanto não analisou a possibilidade de ocorrência da prescrição, seja pela aplicação do art. 23 da Lei n. 8.429/92, seja pelo art. 80, III e IV, da Lei Complementar Estadual n. 207/1979 ou, ainda, pelo art. 219, § 5º, do CPC/73.
+Impugnação às fls. 4071/4077.
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 para os presentes Embargos de Declaração, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+Sustenta o Embargante que há omissão a ser suprida, nos termos do art. 1.022, II, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016)
+No caso, o Embargante aponta omissão relativa às alegações que fundamentam a existência de prescrição intercorrente no caso dos autos, contudo a decisão embargada se pronunciou quanto à tese apontada nos seguintes termos (fls. 4037/4040e)
+O Recorrente sustenta a existência de omissão no acórdão recorrido não suprida no julgamento dos embargos de declaração, porquanto ausente a manifestação acerca da ocorrência da prescrição intercorrente.
+(..)
+Observe-se que a tese defendida pelo Recorrente não encontra respaldo na jurisprudência desta Corte, segundo a qual não se aplica o instituto da prescrição intercorrente à ação de improbidade administrativa, devido à ausência de previsão legal nesse sentido.
+Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO INTERCORRENTE. NÃO APLICAÇÃO. PRECEDENTES. ATO DE IMPROBIDADE QUE VIOLA OS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. DESNECESSIDADE DE DEMONSTRAÇÃO DE PREJUÍZO AO ERÁRIO.
+1. O STJ, interpretando o art. 23 da LIA, que regula o prazo prescricional para a propositura da ação de improbidade administrativa, já consolidou entendimento no sentido de que não se mostra possível decretar a ocorrência de prescrição intercorrente nas ações de improbidade administrativa, porquanto referido dispositivo legal somente se refere a prescrição quinquenal para ajuizamento da ação, contados do término do exercício do mandato, cargo em comissão ou função de confiança. Precedente: REsp 1.218.050/RO, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 20/9/2013.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 962.059/PI, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 25/04/2017, DJe 29/05/2017).
+ADMINISTRATIVO. IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL. IMPOSSIBILIDADE DE REGULARIZAÇÃO POSTERIOR. SÚMULA 115/STJ. IMPROBIDADE ADMINISTRATIVA. EXPEDIÇÃO DE CARTEIRAS NACIONAIS DE HABILITAÇÃO SEM OBSERVÂNCIA DOS PROCEDIMENTOS LEGAIS. INEXISTÊNCIA DE PRESCRIÇÃO INTERCORRENTE. NÃO CONFIGURADA VIOLAÇÃO AOS ARTS. 11 E 12 DA LEI 8.429/92. PROPORCIONALIDADE DA PENA. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS ACÓRDÃOS.
+(..)
+4. Da leitura do art. 23 da Lei 8.429/92 não se pode constatar a possibilidade de ocorrência de prescrição intercorrente nas Ações de Improbidade Administrativa, uma vez que o aludido comando legal somente se refere a prescrição quinquenal para ajuizamento da ação, contados do término do exercício do mandato, cargo em comissão ou função de confiança.
+5. Ainda que se admitisse a tese de prescrição intercorrente, o transcurso de prazo superior a 5 anos, entre a data de propositura da ação e a data da sentença, não é suficiente para caracteriza-la, sendo necessária a demonstração de inércia da parte autora.
+(..)
+10. Recurso Especial a que se nega provimento.
+(REsp 1218050/RO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/09/2013, DJe 20/09/2013).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. DESVIO DE DINHEIRO. ART. 23, I E II, DA LEI 8.429/1992. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. ELEMENTO SUBJETIVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PARTICIPAÇÃO NO ATO ÍMPROBO. ALTERAÇÃO DAS PREMISSAS FÁTICAS. SÚMULA 7/STJ. COMINAÇÃO DAS SANÇÕES. CUMULAÇÃO. POSSIBILIDADE. DOSIMETRIA. ART. 12 DA LIA. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. DISSÍDIO JURISPRUDENCIAL. INOBSERVÂNCIA DAS EXIGÊNCIAS LEGAIS E REGIMENTAIS.
+1. O art. 23 da Lei 8.429/1992, que regula o prazo prescricional para propositura da ação de improbidade administrativa, não possui comando a permitir a aplicação da prescrição intercorrente nos casos de sentença proferidas há mais de 5 (cinco) anos do ajuizamento ou do ato citatório na demanda. Precedente.
+2. É inadmissível o recurso especial quanto a questão não decidida pelo Tribunal de origem, por falta de prequestionamento (Súmula 282/STJ).
+(..)
+7. Recurso especial parcialmente conhecido e não provido.
+(REsp 1289993/RO, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 19/09/2013, DJe 26/09/2013).
+(Destaque meu).
+Com efeito, depreende-se da leitura da decisão que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou sua revisão mediante embargos de declaração.
+Ademais, constatada apenas a discordância do Embargante com o deslinde da controvérsia, não restou demonstrada efetiva omissão a ensejar a integração do julgado, porquanto a fundamentação adotada no venerando acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição dos presentes embargos.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Ante o exposto, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
