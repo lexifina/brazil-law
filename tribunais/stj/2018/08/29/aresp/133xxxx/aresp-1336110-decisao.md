@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"Apelação cível. Ação de imissão de posse. Contrato de cessão de direitos sobre imóvel. Questões preliminares de deserção e inovação recursal. Prova.
+Improcedem as questões preliminares de deserção e de inovação do recurso porque o apelante é beneficiário da assistência judiciária gratuita até que haja trânsito em julgado da decisão que revogou o benefício, assim como porque a defesa é consistente na contestação e na apelação, inexistindo inovação recursal.
+A ação de imissão de posse fundamenta-se em direito real, e o direito real, para existir, depende de registro no Registro de Imóveis, mas a denominada cessão de direitos sobre imóvel entre as partes e por instrumento particular é desprovida de registro no Registro de Imóveis.
+A relação entre as partes é de natureza obrigacional, obriga as partes quanto ao objeto que é um bem imóvel, entretanto, sem caracterizar direito real, que vincula o imóvel pelo registro no Registro de Imóveis. Apelação cível a que se dá provimento." (e-STJ, fl. 383)
+Opostos embargos de declaração, foram rejeitados (fls 414/423).
+Nas razões do recurso especial, o recorrente aponta existência de divergência jurisprudencial. Pugna pelo reconhecimento do cabimento da ação de imissão de posse no caso, tendo em vista que para sua propositura "não se exige o título de propriedade para a interposição da ação de imissão de posse, bastando a apresentação de documento escrito que seja apto para tanto, como é o caso dos autos" (fl. 434)
+Contrarrazões às fls. 495/498.
+É o relatório. Passo a decidir.
+Impossível conhecer do especial interposto com fundamento na alínea "c" do artigo 105, III, da Constituição Federal, porquanto, mesmo nesses casos, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, sob pena de atração do Enunciado Sumular n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente). Nesse sentido, ganham relevância os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - DELIBERAÇÃO MONOCRÁTICA QUE RECONSIDEROU DECISÃO ANTERIORMENTE PROFERIDA, PARA CONHECER DO RECLAMO A FIM DE NEGAR SEGUIMENTO AO RECURSO ESPECIAL, ANTE A INCIDÊNCIA DA SÚMULA 284/STF. INSURGÊNCIA DOS DEMANDADOS.
+1. Nos termos do art. 52, I e IV, "a" do RISTJ, não há nulidade no exercício do juízo de retratação pelo novo relator, quando do julgamento de agravo regimental. Precedentes.
+2. A ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+3. Agravo regimental desprovido (AgRg no AgRg no Ag 1155444/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
