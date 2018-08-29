@@ -1,0 +1,14 @@
+DECISÃO
+SUSPENSÃO DE SEGURANÇA. GOVERNO DO ESTADO DO RIO DE JANEIRO. PROJETO DE LEI. INSTITUIÇÃO DE ALÍQUOTA ADICIONAL EXTRAORDINÁRIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDORES ESTADUAIS ATIVOS, INATIVOS E PENSIONISTAS. MANDADO DE SEGURANÇA. SUSPENSÃO NA TRAMITAÇÃO LEGISLATIVA. RISCO À ORDEM PÚBLICA E LESÃO À ORDEM ECONÔMICA CONFIGURADOS. MEDIDA LIMINAR DEFERIDA. DEVOLUÇÃO DO PROJETO DE LEI AO GOVERNADOR. MANDADO DE SEGURANÇA EXTINTO SEM RESOLUÇÃO DE MÉRITO. TRÂNSITO EM JULGADO. SUSPENSÃO DE SEGURANÇA PREJUDICADA.
+Relatório
+    1. Suspensão de segurança apresentada pelo Estado do Rio de Janeiro, com fundamento no art. 15 da Lei n. 12.016/2009, no art. 1º da Lei n. 9.494/1997 e no art. 4º da Lei n. 8.437/1992, contra medida liminar deferida pelo Relator do Mandado de Segurança n. 0058516-52.2016.8.19.0000, em trâmite no Tribunal de Justiça fluminense.
+    2. Em 10.11.2016, por considerar plausível o risco de lesão aos valores tutelados na legislação da contracautela, deferi a medida liminar requerida para suspender os efeitos da decisão pela qual se impedia a tramitação do Projeto de Lei n. 2.241/2016 na Assembleia Legislativa do Rio de Janeiro, no qual prevista a instituição de alíquota adicional extraordinária da contribuição previdenciária, em favor de Rioprevidência, pelo prazo de quatro quadrimestres, como instrumento para garantir a cobertura financeira dos benefícios previdenciários e o equilíbrio do fundo do regime próprio dos servidores estaduais.
+    Em 22.11.2016, não conheci do requerimento de extensão realizado pelo Rio de Janeiro, nos termos do § 8º do art. 4º da Lei n. 8.437/1992 para suspender os efeitos da decisão pela qual se impediu a tramitação do Projeto de Lei n. 2.422/2016 (Mandado de Segurança n. 0059391-22.2016.8.19.0000), na qual proposta a extinção do regime de adicional por tempo de serviço de todo o funcionalismo estadual, determinando sua autuação como nova suspensão de segurança (n. 5.175).
+    3. A Procuradoria-Geral da República opinou pelo deferimento do pedido de suspensão (e-doc. 27).
+    4. Consta do sítio do Tribunal de Justiça fluminense (www.tjrj.jus.br), que o Mandado de Segurança n. 0058516-52.2016.8.19.0000 foi julgado extinto, sem resolução do mérito, na forma do inc. VI do art. 485 do Código de Processo Civil, devido à devolução, pelo Presidente da Assembleia Legislativa, do Projeto de Lei n. 2.241/2016 ao governador do estado (Mensagem n. 38/2016).
+    Consta, ainda, daquele endereço eletrônico ter essa decisão transitado em julgado, tendo sido arquivada a impetração em 26.6.2017, não tendo o estado requerente diligenciado nestes autos para informar esse fato.
+    5. Pelo exposto, por perda superveniente do objeto, julgo prejudicada a presente suspensão de segurança (inc. XI do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
