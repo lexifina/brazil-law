@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por LOGOS IMOBILIÁRIA E CONSTRUTORA LTDA. contra acórdão proferido pelo TJTO assim ementado (e-STJ fls. 243/243):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO DANOS MORAIS - PROTESTO INDEVIDO - ÔNUS DA PROVA - ART. 333, INCISO I CPC - APELANTE NÃO DEMONSTROU O FATO CONSTITUTIVO DO SEU DIREITO - LITIGÂNCIA DE MÁ-FÉ - APLICAÇÃO DO ARTIGO 17 DO CPC - AUSÊNCIA DOS DANOS MORAIS - VALOR DA CAUSA DEVE SER ATRIBUÍDO EM CONFORMIDADE COM O PROVEITO ECONÔMICO PLEITEADO NA DEMANDA - SENTENÇA MANTIDA.
+Em se tratando de fato negativo, como o que ora se discute, não existindo relação jurídica, inverte-se o ônus da prova, cabendo àquele que alega a existência da relação jurídica demonstrar a sua ocorrência efetiva.
+Extrai-se dos autos que a parte requerida, ora recorrente, somente juntou ao processo certidões que confirmam que há protestos de duplicatas sacadas contra ela. No entanto, não há provas de que os protestos são ilegais. Porém, incumbe à autora demonstrar o fato constitutivo do seu direito, conforme prevê o inciso I do artigo 333 do Código de Processo Civil.
+In casu, da análise do conjunto probatórios dos autos, infere-se que razão não assiste à apelante quanto ao pedido de declaração de inexistência de débito, posto que não demonstrou o fato constitutivo do seu direito.
+Não assiste razão a apelante, quanto ao benefício da inversão do ônus da prova previsto no Código do Consumidor, que não se pode ser tido como regra absoluta, de forma automática e não depende apenas da invocação da condição de consumidor, pois esse conceito não é sinônimo necessário de hipossuficiência, tampouco de verossimilhança.
+Aflora, portanto, de modo palmar e insofismável que a parte autora não colacionou ao feito qualquer prova que demonstrasse a ilegalidade dos protestos.
+In casu, da análise do conjunto probatórios dos autos, infere-se que razão não assiste à apelante quanto ao pedido de declaração de inexistência de débito, posto que não demonstrou o fato constitutivo do seu direito.
+O valor da causa, deve expressar o proveito econômico pretendido, inclusive nas causas em que também se pleiteia indenização por danos morais, quando esta é mensurada pelo autor, na medida em que o valor da causa deve corresponder à soma de todos os valores pretendidos, nos termos do art. 259, II, do Código de Processo Civil.
+Comprovado que a parte tem alterado a verdade dos fatos, agindo de modo temerário na condução do feito, necessária sua condenação por litigância de má-fé, nos moldes do artigo 17, c/c o artigo 18 do Código de Processo Civil.
+Assim, como no presente caso, restou configurado que a autora não se desincumbiu de demonstrar o fato constitutivo do seu direito, a ausência dos danos sofridos pela apelante (material e moral) é medida que se impõe.
+Desta feita, a sentença recorrida não merece reparos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 261/268).
+Nas razões do recurso especial (e-STJ fls. 277/291), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega ofensa ao art. 261, parágrafo único, do CPC/1973 porque alterado o valor da causa, de ofício, no momento da prolação da sentença, sendo certo que essa atitude somente seria possível na fase inicial do processo. Menciona jurisprudência.
+Considerou necessária a aplicação do CDC ao caso presente por se tratar de relação de fornecimento de serviço, prevista no seu art. 3º, devendo-se equilibrar a relação, conforme determina o art. 4º. Havendo desequilíbrio, aplicável a inversão do ônus da prova de acordo com os arts. 6º, VIII, do CDC e 333, II, do CPC/1973. Indica dissídio.
+Defendeu não haver prova nos autos de prestação de serviços, comprovação de entrega de mercadoria, ou mesmo aceite na duplicata, conforme determina o art. 15, II, da Lei n. 5.474/1968. Trouxe precedentes.
+Juízo de admissibilidade positivo (e-STJ fls. 298/302).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito do momento em que seria possível a alteração do valor da causa, de ofício, pelo juiz, não houve prequestionamento. A ausência de debate prévio da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso, diante da incidência da Súmula n. 211 do STJ.
+A inversão do ônus da prova não incidiu ao caso porque (e-STJ fls. 238/239):
+Portanto, não assiste razão a apelante, quanto ao benefício da inversão do ônus da prova previsto no Código do Consumidor, que não se pode ser tido como regra absoluta, de forma automática e não depende apenas da invocação da condição de consumidor, pois esse conceito não é sinônimo necessário de hipossuficiência, tampouco de verossimilhança.
+Aflora, portanto, de modo palmar e insofismável que a parte autora não colacionou ao feito qualquer prova que demonstrasse a ilegalidade dos protestos.
+Assim, como a presunção de veracidade é relativa e não absoluta, devem ser analisadas todas as circunstâncias, as conseqüências jurídicas dos fatos e as provas coligidas aos autos.
+In casu, da análise do conjunto probatórios dos autos, infere-se que razão não assiste à apelante quanto ao pedido de declaração de inexistência de débito, posto que não demonstrou o fato constitutivo do seu direito.
+(..)
+Neste contexto, entendo ser cabível a aplicação da multa de litigância de má-fé, pois os referidos requisitos foram preenchidos, isso porque a apelante provocou a máquina judiciária alterando a realidade dos fatos, para pleitear declaração de inexistência de obrigação, já que, é fato comprovado nos autos que o houve a relação jurídica entre as partes.
+Assim, não foi afastada a aplicação do CDC à hipótese, mas considerou-se existente a relação jurídica entre as partes, tendo a recorrida comprovado serem inverídicas as alegações da autora, culminando, inclusive, com a aplicação de multa por litigância de má-fé para essa última, razão pela qual descaberia a inversão do ônus da prova no caso presente.
+Em relação à validade das duplicatas, destacaram os julgadores (e-STJ fls. 236/237):
+O Magistrado de primeiro grau, na oportunidade da sentença, ora guerreada, deixou assente, verbis:
+"Da analise do conjunto probatório tem-se que efetivamente o negócio subjacente aos débitos apontados para protesto ocorreu como sustenta a requerida.
+Observe-se o documento auxiliar de nota fiscal eletrônica encartado no Anexo 05 do Evento 11. A Nota Fiscal nº 000.003.045. Ali estão discriminados os equipamentos destinados ao condomínio tendo como adquirente a requerente. O valor de face do documento corresponde ao da duplicata encartada no mesmo Anexo a qual faz menção ao número da nota fiscal (fls. 2).
+Do mesmo modo a Nota Fiscal 194, encartada no Anexo 06 do Evento 11, estampa o valor da duplicata de fls. 2, de valor correspondente e com número a ela relacionado.
+Por último contemple-se a Nota Fiscal de serviços prestados encartada no Anexo 07, no valor de R$ 18.860,00 e sua correspondência com a duplicata apresentada para protesto fls. 02."
+Continuou o magistrado, ao justificar a fundamentação da decisão, verbis:
+"Registre-se que a requerente não infirmou estes documentos. Não se insurgiu contra eles pelo mecanismo legal (artigo 390 e 391 do Código de Processo Civil). Nem se argumente que o questionamento inicial acerca da não ocorrência do negócio seja suficiente. É pertinente lembrar que quando da propositura da ação a requerente alegou não ter pactuado com a requerida e ao surgir documentos que apontam para a existência do negócio inicialmente negado, o comportamento deveria ser no sentido de sustentar a falsidade destes. Nada neste sentido foi feito.
+Daí porque se afiguram hígidos e aptos a comprovar a existência da obrigação quando analisados no contexto probatório".
+Sopesando todas as argumentações e provas carreadas aos autos, verifico que andou bem o magistrado singular na apreciação da prova que foi coligida aos autos, porquanto constato que pelas Notas Fiscais (evento11 ANEXO5, ANEXO7 e ANEXO7), a apelante adquiriu os equipamentos destinados ao condomínio, bem como os serviços prestados pela apelada.
+Portanto, pela análise dos documentos juntados aos autos e das provas produzidas, decidiu de forma escorreita o magistrado.
+Tendo a Turma julgadora assim decidido com base nos elementos de prova existentes nos autos, concluir de forma diversa demandaria o reexame de provas, vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional - nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ -, exige demonstração, com a transcrição dos julgados que configurem o dissídio, não sendo suficiente a simples reprodução de ementas, sem o necessário cotejo analítico, a fim de evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Nesse sentido, confiram-se recentes julgados desta Corte:
+ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. INTERPRETAÇÃO DO DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280/STF.
+1. O conhecimento de recurso especial fundado na alínea "c" do art.
+105, III, da CF/1988 requisita, além da indicação dos dispositivos legais violados, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ), tal como ocorrido, impede o conhecimento do recurso especial (cf. REsp 1412951/PE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 25/11/2013; AgRg no AREsp 417.461/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 05/12/2013).
+(..)
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 653.064/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/4/2015, DJe 14/4/2015.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. 1. REQUISITOS PARA A CONCESSÃO DA TUTELA. REVISÃO DO VALOR FIXADO EM CASO DE DESCUMPRIMENTO DA ORDEM JUDICIAL. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO. 3. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. A simples transcrição de ementas, trechos ou inteiro teor dos precedentes colacionados, sem o necessário cotejo analítico entre os casos confrontados, não viabiliza o conhecimento do recurso especial pelo dissídio, ante a inobservância dos requisitos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Ademais, ausente a similitude fática entre os casos confrontados.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 628.932/GO, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2015, DJe 24/3/2015.)
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
