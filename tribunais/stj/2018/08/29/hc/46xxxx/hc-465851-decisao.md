@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCIA PASSOS BARBOZA DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+O impetrante busca a revogação da prisão preventiva ou a sua substituição pela prisão domiciliar, ao argumento, em síntese, de que existe fato novo, pois, posteriormente ao ingresso do writ nesta Corte, foi juntado aos autos do processo de execução provisória n. 1613766 laudo de estudo social, o qual concluiu pela prisão domiciliar da paciente.
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que o presente writ é mera reiteração do habeas corpus n. 451.985/RS, distribuído em 28/5/2018, que se encontra em estágio processual mais avançado, pois já houve a análise do pedido liminar.
+Ademais, em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa. Compulsando o presente feito, constato que a peça inicial veio desacompanhada de cópia do acórdão ou de decisão de indeferimento da liminar na impetração originária que tenha analisado a alegação da superveniência de fato novo, documentos indispensáveis para o deslinde da controvérsia, bem como para verificação de eventual supressão de instância.
+É pacífico o entendimento desta Corte Superior que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 289076/SP - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
