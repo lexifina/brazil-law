@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2152558-93.2018.8.26.0000).
+Consta dos autos que o paciente foi condenado, como incurso nas sanções do art. 33, caput, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006, à pena de 7 anos de reclusão, em regime fechado, mais pagamento de 700 dias-multa, por ter sido surpreendido na posse de "04 (quatro) tabletes da droga denominada Cannabis Saliva L, popularmente conhecida como maconha, bem como 10 (dez) tijolos da mesma droga, pesando, ao todo, cerca de 11,18kg (peso bruto)", sendo negado o direito de recorrer em liberdade (e-STJ fl. 20).
+Irresignada, a defesa impetrou prévio writ, sustentando que o paciente estaria sofrendo constrangimento ilegal em razão da manutenção da custódia cautelar por ocasião da prolação da sentença condenatória, bem como pela fixação do regime fechado para o início de cumprimento da pena.
+A ordem, no entanto, foi denegada, em acórdão cuja ementa foi assim definida (e-STJ fl. 28):
+Habeas Corpus. Sentença condenatória. Tráfico de entorpecentes. Impetração pleiteando o direito de recorrer em liberdade e a fixação do regime semiaberto. Constrangimento ilegal não configurado. Presença dos pressupostos da prisão processual, previstos no art. 312, do CPP. Imprescindibilidade da custódia cautelar para a garantia da ordem pública. Nada há de teratológico. Análise profunda de mérito não é objeto de apreciação pela via estreita do "remédio heroico Ordem denegada.
+No presente writ, os impetrantes repisam as razões lançadas no habeas corpus originário, sustentando, em linhas gerais, a existência de flagrante ilegalidade consubstanciada na fixação do regime mais gravoso, em alegada ofensa ao disposto nas Súmulas n. 718 e 719/STF, bem assim na manutenção da prisão preventiva na sentença, sem fundamentação idônea (e-STJ fls. 4/18).
+Requerem, inclusive liminarmente, a fixação de regime semiaberto, bem como a determinação imediata para cumprimento de pena neste regime, diante da pena aplicada e do período de prisão cautelar já cumprido pelo paciente.
+Pugna, subsidiariamente, pela revogação da prisão preventiva, ainda que com medidas cautelares diversas, a fim de permitir ao paciente que responda ao processo em liberdade (e-STJ fls. 18/19).
+É o relatório.
+Inicialmente, quanto à negativa do direito do paciente de recorrer em liberdade, transcrevo o que ficou consignado pelo Magistrado de piso (e-STJ fl. 25):
+RATIFICO a decisão de fl. 393 por seus próprios fundamentos, ocasião em que nego ao réu o apelo em liberdade, pois se trata de crime assemelhado aos hediondos e restam presentes os fundamentos da prisão preventiva, principalmente nesse momento, fundamentada pela condenação, como a garantia da ordem pública, evitando-se a reiteração da conduta, a qual, sem dúvida alguma, coloca em risco a ordem pública.
+Recomenda-se o réu no estabelecimento em que se encontra recolhido. Expeca-se, oportunamente, guia de recolhimento.
+Da análise do excerto acima transcrito, verifica-se que o Magistrado de primeira instância, quando da sentença condenatória, asseverou expressamente a manutenção dos motivos que ensejaram a anterior decretação da custódia preventiva do ora paciente.
+No entanto, os impetrantes não trouxeram aos autos a referida decisão que decretou a custódia cautelar, peça imprescindível à exata compreensão da controvérsia.
+Deve-se asseverar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, competindo à defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência do alegado constrangimento ilegal imposto, providência da qual não se desincumbiram os impetrantes.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Relª. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, Rel. Min. ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/3/2015, grifei.)
+Ademais, no que tange ao regime fixado, tem-se que o Tribunal a quo olvidou-se de apreciar a questão, haja vista "que a via do remédio heroico não se mostra adequada para discussão deste aspecto, o qual exige a análise da matéria de mérito, inexistindo qualquer ilegalidade que justifique eventual apreciação por meio deste remédio heroico" (e-STJ fl. 31).
+Destacou o Tribunal local, ainda, que o regime fixado deverá ser apreciado na via recursal própria, uma vez já interposto o recurso de apelação pela defesa (e-STJ fl. 33), de maneira que o exame da matéria diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, implicaria indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.
+(RHC 68.025/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/05/2016, DJe 25/05/2016.)
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
