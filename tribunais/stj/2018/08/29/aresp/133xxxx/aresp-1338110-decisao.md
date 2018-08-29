@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial (e-STJ fls. 411/412).
+O acórdão recorrido está assim ementado (e-STJ fl. 322):
+EMENTA: APELAÇÃO CÍVEL - PLANO DE SAÚDE - Preliminar de cerceamento de defesa afastada - Negativa de cobertura de tratamento home care sob o fundamento de haver expressa previsão contratual quanto à sua exclusão, além do caso sub judice mostrar-se suficiente a prestação de serviços por cuidadores, que constitui em obrigação da família - É vedado à seguradora influir na escolha da melhor forma de tratamento ao paciente, cabendo apenas ao médico essa escolha - É indevida a negativa a serviços de home care quando houver expressa indicação médica - Inteligência da Súmula nº 90 deste E T2JSP-Danos morais configurados - Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 381/387).
+No especial (e-STJ fls. 390/399), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou violação dos arts. 10 e 12 da Lei n. 9.656/1998 e 186, 187, 188, 927 e 944 do CC/2002, afirmando, em síntese, que a negativa de cobertura de tratamento home care teria ocorrido por expressa previsão em cláusula contratual, de forma que não haveria falar em dano moral sofrido pela recorrida.
+Alternativamente, pugnou pela redução o valor indenizatório fixado na origem.
+No agravo (e-STJ fls. 415/429), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 431).
+É o relatório.
+Decido.
+Assim consta do acórdão recorrido (e-STJ fls. 432/433):
+11. Corroboro com o entendimento de que a melhor interpretação dos contratos de seguro de saúde, à luz da Lei 9.686/98, do CDC e da Constituição, é a de que a seguradora não pode limitar a escolha de tratamento feita para cada paciente.
+12. Assim, o tratamento denominado home care não pode ser excluído da cobertura por meio do contrato, sob pena de abusividade da cláusula. Isto porque não é mera escolha do paciente, mas sim do médico. Ademais, referido tratamento beneficia não apenas o paciente, na medida em que pode ser tratado num ambiente mais acolhedor, perto de seus entes queridos e com menores riscos de contrair uma infecção decorrente de bactérias hospitalares; mas beneficia também a seguradora, na medida em que lhe desobriga de custear uma internação em hospital, que sem dúvida é mais custosa do que o atendimento domiciliar.
+13. Tal qual não cabe à seguradora interferir na escolha do melhor medicamento ou procedimento a ser adotado no tratamento, não cabe a ela determinar a melhor indicação quanto ao local de tratamento do paciente, sendo certo, apenas, que ele não poderá optar por internação em hospital fora da rede credenciada.
+(..)
+15. Voltando ao caso concreto, noto que o tratamento realmente foi indicado por médico, cuja necessidade foi confirmada pelos relatórios da empresa de home care, bem como prontuários de internação da segurada juntados aos autos, não cabendo à seguradora contestar essa escolha ou mesmo alegar falta de cobertura contratual.
+(..)
+17. No que tange aos danos morais, em princípio, a mera discussão sobre a cobertura ou não do contrato não é suficiente para caracterizar a obrigação de indenizar o segurado. Esse dever pode surgir em momentos que se configure o abuso de direito, caracterizando o pressuposto de ilicitude ensejador da reparação civil aquiliana, a exemplo de casos em que o contrato prevê a cobertura, mas ela é negada administrativamente, ou quando o contrato frontalmente com texto legal.
+Como se vê, o acórdão recorrido está em consonância com a jurisprudência do STJ, pacífica no sentido de que a recusa indevida da operadora de plano de saúde a autorizar o tratamento necessário ao segurado é passível de condenação por dano moral, uma vez que agrava a situação de aflição e angústia da pessoa comprometida em sua higidez físico-psicológica pela enfermidade. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - PLANO DE SAÚDE - SERVIÇO DE HOME CARE - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA RÉ.
+1. A jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, pode ensejar reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário.
+2. O Tribunal de origem, considerando indevida a recusa de cobertura financeira ao fornecimento do serviço de home care, condenou a operadora de plano de saúde ao pagamento de indenização por dano moral, de modo que, para o acolhimento da tese da insurgente, seria imprescindível revolver a avença firmada entre as partes e os aspectos fático-probatórios dos autos, o que é vedado em sede de recurso especial pelos óbices das Súmulas 5 e 7 desta Corte Superior.
+3. O valor da reparação por danos morais estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.154.897/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/03/2018, DJe 3/4/2018.)
+No que se refere ao valor fixado a título de dano moral, somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, a jurisprudência desta Corte permite o afastamento do óbice da referida súmula, para possibilitar sua revisão.
+A Corte de origem, entretanto, consideradas as peculiaridades do caso em questão, manteve a sentença que fixou em R$ 10.000,00 (dez mil reais) a indenização pelos danos que a recorrida sofreu em decorrência da recusa indevida da prestação de serviço home care, quantia que não se afigura desproporcional a ponto de ensejar a intervenção desta Corte.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
