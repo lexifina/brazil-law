@@ -1,0 +1,10 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Rogério Américo da Silva contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Apelação. Furto qualificado pela escalada, na forma tentada (art. 155, § 4º, II, c.c. art. 14, II, ambos do CP). Sentença condenatória. 1. Quadro probatório a evidenciar a responsabilidade penal do apelante. Autoria e materialidade comprovadas. 2. Circunstâncias da conduta que não permitem a aplicação do princípio da insignificância. 3. Demonstrada a causa de aumento. Manutenção da qualificadora. 4. Réu que ostenta maus antecedentes, sendo reincidente específico. 5. Sanção que comporta pequena redução, tendo em vista o reconhecimento da confissão parcial. Compensação parcial com a reincidência, com preponderância da última, por ser específica. Recurso parcialmente provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que a decisão recorrida teria vulnerado o preceito inscrito no art. 5º, XLVII, “b”, da Constituição Federal.
+    Cabe registrar, desde logo, que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o RE 593.818-RG/SC, Rel. Min. ROBERTO BARROSO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso extraordinário representativo de mencionada controvérsia jurídica, passível de se reproduzir em múltiplos feitos, refere-se à “Consideração de condenações transitadas em julgado há mais de cinco anos como maus antecedentes para efeito de fixação de pena-base” (Tema nº 150).
+    Isso significa que se impõe, quanto ao Tema nº 150/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
