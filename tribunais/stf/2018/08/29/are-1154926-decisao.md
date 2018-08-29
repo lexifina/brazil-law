@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO – Execução fiscal – ICMS Decisão que determinou a penhora de ativos financeiros pelo sistema BACEN-JUD, até o limite da execução Pleito que visa à suspensão da execução dos atos constritivos, sob o argumento de que se encontra em recuperação judicial Descabimento Recuperação judicial que não suspende as execuções fiscais de créditos tributários, consoante dispõe § 7º do art. 6º da Lei nº 11.101/05 - Execução que se processa no interesse da parte credora Inexistência de “vis atractiva” do Juízo da recuperação judicial Decisão mantida.
+    Recurso não provido.” (eDOC 3, p. 35)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 170 do texto constitucional. (eDOC 3, p. 57)
+    Nas razões recursais, alega-se equívoco do acórdão impugnado ao possibilitar a realização de penhora de ativo da recorrente que se encontra em recuperação judicial. Nesse sentido, argumenta-se que atos constritivos que prejudiquem a empresa deveriam ser obstados, já que a recuperação judicial tem por objetivo viabilizar a superação da situação de crise do devedor. (eDOC 3, p. 66-67)
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei nº 11.101/2005) e o conjunto probatório constante dos autos, consignou não ser possível o afastamento de penhora on line por ter sido deferida a recuperação judicial da empresa. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Não vigora a aventada possibilidade de afastamento da penhora on line frente ao deferimento da recuperação judicial da empresa. Isto porque, o § 7º do art. 6º, da Lei n. 11.101/05, estabelece que a execução fiscal não é suspensa pelo deferimento do pedido de recuperação judicial, (...)
+    (...)
+    A recuperação judicial não pode servir de escusa para o não pagamento do débito fiscal, até porque a cobrança judicial da dívida da Fazenda não se sujeita a concurso de credores ou habilitação em recuperação judicial ou falência, uma vez que ausente a “vis atractiva” do juízo da recuperação judicial.” (eDOC 3, p. 36-38)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO PROCESSUAL CIVIL. POSSIBILIDADE DE PENHORA ON LINE. NECESSIDADE DE PRÉVIA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. O Tribunal a quo tratou apenas de matéria referente à possibilidade de penhora on line . O exame das alegadas ofensas a dispositivos constitucionais dependeria de prévia análise da legislação infraconstitucional que disciplina a matéria. Precedentes. Negativa de prestação jurisdicional não configurada. O artigo 93, IX, da Constituição Federal exige que o órgão jurisdicional explicite as razões do seu convencimento, ainda que sucintamente. Agravo regimental conhecido e não provido” (AI 830.805 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 23.5.2012).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Recuperação judicial. Pedido de suspensão da execução fiscal. Necessidade do revolvimento do conjunto fático-probatório dos autos. Incidência do Enunciado 279 da Súmula do STF. Matéria infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 913.758-AgR, de minha relatoria, Segunda Turma, DJe 13.11.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
