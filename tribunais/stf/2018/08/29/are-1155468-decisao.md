@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, caput, II, 37, caput, 165 da Lei Maior e 53, IV, do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEPENDENTE DE EX-COMBATENTE. VIÚVA. DIREITO À ASSISTÊNCIA MÉDICA. ORGANIZAÇÕES MILITARES DE SAÚDE. PRECEDENTES. 1. O dependente de ex-combatente tem direito à assistência médica e hospitalar nas Organizações Militares de Saúde. Precedentes: RE n. 498.443-AgR, Relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 26.6.2009 e RE n. 414.256-AgR, Relator Ministro Carlos Velloso, Segunda Turma, DJ de 20.5.2005. 2. In casu, o acórdão recorrido assentou: “MANDADO DE SEGURANÇA. ADMINISTRATIVO. EX-COMBATENTE. VIÚVA. DEPENDENTE. ASSISTÊNCIA MÉDICA E HOSPITALAR. A viúva, dependente do ex-combatente, tem direito à assistência médica e hospitalar junto à FUSEX, nos termos do art. 53, IV, do ADCT.” 3. Agravo regimental a que se nega provimento.” (ARE 696223 AgR, Relator(a):  Min. LUIZ FUX, Primeira Turma, julgado em 06/11/2012, PROCESSO ELETRÔNICO DJe-236 DIVULG 30-11-2012 PUBLIC 03-12-2012)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. ART. 53, IV, DO ADCT. EX-COMBATENTE. DEPENDENTES. ASSISTÊNCIA MÉDICO-HOSPITALAR GRATUITA. ORGANIZAÇÕES MILITARES DE SAÚDE. POSSIBILIDADE. AGRAVO IMPROVIDO. I – O art. 53, IV, do ADCT garante aos ex-combatentes e seus dependentes o direito à assistência médico-hospitalar gratuita prestada nas organizações militares de saúde. Precedentes. II – Agravo regimental improvido.” (ARE 687116 AgR, Relator(a):  Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 28/08/2012, PROCESSO ELETRÔNICO DJe-182 DIVULG 14-09-2012 PUBLIC 17-09-2012)
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PENSIONISTAS DE EX-COMBATENTE. POSSIBILIDADE DE ASSISTÊNCIA MÉDICO-HOSPITALAR EM ORGANIZAÇÕES MILITARES DE SAÚDE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 498443 AgR, Relator(a):  Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 26/05/2009, DJe-118 DIVULG 25-06-2009 PUBLIC 26-06-2009 EMENT VOL-02366-05 PP-00976)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 29 de agosto de 2018.
+Ministra Rosa Weber
+Relatora
