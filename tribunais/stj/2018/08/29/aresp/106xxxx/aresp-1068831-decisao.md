@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ARTIGO 535 DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da ofensa ao princípio da unirrecorribilidade recursal.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 190):
+ADMINISTRATIVO. CONCURSO PÚBLICO. PROFESSOR DE EDUCAÇÃO BÁSICA. ELIMINAÇÃO DE CANDIDATO. CLASSIFICAÇÃO PARA A PROXIMA FASE. INTERPRETAÇÃO EDITALÍCIA. ACESSO AO CARGO PÚBLICO. SENTENÇA MANTIDA.
+1. Considera-se desarrazoada, e consequentemente ilegal, a regra editalícia que restringe a lista dos candidatos habilitados para a próxima etapa do certame em razão da inclusão de candidatos que se declararam pessoa com deficiência quando ainda pendente sua avaliação em perícia médica, devendo ser afastada qualquer interpretação tendente a excluir do candidato o direito constitucional de acesso ao cargo público (Art. 37, inciso I, da CF).
+2. Recurso não provido.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 458 e 535, I e II, do CPC/1973, ao argumento de que a Corte local não se manifestou a respeito das seguintes questões: (a) da não determinação de nomeação do recorrido e sim de sua participação nas demais fases do certame na condição de pessoa com deficiência e a reserva de vagas no caso de os candidatos portadores de deficiência não ocuparem as vagas a eles destinadas.
+Quanto à questão de fundo, sustenta ofensa aos artigos 39 da Lei 8.038/1990, 162 § 2º, 555 e 557, § 1º do CPC/1973, sob os seguintes argumentos: (a) a ordem de o nomear o recorrido e a alegação de preterição exorbita das decisões tomadas no primeiro grau de jurisdição, dos pedidos formulados pelo autor bem como exorbita do objeto da lide, visto que não foi causa de pedir e (b) ofensa ao princípio da colegialidade, .
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da não determinação de nomeação do recorrido e sim de sua participação nas demais fases do certame na condição de pessoa com deficiência e a reserva de vagas no caso de os candidatos portadores de deficiência não ocuparem as vagas a eles destinadas.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 535, I ou II, do CPC/1973, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste a respeito da participação nas demais fases do certame na condição de pessoa com deficiência e a reserva de vagas no caso de os candidatos portadores de deficiência não ocuparem as vagas a eles destinadas, não determinando a nomeação do recorrido.
+Publique-se. Intimem-se.
