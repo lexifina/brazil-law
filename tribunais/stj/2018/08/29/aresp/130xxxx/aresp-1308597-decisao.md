@@ -1,0 +1,44 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"DIREITO DO CONSUMIDOR, CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO - NÃO CONHECIMENTO DE PARTE DO INCONFORMISMO - AUSÊNCIA DE PROVIMENTO DESFAVORÁVEL À PARTE - INUTILIDADE DO RECURSO - INTERESSE RECURSAL INEXISTENTE - FALTA DE PRESSUPOSTO INTRÍNSECO DE ADMISSIBILIDADE - SENTENÇA EXTRA PETITA - NULIDADE PARCIAL RECONHECIDA, PARA DECOTAR O EXCESSO - CAPITALIZAÇÃO MENSAL DE JUROS - POSSIBILIDADE, DESDE QUE PACTUADA - AJUSTE DESSA PRÁTICA, ENTRE AS PARTE, NÃO COMPROVADO - PROIBIÇÃO - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+- Quando a pretensão deduzida perante a Instância Revisora não é capaz de produzir resultado útil - consistente em situação prática mais vantajosa do que aquela que advém da decisão recorrida - à parte insurgente, não deve ser conhecido o inconformismo, por ausência de interesse recursal.
+- A declaração de rescisão do contrato firmado entre as partes, no julgamento de ação de busca e apreensão, sem que haja pedido nesse sentido, nos autos, resulta em atuação extra petita. Todavia, não cabe a anulação do decisum mas, tão somente, declarar a sua parcial nulidade, para decotar o excesso.
+- É permitida a capitalização mensal de juros nos contratos celebrados, com instituições financeiras, após a edição da Medida Provisória n.º 1.963-17/2000, desde que avençada, hipótese não demonstrada, nos autos, a resultar na proibição dessa prática." (fls.207)
+Nas razões do recurso especial, a parte agravante alega violação ao art. 5º da MP 2.170-36/2001 e divergência jurisprudencial, sustentando, em síntese, (a) que inexiste ilegalidade ou abusividade de juros pelo fato dos mesmos serem superiores a 12% ao ano nos contratos de mútuo de entidade de previdência privada, nem vedação a capitalização mensal de juros e (b) que a jurisprudência aponta que não há ilegalidade na utilização da tabela "price".
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No tocante à suposta violação ao art. 5º da MP 2.170-36/2001, o Tribunal de origem afirmou que o contrato firmado entre as partes não prevê disposição acerca da capitalização mensal dos juros nem aplicação da Tabela Price, de modo que deve ser afastada a capitalização mensal dos juros, in verbis:
+"Sobre a capitalização de juros, necessário fazer algumas considerações.
+(..)
+Sobre a questão, o egrégio Superior Tribunal de Justiça editou o Enunciado n.º 539, a saber:
+"é permitida a capitalização de juros com periodicidade inferior
+à anual em contratos celebrados com instituições integrantes
+do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n.
+1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde
+que expressamente pactuada."
+(..)
+No caso sob exame, o contrato de fls. 39/40 foi firmado em 2006, ou seja, na vigência da mencionada norma legal.
+Entretanto, de seus termos, não se vê nenhuma disposição sobre a possibilidade de capitalização mensal dos juros. Ademais, não foi identificado, na avença, o percentual anual do encargo, constando apenas o mensal, ficando impossibilitado o contratante de saber qual o total de juros pagos e a forma de seu cálculo, inexistindo também estipulação quanto à aplicação da Tabela Price, ao contrário do que alega a Apelante.
+Nesse passo, está a merecer manutenção a sentença recorrida, que determinou o afastamento da capitalização mensal dos juros." (e-STJ, fls. 213/216)
+Este fundamento (ausência de previsão contratual sobre a capitalização mensal dos juros) não foi objeto de impugnação pela parte agravante e é suficiente, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia das Súmula 283 e 284 do Supremo Tribunal de Justiça. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Ademais, a decisão do Tribunal de origem está em consonância com o entendimento jurisprudencial deste Superior Tribunal de Justiça. Vejamos:
+CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC: - "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada." - "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+4. Segundo o entendimento pacificado na 2ª Seção, a comissão de permanência não pode ser cumulada com quaisquer outros encargos remuneratórios ou moratórios.
+5. É lícita a cobrança dos encargos da mora quando caracterizado o estado de inadimplência, que decorre da falta de demonstração da abusividade das cláusulas contratuais questionadas.
+6. Recurso especial conhecido em parte e, nessa extensão, provido.
+(REsp 973.827/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe 24/09/2012)
+Por fim, no tocante à suposta divergência jurisprudencial, esta eg. Corte de Justiça tem decidido, reiteradamente, que, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+Contudo, na hipótese dos autos, não houve essa demonstração.
+A análise dos autos denota que as circunstâncias fáticas expostas nos acórdãos paradigmas divergem do que foi exposto no aresto vergastado. No caso ora em análise, observa-se que as instâncias ordinárias fundamentaram suas decisões com base em ausência de previsão contratual de capitalização mensal dos juros e aplicação da Tabela Price. Por outro lado, os acórdãos paradigmas tratam de julgados que consideraram a possibilidade de utilização da referida tabela sem implicação de prática de anatocismo.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
