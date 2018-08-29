@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial ante a incidência da Súmula n. 7/STJ (e-STJ fls. 693/694).
+O acórdão do TJPR está assim ementado (e-STJ fl. 539):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO INTERLOCUTÓRIA QUE INDEFERE O PEDIDO DE SUSPENSÃO DA EXECUÇÃO. IRRESIGNAÇÃO DA PARTE EXECUTADA. EXISTÊNCIA DE AÇÃO REVISIONAL QUE NÃO IMPEDE O CURSO DE DEMANDA EXECUTÓRIA. INTELIGÊNCIA DO ARTIGO 784, INCISO XII, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. PEDIDO DE EFEITO SUSPENSIVO NOS EMBARGOS À EXECUÇÃO INDEFERIDO POR DECISÃO TRANSITADA EM JULGADO. QUITAÇÃO PARCIAL DO DÉBITO QUE ENSEJA A MERA ADEQUAÇÃO DO VALOR EXECUTADO. AUSÊNCIA DE QUALQUER HIPÓTESE LEGAL DE SUSPENSÃO. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO (POR MAIORIA).
+Os embargos de declaração opostos foram acolhidos, em acórdão assim redigido (e-STJ fl. 578):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO ALEGADA. VÍCIO CONSTATADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RENOVAÇÃO DO PEDIDO DE SUSPENSÃO DO FEITO EXECUTIVO. ALEGAÇÃO DE FATOS SUPERVENIENTES. POSSIBILIDADE DE REEXAME DA DECISÃO QUE INDEFERIU O PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO AOS EMBARGOS. ALTERAÇÃO DA REALIDADE FÁTICA. NECESSIDADE DE PREENCHIMENTO CONCOMITANTE DOS REQUISITOS LEGAIS. INCIDÊNCIA, NO CASO, DO ART. 739-A, §1A DO CÓDIGO DE PROCESSO CIVIL DE 1973. INOCORRÊNCIA NO CASO. PERIGO DE DANO GRAVE OU DE DIFÍCIL REPARAÇÃO NÃO VERIFICADO. RISCO DE DEVOLUÇÃO DE EVENTUAL VALOR A MAIOR INEXISTENTE. EXEQUENTE QUE SE TRATA DE ENTIDADE BANCÁRIA. IMPOSSIBILIDADE DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS EMBARGOS. ACÓRDÃO REFORMADO. RESULTADO DO JULGAMENTO MANTIDO. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+Nas razões do recurso especial (e-STJ fls. 589/611), interposto com base no art. 105, III, "a" e "c", da CF, os recorrentes apontaram, além de dissídio jurisprudencial, violação do art. 739-A, § 1º, do CPC/1973 (CPC/2015, art. 919, § 1º), alegando a necessidade de ser atribuído efeito suspensivo aos embargos à execução, pois a execução estaria garantida por penhora de imóvel e estaria demonstrado nos autos o periculum in mora.
+Afirmaram que o imóvel levado a leilão não seria recuperado pelos recorrentes e seria vendido por valor inferior ao de mercado, estando assim evidenciado o perigo de dano com o prosseguimento da execução, justificando atribuir efeito suspensivo aos embargos.
+Não foram apresentadas contrarrazões (e-STJ fl. 692).
+No agravo (e-STJ fls. 697/707), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 711/735).
+É o relatório.
+Decido.
+A Corte de origem não suspendeu a execução das cédulas de crédito rural exigidas nos autos, ao assentar que, apesar de a execução estar garantida por penhora e existir verossimilhança das alegações dos recorrentes, não havia a perigo de dano de difícil ou incerta reparação no prosseguimento da execução, conforme se extrai do seguinte excerto (e-STJ fls. 585/586):
+Por fim, no tocante ao perigo de dano de difícil ou incerta reparação, a parte agravante sustenta que decorria do fato de a instituição financeira exequente já ter requerido a realização da hasta pública do bem dado em garantia.
+Não avisto, no entanto, o periculum in mora.
+A despeito do sustentado pela parte agravante, denota-se dos autos que a instituição financeira, embora de fato tenha requerido o prosseguimento da execução, com a designação de hasta pública do bem (seq. 32.1), tal pedido sequer foi apreciado pelo MM. Juiz singular.
+De outro vértice, ainda que o bem seja levado à hasta pública, na eventualidade sustentada pela parte agravante de que ser necessário "pedir a restituição dos valores à agravada", caso julgados procedentes os embargos à execução e as demandas revisionais, não há qualquer risco de que tais valores não lhe sejam restituídos, notadamente por se tratar a exequente entidade bancária.
+Com efeito, não se avista, portanto, o perigo de dano, de modo que, não restando preenchidos concomitantemente todos os requisitos previstos legais, deve ser mantida a decisão que negou a concessão de efeito suspensivo ao recurso.
+Sendo assim, nego provimento ao recurso".
+Suprida a omissão constada no julgado e considerando que restou mantido o resultado anteriormente proposto, os presentes embargos devem ser acolhidos, contudo, sem efeitos modificativos.
+Alterar os fundamentos do acórdão impugnado, para acolher a tese de que estaria demonstrada a existência de periculum in mora para justificar a concessão de efeito suspensivo à execução, nos termos do art. 739-A, § 1º, do CPC/1973, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
