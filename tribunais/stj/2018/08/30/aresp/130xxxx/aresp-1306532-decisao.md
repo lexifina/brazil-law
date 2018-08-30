@@ -1,0 +1,19 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO. ASTREINTES. VALOR. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 62/63):
+CONSTITUCIONAL. ADMINISTRATIVO. FORNECIMENTO. MEDICAMENTO. ABIRATERONA (ZYTIGA). DIREITO À SAÚDE. RESPONSABILIDADE SOLIDÁRIA DOS ENTES DA FEDERAÇÃO. ASTREINTES. FAZENDA PÚBLICA. POSSIBILIDADE. AMPLIAÇÃO DE PRAZO PARA CUMPRIMENTO DA MEDIDA ORDENADA. AGRAVO PARCIALMENTE PROVIDO.
+1. Agravo de instrumento manejado em face da decisão que deferiu o pedido de antecipação dos efeitos da tutela, para determinar que seja fornecida, à parte agravada, a medicação Abiraterona (Zytiga), em quantidade de acordo com prescrição médica, sob pena de multa diária de R$ 1.000,00 (mil reais).
+2. As razões recusais sustentam que é descabida a incidência da multa (astreintes) contra a União, requerendo a imediata suspensão, bem como a concessão de prazo maior para o fornecimento do fármaco, tendo em vista não ser possível a aquisição no prazo de 05 (cinco) dias.
+3. O art. 196 da CF impõe a garantia e a efetividade de direito fundamental à saúde, de forma a orientar os gestores públicos na implementação de medidas que facilitem o acesso a quem necessite da tutela estatal à prestação aos serviços médico-hospitalares e fornecimento de medicamentos, além de políticas públicas para prevenção de doenças, principalmente quando se verifica ser, o tutelado, pessoa hipossuficiente, que não possui meios financeiros para custear o próprio tratamento. Enfatize-se que os artigos 23, II, e 198, § 2º, da CF preveem a solidariedade dos entes federativos na responsabilidade da prestação dos serviços na área da saúde, além da garantia de orçamento para efetivação dos mesmos.
+4. No que se refere à cobrança multa diária ( ), por descumprimento da decisão judicial, ressalto astreintes que é patente tal possibilidade, ainda que contra a Fazenda Pública, entendimento que segue a jurisprudência consolidada do col. STJ (AgRg no AREsp 646126 / PE, Relator: Ministro Napoleão Nunes Maia Filho, Primeira Turma, Julgado em: 28/03/2017, DJe 05/04/2017. AgInt no REsp 1280068 / MT, Relator: Min. Diva Malaerbi (Desembargadora convocada do TRF 3ª Região), Segunda Turma, Julgado em: 16/08/2016, Dje 23/08/2016).
+5. Agravo de instrumento parcialmente provido apenas para majorar o prazo de cumprimento da obrigação imposta para 15 (quinze) dias.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 537 e 805 do CPC/2015, sob os seguintes argumentos: (a) são incabíveis a fixação de prazo específico e o arbitramento de multa e posterior execução para a União, em caso de não comprovação de cumprimento da decisão no referido prazo determinado, pois atenta contra o princípio da legalidade ao qual a Administração está vinculada em sua atuação; (b) A multa decorrente do descumprimento da decisão deve ser fixada em atenção ao princípio da proporcionalidade, evitando-se o enriquecimento sem causa da parte autora. No caso, as astreintes, estipuladas em R$ 1.000,00 - mil reais -, devem ser reduzidas porque são exorbitantes.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+No que diz respeito aos artigos 537 e 805 do CPC/2015, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
