@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FALTA DE IMPUGNAÇÃO DO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE RECURSAL NÃO ATENDIDO. ART. 1.021, § 1º DO CPC/2015. NÃO CONHECIMENTO.
+1. O único fundamento da decisão agravada (Não é ilegal o ato do Governador de Estado que, em estrito cumprimento a decisão judicial, exonera servidor público) não foi especificamente impugnado nas razões do agravo.
+2. Não se conhece do agravo interno cujas razões não impugnam especificamente os fundamentos da decisão agravada. Inteligência do art. 1.021, § 1º, do CPC/2015.
+3. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Cuida-se de agravo interno manejado por [NOME] contra a decisão de fls. 605 a 608, pela qual, com fundamento nos arts. 932, VIII, do CPC e 34, XVIII, do RISTJ, bem como na Súmula 568/STJ, foi negado provimento ao recurso ordinário em mandado de segurança interposto contra acórdão proferido pelo Órgão Especial do Tribunal de Justiça do Estado do Paraná, fls. 545 a 553, com base no seguinte fundamento: o ato do Governador do Estado do Paraná, apontado como autoridade coatora, pelo qual exonerou o recorrente do cargo de Investigador de Polícia Civil do Estado do Paraná, foi proferido em cumprimento a decisão judicial, logo não há falar em ilegalidade.
+Nas razões do agravo interno, às fls. 614 a 617, a parte recorrente repisa que "não poderia o juiz a quo determinar a remessa dos autos de ofício à SESP/PR, sob pena de ofensa ao princípio dispositivo. Justamente porque, mesmo demonstrado o equívoco, a sentença manteve a "cassação da tutela antecipada", afastando o efeito suspensivo e encaminhando os autos à Secretaria de Segurança Publica para que providenciasse a "exclusão do candidato" dando efeitos imediatos à sentença de 1º grau" (fl. 615).
+Reitera que, "se a eficácia da sentença se encontra paralisada até o julgamento do Recurso no Tribunal de Justiça do Estado do Paraná pelo recebimento do recurso em seu efeito suspensivo, não poderia o Poder Judiciário determinar a execução de imediato da sentença, determinando ao Estado do Paraná o ato de exoneração do recorrente" (fl. 617).
+Requer, por fim, a reconsideração da decisão agravada ou a submissão do feito ao Colegiado do STJ.
+Intimado, o Estado do Paraná apresentou petição de impugnação às fls. 622 a 630, por meio da qual defende o não provimento do presente recurso.
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): O agravo interno, como espécie recursal que é, reclama, em homenagem ao princípio da dialeticidade, a impugnação de todos os fundamentos da decisão agravada, sob pena de não conhecimento. A tal propósito, dispõe o § 1º do art. 1.021 do CPC que, "Na petição do agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Apreciando o referido dispositivo, NELSON NERY JUNIOR e ROSA MARIA DE ANDRADE NERY ensinam que, "Como deve ser em todo e qualquer recurso, o recorrente tem o ônus de impugnar especificadamente os fundamentos da decisão agravada, sob pena de não conhecimento do agravo. O parágrafo em questão acolheu o disposto na STJ 182" (Comentários ao Código de Processo Civil - Novo CPC - Lei 13.105/2015. São Paulo: RT, 2015, p. 2115, nota 10 ao art. 1.021).
+No presente caso, verifica-se que o inconformismo não ultrapassa o juízo de admissibilidade, tendo em conta que o ora agravante não impugnou, de forma específica, o único fundamento da decisão que pretende ver reformada, conforme determina do art. 1.021, § 1º, do CPC/2015.
+Com efeito, o que se afirmou na decisão monocrática foi que o Governador do Estado do Paraná, única autoridade coatora, ao exonerar o recorrente do cargo efetivo então ocupado, apenas deu fiel cumprimento a decisão judicial que assim lhe determinava. Logo não há falar em ilegalidade.
+Esse único fundamento não foi impugnado, de forma específica, nas razões recursais, pois que dedicadas a questionar a validade da própria sentença. Eis porque o presente agravo não merece ser conhecido.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FALTA DE IMPUGNAÇÃO A UM DOS DOIS FUNDAMENTOS AUTÔNOMOS DA DECISÃO AGRAVADA. PRINCÍPIO DA DIALETICIDADE RECURSAL NÃO ATENDIDO. ART. 1.021, § 1º DO CPC/2015. SÚMULA 182/STJ. INADMISSIBILIDADE.
+1. O agravo interno, como espécie recursal que é, reclama, em homenagem ao princípio da dialeticidade, a impugnação integral de cada um dos fundamentos autônomos da decisão agravada, sob pena de inadmissão. Inteligência do art. 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ.
+2. Acerca desse requisito legal e sumular, NELSON NERY JUNIOR e ROSA MARIA DE ANDRADE NERY ensinam que, "Como deve ser em todo e qualquer recurso, o recorrente tem o ônus de impugnar especificadamente os fundamentos da decisão agravada, sob pena de não conhecimento do agravo" (Comentários ao Código de Processo Civil - Novo CPC - Lei 13.105/2015. São Paulo: RT, 2015, p. 2115).
+3. No caso concreto, a parte agravante não atacou o fundamento de mérito, qual seja, o de que "o tempo de serviço prestado às empresas públicas e sociedades de economia mistas, integrantes da Administração Pública Indireta, somente pode ser computado para efeitos de aposentadoria e disponibilidade".
+4. Agravo interno inadmissível.
+(AgInt no RMS 46.878/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/08/2016, DJe 29/08/2016)
+Ante o exposto, não conheço do presente agravo interno.
+É como voto.
