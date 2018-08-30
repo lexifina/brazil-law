@@ -1,0 +1,35 @@
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DANO MORAL NÃO RECONHECIDO PELA CORTE DE ORIGEM. NEGATIVA BASEADA EM INTERPRETAÇÃO RAZOÁVEL DO CONTRATO. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ À PRETENSÃO RECURSAL. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por MARIA DA GRACA IORRA fundado nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÕES CÍVEIS. PLANO DE SAÚDE. AÇÃO INDENIZATÓRIA. TRATAMENTO INTRA-OCULAR COM ANTIANGIOGÊNICO. DIRETRIZES DE UTILIZAÇÃO. COBERTURA DEVIDA. DANOS MORAIS. INOCORRÊNCIA.
+1. Trata-se de decisão recorrida publicada após a data de 18/03/2016, quando entrou em vigor o Código de Processo Civil de 2015, de modo que há a imediata incidência no caso dos autos da legislação vigente, na forma do artigo 1.046 do diploma processual precitado.
+2. O contrato em análise foi avençado entre as partes com o objetivo de garantir o pagamento das despesas médicas e hospitalares para a hipótese de ocorrer a condição suspensiva prevista naquele pacto, consubstanciada no evento danoso à saúde.
+Outro elemento essencial desta espécie contratual é a boa -fé, na forma do art. 422 do Código Civil, caracterizada pela lealdade e clareza das informações prestadas pelas partes.
+3. Os planos ou seguros de saúde estão submetidos às disposições do Código de Defesa do Consumidor, enquanto relação de consumo atinente ao mercado de prestação de serviços médicos. Isto é o que se extrai da interpretação literal do art. 35 da Lei 9.656/98. Súmula n. 469 do STJ.
+4. Aplicáveis ao caso em exame as exigências mínimas previstas no plano - referência de que trata os artigos 10 e 12 da legislação dos planos de saúde.
+5. O médico assistente da parte autora destacou a necessidade do tratamento postulado, não havendo necessidade de preenchimento das condições elencadas nas diretrizes de utilização do procedimento.
+6. O que importa para solução do litígio é a existência de cobertura da patologia apresentada pela contratante, ainda mais em se tratando de doença grave com a necessidade de tratamento ocular quimioterápico.
+7. Não cabe à demandada determinar o tipo de tratamento que será realizado pela parte autora, uma vez que esta decisão cabe ao médico que a acompanha, que possui a capacidade de avaliar os riscos e benefícios para o caso específico, indicando o procedimento que entende adequado para as patologias apresentadas.
+8. Em se tratando de prejuízo imaterial, somente os fatos e acontecimentos capazes de abalar o equilíbrio psicológico do indivíduo são considerados para fins de indenização por danos morais, sob pena de banalizar este instituto, atribuindo reparação a meros incômodos do cotidiano, em especial quando se trata de responsabilidade contratual, cujo descumprimento deve ocorrer sem justa causa, ao menos aparente, a fim de seja autorizada a reparação pretendida.
+Dado parcial provimento ao apelo da ré, prejudicado o recurso da parte autora" (e-STJ fls. 305/306).
+Nas razões do recurso especial, além de dissídio jurisprudencial, a recorrente apontou violação aos artigos 489, § 1º, incisos III, IV, e, V, e, 1.022 do Código de Processo Civil/2015,e , 186, 187, 927, caput, e, 944, caput, do Código Civil.
+Defende, em síntese, negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se pronunciado sobre todas as questões postas em debate pela recorrente.
+No mais, sustenta a ocorrência de dano moral passível de indenização, pois, "em razão da demora na realização do tratamento (demora decorrente da negativa de cobertura) ela teve perda significativa e irreversível da visão, tendo sido exposta ao risco de ficar completamente cega" (e-STJ Fl. 380).
+Contrarrazões ao recurso especial apresentadas, às fls. 429/440 e-STJ, sobreveio juízo de admissibilidade do Tribunal de origem, que admitiu o recurso especial, às fls. 442/448 e-STJ.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Os embargos declaratórios não merecem acolhida. No caso não se configura a existência de quaisquer das deficiências apontadas, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+No que concerne à suposta ocorrência de dano moral, a Corte de origem assentou que:
+"Outrossim, com relação à indenização pelos danos imateriais, não merece guarida a pretensão da demandante, tendo em vista que somente os fatos e acontecimentos capazes de romper com o equilíbrio psicológico do indivíduo podem justificar a configuração da pretensão indenizatória, sob pena de ocorrer uma banalização deste instituto, em especial em se tratando de relação jurídica de ordem contratual, na qual o descumprimento deve se dar ao arrepio da lei ou do contrato.
+No que diz respeito ao tema em discussão é oportuno trazer à baila os ensinamentos de [NOME]", ao asseverar que:
+Nessa linha de principio, só deve ser reputado como dano moral a dor, vexame, sofrimento ou humilhação que, fugindo à normalidade, interfira intensamente no comportamento psicológico do individuo, causando-lhe aflições, angústias e desequilíbrio em seu bem-estar. Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral, porquanto, além de fazerem parte da normalidade do nosso dia -a-dia, no trabalho, no trânsito, entre os amigos e até no ambiente familiar, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do individuo. Se assim não se entender, acabaremos por banalizar o dano moral, ensejando ações judiciais e busca de indenizações pelos mais triviais aborrecimentos.
+No presente feito, não se nega o desconforto e a angústia experimentados pela autora em razão da negativa de cobertura do tratamento postulado, porém esta baseou-se em interpretação razoável do contrato, pois havia razão jurídica aparente para a negativa.
+Ademais, o tratamento não deixou de ser realizado, tendo em vista que a parte autora arcou com os valores referentes ao tratamento, que serão ressarcidos pela ré, devidamente corrigidos, de modo que resta afastado o direito à reparação" (e-STJ Fls. 316/317, gn).
+Assim, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Cumpre asseverar que referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Por fim, respeitada a distribuição da sucumbência realizada pelo Tribunal de origem, com base no art. 85, § 11, do CPC/2015, majoro os honorários recursais fixados em R$ 1.400,00 (Hum mil e quatrocentos reais), e-STJ Fl. 319, para R$ 1.600,00 (Hum mil e seiscentos reais), a serem suportados exclusivamente pela parte ora recorrente.
+Intimem-se.
