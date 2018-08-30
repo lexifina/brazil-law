@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, por sua vez, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Pará, assim ementado (fl. 1071, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. NATUREZA DE REPAÇÃO CIVIL. PRAZO PRESCRICIONAL PREVISTO NO ARTIGO 206, §3º, V, CC/2002. REGRA DE TRANSIÇÃO PREVISTA NO ARTIGO 2028 DO MESMO CODEX. PRESCRIÇÃO DA PRETENSÃO. AÇÃO AJUIZADA APÓS O DECURSO DO PRAZO PRESCRICIONAL. MANTIDA A DECISÃO. RECURSO CONHECIDO E IMPROVIDO.
+1 - Apesar de ter intitulado a ação como de cobrança, em verdade a natureza desta é de reparação civil por ato ilícito, já que o que pretende o apelante com o ajuizamento da ação é indenização por supostos danos a si causados e não a cobrança de valores devidos em decorrência do contrato.
+2 - Desse modo, indubitável que a natureza da ação ajuizada pela parte é de reparação civil e não de cobrança de valores. Assim, deve-se aplicar ao caso a regra do artigo 206, §3º, V, do Código Civil de 2002, a qual prescreve o prazo de três anos de prescrição para pretensão de reparação civil (art. 2028 CC/2002).
+3 - Tendo em vista que a rescisão do contrato foi realizada em 26/08/2001 (doc. fl. 31) e que o Código Civil entrou em vigor em 11 /01/2003, forçoso é concluir que se operou a prescrição, já que ação foi ajuizada apenas em 18/09/2006, quando deveria ter sido proposta até 11/01/2006.
+4 - Recurso Conhecido e Improvido.
+Opostos embargos de declaração (fls. 1084/1090, e-STJ), esse foram improvidos.
+Em suas razões recursais (fls. 1105/1116, e-STJ), o insurgente apontou, além de divergência jurisprudencial, a violação aos artigos 206, § 5º do Código Civil; 344 e 355, II do Código de Processo Civil/15 e 44 da Lei 4.886/65. Sustentou, em síntese: i) que não há que se falar em prescrição no caso, tendo em vista que a ação versa sobre cobrança de valores que lhe são devidos; ii) a revelia do agravado, tendo em vista que a intempestividade da contestação.
+Contrarrazões às fls. 1168/1175, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 1157/1166, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o insurgente refuta o óbice aplicado pela Corte estadual.
+É o relatório.
+Decido.
+A pretensão recursal não merece prosperar.
+1. A jurisprudência deste Superior Tribunal de Justiça é no sentido de que a "pretensão indenizatória (reparação civil) decorrente de de ato ilícito prescreve em 3 (três) anos, nos termos do artigo 206, § 3º, V, do Código Civil".
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO INDENIZATÓRIA. INADIMPLEMENTO CONTRATUAL. PRAZO PRESCRICIONAL. ACÓRDÃO EM DESACORDO COM O ENTENDIMENTO FIRMADO NO BOJO DO RESP Nº 1.281.594/SP, DJE 28/11/2016. PRESCRIÇÃO TRIENAL CONFIGURADA. REFORMA DO ACÓRDÃO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A regra do artigo 206, § 3º, V, do Código Civil regula o prazo prescricional relativo às ações de reparação de danos na responsabilidade civil contratual e extracontratual.
+3. "O termo "reparação civil", constante do art. 206, § 3º, V, do CC/2002, deve ser interpretado de maneira ampla, alcançando tanto a responsabilidade contratual (arts. 389 a 405) como a extracontratual (arts. 927 a 954), ainda que decorrente de dano exclusivamente moral (art. 186, parte final), e o abuso de direito (art. 187). Assim, a prescrição das pretensões dessa natureza originadas sob a égide do novo paradigma do Código Civil de 2002 deve observar o prazo comum de três anos. Ficam ressalvadas as pretensões cujos prazos prescricionais estão estabelecidos em disposições legais especiais." (REsp 1.281.594/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 22/11/2016, DJe 28/11/2016).
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, aplica-se ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1136518/BA, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/06/2018, DJe 28/06/2018)
+No caso em apreço, o Tribunal de origem decidiu em consonância com o entendimento desta Corte Superior de Justiça, ao aplicar o prazo prescricional de três anos, porque não se trata de cobrança de valores (quebra de ilegal de contrato), mas sim de indenização por ato ilícito.
+Tendo assim se manifestado (fls. 1074/1075, e-STJ):
+Cuida-se de recurso de Apelação Cível interposto por [NOME], contra decisão proferida pelo Juiz da 9ª Vara Cível de Belém, a qual julgou improcedente o pedido do apelante, ante a ocorrência de prescrição.
+Sustenta o apelante que não merece prosperar a decisão de primeiro grau, uma vez que ajuizou ação de cobrança e não de reparação civil. Assim, afirma que o prazo prescricional é de cinco anos e não três anos, como declarou o juízo de primeiro grau.
+Vejamos.
+Da análise da petição inicial do apelante, vê-se que discorre sobre um suposto abuso na rescisão do contrato de distribuição, assim como sobre alterações contratuais. Em razão desses fatos, postula indenização, ressarcimento de perdas e danos e lucros cessantes.
+Com efeito, não há nos autos nenhum relato de inexecução de negócio jurídico ou de pagamento a menor do valor devido a título de rescisão contratual. Ou seja, não há pretensão de cobrança de dívida líquida, mas apenas os pleitos de indenização por danos materiais, morais e lucros cessantes, em decorrência de abuso de direito e, portanto, de suposto ato ilícito.
+Desse modo, indubitável que a natureza da ação ajuizada pela parte é de reparação civil e não de cobrança de valores, como quer fazer crer.
+Destarte, deve-se aplicar ao caso a regra do artigo 206, §3º, V, do Código Civil de 2002, a qual prescreve o prazo de três anos de prescrição para pretensão de reparação civil (art. 2028 CC/2002).
+Desta feita, tendo em vista que a rescisão do contrato foi realizada em 26/08/2001 (doc. fl. 31) e que o Código Civil entrou em vigor em 11/01/2003, forçoso é concluir que se operou a prescrição, já que ação foi ajuizada apenas em 18/09/2006, quando deveria ter sido proposta até 11/01/2006.
+Assim, não vislumbro razões para reforma da decisão de primeiro grau.
+Assim, encontrando-se a decisão estadual em consonância com a jurisprudência desta Casa, inadmissível o apelo extremo no ponto, incidindo a Súmula 83 desta Corte.
+Ademais, para se rever a conclusão do Tribunal de origem, acerca da natureza da ação e do prazo prescricional, nos moldes pleiteado pelo agravante, exigiria o reexame do acervo fático-probatório dos autos e nova interpretação de cláusulas contratuais, providências vedadas nesta sede recursal, a teor das Súmulas n. 5 e 7 do STJ.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. CONTRATO DE TRANSPORTES. PREQUESTIONAMENTO DO ART. 18 DA LEI N. 11.442/2007 E ARTS. 2º E 5º DA LINDB COMPROVADO. DECISÃO AGRAVADA RECONSIDERADA. DIREITO DE REGRESSO EM REPARAÇÃO CIVIL. RECONHECIMENTO. PRESCRIÇÃO NÃO PREVISTA EM LEI ESPECÍFICA. APLICAÇÃO DO ART. 206, § 3º, V, DO CÓDIGO CIVIL. AFERIÇÃO DA NATUREZA DA DEMANDA. MATÉRIA FÁTICO-PROBATÓRIA. APLICAÇÃO DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVO EXAME, NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada fundamentada na ausência de prequestionamento dos arts. 18 da Lei n. 11.422/2007 e arts. 2º e 5º da LINDB. Agravo interno provido para reconsiderar tal decisão, ante o prequestionamento do recurso, passando-se a novo exame do apelo nobre.
+2. O Tribunal de origem firmou entendimento de que, na espécie, não se trata de pedido de reparação de danos decorrente do contrato de transporte e, sim, de direito de regresso em reparação civil, regido pelo art. 8º da Lei 11.442/2007, e não pelo art. 18 do referido diploma legal.
+3. O art. 8º da da Lei 11.442/2007 não estabelece prazo específico para prescrição, razão pela qual foi adotada, pela instância ordinária, a regra geral do art. 206, § 3º, V, do Código Civil.
+4. Alterar o entendimento do Tribunal a quo acerca da natureza da demanda, o qual assentou tratar-se direito de regresso em reparação civil, demandaria o revolvimento do suporte fático-probatório dos autos, bem como o reexame de cláusulas contratuais, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas n. 5 e n. 7 do STJ.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame do feito, não conhecer do recurso especial, em face das Súmulas n. 5 e n. 7, ambas do STJ.
+(AgInt no REsp 1496551/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 22/08/2018)
+2. No concernente à afronta ao artigo 3446 e 355 do CPC/15, embora o ora agravante tenha apresentado embargos de declaração, incide, na espécie, o óbice da Súmula 211 do STJ, porquanto ausente o devido prequestionamento, haja vista que as matérias reguladas no aludido dispositivo não foram interpretadas pelo Tribunal de origem, tendo em vista que foi acolhido a alegação de prescrição.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se.
+Intime-se.
