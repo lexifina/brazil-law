@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local, cuja ementa é a seguinte (e-STJ fl. 134):
+AGRAVO EM EXECUÇÃO. FALTA GRAVE. APRESENTAÇÃO DE JUSTIFICATIVA PARA O NÃO RETORNO AO ESTABELECIMENTO PRISIONAL. PEDIDO DE REGRESSÃO DE REGIME. MEDIDA DESPROPORCIONAL. ARTIGO 57 DA LEI DE EXECUÇÃO PENAL. RECURSO DESPROVIDO. - Nos termos do artigo 57 da Lei 7.210/1984, na aplicação das sanções disciplinares levar-se-ão em conta a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão. - Considerando o bom comportamento carcerário do reeducando, seu histórico favorável, os motivos que levaram ao não retorno imediato ao estabelecimento prisional, o comparecimento espontâneo e a ausência de notícia da prática de indisciplina após os fatos, deve ser acolhida a justificativa apresentada pelo condenado e afastada a falta grave.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls, 148/154).
+A parte recorrente, em suas razões recursais, aponta violação dos artigos 37, 50, inciso II, c/c 39, incisos II e V, 118, inciso I, e 125 da Lei n. 7.210/1984. Sustenta que, de fato, a fuga - no caso, reconhecida pelo acórdão embargado - constitui falta grave, uma vez que a justificativa apresentada pelo reeducando de que "não retomou porque ficou sabendo que seu filho adolescente estaria se envolvendo com drogas e em delitos, razão pela qual permaneceu em casa para resolver a situação" (acórdão, fl 108), não pode ser acolhida, uma vez que bastaria a ele comunicar suas preocupações ao estabelecimento no qual estava custodiado para que fosse alcançada a melhor solução para o caso (e-STJ fl. 165).
+Apresentadas contrarrazões (e-STJ fls. 172/177), o recurso especial foi admitido (e-STJ fls. 179/180), manifestando-se o Ministério Público Federal pelo não conhecimento do recurso especial (e-STJ fls. 192/197).
+É o relatório. Decido.
+O recurso não merece acolhida.
+Consta dos autos que o Tribunal local manteve a decisão proferida pelo Juiz de Direito da Vara de Execuções Criminais da Comarca de Ribeirão das Neves, que indeferiu pedido de reconhecimento de falta grave, consistente em suposta fuga.
+Abaixo, trecho do acórdão recorrido (e-STJ fls. 136/137):
+Foi imputada falta grave ao reeducando [NOME], consistente em fuga supostamente cometida em 25/01/2016, quando no gozo de trabalho externo deixou de retornar ao estabelecimento prisional. Ele se entregou espontaneamente em 01/02/2016.
+Ao ser realizada a audiência de justificação, o reeducando afirmou que não retornou porque ficou sabendo que seu filho adolescente estaria se envolvendo com drogas e em delitos, razão pela qual permaneceu em casa para resolver a situação (mídia dos autos).
+O MM. Juiz a quo acolheu a justificativa e, assim, deixou de homologar a falta grave.
+A meu ver, agiu com acerto o d. magistrado de primeira instância.
+É cediço que a execução penal visa à ressocialização dos condenados e, assim, a aplicação de sanções não pode ser fruto de simples operação lógica, mas obedecer às regras da razoabilidade no que tange à necessidade de punição.
+Não por acaso, o artigo 57 da Lei de Execução Penal prevê uma série de parâmetros para determinação de qual sanção disciplinar:
+Art. 57. Na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão.
+No caso dos autos, embora reprovável a conduta do reeducando, entendo que sua gravidade não é suficiente para o reconhecimento de falta grave, com a regressão de regime e perda dos dias remidos.
+Como destacado, ele possui histórico favorável e nos cinco anos de cumprimento de pena anteriores aos fatos ora discutidos não houve anotação de falta grave.
+Além disso, retornou espontaneamente ao sistema prisional e, na data em que a decisão foi proferida, 05/07/2016, já havia se passado mais de 05 meses dos fatos, sem que tivesse sido noticiada qualquer tentativa de fuga ou de prática de falta grave nesse ínterim.
+Portanto, os antecedentes do reeducando, os motivos apresentados e, ainda as circunstâncias e consequências do fato não mostram ter se constituído falta grave, sendo suficiente a advertência aplicada pelo magistrado de primeira instância.
+Ressalto que, sempre que possível, deve ser mantida a decisão proferida pelo Juiz da Execução Penal, próximo aos fatos e em melhores condições de avaliar, num contato direto com o reeducando, a necessidade de sanções mais ou menos rigorosas para a ressocialização do condenado.
+Ora, rever tal conclusão, como requer a parte recorrente, no sentido de que se deve aplicar, no caso, a falta grave, demandaria o revolvimento de matéria fático-probatória dos autos, o que é inviável em sede de recurso especial, por força da incidência da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, e no art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
