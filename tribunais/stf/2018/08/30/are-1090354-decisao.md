@@ -1,0 +1,10 @@
+Decisão: Trata-se de de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo (eDOC 02, p. 141):
+    APELAÇÃO. POLICIAL MILITAR ATIVO. ADICIONAL DE LOCAL DE EXERCÍCIO. SEXTA-PARTE. BASE DE CÁLCULO. VANTAGENS REMUNERATÓ-RIAS NÃO EVENTUAIS. 1. Segundo o teor do art. 129 da Constituição Estadual, a sexta-parte e os adicionais por tempo de serviço devem considerar os vencimentos integrais para a base de cálculo da remuneração. Dela, excluir-se-ão apenas as vantagens de caráter eventual. 2. Adicional de Local de Exercício — Leis Complementares nº 994/2006, 1.020/2007 e 1.114/2010 — Benefício de caráter genérico que deve, por esta razão, servir de base de cálculo às vantagens pleiteadas. 3. Incidente de inconstitucionalidade a respeito da TR como fator de correção monetária não conhecido pelo Órgão Especial desta Corte. 3. Recurso parcialmente provido.
+    De plano, verifica-se que a controvérsia vertida nos autos cinge-se ao Tema 563 da sistemática da repercussão geral, cujo recurso-paradigma é o ARE 675.153, de relatoria do Ministro Ayres Britto, DJe 11.09.2012, assim ementado:
+    “ADMINISTRATIVO. ADICIONAL DE “SEXTA-PARTE”. SERVIDOR PÚBLICO ESTADUAL ESTATUTÁRIO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. Nos termos da jurisprudência do Supremo Tribunal Federal, está circunscrito ao âmbito infraconstitucional o tema atinente à incidência do adicional de “sexta-parte” sobre a integralidade dos vencimentos dos servidores públicos estaduais estatutários. Não havendo, em rigor, questão constitucional a ser apreciada por esta Suprema Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 30 de agosto de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
