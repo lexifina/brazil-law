@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME] e Companhia Ltda. - massa falida, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fl. 268):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. MASSA FALIDA. CONTINUIDADE DAS ATIVIDADES DA EMPRESA. TRIBUTOS. FATOS GERADORES APÓS A DECRETAÇÃO DA FALÊNCIA. CRÉDITOS EXTRACONCURSAIS. MULTA. JUROS. TAXA SELIC. APLICABILIDADE.
+1. O tratamento especial dispensado às dívidas anteriores à quebra, com a isenção de juros e multa moratória, não pode ser estendido àquelas contraídas durante a continuação dos negócios pela massa falida. Isto porque, se massa falida dá continuidade às atividades do falido, deve recolher seus impostos como qualquer outra empresa em funcionamento, não podendo ser beneficiada, sob pena de violação o princípio da livre concorrência, expressamente contemplado pelo art. 170, IV, da Constituição Federal.
+2. Os créditos extraconcursais, por terem relação com atividades desenvolvidas pela massa falida posterior à decretação de falência, além de não entrarem no concurso de preferência não se submetem à exclusão da multa disciplinada no artigo 23, parágrafo único, III, do Decreto Lei nº 7.661/45 ou nas Súmulas 192 e 565 do Supremo Tribunal Federal. O mesmo ocorrendo com os juros.
+3. Sentença mantida.
+Os embargos de declaração (e-STJ, fls. 276/278) foram rejeitados nos termos da decisão de e-STJ, fls. 283/285.
+A recorrente alega, nas razões do especial, a existência de contrariedade aos arts. 515, §§ 1º ao 4º, e 535, II, do CPC/1973. Acena com o dissídio jurisprudencial entre outros tribunais.
+Sustenta que a Corte de origem incorreu em omissão ao deixar de se pronunciar sobre questão essencial à solução da controvérsia.
+Assevera, de outra parte, a impossibilidade da cobrança cumulada - na mesma execução fiscal - de juros de mora e da Taxa Selic, porque se trata de uma taxa mista que embute juros de mora e correção monetária.
+Foram apresentadas contrarrazões às e-STJ, fls. 319/324.
+É o relatório.
+Inicialmente, quanto à alegada violação do art. 535 do CPC/1973, verifico que a parte recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a incidência da Súmula 284/STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. ÔNUS DA PROVA DE PAGAMENTO. FUNDAMENTAÇÃO DEFICIENTE DO ACÓRDÃO RECORRIDO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.267/PB, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/8/2017, DJe 24/8/2017)
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 579.011/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe 3/8/2017)
+Por outro lado, a Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.111.175/SP, submetido à sistemática do art. 543-C do CPC/1973, firmou a orientação no sentido da legalidade da taxa Selic nos cálculos dos débitos dos contribuintes para com a Fazenda Pública Federal, a qual, por ser composta de juros e correção monetária, não pode ser cumulada com qualquer outro índice de atualização.
+Nesse sentido, confiram-se seguintes julgados:
+TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CORREÇÃO DE DÉBITOS TRIBUTÁRIOS. TAXA SELIC. CERTIDÃO DE DÍVIDA ATIVA. REQUISITOS. SÚMULA 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA PARTE, NÃO PROVIDO.
+1. É inadmissível Recurso Especial quanto a questão que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+2. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo 1.111.175/SP (Rel. Min. Denise Arruda, DJe de 1º/7/2009), firmou o entendimento de que "aplica-se a taxa SELIC, a partir de 1º/1/1996, na atualização monetária do indébito tributário, não podendo ser cumulada, porém, com qualquer outro índice, seja de juros ou atualização monetária".
+3. A pretensão de reconhecimento da nulidade da CDA, quando ela exige revolvimento de fatos e provas, é inviável no âmbito do STJ (Súmula 7).
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.679.374/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/8/2017, DJe 12/9/2017)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. ICMS. IMPORTAÇÃO INDIRETA CARACTERIZADA. CONCLUSÃO DIVERSA. SÚMULA 7/STJ. TRIBUTO DEVIDO AO ESTADO ONDE SE LOCALIZA O DESTINATÁRIO FINAL DA MERCADORIA. PRECEDENTES DA 1A. SEÇÃO: AGRG NO ARESP. 3.515/MG, REL. MIN. CESAR ASFOR ROCHA, DJE 06/09/2011 E AGRG NO RESP. 1.141.691/MG, REL. MIN. CASTRO MEIRA, DJE 01/07/2011. REGULARIDADE DA INTIMAÇÃO PARA CONTRA-ARRAZOAR O RECURSO DE APELAÇÃO ADESIVA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO, IN CASU, QUE ESBARRA NO ÓBICE DA SÚMULA 7/STJ. PRECEDENTES. APLICABILIDADE DA TAXA SELIC. QUESTÃO DECIDIDA SOB O REGIME DO ART. 543-C DO CPC E RESOLUÇÃO STJ 08/2008. RESP 1.111.175/SP, REL. MIN. DENISE ARRUDA, DJE 01.07.2009. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Recurso Especial exige, para o seu conhecimento, a cabal demonstração, de forma clara, precisa e objetiva, da ofensa alegada, sendo insuficiente alegações genéricas de malferimento da legislação ordinária, a mera citação de artigos ou o inconformismo com a conclusão adotada, sob pena de incidência da Súmula 284/STF.
+2. O Tribunal a quo afirmou expressamente que constou o nome da procuradora da ora Agravante na intimação para contra-arrazoar o recurso da ora Agravada, o que é suficiente para afastar qualquer assertiva de nulidade.
+3. A Primeira Seção desta Corte possui entendimento pacífico de que, nos casos de importação indireta, o ICMS deve ser recolhido no Estado onde se localiza o destinatário final da mercadoria, sendo irrelevante o fato de a internalização ter ocorrido por estabelecimento intermediário situado em outra Unidade da Federação. Consolidado, ainda, ser inadmissível alterar a conclusão, extraída à luz do contexto fático-probatório carreado aos autos, de que houve a chamada importação indireta, ante o óbice da Súmula 7/STJ. (AgRg AREsp. 3.515/MG, Rel. Min. CESAR ASFOR ROCHA, DJe 06/09/2011 E AgRg REsp. 1.141.691/MG, Rel. Min. CASTRO MEIRA, DJe 01/07/2011).
+4. A Primeira Seção, no julgamento do REsp 1.111.175/SP, em 10.6.2009, feito submetido à sistemática do art. 543-C do CPC, reafirmou entendimento no sentido da legalidade da taxa Selic nos cálculos dos débitos dos contribuintes para com a Fazenda Pública Federal, a qual, por ser composta de juros e correção monetária, não pode ser cumulada com qualquer outro índice de atualização.
+ ..
+7. Agravo Regimental desprovido.
+(AgRg no REsp 1.163.447/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/12/2011, DJe 8/2/2012)
+Assim, "a taxa Selic não pode ser cumulada com qualquer outro índice, seja de atualização monetária, seja de juros, porque ela inclui, a um só tempo, o índice de inflação do período e a taxa real de juros" (REsp 1.293.164/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma,DJe 9/12/2011).
+Ante o exposto, conheço em parte do recurso e dou-lhe provimento, nos termos da fundamentação, para fixar o entendimento de que a taxa Selic não pode ser cumulada com qualquer outro consectário (atualização monetária ou juros).
+Publique-se. Intimem-se.
