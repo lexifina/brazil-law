@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de carta rogatória pela qual a Justiça norte-americana solicita que se proceda à citação de JBS S.A. de "denúncia de violação de leis federais de valores mobiliários" (fl. 203), nos autos n.º 17-cv-4019, segundo o texto rogatório.
+A intimação prévia foi recebida no endereço indicado na comissão, como se vê do documento postal de fls. 337-338.
+A parte Interessada, por intermédio de seus patronos, apresentou impugnação às fls. 340-383. Argumentou que:
+"6. Ocorre que a presente ordem de citação internacional não pode ser recebida pela Justiça brasileira, pelo simples e bom motivo de que o juízo norte-americano não tem competência para processar e julgar a ação de origem, nem tampouco para determinar a ordem de citação. Como se verá em seguida, o juízo competente para processar e julgar a class action é inequivocamente o juízo arbitral, sendo ele também competente para expedir
+a ordem de citação que se pretende executar no território nacional.
+ ..
+7. Nos termos do art. 963, I, do CPC, não deve ser concedido o exequatur à carta rogatória relativa à decisão judicial proferida por juiz incompetente. Segundo o mesmo diploma legal, a existência de cláusula compromissória arbitral é suficiente para retirar do magistrado a competência para julgar a causa, posto que o seu reconhecimento pelo juiz implica a extinção do processo sem julgamento de mérito (art. 485, inciso VII, do CPC).
+8. O Estatuto Social da JBS contém cláusula compromissória arbitral, elegendo a arbitragem pela Câmara de Arbitragem do Mercado ("CAM") como único mecanismo de resolução de conflitos societários envolvendo a Companhia, seus acionistas, administradores e membros do conselho fiscal." (fls. 341-342)
+O Ministério Público Federal, em parecer às fls. 386-387, opinou pela devolução do processo à origem.
+Em seguida, a Interessada colacionou procuração aos autos (fls. 390-424).
+É o relatório.
+Decido.
+De início, verifica-se que o julgamento em análise não compete exclusivamente à autoridade judiciária brasileira, nos termos do art. 23 do Código de Processo Civil.
+Ao contrário do que alega a Defesa, a declaração de incompetência da Justiça norte-americana e o exame da matéria sujeita à arbitragem estão vinculados ao contrato firmado entre as partes. Nesse contexto, a questão se relaciona ao mérito da demanda em curso no Juízo rogante, razão pela qual entendo que transcende os limites estabelecidos no art. 216-Q, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, o que impede seu exame por este órgão julgador.
+Além disso, destaca-se que " o  mero procedimento citatório não produz qualquer efeito atentatório à soberania nacional ou à ordem pública, apenas possibilita o conhecimento da ação que tramita perante a justiça alienígena e faculta a apresentação de defesa" (AgRg na CR nº. 10.849-7, relator Ministro Maurício Corrêa, DJU de 21/5/2004).
+A diligência para simples citação não constitui ofensa à soberania nacional ou à ordem pública, como se observa do seguinte precedente desta Corte Especial:
+"CARTA ROGATÓRIA. AGRAVO REGIMENTAL. APLICAÇÃO DOS ARTS. 214, § 1º, DO CÓDIGO DE PROCESSO CIVIL E 13, § 3º, DA RESOLUÇÃO N. 9 DE 2005 DESTE TRIBUNAL. PRECEDENTES DESTA CORTE. ALEGADA NECESSIDADE DE TRADUÇÃO JURAMENTADA DOS DOCUMENTOS. COMISSÃO QUE TRAMITOU PELA AUTORIDADE CENTRAL. APONTADA VIOLAÇÃO DA ORDEM PÚBLICA E DA SOBERANIA NACIONAL. CITAÇÃO. ATO DE COMUNICAÇÃO PROCESSUAL. Nos termos da jurisprudência desta Corte, é dispensável a remessa da carta rogatória à Justiça Federal após a concessão do exequatur, quando a parte interessada é considerada citada em razão do comparecimento aos autos para apresentar impugnação. A comissão tramitou pela autoridade central brasileira, o que dispensa a tradução juramentada no Brasil. Ademais, objetiva a realização de citação, ato de comunicação processual no qual não se vislumbra violação da ordem pública nem da soberania nacional. Agravo regimental improvido." (AgRg na CR 5.490/EX, Relator Ministro Ari Pargendler, DJe de 6/6/2012 - grifei)
+O objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c.c. o 216-P do Regimento Interno do Superior Tribunal de Justiça, CONCEDO O EXEQUATUR.
+Diante do êxito na intimação prévia da parte Interessada e a manifestação de fls. 345-388, considero consumado o objeto da comissão, mostrando-se desnecessária a remessa dos autos à Justiça Federal.
+Assim, tendo em vista o seu devido cumprimento e com fulcro no art. 216-X do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
