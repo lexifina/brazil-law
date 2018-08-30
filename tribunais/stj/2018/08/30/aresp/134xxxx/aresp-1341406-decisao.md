@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado do Paraná (TJ-PR), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação indenizatória proposta por [NOME] em desfavor de [NOME].
+O il. Magistrado julgou improcedente o pedido (sentença às fls. 542/550).
+Diante disso, [NOME] [NOME] interpôs apelação, a qual foi desprovida pelo eg. TJ-PR, nos termos do v. acórdão, assim ementado (fl. 593):
+"AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL. ACIDENTE DE TRÂNSITO ENVOLVENDO O AUTOR E O PRIMEIRO RÉU, CONDUTOR DO VEÍCULO PERTENCENTE AO SEGUNDO. IMPROCEDÊNCIA DO PEDIDO. INSURGÊNCIA DO AUTOR. INEXISTÊNCIA DE ATO ILÍCITO NO CASO CONCRETO (CC, ART. 186). ELEMENTOS PROBATÓRIOS - BOLETIM DE ACIDENTE DE TRÂNSITO E PROVA TESTEMUNHAL - QUE COMPROVAM A IMPRUDÊNCIA DO AUTOR/CONDUTOR. INVASÃO DA PISTA CONTRÁRIA. CAUSA PRIMÁRIA DO ACIDENTE. INOBERSERVÂNCIA DO DEVER GERAL DE CAUTELA (CTB, ART. 28). PARTE QUE NÃO SE DESINCUMBIU DO ÔNUS QUE LHE CABIA (CPC, ART. 373, INCISO I). RECURSO NÃO PROVIDO".
+Inconformado, [NOME] LUIZ [NOME] interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, ofensa dos arts. 28, 37, 186,1 e 204 do CTB; do art. 186 do CC/02; e do art. 373, incisos I e II, do CPC/2015.
+Como dito, o apelo nobre foi inadmitido às fls. 653/654.
+Irresignado, [NOME] LUIZ [NOME] manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (certidão de fl. 683).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No apelo nobre que pretende trânsito, sustenta o recorrente violação dos arts. 28, 37, 186,1 e 204 do CTB; do art. 186 do CC/02; e do art. 373, incisos I e II, do CPC/2015, ao argumento de que a responsabilidade pelo acidente de trânsito seria do recorrido. O recurso, contudo, não merece prosperar. Isso porque o eg. TJ-PR, mediante análise soberana das provas carreadas aos autos, concluiu que o acidente ocorreu por culpa exclusiva do recorrente. À título elucidativo, colacionam-se os seguintes excertos do v. acórdão estadual (fls. 595/):
+"Extrai-se da análise conjunta dos elementos probatórios constantes nos autos, especialmente o Boletim de Acidente de Trânsito e as oitivas das testemunhas arroladas, que o autor não adotou as cautelas necessárias na condução de seu veículo (CTB, art. 28) e que o sinistro ocorreu exclusivamente por sua culpa. Impõe-se mencionar que dois elementos são relevantes e conclusivos à constatação da causa determinante do acidente e à conduta imprudente do autor.
+O primeiro elemento é a descrição contida no referido documento policial (fl. 15/25), que goza de presunção de veracidade por ser confeccionado por terceiro imparcial, com fé pública e instantes após a ocorrência do sinistro: "Conforme declarações dos condutores e de testemunha, levantamento e vestígios no local, o condutor de vl transitava na contramão de direção pois teve sua visão ofuscada pelo sol e ao retornar para o lado correto da rodovia, foi colidido por v2 que tentou desviar para evitar a colisão" (sic).
+(..)
+O segundo elemento a ser levado em consideração é o minucioso relato da testemunha [NOME], que, com exceção do referido agente policial, aparentemente é a única pessoa a ter presenciado o sinistro". (grifado no original)
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à culpa exclusiva do recorrente, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Outrossim, o recurso também não merece prosperar quanto à divergência jurisprudencial, pois a incidência da Súmula n. 7/STJ pela alínea "a" impede a análise do apelo nobre pela alínea "c" do permissivo constitucional.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de 10% (dez por cento) para 11% (onze por cento), cuja exigibilidade ficará suspensa, conforme art. 98, § 3º, do CPC/2015.
+Publique-se.
