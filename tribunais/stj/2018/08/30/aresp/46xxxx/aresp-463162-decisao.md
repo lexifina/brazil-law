@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra acórdão do TJMG assim ementado (e-STJ fl. 168):
+AGRAVO DE INSTRUMENTO - AÇÃO COM PRETENSÃO DE COBRANÇA - COMPLEMENTAÇÃO DE APOSENTADORIA - COMPETÊNCIA DA JUSTIÇA COMUM - ANTECIPAÇÃO DE TUTELA DEFERIDA - PRESENÇA DOS REQUISITOS. A competência para conhecer e dirimir questão relativa à complementação dos proventos de aposentadoria, como o auxílio cesta-alimentação concedido aos funcionários da ativa, é da Justiça Comum, já que a questão é amparada no regulamento da entidade de previdência privada. Os requisitos da antecipação de tutela são aqueles dispostos no art. 273 do CPC, ou, verossimilhança da alegação e o fundado receio de dano irreparável ou de difícil reparação uma vez não concedido o pleito da parte. Restante o suficientemente configurado nos autos os requisitos ensejadores a justificar a concessão da liminar pretendida, imperioso se faz o seu deferimento.
+A agravante, CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI, intimada a se manifestar se persistia o interesse no julgamento do recurso especial (e-STJ fl. 269) manteve-se silente, conforme certidão de fl. 271 (e-STJ).
+Tendo em vista a inércia da recorrente, que deixou transcorrer in albis o prazo assinalado, bem como o julgamento da ação de cobrança a qual está vinculado o presente feito (processo n. 0145.09.570.017-8), constata-se a superveniente falta de interesse processual por perda de objeto.
+Ante o exposto, JULGO PREJUDICADO o recurso por perda de objeto.
+Publique-se e intimem-se.
