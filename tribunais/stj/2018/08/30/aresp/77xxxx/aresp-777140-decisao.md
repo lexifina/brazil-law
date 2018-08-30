@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto por HERIVELTON DOS SANTOS JACOBI e outra contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ e ausência de prequestionamento (e-STJ fls. 296/306).
+O acórdão recorrido está assim ementado (e-STJ fl. 254):
+EMBARGOS INFRINGENTES. INTERESSE DE AGIR. VOTO DIVERGENTE NÃO MODIFICADO EM EMBARGOS DE DECLARAÇÃO. RESPONSABILIDADE CIVIL. ARROMBAMENTO DE VEÍCULO E FURTO DE OBJETOS. DANOS MORAIS. INOCORRÊNCIA.
+1. Caso em que o voto divergente da Presidente/Revisora não restou modificado pelo acolhimento de Embargos de Declaração com efeitos infringentes em ponto diverso da discordância. Quanto aos danos morais, foi sanada omissão do acórdão que julgou a Apelação. Voto da revisora mantido, no mérito, acerca do pedido de indenização por danos extrapatrimoniais.
+2. Furto de objetos no interior de veículo estacionado em supermercado. A subtração de pertences da parte autora é questão a ser resolvida na seara material, não restando comprovada qualquer lesão a direito de personalidade do consumidor. Precedentes.
+DERAM PROVIMENTO AOS EMBARGOS INFRINGENTES.
+Os embargos de declaração foram rejeitados (e-STJ fls. 270/275).
+Nas razões do recurso especial (e-STJ fls. 279/287), fundamentado no art. 105, III, "a", da CF, os recorrentes alegaram ofensa aos arts. 186 e 927 do CC/2002 e 6º, VI, e 14 do CDC pela ocorrência de furto de veículo em estacionamento de supermercado, devendo ser indenizados pelo dano moral.
+Defenderam ser os proprietários do veículo, independente da transferência formal junto à autoridade de trânsito, nos termos dos arts. 1.226 e 1.267 do CC/2002.
+No agravo (e-STJ fls. 310/315), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 319/324).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito da existência de dano moral em virtude de furto de automóvel em estacionamento de supermercado, a Turma julgadora considerou (e-STJ fls. 257/258):
+Nesse ponto, entendo que o furto de objetos e os incômodos decorrentes do evento em questão são insuficientes para acarretar lesão à personalidade do indivíduo, bem como não traduzem ofensa à sua honra.
+A situação, embora desagradável, não ultrapassa o campo dos incômodos e aborrecimentos.
+Para caracterizar o dano moral, impõe-se seja a parte vítima de uma situação tal que caracterize verdadeira dor e sofrimento, sentimentos esses capazes de incutir transtorno psicológico ou abalo que exceda a normalidade. O vexame, humilhação ou frustração devem interferir de forma intensa, causando aflições, angústia e desequilíbrio ao bem-estar da pessoa, o que não se verifica na espécie.
+In casu, as circunstâncias do furto não são extravagantes a ponto de autorizar a condenação da parte-ré ao pagamento de indenização por dano moral.
+Sobre o caso, a decisão do Tribunal de origem está em consonância com julgado desta Corte quanto ao tema. Anote-se:
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. FURTO DE VEÍCULO EM ESTACIONAMENTO DE SUPERMERCADO. LEGÍTIMA EXPECTATIVA DE SEGURANÇA POR PARTE DO CONSUMIDOR. AUSÊNCIA DE CIRCUNSTÂNCIAS CONCRETAS APTAS AO RECONHECIMENTO DA RESPONSABILIDADE CIVIL DO FORNECEDOR. RECURSO EXCLUSIVO DO CONSUMIDOR. DANOS MATERIAIS MANTIDOS EM RAZÃO DO PRINCÍPIO DO NON REFORMATIO IN PEJUS.
+1. Ação ajuizada em 25/10/2007. Recurso especial interposto em 22/02/2012 e atribuído a esta Relatora em 26/08/2016. Julgamento: CPC/1973.
+2. O propósito recursal consiste em definir se o furto de veículo pertencente a consumidor nas dependências do estacionamento fornecido por supermercado configura dano moral indenizável. Antes, porém, de examinar o cabimento da compensação por danos morais na hipótese, faz-se necessário avaliar se está caracterizada a responsabilidade civil do estabelecimento pelo evento danoso.
+3. Tradicionalmente, a jurisprudência desta Corte entende que os estabelecimentos comerciais e congêneres que fornecem estacionamento aos veículos de seus clientes respondem objetivamente por danos, furtos ou roubos. O entendimento - que foi consolidado na Súmula 130/STJ - é de que a disponibilização do estacionamento constitui mecanismo de captação de clientela para o estabelecimento, que, em troca dos benefícios indiretos que aufere, deve zelar pela segurança dos veículos dos consumidores, suportando os riscos inerentes à comodidade oferecida. 4. Contudo, essa orientação, que se fundamenta na teoria do risco-proveito, acaba por, automaticamente e sem quaisquer outras considerações, transferir o risco de dano ou subtração do veículo para o mantenedor do estacionamento, risco esse que, a princípio, é do proprietário do bem.
+5. Além disso, a teoria do risco-proveito, aplicada sistematicamente, implica a presunção de que o risco assumido por qualquer estabelecimento, assim como o proveito decorrente do estacionamento, é uniforme e invariável, o que não condiz com a realidade econômica-social, tão dinâmica e multifacetada.
+6. Nesse contexto, entende-se que a responsabilidade do estabelecimento por danos ou subtrações de veículos em estacionamentos deve ser aferida casuisticamente, cabendo ao julgador investigar se o conjunto das circunstâncias concretas do estabelecimento e seu estacionamento são aptas a gerar, no consumidor-médio, razoável expectativa de segurança.
+7. Se esse conjunto de circunstâncias, objetivamente consideradas, indicar que havia razoável expectativa de segurança por parte do consumidor-médio, a responsabilidade do estabelecimento ou instituição estará configurada, assentando-se o nexo de imputação na frustração da confiança a que fora induzido o consumidor.
+8. Dentre as circunstâncias relevantes, podem ser citadas (sem qualquer intuito de exaurimento): pagamento direto pelo uso do espaço para estacionamento; natureza da atividade exercida (se empresarial ou não, se de interesse social); ramo do negócio; porte do estabelecimento; nível de acesso ao estacionamento (fato de o estacionamento ser ou não exclusivo para clientes ou usuários do serviço); controle de entrada e saída por meio de cancelas ou entrega de tickets; aparatos físicos de segurança na área de parqueamento (muros, cercas, grades, guaritas e sistema de vídeo-vigilância); presença de guardas ou vigilantes no local; nível de iluminação.
+9. No particular, contudo, verifica-se a ausência de circunstâncias concretas relativas ao modo de operação do supermercado e do estacionamento contíguo, sem as quais não é possível aferir eventual violação da razoável expectativa de segurança do consumidor na hipótese, de modo a legitimar a responsabilização do estabelecimento.
+10. Não obstante, em homenagem ao princípio do non reformatio in pejus e considerando que o recurso especial foi interposto exclusivamente pelo consumidor, mantém-se a condenação do supermercado ao pagamento dos danos materiais.
+11. Recurso especial não provido.
+(REsp 1426598/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/10/2017, DJe 30/10/2017 - grifei.)
+Sob outro aspecto, tendo a Turma julgadora considerado inexistente os danos morais no caso em tela, com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS RECONHECIDOS COM BASE NA ANÁLISE FÁTICA DA CAUSA. VALORES ESTABELECIDOS PARA OS DANOS MORAIS E MATERIAIS COM SUPORTE NOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ.
+INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem assentou, com base nas provas dos autos, a ocorrência de danos morais e materiais. Modificar referida conclusão demanda a incursão na seara probatória, o que é vedado em recurso especial.
+2. Nos termos da jurisprudência consolidada do STJ, a revisão de indenização por danos morais e materiais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, como ora se apresenta, incide a Súmula 7 do STJ, a impedir o conhecimento do recurso.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 781.358/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/11/2015, DJe 1/12/2015.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ROUBO A CLIENTE EM ESTACIONAMENTO DE SUPERMERCADO. PROCEDÊNCIA. APELO NOBRE. (1) RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. (2) OFENSA AO ART. 14, § 3º, DO CDC. FORTUITO EXTERNO. EXCLUDENTE DE ILICITUDE QUE NÃO SE VERIFICA. REFORMA DO JULGADO. SÚMULA Nº 7 DO STJ. (3) DISSÍDIO JURISPRUDENCIAL. ACÓRDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO FIRMADA NESTA CORTE. SÚMULA Nº 130 DO STJ.
+(..)
+2. Reconhecida pelas instâncias ordinárias ocorrência de dano material e moral pelo roubo de veículo no estacionamento do estabelecimento comercial, a revisão do tema recai no óbice da Súmula nº 7 do STJ.
+(..)
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 725.984/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/6/2016, DJe 1/7/2016.)
+Os arts. 1.226 e 1.267 do CC/2002 não foram prequestionados. A ausência de debate prévio da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso, diante da incidência da Súmula n. 211 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
