@@ -1,0 +1,42 @@
+Trata-se de habeas corpus impetrado em favor de Carlos Eduardo da Silva contra decisão da Ministra Maria Thereza de Assis Moura do Superior Tribunal de Justiça - STJ, que indeferiu liminarmente o HC 438.672/CE.
+    Segundo a Ministra Relatora do STJ,
+    “Colhe-se dos autos que o paciente foi preso em flagrante em 26.10.2017, sob a imputação de cometimento dos crimes previstos no art. 16 da Lei 10.826/03 e no art. 288 do Código Penal. A custódia foi convertida em preventiva, nestes termos (fls. 88/90):
+    ‘De acordo com a nova redação do artigo 310 do Código de Processo Penal, dada pela Lei 12.403/2011, o magistrado ao ser comunicado do ato de prisão deverá analisar a possibilidade de aplicação de medidas alternativas à prisão.
+    Isto porque a prisão processual é medida de exceção e se justifica quando a providência for necessária à garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, existentes provas da existência do crime e indícios suficientes de autoria.
+    Necessário se faz, portanto, averiguar minuciosamente a possibilidade de se conceder liberdade provisória com ou sem fiança; de relaxar a prisão, aplicar as medidas cautelares do artigo 319 do CPP ou ainda converter a prisão em flagrante em preventiva, caso estejam presentes os requisitos ensejadores desta medida.
+    Inicialmente, convém esclarecer que o art. 14, parágrafo único da Lei n° 10.826/2003 assim dispõe:
+    (…)
+    Contudo, em sede da ADIN n° 3112/DF, foi declarada pelo eg. STF a inconstitucionalidade do supracitado parágrafo único, conforme trechos abaixo colacionados, verbis:
+    (…)
+    Assim sendo, o crime de porte ilegal de arma de fogo de uso permitido passou ser afiançável (pena: reclusão de 2 a 4 anos), desde que ausentes os requisitos autorizadores da prisão preventiva.
+    No presente caso, contudo, considero presentes os requisitos autorizadores da manutenção da prisão preventiva dos réus, senão vejamos:
+    No caso em análise, constata-se que há provas da existência do crime (Auto de Apresentação e Apreensão) e indícios suficientes de autoria (depoimentos de testemunhas); os indiciados foram encontrados de posse do armamento, dentro do veículo em que trafegavam após terem sido abordados por policiais; o crime praticado envolve grave e concreto risco social, pois vêm se alastrando pelas cidades interioranas deste Estado uma "onda" de delitos contra o patrimônio praticados pela formação de quadrilhas ou associações criminosas, cuja atuação regular da polícia local tenta a todo custo conter.
+    Com efeito, entendo que a soltura dos indiciados importará risco à ordem pública e à aplicação da lei penal, pela possibilidade concreta de reiteração criminosa, o que geraria a intranquilidade da sociedade desta cidade e abalaria a própria credibilidade das autoridades constituídas, notadamente do Poder Judiciário.
+    Apenas para ilustrar, confira-se o seguinte precedente do Eg. STF, verbis:
+    (…)
+    Ante o exposto, com fulcro nos artigos 310 a 315 do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE EM PREVENTIVA, ao tempo em que DECRETO a custódia preventiva de FRANCISCA WANDERLANE DA SILVA MACHADO, JOSÉ ADRIANO VIEIRA EDUARDO DE LIMA, ANTÔNIO ROMÁRIO FERREIRA E MORAIS E CARLOS EDUARDO DA SILVA, já qualificados nos autos.
+    Impetrado o prévio mandamus, foi indeferida a liminar, in verbis (fls. 36/37):
+    ‘A medida liminar em sede de Habeas Corpus não tem previsão legal expressa, tal qual em mandado de segurança, constituindo-se em ato jurisdicional sui generis, fruto de construção jurisprudencial, mas não se perfaz em direito subjetivo da parte.
+    Aliás, esse provimento acautelatório está adstrito à discricionariedade do magistrado, em situações de extrema urgência, quando patente abuso de poder ou manifesta ilegalidade, portanto, quando são evidenciados, simultaneamente, o fumus boni júris a legitimar o direito do Paciente e o periculum in mora a ameaçar a pretensão autoral.
+    O caso em apreço, porém, não se enquadra nas hipóteses excepcionais, passíveis de deferimento do pedido em caráter de urgência, já que a medida liminar postulada possui natureza satisfativa, em que o pleito coincide com o próprio mérito da impetração.
+    Desta forma, em análise não exaustiva da documentação coligida aos autos, bem como em atenção à argumentação sustentada para a concessão da medida liminar, não visualizo a presença de requisitos capazes de justificar o deferimento in limine da tutela requerida.
+    Pelo exposto, indefiro o pedido liminar.’
+    Insurge-se o impetrante contra a prisão preventiva do paciente, decretada "em decisão formulário, absolutamente desprovida de qualquer elemento empírico, onde sequer se descreveu minimamente o fato imputado ao paciente, limitando-se a mencionar os artigos pelo qual foi autuado, tecendo comentários sobre o instituto da prisão preventiva, sobre a mitigação do princípio da presunção de inocência e afirmando simploriamente entender estarem presentes os requisitos autorizadores".
+    Afirma que, passados quase 100 (cem) dias da decisão que indeferiu a liminar, que fixou o prazo de 10 (dez) dias para as informações, nada veio aos autos, razão pela qual foi proferido despacho pela Relatora, em 7.2.2018, intimando juízo para prestar informações no prazo improrrogável de 48 horas.
+    Defende que a prisão não pode prosperar, dada a falta de fundamentação concreta do decreto. Informa as condições pessoais favoráveis do paciente (primariedade, ocupação lícita e residência fixa).
+    Requer, liminarmente e no mérito, garantir a liberdade do paciente, ou a aplicação de medidas cautelares alternativas.” (grifos do original).
+    Ao analisar o writ, o pedido foi indeferido liminarmente, com aplicação da Súmula 691/STF e pelo fato de que
+    “[o] magistrado de primeiro grau invocou a prática do crime por associação criminosa, com atuação regular, que indica o concreto risco de reiteração criminosa. Tal motivação, primo oculi, parece concreta e não indica ilegalidade flagrante. Há de se respeitar a sequência dos atos processuais, notadamente a competência de cada tribunal, não podendo esta Corte se substituir ao colegiado de origem para conceder uma liminar que lá foi devidamente negada, com exposição de fundamentos bastantes.”
+    Contra a referida decisão é o presente writ, no qual a defesa sustenta que,
+    “[a]o contrário do afirmado na decisão ora atacada a flagrante ilegalidade é clara e cristalina, uma vez que a d. Autoridade de 1º grau não fundamentou a decisão, absolutamente carecida de idoneidade, argumento a existência de ‘uma onda de violência’ em ‘cidades interioranas’. É importante destacar que este argumento não pode ser circunstância justificadora da decretação preventiva, já que não passa de mera suposição da MM. Juíza de primeiro grau, e ainda baseado em uma elementar do tipo” (pág. 7 do documento eletrônico 1).
+    Requer, por fim, a concessão da ordem de habeas corpus para revogar o decreto de prisão preventiva, superando a Súmula 691/STF.
+    É o relatório. Decido.
+    Como se vê, a presente impetração volta-se contra decisão monocrática da Ministra Maria Thereza de Assis Moura, que indeferiu liminarmente o pedido de habeas corpus.
+    Ocorre que a Constituição Federal atribui ao Supremo Tribunal Federal a competência para processar e julgar, originariamente, o habeas corpus, quando o coator for Tribunal Superior (art. 102, I, i, da CF/1988).
+    Desse modo, este pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo seu colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte. Do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento a este writ. Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 30 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
