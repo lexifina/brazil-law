@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de Itapetininga/SP, no processo nº 0000124-89.2018.8.26.0571, converteu em preventivas as prisões em flagrante do paciente e de outras duas pessoas, ocorridas no dia 27 de janeiro de 2018, ante a suposta prática das infrações descritas nos artigos 33, cabeça (tráfico de drogas), e 35 (associação para o tráfico) da Lei nº 11.343/2006. Destacou haver prova da materialidade – consubstanciada na apreensão de 21 tijolos de maconha, pesando 19.750 gramas, e 1 porção de cocaína, com 0,15 gramas – e indícios de autoria dos delitos. Frisou indispensável a custódia para garantir a ordem pública, aludindo ao sentimento de impunidade, à necessidade de resguardar o meio social e à hediondez do crime. Afastou a viabilidade de medida cautelar alternativa, tendo-a como inadequada.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 446.288/SP. A Sexta Turma indeferiu a ordem.
+    O impetrante aponta o excesso de prazo da preventiva, a perdurar por mais de 7 meses. Aduz não atribuível a demora à atuação da defesa. Sustenta a inidoneidade da fundamentação do ato mediante o qual implementada a preventiva, ressaltando não veiculados dados concretos. Articula com a ofensa ao artigo 93, inciso IX, da Constituição Federal e aos princípios da dignidade da pessoa humana e da não culpabilidade. Sublinha a possibilidade de imposição de medida versada no artigo 319 do Código de Processo Penal.
+    Requer, no campo precário e efêmero, a concessão de liberdade provisória, cumulada ou não com cautelar diversa. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 29 de agosto de 2018, revelou apresentadas as alegações finais, estando o processo concluso para sentença.
+    Vossa Excelência, no dia 14 de maio de 2018, deixou de acolher o pedido liminar no habeas de nº 156.582/SP, assentando a subsistência dos fundamentos da custódia.
+    A etapa é de apreciação da medida acauteladora.
+    2. Conforme fiz ver no habeas corpus nº 156.582/SP, a prisão em flagrante e a gradação do tráfico de drogas, tendo em conta a quantidade e a natureza dos entorpecentes encontrados – 21 tijolos de maconha pesando 19.750 gramas e 0,15 grama de cocaína –, demonstram estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente a decisão atacada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que o paciente encontra-se recolhido, sem culpa formada, desde o dia 27 de janeiro de 2018, ou seja, há 7 meses e 3 dias. Surge o excesso de prazo considerada a prisão provisória e o estágio do processo-crime, porquanto ainda não prolatada sentença. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento mediante o qual implementada, em execução antecipada de sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre preso por motivo diverso da custódia preventiva determinada no processo nº 0000124-89.2018.8.26.0571, que passou a tramitar, após o recebimento da inicial acusatória, na Primeira Vara Criminal da Comarca de Capão Bonito/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Ante a vinculação deste habeas corpus com o de nº 156.582/SP, providenciem o apensamento dos processos.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 30 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
