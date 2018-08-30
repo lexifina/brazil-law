@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], inconformado com a decisão que inadmitiu o recurso especial contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul e assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. TÍTULO COLETIVO FORMADO EM AÇÃO CIVIL PÚBLICA. CÉDULA DE CRÉDITO RURAL. EXECUÇÃO PROVISÓRIA DE AÇÃO CIVIL PÚBLICA N. 94.008514-1. INDEXADOR. BTN. INTERESSE DE AGIR.
+AUSENTE.
+1. O presente cumprimento provisório de sentença tem por finalidade a execução do julgado no REsp nº 1.319.232/DF, originário da Ação Civil Pública nº 0008465-28.1994.4.04.3400, o qual declarou que o índice de correção monetária aplicável às cédulas de crédito rural, no mês de março de 1990, nas quais prevista a indexação aos índices de caderneta de poupança, foi a variação da BTN no percentual de 41,28%.
+2. O contrato executado nos autos não possui cláusula de reajuste pelos índices aplicáveis as cadernetas de poupança e, sim, com base na variação plena do valor nominal do Bonus do Tesouro Nacional - BTN. Logo, resta evidenciada a falta de interesse de agir do exeqüente, uma vez que o bem da vida por ele pretendido não se amolda ao título executivo formado pelo julgamento da Ação Civil Pública nº 0008465- 28.1994.4.04.3400.
+Nas razões do recurso especial, o ora agravante aponta ao Decreto Lei n. 2.284/1986, à Lei n. 7.777/1989 e a Lei n. 8.177/1991. Nessa linha, requer o provimento do presente recurso no sentido de declarar válidas as cédulas rurais que tinha como índice ORTN ,OTN e BTNF(indexadores da poupança). Aponta, ainda, dissídio jurisprudencial sobre o tema.
+É o relatório.
+Não se pode conhecer do recurso pela alínea "a" do permissivo constitucional. A ausência de indicação do dispositivo considerado violado atrai, por analogia, o Enunciado Sumular n. 284 do STF. Nesse sentido, leiam-se estes precedentes:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. TERMO FINAL DO PENSIONAMENTO. SÚMULA 284/STF. DANOS MORAIS. VALOR RAZOÁVEL.
+1. Segundo o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). Ressalva do ponto de vista pessoal da Relatora.
+2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da CF não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1432383/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE TÍTULO DE CRÉDITO CUMULADO COM INEXISTÊNCIA DE DÉBITO. EXIGÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STF E 282/STF. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. FALTA DE INDICAÇÃO EXPRESSA DE DISPOSITIVO DE LEI CONSIDERADO VIOLADO. SÚMULA 284/STF. RECURSO NÃO PROVIDO.
+1. Na via especial, a configuração do prequestionamento é requisito indispensável ao conhecimento da matéria. Incidência das Súmulas 211/STJ e 282/STF.
+2. Não se admite o reexame de provas em sede de recurso especial.
+Inteligência do enunciado da Súmula 7/STJ.
+3. A falta de indicação expressa de dispositivo de lei considerado violado configura fundamentação deficiente, circunstância que atrai o óbice da Súmula 284/STF.
+4. Agravo regimental não provido.
+(AgRg no AREsp 505.689/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Impossível, ainda, conhecer do especial interposto com fundamento na alínea c do artigo 105, III, da Constituição Federal, porquanto, mesmo nesses casos, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, sob pena de atração do Enunciado Sumular n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente). Nesse sentido, ganham relevância os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - DELIBERAÇÃO MONOCRÁTICA QUE RECONSIDEROU DECISÃO ANTERIORMENTE PROFERIDA, PARA CONHECER DO RECLAMO A FIM DE NEGAR SEGUIMENTO AO RECURSO ESPECIAL, ANTE A INCIDÊNCIA DA SÚMULA 284/STF. INSURGÊNCIA DOS DEMANDADOS.
+1. Nos termos do art. 52, I e IV, "a" do RISTJ, não há nulidade no exercício do juízo de retratação pelo novo relator, quando do julgamento de agravo regimental. Precedentes.
+2. A ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+3. Agravo regimental desprovido (AgRg no AgRg no Ag 1155444/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
