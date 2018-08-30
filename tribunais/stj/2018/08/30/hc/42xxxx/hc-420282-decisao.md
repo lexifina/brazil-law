@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALESSANDRO GONÇALVES DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Rio de Janeiro (relatora a Desembargadora Rosita Maria de Oliveira Netto).
+Consta dos autos ter sido o paciente pronunciado pela suposta prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal.
+Irresignada, a defesa recorreu, tendo o Tribunal de origem negado provimento ao recurso em sentido estrito (e-STJ fls. 15/31).
+No presente writ, sustenta a impetrante constrangimento ilegal no fato de a confissão extrajudicial, não confirmada em juízo, ter sido admitida "como elemento de convicção hábil a ensejar a pronúncia do Réu" (e-STJ fl. 4).
+Afirma que não foi observado o comando do art. 186 do Código de Processo Penal, na medida em que "o acusado teria confessado, perante a Autoridade Policial, a autoria da infração penal (indexadores 000069 e 000070), mas se pode observar no Termo de Declaração que o Paciente não foi informado acerca do direito de permanecer em silêncio, o que, evidentemente, conduz à ilicitude do elemento de convicção" (e-STJ fl. 5).
+Destaca que "nos crimes de competência do Tribunal do Júri devem ser redobradas as cautelas na produção de provas, em virtude do sistema da íntima convicção, em que não é possível aferir o grau de influência que tais provas, uma a uma, exercem sobre a tomada de decisão dos jurados, motivo pelo qual devem ser inutilizadas as obtidas por meios ilícitos ou aquelas que, à evidência, carecem das formalidades legais, como sucedido no caso em comento" (e-STJ fls. 5/6).
+Insurge-se, ainda, contra a manutenção da prisão preventiva por ocasião da prolação da sentença de pronúncia, visto que ausentes os imprescindíveis indícios de autoria. Para tanto, argumenta que o único indício de autoria que milita em desfavor do paciente é a aludida confissão extrajudicial, já que "a única testemunha presencial do delito ([NOME]) não reconheceu o acusado, seja em sede policial, seja em juízo, sendo certo que em suas declarações em sede policial forneceu descrição incompatível com a raça do acusado e não mencionou a existência de uma imensa tatuagem que o recorrente ostenta em sua face" (e-STJ fl. 11). Logo, "caso seja acolhido o pleito de desentranhamento da confissão extrajudicial supostamente prestada pelo acusado resta abalado o fumus comissi delicti, porquanto inexistentes os indícios suficientes de autoria a autorizarem medida tão gravosa" (e-STJ fl. 11).
+Aduz, por fim, a "nulidade da pronúncia em razão da falta de fundamentação e da referência de crime conexo inexistente na exordial" (e-STJ fl. 11).
+Busca, liminarmente, possa o paciente aguardar em liberdade o julgamento definitivo deste writ.
+O pedido liminar foi indeferido (e-STJ fls. 102/106).
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 126/129).
+É, em síntese, o relatório.
+Informações obtidas no sítio eletrônico do Tribunal de origem dão conta de que, no dia 31/7/2018, o ora paciente foi absolvido das imputações contidas na denúncia, sendo determinada a expedição de alvará de soltura.
+Diante disso, nada mais há que ser apreciado nesta oportunidade, tendo em vista que fica sem objeto o pedido contido no habeas corpus.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
