@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15), interposto por [NOME], contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado na alínea "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 243-244, e-STJ):
+AGRAVO REGIMENTAL. APELAÇÃO CÍVEL. ARBITRAMENTO DE HONORÁRIOS. ALEGAÇÃO DE PRESTAÇÃO DE SERVIÇO VICIADA E INEFICAZ. NÃO COMPROVAÇÃO. AUSÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO, EXTINTIVO DO DIREITO ALEGADO. ART 333, II, DO CPC. 1. A parte requerida não obteve êxito em comprovar que o autor prestou seus serviços de forma viciada e ineficaz como alegado, ou seja, não se desincumbiu de provar quanto a existência de fato impeditivo, modificativo ou extintivo do direito do autor, devendo ser mantida a procedência do pedida exordial - art. 333, II, do CPC. 2. Ausente comprovação no sentido de que não cabe julgamento monocrático no caso em tela, bem como inexistem elementos capazes de justificar mudança de posicionamento quanto a matéria em estudo incabível se mostra a reconsideração pleiteada, bem assim o provimento do agravo regimental. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Em suas razões de recurso especial (fls. 250-255, e-STJ), a recorrente aponta a ocorrência de dissídio jurisprudencial quanto à interpretação do artigo 22, § 2º, da Lei 8.906/94, ao argumento de exorbitância do valor arbitrado a título de honorários advocatícios, considerada a má qualidade do serviço prestado.
+Contrarrazões às fls. 267-278 (e-STJ).
+Em juízo prévio de admissibilidade (fls. 280-281, e-STJ), inadmitiu-se o recurso especial, com fundamento na ausência de comprovação do dissenso pretoriano, o que ensejou a interposição do presente agravo (fls. 288-294, e-STJ), objetivando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 301-312 (e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a pretensão recursal ao pleito de redução dos honorários arbitrados com fulcro no artigo 22, § 2º, da Lei 8.906/94, ponto no qual não assiste razão à insurgente.
+De início, em uma análise detida das razões do recurso especial, verifica-se que a recorrente não realizou o necessário cotejo analítico entre o acórdão embargado e os paradigmas indicados, olvidando-se de evidenciar a similitude de base fática dos casos confrontados e a divergência de resultados em torno da mesma questão jurídica, ficando, assim, desatendida a regra do art. 255, § 1º, do RISTJ.
+O que se observa é a simples transcrição de ementas dos arestos apontados como divergentes. Não realizou a parte recorrente, portanto, a necessária confrontação analítica dos acórdãos a fim de demonstrar, de modo inequívoco, as circunstâncias que identificariam ou assemelhariam os casos contrastados, o que impede o acolhimento do presente recurso, fundamentado exclusivamente na suposta ocorrência de dissenso pretoriano.
+É entendimento firme nesta Corte Superior que a mera transcrição de ementas e de excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELO NOBRE NÃO CONHECIDO. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO.  ..
+2. A jurisprudência desta Corte é pacífica no sentido de que, em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.  ..
+4. Agravo interno não conhecido.
+(AgInt no REsp 1655917/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/05/2017, DJe 01/06/2017)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. COMPROVAÇÃO DOCUMENTAL. INDENIZAÇÃO SECURITÁRIA. LEGISLAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA Nº 126/STJ. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. ARTIGO 476 DO CÓDIGO CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. DISSÍDIO NÃO DEMONSTRADO.  ..
+4. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do CPC/1973 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+5. Agravo interno não provido.
+(AgInt no AREsp 1057681/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe 15/08/2017)
+2. Do exposto, nega-se provimento ao agravo, majorando os honorários sucumbenciais, com base no artigo 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação, a ser suportado exclusivamente pela agravante.
+Publique-se.
+Intimem-se.
