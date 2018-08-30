@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da 5º Câmara de Direito Civil do TJSP.
+Na origem, a parte recorrida ajuizou ação, visando sua manutenção em plano de saúde coletivo. A demanda foi extinta sem resolução do mérito.
+O recorrente interpôs apelação, à qual o Tribunal de origem negou provimento em acórdão que ficou assim ementado (e-STJ fl. 334):
+PLANO DE SAÚDE. Autor que trabalhou na empresa Neumayer Tekfor e que, à época em que exercia atividade laborativa, contava com plano de saúde prestado pela Intermédica Sistema de Saúde. Posterior rescisão entre a ex-empregadora e a Intermédica, com assunção de nova seguradora de saúde (Unimed Jundiaí), após a demissão do requerente. Pretensão de migração para o novo plano. Impossibilidade. Inexistência de relação jurídica com a nova seguradora de saúde. Ilegitimidade passiva da Unimed Jundiaí mantida. Ex-empregadora. Ilegitimidade passiva corretamente reconhecida, pois, após a extinção do contrato de trabalho, a relação jurídica se dá somente entre o autor e a operadora de saúde originariamente contratada. Extinção do processo sem análise de mérito. Sentença mantida. Recurso desprovido.
+Sobreveio o recurso especial (e-STJ fls. 339/348), fundado no art. 105, III, "a" e "c", da CF, no qual a parte recorrente sustenta violação dos arts. 30 e 31 da Lei n. 9.656/1998, argumentando que as partes recorridas são legitimadas para responder pela pretensão de ser mantida no plano de saúde vigente durante a época em que trabalhava para a empresa estipulante do convênio.
+É o relatório.
+Decido.
+Ao extinguir o feito sem resolução do mérito, entendeu o Tribunal de origem que as recorridas são partes ilegítimas, ante o fim do contrato de plano de saúde coletivo existente entre a ex-empregadora e a operadora ora recorrida, além de não ter responsabilidade pela gestão do convênio a ex-empregadora, NEMAYER TEKFOR, ante a extinção do contrato de trabalho (e-STJ fls. 333/337).
+No recurso especial, não se impugna esses fundamentos do acórdão recorrido, limitando-se a parte recorrente a sustentar que seriam legítimas as recorridas, ante a natureza coletiva do plano vigente durante a relação empregatícia, o qual tinha como estipulante a ex-empregadora do recorrente. Assim, o recurso não merece conhecimento nos termos da Súmula n. 283 do STF.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
