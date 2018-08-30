@@ -1,0 +1,29 @@
+EMENTA
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SOCIEDADE LIMITADA. PROVIDÊNCIA QUE ALCANÇA O PATRIMÔNIO DE TODOS OS SÓCIOS INDISTINTAMENTE. PRECEDENTES. RECURSO ESPECIAL IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 241):
+EMBARGOS À EXECUÇÃO Alegação de sócio minoritário de que não pode ser responsabilizado pelo débito por ser sócio minoritário e que detém apenas 20% da cota da sociedade, portanto sua responsabilidade deve ser limitada na proporção das suas cotas sociais Impossibilidade Posicionamento do STJ - Inexistência de distinção entre sócio minoritário e majoritário quanto à responsabilidade pela dívida Preliminar levantada em contrarrazões afastada - Mantida a r. sentença Recurso não provido.
+Em suas razões de recurso especial (e-STJ, fls. 248-262), o recorrente alega violação do art. 50 do Código Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, que os seus bens não podem ser atingidos pela desconsideração da personalidade jurídica da empresa da qual é sócio, uma vez que integra o quadro societário tão somente na condição de cotista minoritário, além de não exercer a função de administrador. Aduz, ainda, que a sua responsabilidade deve ser limitada na proporção das suas cotas sociais e que a sócia majoritária e administradora nem sequer chegou a ser citada no processo.
+Foram apresentadas contrarrazões (e-STJ, fls. 281-301).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 302-304).
+Brevemente relatado, decido.
+Efetivamente, "para os efeitos da desconsideração da personalidade jurídica, não há fazer distinção entre os sócios da sociedade limitada. Sejam eles gerentes, administradores ou quotistas minoritários, todos serão alcançados pela referida desconsideração" (REsp n. 1.250.582/MG, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12/4/2016, DJe 31/5/2016).
+O julgado recebeu a seguinte ementa:
+RECURSOS ESPECIAIS. MINISTÉRIO PÚBLICO DE MINAS GERAIS. AFRONTA AO ARTIGO 535 DO CPC. INOBSERVÂNCIA. DANOS MORAIS COLETIVOS. CABIMENTO. [NOME] [NOME]. VIOLAÇÃO AO ARTIGO 535 DO CPC. DESCABIMENTO. LIMITAÇÃO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA AOS SÓCIOS QUE EXERCEM CARGO DE GERÊNCIA OU ADMINISTRAÇÃO DA SOCIEDADE LIMITADA. IMPOSSIBILIDADE. MULTA. ARTIGO 538, PARÁGRAFO ÚNICO, DO CPC. AFASTAMENTO. RECURSOS PARCIALMENTE PROVIDOS.
+1. Recurso interposto pelo Ministério Público de Minas Gerais.
+1.1. O Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que o órgão julgador examine uma a uma as alegações e os fundamentos expendidos pelas partes. Diante disso, não se observa violação ao artigo 535 do CPC.
+1.2. Estão presentes os requisitos para a concessão do dano moral coletivo, já que, na espécie, restou demonstrada a prática de ilegalidade perpetrada pelo Grupo empresarial, a qual afeta não apenas a pessoa do investidor (indivíduo), mas todas as demais pessoas (coletividade) que na empresa depositaram sua confiança e vislumbraram a rentabilidade do negócio.
+1.3. Diante das nuances que se apresentam no caso em comento, estar-se-ia adequado à função do dano moral coletivo fixar a quantia de R$ 100.000,00 (cem mil reais) a ser revertida ao fundo constante do artigo 13 da Lei n. 7.347/85.
+2. Recurso interposto por [NOME].
+2.1. Não se vislumbra a alegada violação ao artigo 535 do CPC, pois não caracteriza, por si só, omissão, contradição ou obscuridade, o fato de o tribunal ter adotado outro fundamento que não aquele defendido pela parte.
+2.2. Para os efeitos da desconsideração da personalidade jurídica, não há fazer distinção entre os sócios da sociedade limitada. Sejam eles gerentes, administradores ou quotistas minoritários, todos serão alcançados pela referida desconsideração.
+2.3. Nos termos da Súmula 98 desta Corte: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório." Afasta-se, portanto, a multa fixada com base no artigo 538, parágrafo único, do Código de Processo Civil.
+3. Recursos parcialmente providos.
+(REsp n. 1.250.582/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/4/2016, DJe 31/5/2016 - sem grifo no original).
+Sobressai que, segundo consta do voto condutor do respectivo julgado, "ocorrendo abuso da personalidade jurídica, determina-se sua desconsideração para, dessa forma, alcançar o patrimônio dos sócios que, por via transversa, gerou prejuízos a terceiros. Contudo, nesse processo de desconsideração não se realiza a ponderação de quem ocasionou o dano, sendo irrelevante determinar se a conduta foi praticada por meio dos atos dos gerentes e administradores ou de outro sócio específico. Todos aqui responderão pelo ato danoso" (sem grifo no original).
+Outrossim, a Terceira Turma desta Corte, no julgamento do REsp n. 1.315.110/SE, de relatoria da Ministra Nancy Andrighi, DJe de 7/6/2013, também já concluiu, num viés similar, ser possível que os bens dos sócios da sociedade limitada, ainda que não exerçam função de gerência ou administração, sejam atingidos pela desconsideração da personalidade jurídica.
+No caso, o Tribunal de origem decidiu em consonância com a jurisprudência desta Corte Superior, asseverando que "no entanto, houve a desconsideração da personalidade jurídica e assim sendo há a responsabilidade de todos os sócios pela integralidade da dívida" e que "não socorre ao recorrente a alegação de ser sócio minoritário, principalmente porque o recorrente é o único sócio da executada MM3, além da sócia administradora (fls. 52/55)" (e-STJ, fls. 243-244).
+Assim, não há como acolher o inconformismo em apreço, por estar em conformidade com a orientação jurisprudencial mais recente deste Tribunal.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
