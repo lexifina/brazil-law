@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE RECEPTAÇÃO. ARTIGO 180 DO CÓDIGO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO ORA AGRAVADA. SÚMULA 287 DO STF. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma da decisão que inadmitiu o recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO CRIMINAL. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ABSOLVIÇÃO. POSSIBILIDADE. AUTORIA NÃO COMPROVADA. MEROS INDÍCIOS NÃO BASTAM PARA A CONDENAÇÃO. IN DUBIO PRO REO. RECEPTAÇÃO. COMPENSAÇÃO DA AGRAVANTE REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. PRETENSÃO JÁ CONCEDIDA. RECURSO PROVIDO EM PARTE.
+    - Para que haja a condenação deve-se basear num cunho de certeza. Apesar de, nos autos existirem indícios de que o acusado possa ser o autor da adulteração do sinal identificador, consistente nas placas adulteradas, não há espaço para condenação, uma vez que o decreto condenatório não pode basear-se única e exclusivamente em prova indiciária, sem a existência de qualquer elemento que conduza à certeza da autoria.
+    - Não é cabível a compensação pleiteada, pois a mesma já foi concedida ao apelante.
+    - Recurso parcialmente provido.” (Doc. 2, fl. 52)
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XXXV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender ausente o interesse recursal, uma vez que a pretensão pleiteada já foi acolhida pelas instâncias ordinárias.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A parte agravante não ataca o fundamento da decisão agravada relativo à ausência de preliminar de repercussão geral. Esta Suprema Corte firmou jurisprudência no sentido de que a parte tem o dever de impugnar os fundamentos da decisão agravada, sob pena de não ter sua pretensão acolhida, por vedação expressa do enunciado da Súmula 287 deste Supremo Tribunal Federal, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido, colacionam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO TRIBUNAL DE ORIGEM QUE INADMITIU O RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO STF. AGRAVO IMPROVIDO. I - O agravo não atacou todos os fundamentos expostos na decisão do Tribunal de origem que inadmitiu o recurso extraordinário, o que o torna inviável, conforme a Súmula 287 desta Corte. Precedentes. II - Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais dos § 2° e § 3°, do mesmo artigo. III - Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4° do CPC.” (ARE 1.018.009-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 5/4/2017)
+    “Agravo regimental no agravo de instrumento. Processual. Ausência de impugnação de todos fundamentos da decisão agravada. Óbice ao processamento do agravo. Precedentes. Súmula nº 287/STF. Prequestionamento. Ausência. Incidência da Súmula nº 282/STF. 1. Há necessidade de impugnação de todos os fundamentos da decisão agravada, sob pena de se inviabilizar o agravo. Súmula nº 287/STF. 2. Ante a ausência de efetiva apreciação de questão constitucional por parte do Tribunal de origem, incabível o apelo extremo. Inadmissível o prequestionamento implícito ou ficto. Precedentes. Súmula nº 282/STF. 3. Agravo regimental não provido.” (AI 763.915-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 7/5/2013)
+    Ex positis, NÃO CONHEÇO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de agosto de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
