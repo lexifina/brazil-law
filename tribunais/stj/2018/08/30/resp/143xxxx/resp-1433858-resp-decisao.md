@@ -1,0 +1,8 @@
+DECISÃO
+Vistos.
+Fls. 339/340e: Mediante a Petição n. 440030/2016, os Recorridos reconhecem a procedência do pedido, argumentando que "a incidência do imposto de renda sobre os valores devidos a título de juros moratórios não trarão prejuízo ao contribuinte, em especial pela dívida se tratar de Rendimentos Recebidos Acumuladamente - RRA, sendo certo, que nesses casos o contribuinte ao fazer o ajuste anual poderá minimizar ou quiçá eliminar referida tributação do IR" (fl. 339e).
+Intimada, a UNIÃO informou que "não se opõe à homologação da renúncia da parte recorrida à pretensão de não se sujeitar à incidência do imposto de renda sobre os juros de mora, na forma como apresentada no recurso especial da União Federal" (fl. 350 - Petição n. 251557/2018).
+Anoto que, às fls. 333/336e, determinei a devolução dos autos ao Tribunal de origem, com a devida baixa, para que o processo permanecesse suspenso até a publicação de acórdão de recurso especial repetitivo, observando-se, em seguida, o procedimento previsto no art. 543-C, §§ 7º e 8º, do Código de Processo Civil.
+Observo, ainda, que a petição de fls. 339/340e foi apresentada no prazo de agravo interno.
+Ante o exposto, TORNO SEM EFEITO a decisão de fls. 333/336e, HOMOLOGO o reconhecimento de procedência do pedido da UNIÃO relativamente à incidência de Imposto de Renda sobre os valores devidos a título de juros moratórios e EXTINGO O PROCESSO COM RESOLUÇÃO DO MÉRITO, com fundamento no art. 487, III, a, do Código de Processo Civil de 2015, devendo a parte requerente arcar com as despesas processuais, nos termos do art. 90 do mesmo diploma processual. Ante a sucumbência mínima, mantenho a verba honorária fixada na sentença de fls. 155/158e.
+Publique-se e intime-se.
