@@ -1,0 +1,57 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO RIO DE JANEIRO e FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO, contra acórdão prolatado, por unanimidade, pela 12ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro no julgamento de agravo interno em apelação, assim ementado (fl. 133e):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL - DIREITO PREVIDENCIÁRIO - PRETENSÃO DA RIOPREVIDÊNCIA EM MODIFICAR O REGRAMENTO APLICÁVEL À PENSÃO POR MORTE EM DECORRÊNCIA DE LEGISLAÇÃO POSTERIOR À DATA DO ÓBITO DO SEGURADO - IMPOSSIBILIDADE - APLICAÇÃO DA SUMULA Nº 340 DO STJ - PRETENSÃO DE RECONHECER A SUCUMBÊNCIA RECÍPROCA - DESCABIMENTO - NÃO ATENDIMENTO AOS PRESSUPOSTOS DO ART. 21, CAPUT, DO CPC - HONORÁRIOS SUCUMBENCIAIS QUE NÃO SÃO ILIDÍVEIS PELO INSTITUTO DA CONFUSÃO - IMPOSSIBILIDADE DE APLICAÇÃO DA SÚMULA Nº 80 DESTE TRIBUNAL DE JUSTIÇA EM FAVOR DE ENTIDADE AUTÁRQUICA ESTADUAL - PRECEDENTES - RECURSO DESPROVIDO - DECISÃO MANTIDA.
+Opostos embargos de declaração, foram rejeitados (fls. 142/145e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 535 do Código de Processo Civil: o tribunal de origem deixou de se manifestar sobre as questões suscitadas nos declaratórios lá opostos; e
+Art. 5º da Lei n. 9.717/98: tal norma veda, expressamente, o pagamento pelos sistemas previdenciários de cada ente da Federação de benefício não previsto no regime geral de previdência;
+Violação ao art. 381 do Código Civil: "a Defensoria Pública Geral do Estado do Rio de Janeiro é órgão da Administração Direta do Estado do Rio de Janeiro. Assim, em hipóteses nas quais o Estado é vencido em demandas propostas pela Defensoria Pública, é descabida a sua condenação em honorários advocatícios, nos termos do art. 381 do Código" (fl. 158e); e
+ Art. 21 do Código de Processo Civil de 1973: o tribunal de origem deixou de observar a sucumbência recíproca.
+Com contrarrazões (fls. 189/192e), o recurso foi admitido (fl. 229/230e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput e § 1º-A, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, bem como a dar provimento ao recurso se a decisão recorrida estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal, ou de Tribunal Superior.
+Não se pode conhecer a apontada violação ao art. 535 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 01/07/2014, destaque meu).
+No que se refere à questão da aplicação do art. 5º da Lei n. 9.717/98, que veda o pagamento, pelos sistemas previdenciários de cada ente da Federação, de benefício não previsto no regime geral de previdência, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 5º da Lei n. 9.717/98.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1183546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010, destaque meu).
+Ademais, "a desconformidade da legislação local com o disposto na Lei n. 9.717/98 e na Lei n. 8.213/91 converge à existência de conflito entre lei local e lei federal, questão que só pode ser resolvida pelo Supremo Tribunal Federal, pois trata-se, em última análise, de matéria constitucional relacionada ao pacto federativo (art. 102, III, alínea "d", da CF)" (AgRg no REsp 1.366.339/MS, 2ª Turma, Rel. Min. Humberto Martins, DJe 10.06.2013).
+E como sabido, o recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014, destaque meu).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014, destaques meus).
+Quanto à sucumbência recíproca, o tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, não terem sidos preenchidos os requisitos para seu reconhecimento (fl. 134e)
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Vale registrar que a ausência de prequestionamento e a necessidade de reexame do conjunto fático probatório impedem a análise do dissídio jurisprudencial.
+Merece acolhimento, contudo, o pedido de exclusão da condenação em honorários advocatícios, nos termos do seguinte paradigma:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA. RIOPREVIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. PAGAMENTO EM FAVOR DA DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO. NÃO CABIMENTO. RECURSO CONHECIDO E PROVIDO.
+1. "Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença" (Súmula 421/STJ).
+2. Também não são devidos honorários advocatícios à Defensoria Pública quando ela atua contra pessoa jurídica de direito público que integra a mesma Fazenda Pública.
+3. Recurso especial conhecido e provido, para excluir da condenação imposta ao recorrente o pagamento de honorários advocatícios.
+(REsp 1199715/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 16/02/2011, DJe 12/04/2011)
+Isto posto, com fundamento no art. 557, caput e § 1º-A, do Código de Processo Civil, DOU PARCIAL PROVIMENTO ao Recurso Especial, apenas para excluir a condenação em honorários advocatícios.
+Publique-se e intimem-se.
