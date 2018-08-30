@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 641/642).
+O acórdão do TJSP está assim ementado (e-STJ fl. 604):
+SOCIEDADE LIMITADA. DISSOLUÇÃO TOTAL. LIQUIDAÇÃO FRUSTRADA. AUSÊNCIA DE DOCUMENTOS MÍNIMOS PARA A PERÍCIA. IMPOSSIBILIDADE DE SE REALIZAR A APURAÇÃO POR ESTIMATIVA. SENTENÇA DE EXTINÇÃO MANTIDA. RECURSO NÃO PROVIDO.
+Sociedade limitada. Dissolução total. Liquidação frustrada. Ausência de documentação mínima para a perícia. Impossibilidade de se realizar a estimativa. O réu, que foi o administrador da sociedade, alegou que juntou c depositou toda a documentação social que estava sob sua guarda. A autora no distrato, por sua vez, assumiu a posse dos documentos e, ademais, recebeu os bens da sociedade por liminar deferida na cautelar em apenso. Ausência da prestação de contas quanto ao destino dos bens.
+O perito afirmou que não tem condições de realizar a perícia pela inexistência dos documentos necessários. Indicação de que não é possível apresentar sequer estimativa. Liquidação frustrada. Reconhecimento.
+Extinção do processo, sem resolução de mérito, mantida. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 620/627).
+Nas razões do recurso especial (e-STJ fls. 630/633), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação:
+(a) do art. 373, II, do CPC/2015, alegando que, com o trânsito em julgado da sentença na ação de dissolução parcial da sociedade, o direito da recorrente seria incontroverso, não tendo o recorrido, na fase de cumprimento de sentença, provado fato extintivo, modificativo ou impeditivo do direito anteriormente reconhecido (e-STJ fl. 633), e
+(b) do art. 1.218, VII, do CPC/1973, pois a Corte de origem teria considerado total a dissolução societária que seria parcial, contrariando a sentença transitada em julgado (e-STJ fl. 633).
+Afirmou que:
+(a) a fundamentação seria contrária à prova dos autos, porque "o distrato de fls. 232/233 com que o Relator considera ter sido alterado o objeto material da presente ação de cumprimento de sentença para liquidação total da sociedade, trata-se de ato unilateral, realizado pela recorrente a posteriori da sentença de dissolução parcial por força de Lei que não admitia a permanência da sociedade com um único sócio por mais de 6 meses, não vinculando o recorrido" (e-STJ fls. 631/632), e
+(b) a mera alegação da parte recorrida não seria idônea para embasar a decisão, "tendo em vista a incontroversa condição do mesmo de administrador da sociedade parcialmente dissolvida, única responsável pela documentação contábil da mesma" (e-STJ fl. 632).
+Não foram apresentadas contrarrazões (e-STJ fl. 640).
+No agravo (e-STJ fls. 645/652), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 654).
+É o relatório.
+Decido.
+A Justiça local não se manifestou quanto ao art. 1.218, VII, do CPC/1973. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+A Corte de origem entendeu ser devido extinguir o processo sem exame de mérito, ao reconhecer, a partir da manifestação do perito na dissolução parcial da sociedade, que não foi apresentada a documentação contábil necessária para a apuração de haveres (e-STJ fl. 608).
+O TJSP concluiu que, por responsabilidade tanto do recorrido quanto da recorrente na apresentação da documentação contábil mínima necessária para perícia, não foi possível aferir o ativo social na ação de dissolução parcial, caracterizando a liquidação frustrada, tendo em vista que (e-STJ fl. 608):
+As partes divergem acerca do destino do restante da documentação social, se de fato ela realmente existiu, ressalte-se.
+O réu, que era o administrador da empresa, alegou que tudo que estava sob sua guarda foi entregue à autora ou depositado em Juízo, mas se mostrou insuficiente. A autora, por sua vez, reconheceu no distrato social que os livros fiscais e todos os documentos da empresa ficariam sob sua responsabilidade (fls. 232/233), não sendo crível acreditar que tenha assinado o referido documento sem nada receber do réu quanto aos papéis da empresa.
+É certo que na decisão de fls. 334/v o D. Magistrado indicou que "as omissões serão suportadas pelo réu", mas deve ser considerado que o perito afirmou que não há documentação mínima para a produção da perícia, indicando que tampouco é possível apresentar qualquer estimativa.
+O Tribunal a quo frisou, quanto à responsabilidade da recorrente na oferta da documentação contábil necessária à perícia na dissolução societária, que (e-STJ fls. 608/609):
+Também deve ser considerado que a autora tomou posse dos bens sociais com o deferimento da medida cautelar incidental por ela ajuizada e que consta tenha com eles permanecido sem demonstrar sua efetiva destinação, porquanto não prestou as contas com as quais se comprometeu às fls. 132 dos autos em apenso.
+A sociedade encerrou suas atividades em 1.999 e o distrato foi celebrado em 2003. É certo que cabia ao administrador cuidar da documentação social, mas também é certo que cabia à ré, que obteve a posse de todos os bens sociais remanescentes, prestar contas de sua destinação, o que não ocorreu.
+Não se pode olvidar que a função da liquidação na ação de dissolução de sociedade é a apuração do ativo (o que incluiu os bens corpóreos e incorpóreos da empresa) e do passivo social, a fim de que sejam pagas as dívidas e, a final, seja dividido o eventual saldo positivo, se houver, na proporção da participação de cada sócio.
+Sucede que no caso dos autos, por responsabilidade de ambas partes, não é possível aferir-se o ativo social (porquanto não se sabe do valor e do destino dos bens que foram entregues à autora) assim como não se tem conhecimento do passivo, porquanto não há comprovação nos autos de que a empresa tenha deixado dívidas, diante da absoluta ausência de documentos a elas referentes.
+Diante desse quadro, inviável o prosseguimento da liquidação, porquanto nem sequer há como ser estimada a situação social na época de seu encerramento, de modo faltam elementos mínimos para ser feita a estimativa pretendida pela autora.
+A respeito de tais razões de decidir, a recorrente não se manifestou, limitando-se a alegar que o distrato juntado aos autos seria ato unilateral necessário para manter a sociedade, ante a impossibilidade de ser mantida com apenas 1 (um) sócio e que a mera alegação da parte recorrida não seria idônea para embasar a decisão, "tendo em vista a incontroversa condição do mesmo de administrador da sociedade parcialmente dissolvida, única responsável pela documentação contábil da mesma" (e-STJ fl. 632).
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
