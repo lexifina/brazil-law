@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de VIAÇÃO VG EIRELI contra decisão que não admitiu recurso especial interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra assim ementado:
+APELAÇÃO CÍVEL. INDENIZATÓRIA. TRANSPORTE COLETIVO. ACIDENTE. RESPONSABILIDADE OBJETIVA DO TRANSPORTADOR. FORTUITO INTERNO. DANO E NEXO CAUSAL COMPROVADOS PELO LAUDO PERICIAL. LESÕES QUE RESULTARAM NO PERÍODO DE INCAPACIDADE TOTAL E TEMPORÁRIA DE UMA SEMANA. DANO ESTÉTICO EM GRAU MÍNIMO. INDENIZAÇÃO ARBITRADA EM R$ 5.000,00 (CINCO MIL REAIS), EM CONSONÂNCIA COM JULGADOS CONGÊNERES. DANO MORAL CONFIGURADO. QUANTUM ARBITRADO PELO D. SENTENCIANTE EM R$ 6.000,00 (SEIS MIL REAIS) QUE SE REVELA ADEQUADO À LUZ DO MÉTODO BIFÁSICO. MANUTENÇÃO DA SENTENÇA.
+1. Por se tratar de responsabilidade objetiva, fundada na cláusula de incolumidade física do passageiro, basta a comprovação do nexo causal entre o dano e o serviço prestado para firmar a responsabilidade do transportador. Inteligência dos artigos 734 e 735, ambos do Código Civil;
+2. "A verba indenizatória do dano moral somente será modificada se não atendidos pela sentença os princípios da proporcionalidade e da razoabilidade na fixação do valor da condenação. " (Enunciado sumular 343 do Eg. TJRJ);
+2. In casu, laudo pericial produzido nos autos comprova os fatos narrados na inicial no sentido de que a autora, passageira, sofreu lesões em decorrência de acidente envolvendo o ônibus do réu, que resultaram em incapacidade total e temporária pelo período de uma semana, bem como de dano estético em grau mínimo;
+3. Dano estético em grau mínimo. Indenização arbitrada pelo Juízo a quo em R$ 5.000,00 (cinco mil reais), que se encontra compatível com julgados congêneres desta Eg. Corte;
+4. Dano moral configurado. Nas hipóteses de rompimento da cláusula de incolumidade do passageiro, o dano moral se consuma in re ipsa, desde que comprovada a qualidade de passageiro, bem como a existência de nexo de causalidade entre ação e evento danoso, o que de fato ocorreu à luz do conjunto probante carreado nos autos;
+5. Quantum indenizatório fixado no valor de R$ 6.000,00 (seis mil reais) que se revela condizente com os parâmetros do método bifásico, e precedentes desta Eg. Corte. Ausência de teratologia. Aplicação do enunciado sumular nº 343, deste Tribunal;
+6. Recurso desprovido, nos termos do voto do Relator (fls. 132/133).
+No recurso especial, a parte aponta ofensa aos arts. 458, II, e 535, II, do CPC/73, 186, 927 e 944 do CC. Insurge-se contra sua condenação ao pagamento de indenização por danos morais e pleiteia a redução do quantum indenizatório, reputando excessivo o montante fixado a tal título (R$ 6.000,00).
+Contrarrazões às fls. 170/172.
+É o relatório. Passo a decidir.
+A Corte de origem, ao dirimir a controvérsia, mediante o exame dos elementos informativos da demanda, reconheceu a responsabilidade da recorrente e a ocorrência de dano moral. Confira-se trecho do acórdão recorrido:
+No mérito, analisando-se o laudo pericial produzido em índex 65/69, tem-se por incontroverso a existência do nexo causal entre o acidente narrado na exordial e a lesão sofrida pela autora, a incapacidade total e temporária pelo período de uma semana, bem como o dano estético em grau mínimo, consoante as considerações as considerações do expert..
+(..)
+Assim, tem-se que a parte autora se desincumbiu, razoavelmente, do ônus que lhe competia de comprovar os fatos alegados na exordial.
+Já a empresa ré, por seu turno, não fez prova da existência de fato impeditivo, modificativo ou extintivo do direito autoral, tampouco comprovou a ocorrência de uma das excludentes de responsabilidade preconizadas no art. 14, § 3º, da Lei Consumerista.
+Ora, tratando-se de responsabilidade objetiva, fundada na cláusula de incolumidade do passageiro, é o quanto basta para cerzir o réu à controvérsia.
+A propósito, neste particular, trago a dicção dos artigos 734 e 735, ambos do Código Civil:
+Art. 734. O transportador responde pelos danos causados às pessoas transportadas e suas bagagens, salvo motivo de força maior, sendo nula qualquer cláusula excludente da responsabilidade.
+Parágrafo único. É lícito ao transportador exigir a declaração do valor da bagagem a fim de fixar o limite da indenização.
+..
+Art. 735. A responsabilidade contratual do transportador por acidente com o passageiro não é elidida por culpa de terceiro, contra o qual tem ação regressiva.
+Nesse sentido, configurada a falha na prestação do serviço do réu, ensejando o dever de indenizar (fls. 135/136).
+No que tange ao dano moral, este igualmente restou configurado, fazendo-se mister salientar que, nas hipóteses de rompimento da cláusula de incolumidade do passageiro, o dano moral se consuma in re ipsa, desde que comprovada a qualidade de passageiro, bem como a existência de nexo de causalidade entre ação e evento danoso, o que de fato ocorreu à luz do conjunto probante carreado nos autos (fl. 138).
+A parte recorrente alega ausência do dever de indenizar, argumentando, em síntese, inexistência de ato ilícito e falta de comprovação de dano moral.
+Nesse contexto, as razões recursais não impugnaram a motivação do acórdão recorrido relativa à responsabilidade objetiva e à caracterização de dano moral in re ipsa. Tal circunstância é suficiente para a manutenção do julgado, aplicando-se, ao caso, as Súmulas 283 e 284/STF.
+Ademais, eventual alteração do entendimento do tribunal a quo, nos moldes postulado pela parte recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, inviável em recurso especial (Súmula 7/STJ).
+No tocante ao quantum indenizatório, cabe registrar que, segundo orientação jurisprudencial desta Corte, somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade (AgRg no REsp 971.113/SP; AgRg no REsp 675.950/SC; AgRg no Ag 1.065.600/MG).
+Consoante ressaltado pelo eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+Com efeito, somente é possível a revisão do montante da indenização nas hipóteses em que o quantum for arbitrado em valor desproporcional, o que não foi demonstrado no caso dos autos, em que a verba indenizatória foi fixada em R$ 6.000, 00 (seis mil reais).
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Majoro os honorários advocatícios recursais em 1% (CPC/15, art. 85, § 11),
+Publique-se.
