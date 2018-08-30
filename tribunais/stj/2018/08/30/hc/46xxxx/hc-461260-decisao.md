@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. ELEVAÇÃO DA PENA EM 3/8. NÚMERO DE AGENTES E POTENCIAL LESIVO DA ARMA DE FOGO UTILIZADA. FUNDAMENTOS CONCRETOS. AUSÊNCIA DE ILEGALIDADE. NÃO INCIDÊNCIA DA SÚMULA 443/STJ. REGIME MAIS RIGOROSO. RÉU PRIMÁRIO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. SÚMULA 444/STJ.
+Ordem parcialmente concedida para fixar o regime semiaberto para o início do cumprimento da reprimenda.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] e [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que deu parcial provimento ao apelo da defesa para reduzir a reprimenda, fixando-a em 5 anos e 6 meses de reclusão, em regime fechado, e pagamento de 15 dias-multa (Apelação n. 0046720-58.2016.8.19.0002).
+Sustenta o impetrante ilegalidade decorrente da utilização de critério meramente enumerativo para o recrudescimento pena, na terceira etapa de sua fixação, uma vez que faz referência às circunstâncias inerentes ao próprio tipo penal, o que contraria o enunciado da Súmula n.º 443/STJ.
+Afirma, também, que, consideradas como favoráveis as circunstâncias judiciais, a fixação do regime mais gravoso do que a pena aplicada permite, caracteriza constrangimento ilegal, nos termos dos enunciados sumulares n.os 440/STJ, 718 e 719/STF.
+Requer, liminarmente, possa o paciente aguardar em regime semiaberto o julgamento do writ.
+No mérito, pleiteia a concessão da ordem, para fixar o regime inicial semiaberto para cumprimento das penas e para reduzir o aumento decorrente do reconhecimento das duas majorantes para 1/3 (um terço) - (fl. 9).
+O pedido de liminar foi indeferido (fls. 77/79).
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 128/134).
+É o relatório.
+Não assiste razão à impetrante no que tange à pretendida redução da fração de aumento para 1/3 em razão da presença de duas majorantes. Com efeito, o aumento em 3/8 encontra-se justificado em circunstâncias concretas, concernentes ao número de agentes e ao potencial lesivo da arma de fogo, o que afasta a incidência do enunciado da Súmula 443/STJ, consoante se depreende do seguinte excerto, extraído do voto-condutor do acórdão impugnado (fl. 71):
+Portanto, o quadro fático divisado nos autos exibe dados concretos que exigem que o incremento de pena decorrente do reconhecimento das causas especiais de aumento deva se afastar do mínimo legal, não se considerando apenas a quantidade de majorantes e sim a qualidade e características específicas de cada uma delas. Com efeito, o crime foi perpetrado por três elemento e um dos apelantes fez uso efetivo da arma de fogo, apontando para a vítima, o que denota um maior poder de intimidação.
+Por fim, melhor sorte socorre o paciente quanto ao regime de fixação da reprimenda, uma vez que é primário e não há circunstâncias judiciais reconhecidas como desfavoráveis.
+Ora, o fundamento utilizado pelo magistrado sentenciante, corroborado pelo Tribunal a quo, para a fixação do regime fechado, qual seja, possuírem os acusados outra condenação por delito patrimonial, não encontra amparo na jurisprudência desta Corte, firmada no sentido de que considerando o princípio da presunção da inocência, inquéritos policiais ou ações penais em andamento não servem de base para valorar negativamente os antecedentes, a conduta social ou a personalidade do acusado e, por consectário, não permitem a imposição de regime prisional mais gravoso do que o indicado pelo quantum de sanção corporal estabelecido (Súmula/STJ n. 444) (HC n. 345.025/SP, Ministro Ribeiro Dantas, Quinta Turma, jDJe 29/3/2016).
+ Destarte, em respeito ao art. 33, § 2º, b, do Código Penal, o regime adequado para cumprimento das penas é o semiaberto.
+Ante o exposto, concedo parcialmente a ordem apenas para fixar o regime semiaberto para o início do cumprimento das reprimendas.
+Publique-se.
