@@ -1,0 +1,20 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INCONFORMISMO CONTRA A MAJORAÇÃO DA VERBA HONORÁRIA FIXADA. CONTRADIÇÃO NÃO VERIFICADA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos por DMS Publicidade Mídia Interativa S.A. à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 922):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PROCESSO EXTINTO SEM RESOLUÇÃO DO FEITO POR INÉRCIA DO EXEQUENTE. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE MAJORAÇÃO. VERBA IRRISÓRIA FIXADA NA ORIGEM. ADEQUAÇÃO AOS PATAMARES DE RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 350-352), a embargante sustenta que, embora a decisão monocrática tenha determinado a majoração da verba honorária de R$ 1.000,00 (mil reais) para R$ 5.000,00 (cinco mil reais), permanece o vício da contradição entre o fundamento do julgado (art. 20, § 4º, do CPC/1973), e o aumento levado a efeito. Assevera que a quantia concedida permanece irrisória, correspondendo a menos de 0,5% (meio por cento) do valor atualizado da causa.
+Sustenta que litigou por mais de 5 (cinco) anos, argumentando que, em caso de insucesso na demanda, poderia ter sido condenada ao pagamento de 10% (dez por cento) sobre o valor da condenação. Por tal motivo, sugere como razoável a fixação da verba honorária no percentual mínimo de 2% (dois por cento) incidente sobre o valor do crédito exequendo.
+Postula, assim, o conhecimento e provimento dos aclaratórios a fim de que seja afastada a contradição existente no julgado, majorando-se, por consequência, a verba honorária para R$ 20.000,00 (vinte mil reais), valor que corresponde a 2% (dois por cento) do valor atualizado em disputa.
+Brevemente relatado, decido.
+Inicialmente, rememoro que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que não se observa na espécie.
+No caso dos autos, não há que se falar na contradição apontada, levando-se em consideração que a decisão embargada justificou que, como houve a extinção do feito executivo ainda em sua fase inicial, em virtude de a parte exequente não ter cumprido com a determinação judicial para a regularização do procedimento da demanda, a majoração concedida em R$ 5.000,00 (cinco mil reais), além de cinco vezes superior ao valor inicialmente fixado na origem, revelou-se condizente com os princípios da razoabilidade e proporcionalidade, em observação ao critério de equidade previsto no art. 20, § 4º, do CPC/1973, então vigente.
+Ademais, convém ressaltar, conforme iterativa jurisprudência desta Corte, que "a contradição que dá ensejo à oposição de embargos declaratórios deve ser interna, entre as proposições do próprio julgado impugnado, e não entre a fundamentação do julgado e o argumento das partes" (EDcl no AgInt no AREsp 733.888/RS, Relator o Ministro Antonio Carlos Ferreira, julgado em 27/06/2017, DJe 01/08/2017), o que não se visualiza na hipótese.
+Nessa linha:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL. NÃO OCORRÊNCIA.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou sanar eventual erro material, mas, sim, reformar o julgado por via inadequada.
+2. A contradição que rende ensejo à oposição de embargos declaratórios é aquela interna do julgado, somente se verificando quando no contexto do próprio acórdão embargado estejam contidas proposições inconciliáveis entre si, dificultando-lhe a compreensão, o que não ocorre no presente caso.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.331.352/RJ, Relator o Ministro Ricardo Villas Bôas Cueva, julgado em 06/04/2017, DJe 11/04/2017)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
