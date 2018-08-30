@@ -1,0 +1,6 @@
+DECISÃO
+EMANUELLY FERREIRA DE RAMOS, paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão denegatório proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. 1692921-2, impetrado com vistas ao trancamento da persecução penal, por inépcia da denúncia e por falta de justa causa.
+Em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que, após a interposição do presente feito, foi proferida sentença condenatória em desfavor da ora paciente, 27/11/2017, nos autos da Ação Penal n. 0024469-76.2016.8.16.0019.
+Assim, com a prolação de sentença, fica esvaída a análise do pretendido reconhecimento de inépcia da denúncia. Isso porque a jurisprudência desta Corte Superior é firme quanto ao entendimento de que os pleitos de trancamento da persecução penal ou de nulidade da decisão que recebe ou ratifica o recebimento da exordial acusatória ficam prejudicados quando já há, como no caso concreto, sentença prolatada na origem. Nesse sentido: AgRg no RHC n. 45.301/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 01/08/2017.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
