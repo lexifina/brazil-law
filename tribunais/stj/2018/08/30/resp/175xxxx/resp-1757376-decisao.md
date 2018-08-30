@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município do Rio de Janeiro e pela Guarda Municipal do Rio de Janeiro com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 239/240):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. GUARDA MUNICIPAL. DESVIO DE FUNÇÃO CONVÊNIO REALIZADO ENTRE O MUNICÍPIO E O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO. OFICIAL DE JUSTIÇA AD HOC. AGENTE DA GUARDA MUNICIPAL QUE EXERCIA FUNÇÕES TÍPICAS DE OFICIAL DE JUSTIÇA NO PERÍODO COMPREENDIDO ENTRE 140/05/2010 A 02/04/2012. PRETENSÃO DE RECEBIMENTO DE DIFERENÇAS SALARIAIS. POSSIBILIDADE. SENTENÇA DE PROCEDÊNCIA MANTIDA.
+- Preliminar de ilegitimidade passiva corretamente rejeitada. Segundo a teoria da asserção, a verificação da presença das condições da ação deve se dar com lastro nas afirmações feitas pelo autor em sua petição inaugural e, sendo positivo o juízo de admissibilidade, como no caso em tela, as demais condições ficam afetas ao mérito.
+- Convênio de cooperação técnica celebrado entre este Tribunal de Justiça e o Município do Rio de Janeiro que tem por objetivo implantar a eficiente prestação jurisdicional na cobrança da Dívida Ativa.
+- Comprovado que a autora, ocupante do cargo de guarda municipal, exerceu a função de oficial de justiça ad hoc e de colaboração no preparo dos respectivos mandados e demais incidentes processuais por mais de três anos junto a este Tribunal de Justiça.
+- O posicionamento do Supremo Tribunal Federal firmou-se no sentido de que o servidor público, que atue em desvio de função, não tem o direito ao reenquadramento, mas tem direito a perceber a diferença de remuneração referente ao cargo que ocupa, enquanto exercer de tal cargo.
+- Matéria pacificada pelo Superior Tribunal de Justiça, por meio da Súmula 378.
+- Caracterizado o desvio das atividades da autora para executar tarefas diversas daquelas previstas e inerentes ao seu cargo público, de maior valor remuneratório e sem a contraprestação correspondente, faz jus às diferenças remuneratórias devidas e benefícios reflexos daí decorrentes, sob pena de enriquecimento sem causa por parte da administração pública.
+- Responsabilidade tanto da autarquia municipal a que a servidora está vinculada, como dos entes municipal e estatal que se beneficiaram do trabalho por ela realizado, por força do convênio firmado.
+- Juros e correção monetária conforme determinado na sentença.
+- Honorários corretamente fixados não merecendo qualquer modificação.
+SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 284/296).
+A parte recorrente aponta violação aos arts. 1.022 e 1.025 do CPC/2015. Sustenta negativa de prestação jurisdicional, sob o argumento de que "o V. Acórdão da 4ª Câmara Cível do Tribunal de Justiça/RJ omitiu-se em apreciar as alegações da ora Recorrente no que diz respeito a evidente contradição da condenação e os artigos de lei mencionados, considerando a atuação da recorrida no suposto desvio de função no Estado do Rio de Janeiro (Tribunal de Justiça) ente absolutamente diverso de seu empregador, não obstante a tempestiva interposição de embargos de declaração" (fl. 329/330).
+É o relatório.
+A irresignação não comporta acolhida.
+Verifica-se não ter ocorrido ofensa aos arts. 1.022 e 1.025 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido (fls. 238/253), integrada em sede de embargos declaratórios (fls. 284/296), que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+Ante o exposto, nego provimento ao recurso especial. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
