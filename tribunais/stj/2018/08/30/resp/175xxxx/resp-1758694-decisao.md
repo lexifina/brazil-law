@@ -1,0 +1,27 @@
+EMENTA
+RECURSO ESPECIAL. FURTO. MOMENTO CONSUMATIVO. TEORIA DA AMOTIO. INVERSÃO DA POSSE. DESNECESSIDADE DA POSSE MANSA E PACÍFICA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto pelo Ministério Público do Estado de São Paulo, com fundamento no art. 105, inciso III, alínea "c", do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça daquele Estado da Federação, que deu parcial provimento ao apelo defensivo para, desclassificando o delito para a forma tentada e reconhecendo a forma privilegiada, condená-lo como incurso no art. 155, § 2º, c.c. art. 14, II, ambos do Código Penal, às penas para 09 (nove) meses e 10 (dez) dias de detenção e 07 (sete) dias-multa. Ato contínuo, declarou extinta a punibilidade do réu, ante a prescrição da pretensão punitiva do Estado, na forma retroativa.
+Alega o recorrente que o tribunal de origem deu interpretação divergente ao inciso I do art. 14 do Código Penal.
+Argumenta que o crime de furto se consuma no momento em que o agente se torna possuidor da coisa subtraída, ainda que por breves instantes, sendo desnecessária a posse mansa e pacífica ou desvigiada do bem (fl. 340).
+Requer, ao final, o provimento do recurso para, cassando-se o acórdão ora impugnado, condenar o recorrido por infração ao art. 155, caput, do Código Penal, recalculando-se sua pena (fl. 341).
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo provimento do apelo especial.
+É o relatório.
+Pretende o parquet o reconhecimento, no caso, da consumação do crime de furto.
+No caso, depreende-se dos autos que o réu foi localizado com a carteira subtraída da vítima quando detido por populares (fl. 212). Constata-se, pois, que ele deteve a posse do bem subtraído, ainda que por um breve espaço de tempo.
+Como cediço, no que se refere à consumação do delito de roubo ou furto, a jurisprudência deste Superior Tribunal de Justiça, bem como do Supremo Tribunal Federal, há muito se pacificou no sentido da adoção da teoria da aprehensio ou amotio, segundo a qual se considera consumado o delito no momento em que o agente se torna possuidor da res furtiva, ainda que a posse não seja de forma mansa e pacífica, não sendo necessário que o objeto subtraído saia da esfera de vigilância da vítima.
+Esse entendimento, inclusive, restou confirmado no âmbito do Superior Tribunal de Justiça ao julgar o Recurso Especial Representativo de Controvérsia n. 1.499.050/RJ:
+RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. ROUBO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA DA RES FURTIVA. DESNECESSIDADE. RECURSO PROVIDO.
+1. Recurso Especial processado sob o regime previsto no art. 543-C, § 2º, do CPC, c/c o art. 3º do CPP, e na Resolução n. 8/2008 do STJ. TESE: Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+2. A jurisprudência pacífica desta Corte Superior e do Supremo Tribunal Federal é de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima. Jurisprudência do STF (evolução).
+3. Recurso especial representativo de controvérsia provido para, reconhecendo que a consumação do crime de roubo independe da posse mansa e pacífica da res furtiva, restabelecer a pena e o regime prisional fixados na sentença.
+(REsp 1499050/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 09/11/2015)
+Nesse contexto, tendo o Tribunal a quo considerado que o delito foi tentado, não consumado, uma vez que o réu não teve a posse mansa e pacífica da res furtivae, impõe-se a reforma do julgado, reconhecendo-se, com base na teoria da aprehensio ou amotio a consumação do delito de roubo na espécie, em atenção à jurisprudência deste Superior Tribunal de Justiça.
+Restabelecida, pois, no caso, a sentença, que condenou o ora recorrido como incurso no art. 155, caput, do Código Penal, à pena de 1 (um) ano e 6 (seis) meses de reclusão e 25 dias-multa.
+Afasto, ainda, a prescrição da pretensão punitiva.
+Considerando-se o crime de furto consumado e a pena então fixada, verifica-se que não transcorreu o prazo de 4 (quatro) anos, aplicável no caso (art. 109, V, Código Penal). Destaca-se que a sentença condenatória foi publicada em 10.9.2015 (fl. 216) e que ocorreu o período de suspensão condicional do processo, no período entre 25.2.2010 e 22.7.2014 (fl. 207).
+Destarte, estando o acórdão recorrido em confronto com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, de rigor o provimento do recurso especial, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 932, V, "a", do Código de Processo Civil em vigor (Lei n.º 13.105/2015) c/c artigo 3º do Código de Processo Penal, dou provimento ao recurso especial para reconhecer a consumação do delito de furto e restabelecer a sentença, afastando-se o reconhecimento da prescrição.
+Publique-se.
+Intimem-se.
