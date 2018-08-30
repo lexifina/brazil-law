@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA RUTE IACHUS DA CRU em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"DA PRESCRIÇÃO TRIENAL PREVISTA NA LEGISLAÇÃO CAMBIÁRIA.
+3. PRESCRIÇÃO. CONFISSÃO DE DÍVIDA. PRAZO QUINQUENAL.
+INTELIGÊNCIA DO ARTIGO 206, § 5º, INCISO I, DO CÓDIGO CIVIL. INÍCIO DA CONTAGEM. VENCIMENTO DO TÍTULO E NÃO A DATA DO INADIMPLEMENTO DA OBRIGAÇÃO QUE CONTRAIU EM SEU VENCIMENTO ANTECIPADO. PRECEDENTES DESTE TRIBUNAL. PERÍODO NÃO PRESCRITO.
+4. POSSIBILIDADE DE ANÁLISE DAS DEMAIS QUESTÕES DO FEITO PELO TRIBUNAL (CPC/2015, ART. 1.013, § 4º). INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA ASSINADO PELAS PARTES E POR DUAS TESTEMUNHAS. PREENCHIMENTO DOS REQUISITOS DO ARTIGO 585, II, DO CPC/1973 (ART. 784, II, CPC/2015). TÍTULO HÁBIL A ENSEJAR A EXECUÇÃO. SENTENÇA REFORMADA. RECURSO PROVIDO." (e-STJ, fl. 211)
+Nas razões do recurso especial, a recorrente aponta existência de divergência jurisprudencial sustentando que "o v. Acórdão atacado está divergente em relação a aplicação feita em outros Tribunais de Justiça, tendo em vista que o TJPR entendeu que o prazo de cinco anos se inicia a partir da data do vencimento do título, isto é, da última parcela, enquanto o TJSP, decidiu em sentido contrário, em que o prazo de cinco anos inicia-se da data do inadimplemento, isto é, a partir da primeira parcela, data em que os valores tornam-se exigíveis." (fl. 252).
+Contrarrazões não apresentadas, conforme certidão de fls. 274.
+É o relatório. Passo a decidir.
+Impossível conhecer do especial interposto com fundamento na alínea "c" do artigo 105, III, da Constituição Federal, porquanto, mesmo nesses casos, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, sob pena de atração do Enunciado Sumular n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente). Nesse sentido, ganham relevância os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - DELIBERAÇÃO MONOCRÁTICA QUE RECONSIDEROU DECISÃO ANTERIORMENTE PROFERIDA, PARA CONHECER DO RECLAMO A FIM DE NEGAR SEGUIMENTO AO RECURSO ESPECIAL, ANTE A INCIDÊNCIA DA SÚMULA 284/STF. INSURGÊNCIA DOS DEMANDADOS.
+1. Nos termos do art. 52, I e IV, "a" do RISTJ, não há nulidade no exercício do juízo de retratação pelo novo relator, quando do julgamento de agravo regimental. Precedentes.
+2. A ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+3. Agravo regimental desprovido (AgRg no AgRg no Ag 1155444/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
