@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interposto por [NOME] contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 370, e-STJ):
+RECURSO DE APELAÇÃO CÍVEL  AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO  DPVAT  IMPROCEDENTE  CERCEAMENTO DE DEFESA POR AUSÊNCIA DE DEPOIMENTO PESSOAL  NÃO CONFIGURAÇÃO  INEXISTÊNCIA DE PROVA DO NEXO DE CAUSALIDADE ENTRE AS LESÕES E O ACIDENTE DE TRÂNSITO  RECURSO CONHECIDO E DESPROVIDO.
+Não há cerceamento de defesa no julgamento antecipado da lide quando as provas produzidas nos autos, sobretudo a pericial, são suficientes para estabelecer um juízo de certeza a respeito do caso.
+A ausência de conjunto probatório suficiente para caracterizar o nexo de causalidade entre o acidente automobilístico e as lesões sofridas não preenche os requisitos do artigo 5º, § 5º, da Lei nº 6.194/1974 para ensejar o pagamento de indenização decorrente do seguro obrigatório.
+Opostos embargos de declaração, esses foram rejeitados (fls. 395/402, e-STJ).
+Em suas razões de recurso especial (fls. 409/419, e-STJ), o recorrente aponta violação aos arts. 369, 370 e 1.022 do Código de Processo Civil de 2015, sob os seguintes argumentos, em síntese: a) existência de omissão no acórdão recorrido acerca da matéria suscitada nos embargos de declaração, relativa ao requerimento de novas provas capazes de demonstrar o nexo causal entre o acidente e a invalidez do recorrente; b) a necessidade de realização de prova testemunhal como meio de demonstrar o nexo causal entre o sinistro e a invalidez permanente.
+Contrarrazões às fls. 426/433, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação ao art. 1.022 do CPC/2015, eis que suficiente a fundamentação do acórdão recorrido; e b) o acolhimento da pretensão recursal demandaria o reexame do suporte fático dos autos, atraindo a incidência da Súmula 07 do STJ.
+Daí o agravo (fls. 443/449, e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 452/459, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. De início, no tocante à aventada violação ao art. 1.022 do CPC/2015, não assiste razão à parte recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Destaque-se, por oportuno, que a matéria apontada como omitida - requerimento de novas provas capazes de demonstrar o nexo causal entre o acidente e a invalidez do recorrente - foi objeto de expressa manifestação pelo Tribunal de origem, consoante se denota do seguinte excerto retirado do acórdão recorrido (fls. 372/373, e-STJ):
+Conforme relatado, o apelante pretende cassar a sentença, determinando o retorno dos autos à origem para dilação probatória e realização de audiência de instrução com o seu depoimento pessoal.
+Sem razão o apelante.
+O autor/apelante aduz que o seu depoimento pessoal seria imprescindível para esclarecer as inconsistências do laudo pericial.
+Contudo, no constitui cerceamento de defesa o julgamento antecipado da lide quando as provas pleiteadas forem irrelevantes ou inúteis para a solução da controvérsia, como no caso dos autos, em que realizada a perícia, o depoimento pessoal do autor pouco contribuiria para elucidar o nexo de causalidade entre o acidente e a suposta invalidez sofrida.
+Portanto, ainda que contrário a pretensão recursal, não há falar em omissão, tampouco em nulidade do aresto recorrido.
+2. No mérito, cinge-se a controvérsia recursal à verificação acerca da ocorrência de cerceamento de defesa, ante o indeferimento da produção de novas provas.
+Com efeito, à luz do artigo 370 do NCPC (antigo 130 do CPC/73), cabe ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias.
+Assim, o poder de instrução, conferido ao magistrado em decorrência dos princípios da livre admissibilidade da prova e do livre convencimento motivado, autoriza-o a indeferir a perícia requerida, quando constatada sua manifesta desnecessidade ou inconveniência, o que não configura cerceamento de defesa.
+Nesse contexto, a revisão do entendimento do Tribunal estadual acerca da necessidade de produção de outras provas para o deslinde da controvérsia reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, o que é vedado, na via do recurso especial, ante o óbice da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja Recurso Especial.").
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. PERÍCIA. INDEFERIMENTO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ.
+REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz, em seus artigos 370 e 371, o qual preceitua que cabe ao magistrado dirigir a instrução probatória por meio da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+5. Inviável rever o entendimento firmado pelas instâncias ordinárias, para acolher a existência de cerceamento de defesa pelo indeferimento da realização da perícia, sem a análise dos fatos e das provas dos autos, o que é inviável em recurso especial diante da incidência da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1105171/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018) (grifo nosso)
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. PRODUÇÃO DE OUTRAS PROVAS. DESNECESSIDADE. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. ACÓRDÃO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE COMPROVAÇÃO DA INCAPACIDADE TOTAL E PERMANENTE DA PARTE AUTORA. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Não há falar em cerceamento de defesa quando o julgador, motivadamente, considera desnecessária a produção de outras provas, inclusive a realização de nova perícia, ante a existência, nos autos, de elementos suficientes para a formação de seu convencimento, porquanto "os arts. 130 e 131 do CPC consagram o princípio do livre convencimento motivado, segundo o qual o juiz é livre para apreciar as provas produzidas, bem como a necessidade de produção das que forem requeridas pelas partes, indeferindo as que, fundamentadamente, reputar inúteis ou protelatórias" (STJ, AgRg no REsp 1.483.175/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/12/2014).
+II. Caso em que o Tribunal de origem, à luz da prova dos autos, inclusive da pericial, entendeu não comprovada a incapacidade laborativa total e permanente da autora, requisito para a conversão do auxilio-doença em aposentadoria por invalidez. Diante desse quadro, a inversão do julgado demandaria incursão na seara fático-probatória dos autos, inviável, na via eleita, a teor da Súmula 7 do STJ.
+III. Agravo Regimental improvido.
+(AgRg no AREsp 586.274/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/09/2015, DJe 28/09/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INVALIDEZ PERMANENTE TOTAL. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 130 E 330 DO CPC. INCIDÊNCIA DA SÚMULA 7 DO STJ. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 757 E 760 DO CÓDIGO CIVIL. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. O princípio da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do art. 130 do Código de Processo Civil, permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou protelatórias. Rever os fundamentos que levaram a conclusão a esse respeito, demandaria o exame do conjunto probatório, vedado pela Súmula 7/STJ.
+2. As instâncias ordinárias, com base nos elementos fático-probatórios dos autos e interpretação de cláusulas contratuais, concluiu que a invalidez da parte recorrida estaria coberta pela apólice de seguro a ensejar sua indenização. Desse modo, para alcançar conclusão diversa daquela a que chegou as instâncias ordinárias e acolher a tese sustentada pela parte agravante, seria imprescindível o reexame de prova e a reinterpretação de cláusula contratual, sendo ambos inviáveis nesta instância especial (Súmulas 5 e 7/STJ).
+3. Agravo regimental não provido.
+(AgRg no AREsp 565.015/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/09/2014, DJe 01/10/2014) (grifou-se)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em R$ 100,00 (cem reais), a ser suportado exclusivamente pela parte recorrente, observadas as regras da gratuidade da justiça.
+Publique-se.
+Intimem-se.
