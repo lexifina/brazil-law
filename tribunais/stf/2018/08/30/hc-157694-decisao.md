@@ -1,0 +1,28 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Fábio Rogério Donadon Costa em favor de Lucas Gabriel Nunes Bilotto, contra decisão proferida pelo Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC 442.399/SP.
+    Consta dos autos que o paciente foi denunciado como incurso no artigo 157, §2º, I e II, na forma do artigo 29, ambos do Código Penal, porquanto, juntamente com outras três pessoas, subtraiu de um estabelecimento comercial uma quantia de R$ 110,00 (cento e dez reais) em dinheiro e R$ 480,00 em produtos, mediante grave ameaça. (eDOC 3, p. 1-4).
+    A prisão preventiva foi decretada em 02.06.2017 (eDOC 3, p. 6-7).
+    Irresignada, a defesa impetrou o habes corpus nº 2043113-43.2018.8.26.0000 no Tribunal de Justiça do Estado de São Paulo, que visava a extensão do efeito da decisão que concedeu a liberdade provisória aos corréus. (eDOC 3, p. 96). O writ foi indeferido. (eDOC 3, p. 94).
+    A medida liminar foi indeferida. (eDOC 7, p. 1-4).
+    Daí a impetração de habeas corpus no STJ onde se postulou, em suma, o direito de aguardar em liberdade até o o julgamento do writ.
+    Conforme exposto, o Ministro relator indeferiu liminarmente o habeas. (eDOC 3, p. 95-98).
+    Nesta Corte, a defesa reitera os argumentos anteriores, afirma a presença de constrangimento ilegal em decorrência da prisão preventiva e excesso de prazo para formação da culpa. (eDOC 1, p. 1-20).
+    Requer, liminarmente, o direito de aguardar em liberdade até o julgamento do mérito do writ. No mérito, requer a substituição da prisão por medidas cautelares diversas. (eDOC 1, p. 18-20).
+    É o relatório.
+    Passo a decidir.
+    Trata-se de habeas corpus no qual a defesa insurge-se contra decisão monocrática proferida pelo Ministro Sebastião Reis Júnior, do STJ, que indeferiu liminarmente o HC 442.399/SP.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental contra a decisão do STJ. Aliás, no que se refere ao tema, tenho-me posicionado, na Segunda Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014, e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no artigo 102, inciso II, alínea a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011; e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, XXXV, CF), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de evidente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste habeas corpus. Daí, o acerto da decisão ora impugnada:
+          “Após atenta leitura das peças que instruem estes autos, notadamente do acórdão hostilizado, não me deparei com motivo que justifique o seguimento da impetração. No caso, não há falar em evidente ilegalidade.
+          Primeiro, porque consoante restou exaustivamente demonstrado pelo Tribunal a quo a situação fática do paciente Lucas Gabriel Nunes Billoto é completamente distinta da situação fática dos seus comparsas Bruno Miranda Bonacasata e André Luis Miranda Bonacasata, que se encontram soltos, parece-me que não há qualquer motivo para que se conceda efeito extensivo ao presente ‘Habeas Corpus’ n. 2043113-43.2018.8.26.0000, de sorte que ainda remanescem íntegros os fundamentos daquele ‘habeas’ (n. 2205325-45.2017.8.26.0000) (fl. 96). É dizer: enquanto a soltura dos corréus supramencionados decorreu da ausência de fundamentação do decreto prisional, a manutenção do encarceramento do ora paciente, ao contrário, ampara-se, exatamente, na presença de elementos de cautelaridade, em especial, em razão de sua periculosidade, eis que fora recentemente condenado pela prática de roubo qualificado pelo mesmo Juízo.
+    Segundo, porque a questão da necessidade da prisão preventiva do ora paciente já foi objeto de exame preliminar por este Tribunal Superior, que, em 7/12/2017, indeferiu a liminar nos autos do HC nº 426.361/SP, entendendo não haver manifesto constrangimento, de modo que, inviabilizada, de novo, afigura-se tal apreciação, dada a reiteração de pedido. (eDOC 3, p. 97-98)
+    Feitas essas considerações, ressalvo minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao pedido formulado habeas corpus, por ser manifestamente incabível (artigo 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 30 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
