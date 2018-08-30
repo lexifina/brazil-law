@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 183):
+Apelação - Pretensão de manutenção da condição de beneficiário de plano de saúde coletivo ofertado pela ex-empregadora - Contrato administrado por instituição fundacional instituída para o fim específico de proporcionar assistência à saúde dos funcionários ativos, inativos e seus dependentes da sociedade ex-empregadora - Autogestão - Artigo 2º, da Resolução Normativa ANS nº 137/2006 - Questão de fundo que tem relação direta com o contrato de trabalho extinto - Competência da Justiça Trabalhista para dirimir o conflito, conforme posição sedimentada pela Segunda Seção do C. Superior Tribunal de Justiça - Reconhecimento, de ofício, da incompetência da Justiça Comum, com a consequente anulação da r. sentença proferida e determinação do envio dos autos à Justiça Especializada - Recurso não conhecido, com determinação
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 196/198).
+Nas razões do especial (e-STJ fls. 200/211), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alega divergência jurisprudencial e violação dos arts. 31 da Lei n. 9.656/1998 e 47 e 51, IV, do CDC, sustentando, em síntese, ser competência da Justiça Comum o julgamento do presente feito.
+O recurso foi admitido às fls. 220/222 (e-STJ).
+É o relatório.
+Decido.
+Assim consta do acórdão recorrido (e-STJ fls. 184/186):
+Consoante se vislumbra dos autos, a requerida Fundação Saúde Itaú foi constituída para o fim específico de proporcionar assistência à saúde dos funcionários ativos, inativos e seus dependentes da instituição financeira Itaú Unibanco S/A, ex-empregadora do autor, e das sociedades participantes do conglomerado Itaúsa aderentes.
+Considerando-se que o plano de saúde, objeto da presente lide, é destinado, exclusivamente, aos funcionários, ativos e inativos, das sociedades mantenedoras da instituição fundacional, impende reconhecer que referido contrato ostenta natureza de autogestão (artigo 2º, da Resolução Normativa ANS nº 137/2006).
+Muito embora esta Relatoria, em julgados anteriores, tenha afirmado a competência da Justiça Comum para dirimir os conflitos que envolviam a discussão acerca da manutenção de ex-empregado como beneficiário de plano de saúde coletivo, ainda que na modalidade de autogestão, em atenção ao recente posicionamento pacificado o pela Segunda Seção do C. Superior Tribunal de Justiça, impende reconhecer que, no caso específico, a competência para a apreciação da lide está adstrita à Justiça Especializada do Trabalho.
+Isto porque, não sendo a ex-empregadora mera estipulante do contrato de plano de saúde, mas, em verdade, sua mantenedora e administradora, a discussão acerca da manutenção de ex-funcionário como beneficiário possui relação direta com o contrato de trabalho extinto:
+(..)
+Destarte, de ofício, se impõe o reconhecimento da incompetência da Justiça Comum para apreciar a lide apresentada, determinando-se, por consequência, a anulação da r. sentença proferida e o encaminhamento dos autos à Justiça Especializada.
+Como se vê, o Tribunal de origem decidiu conforme a jurisprudência do STJ, no sentido de que, "nos casos em que a ex-empregadora mantém o próprio plano de saúde em favor de seus empregados, na modalidade de autogestão, a discussão acerca do direito do recorrido de ser mantido no plano de saúde possui relação direta com o contrato de trabalho extinto, impondo-se a competência da Justiça do Trabalho" (AgRg no REsp n. 1.476.314/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 6/10/2015, DJe 26/10/2015). Na mesma linha:
+PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO MANTIDO PELO EMPREGADOR. MANUTENÇÃO DE EX-EMPREGADO. MESMAS CONDIÇÕES E CUSTEIO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. INCOMPETÊNCIA ABSOLUTA DO STJ. PROCLAMAÇÃO DE OFÍCIO. ART. 113, § 2º, CPC/1973.
+1. Tratando-se de plano de saúde mantido pelo próprio empregador na modalidade de autogestão, compete à Justiça laboral processar e julgar os feitos cuja controvérsia se refira à manutenção de ex-empregado, após ruptura do vínculo trabalhista, nas mesmas condições de cobertura e custeio do plano a que aderiu na vigência do contrato de trabalho.
+2. Reconhecimento, de ofício, da incompetência do STJ nos termos do art. 113, § 2º, do CPC/1973, declarando-se nulos todos os atos decisórios praticados.
+3. Recurso especial julgado prejudicado em razão do reconhecimento, de ofício, da incompetência absoluta da Justiça comum (art. 113, § 2º, CPC/1973) e consequente declaração de nulidade de todos os atos decisórios aqui praticados, com remessa dos autos ao Juízo trabalhista, observada a competência territorial.
+4. Agravo interno em recurso especial não provido.
+(AgInt no REsp 1.614.154/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2016, DJe 3/2/2017.)
+Assim, correto o reconhecimento da competência da Justiça do Trabalho para julgamento do presente feito.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
