@@ -1,0 +1,35 @@
+Decisão: Trata-se de habeas corpus com pedido de liminar, impetrado pela Defensoria Pública do Estado de Minas Gerais, em favor de Wanderson Adriano Gregório de Jesus, contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento o RHC 98.588/MG (eDOC 2, p.140-143).
+    Consta dos autos que o paciente foi preso em flagrante no dia 24.02.2018 pela suposta prática do delito descrito no artigo 33, caput, da Lei 11.343/2006, porquanto mantinha em sua posse 49 porções de maconha, totalizando 508,8 gramas, e 2 pinos de cocaína, totalizando 2,8 gramas. (eDOC 2, p. 12). A prisão foi convertida em preventiva no dia 26.02.2018. (eDOC 2, p. 71).
+    Irresignada, a defesa impetrou o habeas corpus 1.0000.18.023650-7/000 no Tribunal de Justiça do Estado de Minas Gerais, tendo sido a liminar indeferida (eDOC 2, p. 59) e, posteriormente, a ordem denegada (eDOC 3, p. 1-7).
+    Daí a interposição, no STJ, do referido RHC 98.588/MG, cujo provimento foi negado, por unanimidade, pela Quinta Turma. (eDOC 3, p. 102-111).
+    No presente HC, sustenta-se, em síntese, a ausência de fundamentação idônea para decretação de prisão preventiva. (eDOC 1).
+    Ao final, o impetrante requer, em liminar e no mérito, que seja revogada a prisão preventiva do paciente. (eDOC 1, p. 19).
+    É o relatório.
+    Decido.
+    Conforme já relatado, a defesa alega, em síntese, a inexistência de motivos ensejadores da prisão cautelar, sobretudo porque não fundamentada a decisão que negou à paciente o direito de recorrer em liberdade.
+    Nos termos do art. 312 do CPP, a prisão preventiva pode ser decretada (i) como garantia da ordem pública ou da ordem econômica, (ii) por conveniência da instrução criminal ou (iii) para assegurar a aplicação da lei penal.
+    No entanto, na linha da jurisprudência deste Tribunal, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Dessa forma, a tarefa de interpretação constitucional, para análise de excepcional situação jurídica de constrição da liberdade, exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados.
+    Por oportuno, transcrevo trecho do voto proferido no citado HC 1.0000.18.023650-7/000, do TJ/MG, cuja ordem fora denegada:
+    “Inicialmente, ressalto, que o delito previsto no art. 33 da Lei 11.343/06, imputado ao paciente, é punido com pena privativa de liberdade máxima abstratamente cominada superior a 4 anos de reclusão, portanto, sua prisão cautelar não contraria o disposto no art. 313, Ido CPP, com a nova redação dada pela Lei n° 12.403/01.
+    A crítica à decretação da prisão preventiva não procede.
+    O entendimento predominante, tanto na doutrina como na jurisprudência, é no sentido de que deve ser decretada a prisão preventiva quando presentes os motivos arrolados na lei processual penal, devendo a decisão da custódia cautelar estar devidamente fundamentada.
+    In casu, há indícios suficientes de autoria e prova da existência do crime.
+    O MM. Juiz de Direito, na r. decisão que converteu a prisão em flagrante do paciente em prisão preventiva, externou, fundamentadamente, os motivos para a sua decisão, restando suficientemente exposta nos autos, diante de fatos concretos e, baseadas na lei processual penal, garantia da ordem pública e devida aplicação da lei penal, não havendo correção a ser efetuada em sede de Writ.” (eDOC 2, p. 92-93)
+    É pertinente, também, trazer à baila os fundamentos contidos no acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que denegou o RHC 98.588/MG, assim ementado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGAS. RECURSO ORDINÁRIO DESPROVIDO.
+    I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+    II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente pela quantidade dos entorpecentes apreendidos (508,8 g de maconha e 2,8 g de cocaína), a indicar um maior desvalor da conduta perpetrada.
+    III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+    Recurso ordinário desprovido.” (consulta ao site eletrônico do STJ no RHC n. 98.588.)
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública, considerada a gravidade concreta do crime e porque devidamente fundamentada (HC 139.159/CE, de minha relatoria, Segunda Turma, DJe 16.2.2017; HC 125.290 AgR/MG, rel. min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 118.038/MS, rel. min. Cármen Lúcia, Segunda Turma, DJe 25.2.2014; HC 119.385/RS, rel. min. Cármen Lúcia, Segunda Turma, DJe 7.2.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; HC 131.442/SP, de minha relatoria, Segunda Turma, DJe 21.9.2016); HC 140.427/CE, por mim relatado, decisão monocrática, DJe 15.9.2017; HC 143.475/RS, por mim relatado, decisão monocrática, DJe 30.11.2017 e HC 143.576/BA, por mim relatado, decisão monocrática, DJe 29.11.2017.
+    Assim, da leitura dos autos, verifico que o decreto prisional encontra-se devidamente fundamentado em dados concretos, não apenas na gravidade abstrata do delito.
+    As circunstâncias que justificaram a prisão em apreço, mencionadas na decisão do juízo a quo, sobretudo a quantidade de droga apreendida – 508,8 gramas de maconha e 2,8 gramas de cocaína – (eDOC 2, p. 12), nos acórdãos do TJ/MG e do STJ, autorizam a conclusão pela necessidade da segregação cautelar para garantia da ordem pública.
+    Vê-se, portanto, que a medida extrema lastreou-se em elementos concretos colhidos dos próprios autos, harmonizando-se a constrição da liberdade da acusada com a jurisprudência do STF.
+    Nesse contexto, entendo, também, que as medidas cautelares alternativas diversas da prisão, previstas na Lei 12.403/2011, não se mostram suficientes a acautelar o meio social.
+    Diante do exposto, ausente constrangimento ilegal a ser sanado, denego a presente ordem de habeas corpus, com fundamento no art. 192, caput, do RI/STF.
+    Publique-se.
+    Brasília, 30 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+                 Documento assinado digitalmente
