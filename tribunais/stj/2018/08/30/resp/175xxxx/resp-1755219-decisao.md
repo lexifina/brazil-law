@@ -1,0 +1,60 @@
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. 1. RECUSA INDEVIDA DE COBERTURA DE TRATAMENTO INDICADO POR MÉDICO. PRECEDENTES. 2. PROCEDIMENTO NÃO INCLUSO NA LISTA DA ANS. ROL EXEMPLIFICATIVO. PREVISÃO DE COBERTURA PARA A DOENÇA. PRECEDENTES. 3. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Unimed Fortaleza Sociedade Cooperativa Médica Ltda., com fulcro no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (e-STJ, fl. 419):
+APELAÇÃO CÍVEL - RECURSO ADESIVO - AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS - PLANO DE SAÚDE - MENOR ACOMETIDO DE PARALISIA CEREBRAL - NECESSITA DE ASSISTÊNCIA MÉDICA NAS ESPECIALIDADES DE NEUROLOGIA, ORTOPEDIA, FONOAUDIOLOGIA, FISIOTERAPIA E PSICOPEDAGOGIA - TRATAMENTO ESPECIAL INDICADO POR THERASUIT NÃO COBERTO PELO PLANO - POSSIBILIDADE - PAGAMENTO PELO AUTOR A MÉDICOS NÃO CREDENCIADOS - REQUERIMENTO DE REEMBOLSO - DEFERIMENTO TÃO SOMENTE ÀS ESPECIALIDADES NÃO OFERTADAS PELO PLANO (FISIOTERAPIA TRATAMENTO POR THERASUIT E PSICOPEDAGOGIA) - SENTENÇA REFORMADA.
+1. Menor acometido de Paralisia Cerebral, representado por seu pai, requer reembolso de valores pagos com tratamento médico especializado e necessário, porquanto acometido a tal doença.
+2. As relações estabelecidas entre as operadoras de plano de saúde e seus participantes, estão sujeitas à incidência do Código de Defesa do Consumidor ante a emolduração do vínculo na dicção dos arts. 2º e 3º desse estatuto legislador.
+3. Tendo em vista a necessidade de tutela do direito à vida e à saúde, é indevida a recusa do plano de saúde em autorizar o tratamento de fisioterapia por Therasuit e psicopedagogia ao autor, uma vez que não oferece profissionais habilitados para tal, devendo ser reembolsado quanto ao que vertera no tratamento médico, pois fere de morte o art. 51, IV do CDC, na medida em que coloca o paciente em desvantagem, retirando dele a chance de sobrevida digna diante da impossibilidade de pagar o tratamento que possibilitaria a melhora do qual padece.
+4. Embora deva ser privilegiada a indicação médica mais adequada e condizente com as necessidades terapêuticas do autor, de acordo com os recursos oferecidos pelos protocolos médicos, deve ser condenado o plano de saúde ressarcir as despesas decorrentes do tratamento médico recomendado e feito pelo segurado. No presente caso, aos profissionais de fisioterapia, psicopedagogia e fisioterapia.
+5. A negativação do plano de saúde em ressarcir o autor em honorários médico a profissionais não credenciados pelo plano e a cobertura de tratamento por especialidades não cobertas, não implica transtorno passível de ensejar reparação por danos morais, sendo necessária a comprovação do efetivo dano a algum dos direitos da personalidade do requerente para que este se concretize.
+6. Recurso de apelação e recurso adesivo conhecidos e parcialmente providos. Sentença reformada.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do apelo extremo, a insurgente aponta violação aos arts. 12, VI, da Lei n. 9.656/1998 e 54, § 4º, do CDC.
+Sustenta, em síntese, que não estaria obrigada a custear procedimento que, além de não possuir cobertura contratual, não consta no rol de procedimentos da Agência Nacional de Saúde Suplementar.
+Contrarrazoado o feito (e-STJ, fls. 508-512), o recurso foi admitido na origem (e-STJ, fls. 518-520), ascendendo os autos a esta Corte Superior.
+Brevemente relatado, decido.
+Ao analisar a controvérsia, o Tribunal de origem entendeu que, havendo expressa indicação médica e urgência, a operadora de plano de saúde deveria arcar com os custos de tratamento não ofertado contratualmente, ainda que um dos procedimentos não esteja previsto no rol da ANS.
+A propósito, confiram-se os seguintes excertos do acórdão vergastado (e-STJ, fls. 426-431):
+Da análise detida de todos os elementos de prova constantes dos autos, no que se refere ao reconhecimento da responsabilidade da UNIMED FORTALEZA sobre o ressarcimento das despesas médicas e ainda ser realizado o tratamento com o Therasuit na pessoa do usuário o menor [NOME], uma criança que sequer teve o direito de frequentar uma escola como toda criança, chego a conclusão de que não teve a UNIMED em certa parte, a capacidade de compreender a necessidade e urgência do caso e o sofrimento por que passam a criança e sua família.
+(..)
+Vê-se com lucidez, a necessidade do autor em realizar os tratamentos requeridos.
+Trazendo de volta a Lei nº 9.656/98, digo que seus artigos 10 e 35-C, incluem entre a cobertura obrigatória o atendimento destinado a reparar situações de emergência e urgência de pacientes com risco de lesões irreparáveis à saúde.
+(..)
+Neste diapasão, tendo-se em vista a necessidade de tutela do direito à vida e à saúde do autor/consumidor, não é possível ao plano de saúde negar a realização do tratamento com ressalva àquele. Não se mostra razoável ignorar a necessidade do tratamento para o autor, sendo o ônus de assegurar a adequada prestação do serviço de saúde ao plano, nos termos do risco da atividade.
+(..)
+O que deve sobrepujar, na espécie, é o tratamento que melhor se adeque ao autor e beneficiário do plano de saúde, de acordo com os recursos oferecidos pelos protocolos médicos. Destarte, em tendo sido prescrito o procedimento do tratamento por Therasuit e psicopedagógico já confirmado que teve o autor melhoras em seu desenvolvimento deve tal ser privilegiado. Ou seja, deve ser levado em conta a preceituação médica, que, obviamente, fora pautada pelo estado de saúde do autor e pelo que é mais indicado para o êxito do tratamento.
+Deve, portanto, a UNIMED DE FORTALEZA, além de reembolsar o autor quanto ao que já vertera, aos profissionais e especialidades que não fazem parte do quadro de profissionais cooperados, ou seja, o fisioterapeuta e a psicopedagoga, de acordo com a tabela arquivada no órgão competente e com a entrega de toda documentação ali exigida, aferindo-se legítima a continuidade do tratamento por Therasuit, tendo em vista que nesta capital apenas três profissionais oferecem o tratamento e nenhum é filiado à UNIMED.
+Emerge de tudo o que já foi dito, que o tratamento necessário ao autor é passível de ser qualificado como urgente, pois destinado a elidir as manifestações da paralisia cerebral, que infelizmente já o acompanha desde sua natividade.
+(..)
+Devido ao caráter da doença que afeta o autor não são todos os profissionais de que necessita, credenciados ao plano de saúde, como já dito anteriormente. Mas algumas especialidades estão no lastro contratual, o que nos faz entender que deve a UNIMED DE FORTALEZA arcar com o pagamento dos honorários médicos dos profissionais não credenciados ao plano.
+Já em relação à especialidade Psicopedagogia que não é ofertada pelo plano, deve sim, além do autor ser ressarcido com o que já pagou, continuar o tratamento sob às expensas do plano.
+Da mesma maneira com o tratamento de fisioterapia por Therasuit, já que possibilita uma melhora do mal do qual padece o autor. Não existindo nenhum profissional credenciado ao plano UNIMED FORTALEZA, deve, igualmente ser ressarcido de acordo com a tabela, e ter a continuidade do tratamento até sua alta médica.
+Além disso, o fato de não estar o procedimento elencado no rol da ANS - AGÊNCIA NACIONAL DE SAÚDE - nada significa, pois não se discute a necessidade do tratamento, pois cabe ao médico especialista eleger qual o tratamento mais conveniente para a cura do paciente.
+O entendimento acima externado se alinha à jurisprudência desta Corte Superior, que tem se posicionado no sentido de que, ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento da doença coberta pelo plano.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. NEGATIVA DE AUTORIZAÇÃO DE EXAME MÉDICO. SÚMULAS 5 E 7/STJ. COBERTURA SECURITÁRIA DA ENFERMIDADE. RECUSA INDEVIDA.
+(..)
+3. A operadora de plano de saúde pode estabelecer as doenças que terão cobertura, mas não podem limitar o tipo de tratamento a ser utilizado pelo paciente. Dessa forma, sendo fato incontroverso a cobertura securitária para a enfermidade em questão, inviável a insurgência da recorrente pretendendo limitar o tipo de tratamento a que deve se submeter o paciente.
+4. Agravo interno não provido.
+(AgInt no AREsp 1072960/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/06/2017, DJe 08/09/2017)
+AGRAVO INTERNO NO AGRAVO (ARTIGO 544 DO CPC/73) - AÇÃO DE OBRIGAÇÃO DE FAZER - NEGATIVA DE COBERTURA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. IRRESIGNAÇÃO DA OPERADORA DE PLANO DE SAÚDE.
+1. Ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do Código de Defesa do Consumidor), revela-se abusivo o preceito excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico, indicado pelo médico que acompanha o paciente, voltado à cura de doença efetivamente coberta. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 919.368/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2016, DJe 07/11/2016)
+Ademais, é assente nesta Corte Superior o entendimento de que é inadmissível a recusa do plano de saúde em cobrir tratamento médico voltado à cura de doença coberta pelo contrato sob o argumento de não constar da lista de procedimentos da ANS, pois este rol é exemplificativo, impondo-se uma interpretação mais favorável ao consumidor.
+Por oportuno:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ABUSIVIDADE CONTRATUAL. INTERPRETAÇÃO FAVORÁVEL AO CONSUMIDOR. PROCEDIMENTO TERAPÊUTICO. CLÁUSULA LIMITATIVA. RECUSA INDEVIDA. AUSÊNCIA NO ROL DA ANS. COBERTURA DEVIDA.
+(..)
+2. Não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato de plano de saúde.
+3. São abusivas as cláusulas contratuais que limitam o direito do consumidor ao tratamento contratado.
+4. O fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor. (AgRg no AREsp 708.082/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 26/02/2016)
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1099275/SP, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, julgado em 09/11/2017, DJe 20/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS. IRRELEVÂNCIA. TRATAMENTO NECESSÁRIO À RECUPERAÇÃO DO BENEFICIÁRIO. AGRAVO NÃO PROVIDO.
+1. O fato de o procedimento não constar do rol da ANS não afasta o dever de cobertura do plano de saúde, haja vista se tratar de rol meramente exemplificativo, não se admitindo restrição imposta no contrato de plano de saúde quanto à obtenção de tratamento necessário à completa recuperação da saúde do beneficiário.
+2. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1134753/CE, Rel. Ministro Lázaro Guimarães, Desembargador Convocado do TRF 5ª Região, Quarta Turma, julgado em 22/05/2018, DJe 30/05/2018)
+Diante do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
