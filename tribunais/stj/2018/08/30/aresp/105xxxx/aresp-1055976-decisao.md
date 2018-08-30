@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL (CPC/1973). AGRAVO DE INSTRUMENTO. FORO COMPETENTE. FIXAÇÃO POR OCASIÃO DO RECONHECIMENTO DA RELAÇÃO DE CONSUMO. DOMICÍLIO DO AUTOR. POSICIONAMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. CONHEÇO DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por PAMPLONA LOTEAMENTO LTDA contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+COMPETÊNCIA - Compromisso de compra e venda de imóvel - Ação de rescisão contratual - Ajuizamento no foro do domicílio dos autores compromissários compradores - Insurgência da promitente vendedora, mediante exceção de incompetência - Rejeição pelo juízo a quo, que afastou cláusula dc eleição dc foro - Inconformismo da excipiente - Descabimento - Matéria controvertida que diz respeito à relação jurídica de caráter consumerista - Disciplina do CDC permite, a despeito da existência de cláusula de eleição de foro, o ajuizamento da ação no foro do domicílio do consumidor - Art. 101, I, do referido Código - Medida que visa à facilitação da defesa pelo consumidor de seus direitos - Precedentes - Decisão mantida - Recurso desprovido, por maioria.
+Os embargos de declaração foram opostos e rejeitados às fls. 368-371, e-STJ.
+Nas razões do recurso especial (fls. 373-381, e-STJ), a parte recorrente apontou violação dos seguintes dispositivos normativos: art. 111 do Código de Processo Civil; e arts. 6º, inciso VIII, e 101, ambos do Código de Defesa do Consumidor, sustentando, em síntese, que, presente a natureza obrigacional no contrato em tela, perfeitamente válida a cláusula que elegeu o foro da Comarca de Agudos/SP como sendo o competente para dirigir os conflitos advindos da relação jurídica em exame, de maneira que deve ser declarada a incompetência da Comarca de Araçatuba-SP, com a remessa dos autos à Comarca de Agudos-SP, como medida de correta aplicação da lei.
+Contrarrazões apresentadas às fls. 426-453, e-STJ.
+Em decisão monocrática (fls. 482-483, e-STJ), foi inadmitido a subida do apelo nobre em face da ausência de demonstração da vulneração aos dispositivos tidos por contrariados nas razões do recurso especial.
+Nas razões do agravo em recurso especial (fls. 486-488, e-STJ), a agravante buscou a reforma da decisão impugnada, lançando argumentação no sentido de supera o impedimento acima declinado.
+É o relatório.
+Decido.
+A pretensão recursal não merece prosperar.
+Inicialmente, registro que o acórdão recorrido foi publicado antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo STJ 2/2016.
+Conforme é sabido, a competência é matéria disciplinada pelo Código de Processo Civil de 1973, em seus artigos 94 e ss., que tem como regra geral o foro do domicílio do réu, além de outras disposições que estabelecem o foro competente por razões de proteção ao mais fraco na relação jurídica, por razões de economia processual ou por razões de facilidade na instrução do feito.
+De outra banda, havendo relação de consumo, como na situação em relevo, aplica-se o CDC, podendo a ação ser proposta no domicílio do Autor.
+Na hipótese em relevo, conforme consignado nas razões decisórias do acórdão em testilha, definiu o foro competente para o processamento e julgamento do presente demanda como sendo o do domicílio dos autores e, por consequência, afastando o foro da regra geral prevista na legislação processual, argumento de que tal escolha facilitaria a defesa dos direitos dos consumidores.
+Assim, verifica-se que o entendimento esposado pelo Tribunal de origem encontra-se em conformidade com a jurisprudência desta Corte, a qual se consolidou no sentido de que a cláusula de eleição de foro deve ser afastada nas hipóteses em que a sua observância resultaria em inviabilidade ou especial dificuldade de acesso à Justiça.
+Nesse sentido:
+PROCESSO CIVIL - RECURSO ESPECIAL EM AUTOS DE AGRAVO DE INSTRUMENTO - RETENÇÃO LEGAL - AFASTAMENTO - DIVERGÊNCIA JURISPRUDENCIAL NOTÓRIA - COTEJO ANALÍTICO - DESNECESSIDADE - COMPETÊNCIA - AÇÃO REVISIONAL - CONTRATO DE FINANCIAMENTO IMOBILIÁRIO - SISTEMA FINANCEIRO DA HABITAÇÃO - FORO DE ELEIÇÃO - PREJUÍZO AOS MUTUÁRIOS - FORO DO DOMICÍLIO - PREVALÊNCIA - INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR - RECURSO PROVIDO.
+(..)
+2 - Em se cuidando de divergência jurisprudencial notória, manifestamente conhecida na Corte, e evidenciada, estreme de dúvidas, através da exposição das ementas dos acórdãos em confronto, este Colegiado orienta-se no sentido de dispensar a parte da reiteração de sua demonstração mediante o cotejo analítico, mormente em sendo a matéria exclusivamente de direito e o paradigma oriundo deste Tribunal. Precedentes.
+3 - Não obstante a absoluta similitude fática, foram as situações em confronto solucionadas de forma diversa, ou seja, no v. acórdão recorrido determinou-se a competência do foro de eleição, privilegiando-se o princípio pacta sunt servanda. Ao revés, no paradigma consagrou-se a regra geral de competência do foro do domicílio sobre o de eleição, justamente porque em pauta interesses de mutuários do Sistema Financeiro da Habitação.
+4 - Manifesto o dissenso interpretativo, resta consignar que a jurisprudência desta Corte é uníssona no sentido propugnado pelo v.
+acórdão paradigma, firme, ainda, quanto à incidência do Código de Defesa do Consumidor aos contratos de financiamento imobiliário vinculados ao Sistema Financeiro da Habitação. Desta feita, afastam-se as cláusulas contratuais que dificultem ou deixem de facilitar o acesso do hipossuficiente ao Judiciário, ou, in casu, a cláusula de eleição de foro diverso do domicílio dos mutuários.
+Precedentes.
+5 - Recurso especial provido, determinando-se a competência do foro do domicílio dos recorrentes. (REsp 662.585/SE, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 01/03/2005, DJ 25/04/2005, p. 357)
+Portanto, verifica-se que o posicionamento adotado pelo Tribunal de origem não destoa da jurisprudência do Superior Tribunal de Justiça quanto à natureza da competência nas relações de consumo, bem como em razão do foro competente para o processamento e julgamento da presente demanda.
+Diante de tais considerações, o indeferimento do pleito recursal é medida que se impõe.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Intimem-se.
