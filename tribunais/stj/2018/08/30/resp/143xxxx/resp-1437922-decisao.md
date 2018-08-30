@@ -1,0 +1,58 @@
+EMENTA
+RECURSO ESPECIAL. TRIBUTÁRIO. PARCELAMENTO. LEI 9.430/1996. INCIDÊNCIA DE JUROS MORATÓRIOS NO PERÍODO COMPREENDIDO ENTRE O VENCIMENTO E A ADESÃO E A CONSOLIDAÇÃO DO PARCELAMENTO. LEGALIDADE. ALEGAÇÕES GENÉRICAS. FUNDAMENTOS. SÚMULA 283 E 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 128):
+TRIBUTÁRIO. PARCELAMENTOS ESPECIAIS. IMPUGNAÇÃO ÀS CONDIÇÕES. INCABIMENTO. OPÇÃO DO CONTRIBUINTE. FACULDADE. RESPEITO AO DETERMINADO PELAS LEIS QUE INSTITUÍRAM OS PROGRAMAS. INEXISTÊNCIA DE COMPULSORIEDADE.
+1. Os parcelamentos especiais, instituídos pela autoridade fazendária e previdenciária, são benefícios fiscais amplos, concedidos a quem deve e tem dificuldades para regularizar sua situação perante a Receita Federal ou o INSS. Assim sendo, a opção pelo parcelamento constitui faculdade da parte que, ao aderir, deve fazê-lo de acordo com as condições impostas.
+2. Sendo o favor fiscal mera faculdade concedida aos devedores interessados, não há falar em cláusulas abusivas ou ilegais, porquanto bastaria aos descontentes não aderir ao programa e permanecer pagando seus débitos da forma comumente instituída antes dos referidos parcelamentos.
+3. É incabível ao contribuinte pretender discutir as condições impostas pela legislação que instituiu as referidas sistemáticas de parcelamento, porquanto correspondem às contrapartidas devidas pelos optantes em troca dos favores recebidos. Não existe a obrigatoriedade do devedor em aderir aos parcelamentos, ele tem a liberdade de optar pelo parcelamento ou não.
+4. Não existe compulsoriedade nesta adesão, mas se a contribuinte pretende usufruir dos benefícios oferecidos pelos parcelamentos, deve também sujeitar-se às condições exigidas pela adesão ao parcelamento.
+Embargos de declaração parcialmente acolhidos para fins de prequestionamento.
+O recorrente, além do dissídio jurisprudencial, alega que a decisão recorrida negou vigência ao disposto no artigo 61 da Lei 9.430/96 ao aplicar multa de mora de 20%, ao invés de 2,31% para débito que estava vencido há apenas 7 (sete) dias quando da efetivação do parcelamento.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 201.
+Parecer do MPF às fls. 220-225.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+De início, sustenta a recorrente que (fl. 167):
+ ..
+12. É inequívoco, portanto, que a multa de mora deverá ser calculada à taxa de 0,33% por dia de atraso, limitada a 20%. Denota-se também que a referida multa será calculada desde o primeiro dia subsequente ao vencimento do tributo até o seu efetivo pagamento.
+13. No presente caso, a data de vencimento dos tributos ocorreu em 30/07/10, sem que houvesse por parte da Recorrente o devido pagamento.
+14. No dia 03/08/10, porém, a Recorrente requereu o parcelamento dos respectivos tributos, o que lhe foi deferido em 06/08/10, ou seja, sete dias depois de seu vencimento.
+15. Não houve, portanto, o pagamento dos referidos tributos, mas sua inclusão em parcelamento, o que, para fins de contagem de prazo na aplicação da multa de mora gera os mesmos efeitos, senão vejamos.
+16. Conforme preconiza o inciso VI do artigo 151 do Código Tributário Nacional, o parcelamento suspende a exigibilidade do crédito tributário.
+17. Quando suspensa a exigibilidade, cessa-se a mora do devedor, não incidindo sobre ele, desde então, quaisquer dos ônus pelo não adimplemento de sua obrigação.
+18. Assim sendo, tendo em vista que desde a concessão do parcelamento o devedor não está mais em mora, a partir desse mesmo momento há que cessar também a contagem dos dias para aplicação da referida multa.
+19. Ou seja, a multa de mora a ser aplicada aos tributos não recolhidos, mas incluídos em parcelamento, deverá ser calculada em razão dos dias transcorridos entre o vencimento do tributo e o deferimento de seu parcelamento.
+ ..
+Contudo, o acórdão recorrido possui a seguinte fundamentação (fls. 125-127 - grifei):
+ ..
+A sentença analisou a questão com muita propriedade, razão pela qual transcrevo seus fundamentos:
+Sustentou a autora, na inicial, que o percentual diário da multa de mora, prevista no art. 61 da Lei n.º da Lei n.º 9.430/96, deve ter como termo final o início do parcelamento ao qual aderiu.
+Estabelece mencionado normativo:
+Art. 61. Os débitos para com a União, decorrentes de tributos e contribuições administrados pela Secretaria da Receita Federal, cujos fatos geradores ocorrerem a partir de 1o de janeiro de 1997, não pagos nos prazos previstos na legislação específica, serão acrescidos de multa de mora, calculada à taxa de trinta e três centésimos por cento, por dia de atraso. (Vide Decreto nº 7.212, de 2010).
+§ 1o A multa de que trata este artigo será calculada a partir do primeiro dia subseqüente ao do vencimento do prazo previsto para o pagamento do tributo ou da contribuição até o dia em que ocorrer o seu pagamento. § 2o O percentual de multa a ser aplicado fica limitado a vinte por cento.
+§ 3o Sobre os débitos a que se refere este artigo incidirão juros de mora calculados à taxa a que se refere o § 3o do art. 5o, a partir do primeiro dia do mês subseqüente ao vencimento do prazo até o mês anterior ao do pagamento e de um por cento no mês de pagamento. (Vide Lei nº 9.716, de 1998).
+Contudo, da inteligência do dispositivo aufere-se, com inarredável segurança, que o cômputo do aludido percentual incide a cada dia de atraso, computando-se desde o dia do vencimento do tributo até a data em que ocorrer o seu efetivo pagamento, não do seu eventual parcelamento.
+Não há a previsão de que aquele que atrasa o pagamento de tributo, em aderindo ao parcelamento, desde a adesão, livra-se do ônus da multa de mora, devida em razão do descumprimento da obrigação por parte do contribuinte que deixou de recolher os tributos temporaneamente e, por isso, a ela se sujeita, nos estritos limites legais estabelecidos.
+Inconfundíveis o pagamento (dotado de efeito extintivo do débito, com todos os encargos inerentes) com o parcelamento (dotado, apenas, de efeito suspensivo da exigibilidade), que não tem o condão de eximir ou mesmo anistiar o devedor das sanções incidentes pelo atraso no recolhimento dos tributos e amparadas legalmente.
+Acresça-se, ainda, que o parcelamento do crédito tributário não exclui a incidência de juros e multas, salvo quando houver disposição de lei em contrário, segundo os ditames do § 1o do art. 155-A do CTN, o que, em casos tais, não há, visto que não se encontra qualquer lei que assim estabeleça.
+Assim, na hipótese em exame, mesmo a Impetrante tendo aderido a parcelamento (que se constitui em simples prorrogação do prazo para pagamento do débito em atraso, mas que a este (pagamento) não se eqüivale) não se exime da incidência da multa moratória no percentual de 0,33% até o efetivo pagamento, limitada a 20%.
+Cumpre acrescentar, ainda, que os parcelamentos especiais, instituídos pela autoridade fazendária e previdenciária, são benefícios fiscais amplos, concedidos a quem deve e tem dificuldades para regularizar sua situação perante a Receita Federal ou o INSS. Assim sendo, a opção pelo parcelamento constitui faculdade da parte que, ao aderir, deve fazê-lo de acordo com as condições impostas.
+Dessa forma, a tentativa de cobrar os débitos em atraso dos contribuintes pela forma estabelecida nos parcelamentos acordados traduz, sem sombra de dúvidas, uma benesse concedidas às empresas, especialmente relativamente à prazos, juros aplicáveis e a minimização do parcelamento.
+Por outro lado, tendo o Poder Público facultado aos devedores o pagamento de suas dívidas de forma menos onerosa, tem-se como salutar cautela estabelecer condições e restrições, inclusive fulcradas no princípio da moralidade pública, porquanto seria temerário dar tratamento facilitado sem que sejam tomadas as cautelas pertinentes.
+Desse modo, não se há falar em imposição legal, mas sim de opção do contribuinte, que o faz a fim de regularizar sua situação fiscal, parcelando seus débitos em condições bastante favoráveis, tais como prazo alargado de pagamento e taxa de juros diferenciada.
+Contudo, é incabível ao contribuinte pretender discutir as condições impostas pela legislação que instituiu as referidas sistemáticas de parcelamento, porquanto correspondem às contrapartidas devidas pelos optantes em troca dos favores recebidos. Não existe a obrigatoriedade do devedor em aderir aos parcelamentos, ele tem a liberdade de optar pelo parcelamento ou não.
+Além disso, não existe compulsoriedade nesta adesão, mas se o contribuinte pretende usufruir dos benefícios oferecidos pelos parcelamentos, deve também sujeitar-se às condições exigidas pela adesão ao parcelamento.
+Assim é que a jurisprudência há muito espancou a pretensão formulada por alguns contribuintes - ainda não satisfeitos comas cláusulas insofismável mente benéficas instituídas pelos programas de parcelamento fiscal, visando a desconsiderar as cláusulas onerosas para aproveitar tão-somente aquelas que lhes aprouvessem.
+Ora, sendo o favor fiscal mera faculdade concedida aos devedores interessados, não há falar em cláusulas abusivas ou ilegais, porquanto bastaria aos descontentes não aderir ao programa e permanecer pagando seus débitos da forma comumente instituída antes dos referidos parcelamentos.
+Assim sendo, não há falar em multa aplicada em patamar excessivo, porquanto perfeitamente legal.
+Dessa forma, não merece reparos a sentença recorrida, devendo ser mantida conforme lavrada.
+(..)
+Ante o exposto, voto no sentido de negar provimento à apelação.
+ ..
+Na espécie, verifica-se que, nas razões do recurso especial, não foram infirmados os seguintes fundamentos do voto condutor: Não há a previsão de que aquele que atrasa o pagamento de tributo, em aderindo ao parcelamento, desde a adesão, livra-se do ônus da multa de mora, devida em razão do descumprimento da obrigação por parte do contribuinte que deixou de recolher os tributos temporaneamente e, por isso, a ela se sujeita, nos estritos limites legais estabelecidos.Inconfundíveis o pagamento (dotado de efeito extintivo do débito, com todos os encargos inerentes) com o parcelamento (dotado, apenas, de efeito suspensivo da exigibilidade), que não tem o condão de eximir ou mesmo anistiar o devedor das sanções incidentes pelo atraso no recolhimento dos tributos e amparadas legalmente. Nota-se nas razões do recurso que a recorrente limitou-se apenas deduzir argumentos genéricos no sentido de que a multa de mora a ser aplicada aos tributos não recolhidos, mas incluídos em parcelamento, deverá ser calculada em razão dos dias transcorridos entre o vencimento do tributo e o deferimento de seu parcelamento, o que inviabiliza o conhecimento do apelo especial, nos termos das Súmulas 283 e 284 do Supremo Tribunal Federal.
+Por fim, no que tange ao apontado dissídio, a incidência do óbice sumular na questão de mérito prejudica o exame do recurso com fulcro na alínea "c" do permissivo constitucional. A propósito, cite-se: EDcl nos EDcl no Resp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015.
+Fica prejudicada a questão relativa a verba honorária.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
