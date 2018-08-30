@@ -1,0 +1,28 @@
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+DECISÃO
+Companhia Energética Vale do São Simão - em Recuperação Judicial suscita o presente conflito positivo de competência apontando como suscitados o Juízo de Direito da Vara Única de Santa Vitória/MG e o Juízo da 2ª Vara do Trabalho de São Miguel dos Campos/AL.
+Alega a suscitante que ingressou com pedido de recuperação judicial, cujo processamento foi deferido pelo Juízo de Direito de Santa Vitória/MG, sendo que o Juízo da 2ª Vara do Trabalho de São Miguel dos Campos/AL, no qual tramita a Reclamação Trabalhista nº 0000901-12.2017.5.19.0262, ajuizada por [NOME], determinou, em momento posterior ao deferimento da recuperação judicial, a realização de bloqueio "on-line" em suas contas bancárias, por meio do BACEN-JUD.
+Afirma que "o Juízo suscitado, ao exarar ordens de natureza executiva, ingressa em competência exclusiva do Juízo da recuperação judicial, que é competente para resolução de todas as questões relativas aos créditos e débitos da empresa recuperanda" (e-STJ, fl. 4).
+Conclui, assim, que "o MM. Juízo da Vara Única de Santa Vitória-MG, responsável pela recuperação judicial da suscitante, é indivisível e competente para todas as ações e reclamações sobre os interesses da recuperanda. Trata-se de vis attractiva, qualidade inerente e primordial do juízo da recuperação judicial, que deve ser fielmente respeitada para que se possa evitar o tumulto processual e o desperdício de tempo, além de proporcionar sucesso do plano aprovado pelos credores, o que ocorre justamente em função de sua competência funcional" (e-STJ, fl. 4).
+Busca, dessa forma, o deferimento liminar para que seja suspensa a referida reclamação trabalhista, e, no mérito, seja reconhecida a competência do Juízo da Recuperação Judicial para decidir sobre os atos de constrição do patrimônio da suscitante.
+Às fls. 155-158 (e-STJ), deferi a liminar pleiteada.
+As informações foram prestadas às fls. 168-169 (e-STJ).
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo da Recuperação Judicial.
+Brevemente relatado, decido.
+Conforme consignado na decisão que deferiu a liminar, a jurisprudência desta Corte é no sentido de que compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Ultrapassada, no entanto, a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento.
+Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O tema não é novo nesta Corte, que já firmou entendimento no sentido de que, após o deferimento da recuperação judicial, é do Juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa.
+2. Nesses casos, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução).
+3. Agravo interno não provido.
+(AgInt no CC n. 144.592/SP, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 3/11/2016)
+Ademais, "a decisão que defere o processamento do pedido de recuperação judicial tem como um de seus efeitos exatamente a suspensão das ações e execuções individuais contra o devedor que, dessa forma, pode desfrutar de maior tranquilidade para a elaboração de seu plano de recuperação, alcançando o fôlego necessário para atingir o objetivo de reorganização da empresa" (CC n. 126.135/SP, Relatora a Ministra Nancy Andrighi, DJe 19/8/2014).
+A propósito:
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO DO TRABALHO. RECUPERAÇÃO JUDICIAL. PROCESSAMENTO DEFERIDO. NECESSIDADE DE SUSPENSÃO DAS AÇÕES E EXECUÇÕES. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES.
+1. Uma vez deferido o processamento da recuperação judicial, ao Juízo Laboral compete tão-somente a análise da matéria referente à relação de trabalho, vedada a alienação ou disponibilização do ativo em ação cautelar ou reclamação trabalhista.
+2. É que são dois valores a serem ponderados, a manutenção ou tentativa de soerguimento da empresa em recuperação, com todas as conseqüências sociais e econômicas dai decorrentes - como, por exemplo, a preservação de empregos, o giro comercial da recuperanda e o tratamento igual aos credores da mesma classe, na busca da "melhor solução para todos" -, e, de outro lado, o pagamento dos créditos trabalhistas reconhecidos perante a justiça laboral.
+3. Em regra, uma vez deferido o processamento ou, a fortiori, aprovado o plano de recuperação judicial, revela-se incabível o prosseguimento automático das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4, da Lei 11.101/2005.
+4. Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Falências e Recuperações Judiciais do Distrito Federal. (CC n. 112.799/DF, Relator o Ministro Luis Felipe Salomão, DJe 22/3/2011 - sem grifo no original)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara Única de Santa Vitória/MG para decidir sobre os atos de constrição no patrimônio da suscitante.
+Publique-se.
