@@ -1,0 +1,15 @@
+Trata-se de habeas corpus impetrado em favor de Eder Gustavo Serra Reis contra acórdão do Superior Tribunal de Justiça – STJ, nos autos do HC 436.958-AgR/PR, de relatoria do Ministro Sebastião Reis Junior, assim ementado:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. ALEGAÇÃO DE NULIDADE. CERCEAMENTO DE DEFESA. ANÁLISE QUE DEMANDA REEXAME DE PROVAS. INVIABILIDADE NA VIA ESTREITA. PRETENSÃO DE UTILIZAÇÃO DO MANDAMUS COMO UMA SEGUNDA APELAÇÃO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA. MANUTENÇÃO DA DECISÃO QUE INDEFERE LIMINARMENTE O WRIT. NECESSIDADE. 1. Deve ser mantida a decisão monocrática em que se indefere liminarmente o writ, substitutivo de recurso especial, quando evidenciado que as alegações suscitadas no mandamus demandam incursão nos elementos probatórios constantes da ação penal, inviável na via eleita. 2. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, em recentes decisões, não admitem mais a utilização do habeas corpus como sucedâneo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais. 3. Além de o agravante ter formulado alegações afetas à ação penal e após a sentença condenatória e o julgamento da apelação, de cognição mais ampla, as irresignações relacionadas às nulidades processuais demandam exame aprofundado das provas dos autos, incompatível com a via estreita do writ, carente de dilação probatória e inviável de ser utilizada como uma segunda apelação. 4. Agravo regimental improvido.”
+    O paciente foi condenado à pena de 11 anos, 2 meses e 2 dias de reclusão pela prática do crime de tráfico de drogas, nos termos do art. 33 da Lei 11.343/2006.
+    No presente writ, a defesa alega, em suma, a ocorrência de
+    “[c]onstrangimento ilegal consistente na condenação do paciente em ação penal eivada de nulidades absolutas, consistentes em cerceamento de defesa decorrente da ausência dos autos de interceptação telefônica e inobservância do procedimento previsto no art. 212 do Código de Processo Penal, relativo à ordem de inquirição de testemunhas, bem como ilegalidade na não aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e na fixação do regime inicial de expiação” (pág. 165 do documento eletrônico 5).
+    E requer, por fim, a revogação da prisão, haja vista a alegada nulidade da ação penal.
+    É o relatório. Decido.
+    Verifico, de plano, que a defesa do paciente impetrou o presente writ e o RHC 157.538/PR contra o acórdão proferido pelo STJ nos autos do HC 436.958-AgR/PR, de relatoria do Ministro Sebastião Reis Junior.
+    Em 1°/8/2018, neguei provimento ao recurso ordinário em habeas corpus, sendo que a decisão transitou em julgado em 14/8/2018.
+    Assim, os argumentos e o pedido trazidos neste habeas corpus já foram objeto de análise no julgamento do referido recurso ordinário.
+    Isso posto, nego seguimento ao writ (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
