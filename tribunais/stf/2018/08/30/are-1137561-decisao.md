@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão Juizado Especial Federal da Terceira Região – Seção Judiciária de São Paulo, cujos fundamentos reproduzo (eDOC 20, p. 2):
+    “No caso dos autos, o perito médico não concluiu pela incapacidade laboral da parte autora, de modo a ensejar a concessão do benefício de auxílio doença ou de aposentadoria por invalidez, não havendo razões para afastar o resultado da perícia, pois o perito fundou suas conclusões nos documentos médicos constantes nos autos, bem como em exame clínico realizado. Pelos mesmos motivos, desnecessária a realização de nova perícia.
+    Quanto aos documentos acostados pela parte autora, verifico que indicam apenas sua doença, mas não a presença de incapacidade laboral, razão pela qual o resultado da perícia deve permanecer, pois o laudo pericial se ateve aos aspectos médicos da parte autora, e, de forma bem fundamentada, afirmou não existir incapacidade para o trabalho.
+    Importante ressaltar que a existência de uma enfermidade não implica automaticamente incapacidade para o trabalho, havendo muitas doenças que são controláveis, não deixando o indivíduo inválido. Assim, não tendo sido apresentada nenhuma impugnação objetiva ao laudo, indefiro a realização de nova perícia.
+     Frise-se, ainda, que a incapacidade parcial não gera o direito ao benefício, quando, mostra-se possível a realização de outras atividades, conforme atestado no laudo pericial.”
+    Os embargos de declaração foram desprovidos (eDOC 26).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao artigo 5º, LIV e LV, da Carta da República.
+    Nas razões recursais, sustenta-se que a decisão recorrida “violou garantias constitucionais asseguradas ao cidadão”. Isso porque, não se pretende provar o preenchimento de requisitos para a percepção de benefício previdenciário, mas sim que reste comprovada a incapacidade do recorrente para a vida laboral. Articula com “não aceitação pela Turma Recursal do pedido de produção de nova prova pericial por um médico PSIQUIATRA” (eDOC 31, p. 5).
+    De plano, verifica-se que a controvérsia relativa ao indeferimento de produção de provas no âmbito de processo judicial cinge-se ao Tema 424 da sistemática da repercussão geral, cujo recurso-paradigma é o ARE-RG 639.228, de relatoria do Ministro Cezar Peluso, DJe 31.08.2011, assim ementado:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 30 de agosto de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
