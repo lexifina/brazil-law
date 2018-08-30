@@ -1,0 +1,7 @@
+DECISÃO
+O Plenário do Supremo Tribunal Federal, ao examinar o AI 771.770, substituído pelo RE 627.106, Rel. Min. Dias Toffoli, reconheceu a existência de repercussão geral da questão constitucional relativa à compatibilidade ou não dos dispositivos legais que autorizam a execução extrajudicial de dívidas hipotecárias, constantes do Decreto-lei 70/66, em relação à Constituição Federal.
+O reconhecimento de repercussão geral às teses apresentadas nos mencionados recursos orientam o sobrestamento dos feitos que tratam das disposições contidas no Decreto-lei 70/66, bem como culmina na incidência do preceituado no art. 543-B, § 3º, do CPC, face à possível retratação, pelo Tribunal de origem, que prejudicaria a análise do recurso por esta Corte Superior.
+Tal circunstância indica a necessidade de devolução dos autos ao Tribunal de origem, porquanto eventual análise das demais teses constantes do recurso especial dependeria do sucesso das instituições financeiras quanto aos temas constantes dos referidos recursos representativos, de modo que, por consequência, não podem ser examinadas autonomamente, sem o deslinde final dos temas antecedentes.
+Assim, determino a restituição dos autos à origem, devendo ser realizada a devida baixa nesta Corte, até o julgamento definitivo dos Recursos Extraordinários 627.106/PR e 556.520/SP, e eventual retratação prevista no art. 543-B, § 3º, do CPC.
+Publique-se.
+Intimem-se.
