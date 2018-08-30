@@ -1,0 +1,50 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. (I) - ACUSADO PORTADOR DE MAUS ANTECEDENTES. (II) - VALOR DO BEM SUPERIOR A 30% DO SALÁRIO MÍNIMO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela Defensoria Pública em favor de ALEX SANDRO MATHEUS, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a sentença condenatória pela prática do delito previsto no artigo 155, caput, do Código Penal, à pena de 1 ano de detenção, além de 10 dias-multa, em regime inicial aberto.
+Em seu recurso especial, às fls. 292/300, sustentou o recorrente, além de dissídio jurisprudencial, afronta ao artigo 386, inciso III, do Código de Processo ao argumento de que deve ser reconhecido, in casu, o princípio da insignificância, considerando que houve restituição imediata do bem subtraído e porque as circunstâncias pessoais não impedem a aplicação do citado instituto.
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 332/333, ante a incidência das Súmulas nº 7 do Superior Tribunal de Justiça e nº 284 do Supremo Tribunal Federal e pelo descumprimento dos regramentos legais e regimentais para o conhecimento do apelo especial interposto com base na alínea "c", do inciso III, do artigo 105 da Constituição Federal.
+Em seu agravo, às fls. 374/378, assevera o recorrente que não busca o reexame de fatos e provas e que o apelo especial restou devidamente fundamentado. Por fim, sustenta que houve a necessária demonstração da existência de divergência jurisprudencial.
+O Ministério Público Federal manifestou-se às fls. 374/378, pelo não provimento do agravo em recurso especial.
+É o relatório.
+A insurgência não merece prosperar.
+No que tange ao aventado dissídio jurisprudencial e afronta ao artigo 386, inciso III, do Código de Processo Penal, constata-se que o raciocínio jurídico adotado pela Corte de origem guarda fina sintonia com a jurisprudência consolidada neste Superior Tribunal de Justiça, sobre a matéria.
+Dessarte, extrai-se dos autos que o recorrente possui maus antecedentes (duas condenações pretéritas por furto), conforme consta na fls. 249 do acórdão, e além disso, a instância de origem não apresentou nenhum elemento concreto que autorizasse a aplicação excepcional do princípio da bagatela.
+Ademais, conforme a jurisprudência desta Corte, denota-se a total impossibilidade de aplicação do princípio da insignificância na hipótese em apreço. Isso porque, o bem subtraído foi avaliado em R$ 245,00, valor este correspondente a mais de 30% do salário mínimo vigente à época, 28.12.2015 (fl. 85), que perfazia R$ 788,00, o que demonstra que a lesão jurídica provocada pela conduta do réu não pode ser considerada inexpressiva.
+Nesse sentido, confiram os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. OMISSÃO DO ACÓRDÃO EMBARGADO. FURTO SIMPLES. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REGIME ABERTO PARA INÍCIO DO CUMPRIMENTO DA PENA. IMPOSSIBILIDADE. REINCIDÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+I - Não apreciadas as teses defensivas de abrandamento do regime inicial e de possibilidade de incidência do princípio da insignificância, fica caracterizada a omissão que autoriza o acolhimento dos presentes embargos.
+II - A jurisprudência desta Corte é firme no sentido de que o paciente reincidente ou possuidor de maus antecedentes indica a reprovabilidade do comportamento, a afastar a aplicação do princípio da insignificância.
+III - Na hipótese, verifico que, além de o paciente ser reincidente, o bem subtraído possui valor superior a 10% do salário mínimo vigente à época dos fatos, não podendo ser considerado desprezível a autorizar a incidência do princípio da insignificância. Dessa forma, na linha de precedentes desta Corte, mostra-se incompatível o princípio da insignificância com sua conduta (precedentes).
+IV - No caso, o ora paciente é reincidente e foi condenado à pena inferior a quatro anos, tendo a pena-base sido fixada no mínimo legal, com todas circunstâncias judiciais favoráveis, o que atrai a incidência do enunciado sumular n. 269/STJ, segundo o qual "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Embargos acolhidos, sem efeitos infringentes.
+(EDcl no HC 400.793/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/02/2018, DJe 16/02/2018)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. VALOR DA RES FURTIVA. MAUS ANTECEDENTES POR DELITOS PATRIMONIAIS. INAPLICABILIDADE. PRECEDENTES DO STJ. AGRAVO IMPROVIDO.
+1. Sedimentou-se nesta Corte a orientação de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+2. Embora não especialmente relevante o valor de R$ 77,00 (correspondente a pouco mais de 10% do salário mínimo da época dos fatos), referente ao imputado crime de tentativa de furto de um pacote de super Whey reforce, sabor chocolate, de supermercado, a jurisprudência do Superior Tribunal de Justiça tem afastado a aplicação do princípio da insignificância aos casos em que o agente é contumaz na prática delitiva, por evidenciar maior grau de reprovabilidade do comportamento, salvo quando ínfimo o valor do bem subtraído.
+3. Pendendo sobre o agravante duas condenações transitadas em julgado pela prática de dois delitos patrimoniais (roubo majorado pelo concurso de pessoas - fls. 34/37) e não sendo absurdamente irrelevante o valor do bem furtado, resta obstada a aplicação do princípio da insignificância, 4. Agravo regimental improvido.
+(AgRg no REsp 1509985/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/04/2018, DJe 02/05/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. CONCURSO DE AGENTES. REINCIDÊNCIA ESPECÍFICA. RES FURTIVA AVALIADA EM R$ 621,10. PRINCÍPIO DA INSIGNIFICÂNCIA QUE NÃO SE APLICA.
+I - Não se aplica o princípio da insignificância às agentes, reincidentes específicas, que, em conluio com mais um rapaz não identificado, em plena luz do dia (12h00), adentraram o interior de um shopping e subtraíram 10 calças, avaliadas em R$ 621,60 (seiscentos e vinte e um reais e sessenta centavos).
+II - Concluindo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que não seria a hipótese de incidência do princípio da insignificância, chegar a entendimento diverso implica exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súm n. 7/STJ.
+III - Além do mais, a jurisprudência do STJ não admite a aplicação do princípio da insignificância se o valor da(s) coisa(s) subtraída(s) equivale a mais de 10% do salário mínimo vigente à época do fato, o que é o caso dos autos - HC 342.945/SC, Rel.
+Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/02/2016, DJe 26/02/2016 e REsp 1395088/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2015, DJe 02/02/2016.
+IV - Agravo regimental improvido.
+(AgRg no AREsp 778.339/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/03/2016, DJe 07/03/2016)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. VALOR DA RES FURTIVA SUPERIOR A 10% DO SALÁRIO MÍNIMO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. BONS ANTECEDENTES. PRIMARIEDADE.
+AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Condenações anteriores ainda não transitadas em julgado, não podem ser consideradas como maus antecedentes nem caracterizam reincidência. Súmula n. 444 do STJ.
+2. A subtração de telefone celular avaliado em R$ 104,11 (16,24% do salário mínimo vigente à época) não se revela de escassa ofensividade penal e social, pois a lesão jurídica provocada não pode ser considerada insignificante, ainda que o agente seja primário e tenha bons antecedentes.
+3. O simples fato de o bem haver sido restituído à vítima não constitui, por si só, razão suficiente para a aplicação do princípio da insignificância.
+4. Agravo regimental não provido.
+(AgRg no HC 318.550/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/12/2015, DJe 11/12/2015)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. INAPLICABILIDADE.
+I - No caso, imputa-se ao paciente o furto de um botijão de gás de residência, cujo valor - R$ 80,00 (oitenta reais) - não pode ser considerado irrisório, já que equivale a mais de dez por cento do salário mínimo vigente à época do fato (R$ 678,00).
+II - De outro lado, na linha da jurisprudência desta col. Corte, ressalvado o meu entendimento pessoal, mostra-se também incompatível com o princípio da insignificância a conduta ora examinada, haja vista que o agravante é reincidente. (Precedentes).
+Agravo Regimental desprovido.
+(AgRg no AREsp 651.694/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/05/2015, DJe 15/05/2015).
+Dessa forma, estando o acórdão recorrido em conformidade com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, de rigor o conhecimento do agravo para negar provimento ao recurso especial, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intime-se.
