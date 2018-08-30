@@ -1,0 +1,35 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA.
+1. Inexiste violação do art. 535 do CPC/1973, na medida em que o Tribunal de origem julgou integralmente a lide, fundamentando seu proceder de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando as razões de seu convencimento.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por [NOME] contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+O agravante alega que há violação do art. 535 do CPC/1973 na decisão proferida pela instância ordinária, uma vez que o acórdão não se manifestou sobre: a) abertura de 19 vagas além daquelas previstas no edital, ainda no prazo de vigência do concurso; b) candidato classificado em posição imediatamente anterior ao agravante foi convocado para a segunda etapa do certame, contudo desistiu e não tomou posse no cargo.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O agravante não trouxe tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Segundo consignado na decisão de e-STJ, fls. 578-579, não há que se falar em violação do art. 535 do CPC/1973, uma vez que o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Conforme se observa de trecho do acórdão proferido pela instância ordinária (e-STJ, fls. 375-376):
+Conforme consta dos autos, o apelado participou do concurso para perito criminal da Polícia Federal ventilado no Edital nº 25/2004 - DGP/DPF, concorrendo a uma das quatro (4) vagas que existiam para o Mato Grosso do Sul; foi classificado em 11º lugar apenas na primeira etapa do concurso, mas não foi classificado para essa segunda etapa (curso de formação profissional).
+Ou seja: não foi aprovado no certame, que envolvia duas fases.
+Por aí se vê a completa implausibilidade da tese aventada pelo apelado: deseja ingressar no serviço público federal por conta de "decisões judiciais", mas sem ter sido classificado nas duas fases em que se dividiu o concurso, o que necessariamente deveria ocorrer.
+Segue daí que não se pode ter o apelado como "aprovado" e por isso em condições de assumir o lugar de candidato que desistiu de tomar posse mesmo depois de regularmente nomeado.
+Ora, somente "..a regular aprovação em concurso público em posição classificatória compatível com as vagas previstas em edital confere ao candidato direito subjetivo a nomeação e posse dentro do período de validade do certame" (STJ, AgRg no AREsp 209.870/BA, Rei. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/10/2012, DJe 06/11/2012 - AgRg no RMS 33.797/SP, Rei. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 02/10/2012, DJe 09/10/2012).
+Destarte, se a aprovação completa não ocorreu, nenhum é o direito do candidato de se ver chamado para qualquer vaga e, menos ainda, ser nomeado e tomar posse.
+E que segundo as regras do edital somente poderia participar da segunda etapa do concurso (curso de formação profissional) o candidato aprovado dentro do "numero exato" de vagas que foi previsto no edital (item 11.4), sendo que aqueles não aprovados para o curso de formação seriam considerados eliminados do certame (item 11.5).
+Como bem deduzido na apelação, esse critério de aprovação e eliminação obedece aos termos da lei, porquanto está conforme o artigo 12 do Decreto-lei nº 2.320/87, que regulamenta os concursos"no âmbito da Polícia Federal. - grifos acrescidos
+Dessa forma, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRECLUSÃO. ERRO MATERIAL NÃO CARACTERIZADO.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A apontada afronta dos arts. 502, 505, I, 535, IV, 948, 950, 1022 e 1036 do CPC/2015; 27 e 28 da Lei 9868/1999 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Não caracteriza contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 535 do Código de Processo Civil, visto que é possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante.
+4. No caso dos autos, o Tribunal de origem entendeu que a reivindicação quanto ao excesso de execução está preclusa, porquanto não se trata de erro material, passível de correção. É o que se depreende do seguinte excerto do acórdão recorrido (fls. 620-621, e-STJ): "Ocorre que o excesso de execução - no caso a limitação temporal - é matéria de defesa do executado e não de ordem pública.
+Com efeito, o excesso deveria ter sido suscitado no momento oportuno, providência essa que a embargante não adotou. (..) Nesse momento, não sendo a caso de erro material, em respeito ao princípio da segurança jurídica, a conta não pode ser modificada no que tange aos seus critérios e elementos não oportunamente impugnados".
+5. Com efeito, nos termos da jurisprudência do STJ, erro material, alterável a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo. Assim, quanto aos artigos de lei apontados, quais sejam, art. 917, III, do CPC/2015 e art. 1º-E da Lei nº 9.494/1997, não merece provimento o apelo, porque, no caso dos autos, eventual existência de excesso de execução não decorre de erro material nos cálculos apresentados, não podendo ser corrigido a qualquer momento.
+6. Recurso Especial não provido.
+(REsp 1.715.955/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 2/8/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
