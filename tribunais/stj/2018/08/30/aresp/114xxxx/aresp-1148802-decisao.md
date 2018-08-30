@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 CPC/2015) interposto contra decisão (e-STJ fls. 609/610) que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 540):
+APELAÇÃO CÍVEL - AÇÃO DE REGRESSO PELA SEGURADORA - TRANSPORTE DE MERCADORIAS - PERDA DE MAIS DE 70% DA CARGA TRANSPORTADA - RESPONSABILIDADE OBJETIVA - PAGAMENTO DO SEGURO - SUB-ROGAÇÃO DA SEGURADORA - DIREITO DE REAVER O QUE DESPENDEU COM A INDENIZAÇÃO SECURITÁRIA JUNTO AO SEGURADO - CONFISSÃO FICTA PELO NÃO COMPARECIMENTO À AUDIÊNCIA INSTRUTÓRIA EM QUE SERIA COLHIDO SEU DEPOIMENTO PESSOAL - PROVA RELATIVA DO ALEGADO - JULGAMENTO COM BASE NO CONJUNTO PROBATÓRIO CONSTANTE NOS AUTOS - VALORES ESPECIFICADOS POR DOCUMENTOS NÃO DESCONSTITUÍDOS - PROVA SEGURA DO PERCENTUAL PERDIDO DA CARGA E DO EFETIVO PREJUÍZO - JUROS DA MORA - INCIDÊNCIA A PARTIR DO DESEMBOLSO - SENTENÇA MANTIDA - APELAÇÃO - NEGA PROVIMENTO.
+Nas razões do recurso especial (e-STJ fls. 576/585), interposto com fundamento no art. 105, III, "a", da CF, a recorrente sustentou ofensa aos arts. 343, § 2º, 355, 356, 357, 358, 359 e 535, II, do CPC/1973.
+Aduziu omissão quanto aos dispositivos federais indicados como violados.
+Destacou que (e-STJ fl. 583):
+33. Ora, se incontroverso pela sentença supra citada que a prova oral e a prova pericial não puderam ser produzidas por ônus exclusivo da parte autora/recorrida - que faltou na audiência de instrução e não forneceu documento para perícia -, então não há como se cogitar o julgamento pela procedência sob o fundamento que "a versão apresentada pelo réu não encontra respaldo em prova produzida nos autos".
+34. Obviamente, é justamente porque a produção das provas oral e pericial foram frustradas pela autora/recorrida que a parte ré não conseguiu comprovar sua tese de defesa nos autos.
+(..)
+36. E, no que importa aos efeitos da confissão ficta, o v. acórdão não apenas deixou de presumir verdadeiros os fatos expostos pela recorrente, como também presumiu questões favoráveis ao banco recorrido quando inexistia nos autos sequer indícios de prova, o que é incontroverso do v. acórdão:
+No agravo (e-STJ fls. 613/624), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta foi apresentada (e-STJ fls. 628/633).
+É o relatório.
+Decido.
+Quanto à confissão da recorrida e impossibilidade de produção de prova pericial, assim decidiu o Tribunal de origem (e-STJ fls. 543/544):
+(..) a pena de confissão conduz a uma presunção relativa, e não absoluta, das alegações firmadas pela parte adversa. Essa presunção, por ser juris tantum, não pode prevalecer sobre as demais provas dos autos, até mesmo considerando que o processo deve sempre deve se pautar pelo alcance da justiça e da verdade dos fatos, o que seria relativizado com a aceitação da tese exposta pela recorrente.
+Assim, e considerando que os pontos centrais da demanda, que poderiam levar ao acolhimento do pedido do autor (ocorrência do sinistro, culpa no acidente, perda da mercadoria, pagamento da indenização ao segurado), estavam demonstrados suficientemente nos autos, não há como acolher a pretensão da apelante, afastando sua condenação.
+Quanto a isso, inclusive, descaberia a urgência de se ouvir pessoalmente o representante do autor, posto que a conjunto probatório constante nos autos já indicava o necessário para julgamento da lide.
+Do mesmo modo, descabe o argumento da apelante de que houve impossibilidade de produção da prova pericial, por culpa exclusiva do apelado.
+Ora, a pretensão da aludida prova era exclusivamente da recorrente, posto que buscava desconstituir um documento juntado pelo autor (ônus que lhe competia por força dos artigos 333, inciso II e 372, ambos do CPC). Com isso, e porque não litigava sob o pálio da justiça gratuita, nem se apresentava qualquer outra circunstância a justificar a inversão do ônus da prova ou sua isenção do custeio da perícia solicitada, conclui- se que era obrigação da ré pagar os honorários solicitados pelo perito nomeado pelo juízo.
+Ocorre que, por um aparente equívoco do juiz que proferiu o despacho de fls. 315, imputou-se à parte autora o recolhimento desse custo, o que foi prontamente refutado por ela, através de embargos de declaração (11s.318/321). Entretanto, no julgamento desses embargos, o juízo a quo declarou a preclusão do referido meio de prova, com base no declarado desinteresse do autor no pagamento dos honorários periciais.
+Entretanto, não houve qualquer recurso pela parte ré, quanto a essa decisão. Veja-se que, com a declaração da preclusão do direito de produzir essa prova, a parte requerida, maior interessada em sua realização, não interpôs qualquer recurso, pelo que não se pode discutir a ausência dessa prova em sede recursal, quando a negativa de sua produção já foi sedimentada em primeira instância.
+Constata-se que os fundamentos de que a presunção da confissão ficta é relativa, bem como que houve preclusão quanto à tese de impossibilidade da produção de prova pericial, não foram impugnados pela recorrente, o que atrai o óbice da Súmula n. 283 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
