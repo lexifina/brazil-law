@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial ante a aplicação das Súmulas n. 211 do STJ e 282 e 356 do STF (e-STJ fls. 877/878).
+O acórdão do TRF da 4ª Região está assim ementado (e-STJ fl. 824):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO / CUMPRIMENTO PROVISÓRIO DE SENTENÇA. CÉDULA RURAL AÇÃO CIVIL PÚBLICA n. 94.008514-1. SOBRESTAMENTO PARCIAL.
+Considerando-se que a suspensão determinada nos Embargos de Divergência no RESP n. 1.319.232-DF limita-se à aplicação da Lei n. 11.960/2009, nada impede o prosseguimento parcial do cumprimento provisório, determinando-se o sobrestamento apenas com relação ao montante que exceder os índices determinados no art. 5º da Lei n. 11.960/2009, sendo que eventuais diferenças poderão ser futuramente executadas, após a consolidação do entendimento quanto ao tema.
+Nas razões do recurso especial (e-STJ fls. 838/853), interposto com base no art. 105, III, "a", da CF, o recorrente discorreu sobre o histórico dos autos, afirmando ser indevido suspender apenas parcialmente o cumprimento provisório da sentença proferida na Ação Civil Pública n. 94.008514-1, ante os prejuízos que a medida lhe causaria, tendo em vista a decisão proferida em sede de tutela provisória pela Presidência do STJ nos EREsp n. 1.319.232/DF, determinando a suspensão dos efeitos da sentença coletiva e, por consequência, dos pedidos de liquidação e de cumprimento de sentença, até a apreciação dos embargos de divergência.
+O recorrente, alegando a expressa suspensão do feito determinada nos EREsp n. 1.319.232/DF, requereu a aplicação integral do disposto no art. 314 do CPC/2015, o qual vedaria a prática de qualquer ato no processo em curso, com a consequente rejeição das tentativas de prosseguimento do feito pela parte exequente (e-STJ fls. 840/841).
+Apontou violação:
+(a) do art. 884 do CC/2002, afirmando estar implicitamente prequestionado o tema (e-STJ fl. 845), e do art. 526, § 6º, do CPC/2015 (e-STJ fl. 848), e
+(b) do art. 509, II, do CPC/2015, afirmando a necessidade de prévia liquidação ao cumprimento de sentença, porque a sentença coletiva não estaria dotada de eficácia executiva (e-STJ fls. 851/852).
+Foram apresentadas contrarrazões (e-STJ fls. 857/871).
+No agravo (e-STJ fls. 894/916), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fl. 173).
+É o relatório.
+Decido.
+O recorrente apontou, de forma genérica, afronta aos arts. 884 do CC/2002 e 526, § 6º, do CPC/2015, pois não especificou como a legislação indicada teria sido objeto de afronta pela Corte local. Desse modo, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF. A esse respeito:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REVISÃO CONTRATUAL C/C DECLARAÇÃO DE NULIDADE DE ATO ADMINISTRATIVO E CONSIGNAÇÃO EM PAGAMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+2. A jurisprudência desta Corte considera que, quando a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o teor da Súmula 284 do Supremo Tribunal Federal.
+3. Não restou demonstrada, na hipótese, a divergência jurisprudencial na forma prevista no artigo 541 do CPC/1973 (art. 1.029, CPC/2015) e no artigo 255 do RISTJ. Ademais, a mera transcrição de ementas não satisfaz as exigências para a demonstração do dissídio jurisprudencial.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016.)
+Trata-se, na origem, de cumprimento individual provisório da sentença proferida na Ação Civil Pública n. 94.008514-1, tendo por objeto o pagamento de diferenças de correção monetária entre o IPC e o BTN no mês de março de 1990, na atualização dos financiamentos por Cédulas de Crédito Rural.
+Em decisão proferida em sede de tutela provisória pela Presidência desta Corte nos EREsp n. 1.319.232/DF, que discute o teor da sentença proferida na Ação Civil Pública n. 94.008514-1, foi atribuído efeito suspensivo aos citados embargos de divergência interpostos pela UNIÃO.
+Na sessão de 17/5/2018, a QUARTA TURMA do STJ, ao enfrentar o tema no REsp n. 1.732.132/RS, de relatoria do Ministro LUIS FELIPE SALOMÃO, concluiu pela impossibilidade de prosseguir o cumprimento provisório da sentença proferida na Ação Civil Pública n. 94.008514-1, porque o efeito suspensivo conferido nos EREsp n. 1.319.232/DF - discutindo o índice de correção monetária a ser fixado para determinação do quantum a ser executado - obsta o trâmite da execução individual da sentença proferida na ação civil.
+O julgado recebeu a seguinte ementa:
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. CÉDULA DE CRÉDITO RURAL. OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. DECISÃO QUE CONFERE EFEITO SUSPENSIVO A RECURSO ORIGINALMENTE DESPROVIDO DE TAL EFEITO. EXTENSÃO. EXECUÇÕES PROVISÓRIAS INDIVIDUAIS INICIADAS. NECESSIDADE DE SUSPENSÃO ATÉ O JULGAMENTO DO RECURSO PARA O QUAL SE DEFERIU EFEITO SUSPENSIVO.
+1. Não há falar em ofensa aos arts. 1022 e 1025 do CPC/2015, se a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O efeito suspensivo de um recurso é aquele capaz de obstar a imediata eficácia da decisão por ele impugnada, identificando-se o prolongamento do estado de ineficácia da sentença, que se confirma sempre que, de fato, interposto o recurso dotado daquele efeito.
+3. A extensão objetiva do efeito suspensivo calha exatamente com a extensão conferida ao efeito devolutivo, haja vista a plena possibilidade de o recorrente não ter interesse em rediscutir todos os pontos da decisão judicial questionada. Isso, porque, as decisões judiciais são complexas, dotadas de provimentos formados por partes autônomas, que se apresentam segmentados em capítulos, aptos a serem atacados individualmente.
+4. Ação civil pública, cuja sentença de procedência, confirmada pela egrégia Terceira Turma do STJ (REsp n. 1.319.232/DF), originou a execução individual provisória, que se pretende, por meio deste recurso especial, seja mantida suspensa, na forma em que decidido em tutela provisória (TutProv no EREsp n. 1.319.232/DF).
+5. Tutela provisória com pedido de efeito suspensivo, para que a execução individual da sentença proferida na ação civil fosse obstada, tendo em vista que o objeto dos embargos de divergência consiste na definição do índice de correção monetária a ser fixado para a determinação do quantum a ser executado.
+6. Necessidade evidente de suspensão da execução, por inexistência de definição dos índices de correção e juros que deverão compor o valor a ser executado.
+7. Recurso especial provido para determinar a suspensão da execução provisória em curso, até o julgamento dos embargos de divergência (EREsp n. 1.319.232/DF).
+(REsp n. 1.732.132/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/5/2018, DJe 26/6/2018.)
+Necessária, portanto, a reforma do acórdão impugnado, determinando-se a suspensão total do feito, nos termos da decisão proferida pela QUARTA TURMA do STJ no REsp n. 1.732.132/RS.
+Ante o exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial, a fim de determinar a suspensão integral do cumprimento provisório de sentença em curso, até o julgamento dos Embargos de Divergência no REsp n. 1.319.232/DF ou até a cassação do efeito suspensivo que lhe foi atribuído.
+Publique-se e intimem-se.
