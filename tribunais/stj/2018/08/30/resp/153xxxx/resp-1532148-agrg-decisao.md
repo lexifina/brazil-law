@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado por [NOME] contra decisão que negou seguimento a seu recurso especial, sob o fundamento de inexistência da omissão e inaplicabilidade da teoria do fato consumado em favor da recorrente (e-STJ, fls. 250-253).
+A parte agravante aduz, em suma: i) ocorrência de nulidade por omissão; ii) violação do art. 462 do CPC/1973 pelo não reconhecimento da consumação do estado fático da agravante; iii) existência de divergência jurisprudencial sobre o tema.
+Após, indica fato superveniente a esvaziar o objeto do recurso, constituído por sua aprovação no ENEM 2015 e consequente obtenção do certificado de conclusão do ensino médio (e-STJ, fls. 274-277).
+A Universidade Federal do Rio Grande do Norte - UFRN impugnou (e-STJ, fls. 287-290).
+É o relatório.
+O objeto da presente ação é, exclusivamente, a emissão de certificado de conclusão de ensino médio, diante da aprovação da agravante no ENEM 2013, quando contava menos de 18 anos de idade.
+Extrai-se da sentença (e-STJ, fls. 101 e 104):
+02. Noticia que, diante do rendimento obtido nas provas do ENEM 2013, participou do Sistema de Seleção Unificada (SISU) para ingresso em instituição de ensino superior, logrando êxito na UFRN, por meio da classificação em 3º lugar no curso de Comunicação Social - Publicidade e Propaganda.
+03. Diz que foi indeferido o requerimento administrativo de emissão do certificado de conclusão do ensino médio, documento indispensável à efetivação de sua matrícula naquela autarquia de regime especial, por ser menor de 18 (dezoito) anos, entendendo o Subcoordenador da SUEJA que tal limitação etária se legitima com base no art. 38, II, da Lei nº 9.394/1996, no art. 6º da Resolução nº 03/2010 do Conselho Nacional de Educação (CEB) e no art. 23 da Resolução nº 01/2010 do Conselho Estadual de Educação/RN.
+04. Comprova sua aprovação no 2º ano do ensino médio, a condição de emancipada adquirida mediante instrumento público, encontrando-se habilitada à prática de todos os atos da vida civil, além da obtenção de pontuação superior à mínima exigida para cada área de conhecimento na prova objetiva e na redação, observando-se os requisitos essenciais exigidos pela Portaria do Ministério da Educação nº 16/2011 (art. 1º, II e III) e pela Portaria nº 144/2012 do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (art. 2º) para emissão de certificação de conclusão do ensino médio com base no ENEM.
+ ..
+12. Isso posto, buscada à inicial, mantendo integralmente os termos da liminar concedida para CONCEDO A SEGURANÇA , determinar ao Subcoordenador da Subcoordenadoria de Educação de Jovens e Adultos -SUEJA que emita o Certificado de Conclusão do Ensino Médio, e determinada a matrícula da impetrante no curso de Comunicação Social - Publicidade e Propaganda da Universidade Federal do Rio Grande do Norte, assegurando-se-lhe seu direito fundamental à educação, nos termos solicitados à inaugural.
+O acórdão recorrido assim dispôs (e-STJ, fls. 151-152):
+O Juízo de origem entendeu que, apesar da candidata ser menor de 18 anos e não ter concluído o ensino médio - foi aprovada apenas no 2º ano ao final do ano de 2013 -, o requisito etário de maioridade até a data de realização da primeira prova deve ser mitigado, para fins de se obter certificação no nível de conclusão do ensino médio ou declaração de proficiência com base no Exame Nacional de Ensino Médio-ENEM e possibilitar a matrícula no ensino superior.
+ ..
+No caso, a impetrante não faz jus à obtenção do certificado de conclusão do ensino médio e à matrícula no Curso de Comunicação Social - Publicidade e Propaganda da Universidade Federal do Rio Grande do Norte, com base no Exame Nacional de Ensino Médio-ENEM de 2013, porquanto não concluiu o ensino médio (aprovada apenas no 2º ano em 2013) e é menor de 18 anos i) (nascimento em 24/03/1997); ii) a emancipação não supre o requisito etário mínimo, além de ter sido formalizada em 14/01/2014, posteriormente à realização da prova do ENEM.
+A agravante narra, entretanto, ter obtido referido certificado pela aprovação no ENEM 2015 (e-STJ, fls. 274-277). Afirma, ainda, estar cursando, em 2016, o quinto de nove períodos letivos.
+Sendo o único objeto do recurso a emissão de certificado de aprovação no ensino médio, e tendo este sido obtido de forma superveniente, fica efetivamente esvaziado de utilidade o presente recurso.
+ Ante o exposto, com fulcro no art. 932, III, do CPC/2015, reconsidero a decisão agravada para declarar prejudicado o recurso especial.
+Publique-se. Intimem-se.
