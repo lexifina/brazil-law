@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que, sob argumento de incidência das Súmulas n. 7 e 83 do STJ, negou seguimento ao recurso especial (e-STJ fls. 1.568/1.573).
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fls. 1.467/1.468):
+Apelações Cíveis. Ações de obrigação de fazer. Plano de saúde. Pedido de internação e realização de cirurgia negado. Remoção por ambulância igualmente negada pela ré na demanda em apenso. Criança portadora de cardiopatia congênita. Alegação de carência de 180 dias e de suspensão da cobertura pelo prazo de 24 meses por se tratar de doença preexistente. Sentença que acolhe as alegações da parte ré e julga improcedentes os pedidos. Orientação jurisprudencial no sentido de que a suspensão da cobertura por doença preexiste só é válido se demonstrada má-fé do segurado ou o conhecimento prévio da doença. Inexistência de prova concreta de que a representante legal da menor já tinha conhecimento do diagnóstico quando da contratação. Conclusão adotada na sentença que presumiu a má-fé da genitora com base em suposições sem amparo probatório. Parte ré que não se desincumbiu do ônus que lhe recai por força da regra prevista no art. 373, II do CPC/2015. Ônus do plano de saúde em demonstrar que a parte tinha conhecimento da doença no momento da celebração do contrato. Recusa de cobertura que se mostrou ilegítima. Falha na prestação do serviço. Dano moral configurado. Quantia fixada em R$ 30.000,00, em atenção as circunstâncias dos autos e aos desdobramentos do dano.
+Provimento dos recursos para julgar procedentes os pedidos.
+No recurso especial (e-STJ fls. 1.505/1.512), fundado no art. 105, III, "a", da CF, a recorrente sustentou violação do art. 944, parágrafo único, do CC/2002, argumentando, em síntese, que o valor indenizatório fixado é exorbitante.
+Sobreveio o agravo (e-STJ fls. 1.592/1.598), no qual afirma a presença dos requisitos de admissibilidade do recurso especial.
+Parecer do Ministério Público Federal pela competência do Juízo da falência (e-STJ fl. 1.663):
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. VÍCIO NO SERVIÇO. INDENIZAÇÃO POR DANO MORAL E MATERIAL. PEDIDO DE REVISÃO. VALOR SUPOSTAMENTE EXORBITANTE. INVIABILIDADE. QUESTÃO QUE ENVOLVE O REEXAME DE PROVAS. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA DEVIDAMENTE APRECIADA PELAS INSTÂNCIAS ORDINÁRIAS. INCURSÃO NO MATERIAL PROBATÓRIO DOS AUTOS. INCABÍVEL A DISCUSSÃO ACERCA DO TEMA EM SEDE DE RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ.
+PARECER PELO DESPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+Decido.
+Ao considerar configurado o dano moral, preconizou o Tribunal de origem que (e-STJ fl. 1.481):
+Na espécie, a conduta da ré acarretou sofrimentos inexigíveis ao contratante mais vulnerável, criança de tenra idade, com saúde precária, que precisou percorrer uma via crucis para obter o tratamento a que tinha direito e ver preservada a sua saúde. Do exame dos autos se extrai o profundo sofrimento, a angustia e a humilhação sofrida pela parte ao longo dos sete anos de demanda, de modo que não há dúvida de que a conduta da apelada violou frontalmente os direitos da personalidade da menor, importando em inequívoca mácula a sua dignidade.
+Desse modo, considerando que a indenização por dano moral deve representar compensação capaz de amenizar a ofensa à honra e o sofrimento psicológico que atentou contra a dignidade da parte, entendo razoável e proporcional a quantia de R$ 30.000,00 (trinta mil), em atenção as circunstâncias do caso.
+A redução do valor arbitrado nas instâncias de origem, a título de dano moral, é possível em sede de recurso especial somente em casos de valor exorbitante. Na espécie, o valor fixado (R$ 30.000,00 - trinta mil reais) não se mostra exagerado, esbarrando seu exame no óbice da Súmula n. 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE CIRURGIA CARDIOVASCULAR. CARÁTER DE URGÊNCIA. DOENÇA PREEXISTENTE NÃO COMPROVADA. DANOS MORAIS. CABIMENTO. QUANTUM COMPENSATÓRIO. VALOR RAZOÁVEL. REGIMENTAL NÃO PROVIDO.
+1. O entendimento desta Corte é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela.
+2. No caso, não se mostra exorbitante a condenação da recorrente no valor de R$ 30.000,00 (trinta mil reais), a título de reparação moral decorrente da recusa indevida/injustificada da operadora em autorizar a cobertura do tratamento médico de urgência pleiteado.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 849.599/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/3/2016, DJe 10/3/2016.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
