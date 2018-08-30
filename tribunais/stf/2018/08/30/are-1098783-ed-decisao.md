@@ -1,0 +1,27 @@
+Decisão: Trata-se de embargos de declaração em face de decisão que deu provimento a recurso, com fundamento na jurisprudência desta Corte. Eis um trecho desse julgado:
+    “O Supremo Tribunal Federal firmou jurisprudência, no sentido de ser competência concorrente da União, dos Estados e do Distrito Federal legislar acerca da aposentadoria especial de servidores públicos, prevista no art. 40, § 4º, da Constituição Federal, o que não afasta a edição de norma regulamentadora de caráter nacional, de competência da União (RE-RG 797.905, de minha relatoria, Dje 29.5.2014).
+    Nessa ótica, ao apreciar o art. 1º, I, da LC 51/85, que tratava da aposentadoria especial de servidores que exercem atividade estritamente policial, esta Corte, no julgamento do RE 567.110-RG, Rel. Min. Cármen Lúcia, Dje 11.4.2011, reiterou o posicionamento adotado no julgamento da ADI 3.817, DJe 3.4.2009, para consignar a recepção do referido dispositivo pelo art. 40, § 4º, da Constituição Federal, reconhecendo que o policial expõe-se a permanente risco em sua integridade física e psicológica, a perigos permanentes em benefício de todos os cidadãos, o que justifica o cuidado legal, na esteira da previsão constitucional.
+    Assim, embora estivesse sob apreciação apenas o inciso I do art. 1º da LC 51/1985, que previa tempo diferenciado para a aposentadoria voluntária destes servidores, esta Corte assentou a natureza especial da atividade policial no critério de perigo ou risco a justificar a aposentadoria especial prevista no referido diploma normativo.
+    (...)
+    Após o referido julgamento, a LC 51/1985 teve sua redação original alterada pela lei complementar nº 144/2014, mantendo, no entanto, a aposentadoria compulsória dos servidores policiais aos 65 (sessenta e cinco) anos.
+    Embora o referido dispositivo tenha, posteriormente, sido revogado pela LC 152/2015, consta do acórdão recorrido que o servidor teria preenchido os requisitos para a aposentadoria compulsória em 15.5.2015 (eDOC 2, p. 88), período em que ainda vigente a previsão da LC 51/85.
+    Assim, tendo em vista o entendimento consolidado por esta Corte, no sentido de que a aposentadoria é regida pela lei em vigor na data da reunião dos requisitos necessários à obtenção do benefício e, tendo sido recepcionada pela Constituição a LC 51/85, aplica-se ao recorrido o disposto no mencionado diploma normativo.
+    (...)
+    Ante o exposto, conheço do agravo para dar provimento ao recurso extraordinário, a fim de denegar a ordem (art. 932, III, do NCPC e art. 21, IX, do RISTF).” (eDOC 6, p. 2-4)
+    Nos embargos de declaração, sustenta-se, em síntese, contradição do provimento embargado, uma vez que divergente do que atualmente disposto na Lei Complementar 152/2015, de 3.12.2015, que prevê a aposentadoria compulsória dos servidores públicos efetivos aos 75 (setenta e cinco) anos de idade.
+    Intimada, a parte recorrida apresentou contrarrazões, no sentido da ausência de vício da decisão embargada (eDOC 12, p. 1-4).
+    É o relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do CPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+    Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, ora não vislumbradas.
+    Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AI-AgR-ED 808.362, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.2.2011; e AI-AgR-ED 674.130, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 22.2.2011.
+    Como já demonstrado na decisão ora embargada, esta Corte tem entendimento pacífico no sentido de ser a aposentadoria regida pela lei em vigor na data da reunião dos requisitos necessários à obtenção do benefício. Nesse sentido, os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO – SERVIDOR – APOSENTADORIA – REGÊNCIA. A aposentadoria é regida pela legislação em vigor na data em que implementados os requisitos necessários à inatividade – verbete nº 359 da Súmula do Supremo. HONORÁRIOS ADVOCATÍCIOS – FIXAÇÃO. Havendo interposição de recurso sob a regência do Código de Processo Civil de 2015, cabível é a fixação dos honorários de sucumbência recursal previstos no artigo 85, § 11, do diploma legal.” (RE 1000578 AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe 22.2.2018)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Tabelião. Serventia extrajudicial. Exercício de serviço público por delegação. Caráter privado. Sujeição ao Regime Geral de Previdência Social (RGPS). Precedentes. 4. A aposentadoria rege-se pela lei vigente ao tempo do preenchimento de todos os requisitos conducentes à inatividade. Súmula 359. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 823161 AgR, de minha relatoria, Segunda Turma, DJe 7.6.2017)
+    Assim, considerando ter o embargante preenchido os requisitos para a aposentadoria compulsória em 15 de março de 2015 (eDOC 2, p. 88), inaplicável ao caso o que previsto na Lei Complementar 152/2015, porquanto não vigente ao tempo da implementação.
+    Ante o exposto, rejeito os embargos de declaração (art. 1.024, § 2º, do CPC).
+    Publique-se.
+    Brasília, 30 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
