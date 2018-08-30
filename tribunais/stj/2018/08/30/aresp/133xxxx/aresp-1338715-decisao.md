@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. REVISÃO DE CÁLCULO DE PROVENTOS. PRESTAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pela União em face de decisão do Tribunal Regional Federal da 2ª Região, que negou admissibilidade a recurso contra acórdão assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. REVISÃO DE APOSENTADORIA. INTEGRALIDADE. ART. 3º DA EC Nº 47/2005. IMPOSSIBILIDADE.
+1. Conquanto a EC n.º 47/2005 tenha eficácia plena e imediata que prescinde de edição de norma regulamentar, não possui o alcance de garantir ao inativo/pensionista a percepção do valor da última remuneração recebida em atividade, independentemente da natureza das respectivas parcelas.
+2. A garantia da integralidade visa a assegurar o pagamento integral de proventos de aposentadoria e pensão, porém não abrange parcela da remuneração cujo caráter seja variável e pressuponha avaliação segundo critérios preestabelecidos, como a gratificação de desempenho. Tampouco há norma legal que imponha a transposição, para a inatividade, de circunstâncias específicas apuradas no último período laborado pelo servidor, para fins de percepção de gratificação de desempenho.
+Os embargos de declaração opostos foram providos, nos seguintes termos
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. OCORRÊNCIA.
+Os embargos de declaração constituem recurso interposto perante o magistrado ou colegiado prolator da decisão impugnada, com vistas à supressão de omissão, contradição, obscuridade ou erro material no texto que possa dificultar a exata compreensão da manifestação judicial. E mesmo quando opostos com o objetivo de prequestionar matéria a ser versada em provável recurso extraordinário ou especial, devem atender aos pressupostos delineados no artigo 1.022 do CPC, pois não se prestam, por si só, para forçar o ingresso na instância superior, decorrendo, sua importância, justamente do conteúdo integrador da sentença ou do aresto impugnado.
+Com efeito, não se revelam meio hábil ao reexame da causa ou modificação do julgado no seu mérito, pois opostos quando já encerrado o ofício jurisdicional naquela instância.
+Observada contradição no julgado, os embargos de declaração devem ser providos, a fim de que seja mantida a sentença, visto que em consonância com a jurisprudência desta Corte.
+Opostos novamente, os aclaratórios foram providos para fins de prequestionamento.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, a agravante apontou contrariedade (a) ao art. 1.022 do CPC/2015, na medida em que, a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso, (b) ao art. 1º do Decreto 20.910/32, pois, "No caso dos autos, a contagem do prazo prescricional iniciou- se com a concessão da pensão em fevereiro de 2004, ou, caso outro seja o entendimento dessa Corte, quando de sua revisão em novembro de 2004, momento em que surgiu a pretensão da autora. A presente ação foi ajuizada, no entanto, apenas em 11.01.2013. Logo, transcorridos mais de 5 anos entre o ato que a autora pretende revisar e o ajuizamento da ação, verifica-se a ocorrência de prescrição do fundo de direito." (fls. 581/582-e).
+Não foram apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que o acórdão recorrido está em consonância com o entendimento firmado neste Superior Tribunal, o que atrai a incidência da Súmula 83/STJ.
+A agravante rechaça o fundamento mencionado.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou os fundamentos adotados na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Quanto à alegada ofensa ao artigo 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Destaca-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO - REGIME DAS LEIS 8.212/91 E 8.620/93 - POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 27/05/2008, DJe 12/06/2008)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO COMANDO DO ARTIGO 535 DO CPC/1973. OMISSÃO NÃO CARACTERIZADA. LITISPENDÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A pretensão de simples reexame de provas, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 948.438/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 20/09/2016)
+Rejeitada, portanto, a preliminar de violação do art. 1.022 do CPC/2015.
+Outrossim, quanto à questão de fundo, com efeito, a conclusão alcançada pelo Tribunal a quo não destoa do entendimento dominante no âmbito deste e.STJ, segundo o qual nas ações em que se pretende a revisão dos valores da aposentadoria, a relação é de trato sucessivo, não havendo que se falar em prescrição do fundo de direito.
+A corroborar este entendimento:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR PÚBLICO. DECADÊNCIA PARA IMPETRAÇÃO DO WRIT. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO CONFIGURAÇÃO. SÚMULA 85/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - Firmou-se nesta Corte o entendimento segundo o qual o recurso especial, interposto com fundamento nas alíneas a e/ou c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontrar-se em sintonia com a jurisprudência desta Corte, a teor da Súmula 83.
+III - O acórdão recorrido adotou entendimento pacificado nesta Corte, segundo a qual, nas relações de trato sucessivo, não se opera a decadência para impetração do mandado de segurança nos casos em que se busca corrigir ato omissivo da Administração, que deixa de observar o princípio constitucional da paridade.
+IV - Quanto à alegação de prescrição do fundo de direito, verifico que o acórdão recorrido não destoa da orientação desta Corte no sentido de que, nas relações de trato sucessivo, ausente a negativa do próprio direito reclamado, não se opera a prescrição de fundo de direito nos casos em que se busca a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República, porquanto decorre de suposto ato omissivo da Administração Pública, nos termos da Súmula 85/STJ.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1723736/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/08/2018, DJe 20/08/2018)
+Incide, no caso dos autos, a Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema"
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
