@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. ATO ADMINISTRATIVO. VIOLAÇÃO DO ART. 489 DO CPC/1973. NÃO OCORRÊNCIA. CONFIGURAÇÃO DE NEXO CAUSAL E DANO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão que enfrenta acórdão assim ementado (fls. 771):
+EMENTA AÇÃO ORDINÁRIA - SERVIDORA PÚBLICA - CARGO COMISSIONADO -LIVRE NOMEAÇÃO E EXONERAÇÃO -INSTAURAÇÃO DE 1PROCESSO ADMINISTRATIVO - TRAMITAÇÃO REGULAR - OBSERVANCIA A GARANTIA CONSTITUCIONAL DA AMPLA DEFESA E DO CONTRADITÓRIO - ATO ADMINISTRATIVO DE DEMISSÃO -PODER JUDICIÁRIO - CONTROLE DA LEGALIDADE - POSSIBILIDADE - CONIDUTÀ EXCESSIVA NÃO EVIDENCIADA - REPARAÇÃO POR DANO MORAL -j INVIABILIDADE.
+- Tratándo-se de cargo de livre nomeação e exoneração, não se revela necessário sequer a instauração de prévio procedimento administrativo paraábalizar a impugnada exoneração da servidora pública.
+- Nadá; obstante, inda que dispensável a instauração de processo adminiitrativo, constata-se a ftegularidade da sua tramitação, a qual observou a garantia constitucional preconizada pelo artigo 5º, inciso LV, da Constituição Federal, sendo assegurado a servidora o exercício da ampla defesa e do contraditório.
+- Por sua vez, ressalta-se ser defeso ao Judiciário imiscuir-se nas matériás afetas às conclusões da comissão processante para tanto constituída, ressalvádas, contudo, as hipóteses de manifesta ilegalidade e arbitrariedade.
+- Logo, da expressa previsão legal da pena de demissão, denota- se descaracterizada a alegada violação aos princípios da razoabilidade, da proPorcionalidade, pilares do principio da legalidade consagrado pelo artigo 37,;j"caput", da Constituição Federal.
+, - Outroes m, por não ter a servidora pública desincumbido do ónus de comjüciar qualquer conduta excessiva cometida pela administração públida na condução do impugnado procedimento administrativo, tal circunstância afasta a pretendida indenização por dano moral por ela pretendida.
+Embargos de declaração rejeitados.
+No apelo especial, a parte recorrente alega ofensa aos seguintes dispositivos: i) artigo 489, do CPC/1973, na medida em que o acórdão não enfrentou o ponto controvertido da lide, "motivo pelo qual o fundamento utilizado pela sentença (sobre a possibilidade ou não de exoneração ad nutum) não é adequado ao caso (já que deveria ser enfrentada a questão das difamações e calúnias indevidamente ventiladas), configurando-se, portanto, um caso de ausência de fundamentação judicial válida" (fls. 798); ii) artigos 186, 187 e 927, do Código Civil, eis que no caso vertente, o ato ilicito foi flagrantemente caracterizado, bem como a culpa e o dano, tudo a demonstração a existência de responsabilidade civil.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, afasta-se a alegada violação do artigo 489,CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Por fim, quanto aos demais dispositivos tidos por afrontados, da análise detida dos autos, verifica-se que o acórdão recorrido não emitiu qualquer juízo acerca dos dispositivos 186, 187 e 927, do Código Civil (e a tese relacionada a eles), o que leva à incidência, por analogia, da Súmula 282 do STF, por falta de prequestionamento.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
