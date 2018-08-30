@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALL - AMÉRICA LATINA LOGÍSTICA S.A contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação indenizatória proposta por [NOME] em desfavor de ALL - AMÉRICA LATINA LOGÍSTICA S.A.
+O il. Magistrado julgou improcedente o pedido (sentença às fls. 589/593).
+Diante disso, [NOME] interpôs apelação, a qual foi provida pelo eg. TJ-SP, nos termos do v. acórdão, assim ementado (fl. 737):
+"Ação de indenização por acidente ferroviário em que enxofre e grãos se espalharam pelo solo. Descarrilamento que causou ao autor e à comunidade em que vive transtornos e danos morais, decorrentes do mau cheiro e da atração de insetos e ratos, além da preocupação com a contaminação da água e do solo com resíduos químicos. Responsabilidade objetiva da empresa ferroviária ré, já na forma do § único do art. 927 do Código Civil. Diligência desta em limpar a área atingida pela queda da carga que não afasta o dever de indenizar. Previsão constitucional, de resto, a respeito do risco integral e responsabilidade objetiva ambiental. Constituição Federal, § 3o do art. 225. Prescinde-se, no caso, da comprovação de culpa, bastando, para
+imposição do dever de reparar, a demonstração do nexo de causalidade entre a ação ou omissão e a lesão ambiental. Inexistência de excludentes da responsabilidade. Sentença de improcedência que se reforma. Apelação provida em parte, na medida em que se defere indenização inferior à pretendida".
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 748/754).
+Inconformado, ALL - AMÉRICA LATINA LOGÍSTICA S.A interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a", da CF/88, no qual alega violação dos 186 e 927 do CC/02; e do art. 333, inciso I, do CPC/73.
+Como dito, o apelo nobre foi inadmitido às fls. 808/809.
+Irresignado, ALL - AMÉRICA LATINA LOGÍSTICA S.A manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 908/912).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No apelo nobre que pretende trânsito, sustenta-se a violação dos arts. 186 e 927 do CC/02; e do art. 333, inciso I, do CPC/73, ao argumento de que não há elementos probatórios suficientes para imputar responsabilidade civil ao recorrente. Afirma que, não obstante o derramamento de carga em razão de acidente férreo, a limpeza posterior do local impediria a contaminação ambiental.
+O recurso, contudo, não merece prosperar.
+Com efeito, o eg. TJ-SP, mediante análise soberana das provas carreadas aos autos, concluiu que a limpeza posterior do local não foi suficiente a impedir sua responsabilidade. Assentou que os descarrilamentos no local eram frequentes, o que exigiria da recorrente adotar medidas para impedir a ocorrência de tais fatos. Para fins ilustrativos, colacionam-se os seguintes excertos do v. acórdão estadual (fls. 740/741):
+"Saliente-se, ab initio, que o autor comprovou residir em local próximo ao acidente (Rua Santo Antônio de Pádua, n. 9, conforme documento de fl. 21 e consulta a mapa disponível na internet em(..), sofrendo, efetivamente, as consequências do acidente relatado.
+(..)
+Não procedem, com o devido acatamento, os argumentos no sentido de que a Secretaria de Estado do Meio Ambiente emitiu relatório afirmando a inexistência de danos ambientais na região do acidente narrado (fls. 164/165 e 574) e também as afirmações de que a área tenha sido recuperada pela apelada, causadora do acidente. Se a área foi recuperada, e por iniciativa da apelante, isto só vem de encontro à afirmação de sua responsabilidade. Esteve contaminada, é fato certo.
+Ainda que se tivesse procedido correta e diligentemente após o acidente, limpando com presteza a área (o que não é certo; veja-se, a propósito, o acórdão de julgamento da Ap. 9061650-80.2009.8.26.0000, tomado em caso relativo ao mesmo acidente, de relatoria da Desembargadora CHRISTINE SANTINI), isto apenas recomendaria a mitigação do valor indenizatório.
+Anote-se, ademais, que há, nos autos da Ap. 0083094-31.2009.8.26.0000, em que fui designado relator para o acórdão, referente aos mesmos fatos, notícia de que eram freqüentes, no local, descarrilamentos, tanto que a Prefeitura de Embu-Guaçu exigia da apelante prontas medidas para que tais fatos não mais ocorressem".
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à responsabilidade do recorrente, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
