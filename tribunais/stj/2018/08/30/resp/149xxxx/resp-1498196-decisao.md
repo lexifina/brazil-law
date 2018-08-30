@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], contra acórdão proferido pelo do TRF da 4ª Região, assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA. COMPLEMENTAÇÃO DE SUBSCRIÇÃO DE AÇÕES. DIVIDENDOS. CONDENAÇÃO JUDICIAL. ACRÉSCIMO PATRIMONIAL. JUROS DE MORA. INDEPENDÊNCIA DO PRINCIPAL.
+1. Devida a incidência de imposto de renda sobre o valor recebido, em sede de demanda judicial, a título de complementação de subscrição de ações da Celular CRT Participações S/A e dividendos relativos a estas e outras ações já adquiridas, tendo em conta que configurado o acréscimo patrimonial, fato gerador daquele tributo.
+2. Inexigível o imposto de renda incidente sobre os valores recebidos a título de juros de mora, porquanto os juros moratórios nada mais são do que uma forma de indenizar os prejuízos causados ao trabalhador pelo pagamento a destempo de uma obrigação trabalhista.
+3. Há de se diferenciar o caso em que os juros são pagos como consequência da inexecução da obrigação por parte do empregador, durante a vigência da relação trabalhista, do pagamento de juros de mora em sede de ação judicial, que consubstanciam danos emergentes. Na primeira hipótese, é plenamente aplicável o art. 16 da Lei nº 4.506/1964, já que os juros de mora são meros acessórios do principal. Na segunda hipótese, todavia, não incide o art. 16 da Lei nº 4.506/1964, pois os juros são indenizatórios e independem do principal.
+4. Os valores pagos em ação judicial a título de juros moratórios correspondem aos danos emergentes, ou seja, àquilo que o credor perdeu em virtude da mora do devedor. Não há qualquer conotação de riqueza nova, e, portanto, inexiste o fato gerador da tributação pelo imposto de renda.
+7. Quando decorrem de perdas e danos, os juros de mora possuem natureza indenizatória, independente da natureza do principal, nos termos do art.
+404, parágrafo único, do Código Civil de 2002.
+Nas razões recursais, alega violação ao art. 535, II do CPC, porquanto o Tribunal a quo não se pronunciou acerca "da questão da não incidência do Imposto de Renda sobre o montante que já compunha patrimônio do Embargante, decorrência da integralização de seu capital preexistente à subscrição das ações da CRT e que sofreram a transformação nas ações da Brasil Telecom" (fls. 407). Aduz ainda, infringência ao art. 43 do CTN combinado como art. 402 do Código Civil.
+Os embargos de declaração opostos foram acolhidos parcialmente.
+Contrarrazões apresentadas.
+É o relatório. Decido.
+A questão jurídica referente à "regra geral de incidência do imposto de renda sobre juros de mora" foi submetida à Primeira Seção, para ser julgada pela sistemática dos recursos repetitivos, tendo sido escolhido o REsp n. 1.470.443/PR, de relatoria do em. Ministro Mauro Campbell Marques, como representativo da controvérsia.
+Na sessão de 24/06/2015, a Primeira Seção acolheu questão de ordem suscitada pelo em. Relator para sobrestar o julgamento do aludido recurso especial repetitivo até que o Supremo Tribunal Federal se pronuncie sobre o tema, ao qual foi reconhecida a repercussão geral, nos autos do RE n. 855.091/RJ.
+Nesse contexto, o recurso extraordinário referido é prejudicial à análise dos recursos especiais, razão pela qual os autos deverão retornar ao Tribunal de origem para aguardar o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os recursos especiais poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento dos apelos especiais e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, determino o sobrestamento destes recursos até a realização do juízo de conformação pela Corte de origem com o precedente a ser firmado pelo STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que tal providência seja realizada.
+Publique-se. Intimem-se.
