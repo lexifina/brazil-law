@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PRETENSÃO DE DISCUSSÃO DA LEI ESTADUAL PAULISTA 6.995/1990. IMPOSSIBILIDADE DE ANÁLISE NESTA INSTÂNCIA. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Impossibilidade de se discutir norma estabelecida pela legislação local em sede de Recurso Especial; incidência da Súmula 280/STF, aplicável por analogia, segundo a qual por ofensa a direito local não cabe recurso extraordinário.
+2. Agravo Interno da Fazenda do Estado de São Paulo a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial opostos pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão monocrática da minha lavra, cuja ementa abaixo se transcreve:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO ESTADUAL. AGENTE FISCAL DE RENDAS. REDUTOR SALARIAL. MATÉRIA SOLUCIONADA COM BASE EM FUNDAMENTO CONSTITUCIONAL E EM LEI ESTADUAL. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+2. Aduz a parte agravante, em síntese, que o Superior Tribunal de Justiça, eis que como guardião do direito federal, não deve recusar o exame de eventual contraste de ato normativo estadual com norma legal de necessária estatura federal (fl. 346).
+3. Impugnação não apresentada.
+4. É o relatório.
+VOTO
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PRETENSÃO DE DISCUSSÃO DA LEI ESTADUAL PAULISTA 6.995/90. IMPOSSIBILIDADE DE ANÁLISE NESTA INSTÂNCIA. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Impossibilidade de se discutir norma estabelecida pela legislação local em sede de Recurso Especial; incidência da Súmula 280/STF, aplicável por analogia, segundo a qual por ofensa a direito local não cabe recurso extraordinário.
+2. Agravo Interno do Estado de São Paulo a que se nega provimento.
+1. Do confronto das razões do Recurso Especial com o acórdão recorrido, nota-se que a Corte local decidiu a controvérsia com base na Lei Estadual Paulista 6.995/90 e no art. 37 da CF. Já a parte agravante, nas suas razões recursais, insiste pela violação ao art. 485, V do CPC/73.
+2. Neste contexto, é notória a pretensão da parte em discutir norma estabelecida pela legislação local, atraindo o óbice ao conhecimento do Recurso estatuído na Súmula 280/STF, aplicável por analogia: Por ofensa a direito local não cabe recurso extraordinário. A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO. PROCESSUAL CIVIL. ADMINISTRATIVO. RECORRENTE MARCIA. PRESCRIÇÃO DO FUNDO DE DIREITO. AUSÊNCIA DE COTEJO ANALÍTICO. RECORRENTES EDUARDO E MIRIAM. SERVIDORES ESTADUAIS. COMPLEMENTAÇÃO DE APOSENTADORIA. ANÁLISE DE DIREITO LOCAL POR ESTA CORTE. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Impossível a pretendida análise de violação dos artigos 40, § 3º, 126, § 3º, e 201, § 2º, todos da Constituição Federal, uma vez que a apreciação de suposta violação de preceitos constitucionais não é possível na via especial, nem à guisa de prequestionamento, porquanto matéria reservada ao Supremo Tribunal Federal nos termos dos arts. 102, III, e 105, III, da Carta Magna.
+2. No que tange à prescrição da ação em relação à agravante Marcia, cumpre asseverar que a prescrição da pretensão à revisão do ato de aposentadoria, com a complementação do valor nos termos da Leis Estaduais 4.819/58 e 200/74, alcança o próprio fundo de direito, não havendo falar em relação de trato sucessivo.
+3. Não pode ser conhecido o presente recurso pela alínea "c" do permissivo constitucional, pois o recorrente não realizou o necessário cotejo analítico, bem como não apresentou, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementa, não foram demonstradas as circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+4. Segundo se observa dos fundamentos que serviram de fundamento para a Corte de origem apreciar a controvérsia acerca da complementação de pensão, o tema foi dirimido no âmbito local (Leis estaduais 1.386/51, 4.819/58 e 200/74), de modo a afastar a competência desta Corte Superior para o deslinde do desiderato contido no recurso especial: "O exame de normas de caráter local é inviável na via do recurso especial", em face da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local, não cabe recurso extraordinário".
+Agravo interno improvido (AgInt no AREsp. 882.097/SP, Rel. Min. HUMBERTO MARTINS, DJe 14.6.2016).
+
+ADMINISTRATIVO. COMPLEMENTAÇÃO DE PENSÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 5º e 6º, § 2º da LICC, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Incidência do óbice da Súmula 211/STJ.
+2. O exame do mérito da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos das Leis Estaduais n.ºs 1.386/51, 4.819/58, 200/74 e 6.629/89 do Estado de São Paulo, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+3. O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 690.375/SP, Rel. Min. SÉRGIO KUKINA, DJe 6.12.2016).
+3. Diante do exposto, nega-se provimento ao Agravo Interno, regularmente interposto pela FAZENDA DO ESTADO DE SÃO PAULO.
+4. É como voto.
