@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. ALEGAÇÃO DE AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL NOS EMBARGOS. RECURSO NÃO CONHECIDO.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto, contra decisão que não admitiu o recurso especial, que enfrenta acórdão, com a seguinte ementa (fls. 423):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PRETERIÇÃO. DIREITO LÍQUIDO E CERTO À NOMEAÇÃO. SÚMULA 15 DO SUPREMO TRIBUNAL FEDERAL.
+I. Incidência da Súmula no 15 do Supremo Tribunal Federal:
+"Dentro do prazo de validade do concurso, o candidato aprovado tem o direito à nomeação, quando o cargo for preenchido sem 1 observância da classificação." II. Apelo a que se nega seguimento (art. 557, caput, CPC).
+Embargos de declaração rejeitados.
+No recurso especial, o agravante alega violação ao artigo 1.022, I e II, do CPC/1973, diante negativa de prestação jurisdicional, sob o argumento de que não houve qualquer preterição no certame que se discute nos autos, vez que as candidatas [NOME] e [NOME] também classificaram-se dentro do número de vagas reservadas para pessoas com necessidades especiais, respectivamente, na 5ª e 6º colocações, não havendo, dessa foram, que se falar em preterição.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Quanto a irresignação do recorrente afasta-se a alegada violação do artigo mencionado, pois, no caso, a tese jurídica supostamente não apreciada foi suscitada somente em embargos de declaração opostos ao julgamento do recurso, o que, ao tempo e modo em que questionada, traduziu indevida inovação recursal, situação essa que inviabiliza a manifestação da Corte de origem a respeito afastando a caracterização do vício de omissão alegado, afinal, a Corte local decidiu a controvérsia no exato limite em que foi proposta, de modo que não houve negativa de prestação jurisdicional quando da apreciação dos embargos declaratórios.
+Isso porque é possível verificar que nos recursos de apelação e agravo regimental aviados pelo Município o pleito não trouxe a debate a questão relativa a ausência de preterição no certame, vez que as candidatas [NOME] e [NOME] também classificaram-se dentro do número de vagas reservadas para pessoas com necessidades especiais, concentrando suas alegações no sentido de que todos os candidatos aprovados no certame dentro do número de vagas foram devidamente convocados, respeitando-se assim a ordem de classificação e, em razão disso, a agravada não teria direito à nomeação (fls. 461/469).
+Desse modo, conclui-se que a não manifestação do julgador quanto à tese jurídica deduzida por meio de argumentos só apresentados em embargos de declaração não implica em ausência de prestação jurisdicional.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
