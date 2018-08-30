@@ -1,0 +1,56 @@
+EMENTA
+PENAL. HABEAS CORPUS. PORTE E DISPARO DE ARMA DE FOGO. PRINCÍPIO DA CONSUNÇÃO. CONTEXTOS FÁTICOS DISTINTOS. INAPLICABILIDADE. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. Nos termos da jurisprudência desta Corte Superior, é inaplicável o princípio da consunção entre os crimes de posse/porte e disparo de arma de fogo ocorridos em contextos fáticos distintos, como se verifica no caso.
+2. A revisão da conclusão alcançada pelo Tribunal acerca da diversidade de contextos fáticos nos quais as condutas foram praticadas exigiria amplo reexame de matéria probatória, o que não é possível na via estreita do habeas corpus.
+3. Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública em favor de SERGIO WILLIANS DE ALMEIDA [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n.º 0009312-79.2016.8.26.0635).
+Consta dos autos que o Juízo da 23ª Vara Criminal da Comarca de São Paulo/SP (Processo n.º 0009312-79.2016.8.26.0635) proferiu sentença que condenou o paciente à pena de 2 (dois) anos de reclusão, em regime aberto, pela prática do delito do art. 15, caput da Lei n.º 10.826/03. A pena corporal foi substituída por restritiva de direitos, consistente em prestação de serviços à comunidade. A sentença concedeu-lhe o direito de apelar em liberdade (fls. 18/23).
+Interposta apelação na Corte de origem, foi negado provimento ao apelo defensivo e dado parcial provimento ao recurso ministerial para condenar o réu também pelo crime de porte ilegal de arma de fogo com a numeração suprimida (art. 16, parágrafo único, IV, da Lei 10.826/03, e para redimensionar suas penas para 5 anos de reclusão, em regime semiaberto, mais o pagamento de 20 dias-multa. Eis o teor da ementa (fl. 25):
+EMENTA: Porte ilegal de arma de fogo com numeração suprimida (art 16, § único, IV, da Lei nº 10.826/03) e disparo de arma de fogo (art. 15, caput, da Lei nº 10.826/03). Condenação na origem apenas pelo crime de disparo de arma de fogo. Provas seguras de autoria e materialidade. Prisão em flagrante. Palavras coerentes e incriminatórias de testemunha e de Policiais Militares. Versões exculpatórias Judiciais inverossímeis. Crime único não caracterizado. Princípio da consunção afastado. Condenação imperiosa. Responsabilização inevitável. Apenamento redimensionado. Apelo ministerial parcialmente provido, e improvido o recurso da defesa, com expedição de mandado de prisão.
+No presente writ, a defesa sustenta que o paciente sofre constrangimento ilegal por parte da Corte de origem, uma vez que a sentença condenatória, acertadamente, aplicou o princípio da consunção entre as condutas típicas do art. 15, caput, da Lei 10.826/03 e do art. 16, parágrafo único, IV, do mesmo diploma legal, bem como substituiu as penas privativas de liberdade por prestação de serviços à comunidade.
+Afirma que o crime meio tem de ter limite de seu reflexo no crime fim, ou seja, não pode gerar outros danos senão poderá ser visto como um crime isolado. O fato de maior entidade consome ou absorve o de menor graduação.
+Alega que o paciente é primário, trabalha há 20 (vinte) anos na empresa, tem 60 anos, bons antecedentes criminais e residência fixa, além de cuidar de mãe idosa de 83 anos de idade.
+Requer, liminarmente, que seja suspenso o mandado de prisão até o julgamento do writ com a expedição de contra mandado de prisão em favor do paciente. No mérito, pede que seja aplicado o princípio da consunção, cessando o constrangimento ilegal que sofre o paciente.
+Liminar indeferida às fls. 52/53.
+Informações prestadas às fls. 63/65 e 67/88.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 90/92).
+É o relatório.
+Decido.
+A controvérsia jurídica cinge-se à aplicabilidade do princípio da consunção entre os crimes do art. 15 e 16, parágrafo único, IV, da Lei 10.826/03.
+No caso, observa-se que a inicial acusatória narrou as condutas delitivas nos seguintes termos (fl. 14/16):
+Consta dos inclusos autos de inquérito policial que, no dia 17 de setembro de 2016, por volta de 20hl8min, na Rua Ouro Grosso, n.º1421, Casa Verde, nesta capital, [NOME], qualificado a fls. 15, possuía e portava arma de fogo com numeração suprimida, consistente em revólver calibre 38, marca Rossi, municiado com cinco cartuchos intactos e um deflagrado (auto de exibição e apreensão, a fls.13 e laudo pericial a ser acostado oportunamente).
+Consta dos autos ainda que, no dia 17 de setembro de 2016, por volta de 20hl8min, na Rua Ouro Grosso, n.º1421, Casa Verde, nesta capital, [NOME], qualificado a fls. 15, disparou arma de fogo em lugar habitado, em via pública.
+Segundo apurado, na data dos fatos, o denunciado estava em via pública e portava uma arma de fogo com numeração suprimida, consistente em revólver calibre 38, marca Rossi, municiado com cinco cartuchos intactos e um deflagrado. Na ocasião, sem motivo aparente, o denunciado se aproximou de seu vizinho [NOME], que é mecânico e consertava um veículo na rua e então, iniciou uma discussão.
+Em seguida, o denunciado efetuou um disparo com a referida arma. Alexandre saiu correndo e acionou a Polícia.
+Os milicianos estiveram no local e avistaram o denunciado segurando a arma de fogo, contudo, ao notar a aproximação da Polícia, ele dispensou o artefato.
+Em revista pessoal, nada de ilícito foi encontrado em poder do denunciado, que apresentava sinais de embriaguez.
+Ao lado do denunciado, os policiais apreenderam a arma de fogo por ele dispensada, ou seja, o revólver calibre 38, marca Rossi, com numeração suprimida, municiado com cinco cartuchos intactos e um deflagrado.
+O denunciado foi preso em flagrante delito.
+Sobre o ponto, o aresto reformador consignou (fls. 31/32):
+E - ao contrário do entendimento do d. Juízo sentenciante - não há como se aplicar aqui o principio da consunção.
+Afinal, foram dois os delitos praticados pelo acusado - porte e disparo da arma de fogo decorrentes de desígnios absolutamente independentes e autônomos, não se admitindo que o primeiro constitua mero antecedente lógico do segundo.
+Importante ressaltar que, ao efetuar o disparo, o acusado já havia consumado o porte ilegal de arma de fogo com a numeração suprimida, ao comparecer inexplicavelmente armado com um revólver na via pública, iniciando a seguir uma discussão com o vizinho que ali trabalhava.
+Significa dizer que, no instante em que o acusado deixou sua residência portando um revólver com numeração raspada, consumou-se o crime de porte ilegal de arma de fogo, posto tratar-se de crime de mera conduta.
+Poderia ter parado por ai, mas o acusado ainda efetuou um disparo com aquela arma de fogo, violando outra norma penal.
+E não se pode afirmar que o crime de porte ilegal de arma de fogo é absorvido pelo crime de disparo de arma de fogo, sempre com o devido respeito ao entendimento do d. Juízo sentenciante, considerando a absoluta independência dos desígnios do acusado, demonstrados pela dinâmica dos fatos.
+Neste sentido a lição de Fernando Capez: "o legislador procurou, desse modo, afastar expressamente a incidência do principio da subsidiariedade, pelo qual deveria prevalecer a infração de maior gravidade, dando preferência ao princípio da especialidade. O que passou a importar é a vontade finalística do agente, e não a maior ou menor lesividade do resultado produzido" (Capez, Fernando. Estatuto do Desarmamento: comentários à Lei 10.826, de 22-12-2003, 4.ª edição, São Paulo: Saraiva, 2006).
+Assim, os dois delitos  porte ilegal de arma de fogo com numeração suprimida e disparo de arma de fogo - absolutamente independentes entre si, restaram plenamente caracterizados, e a condenação do acusado, por ambos os crimes, é medida que se impõe.
+De fato, nos termos da jurisprudência desta Corte Superior, é inaplicável o princípio da consunção entre os crimes de posse/porte e disparo de arma de fogo ocorridos em contextos fáticos distintos, como se verifica no caso.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISPARO E POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. CONDUTAS QUE SE AMOLDAM AOS ARTS. 15 E 16, PARÁGRAFO ÚNICO, IV, DA LEI N. 10.826/2003. PRINCÍPIO DA CONSUNÇÃO. ABSORÇÃO. NÃO OCORRÊNCIA. CONSUMAÇÃO DOS DELITOS EM CONTEXTOS DIVERSOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+1. A conduta de possuir arma de fogo com número de série e marca suprimidos por processo abrasivo, no momento da apreensão, se subsume ao crime tipificado no art. 16, parágrafo único, IV, da Lei n. 10.826/2003, que dispõe incorrer nas mesmas penas do caput quem portar, possuir, adquirir, transportar ou fornecer arma de fogo com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado (HC 334.693/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/3/2016, DJe 28/3/2016).
+2. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que não se aplica o princípio da consunção quando os delitos de posse ilegal de arma de fogo e disparo de arma em via pública são praticados em momentos diversos, em contexto distintos.
+3. As instâncias ordinárias reconheceram que os crimes foram praticados em contextos fáticos diversos, não se aplicando, portanto, o referido postulado. Assim sendo, é inviável a revisão da referida conclusão em recurso especial, em razão de a pretensão esbarrar no óbice prescrito pela Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 754.716/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/12/2017, DJe 19/12/2017).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES PREVISTOS NO ESTATUTO DO DESARMAMENTO. DISPARO E POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. ARTS. 15 E 16, IV, DA LEI Nº 10.826/03. PRINCÍPIO DA CONSUNÇÃO. ABSORÇÃO. NÃO OCORRÊNCIA. CONSUMAÇÃO DOS DELITOS. CONTEXTOS DIVERSOS. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7, STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior entende que a absorção do delito de porte de arma pelo de disparo não é automática, pois depende do contexto fático do caso concreto em que se deram as condutas. Não ficou carcaterizada a hipótese de aplicação do princípio da consunção, na espécie, porque os momentos consumativos dos delitos ocorreram em situações diversas, em contextos destacados.
+2. As conclusões das instâncias ordinárias foram pautadas na análise acurada do conjunto fático-probatório, sendo que a revisão de tais entendimentos, in casu, implicaria o reexame de prova, providência inviável na presente via recursal, ante o óbice da Súmula 7, do STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1347003/SC, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 17/12/2013, DJe 03/02/2014)
+Ressalte-se, por oportuno, que a revisão da conclusão alcançada pelas instâncias ordinárias acerca da diversidade de contextos fáticos nos quais as condutas foram praticadas exigiria amplo reexame de matéria probatória, o que não é possível na via estreita do habeas corpus.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem.
+Cientifique-se o Ministério Público Federal.
+Intime-se.
+Sem recurso, ao arquivo.
