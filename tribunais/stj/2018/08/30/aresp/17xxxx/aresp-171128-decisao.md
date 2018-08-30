@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo (art. 544 do CPC/1973), interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI , em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 285):
+PROCESSO CIVIL - PREVIDÊNCIA PRIVADA - PREVI - AGRAVO RETIDO - NÃO CONHECIMENTO - JUSTIÇA COMUM - COMPETÊNCIA - PRESCRIÇÃO QÜINQÜENAL - TERMO INICIAL - APLICAÇÃO DO IPC - SÚMULA 289 STJ - JUROS ESTATUTÁRIOS - INCIDÊNCIA - LIQUIDAÇÃO POR ARBITRAMENTO - DESNECESSIDADE - REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS - NÃO CABIMENTO.
+1. Não se conhece do agravo retido se não há, nas razões do recurso de apelação ou nas contrarrazões, requerimento expresso de seu conhecimento e apreciação por esse E. TJDFT (CPC 523, §1º).
+2. Compete à Justiça Comum o julgamento das ações que envolvam complementação de aposentadoria paga por entidade de previdência privada. Precedentes do STF.
+3. A prescrição qüinqüenal prevista na Súmula 291 do STJ abrange as pretensões às diferenças de correção monetária incidentes sobre reserva de poupança e tem como termo inicial a data em que houver a devolução a menor das contrjbuições pessoais vertidas ao plano previdenciário.
+4. "A restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda" (Súmula 289 STJ)
+5. Não se aplica a Súmula 252 do STJ, que se refere à correção dos saldos das contas do FGTS, às ações que envolvem correção monetária de reservas de poupança em fundos de previdência privada.
+6. Condenada a ré ao pagamento das diferenças referentes a correção monetária das parcelas vertidas pelo autor ao plano previdenciário, devem incidir juros estatutários sobre essa diferença, que não foi paga, sem que se configure o bis in idem, tendo como termo final a data do rompimento do vínculo empregatício.
+7. Incabível a liquidação por arbitramento quando a apuração dos valores relativos á condenação pode ser realizada mediante simples cálculos aritméticos.
+8. Não se reduz os honorários advocatícios de sucumbência se fixados no percentual mínimo previsto na norma e obedecidos os parâmetros estabelecidos no artigo 20, § 3º do CPC.
+9. Negou-se provimento ao apelo da ré.
+Nas razões do recurso especial (fls. 305/315), a parte insurgente alegou ofensa aos arts. 18, §3º, e 20, § 3º, e 333, inc. I, do CPC/73.
+Sustentou, em síntese: a) o índice de correção monetária a ser aplicado ao resgate das contribuições deve ser aquele previsto nos respectivos estatutos do plano de previdência, sob pena de lesão ao princípio do equilíbrio atuarial que impõe ao participante a constituição de reservas compatíveis com os benefícios recebidos; b) não houve comprovação pelo autor de seus direitos; e c) os honorários sucumbenciais devem ser minorados em razão da pouca complexidade da causa.
+Contrarrazões às fls, 324/328, e-STJ.
+Em juízo de admissibilidade (fls.330/334, e-STJ), negou-se processamento ao recurso, ensejando a interposição do agravo de fls. 347/367, e-STJ.
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Segundo entendimento consolidado nesta Corte em sede de recurso especial repetitivo, a restituição da reserva de poupança ao ex-participante de plano de benefício de previdência privada deve ser corrigida monetariamente conforme os índices que reflitam a real inflação ocorrida no período, mesmo que o estatuto da entidade preveja critério de correção diverso, devendo ser incluídos os expurgos inflacionários, consoante o Enunciado de Súmula n. 289/STJ.
+Ademais, tem-se entendido que, no período indicado no acórdão recorrido (junho de 1987 a março de 1991), o IPC era o índice que melhor traduzia a perda do poder aquisitivo da moeda.
+Nesse sentido, por todos: AgInt no REsp 986.707/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/05/2017, DJe 01/06/2017.
+Afasta-se, além disso, a tese de conflito com o princípio do equilíbrio atuarial, pois sendo a correção monetária apenas o restabelecimento do poder de compra da moeda - não se confundindo com espécie de benefício de previdência complementar -, a ela não se aplica a alegada ausência de prévia constituição de reservas.
+2. No que respeita à afronta do disposto no art. 333 do CPC/73, incide, na espécie, o Enunciado n. 282, da Súmula do STF, ante a ausência de prequestionamento, porquanto não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. Nos termos da jurisprudência consolidada neste Superior Tribunal de Justiça, a revisão dos honorários advocatícios em sede de recurso especial é possível quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Somente ausentes tais hipóteses, incidiria a Súmula nº 7 do STJ, a impedir o conhecimento do recurso.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ. ALTERAÇÃO DOS FATOS. PEDIDO DE EXECUÇÃO DE BEM JÁ ENTREGUE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. EXECUÇÃO POR QUANTIA CERTA. TÍTULO SEM LIQUIDEZ. NECESSIDADE DE REEXAME DE PROVAS E ANÁLISE DE CONTRATO. SÚMULAS 5 E 7/STJ. ALEGADA VIOLAÇÃO AO ART. 616 DO CPC. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. VERBA IRRISÓRIA. MAJORAÇÃO. POSSIBILIDADE. (..) 6. Prevalece no âmbito desta Corte o entendimento de que, em princípio, a análise dos parâmetros a serem considerados para fins de arbitramento da verba honorária, mediante a eqüitativa apreciação do Magistrado, é incompatível com a via estreita do recurso especial, por força da Súmula 7/STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial." 7. Todavia, o óbice da referida súmula pode ser afastado em hipóteses excepcionais, quando for verificada a exorbitância ou o caráter irrisório da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, como se verificou no caso. 8. Agravo regimental a que se nega provimento. (AgRg no REsp 776.431/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/10/2012, DJe 20/11/2012)
+No presente caso, os honorários fixados em 10% sobre o montante da condenação não se mostram abusivos.
+4. Ante o exposto, com base no art. 932 do NCPC e na Súmula 568/STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
