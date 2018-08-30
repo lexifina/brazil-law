@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial manejado por Cidade Verde Transporte Rodoviário Ltda., com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 166):
+EXECUÇÃO FISCAL. PROCESSUAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE.
+1. Não confirgurado cerceamento de defesa, no momento em que os documentos trazidos pela União só corroboram os fatos noticiados pelo próprio executado.
+2. A condenação em honorários advocatícios deve observar critérios objetivos, sendo a sucumbência um deles, ao lado do princípio da causalidade.
+3. Hipótese em que a União não deu causa ao ajuizamento da ação e a execução foi extinta na forma do art. 26 da LEF, razão pela qual correta a sentença que deixou de condenar ambas as partes ao pagamento dos honorários advocatícios.
+Opostos embargos declaratórios, foram rejeitados (fls. 197/201).
+A parte recorrente aponta violação aos arts. 1.022, 9º, 10,11,437 e 489, §1º, IV, e 85 do CPC/2015. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas; (II) ocorreu cerceamento de defesa, em razão da ausência de intimação para manifestação acerca da petição e documentos juntados pela recorrida; e (III) a Fazenda Nacional deu causa ao ajuizamento da demanda, devendo ser condenada ao pagamento da verba sucumbencial.
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, §1º, e 1.022 do CPC/2015 na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto a tese acerca do cerceamento de defesa, o Tribunal decidiu a controvérsia com base na seguinte fundamentação (fl. 169):
+No que toca ao alegado cerceamento de defesa ante a ausência de intimação acerca da petição e documentos do Evento 11, transcrevo a sentença e adoto os seus fundamentos como razões de decidir:
+"A execução fiscal foi ajuizada em 23/09/2016. Em 29/11/2016, após sua citação, a parte executada noticiou que os valores correspondentes ao débito exequendo foram depositados tempestivamente em conta judicial vinculada aos autos de Mandado de Segurança n. º 5000011 -83.2010.404.7003."
+É de ver-se, portanto, que os referidos documentos nada mais são do que comprovantes dos fatos noticiados pelo próprio executado, descabendo qualquer alegação de cerceamento de defesa.
+Portanto, diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada nas presentes razões recursais, de modo a se chegar à conclusão de que ocorreu o cerceamento de defesa, no caso, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+A propósito:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. CERCEAMENTO DE DEFESA. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É facultado ao julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento que lhe é conferida pelo art. 130 do CPC/73, seja ela testemunhal, pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão.
+2. A alteração das conclusões adotadas pela Corte de origem acerca da desnecessidade de produção de novas provas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes: AgRg no AREsp 454.427/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 19/02/2015; AgRg no REsp 1.574.755/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 09/03/2016.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.029.093/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 06/03/2018)
+Quanto à aplicação do princípio da causalidade, o Tribunal consignou que (fls. 169/170):
+A imposição dos ônus processuais deve pautar-se pelo princípio da causalidade - segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes - devendo, ainda, observar a sucumbência. Nesse sentido, é o entendimento jurisprudencial: "a condenação em honorários advocatícios deve observar critérios objetivos, sendo a sucumbência um deles, ao lado do princípio da causalidade" (STJ, AgRg no REsp 1.082.662/RS, 2a Turma, Rel. Min. Castro Meira, DJe 15-12-2008). No caso dos autos, a demanda foi extinta com fundamento no art. 26 da Lei de Execuções Fiscais: Art. 26. Se, antes da decisão de primeira instância, a inscrição de Divida Ativa for, a qualquer título, cancelada, a execução fiscal será extinta, sem qualquer ônus para as partes.
+Por um lado, não se pode responsabilizar a União pelo ajuizamento da demanda, pois os valores foram informados equivocadamente pelo executado. Por outro, entretanto, a executada, assim que citada, informou que os valores relativos ao débito teriam sido depositados em juízo tempestivamente.
+Assim, é possível concluir que, na hipótese dos autos, a alteração das conclusões adotadas pela Corte de origem acerca da aplicação do princípio da causalidade, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido, confiram-se:
+ADMINISTRATIVO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. A jurisprudência desta Corte assevera que, "segundo o princípio da causalidade, aquele que der causa à instauração da demanda ou do incidente processual deve arcar com as despesas deles decorrentes" (AgRg no AREsp 525.559/RJ, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 12/8/2014, DJe 19/8/2014).
+2. No caso, a alteração das conclusões adotadas pela Corte de origem acerca da aplicação do princípio da causalidade, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1651454/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 09/03/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. ALEGAÇÃO DE QUE CABERIA AO MUNICÍPIO AGRAVADO ARCAR COM AS DESPESAS PROCESSUAIS. PRINCÍPIO DA CAUSALIDADE. REVISÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que houve desistência por parte da agravante, motivo pelo qual fez incidir o disposto no artigo 26 do CPC.
+3. De acordo com o princípio da causalidade, as despesas processuais e os honorários advocatícios deverão ser suportados por aquele que deu causa à propositura da ação.
+4. A análise da pretensão recursal girando em torno da aplicação do princípio da causalidade ou da possível violação da coisa julgada demanda o reexame do conjunto fático-probatório dos autos, o que é incabível nesta via especial. Incidência da Súmula 7/STJ.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 780.888/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/11/2015, DJe 04/02/2016)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
