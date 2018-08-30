@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRS, o qual recebeu a seguinte ementa (e-STJ fls. 267/268):
+APELAÇÕES CÍVEIS. PLANO DE SAÚDE. CONTRATO COLETIVO. PRELIMINARES DE INTEMPESTIVIDADE E ILEGITIMIDADE ATIVA AFASTADAS. RESCISÃO UNILATERAL. ABUSIVIDADE NO CASO CONCRETO. CDC. BENEFICIÁRIA GRÁVIDA. DANOS MORAIS AFASTADOS. VERBA HONORÁRIA MAJORADA.
+1. Não há que se falar em intempestividade do recurso, uma vez que desnecessária a ratificação das razões recursais. Não há previsão legal de exigência de ratificação da apelação cível por ocasião do julgamento de embargos de declaração.
+2. Em que pese o plano de saúde discutido nos autos tenha sido firmado por terceiro, a autora [NOME], na condição de beneficiária, é diretamente afetada pelo avençado. Logo, demonstra-se evidente a legitimidade desta para discutir acerca da validade ou nulidade da rescisão unilateral do contrato, de forma autônoma ou conjuntamente com a empresa contratante.
+3. Resta consolidado o entendimento de que a atividade securitária objeto dos autos está abrangida pelo Código de Defesa do Consumidor, consoante disposição do artigo 39, § 2P-", devendo suas cláusulas obedecer às regras dispostas na legislação consumerista, de modo a evitar eventuais desequilíbrios entre as partes, especialmente em virtude da hipossuficiência do consumidor em relação ao fornecedor.
+4. No caso concreto, ademais, importante salientar que a autora encontra-se grávida, razão pela qual necessitava do plano de saúde para o acompanhamento pré-natal e realização do parto.
+5. Em que pese a autora tenha sido previamente notificada, a rescisão do contrato de plano de saúde ocorreu durante a gravidez da demandante- situação que inviabilizaria o seu cancelamento. Observa-se que a rescisão do contrato foi imotivada, inclusive, como visto, durante a gravidez da demandante, ferindo a boa-fé contratual.
+6. Quanto aos danos morais, no plano fático, o ocorrido não se revela extremamente grave, a ponto de gerar ofensa a atributo de personalidade da autora, traduzindo-se em mero dissabor do cotidiano e da vida em sociedade. No caso em tela, a ré enviou notificação prévia dentro do prazo legal da rescisão unilateral e não há provas de que a demandada efetivamente tinha conhecimento do estado de gravidez da beneficiária do plano de saúde antes de proceder a rescisão contratual. Todavia, não há elementos que ensejem a reparação por danos extrapatrimoniais em razão da situação narrada pela autora. Seguindo esta perspectiva, é de se notar que a parte autora não comprova os danos suportados em sua peça vestibular, ônus seu, conforme disposto no artigo 333, inciso I do Codex Processual Civil (art. 373 do Novel CPC).
+8. Quantos aos honorários advocatícios, no caso em apreço, considerando o disposto no art. 20, §3º, do CPC/73, majoro os honorários advocatícios anteriormente fixados para o 20% sobre o valor da condenação.
+APELO DA RÉ PARCIALMENTE PROVIDO. APELO DA AUTORA PREJUDICADO EM PARTE E PROVIDO NO RESTANTE.
+O recurso interposto por [NOME] (e-STJ fls. 392/403) não foi admitido na origem (e-STJ fls. 471/485). Desta decisão a parte não recorreu
+O especial interposto pela GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA. (e-STJ fls. 406/414), com base no art. 105, III, "c", da CF, foi admitido (e-STJ fls. 471/485).
+A parte recorrente aponta dissídio jurisprudencial quanto à licitude da rescisão unilateral de contrato de seguro coletivo.
+Sustenta violação do art. 13, parágrafo único, II, "b", da Lei n. 9.656/1998, pois "não há qualquer irregularidade na possibilidade de rescisão contratual de PLANO COLETIVO EMPRESARIAL, havendo disposição contratual que faculta à QUALQUER DAS PARTES esta possibilidade, em respeito aos princípios da AUTONOMIA DA VONTADE E DA LIBERDADE NEGOCIAL" (e-STJ fl. 414).
+É o relatório.
+Decido.
+A recorrente, a despeito de ter invocado dissídio jurisprudencial, não fez o devido cotejo analítico entre os casos, sendo insuficiente a mera transcrição de ementas para configuração do dissídio, o que impede o conhecimento do recurso quanto a esse fundamento, conforme reiterada jurisprudência desta Corte. Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM RECONVENÇÃO. PONTO COMERCIAL. PERDA DO ACERVO ORIGINÁRIO. COMPENSAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES EXIGIDOS PELO RISTJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A conclusão da instância ordinária acerca da impossibilidade de se restaurar as condições anteriores à celebração do negócio de transferência do ponto comercial, decorreu da análise do conjunto probatório dos autos, cujo revolvimento é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+2. O dissídio jurisprudencial não foi demonstrado nos moldes exigidos pelo RISTJ, porquanto o recorrente não realizou o necessário cotejo analítico entre o acórdão recorrido e o paradigma, limitando-se à mera transcrição de ementas.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 292.051/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/9/2015, DJe 18/9/2015.)
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DUPLICATA. TÍTULO CAUSAL. EMISSÃO. CONTRATO. COMODATO. IMPERTINÊNCIA. REEXAME. SÚMULAS N. 5, 7-STJ E 284-STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 282 E 356-STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. NECESSIDADE. HONORÁRIOS ADVOCATÍCIOS. NORMA VIOLADA. INDICAÇÃO. SÚMULA N. 284-STF. INOVAÇÃO. NÃO PROVIMENTO.
+(..)
+3. "A transcrição das ementas dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial." (AgRg no REsp 851810/RS, Rel. Min. João Otávio de Noronha, Quarta Turma, unânime, Dje 11/02/2010).
+(..).
+(AgRg no Ag n. 914.172/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/8/2011, DJe 23/8/2011.)
+Ainda que assim não fosse, o Tribunal de origem, com base nas provas coligidas aos autos, concluiu que (e-STJ fls. 379/380):
+Dessarte, estando os contratos de planos de saúde submetidos as regras do Código de Defesa do Consumidor, aplica-se ao caso o art. 47 do CDC, o qual prevê: "As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor".
+E ainda, considera-se abusiva a cláusula contratual que coloque o consumidor em desvantagem exagerada, em face da previsão do art. 51, IV, XV e § 1º II do CDC6.
+No caso concreto, ademais, importante salientar que a autora encontra-se grávida, razão pela qual necessitava do plano de saúde para o acompanhamento pré-natal e realização do parto.
+Diante disso, conforme o caso concreto, embora o contrato de plano de saúde seja coletivo, o que permite, em tese, sua rescisão unilateral, desde que tenha ocorrido a notificação prévia do segurado, tenho que não assiste razão ao apelante.
+Em que pese a autora tenha sido previamente notificada, a rescisão do contrato de plano de saúde ocorreu durante a sua gravidez - situação que inviabilizaria o seu cancelamento. Observa-se que a rescisão do contrato foi imotivada, inclusive, como visto, durante a gravidez da demandante, ferindo a boa-fé contratual.
+Assim, viavel a condenação da parte ré para arcar com todas as despesas médicas até o parto da autora.
+Para alterar os fundamentos acima transcritos e afastar o reconhecimento da abusividade da cláusula que prevê a rescisão unilateral, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmula n. 7/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
