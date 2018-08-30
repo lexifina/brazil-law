@@ -1,0 +1,31 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ADMINISTRATIVO. POSSIBILIDADE DE INSCRIÇÃO DE TÉCNICO DE FARMÁCIA NO CONSELHO REGIONAL DE FARMÁCIA COMO RESPONSÁVEL TÉCNICO POR DROGARIA. AUSÊNCIA DE OMISSÃO NO JULGADO. EMBARGOS DE DECLARAÇÃO DO CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado.
+2. No caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado que, de forma clara e fundamentada, consignou a compreensão de que é direito do Técnico de Farmácia assumir responsabilidade técnica por drogaria, diante da ausência de vedação legal.
+3. Assim, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015; a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, e não podem ser ampliados.
+4. Embargos de Declaração da CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os Embargos de Declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Gurgel de Faria (Presidente) votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Regina Helena Costa.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração opostos por CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO contra acórdão desta Primeira Turma, assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. POSSIBILIDADE DE INSCRIÇÃO DE TÉCNICO DE FARMÁCIA NO CONSELHO REGIONAL DE FARMÁCIA COMO RESPONSÁVEL TÉCNICO POR DROGARIA. MATÉRIA PACIFICADA NO RECURSO ESPECIAL 862.923/SP, SOB O RITO DO ART. 543-C DO CPC. AGRAVO REGIMENTAL DO CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO DESPROVIDO.
+1. A Primeira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial 862.923/SP, sob o rito do art. 543-C do CPC, da relatoria do Ministro HUMBERTO MARTINS, reconheceu o direito do Técnico de Farmácia assumir responsabilidade técnica por drogaria, diante da ausência de vedação legal.
+2. Conforme o precedente do Ministro HUMBERTO MARTINS, o Técnico de Farmácia, profissional graduado em nível de segundo grau, com diploma registrado no MEC, pode inscrever-se no CRF desde que tenha cumprido a carga horária exigida (2.200 horas, com 900 horas de trabalho escolar). (..). Quanto à responsabilidade técnica pela drogaria, pretendida pelo recorrido, esta Corte firmou o entendimento no sentido de ser possível a assunção da responsabilidade por Técnico em Farmácia, independentemente da excepcionalidade da hipótese, pois inexistente vedação legal para tanto (REsp. 862.923/SP, Rel. Min. HUMBERTO MARTINS, DJe 18.2.2010).
+3. Agravo Regimental do CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO desprovido.
+2. Afirma suposto erro material no julgado diante da necessidade de suspensão do julgamento determinada em decisão do Min. OG FERNANDES no REsp. 1.243.944/MG, que, de fato, seria o processo submetido à sistemática dos recursos repetitivos.
+3. É o relatório.
+VOTO
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ADMINISTRATIVO. POSSIBILIDADE DE INSCRIÇÃO DE TÉCNICO DE FARMÁCIA NO CONSELHO REGIONAL DE FARMÁCIA COMO RESPONSÁVEL TÉCNICO POR DROGARIA. AUSÊNCIA DE OMISSÃO NO JULGADO. EMBARGOS DE DECLARAÇÃO DO CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado.
+2. No caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado que, de forma clara e fundamentada, consignou a compreensão de que é direito do Técnico de Farmácia assumir responsabilidade técnica por drogaria, diante da ausência de vedação legal.
+3. Assim, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015; a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, e não podem ser ampliados.
+4. Embargos de Declaração do Conselho Regional de Farmácia do Estado de São Paulo rejeitados.
+1. O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; sendo restrito a situações em que patente a existência de obscuridade, contradição, omissão ou erro material no julgado. Não se prestam, pois, ao rejulgamento da lide, mediante o reexame de matéria já decidida.
+2. Esta Corte Superior somente admite a atribuição de efeitos infringentes a Embargos de Declaração quando o reconhecimento da existência de eventual omissão, contradição ou obscuridade acarretar, invariavelmente, a modificação do julgado, o que não se verifica na hipótese em tela.
+3. Com efeito, no caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado que, de forma clara e fundamentada, consignou que a análise acerca da legalidade da utilização da Tabela Price - mesmo que em abstrato - passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), que é questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ.
+4. Portanto, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, evidencia-se que a parte embargante busca a reapreciação do mérito da causa, não sendo este o escopo dos Aclaratórios. A discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, que não podem ser ampliados.
+5. Cumpre salientar que, de todo modo, o apontado REsp. 1.243.994/MG teve seu julgamento encerrado pela Primeira Seção, manifestado posicionamento consentâneo com o adotado neste recurso.
+6. Com base nessas considerações, rejeitam-se os Embargos do CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO.
+6. É como voto.
