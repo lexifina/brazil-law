@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo interposto por IBG INDÚSTRIA BRASILEIRA DE GASES LTDA contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto pela recorrente, com base nos seguintes fundamentos: i) ausência de violação do art. 1022, II, do CPC; ii) não demonstração da violação dos artigos apontados nas razões de recurso especial; iii) aplicação da Súmula 7/STJ; iv) não demonstração da similitude fática entre os julgados recorrido e paradigmas; e v) ausência de indicação do dispositivo de lei sobre o qual se teria dado interpretação divergente.
+No entanto, da leitura do agravo em recurso especial, observa-se que a agravante limita-se a defender que o Tribunal de origem teria usurpado a competência desta Corte ao analisar o mérito recursal; que a violação dos dispositivos de lei teria sido demonstrada e que não se aplicaria a Súmula 7/STJ, deixando de impugnar os fundamentos relativos à não demonstração da similitude fática entre os julgados e à ausência de indicação do dispositivo de lei sobre o qual se teria dado interpretação divergente.
+Desse modo, não havendo a impugnação específica de todos os fundamentos da decisão recorrida, aplicável se torna a Súmula 182 desta Corte.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 253, parágrafo único, I, do RISTJ .
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 5% (cinco por cento) do valor da condenação.
+Publique-se. Intimem-se.
