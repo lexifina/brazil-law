@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. 2. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial, com fundamento nas alíneas a e c do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 205):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO INDENIZATÓRIA. ILEGITIMIDADE ATIVA AD CAUSAM.
+Consoante se extrai do art. 17 do CPC para se propor ação a parte deve ter legitimidade e interesse processual.
+Terceiro adquirente do veículo sem anuência do credor fiduciário não possui legitimidade ativa para pleitear em juízo indenização por danos morais decorrente de relação jurídica que sequer integra.
+Inviabilidade de postulação de direito alheio em nome próprio sem autorização expressa no ordenamento jurídico - art. 18 do CPC.
+Ação julgada extinta, sem resolução de mérito, nos termos do art. 485, VI, do CPC.
+PRELIMINAR ACOLHIDA. JULGADA EXTINTA A AÇÃO, SEM RESOLUÇÃO DE MÉRITO, RESTANDO PREJUDICADO O EXAME DO MÉRITO DO APELO.
+Foram, ainda, opostos embargos de declaração, que acabaram rejeitados (e-STJ, fls. 225-232).
+Nas razões do recurso especial, a recorrente alegou, além de divergência jurisprudencial, violação aos arts. 17 do CDC; 186 e 927 do CC/2002, pugnando pelo afastamento de sua ilegitimidade, uma vez que o acórdão recorrido não abordou a demanda sob o ponto de vista do CDC, no qual o consumidor, por equiparação, é considerado como vítima de evento danoso ainda que não pertença à relação contratual originária.
+Além disso, deve ser reconhecido seu direito à indenização em razão do ato ilícito cometido pelo recorrido consistente na demora excessiva em dar baixa no gravame, mesmo após a quitação do financiamento, impossibilitando de fazer a transferência de titularidade da motocicleta para seu nome, ocasionando multa pecuniária e cinco pontos na sua carteira, assim como os transtornos morais e prejuízos materiais sofridos, os quais devem ser arbitrados em 10 (dez) salários mínimos.
+Contrarrazões apresentadas às fls. 280-283 e 286-289 (e-STJ), nos quais a parte agravada pede a condenação da agravante às penas de litigância de má-fé.
+O Tribunal local não admitiu o processamento do recurso especial pela incidência das Súmulas 7 e 83 do STJ.
+Brevemente relatado, decido.
+Com efeito, observa-se do acórdão recorrido que não houve debate acerca do reconhecimento da ilegitimidade ativa ad causam do ponto de vista da infringência do art. 17 do CDC. Desse modo, não havendo o devido prequestionamento, apesar da oposição de embargos de declaração, tampouco arguindo-se ofensa ao art. 1.022 do CPC/2015, incide o óbice das Súmulas 282 do STF e 211 do STJ.
+Ademais, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+No mais, o Tribunal de Justiça, ao reformar a sentença de primeiro grau, asseverou o seguinte (e-STJ, fls. 207-211 - sem grifo no original):
+A presente demanda foi proposta com o escopo de o autor se ver ressarcido pelos danos morais e materiais sofridos pela demora do réu em dar baixa ao gravame, depois de quitado o contrato de financiamento.
+Da leitura dos autos, percebe-se que o contrato de abertura de crédito, para aquisição de uma motocicleta Yamaha/ YS 250, chassi 9C6KG0460C0032322, foi firmado entre o demandado e [NOME] em 26.04.2011. No entanto, a creditada efetuou um acordo judicial (fl. 28-29) com a autora em 10.10.2014, a qual teria se comprometido em quitar as prestações finais referentes ao financiamento com o objetivo de adquirir a motocicleta.
+Após ter quitado o contrato, alega que a demora em dar baixa no gravame pelo réu (48 dias), teria lhe trazido muitos transtornos, como o pagamento de uma multa por deixar de efetuar o registro do veículo no prazo de trinta dias (fls. 39), além do profundo abalo psicológico.
+Em contestação, o réu se manifesta alegando que não possui nenhum contrato com a autora, que o crédito concedido para aquisição da motocicleta está vinculado ao contrato n. 45040408, firmado por terceiro, e que a restrição financeira foi baixada em 28.11.2014, não havendo o que falar em responsabilidade civil.
+Diante dos fatos narrados, tenho que assiste razão ao apelante.
+O Código de Processo Civil, em seu art. 17, estabelece que "Para postular em juízo é necessário ter interesse e legitimidade."
+(..)
+Portanto, no caso concreto, o contrato originário fora firmado por [NOME], sendo que a presente ação fora ajuizada por [NOME], a qual não possui qualquer participação na contratualidade, "id est", relação jurídica. Desse modo, tenho que a demandante postula em juízo direito alheio em nome próprio sem qualquer embasamento legal para tanto.
+(..)
+Veja-se que não há qualquer liame jurídico entre a apelada e o banco, sendo, no máximo, uma relação entre particulares que entabularam a transferência de posse sobre o bem, razão pela qual não se pode conferir legitimidade ativa para o pleito.
+Com efeito, a transação havida sem a prévia anuência do credor fiduciário não pode transmudar efeitos jurídicos sobre a relação contratual originária.
+Impende ressaltar que no caso da alienação fiduciária, o devedor torna-se depositário do bem, não podendo negociá-lo com terceiros sem que haja a expressa anuência do credor, uma vez que está ausente o pleno direito de propriedade do adquirente, segundo está disposto no art. 1º do DL 911/69, in verbis:
+"A alienação fiduciária em garantia transfere ao credor o domínio resolúvel e a posse indireta da coisa móvel alienada, independentemente da tradição efetiva do bem, tornando-se o alienante ou devedor em possuidor direto e depositário com todas as responsabilidades e encargos que lhe incumbem de acordo com a lei civil e penal."
+(..)
+Assim sendo, impõe-se o acolhimento da preliminar, para a extinção da demanda, sem resolução de mérito, nos termos do art. 485, VI, do CPC.
+Pelo exposto, acolho a preliminar, para julgar extinta a ação originária, sem resolução de mérito, nos termos do art. 485, VI, do CPC, restando prejudicado o exame do mérito da apelação.
+Quanto aos honorários advocatícios, fixo-os levando em conta o trabalho realizado em grau recursal para o valor de R$ 2.000,00, à luz do art. 85, §§ 8º e 11, do CPC, observado o disposto no §14 do mesmo artigo. Em razão da reforma ora efetivada, determino a reversão da condenação das custas processuais e dos honorários advocatícios, no valor ora fixado, ao encargo do autor na sua integralidade. Suspensa a sua exigibilidade em face da concessão da AJG.
+Nesse contexto, atentando-se aos argumentos trazidos pela recorrente e aos fundamentos em destaque adotados pela Corte estadual, verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial, e a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Por fim, relativamente à multa por litigância de má-fé, as razões do inconformismo não permitem identificar de que forma se deu a violação à lei federal, pois o agravado não apontou quais dispositivos teriam sido ofendidos ou tiveram a interpretação divergente pela jurisprudência.
+É importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem de forma clara os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão. Impõe-se, assim, a incidência do entendimento jurisprudencial expresso no enunciado n. 284 da Súmula do STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 200,00 (duzentos reais), suspensa a sua exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Publique-se.
