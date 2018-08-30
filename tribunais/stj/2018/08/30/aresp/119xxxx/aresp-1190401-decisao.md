@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 334, § 1º, IV c/c § 2º do Código Penal (descaminho), à pena de 01 (um) ano e 04 (quatro) meses de reclusão, em regime inicial aberto, posteriormente, substituída por duas penas restritivas de direitos, consistentes na prestação pecuniária e cassação do direito de dirigir.
+Irresignada, a defesa do agravante interpôs recurso de apelação que restou parcialmente provido para reduzir a reprimenda para 01 (um) ano, 02 (dois) meses e 07 (sete) dias de reclusão, além de afastar a inabilitação para dirigir veículos.
+O acórdão ficou assim ementado:
+PENAL. DESCAMINHO. ARTIGO 334, §19, ALÍNEA "D", C/C §2e, DO CÓDIGO PENAL (COM REDAÇÃO ANTERIOR À VIGÊNCIA DA LEI 13.008/14. MATERIALIDADE E AUTORIA COMPROVADAS. PROCEDIMENTOS ADMINISTRATIVOS. PRESUNÇÃO DE VERACIDADE E DE LEGALIDADE. MANUTENÇÃO DA CONDENAÇÃO. DOSIMETRIA DA PENA. DOSIMETRIA. PENA-BASE. VALORAÇÃO DE APENAS UMA VETORIAL. REDUÇÃO DA PENA. PRESTAÇÃO PECUNIÁRIA. REDUÇÃO. IMPOSSIBILIDADE. CASSAÇÃO DA HABILITAÇÃO PARA CONDUZIR VEÍCULOS AUTOMOTORES. AFASTAMENTO.
+1. Comprovados a materialidade, a autoria e o dolo, e sendo o fato típico, ilícito e culpável, deve ser mantida a condenação.
+2. Os procedimentos administrativos gozam de presunção de legitimidade e de veracidade, próprias dos atos administrativos, sendo considerados provas irrepetíveis, nos termos do artigo 155 do Código de Processo Penal.
+3. Havendo, na primeira fase da dosimetria, apenas uma vetorial negativa, impõe-se a redução, de ofício, do quantum de aumento do vetor da pena-base, com a conseqüente redução da pena definitiva.
+4. Para definição do valor da prestação pecuniária, dentre os parâmetros estabelecidos pelo artigo 45, § 1 , do Código Penal, deve-se considerar certos fatores, de modo a não tornar a prestação em pecúnia tão diminuta a ponto de mostrar-se inócua, nem tão excessiva de maneira a inviabilizar seu cumprimento.
+5. No caso, incabível a redução do valor arbitrado para pena pecuniária, posto que não demonstrados óbices ao seu pagamento.
+6. O Código de Trânsito Brasileiro, a teor de seus arts. 160 e 263, reserva a medida de cassação da habilitação para dirigir veículos automotores aos condenados pela prática de delito de trânsito. O Código Penal, em seu art. 57, igualmente reserva a pena restritiva de suspensão da habilitação para dirigir veículos aos crimes culposos de trânsito.
+Em sede de recurso especial, a defesa aponta ofensa aos arts. 155, 156, 381, III e 386, VII todos do Código de Processo Penal. Sustenta, em síntese, que as instâncias ordinárias fundamentaram o decreto condenatório exclusivamente em elementos provindos da fase extrajudicial, não havendo prova produzida em Juízo para manutenção da condenação criminal.
+A r. decisão agravada inadmitiu o recurso especial, haja vista o óbice contido na súmula n. 07/STJ.
+Em agravo em recurso especial, a defesa alega que o recurso não objetiva reexaminar os fatos, mas debater questões de direito.
+Contraminuta às fls. 303/314.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 331/335).
+É o relatório.
+Decido.
+Atendidos os requisitos de admissibilidade e impugnado o fundamento da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+A irresignação não merece prosperar.
+O Tribunal de origem considerou as provas obtidas na fase extrajudicial como irrepetíveis, mediante fundamentação que ora se destaca ( fl. 222):
+A materialidade vem demonstrada pelos documentos de apreensão de mercadorias estrangeiras sem o pagamento dos respectivos impostos, conforme o auto de infração e apreensão de mercadorias (Evento 1 - PROCADM3, do processo originário).
+A defesa sustenta a inexistência de provas judicializadas que amparem o decreto condenatório.
+Destaco que os documentos firmados - em sede administrativa - pelos servidores públicos responsáveis pela apreensão das mercadorias gozam de presunção de legitimidade e veracidade, bem como são considerados provas irrepetíveis, a serem submetidas ao contraditório diferido.
+Ademais, o réu foi surpreendido na posse das mercadorias.
+Destarte, não tendo logrado a defesa coligir aos autos elementos aptos a afastar a referida presunção quanto aos documentos confeccionados pelos agentes públicos, não merece acolhimento a tese defensiva de ausência de provas judicializadas, devendo ser mantida a sentença condenatória.
+Não há que se falar em violação ao disposto no art. 155 do CPP, porquanto as provas obtidas durante a investigação criminal foram submetidas ao contraditório diferido, momento em que os aludidos elementos foram trazidos a juízo, sendo observadas todas as garantias do devido processo legal e da ampla defesa, como a designação de audiência para interrogatório do agravante (fl. 104), apresentação da defesa prévia (fl. 113), inclusive com manifestação da defesa quanto ao desinteresse na produção de prova testemunhal (fl. 119) e o não comparecimento à audiência (fl. 121).
+Os documentos foram confeccionados por servidores públicos com presunção legal de autenticidade e veracidade. Ademais, apesar de produzidos na fase extrajudicial, poderiam ser questionados em juízo por qualquer das partes, não havendo, assim, ofensa ao princípio do contraditório e da ampla defesa.
+Nesse sentido:
+HABEAS CORPUS. DESCAMINHO. MATERIALIDADE E AUTORIA COMPROVADAS PELO INTERROGATÓRIO DA PACIENTE E PELO AUTO DE APREENSÃO REALIZADO PELA RECEITA FEDERAL. INEXISTÊNCIA DE CONDENAÇÃO BASEADA EM PROVAS PRODUZIDAS EXCLUSIVAMENTE EM INQUÉRITO POLICIAL. ART. 155 DO CPP. PARECER DO MPF PELA DENEGAÇÃO DO WRIT. ORDEM DENEGADA. 1. Dispõe o art. 155 do CPP que o Juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas. 2. A autoria e a materialidade do delito foram devidamente comprovadas pelo depoimento em juízo da paciente e pelo Auto de Infração com Apreensão realizado pela Receita Federal, documento com presunção legal de autenticidade e veracidade (fé pública). 3. O referido Auto de Infração, apesar de produzido na fase extrajudicial, pode ser questionado em juízo por qualquer das partes, não havendo, assim, ofensa ao princípio do contraditório e da ampla defesa. 4. Ordem denegada, em conformidade com o parecer ministerial. (HC 175.387/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, julgado em 18/11/2010, DJe 13/12/2010 - Grifo Nosso).
+No mais, rever a conclusão do Tribunal de origem acerca da existência de provas da autoria e materialidade delitiva, para o fim de absolver o agravante, seria necessário o revolvimento fático-probatório, o que encontra óbice na Súmula n. 7/STJ. Vejam-se os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 619 DO CPP. SÚMULA 284/STF. VIOLAÇÃO AOS ARTS. 155 e 381, III, DO CPP. ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. SÚMULA 7 DO STJ. DOSIMETRIA. ILEGALIDADE INEXISTENTE. PROPORCIONAL. EXECUÇÃO PROVISÓRIA DA PENA PRIVATIVA DE LIBERDADE. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. A alteração do julgado, a fim de se constatar a inexistência de elementos suficientes de autoria e de materialidade delitivas, ou, ainda, que a prova produzida é deficitária, tal como pleiteado pelo acusado, demandaria o revolvimento do acervo fático e probatório dos autos, o que é vedado em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+(..)
+8. Agravo regimental a que se nega provimento, determinando-se o envio de cópia dos autos ao Tribunal de origem, para que adote as providências cabíveis quanto ao início da execução provisória da pena privativa de liberdade imposta à parte. (AgRg no AREsp 237.445/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/11/2017, DJe 29/11/2017 - Grifo Nosso).
+AGRAVO REGIMENTAL. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. LEI N. 7.492/1986. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. OPERAÇÃO DÓLAR-CABO. REMESSA ILEGAL DE DIVISAS AO EXTERIOR. TRANSAÇÕES FINANCEIRAS SEM AUTORIZAÇÃO DO BANCO CENTRAL. RECURSO DE APELAÇÃO INTERPOSTO TEMPESTIVAMENTE NA ORIGEM. DOSIMETRIA. FUNDAMENTAÇÃO ADEQUADA. ACÓRDÃO FIRMADO EM MATÉRIA FÁTICA. SÚMULA 7/STJ. PRESCRIÇÃO. NÃO OCORRÊNCIA. MAJORAÇÃO INDEVIDA DA MULTA. OCORRÊNCIA. PRINCÍPIO DO PREJUÍZO. PAS DE NULLITÉ SANS GRIEF.
+(..)
+6. O exame da ausência de provas para a condenação, na via especial, esbarra no óbice da Súmula 7/STJ.
+(..)
+9. Agravo regimental improvido, com a determinação de que seja oficiado ao Juízo de primeiro grau para que dê início imediato à execução provisória da pena. (AgRg no REsp 1480123/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/11/2016, DJe 01/12/2016 - Grio Nosso).
+Diante do exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
