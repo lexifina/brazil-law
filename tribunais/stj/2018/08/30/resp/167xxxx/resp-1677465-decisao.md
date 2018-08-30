@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSC assim ementado (e-STJ fl. 174):
+PRESCRIÇÃO INTERCORRENTE. Cédula de crédito industrial. Execução extinta. Insurgência. Retirada dos autos em carga pelo credor. Paralisação do processo por tempo superior ao prazo prescricional do título. Deferimento de diligência após a devolução dos autos. Irrelevância. Possibilidade de decretar a prescrição de oficio, a qualquer tempo. Intimação pessoal. Desnecessidade. Honorários advocatícios. Pedido de minoração acolhido. Reclamo provido em parte.
+Os autos da execução permaneceram em carga com o credor por período superior ao prazo prescricional do título, ensejando prescrição intercorrente, a qual pode ser decretada de ofício, a qualquer tempo.
+A verba honorária comporta minoração em face da reduzida atuação do procurador dos executados, limitada a duas petições ao longo de mais de dezesseis anos de tramitação.
+O requerente opôs embargos de declaração, os quais foram rejeitados (e-STJ. fls. 195/197).
+Nas razões recursais (e-STJ fls. 200/210), fundamentadas no art. 105, III, "a" e "c", da CF, apontou violação dos arts. 267, § 1º, 269, IV, e 680 do CPC/1973. A insurgência cuida dos seguintes temas: (a) negativa de prestação jurisdicional e (b) prescrição intercorrente.
+Foram apresentadas contrarrazões (e-STJ fls. 228/235).
+É o relatório.
+Decido.
+Negativa de prestação jurisdicional
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses do recorrente. O julgador não está compelido a analisar todos os argumentos invocados pela parte, quando tenha encontrado motivação satisfatória para dirimir o litígio, não se identificando omissão, contradição ou obscuridade no acórdão impugnado.
+Além disso, não se admite alegação genérica de ofensa ao artigo 535 do CPC/1973, cabendo ao recorrente indicar os motivos específicos pelos quais haveria violação da norma, medida não adotada na espécie, o que atrai o óbice da Súmula n. 284/STF.
+Prescrição intercorrente
+O recorrente sustenta que não houve desídia em dar andamento ao processo, sendo necessária sua intimação pessoal antes de se reconhecer a prescrição intercorrente.
+A questão foi abordada pelo acórdão, nos seguintes termos (e-STJ fls. 175/177 - grifei):
+A sentença dispôs:
+Em face do que foi dito, extingo o processo, com julgamento do mérito, com fundamento no art. 269, IV, última figura, do CPC.
+Condeno o exequente ao pagamento das custas processuais e honorários de advogado, estes fixados em R$ 10.000,00 (dez mil reais), com base no art. 20, § 4º, do CPC (fl. 62).
+O apelante investiu contra esta decisão, ao argumento de que a prescrição intercorrente seria "residual" e não poderia ser decretada se "o exequente está empregando esforços" para obter a satisfação do seu crédito (fl. 70). Com esta finalidade, inclusive, teria pedido nova avaliação do bem penhorado, providência que, apesar de ter sido deferida pelo juízo, não foi cumprida porque este não teria dado "prosseguimento aos atos cartorários dos quais dependia a realização do ato de constrição" (fl. 70).
+Nas contrarrazões foi alegado que
+O fato de o magistrado de primeiro grau ter acatado um pedido do recorrente após a devolução dos autos, a qual se deu após quase 05 anos após sua retirada em carga, não descaracteriza a prescrição, a qual pode ser alegada a qualquer momento pela parte, ou mesmo de ofício pelo juiz (fl. 104).
+A prescrição intercorrente pressupõe a paralisação da execução por tempo superior ao prazo prescricional do título, em razão da inércia do credor em realizar diligência que lhe incumbia (Apelação Cível n. 2012.017832-4, de Blumenau, na qual oficiei como Relator, j. em 27.4.2012).
+A presente demanda veio embasada em cédula de crédito industrial (fl. 8), a qual prescreve em 3 (três) anos, a teor dos artigos 52 do Decreto-lei 413/69 e 70 do Decreto 57.663/66 (Lei Uniforme de Genebra).
+A execução foi proposta em 25.10.1996 (fl. 2), e em março de 1997 os devedores opuseram embargos, os quais foram julgados improcedentes por sentença proferida em junho de 1998 (fls. 58/64 do anexo).
+Os embargantes apelaram e, após contrarrazões, os autos ascenderam a esta Corte, onde foi determinada a subida da presente expropriatória, para que permanecesse apensada aos embargos (fl. 110 do anexo).
+Em julgamento realizado em 15.3.2001, o reclamo foi parcialmente provido para revisar encargos incidentes na cédula, e transitou em julgado em 29.5.2001, retornando os autos à comarca de origem em 5.6.2001 (fls. 122/179 e 180 do anexo).
+O procurador do apelante retirou-os em carga em 18.6.2001 e os devolveu somente em 18.4.2006, conforme certidão da escrivã responsável pelo cartório da Vara onde tramitou o processo (fl. 181 do anexo). Neste mesmo dia foi protocolada petição pedindo fosse renovada "a avaliação do bem penhorado às fls. 17", tendo em vista que a anterior "ocorreu há mais de 09 anos" (fl. 56).
+Este pedido foi deferido em 6.10.2008 (fl. 57), mas após o juízo refluiu e proferiu sentença decretando a prescrição intercorrente (fls. 60/62).
+Com efeito, após o julgamento do recurso nos embargos do devedor e retorno dos autos à primeira instância, a decorrência lógica seria o recálculo da dívida conforme os parâmetros estabelecidos e o início dos atos expropriatórios do bem penhorado. No entanto, o credor somente tomou providências neste sentido quase 5 (cinco) anos depois do retorno do processo, prazo superior ao previsto para cobrar a cédula de crédito industrial.
+O fato de ter sido deferida diligência após consumado este prazo não acarreta preclusão para o juiz, a quem incumbe decretar a prescrição de ofício, a qualquer tempo (art. 219, § 5º, CPC).
+A alegação de que seria necessária "prévia intimação pessoal do credor" para que desse andamento ao feito (fl. 71) também não prospera pois, conforme destacado em contrarrazões (fl. 104), os autos se encontravam em poder do procurador do apelante durante todo o período.
+Portanto, diante da paralisação do processo por desídia do apelante, que reteve os autos em seu poder por tempo superior ao prazo prescricional da cédula de crédito, a prescrição intercorrente se consumou (Apelação Cível 2010.069472-1, de Campos Novos, na qual oficiei como Relator, j. em 16.8.2011), não merecendo reparo a sentença neste tocante.
+Em razão da divergência interpretativa entre as TURMAS que compõem a SEGUNDA SEÇÃO do STJ, foi instaurado incidente de assunção de competência (IAC n. 1) no REsp n. 1.604.412/SC (Relator Ministro MARCO AURÉLIO BELLIZZE), nos termos dos artigos 947, § 4º, do CPC/2015 e 271-B do RISTJ, com o objetivo de uniformizar o entendimento acerca dos seguintes temas: (i) cabimento de prescrição intercorrente, nos processos anteriores ao atual CPC, e eventual imprescindibilidade de intimação prévia do credor, (ii) exigência de oportunidade para o autor dar andamento ao processo paralisado por prazo superior ao estabelecido para prescrever a pretensão veiculada na demanda.
+No julgamento do IAC, foram fixadas as seguintes teses:
+1.1. Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2. O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 (um) ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3. O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+Estando o acórdão recorrido em consonância com o posicionamento firmado em precedente uniformizador desta Corte, impõe-se a aplicação da Súmula n. 83/STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
