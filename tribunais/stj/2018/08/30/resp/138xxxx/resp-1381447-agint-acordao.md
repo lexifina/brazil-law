@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. SIMULAÇÃO. FRAUDE. PRESCRIÇÃO. PRAZO. ART. 178, § 9º, V, "b", DO CÓDIGO CIVIL DE 1916. PRINCÍPIO DA ESPECIALIDADE. TEMPUS REGIT ACTUM. INCIDÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A pretensão de anular negócio jurídico fundada em erro, dolo, simulação, fraude ou coação, nos termos do art. 178, § 9º, V, "b", do CC/1916, vigente à época em que firmados os ajustes, prescreve em 4 (quatro) anos, contados da data da celebração.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Marco Aurélio Bellizze (Presidente), Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por [NOME] e outro contra a decisão (e-STJ fls. 171-178) que conheceu parcialmente do recurso especial e, nessa parte, deu-lhe provimento no que tange ao prazo prescricional e restabeleceu a sentença de fls. 70-76 (e-STJ).
+Nas razões do presente recurso (e-STJ fls. 184-201), os agravantes defendem a incidência da Súmula nº 7/STJ, argumentando, em síntese que "os contornos fáticos que ensejaram a propositura da ação anulatória (existência manifesta de agiotagem, com cobrança de juros de 70% sobre o valor do empréstimo)", retrata negócio nulo, "posto que ilícito seu objeto (não se trata, pois, de anulabilidade, como entendeu o acórdão estadual recorrido)" (e-STJ fl. 196), e, portanto, deveria incidir a prescrição vintenária (art. 177 do CC/1916).
+Ao final, pugnam pela reconsideração da decisão agravada ou, alternativamente, que seja o feito submetido ao órgão julgador colegiado competente.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): A irresignação não merece prosperar.
+Os argumentos expendidos nas razões do agravo são insuficientes para autorizar a reforma da decisão agravada.
+Com efeito, em relação aos arts. 11 do Decreto nº 22.626/1933, 167, 170, 591, 884, caput, e 885; 2.035 do Código Civil de 2002 e 104 do Código Civil de 1916, verifica-se que as matérias versadas nos mencionados dispositivos apontados como violados no recurso especial não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos declaratórios com a finalidade de sanar vício porventura existente.
+Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+O tribunal local reconheceu ter havido simulação para fraudar a lei, todavia, no tocante à prescrição, concluiu no sentido de que, "em se tratando de nulidade de negócio jurídico simulado para garantia de agiotagem (..) o prazo a ser aplicado deve ser o vintenário, previsto no art. 177 do Código Civil de 1916 (..)" (e-STJ fl. 121), deixando de considerar a literalidade do art. 178, § 9º, V, "b", do Código Civil de 1916, que prevê a prescrição quadrienal tanto na hipótese de fraude como de simulação:
+"Art. 178. Prescreve:
+§ 9º Em quatro anos:
+V. A ação de anular ou rescindir os contratos, para a qual se não tenha estabelecido menor prazo; contado este: (..)
+b) no de erro, dolo, simulação ou fraude, do dia em que se realizar o ato ou o contrato; (..)." (grifou-se)
+Assim, quanto à prescrição relativa a atos simulados praticados sob a égide do Código Civil de 1916, o acórdão supracitado está, de fato, em desacordo com a jurisprudência desta Corte, como se observa dos seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE DE REGISTRO DE IMÓVEL. CONTRATO DE CESSÃO DE DIREITOS RELATIVOS A PROMESSA DE COMPRA E VENDA. ERRO NA MATRÍCULA DECORRENTE DE SIMULAÇÃO EM NEGÓCIOS JURÍDICOS ANTERIORES. PRESCRIÇÃO. ART. 178, § 9º, V, B, DO CC/1916. FUNDAMENTO INATACADO. SÚMULA 283/STF. RECURSO IMPROVIDO.
+1. Conforme reconhecido pelas instâncias ordinárias, é evidente a intenção da parte autora de atacar os negócios jurídicos subjacentes ao registro, pois, do contrário, não haveria justa causa jurídica hábil a embasar o pedido de anulação.
+2. A pretensão de anular negócio jurídico fundada em erro, dolo, simulação, fraude ou coação, nos termos do art. 178, § 9º, V, b, do CC/1916, vigente à época em que firmados os ajustes, prescreve em quatro anos, contados da data da celebração. (..)
+4. Agravo interno não provido" (AgRg no AREsp 519.852/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/05/2017, DJe 1º/06/2017 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AUTORES.
+1. "A alegação de simulação em negócios jurídicos celebrados sob a égide do Código Civil de 1916 atrai a incidência do princípio tempus regit actum afastando a aplicação das regras do Código Civil de 2002, para, com base no art. 178, § 9º, V, b, do Código Beviláqua, reconhecer-se a ocorrência de prescrição." (REsp 1004729/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/10/2016, DJe 26/10/2016). No caso em tela, apontou-se invalidade por simulação e fraude contra credores no contrato de compra e venda realizado entre uma das co-proprietárias e terceiro, alegações que, na vigência do CC/1916, estavam submetidas ao prazo decadencial de quatro anos.
+2. Agravo interno desprovido" (AgInt no REsp 1.468.433/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/10/2017, DJe 13/11/2017).
+"RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. APELAÇÃO. AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. APLICAÇÃO.
+SIMULAÇÃO. PRESCRIÇÃO (CC/1916, ART. 178, § 9º, V, b). OCORRÊNCIA.
+APLICAÇÃO DO PRINCÍPIO TEMPUS REGIT ACTUM. RECURSO PARCIALMENTE PROVIDO.
+1. (..) 5. Por outro lado, merece parcial reforma o acórdão recorrido, pois a alegação de simulação em negócios jurídicos celebrados sob a égide do Código Civil de 1916 atrai a incidência do princípio tempus regit actum afastando a aplicação das regras do Código Civil de 2002, para, com base no art. 178, § 9º, V, b, do Código Beviláqua, reconhecer-se a ocorrência de prescrição.
+6. Recurso especial parcialmente provido." (REsp 1.004.729/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/10/2016, DJe 26/10/2016 - grifou-se).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO ESPECIAL.
+I. Nas ações em que se pretende anular nota promissória é aplicável o prazo quadrienal previsto no artigo 178, § 9º, V, b, do CC/16 (art. 178, II, do CC/02).
+II. Agravo regimental desprovido" (AgRg no Ag 1.268.297/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 16/11/2010, DJe 1º/12/2010 - grifou-se).
+Ademais, havendo norma específica, não há falar em aplicação da norma geral inserta no art. 177 do CC/1916, como se pode inferir do art. 179 do mesmo diploma legal, que prevê que apenas nos casos não regulados pela lei aplica-se a regra geral do prazo vintenário. No caso, há regra específica que prevê o prazo de 4 (quatro) anos para se anular fraude ou simulação, devendo ser observado o princípio da especialidade.
+Assim, merece ser restabelecida a sentença do juízo da Comarca de Barra Velha que julgou improcedente o pedido formulado na ação anulatória em virtude da ocorrência da prescrição nos seguintes termos:
+"(..) A prescrição estabelecida no art. 178, § 9º, V, b, do Código Civil de 1916, tem aplicabilidade nas demandas cuja aspiração é a anulação de contrato por erro, dolo, simulação ou fraude, o que é o caso dos autos.
+O decurso do prazo de quatro anos, previsto no dispositivo legal, acarreta, obrigatoriamente, a declaração da extinção do direito de ação, com julgamento de mérito, ex vi do inciso IV do artigo 269 do Código de Processo Civil. (e-STJ fl. 72). (..)
+Assim, considerando-se que a escritura que se pretende anular foi lavrada no dia 20/03/1996, resta evidente que o direito dos Autores já está prescrito, haja vista que esta ação foi ajuizada somente no dia 11/05/2001, ou seja, quando já decorrido o prazo de quatro anos.
+Vale destacar que o prazo vintenário, a qual se referiu os Autores, somente seria aplicável ao caso se os Autores ou quem quer que seja postulasse a rescisão do contrato em face do inadimplemento comum e não a anulação da escritura pelo fato de ter sido lavrado uma escritura em decorrência de uma compra e venda que nunca existiu. (..) Logo, ante o reconhecimento da prescrição, resta prejudicada a análise das demais matérias, bem como do pedido reconvencional, por perda de objeto" (e-STJ fls. 70-76 - grifou-se).
+Não se desconhece que a simulação com "o advento do código atual (..) deixou de ser incluída entre os defeitos, passando a ser causa de nulidade do negócio jurídico" (Paulo R. M. Thompson Flores, Direito Civil - Parte Geral, Editora Gazeta Jurídica, pág. 773). Todavia, a simulação e a fraude foram perpetradas sob a égide do Código Civil de 1916, que tem previsão específica para tais atos (art. 178, § 9º, V, "b"), com aplicação direta ao caso concreto, como acertadamente concluiu a sentença (e-STJ fl. 75).
+O Superior Tribunal de Justiça tem reiterados julgados de que a revaloração jurídica de fatos incontroversos descritos no acórdão recorrido não afronta o entendimento contido na Súmula nº 7/STJ, como na hipótese dos autos.
+Assim, não prosperam as alegações postas no agravo, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
