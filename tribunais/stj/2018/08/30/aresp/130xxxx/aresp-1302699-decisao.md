@@ -1,0 +1,30 @@
+EMENTA
+AÇÃO DE COBRANÇA. AGRAVO EM RECURSO ESPECIAL MANEJADO NA ÉGIDE DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITOS LEGAIS DITOS VIOLADOS. SÚMULA Nº 282 DO STF. DISSIDIO JURISPRUDENCIAL PREJUDICADO. ACÓRDÃO ESTADUAL FIRMADO NAS PREMISSAS FÁTICAS DO CASO CONCRETO E NOS TERMOS DO CONTRATO DE SEGURO. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de cobrança contra CENTAURO VIDA E PREVIDÊNCIA S.A. (CENTAURO) tendo por objeto contrato de seguro de vida em grupo.
+A sentença de procedência do pedido foi confirmada em grau de apelação conforme o acórdão assim ementado:
+AÇÃO DE COBRANÇA. CONTRATO DE SEGURO DE VIDA EM GRUPO. PLEITO PELO PAGAMENTO INTEGRAL DA INDENIZAÇÃO, INDEPENDENTEMENTE DO GRAU DE INVALIDEZ. SENTENÇA DE PROVIMENTO TOTAL. DIREITO DO CONSUMIDOR. RECONHECIMENTO DA ABUSIVIDADE DAS CLÁUSULAS DE GRADAÇÃO DA INDENIZAÇÃO, LIMITATIVAS AO DIREITO DO AUTOR, SEM O DEVIDO DESTAQUE. SENTENÇA MANTIDA EM SEUS TERMOS. RECURSO DESPROVIDO (e-STJ, fl. 287).
+Os embargos de declaração fora rejeitados (e-STJ, fls. 331/335).
+CENTAURO desafiou recurso especial com base no art. 105, III, a e c, da CF, onde alegou violação dos arts. 421, 425, 757, 760 e 801,§1º, do CC/02 ; 21, § 2º do Decreto Lei 73/66 e 1º da Resolução 107/2004 da SUSEP, além de dissídio jurisprudencial, nos termos da fundamentação assim sintetizada (1) é do estipulante/mandatário a obrigação de informar o segurado das condições do contrato e não da seguradora; (2) o estipulante não pode ser equiparado a consumidor perante a lei, pois não é o destinatário final do produto ou serviço; (3) todas as cláusulas constantes das Condições Gerais e Especiais do Seguro eram de conhecimento dos contratantes que tinham o dever de repassá-las aos segurados nos termos da legislação citada; (4) o Tribunal local não valorou corretamente as provas dos autos; (5) não sendo a seguradora recorrente a responsável pelo repasse das informações do seguro, não pode ser penalizada na condenação ao pagamento da indenização securitária no valor máximo da cobertura contratada.
+Foram apresentadas contrarrazões (e-STJ, fls. 481/505).
+O Tribunal local inadmitiu o apelo nobre pelos seguintes fundamentos (1) Súmula n s 211 do STJ e 282 do STF; (2) resolução não reveste o conceito de lei federal e não autoriza a interposição de recurso especial; (3) Súmulas nºs 5 e 7 do STJ.
+CENTAURO ingressou com agravo em recurso especial sustentando que (1) não se aplicam as Súmulas nºs 211 do STJ e 282 do STF, em razãodo disposto no art. 1025 do NCPC; (2) o exame do dissídio jurisprudencial não é obstado pelas Súmulas nºs 5 e 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 677/685).
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação dos arts. 421, 425, 757, 760 e 801,§1º, do CC/02 ; 21, § 2º do Decreto Lei 73/66
+No ponto, observa-se que os referidos preceitos legais não foram objeto de debate pelo Tribunal recorrido ressentindo-se do necessário prequestionamento, pressuposto inafastável ao conhecimento do apelo nobre.
+Acrescente-se, que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada mesmo com a oposição de embargos de declaração. Sendo assim, é de rigor a aplicação, por analogia, da Súmula n.º 282 do STF.
+É importante salientar, que, ao contrário do que pretende a CENTAURO, o art. 1025 do NCPC se aplica apenas nos casos em que o Tribunal superior considera existentes erro ou omissão, contradição e obscuridade, o que não se verifica no caso vertente.
+Acrescente-se, ainda, que a recorrente CENTAURO deveria ter indicado violação ao art. 1022 do NCPC, conforme indicou a decisão ora agravada, a fim de evitar a supressão de instância. Contudo não o fez.
+Nos termos da jurisprudência desta Corte, para se possibilitar a incidência do art. 1025 do NCPC cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do NCPC de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j.em 04/04/2017, DJe 10/04/2017).
+(2) Do dissídio jurisprudencial
+Não tendo ocorrido o prequestionamento, não há que se cogitar de dissídio interpretativo acerca dos preceitos legais arrolados no apelo especial.
+Por fim, cumpre registrar que as convicções firmadas na Corte de origem encontram-se coligidas nos elementos fáticos constantes dos autos e na interpretação das cláusulas do contrato de seguro, de forma que sua revisão no âmbito do reurso especial está obstada pelas Súmulas nºs 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § º do NCPC).
+Publique-se. Intimem-se.
