@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ASSOCIAÇÃO PROCONSTRUÇÃO DO RESIDENCIAL DONA IRENE de decisão que negou seguimento a recurso especial fundado no art. 105, III, a e c, da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL (1) - AÇÃO DE DESPEJO POR INFRAÇÕES CONTRATUAIS - PAGAENTOS DOS ALUGUERES REALIZADOS EM FACE DA ADMINISTRADORA DO IMÓVEL - VALIDADE - ARTIGO 311 DO CÓDIGO CIVIL - DESPESAS COM REFORMAS DO IMÓVEL - IMPOSSIBILIDADE DE AMPLIAR O PEDIDO INICIAL - ESTABILIZAÇÃO SUBJETIVA DA LIDE - READEQUAÇÃO DA SUCUMBÊNCIA .
+1. Os pagamentos dos alugueres realizados à administradora do imóvel são válidos, pois esta permaneceu, mesmo após a alienação do bem, emitindo os boletos e quitação.
+2. Tendo ocorrido a estabilização subjetiva da demanda, com a citação da parte passiva, não pode o pedido ser ampliado, salvo consentimento do Requerido, e até o saneamento.
+RECURSO CONHECIDO E NÃO PROVIDO.
+APELAÇÃO CÍVEL (2) - AÇÃO DE DESPEJO POR INFRAÇÕES CONTRATUAIS - NOTIFICAÇÕES PREMONITÓRIAS - VALIDADE - PROCURAÇÃO DA REPRESENTANTE DO LOCADOR QUE ACOMPANHOU A NOTIFICAÇÃO - PRAZO CONCEDIDO NA NOTIFICAÇÃO DIVERSO DO PREVISTO EM LEI - IRRELEVÂNCIA, ANTE A NÃO DESOCUPAÇÃO VOLUNTÁRIA DO IMÓVEL, MAS APENAS MEDIANTE DESPEJO FORÇADO - AUSÊNCIA DE PREJUÍZO - PAGAMENTOS DOS ALUGUERES REALIZADOS À ADMINISTRADORA DO IMÓVEL - VALIDADE - ARTIGO 311 DO CÓDIGO CIVIL - INFRAÇÃO CONTRATUAL - OCORRÊNCIA - EDIFICAÇÕES NÃO AUTORIZADAS QUE VIOLAM DISPOSIÇÃO CONTIDA NO CONTRATO DE LOCAÇÃO.
+1. É válida e eficaz a notificação extrajudicial quando comprovado o recebimento pelo destinatário específico e o pleno conhecimento do seu teor, podendo figurar como agente notificante o locador ou quem o represente.
+2. Não havendo prejuízo ao notificado, diante da não desocupação voluntária do imóvel, que somente se aperfeiçoou com o despejo forçado, deve-se reconhecer válida e eficaz as notificações.
+3. Os pagamentos dos alugueres realizados à administradora do imóvel são válidos, pois esta permaneceu, mesmo após a alienação do bem, emitindo os boletos e outorgando quitação.
+4. Há evidente infração contratual quando a locatária constrói no imóvel locado sem qualquer autorização do locador.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (fls. 486/488)
+Opostos embargos de declaração sucessivos, foram rejeitados (fls. 519/525 e 537/543),
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 308, 310 e 311 do Código Civil de 2002, bem como divergência jurisprudencial, alegando, em síntese, que não podem ser considerados válidos os pagamentos efetuados pela recorrida à administradora contratada pelo antigo proprietário do imóvel, uma vez que esta não tinha poderes para receber os valores e porque a locatária fora devidamente notificada sobre a venda.
+Foram apresentadas contrarrazões (fls. 618/622).
+É o relatório. Decido.
+2. O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A insurgência, contudo, não tem como prosperar.
+No caso, a questão relativa à validade dos pagamentos realizados pela recorrida foi examinada pelo Tribunal de origem à base da seguinte fundamentação:
+ "A sentença reconheceu válidos os pagamentos comprovados nos autos e realizados à Imobiliária Gonzaga, entendimento que merece ser mantido.
+ Com efeito, após a alienação do imóvel pelo antigo locador à Associação Apelada (2), ocorrida em 09.04.2010, não foi a Apelante notificada a respeito da cessação de poderes à Imobiliária para gerir o bem, receber pagamento e outorgar quitação.
+ Ao contrário, continuou a Imobiliária a emitir os boletos de pagamentos dos alugueres respectivos, conforme faz prova os documentos de fls. 162/172. Inclusive, a administradora do imóvel prestou declaração, em 17.10.2010, de que não havia débitos em aberto.
+(..)
+ A Apelante (1) alega que os pagamentos dos alugueres realizados à Imobiliária Gonzaga após a alienação do imóvel pelo primitivo locador são inválidos, pois ela não detinha poderes para recebê-los, o que era de conhecimento da Apelada (1).
+ Como já explicitado quando da análise do Recurso de Apelação (2), são válidos e eficazes os pagamentos realizados pela Apelada (1) à Gonzaga Administradora de Imóveis Ltda., por força do artigo 311 do Código Civil.
+ Não há, outrossim, comprovação de que a Imobiliária não mais representava a locadora do imóvel em questão, pois, em que pese sabedora de que o imóvel foi alienado, a Apelada (1) não tinha conhecimento de que os pagamentos dos alugueres deveria ser realizado ao novo proprietário, até porque continuou a ser cobrada pela administradora, que permaneceu emitindo os boletos respectivos.
+ Caso a Apelante (1) não tenha recebido qualquer valor relativo aos alugueres do período em que já era proprietária do imóvel, deve, conforme pontuado pela sentença, "vindica-los da antiga administradora ou do antigo proprietário se indevidamente os recebeu."Reputam-se válidos os pagamento realizados e devidamente comprovados nos autos pela Apelada (1)." (fls. 495/500)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Prejudicado, ademais, o conhecimento do recurso pela alínea c do permissivo constitucional, uma vez que, conforme reiteradamente decidido no âmbito desta Corte, "A inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt no AgRg no AREsp 317.832/RJ, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/3/2018).
+Do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
