@@ -1,0 +1,78 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Caixa Econômica Federal - CEF, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 5ª Região, publicado na vigência do CPC/1973, assim ementado (e-STJ, fl. 224):
+ADMINISTRATIVO. CEF. CONVÊNIO. REPASSE DE VERBAS. LEGITIMIDADE PASSIVA. POSSIBILIDADE JURÍDICA DO PEDIDO. PENDÊNCIAS JUNTO AO CAUC-SIAPF. NOVA ADMINISTRAÇÃO. PROVIDÊNCIAS NO SENTIDO DA REGULARIZAÇÃO E DA RESPONSABILIZAÇÃO DO ANTIGO GESTOR.
+1. Apelação interposta de sentença que julgou procedente pedido formulado em ação ordinária, ajuizada a fim de ser determinada à CEF - Caixa Econômica Federal a assinatura de contrato oriundo de convênio firmado com o Ministério do Turismo, para pavimentação poliédrica de ruas, sob o fundamento de que se permite à nova administração municipal, desde que tomadas as providências cabíveis para regularizar pendências administrativas, as quais determinaram a inscrição do nome do município nos órgãos de proteção do crédito público, de responsabilidade de gestão passada, de preencher as condições legais para o percebimento de verbas estatais.
+2. Possibilidade jurídica do pedido, porquanto o que ora se requer é a firmação de contrato de repasse de verba pública sob a administração da CEF.
+3. Legitimidade passiva da apelante, porquanto na qualidade de gestora é a única responsável pela fase administrativa de repasse das verbas e que a sua inércia inviabiliza o município ao seu percebimento.
+4. Apesar do provimento do agravo de instrumento, sob o fundamento de que as verbas estatais não se destinavam a setores eleitos essenciais pela Lei Complementar nº 101/2000, entende-se que se refere às administrações municipais irregulares sob o mesmo mandato político, não atingindo as administrações posteriores, desde que sejam tomadas as providências cabíveis para a regularização das pendências administrativas (AG - 97580. Des. Federal [NOME], DJE em 15/09/2009).
+5. Improvimento da Apelação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 235/240).
+Alega a recorrente não ser parte legítima para figurar no polo passivo da presente demanda, porquanto é mera agente operadora do programa Turismo Social no Brasil, repassando as verbas que recebe da União na forma prevista pela legislação aplicável.
+Sustenta, além de dissídio jurisprudencial, malferimento dos arts. 43, caput e § 2º, 44 e 45 da Lei n. 11.514/2007, 25, § 3º, da Lei Complementar n. 101/2000 e 195, § 3º, da CF/1988. Defende que, no caso, a contratação da operação de repasse, com recursos do Orçamento Geral da União, não poderia ser posterior a 31/12/2008, bem como exige a regularização do Município no CAUC (Cadastro Único de Convênios).
+Não foram apresentadas contrarrazões.
+Parecer do Ministério Público Federal às e-STJ, fls. 300/309.
+É o relatório.
+A irresignação não merece prosperar.
+Com relação ao argumento de ilegitimidade passiva da parte recorrente, a admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica.
+Dessa forma, levando em conta que a recorrente não apontou o dispositivo infraconstitucional supostamente violado, o inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos da Súmula 284/STF.
+A propósito:
+PROCESSO CIVIL. EQUIPARAÇÃO DE SUBSÍDIOS. DEFENSORES E PROCURADORES DE JUSTIÇA. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ENUNCIADO N. 211 DA SÚMULA DO STJ. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO STF. PRETENSÃO DE REANÁLISE FÁTICA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - No tocante à alegada violação dos arts. 293, 458, III, 463, I, 468 e 469 do CPC/73, o Tribunal a quo não abordou as questões jurídicas constantes dos dispositivos legais indicados pelo recorrente, o que inviabiliza a análise da parte remanescente do presente recurso, em face da necessidade do prequestionamento. Incidência do enunciado n. 211 da Súmula do Superior Tribunal de Justiça, segundo o qual "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+II - Quanto à necessidade adoção do regime de precatórios, as razões do recurso não indicam os dispositivos violados levando a incidência do enunciado da Súmula n. 284 STF.
+III - A análise do excesso de execução também é inviável, pois enseja reexame do conjunto fático-probatório dos autos, vedado pelo enunciado n. 7 da Súmula do STJ.
+IV - Agravo interno improvido.
+(AgInt no AREsp 909.788/PI, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 8/8/2017, DJe 17/8/2017 - grifos acrescidos)
+Ademais, não houve impugnação à assertiva utilizada pela Corte de origem para resolver a questão acerca da legitimidade (e-STJ, fl. 221):
+A CEF, por outro, lado, poderia requerer a citação da União na qualidade de litisconsorte no pólo ativo da relação processual, mas não o fez, permitindo a preclusão da matéria.
+A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. DETRAN/PE. DEFICIENTE FÍSICO. ALTERAÇÃO DA LEI QUE CONSIDERAVA O CANDIDATO COMO DEFICIENTE, DURANTE O CONCURSO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. DEFICIÊNCIA FÍSICA RECONHECIDA, PELO TRIBUNAL DE ORIGEM. ALTERAÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 12/02/2016, contra decisão publicada em 02/02/2016.
+II. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência do enunciado da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). No caso, a parte recorrente deixou de impugnar o fundamento do acórdão recorrido, no sentido de que "a junta médica do certame em apreço aplicou a literalidade do supracitado Decreto 5296/04, o qual não estava em vigor na data da publicação do edital do certame em questão, entendendo pela desclassificação do candidato ora apelante por considerar que a sua surdez bilateral não se enquadrava na previsão de deficiência auditiva". Incidência da Súmula 283/STF.
+III. Ademais, tendo o acórdão recorrido concluído pela existência de perda auditiva bilateral, suficiente a enquadrar o autor como deficiente auditivo, nos termos da lei, aferir a existência da perda auditiva, em Recurso Especial, demandaria o reexame do conteúdo fático-probatório dos autos, providência vedada, em sede de Recurso Especial, ante o óbice da Súmula 7/STJ.
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1.504.904/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/4/2016, DJe 19/4/2016 - grifos acrescidos)
+A parte recorrente também alega contrariedade a dispositivo de natureza constitucional, qual seja, o art. 195, § 3º, da Carta da República. No entanto, incabível o exame do referido dispositivo na via eleita, pois, de acordo com o art. 105, III, da CF/1988, o recurso especial destina-se à uniformização do direito federal infraconstitucional.
+A análise de possível violação de matéria constitucional está reservada ao Supremo Tribunal Federal, conforme disposto no art. 102 da Carta Magna.
+No ponto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. AUSÊNCIA DE TÍTULO EXECUTIVO CERTO E LÍQUIDO. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. INVERSÃO DO JULGADO. SÚMULA 7/STJ.
+1. Cuida-se, na origem, de Apelação interposta pelo SINTUFRJ contra sentença que extinguiu o processo sem resolução do mérito.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. A análise de violação à matéria constitucional, nos termos do art. 102, III, da Constituição da República, refoge à jurisdição do STJ, sendo de competência exclusiva do STF.
+4. No caso concreto, verifica-se que a parte se furtou ao dever de impugnar a compreensão do Tribunal a quo. Sendo assim, como os fundamentos não foram atacados pela parte agravante e são aptos, por si sós, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação do recurso e a ausência de impugnação de fundamento autônomo.
+5. Por outro lado, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.654.722/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/4/2017, DJe 5/5/2017 - grifos acrescidos)
+Por fim, o acórdão de origem não destoa da jurisprudência firmada do STJ de ser possível a suspensão das restrições quanto ao repasse de recursos federais, com a exclusão do nome do município dos cadastros do SIAFI/CADIN/CAUC, quando há comprovação de que foram adotadas as medidas necessárias por parte do gestor atual, objetivando a recuperação do crédito, referente ao gestor anterior.
+É o que se infere dos seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. INSCRIÇÃO DE MUNICÍPIO POR ATOS DA GESTÃO ANTERIOR NO CADASTRO DO SIAFI. IMPOSSIBILIDADE, DESDE QUE TOMADAS AS PROVIDÊNCIAS OBJETIVANDO O RESSARCIMENTO AO ERÁRIO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES.
+I - O Superior Tribunal de Justiça tem entendimento de que é possível a suspensão das restrições quanto ao repasse dos recursos federais com a exclusão do nome do município dos cadastros do SIAFI, quando há comprovação de que foram adotadas medidas necessárias por parte do gestor atual, com vistas à recuperação do crédito. Precedentes: AgInt no REsp 1.586.872/PE, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 07/04/2016, DJe 15/04/2016; AgRg no AREsp 283.917/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/02/2015.
+II - Se o aresto afirma que o novo sucessor da administração municipal adotou todas as providências que estavam a seu alcance contra o ex-prefeito no sentido de reparar os danos eventualmente cometidos, autorizado está a suspensão do nome do município do rol de inadimplentes, ainda que não tenha sido instaurada a tomada de contas especial, omissão atribuída pela instância ordinária à União.
+III - Agravo interno improvido.
+(AgInt no AREsp 927.037/MA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 8/8/2017, DJe 17/8/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DE INADIMPLENTES POR ATOS DA GESTÃO ANTERIOR. ADOÇÃO DE PROVIDÊNCIAS RECONHECIDA PELO TRIBUNAL A QUO. SÚMULA 7 DO STJ
+1. Instrução Normativa não se enquadra no conceito de lei federal, o que inviabiliza sua discussão na via excepcional, conforme jurisprudência pacífica do STJ.
+2. O Superior Tribunal de Justiça tem jurisprudência no sentido de que, comprovada a adoção de providências contra ex-prefeito para reparar os danos eventualmente cometidos, preserva-se o Município do constrangimento de ser incluído no rol dos inadimplentes.
+3. De acordo com o voto condutor, "a gestão atual do Município comprovou ter adotado medidas judiciais (requerimento de instauração de Tomada de Contas Especial em face do ex-gestor junto ao Tribunal de Contas da União e de requerimento de instauração de procedimento investigatório junto ao Ministério Público Federal, fls. 38/41), não havendo, portanto, inércia no que tange a providências relacionadas á situação de inadimplência" (fl. 148, e-STJ). Modificar esse entendimento demanda o revolvimento de fatos e provas, o que esbarra na Súmula 7 do STJ.
+4. Recurso Especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1.667.651/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/6/2017, DJe 20/6/2017)
+ADMINISTRATIVO. INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SIAFI POR ATOS DA GESTÃO ANTERIOR. IMPOSSIBILIDADE. PROVIDÊNCIAS QUE OBJETIVAM O RESSARCIMENTO AO ERÁRIO. PRECEDENTES. SÚMULA 83/STJ.
+O Tribunal de origem firmou entendimento no sentido de que é possível a suspensão das restrições quanto ao repasse de recursos federais com a exclusão do nome do município dos cadastros do SIAFI/CADIN/CAUC, "quando há comprovação de que foram adotadas as medidas necessárias por parte do gestor atual, objetivando a recuperação do crédito, referente ao gestor anterior e após a instauração de tomada de contas especial e remessa ao TCU". Súmula 83/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 283.917/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/2/2015, DJe 19/2/2015)
+ADMINISTRATIVO. LEI DE RESPONSABILIDADE FISCAL. NÃO-ALIMENTAÇÃO DO CAUC PELA RECORRIDA. BLOQUEIO DE REPASSE DE RECURSOS VOLUNTÁRIOS. INADIMPLÊNCIA OCASIONADA POR MÁ GESTÃO DE PREFEITO ANTERIOR. PROVIDÊNCIAS ADOTADAS PELO GESTOR ATUAL.
+1. A transferência voluntária, que se caracteriza pelo repasse, a cargo da CEF, das verbas provenientes da União impõe, dentre as inúmeras exigências, estar a municipalidade em dia com as suas obrigações.
+2. Descumprimento da exigência consistente na declaração de atendimento dos limites definidos pelo art. 25, § 1º, IV, alínea "c", da Lei Complementar n. 101/2000.
+3. A nova administração, que tomou todas as providências cabíveis para a regularização da situação, não pode ser penalizada.
+Agravo regimental improvido.
+(AgRg no REsp 1.087.465/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 25/8/2009, DJe 16/9/2009)
+ADMINISTRATIVO - LEI DE RESPONSABILIDADE FISCAL - TRANSFERÊNCIA VOLUNTÁRIA: EXIGÊNCIAS - INADIMPLEMENTO DE GESTÃO ANTERIOR - ILEGITIMIDADE PASSIVA DA CEF - SÚMULA 284/STF.
+1. Tese em torno da ilegitimidade passiva da CEF que não se analisa, diante da deficiente fundamentação, considerando que a recorrente não indicou quais os dispositivos legais que ampararam as assertivas de que agiria ela como mera repassadora de recursos e de que não se trata de função delegada.
+2. A transferência voluntária, que se caracteriza pelo repasse, a cargo da CEF, das verbas provenientes da União impõe, dentre as inúmeras exigências, estar a municipalidade em dia com as suas obrigações.
+3. Descumprimento da exigência consistente na apresentação do balanço geral do exercício anterior.
+4. A nova administração, que tomou todas as providências cabíveis para a regularização da situação, não pode ser penalizada. Precedente da Segunda Turma no REsp 580.946/SC.
+5. Recurso especial improvido.
+(REsp 671.320/CE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 28/3/2006, DJ 30/5/2006, p. 138)
+Ante o exposto, com fulcro na Súmula 568/STJ e no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
