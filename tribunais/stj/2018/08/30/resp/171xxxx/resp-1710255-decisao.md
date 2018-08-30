@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 367):
+IMPOSTO DE RENDA. PESSOA FÍSICA. VALORES RECEBIDOS ACUMULADAMENTE. COMPLEMENTAÇÃO DE APOSENTADORIA. SISTEMÁTICA DE CÁLCULO PREVISTA NO ART. 12-A, DA LEI 7.713, DE 1988.
+Tem o contribuinte do imposto de renda pessoa física o direito de recalcular o imposto de renda sobre os valores recebidos acumuladamente, a título de complementação de aposentadoria, pela sistemática de cálculo prevista no art. 12-A, da Lei nº 7.713, de 1988, para efeito de obter a restituição do que foi recolhido a mais por força da aplicação do "regime de caixa".
+Opostos embargos declaratórios, foram rejeitados (fls. 404/410).
+A parte recorrente aponta violação ao art. 12-A da Lei nº 7.713/88, com redação dada pela Lei nº 12.350/2010. Sustenta que "pela literalidade do art. 12-A da Lei nº 7.713/88, com a redação da pela Lei nº 12.350/2010, os rendimentos pagos por entidade de previdência complementar não estão referidos dentre as hipóteses em que há a possibilidades de tributação do IRRF exclusivamente na fonte" (fl. 421).
+É o breve relatório.
+Com relação ao art. 12-A da Lei nº 7.713/88 tido por violado, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal relativa à sua inaplicabilidade aos rendimentos pagos acumuladamente pelas entidades de previdência complementar, nem infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
