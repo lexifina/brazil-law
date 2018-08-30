@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. PERMANÊNCIA DO EX-EMPREGADO APÓS O CANCELAMENTO DO PLANO PELA EX-EMPREGADORA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A fundado nas alíneas "a" do inciso III do art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Plano de saúde. Apólice coletiva, estipulada por empregadora. Funcionário que já gozava do benefício previsto no art. 30 da Lei 9.656/98. Cancelamento posterior do contrato pela ex-empregadora que não o afeta, mantida relação direta com a operadora. Sentença mantida. Recurso desprovido.(e-STJ fls. 334)
+Os embargos de declaração opostos foram rejeitados. (e-STJ 329/331)
+Nas razões do recurso especial, a recorrente apontou violação ao artigo 1.022, I, do Código de Processo Civil, por entender que o acórdão não se manifestou sobre a aplicação do art. 13, parágrafo único, inciso II, da Lei 9.656/98. Afirma, em síntese, que inexiste obrigatoriedade de manutenção do contrato de plano de saúde da recorrida, uma vez que "sua empresa empregadora rescindiu o contrato com o plano, razão pela qual não faz ele jus à manutenção do contrato, ou seja não preenche os requisitos legais para que seja mantido no plano de saúde."(e-STJ fl. 342)
+Contrarrazões ao recurso especial apresentadas, às fls. 350/359 e-STJ, sobreveio juízo positivo de admissibilidade do Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão recursal não merece provimento.
+No tocante à suposta violação ao art. 1.022 do Código de Processo Civil, vislumbra-se a não ocorrência de nulidade por omissão, obscuridade, ou contradição, tampouco de negativa de prestação jurisdicional.
+Quanto à alegada omissão sobre o artigo 13, § único, II, da Lei nº9.656/98, cumpre trazer trecho do acórdão recorrido que consignou:
+Em primeiro lugar, não se discute neste feito a legalidade ou regularidade do cancelamento do contrato de plano de saúde efetivado pela apelante pelo alegado inadimplemento do antigo empregador da apelada (Hopi Hari S/A). A questão aqui debatida é da legalidade do cancelamento do plano de saúde da autora e, por conseguinte, do dano moral arbitrado, eis que depois pela própria autora requerida extinção do vínculo.(e-STJ fl. 311)
+Desse modo, não há como acolher a alegada ofensa ao art. 1.022 do CPC/2015, na medida que a Turma Julgadora, ainda que contrariamente aos interesses do recorrente, proferiu decisão fundamentada, justificando a posição adotada.
+De outro vértice, a Corte local entendeu ser devida a manutenção do plano de saúde da recorrida com base nas seguintes fundamentações:
+Neste contexto, acertada a consideração da incidência do artigo 30 da Lei 9.656/98. A mudança de plano de saúde por decisão da empregadora ou o seu cancelamento não pode levar à frustação do benefício legal assegurado aos seus trabalhadores. O que a lei a estes assegura é a permanência da cobertura de que gozavam, na condição de empregados, no momento em que se aposentam. E, de resto, mediante a assunção da integralidade do prêmio, por isso que sem prejuízo à operadora.
+Trata-se de garantia exercitável diante da operadora que, no instante do desligamento, se encontra vinculada à estipulante. Deles só se exige os tempos legais de contribuição.
+Assim que se vem entendendo titularem os inativos ação direta contra a operadora, para o fim de se assegurar o cumprimento dos preceitos dos artigos 30 e 31 da Lei 9.656/98.
+Veja-se que, desligado de seu emprego, ao funcionário se estabelece benefício que tem na assunção integral do prêmio a sua contrapartida. Se ele passa a pagar o prêmio, integralmente, o que se comprovou a fls. 35, descabe sujeitar sua relação contratual à sorte do contrato coletivo mantido pela operadora com a ex-empregadora, não se admitindo que a Resolução Normativa 279 da ANS possa dar interpretação diversa ao que pretendeu o legislador quando editou a Lei 9.656/98.(e-STJ fl. 312)(grifou-se)
+Contudo, verifica-se que os fundamentos adotados pela Corte local não foram objeto de impugnação nas razões do recurso especial, atraindo, por analogia, a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com base no Enunciado nº 568/STJ, nego provimento ao recurso especial.
+Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015 tendo em vista que o patamar fixado na origem encontra-se em seu limite máximo legal.
+Intimem-se.
