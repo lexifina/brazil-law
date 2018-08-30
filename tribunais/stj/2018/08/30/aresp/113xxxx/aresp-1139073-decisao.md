@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, este interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado (fl. 48):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CADERNETA DE POUPANÇA. AÇÃO DE COBRANÇA. PRESCRIÇÃO A prescrição, nos casos de cobrança de diferenças oriundas de cadernetas de poupança, inclusive dos seus juros, é vintenária, nos termos do art. 177, do Código Civil de 1916, correspondente ao art. 205, do Código Civil de 2002.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Embargos de declaração rejeitados.
+Nas razões do recurso especial, a parte recorrente alega dissídio jurisprudencial e ofensa aos arts. 240 e 1022 do novo Código de Processo Civil, sob o argumento de negativa da prestação jurisdicional e de que a citação na ação civil pública não é protesto interruptivo da prescrição para futuras ações individuais com objeto diverso. Requer o reconhecimento da ocorrência da prescrição.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1022 do atual Código de Processo Civil, tendo em vista que o v. acórdão recorrido, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Observa-se a ausência de enfrentamento da questão relativa à interrupção da prescrição pela citação na ação civil publica, tornando patente a falta de prequestionamento do ponto, o que impede o conhecimento da matéria.
+Ademais, ainda que superado referido óbice o recurso não seria provido com fundamento na Súmula 83 do STJ. Senão vejamos:
+Em relação à prescrição o col. Tribunal de origem com base no substrato probatório confirmou a sentença que asseverou a não ocorrência da prescrição vintenária com base no art. 2028 do CC/2002. Ei o teor do acórdão:
+Nas ações de direito pessoal que tem como objeto à cobrança de diferença de rendimentos dos depósitos das contas poupanças, a prescrição é vintenária, nos termos do artigo 177 do CC/16, vigente à época da contratação, aplicado por força do art. 2.028 do mesmo diploma legal, já que, quando da entrada em vigor do Código civil de 2002, em 11.01.2003, já havia transcorrido mais da metade do prazo. No que tange aos juros ou qualquer prestação acessória, ao contrário do que alega o apelado, dizem respeito à própria obrigação assumida, como principal, e não acessórios. Por essa razão, o prazo é vintenário, conforme a jurisprudência do STJ: (..) Por fim, ainda que a presente demanda tenha sido ajuizada em 17/05/2011, não cabe a declaração de ofício da prescrição. (fls. 47/81, n.g)
+Com efeito, consoante a jurisprudência consolidada no Superior Tribunal de Justiça, a citação válida em ação coletiva é apta a interromper o prazo prescricional para ajuizamento da demanda individual de mesmo objeto. Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PROCESSO CIVIL. EXPURGOS INFLACIONÁRIOS. AÇÃO DE COBRANÇA. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que a citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp 1.426.620/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/11/2015, DJe 18/11/2015)
+Desse modo, não merece reforma o acórdão recorrido, pois em harmonia com o entendimento desta Corte Superior acerca do tema. Recurso desprovido, no mérito, com base na falta de prequestionamento e na Súmula 83 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
