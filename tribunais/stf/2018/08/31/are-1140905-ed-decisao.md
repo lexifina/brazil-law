@@ -1,0 +1,27 @@
+Decisão: Trata-se de embargos de declaração opostos em face de decisão que negou seguimento a recurso, com fundamento na jurisprudência desta Corte. Eis um trecho da decisão proferida, no relevante:
+    “O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Tributário Nacional e Lei 7689/88), consignou a possibilidade de incidência do IRPJ e a da CSLL sobre os juros de mora. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    ‘Os juros de mora, decorrentes do exercício da atividade econômica empresarial, compõem a remuneração.
+    Constituem disponibilidade econômica tributável pelo Imposto de Renda da Pessoa Jurídica ( IRPJ, art. 43, inciso I, do Código Tributário Nacional) e pela Contribuição Social sobre o Lucro Líquido (CSLL, art. 2º, da Lei Federal nº 7689/88). Jurisprudência do Superior Tribunal de Justiça’. (eDOC 4, p. 51)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso”. (eDOC 6)
+    Em suas razões, a parte embargante sustenta, em síntese, que a decisão embargada “deixou de se pronunciar sobre o paradigma RE n. 855.091, expressamente suscitado nas razões do presente agravo em RE, incorrendo, data maxima venia, no vício de omissão”. (eDOC 9, p. 2)
+    Intimada, a parte embargada apresentou contrarrazões, pugnando pelo não conhecimento dos embargos de declaração opostos e pela manutenção da decisão, bem como que o caso em apreço não se assemelha ao discutido no paradigma indicado pelo embargante. (eDOC 13).
+    É o breve relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do CPC).
+    Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais.
+    Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AR 1945 AgR-ED-ED, de minha relatoria, Tribunal Pleno, DJe 8.6.2018; ARE 957886 ED-ED, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 17.11.2016.
+    O embargante alegou omissão do julgado, ao argumento de que não houve pronunciamento acerca da repercussão geral reconhecida por esta Corte, nos autos do processo paradigma RE n. 855.091/RS (tema 808).
+    Ocorre que, em que pese tenha sido reconhecida a repercussão geral do tema 808, tem-se que não se assemelha à controvérsia tratada no presente recurso. Isso porque, o RE n. 855.091, refere-se a possibilidade de incidência de Imposto de Renda de Pessoa Física (IRPF) sobre juros de mora decorrentes de verbas rescisórias trabalhistas e, o caso em apreço, discute-se a possibilidade de incidência de Imposto de Renda de Pessoas Jurídicas (IRPJ) e Contribuição Social sobre o Lucro Líquido (CSLL) sobre os juros de mora decorrentes do atraso contratual de clientes.
+    Desse modo, verifica-se que a decisão exarada não merece reparo.
+    Ademais, corroborando a decisão impugnada, têm-se os seguintes precedentes desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA JURÍDICA – IRPJ. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. JUROS DE MORA. INADIMPLÊNCIA DE CLIENTES. 1. A discussão acerca da incidência de IRPJ e CSLL sobre os juros moratórios contratuais recebidos em decorrência da inadimplência de créditos de vendas de produtos a clientes cinge-se ao âmbito infraconstitucional. Precedentes. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, § 4º, do CPC, bem como majoração de honorários advocatícios, nos termos do art. 85, §11, do CPC”.
+(RE 998589 AgR, Rel. Min. Edson Dachin, Segunda Turma, DJe 27.3.2017) (grifei).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. JUROS MORATÓRIOS. INCIDÊNCIA DO IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA – IRPJ E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 827329 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 10.10.2014) (grifei).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. PRINCÍPIO DA IGUALDADE. IMPOSTO DE RENDA PESSOA JURÍDICA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. SOCIEDADES SIMPLES E EMPRESÁRIA. BASE DE CÁLCULO. 1. A jurisprudência do STF é pacífica no sentido de que ser impossível ao Poder Judiciário, por não possuir função legislativa típica, conceder benefício fiscal sem amparo legal, ao fundamento de concretização do princípio da isonomia. Precedentes. 2. A controvérsia relativa ao enquadramento de pessoas jurídicas prestadoras de serviços médicos para fins de aferição do regime tributário aplicável cinge-se ao âmbito infraconstitucional. 3. Agravo regimental a que se nega provimento”. (RE 949278 AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 23.9.2016) (grifei).
+    Ante o exposto, rejeito os embargos de declaração (artigo 1.024, §2º, do CPC).
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
