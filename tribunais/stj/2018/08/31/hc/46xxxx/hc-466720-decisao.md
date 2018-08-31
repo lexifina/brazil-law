@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o acórdão proferido pelo Tribunal de Justiça de Pernambuco no HC n. 0497141-9, que manteve a prisão cautelar de [NOME], no qual requer a expedição de alvará de soltura sob a alegação de excesso de prazo para a formação da culpa.
+Ressalta-se que a instrução processual ainda não foi iniciada, não sobrevindo, até este momento, sequer uma data agendada para a realização da audiência de instrução de julgamento (fl. 3).
+Narram os autos que o paciente, denunciado pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 e art. 12 da Lei n. 106.826/2003, teve a prisão em flagrante convertida em preventiva no dia 27/2/2017.
+É o relatório.
+O deferimento de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano.
+Na espécie, neste juízo de cognição preliminar, sem um exame mais pormenorizado dos elementos que instruem o feito, não há como afastar, por ora, a conclusão da Corte local. Segundo o acórdão (fls. 18/19 - grifo nosso):
+ ..  Quanto ao excesso de prazo, não assiste razão ao impetrante. Ao que se observa, o feito vem obedecendo aos padrões de razoabilidade, ante as peculiaridades do caso, mantendo-se a regularidade nas movimentações processuais, tratando-se de feito com pluralidade de réus, quais sejam, 2 (dois) denunciados e necessidade de expedição de cartas precatórias.
+ Além disso, conforme se depreende das informações prestadas pelo magistrado a quo, houve pedidos de revogação de prisão preventiva de ambos os denunciados, requerimento de transferência de estabelecimento prisional do próprio paciente, estando o feito aguardando a citação do corréu, que teve sua liberdade provisória concedida por falta de recursos econômicos para pagar a fiança, para posterior designação de audiência de instrução.
+Demais disso, as circunstâncias peculiares que explicam o atraso da celeridade processual em cada caso concreto és que determinará a ocorrência ou não do constrangimento ilegal, a teor da Súmula 84 do E. TJPE, in verbis. "os prazos processuais na instrução criminal não são peremptórios, podendo ser ampliados dentro de parâmetros de razoabilidade e diante das circunstâncias do caso concreto".
+Entende-se que o excesso de prazo não pode ser contado de forma aritmética, mas, deve ser analisado sob a ótica do princípio da razoabilidade, observando as peculiaridades do caso concreto, conforme posicionamento dos Tribunais Superiores  ..
+Além do que, destacou o Tribunal de origem a periculosidade do ora paciente, que responde a outro processo, sendo denunciado pela prática, em tese, de homicídio qualificado inclusive com decreto preventivo em 1º/3/2018 (fl. 15).
+Com essas considerações, não tendo como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar pretendida, indefiro-a.
+Solicitem-se informações detalhadas, no prazo de 20 dias, por malote digital, ao Juízo de direito da Vara Criminal da comarca de Gravatá/PE acerca dos Autos n. 0000284-94.2017.8.17.0670 e da atual situação do paciente, esclarecendo se há previsão para a audiência de instrução e julgamento.
+Após, ao Ministério Público Federal para parecer.
+Publique-se.
