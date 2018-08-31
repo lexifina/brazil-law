@@ -1,0 +1,29 @@
+DECISÃO
+ROBINSON WAGNER PEREIRA PINTO alega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0019679-16.2012.8.26.0050.
+Nesta Corte, a defesa sustenta a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, ao argumento de que a utilização da reincidência na segunda e na terceira etapas da dosimetria da pena configura indevido bis in idem. Assere que, aplicada a minorante, deve ser abrandado o regime.
+Requer, liminarmente e no mérito, a redução da pena e a imposição de modo de cumprimento menos gravoso.
+Indeferida a liminar, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem.
+Decido.
+O paciente foi condenado, em primeira instância, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006. A reprimenda foi assim individualizada (fl. 17, grifei):
+
+Levando em conta a quantidade de droga apreendida, fixo a
+pena base no mínimo legal.
+Exaspero-a de 1/6 (um sexto), por conta da reincidência (fls. 178).
+Afastadas quaisquer causas de aumento ou de diminuição de pena, torno-a definitiva em 05 (cinco) anos e 10 (dez) meses de reclusão, e multa de 583 (quinhentos e oitenta e três) dias-muita.
+Por ser reincidente e a quantidade da pena aplicada, fixo o regime fechado como o inicial de cumprimento de pena.
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo, sob a seguinte motivação (fls. 39-41, destaquei):
+Tampouco cabe acolher o pedido de aplicação da causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei Antidrogas, sob a alegação de que o i. Magistrado de Primeiro Grau incorreu em "bis in idem" ao considerar a agravante da reincidência tanto para majorar as penas quanto para afastar a incidência do benefício.
+Com efeito, enquanto a reincidência constitui critério norteador do cálculo da quantidade da pena corporal com base nos critérios dos artigos 61 e 68 do Código Penal, a norma do § 4º do artigo 33, da Lei Antidrogas, por razão de ordem ontológica, elenca a reincidência como critério orientador do cabimento do benefício mais amplo nela previsto.
+Não seria lógico que a reincidência servisse para justificar a majoração da pena-base, mas não impedisse a concessão do benefício mais amplo, capaz de ensejar a redução da pena finalmente atribuída em proporção superior (até 2/3) àquela operada como aumento na fase inicial do cálculo.
+Em outras palavras, se a citada agravante genérica tem natureza de critério orientador do montante da pena corporal, é natural que deva ao mesmo tempo atuar como causa impediente da redução dessa mesma pena a patamar bastante inferior à própria majoração (1/6, em regra) que poderia produzir sobre a pena-base pela aplicação do artigo 61 do Código Penal.
+ ..
+Quanto ao regime inicial de cumprimento da pena privativa de liberdade, de rigor a manutenção do fechado, nos termos do § 2º do art. 33 do Código Penal, tendo em vista o montante de pena a aplicada ao sentenciado (5 anos e 10 meses de reclusão) e a sua condição de reincidente.
+Para a aplicação da referida causa de diminuição de pena é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T, DJe 14/4/2014).
+Na hipótese, observo que as instâncias ordinárias negaram a aplicação da causa especial de diminuição de pena em razão da reincidência do paciente.
+Consoante reiterada jurisprudência, o reconhecimento da agravante da reincidência, na segunda etapa da dosimetria, não é incompatível com a sua utilização, na terceira fase, para afastar a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, porquanto o referido instituto jurídico é sopesado com finalidades distintas em cada fase de fixação da pena, justamente para se alcançar a justa e correta reprimenda necessária para a reprovação e a prevenção do delito perpetrado.
+Nesse contexto, cito o seguinte julgado desta Corte: "Não há falar em bis in idem em razão utilização da reincidência como agravante genérica e para negar a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n.º 11.343/06, porquanto é possível que um mesmo instituto jurídico seja apreciado em fases distintas na dosimetria da pena, gerando efeitos diversos, conforme previsão legal específica" (HC n. 409.134/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 18/9/2017).
+Tal posicionamento também é o adotado pela Suprema Corte, conforme consta do voto de relatoria do Ministro Ricardo Lewandowski, in verbis: "Não caracteriza bis in idem a consideração da reincidência para fins de majoração da pena-base e como fundamento para a negativa de concessão da benesse prevista no art. 33, § 4º, da Lei Antidrogas. Para a concessão do benefício previsto no § 4º do art. 33 da Lei 11.343/2006, é necessário que o réu seja primário, ostente bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa" (HC n. 107.274/MS, 1ª T., DJe 25/4/2011).
+Como a reprimenda imposta ao réu é superior a 4 anos e inferior a 8 anos de reclusão, deve ser mantido o regime inicial fechado de cumprimento da pena, diante da reincidência do paciente (art. 33, § 2º, "b", do Código Penal).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
