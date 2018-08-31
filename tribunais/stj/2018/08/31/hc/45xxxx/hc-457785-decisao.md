@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] e [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado da Paraíba.
+Consta dos autos que os pacientes foram condenados às penas de 5 anos e 6 meses de detenção, e 4 meses de detenção, em regime inicial fechado, e 45 dias-multa, como incursos nos arts. 155, § 4.º, IV, 288 e 307, todos do Código Penal, tendo-lhes sido negado o direito de recorrer em liberdade.
+A defesa impetrou prévio habeas corpus perante o Tribunal a quo, cujo pleito liminar foi indeferido.
+Neste writ, pretende assegurar o direito ao recurso em liberdade.
+A liminar foi indeferida.
+Informações.
+O Ministério Público Federal opinou pelo não conhecimento da ordem.
+É o relatório.
+Decido.
+É manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que foi julgado o mérito do habeas corpus n. 0803275-03.2018.8.15.0000.
+Consoante entendimento desta Corte, "o julgamento do mérito do habeas corpus originário resulta na perda do objeto daquele impetrado na instância superior, no qual é impugnada a decisão indeferitória da liminar na origem" (AgRg no HC 320.850/SP, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/08/2015, DJe de 28/08/2015; AgRg no HC 316.460/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/05/2015, DJe 01/06/2015).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus.
+Publique-se. Intime-se.
