@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo desafiando decisão do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (i) aplicação da Súmula 7/STJ, por entender que o exame do apelo exige a reapreciação do conjunto fático-probatório dos autos, providência vedada na via especial; e (ii) o dissídio jurisprudencial não foi demonstrado, diante da ausência do cotejo analítico entre os arestos paradigma e recorrido.
+Em suas razões, a parte agravante sustenta, em síntese, que "a fundamentação de reexame de provas não pode ser aplicada, tendo em vista que o recurso, além de violar dispositivo de lei, também diverge de decisões proferidas pelos Tribunais Superiores" (fls. 378/379).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, anoto que, em que pesem as razões expostas pela parte agravante, verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante deixou de declinar os motivos pelos quais, no seu entender, o óbice da Sumula 7/STJ não seria aplicável ao caso concreto, visto que se limitou a afirmar genericamente que não objetiva a análise do conjunto fático-probatório dos autos.
+De igual modo, não foi impugnado o fundamento de que o dissídio jurisprudencial não restou comprovado, ante a ausência do cotejo analítico entre os acórdãos recorrido e paradigma.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
