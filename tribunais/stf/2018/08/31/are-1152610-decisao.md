@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul confirmou o entendimento do Juízo quanto à condenação do réu pela prática dos crimes dos crime tráfico ilícito de entorpecentes e associação, em concurso material, previstos, respectivamente, nos artigos 33 e 35, cabeça da Lei nº 11.343/2006. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 5º, incisos LIII, LIV, LV e LVII, e 129, inciso I, da Constituição Federal. Argui a nulidade das provas, dizendo que a colheita feita diretamente pelo julgador retira dele a imparcialidade, contrariando o disposto no artigo 212, § 1º, do Código de Processo Penal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Deixando de lado a associação, na denúncia consta que Fabiano transportou e vendeu drogas a Pablo, além de ter em depósito e guardar 3,2g de cocaína para comercialização. Igualmente, consta que Cosme tinha em depósito e guardava 11g, aproximadamente, de cocaína, também para comercialização, bem como uma balança de precisão destinada à preparação, produção ou transformação de drogas.
+    A existência dos fatos está demonstrada pelos boletins de ocorrência (fls. 711/712; 795/796; e 867/869), pelos autos de apreensão (fls. 713; 870; e 909), pelos laudos periciais (fls. 720; 1350; e 1352), pelo laudo de constatação de natureza de substância (fl. 874), por ligações interceptadas e pela prova oral coligida ao feito.
+    Outrossim, a autoria é certa, recaindo sobre Fabiano e Cosme.
+    Pablo disse, em juízo, que dava dinheiro para Fabiano comprar drogas. Suas declarações à Polícia são mais graves. O usuário afirmou que comprava cocaína de Fabiano e forneceu detalhes de como a negociação acontecia, bem como confirmou o fato do dia 19 de novembro de 2014. Vejamos (fls. 1041): "…"
+     Vejam que o usuário reconheceu Fabiano como sendo quem lhe vendeu cocaína na data do fato, fornecendo, inclusive, o número de telefone dele, qual seja, 54 9932 2735. Portanto, não há dúvida que a voz no referido terminal grampeado é do réu conhecido como "Truta".
+    Entre 01 e 22 minutos das 18 horas daquele dia, Pablo e Fabiano trataram da compra e venda de cocaína por telefone, através de ligações e mensagens - claro que o real assunto das conversas foi camuflado pelas partes, atrás de um falso interesse de Pablo por ingressos -, sendo marcado encontro num posto de combustíveis para a entrega da mercadoria.  Sucedeu que os policiais interceptaram a ligação e conseguiram presenciar o encontro e abordar o usuário logo em seguida. A policial Gladis participou da ação.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+    O Supremo, no recurso extraordinário com agravo nº 748.371/MT, relator ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 31 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
