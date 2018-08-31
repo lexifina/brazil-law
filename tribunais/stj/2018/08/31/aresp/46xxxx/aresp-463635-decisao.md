@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo da ORDEM DOS ADVOGADOS DO BRASIL - SEÇÃO DO ESTADO DO RIO DE JANEIRO, em que pretende admissão de recurso especial, no qual alega a má aplicação do art. 63, § 2º, da Lei n. 9.430/1996 e do art. 155 - A do CTN, aduzindo que o deferimento da prorrogação do prazo para o recolhimento do tributo após a cassação da liminar suspensiva de sua exigibilidade deve vir acompanhada da exclusão da multa pelo pagamento a destempo.
+Contraminuta foi apresentada pela parte agravada.
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina de mandado de segurança interposto para ver prorrogado o prazo para recolhimento do tributo cuja exigibilidade foi restabelecida após a cassação de liminar suspensiva de sua exigência. Alegava o impetrante estar materialmente impossibilitado de cumprir sua obrigação no prazo previsto no art. 63, § 2º da Lei n. 9.430/1996 e pleiteava sua prorrogação, bem como a exclusão da multa de mora incidente sobre o pagamento da obrigação a destempo.
+No primeiro grau de jurisdição, a segurança foi concedida parcialmente, autorizando-se a prorrogação do prazo para recolhimento do tributo por mais 15 dias além dos 30 dias concedidos pela Lei, mas sem a exclusão da multa (e-STJ fl. 85):
+No mérito, embora, a rigor, o acolhimento da pretensão autoral possa ser entendido como violação à isonomia, fato é que os contribuintes atingidos pela decisão do STF constituem um número bastante expressivo, não tendo as autoridades coatoras negado a dificuldade em realizar seu atendimento dentro do prazo legal.
+Pelo contrário, à fl. 33 o primeiro Impetrado reconheceu que "a alegada e combatida limitação na distribuição de senhas para protocolar pedidos de parcelamento se dá em virtude do reduzido número de servidores de que dispõe esta DERAT/RJ para consecução destes seus trabalhos".
+Além disso, foi deferida liminar prorrogando o prazo legal de pagamento/parcelamento, de modo que vários atos foram praticados sob o amparo daquela decisão.
+Assim, seja pela razoablidade da medida, seja pela situação de fato consolidada, entendo que deve ser confirmada a prorrogação por 15 dias do prazo previsto no art. 63, § 2o, da Lei 9.430/96.
+Contudo, tal conclusão não implica a procedência total do pedido. Isto porque a pretensão foi formulada não só no sentido de prorrogação do prazo, mas também de que o pagamento/parcelamento se desse "sem a incidência da multa que pode chegar a 75%".
+Ocorre que a Impetrante não apresentou causa de pedir específica para justificar essa exclusão, que foi expressamente impugnada pelos Impetrados. Vale dizer, conquanto a Impetrante objetive não se submeter à multa em questão, não questionou o entendimento adotado pelas autoridades coatoras, pelo que não se pode simplesmente afastar essa penalidade.
+Em conseqüência, não há como se determinar neste writ a exclusão da multa, mas, tão somente, a prorrogação do prazo previsto no artigo supracitado. Eventual insatisfação da impetrante com a forma de aplicação do art. 63, §2º deverá ser veiculada por ação autônoma.
+Irresignadas, as partes interpuseram recurso de apelação, não provido pelo Tribunal Regional federal da 2ª Região.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 152 e seguintes):
+Trata-se de mandado de segurança objetivando a prorrogação do prazo previsto no art. 63, § 2o, da Lei nº 9.430/96, por mais quinze dias, para pagamento ou parcelamento da COFINS, sem incidência da multa.
+A OAB/RJ impetrou mandado de segurança em face da cobrança da COFINS das sociedades de advogado, sob o argumento de preencher os requisitos previstos no art. 6o, II, da LC 70/91, obtendo liminar e sentença favoráveis, que posteriormente foram confirmadas em 2o grau de jurisdição.
+Em face desse acórdão, a União Federal interpôs recursos especial e extraordinário. O Supremo Tribunal Federal deferiu liminar concedendo efeito suspensivo ao recurso, o que retirou a eficácia do acórdão que conferia isenção da COFINS.
+Com a publicação dessa decisão a OAB tem o prazo de até 30 dias para pagar ou pedir parcelamento do débito, sob pena de multa, consoante o que dispõe o art. 63 da Lei nº 9.430/96, in verbis:
+ ..
+Da leitura do dispositivo supracitado, percebe-se que a lei prevê a possibilidade do contribuinte quitar ou parcelar o débito sem cômputo da multa de mora, no prazo de até trinta dias, ou seja, durante esse período fica interrompida a exigibilidade da multa de mora.
+A impetrante requereu a prorrogação desse prazo, sob alegação de que encontra dificuldades, tanto para efetuar o pagamento quanto para protocolar pedido de parcelamento junto à Receita Federal, em virtude da escassez de senhas de atendimento.
+A r. sentença recorrida entendeu por prorrogar o prazo por mais 15 dias para o pagamento ou parcelamento do débito, sem contudo excluir a multa de mora.
+Não merece reparos a r. sentença recorrida.
+Conforme já mencionado, o § 2o do art. 63 da Lei nº 9.430/96 é bem claro em dispor que a fluência da multa de mora é interrompida entre o lapso de tempo decorrido entre a concessão da medida judicial suspensiva e de sua exigibilidade, começando a fluir a partir do 31º dia subseqüente à decisão que considerou o tributo devido. Portanto, não há determinação para a exclusão da multa de mora, conforme pleiteia a impetrante.
+Com efeito, o contribuinte beneficiário de liminar deve suportar os efeitos da revogação da medida que requereu, ou seja, pagar ou parcelar o tributo atualizado monetariamente e acrescido de multa de mora, os quais possuem caráter compensatório.
+Não é outro o entendimento do STJ:
+ ..
+Por derradeiro, não se pode olvidar que o Código Tributário Nacional, quando do parcelamento do crédito tributário, não exclui a incidência de juros e multas, conforme se vê:
+Portanto, não merece prosperar o pedido de exclusão de multa por ausência de amparo legal.
+No que tange a dilação do prazo para o pedido de parcelamento, entendo que o mesmo merece ser mantido.
+Tal prazo se mostrou exíguo, diante das dificuldades operacionais da Autoridade Fiscal na distribuição de senhas para atendimento de todas as empresas que encontravam na mesma situação, restando tudo comprovado nos autos, o que tornou o pedido razoável, devendo ser deferido.
+Ocorre que a extensão do prazo para mais quinze dias, trouxe a estabilização da situação da impetrante perante a Administração, a importar na aplicação da "teoria do fato consumado", que se encontra bem sintetizada no corpo do acórdão proferido pelo STJ, da lavra do Min. FELIX FISCHER, no âmbito do Mandado de Segurança nº 6215/DF, como se segue:
+ ..
+Adotando, pois, este entendimento, a fim de se evitar que a revogação da decisão produza um dano maior do que a sua manutenção - onde estaria sendo afetada a estabilidade das relações jurídicas - merece ser mantida a decisão a quo.
+Assim, não se mostra viável a reforma da r. sentença, em 2011, mormente porque o entendimento adotado na mesma afigura-se razoável diante das provas coligidas nos autos, inexistindo razão para ser reformada, principalmente por se tratar de "situação de fato consolidado, sem grave ofensa à ordem jurídica, nem grave lesão à autonomia das autoridades impetradas, não havendo como desconstituir tal ato.
+Posto isso, nego provimento ao recurso de apelação da União Federal, à remessa necessária e ao o recurso adesivo interposto pela impetrante.
+Pois bem.
+Inicialmente, ao contrário do que alegado pelo recorrente nas razões de seu especial, o juiz de primeiro grau, ao conceder a prorrogação do prazo do art. 63, § 2º da Lei n. 9.430/1996, não ressalvou a aplicação da multa moratória.
+Com efeito, a sentença confirmou a prorrogação do prazo do art. 63, § 2º da Lei n. 9.430/1996, concedida na liminar nos exatos termos em que pretendida pela impetrante. Consignou o juiz singular, apenas, que o pedido de que o pagamento/parcelamento se desse sem a incidência da multa não possuiria causa de pedir específica para justificar essa exclusão.
+Por sua vez, o acórdão recorrido consignou que não há previsão legal para a exclusão da multa de mora pleiteada pela impetrante. Em consonância com a jurisprudência desta Corte, afirmou o Tribunal a quo que o contribuinte/responsável deve arcar com os efeitos da revogação da liminar de suspensão da exigibilidade do crédito, que possui eficácia ex tunc (e-STJ fls. 153/155).
+Entretanto, em respeito à estabilização da decisão liminar, manteve a prorrogação do prazo da Lei para o pagamento/parcelamento do tributo como concedida na liminar de primeiro grau, nos exatos termos em que pretendida pela impetrante.
+Assim, entendo não haver sucumbência a legitimar a interposição do recurso especial pela recorrente, não merecendo conhecimento o recurso por ausência de pressuposto recursal.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
