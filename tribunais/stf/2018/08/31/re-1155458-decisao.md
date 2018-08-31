@@ -1,0 +1,32 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DIREITO À SAÚDE. FORNECIMENTO DE TRATAMENTO PELO MUNICÍPIO. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “CONSTITUCIONAL E ADMINISTRATIVO. REMESSA NECESSÁRIA. APELAÇÃO CÍVEL. DIREITO À SAÚDE. ART. 196, CF. RESPEITO À FILA ADMINISTRATIVAMENTE ORGANIZADA. ISONOMIA. TRATAMENTO ONCOLÓGICO JÁ INICIADO POR FORÇA DE ANTECIPAÇÃO DE TUTELA. CONTINUIDADE. RAZOABILIDADE. IRREVERSIBILIDADE. MUNICÍPIO. ILEGITIMIDADE PASSIVA. HONORÁRIOS.
+    1. Deve ser reconhecida a ilegitimidade do Município do Rio de Janeiro, na hipótese em questão, tendo em vista que não há hospitais municipais do Estado do Rio de Janeiro credenciados como hospitais habilitados na alta complexidade em oncologia, conforme o anexo da Portaria nº 102, de 3 de fevereiro de 2012, do Ministério da Saúde.
+    2. Consoante orientação dominante desta Eg. Corte, o acesso ao direito à saúde deve ser compatibilizado com o princípio da isonomia, de forma a não garantir privilégios àqueles que procuram o Judiciário em detrimento dos que aguardam por tratamentos e cirurgias de acordo com a fila administrativamente estabelecida. Assim, não cabe ao Judiciário administrar hospitais, estabelecendo prioridades de natureza médica, sob pena de ofensa ao princípio da isonomia. Precedentes.
+    3. Contudo, no caso dos autos, o tratamento radioterápico pretendido pelo autor já está sendo realizado, por força de antecipação de tutela concedida anteriormente à sentença, sendo certo que, em casos de tratamento oncológico, em regra, é necessário um acompanhamento contínuo. Dessa forma, não faz sentido, depois de ter sido autorizado o início do tratamento, interromper a sua continuidade. Em que pese o entendimento deste Colegiado no sentido de que não cabe ao Poder Judiciário interferir na atividade precípua do Administrador Público, estabelecendo prioridades de ordem médica, in casu, o tratamento necessário à plena recuperação do autor lhe deve ser dispensado diante da irreversibilidade da situação fática.
+    4. Pior do que tutelar o direito à saúde do Autor em detrimento de outras pessoas que aguardavam na lista de espera, é não tutelar direito algum. Com efeito, o autor já ‘furou a fila’ quando da concessão da antecipação de tutela, de sorte que tirar-lhe a condição de continuar seu tratamento oncológico é medida que atua em prejuízo da própria eficiência.
+    5. A fixação dos honorários advocatícios do Estado do Rio de Janeiro em R$ 2.000,00 (dois mil reais), revela-se, de fato, excessiva para a causa presente. Assim, é razoável a fixação em R$ 500,00 (quinhentos reais), considerando a desnecessidade de grande dilação probatória e a existência de precedentes do Superior Tribunal de Justiça.
+    6. Apelações conhecidas e providas. Remessa necessária conhecida e parcialmente provida.” (Doc. 3, fl. 12-13)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 1º, III, 5º, caput, XXXV e LIV, 6º, 23, II, 196 e 198 da Constituição Federal.
+    Os autos foram encaminhados ao órgão julgador para a aplicação do Tema 793 da repercussão geral que, por sua vez, proferiu juízo negativo de retratação.
+    A Vice-Presidência do Tribunal a quo, então, admitiu o recurso extraordinário.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    In casu, o acórdão recorrido assentou, in litteris:
+    “... deve ser reconhecida a ilegitimidade passiva do Município do Rio de Janeiro, tendo em vista que não há hospitais municipais credenciados como hospitais habilitados na alta complexidade em oncologia no Estado do Rio de Janeiro, conforme o anexo da Portaria nº 102, de 3 de fevereiro de 2012, do Ministério da Saúde.” (Doc. 2, fl. 145)
+    Por sua vez, a parte recorrente, nas razões do extraordinário, limitou-se a argumentar no sentido de que o tratamento deve ser disponibilizado por parte do Município em obediência ao disposto nos artigos 1º, III, 5º, caput, 6º, 23, II, 109, I, 196 e 198 da Constituição Federal e, ao assim proceder, deixou de atacar as razões que, por si só, são suficientes para a manutenção da decisão vergastada.
+    Incide, na espécie, o enunciado da Súmula 283 do STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido:
+    “AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO. SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL.
+    Inviável o agravo de instrumento que não ataca todos os fundamentos autônomos da decisão recorrida (Súmula 283 do Supremo Tribunal Federal). Agravo não provido.” (AI 489.247-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ de 16/2/2007)
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas sobre a Súmula 283 do STF:
+    “Pontes de Miranda sustentava opinião favorável à admissão do recurso extraordinário com fulcro num dos fundamentos quando a decisão assenta em vários (Comentários ao Código de Processo Civil, 2ª ed., t. XII/278). Opiniões contrárias são sustentadas por Lopes da Costa (Direito Processual Civil Brasileiro, 2ª ed., v. III/418) e José Afonso da Silva (Do Recurso Extraordinário, p. 201), que inadmitem o recurso nessas condições.
+    A Súmula 283 expressa que é inadmissível o recurso extraordinário quando a decisão recorrida tem mais de um fundamento suficiente e o recurso não abrange todos eles (RE 65.072, Rel. Min. Amaral Santos, RTJ 53/371; RE 66.768, Rel. Min. Djaci Falcão, RTJ 52/606; RE 60.854, Rel. Min. Barros Monteiro, RTJ 45/855; RE 63.174, Rel. Min. Evandro Lins, RTJ 45/419; RE 79.083, Rel. Min. Rodrigues de Alckmin, RTJ 75/844; RE 79.623, RTJ 75/849; RE 84.077, RTJ 80/906).
+    Aplicável o disposto nesta Súmula (decisão assentada em mais de um fundamento) às decisões do STJ (REsp 16.076; REsp 21.064; REsp 23.026; REsp 29.682).
+    V. Luiz Guilherme Marinoni, Manual do Processo de Conhecimento, Ed. RT, 2001, p. 561.” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 140)
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
