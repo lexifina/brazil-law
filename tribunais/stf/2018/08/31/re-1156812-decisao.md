@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVL. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA AJUIZADA POR SINDICATO. LIMITES TERRITORIAIS DA COISA JULGADA. . MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. TEMA 715 DA REPERCUSSÃO GERAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA AJUIZADA POR SINDICATO. POSSIBILIDADE. LEGITIMIDADE SINDICAL QUE BENEFICIA TODOS OS MEMBROS DA CATEGORIA NA BASE TERRITORIAL. HONORÁRIOS RECURSAIS.
+    1. Cabe aos sindicatos a representação da categoria dentro da sua base territorial. Essa limitação decorre do princípio constitucional da unicidade sindical (artigo 8º, inciso II, da CF/88).
+    2. A sentença proferida em ação coletiva interposta por sindicato somente surte efeito nos limites da competência territorial do órgão que a proferiu e exclusivamente em relação aos substituídos processuais que ali eram domiciliados à época da propositura da demanda. Precedentes do Superior Tribunal de Justiça e deste Tribunal.
+    3. Hipótese em que não há prova nos autos de que a parte apelante se encontra entre os beneficiados da sentença proferida na ação coletiva, porquanto não demonstrada a condição de bancária do estado da Bahia à época." (Doc. 2, fl. 98)
+    Nas razões de apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 8º, III, da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Ab initio, pontuo que o Plenário desta Corte, no julgamento do RE 883.642, Rel. Min. Ricardo Lewandowski, Tema 823 da repercussão geral, reafirmou sua jurisprudência no sentido de que os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos. Confira-se a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ART. 8º, III, DA LEI MAIOR. SINDICATO. LEGITIMIDADE. SUBSTITUTO PROCESSUAL. EXECUÇÃO DE SENTENÇA. DESNECESSIDADE DE AUTORIZAÇÃO. EXISTÊNCIA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+    I – Repercussão geral reconhecida e reafirmada a jurisprudência do Supremo Tribunal Federal no sentido da ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.”
+    Nada obstante, na hipótese dos autos, o Tribunal de origem, diante das peculiaridades do caso concreto, assentou que a sentença proferida em ação coletiva interposta por sindicato atinge somente os substituídos que possuam, na data do ajuizamento da ação, domicílio no âmbito da competência territorial do órgão prolator.
+    Releva notar que esta Corte firmou entendimento no sentido de que a limitação territorial da eficácia da decisão proferida em ação coletiva não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 796.473, Rel. Min. Gilmar Mendes, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Verifico que a controvérsia em exame discute questão atinente à limitação territorial da eficácia da decisão proferida em ação coletiva, questão que se restringe ao âmbito infraconstitucional”.
+    Por fim, observo que o presente recurso foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
