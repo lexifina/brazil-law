@@ -1,0 +1,35 @@
+Trata-se de recurso extraordinário interposto em face de acórdão em que foi dado parcial provimento ao recurso inominado da União. Destaco trecho do voto condutor:
+    “A Gratificação de Apoio à Execução de Atividades de Meteorologia - GEINMET foi instituída pela Lei 12.702/2012, sendo devida aos titulares de cargos de provimento efetivo, integrantes do Plano Geral de Cargos do Poder Executivo - PGPE, lotados e em efetivo exercício no INMET, enquanto permanecerem nessa condição.
+    Dispõe a legislação de regência:
+    Art. 1° Fica instituída, com efeitos financeiros a partir de 1o de julho de 2012, a Gratificação de Apoio à Execução de Atividades de Meteorologia - GEINMET, devida aos titulares de cargos de provimento efetivo regidos pela Lei no 8.112, de 11 de dezembro de 1990, integrantes do Plano Geral de Cargos do Poder Executivo - PGPE, de que trata a Lei no 11.357, de 19 de outubro de 2006, lotados e em efetivo exercício no INMET, enquanto permanecerem nessa condição.
+    § 1° Os valores da GEINMET são os constantes do Anexo I com efeitos financeiros a partir das datas nele estabelecidas.
+    § 2° Os servidores que fizerem jus à GEINMET que cumprirem jornada de trabalho inferior a 40 (quarenta) horas semanais perceberão a gratificação proporcional a sua jornada de trabalho.
+    § 3° A GEINMET será paga em conjunto com a Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo - GDPGPE e não servirá de base de cálculo para quaisquer outros benefícios ou vantagens.
+    § 4° A GEINMET somente integrará os proventos da aposentadoria e as pensões se houver sido percebida pelo servidor que a ela fizer jus por mais de 60 (sessenta) meses.
+    § 5° A GEINMET não será devida nas hipóteses de cessão.
+    Da leitura do caput do art. 1º conclui-se que todos os servidores, pelo fato de estarem em atividade no INMET, têm direito à GEINMET. A diferença entre eles consiste no valor da gratificação, que é paga a cada um na proporção de sua jornada de trabalho. Por outro lado, o § 5º exclui desse direito o servidor que for cedido a outros órgãos.
+    No entanto, tenho que estas peculiaridades não têm o condão de caracterizar a Gratificação de Apoio à Execução de Atividades de Meteorologia - GEINMET como vantagem de caráter individual, porque não se destina a remunerar ou indenizar o servidor em razão do exercício de uma função específica ou extraordinária. A GEINMET foi instituída de forma linear, para todos os ocupantes de cargos efetivos, integrantes do Plano de Geral de Cargos do Poder Executivo - PGPE, lotados e em exercício no INMET.
+    Assim, revestida de cunho geral, ainda que a lei omitisse o direito dos inativos, não haveria óbice ao reconhecimento do direito à extensão.
+    Nesse sentido excerto do voto proferido pelo Ministro Sepúlveda Pertence, em 25/10/2005, no AI 429.052-AgR/SP, ao apreciar a natureza da Gratificação por Atividade de Suporte Administrativo - GASA, instituída pela Lei Complementar nº 876/2000, do Estado de São Paulo:
+    [...]
+    Na mesma linha, o julgamento do Recurso Extraordinário 596.962/MT, com relatoria do Ministro Dias Toffoli, em que a controvérsia consistia em determinar-se a natureza jurídica da verba denominada 'incentivo de aprimoramento à docência' e sua eventual extensão aos inativos, em nome da necessária igualdade de tratamento entre servidores em atividade e aposentados:
+    [...]
+    Destaque-se, no caso da GEINMET, que a Lei 12.702/2012 prevê o pagamento da gratificação aos inativos, no entanto, não de forma plena.
+    [...]
+    Dessa forma, impõe-se reconhecer que, sendo o exercício de cargo o único requisito para o recebimento da Gratificação de Apoio à Execução de Atividades de Meteorologia - GEINMET aos servidores integrantes do Plano Geral de Cargos do Poder Executivo - PGPE, lotados no INMET, tal gratificação reveste-se de natureza geral e, portanto, deve ser estendida aos inativos que se enquadrem na regra constitucional da paridade remuneratória.
+    Estando em conformidade com o entendimento retrolançado, não há reparos a se fazer na sentença quanto à questão de fundo” (págs. 4-7 do documento eletrônico 31).
+    Opostos embargos de declaração, foram rejeitados em virtude da não ocorrência de omissão, obscuridade e contradição.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação dos arts. 2°, 5°, caput, II, XXXVI; 37, caput; 40, § 8°; e 102, I, a, § 2°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de Relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguintes fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    No mais, a 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul assentou o caráter genérico da gratificação objeto da lide e, assim, não dissentiu da orientação jurisprudencial deste Supremo Tribunal, no sentido de ser extensível aos servidores inativos a gratificação quando reconhecida a sua natureza de reajuste salarial genérico. Por oportuno, cito a ementa do RE 476.390/DF, de Relatoria do Ministro Gilmar Mendes:
+    “Recurso extraordinário. 2. Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA. Pontuação de acordo com desempenho. 3. Servidores Inativos. Pontuação pela regra de transição. Artigo 6o da Lei no 10.404/02. 4. Recurso extraordinário a que se dá parcial provimento.”
+    Desse modo, para concluir de modo diverso do acórdão ora atacado seria necessário o reexame da legislação infraconstitucional aplicável à especie, o que não é cabível na via extraordinária.
+    Na mesma esteira: RE 487.123-AgR/DF, de minha relatoria; AI 863.357/DF, Rel. Min. Cármen Lúcia; AI 861.989/DF, Rel. Min. Dias Toffoli e o RE 551.242/DF, Rel. Min. Gilmar Mendes.
+    Por fim, registro que este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Súmula 636/STF).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
