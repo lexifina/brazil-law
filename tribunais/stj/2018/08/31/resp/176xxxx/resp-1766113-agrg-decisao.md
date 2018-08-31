@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. GRATUIDADE DE JUSTIÇA. PEDIDO FORMULADO NA ORIGEM. EXTENSÃO PARA TODO O CURSO DO PROCESSO. DESNECESSIDADE DE RENOVAÇÃO. DECISÃO DA PRESIDÊNCIA RECONSIDERADA. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
+1. Trata-se de Agravo Regimental interposto por [NOME] contra decisão singular da Presidência deste STJ, da lavra do eminente Ministro FRANCISCO FALCÃO, que negou seguimento ao Agravo com fundamento na deserção, diante da ausência de renovação do pedido de gratuidade de justiça, e na suposta falta da cadeia completa de procurações.
+2. Postula a agravante o conhecimento do recurso, diante do deferimento prévio do benefício de justiça gratuita, demonstrando, ainda a devida representação processual.
+3. É o relatório. Decido.
+4. A Corte Especial do STJ ao concluir o julgamento dos EAREsp. 86.915/SP, firmou o entendimento de que, em razão de o benefício da assistência judiciária alcançar todas as instâncias, não é necessário ratificar o pedido nas razões do Recurso Especial. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA (LEI 1.060/50, ARTS. 4o., 6o. E 9o.). CONCESSÃO. EFICÁCIA EM TODAS AS INSTÂNCIAS E PARA TODOS OS ATOS DO PROCESSO. RENOVAÇÃO DO PEDIDO NA INTERPOSIÇÃO DO RECURSO. DESNECESSIDADE. AGRAVO PROVIDO.
+1. Uma vez concedida, a assistência judiciária gratuita prevalecerá em todas as instâncias e para todos os atos do processo, nos expressos termos do art. 9o. da Lei 1.060/50.
+2. Somente perderá eficácia a decisão deferitória do benefício em caso de expressa revogação pelo Juiz ou Tribunal.
+3. Não se faz necessário para o processamento do recurso que o beneficiário refira e faça expressa remissão na petição recursal acerca do anterior deferimento da assistência judiciária gratuita, embora seja evidente a utilidade dessa providência facilitadora. Basta que constem dos autos os comprovantes de que já litiga na condição de beneficiário da justiça gratuita, pois, desse modo, caso ocorra equívoco perceptivo, por parte do julgador, poderá o interessado facilmente agravar fazendo a indicação corretiva, desde que tempestiva.
+4. Agravo interno provido, afastando-se a deserção (AgRg nos EAREsp. 86.915/SP, Rel. Min. RAUL ARAÚJO, DJe 4.3.2015).
+5. Desse modo, tendo em vista as razões apresentadas, inclusive no que tange à cadeia de procurações, e com fundamento no art. 259 do RISTJ, dá-se provimento ao Agravo Regimental para reconsiderar a decisão de fls. 973/974, passando-se à nova análise dos recursos.
+6. Alega a recorrente, em essência, ofensa ao art. 535 do CPC/1973 como preliminar; e, no mérito, aos arts. 20, 22, 24, 79 e 82 da Lei 10.233/2001, bem como aos arts. 6o. e 267 do CPC/1973, sustentando a ilegitimidade ativa do DNIT, por supostamente não lhe competir a atividade fiscalizatória de área não edificável de trecho de rodovia objeto de concessão, e a necessidade de indenização pela classificação da propriedade como área non aedificandi.
+7. Dada a relevância do tema, reconsiderando a decisão de fls. 973/974, determina-se a conversão do Agravo em Recurso Especial, sem qualquer antecipação quanto ao mérito deste, para a sua oportuna apreciação pela Turma Julgadora.
+8. Remetam-se os presentes autos à Coordenadoria de Autuação de Processos Recursais, para os devidos fins, e oportuna inclusão em pauta para julgamento.
+9. Publique-se.
+10. Intimações necessárias.
