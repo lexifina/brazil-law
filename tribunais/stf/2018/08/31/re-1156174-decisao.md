@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “TRIBUTÁRIO. ICMS E DIFERENCIAL DE ALÍQUOTAS. TRANSPORTADORA DE PASSAGEIROS E CARGAS. INSUMOS. COMBUSTÍVEL E OUTROS. CREDITAMENTO. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. RAZOABILIDADE”. (eDOC 2, p. 113)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 155, §2º, I, II e XII, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o caráter não cumulativo do ICMS garante ao contribuinte o direito de aproveitar os créditos de todas as mercadorias adquiridas, mesmo que não utilizadas como insumo para a realização de sua atividade empresarial. (eDOC 3, p. 9)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a espécie dos autos, consignou que não há direito a crédito do ICMS incidente sobre os produtos consumidos no funcionamento do estabelecimento, que não se caracterizem como insumos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A controvérsia reside em saber se combustíveis, peças, lubrificantes, carrocerias, ônus, pneus, lubrificantes, água mineral e assemelhados seriam insumos ou materiais de consumo para a atividade fim da apelante, que tem como objeto social ‘a exploração dos serviços de transporte coletivo rodoviário de passageiros nas categorias normal e de fretamento, a do transporte de encomendas e cargas, e a do transporte turístico terrestre este como transportadora turísticas, todas nas modalidades municipais, intermunicipais, interestaduais e internacionais’ (fls.54).
+    A lei complementar n 87/1996 dá tratamento diferenciado às duas categorias no que diz respeito ao direito a não cumulatividade do ICMS incidente nas aquisições de determinados bens, tendo em vista que o aproveitamento de crédito em caso de insumos será imediato, ao passo que em caso de materiais destinados ao consumo, a compensação somente poderá ser deferida a partir de 01.01.2020 (artigos 19, 20 e 37)”. (eDOC 2, p. 116)
+    Verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que reconhece a constitucionalidade das disposições da LC 87/1996 que define os critérios para aproveitamento dos créditos de ICMS pelos contribuintes.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO TRIBUTÁRIO. ICMS. ESTADO DO RIO GRANDE DO SUL. REGIME OPCIONAL DE TRIBUTAÇÃO. BASE DE CÁLCULO REDUZIDA. VEDAÇÃO DE APROVEITAMENTO DO CRÉDITO GERADO PELA ENTRADA DE INSUMOS TRIBUTADOS. POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO CONSTITUCIONAL DA NÃO CUMULATIVIDADE. RE 595.436-AGR-EDV-AGR. ACÓRDÃO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA FIRMADA PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PROVIMENTO. RECURSO MANEJADO SOB A ÉGIDE DO CPC/1973”. (RE 644.457 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 4.8.2017)
+    “Agravo regimental no recurso extraordinário. Tributário. ICMS Aquisição de produtos intermediários. Regime de crédito físico. Não integrantes do produto final. Creditamento. Impossibilidade. Ausência de ofensa ao princípio da não cumulatividade. 1. Não há incidência no caso em tela dos enunciados das Súmulas 279, 282, 356, 283, 284 e 287 do Supremo Tribunal Federal. 2. A aquisição de produtos intermediários, sujeitos ao regime de crédito físico, aplicados no processo produtivo que não integram fisicamente o produto final não gera direito ao crédito de ICMS. 3. O princípio constitucional da não cumulatividade é uma garantia do emprego de técnica escritural que evite a sobreposição de incidências, sendo que as minúcias desse sistema e o contencioso que daí se origina repousam na esfera da legalidade. (...)”. (RE 689.001 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 26.2.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
