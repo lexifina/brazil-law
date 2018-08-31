@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE ENFERMAGEM DO RIO GRANDE DO SUL - COREN-RS contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL.
+ANUIDADES DE CONSELHO PROFISSIONAL. NOTIFICAÇÃO POR EDITAL. HONORÁRIOS ADVOCATÍCIOS.
+1. A notificação do lançamento ao devedor realiza-se de forma simplificada, por meio do envio de documento contendo o valor devido, a data do vencimento e outras informações, oportunizando-lhe o pagamento ou a interposição de recurso administrativo.
+2. A falta de notificação com prazo para impugnação acarreta cerceamento de defesa e é causa de anulação da CDA.
+3. Não havendo condenação, aplicável o § 4º do art. 20 do CPC, devendo ser considerada a natureza e a complexidade da causa, o trabalho desenvolvido pelo advogado e o tempo exigido para tanto, bem como o valor da causa, tudo em conformidade com os parâmetros estabelecidos no § 3º do mencionado dispositivo legal.
+A parte recorrente alega violação:
+a) do art. 535 do CPC/1973, por considerar obrigatória a integração pedida nos embargos de declaração, pertinente à omissão e ao erro material do acórdão recorrido que desconsiderou a existência de notificação pessoal válida e prévia, bem como quanto ao ônus da comprovação da ausência de notificação ser imputado ao particular;
+b) do art. 2º da Lei 6.830/1980, ao argumento de que a Corte Regional exigiu para a validade do Título Executivo a apresentação de documento não essencial (prova da notificação).
+Contrarrazões foram apresentadas pela LORI DO CARMO TEXEIRA, nas quais pede, preliminarmente, o não conhecimento do recurso por deficiência na fundamentação, necessidade de revolvimento de provas, ausência de prequestionamento, dissídio jurisprudencial não demonstrado e, no mérito, seu desprovimento em razão da inexistência de omissão ou erro material (e-STJ fls. 296/311).
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que o recurso especial se origina de agravo de instrumento interposto pelo recorrido contra decisão que rejeitou exceção de pré-executividade.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 234/236):
+Ao apreciar o pedido de antecipação de tutela recursal, assim me manifestei:
+Tratando-se de anuidade devidas aos conselhos profissionais, a notificação do lançamento ao devedor realiza-se de forma simplificada, por meio do envio de documento contendo o valor devido, a data do vencimento e outras informações, oportunizando-lhe o pagamento ou interposição de recurso administrativo.
+Consoante a jurisprudência desta Corte, a comprovação da remessa do documento de cobrança da respectiva anuidade para o endereço do profissional inscrito, via postal, quando não haja impugnação, é suficiente para o efeito de notificação do débito ao contribuinte, além de constituir o crédito a partir do seu vencimento (AC nº 2004.70.01.010957-9/PR, 2ª Turma, Relatora Des. Federal [NOME], D.E. 13/03/2009; AC nº 2005.72.01.004267-6, 1ª Turma, Des. Federal [NOME], D.E. 16/09/2010; AC 0083790-65.2003.404.7100, 1ª Turma, Relator Joel Ilan Paciornik, D.E. 24/09/2010).
+A jurisprudência do Superior Tribunal de Justiça é neste sentido, conforme se vê do acórdão assim ementado:
+ ..
+No caso, todavia, não há na certidão de dívida ativa qualquer menção à notificação pessoal.
+Inexiste indicação de que o boleto tenha sido remetido ao endereço do contribuinte, o que bastaria para dar efeito à notificação. Vê-se que foi apenas publicado edital de notificação de lançamento de teor genérico para pagamento de anuidades e multas pendentes de 2004 a 2009. A notificação por edital só é cabível quando não localizado o contribuinte no endereço constante do cadastro da entidade. Ademais, o edital deve conter os dados mínimos imprescindíveis à identificação do intimado, da finalidade do ato e dos fatos e fundamentos legais, principalmente o débito que está sendo exigido. Na hipótese, o edital não contém os elementos necessários, pois não apresenta o valor devido nem indica o prazo para impugnação, limitando-se a notificar todos os inadimplentes para que efetuem o pagamento.
+A falta de notificação regular invalida a Certidão de Dívida Ativa e, em conseqüência, a própria execução, que deve ser extinta.
+Dessa forma, está presente a relevância da fundamentação, ao passo que o periculum in mora deriva do risco de continuidade dos atos executórios.
+Com efeito, denota-se prejudicada a análise, por ora, das demais teses da parte agravante.
+Dispositivo.
+Ante o exposto, tendo em vista a presença dos requisitos necessários à concessão da medida requerida, defiro o pedido liminar com o fim de impedir a continuidade dos atos executórios em desfavor do ora agravante, até pronunciamento definitivo do colegiado.
+Não vejo razão para alterar a decisão acima transcrita, razão pela qual a mantenho por seus próprios fundamentos.
+Opostos embargos de declaração, foram eles rejeitados (e-STJ fls. 251/254)
+Pois bem.
+De início, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não adotando a tese defendida pelo recorrente.
+Da análise do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, consignando expressamente o ônus do conselho profissional de demonstrar que o boleto de cobrança tenha sido enviado ao endereço do contribuinte, não havendo nos autos comprovação de sua notificação pessoal.
+Anote-se ainda que os artigos cujo prequestionamento se pleiteia em sede de embargos de declaração (art. 5º, caput e §1º, da Lei 12.514/11, art. 2º da Lei n. 7.498/1986 e art. 149, I, do Código Tributário Nacional) não são pertinentes à solução da controvérsia.
+Dessa forma, correta a rejeição dos embargos de declaração ante a inexistência de omissão, contradição ou obscuridade a ser sanada e, por conseguinte, deve-se concluir pela ausência de ofensa ao art. 535 do CPC/1973.
+Quanto ao juízo de reforma, ressente-se o recurso especial do devido prequestionamento, já que sobre o art. 2º da Lei n. 6.830/1980 e a tese a ele vinculada (desnecessidade de se constar no título prova da notificação pessoal do contribuinte para o recolhimento da anuidade) não houve emissão de juízo pelo acórdão recorrido, nem sequer sendo o tema ventilado nos embargos de declaração, fazendo incidir o óbice constante na Súmula 356 do STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Ante o exposto, com base no art. 255, § 4º, II, do RI-STJ, CONHEÇO PARCIALMENTE do recurso especial e, na extensão, NEGO PROVIMENTO.
+Publique-se. Intimem-se.
