@@ -1,0 +1,8 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 557, § 2o, DO CPC. INTERPOSIÇÃO DE AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA. NECESSIDADE DE JULGAMENTO COLEGIADO PARA ESGOTAMENTO DA INSTÂNCIA. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA INADEQUADA. ACÓRDÃO PARADIGMA: RESP. 1.198.108/RJ, REL. MIN. MAURO CAMPBELL MARQUES, DJE 21.11.2012. REPRESENTATIVO DA CONTROVÉRSIA. RECURSO ESPECIAL AO QUAL SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento na alínea a do art. 105, inciso III da Constituição Federal, contra Acórdão do TJSP, o qual aplicou a multa prevista no art. 557, § 2o., do CPC.
+2. Alega a parte Recorrente violação ao art. 557, §2o. do CPC, sob o fundamente de que a interposição do Agravo Interno teve o intuito de esgotar as instâncias ordinárias.
+3. É o que havia de relevante para relatar.
+4. De acordo com entendimento firmado na Corte Especial desta Superior Tribunal de Justiça, no julgamento do REsp. 1.198.108/RJ, de relatoria do Ministro MAURO CAMPBELL MARQUES, publicado em 21.11.2012, processado sob o rito do art. 543-C do CPC, o Agravo interposto contra decisão monocrática do Tribunal de origem, com o objetivo de exaurir a instância recursal ordinária, a fim de permitir a interposição de recurso especial e do extraordinário, não é manifestamente inadmissível ou infundado, o que torna inaplicável a multa prevista no art. 557, § 2o., do Código de Processo Civil (REsp. 1.198.108/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 21.11.2012).
+5. Ante o exposto, dá-se provimento ao Recurso Especial.
+6. Publique-se. Intimações necessárias.
