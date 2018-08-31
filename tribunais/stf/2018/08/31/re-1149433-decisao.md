@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Estado de São Paulo e São paulo Previdência - SPPREV interpõem recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Turma Recursal Cível e Criminal do Colégio Recursal – Mogi Mirim, assim ementado:
+    “Servidor Público Policial Militar – Verbas reconhecidas em Mandado de Segurança – Interrupção prazo prescricional – preliminar de Incompetência devidamente analisada em 1º grau – Sentença em consonância com julgados do Colégio Recursal – Manutenção pelos próprios fundamentos.”
+    No recurso extraordinário, sustenta-se violação do artigo 5º, inciso XXI, da Constituição Federal. Pugna, ainda, pela incidência da Lei nº 11.960/09 como critério de atualização monetária e dos juros de mora.
+    Decido.
+    No que se refere ao artigo 5º, inciso XXI, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    No mais, esta Suprema Corte, no exame do RE nº 870.947/SE, reconheceu a repercussão geral do outro tema objeto do recurso extraordinário. Esse assunto corresponde ao tema 810 da Gestão por Temas da Repercussão Geral do portal do STF na internet e trata da “validade, ou não, da correção monetária e dos juros moratórios incidentes sobre condenações impostas à Fazenda Pública segundo os índices oficiais de remuneração básica da caderneta de poupança (Taxa Referencial - TR), conforme determina o art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009”.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso na parte relativa à alegada afronta ao artigo 5º, inciso XXI, da Constituição e, no ponto relativo aos critérios de correção monetária e juros moratórios determino, nos termos do art. 328 do Regimento Interno do Supremo Tribunal Federal, a devolução dos autos ao Tribunal de origem para a aplicação da sistemática da repercussão geral.
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
