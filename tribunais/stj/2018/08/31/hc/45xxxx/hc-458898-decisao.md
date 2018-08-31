@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação n.º 0001228-83.2015.8.26.0616).
+Consta dos autos que o paciente foi condenado no art. 33, caput, da Lei nº 11.343/2006, à pena de 7 anos de reclusão, em regime inicial fechado, além do pagamento de 700 dias-multa.
+Irresignada, a Defesa interpôs recurso de apelação. O Tribunal deu parcial provimento ao recurso para diminuir a pena para 5 anos de reclusão, em regime inicial fechado, além do pagamento de 500 dias-multa.
+Nas razões deste writ, a Defesa alega que, "de acordo com a quantidade de pena aplicada pelo delito de tráfico e mantida pelo v. acórdão - 05 anos de reclusão o paciente faria jus à fixação do regime semiaberto para início de cumprimento da pena." (fl. 3).
+Requer, assim, a fixação de regime mais brando.
+Liminar indeferida (e-STJ, fl. 69-71).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 104-110).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse contexto, passo ao exame das supostas ilegalidades apontadas pela defesa.
+O Tribunal de origem manteve o regime mais gravoso sob a seguinte motivação:
+"Segundo se apurou, na ocasião dos fatos, o réu foi surpreendido, transportando drogas, para o fim de entrega a consumo de terceiros, um tijolo de maconha, pesando 698,5g, bem como um tijolo de cocaína, com peso de 497,4g, além de R$406,00, em dinheiro. Informalmente, o apelante admitiu a propriedade das drogas.
+(..).
+A base foi aumentada, considerando-se a vida pregressa do réu, em especial, o fato de ele ostentar condenação anterior (fls. 130).
+Contudo, a majoração deve ser afastada. De fato, o acusado faria jus a um aumento expressivo na pena-base, quando mais não fosse, pela quantidade de drogas com ele apreendida. Contudo, não houve trânsito em julgado da decisão citada, e não houve fundamento outro, razão pela qual o aumento da base fica afastado, e fica ela fixada no mínimo, em cinco anos de reclusão, e 500 dias-multa, no piso, assim mantida nas fases seguintes, à míngua de outras causas modificadoras.
+Vale a menção de que não é possível, igualmente, a adoção da pena-base acima do mínimo legal, com fulcro no art. 42 da Lei de Drogas, em razão da natureza e quantidade das drogas apreendidas, já que, segundo jurisprudência pacificada pelo Eg. Supremo Tribunal Federal (de que divirjo, mas respeito), o critério adotado (grande quantidade da droga) deverá ser considerado apenas em uma das fases da dosimetria.
+Inviável qualquer possibilidade de aplicação de benefícios, em especial, a incidência do redutor do § 4º, do artigo 33, da lei: a quantidade e variedade de drogas transportadas pelo acusado comprova que ele se dedicava a atividades criminosas e são suficientes para afastar mencionado redutor, conforme interpretação do art. 42 da referida lei.
+O regime inicial fechado é o adequado, considerando as circunstâncias dos fatos, e a previsão legal com relação ao tráfico, também não sendo possível a substituição da pena privativa por restritivas de direitos ou o sursis, considerando até mesmo a pena fixada." (fls. 54-57).
+De início, convém destacar que a obrigatoriedade do regime inicial fechado aos sentenciados por crimes hediondos e os a eles equiparados não mais subsiste, diante da declaração de inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990, pelo Supremo Tribunal Federal, no julgamento do HC 111.840/ES.
+Na definição do modo inicial de cumprimento de pena, necessário à prevenção e reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento as diretrizes do art. 33 do Código Penal e, na hipótese de condenado pelo crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com a preponderância a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+Sobre o tema, às Súmulas 440/STJ e 718 e 719/STF, prelecionam que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+No caso, conforme se verifica, o Tribunal de origem aferiu as circunstâncias do delito (a apreensão de um tijolo de maconha, pesando 698,5g, e um tijolo de cocaína, com peso de 497,4g) para estabelecer o regime mais severo, consoante autoriza a jurisprudência desta Corte. Logo, aplicada a pena definitiva em 5 anos de reclusão e sendo expressiva a quantidade de entorpecente apreendida, não se identifica o manifesto constrangimento sustentado pela defesa, pois a escolha do regime inicial fechado está devidamente motivada.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FIXAÇÃO DO REGIME INICIAL FECHADO PARA O CUMPRIMENTO DA SANÇÃO. GRANDE QUANTIDADE DE DROGA VALORADA NA TERCEIRA FASE. BIS IN IDEM. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na definição do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, deve se expor motivadamente a escolha, atento às diretrizes do art. 33 do Código Penal e, na hipótese de condenado pelo crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+2. No caso, embora a pena definitiva tenha sido fixada em 5 anos de reclusão, e o sentenciado seja primário, o regime fechado é o cabível à espécie, dada a presença de circunstância prevalecente, qual seja, o grande volume de droga apreendido (20,830 vinte quilos e oitocentos e sessenta gramas de maconha).
+3. Cumpre registrar, que é entendimento pacificado nesta Corte que inexiste bis in idem quando a quantidade e a natureza da droga são consideradas para afastar a minorante ou modula-la e, logo depois, no momento da fixação do regime inicial do cumprimento da reprimenda. (Precedentes.)
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 670.161/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/05/2017, DJe 26/05/2017).
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
