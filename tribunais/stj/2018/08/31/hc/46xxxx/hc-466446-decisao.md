@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação n. 0014323-98.2014.8.26.0590.
+Narram os autos que o Juízo da 3ª Vara Criminal da comarca de São Vicente/SP condenou o paciente às penas de 1 ano e 8 meses de reclusão, em regime inicial aberto, e 166 dias-multa, substituída por duas restritivas de direito, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, por trazer consigo, aproximadamente, 287g de cocaína, 61g de crack e 14g de maconha e quantia em dinheiro.
+A defesa e o Ministério Público interpuseram apelação. A Sétima Câmara de Direito Criminal negou provimento ao recurso do ora paciente e deu provimento ao recurso ministerial para aumentar a pena-base e afastar a aplicação do § 4º do art. 33 da Lei 11.343/2006, redimensionando a pena para 5 anos e 10 meses de reclusão, no regime inicial fechado, e 583 dias-multa.
+Aqui, pretende o impetrante, inclusive em liminar, a concessão da ordem para que seja aplicado o redutor previsto no § 4º do art. 33, da Lei n. 11.343/2006, em seu patamar máximo, e fixado o regime prisional compatível. Requer, ainda, seja observado o disposto no art. 44 do Código Penal.
+Alega, para tanto, que não há na legislação vigente nenhum dispositivo que preceitue que a qualidade e a quantidade de drogas ou a posse de balança de precisão apreendidas são critérios para avaliação de vinculo intenso com o tráfico e não afasta do presente caso a inteligência do redutor do § 4º do artigo 33 da Lei 11.343/06 (fl. 8).
+Sustenta que a autoridade coatora, ao "fundamentar" a imposição do regime, argumentou, novamente, sobre a suposta quantidade e natureza da droga utilizada, em verdadeiro bis in idem, para afastar o regime previsto em Lei, muito embora o recorrente seja pessoa primária e de bons antecedentes (fl. 14).
+Aduz que esgotadas as instâncias ordinárias, após o julgamento dos embargos, haverá expedição de mandado de prisão em regime muito mais grave do que o previsto em lei (fl. 25).
+É o relatório.
+Na espécie, a questão referente à dosimetria, em especial sobre o excesso, ou não, da pena imposta, demanda um exame mais aprofundado dos autos, o que é inviável neste juízo de cognição preliminar.
+Ademais, pelo que constam dos autos, o Tribunal local, ao afastar a aplicação do redutor pretendido, destacou que as circunstâncias em que perpetrado o delito, que contou com apreensão de drogas de diversas naturezas, em expressivas quantidades, além de rádio comunicador e considerável importância em dinheiro, não justificada, estão a não recomendar a aplicação da benesse da lei especial (fl. 55).
+E, no que tange ao regime, a presença de circunstância judicial desfavorável justifica, por ora, a imposição de regime mais gravoso do que a pena aplicada admite, em observância ao § 3º do art. 33 do Código Penal. A propósito, HC n. 351.276/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/5/2016.
+Ante o exposto, indefiro o pedido.
+Instruídos os autos, ouça-se o Ministério Público Federal.
+Publique-se.
