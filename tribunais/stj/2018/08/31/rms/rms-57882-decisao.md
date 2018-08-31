@@ -1,0 +1,26 @@
+EMENTA
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. MANDAMUS OBJETIVANDO O IMEDIATO RESTABELECIMENTO DO AUXÍLIO-ALIMENTAÇÃO. IMPETRAÇÃO CONTRA ATO DO GOVERNADOR DO ESTADO. AUTORIDADE INCOMPETENTE. ILEGITIMIDADE PASSIVA. ACÓRDÃO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. RECURSO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso em mandado de segurança com pedido de liminar interposto por MARIA CRISTINA LOPES GERALDINI e outra contra acórdão oriundo do Órgão Especial do Tribunal de Justiça de São Paulo, assim ementado (fls. 148-156):
+MANDADO DE SEGURANÇA. Impetração contra ato do Governador do Estado de São Paulo. Impetrantes, servidores públicos, afastados sem prejuízo de vencimentos, direitos e demais vantagens de seu cargo, para exercer função de [NOME] no Tribunal Regional Eleitoral. Suspensão do pagamento de auxílio - alimentação. Pretendem o imediato reestabelecimento do auxílio. - Ilegitimidade passiva do Governador do Estado.
+Autoridade coatora é aquela que tenha praticado o ato impugnado ou da qual emana a ordem para sua prática (art. 6º, paragrafo 3º, da Lei n. 12.016/2009. Art. 267, inciso VI, do Código de Processo Civil, c.c. art. 6º, parágrafo 5º, da Lei nº 12.016/09). Precedentes desta Corte de Justiça. Ordem denegada, revogada a medida liminar.
+As recorrentes pugnam pela reforma do acórdão recorrido, argumentando que a preliminar de ilegitimidade passiva deve ser afastada, porque a "autoridade coatora não se desincumbiu de apresentar uma prova sequer de que não foi ela quem emitiu a ordem para a execução do ato ilegal" (fl. 169 e-STJ).
+No mérito, consigna ter direito à percepção do auxílio-alimentação, "a ser pago pela Fazenda Pública de São Paulo" (fl. 175 e-STJ).
+Contrarrazões oferecidas às fls. 181-196.
+A Subprocuradoria-Geral da República opina pelo desprovimento do recurso, em parecer subscrito pelo Dr. [NOME] (fls. 215-217).
+É o relatório. Passo a decidir.
+Na origem, cuida-se de mandado de segurança, em que as impetrantes, servidoras públicos estaduais da Secretaria da Educação, requisitadas pelo TRE-SP, aponta como autoridade coatora o Governador do Estado de São Paulo e visa à concessão da ordem, com o restabelecimento do pagamento do auxílio-alimentação cujo pagamento às impetrantes restou suspenso em dezembro de 2016.
+Nos termos do que dispõe o § 3º do artigo 6º da Lei Federal n. 12.016/2009, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+Como se denota, do referido dispositivo legal, será considerada coatora, para o fim de determinar a legitimidade passiva ad causam no mandamus, a autoridade que determina ou omite a prática do ato impugnado.
+No caso concreto, apesar de ocupar a cúpula da estrutura administrativa estadual, o Governador não pode ser considerado autoridade coatora em todos os mandados de segurança que envolvam a Administração Pública, não sendo o responsável direto pela folha de pagamentos dos servidores, embora tenha tentado negociar solução para a situação que afeta as impetrantes.
+Dessa forma, o acórdão recorrido não merece reparos, porquanto encontra-se em sintonia com a jurisprudência do STJ no sentido de que a autoridade possui legitimidade para figurar no polo passivo de mandado de segurança é a que efetivamente pratica o ato atacado.
+Como bem pontou o Parquet, o acolhimento da tese recursal implicaria em esdrúxula situação na qual o Governador do Estado seria o responsável em todos os mandados de segurança relativo aos servidores estaduais, uma vez que é a autoridade máxima do Executivo daquela esfera.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PRETENSÃO DE AFASTAMENTO DA EXIGÊNCIA DE ICMS. ILEGITIMIDADE DO SECRETÁRIO DE TRIBUTAÇÃO DO ESTADO DO RIO GRANDE DO NORTE PARA FIGURAR, COMO AUTORIDADE IMPETRADA, NO POLO PASSIVO DO MANDADO DE SEGURANÇA. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+III. A Primeira Seção do STJ, ao julgar o MS 4.839/DF (Rel. Ministro ARI PARGENDLER, DJU de 16/02/98), deixou anotado que "a autoridade coatora, no mandado de segurança, é aquela que pratica o ato, não a que genericamente orienta os orgãos subordinados a respeito da aplicação da lei no âmbito administrativo; mal endereçado o writ, o processo deve ser extinto sem julgamento de mérito".
+X. Agravo interno improvido (AgInt no RMS 54.968/RN, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 21/5/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA. AUTORIDADE QUE PRATICOU O ATO. GOVERNADOR DE ESTADO. TEORIA DA ENCAMPAÇÃO. INAPLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+II - A autoridade coatora que detém legitimidade para figurar no polo passivo de ação mandamental é aquela que tenha praticado o ato impugnado, a teor da Lei n. 12.016/2009.
+VI - Agravo Interno improvido. (AgInt no RMS 54.869/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21/2/2018)
+Ante o exposto, nego provimento ao recurso em mandado de segurança, nos termos da Súmula 568 do STJ, combinado com o art. 34, XVIII, "b", do RISTJ.
+Publique-se. Intimem-se.
