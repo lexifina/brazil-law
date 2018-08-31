@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto pelo Ministério Público Eleitoral contra acórdão do Tribunal Superior Eleitoral – TSE, assim ementado:
+    “AGRAVO REGIMENTAL. RECURSO ESPECIAL ELEITORAL. ELEIÇÕES 2012. INQUÉRITO CIVIL. MINISTÉRIO PÚBLICO ELEITORAL. ART. 105-A DA LEI 9.504/97. PROVAS. NULIDADE. DESPROVIMENTO.
+    1. Consoante a jurisprudência do Tribunal Superior Eleitoral, a instauração de inquérito civil pelo Ministério Público Eleitoral para produção de provas e posterior aproveitamento em AIJE ofende o disposto no art. 105-A da Lei 9.504/97 e ocasiona a nulidade das provas obtidas. Precedentes.
+    2. Agravo regimental desprovido” (fl. 1.832).
+    O presente recurso foi interposto com fulcro no art. 102, III, a, da Constituição Federal, alegando, em suma, ofensa aos arts. 14, § 9°; 127, caput e 129, III, todos da mesma Carta Magna.
+    Cuida-se, na origem, da condenação por atos abusivos do poder político (art. 22, XIV, da LC 64/1990), pelo juízo de primeiro grau, praticados pelos recorridos Leandro Rogério de Oliveira e Paulo César de Almeida, prefeito e vice-prefeito, respectivamente, do Município de General Salgado/SP, eleitos no pleito suplementar em 2/6/2013, em sede de Ação de Investigação Judicial Eleitoral – AIJE, fundada em provas obtidas por meio de inquérito civil eleitoral instaurado pelo Ministério Público Eleitoral.
+    Contra a condenação, foi interposto recurso eleitoral no Tribunal Regional Eleitoral de São Paulo – TRE/SP, tendo a sentença sido reformada para reconhecer o vício de nulidade por ilicitude da prova que, obtida exclusivamente por meio de inquérito civil, afronta o art. 105-A da Lei 9.504/1997.
+    O Ministério Público Eleitoral interpôs recurso especial eleitoral, requerendo o afastamento do vício reconhecido, o qual foi inadmitido pelo TRE/SP.
+    Irresignado, o recorrente interpôs agravo de instrumento no TSE e a Corte asseverou a ofensa ao art. 105-A da Lei 9.504/1997 como fato incontroverso na espécie, julgando desprovido o recurso.
+    Foi então interposto, pelo Ministério Público Eleitoral, agravo regimental, tendo sido desprovido, fundado nos mesmos argumentos da decisão recorrida.
+    Inconformado, o recorrente opôs embargos de declaração, mas estes foram rejeitados.
+    No presente recurso extraordinário, o recorrente aduz que a interpretação da norma insculpida no art. 105-A da Lei 9.504/1997, alterado pela Lei 12.034/2009, sob a ótica constitucional, “não tem o condão de proibir a utilização de inquérito civil público na seara eleitoral, haja vista a envergadura do interesse público a ser tutelado” (fl. 1.859). Alega que a vedação imposta pela norma eleitoral representa inconstitucionalidade que viola os arts. 14, § 9°; 127, caput e 129, III, todos da Carta Magna.
+    É o relatório. Decido.
+    Bem examinados os autos, verifico que o recurso não merece prosperar.
+    Isso porque a decisão recorrida está fundada em exame de norma que possui natureza infraconstitucional (art. 105-A da Lei 9.504/1997) e conforme a jurisprudência desta Corte, eventual ofensa ao texto constitucional se daria de forma meramente reflexa, inviabilizando o processamento do apelo extremo. Confira-se o ARE 1.079.952-AgR/CE, de relatoria do Ministro Edson Fachin:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL. DIVULGAÇÃO DE PUBLICIDADE INSTITUCIONAL. ART. 73, INCISO VI, ALÍNEA B, DA LEI 9.504/97. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. DESPROVIMENTO DO AGRAVO. 1. É inviável o processamento do apelo extremo quando seu exame implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas reflexa. 2. O necessário reexame de fatos e provas no tocante à análise da ocorrência da ilegalidade na divulgação de publicidade institucional durante período vedado pela legislação eleitoral inviabiliza o conhecimento do recurso extraordinário. Súmula 279/STF. 3. Agravo regimental não provido” (grifei).
+    Isso posto, nego provimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
