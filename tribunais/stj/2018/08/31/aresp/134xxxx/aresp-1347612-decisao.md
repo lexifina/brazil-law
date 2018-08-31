@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 558):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. RESPONSABILIDADE DOS SÓCIOS. DISSOLUÇÃO IRREGULAR.
+I - Ocorrência de dissolução irregular que enseja o redirecionamento ao sócio que, à época dos fatos geradores e da dissolução irregular, concomitantemente, exercia função de gerência na sociedade dissolvida.
+II - Agravo de instrumento provido.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 135, III, do CTN e 85, §2º e 3º, do CPC/2015. Sustenta que: (I) não ocorreu a dissolução irregular no caso dos autos, pois a empresa encontrava-se inativa; e (II) é necessário a comprovação de que os sócios tenham praticado atos com excesso de poderes ou infração de lei, contrato social, ou estatuto para que ocorra o redirecionamento.
+É o relatório.
+Inicialmente, quanto à tese acerca da dissolução irregular em razão da inatividade da empresa, verifica-se que o juízo de admissibilidade negou seguimento ao recurso especial, com base no art. 1.030, I, do CPC/2015, por entender que o acórdão recorrido coincide com a orientação do Superior Tribunal de Justiça, firmada no julgamento dos Recursos Especial Repetitivo 1.371.128/RS.
+Consoante o disposto no art. 1.030, § 2º, do novo Código de Processo Civil, o recurso cabível contra a decisão que nega seguimento a recurso especial, com base no art. 1.030, I, b, do aludido diploma legal, é o agravo interno.
+Assim, não é possível tratar sobre tal ponto nesta via recursal.
+Com relação ao art. 85, §2º e 3º, do CPC/2015, cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Para ilustrar, sobressaem os seguintes precedentes: AgRg no AREsp 83.629/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 3/4/2012; AgRg no AREsp 80.124/PB, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 25/5/2012.
+Ademais, o Tribunal de origem não se manifestou sobre a alegação de que é necessário a comprovação de que os sócios tenham praticado atos com excesso de poderes ou infração de lei, contrato social, ou estatuto para que ocorra o redirecionamento, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
