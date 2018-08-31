@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 3ª Região, assentou, em síntese:
+    PROCESSO CIVIL - AGRAVO REGIMENTAL - DECISÃO PREFERIDA EM MEDIDA CAUTELAR INCIDENTAL - PERDA DE OBJETO - LEVANTAMENTO DE DEPÓSITOS REALIZADOS POR FORÇA DE DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL - POSSIBILIDADE - AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO DA AMPLA DEFESA OU NORMA CONSTITUCIONAL - MANUTENÇÃO
+    1. A decisão ora agravada e que deve ser mantida, ateve-se única e exclusivamente ao quanto decidido nos autos do Recurso Extraordinário n.° 565.507-5, interposto na AMS n.° 1999.61.00.044944-9, na qual foi interposta, incidentalmente, a medida cautelar inominada objeto do presente agravo.
+    2. Nesse andar, conforme cópias juntadas aos autos pelo ora requerente, decidiu-se, no referido recurso, por meio, de decisão monocrática de relatoria do Ministro Marco Aurélio de Mello, conhecer-se do mesmo, provendo-o parcialmente para afastar a base de incidência definida no § 1.° do artigo 3.° da Lei n.° 9.718/98, tido por inconstitucional nos precedentes - Recursos Extraordinários n.° 357.950/RS, 390.840/MG, 358.273/RS e 346.084/PR - (folhas 317).
+    3. Referida decisão teve seu trânsito em julgado em 12 de agosto de 2008, conforme cópia constante às folhas 319.
+    4. Não se configura, a meu sentir, violação ao principio do contraditório e da ampla defesa decisão que, em atendimento ao quanto decidido nos autos de origem em grau irrecorrível, determina o afastamento da base de incidência definida no 1.° do artigo 3.° da Lei n.° 9.718/98.
+    5. Se pretende a ora agravante "interpretar" o quanto decidido na decisão proferida pelo Supremo Tribunal Federal deveria fazê-lo nos próprios autos de origem evitando-se , com isso, o trânsito em julgado lá proferido e não suscitar tal fundamento em sede de agravo regimental proferido em autos incidentais.
+    6. Cumpre asseverar o direito da União concordando com os valores levantados pela reivindicar eventual diferença desses processual adequada, não havendo que e irreparável ao erário público.
+    7. Agravo regimental não provido.
+    No extraordinário, cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, inciso LV, e 195, inciso I, da Carta Política. Diz contrariados os princípios da ampla defesa e do contraditório. Sustenta não observados os limites da coisa julgada quanto ao levantamento integral dos valores depositados na espécie, sem prévia intimação da Fazenda. Articula quanto à concessão parcial da segurança pretendida pelo contribuinte, obtendo o reconhecimento da inconstitucionalidade apenas do artigo 3º, § 1º, da Lei nº 9.718/1998. Afirma subsistir campo de incidência da contribuição para a COFINS sobre outras atividades da contribuinte, na forma dos artigos 2º e 3º, cabeça, da Lei nº 9.718/1998.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Assentou o Tribunal de origem estar a matéria coberta pelo manto da coisa julgada. Somente pela análise do quadro fático seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    A par disso, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Por fim, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 31 de agosto de 2018.
+ Ministro MARCO AURÉLIO
+Relator
