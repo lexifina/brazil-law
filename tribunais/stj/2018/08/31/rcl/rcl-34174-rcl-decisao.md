@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de petição acostada pela parte reclamante, D & C COMERCIO E SERVICOS LTDA - ME, na qual requer a instauração de incidente de assunção de competência - IAC, tendo por objeto a alegada inconstitucionalidade da Resolução STJ n. 3/2016, que prevê que, a partir de 07/04/2016, as Câmaras Reunidas ou a Seção Especializada dos Tribunais de Justiça passam a ser competentes para "processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+Não se vislumbra, no entanto, interesse público na assunção de competência, haja vista que a Resolução questionada foi recentemente editada pela Corte Especial - órgão colegiado superior deste Tribunal -, em largo debate de seus membros nos autos da AgRg na Rcl 18.506/SP.
+Forte nessas razões, NADA A DEFERIR.
+Publique-se. Intimem-se.
