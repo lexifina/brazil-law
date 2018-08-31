@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – PREQUESTIONAMENTO – AUSÊNCIA – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado de São Paulo, reformando em parte o entendimento do Juízo, assentou, observada a legislação de regência, a regularidade da inscrição em regime especial de recolhimento do Imposto sobre a Circulação de Mercadorias e Serviços – ICMS. No extraordinário, cujo trânsito busca alcançar, a recorrente alega violados os artigos 1°, inciso IV, 5°, cabeça e incisos XIII, XXII, XVIII, XIX, LIV, e LVII, 155, inciso II, e 170, cabeça, inciso IV e parágrafo único, da Constituição Federal. Aduz contrariados os princípios da não-cumulatividade, da vedação da sanção política e da isonomia tributária. Afirma a inconstitucionalidade da exigência de pagamentos antecipados do imposto estadual em questão e mediante apuração mais gravosa no caso do contribuinte com registro de débito fiscal, tal como previsto na Portaria CAT nº 223/2009 .
+    2. Colho do acórdão recorrido o seguinte trecho:
+    A autora é empresa que exerce comércio atacadista de etanol carburante, biodiesel, gasolina e demais derivados de petróleo, e se insurge contra as disposições contidas na Portaria CAT 223/09, que prevê nos arts. 418-A e 418-B do RICMS, acrescentado pelo Decreto Estadual nº 55.029/09, um sistema de apuração mensal do ICMS, nos seguintes termos:
+    […].
+    Nestes termos é que a autora busca a declaração de inconstitucionalidade incidental da Portaria CAT 223/09, diante da exigência prevista no art. 6º, § 2º, item 9, que acarretou no seu descredenciamento do regime especial de apuração, submetendo-a ao regime de substituição tributária, que no entender da apelante é mais gravoso por violar o princípio da não cumulatividade.
+    Em que pese a argumentação da recorrente, o certo é que não existe ilegalidade ou inconstitucionalidade nas disposições da Portaria CAT nº 223/09, uma vez que a legislação tributária pode conferir tratamento diferenciado a determinados contribuintes, situação, aliás, expressamente prevista na Lei Estadual nº 6.374/89, razão pela qual inexiste violação aos princípios do livre comércio ou da isonomia tributária.
+    O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação no acórdão dos honorários advocatícios recursais em 5% sobre o valor da causa, majoro os honorários recursais no patamar de mais 3% do valor da causa, consoante o artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 31 de agosto de 2018.
+Ministro MARCO AURÉLIO
+Relator
