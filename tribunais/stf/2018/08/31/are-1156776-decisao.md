@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Acidente de veículo – Danos físicos e morais – Dano moral reconhecido e ora majorado – Ausência de direito à indenização por diferença de auxílio doença, de responsabilidade do INSS – Direito à indenização pelas despesas de locomoção durante o período de tratamento – Não tem a autora, vítima do acidente, direito à indenização pelo que deixou de receber do INSS, em decorrência do atraso de pedido a ser feito por ela própria. Ante a gravidade do trauma decorrente do acidente, o dano estético e o longo período de tratamento, considerando-se ainda a situação econômica das partes e a culpa do requerido, justifica-se sua fixação no valor correspondente a 100 (cem) salários mínimos. Ante a razoabilidade do valor cobrado a título de despesas de locomoção frente à situação provada nos autos,é de se acatar o pedido de indenização a tal título. – Recurso do réu não provido – Recurso da autora parcialmente provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 7º, IV, da Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em conformidade com o entendimento jurisprudencial que o Supremo Tribunal Federal firmou na matéria em referência.
+    Com efeito, a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal:
+    “Agravo regimental em agravo de instrumento. 2. Salário mínimo utilização como forma de expressão do valor inicial da condenação. Possibilidade. 3. Agravo regimental a que se nega provimento.”
+    (AI 605.102-AgR/RJ, Rel. Min. GILMAR MENDES)
+    “Vinculação ao salário mínimo: a vedação do art. 7º, IV, da Constituição, restringe-se à hipótese em que se pretenda fazer das elevações futuras do salário mínimo índice de atualização da indenização fixada; não, qual se deu no acórdão recorrido, se o múltiplo do salário mínimo é utilizado apenas para expressar o valor inicial da condenação, a ser atualizado, se for o caso, conforme os índices oficiais da correção monetária.”
+    (RE 389.989-AgR/RR, Rel. Min. SEPÚLVEDA PERTENCE)
+    Impende assinalar, por relevante, que o entendimento ora exposto tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 537.333-ED/RJ, Rel. Min. JOAQUIM BARBOSA – AI 643.578-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI – AI 738.177-AgR/PR, Rel. Min. DIAS TOFFOLI – RE 1.138.263/SP, Rel. Min. MARCO AURÉLIO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em questão.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
