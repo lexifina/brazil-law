@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por [NOME]. O apelo extremo, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. PLANO DE SAÚDE COLETIVO. APOSENTADORIA E DEMISSÃO SEM JUSTA CAUSA. DIREITO À MANUTENÇÃO NO PLANO, DESDE QUE O EX- EMPREGADO ARQUE INTEGRALMENTE COM O VALOR DA MENSALIDADE. APLICAÇÃO DOS ARTIGOS 30 E 31 DA LEI 9.656/98. ALEGAÇÃO DE AUMENTO ABUSIVO RELATIVO À COTA PAGA ANTERIORMENTE PELO EX- EMPREGADOR E VIOLAÇÃO AO DEVER DE INFORMAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DA AUTORA QUE NÃO MERECE PROSPERAR. INEXISTÊNCIA DE ATO ILÍCITO POR PARTE DA SEGURADORA/RÉ. MENSALIDADES REAJUSTADAS E PAGAS PELA EX- EMPREGADA. NÃO CABIMENTO DE DEVOLUÇÃO DOS VALORES. DANO MORAL NÃO CONFIGURADO. AUSÊNCIA DE LESÃO A DIREITO DA PERSONALIDADE. NEGADO PROVIMENTO AO RECURSO" (e-STJ fl. 321).
+Nas razões do especial, o recorrente alegou violação do art. 31 da Lei nº 9.656/1998 e divergência jurisprudencial.
+Sustentou, em síntese, que não foi exibido o valor correspondente à parte do empregador no custeio do plano, devendo prevalecer apenas o valor cobrado durante o vínculo empregatício - R$ 84,00. Defendeu, ainda, que o novo valor cobrado é abusivo.
+Com fulcro nos argumentos expostos, pleiteou o provimento do recurso.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No mérito, o Tribunal de origem decidiu com base nos seguintes fundamentos:
+"(..)
+In casu, nas razões de apelo, a autora reconhece que deve arcar com a integralidade do plano de saúde, mas sustenta que, a partir de outubro de 2013, houve um acréscimo substancial e abusivo na mensalidade, relativo à cota parte paga pelo ex-empregador. Afirma que não foi devidamente informada dos valores que eram pagos por ele, durante a vigência do contrato de trabalho, e isto viola o dever de informação.
+Quanto à alegação de violação ao dever de informação da recorrida acerca dos valores pagos pelo ex-empregador durante a vigência do contrato de trabalho, a mesma não deve prosperar, pois a ré não tem obrigação de informar à autora as condições do pacto anteriormente firmado entre a seguradora e seu ex- empregador. Trata-se de outro contrato (coletivo), celebrado sob outras condições, nos termos dos documentos anexados aos autos, nos indexadores 105; 106; 110; 113 e 125.
+Assim, no presente caso, não se vislumbra violação ao dever de informação ou à boa-fé objetiva, pois os termos contratuais são claros e objetivos, com a variação das mensalidades de acordo com a faixa etária e tipo de plano, previamente informadas" (e-STJ fls. 326).
+A leitura do excerto revela que o acórdão recorrido foi prolatado em perfeita sintonia com a jurisprudência deste Tribunal Superior, firmada no sentido de é legal a opção da estipulante por separar as categorias entre ativos e inativos, porquanto se garante ao empregado aposentado ou demitido a manutenção das mesmas condições de assistência à saúde, em valores de mensalidade abaixo dos praticados no mercado, não sendo obrigatório que o plano de saúde coletivo seja uno, especialmente com relação ao regime de custeio.
+Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO DEMITIDO. PDV. DIREITO ADQUIRIDO. INEXISTÊNCIA. REGIME DE CUSTEIO DIVERSO. POSSIBILIDADE. DIVISÃO DE CATEGORIAS. ATIVOS E INATIVOS. OPÇÃO DA OPERADORA. REQUISITOS LEGAIS. OBSERVÂNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Mantidos a qualidade e o conteúdo de cobertura assistencial do plano de saúde, não há direito adquirido a modelo de custeio, devendo-se evitar a onerosidade excessiva ao usuário e a discriminação ao idoso.
+3. É possível ao ex-empregador (i) manter os seus ex-empregados - demitidos sem justa causa ou aposentados - no mesmo plano de saúde em que se encontravam antes do encerramento do contrato de trabalho ou (ii) contratar um plano de saúde exclusivo para eles (art. 13 da RN nº 279/2011 da ANS).
+4. A opção da operadora por separar as categorias entre ativos e inativos também se mostra adequada para dar cumprimento às disposições legais, visto que há garantia ao empregado aposentado ou demitido de manutenção das mesmas condições de assistência à saúde, e, por princípio, em valores de mensalidade abaixo dos praticados no mercado, não havendo obrigatoriedade de que o plano de saúde coletivo seja uno, sobretudo com relação ao regime de custeio.
+5. Agravo interno não provido" (AgInt no REsp 1597995/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 09/03/2018 - grifou-se).
+Nesse cenário, incide na hipótese, a inteligência da Súmula nº 568 do Superior Tribunal de Justiça.
+Oportuno ressaltar, por fim, que o debate sobre eventual abusividade do valor das mensalidades demandaria reexame de cláusulas contratuais e do contexto fático-probatório, procedimento vedados em recurso especial pelas Súmulas nº 5 e 7/STJ.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa (R$ 1.053,00), os quais devem ser majorados para 17,5% (dezessete e meio por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
