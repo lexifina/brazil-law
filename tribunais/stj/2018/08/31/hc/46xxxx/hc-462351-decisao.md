@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de [NOME], contra v. acórdão do eg. Tribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que o d. juízo de primeira instância decretou a prisão preventiva do paciente pela prática, em tese, do delito previsto no art. 157, §2º, I e II do Código Penal. O paciente nunca foi preso e é considerado foragido (fls. 78-79).
+A defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional em razão do excesso de prazo. O eg. Tribunal de origem conheceu da ordem e concedeu parcialmente para outro corréu, negando a ordem ao paciente, em v. acórdão assim ementado:
+"HABEAS CORPUS. ROUBO QUALIFICADO. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR. DESOBEDIÊNCIA POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO DISPARO DE ARMA DE FOGO. PRISÃO PREVENTIVA. EXCESSO PRAZO. CONSTRANGIMENTO ILEGAL CONFIGURADO. RÉU FORAGIDO INOCORRÊNCIA DE EXCESSO DE PRAZO. 1- Extrapolado o prazo para a conclusão da instrução processual, sem que a demora se demonstre razoável, a concessão da liberdade é medida que se impõe. 2- Para o correu que se encontra foragido não há que se falar em excesso de prazo, tendo em vista que o mandado de prisão nunca foi cumprido. 3- Ordem conhecida e parcialmente concedida" (fl. 59).
+Daí o presente mandamus, no qual os impetrantes alegam a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea a justificar a decretação de sua segregação cautelar, reforçando que as condições pessoais do paciente seriam favoráveis.
+Afirmam que desapareceram os motivos que levaram a decretação da prisão preventiva.
+Requerem , assim, a revogação da prisão preventiva com a aplicação das medidas cautelares diversas, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida à fl. 70.
+As informações foram prestadas às fls. 75-81.
+O d. Ministério Público Federal, às fls. 84-88, manifestou-se pela manutenção da decisão impugnada.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+No que concerne à alegada ausência de fundamentação do decreto prisional, do desaparecimento dos motivos que levaram a prisão preventiva do paciente, não merece prosperar o habeas corpus.
+É que, do exame do v. acórdão reprochado, tem-se que o eg. Tribunal a quo, nos autos do HC n. 653-49.2018.8.09.0000, bem como da decisão monocrática proferida 66409-05.2018.8.09.0000, sequer foram apreciadas tais controvérsias, de maneira que sua análise diretamente por esta Corte fica impossibilitada, sob pena de indevida supressão de instância.
+Sobre o tema:
+"HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. CONDENAÇÃO. NULIDADE DA SENTENÇA. AUSÊNCIA DE ANÁLISE DE TESE DEFENSIVA. REGIME INICIAL MENOS GRAVOSO. POSSIBILIDADE DE SUBSTITUIÇÃO POR PENA RESTRITIVA DE DIREITOS. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM NO ACÓRDÃO COMBATIDO. APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO. INCOMPETÊNCIA DESTE STJ E SUPRESSÃO DE INSTÂNCIA. VEDAÇÃO AO DIREITO DE RECORRER EM LIBERDADE. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. QUANTIDADE DO TÓXICO. CIRCUNSTÂNCIAS DO FLAGRANTE. APREENSÃO DE QUANTIA EM DINHEIRO SEM COMPROVAÇÃO DE ORIGEM LÍCITA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE SOCIAL DO AGENTE. GARANTIA DA ORDEM E SAÚDE PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE TODA A INSTRUÇÃO CRIMINAL. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. COAÇÃO ILEGAL NÃO DEMONSTRADA. WRIT NÃO CONHECIDO.
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ .. " (HC n. 347.010/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 12/4/2016).
+"PENAL. HABEAS CORPUS. LATROCÍNIO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. CITAÇÃO POR EDITAL. COMPARECIMENTO DO RÉU EM JUÍZO POR INTERMÉDIO DE DEFENSOR CONSTITUÍDO. EVENTUAL NULIDADE SANADA. ART. 570 DO CPP. ORDEM NÃO CONHECIDA.
+1. A alegada ausência de fundamentação para a decretação da prisão preventiva do paciente não foi apreciada pelo Tribunal estadual, uma vez que já havia sido examinado o writ anterior. Em vista disso, evidencia-se a incompetência desta Corte Superior para examiná-la neste habeas corpus, sob pena de indevida supressão de instância.
+ .. " (HC n. 133.743/PE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/3/2016).
+Ante o exposto, não conheço do Habeas Corpus.
+P. e I.
