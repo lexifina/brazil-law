@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado do Estado do Ceará (HC n. 0621246-34.2018.8.06.0000).
+ExtraI-se dos autos que o paciente foi preso em flagrante, em 15.2.2018, pela suposta prática dos crimes previstos nos art. 16 da Lei n. 10.826/03 e art. 2º, § 2º, da Lei n. 10.850/2013 (Posse ou porte ilegal de arma de fogo de uso restrito e organização criminosa). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão que restou assim ementado:
+HABEAS CORPUS. PENAL. PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. FLAGRANTE ILEGAL. SUPERVENIÊNCIA DE CONVERSÃO EM PRISÃO PREVENTIVA. TESE SUPERADA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PREVENTIVO. PRESENTES OS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. PERICULUM LIBERTATIS E FUMUS COMISSI DELICTI. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. PERICULOSIDADE DO PACIENTE, EVIDENCIADA PELO MODUS OPERANDI. SEGREGAÇÃO JUSTIFICADA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. ORDEM CONHECIDA E DENEGADA
+1. Alegação de eventual ilegalidade da prisão no flagrante, não merece prosperar, visto que fica superada com a conversão da prisão preventiva, novo título judicial a embasar a custódia provisória do acusado.
+2. No que tange à ausência de fundamentação do decreto preventivo, verifica-se que não merece prosperar. Do exame da decisão impugnada, percebe-se que a segregação cautelar do paciente encontra-se devidamente motivada, existindo indícios de autoria e materialidade. A prisão preventiva foi decretada para garantia da ordem pública em razão da gravidade dos crimes praticados, e da periculosidade do acusado, visto que se trata de pessoa envolvida cm organização criminosa, conhecida na região de Quixadá, "quadrilha dos pipocas", especializada em roubo a bancos, mediante a utilização de explosivos. Há também indícios de que o paciente e os corréus fazem parte de uma facção criminosa. Ressalte-se, ainda, que foram apreendidos, com o paciente e os corréus, explosivos, fuzis e munições intactas de armamento de uso restrito. Fundamentou, ainda, o referido decisum, na garantia da aplicação da lei penal, visto que não há nos autos prova de residência e emprego fixo do paciente.
+3. Portanto, entendo devidamente fundamentada a decisão que decretou a prisão preventiva do paciente, vez que claramente demonstrada a necessidade de sua segregação cautelar, sendo, portanto inviável a aplicação de medidas cautelares no presente caso. Neste sentindo, posição do STJ: "Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública." (5a T  RHC 84170/MG, Rel. Min. JOEL ILAN PACIORNIK, DJe de 28.08.2017).
+4. Ordem conhecida e denegada (fls 109/110).
+No presente writ, o impetrante alega ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal, de modo que a imposição da custódia cautelar não estaria suficientemente justificada. Assevera que o decreto prisional está pautado exclusivamente na gravidade abstrata do delito.
+Ressalta as circunstâncias pessoais favoráveis do paciente e sustenta violação ao art. 302 do Código de Processo Penal, afirmando que não havia situação de flagrância para autorizar a prisão. Destaca que o flagrante foi convertido em preventiva antes da realização da audiência de custódia.
+Invoca o princípio da presunção de inocência e aduz a inexistência de indícios suficientes de autoria.
+Requer, em liminar e no mérito, a expedição de alvará de soltura.
+Indeferido o pleito liminar (fls. 121/123) e prestadas as informações solicitadas (fls. 128/148 e 152/155), o Ministério Público Federal opinou pela denegação da ordem (fls. 157/158).
+É o relatório.
+Decido.
+O presente writ não merece processamento.
+O mandamus se insurge contra acórdão prolatado nos autos do HC n. 0621246-34.2018.8.06.0000, pelo Tribunal de Justiça do Estado do Ceará, e possui idêntico objeto ao RHC 98.538/CE, de minha relatoria, cuja pedido liminar foi indeferido em 25.5.2018, em tramitação nesta Corte. Ambos buscam revogar segregação preventiva imposta ao paciente nos autos da Ação Penal n. 27709-73.2018.8.06.0151 da 3ª Vara de Quixadá/CE.
+Nesse contexto, é inadmissível reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal, consoante se extrai dos seguintes precedentes:
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ.
+MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma.
+II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos.
+Agravo regimental desprovido (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014).
+Embora o presente habeas corpus tenha sido recebido nesta Corte em data anterior ao mencionado Recurso Ordinário, é certo que o recurso ordinário constitui a via adequada para impugnar o habeas corpus decidido na origem, razão pela qual o mérito da presente impetração será melhor analisado naquele feito.
+Diante do exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
