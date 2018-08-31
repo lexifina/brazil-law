@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO em face de acórdão que negou provimento ao apelo ministerial.
+Insurge-se o Parquet em face da decisão do Juízo de 1ª instância que rejeitou a denúncia com fundamento no art. 395, III, do CPP, sob o argumento de contrariedade com referido dispositivo legal, pois presente, na hipótese, justa causa para a ação penal.
+Sustenta que a denúncia, ainda que de maneira concisa, descreve de forma clara em que consistiu a culpa, na modalidade imprudência e negligência, do ora recorrido, na condução de seu caminhão (fl. 272).
+Requer o provimento do recurso para que recebida a denúncia da prática do delito descrito no art. 302, caput, e 303, caput, c.c. 298, V, do CTB, na forma do art. 70, primeira parte, do CP.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo não conhecimento do especial.
+É o relatório.
+Decido.
+O acórdão ora recorrido foi assim fundamentado (fls. 258/260):
+A rejeição da denúncia deve subsistir.
+Com efeito. A acusação é no sentido de que no dia 11 de junho de 2012, por volta de 07:20 horas, no viaduto 14 da Avenida Marcos Freire, Vila São Jorge, na cidade e comarca de Praia Grande, [NOME] agiu de modo imprudente e negligente ao conduzir veículo automotor de transporte de carga, placas [PLACA], razão pela qual acabou por atropelar e matar a vítima [NOME].
+Noticiam, ainda, que, nas mesmas condições objetivas de tempo e lugar já mencionadas, por conta de sua imprudência e negligência na condução de veículo automotor de transporte de carga, o denunciado causou ferimentos na vítima [NOME], à época, com 02 (dois) anos de idade.
+Concluiu a inicial acusatória que o recorrido agiu de modo imprudente e negligente ao ignorar o artigo 201, do Código de Trânsito Brasileiro, o qual se exige dos condutores de veículos distanciamento mínimo de um metro e cinquenta centímetros nas ultrapassagens de ciclistas.
+O r. Juiz "a quo", em fundamentada decisão (fls. 143/146), rejeitou a denúncia sob o fundamento da inexistência de uma das condições específicas de procedibilidade, qual seja, a falta de justa causa para o exercício da ação penal (artigo 395, III, do CPP), por entender que "o evento danoso ocorreu por culpa exclusiva da vitima, que se desequilibrou na condução de sua bicicleta e acabou caindo na frente do caminhão do acusado, que trafegava regulamente pelo local dos fatos, sendo por ele atropelada, conforme a imagem de fls. 93." (sic. fls. 144).
+Pois bem.
+A ação do recorrido não se amolda aos tipos penais descritos na exordial acusatória, pois tal como destacou o r. Juiz sentenciante "segundo as imagens (fls. 88194, em momento algum houve manobras ilegais, imperitas, imprudentes ou negligentes por parte do acusado na condução de seu veículo. Trafegava regularmente por sua mão de direção com velocidade absolutamente compatível com o local." Assim, pelo que se observa, não existem elementos suficientes que demonstrem que o recorrido tenha dado causa ao acidente. Verifica- se que o acidente ocorreu por culpa exclusiva da vítima, que carregava no guidão da bicicleta sua filha de dois anos de idade e tal como destacado na r. sentença "..é inegável que conduzir bicicleta com criança sentada no guidão é manobra extremamente imprudente e arriscada, já que impede a correta condução, gerando desequilíbrios e quedas, como aliás, ocorreu nos autos." (sic. fls. 144).
+Assim, a par dessas considerações pode-se afirmar que a ação do recorrido não se amolda aos tipos penais descritos na denúncia, tendo em vista que não descumpriu com o dever de cuidado objetivo, não tendo, pois, nenhuma responsabilidade pelo acidente ocorrido, atribuível exclusivamente à vítima.
+Posto isso, nega-se provimento ao recurso ministerial.
+Na hipótese, o Tribunal de origem, soberano na análise das provas dos autos, concluiu pela ausência de elementos suficientes a embasar o recebimento da denúncia, porquanto não demonstrada, de forma inequívoca, eventual descumprimento do dever de cuidado objetivo, assinalando, portanto, que o acusado não teve, pois, nenhuma responsabilidade pelo acidente ocorrido, atribuível exclusivamente à vítima.
+Assim, verifica-se que a pretensão recursal, tal como posta, demandaria, necessariamente, o aprofundado reexame do arcabouço fático-probatório constante dos autos, o que encontra óbice na Súmula 7 desta Corte. Confira-se:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE DIREITO AUTORAL. PLEITO CONDENATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Da mesma forma que é vedado a esta Corte Superior alterar o entendimento firmado pelas instâncias ordinárias para acolher pleito absolutório por insuficiência de provas, tampouco lhe compete reformar o acórdão recorrido para, com fundamento na suficiência probatória, condenar o increpado, tendo em vista que tal conclusão perpassaria necessariamente pelo reexame fático-probatório, providência que esbarra no óbice da Súmula 7/STJ.
+2. Agravo regimental improvido. (AgRg no AREsp 1130466/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018), com destaques.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
