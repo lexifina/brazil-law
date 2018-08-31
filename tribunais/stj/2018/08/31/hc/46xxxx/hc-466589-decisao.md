@@ -1,0 +1,20 @@
+EMENTA
+HABEAS CORPUS. FURTO SIMPLES. REGIME PRISIONAL SEMIABERTO. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PENA INFERIOR A 4 ANOS DE RECLUSÃO. INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL. REINCIDÊNCIA. SÚMULA 269/STJ. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. AUSÊNCIA DE REPERCUSSÃO NO REGIME PRISIONAL.
+Writ indeferido liminarmente.
+DECISÃO
+[NOME] foi condenado à pena de 1 ano, 4 meses e 15 dias de reclusão, inicialmente, em regime semiaberto, mais pagamento de 45 dias-multa. Isso pela prática do crime descrito no art. 155 do Código Penal (Processo n. 079.16.028788-8, da 2ª Vara Criminal da comarca de Contagem/MG).
+À Apelação n. 1.0079.16.028788-8/001, o Tribunal de Justiça de Minas Gerais negou provimento.
+Os embargos de declaração foram rejeitados, conforme esta ementa (fl. 283):
+EMBARGOS DE DECLARAÇÃO CRIMINAL. PERÍODO DE CUSTÓDIA CAUTELAR. DETRAÇÃO. MODIFICAÇÃO DO REGIME PRISIONAL. IMPOSSIBILIDADE NA ESPÉCIE. SENTENCIADO REINCIDENTE. EMBARGOS REJEITADOS.
+- Constatado que o período relativo á prisão provisória do sentenciado não autoriza modificar o regime de cumprimento de pena, por se tratar de condenado reincidente, não há falar em aplicação do disposto no art. 387, § 2o. CPP.
+Publicado o acórdão em 13/8/2018, optou a Defensoria Pública por impetrar este writ, com a seguinte pretensão (fl. 4):
+a) seja a ordem deferida em sede de liminar, suspendendo-se os efeitos do acórdão guerreado até julgamento final, expedindo-se, via de consequência, o competente alvará de soltura, para fazer cessar o constrangimento ilegal ora suportado pelo Paciente;
+b) observados os trâmites legais, seja concedido o presente habeas corpus, a fim de proceder à devida detração da pena e fixar o regime prisional aberto para o início do cumprimento da reprimenda imposta ao Paciente.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Embora seja consabido que, após o advento da Lei n. 12.736/2012, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional; e que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado (HC n. 371.065/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 25/11/2016).
+Também é de conhecimento que a jurisprudência do Superior Tribunal de Justiça diz que, mesmo em se tratando de pena inferior a 4 anos de reclusão, a condição de reincidente do réu, somada ainda à circunstância judicial negativa, não autoriza a aplicação do regime aberto. A propósito, estes julgados: HC n. 206.767/SP, Ministro Marco Aurélio Bellizze, DJe 22/9/2011; HC n. 389.122/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/5/2017; e HC n. 379.777/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/2/2017.
+No caso, o Juiz, ao calcular a pena, disse que os antecedentes do paciente não são bons, havendo nos autos certidões provando condenações anteriores além daquele que será considerada quando da análise das agravantes, para efeito de configuração da reincidência (fl. 192). E o Tribunal destacou que, mesmo após operada a detração, restando ao paciente a pena privativa de liberdade de 10 meses e 7 dias de reclusão, a eleição do cárcere semiaberto está amparada na Súmula 296/STJ.
+De fato, de acordo com nossos julgados, em casos que tais, mesmo após a efetiva detração de eventual pena cumprida de forma provisória, não há repercussão no regime, idoneamente estabelecido. Sobre o tema, confiram-se, por exemplo, estes precedentes: REsp n. 1.705.609/PR, de minha relatoria, Sexta Turma, DJe 16/4/2018; HC n. 363.440/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/10/2016; e HC n. 443.419/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/6/2018.
+Diante do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
