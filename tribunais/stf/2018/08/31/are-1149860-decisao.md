@@ -1,0 +1,13 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Salvador/BA contra acórdão que, confirmado em sede de embargos de declaração pela Sexta Turma Recursal dos Juizados Especiais da Fazenda Pública do Estado da Bahia, está assim ementado:
+    “RECURSO INOMINADO. JUIZADO ESPECIAL. FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CARREIRA DE AGENTE COMUNITÁRIO DE SAÚDE E COMBATE ÀS ENDEMIAS. SISTEMA REMUNERATÓRIO E BENEFÍCIOS DIFERENCIADOS. INCONSTITUCIONALIDADE PARCIAL DO ARTIGO 15 DA LEI 7.955/2011. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA CARACTERIZADO. AUSÊNCIA DE RAZÕES PARA O DISCRÍMEN PREVISTO NA LEGISLAÇÃO MUNICIPAL. SÚMULA VINCULANTE 37 DO STF. NÃO INCIDÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei municipal nº 7.955/2011), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.085.227/BA, Rel. Min. ROSA WEBER – ARE 1.086.597/BA, Rel. Min. MARCO AURÉLIO – ARE 1.086.618/BA, Rel. Min. EDSON FACHIN – ARE 1.089.895/BA, Rel. Min. LUIZ FUX – ARE 1.103.740/BA, Rel. Min. ALEXANDRE DE MORAES, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro CELSO DE MELLO
+Relator
