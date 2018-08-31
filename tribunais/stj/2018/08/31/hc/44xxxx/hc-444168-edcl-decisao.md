@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração defensivos contra decisão de minha relatoria, na qual não conheci do habeas corpus, contudo, ao analisar o mérito, concedi a ordem de ofício para redimensionar a pena do paciente para 9 anos e 4 meses de reclusão, mantidos os demais termos da condenação (e-STJ fls. 128/135).
+O embargante afirma que deve ser corrigida a dosimetria da pena, uma vez que, sendo oito as circunstâncias utilizadas no art. 59 e apenas uma negativada  culpabilidade , então temos que o aumento da pena-base deve ser da ordem de 1/8,  e não de 1/6 , conforme operado (e-STJ fl. 150).
+Alega, também, que há contradição na interpretação do voto quando denega a absolvição quanto ao crime do art. 35, pois afirma que o Paciente foi preso em flagrante, quando na verdade a sentença afirma que ELE NÃO FOI PRESO EM FLAGRANTE E NÃO ESTAVA NA POSSE DE NENHUMA DROGA (e-STJ fl. 150).
+Pugna, assim, pelo acolhimento dos presentes embargos, para corrigir a contradição, absolvendo-o pelo crime de associação para o tráfico e redimensionando sua pena, ante a aplicação da fração de 1/8, na primeira fase da calibragem.
+É o relatório. Decido.
+Preliminarmente, cabe esclarecer que o art. 619 do Código de Processo Penal estabelece os seguintes requisitos para a oposição de embargos declaratórios: "Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de 2 (dois) dias contado da sua publicação, quando houver, na sentença, ambiguidade, obscuridade, contradição ou omissão".
+Como se verifica pela leitura do citado dispositivo legal, os embargos de declaração demandam fundamentação vinculada à precisa demonstração, pela parte embargante, de que a decisão embargada apresenta um dos vícios expressamente alinhados na norma processual.
+No caso em tela, o que o embargante pretende, além do novo cálculo da dosimetria de sua pena, é a absolvição pelo delito de associação para o tráfico, o que não se admite nessa via recursal, porquanto, conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração (EDcl no AgRg nos EAREsp n. 97.444/MG, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, DJe 20/2/2015).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
