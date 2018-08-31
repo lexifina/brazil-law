@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. RECURSO NÃO CONHECIDO.
+1. A ausência de impugnação específica do fundamento adotado para não conhecer do recurso especial configura óbice formal intransponível ao conhecimento do recurso.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto por [NOME], nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão unipessoal desta Relatoria (e-STJ, fls. 355-362), que conheceu do agravo para não conhecer do recurso especial.
+De acordo com os autos, em 13.8.2014, o agravante foi flagrado guardando, sem autorização, 1140 g de cocaína, 297 g de maconha de 53 g de crack. Além disso, o acusado foi supreendido na posse de substâncias destinadas á preparação e produção de drogas. Em razão disso, foi denunciado pela prática dos delitos previstos nos arts. 33 e 34 da Lei n. 11.343/2006.
+Em 16.6.2015, o MM. Juízo da 2ª Vara Criminal de São Vicente/SP proferiu sentença, condenando o agravante a 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, mais 194 (cento e noventa e quatro) dias-multa, pelo crime de tráfico de drogas; além de 3 (três) anos e 6 (seis) meses de reclusão, mais 1400 (mil e quatrocentos) dias-multa pelo delito descrito no art. 34 da Lei de Drogas.
+O recurso de apelação foi parcialmente provido para absolver o acusado do crime do art. 34 da Lei n. 11.343/2006. A pena relativa ao delito de tráfico de drogas foi redimensionada, passando a 5 (cinco) anos de reclusão, além de 500 (quinhentos) dias-multa.
+A defesa, então, apresentou recurso especial, pretendendo o recálculo da sanção, aplicando-se a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 na fração mais elevada. Além disso, postulou o abrandamento do regime e a substituição da reprimenda corporal por medidas restritivas de direitos.
+O recurso não foi admitido na origem, sob o fundamento contido no enunciado n. 284 da Súmula do Supremo Tribunal Federal. O agravo em recurso especial também não obteve êxito para destrancar o recurso especial.
+Neste regimental, a defesa reforça os argumentos em favor da necessidade de redimensionamento da pena aplicada.
+Pugna, ao final, pela reconsideração da decisão agravada ou, subsidiariamente, pela apresentação do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: A insurgência é tempestiva, pois interposta aos 10.10.2017 (e-STJ fl. 369). Considerando que a Defensoria Pública de São Paulo, que patrocina o agravante, tomou ciência da decisão na data acima mencionada, o recurso foi aviado dentro do prazo estipulado no art. 258, combinado com o art. 109, § 1º, ambos do Regimento Interno do Superior Tribunal de Justiça.
+O recurso, no entanto, não reúne condições de prosperar.
+A decisão ora impugnada não conheceu do recurso especial sob os seguintes fundamentos: a) falta de prequestionamento quanto ao art. 381 do Código de Processo Penal; b) em relação à inaplicabilidade da minorante, fez-se incidir o óbice apontado pelo enunciado n. 83 da Súmula desta Corte, diante da evidente sintonia entre o que restou decidido pela Corte de origem e o entendimento jurisprudencial assentado neste Superior Tribunal de Justiça.
+As razões do regimental não esclarecem os motivos pelos quais o agravante considera inaplicáveis todos os óbices indicados na decisão monocrática.
+Em verdade, o agravo regimental se limitou a repisar os argumentos anteriormente apresentados em sede de recurso especial, sem, contudo, infirmar as teses empregadas na decisão que manteve a negativa de trânsito ao apelo nobre.
+Cumpre destacar que, ainda que se diga que a controvérsia apresentada em sede de agravo regimental cinge-se à dosimetria da pena, não foi demonstrada a inaplicabilidade do óbice sumular empregado para afastar a pretensão recursal.
+Desse modo, constata-se que este recurso não é passível de conhecimento, em razão da falta de impugnação satisfatória dos termos da decisão hostilizada, conforme o art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil de 2015, e art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça.
+Ilustrativamente:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CARÁTER INFRINGENTE. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. PRESCRIÇÃO. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Embargos de declaração opostos com caráter infringente, que devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. É inviável o agravo regimental ou interno que deixa de atacar todos os fundamentos da decisão agravada, de acordo com os arts. 932, III, e 1.021, § 1º, do Código de Processo Civil/2015 e a Súmula n. 182 desta Corte. Precedentes.
+3. Considerando que entre os marcos interruptivos não decorreu o lapso prescricional de 8 anos, não se configura a prescrição da pretensão punitiva. 4. A Terceira Seção do STJ firmou entendimento de que a decisão que confirma o juízo negativo de admissibilidade do recurso especial possui natureza declaratória e, por consequência, produz efeito ex tunc, retroagindo a formação da coisa julgada à data de escoamento do prazo para a interposição de recurso admissível (EAREsp n. 386.266/SP).
+5. Embargos de declaração recebidos como agravo regimental, ao qual não se conhece. (EDcl no AREsp 647.536/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FALTA DE PROVAS PARA CONDENAÇÃO. DESCLASSIFICAÇÃO DA CONDUTA. REEXAME DO ACERVO FÁTICO -PROBATÓRIO. RECURSO NÃO ADMITIDO. SÚMULA N. 7/STJ. NÃO IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182/STJ E DO ART. 932, INCISO III, DO CPC. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Não merece ser conhecido o agravo regimental que deixa de infirmar todos os fundamentos utilizados na decisão agravada, a teor do enunciado sumular n. 182 desta Corte.
+Agravo regimental não conhecido. (AgRg no AREsp 1004891/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/03/2017, DJe 22/03/2017)
+Na mesma linha de entendimento, cito precedente do Supremo Tribunal Federal.
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ATO DO TRIBUNAL DE CONTAS DA UNIÃO. EXCLUSÃO DE VANTAGEM ECONÔMICA CONCEDIDA POR DECISÃO JUDICIAL. AUSÊNCIA DE CÓPIA DO ATO APONTADO COMO COATOR E DA DECISÃO CONCESSIVA DA VANTAGEM. IMPOSSIBILIDADE DE VERIFICAÇÃO DOS ELEMENTOS CARACTERIZADORES DA LIQUIDEZ E CERTEZA DO DIREITO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS ARGUMENTOS DA DECISÃO AGRAVADA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. O procedimento do mandado de segurança exige, como requisito indispensável à demonstração da liquidez e certeza do direito postulado, que os fatos articulados na inicial sejam demonstrados de plano, por prova pré-constituída, o que não se verificou in casu.
+2. A ausência de impugnação específica, capaz de infirmar a decisão hostilizada, impõe o desprovimento do agravo.
+3. Agravo desprovido" (MS n. 28.943/DF AgR, Rel. Min. LUIZ FUX, PRIMEIRA TURMA, DJe de 2/10/2014).
+Diante do exposto, não conheço do agravo regimental.
+É o voto.
