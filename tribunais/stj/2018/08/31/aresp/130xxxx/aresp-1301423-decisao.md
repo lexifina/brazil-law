@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] CAMARA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS MONITÓRIOS. INADIMPLEMENTO CONTRATUAL. COMISSÃO DE PERMANÊNCIA. INCIDÊNCIA. POSSIBILIDADE. LIMITES. 1. O Superior Tribunal de Justiça, adotada a sistemática prevista no art.543-C do CPC, julgou o RESp nº 1.058.114/RS, da Relatoria da Min. NANCY ANDRIGHI, Relator p/Acórdão Min. JOÃO OTÁVIO DE NORONHA, DJe 16.11.2010, fixou várias diretrizes para os contratos bancários, dentre elas as de que "Nos contratos bancários sujeitos ao Código de Defesa do Consumidor, é válida a cláusula que institui comissão de permanência para viger após o vencimento da dívida" e "A importância cobrada a título de comissão de permanência não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja: a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC". À luz de tal entendimento, é válida a cobrança de comissão de permanência desde que limitada à incidência do encargo de 2,94% a.m, correspondente à soma dos juros remuneratórios pactuados em contrato (1,94%) e dos juros moratórios limitados a 1% a.m, não encontrando respaldo, por seu turno, a limitação da comissão de permanência à taxa CDI. 2. Apelação parcialmente provida" (e-STJ fl. 240).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos arts. 4º, V, e 44, I, da Lei Complementar nº 80/1994 e 5º, § 5º, da Lei nº 1.060/1950, ao fundamento de que deve ser reconhecida a nulidade dos atos processuais praticados desde a primeira instância porque somente tomou conhecimento do laudo pericial, da sentença e da apelação por ocasião da intimação do acórdão, oportunidade em que suscitou a nulidade por meio dos embargos de declaração.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Com efeito, as conclusões do tribunal de origem acerca da regularidade da intimação da recorrente decorreram da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+No mérito, todavia, cumpre negar provimento ao recurso. Encaminhados os autos a esta Corte, foram os mesmos incluídos em pauta de julgamento (fl. 208) e a DPU foi regularmente intimada (fl. 208-verso), ou seja, teve oportunidade, antes do julgamento, para arguir qualquer irregularidade até então verificada, no entanto, quedou-se inerte" (e-STJ fl. 267).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois não houve na sentença (fls. 206/208 e-STJ) ou nos acórdãos recorridos (fls. 233/241 e 265/269 e-STJ) prévia fixação de honorários.
+Publique-se.
+Intimem-se.
