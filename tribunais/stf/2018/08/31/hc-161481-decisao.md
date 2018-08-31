@@ -1,0 +1,46 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Gilmar Cavalcante Paula, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que proveu parcialmente o agravo regimental no HC nº 409.275/RO, Relator Ministro Nefi Cordeiro.
+    O impetrante sustenta, em síntese, que o Superior Tribunal de Justiça teria fixado, à míngua de fundamentação idônea, o regime inicialmente fechado para o cumprimento da pena de 8 (oito) anos de reclusão, imposta ao paciente pelo delito do art. 121, § 2º, I e IV, c/c arts. 14, II, e 29 do Código Penal.
+    Nesse contexto, argumenta que
+    “entendeu o eg. STJ por impor ao Paciente o cumprimento de sua pena no regime inicial fechado, o que o fez com fundamento no §3º, do art. 33, do CP, que dispõe: ‘A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.’
+    Ocorre, no entanto, que a aplicação da aludida regra culminou em reformatio in pejus em desfavor do Paciente, já que a sentença condenatória proferida em seu desfavor e o v. acórdão da sua apelação JAMAIS indicaram a incidência de aludida regra no caso concreto.
+    (…)
+    Com a redução da pena do Paciente, a justificativa legal e jurídica (art. 33, §2º, a, do CP) apresentada pelas instâncias ordinárias para a fixação da pena em regime fechado desapareceu por completo. Porém, o afastamento da aludida justificativa, não autorizava uma oficiosa complementação do decisum pelo eg. STJ, notadamente para agregar ao seu conteúdo um dispositivo que daquela jamais constou, qual seja, o art. 33, §3º, do CP.” (grifos do autor).
+    Afirma, de outra parte, que
+    “o reconhecimento da circunstância judicial referente ao comportamento da vítima como sendo favorável ao Paciente, efetivamente deve implicar na redução da sua pena-base, até porque não haveria outra forma de se aplicar em favor do sentenciado o reconhecimento de uma circunstância positiva, notadamente porque, permanecendo a pena sem o devido decote, a interpretação seria neutra.
+    (…)
+    Assim, com a compensação das aludidas circunstâncias, deve a pena-base ficar estabelecida no mínimo legal, afastando-se, pois, a possibilidade de manutenção do regime prisional mais severo imposto ao Paciente”.
+    Requer-se o deferimento da liminar “para impedir a execução provisória da ILEGAL pena imposta ao Paciente, até o julgamento final do presente mandamus”(grifos dos autores).
+    No mérito, pleiteia a concessão da ordem
+    “d. 1) Afastar o regime de pena mais gravoso imposto ao Paciente, reconhecendo que o eg. STJ incorreu em reformatio in pejus, uma vez que, sem qualquer motivação concreta e de ofício, aplicou em desfavor do sentenciado novo fundamento legal e jurídico que não constava da sentença de primeiro grau;
+    d. 2) Caso não se entenda pelo afastamento do regime mais rigoroso de pena imposto ao Paciente, a fim de evitar-se a supressão das instâncias menores e em nome do devido processo legal, que seja afastada a sua imposição automática e de ofício pelo eg. STJ, determinando-se que o juízo ordinário realize precisa e fundamentada análise acerca da necessidade de imposição de regime mais severo ao caso;
+    d. 3) Reduzir a pena-base aplicada em desfavor do Paciente, fixando-a no mínimo legal, haja vista que a r. sentença de primeira instância, o TJRO, bem assim o próprio STJ, reconheceram expressamente que a ‘vítima contribuiu para a prática do crime’;” (grifos dos autores);
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto questionado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. HOMICÍDIO QUALIFICADO. DOSIMETRIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. OCORRÊNCIA. UTILIZADA PARA EMBASAR A CONDENAÇÃO. INCIDÊNCIA. SÚMULA 545/STJ. PENA-BASE. COMPENSAÇÃO DA CIRCUNSTÂNCIA JUDICIAL ATINENTE AO COMPORTAMENTO DA VÍTIMA COM AS CIRCUNSTÂNCIAS DO DELITO. IMPOSSIBILIDADE. COMPORTAMENTO DA VÍTIMA VALORADO POSITIVAMENTE. INVIABILIDADE DE EFETIVA REDUÇÃO DA PENA-BASE. FRAÇÃO DA TENTATIVA. QUANTUM DE 1/3 JUSTIFICADO. ALTERAÇÃO INVIÁVEL. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+    1. Evidencia-se que a sedimentada orientação desta Corte é firme no sentido de que não é cabível sustentação oral no julgamento de agravo regimental, em observância, notadamente, aos arts. 159, IV, e 258, ambos do RISTJ.
+    2. Devida a incidência da atenuante da confissão espontânea, prevista no art. 65, III, d, do Código Penal, nos casos em que tenha embasado a condenação do réu, conforme determina a Súmula 545/STJ.3. A circunstância judicial referente ao comportamento da vítima deve ser valorada de maneira neutra ou positiva pelo magistrado ao proceder a dosimetria da pena. Entretanto, reconhecidas outras circunstâncias judiciais negativas, tal como as circunstâncias do delito, não há falar em efetiva redução da sanção inicial, uma vez que a pena-base parte do termo mínimo e não do termo médio.
+    4. A alteração do julgado, para se concluir de modo diverso quanto ao iter criminis percorrido considerado pelo Tribunal de origem e, consequentemente, determinar qual seria a fração adequada a aplicar pela tentativa, necessitaria do revolvimento de fatos e provas dos autos, o que é vedado na via do habeas corpus.
+    5. Agravo regimental parcialmente provido para reconhecer a atenuante da confissão espontânea.” (anexo 7).
+    Pelo que há no julgado proferido pela Sexta Turma do Superior Tribunal de Justiça, não se vislumbra ilegalidade flagrante, abuso de poder ou teratologia que justifique a concessão da ordem. Pelo contrário, a decisão em questão encontra-se suficientemente fundamentada, estado justificado o convencimento formado.
+    Conforme visto, o STJ deu parcial provimento ao recurso do ora paciente para reconhecer a atenuante da confissão espontânea, culminado em nova dosimetria da pena nos seguintes termos:
+    “Fixou-se a pena-base em 13 anos de reclusão, a qual, reconhecida a atenuante da confissão espontânea, reduz-se ao mínimo legal, em respeito à Súmula 231/STJ. Por fim, aplica-se a fração de 1/3 referente à tentativa, restando a reprimenda final em 8 anos de reclusão.
+    Mantém-se o regime inicial fechado, não obstante a redução da penal final a 8 anos de reclusão, em razão da fixação da pena-base acima do mínimo legal, pela existência de circunstância judicial desfavorável, nos termos do art. 33, § 3º, do CP.” (anexo 8).
+    Esse entendimento vai ao encontro da jurisprudência da Corte, segundo ao qual,
+    “as circunstâncias judiciais elencadas no artigo 59 do Código Penal, quando desfavoráveis, autorizam a fixação da pena-base em patamar acima do mínimo legal, bem como fixação do regime prisional (...) mais gravoso” (HC nº 140.816/SP-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 20/6/17).
+    Perfilhando esse entendimento:
+    “[H]avendo a indicação de circunstâncias judiciais desfavoráveis pelas instâncias ordinárias, não é o habeas corpus a via adequada para ponderar, em concreto, a suficiência delas para a majoração da pena-base” (HC nº 92.956/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 25/4/08).
+    No mesmo sentido o RHC nº 122.870/AL, Segunda Turma, de minha relatoria, DJe de 24/11/16.
+    Anote-se, de outra parte, as precisas palavras do Ministro Marco Aurélio, quando afirma que “[a] dosimetria da pena envolve, de regra, o justo ou injusto, não cabendo presumir ilegalidade” (HC nº 135.356/SP, Primeira Turma, DJe de 30/8/18)
+    De qualquer modo, deve-se ficar registrado que “não se presta o habeas corpus para ponderar, em concreto, a suficiência das circunstâncias judiciais invocadas pelas instâncias antecedentes para a majoração da pena-base.” (HC nº 120.285/MS, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 14/2/14)
+    Perfilhando esse entendimento: RHC nº 114.742/DF, Primeira Turma, de minha relatoria, DJe 8/11/12; HC nº 116.568/DF, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 12/9/13; e HC nº 86.568/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 10/2/06, entre outros.
+    Ademais, segundo a jurisprudência da Corte “não há reformatio in pejus na sentença penal condenatória que, ao manter a pena definitiva anteriormente fixada, não agrava a pena aplicada na sentença anulada nem piora a situação dos Pacientes.” (HC nº 113.512/MT, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/12/13)
+    De outra parte, este Supremo Tribunal já decidiu que
+    “o efeito devolutivo da apelação, ainda que em recurso exclusivo da defesa, ‘autoriza o Tribunal a rever os critérios de individualização definidos na sentença penal condenatória para manter ou reduzir a pena, limitado tão-somente pelo teor da acusação e pela prova produzida’ (HC nº 106.113/MT, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/2/12)” (RHC nº 135.524/MG, Segunda Turma, de minha relatoria, DJe de 28/9/16)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
