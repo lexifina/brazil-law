@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VINICIOS DE OLIVEIRA RIOS e outro à decisão que negou provimento a seu recurso especial.
+Em suas razões, os embargantes apontam omissão no julgado quanto à distribuição da sucumbência.
+Impugnação da parte embargada às fls. 963/968.
+É o relatório.
+Nos termos do art. 1.022 do CPC/15, é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Deve ser suprida a omissão apontada.
+Em seu recurso especial, a parte embargante, apontado dissídio jurisprudencial, pleiteou o afastamento da sucumbência recíproca, ao argumento de que "esta Corte estabeleceu o entendimento de que a sucumbência sobre o valor da condenação reduzida em relação ao pedido original já satisfaz a exigência legal de com compensação, pois quanto maior o valor, maior a verba honorária e, por outro lado, diminuída a indenização obviamente o montante destinado ao advogado também diminuirá" (fl. 754).
+Para a caracterização da divergência jurisprudencial, devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados. É imprescindível que exista similitude fático-jurídica entre os julgados em comparação. Por sua vez, a aludida similitude exige que o acórdão recorrido e o paradigma possuam situação fáticas semelhantes e tenham sido julgados com fundamento nos mesmos dispositivos legais de lei federal. Ademais, o recorrente deve apontar o artigo de lei federal em torno do qual teria se dado a divergência jurisprudencial. A propósito: AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17.3.2014; AREsp 467.621/SC, rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe, 13.5.2014; AgInt no AREsp 675.273/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe. 14.3.2017.
+Na espécie, não foi demonstrada a similitude entre os arestos confrontados.
+A propósito, o tribunal a quo reconheceu a concorrência de causas para o evento danoso e, "considerando o decaimento de parte substancial do pedido" (fl. 724), fixou a sucumbência recíproca. Tal circunstância não foi evidenciada no acórdão paradigma, o que já evidencia a ausência de similitude entre os arestos e, portanto, de divergência jurisprudencial.
+Como quer que seja, segundo entendimento desta Corte, "a concorrência de causas impõe a redução da indenização e a distribuição do ônus da sucumbência entre as partes litigantes" (AgRg no AREsp 681.724/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe, 23.5.2016). No mesmo sentido: AgRg no AREsp 356.103/GO, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta turma, DJe, 10.9.2013.
+Ante o exposto, acolho os embargos de declaração, apenas para sanar a omissão, sem efeitos infringentes.
+Publique-se.
