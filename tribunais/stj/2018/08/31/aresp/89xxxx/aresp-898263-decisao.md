@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA HABITACIONAL ALIANÇA PAULISTA em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COOPERATIVA HABITACIONAL - AÇÃO DE RESCISÃO CONTRATUAL C.C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS.
+1. Justiça gratuita. Benefício indeferido na sentença - Interposição de agravo retido - Recurso inapropriado - Matéria deduzida nas razões de apelação - Cooperativa que não comprova situação de incapacidade financeira - Indeferimento do benefício mantido - Agravo retido não conhecido.
+2. Cooperativa habitacional que atua no mercado imobiliário tal como as incorporadoras e construtoras - Adesão da associada visando a aquisição de imóvel residencial - Relação de consumo caracterizada - Submissão da cooperativa às normas do Código de Defesa do Consumidor - Associada que paga as mensalidades e não recebe a unidade adquirida - Indeterminação do prazo de conclusão do empreendimento habitacional - Empreendimento não concluído e em situação irregular - Inexistência de prova em contrário - Descumprimento de dever primário da cooperativa habitacional - Restituição imediata e de uma só vez (Súmula nº 2 do TJSP) da totalidade das quantias pagas pela associada.
+RECURSO DESPROVIDO." (e-STJ, fl. 231)
+Nas razões do recurso especial, a recorrente aponta existência de divergência jurisprudencial a respeito da possibilidade de reter 25% do valor pago pelos associados que se desligam da cooperativa.
+Contrarrazões às fls. 265/285.
+É o relatório. Passo a decidir.
+Impossível conhecer do especial interposto com fundamento na alínea "c" do artigo 105, III, da Constituição Federal, porquanto, mesmo nesses casos, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, sob pena de atração do Enunciado Sumular n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente). Nesse sentido, ganham relevância os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - DELIBERAÇÃO MONOCRÁTICA QUE RECONSIDEROU DECISÃO ANTERIORMENTE PROFERIDA, PARA CONHECER DO RECLAMO A FIM DE NEGAR SEGUIMENTO AO RECURSO ESPECIAL, ANTE A INCIDÊNCIA DA SÚMULA 284/STF. INSURGÊNCIA DOS DEMANDADOS.
+1. Nos termos do art. 52, I e IV, "a" do RISTJ, não há nulidade no exercício do juízo de retratação pelo novo relator, quando do julgamento de agravo regimental. Precedentes.
+2. A ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+3. Agravo regimental desprovido (AgRg no AgRg no Ag 1155444/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
