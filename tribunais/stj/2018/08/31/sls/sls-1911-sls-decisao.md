@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Por intermédio da petição de fls. 3-18 do expediente avulso, a Requerente pugna pela "REVOGAÇÃO da medida de contracautela deferida nos autos da SLS 1911/DF" (fl. 18).
+Todavia, o pedido não pode ser analisado pela Presidência do Superior Tribunal de Justiça, pois na hipótese já foi proferido juízo de admissibilidade do recurso extraordinário interposto contra o acórdão da Corte Especial que manteve a decisão suspensiva proferida pelo então Presidente do STJ, Ministro Felix Fischer.
+A propósito, cito o seguinte precedente, mutatis mutandis:
+"AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE NÃO ADMITIU RECURSO ORDINÁRIO. DECISÃO QUE DEVE SER IMPUGNADA POR INTERMÉDIO DE AGRAVO DE INSTRUMENTO. ART. 313, INCISO II, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. REGRA RECEPCIONADA PELA CONSTITUIÇÃO DE 1988 COM HIERARQUIA DE LEI ORDINÁRIA. MATÉRIA NÃO REGULADA EXPRESSA OU TACITAMENTE NO CÓDIGO DE PROCESSO CIVIL DE 2015. ESGOTAMENTO DA JURISDIÇÃO DO STJ. INADEQUAÇÃO DE RECURSO DIRIGIDO A ÓRGÃO JURISDICIONAL DESTA CORTE. CABIMENTO TÃO SOMENTE DE RECURSO AO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 313, inciso II, do Regimento Interno do Supremo Tribunal Federal, cabe agravo de instrumento de ato de Presidente (ou Vice-Presidente) de Tribunal que não admitir recurso de competência do Supremo Tribunal Federal. Por isso, a decisão que não admite ou nega seguimento ao recurso ordinário dirigido ao Pretório Excelso deve ser impugnada por agravo de instrumento, e não agravo interno.
+2. Tal regra foi recepcionada pela ordem constitucional com status de lei ordinária por ter sido editada antes da promulgação da Carta de 1988 (vide, mutatis mutandis, AP 470/MG AgR-vigésimo sexto, Rel.
+Min. JOAQUIM BARBOSA, Rel. p/ Acórdão: Min. ROBERTO BARROSO, STF, Tribunal Pleno, julgado em 18/09/2013, DJe de 14/02/2014) e não foi revogada pelo Código de Processo Civil de 2015, que deixou de regular expressa ou tacitamente a matéria.
+3. Deve ser reafirmado, sob a vigência do Código de Processo Civil de 2015, o entendimento de que, após a realização do juízo de admissibilidade do recurso ordinário, encerra-se a atividade jurisdicional do Superior Tribunal de Justiça. Dessa forma, não é cabível recurso dirigido a Órgão Colegiado desta Corte, mas tão somente recurso ao Supremo Tribunal Federal.
+4. Agravo interno não conhecido." (STJ, AgRg no RO nos EDcl no AgRg no AREsp 502.411/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/8/2016, DJe 9/9/2016 - grifei.)
+Ante o exposto, NÃO CONHEÇO do pedido de fls. 3-18.
+Publique-se. Intimem-se.
