@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “IMPROBIDADE. Marília. Merenda escolar. Indisponibilidade de bens. Previdência privada. Bloqueio – 1. Indisponibilidade. Extensão. O juiz pode incluir ou excluir bens na indisponibilidade, conforme a realidade de cada um e o propósito de constituição da garantia. - 2. Previdência privada. Indisponibilidade. O valor depositado em previdência privada constitui aplicação financeira de longo prazo, de relevante natureza de poupança previdenciária, porém suscetível de penhora. O mesmo sucede com valores em caderneta de poupança e outras aplicações e investimentos que perdem a natureza alimentar, ainda que oriundos de salário, e se convertem em investimento. - Agravo desprovido”.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação do artigo 5º, incisos LIV e LV, da Constituição Federal.
+    Opina o Ministério Público Federal, em parecer da lavra do ilustrado Subprocurador-Geral da República Dr. Carlos Alberto Vilhena, pelo desprovimento do agravo. O referido parecer ficou assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA VIOLAÇÃO AO ARTIGO 5º, INCISOS LIV E LV, DA CONSTITUIÇÃO FEDERAL.
+    AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. EXTENSÃO. PREVIDÊNCIA PRIVADA. PROCEDÊNCIA. AGRAVO DE INSTRUMENTO DESPROVIDO. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+    REQUESTIONAMENTO. AUSÊNCIA. NECESSIDADE DE O TEMA CONSTITUCIONAL TER SIDO ABERTAMENTE DEBATIDO NA INSTÂNCIA ANTERIOR. SITUAÇÃO INOCORRENTE.
+    SÚMULAS 282 E 356 DO STF. IMPOSSIBILIDADE DE ANÁLISE DE NORMA INFRACONSTITUCIONAL APLICÁVEL À ESPÉCIE (LEI 13.105/15 E LEI 8.213/91) E DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 279/STF). MANIFESTAÇÃO PELO CONHECIMENTO E DESPROVIMENTO DO AGRAVO PARA SEQUER CONHECER DO RECURSO EXTRAORDINÁRIO.”
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “Agravo regimental em agravo de instrumento. 2. Prequestionamento. Ausência. Embargos de declaração que não trataram da matéria constitucional. Súmulas 282 e 356 do STF. 3. Ofensa aos princípios da legalidade e da prestação jurisdicional. Análise da legislação infraconstitucional. Precedente. 4. Revisão de cláusula contratual. Ofensa reflexa. Precedente. 5. Agravo regimental a que se nega provimento” (AI nº 551.533/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 3/3/06).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ressalte-se, por fim, que superar a conclusão do Tribunal de origem demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
