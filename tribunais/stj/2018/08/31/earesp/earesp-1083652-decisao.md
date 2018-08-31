@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, na hipótese em análise, o Tribunal de origem, com apoio nas provas dos autos, ressaltou que "os documentos apresentados não são suficientes para comprovar o preenchimento do prazo estabelecido em lei e os depoimentos testemunhais apresentam-se vagos" (e-STJ fl. 271).
+Destaco do corpo do julgado essa passagem (e-STJ fl. 271):
+Decidiu-se que os documentos apresentados e os depoimentos testemunhais não comprovaram o exercício de atividade rural pelo período previsto legalmente:
+"Entretanto, em que pese tal linha de entendimento, no feito em pauta a parte Autora não logrou comprovar o efetivo exercício laborativo no campo, nos moldes impostos pela legislação previdenciária.
+No caso, os documentos apresentados não são suficientes para comprovar o preenchimento do prazo estabelecido em lei e os depoimentos testemunhais apresentam-se vagos.
+Ademais, em consulta ao Cadastro Nacional de Informações Sociais - CNIS - é possível verificar que o marido da Autora exerceu atividade urbana. Assim, com a informação trazida pelo CNIS, o início de prova material apresentado encontra-se esmaecido."
+Quanto às informações trazidas pelo CNIS, verifica-se que o trabalho urbano não foi executado momentaneamente, mas durou por período razoável e suficiente para destruir a presunção de participação da mulher no regime de economia familiar.
+A alteração dessas conclusões do julgado demandaria o reexame do material fático-probatório dos autos, inviável em sede de recurso especial diante da vedação contida na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. CARÊNCIA. NÃO COMPROVAÇÃO DO LABOR NO PERÍODO IMEDIATAMENTE ANTERIOR AO REQUERIMENTO. INÍCIO DE PROVA MATERIAL AMPLIADO POR TESTEMUNHAL. INSUFICIÊNCIA. SÚMULA 7 DO STJ.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Nos termos dos arts. 48, § 1º, 55, § 3º, e 143 da Lei n.
+8.213/1991, é devida a aposentadoria por idade ao trabalhador rural que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que esteja demonstrado o exercício de atividade agrícola, por um início de prova material, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência.
+3. Na esteira do REsp n. 1.348.633/SP, da Primeira Seção, para efeito de reconhecimento do labor agrícola, mostra-se desnecessário que o início de prova material seja contemporâneo a todo o período de carência exigido, desde que a eficácia daquele seja ampliada por prova testemunhal idônea.
+4. Caso em que a instância ordinária concluiu pela insuficiência das provas colhidas, porquanto subsistiram dúvidas acerca da alegada atividade rural, cuja inversão do julgado esbarra no óbice do verbete sumular 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 938.333/MS, de minha relatoria, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 07/02/2018).
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. NÃO COMPROVAÇÃO DA ATIVIDADE RURAL. PROVA TESTEMUNHAL FRÁGIL. REVISÃO. IMPOSSIBILIDADE. PRETENSÃO DE REEXAME DE PROVA. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Havendo o Tribunal de origem, com base no acervo fático-probatório dos autos, entendido que, apesar da documentação apresentada, a prova testemunhal se mostrou frágil à comprovação do trabalho rural no período ora questionado, a inversão do julgado implicaria, necessariamente, no reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ. Precedentes: REsp 1693642/SP, Rel.
+Ministro Herman Benjamin, Segunda Turma, julgado em 10/10/2017, DJe 23/10/2017; REsp 1696965/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/10/2017, DJe 16/10/2017; AgInt no AREsp 1002227/PA, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 13/6/2017, DJe 27/06/2017.
+II - Agravo interno improvido.
+(AgInt no AREsp 1.068.283/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/03/2018, DJe 21/03/2018).
+Impende acrescentar que não cabe o apelo nobre, mesmo pela alínea "c" do permissivo constitucional, quando o exame da questão demandar o revolvimento do conjunto fático-probatório acostado aos autos, porquanto o citado recurso é admitido apenas para a análise de questões atinentes à interpretação de normas infraconstitucionais.
+Ilustrativamente:
+PROCESSUAL CIVIL. SÚMULA 106/STJ. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. VEDADA ANÁLISE NO ÂMBITO DO STJ. AUSÊNCIA DE INDICAÇÃO DA NORMA VIOLADA. APLICAÇÃO. ANALOGIA. SÚMULA 284/STF. SÚMULA 106/STJ. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+ ..
+3. Descabe examinar a tese defendida no Recurso Especial - incidência da Súmula 106/STJ ao caso dos autos - porque necessário o revolvimento de matéria fático-probatória. Aplicação da Súmula 7/STJ.
+4. O STJ tem entendimento de que "a incidência da referida Súmula 7 impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 866.679/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 26/4/2016, DJe 2/5/2016).
+5. Agravo Interno não provido (AgInt no AREsp 877.761/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/10/2016, DJe 28/10/2016).
+Registro, por oportuno, que o marco inicial de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do antigo Codex Processual. Assim, nos termos do Enunciado Administrativo n. 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Por fim, não haverá arbitramento de honorários recursais, por tratar de recurso interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
