@@ -1,0 +1,27 @@
+DECISÃO
+ED CARLOS SEVERINO DA SILVA alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1.167.071/0.).
+O paciente, reincidente, foi condenado a 6 anos, 2 meses e 20 dias de reclusão, por incursão no art. 157, § 2º, I e II, do CP. O impetrante sustenta a fragilidade do conjunto probatório e a falta de fundamentação para fixação do regime inicial fechado.
+Requer, em liminar, a absolvição ou a alteração do regime.
+Indeferida a liminar (fls. 61-62) e dispensadas as informações, veio parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ (fls. 66-68).
+Decido.
+No caso, a Corte de origem confirmou os termos da sentença condenatória e entendeu devidamente comprovada a autoria do agravante, pois "o conjunto da prova, informado pela palavra do ofendido,  ..  a confirmar haver reconhecido pessoalmente o roubador na Delegacia, em data mais próxima à do fato, e, ainda, pela apreensão de um dos documentos pessoais subtraídos na posse do ora apelante e pela veiculação de versões antagônicas, nas duas fases do procedimento para justificar tal apreensão, traduzia substrato suficiente à solução condenatória" (fl. 35).
+Especificamente sobre o reconhecimento do réu, ficou registrado que a hesitação na tentativa de recognição em Juízo pode ser justificada pelo decurso do tempo, eis que "o ofendido deixou claro que, com inteira segurança, identificou o réu como um dos roubadores, na polícia, em data mais próxima à do delito" (fl. 34).
+Assim, para se infirmar conclusão das instâncias ordinárias, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória, como no caso.
+Ilustrativamente:
+ ..
+2. A via estreita do habeas corpus não se presta ao revolvimento da matéria fática, como ocorre quando a decisão é atacada sob alegações de má apreciação das provas e de desclassificação da conduta, devendo a coação ser manifestamente ilegal.
+3. Estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, sendo primário o agente e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33 do Código Penal.
+4. Habeas corpus não conhecido, mas ordem concedida de ofício para fixar o regime inicialmente semiaberto para o cumprimento da pena reclusiva.
+(HC n. 270.011/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 22/4/2016, destaquei).
+O Juiz de primeiro grau fixou o regime fechado "por força de sua reincidência em crime doloso" (fl. 28). A Corte estadual confirmou o regime mais gravoso, "à vista da qualificação subjetiva de reincidente do sentenciado, em cotejo com a quantidade de sanção corporal imposta" (fl. 36).
+Quanto à pretensão de fixação do regime mais brando, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Não há ilegalidade na fixação do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, a reincidência do paciente, com condenação anterior definitiva por idêntico crime de roubo (fl. 27) -, ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP).
+Ilustrativamente:
+ ..
+8. No caso concreto, o juiz de primeira instância - no que foi ratificado pela Corte de origem - fundamentou idoneamente a fixação do regime inicial fechado, visto que apontou circunstância concreta apta a indicar a maior reprovabilidade da conduta do paciente, qual seja, a reiteração delitiva e a reincidência.
+9. Ordem não conhecida. Habeas corpus concedido, de ofício, para reduzir em parte a pena-base do paciente, bem como para reduzir para 1/3 o aumento de pena procedido na terceira etapa da dosimetria, para tornar a reprimenda do paciente definitiva em 6 anos, 8 meses e 26 dias, mantido o regime fechado, mais 16 dias-multa. (HC 269.634/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 20/6/2014, destaquei.)
+Não se trata, portanto, de caso em que a simples gravidade abstrata do delito cometido é utilizada como fundamentação para a imposição de regime prisional mais gravoso do que o permitido em razão da sanção aplicada, em violação dos enunciados das Súmulas n. 440 do STJ, 718 e 719 do STF, como alegado pela defesa.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
