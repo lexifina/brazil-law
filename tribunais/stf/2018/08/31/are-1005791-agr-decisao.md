@@ -1,0 +1,29 @@
+Trata-se de agravo regimental interposto contra decisão que deu provimento ao recurso extraordinário com agravo, sob o argumento de que os dispositivos constitucionais suscitados no apelo extremo não teriam sido prequestionados (doc. eletrônico 12).
+    A parte agravante sustenta, em suma, que a matéria constitucional vem sendo debatida desde a apelação, tendo sido analisada no acórdão recorrido (doc. eletrônico 14).
+    O Ministério Público do Estado do Rio de Janeiro, nas contrarrazões, manifesta-se pelo desprovimento do regimental (doc. Eletrônico 19).
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico assistir razão à parte agravante, motivo pelo qual reconsidero a decisão anteriormente proferida (doc. Eletrônico 12), para analisar novamente o apelo extremo.
+    Trata-se de recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “EMENTA – APELAÇÃO CRIMINAL. PECULATO (ART. 312, § 1.º, DO CÓDIGO PENAL). RECORRENTE, FUNCIONÁRIO DO DETRAN, LOTADO NA DIVISÃO DE TRANSPORTES, EXERCENDO A FUNÇÃO DE MOTORISTA EM OPERAÇÕES DE FISCALIZAÇÃO DA LEI SECA, QUE, CONSCIENTE E VOLUNTARIAMENTE, SUBTRAIU, PARA SI, CINCO PNEUS PERTENCENTES ÀS VIATURAS ESTACIONADAS NA GARAGEM DO DETRAN, SENDO O FURTO DOS PNEUS CONSTATADO NO DIA SEGUINTE, PELO MECÂNICO DA OFICINA.
+    PRETENSÃO DEFENSIVA À ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS QUE SE NEGA. PROVA SEGURA E INQUESTIONÁVEL QUANTO À AUTORIA E AO CRIME, ESPECIALMENTE PELO REGISTRO DE OCORRÊNCIA E ADITAMENTO (FLS. 03/09), AUTO DE APREENSÃO ENTREGA (FLS. 21/22), BEM COMO PELA AFIRMAÇÃO DO PRÓPRIO RÉU, NO SENTIDO DE TER ENTREGUE OS CINCO PNEUS NA 25.ª DELEGACIA DE POLÍCIA (FLS. 101/103), ALÉM DA ESCLARECEDORA PROVA ORAL COLHIDA.
+    AFASTAMENTO DA PERDA DO CARGO PÚBLICO IMPOSSÍVEL. A PERDA DO CARGO, APÓS O TRÂNSITO EM JULGADO DA DECISÃO, É CONSEQUÊNCIA DA CONDENAÇÃO. APLICAÇÃO DO ART. 92, I, “B”, DO CÓDIGO PENAL. ABSOLUTA INCOMPATIBILIDADE DO EXERCÍCIO DE FUNÇÃO PÚBLICA POR PARTE DO AGENTE, PORQUANTO, APROVEITANDO-SE DE SEU CARGO, INGRESSOU NA GARAGEM DO DETRAN E SUBTRAIU DO SEU INTERIOR PNEUS PERTENCENTES ÀS VIATURAS ALI ESTACIONADAS, SENDO QUE SUA DECRETAÇÃO SE MOSTRA DEVIDAMENTE JUSTIFICADA E FUNDAMENTADA.
+    AUSÊNCIA DE VIOLAÇÃO À NORMA CONSTITUCIONAL E INFRACONSTITUCIONAL.
+    DESPROVIMENTO DO RECURSO” (págs. 21-22 do doc. eletrônico 3).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação dos arts. 1°, III; e, 5°, LV, da mesma Carta. Aponta-se a falta de provas para a condenação e afirma-se que a perda do cargo público, no caso, ofende o princípio da dignidade da pessoa humana.
+    A pretensão recursal não merece acolhida.
+    Colho do acórdão recorrido os seguintes trechos:
+    “A autoria e o crime restaram sobejamente comprovados, especialmente pelo registro de ocorrência e aditamento (fls. 03/09), auto de apreensão e entrega (fls. 21/22), bem como pela afirmação do próprio réu, no sentido de que entregou os cinco pneus na 25.ª DP (fls. 101/103), além da esclarecedora prova oral colhida de funcionários do próprio DETRAN.
+    [...]
+    Com facilidade percebe-se que os depoimentos das testemunhas acima, embora não presenciais no momento do furto, constituem sólido conjunto probatório apto a embasar um decreto condenatório, não havendo que se falar em absolvição por fragilidade probatória
+    O pedido alternativo, de afastamento da pena de perda do cargo público, também não pode prosperar.
+    Consigne-se, inicialmente, que o mesmo não padece de ausência de motivação, nem é exagerado e desproporcional, como afirma a defesa. Ao reverso, sua decretação encontra-se devidamente justificada e fundamentada, observados os ditames do art. 93, IX, da Carta Magna.
+    Nesta seara, considerou o douto sentenciante que a perda do cargo público foi declarada porque inconteste a absoluta incompatibilidade do exercício de função pública por parte do agente, porquanto, aproveitando-se de seu cargo, ingressou na garagem do DETRAN e subtraiu do seu interior pneus pertencentes às viaturas ali estacionadas.
+    Ademais, a perda do cargo público, a ser efetivada após o trânsito em julgado da decisão, em hipóteses como a dos autos, é imposição legal, pois consequência da condenação, na forma do art. 92, I, “b”, do Código Penal, especialmente diante da absoluta incompatibilidade do atuar do réu com a função pública que exercia” (págs. 24-32 do doc. eletrônico 3).
+    Como se pode notar, o Tribunal de origem decidiu as questões postas nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código Penal), bem como no conjunto fático-probatório constante dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo, além de incidir, na espécie, a Súmula 279/STF, o que inviabiliza o extraordinário.
+    Por fim, registro que este Supremo Tribunal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660). Confira-se a ementa do leading case:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (ARE 748.371-RG/MT, Rel. Min. Gilmar Mendes).
+     Isso posto, reconsidero a decisão integrante do volume eletrônico 12 e nego seguimento ao recurso extraordinário interposto por Ronaldo Silva de Oliveira (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
