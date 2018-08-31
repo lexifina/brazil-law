@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE REPETIÇÃO DE INDÉBITO. CONTRATO BANCÁRIO. ART. 535 DO CPC/73. OMISSÃO QUANTO À ANÁLISE DE TEMA RELEVANTE PARA A LIDE. INOCORRÊNCIA. COBRANÇA DE TARIFA DE SERVIÇO DE TERCEIROS. ABUSIVIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. DESCABIMENTO. PRECEDENTES. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Consta dos autos que [NOME] ([NOME] propôs ação de repetição de indébito contra o BANCO FINASA BMC BMC S.A., atualmente denominado BANCO BRADESCO FINANCIAMENTOS S.A. (BANCO).
+O juízo de piso julgou a ação procedente para determinar a devolução em dobro do valor referente à "Despesas Serviços de Terceiros", que, em dobro, é R$ 1.013,72 (um mil e treze reais e setenta e dois centavos), totalizando a condenação a importância de R$ 2.027,44 (dois mil e vinte e sete reais e quarenta e quatro centavos), acrescido de juros de 1% ao mês a contar da citação válida, além de correção monetária (e-STJ, fls. 78/87).
+O Tribunal a quo negou provimento ao recurso de apelação interposto pelo BANCO em acórdão que recebeu a seguinte ementa
+APELAÇÃO CÍVEL - AÇÃO DE REPETIÇÃO DE INDÉBITO - MITIGAÇÃO DO PRINCÍPIO DA FORÇA OBRIGATÓRIA DOS CONTRATOS - APLICAÇÃO DOS DITAMES DO CDC - PRINCÍPIO DA FUNÇÃO SOCIAL DOS CONTRATOS - TARIFAS QUE REPRESENTAM OS CUSTOS ADMINISTRATIVOS DA ATIVIDADE FINANCEIRA - ABUSIVIDADE - RESTITUIÇÃO DE VALORES PAGOS - DEVOLUÇÃO EM DOBRO - APELO DESPROVIDO - SENTENÇA PRESERVADA - DECISÃO UNÂNIME (e-STJ, fl. 159).
+Os embargos de declaração opostos pelo BANCO foram rejeitados (e-STJ, fls. 196/201).
+Inconformado, o BANCO interpõe recurso especial com fundamento nas alíneas a e c do permissivo constitucional, sob o fundamento de que, além de dissídio jurisprudencial, há violação dos arts. 535 do CPC/73; 51, IV, da Lei nº 8.078/90; 9º da Lei nº 4.595/64; e, 1º, III, da Resolução nº 3.518/2007, atualizada pela Resolução nº 3.919/2010 do BACEN, sustentando (1) negativa de prestação jurisdicional; e, (2) validade das cobranças impugnadas do contrato pactuado, especificamente no que tange à cobrança de tarifas bancárias de serviços de terceiros.
+Sem contrarrazões (e-STJ, fl. 278), o recurso especial não foi admitido (e-STJ, fls. 280/281), tendo seguimento por força de agravo provido (e-STJ, fl. 334).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da ofensa ao art. 535 do CPC/73
+Não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte. Ressalte-se que o julgador não está obrigado a examinar todos os argumentos aduzidos pela parte, quando tenha encontrado fundamentação suficiente para dirimir integralmente o litígio.
+O que se vê, na verdade, é a irresignação da parte autora com o resultado que lhe foi desfavorável, pretendendo, por meio do recurso aclaratório, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados no aludido dispositivo da lei adjetiva civil.
+(2) Da tarifa de serviços de terceiros
+O Tribunal a quo entendeu ser abusiva a cobrança de despesas de serviços de terceiros, por ofensa ao artigo 51, IV, do Código de Defesa do Consumidor por ser incompatível com a boa-fé e a equidade e, também, por representarem os custos administrativos da própria atividade de financiamento desempenhada pela instituição financeira.
+Extrai-se do acórdão recorrido:
+No, caso em análise, que diz respeito à tese da legalidade da cobrança das "Despesas de Serviços de Terceiros", não assiste razão à parte apelante, pois não há como negar que referidas tarifas, por representarem os custos administrativos da atividade financeira e mostra-se nitidamente abusiva.
+Ora, como se sabe, as despesas para abertura de crédito, emissão de boleto bancário e serviços de terceiro são intrínsecas à própria atividade de financiamento e, por isso, afigura-se abusiva sua transferência ao financiado, sendo nula de pleno direito a avença nesse sentido, na medida em que coloca o consumidor em desvantagem exagerada frente ao fornecedor, sendo verdadeiramente incompatível com a boa-fé e a eqüidade, nos moldes do art. 51, inciso IV, do Código de Defesa do Consumidor.
+A instituição financeira ao realizar operações de crédito já é remunerada pelos juros contratuais, os quais, além da remuneração do capital emprestado, já absorvem em tese, os custos operacionais com a captação de recursos.
+ ..
+Assim, por ter pleno conhecimento das irregularidades perpetradas em face dos consumidores que, em tese, são leigos em assuntos bancários, inequívoca a existência de culpa e, por conseqüência, o dever de restituir em dobro os valores cobrados à maior.
+Reputo correta a r. sentença, eis que tais serviços são inerentes à própria atividade desenvolvida pelo banco réu, mostrando-se injustificada a transferência dos respectivos encargos para o consumidor (e-STJ, fls. 160/161).
+Rever o posicionamento adotado, para considerar prestadas as devidas informações ao consumidor no momento da contratação, demandaria reexame do conjunto fático probatório dos autos, o que é inadmissível nesta via especial ante o óbice da Súmula nº 7 do STJ.
+Acrescente-se que, ante a incidência de referido enunciado sumular, não é possível o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IDEC. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ILEGITIMIDADE DA PARTE RECONHECIDA. INEXISTÊNCIA DE MENÇÃO EXPRESSA NO TÍTULO JUDICIAL ACERCA DO SEU ALCANCE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2.  ..
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no AREsp 965.951/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/12/2016, DJe 1/2/2017, sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA. LAUDO PERICIAL. OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. TUTELA ANTECIPADA INDEFERIDA. INEXISTÊNCIA DE PROVA INEQUÍVOCA DE VEROSSIMILHANÇA E DE FUNDADO RECEIO DE DANO IRREPARÁVEL. ALTERAÇÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1.  ..
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu pela ausência de prova inequívoca de verossimilhança e fundado receio de dano irreparável, pois não constam nos autos elementos de convicção suficientes para afastar, de plano, laudo pericial devidamente fundamentado e complementado por esclarecimentos às impugnações formuladas pelas partes quanto ao método de avaliação dos imóveis objeto da lide. A alteração da conclusão a que chegou a Corte de origem demandaria, necessariamente, o revolvimento de matéria fático-probatória, providência obstada em sede de recurso especial pela Súmula 7 do Superior Tribunal de Justiça.
+3. A incidência da Súmula 7/STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 877.696/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 02/02/2017, DJe 10/2/2017, sem destaque no original)
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
