@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim resumido:
+    “AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO PERANTE A JUSTIÇA FEDERAL. EXECUÇÃO DA PENA EM PENITENCIÁRIA ESTADUAL. PROGRESSÃO PARA O REGIME ABERTO. MANUTENÇÃO DA COMPETÊNCIA DO JUÍZO ESTADUAL. INCIDÊNCIA DA SÚMULA 192/STJ. RECURSO NÃO PROVIDO.
+    1. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que compete ao Juízo das Execuções Penais do Estado a execução de pena imposta a sentenciado pela Justiça Federal, quando recolhido em estabelecimentos sujeitos à administração estadual. Isso porque a competência para a execução penal não fica atrelada à natureza do delito praticado, tampouco ao Juízo processante, e sim à jurisdição a que se encontra subordinado o estabelecimento penal do sentenciado.
+    2. "Compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos à administração estadual" (Súmula 192/STJ).
+    3. Agravo regimental não provido” (pág. 304 do doc. eletrônico 6).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, ofensa aos arts. 5°, II; e 109, da mesma Carta. Sustenta-se que a competência para a execução de pena referente ao regime aberto de apenado, condenado pela Justiça Federal e que cumpria pena em estabelecimento prisional estadual, não seria mais da Justiça Estadual.
+    A pretensão recursal não merece acolhida.
+    Isso porque a questão versada no recurso foi analisada pelo Tribunal de origem com fundamento na interpretação da legislação infraconstitucional aplicável à espécie. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Por oportuno, transcrevo as ementas dos julgados abaixo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. OFENSA REFLEXA. AGRAVO REGIMENTAL DESPROVIDO. 1. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. 2. Agravo regimental a que se nega provimento” (ARE 981.001-AgR/PR, Rel. Min. Edson Fachin).
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Tema em apreciação decidido à luz da legislação infraconstitucional (Lei nº 7.210/84). A ofensa à Constituição Federal, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário. Precedentes. Agravo regimental não provido” (ARE 935.027-AgR/PR, Rel. Min. Dias Toffoli).
+    Além disso, consigno que este Supremo Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636/STF).
+     Isso posto, nego seguimento ao recurso (RISTF, art. 21, § 1°).
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
