@@ -1,0 +1,28 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Corrupção passiva. Dosimetria da pena. Execução provisória. Possibilidade. Súmula 691/STF.
+1. Não cabe habeas corpus contra decisão monocrática de Ministro de Tribunal Superior que indefere a liminar. Súmula 691/STF.
+2. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício.
+3. A execução provisória de decisão penal condenatória proferida em segundo grau de jurisdição, ainda que sujeita a recurso especial ou extraordinário, não viola o princípio constitucional da presunção de inocência ou não-culpabilidade.
+4. Habeas Corpus não conhecido.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que deferiu em parte a cautelar requerida nos autos do HC 526.942, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado, em 1º grau, pela prática do crime previsto no art. 317, § 1º, c/c o art. 71, do Código Penal, às penas 7 anos, 9 meses e 10 dias de reclusão, em regime inicial semiaberto, e pagamento de 30 dias-multa.
+    3. O Tribunal Regional Federal da 4ª Região deu provimento ao recurso ministerial (apenas com efeitos para os corréus) e parcial provimento ao recurso da defesa para afastar a continuidade delitiva, reduzindo a pena do paciente ao patamar de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e 30 dias-multa. Na sequência, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 526.942, Ministro Reynaldo Soares da Fonseca, deferiu a medida cautelar em parte “apenas para vedar a execução provisória da pena anteriormente ao julgamento dos embargos declaratórios opostos pela defesa do paciente na origem”.
+    4. Neste habeas corpus, a parte impetrante afirma, em síntese, que “a pena-base foi fixada no dobro do mínimo legal previsto – em 04 (quatro) anos -, em razão de terem sido consideradas como negativas apenas duas circunstâncias judiciais, relativas à culpabilidade e às consequências do delito”; sustentando que, “Além de não haver no v. acórdão da origem fundamentação a justificar tão elevado acréscimo, o quantum de aumento aplicado para cada circunstância judicial considerada desfavorável - fração de 1/2 sobre o mínimo legal estabelecido, é muito acima dos parâmetros fixados pelo Colendo Superior Tribunal de Justiça (fração de 1/6 sobre a pena mínima)”. Prossegue para alegar que a “decisão de execução provisória e automática da pena não encontra respaldo constitucional. Pelo contrário, contraria preceito fundamento da não culpabilidade”.
+    5. A defesa requer:
+    “a) a concessão da ordem impetrada, ainda que ex officio, com a concessão de Medida Liminar para impedir a execução provisória da pena e a respectiva prisão do paciente, até a análise do mérito do presente habeas corpus;
+    b) no mérito, configurada a violação do direito líquido e certo do paciente, a concessão da ordem para que seja cassado o v. acórdão de apelação e corrigido o cálculo da pena-base fixada e, por conseguinte, redimensionar a pena aplicada ao paciente (...), fazendo cessar, com isso, o constrangimento ilegal por ele sofrido”.
+    Decido.
+    6. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. Não é caso de concessão da ordem de ofício.
+    8. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    9. No caso, as peças que instruem a impetração não evidenciam situação teratologia, ilegalidade flagrante ou abuso de poder capaz de justificar o pronto acolhimento do pleito defensivo.
+    10. Ademais, lembro a jurisprudência do Plenário do STF, no julgamento do HC 126.292, Rel. Min. Teori Zavascki, assim ementado:
+    “CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE.
+    1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal.
+    2. Habeas corpus denegado.”
+    11. Esse entendimento foi confirmado pelo Plenário do STF, ao examinar as medidas cautelares nas ADCs 43 e 44, da relatoria do Min. Marco Aurélio. Jurisprudência reafirmada, em sede de repercussão geral, na análise do ARE 964.246, Rel. Min. Teori Zavascki.
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+          Brasília, 31 de agosto de 2018.
+Ministro Luís Roberto Barroso
+Relator
