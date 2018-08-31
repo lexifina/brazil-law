@@ -1,0 +1,556 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 13
+
+31/08/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 30.520 TOCANTINS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+
+: MIN. LUIZ FUX
+: MUNICIPIO DE MIRACEMA DO TOCANTINS
+: FLAVIO SUARTE PASSOS
+: NÃO INDICADO
+: SEM REPRESENTAÇÃO NOS AUTOS
+: JUIZ DO TRABALHO DA 1ª VARA DO TRABALHO
+DE PALMAS
+
+EMENTA: AGRAVO REGIMENTAL NA RECLAMAÇÃO. AÇÃO
+DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. TERMO
+DE AJUSTAMENTO DE CONDUTA. ALEGADA AFRONTA À
+AUTORIDADE DA DECISÃO PROFERIDA NA ADI 3.395/DF.
+INOCORRÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA E DE
+ESTRITA ADERÊNCIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO
+SUCEDÂNEO RECURSAL. INOCORRÊNCIA DE IMPUGNAÇÃO
+ESPECÍFICA A FUNDAMENTO DA DECISÃO ORA AGRAVADA.
+AGRAVO REGIMENTAL DESPROVIDO.
+
+ACÓRDÃO
+A Primeira Turma do Supremo Tribunal Federal, na conformidade
+da ata de julgamento virtual de 24 a 30/08/2018, por maioria, negou
+provimento ao agravo, nos termos do voto do Relator, vencido o Ministro
+Marco Aurélio.
+Brasília, 31 de agosto de 2018.
+Ministro LUIZ FUX - RELATOR
+Documento assinado digitalmente
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0A67-040B-6DE0-0135 e senha 49DF-CFAF-342E-F002
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 13
+
+31/08/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 30.520 TOCANTINS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+
+: MIN. LUIZ FUX
+: MUNICIPIO DE MIRACEMA DO TOCANTINS
+: FLAVIO SUARTE PASSOS
+: NÃO INDICADO
+: SEM REPRESENTAÇÃO NOS AUTOS
+: JUIZ DO TRABALHO DA 1ª VARA DO TRABALHO
+DE PALMAS
+RE LAT Ó RI O
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo
+interno interposto pelo MUNICÍPIO DE MIRACEMA DO TOCANTINS contra
+decisão de minha relatoria, assim ementada, in verbis:
+“RECLAMAÇÃO.
+DIREITO
+ADMINISTRATIVO.
+CONTRATAÇÃO DE SERVIDORES SEM CONCURSO
+PÚBLICO. TERMO DE AJUSTAMENTO DE CONDUTA.
+MULTA. EXPEDIÇÃO DE PRECATÓRIO. FALTA DE
+PAGAMENTO. BLOQUEIO/SEQUESTRO DE VALORES.
+ALEGADA AFRONTA À AUTORIDADE DA DECISÃO
+PROFERIDA NA ADI 3.395/DF. INOCORRÊNCIA. AUSÊNCIA
+DE SIMILITUDE FÁTICA E DE ESTRITA ADERÊNCIA.
+UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO
+RECURSAL. NEGATIVA DE SEGUIMENTO.”
+
+Em suas razões, o agravante insiste na violação da autoridade da
+decisão proferida por esta Corte na ADI n. 3.395.
+Para corroborar suas razões, afirma que não há dúvidas de que os
+contratos celebrados entre o Município reclamante e seus servidores
+estão submetidos ao regime jurídico estatutário ou jurídicoadministrativo, o que afasta a competência da justiça laboral.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC7A-AED5-48A0-595C e senha FE6E-340C-F34E-C38C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 13
+
+RCL 30520 AGR / TO
+O agravante alega que, em casos semelhantes ao presente, esta Corte
+adotou posicionamento no sentido da procedência da reclamação, por
+entender não ser da competência da justiça do trabalho o conhecimento e
+julgamento de ações que versam sobre a relação jurídica estabelecida
+entre servidores contratados temporariamente e a Administração Pública,
+Sustenta também que:
+“A questão posta nos autos está solucionada por este Supremo
+Tribunal Federal, que, em diversas oportunidades, tem suspendido o
+processamento de ações ajuizadas perante a Justiça do Trabalho, nas
+quais se discute o vínculo jurídico estabelecido entre entidades da
+administração direta e indireta e seus ex-servidores, sejam eles
+contratados com fundamento em leis locais que autorizam a
+contratação por tempo determinado, por excepcional interesse público,
+ou mesmo quando contratados para exercerem cargos em comissão. “
+
+Ao final, formula o pedido, nos seguintes termos:
+“Em cumprimento à decisão liminar concedida, requer seja
+expedido ofício ao Presidente do Tribunal de Justiça do Estado do
+Tocantins, por meio eletrônico ou quaisquer outros meios que assegure
+a urgência necessária, para que dê efetivo cumprimento à ordem,
+suspendendo os atos de bloqueio e/ou sequestro de valores no referido
+Precatório.
+No mérito, pede seja julgada procedente a Reclamação para,
+restabelecendo a autoridade das decisões proferidas por este Egrégio
+STF na ADI 3395-DF, bem como na Reclamação nº 4592, declarar a
+incompetência absoluta da 1ª Vara do Trabalho de Palmas-TO para o
+processo e julgamento da Execução/Processo nº 080040029.2005.5.10.0801, declarando a insubsistência da multa aplicada por
+aquela justiça especializada e, de consequência, o Precatório dela
+decorrente, afastando em definitivo a ordem de sequestro/bloqueio de
+numerários em desfavor do Município de Miracema do Tocantins-TO,
+ora reclamante, tudo como medida da mais cristalina JUSTIÇA.”
+
+É o relatório.
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC7A-AED5-48A0-595C e senha FE6E-340C-F34E-C38C
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 4 de 13
+
+31/08/2018
+
+PRIMEIRA TURMA
+
+AG.REG. NA RECLAMAÇÃO 30.520 TOCANTINS
+VOTO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Cabível e tempestivo,
+conheço o recurso, presentes os demais pressupostos de admissibilidade.
+Ab initio, consigno que Reclamação, por expressa determinação
+constitucional, destina-se a preservar a competência desta Suprema Corte
+e a garantir a autoridade de suas decisões, ex vi do artigo 102, I, l, além de
+salvaguardar a estrita observância de preceito constante em enunciado de
+Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da
+Constituição Federal. A propósito, a jurisprudência desta Suprema Corte
+fixou diversas condições para a utilização da via reclamatória, de sorte a
+evitar o uso promíscuo do referido instrumento processual. Disso resulta:
+i) a impossibilidade de utilização per saltum a Reclamação, suprimindo
+graus de jurisdição; ii) a impossibilidade de se proceder a um elastério
+hermenêutico da competência desta Corte, por estar definida em rol
+numerus clausus; e iii) a observância da estrita aderência da controvérsia
+contida no ato reclamado e o conteúdo dos acórdãos desta Suprema Corte
+apontados como paradigma. Nesse sentido, in verbis:
+“EMENTA AGRAVO REGIMENTAL EM RECLAMAÇÃO.
+ADI 2.135-MC. LEI MUNICIPAL QUE ADOTOU A CLT COMO
+REGIME JURÍDICO. ADI 3.395-MC. COMPETÊNCIA DA
+JUSTIÇA DO TRABALHO. AFRONTA. INEXISTÊNCIA.
+PRECEDENTES. A reclamação é ação autônoma de impugnação
+dotada de perfil constitucional, prevista no texto original da Carta
+Política de 1988 para a preservação da competência e garantia da
+autoridade das decisões do Supremo Tribunal Federal (art. 102, “l”, da
+Lei Maior), e, desde o advento da Emenda Constitucional nº 45/2004,
+é instrumento de combate a ato administrativo ou decisão judicial que
+contrarie ou indevidamente aplique súmula vinculante. Agravo
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FF0C-79B1-4B63-B0BF e senha D094-52BB-460C-C738
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 5 de 13
+
+RCL 30520 AGR / TO
+regimental conhecido e não provido.” (Rcl 16.458-AgR, Primeira
+Turma, Rel. Min. Rosa Weber, DJe de 09/09/2014)
+“AGRAVO
+REGIMENTAL
+EM
+RECLAMAÇÃO.
+PROCESSO
+PENAL.
+DECISÃO
+MONOCRÁTICA.
+INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁLA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO.
+OFENSA
+A
+PRONUNCIAMENTO
+DA
+CORTE.
+INOCORRÊNCIA. PEDIDO DE CONCESSÃO DE HABEAS
+CORPUS
+DE
+OFÍCIO.
+DESCABIMENTO.
+AGRAVO
+REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação
+apta a infirmar o julgamento monocrático conduz à manutenção da
+decisão recorrida. 2. Diante da ausência de pronunciamento desta
+Corte nas Ações Cautelares 4.070 e 4.175 quanto aos requisitos
+autorizadores da prisão preventiva do ora reclamante, a imposição da
+aludida medida gravosa pelo Juízo singular não configura usurpação
+da competência ou desrespeito à autoridade deste Tribunal. 3.
+Afigura-se inviável o recebimento de reclamação como habeas
+corpus, ainda que a pretexto de analisar a possibilidade de
+concessão da ordem de ofício, se a suposta ilegalidade não é
+atribuída a autoridade diretamente sujeita à jurisdição desta
+Corte. Inconformismo que deve ser solucionado pelas vias
+próprias, sem que se reconheça ao interessado o direito
+subjetivo de, per saltum, socorrer-se da via reclamatória a fim
+de alcançar a submissão imediata da matéria ao crivo da
+Suprema Corte. 4. Agravo regimental desprovido.” (Rcl 25.509AgR, Tribunal Pleno, DJe de 18/08/2017)
+“AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO
+PROCESSUAL CIVIL. REGIME DA LEI 8.038/90 E CPC/73.
+PEDIDO
+FUNDADO
+EM
+JURISPRUDÊNCIA
+NÃO
+VINCULANTE E DIREITO OBJETIVO. 1. A reclamação dirigida a
+esta Corte só é cabível quando se sustenta usurpação de sua
+competência, ofensa à autoridade de suas decisões ou contrariedade a
+súmula vinculante (CRFB/1988, arts. 102, I, l, e 103-A, § 3º). No
+segundo caso, exige-se que o pronunciamento tenha efeito vinculante
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FF0C-79B1-4B63-B0BF e senha D094-52BB-460C-C738
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 6 de 13
+
+RCL 30520 AGR / TO
+ou, ao menos, que tenha sido proferido em processo subjetivo no qual o
+reclamante figurou como parte, hipóteses não configuradas nos autos.
+Também não se admite alegação de afronta a direito objetivo. 2.
+Agravo interno desprovido.” (Rcl 14.745-AgR, Primeira Turma,
+Rel. Min. Roberto Barroso, Dje de 10/02/2017)
+“RECLAMAÇÃO. EMBARGOS DE DECLARAÇÃO
+RECEBIDOS COMO AGRAVO REGIMENTAL. USURPAÇÃO
+DE COMPETÊNCIA DO STF. CAUSA DE PEDIR ESGOTADA
+PELA LIMINAR DEFERIDA NA RECLAMAÇÃO 23.457/PR,
+REFERENDADA PELO PLENÁRIO DESTA CORTE. OFENSA À
+AUTORIDADE DA DECISÃO PROFERIDA NA QUESTÃO DE
+ORDEM NO INQ 4.130. PROCESSO DE ÍNDOLE SUBJETIVA.
+RELAÇÃO
+PROCESSUAL
+NÃO
+INTEGRADA
+PELO
+RECLAMANTE. NÃO CABIMENTO. CONTRARIEDADE À
+SÚMULA VINCULANTE 24. CONTROVÉRSIA SOBRE A
+CORRETA TIPIFICAÇÃO PENAL DOS FATOS NARRADOS NA
+DECISÃO RECLAMADA. INVIABIABILIDADE. 1. A causa de
+pedir da presente reclamação – usurpação da competência do STF – foi
+esgotada, e a questão foi resolvida com a avocação dos autos de “Busca
+e Apreensão 500661729.2016.4.04.7000/PR” (e processos conexos) a
+esta Corte, nos termos da liminar deferida na Reclamação 23.457/PR,
+decisão referendada pelo Plenário em 31.3.2016. Com a submissão do
+procedimento, e demais conexos, ao crivo deste Supremo Tribunal
+Federal, qualquer invocação de nulidade haveria de ser apresentada
+diretamente ao relator naqueles autos respectivos, não sendo a
+reclamação, repita-se, a via adequada para tal fim. 2. O acórdão cuja
+autoridade se pretende preservar foi proferido no âmbito do Inquérito
+4.130, no qual o agravante não é investigado. A jurisprudência do
+Supremo Tribunal Federal é pacífica no sentido de ser incabível
+reclamação ajuizada para garantir a autoridade de decisão desprovida
+de efeito vinculante e proferida em processo de índole subjetiva cuja
+relação processual não foi integrada pelo reclamante. (Rcl 10.615AgR, Relator(a): Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de
+14.6.2013; Rcl 4.381-AgR, Relator(a): Min. CELSO DE MELLO,
+Tribunal Pleno, DJe de 5.8.2011). 3. O acolhimento da alegação de
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FF0C-79B1-4B63-B0BF e senha D094-52BB-460C-C738
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 7 de 13
+
+RCL 30520 AGR / TO
+contrariedade à Súmula Vinculante 24 demandaria a análise da
+correta tipificação penal dos fatos narrados no ato reclamado, se
+crimes tributários ou não, controvérsia imprópria para a via da
+reclamação, cuja finalidade tem previsão constitucional taxativa. 4.
+Agravo regimental a que se nega provimento.” (Rcl 23.357-ED,
+Segunda Turma, Rel. Min. Teori Zavascki, DJe de 29/08/2016)
+
+O agravante não demonstrou de que forma a sua decisão guardaria
+aderência em relação ao precedente invocado. Isso porque a questão
+debatida no ato judicial reclamado, conforme ali destacado, diz respeito a
+a Ação de Execução de Título Executivo Extrajudicial proposta pelo
+Ministério Público do Trabalho, por suposto descumprimento de
+obrigações assumidas pelo ora reclamante no bojo de Termo de
+Ajustamento de Conduta.
+Ao julgar, a ADI 3.395, esta Corte reconheceu a incompetência da
+Justiça Trabalhista para o julgamento das causas envolvendo o Poder
+Público e seus servidores, vinculados por relação estatutária ou de caráter
+jurídico-administrativo, realizando interpretação conforme para restringir
+o alcance do inciso I do art. 114 da Constituição Federal, com redação
+dada pela EC 45/2004.
+Nesse contexto, diferentemente do que defende a parte reclamante,
+inexiste afronta à decisão proferida na ADI 3.395-MC, porquanto a
+decisão reclamada não foi proferida no contexto de processo judicial
+envolvendo, de um lado, a Administração Pública e, de outro, seus
+servidores.
+Diante deste cenário, resta clara, portanto, a ausência de estrita
+aderência entre o ato ora impugnado e a decisão supostamente
+desrespeitada. Foi o que já decidiu esta Turma em outras oportunidades.
+Confira-se, exemplificativamente:
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FF0C-79B1-4B63-B0BF e senha D094-52BB-460C-C738
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 8 de 13
+
+RCL 30520 AGR / TO
+AFRONTA À AUTORIDADE DO DECIDIDO NA ADI Nº 3.395.
+COMPETÊNCIA DA JUSTIÇA DO TRABALHO. EXECUÇÃO
+DE TAC. AUSÊNCIA DE SIMILITUDE ENTRE O ATO
+RECLAMADO E O PARADIGMA INVOCADO. Não há identidade
+de objeto entre o ato reclamado e o paradigma invocado. Ao processar
+execução por quantia certa, fundada em título extrajudicial, em que
+buscado o pagamento de multa prevista em termo de ajustamento de
+conduta, firmado perante o Ministério Público do Trabalho, a
+autoridade reclamada não afrontou o decidido por esta Corte na ADI
+nº 3.395. Agravo regimental conhecido e não provido” (Rcl 9.370AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe
+27.8.2014).
+
+Saliento que a aderência entre o objeto do ato reclamado e o
+paradigma que se reputa violado é requisito de admissibilidade da
+reclamação perante o Supremo Tribunal Federal. Nesse sentido, in verbis:
+“AGRAVO INTERNO NA RECLAMAÇÃO. DIREITO DE
+GREVE DE SERVIDOR PÚBLICO CIVIL. FIXAÇÃO DE
+PERCENTUAL MÍNIMO DE SERVIDORES EM ATIVIDADE.
+ANOTAÇÃO DE FALTAS PARA DESCONTO DOS DIAS NÃO
+TRABALHADOS. ALEGAÇÃO DE AFRONTA AO QUANTO
+DECIDO NOS MANDADOS DE INJUNÇÃO 6.258, 670, 708 e
+712. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. A jurisprudência
+desta Casa consolidou-se no sentido de que, sendo o cerne da decisão
+proferida no MI 708 a aplicação aos servidores públicos da Lei de
+Greve concernente ao setor privado até que o Poder Legislativo
+discipline o direito de greve no âmbito da Administração Pública, há
+afronta a esse julgado quando o ato reclamado nega o direito de greve
+aos servidores públicos por falta de normatização. 2. Garantido o
+exercício aos servidores públicos do direito de greve consagrado
+constitucionalmente, a partir da aplicação adequada da Lei nº
+7.783/89, ao julgamento do MI 708, restou cometida aos tribunais
+locais competentes a deliberação acerca da legalidade do desconto dos
+dias parados e das demais questões decorrentes do exercício do direito
+de greve. 3. À míngua de identidade material entre os paradigmas
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FF0C-79B1-4B63-B0BF e senha D094-52BB-460C-C738
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 13
+
+RCL 30520 AGR / TO
+invocados e o ato reclamado, não há como divisar a alegada afronta à
+autoridade de decisão desta Excelsa Corte. 4. Agravo regimental
+conhecido e não provido.” (Rcl 20204 AgR, Rel. Min. ROSA
+WEBER, Primeira Turma, DJe 17/11/2017)
+
+Deveras, verifica-se que o que pretende o reclamante, em última
+análise, é fazer uso do instrumento processual da reclamação como
+sucedâneo de outras ações cabíveis. Entretanto, restou assentado neste
+Tribunal que “a reclamação, constitucionalmente vocacionada a cumprir a
+dupla função a que alude o art. 102, I, l, da Carta Política (RTJ 134/1033), não se
+qualifica como sucedâneo recursal nem configura instrumento viabilizador do
+reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à
+destinação constitucional subjacente à instituição dessa medida processual” (Rcl
+4.381-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 5/8/2011). No
+mesmo sentido, in verbis:
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. DIREITO
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO LIMITADO AO
+TETO NA ÉPOCA DA CONCESSÃO. DECISÃO EMANADA DE
+JURISDIÇÃO QUE FEZ INCIDIR A DISCIPLINA DA
+REPERCUSSÃO GERAL. REGIME DA LEI 8.038/90.
+INOCORRÊNCIA DE USURPAÇÃO DE COMPETÊNCIA DA
+CORTE. INADMISSIBILIDADE DA RECLAMAÇÃO. 1. A
+jurisprudência do Supremo Tribunal Federal fixou-se, no âmbito de
+vigência do regime processual do CPC/73, no sentido de considerar
+incabível a reclamação que indique como paradigma recurso
+extraordinário julgado segundo a sistemática da repercussão geral,
+sendo admissível apenas a interposição de agravo interno junto ao
+órgão de origem. 2. É inadequada a utilização da reclamação como
+sucedâneo de ação rescisória ou dos recursos cabíveis ao tempo da
+decisão impugnada. 3. Agravo regimental a que se nega provimento.”
+(Rcl 23.310-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe
+de 23/08/2016).
+“RECLAMAÇÃO – INVIABILIDADE –INOCORRÊNCIA
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FF0C-79B1-4B63-B0BF e senha D094-52BB-460C-C738
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 10 de 13
+
+RCL 30520 AGR / TO
+DOS PRESSUPOSTOS QUE AUTORIZAM A SUA
+UTILIZAÇÃO – INEXISTÊNCIA, NO CASO, DE SITUAÇÃO
+CARACTERIZADORA DE USURPAÇÃO DE COMPETÊNCIA
+DESTA SUPREMA CORTE – ATUAÇÃO DO SUPERIOR
+TRIBUNAL DE JUSTIÇA EXERCIDA DENTRO DOS ESTRITOS
+LIMITES DE SUA COMPETÊNCIA – INADEQUAÇÃO DO
+EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO DE
+AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES
+JUDICIAIS EM GERAL – EXTINÇÃO DO PROCESSO DE
+RECLAMAÇÃO – PRECEDENTES – PARECER DA
+PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO
+PROVIMENTO DO AGRAVO – RECURSO DE AGRAVO
+IMPROVIDO.” (Rcl 6.581-AgR, Segunda Turma, Rel. Min. Celso
+de Mello, DJe de 25/09/2015).
+
+Impende destacar, ainda, que esta Corte sufraga o entendimento de
+que a reiteração dos argumentos aduzidos na petição, os quais já foram
+objeto de exame pelo relator, não possuem o condão de infirmar os
+fundamentos da decisão agravada. Nesse sentido, in verbis:
+“RECLAMAÇÃO.
+EMBARGOS
+DECLARATÓRIOS
+OPOSTOS
+CONTRA
+DECISÃO
+MONOCRÁTICA:
+CONVERSÃO EM AGRAVO REGIMENTAL. REITERAÇÃO
+DOS ARGUMENTOS EXPENDIDOS NA INICIAL. HIPÓTESES
+CONSTITUCIONAIS PERMISSIVAS DO AJUIZAMENTO DA
+RECLAMAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO. I - Na linha da pacífica jurisprudência desta Corte,
+os embargos de declaração foram recebidos como agravo regimental,
+uma vez que opostos de decisão monocrática. II - A decisão ora atacada
+não merece reforma ou qualquer correção, visto que o agravante reitera
+os argumentos anteriormente expostos e não aduz novos elementos
+capazes de afastar as razões nela expendidas. III - O instrumento
+processual da reclamação, enquanto medida de direito constitucional
+vocacionada a preservar a integridade da competência desta Suprema
+Corte e a fazer prevalecer a autoridade de suas decisões, nos termos do
+art. 102, I, l, da CF, não se revela admissível contra atos emanados dos
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FF0C-79B1-4B63-B0BF e senha D094-52BB-460C-C738
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 13
+
+RCL 30520 AGR / TO
+Ministros ou das Turmas que integram esta Corte Suprema, pois os
+julgamentos, monocráticos ou colegiados, por eles proferidos,
+qualificam-se como decisões juridicamente imputáveis ao próprio
+Supremo Tribunal Federal. Também não é via para preservar as
+competências dos órgãos do STF definidas em seu regimento. IV –
+Agravo regimental ao qual se nega provimento.” (Rcl 22.048-ED,
+Tribunal Pleno, DJe de 23/08/2016)
+
+Ex positis, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código FF0C-79B1-4B63-B0BF e senha D094-52BB-460C-C738
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 12 de 13
+
+AG.REG. NA RECLAMAÇÃO 30.520 TOCANTINS
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+
+: MIN. LUIZ FUX
+: MUNICIPIO DE MIRACEMA DO TOCANTINS
+: FLAVIO SUARTE PASSOS
+: NÃO INDICADO
+: SEM REPRESENTAÇÃO NOS AUTOS
+: JUIZ DO TRABALHO DA 1ª VARA DO TRABALHO
+DE PALMAS
+V O T O
+
+O SENHOR MINISTRO MARCO AURÉLIO – Divirjo do relator
+quanto à solução apresentada, qual seja, o desprovimento de recurso
+interno que não ataca os fundamentos da decisão impugnada. O Código
+de Processo Civil de 2015, no artigo 932, inciso III, prevê o não
+conhecimento do recurso neste caso.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8ECE-BEB5-CB8D-4432 e senha A844-A4B7-E9C9-BC0F
+
+Supremo Tribunal Federal
+Extrato de Ata - 31/08/2018
+
+Inteiro Teor do Acórdão - Página 13 de 13
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NA RECLAMAÇÃO 30.520
+PROCED. : TOCANTINS
+RELATOR : MIN. LUIZ FUX
+AGTE.(S) : MUNICIPIO DE MIRACEMA DO TOCANTINS
+ADV.(A/S) : FLAVIO SUARTE PASSOS (2137/TO)
+AGDO.(A/S) : NÃO INDICADO
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+INTDO.(A/S) : JUIZ DO TRABALHO DA 1ª VARA DO TRABALHO DE PALMAS
+Decisão: A Turma, por maioria, negou provimento ao agravo, nos
+termos do voto do Relator, vencido o Ministro Marco Aurélio.
+Primeira Turma, Sessão Virtual de 24.8.2018 a 30.8.2018.
+Composição: Ministros Alexandre de Moraes (Presidente), Marco
+Aurélio, Luiz Fux, Rosa Weber e Luís Roberto Barroso.
+Disponibilizou processo para esta Sessão o Ministro Dias
+Toffoli, não tendo participado do julgamento desse feito o
+Ministro Alexandre de Moraes em razão da ordem de sucessão na
+Primeira Turma.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F8AC-E26B-38F3-C7EA e senha 71A5-99C2-C9B0-B862
