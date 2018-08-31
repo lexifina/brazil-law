@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, manejado com base no art. 105, III, "a", da Constituição Federal, contra decisão do Tribunal de Justiça do respectivo ente federativo, assim ementado:
+"EMBARGOS INFRINGENTES. APELAÇÃO. HOMICÍDIO TENTADO. PENA. FRAÇÃO DA MINORANTE DA TENTATIVA. FIXAÇÃO EM METADE.
+A fração aplicável de redução de pena pela forma tentada do delito não se ampara apenas na gravidade do dano causado, devendo ser sopesado o iter criminis percorrido pelo agente. Na hipótese, o réu esgotou os meios de execução ao desferir no mínimo dois disparos de arma de fogo contra a vítima, acertando-a na região supraescapular do dorso corporal, apenas não atingindo o resultado morte por circunstâncias alheias à sua vontade. Assim, em se tratando de tentativa cruenta e, não havendo, porém, consequência de maior gravidade, não se pode falar em patamar mínimo para minoração da reprimenda, tampouco no patamar máximo, razão pela qual é fixada na fração de 1/2 (um meio). Pena definitiva redimensionada para 03 (três) anos de reclusão em regime aberto.
+RECURSO PARCIALMENTE PROVIDO. POR MAIORIA." (e-STJ, fl. 475).
+Nas razões do recurso especial, o Parquet alega a existência de violação do art. 14, parágrafo único, do Código Penal.
+Alega que o iter criminis não foi adequadamente valorado, ao argumento que, embora o acórdão tenha reconhecido que o recorrido esgotou os meios de execução, não aplicou a fração mínima de 1/3 .
+O Ministério Público Federal manifestou-se pelo provimento do recurso. (e-STJ, fl. 535-537).
+É o relatório.
+Decido.
+A descrição fática no acórdão recorrido, afirma que o réu esgotou os meios de execução, assim consignando:
+"A divergência restringe-se ao percentual de redução de pena aplicada à minorante da tentativa delitiva e, com a devida vênia dos colegas participantes do julgamento perante a Primeira Câmara Criminal, ouso lançar voto médio na solução do caso, justamente porque tenho que a hipótese se adapta melhor às peculiaridades dispostas nos autos.
+Venho reiteradamente afirmando que a fração aplicável de redução de pena não se ampara, a bem da verdade, tão somente na gravidade do dano causado, devendo o magistrado sopesar o iter criminis percorrido pelo agente, ou seja, os atos executórios praticados para alcançar a consumação do delito.
+Na espécie, o réu esgotou os meios de execução ao desferir no mínimo dois disparos de arma de fogo contra a vítima, atingindo-a na região escapular com um tiro (fl. 48) e apenas não consumando o resultado morte por circunstâncias alheias à sua vontade, consistente na fuga do ofendido, que mesmo ferido, conseguiu deixar o local.
+Dessa forma, diferentemente do que se fez constar no voto minoritário, trata-se de tentativa cruenta, em que o ofendido restou efetivamente lesionado, não havendo, que se falar em aplicação da fração máxima (2/3). Ocorre, porém, que, como não houve consequência de maior gravidade, a situação impede seja a fração fixada em grau máximo mínimo (1/3), razão pela qual tenho que a minoração da reprimenda deve se dar em patamar médio, qual seja, na fração de 1/2 (um meio)." (e-STJ, fls. 477-478).
+O acórdão impugnado valorou os fatos pautado na consumação do resultado, não observando a conduta no momento da ação, destoando da jurisprudência desta Corte Superior quanto à análise da punibilidade da norma de extensão temporal contida no art. 14, II, do Código Penal.
+O Código Penal, em seu art. 14, II, adotou a teoria objetiva quanto à punibilidade da tentativa, pois, malgrado semelhança subjetiva com o crime consumado, diferencia a pena aplicável ao agente doloso de acordo com o perigo de lesão ao bem jurídico tutelado. Nessa perspectiva, jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+A propósito, confiram-se:
+" ..  LATROCÍNIO. TENTATIVA. REDUÇÃO EM 1/3 (UM TERÇO). DECISÃO MOTIVADA. PLEITO PARA AUMENTAR FRAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA RESTRITA DO MANDAMUS. RECURSO IMPROVIDO.
+1. Verificado que o quantum fixado, em razão da prática do delito de latrocínio na modalidade tentada, foi fundamentado no iter criminis percorrido pelo agente, inviável a alteração da fração de redução, porquanto demandaria revolvimento de matéria fático-probatória, providência vedada na via sumária eleita.
+2. Agravo regimental improvido."
+(AgRg no HC 307.925/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/04/2016.)
+"HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E CORRUPÇÃO DE MENORES. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE NÃO EVIDENCIADA. MAJORANTES. EXASPERAÇÃO ACIMA DO MÍNIMO LEGAL. JUSTIFICATIVA IDÔNEA. REDUÇÃO PELA TENTATIVA. ITER CRIMINIS. AUSÊNCIA DE ILEGALIDADE PATENTE. PENA SUPERIOR A 4 ANOS DE RECLUSÃO. CIRCUNSTÂNCIA DESFAVORÁVEL. REGIME INICIAL FECHADO. ADEQUAÇÃO. NÃO CONHECIMENTO.
+ ..
+4. As instâncias de origem utilizaram, no tocante ao quantum de redução pela tentativa, o critério do iter criminis percorrido, em perfeita consonância com a jurisprudência deste Sodalício. Inviável, pois, nesta sede, a inversão do decidido, haja vista que vedado o exame aprofundado das provas.
+5. Nos termos do artigo 33 do Código Penal, fixada a pena em patamar superior a 4 anos de reclusão, a estipulação do regime inicial fechado é apropriada, tendo em vista a presença de circunstância judicial desfavorável.
+6. Habeas corpus não conhecido."
+(HC 342.659/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 19/04/2016.)
+In casu, o réu desferiu dois disparos de arma de fogo contra a vítima, tratando-se, portanto, de tentativa cruenta e perfeita, pois percorrido a totalidade do iter criminis, tendo sido realizado o suficiente para alcançar o resultado morte. Por conseguinte, de rigor o restabelecimento do redutor mínimo de 1/3 (um terço) pela tentativa (art. 14, II, do CP).
+Ante o exposto, com base no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento para restabelecer a sentença condenatória.
+Publique-se. Intimem-se.
