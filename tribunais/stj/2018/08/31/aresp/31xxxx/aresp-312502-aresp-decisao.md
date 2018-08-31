@@ -1,0 +1,24 @@
+EMENTA
+PENAL E PROCESSO PENAL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 48, 64 E 40, CAPUT, C/C ART. 40-A, § 1º, TODOS DA LEI N. 9.605/1998. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. OCORRÊNCIA. RECONHECIMENTO DA EXTINÇÃO DA PUNIBILIDADE.
+DECISÃO
+Trata-se de petição apresentada por SÍLVIO CARVALHO DE ARAÚJO, no qual pleiteia a declaração da "extinção da punibilidade do acusado, nos termos art. 61 do Código de Processo Penal, primeiro, em face da prescrição da pretensão punitiva do Estado, subsidiariamente, em razão da prescrição da pretensão executória da pena" (fl. 898).
+Argumenta, nesse sentido que "o último marco interruptivo da prescrição da pretensão punitiva ocorreu com a publicação do acórdão no dia 7 de maio de 2012 (Fl. 560), portanto, há mais de 5 (cinco) anos. De lá para cá ocorreu a extinção da punibilidade, nos termos do art. 109, V, do Código Penal. Como já visto, a pena imposta ao acusado é menor do que dois anos, portanto, o prazo prescricional é de 4 (quatro) anos, lapso temporal já transcorrido" (fl. 896).
+É o breve relatório.
+Decido.
+De fato, houve o transcurso do prazo prescricional em relação aos delitos previstos nos arts. 48, 64 e 40, caput, c/c art. 40-A, § 1º, todos da Lei n. 9.605/98.
+No caso, em primeira instância, o requerente foi condenado à pena de 6 (seis) meses de detenção pelo delito previsto no art. 48 da Lei n. 9.605/98 e à pena de 6 (meses) de detenção pelo delito previsto no art. 64 da Lei n. 9.605/98, e tendo em vista o concurso formal dos crimes, à pena mais grave foi acrescida a fração de 1/6, restando a pena definitiva fixada em 7 meses de reclusão, em regime aberto. A sentença condenatória foi publicada em 10/10/2011.
+No julgamento dos recursos de apelação, o Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso da defesa e deu provimento ao recurso ministerial, para condenar o réu como incurso nas sanções previstas no art. 40, caput, c/c art. 40-A, § 1º, da Lei n. 9.605/98, à pena de 1 (um) ano de reclusão, mantidas as condenações de primeiro grau pelos delitos previstos nos arts. 48 e 64, ambos da Lei n. 9.605/98. Em razão do concurso formal, a pena mais grave foi aumentada em 1/6, sendo fixada definitivamente em 1 (um) ano e 2 (dois) meses de reclusão, em regime aberto, substituída por duas penas restritivas de direito. O acórdão foi publicado em 07/05/2012, conforme certidão à fl. 560 dos autos. Não houve recurso da acusação.
+Opostos embargos de declaração pela defesa, estes foram rejeitados (fls. 600-618).
+Nesta Corte Superior, o agravo foi conhecido para negar provimento ao recurso especial (fls. 857-869).
+O agravo regimental foi desprovido (fls. 906-919).
+Deve ser, portanto, analisada a prescrição da pretensão punitiva intercorrente, prevista no art. 110, § 1º, do Código Penal.
+Inicialmente, cumpre registrar que a jurisprudência desta Corte Superior firmou-se no sentido de que "O acórdão que apenas confirma a sentença de primeiro grau, sem decretar nova condenação por crime diverso, não configura marco interruptivo da prescrição, ainda que haja reforma considerável na dosimetria da pena" (AgRg no AREsp 1155786/AM, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 04/12/2017).
+Na hipótese, em sede de apelação, o ora requerente foi condenado por crime diverso, devendo a data de publicação do acórdão, portanto, ser considerada como marco interruptivo da prescrição da pretensão punitiva.
+Ademais, tendo em vista a incidência do concurso formal de crimes, as penas devem ser analisadas individualmente para cada delito quanto à prescrição.
+Passo à análise quanto aos delitos capitulados nos arts. 48 e 64, ambos da Lei n. 9.605/98, para os quais o recorrente teve a pena fixada em 6 meses de detenção.
+Nesse rumo, conforme disciplinado no artigo 109, inciso VI, do Código Penal, ocorre a prescrição da pretensão punitiva em 3 anos se o máximo da pena não excede a 1 ano.
+Assim, cabe reconhecer, de fato, a prescrição da pretensão punitiva, pois passados mais de 3 anos, entre a publicação do acórdão (07/05/2012) e a data atual, sem a ocorrência de outro marco interruptivo.
+Quanto ao delito capitulado no art. 40, caput, c/c art. 40-A, § 1º, da Lei n. 9.605/98, para o qual o recorrente teve a pena fixada em 1 ano de reclusão, conforme disciplinado no artigo 109, V, do Código Penal, ocorre a prescrição da pretensão punitiva no prazo 4 anos se a pena aplicada não exceder 2 anos.
+Assim, cabe reconhecer, de fato, a prescrição da pretensão punitiva, pois passados mais de 4 anos, entre a publicação do acórdão (07/05/2012) e a data atual, sem a ocorrência de outro marco interruptivo.
+Ante o exposto, declaro extinta a punibilidade de SÍLVIO CARVALHO DE ARAÚJO, nos termos do art. 107, IV, do Código Penal, em relação aos delitos previstos nos arts. 48, 64 e 40, caput, c/c art. 40-A, § 1º, todos da Lei n. 9.605/98 e julgo prejudicado os embargos de declaração opostos às fls. 926-935.
+P. e I.
