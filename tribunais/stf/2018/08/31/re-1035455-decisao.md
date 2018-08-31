@@ -1,0 +1,49 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “APELAÇÃO CRIMINAL. ESTELIONATO. AUSÊNCIA DE PROVAS. ABSOLVIÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. INDENIZAÇÃO. ART. 387, INC. IV, CPP. FATO ANTERIOR À PUBLICAÇÃO DA LEI N.º 11.719/2008. LEI PENAL MAIS GRAVOSA. EXCLUSÃO.
+    Conforme os termos do art. 171 do CP, pratica o crime de estelionato, aquele que ‘obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento’.
+    Comprovadas a materialidade e a autoria do crime, em que o réu obteve vantagem ilícita em prejuízo das vítimas, induzindo e mantendo-as em erro ao fazê-las acreditar que era advogado, conquanto não tivesse inscrição na Ordem, para contratação de serviços e honorários, os quais recebeu, não há como absolver o apelante.
+    A indenização fixada como valor mínimo para a reparação de danos causados às vítimas deve ser afastada nos casos em que o fato é anterior à publicação da Lei nº 11.719/2008, pois se trata de norma mais gravosa com conteúdo material, que não pode alcançar situações pretéritas, em observância ao princípio que veda a retroação de leis penais prejudiciais ao réu.
+    Recurso conhecido e parcialmente provido” (pág. 33 do documento eletrônico 5).
+    Neste RE, interposto com base no art. 102, III, a, da Constituição Federal, alega-se violação do art. 5°, XL, da mesma Carta. Argumenta-se que o disposto no art. 387, IV, do Código de Processo Penal – CPP, na redação conferida pela Lei 11.719/2008, é de natureza processual e, assim, deve ser observado no caso concreto, uma vez que a sentença condenatória foi proferida quando já vigorava o referido dispositivo legal (págs. 72-80 do doc. eletrônico 5).
+    O recorrido, apesar de intimado, não apresentou contrarrazões, conforme a certidão da pág. 85 do doc. eletrônico 5.
+    A Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida, manifesta-se pelo provimento do recurso (doc. eletrônico 8).
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que o tema relativo à aplicação da lei penal no tempo, sob o prisma do princípio insculpido no art. 5°, XL, da CF, possui relevância apta ao exame por esta Corte em sede de recurso extraordinário, tanto que já foi objeto dos Temas 59, 169 e 650 da Repercussão Geral.
+    Nestes autos, discute-se a possibilidade de incidência do art. 387, IV, do CPP, na redação dada pela Lei 11.719/2008, em ação penal relativa a fatos anteriores à referida lei, mas cuja sentença condenatória somente foi prolatada após a respectiva vigência. O preceito encontra-se assim redigido:
+    “Art.387. O juiz, ao proferir sentença condenatória:
+    […]
+    IV - fixará valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos sofridos pelo ofendido;
+    [...]”
+    Observo que o acórdão recorrido está em consonância com o que decidido por este Supremo Tribunal no julgamento da Revisão Criminal 5.437/RO, de relatoria do Ministro Teori Zavascki. Na ocasião, decidiu-se pela não aplicação do art. 387, IV, do CPP a fatos ocorridos antes da modificação legislativa. Por oportuno, transcrevo o trecho pertinente do voto do Relator:
+    “[…]
+    7. Num ponto, todavia, a ação revisional merece acolhida: o que diz respeito à fixação do valor mínimo destinado à reparação de danos (fls. 119-122), tal como articulado no art. 387, IV, do Código de Processo Penal. É que essa previsão normativa foi inserida no ordenamento jurídico pela Lei 11.719/2008, que não somente é posterior aos fatos da causa (desenrolados entre 1995 e 1998, fl. 130), como especialmente à própria deflagração da ação penal (cuja denúncia foi oferecida em 1999, fl. 129). Assim, sobretudo porque não se verificou contraditório a respeito, incide reserva intransponível à incidência da norma tanto do ponto de vista material, como do ponto de vista processual, evocando ressalvas que não são inéditas na jurisprudência do Superior Tribunal de Justiça (AgRg no REsp 1383261/DF, Rel. Min. SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/10/2013, DJe 14/11/2013), aliás análoga ao que já foi também nesta Suprema Corte decidido (AP 470, Relator(a): Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 17/12/2012, DJe de 19/04/2013).
+    Em resumo, independentemente de ter o novo dispositivo natureza material ou não, é certo que sua acolhida no decreto condenatório violou garantias constitucionais, a começar pelo devido processo legal, pois impôs ao réu uma sanção baseada em preceito normativo superveniente aos fatos da causa e ao próprio ajuizamento da ação penal.
+    Houve, no ponto, portanto, ofensa ao texto expresso da lei penal, fenômeno que ocorre não apenas quando se deixa de aplicar a norma em caso em que deveria incidir, como também quando, como no caso, se aplica a norma em caso em que, manifestamente, não deveria incidir.
+    8. Ante o exposto, julgo parcialmente procedente o pedido revisional, tão somente para afastar da condenação a fixação do valor mínimo de reparação dos danos (art. 387, IV, do Código de Processo Penal), sem prejuízo da persecução correspondente em procedimento autônomo, mantidas íntegras as demais cominações condenatórias. É o voto” (grifei).
+    Esclareço que a alegação referente à existência de preceito legal anterior, prevendo a reparação do dano à vítima ou aos seus herdeiros, também foi apreciada, conforme excerto da confirmação de voto proferida pelo Ministro Roberto Barroso, revisor da mencionada revisão criminal:
+    “Presidente, eu ouvi com atenção e interesse a Ministra Cármen Lúcia, agora acompanhada pelo Ministro Gilmar, e veja, o artigo 91, que é preexistente aos fatos, diz:
+    ‘Art. 91 - São efeitos da condenação:
+    I - tornar certa a obrigação de indenizar o dano causado pelo crime.’
+    Portanto, já não há mais discussão sobre a existência do dano e quem tem a responsabilidade por repará-lo.
+    Mas o dispositivo não fala nem em quantificação nem em liquidação desse dano, o que veio a ser previsto no 387, inciso IV, que foi acrescido pela Lei nº 11.719, de 2008, que diz:
+    ‘O juiz, ao proferir sentença condenatória:
+    (...)
+    IV - fixará valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos sofridos pelo ofendido.’
+    A meu ver, há uma inovação aqui, que é a possibilidade de o juiz, desde logo, liquidar o valor do dano, com a observação, que me parece importante, de que a liquidação do valor do dano não pode prescindir de contraditório. Portanto, ainda quando não fosse pela questão da retroatividade, deveria ser pela questão do contraditório.
+    De modo que, com todas as vênias e entendendo perfeitamente os argumentos contrapostos, eu gostaria de reiterar a posição aqui adotada”.
+    Nesse sentido, também menciono trecho do voto do Ministro Marco Aurélio:
+    “[...]
+    Por último, analiso a reparação de danos, considerado o artigo 387, inciso IV, do Código de Processo Penal. A cabeça do artigo revela que essa norma não é simplesmente instrumental e que tenha aplicação imediata. É norma a encerrar misto de instrumental e material. Por que assim é dado concluir? Porque preceitua o artigo 387:
+    ‘Art. 387. O juiz, ao proferir (...)’
+    O quê? Decisão de mérito, decisão condenatória.
+    ‘IV - fixará valor mínimo’ – que não exclui evidentemente, a partir do título condenatório penal, a liquidação referida pelo ministro Luís Roberto Barroso, inclusive quanto a danos morais, como está em verbete do STJ – ‘para reparação dos danos causados pela infração, considerando os prejuízos sofridos pelo ofendido;’
+    É norma que tenho, também, como material, porque está ligada à condenação quanto ao mérito. Os danos dizem respeito ao mérito, às consequências do crime praticado. Afirmar-se-á: essa previsão já estava no artigo 91 do Código Penal. Presidente, o que previsto nesse artigo relaciona-se à preclusão, como consequência da sentença condenatória, da existência de danos, ou seja, não se pode, como está até mesmo no artigo 935 do Código Civil, discutir, no campo cível, onde deve ser apurada a extensão dos danos, quer o fato delituoso, quer a existência do próprio dano, porque já consequência da sentença condenatória.
+    Há mais. Não fosse a teoria da aplicação da lei no tempo, a irretroatividade da lei penal, a não ser para beneficiar o acusado – e, evidentemente, a decisão não beneficiou, não se aplicou o artigo 387, inciso IV, para beneficiar o acusado. Medula do devido processo legal – gênero –, em se tratando de processo que envolva litigantes ou acusados, é o contraditório. Não me refiro à autodefesa. A defesa técnica foi, como deixou claro o ministro Gilmar Mendes e, também, os Colegas que votaram no sentido de entender não incidente o artigo 387 em exame, surpreendida. O contraditório não foi observado.
+    Ante o contexto, julgo procedente – não estou diante de recurso, mas de ação – o pedido formulado na inicial. Em primeiro lugar, para fulminar o título judicial condenatório sob o ângulo da competência, em termos de formalização, levando em conta esse princípio básico ligado aos direitos humanos, que é o do juiz natural. Em um segundo passo, acompanho o relator para expungir do acórdão formalizado pelo Plenário a fixação antecipada, como se o artigo 91 do Código Penal já ensejasse essa fixação – e nunca ensejou –, de reparação mínima dos danos provocados pela prática delituosa.
+    É como voto”.
+    Dessa forma, verifico que o acórdão recorrido, ao afastar a aplicação do art. 387, IV, do CPP – na redação conferida pela Lei 11.719/2008, está de acordo com a jurisprudência desta Corte.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Ricardo Lewandowski
+Relator
