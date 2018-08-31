@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário habeas corpus, com pedido liminar, interposto por [NOME] em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Alagoas, no writ n. 0801018-02.2017.8.02.0000.
+Aduz a Defesa, nas razões do presente recurso, em síntese, que o recorrente estaria sofrendo constrangimento ilegal, uma vez que, o d. Juízo da Vara de Execuções Penais, a pedido do Ministério Público, antes de analisar o pedido de progressão ao regime semiaberto, determinou a realização de exame criminológico, consoante r. decisão proferida em 30/3/2016.
+Irresignada, a Defesa impetrou habeas corpus perante o eg. Tribunal de origem, alegando a falta de motivação concreta no decisum e a demora na realização do exame, mas o eg. Colegiado denegou a ordem, com a determinação à autoridade impetrada que decida sobre o pedido de progressão do regime prisional, com ou sem o resultado do exame criminológico, no prazo de 30 (trinta) dias, em sessão de julgamento ocorrida em 5/7/2017 (fls. 102-109). O acórdão restou assim ementado:
+"HABEAS CORPUS. LATROCÍNIO. PLEITO DE PROGRESSÃO DE REGIME PRISIONAL. EXAME CRIMINOLÓGICO. DECISÃO FUNDAMENTADA NA PERICULOSIDADE DO RÉU E NA GRAVIDADE DO CRIME. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A REALIZAÇÃO DO EXAME. DETERMINAÇÃO DE PRAZO À AUTORIDADE IMPETRADA PARA DECIDIR SOBRE A O PROGRESSÃO DE REGIME DO PACIENTE INDEPENDENTE DO RESULTADO o DO EXAME CRIMINOLÓGICO AGUARDADO. ORDEM DENEGADA." (fl. 103).
+No presente recurso, a Defesa alega, em síntese, que o recorrente está sofrendo constrangimento ilegal em seu status libertatis, uma vez que o v. acórdão impugnado não apresentou fundamentação idônea para a determinação de que o paciente seja submetido ao exame criminológico como requisito à progressão de regime.
+Acrescenta que "Se o exame foi realizado, não está prejudicado o exame do writ, pois a sua principal causa de pedir é a falta de motivação concreta do decisum que determinou o exame (e não o excesso de prazo para a sua realização, este sim prejudicado pela superveniência do laudo)" (fls. 122-123).
+Requer, ao final, o provimento do recurso, a fim de que seja cassado o v. acórdão e, assim, concedida a progressão do recorrente ao regime semiaberto.
+Pedido liminar indeferido às fls. 139-140.
+O Ministério Público Federal, às fls. 167-173, manifestou-se pelo desprovimento do recurso, em parecer com a seguinte ementa:
+"RECURSO EM HABEAS CORPUS. PLEITO DE PROGRESSÃO PRISIONAL. RECURSO QUE SUSTENTA A DISPENSABILIDADE DE EXAME CRIMINOLÓGICO PARA A CONCESSÃO DO BENEFÍCIO. PEDIDO INDEFERIDO PELA VEC, COM A CHANCELA DO TRIBUNAL ESTADUAL, SOB A ORIENTAÇÃO DE SE MOSTRAR AUSENTE O REQUISITO SUBJETIVO. ALEGATIVA DE SER A REFERIDA AVALIAÇÃO DESNECESSÁRIA PARA A OUTORGA DA BENESSE PLEITEADA. DESCABIMENTO. POSSIBILIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO, DIANTE DO CASO CONCRETO, BEM COMO DE VIR O JULGADOR A SE VALER DE TAL PERÍCIA PARA FORMAR SUA CONVICÇÃO. DÚVIDAS FUNDADAS DE NÃO SE ACHAR ATENDIDO O REQUISITO SUBJETIVO PELO PACIENTE, CONDENADO PELO COMETIMENTO DE CRIME EXTREMAMENTE GRAVE. INCIDÊNCIA DO ENUNCIADO 439 DA SÚMULA DO STJ. PRECEDENTES DO STJ. PARECER PELO CONHECIMENTO E PELO IMPROVIMENTO DO RECURSO."
+É o relatório.
+Decido.
+O presente recurso encontra-se prejudicado.
+Consoante se infere das razões recursais, busca-se a progressão do recorrente ao regime semiaberto.
+Ocorre que em consulta ao sítio eletrônico do eg. Tribunal de origem, observa-se que o Juízo das Execuções, em 23/08/2018, determinou ao "Sr. [NOME], certifique se o Apenado, vem comparecendo mensalmente em Juízo, para justificar suas atividades e assinar o livro de freqüência", do que se infere que o recorrente já encontra-se em liberdade.
+Tal realidade prejudica a análise de eventual ilegalidade no v. acórdão, à vista da perda superveniente do objeto.
+Ante o exposto, julgo prejudicado o presente recurso.
+P. e I.
