@@ -1,0 +1,40 @@
+EMENTA
+PENAL E PROCESSO PENAL. FURTO QUALIFICADO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo manejado por [NOME] em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o juízo singular condenou o agravante às penas de 1 (um) ano de reclusão, em regime inicial semiaberto, mais o pagamento de 10 (dez) dias-multa, pela prática do crime tipificado no art. 155, § 4º, inciso I, c/c o art. 14, inciso II, ambos do Código Penal, concedido o direito de recorrer em liberdade (fls. 258-272).
+O eg. Tribunal a quo deu parcial provimento ao apelo da defesa, apenas para redimensionar a reprimenda ao patamar de 10 (dez) meses e 20 (vinte) dias de reclusão mais o pagamento de 04 (quatro) dias-multa, mantendo, no mais, a sentença condenatória, nos termos do v. acórdão de fls. 337-353, assim ementado:
+"Furto qualificado - Apelo defensivo do acusado ÉDERSON buscando a absolvição por insuficiência probatória ou por atipicidade da conduta. Subsidiariamente, o reconhecimento de sua semiimputabilidade, a desclassificação para o crime de furto simples e a fixação de sua pena base no mínimo legal - Autoria e materialidade que restaram configuradas ante os elementos probatórios dos autos - Impossibilidade de se reconhecer a semiimputabilidade do agente, pois não há nos autos prova dessa circunstância - Inviável o afastamento da qualificadora que restou comprovada pela prova pericial - Pena-base que deve ser reduzida, considerando-se apenas os maus antecedentes Recurso parcialmente provido.
+Apelo defensivo do acusado WASHINGTON buscando a absolvição por insuficiência probatória ou por atipicidade da conduta.
+Subsidiariamente, a desclassificação para o crime de furto simples - Autoria e materialidade que restaram configuradas ante os elementos probatórios dos autos - Inviável o afastamento da qualificadora que restou comprovada pela prova pericial - Pena-base que deve ser reduzida Recurso parcialmente provido." (fl. 340).
+Interposto recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a defesa alegou ofensa ao art. 33 e ao art. 59 ambos do Código Penal, porquanto entende que o v. acórdão vergastado manteve a reprimenda imposta pelo édito condenatório, com base apenas na gravidade do delito.
+Apresentadas as contrarrazões (fls. 363-370), sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 284/STF, ante a deficiência de fundamentação do recurso.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 7.953-7.961).
+O Ministério Público Federal, no parecer de fls. 402-405, manifestou-se pelo não conhecimento ou pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, in casu, o óbice da Súmula 284/STF.
+Ao que se tem, o agravo apenas reforçou as teses recursais e sem, contudo, preocupar-se em atacar o único fundamento da decisão de admissibilidade do recurso especial.
+No caso, deveria o agravante evidenciar que as razões recursais impugnaram os fundamentos utilizados para assentar a decisão agravada, o que não aconteceu.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL. PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL. DELITO DE GESTÃO TEMERÁRIA - ART. 4º, PARÁGRAFO ÚNICO, DA 7.492/86. PLEITO ABSOLUTÓRIO. AUSÊNCIA DE DOLO. DOSIMETRIA. PRINCÍPIO DA PROPORCIONALIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a questão da não comprovação do dissídio jurisprudencial e a incidência do óbice da Súmula 7/STJ.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo Regimental desprovido" (AgRg nos EDcl no REsp 1588961/RS, Quinta Turma, de minha relatoria, DJe de 1º/8/2018).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido" (AgRg nos EDcl no AREsp 1199706/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 24/5/2018).
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA NÃO CONHECIDA.
+1. Enquanto a decisão que inadmitiu o Recurso Especial assentou os óbices das Súmulas n. 7 e 83/STJ, no agravo em recurso especial a defesa deixou de impugnar o fundamento relativo à impossibilidade de análise de matéria fático-probatória na via especial.
+2. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+APONTADA NULIDADE DO RECURSO DE APELAÇÃO. JULGAMENTO REALIZADO POR CÂMARA COMPOSTA EXCLUSIVAMENTE POR JUÍZES DE PRIMEIRO GRAU. OFENSA AO PRINCÍPIO DO JUIZ NATURAL. INOCORRÊNCIA. ILEGALIDADE INEXISTENTE.
+1. É entendimento desta Corte inexistir nulidade no julgamento de apelação realizado por órgão colegiado composto exclusivamente por juízes regularmente convocados.
+2. Agravo regimental não conhecido" (AgRg no AREsp 516.030/RS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 4/5/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, I, DO CP. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. Compete ao recorrente, nas razões do agravo regimental, infirmar especificamente todos os fundamentos expostos na decisão agravada. Incidência do enunciado 182 da Súmula do Superior Tribunal de Justiça.
+2. "Nos termos do art. 112, I, do Código Penal, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado". (AgRg no RHC 74.996/PB, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe 19/09/2017)
+3. Agravo regimental não conhecido. Habeas Corpus concedido de ofício" (AgInt no AREsp 1156766/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 28/11/2017).
+Ante o exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
