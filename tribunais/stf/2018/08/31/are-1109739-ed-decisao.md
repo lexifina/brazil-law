@@ -1,0 +1,23 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que negou seguimento a recurso, com fundamento na jurisprudência desta Corte. Eis um trecho desse julgado, no relevante:
+    “De início, a jurisprudência desta Corte é firme no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à violação ao direito adquirido, ato jurídico perfeito, bem como para discutir ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da prestação jurisdicional e dos limites da coisa julgada, quando a verificação dessas alegações depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional.
+    (…)
+    Quanto ao mérito, verifico que o Tribunal de origem, ao examinar a legislação local aplicável à espécie (Leis 3.973/2007 e 4.170/2009 do Município de Itatiba) e o conjunto probatório constante dos autos, consignou que as Leis municipais em questão, mediante acréscimo salarial, objetivaram reajustar os vencimentos dos servidores municipais.
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF. (eDOC 34, p. 2-3)
+    Nos embargos de declaração, sustenta-se omissão da decisão embargada, eis que não teria se pronunciado sobre o pagamento em dobro das férias pagas a destempo. Alega-se que a matéria referente ao pagamento das férias não demanda análise de legislação local, nem do conjunto probatório dos autos.
+    Aduz-se, ainda, que não existe no ordenamento jurídico brasileiro norma que determine o pagamento em dobro das férias e do terço constitucional, existindo apenas um entendimento proveniente do Tribunal Superior do Trabalho, de forma que teria ocorrido ofensa ao princípio da legalidade.
+    Intimada, a parte embargada não apresentou contrarrazões, conforme certidão constante do eDOC 40.
+    É o relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do CPC).
+    Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais.
+    Nesse sentido, confira-se a jurisprudência dominante do Supremo Tribunal Federal: AR 1945 AgR-ED-ED, de minha relatoria, Tribunal Pleno, DJe 8.6.2018; ARE 957886 ED-ED, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 17.11.2016.
+    Verifico que a embargante abordou a suposta ocorrência de omissão da decisão monocrática na análise do pagamento em dobro das férias não pagas no prazo do art. 145 da CLT.
+    Ocorre que, a jurisprudência desta Corte é firme no sentido de que inexiste obrigação do julgador de analisar todos os argumentos deduzidos pela parte, mas apenas que explicite, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (RE 925994 AgR-ED, Rel. Min. DIAS TOFFOLI, Segunda Turma, julgado em 07/05/2018).
+    Ainda que assim não fosse, esta Corte decidiu que a discussão sobre o pagamento em dobro das férias, em razão do descumprimento do prazo do artigo 145 da CLT, não tem repercussão geral, confira-se:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. RECLAMATÓRIA TRABALHISTA. CONCESSÃO DE FÉRIAS FORA DO PRAZO DO ART. 145 DA CONSOLIDAÇÃO DAS LEIS DO TRABALHO. PAGAMENTO EM DOBRO DA REMUNERAÇÃO CORRESPONDENTE. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa ao pagamento em dobro da remuneração de férias concedidas fora do prazo do art. 145 da Consolidação das Leis do Trabalho, fundada na interpretação desse dispositivo legal, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC”. (ARE 910351 RG, Rel. Min. Teori Zavascki, DJe 13.11.2015) (grifei).
+    Ante o exposto, rejeito os presentes embargos (art. 21, §1º, do RISTF, e art. 1.024, §2º, do atual CPC).
+    Publique-se.
+    Brasília, 31 de agosto de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
