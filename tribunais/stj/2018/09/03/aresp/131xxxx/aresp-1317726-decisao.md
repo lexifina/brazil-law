@@ -1,0 +1,23 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça de São Paulo que manteve a condenação do recorrente à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, pelo cometimento do crime do art. 33, caput, c/c 40, III, da Lei n. 11.343/06.
+Sustenta a defesa a violação do art. 33, § 2º, e 44, do Código Penal e 33, § 4º, da Lei n. 11.343/2006, alegando, em síntese, que a existência de ações penais em andamento não serve para obstar o reconhecimento do tráfico privilegiado ao fundamento de dedicação à atividade criminosa.
+Contrarrazões à e-STJ fls. 465/470
+Manifestação do Ministério Público Federal pelo desprovimento do recurso especial às e-STJ fls. 652/654.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça de São Paulo manteve a condenação do recorrente à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, pelo cometimento do crime do art. 33, caput, c/c 40, III, da Lei n. 11.343/06.
+Neste recurso, a defesa alega que a existência de ações penais em andamento não serve para obstar o reconhecimento do tráfico privilegiado ao fundamento de dedicação à atividade criminosa.
+Sem razão, isso porque a Terceira Seção desta Corte de Justiça entende que é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o réu se dedica a atividades criminosas, de modo a afastar o benefício legal previsto no art. 33, § 4º, da Lei n. 11.343/2006 (ut, AgRg no AREsp 1136353/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 04/12/2017).
+Nesse mesmo sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. REGIME PRISIONAL. PENA SUPERIOR A QUATRO E NÃO EXCEDENTE A OITO ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU PRIMÁRIO. MODO INTERMEDIÁRIO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. AUSÊNCIA DO PREENCHIMENTO DO REQUISITO OBJETIVO. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+3. O Superior Tribunal de Justiça firmou o entendimento de que existência de outros processos criminais, pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula 444 do STJ), podem afastar a incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006, quando permitem concluir que o agente é habitual na prática delitiva.
+4. Hipótese em que a instância ordinária afastou, motivadamente, a aplicação do redutor diante da comprovada habitualidade delitiva do agente, evidenciada não só na quantidade da droga apreendida, mas também nas provas colhidas nos autos e na confissão do paciente que assumiu a prática do comércio espúrio dentro de sistema prisional, onde estava encarcerado por delito anterior não transitado em julgado. Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+Precedentes.
+5. Fixada a pena definitiva em 5 anos e 10 meses de reclusão, sendo primário o réu e favoráveis as circunstâncias judiciais, o regime semiaberto é o adequado e suficiente para o cumprimento da pena privativa de liberdade, a teor do contido no art. 33, § 2º, "b", e § 3º, do Código Penal.
+6. É inadmissível a substituição da pena privativa de liberdade por restritivas de direito, pela falta do atendimento do requisito objetivo, nos termos do art. 44, I, do Código Penal.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto. (HC 425.014/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Tumra, Dje 26/03/2018)
+Maiores digressões acerca do tema demandariam reexame minucioso do conjunto fático-probatório, o que é defeso em sede de recurso especial ante o óbice da Súmula n. 7/STJ.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
