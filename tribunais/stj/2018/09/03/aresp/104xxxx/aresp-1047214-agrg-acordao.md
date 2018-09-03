@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 56 DA LEI N. 9.605/1998. ALEGAÇÃO DE VIOLAÇÃO DO ART. 156 DO CPP. ÔNUS MINISTERIAL. AUSÊNCIA DE PROVA. PERÍCIA. NECESSIDADE DE REEXAMINAR PROVAS. SÚMULA 7/STJ. NORMA PENAL EM BRANCO. COMPLEMENTAÇÃO POR LEI. AUSÊNCIA DE DELIBERAÇÃO NA INSTÂNCIA LOCAL. FALTA DE PREQUESTIONAMENTO. ART. 1.025 DO CPC.
+Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão de inadmissão de recurso especial apresentado contra decisão monocrática que conheceu de seu agravo para não conhecer do seu recurso especial, conforme termos da seguinte ementa (fl. 2.388):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 56 DA LEI N. 9.605/1998. ALEGAÇÃO DE VIOLAÇÃO DO ART. 156 DO CPP. ÔNUS MINISTERIAL. AUSÊNCIA DE PROVA. PERÍCIA. NECESSIDADE DE REEXAMINAR PROVAS. SÚMULA 7/STJ. NORMA PENAL EM BRANCO. COMPLEMENTAÇÃO POR LEI. AUSÊNCIA DE DELIBERAÇÃO NA INSTÂNCIA LOCAL. FALTA DE PREQUESTIONAMENTO.
+Agravo conhecido para não conhecer de recurso especial.
+O agravante alega, nas suas razões, em síntese, que sua intenção não seria revisar a interpretação feita pelo Tribunal a quo quanto às provas do presente processo, mas sim corrigir as consequências jurídicas da situação probatória reconhecida por aquela Corte. Intentaria, na realidade, a aplicação correta do direito, a partir de uma situação incontroversa e amplamente sedimentada no aresto. Pretenderia demonstrar que o órgão acusador teria desatendido o ônus de demonstrar a controvérsia penal, afastando-se, assim, da disposição insculpida no art. 156 do Código de Processo Penal.
+Argumenta que o crime descrito no art. 56 da Lei n. 9.605/1998 seria de resultado, requerendo uma alteração no mundo fenomênico, consistente no ataque ao bem objeto da tutela jurídica. Para aferição segura e criteriosa do agravo do meio ambiente seria necessária a realização de perícia, pois somente diante das suas conclusões seria possível a dimensão da poluição do ar.
+Sustenta, outrossim, que, em relação à falta de prequestionamento, a decisão não estaria em consonância com a orientação consolidada pelo Supremo Tribunal Federal e amplamente incorporada pelo novo Código de Processo Civil. Aduz que, uma vez invocada nos embargos de declaração para fins de prequestionamento, a discussão deveria ser tida como incluída no acórdão, independentemente de haver manifestação expressa sobre o tema no aresto produzido (fls. 2.397/2.404).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O presente agravo regimental deve ser conhecido, já que presentes os requisitos de admissibilidade.
+No mérito, todavia, não deve prosperar.
+Inicialmente, quanto à violação do art. 156 do Código de Processo Penal, o ora agravante questiona ser dispensável o reexame de provas para análise das questões postas no recurso especial.
+No entanto, importante observar o disposto no acórdão recorrido que a perícia foi produzida, cingindo-se a discussão acerca das conclusões do laudo pericial (fls. 2.254/2.256 - grifo nosso):
+ ..
+Há de se observar que o fato criminoso foi, inclusive, reconhecido na sentença recorrida, que, entretanto, absolveu os apelados, com fundamento no art. 386, inciso V, do Código Penal, relativo à ausência de prova de autoria ou de participação, argumentando que "não se conseguiu demonstrar que os réus dele  fato criminoso  tomaram parte ativamente, de modo que o corolárío lógico é a absolvição, pois não restou construído um lastro probatório sólido, suficiente a ensejar uma condenação".
+Os medicamentos com prazos de validades vencidos, pertencentes a Secretaria Municipal de Saúde do Município de Natal/RN, estavam armazenados no local descrito na denúncia e deveriam ter sido submetidos a tratamento ou disposição final específicos, de acordo com o item 11.2 da Resolução da Diretoria Coletada da ANVISA-RDC nº 306/2004 (fls. 384-385), o que não ocorreu, causando sérios danos ao meio ambiente, conforme atestaram os peritos nas respostas apresentadas aos quesitos formulados no Laudo do ITEP j(fls. 388-389).
+Dessa forma, a perícia técnica concluiu que os medicamentos estavam armazenados sem o atendimento à regulamentação estabelecida para a hipótese.
+Como o referido delito consumasse com a simples prática de uma das modalidades previstas no tipo, o armazenamento de forma irregular - em desacordo com as normas - dos medicamentos em referência, com prazos de validades vencidos, configura o crime em sua forma consumada, sendo certo que o ato de guardar ou ter em depósito produtos nocivos à saúde humana ou ao meio ambiente, em desacordo com as normas, caracteriza o dolo exigido pelo tipo.
+Quanto à autoria, verifica-se que há provas de que o crime em questão foi praticado pelos apelados [NOME] DE [NOME] e [NOME] BARBOSA [NOME].
+Pelo exame dos autos constatasse que o apelado [NOME] exerceu o cargo de Secretário de Saúde do Município de Natal/RN durante o período de abril de 2008 a janeiro de 2009 (fls. 32-33). E o apelado [NOME] exerceu o mesmo cargo durante o período de abril de 2010 a maio de 2011 (fls. 38-39).
+Na qualidade de Secretários de Saúde do Município de Natal/RN, eram eles efetivamente responsáveis pelo acondicionamento dos medicamentos do Município de Natal, conforme prevê o Decreto Municipal nº 8.778/2009, cujos trechos que interessam, alguns com destaques acrescidos, são os seguintes:
+ ..
+Do excerto, verifica-se que o acórdão se lastreou em elementos probatórios produzidos na instrução penal, em especial na prova pericial, esse inacessível em sede de recurso especial.
+A inversão da conclusão a que chegou o Tribunal a quo implicaria, necessariamente, o reexame de todo o conjunto fático-probatório, pois a instância ordinária, soberana na análise das circunstâncias fáticas da causa, concluiu existirem elementos suficientes para a condenação.
+Aplica-se, portanto, no ponto, o óbice da Súmula 7/STJ.
+Em relação à falta de prequestionamento quanto ao tipo do art. 56 da Lei n. 9.605/1998, em específico se haveria necessidade de complementação por outra lei, verifica-se não ter o tema sido objeto de deliberação.
+A questão até foi suscitada nos embargos de declaração, à fl. 2.270, mas não foi debatida no acórdão às fls. 2.309/2.314.
+Conforme dispõe o próprio dispositivo mencionado - o art. 1.025 do Código de Processo Civil -, considera-se incluído no acórdão os elementos suscitados nos embargos de declaração, caso o Tribunal Superior considere existentes erro, omissão, contradição ou obscuridade.
+Não é o caso, visto que a menção à necessidade de complementação da norma penal em branco nem sequer foi objeto da apelação ou das contrarrazões.
+Ausente, assim, o requisito do prequestionamento.
+Ante o exposto, nego provimento ao agravo regimental.
