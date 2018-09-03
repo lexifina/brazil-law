@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da Nona Câmara Cível do TJPR.
+Na origem, a recorrente ajuizou ação pleiteando a indenização do seguro DPVAT. Em primeira instância, o juiz afastou a alegação de prescrição feita pela ré.
+A seguradora interpôs agravo de instrumento, à qual foi dado provimento. O acórdão ficou assim ementado (e-STJ fl. 427):
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - SEGURO OBRIGATÓRIO DPVAT - ACIDENTE OCORRIDO EM 2002 - APLICAÇÃO DA REGRA DE TRANSIÇÃO DO ARTIGO 2028, DO CÓDIGO CIVIL DE 2002 - LAPSO PRESCRICIONAL QUE TEM INÍCIO A PARTIR DA VIGÊNCIA DA NOVA LEI (11.01.2003) - PRESCRIÇÃO TRIENAL - INTELIGÊNCIA DO ART. 206, §3º, INCISO IX, DO CÓDIGO CIVIL - AÇÃO PROPOSTA APENAS EM 2011 - AUSÊNCIA DE CAUSA INTERRUPTIVA OU SUSPENSIVA - INVALIDEZ NOTÓRIA - MARCHA CLAUDICANTE - CONSUMAÇÃO DO LAPSO TEMPORAL ANTES DA PROPOSITURA DA AÇÃO - PRETENSÃO SECURITÃRIA PRESCRITA - RECURSO PROVIDO, COM PRONUNCIAMENTO DA PRESCRIÇÃO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 449/457).
+Nas razões do recurso especial (e-STJ fls. 310/327), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega violação do art. 3º, § 2º, II, da Lei n. 6.194/1974, bem como divergência jurisprudencial, argumentando que o prazo prescricional, na presente hipótese, inicia-se a partir da perícia constatando a invalidez do segurado, pois somente o médico perito poderia atestar essa condição.
+É o relatório.
+Decido.
+Inicialmente, quanto ao prazo prescricional da pretensão ao seguro DPVAT por invalidez, a jurisprudência desta Corte Superior firmou-se, em julgado repetitivo, no sentido que, "exceto nos casos de invalidez permanente notória, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico, sendo relativa a presunção de ciência" (REsp n. 1.388.030/MG, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 11/6/2014, DJe 1º/8/2014).
+No presente caso, ao afastar o direito à indenização do seguro DPVAT, entendeu a Corte de origem que o segurado sofreu invalidez notória, de modo a iniciar o prazo da prescrição desde a vigência do novo Código Civil, em observância da regra de transição do art. 2.028 do CC/2002 (e-STJ fls. 430/439).
+Constata-se que o Tribunal a quo entendeu haver, na espécie, invalidez notória, o que afasta o termo inicial da prescrição a partir do laudo médico, em conformidade, portanto, com a orientação deste Tribunal Superior referida acima.
+Ademais, verifica-se que o acórdão se baseou nos elementos probatórios para reconhecer o caráter notório da invalidez do acidentado. Assim, é inviável alterar a conclusão do Tribunal de origem quanto ao tema pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula n. 7/STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
