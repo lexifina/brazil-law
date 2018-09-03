@@ -1,0 +1,8 @@
+DECISÃO
+JOSE NILSON GOBBI FILHO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.18.060150-2/000.
+Em consulta ao sítio eletrônico da Corte de origem, verifiquei que, em 6/8/2018, foi proferida decisão de pronúncia, por meio da qual o Juízo singular empreendeu nova avaliação sobre os fundamentos suscitados para a imposição da medida restritiva de liberdade (art. 413, § 3º, do CPP).
+Como tais razões não foram submetidas ao crivo daquele Tribunal, sua apreciação implicaria indevida supressão de instância, razão pela qual é defeso a esta Corte o exame da matéria. Assim, evidencia-se a prejudicialidade deste writ, em que se pugna pela revogação das medidas cautelares impostas.
+Ademais, é imperioso consignar que:
+ ..  a superveniência da decisão de pronúncia enfraquece a alegação da defesa. Com efeito, para a prolação da decisão de pronúncia, tem-se uma instrução prévia, na qual deverá ficar comprovada a materialidade do crime doloso contra a vida, bem como os indícios suficientes de autoria ou de participação, a autorizar a submissão do réu a julgamento pelo Tribunal do Júri. Nesse contexto, não é possível na via eleita revolver o espectro probatório dos autos a fim de analisar a alegação de ausência de justa causa por ausência de indícios de autoria  ..  (RHC n. 75.487/ES, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/9/2017, grifei).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
