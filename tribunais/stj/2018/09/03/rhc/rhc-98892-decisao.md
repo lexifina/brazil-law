@@ -1,0 +1,8 @@
+DECISÃO
+1. Trata-se de recurso ordinário habeas corpus por meio do qual se pretende, em síntese, a revogação da segregação decretada em desfavor de JOSE ROBERTO SOUZA DOS SANTOS, argumentando-se, para tanto, a ausência de fundamentação do decreto preventivo, uma vez que não descumpriu a medida cautelar de monitoramento imposta.
+Infere-se dos autos que em 19/9/2017 foi decretada a prisão do recorrente, pois teria violado a medida cautelar de monitoramento eletrônico anteriormente imposta, nos autos da ação que responde pela prática do delito previsto no art. 121, § 2º, incisos II e IV, do Código Penal.
+Não obstante, não pode prosperar o mandamus.
+2. Isso porque das informações prestadas pelo Tribunal de origem às fls. 177-200 (e-STJ), verifica-se que, em 17/10/2017, sobreveio a prolação de sentença pelo Conselho de Sentença, condenando o paciente como incurso no art. 121, § 2º, inciso II, do Código Penal, à pena de 29 (vinte e nove) anos e 2 (dois) meses de reclusão, em regime inicial fechado, ocasião em que manteve a custódia preventiva, diante da gravidade dos delitos perpetrados e da possibilidade de fuga.
+Assim, resta prejudicado o presente recuso voltado a abordar a legalidade da prisão preventiva imposta, haja vista que os fundamentos utilizados pelo Juízo singular na sentença são distintos daqueles mencionados na decisão primeva, isto é, trata-se de decisão diversa da questionada na presente impetração, sendo, portanto, novo título cuja legalidade ainda não foi examinada pelo Tribunal originário.
+3. Diante do exposto, com fundamento no art. 34, inciso XI, do Regimento Interno deste Tribunal, julga-se prejudicado o recurso ordinário em habeas corpus, pela perda de seu objeto.
+Publique-se.
