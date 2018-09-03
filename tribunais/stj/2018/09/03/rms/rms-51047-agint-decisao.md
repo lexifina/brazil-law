@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por JDENTAL MORETTI ARTIGOS DENTARIOS LTDA, [NOME], [NOME], MARISA DOS ANJOS em face da decisão de fls. 316-318 e-STJ, da lavra deste relator, que negou provimento a recurso ordinário em mandado de segurança interposto pelos ora insurgentes.
+Em síntese, os recorrentes buscavam, por meio do writ, impugnar decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que, nos autos da apelação nº 0014010-79.2010.8.26.0008, indeferiu pedido de renovação da sustentação oral.
+É o relatório. Decide-se.
+1. O presente recurso tem origem em mandado de segurança que buscava impugnar decisão proferida pelo Tribunal de Justiça do Estado de São Paulo nos autos da apelação nº 0014010-79.2010.8.26.0008. Esse recurso, por sua vez, impugnara sentença proferida na Ação de Reintegração de Posse nº 0014010-79.2010.8.26.0008, que tramitou perante a 2ª Vara Cível do Foro Regional VIII - Tatuapé, da Comarca da Capital do Estado de São Paulo.
+Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, verifica-se que o feito foi arquivado definitivamente em 15/08/2017. Anote-se, ainda, que, nos autos do Aresp 894.230/SP foi apresentada desistência, homologada por decisão deste relator com trânsito em julgado em 19/06/2016. Igualmente, o ARE 1.018.501, decorrente do mesmo processo, teve pedido de desistência homologado pelo Supremo Tribunal Federal em 23/02/2017.
+Dessa forma, há de se reconhecer a perda do objeto do mandado de segurança que subjaz ao presente agravo em recurso especial e a subsequenteperda de interesse recursal.
+2. Do exposto, com fundamento no art. 932, inciso III, do NCPC e art. 34, IX, do RISTJ, julgo extinto o procedimento recursal, ante a perda do objeto, e determino o retorno dos autos à origem.
+Publique-se. Intimem-se.
