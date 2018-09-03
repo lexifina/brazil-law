@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude das Súmulas n. 5 e 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 233):
+Seguro de vida e acidentes pessoais Execução do contrato de seguro, na qual os beneficiários pretendem o recebimento de diferença relativa ao adicional por morte acidental - Embargos do devedor rejeitados na origem, porque considerada inválida a cláusula que exclui do conceito de acidente pessoal o sinistro decorrente de complicações ocorridas durante exame médico Validade da cláusula Precedentes desta Col. Câmara Sentença reformada Recurso provido. Se a apólice limita ou particulariza os riscos do seguro, não se pode impor ao segurador responda por outros, porquanto a interpretação do contrato é sempre restritiva.
+Os embargos de declaração opostos foram acolhidos sem efeitos infringentes (e-STJ fl. 282):
+Embargos de declaração - Erro quanto ao exame realizado pela vitima/segurada Retificação para constar que foi submetida a exame de punção esternal, e não de curva glicêmica - Correção que em nada altera o resultado do julgamento - Embargos parcialmente acolhidos, apenas para corrigir o erro material (art. 463, I, CPC) Inexistência, no mais, das hipóteses taxativas previstas no art. 535 do CPC Manifesta pretensão de rediscutir matéria já apreciada - Caráter infringente - Óbice legal - Inadmissibilidade dos embargos para fins de prequestionamento à legislação supostamente afrontada, porque este pressupõe a existência das hipóteses do art. 535 do CPC, o que não é o caso - Embargos parcialmente acolhidos, sem alteração da conclusão do julgado.
+Nas razões do recurso especial (e-STJ fls. 290/322), interposto com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes alegaram ofensa aos arts. 2º, § 2º, 6º, 47 e 51 do CDC e 1.460 do CC/1916, argumentando que, na presente hipótese, o falecimento de sua filha teria gerado o direito à indenização securitária com o adicional por morte acidental.
+No agravo (e-STJ fls. 423/461), afirmam a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 2/STJ).
+O Tribunal a quo entendeu que os recorrentes não faziam jus à indenização securitária com o adicional por morte acidental, pois há cláusula válida, redigida de forma clara, que permite a imediata compreensão do segurado, excluindo tal adicional quando o óbito decorreu de complicações consequentes da realização de exames médicos, o que teria ocorrido na presente hipótese (e-STJ fls. 235/240).
+É inviável, ademais, alterar a conclusão do Tribunal de origem quanto ao tema, pois, para tanto, seria necessário reexaminar o conjunto fático-probatório, providência vedada a esta Corte, de acordo com a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
