@@ -1,0 +1,44 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. DANOS MORAIS. REVISÃO DO QUANTUM. IMPOSSIBILIDADE. RECURSO INTERPOSTO PELA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+FULA FRIDMAN (FULA) ajuizou ação cominatória c/c pedido de indenização por danos morais em face de UNIMED RIO - COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA e IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SÃO PAULO - HOSPITAL SANTA ISABEL (UNIMED e outra) aduzindo, em síntese, que precisou com urgência ser internado em decorrência de uma hemorragia contínua causada por complicações de seu câncer, não obteve o atendimento esperado da segunda requerida, que alegou não fazer parte da rede de hospitais enquadradas em seu plano de saúde.
+Requereu a condenação das requeridas ao pagamento de indenização por danos materiais e morais (e-STJ, fls.289/292).
+A demanda foi julgada procedente, bem como a medida cautelar em apenso, para compelir as requeridas a arcar com todos os gastos e atendimento de que necessitasse o requerente, condenando-as, ainda, ao pagamento dos danos morais no valor de R$ 20.000,00 (vinte mil reais), atualizado desde o julgamento e com a incidência de juros contados desde a citação.
+Condenou-se as requeridas, também, ao pagamento das custas e despesas processuais, além dos honorários advocatícios no importe de 10% do valor da condenaçaõ (e-STJ, fls.289/292).
+A UNIMED e outra interpuseram apelação e o Tribunal de origem deu parcial provimento para minorar a verba honorária para R$ 10.000,00 (dez mil reais).
+O acórdão restou assim ementado:
+APELAÇÕES CÍVEIS  Plano de saúde - Indenização por danos morais _ Cabimento - Resistência injustificada das apelantes em prestar atendimento médico ao autor, que necessitava de imediata internação hospitalar em decorrência de hemorragia contínua causada por complicações no seu câncer - Incontrovérsia acerca da existência de cobertura contratual e da necessidade do apelado se submeter ao tratamento prescrito por médico especialista - Trâmites burocráticos e dificuldades administrativas das recorrentes não justificam a má prestação do serviço, a qual ensejou o dano moral indenizável - Danos morais devidos - Quantum indenizatório que, contudo, deve ser minorado - Recurso parcialmente provido e-STJ, fl.376)
+Inconformada, a UNIMED interpôs recurso especial com base no art. 105, III, c, da Constituição Federal, sustentando violação do art. 927 do CC/02, alegando, em síntese, que o acórdão objurgado apresentou flagrante contradição em relação ao acórdão paradigma. Isso porque, no presente caso o Tribunal a quo reconheceu que houve mero inadimplemento contratual, fixou a condenação em danos morais, enquanto no paradigma, houve o reconhecimento também do mero inadimplemento contratual, porém afastou a indenização por dano moral pleiteada (e-STJ, fls. 384/395).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial (e-STJ, fls. 432/433 e 435/440 e 733/738).
+Contraminuta não apresentada (e-STJ, fl.442).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos.
+Vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INCLUSÃO INDEVIDA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO ANALÍTICA DO DISSÍDIO. INEXISTÊNCIA DE SIMILITUDE.
+1.- Inviável o conhecimento do Recurso Especial pelo dissídio, se o recorrente limita-se a transcrever a ementa do acórdão paradigma, sem proceder, contudo, ao devido cotejo analítico, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+2.- Ademais, "em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos" (AgRg no Ag 1.179.405/SP, Rel. Min. JOÃO OTÁVIO DE NORONHA, Quarta Turma, DJe 13.4.10).
+3.- Agravo Regimental improvido.
+(AgRg no AREsp 187.860/MG, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. em 14/8/2012, DJe 10/9/2012)
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. OFERECIMENTO DE QUEIXA-CRIME, AJUIZAMENTO DE AÇÃO PENAL E PROCEDIMENTOS ADMINISTRATIVO DISCIPLINAR. LEGÍTIMO EXERCÍCIO REGULAR DE DIREITO. DANO MORAL. NÃO OCORRÊNCIA. REVISÃO DESSE ENTENDIMENTO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA.
+1. Não há omissão, contradição, obscuridade ou erro material a ser sanado no acórdão embargado, que se encontra suficientemente fundamentado e em consonância com a jurisprudência desta Corte.
+2. A Corte de origem assentou que o oferecimento de queixa-crime, ajuizamento de ação penal, e deflagração de procedimentos administrativo disciplinar junto ao órgão de classe deram-se no exercício regular de direito. Insuscetível de revisão, nesta via recursal, o referido entendimento por demandar análise de matéria fática. Incidência da Súmula 7/STJ.
+3. O Superior Tribunal de Justiça firmou entendimento no sentido da impossibilidade de analisar pretensão referente a danos morais com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo os acórdãos serão sempre distintos.
+Agravo regimental improvido.
+(AgRg no AREsp 261.153/MG, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, j. em 23/4/2013, DJe 2/5/2013)
+ADMINISTRATIVO. FORNECIMENTO DE ENERGIA ELÉTRICA. DANO MORAL CONFIGURADO. REVISÃO DO VALOR. pretensão de reexame de prova.
+SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA.
+1. O entendimento reiterado do Superior Tribunal de Justiça é no sentido da ilegitimidade do corte no fornecimento de serviços públicos essenciais quando o débito decorrer de suposta fraude no medidor de consumo de energia, apurada unilateralmente pela concessionária.
+2. A fixação dos valores referentes a danos morais cabe às instâncias ordinárias, uma vez que resulta de apreciação de critérios da razoabilidade e da proporcionalidade do valor fixado, compatível com a extensão do dano causado, e razão pela qual insuscetível de revisão em sede de recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+3. Assim, para modificar tal entendimento, no sentido de que o valor atribuído aos danos morais como excessivos, como requer a agravante, seria imprescindível exceder os fundamentos colacionados no acórdão recorrido, pois demandaria incursão no contexto fático-probatório dos autos, defeso em recurso especial, nos termos da Súmula 7 desta Corte de Justiça.
+4. Não se pode conhecer do presente recurso também pela alínea "c" do permissivo constitucional quando a recorrente não realiza o necessário cotejo analítico, bem como não apresenta, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementa, não foram demonstradas as circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+4. Quanto à interposição pela alínea "c", o Superior Tribunal de Justiça firmou entendimento no sentido da impossibilidade de analisar recurso que trata de danos morais com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos.
+Agravo regimental improvido.
+(AgRg no AREsp 371.027/PE, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, j. em 24/9/2013, DJe 4/10/2013)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor da  UNIMED, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
