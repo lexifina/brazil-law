@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 0071817-28.2010.8.26.0050.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 6 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e 16 dias-multa, pela prática do delito tipificado no art. 157, § 2º, II e V, do Código Penal (e-STJ fls. 13/20).
+Irresignada, a defesa apelou e o Tribunal paulista negou provimento ao recurso, para manter incólume a sentença primeva (e-STJ fls. 22/31).
+No presente writ (e-STJ fls. 3/9), a impetrante afirma que o paciente sofre constrangimento ilegal, ao argumento de que a fração de aumento, na terceira fase da calibragem, se deu, única e exclusivamente, pelo número de majorantes, fundamentação que reputa inidônea e que vai de encontro à Súmula n. 443 do STJ.
+Diante disso, requer a redução da pena do paciente, pela aplicação da fração de 1/3, na terceira fase da dosimetria.
+Por estarem os autos suficientemente instruídos, foi dispensado o envio de informações e o Ministério Público Federal, em parecer exarado às e-STJ fls. 47/51, opinou pelo não conhecimento do mandamus e, caso conhecido, pela denegação da ordem.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Conforme relatado, busca a impetrante, em suma, a redução da pena do paciente, ante a redução da causa de aumento na terceira fase da calibragem.
+De início, cabe ressaltar que a dosimetria da pena e o seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Na espécie, ao sentenciar o paciente, a Magistrada fixou-lhe a pena, nos seguintes termos (e-STJ fls. 18/19, destaquei):
+ ..
+3 - Passo à dosagem das penas. Tendo em vista as circunstâncias judiciais do artigo 59, do Código Penal, fixo a pena base em 4 anos de reclusão e pagamento de 10 dias-multa, para ambos os acusados.
+Na segunda fase, em razão da reincidência, elevo a reprimenda para 5 anos de reclusão e pagamento de 12 dias-multa. O aumento de um quarto se justifica por ter o réu, ao menos, duas condenações anteriores definitivas e ser foragido do semi-aberto. Além disso, mostrou descaso com a Justiça ao praticar novo crime na saída que lhe foi permitida (semi-aberto em março, foragido desde maio de 2010, dia das mães).
+Em razão das duas causas de aumento, elevo a pena em 3/8. Entendo que o agente que pratica o roubo duplamente qualificado apresenta uma culpabilidade maior do que aquele que comete roubo com apenas uma qualificadora.
+Chega-se, assim, à pena final de 6 anos, 10 meses e 15 dias de reclusão e pagamento de 16 dias-multa.
+O valor do dia-multa será o mínimo legal (1/30 do valor do salário mínimo à época dos fatos), ante à condição econômica dos réus (não há elementos a justificar a fixação acima deste patamar).
+Deverá iniciar o cumprimento da pena privativa de liberdade regime fechado, em razão da reincidência, e também por se tratar de crime de roubo duplamente qualificado. Mais uma vez, anto que mostrou descaso para com o regime mais brando. E não poderá recorrer em liberdade por estar preso desde o flagrante e por ser reincidente.
+Ao julgar a apelação criminal, o relator do voto condutor do acórdão ratificou o entendimento acima, asseverando apenas que na última fase de aplicação da pena foram consideradas duas causas de aumento e corretamente majorada a pena em 3/8, não merecendo qualquer reparo (e-STJ fl. 30).
+Quanto ao aumento da pena na terceira fase da calibragem, essa Corte Superior firmou o entendimento de que o critério para a exasperação da reprimenda, em razão das causas de aumento no crime de roubo, não deve ser apenas matemático, mas subjetivo, a ser evidenciado pelas circunstâncias do caso concreto. O referido entendimento foi, inclusive, expresso no enunciado n. 443 da Súmula desta Corte, segundo o qual:
+O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+E, conforme se observa pelos trechos acima, a Corte local manteve o acréscimo fixado na sentença, na terceira fase da calibragem, em fração superior a 1/3 considerando apenas a quantidade de majorantes imputadas, deixando de evidenciar de que forma a conduta do paciente desbordou para um comportamento mais grave, fundamentação concreta que justificaria a majoração da pena em fração superior ao mínimo de 1/3.
+Dessa forma, necessária a realização de nova dosimetria das penas.
+Na primeira etapa, mantenho a pena-base operada pelas instâncias de origem, em 4 anos de reclusão e 10 dias-multa. Na segunda fase, ausentes circunstâncias atenuantes, porém, presente a agravante da reincidência, mantenho a reprimenda em 5 anos de reclusão e 12 dias-multa.
+Na terceira etapa da calibragem, aplico a fração mínima de 1/3, ficando as penas definitivamente estabelecidas em 6 anos e 8 meses de reclusão, e 16 dias-multa.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus. Contudo, concedo a ordem ex officio, para fixar as penas do paciente em 6 anos e 8 meses de reclusão, e 16 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
