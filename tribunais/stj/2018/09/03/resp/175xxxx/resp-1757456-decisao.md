@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. ART. 42, CAPUT E § 2º DA LEI 8.213/91. AUXÍLIO-DOENÇA. ARTIGOS 59 e 62 DA LEI N.º 8.213/91. REEXAME NECESSÁRIO. ATIVIDADE URBANA. QUALIDADE DE SEGURADO. CARÊNCIA. INCAPACIDADE TOTAL E TEMPORÁRIA. REQUISITOS PRESENTES. AUXÍLIO-DOENÇA DEVIDO. TERMO INICIAL. JUROS DE MORA E CORREÇÃO MONETÁRIA.
+- Comprovada a incapacidade total e temporária para o trabalho, bem como presentes os demais requisitos previstos nos artigos 59 e 62 da Lei n.º 8.213/91, é devida a concessão do beneficio de auxílio-doença.
+- O termo inicial do benefício é a data requerimento administrativo (28/10/2014 - fl. 25), de acordo com a jurisprudência do Superior Tribunal de Justiça.
+- Quanto aos juros de mora e à correção monetária, no julgamento das ADIs 4.357 e 4.425, foi objeto de declaração de inconstitucionalidade por arrastamento o art. 1º-F da Lei 9.494/97, mas limitado apenas à parte em que o texto legal estava vinculado ao art. 100, § 12, da CF, incluído pela EC 62/2009, o qual se refere tão somente à atualização de valores de requisitórios/precatórios, após sua expedição.
+- A atualização monetária das condenações impostas à Fazenda Pública até a expedição do requisitório, o art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/09, ainda não foi objeto de pronunciamento expresso pelo colendo Supremo Tribunal Federal, no tocante à constitucionalidade, de sorte que continua em pleno vigor (STF, Repercussão Geral no Recurso Extraordinário 870.947,16/04/2015, Rei. Min. Luiz Fux).
+- Impõe-se determinar a adoção dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, para fins de atualização monetária, remuneração do capital e compensação da mora, nos moldes do art. 5º da Lei 11.960/2009, a partir de sua vigência (30/6/2009).
+- Reexame necessário, apelação do INSS e da parte autora parcialmente providos.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente aponta violação dos arts. 1.022 do CPC/2015; 46, 59 e 60 da Lei 8.213/1991. Aduz que "foi negado provimento aos embargos, mantendo o entendimento de que o INSS não poderia descontar os períodos em que o trabalhador esteve vinculado ao RGPS como contribuinte individual". Defende ser impossível o pagamento de benefício por incapacidade no período em que o beneficiário trabalhou normalmente.
+Contrarrazões às fls. 233-239, e-STJ.
+O Recurso Especial não foi admitido na origem em razão da ausência de afronta a dispositivo de lei federal e do óbice da Súmula 7 do STJ. O Agravo interposto foi convertido em Recurso Especial pela decisão de fl. 257, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31 de julho de 2018.
+Inicialmente, verifico que não se configura a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentada.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007.
+In casu, a Corte de origem expôs a inexistência de comprovação efetiva dos períodos trabalhados, in verbis:
+Outrossim, o INSS argumenta que a parte autora não faz jus ao pagamento do benefício por incapacidade no período em exerceu atividade laborativa.
+A orientação firmada nesta Décima Turma é a de que o fato de a parte autora ter continuado a trabalhar, mesmo incapacitada reflete, tão somente, a realidade do segurado que, apesar da sua condição gerada pela incapacidade, conforme descreveu o laudo pericial, continua seu trabalho, enquanto espera, com maior sofrimento e provável agravamento da enfermidade, a concessão do benefício previdenciário.
+No entanto, devem ser descontados os valores referentes ao período posterior ao termo inicial fixado, em que comprovadamente a parte autora tenha trabalhado, dada a impossibilidade de cumulação dos proventos de salário com benefício por incapacidade.
+Contudo, a situação dos autos é diversa quanto ao período com contribuições à Previdência Social como contribuinte individual sem a efetiva demonstração de exercício de atividade laborativa, pois, a parte, com receio de não obter êxito judicialmente e perder a qualidade de segurado, efetua, durante o curso do processo, recolhimentos previdenciários, como contribuinte individual, porém, sem exercício de atividade laborativa, razão pela qual incabível, neste caso, o desconto.
+É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Isso posto, não conheço do Recurso Especial.
+Publique-se. Intimem-se.
