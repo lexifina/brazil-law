@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO. AGRAVO INTERNO. TETOS LIMITADORES. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/88. MENOR E MAIOR VALOR-TETO - MVT E MVT. EMENDAS CONSTITUCIONAIS 20/98 E 41/2003 (RE Nº 564.354). DECISÃO MONOCRÁTICA. NEGATIVA DE SEGUIMENTO. POSSIBILIDADE.
+1. A ausência de limitação temporal ao direito de revisão do benefício previdenciário em face dos tetos, viável e pertinente aquela, não obstante tenha sido esse concedido antes ou após a CF/88. Precedentes do STF e deste Regional.
+2. Viável a solução da lide mediante negativa de seguimento à irresignação quando o objeto dessa estiver em confronto com súmula ou jurisprudência dominante do Tribunal, bem como dos tribunais superiores. Inteligência do preceituado no artigo 932, incisos IV e VIII, do CPC, combinado com o artigo 37, § 2º, inciso II, do RITRF4R.
+3. Agravo interno do INSS desprovido
+Os Embargos de Declaração opostos pela parte ora agravante foram rejeitados.
+A parte recorrente sustenta:
+Sendo assim, fica impossibilitada a concessão da readequação do benefício concedido antes da Constituição Federal de 1988 aos tetos estabelecidos nas Emendas Constitucionais n. 20/1998 e Emenda Constitucional n. 41/2003.
+O acórdão que concedeu a revisão afrontou diretamente a legislação federal pertinente, especialmente o artigo 40 do Decreto 82.080/79 e artigos 21, 23 e 25 do Decreto 89.312/84, artigos que regulavam a forma do cálculo dos benefícios concedidos antes da constituição; o artigo 6º da LICC e o artigo 29, § 2º da Lei 8.213/91.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.5.2018.
+Constato que não se configura a ofensa ao art. 1022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e assentou os pressupostos fáticos relacionados às teses do Recurso Especial.
+O Supremo Tribunal Federal assentou a tese, sob o regime da Repercussão Geral, de que "os benefícios concedidos entre 05.10.1988 e 05.04.1991 (período do buraco negro) não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC"s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral", o que está de acordo com o que decidido pelo Tribunal de origem.
+A propósito:
+Ementa: Direito previdenciário. Recurso extraordinário. Readequação de benefício concedido entre 05.10.1988 e 05.04.1991 (buraco negro). Aplicação imediata dos tetos instituídos pelas EC"s nº 20/1998 e 41/2003. Repercussão geral. Reafirmação de jurisprudência. 1. Não ofende o ato jurídico perfeito a aplicação imediata dos novos tetos instituídos pelo art. 14 da EC nº 20/1998 e do art. 5º da EC nº 41/2003 no âmbito do regime geral de previdência social (RE 564.354, Rel. Min. Cármen Lúcia, julgado em regime de repercussão geral). 2. Não foi determinado nenhum limite temporal no julgamento do RE 564.354. Assim, os benefícios concedidos entre 05.10.1988 e 05.04.1991 (buraco negro) não estão, em tese, excluídos da possibilidade de readequação, segundo os tetos instituídos pelas EC"s nº 20/1998 e 41/2003. O eventual direito a diferenças deve ser aferido caso a caso, conforme os parâmetros já definidos no julgamento do RE 564.354. 3. Repercussão geral reconhecida, com reafirmação de jurisprudência, para assentar a seguinte tese: "os benefícios concedidos entre 05.10.1988 e 05.04.1991 (período do buraco negro) não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC"s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral".
+(RE 937595 RG, Relator(a): Min. ROBERTO BARROSO, julgado em 02/02/2017, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-101 DIVULG 15-05-2017 PUBLIC 16-05-2017)
+Consubstanciado o que previsto na Súmula Administrativa 7/STJ, condeno o recorrente sucumbente ao pagamento de honorários advocatícios 10% (dez por cento) sobre o valor da verba sucumbencial fixada na origem, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Do exposto, nego provimento ao Recurso Especial e condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem.
+Publique-se.
+Intimem-se.
