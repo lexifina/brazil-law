@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial em desfavor de decisão que inadmitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o réu foi condenado à pena de 3 (três) anos, 5 (cinco) meses de reclusão, em regime semiaberto, e 97 (noventa e sete) dias -multa, à razão de 1/10 (um décimo) - SM do tempo do fato, pelos crimes de falsidade ideológica (art. 297 - CP, por 7 vezes; art. 298, por 9 vezes - CP), e uso de documento falso (art. 304 c/c art. 297 - CP), na forma do art. 70 do CP (concurso formal).
+Interposto recurso de apelação pela defesa, foi este parcialmente provido pelo Tribunal Regional Federal da 1ª Região, por acórdão assim ementado (e-STJ, fl. 633):
+PENAL E PROCESSUAL PENAL. FALSIDADE IDEOLÓGICA. DOCUMENTO PÚBLICO E PARTICULAR. USO DE DOCUMENTO FALSO. SUBSTITUIÇÃO DA PENA. REGIME ABERTO.
+1. [NOME] recorre da sentença pela qual o Juízo o condenou à pena de 3 anos e 5 meses de reclusão, e 97 dias -multa, à razão de um décimo do salário mínimo, pela prática dos crimes de falsificação e uso de documentos públicos e particulares, em concurso formal. CP, Art. 297, Art. 298, Art. 304 e Art. 70.
+2. Apelante pretende, em suma, a desclassificação de sua conduta para o tipo do crime de estelionato; a fixação da pena no mínimo legal; a aplicação da atenuante da confissão espontânea; a concessão da suspensão condicional da pena; e a substituição da pena privativa de liberdade por uma pena restritiva de direitos. Parecer da PRR1 pelo não provimento do recurso.
+3. "Quando o falso se exaure no estelionato, sem mais potencialidade lesiva, é por este absorvido." (STJ, Súmula 17.) Hipótese em que os documentos públicos e particulares falsos permaneceram com sua potencialidade lesiva, porquanto poderiam ser usados na perpetração de outras ilicitudes, mormente a carteira de identidade falsa. Desclassificação denegada.
+4. Fixação da pena no mínimo legal. Impossibilidade, no caso. Presença de duas circunstâncias judiciais desfavoráveis. Culpabilidade e personalidade. A fixação da pena -base parte do mínimo legal. (TRF ia Região, EINACR 2005.35.00.023131-6/GO; STF, HC 76196/GO.) " Entretanto, basta que um dos fatores mencionados no artigo 59 do Código Penal  não seja favorável para que a pena não mais possa ficar no patamar mínimo." (STF, HC 76196/GO; HC 91350/SP; RHC 96569/SP; HC 72831/SP; TRF 1ª Região, EDACR 2000.01.00.030202-6/GO; ACR 2005.35.00.023131-6/GO; ACR 2004.39.00.000135-8/PA.) 5. Suspensão condicional da pena. CP, Art. 77. Pena fixada em 3 anos e 5 meses de reclusão.
+Impossibilidade.
+6. Regime de cumprimento da pena. Fixação do regime aberto, diante do conjunto das circunstâncias judiciais (CP, Art. 59), bem como considerando o tempo de prisão provisória cumprido pelo apelante, no montante de 6 meses e 12 dias. CP, Art. 33, § 1º, alínea c, § 2º, alínea c, § 3º, e Art. 36.
+7. "O direito à substituição da pena privativa de liberdade por restritiva de direitos, previsto no art.
+44 do Código Penal, não é absoluto, e está adstrito aos limites previstos no próprio dispositivo legal." (STF, HC 85406/MG.) Porém, " t oda a vez que alguém é condenado por crime doloso à pena não superior a quatro anos, o julgador deve manifestar-se, fundamentadamente, se é ou não o caso de substituição da sanção corporal pela restritiva de direitos." (STF, HC 94874/RS.) Pena fixada em 3 anos e 5 meses de reclusão. Prisão provisória de 6 meses e 12 dias. Presença dos requisitos para a substituição da pena, previstos no Art. 44 do CP, porquanto a pena aplicada não é superior a quatro anos, não se trata de crime cometido com violência ou grave ameaça à pessoa, o apelante não é reincidente em crime doloso; a culpabilidade, os antecedentes, a conduta social e a personalidade dele, os motivos, as consequências e as circunstâncias do crime (CP, Art. 59, inciso IV), vistos em conjunto com o tempo de prisão provisória, indicam que a substituição, no caso, constitui resposta penal suficiente e eficaz. Substituição da pena privativa de liberdade por duas restritivas de direitos.
+8. Apelação provida em parte.
+Na petição de recurso especial, a parte recorrente alega a ocorrência de violação aos arts. 65, inciso III e 171, ambos do Código Penal.
+Afirma a ausência de causa agravante na culpabilidade.
+Postula a compensação entre a agravante da reincidência e a atenuante da confissão.
+Requer a incidência das Súmulas n. 17/STJ e n. 545/STJ ao caso concreto.
+Decisão de inadmissibilidade do recurso especial às fls. 666/668 afirmando que se encontra presente o óbice da Súmula n. 284/STF.
+Agravo em recurso especial às fls. 677/681.
+Contraminuta ao agravo em recurso especial às fls. 685/690.
+Parecer ministerial proferido nos termos da seguinte ementa (e-STJ, fl. 706):
+AGRAVO EM RECURSO ESPECIAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO, FALSIFICAÇÃO DE DOCUMENTO PARTICULAR E USO DE DOCUMENTO FALSO. DESCLASSIFICAÇÃO PARA O DELITO DE ESTELIONATO. PRINCÍPIO DA ESPECIALIDADE. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO CONHECIMENTO. DOSIMETRIA DA PENA. CIRCUNSTÂNCIA JUDICIAL DA CULPABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. CIRCUNSTÂNCIA ATENUANTE DA CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. COMPENSAÇÃO EFETUADA.
+- Pelo conhecimento do agravo para conhecer em parte do recurso especial a fim de negar-lhe provimento.
+É o relatório. Decido.
+Conheço do agravo eis que tempestivo e impugnou os fundamentos da decisão recorrida.
+Passo à análise do recurso especial.
+Não merece provimento a pretensão recursal.
+Primeiramente, insta ressaltar que acerca das teses relativas à valoração negativa da culpabilidade e às incidências das Súmulas n. 17/STJ e n. 545/STJ ao caso concreto, a parte recorrente não apontou quais seriam os dispositivos de lei violados, razão pela qual torna-se deficiente a fundamentação quanto ao ponto, atraindo-se o óbice da Súmula n. 284/STF.
+No que tange à atenuante da confissão, o Tribunal de origem destacou (e-STJ, fl. 631):
+Quanto à dosimetria, a pena foi fixada acima do mínimo legal pelo fato de pesar sobre o apelante inúmeras ocorrências delituosas, e não merece provimento a alegação de que não teria sido aplicada a atenuante da confissão espontânea, porque o foi, conforme se verifica da sentença recorrida (fl. 471).
+E o magistrado de piso destacou (e-STJ, fl. 478)
+Considerando a atenuante da confissão, reduzo a pena privativa de liberdade para dois anos de reclusão. Diante da presença do concurso formal dos crimes de falsificação de documento público e particular e uso de documento público falso, bem como a quantidade de crimes cometidos pelos condenados, faço incidir a causa de aumento de pena referente ao concurso formal de crimes em 1/4 (um quarto), perfazendo o total de 02 (dois) anos e 6 (seis) meses de reclusão, tornando-a definitiva à míngua de outras causas de aumento ou diminuição
+Destarte, a atenuante da confissão foi aplicada pelo Tribunal a quo, não havendo que se falar em compensação com agravante da reincidência tendo em vista que esta sequer existiu para efeitos dosimétricos da pena, restando prejudicado o referido pleito por falta de interesse recursal quanto à temática guerreada.
+Ademais tal matéria não foi sequer debatida na decisão guerreada, inexistindo o requisito do prequestionamento.
+Isto posto, não merece provimento a pretensão recursal.
+Ante o exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
