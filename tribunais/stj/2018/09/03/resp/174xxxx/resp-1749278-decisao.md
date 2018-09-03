@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado (fls. 253/260, e-STJ):
+CONSTITUCIONAL. BENEFÍCIO DE PRESTAÇÃO CONTINUADA. REMESSA OFICIAL TIDA POR INTERPOSTA. AUSÊNCIA DOS REQUISITOS LEGAIS. NATUREZA ALIMENTAR DO BENEFÍCIO. IRREPETIBILIDADE. ÔNUS DA SUCUMBÊNCIA.
+I - A r. sentença recorrida encontra-se sujeita ao duplo grau de jurisdição, nos termos do art. 10 da Lei 9,469, de 10.07.97, razão pela qual tem-se por interposta a remessa oficial, não se aplicando ao caso em tela o disposto no artigo 475, §2º, do CPC, com redação dada pela Lei 10.352/2001.
+II - Apesar de haver comprovado ser incapaz para o exercício de atividade laborativa, a autora não faz jus ao beneficio pleiteado, uma vez demonstrado que a renda familiar per capita é superior ao estabelecido em lei para a concessão do beneficio assistencial e mostra-se suficiente à satisfação de suas necessidades.
+111 - Não há que se falar em restituição dos valores recebidos a título de antecipação de tutela, eis que merece ser destacada a natureza alimentar dos benefícios assistenciais, o que os toma irrepetíveis, sendo inexequível, portanto, qualquer devolução porventura pretendida pela autarquia previdenciária IV - Não há condenação da autora ao ônus da sucumbência, por ser beneficiária da assistência judiciária gratuita (STF, RE 313.348/RS, Min.
+Sepúlveda Pertence).
+V - Remessa oficial tida por interposta e apelação do réu providas.
+Os Embargos de Declaração foram rejeitados (fls. 285/289, e-STJ).
+O recorrente aponta, preliminarmente, violação ao art. 535, I, do CPC/73, por suposta negação de prestação jurisdicional. Aduz ofensa aos arts. 876, 884 e 885 do Código Civil; 115, da Lei 8.213/91, e 475-O do CPC/73, uma vez que os benefícios previdenciários recebidos por força de decisão judicial precária devem ser devolvidos caso haja ela seja revertida.
+Contrarrazões às fls. 315/325, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.06.2018.
+Assiste razão à parte recorrente, no que tange à violação do art. 535 do CPC/73.
+De fato, houve omissão quanto à análise do art. 115, II, da Lei 8.213/91, que configura matéria crucial para o deslinde da controvérsia, sobretudo em razão da leitura que o STJ já fez acerca da matéria, em repetitivo.
+A Primeira Seção, no julgamento do Recurso Especial Representativo da Controvérsia 1.401.560/MT, definiu que é legítima a restituição de valores percebidos pelo segurado, em virtude do cumprimento de decisão judicial precária posteriormente revogada, independentemente da natureza alimentar da verba e da boa-fé do beneficiário. Observe-se:
+"PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. ANTECIPAÇÃO DE TUTELA. REVERSIBILIDADE DA DECISÃO.
+O grande número de ações, e a demora que disso resultou para a prestação jurisdicional, levou o legislador a antecipar a tutela judicial naqueles casos em que, desde logo, houvesse, a partir dos fatos conhecidos, uma grande verossimilhança no direito alegado pelo autor. O pressuposto básico do instituto é a reversibilidade da decisão judicial. Havendo perigo de irreversibilidade, não há tutela antecipada (CPC, art. 273, § 2º). Por isso, quando o juiz antecipa a tutela, está anunciando que seu decisum não é irreversível. Mal sucedida a demanda, o autor da ação responde pelo recebeu indevidamente. O argumento de que ele confiou no juiz ignora o fato de que a parte, no processo, está representada por advogado, o qual sabe que a antecipação de tutela tem natureza precária. Para essa solução, há ainda o reforço do direito material. Um dos princípios gerais do direito é o de que não pode haver enriquecimento sem causa. Sendo um princípio geral, ele se aplica ao direito público, e com maior razão neste caso porque o lesado é o patrimônio público. O art. 115, II, da Lei nº 8.213, de 1991, é expresso no sentido de que os benefícios previdenciários pagos indevidamente estão sujeitos à repetição. Uma decisão do Superior Tribunal de Justiça que viesse a desconsiderá-lo estaria, por via transversa, deixando de aplicar norma legal que, a contrario sensu, o Supremo Tribunal Federal declarou constitucional. Com efeito, o art. 115, II, da Lei nº 8.213, de 1991, exige o que o art. 130, parágrafo único na redação originária (declarado inconstitucional pelo Supremo Tribunal Federal - ADI 675) dispensava. Orientação a ser seguida nos termos do art. 543-C do Código de Processo Civil: a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos. Recurso especial conhecido e provido.
+(REsp 1401560/MT, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 12/02/2014, Dje 13/10/2015)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. TUTELA ANTECIPADA. REVOGAÇÃO. DEVOLUÇÃO DOS VALORES PAGOS EM RAZÃO DA MEDIDA ANTECIPATÓRIA. POSSIBILIDADE. RESP 1.401.560/MT, REPRESENTATIVO DA CONTROVÉRSIA.
+I - A Primeira Seção desta Corte, em sede de recurso representativo da controvérsia, ao apreciar o mérito do REsp n. 1.401.560/MT, definiu que "a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos".
+II - A Corte Especial fixou, alinhada com o julgamento precitado da Primeira Seção, que, nas hipóteses em que a antecipação de tutela é confirmada pela primeira e segunda instância, é presumida a boa-fé do receptor da verba alimentar, não obstante a revogação da medida nas instâncias especial ou extraordinária, o que não é o caso dos presentes autos. A propósito: EREsp 1.086.154/RS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 19.3.2014.
+III - Agravo interno improvido.
+(AgInt no REsp 1659472/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 24/10/2017)
+Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios. Nesse sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE.
+1. O aresto proferido no julgamento da apelação não emitiu pronunciamento acerca da legitimidade de condicionar a liberação de mercadoria importada à prestação de garantia, nos termos do art. 80 da Medida Provisória nº 2.158, de 24.08.01, argüida em contestação e nas razões de apelo. Há violação do artigo 535 do CPC quando a Corte de origem se descuida de apreciar matéria relevante ao deslinde da controvérsia posta em julgamento, cujo conhecimento lhe foi devolvido por ocasião de recurso voluntário e da remessa oficial.
+2. Regresso dos autos à origem para que novo acórdão seja proferido nos embargos de declaração.
+3. Recurso especial provido. (REsp 936.858/RN, Rel. Ministro CASTRO MEIRA , DJ 16.08.2007).
+PROCESSUAL CIVIL - EMPRÉSTIMO COMPULSÓRIO - CORREÇÃO MONETÁRIA - VIOLAÇÃO DO ART. 535 DO CPC - OCORRÊNCIA - RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Omissão sobre teses relevantes para a solução do litígio suscitadas oportunamente em embargos de declaração e que não foram examinadas pelo Tribunal de origem.
+2. Necessidade de rejulgamento dos embargos, diante da contrariedade ao art. 535 do CPC.
+3. Recurso especial provido. (REsp 781.965/RJ, Rel. Min. Eliana Calmon, DJ 13.08.2007)
+Diante do exposto, dou provimento ao Recurso Especial, anulando o julgamento dos Embargos Declaratórios, determinando que a Corte de origem expressamente se manifeste acerca da restituição/devolução dos valores recebidos pelo recorrido a título de antecipação de tutela no caso em apreço.
+Publique-se.
+Intimem-se.
