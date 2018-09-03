@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por H M 30 EMPREENDIMENTO IMOBILIÁRIO SPE LTDA, ajuizada contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo/SP, que negou provimento à apelação, nos seguintes termos:
+COMPROMISSO COMPRA E VENDA DE IMÓVEL - Repetição de indébito - Pretensão de restituição dos valores pagos a título de comissão de corretagem - Matéria posta em análise de recurso repetitivo - Julgamento proferido pelo STJ reconhecendo a validade da cláusula que transfere aos compradores a obrigação de pagar a comissão de corretagem, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da respectiva comissão - Hipótese não verificada no presente caso - Ônus da prova do qual a ré não se desincumbiu (artigo 373, inciso II do CPC) - Reembolso devido - Sentença confirmada - RECURSO NÃO PROVIDO.
+Afirma a ora reclamante, em resumo, que o mencionado acórdão divergiu do entendimento firmado pelo Superior Tribunal de Justiça, no julgamento do REsp 1.599.511/SP, submetido à sistemática do recurso especial repetitivo, ao afirmar que seria abusiva a cobrança, pelo promitente-vendedor, do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, ligado à celebração do contrato de promessa de compra e venda de imóvel.
+É o relatório.
+Decide-se.
+A reclamação não merece prosperar.
+1. De acordo com a jurisprudência da Segunda Seção do Superior Tribunal de Justiça, o ajuizamento da reclamação, que constitui medida correicional, pressupõe a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada (ut Rcl 2784/SP, 2ª Seção, Relator Ministro João Otávio de Noronha, DJ 22/05/2009).
+Assim, nos termos dos artigos 105, I, "f", da Constituição Federal, 988, inc. II, do NCPC e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Com esse norte hermenêutico, no caso dos autos, evidencia-se, desde logo, a inépcia do pedido correcional porqunão não está caracterizada nenhuma dessas hipóteses de cabimento. Isso porque, a requerente pretende a cassação de acórdão proferido em sede de apelação, sem o exaurimento das instâncias ordinárias, em evidente inobservância ao inciso II do § 5º do art. 988 do CPC.
+Em síntese, o manejo da reclamação do art. 988 do CPC/2015 é inadmitido como mero substitutivo do recurso cabível, sendo admitido tão somente para impugnar a decisão colegiada de origem que tenha apreciado o agravo interno contra a inadmissibilidade do recurso especial, nos termos do art. 1.030, I, "b", do CPC. Nesse sentido, confira-se:
+
+AGRAVO INTERNO NA RECLAMAÇÃO - INVIABILIDADE - AUSÊNCIA DE PRESSUPOSTOS DE ADMISSIBILIDADE - DELIBERAÇÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE A RECLAMAÇÃO CONSTITUCIONAL. INSURGÊNCIA DO AUTOR.
+1. Somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+2. É inadmissível a reclamação proposta para garantir a observância de acórdão proferido em julgamento de recurso especial repetitivo quando não esgotadas as instâncias ordinárias (ut. AgRg na Rcl 33.054/RS, Rel. Min. JORGE MUSSI, DJe 22/06/2017; AgInt na Rcl 33998 / SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 20/03/2018; AgInt na Rcl 34.019/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 14.8.2017; AgInt na Rcl 34.061/DF, Rel. Min. ANTONIO CARLOS FERREIRA, DJe de 21.9.2017)
+3. Agravo interno desprovido.
+AgInt na Rcl 35.515/SE, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/05/2018, DJe 30/05/2018.
+E ainda: AgInt na Rcl 32.930/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 22/02/2018, DJe 28/02/2018; Rcl 32.391/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017.
+Não há, portanto, nenhum fundamento que permita dar suporte ao processamento da reclamação, a qual é, assim, manifestamente incabível.
+2. Do exposto, com fundamento no art. 932, VIII, do Código de Processo Civil e no art. 34, XVIII, "a", do RISTJ, indefiro liminarmente a presente Reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
