@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por TOCANTINS ADMINISTRAÇÃO DE BENS LTDA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. TRIBUTÁRIO. IRPJ. CSLL. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTES SOBRE DEPÓSITOS JUDICIAIS. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. NÃO APLICAÇÃO DO PRECEDENTE DO STJ. ARGUIÇÃO DE INCONSTITUCIONALIDADE.
+1. A alteração ou modificação do julgado é possível quando verificada qualquer das possibilidades do art. 1.022 do CPC, sendo inviável, contudo quando, sob o pretexto de ocorrência de omissão, contradição ou obscuridade na decisão embargada, pretenda-se rediscutir a matéria já apreciada, pretensão que deve ser manifestada na via recursal adequada.
+2. A Corte Especial deste Tribunal, nos autos da Arguição de Inconstitucionalidade n. 5025380-97.2014.404.0000, reconheceu a inconstitucionalidade parcial, sem redução de texto, do § 1º do art. 3º da Lei nº 7.713, de 1988, do art. 17 do Decreto-Lei nº 1.598, de 1977, e do art. 43, inc. II e § 1º, do CTN (Lei nº 5.172, de 1966), devendo prevalecer tal orientação sobre o posicionamento do Superior Tribunal de Justiça firmado no Tema 504.
+3. Afastada a incidência do imposto de renda (IR) e da contribuição social sobre o lucro líquido (CSLL) sobre a taxa SELIC aplicada a depósitos judiciais.
+4. Caso em que os depósitos judiciais não foram levantados pela autora mas convertidos aos cofres públicos da União.
+Foram rejeitados os novos embargos declaratórios opostos pelo contribuinte, os quais questionavam suposta omissão do Tribunal de origem acerca da aplicação do art. 85, § 11, do CPC/2015.
+No presente recurso especial, o recorrente aponta violação dos arts. 85, § 2º e § 3º, do CPC/2015 e 20, § 4º, do CPC/1973.
+Sustenta, em síntese, que é devida a majoração dos honorários sucumbenciais fixados pelo juízo monocrático no patamar de R$ 30.000,00 (trinta mil reais), tendo em vista que o Tribunal de origem concedeu provimento ao recurso de apelação interposto pelo contribuinte, fator que enseja no consequente direito de aumento da verba honorária.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Sobre a alegada violação dos arts. 85, § 2º e § 3º, do CPC/2015 e 20, § 4º, do CPC/1973, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo dos dispositivos legais, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos enunciados sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Deve-se ressaltar, inclusive, que o contribuinte opôs embargos de declaração apenas visando o aumento dos honorários com base no art. 85, § 11, do CPC/2015, o qual versa somente sobre a fixação de honorários recursais, matéria diversa da ora debatida no presente recurso especial que, indubitavelmente, trata acerca da possibilidade de majoração dos honorários sucumbenciais.
+Não constando do acórdão recorrido análise sobre a matéria referida nos dispositivos legais indicados no recurso especial (85, § 2º e § 3º, do CPC/2015 e 20, § 4º, do CPC/1973), restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
