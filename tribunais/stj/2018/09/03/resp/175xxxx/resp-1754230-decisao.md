@@ -1,0 +1,33 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA (CADE), contra acórdão prolatado pela 8ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado (fls. 644/652e):
+ADMINISTRATIVO. CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA-CADE. COMUNICAÇÃO DE ATO DE CONCENTRAÇÃO. TEMPESTIVIDADE. LEI Nº 8.884/94, ART. 54, § 4º. RESOLUÇÃO Nº 15/98-CADE (ART. 2º). PRAZO. ILEGALIDADE. MULTA.
+I - Nos termos do § 4º do art. 54 da Lei nº 8.884/94, o prazo para submissão dos atos de concentração do poder econômico ao Conselho de Defesa Econômica - CADE é de quinze dias úteis, contados a partir de sua realização.
+II - Em razão do princípio da hierarquia das normas, o art. 2º da Resolução nº 15/1998- CADE não pode contrariar disposições da Lei nº 8.884/94, estabelecendo forma divergente de contagem de prazo previsto no § 4º do art. 54 da aludida Lei.
+III - A anulação de multa imposta pelo CADE, fundada em suposta intempestividade, decorrente de interpretação equivocada da norma legal de regência, é medida que se impõe em face da manifesta ilegalidade contida na resolução em que se embasou (q.v., verbi grafia AMS 2001.34.00.014888-4/DF; DJ 25/10/2002).
+IV - Apelação provida.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 54, caput, §§ 4º e 5º, da Lei n. 8.884/94, alegando-se, em síntese, que (fl. 715e):
+Não há como concordar com o acórdão recorrido, uma vez que o Superior Tribunal de Justiça já pacificou o entendimento sobre a questão, afirmando peremptoriamente que o Ato de Concentração deve ser apresentado no prazo de 15 (quinze) dias contados da assinatura do primeiro documento vinculativo. O citado Tribunal explicitou, inclusive, que a resolução nº 15/1998 do CADE era desnecessária, pois o Judiciário em algum momento seria chamado a interpretar o dispositivo, e chegaria, como de fato chegou, à mesma interpretação dada pela Autarquia Antitruste, a saber: que o prazo de 15 (quinze) dias deve ser contado da assinatura do primeiro documento vinculativo
+Com contrarrazões (fls. 784/799e), o recurso foi admitido (fls. 803/805e).
+O Ministério Público Federal opinou pelo conhecimento e provimento do recurso especial (fls. 820/824e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual o prazo para apresentação de atos de concentração ao CADE, previsto no art. 54, § 4º, da Lei n. 8.884/94, é de 15 (quinze) dias, contados da data de assinatura do primeiro instrumento ou documento vinculativo.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONSELHO DE ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE. APRESENTAÇÃO DO ATO DE CONCENTRAÇÃO. PRAZO FIXADO PELO ART. 54, § 4º, DA LEI N. 8.884/1994. TERMO INICIAL. PRIMEIRO ATO VINCULATIVO.
+1. O prazo para a apresentação do ato de concentração ao CADE, previsto no art. 54, § 4º, da Lei n. 8.884/1994 inicia-se com a formalização do primeiro ato vinculativo do negócio. A propósito: REsp 1287092/DF, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 21/03/2012.
+2. O contrato preliminar constitui ato vinculativo que inaugura a contagem do prazo acima descrito. Nesse sentido: AgRg no REsp 1469822/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 06/04/2015; AgRg no REsp 1433797/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 10/11/2014.
+3. No caso dos autos, o primeiro ato vinculativo (pré-contrato) é datado de 31/5/1999 e o ato de concentração somente foi apresentado ao CADE em 15/7/1999, ou seja, após a quinzena prevista no art. 54, § 4º, da Lei n. 8.884/1994.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1616584/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/06/2017, DJe 30/08/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO PELO TRIBUNAL DE ORIGEM DO ART. 535 DO CPC. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO. MULTA. CORRETA APLICAÇÃO NA INSTÂNCIA A QUO. ADMINISTRATIVO. APLICAÇÃO DE MULTA PELO PLENÁRIO DO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA. OPERAÇÃO DE CONCENTRAÇÃO DE EMPRESAS. APRESENTAÇÃO TARDIA DE DOCUMENTOS. TERMO INICIAL. DATA DA EFETIVAÇÃO DO ATO JURÍDICO COM EFICÁCIA VINCULATIVA. ART. 54 DA LEI N. 8.884/1994 E ART. 2º DA RESOLUÇÃO N. 15/1998 DO CADE. PODER REGULAMENTAR DA AUTARQUIA. MATÉRIA JÁ JULGADA PELA SEGUNDA TURMA DO STJ (RESP N. 615628/DF). RECURSO ESPECIAL NÃO PROVIDO.
+1. Preliminarmente, é improcedente argüição de ofensa ao art. 535 do Código de Processo Civil na hipótese em que o Tribunal de origem tenha adotado fundamentação suficiente para decidir de modo integral a controvérsia, atentando-se aos pontos relevantes e necessários ao deslinde do litígio.
+2. Sendo certo que as questões apontadas como omitidas foram clara e fundamentadamente examinadas nos acórdãos proferidos pelo Tribunal Recorrido, mostraram-se manifestamente descabidos os declaratórios.
+Assim, correta a aplicação, na origem, da multa de 1% sobre o valor da causa, nos termos do art. 538, parágrafo único, 1ª parte, do Código de Processo Civil.
+3. No que tange ao mérito, esta Superior Corte já decidiu que, com base nos arts. 54, § 4º, da Lei n. 8.884/94 e 2º da Resolução n.
+15/1998 do Cade , o prazo para a apresentação de atos de concentração deve se dar dentro de 15 (quinze) dias da data de assinatura do primeiro instrumento ou documento vinculativo (REsp 615628/DF, Rel. Min. Herman Benjamin, Segunda Turma, DJe 4.5.2011).
+4. Recurso especial não provido.
+(REsp 1244987/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/05/2011, DJe 30/05/2011)
+Isto posto, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PROVIMENTO ao Recurso Especial, para reconhecer que o prazo para apresentação de atos de concentração ao CADE, previsto no art. 54, § 4º, da Lei n. 8.884/94, é de 15 (quinze) dias, contados da data de assinatura do primeiro instrumento ou documento vinculativo, e determinar o retorno dos autos ao tribunal de origem para apreciação das demais questões levantadas na apelação.
+Publique-se e intimem-se.
