@@ -1,0 +1,15 @@
+Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao recurso, ante a incidência das Súmulas/STF 282, 356 e 279.
+    A parte embargante opõe estes embargos de declaração pelas razões expostas no documento eletrônico 54 e requer o acolhimento do recurso.
+    É o relatório. Decido.
+    Bem reexaminada a questão, verifico que a decisão ora atacada não merece reforma, visto que a parte embargante não aduz argumentos capazes de afastar as razões nela expendidas.
+    Por oportuno, conforme preceitua o CPC, art. 1.022, I e II, ressalto que a há pressupostos certos par oposição dos embargos de declaração, os quais, nestes autos, mostram-se ausentes. A insurgência, na espécie, reflete, tão somente, o inconformismo da parte embargante com o decidido.
+    Com efeito, a controvérsia destes autos já foi satisfatoriamente dirimida na decisão embargada, consoante se constata no seguinte trecho:
+    “A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais arguidos pelo recorrente não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, cito o ARE 772.836-AgR/PE, Rel. Min. Dias Toffoli, cuja ementa segue transcrita:
+    ‘Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa. 1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo , é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional . 2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 3. Agravo regimental não provido’ (grifei)”.
+    Verifico, portanto, que a parte embargante busca apenas a rediscussão da matéria, porém os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão.
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 3 de setembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
