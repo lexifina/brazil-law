@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARÍTIMA SAÚDE SEGUROS S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Verifica-se que o presente recurso (conexo ao REsp 1.728.545/SP) foi interposto contra acórdão proferido por ocasião do julgamento de apelação na qual se discutiu, dentre outras questões, o afastamento da multa diária aplicada em virtude do descumprimento da liminar concedida na ação de obrigação de fazer (Processo nº 1007295-62.2014.8.26.0008), que teria alcançado o valor de R$ 1.038.000,00. Nele o agravante pretende a exclusão ou redução da multa diária fixada.
+Da análise do REsp 1.728.545/SP, constata-se que ele também discute a redução da referida multa diária, além da inversão do ônus da sucumbência e honorários recursais. O REsp 1.728.545/SP foi interposto por SOMPO SAÚDE SEGUROS S/A (atual denominação de YASUDA MARÍTIMA SAÚDE SEGUROS S/A) contra acórdão proferido no julgamento do agravo de instrumento em impugnação ao cumprimento provisório de sentença, o qual reduziu a referida multa diária de cerca de R$ 1.038.000,00 para R$ 100.000,00.
+Forte nessas razões, com fundamento no art. 34, XI, do RISTJ, JULGO PREJUDICADO o presente recurso especial.
+Publique-se. Intimem-se.
