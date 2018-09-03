@@ -1,0 +1,15 @@
+DECISÃO
+[NOME], recorrente neste recurso ordinário em habeas corpus, alega sofrer coação ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que não conheceu do HC n. 2214984-15.2016.8.26.0000.
+Nas razões deste feito, a impetrante sustenta ilegalidade na condenação do réu, haja vista a "nulidade do processo ante a demonstrada e comprovada obtenção de prova ilícita" (fl. 79).
+Requer, assim, o "trancamento da ação penal em razão da nulidade absoluta que permeia o processo" (fl. 83).
+Decido.
+O Tribunal a quo não conheceu do habeas corpus lá impetrado pelos seguintes fundamentos (fl. 63):
+Seja como for, o paciente apelou da condenação e arguiu, em preliminar, a nulidade apontada, de modo que a matéria será analisada com mais propriedade na via adequada, valendo anotar que o recurso está em vias de ser julgado
+Ressalto, inicialmente, que, em consulta à página eletrônica da Corte a quo, verifiquei que o recurso de apelação já foi julgado.
+Diverge a doutrina e, sobretudo, a jurisprudência sobre a viabilidade de se examinar habeas corpus quando há apelação pendente de julgamento. Dúvidas não há de que, em se tratando de discussão acerca da liberdade de locomoção, diretamente afetada por ilegalidade ou abuso de poder, o cabimento do remédio heroico é indiscutível.
+Esse tema talvez tenha assumido notável relevância em razão do espectro de abrangência que tem sido dado, pela jurisprudência, ao habeas corpus. Se saudável foi a aceitação do writ como remédio para "todos os males", impõe definir os contornos da situação em que o mandamus é impetrado simultaneamente com o recurso de apelação e o assunto tratado naquele restringe-se a capítulo deste último.
+O recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição permite que o tribunal ad quem examine, com profundidade, todo o conjunto probatório colhido durante a instrução criminal. Assim, em princípio, a apelação é a via processual adequada para a impugnação de sentença condenatória recorrível, pois é esse recurso que devolve ao tribunal o conhecimento amplo de toda a matéria dos autos, permitindo a reapreciação de fatos e de provas, com todas as suas nuanças, sem a limitação cognitiva da via mandamental.
+Por isso mesmo é que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, tem restringido o uso do remédio constitucional em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), bem como à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do(a) paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Assim, embora seja passível a análise, em habeas corpus, da alegada nulidade, considero razoáveis as ponderações feitas pela Corte estadual, de que a apreciação da matéria implica considerações que merecem ser melhor examinadas em apelação.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
