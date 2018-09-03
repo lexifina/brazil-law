@@ -1,0 +1,6 @@
+DECISÃO
+RONIEL VICTOR AIRES CARVALHO alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Tocantins, que manteve a sua prisão preventiva no HC n. 0026220-18.2017.8.27.0000.
+O andamento processual disponibilizado na página de internet da Corte local noticia que, em 27/8/2018, foi prolatada sentença condenatória em desfavor da paciente na Ação Penal n. 0001438- 72.2017.827.2739.
+Ainda que tenha sido vedado ao réu o direito de recorrer em liberdade, a prolação do novo decisum evidencia a prejudicialidade deste recurso ordinário em habeas corpus, pois "não cabe a esta Corte averiguar a motivação do novo decreto constritivo sem que haja prévia submissão dessa tese ao Tribunal de origem, sob pena de indevida supressão de instância" (AgRg no HC n. 251.260/MG, Rel. Ministro Og Fernandes, 6ª T., DJe 24/6/2013). No mesmo sentido, confira-se o seguinte julgado da Quinta Turma: HC n. 243.953/MG, Rel. Ministro Marco Aurélio Bellizze, DJe 13/3/2013.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
