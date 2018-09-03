@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação n. 0071659-94.2015.8.26.0050.
+Narram os autos que o Juízo da 32ª Vara Criminal da comarca de São Paulo condenou o paciente às penas de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial semiaberto, e 194 dias-multa, pela prática do delito previsto no art. 33, caput, c/c art. 40, VI, ambos da Lei n. 11.343/2006, por ter em depósito, aproximadamente, 51,6g de cocaína e 99,6g de maconha (fl. 20).
+A defesa e o Ministério Público interpuseram apelação. O Tribunal local, em 1º/9/2017, deu parcial provimento ao recurso ministerial para, elevando a pena-base em 1/3, redimensionar a pena do paciente para 2 anos, 7 meses e 3 dias de reclusão, e 259 dias-multa, em regime inicial fechado (fl. 51).
+Aqui, pretende a Defensoria Pública, inclusive em liminar, a concessão da ordem para que seja afastado o aumento operado na pena base, fixado regime aberto para início do cumprimento da reprimenda e substituída a pena privativa de liberdade por restritiva de direitos (fl. 27).
+Alega, para tanto, que contrariamente ao decidido, a correta análise de tal circunstância não tinha o condão de agravar a pena base com fulcro no artigo 42 da Lei nº 11.343/06. Isto porque, como constou do próprio r. decisum adversado, foram apreendidos menos de 150g de entorpecentes em poder do paciente, sendo evidente que tal quantidade não pode ser reputada excessiva ou anormal, estando, aliás, perfeitamente compatível com o tráfico de varejo (fl. 14).
+Aduz que a fixação do regime fechado se baseou na gravidade em abstrato do delito e na necessidade de punir com maior severidade delitos desta natureza, causadores de intranquilidade social (fl. 19).
+É o relatório.
+Na espécie, a providência cautelar perseguida é induvidosamente satisfativa. A questão referente à dosimetria, em especial sobre o excesso, ou não, da pena imposta, demanda um exame mais aprofundado dos autos, o que é inviável neste juízo de cognição preliminar.
+Já, no que tange ao regime, a meu ver, embora haja circunstância judicial desfavorável - quantidade e natureza da droga apreendida, aqui, temos dito que, se a pena definitiva é inferior a 4 anos e, portanto, passível de cumprimento, em tese, em regime aberto, a fixação do regime semiaberto já traz um agravamento à situação dele. Dessa forma, seria justificável o abrandamento do regime fechado para o semiaberto, de modo a corrigir o exagero no agravamento da situação.
+Deixo o pronunciamento a respeito da substituição da privativa de liberdade por restritiva de direitos para a ocasião do julgamento do mérito da insurgência.
+Ante o exposto, defiro medida liminar para garantir a [NOME] que inicie o cumprimento da pena aplicada no Processo n. 0071659-94.2015.8.26.0050, no regime semiaberto.
+Instruídos os autos, ao Ministério Público Federal para parecer.
+Publique-se.
