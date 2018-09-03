@@ -1,0 +1,37 @@
+DECISÃO
+SIDNEI RODRIGO VIEIRO DOS SANTOS, paciente neste habeas corpus, alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 000351-58.2016.8.26.0536.
+Nesta impetração, a defesa sustenta, em resumo, a ausência de fundamentação idônea para afastar a incidência da causa especial de diminuição de pena e para fixar regime mais gravoso para o seu cumprimento.
+Requer, liminarmente, seja concedido ao réu o direito de aguardar em liberdade o julgamento final do writ. No mérito, pugna pela redução da pena e pelo abrandamento do regime.
+Concedida a liminar, em menor extensão, a fim de garantir ao paciente que aguardasse a análise do mérito da impetração em regime intermediário. O Ministério Público Federal opinou pela concessão da ordem, "apenas para que seja fixado o regime semiaberto" (fl. 43).
+Decido.
+I. Contextualização
+O paciente foi condenado, em primeira instância, à pena de 2 anos e 6 meses de reclusão, em regime inicial fechado, e 250 dias-multa, como incurso no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Tanto a defesa quanto o Ministério Público recorreram. O Tribunal a quo negou provimento ao apelo defensivo e acolheu o pedido ministerial, sob a seguinte motivação (fls. 22-24, grifei):
+Segundo o apurado, policiais militares estavam em patrulhamento de rotina quando perceberam o denunciado parado ao lado de um terreno baldio. Assim, tendo em vista que já haviam recebido denúncias anteriores de tráfico de drogas junto ao local, os policiais abordaram o indiciado. Durante a abordagem, foi possível constatar que o indiciado trazia na cintura dois frasquinhos plásticos contendo cocaína. Em buscas nas proximidades os policiais verificaram que o indiciado também guardava junto ao terreno baldio próximo, sob um pedaço de madeira, uma sacola plástica contendo o restante das drogas apreendidas além da quantia em dinheiro de quatorze reais e cinqüenta centavos.
+Inquirido pelos milicianos, SIDNEI confessou, no ato, a traficância.
+ ..
+Sobejamente comprovada a responsabilidade criminal do acusado SIDNEI, que confessou integralmente os fatos em ambas as fases da persecução penal, a Defesa sequer se insurgiu contra a condenação.
+O depoimento dos policiais [NOME] e [NOME] confirmaram a denúncia e a confissão do acusado, servindo de base para o decreto condenatório.
+ ..
+Por fim, os apelos das partes limitam-se à discutir a aplicação, ou não, do redutor previsto no § 4º do artigo 33 da Lei de Drogas e, também, a eventual fração aplicável.
+E neste diapasão, de rigor o acolhimento das razões ministeriais.
+Isto porque, SIDNEI foi surpreendido próximo a um terreno baldio, conhecido ponto de venda de drogas, enquanto trazia consigo, guardava e mantinha em depósito 67 (sessenta e sete) pinos de cocaína, com peso líquido total de 33,5g (trinta e três gramas e cinco decigramas) e 04 (quatro) porções de maconha, totalizando 11,2g (onze gramas e dois decigramas).
+Conforme adrede observado, apesar de ser primário e de não ostentar maus antecedentes, foi surpreendido com significativa quantidade de drogas, de diversas espécies, em conhecido ponto de venda de drogas, asseverando, ainda, que estava traficando há uma semana e ganhava, no máximo R$ 500,00 (quinhentos reais).
+Depreende-se, pois, que longe de ser mero neófito no mundo criminoso, possui íntima relação com a narcotraficância, além de confessar que, ainda que por breve período de tempo, dedicava-se às atividades criminosas.
+Diante disto, de rigor o afastamento da causa de diminuição prevista no artigo 33, § 4º da Lei de Drogas, mantendo inalterada a reprimenda.
+Por fim, fixado o regime fechado, não comporta abrandamento.
+O regime fechado é o único adequado à espécie, em virtude da hediondez do tráfico de drogas.
+Feito esse registro, examino as teses defensivas.
+II. Aplicação da minorante
+Para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, não obstante o paciente fosse tecnicamente primário ao tempo do delito e possuidor de bons antecedentes, verifico que o Tribunal estadual considerou inviável a aplicação da causa especial de diminuição de pena, por entender que as provas colhidas evidenciavam sua dedicação habitual ao tráfico, sobretudo porque o próprio acusado confessou que comercializava drogas há pelo menos uma semana.
+Portanto, não identifico constrangimento ilegal no ponto em que, fundamentadamente, foi negada ao réu a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas. Para entender de modo diverso e afastar a conclusão de que se dedicava a atividades delituosas, seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+III. Regime prisional inicial
+Como já destaquei ao deferir o pedido liminar, as instâncias antecedentes justificaram a imposição do modo inicialmente mais gravoso com base, tão somente, na gravidade abstrata do delito cometido e no art. 2º, § 1º, da Lei n. 8.072/1990 - cuja inconstitucionalidade, aliás, já foi declarada pelo Plenário do Supremo Tribunal Federal há quase 6 anos anos (HC n. 111.840/ES, julgamento ocorrido em 27/6/2012) -, sem, no entanto, apontar elementos concretos dos autos que, de fato, justificassem a imprescindibilidade de fixação do regime extremo.
+Impõe o registro de que tal postura do órgão judicante de origem, de descumprimento deliberado de decisão do Pleno do STF, em nada contribui para a higidez do sistema de justiça criminal e traduz menosprezo à jurisdição da Suprema Corte do país, a quem compete, por definição da Lei Maior, a função de, em última análise, dar interpretação às normas constitucionais.
+Na hipótese, diante da reprimenda definitivamente imposta ao réu, considero que o regime inicial fechado se mostra excessivamente gravoso no caso. Isso porque a natureza e a quantidade das substâncias entorpecentes apreendidas em poder do acusado (cerca de 33 g de cocaína e 11 g de maconha) não evidenciam acentuada reprovabilidade em sua conduta. O réu era tecnicamente primário ao tempo do crime e a reprimenda definitivamente imposta a ele é superior a 4 e inferior a 8 anos de reclusão.
+Portanto, entendo que o regime semiaberto é o mais adequado para a prevenção e a repressão dos delitos praticados, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem a fim de fixar o regime semiaberto para o início do cumprimento da pena.
+Publique-se e intimem-se.
