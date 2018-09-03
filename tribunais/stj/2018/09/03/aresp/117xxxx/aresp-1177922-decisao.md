@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei indicados, (b) aplicação da Súmula n. 7/STJ e (c) falta de comprovação do dissídio jurisprudencial, por inexistência de similitude fática (e-STJ fls. 410/411).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 324):
+SUSPENSÃO DO PROCESSO - Ação de consignação em pagamento, suspensa com fundamento no art. 265, IV, a, CPC - Existência de ação anulatória de arrematação extrajudicial - Prejudicialidade externa - Decisão mantida - Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 343/345).
+Nas razões do recurso especial (e-STJ fls. 347/358), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente sustentou ofensa aos arts. 131, 165, 286, 458 535 do [PLACA], por ausência de exame da aplicação dos arts. 26, caput e §§ 1º, 2º e 4º, e 27, caput e § 4º, da Lei n. 9.514/1997 ao caso.
+Aduziu, além de dissídio jurisprudencial, contrariedade aos arts. 22, 24, § 5º, 26, caput e §§ 1º ao 7º, e 27, § 2º, da Lei n. 9.514/1997, 27 da Lei n. 10.931/2004 e 421 do CC/2002, argumentando que inexistiria conexão e relação de prejudicialidade externa entre a ação anulatória da arrematação extrajudicial dos imóveis dados em garantia fiduciária pela devedora fiduciante, ora recorrida, e a demanda consignatória proposta para o depósito do saldo credor apurado na hasta em favor dessa.
+Por tais fundamentos, defendeu que seria descabida a suspensão da presente demanda até o desfecho do processo anulatório, pelo prazo de até 1 (um) ano.
+Não foram ofertadas contrarrazões (e-STJ fl. 409).
+No agravo (e-STJ fls. 414/428), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 429).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A Justiça local em cognição sumária reconheceu que foi demonstrada existência de prejudicialidade externa pelo conjunto probatório dos autos entre a demanda consignatória e a ação anulatória da arrematação extrajudicial dos imóveis dados em garantia fiduciária pela recorrida, o que justificou a suspensão da primeira ação por até 1 (um) ano, nos seguintes termos (e-STJ fls. 325/326):
+Depreende-se dos autos que a agravada figurou como avalista em contrato de mútuo, no valor de R$765.643,64, firmado entre o agravante e Remac S A Transportes Rodoviários, oferecendo em alienação fiduciária de imóveis de sua propriedade.
+Diante da inadimplência do referido contrato, consolidou-se a propriedade dos imóveis dados em garantia pelo recorrente, o qual os levou a leilão extrajudicial, com arrematação dos imóveis por terceiro no valor de R$1.105.000,00.
+Diante da recusa da agravada ao recebimento do valor correspondente à diferença entre a dívida e o preço pelo qual os imóveis foram arrematados, ingressou o agravante com a presente ação de consignação em pagamento.
+Ocorre que, encontra-se em curso ação anulatória de arrematação extrajudicial (fls. 225/235), através da qual a agravada busca a anulação do leilão extrajudicial realizado, com fundamento na ausência de sua cientificação a respeito da realização do procedimento.
+Nos termos do artigo 265, inciso IV, alínea "a", do Código de Processo Civil, "suspende-se o processo quando a sentença de mérito depender do julgamento de outra causa, ou da declaração da existência ou inexistência da relação jurídica, que constitua o objeto principal de outro processo pendente".
+No presente caso, se for julgada procedente a ação anulatória, não haverá razão para recebimento, pela agravada, do valor que pretende pagar o agravante, o que justifica a suspensão da demanda, a fim de se evitar julgamentos conflitantes.
+Desta forma, embora não obrigatória a suspensão, cabe ao juiz, caso a caso, decidir pela sua viabilidade, o que ocorreu no presente caso.
+Por tais fundamentos, a suspensão da ação consignatória deferida em primeira instância foi mantida pelo Tribunal de origem.
+Dessa forma, não assiste razão ao recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade.
+Ressalte-se que o fato de o julgamento ser contrário aos interesses do recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489 do CPC/2015), tampouco hipótese de cabimento dos aclaratórios.
+Constata-se, ainda, que a Corte de origem não resolveu a controvérsia a partir dos arts. 22, 24, § 5º, 26, caput e §§ 1º ao 7º, e 27, § 2º, da Lei n. 9.514/1997, 27 da Lei n. 10.931/2004 e 421 do CC/2002.
+De igual forma, o TJSP não se manifestou quanto à alegação de inexistência de conexão entre as demandas consignatória e anulatória.
+Dessa forma, sem terem sido objeto de debate na decisão recorrida, a referida alegação e a matéria contida em tais dispositivos não estão prequestionadas e sofrem, por conseguinte, o empecilho das Súmulas n. 211 do STJ e 282 do STF.
+Além disso, ultrapassar as conclusões do aresto impugnado, a fim de admitir inexistente a prejudicialidade externa entre as demandas supramencionadas, pelas razões sustentadas pelo recorrente, justificando, dessa maneira, reforma do acórdão recorrido para afastar sobrestamento da ação consignatória até o desfecho da mencionada ação anulatória, demandaria o exame do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. A respeito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. OFENSA AO ART. 535 DO CPC. AUSÊNCIA. SUSPENSÃO DO PROCESSO.
+PREJUDICIALIDADE EXTERNA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não se constata violação ao art. 535 do CPC quando a col. Corte de origem dirime, fundamentadamente, todas as questões suscitadas em sede de apelação cível e de embargos declaratórios. Havendo manifestação expressa acerca dos temas necessários à integral solução da lide, ainda que em sentido contrário à pretensão da parte, fica afastada qualquer omissão, contradição ou obscuridade no julgado.
+2. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, afastou a possibilidade de prosseguimento de julgamento do processo em razão de prejudicialidade externa. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial." 3. Agravo regimental a que se nega provimento.
+(AgRg no Ag n. 1.049.660/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/5/2013, DJe 24/6/2013.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. JULGAMENTO ANTECIPADO. PREJUDICIALIDADE EXTERNA. CERCEAMENTO DE DEFESA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. INVIABILIDADE. 1. Rever os fundamentos do acórdão recorrido, a fim de acolher a tese do agravante a respeito do cerceamento de defesa, demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 696.965/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/5/2017, DJe 31/5/2017.)
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973, ônus dos quais o recorrente não se desincumbiu.
+Registre-se, ainda, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
