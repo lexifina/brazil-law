@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FORNECIMENTO DE MEDICAMENTO. ASTREINTES. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão de incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 339):
+CONSTITUCIONAL. DIREITOS HUMANOS. PROCESSUAL CIVIL. VIOLAÇÃO DO ARTIGO 557 DO CPC/73. INOCORRÊNCIA. FORNECIMENTO DE MEDICAMENTO A NECESSITADO. DOENÇA PULMONAR CRÔNICA (VRS - VÍRUS RESPIRATÓRIO SINDICAL). PALIVIZUMABE (SYNAGIS). DIREITO FUNDAMENTAL À VIDA E À SAÚDE. GARANTIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 18 DO TJPE. DEVER DO ESTADO. AGRAVO INTERNO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+1. O art. 557 do CPC/73 foi inspirado nos princípios da economia processual e da razoável duração do processo e tem por finalidade a celeridade na solução dos litígios. Assim, se o relator conhece da orientação de seu órgão colegiado, desnecessário submeter-lhe, sempre e reiteradamente, a mesma controvérsia.
+2. O art. 196 da Carta Republicana assegura aos necessitados o fornecimento pelo Estado (União, Estados, DF e Munípios figurando como solidariamente responsáveis, de forma que qualquer deles ostenta legitimidade Para figurar no polo passivo de demanda que objetive o acesso à prestações de sáude pelo Poder Público), dos medicamentos e insurhos indispensáveis ao restabelecimento da saúde. .1 3. Ademais, a decisão hostilizada, datada de 22/01/2016, encontra- se alicerçada no entendimento (esposado esposado na Súmula no 18 desse Egrégio Tribunal de Justiça, segundo o qual comprovada necessidade do tratamento e falta de condiçbes de adquiri-lo, legitimado está o direito do cidadão prejudicádo em buscar a tutela jurisdiconal, impondo-se ao Estado a :ObNação de disponibilizar os meios necessários ao custeio do Medlcámento dequado ao caso, ainda que este não esteja previsto em lista oficial: 4 - Agravo Interno improvido. Decisão Unânime.
+Embargos de declaração rejeitados.
+Nas razões de apelo nobre, o recorrente sustenta, preliminarmente, ofensa ao artigo 1.022, II, do CPC/2015, diante negativa de prestação jurisdicional.
+Quanto ao mérito suscita violação ao artigo 537, do CPC/2015, ao argumento de que a astreinte fixada pelas instâncias ordinárias no valor de R$ 1.000,00 (hum mil reais) é exorbitante e incompatível com a obrigação de fornecer determinada medicação.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Preliminarmente, afasta-se a alegada violação do artigo 1.022, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mérito, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que a fixação de astreintes no valor de R$ 1.000,00 (hum mil reais) mostra-se necessária à concretização do ônus imposto, qual seja, o fornecimento de medicamento pleiteado.
+Assim, não se mostrando o valor exorbitante ou irrisório, mantendo-se adstrito aos princípios da razoabilidade e proporcionalidade, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide, ao caso, a Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. MULTA DIÁRIA. REDUÇÃO. REVISÃO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. Para rever o entendimento do Tribunal de origem a fim de reduzir o valor arbitrado a título de multa astreinte, é necessário o reexame do conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+ ..  (AgInt no AREsp 975583/PE, Segunda Turma, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 15/03/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. DESNECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR PARA IMPLEMENTAÇÃO DA MULTA COMINATÓRIA. PRECEDENTES. ASTREINTES. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. Em regra, na via especial, não é cabível a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado a título de astreintes seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, o que não se verifica na espécie.
+ ..  (AgInt no AREsp 893554/RJ, Primeira Turma, Rel. Ministro SÉRGIO KUKINA, DJe 20/03/2017)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
