@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Ceará assim ementado (fl. 114, e-STJ):
+EMENTA: PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA. APLICAÇÃO DA TEORIA DA ENCAMPAÇÃO. ALIENAÇÃO JUDICIAL DO IMÓVEL. ITBI. BASE DE CÁLCULO. VALOR DA ARREMATAÇÃO. REDUÇÃO DE ALÍQUOTA. POSSIBILIDADE. INTELIGÊNCIA DO ART. 308,1, DO CTN. PRECEDENTES DO STJ. PRECEDENTES STJ.
+1. No caso dos autos, não se vislumbrou o preenchimento dos requisitos da verossimilhança das alegações manejadas, a revelar a possibilidade de êxito do Agravo de Instrumento e do perigo da demora subjacente ao pedido formulado, necessários para a atribuição do efeito suspensivo almejado.
+2. Primeiro porque, não merece amparo a preliminar de ilegitimidade passiva suscitada, porquanto a autoridade efetivamente competente, consoante reconhecido pelo próprio agravante, é subordinado hierarquicamente ao titular da SEFIN; houve, nas informações prestadas em primeiro grau, discussão sobre o mérito da questão do mandado de segurança, ou seja, o Secretário de Finanças defendeu a legalidade do ato administrativo; e não há modificação da competência jurisdicional. Aplicação da teoria da encampação, seguindo precedentes do STJ.
+3. Já em relação ao mérito da decisão agravada, vislumbra-se que esta alinha-se ao entendimento sufragado no âmbito do colendo Superior Tribunal de Justiça no sentido de que "a arrematação corresponde à aquisição do bem alienado judicialmente, razão pela qual a base de cálculo do ITBI é o valor alcançado na hasta pública" (Aglnt no AREsp 881.107/SP, Rei. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/05/2016, DJe 12/05/2016).
+4. Ademais disso, como bem apontado pelo magistrado a quo, em uma primeira análise, depreende-se que o impetrante faz jus à redução de alíquota de 3% para 2%, com amparo no art. 308, I, do Código Tributário Municipal, uma vez que apenas não efetuou o pagamento de referido imposto de forma antecipada em decorrência de erro na descrição da área do imóvel, circunstância essa que o agravado não deu causa. Ao contrário, infere-se que, desde as datas de expedição e de apresentação da primeira carta de alienação junto à Secretaria de Finanças do Município, o impetrante, ora agravante, procurou meios para alcançar referido benefício.
+5. Por fim, não se entrevê perigo de irreversibilidade da tutela concedida em primeiro grau, considerando que a Fazenda Pública poderá se valer de meios de cobrança próprios, caso, ao final da demanda, se verifique a impossibilidade de redução de alíquota com amparo no art. 308, I, do CTN. Também não se acolhe o argumento de prejuízo em face de possível efeito multiplicador, porquanto não se está diante de decisão que afronte o princípio da legalidade. Ao contrário, encontra-se amparada em precedentes oriundos da Corte de Uniformização Infraconstitucional.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO. [NOME].
+Não houve interposição de Embargos de Declaração.
+A parte recorrente alega violação aos arts. 3º, 35, 39, 97, 116, 118 e 142 do CTN e ao art. 6º, § 3º, da LMS. Afirma que o Secretário de Finanças municipal é parte ilegítima da relação jurídica processual, porque não praticou o ato de lançamento (fl. 148, e-STJ).
+Aduz que a base de cálculo do ITBI é o seu valor venal (fl. 164, e-STJ).
+Contrarrazões apresentadas às fls. 183-188, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.6.2018.
+A irresignação não merece acolhida.
+O Tribunal cearense consignou:
+Volta-se a impetração, na origem, contra ato emanado da Secretaria de Finanças do Município de Fortaleza que efetuou a cobrança de ITBI, tendo como base de cálculo o valor da avaliação efetuada pela administração tributária em detrimento do real valor da arrematação judicial, bem como na aplicação da alíquota de 3% (três por cento), sem, contudo, considerar a hipótese prevista no art. 306 e 308, ambos do Código Tributário Municipal que admitem a redução desse percentual para 2% (dois por centos).
+O agravante, por sua vez, defende que o Secretário de Finanças seria parte ilegítima para figurar como autoridade impetrada, porquanto é superior hierárquico que não responde administrativamente pela prática de referido ato.
+O Decreto nº 11.658, de 28 de junho de 2004, determina, no seu art. 2o as competências da Secretaria de Finanças do Município - SEFIN.
+(..)
+Desta feita, de fato, não há prova, nos autos, de que o Secretário de Finanças do Município de Fortaleza tenha praticado o ato administrativo impetrado, tratando-se de atividade atribuída a outra autoridade fiscal de escalão subalterno.
+Entretanto, constata-se que o impetrado, ora agravado, encampou o ato administrativo acoimado de ilegal, o que, em tese, faz incidir a teoria da encampação para afastar a ilegitimidade apontada, desde que preenchidos os seguintes requisitos elencados na doutrina e na jurisprudência.
+Verifica-se que a questão em debate envolve, na realidade, análise de legislação local, art. 306 e 308 do CTM e do Decreto 11.658/2004, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais. A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU. TERMO INICIAL DO PRAZO PRESCRICIONAL. NOTIFICAÇÃO DO CONTRIBUINTE. ALTERAÇÃO DO MARCO PRESCRICIONAL, POR MEIO DE LEI MUNICIPAL. EXAME DE LEGISLAÇÃO LOCAL, EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. Assim, é de se reconhecer que o exame da insurgência recursal demanda, necessariamente, a prévia análise da legislação local, no caso, o Código Tributário Municipal (Lei Complementar Municipal 7/97) e o Decreto Municipal 6.392/2001. Correta, portanto, a aplicação da Súmula 280 do STF, como óbice ao processamento do Recurso Especial.
+(..)
+V. Agravo Regimental improvido.
+(AgRg no AREsp 745.219/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/11/2015).
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. INEXISTÊNCIA DE RELAÇÃO JURÍDICA. IPVA. ALIENAÇÃO DE VEÍCULO. RESPONSABILIDADE PELO PAGAMENTO DO IMPOSTO. INCIDÊNCIA DO ART. 4º DA LEI ESTADUAL 6.606/89. APLICAÇÃO DA SÚMULA 280/STJ.
+1. A Corte local, ao julgar a demanda, utilizou como fundamento o art. 4º da Lei Estadual 6.606/89, o qual impõe responsabilidade solidária pelo pagamento do IPVA ao "proprietário de veículo de qualquer espécie, que o alienar e não comunicar a ocorrência ao órgão público encarregado do registro e licenciamento, inscrição ou matrícula". Portanto, torna-se impossível a reforma do acórdão proferido, em sede de recurso especial, ante o óbice da Súmula 280/STF. Dentre os precedentes: AgRg no AREsp 106.355/SP, Rel.
+Ministro Mauro Campbell Marques, Segunda Turma, DJe 22/03/2012.
+2. Agravo regimental não provido.
+(AgRg no AREsp 111.274/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/9/2012).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTÁRIO. IPVA. DECISÃO JUDICIAL DETERMINANDO O LICENCIAMENTO DE VEÍCULO, INDEPENDENTEMENTE DO PAGAMENTO DE MULTA (DECORRENTE DE INFRAÇÃO DE TRÂNSITO). PROVIDÊNCIA QUE NÃO TEM EFICÁCIA LIBERATÓRIA DE OBRIGAÇÃO FISCAL. PRECEDENTES.
+1. A orientação das Turmas que integram a Primeira Seção/STJ pacificou-se no sentido de que "o certificado de licenciamento do veículo, ainda que condicionada a sua expedição à quitação de tributos incidentes sobre a propriedade de veículo automotor, não é dotado de qualquer eficácia liberatória de obrigação fiscal" (REsp 590.461/RS, 2ª Turma, Rel. Min. Castro Meira, DJ de 25.8.2006). No mesmo sentido: REsp 776.570/RS, 1ª Turma, Rel. Min. Luiz Fux, DJ de 2.4.2007; REsp 600.995/RS, 2ª Turma, Rel. Min. João Otávio de Noronha, DJ de 25.4.2007.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.257.967/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/9/2012).
+Por tudo isso, não conheço do Recurso Especial, com fulcro no art. 932, III, do CPC.
