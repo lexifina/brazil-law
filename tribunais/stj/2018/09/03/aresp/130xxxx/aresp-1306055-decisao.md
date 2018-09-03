@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AGRESSÃO VERBAL E HUMILHAÇÃO. PROVA TESTEMUNHAL. SUSPEIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. CONTRADITA DA TESTEMUNHA. MOMENTO PROCESSUAL. PRECLUSÃO DO TEMA. INDICAÇÃO DE OFENSA A DISPOSITIVO LEGAL IMPERTINENTE. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de indenização por danos materiais e morais em desfavor de ROSA MARIA [NOME] GOMES ALVES (ROSA), cujos pedidos foram providos em parte, com condenação a indenização por danos morais no importe de R$ 5.000,00 (cinco mil reais), acrescido de juros de mora de 1% (um por cento) ao mês, a contar da data do evento danoso, e de correção monetária pelo INPC, a partir do arbitramento (e-STJ, fls. 249/258).
+Os embargos de declaração opostos por ROSA foram rejeitados (e-STJ, fls. 292/293).
+Irresignada, ROSA interpôs apelação, que foi desprovida pelo Tribunal de origem em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AGRESSÕES VERBAIS E HUMILHAÇÕES. DANO MORAL CONFIGURADO. CONTRADITA TESTEMUNHA. PRECLUSÃO. CULPA CONCORRENTE. AUSÊNCIA DE PROVA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. INVIABILIDADE.
+1. Evidenciada a ocorrência de agressões verbais e humilhações, no local de trabalho, presenciadas por várias pessoas, o fato ultrapassa o mero dissabor, causando angústia e desgaste emocional à vítima, configuradoras do dano moral.
+2. A contradita deve ter ser feita após a qualificação da testemunha ou, se for o caso, no curso do depoimento, restando preclusa a pretensão de contraditar testemunha ouvida sob compromisso, em sede de apelação.
+3. A culpa concorrente é fato modificativo do direito do recorrido, pelo que incumbiria ao recorrente, nos termos do art. 373, II, do CPC, o ônus da prova quanto à sua existência. Não havendo prova robusta capaz de elidir a verossimilhança decorrente dos depoimentos colhidos, deve-se concluir pela ausência de culpa concorrente.
+4. Afigura-se justo o valor indenizatório, no importe de R$ 5.000,00 (cinco mil reais), porquanto arbitrado em sintonia com os princípios da razoabilidade e proporcionalidade e ponderada a extensão do dano e a condição econômico-financeira das partes.
+5. APELAÇÃO CONHECIDA E DESPROVIDA. (e-STJ, fl. 377).
+Os embargos de declaração opostos por ROSA foram rejeitados (e-STJ, fls. 396/414).
+Inconformada, ROSA interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, apontando a violação dos seguintes dispositivos legais: (1) art. 489, § 1º, IV, do NCPC, por reputar que o acórdão recorrido teria se omitido quanto à suspeição das testemunhas da parte adversa; (2) art. 447, § 3º, I e II, do NCPC, por considerar que, das três testemunhas arroladas pela recorrida, duas são amigas dela, sendo que uma também teria interesse na causa, fatos que seriam incontroversos, mas indevidamente não apreciados pelo Tribunal a quo ao fundamento de preclusão; (3) art. 1.013, § 1º, do NCPC, ao argumento de que a apelação devolve para análise do Tribunal todas as matérias suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, não incidindo preclusão, além da circunstância de que a recorrente teria requerido a contradita das testemunhas logo após a correspondente qualificação. Também indicou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior.
+O apelo nobre não foi admitido em virtude dos seguintes fundamentos: i) impossibilidade de revisão do acervo fático-probatório, incidindo a Súmula 7 do STJ; e ii) ausência de demonstração analítica da divergência jurisprudencial (e-STJ, fls. 403/407).
+Nas razões do presente agravo em recurso especial, ROSA sustentou que não pretende o revolvimento de fatos e provas e que está caracterizado o dissídio pretoriano.
+Foi oferecida contraminuta (e-STJ, fls. 487/493).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação do art. 489, § 1º, IV, do NCPC
+No caso, o Tribunal a quo se valeu dos seguintes fundamentos para rejeitar o argumento de suspeição das testemunhas arroladas pela recorrida:
+No caso em tela, os fatos descritos foram devidamente comprovados, restando demonstrado que a apelada foi agredida e humilhada verbalmente pela apelante, em seu local de trabalho (feira livre), cujas provas testemunhais produzidas corroboraram a versão apresentada na inicial.
+É o que, com propriedade, esclarece a magistrada sentenciante, verbis:
+As testemunhas [NOME] e [NOME] afirmaram que estavam no local dos fatos quando a ré abordou a autora para que ela saísse da feira e, ainda, a impediu de comercializar seus pastéis com ameaças de chamar a polícia.
+A prova testemunhal indica, ainda, que a ré batia na mesa da barraca da autora, dizendo que ela não venderia nenhum pastel naquele dia, e que esta era apenas uma feirante, enquanto aquela era uma empresária.
+Desse modo, são descabidas as alegações de que as testemunhas [NOME], [NOME] e [NOME] têm interesse na causa e são amigas da apelada. Isso porque, nos termos do art. 457, § 1º, do CPC, a apelante, caso quisesse, poderia ter contraditado tais testemunhas, entretanto, a contradita deveria ter sido feita após a qualificação da testemunha ou, se fosse o caso, no curso do depoimento, restando preclusa a pretensão de contradita de testemunha ouvida sob compromisso, em sede de apelação. (e-STJ, fls. 374/375 - sem destaque no original)
+Observa-se da transcrição supracitada que o Tribunal a quo analisou as questões que lhe pareceriam necessárias para a solução da controvérsia, tendo indicado os fundamentos do seu convencimento para a rejeição do argumento de suspeição das testemunhas arroladas pela recorrida.
+Dessa forma, não houve o vício que a recorrente apontou, pois as matérias submetidas ao Tribunal de Justiça local foram devidamente examinadas, razão pela qual não houve omissão sobre o ponto e não merece censura o acórdão que rejeitou os embargos em razão da inexistência dos vícios do art. 1.022 do NCPC.
+Na verdade, a recorrente apenas apresenta o seu inconformismo quanto ao entendimento delineado no aresto impugnado, revestindo-se a pretensão de caráter manifestamente infringente, o que não se coaduna com a medida integrativa dos embargos de declaração.
+(2) e (3) da suspeição das testemunhas arroladas e da preclusão
+O Tribunal de origem, conforme assinalado, afirmou que não poderia examinar a alegação de suspeição das testemunhas arroladas, porque o tema não foi suscitado em contradita, no momento oportuno, verificando-se a preclusão do tema operado apenas em grau de apelação.
+Referido entendimento, vale ressaltar, encontra respaldo na jurisprudência desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO. 1. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA. 2. DESCONSIDERAÇÃO DE TESTEMUNHO. DISCUSSÃO PRECLUSA. APLICAÇÃO DA LEI PROCESSUAL NOVA. OBSERVÂNCIA DA LEGISLAÇÃO VIGENTE AO TEMPO DA PRÁTICA DO ATO OBJETO DO JULGAMENTO. SÚMULA 83/STJ. 3. COMPROVAÇÃO DOS EFETIVOS DANOS CAUSADOS. REVISÃO. SÚMULA 7/STJ. 4. HONORÁRIOS ADVOCATÍCIOS. REDIMENSIONAMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+ ..
+2. A desconsideração do testemunho foi considerada preclusa, tendo em vista que o momento da contradita é aquele entre a qualificação desta e o início de seu depoimento. Precedente. Súmula 83/STJ.
+2.1. No caso, não é possível a aplicação das inovações trazidas pelo novo Código de Processo Civil, especialmente no que se refere ao art. 493, parágrafo único, para que as partes fossem ouvidas previamente antes do depoimento da testemunha, haja vista que a sentença foi proferida sob a égide do CPC/1973. Desse modo, à luz do princípio tempus regit actum e da Teoria do Isolamento dos Atos Processuais, os atos do processo devem observar a legislação vigente ao tempo de sua prática, sob pena de indevida retroação da lei nova para alcançar atos já consumados.
+(AgInt no REsp 1.652.552/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 26/06/2018, DJe 29/06/2018);
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO-OCORRÊNCIA. NEGATIVA DE VIGÊNCIA AO ART. 414, § 1º, DO CPC. OFENSA NÃO-CONFIGURADA. TESTEMUNHA. CONTRADITA. MOMENTO OPORTUNO.
+ ..
+2. O momento oportuno da contradita da testemunha arrolada pela parte contrária é aquele entre a qualificação desta e o início de seu depoimento.
+3. Recurso especial não-conhecido.
+(REsp 735.756/BA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, DJe 18/2/2010)
+ROSA alegou, nas razões do especial que a apelação, nos termos do art. 1.013, § 1º, do NCPC, devolveu para análise do Tribunal todas as matérias suscitadas e discutidas no processo, ainda que não solucionadas, razão pela qual seria impossível falar em preclusão.
+Ocorre que o dispositivo legal em comento materializa o princípio do tantum devolutum quantum apellatum, não trata de preclusão. Mostra-se, assim, incapaz de afastar as conclusões do acórdão recorrido com relação ao tema, o que atrai a incidência da Súmula nº 284 do STF.
+Mantido o acórdão recorrido no tocante a preclusão, não há como avançar na discussão relativa à efetiva existência de suspeição das testemunhas.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar o valor dos honorários advocatícios tendo em vista que fixados no patamar máximo previsto na legislação processual.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
