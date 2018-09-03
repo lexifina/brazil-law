@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por SÃO PAULO PREVIDÊNCIA - SPPREV contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial, fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 101):
+DIREITO PREVIDENCIÁRIO - Pensão por morte paga à neta de ex-servidora estadual, falecida em 2002 - Benefício extinto em 2009 em razão de maioridade - Continuidade do pagamento em virtude da beneficiária estar matriculada em curso universitário - Impossibilidade - Observância do disposto na LCE nº 1.102/07 - Precedentes - Devolução das quantias pagas, a partir da citação - Não cabimento  Natureza alimentar do benefício - Recurso de apelação parcialmente provido.
+Foram rejeitados os aclaratórios (e-STJ fl. 121).
+No especial obstaculizado, o recorrente apontou violação dos arts. 876 e 884 do Código Civil e 219 do CPC/1973. Aduziu que devem ser devolvidos os valores recebidos pela ora recorrida em razão do reconhecimento da ilegalidade do pagamento do benefício previdenciário.
+Apresentadas as contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 207 do STJ (e-STJ fls. 136/137).
+Nos presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+ Feita essa consideração, observa-se que a irresignação recursal não comporta acolhida.
+No julgamento do Recurso Especial 1.244.182-PB, pelo rito dos recursos repetitivos (art. 543-C do CPC), da lavra do Ministro Benedito Gonçalves, a Primeira Seção do Superior Tribunal de Justiça firmou o entendimento de que descabe a devolução ao erário dos valores recebidos de boa-fé pelo servidor público, quando pagos indevidamente pela Administração Pública, em função de interpretação equivocada de lei. A ementa sintetizou o julgado com o seguinte teor:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ART. 46, CAPUT, DA LEI N. 8.112/90 VALORES RECEBIDOS INDEVIDAMENTE POR INTERPRETAÇÃO ERRÔNEA DE LEI. IMPOSSIBILIDADE DE RESTITUIÇÃO. BOA-FÉ DO ADMINISTRADO. RECURSO SUBMETIDO AO REGIME PREVISTO NO ARTIGO 543-C DO CPC.
+ 1. A discussão dos autos visa definir a possibilidade de devolução ao erário dos valores recebidos de boa-fé pelo servidor público, quando pagos indevidamente pela Administração Pública, em função de interpretação equivocada de lei.
+2. O art. 46, caput, da Lei n. 8.112/90 deve ser interpretado com alguns temperamentos, mormente em decorrência de princípios gerais do direito, como a boa-fé.
+3. Com base nisso, quando a Administração Pública interpreta erroneamente uma lei, resultando em pagamento indevido ao servidor, cria-se uma falsa expectativa de que os valores recebidos são legais e definitivos, impedindo, assim, que ocorra desconto dos mesmos, ante a boa-fé do servidor público.
+4. Recurso afetado à Seção, por ser representativo de controvérsia, submetido a regime do artigo 543-C do CPC e da Resolução 8/STJ. 5. Recurso especial não provido. (REsp 1.244.182/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 10/10/12, DJe 19/10/12).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal, a fim de que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
