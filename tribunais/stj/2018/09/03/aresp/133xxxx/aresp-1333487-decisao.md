@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 83/STJ e 284/STF (e-STJ fls. 353/356).
+O acórdão recorrido está assim ementado (e-STJ fl. 331):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TITULO EXTRAJUDICIAL. ACORDO EXISTENTE. INTIMAÇÃO PARA MANIFESTAÇÃO. REALIZADA. SILÊNCIO DAS PARTES. OBSERVADO. CONCORDÂNCIA TÁCITA DOS TERMOS DO ACORDO E EXTINÇÃO DO FEITO, COM BASE NO ART. 794, INCISO I DO CPC/73. SATISFAÇÃO DA OBRIGAÇÃO. INTIMAÇÃO PESSOAL ANTES DA EXTINÇÃO. INDEVIDA, POIS NÃO TEM FUNDAMENTO EM ABANDONO DA CAUSA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 338/345), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 267, III e § 1º, 272, parágrafo único, e 794, I, do CPC/1973.
+Sustentou, em síntese, que seria necessária a intimação pessoal do exequente para se manifestar sobre o cumprimento do acordo antes da extinção da ação de execução.
+No agravo (e-STJ fls. 360/372), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fl. 378).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem concluiu que, cumprida a exigência de intimação por publicação no órgão oficial, a inércia da parte credora em se manifestar no prazo estipulado sobre o cumprimento da transação faz presumir a satisfação da obrigação, impondo-se a extinção do processo com fundamento no art. 794, I, do CPC/1973. Confira-se (e-STJ fls. 333/335):
+De início, observo que, às fls. 204, o escrivão, devidamente autorizado pelo Magistrado, determinou ao requerente que se manifestasse no prazo de cinco dias sobre o cumprimento do acordo.
+Saliento que o prazo dado foi de 5 (cinco) dias e não 30 (trinta) como indicou o recorrente em suas razões e a certidão de publicação e prazo de fls. 205, indica a data de 24/04/2014 como data em que o prazo se iniciara. A petição de manifestação do exequente (fls. 208), tem como data de protocolo judicial 05/06/2014, muito tempo depois de vencido o prazo, considerado.
+Nessa linha, considerando a presunção do cumprimento do acordo diante do silêncio das partes e a satisfação do débito ante a ausência de insurgência do credor, não há que se falar em reforma da sentença. Nesse sentido segue o STJ:
+(..)
+Assim sendo, não devem ser acolhidas as razões apresentadas pelo exequente porque precluso o seu direito de se manifestar, diante da concordância tácita ao cumprimento do acordo firmado.
+Tal entendimento está em consonância com a jurisprudência do STJ, para a qual o silêncio do credor, após sua intimação por publicação no órgão oficial, dá ensejo à presunção de quitação da dívida, autorizando a extinção do processo executivo com base no art. 794, I, do CPC/1973. Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. HOMOLOGAÇÃO DE ACORDO. SUSPENSÃO DO FEITO. DESCUMPRIMENTO DA AVENÇA PELO DEVEDOR. RETOMADA DA EXECUÇÃO COM BASE NO TÍTULO EXECUTIVO ORIGINÁRIO. AGRAVO IMPROVIDO.
+1. Em se tratando de execução suspensa em razão de acordo celebrado entre as partes, nos termos do art. 792, caput, do CPC de 1973, sem que haja animus novandi, se houver descumprimento deste por parte do devedor, o feito deve ser retomado com base no título executivo originário (CPC/73, art. 792, parágrafo único), não podendo o julgador extinguir em definitivo a execução.
+2. O acórdão proferido pelo Tribunal estadual encontra-se em consonância com o entendimento desta Corte, segundo o qual é necessária a intimação do credor para que seu silêncio possa dar ensejo à presunção de quitação da dívida, autorizando a extinção do processo executivo com base no art. 794, I, do CPC de 1973.
+3. Agravo interno improvido.
+(AgInt no REsp 1432616/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 03/08/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO DE DISPOSITIVO LEGAL. SÚM. N 284/STF. EXECUÇÃO. PAGAMENTO REALIZADO PELO CREDOR. INTIMAÇÃO DO DEVEDOR. INÉRCIA. PRESUNÇÃO DE PAGAMENTO INTEGRAL DO DÉBITO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Percebe-se que o agravo interno, além de reiterar novamente as razões do apelo extremo, impugna genericamente as razões da decisão monocrática.
+2. A jurisprudência do STJ declara regular a extinção da execução quando, mesmo intimado para se manifestar sobre o pagamento realizado pelo devedor, o credor não se manifesta, em razão da presunção do pagamento integral da dívida.
+3. Agravo interno não provido.
+(AgInt no AREsp 1213031/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/05/2018, DJe 18/05/2018.)
+ADMINISTRATIVO. EXECUÇÃO DE TÍTULO JUDICIAL. EXTINÇÃO DA EXECUÇÃO PELO PAGAMENTO. INTIMAÇÃO DO CREDOR PARA EXTINÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PRETENSÃO DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - O acórdão objeto do recurso especial está em contrariedade com o entendimento desta Corte no sentido de que é necessária a intimação do credor para que seu silêncio possa dar ensejo à presunção de quitação da dívida, autorizando a extinção do processo executivo com base no art. 794, I, do CPC de 1973. Precedentes: AgInt no REsp 1432616/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 03/08/2017).
+II - No caso dos autos a Corte de origem consignou que foi aberto prazo para manifestação da parte exequente quanto à satisfação do crédito, conforme se percebe do no trecho de fl. 206: " Vê-se que, com o pagamento das requisições de pequeno valor, houve a intimação regular dos autores para que se manifestassem acerca da satisfação do crédito, sendo-Ihes concedido o prazo de 10 (dez) dias, o qual foi em muito superado pela parte exequente, a se verificar que os autos permaneceram com carga ao advogado no período de 15/12/2008 a 12/02/2009, vindo a ser protocolada petição somente nesta última data".
+III - Assim, para chegar a conclusão diversa da alcançada pela Corte de origem seria necessário o reexame fático-probatório, inviável em recurso especial segundo o enunciado n. 7 da Súmula do STJ: "a pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+(AgInt no AREsp 913.474/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/12/2017, DJe 14/12/2017.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. EXECUÇÃO. INÉRCIA DO EXEQUENTE. PRESUNÇÃO DE SATISFAÇÃO DO CRÉDITO. EXTINÇÃO DO PROCESSO. ART. 794, INCISO I, DO CPC. INTIMAÇÃO PESSOAL DAS PARTES. DESNECESSIDADE.
+1. O acórdão embargado é no sentido de que, para haver extinção da execução com fundamento no art. 794, I, do CPC, faz-se necessária a intimação pessoal do credor sobre os valores depositados, para que, no caso de inércia, presuma-se satisfeita a dívida objeto da execução.
+2. Por sua vez, segundo o aresto paradigma, para haver a extinção da execução com base no art. 794, I, do CPC, não há necessidade de intimação pessoal, porquanto a extinção do processo não se dá por abandono, mas por satisfação da obrigação, a qual é presumida quando o credor, intimado por seu patrono, não se insurge contra os valores depositados.
+3. "Não há confundir abandono da causa pelo autor (artigo 267, inciso III, do Código de Processo Civil), com a inércia do exeqüente em impugnar, oportunamente, eventual diferença entre o valor a ele devido e o efetivamente depositado pelo executado." (REsp 422712/RS, Rel. Min. Hamilton Carvalhido, Sexta Turma, julgado em 4.6.2002, DJ 3.2.2003 p. 371).
+4. Nos termos do art. 267, § 1º, do CPC, o processo será extinto sem resolução do mérito se ficar paralisado por mais de um ano por negligência das partes, ou nos casos em que o autor abandonar a causa por mais de 30 (trinta) dias, cabendo ao juiz ordenar o arquivamento dos autos e declarar a extinção do processo se a parte - intimada pessoalmente - não suprir a falta em 48 (quarenta e oito) horas.
+5. Na hipótese dos autos, não se está diante de nenhuma das situações previstas no art. 267, § 1º, do CPC. Desse modo, tendo o advogado das partes silenciado e nada requerido após intimados pela impressa oficial para manifestar se ainda havia algo a requerer no processo de execução, correto, pois, o procedimento do magistrado de primeira instância que extinguiu a execução, por presumir, diante da falta de manifestação da exequente, satisfeita a pretensão executória.
+6. Precedentes: REsp 986.928/RJ, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, DJe 3.11.2008; REsp 897304/SP, Rel. Min. Eliana Calmon, Segunda Turma, DJ 30.11.2007; REsp 865.295/CE, Rel. Jane Silva (Desembargadora convocada do TJ/MG), Quinta Turma , DJ 19.11.2007; REsp 852.928/SP, Rel. Min. Francisco Falcão, Primeira Turma, DJ 26.10.2006; REsp 356.915/RS, Rel. Min. João Otávio de Noronha, Segunda Turma, DJ 29.3.2006; REsp 266.836/DF, Rel. Min.
+Castro Meira, Segunda Turma, DJ 1.2.2006.
+Embargos de divergência providos.
+(EREsp 844.964/SP, Relator Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 24/03/2010, DJe 09/04/2010.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
