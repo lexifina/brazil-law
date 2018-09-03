@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça daquela unidade da Federação, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 509):
+[NOME] - Vencimentos e proventos - Correção monetária - índices - URV - Lei Federal n.º 8.880/94 - Cabimento  Sentença de procedência mantida  Reexame necessário e recursos Fazendário e dos autores não providos  A Lei n.º 8.880/94, modificadora do sistema monetário, possui aplicação geral e eficácia imediata, incidindo a regra de conversão salarial em URV a todos os servidores, indistintamente (federais, estaduais, distritais e municipais).
+Foram rejeitados os aclaratórios (e-STJ fls. 534/540).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 333, I, 459, parágrafo único, do CPC/1973 e do art. 1º do Decreto n. 20.910/1932, sustentando que a parte adversa não comprovou os alegados prejuízos decorrentes da conversão do padrão monetário, que a Corte de origem não apreciou os elementos fáticos que demonstrariam a ausência do direito apontado na inicial, bem como a prescrição do fundo de direito.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de consonância com o decidido no REsp n. 1.101.726/SP, suficiente fundamentação e incidência da Súmula 7 do STJ (e-STJ fls. 636/637).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a pretensão recursal não comporta acolhida.
+No que toca à alegação de contrariedade dos arts. 333, I, 459, parágrafo único, do CPC/1973, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Em relação à prescrição de fundo de direito invocada pela parte recorrente, é firme o entendimento do Superior Tribunal de Justiça no sentido de que, na conversão do vencimento dos servidores públicos de cruzeiros reais para URV, por configurar relação de trato sucessivo, incide a prescrição apenas sobre as parcelas vencidas no quinquênio anterior ao ajuizamento da ação nos termos da Súmula 85 do STJ.
+Nessa esteira:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA REMUNERAÇÃO DE CRUZEIRO REAL PARA URV. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, II, DO CPC/73. REESTRUTURAÇÃO DE CARREIRA. LEIS ESTADUAIS. REEXAME. IMPOSSIBILIDADE. ENUNCIADO N. 7 DA SÚMULA DO STJ. PRESCRIÇÃO. INCIDÊNCIA DA SÚMULA 85 DO STJ. PRECEDENTES DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
+ ..
+III - A jurisprudência do STJ é no sentido de que, nas ações em que se busca o pagamento das diferenças salariais em decorrência de ilegalidade na conversão do vencimento dos servidores públicos de cruzeiros reais para URV, por configurar relação de trato sucessivo, ou seja, parcelas salariais pagas mês a mês, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação. Incidência do enunciado n. 85 da Súmula do STJ. Precedentes: REsp 1671566/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017 e AgInt no REsp 1634124/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017.
+IV - Agravo interno improvido.
+(AgInt no REsp 1.635.642/PR, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 10/11/2017).
+AGRAVO INTERNO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. LEI N.º 8.880/94. PRESCRIÇÃO DE FUNDO DE DIREITO. INEXISTÊNCIA DE PREJUÍZO. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 282/STF. NECESSIDADE DE PROVA PERICIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDA NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+Precedentes.
+ ..
+(AgInt nos EDcl no REsp 1.653.969/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 28/09/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
