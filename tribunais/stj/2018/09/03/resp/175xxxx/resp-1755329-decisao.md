@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte (fl. 68, e-STJ):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. PEDIDO DE RESTABELECIMENTO DE BENEFÍCIO DE APOSENTADORIA. AUSÊNCIA DE COMPROVAÇÃO DA IRREGULARIDADE DA SUSPENSÃO DO BENEFÍCIO. DECISÃO AGRAVADA MANTIDA.
+I - A agravante requer a reforma da decisão agravada sustentando, em síntese, que a suspensão do beneficio de aposentadoria se deu de forma irregular.
+II - A decisão judicial não impede o INSS de proceder à suspensão do benefício do autor, desde que seja após o trânsito em julgado do processo administrativo, ou seja, após o esgotamento de todas as vias recursais, em decisão final, em que seja facultada ao segurado a mais ampla defesa possível, em regular processo administrativo, não havendo impedimento que obste a instauração de novo procedimento administrativo.
+III - Para fazer jus ao restabelecimento do beneficio, é imprescindível a comprovação da alegada violação ao devido processo legal ou do preenchimento dos pressupostos necessários à manutenção do beneficio cancelado, o que, no entanto, não ocorreu no caso.
+IV - Vale ressaltar que o magistrado de primeiro grau aquele que, pela proximidade com o feito originário, detém maiores subsídios à decisão que se faz necessária ao deslinde da causa. O julgamento do recurso de agravo de instrumento, cujo objetivo é o aclaramento de decisão interlocutória, requer, em muitas vezes, a juntada de documentos que se traduzem como obrigatórios ao conhecimento, pela instância recursal, da realidade dos fatos que dão origem à controvérsia sobre a qual se busca a prestação jurisdicional. Tal averiguação, nesses casos, não se pode realizar sem uma robusta instrução probatória em sede da ação própria de conhecimento, razão por que não se compraz fazê-la na rápida cognição de um recurso de agravo de instrumento.
+V - Agravo de Instrumento conhecido, mas não provido.
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 502 e 508 do CPC/2015. Alega:
+Com efeito, como exposto nos lineamentos fáticos do presente Recurso, a E. 1ª Turma Especializada do Tribunal Regional Federal da 2ª Região, em sede de recurso de Agravo interposto pelo Recorrente, entendeu, por meio do v. Acórdão de fls. 65/69, de manter a decisão administrativa do Recorrido que atentou contra a coisa julgada material;
+De pronto, impende consignar que o debate estabelecido versa, unicamente, sobre o respeito à coisa julgada, (..) (fl. 76, e-STJ)
+Contrarrazões às fls. 82-86, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31.7.2018.
+A irresignação não merece prosperar.
+O Tribunal de origem, soberano na análise dos fatos e provas produzidas nos autos, concluiu que não ficaram demonstrados a comprovação da alegada violação ao devido processo legal ou o preenchimento dos pressupostos necessários à manutenção do benefício cancelado. Por oportuno, colaciona-se o seguinte trecho do acórdão recorrido, in verbis (fls. 66-67, e-STJ ):
+A decisão judicial não impede o INSS de proceder à suspensão do beneficio do autor, desde que seja após o trânsito em julgado do processo administrativo, ou seja, após o esgotamento de todas as vias recursais, em decisão final, em que seja facultada ao segurado a mais ampla defesa possível, em regular processo administrativo, não havendo impedimento que obste a instauração de novo procedimento administrativo.
+Para fazer jus ao restabelecimento do benefício, é imprescindível a comprovação da alegada violação ao devido processo legal ou do preenchimento dos pressupostos necessários à manutenção do beneficio cancelado, o que, no entanto, não ocorreu no caso.
+Vale ressaltar que o magistrado de primeiro grau aquele que, pela proximidade com o feito originário, detém maiores subsídios à decisão que se faz necessária ao deslinde da causa. O julgamento do recurso de agravo de instrumento, cujo objetivo é o aclaramento de decisão interlocutória, requer, em muitas vezes, a juntada de documentos que se traduzem como obrigatórios ao conhecimento, pela instância recursal, da realidade dos fatos que dão origem à controvérsia sobre a qual se busca a prestação jurisdicional.
+Tal averiguação, nesses casos, não se pode realizar sem uma robusta instrução probatória em sede da ação própria de conhecimento, razão por que não se compraz fazê-la na rápida cognição de um recurso de agravo de instrumento.
+Portanto, modificar o acórdão recorrido, como pretende o recorrente, demandaria o reexame de todo o contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO-ACIDENTE. PREENCHIMENTO DOS REQUISITOS. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A inversão do julgado a quo, como pretende o agravante, para que não sejam considerados preenchidos os requisitos do auxílio-acidente, não está adstrita à interpretação da legislação federal, mas, sim, ao exame de matéria fático-probatória, cuja análise é afeta às instâncias ordinárias. Mantido o óbice da Súmula 7/STJ. 2. Agravo regimental a que se nega provimento. (AgRg no AREsp 106.789/SP, Segunda Turma, Rel. Ministro Mauro Campbell Marques, julgado em 12/4/2012, DJe 18/4/2012)
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
