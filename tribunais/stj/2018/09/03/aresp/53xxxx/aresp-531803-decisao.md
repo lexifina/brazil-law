@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRÉ LAMPERT, contra decisão, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 171):
+ADMINISTRATIVO. MILITAR. TAIFEIRO DA AERONÁUTICA. PROMOÇÃO. IMPROCEDÊNCIA.
+Conclusão pela ausência de conflito entre o Decreto 3.690/00 e a Portaria R-46/GC1/2003, afastando a alegação de ilegalidade desta última por extrapolar as regulamentações daquele, na medida em que possuem campos de aplicação distintos. Improcedência da demanda. Sentença mantida.
+No especial obstaculizado, o ora agravante apontou violação dos seguintes dispositivos legais: 1º, 2º e 42 do Decreto n. 3.690/2000 e 1º da Lei n. 3.953/1961. Sustenta fazer jus à promoção pretendida, sem observar a Portaria que alterou o interstício para as promoções.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem pela aplicação da Súmula 83 do STJ (e-STJ fls. 218/220).
+Após opor embargos de declaração (e-STJ fls. 227/228), a parte interpôs agravo impugnando a incidência daquele verbete (e-STJ fls. 247/253).
+Julgado e rejeitados os aclaratórios, foi interposto novo agravo (e-STJ fls. 281/288).
+Contraminuta consta às e-STJ fls. 310/314.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida essa premissa, anoto, de início, que, em homenagem ao princípio da irrecorribilidade, o segundo agravo de e-STJ fls. 281/288 não merece ser conhecido, porquanto intempestivo.
+Dito isso, observo que o Regional manteve sentença de improcedência do pedido autoral, por entender que "o cumprimento do interstício não significa, após o transcurso do tempo, promoção automática para patente superior", a teor da seguinte fundamentação (e-STJ fls. 168/169):
+Nesse contexto, alega a parte autora que a portaria estaria eivada de ilegalidade, na medidaem que extrapola as disposições do Decreto 3.690/00 ao aumentar de 4 para 7 anos o interstício necessário à inclusão nos quadros de acessos às diversas graduações do QTA.
+Ocorre que, da leitura do parágrafo único do art. 42 do referido decreto, não se extrai uma regra de aplicação permanente, vale dizer, o dispositivo em comento, em momento algum, fixa, de forma definitiva, em 04 anos o interstício para inclusão nos Quadros de Acesso às graduações do QTA.
+Ao contrário, o decreto busca regular uma situação de transitoriedade gerada pela transposição dos integrantes do Grupamento de Supervisores-de-Taifa e os Sargentos do Subgrupamento de Subsistência (SST) ao Quadro de Taifeiros da Aeronáutica, uma vez que os grupamentos em questão foram colocados em extinção.
+Merece destaque, nessa senda, o disposto no artigo 56 do REPROGAER: Art. 56. Os interstícios e as condições peculiares serão estabelecidas em portarias do Ministro da Aeronáutica.
+Desta forma, os dois instrumentos normativos possuem campos de aplicação distintos: o Decreto 3.690/00, em seu art. 42, regulamenta a situação transitória dos militares atingidos pela transposição ao Quadro de Taifeiros da Aeronáutica; a Portaria R-46/GC1/2003, por outro lado, disciplina os interstícios necessários ao ingresso nos Quadros de Acesso às diversas graduações do QTA de forma geral, incluídos todos os militares integrantes desse quadro, inclusive aqueles afetados pela transposição, uma vez encerrada a situação de transitoriedade.
+Dessa forma, não há qualquer conflito entre o Decreto e a Portaria em epígrafe, restando afastada a alegação de ilegalidade desta última por extrapolar as regulamentações daquele, na medida em que possuem campos de aplicação distintos.
+Merece destaque, nessa senda, o disposto no artigo 56 do REPROGAER: art. 56. Os interstícios e as condições peculiares serão estabelecidas em portarias do Ministro da Aeronáutica.
+Esta Corte já entendeu que não há ilegalidade na alteração implementada pela Portaria suprarreferida, pois o interstício é apenas um dos requisitos elencados para a promoção do militar.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR MILITAR. TAIFEIRO DA AERONÁUTICA. ACESSO À GRADUAÇÃO MAIS ELEVADA. REQUISITOS ESSENCIAIS CUJA AFERIÇÃO ENCONTRA-SE NO JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE DA ADMINISTRAÇÃO. IMPOSSIBILIDADE DE AFERIÇÃO PELO PODER JUDICIÁRIO. SEGURANÇA DENEGADA.
+1. Insurge-se o impetrante contra a Portaria n. 46/2006, expedida pelo Comandante da Marinha, que elevou para 7 anos o interstício necessário para a promoção dos Sargentos do Quadro de Taifeiros à graduação de Suboficial.
+2. O acesso do Taifeiro aos graus hierárquicos mais elevados condiciona-se ao preenchimento de requisitos essenciais, dentre os quais os de conceitos profissional e moral e comportamento militar, insuscetíveis de aferição pelo Poder Judiciário, porque inerentes ao poder discricionário, não sendo o interstício o único considerado para tal finalidade, nos termos do art. 15 do Decreto 881, de 23/7/1993. (MS 10.475/DF, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, DJ 02/08/2006, p. 216) 3. Segurança denegada.
+(MS 10.471/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 24/02/2016, DJe 02/03/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. MILITAR. TAIFEIRO DA AERONÁUTICA. PORTARIA Nº R-46. AUSÊNCIA DE DIREITO ADQUIRIDO. PROMOÇÃO. REQUISITOS ESSENCIAIS. JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE DA ADMINISTRAÇÃO. IMPOSSIBILIDADE DE AFERIÇÃO PELO PODER JUDICIÁRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos dos artigos 15 a 20 do Regulamento de Promoções de Graduados da Aeronáutica (Decreto nº 881/93), o interstício é apenas um dos requisitos que integram as condições de acesso, compreendendo-se, também, o fator aptidão física; satisfação do conceito profissional, moral, e o comportamento militar.
+2. Consoante jurisprudência do STJ, se faz necessário o preenchimento dos requisitos correspondentes para a promoção de Taifeiro a graduação de suboficial.
+3. A exigência desses requisitos é de competência exclusiva da Administração, porque relacionados a juízos de conveniência e oportunidade, cujas análises são vedadas ao Poder Judiciário.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.105.062/RJ, Rel. Ministro CELSO LIMONGI, DESEMBARGADOR CONVOCADO DO TJ/SP, SEXTA TURMA, julgado em 23/03/2010, DJe 19/04/2010).
+Dessarte, incide a Súmula 83 do STJ à espécie, tal como anotado na decisão agravada.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
