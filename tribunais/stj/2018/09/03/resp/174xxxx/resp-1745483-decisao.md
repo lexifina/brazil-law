@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. CONJUNTO PROBATÓRIO SUFICIENTE. PERÍODO DE CARÊNCIA COMPROVADO. MARIDO URBANO. LOCALIZAÇÂO DA PROPRIEDADE.
+1. Tendo em vista que o conjunto probatório demonstrou o exercício de atividade rural durante o período exigido em lei, é devida a concessão do benefício de aposentadoria por idade rural.
+2. O fato de o marido da autora ter exercido atividade urbana e ser aposentado como comerciário não constitui óbice, por si só, ao enquadramento da autora como segurada especial, desde que demonstrado nos autos que a indigitada remuneração não era suficiente para tornar dispensável o labor agrícola desempenhado pela esposa ou pelo núcleo familiar.
+3. A localização do imóvel no perímetro urbano não impede o reconhecimento da atividade campesina se restar comprovado que ela era efetivamente exercida nas terras em questão.
+4. O Supremo Tribunal Federal reconheceu repercussão geral à questão da constitucionalidade do uso da TR e dos juros da caderneta de poupança para o cálculo da correção monetária e dos ônus de mora nas dívidas da Fazenda Pública, e vem determinando, por meio de sucessivas reclamações, e até que sobrevenha decisão específica, a manutenção da aplicação da Lei 11.960/2009 para este fim, ressalvando apenas os débitos já inscritos em precatório, cuja atualização deverá observar o decidido nas ADIs 4.357 e 4.425 e respectiva modulação de efeitos. A fim de guardar coerência com as recentes decisões, deverão ser adotados, por ora, os critérios de atualização e de juros estabelecidos no 1º-F da Lei 9.494/97, na redação da lei 11.960/2009, sem prejuízo de que se observe, quando da liquidação, o que vier a ser decidido pelo STF com efeitos expansivos.
+5. O INSS é condenado nos honorários advocatícios de 10% sobre o valor das parcelas vencidas até a data da sentença, em conformidade com o disposto na Súmula n.º 76 deste Tribunal.
+6. O INSS responde pelo pagamento das custas processuais quando demandado na Justiça Estadual do Paraná (Súmula 20 desta Corte).
+7. Determinado o cumprimento imediato do acórdão no tocante à implantação do benefício, a ser efetivada em 45 dias, nos termos do artigo 461 do CPC. (fl. 277, e-STJ)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. APOSENTADORIA RURAL POR IDADE. RECURSO ESPECIAL REPETITIVO 1.354.908- SP. EXERCÍCIO DA ATIVIDADE RURAL ATÉ O IMPLEMENTO DO REQUISITO ETÁRIO.
+1. O REsp. nº 1.354.908-SP estabeleceu a necessidade de o segurado estar exercendo atividade rural quando do implemento do requisito etário.
+2. O voto condutor do acórdão da Turma consignou que a parte autora comprovou o exercício da atividade rural até o implemento do requisito etário legalmente exigido para a obtenção do benefício, não havendo, portanto, desconformidade com o posicionamento adotado pelo STJ no REsp nº 1.354.908-SP.
+3. Estando o acórdão de acordo com o entendimento do STJ não é caso do juízo de reexame previsto no art. 1.040, II, do CPC/2015. (fl. 352, e-STJ).
+Os Embargos de Declaração foram parcialmente providos nos seguintes termos (fl. 303, e-STJ):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA DAS HIPÓTESES ENSEJADORAS DO RECURSO.
+1. A acolhida dos embargos declaratórios só tem cabimento nas hipóteses de omissão, contradição, obscuridade ou erro material.
+2. Estando evidenciada a tese jurídica em que se sustenta a decisão proferida nesta Instância, não é necessário declarar os dispositivos legais em que se fundamenta.
+3. Desnecessária a menção a todas as teses invocadas pelas partes e que não foram consideradas significativas para o desate da lide.
+4. A rediscussão do que já foi decidido quando do julgamento - pretensão do recurso no presente caso - é incabível via embargos de declaração, porquanto só se prestam para suprir omissões, obscuridades ou contradições, o que não é o caso.
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 1.022 do CPC/2015; 11, VII, § 1º, 48, § 2º, 55, § 3º, e 143 da Lei 8.213/1991, sob o argumento de que "o início de prova material apresentado, quanto aos documentos em nome do cônjuge da parte autora, deve ser desconsiderado para os fins do artigo 55, § 3º, Lei 8.213/91, situação que prejudica a sua pretensão de receber o benefício de aposentadoria rural por idade" (fl. 317, e-STJ).
+Contrarrazões apresentadas às fls. 322-328, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.6..2018.
+A irresignação não merece prosperar.
+Inicialmente, constato que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do recorrente.
+Em relação ao mérito, a questão da extensão da qualificação de rural do cônjuge, que passa a exercer atividade urbana, ao seu consorte, foi submetida à sistemática do art. 543-C do Código de Processo Civil pela Primeira Seção no julgamento do REsp 1.304.479/SP (DJe de 19/12/2012). Assentou-se, no referido julgamento, que o fato de um dos integrantes do grupo familiar exercer atividade urbana não é, por si só, suficiente para descaracterizar o regime de economia familiar. O determinante é averiguar se o labor urbano torna o trabalho rural dispensável para subsistência do grupo familiar.
+O Tribunal a quo, contudo, do exame do acervo probatório, reconheceu caracterizado o trabalho rural da ora recorrida.
+Portanto, verifica-se no aresto recorrido que o Tribunal a quo decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável em Recurso Especial ante o óbice estampado na Súmula 7 do STJ. Nesse sentido:
+PREVIDENCIÁRIO. VÍNCULO DE TRABALHO URBANO. EXAME ACERCA DA NECESSIDADE DA RENDA PROVENIENTE DO TRABALHO RURAL PARA FINS DE MANUTENÇÃO DO NÚCLEO FAMILIAR. IMPOSSIBILIDADE DE ANÁLISE NA VIA ESPECIAL. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A apuração acerca da dispensabilidade ou não do trabalho rural para fins de subsistência do grupo familiar, apenas seria possível mediante novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula n. 7/STJ.
+2. "O trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ). (REsp 1.304.479/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 19/12/2012, recurso submetido ao rito do art. 543-C do CPC).
+3. Agravo Regimental a que dá provimento, para não conhecer do recurso especial (AgRg no REsp 1268039/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/09/2016, DJe 11/10/2016).
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. BOIA-FRIA. COMPROVAÇÃO DO TRABALHO RURAL. INÍCIO DE PROVA MATERIAL CORROBORADO POR ROBUSTA PROVA TESTEMUNHAL. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RESP 1.304.479/SP. SÚMULA 83/STJ. RESP 1.354.908/SP. INAPLICABILIDADE.
+ ..
+5. A Primeira Seção desta Corte, no julgamento de recurso especial submetido à sistemática dos recursos repetitivos, REsp 1.304.479/SP, consignou que o "trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada, a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ)". Agravo regimental improvido (AgRg no REsp 1398097/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/08/2016, DJe 17/08/2016).
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
