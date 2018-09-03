@@ -1,0 +1,14 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO SOBRE A ANÁLISE DE CONCESSÃO DE GRATUIDADE DA JUSTIÇA. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+DECISÃO
+Trata-se de embargos de declaração opostos por ASSOCIAÇÃO DE PRODUTORES RURAIS DE SANTA CARMEM/MT - AG e VILMAR SCARSI à decisão monocrática desta relatoria (e-STJ, fls. 1.359-1.361), a qual conheceu parcialmente do recurso especial para, nessa extensão, negar-lhe provimento, nos termos da seguinte ementa:
+RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. 1. OMISSÃO SOBRE FATO INCONTROVERSO CONSISTENTE NA NATUREZA PÚBLICA DA ÁREA OBJETO DA AÇÃO. INEXISTÊNCIA DE DECISÃO SOBRE O TÓPICO APONTADA PELO TRIBUNAL DE ORIGEM. SÚMULA 283/STF. 2. MULTA DO ART. 1.026, § 2º, DO CPC/2015. REITERAÇÃO DE ARGUMENTOS PREVIAMENTE AFASTADOS. CARÁTER PROTELATÓRIO CONFIGURADO. SÚMULA 83/STJ. 3. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+Em suas razões recursais (e-STJ, fls. 1.366-1.368), os embargantes apontam omissão ao deixar de ser analisado o pedido de concessão dos benefícios da gratuidade da justiça, formulado na petição do recurso especial.
+Impugnação não apresentada (e-STJ, fl. 1.371).
+Brevemente relatado, decido.
+O recurso merece acolhimento, pois realmente existente o vício apontado, contudo, sem efeitos infringentes.
+Isso porque a concessão do pedido de gratuidade da justiça possui eficácia ex nunc, operando efeitos a partir de sua concessão (v.g. AgInt no AREsp 887.871/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2016, DJe 19/12/2016), além de não afastar a exigibilidade do pagamento da multa do art. 1.026, § 2º, do CPC/2015 imposta à parte, por força do disposto no art. 98, § 4º, do CPC/2015.
+Não obstante, no caso dos autos, o preparo do recurso especial já havia sido recolhido (e-STJ, fls. 1.294-1.297) e não houve condenação da parte ao pagamento de honorários advocatícios recursais por ocasião da decisão ora embargada, ante o fato de se tratar de autos de agravo de instrumento interposto contra o deferimento de liminar possessória de reintegração de posse, decisão precária que não implicou arbitramento de honorários pelas instâncias ordinárias.
+Desse modo, observada a possibilidade de modificação da decisão liminar com o julgamento definitivo da causa e a fim de possibilitar a cognição exauriente da pretensão em toda a sua extensão pela instância ordinária, o deferimento da gratuidade da justiça nesta instância deveria ser efetuado apenas para o conhecimento do recurso especial, nos termos permitidos pelo art. 98, § 5º, do CPC/2015, objeto já alcançado por ocasião do julgamento do recurso especial. Por isso, fica prejudicada a aludida pretensão ao benefício, motivo de seu não conhecimento, nos termos do art. 932, III, do CPC/2015.
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, para sanar a decisão embargada nos termos da fundamentação ora apresentada.
+Publique-se.
