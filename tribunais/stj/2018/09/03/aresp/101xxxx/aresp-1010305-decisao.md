@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado :
+Responsabilidade civil do Estado - Ação indenizatória - Danos materiais e imateriais - Falha dos atendimentos médicos durante a gestação da autora, que teriam levado a complicações como infecção de trato gênito -urinário e trabalho de parto prematuro, resultando em óbito do recém- nascido - Perícia do IMESC que afastou a existência de conduta culposa do Hospital ou de seus agentes, bem como de nexo causal entre os atendimentos realizados e as complicações narradas - Responsabilidade subjetiva não caracterizada - Sentença mantida - Recurso não provido.(e-STJ, fl. 681)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação aos artigos 131 e 535, I e II do Código de Processo Civil de 1973, 14, § 3º e 6º do Código de Direito do Consumidor, bem como divergência jurisprudencial. Sustenta, em síntese, que foram desconsideradas as conclusões dos laudos periciais no sentido de que houve erro médico, bem como restou demonstrado o nexo causal.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, o que ensejou a interposição do presente recurso.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Da detida leitura do v. acórdão estadual, infere-se que o eg. Tribunal a quo analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação, motivo pelo qual deve ser rejeitada a alegada violação ao art. 535 do CPC/73.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - grifou-se)
+No que diz respeito à alegada contrariedade ao art. 131 do CPC/1973, não há falar em contrariedade ao citado dispositivo em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto, no nosso sistema processual, aquele é o destinatário destas; cabe-lhe, por força do referido artigo, apreciar o acervo fático-probatório livremente indicando os motivos que lhe formaram o convencimento. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESCISÃO CONTRATUAL. SALDO DEVEDOR. REALIZAÇÃO DE NOVA PERÍCIA. DESNECESSIDADE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cumpre ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado, previsto no art. 131 do CPC. Assim, não há cerceamento de defesa quando, em decisão fundamentada, o juiz indefere produção de provas, seja ela testemunhal, pericial ou documental.
+2. No caso, a alteração das conclusões adotadas pela Corte de origem, de que não houve cerceamento de defesa com o indeferimento de nova prova pericial, tal como postulada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 336.893/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/09/2013, DJe de 25/09/2013)
+O Tribunal de origem, ao examinar a questão relativa à responsabilidade médica, decidiu à base da seguinte fundamentação:
+"Os autores sustentam que as complicações da gestação, com a infecção intrauterina da autora, a evolução para parto prematuro, e a consequente morte de seu filho recém- nascido, teriam decorrido de falhas no atendimento prestado, em especial, em virtude da realização de curetagem quando do primeiro atendimento de emergência.
+Mas a imputação não encontra respaldo na prova produzida. O laudo pericial (fls. 297/304) afasta o nexo causal da atuação do Hospital e seus agentes com os fatos articulados na inicial e imputados ao réu." (e-STJ, fl. 686)
+Nesse contexto, a modificação do entendimento lançado no acórdão recorrido, quanto a não demonstração do nexo causal, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. ERRO MÉDICO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. Agravo interno não provido."
+(AgInt no AREsp 878.371/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/04/2017, DJe 18/04/2017- grifou-se)
+"RECURSOS ESPECIAIS. ERRO MÉDICO. DILAÇÃO PROBATÓRIA. PROVA. ÔNUS. INVERSÃO. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME. SÚMULA N. 7-STJ. NÃO CONHECIMENTO. 1. As questões relacionadas à prova das alegações do autor e da ré, à inversão do ônus da prova e à necessidade de diligência para a produção de novas provas somente foram alegadas em embargos de declaração opostos ao acórdão de apelação cível, o que traduz tentativa de posquestionamento, inadmissível. Incidência das Súmulas n. 282-STF e 211-STJ. Precedentes.
+2. A conclusão pelo Tribunal de origem no sentido de que não foram comprovados o nexo causal e a culpa da profissional médica nas lesões sofridas pelo autor são imunes ao crivo do recurso especial, a teor da Súmula n. 7-STJ. Precedentes.
+3. A ausência de demonstração a analítica da divergência e da citação do repositório oficial ou autorizado de jurisprudência em que foram reproduzidos os acórdãos paradigmas impede o seu conhecimento por este fundamento.
+4. Igualmente infensas ao recurso especial as questões relacionadas à suposta má-fé ou atuação protelatória da ré, como ensina a Súmula n. 7-STJ, a par de valer-se apenas de instrumentos processuais previstos na lei processual para a defesa de sua tese. Precedentes.
+5. Recursos especiais não conhecidos".
+(REsp 975.693/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/12/2011, DJe 02/08/2012-grifou-se)
+O recurso também não merece prosperar pela alínea "c" do permissivo constitucional. É impossível conhecer da alegada divergência jurisprudencial, tendo em vista que a incidência da Súmula 7/STJ na questão controversa apresentada também é, consequentemente, óbice para a análise do apontado dissídio. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. ALEGAÇÃO DE OMISSÃO. NÃO OCORRÊNCIA. TRIBUNAL A QUO ENTENDEU PELA AUSÊNCIA DE CONDUTA ILÍCITA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. AGRAVO DESPROVIDO.
+1. Rejeita-se a apontada violação ao art. 535 do CPC/73, pois o v. acórdão a quo não possui vício de omissão, obscuridade ou contradição, mas mero julgamento em desconformidade com os interesses do agravante.
+2. O eg. Tribunal a quo, soberano na análise do acervo fático-probatório carreado aos autos, concluiu pela ausência de nexo causal entre o alegado dano e a conduta atribuída à ora agravada. Pretensão de revisar tal entendimento demandaria revolvimento fático-probatório, inviável em sede de recurso especial, conforme Súmula 7/STJ.
+3. A mera transcrição de ementas não é suficiente para dar abertura ao apelo especial pela alínea c do permissivo constitucional.
+4. Não é possível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa é, por consequência, óbice também para a análise do apontado dissídio.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1120663/SE, de minha Relatoria, QUARTA TURMA, julgado em 13/03/2018, DJe 16/03/2018 - grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
