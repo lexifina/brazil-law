@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/15), interposto por CRISTINA MARIA BELINETI NAEGELE WEINFELD - EPP, em face de decisão que não admitiu o recurso especial.
+O apelo nobre, de sua vez, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, foi interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 306/310, e-STJ):
+APELAÇÃO CÍVEL. Embargos à execução de título extrajudicial. Instrumento particular de gestão de negócios.
+Sentença de parcial procedência nos termos dos artigos 269, inciso VI e 267, inciso VIII do CPC.
+Competência recursal. Execução de título executivo extrajudicial. Matéria inserida na competência da Subseção de Direito Privado II. Regra prevista no inciso II, do artigo 5º, item II.3, da Resolução nº 623/2013.
+Contrato com cláusula de compromisso arbitral.
+Exclusividade do Juízo de Arbitragem para dirimir as questões contratuais. Procedência parcial do recurso. Extinção da ação nos termos do artigo 269, inciso I e 267, VII ambos do CPC.
+Litigância de má fé arguida em contrarrazões. Não configuração. Decisão mantida.
+Recurso não provido.
+Em suas razões de recurso especial (fls. 336/387, e-STJ), a recorrente apontou violação aos artigos 1.022 do Código de Processo Civil de 2015 e 783 e 784, inciso III, do Código de Processo Civil de 2015.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial, razão pela qual foi interposto o agravo de fls. 392/406, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. De início, os requisitos de admissibilidade exigidos na hipótese sub judice são aqueles previstos no CPC/2015, em razão do disposto nos Enunciados Administrativos n. 2 e 3, do Plenário do Superior Tribunal de Justiça, a saber:
+Enunciado administrativo n. 2 - Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Enunciado administrativo n. 3 - Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.  grifou-se
+No caso em apreço, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, pois à época da publicação do acórdão recorrido e da interposição do recurso especial já estava em vigência o novo regramento processual.
+2. Com efeito, a comprovação de ocorrência de feriado local ou de suspensão de expediente forense durante o decurso do prazo recursal deve ser realizada mediante documento idôneo, o que não ocorreu no caso, em que a parte, nas razões do recurso especial, apenas alega a existência de ato normativo da Corte local, sem acostá-lo aos autos.
+Assim, como não houve comprovação, por documento idôneo, de que foram suspensos os prazos processuais no Tribunal de origem na data apontada pela agravante, 25 de janeiro de 2017 ("Aniversário da Cidade de São Paulo), senão a mera alegação de que "dos Provimentos CSM nºs 2317/2016 e 2394, não houve expediente forense nos dias 8 de dezembro de 2016 ("Dia da Justiça") e 25 de janeiro de 2017 ("Aniversário da Cidade de São Paulo)", há de se reconhecer a intempestividade do recurso especial.
+Vale lembrar que o § 6º do art. 1.003 do CPC/2015 dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", circunstância que conduziu à revisão da anterior jurisprudência desta Corte, que permitia - na vigência do CPC/1973 - a comprovação posterior da tempestividade recursal, para reconhecer a impossibilidade de produção de tal prova em momento posterior à interposição do apelo.
+A partir da redação do referido dispositivo legal, conclui-se que eventual documento idôneo apto a comprovar a ocorrência de feriado local, para fins de aferição da tempestividade do recurso, deve ser colacionado aos autos no momento de sua interposição (art. 1.003, § 6º, NCPC).
+Este, inclusive, foi o entendimento firmado pela Corte Especial, no julgamento do AgInt no AREsp n. 957.821/MS, realizado no dia 20/11/2017, cujo acórdão restou assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL.
+COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial. 2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". 3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis. 5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada. 6. Agravo interno desprovido. (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+É de rigor, portanto, o reconhecimento da intempestividade do recurso especial, porquanto já esgotado o prazo de 15 (quinze) dias úteis quando da sua interposição, acarretando o seu não conhecimento.
+2. Do exposto, conheço do agravo (art. 1042 do CPC/15) para, de plano, não conhecer do recurso especial.
+Publique-se.
+Intime-se.
