@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+ AGRAVO INTERNO. DECISÃO MONOCRÁTICA EM APELAÇÃO CÍVEL. ADMINISTRATIVO. SERVIDORES DO PODER JUDICIÁRIO. REAJUSTE DE 24%.
+PAGAMENTO DOS ATRASADOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DE AMBAS AS PARTES. Cinge-se a controvérsia quanto ao reconhecimento do direito dos autores - servidores do Poder Judiciário do Estado do Rio de Janeiro - ao reajuste de 24%, diante do percentual previsto na Lei 1.206/87, que foi concedido aos servidores dos demais Poderes deste Estado. Uniformização de Jurisprudência nº 0064836-60.2012.8.19.0000 julgada em 02/12/2013, sendo aprovada a Súmula nº 300 desta Corte, reconhecendo o direito ao pagamento das diferenças.
+Prescrição do fundo de direito. Inocorrência. Relação de trato sucessivo. Súmula nº 85 do C. STJ. Artigo 5º da Lei Estadual nº 1206/1987, que previa a concessão de reajuste aos servidores estaduais, na base de 70,5%, excluindo apenas os integrantes do Poder Judiciário. Declaração de inconstitucionalidade pelo Órgão Especial. Reconhecimento do direito ao reajuste de 24% em ação ajuizada pelo rito ordinário (Processo nº 0024210- 36.1988.19.0001), tendo a sentença transitado em julgado.
+Extensão do mencionado reajuste a todos os servidores do Poder Judiciário, em sede administrativa. Parcelamento iniciado em janeiro de 2011 com término em janeiro de 2014.
+Violação do Princípio Constitucional da Isonomia. Direito a receber os valores atrasados e não reconhecido. Entendimento Jurisprudencial do STJ e deste Tribunal de Justiça. Equivoco na sentença, tão somente, quanto a sua parte dispositiva, devendo constar a procedência do pedido autoral, ao invés da parcial procedência. Manutenção do julgado em seus demais termos, em reexame necessário. Negativa de seguimento ao recurso do réu e provimento do recurso dos autores, na forma do caput e §1º-A do art. 557 do CPC. DECISÃO MONOCRÁTICA QUE NÃO MERECE REPARO.
+DESPROVIMENTO DO RECURSO.
+Os Embargos de Declaração foram rejeitados (fls. 506-514, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação do art. 20, caput, §§ 3º e 4º, do CPC/1973. Requer a condenação dos autores ao pagamento de honorários advocatícios.
+Contrarrazões às fls. 803-809, e-STJ.
+É o relatório.
+Decido
+Os autos ingressaram neste Gabinete em 5.6.2018.
+A irresignação não deve prosperar.
+Com efeito, embora aponte ofensa ao art. 20, caput, §§ 3º e 4º do CPC/1973, a parte recorrente não demonstra de maneira clara e efetiva de que modo o acórdão recorrido teria afrontado/negado vigência ao referido dispositivo legal, atraindo, portanto, a incidência da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO PROAGRO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. DISCUSSÃO ACERCA DO VALOR DA COBERTURA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS E DO CONTRATO DE SEGURO. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.  ..  III. A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado, no que respeita à alegação de omissão e contradição do julgado impugnado, ou a ausência de fundamentos para demonstrar de que modo os dispositivos legais teriam sido violados - arts. 186, 187 e 927 do Código Civil - consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). (AgInt no AREsp 1076685 / SC AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL 2017/0072381-3, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 28/9/2017)
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
