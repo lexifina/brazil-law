@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA SECURITÁRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. INCIDÊNCIA DA CORREÇÃO MONETÁRIA APÓS A LIQUIDAÇÃO EXTRAJUDICIAL. CABIMENTO. PRECEDENTE DESTA CORTE. 3. JUROS DE MORA. NECESSIDADE DE SUSPENSÃO ATÉ O PAGAMENTO INTEGRAL DO PASSIVO. PRECEDENTES. 4. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Federal de Seguros S.A. em Liquidação Extrajudicial contra decisão que negou seguimento ao recurso especial, com fundamento na alínea a do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 415):
+Seguro de vida. Ação de cobrança. Recusa da seguradora em pagar indenização pela morte do marido da autora. Ação julgada procedente.
+Apelação da ré. Pedido de suspensão do feito tendo em vista procedimento de liquidação judicial: descabimento. Ação de conhecimento. Impossibilidade de suspensão. Pedido de exclusão de juros e correção monetária em razão da liquidação extrajudicial. Não acolhimento. Demais fundamentos da sentença inatacados. Sentença mantida.
+Recurso improvido.
+A sociedade em regime de liquidação extrajudicial, quando condenada ao pagamento de obrigação, está obrigada, inclusive, a arcar com os encargos decorrentes da mora, não havendo interrupção da contagem da multa e dos juros. "A jurisprudência do Superior Tribunal de Justiça já firmou o entendimento de que a liquidação extrajudicial não interrompe a contagem dos juros moratórios" (AgRg no Agravo de Instrumento 987.423, relator o Ministro Benedito Gonçalves).
+Foram, ainda, opostos embargos de declaração, que acabaram rejeitados (e-STJ, fls. 437-442).
+Nas razões do recurso especial, a recorrente alegou violação aos arts. 98, 489, § 1º, IV, e 1.022 do CPC/2015; e 18, d e f, da Lei n. 6.024/1974. Pugnando, preliminarmente, pela concessão da gratuidade de justiça, uma vez que foi decretada sua liquidação extrajudicial pela Susep.
+Além disso, sustentou omissão e falta de fundamentação no acórdão recorrido acerca do fato de que a matéria referente a suspensão dos juros e exclusão da correção monetária deve ser decidida antes do trânsito em julgado da sentença.
+Aduziu, ainda, a suspensão dos juros e da incidência da correção monetária, em razão da decretação da liquidação extrajudicial.
+Contrarrazões apresentadas às fls. 483-486 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de ofensa aos arts. 489 e 1.022 do CPC/2015, bem como pela incidência das Súmulas 284 do STF e 7 do STJ.
+Brevemente relatado, decido.
+De início, deixo de analisar o pedido de assistência judiciária gratuita, tendo em vista sua apreciação e concessão pelo TJSP à fl. 490 (e-STJ).
+Dito isso, consoante análise dos autos, a alegação de violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da recorrente.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Outrossim, verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo que se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+No que tange à correção monetária incidente após a decretação da liquidação extrajudicial, não há como proceder ao seu afastamento, uma vez que a compreensão desta Corte Superior é no sentido de que "a evolução dos fatos econômicos tornou insustentável a não-incidência da correção monetária, sob pena de prestigiar-se o enriquecimento sem causa do devedor, constituindo-se ela imperativo econômico, jurídico e ético indispensável à plena realização dos danos e ao fiel e completo adimplemento das obrigações" (REsp 247.685/AC, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 25/4/2000, DJ 5/6/2000, p. 175).
+A propósito:
+PROCESSUAL CIVIL E COMERCIAL. CORRETORA DE VALORES. REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. SÚMULA N. 211/STJ. DL N. 7.661/1945. ART. 44, VI. APLICAÇÃO. CORREÇÃO MONETÁRIA. CABIMENTO. SÚMULA N. 43/STJ. ATO ILÍCITO ABSOLUTO E ATO ILÍCITO RELATIVO. JUROS DE MORA. CITAÇÃO.
+(..)
+3. "É entendimento consolidado da Corte que a evolução dos fatos econômicos tornou insustentável a não-incidência da correção monetária, sob pena de prestigiar-se o enriquecimento sem causa do devedor, constituindo-se ela imperativo econômico, jurídico e ético indispensável à plena realização dos danos e ao fiel e completo adimplemento das obrigações" (REsp n. 247.685/AC, relator Ministro Sálvio de Figueiredo Teixeira, DJ de 5.6.2000).
+(..)
+6. Recurso da primeira recorrente conhecido e parcialmente provido. Recurso da segunda recorrente parcialmente conhecido e desprovido.
+(REsp 887.131/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/5/2013, DJe 14/10/2013)
+Em relação aos juros de mora, melhor sorte socorre à recorrente, tendo em vista que a jurisprudência desta Corte se firmou no sentido de que, após a decretação da liquidação extrajudicial, a sua fluência ficará suspensa até o pagamento integral do passivo.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. LIQUIDAÇÃO EXTRAJUDICIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. JUROS MORATÓRIOS. SUSPENSÃO DA FLUÊNCIA. LEI N. 6.024/74. PROVIMENTO.
+1. Na liquidação extrajudicial, a exemplo do que ocorre durante o processamento da falência (Lei 11.101/2005, art. 124), os juros, sejam eles legais ou contratuais, têm sua fluência suspensa por força do art. 8, "d", da Lei n. 6.024/74.
+2. O motivo da suspensão da fluência dos juros é uma presunção legal, de caráter relativo, de que o ativo não é suficiente para o pagamento de todos os credores. Assim, após a satisfação do passivo aos credores habilitados, e havendo ativo que os suporte, serão pagos os juros contratuais e os legais vencidos durante o período do processamento da falência ou liquidação extrajudicial.
+3. Recurso especial conhecido e provido. (REsp 1.102.850/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/11/2014, DJe 13/11/2014)
+RECURSO ESPECIAL. INSTITUIÇÃO FINANCEIRA. LIQUIDAÇÃO EXTRAJUDICIAL. OBRIGAÇÕES. JUROS MORATÓRIOS. SUSPENSÃO. TERMO INICIAL. DECRETO DE LIQUIDAÇÃO. CORREÇÃO MONETÁRIA. INCIDÊNCIA. SUCUMBÊNCIA RECÍPROCA. RECONHECIMENTO.
+1. Fica suspensa a fluência de juros contra a instituição financeira, sejam legais ou contratuais, a partir do decreto de liquidação até o pagamento do passivo. Na hipótese de sobejar alguma quantia após a satisfação do principal, os juros serão pagos respeitada a ordem estabelecida no quadro geral de credores. Precedente.
+(..)
+4. Recurso especial parcialmente provido. (REsp 1.646.192/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/3/2017, DJe 24/3/2017)
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de suspender a cobrança dos juros moratórios a partir do decreto de liquidação extrajudicial da seguradora, voltando a ser exigíveis caso o ativo seja suficiente para o pagamento do principal, respeitada a ordem estabelecida no quadro geral de credores.
+Publique-se.
