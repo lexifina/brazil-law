@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CARACTERIZAÇÃO. DANOS MORAIS E MATERIAIS. PROVAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fls. 161/163):
+PROCESSUAL CIVIL. ADMINISTRATIVO. APELAÇÃO. INSS. AUXÍLIO DOENÇA. DESCUMPRIMENTO DE ORDEM JUDICIAL QUE DETERMINOU A IMPLANTAÇÃO DO BENEFÍCIO. DANOS MORAIS CABÍVEIS. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. APELAÇÕES DESPROVIDAS.
+1. A questão devolvida a esta E. Corte diz respeito à indenização por danos morais em razão do descumprimento de decisão judicial que determinou a implantação de benefício previdenciário em favor da autora.
+2. Inicialmente, cumpre observar que a alegação de ausência de intimação válida suscitada pelo INSS não merece prosperar. A autarquia foi devidamente intimada da decisão, tanto que contra ela interpôs agravo legal em 27/05/2011.
+3. O mérito da discussão recai sobre o tema da responsabilidade civil do Estado, de modo que se fazem pertinentes algumas considerações doutrinárias e jurisprudenciais. São elementos da responsabilidade civil a ação ou omissão do agente, a culpa, o nexo causal e o dano, do qual surge o dever de indenizar.
+4. No direito brasileiro, a responsabilidade civil do Estado é, em regra, objetiva, isto é, prescinde da comprovação de culpa do agente, bastando-se que se comprove o nexo causal entre a conduta do agente e o dano. Está consagrada na norma do artigo 37, § 6º, da Constituição Federal.
+5. É patente, portanto, a aplicação do instituto da responsabilidade objetiva, já que o INSS praticou uma conduta comissiva, qual seja, o descumprimento de decisão judicial que determinou a implantação do benefício previdenciário.
+6. É firme a orientação, extraída de julgados desta C. Turma, no sentido de que "o que gera dano indenizável, apurável em ação autônoma, é a conduta administrativa particularmente gravosa, que revele aspecto jurídico ou de fato, capaz de especialmente lesar o administrado, como no exemplo de erro grosseiro e grave, revelando prestação de serviço de tal modo deficiente e oneroso ao administrado, que descaracterize o exercício normal da função administrativa, em que é possível interpretar a legislação, em divergência com o interesse do segurado sem existir, apenas por isto, dano a ser ressarcido.." (AC 00083498220094036102, Rel. Des. Fed. [NOME], e-DJF3 17/02/2012).
+7. No caso em tela, o INSS deliberadamente optou por descumprir, durante pelo menos dois anos, a decisão judicial que determinou a implantação do benefício. Tal conduta configura o ato ilícito, em decorrência do qual a autora se viu privada de verba de natureza alimentar. Nesses casos, esta C. Turma entende que o dano moral é presumido. Precedentes.
+8. Acerca da fixação da indenização por danos morais, é sabido que seu arbitramento deve obedecer a critérios de razoabilidade e proporcionalidade, observando-se a condição econômica do ofensor e do ofendido, bem como o grau de culpa e a gravidade do dano.
+9. Nesse sentido é nítido que "na .fixação da indenizaçãopor danos morais, recomendável que o arbitramento seja feito caso a caso e com moderação, proporcionalmente ao grau de culpa, ao nível socioeconômico do autor, e, ainda, ao porte da empresa, orientando-se o juiz pelos critérios sugeridos pela doutrina e jurisprudência, com razoabilidade, valendo-se de sua experiência e bom senso, atento à realidade da vida e às peculiaridades de cada caso, de modo que, de um lado, não haja enriquecimento sem causa de quem recebe a indenização e, de outro, haja efetiva compensação pelos danos morais experimentados por aquele que fora lesado". (REsp 1374284/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 27/08/2014, DJe 05/09/2014) 10. Assim, diante do conjunto probatório dos autos, revela-se adequado o valor de R$20.000,00 (vinte mil reais) arbitrado pelo Magistrado a quo, eis que suficiente para minimizar a dor da vítima e, ao mesmo tempo, punir o ofensor para que não reincida.
+11. Quanto aos honorários advocatícios, deixa-se de arbitra-los diante da sucumbência recíproca. Isso porque a parte autora intentou dois pedidos e obteve provimento em relação a somente um deles, decaindo do outro.
+Nesses casos, a jurisprudência do STJ aponta a inaplicabilidade do Art. 21, Parágrafo único, do CPC/73. Precedente.
+12. Apelações desprovidas.
+13. Mantida a r. sentença in totum.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente sustenta ofensa aos artigos 43, 927 e 944 do CC/2002, ao fundamento de que não há comprovação nos autos de ato ilícito indenizável, de forma a inexiste qualquer dever de reparação por danos morais ou materiais.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+A irresignação não comporta conhecimento.
+Compulsando-se os autos, constata-se que a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que os requisitos caracterizadores da responsabilidade civil estavam presentes, consoante ato ilícito praticado pela Autarquia Previdenciária em descumprir deliberadamente determinação judicial, fato que gerou prejuízos à parte recorrida.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
