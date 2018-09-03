@@ -1,0 +1,46 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO DO ART. 1.022. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. ILEGITIMIDADE PASSIVA. PROPRIEDADE DOS REBOQUES ENVOLVIDOS NO ACIDENTE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+LOURDES SCALAMBRA e MANOEL JOÃO DE [NOME] (LOURDES E MANOEL) ajuizaram ação de indenização por danos morais e materiais contra ALEXANDER LOPES TEIXEIRA (ALEXANDER), [NOME] (PAULO), ALCOMIRA S.A. e MUNDIAL - AÇÚCAR E ÁLCOOL S.A. (MUNDIAL), ambas sucedidas pela empresa COSAN S.A. INDÚSTRIA E COMÉRCIO (COSAN), em virtude de acidente de trânsito que vitimou fatalmente seu filho, [NOME], ocasionado por veículo de propriedade de PAULO, conduzido por ALEXANDER, atrelado a dois semirreboques, sendo um de propriedade da MUNDIAL e o outro de propriedade da ALCOMIRA.
+Paralelamente, A L F A, representada por sua genitora, [NOME], ajuizou ação contra os mesmos réus e também contra RAÍZEN ENERGIA S.A., pleiteando indenização por ser filha da vítima.
+O Juízo de Piso julgou conjuntamente os dois feitos para a) extinguir o processo, sem resolução de mérito, em face de RAÍZEN ENERGIA S.A., com fundamento no art. 267, VI, do CPC; b) condenar os réus solidariamente ao pagamento de indenização por danos morais equivalente a cem salários mínimos em favor de LOURDES e MANOEL; c) conceder indenização por danos danos morais e materiais em favor de A L F A (e-STJ, fls. 623/633).
+Os embargos de declaração opostos por LOURDES e MANOEL foram julgados procedentes, para esclarecer sobre o cálculo dos danos materiais (e-STJ, fls. 641/642).
+Irresignados, ALEXANDER, COSAN e A L F A interpuseram recursos de apelação. O Tribunal de origem julgou parcialmente procedente o recurso da COSAN, para afastar a sentença e determinar o retorno do autos à Vara de origem para produção de prova testemunhal e realização de audiência de instrução e julgamento (e-STJ, fls. 757/762), nos termos do acórdão assim ementado:
+RESPONSABILIDADE CIVIL - ACIDENTE DE TRÂNSITO - DANOS MATERIAIS E MORAIS - Caracterizada a legitimidade passiva da Requerida Cosan (proprietária do veículo) - Caracterizada a culpa do Requerido Alexander (condutor do veículo) - Não comprovados os danos materiais - Caracterizados os danos morais - SENTENÇA DE PARCIAL PROCEDÊNCIA, para condenar ao pagamento de indenização por danos morais (valor correspondente a cem salários mínimos - para cada Autor) - Caracterizado o cerceamento de defesa - RECURSO DA REQUERIDA COSAN PARCIALMENTE PROVIDO, PARA AFASTAR A SENTENÇA, COM O PROSSEGUIMENTO DO FEITO (NA VARA DE ORIGEM), PARA A PRODUÇÃO DE PROVA TESTEMUNHAL, COM A DESIGNAÇÃO DE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO - RECURSO DO REQUERIDO ALEXANDER NÃO CONHECIDO, PORQUE PREJUDICADO. (e-STJ, fl. 760)
+Os embargos de declaração opostos por COSAN foram desacolhidos (e-STJ, fls. 779/783).
+Em seguida, COSAN interpôs recurso especial, com base no art. 105, III, a e c, da CF, sustentando, em síntese, dissídio jurisprudencial e violação dos arts. 130 (art. 370 CPC/15); 267 do CPC/73 (art. 485, CPC/15) ; 295, II, do CPC/73 (art. 330, II do CPC/15); 301 do CPC/73 (art. 337 do CPC/15), 332; 333, (art. 369, 372 e 373 CPC/15), art. 535 do CPC/73 (art. 1.022 do CPC/15); 186, 927, 932, e 933 do Código Civil, porque (1) o acórdão recorrido padeceria do vício de omissão, porque rejeitou os embargos de declaração sem examinar adequadamente os temas então sucitados; (2) cerceamento de defesa porquanto deveria ter sido deferida a produção de prova pericial sem aproveitamento da prova pericial juntada no inquérito policial, especialmente porque realizada sem o devido contraditório; e (3) seria parte ilegítima para figurar no polo passivo da demanda (e-STJ, fls. 787/803).
+Não houve contrarrazões (e-STJ, fl. 840).
+Por sua vez, o recurso especial da COSAN não foi admitido com fulcro (1) na incidência da Súmula nº 7 do STJ; e (2) na ausência de demonstração do dissídio jurisprudencial, a atrair a aplicação da Súmula nº 13 do STJ (e-STJ, fls. 848/851).
+Irresignada, COSAN interpôs agravo em recurso especial, sustentando o afastamento dos mencionados óbices (e-STJ, fls. 856/876).
+Não houve contraminuta ao agravo (e-STJ, fl. 900).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação do art. 1.022 do NCPC
+Nas razões do apelo especial, COSAN arguiu violação ao art. 1.022 do NCPC sem, contudo, precisar a matéria acerca da qual o Tribunal de origem teria se omitido.
+Sendo assim, inviável a análise de negativa de vigência ao artigo suso mencionado, pois as razões genéricas apresentadas, sem apontar de forma específica a questão omissa, obscura ou contraditória no julgamento do acórdão recorrido, inviabiliza de maneira fundamental a compreensão da controvérsia.
+Nesse sentido, o seguinte precedente:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO DE DISPOSITIVOS INFRACONSTITUCIONAIS SEM A DEVIDA FUNDAMENTAÇÃO. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF. AFERIÇÃO DA CORREÇÃO DOS CÁLCULOS. SÚMULA N. 7/STJ. ART. 359 DO CPC. FALTA DE PREQUESTIONAMENTO.
+SUMULA N. 211/STJ.
+1. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+2. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Aplica-se o óbice previsto na Súmula n. 211/STJ quando a questão suscitada no recurso especial, não obstante a oposição de embargos declaratórios, não foi apreciada pela Corte a quo.
+4. O acesso à via excepcional, nos casos em que o Tribunal a quo, a despeito da oposição de embargos de declaração, não regulariza a omissão apontada, depende da veiculação, nas razões do recurso especial, de ofensa ao art. 535 do CPC.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 601.201/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 5/3/2015, DJe 16/3/2015)
+Aplica-se, nesse particular, a Súmula 284/STF.
+(2) Da utilização das provas do inquérito policial
+Neste ponto, COSAN sustenta a ilicitude de se utilizar as provas produzidas no âmbito do inquérito policial para instruir a ação em testilha, eis que produzidas à margem do direito ao contraditório e à ampla defesa inerentes aos demais envolvido na demanda.
+O Tribunal de origem, no julgamento da apelação manifestou-se da seguinte forma acerca da produção da prova pericial:
+Contudo, inviável a produção da prova pericial (para "constatar as condições dos veículos acidentados, da pista e das pessoas, no momento do acidente" - f1s.467/468 - e "a alta velocidade imprimida no momento dos fatos" - f1s.592), em virtude do tempo decorrido desde a data do acidente (27 de julho de 2010) e porque não evidenciados fatos ensejadores da realização de perícia indireta. (e-STJ, fl. 762)
+Como se vê, não houve qualquer menção à utilização emprestada da perícia produzida no inquérito policial.
+O tema foi suscitado nos embargos de declaração que se seguiram, mas a Corte de origem os rejeitou sem efetiva análise da questão, sobressaindo, assim, a ausência de prequestionamento, o que impede o conhecimento do recurso especial nos termos da Súmula nº 211 do STJ.
+(3) Da ilegitimidade passiva
+A recorrente defendeu sua ilegitimidade passiva, já que teria ficado demonstrado nos autos que quem conduzia o veículo quando do acidente era um preposto da empresa MARTINEZ S.A. e que o veículo também pertencia a esta empresa.
+Em que pesem tais alegações, a Corte local, soberana na análise das provas dos autos, concluiu de forma diversa, conforme se nota:
+Caracterizada a legitimidade passiva da Requerida Cosan, pois proprietária do veículo ("SR/Randon", placas [PLACA] - fls.86) conduzido pelo Requerido Alexander no momento do acidente de trânsito. (e-STJ, fl. 761)
+Conforme se nota, a convicção a que chegou o acórdão acerca deste ponto decorreu da análise do conjunto fático-probatório e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+Nestas condições, com fundamento no art. 932, III, do NCPC, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários advocatícios, vez que inaplicável tal medida na espécie.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
