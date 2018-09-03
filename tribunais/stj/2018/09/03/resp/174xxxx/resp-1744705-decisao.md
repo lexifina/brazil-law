@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. ERRO MATERIAL NA INTITULAÇÃO DO RECURSO. JUÍZO POSITIVO DE ADMISSIBILIDADE. PLEITO DE VERBAS REMUNERATÓRIAS POR SERVIDORES PÚBLICOS OCUPANTES DO CARGO DE VIGIA. COMPROVAÇÃO DO DIREITO AO RECEBIMENTO DE HORAS EXTRAS E ADICIONAL NOTURNO. RECURSO CONHECIDO E IMPROVIDO
+1. O mero erro no título do recurso - como o ocorrido no presente caso, em que o recurso de apelação foi nominado como recurso ordinário - não justifica o juízo negativo de admissibilidade, já que não se trata propriamente de erro grosseiro na interposição do, recurso, mas de simples erro material ha elaboração da peça recursal, que admite a aplicação do principio da fungibilidade recursal. Precedente do TJPI.
+2. No caso destes autos, ficou demonstrado que os Apelados laboraram por tempo superior ao previsto no edital do concurso público para o cargo de vigia municipal e, mais do que isso, parte da jornada foi cumprida em horário noturno, o que se mostra prejudicial, inclusive, a sua saúde, e deixa claro o direito ao pagamento das horas trabalhadas que ultrapassaram o referido limite, bem como dos adicionais pelas horas trabalhadas em horário noturno (arts. 66 e 65 do Estatuto dos Servidores Públicos do Município de Floriano-PI).
+3. Recurso conhecido e improvido.
+Não houve Embargos de Declaração.
+O recorrente alega, além de divergência jurisprudencial, violação dos arts. 373, I, do CPC/2015. Afirma que não houve comprovação das horas extras trabalhadas e que a condenação implicaria enriquecimento sem causa.
+Contraminuta apresentada às fls. 174-182, e-STJ.
+O Recurso Especial não foi admitido na origem em razão do óbice da Súmula 7 do STJ. O Agravo interposto foi convertido em Recurso Especial pela decisão de fl. 212, e-STJ.
+É o relatório.
+Passo a decidir.
+Os autos foram recebidos neste gabinete em 29 de maio de 2018.
+A irresignação não merece prosperar, uma vez que o Tribunal de origem não emitiu juízo de valor sobre os dispositivos legais cuja ofensa se aduz.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO.
+(..)
+4. A falta de prequestionamento da questão federal, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula 211 do STJ).
+5. Recurso especial parcialmente conhecido e, nessa parte, desprovido. (REsp 872.706/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJ 22.02.2007, p. 169).
+Ademais, o Tribunal de origem, apreciando os fatos e as provas dos autos, concluiu que houve demonstração da jornada extraordinária sem o pagamento de horas extras, conforme evidencia o seguinte excerto do voto condutor do acórdão recorrido:
+No caso dos presentes autos, os Apelados demonstraram que o Edital nº 01/2006 do concurso público em que foram aprovados para ocupar os referidos cargos vigia previa jornada de trabalho de 40h (quarenta horas) semanais, como se depreende à fl. 54, entretanto, ao ingressarem no serviço público, foram submetidos à jornada superior de 60h (sessenta horas) semanais, sem perceber nenhuma remuneração pelos serviços extraordinários.
+Além do mais, alegaram que essa jornada era cumprida da seguinte forma: "trabalhavam das 18:00 horas de um dia às 06:00 heras do dia seguinte, em dias alternados, no curso da semana, e 24 (vinte e quatro) heras no fim de semana" (fl. 03), também sem perceber remuneração pelas horas trabalhadas no horário posterior às 22h (vinte e duas horas) da noite.
+Para fazer prova de suas alegações, os Apelados juntaram aos autos cópias de seus contracheques (fls. 55/63), pelos quais fica claro o não pagamento de horas-extras e adicional noturno a nenhum deles, mas tão somente a remuneração do "salário normal", como consta destes documentos. Juntaram também cópias aa folha de pagamento dos servidores municipais de Floriano-PI (fls. 25/34), para demonstrar que o pagamento das verbas cobradas é paga regularmente a outros servidores municipais, inclusive também ocupantes do cargo de vigia.
+De outro lado, o município de Floriano, ora Apelante, não apresentou contestação, durante o trâmite do processo em primeiro grau, e, ao lado disso, ao recorrer da sentença, também não apresentou nenhuma prova para desconstituir a alegação dos Apelados, especialmente os registros de ponto e comprovantes de pagamento das horas extras prestadas que alegou possuir e que, em tese, infirmariam a existência do direito daqueles.
+É possível concluir, portanto que, ao final de uma semana, os Apelados terão laborado por 20h (vinte horas) a mais do que o tempo superior ao máximo de 40 (quarenta) horas semanais, previsto no edital do concurso público para o cargo de vigia municipal e, mais do que isso, parte da jornada será cumprida em horário noturno, o que se mostra prejudicial, inclusive, a sua saúde, e, em razao disso, fará jus ao pagamento das horas trabalhadas que ultrapassaram o referido limite e os adicionais pelas horas trabalhadas em horário noturno.
+É impossível analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Isso posto, não conheço do Recurso Especial.
+Publique-se. Intimem-se.
