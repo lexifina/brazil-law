@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição da República) contra acórdão assim ementado (fl. 169, e-STJ):
+APELAÇÃO CÍVEL - PRESCRIÇÃO - PARCELAS DE TRATO SUCESSIVO - ART. 3º DO DECRETO 20.910/1932 - PROGRESSÃO HORIZONTAL - MUNICÍPIO DE IPIAÇU - LEI MUNICIPAL Nº 667/1991 - EXIGÊNCIA APENAS DO REQUISITO TEMPORAL - OBSERVÂNCIA - DIREITO À PROGRESSÃO CARACTERIZADO - CORREÇÃO MONETÁRIA E JUROS DE MORA - HONORÁRIOS ADVOCATÍCIOS - NOVO CÓDIGO DE PROCESSO CIVIL - CONDENAÇÃO ILÍQUIDA - PERCENTUAL
+DEFINIDO LIQUIDAÇÃO DE SENTENÇA. - Tratando-se de parcelas de trato sucessivo, quando o ente público não tiver negado o próprio direito reclamado, a prescrição atingirá apenas as prestações vencidas antes do qüinqüênio anterior ao ajuizamento da ação, não havendo que se falar em perecimento do fundo de direito. - Atendido o requisito temporal para a progressão horizontal de servidor do Município de Ipiaçu, previsto na Lei Municipal nº 667/1991, resta caracterizado seu direito ao benefício. - Tratando-se de dívida de natureza não tributária, a correção monetária deve incidir pelo IPCA, a partir de quando era devida a verba, e juros de mora pelos índices da caderneta de poupança, nos termos do art. 1 º-F da Lei nº 9.494/97, com a redação dada pela Lei 11.960/09, a partir da citação. - Nas causas em que a Fazenda Pública for parte, não sendo líquida a sentença, a fixação dos honorários advocatícios deve observar o disposto no art 85, § 3o, do NCPC, sendo o percentual definido quando da liquidação do julgado, tal como ordena o § 4º, inciso II, do mesmo dispositivo legal.
+Os Embargos de Declaração foram rejeitados (fl. 195, e-STJ).
+Aduz o recorrente, em Recurso Especial, além de divergência jurisprudencial, no mérito, que possui mais de 12 anos de prestação de serviço público efetivo e que faz jus a progressão horizontal e vertical, prevista pela Lei Municipal 667/1991.
+À fl. 306, e-STJ, foi dado provimento ao Agravo e determinada sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 22.6.2018.
+A falta de particularização dos dispositivos de lei federal que o acórdão recorrido teria contrariado ou aos quais teria atribuído interpretação divergente consubstancia deficiência bastante a inviabilizar o conhecimento do apelo especial, atraindo, na espécie, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). In casu, a parte recorrente deixou de indicar, em Recurso Especial, qual dispositivo de lei federal entende como tendo sido violado.
+Outrossim, nas razões do Recurso Especial, o recorrente remete à análise de Direito local (Lei Municipal 667/1991), revelando-se incabível a via recursal especial para rediscussão da matéria, ante a incidência da Súmula 280 do STF.
+No tocante à divergência jurisprudencial, o dissenso deve ser comprovado, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a colação de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+No caso dos autos, verifico que não foram respeitados tais requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), o que impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. INMETRO. AUTO DE INFRAÇÃO. ATOS NORMATIVOS REFERENTES À METROLOGIA. LEGALIDADE. CRITÉRIOS E VALOR DA MULTA. DISCRICIONARIEDADE ADMINISTRATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+(..)
+IV - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+(..)
+VII - Agravo Interno improvido.
+(AgInt no REsp 1583256/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/02/2017, DJe 21/02/2017)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AUTORA.
+1. Esta Corte já teve a oportunidade de se pronunciar em inúmeras oportunidades acerca da inviabilidade da inversão das conclusões das instâncias de origem acerca da configuração dos requisitos ensejadores da procedência ou improcedência de ações possessórias por demandar inegável revisão de fatos e provas (Súmula 7/STJ), não sendo o caso de revaloração das provas.
+2. No que se refere à data do esbulho, para estabelecer se de "força nova" ou "força velha" a ação, ainda que a agravante afirme ser incontroverso ter ocorrido o esbulho em 11/8/1996, resta consignado no aresto recorrido, conforme transcrito alhures, que "sequer se sabe a data exata em que isso teria ocorrido", e, assim, para derruir tal conclusão, seria necessário o reexame dos fatos e das provas constantes dos autos, providência esta vedada pelo óbice da Súmula 7/STJ.
+3. É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico, que evidencie a similitude fática entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1483935/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+PROCESSUAL CIVIL. CONSUMIDOR. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FORNECIMENTO DE ÁGUA. SERVIÇO ESSENCIAL. DIREITO HUMANO À ÁGUA. DEMORA EXCESSIVA NO REABASTECIMENTO. EXCESSO DE PRAZO SEM PRESTAÇÃO DE ASSISTÊNCIA AO CONSUMIDOR. FALHA NA PRESTAÇÃO DO SERVIÇO. PRESCRIÇÃO. 5 ANOS. ART. 27 DO CDC.
+(..)
+3. O alegado dissenso jurisprudencial deve ser comprovado, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a colação de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, não bastando a mera transcrição de ementas. O não respeito a tais requisitos legais e regimentais impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+(..)
+10. Recurso Especial não provido.
+(REsp 1629505/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe 19/12/2016)
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
