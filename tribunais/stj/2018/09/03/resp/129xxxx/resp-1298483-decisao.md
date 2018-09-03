@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ASSEMBLEIA LEGISLATIVA DO ESTADO DE SAO PAULO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da Federação, assim ementado (e-STJ fl. 361):
+Ementa: Mandado de Segurança - Impetração contra ato da Mesa da Assembléia Legislativa - Pretensão à contagem de tempo de serviço prestado em função atividade para o fim de licença prêmio - Prescrição não ocorrente, porque revogado o ato sob cuja égide fora indeferido pedido anterior do impetrante - Segurança concedida.
+Embargos de declaração foram rejeitados (e-STJ fls. 377/381).
+Nas suas razões, a parte recorrente aponta violação do art. 1.º do Decreto n. 20.910/1932. Aduz, em síntese, que houve o transcurso do prazo prescricional da pretensão do autor, fato este que não pode ser alterado com a superveniência de decisão que reconhece o mesmo direito a outros servidores que se encontram em situação distinta.
+Contrarrazões foram apresentadas às e-STJ fls. 405/418.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 523/524.
+Manifestação do Ministério Público Federal às e-STJ fls. 536/539 opina pelo desprovimento do recurso.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Quanto à prescrição, assim decidiu a Corte de origem (e-STJ fl. 363):
+ ..  Contudo o que se verifica no parecer de fls.269/280, fundamento dessa decisão, é que nele se ressalvou exatamente o direito dos que foram a juízo, porque tiveram a prescrição interrompida pelo ajuizamento da ação. Entende ainda o impetrante que o Ato nº 16/2008 ratificou o reconhecimento anterior do direito questionado a todos os servidores em situação semelhante. Nesse ato, reconheceu-se pleito de outro servidor, [NOME], de cômputo para todos os fins do período de exercício de função-atividade de 17 de outubro de 1975 a 16 de dezembro de 1980, excetuado o tempo de 1º de agosto de 1978 a 16 de dezembro de 1980 e revogou-se o Ato nº 16/97. Ora, o primeiro pedido anterior do impetrante foi indeferido com fundamento no Ato 16/97 da Mesa da Assembleia (fls.24) e o segundo pelo decurso de cinco anos do primeiro indeferimento e da edição do Ato 16/97. Assim, toda a orientação que negou o direito ao impetrante fundamentava-se no ato que veio a ser revogado. Com seu afastamento do mundo jurídico, nova situação criou-se e nela novo direito foi atribuído ao impetrante e veio a ser postulado. Não há lugar, pois, para o reconhecimento da prescrição.
+Com efeito, a apreciação do inconformismo, da forma como posto nas razões do apelo, demandaria incursão no substrato fático-probatório constante nos autos, providência inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+ Publique-se. Intimem-se.
