@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pela OURO FINO INDÚSTRIA E COMÉRCIO DE AUTO PEÇAS LTDA. contra acórdão do TRF da 3ª Região, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AGRAVO. ART. 557, CPC. EXECUÇÃO FISCAL. POSTERIOR ADESÃO AO PARCELAMENTO INSTITUÍDO PELA LEI N. 11.941/09. SUSPENSÃO DA EXECUÇÃO APÓS CONSOLIDAÇÃO DOS DÉBITOS. MANUTENÇÃO DAS GARANTIAS EXISTENTES. OBRIGATORIEDADE. SUBSTITUIÇÃO DA PENHORA POR DEPÓSITOS JUDICIAIS EFETUADOS EM OUTROS FEITOS. IMPOSSIBILIDADE. DEPÓSITOS ATRELADOS AO RESULTA DO DA DEMANDA. PRECEDENTES. AGRAVO A QUE SE NEGA PROVIMENTO.
+Nas razões do especial, a recorrente alega violação do art. 535, II, 620, 655 do CPC/1973, dos arts. 108, 111, 112, II e IV, e 151 do CTN, dos arts. 11 e 15 da Lei n. 6.830/80, dos arts. 12 e 37-B, § 5º, da Lei n. 10.522/2002 e do art. 127 da Lei n. 12.249/2010, sustentando as seguintes teses:
+a) existência de negativa de prestação jurisdicional, tendo em vista suposta omissão do Tribunal de origem quanto ao enfrentamento de questões aventadas nos embargos declaratórios;
+b) viabilidade da substituição dos bens penhorados por depósitos judiciais efetuados em ação consignatória.
+Com contrarrazões, o recurso foi admitido pelo Tribunal de origem.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de agravo de instrumento interposto contra decisão interlocutória que, nos autos da execução fiscal, indeferiu pedido de substituição dos bens penhorados por depósitos judiciais efetuados em ação consignatória.
+O TRF da 3ª Região manteve decisão unipessoal do relator, que negou seguimento ao referido agravo. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 745/746):
+No que se refere ao pedido de substituição dos bens penhorados pelos depósitos judiciais efetuados na ação consignatória n 0 2008.34.00.0 16098- 5, observo que o destino dos depósitos judiciais se encontra atrelado ao resultado da demanda, motivo pelo que não pode o depositante dispor de tais valores conforme melhor lhe aprouver.
+Trago, a propósito:
+RECURSO ESPECIAL - DEPÓSITOS JUDICIAIS PARA SUSPENSÃO DO CREDITO TRIBUTÁRIO - FALÊNCIA SUPERVENIENTE - MASSA FALIDA - DEPENDÊNCIA DO TRÂNSITO EM JULGADO.
+- Os depósitos judiciais efetivados para a suspensão do crédito tributário ficam indelevelmente presos à ação no qual foram realizados e dependentes do correspectivo trânsito em julgado, oportunidade em que fica também resolvido seu destino. "A jurisprudência, inclusive a do STF, firmou entendimento no sentido de que o depósito para suspender a exigibilidade do crédito tributário só pode ser convertido em renda da UNIÃO, ou devolvido ao contribuinte, após o trânsito em julgado da sentença" (EREsp n. 270.083/SP, Rel. Min Eliana Calmon, DJ de 02.09.2002).
+- Dessarte, a superveniente falência não tem, por si só, a virtude de antecipar o destino dos depósitos, discussão que deve ser relegada para depois do trânsito em julgado.
+- Recurso especial não provido.
+(STJ - RESP 465034 - 200201193520 - Rel. Min. FRANCIULLI NETO - DJ 03/11/2003 pag. 300 RSTJ VOL. 00176 pag. 260)
+MANDADO DE SEGURANÇA. DEPÓSITOS JUDICIAIS.
+- Com o trânsito em julgado da sentença, os depósitos judiciais, em regra, seguem o destino da ação: se julgada procedente, são liberados a quem os efetuou; se favorável à União Federal, são convertidos em renda. O depósito é uma faculdade do sujeito passivo da obrigação tributária que, ao optar por fazê-lo, goza do beneficio da suspensão do crédito tributário, enquanto o ente público, em contrapartida, tem a garantia de que, caso seja vencedor, o crédito será imediatamente satisfeito pelo valor depositado.
+- Quanto ao pedido sucessivo, se há valores a que tenha direito a agravante, deverá ser efetuada nas vias adequadas e não no mandamus em questão, cujo destino das importâncias depositadas judicialmente se dá de acordo com o resultado final da ação.
+(TRF4 - AG 200704000123190 - Rel. Des. Fed. [NOME] - D.E. 17/07/2007)
+Por sua vez, como bem ressaltou o magistrado, os valores depositados são insuficientes à garantia da execução, havendo dúvidas sobre a efetiva titularidade de parte deles.
+Os embargos de declaração opostos pela recorrente foram rejeitados.
+Pois bem.
+a) Negativa de prestação jurisdicional
+Esta Corte tem, reiteradamente, decidido que a alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF. Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1371750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1182912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Na hipótese, a recorrente deixou de indicar precisamente os pontos supostamente não enfrentados pelo Tribunal de origem, limitando-se a afirmar, genericamente, que a Corte deixou de se manifestar sobre "questões aventadas nos aclaratórios".
+b) Violação dos arts. 620, 655 do CPC/1973, dos arts. 108, 111, 112, II e IV, e 151 do CTN, dos arts. 11 e 15 da Lei n. 6.830/80, dos arts. 12 e 37-B, § 5º, da Lei n. 10.522/2002 e do art. 127 da Lei n. 12.249/2010
+Em razão da referida deficiência de fundamentação, observa-se que a instância ordinária não emitiu juízo de valor expresso sobre os dispositivos acima mencionados. Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
