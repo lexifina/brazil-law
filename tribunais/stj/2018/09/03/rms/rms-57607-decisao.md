@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de Recurso em Mandado de Segurança contra o seguinte acórdão do Tribunal de Justiça do Distrito Federal e Territórios:
+CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE "SEGURANÇA. CARREIRA POLICIAL CIVIL DO DISTRITO FEDERAL. PROGRESSÃO NA CARREIRA. SUSPENSÃO DISCIPLINAR. INTERRUPÇÃO DO QÜINQÜÊNIO PARA. REALIZAÇÃO DA PROGRESSÃO. AUSÊNCIA E DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+1.Os atos de progressão dos servidores integrantes da Carreira de Delegado de Polícia Civil do Distrito Federal e da Carreira Policial Civil do Distrito Federal são de competência do Governador do Distrito Federal conforme expressa previsão do Decreto 7.652/2009. Preliminar de ilegitimidade passiva rejeitada.
+2. A progressão na Carreira Policial Civil do Distrito Federal depende da conjugação de três requisitos, quais sejam, exercício ininterrupto do cargo por cinco anos, avaliação de desempenho satisfatória e conclusão, com aproveitamento, de curso de aperfeiçoamento.
+3.A suspensão disciplinar durante o exercício do cargo interrompe o interstício do qüinqüênio, o que afasta o direito líquido e certo à progressão funcional. Ilegalidade ou abusividade do ato que excluiu a Impetrante da progressão funcional não configurada.
+4.Preliminar de ilegitimidade passiva rejeitada. Segurança Denegada.
+Não foram apresentados Embargos de Declaração.
+Afirma a parte recorrente que ingressou nos quadros da PCDF no dia 1º.4.2009 como perita criminal de terceira classe, tendo progredido à segunda classe em 1º.4.2012, e que estava com progressão programada para a primeira classe em 1º.4.2017, quando foi publicada a lista de policiais civis promovidos sem a inclusão do seu nome, sob o fundamento de que teria sido imputada à recorrente uma suspensão disciplinar. Afirma que a penalidade disciplinar foi cumprida nos dias 25, 26, 27 e 28 de abril de 2017, quando ultrapassado o período de avaliação (interstício) para a promoção de 5 (cinco) anos. Aduz que na Lei 8.112/1990 não há qualquer previsão de que o interstício temporal para progressão de carreira seja interrompido por cumprimento de pena de suspensão em sindicância ou processo administrativo.
+O Ministério Público Federal apresenta Parecer pelo desprovimento do recurso.
+RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. PROGRESSÃO NA CARREIRA DA POLICIA CIVIL DO DISTRITO FEDERAL. SUSPENSÃO DISCIPLINAR. INTERRUPÇÃO DO QÜINQÜÊNIO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+  Parecer pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Cuida-se, na origem, de Mandado de Segurança impetrado contra ato do Governador do Distrito Federal para assegurar a progressão de carreira da parte recorrente por entender ter satisfeito o requisito temporal de cinco anos entre as classes do cargo de Perito Criminal da PCDF.
+A Administração negou a inclusão da parte recorrente na lista de progressão na carreira em razão de ter sido aplicada penalidade disciplinar de suspensão, a qual, por força de previsão em decreto regulamentar, interrompe o interstício necessário para o deferimento do ato de progressão.
+O §4º do art. 5º da Lei Federal 9.264/1996, que dispõe sobre o desmembramento e a reorganização da Carreira Policial Civil do Distrito Federal, fixa remuneração de seus cargos e dá outras providências, afirma que "O Poder Executivo disporá, em regulamento, quanto aos requisitos e condições de progressão nos cargos das carreiras".
+Já o Decreto 7.652/2011, que disciplina o instituto da progressão dos servidores integrantes da Carreira de Delegado de Polícia Civil do Distrito Federal e da Carreira Policial Civil do Distrito Federal, de que trata o Decreto-Lei no 2.266, de 12 de março de 1985 e a Lei no 9.264, de 7 de fevereiro de 1996, detalhou as regras a serem atendidas para que o servidor da carreira policial seja promovido, exigindo o exercício ininterrupto do cargo por 3 (três) ou 5 (cinco) anos, conforme o caso, avaliação de desempenho satisfatória e conclusão, com aproveitamento, de curso de aperfeiçoamento.
+Decreto 7.652/2011:
+Art. 1º Aos servidores integrantes da Carreira de Delegado de Polícia do Distrito Federal e da Carreira Policial Civil do Distrito Federal, de que trata o Decreto-Lei no 2.266, de 12 de março de 1985, e a Lei no 9.264, de 7 de fevereiro de 1996, serão aplicados os requisitos e condições de progressão de acordo com as normas constantes deste Decreto.
+Art. 2º A progressão consiste na mudança de classe em que esteja posicionado o servidor para a classe imediatamente superior.
+Art. 3º São requisitos para progressão nos cargos da Carreira de Delegado de Polícia do Distrito Federal e da Carreira Policial Civil do Distrito Federal:I - exercício ininterrupto do cargo:
+a) na terceira classe, por três anos, para progressão da terceira para a segunda classe;
+b) na segunda classe, por cinco anos, para progressão da segunda para a primeira classe; e
+c) na primeira classe, por cinco anos, para progressão da primeira para a classe especial;
+II - avaliação de desempenho satisfatória; e
+III - conclusão, com aproveitamento, de curso de aperfeiçoamento.
+O inciso II e o parágrafo único do art. 4º do referido decreto federal prescrevem que eventual suspensão disciplinar interrompe o interstício temporal exigido para a progressão na carreira, devendo recomeçar a contagem do prazo para a próxima progressão a partir do retorno do servidor à atividade.
+Decreto 7.652/2011:
+Art. 4º Será considerado interrompido o exercício de que trata o inciso I do caput do art. 3º em decorrência de:
+I - licenças ou afastamentos sem remuneração;
+II - suspensão disciplinar;
+III - falta injustificada; e
+IV - prisão em virtude de sentença transitada em julgado.
+Parágrafo único. Interrompido o exercício, a contagem do interstício começará a correr a partir do retorno do servidor à atividade.
+Como bem afirma a própria parte recorrente, os fatos são incontroversos em relação à data da publicação da penalidade disciplinar no curso do interstício temporal da progressão na carreira.
+Argumenta a servidora, ora recorrente, em defesa do seu direito líquido e certo, além da ilegalidade da previsão em decreto regulamentar da suspensão disciplinar como causa de interrupção do interstício para a progressão, que se considerada a data em que a penalidade disciplinar foi cumprida teria direito subjetivo à progressão, já que iniciou cumprimento da penalidade após o interstício legal.
+Entendo que não merece prosperar a pretensão recursal.
+A disciplina normativa da progressão na Carreira Policial Civil do Distrito Federal está disciplinada em Decreto Federal regulamentar por força de autorização legislativa expressa do §4º do art. 5º da Lei Federal 9.264/1996, que prescreve "O Poder Executivo disporá, em regulamento, quanto aos requisitos e condições de progressão nos cargos das carreiras".
+O legislador autorizou o Poder Executivo a disciplinar mediante decreto regulamentar o processo de promoção dos servidores da Carreira Policial Civil do Distrito Federal, não havendo exorbitância ou edição de ato normativo contra legem ou decreto autônomo sem sustentação legal.
+Não entendo desarrazoada a previsão normativa do Decreto 7.652/2011 que estabeleceu, entre os critérios necessários à promoção na carreira, o exercício contínuo e ininterrupto de três ou cinco anos no cargo público, exigindo-se o reinício da contagem do referido período caso tenha ocorrido qualquer fato suspensivo do exercício funcional, a exemplo da punição na esfera disciplinar.
+Entendimento diverso, para permitir que, no caso concreto, a parte recorrente seja dispensada de comprovar o exercício efetivo e contínuo do período laboral, seria conferir-lhe posição funcional mais vantajosa em relação aos demais servidores públicos que, da mesma forma, deixaram de progredir na carreira.
+O STJ já reconheceu a possibilidade da regulamentação da promoção de servidores públicos mediante Decreto, complementando a disciplina normativa estabelecida em lei específica. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ANCINE. PROMOÇÃO E PROGRESSÃO FUNCIONAL. ANUALIDADE. LEI 10.871/2004. DECRETO 6.530/2008. LEGALIDADE.
+1. Examina-se, no Recurso Especial, se o Decreto 6.530/2008 teria extrapolado os limites da Lei 10.871/2004 ao regulamentar situação pretérita estabelecendo o reposicionamento de um padrão a cada 18 (dezoito) meses, em possível contrariedade à anualidade consagrada na Lei. 2. O desenvolvimento dos servidores, através de progressão e promoção funcionais, deverá obedecer ao princípio da anualidade, mas somente de acordo com a "sistemática de avaliação de desempenho, capacitação e qualificação funcionais", a qual dependia de regulamento específico (art. 10, § 1º). 3. Durante o período em que não houve regulamentação da forma e dos critérios de avaliação, não era exigível progressão ou promoção automática.
+4. Não há, pois, contraposição entre os termos do Decreto 6.530/2008 e da Lei 10.871/2004, mas apenas a regulamentação do período descoberto em função da demora na regulamentação exigida. 5. Recurso Especial não provido.
+(REsp 1.669.409/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 20/6/2017, DJe 30/6/2017)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROMOÇÃO POR ESCOLARIDADE ADICIONAL. PRINCÍPIO DA LEGALIDADE. INOBSERVÂNCIA DOS REQUISITOS PREVISTOS EM RESOLUÇÃO. RECURSO NÃO PROVIDO.
+1. Trata-se, na origem, de Mandado de Segurança contra ato do Governador do Estado de Minas Gerais e outro, que indeferiu requerimento de promoção por escolaridade adicional, uma vez que a pós-graduação em "Direito Educacional no Processo Ensino-Aprendizagem" não tem relação com a natureza e a complexidade da carreira de Auditor Fiscal.
+2. A Lei Estadual 15.464/2005 delegou ao Decreto 44.796/2008 a tarefa de regular a progressão ou promoção por escolaridade adicional. Tal decreto condiciona sua eficácia à publicação de resolução que defina critérios e procedimentos para a comprovação da escolaridade, análise da documentação, bem como modalidades de cursos e áreas de conhecimento e de formação aceitas, tal como fez a Resolução Conjunta 6.582/2008. Não há, a priori, violação do princípio da legalidade.
+3. A referida resolução sujeita a promoção à prova de "formação superior à exigida para o nível de posicionamento na carreira, compatível com a natureza e atribuições específicas do cargo". Não é possível estabelecer, nos limites da cognição do Mandado de Segurança, correlação imediata entre a especialização em "Direito Educacional no Processo Ensino-Aprendizagem" e a atividade-fim de um auditor fiscal.
+4. Seria necessária a manifestação de expert para cotejar o conteúdo programático do curso de pós-graduação em Direito Educacional com as atividades do auditor fiscal para apurar a representatividade dos créditos em estatística perante o todo, atividade incompatível com o trâmite do writ.
+5. Agravo Regimental não provido.
+(AgRg no RMS 39.018/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 11/2/2014, DJe 7/3/2014)
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. IDONEIDADE MORAL. REQUISITO PREVISTO NA LEGISLAÇÃO QUE DISCIPLINA A PROMOÇÃO DE PRAÇAS DA POLÍCIA MILITAR. PUNIÇÃO POR INSUBORDINAÇÃO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. A concessão da Segurança pressupõe a demonstração de direito líquido e certo.
+2. Hipótese em que o recorrente qualifica como ilegal o ato que indeferiu a promoção na carreira da Polícia Militar, ao argumento de que a punição (10 dias de detenção) por insubordinação não constitui obstáculo.
+3. O art. 13 do Decreto estadual 2.468/2010, que regulamenta as promoções de Praças da Polícia Militar do Estado de Mato Grosso, estabelece como requisitos "estar no mínimo no comportamento bom" e "ser considerado possuidor de idoneidade moral".
+4. Nas instituições de caráter militar, a disciplina ("exato cumprimento dos deveres, rigorosa observância e acatamento integral das leis, regulamentos, normas e ordens", conforme o art. 24 da Lei Complementar 231/2005) é um dos elementos essenciais.
+5. Nesse contexto, a punição por insubordinação afasta a existência de direito líquido e certo à promoção.
+6. Recurso Ordinário não provido.
+(RMS 41.188/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 21/5/2013, DJe 24/5/2013)
+ADMINISTRATIVO. MILITAR DO EXÉRCITO. EXCLUSÃO DO QUADRO DE ACESSO À PROMOÇÃO POR ANTIGUIDADE E MERECIMENTO. LEI Nº 5.821/72. DECRETO Nº 3.998/2001. LEGALIDADE DO ATO. OFENSA AOS PRINCÍPIOS DA PRESUNÇÃO DA INOCÊNCIA, RESERVA LEGAL, CONTRADITÓRIO E AMPLA DEFESA. INOCORRÊNCIA. PRECEDENTES. ORDEM DENEGADA.
+I - A promoção é direito dos militares, sendo certo que esta somente ocorrerá quando o oficial preencher os requisitos previstos na Lei nº 5.821/73, bem como no Decreto regulamentador. Na hipótese dos autos, o impetrante não preencheu os requisitos previstos na Lei de regência, motivo pelo qual foi excluído, temporariamente, do Quadro de Acesso.
+II - A exclusão de militar do Quadro de Acesso às Promoções em face de indiciamento em Inquérito Policial Militar não configura violação ao princípio da presunção de inocência, insculpido no art. 5º, LIV da Constituição Federal. Precedentes do Supremo Tribunal Federal e do Superior Tribunal de Justiça. Ainda, a referida exclusão não resulta de um processo administrativo destinado a examinar qualquer ato faltoso, mas apenas à análise de elementos objetivos, previstos na legislação, que determinam a inclusão ou exclusão do oficial na lista para a promoção, motivo pelo qual prescinde de contraditório e ampla defesa.
+III - A aplicação do Decreto nº 3.998/2001 no caso dos autos não configura ofensa ao princípio da reserva legal, sendo certo que houve apenas explicitação de norma já constante na Lei nº 5.821/72.
+Ademais, ainda que se entendesse inaplicável o Decreto, a própria Lei em comento disciplinou os requisitos para o ingresso no Quadro de Acesso - artigo 15, bem como a possibilidade de exclusão de oficial que tenha sido nele incluído indevidamente - art. 35, § 3º.
+IV - Ordem denegada.
+(MS 8.329/DF, Rel. Ministro Gilson Dipp, Terceira Seção, julgado em 12/11/2003, DJ 9/12/2003, p. 206)
+Da mesma forma, entendo adequado considerar a data da publicação da penalidade disciplinar de suspensão como marco inicial para a interrupção do interstício necessário à progressão na carreira e não a data do efetivo cumprimento da penalidade pelo servidor.
+Com a publicação do ato administrativo produzem-se os efeitos jurídicos dele esperado (atributo da autoexecutoriedade dos atos administrativos), não dependendo a atuação administrativa de ato de terceiros para concretizar sua carga eficacial.
+Ademais, pensar de forma contrária, para condicionar a produção de efeitos jurídicos do ato de punição disciplinar a ato atribuído ao próprio servidor investigado, seria permitir que o servidor retardasse voluntariamente o cumprimento da penalidade disciplinar para não ser atingido pelos efeitos jurídicos decorrentes da punição disciplinar, beneficiando-se, assim, da própria torpeza.
+Diante do exposto, nego provimento ao Recurso Ordinário em Mandado de Segurança.
+Publique-se.
+Intimem-se.
