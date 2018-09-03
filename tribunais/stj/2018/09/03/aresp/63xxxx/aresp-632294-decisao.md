@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DO PARANÁ contra decisão do Tribunal de Justiça daquela unidade da federação, que negou seguimento ao recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 98):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRESCRIÇÃO. TAXA JUDICIÁRIA - FUNJUS. CONFUSÃO PATRIMONIAL. INOCORRÊNCIA. FUNDO PRÓPRIO DESTINADO AO PAGAMENTO DOS SERVIDORES DAS VARAS ESTATIZADAS. AUTONOMIA ADMINISTRATIVA E FINANCEIRA GARANTIDA PELO ARTIGO 99 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE REPASSE DOS COFRES PÚBLICOS OU DE OBRIGATORIEDADE DO PODER EXECUTIVO NA FORMAÇÃO DO FUNDO. ISENÇÃO. LEI ESTADUAL QUE NÃO PREVÊ ISENÇÃO DA TAXA JUDICIÁRIA AOS ÓRGÃOS FEDERAIS, ESTADUAIS OU MUNICIPAIS.
+Recurso não provido.
+Embargos de declaração foram rejeitados (e-STJ fls. 116/119).
+No especial obstaculizado (e-STJ fls. 134/145), o recorrente aponta divergência jurisprudencial e violação do art. 535, I e II, do CPC/1973, do art. 77 do Código Tributário Nacional e do art. 381 do Código Civil, sustentando, preliminarmente, negativa de prestação jurisdicional.
+Quanto ao mérito, aduz que não estaria obrigado a pagar as custas judiciais, espécie de taxa, porquanto detentor da competência tributária para sua instituição, não sendo admissível que um órgão do Estado (FUNJUS), destituído de personalidade jurídica própria, possa ser titular do direito subjetivo de exigir a prestação pecuniária.
+Sem contrarrazões (e-STJ fl. 168).
+A Corte a quo negou seguimento ao apelo nobre por entender inexistente a alegada violação do art. 535 do CPC/1973 e aplicáveis as Súmulas 7 do STJ e 280 do STF (e-STJ fls. 170/172), não concordando o agravante com essa fundamentação (e-STJ fls. 175/183).
+Sem contraminuta (e-STJ fl. 195).
+Passo a decidir.
+Inicialmente, deve-se consignar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Feita essa anotação, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que, no acórdão impugnado, a controvérsia foi apreciada fundamentadamente, tendo sido apontadas as razões do convencimento ali exposado, não se observando, na espécie, nenhuma contrariedade da norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750.650/RJ, Relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 30/9/2015, e AgRg no AREsp 493.652/RJ, Relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 20/6/2014.
+Quanto ao mérito, apesar de o agravante apontar violação de dispositivos infraconstitucionais, constata-se que a Corte de origem dirimiu a controvérsia acerca do instituto da confusão com fulcro em fundamento constitucional (art. 150 da CF/88) e à luz do disposto na Lei Estadual n. 15.942/2008, senão vejamos:
+No presente caso, entendo não se aplicado o conceito da confusão (identidade entre credor e devedor), pois o Fundo da Justiça, criado pela Lei 15.942 de 03 de setembro de 2008, tem autonomia administrativa e financeira, garantida pelo disposto no artigo 99 da Constituição Federal.
+A tentativa do agravante de envolver todas as esferas estaduais de poder público no mesmo conceito de Fazenda Pública não pode ser acatada, pois se assim fosse não estaria o Poder Executivo do Estado obrigado a repassar os valores orçamentários destinados ao Poder Judiciário.
+Para o caso a situação é ainda pior, pois o pagamento de toda a estrutura pessoal e material das varas estatizadas é feito pelo Fubnjus, que possui caixa próprio, ou seja, seu orçamento não está atrelado ao do Estado do Paraná, e nem ao do Poder Judiciário.
+Convém frisar que as custas ou emolumentos são devidas pelo Estado do Paraná pela autonomia do Funjus, que não é órgão vinculado do Poder Executivo Estadual, devendo ser preservado o interesse público ao próprio funcionamento das Varas estatizadas.
+ ..
+Cabe, então, considerar que inexiste confusão, por conta da autonomia do Funjus, e também não pode ser aplicada isenção, por ausência de lei nesse sentido.
+A Lei Estadual nº 15.942 de 03 de setembro de 2008 que cria o Fundo da Justiça, do Poder Judiciário do Estado do Paraná, tem por escopo dar cumprimento ao processo de estatização das serventias do foto judicial, em observância ao estabelecido no artigo 31 do Ato das Disposições Constitucionais Transitórias, da Constituição Federal e no art. 1º, parágrafos 5º e 6º, da Lei Estadual nº 14.277, de 30 de dezembro de 2003, que dispõe sobre o Código de Organização e Divisão Judiciárias do Estado do Paraná.
+Não existe, na lei ou em qualquer instrução administrativa do Funjus, a previsão de isenção dos órgãos públicos Federais, Estaduais e Municipais ao pagamento da taxa judiciária prevista no inciso XII do artigo 3º da Lei Estadual nº 15.942/2008.
+Nos termos dos 150, § 6º, da Constituição da República, e 97, VI, c/c 175, I do Código Tributário Nacional, a isenção da Taxa Judiciária será permitida quando existir previsão legal autorizativa.
+Sobre o tema, confiram-se os seguintes julgados desta Corte de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO. TEMPESTIVIDADE.
+ ..
+5. Ademais, ainda que superado o óbice, a discussão sobre o recolhimento de custas pelo Estado do Paraná com base na legislação estadual referente ao FUNJUS encontra óbice na Súmula 280/STJ.
+Precedentes em decisão monocrática desta Corte: AREsp 887.819/PR, Rel. Min. Humberto Martins, DJe 1º/6/16; AREsp 571.113/PR, Rel. Min. Assusete Magalhães, DJe 1º/6/16; AREsp 874.294/PR, Rel. Min. Herman Benjamin, DJe 16/5/16; AREsp 828.378/PR, Rel. Benedito Gonçalves, DJe 12/5/16; AREsp 895.896/PR, Rel. Min. Mauro Campbell Marques, DJe 29/4/16.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 833.792/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 14/06/2016, DJe 22/06/2016).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535 NÃO VIOLADO. FORNECIMENTO DE MEDICAMENTOS. FUNDAMENTAÇÃO CONSTITUCIONAL. EXTRAPOLADA A ESTREITA VIA DO RECURSO ESPECIAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. CUSTAS PROCESSUAIS E TAXA DO FUNJUS. TRIBUNAL DE ORIGEM QUE SE BASEOU EM INTERPRETAÇÃO DE LEI ESTADUAL. IMPOSSIBILIDADE DE ANÁLISE. ÓBICE DA SÚMULA 280/STF. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+ ..
+3. O exame da controvérsia acerca da existência de confusão entre os entes envolvidos no recolhimento de despesas processuais, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos da Lei Estadual 15.942/2008, pretensão insuscetível de ser apreciada em recurso especial, nos termos da Súmula 280/STF: ("Por ofensa a direito local não cabe recurso extraordinário.
+4 . Agravo regimental a que se nega provimento.
+(AgRg no AREsp 756.249/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/09/2015, DJe 29/09/2015).
+Acrescente-se, ainda, que esta Corte tem entendido que "os arts. 77, 78 e 79 do Código Tributário Nacional reproduzem regras do art. 145 da Constituição da República, impossibilitando, no recurso especial, analisar suposta infringência, tendo em vista a necessidade de interpretação de matéria de competência exclusiva do Supremo Tribunal Federal" (AgRg no REsp 1.425.267/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 17/03/2015).
+No mesmo sentido: AgRg no AREsp 741.345/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 02/02/2016; AgRg no AREsp 363.692/DF, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 24/09/2013.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ). Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
