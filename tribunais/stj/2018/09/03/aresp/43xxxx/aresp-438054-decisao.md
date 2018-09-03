@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO DE PREVENÇÃO E DIAGNOSE S/S LTDA, em 08/04/2013, por meio do qual se impugna decisão indeferitória de seguimento a seu Recurso Especial, esse tirado de acórdão, promanado do Tribunal de Justiça do Estado do Paraná, assim ementado:
+"TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ISS NO REGIME DE RECOLHIMENTO FIXO.
+1. SENTENÇA QUE APRESENTA FUNDAMENTO SUFICIENTE PARA DETERMINAR O JULGAMENTO ANTECIPADO DA LIDE. ART. 93, IX, DA CF E AO ART. 458, II, DO CPC.
+2. INDEFERIMENTO DA PRODUÇÃO DE PROVA PERICIAL E DOCUMENTAL. CERCEAMENTO DE DEFESA INEXISTENTE. PROVAS APRESENTADAS SUFICIENTES PARA A FORMAÇÃO DO CONVENCIMENTO DO JUIZ. APLICAÇÃO DO ART. 130 E ART. 333, I, DO CPC.
+3. AUSENTE A COMPROVAÇÃO DE QUE A INSCRIÇÃO EM DÍVIDA ATIVA OCORREU EM MOMENTO ANTERIOR AO ENCERRAMENTO DE PROCESSOS ADMINISTRATIVOS DE DEFESA. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 201 DO CTN E ART. 163 E ART. 193, AMBOS DO CTN, CONFIRMADA.
+4. DIREITO DA CONTRIBUINTE AO RECOLHIMENTO DO ISS, PELO REGIME FIXO NÃO CONFIGURADO. PESSOA JURÍDICA REGIDA PELAS NORMAS DE SOCIEDADE LIMITADA, NOS TERMOS DO ART. 1.052 E 1.061, AMBOS DO CC. NÃO CUMPRIMENTO DO ART. 90, § 3º, DO DECRETO-LEI Nº 406/1968.
+5. CONFIRMADA INEXISTÊNCIA DE DIREITO À REPETIÇÃO DO INDÉBITO TRIBUTÁRIO.
+6. RECURSO DESPROVIDO. VOTO VENCIDO" (fls. 623/624e).
+Embargos de Declaração não acolhidos (fls. 682/693e).
+No Recurso Especial, interposto com base nas alíneas a e c do permissivo constitucional, alega-se a existência de dissenso pretoriano e violação aos arts. 458, II, e 535, II, do CPC/73, 26, § 3º, I, a e c, e § 6º, 150, III, 161, III, e 193 do Código Tributário Municipal, 151, III, 201 do CTN, 966, parágrafo único, do Código Civil, 14, § 4º, do CDC, 41 da Lei 6.830/80 e 9º, §§ 1º e 3º, do Decreto-lei 406/68.
+Sustenta-se, em breve síntese, que:
+"Observa-se que os únicos requisitos para que a Recorrente possa recolher o ISSQN mediante alíquota fixa, é que a prestação de serviços da contribuinte se dê sob a forma de trabalho pessoal do próprio contribuinte; e que o trabalho pessoal do próprio contribuinte é executado pessoalmente, com até o auxilio de dois (2) auxiliares.
+Não há, por mais que se apure na legislação que rege o Imposto sobre Serviços de Qualquer Natureza, quaisquer outros requisitos para que o imposto seja recolhido sob a forma de alíquota fixa.
+É fato incontroverso que o quadro societário da Recorrente é composto por um médico, e dois farmacêuticos bioquímicos.
+Além disso, foi argumentado fartamente que as atividades prestadas pela Recorrente regem-se sob a forma de trabalho pessoal dos sócios. E isto se deve pelo fato de que apenas os sócios relacionados no Contrato Social (um médico e dois bioquímicos) são os quem executam os serviços de Análises Clínicas, Anatomia Patológica e Citopatalogia, objeto da sociedade.
+Com isso, restou claro que a Recorrente cumpre os requisitos previstos no art. 26, § 3º, I, "a" e "c", e § 6º do Código Tributário Municipal, com redação dada pelo art. 1º da Lei Complementar nº 118/2003, devendo a base de cálculo utilizada para fins de lançamento e recolhimento do ISSQN durante o período de 1997 até os dias atuais ser com base nas alíquotas fixas.
+A legislação municipal não distingue que as alíquotas fixas são aplicáveis apenas às pessoas físicas, ou mesmo apenas às sociedades uniprofissionais. Se não há essa limitação, há que se ter em mente que as alíquotas fixas podem e são aplicáveis às pessoas físicas, e às pessoas jurídicas, sem qualquer distinção de seu objeto social (trabalho ou empresarial).
+Portanto, não há legislação expressa excluindo a Apelante deste regime de lançamento diferenciado, pelo simples fato de - segundo o juízo monocrático - a Apelante deter "caráter empresarial".
+E mesmo que tal questão fosse remetida à analogia não poderá resultar na exigência de tributo não previsto em Lei, ou seja, não pode ser exigido que a Apelante recolha o tributo de uma forma mais onerosa, quando a Lei lhe permite o recolhimento por uma alíquota mais favorável.
+Acrescente-se ao alegado que a responsabilidade pessoal dos profissionais liberais, corno é o caso do médico e farmacêutico, é apurada na forma do art. 14, § 4º do CDC, de aplicação cogente por se tratar de matéria de ordem pública. Irrevogável, portanto, por convenção das partes, como é o caso do contrato social.
+Nesta toada, tem-se que o acórdão proferido também contradiz-se com o disposto no parágrafo único do art. 966 do Código Civil, que exclui das profissões de natureza científica o conceito de empresário.
+Conclui-se, portanto, que a Recorrente é detentora do benefício fiscal do ISS a sociedade de profissionais, ou seja, a sociedade formada por profissionais liberais da sua mesma área e destinada à prestação de serviços através do trabalho pessoal de seus sócios.
+O imposto recolhido pela Recorrente foi efetuado de forma escorreita, observando perfeitamente o disposto no art. 4º da Lei Complementar Municipal nº 118/2003: (..)" (fls. 706/707e).
+Aduz-se, ainda, que o acórdão recorrido padeceria de omissão, bem como estaria desfundamentado, porque não teria examinado dispositivos de lei aplicáveis.
+Requer-se, por fim, "se digne essa Colenda Corte Superior em conhecer e dar total provimento ao recurso em questão, nos termos da fundamentação retro, reformando o v. acórdão recorrido, em estrita observância aos dispositivos legais invocados e toda matéria aventada" (fls. 714e).
+Contrarrrazões às fls. 801/808e.
+Recurso Especial inadmitido (fls. 821/823e), com fundamento na inocorrência de omissão e nas Súmulas 7 do STJ e, por analogia, 280 do STF, o que deu azo à interposição de Agravo (fls. 826/835e).
+Sem contraminuta (fl. 850e).
+O presente recurso não merece prosperar.
+Não há de se cogitar de omissão nem de falta de fundamentação, no acórdão recorrido. Dessarte, não se verifica a pretensa falta de análise de dispositivos de lei, mas interpretação - obviamente, diversa da pretendida pela ora recorrente - dos dispositivos de lei regentes da espécie.
+No mérito propriamente dito, segundo iterativa jurisprudência do STJ, a pessoa jurídica que assume, em contrato social, a forma societária de responsabilidade limitada, não faz jus ao recolhimento de ISSQN em alíquota fixa (art. 9º, § 3º, do Decreto-lei 406/68), uma vez que revela natureza de sociedade empresarial.
+Nessa linha, os seguintes precedentes ilustrativos:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ISS. SOCIEDADE UNIPROFISSIONAL. RESPONSABILIDADE LIMITADA. CARÁTER EMPRESARIAL. ART. 9º, §§ 1º e 3º, DO DL 406/1968. INAPLICABILIDADE. SÚMULA 83/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. A tributação fixa do ISS, prevista no art. 9º, § 3º, do DL 406/1968, somente se aplica quando houver responsabilidade pessoal dos sócios e inexistir caráter empresarial na atividade realizada.
+3. Na sociedade limitada, a responsabilidade de cada sócio é restrita ao valor de suas quotas (art. 1.052 do CC), o que afasta o benefício da tributação fixa. Precedentes do STJ.
+4. Agravo Regimental não provido" (STJ, EDcl no AREsp 773.758/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/05/2016).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ISSQN. SOCIEDADE POR COTA DE RESPONSABILIDADE LIMITADA. RECOLHIMENTO POR VALOR FIXO. ART. 9º, § 3º DECRETO-LEI 406/68. DESCABIMENTO. PRECEDENTES. SOCIEDADE ORGANIZADA SOB A FORMA EMPRESARIAL. AGRAVO REGIMENTAL DA EMPRESA CONTRIBUINTE AO QUAL SE NEGA PROVIMENTO.
+1. Segundo a jurisprudência firmada no âmbito da 1ª Seção do STJ, o tratamento diferenciado dispensado às sociedades profissionais, nos moldes do art. 9º do Decreto-Lei 406/68, não foi revogado pela Lei Complementar 116/03 (REsp. 919.067/MG, Rel. Ministro TEORI ALBINO ZAVASCKI, DJe 9.8.2011).
+2. Firmou-se a orientação da 1ª Seção desta Corte Superior de que as sociedades constituídas sob a forma de responsabilidade limitada, justamente por excluir a responsabilidade pessoal dos sócios, não atendem ao disposto no art. 9º, § 3º do DL 406/68, razão por que não fazem jus à postulada tributação privilegiada do ISS (AgRg nos EREsp. 1.182.817/RJ, Rel. Min. MAURO CAMPBELL MARQUES, DJe 29.8.2012).
+3. Agravo Regimental da empresa contribuinte ao qual se nega provimento" (STJ, AgRg no AREsp 155.844/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 31/03/2016).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
