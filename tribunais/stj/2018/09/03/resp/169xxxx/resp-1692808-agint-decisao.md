@@ -1,0 +1,71 @@
+DECISÃO
+Vistos.
+Fls. 807/827e - Trata-se de Agravo Interno (art. 1.021, do CPC) interposto por AVON COSMÉTICOS LTDA. contra decisão monocrática de minha lavra, mediante a qual, com fundamento no art. 557, caput, do Código de Processo Civil de 1973, o Recurso Especial teve seguimento negado (fls. 792/802e).
+Feito breve relato, decido.
+Em juízo de retratação, consoante o disposto no § 2º, do art. 1.021, do Código de Processo Civil, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor sua reconsideração, a fim de que, oportunamente, o recurso seja novamente analisado.
+Isto posto, nos termos do § 2º, art. 1.021, do Código de Processo Civil, RECONSIDERO a decisão de fls. 792/802e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 807/827e.
+Passo, doravante, à nova análise do Recurso Especial.
+Trata-se de Recurso Especial interposto por AVON COSMÉTICOS LTDA., contra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado (flS. 491/492e):
+AGRAVO LEGAL - ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PODERES DO RELATOR DO RECURSO - DECISÃO MONOCRÁTICA - PARTICIPAÇÃO LUCRO - NEGOCIAÇÃO COLETIVA EM CONFORMIDADE COM A LEI - NÃO JUNTADA NOS AUTOS
+I - O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+II - Não há reparo a fazer na decisão agravada, já que esta observou os critérios anteriormente expostos e já sedimentados nos precedentes mencionados por ocasião da aplicação da disciplina do artigo 557 do Código de Processo Civil.
+III - Nos termos do art. 2º, § Io da Lei 10.101/2000, a participação regular de lucros somente pode ser operada mediante negociação coletiva.
+IV - A recorrente não mitigou a presunção de legitimidade atribuída à Notificação Fiscal de Lançamento de Débito impugnada, pois não se desincumbiu do ônus que lhe impõe o art. 333, I, do Código de Processo Civil, ao deixar de juntou aos autos a negociação coletiva comprobatória de que a participação extraordinária dos lucros foi distribuída em conformidade com o disposto no art. 2o, § Io da Lei 10.101/2000.
+V - Nos termos do entendimento desta 2a Turma, os honorários advocatícios ficam reduzidos para 5% sobre o valor da causa, em razão da pouca complexidade da lide.
+VI - Agravo legal desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 507/511e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos, alegando, em síntese, que:
+I) Art. 535 do Código de Processo Civil - o tribunal de origem omitiu-se ao rejeitar os embargos opostos, não se pronunciando sobre as questões federais suscitadas; e
+II) Arts. 130, 334, 355, 359 do CPC, 1º e 2º da Lei n. 10.101/00, 22, I, da Lei n. 8.212/90, 5º, II, XXXV, LIV, 7º, XI, 150, I, 195, I, a, da CF/88 - caberia ao Juiz, como destinatário final da prova, determinar de ofício, a produção das provas que entendesse indispensáveis para o deslinde do caso, seja, ainda, pela negativa de prestação jurisdicional, já que indeferida a produção da prova requerida pela Recorrente e julgado improcedente o pedido por suposta falta de provas; a manutenção da exigência da contribuição previdenciária sobre os valores pagos a título de PLR não encontra guarida no ordenamento jurídico.
+Requer, outrossim, a redução dos honorários advocatícios.
+Com contrarrazões (fls. 610/618e), o recurso foi admitido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Ao examinar a questão referente ao cerceamento de defesa, caracterizada, de acordo com a Recorrente, assentou o acórdão recorrido (fls. 483/488e):
+Primeiramente consigno que a matéria posta no recurso de apelação foi toda decida com base na jurisprudência pacífica do Superior Tribunal de Justiça a respeito, inclusive no que refere à ausência de provas nos autos de que a participação extraordinária nos lucros tinha previsão em convenção ou acordo coletivo e que esta estava em conformidade com a legislação específica.
+ ..
+Pois bem, ao contrário do que afirma a contribuinte, a autarquia previdenciária alega que a participação extraordinária não foi objeto de qualquer negociação entre a comissão e a empresa, bem porque constui uma premiação de incentivo paga mundialmente pela AVON sem qualquer negociação com empregados e respectivo sindicato, o que a afasta das características legais que revestem a participação nos lucros.
+Dessa forma, a contribuinte deveria ter juntado aos autos a negociação coletiva a comprovar suas alegações de que os critérios para concessão da referida participação extraordinária foi objeto de negociação entre a empresa e seus funcionários, até mesmo para aferir se a regra do art. 2º, §1º da Lei 10.101/2000 foram respeitados.
+ ..
+A singela alegação de que a manifestação da parte apelada demonstra a existência de negociação coletiva atinente a participação de lucros não é suficiente, pois o que não está nos autos não está no mundo.
+A perícia contábil é desnecessária, pois antes precisa ser aferido se a participação extraordinária de lucro paga aos executivos e funcionários de alto escalão da empresa está em conformidade com a lei. Assim, a questão ser desvendada não é contábil, mas sim jurídica.
+Ademais, cabe ao juiz determinar as provas necessárias à instrução do processo (art. 130 do CPC). Se entendeu que não havia necessidade de produção de outras provas, inclusive perícia, é porque a prática e a experiência indicam que a questão já estava em condições de ser decidida.
+ ..
+Assim, não merece guarida a alegação da apelante de que a NFLD é nula, pois desprovida de conteúdo probatório.
+Verifica-se, portanto, que o aresto recorrido destoa da jurisprudência desta Corte segundo a qual, embora caiba ao magistrado avaliar a pertinência da produção de determinada prova, configura cerceamento de defesa o julgamento antecipado da lide rejeitando os pedidos da parte, justamente por insuficiência de lastro probatório da pretensão.
+Nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REQUERIMENTO DE PROVA PERICIAL. JULGAMENTO ANTECIPADO DA LIDE. SENTENÇA QUE DENEGOU O DIREITO PLEITEADO ANTE A AUSÊNCIA DE PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA DE PRECLUSÃO.
+1. A jurisprudência desta Corte é uníssona no sentido de que configura-se cerceamento de defesa quando o juiz indefere produção de provas requeridas e, em seguida, julga o pedido improcedente por força, justamente, da insuficiência de provas. Precedentes: AgRg no Ag 388759/MG, rel. Min. Humberto Gomes de Barros, Terceira Turma, Data de Publicação em 16/10/2006; AgRg no AREsp 512708/RS, Rel. Min. Sérgio Kukina, Relator para acórdão Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 23/3/2015; AgRg no REsp 1415970/MT, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 15/8/2014; AgRg no AREsp 68635/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 3/9/2012.
+Nesses casos, não há falar em preclusão da alegação do cerceamento de defesa.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.454.129/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/06/2015, DJe 04/08/2015 - destaquei).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. APELAÇÃO CÍVEL. JULGAMENTO ANTECIPADO DA LIDE. DIREITO À PRODUÇÃO DAS PROVAS REQUERIDAS. ERROR IN PROCEDENDO DO TRIBUNAL DE ORIGEM. DEVOLUÇÃO DOS AUTOS PARA PROCEDER FASE INSTRUTÓRIA.
+1. A sentença de mérito julgou a lide de forma antecipada favorável ao recorrente, por entender estarem presentes todas as informações capazes de formar seu convencimento. Condenou o Município ao pagamento dos serviços prestados.
+2. Inconformado, o recorrido apelou, e o Tribunal de origem, reformando a sentença, proferiu decisão em que entendeu não estarem presentes documentos capazes de provar a prestação dos serviços.
+3. A interpretação dada ao art. 535 do CPC é de que ocorre contradição quando a decisão apresenta parte dispositiva divergente da fundamentação esposada. Nesse caso, em particular, a contradição está na ocorrência de um error in procedendo pelo Tribunal ordinário. Ao entender que não estavam presentes as provas suficientes para embasar a alegação do apelado, ora recorrente, deveria devolver os autos para que o juiz sentenciante procedesse nova abertura da fase instrutória.
+4. Ora, se o juiz julgou a lide de forma antecipada por entender estarem presentes todas as provas necessárias ao deslinde da controvérsia, não pode o acórdão, atestando a ausência de provas, julgar contrariamente ao recorrente, sem oportunizar-lhe o direito da produção de provas, pois assim, estar-se-ia vedando à parte o direito de instruir corretamente o processo, cerceando-lhe à defesa.
+5. Recurso especial a que se dá parcial provimento para que o processo seja devolvido ao juiz de primeiro grau, para prosseguindo com o feito, proceda a fase instrutória, saneando o processo com a fixação dos pontos controversos das provas a serem produzidas.
+(REsp 1.205.123/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/09/2010, DJe 15/10/2010 - destaquei).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. ICMS. JULGAMENTO ANTECIPADO DA LIDE. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. OCORRÊNCIA. PRECEDENTES DO STJ.
+1. Trata-se, na origem, de Ação Anulatória de Auto de Infração movida pelo agravado contra o Estado do Amapá. O auto de infração teve por fundamento, em suma, o recolhimento a menor do ICMS devido em razão do regime de substituição tributária.
+2. Colhe-se dos autos que o agravado, desde a petição inicial, suscita a imprescindibilidade da realização de perícia técnica para comprovar suas alegações. Porém, tal pedido foi indeferido, tendo o juízo singular julgado antecipadamente a lide na forma do art. 330 do CPC.
+3. Verifica-se que a sentença julgou improcedente o pedido ao argumento de que não houve demonstração de que "as operações abrangidas pelo auto de infração foram realizadas no atacado com hospitais e/ou similares e para utilização dos medicamentos em pacientes, demonstração que não houve, sequer se sabendo quem foram, no caso, os destinatários dos produtos" (fl.107, e-STJ).
+4. Segundo a jurisprudência do STJ, ocorre cerceamento de defesa quando se indefere a produção probatória e condena-se o requerente pela ausência de provas em contrário, justamente o que ocorreu no caso dos autos.
+5. Agravo Regimental não provido.
+(AgRg no AgRg no REsp 1.280.559/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/08/2013, DJe 13/09/2013 - destaquei).
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA - PRECLUSÃO - AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO RECORRIDO - INCIDÊNCIA DA SÚMULA 283/STF - TRANSAÇÃO E PRESCRIÇÃO - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DA SÚMULA 211/STJ - PRODUÇÃO DE PROVAS - CRITÉRIO DO MAGISTRADO - JULGAMENTO ANTECIPADO DA LIDE - CERCEAMENTO DE DEFESA - OCORRÊNCIA, NA ESPÉCIE - RECURSO IMPROVIDO.
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado.
+2. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." (Súmula 283/STF).
+3. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo." (Súmula 211/STJ).
+4. Cabe ao Magistrado da causa analisar o cabimento da produção de provas, deferindo ou não a sua produção. Contudo, há cerceamento de defesa quando, julgada antecipadamente a lide, a sentença fundamenta-se na ausência de prova da pretensão.
+5. O âmago do pedido autoral (coação na formalização do distrato) depende diretamente da produção de prova oral.
+6. Recurso improvido.
+(REsp 1.134.690/PR, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 15/02/2011, DJe 24/02/2011 - destaquei).
+PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO MORAL E MATERIAL. CONTA-POUPANÇA. TRANSFERÊNCIA INDEVIDA. JULGAMENTO ANTECIPADO DA LIDE. AUSÊNCIA DA NECESSÁRIA INSTRUÇÃO PROBATÓRIA. CERCEAMENTO AO DIREITO DE DEFESA. MATÉRIA DE ORDEM PÚBLICA. ANULAÇÃO DE OFICIO DA SENTENÇA PELO ACÓRDÃO RECORRIDO. POSSIBILIDADE. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Evidenciada a necessidade da produção de provas requeridas pela autora, a tempo oportuno, constitui cerceamento de defesa o julgamento antecipado da lide, com infração aos princípios constitucionais do contraditório, ampla defesa e devido processo legal.
+2. A violação a tais princípios constitui matéria de ordem pública e pode ser conhecida de ofício pelo órgão julgador.
+3. Recurso especial não-provido.
+(REsp 714.467/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/09/2010, DJe 09/09/2010).
+Isto posto, nos termos do § 2º, art. 1.021, do Código de Processo Civil, RECONSIDERO a decisão de fls. 792/802e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 807/827e, e com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PROVIMENTO ao Recurso Especial para, anulando a sentença e o acórdão recorrido, determinar o retorno dos autos ao primeiro grau, a fim de que seja reaberta a instrução probatória.
+Prejudicada a análise das demais questões trazidas no especial.
+Publique-se e intimem-se.
