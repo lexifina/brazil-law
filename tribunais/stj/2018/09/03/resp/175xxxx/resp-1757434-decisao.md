@@ -1,0 +1,2 @@
+DECISÃO
+Tendo em vista o pedido de fls. 401-402, e-STJ, do Estado do Mato Grosso do Sul e a existência de conexão com o REsp 1.194.732/SP, revogo a decisão monocrática proferida à fl. 396, e-STJ, e solicito à Coordenadoria da Primeira Seção do Superior Tribunal de Justiça que providencie a redistribuição do feito ao Gabinete do ilustre Ministro Gurgel de Farias, com fulcro no art. 71 do RISTJ, para que possa analisar a prevenção de sua competência.
