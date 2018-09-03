@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJDFT assim ementado (e-STJ fl. 291):
+DIREITO PROCESSUAL CIVIL. ÂÇÂO REIVINDICATÓRIA. ÇITAÇÃO, DOS CÔNJUGES. INOBSERVÂNCIA. NULIDADE. A ação reivindicatória versa sobre direito real imobiliário. Nesse caso, impõe-se a citação do cônjuge do demandado (art. 47, parágrafo único, c/c ad. 10, § 10, I,do Código de Processo Civil). Recursos conhecidos,, suscitada preliminar de nulidade ab ovo do processo, prejudicado o exame dos apelos. Unânime.
+Os embargos de declaração opostos do acórdão da apelação foram rejeitados (e-STJ fls. 335/341).
+A recorrente, em suas razões (e-STJ fls. 345/374), alegou, além de dissídio jurisprudencial, violação dos artigos 1.196, 1.208 e 1.210 do CC/2002 e 47 do CPC/1973.
+Alega, inicialmente, inexistência de litisconsórcio necessário, "(..) porque sendo os réus desprovidos de título, somente figurarão no pólo passivo da demanda se estiverem ocupando indevidamente o imóvel (..)" (e-STJ fl. 358). "Trata-se, no caso vertente, a pretensa "cônjuge" do recorrido/embargado/apelante/réu não ocupa o imóvel objeto da lide, tanto que, nem o Oficial de Justiça nem os fiscais da TERRACAP a encontraram naquele local quando da realização de vistorias, in loco. Logo, se não, ocupa imóvel, não se há falar em litisconsórcio, em tal caso, absolutamente, por, conseguinte" (e-STJ fl. 355).
+Aduz que "Sendo injusta a posse, sem poder utilizar-se das ações possessórias, imperioso é que o Judiciário, face ao caráter fungível, destas, ações, tivesse isto sim deferido a REINTEGRAÇÃO DE POSSE à Recorrente/Embargante/Autora, eis que a posse deve sempre ser julgada a favor de quem detém o DOMÍNIO, no caso a TERRACAP, na conformidade do art. 1.210 do Código Civil (Lei n.º 10.406, de 10 de janeiro de 2002)" (e-STJ fl. 356).
+Afirma, ainda, que "Dos títulos apresentados pela TERRACAP (fis. 10/29) restou plenamente comprovado que, o imóvel constitui bem público dominical, insuscetível de posse, pelo particular. Não demonstrou o recorrido/embargado/apelante/réu qualquer, titulo legitimo que comprovasse, acerca do imóvel objeto da lide, posse de boa fé sobre o imóvel em litígio. Ocupava imóvel que não lhe pertence" (e-STJ fl. 362).
+Busca que seja reconhecida a proteção possessória em favor da TERRACAP, devendo ser retirados os ocupantes, bem como determinada a demolição das acessões artificiais, com condenação ao pagamento de taxa de ocupação, por utilização ilegal de imóvel público, e aos honorários advocatícios.
+Os recorridos apresentaram contrarrazões (e-STJ fls. 385/408).
+Exercido o juízo de admissibilidade positivo na origem, os autos vieram a esta Corte Superior (e-STJ fls. 410/412).
+É o relatório.
+Decido.
+O presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+A jurisprudência desta Corte está sedimentada no sentido de, tratando-se de ação reivindicatória, é imprescindível a citação de ambos os cônjuges para formação do litisconsórcio passivo necessário, consoante se infere dos seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. CITAÇÃO VÁLIDA DE AMBOS OS CÔNJUGES. AUSÊNCIA. NULIDADE.
+1. Esta Corte firmou entendimento segundo o qual, sendo ação reivindicatória de natureza real, é imprescindível a citação de ambos os cônjuges ante a formação do litisconsórcio passivo necessário, sob pena de nulidade 2. Agravo interno não provido.
+(AgInt no REsp 1447860/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - BEM PÚBLICO - OCUPAÇÃO IRREGULAR - INEXISTÊNCIA DE NOTIFICAÇÃO PRÉVIA DE TODOS OS OCUPANTES DO IMÓVEL, BEM COMO AUSÊNCIA DE CITAÇÃO DE UM OCUPANTE DO IMÓVEL - TRIBUNAL A QUO QUE AFASTOU AS PRELIMINARES DE AUSÊNCIA DE PRESSUPOSTOS DA AÇÃO E DE NULIDADE POR FALTA DE CITAÇÃO DE OCUPANTE. INSURGÊNCIA DOS RÉUS
+Hipótese: ação de reintegração de posse ajuizada em face de ocupantes irregulares, julgada procedente.
+Arguição de ausência de pressuposto processual e nulidade do feito, ante a ausência de citação de litisconsorte, afastadas pelas instâncias ordinárias.
+1. A partir da leitura dos artigos 924, 927 e 928 do CPC/73, equivalentes aos artigos 558, 561 e 562 do CPC/15, infere-se que a notificação prévia não é documento essencial à propositura da ação possessória.
+2. Em ação possessória na qual que se aprecia a legitimidade de composse, que é exercida conjuntamente e sem fracionamento do bem por todos os ocupantes, a sentença deverá ser cumprida por todos os co-possuidores considerados ilegítimos, configurando-se a hipótese de litisconsórcio necessário prevista no artigo 47 do CPC/73, correspondente aos artigos 114, 115 e 116 do CPC/15.
+3. A ausência da citação de litisconsorte passivo necessário enseja a nulidade da sentença, nos termos do artigo 47 do CPC/73, correspondente ao artigo 115 do CPC/15.
+4. Recurso provido para declarar a nulidade da sentença, determinando a remessa dos autos à origem para que seja admitido o comparecimento espontâneo de [NOME], bem como lhe seja conferida oportunidade para constituir novo patrono, considerando a destituição noticiada a fl. 413 e-STJ, e para apresentar defesa, com regular processamento e posterior julgamento do feito.
+(REsp 1263164/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2016, DJe 29/11/2016)
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. NEGATIVA DE VIGÊNCIA DO ART. 618, I, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. INCIDÊNCIA. NULIDADE DO PROCESSO. CITAÇÃO VÁLIDA. AUSÊNCIA.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Aplica-se o óbice previsto na Súmula n. 282/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+3. É necessária a citação de ambos os cônjuges nas ações que versem sobre direitos reais imobiliários (arts. 10, caput e § 1º, I, e 47 do CPC), ante a formação do litisconsórcio passivo necessário, sob pena de nulidade.
+4. Recurso especial parcialmente conhecido e provido.
+(REsp 1250804/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 03/12/2015, DJe 26/02/2016)
+O entendimento do acórdão recorrido está em consonância com a jurisprudência do STJ, razão pela qual incide a Súmula n. 83 desta Corte.
+Ademais, analisar se o cônjuge reside ou não no local reivindicado, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Diante do exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
