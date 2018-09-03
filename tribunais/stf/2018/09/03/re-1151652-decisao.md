@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça de Santa Catarina que julgou improcedente o pedido de declaração de inconstitucionalidade da Lei 3.701 do Município de Balneário Camboriú, assim ementado (eDOC 21, p.28)
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 3.701, DE 29.8.2014, DO MUNICÍPIO DE BALNEÁRIO CAMBORIÚ, QUE IMPÕE A COBRANÇA FRACIONADA PELO TEMPO DE PERMANÊNCIA NOS ESTACIONAMENTOS PARTICULARES. DIREITO DO CONSUMIDOR. COMPETÊNCIA SUPLEMENTAR DO MUNICÍPIO SOBRE ASSUNTO DE INTERESSE LOCAL. ARTIGO 112, INCISOS I E II, DA CONSTITUIÇÃO ESTADUAL. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DESTA CORTE. LEI IMPUGNADA QUE NÃO INVADIU A COMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE DIREITO CIVIL (ARTIGO 22, INCISO I, DA CONSTITUIÇÃO FEDERAL). DIREITO DE PROPRIEDADE E PRINCÍPIOS DA LIVRE INICIATIVA E DA LIVRE CONCORRÊNCIA QUE NÃO FORAM VIOLADOS. PAGAMENTO FRACIONADO QUE ASSEGURA A CONTRIBUIÇÃO CORRESPONDENTE À EFETIVA PRESTAÇÃO DO SERVIÇO AOS CONSUMIDORES DO MUNICÍPIO, SENDO MANTIDA A LIBERDADE DO EMPRESÁRIO PARA A FIXAÇÃO DO PREÇO DA FRAÇÃO DE TEMPO. NORMA FORMAL E MATERIALMENTE CONSTITUCIONAL. IMPROCEDÊNCIA DO PEDIDO INICIAL.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 1º, IV, 5, XXII, 22, I, 24,V, 30, I e II e 170, II e IV da Constituição da República.
+    Nas razões recursais, sustenta-se que, apesar de o STF já ter decidido anteriormente que Municípios e Estados legislarem sobre a regulação de estacionamentos privados constitui usurpação de competência da União e violação ao princípio da livre iniciativa, o Tribunal a quo não reconheceu a inconstitucionalidade do dispositivo.
+    É o relatório. Decido.
+    O recurso merece provimento.
+    O Plenário desta Suprema Corte, nas ADIs 4.862/PR, Relator Ministro Gilmar Mendes, e 4.008/DF, Relator Ministro Roberto Barroso, decidiu em sentido diverso da decisão objeto do presente recurso extraordinário. Eis as ementas:
+     Ação Direta de Inconstitucionalidade. 2. Lei 16.785, de 11 de janeiro de 2011, do Estado do Paraná. 3. Cobrança proporcional ao tempo efetivamente utilizado por serviços de estacionamento privado. Inconstitucionalidade configurada. 4. Ação direta julgada procedente. (STF/ADI 4.862/PR, Relator Ministro Gilmar Mendes, Tribunal Pleno, 18.08.2016)
+    Ementa: DIREITO CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI DISTRITAL QUE REGULOU PREÇO COBRADO POR ESTACIONAMENTO. INCONSTITUCIONALIDADE FORMAL E MATERIAL.
+    1. O Supremo Tribunal Federal firmou entendimento no sentido de que a regulação de preço de estacionamento é matéria de direito civil, inserindo-se na competência privativa da União para legislar (CF/88, art. 22, I). Inconstitucionalidade formal. Precedentes: ADI 4.862, rel. Min. Gilmar Mendes; AgR-RE 730.856, rel. Min Marco Aurélio; ADI 1.623, rel. Min. Joaquim Barbosa.
+    (...) (STF/ADI 4.008/DF, Relator Ministro Roberto Barroso, Tribunal Pleno, 08.11.2017).
+    Não obstante convicção pessoal, em homenagem ao princípio da colegialidade e considerando o entendimento consolidado no Plenário do Supremo Tribunal Federal, nos termos do artigo 932, V, “b”, do CPC, dou provimento ao recurso extraordinário, para julgar procedente o pedido da ação direta de inconstitucionalidade ajuizada perante o Tribunal de Justiça de Santa Catarina.
+    Publique-se.
+    Brasília, 3 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
