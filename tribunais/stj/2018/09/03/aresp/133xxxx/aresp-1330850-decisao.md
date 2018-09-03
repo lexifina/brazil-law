@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE RECURSAL. EMBARGOS INFRINGENTES MANIFESTAMENTE INCABÍVEIS NÃO INTERROMPEM O PRAZO PARA A INTERPOSIÇÃO DO RECURSO ESPECIAL. PRECEDENTES. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE ONDRIVE COMERCIAL LTDA. - ME.
+DECISÃO
+Trata-se de agravo interposto por Ondrive Comercial Ltda. - ME contra decisão que negou seguimento ao recurso especial, com fundamento nas alíneas a e c do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça do Paraná assim ementado (e-STJ, fls. 7.723-7.724):
+AÇÃO DE OBRIGAÇÃO DE FAZER. CANCELAMENTO DE HIPOTECA. LIMINAR COM MULTA COMINATÓRIA. EXECUÇÃO DA MULTA. CESSÃO DO CRÉDITO PARA TERCEIROS. IMPUGNAÇÃO JULGADA IMPROCEDENTE. AGRAVO DE INSTRUMENTO: TEMPESTIVIDADE. ART. 191 DO CPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PRESCRIÇÃO DA COBRANÇA DA MULTA. CESSÃO DA MULTA COMINATÓRIA. NATUREZA. DESVIRTUAMENTO. VALIDADE. INCEDIBILIDADE. REDUÇÃO DO VALOR - QUESTÃO PREJUDICADA. RECURSO PARCIALMENTE PROVIDO.
+1. No procedimento instaurado para a execução da multa cominatória contra diversos executados com procuradores diferentes, o prazo recursal é contado em dobro, ex vi do art. 191 do CPC.
+2. A desconsideração da personalidade jurídica foi decidida e mantida em sede de outro recurso de agravo de instrumento. Se estão presentes todos os elementos que motivaram a decisão anterior, não encontramos justa causa para o reexame da questão.
+3. A multa cominatória foi aplicada no mês de maio de 2000 visando compelir a sociedade empresária a promover a baixa da hipoteca do imóvel negociado. A sentença foi proferida em fevereiro de 2005 e o cancelamento da hipoteca foi averbado no mês de dezembro de 2006. A execução da multa cominatória foi requerida no mês de março de 2011. O direito de crédito da multa foi cedido para terceiro, a título gratuito, no dias 28 de fevereiro de 2011. A multa coercitiva é exigível pela parte em favor de quem ela foi aplicada a partir do trânsito em julgado da decisão ou da data do seu cumprimento voluntário. O prazo.prescricional é de 10 anos na forma da regra geral prevista no art. 205 do CC.
+4. A multa cominatória pode ser revista a qualquer tempo sem ofensa ao princípio da coisa julgada, de modo a ajustá-la aos parâmetros da razoabilidade e da proporcionalidade (REsp nº 1.919.262/BA, Terceira Turma, Rel. Min. João Otávio de Noronha. [NOME]).
+5. Pela sua natureza a multa coercitiva visando impor o cumprimento de uma obrigação de fazer não é cedível para terceiro. Quando a obrigação que motivou a imposição da multa, pela própria natureza da prestação estiver ligada a pessoa do credor, estamos diante de crédito que não admite a cessão, principalmente porque não é possível ceder valor incerto e cinco anos após o cumprimento da obrigação.
+6. O pedido de redução do valor da multa visando compatibilizar com a natureza da obrigação e obstar o enriquecimento ilícito fica prejudicado.
+Foram, ainda, opostos embargos de declaração por ambas as partes, que acabaram rejeitados (e-STJ, fls. 7.765-7.770 e 7.799-7.806).
+Opostos embargos infringentes por Ondrive Comercial Ltda. - ME, os quais não foram conhecidos (e-STJ, fls. 8.050-8.076).
+Manejados novos embargos declaratórios por Construtora San Roman S.A. e outros, foram acolhidos, e por Ondrive Comercial Ltda. - ME, os quais foram rejeitados, recebendo a seguinte ementa (e-STJ, fl. 8.143):
+EMBARGOS DE DECLARAÇÃO CÍVEL Nº 1.341.045-2/06.
+1. Ausência de contradição, obscuridade, omissão ou erro material no acórdão. Questões já devidamente analisadas. Mero inconformismo.
+EMBARGOS CONHECIDOS E REJEITADOS.
+EMBARGOS DE DECLARAÇÃO CÍVEL Nº 1.341.045-2/05.
+EXISTÊNCIA DE ERRO MATERIAL NA DECISÃO - VICIO SANADO.
+1. Constou na decisão embargada que a cessionária não possui legitimidade passiva para a demanda originária, quando na realidade ela não possui legitimidade ativa.
+2. Vício Sanado.
+EMBARGOS CONHECIDOS E PARCIALMENTE ACOLHIDOS.
+Opostos, novamente, embargos de declaração por Ondrive Comercial Ltda. - ME, que acabaram rejeitados (e-STJ, fls. 8.196-8.203).
+Nas razões do recurso especial, a recorrente alegou, além de divergência jurisprudencial, violação ao art. 530 do CPC/1973, pugnando, em síntese, pelo cabimento dos embargos infringentes, a fim de que prevaleça o voto vencido, referente à possibilidade da cessão de crédito das astreintes para que seja determinada a retomada do julgamento das demais matérias a serem julgadas no recurso anteriormente interposto.
+Contrarrazões apresentadas às fls. 8.363-8.372 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial pela incidência da Súmula 83 do STJ.
+Brevemente relatado, decido.
+Com efeito, segundo a jurisprudência pacífica desta Corte Superior, "a oposição de embargos infringentes, não conhecidos por incabíveis, não interrompe nem suspende o prazo para interposição de recurso especial, computando-se como termo inicial desse prazo a data de publicação do acórdão embargado" (AgRg no Ag 1.315.002/MG, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/12/2014, DJe 11/12/2014).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS INFRINGENTES MANIFESTAMENTE INCABÍVEIS. INTERRUPÇÃO OU SUSPENSÃO DE PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL. NÃO OCORRÊNCIA. INTEMPESTIVIDADE DO APELO NOBRE. I - É consolidada a jurisprudência deste Superior Tribunal de Justiça no sentido de inexistir interrupção ou suspensão de prazo para interposição do recurso especial quando declarados incabíveis os embargos infringentes. II - In casu, o recurso especial não foi conhecido em razão da intempestividade, porquanto foi considerada incabível na origem a interposição de embargos infringentes.
+III - Agravo interno não provido. (AgInt no AREsp 1.172.463/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/3/2018, DJe 19/3/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTAURAÇÃO DE AUTOS. RECURSO ESPECIAL. INTEMPESTIVIDADE.
+1. O prazo para interposição do recurso especial é de 15 (quinze) dias a contar da publicação do acórdão recorrido.
+2. Os embargos infringentes incabíveis não interrompem nem suspendem o prazo para a interposição do recurso especial.
+3. Agravo interno não provido. (AgInt no AREsp 834.936/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/8/2017, DJe 18/8/2017)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS INFRINGENTES INCABÍVEIS. AUSÊNCIA DE INTERRUPÇÃO OU SUSPENSÃO DO PRAZO RECURSAL. RECURSO ESPECIAL INTEMPESTIVO. AGRAVO INTERNO NÃO PROVIDO.
+1. "A jurisprudência desta Corte é firme no sentido de que a oposição de embargos infringentes incabíveis não têm o condão de suspender ou interromper o prazo recursal." (AgRg no AREsp 741.220/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 26/04/2016, DJe 11/05/2016).
+2. Ao fundamentar o não cabimento dos embargos infringentes o Tribunal de origem consignou que apesar de ter ocorrido julgamento não unânime, esse não acarretou a reforma da sentença de mérito quanto ao cerne da discussão e os agravantes não foram sucumbentes quanto à parte reformada da sentença.
+3. Agravo interno não provido. (AgInt no AREsp 567.729/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/4/2017, DJe 2/5/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. EMBARGOS INFRINGENTES INCABÍVEIS. INTERRUPÇÃO. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. O prazo para interposição do recurso especial é de 15 (quinze) dias, a teor do que dispõe o art. 508 do CPC. No caso, não logrou o recorrente demonstrar a alegada tempestividade do recurso.
+2. "A jurisprudência deste Superior Tribunal de Justiça entende que a oposição de embargos infringentes, não conhecidos por incabíveis, não interrompe nem suspende o prazo para interposição de recurso especial, computando-se como termo inicial desse prazo a data de publicação do acórdão embargado" (AgRg no Ag 1315002/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/12/2014, DJe 11/12/2014).
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 775.151/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2015, DJe 4/2/2016)
+No caso dos autos, o acórdão do agravo de instrumento, que, por maioria, deu parcial provimento ao recurso, foi publicado em 20/7/2015 (e-STJ, fl. 7.756) contra essa decisão. Primeiro, foram opostos embargos de declaração às fls. 7.765-7.770 e 7.799-7.806 (e-STJ) por ambas as partes e posteriormente embargos infringentes por Ondrive Comercial Ltda. - ME, os quais nem sequer foram admitidos por serem considerados incabíveis (e-STJ, fls. 8.050-8.076) além de outros embargos de declaração às fls. 8.141-8.154 e 8.196-8.203 (e-STJ) pela mesma parte, e somente após foi interposto recurso especial em 14/6/2017 (e-STJ, fl. 8.207).
+Desse modo, aplicado o entendimento jurisprudencial acima declinado, constata-se que o recurso especial interposto contra o acórdão do agravo de instrumento é notoriamente intempestivo, por superar o prazo de 15 (quinze) dias previsto pelo art. 508 do CPC/1973, dispositivo legal vigente à época da publicação da decisão recorrida, marco inicial para a prática do ato processual consistente na interposição do recurso adequado.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de Ondrive Comercial Ltda. - ME.
+Publique-se.
