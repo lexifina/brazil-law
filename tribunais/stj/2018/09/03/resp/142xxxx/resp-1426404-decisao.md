@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE ENFERMAGEM DO RIO GRANDE DO SUL, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 147):
+CONSELHO REGIONAL DE ENFERMAGEM. ANUIDADES. EXERCÍCIO DA ATIVIDADE X INSCRIÇÃO NO CONSELHO. PREQUESTIONAMENTO.
+É legítima a cobrança de anuidades pelos Conselhos Profissionais se houver o efetivo exercício da atividade fiscalizada, o qual consiste no fato gerador que justifica a cobrança do tributo. A inscrição no respectivo Conselho gera presunção do exercício profissional, mas tal presunção pode ser elidida.
+In casu , inda que a inscrição tivesse sido concretizada, não poderiam ser exigidas anuidades ante a ausência de fato gerador, visto que restou comprovado que a autora nunca exerceu a profissão.
+Prequestionamento quanto à legislação invocada estabelecido pelas razões de decidir.
+No especial obstaculizado, a recorrente apontou violação do art. 5º da Lei n. 12.514/2011, sustentando que o profissional que estiver efetivamente inscrito no órgão de classe deve pagar as anuidades, independentemente do efetivo exercício (e-STJ fls. 108/120).
+Contrarrazões foram apresentadas (e-STJ fls. 131/133).
+Decisão de admissibilidade consta à e-STJ fl. 179.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+A questão posta nos autos é a definição do fato gerador da obrigação tributária consistente no pagamento de anuidades aos conselhos profissionais.
+A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que, anteriormente à vigência da Lei n. 12.514/2011, o fato gerador da obrigação tributária era o exercício da atividade profissional e não apenas o registro no Conselho Profissional.
+De certo que o art. 5º da Lei 12.514/2011 passou a definir o fato gerador das anuidades como sendo a "existência de inscrição no conselho, ainda que por tempo limitado, ao longo do exercício". Contudo, essa norma não pode retroagir para atingir fatos geradores pretéritos, que somente se perfectibilizavam com o efetivo exercício da profissão, conforme jurisprudência a seguir transcrita:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. COBRANÇA DE ANUIDADES. FATO GERADOR POSTERIOR À LEI 12.514/2011. INSCRIÇÃO NO REGISTRO INDEPENDENTE DO EXERCÍCIO PROFISSIONAL. AGRAVO INTERNO DA COTECE S.A. A QUE SE NEGA PROVIMENTO. 1. Esta Corte entende que, antes da vigência da Lei 12.514/2011, o fato gerador da obrigação tributária era o exercício profissional e não o simples registro no Conselho profissional. A contrário sensu, obviamente, posteriormente à inovação legislativa, o que se leva em conta é o registro profissional. Precedente: AgInt no REsp. 1.615.612/SC, Rel. Min. OG FERNANDES, DJe 15.3.2017. 2. In casu, o registro da empresa no Conselho Regional de Medicina do Estado do Ceará - CREMEC ocorreu em 25.11.2011, em data posterior, portanto, à referida lei que passou a ter como fato gerador a simples inscrição. 3. Agravo Interno da COTECE S.A. a que se nega provimento (AgInt no REsp 1.510.845 / CE AGRAVO INTERNO NO RECURSO ESPECIAL 2015/0023022-3 Relator(a) Ministro NAPOLEÃO NUNES MAIA FILHO (1133) Órgão Julgador T1 - PRIMEIRA TURMA Data do Julgamento 27/02/2018 Data da Publicação/Fonte DJe 14/03/2018).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. FUNDAMENTO GENÉRICO. SÚMULA 284/STF. ART. 174, IV, DO CTN. ARTS. 3º E 14 DA LEI N. 1.411/51. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CONSELHO REGIONAL DE ENFERMAGEM. ANUIDADES. PERÍODO ANTERIOR À VIGÊNCIA DA LEI N. 12.514/2011. FATO GERADOR. EXERCÍCIO PROFISSIONAL.
+ ..
+3. A jurisprudência desta Corte tem entendimento firmado de que, nos termos do art. 5º da Lei n. 12.514/2011, o fato gerador para cobrança de anuidades de conselho de fiscalização profissional é o registro, sendo irrelevante o exercício da profissão.
+4. Em período anterior à vigência da Lei n. 12.514/2011, o fato gerador da obrigação tributária era o exercício profissional e não a filiação ao conselho profissional.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.615.612/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/03/2017, DJe 15/03/2017)
+Na hipótese dos autos, trata-se de anuidades anteriores à vigência da Lei n. 12.514/2011, e foi consignado pelo Tribunal a quo que "ficou comprovado que a autora nunca exerceu a profissão de enfermeira", não podendo ser exigidas as anuidades em questão.
+Incide, portanto, à espécie, o óbice previsto na Súmula 83/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial nos termos do art. 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
