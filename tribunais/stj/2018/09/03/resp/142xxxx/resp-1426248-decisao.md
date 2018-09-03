@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" da CF, interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 238):
+AÇÃO DE COBRANÇA. PLANO DE SAÚDE, incontroverso o fato de que as partes celebraram contrato de seguro saúde, tendo como beneficiários os funcionários das rés. O contrato foi rescindido, mediante notificação prévia, cm 31 de julho de 2.007. As despesas decorrentes da utilização prevista no contrato, efetuadas pelos empregados ou dependentes, após o cancelamento do contrato serão de responsabilidade do estipulante (cláusula 20.4 - f. 36). A utilização se deu após o cancelamento do contrato. Direito de recebimento integral do prêmio referente aos meses de utilização após o encerramento da avença. Sentença que julgou procedente a ação, devidamente fundamentada. Apelantes não inovaram o que já havia sido exposto nos autos e rebatido na sentença. Motivação da sentença adotada como fundamentação do julgamento em segundo grau. Adoção do art. 252 do R1TJ.
+Sentença mantida. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 257/262).
+Nas razões apresentadas (e-STJ fls. 265/273), os recorrentes alegam nulidade das cláusulas contratuais, em suposta violação do art. 51, caput e §1º e incisos I e IV do Código de Defesa do Consumidor. Afirmam que não pode ser considerada válida a cláusula que imponha às recorrentes a obrigação de fiscalização do uso indevido do plano de saúde após a rescisão contratual. Sustentam que, apesar dos gastos impostos por usuário do seguro rescindido terem sido em valor inferior a 4.000,00 (quatro mil reais), a cobrança é no total de R$ 6.077,90 (seis mil e setenta e sete reais e noventa centavos).
+Foram apresentadas contrarrazões (e-STJ fls. 281/291).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Com relação à responsabilidade pelo pagamento relativo à utilização indevida do plano de saúde após a rescisão contratual, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 242/243):
+Todavia, ainda que sob o âmbito da lei consumerista, a previsão da cláusula 20.4 (f. 36) do contrato não pode ser reputada abusiva, tendo em vista que somente especifica que as despesas realizadas após o desligamento do funcionário ou após o cancelamento do contrato são de responsabilidade das apelantes. Não se pode admitir que, somente porque houve o encerramento do contrato, um serviço efetivamente prestado não seja devidamente pago, de modo que inexiste abusividade na previsão de contraprestação por um serviço realizado.
+Note-se que a sentença atacada não carreou às apelantes a responsabilidade pela recolha das carteirinhas de seus funcionários, mas somente utilizou essa hipótese a título de exemplo, ao reconhecer que lhes caberia adotar determinadas cautelas para evitar a utilização do convênio após o cancelamento do contrato.
+Aliás, nem se diga da dificuldade de impedir a utilização do plano de saúde ou mesmo de se recolher as carteirinhas, porquanto as únicas utilizações, após o cancelamento do contrato, partiram de um dos sócios das apelantes, [NOME], e seus dependentes (f. 57/61).
+Não é crível que os sócios das apelantes desconhecessem o cancelamento do contrato, tampouco que não tivessem condições de informar e obstar a utilização do plano de saúde por parte de seus familiares.
+Por fim, no tocante aos valores cobrados, mantém-se inalterada a decisão atacada, tendo em vista que era de pleno conhecimento das apelantes os valores praticados pela apelada, cujos pagamentos seriam devidos, por força do contrato entabulado, em caso de utilização, ainda que após o cancelamento do contrato, não havendo que se falar somente em pagamento equivalente ao montante utilizado, por ausência de previsão legal ou mesmo contratual nesse sentido.
+Dissentir das conclusões do acórdão impugnado implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Ademais, quanto ao valor cobrado pelo uso indevido do plano de saúde, os recorrentes não indicaram qual dispositivo de lei federal teria sido violado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. [NOME]. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 408.204/SC, 2ª Turma, Rel. Ministro Og Fernandes, DJe 29/11/2013)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. [NOME]. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+(..)
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 408.204/SC, 2ª Turma, Rel. Ministro Og Fernandes, DJe 29/11/2013)
+Ante o exposto, NEGO PROVIMENTO do recurso especial.
+Publique-se e intimem-se.
