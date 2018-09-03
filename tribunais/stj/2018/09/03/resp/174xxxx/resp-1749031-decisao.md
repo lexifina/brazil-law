@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais sob o pálio da seguinte ementa:
+APELAÇÃO CIVEL. AÇÃO CIVIL PÚBLICA. AGRAVOS RETIDOS. NÃO CONHECIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRELIMINARES. ILEGITIMIDADE PASSIVA DO MUNICÍPIO. INAPLICABILIDADE DA LEI 8.429/92 AOS AGENTES PÚBLICOS. INADEQUAÇÃO VIA ELEITA. INOBSERVÂNCIA REQUISITOS LEGAIS. ACOLHIMENTO PARCIAL. IMPROBIDADE ADMINISTRATIVA. COMPROVAÇÃO. PENAS APLICADAS. SENTENÇA MANTIDA.
+Não se conhecerá do agravo retido se a parte interessada não requerer expressamente, nas razões ou na resposta da apelação, sua apreciação pelo Tribunal.
+Se os documentos juntados pelo recorrente não guardam qualquer relação com os fatos narrados na inicial, deve-se manter a decisão que determinou seu desentranhamento.
+O Município não possui legitimidade para figurar no polo passivo da lide, haja vista ser o beneficiário direto dessa ação de improbidade, com pedido de restituição de valores ao erário e também por não ser o sujeito ativo dos atos de improbidade.
+A lei de improbidade é aplicável aos agentes políticos, porquanto, conforme jurisprudência pacífica, o conceito de agente público abrange os agentes politicos.
+Não há óbice para aplicação concomitante da Lei ri. 1.079/50 e da Lei n. 8.429/92, visto que a primeira está relacionada à punição na esfera criminal, enquanto a segunda refere-se às penalidades de seara cível.
+A ação civil pública pode ser utilizada para pleitear a restituição de valores ao erário, a teor do disposto no art. 37, § 4º, da CF/88 e conforme reiterada jurisprudência de nossos tribunais.
+A instauração de inquérito civil prévio à interposição da Ação Civil Pública só é necessária quando não há elementos de convicção suficientes para instruir a inicial.
+A improbidade administrativa é caracterizada pela presença de três elementos: sujeito ativo, sujeito passivo e ocorrência de um dos atos tipificados na Lei nº 8.429/92, ou seja, atos que importam enriquecimento ilícito, que causam prejuízo ao erário ou atentam contra os princípios da Demonstrado que as despesas com hospedagem e alimentação não foram devidamente comprovadas, deve o ente politico ser responsabilizado.
+A penalidade imposta deve permitir a punição do ímprobo, além de revestir-se de caráter pedagógico, devendo ser mantida quando aplicada adequadamente.
+Recurso conhecido e não provido.
+Os Embargos de Declaração foram rejeitados às fls. 3.053-3.061.
+A parte recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 489, II e III e 1.022 do CPC/2015 e dos arts. 9, 10, 11 e 12 da Lei 8.429/1992, sob o argumento, em suma, de que a Lei de Improbidade não se aplica aos agentes políticos municipais.
+Contrarrazões apresentadas às fls. 3.118-3.125.
+Decisão pela inadmissibilidade do Recurso Especial às fls. 3.137-3.141.
+Agravo em Recurso Especial às fls. 3.145-3.149.
+Contraminuta às fls. 3.156-3.157.
+Despacho de conversão do Agravo em Recurso Especial, "sem prejuízo de exame posterior mais profundo da admissibilidade", à fl. 3.169.
+Parecer do Ministério Público às fls. 3.184-3.204.
+É o relatório.
+Decide-se
+Os autos foram recebidos neste Gabinete em 15.7.2018.
+Cuida-se de inconformismo contra acórdão do Tribunal de origem que reconheceu que a Lei de Improbidade Administrativa aplica-se aos agentes políticos municipais.
+A irresignação não merece prosperar.
+O STJ já decidiu pela "desnecessidade de suspensão do feito por ter sido reconhecida a repercussão geral, nos autos do ARE 683235/PA (reautuado como RE 976566), do tema relativo à possibilidade de processamento e julgamento de prefeitos, por atos de improbidade administrativa, com fundamento na Lei 8.429/1992 (Tema 576)" mormente porque, "até a presente data, o relator do referido Recurso Extraordinário não proferiu decisão determinando a suspensão de todos os processos que tratam do mesmo assunto, nos termos do art. 1.035, § 5º, do CPC/2015" (EDcl no REsp 1.512.085/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 3/3/2017).
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. APLICAÇÃO DA LEI 8.429/1992 AOS AGENTES POLÍTICOS. EXISTÊNCIA DE REPERCUSSÃO GERAL A RESPEITO DA MATÉRIA (TEMA 576). SOBRESTAMENTO DO FEITO. DESNECESSIDADE. DOLO E DANO AO ERÁRIO COMPROVADOS NO TRIBUNAL DE ORIGEM. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. REVISÃO DE DOSIMETRIA DAS SANÇÕES. INVIABILIDADE, NO CASO. SÚMULA 7/STJ.
+1. É inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal de origem (Súmula 211/STJ).
+2. Esta Corte já decidiu pela "desnecessidade de suspensão do feito por ter sido reconhecida a repercussão geral, nos autos do ARE 683235/PA (reautuado como RE 976566), do tema relativo à possibilidade de processamento e julgamento de prefeitos, por atos de improbidade administrativa, com fundamento na Lei 8.429/1992 (Tema 576)" mormente porque, "até a presente data, o relator do referido Recurso Extraordinário não proferiu decisão determinando a suspensão de todos os processos que tratam do mesmo assunto, nos termos do art. 1.035, § 5º, do CPC/2015" (EDcl no REsp 1.512.085/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 3/3/2017)
+3. A firme jurisprudência do Superior Tribunal de Justiça é no sentido de que a Lei de Improbidade é aplicável aos agentes políticos não submetidos à Lei de Responsabilidade.
+4. Evidenciado o elemento subjetivo na origem, a alteração das conclusões consubstanciada em elementos probatórios é vedada nos termos da súmula 7/STJ.
+5. Não demonstrado o excesso ou desproporcionalidade, a revisão da dosimetria das sanções aplicadas implica reexame de fatos e provas, inviável em sede de recurso especial. Incidência da Súmula 7/STJ.
+6. Agravo regimental improvido."
+(AgRg no AREsp 151.048/MG - Rel. Min. SÉRGIO KUKINA - DJe 5/12/2017).
+A condenação proferida na Ação de Improbidade Administrativa, na qual fora reconhecida a ilegalidade da conduta praticada pelo recorrente, então prefeito municipal, que utilizava recursos públicos para custear diversas viagens e respectivas hospedagens, sem qualquer vínculo comprovado com as suas funções de chefe do executivo municipal, sem justificativa ou agenda oficial, acarretando prejuízo para o Erário municipal, está respaldada nos elementos probatórios que emergiram na fase instrutória, sendo inviável sua reapreciação no bojo de Recurso Especial, diante do aludido óbice sumular. Relevante registrar que a Corte de origem afirma devidamente caracterizados os atos ímprobos, consoante o seguinte trecho do acórdão hostilizado, litteris:
+.. Da análise da farta documentação acostada aos autos infere-se que embora haja recibo de adiantamento de viagem com a discriminação dos gastos, não restou comprovado pelo recorrente as despesas realizadas com alimentação e hospedagem (fls. 48-505). Cumpre observar que os documentos juntados com a manifestação prévia, às fls. 1097/1794, comprovam a realização das viagens, mas não os valores despendidos com alimentação e hospedagem.
+Não passa despercebido que o documento de adiantamento era o mesmo utilizado como recibo para comprovante de despesas da viagem, não servindo, contudo, como prova das despesas efetuadas visto que eram preenchidos e assinados pelo próprio agente político, constituindo prova unilateral inválida para comprovar os gastos. A título de exemplo cita-se os documentos de fls. 457, 461,505,512, dentre outros.
+Assim, uma vez que não restou comprovado pelo recorrente a efetiva realização das despesas, com a prestação de contas devidas, correta está a decisão que determinou a restituição dos valores.
+ Por conseguinte, o pleito das razões recursais, no sentido de desconsiderar as condutas afirmadas como ímprobas, exige a análise de todo o conjunto fático-probatório dos autos, exercício vedado no bojo desses instrumentos recursais.
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido, necessariamente, passa pela revisitação ao acervo probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça, que assim estabelece: "a pretensão de simples reexame de prova não enseja recurso especial".
+Os fatos são aqui recebidos tais como estabelecidos pelo Tribunal a quo, senhor na análise probatória. E, se a violação do dispositivo legal invocado demanda fixação de premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+Citam-se precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ATO DE IMPROBIDADE ADMINISTRATIVA RECONHECIDO PELAS INSTÂNCIAS DE ORIGEM. ACÓRDÃO DO TRIBUNAL A QUO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA CARACTERIZAÇÃO DO ATO DE IMPROBIDADE ADMINISTRATIVA E PELA EXISTÊNCIA DO ELEMENTO SUBJETIVO. REVISÃO. SÚMULA 7/STJ. SANÇÕES IMPOSTAS. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. REVISÃO. REEXAME DE MATÉRIA FÁTICO- PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Segundo consignado no acórdão recorrido, à luz das provas dos autos, "a conduta dos réus está objetivamente caracterizada no art. 10 da Lei 8429/94 como ato de improbidade que causa prejuízo ao Erário". Assim, a alteração do entendimento do Tribunal de origem ensejaria, inevitavelmente, o reexame fático-probatório dos autos, procedimento vedado, pela Súmula 7 desta Corte.
+II. O Tribunal de origem, à luz das provas dos autos, considerou serem razoáveis e proporcionais as sanções impostas à recorrente, em razão da prática de ato de improbidade administrativa. Dessa forma, não há como alterar tal entendimento, diante do óbice da Súmula 7 desta Corte.
+III. Agravo Regimental improvido.
+(AgRg nos EDcl no AREsp 512.155/RJ, Segunda Turma, rel. Min. Assusete Magalhães, DJ 2/12/2015).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ATO DE IMPROBIDADE ADMINISTRATIVA RECONHECIDO PELAS INSTÂNCIAS DE ORIGEM. ACÓRDÃO DO TRIBUNAL A QUO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA CARACTERIZAÇÃO DO ATO DE IMPROBIDADE ADMINISTRATIVA E PELA EXISTÊNCIA DO ELEMENTO SUBJETIVO. REVISÃO. SÚMULA 7/STJ. SANÇÕES IMPOSTAS. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. REVISÃO. REEXAME DE MATÉRIA FÁTICO- PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Segundo consignado no acórdão recorrido, à luz das provas dos autos, "a conduta dos réus está objetivamente caracterizada no art.
+10 da Lei 8429/94 como ato de improbidade que causa prejuízo ao Erário". Assim, a alteração do entendimento do Tribunal de origem ensejaria, inevitavelmente, o reexame fático-probatório dos autos, procedimento vedado, pela Súmula 7 desta Corte.
+II. O Tribunal de origem, à luz das provas dos autos, considerou serem razoáveis e proporcionais as sanções impostas à recorrente, em razão da prática de ato de improbidade administrativa. Dessa forma, não há como alterar tal entendimento, diante do óbice da Súmula 7 desta Corte.
+III. Agravo Regimental improvido.
+AgRg nos EDcl no AREsp 512.155/RJ, Segunda Turma, Rel. Min. Assusete Magalhães, DJe 2/12/2015.
+Ademais, a jurisprudência do STJ é uníssona no sentido de que a revisão da dosimetria das sanções aplicadas em ações de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, o que esbarra na Súmula 7/STJ, salvo em casos excepcionais, nos quais da leitura do acórdão exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não é o caso dos autos. Precedentes: AgRg no REsp 1.513.451/CE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 26/6/2015; AgRg no AREsp 194.312/RN, Rel. Min. Marga Tessler (Juíza Federal Convocada do TRF 4ª Região), Primeira Turma, DJe 17/3/2015; AgRg no AREsp 597359/MG, Rel. Min. Humberto Martins, Segunda Turma, DJe 22/4/2015; AgRg no REsp 1452792/SC, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 10/6/2015.
+A propósito:
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. CONDUTA OMISSIVA QUANTO AO CUMPRIMENTO DE ACORDO, NA DEFESA DO MEIO-AMBIENTE. CARACTERIZAÇÃO DE ATO ÍMPROBO. ART. 10 DA LEI 8.429/1992. DOSIMETRIA. REVISÃO. SÚMULA 7/STJ.
+ ..  7. No caso dos autos, a revisão da dosimetria das sanções aplicadas implica reexame do conjunto fático-probatório dos autos, o que esbarra na Súmula 7/STJ, salvo em casos excepcionais, nas quais, da leitura do acórdão, exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não é o caso vertente.
+Recurso especial não conhecido.
+(REsp 1388405/ES, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 24/11/2015, DJe 12/02/2016)
+Nesse diapasão, ratifica-se o Parecer do Ministério Público:
+Ressalta-se, ademais, que a jurisprudência dessa Corte de Sobreposição é uníssona no sentido de que a revisão da dosimetria das sanções aplicadas em ações de improbidade administrativa envolve o reexame do conjunto fático-probatório dos autos, também vedado pela Súmula 7/STJ.
+(..)
+Ressalta-se, por fim, que as irregularidades estão devidamente comprovadas e incontroversas, reconhecidas nas instâncias precedentes, soberanas na análise do contexto probatório, não havendo dúvidas quanto às condutas ilícitas dos acusados, ao arrepio do elenco normativo em vigor.
+Pelo exposto, não se conhece do Recurso Especial.
+Publique-se.
+Intimem-se.
