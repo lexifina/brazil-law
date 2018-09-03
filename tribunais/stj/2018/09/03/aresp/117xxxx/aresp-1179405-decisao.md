@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do apelo nobre se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso extremo não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+O Tribunal de origem, para negar o pleito de concessão de benefício previdenciário de auxílio-doença, consignou que, in verbis (e-STJ fl. 368):
+segundo estabelece o Código de Processo Civil de 2015, o juiz apreciará a prova pericial, indicando na sentença os motivos que o levaram a considerar ou deixar de considerar as conclusões do laudo, levando em conta o método utilizado pelo perito (art. 479).
+Dessa forma, verifica-se que a sentença se encontra devidamente fundamentada em outros elementos, que demonstram a fragilidade das conclusões periciais, pois esta pautou suas conclusões na assunção das afirmações da parte interessada como verdadeiras, sem a verificação de elementos de confirmação.
+Ademais, a alegação de incapacidade em virtude de patologia não alegada por ocasião da perícia realizada administrativamente e cessação do benefício em 2014 não configura causa para o restabelecimento do benefício, cabendo à parte, se pretende a concessão da prestação previdenciária com base em fatos não apresentados ao demandado, formular pedido administrativo de concessão original de benefício, e não restabelecimento.
+Não há, portanto, como acolher a tese recursal sem que se proceda ao reexame do conjunto fático-probatório. Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ANÁLISE QUANTO À COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS PARA FINS DE CONCESSÃO DE BENEFÍCIO POR INCAPACIDADE (AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ). REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Para refutar as conclusões adotadas pelo Tribunal de origem, acolhendo a tese de que que ficou devidamente comprovado o preenchimento dos requisitos necessários para a concessão de benefício previdenciário, mormente no que se refere à capacidade laborativa, seria imprescindível o reexame do conjunto probatório dos autos, o que é vedado na estreita via do recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 605.570/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 02/02/2017).
+DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. ART. 42, § 2º, DA LEI Nº 8.213/99. ANÁLISE DE DOENÇA PREEXISTENTE À FILIAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL. REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA 7/STJ.
+1. Discute-se nos autos a condição do recorrente como segurado, para fins de reconhecimento do direito à aposentadoria por invalidez.
+2. O Tribunal a quo entendeu não preenchidos os requisitos necessários à concessão da aposentadoria por invalidez, a saber: 1) a qualidade de segurada, 2) a invalidez preexistente ao requerimento; 3) a carência mínima. Entender de modo diverso exige o reexame de matéria fático-probatória, o que é vedado pela Súmula 7 do STJ.
+Agravo regimental improvido. (AgRg no AREsp 1.474.131/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 13/10/2014).
+Por fim, quanto ao recurso especial interposto com base na alínea "c" do permissivo constitucional, a análise do dissídio jurisprudencial está prejudicada em razão da aplicação da Súmula 7 do STJ.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
