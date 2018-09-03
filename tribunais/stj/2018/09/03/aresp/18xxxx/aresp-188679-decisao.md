@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] FAZIO e OUTROS contra decisão que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão do Tribunal de Justiça de São Paulo, assim ementado (e-STJ fl. 200):
+SERVIDORES PÚBLICOS ESTADUAIS - Adicional por tempo de serviço (quinquênio) - Incidência sobre os vencimentos integrais e não apenas sobre o salário-base - Admissibilidade, no regime anterior á Emenda Constitucional nº 19/98, excluidas as vantagens eventuais - Para os demais, conquistados após a aludida Emenda, correta a incidência só sobre o salário-base - Processo extinto, sem exame do mérito, com fulcro no art. 267, inc. VI, do CPC, em relação aos coautores [NOME] e [NOME] - Recurso de Josefa Gonçalina Lopes Lins, [NOME], [NOME], [NOME], [NOME], [NOME] e [NOME] parcialmente provido, prejudicado o apelo interposto pelos demais coautores pela ocorrência da prescrição.
+No especial obstaculizado, os ora agravantes, além de divergência jurisprudencial, apontaram violação dos seguintes dispositivos legais: 3º do Decreto n. 20.910/1932. Aduziram que, em se tratando de relação jurídica de trato sucessivo, a prescrição não atinge o fundo de direito, mas apenas as parcelas vencidas no quinquenio anterior à data de propositura da ação.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou o presente agravo.
+Contraminuta foi apresentada às e-STJ fls. 295/297.
+Os agravantes se manifestaram reiterando o mérito recursal e requerendo prioridade no julgamento do recurso (e-STJ fls. 305/317, 323/332, 338/346 e 351/353).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Estabelecida essa premissa, constato que a demanda proposta na origem objetivava que servidores públicos estaduais aposentados recebessem seus adicionais de quinquênios calculados sobre os proventos integrais.
+O Tribunal de origem extinguiu o feito em desfavor dos ora agravantes pelo reconhecimento da prescrição do fundo de direito, por reputar como marco inicial do cômputo prescricional a data de aposentação (e-STJ fls. 210/219):
+(..) os proventos definem-se a partir da aposentadoria e por meio de transformação dos vencimentos, de tal modo que o marco para a prescrição quinquenal (Decreto nº 20.910, de 6-1-1932, art. 1º) é o da inatividade (salvo se algum benefício, atraido por cláusula de paridade, seja posterior à aposentação).
+A pretensão de servidor inativo e dpostular a revisão do benefício de aposentadoria não se confunde com aquela voltada à revisão dos proventos.
+Na primeira hipótese, a prescrição atinge o próprio fundo de direito, não se cogitando de relação de trato sucessivo, e tem como termo inicial a data em que o servidor passou à inatividade, nos termos do art. 1º do Decreto 20.910/1932 (REsp 1.205.694/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/08/2014, DJe 14/08/2014).
+Já no segundo caso, a prescrição atinge somente as prestações vencidas antes do quinquênio anterior à propositura da ação, havendo a incidência da Súmula 85 do STJ (REsp 1.261.981/MG, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 08/11/2011, DJe 17/11/2011).
+Como a hipótese dos autos se enquadra no segundo caso acima explicitado, não há falar em prescrição do próprio fundo de direito.
+A esse respeito, conferir, ainda:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS APOSENTADOS. AÇÃO DECLARATÓRIA DO DIREITO AO RECEBIMENTO DO ADICIONAL POR TEMPO DE SERVIÇO CALCULADO SOBRE OS VENCIMENTOS INTEGRAIS. NÃO OCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. AGRAVO DESPROVIDO.
+1. Nos casos em que a pretensão envolve o pagamento de vantagem pecuniária, por se tratar de prestações de trato sucessivo que se renovam mensalmente, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ.
+2. Agravo Regimental da FAZENDA DO ESTADO DE SÃO PAULO desprovido.
+(AgRg no REsp 1.344.707/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/06/2014, DJe 04/08/2014).
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. REVISÃO DO ADICIONAL POR TEMPO DE SERVIÇO. PRESTAÇÕES DE TRATO SUCESSIVO. PRESCRIÇÃO. SÚMULA 85/STJ.
+1. A decisão agravada foi baseada na jurisprudência assente desta Corte no sentido de que nas hipóteses em que se requer o pagamento de parcelas que se renovam mensalmente, a prescrição do direito de ação atinge tão-somente as prestações vencidas há mais de 5 anos da propositura da demanda.
+2. Na espécie, trata-se de pedido de revisão dos adicionais por tempo de serviço (qüinqüênios) dos proventos dos autores. Assim, em se tratando de prestação de trato sucessivo, incide o disposto na Súmula 85/STJ.
+3. Agravo regimental não provido.
+(AgRg no AgRg no Ag 1.358.520/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/04/2011, DJe 13/04/2011).
+Ante o exposto, com base art. 253, II, "c", do RISTJ, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, para afastar a prescrição do próprio fundo de direito e determinar que o Tribunal de origem prossiga no julgamento da apelação dos recorrentes, como entender de direito.
+Publique-se. Intimem-se.
