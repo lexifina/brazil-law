@@ -1,0 +1,15 @@
+DECISÃO
+DAISE ROSE PINTO CASTRO alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal Regional Federal da 4ª Região nos Embargos Infringentes e de Nulidade n. 5002105-58.2011.4.04.7103/RS.
+Consta dos autos que a paciente foi condenada pela prática do crime de associação para o tráfico, substituída a pena privativa de liberdade por duas restritivas de direitos.
+O impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que foi determinado o imediato cumprimento da pena, sem que, contudo, tenha transitado em julgado a condenação, e esclarece que foram interpostos Embargos de Declaração, pendentes de julgamento.
+Requer a concessão da ordem, in limine, a fim de que seja expedido salvo conduto, "tendo em vista o evidente direito da paciente em esgotar os recursos legais postos a sua disposição, sem dar início à execução penal" (fl. 15).
+Decido.
+De plano, verifico que a inicial do writ não veio acompanhada dos documentos necessários que comprovem o alegado constrangimento ilegal, não tendo sido trazida à colação a cópia integral do acórdão impugnado, havendo na impetração, tão somente, a cópia da ementa da referida decisão, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima.
+Além disso, embora o impetrante sustente a impossibilidade de se dar imediato início ao cumprimento da reprimenda imposta à paciente, certo é que a defesa não demonstrou o não esgotamento das instâncias ordinárias.
+A esse respeito, urge consignar que, consoante o entendimento firmado pelo Pretório Excelso, "a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal" (ARE n. 964.246/SP, Rel. Ministro Teori Zavascki, Tribunal Pleno, DJe 25/11/2016, destaquei).
+A ausência de documentos que demonstrem o não esgotamento das instâncias ordinárias prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Nada impede, porém, à vista dos princípios da economia e da celeridade processuais, que, caso a parte traga as aludidas peças faltantes, o pedido seja considerado e analisado.
+Publique-se e intimem-se.
