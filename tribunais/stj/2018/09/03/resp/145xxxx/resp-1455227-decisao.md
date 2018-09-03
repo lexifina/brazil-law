@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE FISIOTERAPIA E TERAPIA OCUPACIONAL DA OITAVA REGIÃO - CREFITO 8, com arrimo na alínea "a" do permissivo constitucional, aviado em face do acórdão do TRF-4ª, assim ementado (e-STJ fl. 179):
+ADMINISTRATIVO. CONSELHO REGIONAL DE FISIOTERAPIA E TERAPIA OCUPACIONAL - CREFITO. JORNADA DE TRABALHO. LEI 8.856/94. ILEGITIMIDADE ATIVA PARA QUESTÃO AFETA A VENCIMENTOS. CONTROLE DE LEGALIDADE.
+1. Compete ao Conselho autor fiscalizar e zelar pelo regular exercício das profissões de fisioterapeuta e de terapeuta ocupacional.
+2 . Os conselhos profissionais não detêm competência para a defesa de direitos e interesses de classe ou categoria, atribuição conferida aos sindicatos pela Constituição Federal. Reconhecida a ilegitimidade ativa para pleitear questão afeta a vencimentos dos servidores públicos.
+3. A Lei 8.856/94 - diploma normativo federal de âmbito nacional - fixa a jornada de trabalho dos fisioterapeutas e terapeutas ocupacionais e deve ser aplicada a todos os profissionais da área, ainda que ocupantes de cargo no serviço público municipal. Precedentes deste Tribunal.
+Embargos de declaração foram rejeitados (e-STJ fl. 199).
+No seu apelo nobre, o CREFITO 8 alega violação do arts. 21 e 535 do CPC/1973 e do art. 7º, III, da Lei n. 6.316/1975. Sustenta, em resumo, a sua legitimidade ativa ad causam para agir como substituto processual, inclusive para se pleitar eventuais reflexos sobre verbas de natureza salarial. No mais, pugna pela integral revisão dos ônus sucumbenciais.
+Sem contrarrazões.
+Decisão de admissibilidade (e-STJ fl. 261).
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Considerado isso, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535 do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, Primeira tTurma, DJe 04/03/2016, e AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 18/11/2015.
+No caso, o julgado recorrido decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado.
+Quanto ao aspecto alusivo à ilegitimidade do Conselho Regional, assim entendeu o TRF da 4ª Região:
+Inicialmente, destaco que cabe ao CREFITO fiscalizar e zelar pelo regular exercício das profissões de fisioterapeuta e de terapeuta ocupacional. Contudo, não são os Conselhos Profissionais entidades de defesa de direitos e interesses de classe ou categoria, atribuição conferida aos sindicatos pela CF (art. 8º, III), portanto, não possuem legitimidade ativa para postular questão afeta a vencimentos dos servidores públicos municipais vinculados ao Município réu.
+(..) (e-STJ fl. 176).
+Bem se vê que o Tribunal a quo decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Por fim, o Superior Tribunal de Justiça entende que "a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável, porquanto demanda a incursão no acervo fático-probatório da causa, medida vedada na via Especial" (AgInt no AREsp 759.751/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 13/03/2018, DJe 04/04/2018).
+A propósito do tema:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. PEDIDO CERTO. SENTENÇA ILÍQUIDA. POSSIBILIDADE. DISCUSSÃO SOBRE A OCORRÊNCIA DE SUCUMBÊNCIA RECÍPROCA OU MÍNIMA, NA VIA ESPECIAL, PARA FINS DE REVISÃO DE DISTRIBUIÇÃO DE VERBA HONORÁRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+V. A jurisprudência do STJ orientou-se no sentido de que, em sede de Recurso Especial, é vedada a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos, na demanda, bem como da proporção em que cada parte foi sucumbente, em relação ao pedido inicial, por tal ensejar o revolvimento de matéria eminentemente fática, a atrair o óbice do enunciado sumular 7/STJ. Em tal sentido: STJ, REsp 1.555.844/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 28/09/2017; AgInt no AREsp 862.673/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 06/09/2016.
+VI. Agravo interno parcialmente conhecido, e, nessa parte, improvido. (AgInt no AREsp 894.618/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/06/2018, DJe 25/06/2018).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
