@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DE SANTA CATARINA, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da Federação, assim ementado (e-STJ fl. 134):
+ADMINISTRATIVO - SERVIDORA DA ASSEMBLEIA LEGISLATIVA - CONCESSÃO DE APOSENTADORIA POR INVALIDEZ EM 1982 - POSSIBILIDADE DE REVERSÃO À ATIVIDADE APÓS TRINTA ANOS - IMPRESCINDIBILIDADE DO DEVIDO PROCESSO LEGAL, CONTRADITÓRIO E AMPLA DEFESA NA ALESC - CONCESSÃO PARCIAL DA ORDEM,
+"A Administração Pública pode e deve rever seus atos quando praticados com ofensa a dispositivos constitucionais ou infraconstitucionais. Todavia, a Carta Magna determina que, em todo e qualquer processo que possa causar prejuízo ao direito de outrem, deve ser observado o devido processo legal, assegurando-se àquele que poderá ser atingido pela decisão, o direito de exercer o contraditório e a ampla defesa" (Agravo em Mandado de Segurança n. 2011.077358-5, Des. Jaime Ramos).
+Foram rejeitados os aclaratórios (e-STJ fls. 191/198).
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação do art. 54 da Lei n. 9.784/1999 e do art. 6º, § 5º, da Lei n. 12.016/2009, sustentando que há possibilidade de revisão de aposentadoria por invalidez de servidor em virtude de superveniente reabilitação, que é inaplicável o prazo decadencial nas hipóteses de fraude, bem como que não foi comprovada a boa-fé que sustentaria o direito líquido e certo invocado pela parte adversa.
+Contrarrazões foram apresentadas às e-STJ fls. 254/278.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 293/294.
+O Ministério Público Federal opina pelo não seguimento do recurso (e-STJ fls. 332/335).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, vê-se que o aresto combatido se apóia em fundamentação eminentemente constitucional (necessidade de observância ao contraditório e à ampla defesa em processo administrativo para revisão de aposentadoria a ser instaurado na Assembleia Legislativa), cuja revisão não é da competência deste Tribuna nos termos do art. 105, III, da Constituição Federal.
+Quanto às demais alegações, o Superior Tribunal de Justiça possui entendimento de que aferir a existência de prova pré-constituída, em sede de mandado de segurança, bem como de direito líquido e certo demanda a análise do conteúdo fático-probatório constante nos autos, o que é inviável nos termos da Súmula 7 do STJ.
+Nesse sentido: AgRg no AREsp 826.971/MT, Relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 22/03/2016; AgRg no AREsp 704.731/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe de 14/09/2015; AgRg no AREsp 621.251/PE, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 21/05/2015; e AgRg no AREsp 264.840/CE, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 10/06/2015.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
