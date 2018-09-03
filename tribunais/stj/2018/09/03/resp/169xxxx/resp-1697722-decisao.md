@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por ETEC EMPREENDIMENTOS TÉCNICOS DE ENGENHARIA E COMÉRCIO LTDA, SERMEC SERVICOS MECANIZADOS E AUTOMOTIVOS LTDA - EPP e GUSTAVO FEU FERREIRA DIAS, fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 466, e-STJ):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. RECURSO. NÃO CABIMENTO. TAXATIVIDADE. INDEFERIMENTO DE PEDIDO DE SUSPENSÃO DA AÇÃO PRINCIPAL. 1. A taxatividade do artigo 1.015 do CPC/2015 impede a sua interpretação extensiva. 2. Diante do novo regime de recorribilidade das decisões interlocutórias, não se revela cabível, em sede de agravo de instrumento, a intenção do recorrente em perseguir a reapreciação de decisão que indeferiu o pedido de suspensão da ação principal de busca e apreensão, uma vez que tal hipótese não se enquadra nos ditames do artigo 1.015 do NCPC. 3. Agravo interno não provido.
+Os embargos de declaração opostos foram rejeitados na origem (fls. 571-574, e-STJ).
+Nas razões do recurso especial (fls. 594-610, e-STJ), as recorrentes apontam violação aos arts. 1.015, I, 6º e 52, III da Lei nº 11.101/15. Sustentam, em síntese, o cabimento do recurso de agravo de instrumento das decisões que versem sobre tutelas provisórias.
+Contrarrazões às fls. 613-617, e-STJ.
+Admitido o processamento do recurso na origem (fls. 630-631, e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+1. Depreende-se da análise dos autos que o apelo nobre (fls.594-610, e-STJ) versa sobre tema afetado à Segunda Seção desta Corte, nos autos dos Recursos Especiais representativos da controvérsia n. 1.696.396/MT e 1.704.520/MT, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/15, a fim de definir sobre a "natureza do rol do art. 1015 do CPC/15 e verificar possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos do referido dispositivo do Novo CPC" (Tema n.º 988/STJ).
+Logo, nos termos do art. 256-L do RISTJ, o recurso especial distribuído nesta Corte Superior que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso. Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre os recursos especiais representativos da controvérsia.
+2. Ante o exposto, determino a devolução dos autos à origem, para que o presente recurso especial permaneça suspenso até o pronunciamento definitivo do STJ sobre o tema 988, nos termos do artigo 1.037, inciso II, do CPC/15 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/15.
+Publique-se.
+Intimem-se.
