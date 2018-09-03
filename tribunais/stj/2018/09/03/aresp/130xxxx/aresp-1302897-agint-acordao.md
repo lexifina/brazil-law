@@ -1,0 +1,51 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRESTAÇÃO PECUNIÁRIA. REDUÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Alterar a conclusão a que chegaram as instâncias ordinárias para reduzir o valor da prestação pecuniária com base nas condições econômicas do réu, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe "a pretensão de simples reexame de prova não enseja recurso especial."
+2. Agravo regimental não provido
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por OSVALDO PATRICK ALVES contra decisão de minha relatoria, na qual o agravo em recurso especial foi conhecido para não conhecer do recurso especial, com fundamento na Súmula 7/STJ.
+O agravante alega, em síntese, que: a) "o recurso especial não objetiva simples reanálise do conjunto fático-probatório, uma vez que não se trata de discutir a autoria e materialidade da prática delitiva" (e-STJ, fl. 350); b) "há uma presunção legal muito forte de que o réu é hipossuficiente e de pouquíssimos recursos econômicos. Presunção esta abstraída pela própria justiça quando nomeou a DPU para atuar no feito a favor do assistido" (e-STJ, fl. 350); e c) "é forçoso admitir a desproporcionalidade da prestação pecuniária substitutiva que foi fixada no quantum de 7 (sete) salários mínimos, uma vez que o assistido declarou exercer a profissão de auxiliar, com rende aproximadamente R$ 1.000 (mil)" (e-STJ, fls. 350-351).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito ao crivo desse órgão colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRESTAÇÃO PECUNIÁRIA. REDUÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Alterar a conclusão a que chegaram as instâncias ordinárias para reduzir o valor da prestação pecuniária com base nas condições econômicas do réu, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe "a pretensão de simples reexame de prova não enseja recurso especial."
+2. Agravo regimental não provido
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+O Tribunal de origem fundamentou a fixação do valor da pena pecuniária nos seguintes termos:
+"Da prestação pecuniária Para definição do valor da prestação pecuniária, dentre os parâmetros estabelecidos pelo artigo 45, parágrafo 1º, do Código Penal, deve-se considerar certos fatores, de modo a não tornar a prestação em pecúnia tão diminuta a ponto de mostrar-se inócua, nem tão excessiva de maneira a inviabilizar seu cumprimento.
+PENAL. CONTRABANDO DE CIGARROS. ART. 334-A, § 1º, I, DO CÓDIGO PENAL C/C ART. 3º DO DECRETO-LEI Nº 399/68. IMPORTAÇÃO IRREGULAR CONFIGURADA. PRESTAÇÃO PECUNIÁRIA. REDUÇÃO. POSSIBILIDADE. Para definição do valor da prestação pecuniária, dentre os parâmetros estabelecidos pelo artigo 45, § 1º, do CP, deve-se considerar certos fatores, de modo a não tornar a prestação em pecúnia tão diminuta a ponto de mostrar-se inócua, nem tão excessiva de maneira a inviabilizar seu cumprimento. No caso, impõe-se a redução do valor arbitrado para que a pena esteja de acordo com situação econômica do réu e a gravidade do delito. (TRF4, APELAÇÃO CRIMINAL Nº 5008026-68.2015.404.7002, 7ª TURMA, Juiz Federal GERSON [NOME], POR UNANIMIDADE, JUNTADO AOS AUTOS EM 29/06/2017) - sem grifos no original
+PENAL. TRÁFICO INTERNACIONAL DE MUNIÇÕES. MATERIALIDADE. AUTORIA. TENTATIVA. CONFIRMAÇÃO. DOSIMETRIA DA PENA. ATENUANTES. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBIIDADE. PRESTAÇÃO PECUNIÁRIA. 1. Confirma-se a sentença condenatória pela prática do crime de tráfico internacional de munições, previsto no artigo 18 da Lei nº 10.826, de 2003, na forma tentada, em relação ao réu preso em flagrante na zona aduaneira primária, antes de transpor a barreira alfandegária. 2. A pena de multa deve guardar simetria com a pena privativa de liberdade concretamente aplicada. Precedentes da 4ª Seção deste Tribunal. 3. O valor da prestação pecuniária deve ser fixado de modo a não torná-la tão diminuta a ponto de mostrar-se inócua, nem tão excessiva inviabilizando seu cumprimento. Deve ser suficiente para a prevenção e reprovação do crime praticado, de acordo com os danos decorrentes do ilícito e com a situação econômica do condenado. (TRF4, APELAÇÃO CRIMINAL Nº 5015732- 39.2014.404.7002, 7ª TURMA, Des. Federal [NOME], POR MAIORIA, JUNTADO AOS AUTOS EM 14/12/2016) - sem grifos no original
+Nessa linha, a prestação deve ser suficiente para a prevenção e reprovação do crime praticado, atentando-se, ainda, para a extensão dos danos decorrentes do ilícito e para a situação econômica dos condenados, a fim de que se possa viabilizar seu cumprimento.
+A propósito do tema, recente julgado deste TRF:
+PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. FALSIDADE IDEOLÓGICA. (..) PRESTAÇÃO PECUNIÁRIA. CRITÉRIOS. (..) 3. A prestação pecuniária deve ser suficiente para a prevenção e reprovação do crime praticado, atentando-se ainda, para a extensão dos danos decorrentes do ilícito e para a situação econômica do condenado, a fim de que se possa viabilizar seu cumprimento, havendo a possibilidade de parcelamento da referida pena, caso comprovada, perante o juízo da execução, a impossibilidade de seu pagamento em parcela única. (..) (grifos) (ACR nº 5001096-82.2016.404.7201, 8ª T., Relator p/ acórdão Desembargador Federal VICTOR [NOME], j. 14-06-2017)
+No caso, o réu foi flagrado transportando cigarros de origem estrangeira, 45.000 (quarenta e cinco mil) maços, com ilusão de impostos federais correspondentes a R$ 75.302,10 (quatro mil, setecentos e quarenta e quatro reais), consoante Demonstrativo de Créditos Tributários Evadidos (e. 01, PORT_INST_IPL1, fl. 06, do IPL).
+Por outro lado, verifica-se que não há maiores informações a respeito da renda do réu, a não ser, por ocasião do interrogatório, a informação de que tem renda mensal de cerca de R$ 1.000,00 (e. 89, TERMOAUD1, dos autos originários), além do fato de o acusado estar sendo atendido pela Defensoria Pública.
+Nessa perspectiva, estabelecer patamar desarrazoado ou, no mínimo exorbitante, desconsiderando a situação econômica do condenado, a ponto de quase inviabilizar seu pagamento não encontra respaldo na jurisprudência desta Corte, tampouco na própria intenção legislativa.
+Destarte, diante das condições econômicas do acusado, há de ser reduzida a
+pena de prestação pecuniária para o patamar de 07 (sete) salários mínimos. Nesse sentido:
+PROCESSO PENAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. ELEMENTOS DO DELITO CARACTERIZADOS. DOLO GENÉRICO. INEXIGIBILIDADE CONDUTA DIVERSA. INADMISSIBILIDADE. DOSIMETRIA. ERRO MATERIAL. READEQUAÇÃO DA MULTA. PRESTAÇÃO PECUNIÁRIA. REAJUSTE EX OFFÍCIO. (..) 6. Tendo em conta a capacidade econômica do réu, reduz-se, ex officio, o valor atribuído a cada dia- multa e a prestação pecuniária, sob pena de inviabilizar-se o cumprimento. (TRF4, ACR n. 5008625-03.2012.4.04.7005/PR, Sétima Turma, onde fui Relatora, julgado em 08/11/2016).
+Veja-se que não se está, com isso, a afastar a discricionariedade do Julgador que, ao valorar a prática criminosa com todas as suas circunstâncias, manifesta juízo de valor sobre os fatos e fixa a sanção a ser cumprida pelo criminoso. Ao contrário, com tal entendimento se pretende, tão somente, assegurar a própria retributividade das penas, as quais devem garantir ao condenado a sanção estritamente necessária, na medida de sua culpabilidade.
+Portanto, a fim de evitar que se adotem critérios mais rigorosos para fatos menos graves, como na hipótese, utiliza-se dos princípios da proporcionalidade e da necessidade da pena para reduzir o patamar estabelecido para a prestação pecuniária.
+Registre-se, ademais, que a prestação pecuniária poderá ser objeto de parcelamento, a critério do Juízo da Execução Penal (artigo 169 da LEP).
+Por essas razões, dou parcial provimento ao recurso, reduzindo a pena de prestação pecuniária para 07 (sete) salários mínimos." (e-STJ, fls. 251-253).
+O Tribunal a quo, ao analisar as condições econômicas do agravado, reduziu a prestação pecuniária para o valor de 7 (sete) salários-mínimos.
+Com efeito, a conclusão das instâncias ordinárias, soberanas no exame dos fatos, é de que a pena restritiva de direito imposta é suficiente à prevenção e reparação do delito. Modificar esse entendimento e acolher o pleito da defesa de diminuição da pena pecuniária, demandaria, necessariamente, o revolvimento do acervo fático-probatório, providência vedada pela Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial").
+Nesse sentido:
+" ..
+3. Em relação ao quantum de pena pecuniária, inevitável o reexame das provas carreadas aos autos para fins de sua diminuição, o que encontra empeço na Súmula n. 7 desta Corte.
+Agravo regimental desprovido."
+(AgRg no AREsp 785.767/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 2/8/2016, DJe 10/8/2016).
+" ..
+5.É pacífico que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar o quantum adequado a ser fixado a título de prestação pecuniária, com base nas condições econômicas do acusado e no efetivo prejuízo sofrido pela vítima. Impedimento do enunciado n. 7 da Súmula desta Corte.
+6.Agravo regimental a que se nega provimento."
+(AgRg no AREsp 815.155/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2015, DJe 1º/2/2016).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
