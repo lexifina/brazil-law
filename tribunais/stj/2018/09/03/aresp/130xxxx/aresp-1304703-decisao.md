@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ELTON DE OLIVEIRA ALVES (e-STJ, fls. 378-379) contra decisão que inadmitiu o recurso especial manejado em face de acórdão proferido pelo eg. Tribunal de Justiça de Minas Gerais.
+Consta nos autos que o agravante foi condenado a 3 (três) anos, 4 (quatro) meses de reclusão, em regime inicial aberto, além de 16 (dezesseis) dias-multa, em razão da prática de crimes constantes nos artigos 304 c/c art. 297, na forma do artigo 71, todos do Código Penal. A pena privativa de liberdade foi substituída por duas restritivas de direito.
+Irresignada, a defesa apelou perante a Corte Estadual, tendo o reclamo sido parcialmente provido, a fim de diminuir a fração utilizada em razão da continuidade delitiva, redimensionando a reprimenda para 2 (dois) anos e 8 (oito) meses de reclusão, mantido o regime inicial, além do pagamento de 13 (treze) dias-multa. Foi mantida
+Opostos embargos de declaração, estes foram rejeitados.
+Sobreveio a interposição de recurso especial, por meio do qual alegou-se violação ao artigos 304 e 297, todos do Código Penal, além do art. 386, incisos II e VII, todos do Código de Processo Penal. A insurgência não foi admitida na origem em razão do óbice indicado no enunciado 7 da Súmula do Superior Tribunal de Justiça.
+Neste agravo, a defesa infirma os fundamentos indicados, além de reforçar os argumentos já apresentados em sede de recurso especial.
+Manifestação do Ministério Público às fls. 404-407.
+É o relatório.
+No recurso especial, a defesa pugna pela absolvição do acusado, em razão de atipicidade da conduta praticada. Nas razões recursais, alega que a "cópia reprográfica, sem autenticação, não pode ser objeto material de crime de uso de documento falso" (e-STJ: fl. 368)
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que, de fato, o recurso especial interposto não merece seguimento.
+Quanto à materialidade e a autoria delitiva da conduta sob análise, colhe-se o seguinte excerto do entendimento firmado pelo magistrado singular:
+A conduta praticada pelo acusado é típica, pois se enquadra nos tipos penais pelos quais o acusado foi denunciado e, devidamente, narrado na denúncia, razão pela qual não há que se falar em atipicidade.
+O fato de terem sido apresentadas cópias dos documentos (atestados médicos) não afastam a tipicidade, sendo esta devidamente comprovada pelos depoimentos das testemunhas, ouvidas judicialmente.
+Ademais, trata-se de uso de documento falso, ou seja, o réu está sendo acusado de uso de documento falso e não de falsificação de documentos, o que toma a alegação sem razão. (e-STJ: fl.247)
+Essa compreensão foi corroborada pelo Tribunal de origem ao apreciar o apelo, conforme se verifica pela leitura do trecho a seguir:
+De relevo ressaltar, por oportuno, que muito embora não tenham sido juntados aos autos os atestados médicos originais, tal fato não é suficiente para afastar a materialidade do crime; haja vista que o que se apura no presente feito é o delito de uso de documento falso, e não de falsificação de documento. Ademais, diante do harmonioso conjunto probatório colhido nos autos, é possível verificar que os médicos que constam nos referidos atestados foram uníssonos em relatar que nunca emitiram tais documentos e que a assinatura e "o carimbo também não lhes pertencem, inexistindo, portanto, qualquer dúvida acerca da inautenticidade dos atestados apresentados pelo apelante.
+(..)
+Nesse contexto, diante de tudo o que foi visto, não resta a menor dúvida acerca da materialidade e da autoria do crime de uso de documento de falso, sendo de rigor, portanto, a manutenção da condenação firmada em primeira instância, por seus próprios fundamentos. (e-STJ, fls. 340-341).
+Infere-se da análise dos excertos acima reproduzidos que as instâncias antecedentes, após o reexame dos elementos colhidos no curso da instrução criminal, concluíram pela existência, nos autos, de elementos concludentes para fundamentar o decreto condenatório.
+Dessa forma, desconstituir o julgado, por suposta violação à lei federal, no intuito de abrigar o pleito absolutório pela prática do crime imputado ao agravante não encontra espaço na via eleita, porquanto seria necessário a este Sodalício aprofundado revolvimento do contexto fático-probatório, providência exclusiva das instâncias ordinárias, incabível em sede de recurso especial, conforme já assentado pelo Enunciado n.º 7 da Súmula desta Corte.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. DELITO CONTRA ENTIDADE DE DIREITO PÚBLICO. PRETENSÃO ABSOLUTÓRIA. GRADUAÇÃO DA PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. LIVRE CONVENCIMENTO DO MAGISTRADO. SÚMULA 7 DESTE TRIBUNAL SUPERIOR. INCIDÊNCIA.
+1. A impugnação alusiva à materialidade e autoria do crime demandaria necessariamente o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial, ante o óbice da Súmula 7 desta Corte, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. A instância a quo fez a utilização de dados concretos contidos nos autos para estabelecer a pena-base acima do mínimo, tendo, ainda, procedido a uma causa de aumento, em 1/3 (um terço), consoante a qualificadora prevista no art. 171, § 3º, do Código Penal. Precedentes.
+(..) (AgRg no AREsp 647.537/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 30/06/2015, DJe 04/08/2015)
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer do recurso especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intimem-se.
+Cientifique-se o Ministério Público Federal.
