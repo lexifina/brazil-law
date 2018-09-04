@@ -1,0 +1,25 @@
+DECISÃO
+Em virtude das razões expostas na petição de fls. 263/269, reconsidero a decisão de fls. 259/260, proferida pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos do art. 932, III, do CPC de 2015, correspondente ao art. 544, § 4º, inciso I, do CPC de 1973, c.c. art. 1º da Resolução STJ 17/2013, e passo a nova análise do recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS EM FASE DE CUMPRIMENTO DE SENTENÇA INTERPOSIÇÃO DO RECURSO APÓS O PRAZO PREVISTO NO ARTIGO 1.003, §5º, DO CPC DE 2015 INTEMPESTIVIDADE AGRAVO INTERNO PREJUDICADO SEGUIMENTO NEGADO RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO AGRAVO DE INSTRUMENTO E REGIMENTAL - AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS EM FASE DE CUMPRIMENTO DE SENTENÇA DECISÃO MONOCRÁTICA QUE JULGOU PREJUDICADO O AGRAVO REGIMENTAL E NÃO CONHECEU O AGRAVO DE INSTRUMENTO SOB O FUNDAMENTO DE INTEMPESTIVIDADE AGRAVO TEMPESTIVO - DECISÃO MONOCRÁTICA ANULADA - EMBARGOS ACOLHIDOS. AGRAVO REGIMENTAL OPOSIÇÃO CONTRA DECISÃO QUE NEGOU O PEDIDO DE EFEITO SUSPENSIVO AO AGRAVO DE INSTRUMENTO INTERPOSTO PERDA DO OBJETO - RECURSO PREJUDICADO. AGRAVO DE INSTRUMENTO PENHORA DE PERCENTUAL DO FATURAMENTO DA EMPRESA EXECUTADA NOMEAÇÃO DE ADMINISTRADOR DEPOSITÁRIO POSSIBILIDADE DECISÃO MANTIDA RECURSO DESPROVIDO.
+Alega a parte recorrente violação do artigo 862, §2º do Código de Processo Civil, além de divergência jurisprudencial.
+Delimitada a controvérsia. Passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O Tribunal de origem assim manifestou acerca da controvérsia:
+Ab initio, deixo consignado que o recurso não comporta conhecimento.
+Anota-se que o artigo 1.003, parágrafo 5º, do Código de Processo Civil de 2015 fixa o prazo de 15 dias para a interposição dos recursos, excetuados os embargos de declaração, devendo tal prazo ser contado da publicação da decisão agravada, ou da ciência inequívoca do seu conteúdo.
+In casu, a decisão combatida foi publicada no diário da justiça eletrônico no dia 06/06/2016 (fls. 114) data do início do prazo para a interposição do recurso (artigo 231, inciso VII, do Código de Processo Civil de 2015), findando-se em 24/06/2016. Ocorre que a agravante protocolizou a peça recursal no dia 27/06/2016, quando já escoado o prazo legal.
+Dessa forma, o recurso não merece conhecimento, posto intempestivo.Nesse sentido, já decidiu esta Colenda 28ª Câmara de Direito Privado, a saber:
+AGRAVO REGIMENTAL. Agravo de instrumento. Requisitos de admissibilidade. Recurso intempestivo. (grifei) Pedido de reconsideração que não suspende nem interrompe o curso do prazo recursal, bem como não desloca a lesividade para o ato decisório ulterior que mantém a decisão original. Inteligência dos arts. 522 e 527, I, ambos do CPC.
+Seguimento liminarmente negado. Decisão monocrática mantida. Agravo Regimental não provido. (Agravo Regimental nº 2016271-02.2013.8.26.0000/50001 - 28ª Câmara de Direito Privado - Rel. Des. GILSON DELGADO MIRANDA - j. em 22/10/2013 - v.u.) sic Não se conhece de agravo de instrumento intempestivo. (grifei) (Agravo de Instrumento nº 2088909-28.2016.8.26.0000 - 28ª Câmara de Direito Privado - Rel. Des. CELSO PIMENTEL - j. em 23/05/2016 - v.u.) sic Por fim, diante do quanto aqui decidido, dou por prejudicado o agravo interno de fls. 153/155, interposto contra a decisão que indeferiu o efeito suspensivo pretendido.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 932, inciso III, do Código de Processo Civil de 2015.
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Por fim, impende registrar que os apelos interpostos com fundamento no artigo 105, III, na alínea "c", da Constituição Federal, atraem, regularmente, a incidência da Súmula n. 7/STJ, quando necessário examinar o contexto fático-probatório dos autos, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+SÚMULA N. 211/STJ. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+(..) 4. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 980.520/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/02/2017, DJe 13/02/2017) (grifou-se)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
