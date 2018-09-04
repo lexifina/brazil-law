@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] e [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 0000278712015.8.26.0617) - fl. 32:
+Roubo qualificado Recurso defensivo pleiteando a redução da pena e o abrandamento do regime prisional - Autoria e materialidade do delito bem comprovadas, não se insurgindo a defesa quanto ao decreto condenatório - Pena criteriosamente dosada e bem justificada - Pena base fixada no mínimo legal - Agravante prevista no art. 61, II, "h", do CP, corretamente reconhecida - Inviabilidade de reconhecimento da atenuante da confissão espontânea - Confissão parcial e que não contribuiu para a formação da convicção do magistrado sentenciante - Vítimas que não tiveram dúvidas em apontar os réus como autores do crime e res furtiva encontrada em poder dos agentes.
+- Aumento de 3/8 em decorrência das qualificadoras - Impossibilidade de exasperação mínima de 1/3 - A aplicação da tabela para o aumento da pena não leva em conta unicamente a praticidade numérica, aliando-se a isso também outros aspectos objetivos e subjetivos, a fim de que prevaleça o justo no processo penal - Regime prisional fixado com critério Personalidade deturpada, causadora de risco à ordem pública, de quem envereda para a prática desse tipo de criminalidade - Necessidade de maior reprovabilidade de modo a prevalecer o parâmetro da suficiência - Negado provimento.
+Consta dos autos que o Juízo da 1ª Vara Criminal da comarca de Jacareí/SP condenou os pacientes, como incursos no art. 157, § 2º, I e II, do Código Penal, cada um, às penas de 6 anos e 5 meses de reclusão, no regime inicial fechado, e ao pagamento de 13 dias-multa, vedado o recurso em liberdade (Ação Penal n. 00002787120158260617 - Controle n. 683/15 - fls. 13/20).
+Inconformada, a defesa interpôs apelação na Corte de origem, que negou provimento ao recurso (fls.31/37).
+Daí a presente impetração, em que se alega constrangimento ilegal consistente na manutenção do percentual de aumento de 3/8, em razão das causas especiais de aumento consistentes no emprego de arma e concurso de agentes. Sustenta-se que a inexistência de fundamentação para o aumento maior que 1/3, está em dissonância ao disposto no enunciado n. 443 da Súmula deste Superior Tribunal de Justiça.
+Insurge-se, ainda, contra a não aplicação da atenuante da confissão espontânea.
+Afirma, por outro lado, que o regime semiaberto seria o adequado à espécie. Cita a Súmula 440/STJ e sa Súmulas 718 e 719/STF.
+É o relatório.
+Compulsando detidamente os autos, verifico que a confissão, ainda que parcial, não foi utilizada pelo Magistrado de Primeiro grau, o qual, inclusive, ressaltou que não trouxe qualquer luz para a elucidação dos fatos (fl. 18).
+Já com relação a fração de aumento da pena pelo número de qualificadoras, há manifesta ilegalidade.
+Com efeito, o aumento da pena em 3/8, em virtude das majorantes, foi determinado apenas em razão do critério quantitativo, conforme se verifica da sentença, à fl. 19, e do acórdão da apelação, às fls. 35/36.
+De acordo com a Súmula 443/STJ, o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Assim, aplicada a fração de 1/3 na terceira fase da dosimetria, fica a pena, pelo crime de roubo, reduzida para 6 anos, 2 meses e 20 dias de reclusão.
+No tocante ao regime prisional, não obstante o quantum de pena inferior a 8 anos de reclusão e a fixação da pena-base no mínimo legal, o regime inicial fechado foi imposto sem a indicação de nenhuma justificativa idônea (fls. 19 e 36).
+Têm incidência, portanto, a Súmula 440/STJ e as Súmulas 718 e 719/STF.
+Com essas considerações, e tendo em vista que a pena aplicada é maior do que 4 e menor que 8 anos de reclusão, nos termos do art. 33, § 2º, b, do Código Penal, adequada a fixação do regime inicial semiaberto.
+Ante o exposto, concedo a ordem para reduzir as penas impostas aos pacientes, como incursos no art. 157, § 2º, I e II, do Código Penal, para 6 anos, 2 meses e 20 dias de reclusão, além do pagamento de 12 dias-multa, fixado o regime inicial semiaberto.
+Comuniquem-se.
+Publique-se.
