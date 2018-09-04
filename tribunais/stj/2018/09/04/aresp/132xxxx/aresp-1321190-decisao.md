@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] LTDA contra decisão que negou seguimento a recurso especial, fundamentado na alínea "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 470):
+APELAÇÃO. PREPARO. Pedido de assistência judiciária em sede recursal. Indeferimento. Concessão de prazo para recolhimento. Inércia da recorrente. Deserção. RECURSO NÃO CONHECIDO.
+A agravante sustenta, nas razões de recurso especial, que o indeferimento do seu pedido de concessão do benefício da gratuidade judiciária vai "na contra mão da Jurisprudência de nossos E. Tribunais e nos próprio da Lei" (fl. 485).
+Assim delimitada a controvérsia, passo a decidir.
+Conforme apontado pela decisão agravada, o recurso especial somente foi interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal, mas não aponta nenhum julgado para confronto com o acórdão recorrido, portanto, sua fundamentação é deficiente e impede a exata compreensão da controvérsia. Aplica-se, por analogia, o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Ademais, mesmo que seja considerada a tímida argumentação desenvolvida no recurso especial no sentido de que foram ofendidos os artigos 98 a 105 do Código de Processo Civil, a acórdão recorrido não tratou do tema e não foram opostos embargos de declaração a fim de sanar eventual omissão. Carece, portanto, a questão do prequestionamento.
+Na realidade, verifico que a gratuidade de justiça, requerida no recurso de apelação, foi indeferida na decisão de fl. 459, ocasião em que foi determinado o recolhimento do preparo. Decorrido o prazo sem oposição da ora agravante e sem recolhimento do preparo determinado, o Tribunal de origem não conheceu do recurso no acórdão recorrido. Como se vê, a questão da gratuidade judiciária encontra-se preclusa e, por esse motivo, não foi discutida no acórdão recorrido.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
