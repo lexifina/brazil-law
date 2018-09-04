@@ -1,0 +1,61 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado, por unanimidade, pela 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de apelação, e de Agravo nos próprios autos do MUNICÍPIO DE SÃO PAULO, em face da decisão que inadmitiu seu recurso especial.
+O acórdão proferido pelo tribunal de origem foi assim ementado (fl. 96e):
+TRANSPORTE COLETIVO - Ação que visa à liberação de veículos independentemente do pagamento de multa e despesas de remoção e estadia - Apreensão de veículos por utilização clandestina - Liberação que pode ser condicionada ao pagamento das despesas com remoção e estadia, mas, não ao prévio pagamento de multas - Recurso parcialmente provido, com observação.
+Opostos embargos de declaração, foram rejeitados (fls. 122/129e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se, às fls. 142/149e, ofensa aos art. 330, I, do Código de Processo Civil, alegando-se, em síntese, que "a ação ordinária foi proposta porque não se tratava de questão unicamente de direito, mas que dependia da produção de provas", não sendo oportunizado, contudo, "a produção do necessário para ser descaracterizado o documento público - auto de apreensão - que resultou na apreensão do veículo" (fls. 147/148e).
+Por sua vez, no recurso especial de fls. 151/164e, interposto com fulcro na alínea a do permissivo constitucional, aduz-se ofensa ao art. 30, V, a, da Constituição da República, bem como aos arts. 231, VIII, 258, VIII, e 262 do Código de Trânsito Brasileiro, sustentando-se, em síntese, que o acórdão maculou a competência constitucional da municipalidade, "limitando o número de diárias de estacionamento do veículo apreendido", "quando a norma municipal assim não o fez" (fl. 157e).
+Com contrarrazões do Município de São Paulo (fls. 184/187e; fl. 193e), admitiu-se o recurso especial de [NOME] (fls. 226/227e).
+Inadmitido o recurso interposto pelo ente público (fls. 224/225e), aponta-se estarem presentes os pressupostos de admissibilidade do recurso especial (fls. 234e).
+Sem contraminuta (fl. 266e), os autos foram encaminhados a esta Corte.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Ademais, a teor do art. 544, § 4º, II, b, do Código de Processo Civil, o Relator também está autorizado, mediante decisão monocrática, a conhecer do Agravo para negar seguimento ao Recurso Especial manifestamente inadmissível, prejudicado ou em confronto com súmula ou jurisprudência dominante do Tribunal.
+Quanto ao recurso especial de fls. 142/149e, o tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que o feito prescindia da produção de outras provas, sendo suficientes, para o julgamento da lide, os elementos já constantes dos autos, nos seguintes termos (fl. 98e):
+A preliminar deve ser afastada, posto que o feito prescindia de outras provas.
+Esta Oitava Câmara já decidiu questão análoga:
+"Nenhum reparo merece a decisão que cancelou a realização da audiência de instrução designada anteriormente, em virtude de que a questão trazida a lume ser exclusivamente de direito.
+Inocorreu qualquer cerceamento do direito de produzir prova com o julgamento antecipado da lide, já existentes nos autos todos os elementos necessários ao deslinde da pendência, não cabendo argumentar com violação aos princípios do contraditório e ampla defesa.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, qual seja, o reconhecimento do cerceamento de defesa, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO ADOTADO PELA DECISÃO AGRAVADA. SÚMULA 182/STJ. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE REALIZAÇÃO DE PROVA PERICIAL. FACULDADE DAS INSTÂNCIAS ORDINÁRIAS. ATIVIDADE ESPECIAL. EXPOSIÇÃO AO AGENTE FÍSICO RUÍDO ACIMA DOS LIMITES LEGAIS. REEXAME DE PROVAS. SÚMULA 7/STJ.
+(..)
+2. Na espécie, a Corte de origem indeferiu a realização de prova pericial, por compreender que o conjunto probatório juntado aos autos teria sido suficiente para a formação da convicção do juízo.
+Assim, conforme assinalado na decisão agravada, cabe às instâncias ordinárias o juízo acerca da necessidade de produção de prova e o seu reexame, na estreita via do recurso especial, encontra óbice na Súmula 7/STJ.
+(..)
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt no AREsp 1056892/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/05/2018, DJe 21/05/2018, destaque meu).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ACÓRDÃO RECORRIDO QUE, ENTENDENDO PELA NECESSIDADE DE PRODUÇÃO DE PROVAS, CASSOU SENTENÇA QUE JULGARA IMPROCEDENTE O PEDIDO. ALEGADA VIOLAÇÃO AO ART. 386, VII, DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. INICIATIVA PROBATÓRIA DO JULGADOR. POSSIBILIDADE. ART. 130 DO CPC/73. NECESSIDADE DE PRODUÇÃO DE PROVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+VI. Nos termos em que a causa fora decidida, infirmar os fundamentos do acórdão recorrido, quanto à necessidade de produção de provas, demandaria o reexame de matéria fática, o que é vedado, em Recurso Especial, nos termos da Súmula 7/STJ.
+VII. Agravo interno improvido.
+(AgInt no AREsp 1155352/GO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 10/04/2018, DJe 17/04/2018, destaque meu).
+De outra parte, preenchidos os requisitos de admissibilidade do Agravo de fls. 234/243e, passo à análise do Recurso Especial interposto às fls. 151/164e.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa a norma constitucional, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Dessa forma, a presente insurgência não pode ser conhecida no que tange à alegada violação ao art. 30, V, da Constituição da República.
+A respeito do tema, o precedente:
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO - EMBARGOS DE DIVERGÊNCIA - AUSÊNCIA DE VÍCIOS DO ART. 535 DO CPC - PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS - IMPOSSIBILIDADE.
+1. Não compete ao STJ intervir em matéria de competência do STF, tampouco para prequestionar questão constitucional, sob pena de violar a rígida distribuição de competência recursal disposta na Lei Maior.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1054064/PA, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 17/04/2013, DJe 02/05/2013).
+Além disso, a Corte a qua limitou em 10 (dez) diárias as cobranças relativas à remoção e estadia do veículo apreendido, sob o fundamento de que, na ausência de previsão em lei municipal, deveria incidir o art. 262 do CTB e o art. 3º, I, da Resolução CONATRAN n. 53/98, conforme extrai-se dos seguintes excertos do acórdão recorrido (fls. 101/102e):
+Ademais, cumpre fazer a seguinte observação: "como a lei municipal, nem o decreto, não estabeleceram o limite para as estadias, aplica-se supletivamente o art. 262 do CTB, c.c. o art. 3º, I, da Resolução CONTRAN n. 53/98, o que estabelece o limite de 10 diárias, para a hipótese de infração não agravada e em analogia como o caso dos autos" (Agravo de Instrumento n. 181.295-5/5-00, rel. Des. JOSÉ SANTANA).
+Portanto, a liberação do veículo depende do pagamento das despesas de remoção e estadia, nos valores estabelecidos na lei municipal, mas limitada esta última a 10 (dez) diárias.
+Nas razões do Recurso Especial, entretanto, tal fundamentação não foi refutada, precipuamente quanto à incidência da Resolução CONATRAN n. 58/93 ao caso, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1407870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial de fls. 142/149e, e, com base no art. 544, § 4º, II, b, do Código de Processo Civil, CONHEÇO do Agravo de fls. 234/243e, e NEGO SEGUIMENTO ao Recurso Especial de fls. 151/164e.
+Publique-se e intimem-se.
