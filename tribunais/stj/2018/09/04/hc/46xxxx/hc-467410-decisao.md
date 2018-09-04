@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RONEI DA SILVA MARTINS, apontando como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (HC n. 1409081-51.2018.8.12.0000).
+Consta dos autos ter sido o paciente preso em flagrante, custódia essa convertida em preventiva, pela suposta prática dos delitos de tráfico de entorpecentes e associação para o tráfico, tendo em vista que, juntamente com outro acusado, foi surpreendido na posse de 11,100kg (onze quilos e cem gramas) de cocaína, distribuídos em 10 (dez) tabletes (e-STJ fl. 35).
+Impetrado habeas corpus no Tribunal de origem sob a alegação de excesso de prazo, o pedido liminar foi indeferido pelo Desembargador relator (e-STJ fls. 43/44).
+No presente writ, sustenta o impetrante inexistir motivação idônea para a segregação antecipada, visto que não apontada, concretamente, a presença dos requisitos contidos no art. 312 do Código de Processo Penal, asseverando que militam em favor do paciente condições pessoais favoráveis, tais como primariedade e bons antecedentes.
+Destaca a desproporcionalidade da prisão processual ante a possibilidade, em caso de eventual condenação, de fixação de regime prisional diverso do fechado.
+Defende a suficiência da imposição de medidas cautelares alternativas.
+Pontua haver excesso de prazo para a formação da culpa, tendo em vista que o paciente estaria preso há cerca de 156 dias sem previsão de término da instrução processual.
+Busca, inclusive liminarmente, seja revogada a prisão preventiva do paciente ou reconhecido o excesso de prazo e relaxada a custódia.
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus ante decisum que indefere liminar no writ originário, a não ser que fique demonstrada flagrante ilegalidade (enunciado n. 691 da Súmula do STF), o que não ocorre na espécie, notadamente porque nem sequer a decisão que decretou a prisão preventiva do paciente foi juntada aos autos.
+Ademais, quanto ao outro ponto da impetração, como é cediço, a aferição de constrangimento ilegal por excesso de prazo não resulta de um critério aritmético. Há de ser realizada pelo julgador uma análise do caso concreto, de acordo com as suas peculiaridades, em atenção aos princípios da razoabilidade e da proporcionalidade, providência que não se coaduna com o juízo perfunctório próprio do pedido emergencial, sobretudo quando o Tribunal a quo não se debruçou sobre a matéria.
+Assim, as questões formuladas, notadamente diante das peculiaridades do caso, necessitam de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado. Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016)
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
