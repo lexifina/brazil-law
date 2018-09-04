@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pela PARANAPREVIDÊNCIA SERVIÇO SOCIAL AUTÔNOMO contra decisão do Tribunal de Justiça daquele Estado, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 308):
+AGRAVO REGIMENTAL - MANDADO DE SEGURANÇA - DECISÃO QUE DETERMINA O CUMPRIMENTO DA SEGURANÇA CONCEDIDA - POSSIBILIDADE INTELIGÊNCIA DO ARTIGO 14, §3º DA LEI Nº 12.016/2009 - RECURSO DESPROVIDO.
+No especial obstaculizado, a parte recorrente apontou violação do art. 7º, § 2º, da Lei n. 12.016/2009, sustentando a impossibilidade de antecipação da tutela contra a Fazenda Pública na situação estampada nos autos.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de não houve o exaurimento da instância ordinária (e-STJ fls. 337/341).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ fls. 416/420).
+ Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+ Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, a alegação de violação do art. 7º, §2º, da Lei n. 12.016/2009, sob o argumento de que não seria possível a concessão de antecipação de tutela que tenha como objeto o pagamento de qualquer natureza, verifica-se que o aresto recorrido está em conformidade com o entendimento do STJ. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCESSÃO DE LIMINAR. POSSIBILIDADE. SÚMULA 729 DO STF. NATUREZA PREVIDENCIÁRIA. MATÉRIA NÃO VENTILADA NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA.
+1. "Ainda que o artigo 7º, § 2º, da Lei nº 12.016/2009 vede expressamente a "extensão de vantagens ou pagamento de qualquer natureza" por meio de medida liminar, a natureza previdenciária do direito ora pleiteado excepciona a presente hipótese e torna possível tal concessão, de acordo com entendimento sedimentado pelo Excelso Pretório, através do enunciado da Súmula nº 729 ("A decisão na ADC-4 não se aplica à antecipação de tutela em causa de natureza previdenciária")" (AgRg no AREsp 541.983/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24.11.2014).
+2. No presente Agravo Regimental é aventada a tese, não ventilada no Recurso Especial, de que somente os casos previdenciários imprescindíveis à sobrevivência do segurado são exceções ao art. 7º, § 2º, da Lei 12.016/2009.
+3. A jurisprudência do STJ firmou-se no sentido de que ocorre a preclusão consumativa quando a matéria ventilada em Agravo Regimental constitui inovação recursal em relação ao Recurso Especial. Nesse sentido: AgRg no AREsp 11.095/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 29.11.2012; AgRg no AREsp 231.214/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26.11.2012; AgRg no AREsp 180.724/SE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 25.10.2012; AgRg no Resp 1.156.078/PR, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 14.11.2012.
+ 4. Agravo Regimental parcialmente conhecido e, nessa parte, não provido. (AgRg no REsp 1.466.162/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/08/2015, DJe 17/11/2015).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA IMPETRADO POR SERVIDOR PÚBLICO ESTADUAL APOSENTADO. MEDIDA LIMINAR CONCEDIDA EM FACE DA FAZENDA PÚBLICA. AÇÃO DE NATUREZA PREVIDENCIÁRIA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme a jurisprudência desta Corte quanto à possibilidade de concessão de medida liminar, em face da Fazenda Pública, nas ações de natureza previdenciária, em consonância com o entendimento consolidado pelo Supremo Tribunal Federal com a edição da sua Súmula 729.
+2. Agravo Regimental do ESTADO DO RIO GRANDE DO NORTE desprovido. (AgRg no AREsp 465.119/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 16/09/2014, DJe 09/10/2014).
+ Assim, aplica-se, na espécie, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais, a teor do art. 25 da Lei n. 12.016/2009.
+Publique-se. Intimem-se.
