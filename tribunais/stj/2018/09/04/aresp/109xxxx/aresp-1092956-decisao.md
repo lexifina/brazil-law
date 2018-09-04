@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado pela BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO que desafia decisão que inadmitiu recurso especial interposto com apoio na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 277):
+DIREITO DO CONSUMIDOR. Multa administrativa. Anulação ou redução. Aplicada em razão da cobrança de taxa de emissão de boleto. Conduta abusiva. Sentença "citra petita". Possibilidade de julgamento por este Tribunal. CPC, artigo 515, § 1o. Multa, de R$ 83.240,00, compatível com a gravidade da infração e com o porte econômico da infratora. Portaria normativa do PROCON que apenas uniformiza critérios para a graduação da multa de acordo com os parâmetros da lei.. Constitucional idade declarada pelo Órgão Especial desta Corte. Dimensionada segundo os parâmetros normativos. Não provido o recurso da autora, pela redução da multa, sendo providos o do Município e o reexame necessário para afastar a sua redução.
+No especial obstaculizado, a ora agravante apontou violação do art. 57 da Lei n. 8.078/1990, sustentando que a multa cominada se mostra exorbitante, tendo sido arbitrada pela instâncias ordinárias sem a demonstração dos critérios de graduação, acentuando, ainda, que não se comprovou nos autos a vantagem excessiva auferida pela empresa.
+Após contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem ao entendimento de que os seus fundamentos não são capazes de reformar o acórdão recorrido e que a revisão do julgado demandaria novo exame fático-probatório (Súmula 7 do STJ).
+Em sua irresignação, a agravante infirma a decisão agravada e, no mais, reitera os argumentos articulados no recurso especial.
+Sem contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Dito isso, no que tange aos critérios para a aplicação da multa questionada, o Tribunal de origem consignou o seguinte (e-STJ fl. 279):
+A autora não ofereceu defesa administrativa, tampouco questionou, na via judicial, o valor de sua receita mensal estimado pela ré e que serviu de base para a fixação da multa.
+Portanto, o valor da multa está bem ajustado à gravidade da infração, considerando a coletividade de consumidores lesados pela infração, e também ao porte econômico da instituição financeira.
+No ponto, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Registre-se que, segundo a jurisprudência do Superior Tribunal de Justiçam, a revisão dos valores das multas administrativa somente é possível em hipóteses excepcionais, quando verificada a ofensa aos princípios da razoabilidade e proporcionalidade, situação não evidenciada nos autos (R$ 83.240,00 - oitenta e três mil, duzentos e quarenta reais).
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CERCEAMENTO DE DEFESA. NECESSIDADE DE PRODUÇÃO DE PROVAS. DEVER DE INFORMAR. MULTA APLICADA PELO PROCON. VIOLAÇÃO DO ART. 31 DO CDC. MULTA. ART. 57 DO CDC. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que não há cerceamento de defesa quando o julgador considera dispensável a produção de prova, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento.
+2. O consumidor tem, como direito básico, o de informação expressa e adequada sobre o produto ou o serviço que deseja adquirir ou contratar, sendo proibida a publicidade enganosa, capaz de induzir em erro o consumidor (arts. 31 e 37 do CDC). Precedentes do STJ.
+3. Revisão da multa aplicada pelo PROCON com base no art. 57 do CDC demandaria reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial, sob pena de violação da Súmula 7 do STJ.
+Agravo interno improvido.
+(AgInt no AREsp 838.346/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/04/2016, DJe 19/04/2016).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. MULTA ADMINISTRATIVA. PROCON. VALOR. ADEQUAÇÃO. PRETENSÃO QUE ENCONTRA ÓBICE NA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. A revisão da conclusão a que chegou o Tribunal de origem acerca da adequação do montante da multa administrativa aplicada pelo Procon à recorrente, em razão da observância dos requisitos previstos no art. 57 do CDC (gravidade da infração, vantagem auferida pela empresa e condição econômica do fornecedor), demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+2. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (art. 541, parágrafo único, do CPC, c/c art. 255 do RISTJ).
+No caso, a recorrente não demonstrou a existência de similitude fática e jurídica entre os arestos confrontados.
+3. Agravo regimental não provido.
+(AgRg no AREsp 836.916/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/03/2016, DJe 30/03/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
