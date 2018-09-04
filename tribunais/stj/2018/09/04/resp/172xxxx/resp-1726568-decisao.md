@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. REESTRUTURAÇÃO DA CARREIRA. LIMITAÇÃO TEMPORAL. MARCO INICIAL DO PRAZO PRESCRICIONAL. VALORES PRETÉRITOS QUE SE ENCONTRAM PRESCRITOS. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do Tribunal de Justiça estadual, assim ementado (fl. 507):
+APELAÇÃO CÍVEL - ADMINISTRATIVO E PROCESSUAL CIVIL - SERVIDOR PÚBLICO DO MUNICÍPIO DE SÃO BENTO DO SUL - CONVERSÃO DOS VENCIMENTOS EM URV (UNIDADE REAL DE VALOR) - COBRANÇA DE DESFALQUE SALARIAL ORIUNDO DA INOBSERVÂNCIA DOS DITAMES DA LF N. 8.880/94 - REESTRUTURAÇÃO DO REGIME REMUNERATÓRIO DO FUNCIONALISMO LOCAL IMPLEMENTADA PELA LM N. 212/94 - MARCO INICIAL DA PRESCRIÇÃO - PRETENSÃO FULMINADA - DEMANDA AJUIZADA APÓS O PRAZO QUINQUENAL - SENTENÇA ESCORREITA - HARMONIA À JURISPRUDÊNCIA PACÍFICA DO STJ E DESTA CORTE - RECURSO DESPROVIDO.
+""Segundo a jurisprudência do STJ, o prazo prescricional começa a correr com a entrada em vigor de norma que reestrutura a carreira, com a instituição de novo regime jurídico remuneratório, limitando a existência de possíveis diferenças salariais" (AgRg no AREsp 811567/MS, rel.Ministro HERMAN BENJAMIN, julgado em 10/3/2016).
+"No caso, a ação foi promovida mais de 5 (cinco) anos após a entrada em vigor da Lei Municipal n. 212, de 29 de abril de 1994, que implementou o plano de cargos e salários dos servidores públicos municipais, e estabeleceu nova tabela de vencimentos, inexistindo eventuais diferenças salariais a serem pagas no quinquênio anterior ao ajuizamento da demanda." (Apelação Cível n. 0301738-05.2015.8.24.0058, de São Bento do Sul, rel. Des. Sérgio Roberto Baasch Luz, j. 28.06.2016).
+Os embargos de declaração foram rejeitados.
+No apelo especial, a parte recorrente alega que houve, além de divergência jurisprudencial, violação do art. 22 da Lei 8.880/1994, ao argumento de que nas ações em que se busca a correta conversão da moeda em URV a prescrição é de trato sucessivo, nos termos do que dispõe a Súmula 85 do STJ.
+Contrarrazões apresentadas.
+Juízo positivo de admissibilidade às fls. 604-605.
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Na origem trata-se de ação ajuizada por servidor público do Município de São Bento do Sul/SC, em que pleiteia a recomposição de seus vencimentos do percentual decorrente da errônea conversão de Cruzeiros Reais para Unidade Real de Valor-URV.
+Acerca do tema, o Tribunal de origem concluiu (fl. 511):
+ ..
+No âmbito do Município de São Bento do Sul, esse marco remonta ao advento da Lei Municipal n. 212/94, que entrou em vigor em 29.04.1994, conforme artigo 21 do édito em alusão. Como não bastasse, ainda se sucederam outras legislações que estabeleceram reestruturação na carreira do funcionalismo local, quais sejam, a Lei Municipal n. 344/98 e a Lei Municipal n. 2.966/12.
+Assim, considerando-se que a presente demanda foi ajuizada apenas em 2015, ou seja, transcorridos mais de cinco anos do termo inicial de fluência do prazo - 29.04.2014 -, sobressai candente a configuração da prescrição das quantias perseguidas, a teor do artigo 1º do Decreto n. 20.910/32.
+A bem da verdade, o assunto em comento não representa novidade alguma nesta Corte, já tendo sido objeto de inúmeros outros julgados, que, iterativamente, esposaram o mesmo entendimento aqui retratado.
+ ..
+Conforme se verifica do excerto acima transcrito, a Corte de origem reconheceu ter ocorrido a prescrição, uma vez que a Lei 212/1994 do Município de São Bento do Sul/SC, que reestruturou a carreira dos Servidores municipais, é o marco inicial da contagem do prazo prescricional, de modo que tendo a presente ação sido ajuizada somente no ano de 2015, ou seja, vinte e um anos após a entrada em vigor do respectivo diploma normativo, inexistem parcelas a serem pagas no quinquênio anterior ou posterior ao ajuizamento da ação.
+Dessa forma, observa-se que o entendimento do Tribunal a quo se alinha a jurisprudência desta Corte Superior de que a reestruturação da carreira dos Servidores é o marco inicial da contagem do prazo prescricional para a cobrança dos possíveis prejuízos decorrentes da errônea conversão de vencimentos em URV, que atinge todo o direito reclamado após o prazo de cinco anos.
+Nesse sentido os seguintes precedentes:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. CONVERSÃO DE VENCIMENTOS EM URV. REESTRUTURAÇÃO DA CARREIRA. MARCO INICIAL DA PRESCRIÇÃO. INVIABILIDADE DE INTERPRETAÇÃO DAS LEIS MUNICIPAIS FLORIANOPOLITANAS 4.392/94 E 4.643/95. SÚMULA 280/STF. AGRAVO REGIMENTAL DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido não destoa do entendimento desta Corte de que é cabível a limitação temporal do pagamento das diferenças decorrentes da conversão da URV quando há recomposição nos vencimentos decorrente de reestruturação na carreira dos servidores.
+2. Nessas hipóteses, o prazo prescricional começa a correr com a entrada em vigor de norma que que reestrutura a carreira, com a instituição de um novo regime jurídico remuneratório, limitando a existência de possíveis diferenças salariais.
+3. A Corte de origem consignou que com a edição da Lei Municipal Florianopolitana 4.643/95 houve a reestruturação na carreira dos Servidores, o que constituiu termo inicial da contagem do prazo prescricional. Tendo a ação sido ajuizada mais de cinco anos após a vigência da Lei municipal, em 2007, inexistem parcelas a serem pagas no quinquênio anterior ou posterior ao ajuizamento da ação. Precedentes: AgRg nos EDcl no AREsp. 370.300/SC, Rel. Min. MAURO CAMPBELL MARQUES, DJe 26.3.2014 e AgRg no AREsp. 11.902/SC, Rel. Min. ELIANA CALMON, DJe 9.10.2013.
+4. Agravo Regimental dos Servidores a que se nega provimento (AgRg nos EDcl no AREsp. 252.209/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 16.2.2017).
+PROCESSUAL CIVIL E ADMINISTRATIVO. URV. CONVERSÃO DE DIFERENÇAS REMUNERATÓRIAS. REESTRUTURAÇÃO DA CARREIRA. LIMITAÇÃO TEMPORAL. PARCELAS PRETÉRITAS. PRESCRIÇÃO QUINQUENAL. PRECEDENTES.
+1. Segundo a jurisprudência do STJ, o prazo prescricional começa a correr com a entrada em vigor de norma que reestrutura a carreira, com a instituição de novo regime jurídico remuneratório, limitando a existência de possíveis diferenças salariais.
+2. In casu, tendo a ação sido ajuizada mais de cinco anos após a entrada em vigor da Lei Complementar Estadual 127/2008, que, segundo a Corte de origem, teria estabelecido a reestruturação da carreira (fl. 242, e-STJ), inexistem parcelas a serem pagas no quinquênio anterior ou posterior ao ajuizamento da ação.
+3. Agravo Regimental não provido (AgRg no AREsp. 811.567/MS, Rel. Min. HERMAN BENJAMIN, DJe 23.5.2016).
+Ante o exposto, nego provimento ao recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do art. 85 do CPC/2015 e eventual gratuidade de justiça (cart. 98, § 3º, CPC/2015).
+Publique-se. Intimem-se.
