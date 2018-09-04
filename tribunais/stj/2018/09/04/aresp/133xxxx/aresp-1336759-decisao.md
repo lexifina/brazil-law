@@ -1,0 +1,28 @@
+DECISÃO
+VALMIR PIRES DA COSTA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Ceará (Apelação n. 0130394-36.2012.8.06.0001).
+Nas razões de pedir da impugnação especial, o recorrente apontou violação dos arts. 180 do Código Penal e 386, II, do Código de Processo Penal. Sustentou a ausência de prova capaz de embasar sua condenação pela prática do delito de receptação, de modo que requereu a absolvição.
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 182-185, no bojo do qual a parte impugna o óbice da Súmula n. 7 do STJ.
+O Ministério Público Federal manifestou-se, às fls. 224-227, pelo desprovimento do agravo.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais conheço do recurso e passo à análise da impugnação.
+O réu foi condenado a 3 anos de reclusão, em regime aberto, e ao pagamento de 20 dias-multa, pela prática dos delitos previstos nos arts. 14 da Lei n. 10.826/2003 e 180, caput, do CP. A pena privativa de liberdade foi substituída por restritivas de direitos.
+A Corte de origem assim se manifestou acerca do pleito de absolvição quanto ao crime de receptação (fls. 148-150):
+Busca a defesa, ainda, a absolvição do recorrente quanto ao delito de receptação, alegando ausência de provas acerca da autoria delitiva. No entanto, observa-se no acervo de provas, que o crime foi confessado pelo próprio apelante. O boletim de ocorrência acostados aos presentes autos, confirma a confissão do apelante, de que este realmente sabia da procedência ilícita do revólver que portava.
+Sustenta o defensor, a proteção pelo princípio da Presunção de Inocência, evidenciando que o agente jamais poderia ser considerado culpado, enquanto restar dúvida sobre a ocorrência do crime. Não tem razão, data maxima venia. Com efeito, a prova produzida nos autos foi analisada de maneira atenta e perspicaz pelo douto Sentenciante, obtendo-se certeza moral bastante e suficiente ao decreto condenatório.
+O crime se perfaz com o cometimento de qualquer das seguintes condutas: "adquirir, receber, transportar, conduzir, ocultar, ter em depósito, desmontar, montar, remontar, vender, expor à venda, ou de qualquer forma utilizar, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, coisa que deve saber ser produto de crime." Não resta dúvida de que o delito de receptação foi praticado, sendo a condenação medida correta.
+Em crimes dessa natureza, por se tratar o dolo de elemento puramente subjetivo, devem ser levados em conta os indícios e as circunstâncias em que os fatos aconteceram. No caso, suficientemente demonstrado que o apelante sabia da origem ilícita da arma.
+Vale ressaltar que, malgrado as alegações defensivas, nada do que veio a ser minimamente comprovado nos autos.
+Cabe à defesa trazer aos autos qualquer elemento de prova que corrobore suas alegações, nos termos do art. 156 do Código de Processo Penal, mister do qual não se desincumbiu.
+Portanto, à luz de todos os depoimentos acostados ao feito, aliados à materialidade do crime, estão evidenciados os elementos caracterizadores do delito em espécie e a respectiva responsabilidade penal de seu autor, ressaindo, como medida de rigor, a manutenção do decreto condenatório firmado em primeira instância.
+Portanto, verificado que a sentença está em consonância com as provas colhidas durante a instrução criminal, haja vista as declarações das testemunhas, aliadas às circunstâncias fáticas que envolveram os delitos em questão, não há falar em absolvição.
+Pelo excerto transcrito, verifica-se que o Tribunal de Justiça, com base na livre apreciação das provas produzidas sob o crivo do contraditório, concluiu existirem provas suficientes de haver o recorrente concorrido para a infração penal.
+Dessa forma, rever o entendimento manifestado no acórdão recorrido demandaria o reexame de provas, providência vedada no recurso especial, a teor da Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE RECEPTAÇÃO. PRETENDIDA ABSOLVIÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- O Tribunal a quo concluiu pela existência de provas suficientes para manter a condenação do réu, é entender de forma diversa, como pretendido, no sentido de absolver o acusado, demandaria necessariamente o reexame do conjunto fático-probatório, o que é vedado em recurso especial, a teor do Enunciado n. 7 da Súmula desta Corte Superior.
+Agravo regimental desprovido. (AgRg no AREsp n. 674.045/DF, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 1º/6/2015, grifei.)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. INSUFICIÊNCIA PROBATÓRIA PARA CONDENAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ E 279/STJ.
+O recurso especial não será cabível quando a análise da pretensão recursal - pleito absolutório por insuficiência probatória - exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários. (Súmula 07/STJ e Súmula 279/STF).
+Agravo regimental desprovido. (AgRg no AREsp n. 591.432/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 12/5/2015, destaquei.)
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
