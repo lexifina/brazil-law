@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    JSL S. A. assevera haver o Juízo da Quarta Vara do Trabalho de São Bernardo do Campo/SP, no processo nº 0002375-12.2010.5.02.0464 , olvidado o que decidido na medida cautelar na ação declaratória de constitucionalidade nº 48.
+    Segundo narra, figura como ré em ação trabalhista, ajuizada contra si pelo ora interessado, na qual buscado o pagamento de verbas trabalhistas ante o pretendido reconhecimento de vínculo empregatício. Consoante argumenta, postulou, no curso da demanda, a suspensão do processo considerado o envolvimento de discussão sobre a observância da Lei nº 11.442/2007. Relata o indeferimento do pleito pelo Juízo reclamado, uma vez que a relação jurídica surgida entre si e o trabalhador teria sido iniciada antes da vigência do diploma, no que irrelevante, no caso, o deslinde da ação declaratória de constitucionalidade nº 48. Não houve êxito em subsequente pedido de reconsideração. Evoca jurisprudência.
+    Reputa contrariada a óptica adotada na ação declaratória, assinalando que o relator, ministro Luís Roberto Barroso, implementou, em 19 de dezembro de 2017, medida acauteladora para determinar a imediata suspensão de todos os casos a versarem a aplicação de dispositivos da referida Lei.
+    Requer, no campo precário e efêmero, seja suspensa a eficácia do pronunciamento impugnado e o andamento da execução na origem. Pretende, alfim, a declaração de nulidade da sentença prolatada na fase de conhecimento, mantendo-se a suspensão do processo até o julgamento definitivo do paradigma.
+    2. Mostra-se inadequado o inconformismo. Embora a reclamante se insurja contra ato, praticado no curso de execução trabalhista, que implicou o indeferimento de pedido de suspensão em virtude do decidido na ação declaratória de constitucionalidade nº 48, o pedido está voltado à rescisão da sentença exequenda. Descabe o manuseio da reclamação quando já ocorrido o trânsito em julgado. Atentem para o previsto no artigo 988, § 5º, inciso I, do Código de Processo Civil e para o verbete nº 734 da Súmula deste Tribunal, com o seguinte teor:
+    Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.
+    No mais, a par da impropriedade, especialmente mediante decisão individual do Relator, da concessão de liminar em ação declaratória de constitucionalidade para afastar, ainda que temporariamente, a jurisdição, ante o previsto no artigo 5º, inciso XXXV, da Constituição Federal, verifica-se, a esta altura, a ineficácia da medida de urgência tida por desrespeitada, porquanto extrapolado o lapso previsto na parte final do artigo 21, parágrafo único, da Lei nº 9.868/1999, a prever:
+    Art. 21. [...]
+    Parágrafo único. Concedida a medida cautelar, o Supremo Tribunal Federal fará publicar em seção especial do Diário Oficial da União a parte dispositiva da decisão, no prazo de dez dias, devendo o Tribunal proceder ao julgamento da ação no prazo de cento e oitenta dias, sob pena de perda de sua eficácia.
+    O legislador estipulou limite temporal estrito no tocante aos efeitos da liminar em ação declaratória de constitucionalidade, considerada a excepcionalidade da suspensão, no que manieta o Poder Judiciário em relação ao controle difuso de validade das normas. Uma vez formalizado a pronunciamento dito olvidado em 19 de dezembro de 2017, ou seja, há mais de 180 dias, sem que o processo objetivo tenha sido apreciado pelo Pleno, estão esgotados os respectivos efeitos.
+    4. Nego seguimento à reclamação.
+    5. Publiquem.
+Brasília, 4 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
