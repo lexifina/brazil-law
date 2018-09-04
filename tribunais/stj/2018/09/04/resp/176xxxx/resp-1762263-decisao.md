@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ICMS. TRANSFERÊNCIA DE MERCADORIA DE UM ESTABELECIMENTO PARA OUTRO. ESTADOS DIVERSOS. FATO GERADOR. ENTENDIMENTO FIRMADO PELA PRIMEIRA SEÇÃO DO STJ, SOB O RITO DO ART. 543-C DO CPC/73. RESP 1.125.133/SP. SÚMULA 166/STJ. ART. 204 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. CONHEÇO PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/MG, assim ementado (fl. 411):
+AÇÃO ANULATÓRIA DE DÉBITO FISCAL - DEPÓSITO COMPLEMENTAR - RESTITUIÇÃO - REMESSA A DEPÓSITO - CIRCULAÇÃO JURÍDICA DA MERCADORIA - AUSÊNCIA - FATO GERADOR DO ICMS - INOCORRÊNCIA - SUBSTITUIÇÃO TRIBUTÁRIA - BASE DE CÁLCULO - INCLUSÃO DA MARGEM DE LUCRO PRESUMIDA - RECOLHIMENTO DO TRIBUTO PELO/ REGIME GERAL DE APURAÇÃO DO ICMS - PAGAMENTO DA DIFERENÇA - JUROS - INCIDÊNCIA SOBRE A MULTA - HONORÁRIOS ADVOCATÍCIOS - REDUÇÃO.
+- Suspende a exigibilidade do crédito tributário o depósito da quantia correspondente ao valor da dívida, na data em que foi efetuado.
+- Não incide ICMS sobre a operação de remessa de mercadoria a depósito, por inexistir, nesse caso, a circulação jurídica do produto.
+- No regime da substituição tributária, o contribuinte recolhe o tributo antecipadamente, com base de cálculo presumida, que deve incluir a margem de valor agregado, o que inclui a parcela referente ao lucro.
+ - A parcela referente ao lucro deve ser presumida, com base em circunstâncias e práticas mercantis.
+ - Evidencia-se a legalidade da fixação da margem de lucro presumida, por meio de Regulamento.
+- Devem ser descontados do montante devido os valores recolhidos a título de ICMS pelo regime geral de apuração do tributo, mediante creditamento na entrada e lançamento na saída, apurando-se a diferença entre o valor devido no regime de substituição tributária em liquidação de sentença.
+ - Os juros devem incidir sobre o crédito tributário, que abrange a multa.
+- Sendo excessiva a verba honorária, cabível a sua redução.
+- Agravo retido provido.
+- Apelação provida em parte.
+Embargos de declaração rejeitados
+O recorrente alega violação do artigos 165, 458, II e III, e 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a (às) questão (ões) de fundo, sustenta ofensa ao(s) artigos 480, 481 e 482 do CPC/1973, 12, I, e 13, I, da LC 87/1996, 204 do CTN e 97 da CF/1988, sob os seguintes argumentos: (a) No caso dos autos, está claroque o acórdão contrariou, a céu aberto, a letra da LC 87/96, em seu art. 12, I, o que é suficiente, data venia, para o conhecimento e o provimento do recurso especial; (b) Por sua vez, nem se diga que o entendimento do STJ já estaria consolidado no mesmo sentido da Súmula 166, porque, como se sabe, o STJ reabriu a discussão envolvendo o tema; (c) Ora, data venia, a presunção de certeza e de liquidez do crédito público não pode ser afastada, elidida, por uma simples alegação feita pelo contribuinte, sem a mínima prova, de que teria feito o recolhimento de valores a ser abatidos no crédito tributário.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 569.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Afasta-se a alegada violação dos artigos 165, 458, II e III, e 535, I e II, do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Por outro lado, quanto à alegação de violação ao art. 97 da CF/1988, 480, 481 e 482 do CPC/1973, e ao enunciado 10 da Súmula Vinculante do Supremo Tribunal Federal, não há falar, na hipótese, em declaração de inconstitucionalidade dos dispositivos legais tidos por violados, tampouco afastamento destes, mas tão somente em interpretação do direito infraconstitucional aplicável ao caso, com base na jurisprudência desta Corte. Ademais, não compete ao STJ examinar na via especial suposta violação a dispositivos ou mesmo princípios constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal. Nesse sentido:
+ADMINISTRATIVO - DEPÓSITO PRÉVIO - EXIGIBILIDADE - COMPATIBILIDADE COM O ART. 151, INCISO III, DO CTN - ARTS. 480, 481 E 482 DO CPC - OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO - PRECEDENTES.
+1. A controvérsia em torno da cláusula de reserva de plenário escapa à apreciação do recurso especial, uma vez que os dispositivos supostamente violados reproduzem o art. 97 da Constituição da República.
+2. É entendimento iterativo do STJ no sentido de que a exigência do depósito prévio, como pressuposto de admissibilidade de recurso administrativo, prevista no art. 126, § 1º, da Lei n. 8.213/91, com a redação dada pelo art. 10 da Lei n. 9.639/98, é compatível com o art. 151, inciso III, do CTN.
+Recurso especial parcialmente conhecido e, nesta parte, provido.
+(REsp 861.054/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/10/2006, DJ 17/10/2006, p. 279)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO ASSENTADO SOBRE FUNDAMENTAÇÃO DE NATUREZA EMINENTEMENTE CONSTITUCIONAL.
+DISSÍDIO PRETORIANO NÃO DEMONSTRADO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC.
+1. O princípio da reserva de plenário, em controle difuso de constitucionalidade, reveste-se de natureza constitucional (art. 97 da CF).
+2. O acórdão recorrido assenta sobre fundamentação de índole eminentemente constitucional, razão pela qual, estando a competência do STJ, delimitada pelo art. 105, III, da Constituição, restrita à uniformização da legislação infraconstitucional, é inviável o conhecimento do recurso especial.
+3. A divergência jurisprudencial ensejadora do conhecimento do recurso especial pela alínea c deve ser devidamente demonstrada, conforme as exigências dos arts. 541, § único, do CPC e 255 do RISTJ.
+4. Não viola o artigo 535 do CPC, nem importa negativa de prestação jurisdicional, o acórdão que adota fundamentação suficiente para decidir de modo integral a controvérsia posta.
+5. Recurso especial parcialmente conhecido e, nesta parte, improvido.
+(REsp 787.626/PE, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 16/02/2006, DJ 06/03/2006, p. 235)
+Quanto ao mérito, no que diz respeito à alegada violação aos artigos 12, I, e 13, I, da LC 87/1996, a Primeira Seção do STJ, no julgamento do REsp 1.125.133/SP (DJe de 10/09/2010), submetido ao regime dos recursos especiais repetitivos, consagrou o entendimento no sentido de que o "deslocamento de bens ou mercadorias entre estabelecimentos de uma mesma empresa, por si, não se subsume à hipótese de incidência do ICMS, porquanto, para a ocorrência do fato imponível é imprescindível a circulação jurídica da mercadoria com a transferência da propriedade" (STJ, REsp 1.125.133/SP, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, DJe de 10/09/2010).
+Assim, na forma da jurisprudência, esta "Corte Superior já se manifestou no sentido de que se aplica a Súmula 166/STJ - "Não constitui fato gerador do ICMS o simples deslocamento de mercadoria de um para outro estabelecimento do mesmo contribuinte" - ainda que o deslocamento de bens de um estabelecimento para outro, pertencente ao mesmo titular, esteja situado em Estado diverso" (STJ, AgRg no AREsp 851.631/SP, Rel. Ministra DIVA MALERBI (Desembargadora Federal convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 14/03/2016).
+Aplica-se à hipótese a Súmula 568/STJ.
+No que diz respeito ao artigo 204 do CTN (e a tese a ele vinculada), verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ainda quanto ao art. 204 do CTN, não é possível conhecer do recurso especial que apresenta sua suposta, pois o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
