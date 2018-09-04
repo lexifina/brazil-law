@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ALEGADA PRESCRIÇÃO DO FUNDO DO DIREITO. SEGUIMENTO NEGADO PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO NO ART. 1.040, I, DO CPC/2015. ÔNUS PROBATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 211/STJ. AGRAVO CONHECIDO PARA SE NEGAR CONHECIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de CAIXA BENEFICENTE DA POLICIA MILITAR DO ESTADO DE SAO PAULO fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO CIVIL PÚBLICA - Associação dos Oficiais, Praças e Pensionistas da Polícia Militar do Estado de São Paulo que pleiteia direito coletivo dos associados, consistente no recebimento de diferenças remuneratórias, diante da conversão dos vencimentos em URV - Lei 8.880/94 - Art. 22 da LF nº 8.880/94 que prevê a aludida conversão desde 1º de março de 1994 - Tribunais Superiores que têm entendido ser perfeitamente cabível a apontada conversão em URV"s das remunerações dos servidores de todas as esferas da Federação - Sentença de extinção da ação, nos termos do art. 269, IV, do CPC, diante do reconhecimento da prescrição do fundo de direito, afastada e, com base no art. 515, par. 3º, do CPC, julgar a ação procedente, considerando apenas a possibilidade de execução do julgado pelos associados que provar o ingresso no serviço público após a vigência da Lei nº 8.880/94 - Prescrição qüinqüenal reconhecida (Súmula 85 STJ) - Legitimidade ativa da Associação reconhecida - Recurso da autora provido.
+Os embargos de declaração foram acolhidos para corrigir erro material.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos: a) art. 1º do Dec. n. 20.910/1932, alegando a ocorrência de prescrição de fundo de direito no caso; b) art. 333, I e II, do CPC/1973, sustentando que o recorrido não cumpriu com seu ônus de comprovar a defasagem salarial sofrida.
+Houve contrarrazões (e-STJ fls. 405/436).
+Sobreveio juízo negativo de admissibilidade fundado na necessidade de revolvimento do acervo fático e probatório.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada (e-STJ fls. 587/610).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A insurgência não prospera.
+O recorrente aponta a violação do art. 1º do Dec. n. 20.910/1932, alegando a ocorrência de prescrição de fundo de direito. Ocorre que, quanto à referida questão, o juízo de admissibilidade negou seguimento ao recurso especial, assentando-se no art. 1.040, I, do CPC/2015, visto que a controvérsia já havia sido solucionada por meio da sistemática de recursos repetitivos.
+Isto posto, o conhecimento da questão nesta seara recursal é inexequível, visto que sua impugnação só é possível por meio de agravo regimental na origem. A propósito:
+TRIBUTÁRIO. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADICIONAL DE INSALUBRIDADE E TRANSFERÊNCIA. INCIDÊNCIA. PRECEDENTES. SÚMULA 284. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Inviabilizada a ascensão do especial quanto à incidência de contribuição previdenciária sobre horas extras, adicional noturno e adicional de periculosidade em decorrência do disposto no art. 1.040, I, do CPC/2015 (antigo art. 543-C, § 7º, I, do CPC/73), impugnável apenas por meio de agravo regimental na origem, o recurso enseja conhecimento apenas quanto à parte admitida.
+(..)
+V - Agravo interno improvido.
+(AgInt no REsp 1616881/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/02/2018, DJe 14/02/2018)
+Prosseguindo, a parte recorrente aponta a violação do art. 333, I e II, do CPC/1973, sustentando que o recorrido não cumpriu com seu ônus de comprovar a defasagem salarial sofrida. No ponto, resta obstado o exame especial.
+Isso porque não houve apreciação pelo Tribunal de origem sobre o dispositivo e sobre a tese por ele abarcada, o que impossibilita o julgamento do recurso no ponto, por ausência de prequestionamento, incidindo, no caso, o óbice da Súm. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Efetivamente, para a configuração do questionamento prévio não é necessário que o Tribunal de origem mencione expressamente o dispositivo infraconstitucional tido como violado. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não-preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso especial. Tal medida se justifica pelo simples fato de que não poderia o Tribunal de origem ter contrariado lei quanto a matéria que sequer tratou.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
