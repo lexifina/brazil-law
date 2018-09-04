@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança, interposto por WESLEY CONCEIÇÃO LOPES, com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás, que denegou a segurança postulada pela parte ora recorrente, nos termos da seguinte ementa:
+"MANDADO DE SEGURANÇA. EXCLUSÃO DE ANOTAÇÕES E REGISTROS CRIMINAIS. IMPOSSIBILIDADE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. Os registros e informações relativas a processo criminal em que houver extinção da punibilidade ou absolvição não poderão ser excluídas do banco de dados da Integração das Informações de Segurança Pública, Justiça e Fiscalização - Infoseg, conforme assentado pela jurisprudência do Superior Tribunal de Justiça, em analogia ao que dispõe o art. 748 do CPP, porquanto necessários para comprovar fatos e situações jurídicas.
+MANDADO DE SEGURANÇA CONHECIDO E DENEGADO" (fl. 60e).
+Nas razões do Recurso Ordinário, sustenta, em síntese, que, "pelo fato do Recorrente ter respondido ação penal, porém absolvido, não pode continuar sofrendo constrangimento desnecessário e abalo moral, de modo que necessita que seu nome seja excluído dos dados e respectivas anotações do sistema INFOSEG" (fl. 91e).
+Por fim, requer "seja excluído o nome do Recorrente, dos dados e respectivas anotações do sistema INFOSEG (Integração das Informações de Segurança Pública, Justiça e Fiscalização) originários dessa ação penal" (fl. 93e).
+Sem contrarrazões.
+Em seu parecer (fls. 115/118e), o Ministério Público Federal manifestou-se pelo desprovimento do Recurso Ordinário.
+À fl. 120e, determinei a intimação da parte recorrente para que promovesse o recolhimento do preparo, em dobro, na forma do art. 1.007, § 4º, do CPC/2015, transcorrendo in albis o prazo, consoante certidão de fl. 123e.
+Reza o art. 1.007 do CPC/2015, que no ato da interposição do recurso, o recorrente comprovará, quando exigido, o respectivo preparo, sob pena de deserção.
+Contudo, a norma processual vigente não autoriza o julgador a aplicar a pena de deserção de imediato, determinando, quando não comprovado no ato da interposição do recurso o devido preparo, a intimação do recorrente, na pessoa de seu advogado, para que realize o recolhimento em dobro, sob pena de deserção, ex vi do § 4º do art. 1.007, do CPC/2015.
+In casu, diante da ausência da comprovação do recolhimento do preparo devido ao STJ no ato da interposição do presente Recurso Ordinário, determinei, a fl. 120e, a intimação da parte ora recorrente, para que promovesse o recolhimento do preparo, na forma do art. 1.007, § 4º, do CPC/2015, sob pena de deserção, o que não foi atendido pelo recorrente, conforme certidão de fl. 123e, de sorte que não há como conhecer-se do presente Recurso Ordinário, por ser deserto.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente Recurso Ordinário, por ser deserto.
+I.
