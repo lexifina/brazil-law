@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FALTA DE INSTRUMENTO PROCURATÓRIO. INTIMAÇÃO PARA REGULARIZAÇÃO. PRAZO TRANSCORRIDO COM MANIFESTAÇÃO. RECONSIDERAÇÃO DA DECISÃO. RECURSO ESPECIAL. ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. ENUNCIADO SUMULAR N. 284 DO STF, POR ANALOGIA.
+1. Diante da regularização do vício da representação processual no prazo legal, após a parte ser intimada, o recurso subscrito por advogado com procuração nos autos deve ser conhecido, por força dos artigos 76, § 2º, e 104 do CPC/2015, a contrario sensu.
+2. Impossível conhecer do especial interposto com fundamento na alínea c do inciso III do artigo 105 da Constituição Federal. Mesmo nesses casos, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, sob pena de atração do Enunciado Sumular n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente). Precedentes.
+3. Agravo interno a que se dá provimento, para reconsiderar a decisão agravada. Agravo em recurso especial conhecido para não se conhecer do recurso especial.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, dar provimento ao agravo interno para reconsiderar a decisão agravada, conhecendo-se do agravo em recurso especial para não se conhecer do recurso especial, nos termos do voto Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Cuida-se de agravo interno interposto pela FUNDAÇÃO WALDEMAR BARNSLEY PESSOA, inconformada com a decisão da Ministra Presidente do Superior Tribunal de Justiça que reconheceu a irregularidade na representação processual.
+Em suas razões, a parte agravante aponta que "há nos autos cadeia completa de substabelecimento conferindo poderes aos advogados, conforme substabelecimento de fls. E-STJ 188 e fls. E-STJ 453" (fl. 462).
+Discorre sobre a existência de divergência entre o entendimento desta Corte e o acórdão proferido pela Corte de origem. Nessa linha, defende que o inadimplemento contratual não caracteriza o dever de indenizar por danos morais.
+É o relatório.
+VOTO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (RELATOR):
+Na presente hipótese, a Presidência constatou que não havia nos autos procuração e/ou cadeia completa de substabelecimento conferindo poderes à subscritora do agravo em recurso especial, Dra. [NOME]. Determinou, então, na mesma decisão, com fundamento no artigo 76 e no artigo 932, parágrafo único, do CPC/2015, a regularização da representação processual, no prazo de 5 (cinco) dias e sob pena de não conhecimento do recurso.
+A agravante peticionou nos autos procurações e substabelecimentos que conferem poderes ao signatário do recurso antes do final do lapso temporal concedido, conforme fls. 118-119, 188-189 e 452-453.
+Superada a falta de capacidade postulatória, reconsidero a decisão agravada (e-STJ, fl. 449), com base no artigo 259 do RISTJ, e passo a novo exame do agravo em recurso especial e do apelo especial.
+Não obstante o agravo em recurso especial mereça ser conhecido, impossível conhecer do especial interposto com fundamento na alínea c do inciso III do artigo 105 da Constituição Federal.
+De fato, nas razões do recurso especial, a ora agravante aponta divergência jurisprudencial acerca da possibilidade de condenação por danos morais diante de descumprimento contratual. Ocorre que, mesmo nesses casos, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, sob pena de atração do Enunciado Sumular n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente). Nesse sentido, ganham relevância os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - DELIBERAÇÃO MONOCRÁTICA QUE RECONSIDEROU DECISÃO ANTERIORMENTE PROFERIDA, PARA CONHECER DO RECLAMO A FIM DE NEGAR SEGUIMENTO AO RECURSO ESPECIAL, ANTE A INCIDÊNCIA DA SÚMULA 284/STF. INSURGÊNCIA DOS DEMANDADOS.
+1. Nos termos do art. 52, I e IV, "a" do RISTJ, não há nulidade no exercício do juízo de retratação pelo novo relator, quando do julgamento de agravo regimental. Precedentes.
+2. A ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+3. Agravo regimental desprovido (AgRg no AgRg no Ag 1155444/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016)
+Ante o exposto, dou provimento ao presente agravo interno para reconsiderar a decisão agravada e, conhecendo do agravo em recurso especial, não conhecer do recurso especial.
+É como voto.
