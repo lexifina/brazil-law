@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos ter sido o recorrente condenado pela prática do crime previsto no art. 121, caput, do Código Penal.
+Interposta apelação no Tribunal de origem, o recurso foi desprovido, com posterior certificação do trânsito em julgado (e-STJ fl. 87).
+Nas razões deste recurso, sustenta a defesa que "o advogado que este assina, não deixou passar in álibis o prazo para oferecer razões, conforme afirmado pelo Nobre Promotor de Justiça designado, pois, desde 19 de outubro de 2007, não era mais advogado do ora paciente, provado pela cópia do substabelecimento anexo (doc.O1), sem reservas de iguais" (e-STJ fl. 53).
+Aduz, ainda, que, "como restou provado no Habeas Corpus impetrado, E A DEFICIENCIA NA DEFESA APRESENTADA, pelo Digno Defensor Dativo nomeado, que deixando de requerer em suas razões de apelação interposta à Segunda Instância, a retroatividade da lei penal mais favorável ao paciente, possibilitaria com isto, que o órgão jurisdicional ad quem julgasse o aumento abusivo da pena do paciente, e esta deixaria de existir, tornando o cumprimento da pena, possivelmente já em regime semi-aberto. Em razão do citado acima, provado está o imenso prejuízo causado ao réu ora paciente, com a deficiência na Apelação apresentada, notado pelo Nobre Desembargador que foi o relator na apelação interposta  .. " (e-STJ fls. 152/153).
+Requer a nulidade da defesa apresentada pelo defensor dativo e do trânsito em julgado ante a deficiência de defesa (e-STJ fl. 153).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 173/176 e 195).
+É o relatório.
+Não há como conhecer da irresignação.
+É que o pedido de nulidade não foi examinado pelo Tribunal a quo no writ originário, o que impede esta Corte de analisar os temas sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: ed. JusPodivm, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para o processamento e julgamento do tema, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevida supressão de instância.
+ ..
+(HC 387.938/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017, grifei)
+ ..
+REVISÃO CRIMINAL JULGADA IMPROCEDENTE ANTE A FALTA DE PROVA PRÉ-CONSTITUÍDA E DA AUSÊNCIA DE COMPROVAÇÃO DAS ALEGAÇÕES FORMULADAS. PRETENSÃO DE INSTAURAÇÃO DE UM TERCEIRO GRAU DE JURISDIÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO QUE ENSEJOU A CONDENAÇÃO DO IMPETRANTE PACIENTE. CONSTRANGIMENTO NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. Não tendo o impetrante-paciente apresentado prova pré-constituída de suas alegações na instância de origem, tampouco impugnado os fundamentos do acórdão que substituiu a sentença condenatória, outro não poderia ser o resultado do julgamento empreendido pela Corte a quo, que julgou improcedente a revisão criminal, consignando a pretensão de instauração de um terceiro grau de jurisdição para apreciar o caso.
+2. Ademais, mostra-se inviável a análise, diretamente por este Superior Tribunal de Justiça, da apontada utilização de depoimento falso de uma testemunha, da indigitada falta de fundamentação da exasperação da pena-base, da alegada impossibilidade de incidência da causa de aumento prevista no inciso I do artigo 18 da Lei 6.368/1976, da suscitada nulidade do feito pelo fato de o paciente não haver recebido as acusações contra si formuladas em sua língua, da aventada inexistência de motivação da sentença condenatória, da indicada omissão quanto ao direito do condenado de apelar em liberdade, e da mencionada deficiência de sua defesa, tendo em vista que essas matérias não foram apreciadas pela Corte Estadual, sob pena de incidir-se em indevida supressão de instância.
+3. Ordem denegada.
+(HC 161.829/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 11/10/2011, DJe 28/10/2011)
+O entendimento exarado pelo Ministério Público Federal vai ao encontro da conclusão ora alcançada (e-STJ fls. 173/176).
+À vista do exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
