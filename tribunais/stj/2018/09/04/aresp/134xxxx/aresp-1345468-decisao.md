@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, em 13/07/2018, contra decisão do Tribunal Regional Federal da 4ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL.
+BLOQUEIO DE ATIVOS FINANCEIROS. CONTA-CORRENTE. LIMITE DE QUARENTA SALÁRIOS-MÍNIMOS. INTERPRETAÇÃO EXTENSIVA.
+1. A impenhorabilidade da quantia de até 40 salários-mínimos é extensível também aos valores mantidos em conta-corrente e não apenas àqueles poupados em caderneta. Precedentes do STJ" (fl. 38e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa aos artigos 789, 797 e 833 do CPC/2015, sob a tese de que somente é garantida a impenhorabilidade, até o limite de 40 (quarenta) salários mínimos, da quantia depositada em caderneta de poupança, sendo possível que a penhora recaia sobre dinheiro depositado em conta corrente.
+Requer, ao final, o provimento do Recurso Especial.
+Em contrarrazões, a parte ora agravada assevera que deve ser negado seguimento ao Recurso Especial.
+Negado seguimento ao Recurso Especial (fls. 62/64e), foi interposto o presente Agravo (fls. 73/78e).
+Em contraminuta, a parte agravada afirma que deve ser mantida a decisão de inadmissibilidade do Recurso Especial.
+A irresignação não merece acolhimento.
+Acerca da controvérsia, constou do acórdão recorrido que, "nos termos da jurisprudência do STJ, a impenhorabilidade da quantia de até 40 salários-mínimos é extensível também aos valores mantidos em conta-corrente e não apenas àqueles poupados em caderneta" (fl. 36e).
+Tal entendimento não merece reforma. Isso porque a jurisprudência desta Corte se firmou no sentido de que "é possível ao devedor, para viabilizar seu sustento digno e de sua família, poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (STJ, REsp 1.340.120/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 19/12/2014).
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. DEFICIÊNCIA NAS RAZÕES RECURSAIS. INCIDÊNCIA DA SÚMULA 284/STF. EXECUÇÃO FISCAL. PENHORA. PROTEÇÃO DO ART. 833 DO CPC/2015.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula 284 do STF. Precedentes: REsp 1.595.019/SE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/5/2017; AgInt no REsp 1.604.259/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/9/2016.
+2. Há entendimento firmado do Superior Tribunal de Justiça de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe 19/12/2014).
+3. Recurso especial do qual se conhece parcialmente e, nessa extensão, nega-se-lhe provimento" (STJ, REsp 1.710.162/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018).
+"PROCESSUAL CIVIL. OFENSA AO ARTIGO 535 DO CPC. NÃO CARACTERIZAÇÃO. EXECUÇÃO FISCAL. REGRA DE IMPENHORABILIDADE. ARTIGO 833 DO CPC. LIMITE DE QUARENTA SALÁRIOS MÍNIMOS. CABIMENTO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. Segundo a jurisprudência pacificada deste STJ "é possível ao devedor, para viabilizar seu sustento digno e de sua família, poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda." (REsp 1.340.120/SP, Quarta Turma, Relator Ministro Luis Felipe Salomão, julgado em 18/11/2014, DJe 19/12/2014).
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido" (STJ, REsp 1.666.893/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+"PROCESSO CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ARTIGO 535 DO CPC. NÃO CARACTERIZAÇÃO. EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADE DO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. Segundo a jurisprudência pacificada deste STJ "é possível ao devedor, para viabilizar seu sustento digno e de sua família, poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda." (REsp 1.340.120/SP, Quarta Turma, Relator Ministro Luis Felipe Salomão, julgado em 18/11/2014, DJe 19/12/2014).
+3. Agravo regimental não provido" (STJ, AgRg no REsp 1.566.145/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2015).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+I.
