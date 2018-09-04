@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com respaldo nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 181):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - CERCEAMENTO DE DEFESA - REALIZAÇÃO DE PROVA PERICIAL - PRELIMINAR REJEITADA - APROVAÇÃO EM CONCURSO PÚBLICO - EXAME MÉDICO - INAPTIDÃO - DISFONIA - LEGALIDADE DO ATO ADMINISTRATIVO - IMPROCEDÊNCIA DO PEDIDO - DESPROVIMENTO DO RECURSO.
+- A revisão do ato administrativo que excluiu o candidato do certame, baseado em perícia, ainda que judicial, realizada posteriormente pelo candidato e num contexto diverso, visando contrapor à sua contraindicação, ofende o princípio da isonomia, já que a higidez física do candidato deve ser avaliada à época do certame, assim como ocorreu com todos os demais candidatos.
+- A existência de laudo confeccionado por médico não se presta à desconstituição do laudo oficial realizado no certame e que goza de presunção de veracidade, enquanto ato da Administração Pública.
+No especial, a parte recorrente aponta a existência de cerceamento de defesa, na medida em que foi negado seu pedido de produção da prova pericial. Alega, também, a ocorrência de dissídio jurisprudencial.
+Contrarrazões foram apresentadas às fls. 210/214.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, cumpre destacar que, em relação à tese levantada, não houve a indicação precisa de enunciado normativo federal violado pelo acórdão a quo, tornando impossível o conhecimento do recurso especial em razão da formulação de teses recursais genéricas e deficientes. Incidência da súmula n. 284 do STF.
+Além disso, ressalvado o meu entendimento pessoal, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio. Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do STF.
+A propósito, os precedentes de ambas as Turmas que integram a Primeira Seção deste Tribunal:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E 7/STJ.
+ ..
+2. Também no recurso especial lastreado na alegada existência de divergência pretoriana se exige do recorrente a precisa indicação do dispositivo de lei federal que se afirma violado, sob pena de incidência da Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp 1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe 23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra Maria Isabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento (AgRg no AREsp n. 770.014/SC, relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 03/02/2016).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA. RURAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+Observa-se grave defeito de fundamentação no apelo especial, uma vez que o agravante não particulariza quais os preceitos legais infraconstitucionais estariam supostamente afrontados. Assim, seu recurso não pode ser conhecido nem pela alínea "a" e tampouco pela alínea "c" do permissivo constitucional, porquanto, ao indicar a divergência jurisprudencial sem a demonstração do dispositivo de lei violado, caracterizadas estão a alegação genérica e a deficiência de fundamentação recursal.
+Agravo regimental improvido (AgRg no AREsp n. 821.869/SP, relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 24/02/2016).
+Registre-se, ainda, que o acórdão paradigmático é do mesmo Tribunal prolator do aresto hostilizado, motivo pelo qual incide à pretensão o óbice da Súmula 13 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo. Suspensa a exigibilidade por tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
