@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de petição apresentada às e-STJ fls. 717/720, na qual o requerente [NOME] postula a extinção da punibilidade pela prescrição da pretensão punitiva.
+Consta nos autos que o Conselho Especial de Justiça condenou o réu, ora requerente, à pena total de 4 (quatro) anos, 2 (dois) meses e 12 (doze) dias de reclusão, em regime inicial semiaberto, pela prática dos crimes previstos nos arts. 303, caput, e 312, ambos do Código Penal Militar.
+Contra a sentença a defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento.
+Opostos embargos de declaração, eles foram rejeitados.
+Irresignada, a defesa interpôs recurso especial, que foi inadmitido.
+A defesa insurgiu-se, então, por meio de agravo em recurso especial (e-STJ fls. 681/688).
+O Ministério Público Federal manifestou-se, às e-STJ fls. 703/710, pelo desprovimento do agravo.
+Daí a petição apresentada às e-STJ fls. 717/720, na qual o requerente [NOME] postula a extinção da punibilidade pela prescrição da pretensão punitiva.
+Instado a se manifestar, o Parquet Federal opinou pelo indeferimento do pleito, consignando que "desde a publicação do acórdão condenatório que confirmou a sentença (publicado no dia 19/11/2010) até a presente data também não ultrapassado o referido prazo de 8 (oito) anos, afastando-se, de plano, a arguição de prescrição da pretensão punitiva" (e-STJ fl. 733).
+É o relatório. Decido.
+Verifica-se que o agravo em recurso especial está prejudicado pela superveniência da prescrição da pretensão punitiva. Senão, vejamos.
+Consoante dispõe o art. 110, § 1º, do Código Penal, "a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa" (redação dada pela Lei n. 12.234, de 2010).
+No caso, constata-se da acurada leitura dos autos que a sentença fixou a pena definitiva do agravante para o delito de falsidade ideológica em 1 ano, 2 meses e 12 dias de reclusão, e, para o delito de peculato, em 3 anos de reclusão. Não houve recurso da acusação.
+Com essas penas, a pretensão punitiva prescreve em 4 e em 8 anos, respectivamente, conforme prevê o art. 109, incisos IV e V, do Código Penal, in verbis:
+Art. 109. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1º do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: (Redação dada pela Lei nº 12.234, de 2010).
+ ..
+IV - em oito anos, se o máximo da pena é superior a dois anos e não excede a quatro;
+V - em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois.
+Ressalte-se que a orientação jurisprudencial pacífica desta Corte é no sentido de que, nos termos do art. 117, IV, do Código Penal, o curso da prescrição interrompe-se pela publicação da sentença ou do acórdão condenatório recorríveis, o que acontecer primeiro; sendo certo que o acórdão que apenas confirma a condenação, ainda que modifique a pena fixada, não constitui novo marco prescricional. Confira-se, a propósito, o seguinte julgado da Corte Especial do STJ:
+AGRAVO REGIMENTAL EM PETIÇÃO EM RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO. EXTINÇÃO DA PUNIBILIDADE. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO, MAS QUE MAJOROU A PENA APLICADA. NÃO OCORRÊNCIA DE NOVO MARCO INTERRUPTIVO DA PRESCRIÇÃO. PRESCRIÇÃO CARACTERIZADA.
+1. Nos termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição. Precedentes: AgRg nos EDcl no AgRg no Ag 1.112.682/SP, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 1º/3/2016, DJe 9/3/2016; AgRg no AgRg no REsp 1.393.682/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/4/2015, DJe 6/5/2015, HC 243.124/AM, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 20/8/2012 .
+2. Hipótese em que o agravado foi condenado a penas superiores a 4 e inferiores a 8 anos de reclusão, incidindo, portanto, o prazo prescricional de 12 anos, nos termos do disposto no art. 109, inciso III, do Código Penal.
+3. Da última causa interruptiva da prescrição, a publicação da sentença condenatória, em 24/1/2002, até a decisão agravada, observa-se o transcurso de mais de 12 anos para ambos os crimes imputados ao réu. Não tendo sido iniciado o cumprimento da pena nem tendo ocorrido nenhuma outra causa interruptiva, está caracterizada a prescrição.
+Agravo regimental improvido (AgRg no RE nos EDcl no REsp. 1.301.820/RJ, Rel. Ministro Humberto Martins, DJe 24/11/2016, grifei.)
+Confiram-se, ainda, os seguintes julgados desta Corte:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE MOEDA FALSA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. O ACÓRDÃO QUE CONFIRMA A CONDENAÇÃO NÃO INTERROMPE O LAPSO PRESCRICIONAL. 1. O curso da prescrição interrompe-se pela publicação da sentença ou do acórdão condenatório recorríveis, o que ocorrer em primeiro lugar (art. 117, IV, do Código Penal).
+2. A Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp n. 1301820/RJ, Rel. Ministro Humberto Martins, DJe 24/11/2016, pacificou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, ainda que modifique a pena fixada.
+3. No caso, tendo em vista que a pena imposta ao agravado em primeiro grau, a qual se busca restabelecer, é de 6 anos, transcorreu o prazo prescricional de 12 anos (art. 109, III, do Código Penal) entre a sentença condenatória e a presente data, sendo forçoso reconhecer a prescrição da pretensão punitiva estatal.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 571.618/SP, de minha relatoria, SEXTA TURMA, julgado em 15/05/2018, DJe 29/05/2018, grifei.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO. SENTENÇA CONDENATÓRIA. ÚLTIMO MARCO INTERRUPTIVO. ACÓRDÃO CONFIRMATÓRIO. NÃO INTERRUPÇÃO. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, o acórdão que confirma a condenação não constitui marco interruptivo da prescrição." (AgRg no HC 394.467/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 20/2/2018, DJe 26/2/2018).
+2. Agravo regimental desprovido. (AgRg no REsp 1.472.729/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/05/2018, DJe 30/05/2018, grifei.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO SUPERVENIENTE. SENTENÇA CONDENATÓRIA. ACÓRDÃO QUE CONFIRMA A CONDENAÇÃO. NÃO INTERRUPÇÃO. PRECEDENTES DA 5ª E DA 6ª TURMAS DO STJ.
+1. Condenado o agravado à pena de 6 (seis) meses de detenção - excluído o aumento de 1/5, em razão da continuidade delitiva, conforme determina a Súm. n. 497/STF - prescrita está a pretensão punitiva estatal, devido ao decurso do prazo de 3 (três) anos, ocorridos desde a publicação da sentença em 17/10/2014.
+2. Nos termos da jurisprudência desta Corte Superior, o acórdão que confirma a condenação não constitui marco interruptivo da prescrição.
+3. Agravo regimental improvido. (AgRg no REsp 1.728.123/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/05/2018, DJe 30/05/2018, grifei.)
+Dessa forma, tendo em vista as penas impostas ao réu para cada delito (1 ano, 2 meses e 12 dias de reclusão para o crime de falsidade ideológica e 3 anos de reclusão para o delito de peculato), a pretensão punitiva prescreve em 4 e 8 anos, respectivamente, conforme prevê o art. 109, incisos IV e V, do Código Penal, e tais prazos foram ultrapassados entre o dia de prolação da sentença condenatória (25/9/2007, conforme e-STJ fl. 530) e a presente data.
+No mesmo sentido: REsp n. 1.578.264, rel. Ministro JOEL ILAN PACIORNIK, Data da Publicação 27/10/2017; REsp n. 1.653.789, rel. Ministro SEBASTIÃO REIS JÚNIOR, Data da Publicação 20/10/2017; REsp n. 1.424.048, de minha relatoria, Data da Publicação 18/10/2017; REsp n. 1.435.557, rel. Ministro RIBEIRO DANTAS, Data da Publicação 2/10/2017.
+Ante o exposto, com apoio no art. 107, IV, do Código Penal, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade do ora agravante pela prescrição da pretensão punitiva, em relação aos delitos que lhe são ora imputados, e julgo prejudicado o agravo em recurso especial.
+Comunique-se, com urgência, ao Tribunal de origem.
+Publique-se. Intimem-se.
