@@ -1,0 +1,45 @@
+EMENTA
+RECURSO ESPECIAL. PREPARO. JUNTADA POSTERIOR À INTERPOSIÇÃO DO RECURSO. DESERÇÃO. PRECLUSÃO CONSUMATIVA. JURISPRUDÊNCIA. NECESSIDADE DE QUE SEJA RESPEITADA.
+1. A comprovação do preparo deve ser feita no ato de interposição do recurso, conforme determina o art. 511 do Código de Processo Civil, sob pena de preclusão, não se afigurando possível a comprovação posterior, ainda que o pagamento das custas tenha ocorrido dentro do prazo recursal.
+2. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por BANCO SAFRA S A, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim ementado:
+AGRAVO DE INSTRUMENTO. DECISÃO QUE JULGOU DESERTA APELAÇÃO, DESACOMPANHADA DE PROVA DO RECOLHIMENTO DO PRERARO RECURSAL. JUNTADA POSTERIOR DE COMPROVANTES INDICANDO PAGAMENTO OPORTUNO. INEFICÁCIA. DESERÇÃO MANTIDA. A minuta recursal deve ser instruída com o comprovante de recolhimento do preparo e de pagamento das despesas de remessa de retorno dos autos já no ato de interposição.
+Recurso improvido.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 511, § 2º; 515, §4º; do Código de Processo Civil de 1973.
+Sustenta a possibilidade da juntada tardia da guia, desde que comprovado que no momento da interposição do recurso ela já estaria paga. Argumenta que a pena de deserção pode ser mitigada quando a guia tiver sido devidamente paga, anterior ou na mesma data da interposição recursal.
+Contrarrazões ao recurso especial às fls. 263-269.
+Crivo positivo de admissibilidade na origem (fls. 270-272).
+É o relatório.
+DECIDO.
+2. A jurisprudência mais recente do Superior Tribunal de Justiça consolidou-se no sentido de que não se pode conhecer do recurso interposto sem a comprovação do preparo nos moldes do art. 511, caput, do CPC/1973, devendo o recorrente, no ato da interposição do recurso, mesmo aqueles direcionados ao Tribunal a quo - como na hipótese vertente -, comprovar o recolhimento dos valores devidos, não cabendo posterior juntada do comprovante.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. DIFERIMENTO DE CUSTAS PROCESSUAIS NO ÂMBITO ESTADUAL. INAPLICABILIDADE À TAXA FEDERAL INSTITUÍDA PELA LEI N. 11.636/2007. ISENÇÃO HETERÔNOMA. IMPOSSIBILIDADE. DESERÇÃO. INCIDÊNCIA DO ENUNCIADO N. 187/STJ. JUNTADA POSTERIOR À INTERPOSIÇÃO DO RECURSO. PRECLUSÃO CONSUMATIVA. BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA. EFEITOS EX NUNC. PRECEDENTES DO STJ.
+1. Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, o Código de Processo Civil de 2015 aplica-se ao presente agravo interno.
+2. Controvérsia acerca da extensão do diferimento de custas concedido pelo Estado de São Paulo às custas processuais recolhidas no âmbito do Superior Tribunal de Justiça.
+3. O diferimento de custas, regulamentado pela Lei Estadual de n. 11.608/03, atinge apenas a taxa judiciária, que tem por fato gerador a prestação de serviços públicos de natureza forense, devida pelas partes ao Estado de São Paulo, jamais abarcando uma taxa de competência federal, sob pena de aceitar a possibilidade de instituir uma isenção heterônoma.
+4. Nos termos do art. 511 do Código de Processo Civil de 1973, cabe ao recorrente comprovar, no ato da interposição do apelo, o recolhimento do respectivo preparo, do porte de remessa e retorno, das custas judiciais, sob pena de deserção. Aplicável, in casu, a Súmula n. 187/STJ.
+5. A juntada posterior do comprovante de preparo não é circunstância apta a afastar a deserção, uma vez operada a preclusão consumativa com a interposição do recurso.
+6. De acordo com a jurisprudência deste Tribunal Superior, os efeitos da concessão do benefício da assistência judiciária são ex nunc, ou seja, não retroagem. Assim, o deferimento de tal benesse, neste momento processual, não afastaria a deserção do apelo nobre.
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1593450/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/09/2017, DJe 18/09/2017)  g.n.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. PREPARO. COMPROVAÇÃO QUE DEVE SER FEITA NO ATO DE INTERPOSIÇÃO, SOB PENA DE RECONHECIMENTO DA DESERÇÃO. JUNTADA POSTERIOR DOS COMPROVANTES. DOCUMENTOS DOS QUAIS SE EXTRAI A CERTEZA DE QUE O PAGAMENTO DAS CUSTAS FOI REALIZADO DENTRO DO PRAZO RECURSAL. IMPOSSIBILIDADE, AINDA ASSIM, DE AFASTAMENTO DA DESERÇÃO. PRECLUSÃO CONSUMATIVA. PROPOSTA DE MUDANÇA DA ORIENTAÇÃO JURISPRUDENCIAL DO STJ, FORMULADA NO JULGAMENTO DO AGRAVO REGIMENTAL NO AGRAVO N. 1.427.849/DF, QUE NÃO FOI ACOLHIDA PELA CORTE ESPECIAL. 2. APLICAÇÃO DAS NORMAS DO NOVO CÓDIGO DE PROCESSO CIVIL. NÃO ABRANGÊNCIA. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. 3. AGRAVO IMPROVIDO.
+1. A comprovação do preparo deve ser feita no ato de interposição do recurso, conforme determina o art. 511 do Código de Processo Civil - CPC/1973, sob pena de preclusão, não se afigurando possível a comprovação posterior, ainda que o pagamento das custas tenha ocorrido dentro do prazo recursal" (REsp n. 655.418/PR, Relator o Ministro Castro Meira, DJ 30/5/2005).
+2. Em atenção à Teoria do Isolamento dos Atos Processuais, não tem aplicação ao caso examinado a dinâmica processual estabelecida pelo novo Código de Processo Civil, pois, à época de interposição do agravo em recurso especial, ainda não vigia o novo CPC.
+3. Agravo interno improvido.
+(AgInt nos EDcl nos EDcl no AREsp 872.480/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/04/2017, DJe 17/04/2017)  g.n.
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 511 DO CPC. APELAÇÃO. RECOLHIMENTO DO PREPARO NÃO COMPROVADO NO ATO DA INTERPOSIÇÃO DO RECURSO. GUIAS JUNTADAS POSTERIORMENTE. IMPOSSIBILIDADE. PRECEDENTES DA CORTE.
+1. A orientação jurisprudencial desta Corte é firme no sentido de que a comprovação do preparo deve ser feita no instante da interposição do recurso, de modo a evitar a deserção, nos termos do art. 511 do CPC e da Súmula 187 do Superior Tribunal de Justiça.
+2. No caso, o Tribunal de origem relevou a falta de juntada de guia de preparo da apelação no prazo, salientando inexistência de má fé. De fato, uma cópia da Apelação foi interposta no dia 1.11.2007 sem guia de preparo, que veio a ser juntada somente cinco dias após, juntamente com requerimento de "juntada da via original da apelação com as devidas guias de preparo - recolhidas no prazo - e que, por equívoco, no ato do recebimento pelo setor de protocolo, constou para juntada aos autos a cópia" (e-STJ fl. 274). Mas a jurisprudência desta Corte é no sentido de que a guia de preparo deve ser juntada aos autos no ato da interposição do recurso (AgRg no AREsp 191522-RS, Rel. Min. MARIA ISABEL GALLOTTI), não se admitindo juntada posterior. Do fato de admitir a complementação ulterior não resulta o direito de juntar posteriormente a guia de preparo.
+3. A juntada posterior de guia, com nova peça de apelação, ainda que idêntica à anterior, tachada de cópia, não leva a relevar a falta - até porque, se admitida a prática, estaria também criado, por via oblíqua, faculdade de criar incidente processual de que deriva prejuízo para a parte contrária, vencedora ao julgamento pela sentença.
+4.- Recurso Especial conhecido e provido.
+(REsp 1410017/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/12/2013, DJe 04/02/2014)  g.n.
+PROCESSUAL CIVIL. APELAÇÃO. PREPARO. AUSÊNCIA DE COMPROVAÇÃO SIMULTÂNEA COM A PROTOCOLIZAÇÃO DO RECURSO. DESERÇÃO CARACTERIZADA. ART. 511 DO CPC.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nos termos do art. 511 do Código de Processo Civil, a comprovação do preparo há que ser feita antes ou concomitantemente com a protocolização do recurso, sob pena de caracterizar-se a sua deserção, mesmo que ainda não escoado o prazo recursal. Agravo regimental improvido.
+(AgRg no REsp. 1.248.160/PB, Rel. Min. HUMBERTO MARTINS, DJe 24.06.2011).  g.n.
+No caso em tela, restou incontroverso que as guias e os comprovantes de pagamento do preparo da apelação considerado deserta foram juntados apenas quando da oposição de embargos de declaração.
+A regularização posterior de documento essencial à comprovação dos requisitos de admissibilidade não tem o condão de sanar vícios existentes quando da interposição do recurso, pois já operada a preclusão consumativa.
+Frise-se, por oportuno, que o caso vertente não se refere à hipótese de insuficiência de preparo, que ensejaria a intimação da recorrente para a complementação dos valores, mas se trata de ausência de preparo.
+Assim, estando o acórdão em harmonia com a orientação firmada nesta Corte Superior, o recurso especial não merece prosperar, pois atrai, mais uma vez, a incidência da Súmula 83/STJ.
+3. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
