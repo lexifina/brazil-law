@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. AÇÃO DE COBRANÇA. PRELIMINAR DE INÉPCIA DA PETIÇÃO INICIAL REJEITADA PELAS INSTÂNCIAS ORDINÁRIAS. DEMANDA DEVIDAMENTE INSTRUÍDA COM DOCUMENTOS ESSENCIAIS. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE INDEFERIU PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. EXAME PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto pela EMPRESA BRASILEIRA DE TECNOLOGIA DIGITAL LTDA em face da decisão que negou seguimento a recurso especial interposto contra acórdão assim ementado (e-STJ Fl. 182):
+Ação de cobrança - prestação de serviços de veiculação de anúncios de publicidade - ação julgada procedente - preliminar de inépcia da petição inicial rejeitada  contratação da divulgação dos anúncios de publicidade pela ré demonstrada  sentença mantida - apelação não provida, com observação (art. 85 CPC 2015).
+Os embargos de declaração foram rejeitados (e-STJ Fls. 198-200).
+No recurso especial, a recorrente aponta ofensa aos arts. 320, 373, I e II, 434 e 485, I, do CPC/15, sustentando que (a) "não fora juntado aos autos nenhum comprovante de que a recorrida tenha sido contratada para a prestação de tais serviços"; (b) a petição inicial é inepta e o processo deveria ter sido extinto, uma vez que a autora deixou de juntar documentos essenciais à propositura da ação, dentre os quais o contrato de prestação de serviços que supostamente teria sido firmado entre as partes; e (c) cabe à parte autora fazer prova de fato constitutivo de seu direito.
+Contrarrazões às e-STJ Fls. 229-234.
+O pedido de atribuição de efeito suspensivo ao agravo em recurso especial foi indeferido pela decisão de e-STJ Fls. 350-352.
+Contra a decisão, foi interposto agravo interno (e-STJ Fls. 357-370), não impugnado pela parte contrária (e-STJ Fl. 373).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o acórdão recorrido foi publicado no dia 15/8/2017 e que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+O recurso especial não pode ser conhecido.
+A respeito da alegada inépcia da petição inicial, o Tribunal de origem disse o seguinte:
+ A preliminar de inépcia da inicial não tem como ser acolhida. Ao contrário do que tenta fazer crer a ré, a petição inicial está instruída com documentos suficientes à propositura da ação. Não há necessidade de juntada do contrato, pois seu objeto pode ser demonstrado por outros meios de prova.
+ No mérito, o jornal autor ajuizou esta ação de cobrança alegando que a ré não pagou pelos anúncios de publicidade veiculados nos dias 14 e 22.12.2013. Instruiu seu pedido com cópias das autorizações de publicação, encaminhadas ela agência de publicidade Núcleo 3 Comunicação Ltda, das notas fiscais emitidas e dos anúncios veiculados, fls. 7/12.
+ A ré nega a contratação sob o argumento de que ela não está demonstrada por instrumento firmado e por ela assinado. Mas, a documentação que instruiu a petição inicial foi confirmada pelo e-mail de fls. 114, em que a própria ré encaminhou o anúncio a ser divulgado. É o que basta para comprovar os fatos constitutivos do direito da autora e para manter a procedência da ação, inclusive com a determinação de que a sentença seja liquidada por arbitramento para que se apure o valor devido pela ré.
+Como se sabe, cabe ao julgador, em instância ordinária, fazer o cotejo fático e probatório a fim de analisar a existência de provas suficientes a amparar o pedido autoral.
+Assim, elidir as conclusões do aresto impugnado - de que a documentação juntada basta para comprovar os fatos constitutivos do direito da autora -, acatando o argumento da recorrente - de que não foram juntados documentos essenciais à propositura da ação - demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Ademais, o argumento da recorrente de que se pretende apenas a revaloração das provas constantes dos autos não pode servir como instrumento dissimulador do descontento da parte com o convencimento alcançado pelas instâncias ordinárias, como ocorre na espécie.
+Por fim, considerando o teor das razões recursais, bem assim o contexto que deu origem à interposição do presente recurso, convém lembrar à recorrente que "nos termos do artigo 105, inciso III, da Constituição Federal, este Superior Tribunal de Justiça tem a missão constitucional de uniformizar e interpretar a lei federal, não lhe competindo, em sede de recurso especial, o revolvimento dos fatos da causa e do processo, à moda de recurso ordinário ou de apelação. O Superior Tribunal de Justiça não é terceira instância revisora ou tribunal de apelação reiterada. O recurso especial é recurso excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa porque o sistema jurídico pátrio não acomoda triplo grau de jurisdição" (STJ, AgRg no REsp 1.716.998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 16/05/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Prejudicado o exame do agravo interno de e-STJ Fls. 357-370.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários advocatícios devidos ao recorrido de 11% sobre o valor da condenação para 15%.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa e que a concessão de gratuidade da justiça não afasta o dever de a beneficiária pagá-la ao final (arts. 1.021, § 4º, c/c 98, § 4º, do CPC/15).
+Intime-se.
