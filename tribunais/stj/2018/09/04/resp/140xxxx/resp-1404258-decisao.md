@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE SÃO PAULO, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça local, assim ementado (e-STJ fl. 248):
+AGRAVO INTERNO. MANDADO DE SEGURANÇA. INTERPOSIÇÃO CONTRA DECISÃO DO RELATOR QUE NEGOU SEGUIMENTO AOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELO AGRAVANTE. DECISÃO AGRAVADA MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, o recorrente alega violação dos arts. 3.º, 128, 267, 503 parágrafo único, 458, II e 535, II do CPC/1973. Aduz, em síntese, além da omissão, que o autor da ação carece de interesse de agir, uma vez que concordou com a decisão guerreada.
+Contrarrazões foram apresentadas às e-STJ fls. 475/481.
+Juízo positivo de admissibilidade consta à e-STJ fl. 504.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso especial (e-STJ fls. 398/399).
+ Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+A irresignação recursal comporta acolhida quanto às alegações de negativa de prestação jurisdicional. O art. 535 do CPC/1973 previa que os embargos de declaração seriam cabíveis quando houvesse, no acórdão ou sentença, omissão, contrariedade ou obscuridade, in verbis:
+Art. 535. Cabem embargos de declaração quando:
+I - houver, na sentença ou no acórdão, obscuridade ou contradição;
+II - for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, assiste razão à parte ora recorrente, tendo em vista que o Tribunal de origem não se manifestou acerca dos temas questionados no recurso integrativo relacionados a diversos dispositivos da Constituição e da EC 62/2009 .
+Assim, configurada violação do art. 535 do CPC/1973, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios para que o vício seja sanado pelo Tribunal de origem. Nesse sentido:
+ADMINISTRATIVO. DESAPROPRIAÇÃO PARA REFORMA AGRÁRIA. VALOR DA INDENIZAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. EXISTÊNCIA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS.
+I - Na origem, trata-se de ação de desapropriação para reforma agrária. Na sentença, declarou-se a desapropriação do imóvel rural "Engenho Maré/Ajudante", acatando o laudo do perito judicial.
+II - Parecer do Ministério Público Federal pelo parcial provimento do recurso. (..) IV - Da leitura atenta do acórdão que decidiu a lide, integrado pelo que julgou os embargos de declaração, verifica-se que o Tribunal de origem deixou de se pronunciar de forma clara e objetiva sobre as questões postas pelo recorrente, em especial, no que tange à nulidade da desapropriação, que teria sido tratada de forma contraditória nos dois acórdãos que examinaram a questão, destacando o recorrente que (fl. 2.568): "Ora, nesses dois trechos a MM. Desembargadora Relatora deixou claro que questões estranhas ao valor do imóvel não poderiam ser discutidas na ação de desapropriação, mas apenas em ação própria. Por isso ela justificou a desnecessidade de juntada do laudo da vistoria preliminar de classificação fundiária (neste último trecho), dizendo que é suficiente o laudo de avaliação, porque, afinal, na desapropriação apenas se discute preço. Daí a obscuridade/contradição do novo acórdão que ensejou a propositura dos embargos de declaração, quando passou por cima de uma premissa que foi fixada pela própria Relatora no julgamento da apelação".
+V - Dessarte, na decisão recorrida, houve violação do art. 535 do CPC/73, razão pela qual é necessário o debate prévio no âmbito do Tribunal de origem.
+VI - A Corte de origem não emitiu efetiva carga decisória sobre a eventual impossibilidade de determinação de indenização também da área encravada, em razão da vedação da alegada reformatio in pejus, em sede de reexame necessário, bem como sobre a aplicação, no caso, do art. 15-B do Decreto-Lei n. 3.365/1941, em relação aos juros de mora incidentes.
+VII - Correta a decisão recorrida que deu provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinou o retorno dos autos ao Tribunal de origem para novo julgamento dos aclaratórios apresentados.
+VIII - Agravo interno improvido. (AgInt no REsp 1.448.268/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/12/2017, DJe 14/12/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/73. OMISSÃO E CONTRADIÇÃO CARACTERIZADAS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Segundo consolidado pelo STJ, uma vez detectada a presença de vício elencado no art. 535 do CPC/73, faz-se de rigor a devolução dos autos à instância recursal de origem para nova apreciação dos aclaratórios.
+2. Na espécie, descortina-se a incompletude na prestação jurisdicional, visto que pontos importantes para a solução da lide não foram examinados pela Corte local, além de remanescer suscitada contradição entre os fundamentos empregados no acórdão ocorrido.
+3. Agravo conhecido para, também conhecendo do recurso especial, dar a este último provimento, com a consequente anulação do acórdão de fls. 1.822/1.825, por ofensa ao art. 535 do CPC/73. (AREsp 1.063.967/SP, Rel. Ministro BENEDITO GONÇALVES, Rel. p/ acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 19/12/2017).
+ Fica prejudicada a análise das irresignações remanescentes.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para, anulando o acórdão prolatado em sede de embargos declaratórios, determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão mencionada acima em relação à qual foi omisso o julgado atacado.
+ Publique-se. Intimem-se.
