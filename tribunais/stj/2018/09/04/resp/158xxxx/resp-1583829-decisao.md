@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, na vigência do CPC/73, com fundamento na alínea a do permissivo constitucional, em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. MANDADO DE SEGURANÇA. SIMPLES NACIONAL. EXCLUSÃO. PAGAMENTO. PROPORCIONALIDADE.
+1. É ponto pacífico no âmbito desta Corte que a exigência de regularidade fiscal para ingresso e permanência no Simples Nacional, constante do artigo 17, V, da LC nº 123/2006 é constitucional e não fere, em abstrato, o princípio da proporcionalidade.
+2. Contudo, as especificidades da questão fática envolvida na lide demandam que se analise, com temperos, a aplicabilidade da regra, sob pena de ofensa à proporcionalidade no caso particular.
+3. A Administração Tributária tem como diretriz não só a legalidade como também a proporcionalidade, princípios não antagônicos, mas compatíveis, cuja harmonização compete ao juiz, ao aplicar a lei no caso concreto (por suas peculiaridades), sem violar a isonomia ou a legalidade.
+4. Mantida a sentença que concedeu ordem para deteminar o reingresso da impetrante no Simples Nacional, considerado que houve a quitação do débito, seu reduzido valor, e a excessividade da medida exclusória" (fl. 140e).
+Opostos Embargos de Declaração, foram eles rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. REDISCUSSÃO.
+PREQUESTIONAMENTO.
+1. A natureza reparadora dos embargos de declaração só permite a sua oposição contra sentença ou acórdão acoimado de obscuridade ou contradição, bem como nos casos de omissão do Juiz ou Tribunal em relação a algum ponto sobre o qual deveria ter-se pronunciado e não o fez (CPC, art. 535), ou ainda, por construção jurisprudencial, para fins de prequestionamento, como indicam as Súmulas nº 282 e 356 do STF e 98 do STJ, desde que, para tanto, a questão constitucional ou legal tenha sido ventilada pela parte no momento processual oportuno e não tenha sido enfrentada no acórdão, ou para correção de erro material no julgado.
+2. Constata-se, em verdade, que pretende a embargante a rediscussão dos fundamentos da decisão prolatada por esta Turma, o que é vedado na via estreita dos embargos de declaração.
+3. A citação expressa dos dispositivos legais e constitucionais no corpo do acórdão para fins de prequestionamento é desnecessária, pois o Juiz não está obrigado a responder todas as alegações da parte, quando encontrar fundamento suficiente para embasar a sua decisão.
+4. Embargos de declaração rejeitados" (fl. 164e).
+Nas razões do Recurso Especial, a parte recorrente alega violação aos arts. 535, II, do CPC/73, bem como aos arts. 69 da Lei 9.784/99, 23 do Decreto 70.235/72 e 17, V, da Lei Complementar 123/2006.
+Sustenta, de início, a existência de omissão, não suprida em sede de Embargos Declaratórios, quanto à manifestação acerca de dispositivos legais que regem a matéria.
+Assevera, de outra parte, que "o débito do período de apuração 03/2014, no valor de R$ 115,20, motivou a exclusão da impetrante do Simples Nacional, com efeitos a partir de 01/01/2015. O débito apenas foi recolhido em 23/02/2015. Por todo o exposto, a impetrante foi intimada via AR para regularizar sua situação ou para apresentar impugnação. Assim, sua exclusão do Simples Nacional foi legítima e obedeceu ao contraditório" (fl. 182e).
+Apresentadas as contrarrazões (fls. 193/198e), o Recurso Especial foi admitido pelo Tribunal de origem (fl. 201e).
+A insurgência, todavia, não merece amparo.
+Inicialmente, é deficiente a fundamentação do Recurso Especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, o que atrai o óbice da Súmula 284/STF.
+Por outro lado, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 69 da Lei 9.784/99 e 23 do Decreto 70.235/72, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+No mais, o acórdão do Tribunal de origem concluiu que "se a empresa agiu com boa-fé, buscando regularizar os seus débitos frente ao Simples Nacional, entendo que, em conformidade com os princípios da razoabilidade e proporcionalidade, é devida sua manutenção nesse sistema, mormente considerando sua finalidade, qual seja, viabilizar as atividades das microempresas e empresas de pequeno porte, ao mesmo tempo em que fomenta a formalização da atividade e abre ensejo ao ingresso de recursos nos cofres públicos" (fls. 137/138e).
+Nesse contexto, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional. Ilustrativamente:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VANTAGEM PESSOAL INCORPORADA JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. INVIABILIDADE DO APELO NOBRE.
+1. Não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto com base em fundamentos diversos dos apresentados pela parte. Não há falar, assim, em violação dos arts. 128 e 460 do CPC/1973.
+2. O Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional (art. 37, XIII, da Constituição Federal), circunstância que torna inviável o exame da matéria em sede de recurso especial.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.478.367/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 14/03/2018).
+Ainda que assim não fosse, o acórdão recorrido tem fundamento constitucional não impugnado, mediante Recurso Extraordinário, o que atrai a incidência da Súmula 126 do STJ, segundo a qual "é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário".
+No mesmo sentido, em idênticos casos: STJ, REsp 1.610.055/PR, Rel. Ministro HUMBERTO MARTINS, DJe de 17/08/2016; STJ, REsp 1.569/034/PB, Rel. Ministra REGINA HELENA COSTA, DJe de 1º/06/2016; STJ, REsp 1.573.675/PR, Rel. Ministro BENEDITO GONÇALVES, DJe de 10/03/2016; STJ, AREsp 717.807/PR, Rel. Ministro HERMAN BENJAMIN, DJe de 12/08/2015; e STJ, REsp 1.523.788/PR, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 29/06/2015.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
