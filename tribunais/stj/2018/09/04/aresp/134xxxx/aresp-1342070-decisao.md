@@ -1,0 +1,30 @@
+DECISÃO
+[NOME] [NOME] DA [NOME] agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Alagoas (Apelação n. 0705824-06.2016.8.02.0001).
+O recorrente apontou violação dos arts. 158 e 175 do CPP e 25 da Lei n. 10.826/2003, ao argumento de que a arma apreendida não foi submetida a exame pericial específico para aferir se a supressão da numeração se deu por ação humana. Ao final, requereu a desclassificação do crime para o de porte ilegal de arma de fogo de uso permitido.
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 230-239, no bojo do qual a parte impugna o óbice da Súmula n. 83 do STJ.
+O Ministério Público Federal manifestou-se, às fls. 254-256, pelo não provimento do agravo.
+Decido.
+O agravante foi condenado por incursão no art. 16, parágrafo único, IV, da Lei n. 10.826/2003 a 3 anos de reclusão, além do pagamento de 10 dias-multa. A reprimenda foi substituída por penas restritivas de direitos.
+Em relação à materialidade delitiva, o Tribunal de Justiça assim se manifestou (fls. 196-198, destaquei):
+Ora, é sabido que o agente que porta ilegalmente arma de fogo recai no tipo penal do art. 14 da Lei 10.826/03, se o artefato for de uso permitido; no entanto, no caput do art. 16 do mesmo diploma legal, se é de uso restrito; e, por equiparação, no art. 16, parágrafo único, IV, da mesma lei, se a arma é de uso permitido com numeração raspada (caso dos autos).
+Para a análise da incidência de qualquer um dos tipos penais supracitados, faz-se necessário que às características da arma ilegalmente portada pelo agente, não sendo exigido a constatação de quem foi o autor da supressão.
+Com a dificuldade estatal, tanto ao controle de sua circulação quanto a investigação dos delitos com elas praticados, razão da aplicação do parágrafo único, IV, do art. 16 do Estatuto do Desarmamento, justificando a aplicação mais rigorosa ao praticante do delito em tela.
+Ademais, em crimes deste jaez exige-se dolo específico, caindo por terra qualquer argumentação de que não haveria prova de que o apelante teria suprimido a numeração da arma de fogo apreendida, uma vez que o fato a ele imputado é de porte de arma com numeração raspada e não o de ele próprio ter suprimido o elemento identificador do artefato.
+Conforme se extrai dos autos, o apelante [NOME] foi preso em flagrante portando um revólver calibre 38, marca Taurus, com numeração raspada, além de seis munições do mesmo calibre (fl. 04).
+Portanto, comprovado que o réu portava arma de fogo, com numeração raspada, sem autorização e em desacordo com determinação legal, impositiva a condenação pelo cometimento do delito tipificado no art. 16, parágrafo único, IV, da Lei 10.826/03.
+Para além, contatou-se a supressão na numeração, demonstrando a materialidade delitiva (fls. 112/116).
+Logo, para caracterizar o crime em tela, que seria de mera conduta e de perigo abstrato, basta para a sua consumação, o porte do referido artefato com a numeração suprimida, não havendo razão para a desclassificação para outro delito.
+ ..
+Portanto, comprovado nos autos que o ora apelante portava a arma de fogo com o número suprimido, a condenação deve ser mantida pelo delito insculpido na peça acusatória, sendo indiferente, como já fora esclarecido, a ciência e a ação humana.
+A Terceira Seção deste Superior Tribunal uniformizou o entendimento - alinhado à jurisprudência do Supremo Tribunal Federal -, de que o tipo penal em apreço é de perigo abstrato, sendo suficiente para sua caracterização o simples porte do armamento em desacordo com determinação legal ou regulamentar.
+É irrelevante para configuração do delito a realização de perícia para aferir se a supressão da numeração da arma se deu por ação humana. A propósito:
+ ..
+I - Para a configuração do delito do art. 16, inciso IV, da Lei n.º 10.826/2003, basta que o agente seja flagrado ao portar, possuir, adquirir, transportar ou fornecer arma de fogo com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado. E o tipo penal do caput, com a mesma pena, prevê que o delito se consuma se o agente possuir, deter, portar, adquirir, fornecer, receber, tiver em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, mantiver sob sua guarda ou ocultar arma de fogo, acessório ou munição de uso proibido ou restrito, sem autorização e em desacordo com determinação legal ou regulamentar.
+II - Assim, mesmo a perícia judicial não tendo sido conclusiva, não servindo, portanto, para definir se, no momento da apreensão, a numeração da arma de fogo estava suprimida por ação humana e ou se por desgaste natural, pelo uso ou pelo decurso de tempo, levando-se em consideração o quadro fático delimitado na origem, de todo modo, estaria configurado o tipo criminal de posse ou porte ilegal de arma de fogo de uso restrito, ainda que na forma do caput, impondo-se o restabelecimento da condenação do recorrido.
+Agravo regimental desprovido.
+(AgInt no REsp 1729270/SC, Rel. Ministro Felix Fischer, 5ªT., DJe 15/08/2018)
+A Corte Estadual, depois de analisar o conjunto fático e probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do recorrente pelo crime tipificado no art. 16, parágrafo único, IV, da Lei n. 10.826/2003.
+Assim, mostra-se inviável a desclassificação da conduta do réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Para divergir da conclusão do acórdão e desclassificar o delito seria imprescindível o reexame do acervo probatório dos autos, procedimento vedado em recurso especial, ante o óbice da Súmula n. 7 desta Corte Superior.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
