@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+AÇÃO RESCISÓRIA. SERVIDORES PÚBLICOS ESTADUAIS. REAJUSTE DO VALE -REFEIÇÃO. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. APLICAÇÃO DA SÚMULA Nº 343 DO STF.
+- A violação ao dispositivo legal para fins de rescisão da sentença, nos termos do mencionado art. 485, V, do Código de Processo Civil, há que ser frontal, não podendo decorrer de simples interpretação de artigo de lei adversa ao interesse da parte. Precedentes do STJ.
+- Hipótese em que a decisão monocrática rescindenda reconheceu o direito da então parte autora aos reajustes decorrentes da Lei Estadual nº 10.002/93 c/c o Decreto Estadual nº 35.139/94, contendo interpretação razoável, de forma contrária ao expendido pela parte autora.
+JULGARAM IMPROCEDENTE A AÇÃO RESCISÓRIA.
+Os Embargos de Declaração foram rejeitados (fl. 160, e-STJ).
+O recorrente afirma que houve ofensa ao art. 485, V, do CPC/1973. Alega:
+A violação literal de lei na ação rescindenda restou caracterizado quando acolhida a pretensão da então parte autora para sanar a alegada omissão do Poder Executivo quanto ao reajustamento do vale -refeição, elegendo, inclusive, índice de reajuste do valor do benefício, a despeito da total ausência de previsão legal nesse sentido, da necessidade de regulamentação pelo Chefe do Poder Executivo e da ausência de previsão orçamentária.
+Sem contrarrazões.
+O recurso foi inadmitido na origem. Para melhor análise da controvérsia, foi dado provimento ao Agravo para determinar sua conversão em Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.5.2018.
+A irresignação não merece prosperar.
+Nos termos da jurisprudência do STJ, não se pode apreciar, em Recurso Especial, a existência de ofensa ao art. 485, V, do CPC/73 (atual art. 966, V, do CPC/2015), quando o fundamento da violação estiver assentado em norma constitucional e local, como no presente caso, em que o exame da afronta ao art. 966, V, do CPC/2015 demanda a análise da violação pelo acórdão rescindendo da literalidade dos arts. 18, 25, 61, § 1º, II, 165, 167 e 169 da Constituição Federal, da Lei Estadual 10.002/1993 e do Decreto Estadual 35.139/1994.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ART. 485, V, DO CPC. ANÁLISE DE LEI LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se, na origem, de Ação Rescisória, fundamentada no art. 485, V, do CPC, que fora julgada improcedente, pelo Tribunal de origem. Na ocasião, o tema foi dirimido no âmbito da legislação local (Decreto estadual 23.430/74 e Leis estaduais 6.503/72 e 10.350/94), de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no Recurso Especial.
+II. Com efeito, "a jurisprudência desta Corte firmou entendimento no sentido de que é incabível analisar possível violação do art. 485, V, do Código de Processo Civil, em sede de recurso especial, proveniente de ação rescisória quando demandar análise de lei local, encontrando óbice na Súmula 280/STF, por analogia" (STJ, AgRg no AREsp 699.258/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/08/2015). No mesmo sentido: STJ, AgRg no AREsp 396.886/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/06/2015; STJ, AgRg no REsp 1.419.890/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 15/04/2014.
+III. Agravo Regimental improvido (STJ, AgRg no AREsp 318.149/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 30/03/2016).
+ PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SUPOSTA VIOLAÇÃO AO ART. 485, V, DO CPC. ALEGADA OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO, EM SEDE RECURSO ESPECIAL. ANÁLISE DE LEI LOCAL. INVIABILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na hipótese, a recorrente ajuizou Ação Rescisória, com fundamento no art. 485, V, do CPC, alegando violação ao art. 5º, LIV e LV, da Constituição Federal e aos arts. 12, § 3º, 13 e 16 da Lei Estadual 4.712/94, estando o acórdão recorrido assentado em fundamentos eminentemente constitucionais.
+II. A jurisprudência do STJ tem decidido pela "impossibilidade de se discutir, em Recurso Especial, a infringência ao art. 485, V, do Código de Processo Civil, quando o fundamento da violação está assentado em norma constitucional" (STJ, AgRg no REsp 1.379.182/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/09/2013). No mesmo sentido: STJ, AgRg no REsp 1.297.448/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 16/05/2014; STJ, AgRg no REsp 1.419.890/GO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 15/04/2014; STJ, AgRg no REsp 1.405.468/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 10/02/2014.
+III. A apreciação da matéria exigiria a análise da Lei Estadual 4.712/94, cujo exame é vedado, em sede de Recurso Especial, pela aplicação analógica da Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário". Precedentes do STJ.
+IV. Agravo Regimental improvido" (STJ, AgRg no AREsp 354.933/PI, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 16/09/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. SERVIDOR PÚBLICO. VALE-REFEIÇÃO. LEI ESTADUAL 10.002/93 E DECRETO 35.139/94. INVERSÃO DO JULGADO QUE DEMANDARIA O EXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF.
+1. É inviável a análise do recurso especial quanto ao cabimento de ação rescisória, com base no art. 485, V e IX, do CPC, quando o fundamento da violação está assentado em norma estadual, em razão do óbice da Súmula 280/STF, que se aplica por analogia. Precedentes: AgRg no AREsp 59.680/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 24/02/2012; AgRg no Ag 739.149/SP, Rel. Ministro Gilson Dipp, Quinta Turma, DJ 19/06/2006; AgRg no Ag 503.746/SP, Rel. Ministro Paulo Medina, Sexta Turma, DJ 15/09/2003) (AgRg no AgRg no AREsp 229.660/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/03/2013, DJe 02/04/2013).
+2. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 392.162/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/12/2013).
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
