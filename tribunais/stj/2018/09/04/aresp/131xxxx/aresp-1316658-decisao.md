@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. COMPRA E VENDA DE BEM IMÓVEL NA PLANTA. Ação de rescisão contratual c.c. restituição de valores pagos. Sentença de procedência. Inconformismo das rés. LEGITIMIDADE PASSIVA. Configurada a legitimidade passiva da corré "Urbplan" para figurar no polo passivo da ação, uma vez que efetivamente participou da cadeia de fornecimento do imóvel. RESCISÃO CONTRATUAL COM DEVOLUÇÃO DOS VALORES PAGOS. Rescisão contratual que se deu por culpa das vendedoras, que deixaram de concluir o empreendimento dentro do prazo contratualmente previsto. Impossibilidade de prorrogação do prazo para conclusão do loteamento para 04 anos, dada ausência de autorização por parte da Municipalidade. Ausência, ainda, de previsão contratual que autorizasse a prorrogação.
+Sentença mantida. Sucumbência das apelantes, que deverão arcar com as custas, despesas processuais e honorários advocatícios do representante dos autores, majorados de 10% para 15% sobre o valor da condenação, nos termos do art. 85, §11 do CPC/2015.
+NEGADO PROVIMENTO AO RECURSO".(v.25338).
+Não foram opostos embargos de declaração.
+Nas razões do especial, aponta a parte agravante violação aos artigos 389 e 396 do Código Civil, 26, 27 e 29 da Lei. n. 9.514/97
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, assim se pronunciou acerca da legitimidade passiva:
+ ..
+As apelantes afirmam que a corré "Urbplan" seria parte ilegítima para figurar no polo passivo da ação, uma vez que celebrou contrato com a empresa "SP-60 Empreendimentos Imobiliários Ltda.", transferindo a esta todas as suas obrigações relativas à instalação do empreendimento no qual está localizado o imóvel adquirido pelos autores. Alega, ainda, que referida empresa é sociedade de propósito específico constituída somente para a execução das obras do empreendimento em comento.
+Contudo, a preliminar ventilada não comporta acolhida. É incontroverso o fato de que a corré "Urbplan" participou da cadeia de fornecimento do imóvel.
+ ..
+Desta forma, é indiferente a cessão posterior de sua posição contratual à empresa "SP-60", uma vez que esta não faz efeitos perante os autores, adquirentes do bem, permanecendo solidariamente responsável pelos danos alegadamente suportados pelos autores com o descumprimento do contrato, nos termos dos arts. 7º, parágrafo único, e 25, §1º do CDC.
+ ..
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+ No tocante ao prazo para conclusão da obra, assim entendeu o Tribunal de origem:
+Os autores propuseram a presente ação alegando atraso das rés para a conclusão das obras do loteamento, no qual adquiriram o imóvel descrito na inicial.
+A sentença recorrida reconheceu a ocorrência de mora das rés, decretando a rescisão contratual e a devolução de todos os valores pagos pelos autores.
+As rés afirmam, em seu recurso, que não poderiam ser responsabilizadas pela mora, uma vez que a implantação do loteamento obedeceu o prazo de 04 anos previsto na Lei nº 6.766/1979. Afirmam, ainda, que o "Termo de Vistoria de Obras" relativo ao empreendimento foi expedido de forma parcial por culpa da Prefeitura de Taubaté.
+Contudo, a sentença recorrida não comporta reforma neste ponto. O contrato de compra e venda com pacto de alienação fiduciária, celebrado entre as partes em 07 de fevereiro de 2010 (fls. 167/183), não estabelece data precisa para o cumprimento das obrigações assumidas pelas vendedoras, prevendo apenas que as as obras de implantação e infraestrutura do loteamento seriam concluídas dentro do prazo previsto no cronograma aprovado junto à Prefeitura Municipal.
+Como bem apontou a MM. Juíza a quo, as apelantes não trouxeram aos autos cópia do cronograma de execução de obras aprovado junto à Prefeitura. Não há indícios nos autos de que os adquirentes tenham tido acesso a este documento.
+Como quer que seja, o registro da matrícula do loteamento indica que a implantação do mesmo fora aprovada, pela Prefeitura, nos termos do Decreto Municipal nº 11.952/2009 (fls. 156).
+Em consulta ao sítio eletrônico da Prefeitura de Taubaté, verifica-se que referido decreto concedia às rés o prazo de 24 meses para a implantação de todos os itens previstos na matrícula do loteamento (http://www.taubate.sp.gov.br/publicacoes-2/, acesso em 02/06/2017).
+Desta forma, como bem concluiu a Magistrada sentenciante, o prazo estipulado para implantação do loteamento não foi observado pelas vendedoras, uma vez que o mesmo somente foi parcialmente liberado para construções em setembro de 2014, ainda com restrições (fls. 194/195).
+Demais disso, não há quaisquer elementos nos autos que indiquem que os autores tenham sido imitidos na posse do lote adquirido, muito embora adimplentes com as parcelas do preço do imóvel até a data da propositura da presente ação.
+Por este motivo, a sentença recorrida não comporta qualquer reforma no ponto em que reconheceu a culpa das vendedoras pelo desfazimento do negócio.
+Com efeito, constatada a culpa das vendedoras, que deixaram de concluir as obras no prazo contratualmente previsto, os autores fazem jus à devolução integral das parcelas comprovadamente pagas, como forma de reposição ao status quo anterior à celebração do negócio. A extensão do prazo para implantação do loteamento para o período de 4 anos, é descabida, uma vez que muito embora haja previsão legal neste sentido, esta teria que ser autorizada pela Prefeitura Municipal, além de estar prevista de forma clara no contrato de compra e venda do imóvel, o que, no caso em tela, não ocorre. A pretensão das apelantes de aplicação de penalidades aos adquirentes ou retenção de valores é igualmente descabida, uma vez que diz respeito à rescisão motivada por inadimplemento do adquirente, o que não se confunde com a hipótese presente. Por este mesmo motivo, não há que se falar na retenção de quaisquer valores, uma vez que cabe à vendedora suportar os efeitos de seu inadimplemento.
+ ..
+Observa-se, por fim, que a existência de pacto acessório de alienação fiduciária em garantia não impede a resolução contratual por inadimplemento da vendedora, uma vez que as obrigações contraídas pelas vendedoras ainda não foram aperfeiçoadas.
+ ..
+O acolhimento da pretensão recursal, a fim de reconhecer a não ocorrência da mora, também exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
