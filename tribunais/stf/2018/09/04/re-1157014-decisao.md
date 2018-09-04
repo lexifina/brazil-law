@@ -1,0 +1,24 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pela 2ª Turma Cível do Colégio Recursal da comarca de Bauru/SP, está assim ementado:
+    “Policial militar. Auxílio-alimentação. Lei Complementar nº 1.226/2013 que estende ao policial militar o benefício do auxílio-alimentação instituído pela Lei nº 7.524/1991. Incidência do artigo 4º, III, da Lei nº 7.524/1991. Inaplicabilidade dos afastamentos elencados no artigo 78 da Lei nº 10.261/1968. Sentença mantida por seus próprios fundamentos, com fulcro no artigo 46 da Lei nº 9.099/1995. Recurso desprovido.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido o preceito inscrito no art. 42 da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368, Rel. Min. MOREIRA ALVES – RTJ 131/1391, Rel. Min. CELSO DE MELLO – RTJ 144/300, Rel. Min. MARCO AURÉLIO – RTJ 153/989, Rel. Min. CELSO DE MELLO), incidem as Súmulas 282 e 356 desta Corte.
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    A configuração jurídica do prequestionamento – que traduz elemento indispensável ao conhecimento do recurso extraordinário – decorre da oportuna formulação, em momento procedimentalmente adequado, do tema de direito constitucional positivo. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida (RTJ 98/754 – RTJ 116/451). Sem o cumulativo atendimento desses pressupostos, além de outros igualmente imprescindíveis, não se viabiliza o acesso à via recursal extraordinária, consoante tem proclamado a jurisprudência do Supremo Tribunal Federal (RTJ 159/977).
+    De outro lado, e mesmo que a suposta ofensa à Constituição houvesse surgido, originariamente, na instância recursal, derivando do próprio acórdão recorrido, ainda assim seria imprescindível que, nos embargos declaratórios, o tema constitucional fosse arguido pela parte recorrente – o que não se verificou nos presentes autos –, para que se ensejasse, ao órgão judiciário de origem, a possibilidade de examiná-lo expressamente, observando-se, desse modo, a jurisprudência firmada pelo Supremo Tribunal Federal:
+    “Prequestionamento.
+    Quando é o acórdão recorrido que teria ofendido implicitamente o texto constitucional, o prequestionamento se faz mediante a interposição de embargos declaratórios, para que se supra a omissão quanto à questão constitucional por ele não enfrentada.
+    Agravo regimental a que se nega provimento.”
+    (RTJ 123/383, Rel. Min. MOREIRA ALVES)
+    “RECURSO EXTRAORDINÁRIO. TEMA CONSTITUCIONAL, NÃO PREQUESTIONADO (SÚMULAS 282 E 356).
+    Se a afronta à lei surge no próprio julgamento, é essencial que o tema seja ventilado através de embargos de declaração, pois o prequestionamento é uma das condições de admissibilidade do extraordinário.
+    Agravo regimental a que se nega provimento.”
+    (AI 124.036-AgR/RS, Rel. Min. FRANCISCO REZEK)
+    Cabe registrar, no entanto, que a parte ora recorrente deixou de assim proceder, inviabilizando, desse modo, por ausência de prequestionamento explícito da matéria constitucional, a possibilidade jurídico-processual de ver apreciado seu recurso extraordinário.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 04 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
