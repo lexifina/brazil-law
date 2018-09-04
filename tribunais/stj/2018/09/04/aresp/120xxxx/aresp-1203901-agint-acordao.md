@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial desta Corte Superior na redação da Súmula nº 182/STJ.
+3. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, não conhecer do agravo, nos termos do voto do Sr Ministro Relator. Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro (Presidente), Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por ABCD DIACAL EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra a decisão (fls. 450-453 e-STJ) que conheceu do agravo para não conhecer do recurso especial.
+A controvérsia diz respeito à ação de rescisão de compromisso de compra e venda de imóvel. O acórdão proferido pelo tribunal de origem recebeu a seguinte ementa:
+"APELAÇÃO. COMPROMISSO DE COMPRA E VENDA. Observância do Recurso Especial Repetitivo n. 1.551.951 SP. COMISSÃO DE CORRETAGEM.
+PRESCRIÇÃO. Inocorrência. Demanda ajuizada antes do decurso do prazo trienal. A comissão de corretagem pode ser livremente pactuada, observado o princípio de informação do consumidor, o qual fora cumprido no caso concreto.
+[NOME]. Há abusividade na cobrança da taxa de assessoria, uma vez, que não há contrapartida para consumidor do serviço prestado. Limitação de devolução a 90% dos valores pagos a este título, sob pena incidência de reformatio in pejus. RESCISÃO CONTRATUAL. RETENÇÃO DOS VALORES GASTOS COM ADMINISTRAÇÃO DO EMPREENDIMENTO. Possibilidade.
+Cláusula contratual que estabelece multa contratual abusiva, equitativamente reduzida pelo Juízo a quo de forma escorreita. Percentual de 10%, a ser devolvido de uma única vez. Inteligência da Súmula nº 01 do TJSP. RECURSO PARCIALMENTE PROVIDO" (fl. 363 e-STJ).
+Foram aplicados os seguintes óbices na decisão ora impugnada:
+(i) Súmula nº 282/STF por ausência de prequestionamento do art. 418 do Código Civil;
+(ii) consonância do acórdão recorrido com a jurisprudência do Superior Tribunal de Justiça que julgou a matéria referente à cobrança da taxa [NOME] no REsp nº 1.599.511/SP e no REsp nº 1.551.956/SP, sob o rito dos recursos representativos da controvérsia;
+(iii) Súmulas nºs 5 e 7/STJ quanto aos valores que deverão ser retidos pela construtora em virtude da rescisão contratual, e
+(iv) não admissão do recurso especial pela alínea "c" do permissivo constitucional em razão da aplicação da Súmula nº 7/STJ.
+Nas razões do presente recurso (fls. 457-466 e-STJ), a agravante, em síntese, sustenta que o art. 418 do Código Civil foi objeto de debate nas instâncias ordinárias e que no recurso não foi feita referência à modificação do julgado no que diz respeito ao Serviço de Assessoria Técnico-Imobiliária ([NOME]), mas, sim, acerca da retenção de valores quitados a título de prestações do empreendimento adquirido pelos agravados.
+Combate a aplicação da Súmula nº 7/STJ, pois considera que basta a valoração da prova constante dos autos para que sejam cumpridas as cláusulas pactuadas.
+Impugnação do agravo interno apresentada às fls. 470-488 (e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece ser conhecida.
+O art. 932, inciso III, do Código de Processo Civil de 2015 faculta ao relator não conhecer do recurso "que não tenha impugnado especificamente os fundamentos da decisão recorrida". No mesmo sentido, o art. 1.021, § 1º, do CPC/2015 determina que:"na petição de agravo interno, o recorrente impugnará especificamente os fundamentos da decisão agravada".
+No caso, o recurso especial não foi conhecido em virtude da consonância entre a conclusão do tribunal de origem com o entendimento jurisprudencial desta Corte, da aplicação da Súmula nº 282/STF e das Súmulas nºs 5 e 7/STJ e do entendimento de que o dissídio jurisprudencial não merece ser conhecido.
+Entretanto, nas razões do presente recurso, a agravante não refuta todos os fundamentos da decisão atacada, visto que não combate os fundamentos utilizados para aplicar a Súmula nº 5/STJ e a conclusão de que o dissídio jurisprudencial não merece conhecimento.
+A despeito das argumentações expendidas nas razões do agravo interno, é pacífico o entendimento desta Corte Superior de que é dever do agravante impugnar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não bastando para tanto a impugnação genérica, parcial ou a reiteração das razões do recurso anterior.
+Imperioso mencionar que o óbice previsto no dispositivo legal em epígrafe já estava contido na Súmula nº 182/STJ, conforme se observa dos seguintes precedentes:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. CABIMENTO. SÚMULA 568/STJ. RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na esteira da jurisprudência desta Corte, "A Súmula 568 do STJ e o disposto no art. 255 do Regimento Interno do STJ conferem ao relator o poder de, monocraticamente, dar ou negar provimento ao recurso quando houver, entre outras hipóteses, jurisprudência dominante acerca do tema" (STJ, AgInt no REsp 1.510.336/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 07/08/2017). De qualquer sorte, a alegação de eventual nulidade da decisão monocrática fica superada, com a reapreciação do recurso, pelo órgão colegiado, em sede de Agravo interno.
+III. A decisão impugnada negou provimento ao Recurso Especial da agravante, ao fundamento de que: a) o acórdão recorrido não violou o disposto no art. 535 do CPC/73; b) nos termos da Súmula 297/STJ, "O Código de Defesa do Consumidor é aplicável às instituições financeiras"; e c) no tocante às cédulas de crédito rural, os juros remuneratórios a serem cobrados devem observar o limite de 12% (doze por cento) ao ano, sendo indevida a exigência de comissão de permanência, conforme orientação jurisprudencial do Superior Tribunal de Justiça.
+IV. O Agravo interno, porém, não impugna, especificamente, todos os fundamentos da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt no AREsp 860.148/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/05/2016; AgRg no AgRg no AREsp 731.339/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 06/05/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 13/05/2016.
+V. Agravo interno não conhecido".
+(AgInt no REsp 1.253.233/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/10/2017, DJe 27/10/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 1.021, PARÁGRAFO 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, por força do disposto no art. 1.021, parágrafo 1º, do Código de Processo Civil de 2015. O conteúdo normativo deste dispositivo legal já estava cristalizado no entendimento jurisprudencial desta Corte Superior na redação da Súmula nº 182/STJ.
+2. Agravo regimental não conhecido." (AgRg no AREsp 772.853/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 25/10/2016, DJe 4/11/2016)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INEPTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO AGRAVADA. SÚMULA 182/STJ.
+(..)
+2. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula 182 do STJ.
+3. Agravo regimental a que se nega provimento" (AgRg no AREsp 408.643/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 6/11/2014, DJe 14/11/2014).
+Desse modo, não prosperam as alegações postas no recurso, pois são incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
