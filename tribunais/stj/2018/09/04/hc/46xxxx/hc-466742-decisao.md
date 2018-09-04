@@ -1,0 +1,21 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. ART. 42 DA LEI N. 11.343/2006. PREPONDERÂNCIA. EXPRESSIVA QUANTIDADE E ALTA NOCIVIDADE DA DROGA APREENDIDA. CRITÉRIO IDÔNEO PARA A EXASPERAÇÃO. REGIME REGULARMENTE APLICADO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. INEVIDÊNCIA DE MANIFESTA ILEGALIDADE.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de [NOME] e de [NOME], em que se aponta constrangimento ilegal decorrente do julgamento, pelo Tribunal de Justiça de Pernambuco, da Apelação n. 0002006-41.2014.8.17.0001, que deu parcial provimento ao recurso da defesa, mas teria reduzido a pena privativa de liberdade dos pacientes apenas a 6 anos e 6 meses de reclusão, pela prática do crime descrito no art. 33 da Lei n. 11.343/2006, e a 3 anos de reclusão, pelo crime do art. 35 do mesmo diploma legal.
+Alega-se desproporcionalidade do aumento realizado na pena-base tão somente em razão de uma circunstância desfavorável, a concernente à natureza e à quantidade de droga apreendida (56 pedras de crack, mais 8 blocos da mesma droga, pesando aproximadamente 50 g cada ou 400 g).
+Argumenta-se que deve ser redimensionada a pena para menor, com a consequente repercussão nas demais fases da dosimetria e, por óbvio na pena definitiva e no regime de cumprimento da pena (fl. 3).
+Requer-se, em liminar e no mérito (fl. 4):
+1) o redimensionamento da pena a partir da redução da pena-base.
+2) fixação do regime inicial de cumprimento menos severo, considerando-se ainda a detração.
+É o relatório.
+É consabido que a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte quando há manifesta ilegalidade, o que, na espécie, não ocorre.
+Conforme nossa jurisprudência, a fixação da pena-base acima do mínimo legal não se dá com base em critérios matemáticos, tendo em vista que é admissível certa discricionariedade do órgão julgador, conforme estabelece o princípio do livre convencimento motivado (AgInt no HC n. 377.446/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 20/4/2017)
+A análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas, a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito (HC n. 444.317/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 24/8/2018).
+Quer dizer, a confecção da dosimetria da pena não é uma operação matemática, e nada impede que o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto (AgRg no REsp n. 1.433.071/AM, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 6/5/2015).
+Como já expôs o Ministro Ministro Antonio Saldanha Palheiro, a legislação ordinária não exige que as circunstâncias judiciais sejam todas consideradas desfavoráveis para a fixação da pena em patamar superior ao mínimo previsto no preceito secundário da norma penal. Entretanto, atento às peculiaridades relacionadas aos crimes previstos na Lei n. 11.343/2006, o art. 42 anuncia parâmetros outros para o cálculo da pena-base, esclarecendo que o magistrado, ao estabelecer a sanção, considerará, com preponderância sobre os critérios previstos no art. 59 do Código Penal, a natureza e a quantidade do produto ou da substância apreendida. De fato, como se trata de crime contra a saúde pública, quanto mais nociva a substância entorpecente ou quanto maior a quantidade de droga apreendida em poder do agente, maior será o juízo de censura a recair sobre a conduta delituosa.
+Na hipótese em análise, a Corte estadual destacou que permanecem desfavoráveis as circunstâncias da natureza e quantidade da substância entorpecente, as quais, nos termos do artigo 42 da Lei n. 11.343/2006, devem preponderam sobre as demais (fl. 97).
+No que tange ao regime, concluiu o acórdão, acertadamente, que está em consonância com o que dispõe o art. 33, § 2º, "a", do Estatuto Punitivo (fl. 104).
+Acerca da dita detração, não houve nenhum debate na origem.
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
