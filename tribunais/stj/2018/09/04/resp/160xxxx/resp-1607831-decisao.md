@@ -1,0 +1,20 @@
+EMENTA
+RECUSO ESPECIAL. AGRAVO DE INSTRUMENTO. PROLAÇÃO DE SENTENÇA DE MÉRITO NA ORIGEM. RECURSO ESPECIAL PREJUDICADO.
+1. Ao analisar o andamento dos autos principais, processo nº 0704592-20.2015.8.01.0001, em trâmite na 5ª Vara Cível de Rio Branco/AC, verifica-se que já foi prolatada sentença de mérito na origem.
+2. De acordo com a jurisprudência deste Superior Tribunal de Justiça, "resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, tendo em vista ser esta de cognição exauriente" (AgInt na PET no AREsp 1.114.938/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 10/04/2018, DJe 13/04/2018).
+3. Recurso Especial prejudicado.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME] contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ACRE assim ementado:
+AGRAVO DE INSTRUMENTO. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. ANTECIPAÇÃO DE TUTELA. LOTEAMENTO. ATRASO NA ENTREGA DA INFRAESTRUTURA. CRONOGRAMA DE EXECUÇÃO DAS OBRAS. DISPOSIÇÃO CONTRATUAL. OBSERVÂNCIA. PRESTAÇÕES VINCENDAS. SUSPENSÃO DO PAGAMENTO. DEPÓSITO EM JUÍZO. RAZOABILIDADE. PROVIMENTO PARCIAL. 1. O prazo de quatro anos previsto no art. 9o e art. 18, V, da Lei n. 6.766/79, constitui-se no prazo máximo de duração do cronograma de execução das obras do loteamento, aprovado pelo executivo municipal ou distrital, nada obstando que o contrato firmado entre as partes estabeleça duração inferior, sem prejuízo de prorrogação justificada. 2. Na espécie, além do alvará de licença para loteamento nº 19/2011 estabelecer prazos distintos, que vão de dois a quatro anos, de acordo com a natureza do serviço a ser realizado e com o setor em que se dará a intervenção, as circunstâncias que levaram à sua expedição destoam do quadro hipotético regulado pelos mencionados dispositivos da Lei n. 6.766/79.
+3. Logo, não se está diante de um cenário de normalidade contratual, em que o comprador deveria ser instado a prosseguir no pagamento das prestações mensais para o vendedor.
+4. Todavia, o depósito em juízo das prestações vincendas é preferível á simples suspensão do pagamento determinada em sede de antecipação dos efeitos da tutela, na medida em que preserva ambas as partes até o julgamento final do processo, além de ter o mérito de não estreitar a discussão ao fechar as portas, já no nascedouro do litígio judicial, a princípios outros que também orientam a relação contratual.
+5. Recurso parcialmente provido.
+2. Ao analisar o andamento dos autos principais, processo nº 0704592-20.2015.8.01.0001, em trâmite na 5ª Vara Cível de Rio Branco/AC, verifica-se que já foi prolatada sentença de mérito na origem.
+De acordo com a jurisprudência deste Superior Tribunal de Justiça, "resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, tendo em vista ser esta de cognição exauriente" (AgInt na PET no AREsp 1.114.938/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 10/04/2018, DJe 13/04/2018) .
+Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO ESPECIAL.
+1. A jurisprudência deste Superior Tribunal de Justiça possui o entendimento segundo o qual "fica prejudicado, por perda de objeto, o exame de recurso especial interposto contra acórdão proferido em sede de agravo de instrumento que decide questão preliminar ou de antecipação de tutela, na hipótese de já ter sido prolatada sentença" (AgRg no AREsp n. 51.857/SP, Rel. Ministro João Otávio de Noronha, TERCEIRA TURMA, DJe 26/5/2015). Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp 1690253/AM, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+3. Ante o exposto, julgo prejudicado o presente recurso especial.
+Publique-se. Intimem-se.
