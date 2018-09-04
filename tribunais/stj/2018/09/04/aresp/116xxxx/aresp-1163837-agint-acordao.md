@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL. CIVIL. OBRIGAÇÃO DE FAZER. ANÁLISE DE PROJETO DE ARQUITETURA PELA ADMINISTRAÇÃO PÚBLICA. INCIDÊNCIA DA MULTA COMINATÓRIA. REEXAME DOS CRITÉRIOS ESTABELECIDOS PARA O ARBITRAMENTO DA MULTA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Com relação à negativa de vigência ao art. 537, § 1º, do CPC de 2015, sem razão o recorrente, uma vez que é assente na jurisprudência desta Corte o entendimento no sentido de que cabe às instâncias ordinárias o arbitramento da multa coercitiva e a definição de sua exigibilidade, bem como eventuais alterações do seu valor e/ou periodicidade, dependendo das circunstâncias de cada caso concreto, tendo como parâmetros o valor da obrigação e importância do bem jurídico tutelado; o tempo para cumprimento (prazo razoável e periodicidade); capacidade econômica e de resistência do devedor; possibilidade de adoção de outros meios pelo magistrado e dever do credor de mitigar o próprio prejuízo.
+II - Nessa senda, adentrar no mérito do acerto ou desacerto do aresto recorrido que limitou a multa diária em trinta dias, de forma a dilatar ou reduzir esse prazo, demandaria a incursão em elementos fáticos dos autos, o que não é possível por via de recurso especial, por óbice da incidência da Súmula n. 7/STJ.
+III - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno contra decisão monocrática de fls. 259-262.
+O presente feito decorre de ação ajuizada por Grupo OK Construções e Incorporações Ltda - EPP contra o Distrito Federal, objetivando o cumprimento da obrigação de fazer por parte dos Requeridos, a fim de que cumpram o prazo de 30 dias estabelecidos no artigo 25 da Lei n. 2.105/1998 e profira manifestação a respeito do requerimento de cumprimento de exigência que visa a aprovação do projeto de arquitetura da obra a ser realizada na SCLN 412 - PROJEÇÃO 02 - BRASÍLIA/DF. à causa foi arbitrado o valor de R$ 1.000,00 (mil reais). Na sentença julgou-se extinto o processo sem resolução de mérito por ausência de interesse processual.
+No Tribunal de Justiça do Distrito Federal e Territórios, a sentença foi reformada, nos termos assim ementados:
+APELAÇÃO CÍVEL - OBRIGAÇÃO DE FAZER. ANÁLISE DE PROJETO DE ARQUITETURA PELA ADMINISTRAÇÃO PÚBLICA. EXCESSO DE PRAZO. ATENDIMENTO DO PEDIDO NO CURSO DA DEMANDA. INEXISTÊNCIA DE PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. RECONHECIMENTO DO PEDIDO. DEVER JUDICIAL DE RESOLVER O MÉRITO. ART. 487, III, a DO CPC/2015. PRINCÍPIOS DA ECONOMIA PROCESSUAL, CELERIDADE E EFETIVIDADE.
+O cumprimento de obrigação no curso o processo não afasta o interesse processual no julgamento do pedido. Trata-se, na verdade, de reconhecimento do pedido e, por essa razão, deve o juiz resolver o mérito da demanda, nos termos do art. 487, III, a do CPC/2015.
+O Distrito Federal, após a protocolização de pedido de análise de projeto de arquitetura, tem o prazo de 30 dias para analisá-lo, nos termos do art. 25 doo Código de Edificações do Distrito Federal. Após o cumprimento de exigências pela Administração Pública pra avaliar o requerimento, retoma-se a contagem do prazo de 30 dias pra verificá-las.
+Apesar da análise inicial de projeto apresentado, após a protocolização de requerimento de cumprimento de exigências e ultrapassado o prazo de 30 (trinta dias) previstos em lei para a sua avaliação, tem-se a configuração da desídia da Administração Pública, apta a ensejar a intervenção judicia.
+Apelação conhecida e provida.
+Opostos embargos de declaração, foram eles rejeitados (fls. 195-202).
+Interposto pelo GRUPO OK CONSTRUÇÕES E INCORPORAÇÕES LTDA. - EPP recurso especial, interposto com fundamento no artigo 105, inciso III, alínea a, da Constituição Federal.
+Em suas razões recursais especiais o Grupo OK aponta negativa de vigência ao art. 537, § 1º, do CPC de 2015, porquanto, em síntese, o acórdão recorrido, quando deliberou por limitar a multa diária pelo prazo de trinta dias, acabou por incentivar o recorrido a continuar extrapolando a determinação contida no art. 25 da Lei n. 2.105/1998, isso porque, findo aquele prazo, o Distrito Federal não terá prazo para a análise e aprovação do projeto de arquitetura do imóvel objeto da ação.
+Apresentadas contrarrazões às fls. 217-226, o Tribunal a quo negou seguimento ao recurso (fls. 228-229), tendo sido interposto o presente agravo.
+Recebidos os autos no STJ, foi proferida decisão na qual conheceu do agravo para não conhecer do recurso especial.
+Interposto agravo interno pelo Manifesto Construções e Incorporações S/A
+Certificada a falta de procuração nos autos, a parte foi intimada para regularizar o feito. Regularizado às fls. 287.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Com relação à negativa de vigência ao art. 537, § 1º, do CPC de 2015, sem razão o recorrente, uma vez que é assente na jurisprudência desta Corte o entendimento no sentido de que cabe às instâncias ordinárias o arbitramento da multa coercitiva e a definição de sua exigibilidade, bem como eventuais alterações do seu valor e/ou periodicidade, dependendo das circunstâncias de cada caso concreto, tendo como parâmetros o valor da obrigação e importância do bem jurídico tutelado; o tempo para cumprimento (prazo razoável e periodicidade); capacidade econômica e de resistência do devedor; possibilidade de adoção de outros meios pelo magistrado e dever do credor de mitigar o próprio prejuízo.
+Nessa senda, adentrar no mérito do acerto ou desacerto do aresto recorrido que limitou a multa diária em trinta dias, de forma a dilatar ou reduzir esse prazo, demandaria a incursão em elementos fáticos dos autos, o que não é possível por via de recurso especial, por óbice da incidência da Súmula n. 7/STJ.
+Nestes termos, os seguintes julgados:
+AGRAVO DE INSTRUMENTO AÇÃO DE RESCISÃO DE CONTRATUAL ATRASO NA ENTREGA DE LOTEAMENTO SUPERIOR AO PRAZO PACTUADO E TOLERÁVEL PROVIMENTO ANTECIPATÓRIO DA TUTELA CONCEDIDO SUSPENSÃO DE PAGAMENTO DE PARCELAS VINCENDAS E ABSTENÇÃO DE INCLUSÃO DOS NOMES DOS AUTORES NOS CADASTROS DE INADIMPLENTES VIOLAÇÃO CONTRATUAL COMETIDA PELA AGRAVANTE COMINAÇÃO DE MULTA ARTIGO 300 DO NOVO CPC/2015 REQUISITOS PREENCHIDOS CABIMENTO PLEITO DE REDIMENSIONAMENTO DA MULTA FIXADA QUE NÃO MERECE GUARIDA VALOR PROPORCIONAL E RAZOÁVEL, SEM CUNHO RESSARCITÓRIO RECURSO CONHECIDO E IMPROVIDO UNANIMIDADE.
+ ..
+No tocante ao pleito de redimensionamento das multas fixadas, vejo que não merece acolhida, vez que o valor fixado pelo Juízo de planície (sendo a multa diária de R$ 300,00, limitada a 30 dias-multa, ou seja, R$ 9.000,00) encontra-se dentro dos padrões de razoabilidade e proporcionalidade, sem que tenha caráter satisfativo e ressarcitório.
+Denota-se, portanto, que o Tribunal de origem concedeu a tutela antecipada pois entendeu que os requisitos para o seu deferimento estavam plenamente configurados.
+A jurisprudência pacífica desta Corte Superior entende que a apreciação dos requisitos que ensejaram o deferimento da liminar ou da tutela antecipada enseja o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 desta Corte Superior.
+Nesse sentido, os seguintes precedentes (grifamos):
+ ..
+5. Ante o exposto, nego provimento ao agravo (AREsp 1055938/SE, Min. LUIS FELIPE SALOMÃO, Julgamento em 6/4/2017, Dje. 19/4/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MULTA DIÁRIA. PRECLUSÃO E COISA JULGADA. NÃO OCORRÊNCIA. RECURSO ESPECIAL REPETITIVO 1.333.988/SP. PARÂMETRO DE FIXAÇÃO. ANÁLISE PELAS INSTÂNCIAS ORDINÁRIAS.
+1. A decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+ ..
+3. Cabe às instâncias ordinárias analisar, em cada caso concreto, o valor da obrigação e importância do bem jurídico tutelado; o tempo para cumprimento (prazo razoável e periodicidade); a capacidade econômica e de resistência do devedor; e a possibilidade de adoção de outros meios pelo magistrado e dever do credor de mitigar o próprio prejuízo (duty to mitigate de loss). Precedente: (AgInt. No AgRg. no AREsp. 738.682/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17.11.2016, DJe 14.12.2016).
+4. Agravo interno a que se nega provimento (AgInt no AREsp 882327/MG, Rel. Mini. MARIA ISABEL GALLOTTI, QUARTA TURMA, Julgamento em 9/5/2017, DJe 16/5/2017).
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. NECESSIDADE DE FIXAÇÃO DO PRAZO PARA CUMPRIMENTO PARA INCIDÊNCIA DA MULTA COMINATÓRIA. NULIDADE DA DECISÃO QUE ESTIPULA AS ASTREINTES SEM A ESTIPULAÇÃO DE PRAZO RAZOÁVEL PARA O CUMPRIMENTO DA OBRIGAÇÃO. RECURSO NÃO PROVIDO.
+1. O arbitramento da multa coercitiva e a definição de sua exigibilidade, bem como eventuais alterações do seu valor e/ou periodicidade, exige do magistrado, sempre dependendo das circunstâncias do caso concreto, ter como norte alguns parâmetros: i) valor da obrigação e importância do bem jurídico tutelado; ii) tempo para cumprimento (prazo razoável e periodicidade); iii) capacidade econômica e de resistência do devedor; iv) possibilidade de adoção de outros meios pelo magistrado e dever do credor de mitigar o próprio prejuízo (duty to mitigate de loss) (AgInt no AgRg no AREsp 738.682/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/11/2016, DJe 14/12/2016).
+2. Não fixado prazo para o cumprimento da obrigação de fazer, não cabe a incidência da multa cominatória uma vez que ausente o seu requisito intrínseco temporal.
+3. Agravo interno não provido (AgInt no REsp 1361544/RS, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, Julgamento em 3/10/2017, DJe 5/10/2017).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
