@@ -1,0 +1,22 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EMPREGADO PÚBLICO FEDERAL. ANISTIADO POLÍTICO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. RECONHECIMENTO DO TEMPO EM QUE ESTEVE AFASTADO PARA FINS DE APOSENTADORIA. INSS E UNIÃO NO POLO PASSIVO DA DEMANDA. RATIONE PERSONAE. CONHECIMENTO DO CONFLITO, PROCLAMANDO-SE A COMPETÊNCIA DO JUÍZO FEDERAL.
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo da 4ª Vara do Trabalho de Brasília - DF (suscitante) e o Juízo Federal da 26 Vara do Juizado Especial Cível da Seção Judiciária do Distrito Federal (suscitado), nos autos da ação ordinária proposta por [NOME], contra o Instituto Nacional do Seguro Social - INSS e a União.
+O Juízo suscitado declarou-se incompetente para processar a ação, ao fundamento de que, na espécie, "a parte autora, empregado anistiado nos moldes da Lei n. 8.878/1994, é regido pela Consolidação das Leis do Trabalho e visa à obtenção de direitos trabalhistas. Assim, estando estabelecida a lide em torno de verba de natureza remuneratória decorrente de relação de trabalho, competente é a Justiça do Trabalho para processar e julgar o presente feito, na forma do art. 114, I, da Constituição Federal".
+Por sua vez, o Juízo da 4ª Vara do Trabalho de Brasília - DF suscita o presente conflito negativo ao entendimento de que "a pretensão autoral restringe-se ao recolhimento previdenciário do período em que esteve afastado dos quadros da Administração Pública Federal em virtude de demissão e posterior anistia, não possuindo origem em decisão judicial prévia emanada deste ramo do Poder Judiciário".
+A Subprocuradoria-Geral da República opina pelo conhecimento do conflito, proclamando a competência do Juízo Federal, em parecer subscrito pelo Dr. [NOME] (fls. 330-332).
+É o relatório. Passo a decidir.
+Os autos dão conta de que o autor, empregado público federal, ajuizou a ação ordinária contra o INSS e a União, objetivando o recolhimento de contribuições previdenciárias no período de sua demissão (31/8/1990) até sua readmissão nos quadros do Comando do Exército, que ocorreu por força da concessão de anistia em 21/01/2011. Requer que esse período seja computado para fins de aposentadoria.
+Consoante jurisprudência do STJ, a competência da Justiça Federal, prevista no art. 109, I, da Constituição Federal, é fixada, em regra, em razão da pessoa (competência ratione personae), levando-se em conta não a natureza da lide, mas, sim, a identidade das partes na relação processual.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. ENUNCIADO ADMINISTRATIVO 2/STJ. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. PRESENÇA NA LIDE DA AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES. AGRAVO IMPROVIDO.
+3. É assente que o critério definidor da competência da Justiça Federal é ratione personae, ou seja, considera a natureza das pessoas envolvidas na relação processual, sendo irrelevante, para esse efeito e ressalvadas as exceções mencionadas no texto constitucional, a natureza da demanda sob o ponto de vista do direito material ou do pedido formulado na ação. Precedentes.
+4. Agravo regimental improvido. (AgRg no CC 139.464/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 30/5/2017)
+No caso concreto, como bem pontou o Parquet Federal, a União e o INSS encontram-se no polo passivo da demanda, o que justifica o julgamento da lide pela Justiça Federal.
+A propósito:
+PREVIDENCIÁRIO. COMPETÊNCIA. CONFLITO NEGATIVO. JUÍZO TRABALHISTA E JUÍZO FEDERAL. AÇÃO QUE OBJETIVA A PERCEPÇÃO DE APOSENTADORIA SEM O DESCONTO DA LEI 8.852/94 ("ABATE-TETO"). CAUSA DE NATUREZA PREVIDENCIÁRIA. ART. 109, I, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DO JUÍZO FEDERAL.
+1. O caso em apreço é de natureza previdenciária, porque versa acerca dos descontos efetuados sobre os proventos da aposentadoria do autor, em razão da Lei 8.852/94. Precedente da Terceira Seção do STJ.
+2. Havendo no polo passivo da demanda o INSS, autarquia federal, a competência é da Justiça Federal, nos termos da primeira parte do art. 109, I, da Constituição.
+3. Conflito conhecido para declarar a competência do Juízo Federal da 1ª Vara da Seção Judiciária do Estado de Pernambuco, o suscitado. (CC 88.399/PE, Rel. Ministro Arnaldo Esteves Lima, Terceira Seção, DJe 28/6/2010, grifei)
+Ante o exposto, conheço do conflito negativo de competência e declaro competente o Juízo Federal da 26 Vara do Juizado Especial Cível da Seção Judiciária do Distrito Federal, o suscitado.
+Publique-se. Intimem-se.
