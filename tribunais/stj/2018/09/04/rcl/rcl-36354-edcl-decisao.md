@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração manejados por CONDOMINIO CITTA MILAO em face da decisão que não conheceu da reclamação, porquanto desde a revogação da Resolução n. 12/2009-STJ e a conseqüente edição da Resolução nº 3/2016-STJ, não cabe mais perante o Superior Tribunal de Justiça reclamação contra acórdão de Turma Recursal de Juizado Especial, cuja competência foi atribuída às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça.
+Alega o embargante que "o TJMG declarou INCONSTITUCIONAL a Resolução nº 03/2016 deste STJ", que, "por causa do disposto no artigo 927, V, do CPC, as reclamações não são mais admitidas pelo tribunal local" e que, porquanto, se "faz a oposição do presente recurso para que a preliminar seja analisada, a fim de saber se não existe mais a medida jurídica denominada de reclamação, já que ela não é admitida no TJMG e esta Corte também não quer admitir a medida" (na fl. 142).
+É o relatório.
+Passo a decidir.
+De início, considerando que os atos normativos desta Corte, no caso as resoluções e as disposições equiparam-se a atos normativos federais, parte-se da premissa de que o eg. Tribunal de Justiça do Estado de Minas Gerais somente pode ter exercido o controle concreto e difuso de constitucionalidade, pois o controle abstrato e concentrado na hipótese de ato normativo federal é de competência exclusiva do col. Supremo Tribunal Federal.
+Assim, de trivial sabença, que, quando qualquer juiz ou Tribunal de Segundo Grau exerce o controle de constitucionalidade de ato normativo federal pela via incidental vincula apenas as partes do processo no qual o controle foi exercido.
+Logo, a declaração de inconstitucionalidade incidental de norma jurídica federal promovida por Tribunais estaduais possui efeitos limitados inter partes, não ostentando eficácia erga omnes.
+Ademais, destaque-se que os Órgãos Judiciários de Superposição, como é o caso do Superior Tribunal de Justiça, não se submetem, por óbvio, às decisões de Órgãos Judiciários de Segundo Grau.
+Por fim, destaque-se que a inovação regulamentar da matéria foi estabelecida em função de julgamento promovido pela eg. Corte Especial do Superior Tribunal de Justiça que, sem sombra de dúvidas, não está sujeito diretamente ao controle de constitucionalidade.
+Confira-se a ementa do julgado:
+AGRAVO REGIMENTAL. RECLAMAÇÃO. JUIZADOS ESPECIAIS. RESOLUÇÃO N.12/2009-STJ. INCIDENTE DE INCONSTITUCIONALIDADE. PREJUDICADO. POSTERIOR ADVENTO DA EMENDA REGIMENTAL 22/2016-STJ REVOGANDO A RESOLUÇÃO N. 12/2009-STJ. DELIBERAÇÃO DE EDIÇÃO DE NOVA RESOLUÇÃO SOBRE A COMPETÊNCIA PARA DIRIMIR DIVERGÊNCIAS ENTRE TURMA REGIONAL ESTADUAL E A JURISPRUDÊNCIA DESTA CORTE. AGRAVO PREJUDICADO.
+1. Com o advento da Emenda Regimental nº 22-STJ, de 16/03/2016, ficou revogada a Resolução n. 12/2009-STJ, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte.
+2. Com isso, fica prejudicado o incidente de inconstitucionalidade que ataca a Resolução n. 12/2009-STJ.
+3. A matéria passará a ser tratada por nova resolução, editada à luz do novo Código de Processo Civil, nos termos debatidos pela Corte Especial.
+4. Agravo regimental prejudicado. (AgRg na Rcl 18.506/SP, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 06/04/2016, DJe 27/05/2016)
+Ante o exposto, rejeito os embargos de declaração e, de ofício, determino a remessa dos autos ao eg. Tribunal de Justiça do Estado de Minas Gerais, para que, em cumprimento ao acórdão acima assinalado, receba a reclamação conforme entender de direito.
+Publique-se.
