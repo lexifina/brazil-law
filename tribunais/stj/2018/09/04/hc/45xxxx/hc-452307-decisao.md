@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ E SÚMULA VINCULANTE 26. APLICABILIDADE. COMETIMENTO DE FALTA GRAVE. DECISÃO FUNDAMENTADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] contra o acórdão proferido pela Sétima Câmara de Direito Criminal do Tribunal de Justiça de São Paulo no Agravo em Execução Penal n. 9000061-82.2017.8.26.0590.
+Infere-se dos autos que o paciente obteve a progressão ao regime semiaberto no PEC n. 614.122. Irresignado, o Ministério Público estadual interpôs agravo em execução penal no Tribunal paulista, que deu provimento ao recurso para cassar a decisão de origem, regredindo o sentenciado ao regime fechado, com a determinação para realização do exame criminológico (fls. 16/23).
+Daí o presente writ, em que se alega constrangimento ilegal no condicionamento da concessão de progressão de regime à realização de exame criminológico.
+Aduz que a primeira decisão, proferida pelo d. juízo da Vara das Execuções Criminais, que concedeu a progressão para o regime semiaberto, reformada pela autoridade coatora, está em consonância com a Lei e com a melhor jurisprudência pátria, no sentido de que não são mais exigíveis, em regra, a realização de exame criminológico, para a concessão de progressão de regime prisional e livramento condicional (fl. 6).
+Requer, inclusive em liminar, a concessão da ordem para que seja cassado o acórdão ora atacado, reconhecendo a desnecessidade da realização de exame criminológico para o citado benefício, restabelecendo assim decisão do d. juízo da Vara das Execuções Criminais (fl. 15).
+O pedido de liminar foi indeferido (fls. 103/105).
+Prestadas as informações (fls. 111/121 e 124/129), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República [NOME], manifestou-se pela extinção do writ sem resolução de mérito ou, caso contrário, pela denegação da ordem (fls. 131/134).
+É o relatório.
+Busca a impetração a concessão da ordem para que o paciente seja progredido ao regime semiaberto, ao argumento de fundamentação inidônea do acórdão que exigiu o exame criminológico para deferir o benefício.
+Ao que se tem, a Corte local fundamentou a necessidade de realização do exame criminológico, no fato de que, o paciente cumpre pena de 8 anos, 10 meses e 1 dia de reclusão pela prática do crime de roubo circunstanciado, tendo cometido falta grave no curso da execução (fl. 20).
+Inicialmente registre-se que a jurisprudência desta Corte Superior é no sentido de que admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Enunciado n. 439 da Súmula do Superior Tribunal de Justiça). No mesmo sentido é a jurisprudência da Suprema Corte (Súmula Vinculante n. 26).
+Assim, vejamos se a fundamentação é suficiente pare ensejar a exigência de exame criminológico.
+Em relação ao primeiro fundamento, tem-se que insuficiente, pois o Superior Tribunal de Justiça entende que a gravidade abstrata do delito praticado e a longevidade da pena a cumprir não se prestam, por si sós, como fundamentos para a realização do exame criminológico, tendo em vista que a exigência da perícia técnica deve se fundamentar em elemento concreto, constante da execução da pena, que ateste o demérito do sentenciado (HC n. 389.372/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/4/2017).
+Por outro lado, a prática de falta grave no curso da execução, é fundamento idôneo para justificar a necessidade do exame criminológico. Na questão em análise, o Tribunal de origem cassou o benefício, por ausência de mérito do paciente, e determinou a realização de exame criminológico com base em elementos concretos, considerando o histórico criminal conturbado do apenado, consistente na prática de falta grave no curso da execução, razão pela qual se mostra evidenciada a idoneidade da fundamentação utilizada na origem, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem (HC n. 388.275/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/5/2017).
+No mesmo sentido: HC n. 316.812/SP, de minha relatoria, Sexta Turma, DJe 10/9/2015, e HC n. 395.217/SP, Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe n. 22/8/2017.
+Então, tem-se que a decisão hostilizada está devidamente fundamentada.
+Em razão disso, denego a ordem.
+Publique-se.
