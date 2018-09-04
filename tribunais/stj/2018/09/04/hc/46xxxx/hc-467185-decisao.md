@@ -1,0 +1,22 @@
+DECISÃO
+Em razão do indeferimento do pedido liminar formulado no HC n. 1.0000.18.087899-3/000, que tramita no Tribunal de Justiça de Minas Gerais, impetrou-se este habeas corpus em favor de [NOME].
+Narram os autos que a paciente, denunciada pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 c/c art. 29 do Código Penal, teve a prisão preventiva decretada no dia 26/7/2018 (Autos n. 0030206-18.2018.8.3.0005, em curso na Vara Única da comarca de Açucena/MG).
+Aqui, alega-se, em suma, a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar. Ressalta-se o fato de ser a paciente primária e possuir residência fixa.
+Requer-se, inclusive em liminar, a concessão da ordem para que seja revogada a prisão preventiva da ora paciente ou substituída por medidas cautelares diversas da prisão.
+É o relatório.
+Segundo a pacífica orientação jurisprudencial, salvo nas situações em que a negativa do pleito de urgência configure manifesta ilegalidade, é incabível a impetração de mandamus contra decisão indeferitória de providência liminar prolatada em feito da mesma natureza (Súmula 691/STF).
+Na hipótese, me deparo com excepcionalidade capaz de justificar a superação do referido óbice. Isso porque, as circunstâncias do caso não revelam, à primeira vista, a imperiosidade da adoção da medida cautelar mais gravosa. Confira-se o que disse o Juízo de origem ao decretar a prisão preventiva e indeferir o pedido de revogação da cautelar (fls. 89 e 80):
+ ..  Compulsando os autos, verifica-se que o crime imputado a ré é grave, com pena máxima prevista superior a quatro anos de reclusão e, assim, resta configurado o que dispõe os agis. 311, 312 e 313 1 do CPP.
+A prova carreada aos autos demonstra claramente que o crime ocorreu. Quanto à autoria, existem indícios de ter a denunciada praticado a conduta delitiva  ..
+ ..  Estão presentes as provas da materialidade e os indícios suficientes da autoria.
+Tais fatos somados aos destacados na decisão que decretou sua prisão preventiva, fazem surgir a necessidade da manutenção da sua custódia preventiva como meio de garantir a ordem pública, sendo que sua soltura constitui medida temerária que colocará em xeque a conveniência da instrução criminal e a aplicação da lei penal, bem como, a própria integridade física da vítima.
+Ademais, o simples fato de constituir residência fixa, trabalho/ ocupação licita ou ser estudante universitária não descaracteriza por si só a necessidade de manter acautelada a acusada, visto a imutabilidade do contexto fático que desencadeou a decretação da prisão preventiva da acusada, tornando-a extremamente necessária, pelo que mantenho a decisão que confirmou a segregação do acusado  ..
+Como se vê, limitou-se a magistrada a tecer considerações concernentes à gravidade abstrata do delito, elemento que, de acordo com o entendimento desta Corte, não representa motivação idônea para justificar a medida extrema.
+E, em que pese a consideração realizada pelo Desembargador Relator - de que a paciente dava continuidade à atividade ilícita do marido e de que, a seu mando, havia uma pessoa responsável pela venda do entorpecente (fl. 105) - parece desproporcional a medida extrema aplicada.
+Além disso, aparentemente, a paciente é primária e o crime foi supostamente cometido sem violência nem grave ameaça à pessoa.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+Tal a circunstância, considerando as peculiaridades do caso, defiro medida liminar para, por ora, substituir a prisão preventiva de [NOME] por medidas alternativas, a serem implementadas pelo Juízo de origem, consistentes em: a) comparecimento quinzenal em juízo para informar e justificar suas atividades; b) proibição de ausentar-se da comarca sem autorização judicial, sem prejuízo da aplicação de outras cautelas pelo Juiz do processo ou de decretação da prisão preventiva em caso de descumprimento de qualquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se.
+Com a anotação de que esta decisão não prejudica a análise do mérito do HC n. 1.0000.18.087899-3/000 pelo órgão competente.
+Apôs, ao Ministério Público Federal para parecer.
+Publique-se.
