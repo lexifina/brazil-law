@@ -1,0 +1,19 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. ARTS. 109 E 180, AMBOS DO CÓDIGO PENAL. DELITO DE RECEPTAÇÃO. CONCURSO MATERIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA E EXECUTÓRIA ESTATAL. EXTINÇÃO DA PUNIBILIDADE. NO CASO DE CONCURSO DE CRIMES, A EXTINÇÃO DA PUNIBILIDADE INCIDIRÁ SOBRE A PENA DE CADA UM, ISOLADAMENTE. OCORRÊNCIA.
+Recurso especial prejudicado. Declaração, de ofício, acerca da extinção da punibilidade pela prescrição da pretensão punitiva estatal em relação aos fatos imputados à parte ré - dois crimes de receptação.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da Constituição da República, contra acórdão do Tribunal de Justiça de Minas Gerais que o condenou, em concurso material, a dois crimes de receptação, art. 180 do Código Penal, sendo a pena fixada em 3 anos e 6 meses de reclusão, para um dos crimes, e 3 anos e 3 meses de reclusão, para o outro, no total de 6 anos e 9 meses (fls. 113/141 e 268/274).
+No recurso especial, a parte recorrente sustenta que o acórdão local contrariou os arts. 93, IX, da Constituição da República, 619 do Código de Processo Penal.
+Em petição em apartado, requer o recorrente a decretação da extinção da punibilidade em razão da incidência da prescrição da pretensão executória.
+Contrarrazões ofertadas, por meio das quais se sustenta a manutenção do acórdão recorrido (fls. 402/409).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 387/393 e 402/409).
+É o relatório.
+Inicialmente, o presente recurso foi distribuído a este relator em 30/10/2017, sendo que, em 4/9/2017, a pretensão punitiva estatal já se encontrava fulminada pela prescrição.
+Nesse contexto, à luz do Código de Processo Penal, em seu art. 61, o Magistrado está autorizado a reconhecer de ofício a extinção da punibilidade, in verbis: Em qualquer fase do processo, o juiz, se reconhecer extinta a punibilidade, deverá declará-lo de ofício.
+O curso da prescrição interrompe-se pela publicação da sentença ou do acórdão condenatório, o que for prolatado em primeiro lugar. O acórdão que apenas confirma a sentença de Primeiro Grau, sem decretar nova condenação por crime diverso, não configura marco interruptivo da prescrição, ainda que haja reforma considerável na dosimetria da pena.
+In casu, o recorrente foi condenado, por sentença publicada em 4/9/2009, em concurso material, a dois crimes de receptação, sendo a pena fixada em 3 anos e 6 meses de reclusão, para um dos crimes, e 3 anos e 3 meses de reclusão, para o outro, no total de 6 anos e 9 meses (fls. 113/141 e 268/274); sendo a publicação da sentença, o último marco interruptivo da prescrição, uma vez que, o acórdão proferido foi meramente confirmatório. Portanto, não há de se considerar a publicação do acórdão, como marco interruptivo da prescrição.
+Ressalto que, nos termos do art. 119 do Código Penal, no caso de concurso de crimes, a extinção da punibilidade incidirá sobre a pena de cada um, isoladamente.
+Com efeito, transcorridos mais de 8 anos desde a publicação da sentença condenatória (4/9/2009) e o presente momento, está configurada a ocorrência da prescrição da pretensão punitiva estatal (arts. 109 e 117, ambos do CP).
+Logo, sendo repetidamente decidida a matéria debatida, conforme os precedentes citados, o presente recurso comporta pronta solução, nos moldes do art. 34 do RISTJ e do disposto na Súmula 568/STJ, com o fim de se agilizar a prestação jurisdicional.
+Ante o exposto, com fulcro no art. 34 do RISTJ e no exarado na Súmula 568/STJ, além dos arts. 117, IV, 109, 110 e 114, II, todos do Código Penal, declaro, de ofício, a extinção da punibilidade pela prescrição da pretensão punitiva estatal em relação aos fatos imputados à parte ré - dois crimes de receptação - e, em conseqüência, julgo prejudicado o recurso especial.
+Publique-se.
