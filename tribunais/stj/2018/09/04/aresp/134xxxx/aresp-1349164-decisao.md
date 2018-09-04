@@ -1,0 +1,6 @@
+DECISÃO
+O presente recurso versa sobre tema afetado pela Segunda Seção desta Corte, nos autos dos REsps n. 1.726.563/SP e 1.712.163/SP, de relatoria do em. Ministro MOURA RIBEIRO, para julgamento segundo o rito previsto no art. 1.036 do CPC e seguintes, a fim de "definir se as operadoras de plano de saúde estão obrigadas ou não a fornecer medicamento importado, não registrado na ANVISA" (Tema n. 990/STJ).
+Nos termos do art. 256-L do RISTJ (Incluído pela Emenda Regimental n. 24, de 2016), o recurso especial distribuído nesta Corte que tenha como fundamento idêntica questão de direito afetada ao rito dos recursos repetitivos será devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre o recurso especial representativo da controvérsia.
+Diante do exposto, DETERMINO A DEVOLUÇÃO dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
