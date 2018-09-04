@@ -1,0 +1,19 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – OBSERVÂNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    Vossa Excelência, no dia 1º de agosto de 2018, acolheu o pedido de concessão de medida acauteladora neste habeas, determinando a expedição de alvará de soltura em favor do paciente. Assentou o excesso de prazo da prisão preventiva formalizada no processo nº 0001387.08.2009.8.26.0302, da Segunda Vara Criminal da Comarca de Jaú/SP.
+    Por meio da petição/STF nº 50.724/2018, o advogado Fábio Rogério Donadon Costa, impetrante, informa o descumprimento da liminar. Aduz que o Juízo, frisando ter sido prolatada sentença condenatória, em 11 de julho último, na qual negado o direito de recorrer solto, deixou de expedir alvará de soltura. Requer seja imposta a observância da medida de urgência.
+    Consoante cópia apresentada, o Juízo, em 7 de agosto de 2018, apontou modificada a situação do paciente, afirmando encerrada a instrução criminal. Asseverou encontrar-se recolhido em razão da sentença condenatória.
+    O paciente foi condenado a 8 anos e 9 meses de reclusão, em regime inicial fechado, ante o cometimento do delito versado no artigo 214, combinado com o 224, alínea “a”, na forma do 71, do Código Penal. Negou-se o direito de recorrer em liberdade, ante o fato de haver fugido, no que paralisado o curso do processo-crime por diversos anos. Destacou-se a manutenção dos requisitos da preventiva, dita imperiosa para assegurar a aplicação da lei penal.
+    2. Quando do implemento da liminar, consignei:
+    […]
+    3. Consoante se depreende das informações, o paciente está preso, sem culpa formada, desde o dia 9 de maio de 2017, ou seja, há 1 ano, 2 meses e 22 dias. Surge o excesso de prazo considerada a preventiva e o estágio do processo-crime, porquanto, segundo noticiado pelo impetrante, sequer encerrada a instrução processual. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento mediante o qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    4. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva retratada no processo nº 0001387.08.2009.8.26.0302. da Segunda Vara Criminal da Comarca de Jaú/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judicias, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    […]
+    Observem que a superveniência de decisão condenatória recorrível não afasta a natureza preventiva da prisão. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as custódias decorrentes da pronúncia e da sentença penal condenatória ainda não alcançada pela preclusão maior integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a prisão oriunda da condenação não transitada em julgado.
+    3. Oficiem, com urgência, ao Juízo da Segunda Vara Criminal da Comarca de Jaú/SP, para que expeça alvará de soltura em favor do paciente, Luiz Dias de Oliveira, a ser implementado com as cautelas próprias: caso não esteja preso por motivo diverso da prisão preventiva formalizada no processo nº 0001387.08.2009.8.26.0302. Advirtam-no da necessidade de permanecer com a residência indicada, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 4 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
