@@ -1,0 +1,14 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. Discussão quanto à licitude de cláusula de plano de saúde que prevê o limite para o tratamento emergencial de doze horas, espaço de tempo que, caso superado, enseja a internação hospitalar sem limitação de tempo, o que estaria, segundo alegado, em consonância com a Resolução da ANS, reguladora da matéria. Questão exclusivamente de direito, que refoge dos precedentes desta Corte de Justiça. Exame pelo Colegiado. Necessidade. AGRAVO PROVIDO PARA CONVERTÊ-LO EM RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] RS Sociedade Cooperativa de Serviços Médicos Ltda. contra a decisão monocrática exarada por esta relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ART. 489 DO CPC/2015. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. NULIDADE DE CLÁUSULA CONTRATUAL. LIMITAÇÃO DE TEMPO DE INTERNAÇÃO. IMPOSSIBILIDADE. SÚMULA 302/STJ. PRECEDENTES. SÚMULA 83. REEXAME DE CLÁUSULAS E PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do presente agravo interno, a agravante sustenta a negativa de prestação jurisdicional; a não incidência das Súmulas n. 5, 7 e 83 do STJ; e que não há limitação de prazo de internação, uma vez que na cláusula 7ª do contrato consta expressamente a possibilidade de internação hospitalar do paciente sem limitação de prazo.
+Busca, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+Foi apresentada contraminuta (e-STJ, fls. 256-260).
+Brevemente relatado, decido.
+Melhor analisando a questão, tem-se, em princípio, que a hipótese tratada nos presentes autos não se subsume, exatamente, àquelas em que o contrato de plano de saúde preceitua a limitação do tempo de internação, a ensejar a incidência do enunciado n. 302 da Súmula do STJ.
+Pelo que se verifica, a cláusula contratual em discussão prevê o limite para o tratamento emergencial de 12 (doze) horas, espaço de tempo que, caso superado, enseja a internação hospitalar sem limitação de tempo, o que estaria, segundo alegado, em consonância com a Resolução da ANS, reguladora da matéria.
+Tem-se, nesse contexto, que a questão posta afigura-se, em princípio, exclusivamente de direito, não se amoldando, estritamente, aos precedentes desta Corte de Justiça, a afastar, em princípio, a incidência dos enunciados n. 5, 7 e 83 da Súmula do STJ.
+Assim, considerando os fundamentos trazidos no recurso e atendidos os pressupostos de admissibilidade, dou provimento ao presente agravo para determinar a sua conversão em recurso especial a fim de que a matéria seja reexaminada pelo Colegiado, com fulcro no art. 34, XVI, do RISTJ.
+Publique-se.
