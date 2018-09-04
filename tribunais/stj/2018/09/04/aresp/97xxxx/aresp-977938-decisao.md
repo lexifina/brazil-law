@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 3ª Região, a qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 204):
+CONSTITUCIONAL. PROCESSO CIVIL. AGRAVO LEGAL. APOSENTADORIA ESPECIAL. ATIVIDADE SOB CONDIÇÕES ESPECIAIS. NÍVEL DE RUÍDO ABAIXO DO LIMITE. AGRAVO DESPROVIDO.
+1. No período compreendido entre 06.03.1997 c 18.11.2003, considera-se especial a atividade com exposição a ruído superior a 90 dB, nos termos do Anexo IV do Decreto 2.172/97 e do Anexo IV do Decreto 3.048/99, não sendo possível a aplicação retroativa do Decreto 4.882/03, que reduziu o nível para 85 dB (REsp 1398260/PR, Relator Ministro Herman Benjamin, Primeira Seção, j. 14/05/2014, DJe 05/12/2014).
+2. O PPP informa que o nível de ruído se encontra dentro do parâmetro de salubridade, haja vista que, para o período de 06/03/1997 a 18/11/2003, a legislação considera como atividade especial apenas o trabalho em ambiente com ruídos acima dos 90 dB; pelo que o tempo total de serviço em atividade especial comprovado nos autos é insuficiente para a concessão da aposentadoria especial.
+3. Agravo desprovido.
+Não foram opostos embargos de declaração.
+No especial obstaculizado, o recorrente alegou dissídio jurisprudencial e violação dos arts. 57 e 58 da Lei n. 8.213/91, sustentando que "a norma mais benéfica deve retroagir em favor do segurado para considerar como atividade especial, o que for exercido posteriormente a 06/03/1997 (data do inicio de vigência do Decreto nº 2.172/97) com nível de ruído superior a 85 decibéis" (e-STJ fl. 209).
+Ademais, alega ainda que houve violação do art. 462 do CPC/1973, visto que o autor teria completado o tempo necessário à concessão da aposentadoria no decorrer da ação judicial, tendo havido omissão do Tribunal de origem quanto à questão.
+Transcorrido in albis o prazo para contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que esta Corte concluiu, em sede de julgamento de recursos repetitivos, pela irretroatividade do Decreto n. 4.882/03, devendo ser considerado o patamar de 90 decibéis para o período de 06/03/97 a 18/11/03. Ademais, entendeu pela ausência de prequestionamento quanto à suposta violação do art. 462 do CPC/1973.
+Na presente irresignação, o agravante sustenta que não requer o reexame de matéria fática, pois as razões estariam baseadas em questões exclusivamente de direito.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, verifico que o agravo não merece ser conhecido.
+A despeito de o Tribunal de origem ter negado seguimento ao recurso especial com base em julgamento de recurso repetitivo desta Corte e na ausência do prequestionamento, o agravante se limitou a repetir as razões do apelo especial, bem como a argumentar acerca da desnecessidade de reexame de provas para a apreciação do apelo especial.
+Cumpre ressaltar que, nos termos do disposto no art. 544, § 4º, I, do CPC/1973, o agravante deve atacar especificamente todos os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+Nesse sentido, vide: AgRg no AREsp 748.670/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 24/11/2015, e AgRg no AREsp 834.978/SP, Relator Ministra Assusete Magalhães, Segunda Turma, DJe 19/04/2016.
+Por fim, não haverá majoração de honorários recursais, por se tratar de pleito deduzido na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
