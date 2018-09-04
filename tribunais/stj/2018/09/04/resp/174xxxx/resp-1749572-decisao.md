@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição da República, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+ADMINISTRATIVO. SERVIÇO MILITAR OBRIGATÓRIO. MFDV. ADVENTO DA LEI Nº 12.336/2010. DISPENSA ANTERIOR. EXCESSO DE CONTINGENTE.
+1 - Indivíduos dispensados do serviço militar obrigatório por excesso de contingente e em momento anterior ao do advento da Lei nº 12.336/2010 não podem ser reconvocados, após concluírem cursos de Medicina, Farmácia, Odontologia ou Veterinária. Precedente da ia Seção do STJ (RESP 201000550610, HERMAN BENJAMIN, STJ :- PRIMEIRA SEÇÃO, DJE DATA:29/04/2011 ..DTPB:).
+2 - Dado que a dispensa do impetrante por excesso de contingente se deu em data anterior à vigência da nova redação dada pela Lei no 12.336/2010 ao art. 4º da Lei n" 5.292/67, essa modificação não pode ser aplicada ao presente caso, em respeito ao ato jurídico perfeito e à segurança jurídica. Diante do devido respeito à aplicação do direito no tempo (tempus regit actum), deve ser aplicada a nova disciplina legal às dispensas e às convocações realizadas a partir de sua vigência. Não pode a lei nova retroagir para que incida sobre fatos pretéritos, conforme princípio da irretroatividade das leis. Não merece prosperar a tese de que a Lei nº 12.336/2010 deve alcançar a todos aqueles cuja colação de grau ocorreu após sua edição - a partir de 26/10/2010 -, porquanto essa interpretação viola os princípios do ato jurídico perfeito, da irretroatividade das leis e da garantia constitucional do direito adquirido, nos termos do art. 5º, XXXVI, da CF/88.
+3 - A controvérsia presente nestes autos encontra-se, atualmente, sob julgamento no âmbito do STF, que reconheceu repercussão geral ao Agravo de Instrumento nº 838.194. Dessa forma, enquanto não houver julgamento definitivo do referido recurso, deverá prevalecer o posicionamento de que a Lei n.º 12.336/10 se aplica apenas àqueles que foram dispensados após o seu advento.
+4 - Apelação e reexame necessário improvidos (fls. 429-430, e-STJ).
+Nas razões do Recurso Especial (fls. 433-446, e-STJ), a parte recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 4º, 16 e 30 da Lei 12.336/2010 e 3º, 4º e 7º da Lei 5.292/1967. Alega: "não tem amparo legal o pedido do recorrido, nem tampouco a decisão proferida em seu favor, já que a exigência de prestação do serviço militar por parte da recorrente obedece aos ditames da lei" (fl. 441, e-STJ).
+Apresentadas as contrarrazões (fls. 452-485, e-STJ), a Vice-Presidência da Corte de origem determinou a devolução dos autos ao órgão julgador para eventual juízo de retratação, consoante previsto no art. 1.040, II, do CPC/2015
+A Turma Julgadora manteve o entendimento anteriormente adotado pelos mesmos fundamentos (fls. 503.507, e-STJ),
+Inadmitido o Recurso Especial (fls. 512-513, e-STJ), dando ensejo ao Juízo positivo de admissibilidade (fls. 561-562, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 18 de junho de 2018.
+A irresignação merece acolhimento.
+O recorrente foi dispensado do serviço militar obrigatório por excesso de contingente em 10.5.2006, recebendo o Certificado de Dispensa de Incorporação (CDI).
+Posteriormente a esse fato, obteve aprovação em vestibular e concluiu o curso de medicina, com colação de grau em 2014.
+Para essa hipótese fática, está sedimentado nesta Corte Superior o novel entendimento de que os estudantes de Medicina, Farmácia, Odontologia e Veterinária, dispensados por excesso de contingente, estão sujeitos à prestação do serviço militar obrigatório após a conclusão desses cursos, se ocorrida esta após a edição da Lei 12.336/2010.
+Essa questão foi recentemente decidida pela Primeira Seção desta Corte, por intermédio do EDcl no REsp 1.186.513/RS, de minha relatoria. Abaixo cito trecho do voto:
+A questão restringe-se em saber se a Lei 12.336/2010 se refere "àqueles que já foram dispensados mas ainda não convocados posteriormente, ou somente àqueles que forem dispensados após sua vigência"  fl. 193
+(..)
+Consoante anotado na decisão embargada, entendo que as alterações trazidas pela Lei 12.336 passaram a viger a partir de 26 de outubro de 2010 e se aplicam aos "concluintes dos cursos nos IEs destinados à formação de médicos, farmacêuticos, dentistas e veterinários", ou seja, àqueles estudantes que foram dispensados, mas ainda não convocados."
+(..)
+Diante do exposto, acolho os Embargos de Declaração para esclarecer que a Lei 12.336/2010 deve ser aplicada aos concluintes dos cursos nos IEs destinados à formação de médicos, farmacêuticos, dentistas e veterinários que foram dispensados de incorporação, mas ainda não convocados".
+O referido julgado foi assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SERVIÇO MILITAR OBRIGATÓRIO. DISPENSA POR EXCESSO DE CONTINGENTE. ESTUDANTE. ÁREA DE SAÚDE. LEIS 5.292/1967 e 12.336/2010.
+1. Os estudantes de Medicina, Farmácia, Odontologia ou Veterinária dispensados por excesso de contingente não estão sujeitos à prestação do serviço militar, compulsório tão somente àqueles que obtêm o adiamento de incorporação, conforme previsto no art. 4º, caput, da Lei 5.292/1967.
+2. As alterações trazidas pela Lei 12.336 passaram a viger a partir de 26 de outubro de 2010 e se aplicam aos concluintes dos cursos nos IEs destinados à formação de médicos, farmacêuticos, dentistas e veterinários, ou seja, àqueles que foram dispensados de incorporação antes da referida lei, mas convocados após sua vigência, devem prestar o serviço militar.
+3. Embargos de Declaração acolhidos (EDcl no REsp 1.186.513/RS, Rel. Min. Herman Benjamin, Primeira Seção, DJe 14.2.2013).
+No mesmo sentido:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA PREVENTIVO. OS ESTUDANTES DA ÁREA DE SAÚDE QUE FORAM DISPENSADOS DO SERVIÇO MILITAR OBRIGATÓRIO POR EXCESSO DE CONTINGENTE PODERÃO SER RECONVOCADOS SE A CONCLUSÃO DO CURSO DE GRADUAÇÃO FOR POSTERIOR À EDIÇÃO DA LEI 12.336/2010. PRECEDENTE DA 1ª. SEÇÃO: EDCL NO RESP. 1.186.513/RS, REPRESENTATIVO DE CONTROVÉRSIA, REL. MIN. HERMAN BENJAMIN, DJE 14.2.2013. ORDEM DENEGADA.
+1. Esta Corte Superior, no julgamento dos Embargos de Declaração no REsp. 1.186.513/RS, representativo da controvérsia, pacificou o entendimento de que os estudantes de Medicina, Farmácia, Odontologia e Veterinária-MFDV, dispensados por excesso de contingente, estão sujeitos à prestação do Serviço Militar obrigatório, após a conclusão desses cursos, se ocorrida esta depois da edição da Lei 12.336/2010.
+2. No caso dos autos, o autor foi dispensado do Serviço Militar obrigatório por excesso de contingente em 2000, havendo posteriormente concluído o Curso de Medicina em dezembro de 2011. Em 5 de janeiro de 2011, o Ministério da Defesa editou a Portaria 31-MD, que aprovou o Plano Geral de Convocação para o Serviço Militar inicial nas Forças Armadas em 2012, determinando a convocação obrigatória dos Portadores de Certificado de Dispensa de Incorporação-CDI, ou seja, em data posterior à vigência da Lei 12.336/2010, publicada em 27.10.2010, razão pela qual se aplica a referida lei ao caso concreto.
+3. Ordem denegada, por ausência de direito líquido e certo; revogação da tutela liminar. (MS 18.158/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 10.5.2016).
+Dessa forma, por estar em dissonância com o entendimento desta Corte Superior, notadamente porque a dispensa por excesso de contingente, ocorrida em 2006, deu-se anteriormente à edição da Lei 12.336/2010, mas a nova convocação tornou-se possível após a vigência de nova legislação, deve ser modificado o aresto proferido na origem.
+Ante o exposto, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
