@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Goiás, ementado nos seguintes termos:
+    “AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE FATO NOVO. AGRAVO DESPROVIDO. É de se negar provimento ao agravo que não trouxe ao autos nenhum fato novo, limitando-se a repetir os argumentos expendidos por ocasião da interposição do recurso de apelação. Estando a decisão recorrida de acordo com a jurisprudência dominante do respectivo tribunal ou Tribunal Superior, nos termos do artigo 557, do CPC, não há que se falar em reforma. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.” (eDOC 74, p. 6)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 225, §§ 1º e 3º, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que o não reconhecimento de omissão na execução de políticas públicas pelo Município em prol do meio ambiente, viola os princípios da prevenção e precaução.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que não houve inércia absoluta por parte do Município. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No entanto, em análise atenta dos autos, não vislumbro a absoluta inércia do Município de Jaraguá a justificar uma intervenção por parte do Poder Judiciário, para o fim de determinar a demolição de todas as edificações apontadas na inicial, conforme requerido pelo Parquet.
+    É que da análise de todo o processado, pude perceber que várias foram as atuações do Município de Jaraguá, mormente no que tange à fiscalização e recolhimento de dejetos, conforme apurado pelos vários relatórios técnicos que foram anexados no próprio inquérito civil público.
+    Por outro lado, é de se verificar, também, a realização de convênio entre a prefeitura municipal e a empresa de saneamento no sentido de promover a construção de estações de tratamento de esgoto sanitário, mediante recursos do Banco Nacional de Desenvolvimento Social – BNDS.” (eDOC 73, p. 36)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Implementação de políticas públicas. Legislação local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita à legislação local, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido. 3. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de ação civil pública (art. 18, da Lei nº 7.347/85).” (RE-AgR 1.025.161, Rel. Min. Dias Toffoli, Segunda Turma, DJe 1.2.2018)
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. REFORMA EM ESCOLA. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS PELO PODER JUDICIÁRIO. POSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. PRECEDENTES. OMISSÃO ESTATAL. SITUAÇÃO DE RISCO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 1.071.070, Rel. Min. Luiz Fux, Primeira Turma, DJe 12.12.2017)
+    “Direito do Consumidor. 2. Prestação de serviços. Fornecimento de água e esgoto. Alegação de cobrança indevida. 3. Negativa de prestação jurisdicional. Art. 93, inciso IX, do texto constitucional. Não ocorrência. Apreciação das questões suscitadas. 4. Debate no âmbito infraconstitucional. 5. Análise de fatos e provas. Incidência da Súmula 279 do STF. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE-AgR 1.072.284, de minha relatoria, Segunda Turma, DJe 9.4.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
