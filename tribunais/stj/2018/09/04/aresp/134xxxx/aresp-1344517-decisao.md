@@ -1,0 +1,72 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CONFEDERAÇÃO NACIONAL DE DIRIGENTES LOJISTAS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ILEGITIMIDADE PASSIVA. INOCORRÊNCIA. CANCELAMENTO DE REGISTRO. CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA. AUSÊNCIA. DANOS MORAIS VERIFICADOS. SENTENÇA REFORMADA.
+1. Legitimidade passiva da ré. "Os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos, inclusive quando os dados utilizados para a negativação são oriundos do CCF do Banco Central ou de outros cadastros mantidos por entidades diversas." (REsp 1061134/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 10/12/2008, DJe 01/04/2009).
+2. Impunha-se a necessidade de comunicação prévia ao devedor de que o seu nome estaria sendo inscrito nos cadastros negativos, ainda que o registro original tenha sido feito pela SERASA, tendo o SPC/CNDL simplesmente importado de lá tais dados. É o que determina o art. 43, § 2º, do Código de Defesa do Consumidor. A inobservância do referido dispositivo implica o cancelamento do registro, sem prejuízo de sua posterior reativação, observadas as formalidades legais, uma vez que o fato que ensejou o registro não é negado.
+3. Cabível a indenização por danos morais, por se tratar de hipótese de danos "in re ipsa", consoante orientação pacificada no âmbito do STJ (REsp 1061134/RS).
+4. "Quantum" indenizatório fixado em R$ 2.000,00, acrescidos de juros de mora desde a data da inscrição indevida (Súmula 54 do STJ e art. 398 do CC) e corrigidos monetariamente a partir deste julgamento (Súmula 362 do STJ).
+5. Honorários advocatícios fixados em R$ 800,00 conforme parâmetros adotados por este Colegiado.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 43, § 2º, do CDC; Súmula n. 404 do STJ.
+Alega, em síntese, que ser parte ilegítima para responder à ação por não ter realizado a inscrição indevida do nome do consumidor no cadastro de inadimplentes, atribuindo a responsabilidade pela notificação prévia do consumidor ao Serasa.
+Sustenta que comprovou o envio da notificação prévia ao consumidor no endereço fornecido pelo credor, bem como que dispensável o aviso de recebimento.
+Por fim, pugna pela redução do valor fixado a título de danos morais (R$ 2.000,00 - dois mil reais).
+É o relatório. DECIDO.
+2. Em relação à alegada ilegitimidade, a parte recorrente não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial, o que implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior. Aplicação da Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. INCIDÊNCIA DAS SÚMULAS 7 e 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO NÃO PROVIDO.
+ .. .
+4. Em relação à alegação de excessivo valor da indenização e quanto ao termo inicial para correção monetária, constata-se, ao se compulsarem as razões do apelo especial, que a parte recorrente olvidou-se da indicação clara e inequívoca dos dispositivos legais direta e eventualmente violados pelo v. acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula 284 do e. Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+5. Agravo interno não provido.
+(AgInt no AREsp 972.110/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO RÉU.
+1. O STJ não detém competência para apreciar afronta à norma constitucional, sob pena de usurpar a competência conferida constitucionalmente ao Supremo Tribunal Federal. Inteligência do art. 102, inciso III, da Carta Magna.
+2. Rever os fundamentos do acórdão recorrido acerca da existência de causa interruptiva da prescrição demandaria a investigação fático-probatória, providência vedada por meio do recurso especial, em razão do óbice do Enunciado 7 da Súmula desta Corte.
+3. A ausência de indicação expressa de dispositivos legais tidos por vulnerados quanto ao tema não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida. Incidência da Súmula 284 do STF, por analogia.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 410.404/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/12/2016, DJe 14/12/2016)
+3. Acerca da alegada negativa de vigência à Súmula n. 404/STJ, registre-se que os verbetes ou enunciados dos tribunais não se equiparam às leis federais para a finalidade prevista no artigo 105, III, "a" da Constituição Federal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/1973). VIOLAÇÃO AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ NÃO CARACTERIZADA. ART. 132 DO CPC. PRINCÍPIO QUE NÃO É ABSOLUTO. PRECEDENTES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DILAÇÃO DO PRAZO PARA PAGAMENTO.
+CONSTITUIÇÃO DO DEVEDOR EM MORA. EXCESSO NA FIXAÇÃO DA MULTA. READEQUAÇÃO DA VERBA HONORÁRIA. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. OFENSA À SÚMULA. IMPOSSIBILIDADE. ENUNCIADO DA SÚMULA 518/STJ. AGRAVO DESPROVIDO.
+(AgInt no AREsp 844.200/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 13/06/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. DISPOSITIVO. ERRO MATERIAL. RECURSO ACOLHIDO APENAS PARA CORREÇÃO. SEM MODIFICAÇÃO DO JULGADO. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ARTS. 458, II, E 535, I e II, DO CPC/1973. REFORMATIO IN PEJUS. NÃO CONFIGURAÇÃO. DISSÍDIO INTERPRETATIVO. AUSÊNCIA DE SIMILITUDE. SÚMULA Nº 98/STJ. AFRONTA. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. 538 DO CPC/1973.
+(..)
+5. A jurisprudência desta Corte é pacífica no sentido de ser incabível a interposição de recurso especial com fundamento em violação de súmula, por não se enquadrar no conceito de lei federal, a teor do que dispõe o art. 105, III, da CF.
+6. Vislumbrado o caráter protelatório dos embargos opostos, não há falar em ofensa ou negativa de vigência ao mencionado art. 538, mas, sim, em seu fiel cumprimento.
+7. Agravo interno conhecido para correção de erro material e não provido.
+(AgInt no REsp 1598311/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 07/11/2016)
+4. Por outro lado, a Corte de origem, ao dirimir a controvérsia, mediante o exame dos elementos informativos da demanda, concluiu que não houve a notificação prévia da parte agravada acerca da sua inscrição em cadastro de inadimplentes. Confira-se trecho do acórdão nesse sentido:
+Mas compulsando os autos, vejo que a demandada não logrou êxito em comprovar o envio de notificação prévia quanto a tais registros, pois traz documentos comprobatórios (fls. 43/49) relativos à comunicação realizada pelo SERASA, o que não a exime de responsabilidade.
+  que, mesmo tendo o registro original sido efetuado por outro órgão arquivista (SERASA), de onde o SPC/CNDL foi "capturar" tais informações para o fim de registrar os episódios também em seu banco de dados, o fato é que se trata de novas inscrições, com novos efeitos, razão pela qual imprescindível nova comunicação.
+Além disso, quanto à inscrição oriunda da ATIVOS S.A, no valor de R$ 434,68, nada veio aos autos que comprovasse o envio de prévia comunicação ao autor.
+A norma consumerista que impõe a prévia comunicação ao consumidor (art. 43 e respectivos parágrafos, CDC) é cogente e, nos termos do §3Q da aludida regra legal, a finalidade desse comunicado prévio é permitir que a pessoa sob o risco de inscrição possa exigir a correção de eventual inexatidão nos dados apontados. Não cabe ao arquivista "pré -julgar" o consumidor inscrito, considerá-lo mau pagador e deixar de cientificá-lo do novo registro, ainda que com base nos mesmos fatos. É irrelevante indagar se o registro original foi ou não comunicado ao devedor. Tendo sido ou não, impõe-se a cientificação a cada novo registro, ainda que nenhuma ressalva tenha sido oposta ao registro anterior.
+Assim, a inobservância do que dispõe o § 2º do art. 43 do Código de Defesa do Consumidor implica o cancelamento do registro, sem prejuízo de sua posterior reativação, observadas as formalidades legais.
+Com efeito, nos termos da orientação jurisprudencial deste Superior Tribunal de Justiça, consolidada no âmbito de julgamento de recurso repetitivo, "Para adimplemento, pelos cadastros de inadimplência, da obrigação consubstanciada no art. 43, §2º, do CDC, basta que comprovem a postagem, ao consumidor, do correspondência notificando-o quanto à inscrição de seu nome no respectivo cadastro, sendo desnecessário aviso de recebimento. - A postagem deverá ser dirigida ao endereço fornecido pelo credor." (REsp 1083291/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 09/09/2009, DJe 20/10/2009).
+Na hipótese dos autos, conforme afirmado pelo Tribunal a quo, não restou demonstrado pela parte agravante que a notificação prévia foi enviada para o ora agravado, não se desincumbindo, assim, do ônus previsto no art. 43, § 2º, do Código de Defesa do Consumidor.
+Nesse contexto, infirmar as conclusões do julgado, para reconhecer que a referida notificação foi remetida para o agravado, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação no enunciado da Súmula n. 7 deste Superior Tribunal de Justiça e impede o conhecimento do recurso por ambas as alíneas do dispositivo constitucional.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DANO MORAL. AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, julgou procedente o pedido de indenização por dano moral deduzido em desfavor da agravante, tendo asseverado que a prévia comunicação não foi efetuada nos moldes do art. 43, § 2º, do Código de Defesa do Consumidor.
+2. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. A revisão do valor fixado para indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não ocorreu no caso dos autos, em que fixada em R$ 5.000,00 (cinco mil reais).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1356058/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/03/2017, DJe 29/03/2017)
+PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA 284/STF. DANO MORAL. INSCRIÇÃO EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. PREMISSA FÁTICA. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. "A falta de indicação do dispositivo de lei considerado violado ou a que se tenha dado interpretação divergente caracteriza a ausência de fundamentação, circunstância que atrai o enunciado da Súmula 284/STF" (AgRg no AREsp n. 523.565/PA, Relator o Ministro Luis Felipe Salomão, Quarta Turma, DJe 1º/9/2014)
+2. Caso em que o Tribunal local consignou que a recorrente descumpriu o dever de notificar a consumidora na forma do § 2º do art. 43 do Código de Defesa do Consumidor. Incidência do enunciado sumular n. 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 677.953/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/05/2015, DJe 21/05/2015)
+5. Por fim, quanto ao pedido de redução do valor fixado a título de danos morais, conforme reiterada jurisprudência desta Corte, o valor dos danos morais só poderá ser revisto, na via especial, nos casos em que o montante fixado afronta os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ, a impedir o conhecimento do recurso.
+No presente caso, a quantia fixada pelo Tribunal de origem, qual seja, de R$ 2.000,00 (dois mil reais), não escapa à razoabilidade, nem se distancia dos parâmetros adotados por esta Corte, que preleciona ser razoável a condenação em até ao equivalente a 50 (cinquenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito (REsp 295.130/SP, Relator Ministro Humberto Gomes de Barros, DJ 04/04/2005).
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. REDUÇÃO. MONTANTE INDENIZATÓRIO FIXADO COM RAZOABILIDADE. REEXAME DE PROVAS. ANÁLISE OBSTADA PELA SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+1. O STJ já firmou entendimento de ser razoável a condenação em valor equivalente a até 50 (cinquenta) salários mínimos por indenização por dano moral decorrente de inscrição indevida em órgãos de proteção ao crédito. Precedentes.
+2. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 235.636/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/12/2012, DJe 04/02/2013).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. INSCRIÇÃO INDEVIDA. CADASTRO DE INADIMPLENTES. INDENIZAÇÃO. DANO MORAL. VALOR ARBITRADO. RAZOABILIDADE. PRECEDENTES DO STJ.
+1. Segundo a jurisprudência desta Corte, é razoável o valor do dano moral fixado em até 50 salários mínimos para os casos de inscrição inadvertida em cadastros de inadimplentes, devolução indevida de cheques, protesto incabível e outras situações assemelhadas.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no Ag 1343741/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/12/2012, DJe 13/12/2012).
+6. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
