@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 522):
+"APELAÇÕES CÍVEIS. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C REPETIÇÃO DE INDÉBITO. COBRANÇA DA TARIFA PELO SERVIÇO DE TRATAMENTO DE ESGOTO. CEDAE. SENTENÇA DE PROCEDÊNCIA.
+1. Inocorrência de prescrição. Prazo decenal na forma da orientação do E. STJ (REsp 1.117.903/RS).
+2. Conforme o disposto na Lei nº 11.445/07, a cobrança pelos serviços de esgotamento sanitário abrange não só o tratamento de efluentes, como também a coleta, o transporte, e a disposição final adequadas dos dejetos, desde as ligações prediais até o seu lançamento final no meio ambiente.
+3.Neste caso concreto, a concessionária ré não presta ao condomínio nenhuma das etapas do serviço de esgotamento sanitário, pagando à empresa contratada inclusive pela coleta e despejo dos dejetos diretamente na estação de tratamento da CEDAE, no bairro do Caju.
+4. Cobrança indevida da tarifa de esgoto. Precedentes deste Colegiado. Devolução dos valores.
+5.Repetição do indébito de forma simples, nos termos da Súmula nº 85 deste E. Tribunal de Justiça: Incabível a devolução em dobro pelo fornecedor e pela concessionária, se a cobrança por eles realizada estiver prevista em regulamento, havendo repetição simples de indébito.
+SENTENÇA MANTIDA.
+RECURSOS CONHECIDOS E DESPROVIDOS."
+No especial obstaculizado, o ora agravante apontou violação do art. 3º da Lei n. 11.445/2007. Alegou, em síntese, que o acórdão recorrido vai de encontro ao decidido no recurso repetitivo n. 1.339.313/RJ (Tema n. 535 do STJ), que reconheceu a legalidade da cobrança integral da tarifa de esgoto
+Sustentou, ainda, que o serviço de esgotamento sanitário é efetivamente prestado, que a devolução de valores pagos é indevida e que, caso condenada a restitui-los, o prazo prescricional aplicável é o trienal
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou a interposição do presente agravo.
+Contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerado isso, observa-se que a matéria em debate foi examinada pela sistemática dos recursos repetitivos, a partir do julgamento do REsp 1.339.313/RJ (Tema n. 565), no qual foi firmada a tese de que a legislação que rege a matéria dá suporte para a cobrança da tarifa de esgoto mesmo ausente o tratamento final dos dejetos, principalmente porque não estabelece que o serviço público de esgotamento sanitário somente existirá quando todas as etapas forem efetivadas, tampouco proíbe a cobrança da tarifa pela prestação de uma só ou de algumas dessas atividades.
+Nos termos do art. 543-C, § 7º, II, c/c § 8º, do CPC/1973, uma vez publicado o acórdão do Superior Tribunal de Justiça proferido no julgamento de representativo de controvérsia, os recursos especiais sobrestados na origem serão novamente examinados pelo Tribunal a quo, na hipótese de o julgado recorrido divergir da tese firmada, e mantida a decisão divergente pelo colegiado, far-se-á o exame de admissibilidade do apelo nobre.
+Já o art. 1.030, II c/c V, "c", do Novel Diploma Processual determina que caberá ao Presidente ou ao Vice-Presidente do Tribunal recorrido encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Superior Tribunal de Justiça exarado, no regime de recursos repetitivos e, refutado o juízo de retratação, realizar a admissibilidade do recurso.
+Na hipótese, a Vice-Presidência da Corte a quo decidiu nos seguintes termos (e-STJ fls. 606/608):
+No que tange ao prazo prescricional aplicável, quando do julgamento do mérito do REsp 1.532.514/SP, paradigma do Tema nº 932, o Superior Tribunal de Justiça fixou a seguinte tese:
+"O prazo prescricional para as ações de repetição de indébito relativo às tarifas de serviços de água e esgoto cobradas indevidamente é de: (a) 20 (vinte) anos, na forma do art. 177 do Código Civil de 1916; ou (b) 10 (dez) anos, tal como previsto no art. 205 do Código Civil de 2002, observando- se a regra de direito intertemporal, estabelecida no art. 2.028 do Código Civil de 2002."
+Assim, o posicionamento do acórdão recorrido quanto à prescrição, deixando de reconhecer o prazo trienal, está em conformidade com entendimento do Superior Tribunal de Justiça, exarado no regime de julgamento de recursos repetitivos.
+Por sua vez, quando do julgamento do mérito do REsp nº 1.339.313/RJ, paradigma do Tema nº 565, o Superior Tribunal de Justiça se pronunciou de acordo com a seguinte ementa: "(..)"
+A partir daquele julgamento, foi extraída a seguinte tese, vinculada ao Tema nº 565: "(..)"
+A legislação que rege a matéria dá suporte para a cobrança da tarifa de esgoto mesmo ausente o tratamento final dos dejetos, principalmente porque não estabelece que o serviço público de esgotamento sanitário somente existirá quando todas as etapas forem efetivadas, tampouco proíbe a cobrança da tarifa pela prestação de uma só ou de algumas dessas atividades.
+Ocorre que o acórdão recorrido não contraria propriamente os termos da tese, vez que o julgado não reconhece qualquer das fases do serviço de esgotamento.
+Neste caso, o mérito do recurso depende da apreciação do contexto fático-probatório, o que é vedado pelo Verbete nº 7 da Súmula do STJ ("A PRETENSÃO DE SIMPLES REEXAME DE PROVA NÃO ENSEJA RECURSO ESPECIAL"; Corte Especial; julgado em 28/06/1990; DJ 03/07/1990).
+Como se vê, não houve a prévia submissão do recurso ao órgão colegiado competente para exercer o juízo de conformidade antes de se proceder à análise dos pressupostos de admissibilidade recursal.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que exerça o juízo de conformidade nos termos do art. 543-C, § 7º, II, do CPC/1973, então vigente.
+Publique-se. Intimem-se.
