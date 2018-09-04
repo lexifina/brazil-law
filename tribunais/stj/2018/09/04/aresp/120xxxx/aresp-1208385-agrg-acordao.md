@@ -1,0 +1,66 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. ALEGADA FALTA DE INDÍCIOS DA AUTORIA DELITIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. A pretensão recursal de que não haveria, para embasar a pronúncia, indícios mínimos da autoria delitiva demandaria imprescindível reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME] contra decisão que conheceu do agravo para não conhecer do recurso especial da defesa.
+Os autos originam-se de recurso em sentido estrito manejado pela defesa contra a sentença que pronunciou "o réu [NOME] como incurso nas sanções do art. 121, § 2º, incisos I, III e IV, na forma do art. 29, caput, ambos do Código Penal, para que seja submetido a julgamento pelo Tribunal do Júri" (e-STJ fl. 614), o qual foi desprovido em acórdão assim ementado (e-STJ fl. 612):
+RECURSO EM SENTIDO ESTRITO. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. INDÍCIOS SUFICIENTES DE AUTORIA. EXISTÊNCIA DE PROVA ORAL A CORROBORAR A TESE ACUSATÓRIA. PRONÚNCIA QUE SE IMPUNHA. PERTINÊNCIA DAS QUALIFICADORAS. MOTIVO TORPE. MEIO CRUEL. DISSIMULAÇÃO. SUBMISSÃO DA CAUSA AO TRIBUNAL POPULAR.
+Recurso improvido.
+Irresignada, a defesa então interpôs recurso especial, alegando ofensa ao art. 413 do Código de Processo Penal, ao argumento de que, "No caso dos autos, não há qualquer indício que o acusado tenha cometido o homicídio qualificado da vítima, pelos relatos das testemunhas e o depoimento confesso de [NOME], não traduz com segurança a participação do acusado no delito e nem para manutenção da sentença de pronúncia" (e-STJ fl. 633).
+Inadmitido o apelo extremo, os autos foram encaminhados a esta Corte em virtude de agravo em recurso especial.
+Às e-STJ fls. 726/731, proferi decisão entendendo pelo conhecimento do agravo e pelo não conhecimento do recurso especial.
+Daí o presente agravo regimental, no qual o agravante sustenta a inaplicabilidade da Súmula n. 7 do STJ ao presente caso.
+Repisa, dessa forma, os argumentos trazidos nas razões do recurso especial, no sentido de que "não há qualquer indício que indique que o réu em comunhão com os demais corréus tenha participado do delito" (e-STJ fl. 740).
+Requer a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, uma vez que o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que merece ser integralmente mantida.
+Quanto à alegada falta de indícios suficientes de autoria delitiva, confiram-se os seguintes excertos do acórdão recorrido (e-STJ fls. 615/618):
+É de ser mantida a decisão a quo.
+Da alegada ausência de indícios suficientes da autoria:
+De forma introdutória, destaco que a pronúncia é uma decisão processual, com caráter declaratório e provisório, pela qual o juiz admite ou rejeita a acusação, sem adentrar no exame de mérito. Assim, deve admitir todas as acusações que tenham ao menos probabilidade de procedência, a fim de que a causa seja submetida ao conhecimento dos jurados, juízes naturais dos crimes dolosos contra a vida, por mandamento constitucional.
+Ademais, a pronúncia não exige prova plena da autoria, bastando a existência de indícios suficientes de que o acusado seja o autor do delito que lhe está sendo imputado.
+Quanto ao teor da prova oral produzida, reproduz-se o seguinte trecho do decisum:
+"No que se refere à autoria delitiva, há elementos suficientes para pronunciar o acusado, senão vejamos.
+[NOME] (fls. 389/390v), relatou que era ex-namorada da vítima e que no dia do fato tinha combinado de sair com ele, mas depois desistiu. Que foi sua amiga Mariana quem avisou Júlio pelo celular e que a última vez que falaram era umas 04 e pouco. Refere que conhecia o acusado [NOME], pois eles e seu ex tinham uma lavagem juntos. Que soube que o motivo do crime seria por causa de [NOME], mulher de [NOME]. Sabe que no dia dos fatos eles estavam todos juntos na casa do baile e que [NOME] ofereceu uma carona para a vítima. Não sabe qual era o carro dele. Pelo que sabe seu namorado não era usuário de drogas.
+[NOME] (fls. 390v/392), ex-mulher de [NOME], não presenciou o fato. Refere que conhecia a vítima Julio apenas de vista e negou que ter relacionamento amoroso com ele. Que o acusado [NOME], tio de seu ex-marido, nunca teve um Fiat vermelho. Que [NOME] não estava na sua casa na data do fato, mas soube, depois, que ele teria dormido na casa da mãe dele. Refere não conhecer os demais acusados.
+[NOME] (fls. 387/389), esposa do acusado [NOME], menciona que seu marido não tem apelido de "Seco" e que estava separado dela na data do fato. Que naquele dia foi até o baile onde estava toda a gurizada. Que não conhecia [NOME], vulgo "Alemão" e que soube, pela inspetora Angela que ele teria se apresentado como sendo o autor do fato. Que o veículo de [NOME] era uma Premio vermelha.
+[NOME] (fls. 393/395v), mãe da vítima, refere que conhecia o acusado [NOME] e [NOME]. Que o seu filho era muito amigo de [NOME], inclusive frequentava a casa dele seguidamente. Que depois do fato ouviu falar que seu filho teria um relacionamento com uma pessoa chamada [NOME] e que esse teria sido o motivo. Pelo que sabe seu filho não era usuário de drogas e que a única coisa que a incomodou foi o fato de ele ter sido preso por furto. Refere que [NOME] tinha um Fiat Premio e ficou sabendo pela polícia que um par de sapato de seu filho teria sido encontrado dentro do veículo. Que soube que depois do fato [NOME] se desfez do veículo dois dias depois do fato. Que as pessoas sabem, mas não falam pois têm medo de [NOME] e [NOME].
+[NOME] (fls. 395v/398), irmã da vítima, contou que no velório do seu irmão, [NOME], sua ex-cunhada, foi até a casa da sua mãe e disse que a Vera, ex-mulher de [NOME], ligou e falou que ele tinha chegado em casa de madrugada e tinha falado que tinha matado o seu irmão. Que não conhecia Leonardo, conhecia [NOME] só de vista, que conhece [NOME] e o João porque ele morava no bairro onde a sua mãe mora. Que o motivo teria sido uma mulher chamada [NOME]. Que só conheceu ela em audiência.
+[NOME] (fls. 398v/399v), amiga da vítima, sabe dos fatos de acordo com o que a [NOME] e a mãe dele falam. Que falou com a vítima algumas horas antes de ele ser morto, por telefone, pois servia de "ponte" no relacionamento dele com sua amiga [NOME]. Que não sabe se [NOME] tinha alguma namorada, nem conhece a pessoa de nome [NOME]. Que acha que quando falou com a vítima pela última vez ela não estava no baile pois não tinha barulho.
+[NOME] (fls. 399V/401) declarou que estava no baile no dia do fato e que viu Aldecir com mais algumas pessoas. Que saiu do baile para comer um lanche e o Aldecir lhe convidou para ir até a "maloca", que é uma casa de prostituição. Que não sabe que horário que era.
+[NOME] (fls. 422/423) refere que conhecia a vítima e sabe que ele era muito amigo de Aldecir. Que sabe que Aldecir, [NOME] e outras pessoas estão respondendo pela morte de Júlio e que a vítima não se dava com [NOME]. Que jamais o ofendido entraria no carro de [NOME] porque eles tinham uma briga. Que sabe que Júlio teve um relacionamento com a ex-namorada do [NOME], a [NOME] e que esse seria também um dos motivos das briguinhas e desavenças entre eles.
+[NOME] (fls. 423/424), amigo do réu, refere que estava na data do fato estava no bar e o acusado o convidou para ir até uma boate.
+O réu [NOME] (fls. 424v/425v) nega a autoria do delito. Diz que estava no baile com o "Leo", o [NOME] e o "Alemão", tomando cerveja. Que o Julinho também estava lá e o conhecia pois ele frequentava a sua casa. Que Julinho perguntou onde iam, tendo referido que iriam até um baile na Conceição e ele perguntou se poderia ir junto, tendo referido que sim. Que quando estavam indo, Julio e o [NOME], o "Alemão", começaram a brigar dentro do carro, inclusive quebraram a lateral do veículo. Disse que se não parasse ia largar eles, o que de fato acabou fazendo. Que depois foi embora e não viu mais nada. Que a vítima era seu amigo e não tinha motivo nenhum para matar ele.
+Eis, em suma, a prova oral produzida nos autos."
+In casu, percebe-se que a tese acusatória encontra respaldo nos depoimentos das testemunhas [NOME], [NOME], [NOME], [NOME] e [NOME].
+Tais depoimentos, como se verifica, constituem razão suficiente para a pronúncia do acusado, já que há, nos autos, mais de uma versão probatória.
+Diante desse contexto, a pronúncia era medida que efetivamente se impunha, a fim de que o acusado seja submetido a julgamento pelos jurados.
+No caso em apreço, a Corte a quo concluiu estar provada a materialidade e haver indícios de autoria, nada justificando a subtração de sua análise pelo Tribunal do Júri.
+No contexto, havendo elementos indiciários que subsidiem, com razoabilidade, a imputação, a divergência deve ser solvida pelo Conselho de Sentença, evitando-se a indevida invasão da sua competência constitucional.
+Ademais, o acolhimento da pretensão recursal demandaria amplo revolvimento do acervo fático-probatório dos autos, providência vedada em recurso especial nos termos da Súmula n. 7/STJ.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 121, § 2º, II E III, DO CP. DECISÃO DE PRONÚNCIA. DECOTE DE QUALIFICADORAS. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar se, ao final da primeira fase do procedimento escalonado do juri, há provas ou não para pronunciar, impronunciar, desclassificar ou absolver sumariamente o acusado, bem como verificar se, por ocasião da decisão de pronúncia, eventual qualificadora se mostra improcedente ou descabida. Incidência do enunciado 7 da Súmula deste STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 636.030/BA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/03/2016, DJe 09/03/2016)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. AUSÊNCIA DE ANIMUS NECANDI. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. SENTENÇA DE PRONÚNCIA. MERO JUÍZO DE ADMISSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O acolhimento da tese recursal, no sentido da ausência de dolo específico, implicaria o necessário reexame do contexto fático probatório, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+2. É a pronúncia reconhecimento de justa causa para a fase do júri, com a presença de prova da materialidade de crime doloso contra a vida e indícios de autoria, não representando juízo de procedência da culpa.
+3. Agravo regimental improvido.
+(AgRg no AREsp 765.996/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/06/2016, DJe 17/06/2016)
+RECURSO ESPECIAL. HOMICÍDIO TENTADO QUALIFICADO. PRONÚNCIA FUNDAMENTADA EXCLUSIVAMENTE EM ELEMENTO INFORMATIVO COLHIDO NA FASE PRÉ-PROCESSUAL. NÃO CONFIRMAÇÃO EM JUÍZO. RECURSO ESPECIAL NÃO PROVIDO.
+1. A decisão de pronúncia é um mero juízo de admissibilidade da acusação, não sendo exigido, neste momento processual, prova incontroversa da autoria do delito - bastam a existência de indícios suficientes de que o réu seja seu autor e a certeza quanto à materialidade do crime.
+2. Muito embora a análise aprofundada dos elementos probatórios seja feita somente pelo Tribunal Popular, não se pode admitir, em um Estado Democrático de Direito, a pronúncia sem qualquer lastro probatório colhido sob o contraditório judicial, fundada exclusivamente em elementos informativos obtidos na fase inquisitorial, mormente quando essa prova está isolada nos autos, como na hipótese, em que há apenas os depoimentos da vítima e de sua mãe, colhidos no inquérito e não confirmados em juízo.
+3. O Tribunal de origem, ao despronunciar o ora recorrido, asseverou que "não há prova judicializada suficiente para fins de pronúncia" (fl. 212), razão pela qual, consoante o enunciado na Súmula n. 7 do STJ, torna-se inviável, em recurso especial, a revisão deste entendimento, para reconhecer a existência de prova colhida sob o contraditório judicial apta a autorizar a submissão do recorrido a julgamento perante o Tribunal do Júri.
+4. Recurso especial não provido.
+(REsp 1.254.296/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2015, DJe 02/02/2016)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
