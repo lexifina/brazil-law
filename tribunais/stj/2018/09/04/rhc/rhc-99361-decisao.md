@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LUCAS HERCULANO DA SILVA contra acórdão do Tribunal de Justiça do Estado de Alagoas.
+Consta dos autos que, em 15/7/2015, o Juízo da Vara Única da Comarca de São José da Laje/AL converteu a prisão temporária do ora recorrente em cárcere preventivo. Consta ainda que o ora recorrente foi acusado pela suposta prática do crime previsto no art. 121, § 2º, II e IV, do Código Penal. Segundo a denúncia, o recorrente e outros dois réus "executaram, com diversos tiros de arma de fogo, a vítima JOSSIAS NASCIMENTO GOMES" (e-STJ fl. 62).
+Na ação originária, alegou a defesa a ocorrência de excesso de prazo para a formação da culpa e a ausência de fundamentação idônea no decreto de prisão preventiva. No entanto, a Corte de origem denegou a ordem, nos termos do acórdão assim ementado (e-STJ fl. 130):
+PENAL. PROCESSO PENAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO TEMPORÁRIA POSTERIORMENTE CONVERTIDA EM PREVENTIVA. HABEAS CORPUS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL POR INIDONEIDADE DA FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA. INSUBSISTÊNCIA. DECRETO SEGREGATÓRIO QUE APONTA CONCRETAMENTE A NECESSIDADE DE PRISÃO PREVENTIVA PARA RESGUARDAR A ORDEM PÚBLICA, AMEAÇADA PELA (1) GRAVIDADE CONCRETA DA CONDUTA E PELA REPERCUSSÃO SOCIAL DO CRIME NA COMUNIDADE. EVENTUAL EXISTÊNCIA DE CONDIÇÕES PESSOAS FAVORÁVEIS NÃO AFASTA, POR SI SÓ, A CUSTÓDIA CAUTELAR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. ALEGAÇÃO DE NÃO REALIZAÇÃO DA INSTRUÇÃO DO FEITO. IMPROCEDÊNCIA. INSTRUÇÃO FINALIZADA. PROLAÇÃO DE DECISÃO DE PRONÚNCIA. FEITO COM VISTA PARA A DEFESA, NO AGUARDO DE APRESENTAÇÃO DO ROL DE TESTEMUNHAS QUE EVENTUALMENTE IRÃO DEPOR EM PLENÁRIO DO JURI. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. CONHECIMENTO E DENEGAÇÃO DA ORDEM. DECISÃO UNÂNIME.
+Nas razões do presente recurso ordinário, a Defensoria Pública do Estado de Alagoas sustenta excesso de prazo na formação da culpa, uma vez que o recorrente está preso cautelarmente "há quase 3 anos, e até o presente momento não há qualquer expectativa que permita vislumbrar a prolação da sentença. O que viola claramente o princípio constitucional da razoável duração do processo" (e-STJ fl. 153).
+Acrescenta que "o MM. Juiz de 1ª instância e o E. Tribunal a quo não demonstraram, com base em elementos empíricos e idôneos, que há possibilidade de qualquer dos objetivos da custódia cautelar não ser alcançado com a colocação do paciente em liberdade" (e-STJ fl. 157).
+Diante disso, pede, liminar e definitivamente, o relaxamento da prisão do recorrente.
+O pleito urgente foi indeferido (e-STJ fls. 177/179).
+Informações prestadas (e-STJ fls. 186/224 e 226/230).
+Opinou o Ministério Público Federal pela prejudicialidade do recurso (e-STJ fls. 233/235).
+É, em síntese, o relatório.
+Consoante informações prestadas pelo Juízo da Vara do Único Oficio da Comarca de São José da Laje/AL e conforme consta do parecer ministerial, em 12/7/2017 o recorrente foi pronunciado como incurso nas penas do art. 121, § 2º, incisos II e IV, do Código Penal (e-STJ fl. 229).
+Dessarte, na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido: AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido.
+(AgRg no RHC 50.857/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/3/2016, DJe 29/3/2016)
+Ademais, prejudicado também se encontra o pleito de relaxamento de prisão em decorrência do alegado constrangimento ilegal pelo excesso de prazo na formação da culpa, em razão da superveniência de sentença de pronúncia, conforme inteligência da Súmula n. 21/STJ, que prescreve:
+Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+(Súmula 21, TERCEIRA SEÇÃO, julgado em 06/12/1990, DJ 11/12/1990)
+Dessarte, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
