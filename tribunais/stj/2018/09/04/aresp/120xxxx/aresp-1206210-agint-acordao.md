@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. AUSENTE. FUNDAMENTOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO. PENHORA DE FATURAMENTO. CABIMENTO. FRUSTRAÇÃO DE OUTRAS TENTATIVAS. AUSÊNCIA DE OUTROS BENS PARA PENHORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente), Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por GRUPO OK CONSTRUCOES E EMPREENDIMENTOS LTDA - EPP contra decisão que negou provimento ao agravo em recurso especial, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. AUSENTE. FUNDAMENTOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO. PENHORA DE FATURAMENTO. CABIMENTO. FRUSTRAÇÃO DE OUTRAS TENTATIVAS. AUSÊNCIA DE OUTROS BENS PARA PENHORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO. (e-STJ, fl. 135)
+Nas razões do agravo interno, a agravante sustenta a inaplicabilidade dos óbices das Súmulas 7 e 83/STJ, sustentando que a medida restritiva é muito onerosa, configurando afronta aos princípios da razoabilidade, proporcionalidade e preservação econômica da empresa. Alega que não foram esgotados todos os meios de busca de bens passíveis de sofrer o ato de constrição judicial para fins de satisfazer a execução.
+Pugna pelo conhecimento do presente agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Primeiramente, no que conerne à alegação de omissão, a agravante sustenta que houve negativa de prestação jurisdicional, por não ter o Tribunal de origem examinado os princípios da proporcionalidade e da razoabilidade na aplicação da medida.
+Contudo, sabe-se que o acórdão hostilizado solucionou a questão de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento, ainda que de modo contrário ao interesse da agravante.
+No caso dos autos, o acórdão proferido pelo Tribunal de origem foi claro ao examinar toda a matéria de direito suscitada pela agravante, fundamentando que:
+Ao revés, foi determinada, diante das circunstâncias do caso em apreço, a medida que se revela mais eficiente para atender à finalidade do processo executivo, ou seja, a penhora sobre parcela da renda da empresa executada. Vale acrescentar que a empresa agravante não demonstrou a existência de outros bens passíveis de penhora, sendo que a penhora on line restou infrutífera. De modo que, na hipótese em análise, a medida de penhora de renda afigura-se absolutamente compatível com os princípios que informam a atividade jurisdicional executiva. Ademais, não há nos autos provas inequívocas de que a penhora comprometerá o funcionamento da empresa executada. Assim como não há qualquer prova da alegada precariedade financeira, bem como do faturamento da recorrente, a fim de se avaliar o impacto da penhora sobre o funcionamento da Executada/agravante. (e-STJ, fl. 34 - grifou-se).
+A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese.
+Além disso, o acórdão recorrido está em sintonia com o entendimento desta Corte, que somente admite a penhora de faturamento em hipóteses excepcionais, após frustradas as tentativas de garantia do juízo por outros meios menos gravosos ao devedor.
+Nesse sentido, confira-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 1973. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA SOBRE O FATURAMENTO LÍQUIDO DA EMPRESA. POSSIBILIDADE. REQUISITOS. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Nos termos do Enunciado Administrativo n. 2 do STJ, "Aos Superior Tribunal de Justiça recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+2. Na esteira da jurisprudência do Superior Tribunal de Justiça, não há vedação legal que impeça, em caráter excepcional, a imposição de penhora sobre o faturamento da sociedade empresária, quando observados, cumulativamente, os seguintes requisitos: I) inexistência de bens passíveis de garantir a execução ou que sejam de difícil alienação; II) nomeação de administrador (CPC, art. 655-A, § 3º); e III) fixação de percentual que não inviabilize a atividade empresarial.
+3. O STJ tem mantido penhoras do faturamento líquido, com vistas a, por um lado, em não existindo patrimônio outro suficiente, disponibilizar forma menos onerosa para o devedor e, por outro lado, garantir de forma idônea e eficaz a satisfação do crédito, atendendo, assim, ao princípio da efetividade da execução.
+4. In casu, o exame acerca da existência de outros bens passíveis de serem penhorados, inclusive já ofertados nos autos, ou mesmo de que a determinação de penhora de 20% do faturamento da empresa executada traduz-se em medida desarrazoada, demandaria a revisão de matéria fática, o que é defeso em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 111.531/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/03/2018, DJe 27/03/2018 - grifou-se)
+Na espécie, o Tribunal de origem consignou que "a empresa agravante não demonstrou a existência de outros bens passíveis de penhora, sendo que a penhora on line restou infrutífera. De modo que, na hipótese em análise, a medida de penhora de renda afigura-se absolutamente compatível com os princípios que informam a atividade jurisdicional executiva. Ademais, não há nos autos provas inequívocas de que a penhora comprometerá o funcionamento da empresa executada. Assim como não há qualquer prova da alegada precariedade financeira, bem como do faturamento da recorrente, a fim de se avaliar o impacto da penhora sobre o funcionamento da Executada/agravante". (e-STJ, fl. 34 - grifou-se).
+Sendo assim, ausente nos autos provas contundentes de outros bens também passíveis de penhora.
+Ademais, a penhora on line foi infrutífera, sendo a penhora sobre o faturamento medida adequada a ser tomada.
+Portanto, correto o entendimento do Tribunal de origem, de modo que rever tal posicionamento é obstado pela Súmula 7/STJ.
+Assim, correta a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
