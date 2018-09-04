@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por AGROPECUÁRIA ÁGUA AZUL LTDA, em 10/05/2018, por meio dos quais se impugna decisão, de minha lavra, que deu parcial provimento ao Recurso Especial fazendário, para excluir da remissão parcial, prevista na Lei 11.941/2009, os juros de mora, calculados pela taxa SELIC, incidentes sobre o principal do depósito judicial.
+Nas razões dos Embargos de Declaração, a ora embargante sustenta, em síntese, o seguinte:
+"Pois bem. Cumpre destacar que no presente caso o depósito judicial ocorreu vários anos após o vencimento do débito, mas antes da sua inscrição em dívida ativa. Consequentemente, os valores depositados englobam o principal, acrescido de multa e juros moratórios.
+(..)
+Portanto, conforme entendimento consolidado pelo STJ em sede de recurso repetitivo (REsp 1.251.513/PR), plenamente cabível a remissão prevista na Lei nº 11.941/09 sobre a multa e os juros moratórios incidentes sobre o principal dos valores depositados judicialmente, ainda que depois de ocorrido o trânsito em julgado da decisão final, visto que ainda não ocorrida a transformação em pagamento.
+Assim, requer-se a revisão da r. decisão ora embargada, para o fim de sanar a obscuridade e o erro material apontados, afastando-se a remissão apenas com relação aos juros remuneratórios incidentes sobre o depósito judicial, mas mantendo os descontos previstos na Lei nº 11.941/09 sobre os juros moratórios incidentes sobre o principal, conforme precedente supramencionado" (fl. 133/134e).
+Requer, pois, "se digne Vossa Excelência, com o devido respeito, a receber os presentes embargos de declaração, no seu efeito modificativo, para o especial fim de sanar os vícios de obscuridade e de erro material apontados, sob pena de negativa de vigência aos artigos 489, § 1º, e 1.022 do CPC, e ao artigo 5º, LV, da Constituição Federal" (fl. 134e).
+Sem contraminuta.
+Os Embargos de Declaração merecem prosperar.
+Há erro material na decisão embargada.
+Com efeito, conforme plasmado nas decisões citadas como precedentes, "não há impedimento para que o contribuinte possa promover o pagamento dos débitos, na forma prevista na Lei n. 11.941/09, excluindo, contudo, os juros remuneratórios (taxa SELIC) incidentes sobre o depósito judicial".
+Ante o exposto, acolho os Embargos de Declaração para corrigir o apontado erro material, de modo que, onde consta, na decisão embargada, "dou parcial provimento ao Recurso Especial fazendário, de modo a excluir do benefício da remissão os juros de mora, calculados peal taxa SELIC, incidentes sobre o principal, do montante do depósito judicial", passe a constar "dou parcial provimento ao Recurso Especial fazendário, de modo a excluir do benefício da remissão os juros remuneratórios, calculados pela taxa SELIC, incidentes sobre o principal, do montante do depósito judicial".
+I.
