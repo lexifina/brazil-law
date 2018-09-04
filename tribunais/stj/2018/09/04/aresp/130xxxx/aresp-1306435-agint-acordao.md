@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. ILEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS E DO CONTRATO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas e cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO LUIS FELIPE SALOMÃO:
+1. Cuida-se de agravo interno interposto por [NOME] e OUTROS contra decisão que negou provimento ao agravo em recurso especial, tendo em vista a incidência das Súmulas 283/STF, 5 e 7/STJ.
+Nas razões do presente agravo interno, a parte agravante rebate a aplicação das referidas súmulas. Assevera que houve "um equívoco na valoração das provas dos autos, haja vista que a fim de constatar-se a existência de apólice única e que a seguradora é parte legítima, é necessário apenas a revaloração das provas já colhidas" (fl. 1.506)
+Pede a reforma da decisão.
+Impugnação do agravado às fls. 1.510-1.512.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. ILEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS E DO CONTRATO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas e cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O SR. MINISTRO LUIS FELIPE SALOMÃO(Relator):
+2. A parte agravante não se conforma com a decisão que negou provimento ao agravo manejado contra a inadmissão de seu recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CONTRATOS DE SEGURO ADJETO A MÚTUO HABITACIONAL. RAMO PRIVADO. AGRAVO RETIDO. NÃO CONHECIMENTO. AUSÊNCIA DE REITERAÇÃO NAS CONTRARRAZÕES.
+ART. 523 DO CPC/73. MÉRITO. SEGURO HABITACIONAL EM APÓLICE DE MERCADO (SH/AM). MÚTUO FIRMADO COM A COHAPAR. AGENTE FINANCEIRO ESTIPULANTE QUE NOTICIA A CONTRATAÇÃO DE APÓLICE PRIVADA DE SEGURO, INDICANDO A SEGURADORA RESPONSÁVEL, DIVERSA DA APELADA. ILEGITIMIDADE PASSIVA DA SEGURADORA CARACTERIZADA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. DECISÃO SINGULAR MANTIDA. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, apontou a parte ofensa aos arts. 6º, VIII, 47 e 54, § 4º, do CDC. Na minuta do agravo interno, insiste na tese de que o Tribunal de origem não se atentou às provas produzidas nos autos, no tocante à legitimidade passiva da recorrida.
+3. Conforme afirmado na decisão agravada, o Tribunal de origem, com amparo nos elementos de prova constantes dos autos, assim como com base na interpretação das cláusulas contratuais, concluiu que os imóveis de propriedade dos autores não estão vinculados às regras inerentes ao Sistema Financeiro de Habitação. Consignou que por se tratar de contratos de ramo privado, teria a COHAPAR efetuado contratação de seguro ofertado pela Companhia Excelsior de Seguros, hipótese que afastaria a responsabilidade civil da seguradora SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS, ora recorrida.
+A propósito, vale destacar o seguinte trecho do acórdão recorrido:
+A Caixa Econômica Federal, após intimação, informou não possuir interesse no feito porque as apólices securitárias não pertencem ao ramo público (fs. 515/517).
+A COHAPAR, por sua vez, informou que os contratos dos autores estão vinculados ao ramo 68 (fora do SFH), exceto o contrato da autora [NOME] que está vinculado ao ramo 61/65 (SH-AM). A COHAPAR informou, ainda, que a seguradora responsável para todos os contratos é a Companhia Excelsior de Seguros, porque nesta modalidade securitária os imóveis foram construídos com recursos próprios do agente financeiro (fs. 1016/1018).
+A partir das informações presentes nestes autos e em outros nos quais se cobra o seguro habitacional de imóveis financiados pela COHAPAR, que foi também a estipulante, e ainda da própria legislação e regulamentação do setor, extrai-se que:
+- os contratos alusivos a imóveis construídos com recursos próprios migraram e pertencem atualmente aos ramos 68 ou 61/65 e a Seguradora responsável é a Companhia Excelsior de Seguros, desde agosto de 2000;
+- a seguradora Sul América nunca foi contratada pela Cohapar para garantir contratos em nenhum dos dois ramos citados.
+O exame destes dados conduz à conclusão de que a seguradora requerida é realmente parte ilegítima para figurar no polo passivo do feito.
+Nesse contexto, a análise da pretensão recursal de que o contrato foi firmado no âmbito do SFH (o que levaria à legitimidade passiva da recorrida) demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, assim como interpretação das cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos do enunciado das Súmulas 5 e 7 do STJ.
+Além do precedente já citado na decisão agravada, confira:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. AUSÊNCIA DO PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ILEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não houve debate sobre a questão inserta no art. 6º, VIII, do Código de Defesa do Consumidor, situação esta que inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial, devido a falta de prequestionamento. Incidência da Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça possui entendimento pacífico no sentido de que a seguradora tem legitimidade para figurar no polo passivo de ação que cinge contrato de seguro habitacional, regido pelas regras do Sistema Financeiro de Habitação. Precedentes.
+3. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas, e cláusulas contratuais, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1202234/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+Não bastasse isso, cabe destacar o seguinte trecho do acórdão recorrido:
+Nem se alegue violação a dispositivos do CDC (mormente os arts. 47 e 54, §4º) tendo em vista que, para o fim de indicação da seguradora que figuraria no polo passivo, não há que se falar em hipossuficiência do mutuário - segurado aderente, pois esta particular condição não se estende ao advogado, a quem competia previamente aferir junto ao agente financeiro-estipulante qual a seguradora vinculada aos contratos objeto da lide.
+Esse fundamento do acórdão recorrido não foi especificamente impugnado, como seria de rigor, no recurso especial, o que atrai, por analogia, a incidência da Súmula 283/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
