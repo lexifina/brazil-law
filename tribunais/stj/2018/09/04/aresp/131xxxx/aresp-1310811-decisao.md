@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSUAL CIVIL - JULGAMENTO ANTECIPADO DA LIDE - CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - PRELIMINAR AFASTADA. Presente o requisito do art. 355, I, do NCPC, de rigor o julgamento antecipado da lide, não constituindo este fato a nulidade de cerceamento de defesa LOCAÇÃO DE IMÓVEIS AÇÃO DECLARATÓRIA DE NULIDADE DE FIANÇA PRESTADA EM CONTRATO DE LOCAÇÃO JULGADA PROCEDENTE OPOSIÇÃO PELA CÔNJUGE PARA DEFESA DO PATRIMÔNIO COMUM DO CASAL FIANÇA AUSÊNCIA DE OUTORGA UXÓRIA NULIDADE RECONHECIDA SENTENÇA MANTIDA RECURSO NÃO PROVIDO. A garantia prestada somente por um dos cônjuges, sem a outorga necessária, é nula de pleno direito, nos termos da Súmula nº 332, do STJ, alcançando até mesmo a meação do outro cônjuge, de rigor, portanto, a procedência da ação declaratória, reconhecendo-se a nulidade da fiança prestada.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, alega a agravante, em suma, divergência jurisprudencial e violação aos artigos 489, § 1º, IV, do Código de Processo Civil de 2015.
+Sustenta a nulidade do acórdão recorrido por omissão quanto à tese de que a invalidade do contrato de fiança, por ausência de outorga uxória, não obsta a responsabilidade da agravada, tendo em vista que esta também assumira a qualidade de devedora principal e solidária da obrigação, por expressa disposição contratual.
+Apresentadas contrarrazões (e-STJ fls. 197 - 203), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 204 - 205, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à agravante.
+No caso, a parte alega a nulidade do acórdão por suposta omissão quanto à tese de que a agravada assumiu a obrigação da na qualidade de devedora principal solidária.
+Contudo, verifica-se que não foram opostos os competentes embargos de declaração para que a matéria fosse prequestionada.
+Destaca-se ainda a impossibilidade de análise do tema por esta Corte Superior, também pela incidência da Súmula 284 do STF, nos moldes da jurisprudência abaixo reproduzida:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO STF. 2. ALEGAÇÃO DE VIOLAÇÃO A ENUNCIADO SUMULAR. INVIABILIDADE. 3. NULIDADE DE CITAÇÃO. INCIDÊNCIA DAS SÚMULAS 7 DO STJ E 283 DO STF. 4. ALEGAÇÃO DE ILEGITIMIDADE DA PARTE ORA RECORRIDA. RAZÕES DO APELO EXTREMO DEFICIENTES. SÚMULA 284 DO STF. 5. IRREGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA SÚMULA 284 DO STF. 6. TITULARIDADE DOS BENS OFERECIDOS À PENHORA. ÓBICE DA SÚMULA 7 DO STJ. 7. MULTA COMINATÓRIA. VALOR EXORBITANTE. INVIABILIDADE DE ACOLHIMENTO DAS ALEGAÇÕES. APLICAÇÃO DA SÚMULA 7 DO STJ. 8. AGRAVO INTERNO IMPROVIDO.
+1. O recurso especial não pode ser conhecido sob a alegação de ofensa ao art. 535 do CPC/1973, porquanto não houve a oposição de embargos de declaração para que o Tribunal local reparasse os vícios apontados nas razões do apelo extremo. Desse modo, a incidência da Súmula 284 do STF é medida de rigor.
+2. Alegação de ofensa ao enunciado sumular n. 410 do STJ. No âmbito do recurso especial, não cabe invocar violação de enunciado de súmula.
+(..)
+8. Agravo interno improvido. (AgInt no AREsp 994.839/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. OMISSÃO DO ACÓRDÃO ESTADUAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS. ARBITRAMENTO. SÚMULA 7/STJ.
+1. Na espécie, não houve oposição de embargos de declaração pela ora agravante perante a Corte de origem. Assim, ao indicar violação ao art. 535 do CPC, revela-se manifesta a deficiência na fundamentação do recurso especial. Imperiosa, portanto, a incidência do óbice constante da Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.".
+2. A alteração das conclusões adotadas pela instância ordinária acerca da inexistência do pedido de fixação da verba honorária e da sua respectiva preclusão, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento (AgInt no REsp 1294796/RS, Relator: Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, Julgamento, 09/05/2017, DJe 16/05/2017).
+Ainda que superado o óbice supra, a matéria não comportaria análise na presente via por demandar necessário reexame de cláusulas contratuais, fatos e provas, medida que encontra veto nas Súmulas 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
