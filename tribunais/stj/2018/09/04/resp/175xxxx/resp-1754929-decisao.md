@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL EM NOMINADA AÇÃO DE "CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO DE AUXÍLIO-ACIDENTE DE TRABALHO". SENTENÇA DE IMPROCEDÊNCIA. LAUDO PERICIAL QUE ATESTOU A INEXISTÊNCIA DE LESÃO E A PLENA CAPACIDADE PARA DESEMPENHO DA ATIVIDADE PROFISSIONAL - AUSÊNCIA DOS REQUISITOS PARA A CONCESSÃO DE QUALQUER BENEFÍCIO PREVIDENCIÁRIO. RECURSO CONHECIDO E NÃO PROVIDO.
+Os Embargos de Declaração opostos foram rejeitados (fl. 469, e-STJ).
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 8º, § 2º, da Lei 8.620/1993, 1º da Lei 1.060/1950, 15 e 16 da LC 101/2000. Aduz:
+Em síntese, portanto, e na esteira do atual entendimento do STJ, em ações acidentárias: (a) o INSS apenas adianta os honorários periciais, na forma do art. 8º, §2º, da Lei 8.620/93; (b) como em qualquer outra demanda, o vencido deve devolver ao vencedor os valores adiantados a título de honorários periciais, despesa processual que é; (c) em caso de AJG, a parte autora é isenta de tal pagamento, na forma do art. 129, parágrafo único, da Lei 8.213/91; (d) diante da AJG, a responsabilidade de ressarcimento à parte vitoriosa recai, então, diretamente sobre o Estado, na forma do art. 1º da Lei 1.060/50. que, afinal, concretiza o art. 5º, LXXIV, da Constituição Federal.
+Requer a condenação do Estado do Paraná ao ressarcimento do valor antecipado pelo INSS a título de honorários periciais.
+Sem contrarrazões.
+Sem Contraminuta.
+À fl. 516, e-STJ, foi dado provimento ao Agravo e determinada sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 30.7.2018.
+Discute-se nos autos a possibilidade de cobrar do Estado do Paraná os honorários periciais decorrentes de perícia médica realizada em demanda cujo litigante foi albergado pela assistência judiciária gratuita.
+O STJ entende que o ônus de arcar com honorários periciais, na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária, deve ser imputado ao Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDENCIÁRIO. EXAME DE PRINCÍPIOS CONSTITUCIONAIS: AMPLA DEFESA E CONTRADITÓRIO. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. PAGAMENTO DE HONORÁRIOS PERICIAIS. BENEFICIÁRIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA SUCUMBENTE. DEVER DO ESTADO.
+1. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Conforme reiterada jurisprudência de ambas as Turmas que compõem a Primeira Seção do STJ, é dever do Estado arcar com o ônus do pagamento dos honorários periciais nos casos em que o beneficiário da assistência judiciária gratuita restar sucumbente. Precedentes: REsp 1.358.549/MG, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe 11/3/2013; EDcl no AgRg no REsp 1.327.281/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/11/2012; AgRg no REsp 1.327.290/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/10/2012.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1678991/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 05/12/2017)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA. HONORÁRIOS PERICIAIS. PAGAMENTO. PARTE SUCUMBENTE BENEFICIÁRIA DA JUSTIÇA GRATUITA. RESPONSABILIDADE DO ESTADO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática publicada em 27/04/2016, que, por sua vez, julgara recurso aviado contra acórdão publicado na vigência do CPC/73.
+II. Inexiste, no caso, ofensa aos princípios do contraditório e da ampla defesa, pois, conforme alega o ora agravante, "o prejuízo ao Estado surgiu com a decisão ora agravada", e, dessa decisão, foi ele devidamente intimado e se defendeu, mediante a interposição do presente Agravo. Precedentes do STJ (EDcl no AgRg no REsp 1.519.239/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/02/2016; AgRg no REsp 1.414.018/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 03/08/2017).
+III. Conforme reiterada jurisprudência desta Corte, "a responsabilidade pelo pagamento dos honorários periciais dos beneficiários da assistência judiciária gratuita sucumbentes do pedido inicial é do Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes" (STJ, REsp 1.646.164/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/04/2017). Em igual sentido: STJ, AgRg no REsp 1.502.949/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 03/05/2017.
+IV. Agravo interno improvido.
+(AgInt no REsp 1575879/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 24/10/2017)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HONORÁRIOS PERICIAIS. SUCUMBENTE O BENEFICIÁRIO DA JUSTIÇA GRATUITA. RESPONSABILIDADE DO ESTADO. DEVER DE GARANTIR O ACESSO À JUSTIÇA E PRESTAR ASSISTÊNCIA JUDICIÁRIA. AGRAVO REGIMENTAL DO ESTADO DE SANTA CATARINA A QUE SE NEGA PROVIMENTO.
+1. Não há violação do preceito contraditório e ampla defesa quando o Estado é chamado à responsabilidade ao pagamento dos honorários periciais, haja vista que o seu dever constitucional em garantir o amplo acesso ao judiciário abrange incumbência de conferir todas as condições necessárias à efetividade processual ao beneficiário da justiça gratuita, não podendo desta maneira exigir do perito que assuma tal ônus financeiro (AgRg no REsp. 1.568.047/SC, Rel. Min. HUMBERTO MARTINS, DJe 2.3.2016).
+2. É firme a orientação desta Corte de que o ônus de arcar com honorários periciais, na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária, deve ser imputado ao Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes. Precedentes: AgRg no REsp. 1.502.949/MS, Rel. Min. SÉRGIO KUKINA, DJe 3.5.2017; REsp. 1.646.164/SC, Rel. Min. HERMAN BENJAMIN, DJe 19.4.2017; AgRg no REsp. 1.367.977/MG, Rel. Min. OG FERNANDES, DJe 30.9.2015; AgRg no AREsp. 421.668/MG, Rel. Min. REGINA HELENA COSTA, DJe 3.6.2015.
+3. Agravo Regimental do ESTADO DE SANTA CATARINA a que se nega provimento.
+(AgRg no REsp 1414018/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/06/2017, DJe 03/08/2017)
+PROCESSUAL CIVIL. AÇÃO ACIDENTÁRIA. HONORÁRIOS PERICIAIS. RESSARCIMENTO AO INSS. SUCUMBÊNCIA DE BENEFICIÁRIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA/ISENÇÃO LEGAL. DEVER DO ESTADO.
+1. A jurisprudência do Superior Tribunal de Justiça reconhece ser ônus do Estado arcar com os honorários periciais quando houver sucumbência de beneficiário da assistência judiciária gratuita ou de isenção legal.
+2. Não há falar em ofensa aos princípios do contraditório e da ampla defesa, pois o Estado de Santa Catarina teve a oportunidade de discutir a questão perante o Juízo a quo e, em sendo dela intimado, interpôs agravo de instrumento.
+3. Agravo interno desprovido.
+(AgInt no REsp 1592790/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/05/2017, DJe 23/06/2017)
+PROCESSUAL CIVIL. PAGAMENTO DE HONORÁRIOS PERICIAIS. BENEFICIÁRIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA SUCUMBENTE. DEVER DO ESTADO.
+1. Conforme reiterada jurisprudência de ambas as Turmas que compõem a Primeira Seção do STJ, é dever do Estado arcar com o ônus do pagamento dos honorários periciais nos casos em que o beneficiário da assistência judiciária gratuita restar sucumbente. Precedentes: REsp 1.358.549/MG, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe 11/3/2013; EDcl no AgRg no REsp 1.327.281/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/11/2012; AgRg no REsp 1.327.290/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/10/2012.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1502949/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/04/2017, DJe 03/05/2017)
+PROCESSUAL CIVIL. HONORÁRIOS PERICIAIS. SUCUMBENTE BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. RESPONSABILIDADE DO ESTADO.
+1. A jurisprudência do STJ está sedimentada no sentido de que a responsabilidade pelo pagamento dos honorários periciais dos beneficiários da assistência judiciária gratuita sucumbentes do pedido inicial é do Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes.
+2. Recurso Especial provido.
+(REsp 1646164/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/03/2017, DJe 19/04/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA SUCUMBENTE. PAGAMENTO DE HONORÁRIOS PERICIAIS. RESPONSABILIDADE DO ESTADO. PRECEDENTES.
+1. O Estado de Santa Catarina afigura-se como parte legitima no feito, uma vez que cabe ao Estado o custeio dos honorários periciais diante da sucumbência de jurisdicionado sob o pálio da gratuidade de justiça.
+2. Não há violação do preceito contraditório e ampla defesa quando o Estado é chamado à responsabilidade ao pagamento dos honorários periciais, haja vista que o seu dever constitucional em garantir o amplo acesso ao judiciário abrange incumbência de conferir todas as condições necessárias à efetividade processual ao beneficiário da justiça gratuita, não podendo desta maneira exigir do perito que assuma tal ônus financeiro.
+3. Ainda, "conforme a jurisprudência, "as despesas pessoais e materiais necessárias para a realização da perícia estão protegidas pela isenção legal de que goza o beneficiário da gratuidade de justiça. Assim, como não se pode exigir do perito a realização do serviço gratuitamente, essa obrigação deve ser do sucumbente ou, no caso de ser o beneficiário, do Estado, a quem é conferida a obrigação de prestação de assistência judiciária aos necessitados." AgRg no AREsp 260.516/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/03/2014, DJe 03/04/2014.
+Agravo regimental improvido.
+(AgRg no REsp 1568047/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/02/2016, DJe 02/03/2016)
+PROCESSUAL CIVIL. HONORÁRIOS PERICIAIS. SUCUMBENTE BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. RESPONSABILIDADE DO ESTADO.
+1. O STJ entende que o ônus de arcar com honorários periciais, na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária, deve ser imputado ao Estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes.
+2. Recurso Especial provido.
+(REsp 1519240/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/04/2015, DJe 30/06/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JUSTIÇA GRATUITA. HONORÁRIOS PERICIAIS. PAGAMENTO. OBRIGAÇÃO DO ESTADO. PRECEDENTES.
+1. "Conforme a recente e reiterada jurisprudência de ambas as Turmas que compõem a Primeira Seção do STJ, é dever do Estado arcar com o ônus do pagamento dos honorários periciais nos casos em que o beneficiário da assistência judiciária gratuita ficar sucumbente" (AgRg no REsp 1338974/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2014, DJe 22/5/2014).
+2. Agravo regimental a que se nega provimento. (AgRg no REsp 1359560/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/12/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE HONORÁRIOS PERICIAIS. SUCUMBENTE BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. PRESCRIÇÃO QUINQUENAL. RESPONSABILIDADE DO ESTADO.
+1. A orientação das Turmas que integram a Primeira Seção/STJ pacificou-se no sentido de que "o prazo prescricional para a cobrança de honorários periciais provenientes de ação judicial em que a parte vencida foi beneficiária da assistência judiciária gratuita é quinquenal nos termos do art. 12 da Lei nº 1.060/50 c/c art. 1º do Decreto nº 20.910/1932" (REsp 1.348.722/MG, 2ª Turma, Rel. Min. Eliana Calmon, DJe de 18.4.2013).
+2. Cabe ao Estado arcar com honorários periciais, na hipótese em que houver sucumbência por parte do beneficiário da assistência judiciária, em razão de ser dever constitucional daquele prestar assistência judiciária aos hipossuficientes. Nesse sentido: REsp 1.219.016/MG, 1ª Turma, Rel. Min. Benedito Gonçalves, DJe de 21.3.2012; AgRg no REsp 1.274.518/MG, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.3.2012; AgRg no REsp 1.349.531/MG, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 13/05/2013.
+3. Agravo regimental não provido (AgRg no REsp 1.343.033/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/9/2013).
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL - PAGAMENTO DE HONORÁRIOS PERICIAIS - PARTE VENCIDA BENEFICIÁRIA DE JUSTIÇA GRATUITA - RESPONSABILIDADE DO ESTADO.
+1. A iterativa jurisprudência desta Corte é no sentido de que o Estado deve arcar com o pagamento dos honorários periciais, se estes são provenientes de ação judicial em que parte vencida fora beneficiada pela assistência judiciária gratuita.
+2. Agravo regimental não provido (AgRg no AREsp 356.794/MG, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 24/9/2013).
+PROCESSUAL CIVIL. HONORÁRIOS PERICIAIS. BENEFICIÁRIO DA JUSTIÇA GRATUITA. RESPONSABILIDADE DO ESTADO. DECISÃO RECORRIDA NO MESMO SENTIDO DA JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ.
+A jurisprudência majoritária desta Corte comunga do entendimento de que o ônus de arcar com honorários periciais, na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária, deve ser imputado ao estado, que tem o dever constitucional de prestar assistência judiciária aos hipossuficientes. Precedentes: REsp 1.245.684/MG, Rel. Min. Benedito Gonçalves, DJe 16.9.2011; REsp 1.196.641/SP, Rel. Min. Castro Meira, DJe 1º.12.2010; e AgRg no Ag 1.223.520/MG, Rel. Min. Napoleão Nunes Maia Filho, DJe 11.10.2010. Incidência da Súmula 83/STJ.
+Agravo regimental improvido (AgRg no AREsp 359.428/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 18/9/2013).
+
+Diante do exposto, dou provimento ao Recurso Especial do INSS e condeno o Estado do Paraná a ressarcir as despesas realizadas pela Autarquia Previdenciária a título de antecipação de honorários periciais.
+Publique-se.
+Intimem-se.
