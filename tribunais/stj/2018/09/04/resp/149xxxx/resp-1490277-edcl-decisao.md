@@ -1,0 +1,22 @@
+DECISÃO
+ Trata-se de Embargos de Declaração, opostos pelo CONDOMÍNIO EDIFÍCIO RESIDENCIAL ITAMBEI, em 09/08/2018, contra decisão de minha lavra, publicada em 03/08/2018, que deu provimento ao Recurso Especial interposto pela ora embargante.
+Inconformada, sustenta a parte embargante que:
+"O condomínio embargante interpôs Recurso Especial, em 10.07.2013, perante este Egrégio Superior Tribunal de Justiça, objetivando reforma do acordão proferido pelo Tribunal Regional Federal da 4ª Região.
+Ab initio, sobreveio a decisão monocrática objurgada, a qual deu integral provimento ao Recurso Especial interposto pela embargante, declarando a nulidade do procedimento demarcatório por ausência de intimação pessoal dos interessados.
+de laudêmio, em relação aos imóveis indicados na inicial, enquanto não realizado o devido procedimento demarcatório.
+Quanto ao ônus sucumbencial, Vossa Excelência assim decretou:
+"Reestabeleço os ônus de sucumbência fixados na sentença".
+Nada obstante, versando a decisão primitiva, a qual Vossa Excelência se refere, verifica-se, de pronto, que a pretensão autoral naqueles autos foi julgada parcialmente procedente, oportunidade na qual, propiciamente, o ônus sucumbencial restou determinado reciprocamente entre as partes, nos seguintes moldes:
+"Fixo os honorários em 10% sobre o valor da causa, que, tendo em vista a sucumbência recíproca, distribuir e compensar-se-ão reciprocamente, 50% para cada parte, nos termos do artigo 21 do Código de Processo Civil".
+Ora, se a pretensão da embargante em seu Recurso Especial foi integralmente acolhida, por decorrência lógica, o ônus sucumbencial deverá ficar a encargo do vencido, no caso, a União. Incabível, no caso sub judice, qualquer condenação sucumbencial recíproca ou em desfavor da embargante.
+Cuida-se, pois, de contradição e erro material passíveis de correção pelo julgador, de ofício ou a requerimento do interessado, mesmo após a publicação da sentença.
+Constata-se, portanto, Nobre Julgadora, ao considerar o integral provimento ao Recurso Especial interposto pela embargante, observa-se que foi inadequadamente fixado o ônus sucumbencial na decisão combatida, obtendo como base a fixação nos moldes da sentença de primeiro grau, cuja determinação do ônus sucumbencial foi de modo recíproco, conforme uma decisão com parcial provimento, o que não coaduna com a decisão monocrática combatida.
+Assim sendo, diante do evidente equívoco e contraditoriedade na decisão embargada, na medida em que a embargante obteve êxito na sua pretensão, não compete a ela arcar com o ônus sucumbencial na proporção de 50%, tendo em vista que houve integral acolhimento do pleito recursal, razão pela qual deve ser reconhecida a erronia do julgado no tocante à distribuição dos ônus sucumbencial" (fls. 572/574e).
+Por fim, requer "seja admitido os embargos declaratórios, a fim de sanar a contradição e erro material invocados, bem como para lhe dar o efeito infringente (modificativo), a fim de reformar a decisão embargada para ao final, seja redistribuído o ônus sucumbencial, de acordo com a decisão objurgada, na qual deu integral provimento à pretensão da embargante, com a consequente condenação da União as despesas processuais e honorários advocatícios em sua integralidade" (fl. 574e).
+Intimada, a parte embargada pugna pela rejeição dos Embargos Declaratórios (fls. 580/582e).
+A irresignação merece acolhida.
+Como cediço, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Com efeito, na hipótese, a decisão ora embargada incorreu em erro material, pois, tendo havido total provimento do Recurso Especial do Condomínio Edifício Itambeí, julgando-se procedentes os pedidos iniciais, não há falar em sucumbência recíproca, nos termos da sentença de fls. 329/334e, conforme determinou a decisão embargada.
+Nesse diapasão, é de rigor a inversão das custas processuais fixadas pelo acórdão recorrido de fls. 442/446e, de modo que seja condenada a parte ré ao pagamento das custas processuais e de honorários advocatícios em valor correspondente a 10% sobre o valor da causa, em favor do patrono da ora embargante.
+Ante o exposto, acolho os Embargos de Declaração, para retificar a decisão de fls. 572/575e, a fim de que conste a inversão das custas processuais, nos termos da fundamentação.
+I.
