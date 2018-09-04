@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo SINDICATO TRAB NAS INDUSTRIAS URBANAS DO RIO DE JANEIRO E OUTROS, em 06/11/2017, contra decisão do Tribunal Regional Federal da 2ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. SENTENÇA DE EXTINÇÃO DA FASE DE CUMPRIMENTO DE SENTENÇA. TRÂNSITO EM JULGADO. FIXAÇÃO DE HONORÁRIOS.
+1. O requerimento para fixação dos honorários advocatícios, formulado depois de transitada em julgado a sentença de extinção da execução, encontra vedação no artigo 494 do CPC.
+2. Após o trânsito em julgado de sentença extintiva do processo, descabida a reabertura de qualquer discussão, somente sendo possível a correção de inexatidões materiais ou retificação de erros de cálculos.
+3. Agravo de instrumento desprovido" (fl. 171e).
+Opostos Embargos Declaratórios, restaram rejeitados (fls. 191/196e).
+Sustenta a parte agravante, nas razões do Recurso Especial, além de dissídio jurisprudencial, ofensa aos artigos 85, §§ 1º e 2º do CPC/2015, 20, §§ 3º e 4º, do C/C/73. Defende que "não há preclusão do direito vindicado pelo patrono dos agravantes, uma vez que nem a execução se ultimou, pois prossegue normalmente no que diz respeito a vários substituídos e seria ilógico paralisar a cobrança do que é devido à parte para se exigir remuneração do advogado" (fl. 200e).
+Aduz, também, que "deve haver a fixação de honorários advocatícios na fase de execução independente do cumprimento do julgado ter sido ou não espontâneo, não havendo que se falar em trânsito em julgado de sentença extintiva do processo" (fl. 208)e.
+Requer, por fim, a reforma da "decisão recorrida, para impor à CEF que suporte honorários advocatícios em execução de, no mínimo, 10% (dez por cento) do quantum cobrado" (fl. 209e)
+Foram apresentadas contrarrazões (fls. 224/235e).
+Negado seguimento ao Recurso Especial (fls. 241/244e), foi interposto o presente Agravo (fls. 248/2709e).
+Foi apresentada contraminuta (fls. 275/2788e).
+A irresignação não merece acolhimento.
+Segundo consta dos autos, "trata-se de agravo de instrumento interposto pelo Sindicato dos Trabalhadores nas Indústrias Urbanas do Rio de Janeiro e outros contra decisão (fl. 141) que indeferiu o requerimento de fixação de honorários advocatícios pertinentes à fase de execução de sentença" (fl. 169e).
+Na análise da presente controvérsia, o Tribunal a quo manteve a decisão agravada, ao fundamento de que "após o trânsito em julgado de sentença extintiva do processo, descabida a reabertura de qualquer discussão, somente sendo possível a correção de inexatidões materiais ou retificação de erros de cálculo" (fl. 170e).
+Tal entendimento encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça. A propósito, confira-se o seguinte precedente, julgado sob o rito do do art. 543-C do CPC/73:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. ACÓRDÃO TRANSITADO EM JULGADO OMISSO QUANTO AOS HONORÁRIOS DE SUCUMBÊNCIA. AJUIZAMENTO DE AÇÃO PRÓPRIA. INADMISSIBILIDADE. OFENSA À COISA JULGADA.
+1. A condenação nas verbas de sucumbência decorre do fato objetivo da derrota no processo, cabendo ao juiz condenar, de ofício, a parte vencida, independentemente de provocação expressa do autor, porquanto trata-se de pedido implícito, cujo exame decorre da lei processual civil.
+2. "Omitindo-se a decisão na condenação em honorários advocatícios, deve a parte interpor embargos de declaração, na forma do disposto no art. 535, II, CPC. Não interpostos tais embargos, não pode o Tribunal, quando a decisão passou em julgado, voltar ao tema, a fim de condenar o vencido no pagamento de tais honorários. Se o fizer, terá afrontado a coisa julgada." (ACO 493 AgR, Relator(a): Min. CARLOS VELLOSO, Tribunal Pleno, julgado em 11/02/1999, DJ 19-03-1999).
+3. "Se a sentença - omissa na condenação em honorários de sucumbência - passou em julgado, não pode o advogado vitorioso cobrar os honorários omitidos." (EREsp 462.742/SC, Rel. Ministro BARROS MONTEIRO, Rel. p/ Acórdão Ministro HUMBERTO GOMES DE BARROS, CORTE ESPECIAL, DJe 24/03/2008).
+4. O trânsito em julgado de decisão omissa em relação à fixação dos honorários sucumbenciais impede o ajuizamento de ação própria objetivando à fixação de honorários advocatícios, sob pena de afronta aos princípios da preclusão e da coisa julgada. Isto porque, na hipótese de omissão do julgado, caberia à parte, na época oportuna, requerer a condenação nas verbas de sucumbência em sede de embargos declaratórios, antes do trânsito em julgado da sentença.
+(..)
+7. Destarte, a ausência de discussão da matéria no recurso da ação principal e a falta de oposição de embargos de declaração tornam preclusa a questão, por força da coisa julgada, passível de modificação apenas mediante o ajuizamento de ação rescisória.
+8. Recurso especial desprovido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008" (STJ, REsp 886.178/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, DJe de 25/02/2010).
+Acrescente-se que tal orientação jurisprudencial restou cristalizada na Súmula 453/STJ: "Os honorários sucumbenciais, quando omitidos em decisão transitada em julgado, não podem ser cobrados em execução ou em ação própria".
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
