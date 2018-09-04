@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. EMBARGOS ACOLHIDOS PARA DAR PROVIMENTO AO AGRAVO, DETERMINANDO SUA REAUTUAÇÃO COMO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de embargos de declaração (fls. 627/632) apresentados contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+Os embargantes aduzem, em síntese, que: a) "a matéria, todavia, atinente à responsabilidade de sócio por força do art. 135, do CTN não é objeto do recurso ora apreciado, já que ensejou a negativa de seguimento do apelo especial (art. 1.030, I, "b", do CPC) pelo Vice-Presidente do Tribunal a quo" (fl. 628); b) "o Vice-Presidente do Tribunal a quo negou seguimento ao recurso especial no que se refere à possibilidade de análise da responsabilidade pessoal dos sócios em sede de exceção de pré-executividade e não o admitiu em relação às demais questões" (fl. 628); c) "a matéria relativa à responsabilidade tributária só poderia ser discutida em agravo interno, por força do art. 1.030, § 2º, do CPC e, por isso, a falta de sua menção em agravo em recurso especial não pode causar a negativa de seguimento deste, residindo aí o erro material" (fl. 629); e d) "a decisão do Presidente do Tribunal a quo foi devidamente impugnada nos contornos permitidos no art. 1.030, § 1º, do CPC" (fl. 630).
+Requerem sejam acolhidos os embargos.
+Não houve apresentação de impugnação pela embargada.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com razão a parte embargante.
+Com efeito, a decisão proferida pela Vice-Presidência do Tribunal de origem negou seguimento ao recurso especial "no que pertine à responsabilidade pessoal dos sócios por dívidas tributárias da empresa" e não o admitiu nas outras questões (fl. 584).
+Entendeu-se que, com base na jurisprudência firmada por esta Corte Superior, segundo a sistemática dos recursos repetitivos, "cabe ao sócio provar que não estavam presentes as causas ensejadoras de sua responsabilidade pelo pagamento do crédito tributário" (fl. 581).
+A negativa de seguimento ao apelo excepcional deu-se, também, em razão da impropriedade da via eleita, porquanto reputou-se inviável a discussão de determinadas matérias em sede de exceção de pré-executividade por demandarem dilação probatória (como a referente à inclusão dos sócios agravantes, bem como dos poderes que detinham na sociedade).
+Desta forma, tem-se que os fundamentos de inadmissão do recurso especial, propriamente ditos, restaram impugnados pela parte ora embargante, na petição de agravo em recurso especial de fls. 589/604.
+Assim, preenchidos os requisitos de admissibilidade recursal, acolho os embargos de declaração para dar provimento ao agravo, determinando sua reautuação como recurso especial.
+Publique-se. Intimem-se.
