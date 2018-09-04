@@ -1,0 +1,63 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. FUNDAMENTO DO ACÓRDÃO NÃO ATACADO. SÚMULA 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação dos arts. 1.022 e 489 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O v. acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+3. O acolhimento da pretensão recursal, a fim de reconhecer que os honorários sucumbenciais não são devidos pelo banco, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por BANCO SANTANDER S.A em face de decisão deste Relator de fls. 1145-1152, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido à impossibilidade de reexame do conjunto fático-probatório dos autos, e aplicação da Súmula 284 do STF.
+Nas razões recursais, sustenta a parte agravante: " Ocorre que em nenhum momento do Recurso Especial o Banco Recorrente discutiu a validade ou o teor do laudo pericial apresentado. O que o banco efetivamente trouxe a discussão foi a afronta pelo Tribunal de Justiça Gaúcho ao entendimento infraconstitucional e jurisprudencial deste próprio Superior Tribunal de Justiça de que é obrigação do vencido arcar com os honorários sucumbenciais e não do próprio cliente a quem o procurador defende. O que o banco aduz em seu recurso é que ele não pode ser sujeito passivo da obrigação, eis que não foi sucumbente no processo e, muito menos, recebeu valores em nome dos advogados da causa..No caso dos autos, inconteste que o banco foi vencedor no processo 92.00.18166-0, razão pela qual a ilegitimidade do recorrente é flagrante e independe de qualquer analise fática..Ocorre que este ponto da r. decisão também se encontra equivocado, haja vista que há no recurso a correta indicação dos dispositivos legais que teriam sido objeto de interpretação divergente.".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. FUNDAMENTO DO ACÓRDÃO NÃO ATACADO. SÚMULA 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação dos arts. 1.022 e 489 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O v. acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+3. O acolhimento da pretensão recursal, a fim de reconhecer que os honorários sucumbenciais não são devidos pelo banco, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+3. No tocante à alegada violação do artigo 25 a lei 8.906/1994, cumpre trazer trecho do acórdão recorrido que consignou:
+Nesta senda, as questões relativas a prescrição e ilegitimidade passiva já foram analisadas e rejeitadas, conforme despacho saneador de fls.594/596, restando, portanto, preclusa a matéria.
+(..)
+Na hipótese dos autos, os documentos acostados permitem concluir, sem sombra de dúvida, que a parte autora atuou como procuradora do banco réu, prestando serviços jurídicos para o andamento do processo acima referido, obtendo, em decorrência da interposição do recurso de apelo, a modificação da decisão de primeiro grau.
+(..)
+Verifico que o v. acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor. No presente caso, deixou o recorrente de impugnar, especificamente, o fundamento transcrito acima, em negrito. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+Ademais, as conclusões do Tribunal de origem sobre o laudo pericial e o arbitramento dos honorários advocatícios, não podem ser revistos por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA [NOME] PELAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. HONORÁRIOS CONTRATUAIS. BENEFÍCIO ECONÔMICO ALCANÇADO. VALOR ARBITRADO PELAS INSTÂNCIAS ORDINÁRIAS COM BASE EM LAUDO PERICIAL. SÚMULAS N. 5 E 7 DO STJ. 3. REDUÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. PERCENTUAL COM BASE NA CONDENAÇÃO. ART. 20, § 3º, DO CPC/1973. 4. AGRAVO DESPROVIDO.
+1. O indeferimento da produção da dilação probatória requerida não configura cerceamento do direito de defesa, uma vez que ficou claro no aresto impugnado que as provas produzidas nos autos são suficientes para o correto deslinde da controvérsia. Sendo o magistrado o destinatário da prova, compete a ele o exame acerca da necessidade ou não da produção do aporte requerido, sendo inviável rever as provas dos autos. Incidência da Súmula 7/STJ. 2. Os honorários contratuais foram arbitrados com base no benefício contratual auferido em demanda anterior, consoante constatado por laudo pericial e com amparo no contrato firmado entre as partes.
+Rever tais premissas demandaria a incursão no acervo probatório dos autos e a interpretação de cláusulas contratuais, atraindo a incidência das Súmulas n. 5 e 7 do STJ.
+3. O § 3º do art. 20 do CPC/1973 é claro ao determinar que os honorários advocatícios serão fixados em percentual sobre o valor da condenação, devendo ser fixada a verba mediante juízo de equidade do julgador somente nas hipóteses do § 4º do aludido artigo, o que não é o caso dos autos. E tendo sido fixados os honorários sucumbenciais em 10% sobre o valor da condenação, sua redução torna-se inviável.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1107203/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+4. Em relação ao alegado dissídio jurisprudencial, o recorrente limitou-se a indicar precedentes paradigmas sem, contudo, indicar qual dispositivo legal teria recebido interpretação divergente.
+O recurso especial fundamentado na alínea "c" do permissivo constitucional requisita tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nessa toada, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial, atraindo a incidência da Súmula nº 284 do Supremo Tribunal Federal.
+Confiram-se os seguintes precedentes desta Corte:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL NO RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C". SÚMULA 284/STF.
+(..)
+2. A jurisprudência desta Corte orienta-se no sentido de que, para ser apreciado o recurso especial interposto pela alínea "c" do art. 105 da Constituição Federal, cabe ao recorrente indicar o dispositivo de lei federal violado, pois o dissídio jurisprudencial baseia-se na interpretação divergente da norma federal. Aplica-se, por analogia, o disposto na Súmula 284 do Excelso Pretório diante da deficiência na fundamentação do recurso, na espécie, caraterizada pela ausência de indicação da norma federal tida por violada.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1099762/RJ, Rel. Min. Vasco Della Giustina (Desembargador Convocado do TJ/RS), Terceira Turma, julgado em 12.5.2009, DJe 25.5.2009.)
+"DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 458 E 535, I E II, DO CPC. NÃO-OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO DE LEI FEDERAL AO QUAL TERIA SIDO DADA INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. AUSÊNCIA. SÚMULA 284/STF. APLICAÇÃO. PARADIGMA PROLATADO EM SEDE DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. NÃO-CABIMENTO. PRECEDENTE DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+(..)
+2. A ausência de indicação do dispositivo de lei federal ao qual teria sido dada interpretação divergente daquela firmada por outro Tribunal importa em deficiência de fundamentação, nos termos da Súmula 284/STF.
+(..)
+4. Recurso especial conhecido em parte e, nessa extensão, improvido."
+(REsp 1019269/MS, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, julgado em 23.4.2009, DJe 18.5.2009.)
+PROCESSUAL CIVIL - RECURSO ESPECIAL - REGISTRO SINDICAL - MATÉRIA CONSTITUCIONAL - IMPOSSIBILIDADE DE ANÁLISE PELO STJ - HIPÓTESE QUE IMPLICARIA EM USURPAÇÃO DE COMPETÊNCIA DO STF - AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO - NECESSIDADE MESMO EM RECURSO ESPECIAL POR DIVERGÊNCIA JURISPRUDENCIAL - INCIDÊNCIA DO VERBETE DA SÚMULA 284 DO STF.
+(..)
+2. Ainda que fosse competência desta Corte, melhor sorte não teria o recorrente, pois mesmo o recurso especial interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal necessita de indicação de dispositivo federal violado para a exata compreensão da controvérsia. Não sendo cumprido este requisito, não pode ser conhecido o recurso especial, pois não é possível ter a exata compreensão da controvérsia. Incidência do verbete da Súmula 284 do STF. Precedentes.
+Recurso especial não-conhecido.
+(REsp 211.905/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2009, DJe 23/10/2009)
+5. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
