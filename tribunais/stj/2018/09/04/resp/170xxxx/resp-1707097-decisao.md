@@ -1,0 +1,24 @@
+EMENTA
+RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. INTERESSE DA CEF. APÓLICE PÚBLICA. COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 150 DO STJ. ANULAÇÃO DOS ATOS ANTERIORES. NÃO OCORRÊNCIA. RECURSO PROVIDO.
+1. "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas" (Súmula 150/STJ).
+2. "Não é possível declarar a anulação dos atos realizados antes de eventual admissão de intervenção da Caixa Econômica Federal nos termo do art. 50, parágrafo único, do CPC. Nesse sentido: EDcl nos EDcl no REsp 1091393/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 10/10/2012, DJe 14/12/2012" (AgRg no AREsp 671.059/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/02/2016, DJe 25/02/2016).
+3. Recurso especial provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+SEGURO HABITACIONAL Sistema Financeiro de Habitação Apólice de Seguro Pública (Ramo 66), garantida pelo FCVS Manifestação de interesse da Caixa Econômica Federal no feito Competência da Justiça Federal Anulação da sentença, determinando-se a remessa dos autos para a Justiça Federal Incidente de assistência que deverá ser analisado pela Justiça competente Recurso prejudicado.
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto nos arts. 41, 50 e 87 do CPC de 1973.
+Alega que a Caixa Econômica Federal - CEF poderia intervir neste feito, mas recebê-lo no estado em que se encontra, de forma que deve ser afastada a anulação da sentença, sendo apenas remetidos os autos ao Tribunal Regional Federal da 3ª Região para julgamento dos recursos interpostos pelas partes.
+Contrarrazões ao recurso especial às fls. 770-775.
+Crivo positivo de admissibilidade na origem (fls. 833-834).
+É o relatório. Decido.
+2. É firme o entendimento do Superior Tribunal de Justiça de que, nos casos em que empresa pública federal, como a Caixa Econômica Federal, pede o ingresso no feito que tramita na Justiça Estadual, cabe à Justiça Federal apreciar a pretensão, conforme a regra consagrada na Súmula 150/STJ ("Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas").
+Na espécie, o aresto recorrido consignou que a CEF informou seu interesse na lide e que o contrato discutido refere-se à apólice pública, garantida pelo FCVS, cabendo à Justiça Federal manifestar-se acerca do interesse, ou não, da Caixa Econômica Federal, o que está em harmonia com a Súmula 150/STJ.
+Todavia, a Corte local ao remeter os autos para a Justiça Federal anulou a sentença e, nesse ponto, merece reparo. Segue trecho do acórdão recorrido (e-STJ fl. 747):
+"Bem por isso, tendo em conta não só o fato de haver a Caixa Econômica Federal manifestado seu interesse nos autos, aliado ao inquestionável caráter público da apólice, a remessa dos autos para a Justiça Federal é mesmo de rigor.
+Segue-se, pois, ser inegável a competência da Justiça Federal para o deslinde do presente feito (Súmula 150/STJ), inclusive para apreciação das prefaciais suscitadas pela ré, motivo pelo qual a sentença deve ser anulada, deferindo o requerimento de participação da Caixa Econômica Federal no polo passivo da lide, com a consequente remessa dos autos para a justiça competente.
+Ressalte-se, ao fim e ao cabo, que o pedido de intimação da União, para que integre a lide, deve ser analisado pela justiça competente, carecendo a Justiça Comum Estadual de competência para tanto.
+Ante o exposto, determina-se a remessa dos presentes autos para a Justiça Federal, ficando prejudicada a análise dos inconformismos." (g.n.)
+Ressalta-se que a jurisprudência do STJ firmou no sentido de que "não é possível declarar a anulação dos atos realizados antes de eventual admissão de intervenção da Caixa Econômica Federal nos termo do art. 50, parágrafo único, do CPC. Nesse sentido: EDcl nos EDcl no REsp 1091393/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 10/10/2012, DJe 14/12/2012" (AgRg no AREsp 671.059/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/02/2016, DJe 25/02/2016).
+No mesmo sentido: Edcl no REsp nº 1.603.515-RS, Rel. Min. Laurita Vaz, in DJe 09.07.2017; e, Edcl no REsp nº 1.554.836-RS, Rel. Min. Mauro Campbell Marques, in DJe 16.09.2016.
+3. Ante o exposto, dou provimento ao recurso especial para afastar a anulação da sentença, sendo mantido no mais o acórdão recorrido quanto à remessa dos autos para a Justiça Federal.
+Publique-se. Intimem-se.
