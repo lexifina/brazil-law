@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, instaurado por INDUSTRIA E COMÉRCIO DE CARNES E DERIVADOS BOI BRASIL LTDA - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 2ª Vara Empresarial de Contagem/MG, no qual se processa a recuperação judicial da suscitante (Processo nº 0079.14.058260-6), e o Juízo da 9ª Vara do Trabalho de Goiânia/GO, onde tramita a Reclamação Trabalhista nº 0010710-29.2014.5.18.0013, ajuizada por [NOME].
+Afirma a suscitante que formulou pedido de recuperação judicial, cujo processamento foi deferido em 03/10/2014 pelo Juízo de Direito da 2ª Vara Empresarial de Contagem/MG, com posterior suspensão de atos executórios relativos a créditos trabalhistas. Adiciona, nesse contexto, que, em 26/09/2016, o plano de recuperação foi homologado judicialmente.
+Aduz, contudo, que, o r. Juízo do Trabalho decidiu retomar os atos executórios, entendendo que havia cessado a competência do juízo recuperacional.
+Sustenta a recuperanda, porém, que a competência para determinar atos de execução sobre o seu patrimônio é do juízo da recuperação judicial, mesmo depois de ultrapassado o referido prazo de suspensão, conforme exegese do art. 3º, da Lei nº 11.101/2005, que reputa pacificada na jurisprudência do Superior Tribunal de Justiça.
+Diante disso, postula, liminarmente, o sobrestamento da execução trabalhista com a consequente designação do Juízo da 2ª Vara Empresarial de Contagem/MG, para decidir sobre a destinação dos valores apurados. No mérito, requer a declaração da competência do juízo universal para determinar atos executórios do crédito reconhecido na demanda trabalhista, em curso na 9ª Vara do Trabalho de Goiânia/GO.
+Às fls. 121/122, o e. Vice-Presidente indeferiu o pedido liminar.
+Prestadas as informações (fls. 153/154 e 157/159), o MPF opinou pela declaração da competência do r. juízo da recuperação judicial. (fls. 161/166)
+É o relatório.
+Decide-se.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Uma vez iniciada a recuperação judicial, é mister que os atos constritivos aos ativos da sociedade sejam submetidos ao Juízo Recuperacional, sob pena de esvaziamento dos propósitos da recuperação, mesmo após transcorrido o prazo de 180 dias (art. 6º, § 4º, da Lei 11.101/2005).Nesse sentido, vale conferir os seguintes julgados:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CRÉDITOS TRABALHISTAS. PENHORA ANTERIOR.
+1. Encontra-se pacificado na jurisprudência desta Corte o entendimento de que, deferido o pedido de recuperação judicial, as ações e execuções trabalhistas devem prosseguir no âmbito do juízo universal, mesmo nos casos de penhora anterior ou naqueles em que ultrapassado o prazo de suspensão de que trata o artigo 6º, § 4, da Lei 11.101/2005.
+2. Agravo interno não provido.
+(AgInt no CC 146.036/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO DE CUSTAS JUDICIAIS NO ÂMBITO TRABALHISTA. NATUREZA FISCAL. DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO FISCAL. NÃO OCORRÊNCIA. ART. 6º, § 7º, DA LEI Nº 11.101/05, COM A RESSALVA NELE PREVISTA. PRÁTICA DE ATOS QUE COMPROMETAM O PATRIMÔNIO DO DEVEDOR OU EXCLUAM PARTE DELE DO PROCESSO DE RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. POSSIBILIDADE DE PARCELAMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES.
+1. Em regra, uma vez deferido o processamento ou, a fortiori, aprovado o plano de recuperação judicial, revela-se incabível o prosseguimento automático das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4, da Lei 11.101/2005. Precedentes.
+(..) (AgRg no CC 116.594/GO, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/03/2012, DJe 19/03/2012)
+E ainda: CC 131.894/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/02/2014, DJe 31/03/2014; CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016.
+3. Ante o exposto, com amparo no parecer oferecido pelo Ministério Público Federal, conheço do conflito para declarar a competência do Juízo de Direito da 2ª Vara Empresarial de Contagem/MG. Fica, pois, prejudicado o exame dos embargos de declaração de fls. 130/150.
+Publique-se. Intimem-se.
