@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ALEGADA VIOLAÇÃO AOS ARTIGOS 1º DA LEI COMPLEMENTAR 116/2003 E ITENS 10.05 C/C 10.09 NA LISTA DE SERVIÇOS ANEXA A LEI COMPLEMENTAR MUNICIPAL 59/2003, ASSIM COMO TAMBÉM AO ART. 85, § 2º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto pelo Município de Campo Grande/MS, contra decisão que inadmitiu recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, cuja ementa é a seguinte:
+AGRAVO INTERNO E REEXAME NECESSÁRIO. AÇÃO ANULATÓRIA. RECURSO INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+Incabível agravo interno contra decisão monocrática do relator que nega seguimento a reexame necessário.
+Nos termos do art. 1.021, § 4º, do CPC: "Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa".
+No recurso especial, interposto com base na alínea a do permissivo constitucional, o recorrente alega violação aos artigos 1º da Lei Complementar n. 116/2003 e itens 10.05 c/c 10.09 na lista de serviços anexa a Lei Complementar Municipal n. 59/2003, assim como também ao art. 85, § 2º, do Código de Processo Civil, ao sustentar em síntese: (i) que incide ISSQN sobre a bonificação de incentivo pelo desempenho na venda de veículos; (ii) o cabimento de honorários sucumbenciais em caso do provimento deste recurso especial.
+Contrarrazões ao recurso especial às fls. 356/361 (e-STJ).
+O recurso foi inadmitido pela decisão de fls. 363/366 (e-STJ), cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Observa-se que o Tribunal de origem não se pronunciou sobre o disposto nos arts. 1º da Lei Complementar 116/2003 e itens 10.05 c/c 10.09 na lista de serviços anexa a Lei Complementar Municipal n. 59/2003, assim como também no artigo 85, § 2º, do Código de Processo Civil, e eventual omissão nem sequer foi suscitada por meio de embargos de declaração, razão pela qual é inviável o conhecimento da questão, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356/STF, por analogia).
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 535 do CPC/1973 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Observa-se que em nenhum momento foi sequer ventilada a vedação da compensação das contribuições devidas a terceiros. Nesse aspecto, a admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos da Súmula 284/STF.
+4. Recurso especial não conhecido.
+(REsp 1673756/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018) (grifou-se)
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
