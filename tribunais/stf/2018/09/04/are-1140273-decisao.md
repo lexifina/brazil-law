@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal Regional Federal da 5ª Região, salvo redução dos honorários advocatícios, confirmou o entendimento do Juízo no tocante à procedência do pedido. No extraordinário cujo trânsito busca alcançar, a recorrente afirma a violação dos artigos 5º, incisos XXXV e LV, 93, inciso IX, e 161, inciso II e parágrafo único, da Constituição Federal. Argui a nulidade do acórdão impugnado por ausência de fundamentação e contrariedade aos princípios da ampla defesa e do devido processo legal. Diz violada a competência constitucional do Tribunal de Contas da União para fixar o rateio das quotas relativas ao Fundo de Participação dos Municípios – FPM.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, eis os fundamentos da decisão recorrida:
+    Da análise dos documentos costados às fls. 90, 210/211 dos autos, verifica-se que o Município de Mirandiba não sofreu redução populacional que justificasse alteração no coeficiente do FPM e a consequente aplicação do redutor financeiro de 0,2.
+    É que segundo a LC nº 91/97, aos municípios que sofreram redução populacional deve ser aplicado o redutor financeiro, de forma a redistribuir o ganho adicional aos demais municípios que participam do FPM.
+    A sentença de primeiro grau, então, corretamente, condenou a União ao pagamento dos valores devidos, baseada em dados justamente fornecidos pelo IBGE, os quais demonstram que o coeficiente de participação do município autor não sofreu diminuição após a edição da LC 91/97, justamente porque sua população não sofreu decréscimos significativos.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Tendo em vista a fixação dos honorários em R$ 2.000,00 pelo Colegiado de origem, majoro em R$ 500,00 os honorários recursais, na forma do artigo 85 do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 4 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
