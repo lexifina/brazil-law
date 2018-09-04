@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL PETROS contra decisão (e-STJ fls. 1.065/1.071) que inadmitiu o especial por deserção, tendo em vista que o valor do porte de remessa e de retorno foi recolhido mediante o uso de GRU Simples.
+O agravo defende que "no presente caso a Agravante comprovou o recolhimento do valor integral do preparo, direcionando os valores para a unidade favorecida correta, equivocando-se apenas quanto a guia utilizada, o que não causou qualquer prejuízo ao Erário", assim, "deve ser aproveitado o recolhimento da GRU referente ao pagamento das custas processuais, sendo afastada a pena de deserção" (e-STJ fl. 1.806).
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+Conforme entendimento firmado pela Corte Especial, no julgamento do Recurso Especial n. 1.498.623/RJ (Relator Ministro NAPOLEÃO NUNES MAIA FILHO, julgado em 26/2/2015, DJe 13/3/2015), a deserção deverá ser afastada nos casos em que, estando corretos os dados constantes da guia de pagamento, apenas o instrumento utilizado para o recolhimento do preparo não for o adequado. Confira-se:
+RECURSO ESPECIAL. PORTE DE REMESSA E RETORNO RECOLHIDO EM GRU-SIMPLES, ENQUANTO A RESOLUÇÃO DO TRIBUNAL EXIGE GRU-COBRANÇA. NOME DO RECORRENTE E NÚMERO DO PROCESSO PREENCHIDOS CORRETAMENTE. EFETIVO INGRESSO DO VALOR NOS COFRES DO STJ. FINALIDADE ALCANÇADA. INSTRUMENTALIDADE DAS FORMAS DO PROCESSO VOTO PELO PROCESSAMENTO DO RECURSO ESPECIAL, AFASTADA A DESERÇÃO, PARA O SEU OPORTUNO JULGAMENTO PELA 1a. TURMA.
+1. Como se sabe, a tendência deste egrégio STJ é de não conhecer dos Recursos Especiais, cujos preparos não tenham sido efetivados com estrita observância das suas formalidades extrínsecas. Contudo, sob meu modesto ponto de vista, deve-se flexibilizar esta postura, sobretudo à luz da conhecida prevalência do princípio da instrumentalidade das formas dos atos do processo. Exatamente por este meu pensamento destoar do que reiteradamente afirmam os órgãos fracionários do STJ, é que suscito a discussão perante a douta Corte Especial.
+2. Na espécia, a Guia de Recolhimento destinada ao pagamento do Porte de Remessa e Retorno indicou corretamente o STJ como unidade de destino, além do nome e CNPJ da recorrente e o número do processo. Noutras palavras, o valor referente a este feito foi pago e entregue ao STJ; apenas o instrumento utilizado é que foi inadequado, mas efetivamente o fim almejado foi alçado com a entrada do dinheiro nos cofres do Tribunal.
+3. Voto pelo processamento do Recurso Especial, afastada a deserção, para o seu oportuno julgamento pela 1a. Turma deste Tribunal Superior, como entender de direito.
+(REsp n. 1.498.623/RJ, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 26/2/2015, DJe 13/3/2015.)
+Os documentos juntados a fl. 91 (e-STJ) contêm as informações necessárias para se aferir o cumprimento do preparo do especial. Nesse sentido, apresenta o número do código de barras e o do processo, permitindo sua conferência com aqueles constantes nas GRUs.
+Não há, nesse caso, nada que possa levar à negativa de prosseguimento do recurso por deserção, devendo ser admitida a irresignação.
+Considerando que o especial foi inadmitido na origem com fundamento na deserção, tema esse que ora afasto pelas razões aqui aduzidas, o agravo em recurso especial deve ser provido.
+Entretanto, cumpre restituir os autos à Corte estadual, a fim de que prossiga no exame dos demais requisitos de admissibilidade.
+Diante do exposto, DOU PROVIMENTO ao agravo para determinar o retorno dos autos à origem, a fim de que o Tribunal a quo prossiga no exame da admissibilidade do recurso especial.
+Publique-se e intimem-se.
