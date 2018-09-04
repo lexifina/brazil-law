@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+PREVIDENCIÁRIO. DECADÊNCIA. PRESCRIÇÃO. TETOS LIMITADORES. BENEFÍCIO CONCEDIDO ANTES E APÓS A CF/88. MENOR E MAIOR VALOR-TETO - MVT E MVT. EMENDAS CONSTITUCIONAIS 20/98 E 41/2003 (RE Nº 564.354). CORREÇÃO MONETÁRIA E JUROS DE MORA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+1. Não incide a decadência, prevista no artigo 103 da Lei nº 8.213/1991, quando o pedido de revisão diz respeito aos critérios de reajuste da renda mensal - utilização do excedente ao teto do salário-de-benefício por ocasião de alteração do teto máximo do salário-de-contribuição.
+2. No benefício previdenciário de prestação continuada, a prescrição não atinge o fundo de direito, mas somente os créditos relativos às parcelas vencidas há mais de 5 (cinco) anos da data do ajuizamento da demanda. A matéria objeto desta ação foi discutida em ação civil pública ajuizada em 05/05/2011 (0004911-28.2011.4.03.6183).
+Assim, devem ser declaradas prescritas as parcelas eventualmente vencidas anteriormente a 05/05/2006, ou seja, 05 anos antes da data do ajuizamento da referida ACP.
+3. A ausência de limitação temporal ao direito de revisão do benefício previdenciário em face dos tetos, viável e pertinente aquela, não obstante tenha sido esse concedido antes ou após a CF/88. Precedentes do STF e deste Regional.
+4. Sistemática de atualização do passivo observará, em regra, a decisão do STF consubstanciado no seu Tema nº 810.
+5. Situação fática a refletir a hipótese do § 11º do artigo 85 do CPC, o que autoriza a majoração da honorária, no caso, em 5%, conforme precedentes da Turma em casos deste jaez.
+Os Embargos de Declaração opostos foram rejeitados.
+O recorrente, nas razões do Apelo Especial, sustenta que ocorreu violação dos arts. 1.022 do CPC/2015; 40 do Decreto 82.080/1979; 21, 23 e 25 do Decreto 89.312/1984 e 6º da LINDB.
+Aduz, em suma:
+(..), fica impossibilitada a concessão da readequação do benefício concedido antes da Constituição Federal de 1988 aos tetos estabelecidos nas Emendas Constitucionais n. 20/1998 e Emenda Constitucional n. 41/2003. O acórdão que concedeu a revisão afrontou diretamente a legislação federal pertinente, especialmente o artigo 40 do Decreto 82.080/79 e artigos 21, 23 e 25 do Decreto 89.312/84, artigos que regulavam a forma do cálculo dos benefícios concedidos antes da constituição; o artigo 6º da LICC e o artigo 29, § 2º da Lei 8.213/91 (fl. 246, e-STJ).
+Contrarrazões às fls. 268-271, e-STJ.
+É o relatório.
+Decido
+Os autos foram recebidos neste gabinete em 21 de junho de 2018.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à tese de que não seriam aplicáveis os tetos constitucionais ao caso concreto, a irresignação também não prospera, pois, muito embora haja, no apelo nobre, a alegação de ofensa a dispositivo infraconstitucional, verifica-se que o Tribunal a quo decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em Recurso Especial, conforme se nota do seguinte excerto (fls. 199-203, e-STJ):
+
+ Acerca do tema objeto da lide, qual seja, a revisão da RMI do benefício previdenciário, inclusive quando a DIB remonta a momento anterior ao da promulgação da Constituição Federal de 1988, a hodierna jurisprudência deste Regional sedimentou-se no sentido de sua pertinência, consoante revelam, mutatis mutandis, os arestos a seguir transcritos:
+(..)
+Em sintonia, ainda: RE 1004657/PR, Rel. Min. DIAS TOFFOLI, julgado em 24/10/2016; RE 664317 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, julgado em 17/04/2012.
+Quanto ao mérito da revisão, as razões do STF são plenamente aplicáveis às aposentadorias concedidas sob a égide do sistema normativo anterior. Isto porque, do mesmo modo que a legislação posterior à CF/1988, há clara distinção entre salário de benefício e valor do benefício, com métodos de cálculo próprios e divergentes. Além disso, o Pretório Excelso não fez qualquer ressalva quanto à aplicação do julgado que permita o tratamento diferenciado requerido pelo INSS. Ao contrário: em recente decisão tomada pelo Plenário Virtual no RE 937.595, com repercussão geral reconhecida, o STF reafirmou o entendimento de que a readequação/recomposição dos tetos das ECs 20/98 e 41/2003 deve ser vista caso a caso, não se excluindo em tese os benefícios deferidos no período do buraco negro:
+(..)
+Nessa linha, essa metodologia deve igualmente ser observada em se tratando dos limitadores nominados de menor valor-teto e maior valor-teto (mVT e MVT), relativamente aos benefícios cuja concessão remontam ao período antecedente ao da Lei nº 8.213/91.
+(..)
+Assim, refletem os tetos verdadeiros fatores de limitação externos à renda mensal inicial do salário-de-benefício do segurado. Veja-se, outrossim, que a circunstância de ser de fácil visualização o decote inicial dessa cifra em virtude dos tetos das aludidas emendas, não fragiliza a pretensão daqueles que porventura tenham tido alijados montantes de suas RMIs em função do menor ou do maior Valor-Teto. Nesse particular aspecto, afigura-se-me igualmente nefasta a incidência de coeficientes sobre o que deveria refletir o salário-de-benefício, ao insular argumento de observância daqueles tetos.
+E isso porque, regra geral, a subsequente atualização do salário-de-benefício desprezava os valores então alijados pelos tetos, fazendo com que ao patrimônio jurídico e financeiro do segurado fosse incorporado um prejuízo que não lhe cabia suportar. Com efeito, à idéia de limitação deve estar consentânea a de hígida recomposição do valor nominal do salário- de-benefício. E tal garantia somente será obtida mediante consideração da RMI "integral" desse benefício, ou seja, relevando-se as cifras dele originalmente tolhidas.
+Sopesado esse contexto, a motivação supra e a consolidada jurisprudência deste Regional e dos tribunais superiores sobre a essencial questão objeto da lide, o inconformismo não merece guarida.
+Neste contexto, é inviável o exame do mérito da insurgência, tal como posta, em Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. INCIDÊNCIA DOS NOVOS TETOS ESTABELECIDOS PELAS EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. DECADÊNCIA AFASTADA. APLICAÇÃO AOS BENEFÍCIOS CONCEDIDOS ANTES DE 5.4.1991. CONTROVÉRSIA SOLVIDA COM BASE EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. PRECEDENTES DO STJ.
+1. O prazo decadencial previsto no art. 103 da Lei 8.213/1991 aplica-se somente aos casos em que o segurado busca a revisão do ato de concessão do benefício previdenciário.
+2. A pretendida extensão do disposto no mencionado dispositivo legal ao caso dos autos - revisão da renda mensal no intuito de que sejam observados os novos valores do teto definido nas Emendas Constitucionais 20/1998 e 41/2003, ou seja, reajustamento da renda mensal inicial - é inadequada, porquanto o autor requer aplicação de normas supervenientes à data da concessão do benefício.
+3. No que tange à alegação de que é indevida a readequação do valor dos benefícios concedidos antes de 5.4.1991, verifica-se que a Corte regional solucionou a controvérsia com base em fundamentação eminentemente constitucional. Assim, é inviável sua apreciação em Recurso Especial, sob pena de violação da competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+4. Recurso Especial não conhecido. (STJ, REsp 1.673.285/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017)
+Ante o exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
