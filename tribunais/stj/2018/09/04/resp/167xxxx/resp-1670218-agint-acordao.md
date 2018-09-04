@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. ASSOCIAÇÃO DE MORADORES. TAXA DE MANUTENÇÃO. PROPRIETÁRIO DO IMÓVEL QUE NÃO SE ASSOCIOU EXPRESSAMENTE. IMPOSSIBILIDADE DE COBRANÇA. RESPS. REPETITIVOS N. 1.280.871/SP E N. 1.439.163/SP. IMPROCEDÊNCIA DA AÇÃO QUE SE PERFAZ. 2. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. 3. PRIMEIRO AGRAVO IMPROVIDO E SEGUNDO AGRAVO NÃO CONHECIDO.
+1. A jurisprudência desta Casa, firmada sob o rito dos recursos repetitivos (art. 543-C do CPC/1973), no julgamento dos Recursos Especiais n. 1.280.871/SP e n 1.439.163/SP, fixou a tese de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+2. Esta Corte possui entendimento no sentido de que, " i nterpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força dos princípios da unirrecorribilidade e da preclusão consumativa" (AgRg no AREsp 637969/PR, Rel. Min. João Otávio de Noronha, Terceira Turma, julgado em 1/9/2015, DJe 8/9/2015).
+3. Primeiro agravo interno improvido e segundo agravo não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao primeiro agravo, e não conhecer o segundo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por Associação dos Amigos do Vila Verde contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 402):
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E CONTRADIÇÃO. NÃO OCORRÊNCIA. ASSOCIAÇÃO DE MORADORES. TAXA DE MANUTENÇÃO. PROPRIETÁRIO DO IMÓVEL QUE NÃO É ASSOCIADO. IMPOSSIBILIDADE DE COBRANÇA. NECESSIDADE DE REFORMA DO ACÓRDÃO RECORRIDO E DA SENTENÇA. IMPROCEDÊNCIA DA AÇÃO. LITIGÂNCIA DE MÁ-FÉ DA RECORRIDA. INEXISTÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Em sua razões (e-STJ, fls. 410-433), a insurgente assevera que a parte agravada aderiu tacitamente à associação ao fazer pagamentos de taxas durante alguns anos. Assevera, também, que o Supremo Tribunal Federal entende que o não pagamento de taxas à associação de moradores implica em total enriquecimento ilícito do inadimplente.
+Diante dessas alegações, pede a reconsideração da decisão agravada para que se conheça do recurso especial dando-lhe provimento, ou, caso contrário, seja submetido à apreciação do Colegiado.
+A parte acostou aos autos novo recurso, com idêntica argumentação então expendida (e-STJ, fls. 434-457).
+Impugnação às fls. 461-467 (e-STJ), em que a agravada requer o desprovimento do presente recurso e a condenação da agravante à multa prevista no art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos da agravante não são aptos a ilidir os fundamentos da decisão recorrida, a qual merece ser mantida.
+Com efeito, a jurisprudência desta Casa, firmada sob o rito dos recursos repetitivos (art. 543-C do CPC/1973), no julgamento dos Recursos Especiais n. 1.439.163/SP e n. 1.280.871/SP, realizado pela Segunda Seção, em 11/3/2015, DJe de 22/5/2015, sendo o relator para acórdão o Ministro Marco Buzzi, pacificou que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+A propósito, confira-se a ementa dos respectivos julgados:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA - ART. 543-C DO CPC - ASSOCIAÇÃO DE MORADORES - CONDOMÍNIO DE FATO - COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU - IMPOSSIBILIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+2. No caso concreto, recurso especial provido para julgar improcedente a ação de cobrança.
+No mesmo sentido, seguem os demais precedentes deste Tribunal (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU.
+1. O reconhecimento de repercussão geral pelo STF, não enseja, automaticamente, o sobrestamento de recurso especial. Precedentes.
+2. A Segunda Seção do STJ, em sede de recurso repetitivo, pacificou o entendimento de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram". (REsp 1439163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/03/2015, DJe 22/05/2015) 3. Agravo regimental não provido.
+(AgInt no REsp 1346015/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/08/2016, DJe 23/08/2016)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASSOCIAÇÃO DE MORADORES. AÇÃO DE COBRANÇA COM BASE EM ENRIQUECIMENTO ILÍCITO. TAXA DE MANUTENÇÃO. PROPRIETÁRIO DE IMÓVEL NÃO ASSOCIADO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA.
+1. Consoante pacífica jurisprudência desta Corte, é possível a mitigação dos requisitos formais de admissibilidade do recurso especial diante da constatação de divergência jurisprudencial notória (EDcl no AgRg no REsp nº 1.356.554/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 22/5/2014).
+2. A Segunda Seção desta Corte possui o entendimento de que as taxas de manutenção ou melhoria, criadas por associações de moradores, não obrigam os não associados ou aqueles que a elas não anuíram (REsp nº 1.439.163/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministro MARCO BUZZI, Segunda Seção, julgado sob o rito dos recursos repetitivos, DJe 22/5/2015).
+3. Não há que se falar em enriquecimento ilícito do recorrido porque a existência de associação, congregando moradores com o objetivo de defesa e preservação de interesses comuns em área habitacional, não possui o caráter de condomínio, pelo que, não é possível exigir de quem não seja associado, nem aderiu ao ato que instituiu o encargo, o pagamento de taxas de manutenção ou melhoria (AgRg no AREsp nº 525.705/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 25/5/2015).
+4. Agravo regimental não provido.
+(AgRg no REsp 1522083/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/03/2016, DJe 28/03/2016)
+No caso, o Tribunal local, contrariando a jurisprudência pacífica desta Corte, manteve a sentença que julgou parcialmente procedentes os pedidos deduzidos na ação de cobrança movida pela associação em desfavor da ora agravada, com fundamento no princípio da vedação do enriquecimento sem causa.
+Contudo, não há como subsistir a obrigação reconhecida pelas instâncias ordinárias, na hipótese, haja vista a ausência de manifestação expressa da ora agravada da intenção de associar-se à autora, inclusive, não há que se falar em preponderância do princípio legal da vedação ao enriquecimento sem causa em detrimento do preceito constitucional da liberdade de associação, sob pena de esvaziar-se a finalidade desta garantia constitucional, razão pela qual deve ser reformado o acórdão recorrido.
+A fim de corroborar tal conclusão, transcrevo o trecho do voto proferido pelo relator para o acórdão, Ministro Marco Buzzi, no REsp repetitivo n. 1.280.871/SP, citado alhures (sem grifo no original):
+E, no caso em testilha, a concepção da aceitação tácita ou da preponderância do princípio da vedação ao enriquecimento sem causa, acaba por esvaziar o sentido e a finalidade da garantia fundamental e constitucional da liberdade de associação, como bem delimitou o Pretório Excelso no julgamento do RE n.º 432.106/RJ. encontrando a matéria, inclusive, afetada ao rito da repercussão geral (RG no Al n.º 745.831/SP. rei. Min. DIAS TOFFOLI. DJ 29/11/2011).
+A associação de moradores é mera associação civil e, consequentemente, deve respeitar os direitos e garantias individuais, aplicando-se, na espécie, a teoria da eficácia horizontal dos direitos fundamentais.
+Assim, cumprindo a função uniformizadora desta Corte Superior, ambas as Turmas julgadoras integrantes da Eg. Segunda Seção têm sido uníssonas ao reiterar o posicionamento firmado a partir do julgamento do EREsp n.º 444.931/SP no sentido de que as taxas de manutenção criadas por associação de moradores não podem ser impostas a proprietário de imóvel que não é associado, nem aderiu ao ato que instituiu o encargo, em observância ao princípio da liberdade de associação (art. 5.º. inc. XX, da CF/88).
+Por fim, em atenção à preclusão consumativa e ao princípio da unirrecorribilidade, não se conhece do segundo agravo interno, constante de fls. 434-457 (e-STJ).
+Ante o exposto, nego provimento ao primeiro agravo interno, e não conheço do segundo.
+É como voto.
