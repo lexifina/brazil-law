@@ -1,0 +1,27 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA ESTADUAL. RESTABELECIMENTO DAS VANTAGENS ASSEGURADAS NOS DECRETOS 43.576/2003, 44.308/2006 E LEI 15.462/2005. PROGRESSÃO/PROMOÇÃO. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. INCIDÊNCIA, POR ANALOGIA. AGRAVO EM RECURSO ESPECIAL DA SERVIDORA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+Reexame necessário - Apelações eiveis - Ação ordinária - Servidora pública estadual - Secretária da Saúde- Regime jurídico -Reposicionamento por tempo de serviço - Progressões e promoções - Omissão do Estado pelo tempo de serviço durante o período de 2005 a 2010- Decreto 45.274, de 2009 - Principio da legalidade - Reformar a sentença.
+1 - O servidor não tem direito adquirido a regime jurídico, razão pela qual pode a Administração Pública reestruturar a carreira e reposicioná-lo, desde que tal não implique redução salarial (art. 37, XV, da Constituição da República).
+2 - A Administração Pública está adstrita ao principio da legalidade. Impossível o reposicionamento com .inclusão das progressões e promoções ocorridas após as Leis 15.462, de 2005 e 15.786, de 2005, quando inexistente previsão legal para tanto.
+3 - Se o Decreto 45.274, de 2009, que instituiu o reposicionamento dos servidores do Executivo do Estado de Minas Gerais, não estabeleceu a possibilidade da retroatividade dos seus efeitos patrimoniais, nenhuma diferença é devida ao servidor nó período anterior à sua vigência (fls. 121).
+2. Aos Embargos de Declaração opostos (fls. 132/138) foram negados provimento, por unanimidade (fls. 140/144).
+3. Em suas razões recursais sustenta a parte agravante violação dos arts. 128 do CPC/1973, aos seguintes fundamentos: (a) erro de objeto porque o que se requer é o restabelecimento dos direitos assegurados no art. 7o. do Decreto 43.576/2003, nos artigos 16, 17, 18 20 e 21 da Lei 15.462/2005, no art. 1o. do Decreto 44.308/2006, relativo aos períodos de 2005 a 2010, e que deixaram de ser pagos após o cumprimento do Decreto 45.274/2009 de forma ilegal; (b) o período de efetivo exercício após 1o.9.2005 não foi considerado para fins de aquisição de progressão ou promoção na carreira nova após a aplicação do reposicionamento; e (c) violação aos princípios constitucionais da moralidade administrativa e da razoabilidade.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 176/177), sobrevindo a interposição de Agravo (fls. 180/200).
+5. É o relatório, em síntese. Decido.
+6. No mérito, o Tribunal de origem, à luz dos arts. 3o. e 27 do Decreto 45.274/2009, consignou às fls. 127/128 que:
+(..).
+não detém razão a apelante em pretender sejam computados os tempo de serviço entre 2005 e 2010, para fins de progressões e promoções com resultado no reposicionamento na carreira.
+Noutros termos, inexiste qualquer previsão legal sobre efeitos pecuniários retroativos, pelo que não merece acolhida a pretensão da parte requerente, no sentido de que sejam as progressões ou promoções adquiridas por força de lei no novo plano de carreira, a partir de 2005 a 2010, computadas sobre o resultado do reposicionamento do Decreto 45.274, de 2009.
+7. Dessa forma, desconstituir a conclusão do acórdão recorrido, implicaria, necessariamente, em análise do Decreto 45.274/2009 do Estado de Minas Gerais.
+8. Tal providência, no entanto, é vedada em sede de Recurso Especial pelo óbice, por analogia, da Súmula 280/STF. A esse propósito:
+ADMINISTRATIVO. PRESCRIÇÃO. PROGRESSÃO FUNCIONAL. INTERPRETAÇÃO DO DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. O acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem quanto a inocorrência da prescrição de fundo do direito das servidoras à progressão funcional - feita com base na interpretação do direito local (Lei Complementar municipal 15/1998), é vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+2. Agravo regimental não provido (AgRg no AREsp. 778.701/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 19.11.2015).
+
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROGRESSÃO FUNCIONAL POR ESCOLARIDADE. CONTROVÉRSIA ATINENTE A LEI MUNICIPAL. ANÁLISE DE DIREITO LOCAL PELO STJ. IMPOSSIBILIDADE. SÚMULA 280/STF. PREENCHIMENTO (OU NÃO) DOS REQUISITOS PARA A PROGRESSÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem dirimiu a controvérsia com respaldo em legislação local (Lei Municipal 7.969/2000 e Decreto Municipal 10.239/2000). Inviável, portanto, sua análise em Recurso Especial, por demandar interpretação de norma municipal. Incide, na espécie, o disposto na Súmula 280 do STF, mutatis mutandis, segundo a qual Por ofensa a direito local não cabe recurso extraordinário.
+2. A modificação das conclusões do julgado quanto à demonstração do cumprimento dos requisitos para se obter a progressão por escolaridade implica análise das provas do processo, o que é vedado em Recurso Especial ante o óbice da Súmula 7/STJ.
+3. Agravo regimental não provido (AgRg no AREsp. 127.473/MG, Rel. Min. OLINTO MENEZES, DJe 28.10.2015).
+9. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da Servidora.
+10. Publique-se. Intimações necessárias.
