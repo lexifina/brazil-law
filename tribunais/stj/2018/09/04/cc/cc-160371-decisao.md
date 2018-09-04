@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 2ª VARA CRIMINAL ESPECIALIZADA EM CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL E LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES DA SEÇÃO JUDICIÁRIA DO ESTADO DE SÃO PAULO em face do JUÍZO DE DIREITO DO FORO CENTRAL CRIMINAL BARRA FUNDA DE SÃO PAULO/SP.
+O presentante do Ministério Público Estadual com atuação perante o Juízo suscitado, ao se manifestar nos autos, sumariou os fatos que deram ensejo à instauração do presente incidente, in verbis (e-STJ fl. 146):
+Instaurou-se o presente inquérito policial por força de requerimento do banco Santander S/A. para apurar eventual delito estelionato.
+Consta que em uma pessoa utilizando documentos em nome de HELENO MELLO PRADO, e passando-se por esta pessoa, obteve financiamento na referida instituição financeira por meio de contrato de abertura de crédito para a aquisição do veículo Nissan Versa de placas FIA -5169.
+Consta que a empresa somente tomou conhecimento da fraude ao se deparar com o registro feito por HELENO MELLO PRADO junto ao 1º Distrito policial da Capital em que alegava não ter realizado tal operação junto ao banco Santander.
+Não vislumbro a ocorrência não de crime de estelionato, mas de fraude contra o sistema financeiro. previsto artigo 19 da Lei 7492/86. de competência da Justiça Federal.
+O Juízo suscitado, ao acolher a manifestação do Parquet, declinou de sua competência (e-STJ fl. 149).
+Na sequência, o conflito foi suscitado (e-STJ fls. 167/169).
+O Ministério Público Federal manifestou-se pela competência do Juízo suscitado (e-STJ fls. 180/183).
+É, em síntese, o relatório.
+ Cuida-se de incidente instaurado entre juízes vinculados a Tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+Ressai dos autos que foi realizado um financiamento para a aquisição de um veículo, ou seja, com finalidade específica.
+Desse modo, a competência é do Juízo suscitado.
+Esta Corte firmou orientação de que a conduta de obter financiamento com destinação específica amolda-se ao tipo descrito no art. 19 da Lei n. 7.492/1986, a ser julgado pela Justiça Federal.
+Nesse sentido:
+PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. 1. COMPRA DE VEÍCULO POR MEIO DE FINANCIAMENTO. DESTINAÇÃO ESPECÍFICA DO CRÉDITO. CRIME CONTRA O SISTEMA FINANCEIRO. ART. 19 DA LEI N. 7.492/1986. 2. CONFLITO CONHECIDO PARA RECONHECER A COMPETÊNCIA DO JUÍZO FEDERAL DA 14ª VARA CRIMINAL DA SEÇÃO JUDICIÁRIA DO ESTADO DO PARANÁ.
+1. Caracteriza-se o crime do art. 19 da Lei n. 7.492/1986 nos casos em que os recursos obtidos junto à instituição financeira possuem destinação específica. Nesse contexto, a competência é da Justiça Federal, nos termos do art. 109, inciso VI, da Constituição Federal, c/c o art. 26 da Lei n. 7.492/1986.
+2. Conheço do conflito para reconhecer a competência do Juízo Federal da 14ª Vara Criminal da Seção Judiciária do Estado do Paraná, o suscitante.
+(CC 140.381/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 24/06/2015, DJe 01/07/2015.)
+PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. 1. JUSTIÇA ESTADUAL X JUSTIÇA FEDERAL. COMPRA DE VEÍCULO. DESTINAÇÃO ESPECÍFICA DO CRÉDITO. CONFIGURAÇÃO DE FINANCIAMENTO. CRIME CONTRA O SISTEMA FINANCEIRO. ART. 19 DA LEI N. 7.492/1986. PRECEDENTES. 2. DÚVIDAS QUANTO À EFETIVA UTILIZAÇÃO DE FRAUDE. NECESSIDADE DE MAIORES INVESTIGAÇÕES. COMPETÊNCIA DEFINIDA DE FORMA APRIORÍSTICA. 3. CONFLITO CONHECIDO PARA RECONHECER A COMPETÊNCIA DO JUÍZO FEDERAL DA 4ª VARA CRIMINAL DA SEÇÃO JUDICIÁRIA DO ESTADO DE MINAS GERAIS/MG.
+1. A jurisprudência do STJ firmou entendimento no sentido de que, a depender espécie da operação realizada, pode ou não configurar-se o crime contra o sistema financeiro. Dessa forma, caracteriza-se o crime do art. 19 da Lei n. 7.492/1986 "quando os recursos obtidos junto à instituição financeira possuem destinação específica, não se confundindo, assim, com mútuo obtido a título pessoal, conduta que caracteriza o crime de estelionato". (CC 122.257/SP). No caso, verifica-se que houve a obtenção de financiamento, haja vista ter ficado estabelecida destinação específica para o dinheiro - aquisição de uma moto.
+2. A definição da competência em casos como o que se apresenta, em que ainda não se iniciou a instrução probatória, deve ser firmada de forma apriorística. Dessa forma, definida a espécie da operação realizada - financiamento - e diante do contexto apresentado até o momento, o qual se subsume, em tese, ao delito do art. 19 da Lei n. 7.492/1986, deve se dar prevalência à investigação pela Justiça Federal, nos termos do art. 26 da Lei n. 7.492/1986. Após a instrução processual, acaso não fique caracterizada a obtenção fraudulenta do financiamento, não há óbice ao declínio da competência para o Juízo competente para analisar o ilícito residual.
+3. Conheço do conflito para reconhecer a competência do Juízo Federal da 4ª Vara Criminal da Seção Judiciária do Estado de Minas Gerais/MG, o suscitante.
+(CC 130.795/MG, Rel. Ministro WALTER DE ALMEIDA GUILHERME, DESEMBARGADOR CONVOCADO DO TJSP, TERCEIRA SEÇÃO, julgado em 22/10/2014, DJe 30/10/2014.)
+Ante o exposto, conheço do conflito e dou por competente o Juízo suscitante (JUÍZO FEDERAL DA 2ª VARA CRIMINAL ESPECIALIZADA EM CRIMES CONTRA O SISTEMA FINANCEIRO NACIONAL E LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES DA SEÇÃO JUDICIÁRIA DO ESTADO DE SÃO PAULO).
+Publique-se. Intimem-se.
