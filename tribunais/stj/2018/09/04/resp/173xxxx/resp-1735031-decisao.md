@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+Tratamento de esgoto sanitário. Direito do Consumidor. Imóvel do autor localizado em condomínio que opera rede de tratamento de esgoto que realiza todas as etapas de coleta, afastamento e tratamento de forma independente, sem estar conectado à rede pública.
+Requer o cancelamento das cobranças de tarifa relativas ao serviço não prestado pela ré. Laudo pericial constatando que o imóvel não está ligado à rede pública, e que o tratamento de esgoto é feito pelo próprio Condomínio. Agravo retido. Sentença condenando a ré na restituição de valores cobrados indevidamente na forma simples. Recurso da ré. Reiteração do Agravo Retido. Sentença que se mantém. Serviço não prestado pela ré em nenhuma de suas etapas. Majoração dos honorários advocatícios para R$ 7.000,00, na forma do artigo 85 § 11º do CPC. Conhecimento e não provimento do recurso.
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, do art. 1022 do CPC; e, no mérito, do art. 45 da Lei 11.445/2007.
+Contrarrazões às fls. 363-366, e-STJ.
+À fl. 425, e-STJ, proveu-se o Agravo e determinou-se sua conversão em Recurso Especial, sem prejuízo de exame posterior mais profundo da admissibilidade.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 20.6.2018.
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 320-322, grifei):
+Conforme restou comprovado nos autos, o imóvel da parte autora tem seu esgoto sanitário coletado, afastado e tratado por rede de tratamento operada pelo próprio condomínio que não está conectada à rede pública. Não havendo interligação das redes, a ré, ora apelante, não realiza qualquer serviço relativo ao esgotamento sanitário no domicílio do autor, em nenhuma de suas diversas etapas.
+Todo a operação de esgotamento sanitário é realizada diretamente pelo condomínio ante o teor da prova pericial, a qual constatou que a coleta dos efluentes é feita por rede interna e o tratamento por Estação de Tratamento própria, a tornar induvidoso que o serviço pelo qual a apelante cobra não é efetivamente prestado.
+Jurisprudência da Suprema Corte que já se pacificou no sentido de que a natureza jurídica da cobrança pelo serviço de esgotamento sanitário é de tarifa.
+Desta forma, não há justificativa alguma para que a ré permaneça cobrando pelo serviço não prestado. Não basta que o serviço esteja disponibilizado ao consumidor; é necessária sua efetiva prestação, o que não ocorre neste caso.
+Embora louvável a preocupação da concessionária ré com o meio ambiente e com o local de descarte do lodo decorrente do tratamento de esgoto, estes não são assuntos que lhe dizem respeito, mas sim aos órgãos ambientais estaduais, sendo estes os encarregados de fiscalizar e punir eventuais causadores de danos ao meio ambiente. À concessionária ré cabe o serviço de abastecimento de água, coleta, afastamento e tratamento de esgoto sanitário. De qualquer maneira, considerando que a coleta é efetuada por empresa licenciada pelo INEA, presume-se que o descarte seja feito de acordo com as normas ambientais pertinentes.
+Observa-se que a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Assim, afasta-se a ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático-probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Portanto, o Recurso Especial interposto não merece trânsito, haja vista que os argumentos sub examine implicam reexame do conjunto fático-probatório carreado aos autos, providência que o Recurso Especial não comporta.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
