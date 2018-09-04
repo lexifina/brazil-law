@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE PASSIVA. GRUPO ECONÔMICO. TEORIA DA APARÊNCIA. ART. 1.022 DO CPC/2015. OFENSA. SÚMULAS NºS 5 E 7/STJ. INAPLICABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de apreciação de questões fáticas essenciais ao correto deslinde da controvérsia implica ofensa ao art. 1.022 do CPC/2015. Precedente.
+3. A análise de eventual violação do art. 1.022 do CPC/2015 demanda apenas o cotejo entre o que foi decidido pelo acórdão recorrido e as razões invocadas pelo recorrente, não havendo falar em incidência dos óbices das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro (Presidente), Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de de agravo interno interposto por [NOME] contra a decisão desta relatoria que deu provimento ao recurso especial da parte contrária para reconhecer a negativa de prestação jurisdicional e determinar a devolução dos autos ao tribunal de origem com vistas a apreciar as alegações apresentadas nos aclaratórios de fls. 703-706 e-STJ.
+Os embargos de declaração opostos contra a referida decisão unipessoal foram rejeitados (fls. 958-961 e-STJ).
+Nas presentes razões (fls. 965-976 e-STJ), o ora agravante insiste na incidência das Súmulas nºs 5 e 7/STJ por haver necessidade de reexame da matéria fático-probatória e de interpretação de cláusulas contratuais. Isso porque a causa se refere ao descumprimento do contrato de compra e venda e aos alegados ilícitos cometidos no transcorrer de todo o negócio.
+Assevera que a interpretação das normas processuais deve prestigiar o método teleológico, motivo pelo qual é preciso apreciar se a decisão ora impugnada atendeu às seguintes indagações: (i) "a segurança jurídica está preservada "; (ii) "o anseio social acerca do produto/serviço adequado foi atendido " e (iii) "seria viável afirmar que a Lei do Consumidor foi correta e efetivamente aplicada ao caso " (fl. 975 e-STJ).
+Por fim, requer a reconsideração da decisão agravada ou o provimento do presente recurso pelo órgão colegiado.
+Impugnação às fls. 980-1.000 (e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): A irresignação não merece prosperar.
+A decisão impugnada reconheceu a negativa de prestação jurisdicional, haja vista que diversas questões fáticas, imprescindíveis ao correto deslinde da controvérsia, não foram apreciadas pelo tribunal de origem.
+No caso, o acórdão de fls. 751-755 e-STJ não descreveu precisamente a relação jurídica existente entre as empresas integrantes do suposto grupo econômico e se ocorreu o redirecionamento da execução contra a sociedade que não figurou no polo passivo da ação de conhecimento (Patri Vinte e Quatro Empreendimentos Ltda.).
+Além disso, deixou de apreciar a alegada condição de Sociedades de Propósito Específico, o conhecimento, ou não, do ora agravante acerca da empresa encarregada pelo empreendimento e a possibilidade de aplicação da teoria da aparência quando o contrato especifica claramente o responsável pela construção das unidades imobiliárias e quando não há razões excepcionais que possam justificar a responsabilização de outras sociedades empresárias, afastando, com isso, a distinção das personalidades jurídicas.
+É o que observa do seguinte excerto do aresto da Corte local:
+"(..) 2.4. Vê-se das folhas do contrato (fls. 112) que o instrumento particular de compra e venda foi firmado entre [NOME], na qualidade de comprador, e Patri Vinte e Quatro Empreendimentos Imobiliários Ltda., esta na posição de incorporadora e vendedora.
+2.5. Ocorre que a empresa agravante é parte integrante do mesmo grupo econômico da qual faz parte aquela que figura no contrato, sendo em verdade a responsabilidade primeira pelo empreendimento da empresa Patrimônio Manaú, esta pertencente a Patrimônio Incorporações, que por sua vez é o braço imobiliário do conglomerado econômico "Grupo Hiroshima". Todas essas informações são de domínio público, facilmente verificáveis no sítio eletrônico de qualquer das empresas mencionadas (cf.http://www.precoiustosempre.com.br/manaus/sobre/; http://www.patrimonio.com.vc/site/institucional/empresa).
+2.6. Não há, diga-se, qualquer menção às ramificações empresariais ("Patri Quatro", "Patri Onze", "Patri Doze", "Patri Vinte e Quatro") que figuram como intermediárias na contratação da compra e venda dos diversos empreendimentos imobiliários de responsabilidade do mencionado grupo econômico, levando a crer que, ainda que não expressamente indicada na minuta do contrato, a real vendedora é a empresa matriz, qual seja, Patrimônio Manaú - Patrimônio Incorporações.
+2.7. Assim, a ramificação da empresa matriz em sub-empresas que realizam a intermediação dos contratos de compra e venda com os clientes interessados é mera liberalidade sua, o que não pode significar prejuízo ao acesso do consumidor á Justiça por suposta ilegitimidade de um ou outro membro do grupo.
+2.8. Não há, portanto, ilegitimidade do Recorrente para figurar no polo passivo da obrigação, posto que, pela Teoria da Aparência, representa toda a massa empresarial da qual faz parte, podendo utilizar-se dela e de todo seu poderio econômico para a defesa de seus interesses em comum.
+2.9. Dessa forma, aplicando a mencionada teoria, deve a pessoa jurídica ser responsabilizada solidariamente aos prejuízos suportados pela agravada. Nesse sentido: (..)
+2.10. Nesta senda, também não há de ser reconhecida qualquer mácula ao ato citatório, tendo em vista que efetivamente cumpriu seu desiderato, integrando o grupo econômico à lide através de um de seus membros. O entendimento jurisprudencial é consolidado neste sentido: (..)" (fls. 699-700 e-STJ - grifou-se).
+Com efeito, ao contrário do arguido, a análise da ofensa ao art. 1.022 do Código de Processo Civil de 2015 demanda apenas o cotejo entre o que foi decidido pelo tribunal de origem e as razões invocadas pelo ora agravado nos embargos de declaração, não existindo, portanto, a apreciação de matéria fática ou a interpretação de cláusulas contratuais (Súmulas nºs 5 e 7/STJ).
+Ressalta-se que a devolução dos autos à origem para sanar eventuais omissões não afronta a finalidade do referido dispositivo considerado violado (art. 1.022 do CPC/2015), mas apenas concede a eficácia reclamada pela norma processual.
+Nesse sentido:
+"PROCESSUAL CIVIL. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A ausência de valoração de tema relevante para a solução da lide configura omissão, nos termos do art. 535 do CPC.
+2. Na leitura do acórdão recorrido conclui-se que houve omissão quanto à análise de pontos relevantes para o deslinde da controvérsia, em especial no que tange aos juros e correção monetária e à aplicação, na espécie, do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, que modificou os índices e forma de contagem dos juros e correção monetária nas condenações impostas à Fazenda Pública, sobre os quais, mesmo instado a se manifestar por meio dos Embargos de Declaração opostos, o Tribunal local permaneceu silente.
+3. Caracterizada, assim, a violação do art. 535 do CPC, fica prejudicado o Recurso Especial interposto pela segurada.
+4. Dou provimento ao Recurso Especial do INSS, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, e julgo prejudicado o Recurso Especial de [NOME]."
+(REsp 1.337.055/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/08/2012, DJe 11/09/2012 - grifou-se)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
