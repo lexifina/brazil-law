@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto com base na alínea "a" do inciso III do art. 105 da Constituição Federal, em face de acórdão assim ementado (fl. 441):
+LIQUIDAÇÃO PROVISÓRIA DE SENTENÇA COLETIVA. DESNECESSIDADE. POSSIBILIDADE DE PROSSEGUIMENTO DO FEITO NA MODALIDADE DE CUMPRIMENTO PROVISÓRIO DE SENTENÇA.
+1. A hipótese dos autos (liquidação provisória de sentença coletiva proferida na ACP nº 94.00.08514-1) não se enquadra em nenhum dos incisos do art. 509 do CPC/2015, eis que os parâmetros para apuração do quantum debeatur constam no título executivo, mesmo que de forma provisória, uma vez que ainda não houve trânsito em julgado. Logo, a execução do julgado há de ser feita por cumprimento de sentença, na forma prevista no § 2º do art. 509 do CPC/2015. Ademais, não procede a alegação de impossibilidade de confecção de cálculos pela ausência de extratos vinculados às cédulas rurais, eis que o § 3º do art. 524 do CPC expressamente prevê a possibilidade de o Juiz requisitar os dados existentes em poder do devedor.
+2. Considerando-se que a suspensão determinada nos Embargos de Divergência no RESP nº 1.319.232-DF limita-se à aplicação do art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei 11.960/2009, nada impede o prosseguimento parcial do cumprimento provisório, determinando-se o sobrestamento apenas com relação ao montante que exceder os índices determinados no art. 5º da Lei nº 11.960/2009, sendo que eventuais diferenças poderão ser futuramente executadas, após a consolidação do entendimento quanto ao tema.
+Nas razões de recurso especial, alega o Banco do Brasil, em suma, violação do artigo 520 do Código de Processo Civil, para o efeito de extinguir, sem julgamento de mérito o cumprimento provisório do julgado proferido na ação civil pública, conforme decidido pela sentença.
+Sustenta que foi concedido efeito suspensivo ao presente recurso por intermédio de decisão exarada pelo STJ no EREsp 1.319.232/DF, em que determinada a suspensão integral de todos os cumprimentos provisórios de sentença com base na ACP 94.0008514-1.
+Defende que é impossível liquidar a sentença ante a indefinição dos índices de correção monetária e dos juros de mora incidentes no caso concreto.
+O Banco Central do Brasil informa que houve a concessão de tutela de urgência nas Rcl 34.679/RS e 34.966/RS por esta Corte, no mesmo sentido da pretensão reformatória (fls. 470/472).
+A União apresenta manifestação similar (fls. 481/482).
+Admissibilidade positiva às fls. 486/487.
+Assim posta a questão, passo a decidir.
+De início, anoto que não mais existe razão para o sobrestamento do EREsp 1.319.232/DF, haja vista que o RE 870.947/SE, relativo à afetação do Tema 810 de repercussão geral, foi julgado pelo Pleno do STF em 20.9.2017, publicado o acórdão em 20.11.2017. Confira-se o seguinte trecho da decisão singular proferida pelo Ministro Francisco Falcão, publicada em 19.3.2018, nos EDcl nos EREsp no RESP 1.319.232/DF, posteriormente à concessão da tutela de urgência nas duas reclamações indicadas acima:
+O RE nº 870.947/SE foi julgado pelo Pleno do STF em 20/09/2017 e publicado o acórdão em 20/11/2017.
+Cessado, portanto, o motivo do sobrestamento, o exame dos embargos de divergência volta a ter curso normal e, consequentemente, perdem o objeto os presentes embargos de declaração, razão pela qual, com esteio no artigo 34, inciso XI, do RISTJ, julgo-os prejudicados.
+Nesse panorama, como o presente recurso trata exclusivamente da impossibilidade de prosseguimento do cumprimento de sentença em virtude desse sobrestamento, evidente a perda superveniente do seu objeto, nos termos do art. 932, inciso III, do CPC.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
