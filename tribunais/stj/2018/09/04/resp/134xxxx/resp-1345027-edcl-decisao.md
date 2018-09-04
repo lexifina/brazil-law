@@ -1,0 +1,21 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. EXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Nos termos do artigo 1.022 do NCPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. A exigibilidade das obrigações decorrentes da sucumbência do beneficiário da gratuidade da justiça fica suspensa à luz do disposto no § 3º do artigo 98 do NCPC.
+3. Embargos de declaração acolhidos sem efeitos infringentes.
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por [NOME] em face de decisão monocrática da lavra deste relator, que deu provimento ao recurso especial da seguradora para julgar improcedente a pretensão deduzida na inicial, condenando a autora ao pagamento das custas e honorários advocatícios, estes arbitrados em R$ 1.000,00 (hum mil reais).
+Eis a ementa da aludida deliberação unipessoal:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRADIÇÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Nos termos do artigo 1.022 do NCPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. A exigibilidade das obrigações decorrentes da sucumbência do beneficiário da gratuidade da justiça fica suspensa à luz do disposto no § 3º do artigo 98 do NCPC.
+3. Embargos de declaração acolhidos sem efeitos infringentes.
+Em suas razões, a embargante aponta omissão, por não ter sido reconhecida sua condição de beneficiária da gratuidade de justiça com a expressa suspensão da exigibilidade das obrigações decorrentes da sucumbência.
+É o relatório. Decido.
+2. O reclamo comporta acolhida.
+Nos termos do artigo 1.022 do Novo CPC (aplicável à espécie), cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+A decisão embargada deu provimento ao recurso especial da seguradora para julgar improcedente a pretensão deduzida na inicial, condenando a autora ao pagamento das custas e honorários advocatícios, estes arbitrados em R$ 1.000,00 (hum mil reais).
+Na ocasião, foi considerado que, nos termos da jurisprudência da Segunda Seção, o exercício do direito de não renovação do seguro de vida em grupo pela seguradora, na hipótese de ocorrência de desequilíbrio atuarial, não fere o princípio da boa-fé objetiva, mesmo porque o mutualismo e a temporariedade são ínsitos a essa espécie de contrato (REsp 880.605/RN, Rel. Ministro Luis Felipe Salomão, Rel. p/ Acórdão Ministro Massami Uyeda, Segunda Seção, julgado em 13.06.2012, DJe 17.09.2012).
+Nada obstante, afigura-se impositivo o reconhecimento da suspensão da exigibilidade das obrigações decorrentes da sucumbência da beneficiária da gratuidade da justiça à luz do disposto no § 3º do artigo 98 do NCPC.
+3. Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, apenas para explicitar a suspensão da exigibilidade do pagamento das custas processuais e dos honorários advocatícios pela autora (beneficiária da gratuidade da justiça).
+Publique-se. Intimem-se.
