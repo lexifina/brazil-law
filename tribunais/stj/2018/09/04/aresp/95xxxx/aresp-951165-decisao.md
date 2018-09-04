@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado pelo Ministério Público do Estado do Rio de Janeiro contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 21):
+Agravo de Instrumento. Desconsideração da personalidade jurídica. Artigo 50 do Código Civil. Medida de caráter excepcional que depende da existência de vícios que configurem abuso de direito, desvio de finalidade ou confusão patrimonial, de prova da utilização de expedientes escusos, em ordem a frustrar a execução em detrimento do credor. Encerramento das atividades que, por si só, não é suficiente para comprovar o abuso da personalidade jurídica da sociedade. Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 535, II, do CPC/73 e 28, § 5º, do CDC. Sustenta que: (I) o Tribunal de origem foi omisso quanto à tese relativa à aplicação da teoria menor da desconsideração da personalidade jurídica; (II)
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 6/2/2014, DJe 24/2/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/5/2007, DJ 28/5/2007)
+O Tribunal de origem, calcado nos fatos e provas dos autos, entendeu que não restavam presentes os requisitos para se deferir a desconsideração da personalidade jurídica. Veja-se (fls. 22/23):
+Assim sendo, o simples fato de a parte agravada ter encerrado suas atividades operacionais não é, por si só, indicativo de que tenha havido fraude ou má-fé na condução dos seus negócios.
+ ..
+Ressalte-se, por oportuno, que a alegação da recorrente no sentido de que a situação cadastral do CNPJ da empresa agravada é baixado, por motivo de inaptidão, não restou demonstrada nos autos do presente recurso. O documento de fls. 35 apenas comprova que a pessoa jurídica foi extinta por encerramento de liquidação voluntária.
+A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NÃO DEMONSTRAÇÃO DA PRESENÇA DOS REQUISITOS PREVISTOS NO ART. 28 DO CDC. SÚMULA 7/STJ.
+1. A recorrente busca a desconsideração da personalidade jurídica, em virtude de a recorrida não mais exercer as atividades no endereço fornecido na inicial.
+2. O art. 28 do CDC dispõe que a desconsideração da personalidade jurídica da sociedade, no âmbito das relações consumeristas, se efetivará: a) quando, em detrimento do consumidor, houver abuso de direito, excesso de poder, infração da lei, fato ou ato ilícito ou violação dos estatutos ou contrato social; b) falência, estado de insolvência, encerramento ou inatividade da pessoa jurídica, provocados por má administração; c) sempre que sua personalidade for, de alguma forma, obstáculo ao ressarcimento de prejuízos causados aos consumidores.
+3. O Tribunal local indeferiu a desconsideração, por não haver nos autos elementos que demonstrassem, com base nos requisitos especificados no art. 28 do CDC, situação que autorizasse a superação da personalidade jurídica da recorrida.
+4. No caso, desconstituir o juízo formado - ausência de algum requisito do art. 28 do CDC, para fins de admitir a desconsideração da personalidade jurídica - exige, em sede de recurso excepcional, o revolvimento dos elementos informativos dos autos, o que enseja o óbice da Súmula 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 563.745/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 9/6/2015, DJe 30/6/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL (CPC/1973). PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DEFERIMENTO. FUNDAMENTAÇÃO APOIADA NA INEXISTÊNCIA DOS REQUISITOS PREVISTOS NO ART. 50 DO CÓDIGO CIVIL DE 2002 (TEORIA MAIOR). ALEGAÇÃO DE QUE SE TRATAVA DE RELAÇÃO DE CONSUMO. INCIDÊNCIA DO ART. 28, § 5º, DO CDC (TEORIA MENOR). REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INTIMAÇÃO DOS SÓCIOS. CONTRADITÓRIO DIFERIDO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1.072.971/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/2/2018, DJe 5/3/2018)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
