@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 1.043):
+DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C.C. INDENIZAÇÃO POR DANOS MORAIS - Inclusão do autor no quadro societário de empresa, pelos corréus (à exceção do co-demandado Jorge) - Perícia grafotécnica conclusiva acerca da falsidade da assinatura aposta no instrumento de alteração do contrato social da empresa - Ato ilícito configurado - Dano moral que, na hipótese, é imediato e presumido (já que, além da indevida inclusão do autor no quadro societário e falsificação da assinatura deste, o mesmo passou à condição de devedor perante a
+Prefeitura local e o fisco) - Indenização devida - Fixação em R$ 10.000,00 - Montante que não se mostra apto a reparar o dano causado - Arbitramento no valor de R$ 20.000,00 que se mostra razoável e em consonância com a regra do artigo 944 do Código Civil - Sentença reformada - Recurso do autor parcialmente provido, improvidos os apelos dos réus.
+O recorrente, em suas razões (e-STJ fls. 1.056/1.070), aduz divergência jurisprudencial quanto ao prazo prescricional, afirmando que o Tribunal de origem "entendeu que o termo a quo ocorreu quando da realização da perícia grafotécnica e não do Boletim de Ocorrência elaborado pelo autor da ação, ora recorrido, em desconformidade com o quanto estampado no artigo 189, do Código Civil" (e-STJ fl. 1.058).
+A parte recorrida não apresentou contrarrazões (e-STJ fl. 1.127).
+O especial foi admitido pelo Tribunal de origem (e-STJ fls. 1.128/1.129).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e do art. 541, parágrafo único, do CPC/1973, ônus dos quais a parte recorrente não se desincumbiu.
+Ademais, o recorrente refuta o prazo prescricional, apontando violação do art. 189 do CC/2002. Tal dispositivo, contudo, não possui pertinência temática com a matéria alegada, que se encontra regida pelo art. 206 do CC/2002. Assim, a fundamentação recursal mostra-se deficiente, o que atrai a aplicação, por analogia, do óbice da Súmula n. 284/STF.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
