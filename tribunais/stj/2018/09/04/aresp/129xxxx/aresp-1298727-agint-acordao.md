@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO DO CONTRATO COLETIVO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO A QUO. SÚMULA 283/STF. AGRAVO DESPROVIDO.
+1. Esta Corte Superior firmou entendimento de que as operadoras de plano de saúde não são obrigadas a comercializar planos individuais quando atuarem somente no segmento de planos coletivos.
+1.1. O acórdão recorrido se alinhou à jurisprudência desta Corte Superior, porém asseverou que a operadora do plano de saúde não cumpriu sua obrigação disposta na Resolução CONSU n. 19/1999, sendo que o argumento do Tribunal de origem não foi impugnado nas razões do recurso especial, atraindo a incidência da Súmula 283/STF.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro (Presidente), Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+[NOME] ajuizou ação de conhecimento em desfavor de Notre Dame Intermedica Saúde S.A. postulando a condenação da ré à manutenção do contrato de plano de saúde.
+O Magistrado de primeiro grau julgou parcialmente procedente o pedido para condenar a requerida a manter o contrato, na modalidade familiar, sem qualquer tipo de carência, mas assumindo o valor integral do plano.
+Interposta apelação pela ré, a Décima Sexta Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu parcial provimento à insurgência para afastar a determinação de que a apelante mantenha o autor e seus dependentes como titulares de plano familiar, mas reconhecer o descabimento do cancelamento do contrato enquanto não seja ofertada a possibilidade de migração do plano, devendo o autor ser mantido no plano atual até o implemento daquela condição.
+O acórdão está assim ementado:
+SEGURO. PLANO DE SAÚDE COLETIVO. PRETENDIDA MANUTENÇÃO DO PLANO DE ASSISTÊNCIA MÉDICA. RESCISÃO DO CONTRATO COLETIVO FIRMADO ENTRE A ANTIGA EMPREGADORA DO AUTOR, JÁ APOSENTADO, E A SEGURADORA-RÉ. RESCISÃO UNILATERAL POR PARTE DA EMPRESA PRESTADORA DO PLANO. CLÁUSULA CONTRATUAL NÃO ABUSIVA OU NULA. CONTRATO REALIZADO ENTRE DUAS EMPRESAS. AUSÊNCIA DE HIPOSSUFICIÊNCIA. LIVRE MANIFESTAÇÃO DE VONTADE CONTRATUAL. NÃO INCIDÊNCIA DO ARTIGO 13 DA LEI 9.656/90. INEXISTÊNCIA, TODAVIA, DE PROVA DE QUE AO BENEFICIÁRIO TENHA SIDO OFERECIDA A OPÇÃO DE MIGRAÇÃO PARA CONTRATO INDIVIDUAL OU FAMILIAR, SEM CUMPRIMENTO DE CARÊNCIA. CONDIÇÃO PRÉVIA AO CANCELAMENTO DO CONTRATO COLETIVO, NA FORMA DA RESOLUÇÃO CONSU N.º 19/1999. APELANTE, ALIÁS, QUE CONFESSA NÃO COMERCIALIZAR ATUALMENTE PLANOS DESSA NATUREZA. AFASTADA A DETERMINAÇÃO DE MIGRAÇÃO COMPULSÓRIA DO AUTOR PARA CONTRATO FAMILIAR, POIS ATUALMENTE INEXISTENTE, DEVERÁ ELE SER MANTIDO NO COLETIVO ATÉ QUE LHE SEJA OFERTADA ESTA OPÇÃO. SENTENÇA REFORMADA PARA TAL FIM. AÇÃO PARCIALMENTE PROCEDENTE. RECURSO PARCIALMENTE PROVIDO.
+A operadora do plano de saúde interpôs recurso especial fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 188, I, do CC e 35 da Lei n. 9.656/1998. Sustentou, em síntese, a inviabilidade de manutenção dos segurados no contrato coletivo extinto ou possibilitar a migração para contrato individual ou familiar, pois não está autorizada a comercializar estes contratos.
+Contrarrazões às fls. 278-302 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidir a Súmula 7/STJ.
+Irresignada, a recorrente apresentou agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta às fls. 321-336 (e-STJ).
+Em decisão monocrática proferida por este signatário (e-STJ, fls. 342-345), conheceu-se do agravo para não conhecer do recurso especial, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESCISÃO DO CONTRATO COLETIVO. OBRIGAÇÃO NÃO CUMPRIDA PELA OPERADORA DO PLANO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões do agravo interno (e-STJ, fls. 348-350), a insurgente refuta a aplicação do óbice apontado na deliberação unipessoal e repisa os argumentos trazidos no apelo nobre.
+Sem contraminuta.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da decisão impugnada.
+Consoante assinalado anteriormente, esta Corte Superior firmou entendimento de que as operadoras de plano de saúde não são obrigadas a comercializar planos individuais quando atuarem somente no segmento de planos coletivos.
+Sobre o tema, veja-se:
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EMPREGADO DEMITIDO SEM JUSTA CAUSA. PRORROGAÇÃO TEMPORÁRIA DO BENEFÍCIO. REQUISITOS PREENCHIDOS. EXAURIMENTO DO DIREITO. DESLIGAMENTO DO USUÁRIO. LEGALIDADE. PLANO INDIVIDUAL. MIGRAÇÃO. INADMISSIBILIDADE. OPERADORA. EXPLORAÇÃO EXCLUSIVA DE PLANOS COLETIVOS.
+(..) 5. Não é ilegal a recusa de operadoras de planos de saúde de comercializarem planos individuais por atuarem apenas no segmento de planos coletivos. Não há norma legal alguma obrigando-as a atuar em determinado ramo de plano de saúde. O que é vedada é a discriminação de consumidores em relação a produtos e serviços que já são oferecidos no mercado de consumo por determinado fornecedor, como costuma ocorrer em recusas arbitrárias na contratação de planos individuais quando tal tipo estiver previsto na carteira da empresa.
+(..) 7. Recurso especial não provido. (REsp 1592278/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/06/2016, DJe 20/06/2016)
+Esse entendimento inclusive foi acolhido pelo Tribunal estadual ao afastar a condenação da recorrente à manutenção dos segurados em plano familiar, haja vista a inexistência de contrato dessa natureza ofertado por ela.
+Contudo, o acórdão recorrido asseverou que a operadora do plano de saúde não cumpriu sua obrigação de disponibilizar, ao autor, plano individual ou familiar em razão da rescisão do contrato coletivo firmado com a ex-empregadora, devendo ser observado o objetivo da proteção trazida pela Resolução CONSU n. 19/1999.
+Todavia, verifica-se que os fundamentos adotados pela Corte estadual não foram objeto de impugnação nas razões do recurso especial, sendo que a manutenção de algum argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGAÇÕES DE NULIDADE DE INTIMAÇÃO, PRESCRIÇÃO DO FEITO EXECUTIVO E IMPOSSIBILIDADE DE DECLINAÇÃO DE COMPETÊNCIA. ÓBICES SUMULARES E INOVAÇÃO RECURSAL. MATÉRIA DE ORDEM PÚBLICA. NÃO CABIMENTO, NESTA SEDE, UMA VEZ QUE AUSENTE O REQUISITO DO PREQUESTIONAMENTO.
+1. A ausência de impugnação específica das razões pelas quais o Tribunal a quo deixou de conhecer da matéria atrai o óbice das Súmulas 283 e 284 do STF.
+ ..  5. Agravo regimental a que se nega provimento. (AgRg no REsp 1443474/CE, Rel. Min. Og Fernandes, Segunda Turma, julgado em 02/06/2015, DJe 15/06/2015)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
