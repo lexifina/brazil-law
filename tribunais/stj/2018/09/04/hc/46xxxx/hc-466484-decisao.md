@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JANILDO DA SILVA contra acórdão do Tribunal de Justiça do Estado da Paraíba (0802036-61.2018.5.15.0000).
+Narra a inicial que o paciente foi preso cautelarmente no dia 18/1/2018 em razão da investigação instaurada para apurar a autoria de um homicídio ocorrido no dia 14/9/2014.
+Na ação originária, a defesa alegou excesso de prazo para a conclusão da investigação. O Tribunal estadual, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 58):
+HABEAS CORPUS PREVENTIVO. INQUÉRITO POLICIAL EM TRÂMITE PARA APURAÇÃO DE CRIME DE HOMICÍDIO QUALIFICADO. PACIENTE SOLTO. ALEGAÇÃO DE EXCESSO DE PRAZO PARA CONCLUSÃO DA FASE INVESTIGATTVA. FEITO COMPLEXO. TRÂMITE REGULAR. AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA, BEM COMO DA DECISÃO QUE INDEFERIU A REVOGAÇÃO DA MEDIDA CONSTRITIVA. DECISÕES SUFICIENTEMENTE MOTIVADAS COM INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. APLICAÇÃO DAS MEDIDAS CAUTELARES ELENCADAS NO ARTIGO 319 DO CÓDIGO PROCESSUAL PENAL. INADEQUAÇÃO. DENEGAÇÃO.
+A constatação de eventual excesso de prazo para conclusão do inquérito ou mesmo do processo não resulta de mera operação matemática. Dc fato, revela-se imprescindível sopesar a complexidade dos fatos e dos crimes sob investigação, o número de envolvidos e demais circunstâncias que tornam razoável a dilação do prazo.
+In casu, os autos seguem trâmite regular, não estando o feito, ademais, indevidamente paralisado.
+Havendo prova da materialidade do crime e indícios suficientes de autoria, bem como estando a decisão segregatória suficientemente fundamentada, com indicação efetiva da necessidade da custódia, perde consistência a alegação de constrangimento ilegal.
+Não existindo ilegalidade a ser reparada no Decreto de prisão preventiva motivado com a indicação de elementos concretos no tocante à necessidade de garantia da ordem pública e da aplicação da lei penal, mostra-se inócua a aplicação de medida cautelar diversa da prisão.
+Nas razões da presente ação, a defesa reafirma, em síntese, haver constrangimento ilegal por excesso de prazo para o encerramento da investigação e oferecimento da denúncia, motivo pelo qual pede, em liminar e no mérito, o relaxamento da prisão preventiva, mediante a aplicação de medidas cautelares mais brandas.
+É o relatório, decido.
+A liminar em recurso ordinário em habeas corpus, bem como em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto na impetração.
+Em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+No caso, não há nos autos elementos que atestem, de plano, o alegado constrangimento.
+Observa-se que não foram colacionadas peças processuais indispensáveis para a compreensão da controvérsia, com o decreto de prisão preventiva com a comprovação da data de cumprimento, bem como outros documentos demonstrando que a investigação prossegue, além do prazo legal, com o investigado preso por essa razão.
+Assim, não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal, valendo ressaltar que o pedido liminar se confunde com o próprio mérito da impetração, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo do recurso ordinário em habeas corpus pelo colegiado da Quinta Turma.
+Ante o exposto, indefiro a liminar.
+Solicitem-se, com urgência, informações ao Juízo de primeiro grau, inclusive o envio da senha para acesso aos dados processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intime-se.
