@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - RECONHECIMENTO DA RESPONSABILIDADE DE DOIS RÉUS PELA CAUSAÇÃO DE DANOS MORAIS - CONDENAÇÃO EM INDENIZAÇÃO ÚNICA - SOLIDARIEDADE - INTELIGÊNCIA DOS ARTIGOS 264 E 942 DO CÓDIGO CIVIL BRASILEIRO - PAGAMENTO INTEGRAL - EXERCÍCIO POSTERIOR DO REGRESSO - RECURSO DESPROVIDO. A solidariedade pode ser reconhecida em sentença que, conquanto não utilize tal nomenclatura, reconheça a culpa de mais de um réu na causação de danos e arbitre indenização única, a ser satisfeita por qualquer destes, sendo ressalvado, de todo o modo, o regresso. Recurso desprovido.
+Nas razões de recurso especial, alega a parte agravante violação do artigo 265 do Código Civil, além de divergência jurisprudencial.
+Assim posta a questão, verifico não assistir razão ao agravante. Segundo argumenta, a solidariedade não pode ser presumida, razão pela qual o pagamento que fez parte da dívida o exonera da obrigação. A respeito do tema, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 126):
+Revisitado o título executivo, consistente na sentença de Ordem 07, verifica-se que a agravada Promenade Apart Hoteis Ltda ajuizou ação indenizatória contra o Banco Fibra, ora agravante, e a empresa denominada Produtos Sabie Ltda, alegando ter sido surpreendida com o protesto de duplicata endossada pela última à primeira.
+Nota-se, ainda, em sua fundamentação, ter sido ponderado pelo prolator a responsabilidade de ambos os réus para o evento danoso, principalmente pelos excertos que passo a expor :
+(..)
+E resta claro que os requeridos não trataram a parte autora com o devido respeito, sanando, de imediato, o reclamado defeito na prestação dos serviços. Entendo, assim, que houve dano à moral do requerente decorrente da má prestação de serviços por parte dos requeridos e de seus atos desidiosos.
+(..)
+Ora, as ponderações do juízo a quo culminaram em condenação única às rés, de pagarem à autora da ação uma única indenização noimporte de cinco mil reais, devidamente atualizada e acrescida de juros, como é extraído de sua parte dispositiva:
+E, no presente caso, em que não houve dano moral grave, pois não houve repercussão social ou cobrança vexatória, tenho que o valor de R$5.000,00 (cinco mil reais) é suficiente e razoável.
+Ante o exposto, julgo procedentes os pedidos para condenar os réus, a título de danos morais, ao pagamento de R$5.000,00 (cinco mil reais) à parte autora, corrigidos pelos fatores indicados pela Corregedoria de Justiça de Minas Gerais e acrescidos de juros de 1% (um por cento) ao mês, a partir do arbitramento, até a data do efetivo pagamento. (..)
+A simples leitura da parte dispositiva permite concluir pelo caráter solidário da obrigação estabelecida pois, se o juízo quisesse condenar cada um dos réus a pagar à autora a metade do valor da indenização, isso teria sido expressamente ressalvado, com a condenação específica de cada um deles no importe de R$2.500,00 (dois mil e quinhentos reais).
+Descabe, a essa altura, a alegação de que solidariedade não se presume e decorre de lei, já que foi reconhecido, por sentença transitada em julgado e não integrada por embargos declaratórios, que os dois causadores do dano deveriam responder, perante o credor, pela integralidade da reparação.
+Não se trata, portanto, de presumir a solidariedade, mas de cumprimento do que estabelecido no título executivo.
+O dissídio jurisprudencial não ficou caracterizado, pois não destacadas as circunstâncias que assemelhassem os casos confrontados. O paradigma esposa a tese, correta, de que a solidariedade não pode ser presumida, mas, no caso concreto, a solidariedade foi estabelecida pela sentença executada.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
