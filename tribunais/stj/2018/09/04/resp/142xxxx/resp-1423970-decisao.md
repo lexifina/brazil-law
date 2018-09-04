@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e OUTROS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 235):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. SERVIDORES DA CARREIRA DE MAGISTÉRIO SUPERIOR. NÃO EXTENSÃO. REAJUSTE ESPECÍFICO SUPERIOR A 28,86%. ART. 4o. DA LEI 8.627/93.
+1. A categoria do magistério superior já foi beneficiada com um aumento de vencimentos na ordem de 30,12%, com fulcro no que disciplina o Anexo IV, da Lei 8.622/93, restando ilegítima a concessão do índice pleiteado, qual seja de 28,86%.
+2. Apelação dos embargados improvida.
+Embargos de declaração foram rejeitados. (e-STJ fls. 247/256)
+Nas suas razões, a parte recorrente aponta violação dos arts. 145, 334, I e II, 348, 421, 535, II e 739, § 2.º do CPC/1973 e do art. 212, I e V do Código Civil, sustentando, em síntese, além da negativa de prestação jurisdicional, o direito ao recebimento das parcelas tida por incontroversas e já confessadas pela parte executada.
+Contrarrazões foram apresentadas às e-STJ fls. 279/283.
+ Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fl. 295.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Em relação ao art. 535, II, do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI, Desembargadora convocada TRF da 3ª Região, Segunda Turma, julgado em 07/04/2016, Dje 15/04/2016).
+Em relação aos arts. 145, 421 e 739, § 2.º, do CPC/1973 o apelo nobre carece do requisito constitucional do prequestionamento. Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pela parte recorrente.
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento. Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Esclareça-se que o acórdão embargado não se pronunciou sobre os dispositivos indicados pelo ora agravante. Incide, na hipótese, o entendimento consolidado na Súmula 282 do STF.
+Por fim, acerca da confissão da dívida pela UFAL, a Corte de origem assim se manifestou (e-STJ fl. 251):
+Ademais, como se sabe, a UFAL possui personalidade jurídica de autarquia pública, devendo obediência aos princípios que regem Administração Pública, de modo que não lhe é possível o reconhecimento de dívida inexistente, tendo em vista o caráter indisponível dos recursos públicos.
+Ocorre que a parte recorrente deixou de impugnar referido fundamento, o que inviabiliza o conhecimento do apelo nobre nos termos das Súmulas 283 e 284 do STF. A propósito:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. INVALIDEZ PERMANENTE. POLICIAL MILITAR. SOLDO EM GRAU HIERÁRQUICO IMEDIATAMENTE SUPERIOR. PEDIDO JURIDICAMENTE IMPOSSÍVEL. AUMENTO DE VENCIMENTOS. UM DOS FUNDAMENTOS RESTOU INATACADO. SÚMULA Nº 283 DO STF. LEGITIMIDADE PASSIVA.
+Trata-se, na origem, de mandamus objetivando à percepção de soldo, de policial militar inativado por invalidez, em grau hierárquico imediatamente superior. Inexiste, na espécie, violação do artigo 535 do Código de Processo Civil, uma vez que a matéria apontada como omitida foi devidamente apreciada.
+Quanto à alegação de pedido juridicamente impossível, consistente em aumento de vencimentos, a questão foi dirimida amparando-se em dois fundamentos, sendo que um deles restou inatacado, aplicando-se ao ponto, a Súmula nº 283 do Supremo Tribunal Federal, por analogia.
+A autoridade indicada tem legitimidade para a causa, o que afasta a violação do artigo 267, VI, do Código de Processo Civil. Agravo regimental desprovido. (AgRg no REsp 1.229.622/AM, Rel. Ministra MARGA TESSLER, JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO, PRIMEIRA TURMA, julgado em 24/02/2015, DJe 03/03/2015).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO E CAUTELAR DE SUSTAÇÃO DE PROTESTO DE DUPLICATA. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284 DO STF. NÃO-CONHECIMENTO. ENDOSSO-MANDATO. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. SÚMULA 283 DO STF. NÃO-CONHECIMENTO.
+ 1. Se a alegação de violação ao art. 535 do CPC é realizada de forma genérica, não deve ela ser conhecida (súmula 284 do STF).
+2. Tendo o acórdão recorrido utilizado dois fundamentos para o reconhecimento da legitimidade passiva da instituição financeira, a impugnação de apenas um deles impede o conhecimento do recurso especial no ponto (súmula 283 do STF). AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 896.131/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO,TERCEIRA TURMA, julgado em 18/11/2010, DJe 10/12/2010).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
