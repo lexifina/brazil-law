@@ -1,0 +1,94 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SERVIÇO DE SAÚDE. TRATAMENTO. RECUSA INDEVIDA. DANOS MORAIS. COMPROVAÇÃO. INDENIZAÇÃO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever a conclusão do julgado, que entendeu pela existência de danos morais indenizáveis, demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro (Presidente), Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por GEAP FUNDAÇÃO EM SAÚDE contra a decisão (fls. 422/430 e-STJ) que conheceu do agravo para não conhecer do recurso especial.
+A agravante requer, em síntese, que "seja recebido e conhecido o presente Recurso para afastar a condenação em danos morais; caso não seja esse o entendimento, para reduzir o valor arbitrado a título de danos morais, observando-se os princípios da proporcionalidade e razoabilidade" (fl. 444 e-STJ).
+Ao final, pleiteia a reforma do decisão agravada.
+Impugnação às fls. 448/457 (e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): A irresignação não merece prosperar.
+Na hipótese dos autos, o tribunal local consignou que,
+"(..) indevida como fora a recusa e diante de todos os percalços narrados e comprovados pela parte apelada, faz jus a mesma à composição dos danos morais daí decorrentes, importe este, arbitrado pelo juízo singular em R$ 20.000,00 (vinte mil reais) não carece de qualquer reparo" (fl. 287, e-STJ).
+Rever as conclusões do acórdão recorrido acerca da existência de danos morais indenizáveis demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PLANO DE SAÚDE. 1. RECUSA DE ATENDIMENTO. DANO MORAL CONFIGURADO. SÚMULA N. 83 DO STJ. 2. REDUÇÃO DO VALOR INDENIZATÓRIO. QUANTUM QUE NÃO SE MOSTROU DESPROPORCIONAL. MANUTENÇÃO DO ACÓRDÃO RECORRIDO. 3. AGRAVO INTERNO IMPROVIDO.
+1. É firme o entendimento desta Corte no sentido de que a recusa injustificada da seguradora em cobrir tratamento de saúde requerido pelo segurado configura ato ilícito, ensejando pagamento de indenização a título de danos morais (Súmula n. 83 do STJ).
+2. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+No caso concreto, todavia, o valor fixado em R$ 15.000,00 (quinze mil reais) está condizente com os princípios da proporcionalidade e razoabilidade, não havendo justificativa para a excepcional intervenção desta Corte Superior.
+3. Agravo interno improvido" (AgInt no AREsp 926.478/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 2/2/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANO MORAL E ATO ILÍCITO. SÚMULAS 7 E 83 DO STJ. VALOR DA INDENIZAÇÃO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A convicção formada pelo Tribunal de origem no sentido da existência de dano moral indenizável de responsabilidade da parte recorrente decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. Em consonância com a jurisprudência pacificada do STJ, a recusa indevida à cobertura médica enseja reparação a título de dano moral, uma vez que agrava a situação de aflição psicológica e de angústia no espírito do segurado, já combalido pela própria doença. Precedentes.
+3. Inviabilidade de ser alterado valor indenizatório, quando não se revelar irrisório ou exorbitante. Incidência da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 963.493/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/9/2016, DJe 10/10/2016).
+Ademais, quanto ao montante arbitrado a título de indenização, cumpre salientar que a pretensão recursal de alterar o valor arbitrado é também inviável na estreita via do recurso especial.
+Isso porque, cada caso, consideradas as circunstâncias do fato, as condições do ofensor e do ofendido, a forma e o tipo de dano, bem como suas repercussões no mundo interior e exterior da vítima, reveste-se de características que lhe são próprias. Sendo assim, ainda que, objetivamente, possam parecer assemelhados, no aspecto subjetivo serão sempre diferentes.
+De fato, na instância especial, é inviável a modificação do valor indenizatório fixado pelo tribunal de origem sem esbarrar no óbice da Súmula nº 7/STJ. Admite-se a modificação, apenas excepcionalmente, nas hipóteses em que configurada a insignificância ou eventual exorbitância do valor arbitrado pelas instâncias de ampla cognição, o que não ocorre no caso em apreço.
+A propósito:
+"PROCESSO CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. ACOLHIMENTO DOS EMBARGOS COM EFEITOS INFRINGENTES. POSSIBILIDADE. RESPONSABILIDADE CIVIL. DANOS MORAIS E ESTÉTICOS. VALOR. REVISÃO EM SEDE DE RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE O MONTANTE SE MOSTRE ÍNFIMO OU EXAGERADO.
+(..)
+2. A revisão do valor arbitrado a título de danos morais e/ou estéticos em sede de recurso especial somente é possível nas hipóteses em que a verba se mostrar ínfima ou exagerada, contrariando os princípios da razoabilidade e da proporcionalidade. Precedentes.
+(..)
+6. Na hipótese sob exame, em que a vítima, então com 08 anos de idade, sofreu amputação do membro inferior esquerdo, afigura-se razoável a fixação dos danos morais e estéticos em R$360.000,00, atualmente correspondente a cerca de 500 salários mínimos.
+7. Embargos de declaração no recurso especial acolhidos com efeitos modificativos". (EDcl no AgRg no REsp 1.345.471/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/02/2014, DJe 24/02/2014- grifou-se)
+"RECURSO ESPECIAL DE JPGB E OUTROS. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ERRO MÉDICO. HOSPITAL MUNICIPAL. AMPUTAÇÃO DE BRAÇO DE RECÉM-NASCIDO. DANOS MORAIS E ESTÉTICOS. CUMULAÇÃO. POSSIBILIDADE. QUANTUM INDENIZATÓRIO FIXADO EM FAVOR DOS PAIS E IRMÃO. RAZOABILIDADE E PROPORCIONALIDADE. RECURSO PARCIALMENTE PROVIDO.
+(..)
+9. Quanto ao pedido de majoração da condenação em danos morais em favor dos pais e do irmão da vítima, ressalte-se que a revisão do valor da indenização somente é possível quando exorbitante ou insignificante a importância arbitrada. Essa excepcionalidade, contudo, não se aplica à hipótese dos autos. Isso, porque o valor da indenização por danos morais - fixado em R$ 20.000,00, para cada um dos pais, e em R$ 5.000,00, para o irmão de onze (11) anos, totalizando, assim, R$ 45.000,00 -, nem é irrisório nem desproporcional aos danos morais sofridos por esses recorrentes. Ao contrário, a importância assentada foi arbitrada com bom senso, dentro dos critérios de razoabilidade e proporcionalidade.
+10. Recurso especial parcialmente provido, apenas para determinar a cumulação dos danos moral e estético, nos termos em que fixados na r. sentença, totalizando-se, assim, trezentos mil reais (R$ 300.000, 00).
+RECURSO ESPECIAL ADESIVO DO MUNICÍPIO DO RIO DE JANEIRO. PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. REVISÃO DO VALOR DA INDENIZAÇÃO. INVIABILIDADE. SÚMULA 7/STJ. RECURSO NÃO-CONHECIDO.
+1. O recurso especial adesivo fica prejudicado quanto ao valor da indenização da vítima, tendo em vista o exame do tema por ocasião do provimento parcial do recurso especial dos autores.
+2. O quantum indenizatório dos danos morais fixados em favor dos pais e do irmão da vítima, ao contrário do alegado pelo Município, não é exorbitante (total de R$ 45.000,00). Conforme anteriormente ressaltado, esses valores foram fixados em patamares razoáveis e dentro dos limites da proporcionalidade, de maneira que é indevida sua revisão em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Recurso especial adesivo não-conhecido" (REsp 910.794/RJ, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 21/10/2008, DJe 04/12/2008).
+"RESPONSABILIDADE CIVIL. DESCARGA ELÉTRICA POR ROMPIMENTO DE CABO CONDUTOR. AMPUTAÇÃO DE BRAÇO DIREITO E DIVERSAS CICATRIZES NO CORPO. VÍTIMA QUE CONTAVA COM DEZESSETE ANOS DE IDADE. DANO MORAL E ESTÉTICO. CUMULAÇÃO DEVIDA. VALOR DAS INDENIZAÇÕES REDIMENSIONADO.
+(..)
+3. Por outro lado, mostra-se imprópria qualquer comparação no que concerne ao valor de indenização fixado por esta Corte em caso de morte. No presente caso, está-se a indenizar a própria vítima por um sofrimento que irá experimentar por toda a vida, ao passo que a indenização por morte é concedida aos familiares da vítima, em decorrência da dor experimentada pela perda do querido ente.
+4. Indenização elevada ao valor global de R$ 250.000,00, já considerados os danos morais e estéticos. Quanto ao valor da indenização, ressalva pessoal do relator, que dava provimento ao recurso em maior extensão.
+5. Recurso especial parcialmente conhecido e, na extensão, provido" (REsp 689.088/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/10/2009, DJe 02/02/2010).
+"CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE EXTRACONTRATUAL. ALIENAÇÃO EQUIVOCADA DE VEÍCULO APREENDIDO. DANOS MATERIAIS. LUCROS CESSANTES. DANOS MORAIS FIXADOS EM 500 SALÁRIOS MÍNIMOS. EXORBITÂNCIA. REVISÃO.
+(..)
+2. Em linhas gerais, o Superior Tribunal de Justiça tem assentado a inviabilidade de rever a indenização fixada pela instância ordinária em virtude do óbice de sua Súmula 7, cuja aplicação, todavia, é excepcionada nas hipóteses em que constatada a desproporcionalidade da indenização, fixada em patamares ínfimos ou exagerados.
+3. Na esteira dos inúmeros - e recentes - precedentes do Superior Tribunal de Justiça, as indenizações de 500 salários mínimos têm sido reservadas a hipóteses em que o dano moral decorre de grave ofensa à integridade física do sujeito de direito, contemplando desde hipóteses de amputação definitiva de membro do corpo até o óbito.
+4. No caso concreto, por maior que tenham sido os transtornos e as frustrações experimentadas pelos autores - que viram o seu veículo de trabalho ser apreendido e alienado pelo Poder Público por força de equívoco no cadastramento da placa -, tais fatos, evidentemente, não podem ser equiparados à dor e ao sofrimento pela amputação de membro do corpo ou mesmo pela perda inesperada e acidental de ente familiar.
+5. Indenização por danos morais reduzida para 100 salários mínimos, diante da exorbitância do montante fixado pelo juízo a quo.
+6. Por fim, a tese de redistribuição proporcional da sucumbência, amparada no art. 20, § 4º, do CPC, esbarra no enunciado da Súmula 326/STJ: "Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca".
+7. Recurso Especial parcialmente provido" (REsp 1.421.862/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/05/2014, DJe 18/06/2014 - grifou-se).
+"ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. QUEDA EM PRAÇA PÚBLICA. DANOS MORAIS. CONFIGURADOS. FIXAÇÃO. VALOR RAZOÁVEL. PRETENSÃO DE REEXAME DE PROVA. SÚMULA 7/STJ.
+1. O Tribunal a quo, com base nas provas dos autos, procedeu à análise dos critérios da razoabilidade e proporcionalidade ao majorar o valor a título de danos morais fixado, momento em que assentou que a quantia está compatível com a extensão do dano causado.
+2. Assim, insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática.
+Incidência da Súmula 7/STJ.
+3. A incidência da referida Súmula impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+Agravo regimental improvido" (AgRg no AREsp 497.689/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 27/05/2014, DJe 02/06/2014).
+"AGRAVO REGIMENTAL NO AGRAVO. AÇÃO DE INDENIZAÇÃO. REVISÃO DO JULGADO A QUO. REEXAME DE PROVAS. SÚMULA STJ/7. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- A convicção a que chegou o Acórdão recorrido, que reconheceu a responsabilidade civil da ora agravante diante do acidente de trânsito, o qual violou a integridade física do agravado, decorreu da análise do conjunto fático-probatório, sendo que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do Especial à luz da Súmula 7 desta Corte.
+2.- A intervenção do STJ, Corte de caráter nacional, destinada a firmar interpretação geral do Direito Federal para todo o país e não para a revisão de questões de interesse individual, no caso de questionamento do valor fixado para o dano moral, somente é admissível quando o valor fixado pelo Tribunal de origem, cumprindo o duplo grau de jurisdição, se mostre teratólogico, por irrisório ou abusivo.
+3.- Inocorrência de teratologia no caso concreto, em que, em razão da comprovada responsabilidade civil da ora recorrente diante do acidente de trânsito, foi fixado no valor de R$ 2.000,00 (dois mil reais), a título de danos morais, devido pela ora agravante à parte autora, a título de danos morais.
+4.- A agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+5.- Agravo Regimental improvido" (AgRg no AREsp 482.109/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 24/04/2014, DJe 19/05/2014).
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ACIDENTE DE TRÂNSITO. QUANTUM INDENIZATÓRIO. REDUÇÃO. IMPOSSIBILIDADE.
+1. No que concerne à caracterização do dissenso pretoriano para redução do quantum indenizatório, impende ressaltar que as circunstâncias que levam o Tribunal de origem a fixar o valor da indenização por danos morais são de caráter personalíssimo e levam em conta questões subjetivas, o que dificulta ou mesmo impossibilita a comparação, de forma objetiva, para efeito de configuração da divergência, com outras decisões assemelhadas.
+2. Agravo regimental a que se nega provimento" (AgRg no Ag. 1.232.038/SP, Rel. Desembargador Convocado VASCO DELLA GIUSTINA, Terceira Turma, julgado em 3/5/2011, DJe 10/5/2011).
+"ADMINISTRATIVO. MANUTENÇÃO INDEVIDA DE REGISTRO EM CADASTRO RESTRITIVO DE CRÉDITO. INDENIZAÇÃO POR DANO MORAL DEVIDA.
+1. O recorrente pretende a reforma do acórdão que fixou em R$5.000, 00 (cinco mil reais) a indenização por dano moral, decorrente da inscrição e manutenção do nome do recorrido no Cadin.
+2. O Tribunal de origem consignou que houve pagamento do valor inscrito em dívida ativa e que, mesmo assim, a autarquia não promoveu a baixa do registro do nome do devedor no Cadin.
+3. O STJ, no que se refere especificamente à indenização por dano moral, possui entendimento de que esta é cabível, com base na simples prova de que houve inscrição, ou manutenção, indevida de registro nos órgãos de proteção de crédito, sendo desnecessária a demonstração de efetivo prejuízo sofrido pela parte.
+4. Recurso Especial não provido" (REsp 1.370.591/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2013, DJe 12/06/2013).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MORAIS. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. Ausência de NOTIFICAÇÃO prévia. MAJORAÇÃO DA INDENIZAÇÃO. FALTA DE RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. INOVAÇÃO EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE. PRECLUSÃO. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO MANIFESTAMENTE IMPROCEDENTE. IMPOSIÇÃO DE MULTA. ART. 557, § 2º, DO CPC.
+1. A ausência de prévia comunicação ao consumidor da inscrição do seu nome em órgão de proteção ao crédito enseja a indenização por danos morais, exceto se preexistirem outras inscrições regularmente realizadas, consoante entendimento pacificado pela Segunda Seção desta Corte, no julgamento do REsp Repetitivo n. 1.061.134/RS, Relatora Ministra NANCY ANDRIGHI em 10/12/2008, DJe 1º/4/2009.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. Em hipóteses excepcionais, quando manifestamente evidenciada a irrisoriedade ou a exorbitância no arbitramento da indenização, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão.
+4. No caso concreto, a indenização fixada pelo Tribunal a quo em R$ 1.000,00 (um mil reais) destoa dos parâmetros adotados por esta Corte em casos análogos, razão pela qual foi majorada para R$ 5.000, 00 (cinco mil reais).
+5. A ausência de recurso especial da parte, ora agravante, impede a análise da sua legitimidade passiva e da existência de notificação prévia, em sede de agravo regimental, diante da preclusão da matéria.
+6. "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" (Súmula n.282/STF).
+7. A interposição de recurso manifestamente inadmissível ou infundado autoriza a imposição de multa, com fundamento no art. 557, § 2º, do CPC.
+8. Agravo regimental interposto desprovido, com a condenação da parte agravante ao pagamento de multa no percentual de 1% (um por cento) sobre o valor corrigido da causa, ficando condicionada a interposição de qualquer outro recurso ao depósito do respectivo valor (art. 557, § 2º, do CPC)" (AgRg no AREsp 113.172/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/05/2012, DJe 22/05/2012).
+Observa-se que a agravante limita-se a reiterar os argumentos apresentados no apelo especial, sem apresentar nenhuma justificativa capaz de alterar o julgado.
+Desse modo, as razões do presente agravo são insuficientes para infirmar os fundamentos da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
