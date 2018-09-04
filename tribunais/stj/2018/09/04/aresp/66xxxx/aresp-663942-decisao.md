@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 251/253) que inadmitiu recurso especial por incidência da Súmula n. 83/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 191):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL AÇÃO DE PRESTAÇÃO DE CONTAS. SENTENÇA DE PROCEDÊNCIA. APELO DEFENDENDO A INEXISTÊNCIA DA OBRIGAÇÃO DE PRESTAR CONTAS INTERPOSTO ANTES DO JULGADO QUE ACOLHEU OS EMBARGOS DE DECLARAÇÃO DA PARTE AUTORA, SEM POSTERIOR RATIFICAÇÃO. INTEMPESTIVIDADE. ENTENDIMENTO FIRMADO NO STJ, SEGUIDO DE FORMA MAJORITÁRIA POR ESTA CORTE. PRECEDENTES. AGRAVO DESPROVIDO.
+O recurso especial (e-STJ fls. 226/238), fundamentado no art. 105, III, alíneas "a" e "c", da CF, apontou violação dos arts. 154, 244, 245 e 535, II, do CPC/1973. Alegou ser desnecessário ratificar a apelação nos casos em que interposta antes do julgamento dos embargos declaratórios cujo resultado não alterou a conclusão do provimento anterior.
+Não foram apresentadas contrarrazões.
+O agravo (e-STJ fls. 260/264) refuta os fundamentos da decisão agravada e alega o cumprimento de todos os requisitos legais para o recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 266/270).
+É o relatório.
+Decido.
+Merece prosperar a irresignação da recorrente.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A controvérsia está restrita à tempestividade do recurso de apelação interposto antes do início do prazo recursal.
+A Corte de origem, aplicando por analogia a Súmula 418/STJ, não conheceu da apelação.
+Todavia, a Corte Especial do STJ, ao analisar a Questão de Ordem no REsp n. 1.129.215/DF, de relatoria do Ministro LUIS FELIPE SALOMÃO, publicada no DJe em 3/11/2015, firmou o entendimento de que a necessidade de ratificação do recurso interposto na pendência de embargos declaratórios apenas será exigida quando houver alteração na conclusão do julgamento anterior. A propósito:
+QUESTÃO DE ORDEM. RECURSO ESPECIAL. PROCESSO CIVIL. CORTE ESPECIAL. RECURSO INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NÃO ALTERAÇÃO DA DECISÃO EMBARGADA. DESNECESSIDADE DE RATIFICAÇÃO. INSTRUMENTALISMO PROCESSUAL. CONHECIMENTO DO RECURSO. INTERPRETAÇÃO DA SÚMULA 418 DO STJ QUE PRIVILEGIA O MÉRITO DO RECURSO E O AMPLO ACESSO À JUSTIÇA.
+1. Os embargos de declaração consistem em recurso de índole particular, cabível contra qualquer decisão judicial, cujo objetivo é a declaração do verdadeiro sentido de provimento eivado de obscuridade, contradição ou omissão (artigo 535 do CPC), não possuindo a finalidade de reforma ou anulação do julgado, sendo afeto à alteração consistente em seu esclarecimento, integralizando-o.
+2. Os aclaratórios devolvem ao juízo prolator da decisão o conhecimento da impugnação que se pretende aclarar. Ademais, a sua oposição interrompe o prazo para interposição de outros recursos cabíveis em face da mesma decisão, nos termos do art. 538 do CPC.
+3. Segundo dispõe a Súmula 418 do STJ "é inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação".
+4. Diante da divergência jurisprudencial na exegese do enunciado, considerando-se a interpretação teleológica e a hermenêutica processual, sempre em busca de conferir concretude aos princípios da justiça e do bem comum, é mais razoável e consentâneo com os ditames atuais o entendimento que busca privilegiar o mérito do recurso, o acesso à Justiça (CF, art. 5º, XXXV), dando prevalência à solução do direito material em litígio, atendendo a melhor dogmática na apreciação dos requisitos de admissibilidade recursais, afastando o formalismo interpretativo para conferir efetividade aos princípios constitucionais responsáveis pelos valores mais caros à sociedade.
+5. De fato, não se pode conferir tratamento desigual a situações iguais, e o pior, utilizando-se como discrímen o formalismo processual desmesurado e incompatível com a garantia constitucional da jurisdição adequada. Na dúvida, deve-se dar prevalência à interpretação que visa à definição do thema decidendum, até porque o processo deve servir de meio para a realização da justiça.
+6. Assim, a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior.
+7. Questão de ordem aprovada para o fim de reconhecer a tempestividade do recurso de apelação interposto no processo de origem.
+(REsp n. 1.129.215/DF, Relator Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 16/9/2015, DJe 3/11/2015.)
+De fato, não é exigível que a parte recorrente ratifique o recurso outrora interposto na pendência de embargos de declaração, se a sentença recorrida não foi substancialmente alterada no capítulo impugnado, como no caso dos autos.
+A propósito, o seguinte julgado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. NULIDADE DE JULGAMENTO ANTERIOR NO QUAL NÃO HOUVE INTIMAÇÃO DA PARTE AGRAVADA PARA APRESENTAR IMPUGNAÇÃO.
+I - Trata-se de novo julgamento de agravo interno, diante da nulidade de julgamento anterior no qual não houve intimação da parte agravada para apresentar impugnação. Apresentada impugnação ao agravo interno às fls. 407-417, promove-se novo julgamento do agravo interno de fls. 320-326. O agravo interno não merece provimento.
+II - A ratificação do recurso somente é necessária se houver modificação substantiva no julgamento dos embargos de declaração. Nesse sentido é o entendimento desta Corte A Corte Especial, conforme julgado da Questão de Ordem no REsp 1.129.215/DF, de relatoria do Ministro Luis Felipe Salomão em que se firmou o entendimento de que a única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior (REsp 1129215/DF, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 16/09/2015, DJe 03/11/2015).
+ ..
+(AgInt no REsp 1.424.445/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 7/8/2018, DJe 14/8/2018 - grifei.)
+Oportuno mencionar ainda que, na sessão do dia 1º/7/2016, a Corte Especial deliberou por cancelar a Súmula n. 418/STJ, editando a Súmula 579/STJ: "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior."
+Provido o recurso no ponto, afastando-se a intempestividade da apelação, ficam prejudicados os demais temas do especial.
+Diante do exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de afastar a intempestividade da apelação e determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do apelo.
+Publique-se e intimem-se.
