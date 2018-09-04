@@ -1,0 +1,9 @@
+Vistos etc.
+    A Corte de origem, em atenção ao que dispõe o art. 1.030, II, do Código de Processo Civil, efetuou juízo de retratação para adequar o acórdão recorrido ao decidido no RE 606.358-RG, verbis:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. SERVIDORES PÚBLICOS. REMUNERAÇÃO. INCIDÊNCIA DO TETO DE RETRIBUIÇÃO. VANTAGENS PESSOAIS. VALORES PERCEBIDOS ANTES DO ADVENTO DA EMENDA CONSTITUCIONAL Nº 41/2003. INCLUSÃO. ART. 37, XI e XV, DA CONSTITUIÇÃO DA REPÚBLICA. 1. Computam-se para efeito de observância do teto remuneratório do art. 37, XI, da Constituição da República também os valores percebidos anteriormente à vigência da Emenda Constitucional nº 41/2003 a título de vantagens pessoais pelo servidor público, dispensada a restituição dos valores recebidos em excesso de boa-fé até o dia 18 de novembro de 2015. 2. O âmbito de incidência da garantia de irredutibilidade de vencimentos (art. 37, XV, da Lei Maior) não alcança valores excedentes do limite definido no art. 37, XI, da Constituição da República. 3. Traduz afronta direta ao art. 37, XI e XV, da Constituição da República a exclusão, da base de incidência do teto remuneratório, de valores percebidos, ainda que antes do advento da Emenda Constitucional nº 41/2003, a título de vantagens pessoais. 4. Recurso extraordinário conhecido e provido.” (RE 606358, Relator(a): Min. ROSA WEBER, Tribunal Pleno, julgado em 18/11/2015, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-063 DIVULG 06-04-2016 PUBLIC 07-04-2016)
+    Por conseguinte, está prejudicado por perda de objeto o recurso extraordinário manejado pelo Departamento de Estradas de Rodagem do Estado de Minas Gerais – DER/MG.
+    Julgo prejudicado o recurso (art. 21, IX, do RISTF)
+    Publique-se.
+    Brasília, 04 de setembro de 2018.
+Ministra Rosa Weber
+Relatora
