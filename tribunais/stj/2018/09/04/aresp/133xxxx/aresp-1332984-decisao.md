@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 NCPC) interposto por LESSOR VEICULOS EIRELI - ME contra decisão que inadmitiu recurso especial com base na alínea "a" do permissor constitucional (fls. 157-158, e-STJ).
+Na origem, a demanda versa sobre a declaração de inexistência de débito representado por duplicata, ao argumento de que está desatrelada de negócio jurídico válido, bem como pretensão no sentido de cancelar protesto lavrado em seu nome e reconhecer a responsabilidade civil da agravada, com o consequente dever de indenizar pelos danos anímicos causados.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 133, e-STJ):
+Ação declaratória de inexistência de débito, cumulada com nulidade de protesto e indenização por danos morais Procedência parcial - Duplicata mercantil Protesto do título e inclusão do nome da autora nos órgãos de proteção ao crédito Pretensão inicial fundamentada na inexistência de relação mercantil entre as partes para permitir a emissão do título Título emitido para cobrança de taxa de diagnóstico, referente a orçamento de revisão de veículo da autora, elaborado pela ré Alegação da autora de não ter autorizado este orçamento, tendo sido o veículo levada à concessionária ré pela respectiva locatária Assertiva insuficiente para obstar a cobrança perante a autora, uma vez que deve responder, perante a ré, pelo ato praticado pela locatária de seu veículo Art. 932, inc. III, do Código Civil Ação que deve ser julgada improcedente Recurso da ré provido.
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial (fls. 137-142, e-STJ), a recorrente aponta ofensa ao art. 932, III, do Código Civil, ao argumento de que a locatária do veículo não estava investida na qualidade de preposta da agravante.
+Em juízo de admissibilidade (fls. 157-158, e-STJ), negou-se o processamento do recurso especial, sob o fundamento de que aplicável ao caso a Súmula 7 do STJ.
+Irresignada (fls. 161-168, e-STJ), aduz a agravante que o reclamo merece trânsito, uma vez que as premissas lançadas para a negativa de admissibilidade não se aplicam ao caso.
+Contraminuta sustentando o acerto do decisum hostilizado (fls. 173-181, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Da análise do aresto recorrido, constata-se que o Tribunal local, com amparo nos elementos de convicção dos autos, reputou suficiente a comprovação da relação jurídica que motivou o saque da cambial, de modo a tornar exigível a dívida representada pela duplicata.
+Confira-se trecho extraído do aresto hostilizado:
+Discute-se no caso vertente a propósito da legitimidade da cobrança de duplicata emitida pela ré contra a demandante, visando a cobrança de taxa de diagnóstico por orçamento apresentado em relação a veículo da autora.
+A pretensão inicial está fundamentada na inexistência de relação mercantil entre as partes para permitir a emissão do título protestado que ensejou a inclusão do nome da autora nos órgãos de proteção ao crédito (fls. 44 e 46/47). Sustenta a demandante que a cobrança do valor de R$ 200,00, referente à taxa de diagnóstico, levada a efeito pela ré, é indevida, uma vez que não autorizou a realização de qualquer serviço em seu veículo.
+Assim, caberia à ré demonstrar que houve, efetivamente, a contratação da prestação de serviços entre as partes, ou seja, que foi a empresa autora quem autorizou a realização do orçamento, concordando, consequentemente, com o pagamento da quantia de R$ 200,00 pelo diagnóstico, como sustentado em contestação, e que, consequentemente, seria a responsável pelo respectivo pagamento.
+Restou evidenciado pelas alegações da autora e pela prova documental constante dos autos que foi a locatária do veículo da demandante, por intermédio de seu preposto [NOME], que teria levado o veículo à concessionária ré para orçar sua revisão, restando negado este orçamento (fls. 41 e 75). Assim, quando de sua retirada por este mesmo preposto (fls. 74), foi prevista a cobrança de referida taxa, tal como lançado, também, no orçamento.
+Ora, se foi a locatária do veículo da autora que agiu dessa forma, cabe à demandante responder por seus atos perante a ré, eis que equipara-se, também, a preposto seu, incidindo a respeito a regra do art. 932, inc. III, do Código Civil.
+ ..
+Cabível, por isso, a cobrança de referida taxa perante a demandante, podendo esta, no caso, voltar-se regressivamente contra a locatária para o reembolso desta despesa, tendo em vista sua assertiva de que não a teria autorizado a levar o veículo perante a ré, para orçamento de revisão.
+Vale destacar que a controvérsia a respeito da possibilidade de a locatária contratar o serviço que deu azo à emissão da duplicata perpassa pelo revolvimento do acervo fático-probatório, na medida em que seria necessário reexaminar o que restou acordado no contrato administrativo de locação de veículos.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça.
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação, conforme o critério adotado no acórdão (fl. 135), a ser suportado exclusivamente pela parte recorrente
+Publique-se.
+Intimem-se.
