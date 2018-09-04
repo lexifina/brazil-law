@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. ANISTIA. VALOR DA PRESTAÇÃO MENSAL PERMANENTE E CONTINUADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA PARTE, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 598):
+ADMINISTRATIVO. ANISTIA POLÍTICA. § Iº, do art. 6º da Lei 10.559/02. § Iº, do art. 8º, do ADCT, da CF/88. MAJORAÇÃO DO VALOR FIXADO PELA COMISSÃO DE ANISTIA PARA PRESTAÇÃO MENSAL.
+I - A Comissão de Anistia embora tivesse considerado que o autor tinha direito à prestação mensal equivalente ao cargo de Chefe de Redação, fixou o valor, em novembro/2006, com base no maior valor encontrado para Redator. que variava de R$ 1.771.00 - mínimo, R$ 2.602,00 - médio. R$ 6.360,00. máximo, porque não havia cotação para Chefe de Redação.
+Não se discute o direito do autor à anistia que lhe foi concedida com reparação econômica em prestação mensal permanente e continuada cm respeito ao disposto no art. 6º § Iº, da Lei 10.559/2002, e. em consonância com § 3º do art.
+8º do ADCT. Também não há porque substituir o maior valor encotrado para Redator, à época. por outro valor referente a outro cargo, se ambos os cargos não correspondem exatamente ao cargo de Chefe de Redação.
+2 - O controle judicial sobre os atos praticados pela Administração está restrito à apreciação da regularidade do procedimento. assim como à legalidade do ato atacado, sendo-lhe vedada qualquer incursão no mérito administrativo.
+essencialmente quando foi concedida ao autor oportunidade para questionar o referido ato na seara administrativa.
+3 - Remessa Necessária e Apelação da União Federal a que se dá provimento para julgar improcedente o pedido autoral.
+Honorários advocatícios fixados em RS 3.000,00.
+Embargos de declaração rejeitados.
+O recorrente sustenta ofensa aos artigos 489, § 1º, III e IV do CPC/2015, 6º, §§ 1º e 4º da Lei 10.599/2002 e dissídio jurisprudencial, sob os seguintes argumentos: (a) não houve manifestação expressa sob o oficio, de origem do ex-empregador que aponta função e remuneração compatíveis com as atividades profissionais do recorrente na época da exceção e (b) as informações prestadas pelo ex-empregador foram ignoradas como meio de prova direta, sem fundamentação, devendo ser determinada a revisão da prestação mensal, permanente e continuada.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 662.
+É o relatório. Passo a decidir.
+Preliminarmente, deve ser rejeitada a alegada violação aos artigos 11 e 489, §1º, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+No que diz respeito ao art. 6º, §§ 1º e 4º da Lei 10.599/2002, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que foi atribuído, a título de prestação continuada, o valor mais alto para Redator, visto que não se constava o valor específico para Chefe de Redação, não havendo motivos para a substituição do valor fixado pela comissão pelo valor equivalente ao de Coordenador de Redação, conforme pretendido pelo recorrente, uma vez que não há correspondência exata destes valores ao cargo de Chefe de Redação.
+Destaco trecho do acórdão (fls. 595/596):
+O grupo Folha da Manhã S.A. informou que o autor exercia a função de repórter. recebendo como último salário o valor de CRS 1.219,30 (salário fixo) mais CR$ 2.780,70, a título de comissionamento, conforme folha de pagamento de maio de 1973. Em 2004, chegava R$ 1.155 (salário fixo) e R$ 924,44 (jornada complementar), perfazendo um total de RS 2.080.00 por mês (fl. 157).
+Como já dito antes, levando-se em consideração a cotação para salários atualizada até novembro/2006, foi atribuído à prestação mensal permanente e continuada o valor mais alto para Redator (Nivel Superior - R$ 6.360,00). Deu-se, assim porque não constava valor especifico para Chefe de Redação. sendo aquele o valor mais próximo. Nesse sentido, não vejo porque substituir esse valor por outro, no caso Coordenador de Redação (R$ 10.221,48 = salário fixo R$ 4.528,59  comissionamento R$ 2.556.02  jornada complementar RS 3.406,87), só porque o autor entendeu que deveria ser fixado valor maior do que o estabelecido na Comissão de Anistia, se ambos não correspondem exatamente ao cargo de Chefe de Redação.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
