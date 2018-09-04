@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. IPTU. IMÓVEL SITUADO FORA DA ZONA URBANA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, cuja ementa assim estabelece:
+TRIBUTÁRIO - APELAÇÃO - EMBARGOS À EXECUÇÃO - IPTU - EXERCÍCIO DE 2003 - MUNICÍPIO DE CUBATÃO - Sentença que julgou procedentes os embargos à execução fiscal. Apelo do embargado. IPTU - NÃO INCIDÊNCIA - Laudo pericial que constatou a inexistência de nenhum dos melhoramentos constantes nos incisos I a V do §1º do artigo 32 do Código Tributário Nacional - LOTEAMENTO APROVADO - Apelante que não comprovou que a área em que se encontra o loteamento foi considerada como de expansão urbana por Lei Municipal - Inaplicabilidade do artigo 32, §2º do Código Tributário Nacional - Não preenchimento dos requisitos previstos nos §§1º e 2º do artigo 32 do Código Tributário Nacional - Precedentes deste E. Tribunal de Justiça. HONORÁRIOS ADVOCATíCIOS - FIXAÇÃO EM RS 1.000,00 - PLEITO DE REDUÇÃO - IMPOSSIBILIDADE - Nas causas previstas no art. 20, §4º, do Código de Processo Civil de 1973 os honorários advocatícios devem ser fixados conforme a apreciação equitativa do juiz, observando as normas previstas no Código de Processo Civil para tanto. Honorários fixados na origem que devem ser mantidos. Sentença mantida - Recurso desprovido.
+Os embargos de declaração foram rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, alínea a, do permissivo constitucional, o recorrente alega a violação ao artigo 32, § 1º, do Código Tributário Nacional,
+Contrarrazões ao recuso especial às fls. 464/466 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do recurso especial.
+No agravo, o ora recorrente, sustenta a plausividade do seu apelo especial.
+Contraminuta ao agravo em recurso especial às fls. 481/483 (e-STJ).
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em mérito, o recorrente defende a não incidência de IPTU, pois segundo a exegese do artigo 32, § 1º, do CTN, há que existir infra-estrutura básica para se legitimar a incidência da exação. o que não há no caso em testilha.
+O Tribunal de origem ao dirimir a controvérsia assentou, in verbis:
+Portanto, este Profissional entende que, Salvo Melhor Juízo, o mencionado imóvel NÃO possui, pelo menos, 02 (dois) dos 05 (cinco) melhoramentos públicos, construídos ou mantidos pelo Poder Público, conforme consta no Código Tributário Nacional, já descrito anteriormente, resultando, portanto, em um imóvel onde NÃO deve incidir o Imposto sobre Propriedade Predial e Territorial Urbano.
+Assim, não preenchidos os requisitos previstos nos §§1º e 2º do artigo 32 do Código Tributário Nacional, não deve haver a incidência do IPTU.
+Como se depreende do contexto fático, ao se examinar os fatos probatórios, o Tribunal de origem não reconheceu a presença dos elementos para deflagração do fato gerador.
+Neste sentido, a pretensão do recorrente visa reverter o conjunto fático e probatório para se concluir na incidência da exação. Todavia, tal providência encontra-se óbice na Súmula 7/STJ, porquanto requer o inequívoco reexame de todo o cabedal probatório dos autos.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMÓVEL SITUADO FORA DA ZONA URBANA. AUSÊNCIA DE LEGISLAÇÃO MUNICIPAL. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. No presente caso, o Tribunal de origem consignou que "não restou comprovado localizarem-se os imóveis em área de expansão urbana ou que estes sejam efetivamente atendidos por no mínimo dois melhoramentos urbanos listados no art. 32 do CTN, reconhecendo a Municipalidade que a rede de iluminação existente no local é particular (fls. 133), e que os imóveis não são providos de rede pública de água e esgoto (fls. 135). Tampouco há provas de que exista legislação municipal prevendo a expansão urbana no local onde se situa o condomínio" (fls. 208-210, e-STJ). 2. A instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial." 3. Não se constata o preenchimento dos requisitos legais e regimentais para a propositura do Recurso Especial pela alínea "c" do art. 105 da CF.
+4. Recurso Especial não conhecido.
+(REsp 1692623/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 23/10/2017)
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
