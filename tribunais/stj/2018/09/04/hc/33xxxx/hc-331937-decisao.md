@@ -1,0 +1,31 @@
+EMENTA
+HABEAS CORPUS. AMEAÇA. DOSIMETRIA DA PENA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO.
+Ordem denegada. Liminar cassada.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 0012053-92.2012.8.26.0066 - fls. 52/62).
+Verifica-se dos autos que o paciente foi condenado à pena de 1 mês e 20 dias de detenção, a ser inicialmente cumprida em regime semiaberto, como incurso no art. 147, caput, c.c. o art. 71, caput, do Código Penal.
+O Tribunal de origem negou provimento à apelação interposta pela defesa, em acórdão assim ementado (fl. 56):
+APELAÇÃO CRIMINAL - ALEGAÇÃO DEFENSIVA DE FALTA DE PROVAS A INCRIMINAR O RÉU. TESES SUPLETIVAS DE ISENÇÃO DE PENA AO APELANTE, OU QUE SEJAM REDUZIDAS, NOS TERMOS DOS ARTS. 45 E 46, DA LEI N. 11.343/06; DE APLICAÇÃO DO PRINCÍPIO DA BAGATELA IMPRÓPRIA; DE CONCESSÃO DE PERDÃO JUDICIAL; DE FIXAÇÃO DAS REPRIMENDAS NO PATAMAR MÍNIMO, COM COMPENSAÇÃO DA SUA REINCIDÊNCIA COM A CONFISSÃO ESPONTÂNEA.
+CONDENAÇÃO ESTRIBADA NOS ARTS. 147, CAPUT E 71. CAPUT, AMBOS DO CP.
+CONJUNTO PROBATÓRIO ROBUSTO A INCRIMINAR O APELANTE NA FORMA RECEPCIONADA NO ÉDITO MONOCRÁTICO. TESES SUPLETIVAS QUE NÃO VINGAM POR FALTA DE AMPARO LEGAL.
+Daí o presente writ, no qual se alega existência de equívoco na dosimetria da pena, tendo em vista que as condenações pretéritas teriam sido consideradas tanto na primeira como na segunda fase da dosimetria, o que evidenciaria o bis in idem.
+Aduz a defesa que as certidões foram utilizadas indevidamente como indicativo de maus antecedentes, pois uma traz extinção da punibilidade do acusado, com fundamento no art. 107, IV, do Código Penal e em outra não há o transcurso de cinco anos entre o cumprimento da pena e o delito em questão (fl. 9).
+Aponta, por fim, que a exasperação da pena em 1/2 pela reincidência teria sido muito elevada, ferindo os princípios da razoabilidade e proporcionalidade, assim como inadequada a fixação do regime semiaberto, considerando-se o total da pena aplicada (1 mês e 20 dias de reclusão).
+Liminar deferida para que fosse observado o regime aberto (fls.71/73), informações prestadas (fls. 84/116, 117/126, 138/149, 157/158 e 162/163), o Ministério Público Federal opiou pelo não conhecimento ou pela denegação da ordem, em parecer assim ementado (fl. 130):
+HC. AMEAÇA. DOSIMETRIA PENAL. NÃO CONHECIMENTO. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. BIS IN IDEM. INOCORRÊNCIA. AGRAVANTES DEVIDAMENTE FUNDAMENTADAS. REGIME INICIAL ADEQUADO.
+  A ausência da folha de antecedentes criminais do paciente impede a compreensão da controvérsia. Não conhecimento.
+  Não se vislumbra manifesta ilegalidade na dosimetria da pena, sendo certo que não foram utilizadas as mesmas certidões para majoração da pena-base e para sua exasperação a título de reincidência.
+  O regime inicial só pode ser o intermediário, por expressa determinação legal (art. 33 § 2º c do CP).
+  Parecer pelo não conhecimento do habeas corpus, à míngua de prova preconstituída; se conhecido, pela sua denegação.
+É o relatório.
+De início, ressalto que, conforme informações prestadas pelo Juízo de primeiro grau, o paciente atualmente se encontra em cumprimento de pena de 07 anos, 02 meses e 12 dias de reclusão, como incurso no artigo 33, caput, da Lei nº 11.343/06, oriunda de condenação nos autos do Processo nº 0012300- 73.2012.8.26.0066 da 1ª Vara Criminal da Comarca de Barretos (fl. 162), ou seja, depreende-se que ainda não foi iniciado o cumprimento da reprimenda referente à ação penal tratada nos presentes autos.
+Quanto à alegação de ocorrência de bis in idem, estou de pleno acordo com o parecer do Ministério Público Federal, cujas razões adoto, nestes termos (fls. 131/132):
+4.  ..  A controvérsia gira em torno dos maus antecedentes e da reincidência do paciente, que, segundo a defesa, foram utilizados indevidamente para valorar sua pena. No entanto, não foram juntadas aos autos as folhas de antecedentes criminais do paciente, peças essenciais para a compreensão da quaestio juris.
+5. Ainda que assim não fosse, depreende-se da sentença, mesmo que em juízo perfunctório, que não fora utilizado o mesmo fato para a majoração da pena-base e para a aplicação da agravante de reincidência, conforme se verifica do seguinte excerto:
+Para cada infração, nos termos do artigo 59, do Código Penal, observa-se que o réu ostenta maus antecedentes conforme certidões de fls. 34 - 2ª tira e 42 do 2º apenso, aplico a pena base 1/6 (um sexto) acima do mínimo legal em 01 (um) mês e 05 (cinco) dias de detenção. Presente as circunstâncias agravantes da reincidência prevista no artigo 61, inciso I. do C. Penal, conforme certidões de fls. 37 e verso e 47 do 2º apenso, e a prevista na alínea "e", inciso II, do mesmo artigo, visto que o crime foi praticado contra os genitores, de modo que a pena deve ser majorada pela metade, a qual passa a 01 (um) mês e 22 (vinte c dois) dias de detenção.  ..
+6. Assim, não se visualiza manifesta ilegalidade na dosimetria, sendo certo que não foram utilizadas as mesmas certidões para majoração da pena-base e para o agravamento a título de reincidência.  ..
+Com efeito, o habeas corpus possui rito célere e cognição sumária, no qual as supostas ilegalidades devem ser demonstradas, de pronto, pelo impetrante, o que não aconteceu, no caso, já que não juntada aos autos a folha de antecedentes criminais do paciente.
+No que se refere à fração de aumento da reincidência, ressalto o entendimento desta Corte no sentido de que a existência de mais de uma condenação definitiva constitui fundamento válido a justificar a fixação de fração superior à mínima, de 1/6, na segunda fase da dosimetria, como reincidência (HC n. 356.284/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 21/11/2016).
+Quanto ao regime, observo que foi fixado o semiaberto para o início de cumprimento da pena, tendo em vista os maus antecedentes e a reincidência do paciente (fls. 61/62), nos exatos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, não havendo que se falar, portanto, em existência de constrangimento ilegal a ser sanado.
+Ante o exposto, denego a ordem, cassando a liminar anteriormente concedida.
+Publique-se.
