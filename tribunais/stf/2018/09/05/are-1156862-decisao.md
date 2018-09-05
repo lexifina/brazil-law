@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. VALIDADE DO PROCESSO ADMINISTRATIVO. Constatado vício na decisão final do processo administrativo, somente esta é nula, e não o processo administrativo inteiro”. (eDOC 1, p. 370)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LIV e LV; e 37 do texto constitucional.
+    Nas razões recursais, afirma-se que não teria sido juntado aos autos de processo administrativo, em que a recorrente questionara a aplicação de penalidade, o teor do voto vencido que lhe seria favorável. Alega-se que tal ausência contaminaria de nulidade todo o processo, por violar seu direito de defesa e o dever de publicidade dos atos administrativos. (eDOC 1, p. 420)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 9.784/1999), consignou que a juntada de voto vencido não constitui requisito de validade do ato administrativo. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O fundamento da sentença não se sustenta. A ausência de publicidade do voto vencido em decisão colegiada não implica nulidade: i) primeiro, porque não há norma legal que imponha; ii) segundo, porque nada leva a crer que ele seja parte fundamental do pressuposto da motivação dos atos administrativos.
+    O pressuposto formal da motivação como condição de validade do ato administrativo traduz uma exigência de racionalidade da decisão. É um pressuposto material a exigir que a decisão administrativa possa ser compreendida, que o administrado possa saber porque razão sofre essa ou aquela penalidade. E nesse ponto, o voto vencido nada diz a respeito da racionalidade da decisão. Motivação, portanto, não se trata de pressuposto formal que exija a presença de determinado rito ou documento. A ausência, pois, de publicidade o voto vencido, nada interfere na motivação do ato”. (eDOC 1, p. 368)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONTRATO DE CONCESSÃO DO SERVIÇO PÚBLICO. DESCUMPRIMENTO. APLICAÇÃO DE MULTA PELA AGÊNCIA REGULADORA. ALEGADA OFENSA AO PRINCÍPIO DA LEGALIDADE. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. SÚMULA Nº 636 DO STF. INCIDÊNCIA. REGULARIDADE DO PROCESSO ADMINISTRATIVO. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371. TEMA Nº 660. AGRAVO REGIMENTAL DESPROVIDO”. (ARE 89.1570 AgR, rel. Min. Luiz Fux, Primeira Turma, DJe 17.12.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. AUTO DE INFRAÇÃO. OPORTUNIDADE DE IMPUGNAÇÃO. NOTIFICAÇÃO DO LANÇAMENTO EFETIVADA. ALEGAÇÃO DE CERCEAMENTO DO DIREITO DE DEFESA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. ALEGADA CONTRARIEDADE AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (RE 797.571 AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 12.8.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e majoro, em 10%, o valor da verba honorária fixada pela origem (eDOC 1, p. 368), observados os limites previstos nos parágrafos 2º e 3º do referido dispositivo.
+    Publique-se.
+    Brasília, 5 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
