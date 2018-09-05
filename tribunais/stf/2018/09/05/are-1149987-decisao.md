@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Turma Nacional de Uniformização dos Juizados Especiais Federais, assim ementado:
+    “PEDIDO DE UNIFORMIZAÇÃO NACIONAL. PREVIDENCIÁRIO. TEMPO ESPECIAL. PERÍODO ANTERIOR À LEI N° 9.032/95. ATIVIDADE DE TORNEIRO MECÂNICO. ENQUADRAMENTO POR SIMILARIDADE AO CÓDIGO 2.5.3, DO DECRETO 83.080/79. POSSIBILIDADE, DESDE QUE A EXPOSIÇÃO A AGENTE DE RISCO SEJA EFETIVAMENTE DEMONSTRADA. PRECEDENTES. ACÓRDÃO INFORMA A EXISTÊNCIA DE MERA CTPS PARA COMPROVAR O TEMPO ESPECIAL ALEGADO. APLICAÇÃO DA QUESTÃO DE ORDEM N° 38 DA TNU. INCIDENTE PROVIDO”. (eDOC 5, p. 10)
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 5, p. 17)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º e 201, § 7º, do texto constitucional.
+    Em suas razões, o recorrente alega que, apesar de a TNU haver acolhido o pleito recursal do INSS, não poderia ter julgado improcedente o pedido alternativo concedido na 1ª instância, pois o recurso contrário teria impugnado apenas o pedido principal. (eDOC 5, p. 26)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A Turma Nacional de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e o conjunto probatório constante dos autos, consignou que o pedido alternativo do recorrente não poderia ser conhecido. Nesse sentido, extrai-se o seguinte trecho do acórdão dos embargos de declaração:
+    “5. Com efeito, reanalisando cuidadosamente os autos, verifica-se que nos termos em que a demanda se estabilizou não havia a formulação de qualquer pedido alternativo atinente à concessão do benefício de Aposentadoria por Tempo de Contribuição mediante a consideração do implemento ulterior da idade e do tempo de contribuição.
+    6. A petição inicial trata do pedido de Aposentadoria Especial com efeitos retroativos à DER, e foi nestes termos, e em observância ao Princípio da Correlação, que se pronunciou a Sentença. Veja-se que o autor apresentou aditamento extemporâneo do pedido, já que formulado por ocasião da interposição do Recurso Inominado, em desacordo com o disposto no art. 264 e 294 do Código de Processo Civil de 1973 e art. 329 do Código de Processo Civil de 2015”. (eDOC 5, p. 17)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO REGRESSIVA DE INDENIZAÇÃO POR PERDAS E DANOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. MATÉRIA INFRACONSTITUCIONAL. NOVA APRECIAÇÃO DOS FATOS E PROVA DOS AUTOS. SÚMULA 279/STF. CARÁTER PROTELATÓRIO. 1. Os dispositivos constitucionais apontados no recurso extraordinário como violados não foram objetos de análise prévia e conclusiva pelo Tribunal de origem. Incidência das Súmulas 282 e 356/STF. 2. Para dissentir da conclusão adotada pelo Tribunal de origem, seriam imprescindíveis a análise da legislação processual aplicada ao caso e a reapreciação dos fatos e do material probatório constantes dos autos (Súmula 279/STF), procedimentos inviáveis em recurso extraordinário. (...)”. (ARE 1.004.991 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 13.3.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. APLICAÇÃO DO ART. 285-A DO CÓDIGO DE PROCESSO CIVIL. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO PROCESSUAL ORDINÁRIA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 789.134 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 24.8.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem (eDOC 3, p. 17), deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 5 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
