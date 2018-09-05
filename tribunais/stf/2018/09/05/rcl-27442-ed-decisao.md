@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de embargos de declaração contra decisão que negou seguimento à Reclamação ao fundamento de não prosperarem as alegações de violação das Súmulas Vinculantes 10 e 20 desta Corte.
+    Sustentam os embargantes, em suma, que há omissão no julgado, pois (a) “não ocorreu manifestação sobre a seguinte passagem: embora o artigo 1º das Disposições Transitórias da Lei Complementar nº 1.158/2011 tenha previsto o pagamento de 50% do PDI aos servidores até 31 de julho de 2012, é certo que tal regra tinha apenas a finalidade de evitar qualquer prejuízo aos servidores enquanto não fosse realizado o primeiro processo de avaliação” [...] ; e (b) “esta Suprema Corte assentou que o marco a partir do qual uma vantagem deixa de ter caráter genérico é a data da homologação do resultado das avaliações após a conclusão do primeiro ciclo de avaliações (Tema nº 664 de Repercussão Geral)” (doc. 11, fl. 1/2).
+    É o relatório. Decido.
+    A decisão embargada não apresenta nenhum dos vícios passíveis de correção por meio de embargos de declaração, a saber, omissão, contradição, obscuridade ou erro material.
+    Conforme registrado no decisum embargado, todos os pontos apontados pelos embargantes exigem acurado reexame do teor decisório insculpido no ato reclamado, atividade que não se comporta na via da reclamação constitucional.
+    Ressalte-se que o ato judicial impugnado, ao concluir pela inadmissibilidade da ação reclamatória, não se ampara unicamente na ausência de pertinência entre os julgados paradigmáticos e o caso em exame, estando fundamentado, também, em outros óbices incidentes à espécie.
+    Por fim, adito que o reiterado entendimento do STF é no sentido de que os embargos de declaração não são o meio processual legítimo para rediscutir questões que se traduzam em mero inconformismo da parte com o julgado embargado, como na espécie. Nesse sentido, colaciona-se o seguinte precedente do Pleno:
+    “EMBARGOS DECLARATÓRIOS NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE OBSCURIDADE. APLICAÇÃO, PELO TRIBUNAL DE ORIGEM, DA SISTEMÁTICA DA REPERCUSSÃO GERAL. RECLAMAÇÃO INCABÍVEL. AUSÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO. EMBARGOS REJEITADOS. 1. Nos termos do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para fins de correção de erro material. 2. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver na decisão omissão, contradição ou obscuridade, o que não ocorre no presente caso. 3. O Embargante busca indevidamente rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes. 4. Embargos de declaração, opostos em 12.08.2016, rejeitados.” (Rcl 17.218-AgR-EDv-ED, Rel. Min. EDSON FACHIN, Tribunal Pleno, DJe de 23/11/2016).
+    Por todo o exposto, ausentes os vícios dos incisos do art. 1.022 do Código de Processo Civil, REJEITO OS EMBARGOS DE DECLARAÇÃO.
+    Publique-se.
+    Brasília, 5 de setembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
