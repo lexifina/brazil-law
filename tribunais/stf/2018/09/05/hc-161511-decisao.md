@@ -1,0 +1,16 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão cautelar. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 465.618, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi denunciado pela prática do crime previsto no art. 288 do Código Penal. Preso em flagrante, teve a prisão em flagrante convertida em preventiva.
+    3. Contra a manutenção da prisão cautelar, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo, denegado. Em seguida, sobreveio a impetração de HC no Superior Tribunal de Justiça. O relator, Ministro Ribeiro Dantas, indeferiu a liminar.
+    4. Neste habeas corpus, a parte impetrante sustenta que “os “fundamentos” utilizados para a prisão do Paciente não são válidos para legitimá-la, pois, em essência, escora-se na suposta gravidade da imputação, em uma genérica, abstrata e vazia possibilidade de fuga, adulteração de provas e ameaça de testemunhas, bem como na repercussão social do caso e na necessidade de sua citação”; e, assim, requer a expedição de “alvará de soltura em favor do paciente” e “que seja determinada uma das medidas cautelares diversa da prisão”.
+    Decido.
+    5. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. A hipótese dos autos não autoriza a superação do entendimento consolidado na Súmula 691/STF. As decisões proferidas pelas instâncias anteriores não se me afiguram teratológicas ou patentemente desfundamentadas. Ademais, o Supremo Tribunal Federal pacificou o entendimento no sentido de que a fundada probabilidade de reiteração criminosa, a gravidade em concreto do crime e a periculosidade do agente constituem fundamentação idônea para a decretação da custódia preventiva (vg. HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    7. Na hipótese de que se trata, tal como assentou o Tribunal de Justiça do Estado de São Paulo, há indicação de “que o paciente está envolvido em grupo criminoso especializado em furto e receptação de bens de terceiros, em cidades do interior paulista. A organização com que a empreitada criminosa estava sendo executada e o fato dos criminosos estarem armados e terem resistido à prisão com disparos de arma de fogo, não deixa dúvida acerca da gravidade concreta que o paciente participante da quadrilha, pois foi detido tentando resgatar comparsas em fuga representa para a ordem pública, principalmente considerando a real possibilidade de voltar a delinqüir”.
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 05 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
