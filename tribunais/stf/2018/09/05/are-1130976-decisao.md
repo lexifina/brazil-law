@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado, parcialmente (eDOC 2, p. 290):
+    “CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. CONVÊNIO FEDERAL. MUNICÍPIO DE GARARU/SE. FNDE. PROGRAMA DINHEIRO DIRETO NA ESCOLA – PDDE DOS ANOS DE 2007 E 2008. PROGRAMA NACIONAL DE APOIO À ALIMENTAÇÃO ESCOLAR –PNAE DO ANO DE 2007. JUSTIÇA GRATUITA DEFERIDA. COMPETÊNCIA DA JUSTIÇA FEDERAL. AUSÊNCIA DE PRESTAÇÃO DE CONTAS. EXTRAVIO DE DOCUMENTOS. EXCLUSÃO DA CONDENAÇÃO O PDDE DE 2008. RESPONSABILIDADE DO NOVO GESTOR MUNICIPAL QUE SUCEDEU. PROVIMENTO PARCIAL DA APELAÇÃO.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III,  a, do permissivo constitucional, aponta-se violação ao art. 109, I, da Constituição de 1988, sustentando-se que “a competência da justiça federal é firmada ratione personae, ou seja, inexistindo interesse das pessoas jurídicas de direito público que integram o rol do art. 109, I, da CF/88, consequentemente, falece a competência da justiça federal para julgar e processar o feito.”(eDOC 3, p. 31):
+    A Vice-Presidência do TRF da 5ª Região inadmitiu o recurso com base no óbice da Súmula 279 do STF (eDOC 3, p. 57).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observa-se que o acórdão recorrido está em consonância com a jurisprudência desta Corte, cujo posicionamento consolidou-se no sentido de ser a Justiça Federal competente para determinar se há ou não interesse da União, em determinada causa. Confira-se, a propósito, parte de trecho do voto do Relator do acórdão, in verbis (eDOC 2, p. 285):
+    “O juízo a quo considerou que a competência da Justiça Federal tem por base critério objetivo, considerando não a natureza da relação jurídica litigiosa, mas a identidade dos figurantes da relação processual, com fundamento no art. 109, I, da Constituição Federal. Como, no caso em análise, figuram, como partes do processo, de um lado, o Município de Gararu/SE, e, de outro, o Fundo Nacional de Desenvolvimento da Educação, entendeu que a competência para processar o feito seria da Justiça Federal.
+    É de se observar que a matéria objeto da demanda diz respeito a exame de eventual má gestão de recursos repassados pelo Fundo Nacional de Desenvolvimento da Educação –FNDE ao Município de Gararu/SE, sujeitas à prestação de contas perante órgão federal, nos termos da Súmula nº 208/STJ, restando patente a competência da Justiça Federal.
+    Súmula 208 STJ. Compete à Justiça Federal processar e julgar Prefeito Municipal por desvio de verba sujeita a prestação de contas perante órgão federal.”
+    A esse respeito, cito os seguintes precedentes desta Suprema Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. IMPROBIDADE ADMINISTRATIVA. PREFEITO. REPASSE DE VERBA SUJEITA A PRESTAÇÃO DE CONTAS EM ÓRGÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL PARA DETERMINAR O INTERESSE DA UNIÃO: PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 767.501-AgR, Rel. a Ministra Cármen Lúcia, Segunda Turma, DJe 13.2.2015).
+    “CONSTITUCIONAL. COMPETÊNCIA DA JUSTIÇA FEDERAL PARA DECIDIR SOBRE A EXISTÊNCIA OU NÃO DE INTERESSE DA UNIÃO NA CAUSA. PRECEDENTES. 1. A jurisprudência desta Suprema Corte está consolidada no sentido de que cabe apenas à Justiça Federal o exame da presença ou não de interesse da União em determinada causa. Precedentes. 2. Agravo regimental a que se nega provimento.” (RE 450.546-AgR, Rel. a Ministra Ellen Gracie, Segunda Turma, DJe 18.8.2011).
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 5 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
