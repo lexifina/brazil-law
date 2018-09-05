@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – PERMISSIVO CONSTITUCIONAL – ENQUADRAMENTO – AUSÊNCIA – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão recorrido:
+    Inicialmente, destaco que tal matéria foi vastamente discutida no Supremo Tribunal Federal quando do julgamento da ADI 4414, oportunidade em que foi debatida a constitucionalidade de diversos artigos do citado Texto Normativo.
+    Na oportunidade, o Pleno do STF manifestou seu entendimento, pontuando que, de fato, alguns dos regramentos contidos na Norma não estavam de inteiro acordo com os princípios constantes na Carta Magna. Entretanto, ao tratar dos efeitos que seriam dados à decisão, os Ministros optaram pela modulação na forma ex nunc. Dessa forma, para os feitos já julgados no âmbito do Primeiro Grau, resta cessada a discussão acerca da constitucionalidade da 17ª, Vara Criminal da Capital, sendo plenamente válidos os atos judiciais nela proferidos.
+    No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 5º, incisos LIII e XXXVII, e 93, incisos II e VIII-A, da Constituição Federal. Alude à declaração de inconstitucionalidade da Lei estadual nº 6.806/2007.
+    2. O Tribunal de Justiça do Estado do Estado de Alagoas decidiu em consonância com a ação direta de inconstitucionalidade nº 4.414, relatada no Pleno pelo ministro Luiz Fux, com acórdão publicado no Diário da Justiça de 17 de junho de 2013, respeitada a modulação dos efeitos da decisão.
+    Confiram com a seguinte ementa:
+    Processual penal. Agravo regimental Habeas corpus. Sustentação oral. Impossibilidade. Homicídio qualificado. Alteração da competência. Ratificação dos atos pelo juiz natural da causa. Possibilidade. 1. Tendo em vista o princípio da especialidade, não cabe sustentação oral no julgamento de agravo regimental em matéria processual penal. Vedação expressa do regimento interno do STF. 2. O habeas corpus não é a via adequada para questionar decisão definitiva do Superior Tribunal de Justiça, em recurso especial, mormente quando ausente risco iminente à liberdade de locomoção do paciente. 3. O Supremo Tribunal Federal tem uma jurisprudência consolidada no sentido de que não se proclama nulidade sem a comprovação de prejuízo, sendo certo ainda que eventuais irregularidades do inquérito não repercutem na ação penal. Precedentes. 4. O juiz natural da causa pode ratificar os atos instrutórios praticados por vara especializada que, após a supervisão judicial do inquérito policial, declinou da competência. Precedentes. 5. O Plenário do STF (ADI 4.414, Rel. Min. Luiz Fux), ao modular os efeitos da decisão, preservou os atos processuais praticados pela vara especializada de que cuidam estes autos. 6. Agravo regimental a que se nega provimento.
+(agravo regimental no habeas corpus nº 130.810, relatado pelo ministro Roberto Barroso, Primeira Turma, acórdão publicado no Diário da Justiça de 16 de setembro de 2016)
+    3. Ante o precedente, ressalvada a óptica pessoal, conheço do agravo interposto por José Rui Monteiro de Araújo Júnior e o desprovejo.
+    4. Publiquem.
+Brasília, 5 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
