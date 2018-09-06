@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IPTU. SUJEITO PASSIVO. INCLUSÃO OU EXCLUSÃO DO CREDOR FIDUCIÁRIO NA LIDE. CAIXA ECONÔMICA FEDERAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. PRECEDENTES. RECURSO INTERPOSTO SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 2015. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário (Doc. 1, p. 94), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 1, p. 77) que assentou, in verbis:
+    “EXECUÇÃO FISCAL. COBRANÇA DE IPTU. PROPRIEDADE FIDUCIÁRIA. LEGITIMIDADE DO DEVEDOR FIDUCIANTE. RECURSO IMPROVIDO.
+    1. A propriedade fiduciária é um direito real destinado a garantir um financiamento efetuado pelo devedor alienante perante o credor que tem para si a propriedade fiduciária. O bem passa a pertencer ao credor, o que é-lhe favorável pois converte-se em proprietário do bem dado em garantia, podendo, em caso de inadimplemento, alienar o bem para levantar numerário e se recuperar quanto ao não adimplemento da dívida.
+    2. A responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel objeto da alienação fiduciária deve ficar a cargo do devedor fiduciante, o que afasta - por ora - a legitimidade da Caixa Econômica Federal para figurar no polo passivo da execução fiscal de origem, nos termos do artigo 27, §8º, da Lei n.º 9.514/97 .
+    3. Parte embargada condenada ao pagamento de honorários recursais em favor da parte embargante no percentual de 10% do valor atribuído à causa (CPC, art. 85, § 1º, fine, combinado com o § 1), montante que se mostra adequado e suficiente para remunerar de forma digna o trabalho em sede recursal.
+    4. Apelação não provida, com fixação de honorários recursais.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, a Fazenda Municipal sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 146, III, da Constituição Federal. Asseverou a legitimidade da Caixa Econômica Federal. Alegou que atribuição de responsabilidade ao devedor fiduciário, prevista na Lei 9.514/1997, deveria ser veiculada em lei complementar.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    In casu, para divergir das razões do referido acórdão seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Código Civil, Código Tributário Nacional e Lei 9.514/1997), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido:
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTOS INCIDENTES SOBRE BEM IMÓVEL (IPTU E TAXAS MUNICIPAIS). EXCLUSÃO DA CAIXA ECONÔMICA FEDERAL (CREDORA FIDUCIÁRIA) DO POLO PASSIVO DO FEITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve anterior condenação em honorários advocatícios.” (ARE 991.704-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 13/3/2017)
+    De igual modo, confiram também: RE 1.082.362, Rel. Min. Celso de Mello, DJe de 24/10/2017; RE 1.081.745, Rel. Min. Edson Fachin, DJe de 31/10/2017; RE 1.085.364, Rel. Min. Dias Toffoli, DJe de 7/11/2017; RE 1.074.749, Rel. Min. Alexandre de Morais, DJe de 21/11/2017; e RE 1.085.436, Rel. Min. Marco Aurélio, DJe de 30/11/2017.
+    Por fim, observo que o recurso foi interposto sob a égide da lei processual de 2015, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao máximo legal (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 6 de setembro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
