@@ -1,0 +1,8 @@
+Decisão: No incidente epigrafado, processa-se agravo regimental interposto pela Procuradoria-Geral da República contra a decisão na qual deferi pedido de compartilhamento de provas deduzido pelo Ministério Público do Estado do Rio de Janeiro.
+    Sobrevieram, então, informações do órgão estadual, segundo as quais “o ofício n. 10.125/2018 do STF apenas encaminhou cópia da PET 6718, sem qualquer CD ou documento contendo as delações premiadas de empresários ou executivos da Petrobras (sic) ou acordo de leniência. Ocorre que, por ora, esta Promotoria não insistirá em obter cópia das delações premiadas e acordo de leniência, para não atrasar mais a tramitação do feito, sendo certo que as informações remetidas por Vossa Excelência, o parecer de Sua Exa., a PGR Raquel Dodge e as reportagens jornalísticas juntadas aos autos dos ICs já são suficientes para se delinear o contexto político, jurídico e social que serviu de pano de fundo para a emissão das licenças ambientais impugnadas nas ACPs (fl. 141)”,
+    Diante de tal notícia, ordenei a intimação da parte agravante para dizer sobre a persistência de interesse no julgamento desta insurgência regimental, que, ao retorno, pleiteia “seja julgado prejudicado o agravo de fls. 115/121”, com o subsequente arquivamento dos autos.
+    Sendo este o cenário, verifica-se a superveniente perda de interesse de agir, razão pela qual, com fundamento no art. 21, IX, do RISTF, julgo prejudicado o agravo regimental veiculado nesta Petição.
+    Publique-se. Intimem-se.
+    Brasília, 6 de setembro de 2018.
+Ministro Edson Fachin
+Relator - Documento assinado digitalmente
