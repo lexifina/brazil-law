@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Paraná confirmou o entendimento do Juízo quanto ao não arbitramento dos honorários diante da intempestividade da impugnação apresentada em habilitação de crédito em processo de recuperação judicial. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do artigo 5º, incisos LV, XXXV e XXXVII da Constituição Federal. Afirma a confusão na aplicação da legislação falimentar. Aponta a tempestividade da impugnação. Sustenta a necessidade de afastamento da qualificação de crédito retardatário e a consequente fixação dos honorários de advogado.
+    2. O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo de acesso ao Supremo. Confiram com os seguintes trechos:
+    Conforme já constou na decisão de fls. 249/250-TJ, no que diz respeito à insurgência da parte recorrente quanto à classificação de sua impugnação como retardatária, a decisão de primeiro grau se apresenta correta porque está em consonância com expressa disposição legal, qual seja, o parágrafo único, do artigo 8°, da Lei n.° 11.101/2005: Autuada em separado, a impugnação será processada nos termos dos arts. 13 a 15 desta Lei.
+    Embora a agravante alegue que protocolizou tempestivamente o pleito de impugnação ao crédito nos autos de recuperação judicial e que a autuação em separado seria providência a ser tomada pelos serventuários da Justiça, o argumento não procede porque era dever da parte promover o pedido por meio de incidente. Afinal, em se tratando de processo eletrônico do sistema PROJUDI, o Código de Normas da Corregedoria-Geral da Justiça determina diferentemente, in verbis:
+    2.21.3.2 - A distribuição da petição inicial e a juntada da contestação, dos recursos e das petições em geral, nas causas em que houver patrocínio de advogado e. naquelas em que esse atuar em causa própria, deverão ser feitas diretamente pelo causídico.
+    2.21.3.3 — É vedada a juntada, no sistema eletrônico, por serventuário da Justiça, de petições e documentos de qualquer natureza, ainda que transmitidas por peticionamento eletrônico (e-mail), protocolo integrado, fax e correio, relativos aos processos virtuais de partes, que sejam assistidas ou representadas por advogado, ou nos feitos em que esse atue em causa própria e cuja inserção no sistema seja de sua responsabilidade.
+    À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 6 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
