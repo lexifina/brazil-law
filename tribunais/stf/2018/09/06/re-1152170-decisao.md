@@ -1,0 +1,16 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 2, p. 125):
+    “PROCESSUAL CIVIL. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. INTIMAÇÃO DESATENDIDA. EXTINÇÃO DO FEITO. ADITAMENTO. DESCABIMENTO.
+    1. Não tendo a parte promovido a citação de litisconsorte passivo necessário, na forma determinada em decisão, a extinção do feito afigura-se impositiva, por força do disposto no art. 47, parágrafo único, do CPC.
+    2. Se a parte discordava da determinação teria que propor recurso de agravo de instrumento para tentar reverter a ordem perante o Tribunal.
+    3. Embora se possa aditar a petição inicial antes da citação da parte ré, não é o recurso de apelação a via adequada para tal desiderato e ainda com formulação de requerimento de citação do próprio Juiz prolatar da decisão vergastada. O pedido é - e em consequência o recurso - manifestamente descabido.”
+    No recurso extraordinário, interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 5º, caput, XXXII, XXXIII e LV; 37, caput; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 2, p. 246-247):
+    “Ao contrário do acordado no TRF4, o agente público tem legitimidade para integrar o pólo passivo e é faculdade do lesado chamar ao processo o ente estatal ao qual o agente está vinculado, portanto, ausência total de responsabilidade estatal, o ato praticado pelo agente foi doloso e intencional, inexiste risco estatal e responsabilidade da PJ estatal, no caso concreto, é aplicável o recente julgado e jurisprudência do STJ (REsp 1325862 PR), ou seja, há legitimidade de agente público ou político para responder por ato ilícito doloso, ao contrário do acórdão do TRF4, é possível a responsabilização pessoal, o agente público, não estava no exercício de atividade administrativa, o agente, se utilizou da estrutura da PJ DE DIREITO PÚBLICO para prática de ilícitos dolosos (a jurisprudência veda tal conduta e a PJ estatal está isenta, não houve risco estatal, o contribuinte está isento).”
+    O Supremo Tribunal Federal, ao analisar o RE-RG 1.027.633 (tema 940), Rel. Ministro Marco Aurélio, DJe 21.11.2017, reconheceu a existência de repercussão geral da matéria em debate, referente à responsabilidade civil subjetiva do agente público por danos causados a terceiros, no exercício de atividade pública, cujo mérito encontra-se pendente de julgamento. A ementa desse julgado está assim redigida:
+    “RESPONSABILIDADE CIVIL INDENIZAÇÃO RÉU AGENTE PÚBLICO ARTIGO 37, § 6º, DA CONSTITUIÇÃO FEDERAL ALCANCE ADMISSÃO NA ORIGEM RECURSO EXTRAORDINÁRIO REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia alusiva ao alcance do artigo 37, § 6º, da Carta Federal, no que admitida a possibilidade de particular, prejudicado pela atuação da Administração Pública, formalizar ação judicial contra o agente público responsável pelo ato lesivo.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 6 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
