@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Maria de Lourdes Rosa Freitas e Outro(a/s) contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “PENSIONISTAS DE FALECIDOS FERROVIÁRIOS DA FEPASA. Pretensão à percepção dos adicionais temporais em suas complementações de proventos e pensões, com fundamento no art. 129 da CE. Inadmissibilidade. Vantagem reservada aos funcionários públicos, que não se confundem com os empregados públicos, servidores lato sensu que são. Recurso não provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Constituição do Estado de São Paulo), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 835.783-AgR/SP, Rel. Min. AYRES BRITTO – ARE 727.840/SP, Rel. Min. TEORI ZAVASCKI – ARE 1.068.415/SP, Rel. Min. LUIZ FUX – RE 1.129.932/SP, Rel. Min. ROBERTO BARROSO – RE 1.143.138/SP, Rel. Min. DIAS TOFFOLI – RE 1.143.201/SP, Rel. Min. MARCO AURÉLIO – RE 1.144.095/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES.
+    As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao Direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal.
+    Agravo regimental a que se nega provimento.”
+    (RE 593.098-AgR/SP, Rel. Min. EROS GRAU)
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 10 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
