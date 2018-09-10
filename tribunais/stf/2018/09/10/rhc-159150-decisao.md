@@ -1,0 +1,32 @@
+Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por Jairo Luiz Artur Vieira Barbosa contra decisão monocrática da lavra do Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça, que julgou prejudicado o HC 444.278/MG.
+    O Recorrente foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, pela prática do crime de tráfico privilegiado (art. 33, § 4º da Lei 11.343/2006). Durante o cumprimento da pena em regime semiaberto e beneficiado com o trabalho externo, o apenado empreendeu fuga do estabelecimento prisional. O magistrado de primeiro grau indeferiu os pedidos de indulto e de livramento condicional formulados pela Defesa do Recorrente.
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de Minas Gerais, que concedeu parcialmente a ordem para “afastar a hediondez do delito de tráfico privilegiado” e determinar o reexame dos “requisitos necessários à concessão do livramento condicional e do indulto”.
+    Ato contínuo, submetida a questão à apreciação do Superior Tribunal de Justiça, o Ministro Sebastião Reis Júnior, via decisão monocrática, julgou prejudicado o HC 444.278/MG.
+    No presente recurso ordinário em habeas corpus, alega o Recorrente, em síntese, o preenchimento dos requisitos objetivos e subjetivos para concessão dos benefícios do indulto e do livramento condicional. Requer, em medida liminar e no mérito, a suspensão do mandado de prisão existente “com a determinação de concessão de indulto ou livramento condicional”.
+    É o relatório.
+    Decido.
+    Colho do ato impugnado:
+    “(...).
+    No presente momento, cabível aqui e agora, o julgamento do writ pela prejudicialidade, por perda superveniente do objeto, não comportando, pois, qualquer análise o pleito reconsideratório. Explico.
+    Volta-se o habeas contra acórdão que concedeu parcialmente a ordem tão somente para afastar, ex officio, a hediondez do delito de tráfico privilegiado pelo qual o paciente foi condenado (execução criminal nº 0000207-60.2013.8.13.0016), determinando que a MMª. Juíza a quo, por conseguinte, reexamine os requisitos necessários à concessão do livramento condicional e do indulto na data de 14/3/2018 (HC nº 1.000.18.011065-2/0000 – fls. 16/39).
+    Informou o Juízo da 2ª Vara Criminal e de Execuções Penais da Comarca de Alfenas/MG que (Autos nº 0000207-60.2013.8.13.0016 – fls. 59/60 – grifo nosso):
+    [...]
+    No entanto, a Defesa impetrou habeas corpus junto ao TJMG e teve a ordem concedida, determinando que o Juízo considerasse o tráfico privilegiado como de natureza comum, bem como fossem reanalisados os pedidos de livramento condicional e indulto.
+    Foi determinada a abertura de vista ao Ministério Público aos 23/03/18 e os autos vieram à conclusão aos 26/03/18, quando foi proferida nova decisão considerando os termos do acórdão do TJMG (autos nº 1.0000.18.011065-2/000). O livramento condicional foi indeferido por ausência de requisito subjetivo e o indulto também denegado em razão da fuga, eis que o sentenciado havia sido sentenciado por fuga que cometeu em 2013 e novamente evadiu em 2014, o que obstaria o benefício pretendido em todos os anos posteriores enquanto esteve foragido, acaso fosse reconhecida falta grave.
+    A Defesa apresentou reclamação ao TJMG, que se encontra em trâmite nos autos nº 1.0000.18.027288-2/000.
+    Interpôs, ainda, agravo em execução em face da referida decisão, tendo sido determinada, aos 03/04/2018, a subida dos autos ao TJMG.
+    [...]
+    Resta claro, assim, que o indeferimento das benesses – livramento condicional e indulto – na data de 26/3/2018 decorre de novo título, cujos fundamentos não podem ser examinados, de forma originária, nesta via, sob pena de indevida supressão de instância.
+    Tanto é assim que, de acordo com as informações prestadas já houve, inclusive, a interposição de agravo de execução penal contra referido decisum, nada mais havendo, portanto, a ser discutido ou debatido no tocante ao acórdão ora hostilizado (HC nº 1.0000.18.011065-2/0000).
+    À vista, pois, da nova realidade fática, julgo prejudicado o writ (arts. 659 do Código de Processo Penal, 38 da Lei 8.038/1990 e 34, XI, do RISTJ).”
+    Registro que há obstáculo à admissibilidade do presente recurso, porquanto não exaurida a jurisdição do Superior Tribunal de Justiça.
+    Na dicção do art. 102, II, a, da Constituição Federal, compete ao Supremo Tribunal Federal julgar, em recurso ordinário, o habeas corpus decidido em única instância pelos Tribunais Superiores, se denegatória a decisão.
+    O ato impugnado na presente via é mera decisão monocrática e não o resultado de julgamento colegiado do Superior Tribunal de Justiça. Deveria, pretendendo a Defesa a reforma da decisão monocrática, ter interposto o pertinente agravo regimental para que a questão fosse apreciada pelo órgão colegiado. Não o fazendo, inadmissível o presente writ.
+    Em relação ao tema, a jurisprudência desta Suprema Corte assenta que “não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça” (RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011) e que “A carência de exaurimento da jurisdição no âmbito do Tribunal a quo, configurada pela não interposição de agravo regimental da decisão monocrática que negou seguimento ao writ, também configura óbice ao conhecimento do presente recurso, por inobservância ao princípio da colegialidade insculpido no artigo 102, inciso II, alínea a, da Constituição Federal” (RHC 111.935/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 30.9.2013). Outros julgados: RHC 114.961/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.8.2013; RHC 115492-EDcl/PE, Rel. Min. Dias Toffoli, 1ª Turma, DJe 28.8.2013.
+    Anoto, por fim, à míngua de pronunciamento judicial conclusivo pelo Superior Tribunal de Justiça quanto à tese defensiva, inviável a análise deste recurso ordinário em habeas corpus pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de setembro de 2018.
+Ministra Rosa Weber
+Relatora
