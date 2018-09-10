@@ -1,0 +1,29 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 247):
+    “APELAÇÃO - AÇÃO DE ANULAÇÃO DE ATO ADMINISTRATIVO CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS – EXCLUSÃO DE CANDIDATO DE CONCURSO PÚBLICO PARA CARGO DE SOLDADO PM DE 2ª CLASSE POR REPROVAÇÃO EM EXAME PSICOTÉCNICO - ESPÉCIE DE AVALIAÇÃO PREVISTA NO EDITAL E EM LEI EM SENTIDO ESTRITO - INEXISTÊNCIA DE INCONSTITUCIONALIDADE, ILEGALIDADE OU VIOLAÇÃO DA SÚMULA VINCULANTE 44 - SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO DESPROVIDO. ”
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou os arts. 5º, II, 37, I e II, 42, § 1º, e 142, § 3º, X, da CF/88, bem como a Súmula Vinculante 44 dessa CORTE.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, esta CORTE firmou entendimento, no âmbito do Plenário, no sentido de que “a exigência do exame psicotécnico em concurso depende de previsão em lei e no edital, e deve seguir critérios objetivos” (AI 758.533-RG/MG, Rel. Min. GILMAR MENDES, Tema 338). Veja-se a ementa do referido julgado:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    No caso dos autos, o Tribunal de origem, ao manter a improcedência do pedido autoral, consignou não haver ilegalidade no ato administrativo que considerou o autor inapto no exame psicológico. A propósito, o seguinte trecho da sentença mantida pelo acórdão recorrido (fl. 270):
+    “No tocante à questão principal – existência ou não de lei que preveja o exame psicológico nos concursos de Soldado PM – cumpre registrar que a Lei 10.123/68 (Lei Orgânica da Polícia) assim dispunha sobre os requisitos gerais para acesso aos cargos policiais:
+    Artigo 36 - São requisitos gerais para matrícula nos cursos de formação ou nomeação para as carreiras policiais, além das estabelecidas especificamente para cada uma:
+    (...)
+    VI - possuir temperamento adequado ao exercício da função policial, apurado em exame psicotécnico;
+    VII - estar em dia com o serviço militar;
+    VIII - ter sido habilitado em concurso público de provas ou de provas e títulos.
+    Parágrafo único - O regulamento estabelecerá as normas para verificação dos requisitos, inclusive padrões de aferição e sequência dos exames em cada caso.
+    Ou seja, havia previsão expressa da realização de exame psicotécnico como requisito para tornar-se policial militar.”
+    Verifica-se, portanto, que o acórdão impugnado não divergiu do entendimento desta CORTE.
+    Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas e análise da legislação local (Lei Orgânica da Polícia do Estado). Incidem, portanto, os óbices das Súmulas 279: Para simples reexame de prova não cabe recurso extraordinário e 280: Por ofensa a direito local não cabe recurso extraordinário , ambas desta CORTE.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 10 de setembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
