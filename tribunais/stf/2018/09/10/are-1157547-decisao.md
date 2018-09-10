@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 1, pp. 243 e 244):
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CONSTRIÇÃO DE ATIVOS FINANCEIROS PELO SISTEMA BACENJUD. ADESÃO POSTERIOR A PROGRAMA DE PARCELAMENTO. PEDIDO DE DESBLOQUEIO DE VALORES INDEFERIDO.
+    I. O parcelamento suspende a exigibilidade do crédito tributário, consoante determina o artigo 151, inciso VI, do Código Tributário Nacional.
+    II. Com efeito, somente após o deferimento do pedido de adesão há que se falar na suspensão da exigibilidade do crédito.
+    III. No caso vertente, o requerimento do parcelamento foi feito em 11/08/2014 e a ordem de constrição foi proferida anteriormente, pela qual o bloqueio das contas bancárias ocorreu em 05/08/2014.
+    IV. Desse modo, em consonância com entendimento deste Relator, alinhado à jurisprudência em epígrafe, não é o caso de se deferir o desbloqueio das contas bancárias, em razão de não haver a consolidação/homologação do parcelamento quando da constrição.
+    V. À época da determinação do bloqueio, a agravante não havia sequer solicitado a adesão ao parcelamento, não havendo, assim, qualquer reparo na decisão recorrida.
+    VI. A superveniência de fato novo e o consequente pedido de desbloqueio devem ser comunicados ao juízo de origem, sob pena de supressão de instância.
+    VII. Agravo de instrumento a que se nega provimento.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 170 da Constituição Federal.
+    Sustenta-se violação do princípio da manutenção da empresa e do livre exercício da atividade empresarial, uma vez que os valores dado à garantia em juízo permanecem bloqueados, apesar do Instituto ter aderido ao Programa de Recuperação Fiscal (REFIS).
+    A Vice-Presidência do TRF da 3ª Região inadmitiu o recurso extraordinário com base na natureza infraconstitucional da matéria (eDOC 2, pp. 27 e 28).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, verifica-se, a partir da leitura dos fundamentos do voto condutor do acórdão recorrido, que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que atrai a incidência da vedação contida na Súmula 279 do STF.
+    Ademais, constata-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional aplicável à espécie, notadamente o Código Tributário Nacional. Desse modo, a discussão referente à alegada afronta aos princípios da manutenção da empresa e do livre exercício da atividade empresarial revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido, confiram-se os seguintes julgados:
+    “DIREITO PROCESSUAL CIVIL. PENHORA. PEDIDO DE LIBERAÇÃO DE VALORES BLOQUEADOS VIA BACENJUD. ALEGAÇÃO DE OFENSA AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. NATUREZA INFRACONSTITUCINAL DA CONTROVÉRSIA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 1º.12.2011. Obstada a análise da suposta afronta aos incisos LIV e LV do artigo 5º da Carta Magna, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República. Agravo regimental conhecido e não provido. (ARE nº 855.302/PE – AgR, Primeira Turma, Rel. Min. Rosa Weber, Dje de 19/2/15)”(ARE 973.496-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 18.11.2016)
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. DEPÓSITO JUDICIAL. CONVERSÃO EM RENDA. JUROS REMUNERATÓRIOS. RESGATE. LEI Nº 11.941/2009. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. 1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes. 2. Agravo regimental a que se nega provimento.” (ARE 894187 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 01.03.2016)
+    Ante o exposto, nego provimento ao agravo, nos termos dos arts. 932, IV, “a”, do CPC e 21, §1º, do RISTF.
+    Incabível a aplicação do art. 85, § 11, CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem.
+    Publique-se. Brasília, 10 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
