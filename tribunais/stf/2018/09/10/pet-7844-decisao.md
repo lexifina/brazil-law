@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO ESPECIAL INTERPOSTO DIRETAMENTE NO SUPREMO TRIBUNAL FEDERAL. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. PETIÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso especial, autuado neste Supremo Tribunal como petição, interposto por Alcir Felipe Gonçalves, em 5.9.2018, contra decisão do Tribunal de Justiça de São Paulo, que negou provimento à apelação.
+    2. O peticionário informa que, “à luz do art. 105-III, alíneas ‘a’ e ‘c’ da Constituição Federal e também do art. 1.029-II do NCPC/2015, é cabível o presente recurso especial como meio de alcançar o fim desejado, qual seja, a reforma do acórdão para determinar a nulidade da sentença de primeiro grau” (fl. 3, doc. 1).
+    Requer a este Supremo Tribunal:
+    “a) seja recebido, processado e admitido o presente recurso especial; b) seja intimada a recorrida, para, querendo, apresentar sua resposta, no prazo previsto em lei; c) sejam juntados os comprovantes das custas do despacho de admissibilidade e da interposição de recurso em instância inferior; d) sejam juntados os acórdãos e certidões em anexo, para fim de fazer prova do pretenso alegado; e) seja dado provimento ao presente recurso especial, determinando-se a nulidade do acórdão por inobservância ao contraditório, explicitamente previsto em nossa Carta Magna, que consequentemente ceifou o direito de defesa do recorrente” (fl. 9, doc. 1).
+    3. Em 6.9.2018, a Coordenadoria de Processamento Inicial deste Supremo Tribunal, Seção de Recebimento e Distribuição de Originários, certificou:
+    “Promovo o registro e conclusão destes autos à Presidência deste Supremo Tribunal, nos termos do art. 9º da Resolução nº 558 c/c art. 13, inciso V, alínea ‘c’, do RISTF, tendo em vista tratar de Recurso Especial na Ação de Execução nº 1031259-58.2016.8.26.0576 do Tribunal de Justiça do Estado de São Paulo” (doc. 11).
+    Examinados os elementos havidos no processo, DECIDO.
+    4.  Razão jurídica não assiste ao peticionário.
+    5. O recurso especial, previsto nas als. a e c do inc. III do art. 105 da Constituição da República, deve ser interposto no Tribunal de Justiça de São Paulo, onde será processado e, posteriormente, se for o caso, encaminhado ao Superior Tribunal de Justiça.
+    Incabível, por ser erro grosseiro, a interposição direta de recurso especial neste Supremo Tribunal.
+    6. No julgamento dos Embargos de Declaração no Agravo Regimental na Petição n. 5.707, Relator o Ministro Ricardo Lewandowski, o Plenário deste Supremo Tribunal afirmou:
+    “EMBARGOS DECLARATÓRIOS CONVERTIDOS EM AGRAVO REGIMENTAL. AGRAVO CONTRA DECISÃO QUE INADMITIU RECURSO EXTRAORDINÁRIO INTERPOSTO DIRETAMENTE NO SUPREMO TRIBUNAL FEDERAL: IMPOSSIBILIDADE. ERRO GROSSEIRO. AGRAVO INTEMPESTIVO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. I Os embargos de declaração recebidos como agravo regimental, uma vez que opostos de decisão monocrática. II A agravante manejou o agravo disposto no art. 544 do CPC, o que é inadmissível, pois contra decisão monocrática do Presidente do Supremo Tribunal Federal cabe agravo regimental, no prazo de cinco dias (art. 317, caput, do RISTF). III Inviável a conversão de agravo (art. 544, caput, do CPC), interposto contra a inadmissão de recurso extraordinário, em agravo regimental, pois a orientação jurisprudencial desta Suprema Corte é assente no sentido da impossibilidade de aplicação do princípio da fungibilidade quando a parte incorre em erro grosseiro. IV Agravo regimental ao qual se nega provimento” (DJe 16.3.2016).
+    7. A “mera invocação do direito de petição, por si só, não basta para assegurar, à parte interessada, o acolhimento da pretensão que deduziu” (Agravo Regimental nos Embargos de Declaração no Agravo Regimental no Recurso Extraordinário n. 406.432/PI, Relator o Ministro Celso de Mello, Segunda Turma, DJe 27.4.2007), devendo a autoridade competente, portanto, examinar o atendimento às exigências, aos pressupostos e aos requisitos formais fixados pela legislação.
+    8. Pelo exposto, nego seguimento à presente petição (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
