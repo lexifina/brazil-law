@@ -1,0 +1,1037 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 24
+
+10/09/2018
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 146.305 MATO
+GROSSO DO SUL
+RELATOR
+AGTE.(S)
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. RICARDO LEWANDOWSKI
+: MARCOS ALEXANDRE DIAS DE MELO
+: HERICKSON VINICIUS DE CARVALHO MARTINS
+: DEFENSOR PÚBLICO-GERAL DO ESTADO DE
+MATO GROSSO DO SUL
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+
+Ementa: AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM
+HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. FIXAÇÃO
+ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO ADEQUADA.
+ANÁLISE DA PARTICIPAÇÃO DO PACIENTE EM ORGANIZAÇÃO
+CRIMINOSA OU VALORAÇÃO DA QUANTIDADE DA DROGA
+APREENDIDA QUANDO UTILIZADAS COMO FUNDAMENTOS
+PARA AFASTAR OU DOSAR, AQUÉM DO PATAMAR MÁXIMO, A
+CAUSA DE DIMINUIÇÃO DA PENA PELO TRÁFICO PRIVILEGIADO:
+IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS. AGRAVO
+REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - A elevação da pena-base acima do mínimo legal está devidamente
+justificada na preponderância da natureza e quantidade da droga
+apreendida, consoante disposto no art. 42 da Lei 11.343/2006, o que afasta
+a alegação de ausência de motivação idônea.
+II - A jurisprudência desta Suprema Corte é firme no sentido de que
+é inadequado, na via do habeas corpus, reexaminar fatos e provas no
+tocante à participação do paciente em organização criminosa ou à
+valoração da quantidade da droga apreendida, quando utilizadas como
+fundamento para afastar ou dosar, aquém do patamar máximo, a causa
+de diminuição da pena pelo tráfico privilegiado, prevista no art. 33, § 4°,
+da Lei de Drogas.
+III - Agravo regimental a que se nega provimento.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E69E-2A72-1AEE-0786 e senha 028A-0CF4-00DD-498A
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 24
+
+RHC 146305 AGR / MS
+
+AC ÓRDÃ O
+Acordam os Ministros do Supremo Tribunal Federal, em sessão
+virtual da Segunda Turma, na conformidade da ata de julgamentos, por
+unanimidade, negar provimento ao agravo regimental, nos termos do
+voto do Relator.
+Brasília, 10 de setembro de 2018.
+
+RICARDO LEWANDOWSKI – RELATOR
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código E69E-2A72-1AEE-0786 e senha 028A-0CF4-00DD-498A
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 24
+
+10/09/2018
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 146.305 MATO
+GROSSO DO SUL
+RELATOR
+AGTE.(S)
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. RICARDO LEWANDOWSKI
+: MARCOS ALEXANDRE DIAS DE MELO
+: HERICKSON VINICIUS DE CARVALHO MARTINS
+: DEFENSOR PÚBLICO-GERAL DO ESTADO DE
+MATO GROSSO DO SUL
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+RE LAT Ó RI O
+
+O Senhor Ministro Ricardo Lewandowski (Relator): Trata-se de
+agravo regimental interposto contra a seguinte decisão por mim
+proferida, verbis:
+“Trata-se de recurso ordinário em habeas corpus interposto
+pela Defensoria Pública do Estado de Mato Grosso do Sul em
+favor de Marcos Alexandre Dias de Melo e Herickson Vinicios
+de Carvalho Martins (págs. 186-208 do documento eletrônico 3),
+contra decisão dos Ministros integrantes da Quinta Turma do
+Superior Tribunal de Justiça que não conheceram do HC
+371.362/MS (págs. 169-179 do documento eletrônico 3).
+Consta do decisum combatido que os recorrentes foram
+condenados a “[...] 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias
+e 7 (sete) anos de reclusão, em regime inicial fechado, e ao
+pagamento de 680 (seiscentos e oitenta) e 700 (setecentos) diasmulta, pela prática do delito previsto no art. 33, caput [tráfico],
+c/c com o art. 40, inciso V, ambos da Lei n. 11.343/06” (pág. 171
+do documento eletrônico 3).
+A recorrente alega, em síntese, que
+‘[...] o Superior Tribunal de Justiça não constatou a
+existência de constrangimento ilegal no caso em apreço,
+mesmo estando patente a flagrante ilegalidade a que os
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 24
+
+RHC 146305 AGR / MS
+Pacientes se veem submetidos.
+Isso porque, resta evidente que o magistrado de
+primeiro grau agiu em evidente desrespeito aos princípios
+da proporcionalidade e da razoabilidade quando da
+fixação da pena-base, na primeira fase do processo
+dosimétrico. O delito pelo qual foram condenados possui
+uma pena abstrata de reclusão de 05 (cinco) a 15 (quinze)
+anos, mais o pagamento de 500 (quinhentos) a 1.500 (mil e
+quinhentos) dias-multa - tráfico de drogas.
+Ocorre, contudo, que o Tribunal de Justiça de Mato
+Grosso do Sul, mesmo após afastar as moduladoras
+judiciais da ‘culpabilidade’, ‘motivos’, ‘circunstâncias’ e
+‘consequências do crime’, ainda manteve a pena-base
+muito acima do mínimo legal, qual seja, em 2 (dois) anos,
+tão somente em razão da ‘quantidade da droga’, em
+evidente desrespeito aos princípios da proporcionalidade
+e da razoabilidade.
+[...]
+Se não bastasse isso, verifica-se que o Superior
+Tribunal de Justiça também não constatou a existência de
+constrangimento ilegal em relação aos Pacientes no que
+concerne a aplicação do tráfico privilegiado, mesmo
+estando patente a flagrante ilegalidade a que eles se veem
+submetidos, já que o não reconhecimento da diminuta
+prevista no § 4º do artigo 33 da Lei de Drogas, pelas
+instâncias
+ordinárias,
+baseou-se
+unicamente
+na
+quantidade da droga apreendida em poder dele, o que
+ensejou a presunção de que eles seriam pertencentes à
+organização criminosa, como também se dedicavam à
+atividades criminosas.
+Ou seja, essa presunção restou isolada nos autos, já
+que não há qualquer outro indício de que os Pacientes se
+dedicavam a qualquer atividade criminosa, muito menos
+que integravam organização criminosa, muito pelo
+contrário, há evidências inequívocas de que tenham
+atuado como ‘mulas do tráfico’ (págs. 195-196 e 198-199 do
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 24
+
+RHC 146305 AGR / MS
+documento eletrônico 3).
+Ao final, requer
+‘[...] a essa Suprema Corte seja conhecido o remédio
+constitucional e, no mérito, seja concedida a ordem para o
+fim de determinarem a redução da pena base, haja vista
+sua desproporcionalidade; o reconhecimento do tráfico
+privilegiado, com o consequente abrandamento do regime
+prisional inicial para o aberto e do reconhecimento da
+substituição da pena privativa de liberdade por restritiva
+de direitos.
+Requer a intimação pessoal da Defensora Pública de
+2ª Instância, que esta subscreve, de todos os atos
+processuais, contando-se em dobro todos os prazos, uma
+vez que é membro da Defensoria Pública do Estado de
+Mato Grosso do Sul, nos termos do artigo 5º, da Resolução
+STF 404/2009’ (pág. 208 do documento eletrônico 3).
+O Ministério Público Federal apresentou contrarrazões
+(págs. 223-232 do documento eletrônico 1).
+Posteriormente, nos termos do art. 311 do Regimento
+Interno do Supremo Tribunal Federal, a Subprocuradora-Geral
+da República, Cláudia Sampaio Marques, opinou pelo
+desprovimento deste recurso ordinário (documento eletrônico
+4).
+É o relatório necessário. Decido.
+Anoto, de início, que o art. 192, caput, c/c art. 312 do
+Regimento Interno do Supremo Tribunal Federal faculta ao
+Relator do recurso ordinário em habeas corpus, denegar ou
+conceder a ordem, monocraticamente, ainda que de ofício,
+quando a matéria for objeto de jurisprudência consolidada
+neste Supremo Tribunal. Nesse sentido, indico os seguintes
+precedentes: RHC 138.843/MG, Rel. Min. Dias Toffoli; RHC
+138.939/BA, Min. Roberto Barroso; RHC 136.727/SP, Rel. Min.
+Edson Fachin; RHC 135.985/DF, Rel. Min. Gilmar Mendes; e
+RHC 135.824/SP, de minha relatoria; entre outros.
+Quanto ao mérito, consigno que a orientação
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 24
+
+RHC 146305 AGR / MS
+jurisprudencial desta Suprema Corte é firme no sentido de que
+‘[o] magistrado não está obrigado a aplicar a causa de
+diminuição prevista no § 4° do art. 33 da Lei nº 11.343/06 em
+seu patamar máximo quando presentes os requisitos para a
+concessão de tal benefício, tendo plena autonomia para aplicar
+a redução no quantum reputado adequado de acordo com as
+peculiaridades do caso concreto’ (HC 99.440/SP, Rel. Min.
+Joaquim Barbosa, Segunda Turma).
+Na esteira desse entendimento, indico as ementas dos
+seguintes julgados, entre outros:
+‘HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE
+ENTORPECENTES. APLICAÇÃO DA CAUSA DE
+DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI
+11.343/2006
+EM
+SEU
+GRAU
+MÁXIMO
+(2/3).
+UTILIZAÇÃO DAS MESMAS CIRCUNSTÂNCIAS
+JUDICIAIS EM DUAS DAS TRÊS FASES DA
+DOSIMETRIA.
+INOCORRÊNCIA.
+REPRIMENDA
+ADEQUADA PARA REPROVAÇÃO E PREVENÇÃO DO
+CRIME. IMPOSSIBILIDADE DE SE AVALIAR, NA VIA
+DO HABEAS CORPUS, QUAL SERIA A PENA
+ADEQUADA AO FATO PELO QUAL FORAM
+CONDENADOS OS PACIENTES. ORDEM DENEGADA.
+I - Tenho que o magistrado não se utilizou das mesmas
+circunstâncias judiciais (quantidade e qualidade da droga)
+para fixar as penas-bases dos pacientes e, em ato posterior,
+diminuí-las no patamar mínimo (1/6), decorrente da
+aplicação do § 4º do art. 33 da Lei 11.343/2006. II - O juiz
+não está obrigado a aplicar o máximo da redução prevista,
+quando presentes os requisitos para a concessão desse
+benefício, tendo plena liberdade de aplicar a redução no
+patamar conforme seja necessário e suficiente para
+reprovação e prevenção do crime, segundo as
+peculiaridades de cada caso concreto. Do contrário, seria
+inócua a previsão legal de um patamar mínimo e um
+máximo. III - O habeas corpus não pode ser utilizado como
+forma de se verificar qual a pena adequada para os delitos
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 24
+
+RHC 146305 AGR / MS
+pelos quais o paciente foi condenado, uma vez que
+representaria um novo juízo de reprovabilidade. IV Ordem denegada’ (HC 102.487/MS, de minha relatoria,
+Primeira Turma).
+‘HABEAS CORPUS. TRÁFICO ILÍCITO DE
+ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE
+PENA. ART. 33, § 4º, DA LEI 11.343/2006. APLICAÇÃO
+EM SEU PATAMAR MÁXIMO. IMPOSSIBILIDADE.
+ORDEM DENEGADA. 1. A questão de direito versada
+nestes autos diz respeito à não-aplicação da causa especial
+de diminuição de pena prevista no art. 33, § 4º, da Lei
+11.343/06 em seu patamar máximo. 2. O fato de o paciente
+possuir bons antecedentes e boa conduta social, apesar de
+permitir a incidência da causa especial de diminuição de
+pena, não obriga sua aplicação em seu grau máximo,
+mormente quando, na espécie, o réu possui personalidade
+voltada ao mundo do crime. 3. Foi grande a quantidade de
+droga apreendida, o que reforça a impossibilidade de se
+reduzir a pena em 2/3 (dois terços). 4. Habeas corpus
+denegado’ (HC 100.755/AC, Rel. Min. Ellen Gracie,
+Segunda Turma).
+Ademais, a jurisprudência desta Suprema Corte é firme no
+sentido de ser inadequada a via do habeas corpus para
+reexaminar fatos e provas no tocante à participação do paciente
+em organização criminosa ou à valoração da quantidade da
+droga apreendida, quando utilizados como fundamento para
+afastar ou dosar, aquém do patamar máximo, a causa de
+diminuição da pena pelo tráfico privilegiado, prevista no art.
+33, § 4°, da Lei de Drogas.
+Na esteira desse entendimento, cito a ementa abaixo
+transcrita:
+‘HABEAS CORPUS. PENAL. TRÁFICO DE
+DROGAS. CAUSA DE DIMINUIÇÃO DA PENA.
+AFASTAMENTO PELO TRIBUNAL DE ORIGEM.
+INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA E
+QUANTIDADE DE DROGA APREENDIDA. REEXAME
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 24
+
+RHC 146305 AGR / MS
+DE FATOS E PROVAS. INADEQUAÇÃO NA VIA DO
+HABEAS CORPUS. ORDEM DENEGADA. I – No crime
+de tráfico de drogas, as penas poderão ser reduzidas de
+1/6 a 2/3, desde que o agente seja primário, de bons
+antecedentes, não se dedique a atividades criminosas nem
+integre organização criminosa. II – No presente caso, o
+Tribunal de origem afastou a causa de diminuição da pena
+por tráfico privilegiado (art. 33, § 4°, da Lei 11.343/2006),
+utilizando como fundamento a quantidade de droga
+apreendida (8 kg de maconha) e a comprovação da
+participação em organização criminosa. III - A
+jurisprudência deste Supremo Tribunal Federal é no
+sentido de que é inadequado, na via do habeas corpus,
+reexaminar fatos e provas no tocante à participação do
+paciente em organização criminosa ou à valoração da
+quantidade da droga apreendida, quando utilizados como
+fundamento para afastar ou dosar, aquém do patamar
+máximo, a causa de diminuição da pena pelo tráfico
+privilegiado, prevista no art. 33, § 4°, da Lei de Drogas. IV
+– Ordem denegada’ (HC 133.982/MS, de minha relatoria,
+Segunda Turma, 13/2/2017).
+Feito esse registro, traslado agora, por oportuno, o inteiro
+teor do voto proferido pelo Ministro Jorge Mussi, Relator do
+HC 371.362/MS na Quinta Turma do STJ, verbis:
+‘Inicialmente, cumpre atestar a inadequação da via
+eleita para a insurgência contra o ato apontado como
+coator, pois o ordenamento jurídico prevê recurso
+específico para tal fim, nos termos do artigo 105 da
+Constituição Federal, circunstância que impede o seu
+formal conhecimento, conforme entendimento pacífico no
+âmbito desta Corte Superior de Justiça.
+A propósito: [...].
+O alegado constrangimento ilegal, entretanto, será
+analisado para a verificação da eventual possibilidade de
+atuação ex officio, nos termos do artigo 654, § 2º, do Código
+de Processo Penal.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 24
+
+RHC 146305 AGR / MS
+Infere-se dos autos que os pacientes foram
+condenados à pena de 10 (dez) anos e 6 (seis) meses de
+reclusão, em regime inicial fechado, e ao pagamento de
+1.050 (um mil e cinquenta) dias-multa, pela prática do
+delito descrito no art. 33, caput, c.c art. 40, inciso V, ambos
+da Lei n. 11.343/06, porque:
+‘No
+dia
+28
+de
+outubro
+de
+2015,
+aproximadamente as vinte e duas horas, no pátio da
+Churrascaria Querência, localizada próxima do
+Trevo da Bandeira, na BR 463, nesta cidade, Marcos
+Alexandre dias de Melo e Herickson Vinicios de
+Carvalho transportavam 1.137 tabletes contendo
+1.105 quilogramas de maconha, droga proscrita em
+todo o território nacional, com o intuito de posterior
+comercialização’ (e-STJ fl. 154).
+Irresignada, a defesa interpôs recurso de apelação
+perante a Corte de origem, a qual lhe deu parcial
+provimento, para redimensionar as penas para 6 (seis)
+anos, 9 (nove) meses e 20 (vinte) dias e 7 (sete) anos de
+reclusão, em regime inicial fechado e pagamento de 680
+(seiscentos e oitenta) e 700 (setecentos) dias-multa,
+mantido, no mais, o édito condenatório.
+Busca-se neste writ o afastamento do alegado bis in
+idem, pois, segundo defende o impetrante, a quantidade
+da droga apreendida (1.105kg de maconha) teria sido
+utilizada em momentos distintos da dosimetria, em
+descompasso com o entendimento firmado no âmbito
+deste Tribunal e da Suprema Corte.
+Na hipótese, o Tribunal estadual fixou a pena-base
+acima do mínimo legal, conforme aresto proferido nos
+seguintes termos, a saber:
+‘Constata-se que foram consideradas negativas
+aos apelantes as circunstâncias judiciais da
+culpabilidade,
+motivos,
+circunstâncias
+e
+consequências do crime e, com fulcro no art. 42 da
+Lei de Droga, com preponderância sobre as demais,
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 24
+
+RHC 146305 AGR / MS
+a quantidade de droga (mais de 01 tonelada de
+maconha).
+Todas as circunstâncias, com exceção da
+quantidade de droga, foram fundamentadas de
+forma inerente ao tipo penal, não podendo ser
+consideradas negativas.
+[...]
+Diante da presença de uma circunstância
+judicial negativa (quantidade de droga), reduzo a
+pena-base para 07 (sete) anos de reclusão e 700
+(setecentos) dias-multa, montante adequado, justo e
+suficiente para a prevenção e reprovação do delito’
+(e-STJ fl. 268 e 276/277).
+No que tange à aplicação da causa especial de
+diminuição do § 4º, do art. 33 da Lei n. 11.343/06, a Corte
+de origem, em sede de apelação, negou a referida benesse
+com a seguinte fundamentação, verbis:
+‘Com relação ao pedido de aplicação da
+minorante prevista no art. 33, § 4°, da Lei n.
+11.343/06, verifica-se que os apelantes são primários
+e não registram antecedentes criminais, contudo,
+diante da grande quantidade de droga transportada
+e da dinâmica do fato delituoso, conclui-se que se
+dedicavam às atividades criminosas e integravam
+organização criminosa. Extrai-se que os apelantes
+Marcos e Herickson foram contratados na cidade de
+Volta Redonda/RJ, onde residiam, pelo valor de RS
+2.000,00 (dois mil reais) cada, conduzindo o veículo
+GM Captiva, com placa falsa de São Paulo (produto
+de furto da cidade do Rio de Janeiro/RJ - fls. 160-167)
+até a cidade de Dourados/MS, onde entregaram-no
+para desconhecidos e aguardaram por três dias até
+que este fosse devolvido pelo apelante Fernando e o
+adolescente Paulo Henrique, que vieram de
+Amambai/MS com a droga, a fim de ser transportada
+de volta para o Rio de Janeiro, conforme confessaram
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 24
+
+RHC 146305 AGR / MS
+na fase policial e ratificaram as testemunhas policiais
+em juízo (fls. 21-22, 28-29, 33-34 e 212 - audiovisual).
+Evidente que ninguém os contrataria para
+empreender viagem tão longa e transportar tamanha
+quantidade de entorpecente, se não lhes depositasse
+confiança e acreditasse no sucesso da empreitada
+criminosa. Portanto, incabível a aplicação da
+minorante do tráfico privilegiado’ (e-STJ fls. 272/273).
+Quanto ao ponto, sabe-se que o Supremo Tribunal
+Federal, ao julgar o ARE 666.334/AM, sob o regime da
+repercussão geral, firmou o entendimento de que a
+natureza e a quantidade de droga apreendida com o
+acusado de tráfico devem ser levadas em consideração
+apenas em uma das fases da dosimetria, sob pena de
+indevido bis in idem, cabendo ao magistrado decidir em
+que momento as utilizará.
+[...]
+No caso dos autos, como visto, a quantidade do
+entorpecente foi considerada no cálculo da pena-base,
+tendo a Corte Estadual afastado a possibilidade de
+incidência da benesse em questão utilizando o volume da
+droga aliado a outros elementos constantes dos autos, de
+forma a evidenciar a dedicação dos pacientes à atividade
+ilícita, não sendo possível, portanto, a concessão da ordem
+quanto ao ponto, tendo que em vista ser inexistente o bis
+in idem alegado.
+Assim, embora a autoridade apontada como coatora
+tenha feito referência à quantidade de entorpecente para
+negar a incidência do redutor em comento, o que não seria
+admissível, nos termos do entendimento do Pretório
+Excelso, o certo é que apontou outros elementos de prova
+constantes dos autos, como o fato de que os réus foram
+contratados na cidade onde residiam para transportar a
+droga até o Rio de Janeiro/RJ, o que teriam confessado em
+juízo, tendo sido pegos em flagrante na posse de
+considerável volume de estupefaciente, circunstâncias que
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 24
+
+RHC 146305 AGR / MS
+demonstrariam que se dedicavam a atividade criminosa
+(e-STJ fls. 272/273), fundamento que se revela idôneo para
+afastar a causa de diminuição prevista no § 4º do artigo 33
+da Lei de Drogas.
+[...]
+Dessa forma, com a manutenção da reprimenda
+imposta aos pacientes e, tendo em vista a grande
+quantidade de droga apreendida que teria sido utilizada,
+inclusive, para afastar a aplicação da causa especial de
+diminuição prevista na Lei de Drogas, é inviável a
+substituição da sanção reclusiva por restritiva de direitos,
+bem como o estabelecimento de regime diverso do
+fechado para o resgate inicial, nos termos dos arts. 44 e 33,
+§ 2º e § 3º, ambos do Código Penal e 42 da Lei n. 11.343/06.
+[...]
+Não se deparando, portanto, com flagrante
+ilegalidade no ato apontado como coator, não se conhece
+do habeas corpus substitutivo’ (págs. 172-179 do documento
+eletrônico 3).
+Com efeito, o decisum recorrido harmoniza-se com a
+jurisprudência desta Suprema Corte. A dosimetria levada a
+efeito pelo magistrado sentenciante não apenas atendeu aos
+requisitos estabelecidos na legislação de regência, como
+também observou o princípio da individualização da pena. O
+Tribunal de Justiça, referendado pelo Superior Tribunal de
+Justiça, reviu as circunstâncias previstas no § 4° do art. 33 da Lei
+11.343/06 e reputou correta a mitigação da pena aplicada aos
+pacientes, fundamentada nas circunstâncias indicadas no art. 42
+do mesmo diploma legal.
+Ressalto, ainda, que “[não] se presta o habeas corpus para
+realizar novo juízo de reprovabilidade, ponderando, em
+concreto, qual seria a pena adequada ao fato pelo qual
+condenado o Paciente” (HC 94.645/MT, Rel. Min. Cármen Lúcia,
+Primeira Turma).
+Por fim, impende destacar que decidir de modo diverso
+demandaria o reexame do conjunto fático-probatório constante
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 24
+
+RHC 146305 AGR / MS
+dos autos, o que, como visto, é inviável em sede de habeas
+corpus.
+No mesmo sentido foi o parecer da Subprocuradora-Geral
+da República, Cláudia Sampaio Marques que opinou do
+seguinte modo:
+‘No mesmo sentido foi o parecer da SubprocuradoraGeral da República, Cláudia Sampaio Marques que
+opinou do seguinte modo:
+‘[...]
+10. Como se vê, a fixação da pena base acima do
+mínimo legal foi respaldada na presença de circunstância
+judicial desfavorável, qual seja, a absurda quantidade dos
+entorpecentes apreendidos – 1.105 Kg (um mil cento e
+cinco quilos). Assim sendo, não há o que reparar no
+quantum de pena-base aplicado, porquanto fixado em
+decisão devidamente fundamentada, com base nas
+peculiaridades do caso concreto e vinculada às provas
+constantes dos autos, além de não se referirem ao tipo
+penal incriminado, justificando-se o acréscimo imposto.
+11. Na hipótese, os recorrentes aceitaram participar
+da empreitada criminosa, com logística complexa e
+previamente elaborada, transportando mais de uma
+tonelada de maconha em um veículo roubado/furtado,
+com placa falsa de outro Estado da Federação, que seria
+distribuída no Rio de Janeiro. Tal fato, por si só,
+demonstra a intensa reprovabilidade da conduta.
+12. E, considerando a elevada quantidade de
+entorpecente apreendida, não há desproporção na pena
+que, diante de tais circunstâncias, dista de seu mínimo
+legal em 2 (dois) anos, sendo suficiente para reprimir o
+ilícito e impedir a reprodução de fatos semelhantes,
+atendendo às disposições do artigo 59 do Código Penal e
+do artigo 42 da Lei n. 11.343/06 e à garantia constitucional
+da individualização da pena.
+13. Por outro lado, ao contrário do alegado pela
+defesa, não é possível a aplicação da minorante do art. 33,
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 14 de 24
+
+RHC 146305 AGR / MS
+§ 4º da Lei 11.343/06.
+14. A Lei nº 11.343/06, privilegiando o princípio de
+individualização da pena, conferiu tratamento mais
+rigoroso aos agentes que fazem do tráfico o seu meio de
+vida e, em contrapartida, previu tratamento diferenciado
+para o chamado ‘pequeno traficante’, possibilitando a
+redução da pena em se tratando de agente primário, de
+bons antecedentes, que não se dedique às atividades
+criminosas nem integre organização criminosa (§ 4º do art.
+33).
+15. A quantidade e a natureza da droga, por sua vez,
+foram enquadradas pelo art. 42 do referido diploma
+entre os parâmetros mais relevantes para a fixação da
+pena, inclusive com preponderância sobre as
+circunstâncias do art. 59 do CPB, por se tratar de aspectos
+que permitem uma melhor avaliação quanto ao grau de
+envolvimento do agente com a prática criminosa.
+16. Na hipótese, os recorrentes, apesar de primários,
+não preenchem os requisitos no mencionado dispositivo
+(primariedade, bons antecedentes, não se dedicar a
+atividades criminosas nem integrar organização
+criminosa), uma vez que aderiram a logística de uma
+organização criminosa para o transporte de entorpecentes.
+Além disso, não é razoável dar o benefício a traficantes de
+grandes quantidades de drogas, que utilizam sofisticado
+aparelhamento e organograma, como é o caso.
+17. Nesse contexto, evidenciado que os recorrentes
+tinham consciência de estar contribuindo com uma
+organização criminosa voltada para o tráfico de
+entorpecente, com a apreensão de elevada quantidade de
+drogas, não há o que reparar no entendimento adotado
+pelas instâncias anteriores, pois, de fato, a existência de
+circunstâncias que indicam ser o agente dedicado a
+atividades criminosas é justificativa suficiente para a
+negativa da redução de pena, por não enquadramento na
+hipótese legal.
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 15 de 24
+
+RHC 146305 AGR / MS
+18. Além disso, como destacado pelo acórdão do STJ,
+não houve bis in idem, pois ‘embora a autoridade apontada
+como coatora tenha feito referência à quantidade de
+entorpecente para negar a incidência do redutor em
+comento, o que não seria admissível, nos termos do
+entendimento do Pretório Excelso, o certo é que apontou
+outros elementos de prova constantes dos autos, como o
+fato de que os réus foram contratados na cidade onde
+residiam para transportar a droga até o Rio de Janeiro/RJ,
+o que teriam confessado em juízo, tendo sido pegos em
+flagrante na posse de considerável volume de
+estupefaciente, circunstâncias que demonstrariam que se
+dedicavam a atividade criminosa (e-STJ fls. 272/273),
+fundamento que se revela idôneo para afastar a causa de
+diminuição prevista no § 4º do artigo 33 da Lei de Drogas’.
+19. De fato, a quantidade dos entorpecentes foi
+valorada negativamente apenas na primeira fase da
+dosimetria da pena. Já na análise da terceira fase da
+dosimetria, a causa de diminuição de pena prevista no art.
+33, § 4º, foi afastada pelo Tribunal de Justiça do Estado de
+Mato Grosso do Sul em razão do paciente colaborar com
+organização criminosa voltada para a pratica delituosa e
+dedicar-se a atividades criminosas. Assim, não tendo o
+Tribunal de Justiça eleito o mesmo critério para majorar a
+pena-base e para afastar a aplicação da minorante prevista
+no art. 33, § 4º da Lei 11.343/2006, não há de se falar em bis
+in idem.
+20.
+Ademais,
+consoante
+entendimento
+jurisprudencial dessa Corte, ‘revela-se inviável a
+utilização do habeas corpus para reexaminar fatos e
+provas com vistas a aplicar a minorante prevista no § 4º
+do art. 33 da Lei 11.343/2006, que tem a clara finalidade
+de apenar com menor grau de intensidade quem pratica
+de modo eventual as condutas descritas no art. 33, caput
+e § 1º, em contraponto ao agente que faz do crime o seu
+modo de vida, o qual, evidentemente, não goza do
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 16 de 24
+
+RHC 146305 AGR / MS
+referido benefício (cf. justificativa ao Projeto de Lei
+115/2002 apresentada à Comissão de Constituição e Justiça
+e de Redação)’ (HC 109708, Rel. Min. TEORI ZAVASCKI,
+Segunda Turma, julgado em 23/06/2015, DJe-151 de 03-082015).
+21. Por fim, demonstrada a manifesta improcedência
+do pedido de redução da pena, fica prejudicado o pleito
+de fixação de regime mais brando, uma vez que o regime
+fechado está devidamente justificado pela presença de
+circunstância judicial desfavorável, qual seja a elevada
+quantidade de droga.
+22. Como se sabe, ‘A jurisprudência deste Supremo
+Tribunal é firme no sentido da possibilidade de fixação do
+regime inicial fechado em razão da quantidade de
+entorpecente apreendida’ (HC 129206, Rel. Min. CÁRMEN
+LÚCIA, Segunda Turma, julgado em 15/3/2016, DJe-061 de
+5/4/2016).
+23. Do mesmo modo, também ficam prejudicados os
+pleitos de substituição da pena privativa de liberdade por
+restritiva de direitos e de fixação do regime inicial aberto,
+uma vez que o quantum de pena aplicado (acima de 4
+anos) é incompatível com os requisitos objetivos para
+tanto (arts. 44, inciso I, e 33, § 2º, alínea ‘c’, ambos do
+Código Penal)’ (documento eletrônico 4, grifei).
+Isso posto, nego provimento a este recurso ordinário (art.
+192, caput, c/c art. 312 do RISTF)” (documento eletrônico 10 –
+grifos no original).
+
+Os agravantes alegam, em suma, o seguinte: (i) a análise da fixação
+da pena-base e da aplicação da redução estabelecida no art. 33, § 4°, da
+Lei 11.343/2006 não demanda o reexame de matéria fático-probatória; (ii)
+a quantidade da droga apreendida, por si só, não comprova a
+participação dos agravantes em organização criminosa, de acordo com a
+jurisprudência desta Corte; (iii) o Magistrado sentenciante absolveu os
+agravantes do crime de associação para o tráfico, ante a ausência de pacto
+permanente para o cometimento de delitos; (iv) o aumento da pena-base
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 17 de 24
+
+RHC 146305 AGR / MS
+em razão de apenas uma circunstância desfavorável (quantidade da
+droga) é desproporcional; e (v) estão presentes, no caso, todos os
+requisitos legais para a aplicação do tráfico privilegiado (documento
+eletrônico 7).
+Ao final, pedem a reconsideração da decisão agravada ou o
+provimento do recurso.
+A vista à Procuradora-Geral da República foi dispensada, nos termos
+do parágrafo único do art. 52 do Regimento Interno do Supremo Tribunal
+Federal.
+É o relatório.
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A059-708C-EFBA-651C e senha 9D17-3B5E-3B2B-0DFC
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 18 de 24
+
+10/09/2018
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 146.305 MATO
+GROSSO DO SUL
+VOTO
+O Senhor Ministro Ricardo Lewandowski (Relator): Bem
+reexaminados os autos, tenho que a decisão ora atacada não merece
+reforma, pois os seus fundamentos harmonizam-se estritamente com a
+jurisprudência desta Suprema Corte que orienta as matérias em questão.
+Na espécie, reafirmo, o caso é de denegação da ordem.
+Conforme relatado, os agravantes pugnam pela redução da penabase e pretendem a aplicação da causa de diminuição de pena do art. 33,
+§ 4°, da Lei 11.343/2006.
+Contudo, a pretensão não merece acolhida.
+Inicialmente, observo que a orientação desta Corte firmou-se no
+sentido de que a natureza e a quantidade da droga constituem motivação
+idônea para o aumento da pena-base, nos termos do art. 59 do Código
+Penal - CP e do art. 42 da Lei 11.343/2006. Por oportuno, transcrevo a
+ementa abaixo:
+“Habeas corpus. Penal e Processual Penal. Tráfico de
+drogas. Artigo 33, caput, da Lei nº 11.343/2006. Pena-base.
+Majoração. Valoração negativa da natureza e da quantidade da
+droga (1kg de crack). Admissibilidade. Vetores a serem
+considerados necessariamente na dosimetria, nos termos do art.
+59 do Código Penal e do art. 42 da Lei nº 11.343/06. Regime
+inicial fechado. Imposição com fundamento naqueles mesmos
+vetores. Bis in idem inocorrente. Inteligência do art. 33, § 3º, do
+Código Penal. Ordem denegada. 1. É pacífico o entendimento
+do Supremo Tribunal Federal de que a natureza e a
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EA17-23D9-7A6D-44AA e senha BB4E-611A-B5C3-9B9C
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 19 de 24
+
+RHC 146305 AGR / MS
+quantidade da droga constituem motivação idônea para a
+exasperação da pena-base, nos termos do art. 59 do Código
+Penal e do art. 42 da Lei nº 11.343/06. Precedentes. 2. Como o
+regime inicial de cumprimento de pena deve observar o
+disposto no art. 33, § 3º, do Código Penal, e no art. 42 da Lei nº
+11.343/06, que expressamente remetem às circunstâncias do
+crime (art. 59, CP) e à natureza e quantidade da droga, não há
+que se falar em bis in idem na valoração negativa desses mesmos
+vetores na majoração da pena-base e na fixação do regime
+prisional mais gravoso. Precedentes. 3. Ordem denegada” (HC
+131.887/SC, Rel. Min. Dias Toffoli, grifei).
+
+Nessa linha, cito ainda os seguintes precedentes, entre outros: HC
+122.344/SP, Rel. Min. Rosa Weber; RHC 129.951/PR, Rel. Min. Teori
+Zavascki; HC 133.752/SP e HC 134.597/SP, Rel. Min. Dias Toffoli; ARE
+880.499-AgR/MG, Rel. Min. Gilmar Mendes; HC 118.717/SP e RHC
+122.175/MG, de minha relatoria.
+Ademais, a jurisprudência desta Suprema Corte é firme no sentido
+de que é inadequado, na via do habeas corpus, reexaminar fatos e provas
+no tocante à participação do paciente em organização criminosa ou à
+valoração da quantidade da droga apreendida, quando utilizados como
+fundamento para afastar ou dosar, aquém do patamar máximo, a causa
+de diminuição da pena pelo tráfico privilegiado, prevista no art. 33, § 4°,
+da Lei de Drogas.
+Na esteira desse entendimento, colaciono a ementa abaixo:
+“HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS.
+CAUSA DE DIMINUIÇÃO DA PENA. AFASTAMENTO PELO
+TRIBUNAL DE ORIGEM. INTEGRANTE DE ORGANIZAÇÃO
+CRIMINOSA E QUANTIDADE DE DROGA APREENDIDA.
+REEXAME DE FATOS E PROVAS. INADEQUAÇÃO NA VIA
+DO HABEAS CORPUS. ORDEM DENEGADA. I - No crime de
+tráfico de drogas, as penas poderão ser reduzidas de 1/6 a 2/3,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EA17-23D9-7A6D-44AA e senha BB4E-611A-B5C3-9B9C
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 20 de 24
+
+RHC 146305 AGR / MS
+desde que o agente seja primário, de bons antecedentes, não se
+dedique a atividades criminosas nem integre organização
+criminosa. II - No presente caso, o Tribunal de origem afastou a
+causa de diminuição da pena por tráfico privilegiado (art. 33, §
+4°, da Lei 11.343/2006), utilizando como fundamento a
+quantidade de droga apreendida (8 kg de maconha) e a
+comprovação da participação em organização criminosa. III - A
+jurisprudência deste Supremo Tribunal Federal é no sentido de
+que é inadequado, na via do habeas corpus, reexaminar fatos e
+provas no tocante à participação do paciente em organização
+criminosa ou à valoração da quantidade da droga apreendida,
+quando utilizados como fundamento para afastar ou dosar,
+aquém do patamar máximo, a causa de diminuição da pena
+pelo tráfico privilegiado, prevista no art. 33, § 4°, da Lei de
+Drogas. IV - Ordem denegada (HC 133.982/MS, de minha
+relatoria, Segunda Turma, 13/2/2017).
+
+Refeitos esses registros, traslado novamente, por oportuno, trecho do
+voto condutor proferido pelo Ministro Jorge Mussi, Relator do HC
+371.362/MS na Quinta Turma do Superior Tribunal de Justiça, verbis:
+“[...]
+No que tange à aplicação da causa especial de diminuição
+do § 4º, do art. 33 da Lei n. 11.343/06, a Corte de origem, em
+sede de apelação, negou a referida benesse com a seguinte
+fundamentação, verbis:
+‘Com relação ao pedido de aplicação da minorante
+prevista no art. 33, § 4°, da Lei n. 11.343/06, verifica-se que
+os apelantes são primários e não registram antecedentes
+criminais, contudo, diante da grande quantidade de droga
+transportada e da dinâmica do fato delituoso, conclui-se
+que se dedicavam às atividades criminosas e integravam
+organização criminosa. Extrai-se que os apelantes Marcos
+e Herickson foram contratados na cidade de Volta
+Redonda/RJ, onde residiam, pelo valor de RS 2.000,00
+(dois mil reais) cada, conduzindo o veículo GM Captiva,
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EA17-23D9-7A6D-44AA e senha BB4E-611A-B5C3-9B9C
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 21 de 24
+
+RHC 146305 AGR / MS
+com placa falsa de São Paulo (produto de furto da cidade
+do Rio de Janeiro/RJ - fls. 160-167) até a cidade de
+Dourados/MS, onde entregaram-no para desconhecidos e
+aguardaram por três dias até que este fosse devolvido pelo
+apelante Fernando e o adolescente Paulo Henrique, que
+vieram de Amambai/MS com a droga, a fim de ser
+transportada de volta para o Rio de Janeiro, conforme
+confessaram na fase policial e ratificaram as testemunhas
+policiais em juízo (fls. 21-22, 28-29, 33-34 e 212 audiovisual). Evidente que ninguém os contrataria para
+empreender viagem tão longa e transportar tamanha
+quantidade de entorpecente, se não lhes depositasse
+confiança e acreditasse no sucesso da empreitada
+criminosa. Portanto, incabível a aplicação da minorante do
+tráfico privilegiado’ (e-STJ fls. 272/273).
+Quanto ao ponto, sabe-se que o Supremo Tribunal Federal,
+ao julgar o ARE 666.334/AM, sob o regime da repercussão geral,
+firmou o entendimento de que a natureza e a quantidade de
+droga apreendida com o acusado de tráfico devem ser levadas
+em consideração apenas em uma das fases da dosimetria, sob
+pena de indevido bis in idem, cabendo ao magistrado decidir em
+que momento as utilizará.
+[...]
+No caso dos autos, como visto, a quantidade do
+entorpecente foi considerada no cálculo da pena-base, tendo a
+Corte Estadual afastado a possibilidade de incidência da
+benesse em questão utilizando o volume da droga aliado a
+outros elementos constantes dos autos, de forma a evidenciar a
+dedicação dos pacientes à atividade ilícita, não sendo possível,
+portanto, a concessão da ordem quanto ao ponto, tendo que em
+vista ser inexistente o bis in idem alegado.
+Assim, embora a autoridade apontada como coatora tenha
+feito referência à quantidade de entorpecente para negar a
+incidência do redutor em comento, o que não seria admissível,
+nos termos do entendimento do Pretório Excelso, o certo é que
+apontou outros elementos de prova constantes dos autos, como
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EA17-23D9-7A6D-44AA e senha BB4E-611A-B5C3-9B9C
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 22 de 24
+
+RHC 146305 AGR / MS
+o fato de que os réus foram contratados na cidade onde
+residiam para transportar a droga até o Rio de Janeiro/RJ, o que
+teriam confessado em juízo, tendo sido pegos em flagrante na
+posse de considerável volume de estupefaciente, circunstâncias
+que demonstrariam que se dedicavam a atividade criminosa (eSTJ fls. 272/273), fundamento que se revela idôneo para afastar
+a causa de diminuição prevista no § 4º do artigo 33 da Lei de
+Drogas“ (págs. 174-176 do documento eletrônico 3).
+
+Decidir de modo diverso demandaria o reexame do conjunto fáticoprobatório constante dos autos, o que é inviável na via do habeas corpus,
+como já afirmado.
+No sentido do que aqui decidido, cito o seguinte precedente:
+‘Agravo regimental em habeas corpus. Tráfico de drogas
+(art. 33 da Lei nº 11.343/06). Condenação. Dosimetria de pena.
+Bis in idem. Não ocorrência. Majoração da pena-base alicerçada
+em circunstâncias judiciais desfavoráveis. Causa especial de
+redução de pena prevista no § 4º do art. 33 da Lei de Drogas.
+Não incidência. Dedicação à atividade criminosa reconhecida
+pelas instâncias ordinárias. Impossibilidade de se revolver o
+conjunto fático-probatório para se alcançar conclusão diversa.
+Precedentes. Regimental não provido. 1. A pena privativa de
+liberdade imposta ao agravante foi alicerçada na indicação de
+circunstâncias judiciais desfavoráveis, não sendo o habeas corpus
+a via adequada para se ponderar, em concreto, a suficiência
+delas para a majoração da pena-base. 2. Se instâncias
+ordinárias concluíram que o ora agravante se dedicava à
+atividade criminosa para negar a incidência da causa especial
+de redução de pena prevista no art. 33, § 4º, da Lei de Drogas,
+para se chegar a conclusão diversa, necessário seria o reexame
+de fatos e provas, o qual o habeas corpus não comporta. 3. Não
+há que se falar em bis in idem, pois, embora haja simples
+referência à quantidade de droga apreendida, ela não foi um
+fator preponderante na negativa de aplicação da causa especial
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EA17-23D9-7A6D-44AA e senha BB4E-611A-B5C3-9B9C
+
+Supremo Tribunal Federal
+Voto - MIN. RICARDO LEWANDOWSKI
+
+Inteiro Teor do Acórdão - Página 23 de 24
+
+RHC 146305 AGR / MS
+de redução de pena prevista no art. 33, § 4º, da Lei 11.343/06, já
+que se entendeu, em razão das circunstâncias em que foi
+praticado o delito, que o agravante se dedicava à atividade
+criminosa, o que, por si só, obsta a incidência do redutor de
+pena pretendido. 4. Agravo regimental não provido” (HC
+136.177-AgR/SP, Rel. Min. Dias Toffoli, Segunda Turma, DJ
+21/11/2016 - grifei).
+
+Isso posto, nego provimento a este agravo regimental.
+É como voto.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código EA17-23D9-7A6D-44AA e senha BB4E-611A-B5C3-9B9C
+
+Supremo Tribunal Federal
+Extrato de Ata - 10/09/2018
+
+Inteiro Teor do Acórdão - Página 24 de 24
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO ORDINÁRIO EM HABEAS CORPUS 146.305
+PROCED. : MATO GROSSO DO SUL
+RELATOR : MIN. RICARDO LEWANDOWSKI
+AGTE.(S) : MARCOS ALEXANDRE DIAS DE MELO
+AGTE.(S) : HERICKSON VINICIUS DE CARVALHO MARTINS
+PROC.(A/S)(ES) : DEFENSOR PÚBLICO-GERAL DO ESTADO DE MATO GROSSO
+DO SUL
+AGDO.(A/S) : MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 31.8.2018 a 6.9.2018.
+Composição: Ministros Ricardo Lewandowski (Presidente), Celso
+de Mello, Gilmar Mendes, Dias Toffoli e Edson Fachin.
+Marcelo Pimentel
+Secretário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código DE6F-F986-14F4-665F e senha 7720-B89A-5EEB-89BC
