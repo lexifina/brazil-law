@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto ao direito ao gozo da imunidade tributária da recorrida no tocante às operações de importação de equipamentos médico-hospitalares, ante a demonstração da natureza assistencial. No recurso extraordinário, o recorrente alega violados os artigos 150, inciso VI, alínea “c”, e 155, § 2º, inciso IX, alínea “a”, da Carta da República. Aduz a incidência do Imposto sobre a Circulação de Mercadorias e a Prestação de Serviços – ICMS, não importando a natureza jurídica da entidade que realiza a importação.
+    2. Concluir de modo diverso do Tribunal de origem requer a reapreciação das provas produzidas durante o processo. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência  é pacífica  a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    A Corte local reconheceu preenchido pela recorrida os requisitos da imunidade estabelecida no artigo 150, inciso VI, alínea “c”, da Carta da República, relativo ao Imposto sobre Circulação de Mercadorias e Serviços – ICMS sobre à importação de equipamentos hospitalares e laboratoriais, por concluir ter sido comprovado no processo possuir o bem destinação relacionada aos fins essenciais da contribuinte, instituição sem fins lucrativos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par deste aspecto, ambas as Turmas já se manifestaram quanto ao reconhecimento da imunidade sobre à importação de equipamentos hospitalares e laboratoriais, em síntese:
+    AGRAVO DE INSTRUMENTO - ICMS - INCIDÊNCIA - OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS - IMPOSSIBILIDADE - TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, “c”) - RECURSO DE AGRAVO IMPROVIDO.
+    (Agravo de instrumento nº 785.459, relator ministro Celso de Mello, Segunda Turma, acórdão publicado no Diário da Justiça de 19 de dezembro de 2011)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE DAS ENTIDADES DE ASSISTENCIAL SOCIAL RECONHECIDA COM RELAÇÃO AO ICMS INCIDENTE SOBRE PRODUTOS IMPORTADOS. PRECEDENTES. A jurisprudência da Corte orienta-se no sentido de que a imunidade prevista no art. 150, VI, c, da Constituição Federal, abrange o ICMS incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos. Não procede a vinculação do recurso à sistemática da repercussão geral com relação a um leading case que controverte sobre questão diversa. Agravo regimental a que se nega provimento.
+    (Recurso extraordinário com agravo nº 803.906, relator ministro Roberto Barroso, Primeira Turma, acórdão publicado no Diário da Justiça de 21 de novembro de 2014)
+    DIREITO CONSTITUCIONAL E TRIBUTÁRIO. ICMS. IMUNIDADE TRIBUTÁRIA. ENTIDADE SEM FINS LUCRATIVOS. IMPORTAÇÃO DE EQUIPAMENTOS MÉDICOS. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. RECURSO MANEJADO SOB A VIGÊNCIA DO CPC/1973.
+    1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que a imunidade insculpida no art. 150, VI, “c”, da Constituição Federal se aplica ao ICMS.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido.
+    (Recurso Extraordinário nº 596.885, de relatoria da ministra Rosa Weber, Primeira Turma, acórdão publicado no Diário da Justiça de 28 de setembro de 2016)
+    2. Nego seguimento ao extraordinário.
+    3. Publiquem.
+Brasília, 10 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
