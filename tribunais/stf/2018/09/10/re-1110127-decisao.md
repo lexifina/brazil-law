@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – AUSÊNCIA — NEGATIVA DE SEGUIMENTO.
+    1. O Superior Tribunal de Justiça concedeu a ordem de habeas corpus, afirmando a ilegalidade da elevação da pena acima do mínimo legal, tendo em vista a fundamentação apenas com base no número de causas de aumento. No extraordinário, o recorrente aponta a violação do artigo 5º, inciso XLVI, da Constituição Federal. Sustenta afronta do princípio da individualização da pena, porquanto a maior reprovação do crime autoriza o aumento de pena na terceira fase da dosimetria além da fração mínima. Alude a precedentes.
+    2. Quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do recorrente, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal.
+    No mais, eis os fundamentos do acórdão recorrido:
+    Com efeito, o Tribunal de origem fixou em 3/8 o aumento relativo à incidência das duas majorantes, quais sejam, emprego de arma e concurso de agentes, nos seguintes termos (fls. 37/38):
+    Na derradeira etapa, observo que, com o advento da Lei nº 9.426/1996, entende-se que, com o ingresso dos incisos IV e V no aludido dispositivo (art. 157, do CP), as frações de aumento de pena devem ser remodeladas, tendo em vista que, em homenagem ao princípio da proporcionalidade, o aumento de 1/3 até metade deverá ser dividido por cinco. Assim, em se tratando de duas causas de aumento, a elevação deve ser de 3/8, o que resulta 05 anos e 06 meses de reclusão, e 13 dias-multa, no mínimo legal.
+    Como se vê, foi utilizado critério puramente numérico para a exasperação da reprimenda, portanto, sem fundamentação idônea.
+    Dessa forma, verifica-se que o Tribunal de origem decidiu de forma contrária à jurisprudência pacífica desta Corte, sintetizada na Súmula 443/STJ, que possui o seguinte teor: O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+    Por fim, o Tribunal a quo fixou o regime fechado para o início do cumprimento da reprimenda tão somente pelo fato de o réu ter praticado o delito em concurso de agentes e com o emprego de arma de fogo, conforme se vê (fl. 38):
+    […]
+    Todavia, a menção à gravidade abstrata do delito – cometido em concurso de agentes e com emprego de arma de fogo – não é suficiente para justificar a fixação de regime inicial mais gravoso para o cumprimento da pena. (AgInt no HC n. 390.855/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/5/2017).
+    O Superior Tribunal de Justiça, no habeas de nº 376.923/SP, reduziu a pena, ante a ausência de fundamentação adequada do Juízo no tocante às respectivas causas de aumento. A dosimetria resolve-se, em regra, no campo do justo ou injusto. Difícil é o pronunciamento judicial a encerrar ilegalidade.
+    A par disso, a repercussão social do delito surge como elemento neutro, deixando de respaldar o argumento alusivo à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor. O combate não há de fazer-se a ferro e fogo, mas mediante política criminal normativa.
+    Por fim, a decisão impugnada está em consonância com a jurisprudência firmada em ambas as Turmas do Supremo. Confiram com as seguintes ementas:
+    RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO TRIPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA DA PENA. FRAÇÃO SUPERIOR AO MÍNIMO LEGAL. REGIME INICIAL DE CUMPRIMENTO DE PENA MAIS GRAVOSO. POSSIBILIDADE. MOTIVAÇÃO IDÔNEA.
+    1. A dosimetria da pena submete-se a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores.
+    2. Pertinente à dosimetria da pena, encontra-se a aplicação das causas de aumento do art. 157, § 2º, incisos I, II e V, do Código Penal. Justificada a fixação da majorante além do mínimo legal em razão das circunstâncias concretas do fato e não apenas no número de majorantes.
+    3. A fixação do regime inicial de cumprimento da pena não está condicionada somente ao quantum da reprimenda, mas também ao exame das circunstâncias judiciais. Não se verifica constrangimento ilegal no regime fechado estabelecido quando há motivação idônea, fundamentada na gravidade concreta da conduta. Precedentes
+    4. Recurso ordinário em habeas corpus a que se nega provimento.
+    (Recurso em habeas corpus nº 114.965, relatado pela ministra Rosa Weber, Primeira Turma, com acórdão publicado no Diário da Justiça de 27 de junho de 2013).
+    HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. ESCOLHA DA FRAÇÃO DE AUMENTO PREVISTA NO § 2º DO ART. 157 DO CP. DECISÃO FUNDAMENTADA NO NÚMERO DE MAJORANTES. INIDONEIDADE. PRECEDENTES DO STF E SÚMULA 443/STJ.
+    1. Para a escolha da fração de aumento prevista no § 2º do art. 157 do Código Penal, exige-se decisão fundamentada em elementos concretos dos autos, não sendo suficiente a mera referência ao número de majorantes indicadas na sentença condenatória. Incidência dos princípios da individualização da pena (art. 5º, XLVI, da CF) e da obrigatoriedade de fundamentação das decisões judiciais (art. 93, IX, da CF). Precedentes do STF e Súmula 443/STJ.
+    2. Habeas corpus concedido.
+    (Habeas corpus nº 128.338, relatado pelo ministro Teori Zavascki, Segunda Turma, acórdão veiculado no Diário da Justiça de 25 de novembro de 2015).
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 10 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
