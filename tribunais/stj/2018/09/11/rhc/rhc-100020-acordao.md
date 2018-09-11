@@ -1,0 +1,50 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, CORRUPÇÃO DE MENORES, RECEPTAÇÃO E ROUBO CIRCUNSTANCIADO. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. Ao decretar a custódia preventiva do acusado, o Juízo singular ressaltou a gravidade concreta dos crimes de associação criminosa, porte ilegal de armas de fogo, corrupção de menor, receptação e roubo circunstanciado, cometidos em concurso com nove agentes, inclusive com a participação de adolescentes e uso de armas de fogo. O paciente e os corréus, em tese, associaram-se com o fim específico de cometer crimes contra o patrimônio e, de acordo com o édito prisional, almejavam realizar grande assalto a um supermercado.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. Recurso ordinário não provido.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CREGIVAN ALMEIDA DE OLIVEIRA alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no Habeas Corpus n. 0627306-57.2017.8.06.0000.
+O recorrente se insurge contra a conversão de sua prisão em flagrante (31/5/2017) em preventiva, haja vista a suposta prática dos delitos de receptação, associação criminosa, corrupção de menor e porte ilegal de arma de fogo de uso permitido. Sustenta a inexistência dos requisitos autorizadores de sua decretação, bem como a suficiência de outras medidas cautelares, menos gravosas.
+Requer a "expedição do competente alvará de soltura" (fl. 148).
+Indeferida a liminar (fls. 161-166), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não provimento do recurso.
+EMENTA
+RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO, CORRUPÇÃO DE MENORES, RECEPTAÇÃO E ROUBO CIRCUNSTANCIADO. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. Ao decretar a custódia preventiva do acusado, o Juízo singular ressaltou a gravidade concreta dos crimes de associação criminosa, porte ilegal de armas de fogo, corrupção de menor, receptação e roubo circunstanciado, cometidos em concurso com nove agentes, inclusive com a participação de adolescentes e uso de armas de fogo. O paciente e os corréus, em tese, associaram-se com o fim específico de cometer crimes contra o patrimônio e, de acordo com o édito prisional, almejavam realizar grande assalto a um supermercado.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+4. Recurso ordinário não provido.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+O recorrente e outros réus foram "presos em flagrante no dia 31 de maio de 2017" (fl. 60). Na oportunidade, os policiais surpreenderam "10 (dez) homens e 3 (três) mulheres, sendo os acusados e alguns menores", e "apreenderam 03 (três) revólveres calibre 38, diversas munições  ..  um carregador de pistola com 19 (dezenove) munições intactas  .. , uma motocicleta com queixa de roubo, objetos pessoais, bolsas, celulares, dinheiro em espécie e várias ferramentas utilizadas para arromabamento de residências, dentre elas marretas, serras, pé de cabra e alavancas" (fl. 60, destaquei).
+Todos os acusados, de acordo com o Ministério Público, praticaram o delito de associação criminosa na companhia de três adolescentes. Foi imputado a eles, ainda, a coautoria do crime de porte de arma de fogo, pois todos tinham"a ela acesso imediato" (fl. 35). Ademais, ocultavam "vários objetos roubados" (fl. 36). O recorrente, por sua vez, também é acusado pelo delito de roubo circunstanciado. Conforme a denúncia, "a vítima ficou mantida sob o poder e restrita sua liberdade pelos dois indivíduos, que inclusive faziam uso de arma de fogo, uma vez que desferiram coronhadas na sua cabeça, além de usar uma faca" (fl. 36).
+O Magistrado fez a seguinte avaliação sobre o periculum libertatis (fls. 28-29, destaquei):
+ ..
+Compulsando os autos, vê-se que a prisão do investigado, neste momento, é necessária para resguardar a ordem pública, tendo em vista a realidade a que a sociedade está submetida diante de tantos crimes, sobretudo patrimoniais, que ocorrem com frequência mesmo em cidades interioranas. A resposta estatal deve ser firme para que não haja descrença da população com o Poder Judiciário, bem como para evitar que o agente volte a cometer crimes.
+Basileu Garcia já afirmava ser tal argumento aceitável, aduzindo que: "Para a garantia da ordem pública, visará o magistrado, ao decretar a prisão preventiva, evitar que o delinquente volte a cometer delitos, ou porque é acentuadamente propenso a práticas delituosas, ou porque, em liberdade, encontraria os mesmos estímulos relacionados com a infração cometida".
+A jurisprudência do STF, é pacífica no sentido de que tal argumentação é plenamente válida, desde que pautada em elementos concretos emergentes dos autos.
+No julgamento de um caso recente (HC 94.598/RS) os membros da Primeira Turma do STF, em uníssono, seguiram o voto do relator, Min. Ricardo Lewandowski, aduzindo que: "A decretação da prisão preventiva baseada na garantia da ordem pública e na conveniência da instrução criminal está devidamente fundamentada em fatos concretos a justificar a segregação cautelar, em especial diante da reiteração da conduta".
+Ressalte-se, ainda que o crime foi cometido mediante concurso de pessoas, inclusive com a participação de menor de idade, bem como mediante uso de arma de fogo, sendo nítida a gravidade concreta da conduta do acusado que junto com seus comparsas tencionavam a realização de um grande assalto a um supermercado nesta Comarca.
+Por ocasião do julgamento do writ originário, o Tribunal assinalou que "as medidas cautelares diversas da prisão se mostram insuficientes e inadequadas para evitar a reiteração criminosa" (fl. 126).
+Em consulta à página eletrônica do TJCE, verificou-se que o feito vem recebendo impulso regular e aguarda cumprimento de carta precatória (andamento do dia 6/7/2018).
+II. Custódia preventiva - motivação idônea
+Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+Na hipótese, são idôneas as razões invocadas para embasar a prisão cautelar do réu, porquanto contextualizaram o periculum libertatis.
+A periculosidade do paciente - e, portanto, o risco que sua liberdade enseja para a ordem pública - foi evidenciada pelos elementos concretos dos autos. O Juiz ressaltou a gravidade dos crimes de associação criminosa, porte ilegal de armas de fogo, corrupção de menores, receptação e roubo circunstanciado, cometidos em concurso com nove agentes, inclusive com a participação de adolescentes, e uso de arma de fogo. O paciente e os corréus, em tese, associaram-se com o fim específico de cometer crimes contra o patrimônio e, de acordo com o édito prisional, tencionavam realizar grande assalto a um supermercado.
+A teor dos julgados desta Corte: "A decisão que decretou a custódia preventiva evidenciou o fundado risco de reiteração delitiva e a acentuada periculosidade do acusado, ante os indícios de o paciente ser um dos integrantes de associação criminosa voltada à prática de crimes contra o patrimônio, mediante emprego de arma de fogo e em concurso com adolescentes" (HC n. 432.658/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/5/2018).
+III. Substituição por cautelares diversas - insuficiência e inadequação
+Diante da acentuada reprovabilidade da conduta, indicativa da elevada periculosidade do réu, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+Nesse sentido:
+ ..
+5. Inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa e a periculosidade do recorrente indicam que a ordem pública não estaria acautelada com sua soltura.
+6. Recurso em habeas corpus desprovido.
+(RHC n. 94.885/AL, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/4/2018, grifei)
+IV. Dispositivo
+À vista do exposto, nego provimento ao recurso ordinário.
