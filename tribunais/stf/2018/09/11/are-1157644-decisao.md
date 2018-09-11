@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 3ª Região, assim ementado:
+          “PREVIDENCIÁRIO. APELAÇÃO. EMBARGOS À EXECUÇÃO DE SENTENÇA. POSSIBILIDADE DE RECEBIMENTO DAS PARCELAS EM ATRASO DA APOSENTADORIA COM DATA DE INÍCIO ANTERIOR À IMPLANTAÇÃO DO BENEFÍCIO MAIS VANTAJOSO NA ESFERA ADMINISTRATIVA. APELAÇÃO DESPROVIDA. RECURSO ADESIVO PARCIALMENTE PROVIDO”. (eDOC 1, p.133)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, II; 194, caput e parágrafo único; 195, §5º; 201, caput, §2º e § 11, do texto constitucional.(eDOC 1, p. 168)
+    Nas razões recursais, alega-se que a opção pelo benefício mais vantajoso obtido administrativamente obsta o recebimento dos valores atrasados referentes ao benefício concedido judicialmente, sob pena de caracterizar-se desaposentação indireta. (eDOC 1, p.171)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.213/1991) e o conjunto probatório constante dos autos, consignou a possibilidade de execução de parcelas concedidas judicialmente, até a data da implantação de outro benefício na via administrativa. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “1. Não há qualquer impedimento legal para a execução das parcelas do benefício concedido pelo título judicial, até a data da implantação de outro benefício deferido na seara administrativa, uma vez que em tal período não se verifica o recebimento conjunto dos dois benfícios, vedado pelo art. 124, inciso II, da Lei nº 8.213/91”. (eDOC 1, p. 133)
+     Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+     Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. 1. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 2. Necessidade de reexame de fatos e provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Interposição simultânea de recursos extraordinário e especial. Aplicabilidade do art. 543, § 1º, do Código de Processo Civil somente se admitidos os recursos. Precedentes. 4. Sucumbência recíproca. Matéria infraconstitucional. Questão a ser verificada pelo juízo da execução. Precedentes. 5. Agravo regimental ao qual se nega provimento.” (AI 792.204/MG-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 15.8.12)
+    “DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. O acórdão recorrido reconheceu o direito da impetrante com fundamento no conjunto fático-probatório delineado nos presentes autos (Súmula STF 279) e na legislação infraconstitucional. 2. O agravante não trouxe nenhum argumento capaz de infirmar o entendimento adotado pela decisão impugnada, que deve ser mantida por seus próprios fundamentos. 3. Agravo regimental a que se nega provimento.” (AI 787.773/RJ-AgR, Rel. Min. Ellen Gracie, DJe de 24.2.2011)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro em 10% o valor da verba honorária fixada anteriormente (eDOC 1, p. 79), observados os limites previstos no §§ 2º e 3º do referido dispositivo.
+    Publique-se.
+    Brasília, 11 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
