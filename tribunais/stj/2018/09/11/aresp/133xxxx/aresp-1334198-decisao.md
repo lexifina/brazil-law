@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICIPIO DE IPU, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim ementado:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA AJUIZADA POR PROFESSORA DO MUNICÍPIO DE IPU VISANDO AO RECEBIMENTO DE VERBAS SALARIAIS NÃO PAGAS. SENTENÇA DE PROCEDÊNCIA, A QUAL DETERMINOU O PAGAMENTO DAS VERBAS RECLAMADAS. PRELIMINAR AFASTADA. RECURSO DESPROVIDO.
+1. Prefacial de cerceamento de defesa supostamente advinda do julgamento antecipado da lide afastada, considerando-se que o julgador, como destinatário final das provas, analisou os documentos acostados, reputando-os suficientes para evidenciar o direito alegado.
+2. Incumbindo ao município demonstrar que cumpriu suas obrigações perante o servidor, nos termos do art. 333, II, do CPC/1973, vigente à época da prolação da sentença, conforme precedentes desta Corte, carecem de razoabilidade os argumentos recursais de que as verbas salariais pleiteadas não seriam devidas, porquanto o ente público não foi exitoso em comprovar que teria efetivamente depositado as parcelas pleiteadas.
+3. Apelação conhecida e desprovida.
+No recurso especial, o recorrente aponta violação do art. 355, I, do CPC/15.
+Sustenta que:
+(..) há manifesto cerceamento de defesa na espécie, pois conforme se verifica não houve o anúncio do julgamento antecipado da lide, não tendo oportunizado as partes, notadamente ao ente público, o direito de se irresignar contra o julgamento antecipado da lide e/ou requerer às provas que ainda entendesse como necessárias, como a juntada de documentos. (fl. 108)
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base na Súmula nº 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Na forma da jurisprudência: "(..) é facultado ao julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento que lhe é conferida pelo art. 130 do CPC/73, seja ela testemunhal, pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão" (STJ, AgInt no AREsp 1.029.093/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 06/03/2018).
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE UM DOS FUNDAMENTOS ADOTADOS PELA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA PARCIAL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR, NA ESPÉCIE. HONORÁRIOS ADVOCATÍCIOS. QUANTUM. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. A
+1. Inviável a apreciação do agravo interno que deixa de atacar especificamente, um dos fundamentos da decisão agravada referente à aplicação do óbice da Súmula 211/STJ, incidindo, quanto ao ponto, a Súmula 182/STJ.
+2. Conforme a legislação de regência, cumpre ao magistrado, destinatário da prova, valorar sua necessidade. Assim, tendo em vista o princípio do livre convencimento motivado, não há cerceamento de defesa quando, em decisão fundamentada, o juiz indefere produção de prova, seja ela testemunhal, pericial ou documental.
+3. A alteração das conclusões adotadas pela Corte de origem, tal como colocada nas presentes razões recursais, de modo a se chegar à conclusão de que seria necessária a produção da prova testemunhal requerida pela parte agravante, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+(..)
+6. Agravo interno parcialmente conhecido e, nessa parte, desprovido.
+(AgInt no AREsp 424.851/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+ADMINISTRATIVO. RECURSO ESPECIAL. LEI DE IMPROBIDADE ADMINISTRATIVA. OFENSA AO ART. 535 DO CPC/1973. OMISSÃO NÃO CARACTERIZADA. POSSIBILIDADE DE APLICAÇÃO AOS AGENTES POLÍTICOS. PREFEITO. PRECEDENTES. MINISTÉRIO PÚBLICO. ABERTURA DE INQUÉRITO CIVIL. POSSIBILIDADE. CERCEAMENTO DE DEFESA, CONFIGURAÇÃO DE DANO AO ERÁRIO E PRESENÇA DE ELEMENTO SUBJETIVO. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+4. O Tribunal de origem decidiu de acordo com o posicionamento preconizado nesta Corte de Justiça, no sentido de que é legítima a abertura de inquérito civil pelo Ministério Público visando à apuração de atos de improbidade. 5. Verificar a ocorrência de cerceamento de defesa, em razão de haver o acórdão recorrido mantido o indeferimento do pedido de produção de provas, por julgá-las desnecessárias, esbarra no óbice da Súmula 7/STJ. 6. De igual forma, contrariar a conclusão a que chegou a Corte local sobre a efetiva ocorrência do dano ao erário, bem como sobre a configuração de culpa na conduta do agente, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável de ser adotada neste Tribunal Superior, ante o óbice da Súmula 7/STJ.
+7. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp 1188348/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+Nessa linha, tem-se que a alteração das conclusões adotadas pela Corte de origem, tal como colocada nas presentes razões recursais, de modo a se chegar à conclusão quanto à inviabilidade do julgamento antecipado da lide, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
