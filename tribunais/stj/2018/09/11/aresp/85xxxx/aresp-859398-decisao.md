@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que negou seguimento ao recurso especial por inexistência de violação de legislação federal, incidência das Súmulas n. 7 do STJ e 284 do STF e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 359/362).
+O acórdão recorrido está assim ementado (e-STJ fl. 207):
+AGRAVO LEGAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO AGRAVADA QUE DEFERIU A PENHORA DO FATURAMENTO BRUTO MENSAL DA AGRAVANTE NA RAZÃO DE 5%. - A penhora determinada pelo juízo não caracteriza ofensa à gradação legal prevista no art.
+655 do CPC e ao princípio da menor onerosidade do devedor (art. 620, do CPC). Inteligência da súmula 100 deste Tribunal. Precedentes. FUNDAMENTOS INABALADOS. RECURSO CONHECIDO.
+PROVIMENTO NEGADO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 241/245).
+No especial (e-STJ fls. 247/289), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 535 do CPC/1973 por negativa de prestação jurisdicional.
+Apontou ainda afronta aos arts. 620 e 655 do CPC/1973, sustentando, em síntese, a impossibilidade da constrição efetuada por desrespeito à ordem legal de penhora. Afirmou que a penhora efetuada cuida-se de medida extrema, que apenas deve ser utilizada após esgotados todos os meios para se encontrar bens passíveis de penhora, o que, segundo a recorrente, não seria o caso dos autos.
+No agravo (e-STJ fls. 368/405), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 407/414).
+É o relatório.
+Decido.
+A irresignação referente à ofensa ao art. 535 do CPC/1973 merece prosperar.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 535, I e II, do CPC/1973.
+A parte recorrente sustentou, em declaratórios, a seguinte tese (e-STJ fl. 222):
+19. Como se pode ver claramente, ainda que a penhora em dinheiro mantido em instituições financeiras detenha caráter preferencial aos imóveis, diferentemente a penhora sobre percentual de faturamento da empresa devedora não se encontra em caráter preferencial aos imóveis indicados pela ora embargante, diferentemente do que tenta fazer prevalecer o v. acórdão.
+20. Caso contrário, a referida modalidade de constrição restaria intitulada no inciso I do artigo 655 do Código de Processo Civil (CPC) e não no inciso VII, ou seja, após a garantia de imóveis, ou ainda, não estaria representada expressamente como hipótese distinta da modalidade instituída no inciso I do referido artigo.
+Entretanto, a Corte local se limitou a afirmar que (e-STJ fls. 244/245):
+Não obstante, existe, de fato, um pequeno erro material no julgado que não altera, em nada, o seu resultado. Onde consta a referência ao dispositivo legal, deve-se ler "Art. 655, inciso IV", concluindo-se que se a empresa executada não dispõe de dinheiro para garantir o Juízo da execução, nada impede a penhora de seu faturamento.
+Portanto, o Tribunal de origem se limitou a permitir a penhora sobre o faturamento da executada sob o fundamento de que esta não disporia de dinheiro para garantir o juízo, nos termos da ordem legal prevista no art. 655 do CPC/1973.
+Entretanto, o argumento de que a penhora dos imóveis indicados pela embargante teria caráter preferencial em relação a penhora de seu faturamento, não foi analisado, mesmo após declaratórios.
+Em tais condições, diante da omissão no acórdão recorrido, impõe-se o provimento do recurso especial para que o Tribunal a quo se pronuncie sobre a questão, sanando, assim, o vício apontado. Nesse sentido é a firme jurisprudência desta Corte, como se depreende, exemplificadamente, do seguinte julgado:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. 1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066. 2. A novação, conquanto modalidade de extinção de obrigação em virtude da constituição de nova obrigação substitutiva da originária, não tem o condão de impedir a revisão dos negócios jurídicos antecedentes, máxime diante da relativização do princípio do pacta sunt servanda, engendrada pela nova concepção do Direito Civil, que impõe o diálogo entre a autonomia privada, a boa-fé e a função social do contrato. Inteligência da Súmula 286 do STJ. 3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem."
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Diante do exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para ANULAR O ACÓRDÃO, em virtude de violação do art. 535 do CPC/1973, e determinar novo julgamento dos embargos de declaração nos termos indicados.
+Publique-se e intimem-se.
