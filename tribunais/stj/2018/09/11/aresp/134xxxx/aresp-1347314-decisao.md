@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo, interposto pela FAZENDA NACIONAL, em 15/05/2018, contra decisão do Tribunal Regional Federal da 1ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. EXPURGOS INFLACIONÁRIOS. FGTS. CONTRIBUIÇÕES SOCIAIS. CONTRIBUIÇÃO INSTITUÍDA PELA LEI COMPLEMENTAR Nº 110/2001. AGRAVO RETIDO. JULGAMENTO NÃO REQUERIDO. RECURSO NÃO CONHECIDO (art. 523, § 1º, do CPC/1973). INCONSTITUCIONALIDADE DA COBRANÇA NO EXERCÍCIO DE 2001. CONTRIBUIÇÕES SOCIAIS GERAIS. OBSERVÂNCIA DO PRINCÍPIO DA ANTERIORIDADE. PRECEITO NÃO SUJEITO A VIGÊNCIA TEMPORÁRIA. ALEGAÇÃO DE INCONSTITUCIONALIDADE SUPERVENIENTE POR EXAURIMENTO DE FINALIDADE. NÃO OCORRÊNCIA: MATÉRIA OBJETO DE CONTROVÉRSIA. REPERCUSSÃO GERAL. RECONHECIMENTO PELA SUPREMA CORTE. REPERCUSSÃO IMEDIATA. AUSÊNCIA.
+I -A Suprema Corte, em análise da ADIN nº. 2.556/DF, decidiu que as exações instituídas pela LC 110/2001 são constitucionais e possuem natureza de 111 contribuições sociais gerais, submetendo-se, portanto, à regência do art. 149 e, por conseguinte, do art. 150, III, b, ambos da Constituição Federal, afastando-se a exigência dessas contribuições, apenas, no exercício financeiro de 2001.
+II -A orientação jurisprudencial já sedimentada no âmbito de nossos tribunais é no sentido de que a destinação específica da contribuição a que alude o art. 1º da mencionada LC nº 110/2001 limita-se aos exercícios financeiros de 2001, 2002 e 2003, não se estendendo aos demais, nem dispondo de qualquer limitação temporal, do que resulta a legitimidade da sua exigibilidade, enquanto vigente o referido texto legal, como no caso. Precedentes.
+III - Na espécie, inexiste reflexo imediato quanto à matéria objeto de controvérsia no que se refere ao reconhecimento de repercussão geral ocorrido no julgamento do RE 878.313 (Tema 846), notadamente por não ter havido qualquer inação de suspensão processual daquela Corte Suprema.
+IV - Agravo retido não conhecido. Remessa oficial e apelação providas. Sentença reformada" (fls. 220/221e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE INEXISTENTES. DESPROVIMENTO.
+I - Inexistindo, no acórdão embargado, qualquer omissão, contradição ou obscuridade, afiguram-se improcedentes os embargos declaratórios, mormente quando a pretensão recursal possui natureza eminentemente infringente do julgado, como no caso, a desafiar a interposição de recurso próprio.
+II - Embargos de declaração desprovidos" (fl. 301e).
+Nas razões do Agravo, a parte sustenta o seguinte:
+"Com a devida vênia, não pode prevalecer o entendimento adotado pelo r.
+despacho presidencial para negar seguimento ao apelo extremo, uma vez que isto significaria, em última análise, inaceitável cerceamento ao direito-dever da defesa da Fazenda Nacional, violador do disposto no art. 5º inciso LV, da Constituição Federal.
+Tendo o v. acórdão recorrido contrariado o indigitado dispositivo de lei federal (artigo 85, §§ 2º e 8º do CPC), é cabível o recurso especial, falecendo competência ao Exmo. Presidente do Tribunal Regional para decidir se ocorreu ou não a alegada violação ao(s) dispositivo(s) infraconstitucional(is).
+A agravante entende que a decisão de negar seguimento ao recurso terminou por estruturar-se em considerações de mérito, adentrando, portanto, no âmbito da competência própria do Superior Tribunal de Justiça, o qual é único por determinação constitucional com competência para julgar o mérito do recurso especial.
+(..)
+No caso, o recurso especial restou inadmitido sob o fundamento de que a análise de honorários advocatícios significa reexame do aspecto fático-probatório dos autos. No entanto, o próprio STJ admite o questionamento acerca do ínfimo, indevido ou excessivo arbitramento da verba honorária na via especial, não se lhe aplicando a vedação contida na Súmula nº 7/STJ, consoante vem reconhecendo essa col. Corte Superior. Transcrevem-se, a propósito, as ementas dos seguintes precedentes:
+(..)
+No caso, o recurso especial foi interposto contra V. Acórdão da Colenda Turma desta E. Corte que manteve a condenação em honorários advocatícios em favor da Fazenda Nacional em apenas R$ 2.00,00, ou seja, valor irrisório de 4% sobre o valor da causa (R$ 50.000,00), sem considerar o valor econômico discutido na causa.
+Registre-se o julgado do STJ em sede de recurso repetitivo que reconhece a possibilidade de análise de recurso especial em caso de honorários fixados em valor irrisório, a seguir transcrito:
+(..)
+Por fim, não merece prosperar a decisão ora agravada uma vez que o recurso especial de fls. 243/248 deixa claro o descumprimento à legislação federal de regência quanto à sucumbência, de modo a atender a todos os requisitos formais processuais de processamento do recurso especial" (fls. 337/341e).
+Requer, ao final, "seja dado provimento ao presente Agravo, determinando-se ao Exmo. Sr. Desembargador Presidente do TRF da ia Região que dê o regular prosseguimento ao Recurso Especial interosto pela União às fls. 243/248, remetendo-o ao STJ para posterior julgamento e proviemento" (fl. 341e).
+Não foi apresentada contraminuta (fl. 342e).
+Do exame dos autos, verifica-se que os fundamentos da decisão agravada, para inadmitir o Recurso Especial, são os seguintes: a) ausência de violação ao art. 1.022 do CPC/2015; e b) razoabilidade do valor fixado a título de honorários advocatícios, com incidência da Súmula 7/STJ.
+A recorrente, no entanto, no Agravo, não cuidou de impugnar a decisão quanto à ausência de violação ao art. 1.022 do CPC/2015.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+I.
