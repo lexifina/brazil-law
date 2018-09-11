@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Manaus com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 160):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ACÚMULO DE ENTULHO EM VIA NÃO SINALIZADA - ACIDENTE AUTOMOBILÍSTICO - RESPONSABILIDADE OBJETIVA DO MUNICÍPIO - CABIMENTO - CULPA EXCLUSIVA DA VITIMA IMPROCEDÊNCIA - MANUTENÇÃO DA SENTENÇA DE 1º GRAU - RECURSO DE APELAÇÃO CONHECIDO E NO MÉRITO IMPROVIDO.
+Opostos embargos declaratórios, foram, inicialmente, rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Após decisão deste STJ, o Tribunal a quo foi instado a se manifestar acerca de omissão reconhecida quanto às alegações de comprovação do dano material, o que foi feito às fls. 232/236.
+A parte recorrente aponta violação aos arts. 373, I , 374, II, e 391 do CPC/2015. Sustenta que: (I) não é devida a condenação da monta estipulada a título de danos materiais, uma vez que não foram devidamente comprovados e estão pautados em simples orçamentos apresentados; (II) a própria parte recorrida afirmou ter pago valor menor do que a condenação, o que implica o instituto da confissão, de modo que a manutenção da condenação ensejará seu enriquecimento ilícito.
+É o relatório.
+No caso dos autos, verifica-se que a Corte de origem dirimiu a controvérsia sob os seguintes fundamentos:
+Apesar do Embargado alegar que gastou 10 mil reais para a reparação do veículo, somente essa suposta confissão não tem o condão de afastar os orçamentos juntados aos autos, uma vez que tal declaração é imprecisa, já que o próprio autor afirma que "não tem certeza" quanto fora pagado.
+Como já sedimentado no entendimento jurisprudencial pátrio, não se faz necessária a comprovação do valor pago para o reparo, sendo válida a estimativa por meio da apresentação de três orçamentos com assinaturas dos responsáveis pela sua elaboração como prova fidedignidade para mensuração do dano material.
+Além disso, importante destacar que não se vê nos autos qualquer impugnação específica a indicar a inidoneidade dos orçamentos apresentados, nem das empresas que os elaboraram.
+ ..
+Desta forma, não se vislumbra a necessidade de redução do montante fixado pelo magistrado de primeiro grau em relação aos danos materiais, uma vez que os três orçamentos apresentados são idôneos, bem como a Prefeitura nada trouxe aos autos capaz de afastar a pertinência dos documentos e valores neles contidos.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem acerca da comprovação dos danos materiais por meio de orçamentos, bem como sobre a ausência de efetiva confissão da parte recorrida, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Vejam-se casos semelhantes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INCÊNDIO EM RESIDÊNCIA. ALEGAÇÃO DE AUSÊNCIA DO DEVER DE INDENIZAR. PRODUÇÃO DE PROVAS. DESNECESSIDADE. ART. 130 DO CPC. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. ACÓRDÃO DE ORIGEM QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU QUE RESTOU COMPROVADA A MÁ CONSERVAÇÃO DA REDE ELÉTRICA QUE CULMINOU NO INCÊNDIO EM QUESTÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DANOS MORAIS E MATERIAIS. REDUÇÃO DO VALOR DA INDENIZAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I.  ..
+III. (..) Concluiu o julgado, ainda, que "o dano material, para que seja passível de reparação, exige a comprovação do efetivo prejuízo experimentado", que foi o "quantum arbitrado com base na descrição de bens, orçamentos e prova oral produzida, no montante de R$ 258.133,19 (duzentos e cinquenta e oito mil, cento e trinta e três reais e dezenove centavos)", e que "os fatos narrados na inicial evidenciam que ultrapassam, e muito, o mero dissabor, não se identificando com simples transtorno ou contratempo do cotidiano, configurando dano moral, passível de reparação". Assim, para infirmar as conclusões do julgado seria necessário, inequivocamente, incursão na seara fático-probatória, inviável, na via eleita, a teor do enunciado sumular 7/STJ.
+IV.  ..
+V. Agravo Regimental improvido.
+(AgRg no AREsp 656.779/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/3/2015, DJe 7/4/2015)
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. PARCELAS INADIMPLIDAS. PRESCRIÇÃO. INTERRUPÇÃO. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PRESCRIÇÃO QUE ATINGE A PRETENSÃO, E NÃO O DIREITO SUBJETIVO EM SI.
+1.  ..
+3. Partindo-se das premissas fáticas estabelecidas pelo Tribunal de origem quanto à inexistência de ato inequívoco que importasse em reconhecimento do direito por parte da recorrida - premissas estas inviáveis de serem reanalisadas ou alteradas em razão do óbice da Súmula 7/STJ - não há como se admitir a ocorrência de interrupção do prazo prescricional.
+4.  ..
+5. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp 1.694.322/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/11/2017, DJe 13/11/2017)
+Ante o exposto, não conheço o recurso especial.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
