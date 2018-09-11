@@ -1,0 +1,24 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CENTRO DE MEDICINA INTEGRADA DE SERGIPE - CEMISE contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA POR DANOS MORAIS - EXAME DE TOMOGRAFIA COMPUTADORIZADA DO TÓRAX - DIAGNÓSTICO EQUIVOCADO DE AUMENTO DO NÓDULO DE CÂNCER - EVIDENTE FALHA NA PRESTAÇÃO DO SERVIÇO - DANO MORAL - CONFIGURADO - SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO - POR MAIORIA.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 927 do CC.
+Defende a inexistência de qualquer abalo sofrido pela ora agravada. Aduz ter havido mero dissabor. E continua:
+Esta Recorrente não possui qualquer relação com o abalo psicológico a que foi submetido a Recorrida. Ao contrário, tentou a todo tempo solucionar a intempérie, diminuindo a angústia do demandante. Não se verifica, sob qualquer ótica, nenhuma possibilidade de atribuição de culpa pelos prejuízos suportados pelo autor a esta Contestante, eis que ausente o nexo causal entre sua conduta e o resultado gravoso a que este foi submetido.
+É o relatório. DECIDO.
+2. Ao reconhecer o cabimento dos danos morais, o Tribunal de origem assim consignou:
+In casu, a controvérsia versa sobre erro de diagnóstico requerendo a parte autora, ora apelante, a condenação do laboratório apelado, ao pagamento de indenização, a título de danos morais.
+ .. .
+De início, deve-se salientar que já é pacífico o entendimento sobre a natureza jurídica das obrigações, em relação a exames clínicos, classificando-se como obrigação de resultado, em que o devedor assume a obrigação de atingir o resultado, sem a qual haverá o inadimplemento e, ademais, a atuação de hospitais, clínicas e laboratórios, em certos serviços, enseja uma expectativa particular na parte, de precisão do serviço prestado.
+ .. .
+Pois bem. O câncer é uma doença maligna que assombra inúmeras pessoas na atualidade e, como é de notória sabença, podendo ser detectado em vários estágios de evolução histopatológica e clínica, sendo na maioria das vezes fatal, levando o portador ao falecimento.
+Logo, o dano causado a pessoa que já possui a doença e é diagnosticada com o aumento do nódulo, é evidente, a gerar dor moral e sofrimento intensos, fugindo à normalidade e interferindo profundamente no comportamento psicológico, causando à pessoa aflição, angústia e desequilíbrio ao seu bem-estar.
+Verifico que a falha do laboratório ensejou dano a paciente, uma vez que a conduta descuidada da parte ré causou flagrante abalo emocional e consequências na saúde da autora e de sua família, além de abalar a confiabilidade do serviço,respaldando a condenação à reparação moral.
+Assim, a verba indenizatória arbitrada a título de dano moral, deve observar os princípios da proporcionalidade e razoabilidade, bem como a vedação ao enriquecimento sem causa, não podendo, contudo, representar valor ínfimo ou desproporcional à conduta ilícita do ofensor.
+ .. .
+Faz-se mister acrescentar, que o ressarcimento do dano moral não vai atender a completa satisfação do dano causado, uma vez que tem cunho mais satisfatório, procurando dessa forma recompensar o sofrimento ocasionado, de modo que o dano não pode ser fonte de lucro para quem o recebe, devendo o julgador ser moderado, sensato e comedido por ocasião do arbitramento do referido dano.
+Assim, levando em consideração os critérios estabelecidos pela Doutrina e Jurisprudência, entendo que o importe de R$ 5.000,00 (cinco mil é razoável, justo, proporcional e condizente com a jurisprudência pátria em casos dessa jaez. reais)
+Nesse contexto, verifica-se que o tribunal de origem decidiu em consonância com a jurisprudência desta Corte, no sentido de que "a obrigação do laboratório de análises clínicas é de resultado, de natureza objetiva, de forma que havendo má prestação dos serviços laboratoriais, culminando no erro de diagnóstico, o lesado tem direito à indenização por danos morais. Precedentes".(AgInt no AgInt no AREsp 902.796/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+3. Ademais, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
