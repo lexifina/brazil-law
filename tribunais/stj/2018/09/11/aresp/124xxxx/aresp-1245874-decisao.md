@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO EM SEDE DE PEDIDO DE EFEITO SUSPENSIVO DO RECURSO DE APELAÇÃO. JULGAMENTO SUPERVENIENTE DO MÉRITO DA APELAÇÃO. PERDA DE OBJETO. AGRAVO CONHECIDO PARA DAR POR PREJUDICADO O RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 144):
+AGRAVO INTERNO. ART. 1.021 NOVO CPC. MILITAR TEMPORÁRIO. REINTEGRAÇÃO. TRATAMENTO MÉDICO. EFEITO SUSPENSIVO. Quando um indivíduo ingressa nas Forças Armadas, um pressuposto é fundamental: estar em condições físicas e psicológicas para a exigente rotina castrense. É por essa razão que se faz acurado exame médico, a exemplo do que dispõe o art. 50, nº 1, do Decreto nº 57.654/66, relativo ao serviço militar obrigatório. O militar não pode ser licenciado quando for declarado incapaz, temporária ou definitivamente, para o ambiente das Forças Armadas. Consequentemente, ele faz jus à reintegração na condição de adido para receber tratamento médico -hospitalar, sem prejuízo das remunerações relativas ao período de afastamento. Precedentes: (AGARESP 201200870220, BENEDITO GONÇALVES, STJ - PRIMEIRA TURMA, DJE DATA:30/09/20I3 ..DTPB:), (AI 00021033820124030000, JUIZ CONVOCADO HÉLIO NOGUEIRA, TRF3 - QUINTA TURMA, e-DJF3 Judicial 1 DATA:13/08/2014 ..FONTE_REPUBLICACAO:). O laudo médico -pericial concluiu que, quando do li cenciamento, o autor "não gozava de boa saúde" (fl. 76 vº) e que seria necessário dar continuidade ao tratamento. O licenciamento foi, portanto, ilegal. Reintegração não viola art. 2º-B da Lei nº 9.494/97, porquanto visa a restabelecer situação indevidamente rompida. Precedentes: (AGA 201100023200, BENEDITO GONÇALVES, STJ - PRIMEIRA TURMA, DJE DATA:27/05/2011 ..DTPB:.), (APELREEX 00003494020114036000, DESEMBARGADOR FEDERAL ANTONIO CEDENHO, TRF3 - SEGUNDA TURMA, e-DJE3 Judicial 1 DATA:30/07/2015 ..FONTE REPUBLICACAO:.). Agravo interno a que se nega provimento.
+No recurso especial o recorrente alega violação do art. 1.104, § 2º, do CPC/2015 e do art. 2º-B da lei 9.494/1997.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+O presente recurso especial ataca o acórdão do Tribunal de origem, proferido em sede de agravo interno interposto contra decisão que negou o pedido de concessão de efeito suspensivo à apelação interposta, no que se refere a determinação de reintegração do ora agravado às fileiras do Exército.
+Em consulta ao trâmite processual da ação de origem, constatou-se o julgamento do recurso de apelação da ora agravante, a qual foi parcialmente provida pelo TRF da 3ª Região.
+A parte recorrente foi intimada, com o objetivo de se manifestar acerca da persistência do interesse recursal, tendo asseverado que esse não subsiste, consoante petição de fls. 189-190.
+Dessa feita, é de ser reconhecida, portanto, a prejudicialidade do presente recurso especial.
+Ante o exposto, conheço do agravo para dar por prejudicado o recurso especial.
+Publique-se. Intimem-se.
