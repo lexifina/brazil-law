@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu provimento ao agravo em execução penal.
+Sustenta o recorrente violação dos arts. 52 e 111, ambos da Lei de Execução Penal, ao fundamento de que, com a unificação das penas decorrente da superveniência de nova condenação, a data-base para a concessão de futuros benefícios deve ser a data da última prisão do recorrente. Alega, também, dissídio jurisprudencial.
+Requer o provimento do recurso a fim de fixar como marco inicial para a concessão de novos benefícios a data da última prisão do recorrente.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo parcial provimento do recurso.
+É o relatório.
+Decido.
+A controvérsia cinge-se à fixação da data-base para a aquisição de benefícios da execução penal, tendo em vista a unificação das penas decorrente de nova condenação.
+O Tribunal de origem manteve decisão que unificara as penas do reeducando, definindo a data da última sentença condenatória recorrível como marco de contagem para fins de aquisição de benefícios futuros. O acórdão foi assim sintetizado (fls. 50/51):
+No caso dos autos, o apenado sofreu nova condenação no curso da execução, sendo o remanescente das penas superior a 08 (oito) anos. Com a unificação das penas, o Juízo da execução fixou como data efetiva para o cálculo da benesse progressiva o dia do primeiro recolhimento (11/03/2006).
+Sem embargo dos fundamentos adotados pelo d. Juízo das Execuções, o fato é que o tema se encontra pacificado neste Órgão e nos Tribunais Superiores. O marco inicial para a concessão de novos benefícios deve ser o dia 05/04/2016, data em que a última condenação transitou em julgado, conforme entendimento jurisprudencial firmado pelos Tribunais Superiores.
+Ante o exposto, dou provimento ao recurso para fixar o dia 05/04/2016 como data-base para a concessão de novos benefícios ao agravado [NOME].
+É como voto.
+Entretanto, tal questão foi submetida a julgamento pela Terceira Seção, no REsp 1.557.461/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, na sessão de 22/2/2018, oportunidade em que se firmou a orientação de que a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem, adotando-se, assim, como data-base da unificação a data da prisão, única ou última, nos termos da seguinte ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido.
+(REsp 1557461 / SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018, grifei).
+Ante o exposto, dou provimento ao recurso especial, a fim de que seja estabelecida, como data-base para a concessão de novos benefícios, a data da prisão do recorrente, última ou única.
+Publique-se.
+Intimem-se.
