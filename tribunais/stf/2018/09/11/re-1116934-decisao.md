@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário remetido ao Tribunal de Justiça da Paraíba para que se cumprisse o disposto no art. 1.036 do CPC/1973, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo Tema 784 do Plenário Virtual, cujo paradigma é o RE-RG 837.311, rel. Min. Luiz Fux. (eDOC 9)
+    Encaminhados os autos ao Tribunal de origem, sua Presidência entendeu que a discussão não se amolda ao paradigma indicado. (eDOC 21).
+    Após detida análise dos autos, observo que a matéria, do modo como é trazida na petição de recurso extraordinário, é diversa do citado paradigma.
+    Nesses termos, torno sem efeito a decisão constante do eDOC 9 e passo à apreciação do recurso.
+    Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça da Paraíba, assim ementado:
+    “MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EDITAL Nº 001/2008 DO TRIBUNAL DE JUSTIÇA DA PARAÍBA. PREVISÃO EXPRESSA DE PROVIMENTO DE CARGOS VAGOS E DOS QUE VIESSEM A SURGIR NO PRAZO DE VALIDADE DO CERTAME. INFORMAÇÕES DESTA CORTE ATESTANDO A EXISTÊNCIA DE CLARÕES. NÚMERO SUFICIENTE A ALCANÇAR A POSIÇÃO DOS IMPETRANTES. DIREITO SUBJETIVO À NOMEAÇÃO. RESPEITO INCONDICIONAL ÀS NORMAS EDITALÍCIAS. PROTEÇÃO DA CONFIANÇA. ALEGAÇÃO INFUNDADA E INJUSTIFICADA DE ÓBICES DE ORDEM FINANCEIRA PARA A CONTRATAÇÃO DE PESSOAL. CONCESSÃO DA ORDEM MANDAMENTAL”. (eDOC 5, p. 93)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 37, IV; e 169, § 1º, do texto constitucional.
+    Nas razões recursais, argumenta-se, em suma, que a aprovação em concurso público gera mera expectativa de direito aos candidatos, e que no caso não se logrou demonstrar que teria havido preterição. (eDOC 5, p. 180)
+    Sustenta-se, igualmente, que limitações orçamentárias e financeiras do Estado impediriam as nomeações. (eDOC 6, p. 1)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos e interpretar cláusulas do edital, consignou que os candidatos aprovados teriam direito às vagas que surgissem durante o prazo de validade do concurso. Nesse sentido, extraem-se os seguintes trechos do acórdão impugnado:
+    “Nesses termos, o certame realizado, por expressa opção da Administração desta Corte, teve como objetivo o preenchimento dos cargos vagos previamente indicados, bem como daqueles que viessem a surgir no seu quadro de pessoal no prazo de validade do concurso.
+    Possível concluir que o próprio instrumento editalício previu como regra de preenchimento dos cargos ofertados que, surgindo ‘novas vagas’, seja em razão da criação de novos clarões mediante lei, seja em virtude de vacância decorrente de desistência, exoneração, demissão, aposentadoria, posse em outro cargo inacumulável ou falecimento, os aprovados seriam nomeados”. (eDOC 5, p. 97)
+    “Imperiosa a conclusão de que, diante da existência de vagas, a mera expectativa de direito convolou-se em direito subjetivo à nomeação, não havendo que se falar em conveniência e oportunidade da Administração para a prática de tal ato, máxime quando o prazo de validade do certame já expirou”. (eDOC 5, p. 99)
+    Assim, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIAS DO EDITAL. PREENCHIMENTO DOS REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 279 DO STF. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. ÓBICE DA SÚMULA Nº 454 DO STF. AGRAVO REGIMENTAL DESPROVIDO”. (ARE-AgR 878625, rel. Min. Luiz Fux, Primeira Turma, DJe 16.6.2015)
+    “Agravo regimental no recurso extraordinário. Administrativo. Concurso público. Candidato aprovado dentro do número de vagas previsto no edital. Direito à nomeação. Prazo de validade. Cláusulas editalícias. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. O Plenário do STF, ao apreciar o mérito do RE nº 598.099/MS-RG, Relator o Ministro Gilmar Mendes, concluiu que o candidato aprovado em concurso público dentro do número de vagas previsto no edital tem direito subjetivo à nomeação. 2. Não se presta o recurso extraordinário para a análise de cláusulas de edital de concurso, tampouco para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 454 e 279/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei nº 12.016/09)”. (RE-AgR 859.937, rel. Min. Dias Toffoli, Segunda Turma, DJe 5.5.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 11 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
