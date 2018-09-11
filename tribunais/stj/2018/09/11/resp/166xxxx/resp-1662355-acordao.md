@@ -1,0 +1,88 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CAUTELAR. EXIBIÇÃO DE DOCUMENTOS. DOCUMENTO COMUM. CONTRATO. CITAÇÃO DE TODOS OS CONTRATANTES. LITISCONSÓRCIO NECESSÁRIO. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A controvérsia gira em torno de definir se todos aqueles que fazem parte de um contrato cuja exibição se requer são litisconsortes passivos necessários em ação cautelar de exibição de documentos.
+3. O conceito de documento comum, previsto no art. 844, II, do CPC/1973, não se limita àquele pertencente a ambas as partes, mas engloba também o documento sobre o qual as partes têm interesse comum. Precedente.
+4. Uma vez reconhecido o direito da parte ao exame do documento comum, pode exercê-lo em relação a quem o detenha.
+5. Na ação cautelar em que se pede a exibição de contrato, não há propriamente interferência na esfera jurídica dos contratantes, pois ainda inexiste lide acerca dos termos do ajuste, não sendo o caso de litisconsórcio necessário.
+6. Recurso especial não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, negar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro (Presidente), Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de recurso especial interposto por PETRÓLEO BRASILEIRO S.A. - PETROBRAS, com fundamento na alínea "a" do permissivo constitucional, impugnando acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"AGRAVO INOMINADO EM APELAÇÃO CÍVEL. AGRAVO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE NEGOU SEGUIMENTO AO RECURSO. APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. AUTORA QUE ERA SÓCIA DE EMPRESA QUE CELEBROU CONTRATO COM A RÉ. CONDENAÇÃO DA AUTORA A RESSARCIR GASTOS COM DANOS AMBIENTAIS ORIUNDOS DO CONTRATO. PLEITO DE EXIBIÇÃO DE ADITIVO E ATA DE REUNIÃO. SENTENÇA DE PROCEDÊNCIA. AGRAVO RETIDO NÃO PROVIDO. PRETENSÃO AUTORAL QUE SE ENQUADRA NA HIPÓTESE DO INCISO II DO ART. 844 DO CPC, NA MEDIDA EM QUE O DOCUMENTO É COMUM ÀS PARTES, POIS AMBAS TIVERAM PARTICIPAÇÃO NA SUA FORMAÇÃO. ENTENDIMENTO DESTE E. TRIBUNAL ACERCA DO TEMA. R. SENTENÇA QUE SE MANTÉM. RECURSO MANIFESTAMENTE IMPROCEDENTE. AUSÊNCIA DE ARGUMENTO NOVO QUE JUSTIFIQUE A REVISÃO DO JULGADO. NEGA-SE PROVIMENTO AO RECURSO (fl. 516, e-STJ).
+No recurso especial, a recorrente alega violação do artigo 47 do Código de Processo Civil de 1973 (CPC/1973).
+A recorrente sustenta que a sociedade Azevedo e Travassos Petróleo S.A. - ATP deveria compor a lide, pois foi parte no contrato cuja exibição é requerida, constituindo-se em litisconsorte necessário. Ressalta que a exibição de um contrato depende de que todos os participantes integrem a lide, sob pena de nulidade.
+Assevera não possuir os documentos reivindicados pela recorrida, fato que reforça a necessidade de a ATP ser integrada ao processo.
+Lembra ser requisito da ação de exibição de documentos que o documento seja próprio ou comum às partes. No caso, o documento cuja exibição se pretende refere-se tão somente à recorrente e à sociedade Azevedo e Travassos Petróleo S.A. Ressalta, no ponto, não se poder confundir a figura do sócio, no caso da ex-sócia, com a da pessoa jurídica.
+Esclarece ser a recorrida, Paranapanema, ex-sócia da ATP, não tendo participado do contrato que, inclusive, contém cláusula de confidencialidade, não apenas de seus termos, mas de todos os fatos dele decorrentes, até mesmo reuniões.
+Aduz, ademais, tratar o artigo 357 do CPC/1973 de incidente processual concernente ao procedimento ordinário, inaplicável, pois, à ação cautelar de exibição de documentos, como entendeu a sentença.
+Ao final, requer a reforma do acórdão recorrido.
+Contrarrazões às fls. 575/582 (e-STJ).
+A recorrida afirma que o conhecimento do recurso esbarra na censura das Súmulas nºs 7 e 211/STJ.
+Ressalta ser possível pedir a exibição de documento para qualquer das partes que o firmaram, sem que isso resulte em prejuízo para o outro participante.
+Esclarece ter a ATP Petróleo alterado sua razão social para Koch Petróleo do Brasil Ltda., sociedade que deve ser citada em caso de provimento do recurso.
+Requer a inadmissão do recurso ou seu não provimento.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A controvérsia gira em torno de definir se todas aqueles que fazem parte de um contrato cuja exibição se requer são litisconsortes passivos necessários em ação cautelar de exibição de documentos.
+1. Breve histórico
+Trata-se, na origem, de ação cautelar de exibição de documentos ajuizada por Paranapanema S.A. contra Petrobras S.A. afirmando a autora ter sido sócia da empresa Azevedo e Travassos Petróleo S.A. (ATP), sociedade que firmou contrato de prestação de serviços de exploração de petróleo, com cláusula de risco, com a Petrobras, relativamente à área denominada Campo do Noroeste do Morro Rosado, no Rio Grande do Norte, em 1982.
+Relata ter sido constatada, em maio de 1997, a existência de um vazamento de óleo na linha de surgência do poço número 11 (onze), fato tratado em reunião realizada entre representantes da ATP e da Petrobras, intitulada de Maximum Efficiency Recovery (MER).
+Alguns meses depois de reparado o vazamento, em 15.9.1997, a Petrobras transferiu a operação dos campos de petróleo à ATP mediante aditivo ao contrato de risco de exploração.
+A ATP tinha duas acionistas, a Mamoré Mineração e Metalurgia Ltda. e a ora recorrente, Paranapanema S.A., as quais venderam a totalidade de suas ações às sociedades Koch Industries Inc. e Koch Exploration Brasil LL.
+Após a mencionada venda, foi constatada a existência de dano ambiental decorrente daquele anterior vazamento de óleo, tendo a Koch reparado os danos e instaurado procedimento arbitral contra as acionistas da ATP, visando à recomposição das perdas e danos sofridas.
+Por força da sentença arbitral, afirma a autora (recorrida) ter efetuado o ressarcimento dos valores despendidos pela Koch.
+Diante desse quadro, a autora pretende obter a exibição do aditivo ao contrato de prestação de serviços para exploração de petróleo com cláusula de risco e da ata da reunião técnica intitulada Maximum Efficiency Recovery (MER) de modo a analisar as providências tomadas para a correção do vazamento de óleo, motivo pelo qual ingressou com a presente ação.
+O pedido foi julgado procedente para condenar a Petrobras a apresentar os documentos requeridos em envelope lacrado, a fim de resguardar o sigilo das informações confidenciais, no prazo de 5 (cinco) dias.
+À apelação interposta pela Petrobras foi negado seguimento, decisão confirmada em agravo regimental.
+Sobreveio, então, o presente recurso especial.
+2. Da violação do artigo 47 do Código de Processo Civil de 1973
+A recorrente sustenta que a sociedade Azevedo e Travassos Petróleo S.A. - ATP deve compor a lide, pois foi parte no contrato cuja exibição é requerida, constituindo-se em litisconsorte necessário. Ressalta que a exibição de um contrato depende de que todos os participantes integrem a lide, sob pena de nulidade.
+Cumpre assinalar, de início, que apesar de a parte fazer diversas alegações, o único dispositivo apontado como violado é o artigo 47 do Código de Processo Civil de 1973.
+Colhe-se dos autos não ter a requerida participado diretamente da elaboração do documento cuja exibição pretende que lhe seja deferida. Na realidade, era sócia de uma das pessoas jurídicas signatárias do ajuste, como aponta a recorrente. No entanto, o conceito de documento comum não se limita àquele pertencente a ambas as partes, mas engloba também o documento sobre o qual as partes têm interesse comum.
+Veja-se a doutrina de Ovídio A. Baptista da Silva:
+"(..)
+A doutrina do documento comum, como observa LA CHINA, conduziu ao estabelecimento do pressuposto do interesse comum para a ação de exibição de documento. A partir desta nova construção doutrinária, passou a ter relevância para a ação não mais o fato de ser comum o documento, e sim a afirmação de ter o requerente, que pretende vê-lo exibido, interesse comum em seu conteúdo". (Curso de Processo Civil. Vol. 3. Processo Cautelar. 3ª ed. São Paulo: Editora Revista dos Tribunais, 2000, pág. 280 - grifou-se)
+Ainda sobre o tema, a lição de Humberto Theodoro Júnior:
+"(..)
+Diante dos requisitos do art. 844, nº II, não é todo e qualquer documento que se pode pretender seja exibido: o documento há de ser próprio, isto é, pertencente ao autor, ou comum, ou seja, ligado a uma relação jurídica de que participe o autor.
+Documento comum não é, assim, apenas o que pertence indistintamente a ambas as partes, mas também o que se refere a uma situação que envolva ambas as partes, ou uma das partes e terceiro". (Curso de Direito Processual Civil. Vol. II. Rio de Janeiro: Forense, 2012, pág. 605 - grifou-se)
+No caso dos autos, a recorrida foi condenada a reparar os danos ambientais causados por vazamento de petróleo na área denominada Noroeste do Morro Rosado, sendo os documentos cuja exibição pretende relativos às providências adotadas para a correção do referido vazamento, como destaca o aresto recorrido:
+"(..)
+In casu, a presente medida cautelar objetiva que a ré exiba documentos referentes a contrato de prestação de serviços para exploração de petróleo na área denominada Noroeste do Morro Rosado. Isso porque a autora foi condenada, por sentença arbitral, a ressarcir os valores despendidos para a reparação de danos ambientais nessa área. A demanda objetiva a exibição de documentos para uma análise das providências adotadas para a correção do vazamento de óleo na área, bem como a extensão da responsabilidade pelos danos causados.
+(..)
+Com efeito, à época da celebração do contrato a autora era sócia da empresa ATP e foi condenada a ressarcir os gastos da reparação dos danos ambientais oriundos do contrato, não sendo estranha à relação processual. Logo, possui interesse em obter os termos dos documentos referentes ao caso" (fl. 486, e-STJ).
+Observa-se, desse modo, que os documentos pretendidos pela autora podem servir para discutir os limites de sua responsabilidade pelo dano ambiental ocorrido, ficando evidenciado seu interesse em obtê-lo.
+A propósito:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. CAUTELAR. EXIBIÇÃO DE DOCUMENTO. DOCUMENTO COMUM. ART. 844, II, DO CPC/1973. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Cinge-se a controvérsia a definir se é possível o pedido de exibição cautelar de documento que não pertence ao requerente.
+2. O conceito de documento comum, previsto no art. 844, II, do CPC/1973, não se limita àquele pertencente a ambas as partes, mas engloba também o documento sobre o qual as partes têm interesse comum. Precedente.
+3. Na hipótese dos autos, o documento cuja exibição se pretende influi na relação jurídica material havida entre as partes, servindo de base de cálculo para identificação do valor devido em contrato de cessão de direitos.
+4. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do Código de Processo Civil de 1973 e do Regimento Interno desta Corte, exige comprovação e demonstração da similitude fática entre os casos apontados, o que não ocorreu na hipótese.
+5. Recurso especial conhecido em parte e, nessa parte, não provido."
+(REsp 1645581/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/08/2017, DJe 15/08/2017)
+"RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. DOCUMENTO COMUM. SERVIÇO DE TELEFONIA. DISK AMIZADE. SERVIÇO PRESTADO POR TERCEIRO E COBRADO PELA CONCESSIONARIA DE TELEFONIA. DOCUMENTOS COMUNS EM VIRTUDE DAS RELAÇÕES JURÍDICAS COLIGADAS. NEGATIVA DE EXIBIÇÃO. MULTA COMINATÓRIA. IMPOSSIBILIDADE (SÚMULA 372/STJ). PRESUNÇÃO DE VERACIDADE. INAPLICABILIDADE. BUSCA E APREENSÃO, SEM PREJUÍZO DA RESPONSABILIDADE POR CRIME DE DESOBEDIÊNCIA (ART. 362 DO CPC).
+1. O Art. 844 do Código de Processo Civil ao tratar da ação cautelar de exibição estabelece que "tem lugar, como procedimento preparatório, a exibição judicial:  ..  II - de documento próprio ou comum, em poder de co-interessado, sócio, condômino, credor ou devedor; ou em poder de terceiro que o tenha em sua guarda, como inventariante, testamenteiro, depositário ou administrador de bens alheios".
+2. O "documento comum" a ser objeto de exibição não se limita necessariamente aos pertencentes ao requerente da medida, alcançando também aqueles referentes as relações laterais que digam respeito a seus interesses.
+3. No caso, há um elo direto nas obrigações pactuadas, cujos efeitos são totalmente interligados, havendo uma relação concertada entre a empresa de telefonia e a prestadora do "Disk Amizade" no tocante à disponibilização e cobrança dos serviços, sendo coligadas economicamente, integrantes de um mesmo e único negócio por ação conjunta, havendo conexão e entrelaçamento de suas relações jurídicas.
+4. Os contratos coligados são aqueles que, apesar de sua autonomia, se reúnem por nexo econômico funcional, em que as vicissitudes de um podem influir no outro, dentro da malha contratual na qual estão inseridos. "Por força de disposição legal, da natureza acessória de um deles ou do conteúdo contratual (expresso ou implícito), encontram-se em relação de dependência unilateral ou recíproca" (MARINO, Francisco Paulo de Crescenzo. Contratos coligados no direito brasileiro. São Paulo: Saraiva, 2009, p. 99). Nesse passo e em uma perspectiva funcional dos contratos, deve-se ter em conta que a invalidade da obrigação principal não apenas contamina o contrato acessório (CC, art. 184), estendendo-se, também, aos contratos coligados, intermediário entre os contratos principais e acessórios, pelos quais a resolução de um influenciará diretamente na existência do outro.
+5. "Na ação de exibição de documentos, não cabe a aplicação de multa cominatória." Súmula 372/STJ.
+6. No caso, tanto o magistrado de piso como o Tribunal de Justiça entenderam pela possibilidade de aplicação de multa cominatória pelo não cumprimento da ordem judicial, no importe de R$ 100,00 (cem reais) ao dia. Ocorre que a recorrente se nega a apresentar a documentação, sendo que a cominação da veracidade dos fatos não trará o efeito pertinente ao pleito satisfatório almejado, até porque não articulados ainda todos os fatos de eventual demanda condenatória na petição inicial da medida cautelar. Assim, diante do contexto, a recusa poderá dar ensejo a medida de busca e apreensão, sem prejuízo da responsabilidade por crime de desobediência (CPC, art. 362).
+7. Recurso especial parcialmente provido para afastar a incidência da multa cominatória imposta.
+(REsp 1141985/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/02/2014, DJe 07/04/2014 - grifou-se)
+No que concerne à necessidade de todos os envolvidos na elaboração do documento participarem da lide, pois terão suas esferas jurídicas atingidas pela medida, tratando-se, portanto, de hipótese de litisconsórcio necessário, a questão merece alguma ponderação.
+Com efeito, nos termos do artigo 47 do CPC/1973, há litisconsórcio necessário por disposição de lei ou pela natureza da relação jurídica, ou quando o juiz tiver de decidir a lide de maneira uniforme para todas as partes. Essa última hipótese, segundo a recorrente, seria a do caso em análise.
+Conforme se observa do artigo 844, II, do CPC/1973, o documento próprio ou comum pode ser exigido de um cointeressado, sócio, condômino, credor ou devedor, ou de terceiro, sem a exigência de citação de todos os autores do documento.
+"Art. 844. Tem lugar, como procedimento preparatório, a exibição judicial:
+I - de coisa móvel em poder de outrem e que o requerente repute sua ou tenha interesse em conhecer;
+II - de documento próprio ou comum, em poder de co-interessado, sócio, condômino, credor ou devedor; ou em poder de terceiro que o tenha em sua guarda, como inventariante, testamenteiro, depositário ou administrador de bens alheios;
+III - da escrituração comercial por inteiro, balanços e documentos de arquivo, nos casos expressos em lei."
+Isso porque o que se cogita é o direito da parte de obter o documento requerido. Uma vez reconhecido seu direito ao exame do documento, pode exercê-lo em relação a quem o detenha.
+Não há, nesse momento, interferência na esfera jurídica dos contratantes, ou propriamente a exigência de decisão uniforme em relação a eles, pois inexiste discussão acerca dos termos do ajuste ou de seu alcance, o que poderá ou não ocorrer em futura ação. De fato, em muitas hipóteses, a análise do documento pode levar à conclusão de inexistir lide a ser a proposta.
+A propósito, o comentário de [NOME] e [NOME] acerca do artigo 844 do CPC/1973:
+"(..) Mesmo inexistente vínculo obrigacional entre as partes, se houver exibição do documento e o interessado não encontrar nenhuma irregularidade que lhe autorize a tomada de atitude mais severa contra aquele em cujo desfavor a prova foi produzida, haveremos de reconhecer o caráter satisfativo da medida, que não ensejará nenhuma ação a respeito da qual se possa dizer ter caráter principal". (Código de Processo Civil Comentado e Legislação Extravagante. 12ª ed. São Paulo: Ed. Revista dos Tribunais, 2012, pág. 1.348)
+Nesse contexto, não há falar em litisconsórcio necessário.
+Ante o exposto, nego provimento ao recurso especial.
+É o voto.
