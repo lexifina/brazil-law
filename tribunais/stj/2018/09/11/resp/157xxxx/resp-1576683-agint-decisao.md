@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo SINDICATO DOS SERVIDORES PÚBLICOS FEDERAIS EM SAÚDE TRABALHO PREVIDÊNCIA E SEGURIDADE E AÇÃO SOCIAL DO ESTADO DO PARANÁ, pelo qual requer a reconsideração da decisão desta Relatoria que negou seguimento ao recurso, tendo em vista a incidência da súmula nº 281/STF.
+Alega o agravante, em síntese, que: "diante dos embargos declaratórios opostos contra sua decisão monocrática, o Relator optou por levar a questão à Turma, e esta, apreciando a questão de direito controvertida, reformou a decisão singular, embora sem adotar a fórmula de "conhecimento dos embargos de declaração como agravo regimental", exaurindo claramente a jurisdição ordinária, de modo a permitir o conhecimento do recurso especial interposto sem o óbice da Súmula 281/STF" (e-STJ, fls. 788/789).
+Afiguram se relevantes as alegações, com base no art. 259 do RISTJ, reconsidero a decisão hostilizada.
+Passa-se ao exame do mérito recursal.
+Trata-se de recurso especial interposto pelo SINDICATO DOS SERVIDORES PÚBLICOS FEDERAIS EM SAÚDE TRABALHO PREVIDÊNCIA E SEGURIDADE E AÇÃO SOCIAL DO ESTADO DO PARANÁ, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Paraná julgado em sede de embargos de declaração, assim ementado (e-STJ, fl. 697):
+"EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. CORREÇÃO. DEFERIMENTO DO PEDIDO LIMINAR. POSSIBILIDADE DE MODIFICAÇÃO EM SEDE DE EMBARGOS DECLARATÓRIOS.
+É possível a revogação da liminar concedida em sede de Embargos de Declaração, inexistindo ilegalidade na decisão.
+OMISSÃO. MERA INTENÇÃO DE REAPRECIAÇÃO DA MATÉRIA.
+IMPOSSIBILIDADE POR ESTA VIA.
+PREQUESTIONAMENTO.
+Apreciadas todas as questões postas nos Embargos de Declaração de forma clara, não incorre em contradição, obscuridade ou omissão o acórdão embargado, impondo-se a sua rejeição, pois tal via não se presta à reapreciação da matéria amplamente discutida e julgada no decisum.
+RECURSO PARCIALMENTE ACOLHIDO, SEM EFEITOS INFRINGENTES."
+Em suas razões recursais, a recorrente aponta violação dos arts. 242, 458, II, 527, 535, II e 557, do Código de Processo Civil de 1973; arts. 4º, §§ 2º, 3º e 4º, da Lei nº 11.419 de 2006 e divergência jurisprudencial, sustentando, em síntese, que (a) houve omissão no julgado e, (b) "a aplicação pelo Tribunal a quo do artigo 242 do CPC ao presente caso não se mostra correta, haja vista que desconsidera a existência de norma especial (Lei nº 11.419/06), a qual estabelece que em processo eletrônico apenas a publicação eletrônica é meio válido de intimação das partes, devendo prevalecer neste caso o critério da especialidade e devendo, portanto, ser afastada a intempestividade do agravo de instrumento originário" (e-STJ, fl. 721).
+Apresentadas contrarrazões às fls. 732/743 (e-STJ).
+É o relatório.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Da leitura dos argumentos contidos no acórdão dos embargos declaração, bem como do acórdão que julgou os embargos opostos pela parte ora recorrente, verifica-se que, o Tribunal a quo não se manifestou sobre a alegação da recorrente de que "ainda que este Sindicato tivesse tomado ciência da decisão juntada na sequência 57 dos autos antes da sua efetiva publicação, fato é que o inicio do prazo para o presente agravo de instrumento somente se iniciou com a respectiva intimação da decisão, realizada via Diário de Justiça Eletrônico no dia 09/09/14, nos termos do art. 4º, §§ 2º, 3º e 4º da Lei nº 11.419/06, específico sobre a informatização do processo judicial" (e-STJ, fl. 683).
+De fato, o acórdão recorrido limitou-se a analisar a possibilidade de revogação de liminar concedia em sede de embargos de declaração.
+Em vista disso, o recorrente opôs embargos de declaração requerendo o pronunciamento da Corte local sobre tais pontos, porém, não houve enfrentamento do tema, restando o acórdão omisso, o que determina o reconhecimento da alegada violação ao art. 535 do Estatuto Processual.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar o retorno dos autos à Corte de origem para que se pronuncie sobre os pontos omissos, nos termos da fundamentação acima.
+Em face do reconhecimento da violação ao art. 535, II, do CPC/1973, fica prejudicada a análise das demais questões postas no apelo nobre.
+Publique-se.
