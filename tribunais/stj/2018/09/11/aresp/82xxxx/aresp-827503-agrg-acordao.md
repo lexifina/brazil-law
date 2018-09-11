@@ -1,0 +1,65 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AGRAVO EM RECURSO ESPECIAL INTERPOSTO SEM A JUNTADA DA PROCURAÇÃO E/OU CADEIA COMPLETA DE SUBSTABELECIMENTOS. ENUNCIADO ADMINISTRATIVO 2/2016. REQUISITOS DE ADMISSIBILIDADE DO CPC/73. APLICAÇÃO DA SÚMULA 115/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. A decisão estadual recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016, desta Corte.
+3. Aplicação da Súmula nº 115, do STJ, que estabelece que "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos."
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Marco Buzzi (Presidente), Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual a Presidência desta Corte não conheceu do agravo em recurso especial.
+Sustentou a parte agravante, em breve síntese, que deve ser relativizada a aplicação da Súmula nº 115/STJ, à luz do decidido no AREsp nº 1.213.737, visto que o subscritor do recurso está estampado no timbre da banca com procuração nos autos.
+A parte agravada, regularmente intimada, pugnou pelo não provimento do agravo com aplicação de multa e majoração dos honorários.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pela agravante não têm plausibilidade jurídica para infirmar a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Como salientado, cumpre destacar que a decisão estadual recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016, desta Corte.
+Assim sendo, é assente na jurisprudência deste Superior Tribunal de Justiça a aplicação do enunciado sumular nº 115/STJ, vigente à época, o qual estabelece que é inexistente o recurso interposto às instâncias extraordinárias sem que a representação processual esteja formalmente regularizada no ato da própria interposição:
+Súmula nº 115: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+Ainda, o julgado apontado como paradigma possui particularidades fáticas as quais impossibilitam a exigida similitude entre os julgados, visto que no mencionado AREsp nº 1.213.737 foi superada a aplicação da Súmula nº 115/STJ tão somente em razão da preclusão para aferir a ausência de procuração, que estava ausente desde a interposição do AREsp e foi verificada tão somente após sucessivos julgados meritórios nesta Corte.
+O presente recurso, por outro lado, não foi conhecido justamente em razão da ausência de procuração do subscritor da peça.
+Confiram abaixo os seguintes precedentes:
+EMBARGOS DE DIVERGÊNCIA. PROCESSO CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. INCIDÊNCIA DO VERBETE SUMULAR N.º 115 DO STJ.
+1. Reafirmado o entendimento cristalizado na Súmula n.º 115 desta Corte: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+2. Nas instâncias extraordinárias - diferentemente do que ocorre nas instâncias ordinárias, em que a regra é se permitir o saneamento das irregularidades -, existem restrições inerentes à excepcionalidade das vias recursais dessa natureza. Os requisitos de admissibilidade dos recursos são erigidos, entre outros fatores, como forma de otimizar a atuação jurisdicional das Cortes Superiores, repelindo atos dilatórios.
+3. Embargos de divergência conhecidos, mas rejeitados.
+(EREsp 868.800/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/10/2010, DJe 11/11/2010)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO MANEJADO SOB A VIGÊNCIA DO NCPC. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO CPC/73. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. REGULARIZAÇÃO DO FEITO. NÃO CABIMENTO. ART. 13 DO CPC/73. OBSERVÂNCIA DA PACÍFICA JURISPRUDÊNCIA NA ÉPOCA EM QUE JULGADO O RECURSO ESPECIAL E O AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Como o agravo em recurso especial foi interposto na vigência do CPC/73, deve ser aplicado o entendimento consolidado na Súmula nº 115 do STJ, que vigorava quando de sua interposição, e que prescrevia ser inexistente, na instância especial, recurso interposto por advogado sem procuração nos autos.
+3. O entendimento também era pacífico nesta Corte, no sentido de ser inaplicável, nesta instância, a providência prevista no art. 13 do CPC/73, considerando-se não sanável tal vício por juntada posterior de mandato ou substabelecimento, pois a regularidade da representação processual deveria ser aferida no momento da interposição do recurso.
+4. Agravo interno não provido.
+(AgInt no AREsp 952.021/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/11/2016, DJe 22/11/2016)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA, DA PRESIDÊNCIA DESTA CORTE, MANTENDO A NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL EM RAZÃO DA DESERÇÃO E PELA INCIDÊNCIA DA SÚMULA 115/STJ. INSURGÊNCIA DA AGRAVANTE.
+1. É ônus da parte recorrente o correto preenchimento da Guia de Recolhimento da União - GRU destinada ao pagamento das custas judiciais dos recursos dirigidos ao Superior Tribunal de Justiça, com a indicação dos dados obrigatórios (códigos identificadores, dentre outros previstos nos normativos vigentes à época da interposição), sob pena de deserção. Precedentes.
+2. "Na guia de recolhimento da União (GRU), deve constar, necessariamente, a indicação do número do processo de origem, sob pena de não conhecimento do recurso. Não existindo correspondência entre o número de referência contido na guia de recolhimento e o número do processo sob análise, incide, por analogia, a Súmula n.
+187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos.  .. " (AgRg no AREsp 814.585/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/02/2016, DJe 12/02/2016).
+3. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" - Súmula n.º 115 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 916.180/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 1/12/2016, DJe 07/12/2016)
+No que tange ao pedido de majoração dos honorários advocatícios, à luz do contido no artigo 85, § 11, do novo CPC, destaco que "não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição", nos moldes do enunciado 16, da ENFAM. (AgInt no REsp 1286173/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/9/2016, DJe 22/9/2016).
+Com efeito, verifico que o Tribunal de Justiça do Estado do Rio de Janeiro certificou que o acórdão recorrido foi disponibilizado para publicação no dia 6 de julho de 2015, portanto, na vigência do CPC/73, de modo que incabível a majoração dos honorários advocatícios.
+Nesse sentido, confiram os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - HONORÁRIOS SUCUMBENCIAIS RECURSAIS - AÇÃO DE COBRANÇA DECORRENTE DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS E LOCAÇÃO DE SISTEMA DE IMPRESSÃO JULGADA PROCEDENTE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+(..)
+2. Tal como mencionado no enunciado nº 6 do Plenário do STJ na sessão de 9 de março de 2016, em virtude da irretroatividade da lei, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC", porquanto a parte recorrente estará ciente da norma penalizadora daquele que, de certo modo, pretende apenas protelar o desfecho da demanda face o manejo de reclamos sem chance de êxito. Desta forma, para os recursos interpostos contra deliberação publicada a partir de 18 de março de 2016, data da entrada em vigor do CPC/2015, aplicar-se-á o novo ordenamento normativo, inclusive no que tange à possibilidade de majoração dos honorários estabelecida no artigo 85, § 11.
+3. Quanto à possibilidade de majoração dos honorários sucumbenciais por força da interposição de recurso, nos termos do artigo 85, § 11, do novo CPC/2015, essa somente ocorrerá quando a sucumbência, ou seja, a proporção de vitória/derrota das partes já estiver estabelecida nas instâncias precedentes, tendo-se por certo o desfecho da "disputa judicial" sobre a qual a lei conferiu o direito de honorários advocatícios ao patrono vencedor.
+4. Certamente, não poderá coexistir, em grau recursal, o reconhecimento da sucumbência com a referida majoração dos honorários, tanto por incongruência de procedimento quanto em virtude de a própria lei ter assentado que o acréscimo será dos "honorários fixados anteriormente". Nessa medida, somente no grau recursal imediatamente superior àquele no qual já fixada a sucumbência anterior poderá ocorrer o aumento preconizado pelo § 11 do artigo 85 do NCPC.
+(..)
+7. Agravo interno desprovido, sem a aplicação da majoração dos honorários nos termos do art. 85, § 11, do NCPC. (AgInt no AREsp 829.107/RJ, Rel. p/ Acórdão Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2016, DJe 6/2/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do NCPC (artigo 544, § 4º, I, do CPC/1973).
+2. Conforme entendimento desta Corte: "A interposição de recursos cabíveis não  implica  litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+3. Na linha do decidido pelo STJ, "deixa-se de aplicar honorários sucumbenciais recursais nos termos do enunciado 16 da ENFAM: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)" (..)" (STJ, AgInt no AgRg no REsp 1.200.271/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 17/05/2016).
+4. Agravo interno improvido.
+(AgInt no AREsp 1007013/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/11/2017, DJe 29/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXIBIÇÃO DE DOCUMENTOS. ARTIGO 461 DO CÓDIGO DE PROCESSO CIVIL DE 1973. ASTREINTES. DESCABIMENTO. HONORÁRIOS ADVOCATÍCIOS. VALOR ARBITRADO. RAZOABILIDADE. REEXAME DE PROVA. SÚMULA Nº 7/STJ. MULTA DO ART. 1.021, DO CPC/2015. NÃO CONFIGURAÇÃO. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015. VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+(..)
+4. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça dispõe que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+(AgInt no AREsp 1025941/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/6/2017, DJe 23/6/2017)
+Por fim, em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017).
+Em face do exposto, nego provimento ao agravo interno.
+Intimem-se.
