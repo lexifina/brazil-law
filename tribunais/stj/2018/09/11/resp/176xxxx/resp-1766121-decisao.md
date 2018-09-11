@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. DISSÍDIO JURISPRUDENCIAL. ALEGAÇÃO DE VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. VIOLAÇÃO DO ART. 402 DO CPP. PRINCÍPIO DA LESIVIDADE.
+Agravo conhecido para determinar sua autuação como recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] [NOME] e [NOME] [NOME] contra decisão de inadmissão de recurso especial apresentado contra acórdão proferido no Processo n. 0013438-23.2015.8.26.0114 pela Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que rejeitou os seus embargos de declaração (fls. 701/703).
+Anteriormente, esse órgão julgador havia negado provimento ao apelo defensivo, mantendo [NOME] submetido à pena total de 8 anos de reclusão, em regime fechado, e 1.200 dias-multa, pela prática de condutas descritas nos arts. 33 e 35, ambos da Lei n. 11.343/2006; e [NOME], à pena total de 11 anos de reclusão, em regime fechado, e 1.210 dias-multa, à razão mínima, pela prática de condutas descritas nos arts. 33 e 35, ambos da Lei n. 11.343/2006, e art. 16 da Lei n. 10.826/2003 (fls. 651/659).
+Os ora agravantes interpuseram recurso especial, no qual alegam, em síntese, que o acórdão recorrido estaria em dissídio jurisprudencial, considerando o decidido pelo Superior Tribunal de Justiça no REsp n. 1.621.950/SP, Ministra Maria Tereza de Assis Moura, Sexta Turma, DJe 22/2/2017. Nesse sentido, estaria caracterizado o cerceamento de defesa, pois o requerimento de produção de prova teria sido deferido e posteriormente indeferido de forma arbitrária. A tese da defesa de que os policiais teriam agido de maneira irregular demonstraria a relevância da prova pleiteada.
+Sustentam, outrossim, que a decisão teria vulnerado os arts. 5º, LIV e LV, da Constituição Federal, e os arts. 156, 402 e 616 do Código de Processo Penal, visto que o pedido de diligência teria sido deferido e, sem o devido cumprimento, houve posterior indeferimento, ao fundamento de ter a prova perecido. O requerimento diria respeito ao relatório de itinerário das viaturas.
+Afirmam que o art. 35 da Lei n. 11.343/2006 teria sido contrariado, tendo em conta que o Tribunal local teria entendido pela desnecessidade do ânimo associativo permanente, reconhecendo a associação para a prática de um crime como suficiente para condenar enquadramento no tipo. Não haveria nos autos elementos de que tenham eles se associado ou possuiriam animus associativo.
+Argumentam que teriam sob guarda apenas duas munições desacompanhadas de arma de fogo, devendo os crimes de perigo, principalmente os descritos na Lei n. 10.826/2003, ser interpretados à luz do princípio da lesividade (fls. 666/692).
+Contrarrazões às fls. 709/726.
+O apelo foi obstado na origem por tratar de matéria constitucional, por não demonstração do dissídio jurisprudencial e por demandar reexame de provas (fls. 729/730).
+Os agravantes aviaram, então, o presente agravo, no qual aduzem, em suma, que teria sido apontada vulneração de dispositivo infraconstitucional. Acrescem que o recurso preencheria o requisito da adequação, não cuidando de matéria constitucional, e que o dissídio jurisprudencial teria sido demonstrado. Salientam, ainda, que não pretenderiam reexame de provas, mas arguição de questão federal relevante. Por fim, pedem a análise dos fundamentos, em razão da possibilidade de concessão de habeas corpus de ofício (fls. 733/741).
+Contrarrazões ao agravo em recurso especial às fls. 744/756.
+O Ministério Público Federal opina pelo desprovimento, dada a não demonstração do dissídio jurisprudencial, a inadequação da via para discussão de ofensa à Constituição Federal, a necessidade de reexaminar provas e a falta de prequestionamento (fls. 769/772).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Diante da relevância do tema versado e das circunstâncias que envolvem a controvérsia, determino a conversão do presente agravo em recurso especial para melhor exame da matéria.
+Pelo exposto, com fundamento nos arts. 34, XVI, e 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Dê-se nova vista ao Ministério Público Federal.
+Publique-se.
