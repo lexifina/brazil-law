@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina (HC 40208479820188240900) - fl. 40:
+HABEAS CORPUS. PACIENTE CONDENADO PELA PRÁTICA DO CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES (ARTS. 33, CAPUT, DA LEI N. 11.343/06). DECISÃO QUE INDEFERIU O DIREITO DO RÉU RECORRER EM LIBERDADE. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO. ILEGALIDADE INEXISTENTE. PACIENTE PRESO DURANTE TODA INSTRUÇÃO. MANUTENÇÃO DA PRISÃO PREVENTIVA COM REMISSÃO AOS FUNDAMENTOS ANTERIORES. POSSIBILIDADE. PRESSUPOSTOS DA PREVENTIVA CONFIRMADOS POR RECENTE DECISÃO DESTE TRIBUNAL DE JUSTIÇA. IMPOSIÇÃO DE PENA NO REGIME SEMIABERTO. NECESSIDADE DE EXPEDIÇÃO DE PEC PROVISÓRIO PARA QUE O PACIENTE NÃO PERMANEÇA RECOLHIDO A REGIME MAIS SEVERO QUE O FIXADO NA SENTENÇA. ORDEM PARCIALMENTE CONCEDIDA.
+Verifica-se dos autos que o paciente foi condenado, como incurso no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 4 anos e 2 meses de reclusão, no regime inicial semiaberto, além do pagamento de 417 dias-multa (Ação Penal n. 00047608120188240045) - 1ª Vara Criminal da Comarca de Palhoça/SC.
+Alega-se que o fato de ter sido aumentada a pena, no julgamento dos embargos de declaração opostos pelo Ministério Público, não justifica a segregação do paciente, pois não é a quantidade de pena que é levada em consideração para aferir tal beneficio, caso contrário estaríamos falando em antecipação de cumprimento de pena sem que se tenha decisão de segundo grau.
+Afirma-se, por outro lado, que os embargos foram específicos no que consistia a contradição, razão pela qual não poderia o Juízo fazer outros reparos na sentença.
+Requer-se com o presente writ seja garantido ao paciente o direito de recorrer em liberdade.
+É o relatório.
+A apontada ilegalidade não ficou evidenciada dos autos.
+O acórdão impugnado esclarece que o aumento da pena fixada anteriormente na sentença decorreu do reconhecimento de simples erro material na dosimetria da pena, quando o Magistrado aplicou a fração de 1/3, ao invés de 1/6, como causa de redução prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Ultrapassando a pena definitiva 4 anos de reclusão, regular o ajuste do regime prisional inicial para o semiaberto (art. 33, §2º, b, do CP), tendo o Juízo ressaltado que a consideração do período que o paciente ficou preso provisoriamente não ensejaria a alteração para regime mais benéfico (fl. 35).
+Ademais, o próprio acórdão impugnado já concedeu a ordem parcialmente para garantir que o paciente não cumpra pena em regime mais gravoso do que o previsto na sentença. Também esclarece o acórdão que a idoneidade da fundamentação da decisão que decretou a prisão cautelar já foi reconhecida no Tribunal estadual há menos de um mês (fl. 45).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
