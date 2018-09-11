@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+EXECUÇÃO DE CONTRATO PRELIMINAR AJUSTAMENTO DE PARTILHA INVENTÁRIO ENCERRADO, COM PARTILHA REALIZADA EM MOLDES DIFERENTES DO ANTERIORMENTE PROJETADO AQUIESCÊNCIA DE TODOS OS HERDEIROS NOVAÇÃO CONFIGURADA PERDA DA EXECUTIVIDADE DO TÍTULO PRIMITIVO EMBARGOS ACOLHIDOS - SENTENÇA MANTIDA RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 360 do Código Civil, 489, §1º, IV, 783, caput, e 1.022, II, parágrafo único, II, do CPC/2015.
+Alega omissão no acórdão recorrido. Sustenta a liquidez do título e a inexistência de novação, arguindo que o aditamento ao pacto se deu no momento em que feito o inventário e que ficou convencionado o pagamento da quantia mensal de R$ 10.000,00 (dez mil reais) ao recorrente a título de antecipação nos dividendos das empresas ou holdings. Afirma que o recorrido reconheceu a obrigação pagando o valor mensal de R$ 10.000,00 até o mês de julho de 2014. Assevera que o pacto familiar foi extinto e não o aditamento ao pacto que traz a obrigação do recorrido.
+Contrarrazões ao recurso especial às fls. 559-565.
+É o relatório. Decido.
+2. De início, resguardado de qualquer ofensa estão os artigos 489, §1º, IV, e 1.022, II, parágrafo único, II, do CPC de 2015, haja vista que a ofensa somente ocorre quando o acórdão deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é complementar o acórdão quando nele identificar omissão, ou, ainda, aclará-lo, dissipando obscuridade ou contradição.
+Na espécie, a Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, não há falar, no caso, em negativa de prestação jurisdicional. Destaco que se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ-FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+ ..
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1608804/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 27/10/2016).
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA ESTUDANTE UNIVERSITÁRIA. PRORROGAÇÃO DO BENEFÍCIO ATÉ OS 24 ANOS. IMPOSSIBILIDADE. APLICAÇÃO DA LEI Nº 9.717/98. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA 7/STJ. OMISSÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Afasta-se a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1220599/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+____________
+3. Quanto à violação aos demais dispositivos legais, a parte recorrente alega a liquidez do título, a inexistência de novação, bem como que não foi extinto o aditamento ao pacto que traz a obrigação do recorrido.
+Por outro lado, a Corte local, com base nos elementos fático-probatórios dos autos e na interpretação do contrato preliminar, concluiu pela iliquidez do título e novação da obrigação, consignando a extinção do contrato preliminar que previa o direito de crédito executado pelo recorrente, com a seguinte fundamentação (fls. 512-514):
+"Do exame dos autos, logo se verifica que a execução objeto desses embargos funda-se no ajuste preliminar firmado pelos herdeiros de [NOME], mais especificamente na sua cláusula terceira, verbis:
+ ..
+Consta-se, ainda, que referido inventário já se encontra encerrado desde 12 de junho de 2013. Certo que, nessa mesma data, foi o denominado"pacto familiar" modificado.
+No novo há mais referência a inventário, tampouco, de pagamentos ou obrigações exigíveis independente da constituição de holdings ou empresas familiares; fala-se apenas ao direito do herdeiro [NOME] em ter uma retirada mensal da ordem de R$ 10.000,00 (dez mil reais), a título de antecipação dos lucros ou dividendos que lhes couberem nas holdings ou empresas que figurar como sócio.
+Ressalto que o pacto familiar teve como principal objetivo a perpetuação dos bens da família. Fato e circunstância também reconhecidos na sentença, como se pode ver dos trechos que seguem:
+ ..
+Não bastasse a manifesta iliquidez do título alterado, força aceitar que o contrato preliminar acabou perdendo toda a sua força executiva, posto que dos contratos principais, celebrados pelas partes contratantes não restou preservada a cláusula, que assegurava ao embargado os direitos aos créditos por ele executados, acerca do que, à evidência, operou-se a novação. E esta constitui, também, causa de extinção de pré-contrato.
+Certo que, concluído o contrato principal, desapareceu a pretensa obrigação provisória, resultante, do contrato preliminar, dando lugar, entre as partes, a relação jurídica final (REGINA GONDIM, In CONTRATO PRELIMINAR, 1958, pág. 143), pacificamente cumprida pelas partes contratantes."
+Desse modo, constata-se que o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas, bem como a interpretação de cláusulas contratuais, o que é defeso nesta instância especial ante os óbices das Súmulas 5 e 7/STJ, impedindo o conhecimento do recurso.
+4. Ante o exposto, nego provimento ao agravo, majorando os honorários advocatícios em prol dos patronos da parte ora agravada de 15% (quinze por cento)(fl. 515) para 18% (dezoito por cento) sobre o valor atualizado da condenação, nos termos do art. 85, §11, do CPC/2015.
+Publique-se. Intimem-se.
