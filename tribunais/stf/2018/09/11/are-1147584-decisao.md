@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência dos pedidos formulados em embargos à execução. No extraordinário cujo trânsito buscam alcançar, os recorrentes alegam a violação do artigo 5º, inciso LV, da Constituição Federal. Arguem a nulidade do processo por afronta ao devido processo legal. Aludem à necessidade de perícia técnica para demonstração dos excessos e das ilegalidades contidas no contrato, sob pena de enriquecimento ilícito dos recorridos.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, colho do acórdão recorrido os seguintes trechos:
+    Estatui o artigo 130 do CPC que "caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias".
+    A apelante simplesmente alegou excessividade na execução, pretendendo a realização de perícia. Na verdade tal alegação é genérica, sem indicação dos indícios de irregularidades ou excessos, o que não se! admite nos termos do artigo 302 do CPC/1973, vigente à época do julgamento. Tampouco impugnou os lançamentos constantes dos demonstrativos de débito que instruíram; a execução, cujas cópias foram juntadas às fls. 57/58 e fls. 71/72.
+    Ciente dos encargos contratuais, a apelante poderia ter trazido elementos sérios que apontassem erros na cobrança perpetrada pelo apelado. Bastaria à recorrente ter instruído sua defesa com cálculo preciso e discriminado da evolução do débito segundo as taxas de juros remuneratórios e encargos moratórios devidos, deixando de se desincumbir do ônus da prova (artigo 333, inciso I, do CPC/1973).
+    Note-se ainda que os fundamentos dos pedidos especificados na inicial estão relacionados a questões reiteradamente examinadas tanto por esta Corte quanto pelo C. Superior Tribunal de Justiça, inclusive em recurso representativo de controvérsia, de maneira que, a prova documental e os contornos da lide já permitiam solução da questão.
+    De resto, o Tribunal, no recurso extraordinário com agravo nº 639.228/RJ, consignando a natureza infraconstitucional da questão, concluiu não ter repercussão geral o tema relativo à suposta ofensa aos princípios da ampla defesa e do contraditório quando o juiz indefere pedido de produção de provas.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 11 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
