@@ -1,0 +1,3 @@
+LEI Nº 8.041, DE 6 DE SETEMBRO DE 2018.
+
+DISPÕE SOBRE A INSTITUIÇÃO DE POLÍTICA ESTADUAL DE AGROECOLOGIA E PRODUÇÃO ORGÂNICA. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
