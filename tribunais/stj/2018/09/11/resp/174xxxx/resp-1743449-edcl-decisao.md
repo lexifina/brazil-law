@@ -1,0 +1,20 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por AQUINOR - AGRICULTURA DO NORDESTE LTDA. contra a decisão de fls. 717-722, que não conheceu do recurso especial.
+Em suas razões, sustenta a parte embargante, em síntese, que se constata omissão na decisão recorrida, pois não houve análise integral da tese jurídica proposta em recurso especial.
+Acrescenta:
+Dessarte, mister se faz evidenciar que o v. Julgado em tela enfrentou a questão jurídica como se esta o fosse relacionada à hipótese de suspeição em função da identidade de partes.
+Entrementes, a tese jurídica suscitada detém, como objeto jurídico, a análise da suspeição não apenas por decorrência da identidade de partes em uma e outra ação.
+Mas, também, pela existência de continência processual entre o objeto jurídico de uma ação, em relação à outra.
+É o relatório. Decido.
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+3. Consta da decisão ora embargada o seguinte:
+a) Não há no art. 145 do CPC/2015 qualquer norma que tangencia a tese proposta pela ora insurgente, de que os motivos que ensejaram a declaração de suspeição em um processo devem ser transportados para outros feitos em que figurem as mesmas partes. O referido dispositivo legal não ampara a quaestio iuris defendida pela recorrente, por não trazer conteúdo normativo apto a atingir a questão controvertida objeto da insurgência, motivo pelo qual deve ser aplicado o óbice da Súmula 284/STF, tendo em vista que a deficiência na fundamentação obstou o deslinde do caso;
+b) De acordo com posicionamento do STJ, "As causas ensejadoras da declaração de suspeição por motivo de foro íntimo podem ser reavaliadas pelo magistrado, a quem compete averiguar se elas persistem ou não" (REsp 1.109.148/RJ, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 24/08/2010, DJe 03/09/2010);
+c) A modificação do entendimento alcançado pelo Sodalício de origem, no sentido de reconhecer a suspeição do magistrado, não se mostra cabível nesta instância, porquanto o próprio art. 145, § 1º, do CPC/2015 prevê que poderá o juiz declarar-se suspeito por motivo de foro íntimo, sem necessidade de declarar suas razões;
+d) O STJ já se manifestou no sentido de que, mutatis mutandis, "O fato de, em outro julgamento, ter a maioria do pleno do Tribunal a quo afirmando suspeição não conduz automaticamente à conclusão de que no feito anteriormente julgado entre as mesmas partes tais suspeições eram idênticas e obrigatórias (AR 2.029/SE, Rel. Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 12/11/2008, DJe 03/12/2008);
+e) Estando o acórdão recorrido em consonância com a orientação firmada nesta Corte Superior, o recurso especial não merece ser conhecido, ante a incidência da Súmula 83/STJ.
+Com efeito, nota-se que no presente caso não há omissão a ser sanada, tampouco qualquer outro vício a ensejar embargos de declaração, de modo que todos os pontos necessários ao desate da controvérsia foram abordados, de forma coerente e lógica.
+4. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos de declaração.
+Desse modo, ressalta-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto pelas razões acima delineadas.
+5. Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
