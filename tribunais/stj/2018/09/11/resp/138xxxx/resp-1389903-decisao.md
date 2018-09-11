@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. INCLUSÃO NO PROGRAMA "FINANCIAMENTO DE RECEBÍVEIS DO AGRONEGÓCIO - FRA. VIOLAÇÃO DE RESOLUÇÕES DO BACEN. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. MULTA DIÁRIA. CABIMENTO. VALOR EXCESSIVO NÃO CARACTERIZADO.
+1. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Alterar o decidido no acórdão impugnado, no que se refere à oferta de garantia válida pelos recorridos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Tratando-se de provimento judicial que impõe à parte obrigação de fazer, é cabível a fixação da multa prevista no art. 461 do CPC/73 como instrumento coercitivo. Precedentes.
+6. A alteração do valor fixado a título de multa estabelecida pelo descumprimento de ordem judicial somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada, do que não cuida a hipótese dos autos.
+7. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto pelo BANCO DO [NOME] S/A, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 05/04/2013.
+Atribuído a esta Relatora em: 25/08/2016.
+Ação: de obrigação de fazer, ajuizada por [NOME], em face do recorrente e da empresa fornecedora de insumos DU [NOME] DO [NOME] S.A., na qual requerem sua inclusão em programa de refinanciamento de dívida rural oriunda da compra de insumos, denominado Financiamento de Recebíveis do Agronegócio - FRA.
+Sentença: julgou procedente o pedido, para determinar ao recorrente que contrate o financiamento da dívida do recorrido, nos termos da Lei 11.524/2007 e suas regulamentações, no prazo de 10 (dez) dias, sob pena de multa diária de R$ 1.000,00 (mil reais). Excluiu, ainda, a empresa DU [NOME] S.A. do polo passivo do processo, em razão da finalização de sua participação no procedimento de refinanciamento.
+Acórdão: negou provimento à apelação interposta pelo recorrente, por considerar direito subjetivo do produtor rural, e não faculdade da instituição financeira, a inclusão na lista de beneficiários do programa. O aresto foi assim ementado (e-STJ fl. 1214):
+"RECURSO DE APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - PRODUTOR RURAL - INCLUSÃO NO PROGRAMA DE RECEBÍVEIS DO AGRONEGÓCIO - LEI Nº 11.524/2007 - RESOLUÇÕES DO BACEN Nº 3457/2007 E Nº 3507/2007 - REQUISITOS DE ADMISSIBILIDADE PARA O REFINANCIAMENTO - DIREITO SUBJETIVO DO AGRICULTOR - FIXAÇÃO DE MULTA DIÁRIA - POSSIBILIDADE - RECURSO CONHECIDO E DESPROVIDO - SENTENÇA MANTIDA.
+I - É direito subjetivo do agricultor e não faculdade da instituição fmnanceira, a inclusão na lista de beneficiários para concessão de financiamento junto ao operador Banco do [NOME] S.A., observados os requisitos exigidos na Resolução nº 3507/07 do BACEN e o disposto no art. 1º da Lei nº 11.524/07, conforme é a orientação jurisprudencial (Súmula 298 do STJ).
+II - De acordo com o art. 461, § 4º, do CPC, o juiz poderá, em medida liminar ou na própria sentença, impor multa diária ao réu, independentemente de pedido do autor, se for suficiente ou compatível com a obrigação, fixando-lhe prazo razoável para o cumprimento do preceito".
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 461 e 535, II, do CPC/73; 1º a 4º e 9º da Lei 11.524/07; 10, 21 e 26 da Lei 4.829/65, bem como das Resoluções 3.268/2005, 3.224/2004 e 3.507/2007 do BACEN. Além de negativa de prestação jurisdicional, assevera que o Programa de Financiamento de Recebíveis do Agronegócio - FRA apenas autorizou a utilização de recursos de exigibilidade de crédito rural e não sua contratação. Afirma que o FRA não se confunde com a securitização regulamentada pela Lei 9.138/95 e que, portanto, a Súmula 298 do STJ não teria aplicação à hipótese versada nos autos. Sustenta que os recorridos se encontravam inadimplentes e que, portanto, haveria a impossibilidade de se realizar a contratação em razão da ausência dos requisitos legais. Afirma o descabimento da fixação de astreintes, além de se insurgir quanto ao valor fixado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/73.
+- Da violação de Resoluções do BACEN
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 535 do CPC/73
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Nesse sentido, confira-se: AgInt nos EDcl no REsp 1.469.906/MG, 3ª Turma, DJe de 16/02/2018; AgInt no AREsp 808.418/SP, 4ª Turma, DJe de 13/12/2017.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos tidos por omissos (quais sejam: o direito do produtor rural ao financiamento, a incidência da Súmula 298/STJ, a oferta de garantia, a inexistência de impedimento decorrente da inadimplência, o recolhimento a cargo do fornecedor de insumos e a multa diária), de maneira que os embargos de declaração opostos pelo recorrente de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 535 do CPC/73, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos arts. 1º a 4º e 9º da Lei 11.524/07; 10, 21 e 26 da Lei 4.829/65, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à oferta de garantia válida pelos recorridos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da fixação de multa diária
+O Tribunal de origem alinhou-se ao entendimento desta Corte ao entender cabível a fixação de multa diária, por tratarem os autos de obrigação de fazer, consistente na inclusão dos recorridos no programa Financiamento de Recebíveis do Agronegócio - FRA. A propósito, confira-se, com as adaptações necessárias: REsp 1.528.133/PR, 3ª Turma,DJe de 15/06/2018; AgInt no AREsp 966.637/SP, 4ª Turma, DJe de 22/03/2018; AgInt no AREsp 235.268/RJ, 4ª Turma, DJe de 18/12/2017.
+- Do pedido de revisão do valor da multa diária
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de astreintes somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo, ante a evidente proporcionalidade entre a obrigação imposta ao recorrente e o valor econômico da presente ação.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
