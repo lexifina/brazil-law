@@ -1,0 +1,8 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Amapá, assim ementado:
+    “CIVIL E PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE INDENIZAÇÃO. INÉPCIA DA PETIÇÃO INICIAL. CERCEAMENTO DE DEFESA E FORMAÇÃO DE LITISCONSÓRCIO PASSIVO. PRELIMINARES REJEITADAS. CHEIA DO RIO ARAGUARI. TERMO DE AJUSTAMENTO DE CONDUTA. DANOS MATERIAIS. INDENIZAÇÃO PRÉVIA. PRETENSÃO INDENIZATÓRIA PROCEDENTE. 1) A petição inicial preenche todos os requisitos, narrando fatos e conclusões que oportunizaram à ré, ora apelante, amplas condições de se defender, o suficiente para o processamento da demanda, não prosperando a alegação de inépcia. 2) O pedido deduzido na demanda consiste no efetivo cumprimento dos termos do TAC, pelo qual a empresa apelante se obrigou a indenizar previamente as pessoas prejudicadas pela cheia do Rio Araguari, não se revelando prova técnica imprescindível para o cumprimento da obrigação assumida. 3) O TAC celebrado não possui disposições que imponham a integração das empresas citadas pela apelante no polo passivo, afastando a alegada necessidade de formação de litisconsórcio. 4) A pretensão indenizatória é procedente, diante das provas de ter sido o autor/apelado prejudicado pelo lamentável evento. 5) Apelo desprovido.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 11 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
