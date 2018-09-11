@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul no HC n. 0203167-07.2018.8.21.7000, que manteve a prisão cautelar de [NOME], no qual requer a expedição de alvará de soltura sob a alegação de excesso de prazo para a formação da culpa.
+Narram os autos que o recorrente, denunciado - ao lado de [NOME] - pela suposta prática dos delitos previstos no art. 121, § 2º, I e III e IV, c/c art. 29, caput, e art. 14, II, todos do Código Penal, na forma da Lei n. 8.072/1990 e dos arts. 14 e 16, parágrafo único, IV, ambos da Lei n. 10.826/2003, na forma do art. 70 do Código Penal, teve a prisão em flagrante convertida em preventiva no dia 18/11/2017.
+Estes autos foram a mim distribuídos por prevenção do RHC n. 101.400/RS
+É o relatório.
+O deferimento de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano.
+E, neste juízo de cognição preliminar, sem um exame mais pormenorizado dos elementos que instruem o feito, não há como afastar a conclusão da Corte local de que, embora a prisão preventiva já perdure por, aproximadamente, 9 meses, não pode tal tempo transcorrido ser admitido como clara mora estatal desarrazoada, assim como não se vislumbra comportamento desidioso da magistrada singular (fl. 113). É o que se infere, ademais, das informações trazidas às fls. 92/93 - grifo nosso:
+ ..  A prisão cautelar dos acusados foi decretada para garantir a ordem pública e a instrução penal, permanecendo inalterados os argumentos que ensejaram o decreto preventivo. Registro que das 8 testemunhas de acusação arroladas, faltam apenas três a serem inquiridas, passando-se então a ouvidas as testemunhas de defesa e os interrogatórios, ou seja, a instrução encontra-se em regular trâmite, não há qualquer desídia na tramitação da persecução penal; ao revés, trata-se apenas de atos inerentes ao caso em tela o que afasta o alegado constrangimento ilegal por excesso de prazo  ..
+Com essas considerações, não tendo, por ora, como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar pretendida, indefiro-a.
+Solicitem-se informações, no prazo de 20 dias, por malote digital, ao Juízo da Vara do Júri da comarca de Novo Hamburgo/RS a respeito da atual situação do recorrente e dos Autos n. 0037744-20.2017.8.21.0019.
+Depois de prestadas, ouça-se o Ministério Público Federal.
+Publique-se.
