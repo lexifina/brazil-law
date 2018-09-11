@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo manejado por Frigorífico Avícola Guaranta LTDA., contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 245):
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA SOBRE O FATURAMENTO. CUMPRIMENTO DOS REQUISITOS LEGAIS. EXAUSTÃO DE OUTRAS DILIGÊNCIAS PATRIMONIAIS. PERCENTUAL RAZOÁVEL DE 5%. AGRAVO DE INSTRUMENTO DESPROVIDO.
+I. A incidência de penhora sobre o faturamento depende de que outras diligências patrimoniais tenham fracassado e que se eleja um percentual que garanta a convergência entre a manutenção da fonte produtiva e o recebimento gradativo do crédito (artigo 866, e §1º, do CPC). caput II. O Juízo de Origem respeitou essas premissas no deferimento da medida: além de a constrição de ativos financeiros, veículos automotores, imóveis e itens do estabelecimento comercial haver malogrado, a adoção abstrata da cifra de 5% se revela razoável, garantidora do equilíbrio dos interesses acima expostos.
+III. A retenção das receitas não assumirá um nível que possa paralisar a atividade econômica. Os recursos correspondentes a 5% não têm potencialidade para comprometer de antemão o funcionamento da empresa.
+Cabe ao administrador judicial, na elaboração e execução do plano, constatar o excesso do percentual, em consideração às peculiaridades do frigorífico (artigo 866, §2º).
+IV. A existência de medidas similares em outras execuções não exerce influência. O resultado da soma das cifras não é tão extravagante assim - 35% -, tornando-se necessário diante de um endividamento vultoso e destituído de garantia pelas vias menos traumáticas.
+V. Aliás, como já se advertiu, compete ao administrador judicial avaliar a consistência da totalidade das penhoras, sugerindo eventualmente ao Juízo da execução a redução ou eliminação de atos constritivos como instrumento de preservação da fonte produtiva.
+VI. O impedimento ao acréscimo de mais 5%, independentemente da análise da situação empresarial, se revela precipitado.
+VII. Agravo de instrumento a que se nega provimento.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta violação aos art. 866, § 1º, do [PLACA]. Sustenta que a penhora de 5% do faturamento da empresa acabará por prejudicar o exercício de suas atividades, uma vez que existem medidas decorrentes de outras execuções que atualmente impõem constrições a 35% do faturamento da empresa.
+É o relatório.
+O Tribunal de origem dirimiu a controvérsia sob os seguintes fundamentos:
+A incidência de penhora sobre o faturamento depende de que outras diligências patrimoniais tenham fracassado e que se eleja um percentual que garanta a convergência entre a manutenção da fonte produtiva e o recebimento gradativo do crédito (artigo 866, e §1º, do CPC). caput
+O Juízo de Origem respeitou essas premissas no deferimento da medida: além de a constrição de ativos financeiros, veículos automotores, imóveis e itens do estabelecimento comercial haver malogrado, a adoção abstrata da cifra de 5% se revela razoável, garantidora do equilíbrio dos interesses acima expostos.
+A retenção das receitas não assumirá um nível que possa paralisar a atividade econômica. Os recursos correspondentes a 5% não têm potencialidade para comprometer de antemão o funcionamento da empresa.
+Cabe ao administrador judicial, na elaboração e execução do plano, constatar o excesso do percentual, em consideração às peculiaridades do frigorífico (artigo 866, §2º).
+A existência de medidas similares em outras execuções não exerce influência. O resultado da soma das cifras não é tão extravagante assim - 35% -, tornando-se necessário diante de um endividamento vultoso e destituído de garantia pelas vias menos traumáticas.
+Sobre o tema em comento, a jurisprudência do STJ aponta para a possibilidade de a penhora recair sobre o faturamento da empresa. Trata-se, contudo, de medida excepcional condicionada à observância de determinadas condições (art. 655, § 3º do CPC/73 - atual art. 835 do CPC/2015) e desde que o percentual fixado não torne inviável o exercício da atividade empresarial, sem que isso configure violação do princípio da menor onerosidade (art. 620 CPC/73 - atual art. 805 do CPC/2015). Nesse sentido:
+TRIBUTÁRIO. PENHORA SOBRE FATURAMENTO DA EMPRESA. POSSIBILIDADE. PRECEDENTES. BENS OFERECIDOS À CONSTRIÇÃO CONSIDERADOS DE DIFÍCIL ALIENAÇÃO. ART. 620 DO CPC. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. REEXAME DE PROVA. SÚMULA 7/STJ.
+1. Nos termos da jurisprudência pacífica desta Corte, é possível a penhora recair, em caráter excepcional, sobre o faturamento da empresa desde que observadas, cumulativamente, as condições previstas na legislação processual (art. 655-A, § 3º., do CPC), e desde que o percentual fixado não torne inviável o exercício da atividade empresarial, sem que isso configure violação do princípio exposto no art. 620 do CPC segundo o qual, "quando por vários meios o credor puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o devedor".
+2. No caso dos autos, o Tribunal de origem expressamente consignou o caráter excepcional da penhora sobre o faturamento da recorrente, tendo em vista que os bens passíveis de nomeação são de difícil alienação, para a garantia da execução fiscal, tendo ainda registrado que o percentual fixado não atentaria contra o regular exercício da atividade empresarial (5%).
+3. Esta Corte pacificou o entendimento no sentido de que a verificação da não observância ao art. 620 do Código de Processo Civil demanda o revolvimento de circunstâncias fático-probatórias presentes nos autos, encontrando óbice na Súmula 7/STJ.
+Agravo regimental improvido
+(AgRg no AREsp. 183.587/RJ, Rel. Min. HUMBERTO MARTINS, DJe 10.10.2012).
+No caso concreto, a discussão acerca da suposta inviabilidade das atividades da empresa em decorrência da penhora sobre seu faturamento, levando-se em conta a existência de outras constrições, demanda o revolvimento das circunstâncias fático-probatórias dos autos, procedimento vedado em recurso especial, nos termos da Súmula 7/STJ. Vejam-se julgados semelhantes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. PENHORA SOBRE O FATURAMENTO. POSSIBILIDADE. INVIABILIDADE DAS ATIVIDADES EMPRESARIAIS EM DECORRÊNCIA DA CONSTRIÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça admite a possibilidade de a penhora recair sobre o faturamento da empresa.
+Trata-se, contudo, de medida excepcional que requer a observância das condições previstas no art. 655-A, § 3º, do CPC/73 e desde que o percentual fixado não torne inviável o exercício da atividade empresarial, sem que isso configure violação ao princípio da menor onerosidade.
+2. No caso concreto, a discussão acerca da suposta inviabilidade das atividades da empresa, em decorrência da penhora incidir sobre seu faturamento e da moderação do percentual fixado para a constrição, demanda o revolvimento das circunstâncias fático-probatórias dos autos, procedimento vedado em recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.037.227/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/4/2017, DJe 9/5/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECORRIDA PUBLICADA NA VIGÊNCIA DO CPC/1973. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que demandem o revolvimento do contexto fático-probatório dos autos, em razão da incidência da Súmula n. 7 do STJ.
+2. No caso, o Tribunal de origem, com base nos elementos de prova, concluiu que a penhora sobre parte do faturamento da empresa recorrente não constituiu violação do princípio da menor onerosidade, pois não comprovado o alegado prejuízo ao exercício das atividades empresariais. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 743.411/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 20/5/2016)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA SOBRE FATURAMENTO. VIOLAÇÃO AOS ARTS. 458 E 535, INC. II, DO CPC. NÃO OCORRÊNCIA. OBSERVÂNCIA AOS REQUISITOS PARA DETERMINAÇÃO DA MEDIDA CONSTRITIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não há falar em violação aos arts. 458 e 535 do CPC, quando a Corte de origem analisa e decide devidamente os recursos apresentados, ressaltando-se que não está o órgão julgador obrigado a manifestar-se sobre todos os argumentos apresentados.
+2. Havendo o Tribunal de origem registrado a observância aos requisitos necessários à adoção da medida constritiva e que esta não importou em ônus excessivo à recorrente, infirmar dita conclusão demandaria o revolvimento do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 758.508/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 5/11/2015)
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. EXECUÇÃO FISCAL. PENHORA SOBRE O FATURAMENTO DE CARTÃO DE CRÉDITO. POSSIBILIDADE. REQUISITOS. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. A jurisprudência do STJ firmou-se no sentido de que é legítima a recusa da Fazenda Pública de bem oferecido à penhora quando não observada a ordem prevista nos arts. 655 do CPC e 11 da Lei n.
+6.830/80, inclusive em sede de recurso repetitivo (art. 543-C do CPC), no julgamento do REsp 1.090.898/SP, Rel. Min. Castro Meira.
+3. O princípio da menor onerosidade do devedor, insculpido no art.
+620 do CPC, tem de estar em equilíbrio com a satisfação do credor, sendo indevida sua aplicação de forma abstrata e presumida, cabendo ao executado fazer prova do efetivo prejuízo.
+4. Quanto à alegada nulidade da penhora sobre o referido faturamento, que o acórdão recorrido considerou a possibilidade de constrição, por concluir que, no caso, foram atendidos todos os requisitos legais, a irresignação recursal não comporta conhecimento, porquanto demandaria a incursão no contexto fático dos autos, impossível nesta Corte ante o óbice da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.406.493/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 2/9/2015)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
