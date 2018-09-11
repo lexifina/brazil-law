@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão de turma recursal federal, assim ementado:
+    “TRIBUTÁRIO. RETENÇÃO DO PSS. DIFERENÇAS SALARIAS. APURAÇÃO SOB O REGIME DE CAIXA. IRREGULARIDADE. APLICAÇÃO DO REGULAMENTO VIGENTE À ÉPOCA EM QUE SERIAM DEVIDAS”. (eDOC 36)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a e b, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; 146, III; 149; 150, I e III; 194; 195, caput, II e § 6º, do texto constitucional.
+    Nas razões recursais, alega-se que a retenção do PSS teria ocorrido sob a égide da Lei 10.887/2004, cuja constitucionalidade nunca teria sido discutida. (eDOC 38, p. 2)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    A jurisprudência desta Corte consolidou-se no sentido de que a determinação da forma de incidência da contribuição previdenciária do servidor sobre o montante recebido judicialmente é matéria de índole infraconstitucional, pois deriva da disposição do art. 16-A da Lei Federal 10.887/2004. Dessa sorte, eventual ofensa constitucional, se houvesse, seria de natureza reflexa, o que não justifica a abertura da via extraordinária.
+    Nesse sentido, trago os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE VALORES RECEBIDOS EM DECORRÊNCIA DE DECISÃO JUDICIAL. LEI Nº 10.887/2004. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 20.6.2014. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar, nesse compasso, em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto compreender de modo diverso exigiria análise da legislação infraconstitucional encampada na decisão prolatada pela Corte de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Corte. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido” (ARE-AgR 828.842, Rel. Min. Rosa Weber, Primeira Turma, DJe 11.11.2014).
+    “Processual Civil. Agravo Regimental no Recurso Extraordinário com Agravo. Preliminar de repercussão geral. Fundamentação deficiente. Ônus do recorrente. Contribuição previdenciária para o plano de seguridade do servidor público – PSS. incidência sobre valores pagos por força de decisão judicial em demanda referente a parcela remuneratória. Base de cálculo. Montante integral restituído ou o valor correspondente ao que deveria ter sido pago mensalmente ao servidor. Exegese do art. 16-A da Lei 10.887/2004. Ofensa constitucional reflexa. Normas constitucionais de conteúdo excessivamente genérico para interferir na peculiar questão proposta. Súmula 284/STF. Agravo regimental a que se nega provimento” (ARE 828387 AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 6.10.2014).
+    Ademais, no julgamento do RE-RG 614.406/RS, redator do acórdão Min. Marco Aurélio, processo-paradigma da repercussão geral (tema 318), esta Corte assentou que, no caso de percepção acumulada de valores, o Imposto de Renda deve ser apurado sob o regime de competência e não sob o regime de caixa, sob pena de gerar dupla punição ao contribuinte. Eis a ementa desse julgado:
+    “IMPOSTO DE RENDA – PERCEPÇÃO CUMULATIVA DE VALORES – ALÍQUOTA. A percepção cumulativa de valores há de de ser considerada, para efeito de fixação de alíquotas, presentes, individualmente, os exercícios envolvidos”.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
