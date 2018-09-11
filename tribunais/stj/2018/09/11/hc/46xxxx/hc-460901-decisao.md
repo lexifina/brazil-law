@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de medida liminar, impetrado em favor de LUCAS WILLIAN VASTRES (PRESO) contra decisão monocrática prolatada por Desembargador do Tribunal de Justiça do Estado de Santa Catarina que indeferiu a liminar pleiteada no âmbito do writ originariamente impetrado naquela Corte.
+No presente writ, busca-se, em liminar e no mérito, a concessão da ordem, "reconhecendo-se de pronto a nulidade da decisão que autorizou a transferência do Paciente para cumprimento da execução de pena privativa de liberdade de Joaçaba/SC para Chapecó/SC, diante da ausência de fundamentação/motivação de referida ordem judicial, determinando-se a volta do Reeducando para cumprimento da reprimenda na comarca em que reside a família, assegurando-se assim eficácia e cumprimento aos preceitos escritos no artigo 5º, LXIII e LV; 93, IX e 226, caput, todos da Constituição Federal, além do disposto no art. 103 da Lei de Execuções Penais" (fls. 6/7, e-STJ).
+Indeferido o pleito liminar pela Vice-Presidência deste Superior Tribunal de Justiça (e-STJ fls. 17/19) e prestadas as informações solicitadas (e-STJ fls. 24/28 e 31/52), opinou o Ministério Público Federal "pelo reconhecimento da perda de objeto do habeas corpus" (e-STJ fls. 55/58).
+É o relatório. Decido.
+Como bem esclareceu o Parquet Federal, "segundo resulta das informações prestadas e do novo despacho proferido pelo Relator no Tribunal de origem, o Paciente retornou à comarca de Joaçaba/SC. Em tal contexto, tendo em vista que o Paciente foi devolvido à unidade prisional de origem, têm-se por ocorrida a perda superveniente do obejto" (e-STJ fl. 58).
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intime-se.
