@@ -1,0 +1,25 @@
+DECISÃO: O presente recurso extraordinário foi interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão que, proferido pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. INSS. IPTU. REMESSA OFICIAL NÃO CONHECIDA. ILEGITIMIDADE PASSIVA. IMUNIDADE RECÍPROCA NÃO RECONHECIDA. ISENÇÃO DE MULTA E JUROS DE MORA.
+    – Não conheço da remessa oficial, uma vez que, nos termos do artigo 475, inciso II, do Código de Processo Civil, somente a decisão que julgar procedentes, no todo ou em parte, os embargos à execução fiscal está sujeita ao duplo grau de jurisdição.
+    – Afirma o INSS ilegitimidade passiva, porquanto o imóvel não lhe pertence, uma vez que foi alienado, contudo tal argumento não prospera. Em que pese às informações contidas no documento apresentado, a embargante não demonstrou que a propriedade do imóvel foi transferida ao promitente comprador.
+    – Aplica-se, sem prejuízo ao artigo 5º, ‘caput’, da Constituição Federal, o preceito do artigo 123 do Código Tributário Nacional, segundo o qual as convenções particulares não podem ser opostas à fazenda pública.
+    – Não é possível inferir apenas com base no compromisso de compra e venda que o imóvel foi transferido a terceiro, uma vez que não atendido o preceito estabelecido pelo artigo 1.245 do Código Civil. Assim, ausente o registro do mencionado instrumento no cartório de registro de imóveis, não resta cumprido nem ao menos o requisito essencial para que o promitente comprador adquira direito real à aquisição do bem e à ação de adjudicação, conforme disposto nos artigos 1.417 e 1.418 do referido estatuto.
+    – Os artigos 32 e 34 do Código Tributário Nacional possibilitam o ajuizamento da execução fiscal em face do proprietário, do titular do domínio útil ou do possuidor do imóvel. Precedentes do STJ.
+    – Dispõe o artigo 150, inciso VI, alínea a, e § 2º, da Constituição que a imunidade é extensiva às autarquias patrimônio, à renda e aos serviços, vinculados a suas finalidades essenciais ou às delas decorrentes.
+    – No caso, a norma imunizante não alcança ao imóvel tributado, porquanto não atrelado às finalidades essenciais da autarquia, o que se comprova por meio da negociação do bem, objeto de compromisso de compra e venda.
+    – O Código Tributário Municipal, em seu artigo 284, concede às pessoas jurídicas de direito público isenção ao pagamento de multa e juros de mora.
+    – Remessa oficial não conhecida. Preliminar de ilegitimidade rejeitada. Apelação parcialmente provida.”
+    A parte recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 150, VI, “a”, § 2º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cabe ressaltar, desde logo, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    A mera análise do acórdão ora impugnado torna evidente que o Tribunal “a quo”, ao manter a sentença por seus próprios fundamentos, apoiou as suas conclusões em aspectos fático-probatórios:
+    “’In casu’, entendo que a imunidade não se estende ao imóvel tributado, porquanto não atrelado às finalidades essenciais da autarquia, o que se comprova por meio da negociação do bem, objeto de compromisso de compra e venda, conforme documento de fls. 13/17. Desse modo, afastada a aplicação do entendimento firmado na Súmula 724 do STF.”
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 742.339-AgR/PR, Rel. Min. DIAS TOFFOLI – ARE 953.751/SP, Rel. Min. EDSON FACHIN – RE 440.657-AgR/MG, Rel. Min. JOAQUIM BARBOSA, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. AUTARQUIA. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA – IPTU. VINCULAÇÃO DO IMÓVEL ÀS FINALIDADES ESSENCIAIS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 378.136-AgR/DF, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 11 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
