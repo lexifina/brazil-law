@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. RESGATE. RESERVA DE POUPANÇA. JUROS REMUNERATÓRIOS. TERMO FINAL. MATÉRIA QUE NÃO INTEGROU O PEDIDO INICIAL E NÃO FOI OBJETO DE DELIBERAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. A matéria referente à incidência dos juros remuneratórios previstos em disposição estatutária não integrou o pedido deduzido na petição inicial e nem foi objeto de exame pelo acórdão recorrido.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto pela Caixa de Previdência dos Funcionários do Banco do Brasil - Previ, contra decisão mediante a qual, com base na Súmula 568/SJT, neguei provimento ao recurso especial em razão de o entendimento do acórdão recorrido encontrar-se em consonância com a orientação do STJ, no sentido de que os valores a serem restituídos a ex-integrante de entidade fechada de previdência privada devem ser corrigidos por índices que efetivamente recomponham a desvalorização da moeda, com a aplicação dos chamados expurgos inflacionários, em consonância com a Súmula 289/STJ.
+Afirma a agravante que, no caso presente, não tem aplicação o enunciado da Súmula 568/STJ, sob o argumento de que a incidência dos juros remuneratórios devem ficar restrita ao período de vigência do contrato, nos termos da jurisprudência do STJ sobre o tema e não até a data em que efetivamente forem pagas as parcelas devidas, como afirma ter determinado o acórdão recorrido.
+Os agravados, a despeito de regularmente intimados, não apresentaram impugnação (fl. 1.101).
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): Anoto, inicialmente, que a decisão agravada foi publicada na vigência da Lei 13.105/2015, encontrando-se o recurso, portanto, sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme Enunciado Administrativo STJ 3/2016.
+Não merece prosperar a alegação da agravante. E isso porque a questão relativa à incidência de juros remuneratórios sequer integrou o pedido inicial e, portanto, também não foi objeto de deliberação pelo acórdão recorrido, tratando-se, pois, de inovação recursal, motivo pelo qual a apelação, no ponto, não foi conhecida, conforme assentou o voto condutor do acórdão recorrido (fls. 929-930):
+15. De igual modo, inova a 1ª Apelante em seu recurso, quando articula tese de "não incidência de juros remuneratórios no caso" em liça (p. 798/799), haja vista que esta questão não foi advogada em sua substanciosa contestação (p. 118/142), tampouco nas diversas oportunidades que teve para se manifestar sobre os cálculos periciais jungidos aos autos. Ou seja, até a prolação da sentença jamais essa Apelante sustentou ser indevido o pagamento integral dos juros remuneratórios.
+16. De notar que a única alegação da 1ª Apelante versou sobre o "índice a ser aplicado (0,5% ao mês x 0,4867551% ao mês)", a qual fora rejeitada pelo Juízo Primevo, ante manifesta preclusão lógica. Vejamos, por oportuno, fragmento dessa decisão, no ponto de interesse:
+Sobre a complementação do laudo os autores manifestaram-se fls. 720, enquanto a ré apresentou manifestação às fls. 721/768, insurgindo-se contra a utilização dos juros remuneratórios em 0,5% ao mês, quando a contratação faz referência a 6% ao ano, e portanto 0,4867551% ao mês, apresentando os seguintes valores divergentes:
+[NOME] em 11/2015 R$ 1.474,24
+[NOME] em 11/2015 R$ 2.804,35
+[NOME] em 11/2015 R$ 3.098,42
+Entretanto, verifica-se que a ré, ao impugnar o laudo complementar, trás planilha que não obedece aos mesmos ditames da perícia, a qual já havia manifestado concordância, fls. 509/510 utilizando-se do IPC somente a partir de 05/2004, ou seja operou-se quanto ao cálculo a preclusão lógica.
+17. Fato é que a 1ª Apelante, ao invés de reiterar esse debate (0,5% ao mês x 0,4867551% ao mês) no recurso aviado, acabara por suscitar tema absolutamente novo (juros remuneratórios integralmente indevidos ou "não incidência de juros remuneratórios no presente caso"). Logo, tais matérias não foram submetidas ao crivo do contraditório e do devido processo, tampouco sobre elas houve deliberação em primeiro grau de jurisdição.
+18. Ao ventilar questões não enfrentadas oportunamente, por quem de direito, olvidou a 1ª Apelante orientação contida no "princípio da eventualidade", de modo que seu conhecimento, por respeito à disciplina dos arts. 141, 336 e 492 do NCPC/2015, resta obstado, por se tratar de "inovação em sede recursal".
+Opostos embargos de declaração pela Previ, foram os mesmos rejeitados, sob o idêntico argumento de que a questão relativa à incidência dos juros remuneratórios é estranha ao tema em discussão nos autos, como se observa nas seguintes passagens do voto da relatora (fl. 1.037):
+18. O mesmo se deu com a questão da "não incidência dos juros remuneratórios". Veja-se que às pp. 929-930 do Acórdão embargado, deixou -se clalo a "impossibilidade de enfrentamento" do argumento em liça.
+(..)
+19. Pelas razões expostas - e rememorando que a Apelação Cível interposta pela Embargante, sequer foram conhecida nesses pontos - reputo ausente vício processual a ser corrigido/sanado.
+Diante disso, a alegação contida nas razões do especial de que "o acórdão recorrido afirmou serem devidos os juros remuneratórios" (fl. 1.060), não tem pertinência alguma. Do mesmo modo, o trecho citado nas razões do presente agravo interno e com base no qual a Previ afirma ter sido determinada a incidência de juros remuneratórios até a data do efetivo pagamento das diferenças pleiteadas (fl. 1.095), não foi extraído do acórdão recorrido.
+Não examinado, pois, a questão relativa aos juros remuneratórios pelo acórdão impugnado no recurso especial, em razão de esse tema não ter integrado o pedido inicial, esse tema está prequestionado, sendo insusceptível de exame na presente via (Súmulas 282 e 356 do STF).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
