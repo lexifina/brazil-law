@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. INCONFORMISMO DO EMBARGANTE. EFEITOS INFRINGENTES. INVIABILIDADE. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] e outros em face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ALEGAÇÃO DE NÃO CABIMENTO DA MULTA. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA DO DISPOSITIVO LEGAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A parte embargante alega, em síntese, que a decisão recorrida desconsiderou que houve omissão, do Tribunal de origem, na análise da questão da exclusão de parte do direito deferido pelo título judicial quando da execução do julgado, e ainda, que a compensação trata de fato preexistente à sentença. Outrossim, nada falou sobre a base de cálculo dos reajustes deferidos.
+Impugnação às fls. 462/468-e.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Para que os aclaratórios, que são recurso de fundamentação vinculada, possam prosperar, se faz necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição, omissão ou - como previsto na novel legislação - erro material em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+Em verdade, a despeito dos vícios apontados pela ora embargante, verifico que a decisão embargada consignou expressamente a inexistência de omissão no acórdão recorrido sob o argumento de que (fl. 445/446-e):
+In casu, contudo, não há falar em negativa de prestação jurisdicional nos embargos declaratórios, porquanto as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia.
+Em verdade, o acórdão proferido em sede de embargos de declaração foi expresso ao afirmar que a compensação na fase de execução não ofende a coisa julgada e não gera preclusão. Aduz ainda, que no julgamento não houve violação dos arts. 473, 474, 475-G e 741, VI, do CPC/1973.
+Assim, não vislumbro ofensa ao art. 1.022 do CPC/2015.
+Desse modo, não existem os vícios apontados, mas, apenas, entendimento contrário à pretensão recursal, sendo manifesta a intenção de rever a controvérsia analisada adequadamente no aresto embargado.
+Assim, a parte embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Como já explicitado inicialmente, os declaratórios apenas são cabíveis nos casos de omissão, obscuridade ou contradição, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Sobre o tema, os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INEXISTÊNCIA. 1. "A contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre estas e a conclusão do julgado embargado" (EDcl nos EDcl no AgRg nos EDcl no REsp n. 790.903/RJ). 2. Agravo regimental desprovido. (EDcl no AREsp 22.011/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/04/2015, DJe 23/04/2015)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE. NÃO OCORRÊNCIA. 1. A obscuridade de que trata o art. 535, I, do CPC é aquela que impossibilita a clara compreensão do provimento jurisdicional. 2. Embargos de declaração rejeitados. (EDcl no REsp 1300011/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 25/11/2014, DJe 12/12/2014)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUSÊNCIA. TENTATIVA DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. (PROCESSUAL CIVIL. AGRAVO REGIMENTAL. ARGUMENTOS DA MONOCRÁTICA NÃO ATACADOS DE FORMA INTEGRAL E ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182 DESTA CORTE SUPERIOR/ PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA N. 284/STF, POR ANALOGIA.)
+(..)
+4. Assim, a embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Como já explicitado inicialmente, os declaratórios apenas são cabíveis nos casos de omissão, obscuridade ou contradição, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+(..)
+7. Embargos de declaração rejeitados da Anoreg e da Sinoreg/SP rejeitados.
+(EDcl no AgRg no RMS 23.028/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2011, DJe 05/12/2011)
+Ante o exposto, rejeito os embargos de declaração, por ausência dos vícios previstos na lei processual.
+Publique-se. Intimem-se.
