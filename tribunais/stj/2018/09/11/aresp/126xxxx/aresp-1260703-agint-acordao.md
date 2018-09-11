@@ -1,0 +1,79 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESOLUÇÃO/STJ 17/2013 E ART. 21-E DO RISTJ. COMPETÊNCIA DO PRESIDENTE DO STJ. PRECEDENTES DO STJ. DECISÃO SOBRE O PRIMEIRO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Os artigos 1º e 3º da Resolução/STJ 17, de 4/9/2013, e o artigo 21-E do RISTJ, incluído pela Emenda Regimental 24/2016, autorizam a Presidência desta Corte, antes da distribuição dos feitos, a não conhecer de recursos que não tiverem impugnado especificamente todos os fundamentos da decisão recorrida.
+2. Para se viabilizar o conhecimento do agravo em recurso especial, é necessário que a parte agravante impugne especificamente todos os fundamentos da decisão de inadmissão, o que não ocorreu na hipótese em exame.
+3. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do artigo 932, III, do Código de Processo Civil de 2015.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Cuida-se de agravo interno interposto por ENDRIGO NOGUEIRA CORREIA, inconformado com a decisão da em. Ministra Presidente, que não conheceu do agravo em recurso especial, em razão de ausência de impugnação específica de fundamento decisório.
+Em suas razões, a parte agravante alega que "a Ministra Presidente desta Corte Superior é incompetente para decidir nesta forma, uma vez que existe processo prevento no caso a TP 1.117-CE, tendo como Relator o min. Lázaro Guimarães da 4ª Turma desta Corte Superior" (fl. 971).
+Acrescenta que "não merece prosperar a respeitável decisão protelatória, por ter sido proferida sem amparo legal, pois com fundamento no art. 4º, incisos III e V da Instrução Normativa nº 6/2012 do STJ e no art. 105 da Lei Federal nº 9.610/98" (fl. 974). Nessa linha, defende que deveriam ser imediatamente interrompidos os usos desautorizados de direitos autorais.
+Aduz que os laudos de engenharia teriam evidenciado a materialidade dos usos desautorizados de obra intelectual por parte de todas as agravadas.
+Assevera que os laudos de engenharia teriam "a mais ampla legalidade (Constituição Federal artigo 37) para esclarecer assuntos técnicos de acordo com o disposto no Estatuto do Engenheiro, no caso a Lei 5.194/66, em seu art. 7º, c" (fl. 978).
+Indica que o "parecer (que "indeferiu" pedido de patente) do INPI, não guarda qualquer validade legal para o assunto em tela, restando totalmente sem qualquer validade para assuntos de Direitos Autorais" (fl. 980).
+Informa, por fim, que "o próprio INPI certifica sua incompetência técnica para elucidar assuntos técnicos da Obra nº 433.720, a qual tem registro jurídico oficial junto da Fundação Biblioteca Nacional" (fl. 980).
+Às fls. 1020-1025, o agravante também apresenta Incidente de Assunção de Competência, alegando que a decisão proferida pela em. Ministra Presidente não observou a existência de julgado desta Corte, no sentido de que "a perícia judicial somente pode ser dispensada, com base no artigo 427 do CPC, se não comprometer o contraditório, vale dizer, quando ambas as partes apresentam desde logo elementos de natureza técnica prestados a que o juiz forme a sua convicção" (REsp 56.963/MG, Rel. Ministro Costa Leite). Afirma que o caso tem relevante questão de direito, pois muitos processos precisam de provas, laudos, pareceres de natureza exclusivamente técnica, que devem ser emitidos por profissionais habilitados e com conhecimentos técnicos suficientes, não devendo prevalecer meras opiniões pessoais que não se apoiam em conhecimento científico, como a decisão monocrática aqui atacada.
+É o relatório.
+VOTO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (RELATOR):
+De início, rejeito o pedido de instauração de Incidente de Assunção de Competência formulado às fls. 1.019/1.025. Isso, porque o recurso nem sequer foi conhecido e teve o seu trânsito obstado em face da fundamentação inadequada. Desse modo, o mérito da questão de direito levantada pelo agravante deixou de ser enfrentado e, por isso, não se revela apto ao exame, pela Seção, na via do Incidente de Assunção de Competência.
+Cumpre, ainda, observar que os artigos 1º e 3º da Resolução/STJ n. 17, de 4/9/2013, e o artigo 21-E do RISTJ, incluído pela Emenda Regimental 24/2016, estabelecem que:
+Art. 1º Compete ao presidente do Tribunal, antes da distribuição dos feitos aos ministros:
+I - negar seguimento ou provimento a agravos em recurso especial, a recursos especiais e a outros feitos que sejam:
+a) intempestivos, prejudicados, defeituosos em sua formação ou manifestamente inadmissíveis;
+b) contrários a matéria sumulada, julgada em recurso representativo de controvérsia ou consolidada por jurisprudência pacificada pelo Tribunal;
+II - dar provimento a recursos interpostos contra decisões contrárias a matéria julgada em recurso representativo de controvérsia ou consolidada por jurisprudência já pacificada pelo Tribunal;
+III - examinar e decidir solicitações em habeas corpus originadas de pessoas presas cuja competência não seja do Tribunal;
+IV - julgar embargos de declaração interpostos contra decisões por ele proferidas.
+..
+Art. 3º Interposto agravo regimental contra decisão proferida pelo presidente, os autos serão distribuídos, devendo ser observado o art. 9º do Regimento Interno do Tribunal se não houver retratação da decisão agravada".
+..
+Art. 21-E. São atribuições do Presidente antes da distribuição:
+..
+V - não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida;
+VI - negar provimento a recurso que for contrário a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, a acórdão proferido em julgamento de recursos repetitivos ou a entendimento firmado em incidente de assunção de competência;
+II - dar provimento a recurso se a decisão recorrida for contrária a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, a acórdão proferido em julgamento de recursos repetitivos ou a entendimento firmado em incidente de assunção de competência;
+VIII - determinar a devolução ao Tribunal de origem dos recursos fundados
+em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis;
+IX - remeter o processo ao Supremo Tribunal Federal após juízo positivo de admissibilidade quando entender versar o recurso especial sobre matéria constitucional, dando vista ao recorrente pelo prazo de quinze dias para que demonstre a existência de repercussão geral e manifeste-se sobre a questão constitucional, bem como vista à parte adversa para, por igual prazo, apresentar contrarrazões.
+§ 1º Opostos embargos de declaração contra decisão do Presidente, caberá a ele a sua análise.
+§ 2º Interposto agravo interno contra a decisão do Presidente proferida no exercício das competências previstas neste artigo, os autos serão distribuídos, observado o disposto no art. 9º deste Regimento, caso não haja retratação da decisão agravada".
+Do que se vê, os referidos dispositivos autorizam a Presidência desta Corte, antes da distribuição dos feitos, a não conhecer de recursos que não tiverem impugnado especificamente todos os fundamentos da decisão recorrida, como no caso.
+Desse modo, não há que se falar em nulidade da decisão ora agravada ou em usurpação de competência dos Ministros Relatores ou da própria Turma julgadora, por suposta ofensa ao princípio do juiz natural.
+Nesse sentido, a jurisprudência do STJ:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. POSSIBILIDADE. TEMPESTIVIDADE. SUSPENSÃO DO EXPEDIENTE FORENSE. COMPROVAÇÃO PERANTE O TRIBUNAL AD QUEM. IMPOSSIBILIDADE.
+1. Nos termos da Resolução n. 17/2013 desta Corte Superior e do art. 21-E, V, do RISTJ, compete ao Presidente do STJ, entre outras atribuições, negar provimento a recursos intempestivos, prejudicados, defeituosos em sua formação, manifestamente inadmissíveis ou contrários a matéria sumulada, julgada em recurso representativo de controvérsia ou consolidada por jurisprudência pacificada pelo Tribunal.
+2. De acordo com o novo Estatuto Processual, a ocorrência de feriado local deve ser demonstrada por documento idôneo, no ato da interposição do recurso cujo conhecimento é pretendido.
+3. Nesse ponto, descabe a aplicação da regra do parágrafo único do art. 932 do CPC/2015, que permitiria a correção do vício, com a comprovação da tempestividade do recurso, posteriormente.
+4. Hipótese em que a parte recorrente não comprovou, no momento da interposição do recurso, o feriado alegado, não havendo como afastar a intempestividade do agravo em recurso especial.
+5. Agravo interno desprovido (STJ, AgInt no AREsp 1.025.409/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 08/08/2017, grifou-se).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO PRESIDENTE DO STJ. POSSIBILIDADE. RESOLUÇÃO Nº 17/2013. NORMAS DO NCPC. INAPLICABILIDADE. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/73. ENUNCIADO ADMINISTRATIVO Nº 2/2016. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. DECISÃO MANTIDA.
+1. Nos termos da Resolução nº 17/2013, desta Corte Superior, compete ao Presidente do STJ, entre outras atribuições, negar provimento a recursos intempestivos, prejudicados, defeituosos em sua formação, manifestamente inadmissíveis ou contrários a matéria sumulada, julgada em recurso representativo de controvérsia ou consolidada por jurisprudência pacificada pelo Tribunal.
+2. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" - Enunciado Administrativo nº 2/STJ.
+3. Agravo interno não provido (STJ, AgInt no AREsp 868.810/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 29/08/2016, grifou-se).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DO TRIBUNAL A QUO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ. FALHA QUE SE REPETE NO PRESENTE REGIMENTAL. COMPETÊNCIA DA PRESIDÊNCIA DESTA CORTE. ART. 21-E DO RISTJ. PRESCRIÇÃO. INOCORRÊNCIA. RECURSO NÃO CONHECIDO.
+1. Nas razões do agravo em recurso especial, a defesa deixou de impugnar de forma clara e objetiva os fundamentos do decisum, o que impede o seu conhecimento, por ausência de requisito de admissibilidade (Súmula 182/STJ).
+2. A falha é repetida no presente agravo regimental, pois o agravante limita-se a considerações sobre o mérito do recurso especial, sem demonstrar, ainda que de forma sucinta, que o caso não atrairia a incidência da referida Súmula 182/STJ.
+3. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência no mérito da controvérsia.
+4. Nos termos da Resolução 17/2013 desta Corte Superior e do art. 21-E, V, do RISTJ, compete à Presidência do STJ, entre outras atribuições, não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida. Assim, não há falar em invasão de competência ou de nulidade do decisum.
+5. Inviável o pedido de reconhecimento da prescrição sem a apresentação de qualquer fundamentação jurídica que ampare o pedido, sendo certo que, considerando a data dos fatos (abril de 2011 a julho/2012), do recebimento da denúncia (7/3/2013), da prolação da sentença (21/7/2015) e a pena imposta (2 anos), não se constata o transcurso do prazo prescricional de 8 anos, previsto no art. 109, IV, do Código Penal.
+6. Agravo não conhecido (STJ, AgRg nos EDcl no AREsp 1.134.848/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 01/12/2017, grifou-se).
+No mérito, a presente irresignação não merece prosperar.
+De fato, a decisão sobre o primeiro juízo de admissibilidade, indicando especificamente quais os requisitos ausentes que impediram a análise do recurso, considerou a ausência de obscuridade/contradição/omissão/erro, a deficiência de fundamentação (Súmula 284/STF), a ausência de indicação de artigo de lei federal violado (Súmula 284/STF), a Súmula 7/STJ e ausência/deficiência de cotejo analítico.
+Contudo, nas razões do agravo em recurso especial, a parte agravante não rebateu todos os fundamentos que ensejaram a negativa de seguimento ao recurso especial (decisão agravada), sobretudo a deficiência de fundamentação (Súmula 284/STF) e a ausência de indicação de artigo de lei federal violado (Súmula 284/STF).
+Ocorre que, para se viabilizar o conhecimento do agravo em recurso especial, é necessário que a parte agravante impugne especificamente todos os fundamentos da decisão de inadmissão, o que não ocorreu na hipótese em exame.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS (VIOLAÇÃO DE DIREITOS AUTORAIS) E DANOS MORAIS. UTILIZAÇÃO ECONÔMICA DE OBRAS ARTÍSTICAS SEM AUTORIZAÇÃO DO TITULAR DO DIREITO AUTORAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. IMPROVIMENTO.
+1.- Utilização, por clube de futebol, de obras artísticas em coleção de artigos esportivos, sem a respectiva autorização do titular do direito autoral quanto ao uso econômico de sua obra apresenta-se como base para a incidência dos direitos patrimoniais do autor e dos direitos intrínsecos à própria dignidade humana a ensejar a indenização por danos morais.
+2.- Nas razões do Agravo em Recurso Especial, devem ser expressamente impugnados os fundamentos lançados na decisão hostilizada. Incidência da Súmula 182 do Superior Tribunal de Justiça.
+3.- Agravo Regimental improvido (AgRg no AREsp 211.468/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 24/9/2013, DJe de 8/10/2013, grifou-se).
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544, DO CPC) - LIQUIDAÇÃO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO DOS MUTUÁRIOS.
+1. Aplicação correta da súmula 182/STJ. Ausência de impugnação específica aos fundamentos da decisão de origem que inadmitiu o processamento do recurso especial. Violação ao princípio da dialeticidade, ensejando a manutenção do provimento hostilizado por seus próprios fundamentos.
+2. O óbice insculpido na Súmula n.º 83 do STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional. Precedentes.
+3. Agravo regimental desprovido (AgRg no AREsp 198.135/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 7/5/2013, DJe de 14/5/2013, grifou-se).
+Nesse contexto, cumpre reconhecer que a ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
