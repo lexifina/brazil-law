@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 113, de 29 de agosto de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ EMENTA: LUCRO PRESUMIDO. SERVIÇOS AUXILIARES AO TRANSPORTE DE CARGAS. BASE DE CÁLCULO. PERCENTUAL. O serviço de transbordo prestado por uma pessoa jurídica a outra, consistente na recepção de caminhões, pesagem dos veículos carregados e descarregados, armazenagem temporária de grãos, embarque em transporte ferroviário e pesagem de vagões não se qualificam como serviços de transporte de cargas, mas sim como serviços auxiliares ao transporte de cargas. De conseguinte, o percentual de presunção aplicável à receita bruta decorrente da prestação de tais serviços, para fins de determinação da base de cálculo do IRPJ no regime de tributação do lucro presumido, é de 32% (prestação de serviços em geral). Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, § 1º, II, “a” e III, “a”.
+.
+[arquivo anexo: SC Cosit nº 113-2018.pdf]
