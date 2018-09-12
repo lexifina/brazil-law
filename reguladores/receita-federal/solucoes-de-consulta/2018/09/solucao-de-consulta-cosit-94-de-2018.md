@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 94, de 16 de agosto de 2018
+ASSUNTO: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI EMENTA: SUSPENSÃO. MATÉRIAS-PRIMAS, PRODUTOS INTERMEDIÁRIOS E MATERIAIS DE EMBALAGEM. PESSOA JURÍDICA PREDOMINANTEMENTE EXPORTADORA. PRODUTOR RURAL INSCRITO NO CNPJ. INAPLICABILIDADE. A suspensão do Imposto sobre Produtos Industrializados - IPI prevista no art. 29, § 1º, II, da Lei nº 10.637/2002 (referente às saídas de matérias-primas, produtos intermediários e materiais de embalagem, adquiridos por pessoas jurídicas preponderantemente exportadoras) não se aplica às pessoas físicas, mesmo quando caracterizadas como produtores rurais inscritos no CNPJ. Dispositivos Legais: CTN, art. 111, I; Lei nº 10.637/2002, art. 29, §§ 1º, II, e 3º; IN RFB nº 948/2009, arts. 12 a 20.
+.
+[arquivo anexo: SC Cosit nº 94-2018.pdf]
