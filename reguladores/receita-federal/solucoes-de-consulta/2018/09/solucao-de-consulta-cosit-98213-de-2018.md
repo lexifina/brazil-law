@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98213, de 27 de agosto de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3902.90.00 Mercadoria: Óleo sintético básico utilizado como principal constituinte de óleos lubrificantes acabados, constituído por hidrocarbonetos acíclicos saturados (C30, C40, C50 e C60) obtidos a partir da polimerização do dec - 1 - eno (monômero), com temperatura inicial de ebulição superior a 400 ºC à pressão de 1.013 milibares, acondicionado em tambores de 200 litros, comercialmente denominado “Polialfaolefina hidrogenada”. DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 do Capítulo 27 e as Notas 3 e 6 do Capítulo 39) e RGI 6 constantes da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992 e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.213-2018 .pdf]
