@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 117, de 6 de setembro de 2018
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: CONSTRUÇÃO CIVIL. SERVIÇO DE PERFURAÇÃO/ESCAVAÇÃO DE SOLO. OBRIGATORIEDADE DA RETENÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA. A atividade de perfuração/escavação do solo, enquadrada como serviço de construção civil, não está relacionada nas hipóteses de dispensa de retenção da contribuição previdenciária. A relação dos serviços sujeitos à dispensa de retenção é exaustiva e deve ser analisada sob esse aspecto. Dispositivos Legais: Lei nº 8.212, de 24 de julho de 1991, art. 31; Decreto nº 3.048, de 6 de maio de 1999, art. 219; IN RFB nº 971, de 13 de novembro de 2009, arts. 112, 117, 119, 142, 143, 149, 154 e 322; CNAE (Classificação Nacional de Atividades Econômicas).
+.
+[arquivo anexo: SC Cosit nº 117-2018.pdf]
