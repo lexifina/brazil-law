@@ -1,0 +1,13 @@
+Solução de Consulta Cosit nº 110, de 28 de agosto de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ
+EMENTA: INCENTIVOS FISCAIS. OUTROS. DEDUÇÃO DA BASE DE CÁLCULO DE DOAÇÕES. ORGANIZAÇÃO DA SOCIADADE CIVIL. POSSIBILIDADE.
+No que tange às doações de que trata o art. 13, §2º, inciso III, da Lei nº 9.249, de 1995, inexiste na legislação, após a edição da Lei nº 13.204, de 2015, obrigatoriedade de que a organização da sociedade civil seja formalmente reconhecida como Organização da Sociedade Civil de Interesse Público – Oscip, referida na Lei nº 9.790, de 1999, ou como entidade beneficente de assistência social cuja utilidade pública tenha sido declarada pela União, ou mesmo que tenha sido constituída a tempo mínimo. Cumpridas as condições previstas no citado art. 13, § 2º, inciso III, da Lei nº 9.249, de 1995, as doações ali tipificadas são dedutíveis na apuração do Lucro Real.
+Dispositivos Legais: Lei nº 5.172, de 1966, arts. 97, 111 e 176; Lei nº 9.249, de 1995, art. 13, § 2º, inciso III; Lei nº 9.790, de 1999, arts. 3º e 16; Lei nº 13.019, de 2014, art. 84-B; Lei nº 13.204, de 2015.
+ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL EMENTA: INCENTIVOS FISCAIS. OUTROS. DEDUÇÃO DA BASE DE CÁLCULO DE DOAÇÕES. ORGANIZAÇÃO DA SOCIADADE CIVIL. POSSIBILIDADE.
+No que tange às doações de que trata o art. 13, §2º, inciso III, da Lei nº 9.249, de 1995, inexiste na legislação, após a edição da Lei nº 13.204, de 2015, obrigatoriedade de que a organização da sociedade civil seja formalmente reconhecida como Organização da Sociedade Civil de Interesse Público – Oscip, referida na Lei nº 9.790, de 1999, ou como entidade beneficente de assistência social cuja utilidade pública tenha sido declarada pela União, ou mesmo que tenha sido constituída a tempo mínimo. Cumpridas as condições previstas no citado art. 13, § 2º, inciso III, da Lei nº 9.249, de 1995, as doações ali tipificadas são dedutíveis na apuração da base de cálculo da CSLL.
+Dispositivos Legais: Lei nº 5.172, de 1966, arts. 97, 111 e 176; Lei nº 9.249, de 1995, art. 13, § 2º, inciso III; Lei nº 9.790, de 1999, arts. 3º e 16; Lei nº 13.019, de 2014, art. 84-B; Lei nº 13.204, de 2015.
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO
+EMENTA: OUTROS. INEFICÁCIA PARCIAL.
+Questionamento relativo a dúvida sobre dispositivo que não integra a legislação tributária, nem mesmo por remissão ou contexto, deve ser considerado ineficaz.
+Dispositivos Legais: Decreto nº 70.235, de 1972, arts. 46 e 52, inciso I. Decreto nº 7.475, de 2011, art. 94, inciso I; Instrução Normativa RFB nº 1.396, de 2013, art. 18, inciso I.
+[arquivo anexo: SC Cosit nº 110-2018.pdf]
