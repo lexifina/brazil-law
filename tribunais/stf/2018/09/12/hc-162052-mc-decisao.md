@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal de São Roque/SP, no processo nº 0000700-08.2016.8.26.0586, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 7 de março de 2016, ante o suposto cometimento da infração descrita no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Apontou o fato de o paciente não comprovar ocupação lícita, dizendo fazer do comércio ilícito de entorpecentes meio de sobrevivência. Destacou necessária a custódia para garantia da ordem pública, sublinhando a gravidade e hediondez do crime. Aludiu à existência de condenação anterior, a demonstrar a personalidade voltada à prática delituosa. Ressaltou insuficiente a imposição de medida diversa da prisão.
+    Em 25 de maio de 2017, condenou o paciente e corréu a 5 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 583 dias-multa, ante o cometimento da infração do artigo 33, cabeça (tráfico de drogas), da Lei de Drogas. Negou o direito de recorrer em liberdade, reportando-se à sensação de impunidade e ao descrédito da justiça. Frisou o envolvimento em associação voltada ao comércio ilícito de entorpecentes e a reincidência.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 467.560/SP, o qual teve a liminar indeferida pelo Relator.
+    O impetrante articula com o excesso de prazo da prisão, a perdurar por mais de 2 anos e 6 meses, sem data prevista para o julgamento da apelação. Aduz ausência de complexidade a justificar a demora processual, apontando haver apenas um acusado no processo. Cita precedentes do Supremo nos quais afastada a custódia, observado o excesso de prazo.
+    Requer, no campo precário e efêmero, a revogação da prisão preventiva, com ou sem a imposição de medida cautelar diversa da custódia. No mérito, pretende a confirmação da providência.
+    Consulta ao sítio do Tribunal estadual revelou como último andamento a remessa do processo ao Ministério Público para parecer.
+    A etapa é de exame da medida de urgência.
+    2. O paciente encontra-se recolhido, sem culpa formada, desde 7 de março de 2016, ou seja, há 2 anos, 6 meses e 5 dias. Surge o excesso de prazo considerada a custódia provisória e o estágio do processo-crime, porquanto sequer apreciada a apelação. A preventiva deve balizar-se no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento por meio do qual determinada, em execução antecipada da pena, ignorando-se garantia constitucional.
+    Observem que a superveniência de ato condenatório recorrível não afasta a natureza preventiva da prisão. O artigo 283, cabeça, do Código de Processo Penal, ao referir-se aos títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as custódias decorrentes da pronúncia e da sentença penal condenatória ainda não alcançada pela preclusão maior integram a última. O artigo 387, § 1º, denomina, expressamente, preventiva a prisão oriunda da condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja preso por motivo diverso da custódia preventiva imposta no processo nº 0000700-08.2016.8.26.0586, da Primeira Vara Criminal de São Roque/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem médio, integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 467.560/SP, em trâmite no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Antônio Saldanha Palheiro.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 12 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
