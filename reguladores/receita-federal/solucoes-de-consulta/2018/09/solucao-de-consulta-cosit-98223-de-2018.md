@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98223, de 6 de setembro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8302.41.00 Mercadoria: Trilho de aço em formato de perfil “U”, próprio para ser aparafusado em paredes, dotado de perfurações e fendas (aberturas) retangulares ao longo de todo o comprimento, especialmente concebidas para permitir a fixação (por encaixe) de braços que suportam prateleiras, medindo 0,5, 1,0, 1,5 ou 2,0 m de comprimento e 2,0 cm de largura, denominado comercialmente “trilho engate simples”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 83.02), RGI 6 (texto das subposições 8302.4 e 8302.41), da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.223-2018 .pdf]
