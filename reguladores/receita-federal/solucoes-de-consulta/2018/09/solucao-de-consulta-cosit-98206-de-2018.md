@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98206, de 31 de agosto de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 6210.40.00 Mercadoria: Jaqueta infantil masculina, confeccionada em tecido de viscose revestido em uma das faces de poliuretano (perceptível à vista desarmada), conhecido como couro sintético. Possui forro em poliéster, fechamento frontal com zíper e acabamento dos punhos, colarinho e barra de malha de poliéster. DISPOSITIVOS LEGAIS: (RGI/SH) 1 e 3 “b” (Nota 5 do Capítulo 62 e texto da posição 62.10) e 6 (Nota 8 do Capítulo 62 e texto da subposição 6210.40.00) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e Tipi aprovada pelo Decreto 8.950, de 2016, e subsídios das NESH, aprovadas pelo Decreto nº 435/92, atualizadas IN/RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.206-2018 .pdf]
