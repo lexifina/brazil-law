@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98203, de 30 de agosto de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2106.90.90 Mercadoria: Preparação alimentícia em forma de espuma consistente, composta de água, gordura vegetal hidrogenada, açúcar e outros ingredientes, para cobertura, decoração e recheio de produtos de confeitaria ou para ser consumida, dentre outros, com frutas, café ou sorvetes e apresentada em frascos de 250g, comercialmente denominada "creme vegetal tipo chantilly spray". DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 21.06), RGI 6 (texto da subposição 2106.90) e RGC 1 (texto do item 2106.90.90) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.203-2018 .pdf]
