@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 101, de 17 de agosto de 2018
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO EMENTA: ENTIDADE BENEFICENTE ISENTA. CONTRATAÇÃO DE CONTRIBUINTE INDIVIDUAL. SALÁRIO DE CONTRIBUIÇÃO. ALÍQUOTA. A alíquota incidente sobre o salário de contribuição do contribuinte individual que presta serviços a entidade beneficente isenta da cota patronal, observado o limite máximo do salário de contribuição, é de 20%. O contribuinte individual não pode deduzir 45% da contribuição patronal incidente sobre a remuneração que a entidade beneficente isenta lhe tenha pago ou creditado, haja vista que, neste caso, inexiste contribuição patronal efetivamente recolhida ou declarada a deduzir. Dispositivos Legais: Lei nº 8.212, de 1991, arts. 21 e 30, § 4º e RPS, aprovado pelo Decreto n° 3.048, de 1999, art. 216, § 26º; IN RFB 971, de 2009, art. 65, inciso II, alínea “a”.
+.
+[arquivo anexo: SC Cosit nº 101-2018.pdf]
