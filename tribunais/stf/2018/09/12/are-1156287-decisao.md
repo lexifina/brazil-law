@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5º Região, assim ementado (eDOC 2, p.104):
+    “ADMINISTRATIVO. SERVIDOR. REMOÇÃO. DESLOCAMENTO EFETUADO HÁ MAIS DE 15 ANOS. FATO CONSUMADO. SEGURANÇA JURÍDICA.
+    1. Através de decisão antecipatória dos efeitos da tutela, proferida em outubro de 1997, o autor conseguiu obter sua remoção para a Delegacia da Receita Federal - Fortaleza/CE. Situação fática gerada com o deferimento da medida que assumiu inegável caráter de definitividade.
+    2. Peculiaridade do caso que impõe a observância da teoria do fato consumado, amplamente consagrada pelos Tribunais Superiores, em respeito ao dogma da segurança jurídica.
+    3. Decorridos mais de quinze anos de atividade do servidor na Delegacia da Receita Federal em Fortaleza-CE, não há como se entender que remanesce qualquer interesse público no seu retorno para Porto Velho-RO. Ao contrário, a nova lotação do servidor importaria em inevitáveis gastos para a Administração, sem que daí resultasse qualquer acréscimo para o serviço público federal.
+    4. Apelação e Remessa Necessária improvidas.”
+    Os embargos de declaração foram providos sem efeitos infringentes. Confira-se (eDOC 2, p. 231-232):
+    “EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS PELO STJ. ALEGADA OFENSA AO ART. 535 DO CPC/1973. APONTADA OMISSÃO. ART. 36, III, "B", DA LEI N. 8.112/90. REMOÇÃO DE SERVIDOR. MOTIVO DE SAÚDE. TEORIA DO FATO CONSUMADO. SEGURANÇA JURÍDICA.
+    1. Retornaram os autos do Superior Tribunal de Justiça/STJ, que entendeu ter ocorrido, no acórdão proferido por esta Terceira Turma, violação ao art. 535 do CPC/1973, sob alegação de ocorrência de omissão.
+    2. Argumenta que a parte recorrente, nas razões deduzidas nos embargos declaratórios, pugnou pelo enfrentamento da questão debatida sob a ótica do art. 36, III, "b", da Lei n° 8.112/90. No entanto, este Tribunal quedou-se silente sobre as argumentações que se mostram relevantes para o deslinde da controvérsia. Nesse sentido, anulou o acórdão que apreciou os Embargos de Declaração para que seja realizado novo julgamento com o expresso enfrentamento das questões tidas por omitidas.
+    3. O art. 36, inciso III, "b", da Lei n° 8.112/90, estabelece que a remoção do servidor, a pedido, para outra localidade, independentemente do interesse da Administração, por motivo de saúde, deve ser condicionada à comprovação por junta médica oficial.
+    4. Em que pese tal disposição legal, o acórdão embargado deixou claro que, através de decisão antecipatória dos efeitos da tutela, proferida em outubro de 1997, ou seja, há quase vinte anos, o servidor conseguiu obter sua remoção para a Delegacia da Receita Federal - Fortaleza/CE.
+    5. Diante dos fatos evidenciados nos autos, esta eg. Turma entendeu inviável e desarrazoado intentar-se a modificação da situação fática já consolidada no tempo, aplicando-se, com respaldo em jurisprudência desta Corte Regional, a teoria do fato consumado, que também encontra guarida no col. STJ.
+    6. "O decurso de tempo consolida fatos jurídicos que devem ser respeitados, sob pena de causar á parte desnecessário prejuízo e afronta ao disposto no art. 462 do CPC." (STJ, AgRg no Ag 1.338.054/SC, Primeira Turma, Rei. Min. Napoleão Nunes Maia Filho, julgado em 20/10/2015, DJe 05/11/2015). Embargos de Declaração providos, sem efeitos infringentes.”
+    No recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição da República, sustenta-se violação dos arts. 5º, I, 37, 97 e 226, do Texto Constitucional.
+    Nas razões recursais aponta a inaplicabilidade da teoria do fato consumado ao caso, articulando com o que decidido pelo Supremo no julgamento do RE 608.482. Busca demonstrar, ainda, não se tratar de hipótese de remoção para tratamento de saúde ou que vise a proteção da família.
+    A Vice-Presidência do TRF-5 inadmitiu o apelo extremo em virtude da inexistência de ofensa direta à Constituição Federal (eDOC 3, p.43).
+    É o relatório. Decido.
+    Não assiste razão à parte recorrente.
+    De fato, esta Corte, ao analisar o RE 608.482-RG, Rel. Ministro Teori Zavascki, DJe 30.10.2014 (Tema 476), reconheceu a existência de repercussão geral da controvérsia referente à manutenção em cargo público, com base na teoria do fato consumado, de candidato investido por força de decisão judicial de caráter provisório. A ementa desse julgado possui o seguinte teor:
+    CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO REPROVADO QUE ASSUMIU O CARGO POR FORÇA DE LIMINAR. SUPERVENIENTE REVOGAÇÃO DA MEDIDA. RETORNO AO STATUS QUO ANTE. TEORIA DO FATO CONSUMADO, DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA SEGURANÇA JURÍDICA. INAPLICABILIDADE. RECURSO PROVIDO.
+    1. Não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado.
+    2. Igualmente incabível, em casos tais, invocar o princípio da segurança jurídica ou o da proteção da confiança legítima. É que, por imposição do sistema normativo, a execução provisória das decisões judiciais, fundadas que são em títulos de natureza precária e revogável, se dá, invariavelmente, sob a inteira responsabilidade de quem a requer, sendo certo que a sua revogação acarreta efeito ex tunc, circunstâncias que evidenciam sua inaptidão para conferir segurança ou estabilidade à situação jurídica a que se refere.
+    3. Recurso extraordinário provido
+    Ocorre que, no presente caso, não se trata de hipótese de candidato investido em cargo público por força de liminar, de modo que não incide a tese firmada pelo STF no Tema 476 da sistemática da repercussão geral.
+    Verifica-se, na verdade, que o Colegiado a quo decidiu a controvérsia a partir dos fatos e das provas carreados nos autos, ressalvando, com base em tal conjunto probatório, o caráter excepcional da medida. Desse modo, eventual divergência em relação ao entendimento adotado pelo acórdão impugnado demandaria o reexame do conjunto fático-probatório dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Por fim, a alegada ofensa constitucional, caso existente, seria meramente reflexa, não havendo campo ao acesso ao Supremo.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 932, IV, “a”, do CPC c/c art. 21, §1º, do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 12 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
