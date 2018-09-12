@@ -1,0 +1,19 @@
+DECISÃO
+LIMINAR – EXTENSÃO – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    Abel Pacheco de Andrade e Eric Oliveira Farias, mediante a petição/STF nº 42.006/2018, subscrita por advogados credenciados, requerem a extensão da medida de urgência deferida ao paciente, Hamilton Luiz Pereira. Alegam encontrar-se em situação processual idêntica. Afirmam figurar como réus no processo-crime nº 0003487.62.2015.8.26.0483. Juntam comprovantes do cumprimento dos mandados de prisão, datados de 2 de dezembro de 2016.
+    O processo está concluso para análise do pedido de extensão.
+    2. Quando do implemento da liminar, assentei:
+    […]
+    2. Da leitura do ato mediante o qual determinada a preventiva extrai-se que se teve presente a imputação. Inexiste a constrição automática considerado o delito possivelmente praticado, levando à inversão da ordem processual, que direciona, ante o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. A reprovabilidade da conduta e a ofensa à paz social e à segurança pública são, por si sós, elementos neutros, insuficientes a respaldarem o argumento alusivo à preservação da ordem pública. Esta fica vinculada à observância da legislação em vigor, devendo a custódia cautelar basear-se no artigo 312 do Código de Processo Penal. O Juízo aludiu à possibilidade de ocultação de provas e de intimidação de testemunhas, sem elementos concretos a fundamentá-la. Partiu da capacidade intuitiva, olvidando que a presunção seria de postura digna, por achar-se o paciente submetido aos holofotes da Justiça. No tocante ao risco de furtar-se à aplicação da lei penal, há de reportar-se, obrigatoriamente, a dado concreto, individualizado. Fora isso é a suposição do excepcional, do extravagante. Tem-se a insubsistência das premissas lançadas.
+    A par desse aspecto, o paciente está preso, sem culpa formada, desde o dia 12 de janeiro de 2017, ou seja, há 1 ano e 5 meses. Surge o excesso de prazo considerada a custódia provisória e o estágio do processo-crime, porquanto sequer iniciada a instrução processual, agendada para 8 de agosto de 2018. A constrição cautelar há de ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento por meio do qual implementada, em execução antecipada da pena, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre custodiado por motivo diverso da prisão preventiva imposta no processo nº 0003407-64.2016.8.26.0483, da Primeira Vara Criminal da Comarca de Presidente Venceslau/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do homem médio, integrado à sociedade.
+    4. Sendo idêntica a situação jurídica dos corréus Wanderson Nilton de Paula Lima e Fábio de Oliveira Souza, estendo-lhes a medida acauteladora, com os mesmos cuidados, consoante o disposto no artigo 580 do Código de Processo Penal.
+    […]
+    A extensão, tal como prevista no artigo 580 do Código de Processo Penal, pressupõe estar o beneficiário na mesma situação daquele que logrou o pronunciamento favorável. Essa premissa é conducente a afastar-se o preceito sempre que se tratar de títulos provisórios diversos. Os requerentes não tiveram as preventivas determinadas no mesmo processo-crime, consoante cópias dos mandados de prisão apresentadas, alusivas ao de nº 0003487.62.2015.8.26.0483.
+    3. Indefiro o pedido formalizado.
+    4. Deem sequência ao habeas corpus.
+    5. Publiquem.
+Brasília, 12 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
