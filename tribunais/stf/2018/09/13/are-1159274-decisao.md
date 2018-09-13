@@ -1,0 +1,23 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta que houve violação ao art. 5º, incisos V e X, da Carta Magna.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, não há matéria constitucional prequestionada, o que atrai o óbice das Súmulas 282 e 356/STF.
+    Por fim, o Juízo de origem, com base nas provas constantes dos autos, manteve a decisão de improcedência do pedido, ao fundamento de que, no caso, não restou caracterizado o nexo causal entre o dano sofrido pela parte autora e a conduta culposa da parte ré. Vejam-se, a propósito, os seguintes trechos do voto condutor do acórdão (fls. 182-183, Vol. 3):
+    “Percorrendo os elementos constantes do caderno processual observo que, às fls. 25/26, encontra-se um Boletim de Ocorrência, no qual relatado que, no momento do acidente, a vítima encontrava-se sentada com a cabeça entre as pernas, ignorando os sinais sonoros emitidos pela locomotiva, nestes termos:
+    (...)
+    Esclareço que tal documento é oficial, formulado por autoridade policial competente, de modo que tem presunção juris tantum de veracidade, cabendo aos Autores desconstituí-lo por prova em contrário, o que não ocorreu.
+    Registre-se ainda que, nos termos do Laudo de Necropsia (fl. 210), após exame toxicológico realizado na vítima, foi encontrado etanol na concentração de 22,14 (vinte e dois vírgula catorze) decigramas por litro de sangue, revelando excessiva quantidade de álcool no organismo do de cujus, quando do acidente.
+    No tocante à sinalização, verifica-se, pela fotografia de fl. 34, conter uma placa de passagem de nível, com os dizeres ‘pare, olhe, escute’, o que, a meu aviso, alerta sobre a necessidade de atenção dos transeuntes pelos riscos existentes no local, pelo que não há como atribuir à primeira Ré a pecha de omissa.
+    (...)”
+    Verifica-se, portanto, que a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (CPC/2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 13 de setembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
