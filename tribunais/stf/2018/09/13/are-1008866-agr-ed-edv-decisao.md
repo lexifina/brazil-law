@@ -1,0 +1,26 @@
+Decisão: Trata-se de embargos de divergência opostos contra acórdão da Segunda Turma que rejeitou os embargos de declaração em agravo regimental no recurso extraordinário com agravo, cuja ementa dispõe:
+    “Embargos de declaração em agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. Dirigente sindical escolhido para representar interesses da categoria econômica. Ausência de estabilidade sindical. 3. Matéria infraconstitucional. Controvérsia decidida com base na CLT. 4. Embargos de declaração rejeitados.” (eDOC 67)
+    Nas razões recursais, a parte indica, como paradigma da divergência, o RE n.º 217.355-5, Segunda Turma, de relatoria do Ministro Maurício Corrêa, DJe 2.2.2001, com a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRABALHISTA. DIRIGENTE SINDICAL PATRONAL. ESTABILIDADE PROVISÓRIA. DEMISSÃO NO CURSO DO MANDATO. INDENIZAÇÃO. 1. Interpretação restritiva do inciso VIII do artigo 8º da Constituição Federal: impossibilidade. Inexistência de norma legal ou constitucional que estabeleça distinção entre o dirigente sindical patronal e o dos trabalhadores. 2. Não perde a condição de empregado o trabalhador que, malgrado ocupe cargo de confiança na empresa empregadora, exerça mandato sindical como representante da categoria econômica. 3. Representante sindical patronal. Dispensa no curso do mandato. Indenização e consectários legais devidos desde a data da despedida até um ano após o final do mandato. Recurso extraordinário conhecido e provido.”
+    Defende-se o cabimento do presente recurso com base no §3º do art. 1.043 do Código de Processo Civil. Argumenta-se que, não obstante o acórdão paradigma tenha emanado igualmente da Segunda Turma, houve a alteração de sua composição em mais da metade dos membros.
+    Alega-se ofensa ao art. 8º, inciso VIII, da Constituição da República. Sustenta-se que a prerrogativa da estabilidade provisória no emprego do dirigente sindical deve alcançar também aquele empregado escolhido pelo empregador para atuar no interesse da categoria econômica. (eDOC 68)
+    Intimada, a parte embargada apresentou contrarrazões. (eDOC 73)
+    É o breve relatório.
+    Decido.
+    O recurso não reúne condições para apreciação.
+    Isso porque a embargante não logrou demonstrar objetivamente a divergência suscitada, nos termos do que dispõe os artigos 330 e seguintes do Regimento Interno do Supremo Tribunal Federal, in verbis:
+    “Art. 330. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+    Art. 331 . A divergência será comprovada mediante certidão, cópia autenticada ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+    Art. 332. Não cabem embargos, se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada, salvo o disposto no art. 103.
+    (...)”
+    Como já assentado, o Tribunal Superior do Trabalho decidiu a controvérsia com base na legislação infraconstitucional de regência (arts. 543 e seguintes da Consolidação das Leis do Trabalho), consignando que a intenção do legislador, na elaboração da referida norma legal, foi proteger o empregado que exerce representação da sua categoria das animosidades do empregador.
+    O acórdão embargado entendeu, portanto, que é incabível a revisão, por esta Corte, da interpretação dada pelo Tribunal de origem a texto infraconstitucional e que a ofensa alegada, no caso, é reflexa ou indireta. A inadmissibilidade dos embargos de divergência evidencia-se quando o acórdão impugnado sequer aprecia o mérito da questão suscitada no recurso extraordinário, como no caso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO – EMBARGOS DE DIVERGÊNCIA – PRESSUPOSTO DE ADMISSIBILIDADE – NÃO ATENDIMENTO. Descabem os embargos de divergência contra pronunciamento em que não se tenha examinado a matéria de mérito. HONORÁRIOS ADVOCATÍCIOS – FIXAÇÃO. Havendo interposição de recurso sob a regência do Código de Processo Civil de 2015, cabível é a fixação de honorários de sucumbência recursal previstos no artigo 85, § 11, do diploma legal. (RE 850.405 AgR-EDv-AgR, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe 31.5.2017)
+    “EMBARGOS DE DIVERGÊNCIA – INADMISSIBILIDADE – ACÓRDÃO EMBARGADO QUE NÃO APRECIA O MÉRITO DA QUESTÃO SUSCITADA NO APELO EXTREMO – RECURSO DE AGRAVO IMPROVIDO. – A inadmissibilidade dos embargos de divergência evidencia-se quando o acórdão impugnado sequer aprecia o mérito da questão suscitada no recurso extraordinário.” (RE 622.378 AgR-EDv-AgR, Rel.. Min. Celso de Mello, Tribunal Pleno, DJe 10.11.2016)
+    Ante o exposto, considerada sua manifesta inadmissibilidade, nego seguimento aos embargos de divergência (art. 335, §1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
