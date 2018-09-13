@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional ajuizada por Schumann Móveis e Eletrodomésticos Ltda. em face de decisão da 1ª Vara do Trabalho de Passo Fundo/Rs, que teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia da decisão que determinou a suspensão dos processos que veiculam matéria objeto da ADC nº 48/DF-MC.
+    Schumann Móveis e Eletrodomésticos Ltda. narra que é demandada em ação trabalhista que tem como pedido o reconhecimento de vínculo empregatício e a aplicação da Lei nº 11.442/2007.
+    Sustenta, todavia, que nos autos da ADC nº 48/DF-MC, no dia 19 de dezembro de 2017, o Relator, Ministro Roberto Barroso, deferiu a medida cautelar para determinar a suspensão nacional dos processos que versassem sobre a aplicação dos arts. 1º, caput; art. 2º, §§ 1º e 2º; art. 4º, §§ 1º e 2º, e art. 5º, caput, da Lei nº 11.442/2007, hipótese em que se encaixaria os autos de origem.
+    Aduz que apresentou ao órgão julgador, 1ª Vara do Trabalho de Passo Fundo/RS, pedido de suspensão dos autos do Processo nº 0021202-95.2016.5.04.0661, o qual restou indeferido pela autoridade reclamada, que determinou o prosseguimento do feito, com a manutenção da audiência de instrução designada para 17/10/2018.
+    Requer que seja deferida tutela de urgência para suspender os efeitos da decisão reclamada, determinando-se a suspensão do Processo nº 0021202-95.2016.5.04.0661.
+    No mérito, postula que seja julgada procedente a presente reclamação para, confirmando-se a liminar, que os autos permaneçam suspensos até decisão a ser proferida nos autos da ADC nº 48/DF.
+    É o relatório. Decido.
+    O objeto da presente reclamação consiste em despacho do Juízo do Trabalho da 1ª Vara do Trabalho de Passo Fundo, de 27/8/18, em resposta ao pedido de suspensão do Processo nº 0021202-95.2016.5.04.0661, in verbis:
+    “Indefiro o requerido pela reclamada. O pedido poderá ser novamente analisado após a realização da audiência de instrução.
+    Aguarde-se a realização da audiência designada.”
+    O Ministro Roberto Barroso, ao consignar a necessidade de provimento liminar na ADC nº 48/DF, em 19/12/2017 (publicada no DJe 1º/2/2018), destacou a “persistência de decisões judiciais contraditórias, após tantos anos de vigência da Lei 11.442/2007”. Transcrevo a ementa do paradigma:
+    “Direito do Trabalho. Medida Cautelar em Ação Declaratória da Constitucionalidade. Transporte rodoviário de cargas. Terceirização da atividade-fim. Medida cautelar deferida.
+    1. A Lei nº 11.442/2007 (i) regulamentou a contratação de transportadores autônomos de carga por proprietários de carga e por empresas transportadoras de carga; (ii) autorizou a terceirização da atividade-fim pelas empresas transportadoras; e (iii) afastou a configuração de vínculo de emprego nessa hipótese.
+    2. É legítima a terceirização das atividades-fim de uma empresa. A Constituição Federal não impõe uma única forma de estruturar a produção. Ao contrário, o princípio constitucional da livre iniciativa garante aos agentes econômicos liberdade para eleger suas estratégias empresariais dentro do marco vigente (CF/1988, art. 170).
+    3. A proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/1988, art. 7º).
+    4. A persistência de decisões judiciais contraditórias, após tantos anos de vigência da Lei 11.442/2007, reforça a presença de perigo de dano de difícil reparação e gera grave insegurança jurídica, em prejuízo a todas as partes que integram a relação contratual de transporte autônomo de carga.
+    5. Verossimilhança do direito e perigo da demora demonstrados. Medida cautelar deferida.”
+    Assim, diferentemente do que pretende fazer crer Schumann Móveis e Eletrodomésticos Ltda., a decisão proferida na ADC nº 48/DF produz efeitos ex nunc, a fim de obstar que “decisões contraditórias” sejam proferidas em sede de controvérsia jurídica instaurada com fundamento na Lei nº 11.442/2007; a decisão paradigma, portanto, não repercute sobre a competência jurisdicional dos órgãos do Poder Judiciário em sede probatória (instrutória), tampouco relativamente a demandas cuja matéria controvertida não cuide da relação estabelecida pela Lei nº 11.442/2007, como parece ser o caso dos autos.
+    No caso, o juízo reclamado, posto que afirme ter ciência da decisão do STF acima referida, assenta a necessidade de se proceder à coleta de provas (fase instrutória) a ser realizada em audiência de instrução, após o que se procederá à análise do pleito de suspensão dos autos.
+    O reclamante, portanto, não cumpriu o ônus de comprovar a existência de ato concreto praticado pela autoridade reclamada no sentido de recusar eficácia à ordem de suspensão dos processos que versem sobre a aplicação dos arts. 1º, caput; art. 2º, §§ 1º e 2º; art. 4º, §§ 1º e 2º, e art. 5º, caput, da Lei nº 11.442/2007, questão a ser resolvida por esta Suprema Corte na ADC nº 48/DF-MC.
+    Ausente qualquer ato suficiente a demonstrar desrespeito à eficácia da decisão proferida nos autos da ADC nº 48/DF-MC ou à autoridade deste STF, entendo que a presente reclamação constitucional é usada com caráter preventivo, fim ao qual não se presta a presente ação constitucional, vide:
+    “RECLAMAÇÃO. Caráter preventivo. Pedido tendente a evitar futura decisão judicial. Inadmissibilidade. Inexistência de ato capaz de ofender a competência ou a autoridade de decisão do Supremo Tribunal Federal. Seguimento negado. Agravo improvido. Inteligência do art. 102, inc. I, alínea l, da CF. A ação constitucional da reclamação não admite pedido de caráter preventivo” (Rcl nº 4.058/BA-AgR, Relator o Ministro Cezar Peluso, Tribunal Pleno, DJe 9/4/10).
+    “Não cabe reclamação contra ato futuro indeterminado. A reclamação pressupõe a prática de ato específico para que possa ser conhecida" (Rcl nº 3.982/ES, Relator o Ministro Joaquim Barbosa Tribunal Pleno, DJ 14/12/07).
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF.
+    Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, a reclamante fica também advertida, na hipótese de recurso, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+    Publique-se. Intime-se.
+    Brasília, 13 de setembro de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
