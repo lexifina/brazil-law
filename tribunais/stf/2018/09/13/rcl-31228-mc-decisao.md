@@ -1,0 +1,78 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, na qual se alega que o ato judicial ora impugnado – emanado do Juízo de Direito da Vara Única da comarca de Malacacheta/MG (Processo nº 0006440-70.2017.8.13.0392) – teria desrespeitado a autoridade da decisão que o Supremo Tribunal Federal proferiu no julgamento do HC 129.251/ES, Rel. Min. DIAS TOFFOLI.
+    Busca-se, nesta sede processual, “(...) reconhecer a ilegalidade praticada pelo Reclamado no tocante: 1) A falta de Audiência de Justificação ou até mesmo a intimação da defesa (princípio contraditório) para manifestar acerca do pedido ministerial (conforme já decidido no HC 129.251/ES) (...)” (grifei).
+    Sendo esse o contexto, cabe verificar, preliminarmente, se se revela admissível, ou não, a utilização do instrumento constitucional da reclamação, no que se refere ao alegado desrespeito à autoridade da decisão proferida no exame do paradigma de confronto indicado pela parte reclamante.
+    Entendo que não. Com efeito, a parte ora reclamante, pretendendo justificar a utilização da presente medida processual, invocou, como paradigma, processo de índole subjetiva que versa caso concreto no qual essa mesma parte não figurou como sujeito processual.
+    Como se sabe, o Supremo Tribunal Federal tem advertido não caber reclamação, quando utilizada, como no caso, para fazer prevalecer a sua jurisprudência (ou para impor-lhe a observância) em situações nas quais os seus julgamentos não se revistam de eficácia vinculante, exceto se se tratar de decisão que esta Corte Suprema tenha proferido em processo subjetivo no qual haja intervindo, como sujeito processual, a própria parte reclamante, hipótese inocorrente na espécie.
+    Impende registrar, por oportuno, que esse entendimento tem prevalecido em sucessivos julgamentos proferidos por esta Suprema Corte (RTJ 159/15, Rel. Min. SYDNEY SANCHES – RTJ 201/519, Rel. Min. AYRES BRITTO – Rcl 13.731-AgR/SC, Rel. Min. LUIZ FUX – Rcl 23.283-AgR/SP, Rel. Min. EDSON FACHIN, v.g.):
+    “Alegação de afronta a decisão proferida em agravo regimental em agravo de instrumento. Causa de índole subjetiva. Decisão desprovida de eficácia ‘erga omnes’. Vinculação restrita às partes. Autoridade diversa daquela que é sujeito processual do recurso extraordinário. Processo extinto, sem julgamento de mérito. Inteligência do art. 102, I, ‘l’, da CF. Precedentes. Agravo regimental improvido. Não cabe reclamação por suposta ofensa à autoridade de decisão proferida em processo subjetivo, do qual não é nem foi parte o reclamante.”
+    (Rcl 5.335-ED/MG, Rel. Min. CEZAR PELUSO – grifei)
+    “RECLAMAÇÃO – ALEGADO DESRESPEITO A DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL EM PROCESSOS DE ÍNDOLE SUBJETIVA, VERSANDO CASOS CONCRETOS NOS QUAIS A PARTE RECLAMANTE NÃO FIGUROU COMO SUJEITO PROCESSUAL – INADMISSIBILIDADE – INADEQUAÇÃO DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL – EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO.
+    – Não se revela admissível a reclamação quando invocado, como paradigma, julgamento do Supremo Tribunal Federal proferido em processo de índole subjetiva que versou caso concreto no qual a parte reclamante sequer figurou como sujeito processual. Precedentes.
+    – O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes.
+    – A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, ‘l’, da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tais finalidades revelam-se estranhas à destinação constitucional subjacente à instituição dessa medida processual. Precedentes.”
+    (Rcl 5.926-AgR/SC, Rel. Min. CELSO DE MELLO)
+    “Agravo regimental em reclamação. Paradigma extraído de processo de caráter subjetivo. Eficácia vinculante restrita às partes nele relacionadas. Precedentes. Ilegitimidade ativa configurada. Reclamação utilizada como atalho processual. Submissão da controvérsia ao exame direto do Supremo Tribunal Federal. Inadmissibilidade. Precedente. Agravo regimental a que se nega provimento.
+    …...................................................................................................
+    3. O reconhecimento da repercussão geral tem por precisa consequência esgotar a cognição nesta Corte e recomendar todos os processos, principais ou acessórios, à respectiva origem, a fim de aguardarem pronunciamento definitivo sobre o processo-paradigma no STF, após o que competirá à Corte de origem proceder ao que dispõe o § 3º do art. 543-B do CPC.
+    …...................................................................................................
+    6. Agravo regimental a que se nega provimento.”
+    (Rcl 14.638-AgR/RJ, Rel. Min. DIAS TOFFOLI – grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. CRIMINAL. SUBSTITUIÇÃO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. HC 97.256/RS. PROCESSO DE ÍNDOLE SUBJETIVA DO QUAL NÃO FIGUROU COMO PARTE O RECLAMANTE. AUSÊNCIA DE EFICÁCIA ‘ERGA OMNES’. SUBSTRATO FÁTICO E JURÍDICO. JUSTIFICATIVA PARA A NEGATIVA EM ESTRITA OBSERVÂNCIA AO PARADIGMA INDICADO. RECLAMAÇÃO IMPROCEDENTE.
+    1. O acórdão paradigma foi prolatado em processo de índole subjetiva, desprovido de eficácia ‘erga omnes’, no qual não figurou como parte o reclamante, motivo pelo qual a sua invocação não se amolda ao previsto no art. 102, I, ‘l’, da Constituição da República.
+    …...................................................................................................
+    3. Agravo regimental conhecido e não provido.”
+    (Rcl 16.967-AgR/SP, Rel. Min. ROSA WEBER – grifei)
+    “3. As decisões proferidas em sede de recurso extraordinário, ainda que sob o regime da repercussão geral, não se prestam como paradigma viabilizador do instrumento da reclamação constitucional se o reclamante não houver integrado a relação processual.
+    4. A reclamação revela-se incabível, quando invocado, como paradigma, julgamento do Supremo Tribunal Federal proferido em processo de índole subjetiva, cuja relação processual o reclamante não integrou. Precedentes: Rcl 10.615-AgR, Rel. Min. Teori Zavascki, Pleno, DJe 14/6/2013; Rcl 11.566-AgR, Rel. Min. Dias Toffoli, Pleno, DJe 1º/8/2013; Rcl 14.638-AgR, Rel. Min. Dias Toffoli, Pleno, DJe 18/11/2013.
+    5. Agravo regimental a que se nega provimento.”
+    (Rcl 18.099-ED/SP, Rel. Min. LUIZ FUX – grifei)
+    Em suma: não se revela processualmente viável o emprego da reclamação quando, nesta, invoca-se, como paradigma, decisão proferida em face de situação concreta a que é completamente estranha a parte reclamante, tal como sucede no caso ora em análise.
+    Cumpre destacar, por necessário, um outro aspecto que, assinalado em sucessivas decisões desta Corte, afasta a possibilidade jurídico- -processual de emprego da reclamação, notadamente naqueles casos em que a parte reclamante busca a revisão de certo ato decisório, por entendê-lo incompatível com a jurisprudência do Supremo Tribunal. Refiro-me ao fato de que, considerada a ausência, na espécie, dos pressupostos legitimadores do ajuizamento da reclamação, este remédio constitucional não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto desta Suprema Corte.
+    A reclamação, como se sabe, reveste-se de múltiplas funções, tal como revelado por precedentes desta Corte (RTJ 134/1033, v.g.) e definido pelo novo Código de Processo Civil (art. 988), as quais, em síntese, compreendem (a) a preservação da competência global do Supremo Tribunal Federal, (b) a restauração da autoridade das decisões proferidas por esta Corte Suprema e (c) a garantia de observância da jurisprudência vinculante deste Tribunal Supremo (tanto a decorrente de enunciado sumular vinculante quanto a resultante dos julgamentos da Corte em sede  de controle normativo abstrato), além de atuar como expressivo meio vocacionado a fazer prevalecer os acórdãos deste Tribunal proferidos em incidentes de assunção de competência.
+    Isso significa, portanto, que a reclamação não se qualifica como sucedâneo recursal, nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, nem traduz meio de uniformização de jurisprudência, eis que tais finalidades revelam-se estranhas à destinação subjacente à instituição dessa medida processual, consoante adverte a jurisprudência do Supremo Tribunal Federal:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. RECLAMAÇÃO: NÃO É SUCEDÂNEO DE RECURSO OU DE AÇÃO RESCISÓRIA.
+    I. – A reclamação não pode ser utilizada como sucedâneo de recurso ou de ação rescisória.
+    II. – Reclamação não conhecida.”
+    (RTJ 168/718, Rel. Min. CARLOS VELLOSO, Pleno – grifei)
+    “Não cabe reclamação destinada a invalidar decisão de outro Tribunal, que haja porventura divergido da jurisprudência do Supremo Tribunal, firmada no julgamento de causa diferente, mesmo em se tratando de controvérsias de porte constitucional.
+    Também não é a reclamação instrumento idôneo de uniformização de jurisprudência, tampouco sucedâneo de recurso ou rescisória, não utilizados tempestivamente pelas partes.”
+    (Rcl 724-AgR/ES, Rel. Min. OCTAVIO GALLOTTI, Pleno – grifei)
+    “O despacho acoimado de ofender a autoridade da decisão do Supremo Tribunal Federal negou seguimento, por razões processuais suficientes, ao recurso ordinário interposto contra acórdão em mandado de segurança. Por esse fundamento não é cabível reclamação, eis que a decisão da Corte Maior não cuida da matéria.
+    .......................................................................................................
+    A reclamação não pode servir de sucedâneo de recursos e ações cabíveis, como decidiu esse Plenário nas Rcl Ag.Rg. 1852, relator Maurício Corrêa, e Rcl Ag.Rg. 724, rel. Min. Octavio Gallotti. (…).”
+    (Rcl 1.591/RN, Rel. Min. ELLEN GRACIE, Pleno – grifei)
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. AFRONTA À DECISÃO PROFERIDA NA ADI 1662-SP. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE OU SIMILITUDE DE OBJETOS ENTRE O ATO IMPUGNADO E A EXEGESE DADA PELO TRIBUNAL.
+    .......................................................................................................
+    A questão da responsabilidade do Estado pelas dívidas da instituição financeira estatal revela tema afeto ao processo de execução que tramita na Justiça do Trabalho, não guardando pertinência com o objeto da presente ação. A reclamação não pode servir de sucedâneo de outros recursos ou ações cabíveis.”
+    (Rcl 1.852-AgR/RN, Rel. Min. MAURÍCIO CORRÊA, Pleno – grifei)
+    “EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. AUSÊNCIA DE ARGUMENTOS NOVOS. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    .......................................................................................................
+    3. O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo ‘a quo’.
+    .......................................................................................................
+    5. Agravo regimental não provido.”
+    (Rcl 5.465-ED/ES, Rel. Min. CÁRMEN LÚCIA, Pleno – grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. A RECLAMAÇÃO NÃO É SUCEDÂNEO DE RECURSO PRÓPRIO. RECURSO IMPROVIDO.
+    I – A reclamação constitucional não pode ser utilizada como sucedâneo de recurso próprio para conferir eficácia à jurisdição invocada nos autos da decisão de mérito.
+    .......................................................................................................
+    III – Reclamação improcedente.
+    IV – Agravo regimental improvido.”
+    (Rcl 5.684-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI, Pleno – grifei)
+    “(…) – O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual  destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. (…).”
+    (Rcl 6.534-AgR/MA, Rel. Min. CELSO DE MELLO, Pleno)
+    Em conclusão, não se acham presentes, na espécie, as situações legitimadoras da utilização do instrumento reclamatório.
+    De outro lado, quanto à “concessão de ‘habeas corpus’ de ofício”, tenho para mim que se revela inviável essa pretensão, porque a causa em referência não se subsume a qualquer das hipóteses taxativamente enunciadas no rol inscrito no art. 102, I, letras “d” e “i”, da Constituição Federal – pertinentes à impetrabilidade originária de “habeas corpus” perante o Supremo Tribunal Federal –, o que evidencia a falta de competência originária desta Corte para apreciar o pedido de “habeas corpus” (RTJ 93/113 – RTJ 115/687 – RTJ 121/1050 – RTJ 125/1027 – RTJ 140/865, v.g.), notadamente porque o ato de que ora se reclama emanou de magistrado de primeira instância (Juízo da 5ª Vara Federal Criminal do Rio de Janeiro/RJ):
+    “2. Ausente a articulação de ilegalidade ou abuso de poder imputáveis, ao menos em tese, a autoridades sujeitas diretamente à jurisdição do Supremo Tribunal Federal, por evidente hipótese de incompetência, não há espaço para concessão da ordem de ofício sob argumento de desproporcionalidade ou excesso de prazo da prisão processual.  A reclamação não se presta a figurar como sucedâneo recursal, e, nessa perspectiva, incumbe ao interessado, querendo,  valer-se das vias próprias ao combate dos atos que entende incompatíveis com a ordem jurídica.
+    3. Agravo regimental parcialmente provido.”
+    (Rcl 22.557-AgR/RJ, Rel. Min. EDSON FACHIN – grifei)
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. OFENSA A PRONUNCIAMENTO DA CORTE. INOCORRÊNCIA. PEDIDO DE  CONCESSÃO DE ‘HABEAS CORPUS’ DE OFÍCIO. DESCABIMENTO. AGRAVO REGIMENTAL  DESPROVIDO.
+    1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida.
+    …...................................................................................................
+    3. Afigura-se inviável o recebimento de reclamação como ‘habeas corpus’, ainda que a pretexto de  analisar a possibilidade de concessão da ordem de ofício,  se a suposta ilegalidade não é atribuída a autoridade diretamente sujeita à jurisdição desta Corte. Inconformismo que deve ser solucionado pelas vias próprias, sem que se reconheça ao interessado o direito subjetivo de, ‘per saltum’, socorrer-se da via reclamatória a fim de alcançar a submissão imediata da matéria ao crivo da Suprema Corte.
+    4. Agravo regimental desprovido.”
+    (Rcl 25.509-AgR/PR, Rel. Min. EDSON FACHIN – grifei)
+    Sendo assim, e em face das razões expostas, nego seguimento a esta reclamação (CPC, art. 932, VIII, c/c o RISTF, art. 21, § 1º), restando prejudicado, em consequência, o exame do pedido de medida liminar.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 13 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
