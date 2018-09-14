@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do NCPC) interposto por POSTAL SAUDE - CAIXA DE ASSISTENCIA E SAUDE DOS EMPREGADOS DOS CORREIOS, contra decisão que inadmitiu o apelo nobre, manejado com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão do Tribunal do Estado do Rio de janeiro, assim ementado (fl. 275):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA - PLANO DE SAÚDE - FALECIMENTO DO TITULAR - DEPENDENTE JÁ INSCRITA QUE POSSUI O DIREITO DE PERMANECER COMO BENEFICIÁRIA COM A MANUTENÇÃO DAS MESMAS CONDIÇÕES CONTRATUAIS - SENTENÇA DE PROCEDÊNCIA - APLICA-SE À HIPÓTESE O §3º DO ARTIGO 30 DA LEI Nº 9.656 DE 1998, COM A REDAÇÃO DADA PELA MEDIDA PROVISÓRIA Nº 2.177-44, DE 2001 - TESES DEDUZIDAS PELO APELANTES QUE NÃO MERECEM PROSPERAR - DANO MORAL IN RE IPSA - MANUTENÇÃO DO VALOR ARBITRADO NA SENTENÇA - NEGATIVA DE PROVIMENTO AO RECURSO.
+Nas razões do recurso especial (fls. 291/304), a recorrente aponta, além de divergência jurisprudencial, violação do artigo 30 da Lei n. 9.656/98
+Sustentou, em suma, não ser aplicável o CDC ao presente feito, bem como não fazer jus a beneficiária em permanecer no plano.
+Contrarrazões às fls. 336/346, e-STJ.
+É o relatório.
+Decido.
+1. Cinge-se a controvérsia recursal, primeiramente, à aplicabilidade do Código de Defesa do Consumidor aos planos de saúde na modalidade autogestão.
+Sobre o tema, o Tribunal de origem decidiu que (fls. 277, e-STJ):
+Cinge-se a controvérsia em saber se o cancelamento do plano de saúde da autora seria lícito ou não. Do conjunto probatório carreado aos autos, verifica-se que o cancelamento seria ilícito. Aplica-se à hipótese o §3º do artigo 30 da Lei nº 9.656 de 1998, com a redação dada pela Medida Provisória nº 2.177-44, de 2001 o qual aponta que:
+Art. 30. Ao consumidor que contribuir para produtos de que tratam o inciso I e o § 1o do art. 1o desta Lei, em decorrência de vínculo empregatício, no caso de rescisão ou exoneração do contrato de trabalho sem justa causa, é assegurado o direito de manter sua condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral. (Redação dada pela Medida Provisória nº 2.177-44, de 2001) § 3º Em caso de morte do titular, o direito de permanência é assegurado aos dependentes cobertos pelo plano ou seguro privado coletivo de assistência à saúde, nos termos do disposto neste artigo.
+O escopo da lei é justamente resguardar o direito do beneficiário, positivando o dispositivo constitucional de que a saúde é um direito de todos, o que é reforçado pelo Código de Defesa do Consumidor, em seu artigo, 4º, in litteris: "A Política Nacional das Relações de Consumo tem por objetivo o atendimento das necessidades dos consumidores, o respeito à sua dignidade, saúde e segurança, a proteção de seus interesses econômicos, a melhoria da sua qualidade de vida, bem como a transparência e harmonia das relações de consumo (..)" Dessa forma, considerando que a ratio legis é a proteção do beneficiário de plano de saúde coletivo, deve-se buscar uma interpretação teleológica para que a norma cumpra seu objetivo, não resultando, de forma alguma, em prejuízo para aqueles cuja proteção é sua própria finalidade.
+Contudo, o Superior Tribunal de Justiça, na oportunidade do julgamento do Resp nº 1.285.483/PB, pela Segunda Seção, consolidou o entendimento de que não se aplica o Código de Defesa do Consumidor quando o contrato de plano de saúde for administrado por entidade de autogestão.
+Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para um público determinado de beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido.
+(REsp 1285483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/06/2016, DJe 16/08/2016)
+No mesmo sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A Segunda Seção, quando do julgamento do Recurso Especial 1.285.483/PB, Relator Ministro Luis Felipe Salomão, firmou o entendimento no sentido de que não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+2. Recurso Especial provido.
+(REsp 1684207/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. CDC. INAPLICABILIDADE. TRATAMENTO ODONTOLÓGICO. CIRURGIA. COPARTICIPAÇÃO DO USUÁRIO EM VALORES PERCENTUAIS. PREVISÃO CONTRATUAL CLARA E EXPRESSA. LEGALIDADE. FATOR DE RESTRIÇÃO SEVERA AOS SERVIÇOS. INEXISTÊNCIA. ABUSIVIDADE. AFASTAMENTO. DANOS MORAIS. NÃO CONFIGURAÇÃO.
+1. As entidades de autogestão não visam o lucro e constituem sistemas fechados, já que os planos que administram não estão disponíveis no mercado consumidor em geral, mas, ao contrário, a apenas um grupo restrito de beneficiários.
+2. A Segunda Seção desta Corte Superior consagrou o entendimento de não se aplicar o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, haja vista a inexistência de relação de consumo.
+3. Não há falar em ilegalidade na contratação de plano de saúde em regime de coparticipação, seja em percentual sobre o custo do tratamento, seja em montante fixo, até mesmo porque "percentual de co-participação do consumidor ou beneficiário" (art. 16, VIII, da Lei nº 9.656/1998) é expressão da lei. Vedação, todavia, da instituição de fator que limite seriamente o acesso aos serviços de assistência à saúde, a exemplo de financiamentos quase integrais do procedimento pelo próprio usuário, a evidenciar comportamento abusivo da operadora.
+4. Ausente qualquer ilegalidade no comportamento da operadora em exigir a observância, pelo usuário, de cláusulas contratuais consideradas lícitas, é de rigor o afastamento da compensação por danos morais.
+5. Agravo interno não provido.
+(AgInt no REsp 1563986/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/08/2017, DJe 06/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OPERADORA NA MODALIDADE DE AUTOGESTÃO. RELAÇÃO DE CONSUMO NÃO CONFIGURADA.
+1. A Segunda Seção, quando do julgamento do Recurso Especial 1.285.483/PB, Relator Ministro Luis Felipe Salomão, julgado em 22/6/2016, DJe 16/8/2016, firmou o entendimento no sentido de que "não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo".
+2. Tendo a Corte local decidido a causa exclusivamente à luz do Código de Defesa do Consumidor, fica prejudicada a análise das questões suscitadas das razões do recurso especial, de modo que é necessário o retorno dos autos à Corte de origem, para novo julgamento do recurso de apelação, ante a vedação da interpretação de cláusulas contratuais e reexame de fatos e provas (Súmulas 5 e 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 943.838/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/06/2017, DJe 27/06/2017)
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. RECUSA À COBERTURA DE TRATAMENTO QUIMIOTERÁPICO. PLANO DE SAÚDE GERIDO POR AUTOGESTÃO. BOA FÉ OBJETIVA. MEDICAMENTO IMPORTADO SEM REGISTRO NA ANVISA. FORNECIMENTO. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULA 284/STF.
+1. Ação de obrigação de fazer e compensação por dano moral ajuizada em 14.06.2013. Recurso especial atribuído ao gabinete em 25.08.2016.
+Julgamento: CPC/73.
+2. A questão posta a desate nestes autos, consiste em aferir se é abusiva, cláusula contratual em plano de saúde gerido por autogestão, que restringe o fornecimento de medicamento importado sem registro na ANVISA.
+3. Por ocasião do julgamento do REsp 1285483/PB, a Segunda Seção do STJ afastou a aplicação do Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. O fato da administração por autogestão afastar a aplicação do CDC não atinge o princípio da força obrigatória do contrato (pacta sunt servanda); e, a aplicação das regras do Código Civil em matéria contratual, tão rígidas quanto a legislação consumerista.
+5. Determinar judicialmente o fornecimento de fármacos importados, sem o devido registro no órgão fiscalizador competente, implica em negar vigência ao art. 12 da Lei 6.360/76.
+6. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+7. Recurso especial conhecido parcialmente, e nessa parte, provido.
+(REsp 1644829/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/02/2017, DJe 23/02/2017)
+Recentemente, inclusive, esta Corte Superior sedimentou o referido entendimento, por meio da edição da Súmula 608, com o seguinte enunciado:
+Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão.
+No caso em apreço, o Tribunal de origem, ao entender que a norma consumerista incide mesmo nos planos de saúde de autogestão, julgou em dissonância com a jurisprudência mais recente desta Corte Superior, razão pela qual merece reforma o acórdão recorrido, impondo-se o provimento do recurso especial para determinar o retorno dos autos ao Tribunal de origem, para que, afastando o Código de Defesa do Consumidor, proceda a novo julgamento do recurso de apelação como entender de direito.
+Diante do provimento do recurso especial, conforme acima descrito, resta prejudicada a análise das demais questões discutas no recurso especial.
+2. Do exposto, conheço do agravo para, de plano, dar parcial provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem, para que, afastando o Código de Defesa do Consumidor, proceda a novo julgamento do recurso de apelação como entender de direito.
+Publique-se.
+Intimem-se.
