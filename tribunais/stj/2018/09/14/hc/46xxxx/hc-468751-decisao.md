@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Agravo em Execução n. 00234624920188217000) - fl. 84:
+AGRAVO EM EXECUÇÃO (ARTIGO 197, DA LEP). FALTA GRAVE. INDISCIPLINA. ALTERAÇÃO DATA-BASE. DIAS REMIDOS. INCONFORMISMO DEFENSIVO.
+Falta grave do apenado bem configurada, consistente em desobediência aos deveres no interior do estabelecimento prisional. No caso dos autos, o apenado não teria respondido a conferência nominal, caracterizando falta grave. Depoimento prestado por agente penitenciário, que se mostra suficiente para homologação da falta. A alteração da data-base é medida legal e compatível com a execução penal, contudo, deve apenas ser considerada para fins de futura progressão de regime. Outrossim, é cediço que o cometimento de falta grave autoriza a perda de até 1/3 dos dias remidos, contudo, no caso dos autos, se justifica a perda de dias remidos em 1/10, considerando que não houve maiores implicações decorrentes da falta. AGRAVO PARCIALMENTE PROVIDO.
+Alega a impetrante que o fato praticado - não ter o paciente respondido às conferências do plantão -, não pode ser considerado como falta grave, revelando-se, assim, desproporcional a sanção aplicada.
+Entende, ainda, ilegal a alteração da data-base para futuros benefícios pelo simples cometimento de falta grave.
+É o relatório.
+As apontadas ilegalidades não ficaram evidenciadas.
+As teses trazidas na impetração não encontram acolhida na jurisprudência desta Corte, incidindo ao caso a Súmula 534/STJ, verbis:
+A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração.
+ A propósito, confira-se, ainda, o precedente desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. INTERRUPÇÃO DO LAPSO PARA A PROGRESSÃO DE REGIME. POSSIBILIDADE. ENTENDIMENTO DA TERCEIRA SEÇÃO DESTA CORTE (ERESP N. 1.133.804/RS E 1.176.486/SP). 1. O cometimento de falta grave no curso da execução implica a interrupção do cômputo do tempo para a concessão de benefícios, salvo livramento condicional, indulto e comutação de pena (EREsp n.1.176.486/SP). Perda dos dias remidos limitada a 1/3. 2. Agravo regimental improvido. (AgRg no HC 268.073/SP, de minha relatoria, Sexta Turma, DJe 13/05/2013)
+Por outro lado, o entendimento jurisprudencial desta Corte é na linha de que a desobediência aos agentes penitenciários constitui falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais, sendo certo, ainda, que não é possível o amplo exame de fatos e provas nos autos de habeas corpus, de cognição sumária. Anote-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. DESOBEDIÊNCIA AO AGENTE PENITENCIÁRIO. PROCESSO ADMINISTRATIVO DISCIPLINAR. NULIDADES. CERCEAMENTO DE DEFESA DECORRENTE DA AUSÊNCIA DE CITAÇÃO PESSOAL. OBSERVÂNCIA DA AMPLA DEFESA ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. FORMALIDADES LEGAIS E PRESENÇA DO DEFENSOR. AUDIÊNCIA DO SENTENCIADO EM JUÍZO. PRESCINDIBILIDADE. OITIVA REALIZADA NA SEARA ADMINISTRATIVA, ACOMPANHADA PELA DEFESA TÉCNICA. PREJUÍZO PROCESSUAL NÃO DEMONSTRADO. ATIPICIDADE OU DESCLASSIFICAÇÃO DA CONDUTA. INVIABILIDADE. ADEQUAÇÃO TÍPICA. IMPOSSIBILIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. ILEGALIDADE FLAGRANTE NÃO EVIDENCIADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há falar em nulidade por contrariedade aos postulados do contraditório e da ampla defesa se as formalidades legais foram observadas, inclusive com a devida manifestação da defesa técnica do paciente durante o procedimento administrativo disciplinar.
+2. Conforme a jurisprudência desta Corte Superior, é prescindível a nova oitiva do condenado, perante o Juízo, se já realizada, com a presença de defesa técnica, durante o procedimento administrativo que apurou a falta disciplinar.
+3. A jurisprudência deste Superior Tribunal de Justiça possui entendimento de que a desobediência aos agentes penitenciários constitui falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais.
+4. Não se coaduna com a via estreita do habeas corpus, por demandar a análise de fatos e provas, a análise da tese de não configuração de falta grave ou desclassificação para falta disciplinar de natureza média. Precedentes.
+5. Agravo regimental improvido.
+(AgRg no HC 438.399/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 03/09/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
