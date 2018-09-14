@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006, REGIME E SUBSTITUIÇÃO DA PENA. MERA REITERAÇÃO DOS PEDIDOS DEDUZIDOS NO HABEAS CORPUS N.º 424.635/SP, JULGADO PELA SEXTA TURMA DESTA CORTE. RECURSO PREJUDICADO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou seguimento a recurso especial aviado com fundamento no art. 105, inciso III, alínea a, da Constituição Federal.
+Consta nos autos que o Agravante foi condenado às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, como incurso no art. 33, caput, da Lei n.º 11.343/2006.
+Contra a sentença, foi interposto recurso de apelação pela Defesa, que foi desprovido pelo Tribunal de origem, nos termos da seguinte ementa (fl. 262):
+"Apelação Criminal- Tráfico Ilícito de Entorpecentes.
+MÉRITO - Materialidade delitiva e autoria demonstradas - Prova - Depoimentos de policiais civis - Validade - Inexistência de motivos para incriminarem o réu injustamente - Restou demonstrado pela quantidade e variedade de substâncias entorpecentes apreendidas, bem como pela forma como ocorreu a prisão, que a droga se destinava ao fornecimento para o consumo de terceiros.
+PENAS - Mínimo legal - Atenuante da menoridade relativa - Súmula 231 do STJ - Inaplicabilidade da causa de diminuição de pena prevista no art. 33, § 4o, da Lei nº 11.343/06 - Faculdade conferida ao Magistrado - Beneficio aplicável apenas aos traficantes pequenos e eventuais - O regime inicial fechado é o adequado para o cumprimento da pena privativa de liberdade, nos termos do art. 33, § 3º, do Código Penal.
+Recurso desprovido."
+Irresignada, a Defesa interpôs recurso especial, sustentando violação dos arts. 33, § 2.º, alínea b, e 44 do Código Penal e 33, § 4.º, da Lei n.º 11.343/2006.
+Aduz, para tanto, que estão presentes os requisitos autorizadores da incidência da minorante do § 4.º do art. 33 da Lei de Drogas, em seu patamar máximo. Alega que, aplicado o redutor, o Paciente tem direito a iniciar o cumprimento da pena em regime aberto, bem como à substituição da pena privativa de liberdade por restritivas de direitos.
+Requer "seja reconhecida da incidência do redutor previsto no artigo 33, §4º da Lei de Drogas, fíxando-se, em conseqüência, o regime inicial aberto, nos termos do artigo 33, §2º, c, do Código Penal, bem como determinada a substituição da reprimenda privativa de liberdade por restritiva de direitos, nos termos do art. 44 do Código Penal" (fl. 288).
+Contrarrazões às fls. 295-303.
+Ao analisar a admissibilidade do apelo especial, o Tribunal a quo não o admitiu, por entender incidentes as Súmulas n.º 284 do Supremo Tribunal Federal e n.º 07 desta Corte Superior.
+O Ministério Público Federal manifestou-se às fls. 344-345, opinando pelo não conhecimento do agravo.
+É o relatório. Decido.
+A matéria submetida à análise desta Corte no presente agravo consubstancia-se em mera reiteração de pedido, tendo em vista que já foi apreciada nos autos do HC n.º 424.635/SP, da relatoria da Ministra MARIA THEREZA DE ASSIS MOURA, que foi concedido pela Sexta Turma desta Corte, nos termos da seguinte ementa (fl. 189):
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4o, DA LEI N.º 11.343/06. NEGATIVA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. FIXAÇÃO EM PATAMAR MÁXIMO. REGIME INICIAL ABERTO. SUBSTITUIÇÃO DA PENA. POSSIBILIDADE. CONCESSÃO DA ORDEM.
+1. As instâncias de origem não lograram fundamentar de maneira idônea a negativa de aplicação da causa especial de diminuição de pena prevista no art. 33, § 4o, da Lei n.º 11.343/06, porquanto não declinaram motivação suficiente a demonstrar a efetiva dedicação do paciente às atividades criminosas ou a sua participação em organização criminosa. De rigor, pois, a aplicação da referida minorante em patamar máximo, redimensionando-se a pena do paciente para 1 ano e 8 meses de reclusão e 166 dias-multa.
+2. Aplicada a causa especial de diminuição de pena prevista no art. 33, § 4o, da Lei n.º 11.343/06, sendo a reprimenda final do paciente 1 ano e 8 meses de reclusão, é possível o estabelecimento do regime inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos, a teor do disposto no art. 33, § 2o, c, e 44 e incisos, ambos do Código Penal.
+3. Habeas corpus concedido a fim de reduzir a pena do paciente para 1 ano e 8 meses de reclusão e 166 dias-multa, bem como fixar o regime inicial aberto, possibilitando, ainda, a substituição da pena privativa de liberdade por restritivas de direitos, a serem fixadas pelo Juízo das Execuções."
+Ante o exposto, JULGO PREJUDICADO o presente agravo.
+Publique-se. Intimem-se.
