@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com base no art. 105, III, "a", da Constituição, contra acórdão proferido pelo TRF da 5ª Região assim ementado (e-STJ, fl. 63):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. PENHORA "ONLINE" VIA BACENJUD ANTES DA CITAÇÃO. IMPOSSIBILIDADE. AFRONTA AO CONTRADITÓRIO E AMPLA DEFESA.
+1. Agravo de instrumento interposto em face de decisão que, em sede de Ação de Execução Fiscal proposta pela Fazenda Nacional, determinou o bloqueio eletrônico de valores ,via BacenJud, antes da citação do devedor.
+2: É essencial a concretização da citação prévia com vistas a informar ao executado a sua situação gravosa, para que tenha a oportunidade de pagar a dívida ou apresentar bens à penhora.
+3. Hipótese de ofensa direta aos princípios do contraditório e da ampla defesa.
+4. Agravo de Instrumento provido.
+Os embargos de declaração opostos não foram providos.
+Em suas razões, a recorrente aponta ofensa aos arts. 535, II, 655, 655-A, 798, 799 do CPC/1973 e 185-A da LEF. Sustenta, em síntese, a possibilidade de utilização do BacenJud independente da citação da executada.
+Contrarrazões recursais apresentadas às e-STJ, fls. 104/105.
+Admitido o recurso especial na origem, (e-STJ, fls.119/121), subiram os autos a esta Corte.
+É o relatório.
+Registro, de logo, que não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+É o que se depreende da leitura dos seguintes trechos do voto condutor do aresto impugnado (e-STJ, fl. 60):
+Ademais, não obstante à jurisprudência pátria" tenha firmado que o bloqueio pelo sistema BacenJud não exige que restem infrutíferas tentativas anteriores de localização de bens passíveis de penhora, ainda e considerada essencial a concretização da citação prévia, com vistas a informar ao executado a sua situação gravosa.
+Não é concebível se tolher da esfera do executado nem o direito de ter conhecimento do motivo pelo qual está tendo atacado o seu patrimônio, muito menos a oportunidade de pagar a dívida ou apresentar bens à penhora e justo para isso deve ser citado nos termos do art. 8º da LEF.
+Não há falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp 884.151/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/5/2016, DJe 13/6/2016)
+No que tange à legalidade do bloqueio de ativos antes da citação, a jurisprudência deste Tribunal firmou-se no sentido de que o arresto executivo deve ser precedido de prévia tentativa de citação do executado ou, no mínimo, que a citação seja com ele concomitante:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO DEMONSTRADA. EXECUÇÃO FISCAL. DETERMINAÇÃO DE PENHORA DE ATIVOS FINANCEIROS PELO BACENJUD ANTES MESMO DA CITAÇÃO DA EXECUTADA. IMPOSSIBILIDADE. MEDIDA DE CUNHO CAUTELAR QUE DEVE SER REQUERIDA PELA EXEQUENTE. SÚMULA 83/STJ. ANÁLISE DO FUMUS BONI IURIS E DO PERICULUM IN MORA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Busca o recorrente desconstituir acórdão que não reconheceu a possibilidade de penhora de ativos financeiros pelo Bacenjud antes da citação.
+2. A jurisprudência do STJ é firme no sentido de que a penhora deve ser realizada concomitantemente à citação, e não antes desse ato processual. Portanto, ao contrário do que alega a parte recorrente, a norma não autoriza a efetivação da penhora antes da citação.
+3.Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+4. Quanto à comprovação dos requisitos do periculum in mora e o fumus bonis iures, não cabe ao STJ analisá-la, pois requer a revisão de fatos e provas, o que é inviável ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+5. Recurso Especial não provido.
+(REsp 1.643.283/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/3/2017, DJe 20/4/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. BLOQUEIO DE ATIVOS FINANCEIROS, MEDIANTE ARRESTO EXECUTIVO, VIA SISTEMA BACENJUD, ANTES DA PRÁTICA DE ATOS JUDICIAIS TENDENTES A LOCALIZAR O DEVEDOR PARA A CITAÇÃO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL FIRMADA PELO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 28/10/2015, contra decisão publicada em 16/10/2015.
+II. Na forma da jurisprudência firmada pelo STJ, admite-se o arresto de dinheiro, via Sistema Bacenjud, nos próprios autos da execução, se preenchidos os requisitos legais previstos no art. 653 (existência de bens e não localização do devedor) ou no art. 813 (demonstração de perigo de lesão grave ou de difícil reparação), ambos do CPC/73. Em relação ao arresto executivo, também designado arresto prévio ou pré-penhora, de que trata o art. 653 do CPC/73, tal medida visa assegurar a efetivação de futura penhora na execução por título extrajudicial, na hipótese de o executado não ser encontrado para citação. Assim, desde que frustrada a tentativa de localização do executado, é admissível o arresto executivo de seus bens. Precedentes do STJ (REsp 1.044.823/PR, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, DJe de 15/09/2008; REsp 1.240.270/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/04/2011; REsp 1.407.723/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 29/11/2013; REsp 1.370.687/MG, Rel. Ministro ANTÔNIO CARLOS FERREIRA, DJe de 15/08/2013; REsp 1.338.032/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 29/11/2013).
+III. Na hipótese dos autos, considerando que é incontroversa a falta de demonstração, na petição inicial da Execução Fiscal, dos requisitos autorizadores da medida cautelar de arresto, prevista nos arts. 813 e seguintes do CPC/73, e levando-se em consideração, outrossim, que o arresto executivo dos valores pertencentes ao executado ocorreu anteriormente a qualquer tentativa de citação deste, impõe-se a conclusão de que o acórdão recorrido está em harmonia com a orientação firmada pelo STJ. Por conseguinte, deve ser mantida a inadmissão do Recurso Especial, com base na Súmula 83/STJ.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 555.536/PA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/5/2016, DJe 2/6/2016)
+Cumpre salientar que a Primeira Seção, ao apreciar o REsp 1.184.765/PA, julgado sob o rito dos recursos repetitivos, considerou que a constrição prévia não dispensa o exame dos requisitos autorizadores da medida provisória (em tese, apta a evitar lesão grave e de difícil reparação, por força do disposto nos arts. 798 e 799 do CPC/1973).
+Mesmo após a entrada em vigor do art. 854 do CPC/2015, a medida de bloqueio de dinheiro, via BacenJud, não perdeu a natureza acautelatória e, assim, para ser efetivada, antes da citação do executado, exige a demonstração dos requisitos que autorizam a sua concessão.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
