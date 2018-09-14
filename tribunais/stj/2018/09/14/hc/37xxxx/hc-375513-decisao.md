@@ -1,0 +1,39 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CRIME DE EXTORSÃO. ALEGAÇÃO DE NULIDADE POR NÃO ESGOTAMENTO DE TENTATIVAS PARA LOCALIZAR O PACIENTE. AFASTAMENTO DAS CONSEQUÊNCIAS DO CRIME. REDIMENSIONAMENTO DA PENA. ATIPICIDADE DA CONDUTA. REEXAME FÁTICO E PROBATÓRIO. ALEGAÇÃO DE MENORIDADE RELATIVA. AUSÊNCIA DE PREQUESTIONAMENTO.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como autoridade coatora a Sétima Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+Nos autos da Ação Penal n. 0012112-24.2008.8.21.0078, o paciente foi condenado pelo Juízo de Direito da Vara Judicial da comarca de Veranópolis/RS, como incurso no art. 158, caput, do Código Penal (crime de extorsão), às penas de 4 anos e 9 meses de reclusão, em regime semiaberto (fls. 50/57).
+Inconformada, a defesa interpôs apelação criminal (n. 0147289-39.2014.8.21.7000), em que apontou insuficiência probatória. Alegou que o réu foi utilizado como laranja na empreitada criminosa e, de forma subsidiária, pediu a redução da pena. A Sétima Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul negou provimento ao recurso de apelação (fls. 58/67).
+Opostos embargos de declaração, esses foram rejeitados (fls. 72/77).
+No presente writ, os impetrantes apontam ilegalidade na fixação da pena-base, por essa não ter sido devidamente fundamentada. Sustentam que o paciente foi laranja e que não efetuou nenhuma ligação para a vítima, apenas cedeu a conta bancária para um depósito, a pedido de seu tio, que estaria dentro de uma unidade carcerária.
+Aduzem que não foram esgotados os meios para localização do paciente, existindo, assim, nulidade decorrente da ausência de sua intimação da sentença.
+Dizem que, no dia do fato, o paciente contava com 20 anos de idade e que não foi reconhecida a sua menoridade - art. 64, I, do Código Penal.
+Afirmam que há atipicidade da conduta, porquanto o paciente não percorreu o iter criminis quanto aos atos de cogitação, preparação, execução e consumação.
+Decisão deste Relator indeferindo a liminar (fls. 134/135).
+Parecer Ministerial opinando pelo não conhecimento do writ (fl. 140).
+É o relatório.
+Inicialmente, alega a defesa que há atipicidade da conduta, porquanto o paciente não percorreu o iter criminis quanto aos atos de cogitação, preparação, execução e consumação. Sustenta que o paciente foi utilizado como laranja, não efetuando nenhuma ligação para a vítima, e que somente cedeu a conta bancária para um depósito, a pedido de seu tio, que estaria dentro de uma unidade carcerária.
+Sobre tal alegação, consta do acórdão hostilizado que não há provas nesse sentido, sendo que o paciente esteve envolvido no crime e que o depósito foi feito pela vítima na conta do ora paciente, senão vejamos (fls. 66/67):
+ ..
+Como se vê, o conjunto probatório é suficiente para ensejar a condenação, sobretudo pelo depoimento da vítima (fls. 134-137), pelo comprovante de depósito de R$ 1.000,00 efetuado pela vítima em favor do réu (fl 11) e pela ausência de demonstração por parte do apelante de que seu nome fora utilizado indevidamente para a prática do presente crime.
+A vítima [NOME], em juízo, relatou em detalhes o crime em apreço, dizendo que atendeu a uma chamada telefônica na qual o interlocutor dizia que o seu filho havia sido seqüestrado, passando a exigir determinada quantia em dinheiro em troca de sua vida.
+Referiu o ofendido que depositou em favor do réu a quantia de R$ 1.000.00 (fazendo o deposito como se sua filha fosse, ou seja, em nome dela), e gastou, ainda, R$ 180,00 em recarga de créditos de celulares em favor dos "seqüestradores".
+Por fim, disse o ofendido que falou por telefone com os indivíduos durante todo o iter criminis e que em determinado momento a ligação caiu, ocasião em que sua esposa lhe telefonou dizendo que seu filho estava bem, deduzindo o ofendido que havia caído em um golpe.
+Quanto à alegação da defesa técnica de que o réu foi utilizado como laranja" na prática do crime, esta não prospera.
+Compulsando os autos, depreende-se que o réu registrou ocorrência policial (fl. 84) dando conta de que foi abordado por dois indivíduos, sendo que um deles estava armado, os quais lhe ameaçaram. O referido documento, apresentado pela 105a Delegacia de Polícia do Estado do Rio de Janeiro, não permite a leitura do restante da narrativa do réu, tendo em vista a falha de sua impressão. No entanto, acaso o boletim de ocorrência versasse acerca de eventual roubo de documentos do réu, este teria ocorrido (cinco meses) após o fato em apreço, já que o suposto roubo ocorreu em 07/10/2008, segundo consta no boletim de ocorrência, o que foi apontado com atenção pelo julgador a quo.
+Portanto, como referido pelo juiz singular, a (suposta) subtração sofrida pelo réu não corrobora a versão sustentada por ele - de que foi utilizado como "laranja" na empreitada criminosa -, porquanto o suposto roubo ocorreu cinco meses após o fato descrito na denúncia.
+ ..
+Diante disso, inviável, em habeas corpus, o reexame do conjunto fático e probatório dos autos para deduzir que o paciente não percorreu o iter criminis ou que tenha sido usado como laranja, haja vista a comprovação dos fatos retratados pela Corte local.
+A matéria apontada sobre nulidade decorrente da ausência de intimação do acusado da sentença, por não terem sido esgotados os meios para a sua localização, não foi debatida no acórdão hostilizado, inexistindo, portanto, o devido prequestionamento, não sendo ela arguida nem mesmo em embargos de declaração.
+Os impetrantes apontam ilegalidade na fixação da pena-base, por essa não ter sido devidamente fundamentada. Eis a dosimetria feita na sentença (fls. 56/57):
+ ..
+O réu é primário. Não há meios para se aferir sua personalidade, assim como sua conduta social. Os motivos e as circunstâncias são os da espécie. As conseqüências são desfavoráveis, porque os valores extorquidos não foram recuperados pela vítima. O comportamento da vítima nada contribuiu para a prática do crime. A culpabilidade é normal.
+Atendidas as circunstâncias do art. 59 do Código Penal, considero que seja necessário e suficiente fixar a pena-base, para o fim de repressão e prevenção ao crime, em 04 anos e 04 meses de reclusão.
+Incide a agravante da prática de crime contra maior de 60 anos: a vítima nasceu em 12/08/1939, fl. 08; portanto, na data do fato, contava com 68 anos de idade, o que provoca o aumento de 5 meses, restando a pena definitiva em 4 anos e 9 meses de reclusão.
+ ..
+Quanto à pena-base, fixada em 4 anos e 4 meses de reclusão, a única vetorial considerada negativa diz respeito às consequências do crime, sobre não terem sido recuperados os valores extorquidos. No entanto, entendo que razão assiste aos impetrantes, pois a não recuperação do valor já faz parte do próprio tipo penal, sendo uma consequência lógica do crime de extorquir alguém para obter vantagem ilícita. Assim, deverá a pena-base ser fixada no piso mínimo de 4 anos de reclusão.
+Por fim, a defesa aduz que, no dia do fato, o paciente estava com 20 anos de idade e que não foi reconhecida a sua menoridade. Tal alegação não foi discutida no acórdão hostilizado. Inclusive, em embargos de declaração (fls. 72/77), a defesa nada disse a respeito do fato, mas tão somente abordou a questão da ausência de provas para o crime de extorsão e que não teria havido ameaça na hipótese dos autos.
+Diante disso, deverão ser acrescidos 5 meses à pena-base de 4 anos de reclusão pela agravante de ser a vítima maior de 60 anos de idade, tal como fixado na sentença. Então, a pena definitiva passa a ser fixada em 4 anos e 5 meses de reclusão, em regime semiaberto e 10 dias-multa.
+Ante o exposto, concedo a ordem a fim de redimensionar a pena do paciente para 4 anos e 5 meses de reclusão, em regime semiaberto, e 10 dias-multa.
+Publique-se.
