@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    "ADMINISTRATIVO. PROCESSO CIVIL. AÇÃO RESCISÓRIA. ART. 485, INC. VII E IX. DOCUMENTO NOVO. DESCARACTERIZAÇÃO. ERRO DE FATO. INEXISTÊNCIA.
+    1. A ação rescisória configura ação autônoma, de natureza constitutivo negativa, que visa desconstituir decisão com trânsito em julgado, com hipóteses de cabimento numerus clausus (CPC, art. 485), não admitindo interpretação analógica ou extensiva. Como medida excepcional que é, não serve como novo grau recursal, para análise da justiça ou injustiça do julgado, da adequada ou inadequada apreciação da prova.
+    2. A expressão 'documento novo', constante no inciso VII do artigo 485 do CPC, diz respeito a documento que já existia quando da prolação do julgado rescindendo, mas cuja existência era ignorada pelo demandante da rescisória, ou que dele estava impedido de fazer uso, por circunstância alheia à sua vontade, mas em decorrência de situação fática ou jurídica em que se encontrava.
+    3. Mostra-se cabível a propositura de ação rescisória com fundamento na ocorrência de erro de fato (art. 485, inc. IX do CPC) quando a decisão rescindenda considera fato inexistente ou tem por inexistente fato efetivamente ocorrido, desde que sobre esse fato não tenha havido controvérsia nem pronunciamento judicial" (pág. 135 do documento eletrônico 6).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa ao art. 5°, XXII e LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Verifica-se que para dissentir da conclusão adotada pelo Tribunal de origem quanto ao cabimento e aos pressupostos de admissibilidade de ação rescisória seria necessário rever a interpretação dada à legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, destaco julgados de ambas as Turmas desta Corte cujas ementas seguem transcritas:
+     “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. CABIMENTO. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL.
+    1. A controvérsia relativa ao cabimento e aos pressupostos de admissibilidade da ação rescisória restringe-se ao âmbito infraconstitucional. Precedentes.
+    2. O acórdão do Tribunal de origem está devidamente fundamentado, embora em sentido contrário aos interesses da parte agravante, circunstância que não configura violação ao art. 93, IX, da CF/88.
+    3. Agravo regimental a que se nega provimento” (ARE 881.836-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma).
+     “PEDIDO DE RECONSIDERAÇÃO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. REGÊNCIA: CÓDIGO DE PROCESSO CIVIL/1973. PRINCÍPIO DA FUNGIBILIDADE. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO PROCESSUAL CIVIL. PRESSUPOSTOS DE CABIMENTO DE AÇÃO RESCISÓRIA. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 734.382/DF, Rel. Min. Cármen Lúcia, Segunda Turma).
+     Com esse mesmo entendimento, menciono as seguintes decisões, entre outras: ARE 788.531-AgR/SC e RE 779.759-AgR/DF, Rel. Min. Roberto Barroso; AI 859.668-AgR/RJ e AI 549.539-AgR/SP, Rel. Min. Gilmar Mendes; ARE 944.503-AgR/SP, Rel. Min. Dias Toffoli; AI 711.796-AgR/GO, Rel. Min. Cármen Lúcia; RE 382.995-AgR/PI, Rel. Min. Ellen Gracie; AI 431.729-AgR/MG, Rel. Min. Joaquim Barbosa; ARE 1.000.761/SP e RE 638.437/PR, de minha relatoria.
+     Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Deixo de majorar os honorários previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 14 de setembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
