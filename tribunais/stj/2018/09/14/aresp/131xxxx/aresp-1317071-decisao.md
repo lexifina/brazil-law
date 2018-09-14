@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. OCORRÊNCIA DE CASO FORTUITO/FORÇA MAIOR. REEXAME DE FATOS/PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por BRASILIA PARQUE CONSTRUÇÃO E INCORPORAÇÃO S/A, contra inadmissão, na origem, de recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República manejado contra acórdão do Tribunal de Justiça do Estado do Distrito Federal e Territórios (fls. 327/328):
+DIREITO CIVIL, DO CONSUMIDOR E PROCESSUAL CIVIL. INCORPORAÇÃO IMOBILIÁRIA. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA. CASO FORTUITO OU FORÇA MAIOR INEXISTENTES. RESOLUÇÃO DO CONTRATO. RESTITUIÇÃO DOS VALORES PAGOS. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. ÍNDICE DE CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PREPONDERAMENTE CONDENATÓRIA. PERCENTUAL DO VALOR DA CONDENAÇÃO.
+I. Submete-se à regência normativa do Código de Defesa do Consumidor a relação jurídica oriunda de promessa de compra e venda celebrada no âmbito de incorporação imobiliária.
+II. A promissária vendedora responde pelo atraso na conclusão das obras que obstou a entrega do imóvel dentro dos marcos temporais previstos na promessa de compra e venda.
+111. Pela teoria do risco do empreendimento contemplada nos artigos 12 e 14 do Código de Defesa do Consumidor, as incorporadoras respondem objetivamente pelas vicissitudes da atividade empresarial que desenvolvem.
+IV. Entraves administrativos são inerentes ao planejamento e à execução da incorporação imobiliária e por isso não podem ser considerados excludentes de responsabilidade.
+V. O atraso na entrega do imóvel justifica a resolução da promessa de compra e venda.
+VI. A resolução contratual opera efeitos retroativos e, por conseguinte, envolve a restituição de todos os valores pagos pelo promitente comprador.
+VII. A devolução da quantia a que faz jus o consumidor deve ser acrescida de juros de mora a partir da citação.
+VIII. O Índice Nacional da Construção Civil - INCC tem caráter setorial e por isso não deve ser aplicado para corrigir monetariamente valores a serem restituídos ao promitente comprador por força da resolução da promessa de compra e venda.
+IX. A sentença que condena a promissária vendedora à restituição dos valores pagos pelos promitentes compradores tem natureza condenatória e, por isso, atrai a incidência do artigo 20, § 3º, do Código de Processo Civil de 1973.
+X. Recurso das Rés conhecido e desprovido. Recurso dos Autores conhecido e provido.
+Nas razões do recurso especial a parte recorrente alega violação do art. 393 do Código Civil. Alega, em síntese, que o atraso na entrega do imóvel se deu por caso fortuito e força devendo ser afastada a responsabilidade civil do agente.
+Contrarrazões apresentadas às fls. 377/382.
+É o relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à alegação de configuração de caso fortuito e força maior, o Tribunal de origem negou provimento ao recurso de apelação, e, com base nas provas encontradas nos autos, concluiu que (fls. 332/336):
+O atraso é irrefutável: prevista para 31/05/2014 (fl. 95v), com o acréscimo do prazo de tolerância a conclusão da obra deveria ter ocorrido até 27/11/2014, porém a Carta de Habite-se só foi expedida em 06/02/2015 e averbada em 12/03/2015 (fls. 99 e 141).
+Os fatos arguidos pelas Rés para justificar o descumprimento do prazo convencionado - atraso da CEB na realização da vistoria para o "habite-se" e a necessidade de realização de RIT - não podem ser qualificados como fortuito ou de força maior.
+Inexistindo a objetividade do óbice levantado, já que os fatos, ainda que tivessem sido demonstrados, não se estendem além do seio restrito da atividade empresarial das Rés, não há que se falar em caso fortuito ou de força maior, ou seja, em descumprimento involuntário do contrato.
+(..)
+Parece elementar que construtoras e incorporadoras não podem legitimamente alegar que desconhecem as dificuldades inerentes à sua atividade empresarial. Quando muito, circunstâncias adversas, tais como aquelas suscitadas, configurariam fortuito interno que, por sua própria natureza, não exclui a responsabilidade civil dos fornecedores.
+(..)
+Acrescente-se que eventos imprevisíveis ou irresistíveis só podem ser considerados caso fortuito ou de força maior quando importam na impossibilidade de cumprimento da obrigação, assim não podendo ser equiparado eventos que apenas oneram ou dificultam o adimplemento.
+(..)
+Ainda, pois, que houvesse prova de que as Rés foram surpreendidas com o atraso na vistoria da CEB para a expedição do "habite-se" ou com a necessidade de RIT, esses fatos representariam mero caso fortuito interno que não tem o condão de justificar o descumprimento contratual depois de exaurido o prazo de tolerância previsto no contrato.
+(..)
+Não se deve perder de vista que, pela teoria do risco do negócio ou da atividade, explicitamente contemplada nos artigos 12, caput, e 14, caput, do Código de Defesa do Consumidor, construtoras e incorporadoras respondem objetivamente pelas vicissitudes atinentes à atividade empresarial que desenvolvem.
+Não se cuida, é oportuno salientar, de inadimplemento mínimo que, pela teoria do adimplemento substancial, em tese poderia impedir a dissolução do contrato.
+(..)
+O consumidor tem a prerrogativa de exigir a resolução do contrato se o imóvel não é entregue no prazo ajustado, nos termos do artigo 475 do Código Civil. Trata-se de direito formativo que não é afetado pelo cumprimento da obrigação depois de judicializada a demanda.
+Ressai nítido, portanto, que os empecilhos invocados pelas Apelantes longe estão de caracterizar excludente de responsabilidade catalogada no artigo 393 do Código Civil ou nos artigos 12, inciso III, e 14, inciso III, da Lei 8.078/90.
+Nesse contexto, verifica-se que alterar o entendimento do acórdão recorrido demandaria necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice previsto no Enunciado n.º 7, da Súmula de Jurisprudência do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. RESCISÃO CONTRATUAL. ATRASO NA ENTREGA. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. DANOS MATERIAIS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS CUJA INTERPRETAÇÃO SEJA DIVERGENTE. INCIDÊNCIA DA SÚMULA 284 DO STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe a Súmula 123/STJ: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+2. A revisão das conclusões estaduais - acerca da não caracterização de caso fortuito ou força maior que justificassem a exclusão da responsabilidade da recorrente no atraso da entrega do imóvel objeto da demanda e suas consequências - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis na via estreita do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+3. A falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula n. 284 do STF, por analogia. (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia). 4. Ausência de impugnação a fundamento constante do acórdão estadual. Súmula 283/STF. 5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1261617/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/06/2018, DJe 27/06/2018; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. NÃO OCORRÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. LUCROS CESSANTES. MATÉRIA QUE DEMANDA REEXAME DE FATOS, PROVAS, E CLÁUSULAS CONTRATUAIS. SUMULAS 5, 7 E 83 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, a convicção a que chegou o acórdão em relação a não ocorrência de caso fortuito ou força maior e a configuração do inadimplemento contratual decorreu da análise de elementos fáticos-probatórios dos autos e da interpretação de cláusulas contratuais, de modo que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que obsta a admissibilidade do especial ante o teor das Súmulas 5 e 7 desta Corte.
+2. Esta Corte Superior já firmou entendimento de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador.
+3. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu pela existência de danos morais, decorrentes do longo atraso na entrega da unidade imobiliária. Assim, alterar o entendimento do acórdão recorrido demandaria necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. Ademais, incidente a Súmula 83/STJ.
+5. Agravo interno não provido. (AgInt no AREsp 1121461/AM, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+Registre-se que, consoante jurisprudência desta corte, a incidência da súmula 7/STJ inviabiliza o conhecimento do recurso lastreado, também, pela alínea "c" do permissivo constitucional.
+Destarte, inviável a pretensão do recorrente.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial e, com base no art. 85, § 11, do CPC/2015, majoro os honorários de sucumbência para 13% do valor da condenação.
+Intimem-se.
