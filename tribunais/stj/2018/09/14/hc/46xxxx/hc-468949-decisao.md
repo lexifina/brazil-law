@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. LIVRAMENTO CONDICIONAL. FALTAS GRAVES. REQUISITO SUBJETIVO NÃO PREENCHIDO. ACÓRDÃO ATACADO ALINHADO À JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+No PEC n. 125203-8, o Juízo da Vara de Execuções Criminais da comarca de Novo Hamburgo indeferiu o pedido de livramento condicional feito por [NOME], por entender ausente o requisito subjetivo.
+Ao Agravo em Execução n. [CPF], interposto pela defesa, o Tribunal de Justiça do Rio Grande do Sul negou provimento, nestes termos (fl. 81):
+AGRAVO EM EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTAS DISCIPLINARES NO CURSO DA EXECUÇÃO. MANTIDA DECISÃO A QUO QUE INDEFERIU A BENESSE. RECURSO DEFENSIVO IMPROVIDO.
+Sobreveio o presente writ, em que se pretende, inclusive em caráter liminar, a concessão do dito benefício ao paciente, ao argumento, em suma, de que a exigência de que o paciente não tenha praticado falta grave não está em consonância com a Lei, não sendo possível, portanto, ser feita analogia em desfavor do mesmo, nem suprir lacuna legal (fl. 1).
+É o relatório.
+Não há ilegalidade a ser reparada por esta via.
+De acordo com o art. 112, § 2º, da Lei de Execução Penal, para a concessão do livramento condicional, deve o apenado satisfazer requisitos de índole objetiva e subjetiva. Nesta última categoria, consoante o disposto no art. 83 do Código Penal, está a exigência de comprovado comportamento satisfatório durante a execução da pena.
+A esse respeito, há, na jurisprudência desta Corte, a compreensão de que o juiz detém a discricionariedade de verificar o efetivo cumprimento do requisito subjetivo e não está adstrito ao que veiculado no atestado de bom comportamento carcerário, sob pena de se tornar mero homologador do que manifestado pelo diretor do estabelecimento prisional (HC n. 290.901/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/10/2014), bem como de que, conquanto não interrompa a contagem do prazo para fins de livramento condicional (enunciado n. 441 da Súmula do STJ), a prática de falta grave impede a concessão do aludido benefício por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do art. 83, inciso III, do Código Penal. O citado dispositivo legal não prevê período específico para a aferição do bom comportamento carcerário, de modo que, se o Juízo da Vara de Execuções Criminais, fundamentadamente, considerou não satisfeito o requisito subjetivo indicado, cumpre prestigiar tal entendimento (AgRg no HC n. 288.358/MS, Ministro Jorge Mussi, Quinta Turma, DJe 28/10/2014).
+Confiram-se, nesse sentido, os seguintes julgados: AgRg no HC n. 414.730/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/3/2018; e AgRg no HC n. 423.662/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 2/5/2018.
+Na hipótese, as instâncias ordinárias decidiram nos exatos termos da nossa jurisprudência, ao entenderem que as faltas graves praticadas pelo ora paciente, consistentes em fugas - tendo a última recaptura ocorrido no dia 26/7/2017 -, são suficientes para afastar a presença do requisito subjetivo.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
