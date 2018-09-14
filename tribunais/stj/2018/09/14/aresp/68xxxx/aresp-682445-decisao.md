@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado de São Paulo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 216):
+AGRAVO DE INSTRUMENTO. Usucapião. Decisão que excluiu da lide a Fazenda Estadual, determinando a devolução dos autos à Vara de Registros Públicos. Inconformismo. Não acolhimento. Não demonstração de que a área usucapienda é terra devoluta. Ausência de fundamentos para refutar a bem lançada decisão. Incidência do artigo 252 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo. Inviável a anulação da decisão para a produção de provas, porquanto foi possibilitada a realização das provas documental e pericial, as necessárias ao caso. Decisão mantida. Recurso improvido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 235/240).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 265, IV, 333, 364, 458 e 535, I e II, do CPC/73; 23 e 27 da Lei nº 6.383/76. Para tanto, sustenta, além da negativa de prestação jurisdicional, que: (i) "não há razão jurídica plausível que impeça o sobrestamento do andamento da presente ação até que seja concluída a ação discriminatória em curso" - (fl. 265); (ii) "sem que haja uma definição da área na ação discriminatória, não é possível o processamento da ação de usucapião" - (fl. 266).
+O Ministério Público Federal, em parecer, opinou pelo desprovimento do agravo (fls. 330/335).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Colhe-se dos autos que o presente recurso especial foi tirado de agravo de instrumento interposto contra decisão de Juiz Singular que, nos autos de ação de procedimento ordinário n. 0174550-53.2009.8.26.0100, excluiu a Fazenda do Estado de São Paulo do processo (fls. 195/197)
+Em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que, em 13/04/2018, foi proferida sentença de procedência do pedido.
+Nesse panorama, nos termos da jurisprudência desta Corte Superior, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação de sentença de mérito, haja vista que nela a cognição é exauriente.
+A esse respeito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. FORNECIMENTO DE MEDICAMENTOS. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA AD CAUSAM DA UNIÃO. TUTELA ANTECIPADA. SENTENÇA SUPERVENIENTE. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO EM FACE DE DESISTÊNCIA DA AÇÃO. PERDA DO OBJETO. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO PREJUDICADO.
+1. A presente demanda originou-se de Agravo de Instrumento interposto de decisão do juiz de primeiro grau que deferiu o pedido de antecipação de tutela requerido pela ora embargada.
+2. Em consulta ao site do Tribunal Regional Federal da 4ª Região, constata-se que já foi proferida sentença nos autos da ação principal, a qual homologou o pedido de desistência da ação e, consequentemente, extinguiu o processo sem julgamento do mérito, nos termos do art. 267, VIII, do CPC.
+3. Comprovada a perda de objeto, não mais se verifica o interesse de agir por parte da embargante, considerando-se, assim, prejudicado o recurso.
+4. Embargos de Declaração prejudicados.
+(EDcl no AgRg no Ag 1225532/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2013, DJe 22/05/2013)
+Ante o exposto, julgo prejudicado o recurso, por perda superveniente de seu objeto.
+Publique-se.
