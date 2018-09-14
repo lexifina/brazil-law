@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. AUSÊNCIA DE CITAÇÃO. TRANSCURSO DE PRAZO SUPERIOR A CINCO ANOS. EXECUÇÃO AJUIZADA ANTES DA LC 118/2005. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. INÉRCIA DO EXEQUENTE. JUÍZO FIRMADO COM LASTRO NOS ELEMENTOS DE FATOS E PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo MUNICÍPIO DE CURITIBA, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 41):
+APELAÇÃO CÍVEL. TRIBUTÁRIO. EXECUÇÃO FISCAL.
+PRELIMINAR. NULIDADE DA SENTENÇA. JUÍZO "A QUO" QUE DEIXOU DE OPORTUNIZAR A MANIFESTAÇÃO DAS PARTES, ANTERIORMENTE A DECRETAÇÃO, DE OFÍCIO, DA PRESCRIÇÃO. VIOLAÇÃO AO ART. 10, DO NOVO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. SENTENÇA PROFERIDA SOB A ÉGIDE DO ANTIGO CÓDIGO (1973). INEXISTÊNCIA DE VIOLAÇÃO AO PRINCIPIO DO CONTRADITÓRIO.
+IPTU. AÇÃO AJUIZADA ANTERIORMENTE À VIGÊNCIA DA LEI COMPLEMENTAR Nº 118/2005, QUE ALTEROU O ART. 174, PARÁGRAFO ÚNICO, INCISO I, DO CÓDIGO TRIBUTÁRIO NACIONAL. DATA DE VENCIMENTO DO TRIBUTO QUE NÃO CONSTOU NA CDA. PRAZO PRESCRICIONAL QUE DEVE SER CONTADO A PARTIR DE 1.12 DE FEVEREIRO DO RESPECTIVO EXERCÍCIO FINANCEIRO. CRÉDITOS TRIBUTÁRIOS VENCIDOS EM P/02/1996, P/02/1997 E 10/02/1998. DECURSO DO PRAZO LEGAL DE 05 (CINCO) ANOS, SEM A COMPROVAÇÃO DA CITAÇÃO DO EXECUTADO. PRESCRIÇÃO MATERIAL EVIDENCIADA, AINDA QUE CONSIDERADA A DATA DE INSCRIÇÃO DA DÍVIDA, COMO O TERMO INICIAL. DEMORA QUE NÃO PODE SER IMPUTADA AOS MECANISMOS DA JUSTIÇA.
+INAPLICABILIDADE DA SÚMULA 106 DO ST  E DO ART. 219, § 152 DO CÓDIGO DE PROCESSO CIVIL/1973.
+PRINCIPIO DO IMPULSO OFICIAL QUE NÃO É ABSOLUTO, DEVENDO SER SOPESADO COM OS PRINCÍPIOS DA INÉRCIA E DO DISPOSITIVO. INTIMAÇÃO PESSOAL DA FAZENDA PÚBLICA. ART. 25 DA LEI Nº 6.830/80. DESNECESSIDADE. DEVER DO EXEQUENTE EM PROMOVER AS DILIGÊNCIAS NECESSÁRIAS PARA A EFICÁCIA DA PRETENSÃO EXECUTÓRIA. SUSPENSÃO PREVISTA NO ART. 40 DA LEI Nº 6.830/80. CASO QUE NÃO SE TRATA DE PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO DO MUNICÍPIO DE CURITIBA AO PAGAMENTO DAS CUSTAS PROCESSUAIS. MANUTENÇÃO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. VARA ESTATIZADA. AUSÊNCIA DE LEGISLAÇÃO LOCAL QUE ISENTE A FAZENDA PÚBLICA. POSICIONAMENTO FIXADO NO INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA Nº 1329914-8/01. SÚMULA 72 DESTE TRIBUNAL DE JUSTIÇA. EXCLUSÃO DO VALOR DA TAXA JUDICIÁRIA. ART. 3º, "I", DO DECRETO ESTADUAL Nº 962/1932.
+SENTENÇA REFORMADA, EM PARTE.
+PROVIMENTO PARCIAL AO RECURSO DE APELAÇÃO.
+No recurso especial, o recorrente sustenta negativa de vigência dos arts. 174 do CTN e 8º, § 2º, da LEF ao argumento de não ocorrência da prescrição, uma vez que o despacho que ordena a citação é causa interruptiva do lapso prescricional. Alega que a demora do ato citatório deu-se exclusivamente em razão do serviço judicial, não tendo o processo jamais permanecido paralisado por culpa do Município. Aduz que a prescrição intercorrente, na execução fiscal, foi abolida e que o caso dos autos é hipótese de incidência do entendimento da Súmula 106/STJ, devendo ser afastada a prescrição. Aponta, também, negativa de vigência do art. 25 da Lei n. 6.830/1980 aduzindo que a não manifestação da exequente deu-se por falta de intimação pessoal pelo cartório.
+Sem contrarrazões (Certidão à fls. 70).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Na espécie, a Corte de origem expõe que a hipótese dos autos trata-se de ação executiva ajuizada anteriormente à vigência da LC 118/2005 e até a sentença em 7/3/2016 o executado ainda não tinha sido citado, ocorrendo a prescrição direta, e não a intercorrente, além de firmar a inércia do exequente ao longo de todo o período. Confira-se a fundamentação assinalada (fls. 47-53):
+A presente ação foi ajuizada anteriormente à vigência da Lei Complementar n. 118/2005, que alterou o art. 174, parágrafo único, I, do CTN, visando o recebimento de créditos tributários relativos ao IPTU, dos exercícios de 1996, 1997 e 1998 (CDA nº 17.398/1999).
+Quanto ao termo inicial do prazo prescricional, este deve ser contado da constituição definitiva do crédito tributário, que, em se tratando de IPTU, se dá com a notificação do contribuinte, mediante o envio do carnê de pagamento.
+ ..
+No caso em análise, considerando que os créditos tributários venceram em 1º/02/1996, 1º/02/1997 e 1º/02/1998, tinha o exequente até o dia 1º de fevereiro de 2003 para comprovar a citação do executado, o que não ocorreu, já que até a data da prolação da sentença em 07/03/2016, tal medida não havia se efetivado.
+Portanto, diante da não comprovação da citação do executado dentro do prazo legal quinquenal, resta evidente a ocorrência da prescrição material.
+ ..
+Quanto à necessidade da aplicação da Súmula 106 do STJ, sem razão o apelante.
+A demora na realização dos atos processuais não pode ser imputada exclusivamente aos mecanismos da justiça, pois restou evidente que o exequente não agiu com o necessário zelo em busca da satisfação de seu crédito, pelo que, afasta-se a incidência da Súmula 106 do STJ no presente caso.
+ ..
+Cabe destacar que a Fazenda Pública é responsável por zelar pelo regular andamento do feito, evitando a ocorrência da prescrição, haja vista que o princípio do impulso oficial não é absoluto, devendo ser sopesado com os princípios da inércia e do dispositivo.
+Outrossim, a regra contida no art. 219, § 1º do CPC de 1973, só é aplicada quando eventual demora ocorreu por falha exclusiva da máquina Judiciária, o que não é o caso, veja-se:
+ ..
+Em relação ao emprego do art 25 da Lei nº 6.830/80, melhor sorte não assiste ao apelante.
+Isto porque o fato de o Município possuir a benesse da intimação pessoal prevista no referido dispositivo legal não lhe retira o dever de promover as medidas necessárias para o andamento do processo, independentemente de intimação.
+ ..
+Ainda, não incide o disposto no artigo 40, § 4º da Lei n. 6.830/80, onde o prazo da prescrição intercorrente só começaria a orrer após o prazo de suspensão do processo por 01 (um) ano, urna vez que o caso se trata de prescrição material, diante do decurso de mais de 05 (cinco) anos, sem a comprovação da citação do executado.
+Por um lado, a não impugnação do fundamento do acórdão relativamente ao fato de que a execução fora ajuizada antes da entrada em vigor da LC 118/2005, por si só capaz de manter o resultado do julgado, torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Por outro lado, inviável a desconstituição das conclusões firmadas pela Corte de origem, sem o reexame dos elementos fático-probatórios dos autos, o que, em sede de recurso especial, é vedado por força da Súmula 7/STJ. É que, conforme assentado no julgamento do REsp 1.102.431/RJ, processado sob o rito do art. 543-C do CPC/73, a alteração das conclusões adotadas pela Corte de origem, no tocante à aplicação da Súmula 106/STJ, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publuqe-se. Intimem-se.
