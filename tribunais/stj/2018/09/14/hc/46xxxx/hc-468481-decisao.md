@@ -1,0 +1,39 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. FALSIDADE IDEOLÓGICA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] contra decisão indeferitória de provimento urgente do Desembargador Relator do Habeas Corpus n.º 1.0000.18.096291-2/000 em trâmite no Tribunal de Justiça do Estado de Minas Gerais.
+Consta do autos que o Paciente foi preso em flagrante em 24/08/2018 e autuado como incurso na prática do delito previsto no art. 299 do Código Penal. Em 29/08/2018, a prisão em flagrante foi convertida em prisão preventiva.
+Não concordando com a referida decisão, a Defesa impetrou habeas corpus, com pedido de liminar, perante o Tribunal a quo. O Desembargador Relator do feito originário indeferiu o pedido urgente (fls. 44-45).
+Irresignado, o Paciente impetrou novo habeas corpus, com pedido de liminar, contra a decisão acima mencionada, sustentando, em síntese, que não estão presentes os requisitos para a prisão preventiva e que o decreto prisional não está devidamente fundamentado.
+Alega que eventual condenação poderia ensejar regime menos gravoso do que o fechado ou, ainda, a aplicação de penas restritivas de direitos, sendo, por isso, desproporcional a prisão cautelar.
+Aduz que ostenta condições favoráveis, pois é primário, possui residência fixa, trabalho lícito e não apresenta periculosidade.
+Por fim, afirma que, em caráter subsidiário, deve ser substituída a custódia por medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal.
+Assim, requer, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Passo a decidir.
+Consoante o posicionamento firmado pela Suprema Corte e por este Tribunal Superior, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o entendimento sedimentado na súmula n.º 691/STF (" n ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, a este Superior Tribunal de Justiça (AgRg no HC 447.280/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 01/06/2018; AgRg no HC 446.100/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe de 21/05/2018; AgRg no HC 444.105/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe de 21/05/2018; AgRg no HC 376.599/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 12/06/2018).
+A despeito de tal óbice processual, têm-se entendido, que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, suprimindo a competência da Inferior, subvertendo a regular ordem do processo.
+No caso, não há ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal - cuja essência vem sendo reiteradamente ratificada por julgados deste Superior Tribunal de Justiça -, sobretudo porque a decisão que converteu a prisão em flagrante em preventiva não se encontra, em juízo de cognição sumária, desprovida de fundamentação.
+A propósito, confiram-se as razões da supramencionada decisão (fls. 41-43, sem grifos no original):
+" ..
+O fumus comissi delicti está presente, sendo demonstrado pelo termo de condução (ff. 03/04), pelos depoimentos das testemunhas (ff. 05/06) e pelas declarações de uma das vitimas (f. 08).
+Em relação ao periculum libertatis, embora o crime não tenha sido praticado com violência ou grave ameaça, consta da CAC do autuado (ff. 14/15) que ele é reincidente, possuindo condenação criminal transitada em julgado, circunstância apta a, concretamente, sugerir o risco de reiteração delitiva.
+Além disso, há notícia nos autos de que o autuado teria supostamente praticado crimes patrimoniais conexos, e ainda, que estaria ameaçando as supostas vítimas e testemunhas, sugerindo a necessidade da segregação cautelar para garantia da ordem pública e da instrução criminal.
+ .. "
+Tais fundamentos, primo ictu oculi, são suficientes para justificar o decreto prisional, encontrando-se demonstrada a necessidade da prisão preventiva em razão do fundado receio de reiteração delitiva, bem como das ameaças às supostas vítimas e testemunhas.
+Nesse sentido:
+"RECURSO EM HABEAS CORPUS. ROUBO. DESCLASSIFICAÇÃO DO CRIME DE ROUBO PARA O DELITO DE AMEAÇA. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. PRISÃO PREVENTIVA. FUNDAMENTOS. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A análise da tese de desclassificação da conduta de roubo para o crime de ameaça, segundo a jurisprudência desta Corte, demandaria, necessariamente, o exame do acervo fático-probatório, o que não se coaduna com a via estreita do habeas corpus.
+2. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível mediante decisão devidamente fundamentada e com base em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema nos termos do art. 312 e seguintes do Código de Processo Penal.
+3. No caso, o real risco de reiteração delitiva apontado pelas instâncias ordinárias confere, por si só, lastro de legitimidade à manutenção da medida extrema, pois revela a necessidade de se garantir a ordem pública.
+4. Recurso em habeas corpus improvido." (RHC 93.099/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/08/2018, DJe 28/08/2018, sem grifos no original.)
+"RECURSO EM HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO. PRISÃO PREVENTIVA. FUNDAMENTOS IDÔNEOS. AMEAÇAS À VÍTIMA E À TESTEMUNHA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. PRESENÇA DOS PRESSUPOSTOS DO ART. 312 DO CPP. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. SÚMULA 52/STJ.
+1. Segundo o entendimento desta Corte, as ameaças à vítima e à testemunha, feitas pelo ora recorrente, representam fundamentação idônea para a prisão cautelar, com base na conveniência da instrução criminal.
+2. Encerrada a instrução processual, não há falar em excesso de prazo da formação da culpa. Incidência da Súmula 52/STJ.
+3. Recurso em habeas corpus parcialmente conhecido e, nessa extensão, improvido." (RHC 89.360/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/06/2018, DJe 02/08/2018; sem grifos no original.)
+Diante do que registrado acima - em que não se observa, ao menos primo ictu oculi, nenhuma teratologia -, não há como se reconhecer, de plano, ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Destaque-se que, não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
