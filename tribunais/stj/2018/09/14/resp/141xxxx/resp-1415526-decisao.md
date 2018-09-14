@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. ISS. AÇÃO DE REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. COMPROVAÇÃO DO ÔNUS FINANCEIRO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Município de Porto Alegre, com fulcro nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição, contra acórdão do TJRS assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. RECURSO ESPECIAL REFORMANDO FUNDAMENTO DA DECISÃO DESTA CORTE. RETORNO PARA ANALISAR SE HOUVE OU NÃO O REPASSE DO IMPOSTO SOBRE SERVIÇO RECONHECIDAMENTE PAGO INDEVIDAMENTO. ANÁLISE DAS NOTAS FISCAIS E DOS DOCUMENTOS DOS AUTOS QUE COMPROVAM O NÃO REPASSE DO IMPOSTO, POIS PAGO POSTERIORMENTE EM PARCELAMENTO FIRMADO COM CONFISSÃO DE DÍVIDA.
+À unanimidade, mantiveram a decisão que negou provimento ao recurso.
+Opostos embargos de declaração, foram acolhidos em parte, sem efeitos modificativos, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. CONTRADIÇÃO. ACOLHIMENTO NO PONTO. NO MAIS, O RECURSO SE MOSTRA ESVAZIADO DE FUNDAMENTAÇÃO.
+I) Efetivamente verifica-se a existência de contradição no acórdão embargado. Embargos acolhidos para sanar contradição constatada.
+II) Os embargos de declaração não se prestam ao rejulgamento da lide, estando limitados aos casos em que a decisão embargada contenha obscuridade, contradição ou omissão. Situação inocorrente no caso concreto.
+III) A Câmara não está obrigada a discorrer sobre todos os argumentos utilizados pela parte. Basta que encontre e assente os fundamentos fáticos e jurídicos da decisão.
+IV) Os embargos de declaração podem conter pedido de prequestionamento, desde que alicerçado em uma das hipóteses do art. 535,1 e II, do CPC. Situação inocorrente, caso concreto.
+EMBARGOS ACOLHIDOS EM PARTE, SEM EFEITOS MODIFICATIVOS. UNÂNIME.
+Nas razões recursais, além do dissenso jurisprudencial, sustenta o recorrente violação aos artigos 166 do CTN e 334, IV, do CPC/73. Aduz, em síntese:
+Segundo a legislação tributária, diferentemente do que julgou a decisão do Tribunal de Justiça a quo, a legitimidade para o pedido condenatório à repetição do indébito do ISS precisa ser integrada pela prova de sua não-repercussão financeira ou da autorização dos contribuintes de fato do ISS, como exigido pelo art. 166 do CTN. Ao dispensar o Recorrido dessa prova, à luz do emprego de perigosa presunção não prevista em lei, o decisum vergastado violou frontalmente essa norma do Código Tributário Nacional.
+Não foram apresentadas contrarrazões.
+O recurso foi admitido na origem.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+A pretensão recursal não merece prosperar.
+Com efeito, a restituição do indébito sujeita-se à prévia comprovação de quem suportou o encargo, conforme a regra prevista no art. 166 do Código Tributário Nacional. Entendimento confirmado pela sistemática dos recursos repetitivos de que trata o art. 543-C do Código de Processo Civil, a seguir:
+TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. ISS. LOCAÇÃO DE BENS MÓVEIS.
+REPETIÇÃO DE INDÉBITO. PROVA DA NÃO REPERCUSSÃO. EXIGIBILIDADE, IN CASU. ART. 166 DO CTN.
+1. O ISS é espécie tributária que admite a sua dicotomização como tributo direto
+ou indireto, consoante o caso concreto.
+2. A pretensão repetitória de valores indevidamente recolhidos a título de ISS incidente sobre a locação de bens móveis (cilindros, máquinas e equipamentos utilizados para acondicionamento dos gases vendidos), hipótese em que o tributo assume natureza indireta, reclama da parte autora a prova da não repercussão, ou, na hipótese de ter a mesma transferido o encargo a terceiro, de estar autorizada por este a recebê-los, o que não ocorreu in casu, consoante dessume-se do seguinte excerto da sentença, in verbis: "Com efeito, embora pudesse o autor ter efetuado a prova necessária, que lhe foi facultada, deixou de demonstrar que absorveu o impacto financeiro decorrente do pagamento indevido do ISS sobre a operação de locação de móveis, ou que está autorizado a demandar em nome de quem o fez. Omitiu prova de que tenha deixado de repassar o encargo aos seus clientes ou que tenha autorização destes para buscar a repetição, conforme exigência expressa inscrita no art. 166 do CTN." 3. Precedentes: REsp 1009518/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 06/08/2009, DJe 21/08/2009; AgRg no AgRg no REsp 947.702/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/08/2009, DJe 17/08/2009; AgRg no REsp 1006862/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 26/08/2008, DJe 18/09/2008; REsp 989.634/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 19/06/2008, DJe 10/11/2008; AgRg no REsp n.º 968.582/SC, Rel. Min. FRANCISCO FALCÃO, DJU de 18/10/2007; AgRg no Ag n.º 692.583/RJ, Rel. Min. DENISE ARRUDA, DJU de 14/11/2005; REsp n.º 657.707/RJ, Rel. Min. JOSÉ DELGADO, DJU de 16/11/2004).
+4. Recurso especial desprovido. Acórdão submetido ao regime do art.
+543-C do CPC e da Resolução STJ 08/2008. (REsp 1.131.476/RS, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, DJe 01/02/2010)
+In casu, o Tribunal a quo, apesar de ter registrado entendimento de que o ISS recolhido a maior deve ser restituído independentemente de prova, asseverou que "tendo em vista a determinação constante no acórdão do Superior Tribunal de Justiça, analiso os documentos dos autos e concluo que não há nas notas fiscais de fls. 32/51 repasse do encargo do ISS" ao tomador do serviço, reafirmando, no julgamento do embargos declaratórios, que "restou comprovado que não houve repasse do encargo tributário, nos termos do art. 166 do CTN, devendo ser mantida a sentença que determinou a repetição do indébito."
+Nesse contexto, a modificação do aresto atacado atrela-se ao reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ilustrativamente:
+TRIBUTÁRIO - PROCESSO CIVIL - ISS - AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO - APRECIAÇÃO APENAS DA LEGITIMIDADE PARA A AÇÃO DE REPETIÇÃO DE INDÉBITO - OMISSÃO - NULIDADE - - REPERCUSSÃO JURÍDICA DO TRIBUTO - INEXISTÊNCIA - LEGITIMIDADE DO CONTRIBUINTE DE DIREITO.
+1. É omisso o acórdão que deixa de se pronunciar sobre questão jurídica relevante, a exemplo da legitimidade ativa da recorrente para a declaração de inexistência de relação jurídico-tributária.
+2. O ISS pode ser classificado como tributo sujeito à imposição direta ou indireta a depender das circunstâncias fáticas. Precedentes.
+3. Na hipótese, restou comprovado por prova pericial a ausência de destaque do tributo na nota fiscal da prestação de serviço, de modo que se afasta a restrição contida no art. 166 do CTN quando o prestador não repassou o tributo no preço do serviço, assumindo o seu encargo financeiro.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, e determinar à Corte de origem que aprecie a pretensão declaratória de inexistência de relação jurídico-tributária.
+(REsp 1.009.518/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 06/08/2009, DJe 21/08/2009)
+Cumpre esclarecer que tal óbice impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Nesse sentido:
+ADMINISTRATIVO. LIMITAÇÃO AO EXERCÍCIO DO DIREITO DE PROPRIEDADE. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. DEVIDA PRESTAÇÃO JURISDICIONAL. ART. 524 DO CÓDIGO CIVIL DE 1916. DIREITO DE INDENIZAÇÃO DE ÁREA DECLARADA DE PRESERVAÇÃO PERMANENTE. IMPOSSIBILIDADE DE REEXAME DA DECISÃO A QUO POR ESTA CORTE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. Não cabe falar em ofensa aos arts. 458, inciso II; e 535, incisos I e II, do Código de Processo Civil quando o Tribunal de origem pronuncia-se de forma clara e suficiente sobre a questão colocada nos autos.
+2. Rever entendimento da instância ordinária que, com base nos elementos de convicção do autos, assenta a falta de prova de que ocorreram prejuízos financeiros e também o esvaziamento da utilização econômica do imóvel demanda o revolvimento do arcabouço probatório dos autos, inviável em recurso especial, dado o óbice da Súmula 7 desta Corte.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Agravo regimental improvido.
+(AgRg no AREsp 16.879/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/04/2012, DJe 27/04/2012)
+Consoante a Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
