@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, assim ementado (fl. 178):
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. REEXAME NECESSÁRIO E APELAÇÃO CÍVEL EM AÇÃO ORDINÁRIA DE COBRANÇA. RECURSO NECESSÁRIO IMPROVIDO. APELO PREJUDICADO. DECISÃO UNÂNIME.
+1 - A pensão por morte de servidor público falecido deve corresponder à totalidade dos seus vencimentos ou proventos, por força do disposto no art. 40, § 5º, da Constituição Federal, por ser este dispositivo auto aplicável, independendo de lei estadual regulamentadora.
+2 - Há direito comprovado à diferença entre os valores efetivamente recebidos pela pensionistas e o que receberia o ex-servidor falecido se vivo estivesse.
+3 - Improvido o Recurso Necessário.
+4 - Prejudicado o Apelo voluntário.
+5 - Decisão unânime.
+Os embargos de declaração opostos pela parte recorrida foram parcialmente acolhidos para fixar como termo inicial da condenação a data do óbito da servidora, consoante acórdão assim ementado (apenso, fl. 19):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO PARCIAL APENAS QUANTO AO TERMO INICIAL DO DIREITO À PERCEPÇÃO DOS BENEFÍCIOS E QUANTO A INCIDÊNCIA DOS HONORÁRIOS ADVOCATÍCIOS SOBRE O VALOR DA CONDENAÇÃO. REJEITADO O PEDIDO DE MAJORAÇÃO DO PERCENTUAL DA VERBA HONORÁRIA. DECISÃO UNÂNIME.
+1 - Configurada a ocorrência de omissão no aresto embargado quanto aos pontos suscitados pelo embargante.
+2 - É cabida a alegação do embargante de que o direito a percepção dos benefícios relativos a pensão por morte, devem incidir a partir da data do óbito da servidora contribuinte, uma vez que este foi o fato gerador do benefício.
+3 - Deverá prevalecer o disposto no artigo 20, § 3º, do CPC, devendo a verba relativa aos honorários advocatícios incidir sobre o valor da condenação, sendo mantido o quantum de 15% determinado pela sentença a quo, rejeitado o pedido de majoração deste percentual pleiteado pelo embargante.
+4 - Embargos acolhidos parcialmente.
+5 - Decisão unânime.
+Opostos novos aclaratórios pela parte ora recorrente, foram estes rejeitados (fls. 264-270).
+No apelo especial, alega-se, preliminarmente, violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte de origem rejeitou os embargos de declaração sem, contudo, sanar a omissão acerca da impossibilidade de deferir o pagamento da pensão por morte antes da data referida no pedido, porquanto fora do limite da controvérsia.
+Quanto à questão de fundo, além de dissídio jurisprudencial, sustenta-se ofensa aos artigos 128, 264 e 460 do CPC/1973, sob o argumento de que o pedido formulado na petição inicial foi no sentido de que a condenação tivesse como termo inicial 5/5/2000, motivo pelo qual a fixação da condenação a partir de 13/8/1997 implicaria julgamento extra petita, sendo certo, outrossim, inviável a alteração do pedido nas razões do recurso de apelação. Nesse sentido, defende-se "não haver qualquer renúncia quando alguém postule menos do que aquilo a que eventualmente tenha direito e de não haver qualquer relação entre o caráter alimentar de qualquer parcela e uma sua suposta irrenunciabilidade" (fl. 287).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 320-321.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Sob esse enfoque, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, inclusive em relação à qual o recorrente alega omissão. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+A propósito, entendimento contrário ao interesse da parte e omissão no julgado são conceitos que não se confundem.
+Quanto à questão de fundo, registrou o Tribunal de origem que "no tocante à decisão pela incidência da pensão a partir da data do óbito, no que pese a parte embargada o ter requerido apenas quando da prolação da sentença e, posteriormente, nas suas razões de apelação, tenho que não se caracteriza um pedido extra petita, uma vez que a concessão do requerimento conforme feito na inicial ofenderia ao princípio da legalidade tendo em vista que a norma legal e a jurisprudência pátria, consolidaram posicionamento no sentido de conceder a pensão desde a data do óbito, pois esse é o fato gerador do direito pleiteado, de modo que qualquer deliberação em sentido diverso seria uma decisão contra legens" (fl. 269).
+Ocorre que os recorrentes não impugnaram a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Anote-se, por fim, que segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
