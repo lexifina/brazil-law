@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e RODRIGO [NOME] contra decisão da Presidência do Tribunal de Justiça do Estado do Maranhão, que negou seguimento ao recurso especial ante a sua intempestividade.
+Alega o agravante que o recurso especial foi interposto, via fax, dentro do prazo legal não havendo que se falar em intempestividade.
+A irresignação não merece ser conhecida.
+Não obstante o recorrente tenha interposto o recurso especial, via fax, dentro do prazo legal, deixou de apresentar a petição original no prazo de 5 (cinco) dias, nos termos do que dispõe o art. 2º da Lei n. 9800/1999: "a utilização de sistema de transmissão de dados e imagens não prejudica o cumprimento dos prazos, devendo os originais ser entregues em juízo, necessariamente, até cinco dias da data de seu término".
+De fato, o acórdão recorrido foi disponibilizado no Diário da Justiça Eletrônico em 7/3/2018 (quarta-feira) e considerado publicado em 8/3/2018 quinta-feira). O recurso especial foi encaminhado, via fax, em 19/03/2018, mas os originais só foram juntados em 3/4/2018, fora do prazo de cinco dias.
+O prazo para a apresentação dos originais é contínuo e se inicia no dia seguinte ao término do prazo recursal, não se suspendendo aos sábados, domingos e feriados.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO VIA FAX. AUSÊNCIA DE JUNTADA DO ORIGINAL NO PRAZO LEGAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO NA INTERPOSIÇÃO DO RECURSO. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL. AGRAVO DESPROVIDO.
+1. A insurgente não observou a exigência constante do art. 2º da Lei n. 9.800/1999, que impõe o dever de juntar o original do recurso por fax em até 5 (cinco) dias, destacando que sua contagem deve ser feita de forma ininterrupta a partir do término do prazo legal para interposição dele. 2. O dia de Corpus Christi não é feriado forense para os tribunais de justiça, devendo a parte recorrente fazer a comprovação da suspensão dos prazos recursais no momento da interposição do recurso especial. Precedente.
+2. A Corte Especial do STJ considera a intempestividade vício insanável, não havendo como facultar prazo para sua regularização, nos termos do art. 932, parágrafo único, do Código de Processo Civil de 2015.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1246722/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 24/05/2018)
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. PRAZO RECURSAL DE CINCO DIAS. AGRAVO INTEMPESTIVO. INTERPOSIÇÃO VIA FAX. PRAZO CONTÍNUO DE CINCO DIAS PARA APRESENTAÇÃO DOS ORIGINAIS. ART. 2º DA LEI N. 9.800/1999. EXAURIMENTO DOS RECURSOS CABÍVEIS. PRAZO DE INTERPOSIÇÃO. TRANSCURSO IN ALBIS. INEXISTÊNCIA DO ADVENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL.
+- Intempestivo o recurso interposto via fax, quando o original é protocolizado fora do prazo legal, a teor do disposto no art. 2º da Lei n. 9.800/99.
+- Quando ajuizado a destempo, o recurso interposto não cria obstáculo ao trânsito em julgado da ação penal, não ocorrendo a prescrição da pretensão punitiva estatal, na modalidade superveniente, diante da formação da coisa julgada.
+Agravo regimental desprovido. (AgRg no Ag 1275762/SP, Rel. Ministro ERICSON MARANHO - Desembargador convocado do TJ/SP -, Sexta Turma, DJe 19/12/2014)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
