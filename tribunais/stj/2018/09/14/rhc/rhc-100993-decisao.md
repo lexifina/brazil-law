@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por [NOME], contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+"HABEAS CORPUS. EXTORSÃO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REQUISITOS. AUSÊNCIA DE HIPÓTESE DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+- ALEGAÇÃO DE EXCESSO DE PRAZO. Não se encontra configurada qualquer ilegalidade, pois não se verifica mora processual decorrente de inércia imputável ao aparato judicial ou à acusação. O contexto processual apresentado, reclama contemporização do prazo considerado ideal para o seu encerramento, tendo em vista a necessidade de expedição de cartas precatórias inquisitórias, da oitiva de um elevado número de testemunhas e da realização de perícia. Não se desconhece a escassez estrutural e, principalmente, de recursos humanos e materiais do Instituto Geral de Perícias, que tem resultado no embaraço da elaboração de perícias criminais, que, por vezes, são fundamentais para o deslinde probatório. Ainda assim, tenho que a gravidade concreta das condutas imputadas ao paciente, que é multirreincidente, não autoriza a revogação da prisão preventiva ou a sua substituição por medidas cautelares diversas.
+Merece destaque, ainda, a diligência da autoridade dita coatora para ultimar o quanto possível o término da colheita de provas. As testemunhas e vítimas já foram inquiridas, e o acusado interrogado. Pendente apenas a juntada de laudo pericial.
+Ordem denegada, por maioria." (fl. 939)
+Nas razões recursais, o Recorrente alega excesso de prazo "nos autos do processo de origem n.º 011/2.16.0002485-1 (0005310-36.2016.8.21.0011" (fl. 965). Aduz que "está-se diante de uma grave questão que está afrontando o princípio constitucional da DURAÇÃO RAZOÁVEL DO PROCESSO, porque o feito está parado HÁ MAIS DE QUINZE MESES (fim da coleta da prova testemunhal) AGUARDANDO UM LAUDO PERICIAL (não requerido pela defesa)" (fl. 983).
+Pleiteia a liberdade provisória do Recorrente, com imposição de medidas cautelares diversas da prisão.
+O Ministério Público Federal opinou por ser julgado prejudicado o recurso ordinário (fls. 1.007-1.009).
+É o relatório inicial. Decido.
+Verifica-se que, em 02/08/2018, a Sexta Turma desta Corte, por unanimidade, deu provimento ao RHC n.º 91.015-RS, no qual o Paciente também figura como Recorrente, nos termos do voto da Sra. Ministra Relatora MARIA THEREZA DE ASSIS MOURA, "para relaxar a prisão do recorrente, por excesso de prazo, nos autos da Ação Penal n.º 011/2.16.0002485-1, em trâmite perante a 2ª Vara Criminal da Comarca de Cruz Alta/RS, se por outro motivo não estiver custodiado"
+Dessa forma, está configurada a superveniente perda do objeto pretendido.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, JULGO PREJUDICADO o recurso ordinário.
+Publique-se. Intimem-se.
