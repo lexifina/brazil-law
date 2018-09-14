@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] apontando-se como autoridade coatora o Tribunal de Justiça do Estado da Paraíba que denegou o writ de origem.
+O acórdão do Tribunal a quo tem a seguinte ementa (fl. 12):
+ARTS. 33 E 35 DA LEI Nº 11.343/06. PRISÃO HABEAS CORPUS. CAUTELAR. IRRESIGNAÇÃO. DECRETO PRISIONAL DESFUNDAMENTADO. NÃO CONFIGURAÇÃO. EXPOSIÇÃO FUNDAMENTADA DA PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. ORDEM PÚBLICA. GRAVIDADE DO DELITO. CRIME DOLOSO COM PENA SUPERIOR A 04 ANOS. DENEGAÇÃO DA ORDEM.
+- O decreto de prisão cautelar, além de bem fundamentado, está devidamente apoiado em valor protegido pela ordem constitucional em igualdade de relevância com o valor liberdade individual a tutela da instrução criminal.
+O impetrante requer a revogação da prisão preventiva, sob a alegação de ausência dos requisitos autorizadores dessa segregação cautelar. Pede, subsidiariamente, que sejam aplicadas as medidas previstas no art. 319 do Código de Processo Penal.
+Ressalta que é indispensável que, no decreto prisional, estejam consignadas as razões concretas pelas quais se mostra necessária a prisão preventiva, evidenciando-se a real ameaça à ordem pública, os riscos para a regular instrução criminal ou o perigo de ver-se frustrada a aplicação da lei penal.
+O paciente foi preso em flagrante pela prática do crime de tráfico de drogas, tipificado no art. 33, "caput" e 35, ambos da Lei n. 11.343/2006.
+A liminar foi deferida.
+As informações processuais foram prestadas.
+O Parecer do Ministério Público foi pelo não conhecimento do habeas corpus.
+Na origem, a ação penal n. 0000316-69.2018.815.0331/PB, está em fase de instrução processual, aguardando a resposta à acusação, conforme informações processuais da vara de origem às fls. 87/88.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos exigidos pelo art. 312 do CPP.
+A decisão da preventiva teve a seguinte fundamentação (fls. 49/50):
+ ..
+Ante o exposto, HOMOLOGO o flagrante, passando à análise da conversão da prisão em flagrante em preventiva. Ressalto que, ainda que fosse o caso de relaxamento do flagrante, este não obsta a decretação da prisão preventiva, presentes os requisitos necessários. À luz do art. 312 do Código de Processo Penal constituem pressupostos para a decretação da prisão preventiva a prova da existência do crime e indícios suficientes da autoria, sendo seu fundamento a garantia da ordem pública ou da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal. Quanto à materialidade do fato, esta encontra-se evidenciada através do laudo provisório da droga apreendida. Com relação à autoria delitiva, verifica-se que as testemunhas inquiridas no flagrante apontam os autuados como sendo autores do crime em comento. Ressalta-se que para adoção da custódia preventiva não se pode exigir a mesma certeza necessária a um juízo condenatório. Vislumbra-se presentes, portanto, os pressuposto necessários à adoção da segregação provisória. Em relação aos fundamentos para o decreto preventivo, entendo que a medida se justifica como garantia da ordem pública, haja vista a indiscutível gravidade do delito em tela, notadamente diante dos indiscutíveis drásticos efeitos que as drogas causam em nossa sociedade, de modo a indicar que o acusado representa risco e perigo à sociedade. Quanto ao requisito objetivo, trata-se de crime doloso, com pena máxima superior a quatro anos. Por estes fundamentos, inclusive, as medidas cautelares diversas da prisão revelam-se inadequadas ou insuficientes. Finalmente, não posso deixar de mencionar o entendimento assentado na doutrina e jurisprudência de que a prisão preventiva não conflita com o princípio constitucional da presunção da inocência. Constitui, sim, medida excepcionaol, mas que deve ser efetivada sempre que o exija o caso concreto (RT 697/386). E a situação em apreço reclama, inescusável, a efetivação da constrição física. Vejamos julgado proveniente do STJ:
+ ..
+DIANTE DO EXPOSTO, com fundamento nos arts. 310, inciso II, 311 e 312 do Código de Processo Penal, CONVERTO EM PRISÃO PREVENTIVA a prisão em flagrante dos autuados RENATO LIMA SOUZA e [NOME], qualificados nos autos, ..
+Como já adiantado no exame da liminar, foi fixada a prisão sem demonstrar concretamente sua necessidade, tendo sido justificada a medida extrema como garantia da ordem pública, haja vista a indiscutível gravidade do delito em tela, notadamente diante dos indiscutíveis drásticos efeitos que as dragas causam em nossa sociedade, de modo a indicar que o acusado representa risco e perigo à sociedade.
+Assim, não se apontou qualquer elemento do caso concreto para justificar a prisão, fazendo afirmação genérica e abstrata sobre a gravidade do crime, além de presunções, evidenciando a ausência de fundamentos para o decreto prisional.
+Não se tendo no tema, com a clara motivação genérica, divergência nesta Sexta Turma do Tribunal, reconheço a ilegalidade arguida.
+Ante o exposto, concedo o habeas corpus para a soltura do paciente [NOME], o que não impede a fixação de medida cautelar diversa da prisão, pelo juízo de primeiro grau, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
