@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 7º da Emenda Constitucional nº 41/2003.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Transcrevo ementa do acórdão objeto da insurgência manifestada no apelo extremo:
+    “ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS - GACEN. NATUREZA REMUNERATÓRIA. EXTENSÃO AOS INATIVOS. POSSIBILIDADE. PRECEDENTE DA TNU. RECURSO DA FUNASA IMPROVIDO.”
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 7º da Emenda Constitucional nº 41/2003. Nesse sentido:
+    ‘EMENTA: TRIBUTÁRIO. GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS – GACEN. NATUREZA JURÍDICA. IMPOSTO DE RENDA. INCIDÊNCIA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL.” (ARE 784854 RG, Relator(a): Min. MINISTRO PRESIDENTE, julgado em 22/05/2014, PROCESSO ELETRÔNICO DJe-205 DIVULG 17-10-2014 PUBLIC 20-10-2014 )
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO – GDPST. EXTENSÃO AOS INATIVOS LIMITADA AO PRIMEIRO CICLO AVALIATIVO. PRECEDENTES. GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS – GACEN. NATUREZA DA GRATIFICAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 973701 AgR, Relator(a):  Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 09/09/2016, PROCESSO ELETRÔNICO DJe-203 DIVULG 22-09-2016 PUBLIC 23-09-2016)
+    “Embargos de declaração em recurso extraordinário com agravo. 2. Decisão monocrática. Embargos declaratórios recebidos como agravo regimental. 3. Direito Administrativo. Gratificação de Atividade de Combate e Controle de Endemias – GACEN. Incidência de contribuição previdenciária. 4. Natureza da verba. Matéria de índole infraconstitucional. Ofensa reflexa. 5. Pedido de uniformização. Turma Nacional de Uniformização. Análise de direito federal. 6. Decretação de nulidade de atos processuais. Impossibilidade. Requerimento pela parte que lhe deu causa. Art. 243 do CPC. 7. Agravo regimental a que se nega provimento.” (ARE 837277 ED, Relator(a):  Min. GILMAR MENDES, Segunda Turma, julgado em 03/03/2015, PROCESSO ELETRÔNICO DJe-051 DIVULG 16-03-2015 PUBLIC 17-03-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de setembro de 2018.
+Ministra Rosa Weber
+Relatora
