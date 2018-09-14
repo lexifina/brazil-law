@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de reclamação constitucional ajuizada por [NOME] em face de acórdão proferido pela TURMA RECURSAL DO JUIZADO ESPECIAL DO ESTADO RIO DE JANEIRO.
+É o relatório.
+Passo a decidir.
+A reclamação é manifestamente inadmissível.
+Com efeito, com a revogação da Resolução n. 12/2009-STJ, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte, foi editada a Resolução nº 3/2016-STJ, dispondo que:
+"Art. 1º Caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes."
+Assim, "desde 18/03/2016, não cabe mais Reclamação contra acórdão de Turma Recursal de Juizado Especial, pois, em virtude de tal hipótese de cabimento não estar contemplada no novo CPC (Lei n. 13.105, de 16/03/2015), que legislou exaustivamente sobre o tema, esta Corte revogou (art. 4º da Emenda Regimental n. 22, de 16/03/2016) a Resolução n. 12/2009 do Superior Tribunal de Justiça, com base na qual anteriormente se admitia o ajuizamento do incidente para "dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência do Superior Tribunal de Justiça, suas súmulas ou orientações decorrentes do julgamento de recursos especiais processados na forma do art. 543-C do Código de Processo Civil" (AgRg na Rcl 34.605/SP, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 20/09/2017).
+Diante do exposto, com fundamento no art. 34, XVIII, e no art. 34, XVIII, "a" do RISTJ, não conheço da reclamação.
+Publique-se.
