@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional com fundamento no art. 105, III, a da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 605):
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. COISA JULGADA.
+MODIFICAÇÃO. IMPOSSIBILIDADE.
+Inviável a modificação do que restou decidido na decisão transitada em julgado, em atenção à segurança jurídica garantida constitucionalmente pela proteção à coisa julgada.
+Opostos embargos declaratórios, foram rejeitados (fls. 667/674).
+A parte recorrente aponta violação ao art. 741, II do CPC. Sustenta que há iliquidez e incerteza no título executivo judicial, uma vez que a base para o cálculo dos honorários advocatícios somente será conhecida quando definido o valor da condenação.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O inconformismo não prospera.
+Colhe-se do aresto proferido em sede aclaratória a seguinte fundamentação (fls. 671/672):
+No caso dos autos, consoante relatado, determinou o STJ fosse sanada a omissão quanto ao exame da tese levantada pela UNIÃO, no sentido de que "a base para o cálculo dos honorários advocatícios somente será conhecida quando definido o valor da condenação".
+Desde já, faz-se mister ressaltar que o acórdão embargado não adentrou a matéria em evidência, pois limitou-se a assegurar o prosseguimento da execução proposta em face da União, determinando inclusive a renovação de sua citação, na forma do art. 730 do CPC. Sobre o tema, constou no voto condutor, in verbis:
+
+"Cumpre assentar, no tocante à pretensão executória, relativa às verbas de sucumbência, que o título executivo condenou ambos os réus ao pagamento, pro rata, da quantia correspondente a 10% do valor da condenação:
+"No que pertine aos honorários advocatícios, assiste razão à autora,devendo ser arbitrados sobre o valor da condenação. A fixação em valor numérico ou sobre o valor da causa é apropriada somente quando não houver condenação. No tocante ao percentual, a jurisprudência majoritária desta Corte entende que o valor de 10% atende aos parâmetros do art. 20 do CPC. Esse montante deve ser dividido em partes iguais entre as rés."
+(Evento 1 - TIT_EXEC_JUD5)
+Em razão disso, a extinção da execução em face da UNIÃO, com a determinação no sentidode que honorários advocatícios requeridos sejam acrescidos ao valor que está sendo exigido da ELETROBRAS no pedido de cumprimento de sentença (autos nº 2002.70.00.035855-0), contraria os termos do julgado exequendo, que determinou que cada um deles (UNIÃO e ELETROBRAS) deve arcar com metade desta quantia.
+Logo, sob pena de modificação do que restou decidido na decisão transitada em julgado, em atenção à segurança jurídica garantida constitucionalmente pela proteção à coisa julgada,impõe-se o prosseguimento da execução proposta em face da União, devendo ser renovada sua citação, na forma do art. 730 do CPC."
+Portanto, a matéria impugnada nos embargos declaratórios, ainda que tenha servido de fundamento para a sentença recorrida, não mereceu enfrentamento no acórdão embargado que, por fundamento diverso, admitiu apenas o prosseguimento da execução na forma do art. 730 CPC, de sorte que a alegação de iliquidez e incerteza do título executivo judicial poderá ser arguida em eventual oposição de embargos à execução por parte da União, ora embargante, inexistindo, pois, a aventada omissão quanto ao disposto no art. 741, II, do CPC.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, a matéria impugnada nos embargos declaratórios, ainda que tenha servido de fundamento para a sentença recorrida, não mereceu enfrentamento no acórdão embargado que, por fundamento diverso, admitiu apenas o prosseguimento da execução na forma do art. 730 CPC, de sorte que a alegação de iliquidez e incerteza do título executivo judicial poderá ser arguida em eventual oposição de embargos à execução por parte da União.
+Incidente, pois, o obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
