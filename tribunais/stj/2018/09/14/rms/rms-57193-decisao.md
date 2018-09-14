@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso ordinário em mandado de segurança interposto pela Fazenda do Estado de São Paulo contra acórdão assim ementado:
+MEIO AMBIENTE - MANDADO DE SEGURANÇA - AÇÃO CIVIL PÚBLICA DE RESPONSABILIDADE POR DANOS AO MEIO AMBIENTE - ADIANTAMENTO DOS HONORÁRIOS PERICIAIS - Impetração desafiada no intuito de se afastar o encargo transferido à Fazenda Pública, de recolhimento dos honorários periciais - Inocorrência de ilegalidade, conforme entendimento do Colendo Superior Tribunal de Justiça, proferido em sede de recurso repetitivo (REsp 1.253.844/SC) - Artigo 91 do CPC que não afasta a disciplina do artigo 18 da lei especial 7.347/85 - SEGURANÇA NEGADA.
+A agravante aduz que, "ao contrário do que foi afirmado pelo Egrégio Tribunal de Justiça, não cabe à recorrente o pagamento dos honorários relativos à perícia, mormente por não ser parte na ação" (e-STJ fl. 78).
+Decido.
+O acórdão combatido está em consonância com a jurisprudência desta Corte sobre a matéria no sentido de que cabe à Fazenda Pública o custeio dos honorários periciais quando requeridos pelo Ministério Público.
+No ponto:
+RECURSO EM MANDADO DE SEGURANÇA. OS HONORÁRIOS PERICIAIS DEVEM SER CUSTEADOS PELA FAZENDA À QUAL O MINISTÉRIO PÚBLICO ESTÁ VINCULADO. APLICAÇÃO DO RECURSO REPETITIVO 1.253.844/SC. INCIDÊNCIA DA SÚMULA 232/STJ.
+1. Cuida-se de irresignação contra a decisão do Tribunal de origem que denegou a ordem em Mandado de Segurança, entendendo que o impetrante deve ser o responsável pelo pagamento do adiantamento dos salários periciais, haja vista ser a pessoa jurídica de direito público a que se vincula o MP, postulante da prova.
+2. Não se sustenta a tese de aplicação das disposições contidas no art. 91 do Novo CPC, as quais alteraram a responsabilidade pelo adiantamento dos honorários periciais; isto porque a Lei 7.347/1985 dispõe de regime especial de custas e despesas processuais, e, por conta de sua especialidade, a referida norma se aplica à Ação Civil Pública, derrogadas, no caso concreto, as normas gerais do Código de Processo Civil.
+3. O Superior Tribunal de Justiça, no REsp 1.253.844/SC, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 17.10.2013, submetido à sistemática do art. 543-C do Código de Processo Civil, consignou que "não é possível se exigir do Ministério Público o adiantamento de honorários periciais em ações civis públicas. Obtempera-se que não foi superado o entendimento firmado no retromencionado julgamento, tendo sido seguido por recentes julgados do STJ (AgInt no Resp 1.420.102/RS. Ministra Regina Helena Costa. Primeira Turma. DJe 30/3/2017)
+4. Ocorre que a isenção conferida ao Ministério Público em relação ao adiantamento dos honorários periciais não pode obrigar que o perito exerça seu ofício gratuitamente. Dessa forma, considera-se aplicável, por analogia, a Súmula 232 do STJ, a determinar que a Fazenda Pública ao qual se acha vinculado o Parquet arque com tais despesas: "A Fazenda Pública, quando parte no processo, fica sujeita à exigência do depósito prévio dos honorários do perito".
+5. Recurso ordinário a que se nega provimento.
+(RMS 55.476/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
