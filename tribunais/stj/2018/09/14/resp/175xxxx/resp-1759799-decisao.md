@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DO NOVO CÓDIGO. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTO INATACADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial da UNIÃO interposto contra acórdão do Tribunal Regional Federal da 1ª Região, com a seguinte ementa:
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. TAXA DE FORO. DEPÓSITO JUDICIAL. DECADÊNCIA. HONORÁRIOS. 1. Considerando que a parte autora logrou êxito na maior parte de seu pedido em face da decadência de diversas parcelas impugnadas, afasta-se a sucumbência recíproca para condenar a Fazenda Nacional ao pagamento de honorários advocatícios. 2. Apelação provida
+Os embargos de declaração foram rejeitados. No recurso especial, a parte recorrente aponta violação ao art. 86 do CPC/2015, defendendo que é descabida sua condenação em honorários advocatícios, pois apenas a parte ora recorrida sucumbiu no caso concreto. Subsidiariamente, aponta violação ao art. 1.022 do CPC/2015, alegando omissão quanto à fixação dos honorários advocatícios.
+Não houve contrarrazões.
+É o relatório. Passo a decidir.
+Antes de mais nada, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O recurso especial não pode ser conhecido quanto à alegada violação ao art. 1.022 do CPC/2015, pois a recorrente não desenvolveu argumentação voltada a demonstrar no que consistiria a omissão relativa à fixação dos honorários advocatícios. Ante a deficiência na fundamentação recursal, o recurso especial não pode ser conhecido no ponto, nos termos da Súmula 284/STF.
+Quanto à questão de fundo, a Corte de origem assim se manifestou:
+(..) no tocante à verba honorária, considerando que a sentença foi publicada na vigência do CPC/1973, a fixação desse encargo deve ser definida de acordo com os critérios estabelecidos pelo código revogado, não se aplicando, por conseguinte, o disposto no art. 85 do novo CPC. (e-STJ Fl. 240)
+
+Como se vê, o acórdão não utilizou o novo CPC para tecer seu resultado. Desta feita, imperioso observar que sequer a tese sustentada pelas recorrentes poderia ser conhecida, visto que: (i) o artigo sustentado não foi analisado pela origem; (ii) a tese exarada pelo Tribunal a quo não foi rebatida pela recorrente. Portanto, incide os óbices das Súmulas 282 e 283/STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, não conheço do recurso especial.
+Quanto aos honorários recursais, deve ser considerado o disposto no art. 85, § 11, do CPC/2015, e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC").
+Levando-se em conta que o tempo de tramitação do recurso, contado apenas entre a sua interposição na origem e a data da prolação deste decisão monocrática, não é demasiadamente longo e que não houve a necessidade de atuação do recorrido em comarca diversa da qual atua, bem como, por fim, tomando por premissa que a demanda recursal aparenta grau de complexidade ínfimo, condeno o recorrente a efetuar o pagamento de honorários recursais correspondente a 10% (dez por cento) do que já foi fixado na origem a título de honorários advocatícios.
+Publique-se. Intimem-se.
