@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. TESE DE VIOLAÇÃO DO ART. 535 DO CPC/1973 AFASTADA. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. AGRAVO DO CONTRIBUINTE CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DA CONTRIBUINTE.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com fundamento no art. 105, III, a da Constituição Federal, contra o acórdão proferido pelo egrégio TJ/PR, assim ementado:
+APELAÇÃO CÍVEL. REPETIÇÃO DE INDÉBITO EXTINTA SEM s RESOLUÇÃO DO MÉRITO. DESCONTOS DE IMPOSTO DE RENDA E INSS SOBRE CRÉDITOS TRABALHISTAS DA AUTORA. TRÂNSITO EM JULGADO DA DECISÃO DO EGRÉGIO TRIBUNAL REGIONAL DO TRABALHO DA 93 REGIÃO QUE AUTORIZOU OS DESCONTOS. COISA JULGADA. DESCONSTITUIÇÃO DA COISA JULGADA QUE DEVERIA TER SIDO BUSCADA POR MEIO DE AÇÃO RESCISÓRIA PERANTE A JUSTIÇA DO TRABALHO. INADEQUAÇÃO DA VIA ELEITA E CONSEQUENTE FALTA DE INTERESSE DE AGIR.
+Recurso não provido (fls. 250).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 268).
+3. Nas razões do Apelo Nobre, a parte recorrente aponta violação do art. 535 do CPC/1973. Sustenta, em síntese, a nulidade do acórdão recorrido, por não ter observado que em nenhum momento houve discussão na Justiça do Trabalho sobre o mérito dos descontos do Imposto de Renda efetuados sobre as verbas trabalhistas reconhecidas em Ação Reclamatória.
+4. É o breve relatório. Decido.
+5. A insurgência não merece prosperar.
+6. Verifica-se que o Tribunal de origem decidiu a lide de forma clara e fundamentada, não padecendo de qualquer vício que justifique o acolhimento da tese de violação do art. 535 do CPC/1973.
+7. Na espécie, o acórdão recorrido concluiu pela ocorrência da coisa julgada quanto à questão dos descontos do Imposto de Renda sobre as verbas trabalhistas. Veja-se trecho do voto condutor do aresto:
+Da análise dos autos, tem-se que, conforme já decidiu a magistrada de primeiro grau, o reconhecimento da coisa julgada é inevitável.
+Embora afirme a apelante que a questão dos descontos de imposto de renda e contribuição previdenciária não foram objeto da ação, não é o que se constata da análise dos autos.
+Isso porque em todas as oportunidades que teve, a apelante impugnou os referidos descontos.
+Apresentou embargos à execução, e, inconformada com a decisão dos embargos, interpôs ainda agravo de petição, o que se constata pela certidão de julgamento de fIs. 80, que certifica o parcial provimento pela Seção Especializada do Egrégio Tribunal Regional do Trabalho ao agravo de petição interposto pela ora apelante, a fim de autorizar os descontos de imposto de renda e INSS sobre o crédito trabalhista da recorrente.
+Assim, devidamente constatada a ocorrência da coisa julgada quanto a questão, não se pode admitir que este Tribunal de Justiça venha a reformar o que já restou decido, inclusive com trânsito em julgado, conforme certidão de fls. 98, expedida no âmbito do Tribunal Regional do Trabalho da 9a. Região.
+Deste modo, como bem deliberou a juíza de primeiro grau, pretendendo a apelante discutir judicialmente acerca da incidência dos descontos de imposto de renda e ISS sobre o crédito que lhe é direito, deveria ter buscado a desconstituição da coisa julgada, por meio da propositura de ação rescisória perante a Justiça do Trabalho.
+Esclareço ainda que a questão da competência da Justiça do Trabalho para determinar a retenção do imposto de renda também já restou decidida, tendo em vista que foi amplamente debatida, inclusive, em sede recursal, como se vê do acórdão de fls. 84/95, que transitou em julgado em 04.11.2002 (fls. 98).
+Nesta decisão, o Tribunal Regional do Trabalho da 9a. Região consolidou que cabe a todo órgão judiciário apreciar e solucionar as questões prejudiciais e das quais dependam a quantificação dos créditos reconhecidos, de modo que uma vez que "cabe à Justiça do Trabalho reconhecer e executar os créditos trabalhistas (art. 114, Constituição Federal), compete-lhe definir o valor líquido desses créditos e, em consequência, quais deduções são possíveis" (fls. 89).
+Portanto, não há que se falar em necessidade de remessa dos autos à Justiça Federal para apreciação de matéria que, ressalte-se, já foi decidida (fls. 251/252).
+8. Vê-se, portanto, que houve expressamente a análise de todos os pontos necessários ao desate da lide. O que houve, na verdade, foi julgamento contrário aos interesses da parte recorrente, o que não se encaixa nas hipóteses autorizativas dos Embargos de Declaração.
+9. Diante do exposto, conhece-se do Agravo para negar provimento ao Recurso Especial da Contribuinte.
+10. Publique-se. Intimações necessárias.
