@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Ação monitória.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A deficiência de fundamentação importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por COROL COOPERATIVA AGROINDUSTRIAL contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/02/2018.
+Distribuído ao Gabinete em: 30/07/2018.
+Ação: de embargos à execução ajuizada por COROL COOPERATIVA AGROINDUSTRIAL em face de COPASUL COOPERATIVA AGRICOLA SUL MATOGROSSENSE e COOPERMOTA COOPERATIVA AGROINDUSTRIAL na qual requer a aplicação da Teoria da Imprevisão para reconhecimento da onerosidade excessiva da execução, a concessão do benefício da prorrogação compulsória da dívida, a existência de excesso de execução pela cobrança de juros de mora antes da citação e a abstenção de inscrição de seu nome no cadastro de proteção ao crédito.
+Sentença: julgo parcialmente extinto o processo de embargos à execução sem resolução do mérito, reconhecendo a ausência de interesse processual em relação à pretensão condenatória. No mérito, julgo extinto o processo com resolução do mérito, rejeitando os pedidos formulados nos embargos à execução.
+Acórdão: negou provimento à apelação interposta por COROL COOPERATIVA AGROINDUSTRIAL, em julgado assim ementado:
+"Embargos à execução de título extrajudicial - Instrumento particular de confissão de dívida e outras avenças.
+1. Termo inicial de incidência dos juros de mora - Encargo que, mesmo sem expressa previsão contratual, incide desde a data do inadimplemento da obrigação - Título que é líquido e contém data certa de venci mento - CC, arts. 395, 397 e 406.
+2. Teoria da imprevisão - Onerosidade excessiva - Não configuração - Inaplicabilidade no presente caso - Frustrações de safras que não autorizam a aplicação da teoria da imprevisão por serem as intempéries climáticas circunstâncias previsíveis na agricultura - Precedentes do Superior Tribunal de Justiça e desta Corte de Justiça - Ausência, ademais, de lapso temporal suficiente para a ocorrência das situações ditas imprevisíveis - Obrigação que venceu seis dias após a celebração do contrato de confissão de dívida.
+3. Revisão das obrigações anteriores - Impossibilidade no caso - Revisão que conquanto seja possível, conforme entendimento assentado na súmula 286 do Superior Tribunal de Justiça, no caso se mostra inviável - Parte embargante que sequer aponta quais são as i legal idades ou abusividades perpetradas pela parte embargada, limitando-se a deduzir alegações completamente genéricas - Ausência de demonstração, ademais, das aventadas ilegalidades ou abusividades após a exibição dos documentos feita pela parte embargada.
+4. Honorários advocatícios - Pretensão de redução do respectivo valor - Impossibilidade - Fixação limite mínimo legalmente previsto e que se mostra adequada - Princípio da justa remuneração do trabalho profissional - CPC, art. 85, § 2.º.
+5. Ônus da sucumbência - Resultado do julgamento que não enseja sua redistribuição.
+6. Sucumbência recursal - Honorários advocatícios - CPC, art. 85, § 11 - Parte embargante que sucumbiu em suas pretensões recursais - Apresentação de resposta ao recurso pela parte embargada - Arbitramento de honorários, à face do trabalho adicional realizado pelo advogado da parte embargada em grau recursal.
+7. Apelação desprovida." (fls. 70/71, e-STJ).
+Recurso especial: alega afronta aos arts. 405 e 940 do CC e 85, § 11, 396 e 397, do CPC/2015, pois sustenta, em síntese: i) que a cobrança dos juros de mora deva incidir após a citação para pagamento da dívida, ii) a necessidade de revisão de toda a relação contratual, iii) a percepção do pagamento em dobro por dívida paga indevidamente, iv) a exibição dos comprovantes de pagamentos utilizados para a confissão de dívida com o fim de demonstrar a ilegalidade de suas cláusulas, e v) a diminuição do valor arbitrado a título de honorários advocatícios.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+1. Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pelo recorrente em seu recurso especial quanto à percepção do pagamento em dobro por dívida paga indevidamente, o que inviabiliza o seu julgamento.
+Aplica-se, na hipótese, a Súmula 282/STF.
+2. Da fundamentação deficiente
+ Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou arts. 405 e 940 do CC atinentes às teses ventiladas nas razões de seu recurso especial quanto à cobrança dos juros de mora deva incidir após a citação para pagamento da dívida, à necessidade de revisão de toda a relação contratual, à percepção do pagamento em dobro por dívida paga indevidamente.
+Primeiramente, o acórdão recorrido aplicou, quanto aos juros moratórios, o que dispõe o art. 397, caput, do CC, haja vista que a dívida é líquida e certa, incidindo os juros de mora a partir do inadimplemento da obrigação avençada. A insurgência recursal, todavia, alega violação ao art. 405 do CC, que estabelece que os juros de mora incidam a partir da data da citação na hipótese de condenação por danos morais fundada em responsabilidade contratual, o que não é a hipótese vertente (grifos nossos).
+Alega-se, ademais, genericamente a necessidade de revisão de todos os contratos anteriores que ensejaram o contrato de confissão de dívida. O tribunal, sobre o ponto, esclarece: "tal revisão não se mostra viável, na medida em que a parte embargante sequer aponta concretamente quais seriam as abusividades perpetradas pela parte embargada anteriormente ao contrato de confissão de dívida, limitando-se a deduzir alegações completamente genéricas" (fl. 87, e-STJ).
+Desse modo, em face da ausência de subsunção das teses às normas legais reputadas violadas, constata-se a deficiência de fundamentação recursal, se tornando inviável a análise do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+No que pertine à alegação de exibição dos comprovantes de pagamentos utilizados para a confissão de dívida com o fim de demonstrar a ilegalidade de suas cláusulas e de diminuição do valor arbitrado a título de honorários advocatícios, o acórdão recorrido assim assentou:
+"É importante elucidar que o fato de a parte embargante ter postulado a exibição dos documentos anteriores, que originaram a confissão de dívida, não a exime de demonstrar, ainda que minimamente, as supostas ilegal idades ou abusividades cometidas 5.5. Para além disso, a parte embargada trouxe aos autos, juntamente com a contestação, os documentos requeridos peia parte embargaste na petição inicial (movs 20.10-20.172), sobre os quais manteve-se inerte, restringindo-se a requerer, novamente, na apelação, a exibição desses.
+Assim, é possível verificar que sua arguição, nesse ponto, não prospera sob dois aspectos: (i) formulação de pedido genérico quanto às supostas ilegalidades e abusividacles das obrigações anteriores à pactuação do instrumento particular de confissão de dívida; e (ii) ausência de demonstração das supostas ilegalidades e abusividades no momento em que teve condições suficientes de fazê-las" (fls. 89/90, e-STJ).
+"No que diz respeito à verba honorária, deve ser mantido o importe fixado na sentença. É preciso lembrar que em casos como o presente, os honorários advocatícios são arbitrados observando-se o grau de zelo profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o serviço, nos termos do artigo 85, parágrafo 2.º, do Código de Processo Civil.
+6.2. No caso específico dos autos, não há como dizer-se exagerado o arbitramento do valor dos honorários advocatícios em R$ 38.000,00; ali ás, é nota que a quantia arbitrada está no patamar mínimo que poderia ser estabelecido (10% sobre o valor dado à causa), uma vez que o valor atribuído à causa foi de R$ 379.318,75." (fl. 90, e-STJ).
+Desse modo, alterar tal entendimento exige o reexame de fatos e provas dos autos, o que é vedado em sede de recurso especial ante o óbice da Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados em R$ 500,00 (quinhentos reais) devidos pela agravante.
+Publique-se. Intimem-se.
+Publique-se. Intimem-se.
