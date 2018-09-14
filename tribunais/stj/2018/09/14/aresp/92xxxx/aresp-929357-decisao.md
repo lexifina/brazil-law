@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo manejado pela Companhia Imobiliária de Brasília - TERRACAP contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 328/329):
+DIREITO ADMINISTRATIVO. DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. APELAÇÃO ADESIVA. CONTRATO ADMINISTRATIVO CELEBRADO PELA NOVACAP. EXECUÇÃO DE CICLOVIA. GLOSA REALIZADA PELA TERRACAP. RESPONSÁVEL FINANCEIRA. ERRO NA ELABORAÇÃO DO PROJETO E NÃO EM SUA EXECUÇÃO. NECESSIDADE DE REPARAR O ATO ILÍCITO PRATICADO.
+1. A TERRACAP deve ser mantida na relação jurídica do presente feito pelo fato de ser a responsável financeira da execução da obra por força do convênio celebrado com a NOVACAP e por ter realizado a glosa que deu origem ao presente feito.
+2. Condenação em honorários advocatícios decorrentes da exclusão da TERRACAP do pólo passivo pela sentença deve ser revista diante de sua manutenção pelo acórdão.
+3. A construção de ciclovia em terreno privado decorreu de erro na elaboração do projeto pela NOVACAP e não em sua execução. Portanto, necessário reparar o ato ilícito praticado pela TERRACAP que suspendeu o pagamento do contrato.
+4. Não cabe falar em majoração dos honorários advocatícios se o Juízo de origem apreciou a questão de forma equitativa, observando os parâmetros do artigo 20, § 30 do CPC.
+5. Recurso principal e recurso adesivo conhecidos. Recurso principal provido. Recurso adesivo provido parcialmente.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 267, VI, do CPC/73; 264 e 265 do CC. Sustenta que: (I) a agravante não tem legitimidade para figurar no polo passivo da ação, tendo em vista que não ficou comprovada "a existência de obrigações firmadas entre as partes" (fl. 395); e (II) a solidariedade não pode ser presumida, decorrendo apenas da lei e da vontade das partes. Acrescenta que "a existência de um convênio entre a Terracap e a Novacap de repasse de verbas, não tem o condão de estender as responsabilidades do contrato com terceiros à Terracap." (fl. 400).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se a ausência de interesse recursal da parte agravante, no tocante à alegada ofensa aos arts. 264 e 265 do CC, porquanto a Corte local expressamente afastou a hipótese de solidariedade entre as partes. Confira-se (fl. 335)
+ Com razão a NOVACAP.
+ É importante destacar que a solidariedade entre as partes não pode ser presumida, como dispõe o artigo 265 do Código Civil. Deve decorrer da lei ou da vontade das partes.
+ No caso em apreço, a questão ultrapassa a discussão sobre a solidariedade, pois o ponto da discussão diz respeito à responsabilidade pelo pagamento da obra que foi executada pela empresa GW Construções e Incorporações LTDA.
+Por outro lado, a legitimidade da Terracap para figurar no polo passivo da ação foi reconhecida com base nos seguintes fundamentos (fls. 335/:
+ Depreende-se dos autos que houve a realização do contrato de empreitada obra Engenharia D.U. ASJUR/PRES 608/2011 entre a NOVACAP e a empresa GW Construções e Incorporações ILIDA (fls. 20/28) para a execução de ciclovias com paisagismo em locais estabelecidos pela NOVACAP.
+ Ocorre que a fonte de recursos para custear a execução das obras é oriunda de Convênio realizado com a TERRACAP, conforme se extrai da leitura da Cláusula Sexta - Da Fonte de Recursos (fl. 23):
+(..)
+ De outro lado, o motivo pelo qual o presente feito foi proposto decorreu da glosa no valor de R$ 68.587,27 - referente a trecho de ciclovia executada em terreno particular - realizada pela TERRACAP.
+ Como se vê, ainda que não tenha ocorrido uma relação jurídica direta entre a TERRACAP e a GW Construções e Incorporações LTDA, há - pelo menos - dois vínculos jurídicos existentes entre as partes: (i) o pagamento dos serviços realizados por meio de verba oriunda da TERRACAP e (ii) a glosa realizada pela TERRACAP, que desencadeou a discussão em apreço.
+ Portanto, retirar a TERRACAP do pólo passivo deste feito apresenta-se como ilógico, visto que o agente causador do ato ilícito não figuraria na relação jurídica.
+ Além do mais, ao celebrar o convênio com a NOVACAP, a TERRACAP tornou-se responsável financeira da execução da obra, de tal modo que se utilizou desta qualificação para realizar a glosa contra a GW Construções e Incorporações LTDA.
+ Por essa razão, entendo que a sentença deve ser alterada para o fim de manter a TERRACAP no pólo passivo da demanda.
+ Em contrarrazões, a TERRACAP defende que o erro foi na execução do projeto. No entanto, entendo que a sentença deve ser mantida neste aspecto, visto que conforme demonstrou a prova pericial realizada nos autos, o erro estava na elaboração do projeto - desde o início - e não em sua execução.
+ Por essa razão, o ilícito praticado pela TERRACAP deve ser reparado, o valor glosado deve ser devidamente pago.
+Verifica-se que o Tribunal a quo, com base no arcabouço probatório dos autos e nos termos do convênio firmado entre a Terracap e a Novacap, concluiu pela manutenção da ora agravante (Terracap) no polo passivo da ação.
+Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de reconhecer a ilegitimidade da parte ora agravante, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como a interpretação de cláusulas contratuais, providências vedadas em recurso especial, conforme os óbices previstos nas Súmulas 5 e7, ambas do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MULTA ADMINISTRATIVA APLICADA PELA ANAC. PRINCÍPIO DA LEGALIDADE. LEGITIMIDADE PASSIVA DO ESTADO DE SANTA CATARINA. CONVÊNIO ADMINISTRATIVO ENTRE MUNICÍPIO DE CHAPECÓ E AERÓDROMO.
+1. A análise que enseja a responsabilidade do Estado de Santa Catarina sobre a administração do aeródromo localizado em Chapecó/SC enseja observância das cláusulas contratuais, algo que ultrapassa a competência desta Corte Superior, conforme enunciado da Súmula 5/STJ.
+2. Não há violação do princípio da legalidade na aplicação de multa previstas em resoluções criadas por agências reguladoras, haja vista que elas foram criadas no intuito de regular, em sentido amplo, os serviços públicos, havendo previsão na legislação ordinária delegando à agência reguladora competência para a edição de normas e regulamentos no seu âmbito de atuação. Precedentes.
+3. O pleito de se ter a redução do valor da multa aplicada ao recorrente, por afronta à Resolução da ANAC e à garantia constitucional do art. 5º, XL, da CF/88 e arts. 4º. e 6º da LICC, bem como art. 106, III, alínea "c", c/c art. 112 do CTN, não merece trânsito, haja vista que a respectiva matéria não foi devidamente prequestionada no acórdão em debate.
+Agravo regimental improvido.
+(AgRg no AREsp 825.776/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/04/2016, DJe 13/04/2016)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
