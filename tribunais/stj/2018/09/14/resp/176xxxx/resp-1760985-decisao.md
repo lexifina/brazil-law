@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por DELSI DA SILVA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+De acordo com as informações contidas nos autos, o recorrente foi condenado à sanção de 1 ano de reclusão, em regime aberto, substituída por uma restritiva de direitos, pelo delito de descaminho.
+Houve apelação da defesa, à qual o Tribunal de origem negou provimento (e-STJ fls. 234/238).
+Renitente, a defesa interpôs recurso especial, no qual sustentou afronta ao art. 45, § 1º, do Código Penal, argumentando para tanto que "a parte ré declarou que trabalha como segurança e auxiliar de serviços gerais, com renda mensal de aproximadamente R$ 900,00 para promover o seu sustento e da sua família, de modo que a prestação pecuniária deve ser estipulada em valor que permita seu adimplemento sem sacrifício do sustento do(a) acusado(a) ou de sua família" (e-STJ fl. 256).
+Alegou divergência jurisprudencial e violação do art. 147 da Lei de Execução Penal, pleiteando a suspensão da ordem de execução provisória da pena restritiva de direitos até o trânsito em julgado da sentença condenatória.
+Contrarrazões às e-STJ fls. 327/336.
+O Ministério Público Federal manifestou-se pelo provimento do recurso quanto ao pleito referente à execução provisória da pena restritiva de direitos (e-STJ fls. 361/367).
+É, em síntese, o relatório. Decido.
+O Tribunal de origem superou o pleito de redução do montante da prestação pecuniária consoante estas razões (e-STJ fls. 236/237):
+Prestação pecuniária
+Quanto ao valor da prestação pecuniária (artigo 43, I, do Código Penal), cumpre referir que o julgador, dentre os parâmetros estabelecidos pelo artigo 45, § 1º, do Estatuto Repressivo, deve considerar certos fatores, de modo a não tornar a prestação em pecúnia tão diminuta a ponto de mostrar-se inócua, nem tão excessiva de maneira a inviabilizar seu cumprimento.
+Nessa linha, tenho que tal prestação deve ser suficiente para a prevenção e reprovação do crime praticado, atentando-se ainda, para a extensão dos danos decorrentes do ilícito e para a situação econômica do condenado, a fim de que se possa viabilizar seu cumprimento.
+Levando-se em conta tais premissas, mantenho o valor da prestação pecuniária estabelecido na sentença (cinco salários mínimos).
+Caso comprovada a insuficiência de capacidade financeira para adimplemento do montante fixado, poderá ser pleiteado junto ao Juízo da Execução Penal o parcelamento do valor. (Grifei.)
+Dos transcritos, ressalta patente que as instâncias ordinárias consideraram a extensão do danos decorrentes do ilícito bem como a situação econômica do condenado para fixar o valor da prestação pecuniária. Diante desse quadro, o acolhimento do pleito de redução da prestação pecuniária à realidade socioeconômica do recorrente demandaria novo reexame de material fático-probatório, o que é terminantemente vedado pelo óbice da Súmula n. 7/STJ.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRECEDENTES DO STJ. REPETIÇÃO DE ALEGAÇÕES RECHAÇADAS. REVISÃO DO JUÍZO DE PROPORCIONALIDADE EMANADO PELAS INSTÂNCIAS ORDINÁRIAS. ANÁLISE DO CASO CONCRETA. FIXAR NOVA PENA PECUNIÁRIA. NECESSIDADE DE REVOLVIMENTO FÁTICO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inocorre violação ao princípio da colegialidade, a teor da art. 932, V, a, do CPC, c/c o art. 3º do CPP, bem como do art. 34, XVIII, c, do RISTJ e da súmula n. 568/STJ, quando a decisão monocrática for proferida com base na jurisprudência dominante deste STJ, tal qual observa-se na espécie, porque é pacífico o entendimento de que a via do especial não se presta à revisão de pena a fim de afastar juízo das instâncias ordinárias a respeito da pena pecuniária e da situação econômica do réu, incidindo no óbice da súmula n. 7/STJ.
+2. Uma vez que o Tribunal de origem, ao fixar o quantum da prestação pecuniária, levou em consideração as peculiaridades do caso concreto, a pretensão recursal de proporcionalidade do valor imposto demandaria inviável reexame da matéria fático-probatória, descabido em sede de recurso especial, ante o óbice da Súmula 7 desta Corte Superior.
+3. Agravo regimental improvido. (AgInt no AREsp 956.972/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017, grifei.)
+PENAL. ESTELIONATO. PENA. PRESTAÇÃO PECUNIÁRIA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. ART. 255, § 2º, DO RISTJ. REQUISITOS. NÃO OBSERVÂNCIA. QUANTUM. REVISÃO. SÚMULA 7/STJ. INCIDÊNCIA. PRINCÍPIO DA PROPORCIONALIDADE. PREQUESTIONAMENTO. INEXISTÊNCIA.
+ ..
+2. Para que fosse possível a revisão dos critérios utilizados pelas instâncias ordinárias para fixação do quantum relativo à prestação pecuniária, seria imprescindível o reexame dos elementos fáticos constantes dos autos, o que é defeso em recurso especial. Incidência da Súmula 7/STJ.
+ ..
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 960.533/SP, de minha relatoria, SEXTA TURMA, julgado em 07/02/2017, DJe 16/02/2017, grifei.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI N. 8.137/90. VIOLAÇÃO AO ART. 45, § 1º, DO CÓDIGO DE PROCESSO PENAL - CPP. PRESTAÇÃO PECUNIÁRIA DESPROPORCIONAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, a redução do valor fixada para prestação pecuniária demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem, com base na prova dos autos, apresentou fundamentação concreta para entender que o valor encontra respaldo na dimensão dos danos causados pelo delito e na situação econômica do recorrente. Ademais, destacou que a defesa não fez prova alguma da hipossuficiência.
+2. Agravo regimental desprovido. (AgRg no REsp 1.540.012/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/04/2018, DJe 18/04/2018, grifei.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. INDEVIDA EXASPERAÇÃO DA PENA-BASE. VETOR CULPABILIDADE DEVIDAMENTE FUNDAMENTADO. MULTA. VALOR UNITÁRIO. PRESTAÇÃO PECUNIÁRIA. VALOR MAJORADO PELO TRIBUNAL A QUO. PRETENSÃO DE REDUÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+ ..
+II - Lado outro, o pedido formulado  verificar se o recorrente teria condições financeiras de arcar com a prestação pecuniária que lhe foi imposta  reclama incursão na seara fático-probatório, procedimento vedado pela Súmula n. 7 desta Corte, já que para se alcançar conclusão diversa daquela a que chegou o eg. Tribunal a quo acerca das condição econômica do recorrente seria imprescindível reexaminar todo o acervo probatório dos autos, pretensão que não se coaduna com os propósitos atribuídos à via eleita.
+Agravo regimental não provido. (AgRg no AREsp 1.145.434/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017, grifei.)
+No mais, com razão o recorrente.
+Com efeito, a Terceira Seção desta Corte Superior de Justiça assentou a orientação de que as penas restritivas de direitos somente podem ser objeto de execução definitiva, nos termos do art. 147 da Lei de Execução Penal.
+Confira-se:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados. (EREsp 1.619.087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 24/08/2017, grifei.)
+Desse modo, imposta ao recorrente pena restritiva de direitos, revela-se incabível sua execução provisória.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, determino a suspensão da execução provisória da pena restritiva de direitos até o trânsito em julgado da condenação.
+Publique-se. Intimem-se.
