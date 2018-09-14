@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. ALTERAÇÃO DA DATA-BASE PARA BENEFÍCIOS. ENTENDIMENTO FIRMADO NO RESP N. 1.557.461/SC. MARCO INICIAL. DATA DA ÚLTIMA PRISÃO OU FALTA GRAVE. APLICABILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. Ordem concedida, confirmando a liminar anteriormente deferida.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], no qual se aponta como autoridade coatoa contra acórdão a Primeira Seção Criminal do Tribunal de Justiça de Mato Grosso do Sul que negou provimento aos Embargos Infringentes n.º 0042449-67.2017.8.12.0001/50000, nos termos da seguinte ementa (fl. 35):
+EMBARGOS INFRINGENTES EM AGRAVO EM EXECUÇÃO PENAL - PEDIDO DE REFORMA DO CÁLCULO DE PENA PARA FINS DE PROGRESSÃO DE REGIME - INCABÍVEL - SUPERVENIÊNCIA DE NOVA CONDENAÇÃO NO CURSO DA EXECUÇÃO - ALTERAÇÃO DA DATA-BASE PARA CONCESSÃO DO BENEFÍCIO - TERMO A QUO DEVE SER O TRÂNSITO EM JULGADO DA NOVA CONDENAÇÃO - DECISÃO MANTIDA - RECURSO IMPROVIDO.
+Sobrevindo nova condenação no curso da execução da pena, as penas serão unificadas e a data-base para obtenção da progressão de regime deverá ser alterada para a data do trânsito em julgado da nova condenação, tal como decidiu o juízo "a quo". Precedentes do STF e do STJ.
+Sustenta, a defesa, que o paciente sofre constrangimento ilegal em razão da fixação da data do trânsito em julgado da nova condenação como data-base para obtenção de benefícios da execução penal.
+Afirma que há um novo entendimento do Superior Tribunal de Justiça, em recente julgamento do REsp nº 1.557.461/SC e do HC nº 381.218/MG, de fevereiro deste ano, no âmbito da Terceira Seção, o qual realçou a revisão do posicionamento aplicado pela 2ª Câmara Criminal do TJMS e passou a adotar que, "sobrevindo o trânsito em julgado de nova condenação no curso da execução penal, por delito praticado antes ou após o início da execução da pena, não há alteração da data-base para a obtenção de eventuais direitos, permanecendo como marco a data da última prisão ou da prática da última falta grave" (fl. 5).
+Requer, assim, a concessão da ordem para determinar a retificação do cálculo de pena de fls. 352-354, de acordo com o novo entendimento deste Superior Tribunal de Justiça (fl. 7).
+Liminar deferida pela Ministra Presidente (fls. 58/61).
+Informações prestadas (fls. 65/67 e 69/89), o Ministério Público Federal ofereceu parecer pela concessão da ordem (fls. 93/98).
+É o relatório.
+Como bem afirmou o Subprocurador-Geral da República [NOME], o caso é de concessão da ordem.
+A Terceira Seção desta Corte, no julgamento do Resp n.1.557.461/SC, ocorrido em 22/2/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+No caso de cometimento de falta grave, é importante ressaltar que devem ser observadas as diretrizes estabelecidas nas Súmulas 441, 534 e 535 desta Corte.
+Nesse contexto, diante do novo entendimento adotado por esta Corte Superior, concedo a ordem para estabelecer a data da última prisão do paciente, ou a data do cometimento da última falta grave, como a data-base para a aquisição de benefícios na execução da pena, observado o disposto nas Súmulas 441, 534 e 535/STJ, confirmando a liminar anteriormente deferida
+Comunique-se.
+Publique-se.
