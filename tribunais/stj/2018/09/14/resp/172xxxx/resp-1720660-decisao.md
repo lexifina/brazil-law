@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial, interposto por [NOME], com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (fls. 140/149, e-STJ):
+EMENTA - PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO.VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÃO ATAQUE AOS FUNDAMENTOS DA SENTENÇA.
+I - Nos termos do artigo 514, inciso II do Código de Processo Civil/1973 e art. 1010, inciso III do Código de Processo Civil/2015 a apelação deve conter os fatos e fundamentos de direito, traduzido -se pelas próprias razões do inconformismo do Apelante, que correspondem à causa de pedir da ação; não devendo, portanto, ser conhecido o recurso quando não for feita a exposição do direito e das razões do pedido de nova decisão.
+II - Pelo princípio da dialeticidade, na peça recursal devem ser declinados os fundamentos de fato e de direito de sua contrariedade, ou seja, deve conter os motivos que venham embasar o inconformismo do recorrente com a sentença.
+III - Apelo não conhecido.
+Opostos embargos declaratórios, foram estes rejeitados, nos termos do aresto de fls. 159/162 (e-STJ), com imposição de multa, nos termos do art. 1.026, § 2º, do CPC/15.
+Nas razões do recurso especial (fls. 164/177, e-STJ), o recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 1.022, II, e 489, § 1º, IV, do CPC/15.
+Sustenta, em suma, que apesar de instada, teria a Corte de origem deixado de analisar os argumentos deduzidos em sede de apelação, concernentes à ausência de preenchimento dos pressupostos necessários para o acolhimento da pretensão deduzida nos autos da ação de busca e apreensão, notadamente no que diz respeito à notificação do devedor. Outrossim, sustenta ter o Tribunal a quo sido omisso, no que diz respeito à aplicação da teoria do adimplemento substancial.
+Sem contrarrazões, e após decisão de admissão do recurso especial (fls. 199/201, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação não merece acolhimento.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido - 02.09.2016.
+2. Quanto à apontada violação do artigo 1.022, do CPC/2015, não assiste razão ao recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+3. Em uma análise detida dos fundamentos que lastrearam o aresto recorrido, depreende-se que o Tribunal a quo não conheceu do recurso de apelação interposto pelo ora recorrente, por ofensa ao princípio da dialeticidade.
+É o que se extrai do seguinte excerto do acórdão impugnado (fls. 146/147, e-STJ):
+ 2.1. O recurso não merece ser conhecido, pois é cediço no ordenamento jurídico a vigência do princípio da dialeticidade, no que tange à motivação dos recursos, através do qual o recurso deve conter os fundamentos de fato e de direito que consubstanciam os motivos reveladores do inconformismo com a decisão objeto de impugnação.
+ 2.2. Tem-se, assim, que o art. 514 do Código de Processo Civil reproduz um destes pressupostos de admissibilidade. Tal artigo foi reproduzido de forma semelhante no novo Código de Processo Civil Senão vejamos:
+ (..)
+ 2.3. Assim, visando o preenchimento do requisito da regularidade formal, é necessário que o Apelante elabore: a) petição de interposição para o juízo a quo; b) as razões de inconformismo; e, por fim, c) pedido de nova decisão para o juízo ad quem.
+ 2.4. É de se observar que o inciso II, referente aos fundamentos de fato e de direito do recurso, pode ser traduzido pelas próprias razões do inconformismo do Apelante, que correspondem à causa de pedir da ação; não devendo, portanto, ser conhecido o recurso quando não for feita a exposição do direito e das razões do pedido de nova decisão.
+ 2.5. Verifica-se, no caso, que o Apelante não se voltou contra tais razões de decidir, em verdade, não rebateu em nada os termos da decisão atacada, pois em cotejo aos elementos contidos nos autos, verifica-se que a r. Sentença julgou procedente o pleito da financeira apelada, invocando os argumentos do artigo 319 do Código de Processo Civil/1973 declarando, via de conseqüência, rescindido o contrato estabelecido entre as partes e, nos termos do art. 3º, §1º, do Decreto-Lei n. 911/69, com redação dada pela Lei n. 10.931/04, consolido a propriedade e a posse plena e exclusiva do bem móvel em questão.
+ 2.6. Ocorre que, a petição recursal em nada tratou sobre o tema seja apara atacar a aplicação dos efeitos da revelia, seja para demonstrar que inexistem os requisitos para a busca e apreensão do veículo.
+Todavia, em suas razões de apelo nobre, ateve-se o recorrente a defender o não preenchimento dos pressupostos necessários para o acolhimento da pretensão deduzida nos autos da ação de busca e apreensão, notadamente no que diz respeito à notificação do devedor e a aplicação da teoria do adimplemento substancial.
+Assim sendo, o descompasso argumentativo existente entre o entendimento firmado pela Corte de origem e as razões deduzidas pela parte insurgente em seu apelo nobre, associado à subsistência de fundamentos válidos, não atacados atraem, por analogia, a incidência dos enunciados contidos nas Súmulas 283 e 284, do STF.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTOS DO JULGADO ATACADO. RAZÕES RECURSAIS. DISSOCIAÇÃO. SÚMULAS NºS 83 E 284 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015. VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017; grifou-se)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao artigo 535 do Código de Processo Civil.
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015; grifou-se)
+4. Por fim, em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, esta Corte de Justiça tem decidido, reiteradamente, que, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+A não-realização do necessário cotejo analítico, bem como a não-apresentação adequada do dissídio jurisprudencial, não obstante a transcrição de ementas, impedem a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, como é o caso dos autos.
+5. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
