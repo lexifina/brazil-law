@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo regimental contra decisão de fls. 1.101/1.102, proferida pela Presidência desta Corte, que negou provimento ao gravo em recurso especial.
+O agravante alega que o óbice da Súmula 7/STJ, invocado na decisão que negou seguimento ao recurso especial, foi devidamente combatido nas razões a agravo em recurso especial.
+Entende assim, que as razões do recurso especial devem ser analisadas.
+Requer, assim, o provimento do agravo regimental com provimento do recurso especial.
+É o relatório.
+Reconsidero a decisão anterior para, contudo, indeferir a pretensão por outro fundamento.
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 121, caput, do Código Penal (homicídio) à pena de 6 anos de reclusão em regime inicial semiaberto (fls. 797/798).
+Irresignada, a defesa do agravante interpôs recurso de apelação, no qual buscou a anulação do julgamento por decisão manifestamente contrária à prova dos autos, ou a desclassificação do delito para a modalidade culposa, afirmando a inexistência de dolo sequer na forma eventual.
+O Tribunal de origem negou provimento ao apelo, nos termos do acórdão assim ementado:
+"Homicídio simples - Conjunto probatório suficiente a roborar a opção do Tribunal do Júri pela condenação - Decisão manifestamente contrária à prova dos autos - Não ocorrência - Anulação - Inadmissibilidade.
+Apelo defensivo improvido." (fl. 887)
+Em sede de recurso especial, a defesa alega violação ao disposto no art. 18, incs. I e II, do Código Penal e no art. 302 da Lei n. 9.503/97.
+Sustenta, em síntese, que a simples ingesta de bebida alcóolica não implica na ocorrência do dolo eventual.
+Requer, assim, seja anulada a decisão dos jurados, com a consequente submissão do acusado a novo julgamento pelo Tribunal do Júri (fls. 900/935).
+Decido.
+Com efeito, a Corte de origem, soberana na análise do acervo probatório, entendeu pela existência de conjunto probatório suficiente. A propósito, transcrevo excerto do acórdão recorrido (fls. 891/894):
+"As decisões do Tribunal do Júri, juiz constitucional dos crimes dolosos contra a vida, só comportam revisão quando manifestamente contrárias às provas dos autos, o que não se depreende da decisão hostilizada, que espelhou a opção dos integrantes do Conselho de Sentença por vertente plausível de prova, não deixando margem para dúvidas sobre o ocorrido.
+Firme o entendimento de que decisão manifestamente contrária à prova dos autos, apta a ensejar a anulação do Júri, é aquela que não tem apoio em prova nenhuma dos autos, é aquela que não tem a suportá-la, ou a justificá-la, qualquer dado indicativo do acerto da conclusão adotada, e não, ao contrário, aquela que se assenta em alguns, ainda que poucos, elementos de convicção, em pormenores razoavelmente evidenciados pelas provas dos autos (TJSP, Apelação nº 227.259-3/8, rei. Canguçu de Almeida, [NOME]).
+Nesse sentido, precedente do Col. Superior Tribunal de Justiça: "Não se caracteriza como manifestamente contrária à prova dos autos a decisão que, optando por uma das versões trazidas aos autos, não se encontra inteiramente divorciada da prova existente no processo (REsp 1209829/MS, 5a Turma, Rei. Ministro Gilson Dipp, j. 16/12/2010, DJe 1º/02/2011)".
+Daí concluir-se que essa decisão não afronta a evidência dos autos; pelo contrário, com ela está em plena consonância.
+Vale trazer excertos do parecer do digno representante do Parquet bandeirante:
+"(..) Não há como acolher a argumentação do apelante, uma vez que a sentença foi proferida em estreita consonância com a decisão do Conselho de Sentença.
+É pacífico o entendimento, em sede doutrinária e jurisprudencial, de que a cassação do veredicto só é possível quando se verificar acentuada desarmonia entre as provas dos autos e o direcionamento da decisão do Conselho de Sentença.
+Isso porque as decisões do júri são, em princípio e por força da alínea c do inciso XXXVIII do art. 5o da Constituição Federal, intangíveis, salvo se "exercida indiscriminadamente, em frontal incompatibilidade da decisão coma prova material inequívoca.
+Assim, ressalvada a hipótese de manifesta arbitrariedade praticada pelos juízes leigos, há de prevalecer, quanto ao mérito da lide penal, o veredicto.
+(..) Busca a defesa ver afastado o dolo eventual, e ver desclassificada para a conduta culposa, sustentando que o agente não assumiu o risco de produzir o resultado.
+As duas teses foram ofertadas aos senhores jurados, que afastando a tese da defesa, acataram a da acusação entendendo ter ocorrido o dolo eventual.
+Conclui-se que há robusto material cognitivo a amparar a opção feita pelo Conselho de Sentença, de modo a evidenciar o acerto da decisão".
+(..)
+De qualquer modo, o laudo de exame de verificação de embriaguez atestou que muito além da permitida a dosagem alcoólica detectada no sangue do apelante, verificando-se, ademais, que ele não freou em momento algum o veículo que conduzia, em pista seca, levando a óbito a vítima, não sem antes invadir a calçada e arrastar o ponto de ônibus, a final capotando.
+A embriaguez, de per si, não requer maiores ilações a apontar no sentido da responsabilidade criminal do apelante, sendo corrente, entre o homem médio, que o álcool reduz os reflexos naturais, provocando situação de perigo real.
+A pena não merece qualquer censura, havendo quedado em seu mínimo legal.
+O "quantum" da pena, a primariedade do apelante e a gravidade do delito perpetrado respaldam o regime prisional intermediário, bem adotado pela ilustre magistrada."
+De fato, para se concluir de forma diversa do entendimento do Tribunal de origem, inclusive quanto à suficiência dos elementos necessários à caracterização do dolo eventual, decorrente da ingestão de bebida alcoólica, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+O acórdão recorrido, inclusive, não destoa do entendimento desta Corte. Nesse sentido, cito precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOLO EVENTUAL. REVISÃO. SÚMULA 7/STJ. CONTRARIEDADE AO ART. 619 DO CPP. INOCORRÊNCIA. INCIDÊNCIA DA LEI 12.971/14. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. Tendo o Tribunal de origem concluído que os elementos probatórios evidenciam a prática de homicídio na condução de veículo automotor, sob a influência de álcool, em velocidade excessiva e mediante ultrapassagem de sinal vermelho, circunstâncias indicativas de dolo eventual, que atrairiam a competência do Tribunal do Júri, a desconstituição dessas premissas exigiria revolvimento fático-probatório, o que encontra óbice na Súmula 7/STJ.
+3. A obrigatoriedade de fundamentação das decisões judiciais não impõe ao magistrado o dever de responder a todos os questionamentos das partes, nem de utilizar os fundamentos que entendem elas serem os mais adequados, mas apenas aqueles suficientes ao deslinde do processo, como ocorreu na hipótese.
+4. Tendo sido reconhecido o homicídio por dolo eventual e não a infração ao art. 302, § 2º da Lei 9.503/97, não há que proceder à aplicação da Lei 12.971/14.
+5. Agravo regimental improvido.
+(AgRg no REsp 1688027/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. CONDUÇÃO DE VEÍCULO AUTOMOTOR EM ALTA VELOCIDADE (RACHA) E SOB O EFEITO DE ÁLCOOL. DOLO EVENTUAL. DESCARACTERIZAÇÃO. COMPETÊNCIA DO TRIBUNAL DO JÚRI. INEXISTÊNCIA DE PROVAS DA CONDUTA DOLOSA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. PRONÚNCIA. NULIDADE. EXCESSO DE LINGUAGEM NÃO CONFIGURADO.
+1. A decisão de pronúncia não revela juízo de mérito mas apenas de admissibilidade da acusação, direcionando o julgamento da causa para o Tribunal do Júri, órgão competente para julgar os crimes dolosos contra a vida. Para tanto, basta a demonstração da materialidade do fato e a existência de indícios suficientes de autoria ou de participação, conforme disciplina o art. 413 do Código de Processo Penal.
+2. Verificando-se que a imputação diz respeito a morte ocasionada por acidente de trânsito em suposto contexto de "racha", tem-se a materialidade, consistente na morte da vítima, bem como os indícios de autoria, uma vez que o recorrente conduzia o outro veículo envolvido na disputa. É isso que se requer, sucintamente, para autorizar o juízo de pronúncia.
+3. Assim, tratando-se de crime contra a vida, presentes indícios da autoria e materialidade, deve o acusado ser pronunciado, em homenagem ao princípio do in dubio pro societate, cabendo ao Tribunal do Júri respectivo proferir o juízo de mérito aplicável ao caso, bem como se o crime aconteceu com dolo eventual ou culpa.
+4. Ademais, o pedido de reconhecimento da inexistência absoluta de provas de que tenha o recorrente assumido conduta dolosa, com a consequente desclassificação da conduta para culposa, não prescinde de acurado revolvimento do acervo fático-probatório, vedado em sede de recurso especial, nos moldes da Súmula 7/STJ.
+5. Não prospera a alegação de excesso de linguagem por ocasião da sentença de pronúncia, pois a leitura do acórdão recorrido e da própria sentença de pronúncia demonstra justamente o contrário, isto é, que o decisum limitou-se à demonstração da materialidade do fato e à indicação da existência de indícios suficientes de autoria.
+6. No presente caso, verifica-se que o julgador de primeiro grau foi detalhista, analisando ponto a ponto, porém, em momento algum, declinou um juízo de convicção a respeito da culpabilidade da recorrente, cuidando apenas de apresentar elementos de prova mínimos - e estritamente necessários - para reconhecer a prova da materialidade e indícios da autoria e participação de crime doloso contra a vida, a ser julgado pelo Tribunal do Júri. Nesse contexto, não há que se falar em excesso de linguagem, se o decisum limitou-se a apontar as provas que dão suporte à acusação.
+7. Agravo regimental não provido. (AgRg no REsp 1525082/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/05/2016, DJe 01/06/2016)
+Diante do exposto, dou provimento ao agravo regimental para reconsiderar a decisão de fls. 578/580 e, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil, c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso.
+Publique-se. Intimem-se.
