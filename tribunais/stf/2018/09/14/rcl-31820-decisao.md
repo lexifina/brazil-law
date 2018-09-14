@@ -1,0 +1,14 @@
+Trata-se de reclamação ajuizada em favor de João Rodrigues contra decisão do Ministro Roberto Barroso, Relator da Rcl 31.523/SC, sob alegação de descumprimento de acórdão da Primeira Turma do Supremo Tribunal Federal nos autos do RE 696.533/SC.
+    É o relatório. Decido.
+    Bem examinados os autos, entendo que a reclamação não merece prosperar.
+    Observo que o ato reclamado consistiu em decisão monocrática proferida pelo Ministro Relator nos autos da Rcl 31.523/SC, no sentido de deferir medida cautelar “para suspender a decisão proferida nos autos do HC 454.580/SC, restabelecendo, com isso, a execução da pena determinada pela Primeira Turma do Supremo Tribunal Federal”.
+    Digo isso porque, conforme o Regimento Interno do Supremo Tribunal Federal, existe via recursal própria para questionar, ao órgão colegiado competente, decisão de Ministro Relator que causar prejuízo ao direito da parte, qual seja, o agravo regimental (art. 317 do RISTF).
+    Assim, considero incabível a presente reclamação, porquanto a jurisprudência desta Suprema Corte não admite sua utilização como sucedâneo recursal. Vejamos:
+    “Agravo regimental em reclamação. 2. Alegação de violação a precedente desta Corte não dotado de efeito vinculante. Decisão proferida em ação de natureza subjetiva, com efeitos inter partes. 3. Inocorrência das hipóteses previstas no art. 102, I, ‘l’, da Constituição Federal e no art. 988 do CPC/2015. Não cabimento. 4. Impossibilidade de utilização da reclamação como sucedâneo recursal. 5. Ausência de argumentos que possam influenciar a convicção do julgador. 6. Agravo regimental não provido” (Rcl 30.118-AgR/DF, Rel. Min. Gilmar Mendes).
+    Ademais, já se consolidou o entendimento de que “é inadmissível a reclamação proposta contra decisão judicial de ministro ou órgão colegiado desta Suprema Corte” (Rcl 27.685-AgR/SP, Rel. Min. Dias Toffoli), verbis:
+    “Agravo regimental na reclamação. Súmula Vinculante nº 22. Reclamação constitucional usada como sucedâneo de recurso. Ausência de aderência estrita entre o ato reclamado e o paradigma da Corte. Súmula nº 734/STF. Impropriedade da reclamação contra ato desta Suprema Corte. Agravo regimental não provido. 1. A aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmas é requisito de admissibilidade da reclamação constitucional. 2. A reclamação não é meio processual adequado para o reexame do mérito da demanda originária. 3. É inadmissível a reclamação proposta contra decisão judicial de ministro ou órgão colegiado desta Suprema Corte. 4. Agravo regimental não provido, com aplicação de multa (art. 1.021, § 4º do CPC/2015)” (Rcl 27.685-AgR/SP, Rel. Min. Dias Toffoli).
+    Isso posto, nego seguimento à reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 14 de setembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
