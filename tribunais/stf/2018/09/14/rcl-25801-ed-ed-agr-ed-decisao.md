@@ -1,0 +1,23 @@
+RECLAMAÇÃO. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. PERDA SUPERVENIENTE DO OBJETO. ALEGADA OMISSÃO NA DECISÃO EMBARGADA. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+    Decisão: Trata-se de embargos de declaração opostos por Sona Akopian em face de decisão assim ementada, in verbis:
+    “RECLAMAÇÃO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. CRITÉRIOS DE AVALIAÇÃO. LEGALIDADE. OBJETIVIDADE. DECISÃO SUPERVENIENTE. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. DEVOLUÇÃO DO FEITO PRINCIPAL À ORIGEM. RECLAMAÇÃO PREJUDICADA.”
+    Nas suas razões, o embargante alega que o decisum vergastado laborou em omissão, uma vez que concluiu pela prejudicialidade da presente reclamação, em razão da devolução do ARE 1.117.441 à origem, com base no Tema 338 da repercussão geral.
+    Aduz, que, a despeito disto, protocolou embargos de declaração nos referidos autos do ARE, ainda pendentes de julgamento.
+     Dessa forma, sustenta que:
+    “Além do que, o CPC, em seu art. 1.022, II, parágrafo único, I, dispõe que considera omissa a decisão que deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos.
+    No caso destes autos, a discussão já ultrapassou até mesmo, tese firmada em caso repetitivo, pois à afronta perpetrada pela CPTM e pelas Instâncias da Corte Paulista são diretas à Súmula Vinculante 44 (antiga Súmula 686).
+    Assim, este e. Tribunal deve se pronunciar diretamente sobre a anulação ou não do ato administrativo da CPTM e das decisões judiciais do TJSP, nos termos do art. 103-A, § 3°, pois o caso não é de Tema ou afronta a Súmula do STF, mas, sim, de enfrentamento PERPETRADO pela CPTM e pelo PODER JUDICIÁRIO DO ESTADO DE SÃO PAULO à SÚMULA VINCULANTE 44.”
+    É o relatório. Decido.
+    Ab initio, pontuo que os embargos de declaração opostos contra decisão do relator serão decididos monocraticamente, nos termos do artigo 1. 024, § 2º, do CPC/2015, o qual dispõe: “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+    Insurge-se a embargante contra decisão que julgou prejudicada a presente reclamação, tendo em vista que, nos autos do processo em que exarada a decisão reclamada, houve sua devolução à origem para a respectiva submissão à sistemática da repercussão geral (Tema 338, AI 758.533, Rel. Min. Gilmar Mendes ), em que firmada a tese de que “a exigência do exame psicotécnico em concurso depende de previsão em lei e no edital, e deve seguir critérios objetivos”.
+    Inexiste qualquer erro, omissão, obscuridade ou contradição na decisão embargada, a justificar sua modificação ou reforma.
+    Deveras, resta claro dos fundamentos da decisão ora impugnada que a devolução do feito à origem nos autos do ARE 1.117.441, em razão do reconhecimento da repercussão geral do Tema 338, enseja o esvaziamento do objeto da presente reclamação.
+    O escopo estrito da reclamação constitucional volta-se a preservar a competência desta Suprema Corte, a garantir a autoridade de suas decisões (Art. 102, I, alínea “l”, CF) e a salvaguardar o estrito cumprimento das súmulas vinculantes (Art. 103-A, § 3º, CF). Não se presta esta via processual à aferição quanto ao acerto ou desacerto do mérito do ato reclamado ou à aferição geral da juridicidade deste (Rcl 27188, Relator Min. LUIZ FUX, Primeira Turma, julgado em 31/10/2017; Rcl 26154 AgR, Relator Min. EDSON FACHIN, Segunda Turma, julgado em 21/08/2017).
+    Nesta senda, não subsiste a necessidade da demanda, considerando-se que a apreciação da matéria pelo STF, com a consequente aplicação do entendimento da Corte ao feito de origem, já é consectário lógico do reconhecimento da repercussão geral da quaestio iuris e da incidência da disciplina do art. 1.040 do CPC, o que já foi determinado no bojo do ARE 1.117.441.
+    Por outro lado, o que se observa das alegações da embargante é a sua irresignação frente ao quanto decidido no mencionado ARE 1.117.441, o que decerto escapa ao âmbito da cognoscibilidade da presente reclamação e destes embargos. É o que se depreende do trecho dos embargos em que se afirma, verbis: “o ARE foi remetido a Instância a quo sem decisão clara, portanto omissa, de que a CLT (art. 168, §2°) é ou não o suporte legal exigido pela Súmula Vinculante 44 e, ainda, de apreciar os demais pedidos da reclamante, no caso de procedência da ação”.
+    Ex positis, NEGO PROVIMENTO aos presentes embargos.
+     Publique-se.
+     Brasília, 14 de setembro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
