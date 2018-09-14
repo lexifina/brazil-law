@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 00128312720108260068) - fl. 35:
+Apelação da Defesa - Estelionato - Provas suficientes à condenação - Réus que ludibriaram a vítima para a obtenção de valores indevidos - Serviços de assessoria previdenciária que jamais foram prestados - Circunstância que demonstra o dolo dos acusados - Condenação de rigor - Exasperação das penas-base que se mostra adequada - Continuidade delitiva - A despeito da lesão do patrimônio de apenas uma vítima, foram realizados diversos pagamentos aos acusados - Fixação do regime prisional fechado que se mostra adequado às circunstâncias do caso - Decorrido o prazo para oposição de eventuais Embargos de Declaração, expeça-se mandado de prisão - Recursos de apelação desprovido, com determinação.
+Verifica-se dos autos que a paciente foi condenada à pena de 3 anos de reclusão, no regime inicial fechado, além do pagamento de 22 dias-multa, como incursa no art. 171, caput, c.c. art. 71, ambos do Código Penal.
+Insurge-se, no presente writ, contra a fixação do regime inicial fechado. Afirma que não constitui fundamentação suficiente a simples afirmação de que a conduta é gravosa, mormente por se tratar de paciente não reincidente, com pena inferior a 4 anos. Sustenta, por outro lado, que é mãe de uma criança de 5 anos, que depende de seus cuidados.
+ É o relatório.
+No caso, o regime mais gravoso foi determinado em razão da existência de circunstâncias judiciais negativas e porque os réus demonstraram articulação e ausência de pudor ao exigir da vítima tão elevada quantia, mesclando falsas informações com ameaças (fl. 27).
+Considerada a pena aplicada (3 anos de reclusão) e não se tratando de paciente reincidente, seria o caso de fixação do regime aberto, nos termos do art. 33, §2º, "c", do Código Penal. Ocorre que, presentes as circunstâncias judiciais e negativas, bem como a fundamentação concreta exposta na denúncia, mostra-se adequado e proporcional, inclusive em razão do quantum da pena, a imposição do regime semiaberto. A propósito, trago o precedente desta Corte:
+PENAL. AGRAVO REGIMENTAL. REGIME INICIAL DE CUMPRIMENTO DE PENA. PRESENÇA DE CIRCUNSTÂNCIA NEGATIVA. FIXAÇÃO DO REGIME MAIS SEVERO. PRECEDENTE. ALEGAÇÃO DE PRIMARIEDADE. REINCIDÊNCIA FIRMADA NO ACÓRDÃO DO TRIBUNAL LOCAL. REVISÃO DE PROVAS. SÚMULA 7/STJ. PENAS INFERIORES A 4 ANOS. RÉUS NÃO REINCIDENTES. ABRANDAMENTO DO REGIME. PRECEDENTES.
+Agravo regimental improvido. Ordem de habeas corpus concedida de ofício, para fixar o regime semiaberto para [NOME] e para o corréu [NOME].
+(AgRg no AREsp 463.961/SP, Ministro Sebastião Reis Júnior, Sexta Turma, DJe 15/09/2015)
+Observo, por fim, que a circunstância da paciente ser mãe de um filho menor de cinco anos não foi examinada pelas instâncias originárias, devendo, assim, ser submetida inicialmente à apreciação do Juízo da Execução.
+Ante o exposto, concedo a ordem para fixar o regime inicial semiaberto.
+Comunique-se.
+Publique-se.
