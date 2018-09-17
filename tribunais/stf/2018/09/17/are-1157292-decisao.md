@@ -1,0 +1,11 @@
+DECISÃO: Os recursos extraordinários a que se referem os presentes agravos foram interpostos, de um lado, por Silvio Lagana de Andrade, e, de outro, pela Google Brasil Internet Ltda., contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Indenização c.c. obrigação de fazer – Retirada de conteúdo ofensivo da ‘internet’ – Facilmente localizável a página, desnecessária indicação exata da url – Provedor de hospedagem não pode ser obrigado a realização de censura prévia das publicações – Responsabilidade por eventuais danos morais condicionada a prévia notificação, que não ocorreu – Indenização indevida – Recurso do réu provido em parte, recurso do autor improvido.”
+    As partes ora agravantes, ao deduzirem os apelos extremos em questão, sustentaram que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Preliminarmente, tendo em vista a petição protocolada, nesta Corte, sob nº 61523/2018, homologo o pedido de desistência do agravo interposto pela Google Brasil Internet Ltda., eis que formulado por quem dispõe de legitimidade e de poderes especiais para subscrevê-lo.
+    Passo a examinar a postulação recursal de Silvio Lagana de Andrade. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, apreciando o ARE 660.861-RG/MG, posteriormente substituído pelo RE 1.057.258/MG, ambos de Relatoria do eminente Ministro LUIZ FUX, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+    “GOOGLE – REDES SOCIAIS – SITES DE RELACIONAMENTO – PUBLICAÇÃO DE MENSAGENS NA INTERNET – CONTEÚDO OFENSIVO – RESPONSABILIDADE CIVIL DO PROVEDOR – DANOS MORAIS – INDENIZAÇÃO – COLISÃO ENTRE LIBERDADE DE EXPRESSÃO E DE INFORMAÇÃO vs. DIREITO À PRIVACIDADE, À INTIMIDADE, À HONRA E À IMAGEM. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO VIRTUAL DESTA CORTE.”
+    Isso significa que se impõe, quanto ao Tema nº 533/RG, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal “a quo”.
+    Publique-se.
+    Brasília, 17 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
