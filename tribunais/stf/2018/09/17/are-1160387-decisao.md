@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. AVALIAÇÃO PSICOLÓGICA. CANDIDATO REPROVADO. CRITÉRIOS SUBJETIVOS DE AVALIAÇÃO. IMPOSSIBILIDADE. PRECEDENTES. SUBMISSÃO A NOVO TESTE. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DE EDITAL: SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Quarta Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios decidiu:
+    “APELAÇÃO CÍVEL. REMESSA OFICIAL. CONCURSO PÚBLICO. PCDF. EDITAL 01/13. AVALIAÇÃO PSICOLÓGICA. ISONOMIA. HONORÁRIOS.
+    1. O exame psicológico deve observar critérios objetivos, que não foram especificados, e ater-se ao estado mental do candidato, reservando-se para o estágio probatório a análise da aptidão para o exercício do cargo.
+    2. Não há isonomia contra legem. A igualdade deve ser de acordo com a lei. No caso, todos os candidatos ‘não recomendados’ têm, igualmente, o direito de ação para o exercício do controle da legalidade do ato.
+    3. Majoram-se os honorários advocatícios de R$ 500,00 para R$ 1.500,00 - CPC/73 20, § 4º” (doc. 7, fl. 102).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta.
+    4. O agravante argumenta que “pretende a reforma da decisão indicada, porquanto perfeitamente legal o ato de não recomendação do autor, face à sua não aprovação no exame psicotécnico, realizado nos termos da lei, Constituição Federal e Edital do certame, devendo o mesmo realizar novo exame nos termo recomendados pelo Judiciário” (doc. 9, fl. 9).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o art. 2º; o inc. II do caput do art. 5º; e o inc. I do caput do art. 37 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste ao agravante.
+    O desembargador redator para o acórdão assim se manifestou:
+    “A validade do exame psicológico depende não só da sua previsão legal, como também do emprego de critérios objetivos de avaliação (STF, AI-AgR 658631, Min. Cármen Lúcia; TJDFT 20).
+    A previsão editalícia do exame acha-se marcada por acentuada subjetividade, consistente na subsunção do candidato a um perfil psicológico, indicado de forma um tanto quanto vaga, a ser avaliada mediante critérios não especificados.
+    Portanto, não há lugar para formas psicológicas criadas por organizadores do certame, sobretudo quando se ignora os critérios pelos quais os candidatos são nelas incluídos ou deixados de fora.
+    A permitir-se esse tipo de avaliação eminentemente subjetiva, estariam abertas, em tese, as portas para o arbítrio e preconceito, com risco aos princípios constitucionais da legalidade, publicidade, impessoalidade e moralidade, além da segurança jurídica.
+    Destarte, carece de respaldo jurídico o ato que eliminou o autor do certame, porque não recomendado na fase de avaliação psicológica” (doc. 8, fls. 9-13).
+    Este Supremo Tribunal assentou possível exigir-se a realização de exame psicotécnico quando houver previsão em lei, observância de critérios objetivos e previsão no edital do certame.
+    Na espécie a apreciação do pleito recursal conduziria ao necessário reexame da matéria fático-probatória e das cláusulas do edital. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Assim, por exemplo:
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. PREVISÃO LEGAL. Nos termos da jurisprudência do Supremo Tribunal Federal, o exame psicológico para habilitação em concurso público deve estar previsto em lei em sentido formal e possuir critérios objetivos. A análise quanto à aptidão do candidato ao cargo pleiteado depende do exame do conjunto probatório constante dos autos, o que encontra óbice na Súmula 279 do STF. Agravo regimental a que se nega provimento” (AI n. 529.219-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 26.3.2010).
+    “Agravo regimental no recurso extraordinário. Administrativo. Concurso público. Exame psicotécnico. Realização de novo teste. Cláusulas editalícias. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise das cláusulas de edital de concurso público, tampouco para o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 454 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% sobre o valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça” (RE n. 795.999-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe de 27.2.2018).
+    “PROCESSUAL CIVIL. CONCURSO PÚBLICO. POLICIAL MILITAR. EXAME PSICOTÉCNICO. CRITÉRIOS SUBJETIVOS DE AVALIAÇÃO. IMPOSSIBILIDADE DE DEFESA. ILEGITIMIDADE. AI 758.533 (MIN. REL. GILMAR MENDES, DJe DE 13/8/2010) TEMA 338 DA REPERCUSSÃO GERAL. REPETIÇÃO DO TESTE. OFENSA MERAMENTE REFLEXA À CONSTITUIÇÃO. INUTILIDADE DA MEDIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (RE n. 743.659-AgR, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 12.8.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E CONSTITUCIONAL. 1. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. ACÓRDÃO FUNDAMENTADO NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. (...). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 694.931-AgR, de minha relatoria, Segunda Turma, DJe 26.9.2012).
+    “Este Supremo Tribunal Federal assentou que a alegação de contrariedade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI n. 573.345-AgR, de minha relatoria, Primeira Turma, DJe 12.5.2011).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego provimento a este agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
