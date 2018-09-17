@@ -1,0 +1,14 @@
+DECISÃO
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios.
+    No apelo extremo, interposto com amparo no art. 102, III, alínea “a” da Constituição Federal, o recorrente sustenta que o acórdão violou dispositivos constitucionais. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional discutida no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC/1973, alegações genéricas a respeito do instituto, como a mera afirmação de que (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação a dispositivo constitucional; ou, ainda, (e) há jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nos moldes exigidos pela jurisprudência do STF.
+    Ainda que assim não fosse, verifica-se que o aresto impugnado, com fundamento na legislação ordinária e no substrato fático constante dos autos, manteve a condenação do recorrente pela prática da conduta descrita no art. 302 da Lei 9503/97, matéria situada no contexto normativo infraconstitucional.
+    Quanto à alegação de cerceamento de defesa e afronta ao devido processo legal, o apelo extraordinário não tem chances de êxito, pois essa Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+    Brasília, 17 de setembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
