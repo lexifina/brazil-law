@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de inexibilidade de título executivo. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 2º, 37, cabeça e inciso XIV, e 97 da Constituição Federal. Afirma contrariado o verbete vinculante nº 10 da Súmula do Supremo. Diz inobservados os princípios da Administração Pública.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    (…) considerando-se que o art. 97 da LOM não foi declarado inconstitucional pelo STF, não haveria fundamento para declarar a inexigibilidade do título judicial em testilha. Em todo caso, é importante observar a inaplicabilidade ao caso daquilo que ficou decidido pelo C. Órgão Especial desta Corte no Incidente de inconstitucionalidade n. 0141977-63.2012.8.26.0000 - que julgou inconstitucional referido dispositivo legal - posto que a declaração teve eficácia apenas entre as partes. Veja: “[...] com fundamento no art. 97 da Constituição Federal e Súmula Vinculante nº 10, acolhe-se a presente arguição, para declarar, incidenter tantum, a inconstitucionalidade do art. 97, da Lei Orgânica do Município de São Paulo e determinar a remessa dos autos à C. Câmara suscitante (13ª Câmara de Direito Público), para prosseguimento do julgamento da apelação nº 0025628-80.2010.8.26.0053.” (Arguição de Inconstitucionalidade nº 0.141.977-63.2012.8.26.0000, j. de 05.12.12, Rel. Des. LUIS GANZERLA grifos nossos).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 17 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
