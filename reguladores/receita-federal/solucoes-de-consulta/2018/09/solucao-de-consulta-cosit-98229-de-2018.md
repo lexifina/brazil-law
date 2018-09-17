@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98229, de 11 de setembro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8543.70.99 Mercadoria: Dispositivo utilizado em eixos e rotores de colheitadeiras, com a função de emitir pulsos elétricos, ao detectar a variação do campo magnético quando um dente da engrenagem passa próximo à superfície de seu ímã interno, enviando o sinal a um microcontrolador, responsável por efetuar a contagem das rotações, denominado comercialmente de "sensor de velocidade". DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.43), RGI 6 (texto da subposição 8543.70) e RGC-1 (textos do item 8543.70.9 e do subitem 8543.70.99) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.229-2018 .pdf]
