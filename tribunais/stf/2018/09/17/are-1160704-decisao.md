@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “AÇÃO ORDINÁRIA — Pedido de estabelecimento de pensão por morte instituída em favor de menor designado — Ausente a probabilidade do direito invocado pelo autor, ao passo que a pensão por morte é regida pela lei vigente à época do óbito — Aplicação da Lei n° 9.717/98 — Recurso não provido.” (eDOC 2, p. 75)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 1º, III; 5º, XXXV; 6º, caput; 7º, IV; 193; 194; e 201, I, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, violação ao direito adquirido, bem como aduz-se o direito da parte recorrente ao restabelecimento e manutenção do benefício de Pensão por Morte.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Estadual 10.177/98, Lei Complementar Estadual 180/1978 e Lei Federal 9.717/98) e o conjunto probatório constante dos autos, consignou que o ora recorrente não faz jus ao benefício de pensão por morte. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Primeiramente, cumpre afastar as preliminares suscitadas, uma vez que o ato administrativo se deu dentro do prazo previsto em lei, nos termos do art. 10, inciso I, da Lei Estadual nº 10.177/98, logo não há o que se falar de prescrição, nem decadência do direito.
+    Com efeito, o artigo 152, inciso II, da Lei Complementar n° 180/1978 do Estado de São Paulo, permite ao contribuinte designar beneficiário por meio de declaração de vontade, desde que se trate de menor de 21 (vinte e um) anos, ou maior de 60 (sessenta) anos de idade ou inválido.
+    (…)
+    Assim, não há mais fundamento para o pagamento de pensão para menor designado ou maior universitário, pois esse benefício não é previsto na Lei n° 8.213/1991.
+    (…)
+    Em regulamentação ao que já determinava a CF, a Lei Federal n° 9.717/98 - determinou que os benefícios do regime próprio devem ser somente aqueles previstos no Regime Geral da Previdência Social.
+    (…)
+    Assim, não há como deferir um direito não previsto no ordenamento jurídico.” (eDOC 2, p. 77,78)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Previdenciário. Pensão por morte. Revisão. Prazo decadencial. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Ausência de repercussão geral. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e dos fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. O Plenário do Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do RE nº 1.013.583/RS, Relator o Ministro Roberto Barroso, concluiu pela ausência da repercussão geral da matéria constitucional versada no feito, relativa ao termo inicial do prazo decadencial para a revisão de benefício de pensão por morte derivado de outro benefício previdenciário. 3. Agravo regimental não provido. 4. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça.” (RE 1.012.349, Segunda Turma, Rel. Min Dias Toffoli, DJe 10.8.2017)
+    “Agravo regimental em recurso extraordinário. 2. Administrativo. Pensão por morte. Cônjuge divorciada. 3. Análise da legislação local. Lei Complementar Estadual 180/1978. Ofensa meramente reflexa ao texto constitucional. Súmula 280 do STF. 4. Necessidade do reexame de conteúdo fático-probatório. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE-AgR 678.354, de minha relatoria, Segunda Turma, DJe 16.5.2014)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. ADMINISTRATIVO. RESTABELECIMENTO DE PENSÃO POR MORTE. NATUREZA DO BENEFÍCIO. LEI ESTADUAL N. 7.366/1980: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 1.108.769, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 22.8.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 17 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
