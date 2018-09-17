@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF02 nº 2010, de 11 de setembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF
+EMENTA: LICENÇA DE COMERCIALIZAÇÃO OU DISTRIBUIÇÃO DE SOFTWARE. PAGAMENTO, CRÉDITO, ENTREGA, EMPREGO OU REMESSA PARA O EXTERIOR. ROYALTIES. TRIBUTAÇÃO. As importâncias pagas, creditadas, entreguem, empregadas ou remetidas a residente ou domiciliado no exterior, em contraprestação pelo direito de comercialização ou distribuição de software, para revenda a consumidor final, o qual receberá uma licença de uso do software, enquadra-se no conceito de royalties e estão sujeitas à incidência de Imposto sobre a Renda na Fonte (IRRF) à alíquota de 15% (quinze por cento). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 18, DE 27 DE MARÇO DE 2017.
+DISPOSITIVOS LEGAIS: Arts.1º e 2º da Lei nº 9.609, de 19 de fevereiro de 1998; art. 7º, inciso XII, da Lei nº 9.610, de 2 de fevereiro de 1998; art. 710 do Decreto nº 3.000, de 26 de março de 1999.
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF
+EMENTA: LICENÇA DE COMERCIALIZAÇÃO OU DISTRIBUIÇÃO DE SOFTWARE. PAGAMENTO, CRÉDITO, ENTREGA, EMPREGO OU REMESSA PARA O EXTERIOR. ROYALTIES. TRIBUTAÇÃO. As importâncias pagas, creditadas, entreguem, empregadas ou remetidas a residente ou domiciliado no exterior, em contraprestação pelo direito de comercialização ou distribuição de software, para revenda a consumidor final, o qual receberá uma licença de uso do software, enquadra-se no conceito de royalties e estão sujeitas à incidência de Imposto sobre a Renda na Fonte (IRRF) à alíquota de 15% (quinze por cento). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 18, DE 27 DE MARÇO DE 2017.
+DISPOSITIVOS LEGAIS: Arts.1º e 2º da Lei nº 9.609, de 19 de fevereiro de 1998; art. 7º, inciso XII, da Lei nº 9.610, de 2 de fevereiro de 1998; art. 710 do Decreto nº 3.000, de 26 de março de 1999.
+ALDENIR BRAGA CHRISTO
+Chefe
