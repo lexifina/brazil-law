@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS —INVIABILIDADE — DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro, com ressalva quanto à dosimetria da pena, confirmou entendimento do Juízo no tocante à fixação do regime inicial fechado pela prática dos crimes de associação para o tráfico ilícito de entorpecentes e associação criminosa, previstos, respectivamente, nos artigos 35, cabeça, da Lei nº 11.343/06 e 288, cabeça, do Código Penal. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 5º, inciso LVII, da Constituição Federal. Alega contrariedade ao princípio da presunção de inocência. Requer a fixação da pena-base no mínimo legal, substituição da pena privativa de liberdade por restritiva de direitos e alteração para regime mais brando, alegando a primariedade e bons antecedentes.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Assiste razão à pretensão ministerial de aumento da pena base do réu Alexandre Mourão, eis que inequívoco o acentuado grau de reprovação de sua conduta. O réu tem como atividade profissional a advocacia, possuindo, portanto, plenas condições de discernir o caráter ilícito de sua conduta e, ainda assim, preferiu não apenas agir em desconformidade com este entendimento, mas colocou as prerrogativas de advogado a serviço do crime.
+    Com efeito, restou claro que Alexandre Mourão utilizava as visitas ao seu cliente Alexandre, vulgo “Piolho” e chefe da quadrilha, na penitenciária, para levar informações e ordens deste ao resto do bando. Fazia, nas palavras do policial, uma triangulação: visita ao presidio – telefonema para Renata ou Sley – visita ao presidio. [...]
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, sobretudo o Código penal e a Lei nº 11.343/06, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 17 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
