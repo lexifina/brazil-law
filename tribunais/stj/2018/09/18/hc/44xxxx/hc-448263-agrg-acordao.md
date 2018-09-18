@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO QUALIFICADO PELA MORTE DA VÍTIMA. AUMENTO DA PENA-BASE. MULTIRREINCIDÊNCIA. VALORAÇÃO DESFAVORÁVEL DE MAIS DE UMA CIRCUNSTÂNCIA JUDICIAL. POSSIBILIDADE. PROPORCIONALIDADE DO INCREMENTO. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+1. Nos termos do entendimento desta Corte, a existência de condenações anteriores transitadas em julgado pode justificar validamente a elevação da pena-base, tanto como maus antecedentes, bem como conduta social e personalidade, desde que diferentes as condenações consideradas, sob pena de bis in idem. Precedentes.
+2. Mostra-se idôneo e proporcional o aumento da pena-base em 3 anos, em razão da incidência de três circunstâncias judiciais negativas, especialmente ante o intervalo entre as penas mínima e máxima cominadas em abstrato para o crime de roubo qualificado pela morte da vítima (20 a 30 anos).
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] (ou [NOME]) contra a decisão na qual deneguei a ordem de habeas corpus, assim ementada (fl. 544):
+HABEAS CORPUS. ROUBO QUALIFICADO PELA MORTE DA VÍTIMA. AUMENTO DA PENA-BASE. MULTIRREINCIDÊNCIA. VALORAÇÃO DESFAVORÁVEL DE MAIS DE UMA CIRCUNSTÂNCIA JUDICIAL. POSSIBILIDADE. PROPORCIONALIDADE DO INCREMENTO. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Ordem denegada.
+Pretende o agravante a reconsideração da decisão monocrática ou que agravo seja provido pela Sexta Turma, a fim de que sejam afastadas as moduladoras judiciais da conduta social e personalidade do agente, como também reduzida a pena-base em razão do afastamento da moduladora judicial das consequências do crime pelo Tribunal a quo.
+Citando precedentes da Quinta Turma, alega que condenações com trânsito em julgado não podem ser consideradas na exasperação da pena-base em razão da personalidade do paciente, ou até mesmo para certificar sua conduta social inadequada, sendo necessário a existência de dados concretos suficientes para sua aferição (fls. 558/559).
+Aduz que as provas colhidas durante a instrução do processo não permitem aferir a índole do agente, seu perfil psicológico e moral, de modo que não é possível tachar a conduta social se baseando em meras suposições.
+Menciona que deve ser reduzida a pena-base, porque a vetorial referente às consequências do crime foi afastada pela Corte de origem.
+É o relatório.
+AgRg no HABEAS CORPUS Nº 448.263 - MS (2018/0102543-4)
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A decisão ora impugnada deve ser mantida por seus próprios fundamentos.
+O acórdão asseverou que (fls. 519/520):
+ ..  Ressalta-se que o embargante ostenta quatro condenações com trânsito em julgado.
+Foi condenado nos autos nº 582/2003 - Código 290508, cuja sentença transitou em julgado em 15/09/2004 (Execução Penal nº 0027155-82.2011.8.12.0001); nos autos nº 643/2003, decisão que se tornou definitiva em 11/04/2005 (f. 82); nos autos nº 0002132-19.2008.8.12.0041, com trânsito em julgado em 03/| 1/2009 (f. 141); no processo nº 156/2007, sentença que transitou em julgado em 04/05/2010 (Execução Penal nº 0027103-83.2011.8.12.0001).
+Logo, segundo entendimento jurisprudencial do Superior Tribunal de Justiça, nada obsta que uma seja utilizada para negativar os antecedentes, outra a personalidade, outra a conduta social e outra caracterizar a reincidência.
+ ..
+Ora, como se vê, o Tribunal de origem decidiu em harmonia com a jurisprudência desta Sexta Turma quanto ao tema, firmada no sentido de que a condenação por crime anterior, com trânsito em julgado, justifica a valoração negativa da circunstância judicial dos antecedentes, da conduta social ou da personalidade do agente, lastreando a exasperação da pena-base (HC n. 427.906/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/3/2018).
+Dito de outra forma, havendo mais de uma condenação anterior transitada em julgado, é possível sopesar uma delas na primeira etapa da dosimetria, a título de maus antecedentes, e a outra, também para fins de exasperação da pena-base, como personalidade desajustada ou conduta social reprovável. O que não se admite é a utilização de uma mesma condenação definitiva anterior para valorar desfavoravelmente mais de uma circunstância judicial, sob pena de incorrer-se no inadmissível bis in idem (AgRg no AgRg no AREsp n. 354.371/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/3/2018).
+No mesmo sentido, o AgRg no AREsp n. 119.060/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 19/12/2017; AgRg no REsp n. 1.696.116/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 15/12/2017; AgRg no HC n. 424.612/MS, de minha relatoria, Sexta Turma, DJe 4/12/2017; AgRg no HC n. 409.923/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/12/2017.
+Outrossim, quanto ao questionamento referente à proporcionalidade da exasperação da pena, em razão do afastamento pelo Tribunal de origem da moduladora relativa às consequência do crime, reafirmo que o aumento da pena em fração superior ao mínimo (3 anos), em razão da incidência de três circunstâncias judiciais negativas - os antecedentes, a conduta social e a personalidade do agente - decorrentes de três condenações definitivas anteriores, revela-se idôneo e proporcional, especialmente ante o intervalo entre as penas mínima e máxima cominadas em abstrato para o crime de roubo qualificado pela morte da vítima (20 a 30 anos).
+Ante o exposto, nego provimento ao agravo regimental.
