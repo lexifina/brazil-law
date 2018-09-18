@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “AGRAVO DE INSTRUMENTO Mandado de Segurança Execução provisória Alegação de que a questão ainda está pendente de apreciação de recurso perante o STJ Possibilidade do prosseguimento da execução provisória contra a Fazenda Pública, ficando apenas condicionado ao trânsito em julgado o levantamento do valor pelo exequente Precedentes desta Câmara Recurso não provido, com observação” (fl. 18, doc. 1).
+    2. O agravante alega contrariados os §§ 1º, 3º e 5º do art. 100 da Constituição da República.
+    Argumenta que “a decisão transcrita merece reforma porque viola o disposto no artigo 100, §§ 1º, 3º e 5º, da Constituição Federal, dispositivo que veda a expedição de precatório ou requisição de pequeno valor antes do trânsito em julgado da decisão exequenda, caracterizando-se, claramente, a contrariedade do conteúdo do v. acórdão com o teor do dispositivo constitucional” (sic, fls. 25-26, doc. 1).
+    Assevera que “a transcendência do tema ora debatido foi reconhecido por esse C. STF no Recurso Extraordinário n. RE 573.872-8, que deu ensejo ao Tema 28 da repercussão geral” (vol. 1, fl. 28).
+    Sustenta que, “tendo em vista que a expedição de precatório ou requisição de pequeno valor depende do trânsito em julgado, de rigor a cassação da decisão recorrida”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de que “os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada” (vol. 1, fl. 38).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Deve ser afastado o fundamento da decisão agravada, pois os argumentos expendidos são suficientes para infirmar as conclusões do acórdão recorrido.
+    5. No julgamento eletrônico do Recurso Extraordinário n. 568.647-RG, substituído pelo Recurso Extraordinário n. 614.819, Relator o Ministro Marco Aurélio, este Supremo Tribunal reconheceu a repercussão geral da questão constitucional sobre o “fracionamento da execução com expedição de precatório para pagamento de parte incontroversa da condenação” (Tema 28):
+    “REPERCUSSÃO GERAL TÍTULO EXECUTIVO JUDICIAL UNICIDADE FAZENDA PÚBLICA ARTIGO 100, § 1º E § 4º, DA CONSTITUIÇÃO FEDERAL. Admissão pelo Colegiado Maior” (Plenário, DJe 11.4.2008).
+    6. Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+    Pela irrecorribilidade da decisão de devolução de recurso à instância de origem, seguindo a sistemática da repercussão geral (MS n. 31.445-AgR/RJ, de minha relatoria, Plenário, DJ 25.2.2013; MS n. 32.060-ED/SP, Relator o Ministro Dias Toffoli, Plenário, DJ 6.11.2013; MS n. 28.982-AgR/PE, Relator o Ministro Gilmar Mendes, Plenário, DJ 15.10.2010; RE n. 629.675-AgR/SP, Relator o Ministro Luiz Fux, Primeira Turma, DJ 21.3.2013; RE n. 595.251-AgR/RS, Relator o Ministro Dias Toffoli, Primeira Turma, DJ 9.3.2012; AI n. 503.064-AgR-AgR/MG, Relator o Ministro Celso de Mello, Segunda Turma, DJ 26.3.2010; AI n. 811.626-AgR-AgR/SP, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ 3.3.2011; RE n. 513.473-ED/SP, Relator o Ministro Cezar Peluso, Segunda Turma, DJe 18.12.2009, AI n. 790.033-AgR/DF, Relator o Ministro Cezar Peluso, Plenário, DJ 2.5.2012), determino a baixa imediata dos autos.
+    7. Pelo exposto, determino a devolução destes autos ao Tribunal de origem para observar-se o disposto no art. 1.036 do Código de Processo Civil, nos termos do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
