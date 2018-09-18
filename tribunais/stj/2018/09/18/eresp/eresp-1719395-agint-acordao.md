@@ -1,0 +1,44 @@
+EMENTA
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DA CORTE.
+1. Na Corte de origem considerou-se que "In casu, os impetrantes são produtores rurais com inscrição no Cadastro Nacional de Pessoas Jurídicas - CNPJ, conforme atestam os documentos e possuem empregados. Ademais, estão inscritos como contribuinte individual na Secretaria da Receita Federal (fl. 365)." Alterar a conclusão, em razão do exame do contexto fático-probatório dos autos, de que ele não se enquadraria no conceito de empresa, importa em reexame de provas, vedado em Recurso Especial, em razão da incidência da Súmula 7 do STJ.
+2. Ademais, verifica-se que a jurisprudência do Superior Tribunal de Justiça tem entendimento de que somente nos casos de produtor rural pessoa física desprovido de CNPJ é que não é devida a incidência da contribuição para o salário educação. Nesse sentido: AgInt no REsp 1.580.902/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/3/2017, DJe 23/03/2017; REsp 711.166/PR, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 4/4/2006, DJ 16/5/2006, p. 205.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 363-367, e-STJ) que deu provimento aos Recursos Especiais da Fazenda Nacional e do Fundo Nacional de Desenvolvimento da Educação.
+A parte agravante sustenta que, "No conceito de empresa, o Legislador enquadrou, dentro de limites estritos, somente aquelas (empresas) definidas como as firmas individuais e as sociedades urbanas ou rurais, com ou sem fins lucrativos. Se está estabilizado nos autos que os Impetrantes são produtores rurais pessoas físicas que não se enquadram nem na condição de firma individual e muito menos na condição de sociedade, o Judiciário não pode invocar elementos estranhos àqueles elencados pelo Legislador para sujeitá-los ao recolhimento do Salário- Educação." (fl. 376, e-STJ).
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+Impugnação às fls. 395-397, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 15.8.2018.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Na Corte de origem considerou-se que, "In casu, os impetrantes são produtores rurais com inscrição no Cadastro Nacional de Pessoas Jurídicas - CNPJ, conforme atestam os documentos e possuem empregados. Ademais, estão inscritos como "contribuinte individual" na Secretaria da Receita Federal (fl. 365)." Alterar tal conclusão, em razão do exame do contexto fático-probatório dos autos, que ele não se enquadraria no conceito de empresa, importaria em reexame de provas, o que é vedado em Recurso Especial, em razão da incidência da Súmula 7 do STJ.
+Nesse sentido:
+TRIBUTÁRIO. SALÁRIO EDUCAÇÃO. PRODUTOR RURAL. PESSOA FÍSICA COM INSCRIÇÃO NO CNPJ. EQUIPARAÇÃO À EMPRESA. REEXAME DE PROVAS. INADMISSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça . 2. A jurisprudência do STJ consolidou-se no sentido de que "a contribuição para o salário-educação tem como sujeito passivo as empresas, assim entendidas as firmas individuais ou sociedades que assumam o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não" (STJ, REsp 1.162.307/RJ, Rel.
+Min. Luiz Fux, Primeira Seção, DJe de 3/12/2010). 3. Alterar a conclusão da Corte de origem que considerou a obrigatoriedade do recorrente ao pagamento da contribuição do salário educação por ter levado em conta, em razão do exame do contexto-fático probatório dos autos, que ele se enquadra no conceito de empresa, importaria em reexame de provas, o que é vedado no âmbito do recurso especial, em razão do óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido. (AgInt no AREsp 854.302/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 20/03/2018, DJe 23/04/2018)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL. CADASTRO NO CNPJ. SÚMULA 7/STJ.
+1. "A contribuição para o salário-educação tem como sujeito passivo as empresas, assim entendidas as firmas individuais ou sociedades que assumam o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não" (REsp 1.162.307/RJ, Primeira Seção, Relator Ministro Luiz Fux, DJe 3/12/2010).
+2. Segundo a instância ordinária, a "atividade dos impetrantes tem nítidos contornos e características de uma empresa, independentemente de serem ou não pessoa jurídica, considerando que todos os atos relativos à atividade rural desenvolvida pelos impetrantes".
+3. A revisão de tais conclusões demandaria incursão na seara probatória, o que não se revela cabível na via especial, nos termos da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1043829/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+Ademais, verifica-se que a jurisprudência do Superior Tribunal de Justiça tem entendimento de que somente nos casos de produtor rural pessoa física desprovido de CNPJ é que não é devida a incidência da contribuição para o salário- educação.
+A propósito:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL PESSOA FÍSICA. DESPROVIDO DE CNPJ. INEXIGIBILIDADE DA EXAÇÃO.
+1. A jurisprudência do Superior Tribunal de Justiça, com o julgamento do REsp 1.162.307/RJ, submetido ao rito dos recursos repetitivos, firmou-se no sentido de que a contribuição para o salário-educação tem como sujeito passivo as empresas, assim entendidas as firmas individuais ou sociedades que assumam o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não, em consonância com o art. 15 da Lei 9.424/1996, regulamentado pelo Decreto 3.142/1999, sucedido pelo Decreto 6.003/2006. O produtor rural pessoa física desprovido de registro no Cadastro Nacional de Pessoa Jurídica (CNPJ) não se enquadra no conceito de empresa (firma individual ou sociedade), de forma que não é devida a incidência da contribuição para o salário educação. Nesse sentido: AgRg no REsp 1.467.649/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 29/6/2015; AgRg no REsp 1.546.558/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/10/2015; REsp 842.781/RS, Rel. Ministra Denise Arruda, Primeira Turma,DJ 10/12/2007.
+2. Agravo interno não provido.
+(AgInt no REsp 1580902/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/03/2017, DJe 23/03/2017)
+TRIBUTÁRIO - CONTRIBUIÇÃO DO SALÁRIO-EDUCAÇÃO - PRODUTOR RURAL PESSOA FÍSICA.
+1. A contribuição do salário-educação tem destinação específica e não está incluída nas atribuições da Previdência.
+2. Em verdade, é o INSS mero arrecadador e repassador do salário-educação ao FNDE.
+3. Embora tenham natureza jurídica idêntica, visto que ambas são contribuições, a contribuição previdenciária destina-se à manutenção da Previdência e a do salário-educação destina-se ao desenvolvimento do ensino fundamental.
+4. A Lei 9.494/96 atribui como sujeito passivo do salário-educação as empresas, assim definidas pelo respectivo regulamento como qualquer firma individual ou sociedade que assume o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não.
+5. O produtor-empregador rural pessoa física, desde que não esteja constituído como pessoa jurídica, com registro no Cadastro Nacional de Pessoa Jurídica - CNPJ, não se enquadra no conceito de empresa, para fins de incidência do salário-educação.
+6. Recurso especial improvido.
+(REsp 711.166/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 04/04/2006, DJ 16/05/2006, p. 205)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
