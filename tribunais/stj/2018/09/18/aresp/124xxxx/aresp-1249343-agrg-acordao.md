@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRESCRIÇÃO DA PENA DE MULTA. DÍVIDA DE VALOR. PRAZO DO ART. 114, II, DO CP. AGRAVO IMPROVIDO.
+1. Ausente ofensa ao princípio da colegialidade nos casos em que o agravo em recurso especial é improvido, monocraticamente, com esteio em jurisprudência dominante desta Corte superior.
+2. Prevalece o entendimento de que a nova redação do art. 51 do Código Penal não retirou o caráter penal da multa. Assim, embora se apliquem as causas suspensivas da prescrição previstas na Lei n. 6.830/80 e as causas interruptivas disciplinadas no art. 174 do Código Tributário Nacional, o prazo prescricional continua sendo regido pelo art. 114, inciso II, Código Penal (HC 394.591/AM, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 27/09/2017).
+3. O prazo prescricional da pena de multa é o mesmo da pena privativa de liberdade cumulativamente aplicada, nos termos do art. 114, inciso II, do CP.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que negou provimento ao agravo em recurso especial.
+Sustenta o agravante ofensa ao princípio da colegialidade, bem como que quanto ao entendimento transcrito na decisão monocrática, faz-se necessário um distinguishing, lembrando que o caso em julgamento possui particularidades que o distanciam do referido precedente, bem como que há decisões desta Corte em sentido diametralmente oposto ao firmado no citado julgado (fl. 369).
+Por fim, argumenta que a nova redação do art. 51 do CP não retirou o caráter penal da multa, motivo pelo qual o prazo prescricional continua sendo regido pelo art. 114, II, do CP.
+Requer a reconsideração da decisão agravada ou a submissão do recurso à Sexta Turma.
+Impugnação apresentada.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+De início, destaco que não há falar em ofensa ao princípio da colegialidade, porquanto o julgamento monocrático encontra previsão no art. 253, parágrafo único, II, b, do RISTJ, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF, ou ainda, em jurisprudência dominante acerca do tema, como ocorreu no caso. Confira-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA.  .. . AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO. 1. Não há ofensa ao princípio da colegialidade quando a decisão monocrática é proferida em obediência ao artigo 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF, ou ainda, em jurisprudência dominante acerca do tema.  ..  7. Agravo regimental parcialmente conhecido e, nessa extensão, não provido. (AgRg no AREsp 915.701/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/09/2016, DJe 16/09/2016)
+Ademais, é firme a jurisprudência do Superior Tribunal de Justiça de que, com a interposição de agravo regimental, torna-se superada a alegação de violação do citado postulado, tendo em vista a devolução da matéria recursal ao órgão julgador competente. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA.  ..  DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO IMPROVIDO. 1. Não viola o princípio da colegialidade a apreciação unipessoal, pelo relator, do mérito do recurso especial, quando obedecidos todos os requisitos para a sua admissibilidade, bem como observada a jurisprudência dominante desta Corte Superior e do Supremo Tribunal Federal, valendo ressaltar, ademais, que a reapreciação da matéria pelo órgão colegiado, no julgamento de agravo regimental, supera eventual violação ao aludido princípio.  ..  3. Agravo regimental a que se nega provimento (AgRg no REsp 1432109/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 18/06/2014, DJe 01/08/2014).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES.  .. . VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.  ..  3. Não viola o princípio da colegialidade a apreciação unipessoal do recurso especial quando se verifica a ocorrência de óbices formais ou quando esteja, no mérito, em conformidade ou em discordância com a jurisprudência desta Corte. 4. Agravo regimental a que se nega provimento (AgRg no REsp 1444666/MT, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/06/2014, DJe 04/08/2014)
+No mais, a decisão agravada, que merece ser mantida por seus próprios fundamentos, foi assim proferida:
+Trata-se de agravo em recurso especial interposto em face de decisão que inadmitiu recurso especial por incidência do óbice das Súmulas 284/STF e 83/STJ.
+Alega o agravante, em síntese, que a indignação demonstrada foi feita de forma clara e fundamentada, bem como que, embora haja decisões no mesmo sentido, a tese suscitada deve ser analisada caso a caso, notadamente quando há evidente nulidade.
+Apresentada contraminuta, o Ministério Público Federal manifestou-se pelo improvimento do agravo.
+É o relatório.
+Decido.
+Extrai-se dos autos que foi declarada extinta a pena privativa de liberdade do reeducando pelo resgate integral da pena e foi julgado extinto processo referente à guia de execução nº 103297, ao passo que, quanto à pena de multa, foi determinada a sua execução nos moldes da Lei nº 6830/80.
+Interposto agravo em execução, foi negado provimento ao recurso.
+No especial, alega o recorrente que a pena de multa passou a ser considerada dívida de valor e sua prescrição passou a correr nos moldes da Lei 6830/80. Assim, tendo em vista que entre a data da publicação da sentença condenatória e a presente data já se passaram mais de cinco anos, há de se reconhecer a prescrição da pena de multa.
+O Tribunal a quo assim se pronunciou no ponto (fls. 283/286):
+Inicialmente, cumpre registrar que a conversão da pena de multa em dívida de valor, para fins de execução, não altera sua condição de sanção penal, até porque tal qualificação decorre de imposição constitucional, conforme artigo 5o, inciso XLVI, alínea"c", que prevê a multa como espécie de pena.
+(..)
+Logo, ainda que a multa seja convertida em dívida de valor, após o trânsito em julgado ela permanece passível de ser atingida pelo fenômeno da prescrição.
+Partindo dessa ótica, tem-se que o prazo prescricional para a pena de multa ocorre no mesmo prazo da pena privativa de liberdade, desde que tenha sido cumulativamente aplicada, conforme preceitua o artigo 114, inciso II, do Código Penal, in verbis:
+(..)
+Analisando a Guia de Execução nº 103297 (fls. 133/134), verifica-se o que se segue:
+"Procedimento nº 103297 - à pena de 04 (quatro) anos e 05 (cinco) meses de reclusão e multa (Acórdão de fls. 96/98), pela prática em 08/03/2008 do crime tipificado no artigo 33, "caput" da Lei nº 11.343/2006, em regime fechado".
+Verifica-se, diante desses dados, que o réu [NOME], ora Agravante, foi condenado nas sanções do artigo 33, caput, da Lei nº 11.343/2006, à pena definitiva equivalente a 04 (quatro) anos e 05 (cinco) meses de reclusão e 500 (quinhentos) dias-multa, à razão de 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos.
+Destaca-se ainda que os fatos ocorreram em 08 de marco de 2008. a denúncia foi recebida em 07 de outubro de 2008. a sentença foi publicada em 07 de janeiro de 2009 e, por fim, houve o trânsito em julgado para o Ministério Público em 16 de janeiro de 2009. a teor da Guia de Execução Criminal de fl. 04.
+(..)
+Sendo assim, importante frisar que não transcorreram mais do que 12 (doze) anos entre a data do trânsito em julgado da sentença condenatória para a acusação - 16 de janeiro de 2009 - e a presente data, o que significa dizer que a pena de multa NÃO se encontra prescrita.
+De fato, esta Corte já estabeleceu que prevalece o entendimento de que a nova redação do art. 51 do Código Penal não retirou o caráter penal da multa. Assim, embora se apliquem as causas suspensivas da prescrição previstas na Lei n. 6.830/80 e as causas interruptivas disciplinadas no art. 174 do Código Tributário Nacional, o prazo prescricional continua sendo regido pelo art. 114, inciso II, Código Penal". (HC 394.591/AM, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/09/2017, DJe 27/09/2017). No mesmo sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECONHECIMENTO EXPRESSO DA PRESCRIÇÃO DA PENA DE MULTA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. A prescrição da pena de multa ocorre no mesmo prazo da pena privativa de liberdade, quando tenha sido cumulativamente aplicada, conforme preceitua o art. 114, II, do Código Penal.
+2. Embargos de declaração acolhidos apenas para esclarecer que a sanção pecuniária no valor de 10 (dez) dias-multa, cumulativamente aplicada à pena privativa de liberdade - com prescrição reconhecida -, encontra-se igualmente fulminada pela prescrição superveniente da pretensão punitiva do Estado".
+(EDcl nos EDcl no AgRg no Ag 1324312/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 11/06/2013, DJe 19/06/2013)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. OCORRÊNCIA.
+(..)
+3. Conforme a regra do art. 114, II, do Código Penal, a prescrição da pena de multa ocorre no mesmo prazo da pena privativa de liberdade, quando com esta cumulativamente aplicada, caso dos autos.
+4. Embargos de declaração acolhidos para determinar a extinção da punibilidade em razão da prescrição da pretensão punitiva na ação penal de que tratam os presentes autos".
+(EDcl nos EDcl no REsp 839.691/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 21/10/2010, DJe 16/11/2010)
+Assim, tendo o acórdão atacado consignado que o prazo prescricional para a pena de multa ocorre no mesmo prazo da pena privativa de liberdade, desde que tenha sido cumulativamente aplicada, conforme preceitua o artigo 114, inciso II, do Código Penal, bem como que não transcorreram mais do que 12 (doze) anos entre a data do trânsito em julgado da sentença condenatória para a acusação - 16 de janeiro de 2009 - e a presente data, o que significa dizer que a pena de multa NÃO se encontra prescrita, está o entendimento em consonância com a jurisprudência desta Corte.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Impende ressaltar que o prazo prescricional da pena de multa é o mesmo da pena privativa de liberdade cumulativamente aplicada, nos termos do art. 114, inciso II, do CP. Assim, transcorrido prazo inferior a 12 anos entre o trânsito em julgado da sentença condenatória para a acusação, ocorrido em 16/01/09, e a presente data, não houve a prescrição da pena multa, nos termos da jurisprudência desta Corte.
+Ante o exposto, voto por negar provimento ao agravo regimental.
