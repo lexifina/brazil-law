@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. ARRENDAMENTO MERCANTIL. LOCAL DE COBRANÇA DO IMPOSTO SOBRE SERVIÇOS – ISS. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÕES CÍVEIS. DIREITO TRIBUTÁRIO. ANULATÓRIA CUMULADA COM DECLARATÓRIA. ISSQN. ARRENDAMENTO MERCANTIL. LEASING. QUESTÃO PACIFICADA PELO STF - POR OCASIÃO DO JULGAMENTO DO RE Nº 592.905/SC - E PELO STJ, SOB O RITO DOS RECURSOS REPETITIVOS, RESP. 1.060.210/SC. COMPETÊNCIA DO MUNICÍPIO DA SEDE DO ESTABELECIMENTO PRESTADOR. HONORÁRIOS DE SUCUMBÊNCIA.
+    Hipótese em que resta sedimentado pelo Superior Tribunal de Justiça que é sujeito ativo para cobrança do ISS o Município sede do estabelecimento prestador, tendo em vista a vigência do Decreto-Lei n. 406/68, bem como a Lei Complementar n. 116/200.
+    Outrossim, o Supremo Tribunal Federal compartilha do mesmo entendimento, visto que o fato gerador não se confunde com a venda do bem objeto do leasing financeiro, já que o núcleo do serviço prestado é o financiamento.
+    O Município apelante não demonstrou ser legítimo para figurar no polo ativo. As provas dos autos indicam que o endereço das instituições financeiras é no Município de Barueri, em São Paulo.
+    No caso dos autos o Município apelante não é legítimo para figurar no polo ativo da execução, restando essa extinta e prejudicada a análise dos demais pontos dos recursos interpostos pelas partes.
+    RECURSO DE APELAÇÃO DAS INSTITUIÇÕES FINANCEIRAS PROVIDO. RECURSO DE APELAÇÃO DO MUNICÍPIO JULGADO PREJUDICADO” (fl. 51, vol. 34).
+    2. O agravante alega contrariados o parágrafo único do art. 1º, o art. 2º, os incs. XXXV e XXXVI do art. 5º e o inc. III do art. 156 da Constituição da República.
+    Assevera ter legitimidade ativa para a cobrança do Imposto Sobre Serviços sobre as operações de arrendamento mercantil realizadas pela agravada.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de prequestionamento e falta de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. A alegada contrariedade aos incs. XXXV e XXXVI do art. 5º da Constituição da República não foi objeto de debate e decisão prévios pelo Tribunal de origem, tampouco os embargos de declaração opostos o foram com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI n. 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    6. No julgamento eletrônico do Agravo de Instrumento n. 790.283-RG, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral na questão discutida na espécie:
+    “ISS. Competência para tributação. Local da prestação do serviço ou do estabelecimento do prestador do serviço. Matéria Infraconstitucional. Repercussão geral rejeitada” (DJe 3.9.2011).
+    Confiram-se também os julgados a seguir:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ISS. COMPETÊNCIA PARA TRIBUTAÇÃO. LOCAL DA PRESTAÇÃO DO SERVIÇO OU DO ESTABELECIMENTO DO PRESTADOR DO SERVIÇO. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a definição do sujeito ativo competente para cobrança do ISS, e, portanto, não há repercussão geral da discussão concernente à referida matéria. 2. Agravo regimental a que se nega provimento” (ARE n. 855.448-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 24.2.2016).
+    “Embargos de declaração convertidos em agravo regimental. Recurso extraordinário com agravo. Alegada violação do art. 5º, XXXV e XXXVI da CF/88. Ausência de prequestionamento. ISS. Operações de arrendamento mercantil. Sujeição ativa. Local do fato gerador do tributo. Matéria infraconstitucional. Ausência de repercussão geral. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. A matéria atinente à definição do sujeito ativo competente para a cobrança do ISS, nas operações de arrendamento mercantil possui natureza infraconstitucional. Ausência de repercussão geral da matéria. 3. Agravo regimental não provido” (ARE n. 834.594-ED, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 8.6.2015).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do agravante.
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e determino a majoração da verba honorária, se fixada na instância de origem, em 10%, conforme disposto no § 11 do art. 85 do Código de Processo Civil, nos termos do § 3º do art. 98 do mesmo Código.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
