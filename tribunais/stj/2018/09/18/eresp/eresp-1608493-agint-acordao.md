@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. MANDATÁRIO. PRESCRIÇÃO DECENAL. ACTIO NATA E NATUREZA DO CONTRATO. COMPROVAÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A Corte de origem reconheceu a existência de relação contratual entre as partes e fixou a data em que o agravado teria tomado conhecimento dos fatos com fundamento nas provas contidas nos autos. A reforma do julgado demandaria reexame do acervo fático-probatório dos autos, providência vedada no recurso especial, a teor do disposto na Súmula 7/STJ.
+2. Na hipótese de ação indenizatória proposta por mandante em face do mandatário em razão de descumprimento do contrato de mandato, incide a prescrição decenal prevista no art. 205 do Código Civil de 2002. Precedentes.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno interposto por AURACYR AZEVEDO DE MOURA CORDEIRO contra decisão que deu provimento ao recurso especial interposto pelo ora agravado em razão da dissonância da decisão do Tribunal de origem com relação ao entendimento jurisprudencial deste Superior Tribunal de Justiça quanto à incidência do prazo prescricional decenal nos casos de responsabilidade oriunda de obrigação contratual (e-STJ, fls. 1102/1105).
+Nas razões recursais, o agravante sustenta que (a) não foi decidido, pelo Tribunal a quo, quanto à existência de relação contratual ou aquiliana entre as partes, (b) "a responsabilidade contratual era a de se promover execução somente em face do Estado do Paraná, tendo o agravante atuado nos estritos limites do contrato e das disposições das leis substantiva e adjetiva", (c) a actio nata (conhecimento dos fatos) ocorreu em 22/09/2008 e não em 2001 e (d) divergência jurisprudencial quanto à aplicação do prazo trienal indistintamente às relações contratuais ou extracontratuais.
+Requer a reforma da decisão (fls. 1109-1125).
+Apresentada impugnação às fls. 1129-1142.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Inicialmente, no que diz respeito à suposta ausência de prequestionamento a respeito da natureza da relação firmada entre as partes, tem-se que, diversamente do afirmado em sede recursal, a referida matéria - prazo prescricional por inadimplemento contratual - foi tratada ao longo de toda a demanda.
+No tocante ao reconhecimento da relação contratual e a data em que o recorrido teria tomado conhecimento dos fatos ilícitos, o Tribunal de origem consignou, in verbis:
+"No caso, o autor visa ser indenizado pelos supostos prejuízos causados pelo apelado, em decorrência de conduta temerária em processo judicial. Indubitável, portanto, que se trata do prazo trienal, previsto no artigo 206, § 3º. V, do Código Civil.
+Nesse sentido, já decidiu este Tribunal:
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAL E MORAL. CAUSA DE PEDIR: INTEMPESTIVIDADE DO RECURSO APRESENTADO PELO RÉU QUANDO PATROCINAVA CAUSA DO AUTOR. PERDA DE CHANCE. PRESCRIÇÃO AFASTADA EM PRIMEIRO GRAU PEDIDO JULGADO IMPROCEDENTE POR AUSÊNCIA DE PROVA DOS ALEGADOS DANOS. APELAÇÃO 2: PRESCRIÇÃO RECONHECIDA. DECISÃO QUE RECONHECEU A INTEMPESTIVIDADE DO RECURSO, DATADA DE 18/08/2003. PROPOSITURA DA PRESENTE AÇÃO EM 19/08/08. APLICAÇÃO DO ART 206 § 3" V DO CC DE 2002 QUE PREVÊ O PRAZO PRESCRICIONAL DE 3 ANOS PARA A PRETENSÃO DE REPARAÇÃO CIVIL. RECURSO DE APELAÇÃO I PREJUDICADO. RECURSO DE APELAÇÃO 2 PROVIDO. (TJPR, 8º C.cível - AC 646934-9 - Curitiba - Rel. Jorge de Oliveira Vargas - Unânime - J. 13/05/2010) - grifo nosso.
+No caso, o autor tomou conhecimento dos fatos que ensejaram sua reclamação em 22/09/2008, e sua ação somente foi proposta em 28/03/2014, quando já decorrido o prazo trienal, previsto em lei." (e-STJ, fl. 986).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+Ademais, esta Corte Superior consolidou entendimento no sentido da incidência da prescrição decenal, prevista no art. 205 do Código Civil de 2002, para o mandante pleitear, em face do mandatário, indenização por descumprimento de contrato de mandato.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PRESCRIÇÃO GERAL. ART. 205 DO CÓDIGO CIVIL DE 2002.
+1. Inexistência de maltrato ao art. 535 do CPC quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2. "No caso, cuida-se de ação de indenização do mandante em face do mandatário, em razão de suposto mau cumprimento do contrato de mandato, hipótese sem previsão legal específica, circunstância que faz incidir a prescrição geral de 10 (dez) anos do art. 205 do Código Civil de 2002, cujo prazo começa a fluir a partir da vigência do novo diploma (11.1.2003), respeitada a regra de transição prevista no art. 2.028." (REsp 1150711/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/12/2011, DJe 15/03/2012).
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO REGIMENTAL DESPROVIDO." (AgRg no REsp 1462661/PI, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/08/2015, DJe 26/08/2015)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DESCUMPRIMENTO DO CONTRATO DE MANDATO. PRESCRIÇÃO. PRAZO GERAL. ART. 205 DO CC. PRETENSÃO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. REITERAÇÃO DOS FUNDAMENTOS JÁ ANALISADOS. MANUTENÇÃO INTEGRAL DA DECISÃO AGRAVADA.
+1. Presentes os requisitos para a aplicação do princípio da fungibilidade, devem ser recebidos como agravo regimental os embargos declaratórios opostos contra decisão monocrática e que tenham nítido intuito infringencial.
+2. Não sendo a linha argumentativa apresentada pelo agravante capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente recurso não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. É decenal o prazo prescricional aplicável às ações de indenização propostas pelo mandante em razão de suposto descumprimento do contrato de mandato. Precedentes.
+4. Agravo regimental não provido." (EDcl no REsp 1500600/MA, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 09/06/2015, DJe 18/06/2015, g.n.)
+"DIREITO CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS AJUIZADA POR SINDICALIZADA EM FACE DE SINDICATO E DE ADVOGADA. ALEGADA MÁ PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE NO CASO CONCRETO. PRESCRIÇÃO GERAL. ART. 205 DO CÓDIGO CIVIL DE 2002.
+1. Os sindicatos possuem natureza associativa (enunciado n. 142 da III Jornada de Direito Civil promovida pelo CJF), e tal como ocorre com as associações, o que é determinante para saber se há relação de consumo entre o sindicato e o sindicalizado é a espécie do serviço prestado. Cuidando-se de assistência jurídica ofertada pelo órgão, não se aplica a essa relação as normas do Código de Defesa do Consumidor.
+2. Com efeito, a prescrição da pretensão autoral não é regida pelo art. 27 do CDC. Porém, também não se lhe aplica o art. 206, § 3º, inciso V, do Código Civil de 2002, haja vista que o mencionado dispositivo possui incidência apenas quando se tratar de responsabilidade civil extracontratual.
+3. No caso, cuida-se de ação de indenização do mandante em face do mandatário, em razão de suposto mau cumprimento do contrato de mandato, hipótese sem previsão legal específica, circunstância que faz incidir a prescrição geral de 10 (dez) anos do art. 205 do Código Civil de 2002, cujo prazo começa a fluir a partir da vigência do novo diploma (11.1.2003), respeitada a regra de transição prevista no art. 2.028.
+4. Ressalva de fundamentação do Ministro Marco Aurélio Buzzi e da Ministra Maria Isabel Gallotti.
+5. Recurso especial não provido." (REsp 1150711/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/12/2011, DJe 15/03/2012, g.n. )
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
