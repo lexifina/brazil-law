@@ -1,0 +1,28 @@
+Decisão:
+ementa: Processual Penal. Habeas corpus. Associação para o tráfico. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Antonio Saldanha Palheiro, assim ementado:
+    “PROCESSO PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. ORGANIZAÇÃO CRIMINOSA. DESPROPORCIONALIDADE. INVIABILIDADE DE ANÁLISE DO HABEAS CORPUS. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+    1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+    2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs demonstrou que o paciente faz parte de organização criminosa que realizava compra e venda de entorpecentes, fornecimento de armas, estrutura e apoio logístico ao Primeiro Comando da Capital – PCC. Assim, a prisão se faz necessária para garantir a ordem pública, evitando o prosseguimento das atividades criminosas desenvolvidas.
+    3. Conforme magistério jurisprudencial do Pretório Excelso, ‘a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva’ (STF, Primeira Turma, HC n. 95.024/SP, rel. Ministra Cármen Lúcia, DJe 20/2/2009).
+    4. Não cabe a esta Corte proceder com juízo intuitivo e de probabilidade para se aferir eventual pena a ser aplicada, tampouco para se concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal. (Precedentes).
+    5. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (Precedentes).
+    6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e para evitar a prática de novos crimes.
+    7. Ordem denegada.”
+    2. Extrai-se dos autos que o paciente foi preso preventivamente, em 29.01.2018, pela suposta prática do crime previsto no art. 35 da Lei n. 11.343/2006.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça, denegado.
+    4. Na sequência, foram opostos embargos de declaração, rejeitados.
+    5. Neste habeas corpus, a parte impetrante sustenta que “NÃO ESTÃO PRESENTES os requisitos do artigo 312 do CPP, a justificar a prisão preventiva”; que “ainda que se admita uma eventual condenação, há possibilidade de que a pena aplicada seja substituída por restritiva de direito, fato que desautoriza a manutenção da prisão preventiva”; e “caso o Paciente seja condenado, o que não se acredita, cumprirá pena no regime aberto ou semiaberto”.
+    6. Prossegue a impetração para alegar que “a autoridade judiciária de primeiro grau entendeu que ‘por ora’ não se deveria aplicar as medidas cautelares diversas da prisão ao Paciente, dando a entender que em outro momento processual tais medidas poderiam ser melhor avaliadas”; e que, “desde a data da prisão até a dessa impetração, transcorreu o interregno de 230 (duzentos e trinta) dias de prisão preventiva sem que ao menos o juízo de origem tenha recebido todas as defesas preliminares, revelando-se em manifesto excesso de prazo”.
+    7. Com essa argumentação, requer a concessão da ordem, a fim de “garantir ao Paciente o benefício de aguardar em liberdade o desenrolar de seu processo, adotando-se as medidas cautelares diversas da prisão ao Paciente”.
+    Decido.
+    8.  O habeas corpus não deve ser concedido.
+    9. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a necessidade de interromper a atuação de organização criminosa constitui fundamentação idônea para a decretação da custódia preventiva (vg. HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    10. No caso de que se trata, a autoridade impetrada não divergiu desse entendimento ao assentar que “a prisão preventiva está justificada, pois a decisão que a impôs demonstrou que o paciente faz parte de organização criminosa que realizava compra e venda de entorpecentes, fornecimento de armas, estrutura e apoio logístico ao Primeiro Comando da Capital – PCC. Assim, a prisão se faz necessária para garantir a ordem pública, evitando o prosseguimento das atividades criminosas desenvolvidas”.
+    11. Quanto ao mais, verifico que a questão relativa ao excesso de prazo para a conclusão da instrução criminal não foi apreciada pelo Tribunal Estadual, nem pelo Superior Tribunal de Justiça. O que impede o imediato exame das matérias por esta Corte, sob pena de dupla supressão de instâncias.
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
