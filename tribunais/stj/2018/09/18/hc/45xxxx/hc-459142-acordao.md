@@ -1,0 +1,60 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA. NEGATIVA DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. VULTOSA QUANTIDADE DE DROGAS APREENDIDAS. IDONEIDADE DO DECRETO DE PRISÃO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. É inviável que se proceda ao revolvimento fático-probatório na via eleita, no intuito de se demonstrar a inexistência de indícios de autoria da prática delitiva, haja vista os estreitos limites de cognição próprios do habeas corpus, assim como do respectivo recurso ordinário.
+2. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+3. No caso, a decisão que impôs a prisão preventiva apontou a gravidade concreta da conduta, evidenciada pela vultosa quantidade de droga apreendida, qual seja, mais de 34kg de entorpecentes, entre maconha e cocaína, o que denota a periculosidade do agente. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública e cessar a atividade delitiva.
+4. Ordem parcialmente conhecida e, nessa extensão, denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do pedido e, nesta extensão, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de AURÉLIO [NOME], apontando como autoridade coatora o Tribunal de Justiça de Santa Catarina no julgamento do HC n. 4013983-44.2018.8.24.0900.
+Narram os autos que o paciente foi preso em flagrante delito, como incurso nos arts. 33 e 35 da Lei n. 11.343/2006, no dia 18 de maio de 2018, na posse de cinqüenta e três (53) porções de erva prensada e um (1) saco de plástico acondicionando erva prensada, apresentando massa bruta total de trinta e quatro quilogramas e seiscentos gramas (34,6kg); uma (1) porção de erva prensada acondicionada em uma sacola de plástico apresentando massa bruta de cento e cinqüenta e cinco gramas (155,0g); uma (1) porção de erva prensada envolta por plástico e acondicionada em um frasco de vidro e apresentando massa bruta de quarenta e oito gramas e três decigramas (48,3g), além de nove (9) pacotes de plástico, todos acondicionando cocaína, apresentando massa bruta total de oitocentos e nove gramas e seis decigramas (809,6g).
+Irresignada, a defesa impetrou writ prévio buscando a revogação da custódia cautelar, tendo a ordem sido denegada em acórdão assim ementado (e-STJ fl. 122):
+HABEAS CORPUS. PRISÃO PREVENTIVA. 1. INDÍCIOS DE AUTORIA. TRÁFICO DE DROGAS. APREENSÃO DE ENTORPECENTES E PETRECHOS NA RESIDÊNCIA DO AGENTE. 2. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGENTE. QUANTIDADE E VARIEDADE DE DROGA. 3. PREDICADOS PESSOAIS. SEGREGAÇÃO NECESSÁRIA. INEXISTÊNCIA DE ÓBICE.
+1. A apreensão de vultosa quantidade de entorpecentes e de balanças de precisão na residência do paciente é indício suficiente de autoria do delito de tráfico de drogas a ponto de justificar a prisão preventiva.
+2. A apreensão do agente com considerável quantidade de entorpecentes (mais de 30kg de maconha) é elemento revelador de sua periculosidade social, a impor sua segregação preventiva como modo de acautelar a ordem pública.
+3. A ostentação de bons predicados (como residência fixa, primariedade e emprego lícito) pelo agente não autoriza, por si só, a revogação da prisão preventiva se presentes os requisitos que a autorizam.
+ORDEM DENEGADA.
+Defende o impetrante, em suma, que o paciente "é vítima, não bandido, pois a droga era armazenada em sua casa por ordem de facção criminosa que não podia declinar o nome com medo da integridade física sua e de familiares" (e-STJ fl. 2). Aduz que o réu tem condições pessoais favoráveis e que a custódia cautelar é desnecessária e não pode ser mantida com base na gravidade abstrata do crime.
+Busca, em liminar e no mérito, a concessão de alvará de soltura ao paciente.
+O pedido liminar foi indeferido pela Ministra Presidente Laurita Vaz (e-STJ fls. 137/139).
+Informações prestadas (e-STJ fls. 142/166 e 178/180).
+Parecer ministerial pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (e-STJ fls. 169/171).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Aponta-se, no presente habeas corpus, a inexistência de fundamentação no decreto que impôs a segregação cautelar ao paciente. Aduz-se, também, negativa de autoria, ao argumento que a droga estava armazenada na residência do paciente por ordem de facção criminosa.
+Insta consignar que a regra em nosso ordenamento jurídico é a liberdade. Assim, a constrição de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, inciso LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, foram estes os fundamentos invocados para a decretação da prisão preventiva do paciente, in verbis (e-STJ fls. 179/180):
+Com relação ao indiciado [NOME], observa-se que há indícios de autoria, considerando a apreensão/quantidade expressiva de droga em sua residência, nas dependências, bem como prova de materialidade consoante laudo de constatação que apontou a natureza tóxica da droga. Assim sendo, considerando a quantidade de droga apreendida que não se mostrou ínfima no caso, consoante ao laudo de constatação estampado nos autos às fls. 09, no caso 53 porções de erva, saco plástico, condicionado erva prensada, 34,6 kg considerando maconha e cocaina.
+Assim sendo, decreta-se a prisão preventiva convertida do flagrante em relação ao indiciado em questão, considerando que o delito de tráfico é de natureza hedionda e a quantidade da droga se mostrou expressiva, considerando assim o perigo à ordem pública presente dada a alta quantidade da droga apreendida que seria destinada ao consumo de pessoas. Assim sendo, com base no art. 312 do Código de Processo Penal, decreta-se a prisão preventiva do indiciado em questão.
+Em primeiro lugar, importa consignar, por necessário, que o decreto indica a existência de prova da materialidade do crime, bem como de indícios de autoria. Desse modo, não se revela viável, como pretende o paciente, o revolvimento do material fático-probatório, como forma de comprovar sua inocência, desiderato que esbarra nos limites estreitos do habeas corpus (ou do respectivo recurso ordinário). Nesse sentido:
+"HABEAS CORPUS" SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGAÇÃO DE INOCÊNCIA. NÃO CABIMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. COAÇÃO ILEGAL NÃO DEMONSTRADA.
+(..)
+2. A alegação de ausência de provas da autoria configura tese de inocência, que não encontra espaço para análise na estreita via do habeas corpus, uma vez que demanda o exame do contexto fático-probatório. Precedentes.
+(..)
+5. Habeas corpus não conhecido. (Quinta Turma, HC 315.877/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, j. em 15/03/2016, DJe 28/03/2016.)
+Por outra senda, vê-se que a prisão foi decretada em razão da gravidade concreta da conduta perpetrada pelo paciente, consubstanciada na apreensão de vultosa quantidade de entorpecentes, qual seja, mais de 34kg de drogas, dentre maconha e cocaína, que, segundo detalhamento do laudo de constatação, à e-STJ fl. 44, perfaz a quantia de: 53 porções de erva prensada e 1 saco de plástico acondicionando erva prensada, apresentando massa bruta total de trinta e quatro quilogramas e seiscentos gramas (34,6kg); 1 porção de erva prensada acondicionada em uma sacola de plástico apresentando massa bruta de cento e cinqüenta e cinco gramas (155,0g); 1 porção de erva prensada envolta por plástico e acondicionada em um frasco de vidro e apresentando massa bruta de quarenta e oito gramas e três decigramas (48,3g), além de 9 pacotes de plástico, todos acondicionando cocaína, apresentando massa bruta total de oitocentos e nove gramas e seis decigramas (809,6g).
+Dessarte, a segregação cautelar revela-se justificada, pois, na linha da orientação firmada no âmbito desta Corte, a gravidade concreta da conduta, evidenciada pela quantidade da droga apreendida, denota a periculosidade do agente. Tal circunstância, por conseguinte, sinaliza a necessidade da prisão cautelar como forma de assegurar a ordem pública e para cessar a atividade delitiva. Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS, DESOBEDIÊNCIA E RESISTÊNCIA. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pela gravidade concreta da conduta delitiva, ao ressaltar a quantidade e a diversidade de entorpecentes apreendidos - quase 157,7 g de maconha e 77,4 g de cocaína.
+3. Recurso não provido.
+(RHC 79.001/MG, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017.)
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. De acordo com reiteradas decisões da Sexta Turma do Superior Tribunal de Justiça, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+2. No caso, a prisão preventiva está assentada na necessidade de se garantir a ordem pública, tendo as instâncias ordinárias destacado a quantidade de droga apreendida, a revelar a presença de periculosidade in concreto da ação e do agente.
+3. Eventuais condições pessoais favoráveis do paciente não possuem o condão de, por si sós, conduzir à revogação da prisão preventiva.
+4. Ordem denegada.
+(HC 378.977/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 28/3/2017, DJe 06/04/2017.)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE ENTORPECENTES. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS DENEGADO.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, consubstanciada na quantidade e variedade da droga apreendida, bem como na participação de adolescente no cometimento do delito, na afirmação do juízo singular de que foram apreendidos em poder dele e do associado menor 20 (vinte) eppendorfs de cocaína e 34 (trinta e quatro) porções de maconha, não há que se falar em ilegalidade a justificar a concessão da ordem de habeas corpus.
+2. Habeas corpus denegado.
+(HC 381.193/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/03/2017, DJe 22/03/2017.)
+Portanto, os fundamentos acima delineados indicam a necessidade de se manter o paciente segregado, não se revelando adequado, por outro lado, possibilitar-lhe responder ao processo em liberdade.
+Ante o exposto, conheço parcialmente do habeas corpus e, na parte conhecida, denego a ordem.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
