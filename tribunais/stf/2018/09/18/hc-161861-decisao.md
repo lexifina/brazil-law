@@ -1,0 +1,22 @@
+Decisão:
+Ementa: Processual Penal. Habeas corpus. Furto qualificado. Majorante do art. 155, § 1º, do CP. Aplicabilidade.
+    1. Trata-se de habeas corpus, sem pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Maria Thereza de Assis Moura, assim ementado:
+     “AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. DELITO PRATICADO DURANTE O REPOUSO NOTURNO. APLICAÇÃO DA MAJORANTE DO ART. 155, § 1º, DO CÓDIGO PENAL. POSSIBILIDADE. PRECEDENTES.
+    1. A prática do crime durante o repouso noturno - em que há maior possibilidade de êxito na empreitada criminosa em razão da menor vigilância do bem, mais vulnerável à subtração -, é aplicável tanto na forma simples como na qualificada do delito de furto. Precedentes.
+    2. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 3 (três) anos e 7 (sete) meses de reclusão, em regime inicial fechado pelo crime previsto no artigo 155, §§ 1º e 4º, I, do Código Penal.
+    3. O Tribunal de Justiça do Estado de Santa Catarina deu parcial provimento à apelação da defesa, a fim de afastar a majorante prevista no artigo 155, § 4º, do Código Penal e, por conseguinte reduzir a pena para 3 (três) anos, 1 (um) mês e 10 (dez) dias de reclusão, mantido o regime inicial fechado.
+    4. Em seguida, o Ministério Público interpôs recurso especial. A Relatora do Resp 1.735.634, Ministra Maria Thereza de Assis Moura, deu provimento ao recurso “para determinar a incidência da causa de aumento prevista no artigo 155, § 1º, do Código Penal, restabelecendo a pena fixada na sentença”.
+    5. Contra essa decisão, a defesa interpôs agravo regimental, não provido.
+    6. Neste habeas corpus, a parte impetrante sustenta que a aplicabilidade da causa de aumento de pena prevista no artigo 155, § 1º, do Código Penal é restrita “aos delitos de furto simples, descritos no caput imediatamente anterior”. De modo que nas hipóteses de furto qualificado – elencadas no § 4º do mesmo dispositivo –, a pena não pode ser majorada pelo fato do delito ter sido praticado durante o repouso noturno.
+    7. Com essa argumentação, requer a concessão da ordem a fim de restabelecer o acórdão do Tribunal Estadual.
+    Decido.
+    8. O habeas corpus não deve ser concedido.
+    9. O acórdão impugnado está alinhado com a orientação jurisprudencial do Supremo Tribunal Federal no sentido da “convivência harmônica entre a causa de aumento de pena do repouso noturno (CP, art. 155, § 1º) e as qualificadoras do furto (CP, art. 155, § 4º) quando perfeitamente compatíveis com a situação fática” (HC 130.952, Rel. Min. Dias Toffoli). Transcrevo o inteiro teor da ementa daquele julgado:
+    “EMENTA Habeas corpus. Penal. Tentativa de furto qualificado pelo rompimento de obstáculo (CP, art. 155, § 4º, I, c/c o art. 14, II). Condenação. Incidência da majorante do repouso noturno (CP, art. 155, § lº) nas formas qualificadas do crime de furto (CP, art. 155, § 4º). Admissibilidade. Inexistência de vedação legal e de contradição lógica que possa obstar a convivência harmônica dos dois institutos quando perfeitamente compatíveis com a situação fática. Entendimento doutrinário e jurisprudencial. Ordem denegada. 1. Não convence a tese de que a majorante do repouso noturno seria incompatível com a forma qualificada do furto, a considerar, para tanto, que sua inserção pelo legislador antes das qualificadoras (critério topográfico) teria sido feita com intenção de não submetê-la às modalidades qualificadas do tipo penal incriminador. 2. Se assim fosse, também estaria obstado, pela concepção topográfica do Código Penal, o reconhecimento do instituto do privilégio (CP, art. 155, § 2º) no furto qualificado (CP, art. 155, § 4º) -, como se sabe, o Supremo Tribunal Federal já reconheceu a compatibilidade desses dois institutos. 3. Inexistindo vedação legal e contradição lógica, nada obsta a convivência harmônica entre a causa de aumento de pena do repouso noturno (CP, art. 155, § 1º) e as qualificadoras do furto (CP, art. 155, § 4º) quando perfeitamente compatíveis com a situação fática. 4. Ordem denegada.”
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
