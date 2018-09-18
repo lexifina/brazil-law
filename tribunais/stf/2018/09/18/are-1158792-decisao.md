@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. ALEGAÇÃO DE EXISTÊNCIA DE VÍNCULO TRABALHISTA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Câmara de Direito Civil do Tribunal de Justiça de Santa Catarina decidiu:
+    “RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. COMPETÊNCIA DA JUSTIÇA COMUM. EXCEÇÃO DE COISA JULGADA. INSUBSISTÊNCIA. SINISTRO COM VÍTIMA FATAL. PENSÃO POR MORTE. MODIFICAÇÃO DO TERMO FINAL. PAGAMENTO ENQUANTO VIVO O BENEFICIÁRIO E ATÉ A DATA EM QUE O DE CUJUS COMPLETARIA 70 ANOS. ORIENTAÇÃO SEDIMENTADA NESTA CORTE, EM ATENÇÃO A DADOS SOBRE A EXPECTATIVA DE VIDA DO BRASILEIRO FORNECIDOS PELO IBGE. DANO MORAL. FIXAÇÃO EM PATAMAR RAZOÁVEL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO” (doc. 7, fl. 102).
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 279 do Supremo Tribunal Federal, nos termos seguintes:
+    “(...) a admissibilidade do recurso extraordinário é vedada em razão da incidência da Súmula nº 279 do Supremo Tribunal Federal, haja vista que a formação de nova convicção sobre os fatos narrados no reclamo extraordinário, vale dizer, sobre a existência de vínculo trabalhista entre o “de cujus” e a parte recorrente para fixação da competência da Justiça do Trabalho para julgamento da causa, demandaria exame de matéria de fato, providência incompatível a via recursal excepcional” (doc. 7, fl. 93).
+    4. O agravante argumenta que “no presente caso não é necessário exceder as razões colacionadas no acórdão atacado para reconhecer o preenchimento dos requisitos configuradores do instituto da coisa julgada, isto porque, no acórdão da apelação cível consta o seguinte: ‘Também não há cogitar de competência da Justiça Trabalhista, definida no art. 114 da Constituição da República, para julgamento da presente demanda indenizatória, que não envolve contrato de trabalho, cuidando, sim, de responsabilidade civil extracontratual’” (doc. 7, fl. 107).
+    No recurso extraordinário, sustenta-se que “o acórdão recorrido viola o art. 114, VI, da CRFB/88, o verbete n. 22 da Súmula Vinculante”.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste ao agravante.
+    Como afirmado pelo agravante, consta no acórdão recorrido que “não há cogitar de competência da Justiça Trabalhista, definida no art. 114 da Constituição da República, para julgamento da presente demanda indenizatória, que não envolve contrato de trabalho, cuidando, sim, de responsabilidade civil extracontratual”.
+    Na espécie, a apreciação do pleito recursal conduziria ao necessário reexame de matéria fático-probatória. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+    “Agravo regimental em recurso extraordinário. 2. Direito do Trabalho. 3. Conflito negativo de competência. Complementação de aposentadoria. Entidade de previdência privada. Competência da Justiça do Trabalho para processar e julgar as causas nas quais a causa de pedir e o pedido não se limitam somente ao pedido de complementação de aposentadoria, mas também fazem referência a outros requerimentos relacionados ao vínculo trabalhista.4. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (RE n. 1.089.108-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 22.6.2018).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. NATUREZA DO VÍNCULO ADMINISTRATIVO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. ENUNCIADO 279 DA SÚMULA DO STF. AGRAVO INTERNO DESPROVIDO” (ARE n. 671.411-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 22.8.2016).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, nego provimento a este agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
