@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APELAÇÃO. APOSENTADORIA ESPECIAL. MAGISTÉRIO. AFASTAMENTO E FALTAS MÉDICAS – Professora de Educação Básica II – Pretensão ao cômputo e inclusão dos dias de afastamento a título de licença-saúde e faltas médicas – ABONO PERMANÊNICA – Benefício não se incorpora aos vencimentos. Cessação da vantagem no momento da aposentadoria. – Inteligência do artigo 81, II, da Lei Estadual nº 10.261/68 e artigos 1º e 4º da LCE nº 1.041/08. E Lei Complementar nº 1.012, de 05.07.07. Sentença reformada.
+    Recurso parcialmente provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 40, “caput”, §§ 1º e 5º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei estadual nº 10.261/68 e Lei Complementar estadual nº 1.041/2008), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Por outro lado, o Estatuto dos Funcionários Públicos Civis do Estado (Lei Estadual nº 10.261/68) estabelece que:
+    …..................................................................................................
+    No tocante às chamadas ‘faltas médicas’, o artigo 1º da LCE nº 1.041/08 estabeleceu os efeitos patrimoniais para os servidores públicos estaduais, prevendo o artigo 4º as implicações funcionais e administrativas ao dispor que: ‘As ausências do servidor fundamentadas no inciso I do artigo 1º desta lei complementar serão computadas somente para fins de aposentadoria e disponibilidade’.
+    Dessa forma, não há como acolher a tese defendida pela apelante para justificar o indeferimento do pedido formulado pelo autor; forçoso concluir que os períodos de licença para tratamento de saúde e as faltas médicas (limitadas a 6 por ano) devam ser computados para efeito da contagem do tempo de serviço para fins de concessão da aposentadoria especial, sobretudo porque durante tais afastamentos o servidor continuou recebendo seus vencimentos e, consequentemente, contribuindo para o regime próprio de previdência.”
+    Convém assinalar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 1.063.832/SP, Rel. Min. GILMAR MENDES – RE 926.093/SP, Rel. Min. LUIZ FUX – RE 1.076.495/SP, Rel. Min. DIAS TOFFOLI, v.g.).
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
