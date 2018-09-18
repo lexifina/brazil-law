@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 5ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 2, p. 95):
+    “EMENTA: REEXAME NECESSÁRIO E APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - COMPLEMENTAÇÃO DO SISTEMA DE ESGOTO E ESCOAMENTO DE ÁGUAS PLUVIAIS - OBRAS PARALISADAS EM VIRTUDE DE ORDEM JUDICIAL - AUSÊNCIA OMISSÃO IMPUTÁVEL AO PODER PÚBLICO - INTERVENÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE (APP) - OCUPAÇÃO ANTRÓPICA CONSOLIDADA EM ÁREA URBANA - MANUTENÇÃO DAS EDIFICAÇÕES - DEMARCAÇÃO E PRESERVAÇÃO DOS LOCAIS NÃO OCUPADOS - DESPESAS PREPARATÓRIAS AO AJUIZAMENTO DA AÇÃO - INAPLICABILIDADE DOS ARTS. 19 E 20 DO CPC - RECURSO PARCIALMENTE PROVIDO
+    1. Em regra, é defeso ao Poder Judiciário adentrar no mérito dos atos administrativos de efetivação de políticas públicas, cabendo-lhe unicamente examiná-los sob o aspecto de legalidade e moralidade. Tal entendimento tem como fundamento básico o princípio da separação dos Poderes.
+    2. Todavia, não constitui ingerência indevida a atuação do Judiciário quando impõe ao Executivo o cumprimento de obrigação constitucional e legal, relativamente à qual se posta manifestamente omisso o administrador, notadamente quando a inação estatal implica violação a direito fundamental do indivíduo ou da coletividade.
+    3. Para tanto, a omissão deve decorrer de absoluta inércia da Administração Pública na consecução de seu objetivo de cumprir suas obrigações legais e constitucionais.
+    4. Não verificação de omissão, na espécie, em que há constatação da existência de contrato e projeto de realização de obras de complementação do sistema de esgoto, as quais foram suspensas em virtude de liminar concedida judicialmente em outra ação.
+    5. A Lei Estadual n. 20.922/2013, na mesma linha da antiga Lei Estadual n. 14.309/02, prevê a anistia de determinadas interferências antrópicas erguidas até 22 de julho de 2008, inclusive localizadas em áreas de preservação permanente.
+    6. Loteamento autorizado em 1991, sinalizando que a intervenção antrópica está consolidada há duas décadas. Possibilidade apenas de determinar a demarcação e delimitação das áreas de preservação permanente não ocupadas.
+    7. O laudo de vistoria realizado no inquérito civil público preparatório ao ajuizamento da ação não constitui ato processual, não estando, assim, englobado nas determinações dos arts. 19 e 20 do CPC, que dizem respeito apenas aos atos praticados no curso do feito. Inexistência de dever do vencido de reembolsar as despesas com atos de instrução pré - processuais.
+    8. Confirmação da sentença, em reexame necessário conhecido de ofício. Apelo parcialmente provido.”
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 120-125).
+    No recurso extraordinário, com fundamento no art. 102, III, a, c e d, do permissivo constitucional, aponta-se ofensa ao art. 225, § 1º, I e III, e § 3º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a Lei Estadual 20.922/2013, que prevê uma “anistia de determinadas interferências antrópicas nas Áreas de Preservação Permanente, desde que erguidas até 22 de julho de 2008” colide frontalmente com o disposto no art. 225, § 1º, I e III, e § 3º, da Constituição Federal (eDOC 2, p. 154).
+    Aduz-se, ainda, que, “respeitando-se o ditame constitucional, somente quando a intervenção antrópica em APP não comprometa a integridade dos atributos que justifica a proteção ambiental, poderá ela ser considerada ‘consolidada’, e não apenas quanto tenha sido realizada ‘antes de 22 de maio de 2008’, ou de qualquer outra data após outro de 1988, quando veio a lume a atual Carta Política” (eDOC 2, p. 158).
+    A Primeira Vice-Presidência do TJ/MG inadmitiu o recurso assentando a incidência à espécie dos óbices das Súmulas 282 e 279, a inexistência de violação direta à Constituição da República, e que a Turma Julgadora não julgou válida lei ou ato de governo local em detrimento da Constituição da República ou lei local contestada em face de lei federal (eDOC 2, p. 200-202).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 2, p. 102/103):
+    “A Lei Estadual n. 20.922/2013, na mesma linha da antiga Lei Estadual n. 14.309/02, prevê a anistia de determinadas interferências antrópicas nas Áreas de Preservação Permanente, desde que erguidas até 22 de julho de 2008, in verbis:
+    (...)
+    Assim, não obstante constatada a ocupação em área de preservação permanente, há fortes indícios de que essa intervenção persiste há mais de duas décadas, caracterizando área de ocupação antrópica consolidada.
+    (...)
+    E, não tendo o Parquet demonstrado de forma cabal que as áreas irregularmente tomadas pela população não podem ser enquadradas como de ocupação consolidada, diante da data de implantação do loteamento – 1991 –, não vejo como acolher a pretensão de retirada das intervenções localizadas nas áreas de preservação permanente, com a respectiva recuperação, sendo possível exigir, tão-somente, a delimitação e demarcação daquelas que ainda não estão ocupadas.
+    O mesmo raciocínio aplica-se à pretensão de destinação de áreas para implantação de equipamentos comunitários e de espaços livres de uso público, tendo em vista que o Parquet não trouxe dados efetivos quanto à viabilidade do requerimento, notadamente considerando a ocupação já consolidada no loteamento.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, bem como o exame da legislação local aplicável à espécie (Lei Estadual 20.922/2013), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF.
+    Por fim, constata-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, tampouco julgou válida lei local contestada em face de lei federal, mas apenas interpretou as normas infraconstitucionais de regência. Portanto, resta inviabilizado o recurso extraordinário no que fundado nas alíneas c e d do inciso III do art. 102 da Constituição Federal.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Sem honorários, por se tratar de ação civil pública (art. 18 da Lei 7.347/1985).
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
