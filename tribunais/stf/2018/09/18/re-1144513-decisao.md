@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão do Colégio Recursal do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 9, p. 2):
+    “Recurso Inominado - Policial Militar - prisão cautelar - condição de agregado - inatividade temporária- suspensão dos vencimentos com base na LC nº 1.013/07- admissibilidade - afronta ao princípio da irredutibilidade de vencimentos e presunção de inocência - inocorrência – lei estadual específica, nos termos do artigo 42 c/c artigo 142, § 3º, X, ambos da Constituição Federal - auxílio-reclusão para os dependentes - Procedência reformada - Recurso provido.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “c”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LVII; e 37, XV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “A existência de norma prevendo a redução ou mesmo supressão dos vencimentos de servidores públicos processados criminalmente pelo Estado, sem sentença condenatória transitada em julgado, viola os princípios constitucionais da presunção de inocência, e da irredutibilidade de vencimentos, ante a sua natureza alimentar, sendo certo que vedar o recebimento de seus vencimentos consiste em pena antecipada, também vedada por nosso ordenamento jurídico.” (eDOC 11, p. 8, grifo no original).
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    O recurso deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem contraria a jurisprudência desta Corte, uma vez que a suspensão de pagamento se afigura ilegal em vista das referidas faltas ao serviço decorrentes da prisão cautelar, pois atenta contra o princípio da irredutibilidade dos vencimentos do servidor público, o qual, apenas depois de regular processo administrativo, no qual deve ser-lhe assegurada a ampla defesa, pode vir a ser privado de seus vencimentos, ainda que somente de uma parte de seu montante. Veja-se a ementa do referido julgado:
+     “E M E N T A: RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – POLICIAL CIVIL – PRISÃO CAUTELAR – REDUÇÃO DOS VENCIMENTOS – IMPOSSIBILIDADE – VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS (CF, ART. 5º, INCISO LVII, E ART. 37, INCISO XV) – RECURSO IMPROVIDO.” (ARE 715658-AgR, Relator Ministro Celso de Mello, Segunda Turma, DJe 05.09.2013)
+    No mesmo sentido: ARE- AgR 876980, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 13.5.2015; RE-AgR705.174, Rel. Min. Dias Toffoli, Primeira Turma, DJe 23.10.2013, RE 482006, Rel. Min. Ricardo Lewandowski, Pleno, DJ 14.12.2007.
+    Ante o exposto, dou provimento ao recurso extraordinário para, nos termos do art. 21, § 2º, do RISTF, restabelecer a sentença proferida na primeira instância. Sem inversão de honorários advocatícios, visto que não houve fixação nas instâncias de origem.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
