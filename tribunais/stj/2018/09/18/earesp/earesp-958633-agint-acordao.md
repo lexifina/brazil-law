@@ -1,0 +1,88 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM 0,1% DO VALOR DA CAUSA, COM BASE NO ART. 20, § 4º, DO CPC/1973. VALOR IRRISÓRIO.
+1. O magistrado, utilizando como critério a equidade, deve arbitrar os honorários advocatícios observando o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+2. Trabalho desenvolvido ao longo de quase 22 anos. Percentual de 0,1% sobre o valor da causa que se revela flagrantemente irrisório. Reversão ao percentual de 5% fixado na sentença em processo apenso.
+3. Agravo interno provido, para acolher o recurso especial.
+ACÓRDÃO
+Prosseguindo no julgamento, após o voto-vista do Ministro Antonio Carlos Ferreira acompanhando o relator, a Quarta Turma, por unanimidade, decide dar provimento ao agravo interno, nos termos do voto do relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) (voto-vista) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno interposto contra decisão que conheceu do agravo para negar provimento ao seu recurso especial, mantendo o valor fixado a título de honorários advocatícios (0,1% sobre o valor da causa, de R$ 27.999.000,00).
+A parte agravante reproduz os argumentos do recurso especial sustentando ser ínfimo o valor fixado a título de honorários de advogado, correspondente a apenas 0,1% sobre o valor da causa. Sustenta que "não existe justificativa para uma ação que tem valor da causa menor (R$50.000,00) ter honorários fixados em 5% do valor da causa, e a presente demanda, cujo valor é de R$ 27.999.000,00, ter o percentual de honorários em 0,1% do valor da causa" (fl. 1.746).
+Defende a majoração "do valor fixado a título de honorários advocatícios, em percentual sobre o valor da causa, sendo garantido, pelo mínimo o restabelecimento do percentual fixado nos votos vencedores da apelação (0,5% do valor da causa)." (fl. 1.747)
+A parte ora agravada manifestou-se pela manutenção do decisum.
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Na análise dos autos, observa-se que o eg. Tribunal de origem concluiu pela manutenção dos honorários de advogado para 0,1% sobre o valor da causa (R$ 27.999.000,00), tida como quantia suficiente para remunerar o trabalho desenvolvido na presente ação ordinária que busca a indenização por desvio de produto agrícola (arroz).
+Eis o teor do acórdão recorrido:
+"O relator, da apelação levou em conta, em primeiro lugar, "o elevado valor da presente causa" (R$ 27.999.000,00, em 28.11.1996).
+A CONAB diz que honorários de 0,5% do valor da causa alcançam a cifra de R$ 135.000,00 (cento e trinta e cinco mil reais).
+No voto do Juiz Federal Rodrigo Navarro Coelho, diz que 0,1% corresponde, aproximadamente, a R$ 27.000,00 (vinte e sete mil reais).
+Não houve condenação, de modo que não se aplica a disposição do art. 20, § 3º, do Código de Processo Civil, mas a do § 4º, mesmo artigo.
+Em que pese o elevado valor atribuído à causa (que, no caso, não é fator essencial, em face do mencionado art. 20, § 4º, do CPC), trabalho dos advogados da ré foi relativamente simples. Antes da sentença, resumiu-se na contestação fls. 812-819. Não houve instrução probatória, pois, conforme a decisão de fl. 845 (de autoria do hoje Desembargador Federal Souza Prudente), "a instrução probatória deste feito já se realiza (realizava) nos autos do proc. Nº 96.0013924-5, em apenso, a ensejar o julgamento in simultanneus processus, conforme dispõe o art. 105 do CPC". A sentença de indeferimento tem três páginas e meia. Não houve contrarrazões à apelação da CONAB.
+O juiz Federal [NOME] Mais, relator das apelações, diz que, "da mesma forma em que a magistrada deliberou aplicar um percentual sobre o valor da causa no processo apenso, penso que o mesmo critério (não necessariamente o mesmo índice) deve ser aplicado no presente caso concreto". Só que na "ação em apenso" o valor da causa foi de R$ 50.000,00 (cinquenta mil reais), sendo fixados honorários de 5% (cinco por cento) sobre o valor, o que equivale a R$ 2.500,00 (dois mil e quinhentos reais).
+Já estava de bom tamanho o valor dos honorários fixados na sentença. Por isso, faço prevalecer o voto vencido. Dou provimento aos embargos infringentes." (fl. 1.592, n.g)
+O acórdão proferido nos embargos infringentes é de 2013, daí a aplicação ao caso da regra do § 4º do art. 20 do CPC de 1973.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é inadmissível, na via estreita do recurso especial, a análise do quantum fixado a título de honorários advocatícios, tendo em vista que tal providência depende da reavaliação do contexto fático-probatório inserto nos autos, cujo reexame compete às instâncias ordinárias, e não a esta Corte Superior, conforme vedado pela Súmula 7/STJ.
+O referido óbice pode ser afastado em hipóteses excepcionais, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada. Reporto-me a precedente desta eg. Turma:
+PROCESSUAL CIVIL E CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. REVISÃO. REEXAME DE FATOS E PROVAS. HONORÁRIOS ADVOCATÍCIOS. DIMINUIÇÃO. VALOR RAZOÁVEL. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. (..)
+4. Somente em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor da verba honorária, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão da quantia fixada. No presente caso, não se evidencia hipótese que autorize a pleiteada redução.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.326.834/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/03/2015, DJe de 19/03/2015)
+Nesse contexto, tenho como irrisório o percentual de 0,1% sobre o valor da causa, de R$ 27.999.000,00, num processo que exigiu esforço do advogado por inviável a apreciação dos fatos e provas constantes dos autos, bem como a conclusão da origem acerca dos honorários, a fim de verificar o serviço prestado pelo advogado por quase 22 anos, visto que a inicial data de 28 de novembro de 1996. A sentença de fl. e-STJ 1.538, proferida no processo apenso, ao julgar improcedente o pedido, arbitrou os honorários em 5% do valor da causa, daí por que aplico o mesmo percentual.
+Diante do exposto, dou provimento ao agravo interno, para prover o recurso especial e elevar a verba honorária ao percentual de 5% sobre o valor da causa, atualizado a partir da data do julgamento deste recurso.
+É como voto.
+VOTO-VISTA
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno interposto por AGRO COMERCIAL E INDUSTRIAL BELA VISTA LTDA. contra decisão do em. Relator, Ministro LÁZARO GUIMARÃES, que conheceu do agravo nos próprios autos para negar provimento ao recurso especial interposto pela ora agravante (e-STJ, fls. 1.732/1.734).
+Em suas razões (e-STJ, fls. 1.740/1.747), em síntese a agravante argumenta pela irrisoriedade da verba honorária que lhe fora deferida, arbitrada em 0,1% do valor atribuído à causa.
+A resposta da agravada está às fls. 1.751/1.777 (e-STJ). Aponta a incidência do enunciado n. 7 da Súmula do STJ. Alega falta de impugnação específica dos motivos expostos na decisão agravada. Defende a razoabilidade e proporcionalidade do valor arbitrado a título de honorários advocatícios, por se tratar de causa que não envolve questões de alta complexidade.
+Na sessão de 30/8 passado, o em. Relator deu provimento ao agravo interno para majorar os honorários advocatícios a 5% (cinco por cento) sobre o valor da causa atualizado.
+Pedi vista dos autos.
+Acompanho o em. Ministro Relator para dar provimento ao agravo interno e ao recurso especial, majorando o valor dos honorários advocatícios para o equivalente a 5% (cinco por cento) sobre o valor atribuído à causa pela aqui agravada, que por sua vez corresponde ao pedido condenatório (em valor certo) que formulou em sua petição inicial.
+De fato, a jurisprudência desta Corte orienta pela possibilidade de revisão, na instância excepcional, de honorários advocatícios arbitrados em patamar inferior a 1% (um por cento) do valor da causa atualizado ou do proveito econômico obtido com a demanda, ante sua manifesta irrisoriedade. Em tal circunstância, e em caráter excepcional, o reexame dos critérios para fixar a verba de sucumbência não ofende a orientação contida na nota n. 7 da Súmula de Jurisprudência do STJ. Em abono dessa assertiva, dentre muitos precedentes, cito os seguintes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISSOLUÇÃO PARCIAL DE SOCIEDADE. PREJUDICIALIDADE EXTERNA INVOCADA. NÃO ENFRENTAMENTO DA FUNDAMENTAÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. AUSÊNCIA DE INTERESSE DE AGIR. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. ADEQUAÇÃO E UTILIDADE DO PROVIMENTO JUDICIAL. PRETENSÃO QUE NÃO ENCONTRA VEDAÇÃO NO ORDENAMENTO JURÍDICO. IMPOSSIBILIDADE DE COMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284/STF. MORA DO AUTOR DISSIDENTE. PREMISSA FÁTICA DIVORCIADA DA MOLDURA ESTABELECIDA NA ORIGEM. SÚMULA Nº 7/STJ. POSSIBILIDADE DE PAGAMENTO PARCELADO. AUSÊNCIA DE INTERESSE RECURSAL. TERMO INICIAL DE CONSTITUIÇÃO DA MORA. EFETIVA LIQUIDAÇÃO DOS HAVERES. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM VALOR IRRISÓRIO.
+ADEQUAÇÃO.
+(..)
+8. Na ausência de parâmetros estanques para a determinação do valor dos honorários advocatícios, este Tribunal Superior tem considerado que se afigura irrisória a verba honorária fixada em percentual inferior a 1% do valor econômico envolvido na ação.
+(..)
+(REsp 1472941/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/02/2015, DJe 13/03/2015)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. SÚMULA 7/STJ. IRRISORIEDADE.
+1. A alteração do valor fixado a título de honorários advocatícios somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+2. São irrisórios os honorários advocatícios fixados em patamar inferior a 1% sobre o valor da causa. Precedentes.
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1177501/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/04/2018, DJe 12/04/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. NULIDADE DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. VALOR. INTERVENÇÃO DESTA CORTE. POSSIBILIDADE.
+1. A fixação dos honorários, ainda que com fundamento no artigo 20, § 4º, do Código de Processo Civil de 1973, deve levar em consideração as circunstâncias descritas no § 3º desse mesmo dispositivo legal, a saber: o grau de zelo profissional, o local da prestação de serviços, a natureza e a importância da causa e as dificuldades gerais apresentadas pelo processo.
+2. Na hipótese, o magistrado singular, ao acolher os embargos do devedor e declarar a nulidade da execução, arbitrou os honorários advocatícios em R$ 5.000,00 (cinco mil reais), o equivalente a 0,13% do valor dos embargos do devedor - R$ 3.740.000,00 (três milhões, setecentos e quarenta mil reais).
+3. Diante da natureza irrisória da remuneração concedida ao patrono da parte vencedora, é possível afastar a incidência da Súmula nº 7/STJ para majorar os honorários advocatícios, que ora fixa-se em 1% (um por cento) sobre o valor atualizado da causa.
+4. Agravo regimental provido.
+(AgRg no REsp 1313303/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/05/2017, DJe 23/05/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO MONOCRÁTICA. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM MENOS DE 1% DO VALOR DA CAUSA. ALTERAÇÃO. POSSIBILIDADE.
+(..)
+2. Na linha dos precedentes desta Corte, considera-se irrisória a verba honorária fixada em menos de 1% do valor da causa ou do proveito econômico perseguido no feito, admitindo-se, nesses casos, a revisão desse valor em sede de recurso especial.
+(..)
+(AgInt no REsp 1641128/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/04/2017, DJe 17/04/2017)
+DIREITO CIVIL E PROCESSUAL CIVIL. TÍTULOS DE CRÉDITO DADOS EM GARANTIA. CONTRATO DE DEPÓSITO. NECESSIDADE DE INDIVIDUALIZAÇÃO DOS TÍTULOS DE CRÉDITO. REEXAME DE MATÉRIA FÁTICA. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM MENOS DE 1% DO PROVEITO ECONÔMICO PERSEGUIDO NO FEITO. VALOR IRRISÓRIO. REVISÃO EM SEDE DE RECURSO ESPECIAL. POSSIBILIDADE.
+(..)
+4. Na linha dos precedentes desta Corte, considera-se irrisória a verba honorária fixada em menos de 1% do valor da causa ou do proveito econômico perseguido no feito, admitindo-se, nesses casos, a revisão desse valor em sede de recurso especial.
+(..)
+(REsp 713.257/PR, de minha relatoria, QUARTA TURMA, julgado em 23/09/2014, DJe 16/10/2014)
+Trata-se, efetivamente, de critério objetivo que, embora não se revele absoluto, autoriza, independentemente do reexame de material fático ou probatório, reconhecer a irrisoriedade do valor arbitrado a título de honorários advocatícios, que em tais condições afigura-se insuficiente para remunerar, de modo condigno, o relevante trabalho prestado pelo patrono da parte vencedora. Tampouco se mostra compatível, cabe ressaltar, com a substancial responsabilidade assumida pelo profissional ao patrocinar causa que envolve pretensão de elevado valor. Essa é a circunstância pela qual, afastando a incidência do enunciado n. 7 da Súmula do STJ, resta viabilizada a excepcional intervenção desta Corte Superior, visto que demonstrada a violação do art. 20, § 4º, c.c. o § 3º, alíneas "a", "b" e "c", do CPC/1973.
+Ressalto, em acréscimo desses fundamentos, que a agravada - que agora afirma ser exorbitante a pretensão de sua contraparte - formulou requerimento na peça inicial para que, na hipótese de procedência dos pedidos, os honorários advocatícios fossem fixados em "20% (vinte por cento) sobre o valor da condenação" (e-STJ, fl. 16).
+Realmente, sob o regime do CPC/1973, no caso de provimento condenatório, os honorários advocatícios deveriam observar os limites percentuais fixados em seu art. 20, § 3º, como orienta a jurisprudência desta Corte:
+RECURSOS ESPECIAIS. AÇÃO ANULATÓRIA E CONDENATÓRIA. CONTRATO DE ADIANTAMENTO DE CÂMBIO (ACC). DEBÊNTURES. AQUISIÇÃO. VENDA CASADA. NULIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. CONDIÇÃO DE VULNERABILIDADE. VÍCIO DE CONSENTIMENTO. SOLIDARIEDADE. REVISÃO DO JULGADO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+ENRIQUECIMENTO SEM CAUSA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA CONDENATÓRIA. ART. 20, § 3º, DO CPC/1973.
+(..)
+6. Em se tratando de sentença condenatória, diversamente do que ocorre quando a verba honorária é fixada com base na equidade, a margem de liberdade do magistrado gravita entre os limites legais, não podendo fixar os honorários em percentual inferior a 10% (dez por cento) sobre o total da condenação nem em percentual superior a 20% (vinte por cento) sobre a mesma base, a teor do artigo 20, § 3º, do CPC/1973.
+(..)(REsp 1694313/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL. ANÁLISE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ.
+1. A jurisprudência do STJ entende que, quando a sentença for de natureza condenatória, para fins de arbitramento dos honorários advocatícios, devem ser aplicados os limites percentuais previstos no parágrafo 3º do artigo 20 do Código de Processo Civil de 1973 ( art. 85, § 2º, do CPC/15).
+(..)
+(AgInt no AREsp 991.137/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/12/2017, DJe 14/12/2017)
+Daí que, se acolhido o pedido inicial - formulado em valor certo para que a então ré fosse condenada no pagamento da quantia de quase R$ 28 milhões, posicionado para novembro de 1996 -, os honorários advocatícios seriam fixados na alíquota mínima de 10% (dez por cento).
+Todavia, o sucesso da atuação dos patronos da agravante foi aquilatado em apenas 0,1% (um décimo por cento) do proveito econômico que obtiveram para seu cliente. De fato, os advogados da agravante lograram obter a improcedência de demanda da qual poderia resultar a expropriação do patrimônio de sua constituinte até o valor pleiteado na inicial, acrescido dos encargos sucumbenciais. Assumiram, com isso, substancial responsabilidade. Um pequeno erro que cometessem poderia levá-los à ruína.
+Penso que isso evidencia o desequilíbrio do sistema anterior, que remunerava o advogado com o mínimo de 10% (dez por cento) do proveito econômico no caso de procedência do pedido condenatório, todavia permitindo a fixação de honorários por equidade, em qualquer percentual, se acaso desacolhida a pretensão.
+No caso sob exame, o percentual fixado pelo TJDFT corresponde a um décimo do que seria o valor mínimo de honorários advocatícios eventualmente devidos aos patronos da autora-agravada, o que é suficiente para que seja reconhecida sua irrisoriedade.
+Por todo o exposto, acompanho o voto do em. Relator para MAJORAR os honorários advocatícios ao equivalente a 5% (cinco por cento) do valor da causa, atualizado monetariamente até a data do pagamento e acrescido de juros moratórios a partir do trânsito em julgado da condenação.
+É como voto.
