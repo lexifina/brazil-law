@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Reclamação, com pedido de liminar, contra decisão do Tribunal Regional Federal da 1ª Região, que teria violado Enunciado Vinculante.
+    Na inicial, a União alega, em síntese, que (a) o juízo reclamado firmou entendimento de que a vantagem pecuniária individual (VPI), concedida indistintamente no valor de R$ 59,87 (cinquenta e nove reais e oitenta e sete centavos), pela Lei n° 10.698/2003, teria natureza jurídica de revisão geral anual. Por esse motivo, entendeu-se que o percentual equivalente à menor remuneração dos servidores públicos (13,23%) deveria ser estendido àqueles que, proporcionalmente, foram beneficiados com índice menor (fl. 4); e (b) ao estender o percentual de 13,23% a título de reajuste, o Juízo reclamado agiu como legislador positivo, incidindo em ofensa direta à Súmula Vinculante n° 37 (fls. 3/4). Requer a concessão de medida liminar para suspender os efeitos do ato reclamado. Ao final, requer a cassação da decisão proferida no processo 0001686-68.2009.4.01.3000.
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os art. 102, I, l e art. 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade
+    O parâmetro invocado é a Súmula Vinculante 37, cujo teor é o seguinte:
+    Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.
+    A controvérsia reside em saber se a incorporação, por meio de decisão judicial, das diferenças relativas à implementação da vantagem pecuniária individual – VPI concedida ao servidores públicos federais pelas Leis 10.697/03 e 10.698/03, no patamar de 13,23%, violaria o Enunciado Vinculante supracitado.
+    No caso, assiste razão à reclamante. As manifestações atuais de ambas as Turmas desta CORTE sobre a questão supracitada são no sentido de que viola a Súmula Vinculante 37 a concessão pelo Poder Judiciário de diferenças salariais relativas à implementação da VPI a servidores públicos sem autorização legislativa. Nesse sentido:
+     AGRAVO INTERNO NA RECLAMAÇÃO. CONCESSÃO DE REAJUSTE DE 13,23% A SERVIDOR PÚBLICO POR DECISÃO JUDICIAL. RECLAMAÇÃO JULGADA PROCEDENTE. DECISÃO DE ÓRGÃO FRACIONÁRIO DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE AFASTA A INCIDÊNCIA DE DISPOSIÇÃO LEGAL. SÚMULAS VINCULANTES 10 E 37. VIOLAÇÃO. AGRAVO INTERNO DESPROVIDO. 1. Os recentes pronunciamentos desta Corte são no sentido de que a determinação judicial de incorporação da vantagem referente aos 13,23% (Lei 10.698/2003) importa ofensa às Súmulas Vinculantes nº 10 e 37. 2. In casu, a decisão reclamada concluiu que a Lei 10.698/2003 possui caráter de verdadeira revisão geral anual, afastando a aplicação do artigo 1º da referida Lei. 3. Decisão de órgão fracionário que, embora não tenha expressamente declarado a inconstitucionalidade da referida norma, afastou sua aplicação, sem observância da cláusula de reserva de plenário (art. 97 da Constituição Federal), e, consectariamente, do enunciado da Súmula Vinculante nº 10. 4. Agravo regimental desprovido. (Rcl 23.443 AgR, Rel. Min. LUIZ FUX, Primeira Turma, julgado em 5/5/2017).
+    RECLAMAÇÃO – AGRAVO INTERNO – SERVIDOR PÚBLICO – INCORPORAÇÃO DA VANTAGEM DE 13,23% – CONCESSÃO DE REAJUSTE, PELO PODER JUDICIÁRIO, COM BASE NO PRINCÍPIO DA ISONOMIA – INADMISSIBILIDADE – RESERVA DE LEI E POSTULADO DA SEPARAÇÃO DE PODERES – SÚMULA VINCULANTE Nº 37/STF – APLICABILIDADE AO CASO – PRECEDENTES – PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DA POSTULAÇÃO RECURSAL – RECURSO DE AGRAVO IMPROVIDO. (Rcl 24.272 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, julgado em 17/3/2017)
+    Diante do exposto, com base no art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, JULGO PROCEDENTE o pedido, de forma que seja cassada a decisão reclamada prolatada no processo 0001686-68.2009.4.01.3000.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
