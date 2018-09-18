@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 19, p. 40):
+    PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. TRANCAMENTO DA AÇÃO PENAL POR ILICITUDE DAS PROVAS. NULIDADE. ESTADO DE FLAGRÂNCIA. DELITOS DE NATUREZA PERMANENTE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO NÃO PROVIDO.
+    1. Nos termos do entendimento consolidado desta Corte, o trancamento da ação penal por meio do habeas corpus é medida excepcional, que somente deve ser adotada quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito, o que não se infere na hipótese dos autos. Precedentes.
+    2. O reconhecimento da inexistência de justa causa para o exercício da ação penal, dada a suposta ausência de elementos a demonstrar a materialidade e a autoria delitivas ou por atipicidade, exige profundo exame do contexto
+    3. O art. 5º, XI, da Constituição Federal prevê como uma das garantias individuais, conquista da modernidade em contraposição ao absolutismo do Estado, a inviolabilidade do domicílio: "XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial".
+    4. "O ingresso regular em domicílio alheio depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio" (REsp 1.558.004/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 31/8/2017).
+    5. A inviolabilidade do domicílio (art. 5º, XI, da CF) não é garantia absoluta nas hipóteses de flagrância de delito de natureza permanente, como no caso dos autos, em que o recorrente foi flagrado na posse de armas de fogo de uso restrito e tráfico ilícito de entorpecentes, crimes de natureza permanente, elementos que legitimam o acesso, sem mandato judicial, ao domicílio do agente infrator.
+    6. Não há falar em trancamento do processo por falta de justa causa para o exercício da ação penal, pois já foi proferida sentença condenatória nos autos do processo-crime. Precedentes.
+    7. Recurso não provido.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 5º, XI, da CF. Alega-se que a ação da polícia fora baseada numa apreensão ilegal, sem o mandado de busca e com violação de domicílio. Busca-se a declaração de ilicitude das provas obtidas ilegalmente e, consequentemente, a anulação da sentença condenatória.
+    A Vice-Presidência do STJ inadmitiu o recurso com base na Súmula 279 do STF.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já se manifestou sobre a matéria suscitada sob a sistemática da repercussão geral.
+    O STF firmou o entendimento de que a entrada forçada em domicílio, sem mandado judicial, na situação de flagrante delito deve ser amparada por fundadas razões, motivadas a posteriori, sob pena de nulidade dos atos praticados e responsabilidade do agente (RE 603.616, Tema 280, Relator Gilmar Mendes, DJe 10.05.2016).
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca da matéria suscitada neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
