@@ -1,0 +1,45 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSO TESTEMUNHO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. ARESP IMPROVIDO. TRÂNSITO EM JULGADO QUE RETROAGE AO FIM DO PRAZO PARA A INTERPOSIÇÃO DO RECURSO ESPECIAL CABÍVEL. PRESCRIÇÃO EXECUTÓRIA. REINCIDENTE. PRAZO MAJORADO EM 1/3. PRESCRIÇÃO RECONHECIDA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Não conhecido o agravo em recurso especial, a data do trânsito em julgado para a defesa retroagirá ao último dia do prazo para a interposição do recurso especial na origem, conforme entendimento consolidado no EAREsp 386.266/SP.
+2. Não decorrido o lapso prescricional entre os marcos interruptivos, não se opera a prescrição da pretensão punitiva.
+3. A prescrição executória é aumenta em 1/3, se o condenado é reincidente.
+4. Ocorre a prescrição executória, quando transcorrido o prazo de 5 anos e 4 meses a partir do trânsito em julgado para o Ministério Público e não ocorrendo o início de cumprimento de pena até o presente momento.
+5. Embargos de declaração parcialmente acolhidos para reconhecer a prescrição da pretensão executória.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, acolher parcialmente os embargos para reconhecer a prescrição da pretensão executória, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de embargos de declaração opostos em face de acórdão que negou provimento ao agravo regimental no agravo em recurso especial.
+Alega a defesa a ocorrência da prescrição da pretensão punitiva.
+Requer o acolhimento dos embargos de declaração para que seja decretada a extinção da punibilidade.
+Apesar de intimado, o Ministério Público do Estado de São Paulo não apresentou contrarrazões recursais (fl. 1062).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O embargante foi condenado à pena de 2 anos de reclusão e 20 dias-multa, como incurso no art. 342, § 2º, do CP, tendo substituída a pena privativa de liberdade por restritivas de direitos, o que foi mantido pelo Tribunal de origem, ao negar provimento ao apelo defensivo.
+Inadmitido o recurso especial na origem, a defesa interpôs agravo em recurso especial, tendo esta Corte Superior não conhecido do agravo, dando ensejo a interposição de agravo regimental, o qual foi improvido.
+Nos termos do art. 109, V, do CP, prescreve em 4 anos a pretensão punitiva estatal, se o máximo da pena é igual a 1 ano, ou, sendo superior, não excede a 2.
+Vale destacar que, no caso de agravo em recurso especial, a data do trânsito em julgado para a defesa retroagirá ao último dia de interposição do recurso especial na origem, conforme entendimento consolidado no EAREsp 386.266/SP, in verbis:
+PENAL E PROCESSUAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. SUPERAÇÃO DA SÚMULA 315 DO STJ, EM CARÁTER EXCEPCIONAL. RECURSO ESPECIAL INADMITIDO NA ORIGEM. DECISÃO CONFIRMADA NO ÂMBITO DO STJ. FORMAÇÃO DA COISA JULGADA. MOMENTO. PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO.
+1. Nos termos da Questão de Ordem acolhida nestes autos, a Súmula 315 do Superior Tribunal de Justiça foi superada, em caráter excepcional, para se admitir o processamento dos embargos de divergência em agravo.
+2. Divergência estabelecida quanto à formação da coisa julgada quando o recurso especial é inadmitido na origem com posterior decisão do Superior Tribunal de Justiça confirmando essa inadmissibilidade.
+3. Consoante posicionamento do Supremo Tribunal Federal, especificamente no âmbito do processo penal, não é a interposição de recurso dentro do prazo legal que impede o trânsito em julgado da decisão judicial, mas sim a interposição de recurso cabível, pois o recurso só terá o poder de impedir a formação da coisa julgada se o mérito da decisão recorrida puder ser modificado.
+4. A decisão que inadmite o recurso especial ou extraordinário possui natureza jurídica eminentemente declaratória, tendo em vista que apenas pronuncia algo que já ocorreu anteriormente  e não naquele momento  motivo pelo qual opera efeitos ex tunc. Assim, o trânsito em julgado retroagirá à data de escoamento do prazo para a interposição de recurso admissível.
+5. Recursos flagrantemente incabíveis não podem ser computados no prazo da prescrição da pretensão punitiva, sob pena de se premiar o réu com a impunidade, pois a procrastinação indefinida de recursos contribui para a prescrição.
+6. Conclusão que mais se coaduna com o princípio da duração razoável do processo, previsto no art. 5º, LXXVIII, da Carta Magna, erigido a direito fundamental, que tem por finalidade a efetiva prestação jurisdicional.
+7. O julgamento do agravo deve preceder à eventual declaração de prescrição da pretensão punitiva. Somente nas hipóteses em que o agravo não é conhecido por esta Corte (art. 544, § 4º, I, do CPC), o agravo é conhecido e desprovido (art. 544, §4º, II, "a") e o agravo é conhecido e o especial tem seu seguimento negado por ser manifestamente inadmissível (art. 544, § 4º, II, "b" - 1ª parte), pode-se afirmar que a coisa julgada retroagirá à data do escoamento do prazo para a interposição do recurso admissível. Nas demais hipóteses previstas no § 4º, II, do artigo em comento, o especial é considerado admissível, ainda que sem sucesso, não havendo que se falar em coisa julgada operada ainda no Tribunal de origem.
+8. Embargos de divergência acolhidos para reformar a decisão proferida no agravo, firmando o entendimento de que, inadmitido o recurso especial pelo Tribunal de origem, em decisão mantida pelo STJ, há a formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível.
+9. Retorno dos autos à Sexta Turma para que decida o agravo interposto contra a decisão que inadmitiu o recurso especial, matéria prejudicial à verificação da ocorrência da prescrição da pretensão punitiva.
+(EAREsp 386.266/SP, Rel. Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 12/08/2015, DJe 03/09/2015)
+Sendo assim, a data a ser considerada como último marco interruptivo prescricional é de 15 dias após a publicação do acórdão, que rejeitou os embargos de declaração, publicado em 23/5/2013 (fl. 804) .
+Desse modo, não se constata o decurso do prazo prescricional de 4 anos entre a publicação da sentença condenatória em 28/1/2011 (fl. 681) e o transcurso do lapso temporal para interposição de recurso especial, esvaído em 7/6/2013, não se caracterizando, por consequência, a ocorrência da prescrição da pretensão punitiva.
+Por sua vez, em relação à prescrição executória, este Tribunal Superior entende que o termo inicial para a contagem do prazo prescricional da pretensão executória é a data do trânsito em julgado para a acusação, nos termos do art. 112, I, do CP, por ser o entendimento mais benéfico ao réu. Nesse norte, cito:
+EMBARGOS DECLARATÓRIOS NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA PENAL CONDENATÓRIA. NÃO INTERRUPÇÃO DO PRAZO PRESCRICIONAL. TERMO INICIAL DO PRAZO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO EMBARGADO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal, pressupostos não caracterizados na hipótese dos autos.
+2. "Nos termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição" (AgRg no RE nos EDcl no REsp 1301820/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 16/11/2016, DJe 24/11/2016).
+3. Conforme jurisprudência desta Corte, o prazo da prescrição da pretensão executória conta-se a partir do trânsito em julgado para a acusação, nos termos do art. 112, I, do Código Penal. Precedentes.
+Embargos declaratórios rejeitados.
+(EDcl no RHC 88.589/PB, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/4/2018, DJe 18/4/2018).
+Ressalta-se que, por se tratar de réu reincidente, o prazo prescricional aumenta para 1/3, nos termos do art. 110 do CP e Súmula 220/STJ, resultando, no caso, o lapso temporal de 5 anos e 4 meses.
+Certificado o trânsito em julgado da sentença condenatória para o Ministério Público em 3/6/2011 (fl. 705) e inexistindo notícia do início de cumprimento de pena até a presente data, constata-se que houve o transcurso do prazo de 5 anos e 4 meses, acarretando, por consequência, a prescrição executória.
+Ante o exposto, voto por acolher parcialmente os embargos de declaração a fim de reconhecer a prescrição executória.
