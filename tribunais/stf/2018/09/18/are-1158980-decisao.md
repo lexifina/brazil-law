@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROMOÇÃO VERTICAL. CONCESSÃO. VAGAS. ANÁLISE DOS REQUISITOS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL, DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DE EDITAL: SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República.
+    2. A Terceira Câmara Cível do Tribunal de Justiça de Minas Gerais decidiu:
+    “APELAÇÃO CIVEL. PROMOÇÃO VERTICAL. LEI N. 13.467/00. RESOLUÇÃO N. 367/01 DO TJMG. AUSÊNCIA DE VAGA PARA TODAS AS CLASSES. POSSIBILIDADE.
+    Compete ao autor, porque fato constitutivo do seu direito, comprovar o preenchimento dos requisitos previstos na Lei Estadual e na Resolução para a promoção vertical da carreira, desde que haja vagas para o nível a que pretende ser promovido.
+    É lícito ao administrador limitar, em Edital, as vagas disponibilizadas para preenchimento mediante promoção vertical, de acordo com sua disponibilidade financeira e orçamentária.
+    Recurso não provido” (doc. 2, fl. 73).
+    Os embargos declaratórios opostos foram rejeitados.
+    3. Na decisão agravada, adotou-se como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula 284 deste Supremo Tribunal.
+    4. A agravante argumenta que “deve ser afastada qualquer alegação de aplicação da Súmula 284 do STF, na medida em que a matéria constante do Recurso Extraordinário travado na origem diz respeito inequivocamente à violação de direito adquirido do agravante, bem como viola frontalmente texto da Constituição da República de 1988, em especial os princípios da razoabilidade e proporcionalidade” (sic, doc. 2, fl. 140).
+    No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o inc. XXXVI do art. 5º da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à agravante.
+    A Desembargadora Relatora decidiu:
+    “A controvérsia devolvida a esta instância recursal consiste no reconhecimento do direito da autora, ora apelante, que é servidora pública estadual ocupante do cargo de Agente Judiciário – Estável Efetivado Classe D, à oferta da vaga relativa à promoção vertical para a Classe C, diante do preenchimento dos demais requisitos legais.
+    Isso porque ao se inscrever no Edital de Promoção Vertical n. 04/2011 para os servidores da 1ª Instância do Poder Judiciário do Estado de Minas Gerais relativo aos anos de 2010 e seguintes, a apelante foi classificada em 2º lugar, mas teve sua inscrição indeferida por ausência de vagas correspondentes à pretensão de posicionamento da autora na carreira.
+    (…) a concessão da promoção vertical está estritamente condicionada à existência de vaga, o que reflete obediência ao disposto no art. 169 da Constituição, uma vez que a Administração está sujeita ao cumprimento da Lei de Responsabilidade Fiscal, que impede a efetuação de despesas sem que haja receita correspondente.
+    Assim, inexiste o direito subjetivo do servidor que preenche todos os requisitos para sua promoção vertical, senão quando ofertadas as vagas correspondentes à sua pretensão de reposicionamento na carreira.
+    Resta dizer, que o Edital de Promoção Vertical n. 04/2011, ao limitar o número de vagas para promoção vertical dos servidores do TJMG, encontra-se em consonância com o permissivo legal, não havendo qualquer ilegalidade a ser reconhecida” (doc. 2, fls. 75-76).
+    A apreciação do pleito recursal exigiria o reexame da matéria fático-probatória, de cláusulas do edital e da legislação infraconstitucional aplicável à espécie. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas 279 e 454 do Supremo Tribunal Federal. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PROMOÇÃO VERTICAL, INDEPENDENTE DE EXISTÊNCIA DE VAGA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS Nº 279 E Nº 280 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (ARE n. 894.700-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 15.10.2015).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao Princípio da Separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (ARE n. 655.080-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 4.9.2012).
+    “Este Supremo Tribunal Federal assentou que a alegação de contrariedade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI n. 573.345-AgR, de minha relatoria, Primeira Turma, DJe 12.5.2011).
+    Nada há a prover quanto às alegações da agravante.
+    6. Pelo exposto, nego provimento a este recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
