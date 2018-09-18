@@ -1,0 +1,42 @@
+EMENTA
+ADMINISTRATIVO. ANULAÇÃO DE QUESTÃO DE CONCURSO PÚBLICO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO.
+I - Da análise dos autos, verifica-se que as alegações apresentadas pela parte recorrente, em embargos de declaração, não foram analisadas pela Corte local, quanto à necessidade de indicação expressa de qual lei estadual e norma técnica citadas no acórdão tratam das regras básicas e elementares para as ações de prevenção e controle de incêndio, de modo a verificar se estão de fato inseridas no conteúdo programático do edital do concurso público.
+II - Assim, devem ser acolhidos os embargos para corrigir erro, com efeitos modificativos, e dar provimento ao recurso especial a fim de anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+III - Embargos acolhidos nos termos da fundamentação.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, acolheu os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O presente feito decorre do ajuizamento de ação por [NOME] em desfavor da União e outro, objetivando a declaração de nulidade de questões de prova de concurso público, com valor da causa fixado em R$ 1.000,00 (mil reais) (fls. 1-11).
+Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No TRF da 5ª Região, a sentença foi mantida em acórdão assim ementado:
+EMENTA: ADMINISTRATIVO E PROCESSUAL CIVIL. CONCURSO PÚBLICO. ANULAÇÃO DE GABARITO DE QUESTÕES DE PROVA PELO PODER JUDICIÁRIO. COMPETÊNCIA DO JUDICIÁRIO LIMITADA À LEGALIDADE. IMPOSSIBILIDADE DE SUBSTITUIÇÃO À BANCA EXAMINADORA. APELAÇÃO IMPROVIDA.
+1. Trata-se de apelação interposta contra sentença que, em sede de ação ordinária, julgou improcedente o pedido, em que se objetiva a anulação das questões de número "33", "34" e "35" do Caderno de Provas "05", "Tipo 001", do Concurso Público para formação de Cadastro Reserva de cargos para a Sede do Tribunal Regional Federal da 5" Região.
+2. Encontra-se pacificado na jurisprudência de nossos Tribunais o entendimento de que a anulação de questão objetiva de concurso público pelo Poder Judiciário somente será possível cm hipóteses excepcionais, nos casos de flagrante erro material ou de desrespeito ao princípio da legalidade (violação às normas editalícias), não sendo cabível sua atuação nas demais situações, em respeito ao princípio da separação dos poderes.
+3. O excelso Supremo Tribunal Federal já deixou assentado, em tema de concurso público, não ser lícito, ao Poder Judiciário substituir-se ao administrador para efeito de reexaminar critérios de correção e de elaboração das provas (MS nº 21.176/DF, Rei. Min. Aldir Passarinho, DJ de 20/3/92; MS nº 21.408/BA, Rei. Min. Moreira Alves, DJ de 29/5/92; AO nº 1.395/ES-ED, Rei. Min. Dias Toffoli, DJe de 22/10/10).
+4. No egrégio STJ também já se pacificou o posicionamento de que, não cabe ao Poder Judiciário atuar em substituição à banca examinadora de concurso público, apreciando critérios utilizados na formulação de questões ou na correção de provas, salvo quando evidenciada ofensa à legalidade e à moralidade. (STJ, AgRg no RMS 21654 / ES, rei. Ministro OG FERNANDES, DJe 14.3.2012).
+5. No caso dos autos, não se vislumbra a situação de transgressão ao princípio da legalidade. A anulação ou retificação do gabarito das questões que se pretende anular, e a conseqüente soma dos escores à parte apelante, implicaria em análise do conteúdo programático do certame e do critério adotado pela banca examinadora, sendo desta a incumbência para tal atribuição, o que restaria configurada a hipótese de extrapolação dos limites do Poder Judiciário tratada nos precedentes supracitados.
+6. Apelação improvida.
+[NOME] interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal por ofensa ao art. 535, I e II, do CPC/73.
+Recebidos os autos pelo Superior Tribunal de Justiça, foi proferida a decisão monocrática que negou provimento ao recurso especial, sendo posteriormente confirmada no julgamento do agravo interno pela Segunda Turma, consoante ementa do acórdão:
+ADMINISTRATIVO. ANULAÇÃO DE QUESTÃO DE CONCURSO PÚBLICO. RECURSO ESPECIAL IMPROVIDO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973.
+I - Recurso especial improvido pela inexistência de violação do art. 535 do Código de Processo Civil de 1973. Ausência de omissão no acórdão do Tribunal de origem que, fundamentadamente, decide de forma contrária à pretensão da parte recorrida.
+II - Agravo interno improvido.
+Opostos os presentes embargos de declaração, a parte aponta a existência de erro de fato e/ou obscuridade no acórdão.
+Apresentada impugnação, a parte embargada requer a rejeição dos embargos.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+De fato, como alega a parte embargante, o acórdão apresenta erro que passo a corrigir nos termos da fundamentação abaixo em substituição àquela da decisão embargada.
+Assiste razão aos recorrentes no que toca à alegada violação ao art. 535, II, do CPC/73, uma vez que foi apresentada questão jurídica relevante - a necessidade de indicação expressa de qual lei estadual e norma técnica citadas no acórdão tratam das regras básicas e elementares para as ações de prevenção e controle de incêndio, de modo a verificar se estão de fato inseridas no conteúdo programático do edital do concurso público (fls. 836-837) - e, apesar de provocado por meio de embargos de declaração, o Tribunal de origem não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 535, II, do CPC/73, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, acolho os embargos de declaração para corrigir erro, com efeitos modificativos, e dar provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+É o voto.
