@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+          “APELAÇÕES CÍVEIS. PROMESSA DE COMPRA E VENDA. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO. PEDIDOS CUMULADOS DE RESOLUÇÃO CONTRATUAL E DE INDENIZAÇÃO POR DANOS MORAIS. ÔNUS DA PROVA. SENTENÇA DE PARCIAL PROCEDÊNCIA, MANTIDA”. (eDOC 4, p. 6)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, V e X, do texto constitucional.
+    Nas razões recursais, alega-se inexistência de contrato verbal, uma vez que as provas arroladas não teriam sido suficientes para declarar válido o contrato. (eDOC 4, p. 41)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil ) e o conjunto probatório constante dos autos, consignou a validade do contrato verbal. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Assim sendo, conclui-se que a autora logrou êxito em comprovar a existência de saldo devedor inadimplido pelo requerida, sendo críveis as afirmações autorais. Em que pese a inexistência de contrato formal entre as partes litigantes (acerca da previsão dos referidos R$ 40.000,00), possível depreender, a partir do conjunto probatório carreado aos autos, que ré se comprometeu a pagar à autora (pela aquisição do imóvel) valor maior mais elevado do que o constante instrumento contratual (R$ 80.000,00)”. (eDOC 4, p. 14)
+     Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+     Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROMESSA DE COMPRA E VENDA. NECESSIDADE DE REEXAME DO MATERIAL PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454/STF. 1. A legislação processual (art. 544, § 4º, II, b, do Código de Processo Civil, e art. 21, § 1º, do RI/STF) autoriza o relator a decidir monocraticamente recurso manifestamente inadmissível, improcedente, prejudicado ou contrário a entendimento firmado por este Tribunal. Precedente. 2. Hipótese em que, para dissentir do entendimento do Tribunal de origem, seria necessário nova apreciação dos fatos e do material probatório constantes dos autos, bem como o reexame de cláusulas contratuais. Incidência das Súmulas 279 e 454/STF. Precedentes. 3. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” (ARE 924.483 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.6.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 3. Promessa de compra e venda. Rescisão. Devolução dos valores pagos. Laudo pericial. Capitalização de juros. Resíduo inflacionário. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório e de cláusulas contratuais. Súmulas 279 e 454 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. ” (ARE 1122645 AgR, de minha relatoria, Segunda Turma, DJe 27.08.2018)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro em 10% o valor da verba honorária fixada anteriormente (eDOC 4, p. 22), observados os limites previstos no §§ 2º e 3º do referido dispositivo.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
