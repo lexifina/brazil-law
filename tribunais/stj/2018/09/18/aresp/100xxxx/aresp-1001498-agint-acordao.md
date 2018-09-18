@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. RESCISÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO CONHECIDO.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. Os arts. 557 do CPC/73 e 932 do CPC/2015, bem como a Súmula 568/STJ, admitem que o Relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte, além de reconhecer que não há risco de ofensa ao princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso ao órgão colegiado.
+3. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Cuida-se de agravo interno interposto por VIAMAR VEÍCULOS, PEÇAS E SERVIÇOS LTDA contra decisão desta relatoria, (e-STJ, fls. 330/336), que conheceu do agravo para negar provimento ao recurso especial sob os seguintes fundamentos: a) incidência do óbice das Súmula 283/STF, em razão da ausência de impugnação de fundamento autônomo e suficiente à manutenção do acórdão recorrido; e b) aplicação da Súmula 284/STF em razão do apontamento de dispositivo de lei que não tem comando normativo capaz de alterar a conclusão a que chegou o Tribunal de origem.
+Nas razões recursais, a parte agravante sustenta que "as questões levantadas na r. decisão recorrida não poderiam ensejar o desprovimento monocrático, por não estar presente nenhuma das hipóteses do § 4º do artigo 255 do Regimento Interno do STJ", defendendo que "O caso é sui generis, não bastando a mera afirmação de que a fundamentação é insuscetível de alterar as decisões anteriores, sem que haja apreciação Colegiada da questão." (e-STJ, fl. 365).
+Reafirma a nulidade de sua citação, uma vez que o mandado citatório enviado pelo correio foi desacompanhado da cópia da emenda à inicial, o que impossibilitou o recorrente de tomar conhecimento do inteiro teor dos fatos e pedidos formulados, e que a juntada do mandado de citação não constou da consulta de andamento do processo no endereço eletrônico do Tribunal de Justiça.
+Ao final, requer a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Devidamente intimada, a parte agravada não se manifestou.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+É importante salientar, desde logo, que foi negado provimento ao agravo em recurso especial tendo em vista a deficiência de fundamentação (Súmulas 283 e 284/STF)
+No entanto, a agravante, nas razões do agravo interno, limita-se a afirmar a impossibilidade de julgamento monocrático pelo relator e a repetir as razões deduzidas no recurso especial, deixando de impugnar especificamente os fundamentos que conduziram ao não provimento do agravo em recurso especial.
+Dessa forma, verifica-se que o inconformismo sob análise não observa a regra expressa prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015, que estabelece:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Ressalte-se, por oportuno, que o respeito à regra contida no dispositivo em questão não se trata de mero formalismo processual, mas decorre do princípio processual da dialeticidade, visto que, sem o específico ataque aos fundamentos da decisão agravada, estes permanecem incólumes, tornando inviável a reforma pleiteada nas razões do recurso e impõe o não conhecimento do agravo interno.
+Ademais, no que tange à alegada impossibilidade de julgamento monocrático do recurso especial, a jurisprudência consolidada do STJ entende que os arts. 557 do CPC/73 e 932 do CPC/2015, bem como a Súmula 568/STJ, admitem que o Relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte, além de reconhecer que não há risco de ofensa ao princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso ao órgão colegiado. A propósito, os seguintes precedentes:
+"AGRAVO INTERNO. AÇÃO ANULATÓRIA C/C OBRIGAÇÃO DE FAZER. CONDOMÍNIO. JULGAMENTO MONOCRÁTICO. SÚMULA 568/STJ. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA.
+1. Não há que se falar em ofensa do art. 932 do novo Código de Processo Civil, porquanto esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 557 do CPC/1973, equivalente ao art. 932 do CPC/2015, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+2. Não há falar em julgamento extra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco concede providência jurisdicional diversa da requerida, em respeito ao princípio da congruência.
+3. Caso concreto em que, se a causa de pedir baseia-se na alegação de que estaria havendo desrespeito à forma adequada de lavratura da ata e de coleta de assinaturas, é imperiosa a verificação da legalidade ou não do procedimento adotado pelo recorrido, não havendo que se falar, portanto, em julgamento extra petita por ter o magistrado de piso reputado válida, no ponto, a conduta adotada pelo condomínio e, consequentemente, improcedente a pretensão deduzida em juízo pelo ora recorrente.
+4. Agravo não provido."
+(AgInt no AREsp 1273548/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2018, DJe 21/08/2018 - grifo nosso)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. IMAGEM DO AUTOR DIVULGADA SEM AUTORIZAÇÃO E VINCULADA A INFORMAÇÃO INVERÍDICA E VEXATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DANOS MORAIS ARBITRADOS EM PATAMAR RAZOÁVEL. SÚMULA 7/STJ. PRINCÍPIO DA COLEGIALIDADE. RECURSO INADMISSÍVEL. RECURSO NÃO PROVIDO.
+1. A simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela Corte a quo, não é suficiente para caracterizar o requisito do prequestionamento.
+Aplica-se, no ponto, a Súmula 211 desta Corte Superior.
+2. O quantum indenizatório somente pode ser alterado nesta Corte Superior se for irrisório ou exorbitante, o que não é o caso dos autos, em que arbitrado em R$ 100.000,00 (cem mil reais), em razão de publicação de informações inverídicas e vexatórias.
+3. Os arts. 557 do CPC/73 e 932 do CPC/2015, bem como a Súmula 568/STJ, admitem que o Relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte, além de reconhecer que não há risco de ofensa ao princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso ao órgão colegiado.
+4. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 988.193/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018 - grifo nosso)
+Nesse cenário, o desprovimento, por meio de decisão monocrática, de recurso especial inadmissível em razão da incidência, por analogia, das Súmulas 283 e 284/STF não ofende o princípio da colegialidade, razão pela qual não merece reforma a decisão agravada.
+Ante o exposto, não se conhece do agravo interno.
+É como voto.
