@@ -1,0 +1,22 @@
+DECISÃO
+VERBETE VINCULANTE Nº 26 DA SÚMULA DO SUPREMO – DESRESPEITO – INEXISTÊNCIA – RECLAMAÇÃO – SEGUIMENTO –NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Alan Marcos Zico Fonseca da Silva assevera haver o Juízo da Vara de Execução Penal da Comarca de Nísia Floresta/RN, no processo nº 0113809-40.2017.8.20.0001, olvidado o teor do verbete vinculante nº 26 da Súmula do Supremo.
+    Segundo narra, cumpre pena de 12 anos e 6 meses em regime fechado ante a prática dos delitos previstos nos artigos 2º, § 4º (organização criminosa), da Lei nº 12.850/2013, 306, cabeça (condução de veículo automotor sob influência de álcool), da Lei nº 9.503/1997 e 14 (porte ilegal de arma de fogo de uso permitido) da Lei nº 10.826/2003, todos sem caráter hediondo. Considerado o preenchimento do requisito temporal em 10 de maio de 2018 e o bom comportamento carcerário, buscou a progressão de regime. Conforme relata, apesar de manifestação favorável do Ministério Público, o Órgão reclamado determinou a feitura de exame criminológico mediante razões inadequadas.
+    Frisa não cumprir pena por crime hediondo ou a ele equiparado. Afirma impróprio fundamentar a exigência do exame a partir da existência de processos em curso, mesmo ante o envolvimento de apontada prática de delitos hediondos. Diz em jogo execução penal por crimes comuns, ocorridos sem violência ou grave ameaça. Sustenta ofendido o referido verbete vinculante, destacando mostrar-se insuficiente, para a imposição do exame, a simples referência à gravidade da infração cometida, uma vez que esta foi considerada quando da individualização da pena. Sublinha imprescindível indicar dados concretos surgidos na fase executiva para justificar a exigência do exame. Evoca jurisprudência. Salienta o transcurso de tempo significativo desde os fatos que motivaram as condenações, tendo sido permitido, à época, aguardar os julgamentos em liberdade.
+    Sob o ângulo do risco, alude ao prejuízo decorrente da demora na apreciação, pelo Juízo, da progressão de regime, cujos requisitos já teriam sido atendidos.
+    Requer, em sede liminar, seja determinado à autoridade reclamada que analise o pedido de progressão sem a obrigatoriedade de exame criminológico. Postula, alfim, a confirmação da medida acauteladora e a cassação do ato impugnado.
+    2. Percebam as balizas retratadas. Buscada, na origem, a progressão do regime de cumprimento de pena, impôs-se a submissão do apenado a exame criminológico. Nesta reclamação, argui-se o desrespeito ao verbete vinculante nº 26 da Súmula do Supremo, com a seguinte redação:
+    Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+    O Órgão reclamado, ao determinar a realização do exame criminológico, consignou expressamente as razões de convencimento. Confiram:
+    […]
+    No caso dos autos, o último processo somado, evento 39, diz respeito a uma pena de dez anos de reclusão por organização criminosa, havendo em andamento o processo nº 0101972-41.2016.8.20.0124, da 2ª vara de Parnamirim/RN, por tráfico de drogas e também por organização criminosa, além de outros dois processos, um por tráfico de drogas e outro pelo crime de porte de arma.
+    Assim, além dos processos cujas penas aqui são executadas, o apenado ainda responde a três processos criminais ao total, incluindo processo por crimes graves, como organização criminosa, e por tráfico de drogas, de natureza hedionda.
+    Tais circunstâncias sugerem maior cautela do juízo da execução quando da análise da progressão de regime, considerando o risco de reiteração delituosa, sendo necessário, no presente caso, a vinda aos autos do resultado do exame criminológico antes da decisão acerca da progressão de regime.
+    […]
+    Descabe analisar a subsistência das premissas lançadas pela autoridade reclamada. Não se pode emprestar a esta medida excepcional os contornos de incidente de uniformização de jurisprudência ou, até mesmo, de sucedâneo recursal. A reclamação pressupõe a usurpação de competência do Supremo ou a inobservância de pronunciamento por ele formalizado.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 18 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
