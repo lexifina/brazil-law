@@ -1,0 +1,27 @@
+Trata-se de habeas corpus com pedido de liminar impetrado contra decisão do Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça – STJ, que indeferiu liminarmente o HC 468.141/SP.
+    Consta dos autos que o paciente foi preso em flagrante (documentos eletrônicos 21-23) pela suposta prática do crime de tráfico ilícito de drogas (art. 33 da Lei 11.343/2006). Em audiência de custódia, o flagrante foi convertido em prisão preventiva (documentos eletrônicos 16-17).
+    Questionando os fundamentos da prisão cautelar, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo – TJSP, ocasião em que o Desembargador Relator indeferiu o pedido de liminar. Na sequência, manejou outro HC no Superior Tribunal de Justiça, mas o Ministro Relator indeferiu liminarmente a impetração (documento eletrônico 34).
+    É contra essa decisão que se insurge o impetrante neste habeas corpus.
+    Registra, inicialmente, que é o caso de “AFASTAMENTO DA SÚMULA 691 DO STF, como tem entendido esta Corte em diversos precedentes, pois se trata de decisão cuja ILEGALIDADE É MANIFESTA, tratando-se de decisão desproporcional e teratológica, o que autoriza esta Corte a conhecer da impetração ora apresentada” (pág. 14 da petição inicial).
+    Alega, em seguida, que “a decisão que decretou a prisão preventiva e as [que] optaram pela manutenção dessa prisão cautelar são nulas de pleno direito por falta de fundamentação concreta” (pág. 15 da petição inicial).
+    Sustenta, nesse contexto, que, “em nenhum momento os Nobre Magistrados fazem alusão concreta a qual ou quais são as razões reais que os levaram a determinar a prisão preventiva, e muito mais grave é a ausência da necessidade da manutenção quando do indeferimento, ausente de palavra concreta é simplesmente proferida” (pág. 17 da petição inicial).
+    Assevera, por fim, que “a aplicação de qualquer uma das medidas acima descritas [no art. 319 do CPP] é suficiente no presente caso, sendo abusiva e ilegal a prisão do Paciente” (pág. 32 da petição inicial).
+    Requer, ao final, liminarmente, “o direito de [o paciente] responder o processo em liberdade, com a concessão da liberdade provisória (Revogação da Prisão Preventiva), e, no mérito, a concessão definitiva da ordem” (pág. 32 da petição inicial). Subsidiariamente, pede “a aplicação do artigo 319, do CPP” (pág. 33 da petição inicial).
+    É o relatório necessário. Decido.
+    A presente impetração volta-se contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 468.141/SP. Eis os fundamentos expostos por Sua Excelência:
+    “Trata-se de habeas corpus com pedido liminar impetrado em benefício de Agnaldo Beluci Simao, em que o impetrante se insurge contra decisão do Desembargador Álvaro Castello do Tribunal de Justiça de São Paulo, que indeferiu a liminar no HC n. 2185540-63.2018.8.26.0000, cuja pretensão era a concessão de liberdade provisória ao paciente, à vista da conversão de sua prisão em flagrante em preventiva (Processo n. 1500140-05.2018.8.26.0559 - Vara Plantão da comarca de São José do Rio Preto/SP).
+    Aqui, alegando, em resumo, a ausência de fundamentação idônea para decretação e manutenção da custódia cautelar, pretende-se a superação do óbice da Súmula 691/STF e a concessão de ordem liberatória, inclusive liminarmente.
+    É o relatório.
+    Na via da excepcionalidade, admite-se habeas corpus contra decisão que indeferiu pedido de liminar em writ impetrado perante o Tribunal a quo, ainda não julgado, desde que esteja claramente evidenciada a ilegalidade do ato coator, proveniente de decisão teratológica, despida de qualquer razoabilidade.
+    Na espécie, não verifico ser o caso de superação do óbice previsto na Súmula 691 do Supremo Tribunal Federal, já que o Desembargador Relator, após a análise dos documentos a ele apresentados, não vislumbrou, naquele momento, os requisitos necessários à concessão da tutela de urgência.
+    Ademais, a decretação da prisão está amparada especialmente na quantidade da droga apreendida na posse do paciente (2.671,16 gramas de maconha - fl. 26), e na apreensão de uma balança de precisão.
+    É certo que caberá, primeiramente, ao Colegiado competente do Tribunal estadual, analisar em maior profundidade as questões levantadas no habeas corpus lá impetrado.
+    Convém aguardar o trâmite regular do writ na origem.
+    Ante o exposto, com fundamento nos art. 210 do RISTJ, indefiro liminarmente a petição inicial” (grifos no original).
+    Desse modo, este pleito não merece igualmente seguimento, uma vez que o exame da questão implicaria indevida supressão de instância e extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o seguimento do habeas corpus nesta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
