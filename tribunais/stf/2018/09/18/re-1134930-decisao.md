@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “EXECUÇÃO FISCAL. EMBARGOS. REEXAME DE RECURSO. JUÍZO DE RETRATAÇÃO. ARTIGO 543-B, § 3º, DO CPC. RFFSA. SUCESSÃO TRIBUTÁRIA DA UNIÃO. IMUNIDADE RECÍPROCA. IPTU. CDA. NULIDADE NÃO CONFIGURADA. PROGRESSIVIDADE. LC 40/2001.
+    1. Determinado pela Vice-Presidência deste Tribunal o eventual juízo de retratação, nos termos do artigo 543-B, § 3º, do CPC, de modo que cabível o reexame do recurso de apelação.
+    2. A Rede Ferroviária Federal S/A foi extinta em 22 de janeiro de 2007, por disposição da MP 353, convertida na Lei nº 11.483/07, sucedendo-lhe a União nos direitos, obrigações e ações judiciais.
+    3. O plenário do Supremo Tribunal Federal, no julgamento do RE 599.176/PR, com repercussão geral reconhecida, entendeu não se aplicar o princípio da imunidade tributária recíproca a débito de Imposto Predial e Territorial Urbano (IPTU) devido pela extinta Rede Ferroviária Federal S/A (RFFSA).
+    4. A certidão de dívida ativa constitui-se em título executivo extrajudicial (artigos 585, VII, e 586 do CPC), hábil a, por si só, ensejar a execução, pois decorre de lei a presunção de liquidez e certeza do débito que traduz. A inscrição cria o título e a certidão de inscrição o documento para efeito de ajuizamento da cobrança judicial pelo rito especial da Lei nº 6.830/80.
+    5. Em se tratando de lei municipal posterior à Emenda Constitucional nº 29, de 2000, é descabida a alegação de inconstitucionalidade, fundada em falta de previsão de progressividade na Constituição Federal, uma vez que, desde a referida emenda, o art. 156, § 1º, incisos I e II, possibilitou que o IPTU seja progressivo ou tenha alíquotas diferenciadas. Aplica-se, pois, contrario sensu, o disposto na Súmula nº 668 do Supremo Tribunal Federal.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 21, X, XI e XII; 150, caput, VI, a, §§ 2° e 3°; 173; 175 e 177, todos da CF. Sustenta, em síntese, que a RFFSA, por prestar serviço público, goza de imunidade tributária recíproca, bem como que o paradigma do Tema 224 da sistemática da repercussão geral não abordou esta questão.
+    A pretensão recursal não merece prosperar. O Plenário do Supremo Tribunal Federal, no julgamento do RE 959.489, Rel. Min. Teori Zavascki, declarou a inexistência de repercussão geral da controvérsia. Confira-se a ementa do julgado:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. REDE FERROVIÁRIA FEDERAL S/A (rffsa). PREENCHIMENTO DOS PRESSUPOSTOS NECESSÁRIOS AO GOZO DA IMUNIDADE TRIBUTÁRIA RECÍPROCA (ART. 150, VI, A, DA CF/88). MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. Possui natureza infraconstitucional a controvérsia relativa ao preenchimento, pela Rede Ferroviária Federal S/A (rffsa), dos pressupostos necessários ao gozo da imunidade tributária recíproca (art. 150, VI, a, da CF/88). 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 1.035 do CPC/2015. (RE 959.489, Rel. Min. Teori Zavascki)”
+    No julgamento do mencionado recurso, o Relator consignou o seguinte:
+    “[…]
+    3. A discussão submetida pela União ao exame do Supremo Tribunal Federal não envolve a interpretação do art. 150, VI, a , da CF/88, mas apenas o exame do preenchimento, no caso concreto, dos pressupostos necessários ao gozo da imunidade tributária recíproca pela RFFSA. Não há, portanto, matéria constitucional a ser analisada.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
