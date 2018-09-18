@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. MILITAR TEMPORÁRIO. REFORMA REMUNERADA. AJUDA DE CUSTO. PRECEDENTES DO STJ.
+1. O aresto regional não se afastou da orientação jurisprudencial deste Superior Tribunal, segundo a qual o militar temporário faz jus à indenização de transporte pessoal e de bagagem, bem como de ajuda de custo por ocasião da sua reforma remunerada.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto contra decisão que negou provimento ao recurso especial, em razão do acórdão recorrido guardar sintonia com a orientação jurisprudencial deste Superior Tribunal, segundo a qual o militar temporário faz jus à indenização de transporte pessoal e de bagagem, bem como de ajuda de custo por ocasião da sua reforma remunerada (fls. 1.036/1.049).
+Inconformado, a agravante afirma que o direito ao transporte somente é conferido para custear despesas nas movimentações por interesse do serviço. Acrescenta que a situação do recorrido não se subsume à hipótese de movimentação militar. O recorrido fora licenciado da Força por motivo de reforma e seu retorno para a cidade de origem não importa em movimentação militar, razão pela qual não faz jus à indenização de transporte alguma.
+Assevera que nem mesmo o Decreto nº 4.307/2002 - que regulamentou a Medida Provisória nº 2.215/2001 - poderia conferir o direito de transporte ao recorrido nos termos em que foi concedido, por contrariar as disposições que pretende regulamentar.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+É o relatório.
+VOTO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, o Tribunal de origem assentou entendimento segundo o qual sendo a ajuda de custo consectário da reforma, correta a inclusão da rubrica no cálculo exequendo. Asseverou que a rubrica é sim devida ao militar quando de sua passagem à inatividade, através a reforma remunerada, não fazendo a Lei Militar qualquer ressalva de ordem fática que permita inferir interpretação restritiva, em desfavor do demandante (fls. 964/965).
+Ocorre que, ao assim decidir, o aresto regional não se afastou da orientação jurisprudencial deste Superior Tribunal, firme no sentido de que o militar temporário faz jus à indenização de transporte pessoal e de bagagem, bem como de ajuda de custo por ocasião da sua reforma remunerada.
+Nessa linha de raciocínio, confiram-se:
+RECURSO ESPECIAL. ADMINISTRATIVO. MILITARES TEMPORÁRIOS. MÉDICOS CONVOCADOS PARA O SERVIÇO MILITAR OBRIGATÓRIO. TRANSFERÊNCIA DE SEDE. DIREITO ÀS INDENIZAÇÕES DE TRANSPORTE PESSOAL E DE BAGAGEM E DE AJUDA DE CUSTO. POSSIBILIDADE. PREVISÃO NAS LEIS N. 5.292/67 E N. 8.237/91. NECESSIDADE DE COMPROVAÇÃO DOS GASTOS. VOTO PREVALECENTE NO SENTIDO DE QUE RESTOU EVIDENCIADO NOS AUTOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. EFEITOS MATERIAIS DA REVELIA. INAPLICÁVEIS À FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA E MINORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+- É da exegese das Leis n. 5.292/1967 e n. 8.237/1991, a primeira que regula a prestação do serviço militar obrigatório a médicos, dentistas, farmacêuticos e veterinários (MFDV), que esses militares (temporários), assim como os militares de carreira, possuem direito ao ressarcimentos dos valores decorrentes da transferência de sede, realizada em razão de sua incorporação ou no interesse da unidade militar.
+- A própria norma que garante aos militares especialistas (MFDV) o ressarcimento pelas despesas ocorridas com a mudança de sede, faz a ressalva quanto ao cabimento dessa indenização, à medida em que usa expressamente o termo se for o caso, condicionando o seu recebimento, pelos militares convocados e designados, à comprovação do que fora realmente dispendido na transferência de sede.
+- Restou definido no voto prevalecente que os valores pleiteados guardariam correlação com as condições pessoais de cada autor e que estariam evidenciados nos autos. Dessa forma, para rever as razões de decidir do acórdão recorrido, faria-se necessário o reexame do conjunto fático-probatório dos autos, o que não é possível em sede de Recurso Especial. Incidência da Súmula n. 7/STJ.
+- A jurisprudência dessa Corte é uníssona no sentido de que à Fazenda Pública não se aplica o efeito material da revelia, pois os bens e direitos são considerados indisponíveis. Precedentes.
+- Quanto à correção monetária e ao pedido de minoração dos honorários advocatícios, ausente o prequestionamento dos artigos apontados como vulnerados. Incidência da Súmula n. 211/STJ.
+Recurso especial a que se nega seguimento (REsp. 939.086/RS, Rel. Min. MARILZA MAYNARD, DJe 25/08/2014).
+Recurso especial. Julgamento unipessoal. Possibilidade. Militar temporário. Prestação de estágio de adaptação e serviço (EAS). Necessidade de deslocamento. Cabimento de indenização de transporte e de ajuda de custo. Precedentes. Agravo regimental improvido (AgRg no REsp. 392.793/RS, Rel. Min. NILSON NAVES, DJe 19/12/2008).
+RECURSO ESPECIAL. ADMINISTRATIVO. MILITAR TEMPORÁRIO REFORMADO. TRANSPORTE. INDENIZAÇÃO. ART. 58, II, LEI 8237/91. DESLOCAMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. DISTINÇÃO NÃO EFETUADA PELA LEI.
+Ausente o prequestionamento em relação ao tema sobre a inexistência de deslocamento do respectivo militar. O dispositivo citado limita-se a dispor sobre "militar da ativa", sem fazer qualquer outra distinção.
+Recurso desprovido (REsp. 530.653/RS, Rel. Min. JOSÉ ARNALDO DA FONSECA, DJ 27/9/2004).
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
