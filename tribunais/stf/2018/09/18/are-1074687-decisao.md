@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “AÇÃO CIVIL PÚBLICA. INDENIZAÇÃO. EXTRAÇÃO IRREGULAR DE RECURSO MINERAL. ATO ILÍCITO INDENIZÁVEL. CFEM. INSUFICIÊNCIA. VALOR DE MERCADO.
+    1. A extração irregular de argila em área específica, à revelia de qualquer autorização do Poder Público, configura ato ilícito e atrai a incidência dos artigos 186, 884 e 927 do Código Civil.
+    2. A extração de lavra exige, além da autorização de pesquisa, concessão outorgada pelo Ministro de Estado de Minas e Energia, na forma do artigo 7º do Decreto-Lei n. 227/67 (Código de Mineração).
+    3. O valor da indenização por extração irregular de recurso mineral deve levar em consideração o valor de mercado do material extraído.
+    4. A CFEM representa apenas a Contribuição devida à União pela pessoa jurídica autorizada à extração de recurso mineral, como compensação financeira pela exploração regular, admitida, consentida e fiscalizada, em nada se confundindo com a indenização devida por aquele que, flagrado no exercício ilegal de atividade extrativista, resta condenado em ação judicial reparatória do dano ambiental.
+    5. Apelação provida.” (eDOC 6, p. 213)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LVII, 20, IX, 22, XII, 176, § 1º, do texto constitucional.
+    Nas razões recursais, alega-se que a União detém a propriedade das jazidas minerais, mas não dos produtos desta, pois não explora comercialmente o produto das jazidas, no caso a areia, por isso, não há que se falar indenização tendo por base em perda patrimonial. Sustenta-se que o ressarcimento por dano material na forma do art. 927 do Código Civil pressupõe a efetiva diminuição do patrimônio do lesado, situação que não se amolda ao presente caso, visto que a União só é titular do CFEM. (eDOC 7, p. 181)
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “Recurso extraordinário com agravo. Jazida mineral. Exploração sem autorização do órgão competente. Bem da União. Indenização devida. Parecer por que seja negado seguimento ao agravo.” (eDOC 12)
+    É o relatório.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, a controvérsia posta nos autos cinge-se ao direito de indenização referente ao produto da lavra mineral extraído irregularmente.
+    Destaco que esta Corte, no julgamento do mérito da ADI nº 3.273/DF, assentou entendimento no sentido de que a propriedade sobre o produto da exploração é plena, desde que exista concessão de lavra regularmente outorgada. Eis a ementa desse julgado na parte em que interessa:
+    “CONSTITUCIONAL. MONOPÓLIO. CONCEITO E CLASSIFICAÇÃO. (...) BENS DE PROPRIEDADE EXCLUSIVA DA UNIÃO. ART. 20 DA CB/88. (…) DISTINÇÃO ENTRE AS PROPRIEDADES A QUE RESPEITAM OS ARTS. 177 E 176 DA CB/88. (…) A propriedade do produto da lavra das jazidas minerais atribuídas ao concessionário pelo preceito do art. 176 da Constituição do Brasil é inerente ao modo de produção capitalista. A propriedade sobre o produto da exploração é plena, desde que exista concessão de lavra regularmente outorgada. 9. Embora o art. 20, IX, da CB/88 estabeleça que os recursos minerais, inclusive os do subsolo, são bens da União, o art. 176 garante ao concessionário da lavra a propriedade do produto de sua exploração.” (ADI 3273, Rel. Min. Carlos Britto, Rel. p/ Acórdão: Min. Eros Grau, Tribunal Pleno, julgado em 16.3.2005, DJ 2.3.2007)
+    Nesse julgado, questionava-se a expressão ‘conferindo-lhe a propriedade desses bens, após extraídos’, constante do caput do art. 26 da Lei nº 9.478, de 6 de agosto de 1997, por entender que existiria afronta ao art. 20, IX, da CF/88, entre outros, uma vez que o texto constitucional confere à União a propriedade dos recursos minerais, inclusive os do subsolo.
+    Extrai-se do voto do Min. Eros Grau a seguinte explanação:
+    “A propriedade do produto da lavra das jazidas minerais atribuída ao concessionário pelo artigo 176 da Constituição do Brasil é inerente ao modo de produção social capitalista. A concessão seria materialmente impossível sem que o proprietário se apropriasse do produto da exploração da jazida. O mesmo se dá quanto ao produto do exercício das atividades contratadas com empresas estatais ou privadas nos termos do § 1o do artigo 177 da Constituição do Brasil. Essas contratações --- contratações, note-se bem; não concessões --- seriam materialmente impossíveis sem que os contratados da União se apropriassem, direta ou indiretamente, do produto da exploração das jazidas de petróleo, de gás natural e de outros hidrocarbonetos fluídos.
+    (...)
+    O art. 176 --- ainda que o artigo 20, IX, da CB estabeleça que os recursos minerais, inclusive os do subsolo, são bens da União --- garantiu ao concessionário da lavra a propriedade do produto da sua exploração, sem estipular qualquer restrição a ela, do que decorre a conclusão de que, existindo concessão de lavra regularmente outorgada, a propriedade sobre o produto da exploração é plena.”
+    Assim, garantiu-se a propriedade do produto da lavra ao concessionário devidamente autorizado, permanecendo a regra constitucional como sendo de propriedade da União os recursos minerais, inclusive os do subsolo. Por consequência, na ausência de autorização do poder público para a exploração, deve a União ser indenizada.
+    Nesse corolário, destaco ainda julgado dessa Corte no sentido que, em casos de desapropriação, só há indenização ao particular se existente a concessão de lavra:
+    “CONSTITUCIONAL. DESAPROPRIAÇÃO. JAZIDAS DE MINERAIS: INDENIZAÇÃO. I. - Jazidas de minerais, areia, pedras e cascalho: não são indenizáveis, salvo existência de concessão de lavra. II. - Precedentes do STF: RE 70.132-SP, Baleeiro, RTJ 54/500; RE 189.964-SP, Velloso, ‘DJ’ de 21.6.96; RE 140.254 (AgRg) - SP, Celso de Mello, ‘DJ’ de 06.6.97. III. - RE conhecido e provido.” (RE 315.135/RS, Rel. Min. Carlos Veloso, Segunda Turma, DJ 7.6.2002).
+    Deste modo, entendo que o acórdão recorrido está em consonância com a jurisprudência desta Corte.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF)
+    Publique-se.
+    Brasília, 18 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
