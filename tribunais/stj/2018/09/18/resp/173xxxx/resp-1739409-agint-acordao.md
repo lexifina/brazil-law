@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO ORIGINADO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO. PREJUDICIALIDADE.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O presente recurso decorre de agravo de instrumento de decisão que indeferira acautelamento de valores destinados ao pagamento de honorários periciais até o julgamento da lide.
+3. Nos termos da jurisprudência desta Corte Superior, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente.
+4. O argumento de que a decisão proferida poderá auxiliar juízes na atuação em outras causas não se constitui fundamento hábil a caracterizar o interesse recursal.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE interpôs agravo interno contra decisão desta Relatoria assim ementada:
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU PEDIDO CAUTELAR. POSTERIOR PROLAÇÃO DE SENTENÇA. PERDA DE OBJETO CONFIGURADA. PRECEDENTES DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante alega que não há que se falar em perda de objeto recursal tendo em vista que a decisão proferida poderá auxiliar juízes em como atuar nos demais casos em que se homologam honorários com valores controversos em que a parte requer a concessão de tutela incidental.
+Ademais, a agravante insiste em apontar violação a dispositivos de lei federal, repetindo as razões do recurso especial.
+Pugna pela apresentação deste agravo em mesa para apreciação e provimento do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. RECURSO ORIGINADO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO. PREJUDICIALIDADE.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O presente recurso decorre de agravo de instrumento de decisão que indeferira acautelamento de valores destinados ao pagamento de honorários periciais até o julgamento da lide.
+3. Nos termos da jurisprudência desta Corte Superior, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente.
+4. O argumento de que a decisão proferida poderá auxiliar juízes na atuação em outras causas não se constitui fundamento hábil a caracterizar o interesse recursal.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Antes de mais nada, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Conforme assinalado na decisão agravada, o recurso especial foi interposto no bojo de agravo de instrumento que desafiou decisão interlocutória do juízo a quo que indeferiu o acautelamento do valor pago a título de honorários periciais - processo nº 0000350-58.2015.8.19.0001, em curso na 3ª Vara Cível do Rio de Janeiro.
+Ocorre que houve decisão de mérito nos autos da ação originária, ocasionando a perda de objeto do recurso especial.
+Cumpre registrar que o interesse da demanda está ligado ao seu resultado final. Considerando que a recorrente não possui mais nenhum proveito direto, não é possível se examinar o recurso especial.
+O interesse processual é uma das condições da ação, que exige como um de seus elementos a necessidade da tutela pretendida. Considerando a inexistência desse elemento na presente demanda, não estão mais preenchidos os pressupostos de admissibilidade de conhecimento do recurso especial.
+O argumento de que a decisão proferida poderá auxiliar juízes na atuação em outras causas não é um fundamento hábil a caracterizar o interesse recursal.
+Sendo assim, reafirmo que, nos termos da jurisprudência desta Corte Superior, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente. Assim, as questões incidentais tratadas no agravo de instrumento e suscitadas no recurso especial deverão ser objeto de apreciação na sede processual própria para a revisão da decisão de mérito.
+Neste sentido:
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO EM AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. 1. A jurisprudência desta Corte Superior firmou entendimento no sentido de que resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, haja vista que nela a cognição é exauriente. 2. Agravo interno a que se nega provimento. (AgInt no AREsp 922.370/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/09/2016, DJe 07/10/2016)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL POR ATO DE IMPROBIDADE ADMINISTRATIVA. PEDIDO LIMINAR. INDISPONIBILIDADE DE BENS. SUPOSTA INOBSERVÂNCIA DE PROCEDIMENTO ESPECÍFICO. POSTERIOR JULGAMENTO DA AÇÃO PRINCIPAL. APELAÇÃO JULGADA PELO TRIBUNAL DE ORIGEM. NATUREZA INCIDENTAL. PERDA DE OBJETO. PREJUDICIALIDADE CONFIGURADA. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A "pretensão veiculada no agravo de instrumento, que originou o recurso especial sub examine, não mais subsiste em decorrência da prolação de sentença de mérito na Ação Civil Pública" (AgRg no REsp 986.460/RJ). 2. Há considerar a natureza incidental do agravo de instrumento, tendo em vista que o julgamento definitivo da lide originária põe termo, por perda de objeto, ao recurso especial ora manejado. 3. Não há falar em negativa de tutela jurisdicional pela manutenção da decisão recorrida, uma vez que à parte restou assegurado o direito de impugnar, pelas vias ordinária e extraordinária, o entendimento firmado por ocasião do julgamento da apelação que rejeitou a preliminar e manteve a sentença. 4. "As questões processuais e materiais suscitadas no recurso especial serão objeto de apreciação, em caráter definitivo e sob cognição exauriente, pelo Tribunal de Justiça no julgamento do recurso de apelação. Daí porque eventual decisão contrária às pretensões do ora agravante poderá ser objeto de novo recurso especial, sede processual própria para se analisar a questionada validade da r. sentença, que, expressamente, manteve a tutela antecipada em todos os seus termos" (AgRg no Ag 880.632/PA). 5. Agravo regimental não provido. (AgRg no REsp 1095553/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 5/8/2010, DJe 20/8/2010)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
