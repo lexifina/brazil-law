@@ -1,0 +1,33 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ART. 121, § 2.º, INCISO IV, DO CÓDIGO PENAL. QUALIFICADORA RECONHECIDA PELO CONSELHO DE SENTENÇA. APELAÇÃO. ART. 593, § 3.º, INCISO III, ALÍNEA D, DO CÓDIGO DE PROCESSO PENAL. RECONHECIDO PELO TRIBUNAL A QUO QUE A DECISÃO DOS JURADOS ESTÁ FUNDAMENTADA NA PROVA DOS AUTOS. PRETENSÃO DEFENSIVA DE INVERTER O JULGADO. REEXAME FÁTICO-PROBATÓRIO. VERBETE N.º 7 DA SÚMULA DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea a, da Constituição da República.
+Consta nos autos que o Recorrente foi condenado à pena de 12 (doze) anos de reclusão, em regime inicial fechado, pela prática do crime de homicídio qualificado, tipificado no art. 121, § 2.º, inciso IV, do Código Penal (fl. 330).
+Irresignada, a Defesa interpôs apelação, que não foi provida, pelas razões assim sintetizadas na ementa do julgado (fl. 365):
+"APELAÇÃO CRIMINAL - JÚRI - HOMICÍDIO QUALIFICADO - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - NÃO OCORRÊNCIA. Havendo o Conselho de Sentença optado por uma das versões debatidas em plenário e estando ela demonstrada nos elementos de prova constantes dos autos, não há falar-se em nulidade do julgamento por decisão manifestamente contrária à prova dos autos, sob pena de ofensa ao principio constitucional da soberania dos veredictos."
+Nas razões do recurso especial, a Defesa sustenta contrariedade ao art. 121, § 2.º, inciso IV, do Código Penal, ao argumento basilar de que a qualificadora do emprego de recurso que dificulte ou torne impossível a defesa do ofendido não possui suporte fático (fl. 402).
+Aduz que o "simples fato da vítima ser surpreendida pelos disparos efetuados pelo autor não basta para o fato se adequar ao tipo derivado de homicídio qualificado pela surpresa" (fl. 402).
+Requer o provimento do recurso, "para reconhecer a inadequação do fato da condenação ao tipo de homicídio qualificado pelo modo de execução e, em consequência, reformar o acórdão para cassar o veredicto" (fl. 405).
+O Tribunal a quo realizou juízo negativo de admissibilidade da impugnação especial, razão pela qual foi interposto o presente agravo às fls. 419-424.
+Contraminuta às fls. 427-429.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo, em parecer que recebeu a seguinte ementa (fls. 440-442; sem grifos no original):
+"AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. PLEITO DE AFASTAMENTO DA QUALIFICADORA. INVIABILIDADE DO REEXAME DO QUADRO PROBATÓRIO NA VIA DO RECURSO ESPECIAL SÚMULA Nº 07, DO STJ. PARECER PELO IMPROVIMENTO."
+É, no essencial, o relatório.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, portanto, comporta conhecimento. Todavia, reconheço o acerto do juízo prévio de inadmissão, pois o recurso especial não pode ser conhecido, em face do entendimento consolidado no verbete n.º 7 da Súmula do STJ.
+A apelação interposta com amparo no art. 593, § 3.º, inciso III, alínea d, do Código de Processo Penal impugna a parte da sentença que acolhe a manifestação dos Jurados, portanto, neste ponto, protegida pelo princípio constitucional da soberania dos veredictos, insculpido no art. 5.º, inciso XXXVIII, alínea c, da Constituição da República.
+Desse modo, nos termos do precedente jurisprudencial da Sexta Turma do STJ, "demonstrada, pela simples leitura do acórdão impugnado, a existência de duas versões, não há que se falar em decisão manifestamente contrária à prova dos autos, sob pena de afronta à soberania dos veredictos" (REsp 1.085.432/AC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/04/2016, DJe 18/04/2016).
+No caso, o Tribunal a quo rechaçou a tese defensiva de que o reconhecimento da qualificadora surpresa foi contrário à prova dos autos e afirmou que a decisão do Conselho de Sentença, nesse particular, "encontra lastro na prova colacionada ao feito" (fl. 374), nos seguintes termos (fls. 374-375, sem grifos no original):
+"Por oportuno, destaco que a causa qualificadora do recurso que dificultou a defesa da vítima, reconhecida pelo Conselho de Sentença, também encontra lastro na prova colacionada ao feito, como se depreende dos depoimentos já transcritos.
+Ora, há prova nos autos que indica haver o acusado tomado a vítima de surpresa, uma vez que já efetuou os disparos de arma de fogo antes que o ofendido pudesse esboçar qualquer reação.
+Nesse contexto, outra conclusão não se obtém: a qualificadora insculpida no art. 121, § 2.º, IV, reconhecida pelo Conselho de Sentença, de fato encontra lastro no acervo probatório colacionado aos autos."
+Pela leitura do excerto acima, denoto que o Relator do acórdão recorrido, segundo a dinâmica dos fatos reproduzida no processo, concluiu que o reconhecimento da qualificadora pelo Conselho de Sentença "encontra lastro no acervo probatório colacionado aos autos" (fl. 375).
+Desse modo, a tese recursal no sentido de a qualificadora descrita no art. 121, § 2.º, inciso IV, do Código Penal, reconhecida pelos Jurados, é manifestamente contrária à prova dos autos, no caso, não pode ser apreciada no espectro de cognição do recurso especial, por demandar a análise do conteúdo fático-probatório dos autos, providência obstada pelo entendimento consolidado no verbete n.º 7 da Súmula do STJ.
+Exemplificativamente:
+"AGRAVOS REGIMENTAIS NOS AGRAVOS EM RECURSOS ESPECIAIS. PENAL E PROCESSUAL PENAL. HOMICÍDIO TENTADO. TESE DE QUE A DECISÃO DO TRIBUNAL DO JÚRI TERIA SIDO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. DECISÃO DO CONSELHO DE SENTENÇA QUE OPTA POR UMA DAS VERSÕES AMPARADAS NAS PROVAS PRODUZIDAS. REVISÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. REEXAME DE PROVA. DECOTE DAS QUALIFICADORAS RECONHECIDAS PELO TRIBUNAL DO JÚRI. DESCABIMENTO. TENTATIVA. AFERIÇÃO DO QUANTUM A SER REDUZIDO. INVIABILIDADE. ÓBICE DO VERBETE SUMULAR N.º 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVOS REGIMENTAIS DESPROVIDOS.
+ ..
+2. As instâncias ordinárias entenderam que restou sobejamente demonstrado, no conjunto probatório carreado aos autos, a presença das qualificadoras reconhecidas pelo Tribunal do Júri. Conclusão diversa demandaria reanálise de provas.
+ ..
+5. Agravos regimentais desprovidos." (AgRg no AREsp 96.517/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 23/04/2013, DJe 30/04/2013; sem grifos no original.)
+Ante o exposto, CONHEÇO do agravo para, com fundamento no art. 932, inciso III, do CPC, c.c. os arts. 3.º do CPP e 253, parágrafo único, inciso II, alínea a, do RISTJ, NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
