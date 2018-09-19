@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por MAURÍCIO DAL AGNOL, em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. MANDATOS. AÇÃO DE COBRANÇA C/C PEDIDO DE INDENIZAÇÃO.
+I. Reconhecida a ilegitimidade da OI S/A para figurar no pólo passivo da lide.
+II. Preliminares de incompetência da justiça estadual, de ausência de interesse de agir e de pedido de denunciação da lide afastadas.
+III. Prescrição e decadência inocorrentes.
+IV. As provas produzidas nos autos demonstram que o acordo realizado pelo advogado réu contrariou os interesses de seu cliente, pois mesmo havendo título judicial constituído em favor deste, houve renuncia de valores por parte do causídico.
+V. Cabível a condenação do réu ao pagamento de valores que, por conta de acordo desfavorável, a parte autora deixou de receber.
+VI. O termo inicial da correção monetária é a data em que realizado levantamento de alvará e dos juros de mora, a data da citação. O termo final de incidência dos encargos é a data do efetivo pagamento.
+VII. Pleito indenizatório por danos morais possibilitado, mormente em face da atitude do advogado, que privou o cliente do recebimento de verba reconhecida por decisão transitada em julgado. Mantida a verba arbitrada na origem.
+VIII. Descabe a aplicação da pena de litigância de má-fé, pois não há, no caso concreto, qualquer atitude desleal ou desonesta, não sendo o caso, portanto, de incidência da regra do art. 80 do Código de Processo Civil.
+IX. Sucumbência redimensionada.
+NEGARAM PROVIMENTO AOS RECURSOS DO AUTOR E DO SEGUNDO DEMANDADO E DERAM PROVIMENTO AO APELO DA PRIMEIRA DEMANDADA. UNÂNIME.
+A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: I) não prequestionamento em relação ao termo inicial dos juros de mora. Incidência das Súmulas 282 e 356/STF; II) não configurada a alegada omissão; III) o entendimento do Superior Tribunal de Justiça. Incidência da Súmula nº 83/STJ; IV) necessidade de reexame fático-probatório para análise das razões do especial acerca dos juros de mora; do valor da indenização dos danos morais; e dos honorários advocatícios. Aplicação da Súmula 7/STJ; IV) "no que se refere ao termo final de incidência dos juros moratórios e da correção monetária, (..) a parte recorrente deixou de apontar sobre qual artigo de lei se instaurou a divergência jurisprudencial" (fl. 1.437). Incidência da Súmula 284/STF; V) não demonstração do alegado dissídio jurisprudencial.
+O agravante não infirmou, especificamente, todos fundamentos da decisão recorrida, deixando de atacar a aplicação das Súmulas 282 e 356/STF; e da não demonstração do dissídio jurisprudencial, além de fazer menção, apenas genérica, acerca dos demais fundamentos, sem impugnar as razões de sua aplicação.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento do requisito exigido no art. 932, III, do Código de Processo Civil/2015.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo e fixo os honorários deste recurso, a serem suportados pela parte recorrente, em 10% (dez por cento) dos honorários advocatícios já arbitrados em favor da parte recorrida, ressaltando que não deve ser aplicada a medida aos casos em que ultrapassados os limites dos §§ 2º e 3º do art. 85 do Código de Processo Civil/2015, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
