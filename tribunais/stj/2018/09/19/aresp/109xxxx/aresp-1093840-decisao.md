@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WEBJET PARTICIPACOES S.A, doravante WEBJET, contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação indenizatória proposta por JORGE UBIRAJARA DOS SANTOS GONÇALVES em desfavor de WEBJET.
+O il. Magistrado julgou parcialmente procedente o pedido (sentença às fls. 82/91).
+Diante disso, WEBJET interpôs apelação e JORGE UBIRAJARA DOS SANTOS GONÇALVES manejou recurso adesivo. O eg. TJ-RS concedeu parcial provimento aos respectivos recursos, nos termos do v. acórdão, assim ementado (fl. 154):
+"APELAÇÃO CÍVEL. RECURSO ADESIVO. TRANSPORTE. AÇÃO DE INDENIZAÇÃO. CANCELAMENTO DE VÔO. QUEDA NO INTERIOR DO MICROÔNIBUS DISPONIBILIZADO PELA RÉ NO DESLOCAMENTO DO AEROPORTO AO HOTEL NO QUAL OS PASSAGEIROS FICARIAM ALOJADOS NO AGUARDO DO VÔO. PRELIMINARES. LESÕES CORPORAIS. DANO MORAL. LUCROS CESSANTES.
+Embora ultra petita, possível extirpar o excesso e manter a sentença, sem anulá-la.
+Incabível atender ao pedido de realização de perícia, pois o réu revel recebe o processo no estado em que se encontra.
+Tendo em vista que o juízo a quo utilizou parâmetros estranhos aos limites formulados na inicial para a rubrica dos lucros cessantes, impositivo excluir do dispositivo a condenação no tópico.
+Irretocável a condenação nos danos morais, a qual vai ratificada nos termos especificados na sentença apelada, porquanto reflete o contexto dos autos.
+Honorários advocatícios. Percentual majorado com base no art. 85,§§ 2º e 11, NCPC.
+PRELIMINAR REJEITADA.
+APELAÇÃO DA RÉ PARCIALMENTE PROVIDA.
+RECURSO ADESIVO PARCIALMENTE PROVIDO".
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 178/183).
+Inconformado, WEBJET interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a", da CF/88, no qual alega violação dos arts. 373, inciso I, e 1.022 do CPC/2015; dos arts.186, 393, 734, 927 e 944 do CC/02; do art. 14, § 3º, inciso II, do CDC
+Como dito, o apelo nobre foi inadmitido às fls. 211/218.
+Irresignado, WEBJET manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (certidão de fl. 238).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, rejeita-se a alegada violação do art. 1.022 do CPC/2015, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+Com efeito, colhe-se dos autos que a ação indenizatória funda-se em acidente de trânsito ocorrido durante o trajeto em que a empresa área, ora recorrente, deslocou os passageiros para o hotel após atraso no voo. A omissão alegada, por sua vez, tem por objetivo afastar a responsabilidade pela remarcação no voo, sob o argumento de que o recorrente apenas cumpria as normas regentes. Dessa forma, verifica-se que a apontada omissão não possui relevância para o deslinde da controvérsia, nem mesmo é capaz de afastar a conclusão assentada pelo eg. TJ-RS.
+Salienta-se que é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação sobre os pontos relevantes para o deslinde da controvérsia. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. INDEFERIMENTO DA INICIAL POR INÉPCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ARGUMENTOS DIVORCIADOS DO CONTEXTO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição ou omissão existente na decisão recorrida, sendo, portanto, inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. A omissão que autoriza a oposição do recurso declaratório diz respeito à questão posta nos autos, relevante ao deslinde da controvérsia, e que deixou de ser analisada, o que não ocorre na espécie, na medida em que o v. aresto embargado adotou fundamentação suficiente e coerente, decidindo integralmente a controvérsia.
+3. A contradição apta a abrir a via dos embargos declaratórios é aquela interna ao decisum, existente entre a fundamentação e a conclusão do julgado ou entre premissas do próprio julgado, o que igualmente não se observa no presente caso.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 309.302/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/12/2016, DJe 19/12/2016 - grifou-se)
+PROCESSUAL CIVIL. AFRONTA AO ART. 535 DO CPC/73. OMISSÃO DE PONTO RELEVANTE. NULIDADE DO ACÓRDÃO RECORRIDO.
+1. Há ofensa ao art. 535, II, do CPC/73 quando o Tribunal a quo, a despeito da omissão existente no acórdão e da oposição de embargos declaratórios, deixa de emitir juízo de valor sobre questão desenvolvida nos autos e relevante para o deslinde da controvérsia.
+2. Agravo interno provido para se conhecer do agravo e dar parcial provimento ao recurso especial."
+(AgInt no AREsp 304.254/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 23/08/2016, DJe 20/09/2016)
+Dessa forma, o recurso também não merece prosperar quanto ao art. 14, § 3º, inciso II, do CDC e art. 393 do CC/02, porquanto a alegada excludente de responsabilidade civil não possui aptidão para alterar a conclusão assentada pela eg. Instância a quo.
+Outrossim, melhor sorte não socorre ao recurso no que diz respeito aos arts. 186 e 927 do CC/02. Sob as alegadas infringências, afirma-se que a responsabilidade civil do recorrente deveria ter sido analisada na modalidade subjetiva. Ocorre que a questão alegada pelo recorrente não foi objeto de análise pelo eg. Tribunal a quo, tampouco foi mencionada nos embargos declaratórios. Dessa forma, o apelo não merece ser conhecido devido à ausência do indispensável prequestionamento. Aplica-se, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse mesmo sentido a ementa a seguir:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREPARO. DESERÇÃO. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. OMISSÃO DO ACÓRDÃO RECORRIDO. NÃO CONFIGURAÇÃO.
+1. O recurso especial, no caso, devolve matéria que não foi objeto de debate pela Corte de origem. Ausente o prequestionamento, exigido inclusive para as questões de ordem pública, caracterizado está o óbice das Súmulas 282 e 356 do STF.
+2. Consoante dispõe o art. 535 do CPC, destinam-se os embargos de declaração a expungir do julgado embargado eventuais omissão, obscuridade ou contradição, não se caracterizando esse instrumento processual como via própria para rediscussão do mérito da causa. 3. Admite-se a intimação para complementação do preparo, quando recolhido o valor de forma insuficiente. Precedentes: AgRg no AREsp 285564/MG, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, DJe 2.8.2013; EDcl no AgRg no Ag 1385398/SP, Rel. Min. Marco Buzzi, Quarta Turma, DJe 3.10.2013. No caso, o tribunal de origem oportunizou à parte a complementação e, não sendo esta efetivada, aplicou a pena de deserção.
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 681.659/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/5/2015, DJe de 19/5/2015, grifou-se)
+Por fim, o recorrente sustenta a violação do art. 373 do CPC/2015 e do art. 944 do CC/02, ao argumento de que não restou comprovado o abalo moral sofrido pelo recorrido. A irresignação, contudo, não merece prosperar. Isso porque o eg. TJ-RS, mediante análise soberana das provas carreadas aos autos, concluiu pelo cabimento dos danos morais, conforme transcrição dos seguintes excertos do v. acórdão estadual (fl. 162):
+"Em relação aos danos morais, tópico de insurgência tanto do autor, quanto da ré, não há espaço para que a condenação seja excluída, como pretende a apelante, mas também não há fundamento para a mesma tenha seu valor aumentado. Tal se deve ao fato de ter sido fixada em montante adequado ao caso concreto e de acordo com os parâmetros usualmente aplicados pela Câmara em situações análogas.
+Nesse sentido, adequado ao contexto fático-probatório ratificar o quantum fixado na sentença, que ponderou:
+"(..) considerando as peculiaridades do caso concreto, o caráter pedagógico da medida, a condição social da vítima, a grandiosidade econômica da infratora e, também, o fato de que a parte autora foi lesada em seu bem mais relevante, a saúde e a capacidade laborativa, necessários à própria vida digna tenho por fixar o valor da indenização por dano moral em R$ 20.000,00 (vinte mil reais). (..) O acidente ocorreu em 2011 e, até o momento, a parte autora vem atravessando tratamento custoso ( financeira e psicologicamente) necessitando, ainda em 2013, após diversas sessões de fisioterapia, além do consumo de muitos medicamentos, de cirurgia (fl. 48)" (grifou-se).
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à comprovação do dano extrapatrimonial, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de 15% (quinze por cento) para 16% (dezesseis por cento) sobre o valor da condenação.
+Publique-se.
