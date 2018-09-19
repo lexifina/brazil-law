@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ADMINISTRATIVO. SISTEMA FINANCEIRO DA HABITAÇÃO. CDC. PES. VANTAGENS PESSOAIS. MULTA POR DESCUMPRIMENTO DE OBRIGAÇÃO.
+1. A aplicação do Código de Defesa do Consumidor aos contratos do Sistema Financeiro da Habitação não é a regra, já que o legislador tratou de maneira diferenciada as relações de financiamento para a aquisição da casa própria, sendo necessária a efetiva demonstração de prática abusiva pelo agente financeiro. Ademais, o contrato firmado nos autos é anterior ao advento do CDC, que não se aplica retroativamente.
+2. Apenas após a publicação da Lei nº 8.004/90, que alterou o Decreto-lei nº 2.164/84, é que ficou assegurado às instituições financeiras o direito de levarem em consideração as vantagens pessoais recebidas pelos mutuários em caráter definitivo quando do cálculo das prestações em contratos regidos pelo PES.
+3. O artigo 644 do Código de Processo Civil estabelece que a sentença relativa à obrigação de fazer ou não fazer cumpre-se de acordo com o artigo 461 do Diploma Processual Civil, cujo parágrafo 5º prevê que para a efetivação da tutela específica ou a obtenção do resultado prático equivalente, poderá o juiz, de oficio ou a requerimento, determinar as medidas necessárias, tais como a imposição de multa por tempo de atraso, busca e apreensão, remoção de pessoas e coisas, desfazimento de obras e impedimento de atividade nociva, se necessário com requisição de força policial. Sendo assim, o juízo a quo está amparado para fixar multa no caso de atraso no cumprimento da determinação de recálculo e compensação dos valores devidos.
+4. No que diz com o termo inicial da cobrança da referida multa, a súmula nº 410 do Superior Tribunal de Justiça dispõe que "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, alega a ora agravante violação dos artigos 535 do Código de Processo Civil de 1973; 9º do Decreto-Lei 2.164/1984; e 9º, § 1º, da Lei 8.004/90, além de divergência jurisprudencial.
+Merece reforma a decisão agravada, que foi publicada antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Isso porque, embora o Tribunal de origem tenha se manifestado de forma suficiente e motivada sobre o tema, o que afasta a apontada violação ao artigo 535 do Código de Processo Civil de 1973, o entendimento lá aplicado diverge do desta Corte Superior, no sentido de que "a aplicação do Plano de Equivalência Salarial - PES autoriza o reajuste das mensalidades com base não apenas no aumento do salário da categoria profissional, mas também com fundamento no aumento individualmente concedido ao mutuário" (AgRg no REsp 1181206/RS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 15.4.2010, DJe 7.5.2010), independentemente de a contratação ser anterior à Lei 8.004/1990, situação destes autos, em que o mútuo foi celebrado em 3.8.1989 (acórdão, fl. 542/e-STJ). É o que se depreende do esclarecedor voto do Ministra Eliana Calmon nos autos do REsp 387.628/RS, SEGUNDA TURMA, julgado em 15.4.2003, DJ 19.5.2003, p. 180:
+Na hipótese dos autos, o contrato foi firmado sob a égide do Decreto-Lei 2.164, de 19.09.84, tendo sido afastada a aplicação da Lei 8.004/90 (que deu nova redação ao art. 9º do mencionado decreto-lei), porque só entrou em vigor após a contratação que é de 01.08.86.
+Na sua redação original, dizia o caput do art. 9º:
+Art 9º Os contratos para aquisição de moradia própria, através do SFH, estabelecerão que, a partir do ano de 1985, o reajuste das prestações neles previsto corresponderá ao mesmo percentual e periodicidade do aumento de salário da categoria profissional a que pertencer o adquirente.
+Com a nova redação, o reajuste das prestações pela equivalência salarial, passou a ter a seguinte normatização:
+Art. 9º As prestações mensais dos contratos de financiamento firmados no âmbito do SFH, vinculados ao Plano de Equivalência Salarial por Categoria Profissional (PES/CP) serão reajustadas no mês seguinte ao em que ocorrer a data-base da categoria profissional do mutuário utilizando-se a variação do Índice de Preços ao Consumidor (IPC) apurada nas respectivas datas-base.
+§ 1º Nas datas-base o reajuste das prestações contemplará também o percentual relativo ao ganho real de salário.
+§ 2º As prestações relativas a contratos vinculados ao Plano de Equivalência Salarial Plena serão reajustadas no mês seguinte ao dos reajustes salariais, inclusive os de caráter automático, complementar e compensatórios, e as antecipações a qualquer título.
+Para os contratos firmados após a Lei 8.004/90, tive oportunidade de firmar posição, no julgamento do REsp 150.426/CE, no sentido de que as prestações deveriam ser majoradas não apenas quando houvesse o aumento dos salários da categoria, mas também quando houvesse aumento individualmente concedido ao mutuário.
+Mas, diferentemente, em relação aos contratos firmados sob a égide da redação original do art. 9º, do Decreto-Lei 2.164/84, vinha me posicionando de forma diferente, quando compunha o Tribunal Regional Federal da 1ª Região. Na época, manifestei-me no mesmo sentido do Tribunal recorrido, por considerar que as vantagens pessoais e as decorrentes de promoção não correspondiam a acréscimos de caráter permanente e não eram repassadas para a categoria profissional como um todo.
+A jurisprudência da Primeira Seção é pacífica quanto ao tema e dá guarida à pretensão do recorrente. Vejamos os precedentes:
+SFH. PLANO DE EQUIVALÊNCIA SALARIAL. REAJUSTE DAS PRESTAÇÕES. ILEGITIMIDADE PASSIVA DA UNIÃO. NULIDADE DO ACÓRDÃO. INOCORRÊNCIA. VANTAGENS PESSOAIS. INCLUSÃO. CORREÇÃO PELA TR. IMPOSSIBILIDADE. PRECEDENTES.
+1. Legitimidade passiva da União declarada de ofício (CPC, art. 267, VI e § 3º).
+2. Rejeitada a preliminar de nulidade do acórdão porque todas as questões suscitadas foram devidamente apreciadas, ainda que de forma sucinta.
+3. Consoante iterativa jurisprudência desta Corte, as vantagens pessoais incorporadas definitivamente aos vencimentos do servidor devem ser computadas nos reajustes das prestações dos contratos de financiamento pelo SFH vinculados ao PES.
+4. Inaplicável a TR como fator de correção monetária Entendimento consagrado nesta Corte na esteira de orientação traçada pelo STF.
+5. Recurso especial conhecido e parcialmente provido.
+(REsp. 209.466/BA; Rel. Peçanha Martins; 2ª Turma; unânime; DJ 17/06/2002, pág. 231)
+SFH - ILEGITIMIDADE DA UNIÃO - MUTUÁRIOS - VANTAGENS PESSOAIS - INCLUSÃO - EQUIVALÊNCIA - PRESTAÇÕES.
+A União é parte ilegítima para figurar no pólo passivo nas ações propostas por mutuários do Sistema Financeiro da Habitação, visando a revisão do critério de reajuste de prestações da casa própria.
+As vantagens pessoais, incorporadas definitivamente ao salário ou vencimento do mutuário, excluídas as gratificações esporádicas, incluem-se na verificação da equivalência para a fixação das parcelas.
+Recursos providos.
+(REsp 250.462/BA; Rel. Min. Garcia Vieira; 1ª Turma; unânime; DJ 14/08/2000, pág. 150)
+Assim, estando a questão pacificada no âmbito da Seção, rendo-me, ressalvando o meu entendimento pessoal.
+No mesmo sentido, confiram-se:
+RECURSO ESPECIAL. AGRAVO REGIMENTAL. NOVA PERÍCIA DETERMINADA COM DOCUMENTOS AUSENTES NA PERÍCIA ANTERIOR. ALTERAÇÃO DESTA CONCLUSÃO DEMANDARIA REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1 - A jurisprudência desta Corte tem entendimento consolidado de que as parcelas dos contratos firmados com reajuste pelo "Plano de Equivalência Salarial" - PES, levam em consideração as vantagens particulares incorporadas.
+2 - A Corte local entendeu necessária nova perícia, com base nos contracheques da agravante. Alterar esta conclusão demanda reexame do conteúdo fático-probatório.
+3 - Agravo regimental a que se nega provimento.
+(AgRg no REsp 1173727/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2011, DJe 12/04/2011)
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. PLANO DE EQUIVALÊNCIA SALARIAL. VANTAGENS PESSOAIS DE CARÁTER PERMANENTE. INCLUSÃO. REAJUSTE.
+I. Conforme o entendimento desta Superior Corte, as vantagens pessoais incorporadas definitivamente, ao salário, vencimento ou proventos de aposentadoria do mutuário devem ser incluídas no reajuste das prestações dos contratos de financiamento regidos pelas normas do SFH, vinculados ao PES.
+II. Agravo desprovido.
+(AgRg no REsp 1175016/PR, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 22/03/2011, DJe 28/03/2011)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de adequar o acórdão recorrido à jurisprudência desta Corte, determinando o retorno dos autos à instância de origem para que se inclua no cálculo das prestações do contrato de financiamento habitacional as vantagens pessoais incorporadas definitivamente no salário do mutuário.
+Intimem-se.
