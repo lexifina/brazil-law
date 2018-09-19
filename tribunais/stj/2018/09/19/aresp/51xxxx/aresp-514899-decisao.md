@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CERVEJARIA KRILL LTDA contra decisão exarada pela il. 3ª Vice-Presidência do eg. Tribunal de Justiça do Estado de Santa Catarina (TJ-SC), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação de nulidade de ato jurídico proposta por [NOME] em desfavor de CERVEJARIA KRILL LTDA e CONSTRTORA VALE DO PIQUIRI LTDA.
+O il. Magistrado julgou procedente o pedido (sentença às fls. 288/305).
+Diante disso, CERVEJARIA KRILL LTDA e CONSTRUTORA VALE DO PIQUIRI LTDA interpuseram os respectivos recursos de apelação, os quais foram desprovidos a pelo eg. TJ-SC, nos termos do v. acórdão, assim ementado (fl. 412):
+"APENAÇÕES CÍVEIS. AÇÃO DE NULIDADE DE ATO JURÍDICO. SENTENÇA DE PROCEDÊNCIA DO PEDIDO. RECURSO DA PRIMEIRA RE. VENDA DE IMÓVEL PELO MARIDO. AÇÃO DE NULIDADE MOVIDA PELA ESPOSA EM RAZÃO DA AUSÊNCIA DO SEU CONSENTIMENTO. MATRIMÔNIO CELEBRADO PELO REGIME DA COMUNHÃO PARCIAL DE BENS, SOB A ÉGIDE DO CÓDIGO CIVIL DE 1916. NECESSÁRIA OUTORGA UXÓRIA PARA A VALIDAÇÃO DO NEGÓCIO JURÍDICO DE TRANSFERÊNCIA DA PROPRIEDADE IMÓVEL. INTELIGÊNCIA DO ART. 2.039 DO CÓDIGO CIVIL DE 2002 E DO ART. 235 DO CÓDIGO CIVIL DE 1916. FALTA DE REQUISITO ESSENCIAL QUE IMPÕE O RECONHECIMENTO DA INVALIDADE DO NEGÓCIO JUR DICO. ADEMAIS, INDÍCIOS DE SIMULAÇÃO, A COADUNAR A NULIDADE. RECURSO CONHECIDO E DESPROVIDO.
+Segundo o art. 2.039 do Código Civil de 2002, "o regime de bens nos casamentos celebrados na vigência do Código Civil anterior, Lei no 3.071, de 1º de janeiro de 1916, é o por ele estabelecido".
+Nos termos do art. 235 do Código Civil de 1916, "o marido não pode, sem consentimento da mulher, qualquer que seja o regime de bens: I. Alienar, hipotecar ou gravar de ônus real os bens imóveis, ou seus direitos reais sobre imóveis alheios".
+Sendo a outorga uxória imprescindível para a transmissão da propriedade imóvel ou a constituição de direito real no Registro ImobiIirio, não observada a exigência legal, imperioso o reconhecimento da invalidade do negócio jurídico.
+APELO DA SEGUNDA REQUERIDA. APRESENTAÇÃO DE CONTESTAÇÃO. RESISTÊNCIA A PRETENSÃO INICIAL. DEVER DE RESPONDER PELA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. RECURSO CONHECIDO E DESPROVIDO.
+Ainda que a parte não tenha sucumbido do pedido, bem como não tenha sido a principal causadora do ajuizamento da demanda, se apresentou resistência a lide na forma de contestação, formou o litígio, devendo responder pelos ônus sucumbenciais acaso a sua irresignação não seja acolhida".
+Inconformado, CERVEJARIA KRILL LTDA interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, ofensa dos arts. 129, 132, 136, 235, inciso I, e 530 do CC/02.
+Como dito, o apelo nobre foi inadmitido às fls. 494/495.
+Irresignado, CERVEJARIA KRILL LTDA manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 508/519).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No apelo nobre que pretende trânsito, sustenta o recorrente violação dos arts. 129, 132, 136, 235, inciso I, e 530 do CC/02, ao argumento de que o contrato firmado entre as partes seria válida, uma vez que teria natureza de promessa de compra e venda e, por conseguinte, seria desnecessária a outorga uxória.
+O recurso, no entanto, não merece prosperar.
+Isso porque o eg. TJ-SC concluiu pela anulação do negócio jurídico sob os seguintes fundamentos: (i) ausência de outorga uxória; (ii) existência de simulação; e (iii) falta de assinatura de um dos sócios da CONSTRUTORA VALE DO PIQUIRI LTDA , o que seria necessário à luz do estatuto social da empresa. À título elucidativo, colacionam-se os seguintes excertos do v. acórdão estadual (fls. 426/429):
+"Todavia, no caso sub judice, como visto anteriormente, a prova testemunhal é inconclusiva, não se podendo afirmar com certeza que a autora tinha pleno conhecimento e anuiu inequivocadamente a respeito da realização do negócio jurídico de venda do imóvel.
+Giza-se que, não se desconhece do entendimento firmado no Superior Tribunal de Justiça, sufragado por esta Corte Estadual, no sentido de que a promessa de compra e venda, por gerar apenas obrigação de fazer, de caráter pessoal, não exige, para sua validade ou eficácia, a outorga da mulher do promitente vendedor, sendo que, não cumprida a obrigação assumida por ele (obtenção de fato de terceiro, isto é, a outorga uxória, indispensável ao negócio jurídico definitivo que é a venda do imóvel), reverter-se-á em perdas e danos.
+(..)
+Entretanto, o mesmo Tribunal explica, nos citados precedentes, que essa outorga é imprescindivel para a transmissão da propriedade ou constituição do direito real no Registro Imobiliário, por força de exigência legal, seja do Código Civil revogado, seja do atual Cânone Substantivo Civil, nos dispositivos legais anteriormente expedidos.
+Nesse jaez, torna-se imperioso o reconhecimento da nulidade do negócio jurídico em foco.
+(..)
+Portanto, em face da ausência da outorga marital, indispensável à transmissão da propriedade imóvel, inválido é o negócio jurídico que culminou com a venda do bem em questão sem a anuência da autora.
+No que diz respeito à simulação, de fato, não soa verossímel que uma empresa dê em comodato um imóvel, tendo em vista que referida figura jurídica se trata do empréstimo gratuito de coisas não fungiveis (art. 579 do CC), não sendo críveI, desse modo, que a empresa, que visa precipuamente o lucro, não aufira vantagem alguma na realização de um negócio.
+(..)
+Outrossim, a compra e venda entre as requeridas se deu pelo módico valor de R$ 30.000,00 (trinta mil reais), não tendo a primeira ré, Cervejaria Krill, comprovado o quanto pagou pelo imóvel ao marido da autora, embora tenha admitido que adquiriu o bem do mesmo, tendo apenas a transferência sido feita diretamente pela segunda demandada.
+E incontroverso que "movimentações vultuosas como a compra de imóvel acabam aparecendo em extrato bancario e devem ser declarados para a Receita Federal, sob o risco de acusação de sonegação" (trecho extraido da sentença, fi. 253). Diante desse contexto, exsurge outro elemento a indicar a ocorrência de simulação, visto que o não pagamento pela compra e venda aponta que o negócio visava, realmente, a garantia de entrega de mercadorias.
+Não bastasse, à validade do negócio jurídico, nos termos do estatuto social, era essencial a assinatura dos dois sócios da Construtora Vale do Piquiri; porém, um deles, precavidamente, exigiu a outorga marital e não assinou a transferência do imóvel para a Cervejaria enquanto não implementada a condição de validade e eficácia do negócio jurídico de transmissão da propriedade imóvel.
+Referida circunstância é comprovada, além dos depoimentos testemunhais, pela certidão de fi. 140, lavrada pelo Oficial do Cartório de Registro de Imóveis, Logo, resta derruida a veracidade da escritura pública de compra e venda descrita na certidão de f . 15.
+De todo modo, considerando-se que a ausência de outorga marital é vicio suficiente ao reconhecimento da invalidade do negócio jurídico, torna-se prescindível tecer maiores considerações acerca da simulação" (grifou-se).
+Por seu turno, da leitura das razões posta no apelo nobre, infere-se que o recorrente não impugnou os fundamentos relativos à existência de simulação e ausência de assinatura de um dos sócios da CONSTRUTORA VALE DO PIQUIRI LTDA, limitando-se a arguir no sentido de que não seria necessária a outorga uxória. Nesse cenário, havendo fundamento autônomo e suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula n. 283/STF, aplicada por analogia. Nessa mesma linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PRETENSÃO DE COMPLEMENTAÇÃO DO LAUDO PERICIAL E JUNTADA DE DOCUMENTOS. NECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA COM O INTUITO DE ESCLARECER QUESTÕES ATINENTES ÀS AMORTIZAÇÕES REALIZADAS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF.
+(..)
+2. É inadmissível o recurso especial que não impugna os fundamentos do acórdão recorrido, suficientes, por si só, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283/STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 451.336/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 08/06/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM" RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1035112/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/05/2017, DJe 12/05/2017 - grifou-se)
+Destaca-se que a incidência da Súmula 283/STF também impede a análise do apelo nobre pela alínea "c" do permissivo constitucional.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
