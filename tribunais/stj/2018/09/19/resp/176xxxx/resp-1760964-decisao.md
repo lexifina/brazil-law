@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIÃO, em 04/12/2017, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"ADMINISTRATIVO, CIVIL E PROCESSUAL CIVIL. APELAÇÃO. INDENIZAÇÃO. MILITAR. RECONHECIMENTO DA CONDIÇÃO DE ANISTIADO POLÍTICO. AUSÊNCIA DE MOTIVAÇÃO POLÍTICA EM ATO DE DESLIGAMENTO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA ANTE O INDEFERIMENTO DE PROVA TESTEMUNHAL. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. APELAÇÃO NÃO PROVIDA.
+1. Apelação interposta contra sentença que julgou improcedentes os pedidos autorais de que seja declarado anistiado político, nos termos da Lei 10.559/2002, seja readmitido ou promovido na inatividade, bem como reparação econômica de caráter indenizatório, em prestação única ou mensal.
+2. Pretende o autor o reconhecimento da condição de anistiado político baseado na Lei nº 10.559/2002, alegando que seu desligamento do serviço militar na Marinha do Brasil, decorreu de perseguição política, requerendo reparação econômica de caráter indenizatório.
+3. Para que reste configurada a obrigação de indenizar, faz-se necessária a conjugação dos seguintes elementos: a) a presença do fato lesivo, b) a verificação do dano, c) o nexo de causalidade entre o dano e a ação/omissão estatal.
+4. Não basta ter havido o desligamento do serviço público no período do regime de exceção para que sejam usufruídos os auspícios da Lei de Anistia, mas que haja nexo de causalidade entre o fato narrado e qualquer ato proveniente da ditadura militar.
+5. O reconhecimento da condição de anistiado depende da comprovação de que houve efetivo prejuízo ao cidadão por atos de exceção, por motivação exclusivamente política, responsabilizando-se a União a reparar economicamente o prejudicado.
+6. O conjunto documental trazido aos autos não é suficiente para reconhecer a condição de anistiado político.
+7. A motivação presente no ato de desligamento do apelante se deu pautado na observância da discricionariedade inerente aos atos praticados pela Administração Pública Militar, sem que tais atos viessem a infringir o Princípio da Legalidade, norteador de toda e qualquer decisão administrativa.
+8. O juiz pode indeferir as provas que entender desnecessárias à instrução do processo, as diligências inúteis ou as meramente protelatórias. Decorrência do princípio do livre convencimento do juiz, o qual, sendo destinatário da prova, é o responsável por aferir sobre sua necessidade ou não de realização.
+9. Manutenção da sentença singular que julgou o pleito autoral improcedente, diante da não comprovação de que o autor ostenta a condição de anistiado político.
+10. Apelação improvida" (fls. 139/140e).
+Opostos Embargos de Declaração, foram rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. NÃO CARACTERIZADAS AS HIPÓTESES LEGAIS (ART. 1.022 DO NOVO CPC). INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU CORREÇÃO DE ERRO MATERIAL. NÃO PROVIMENTO.
+1. Cabem Embargos Declaratórios em caso de obscuridade, contradição, omissão ou erro material. (CPC, art. 1.022).
+2. O acórdão combatido foi devidamente fundamentado com os motivos pelos quais manteve-se o entendimento do Magistrado singular em sua sentença, no que concerne às provas que seriam suficientes para que fosse julgado o mérito da demanda.
+3. O acórdão embargado trouxe preceitos legais, bem como entendimentos jurisprudenciais que esclarecem caber ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito, bem como que não há cerceamento de defesa quando, em decisão adequadamente fundamentada, o juiz indefere a produção de provas, seja ela testemunhal, pericial ou documental.
+4. As questões trazidas pelo embargante visam apenas rediscutir matéria já apreciada e devidamente fundamentada.
+5. Não configura omissão do julgado a ausência de pronunciamento expresso da Turma acerca dos dispositivos legais mencionados pelas partes ou de meros desdobramentos da tese jurídica levantada, quando se verifica que a decisão atacada enfrentou com precisão e clareza a questão abordada, ou seja, os fundamentos que, de forma autônoma, são passíveis de levar à reforma da decisão impugnada.
+6. Não está caracterizada nenhuma das hipóteses legais previstas para interposição de embargos declaratórios (CPC, art. 1.022), descabendo, assim, a utilização de dito recurso para modificação do julgado.
+7. Embargos de declaração não providos" (fl. 181e).
+Alega-se, nas razões do Recurso Especial, ofensa ao art. 85, § 3º, II do CPC/2015. Nesse sentido, assevera que:
+"3. DOS HONORÁRIOS ADVOCATÍCIOS de sucumbência - lei do tempo da sentença
+Cuida-se de ação de conhecimento, que somente foi julgada agora, após a vigência do novo CPC, tanto a sentença, como acórdão. O resultado foi a improcedência e a condenação em favor da União em honorários de sucumbência, no valor fixo de R$ 1.000,00.
+Ora, conquanto a sentença (no caso, o acórdão que julgou a improcedência da rescisória) tenha sido na vigência do novo CPC, é nele que deve ser pautado a fixação dos honorários, deve prevalecer quanto esse capítulo as disposições do CPC de 2015!
+É que o CPC novo de 2015 prevê em seu artigo 14 (art. 1211 do CPC de 73) que a legislação processual tem aplicação imediata no tempo.
+ ..
+DA OMISSÃO NA CONDENAÇÃO EM HONORÁRIOS: APLICAÇÃO DO ART 85, § 3º DO NCPC
+Do compulsar dos autos, depreende-se que o referido acórdão, embora tenha tecido considerações acerca da verba honorária, restou omisso no tocante à correta condenação da parte autora ao pagamento de honorários advocatícios sucumbenciais.
+A esse respeito, imperioso registrar que o novo Código de Processo Civil, em redação semelhante à do dispositivo acima transcrito, também garantiu, no seu art. 85, que a parte vencida pagará ao Advogado da parte vencedora os honorários advocatícios, e, ainda, fixou, no §3º, os percentuais aplicáveis às causas em que a Fazenda Pública for parte.
+ ..
+Ora, o acórdão deveria ter se pautado no artigo 85. § 3º, do NCPC, que prevê um limite mínimo de fixação de honorários, no percentual mínimo de 10%, especialmente quando se tem em conta que a parte adversa pretendia um ganho econômico acaso tivesse sido vencedor da ação. Nesse caso, é patente e peremptória a aplicação do art. 85, § 3º, I, na medida em que valor da causa é inferior a 200 salários mínimos, para que se fixe os honorários nos percentuais entre 10 e 20%.
+Assim, é possível projetar o valor que o autor pretendia perceber, em fase de liquidação, para em cimadele, aplicar os percentuais de honorários a que alude o art. 85, § 3º, do NCPC. Acaso, por exemplo, inferior a 200 salários mínimos, devem ser fixados os honorários nos percentuais entre 10 e 20% e assim, sucessivamente" (fls. 219/222e).
+Requer, ao final, "seja conhecido e provido presente Recurso Especial para reformar o acórdão recorrido, com a consequente reforma do acórdão embargado, de forma que haja majoração da condenação em honorários na forma dos dispositivos legais acima citados" (fl.223e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 248/249e).
+Sem razão a parte recorrente.
+Como se observa dos autos, o conteúdo normativo dos artigos supostamente malferidos e a tese a eles relacionadas, não foram objeto de discussão, e, apesar da oposição de Embargos de Declaração, não serviram de fundamento à conclusão adotada pelo Tribunal a quo. Desatendido, portanto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+Isso porque, para que se configure o prequestionamento, nos termos do regramento vigente à data da interposição do Recurso Especial, não basta que a parte recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+A propósito:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. NOVO CPC. NÃO APLICAÇÃO AO CASO DOS AUTOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. MULTA APLICADA POR TRIBUNAL DE CONTAS ESTADUAL A GESTOR MUNICIPAL. RECEITA DO ENTE FEDERATIVO A QUE SE VINCULA O ÓRGÃO SANCIONADOR. LEGITIMIDADE DO ESTADO PARA AJUIZAR A COBRANÇA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVADA.
+(..)
+3. O insurgente alegou violação do art. 38 da Lei 8.666/93. No entanto, percebe-se que o Tribunal de origem não emitiu juízo de valor acerca do referido dispositivo legal.
+4. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+(..)
+8. Agravo Interno não provido" (STJ, AgInt no AREsp 926.189/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/10/2016).
+Desse modo, em não havendo sido apreciada as alegações suscitadas, mesmo após a parte ter oposto Embargos Declaratórios, no Tribunal de origem, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 1.022 do CPC/2015, e, não, insistir na tese recursal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 66, 67 E 71 DA CLT. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. APLICAÇÃO DA REGRA PREVISTA NO ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO. INVIABILIDADE. REQUISITOS LEGAIS NÃO PREENCHIDOS. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS PÚBLICOS. FUNDAMENTAÇÃO CONSTITUCIONAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Extrai-se do acórdão recorrido que os dispositivos legais apontados como violados e as matérias a eles correlatas não foram objeto de apreciação pelo Tribunal de origem, nem sequer implicitamente. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado. Aplicação do óbice fundado na Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça possui precedente no sentido de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+3. Ainda que superada essa premissa, verifica-se que o acórdão recorrido está assentado em fundamento constitucional, circunstância que inviabiliza a análise da controvérsia na via especial, sob pena de usurpar-se a competência do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1631358/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
