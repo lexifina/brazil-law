@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela EMPRESA HOTELEIRA MABU LTDA. contra decisão por mim proferida, constante às e-STJ fls. 1.121/1.125, em dei parcial provimento ao recurso especial, apenas para afastar a multa processual aplicada com base no art. 538, parágrafo único, do CPC/1973.
+Nas suas razões (e-STJ fls. 1.129/1.135), a empresa sustenta que a decisão ora embargada incorreu em erro de fato e material. Para tanto, aduz, em resumo, que o acórdão recorrido foi modificado em juízo de conformidade com precedente obrigatório do Supremo Tribunal Federal, o que fulmina o objeto do recurso especial.
+Transcorreu in albis o prazo para a apresentação de impugnação (e-STJ fl. 1.184).
+Passo a decidir.
+Assiste razão à embargante.
+Com efeito, o recurso especial da empresa, admitido pelo Tribunal de origem em 09/08/2010 (e-STJ fl. 1.091) e enviado para esta Corte em 30/11/2011 (e-STJ fl. 1.102), tem por objetivo anular o acórdão recorrido, por vício de fundamentação (arts. 128, 460 e 535 do CPC), ou, subsidiariamente, reformá-lo na parte em que determinou a aplicação da alíquota de IPTU prevista na Lei municipal n. 2.909/1966, bem como de afastar a multa processual imposta com fulcro no art. 538, parágrafo único, do CPC/1973.
+Ocorre que, em 20/02/2018, esse julgado estadual veio a ser modificado em sede de conformação com precedente formado no julgamento do RE 602.347, processado sob o rito da repercussão geral, tendo o TJ/PR concluído por "exercer o juízo de retratação, com a modificação da decisão, para que seja aplicada a alíquota mínima, nos termos da fundamentação e nos termos do entendimento da Suprema Corte" (e-STJ fl. 1.168).
+Esse fato superveniente, todavia, não foi examinado pela decisão embargada, o que revela a necessidade de sua integração.
+Assim, ponderados os acontecimentos processuais acima identificados, é de se reconhecer a perda do objeto do presente recurso especial, todavia, somente na parte relativa às alegações relacionadas com a alíquota de IPTU a ser aplicada.
+Isso porque, quando do juízo de retratação, o tribunal local expressamente assentou que "a devolução da matéria é referente apenas à alíquota a ser utilizada, assunto que foi discutido a partir da f. 931, da decisão proferida por esta Corte".
+Dessa forma, quanto à multa processual aplicada com fundamento no art. 538, parágrafo único, do CPC/1973, subsiste utilidade ao apelo nobre, mormente porque o juízo de conformação não afastou expressamente referida penalidade.
+Ante o exposto, ACOLHO os embargos de declaração, com efeitos modificativos, para JULGAR PREJUDICADO o recurso especial na parte relacionada com a alíquota do IPTU a ser aplicada, mantido o provimento do recurso especial na parte em que afasta a multa imposta com base no art. 538, parágrafo único, do CPC.
+Publique-se. Intimem-se.
