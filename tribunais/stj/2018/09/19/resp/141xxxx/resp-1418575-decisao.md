@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Paraná, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do referido Estado, assim ementado (fl. 737):
+AGRAVO DE INSTRUMENTO. AÇÃO DE DESAPROPRIAÇÃO. PRECATÓRIO. JUROS MORATÓRIOS. TERMO INICIAL. REFORMA DO DECISUM PARA ADEQUÁ-LO AO DISPOSTO NO ART. 15-B DO DECRETO-LEI Nº 3.365/41 (A PARTIR DE 1.º DE JANEIRO DO EXERCÍCIO SEGUINTE ÀQUELE EM QUE O PAGAMENTO DEVERIA SER FEITO). MANTIDA, NO ENTANTO, A ATUALIZAÇÃO DO CALCULO ATÉ 1o DE JULHO DE 1994, DATA DA REQUISIÇÃO DO PRECATÓRIO. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios pelas partes, ambos foram rejeitados.
+Irresignada, a parte recorrente aponta violação ao art. 15-B do Decreto-Lei nº 3.365/41. Para tanto, sustenta a "impossibilidade de incidência de juros de mora também no período compreendido entre a elaboração dos cálculos de liquidação e a apresentação do precatório requisitório pelo Poder judiciário à entidade devedora" (fl. 855), porquanto o termo inicial de sua incidência é o dia 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ter sido realizado.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, razão não assiste à parte recorrente.
+Ao solucionar a controvérsia, o Tribunal a quo asseverou (fls. 741/742):
+No caso dos autos, o precatório foi apresentado em maio de 1994, e deveria ter sido pago até dezembro de 1995. No entanto, somente foi pago em janeiro de 1996. Assim, os juros de mora devem incidir sobre esse último mês.
+Porém, é importante ressaltar, que se o precatório foi protocolado em maio de 1994, e o agravante tinha até dezembro de 1995 para efetuar o pagamento é somente neste período do prazo constitucional que não incidem os juros de mora, o que está bem claro do art. 15-B do Decreto-lei 3365/4 que diz "1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito", e não desde 1993, como quer o agravante.
+ ..
+Pelas razões expostas, voto no sentido de dar provimento parcial ao recurso para manter a atualização do cálculo até 1º de julho de 1994, quando requisitado o precatório, reconhecendo, no entanto, que os juros de mora devem incidir a partir de 1º de janeiro de 1996, nos termos do voto.
+Nada obstante, a parte recorrente sustenta a "impossibilidade de incidência de juros de mora também no período compreendido entre a elaboração dos cálculos de liquidação e a apresentação do precatório requisitório pelo Poder judiciário à entidade devedora" (fl. 855), porquanto o termo inicial de sua incidência é o dia 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ter sido realizado
+Ora, do cotejo entre o que restou decidido no acórdão recorrido e as razões recursais não se verifica dissidência, pois o decisum guerreado, ao estipular a incidência de juros de mora a partir do dia 1º de janeiro do ano seguinte àquele em que deveria ter sido pago, harmoniza-se com a tese apresentada pelo Estado do Paraná em seu recurso especial.
+Daí, resta patente a falta de interesse recursal do ente estatal.
+Ante o exposto, nego seguimento ao recurso especial do Estado do Paraná.
+Publique-se.
