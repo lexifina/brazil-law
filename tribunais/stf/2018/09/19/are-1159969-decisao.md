@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS CONTRARIADOS. SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CRIMINAL.
+          PEDIDO DE RESPOSTA (LEI N.º 13.188/2015).
+          Admitido o recurso interposto pela demandante como apelação criminal, diante de prestação jurisdicional negativa pelo Juízo sentenciante, o apelo não vai conhecido, por intempestivo.
+          APELO NÃO CONHECIDO”.
+    2. Inadmitiu-se o recurso extraordinário pela incidência da Súmula 281 do Supremo Tribunal Federal.
+    3. A agravante alega que, “a se manter intacto o decisum recorrido, este implica na desconsideração no atinente ao todo processado e decidido na instância singular em termos processuais, mas reforça a aplicação da Lei de Imprensa, n. 5.250/67, importando em negativa de vigência da Lei n. 13.188/15, ao Código de Processo Civil e especialmente ao Diploma Constitucional de 1988” (sic, fl. 145).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à agravante.
+    5. É deficiente o agravo interposto, pois ausente indicação do dispositivo constitucional alegadamente afrontado, a atrair a incidência da Súmula 284 deste Supremo Tribunal, inviabilizando-se o processamento do recurso. Confiram-se, por exemplo, os julgados a seguir:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ausência de indicação dos dispositivos constitucionais supostamente violados. Deficiência de fundamentação. Precedentes. 1. O recorrente não indicou, no recurso extraordinário, quais normas constitucionais que, porventura, teriam sido violadas no acórdão recorrido. Incidência da Súmula nº 284/STF. 2. Agravo regimental a que se nega provimento” (ARE n. 1.141.854-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 12.9.2018).
+    “EMENTA DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS SUPOSTAMENTE VIOLADOS. SÚMULA Nº 284 DO STF. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE CONTRAMINUTA. IRRELEVÂNCIA. PRECEDENTES. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Ausente a indicação de dispositivo constitucional a amparar a insurgência do recorrente. Incidência da Súmula nº 284/STF. 2. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. Precedentes: ARE 964.347-AgR, Redator p/ Acórdão Min. Roberto Barroso, 1ª Turma, DJe 25.10.2016, ARE 971774 AgR, Red. p/ Acórdão Min. Edson Fachin, 1ª Turma, DJe 19.10.2016. 3. Agravo regimental conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa” (ARE n. 972.999-AgR, Relator o Ministro Marco Aurélio, Redatora para o acórdão a Ministra Rosa Weber, Primeira Turma, DJe 25.4.2017).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSTITIVO CONSTITUCIONAL SUPOSTAMENTE VIOLADO. INSIGNIFICÂNCIA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL DESPROVIDO. 1. Inviável o conhecimento do recurso extraordinário que não indica dispositivo constitucional supostamente violado. 2. O STF já decidiu que a questão do reconhecimento de atipicidade de conduta por incidência do princípio da insignificância não possui repercussão geral, pois diz respeito à matéria infraconstitucional. (AI 747.522, Rel. Min. Cezar Peluso, Pleno, DJe 25.09.2009) 3. Agravo regimental a que se nega provimento” (ARE n. 993.348-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 21.9.2017).
+    Nada há a prover quanto às alegações da agravante.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário com agravo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
