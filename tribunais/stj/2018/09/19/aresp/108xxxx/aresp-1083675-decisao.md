@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO PAULO contra decisão que inadmitiu recurso especial fundado na alínea "a" do permissivo constitucional, que desafia acórdão do TJ/SP, assim ementado:
+APELAÇÃO - Mandado de Segurança - ITBI - Base de cálculo - Valor venal do imóvel ou o valor da transação, prevalecendo o que for maior - Aquisição do terreno com posterior edificação - Não incidência do tributo em relação as benfeitorias realizadas em momento posterior à aquisição - Súmulas 110 e 470 do STF - Cobrança de juros, multa e correção monetária indevidas - Ocorrência do fato gerador com o registro de transmissão do bem imóvel - Recurso não provido.
+Nas razões do especial alega violação dos arts. 35 do CTN e 1.245 do CC/2002, insurgindo-se contra a base de cálculo para incidência do ITBI, sob o argumento de que a celebração do "instrumento particular de transação" não teve o condão de transferir a propriedade do imóvel.
+Com contrarrazões ao recurso especial, este último não foi admitido ante a incidência do óbice disposto na Súmula 83 do STJ, fundamento com o qual não concorda o agravante.
+Contraminuta foi apresentada pela parte agravada.
+O Ministério Público Federal opinou pelo prosseguimento do trâmite processual, deixando de se manifestar sobre o mérito do recurso, ante a ausência de interesse público que o justifique.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de mandado de segurança impetrado pela agravada, em que objetiva o recebimento da escritura definitiva de terreno em que construído empreendimento imobiliário pelo valor de sua aquisição, já que afirma ser este superior ao valor venal fiscal.
+Em primeiro grau de jurisdição, o Juízo da 3ª Vara da Fazenda Pública de São Paulo concedeu a segurança, determinando que a base de cálculo do ITBI seria o valor de venda do terreno.
+Irresignada, a Municipalidade interpôs recurso de apelação, que foi desprovido pelo TJ/SP. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 194/197):
+Cinge-se a controvérsia acerca do valor de base de cálculo para fins de recolhimento do ITBI - imposto sobre a transmissão de bens imóveis, tendo em vista a pretensão da Apelante, que requer a cobrança do referido imposto tendo como base de cálculo o valor do terreno e o valor da construção posteriormente edificada.
+Com efeito, nos termos do artigo 38 do Código Tributário Nacional a base de cálculo do ITBI é o valor venal do bem, nesse mesmo sentido é a redação do artigo 7º da Lei Municipal 11.154/91.
+Considerar-se "valor venal" o valor correspondente ao preço à vista que o imóvel obteria se colocado à venda no mercado imobiliário. Portanto, a base de cálculo do ITBI é o valor venal adotado pela autoridade fazendária, do qual o contribuinte tem prévio conhecimento, ou o valor da transação, prevalecendo o que for maior.
+A respeito, destaca-se entendimento jurisprudencial desse Egrégio Tribunal de Justiça sufragado nos seguintes arestos:
+(..)
+Conforme se depreende pelo documento de escritura de compra e venda juntado às fls. 60/71, a Apelante adquiriu um terreno da antiga proprietária Terra Alta Empreendimentos S/A, por um valor de R$ 4.000.000,00 (quatro milhões de reais), e, por esta razão quer receber escritura definitiva da metade ideal do terreno, pelo valor da aquisição, vez que superior ao valor venal do imóvel.
+No entanto, pretende a Apelante recolher o tributo tendo como base de cálculo o valor do terreno e o valor da construção que foi posteriormente edificada.
+Conforme explicitado acima a base de cálculo do ITBI é o valor venal dos bens ou direitos transmitidos.
+Assim, se o executado adquirir um terreno e nele construir uma obra, com recursos próprios, não há que se falar em incidência do ITBI, uma vez que tal imposto somente deve incidir sobre aquilo que foi efetivamente adquirido quando da alienação, não podendo ser inclusas benfeitorias que não existiam no momento.
+É essa a orientação das Súmulas 110 e 470 do STF: (..)
+Insta salientar, nos termos do artigo 156, inciso II, da Constituição Federal, o imposto de transmissão de bens imóveis inter vivos tem como fato gerador a transmissão, a qualquer título, por ato oneroso, de bens imóveis, por natureza ou por acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos à sua aquisição.
+Por sua vez, à luz do artigo 1.245, caput e § 1º, do Código Civil, a propriedade é transferida mediante o registro do título translativo no Registro de Imóveis e, caso não se efetive o registro, o alienante continuará a ser havido como dono do imóvel.
+Dessa forma, é imprescindível o registro do título translativo no Registro de Imóveis para que se concretize o fato gerador do ITBI.
+Nesse passo, afasta-se a incidência de juros, multa e correção monetária sobre o valor do tributo, conforme pleiteado pela Apelante, uma vez que não há que se falar em intempestividade em seu recolhimento.
+Assim, verifica-se que a base de cálculo do ITBI é o valor da aquisição, desconsiderando-se a construção nele realizada, uma vez que o valor do tributo deve representar a realidade da aquisição.
+Pois bem.
+De início, não obstante a existência de fundamento constitucional, conforme se pode observar da leitura do acórdão impugnado, o agravante limitou-se a interpor recurso especial, deixando de interpor o extraordinário, de competência do Supremo Tribunal Federal, o que atrai a incidência da Súmula 126 do STJ.
+No que concerne à alegada ofensa aos arts. 35 do CTN e 1.245 do CC/2002, verifica-se claramente que a instância ordinária não emitiu juízo de valor sobre o fato de a celebração do "instrumento particular de transação" ter tido ou não o condão de transferir a propriedade do imóvel. A bem da verdade, o TJ/SP nem sequer mencionou a existência do citado instrumento particular.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
