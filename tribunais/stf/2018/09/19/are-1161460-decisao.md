@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+    “Plano de saúde. Contrato de assistência médica e/ou hospitalar. Intervenção de terceiros. Inadmissibilidade. Aplicabilidade do art. 88 do CDC. Rejeição mantida. Cerceamento de defesa. Inocorrência. Pleito de expedição de ofício à ANS. Dilação probatória despicienda. Conjunto probatório sólido. Pretendida nulidade do julgado que requer a identificação em concretude de prejuízo processual. Aplicação do adágio pas de nullité sans grief. Prejuízo não demonstrado. Preliminar rejeitada.
+    (...)
+    Obrigação de fazer. Contrato de assistência médica-hospitalar. Segurada diagnosticada com hemorragia vítrea e edema macular diabético no olho direito. Prescrição médica positiva a tratamento com o medicamento VEGF Lucentis (injeção intravitea intraocular). Recusa da operadora de saúde. Descabimento. Negativa de cobertura que restringe obrigação inerente à natureza do contrato (art. 51, IV, e §1º, II, do CDC). Irrelevância de o procedimento não corresponder às diretrizes de utilização estabelecidas no rol da ANS e de haver exclusão contratual. Prescrição médica que se sobrepõe à escolha da prestadora quanto ao método de tratamento mais adequado ao diagnóstico do paciente. Impostura evidenciada. Conduta que implica na concreta inutilidade do negócio protetivo (Súmulas 96 e 102 desta C. Corte de Justiça). Quebra do dever de lealdade. Interpretação que fere a boa-fé objetiva e contrapõe-se à função social do contrato (arts. 421 e 422 do Cód. Civil). Sentença mantida. Recurso desprovido.” (eDOC 3, p. 50-51)
+    Opostos embargos de declaração, estes foram rejeitados. (eDOC 3, p. 72)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, II, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o acórdão guerreado decidiu contra o previsto na Lei 9.656/98, logo restaria configurada violação ao princípio da legalidade. (eDOC 4, p. 42)
+    Decido.
+    O recurso não merece prosperar.
+    A jurisprudência desta Corte firmou o entendimento no sentido de não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Sobre o tema, confiram-se o AI-AgR 825.423, Rel. Min. Ricardo Lewandowski, DJe 27.6.2011; e o AI-AgR 745.965, de minha relatoria, DJe 29.6.2011:
+    “Agravo regimental em agravo de instrumento. 2. Portaria e poder regulamentar. Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.”
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 19 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
