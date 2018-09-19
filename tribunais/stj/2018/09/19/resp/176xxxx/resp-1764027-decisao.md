@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], em 20/10/2017, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO POR APRECIAÇÃO EQUITATIVA. REMESSA NECESSÁRIA CONHECIDA E PROVIDA EM PARTE. APELAÇÃO PROVIDA.
+1. Tendo presente que a lide envolve um ente público, a moderação na fixação de honorários deve imperar, adotando-se valor que não onere demasiadamente o vencido e remunere merecidamente o patrono do vencedor na demanda.
+2. No caso em tela, a estipulação dos honorários advocatícios arbitrada na sentença revela-se excessiva, devendo ser reduzida, na medida em que a solução da demanda se fundou em jurisprudência sumulada das cortes superiores e em prova documental, não exigindo maiores intervenções do patrono do embargante.
+3. De rigor a reforma da sentença a fim de que a embargada seja condenada ao pagamento de honorários advocatícios, que ora fixo em R$ 5.000,00 (cinco mil reais), porquanto atende ao critério equitativo previsto no art. 20, § 3º, "a", "b" e "c" e § 4º, do CPC/73, quais sejam, grau de zelo do profissional, lugar da prestação de serviço, natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o serviço.
+4. Remessa necessária conhecida e provida em parte. Apelação provida" (fl. 278e).
+Nas razões do Recurso Especial, a parte recorrente aponta violação ao art. 85, § 2º, do CPC/2015, alegando, em síntese, que a verba honorária arbitrada é irrisória e desproporcional, haja vista não ter levado em consideração toda a repercussão econômica da causa (fls. 280/296e).
+Apresentadas as contrarrazões (fls. 338/343e), o Recurso Especial foi admitido, na origem (fls. 345/348e).
+O Recurso Especial não merece prosperar.
+Inicialmente ressalto que, muito embora o presente Recurso Especial tenha sido interposto na vigência do CPC/2015, a fixação inicial da verba honorária foi efetuada pela sentença, na vigência do CPC/1973, de modo que o regime para a fixação da verba honorária é ainda aquele previsto no antigo diploma processual.
+Desse modo, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), eis que não houve análise pelo Tribunal a quo do art. 85, § 2º, do CPC/2015, apontado como violado.
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como violado não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
