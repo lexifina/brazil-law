@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado por PADRÃO EMPREENDIMENTOS LTDA. contra decisão que inadmitiu recurso especial, este fundamentado nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 784):
+"LOCAÇÃO DE ESPAÇO COMERCIAL EM SHOPPING CENTER PARA INSTALAÇÃO DE SALAS DE CINEMA - AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS - PERÍCIA DE ENGENHARIA CIVIL E CONTÁBIL - PEDIDO DE NOVA PERÍCIA CONTÁBIL E SUBSTITUIÇÃO DO PERITO - AVALIAÇÃO A CARGO DO JULGADOR - DESNECESSIDADE - AGRAVO IMPROVIDO
+1. Só há direito subjetivo à substituição do perito e à renovação da prova nas hipóteses de impedimento e suspeição (art. 138, III, do C.P.C.).
+2. Destinada a prova a suprir conhecimentos técnicos do julgado, só ao Magistrado compete a avaliação do laudo com vistas à formação de sua convicção."
+Nas razões do recurso especial, a parte recorrente alega violação aos arts. 333, II, 424, II, 429 do CPC/73 e 476 do CC, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que "ao não ter o quesito apresentado respondido, buscando atender ao ônus da prova que lhe incumbe, e ser indeferido o pedido de substituição do perito nomeado e realização de nova perícia, é patente o cerceamento de defesa sofrido e o não cumprimento dos objetivos da perícia deferida" - (e - STJ, fl. 829).
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Colhe-se dos autos que o presente recurso especial foi tirado de agravo de instrumento interposto contra decisão de Juiz Singular que, nos autos de ação de indenização nº 0011278-38.2005.8.26.0320, indeferiu o pedido de substituição do perito e a realização de nova perícia (e-STJ, fls. 25/26).
+ Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que, em 17/01/2018, foi proferida sentença de procedência parcial do pedido, cujo dispositivo colaciona-se:
+"Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a presente ação de indenização promovida por [NOME] e MARIA REGINA DE OLIVEIRA [NOME] contra PADRÃO EMPREENDIMENTOS LTDA., o que faço para CONDENAR o réu a indenizar os autores pelos danos materiais emergentes totalizando RS 347.962,83, RS 10.555,39 e RS 463 ,76 (atualizados até a data do laudo) e a indeniza-los a título de lucros cessantes, no valor apurado no laudo: de RS 1.672.318,20 (fls. 619 637), todos acrescidos de correção monetária e juros de mora, calculados a partir da data do laudo (07 abr 2009)."
+Nesse panorama, nos termos da jurisprudência desta Corte Superior, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação de sentença de mérito, haja vista que nela a cognição é exauriente.
+A esse respeito, confira-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INIBITÓRIA CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO.
+1. A jurisprudência desta Corte Superior firmou entendimento no sentido de que resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, tendo em vista ser esta de cognição exauriente.
+2. Agravo interno não provido.
+(AgInt na PET no AREsp 1114938/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/04/2018, DJe 13/04/2018)
+Diante do exposto, com fundamento no artigo 34, XI, do RISTJ, nego provimento ao agravo, por perda de objeto do recurso especial.
+Publique-se.
