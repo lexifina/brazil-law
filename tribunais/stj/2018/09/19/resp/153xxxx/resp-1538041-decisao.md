@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 167):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. DEVOLUÇÃO AO ERÁRIO. EMENTA VALORES RECEBIDOS DE BOA-FÉ. DESCONTOS INDEVIDOS. FUNDAMENTAÇÃO REFERENCIAL.
+1. Cuida-se de apelação interposta contra a sentença que julgou procedente em parte o pedido, autorizando o desconto mensal na aposentadoria por idade da autora no patamar de 10%.
+2. "É legítima a adoção da técnica de fundamentação referencial (per relationem), consistente na alusão e incorporação formal, em ato jurisdicional, de decisão anterior ou parecer do Ministério Público." REsp 1.194.768-PR, Segunda Turma, DJe 10/11/2011. EDcl no AgRg no AREsp 94.942-MG, Rel. Min. Mauro Campbell Marques, julgado em 5/2/2013.
+3. "A apelante recebeu aposentadoria por tempo de contribuição desde 21/12/2000 até o momento em que foi cessado o benefício em razão de indícios de irregularidades em alguns vínculos empregatícios, tendo ocorrido em 01/06/2004. O INSS apenas foi cobrar os valores recebidos indevidamente em setembro/2012." 4. "O magistrado considerou que não houve prescrição com base no art. 37, §5º, da Constituição a quo Federal. O citado artigo somente é aplicável em caso de improbidade administrativa, o que foge a hipótese dos autos, pois a apelante não é agente público e não há provas de que atuou com ajuda de algum servidor." 5. "Houve prescrição da pretensão da Administração Pública em cobrar o ressarcimento dos valores percebidos indevidamente, eis que ultrapassado o prazo quinquenal do art. 1º do Decreto nº 20.910/32." 6. A jurisprudência do STJ é assente no sentido de que não cabe restituição de valores previdenciários recebidos de boa-fé, haja vista o caráter alimentar dos proventos percebidos. Precedente: AgRg no AREsp 598.161/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/11/2014, DJe 03/12/2014.
+7. Apelação provida.
+Foram rejeitados os aclaratórios (e-STJ fls. 208/210).
+Nas suas razões, o recorrente aponta preliminar de ofensa ao art. 535, II, do Código de Processo Civil/1973, ante o silêncio acerca da análise do art. 115 da Lei n. 8.213/91, do art. 46 da Lei n. 8.112/90 e dos arts. 884 e 885 do CC/02 para a apuração da boa-fé da parte autora no recebimento indevido do benefício.
+No mérito, alega violação do art. 115 da Lei n. 8.213/91, do art. 46 da Lei n. 8.112/90 e dos arts. 884 e 885 do CC/02, sustentando que "o recebimento indevido de benefício previdenciário deve ser ressarcido, independente de boa fé no seu recebimento, pouco importando tenha a concessão advindo de erro administrativo" e que "a ausência de demonstração de má-fé não afasta a necessidade de cessação do pagamento indevido e de seu ressarcimento (..). A ausência de demonstração de má-fé não afasta a necessidade de cessação do pagamento indevido e de seu ressarcimento" (e-STJ fl. 230).
+Ademais, alega violação do art. 381 do CC pela impossibilidade de o INSS pagar honorários advocatícios à Defensoria Pública da União, baseando-se na Súmula 421 do STJ.
+Apresentaram-se contrarrazões às e-STJ fls. 251/258.
+Juízo positivo de admissibilidade consta à e-STJ fl. 267.
+Passo a decidir.
+De início, registro que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, verifico que o recurso especial não merece ser conhecido.
+Inicialmente, cumpre esclarecer que o argumento primeiro constante do acórdão para negar provimento à apelação foi o de que houve prescrição da pretensão da autarquia para a cobrança dos valores que entendeu pagos indevidamente. Após, in obter dictum, consignou que a jurisprudência desta Corte não reconhece a devolução de valores recebidos de boa-fé. Assim se pronunciou o Tribunal de origem (e-STJ fls. 165/166):
+(..) transcrevo, como razão de decidir, nesta esfera recursal, a fundamentação do parecer do MPF:
+"A apelante recebeu aposentadoria por tempo de contribuição desde 21/12/2000 até o momento em que foi cessado o benefício em razão de indícios de irregularidades em alguns vínculos empregatícios, tendo ocorrido em 01/06/2004 (fl. 81).
+Contudo, o INSS apenas foi cobrar os valores recebidos indevidamente em setembro/2012, conforme Ofício nº 181/2012, onde informa que "() o não ressarcimento e/ou solicitação de parcelamento dos valores recebidos indevidamente será objeto de Inscrição em Dívida Ativa para Cobrança Judicial." (fl. 80).
+O magistrado a quo considerou que não houve prescrição com base no art. 37, §5º, da Constituição Federal, contudo, com a devida vênia, a sentença deve ser modificada.
+O citado artigo utilizado pelo magistrado somente é aplicável em caso de improbidade administrativa, o que foge a hipótese dos autos. A Apelante não é agente público e não há provas deque atuou com ajuda de algum servidor, o que afasta a aplicação desse artigo.
+No caso dos autos, depreende-se que houve prescrição da pretensão da Administração Pública em cobrar o ressarcimento dos valores percebidos indevidamente, pois ultrapassou o prazo quinquenal, com base no art. 1º do Decreto nº 20.910/32."  1
+Ademais, a jurisprudência do STJ é assente no sentido de que não cabe restituição de valores previdenciários recebidos de boa-fé, tendo em vista o caráter alimentar dos proventos percebidos. Nesse sentido:  2  PREVIDENCIÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO INTERPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. SÚMULAS 282 E 356 DO STF.
+BENEFÍCIO ASSISTENCIAL. VALORES RECEBIDOS INDEVIDAMENTE. CARÁTER ALIMENTAR. IMPOSSIBILIDADE DE RESTITUIÇÃO. BOA-FÉ DO BENEFICIÁRIO. SÚMULA 83/STJ.
+1. Descumprido o indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal do recorrente, de maneira a atrair a incidência das Súmulas 282 e 356/STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir a omissão do julgado.
+2. O acórdão recorrido está em consonância com o entendimento jurisprudencial desta Corte Superior, no sentido da impossibilidade da repetição dos valores pagos indevidamente a servidor ou pensionista em decorrência de interpretação errônea, equivocada ou deficiente da lei pela própria administração pública quando se constata que o recebimento das prestações de caráter alimentar, pelo beneficiado, se deu de boa-fé, como expressamente reconhecido nas instâncias ordinárias.
+3. Precedentes: AgRg no AREsp 182.327/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 30/9/2014; AgRg no REsp 1.267.416/RJ, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 8/9/2014;
+AgRg no AREsp 522.247/AL, Rel. Min. Herman Benjamin, Segunda Turma, DJe 25/9/2014; AgRg no REsp 1.448.462/CE, Rel. Min. Humberto Martins, Segunda Turma, DJe 12/6/2014; AgRg no REsp 1.431.725/RS, Rel. Min.
+Mauro Campbell Marques, Segunda Turma, DJe 21/5/2014; AgRg no AREsp 395.882/RS, Rel. Min.
+Napoleão Nunes Maia Filho, Primeira Turma, DJe 6/5/2014.
+Agravo regimental improvido.
+(AgRg no AREsp 598.161/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/11/2014, DJe 03/12/2014).
+Entretanto, verifica-se que o apelo especial se limitou a impugnar a questão da boa-fé do segurado ao receber indevidamente o benefício, sem, contudo, pronunciar-se acerca da prescrição incidente ao caso, cerne da fundamentação adotada na origem.
+Assim, não merece ser conhecido o recurso quanto ao ponto, visto que não rebateu todos os fundamentos utilizados pelo acórdão, fazendo incidir, por analogia, o óbice da Súmula 283 do STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. TEMPO DE SERVIÇO. AVERBAÇÃO. ATIVIDADE ESPECIAL. ELEMENTOS PROBATÓRIOS SUFICIENTES. SÚMULA 83/STJ. INCIDÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF.
+(..)
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+V - A Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, reiterando apenas as alegações veiculadas no recurso anterior.
+VI - Agravo regimental improvido.
+(AgRg no REsp 1.495.930/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/08/2015, DJe 14/08/2015). (Grifos acrescidos).
+Vale ressaltar que fica prejudicada a análise da possível omissão do acórdão acerca da boa-fé ou não da parte autora, visto que a questão é meramente subsidiária à tese principal que negou provimento à apelação, qual seja, a prescrição da pretensão da autarquia, e que não foi impugnada no apelo especial.
+Por fim, no que se refere à impossibilidade de pagamento de honorários advocatícios à Defensoria Pública da União em lide contra a entidade autárquica federal, registro que essa questão não foi objeto dos autos.
+Portanto, pelo cotejo entre as razões do recurso e do acórdão, há nítido desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
