@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base neste(s) fundamento(s): consonância do acórdão recorrido com jurisprudência do STJ (em relação ao interesse da instituição financeira a justificar a formação de litisconsórcio passivo necessário), Súmula 83/STJ (quanto à legitimidade ativa), Súmula 7/STJ (art. 178, § 6º, II, CC - acerca da inocorrência do transcurso do prazo prescricional), Súmula 83/STJ (art. 178, § 6º, II, CC - no tocante à impossibilidade de precisar a ocorrência da data em que os danos se consolidaram e, por conseguinte, fixar o termo inicial para a contagem do prazo prescricional), Súmula 5/STJ (quanto à limitação da cobertura securitária) e Súmula 7/STJ (quanto à limitação da cobertura securitária).
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do(s) seguinte(s) óbices: consonância do acórdão recorrido com jurisprudência do STJ (em relação ao interesse da instituição financeira a justificar a formação de litisconsórcio passivo necessário), Súmula 5/STJ (quanto à limitação da cobertura securitária) e Súmula 7/STJ (quanto à limitação da cobertura securitária).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Publique-se. Intimem-se.
