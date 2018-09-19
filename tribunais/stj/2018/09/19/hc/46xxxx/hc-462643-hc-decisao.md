@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de petição em que o impetrante requer, após o julgamento monocrático do writ, a suspensão do andamento da ação penal originária, com os seguintes argumentos:
+"Ínclito Ministro Relator, tendo em vista (i) a concessão parcial da ordem de habeas corpus, (ii) a plausibilidade dos pedidos formulados e (iii) que de forma manifestamente ilegal o d. magistrado de piso prosseguiu com a marcha processual - estando aberto o prazo para esse causídico oferecer alegações finais (doe. anexo) - requer digne-se Vossa Excelência, por economia processual e para que se evite a realização de atos processuais desnecessários, suspender o andamento da ação penal originária, como medida da mais lídima Justiça!" (fl. 235).
+É o breve relatório.
+Decido.
+O pedido não comporta acolhimento.
+Na hipótese, a defesa do paciente impetrou habeas corpus na origem, alegando a nulidade dos atos processuais praticados após o momento em que deveria ter sido ofertada a proposta de suspensão condicional do processo na Ação Penal nº 0003905-24-24.2016.8.13.0710, e requereu o trancamento da ação penal por ausência de justa causa, mas a ordem foi denegada (fls. 119-129).
+Irresignada, impetrou o presente writ, alegando nulidade absoluta em decorrência do julgamento colegiado na origem, sem a intimação para o exercício da sustentação oral, bem como reiterou as teses de mérito já apresentadas em segunda instância.
+Ao julgar o mandamus, monocraticamente, concedi a ordem, parcialmente, para anular o v. acórdão proferido no habeas corpus n. 1.0000.18.062525-3/000, determinando que a realização de novo julgamento do feito, com a prévia intimação dos advogados constituídos nos autos. Por consequência, a análise das demais matérias suscitadas no writ ficaram prejudicadas.
+Nota-se, pois, que os fundamentos adotados pelo eg. Tribunal a quo, para denegar a ordem, e contra os quais foi interposto o writ nesta Corte Superior, ficaram superados com a anulação do julgamento nesta oportunidade.
+Logo, caberá à defesa do paciente, se for o caso, impugnar os fundamentos do v. acórdão a ser proferido no novo julgamento, que poderão, inclusive, ser diversos do anterior, e não aqueles constantes da r. decisão de 1º grau, questionados anteriormente no mandamus originário.
+Assim, asseverando-se que o ato coator impugnado no presente writ foi o acórdão proferido nos autos do habeas corpus n. 1.0000.18.062525-3/000, já anulado por determinação desta Corte, eventual ilegalidade superveniente deverá ser impugnada por meio do recurso cabível, ou mesmo ser objeto de novo mandamus, pois para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração (v.g. HC n. 389631/SP, Rel. Min. Reynaldo Soares da Fonseca, DJe de 08/03/2017), ainda que para fins de economia processual ou de celeridade.
+Ante o exposto, indefiro o presente pedido.
+P. e I.
