@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. SUSPEIÇÃO DA JUÍZA DE PRIMEIRO GRAU NÃO RECONHECIDA PELA CORTE DE ORIGEM. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. EMBARGOS DECLARATÓRIO PROTELATÓRIOS. ÍMPETO DE POSTERGAR A SOLUÇÃO DEFINITIVA DO FEITO. INCIDÊNCIA DA SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por [NOME], contra decisão do Tribunal de Justiça do Estado de São Paulo que negou seguimento a recurso especial com fundamento na alínea "a" e "c" do permissivo constitucional.
+O agravante infirmou os fundamentos da decisão agravada.
+Nas razões do recurso especial, o recorrente alega ofensa aos arts. 135, inciso V, 304, 535, inciso II, e, 538, parágrafo único, do Código de Processo Civil/1973, além de divergência jurisprudencial.
+Defende, em síntese, negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se manifestado sobre todas as questões postas em debate pelo recorrente.
+Aduz que, revela-se descabida a multa imposta pela oposição de embargos de declaração com o propósito de prequestionamento.
+Alega que a suspeição de parcialidade "diz respeito aos levantamentos de dinheiro (fls. 67/69), mais de um milhão de reais (fl. 168), na fase de cumprimento de sentença, com pendência de recurso no STJ e no TJ/SP, sem trânsito em julgado, e sem o poder-dever geral de cautela de exigir caução suficiente e idônea" (e-STJ Fl. 524).
+É o breve relatório.
+Passo a decidir.
+Os embargos declaratórios não merecem acolhida. No caso não se configura a existência de quaisquer das deficiências apontadas, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Em relação à alegação de suspeição da juíza de primeiro grau, a Corte de origem, soberana na análise do material fático e probatório carreado aos autos, assentou que:
+"Feitas tais considerações, verificada a ausência de quaisquer das hipóteses taxativas enumeradas no artigo 135 do Código de Processo Civil, a exceção de suspeição não pode ser acolhida.
+De fato, pela análise dos autos, verifica-se que a alegada parcialidade da magistrada é baseada exclusivamente em decisões proferidas pela Ma. Juíza Bruna Acosta Alvarez, de cunho nitidamente jurisdicional.
+Para que se caracterize o interesse da juíza no julgamento da causa em favor de uma das partes não bastam meras ilações de natureza subjetiva, sendo indispensável que as determinações judiciais sejam movidas por outros interesses que não o simples convencimento da juíza, circunstância não vislumbrada no caso.
+O simples fato de a magistrada não acolher as pretensões formuladas pelo excipiente e proferir decisões contrárias ao seu interesse, conforme descrito nos autos, fls. 11/18, não conduz, por si só, à presunção de parcialidade, uma vez que tais decisões são passíveis de impugnação por meio de recurso próprio.
+Somente a prova cabal de parcialidade da magistrada teria o condão de determinar o afastamento do processo do juiz natural ao qual foi livremente distribuído.
+A propósito do tema, dispõe a súmula 88 do Órgão Especial deste Tribunal de Justiça:
+"Reiteradas decisões contrárias aos interesses do excipiente, no estrito exercício da atividade jurisdicional, não tornam o juiz excepto suspeito para o julgamento da causa".
+Nesse aspecto, o próprio excipiente admite a interposição de aproximadamente 80 recursos visando à reforma de decisões contrárias ao seu interesse, fls. 17, item 21, o que revela litigiosidade exagerada de sua parte e o verdadeiro inconformismo com as decisões judiciais fundamentadas pelo juízo excepto confirmadas por este Tribunal de Justiça.
+A esse propósito, a excepta esclarece que a pretensão do excipiente, voltada à execução dos honorários advocatícios contratuais e sucumbenciais, já foi afastada inúmeras vezes, restando pendente apenas a análise de recurso dirigido ao Superior Tribunal de Justiça, o que basta para revelar o cunho jurisdicional da matéria tratada, afastando a alegação de parcialidade.
+Além disso, a litigiosidade exacerbada do excipiente, somada ao pedido de vista formulado às fls. 412/413, revela que, sob o pretexto do alegado interesse da excepta em favorecer os demais interessados, utiliza-se o excipiente do presente incidente como instrumento pára estender o período de suspensão do processo, impedindo o levantamento de quaisquer valores pelos demais interessados, enquanto tenta, sem sucesso, reverter a decisão que indeferiu sua pretensão de reserva e execução de honorários advocatícios.
+Nesse sentido, quando ausente o interesse do magistrado no resultado da causa, revelando a exceção o único propósito de combater as decisões desfavoráveis ao excipiente, já decidiu esta Câmara Especial nos autos da apelação nº 0035610-44.2014.8.26.0000, relator Desembargador Ricardo Anafe, Presidente da Seção de Direito Público, julgado em 15.9.2014:
+(..)
+Dessa forma, inexistindo qualquer indício de parcialidade da excepta, de rigor a sua manutenção na presidência do feito" (e-STJ Fls. 446/448, gn).
+Assim, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Por fim, em relação à suposta violação ao artigo 538, parágrafo único, do Código de Processo Civil/1973, melhor sorte não socorre ao recorrente. Quanto ao tema, da multa por litigância de má-fé, a Corte de origem assentou que:
+"O acórdão considerou todos os argumentos do excipiente, consignando a ausência de elementos aptos a ensejar o afastamento da magistrada.
+Na verdade, o embargante se socorre de maneira imprópria das ferramentas processuais, pois pretende, a todo custo, pronunciamento favorável aos seus interesses, o que é inadmissível na estreita via dos embargos de declaração, prejudicando assim o regular processamento do feito.
+O Supremo Tribunal Federal, em sucessivos julgamentos, vem decidindo que os embargos declaratórios não podem, mesmo a pretexto de suprir omissão ou corrigir obscuridade ou contradição, alterar, na substância, a decisão embargada (RJTJSP 99/354, 98,377; RTJ 120/773 e 121/260).
+Depois, ressalta-se que não há imposição legal acerca de dever pronunciar-se a decisão judicial sobre todos os argumentos deduzidos pelas partes (STJ, REsp. nº 601.876/RS, Rei. Min. Paulo Medina).
+Por sua vez, é importante relembrar que a decisão embargada apontou a litigiosidade exacerbada do embargante, que se utilizou do "incidente como instrumento para estender o período de suspensão do processo, impedindo o levantamento de quaisquer valores pelos demais interessados, enquanto tenta, sem sucesso, reverter a decisão que indeferiu sua pretensão de reserva e execução de honorários advocatícios", fls. 425.
+Nesse contexto, a despeito da advertência sobre as penalidades aplicáveis pela litigância de má-fé, optou o embargante por utilizar indevidamente esta ferramenta recursal, com manifesto propósito protelatório, pois insiste em seu ímpeto de postergar a solução definitiva do feito.
+Do exposto, rejeitam-se os embargos de declaração, y aplicando-se, em razão do caráter manifestamente protelatório, multa á equivalente a 1% (um por cento) do valor da causa originária, devidamente atualizado, nos termos do artigo 538, parágrafo único, do Código de Processo Civil" (e-STJ Fls. 501/502, gn).
+Igualmente, inviável acolher a pretensão de reforma do acórdão quanto à aplicação da multa por embargos de declaração protelatórios. No caso em tela, o Tribunal de origem identificou o caráter protelatório da insurgência não na própria oposição dos aclaratórios, o que permitiria a aplicação da Súmula 98/STJ, mas, sim, no "ímpeto de postergar a solução definitiva do feito".
+Desta feita, rever o entendimento da Corte a quo, diante da "litigiosidade exacerbada do embargante", demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado em Recurso Especial ante o óbice da Súmula 7 do STJ.
+Cumpre asseverar que referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
