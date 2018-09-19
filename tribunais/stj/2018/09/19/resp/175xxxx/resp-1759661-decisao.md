@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo.
+Alega o recorrente, em suas razões recursais, em síntese, a possibilidade de recolhimento do preparo no primeiro dia útil após a interposição do recurso, em razão do encerramento do expediente bancário.
+É o relatório. Decido.
+Preparo:
+A Corte Especial deste Superior Tribunal de Justiça, no julgamento do REsp n. 1.122.064/DF, Rel. Min. Hamilton Carvalhido, DJe de 30/9/2010, processado sob o ritos dos recursos especiais repetitivos, vinculado ao Tema 413/STJ, firmou entendimento no sentido de que se admite a efetuação do preparo no primeiro dia útil subsequente, quando a interposição do recurso ocorrer após o encerramento do expediente bancário, nos termos da seguinte ementa:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PROCESSUAL CIVIL. PREPARO. RECURSO INTERPOSTO APÓS O ENCERRAMENTO DO EXPEDIENTE BANCÁRIO. PAGAMENTO NO PRIMEIRO DIA ÚTIL SUBSEQUENTE. CABIMENTO. DESERÇÃO AFASTADA.
+1. O encerramento do expediente bancário antes do encerramento do expediente forense constitui causa de justo impedimento, a afastar a deserção, nos termos do artigo 519 do Código de Processo Civil, desde que, comprovadamente, o recurso seja protocolizado durante o expediente forense, mas após cessado o expediente bancário, e que o preparo seja efetuado no primeiro dia útil subsequente de atividade bancária.
+2. Recurso provido. Acórdão sujeito ao procedimento do artigo 543-C do Código de Processo Civil.
+(REsp 1.122.064/DF, relator Ministro Hamilton Carvalhido, Corte Especial, DJe 30/9/2010.)
+Na espécie, o Tribunal de origem assim decidiu, in verbis (fls. 486/487):
+As razões do agravo não encerram argumentos diversos dos que embasaram os embargos e, assim, não há fundamento suficientemente relevante para o provimento do recurso.
+Constou da decisão agravada que:
+"Pese o teor do acórdão do Recurso Especial repetitivo nº 1.122.064/DF, julgado pelo Superior Tribunal de Justiça há mais de sete anos, referido nos embargos, e o da súmula 484, de julho de 2012, do mesmo Tribunal, também mencionada pelo embargante, não há como reputar suficiente o recolhimento comprovado à fl. 382.
+O artigo 1.007, do Código de Processo Civil, estabelece que o recolhimento do preparo deve ser comprovado no ato da interposição do recurso ("caput") e que a falta da comprovação do preparo, no ato da interposição do recurso, implica determinação de recolhimento em dobro, sob pena de deserção (§ 4º), tal como se deu no caso em exame (fl. 413).
+Embora o § 6º do artigo 1.007 do citado Código preveja a possibilidade de o relator relevar a pena de deserção, no caso de justo impedimento, não se verifica, aqui, circunstância que justifique o recolhimento extemporâneo do preparo, em valor singelo.
+O apelante protocolou o apelo em 30.06.2017, último dia do prazo, às 18h27min, após o encerramento do expediente bancário, e providenciou o recolhimento do preparo no dia 03.07.2017, primeiro dia útil subsequente, às 13h00min (fl. 382), portanto, após o escoamento do prazo recursal, o que redundou na determinação de recolhimento em dobro.
+Além disso, o processo é digital e nada impedia o embargante de recolher o preparo no mesmo dia da interposição do apelo, nos termos do artigo 1.007, "caput", do Código de Processo Civil, após o encerramento do expediente bancário, pela internet regra geral, é possível pagar contas e tributos pela internet até às 21h59min , tal como ele fez, no dia 03.07.2017 (fl. 382), pelo que não se cogita, no caso, de justo impedimento".
+Sendo assim, não há, como dito, relevância na fundamentação do agravante, nem, por extensão, causa para alterar a determinação de fl. 413, acrescentando-se, apenas, que as decisões referidas nos embargos não têm efeito vinculante, e que, por óbvio, não houve ofensa ao princípio da segurança jurídica.
+Dessa forma, o acórdão recorrido julgou em desconformidade com entendimento firmado por esta Corte Superior, que considera possível o recolhimento do preparo no primeiro dia útil subsequente, nos casos em que realizada a interposição do recurso após o encerramento do expediente bancário.
+Incide no caso a Súmula n. 484 do Superior Tribunal de Justiça que assim dispõe: "Admite-se que o preparo seja efetuado no primeiro dia útil subsequente, quando a interposição do recurso ocorrer após o encerramento do expediente bancário".
+Ressalto que é inviável a aplicação da regra prevista no art. 1.007, § 4º, do Código de Processo Civil, porque efetuado o preparo em tempo hábil, conforme acima exposto.
+Ante o exposto, dou provimento ao recurso especial, para, afastando a deserção, determinar o retorno dos autos ao Tribunal de origem para que prossiga no exame do feito.
+Publique-se. Intimem-se.
