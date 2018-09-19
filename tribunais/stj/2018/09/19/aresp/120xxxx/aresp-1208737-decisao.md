@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por [NOME] contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Embargos à execução - Cheque - Falta de apresentação do cheque junto ao banco sacado que não impede o portador da cártula de manejar a ação executiva - Inteligência da Súmula 600 do STF - Prescrição inocorrente - Ação ajuizada antes do decurso do prazo de seis meses a contar do final do prazo para apresentação da cártula - Pós-datação do cheque irrelevante, uma vez que, para fins de contagem do prazo prescricional de cheque pós-datado, prevalece a data regularmente aposta no espaço reservado para a data da emissão - Sentença mantida - Recurso improvido." (e-STJ, fl. 168)
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 33 e 59 da Lei n.º 7.357/85, e divergência jurisprudencial, sustentando o seguinte: 1) o cheque foi emitido como ordem de pagamento à vista e foi apresentado fora do prazo de 30 (trinta) dias, motivo pelo qual não constitui título capaz de embasar a demanda; e 2) ocorreu a prescrição da pretensão executiva do recorrido, uma vez que o cheque foi emitido no dia 01/03/2010 e a ação somente foi distribuída no dia 06/10/2010.
+Aduz que a pós-datação do cheque para 19/08/2010, realizada unilateralmente pelo recorrido, não autoriza a apresentação do cheque após o prazo de 30 dias.
+Não foram apresentadas contrarrazões (e-STJ, fl. 231).
+É o relatório.
+O Tribunal estadual negou provimento aos embargos à execução opostos pelo recorrente os fundamentos de que a não apresentação do cheque junto ao banco sacado não impede a pretensão executiva do portador e que não ocorreu a prescrição da pretensão executiva do recorrido porquanto o cheque foi emitido em 01/06/2010 e a demanda ajuizada em 27/09/2010. Leia-se, a propósito, o seguinte trecho do voto condutor do mencionado julgamento, in verbis:
+"Cuida-se de embargos à execução de título extrajudicial, ajuizada aos 27 de setembro de 2010, fundada em cheque emitido em 01 de março de 2010.
+O recurso não comporta provimento.
+Com efeito, a falta de apresentação do cheque junto ao banco sacado não impede o portador da cártula de manejar a ação executiva, nos termos da Súmula no 600 do C. Supremo Tribunal Federal:
+"CABE AÇÃO EXECUTIVA CONTRA O EMITENTE E SEUS AVALISTAS, AINDA QUE NÃO APRESENTADO O CHEQUE AO SACADO NO PRAZO LEGAL, DESDE QUE NÃO PRESCRITA A AÇÃO CAMBIARIA."
+E, no caso dos autos, não se operou a prescrição da ação cambiária. Deveras, nos termos do artigo 59 da Lei 7357/85, prescreve em seis meses o exercício da pretensão à ação de execução de cheque, cuja contagem se inicia com o término do prazo de trinta dias para a apresentação da cártula.
+Por sua vez, o prazo de apresentação é contado da data de emissão do cheque, conforme previsto no artigo 33 da mesma lei, sendo irrelevante, portanto, a pós-datação do título, pois, repita-se, a contagem do prazo prescricional da ação de execução do cheque é feita a partir da data de emissão aposta no espaço para tanto designado." (e-STJ, fl. 169 - grifo nosso)
+Sobre a questão, a jurisprudência desta Corte Superior entende que "no caso da pretensão dirigida contra o emitente, o protesto (ou a apresentação) do cheque é ato meramente facultativo do credor, que pode optar por executar diretamente a cambial, desde que o faça no prazo de prescrição de seis meses, contados da expiração do prazo de apresentação (cf. art. 59 da Lei do Cheque)" (REsp 1249866/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/10/2015, DJe 27/10/2015)
+Assim, a não apresentação do cheque ao banco sacado no prazo legal não desconstitui sua eficácia executiva, nem importa prescrição da ação executiva, desde que ajuizada a ação no prazo de 6 meses contados a partir do término do prazo para apresentação do pagamento. Nesse sentido:
+"RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. CHEQUE. APRESENTAÇÃO FORA DO PRAZO. DESCONSTITUIÇÃO COMO TÍTULO EXECUTIVO. INOCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE.
+QUESTÃO MERAMENTE JURÍDICA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA.
+I - O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência da própria previsão constitucional do recurso especial, impondo-se como requisito inafastável ao seu conhecimento.
+Não examinada explicitamente pela instância ordinária parcela da matéria objeto do especial, nem opostos embargos declaratórios a integrar o acórdão recorrido, incidem, por extensão, os enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal.
+II - Em regra, a não apresentação do cheque para pagamento no prazo legal não o desconstitui enquanto ordem de pagamento à vista, nem importa prescrição da ação executiva, que só ocorrerá no prazo de 6 (seis) meses contados do término do prazo de apresentação a pagamento (Lei n.º 7.357/85, art. 59).
+III - Limitando-se a lide à discussão sobre a eficácia executiva do cheque apresentado a pagamento fora do prazo legal sobre sua eficácia executiva, ou seja, questão meramente jurídica, não há necessidade de qualquer dilação probatória, não implicando cerceamento de defesa o julgamento antecipado da lide.
+Recurso especial a que se nega conhecimento, com a ressalva do relator quanto à terminologia."
+(REsp 299.665/ES, Rel. Ministro CASTRO FILHO, TERCEIRA TURMA, julgado em 21/10/2003, DJ 10/11/2003, p. 185 - grifo nosso)
+Ainda de acordo com a jurisprudência do STJ, para a contagem do prazo prescricional da ação de execução de cheque, ainda que pós-datado, prevalece a data regularmente aposta no espaço reservado à data de emissão. A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. EXECUÇÃO. CHEQUE PÓS-DATADO. PRESCRIÇÃO. TERMO INICIAL. DATA CONSIGNADA NA CÁRTULA. RECURSO IMPROVIDO.
+1. "O termo inicial de contagem do prazo prescricional da ação de execução do cheque pelo beneficiário é de 6 (seis) meses, prevalecendo, para fins de contagem do prazo prescricional de cheque pós-datado, a data nele regularmente consignada, ou seja, aquela oposta no espaço reservado para a data de emissão" (REsp 1.068.513/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 14/09/2011, DJe de 17/05/2012).
+2. Agravo interno provido para negar provimento ao recurso especial.
+(AgInt no REsp 1634605/SP, de minha relatoria, QUARTA TURMA, julgado em 23/08/2018, DJe 29/08/2018)
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. AGRAVO REGIMENTAL. EXECUÇÃO. CHEQUE. TÍTULO PÓS-DATADO. PRAZO PRESCRICIONAL. TERMO A QUO. DATA DE EMISSÃO.
+PRECEDENTES.
+1. Admitem-se como agravo regimental embargos de declaração opostos a decisão monocrática. Princípios da economia processual e da fungibilidade.
+2. Para a contagem do prazo prescricional de 6 (seis) meses da ação de execução do cheque pós-datado, prevalece a data nele regularmente consignada, ou seja, aquela aposta no espaço reservado para a data de emissão.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento."
+(EDcl no REsp 1446165/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 08/03/2016, DJe 14/03/2016)
+Não há que se falar, in casu, em postergação do prazo da pretensão executória como faz entender o recorrente. Isso porque, a alegada pós-datação do cheque sequer foi considerada para o cálculo do prazo prescricional, sendo o acórdão recorrido claro em informar que foi utilizada a data de 01/03/2010, constante do campo reservado à data de emissão.
+Nesse contexto, verifica-se que a orientação da Corte local está em consonância com a jurisprudência desta Corte Superior, incidindo, portanto, o óbice da Súmula 83/STJ.
+Ademais, tendo o Tribunal de origem afastado a prescrição assentando que a ação executiva foi ajuizada em 27/09/2010, constata-se que, de fato, a pretensão executiva não foi fulminada pela prescrição.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% (dez por cento) para 11% (onze por cento) do valor da execução.
+Publique-se.
