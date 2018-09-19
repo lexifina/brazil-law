@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2172416-47.2017.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 16 anos e 11 meses de reclusão, em regime inicial fechado, pela prática dos delitos de roubo, porte ilegal de arma e formação de quadrilha, tendo sido vedado o recurso em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão de fls. 16/19.
+No presente writ, o impetrante sustenta a existência de excesso de prazo para o julgamento da apelação criminal, a qual teria sido distribuída no Tribunal de origem um ano depois de proferida a sentença condenatória.
+Defende que não foi apresentada fundamentação idônea para negar ao paciente o direito de recorrer em liberdade e que não estão presentes os requisitos autorizadores da prisão preventiva, elencados no art. 312 do CPP. Destaca as condições pessoais favoráveis do paciente e o caráter excepcional da segregação cautelar.
+Afirma que haveria dúvidas quanto à participação do acusado na empreitada criminosa, principalmente em relação às vítimas FRANCIVALDO e RENATA, pois ele não foi reconhecido pelos ofendidos como um dos autores do delito.
+Requer, em liminar e no mérito, a revogação da prisão para que o paciente possa aguardar em liberdade o desenrolar da persecução penal.
+Liminar indeferida às fls. 27/28.
+Informações prestadas às fls. 35/36, 43/44.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 74/77).
+É o relatório.
+Decido.
+Inicialmente, em relação à alegação de excesso de prazo no julgamento da apelação criminal, o presente habeas corpus está prejudicado.
+Isso porque, de acordo com informações obtidas na página eletrônica do Tribunal de origem, constatou-se que a apelação criminal em comento foi julgada em sessão realizada em 17/08/2018, tendo a Corte Estadual dado parcial provimento ao apelo defensivo para redimensionar a reprimenda do paciente para 6 anos, 2 meses e 20 dias de reclusão, mantidos os demais termos da sentença.
+Nesse contexto, constata-se a perda superveniente do objeto deste mandamus quanto ao ponto.
+Ademais, é certo que a análise da tese defensiva relativa à negativa de autoria quanto ao delito de roubo majorado demanda o exame aprofundado de todo conjunto probatório como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória. A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. VIA INADEQUADA. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. EXAME APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. PROVA COLHIDA APENAS NO INQUÉRITO POLICIAL. NÃO OCORRÊNCIA. REGIME INICIAL FECHADO. GRAVIDADE ABSTRATA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A via estreita do writ não é adequada à análise de alegações relativas à absolvição por falta de provas para a condenação, por demandar tal exame o revolvimento fático-probatório. Precedentes.
+(..)
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto para cumprimento da pena. (HC 316.472/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 01/09/2015).
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. ATENTADO VIOLENTO AO PUDOR. ABSOLVIÇÃO. AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. REEXAME PROBATÓRIO. INCIDÊNCIA DA ATENUANTE. SUPRESSÃO DE INSTÂNCIA. ANÁLISE PREJUDICADA. SÚMULA 231/STJ. PENA-BASE FIXADA NO MÍNIMO LEGAL. WRIT NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Tendo as instâncias ordinárias indicado os elementos de prova que levaram ao reconhecimento da autoria e, por consequência, à condenação, não cabe a esta Corte Superior, em habeas corpus, desconstituir o afirmado, pois demandaria profunda incursão na seara fático-probatória, inviável nessa via processual.
+3. O pedido de aplicação da atenuante do art. 65, I, do CP, não foi objeto de análise por parte do Tribunal de origem, não podendo ser apreciado diretamente nesta Corte, sob pena de supressão de instância e, mesmo que assim não fosse, não há como aplicar tal circunstância atenuante pois a pena-base foi fixada no mínimo legal. Súmula 231/STJ.
+5. Habeas corpus não conhecido. (HC 195.883/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 07/08/2015).
+Por fim, verifica-se que a alegação referente à ausência dos requisitos do art. 312 do CPP não foi analisada e sequer submetidas ao exame pelo Tribunal de origem. Assim, inviável qualquer manifestação desta Corte Superior sobre os temas aqui suscitados, sob pena de se incidir em indevida supressão de instância.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIOS QUALIFICADOS CONSUMADOS E TENTADOS. ASSOCIAÇÃO CRIMINOSA ARMADA. FUNDAMENTOS DA PRISÃO. MATÉRIA NÃO CONHECIDA NA ORIGEM. REITERAÇÃO DE HABEAS CORPUS ANTERIOR. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. EXCESSO DE PRAZO. NÃO CONFIGURADO. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS. MULTIPLICIDADE DE RÉUS. TRANSCURSO CONFORME O PRIMADO DA RAZOABILIDADE. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+1. Constatado que a instância de origem não se manifestou a respeito dos fundamentos da prisão por ser o então writ mera reiteração nesse ponto, afim de evitar supressão de instância, não é possível a análise da matéria.
+2. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Na espécie, o andamento processual encontra-se compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia.
+3. Recurso conhecido em parte e, nessa extensão, improvido (RHC 86.459/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 31/08/2017).
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS . TENTATIVA DE HOMICÍDIO QUALIFICADO. DECISÃO QUE DECRETOU PRISÃO PREVENTIVA. ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE SUPERIOR SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. RÉU PRESO DESDE 04.08.2013. CONSTRANGIMENTO ILEGAL CARACTERIZADO. RECURSO EM HABEAS CORPUS NÃO PROVIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. As matérias alegadas pelo recorrente relativas à ilegalidade da prisão preventiva sob o fundamento de ausência de motivação idônea para a manutenção da medida constritiva de liberdade, ausência dos requisitos autorizadores da custódia cautelar e excesso de prazo para formação da culpa não foram objeto de análise pelo Tribunal de origem, o que impede a sua análise por este Superior Tribunal de Justiça, cujo entendimento é no sentido de que o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte.
+(..)
+(RHC 72.582/CE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 28/08/2017).
+Ante o exposto, nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
