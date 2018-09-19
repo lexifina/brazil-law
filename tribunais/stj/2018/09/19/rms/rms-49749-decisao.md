@@ -1,0 +1,7 @@
+DECISÃO
+RIAFRUTTI INDÚSTRIA E COMÉRCIO DE FRUTAS LTDA interpõe recurso em mandado de segurança, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, que, nos autos do Mandado de Segurança n. 0004346-91.2014.8.05.0000, denegou o pedido de reconhecimento de nulidade da decisão que determinou a quebra do sigilo bancário de empresas supostamente vinculadas à organização criminosa voltadas para o jogo do bicho.
+Entretanto, em 5/8/2018, peticionou o recorrente, às fls. 235-241, com a seguinte notícia: "Diante da ausência de qualquer elemento, ainda que indiciário, da ocorrência de crime imputável aos investigados, o próprio Ministério Público do Estado da Bahia requereu o arquivamento do feito, deferido pelo MM. Juízo da 1ª Vara Criminal de Lauro de Freitas" (fl. 237). Afirma, portanto, que as investigações foram arquivadas.
+Malgrado o recorrente ainda pretenda o exame deste recurso, forçoso reconhecer a perda superveniente de seu objeto, na medida em que arquivadas as investigações, deixaram de subsistir quaisquer atos passíveis de avaliação quanto à ilegalidade ou abusividade, não se prestando a via mandamental para obstar eventual procedimentos futuros e incertos.
+Se, eventualmente, se perpetrarem novos atos que malfiram, in thesis, direito do recorrente, haverá o pronto exame do órgão judicial competente.
+À vista do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado este recurso em mandado de segurança, pela perda superveniente de objeto.
+Publique-se e intimem-se.
