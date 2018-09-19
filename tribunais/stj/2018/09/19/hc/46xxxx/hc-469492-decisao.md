@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR EM PRÉVIO WRIT. LESÃO CORPORAL. EXECUÇÃO PENAL. COMPETÊNCIA. APLICAÇÃO DA SÚMULA 691/STF.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando-se como autoridade coatora o Desembargador Relator do Tribunal de Justiça do Distrito Federal e dos Territórios, que indeferiu a liminar no HC n. 0716440-34.2018.8.07.0000.
+Narram os autos que o paciente foi condenado pelo Juízo da 1ª Vara Penal da comarca de Cajazeiras/PB, nos Autos n. 0002144-02.2010.8.15.0131, à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, pela prática do delito previsto no art. 129, § 1º, I, do Código Penal. Transitada em julgado a condenação em 8/9/2016, ele foi preso em 25/7/2017, em Brasília.
+Estes autos foram a mim distribuídos por prevenção do HC n. 461.527/DF, cuja liminar deferi em 8/8/2018 para fixar, por ora, o Juízo da comarca de Cajazeiras/PB para resolver as medidas urgentes que versem sobre a execução da pena.
+Posteriormente, no dia 12/9/2018, Juízo da 1ª Vara Criminal da comarca de Cajazeiras/PB deferiu ao paciente a progressão ao regime aberto. Na oportunidade, determinou o envio do alvará de soltura, por carta precatória, ao Juízo competente para seu cumprimento e determinou que se oficiasse ao Juízo das Execuções penais do Distrito Federal para informar a possibilidade do cumprimento da pena no regime aberto.
+Expedida a carta precatória, o Juiz de Direito da 2ª Vara de Precatórias do Distrito Federal determinou a sua redistribuição à Vara de Execuções Penais.
+Agora, pretende o impetrante, inclusive em liminar, a concessão da ordem para que seja fixado o Juízo da 2ª Vara de Precatórias do Distrito Federal como competente para cumprir integralmente a carta precatória, expedindo-se o competente alvará de soltura em favor do paciente.
+Alega, para tanto, que o Juízo da Vara de Precatórias, ao remeter o cumprimento da carta precatória ao Juízo da VEP-DF, deu início ao constrangimento ilegal ao paciente que, após obter o direito à progressão de regime/ alvará de soltura, permanece no cárcere (fl. 3).
+É o relatório.
+Ocorre que, as Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado na Súmula 691/STF, têm entendimento pacificado de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que, por ora, não se observa, porquanto, destacou o Desembargador Relator - além do fato de que a própria Lei de Organização Judiciária do Distrito Federal, em seu art. 23, I, prevê a competência da Vara de Execuções Penais para "execução das penas e das medidas de segurança, bem como o julgamento dos respectivos incidentes" (fl. 20) - que, havendo solicitação do juízo deprecante de manifestação a respeito da possibilidade de cumprimento da pena em regime aberto nessa Circunscrição (ID 5430081 p.4), torna-se necessária a manifestação da VEP a esse respeito (fl. 20).
+Assim, diante da inadmissível supressão de instância, convém aguardar o trâmite regular dos habeas corpus na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
