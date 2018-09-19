@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos em face da decisão de fls. 476/477 e-STJ, que deu provimento ao recurso especial interposto contra acórdão assim ementado:
+AGRAVO INOMINADO. ART. 557, § 1º, CPC. DECISÃO UNIPESSOAL. JURISPRUDÊNCIA CONSOLIDADA. PARADIGMA. CONFRONTO INEXISTENTE. MULTA. IMPOSIÇÃO. ART. 557, § 2º, CPC. RECURSO CONHECIDO E DESPROVIDO.
+Argumentou a parte recorrente, ora embargada, que a prescrição intercorrente não poderia ser pronunciada pelas instâncias ordinárias sem a expressa intimação da parte a quem prejudica.
+O recurso especial foi provido, determinando-se a cassação da sentença que extinguiu a execução, em vista do entendimento pacífico do STJ de que a prescrição intercorrente depende da constatação de inércia do credor, que se mantém indiferente mesmo diante da intimação pessoal para promover o andamento do processo.
+A parte embargante sustenta que a Corte de origem teria verificado a existência de intimação pessoal para o impulso do feito, ignorada pelo embargado, conforme se constata do seguinte trecho do acórdão estadual (fl. 562 e-STJ):
+Sustenta a agravante que inexiste, in casu, a prescrição intercorrente, pois, em momento algum, foi intimado para movimentar o feito. Também não se mostrou ele inerte e desinteressado, pois assim que cientificado do estado do processo procurou os meios e diligência necessárias para dar prosseguimento ao feito (sic), o que imerece prosperar, uma vez que se quedou inerte quando intimado inúmeras vezes para o recolhimento do ITBI correspondente, e o que é pior, permaneceu mais de cinco anos com os autos em carga, ou seja, quase o dobro do referido prazo prescircional, e, ainda eu após intimado pessoalmente para impulsionar o processo, em consonância com o entendimento da jurisprudência pátria, mais uma vez agiu com desídia (fls. 286-295).
+
+Ocorre que o exame do trecho destacado no acórdão, que corresponde às fls. 423/439 e-STJ, indica que a parte embargada compareceu no processo, e a leitura até a fl. 456 e-STJ mostra que a parte não se quedou inerte, procurando solucionar a controvérsia acerca do recolhimento do ITBI de um imóvel pertencente à parte embargante. A decisão embargada, assim, não merece reparo.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
