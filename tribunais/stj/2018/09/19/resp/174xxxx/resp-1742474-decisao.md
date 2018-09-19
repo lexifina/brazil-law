@@ -1,0 +1,23 @@
+DECISÃO
+Discute-se no recurso especial a questão relativa à prescrição trienal sobre a pretensão de restituição dos valores pagos a título de serviço de assistência técnico-imobiliária (SATI), matéria já julgada sob o rito dos recursos repetitivos, pela Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.551.956/SP, vinculado ao Tema n. 938/STJ, assim ementado:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. PRESCRIÇÃO TRIENAL DA PRETENSÃO. ENRIQUECIMENTO SEM CAUSA.
+1. TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+1.1. Incidência da prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI), ou atividade congênere (art. 206, § 3º, IV, CC).
+1.2. Aplicação do precedente da Segunda Seção no julgamento do Recurso Especial n. 1.360.969/RS, concluído na sessão de 10/08/2016, versando acerca de situação análoga.
+2. CASO CONCRETO:
+2.1. Reconhecimento do implemento da prescrição trienal, tendo sido a demanda proposta mais de três anos depois da celebração do contrato.
+2.2. Prejudicadas as demais alegações constantes do recurso especial.
+3. RECURSO ESPECIAL PROVIDO. (REsp n. 1.551.956/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe 6/9/2016.)
+Conforme a jurisprudência do Superior Tribunal de Justiça acima demonstrada, a pretensão de restituição dos valores pagos a título de serviço de assistência técnico-imobiliária (SATI), ou atividade congênere, prescreve em três anos, nos termos do art. 206, § 3º, IV, do Código Civil.
+O acórdão recorrido, por sua vez, assim decidiu a questão:
+Correta, no mais, a devolução da taxa Sati, cujo reembolso dos valores é formulado pelos autores, destacando-se que a pretensão não se encontra acobertada pela prescrição, pese o afastamento do prazo prescricional constante do art. 27 do Código de Defesa do Consumidor, pois não se identifica fato do produto ou do serviço a ensejar a aplicação desse dispositivo legal.
+O Código Civil disciplina o prazo de 10 anos para a pretensão relacionada ao pagamento de serviços profissionais, como ocorrido na espécie, sejam os prestados pelo corretor ou pela equipe de assessoria imobiliária, nos termos do art. 205 do CC. No mesmo sentido o Enunciado nº 38.4 desta Câmara: "Prescreve em 10 (dez) anos o prazo para a propositura da ação buscando o reembolso das verbas de assessoria imobiliária quitadas em razão do compromisso de venda e compra de bem imóvel. Incidência do disposto no art. 205 do Código Civil". (fls. 320/321)
+Portanto, faz-se necessária a devolução dos autos à Corte de origem para a observância da sistemática dos recursos repetitivos quanto à realização do procedimento do juízo de retratação, consoante determinam os arts. 1.040 e 1.041 do Código de Processo Civil, in verbis:
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1o. § 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Ante o exposto, nos termos do art. 21-E, inciso VIII, do Regimento Interno do Superior Tribunal de Justiça, determino a devolução dos autos ao Tribunal a quo para que se observe a sistemática prevista nos arts. 1.040 e 1.041, do Código de Processo Civil.
+Publique-se. Intimem-se.
