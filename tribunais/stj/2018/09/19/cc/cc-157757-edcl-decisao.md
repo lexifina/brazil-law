@@ -1,0 +1,39 @@
+DECISÃO
+Banco Mercedes-Benz do Brasil S.A. opõe embargos de declaração em face da decisão de fls. 1.701/1.706, que não conheceu do conflito de competência.
+Alega que o decisório é omisso quanto ao risco de decisões conflitantes entre as autoridades judiciárias apontadas, o que é suficiente para caracterizar o choque de competências, que não precisa ocorrer em concreto, sendo suficiente a possibilidade potencial.
+Sustenta que a mera suspensão da eficácia da decisão paulista não suprime o cabimento do incidente, que pode emergir do julgamento do recurso especial interposto contra o acórdão do TJBA.
+Afirma que a declaração da competência não precisa ser explícita, conforme admitido em precedentes do STJ.
+Por fim, reclama de a decisão haver silenciado ainda sobre o art. 55, § 3º, do Código de Processo Civil.
+Transportadora Sol Dourado EIRELI - EPP apresenta impugnação às fls. 1.722/1.731, no sentido de que o embargante atua de má-fé, devendo ser apenado com multa, diante de que as ações versam objetos diversos: a apreensão de veículos e o desacoplamento de acessórios e carrocerias cuja devolução é postulada em desfavor da instituição financeira. Adiciona que o especial aguarda julgamento nesta Corte, cabendo ser sobrestado o conflito, apesar de reconhecer a impossibilidade de decisões conflitantes.
+Assim resumida a questão, passo a decidir.
+O vício inquinado não está presente.
+Com efeito, a fundamentação do conflito é clara quanto à ausência de pressupostos do incidente, que é a existência de controvérsia judicial sobre a reunião dos feitos ou a declaração implícita ou explícita da competência para processar e julgar a ação distribuída para o outro Juízo, bem como quanto ao afastamento da possibilidade de prolação de decisões conflitantes, que é a situação prevista no art. 55, § 3º, do CPC. Confira-se (fls. 1.703/1.706):
+Esses são os argumentos por meio dos quais indeferi a tutela de urgência (fls. 1.653/1.655):
+De início, convém explicitar que o cabimento do conflito depende da controvérsia ente órgãos judiciais sobre a competência ou incompetência para o julgamento de processos ou sobre a reunião ou separação destes.
+No caso dos autos, os dois magistrados não se afirmam competentes para o julgamentos das ações, ao contrário, delimitam com clareza o objeto de cada uma, versando a possessória exclusivamente quanto aos veículos objeto da garantia fiduciária (fls. 29) e dos bens de propriedade da Transportadora (fl. 24, in fine).
+O Juízo paulistano, por outro lado, reconhece que a apreensão foi indevida e que a matéria está afeta à Justiça estadual baiana (fls. 28 e 29).
+Não soa razoável, além disso, impor a quem teve seu patrimônio injustamente bloqueado os custos pela manutenção e depósito dos bens (fl. 23), muito menos estipular multa pela retirada de ato para o qual não deu causa.
+Ademais, haverá conexão entre feitos quando forem comuns a causa de pedir e o objeto dos processos, situação que, em exame perfunctório, não parece ocorrer na hipótese, em que em um se busca a apreensão de veículos gravados com alienação fiduciária, enquanto em outro, cujo objeto é completamente diverso, o pleito é a devolução de bens da interessada indevidamente apreendidos, o que em princípio afasta qualquer risco da ocorrência de decisões conflitantes. Em diversos precedentes da Segunda Seção tal entendimento encontra-se sedimentado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA DO TRABALHO. AÇÃO DECLARATÓRIA DE DIREITO CUMULADA COM PEDIDO DE INDENIZAÇÃO PATRIMONIAL E MORAL PROPOSTA PELO EX-EMPREGADOR CONTRA A EX-EMPREGADA. AÇÃO PAULIANA E AÇÃO CAUTELAR DE SEQÜESTRO. CONEXÃO ENTRE A PRIMEIRA AÇÃO E AS DUAS ÚLTIMAS. INEXISTÊNCIA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA O JULGAMENTO DA PRIMEIRA AÇÃO E DA JUSTIÇA COMUM PARA O JULGAMENTO DAS DUAS ÚLTIMAS.
+I - Compete à Justiça do Trabalho processar e julgar ação declaratória de direito cumulada com pedido de indenização patrimonial e moral, proposta pelo ex-empregador contra a ex-empregada, fundada nos atos ilícitos supostamente cometidos por esta última no exercício de suas funções.
+II - Não há conexão entre a ação declaratória de direito cumulada com pedido de indenização patrimonial e moral e as ações pauliana e cautelar de seqüestro propostas pela ex-empregadora contra a ex-empregada, pela ausência de identidade de pedido ou causa de pedir.
+III - Compete à Justiça comum processar e julgar ação na qual se pugna pela anulação de ato praticado em fraude contra credores, por se tratar de ação de natureza civil, ainda que o ato impugnado tenha o objetivo de frustrar a futura execução de uma dívida trabalhista.
+Conflito de Competência conhecido para, afastando-se a conexão declarada pelo Juízo suscitado, declarar a competência do juízo suscitante para o julgamento da ação declaratória de direito cumulada com pedido indenizatório patrimonial e moral; e a competência do juízo suscitado para o julgamento da ação pauliana e da ação cautelar de seqüestro.
+(CC 74.528/SP, Rel. Ministro SIDNEI BENETI, unânime, DJe de 4.8.2008)
+AGRAVO REGIMENTAL - CONFLITO POSITIVO DE COMPETÊNCIA - JUSTIÇA COMUM E TRABALHISTA - AÇÃO DE USUCAPIÃO ESPECIAL - HIPÓTESE DE FORO ESPECIAL PREVISTO EM LEI - INEXISTÊNCIA DE CONEXÃO DA AÇÃO DE USUCAPIÃO COM AS AÇÕES POSSESSÓRIAS DECORRENTES DA EXECUÇÃO TRABALHISTA - PEDIDO E CAUSA DE PEDIR DISTINTOS - COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL PARA O JULGAMENTO DO FEITO - AGRAVO PROVIDO.
+(AgRg no CC 51.175/MG, Rel. Ministro MASSAMI UYEDA, unânime, DJe de 10.10.2008)
+Por fim, não é o conflito de competência sucedâneo do recurso próprio, uma vez que se encontra em processamento o recurso especial que ataca o julgado do TJBA, que ficaria prejudicado pelo acolhimento da tese defendida pelo suscitante.
+Não se identifica, por conseguinte, a presença simultânea dos requisitos legais.
+Em face do exposto, indefiro a tutela cautelar de urgência.
+Conforme se verifica das informações prestadas pelas autoridades judiciárias indicadas, não há afirmação recíproca da competência para o julgamento dos processos que a outra preside, nem há controvérsia acerca da reunião das causas, de modo que não está caracterizado o conflito positivo, conforme descrito nas normas processuais.
+Sobrestado o feito que tramita na comarca paulista especificamente quanto à determinação para retirada dos equipamentos às expensas da transportadora, no aguardo do que será definido no recurso especial interposto em face do julgamento do agravo de instrumento pelo TJBA, não se afiguram possíveis decisões conflitantes no particular.
+A hipótese, por conseguinte, tem pertinência com o precedente lembrado no parecer do MPF:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. SUSCITAÇÃO DO CONFLITO PELA PARTE. NECESSIDADE DE PRÉVIA MANIFESTAÇÃO DOS JUÍZOS CONFLITANTES. CONFLITO NÃO CONHECIDO. RECURSO IMPROVIDO.
+1. Nos termos do artigo 115 do Código de Processo Civil, para que haja conflito de competência, é necessário que dois ou mais juízes se declarem competentes ou incompetentes para processar e julgar a mesma ação.
+2. A legitimidade das partes para suscitar o conflito de competência (artigo 116 do Código de Processo Civil) não tem o condão de excluir a necessidade da prévia manifestação dos juízos em conflito, seja ela expressa ou implícita, não se confundindo o conflito de jurisdição e a exceção de competência.
+3. Em inexistindo manifestação, implícita ou explícita, de um dos juízes tidos como conflitantes acerca de sua competência para processar e julgar a lide, não se conhece do conflito de competência.
+4. Agravo regimental improvido.
+(Terceira Seção, AgRg no CC 30.356/SP, Rel. Ministro HAMILTON CARVALHIDO, unânime, DJU de 4.2.2002)  sem negrito no original
+Por fim, a multa não é consectário lógico da rejeição do recurso, porque não prevista na lei processual a imposição automática.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
