@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EVEN BRISA ALPHA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra decisão de fls. 699/671 (e-STJ), que deu parcial provimento ao recurso especial.
+A embargante afirma que "não tem lugar/não pode haver a condenação da embargante ao pagamento de multa, a título de cláusula penal, pelo descumprimento da avença" (fl. 680, e-STJ).
+Impugnação às fls. 686/695 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+A decisão atacada não padece de nenhum dos vícios ensejadores dos embargos declaratórios enumerados no artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015): obscuridade, contradição, omissão ou erro material.
+Verifica-se que matéria referente ao índice de correção do saldo devedor não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Entretanto, a jurisprudência desta Corte firmou-se no sentido de que é presumida "a ocorrência de lucros cessantes em razão da não entrega de imóvel na data estipulada" (AgRg no REsp nº 826.745/RJ, Relator Ministro João Otávio de Noronha, DJe 22/3/2010).
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO BEM. REEXAME DE PROVAS. VEDAÇÃO EM RECURSO ESPECIAL. SÚMULAS NºS 5 E 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DANOS MATERIAIS. LUCROS CESSANTES. CONFIGURAÇÃO. PREJUÍZO PRESUMIDO. DISSÍDIO NÃO DEMONSTRADO.
+(..)
+4. A jurisprudência desta Corte Superior é no sentido de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável.
+(..)
+7. Agravo interno não provido" (AgInt no AREsp 1.059.699/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/8/2017, DJe 18/8/2017-grifou-se).
+Quanto à possibilidade de cumulação da cláusula penal com lucros cessantes decorrentes da não fruição do imóvel durante o tempo da mora da promitente vendedora, também já há jurisprudência pacífica nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA PELA CONSTRUTORA. CLÁUSULA PENAL MORATÓRIA. POSSIBILIDADE DE CUMULAÇÃO COM LUCROS CESSANTES. JURISPRUDÊNCIA CONSOLIDADA NO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, ocorrendo atraso na entrega do imóvel pela construtora, é perfeitamente possível cumular a cláusula penal decorrente da mora com indenização por lucros cessantes pela não fruição do imóvel, pois aquela tem natureza moratória, enquanto esta compensatória, razão pela qual não há que se falar em bis in idem.
+2. Agravo regimental desprovido".
+(AgRg no REsp 1544333/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. MORA. CLÁUSULA PENAL. SUMULAS 5 E 7/STJ. ART. 535. AUSÊNCIA DE OMISSÕES. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não conheço da alegada vulneração do art. 535, I e II, do CPC. Nas razões do especial o recorrente deduz argumentação de que as questões postas nos aclaratórios interpostos na origem não foram respondidas, sem pontuar, de forma específica, quais seriam e qual a sua relevância para solução da controvérsia, o que atrai, de forma inarredável, a exegese da Súmula 284/STF.
+2. A revisão dos fundamentos do acórdão estadual, para afastar a incidência de multa prevista no contrato de compra e venda de imóvel na planta, demandaria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto-fático probatório dos autos, o que esbarra nas Súmulas 5 e 7/STJ.
+3. Nos termos da jurisprudência consolidada neste Sodalício, a inexecução do contrato de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta além da indenização correspondente à cláusula penal moratória, o pagamento de indenização por lucros cessantes pela não fruição do imóvel durante o tempo da mora da promitente vendedora. Precedentes.
+4. Agravo regimental a que se nega provimento".
+(AgRg no AREsp 525.614/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/08/2014, DJe 25/08/2014 - grifou-se)
+Não se vislumbra, portanto, a existência da omissão apontada.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição, ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+Intimem-se.
