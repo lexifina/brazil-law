@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBOS MAJORADOS. INCIDÊNCIA DA CAUSA DE AUMENTO PREVISTA NO INCISO I DO § 2º DO ART. 157 DO CP. EMPREGO DE ARMA. APREENSÃO E PERÍCIA. DESNECESSIDADE. UTILIZAÇÃO COMPROVADA POR OUTROS MEIOS DE PROVA. PRECEDENTES. AUSÊNCIA DE POTENCIALIDADE LESIVA. ÔNUS DA DEFESA.
+1. O Superior Tribunal de Justiça possui entendimento firme de que é prescindível a apreensão e a perícia da arma para a incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, quando existirem nos autos outros elementos de prova capazes de comprovar a sua utilização no delito, como no caso concreto, em que demonstrado pela própria Corte de origem, por meio do depoimento certo e seguro da vítima, que o apelante praticou o roubo utilizando arma de fogo.
+2. A jurisprudência desta Corte é assente no sentido de que a utilização de arma carente de potencial lesivo, como forma de intimidar a vítima do delito de roubo, caracteriza o emprego de violência, porém não permite o reconhecimento da majorante de pena, em face da sua ineficácia para a realização de disparos. No entanto,  ..  cabe ao imputado demonstrar que a arma é desprovida de potencial lesivo, como na hipótese de utilização de arma de brinquedo, arma defeituosa ou arma incapaz de produzir lesão (EREsp n. 961.863/RS, Ministro Celso Limongi (Desembargador Convocado do TJ/SP), Rel. p/ Acórdão Ministro Gilson Dipp, Terceira Seção, DJe 6/4/2011).
+3. O poder vulnerante integra a própria natureza do artefato, sendo ônus da defesa, caso alegue o contrário, provar tal evidência. Exegese do art. 156 do CPP. (AgRg no Ag no REsp n. 1.561.836/SP, Ministro Jorge Mussi, Quinta Turma, DJe 25/4/2018).
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão de minha lavra, assim resumida (fl. 492):
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBOS MAJORADOS. INCIDÊNCIA DA CAUSA DE AUMENTO PREVISTA NO INCISO I DO § 2º DO ART. 157 DO CP. EMPREGO DE ARMA DE FOGO. AUSÊNCIA DE APREENSÃO E PERÍCIA. POSSIBILIDADE. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. PRECEDENTES.
+Agravo conhecido para negar provimento ao recurso especial.
+Nas suas razões, aduz o agravante, em suma, que, diferentemente do arguido na decisão monocrática, não é cabível a aplicação da majorante de arma de fogo apenas com base no depoimento da vítima e sem apreensão da suposta arma, sem tampouco perícia técnica, registrando, ainda, que, no caso, a palavra da vítima não se mostra coerente, harmônica ou associada a outras provas produzidas durante o processo (fl. 504).
+Requer, ao final, a reconsideração da decisão monocrática, ou a submissão do presente recurso a julgamento pelo órgão colegiado (fl. 506).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O argumento recursal não é suficiente para infirmar os fundamentos da decisão agravada.
+Consoante consignei na decisão impugnada, o Superior Tribunal de Justiça possui entendimento firme de que é prescindível a apreensão e a perícia da arma para a incidência da majorante prevista no art. 157, § 2º, I, do Código Penal, quando existirem nos autos outros elementos de prova capazes de comprovar a sua utilização no delito, como no caso concreto, em que demonstrado pela própria Corte de origem que,  ..  pelo testemunho da vítima, o qual, apesar certa imprecisão, justificável pela emoção do momento (quem fica impassível diante do anúncio de uma assalto ), confirmou que o réu exibiu um revólver por baixo da camisa "da coronha até a outra metade". Há prova suficiente do uso de arma, como afirmado pelo órgão acusador (fl. 405 - grifo nosso).
+Ora, o Juízo sentenciante também deixa claro a certeza da vítima [NOME] ao afirmar que o réu estava armado, o que foi confirmado pelo depoimento da testemunha [NOME] (fl. 412), razão pela qual não há falar em afastamento da causa de aumento de pena.
+Além dos precedentes citados na decisão agravada, confiram-se estoutros:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. EMPREGO DE ARMA. AUSÊNCIA DE APREENSÃO E PERÍCIA DO ARTEFATO. INCIDÊNCIA DA CAUSA DE AUMENTO COM FUNDAMENTO EM PROVA TESTEMUNHAL. POSSIBILIDADE. REGIME PRISIONAL FECHADO. GRAVIDADE CONCRETA DA CONDUTA. MAUS ANTECEDENTES DO RÉU. WRIT NÃO CONHECIDO.
+ ..
+2. A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como na hipótese, em que há farta comprovação testemunhal atestando o seu emprego.
+ ..
+5. Writ não conhecido.
+(HC n. 419.278/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/5/2018)
+Outrossim, não se desconhece que a jurisprudência desta Corte é assente no sentido de que a utilização de arma carente de potencial lesivo, como forma de intimidar a vítima do delito de roubo, caracteriza o emprego de violência, porém não permite o reconhecimento da majorante de pena, em face da sua ineficácia para a realização de disparos.
+No entanto,  ..  se o acusado sustentar a ausência de potencial lesivo da arma empregada para intimidar a vítima, será dele o ônus de produzir tal prova, nos termos do art. 156 do Código de Processo Penal (HC n. 96.099/RS, Ministro Ricardo Lewandowski, Pleno, maioria, Dje 5/6/2009).
+Nesse sentido:
+ .. PRETENDIDO AFASTAMENTO DA CAUSA DE AUMENTO RELACIONADA AO EMPREGO DE ARMA DE FOGO. POTENCIALIDADE LESIVA. AUSÊNCIA DE APREENSÃO E DE EXAME PERICIAL. DESNECESSIDADE. EXISTÊNCIA DE OUTROS MEIOS DE PROVA A ATESTAR O EFETIVO EMPREGO DO OBJETO. LESIVIDADE QUE INTEGRA A PRÓPRIA NATUREZA. PROVA EM SENTIDO CONTRÁRIO. ÔNUS DA DEFESA. PRECEDENTE DA TERCEIRA SEÇÃO. ILEGALIDADE AFASTADA.
+1. Consoante entendimento firmado pela Terceira Seção deste Tribunal Superior, para o reconhecimento da causa de aumento de pena prevista no inciso I do § 2º do art. 157 do Código Penal, mostra-se dispensável a apreensão do objeto e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva (EResp 961.863/RS).
+2. O poder vulnerante integra a própria natureza do artefato, sendo ônus da defesa, caso alegue o contrário, provar tal evidência. Exegese do art. 156 do CPP.
+ ..
+(AgRg no Ag no REsp n. 1.561.836/SP, Ministro Jorge Mussi, Quinta Turma, DJe 25/4/2018 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
