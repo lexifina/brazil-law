@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 535 DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF5, assim ementado (fl. 1105):
+TRIBUTÁRIO. IMPORTAÇÃO DE MERCADORIA. REGIME DE ADMISSÃO "TEMPORÁRIA. SUSPENSÃO TOTAL DO PAGAMENTO DO IMPOSTO. REQUISITOS. OBSERVÂNCIA.
+1. O art. 5º; XII, da IN SRFB 150/1999, admite a aplicação do regime de admissão temporária, .com suspensão total do pagamento de tributos incidentes, dentre outras hipótese, na importação de bens utilizados no acondicionamento de outros destinados à exportação.
+2. Hipótese em que a empresa impetrante tem como um de seus objetos a produção agrícola e a venda dos produtos dessa atividade, inclusive exportação, o que fez com que importasse geradores para ser utilizados no "acondicionamento dos mencionados produtos a ser exportados, já que acoplados em contêineres refrigeradores.
+3. Apelação e remessa oficial desprovidas.
+Os embargos de declaração foram rejeitados (fls. 218/221).
+Nas razões do recurso especial, a parte recorrente alega, preliminarmente, violação do art. 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, aponta ofensa aos arts. 79 da Lei 9.430/1996; 324 do Decreto 4.543/2002; 60 da IN SRF n. 285/2003. Sustenta, em síntese, que o Tribunal de origem autorizou o desembaraço aduaneiro das mercadorias mediante a aplicação do regime especial de admissão temporária com suspensão total dos tributos por considerar que as mercadorias importadas seriam destinadas ao acondicionamento de produtos agrícolas que seriam exportados pela impetrante. Defende, contudo, que se trata de admissão temporária para utilização econômica, a qual "abrange a simples locação de equipamentos e até mesmo o empréstimo de equipamentos, sem contrapartida de pagamentos ao exterior. Basta que o eguipamento venha a ser utilizado na prestação de serviços no Brasil ou na produção de outros bens para caracterizar tal espécie de admissão temporária  ..  a inquestionável relevância da utilização de geradores na atividade fim do impetrante não afasta a exigência dos tributos, no caso de forma proporcional, devidos na importação" (fl. 230).
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 234.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da natureza da admissão temporárias no caso em tela, argumentando que se trata "de admissão temporária para utilização econômica, prevista no art. 79 da Lei 9.439/96 e regulamentada pelos arts. 324 a 330 do Dec. 4.543/2002 e pelas IN/SRF 285/2003".
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 535, I ou II, do CPC/1973, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
