@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4, assim ementado (fl. 1105):
+TRIBUTÁRIO. DÉBITOS CONSTITUÍDOS E EXIGÍVEIS. CISÃO PARCIAL DE EMPRESAS. RESPONSABILIDADE SOLIDÁRIA.
+A empresa resultante da cisão parcial responde solidariamente pelos débitos da empresa cindida com fatos geradores ocorridos até a data de realização do ato de cisão.
+Nas razões do recurso especial, a parte recorrente sustenta ofensa aos arts. 142, 145, 174, III e IV, do CTN; 3º da Lei 9.964/2000. Para tanto, sustenta que (i) "não houve reconhecimento de fatos geradores pretéritos oponíveis a Recorrente, porque não há a constituição do débito ou lançamento tributário lançados à ela" (fl. 1120); (ii) "não tendo ocorrido procedimento de Constituição do Débito Tributário com a formalização de lançamento, notificação ou mesmo procedimento da Recorrente quanto ao reconhecimento da obrigação tributária, não pode ela ser afeta à obrigação que se quer lhe impor" (fl. 1124); (iii) "é necessário que no ato de cisão, sejam flagradas as responsabilidades, obrigações (principais e acessórias, materiais e formais). Tal hipótese é diversa do caso concreto, porque neste a apuração de ilicitude da empresa cindida, operou-se mais de quatro anos após a cisão, não podendo seus efeitos, retroagirem para atingir a Recorrente" (fl. 1125).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 1169.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Na espécie, o Tribunal de origem em suas razões de decidir deixou consignado que (fls. 1101-1103):
+Da responsabilidade tributária em caso de cisão parcial A parte autora foi constituída no ano de 1996, decorrente da cisão empresarial e patrimonial da empresa então denominada de De Geroni Construções e Incorporações Ltda., detentora do CNPJ nº 94.783.396/0003-04, ocorrida em 01/11/1996 e levada a registro em 06/02/97. Na cisão, foram formadas duas empresas distintas, sendo uma delas a requerente (De Geroni Empreendimentos e Participações Ltda.).
+O fundamento normativo para tal operação está dado pelo art. 229, caput, da chamada Lei das Sociedades Anônimas - Lei nº 6.404, de 15 de dezembro de 1976 - a saber:
+ ..
+Diante disso, oportuno que se observem as disposições do postas na lei tributária quanto a tal ocorrência. Reza o artigo 132 do CTN que:
+ ..
+Não obstante o artigo 132 do CTN nada refira acerca da cisão parcial, o que só passou a ser regulamentado pela Lei nº 6.404/76, os efeitos tributários devem ser os mesmos até a data da operação, ou seja, a empresa cindenda fica responsável solidariamente pelos débitos da cindida até a data da cisão. Até porque do contrário, abrir-se-ia espaço para inúmeras fraudes, uma vez que a mera alteração na estrutura da empresa afastaria a responsabilidade por tributos, com evidente ofensa ao artigo 123 do CTN, segundo o qual "salvo disposições de lei em contrário, as convenções particulares, relativas à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a definição do sujeito passivo das obrig ações tributárias correspondentes."
+ ..
+Dessarte, a empresa resultante da cisão parcial responde solidariamente pelos débitos da empresa cindida em relação aos fatos geradores ocorridos até a data de realização do ato de cisão.
+Conforme a tese ora esposada assim já decidiu esta Corte:
+ ..
+Na hipótese dos autos, verifica-se por intermédio dos documentos acostados pela autora com a inicial (DESPACHO DRF/PFO/SCAT - EVENTO 2 - ANEXOS PET INI4) e do laudo pericial (evento 2, laudo 24), que após a cisão, a empresa cindida (De Geroni Construções e Incorporações Ltda., hoje ERECAMP Construções de Imóveis e Incorporações Ltda. EPP) aderiu ao REFIS em março de 2000, ocasião em que incluiu no parcelamento vários débitos relativos a períodos de apuração anteriores e posteriores à cisão, tendo sido excluída do programa em janeiro de 2002 e, posteriormente, incluída no PAES em julho de 2003, o qual foi rescindido em janeiro de 2006.
+Relativamente aos créditos tributários anteriores à cisão, conforme acima consignado, existe relação jurídica obrigacional da requerente, não importando o fato da declaração tais débitos ter sido efetivada pela empresa cindida e posteriormente ao ato de cisão, haja vista que o que determina a responsabilidade solidária da empresa cindenda é a data da ocorrência do fato gerador.
+Outrossim, não há falar em decadência ou prescrição de tais créditos tributários, porquanto houve duas causas interruptivas de prescrição, quais sejam: em 2000, quando da adesão no REFIS e, em 2003, quando da adesão no PAES. Por oportuno, transcrevo trecho da sentença que bem analisou a questão:
+(..)
+Oportuno ainda esclarecer que não há falar em decadência ou prescrição no caso em exame.
+lsso porque houve a adesão ao REFIS em 24/04/2000, sendo que os fatos geradores datam de 1995 a 2000 (fls. 111-118), cumprindo mencionar que se encontram devedores créditos tributários de períodos de apuração 07/1995 a 10/1995 e 04/1996 a 10/1996 (fl. 103).
+Os documentos das fls. 227-228 indicam entrega da declaração do ano calendário de 1995 (a qual traz os fatos geradores mais antigos) em 29/04/1996.
+Aqui é importante lembrar que em caso de declaração do contribuinte o prazo prescricional passa a fluir das declarações efetuadas, não cabendo falar em decadência.
+Com isso, considerando as declarações prestadas pela contribuinte em abril de 1996 e datas mais recentes, não há falar em prescrição, uma vez que os débitos foram incluídos no REFIS em 01/03/2000, excluídos do REFIS em 01/01/2002 e posteriormente incluídos no PAES em 28/07/2003 e rescindido o PAES em 31/01/2006 (11. 101).
+Logo, demonstrada a existência de débitos constituídos e exigíveis antes da cisão, cuja responsabilidade é solidariamente atribuída à parte autora, impõe-se a manutenção da sentença que julgou improcedente o pedido da autora.
+No que diz respeito aos arts. 142 e 145 do CTN; 3º da Lei 9.964/2000 282/stf (e as teses a eles vinculadas), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Além do mais, no que diz respeito à constituição do crédito tributário e à prescrição, a pretensão é inadmissível, pois o recorrente não impugnou o fundamento do acórdão recorrido segundo o qual houve declaração no ano calendário de 1995, relativamente aos débitos que especifica. Essa situação enseja a aplicação da Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
