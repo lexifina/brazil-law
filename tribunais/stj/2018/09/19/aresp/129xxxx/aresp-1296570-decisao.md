@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE INEFICÁCIA DA SENTENÇA PELA EXISTÊNCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. RECONHECIMENTO, PELAS INSTÂNCIAS ORDINÁRIAS, DE INEXISTÊNCIA DE LITISCONSÓRCIO NECESSÁRIO. REVISÃO. IMPOSSIBILIDADE. REGISTRO DE UNIDADE AUTÔNOMA JÁ DELIMITADA DE FATO, PARA FINS DE ALIENAÇÃO, QUE NÃO TRADUZ, DE PER SI, REPERCUSSÃO PATRIMONIAL PREJUDICIAL NA ESFERA DE TODOS OS CONDÔMINOS. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Guarujá Veículos Construções Ltda. interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 362):
+PREVENÇÃO. Não configuração. Artigo 105 do Regimento Interno do Tribunal de Justiça de São Paulo.
+Julgamento de agravo de instrumento oriundo de ação distinta e com partes diversas.
+OBRIGAÇÃO DE FAZER CUMPRIMENTO DE SENTENÇA. Arguição de ineficácia da sentença pela existência de litisconsórcio passivo necessário com os demais condôminos. Sentença transitada em julgado.
+Impossibilidade de arguir vícios processuais em fase de cumprimento de sentença. Interesse de terceiros que deve ser suscitado por estes em via adequada. Decisão mantida.
+Recurso não provido.
+Nas razões do recurso, a recorrente alegou violação do art. 47 do CPC/1973, diante da ineficácia da sentença objeto de execução por inobservância do litisconsórcio passivo necessário entre todos os condôminos e proprietários das unidades do condomínio.
+Aduziu que a eficácia da sentença em processo em que haja litisconsórcio passivo necessário "dependerá da citação dos demais litisconsortes, o que não ocorreu no caso, pois, estes sequer restaram incluídos na lide por quem de direito" (e-STJ, fl. 376).
+O apelo foi inadmitido, o que ensejou a interposição do presente agravo em recurso especial.
+Contraminuta apresentada às fls. 418-428 (e-STJ).
+Brevemente relatado, decido.
+Decerto, nos termos da jurisprudência desta Corte, que "a querela nullitatis é instrumento hábil para debater a falta de citação de litisconsorte necessário em demanda transitada em julgado (REsp 1.677.930/DF, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 24/10/2017). A nulidade decorrente da falta de citação pode ser suscitada por simples petição.
+Assim, a existência de litisconsórcio necessário, no qual não houve a citação dos demais litisconsortes, justifica, por simples objeção, o reconhecimento da nulidade do título judicial formado pela coisa julgada, que não se submete a efeito preclusivo relativamente aos pressupostos de existência.
+Entretanto, tal constatação depende de disposição legal ou da própria natureza da relação jurídica controvertida. No caso, a figura do litisconsórcio necessário foi afastada pelo Magistrado de primeiro grau "por conta da relação contratual entre as partes e a causa de pedir e pedidos expostos na exordial" (e-STJ, fl. 23).
+A ideia de inexistência de litisconsórcio necessário, portanto, se deu com base na relação contratual, de tal sorte que, segundo a jurisprudência desta Corte, "para infirmar a conclusão a que chegou o Tribunal de origem sobre a inviabilidade da formação do litisconsórcio passivo necessário, seria inevitável  ..  o revolvimento do arcabouço fático-probatório carreados aos autos", bem como a interpretação de cláusulas contratuais, "procedimento sabidamente inviável na instância especial" (AgInt no AREsp 950.301/PR, Relator o Ministro Moura Ribeiro, DJe de 19/12/2016).
+Assim, uma vez "reconhecida pelo Tribunal de origem a desnecessidade de formação de litisconsórcio passivo necessário decorrente da análise da relação jurídica entre os interessados, a alteração das conclusões adotadas pela Corte de origem,  ..  demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgRg no AREsp 13.188/ES, Relator o Ministro Sérgio Kukina, DJe de 24/6/2016).
+Mas, mesmo que assim não fosse, a própria relação estabelecida, no caso, não denota a existência de litisconsórcio necessário, porquanto o registro de unidade autônoma já delimitada de fato, para fins de alienação, não se traduz, de per si, em repercussão patrimonial (prejudicial) na esfera de todos os condôminos.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
