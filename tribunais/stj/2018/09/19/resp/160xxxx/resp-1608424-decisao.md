@@ -1,0 +1,5 @@
+DECISÃO
+Às fls. 4.066/4.081 (e-STJ), a ASSOCIACÃO DE ENSINO DE RIBEIRÃO PRETO noticia a celebração de acordo que ela e os demais recorrentes firmaram com ANTONIETA MARIA DE CARVALHO ALMEIDA PRADO e com o espólio e os sucessores de [NOME], já homologado pelo juízo competente (e-STJ fls. 4.080/4.081), no qual restou expressamente pactuada a desistência dos três embargos de declaração que se encontram pendentes de julgamento nos presentes autos.
+Tendo em vista o teor da referida petição de fls. 4.066/4.081 (e-STJ) e o expressamente disposto pelos arts. 932, inciso III, do Código de Processo Civil de 2015 e 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicados os embargos de declaração opostos pelo espólio de [NOME] (fls. 3.978/3.991), por ANTONIETA MARIA DE CARVALHO ALMEIDA PRADO (e-STJ fls. 3.992/3.998) e pelo espólio de EVANDRO ALBERTO DE OLIVEIRA BONINI (e-STJ fls. 3.999/4.000) em virtude da superveniente perda do objeto dos referidos recursos.
+Publique-se.
+Intimem-se.
