@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fulcro na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 172):
+AGRAVO (ART. 557, § Io, DO CPC/73). PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. RECÁLCULO DA RENDA MENSAL INICIAL. DECADÊNCIA. INOCORRÊNCIA.
+I- Com relação ao prazo decadencial previsto no art. 103, caput, da Lei n.º 8.213/91, com a redação dada pela Medida Provisória nº 1.523-9/1997, convertida na Lei nº 9.528, de 10/12/97, o Plenário do C. Supremo Tribunal Federal, em 16/10/13, nos autos da Repercussão Geral reconhecida no Recurso Extraordinário nº 626.489, de Relatoria do E. Ministro Luís Roberto Barroso, firmou entendimento no sentido de que o prazo decadencial pode ser aplicado aos benefícios previdenciários concedidos anteriormente à
+vigência da referida norma.
+II- Contudo, como bem asseverou a então Relatora, a fls. 116: "Ademais, com o advento da lei 10.999 de 15.12.04, o governo reconheceu o direito dos segurados à revisão nos termos pleiteados na exordial. Para o caso concreto, observo que tal reconhecimento já fora materializado pela parle autárquica, já que, a referida, propôs a revisão do beneficio da parte autora, de forma administrativa, entretanto, sem adesão por parte da requerente (segue em anexo)." Outrossim, a demandante, em 11/11/03, ajuizou no JEF, ação visando à revisão de sua pensão por morte, mediante a majoração do coeficiente para 100%, bem como a aplicação do IRSM no salário de contribuição. No entanto, a sentença somente apreciou o pedido referente à majoração do coeficiente, sendo omissa quanto ao IRSM.
+Opostos embargos de declaração, foram rejeitados (fl. 196).
+Nas razões do apelo especial, aponta o recorrente violação ao art. 103 da Lei 8.213/91, sustentando a ocorrência da decadência ao direito de revisão do benefício previdenciário recebido pela parte autora.
+Afirma que "as ações onde o segurado ou dependente pleiteiem a revisão de seu benefício previdenciário, mesmo aqueles concedidos antes de 27 de junho de 1997, deverão ser julgadas improcedentes, reconhecendo a decadência ao direito de revisão, se o tempo entre a concessão ou a pratica de ato ilícito e o ajuizamento da ação ultrapassar mais de 10 anos, a contar da edição da MP 1.523-9/1997" (fl. 216).
+Sem contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+Quanto à questão de fundo, cuida-se, na origem, de demanda ajuizada pela parte autora, objetivando, em síntese, a revisão do benefício de pensão por morte, mediante a aplicação do índice integral do IRSM de fevereiro/1994, o percentual de 39,67% (trinta e nove vírgula sessenta e sete por cento).
+A Corte de origem manteve a sentença de procedência, afastando a decadência sob o seguinte fundamento (fl. 146):
+Não se trata de ação em que se pleiteia a revisão do ato de concessão, como expressamente dispõe o art. 103 da Lei 8.213/91, com a redação dada pela Lei 9.528/97.
+Ademais, com o advento da lei 10.999 de 15.12.04, o governo reconheceu o direito dos segurados à revisão nos termos pleiteados na exordial.
+Para o caso concreto, observo que tal reconhecimento já fora materializado pela parte autárquica, já que, a referida, propôs a revisão do benefício da parte autora, de forma administrativa, entretanto, sem adesão por parte da requerente (segue em anexo).
+Diante disto, in casu, resta afastada a possibilidade de decadência do direito de ação.
+Ao que se observa, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, com o advento da lei 10.999 de 15.12.04, o governo reconheceu o direito dos segurados à revisão nos termos pleiteados na exordial. Para o caso concreto, observo que tal reconhecimento já fora materializado pela parte autárquica, já que, a referida, propôs a revisão do benefício da parte autora, de forma administrativa, entretanto, sem adesão por parte da requerente.
+A irresignação, portanto, esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Do exposto, nego provimento ao agravo.
+Publique-se.
