@@ -1,0 +1,77 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO SUBSCRITO E TRANSMITIDO DIGITALMENTE POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS, NA VIGÊNCIA DO CPC/2015. ART. 104 C/C ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. AUSÊNCIA DA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL, APESAR DA INTIMAÇÃO PARA TANTO. NÃO CONHECIMENTO DO RECURSO. SÚMULA 115 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. No caso, a decisão ora combatida foi publicada em 15/02/2018. Portanto, o presente Agravo interno deve ser analisado à luz do novo CPC. Com efeito, em homenagem ao princípio tempus regit actum, o Superior Tribunal de Justiça consolidou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater. Assim, consoante o Enunciado Administrativo 3/STJ, aprovado pelo Plenário do STJ na sessão de 09/03/2016, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+II. Nos termos do art. 104 do CPC/2015, "o advogado não será admitido a postular em juízo sem procuração, salvo para evitar preclusão, decadência ou prescrição, ou para praticar ato considerado urgente". Por sua vez, o art. 932, parágrafo único, do mesmo Diploma Processual dispõe que, "antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado vício ou complementada a documentação exigível".
+III. Intimada a regularizar a sua representação processual, nos termos do art. 932, parágrafo único, do CPC vigente, a parte agravante juntou apenas o substabelecimento subscrito pelo Dr. [NOME] ao Dr. [NOME], sem juntar, novamente, a procuração originária, outorgada pelo Sindicato dos Trabalhadores em Educação da Universidade Federal do Rio de Janeiro aos causídicos, o que inviabiliza o conhecimento do presente recurso.
+IV. Diante da ausência de correção do vício apontado - apesar de intimada a parte recorrente para tanto -, incide, no caso, a Súmula 115/STJ. Nesse sentido: STJ, AgInt no AREsp 902.090/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 21/09/2016; AgInt no AREsp 821.748/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 10/08/2016.
+V. Agravo interno não conhecido, por subscrito por advogado sem procuração ou regular substabelecimento nos autos, conforme certidão constante do processo.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno, interposto por SINDICATO DOS TRABALHADORES EM EDUCAÇÃO DA UFRJ - SINTUFRJ E OUTROS, em 08/03/2018, contra decisão proferida pela Presidente do STJ, Ministra LAURITA VAZ, publicada em 15/02/2018, assim fundamentada, in verbis:
+"Trata-se de RECURSO ESPECIAL interposto com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que a parte Recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do recurso especial, Dr. [NOME].
+É firme o entendimento desta Corte no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido na Súmula n.º 115/STJ.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso" (fls. 292/293e).
+Inconformada, sustenta a parte agravante que:
+"2.Razões do Agravante
+O Sindicato Agravante interpôs recurso especial, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, que deu provimento ao recurso da Agravada, mantendo o afastamento da litispendência e prescrição, mas acolheu a pretendida tese de compensação de valores pagos por força de decisão judicial transitada em julgado, e relativamente a período diverso do executado, compensação esta que incidiu inclusive sobre a verba honorária autônoma, em flagrante afronta a legislação infraconstitucional.
+Nessa trilha, o magistrado que fez o Juízo de admissibilidade no Tribunal Regional Federal da 2ª Região inadmitiu o recurso especial, o que ocasionou a interposição do Agravo em Recurso Especial.
+O Exmo. Ministro e ao julgar o recurso interposto, monocraticamente, negou seguimento ao mesmo, fundamentando sua decisão nos seguintes argumentos:
+(..)
+O entendimento firmado pelo ministro Relator foi que a parte Recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. [NOME].
+Ademais, salienta que é firme o entendimento desta Corte no sentido de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido na Súmula n.º 115/STJ.
+Entretanto, a fundamentação e a utilização do precedente nos termos deste Exm. Relator merece a devida reforma diante dos seguintes pontos:
+Como se pode vê, o presente recurso origina-se em Embargos à Execução opostos pela Fazenda Pública contra execução de sentença coletiva genérica. Tanto a execução de origem e os embargos à execução tramitaram por processo eletrônico na instância de origem.
+De fato, existem diversos julgados que impedem a mitigação da aplicação da sumula 115 pela falta de procuração nos Embargos à Execução, nesse sentido citamos (AgRg no RESP 1.459.713-PE):
+(..)
+Entretanto, o questionamento que se faz na presente hipótese é se o entendimento já consolidado no âmbito do STJ se aplicaria também ao processo eletrônico.
+A princípio, verifica o Embargante que tal reflexão não foi feita nos julgados localizados sobre o tema. Não há uma distinção objetiva quanto a natureza dos autos dos feitos de origem.
+O raciocínio da Embargante é razoável na medida em que, sendo admissível no feito de origem a falta de instrumento específico para o processo de embargos à execução quando os autos tramitam em apenso seria desnecessária a comprovação do mandato.
+Na era do processo eletrônico, tornou-se desnecessária a desapensação dos autos da execução dos autos do Embargos, quando o processo é remetido a instancia extraordinária, pois o vínculo passou a ser apenas um "link" entre os processos no sistema de processamento dos tribunais.
+Logo, por medida de economia processual, é natural o consenso pela adoção de medida inócuas que amontoam os tribunais de informações repetidas.
+O processo que lega ao novo milênio é o da efetividade, no qual não se cinge o Judiciário a dar aos litigantes uma solução conforme a lei vigente, mas que tenha como compromisso maior o de alcançar e pronunciar, no menor tempo possível, e com o mínimo sacrifício econômico, a melhor composição do litígio.
+As recentes alterações legislativas têm objetivado a dar mais efetividade ao processo, no entanto, deve-se ter em mente que o ideal seria buscar-se, primordialmente, a efetividade da justiça.
+Nos ensinamentos do [NOME] "o processo não é uma simples técnica, mas um fenômeno cultural consubstanciado nos valores e princípios constitucionais".
+Porém, para que se alcance de fato melhoria na atividade jurisdicional, é necessário que sejam engajados outros esforços além, apenas, das mudanças legislativas.
+São também necessárias alterações infra-estruturais no Poder Judiciário.
+Não pode o Judiciário, neste novo milênio, permanecer arraigado a um modelo de atuação já defasado. Profícuas as palavras da professora EvaneBeiguelman Kramer da Faculdade de Direito da Universidade Presbiteriana Mackenzie de São Paulo:
+(..)
+Assim, no caso concreto faz-se o seguinte questionamento: se os autos do processo de origem são eletrônicos, estando todas as suas peças disponíveis para acesso eletrônico no site do tribunal, qual o sentido de se reproduzir documento que já está ao alcance do julgador
+Em outros tempos o requisito tinha a finalidade de instrumentalizar o julgador com informações sobre a admissibilidade do recurso, entretanto, não parece ser este o caso.
+Isto posto, requer a V.Exa. o acolhimento do presente Agravo Regimental para conhecer o Recurso interposto, determinando seu regular prosseguimento" (fls. 299/302e).
+Por fim, requer "seja DADO PROVIMENTO ao presente Agravo de Interno, para, reformar a decisão agravada e, por conseguinte sejadeterminado o regular processamento do Recurso Especial perante esta Corte, confiando o Agravante no total provimento do recurso nos termos da fundamentação para reformar o acórdão regional" (fl. 303e).
+Intimada (fls. 310/312e), a parte agravada deixou transcorrer in albis o prazo para manifestação (fl. 313e).
+A fls. 319/320e, determinei a intimação da parte ora agravante para que, no prazo de cinco dias, juntasse aos autos instrumento de procuração, conferindo poderes ao advogado subscritor do Agravo interno, Dr. [NOME], que, entretanto, juntou apenas, a fl. 323e, o substabelecimento subscrito pelo Dr. [NOME], que, por sua vez, conforme certidão de fl. 309e, não possui procuração nos presentes autos.
+É o relatório.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): De início, registra-se que, em homenagem ao princípio tempus regit actum, o Superior Tribunal de Justiça consolidou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater.
+Assim, consoante o Enunciado Administrativo 3/STJ, aprovado pelo Plenário do STJ na sessão de 09/03/2016, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão ora agravada foi publicada em 15/02/2018. Portanto, o presente Agravo interno deve ser analisado à luz do CPC/2015.
+Diante desse contexto, observa-se que, a fl. 309e, a Coordenadoria da Segunda Turma do STJ certificou que "não foram encontrados, nos presentes autos, instrumentos de procuração/substabelecimento outorgados ao Dr. [NOME] - [OAB], o qual substabeleceu ao Dr. [NOME] - [OAB] (fl. 284), subscritor do agravo interno de fls. 298/308".
+De fato, nos termos do art. 104 do CPC vigente: "O advogado não será admitido a postular em juízo sem procuração, salvo para evitar preclusão, decadência ou prescrição, ou para praticar ato considerado urgente".
+Por sua vez, dispõe o art. 932, parágrafo único, do mesmo Diploma Processual:
+"Art. 932. Incumbe ao relator:
+(..)
+Parágrafo único. Antes de considerar inadmissível o recurso, o relator concederá o prazo de 5 (cinco) dias ao recorrente para que seja sanado o vício ou complementada a documentação exigível".
+Diante da nova normatização processual, a parte ora agravante foi intimada a, no prazo de cinco dias, regularizar a sua representação processual, sob pena de não conhecimento do recurso (fl. 319e). Todavia, juntou a agravante apenas o substabelecimento subscrito pelo Dr. [NOME] ao Dr. [NOME], sem juntar, novamente, a procuração originária, outorgada pelo SINDICATO DOS TRABALHADORES EM EDUCAÇÃO DA UNIVERSIDADE FEDERAL DO RIO DE JANEIRO aos causídicos, o que inviabiliza o conhecimento do presente recurso.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PROCURAÇÃO. INTIMAÇÃO PARA REGULARIZAÇÃO. DECURSO DE PRAZO. INCIDÊNCIA DA SÚMULA N. 115/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 no julgamento do Agravo Interno.
+II - Interposto ao Agravo Interno sem procuração dos autos, no regime do CPC/2015, deve a parte ser intimada para suprir a deficiência, nos termos do art. 932, parágrafo único. Na hipótese, houve transcurso do prazo de cinco dias sem que o causídico apresentasse o instrumento de mandato.
+III - É entendimento assente neste Tribunal Superior, consolidado inclusive no enunciado sumular n. 115, que: "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+IV - Agravo Interno não conhecido" (STJ, AgInt no REsp 980.452/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 19/12/2016).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PROCURAÇÃO DO ADVOGADO SUBSCRITOR DA PETIÇÃO DE AGRAVO INTERNO. INTIMAÇÃO PARA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. INCIDÊNCIA DA SÚMULA 115/STJ. RECURSO NÃO CONHECIDO.
+1. O advogado titular do certificado digital, utilizado para assinar a transmissão eletrônica das razões do agravo interno, não possui instrumento de procuração nos autos. Intimada a agravante, nos termos do art. 932, parágrafo único, do novo Código de Processo Civil, não regularizou sua representação processual.
+2. Diante da ausência de regularização da representação processual, mesmo aberto prazo para correção do vício, nos termos do art. 932, parágrafo único, do CPC/2015, incide, na espécie, a Súmula 115 do STJ.
+3. Agravo interno não conhecido" (STJ, AgInt no AREsp 902.090/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 21/09/2016).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PROCURAÇÃO DO ADVOGADO SUBSCRITOR DA PETIÇÃO DE AGRAVO INTERNO. INTIMAÇÃO PARA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA SÚMULA 115/STJ. RECURSO NÃO CONHECIDO.
+1. O advogado titular do certificado digital, utilizado para assinar a transmissão eletrônica das razões do agravo interno, não possui instrumento de procuração nos autos. Intimada a agravante, nos termos do art. 932, parágrafo único, do novo Código de Processo Civil, não regularizou sua representação processual.
+2. Diante da ausência de regularização da representação processual, incide, na espécie, a Súmula 115 do STJ.
+3. Agravo interno não conhecido" (STJ, AgInt no AREsp 821.748/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 10/08/2016).
+Sendo assim, diante da ausência de juntada da cadeia completa de procuração e/ou substabelecimento, conferindo poderes ao subscritor do presente Agravo interno, que a transmitiu digitalmente - Dr. [NOME] -, deve ser aplicado, ao caso, o óbice da Súmula 115/STJ.
+Ante o exposto, não conheço do Agravo interno.
+É como voto.
