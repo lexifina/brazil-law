@@ -1,0 +1,12 @@
+Decisão: Trata-se de recurso em que se discute o direito ao recebimento de honorários advocatícios por parte da Defensoria Pública estadual em causa patrocinada em face do ente federativo ao qual se encontra vinculada.
+    A Presidência do Tribunal de origem inadmitiu o recurso extraordinário por tratar-se de ofensa reflexa, conforme entendimento do Supremo Tribunal Federal expressado no julgamento do RE-RG 592.730, referente ao Tema 134 da sistemática da repercussão geral (eDOC 33).
+    Dessa decisão que inadmitiu o apelo extremo foi interposto agravo para o Supremo Tribunal Federal (eDOC 37).
+    É o relatório. Decido.
+    Ante o indeferimento do recurso extraordinário, seria cabível o agravo interno para o órgão colegiado competente, consoante preceitua o artigo 1.030, § 2º do CPC. Ademais, impende registrar que não se admite a fungibilidade do recurso em agravo interno no caso de erro grosseiro, o que ocorre na espécie. Nesse sentido, veja-se a ementa do seguinte julgado:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL.ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009. É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral. A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno). Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro. Agravo regimental a que se nega provimento.” (ARE 761.661 AgR, Rel. Min. PRESIDENTE, Plenário, DJe 29.4.2014 – Grifos originais)
+    Ante o exposto, não conheço do agravo, nos termos do artigo 932, III, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 19 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
