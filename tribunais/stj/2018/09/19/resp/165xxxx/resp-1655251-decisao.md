@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STF. ARGUMENTO DISSOCIADO QUE NÃO ATACA O FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 284 E 283 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRF da 4ª Região, assim ementado (fl. 189) :
+PREVIDENCIÁRIO. REVISÃO APOSENTADORIA. CONTRIBUINTE INDIVIDUAL. PERÍODO SEM RECOLHIMENTO DE CONTRIBUIÇÕES. NECESSIDADE DE REGULARIZAÇÃO PRÉVIA.
+A filiação do contribuinte individual à Previdência Social se dá com o exercício da atividade remunerada, não obstante, nesta condição lhe compete o ônus de provar que efetivamente contribuiu (art. 30, II da Lei 8.212/91), o recolhimento das contribuições constitui condição necessária para assegurar a proteção previdenciária para si e seus dependentes. Inviável a revisão sem o prévio recolhimento das.contribuições necessárias à perfectibilizar a condição para o aproveitamento do tempo.
+No apelo especial a parte recorrente traz ofensa somente ao 115, I, da Lei 8.213/91, sob o argumento de que "os valores apresentados pela Autarquia, que o Autor entende como correto, devem ser abatidos dos valores que lhe são devidos em razão da revisão de seu beneficio concedido, visto que como a DER é de 29/08/2007, e na data da distribuição desta demanda, os valores que eram devidos ao Recorrente eram de R$ 4.247,20 (quatro mil, duzentos e quarenta e sete reais e vinte centavos), que atualizados perfazem o valor de 6.572,34 (seis mil quinhentos e setenta e dois reais e trinta e quatro centavos), sendo que o valor que o INSS entende que lhe é devido, referente ao computo do período de 05/06/1974 a 30/11/1975, é o valor de R$ 5.720,40 (cinco mil setencentos e vinte reais e quarenta centavos), conforme fls. 120 dos Autos (fl. 197)".
+Sem contrarrazões.
+Juízo de admissibilidade à fls. 200.
+É o relatório. Passo a decidir.
+O Recurso não merece prosperar.
+ Inicialmente, observa-se que o recorrente, em suas razões do recurso especial, não apresenta argumentos quanto à alegada ofensa aos arts. 55 e 57, da Lei n. 8.213/1991, mencionados na apresentação do presente recurso.
+Feito essa ressalva
+Registre-se que o art. 115, I, da Lei n. 8.213/91 (e a tese a ele vinculada), não foi apreciada pela Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplicando-se, ao caso, a Súmula 282/STF.
+Registre-se, ainda, que o recorrente, ao trazer a debate questão que sequer implicitamente foi apreciada pela Corte de origem deixou de impugnar o fundamento basilar do improvimento de seu recurso de apelação, atraindo a incidência das Súmulas 283 e 284 do STF.
+Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional. Nesse sentido confira-se: AgRg no AREsp 278.133/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 24/09/2014; AgR no AREsp 34.860/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 27/9/2013). Ainda que assim não fosse, o recurso pela alínea "c" não alcançaria conhecimento, digo isso porque o recorrente além de não realizar necessário cotejo analítico entre os julgados confrontados, colaciona ementa de precedente desta Corte que trata de questão (prescrição) que não foi tratada no acórdão recorrido, carecendo o paradigma de similitude fática e jurídica com o acórdão recorrido.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
