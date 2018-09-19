@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial com base no óbice da Súmula 7 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo nas alíneas "a" e "c" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 303):
+APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS POR ACIDENTE DE TRÂNSITO - PRELIMINAR DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - AFASTADA - PRELIMINAR DE NULIDADE DA SENTENÇA POR OFENSA AO ART. 535, I E II, DO CPC/73 - AFASTADA - MÉRITO - VALORAÇÃO DO CONJUNTO PROBATÓRIO - CULPA EXCLUSIVA DA VÍTIMA - INOCORRÊNCIA - RESPONSABILIDADE CIVIL OBJETIVA - PROVA APENAS DE PARTE DOS DANOS EMERGENTES - DANO MORAL - INOCORRÊNCIA DE DANO IN RE IPSA - SENTENÇA REFORMADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Se os argumentos recursais são suficientes para atacar os fundamentos em que se assentou a sentença, não há falar em violação ao princípio da dialeticidade, ainda que se trate de reiteração de argumentos aventados em sede de embargos de declaração.
+2. Inexiste nulidade na sentença que rejeita embargos de declaração, assentados em simples inconformismo com o conteúdo decisório exarado.
+3. A responsabilidade civil da Administração Pública é objetiva, dependendo apenas da prova da conduta lesiva, dano e nexo de causalidade. Verificados esses requisitos e não comprovada a culpa exclusiva da vítima, impõe-se o acolhimento do pleito indenizatório.
+4. O dano material, seja emergente ou decorrente de lucros cessantes, depende de efetiva comprovação, sendo inadmissível o pedido e a condenação genérica nas hipóteses em que a parte poderia especificar, quantificar e comprovar tais danos.
+5. Sentença reformada para acolher em pequena extensão o pleito inicial, motivo pelo qual, na forma do art. 21, parágrafo único, do CPC/73, mantém-se inalterada a sucumbência.
+6. Recurso conhecido e parcialmente provido.
+A recorrente alega afronta dos arts. 286 do Código de Processo Civil/1973 e 944 do Código Civil, porquanto o pedido foi certo e determinado, contudo não há uma definição da expressão econômica pela parte.
+Afirma que o acidente comprometeu o tráfego do veículo, configurando sua perda total. Aduz, ainda, que sofreu redução da capacidade auditiva em razão do acidente.
+Sustenta a existência de divergência jurisprudencial por se tratar de dano in re ipsa.
+É o relatório.
+Quanto ao pedido formulado pela recorrente, o Tribunal de origem, com base nos documentos dos autos, entendeu que (e-STJ, fls. 310-312):
+No que concerne à indenização pelos danos causados ao veículo, deve-se ter em mente que a indenização mede-se pela extensão do dano, na forma do art. 944 do Código Civil. A indenização por danos morais não representa ganho injustificado da vítima, mas justa reparação pelo prejuízo experimentado.
+Assim, se o veículo pertencente à vítima (ora recorrente) foi danificado, comportando perfeita reparação, não se justifica a indenização equivalente a outro veículo em iguais condições, o que pressupõe sua completa destruição, fato sequer alegado. Não bastasse isso, verifica-se que não existem nos autos elementos de convicção acerca do valor do veículo, como cotação em tabelas de preço ou avaliação de preço, o que também inviabiliza o acolhimento do pleito.
+Dito isto, não obstante as fotos colacionadas e teor do boletim de ocorrência demonstrando clara e objetivamente os danos no veículo, a autora/recorrente não quantificou esses danos, remetendo-os à liquidação. Ocorre que não é possível o pedido genérico ou mesmo a imposição de condenação genérica, como regra.  ..
+Portanto, em conformidade com o texto da norma, apenas quando não for possível determinar, de modo definitivo, as consequências do ato ilícito é que se admitirá o pedido genérico. Na hipótese dos autos, entretanto, nada se disse a respeito. Mais ainda, não vislumbro qualquer dificuldade na quantificação de danos em veículos, bastando a juntada de orçamentos dos reparos, obtidos de concessionárias ou oficinas mecânicas.  ..
+O mesmo desiderato merece a pretensão tendente à compensação pela alegada perda auditiva, fato que reputo não comprovados nos autos. - grifos acrescidos
+Da leitura do acórdão recorrido dessume-se que a Corte local firmou o entendimento com base nas provas dos autos, assim, a revisão do julgado implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+De outro lado, no tocante ao pedido de dano moral, verifico que a insurgente não indica o dispositivo de lei que fundamenta seu pedido. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+Ainda que assim não fosse, o alegado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 1.029, § 1º, do Código de Processo Civil, e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte interessada apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e a constante do aresto impugnado.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IDEC. EXPURGOS INFLACIONÁRIOS. POUPADORES DE CADERNETA DE POUPANÇA. ABRANGÊNCIA DOS EFEITOS DA COISA JULGADA. LIQUIDAÇÃO INDIVIDUAL EXTINTA POR ILEGITIMIDADE ATIVA. POSICIONAMENTO DO STJ. APLICAÇÃO DA SÚMULA N. 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE COTEJO ANALÍTICO. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. INVIABILIDADE. VALOR FIXADO OBSERVANDO A PROPORCIONALIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Nos termos da atual jurisprudência desta Corte, está configurada a ilegitimidade ativa ad causam do ora recorrente para promover a execução individual de sentença condenatória proferida em ação civil pública, promovida pelo IDEC (Instituto de Defesa do Consumidor), em razão de não ter havido autorização expressa do ora agravante para que a aludida entidade propusesse a ação em análise.
+2. Dissídio jurisprudencial não comprovado nos termos exigidos pelo artigo 1.029 do CPC/2015.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.648.095/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 17/11/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
