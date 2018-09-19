@@ -1,0 +1,20 @@
+DECISÃO:
+Ementa: Processo constitucional. Embargos de declaração em ação direta de inconstitucionalidade. Pensão vitalícia para ex-governadores, ex-vice-governadores e viúvas de ex-governadores. Inconstitucionalidade. Embargos eminentemente protelatórios. Não conhecimento.
+1.Não se verifica o suposto erro material no acórdão. Trata-se de evidente tentativa de protelar a conclusão deste feito, no qual restou inconstitucional o benefício contestado, consoante jurisprudência uníssona desta Corte.
+2. Embargos não conhecidos.
+    1. Trata-se de embargos de declaração, opostos pela Assembleia Legislativa do Estado do Rio de Janeiro, em face do acórdão de mérito da presente ação direta de inconstitucionalidade, na qual o pedido foi julgado procedente. Confira-se a ementa:
+    EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PENSÃO VITALÍCIA PARA EX-GOVERNADORES, EX-VICE-GOVERNADORES E VIÚVAS DE EX-GOVERNADORES. DESEQUIPARAÇÃO SEM FUNDAMENTO CONSTITUCIONALMENTE LEGÍTIMO. VIOLAÇÃO AOS PRINCÍPIOS DA IGUALDADE, REPUBLICANO E DEMOCRÁTICO. INCONSTITUCIONALIDADE. PRECEDENTES.
+    1. O benefício assegurado pelas normas impugnadas – subsídio mensal e vitalício para ex-governadores, ex-vice-governadores e viúvas de ex-governadores – é pago sem qualquer justificativa constitucionalmente legítima, representando inequívoca violação aos princípios da igualdade, republicano e democrático, consoante firme jurisprudência desta Corte. Precedentes: ADI-MC 4.552, Rel. Min. Cármen Lúcia; ADI 3.853, Rel. Min. Cármen Lúcia; SS 3.242, Rel. Min. Ellen Gracie; RE 252.352, Rel. Min. Sepúlveda Pertence; ADI 1.461, Rel. Min. Maurício Corrêa.
+    2. A continuidade do pagamento inconstitucional desse subsídio mensal e vitalício a ex-detentor de cargo eletivo traduz-se também em grave lesão à economia pública, já que não há qualquer contraprestação de serviço público por parte dos beneficiados.
+    3. Ação direta de inconstitucionalidade cujo pedido se julga procedente.
+    2. O embargante aponta a suposta necessidade de correção de erro material no acórdão embargado, porquanto constante da decisão a expressão “declarar a inconstitucionalidade do art. 1º, parágrafo único, da Emenda nº 27/2002 à Constituição do Estado do Rio de Janeiro”. Conforme entende, seria indispensável corrigir o acórdão para fazer constar que a declaração de inconstitucionalidade é do “parágrafo único do art. 1º” da Emenda nº 27/2002 à Constituição do Estado do Rio de Janeiro.
+    3. Em 14.09.2018, a Exma. Sra. Procuradora-Geral da República registrou, nos autos, ciência da decisão aqui embargada.
+    4. É o relatório. Decido.
+    5. Os embargos de declaração não merecem conhecimento.
+    6. Como afirmado, o pedido recursal envolve a suposta existência de erro material na decisão embargada, ao passo em que constou do relatório e voto deste Relator o termo “art. 1º, parágrafo único, da Emenda nº 27/2002 à Constituição do Estado do Rio de Janeiro”. Consequentemente, o pedido é de retificação do acórdão, para que seja empregado o termo “parágrafo único do art. 1º”.
+    7. Não há, contudo, erro material no acórdão embargado. Evidentemente, não há sequer prejuízo à compreensão de qual o dispositivo declarado inconstitucional por esta Corte. Há apenas tentativa de protelar a conclusão deste feito, no qual o Plenário deste Supremo Tribunal Federal, à unanimidade, referendou a evidente inconstitucionalidade das aludidas pensões vitalícias, assim como já procedido em casos análogos de outros Estados-membros. Pretende a Assembleia Legislativa do Estado do Rio de Janeiro, portanto, estender o pagamento de um vantagem em si inconstitucional e frontalmente oposta a jurisprudência uníssona desta Corte, mediante a oposição destes embargos, e consequente postergação do trânsito em julgado.
+    8. Diante do exposto, nego seguimento aos embargos de declaração (art. 21, § 1º, do RISTF).
+    Publique-se. Intimem-se.
+          Brasília, 19 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
