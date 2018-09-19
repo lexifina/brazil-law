@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –PREQUESTIONAMENTO – AUSÊNCIA – NORMAS LEGAIS – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Afasto a suspensão anteriormente determinada.
+    2. O Tribunal de Justiça do Estado de São Paulo, reformando parcialmente o entendimento do Juízo, consignou desnecessária nova citação do ente público para pagamento de precatório complementar, observada a legislação de regência. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos artigos 5°, incisos XXXVI, LIV e LV, e 100 da Constituição Federal.
+    3. Observem o decidido na origem. Após verdadeira via-crúcis, constatou o credor que a liquidação do precatório não havia ocorrido. O Colegiado, a partir da diferença apurada, determinou a expedição de novo ofício requisitório, assentando descaber outra citação do ente público por tratar-se de simples incidente em processo já formalizado.
+    Colho do acórdão impugnado os seguintes trechos:
+    […]
+    Inegavelmente, a Fazenda Pública procede a seus pagamentos de maneira defasada, isto é, ao diligenciar o recolhimento das parcelas devidas isto é feito sem atentar para a atualização monetária correspondente à época do pagamento.
+    É certo que a exeqüente não se preocupa em ressalvar expressamente este aspecto, mas isto não induz eventual enriquecimento sem causa, além da circunstância de que o feito possuía várias determinações para que se aguardasse pagamento. Como salientou à apelante, inclusive valendo-se de demonstração contábil e providências tomadas em primeira instância, o montante pago se deu de maneira desatualizada monetariamente. Nesta linha de inteligência, são pertinentes os termos do apelo, no sentido de que se reforme a r. decisão de extinção da execução, para prosseguimento da mesma pela diferença que vier a ser apurada pela contadoria judicial, observados os índices concernentes à Tabela Prática, no sentido de objetivar o recebimento desta diferença.
+    […]
+    Destarte, é devido o pagamento desta complementação, excluídos os juros, mas através de novo precatório, do qual não se exigirá nova diligência citatória, na forma do artigo 730 do CPC, cuja providência implicaria infringência ao princípio da unicidade da execução.
+    Desta maneira, é cabível a reforma do r. julgado, para prosseguimento da execução, a qual se fará através da contadoria judicial, relativamente às diferenças de correção monetária de cada parcela e excluídos os juros, expedindo-se ao final novo precatório, dispensada outra citação.
+    Atentem não para o apego à literalidade do verbete nº 356 da Súmula do Supremo, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do verbete nº 282 da mesma Súmula. O instituto do prequestionamento significa debate e decisão prévios do tema jurídico constante das razões apresentadas. Se o ato impugnado nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional. Assim concluiu o Supremo no julgamento do agravo regimental no agravo de instrumento nº 541.696-6/DF, de minha relatoria, com acórdão publicado no Diário da Justiça de 24 de fevereiro de 2006, resumido na seguinte ementa:
+    RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente.
+    O que sustentado no extraordinário não foi enfrentado pelo Órgão julgador. Padece o recurso da ausência de prequestionamento.
+    Acresce que o acórdão impugnado revela interpretação de normas estritamente legais, notadamente o artigo 730 do Código de Processo Civil de 1973, vigente à época, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Constituição Federal, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 nela contido.
+    A par desse aspecto, a óptica segundo a qual inexigível nova citação da Fazenda para expedição de precatório complementar foi adotada pela Primeira Turma. Confiram o precedente:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. COMPLEMENTAÇÃO DE PRECATÓRIO. NOVA CITAÇÃO. DESNECESSIDADE. ENTENDIMENTO DA TURMA. AGRAVO PROVIDO.
+    I – Os pagamentos de complementação de débitos da Fazenda Pública Federal, Estadual ou Municipal, decorrentes de decisões judiciais, deverão ser objeto de novo precatório, sem, contudo, ser necessária nova citação da Fazenda Pública.
+    II - Agravo regimental provido.
+    (Agravo regimental no agravo de instrumento nº 646.081, relator ministro Ricardo Lewandowski, Primeira Turma, com acórdão veiculado no Diário da Justiça de 6 de maio de 2014)
+    4. Conheço do agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 19 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
