@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em sede de habeas corpus, com pedido liminar, interposto por [NOME], contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, que não conheceu do writ por considerar que o pedido e causa de pedir suscitado já foi apresentado perante aquela Corte sob o nº 57567-96.2017.8.26.0000.
+No presente recurso, alega o recorrente, em suma, que sofre constrangimento ilegal por ato da autoridade coatora uma vez que manteve a persecução penal em seu desfavor. (fl. 47)
+Em suas razões aduz " ..  o que lembro foi tudo sobre a revogação da prisão preventiva, más a liberdade é um direito constitucional do paciente que pode preservar o seu direito de ir e vir e portando não pode ficar sem uma decisão mais justa,que na verdade o paciente não tem um advogado como de lula,Cabral, e outros,àpenas faz o que pode e verdade também que a justiça so atende pedido de pessoas mais efruentes o que não e o meu caso pois sou uma pessoa humilde,que esta tentando obter um ordem no sentido de cessar este constrangimento ilegal (fl. 45).
+Acrescenta, ademais, que " ..  prejuizo causaria a justiça pois todas instrução criminal já foram enceradas, no presente momento,o paciente acompanhou todo o processo em liberdade, sem qualquer atrapalhar seu processamento, que apenas não compareceu em juizo por causa deste mandado de prisão aberto" (fl. 46).
+Requer, ao final, liminarmente e no mérito a revogação da determinação da prisão preventiva e que seja declarado o trancamento da ação penal por ausência de justa causa (fl. 50).
+O pedido liminar foi indeferido às fls. 70-72.
+O Ministério Público Federal, às fls. 78-72, pelo não conhecimento do recurso, em parecer assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE CAPACIDADE POSTULATÓRIA DO RECORRENTE. PLEITO DE TRANCAMENTO DA AÇÃO PENAL OU DE REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÕES NÃO APRECIADAS PELO TRIBUNAL A QUO. IMPOSSIBILIDADE DE ANÁLISE ORIGINÁRIA POR ESSE STJ, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. POSTERIOR CONCESSÃO DE LIBERDADE PROVISÓRIA, COM APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. PARECER PELO NÃO CONHECIMENTO DO RECURSO" (fl. 78).
+É o relatório.
+Decido.
+Pretende o impetrante no presente writ, em síntese, a revogação da determinação da prisão preventiva e o trancamento da ação penal por ausência de justa causa.
+Insta consignar, inicialmente, que a segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A prisão preventiva, portanto, enquanto medida de natureza cautelar e excepcional, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem tampouco permite complementação de sua fundamentação pelas instâncias superiores.
+Nesse sentido é a sedimentada jurisprudência desta eg. Corte: AgRg no RHC n. 47.220/MG, Quinta Turma, Relª. Minª. Regina Helena Costa, DJe de 29/8/2014;  RHC n. 36.642/RJ, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 29/8/2014; HC n. 296.276/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 27/8/2014; RHC n. 48.014/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 26/8/2014.
+Na hipótese, o eg Tribunal de origem, ao analisar o mandamus, assim dispôs:
+"HABEAS CORPUS - REITERAÇÃO DE FUNDAMENTOS - PEDIDO IDÊNTICO. ORDEM NÃO CONHECIDA" (fl. 29).
+Dessarte, verifico que a questão não foi analisada nas instâncias ordinárias, não cabendo a este Tribunal Superior examinar o tema, sob pena de indevida supressão de instância. Nesse ponto, cito o seguinte precedente:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. ASSOCIAÇÃO PARA O NARCOTRÁFICO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. CIRCUNSTÂNCIAS DOS DELITOS. REITERAÇÃO. PROBABILIDADE CONCRETA. QUANTIDADE DO ENTORPECENTE APREENDIDO. GRAVIDADE. POTENCIALIDADE LESIVA DA INFRAÇÃO. PERICULOSIDADE SOCIAL. NECESSIDADE DE ACAUTELAMENTO DA ORDEM PÚBLICA E SAÚDE PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. EXCESSO DE PRAZO. SUPRESSÃO. COAÇÃO ILEGAL NÃO EVIDENCIADA. RECLAMO CONHECIDO EM PARTE E IMPROVIDO.
+ ..
+7. A tese de excesso de prazo não foi alvo de deliberação pela autoridade apontada como coatora no aresto impugnado, o que impede o seu exame diretamente por este Sodalício, sob pena de se configurar a indevida prestação jurisdicional em supressão de instância.
+ ..
+9. Recurso ordinário conhecido em parte e, na extensão, improvido" (RHC n. 59.380/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 13/6/2016).
+Ante o exposto, nego provimento ao presente recurso ordinário.
+P. e I.
