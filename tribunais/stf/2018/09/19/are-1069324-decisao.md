@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Em 25/8/2017, a Presidência da Corte determinou a devolução destes autos ao Tribunal de origem por ter sido submetida à sistemática da repercussão geral a questão trazida no recurso (Recurso Extraordinário nº 592.730, Tema nº 134): ausência de repercussão geral).
+    Em 8/8/2018, o Vice-Presidente do Tribunal de Justiça do Estado do Ceará determinou o retorno dos autos ao Supremo Tribunal Federal, nos seguintes termos:
+    “Em que pese a ordem expressa de aplicação do precedentes vinculante, tenho que, por cautela, o caderno processual merece retornar à douta Corte Constitucional para que seja ponderado se, de fato, prevalecerá a tese de ausência de repercussão geral da matéria ou o entendimento firmado pelo Pleno do STF no julgamento da AR n.º 1.937 AgR/DF, que assegurou a percepção de verba sucumbencial à DPU quando litiga em face da União, em razão da autonomia funcional e administrativa.
+    De mais a mais, a decisão do STF expressamente alude à mudança do perfil constitucional da Defensoria Pública da União, sem tratar diretamente dos efeitos que daí eventualmente decorram para as congêneres dos estados membros.
+    Diante do exposto, determino o retorno dos autos ao Supremo Tribunal Federal para que pondere a questão acima suscitada, ficando desde já esta Vice-Presidência no aguardo da decisão a ser tomada” (e-doc. 7, fls. 277).
+    Examinados os autos, decido.
+    A possibilidade de se condenar ente federativo a pagar honorários advocatícios à Defensoria Pública que o integra teve a repercussão geral negada no julgamento do RE nº 592.730/RS-RG, Relator o Ministro Menezes Direito, DJe de 21/11/08, (Tema 134), motivo pelo qual se procedeu a devolução dos autos à origem para aplicação da sistemática da repercussão geral.
+    Ocorre que, recentemente, no julgamento da AR nº 1.937/DF-AgR, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 9/8/17, o Supremo Tribunal Federal entendeu ser possível a condenação da União ao pagamento de honorários em favor da Defensoria Pública da União. Na ocasião, restou assentado que após as Emendas Constitucionais nº 45/2004, 74/2013 e 80/2014, houve relevante alteração legislativa no que diz respeito à Defensoria Pública da União, permitindo a condenação da União em honorários advocatícios em demandas patrocinadas por aquela instituição de âmbito federal, mormente em razão de sua autonomia funcional, administrativa e orçamentária.
+    Com efeito, esta Corte entendeu por revisitar a tese objeto de análise pelo procedimento da repercussão geral que gerou o tema 134 e, ao examinar o RE nº 1.140.005/RJ, Relator o Ministro Roberto Barroso, DJe de 10/8/18, concluiu pela existência da repercussão geral da matéria constitucional versada nestes autos. O assunto corresponde atualmente ao tema 1002 da Gestão por Temas da repercussão geral do portal do STF na internet e trata da “discussão relativa ao pagamento de honorários à Defensoria Pública em litígio com ente público ao qual vinculada”.
+    Tem-se, portanto, que o referido julgamento viabilizou a rediscussão da questão, o que impõe a devolução dos autos à origem por este Supremo Tribunal para proceder a readequação do tema da matéria aqui suscitada (CPC, art. 1.030, inc. III).
+    Ante o exposto, mantenho o despacho de devolução dos autos à origem, agora pelo Tema 1002 da repercussão geral, para observância dos procedimentos previstos no inc. III do art. 1.030 do Código de Processo Civil (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de setembro de 2018.
+Ministra Dias Toffoli
+Presidente
+Documento assinado digitalmente
