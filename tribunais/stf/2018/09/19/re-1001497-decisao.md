@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. ACIDENTE DE TRABALHO. AÇÃO INDENIZATÓRIA E CONCESSÃO DE APOSENTADORIA POR INVALIDEZ. SERVIDOR PÚBLICO FEDERAL ESTATUTÁRIO. DECISÃO EM HARMONIA COM A JURISPRUDÊNCIA CONSOLIDADA NO STF. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    "PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO FEDERAL ESTATUTÁRIO. ACIDENTE DE TRABALHO. DANO MATERIAL E MORAL. INDENIZAÇÃO. INTOXICAÇÃO NO EXERCÍCIO DA ATIVIDADE PROFISSIONAL. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. ARTIGO 109, INCISO I, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES DA PRIMEIRA SEÇÃO E DA CORTE ESPECIAL DO STJ.
+    1. Em que pese o entendimento diverso deste Relator, impõe-se reconhecer que o Superior Tribunal de Justiça, Corte incumbida de se manifestar sobre o conflito de competência entre juízos vinculados a tribunais distintos, consolidou jurisprudência no sentido de que a presença na lide de ente federal não interfere na fixação do juízo competente, pois as ações de acidente do trabalho, lato sensu, foram expressamente excluídas da competência federal, nos termos do art. 109, I, da Constituição da República, compreensão mantida Primeira Seção (CC 105931/MS, Rel. Ministro CASTRO MEIRA, Primeira Seção, DJe 31/08/2009), e reiterada pela Corte Especial (CC 96608/PB, Rel. Ministro CASTRO MEIRA, Corte Especial, DJe 18/02/2010).
+    2. Agravo não provido." (Doc. 2, fl. 120)
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 109, I, da Constituição Federal.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    Instada a se manifestar a Procuradoria-Geral da República elaborou parecer opinando pelo não seguimento do recurso extraordinário por estar o acórdão recorrido em consonância com a orientação jurisprudencial firmada pelo STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O acórdão recorrido não divergiu do entendimento consolidado no Supremo Tribunal Federal no sentido de que “compete à Justiça ordinária estadual o processo e o julgamento, em ambas as instâncias, das causas de acidente de trabalho, ainda que promovidas contra a União, suas autarquias, empresas públicas ou sociedades de economia mista” (Súmula 501 do STF). Nesse sentido, destaco precedentes de ambas as Turmas desta Corte constitucional, in verbis:
+    "RECURSO EXTRAORDINÁRIO COM AGRAVO – ACIDENTE DO TRABALHO – INDENIZAÇÃO POR DANOS MATERIAIS E/OU MORAIS – AÇÃO AJUIZADA POR SERVIDOR PÚBLICO FEDERAL, COM FUNDAMENTO NO DIREITO COMUM – COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL – PRECEDENTES DE AMBAS AS TURMAS DO SUPREMO TRIBUNAL FEDERAL – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO." (ARE 1.019.152-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/8/2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ACIDENTE DO TRABALHO. AÇÃO ACIDENTÁRIA AJUIZADA CONTRA O INSS. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. INCISO I E § 3O DO ARTIGO 109 DA CONSTITUIÇÃO FEDERAL. SÚMULA 501 DO STF. A teor do § 3o c/c inciso I do artigo 109 da Constituição Republicana, compete à Justiça comum dos Estados apreciar e julgar as ações acidentárias, que são aquelas propostas pelo segurado contra o Instituto Nacional do Seguro Social - INSS, visando ao benefício e aos serviços previdenciários correspondentes ao acidente do trabalho. Incidência da Súmula 501 do STF. Agravo regimental desprovido.” (RE 478.472-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 01/06/2007)
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de setembro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
