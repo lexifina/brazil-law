@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 584/586) apresentados contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO FISCAL. SISTEMÁTICA PARA A CONTAGEM DA PRESCRIÇÃO INTERCORRENTE (PRESCRIÇÃO APÓS A PROPOSITURA DA AÇÃO) PREVISTA NO ART. 40 E PARÁGRAFOS DA LEI DE EXECUÇÃO FISCAL (LEI Nº 6.830/80). MATÉRIA SUBMETIDA AO RITO DO RECURSO ESPECIAL REPETITIVO. RESP 1.340.553/RS. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+A embargante aduz, em síntese, que: a) conquanto a decisão embargada tenha determinado a devolução dos autos à origem, ao argumento de que a matéria encontra-se submetida ao regime dos recursos repetitivos, "o presente reclamo versa sobre questão distinta (honorários advocatícios e violação ao artigo 85 do CPC), estando-se, portanto, diante de hipótese de erro material" (fl. 585); e b) "a respeitável decisão recorrida, equivocadamente, referiu-se ao recurso da Fazenda Nacional, que alegou, de fato, a apontada violação aos arts. 25 e 40 da Lei nº 6.830/80", estando o recurso do contribuinte a discutir "os honorários advocatícios e a violação ao art. 85 do CPC" (fl. 586).
+Requer sejam acolhidos os embargos.
+Não houve apresentação de impugnação pela embargada.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a decisão embargada de fls. 580/581 procedeu, por equívoco, à análise do recurso especial interposto pela União, de fls. 500/512, o qual fora sobrestado na origem, por meio da decisão de fls. 536/537, até a publicação do acórdão do recurso representativo da controvérsia de que trata o Tema 566/STJ (REsp 1.340.553/RS).
+Diante do exposto, constatada a existência de erro material, acolho os embargos de declaração para tornar sem efeito o aludido decisum de fls. 580/581. Após, voltem-me os autos para novo exame do agravo de fls. 547/558.
+Publique-se. Intimem-se.
