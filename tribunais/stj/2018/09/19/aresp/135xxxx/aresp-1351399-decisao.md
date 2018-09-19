@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. OFENSA À COISA JULGADA. AFASTADA. PRECLUSÃO E VERACIDADE DOS DOCUMENTOS JUNTADOS. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DE AÇÕES. ALTERAÇÃO DO JULGADO. SÚMULA Nº 7 DO STJ. FUNDAMENTOS DO ACÓRDÃO NÃO ATACADOS. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+
+DECISÃO
+IVANETE DE OLIVEIRA DIAS TEODORO (IVANETE) propôs ação de complementação de ações decorrente de participação financeira em programa comunitário de telefonia, contra OI S.A. Em sede de cumprimento de sentença, houve impugnação pela ré. Da decisão que deixou de reconhecer o pagamento de parte das ações requeridas, a OI interpôs agravo de instrumento (e-STJ, fls. 1/22).
+O Tribunal de origem negou provimento ao recurso em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA COLETIVA - PRELIMINAR DE COISA JULGADA AFASTADA - RETRIBUIÇÃO DE AÇÕES - EXTRATO SEM RECEBIMENTO DO CREDOR - SEM VALOR PROBATÓRIO - RECURSO CONHECIDO E DESPROVIDO. 1. Houve notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento. A decisão agravada, por isso, não ofende a coisa julgada, ficando afastada a preliminar arguida nesse sentido. 2.
+Os documentos apresentados pela agravante não comprovam o efetivo recebimento das ações pela parte credora (e-STJ, fl. 50).
+Irresignada, a OI interpôs recurso especial, com base na alínea a do permissivo constitucional, sob o fundamento de violação dos arts. 502, 370, 425, IV, 509, 525 do NCPC (antigos 467, 130, 365, IV, e 475-G e 475-L do CPC/73), sustentando 1) ofensa à coisa julgada, uma vez que a questão relativa à entrega das ações foi reconhecida e determinada nos autos de ação civil pública anteriormente decidida; 2) ser indevido o reconhecimento da preclusão da juntada de documentos para a comprovação de pagamento na fase de liquidação. Diz que referida juntada deve ser admitida e considerada como apta a provar a entrega pela recorrente das ações pleiteadas, devendo os valores discriminados serem abatidos do cálculo apresentado pelo autor; 3) deve ser reconhecida a validade do documento apresentado como prova de pagamento, uma vez que sua veracidade não foi contestada (e-STJ, fls. 56/72).
+Contrarrazões oferecidas (e-STJ, fls. 84/91).
+O apelo nobre foi inadmitido na origem, com base na Súmula nº 7 do STJ (e-STJ, fls. 93/97).
+Foi interposto o presente agravo em recurso especial (e-STJ, fls. 99/104).
+Contraminuta não apresentada.
+É o relatório.
+DECIDO.
+A irresignação não comporta acolhimento
+De início, vale pontuar, que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1) Da ofensa à coisa julgada
+A recorrente alega ofensa à coisa julgada por entender não respeitados os limites da sentença, insistindo em alegar que a entrega de ações foi reconhecida em sentença e por isso deve ser considerada para abatimento nas ações devidas.
+Quanto ao tema, verifica-se que, ao contrário do alegado, não houve qualquer determinação na sentença da ação coletiva para o abatimento de valores já pagos, apenas sendo determinado que os valores a serem pagos fossem apurados em futura liquidação. Inexistente, portanto, a alegada ofensa à coisa julgada, conforme consignado no próprio acórdão recorrido que deixou clara a inexistência de qualquer comando sentencial acerca da quitação das ações, nem mesmo de forma parcial, conforme trecho a seguir:
+Reconheço que, de fato, houve notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento.
+A decisão agravada, por isso, não ofende a coisa julgada, ficando afastada a preliminar arguida nesse sentido. (e-STJ, fls. 52)
+Verifica-se que, ao contrário do alegado, o tribunal de origem deixou claro que não houve qualquer determinação na sentença da ação coletiva para o abatimento de valores já pagos, nem de forma parcial, o que afasta a ofensa à coisa julgada.
+Afastada, portanto, a alegação de ofensa à coisa julgada.
+2 e 3) Da preclusão e da validade e veracidade do documento juntado
+A recorrente alega que ficou demonstrada a entrega de ações à recorrida. Diz haver ofensa à coisa julgada por entender não respeitados os limites da sentença, insistindo em alegar que a entrega de ações foi reconhecida em sentença e por isso deve ser considerada para abatimento nas ações devidas.
+Quanto aos temas, extrai-se do acórdão recorrido:
+Por outro lado, o alegado pagamento à parte agravada não restou comprovado pela agravante nesta fase executiva.
+É sabido que o pagamento não admite presunção e deve ser provado por quem o alega (art. 333, I, do CPC), sob pena de ter que pagar novamente (bis dat qui cito dat), se pagou mal.
+Importante observar que os documentos apresentados pela agravante como prova de recebimento e, inclusive, posterior transferência pela parte credora/agravante, consiste em simples extrato do Banco Santander que, mesmo em conjunto com procuração existente nos autos principais do BNDES à Telebrás S/A, nada prova, se desacompanhado do Certificado de Depósito de Ações (art. 43 da Lei n.
+6.404/76) e/ou dos Livros Sociais (art. 100 da Lei n. 6.404/76) ou de qualquer recebimento expresso da parte credora.
+Pela absoluta ausência de comprovação, deve ser tida por não efetuada a quitação de 8.620 ações a cada contrato (e-STJ, fls. 52).
+No que se refere efetiva entrega de açõs, à ausência de preclusão da juntada dos documentos, e sua veracidade e validade, verifica-se que o tribunal de origem afastou as pretensões do recorrente ao entendimento de que as provas trazidas não foram suficientes para comprovar suas alegações e a demonstrar seu direito.
+Alterar a conclusão adotada, demandaria o reexame fático probatório dos autos, o que é inadmissível nesta via especial, a teor da Súmula nº 7 do STJ.
+Nesse sentido, veja-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. RESCISÃO DE CONTRATO. 1. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. 2. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DAS PRESTAÇÕES. ATO QUE INCUMBIA AO RÉU. REVISÃO. SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. Não viola o art. 535 do CPC o acórdão que, integrado pelo julgamento proferido nos embargos de declaração, se pronuncia de forma suficiente para a solução da controvérsia deduzida nas razões recursais.
+2. Revela-se inviável alterar o entendimento do Tribunal de origem que, analisando o conjunto fático-probatório dos autos, concluiu pela ausência de comprovação do pagamento das prestações por parte do agravante, tendo em vista o óbice da Súmula 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 809.821/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 2/2/2016, DJe 5/2/2016)
+Outrossim, os fundamentos do acórdão no sentido de que 1) os documentos juntados consistem em simples relatório da própria Brasil Telecom, sem qualquer assinatura da empresa, tampouco ciência ou anuência do consumidor, absolutamente apócrifo e unilateral; e da 2) ausência de prova da Telebrás mesmo havendo declaração dos bancos na primeira instância, pois desacompanhado do Certificado de Depósito de Ações (art. 43 da Lei n. 6.404/76) e/ou dos Livros Sociais (art. 100 da Lei n. 6.404/76) ou de qualquer recebimento expresso da parte credora não foram impugnados no recurso especial, o que atrai a incidência da Súmula nº 283 do STF quanto ao ponto.
+Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
