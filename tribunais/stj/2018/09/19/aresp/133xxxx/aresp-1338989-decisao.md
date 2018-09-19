@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, da Constituição Federal.
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base neste(s) fundamento(s): Súmula 83/STJ (quanto à obrigatoriedade do perito possuir nível superior), Súmula 83/STJ (quanto ao termo inicial dos juros de mora), Súmula 7/STJ (em relação à aplicação do CDC, à condenação em perdas e danos, ao valor da condenação e aos honorários), Súmula 282/STF (artigo 130 do CPC/1 5 e artigos 264, 265 ambos do CC - no tocante ao chamamento ao processo e à existência de solidariedade) e Súmula 356/STF (artigo 130 do CPC/1 5 e artigos 264, 265 ambos do CC - no tocante ao chamamento ao processo e à existência de solidariedade).
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do(s) seguinte(s) óbices: Súmula 282/STF (artigo 130 do CPC/1 5 e artigos 264, 265 ambos do CC - no tocante ao chamamento ao processo e à existência de solidariedade) e Súmula 356/STF (artigo 130 do CPC/1 5 e artigos 264, 265 ambos do CC - no tocante ao chamamento ao processo e à existência de solidariedade).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 2% os honorários fixados anteriormente.
+Publique-se. Intimem-se.
