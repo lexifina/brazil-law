@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO DE RESPONSABILIDADE CIVIL. LEGITIMIDADE PASSIVA PARA RESPONDER PELOS DANOS. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por CONDOMINIO DO EDIFICIO TULIPA, em face de decisão que inadmitiu recurso especial, aviado pelas alíneas "a" e "c", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 278, e-STJ):
+CIVIL. PROCESSO CIVIL. LEGITIMIDADE. RESPONSABILIDADE CIVIL. CONDOMÍNIO. DANOS CAUSADOS POR LOCATÁRIO. RESPONSABILIDADE DO LOCADOR.
+Ação indenizatória proposta contra condômino por danos que o locatário causou na parte comum com a destruição de móveis e da porta de uma unidade.
+Se a causa de pedir indica a Ré como responsável pelo dano e o pedido indenizatório a ela se dirige, está legitimada para integrar o polo passivo.
+Possível seguir o julgamento da apelação porque atendidos os requisitos legais.
+Rejeita-se a preliminar de ilegitimidade ativa com base na teoria da asserção porque o Autor afirma a condição de lesado e imputa à Ré a responsabilidade pelos danos sofridos.
+A hipótese cuida de responsabilidade civil por ato de terceiro, e os artigos 932, 1319 e 1336 do Código Civil não preveem a obrigação de o locador reparar os danos causados ao condomínio por seu locatário.
+Essa responsabilidade apenas existe quando os danos se vinculam ao próprio domínio, jamais quando derivam de atos pessoais do locatário.
+Muito embora a convenção de condomínio estabeleça a responsabilidade civil do condômino por atos de seu locatário a ausência de norma legal neste sentido desautoriza a condenação da Ré.
+Recurso provido em parte.
+Nas razões do recurso especial (fls. 294-339, e-STJ), a parte recorrente alegou, além de divergência jurisprudencial, violação dos seguintes dispositivos normativos: arts. 932, 933, 1.277 e 1.336, inciso IV, § 2º, do Código Civil, pugnando pelo reconhecimento da responsabilidade civil objetiva da proprietária ré na presente demanda a título de danos materiais e morais, uma vez que deixou de fiscalizar os atos praticados pelo possuidor que estava sob sua vigilância, de maneira que deve ressarcir os danos causados à parte autora.
+Contrarrazões apresentadas às fls. 389-390, e-STJ.
+Em decisão monocrática (fls. 392-395, e-STJ), foi inadmitida a subida do recurso especial ao se aplicar o óbice da Súmula 7/STJ, como também não ter comprovado a divergência jurisprudencial suscitada.
+Nas razões do agravo em recurso especial (fls. 407-449, e-STJ), o agravante buscou a reforma da decisão impugnada, lançando argumentações no sentido de superar os impedimentos acima delineados.
+Sem contraminuta (fl. 453, e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No mérito, a Corte local excluiu a legitimidade passiva do locador para responder pelos danos causados ao autor da epigrafada ação indenizatória ao fundamento de que o recorrente não apontou dispositivos legais, na legislação civil, que amparasse a obrigação de o locador reparar os danos causados ao condomínio por seu locatário, consoante se observa nos seguintes trechos do acórdão em testilha (fl. 281, e-STJ):
+Caracterizados os danos, cabe averiguar a responsabilidade da Apelada, que o Apelante considera objetiva com apoio nos artigos 932, IV, e 933 do Código Civil.
+O artigo 932 do Código Civil regula a responsabilidade civil por ato de terceiro, e no inciso IV a imputa a quem de alguma forma recebe o causador do dano, "hóspedes, moradores e educandos", por atividade profissional, por dinheiro. Trata da relação jurídica afeta a hospedagem, e a relação locatícia não se enquadra na regra do referido artigo, sendo inviável a interpretação ampliativa por se tratar de norma sancionatória.
+A lei de locações em momento algum prevê a responsabilidade do locador por atos do locatário e o Código Civil registra no artigo 1336, IV, dentre outros o dever de o condômino utilizar sua parte exclusiva e as comuns sem causar prejuízo ao "sossego, salubridade e segurança dos possuidores, ou aos bens costumes". No mesmo sentido também o artigo 1319 do Código Civil que disciplina a responsabilidade civil própria do condômino por seus atos.
+Estas normas, todavia, encerram comandos dirigidos ao próprio condômino, de caráter pessoal, sendo impossível aplicar o princípio da responsabilidade por falta no dever de vigilância (culpa in elegendo) com base neste preceito. Era fundamental para estender os efeitos da responsabilidade ao locador que houvesse expressa previsão no artigo 932, do Código Civil.
+A responsabilidade civil do condômino frente ao condomínio existe apenas quanto aos danos vinculados à propriedade, e não por atos pessoais de terceiro, no caso o locatário.
+Nesse contexto, as razões do recurso especial não impugnaram as razões decisórias em destaque, relativas à falta de norma no ordenamento que atribuísse responsabilidade objetiva ao locador pelos danos causados por seu locatário, fundamento suficiente do acórdão recorrido, bem como a ausência de demonstração da suposta violação à legislação federal, impedem o conhecimento do recurso, de modo que o apelo se mostra deficiente, esbarrando nas Súmulas 283 e 284 do STF, aplicáveis por analogia.
+A propósito, o seguinte precedente desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. CRITÉRIOS DE DIREITO INTERTEMPORAL. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. SÚMULA 83/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Tribunal Superior é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não autoriza a oposição de embargos de declaração, tanto mais por não servirem os declaratórios, em regra, ao propósito de rediscussão de matéria já decidida.
+2. A falta de impugnação de fundamento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+3. Aplica-se ao direito brasileiro a Teoria do Isolamento dos Atos Processuais, segundo a qual, sobrevindo lei processual nova, os atos ainda pendentes dos processos em curso sujeitar-se-ão aos seus comandos, respeitada, porém, a eficácia daqueles já praticados de acordo com a legislação revogada.
+4. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+5. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+6. Agravo interno desprovido. (AgInt no AREsp 986.646/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/08/2018, DJe 23/08/2018)
+Destarte, o desprovimento do apelo é medida que se impõe.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
