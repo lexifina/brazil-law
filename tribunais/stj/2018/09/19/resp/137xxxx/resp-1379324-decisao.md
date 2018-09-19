@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela METSO BRASIL INDÚSTRIA E COMÉRCIO LTDA. contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+DIREITO PROCESSUAL CIVIL - AGRAVO IMPERTINÊNCIA.
+1. A prolação da sentença faz cessar a eficácia do provimento antecipatório. Precedentes jurisprudenciais.
+2. Agravo improvido.
+A recorrente alega violação dos arts. 20, §§ 3º e 4º, 128, 165, 463 e 535 do CPC/1973, sustentando, em síntese, que (e-STJ fls. 925/926):
+uma vez que o caso foi julgado como se a matéria fosse outra (não houve sentença alguma e, tampouco, provimento antecipatório), a Recorrente opôs embargos de declaração demonstrando que a questão posta a julgamento é outra e relativa aos honorários advocatícios devidos pela União Federal sobre o valor que reconheceu ser indevidamente executado e o E. Tribunal "a quo" se omitiu acerca de pontos sobre os quais deveria ter se manifestado, especificamente acerca do disposto no artigo 20, "caput" e parágrafos 3º e 4º da Lei Processual em vigor, justificando, assim, a oposição dos presentes embargos declaratórios, nos termos do inciso II do artigo 535 do Código de Processo Civil e do inciso I do artigo 463 do mesmo codex processual, bem como e principalmente para efeito de prequestionamento.
+ ..
+Isso porque, o v. acórdão recorrido, ao deixar de condenar a Fazenda Nacional ao pagamento das verbas sucumbenciais incidentes sobre a parcela que a Exequente já expressamente reconheceu ter sido indevidamente executada (pois o reconhecimento se deu após o oferecimento da defesa da Recorrente), contrariou e negou vigência ao artigo 20, caput e §§ 3º e 4º da Lei Processual Civil em vigor, vez que de acordo com estes o vencido (no caso a Fazenda que reconheceu a cobrança indevida de aproximadamente 20% do valor executado) deve ser condenado a pagar ao vencedor (no caso a Recorrente) os honorários advocatícios, que deverá ser de, no mínimo, 10% (dez por cento) do valor reconhecido como indevidamente executado, nos exatos termos das alíneas "a", "b" e "c" do parágrafo 3º do mencionado artigo 20.
+Contrarrazões foram apresentadas pela FAZENDA NACIONAL, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fls. 964/970).
+Recurso especial foi admitido na origem.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+Considerado isso, importa mencionar que METSO interpôs agravo de instrumento contra decisão de rejeição de exceção de pré-executividade.
+Monocraticamente, o recurso foi julgado prejudicado porque "a r. decisão - cuja prolação está documentada (fls. 894/898) - noticia a reconsideração da r. decisão agravada e o provimento dos embargos de declaração" (e-STJ fl. 880).
+A executada, então, opôs embargos de declaração, aduzindo que: "informou a Embargante que a questão que subsiste e que merece a apreciação de V.Sas. é a discussão acerca da necessidade da União Federal ser condenada ao pagamento das verbas incidentes sobre o valor que reconheceu indevidamente cobrado, já que o d. juízo de primeira instância manteve a decisão originária quanto a este ponto" (e-STJ fl. 884).
+O recurso integrativo, contudo, foi rejeitado, porque "os embargos não demonstram a invalidade jurídica da fundamentação adotada na r. decisão" (e-STJ fl. 888).
+Interposto agravo regimental, foi desprovido com a seguinte fundamentação (e-STJ fls. 902/908):
+A reconsideração da r. sentença - cuja prolação está documentada - faz cessar a eficácia do provimento antecipatório.
+ ..
+Ademais, a matéria é objeto de jurisprudência dominante no Superior Tribunal de Justiça e nesta Corte Regional. Confira-se:
+Novos embargos declaratórios aduziram que:
+a questão posta a julgamento é relativa aos honorários advocatícios devidos pela União Federal sobre o valor que reconheceu ser indevidamente executado), sendo que essa Colenda Quarta Turma se omitiu acerca de pontos sobre os quais deveria ter semanifestado, especificamente acerca do disposto no artigo 20, "caput" e parágrafos 3º e 4º da Lei Processual em vigor, justificando, assim, a oposição dos presentes embargos declaratórios, nos termos do inciso II do artigo 535 do Código de Processo Civil e do inciso I do artigo 463 do mesmo codex processual, bem como e principalmente para efeito de prequestionamento (e-STJ fl. 912).
+Com o mesma fundamentação acima mencionada, os aclaratórios foram rejeitados (e-STJ fls. 915/920).
+Pois bem.
+O art. 20, §§ 3º e 4º, do CPC/1973 não está prequestionado e, por isso, não autoriza o conhecimento do especial.
+Com relação à tese de violação dos 165, 463 e 535 do CPC/1973, os órgãos judiciais estão obrigados a se manifestar, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador. Nessa linha, se a integração pedida por meio dos aclaratórios é negada pelo órgão julgador, há violação dos referidos dispositivos.
+A respeito: EDcl no AgInt no REsp 1.584.428/RS, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 22/05/2017; REsp 1.661.018/RS, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 02/05/2017.
+Na hipótese dos autos, está caracterizada a violação dos referidos dispositivos, porquanto expresso na petição dos aclaratórios que sua pretensão se relaciona com a sucumbência recíproca determinada pelo magistrado de primeiro após o acolhimento parcial da exceção de pré-executividade, parte que não estaria prejudicada pela reconsideração noticiada; assim, a fundamentação externada pelo órgão judicial a quo é insuficiente para embasar sua conclusão, devendo os autos retornarem para novo julgamento do recurso integrativo.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial de METSO BRASIL INDÚSTRIA E COMÉRCIO LTDA., por violação dos arts. 458 e 535 do CPC/1973, casso o acórdão recorrido e determino novo julgamento dos embargos de declaração.
+Publique-se. Intimem-se.
