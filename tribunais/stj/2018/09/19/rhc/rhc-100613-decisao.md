@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra acórdão oriundo do Tribunal de Justiça do Estado de São Paulo (HC n. 2031445-75.2018.8.26.0000).
+Depreende-se dos autos que a paciente foi condenada a 21 anos e 4 meses de reclusão, em regime inicial fechado, pelos crimes previstos no art. 33, caput, e no art. 35, ambos da Lei n. 11.343/2006, com a incidência da causa de aumento de pena prevista no inciso VI do art. 40 desse mesmo diploma legal, em concurso material. Na oportunidade, foi mantida sua prisão preventiva.
+Impetrado habeas corpus visando à conversão da prisão preventiva em domiciliar, o Tribunal de origem denegou a ordem (e-STJ fls. 62/67).
+Daí o presente recurso, no qual o recorrente defende a revogação da prisão preventiva alegando que "não há sequer fundamentação em concreto sobre a prisão preventiva" (e-STJ fl. 83). Sustenta, alternativamente, a substituição dessa prisão pela domiciliar, aduzindo que a paciente possui 9 filhos (e-STJ fl. 74), dos quais 4 são menores de 12 anos de idade (e-STJ fl. 75), que dependem de seus cuidados. Acrescenta, ainda, que a avó materna, que tem 70 anos de idade, está tendo dificuldades para manter a subsistência das crianças. Assim, ao final, requer a revogação da prisão preventiva ou a substituição pela prisão domiciliar.
+É, em síntese, o relatório.
+Inviável o prosseguimento da presente irresignação, pois é mera reiteração do HC n. 447.665/SP, a mim anteriormente distribuído, no qual se ataca o mesmo acórdão. Insta registar que o pedido liminar foi indeferido no referido writ. Além disso, nele já foi oferecido parecer pelo Ministério Público Federal, estando concluso para julgamento, a evidenciar que seu mérito será apreciado de forma mais célere do que o presente recurso.
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
