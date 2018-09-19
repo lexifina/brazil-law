@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, em 19/03/2018, contra decisão do Tribunal de Justiça do Estado de Minas Gerais, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - DESAFETAÇÃO DE ÁREA VERDE PELO MUNICÍPIO DE UBERLÂNDIA - REGULARIDADE - DESCARACTERIZAÇÃO DA INALIENABILIDADE DO IMÓVEL - POSTERIOR DESDOBRO E PARCELAMENTO DO SOLO - LOTES DESTINADOS À INDENIZAÇÃO DE FAMÍLIAS CUJOS IMÓVEIS FORAM DESAPROPRIADOS PELO MUNICÍPIO, PARA FINS DE CRIAÇÃO DE PARQUE - ESCOLHA FUNDADA NO EXERCÍCIO DA AUTONOMIA E DISCRICIONARIEDADE MUNICIPAIS - ARBITRARIEDADE NÃO DEMONSTRADA - ATENDIMENTO DO INTERESSE PÚBLICO - INEXISTÊNCIA DE INJUSTA AGRESSÃO AO PATRIMÔNIO VALORATIVO DA SOCIEDADE LOCAL - DANO MORAL COLETIVO - IMPROCEDÊNCIA
+1. A inalienabilidade dos bens públicos é relativa, restando autorizada a sua disposição, desde que preenchidas as condições previstas em lei.
+2. Descaracterizada, regularmente, a natureza de bem de uso comum do povo, por meio de desafetação, fez-se lícito o seu posterior desdobro, destinando-se, os lotes, a famílias cujos imóveis foram desapropriados pelo Município, para fins de implantação do Parque Linear do Rio Uberabinha.
+3. Não ocorrência de violação ao art. 17 da Lei 6.766/1979 - que teria proibido o loteador de alterar a destinação de espaços livres de uso comum -, dado o exercício da autonomia e discricionariedade municipais, que não se comprovou ter sido exercida fora dos limites legais.
+4. Inexistência de agressão injusta ao patrimônio valorativo da comunidade local. Ausência de dano moral coletivo.
+5. Pedidos julgados improcedentes. Recurso não provido" (fl. 443e).
+Nas razões do Recurso Especial, interposto com fulcro na alínea a do permissivo constitucional, aduz a parte recorrente violação aos arts. 17 da Lei 6.766/79, 2º, I, da Lei 10.257/2001, 100 e 101 do Código Civil, argumentando que "não há que se falar em discricionariedade da administração, porque o crivo, aqui, é de legalidade. E, reconhecida a injusta lesão, a condenação em danos morais coletivos se impõe, cabendo à instância a quo apenas sua fixação" (fl. 481e).
+Requer, ao final, o provimento do recurso.
+Negado seguimento ao Recurso Especial (fls. 486/487e), foi interposto o presente Agravo (fls. 493/497e).
+Apresentada a contraminuta a fls. 506/513e.
+A irresignação não merece acolhimento.
+Com efeito, verifica-se que a Corte de origem, ao afastar o pedido do Ministério Público de condenação do réu em danos morais coletivos, concluiu o seguinte:
+"O dano moral coletivo representa, destarte, lesão a interesses transindividuais, afetando a boa imagem da proteção legal a esses interesses, bem como a segurança do cidadão, que se vê desamparado em razão de determinada conduta, sendo cabível, em tese, em todas as relações jurídicas que envolvam a coletividade, nos termos do art. 21 da Lei 7.347/1985.
+No entanto, no caso dos autos, já se verifica ausente o primeiro requisito da responsabilização por dano moral coletivo, a saber, a injusta lesão, na linha da fundamentação supra.
+Também não se vislumbra a ocorrência de agressão ao patrimônio valorativo da sociedade local - não havendo provas de que a comunidade ficou desguarnecida dos limites mínimos legais de área verde -, restando ausente, pois, o requisito do dano" (fl. 452e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
