@@ -1,0 +1,34 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE, CONSISTENTE EM FUGA. PERDA DE 1/3 DOS DIAS REMIDOS. FUNDAMENTAÇÃO IDÔNEA. HISTÓRICO CARCERÁRIO CONTURBADO. PRECEDENTES DESTA CORTE SUPERIOR. ILEGALIDADE MANIFESTA AUSENTE.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina, que negou provimento ao Agravo de Execução Penal n. 0021685-58.2017.8.24.0023 (fl. 63):
+AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE HOMOLOGOU A PRÁTICA DE FALTA GRAVE E DETERMINOU A REGRESSÃO DO APENADO AO REGIME FECHADO, A PERDA DE 1/3 (UM TERÇO) DOS DIAS REMIDOS E A MODIFICAÇÃO DA DATA-BASE À CONCESSÃO DE FUTUROS BENEFÍCIOS PRISIONAIS.
+RECURSO DEFENSIVO.
+ALEGADA ATIPICIDADE E INEXIGIBILIDADE DE CONDUTA DIVERSA. NÃO ACOLHIMENTO. APENADO QUE CONFESSOU TER CAVADO BURACO LOCALIZADO EM SUA CELA DURANTE PROCEDIMENTO DE REVISTA. TENTATIVA DE FUGA DO INTERIOR DA UNIDADE PRISIONAL COMPROVADA (ART. 50, II, C/C. ART. 49, PARÁGRAFO ÚNICO, AMBOS DA LEP). RECONHECIMENTO DA FALTA GRAVE MANTIDA.
+ALMEJADO AFASTAMENTO OU REDUÇÃO DA SANÇÃO DE PERDA DOS DIAS RELATIVOS À REMIÇÃO DA PENA. IMPOSSIBILIDADE. PRÁTICA DE FALTA GRAVE QUE ENSEJA A PERDA DOS DIAS REMIDOS. EXEGESE DO ART. 127 DA LEP. APLICAÇÃO DA FRAÇÃO MÁXIMA DE 1/3 (UM TERÇO) DEVIDAMENTE JUSTIFICADA.
+RECURSO CONHECIDO E DESPROVIDO.
+Alega-se na impetração ilegalidade decorrente da decretação da perda dos dias remidos na fração máxima, sem fundamentação idônea, dada a sua generalidade.
+Afirma-se que o dever de fundamentação concreta é sempre necessário: os arts. 57 e 127 da LEP devem ser lidos em conformidade com o art. 93, IX, da CRFB/88. E, por certo, a fundamentação genérica ora combatida não é hábil a desincumbir o Órgão Judicial de seu ônus argumentativo imposto pela Constituição da República (CRFB/88, art. 93, IX) - (fl. 9).
+Requer, liminarmente, a suspensão dos efeito da decisão proferida pelo Juízo da Vara de Execuções Criminais.
+No mérito, pleiteia seja declarada a ilegalidade da fração de 1/3 à perda dos dias remidos para, desde logo, ADEQUÁ-LA ou, subsidiariamente, ANULAR a decisão, determinando-se ao Juízo de primeiro grau que promova a adequação da sanção, desta feita de forma fundamentada e com estrita observância aos arts. 127 e 57 da LEP e ao art. 93, IX, da CRFB/88 (fl. 12).
+O pedido de liminar foi indeferido pela Presidência desta Corte (fls. 474/475).
+Prestadas as informações (fls. 478/520), o Ministério Público Federal manifestou-se, em parecer exarado pela Subprocuradora-Geral da República [NOME], pelo não conhecimento da ordem ou, caso contrário, pela sua denegação.
+É o relatório.
+Não há manifesta ilegalidade a ser sanada, como bem expôs o parecer ministerial, cujos fundamentos adoto como razões de decidir (fls. 525/527):
+In casu, as instâncias ordinárias justificaram suficientemente a aplicação da penalidade quando constataram e registraram que o reeducando cometeu falta grave ao tentar empreender fuga do estabelecimento prisional fazendo um buraco na sua cela, demonstrando total falta de senso de responsabilidade e autodisciplina em relação ao resgate da sua reprimenda.
+Consignou-se, ainda, que a fração de 1/3 é condizente com a gravidade da falta cometida, não havendo que se falar em ofensa aos princípios da individualização e da proporcionalidade da pena. Ademais, como é cediço, o Juiz das Execuções possui certa discricionariedade sobre o quantum da punição.
+Confira-se a decisão do magistrado (fls.465/469), confirmada pela Corte de origem:
+" Da Perda dos Dias Remidos E
+Em sendo pacífico que "Cabe ao Juízo das Execuções dimensionar a fração da perda dos dias remidos, limitada ao patamar máximo de 1/3 (um terço), levando em consideração o disposto no artigo 57 da Lei n. 7.210/1984." (HC 306591/ RS, rel. Min. FELIX FISCHER, QUINTA TURMA, DJe 12/06/2015), bem como observadas as previsões contidas nos artigos 57 e 127, ambos da Lei de Execuções Penais, passo a fundamentação para a revogação de parte dos dias remidos.
+"Art. 127. Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar. (Redação dada pela Lei nº 12.433, de 2011)." (Grifei). "Art. 57. Na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão. (Redação dada pela Lei nº 10.792, de 2003)."
+Logo, para o caso em tela, a revogação de 1/3 dos dias remidos se mostra plenamente adequada, levando em consideração que a fuga do estabelecimento prisional com o cometimento, em tese, de novo delito, demonstra o descaso do reeducando com a execução da pena e são hipóteses extremamente graves, visto que, por meio de suas condutas, o reeducando demonstrou incapacidade em seguir as regras mínimas de reintegração social, voltando a praticar crimes." (fls.468)
+Com efeito, a perda de um terço dos dias remidos mostra-se proporcional à gravidade da falta cometida pelo paciente, que tentou empreender fuga do estabelecimento prisional fazendo um buraco na parede de sua cela, o que não pode ser aceito ou considerado como de menor importância.
+Além disso, PAULO ROBERTO BROETO, que cumpre penas que totalizam mais de 13 anos (fls.479/480), apresenta um histórico prisional conturbado, marcado pelo cometimento de outras faltas graves e crimes dolosos (fls.449).
+Como sabido, art. 127 da LEP permite a perda de até um terço do total dos dias remidos, quando do reconhecimento da falta grave praticada pelo apenado, destacando que deve ser observado o art. 57 da LEP, que assim dispõe: "Art. 57. Na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão."
+Dessa forma, diante das diretrizes acima traçadas, está plenamente justificada a aplicação do patamar máximo de 1/3.
+De fato, o cometimento de uma falta grave implica a perda dos dias remidos (Lei n. 12.433/2011), sendo indispensável a fundamentação para o percentual de perda de dias remidos, até 1/3 (um terço).
+E, como visto, não há falar em falta de fundamentação na hipótese em exame, porquanto o magistrado a quo justificou expressamente a perda dos dias remidos na fração de 1/3, ante a gravidade em concreto da conduta praticada pelo apenado (fuga).
+Vale ressaltar que a jurisprudência desta Corte possui o entendimento de que a natureza especialmente grave da falta disciplinar (fuga) justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEP) - (HC n. 347.147/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/5/2016).
+Ante o exposto, denego a ordem.
+Publique-se.
