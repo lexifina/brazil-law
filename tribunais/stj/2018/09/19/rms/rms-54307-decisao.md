@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por LUIS FELIPPE PEREIRA DE MEDEIROS, impugnando acórdão do Tribunal de Justiça do Estado de São Paulo que julgou prejudicado o mandado de segurança impetrado na origem, visando a liberação de veículo sequestrado por determinação do MM Juiz da 1ª Vara do Foro e da Comarca de Presidente Venceslau, no Processo nº 0002162- 18.2016.8.26.0483, constrição posteriormente transferida para o inquérito policial nº 0003446-61.2016.8.26.0483.
+É este o teor da ementa do aresto hostilizado:
+"Mandado de Segurança com pedido de liminar - Pedido de restituição de veículo seqüestrado ou de liberação sob a nomeação do impetrante como fiel depositário - Informações da autoridade apontada como coatora no sentido de que o veículo não mais se encontra apreendido nos autos da ação penal originária - Nova restrição decretada em outro processo - Perda superveniente do objeto - Mandamus prejudicado." (fl. 240)
+No presente recurso ordinário, afirma que estamos diante de um caso absurdo e abusivo de violação à garantia constitucional, isso porque "é de simples constatação que o bem apreendido não pertence a nenhum dos investigados". Acrescenta que "tal inquérito possui aproximadamente mais de 10 (dez) meses em andamento, sendo igual o prazo em que o veículo encontra-se a disposição da justiça em um pátio da Delegacia de Roubos e Furtos na comarca de Cuiabá-MT, se decompondo com os efeitos diários da natureza, sem qualquer proteção" (fl. 259).
+Requer, no mérito, a reforma do julgado com a conseqüente liberação do veículo em favor do recorrente. Alternativamente, não sendo este o entendimento desta Corte, pugna pela liberação na qualidade de depositário fiel.
+Parecer ministerial pelo parcial provimento do recurso a fim de determinar que o Tribunal de origem examine o mérito da impetração como entender de direito.
+É o relatório. Decido.
+Conforme informações prestadas pela Vara Criminal da Comarca de Presidente Venceslau/SP, via telefone [TELEFONE] número geral, pelo servidor [NOME], mat. n. 817.156, o veículo em debate foi liberado em favor do ora recorrente por decisão de 20 de julho de 2018 proferida nos autos de embargos de terceiro.
+Desse modo, constata-se a perda superveniente do objeto do presente feito.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em mandado de segurança.
+Publique-se. Intimem-se.
