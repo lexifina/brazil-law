@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão por meio da qual neguei provimento ao agravo em recurso especial, por entender que: (I) incide a Súmula 83/STJ, porque o acórdão recorrido está em consonância com a jurisprudência desta Corte; e (II) no que diz respeito ao pedido de revisão das penalidades impostas, a parte recorrente não amparou o inconformismo na violação de qualquer lei federal (Súmula 284/STF).
+A parte embargante alega que: (I) o que se pede é a análise dos fatos delineados no acórdão para que se dê o correto enquadramento jurídico, o que não ocorreu na decisão monocrática; (II) a jurisprudência do colendo Superior Tribunal de Justiça tem admitido que a revaloração das provas não encontra óbice na Súmula 7/STJ, contanto que os elementos probatórios existentes nos autos estejam minuciosamente descritos no acórdão; (III) a imposição do óbice da Súmula 284/STF não se coaduna com a base principiológica que permite ao Superior Tribunal de Justiça analisar a adequação e a proporcionalidade das sanções pela prática de atos de improbidade administrativa.
+Impugnações às fls. 3.411/3.414 e 3.417/3.421.
+É o relatório. Passo a decidir.
+A irresignação não merece acolhida.
+De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+No caso em exame, não há omissão há ser sanada, pois, conforme já consignado, o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte no que diz respeito aos requisitos para a configuração dos atos de improbidade administrativa capitulados nos arts. 10 e 11 da Lei nº 8.429/1992, atraindo a incidência da Súmula 83/STJ.
+Veja-se, portanto, que, ao contrário do que aponta o embargante, a decisão agravada, em momento algum, afirmou que a análise do recurso especial - interposto unicamente com fundamento na alínea c do permissivo constitucional - estaria, quanto a esse aspecto da controvérsia, obstada pelo teor da Súmula 7/STJ.
+Ademais, no tocante ao pedido de revisão das sanções anteriormente impostas, restou consignado que a parte então recorrente não amparou o inconformismo na violação de qualquer lei federal. Assim, não há como afastar a incidência da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Em suma, não podem ser acolhidos embargos declaratórios que traduzem, na verdade, inconformismo com a decisão tomada, pretendendo-se rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
