@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão monocrática de minha relatoria, que acolheu os embargos de declaração para reconsiderar a decisão de fls. 760-762 (e-STJ) e, com fundamento no art. 932, III, do Código de Processo Civil, c/c art. 253, parágrafo único, I, do RISTJ, não conhecer do agravo. Na sequência, de ofício, nos termos do art. 112, I, c/c o 109, V, ambos do Código Penal, reconheceu a prescrição da pretensão executória do crime imputado aos recorrentes.
+O embargante alega, em síntese, que "a prescrição da pretensão executória somente passa a fluir a partir do encerramento definitivo da fase cognitiva do processo penal, isto é, com o deslinde, na Corte Cidadã, da questão referente à admissibilidade ou não do apelo nobre e do agravo manejado em face à negativa de seguimento deste (o que somente foi efetivado em setembro de 2017, no bojo da decisão ora embargada) " (e-STJ, fl. 803).
+Ressalta que "o marco inicial para cômputo da prescrição da pretensão executória, na hipótese em exame, somente surge com o trânsito em julgado definitivo, quando nasce o direito de o Estado exigir o efeito principal da condenação penal" (e-STJ, fls. 803-804).
+Cita precedentes do Supremo Tribunal Federal que respaldam sua tese.
+Requer "sejam conhecidos e acolhidos os presentes EMBARGOS DE DECLARAÇÃO, sanando-se, assim, as omissões ora apontadas, com atribuição de efeitos infringentes, observando-se, ainda, se for o caso, o pleito subsidiário de recebimento da presente inconformidade como agravo interno (regimental)" (e-STJ, fl. 806).
+É o relatório.
+Decido.
+Considerando o caráter manifestamente infringente, e em face do princípio da fungibilidade recursal, recebem-se os embargos de declaração como agravo regimental.
+Analisando os argumentos aduzidos verifico que assiste razão ao recorrente.
+Em decisão monocrática desta relatoria, foi considerado como marco inicial para contagem da prescrição executória da pena, o trânsito em julgado da sentença para a acusação.
+A Suprema Corte, reconheceu a repercussão geral da matéria no ARE n. 848.107/DF - Tema 788, em acórdão com a seguinte ementa:
+"CONSTITUCIONAL. PENAL. EXTINÇÃO DA PUNIBILIDADE. TERMO INICIAL PARA A CONTAGEM DA PRESCRIÇÃO NA MODALIDADE EXECUTÓRIA. TRÂNSITO EM JULGADO SOMENTE PARA A ACUSAÇÃO. ARTIGO 112, INCISO I, DO CÓDIGO PENAL. NECESSIDADE DE HARMONIZAÇÃO DO REFERIDO INSTITUTO PENAL COM O ORDENAMENTO JURÍDICO CONSTITUCIONAL VIGENTE, DIANTE DOS POSTULADOS DA ESTRITA LEGALIDADE E DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, INCISOS II E LVII). QUESTÃO EMINENTEMENTE CONSTITUCIONAL. MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, A REPERCUTIR NA ESFERA DO INTERESSE PÚBLICO. TEMA COM REPERCUSSÃO GERAL." (ARE 848.107 RG, Relator Min. DIAS TOFFOLI, julgado em 11/12/2014, processo eletrônico DJe-033, publicado em 20/2/2015).
+Verifica-se que o mérito do Recurso Extraordinário acima referenciado está pendente de julgamento, impondo-se portanto, o sobrestamento deste recurso.
+Assim, reconsidero a decisão de fls. 792-796 (e-STJ) e nos termos do art. 1.030, III, do CPC, determino o sobrestamento deste recurso até a decisão de mérito a ser proferida pela Suprema Corte sobre o Tema 788/STF.
+Publique-se. Intimem-se.
