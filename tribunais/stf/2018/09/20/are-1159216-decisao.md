@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “PENAL E PROCESSO PENAL. PRESCRIÇÃO. ALICIAMENTO DE TRABALHADORES. REDUÇÃO À CONDIÇÃO ANÁLOGA À DE ESCRAVO. ART. 149, CP. EXPLORAÇÃO DE TRABALHADORES. SUBMISSÃO FÁTICA. CARACTERIZAÇÃO DO DELITO. PENALIDADE. RECURSO DA ACUSAÇÃO PROVIDO.
+    1. Prescrição da pretensão punitiva estatal reconhecida em relação ao crime previsto no art. 207 do Código Penal, ocorrida entre a data dos fatos e o recebimento da denúncia. Decretada extinta a punibilidade dos réus quanto ao crime do art. 207 do CP (arts. 107, IV, 109, V, c/c o art. 110, todos do CP, na forma do art. 61 do CPP). Recurso de apelação quanto ao referido crime prejudicado.
+    2. Configuração do delito consistente na redução a condição análoga à de escravo, na forma estabelecida no art. 149, do Código Penal, diante dos elementos de prova existentes nos autos, que demonstram a exposição de trabalhadores às condições degradantes e apossamento dos documentos pessoais.
+    3. Em recentes julgados, com suporte em conclusão do Supremo Tribunal Federal, esta Turma afastou a necessidade da prova da coação física ou cerceamento da liberdade de locomoção para a configuração do delito tipificado pelo art. 149 do CP. Bastando que verifique a submissão da vítima a serviços forçados ou jornada exaustiva ou a condições de degradantes. Condutas, portanto, alternativas. (Precedentes da Turma).
+    4. A exploração e um grupo de 88 (oitenta e oito) trabalhadores, com vistas à utilização mão-de-obra barata, aliada ao péssimo estado das acomodações, não lhes proporcionando o mínimo de higiene, com a retenção dos documentos e parte dos salários, acabam por agravar a culpabilidade, as circunstâncias e consequências do crime, a ensejar, assim, a majoração da pena-base.
+    5. Apelação do Ministério Público provida. Sentença absolutória reformada” (Apelação Criminal 2006.38.03.000483-3, págs. 101-102 do documento eletrônico 15).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação do art. 5°, XL, LIV e LV, da mesma Carta.
+    O presente recurso perdeu o objeto.
+    Isso porque o Superior Tribunal de Justiça, ao julgar o HC 404.108/MG, concedeu a ordem para anular o julgamento do recurso de apelação (Apelação Criminal 2006.38.03.000483-3). O acórdão recebeu a seguinte ementa:
+    “HABEAS CORPUS. REDUÇÃO A CONDIÇÃO ANÁLOGA A DE ESCRAVO. NULIDADE DO JULGAMENTO DO RECURSO DE APELAÇÃO. NOTIFICAÇÃO DA DEFESA ACERCA DA INCLUSÃO DO RECURSO EM PAUTA. SESSÃO NÃO REALIZADA. SUPERVENIÊNCIA DO JULGAMENTO APÓS 4 (QUATRO) SESSÕES. CONSTRANGIMENTO ILEGAL CARACTERIZADO. CONCESSÃO DA ORDEM.
+    1. Nos termos do enunciado 431 da Súmula do Supremo Tribunal Federal, ‘é nulo o julgamento de recurso criminal, na segunda instância, sem prévia intimação, ou publicação da pauta, salvo em 'habeas corpus'.
+    2. Nos casos em que a defesa é devidamente intimada da inclusão do recurso em pauta e o respectivo julgamento é adiado, este Superior Tribunal de Justiça considera desnecessária a nova notificação da parte, desde que o intervalo entre as sessões seja razoável.
+    3. A hipótese em apreço possui peculiaridade que impede a aplicação de tal entendimento, pois, embora a defesa tenha sido notificada por telefone da inclusão do apelo em pauta, a sessão em que o recurso seria julgado sequer foi iniciada, sobrevindo o exame da insurgência duas semanas e quatro sessões após a sua inclusão em pauta, o que revela a nulidade do acórdão impugnado.
+    4. Ordem concedida para anular o julgamento do recurso de apelação, determinando-se que outro seja realizado com a prévia intimação da defesa” (págs. 38-39 do documento eletrônico 23).
+    Esse aresto transitou em julgado em 5/10/2017, conforme verifiquei em consulta ao sítio eletrônico do STJ.
+    Isso posto, julgo prejudicado o recurso (art. 21, IX, do RISTF).
+    Brasília, 20 de setembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
