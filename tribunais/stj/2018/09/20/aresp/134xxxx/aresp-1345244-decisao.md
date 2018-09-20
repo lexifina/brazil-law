@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TEP BENS E PARTICIPAÇÕES LTDA contra decisão exarada pela il. 1ª Vice-Presidência do eg. Tribunal de Justiça do Estado do Paraná (TJ-PR), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "incidente de desconsideração inversa de personalidade jurídica" em ação de execução, promovido por BANCO SAFRA S A em desfavor de TEP BENS E PARTICIPAÇÕES LTDA, em cujos autos o il. Juízo de piso proferiu decisão (fls. 26-30), para acolher o pedido incidental e determinar a desconsideração inversa da personalidade jurídica, admitindo TEP BENS E PARTICIPAÇÕES LTDA no polo passivo da execução.
+Diante disso, TEP BENS E PARTICIPAÇÕES LTDA interpôs agravo de instrumento, o qual não foi provido pelo eg. TJ-PR, conforme v. acórdão, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL.INCIDENTE DE DESCONSIDERAÇÃO INVERSA DE PERSONALIDADE JURÍDICA. RECONHECIMENTO DE GRUPO ECONÔMICO E FAMILIAR. POSSIBILIDADE. PRESENÇA DOS REQUISITOS PREVISTOS NO ART. 50 DO CC.
+1. A transferência de quotas sociais dos executados nos autos principais e ex-sócios da agravante para seu filho e a posterior transferência de bem imóvel em nome daqueles para a ora agravante, além do fato de esta possuir o mesmo endereço daqueles e ter o mesmo contato telefônico c endereço eletrônico da empresa executada nos autos principais são bastantes para o reconhecimento da formação de grupo econômico e consequente desconsideração inversa da personalidade jurídica, com a inclusão da agravante no polo passivo dos autos principais de Execução.
+2. Agravo de Instrumento desprovido" (fl. 238).
+Inconformada, TEP BENS E PARTICIPAÇÕES LTDA manejou recurso especial, com arrimo no art. 105, III, "a", da Constituição Federal, no qual alega violação aos arts. 17 e 330, II e III do CPC/73 e ao art. 50 do Código Civil.
+Contrarrazões às fls. 271-284.
+Como dito, o apelo nobre foi inadmitido (fls. 301-302).
+Irresignada, TEP BENS E PARTICIPAÇÕES LTDA manejou o presente agravo em recurso especial (fls. 305-314), refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Contraminuta às fls. 319-328.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não merece prosperar.
+Quanto à alegada violação aos aos arts. 17 e 330, II e III do CPC/73, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios com o intuito de prequestionar as referidas normas. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO IMOBILIÁRIO COM GARANTIA FIDUCIÁRIA. ALEGAÇÃO DE OFENSA AOS ARTS. 330, § 1º, I, 373, 485, I, 492, DO CÓDIGO DE PROCESSO CIVIL DE 2015, E 422 DO CÓDIGO CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. DEFERIMENTO DA ANTECIPAÇÃO DA TUTELA. PRESENÇA DOS REQUISITOS AUTORIZADORES. ALTERAÇÃO DAS PREMISSAS ADOTADAS PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1145733/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+Portanto, nessa parte, não conhecido o especial.
+Na sequência, aduz a recorrente infringência ao art. 50 do Código Civil, em síntese, ao argumento de que: "Ao tempo da formação do título exequendo nos autos de execução nº 0066155 97.2015.8.16.0014, movido pelo Banco Safra contra Job Distribuidora de Veículos Ltda, [NOME] e [NOME], os executados naquela já tinham uma situação financeira que não abrangia quaisquer bens de propriedade da Recorrente" (fls. 262-263).
+Por sua vez, o eg. TJ-SP reconheceu, no caso concreto, a presença dos requisitos ensejadores da desconsideração de personalidade jurídica previstos no art. 50 do Código Civil. É o que se verifica in verbis (fls. 245-246):
+ "Conforme acima já salientado, demonstra-se inequívoco o preenchimento dos requisitos do ar. 50 do Código Civil, visto que são fortes os indícios de abuso personalidade da empresa agravante, na medida em que seus ex-sócios [NOME] e [NOME] continuaram a participarem da administração da empresa, tendo, inclusive, o mesmo endereço, além da agravante possuir os mesmos contatos telefônico e endereço de e-mail da empresa executada Job Distribuidora de Veículos e a transferência de imóvel ocorrido entre os sócios desta para a agravante mesmo após terem saído da sociedade".
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, a fim de perquirir o preenchimento dos requisitos da desconsideração inversa de personalidade jurídica objurgada, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ. No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AGRAVANTE.
+1. No caso, a Corte Estadual concluiu não ser possível a decretação da desconsideração da personalidade jurídica, antes da realização de perícia contábil, em respeito ao devido processo legal, objetivando apurar a presença efetiva de aparente confusão patrimonial e sua extensão.
+2. A alteração das conclusões do acórdão recorrido, a fim de se reputar desnecessária a produção de prova pericial, reconhecendo a existência dos requisitos a ensejarem a desconsideração da personalidade jurídica, esbarra no óbice da Súmula 7 do STJ.
+3. Ademais, respeitada a iniciativa das partes em matéria probatória, o sistema processual pátrio (art. 130 do CPC/73) propicia meios tanto ao magistrado, como ao Tribunal, para formarem suas convicções na busca da verdade real. Assim, não há como limitar, injustificadamente, o poder de instrução do feito conferido à autoridade jurisdicional nas instâncias ordinárias. Precedentes.
+4. Agravo interno desprovido".
+(AgInt no AREsp 1026353/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. VIOLAÇÃO A ENUNCIADO DE SÚMULA. DESCABIMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. CONDUTA FRAUDULENTA. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não compete ao Superior Tribunal de Justiça analisar violação a súmula em sede de recurso especial, por não estar inserida no conceito de norma infraconstitucional, nos termos do art. 105, III, da Constituição Federal.
+2. A convicção formada pelo Tribunal de origem acerca da presença dos requisitos necessários para ensejar a desconsideração da personalidade jurídica, ante a ocorrência de indícios de fraude, para impossibilitar o cumprimento das obrigações firmadas, decorreu dos elementos existentes nos autos, de forma que rever o acórdão objurgado, no caso, importaria, necessariamente, o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 172.426/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017 - grifou-se)
+Por fim, conclui-se que o apelo nobre não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
