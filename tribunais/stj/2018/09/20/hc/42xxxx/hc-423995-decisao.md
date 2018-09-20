@@ -1,0 +1,20 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 3 PEDRAS DE CRACK, PESANDO 0,50 G, 13 TIJOLOS DE MACONHA, CADA UM PESANDO 10 G, 5 BUCHAS DE COCAÍNA, PESANDO 2 G CADA, E R$ 626,00. ALEGAÇÃO DE EXCESSO NA DOSIMETRIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Israel [NOME], em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+Na Ação Penal n. 0009756-43.2015.8.21.0003, o paciente foi condenado pelo Juízo de Direito da 1ª Vara Criminal da comarca de Alvorada/RS, como incurso no crime de tráfico de drogas, art. 33, caput, da Lei n. 11.343/2006, à pena de 9 anos de reclusão, em regime fechado, e 700 dias-multa. Com o paciente foram apreendidos: R$ 626,00 (seiscentos e vinte e seis reais), 3 pedras de crack, pesando 0,50 g, 13 tijolos de maconha, cada um pesando 10 g e 5 buchas de cocaína, pesando 2 g cada (fls. 354/410).
+Impetrado habeas corpus na origem (HC n. [CPF]), para pedir a revogação da prisão, esse foi indeferido, mantendo a constrição (fls. 216/221).
+Em sede de apelação (n. [CPF]), a defesa pediu a absolvição e, de forma subsidiária, a desclassificação para o art. 28 da Lei de Drogas. A Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao recurso para redimensionar a pena do paciente para 7 anos de reclusão (fls. 433/439).
+No presente writ, a impetrante aponta ilegalidade na valoração negativa das circunstâncias judiciais do condenado, em relação à fixação da pena-base. Aduz que a vetorial circunstâncias do crime foi tida como negativa por estar o paciente em prisão domiciliar quando do cometimento do delito, não sendo isso específico da ação ilícita.
+Sustenta ser excessiva a elevação da pena-base em 1 ano de reclusão, em razão de apenas duas vetoriais negativas.
+Decisão deste Relator indeferindo a liminar (fls. 450/451).
+Parecer ministerial opinando pela denegação da ordem (fls. 479/485).
+É o relatório.
+Aqui, aduz-se ter havido ilegalidade na valoração negativa das circunstâncias judiciais do condenado. Sustenta-se que a vetorial circunstâncias do crime foi tida como negativa pelo fato de o paciente estar em prisão domiciliar quando do cometimento do crime, não sendo isso específico da ação ilícita.
+Inexiste constrangimento ilegal quanto à valoração negativa das circunstâncias do crime. Estando o paciente em prisão domiciliar, a prática de um novo delito configura exatamente a inutilidade da prisão domiciliar para essa pessoa, uma vez que não se faz merecedora de um privilégio que havia lhe sido concedido.
+ Ao contrário, o paciente demonstrou que, ainda assim, está vivenciando o crime e agindo contrariamente ao que é lícito. Então, ao redimensionar a pena relativa ao crime de tráfico, o Tribunal local agiu de forma acertada, elevando a sua pena pelas circunstâncias do crime. Confira-se o julgado (fl. 473):
+ ..  o réu praticou o crime enquanto cumpria prisão domiciliar; fato que imprime maior gravidade ao ilícito praticado, já que transparece o absoluto menoscabo do apelante com a justiça criminal - além da nocividade das drogas confiscadas pelos policiais ("crack" e cocaína) ambas altamente perniciosas e de elevado grau viciante aos usuários; além de acarretarem conseqüências avassaladoras para o consumidor; trazem conseqüências para a famílía do dependente químico e para a sociedade, possibilitando, por via lógica, o incremento da reprimenda basilar  ..
+Afirma a defesa, ainda, ser excessivo o quantum de aumento em 1 ano de reclusão. Razão não lhe assiste, pois a elevação em 1 ano na reprimenda, tendo em conta as circunstâncias e a nocividade e diversidade de drogas (3 pedras de crack, pesando 0,50 g, 13 tijolos de maconha, cada um pesando 10 g, 5 buchas de cocaína, pesando 2 g), além de R$ 626,00 (seiscentos e vinte e seis reais), mostra-se dentro da razoabilidade. Portanto, não há que se falar em um parâmetro de aumento, podendo o magistrado ponderar e decidir a respeito da elevação da pena de acordo com as provas apresentadas.
+Ante o exposto, denego a ordem.
+Publique-se.
