@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 NCPC), interposto por NEW MAX INDUSTRIAL LTDA., contra decisão que não admitiu recurso especial (fls. 833/834, e-STJ).
+O apelo nobre, fundamentado no permissivo constitucional art. 105, III, "a" e "c", desafia acórdão prolatado pelo Egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação - Ação ordinária de restituição de valores pagos - Contrato de prestação de serviços - Estudo de viabilidade econômica financeira para angariar recursos junto à instituições financeiras - Valor da contratação incontroverso - Adiantamento dos pagamentos - Alegação de que os serviços não foram prestados - Acervo probatório que permite concluir que os serviços foram prestados conforme obrigação assumida em contrato - Recurso da requerida provido para julgar improcedente a ação, desprovido da autora.
+Na origem, a demanda versa sobre ação indenizatória proposta pela Recorrente visando o ressarcimento de R$ 338.000,00 (trezentos e trinta e oito mil reais). O Juízo de primeiro grau julgou parcialmente procedente o pedido para determinar a restituição de R$ 152.000,00 (cento e cinquenta e dois mil reais). Ambas as partes recorreram. O Tribunal de origem, por sua vez, reformou a sentença para julgar o pedido autoral improcedente.
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 192, parágrafo único e 408, do CPC/15. Sustenta, em síntese, que o acórdão deve ser reformado, pois não há possibilidade de admitir documento em língua estrangeira, sem tradução juramentada e documento particular apócrifo e não assinado para fins de julgamento. Por fim, sustenta a existência de dissídio jurisprudencial.
+Não houve a apresentação de contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicáveis ao caso o verbete sumular 282/STF, em razão da inexistência de debate sobre os artigos 192, parágrafo único e 408, do CPC/15. O recurso também foi inadmitido pela alínea "c", do permissivo constitucional, tendo em vista a ausência similitude fática entre os acórdãos.
+Irresignada (fls. 837/864, e-STJ), aduz a agravante que o reclamo merece trânsito, uma vez que não haveria o óbice suscitado pelo tribunal de origem em seu recurso.
+Contraminuta às fls. 917/921 (e-STJ), sustentando o acerto do decisum hostilizado.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. Com efeito, o conteúdo normativo dos dispositivos legais 192, parágrafo único e 408 do CPC/15 tidos por violados não foi objeto de exame pela instância ordinária, mesmo após o julgamento dos embargos de declaração opostos pela ora recorrente (fls. 768/772, e-STJ) . Ademais, nas razões do especial deixou a insurgente de apontar eventual violação do artigo 1.022 do CPC/15, razão pela qual incide, na espécie, a Súmula 211 desta Corte, de seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3. Do exposto, com fundamento no art. 932, do CPC/15 c/c a súmula 568 do STJ, nego seguimento ao agravo.
+Publique-se. Intimem-se.
