@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DOCUMENTOS QUE COMPROVAM CESSÃO DE CRÉDITO. ILEGITIMIDADE ATIVA. INCIDÊNCIA DA SÚMULA 7/STJ. REEMBOLSO DE DESPESAS FUNERÁRIAS. COBERTURA. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. CESSÃO DE CRÉDITO. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA DO DEVEDOR. DÍVIDA PERMANECE EXIGÍVEL. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. No caso em exame, investigar os elementos coligidos aos autos aptos a delinearem a legitimidade ativa da recorrida, em especial a documentação comprobatória da cessão de crédito, demandaria inevitável incursão no suporte fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+2. O Tribunal de origem firmou entendimento acerca da possibilidade de reembolso das despesas discutidas nos autos com base na realidade do comércio, cláusula contratual que regula a matéria e demais circunstâncias do caso concreto, o que exige indubitável revolvimento do acervo fático-probatório dos autos, além do reexame contratual, providências, no entanto, obstadas pelas Súmulas 5 e 7/STJ.
+3. O devedor não pode utilizar-se da ausência de notificação prévia da cessão de crédito para desobrigar-se do pagamento da dívida, que, por sua vez, continua exigível. Contudo, na hipótese de prestar a obrigação ao cedente, não precisará fazê-lo novamente ao cessionário. Incidência da Súmula 83/STJ.Precedentes.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator): Trata-se de agravo interno interposto por [NOME] E COMPANHIA LTDA contra decisão desta Relatoria que conheceu do agravo para não conhecer do recurso especial, ao fundamento de que a pretensão de modificação do entendimento trazido pela eg. Corte de Apelação estaria obstada pelas Súmulas n. 5, 7 e 83/STJ.
+Nas razões do presente agravo interno, [NOME] E COMPANHIA LTDA afirma que recurso especial não esbarra nos óbices aplicados, em síntese, ao argumento de que: a) "não se trata de reexame de provas/documentos, mas uma questão pura e simples de direito material, pois se está questionando/demonstrando a aplicação do artigo (286 CC), que proíbe a cessão de crédito caso convencionado entre credor e devedor e, por isto, deve ser reconhecida a ilegitimidade passiva da Recorrida (267, IV, CPC)"  fl. 454 ; b) "como o contrato veda o ressarcimento quando o serviço poderá ser realizado por conveniada (o caso), deve ser aplicado o art. 286 do CC, que desautoriza a cessão de crédito em quando a natureza do crédito for contrária ao convencionado entre as partes"  fl. 455 ; e c) "em decisão mais recente ao que foi apontado no acórdão impugnado, o STJ decidiu que a cessão de crédito não faz efeito ao devedor se não houver a notificação (..)"  fl. 455 .
+Ao final, requer a reconsideração da decisão agravada ou, se mantida, que seja o presente recurso levado a julgamento perante a eg. Quarta Turma.
+Sem impugnação ao agravo interno (vide certidão à fl. 459).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+O presente recurso não merece prosperar, uma vez que a agravante não apresentou argumentação jurídica necessária a motivar a modificação do entendimento externado na decisão ora vergastada.
+Primeiramente, no tocante à aplicação da Súmula n. 7/STJ à alegada violação ao art. 267, VI do CPC/73, mantida a decisão singular, no ponto.
+Com efeito, investigar os elementos coligidos aos autos aptos a delinearem a legitimidade ativa da recorrida, em especial a documentação comprobatória da cessão de crédito objurgada, na forma em que ora se postula, demandaria inevitável incursão no suporte fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+Na sequência, também irretocável a aplicação das Súmulas 5 e 7/STJ à arguição de vulneração ao art. 286 do Código Civil. A título elucidativo, transcreve-se o seguinte excerto da decisão agravada, que deve ser confirmada:
+"Dando seguimento ao exame do apelo, aduz ainda a recorrente ofensa ao art. 286 do Código Civil, resumidamente, sob a alegação de que a Cláusula X do contrato entabulado entre as partes veda o pagamento a título de ressarcimento.
+Por sua vez, o eg. TJ-SC asseverou que, no caso concreto, não há vedação ao ressarcimento discutido, nos seguintes termos (fls. 294-295):
+"De acordo com a citada cláusula, o reembolso das despesas funerárias somente será devido na eventualidade de o óbito e o sepultamento terem sucedido fora da área de cobertura da contratada ou, ainda, quando verificado óbice legal ou técnico à prestação do serviço.
+(..)
+Diante disso, milita em favor do consumidor presunção favorável no sentido de inexistir opção de prestação dos serviços pela própria apelante ou por qualquer de suas conveniadas para o atendimento daquela situação, até mesmo por impedimento legal - respeito ao rodízio das permissionárias que desempenham os trabalhos funerários".
+Nessa senda, a modificação do entendimento lançado no v. acórdão recorrido, ora transcrito, acerca da cobertura contratual objurgada e eventuais fatores impeditivos desta, demandaria o reexame de cláusula contratual, bem como a reanálise de conteúdo fático-probatório, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório".
+Nesse contexto, verifica-se que o Tribunal de origem firmou entendimento acerca da possibilidade de reembolso das despesas discutidas nos autos com base na realidade do comércio - opções de prestadoras de serviço -, cláusula contratual que regula a matéria - Cláusula X - e demais circunstâncias do caso concreto, o que exige indubitável revolvimento do acervo fático-probatório dos autos, além do reexame contratual, providências, no entanto, obstadas pelas Súmulas n. 5 e 7/STJ.
+Quanto à aplicação da Súmula 83/STJ, por ambas as alíneas do permissivo constitucional, à agitada infringência ao art. 290 do Código Civil, nessa parte, novamente mantida a decisão monocrática.
+Sobre o tema, além dos precedentes homenageados no decisum vergastado, também se colhem os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CESSÃO DE CRÉDITO. ANUÊNCIA DO DEVEDOR. NOTIFICAÇÃO. CONCRETIZAÇÃO. AUSÊNCIA DE PROVA DE PAGAMENTO AO DEVEDOR PRIMITIVO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é no sentido de que a ausência de notificação do devedor sobre a transferência do crédito não tem o condão de isentá-lo da obrigação, mas tão somente de desobrigar o devedor que tenha prestado a obrigação ao cedente de fazê-la novamente ao cessionário.
+2.Inexistindo nos autos prova concreta de quitação do débito ao credor primitivo, bem como a inequívoca ciência da cessão de crédito através da notificação, não há como acolher a tese recursal de ineficácia da cessão realizada. Rever os fundamentos do acórdão estadual demandaria reexame de provas, o que faz atrair o óbice da Súmula 7 do STJ.
+3. Agravo interno não provido".
+(AgInt no AREsp 1233425/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/05/2018, DJe 15/05/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO. NOTIFICAÇÃO. AUSÊNCIA. PAGAMENTO AO CEDENTE. REEXAME DE PROVA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de notificação da cessão de crédito não tem o condão de isentar o devedor do cumprimento da obrigação, tampouco de impedir o registro do seu nome, se inadimplente, em órgãos de restrição ao crédito.
+3. Rever a conclusão do acórdão local, no que diz respeito à notificação da cessão de crédito à agravante, esbarra no óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido".
+(AgInt no AREsp 1156325/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 30/04/2018 - grifou-se)
+Como se vê, o entendimento mais recente das eg. Terceira e Quarta Turmas desta Corte Superior é no sentido de que o devedor não pode utilizar-se da ausência de notificação prévia da cessão de crédito para desobrigar-se do pagamento da dívida, que, por sua vez, continua exigível. Contudo, na hipótese de prestar a obrigação ao cedente não precisará fazê-lo novamente ao cessionário. Portanto, a pretensão recursal de que a cessão de crédito fique obstada pela ausência de notificação ao devedor não prospera.
+Nesse cenário, observa-se que o agravante limita-se a revisitar os mesmos argumentos já devidamente analisados.
+Por fim, conclui-se que o agravo interno não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
