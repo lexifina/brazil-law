@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo, interposto pela NISSAN DO BRASIL AUTOMÓVEIS LTDA, contra decisão que inadmitiu recurso especial, fundamentado na alínea "a" do permissivo constitucional, em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 298):
+Bem móvel - Veículo 0 KM - Oferta de venda em sítio eletrônico de Associação de Classe - Proposta formalizada pelo associado com impressão de "voucher" - Clube de compras - Venda direta promocional da concessionária - Ação de obrigação de fazer cumulada com pedido de indenização por danos morais - Relação de consumo - Incidência das regras do CDC - Documentos juntados que demonstram a oferta, o preço, as condições e aceitação - Tratativas iniciadas e que somente não foram concretizadas por falta de disponibilidade do veículo importado - Oferta da concessionária que vincula a fabricante/importadora do bem - Responsabilidade solidária assegurada pelo Código de Defesa do Consumidor - Obrigação de fazer acolhida - Sentença confirmada. - Recurso DESPROVIDO.
+Nas razões do recurso especial, a recorrente aponta violação aos arts. 3º, 14,18, 20 e 30 do CDC; 485, VI, do CPC e 16 da Lei 6.729/1979, sustentando, em síntese, a nulidade do aresto recorrido em razão da absoluta dissociação com a prova dos autos; e, b) a ausência da responsabilidade solidária da montadora para o cumprimento de oferta veiculada, tão-somente, pela concessionária.
+É o relatório.
+Decido
+A irresignação não prospera.
+Inicialmente, no que tange à tese de nulidade do aresto recorrido em razão da absoluta dissociação com a prova dos autos, observa-se que a recorrente não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido." (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 27/08/2015)
+Na hipótese, entre as razões em que o tribunal de origem concluiu pela responsabilidade solidária da recorrente pela oferta publicitária, foi de que a conclusão do negócio não se efetivou em razão da indisponibilidade do produto por parte da montadora, conforme se depreende do seguinte excerto do aresto recorrido:
+ ..  o comprador foi alertado de que não se encontrava disponível o veículo de seu interesse, fazendo-se necessárias a importação e liberação na alfândega, com mais dispêndio de tempo.
+ ..
+Nessa conformidade, existindo prova da oferta e da aceitação do consumidor para aquisição de produto de fabricação/importação da ré, somente não se aperfeiçoando por ato da segunda, correta a sentença ao reconhecer a formalização do negócio e a obrigação de entrega do bem mediante o pagamento do preço, devidamente atualizado.
+(fls. 302 e 304 - grifou-se).
+Ocorre que a recorrente não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia das Súmulas nº 283 e 284 do Supremo Tribunal Federal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3. A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/10/2014, DJe 29/10/2014)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS O ACÓRDÃO HOSTILIZADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO REGIMENTAL NÃO PROVIDO.
+1.. A falta de impugnação objetiva e direta aos fundamentos do acórdão recorrido, denota a deficiência da fundamentação recursal que apegou-se a considerações secundárias eque de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+2. A análise da retensão recursal, a fim de se examinar a validade da perícia realizada, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em sede de recurso especial, nos termos o enunciado da Súmula 7 do STJ.
+3. Inviável o conhecimento do recurso ela alínea "c" do permissivo constitucional, se a análise do dissenso pretoriano depender do revolvimento de matéria fático probatória.
+4. Agravo regimental não provido, com aplicação de multa." (AgRg no AREsp 69.414/SP, Rel. Ministro LUIS FELIPE SALOMÃO , QUARTA TURMA, julgado em 02/10/2014, DJe 16/10/2014) ; b) a ausência do dever de indenizar a título de dano moral, porquanto não foi apontado qualquer abalo que tenha experimentado o recorrido em razão do atraso na entrega do empreendimento, pelo contrário, expressamente, o Tribunal a quo entendeu pela presunção do dano moral; e, c) a necessidade de redução do quantum indenizatório fixado, ante a sua excessividade.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 15% sobre o valor da condenação para 16% sobre o respectivo valor.
+Publique-se.
