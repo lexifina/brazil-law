@@ -1,0 +1,61 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO CIRCUNSTANCIADO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. CONDENAÇÕES ANTERIORES ALCANÇADAS PELO PERÍODO DEPURADOR QUINQUENAL. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+- O julgamento monocrático do habeas corpus não representa ofensa ao princípio da colegialidade, nos termos previstos no art. 34, XX, do RISTJ, notadamente porque qualquer decisão monocrática está sujeita à apreciação do órgão colegiado, em virtude de possibilidade de interposição do agravo regimental, como na espécie.
+- A dosimetria da pena e o seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- Apesar de as condenações anteriores transitadas em julgado, e já alcançadas pelo período depurador quinquenal, não poderem ser utilizadas a título de reincidência, nada impede sejam apreciadas, na primeira fase da calibragem, para negativar os antecedentes criminais, conforme remansosa jurisprudência desta Corte Superior.
+- Dessa forma, a negativação dos antecedentes criminais do paciente está em harmonia com a jurisprudência desta Corte de Justiça, devendo, assim, permanecer inalterada.
+- Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+JUAREZ PEREIRA DA SILVA agrava regimentalmente contra decisão de minha relatoria, na qual não conheci do writ porque substitutivo de recurso especial. Não obstante isso, ao analisar os autos, constatei que o acórdão recorrido estava em harmonia com a jurisprudência pacificada desta Corte Superior.
+Afirma o agravante, contudo, que r. decisão monocrática proferida  ..  tolheu o direito do Agravante de ter o pleito julgado pelo órgão colegiado, causando-lhe efetivo prejuízo (e-STJ fl. 1.215), por isso, a matéria versada merece ser submetida ao crivo da Turma Criminal dessa casa  .. , tendo em vista que o tema é de competência daquele órgão (e-STJ fl. 1.216).
+Assevera, ainda, que, a prevalência do entendimento adotado na r. decisão denegatória ao considerar que a valoração negativa dos antecedentes não possui limitação temporal  ..  ofende aos princípios constitucionais da dignidade da pessoa humana, preservado com a vedação do caráter perpétuo da pena (artigo 5º, inciso XLVII, alínea b, da Carta Magna), bem como seu instituto de ressocialização do apenado (e-STJ fls. 1.216/1.217). Por isso, considerar eternamente como maus antecedentes os registros passados viola não só a legislação penal, como a política criminal adotada pela Constituição Federal (e-STJ fls. 1.224/1.225).
+Pugna, por isso, pela reconsideração do decisum ou pela submissão do feito ao órgão colegiado, para que seja reformada a decisão agravada.
+É o relatório.
+VOTO
+O SENHOR MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental é tempestivo e infirmou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. Todavia, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar minha decisão, cuja conclusão mantenho por seus próprios fundamentos.
+I. Princípio da colegialidade
+Quanto ao tema, esclareço que há previsão específica no Regimento Interno desta Corte Superior a autorizar que o habeas corpus seja decidido monocraticamente quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar, nos moldes do art. 34, XX, do RISTJ.
+Dessa forma, há previsão legal para o relator julgar, monocraticamente, o habeas corpus quando constatadas as hipóteses contidas na norma citada, até porque remanesce a faculdade da defesa em interpor agravo regimental, com a consequente devolução da matéria ao órgão julgador, como ocorre in casu.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO REGIMENTAL. NULIDADE. SENTENÇA CONDENATÓRIA. RÉU SOLTO. AUSÊNCIA DE INTIMAÇÃO PESSOAL. ART. 392, II, DO CPP. PRESCINDIBILIDADE. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+ ..
+II - O julgamento monocrático do recurso não representa ofensa ao princípio da colegialidade, quando a hipótese se coaduna com o previso no art. 932, III, do CPC, e art. 34, XVIII, "a" e "b" do RISTJ, notadamente porque qualquer decisão monocrática está sujeita à apreciação do órgão colegiado, em virtude de possibilidade de interposição do agravo regimental, como na espécie.
+ ..
+VII - Contudo, a ausência de manifestação do eg. Tribunal a quo configurou indevida negativa de prestação jurisdicional, devendo os autos serem remetidos àquela Corte para que se manifeste acerca da quaestio.
+Agravo regimental desprovido. (AgRg nos EDcl no RHC n. 90.694/PB, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 24/5/2018, DJe 30/5/2018)
+REGIMENTAL. HABEAS CORPUS. DECISÃO SINGULAR PROFERIDA POR RELATOR. NÃO CONHECIMENTO DO WRIT. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA.
+1. O artigo 34, inciso XX, do Regimento Interno deste Superior Tribunal de Justiça, autoriza o Relator a decidir o habeas corpus quando o pedido for manifestamente incabível ou improcedente, como ocorre na hipótese dos autos, não se configurando, portanto, ofensa ao princípio da colegialidade. Precedentes.
+2. Assim, não há ilegalidade no julgamento monocrático do mandamus, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, exatamente como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando o vício suscitado pelo agravante.
+REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO CRIME. COAÇÃO ILEGAL INEXISTENTE.
+1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso versado.
+2. Na espécie, a gravidade concreta do crime, evidenciada pelas circunstâncias do delito, pela quantidade, natureza e diversidade dos entorpecentes, aliado aos maus antecedentes do paciente, justifica a imposição do regime inicial mais gravoso.
+3. Agravo regimental a que se nega provimento. (AgRg no HC n. 421.364/SC, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 22/5/2018, DJe 29/5/2018)
+II. Do mérito do habeas corpus
+Conforme relatado na inicial, buscava a impetrante que fosse afastada a negativação da circunstância judicial dos maus antecedentes do paciente e, por conseguinte, redimensionada a sua pena.
+Preliminarmente, ressaltei que a dosimetria da pena e o seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Sob essas balizas, ao julgar os embargos infringentes, o relator do voto condutor do acórdão asseverou que (e-STJ fl. 2.349, grifei):
+O acusado registra pelo menos 04 (quatro) condenações anteriores, todas transitadas em julgado, fato inclusive por ele admitido em Juízo. Portanto, são altamente desfavoráveis os antecedentes, posto que, afora aquela condenação que será considerada para fins de reincidência, registra outras três, demonstrando que nenhuma delas atingiu o objetivo, que é o de reabilitar.
+Pelas razões já invocadas na análise anterior, o período depurador de cinco anos, previsto no inciso I do artigo 64 do Código Penal, aplica-se tão somente para excluir a reincidência, e não para coibir eventual juízo negativo acerca da moduladora dos antecedentes, prevista no artigo 59 do mesmo Código. Na hipótese, utilizo a incidência n. 02 (fls. 308) para fins de antecedentes.
+Com efeito, esclareci que, apesar de as condenações anteriores transitadas em julgado, e já alcançadas pelo período depurador quinquenal, não poderem ser utilizadas a título de reincidência, nada impedia fossem apreciadas, na primeira fase da calibragem, para negativar os antecedentes criminais, conforme remansosa jurisprudência desta Corte Superior.
+Vejam-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ANOTAÇÃO CRIMINAL NÃO ALCANÇADA PELO PERÍODO DEPURADOR DE 5 ANOS. REINCIDÊNCIA CONFIGURADA. ART. 64, INC. I, CP. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+III - É pacífico o entendimento neste Sodalício de que, à luz do art. 64, inciso I, do Código Penal, ultrapassado o lapso temporal superior a 5 anos entre a data do cumprimento ou extinção da pena e a infração posterior, as condenações anteriores não prevalecem para fins de reincidência. Podem, contudo, ser consideradas como maus antecedentes, nos termos do artigo 59 do Código Penal.
+ ..
+Habeas corpus não conhecido. (HC n. 439.547/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 24/4/2018, DJe 30/4/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CORRUPÇÃO ATIVA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. CONTRAVENÇÕES PENAIS JÁ ALCANÇADAS PELO PERÍODO DEPURADOR QUINQUENAL. POSSIBILIDADE. REGIME INICIAL SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MAIOR REPROVABILIDADE DA CONDUTA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NÃO PREENCHIMENTO DO REQUISITO DE ORDEM SUBJETIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- Não há ilegalidade na exasperação da pena-base no caso, pois não obstante não caracterize reincidência, a contravenção penal pode ser considerada como reveladora de maus antecedentes (AgRg no AREsp n. 896.312/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 21/6/2016, DJe 29/6/2016).
+- O Tribunal estadual negativou duas circunstâncias judiciais da paciente - maus antecedentes e consequências do delito -, razão pela qual exacerbou a pena-base na fração de 1/2, e fixou o regime inicial semiaberto. Dessa forma, há fundamentação justificável de maior reprovabilidade da conduta para a fixação do regime semiaberto e para a negativa de substituição da reprimenda, pelo não preenchimento do requisito subjetivo, nos termos dos arts. 33, § 3º, e 44, III, ambos do CP e na jurisprudência pacificada desta Corte Superior.
+ ..
+- Agravo regimental não provido. (AgRg no HC n. 396.444/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 12/6/2016, DJe 20/6/2018)
+Nesses termos, concluí que a negativação dos antecedentes criminais do paciente estava em harmonia com a jurisprudência desta Corte de Justiça, devendo, assim, permanecer inalterada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
