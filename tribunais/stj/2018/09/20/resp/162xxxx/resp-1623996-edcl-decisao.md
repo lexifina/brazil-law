@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão por mim proferida às fls. 972-976.
+O embargante alega que foi provido o recurso especial dos corréus e reduzidas as penas na terceira fase, sendo a decisão omissa quanto à aplicação do art. 580 do Código de Processo Penal - CPP.
+Requer o acolhimento dos embargos declaratórios, para que seja aplicada a fração de 1/6 em razão da incidência de causas de aumento na dosimetria da pena.
+É o relatório. Decido.
+Os presentes embargos declaratórios não merecem conhecimento, porquanto intempestivos.
+É consabido que, em matéria penal, o prazo para a oposição dos embargos de declaração é de 2 (dois) dias, de acordo com o art. 619 do CPP.
+Conforme certidão de fl. 987, o decisum embargado foi disponibilizado no Diário da Justiça eletrônico em 30.8.2018 (quinta-feira), tendo sido considerado publicado no dia 31.8.2018 (sexta-feira). Iniciado o decurso do prazo em 3.8.2018 (segunda-feira), esse escoou-se em 4.8.2018 (terça-feira). A petição dos embargos integrativos, contudo, somente foi protocolizada nesta Corte em 5.8.2018 (quarta-feira), conforme fls. 991-993, portanto, a destempo.
+Nesse sentido, os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO. MATÉRIA PENAL. PRAZO DO ART. 619 E DO ART. 263 DO RISTJ. INTEMPESTIVIDADE.
+Segundo reiterada orientação desta Corte, o prazo para oposição de embargos de declaração, em se tratando de matéria de natureza penal, é o constante do art. 263 do RISTJ, isto é, de dois dias.
+Embargos não conhecidos. (EDcl na Pet 10.326/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe de 23/11/2015).
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. PRAZO DE INTERPOSIÇÃO. INTEMPESTIVIDADE.
+1. São intempestivos os embargos de declaração opostos após o transcurso do prazo regimental de dois dias, nos termos do arts. 619 do CPP e 263 do RISTJ.
+2. Embargos de declaração não conhecidos. (EDcl no AgRg no AREsp 524.298/RJ, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUINTA TURMA, DJe de 9/3/2016).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. PRAZO LEGAL. DOIS DIAS. ARTS. 263 DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA - RISTJ E 619 DO CÓDIGO DE PROCESSO PENAL - CPP. EMBARGOS NÃO CONHECIDOS.
+1. É intempestivo o recurso protocolado após o prazo de dois dias de que tratam os artigos 263 do RISTJ e 619 do CPP.
+Embargos declaratórios não conhecidos. (EDcl nos EDcl no AgRg no AREsp 608.639/SP, de minha relatoria, QUINTA TURMA, DJe de 18/5/2016).
+Entretanto, há uma flagrante ilegalidade no que tange à fixação da pena, sendo necessária a concessão de habeas corpus, de ofício.
+Com efeito, a presença de duas causas de aumento de pena não conduz obrigatoriamente à majoração da reprimenda em fração acima do mínimo previsto, devendo ser considerada na dosimetria a existência de circunstâncias concretas que justifiquem maior grau de aumento da pena, o que não se verifica na hipótese, porquanto a instância ordinária não apresentou qualquer elemento concreto a justificar o aumento de 1/3. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CAUSAS DE AUMENTO DA PENA. EMPREGO DE ARMA E ENVOLVIMENTO DE CRIANÇA/ADOLESCENTE. EXASPERAÇÃO ACIMA DO MÍNIMO LEGAL EM RAZÃO DO NÚMERO DE MAJORANTES. IMPOSSIBILIDADE. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Como é cediço, no tocante à dosimetria da pena, sabe-se que a sua revisão, na via do habeas corpus, é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC 304083/PR, Rel. Min. Felix Fischer, Quinta Turma, DJe 12/3/2015).
+3. Segundo a jurisprudência desta Corte Superior, a incidência das causas de aumento previstas no art. 40 da Lei n. 11.343/2006 em patamar superior ao mínimo legal exige motivação concreta, devendo o magistrado indicar as circunstâncias do delito que justifiquem a aplicação de fração superior a 1/6.
+4. No caso dos autos, as instâncias ordinárias aplicaram a fração de aumento em 5/12, apenas em razão do número de majorantes - arma de fogo e envolvimento de adolescente. O afastamento do aumento mínimo previsto em lei exige motivação idônea, não bastando a mera indicação do número de causas de aumento. Esse entendimento, mutatis mutandis, se assemelha àquele utilizado por esta Corte no enunciado n. 443, que dispõe: "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes." Precedentes.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente (HC 398.532/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/08/2017).
+Desse modo, passo ao redimensionamento da pena fixada.
+Nos termos do acórdão, a pena-base do crime de tráfico foi fixada em 5 anos e 10 meses de reclusão, além de 583 dias-multa; na segunda fase, a pena foi mantida no mesmo patamar. Na terceira fase, ausentes causas de diminuição e presentes duas causas de aumento, aplico a fração mínima de 1/6 e fixo a pena definitiva no patamar de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão e 680 dias-multa. A pena-base do crime de associação foi fixada em 3 anos de reclusão, além de 700 dias-multa, e mantida na segunda fase. Na terceira fase, ausentes causas de diminuição e presentes duas causas de aumento, aplico a fração mínima de 1/6 e fixo a pena definitiva no patamar de 3 (três) anos e 6 (seis) meses de reclusão e 816 dias-multa. Mantidos os demais termos do acórdão.
+Diante do exposto, com fundamento no art. 932, inc. III, do Código de Processo Civil, não conheço dos embargos de declaração. Contudo, concedo habeas corpus, de ofício, para redimensionar a pena na terceira fase, nos termos da fundamentação acima.
+Publique-se. Intimem-se.
