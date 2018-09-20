@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 5ª Região, assim ementado:
+Processual Civil. Agravo de instrumento a desafiar decisão que, em execução fiscal, não conheceu das exceções de pré-executividades opostas às f. 2528/2546 e 2548/2577, dos autos originais, f. 254-258.
+O juízo recorrido, em execução fiscal, não conheceu da exceção de pré-executividade oposta pela parte agravante, em execução fiscal em que foi reconhecida a formação de grupo econômico ilícito entre as empresas e pessoas físicas, denominado Grupo Tenório, declarando a solidariedade da dívida tributaria consolidada entre elas, nos termos dos arts. 124, inc. I; 132, e, 133, do Código Tributario Nacional, bem como a consequente inclusão no polo passivo da execução fiscal 0000097-60.2013.4.05.8312.
+O descortino do presente feito é exatamente similar ao destino de outro agravo de instrumento, julgado nesta mesma sessão, o AGTR 144058/PE, cujas razões de decidir são perfeitamente aplicaveis:
+Na espécie, todas as alegações produzidas pela agravante, das modalidades de prescrições que afirma, da inaplicabilidade da constrição patrimonial à ausência do devido processo legal, quedam, invariavelmente, a sua legitimidade passiva que, neste instrumento, não é dado a conhecer.
+Sustenta, ainda, sua ilegitimidade passiva executória para figurar como devedora na execução fiscal, não podendo sofrer os efeitos da aludida execução fiscal deflagrada pela União (Fazenda Nacional), na inaplicabilidade da solidariedade do artigo 124, do Código Tributario Nacional, na não aplicação do redirecionamento do artigo 135, do referido diploma.
+Esse tema, base das suas escusas comporta, necessariamente, o revolvimento de questões probatórias, incompatíveis, com o carater de cognição sumaria consentâneo ao processamento dos agravos de instrumento.
+Com efeito, não pode o agravo fazer o mesmo papel dos embargos à execução e da ação anulatória.
+No caso dos autos, a ilegitimidade passiva da agravante não se deixa revelar de forma rapida e simples. Em vista disso, o agravo de instrumento não se presta para esse tipo de debate, diante de inadequação do caminho para a discussão que se forma, tornando-se necessario colocar um sinal de pare a fim de evitar que o instrumento processual, em causa, se transforme naquilo que não é possível conceber. Precedentes: AGTR142224/PE, des. [NOME] (convocado); EDAGTR143134/01/PE, des. [NOME]; AGTR143147/PE, des. [NOME] (convocado).
+Agravo de instrumento improvido.
+Os embargos de declaração opostos pelo contribuinte foram rejeitados.
+Em suas razões, o recorrente alega contrariedade ao art. 1.022, II, do CPC/2015, aduzindo que o Tribunal de origem não se pronunciou sobre uma série de tópicos de extrema importância para o desate da questão controvertida.
+No mérito, acusa violação dos arts. 124, I e II, 128, e 135, III, e 174, do CTN.
+Sustenta, em síntese, a ocorrência de prescrição dos créditos tributários excutidos e a ilegitimidade passiva do recorrente para responder pela dívida.
+Contrarrazões recursais apresentadas às e-STJ, fls. 336/341.
+Admitido o recurso especial na origem (e-STJ, fl. 343), foram os autos remetidos a esta Corte.
+É o relatório.
+Inicialmente, não se pode falar em ofensa ao art. 1.022, II, do CPC/2015 quando o Tribunal regional, como verifico no presente caso, pronuncia-se de forma clara e objetiva sobre a questão posta nos autos, tendo o decisório se mostrado suficientemente fundamentado para embasar a decisão.
+Sendo assim, não há falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+Quanto ao mérito, o apelo nobre também não ultrapassa o juízo de admissibilidade, pois o Tribunal de origem entendeu que a pretensão da parte extravasaria o âmbito de cognição possível em exceção de pré-executividade, e a revisão desse posicionamento esbarra no óbice da Súmula 7/STJ.
+Ou seja, ao contrário do que aduz o recorrente, a Corte regional não negou a possibilidade da oposição de exceção de pré-executividade, mas ressalvou que na vertente hipótese, haveria a necessidade de dilação probatória para extrair a conclusão que o contribuinte pretendia.
+E a jurisprudência desta Corte Superior é pacífica quanto à inadmissibilidade do recurso nessas condições:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. ART. 557, § 2º, DO CPC. VIOLAÇÃO DOS ARTS. 1º e 5º DA LEI N. 8.009/90. BEM DE FAMÍLIA. NÃO COMPROVAÇÃO. IMPENHORABILIDADE. AFASTAMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA N. 7. AUSÊNCIA DE FUNDAMENTAÇÃO ACERCA DA VIOLAÇÃO DO DISPOSITIVO LEGAL INDICADO. EXISTÊNCIA DE OMISSÕES NA DECISÃO DE REJEIÇÃO DOS ACLARATÓRIOS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. A comprovação da tempestividade do recurso especial em decorrência de suspensão de expediente forense no Tribunal de origem pode ser feita posteriormente, em agravo regimental, desde que por meio de documento idôneo capaz de evidenciar a prorrogação do prazo do recurso cujo conhecimento pelo STJ é pretendido.
+2. A revisão do entendimento do Tribunal de origem de que o imóvel objeto da constrição judicial não é caracterizado como bem de família e, por conseguinte, impenhorável demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+3. A revisão do entendimento da Corte estadual acerca da necessidade de dilação probatória e do não cabimento de exceção de pré executividade, implica a incursão no acervo fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+4. A interposição de recurso especial fundado na alínea "a" do inciso III do art. 105 da Constituição Federal exige a indicação da lei federal entendida como violada e de seu respectivo dispositivo, sob pena de não conhecimento do apelo em razão de fundamentação deficiente. Incidência da Súmula n. 284 do STF.
+5. Aplica-se o óbice previsto na Súmula n. 211/STJ em relação às alíneas "a" e "c" do permissivo constitucional quando a questão suscitada no recurso especial, não obstante a oposição de embargos declaratórios, não foi apreciada pela Corte a quo.
+6. O acesso à via excepcional, nos casos em que o Tribunal a quo, a despeito da oposição de embargos de declaração, não regulariza a omissão apontada, depende da veiculação, nas razões do recurso especial, de ofensa ao art. 535 do CPC.
+7. A alegação genérica de violação de normas legais, sem a devida individualização dos artigos tidos como violados, não viabiliza o conhecimento do recurso especial fundado na alínea "a" do inciso III do art. 105 da Constituição Federal, uma vez que não atende aos pressupostos de admissibilidade recursal. Incidência da Súmula n. 284/STF.
+8. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+9. Agravo regimental desprovido.
+(AgRg no AREsp 760.529/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 24/11/2015, DJe 30/11/2015)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. VERIFICAÇÃO. SÚMULA 7/STJ.
+1. Constatado que a Corte de origem empregou fundamentação adequada e suficiente para dirimir a controvérsia, é de se afastar a alegada violação do art. 535 do CPC.
+2. "A exceção de pré-executividade é admissível na Execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória" (Súmula 393/STJ).
+3. No caso concreto, a Corte a quo afirmou que a questão em debate demanda dilação probatória. A revisão desse entendimento exige o reexame do acervo fático-probatório considerado pelo Tribunal de origem, o que é inviável pela via do recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.498.665/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 6/12/2016)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
