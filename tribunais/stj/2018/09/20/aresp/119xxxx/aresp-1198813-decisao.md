@@ -1,0 +1,19 @@
+DECISÃO
+ADMINISTRATIVO E RESPONSABILIDADE CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. LESÃO GRAVE EM REALIZAÇÃO DE ATIVIDADE EXTRACURRICULARES EM ESCOLA MUNICIPAL, RESULTANDO NA AMPUTAÇÃO DE PARTE DO DEDO DA MÃO ESQUERDA. AUSÊNCIA DE CONFIGURAÇÃO DA RESPONSABILIDADE CIVIL. IMPOSSIBILIDADE DE REVISÃO DAS PREMISSAS DO ARESTO RECORRIDO. AGRAVO DO PARTICULAR CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto por ALINE CRISTHINE PEREIRA DOS SANTOS com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RESPONSABILIDADE CIVIL - INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE ACIDENTE OCORRIDO NO INTERIOR DE ESTABELECIMENTO DE ENSINO MUNICIPAL QUE CULMINOU COM A AMPUTAÇÃO DA FALANGE DO DEDO MÍNIMO DA MÃO ESQUERDA DA AUTORA - FATALIDADE - AUSÊNCIA DE COMPROVAÇÃO DE NEGLIGÊNCIA DOS AGENTES DA RÉ - SENTENÇA DE PARCIAL PROCEDÊNCIA REFORMADA - RECURSO DA RÉ PROVIDO, PREJUDICADO O EXAME DO RECURSO DA AUTORA (fls. 305).
+2. Os Aclaratórios foram rejeitados às fls. 326/329.
+3. Nas razões de seu Apelo Especial inadmitido, a recorrente alega violação dos arts. 927 do CC/2002; 14 e 20 do CDC, afirmando que o dano moral ficou demonstrado na espécie.
+4. Contrarrazões apresentadas às fls. 350/354.
+5. Sobreveio juízo negativo de admissibilidade, o que ensejou a interposição do presente Agravo (fls. 356).
+6. É o relatório. Decido.
+7. Cuida-se, na origem, de ação indenizatória por danos morais e materiais, contra a Prefeitura da Estância Balneária de Praia Grande, por ter sofrido lesão grave em realização de atividade extracurriculares em escola municipal, resultando na amputação de parte do dedo da mão esquerda.
+8. Extrai-se da leitura do aresto recorrido que não ficou a configurada a responsabilidade civil do Município, não havendo nexo causal entre os fatos narrados e a conduta de agente municipal, não sendo o caso de condenação em danos morais, conforme a seguinte fundamentação:
+Nesse passo, na presente ação, não há cogitar-se de responsabilidade civil do Município por falha na prestação do serviço público, porquanto não demonstrado, à saciedade, o nexo de causalidade que obrigatoriamente deveria existir de, no caso, o monitor municipal deter absoluto controle sobre os fatos ocorridos no âmbito da escola pública a não ser que se comprove que ele fora desidioso ou conivente com infrações cometidas, circunstâncias estas que em nenhum momento restaram demonstradas no processo.
+Observe-se que a inicial é pobre na narração dos fatos e circunstâncias em que se deu o evento danoso, simplificando o ocorrido no fato de uma outra criança ter empurrado um portão de correr que prendeu a mão esquerda da vítima.
+Nesse passo, anotados os princípios acima escritos sobre responsabilidade civil do Estado, é de se reconhecer que estava longe do alcance dos monitores ou professores evitar que o portão de correr fosse empurrado e alcançasse a mão da vítima que sofreu o dano físico descrito. O que aconteceu foi uma fatalidade, até porque incogitável se pensar que a criança que empurrou o portão o tenha feito de forma culposa, ou que mesmo o portão, por si só, apresentasse algum perigo que exigisse atenção dos monitores.
+Não há, pois, como se aplicar ao caso a teoria da responsabilidade objetiva do Estado (fls. 308/309.
+9. Impassível de revisão o referido julgado.
+10. Isso porque a alteração de tais conclusões, na forma pretendida pela parte recorrente, demandaria necessariamente a incursão no acervo fático-probatório dos autos, o que é inviável em sede de Recurso Especial.
+11. Ante o exposto, conhece-se do Agravo para negar provimento ao Recurso Especial do particular.
+12. Publique-se. Intimações necessárias.
