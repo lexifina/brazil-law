@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO PAULIANA. DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. Sentença de procedência, anulando alienação de parte ideal de imóvel entre as rés.Irresignação dos autores e das rés. Preliminar de insuficiência de preparo afastada. Fraude contra credores não caracterizada (art. 159, CC). Ré que não é devedora dos autores. Não configuração dos requisitos para desconsideração inversa da personalidade jurídica.
+Inteligência do artigo 50 do Código Civil. Ausência de desvio de finalidade ou de confusão patrimonial entre as empresas do mesmo grupo econômico. Desconsideração da personalidade jurídica da ré afastada. Bem imóvel que já era do patrimônio da ré antes do crédito dos autores. Ausência de confusão patrimonial entre a ré e a devedora dos autores que afasta a possibilidade de fraude contra credores. Sentença reformada, pela improcedência dos pedidos dos autores. Sucumbência integral dos autores. Recurso das rés provido e recurso dos autores desprovido.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 50 e 159 do Código Civil; 511 do Código de Processo Civil e 1º da Lei 6.899/81, além de dissídio jurisprudencial.
+Assim posta a questão, observo que o recurso não poderia ser acolhido sem reexame de prova. Os agravantes afirmam ser o caso de desconsideração da personalidade jurídica das agravadas. A respeito do tema, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 353):
+Embora a ré e a devedora originária dos autores sejam pertencentes ao mesmo grupo econômico, não se nota que haja desvio de finalidade entre elas ou confusão patrimonial, pelo menos não em relação ao imóvel que seria afetado pela ação pauliana.
+Conforme as matrículas dos imóveis, a ré [NOME] de [NOME] Promoções e Vendas S.C. Ltda. já era proprietária deles desde antes de os autores terem se tornado credores da empresa pertencente ao mesmo grupo econômico.
+Assim, como o imóvel já estava inserido no patrimônio da ré [NOME] de [NOME] Promoções e Vendas S.C. Ltda., não pode ter havido confusão patrimonial entre a devedora dos autores e essa ré, o que afasta a pretendida desconsideração da personalidade jurídica pelo artigo 50 do Código Civil.
+Da mesma. maneira, se o imóvel era propriedade da ré [NOME] de [NOME] antes de os autores tornarem-se credores de empresa do mesmo grupo econômico, não há qualquer fraude na posterior alienação à corré C.M. Empreendimentos Imobiliários.
+O imóvel era de propriedade da ré [NOME] de [NOME] Promoções e Vendas S.C. Ltda. e não da devedora dos autores, a empresa [NOME] de [NOME] Empreendimentos e Participações Ltda.
+Não haveria como, portanto, ter o imóvel sido adquirido pela ré em desvio de finalidade ou confusão patrimonial com a devedora dos autores, ou mesmo do sócio comum, em razão da anterioridade da aquisição da propriedade pela ré [NOME] de [NOME].
+Assim, se não há confusão patrimonial da ré [NOME] com seu sócio e a outra empresa do grupo econômico, a desconsideração da personalidade jurídica deve ser afastada.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+O dissídio jurisprudencial não ficou caracterizado, pois não destacadas as circunstâncias que assemelhassem os casos confrontados, o que, diante da incidência do enunciado citado, seria mesmo inviável.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
