@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+PLANO DE SAÚDE. NEGATIVA INJUSTIFICADA DE FORNECIMENTO DE MEDICAMENTO. Alegação de não obrigatoriedade de cobertura de medicamento não nacionalizado. Tratamentos anteriores com medicamentos nacionalizados se mostraram ineficazes. Recurso não provido.
+Verifico que se discute, nos presentes autos, "se as operadoras de plano de saúde estão obrigadas ou não a fornecer medicamento importado, não registrado na ANVISA", tema esse que foi afetado à Segunda Seção, sob o rito dos repetitivos - artigo 1.036 do Código de Processo Civil de 2015 -, nos autos dos REsps 1.726.563/SP e 1.712.163/SP (DJe 19/3/2018), de relatoria do Ministro Moura Ribeiro, vinculado ao Tema 990.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do artigo 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 990), e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
