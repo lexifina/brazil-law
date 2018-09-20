@@ -1,0 +1,25 @@
+DECISÃO
+MEDIDA CAUTELAR EM MANDADO DE INJUNÇÃO COLETIVO. ALEGADA AUSÊNCIA DE NORMA REGULAMENTADORA DO INC. I DO § 4º DO ART. 40 DA CONSTITUIÇÃO DA REPÚBLICA. MEDIDA CAUTELAR INDEFERIDA. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Mandado de injunção coletivo, com requerimento de liminar, impetrado em 19.9.2018 pelo Sindicato dos Servidores do Poder Judiciário do Espírito Santo – Sindijudiciário/ES contra o Presidente da República, o Presidente do Senado Federal e o Presidente da Câmara dos Deputados, pela pretensa omissão legislativa no estabelecimento de normas regulamentadoras do direito previsto no inc. I do § 4º do art. 40 da Constituição da República, concernente à aposentadoria especial para as pessoas com deficiência.
+    2. O Sindicato impetrante alega ser “entidade representativa da categoria dos trabalhadores e trabalhadoras públicos vinculados ao Poder Judiciário do Estado do Espírito Santo e nos termos do artigo 1º [do seu estatuto social] foi constituído para fins de defesa, proteção, representação e assistência da classe dos servidores do Poder Judiciário Capixaba” (fl. 2, e-doc. 1), e ter como finalidade “a melhoria nas condições de vida e trabalho de seus sindicalizados” (fl. 3).
+    Noticia a tramitação, nas casas legislativas do Congresso Nacional, de proposição legislativa sobre a matéria, estando o projeto de lei complementar correspondente (PLP n. 454/2104) “aguardando reexame de parecer pelo Dep. Benjamim Maranhão desde 31/10/2017 na Comissão de Trabalho, de Administração e Serviço Público [na Câmara dos Deputados]” (fl. 4).
+    Argumenta que, “cumprindo constatar que o referido Projeto se acha em tramitação desde 2005 sem solução de continuidade, embora já tenha sido aprovado no Senado, é o caso da presente propositura injuncional, tendo em vista a competência da Suprema Corte em garantir a concretização dos direitos estabelecidos na Carta, mas que, por algum defeito operacional da máquina do próprio Estado, deixou de repercutir favoravelmente em relação ao patrimônio jurídico dos seus titulares”.
+    Cita a Súmula Vinculante 33, o Mandado de Injunção n. 4.158-AgR-Segundo, Relator o Ministro Juiz Fux, DJe 19.2.2014, e o Mandado de Injunção n. 795, de minha relatoria, DJe 22.5.2009.
+    3. Requer medida liminar, “a fim de que a administração pública se abstenha, desde já, do desconto previdenciário dos substituídos do Impetrante, a partir de 05 de julho de 2005, data da promulgação da Emenda Constitucional nº 47/05, para aqueles que já dispunham, naquela data, de tempo qualificado à contagem especial referenciada, ou seja, 25 (vinte cinco) anos de serviço público ativo” (fl. 8).
+    No mérito, pede a concessão de ordem para:
+    “5.1. determinar prazo razoável para que os impetrados promova a edição da Lei Complementar para o caso em discussão;
+    5.2. caso tenha sido deferida, confirmar a medida liminar, e, no mérito, seja declarada a mora legislativa para, suprindo-lhe a falta da norma garantidora do direito, determinar, subsidiariamente, que as cláusulas prescritas no Projeto de Lei Complementar do Senado Federal SF/PLS 250/2005 sejam imediatamente aplicadas ao caso do Impetrante, assegurando-lhe a contagem especial do seu tempo de serviço para fins de abono de permanência ou eventual aposentadoria integral” (sic, fl. 8).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O mandado de injunção é garantia constitucional para viabilizar direitos ou liberdades constitucionais, a soberania, a cidadania e a nacionalidade, quando não puderem ser exercidos por ausência de norma regulamentadora (inc. LXXI do art. 5º da Constituição da República).
+    Pressupõe, portanto, a existência de preceito constitucional dependente de regulamentação por norma de categoria inferior na hierarquia das leis.
+    5. Na espécie vertente, o impetrante alega que a ausência de regulamentação do inc. I do § 4º do art. 40 da Constituição da República tornaria inviável o exercício do direito dos substituídos à aposentadoria especial, pois os termos para aposentação deveriam ser definidos por lei complementar.
+    6. Não se admite, no ordenamento jurídico brasileiro, o instituto da cautelar em mandado de injunção, sendo pacífica a jurisprudência deste Supremo Tribunal nos termos seguintes:
+    “Os pronunciamentos da Corte são reiterados sobre a impossibilidade de se implementar liminar em mandado de injunção - Mandados de Injunção n. 283, 542, 631, 636, 652 e 694, relatados pelos ministros Sepúlveda Pertence, Celso de Mello, Ilmar Galvão, Maurício Corrêa, Ellen Gracie e por mim, respectivamente” (AC n. 124-AgR, Relator o Ministro Marco Aurélio, Plenário, DJ 12.11.2004).
+    7. Pelo exposto, indefiro a medida cautelar requerida.
+    8. Notifiquem-se os impetrados para, querendo, prestar informações no prazo de dez dias (inc. I do art. 5º da Lei n. 13.300/2016).
+    9. Na sequência, vista ao Procurador-Geral da República (art. 7º da Lei n. 13.300/2016).
+    Publique-se.
+    Brasília, 20 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
