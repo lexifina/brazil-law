@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 179):
+"LOCAÇÃO - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA - RÉU CITADO COM HORA CERTA - VALIDADE - CITAÇÃO FICTA QUE ATENDEU AOS REQUISITOS LEGAIS, ATINGINDO A SUA FINALIDADE - ALEGAÇÃO TARDIA DE NULIDADE QUE SÓ PODERIA SER ATACADA COM PROVA QUE DEMONSTRASSE O CONTRÁRIO - MORA DO RÉU CARACTERIZADA - PROCEDÊNCIA MANTIDA - RECURSO IMPROVIDO."
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 228 e 283 do CPC/73. Para tanto, sustenta, em síntese, que: (i) deve ser declarada a nulidade da citação, "pois o Oficial de Justiça não atendeu aos requisitos dispostos no supra citado artigo, ao deixar de qualificar a pessoa que recebeu a contrafé, como também exigir-lhe a assinatura" - (e-STJ, fl. 203); (ii) "o contrato de locação encartado à petição inicial, pressuposto indispensável à propositura da ação e que configura o título da pretensão é apócrifo", sendo, portanto, inválido - (e-STJ, fl. 204).
+É o relatório. Decido.
+De início, anoto que na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No tocante à alegada nulidade da citação, verifico que o Tribunal de origem, com base nas peculiaridades fáticas do caso, concluiu pela validade da angularização processual, por compreender que a citação atendeu a todos os comandos legais, acentuando que o oficial de justiça goza de fé pública e observou todas as regras para a citação por hora certa. É o que se extrai dos trechos a seguir (e-STJ, fls. 180/181):
+"No mais, o réu, apesar de citado com hora certa, após várias diligências do oficial de justiça, guardou completo silêncio, omitindo qualquer defesa e desinteressando-se até mesmo pela emenda da mora.
+A tardia alegação de que o chamamento ao processo estaria eivado de nulidade, peca pela falta de seriedade, observadas que foram todas as cautelas que cercam esta modalidade de citação ficta, realizada por quem goza de fé pública, haja vista que não impugnada expressamente pela ilustre Curadora Especial em sua contestação de fls. 68.
+Deve ser destacado que, ao contrário do que afirma o apelante, o senhor meirinho observou todas as regras para a citação por hora certa, eis que aquele servidor não tem poderes para exigir que a pessoa que recebe a contrafé forneça seus dados pessoais, impossibilitando a qualificação completa.
+Atente-se que a parte final do § 2o do artigo 228 do CPC exige expressa e exclusivamente o nome da pessoa em quem se realiza a citação, o que foi anotado pelo oficial de justiça.
+Outrossim, deve também ser registrado que a zelosa serventia observou a exigência contida no artigo 229 daquele códex (fls. 65/66), afastando-se, portanto, qualquer alegação de nulidade daquele ato." - grifou-se.
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido para acolher a tese de nulidade da citação efetuada, bem como para afastar a presunção de fé de pública inerente ao ato público realizado, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. CITAÇÃO POR HORA CERTA. CERTIDÃO DO OFICIAL DE JUSTIÇA QUANTO AO CUMPRIMENTO DOS DITAMES LEGAIS. FÉ PÚBLICA. AGRAVO INTERNO PROVIDO.
+1. Ação de nulidade de citação movida quando ainda em curso o processo em que alegado o vício da comunicação processual.
+Possibilidade de apreciação no curso do processo. Falta de interesse processual.
+2. Citação feita por hora certa efetivada regularmente. Fé pública de que goza a certidão expedida pelo oficial de justiça.
+3. Inviabilidade do revolvimento da matéria fática.
+4. Agravo interno provido, para negar provimento ao recurso especial.
+(AgInt no REsp 1514365/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/11/2017, DJe 21/11/2017)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREQUESTIONAMENTO. SÚMULAS Nº 282/STF E Nº 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CITAÇÃO POR HORA CERTA. NULIDADE. NÃO CONFIGURAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ.
+(..)
+3. Inviável, em sede de recurso especial, modificar o acórdão recorrido que afastou a alegada nulidade da citação por hora certa, tendo em vista que a análise do tema demandaria o reexame do conjunto fático-probatório, o que é vedado, nos termos da Súmula nº 7/STJ.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1326999/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/09/2014, DJe 15/09/2014)
+Por fim, quanto à alegação de invalidade contratual, a Corte de origem consignou que "a versão do apelante esbarra de modo insuperável na prova documental, que a despeito de não contraposta por outros elementos de prova convincentes, afasta a possibilidade de não ter o negócio (locação) se formalizado" - (e-STJ, fl. 182). Assim, para afastar a premissa quanto à demonstração de que a avença foi regularmente firmada, exige-se o reexame das provas constantes dos autos, o que é vedado pelo verbete nº 7 da Súmula desta Corte de Justiça. A propósito:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 458 E 535 DO CPC. OMISSÃO. NÃO OCORRÊNCIA. PRESCRIÇÃO CONTRA A FAZENDA PÚBLICA. DECRETO 20.910/32. CONTRATO VERBAL. COMPROVAÇÃO DOS SERVIÇOS. MATÉRIA FÁTICO-PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PROCEDIMENTO MONITÓRIO CONVERTIDO EM ORDINÁRIO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+(..)
+3. O Tribunal de origem, com base no substrato fático-probatório, asseverou que a documentação acostada aos autos é suficiente para comprovar a relação contratual havida entre as partes e a prestação dos serviços, de sorte que a reforma de tal entendimento esbarraria na Súmula 7/STJ.
+(..)
+(AgRg no AREsp 467.235/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/05/2015, DJe 29/05/2015, grifou-se)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
