@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DEMISSÃO DE OFICIAL. POLÍCIA MILITAR. INDIGNIDADE AO OFICIALATO DECLARADA POR TRIBUNAL MILITAR. ATO DO EXECUTIVO APENAS CUMPRINDO A DETERMINAÇÃO. NATUREZA VINCULADA. AUSÊNCIA DE ILEGALIDADES. RECURSO ORDINÁRIO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso ordinário interposto por [NOME] em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo nestes termos sintetizado (e-STJ fl. 2.838):
+MANDADO DE SEGURANÇA. andado de segurança. Impetração contra ato do Exmo. Sr. Governador do Estado de São Paulo que não conheceu da revisão administrativa interposta contra a demissão da impetrante. Perda do posto e da patente derivada de ven. acórdão irrecorrível proferido pelo E. Tribunal de Justiça Militar deste Estado, a parti de elementos informativos colhidos perante Conselho de Justificação. Ato administrativo de desligamento, da lavra do Governador, que se qualifica como meramente vinculado, por força do art. 23, I, "c", e parágrafo único, da Lei Complementar Estadual nº 831/01. Impossibilidade do Chefe do Executivo, e até mesmo desta Corte, ingressarem ao exame do mérito do ato administrativo-disciplinar da Justiça Castrense. Inviabilidade manifesta da cognição da revisão administrativa proposta. Inexistência de ofensa a direito líquido e certo. Doutrina e jurisprudência do STJ e deste Colegiado. SEGURANÇA DENEGADA.
+Nas razões do recurso ordinário, a recorrente defende que ilegalidade no ato que não conheceu de seu pedido de revisão administrativa da sanção de demissão que lhe foi aplicada em processo administrativo disciplinar. Para tanto, assevera que somente o Governador de Estado tem competência para demitir Oficiais da Polícia. Assevera, ainda, que "a revisão administrativa se perfez contrariamente ao pretendido pela Recorrente, mas se perfez, pois por ato meritório o recorrido reanalisou as provas à luz das questões levantadas pela Recorrente e mortificou o pleito" (e-STJ fl. 2.866).
+Contrarrazões às e-STJ fls. 2.871/2.867.
+O Ministério Público manifestou-se pelo não conhecimento do recurso ordinário.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Não há ilegalidades no ato da Administração que, por cumprimento de decisão do Tribunal de Justiça Militar, determina a demissão de oficial da Polícia Militar por indignidade para com o oficialato. Afinal, esse ato do chefe do executivo é de natureza vinculada ante à força do art. 23, I, c e parágrafo único, da LCE n. 893/2001.
+Com efeito, o STJ já declarou que esse ato tem natureza meramente executória independente de qualquer exame de mérito sobre a declaração da indignidade. Nesse sentido:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RAZÕES RECURSAIS DIVORCIADAS DO CONTEÚDO DO ARESTO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 e 284/STF. MILITAR ESTADUAL. INDIGNIDADE PARA O OFICIALATO COM PERDA DE POSTO E PATENTE. COMPETÊNCIA. TRIBUNAL DE JUSTIÇA MILITAR. DEMISSÃO PELO GOVERNADOR. ATO EXECUTÓRIO.
+1. Há deficiência na fundamentação do recurso se, da leitura das razões recursais, verifica-se que o recorrente não se insurge contra os fundamentos utilizados pela Corte de origem para denegar a segurança. Aplicação, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal.
+2. Nos termos do art. 125, parágrafo 4º e art. 142, parágrafo 3º, inciso VI, da Constituição Federal, com redação dada pela Emenda Constitucional nº 45/2004, é da Justiça Militar a competência para decidir sobre indignidade do oficialato e a perda de posto e patente.
+3. A demissão do militar, quando consequente da perda de posto e patente, é ato meramente executório, cabendo ao Governador apenas dar cumprimento ao julgado sem o exame do mérito da decisão de declaração de indignidade para o oficialato.
+4. Recurso ordinário improvido.
+(RMS 31.520/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/08/2012, DJe 27/08/2012)
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário.
+Publique-se. Intimem-se.
