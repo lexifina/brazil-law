@@ -1,0 +1,48 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. TRABALHADOR RURAL. COMPROVAÇÃO DO REQUISITO ETÁRIO E DO EXERCÍCIO DA ATIVIDADE RURAL PELO PERÍODO DE CARÊNCIA COM BASE NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO EM RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a de Recurso Especial interposto pelo INSS, com base na alínea a do art. 105, III, da Constituição Federal, interposto contra acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. TRABALHADOR RURAL. REQUISITOS LEGAIS. COMPROVAÇÃO. INÍCIO DE PROVA MATERIAL, COMPLEMENTADA POR PROVA TESTEMUNHAL. CORREÇÃO MONETÁRIA E JUROS DE MORA. FASE DE CUMPRIMENTO DE SENTENÇA. DIFERIMENTO.
+1. Procede o pedido de aposentadoria rural por idade quando atendidos os requisitos previstos nos artigos 11, VII, 48, § 1º e 142, da Lei nº 8.213/1991.
+2. Comprovado o implemento da idade mínima (sessenta anos para o homem e de cinqüenta e cinco anos para a mulher), e o exercício de atividade rural por tempo igual ao número de meses correspondentes à carência exigida, ainda que a comprovação seja feita de forma descontínua, é devido o benefício de aposentadoria rural por idade à parte autora.
+3. Considera-se comprovado o exercício de atividade rural havendo início de prova material complementada por prova testemunhal idônea, sendo dispensável o recolhimento de contribuições para fins de concessão do benefício.
+4. Considerando a eficácia mandamental dos provimentos fundados no art.
+497 do CPC/2015 e tendo em vista que a presente decisão não está sujeita, em princípio, a recurso com efeito suspensivo, determina-se o cumprimento imediato do acórdão no tocante à implantação do benefício da parte autora, a ser efetivada em 45 dias, mormente pelo seu caráter alimentar e necessidade de efetivação imediata dos direitos sociais fundamentais.
+5. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, a iniciar-se com a observância dos critérios da Lei nº 11.960/2009, de modo a racionalizar o andamento do processo, permitindo-se a expedição de precatório pelo valor incontroverso, enquanto pendente, no Supremo Tribunal Federal, decisão sobre o tema com caráter geral e vinculante. Precedentes do STJ e do TRF da 4ª Região.
+2. Em suas razões recursais, sustenta o recorrente, em síntese, não é possível o reconhecimento do tempo rural com base nas provas materiais carreadas aos autos.
+3. É o relatório. Decido.
+4. Sustenta o recorrente, em preliminar, negativa de prestação jurisdicional. O inconformismo não prospera, porquanto a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente. É de salientar que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, os questionamentos suscitados pelas partes.
+5. Quanto ao mais, no caso dos autos, conforme analisado pelo Tribunal a quo, a parte recorrida tem direito a receber o benefício da aposentadoria por idade, tendo em vista que os documentos juntados aos autos acrescidos pela prova testemunhal são suficientes para demonstrar o exercício de atividade rural e o implemento dos demais requisitos legais, consignando válidos os documentos colacionados.
+6. Confira-se, a propósito, o seguinte trecho do acórdão recorrido:
+Para fazer prova do exercício de atividade rural, a parte autora instruiu o processo com os seguintes documentos:
+- certidão de casamento e certidão de nascimento dos filhos, nas quais consta que a profissão do esposo da autora é agricultor (Evento 1, OUT11 e OUT12);
+- matrícula de imóvel nº 10.354, em nome do esposo da autora, qualificado como agricultor (OUT13, OUT14 e OUT15);
+- notas fiscais de 1992, 1993, 1197, 1998 e 1999, em que o esposo da autora é o produtor rural (Evento 1, OUT 17 a OUT22).
+Por ocasião da audiência de instrução, em 24/01/2017 (Evento 40), foram inquiridas as testemunhas, as quais confirmaram o exercício de atividades rurais pela parte demandante.
+A testemunha [NOME] afirma que:
+Conhece a autora faz uns 15 anos; que conhece a autora desde a época em que ela e o esposo tinham um terreno e venderam; que a autora sempre trabalhou como bóia-fria.
+A testemunha Nelson Galvan, por sua vez, esclarece que:
+Conhece a autora a 25 ou 30 anos; que conhece dona Antonina desde a época em que ela e esposo tinham um terreno no Covo; que a propriedade era pequena; que a autora e seu esposo, plantavam milho, feijão e mandioca para o sustento da família; que não tinham maquinários e o cultivo era feito na enxada; que a autora trabalhou para muita gente, entre eles, na propriedade do Juraci Machado; que a autora capinava, roçava, quebrava milho, arrancava feijão.
+7. Nesses termos, inviável acolher as alegações trazidas pela Autarquia de que os documentos não são suficientes ou não são suficientes os testemunhos colhidos para a comprovação da atividade campesina, uma vez que demandaria o reexame das provas carreadas aos autos, atraindo a incidência da Súmula 7/STJ.
+8. Ademais, esta Corte firmou o entendimento, no julgamento do Recurso Especial 1.321.493/PR, Representativo da Controvérsia, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2012, de que, considerando a inerente dificuldade probatória da condição de trabalhador campesino, a apresentação de prova material somente sobre parte do lapso temporal pretendido não implica violação da Súmula 149/STJ, cuja aplicação é mitigada se a reduzida prova material for complementada por idônea e robusta prova testemunhal.
+9. Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE (SÚMULA 7/STJ). PREQUESTIONAMENTO. NECESSIDADE (SÚMULA 282/STF). TEMPO DE SERVIÇO RURAL. INÍCIO DE PROVA MATERIAL. CONTEMPORANEIDADE. NECESSIDADE (PRECEDENTES).
+1. A análise das questões trazidas pelo agravante demandaria o reexame de matéria fático-probatória, o que é obstado, em âmbito especial, pela Súmula 7/STJ.
+2. A ausência de prequestionamento do dispositivo federal tido por violado impede o conhecimento do recurso especial (Súmula 282/STF).
+3. Conforme entendimento do Superior Tribunal de Justiça, para efeito de reconhecimento do tempo de serviço urbano ou rural, não há exigência legal de que o documento apresentado abranja todo o período que se quer ver comprovado, devendo o início de prova material ser contemporâneo aos fatos alegados e referir-se, pelo menos, a uma fração daquele período, desde que robusta prova testemunhal lhe amplie a eficácia probatória, o que, in casu, não ocorreu (AgRg no Ag n. 1.340.365/PR, Ministra Laurita Vaz, Quinta Turma, DJe 29/11/2010).
+4. Agravo regimental improvido (AgRg no REsp. 1.202.798/RS, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe 20.11.2013).
+
+PREVIDENCIÁRIO. TRABALHO RURAL. PROVA EXCLUSIVAMENTE TESTEMUNHAL. ART. 55, § 3º, DA LEI 8.213/1991. SÚMULA 149/STJ. IMPOSSIBILIDADE.
+1. Para o reconhecimento do tempo de serviço do trabalhador rural, apesar de não haver exigência legal de que o documento apresentado como início de prova material abranja todo o período que se quer comprovar, é preciso que tal prova seja contemporânea aos fatos alegados e refera-se, pelo menos, a uma fração daquele período, corroborado com prova testemunhal.
+2. No caso, o único documento acostado aos autos é a certidão de nascimento da própria autora. Assim, não há início de prova material, in casu.
+3. A prova testemunhal deve estar apoiada em um início razoável de prova material, contemporâneo à época dos fatos alegados, nos termos da Súmula 149/STJ: "A prova exclusivamente testemunhal não basta a comprovação da atividade rurícola, para efeito da obtenção de beneficio previdenciário", o que não ocorre no caso dos autos.
+4. Agravo Regimental não provido (AgRg no AREsp 380.664/PR, Rel. Min. HERMAN BENJAMIN, DJe 11.10.2013).
+
+PREVIDENCIÁRIO. APOSENTADORIA. LABOR RURAL. RECONHECIMENTO. INÍCIO DE PROVA MATERIAL. DEPOIMENTO TESTEMUNHAL A CORROBORAR O PERÍODO ALEGADO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. A hipótese dos autos diz respeito à concessão de aposentadoria por idade a trabalhadora que exerceu atividade rural. O Tribunal Regional concluiu que a autora preencheu todos os requisitos para a concessão da aposentadoria, ressaltando que a prova documental foi confirmada pela prova testemunhal.
+2. A jurisprudência desta Corte considera que não há exigência legal de que o documento apresentado como início de prova material abranja todo o período que se quer comprovar, basta o início de prova material ser contemporâneo aos fatos alegados e referir-se, pelo menos, a uma fração daquele período, corroborado com prova testemunhal, a qual amplie sua eficácia probatória, como ocorre na hipótese.
+3. É sabido que o início de prova material não se confunde com prova plena, mas, sim, meros indícios que podem ser complementados com os depoimentos testemunhais.
+4. Acolher a pretensão do recorrente de que não foram preenchidos todos os requisitos para a concessão de aposentadoria é tarefa que demandaria o revolvimento dos elementos fático-probatórios da demanda, o que é vedado na presente seara recursal, consoante disposto no enunciado da Súmula 7/STJ.
+Agravo regimental improvido (AgRg no AREsp 385.318/PR, Rel. Min. HUMBERTO MARTINS, DJe 4.10.2013).
+10. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+11. Publique-se.
+12. Intimações necessárias.
