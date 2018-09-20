@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de [NOME] fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA EM AÇÃO DE INDENIZAÇÃO ADMINISTRAÇÃO PÚBLICA - CONTRATAÇÃO TEMPORÁRIA - FGTS DEVIDO EM RELAÇÃO AOS PERÍODOS LABORADOS COMO PROFESSOR CONVOCADO - RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação do art. 323 do CPC/2015, aduzindo que "deve-se englobar na condenação o pagamento das prestações vincendas até o trânsito em julgado da sentença, e não, até a data do ajuizamento da demanda, devendo-se reconhecer como devidos não só os valores vencidos e tidos como não quitados, que ensejaram a propositura desta ação, como também, por força do disposto no art. 323 do novo CPC/2015, aqueles que vencerem no curso da lide e não pagos, enquanto durar a obrigação, até a execução, por serem prestações de trato sucessivo".
+No mais, aponta existência de divergência jurisprudencial quanto ao tema.
+Houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A insurgência não prospera.
+O Tribunal de origem, ao analisar a controvérsia, assentou que:
+Considerando-se que não houve qualquer fato novo a alterar a o julgamento monocrático quanto ao direito da agravada, mantenho o entendimento sustentado à f. 77/80.
+Com efeito, o agravante atuou como professor contratado no período compreendido entre novembro/1998 e dezembro/2005 (conforme se depreende do acórdão exarado nos autos 0009949-86.2010.8.12.002).
+Observada a prescrição qüinqüenal dos débitos, o período exigível é mesmo o compreendido entre março/2001 e março/2016, no entanto, a agravante não anexou planilhas referentes aos períodos de março/2001 até abril/2002 e após abril/2015, conforme analisou-se na decisão agravada.
+O Tribunal de origem, especado nos elementos fáticos coligidos aos autos, entendeu que não houve qualquer fato novo, que o professor atuou no período compreendido entre março/2001 e março/2016, não apresentando planilhas referentes aos períodos de março/2001 até abril/2002 e após abril/2015.
+Destarte, o acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem, como insurgência que se funda na verificação das provas produzidas nos autos e sua valoração, demanda inafastável incursão no universo fático-probatório. Cediço é, porém, que não pode este Superior Tribunal de Justiça atuar como terceira instância revisora ou tribunal de apelação reiterada, a teor do verbete da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial" (cf. AgRg no REsp 1116290/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 03/08/2010; AgRg no AREsp 436.034/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 16/12/2013). Nesse sentido:
+PROCESSO CIVIL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CÁLCULOS APRESENTADOS DO VALOR COBRADO SEM INFORMAÇÃO DE DADOS OFICIAIS. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. No acórdão recorrido ficou consignado: "De fato, não há que se falar em nulidade da execução, vez que inexiste obrigação de fazer consistente na apresentação de planilhas. No caso, o valor da condenação depende de meros cálculos aritméticos, que foram apresentados pelo credor quando do pedido de cumprimento da sentença, nos moldes do artigo 475-B do Código de Processo Penal. Cabia à devedora a impugnação de tais cálculos por meio de embargos à execução. Como é cediço, é a embargante a fonte pagadora dos proventos cujos atrasados ora se pleiteia, de modo que o exequente não possui a obrigação de apresentar os aludidos informes, ônus que cabia à Fazenda Pública".
+2. As conclusões da Corte a quo acerca da apresentação dos informes oficiais decorreram da análise do conjunto fático-probatório carreado aos autos. Assim, o eventual conhecimento do presente Especial, quanto aos pontos elencados no apelo, demandaria o reexame fático-probatório da questão versada nos autos, o que encontra óbice na Súmula 7 do STJ. 3. Recurso Especial não conhecido.
+(REsp 1694438/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017).
+Por fim, resta prejudicada a análise do dissídio jurisprudencial em virtude do óbice sumular aplicado à alínea "a" do permissivo constitucional. A propósito:
+ADMINISTRATIVO. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. INCIDÊNCIA DE JUROS DE MORA. PRECLUSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA7/STJ. DISSÍDIO PREJUDICADO. 1. Afasta-se a ofensa aos arts. 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No mais, a alteração das conclusões adotadas pela Corte de origem sobre não ter ocorrido a preclusão, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes.
+3. Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo Interno a que se nega provimento.
+(RCD no AREsp 1297701/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
