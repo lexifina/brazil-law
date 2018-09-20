@@ -1,0 +1,65 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. CONTRATO BANCÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA Nº 284 DO STF. ART. 284 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. INTERESSE DE AGIR DO CORRENTISTA. PEDIDO GENÉRICO E INESPECÍFICO. ENTENDIMENTO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO NÃO PROVIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de prestação de contas contra BANCO DO BRASIL S.A. (BANCO), buscando, em suma, esclarecimentos quanto aos lançamentos de rubricas e débitos desconhecidos efetuados na [CONTA], [CONTA], desde o ano de 1992.
+O Juízo de piso julgou procedente o pedido.
+O BANCO apelou e o Tribunal de origem deu provimento ao recurso em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. PEDIDO GENÉRICO. NÃO EXPOSIÇÃO DOS MOTIVOS PARA A PROPOSITURA DA DEMANDA. AUSÊNCIA DE INTERESSE DE AGIR, RECONHECIDO DE OFÍCIO. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. PREJUDICADA A ANÁLISE DOS DEMAIS PEDIDOS. INVERSÃO DA SUCUMBÊNCIA (e-STJ, fls. 180).
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fls. 224/227).
+Inconformado, [NOME] interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, por violação dos arts. 282, 283, 284 e 535 do CPC/73 (arts. 319, 320, 321 e 1.022 do NCPC), e 6º do CDC. Sustentou, em síntese, (1) negativa de prestação jurisdicional por omissão da decisão recorrida em se manifestar a respeito da matéria ventilada nos embargos de declaração com o propósito de prequestionamento; (2) que deve ser oportunizada a emenda da inicial; e, (3) a petição inicial não é genérica.
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 290/294).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo à apreciação do recurso especial.
+A irresignação não merece prosperar.
+(1) Negativa de prestação jurisdicional
+Como não foram indicados especificamente os pontos a respeito dos quais estaria caracterizada a omissão, não é possível examinar o recurso especial nesse particular, tendo em vista a incidência da Súmula nº 284 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO NO JULGADO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. CITAÇÃO POR EDITAL. PARTE DEMANDADA. LOCALIZAÇÃO. ESGOTAMENTO DOS MEIOS. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil de 1973, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal.
+(AgInt no AREsp 360.582/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 1/2/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC/1973. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA N. 284 DO STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. REANÁLISE DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 535 do CPC/1973, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+(AgInt no AREsp 903.376/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 10/2/2017)
+(2) Da emenda da inicial (art. 284 do CPC/73)
+O conteúdo normativo do referido dispositivo legal não foi objeto de discussão pelo Tribunal a quo, apesar da interposição de embargos de declaração, estando ausente o indispensável debate prévio.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Incidente a Súmula nº 211.
+(3) Do pedido genérico
+Em relação ao pedido genérico, o Tribunal de origem assim concluiu:
+Isto posto, a falta de indicação dos lançamentos a serem alcançados pela prestação de contas, bem como a razão pelos quais eles devem ser tidos por abusivos ou ilegais, deixam clara a ausência de pedido certo ou determinado.
+Sob o amparo do atual posicionamento do Superior Tribunal de Justiça e também da 16a Câmara Cível, a petição inicial deve conter um período bem delimitado dos lançamentos a serem prestados contas, com dúvidas razoáveis e fundamentadas, indicadas de forma concreta.
+Analisando-se a petição inicial, percebe-se o equívoco da sentença ora atacada, que se encontra em desconformidade com o posicionamento consolidado no Superior Tribunal. Pois na exordial, o apelado desenvolveu teses sobre abusos e ilegalidades cometidas pelas instituições financeiras em geral, as quais possivelmente teriam ocorrido em sua relação com o Banco. Porém, a peça foi de toda genérica; podendo ser utilizada como padrão para qualquer correntista, bastando mudar poucos dados. Portanto o autor não cumpriu com as exigências mencionadas, já que se limita a indicar informações genéricas (e-STJ, fls. 187/187).
+Com efeito, nos termos da Súmula nº 259 do STJ, é possível o ajuizamento de ação de prestação de contas pelo titular da conta-corrente, independentemente do fornecimento pela instituição financeira de extratos detalhados.
+Contudo, é necessário que o pedido de referida demanda não seja genérico, devendo especificar o período, sobre quais movimentações financeiras pretende os esclarecimentos e a exposição de motivos consistentes, não bastando, inclusive, a indicação de que o período pretendido seja desde o início da relação.
+A respeito das alegações genéricas, acrescento que a Segunda Seção desta Corte, no julgamento do REsp 1231027/PR, de Relatoria da Ministra MARIA ISABEL GALLOTTI, DJe 18/12/2012, firmou entendimento no sentido de que, a despeito de ser cabível a ação de prestação de contas pelo titular de conta corrente (Súmula n. 259/STJ), é imprescindível que o autor aponte, em sua inicial, o período exato em que ocorreram lançamentos duvidosos, com exposição de motivos consistente que justifiquem a provocação do Poder Judiciário.
+O Acórdão restou assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE. CABIMENTO DA AÇÃO DE PRESTAÇÃO DE CONTAS (SÚMULA 259). INTERESSE DE AGIR. REVISÃO DE CLÁUSULAS CONTRATUAIS. COMISSÃO DE PERMANÊNCIA, JUROS, MULTA, CAPITALIZAÇÃO, TARIFAS.
+IMPOSSIBILIDADE.
+1. O titular de conta-corrente bancária tem interesse processual para exigir contas do banco (Súmula 259). Isso porque a abertura de conta-corrente tem por pressuposto a entrega de recursos do correntista ao banco (depósito inicial e eventual abertura de limite de crédito), seguindo-se relação duradoura de sucessivos créditos e débitos. Por meio da prestação de contas, o banco deverá demonstrar os créditos (depósitos em favor do correntista) e os débitos efetivados em sua conta-corrente (cheques pagos, débitos de contas, tarifas e encargos, saques etc) ao longo da relação contratual, para que, ao final, se apure se o saldo da conta corrente é positivo ou negativo, vale dizer, se o correntista tem crédito ou, ao contrário, se está em débito.
+ ..
+4. A pretensão deduzida na inicial, voltada, na realidade, a aferir a legalidade dos encargos cobrados (comissão de permanência, juros, multa, tarifas), deveria ter sido veiculada por meio de ação ordinária revisional, cumulada com repetição de eventual indébito, no curso da qual pode ser requerida a exibição de documentos, caso esta não tenha sido postulada em medida cautelar preparatória.
+5. Embora cabível a ação de prestação de contas pelo titular da conta-corrente, independentemente do fornecimento extrajudicial de extratos detalhados, tal instrumento processual não se destina à revisão de cláusulas contratuais e não prescinde da indicação, na inicial, ao menos de período determinado em relação ao qual busca esclarecimentos o correntista, com a exposição de motivos consistentes, ocorrências duvidosas em sua conta-corrente, que justificam a provocação do Poder Judiciário mediante ação de prestação de contas.
+6. Recurso especial a que se nega provimento.
+(REsp 1231027/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 12/12/2012, DJe 18/12/2012)
+No caso em exame, depreende-se da leitura da petição inicial que [NOME] pretende a prestação de contas desde 1992 até o último lançamento, sem indicar quais os lançamentos que pretende os esclarecimentos, ou seja, deixando de apontar qualquer dado concreto, caracterizando, portanto, a generalidade do pedido.
+Nesse sentido, confiram-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL RECEBIDOS COMO AGRAVO REGIMENTAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO BANCÁRIO. REQUISITOS ESTABELECIDOS PELA JURISPRUDÊNCIA DO STJ. NÃO ATENDIMENTO. PEDIDO GENÉRICO. EXTINÇÃO DA AÇÃO POR FALTA DE INTERESSE DE AGIR. RECURSO NÃO PROVIDO.
+1. Embargos de declaração recebidos como agravo regimental em face do nítido caráter infringente das razões recursais. Aplicação dos princípios da fungibilidade e da economia processual.
+2. O Superior Tribunal de Justiça consolidou, em sua Súmula 259, o entendimento de que o correntista tem interesse e legitimidade para propor ação de prestação de contas quando discorda dos lançamentos efetuados em sua conta-corrente, independentemente do fornecimento de extratos bancários periódicos. Precedentes.
+3. Ocorre que a Quarta Turma, no julgamento do AgRg no REsp 1.203.021/PR, sob a relatoria da eminente Ministra MARIA ISABEL GALLOTTI, assentou entendimento quanto às especificidades que compõem o pedido em ação de prestação de contas, dispondo acerca da necessidade de que se demonstre o vínculo jurídico entre autor e réu, a delimitação temporal do objeto da pretensão e os suficientes motivos pelos quais se busca a prestação de contas, para que esteja demonstrado o interesse de agir do autor da ação.
+4. Na espécie, constata-se que o autor não delimita o período que seria objeto da prestação de contas, consignando apenas desde a abertura da conta-corrente, configurando, assim, pedido genérico.
+5. Agravo regimental a que se nega provimento.
+(EDcl no AREsp 658.287/PR, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 23/6/2015, DJe 3/8/2015);
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PEDIDO GENÉRICO. EXTINÇÃO DA AÇÃO POR FALTA DE INTERESSE DE AGIR. PRECEDENTES. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. É firme a jurisprudência deste Tribunal Superior no sentido de que "o pedido na ação de prestação de contas não pode ser genérico, porquanto deve ao menos especificar o período e a respeito de quais movimentações financeiras busca esclarecimentos" (AgRg no AREsp n.544.857/PR, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 30/10/2014).
+2. O autor não especificou os períodos e/ou os motivos consistentes acerca de ocorrências duvidosas em sua conta-corrente. Apenas pleiteou a prestação de contas de toda a relação existente entre as partes, sem apontar qualquer dado concreto, revelando-se, assim, manifestamente genérico o pedido formulado na ação. Incide, à espécie, o óbice da Súmula 83/STJ.
+3. Ante a ausência de qualquer subsídio capaz de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente recurso.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 845.800/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 17/3/2016, DJe 5/4/2016)
+O acórdão portanto está em conformidade com a jurisprudência desta Corte, a incidir a Súmula nº 568 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de [NOME], nos termos do art. 85, § 11, do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
