@@ -1,0 +1,37 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. INTERPOSIÇÃO DE DOIS AGRAVOS DE INSTRUMENTO CONTRA DECISÕES QUE INDEFERIRAM PEDIDO DE REDUÇÃO DO ARRESTO DE ALUGUÉIS. PRECLUSÃO CONSUMATIVA RECONHECIDA PELA CORTE DE ORIGEM. INVIABILIDADE DE ALTERAÇÃO NESTA SEARA RECURSAL. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial fundado nas alíneas a e c do art. 105, III da Constituição Federal, interposto por IPIRANGA AÇOS ESPECIAIS S/A., contra acórdão proferido pelo egrégio TRF da 2a. Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. MEDIDA CAUTELAR FISCAL. DECISÃO PROFERIDA EM RECURSO ANTERIOR. PRECLUSÃO CONSUMATIVA.
+I - Trata-se de recurso de agravo de instrumento, com pedido de efeito suspensivo, interposto pelo agravante/requerido contra r. decisão a quo, que havia indeferido pedido, formulado por este quando do manejo de recurso de apelação, de execução provisória de sentença de procedência de medida cautelar fiscal, autos 2010.50.01.001629-7, ajuizada pela UNIÃO FEDERAL/FAZENDA NACIONAL.
+II - Conforme se extrai do sítio eletrônico <http://www.trf2.gov.br/cgi-bin/pingres-allen.proc=201102010016540&mov=1>, a recorrente está apenas a reiterar pedido já formulado perante este egrégio TRF da 2a Região, por meio do agravo de instrumento, autos 2011.02.01.001654-0 - qual seja, o de concessão de tutela antecipada para o fim de reduzir o arresto de alugueis, que, segundo ela, integrariam o seu faturamento -, e ao qual foi negado seguimento, nos termos dos arts. 527, I, e 557, caput, do CPC.
+III - Assim, considerando a ocorrência de preclusão consumativa in casu da matéria ora debatida, consubstanciada no julgamento (anterior) do agravo de instrumento, autos 2011.02.01.001654-0, impõe-se seja negado seguimento ao presente agravo de instrumento.
+IV - Agravo de instrumento ao qual se nega seguimento (fls. 351).
+2. Os Embargos de Declaração opostos (fls. 359/363), foram rejeitados (fls. 369/372).
+3. Nas razões do seu Apelo Nobre, o recorrente sustenta, além de dissídio entre julgados, violação dos arts. 459, 460, 473, 475-P, II, 535, I, 575, II, 653, 654 e 818 do CPC/1973, alegando, em suma, que as decisões recorridas não são as mesmas, a matéria debatida não é a mesma (cumprimento provisório X antecipação da tutela recursal) e não se está reiterando pedido/recurso anteriormente apreciado, sendo certo que a eventual similitude dos efeitos dos diferentes pedidos deduzidos não implica na identidade dos requerimentos ou das decisões, pelo que foi requerida fosse sanada a obscuridade da asserção (fls. 398). Pugna pela reforma do julgado.
+4. Apresentadas contrarrazões (fls. 424/439), seguiu-se juízo positivo de admissibilidade recursal (fls. 463).
+5. É o relatório. Decido.
+6. No tocante ao art. 535 do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Conforme se afere dos autos, o Tribunal de origem negou seguimento ao Agravo de Instrumento, por ter sido anteriormente veiculada postulação com argumentação e pedido de reforma símiles. Consignou o voto condutor do julgado:
+A ora agravante busca, por meio do presente recurso, em realidade, a concessão de tutela antecipada para o fim de obter a redução do arresto de aluguéis - mantido em sentença de procedência da medida cautelar fiscal, autos 2010.50.01.001629-7 -, que, segundo ela, integrariam o seu faturamento.
+Contudo, conforme se extrai do sítio eletrônico <http://www.trf2.gov.br/cgi-bin/pingres-allen.proc=201102010016540&mov=1>, a recorrente está apenas a reiterar pedido já formulado perante este egrégio TRF da 2a Região, por meio do agravo de instrumento, autos 2011.02.01.001654-0, e ao qual foi negado seguimento, nos termos dos arts. 527, I, e 557, caput, do CPC.
+Com efeito, por ocasião do julgamento do citado recurso (agravo de instrumento, autos 2011.02.01.001654-0), restou assentado o seguinte:
+(..).
+Acrescenta-se ainda que o citado decisum transitou em julgado, em 25/04/2012, deixando a ora recorrente transcorrer in albis o prazo recursal.
+Assim, considerando a ocorrência de preclusão consumativa in casu da matéria ora debatida, consubstanciada no julgamento (anterior) do agravo de instrumento, autos 2011.02.01.001654-0, impõe-se seja negado seguimento ao presente agravo de instrumento (fls. 347/348).
+8. Portanto, o entendimento firmado pelo Tribunal de origem encontra apoio na jurisprudência firme desta Corte Superior, segundo a qual a interposição de dois recursos contra a mesma decisão resulta no não conhecimento do segundo, em função da preclusão consumativa e do princípio da unirrecorribilidade recursal. A propósito, citam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. ACÓRDÃO DA APELAÇÃO DESAFIADO POR EMBARGOS DECLARATÓRIOS E RECURSO ESPECIAL. NÃO CONHECIMENTO DO APELO ESPECIAL. PRECLUSÃO CONSUMATIVA E FALTA DE EXAURIMENTO DE INSTÂNCIA.
+1. Segundo o princípio da unirrecorribilidade, interpostos dois recursos contra a mesma decisão, admite-se apenas o primeiro, não sendo possível conhecer do segundo, em face da preclusão consumativa.
+2. Na hipótese dos autos, contra o acórdão da apelação o recorrente manejou embargos de declaração e, na sequência, recurso especial.
+3. A interposição do presente recurso especial não aguardou o esgotamento da instância ordinária, porquanto pendente o julgamento dos embargos de declaração já opostos, o qual veio a ser realizado mediante decisão do relator que, por sua vez, ainda poderia ser desafiada por agravo interno ou regimental.
+4. Agravo regimental não provido (AgRg no AREsp. 810.719/SC, Rel. Min. GURGEL DE FARIA, DJe 25.5.2016).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. INTERPOSIÇÃO DE DOIS AGRAVOS. CONHECIMENTO SOMENTE DO PRIMEIRO. UNIRRECORRIBILIDADE E PRECLUSÃO. ANTECIPAÇÃO DE TUTELA. REQUISITOS AUTORIZADORES DA TUTELA DE URGÊNCIA. MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A interposição de dois recursos simultâneos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões. (..). Primeiro agravo regimental de [NOME] improvido. Segundo agravo regimental de [NOME] não conhecido (AgRg no AREsp 471.979/MT, Rel. Min. HUMBERTO MARTINS, DJe 19.5.2014).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOIS RECURSOS OPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. RECURSO ESPECIAL INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. PREMATURIDADE. DECISÃO CONFORME JURISPRUDÊNCIA DESTA CORTE.
+1. Revela-se defeso a interposição simultânea de dois recursos pela mesma parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade recursal. (..).
+3. Agravo regimental de fls. 542-558 não provido. Agravo regimental de fls. 559-566 não conhecido (AgRg no AREsp. 438.846/SP, Rel. Min. LUIS FELIPE SALOMÃO, DJe 18.12.2013).
+9. Ademais, a alteração das conclusões do acórdão de origem, a fim de reconhecer que as decisões interlocutórias teriam conteúdo diverso, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra não é cabível em sede de Recurso Especial.
+10. Diante disso, nega-se seguimento ao Recurso Especial interposto por IPIRANGA AÇOS ESPECIAIS S/A.
+11. Publique-se.
+12. Intimações necessárias.
