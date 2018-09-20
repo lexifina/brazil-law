@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÕES CÍVEIS. REEXAME NECESSÁRIO. MAGISTÉRIO. MUNICÍPIO DE PEDRO OSÓRIO. PRELIMINARES DE IMPOSSIBILIDADE JURÍDICA DO PEDIDO E SUSPENSÃO DO FEITO AFASTADAS. PISO NACIONAL DO MAGISTÉRIO. HORA ATIVIDADE. LEI Nº 11.738/08. INCONSTITUCIONALIDADE.
+    1. Aplicação no caso concreto do Código de Processo Civil de 1973, em razão do Princípio do tempus regit actum.
+    2. Considerando que a sentença combatida está assentada em jurisprudência do Tribunal Pleno do STF, não é de ser conhecido o reexame necessário, em face do que dispõe o art. 475, § 3º, do CPC/73.
+    3. A possibilidade jurídica do pedido é aferida pela ausência de impedimento, pelo ordenamento jurídico, ao pedido abstratamente considerado, o que se verifica no caso concreto.
+    4. Suspensão do andamento do processo rejeitada, tendo em vista que a medida liminar pleiteada na ADI nº 4848, proposta em face do artigo 5º, foi indeferida pelo Eminente Ministro Joaquim Barbosa, o qual observou que a Lei nº 11.738/08 já teve sua constitucionalidade atestada pelo Egrégio Supremo Tribunal Federal em relação aos seus principais dispositivos.
+    5. Compete ao Município respeitar a regra inserta na Lei Federal 11.738/2008 - - declarada constitucional pelo STF na ADI nº4.167 -, que prevê o piso nacional referente ao vencimento básico, devido a partir de 27/04/2011 (termo inicial estabelecido pela Corte Máxima), o que ocorre no caso concreto. Precedente desta Câmara.
+    6. Inconstitucionalidade da fixação da hora atividade reconhecida pelo Órgão Especial do Tribunal de Justiça do RS, em controle difuso (processo nº 70059092486), por maioria absoluta. Dispensa de nova arguição de incidente de inconstitucionalidade, nos termos do art. 481, parágrafo único, do CPC. Precedentes das Câmaras que integram o 2º Grupo Cível.
+    APELAÇÃO DO MUNICÍPIO PROVIDA. APELAÇÃO DA PARTE AUTORA PREJUDICADA.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXXV, LIV e LV; 6º; 7º, IV; 23; 39, § 1º; 150; 205; e 206 da CF. Sustenta que “a decisão do TJRS afronta literalmente a previsão do § 4º, do art. 2º, da Lei 11.738/08, dispositivo este que, conforme reiteradamente exposto, previu a reserva de jornada ora reclamada […] Ainda que modulados os efeitos da decisão quanto ao § 4º, do art. 2º, da Lei 11.738/08, na ADI 4.167 o STF julgou improcedente o pedido de inconstitucionalidade da reserva de 1/3 da carga horária para atividades extraclasse. Logo, a Corte Suprema reputou constitucional a mencionada reserva de jornada”.
+    O Plenário Virtual do Supremo Tribunal Federal, ao examinar o RE 936.790-RG, da relatoria do Ministro Marco Aurélio, reconheceu a existência de repercussão geral da controvérsia. O tema ficou assim ementado (Tema 958):
+    “MAGISTÉRIO PÚBLICO JORNADA DE TRABALHO ARTIGO 2º, § 4º, DA LEI Nº 11.738/2008 CONSTITUCIONALIDADE RECURSO EXTRAORDINÁRIO REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia alusiva à validade do § 4º do artigo 2º da Lei nº 11.738/2008, em face da Constituição Federal, considerada a ausência de vinculação dos demais Tribunais ao que decidido no exame da ação direta nº 4.167, relator o ministro Joaquim Barbosa, acórdão publicado no Diário da Justiça de 24 de agosto de 2011.”
+    Diante do exposto, com base nos arts. 1.036 do CPC e 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja aplicada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 20 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
