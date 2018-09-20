@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CREDITAMENTO DE ICMS NA AQUISIÇÃO DE COMBUSTÍVEIS E LUBRIFICANTES. SOCIEDADE EMPRESÁRIA PRESTADORA DE SERVIÇOS DE TRANSPORTE. BENS QUE SE CARACTERIZAM COMO INSUMO NECESSÁRIO À PRESTAÇÃO DO SERVIÇO. PRECEDENTES. MANDADO DE SEGURANÇA. EFEITOS PRETÉRITOS. VIA IMPRÓPRIA. APLICAÇÃO DAS SÚMULAS 269 E 271/STF. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL .
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de origem que inadmitiu recurso especial.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 104):
+CONSTITUCIONAL E TRIBUTÁRIO. APELAÇÃO CIVEL. MANDADO DE SEGURANÇA. ICMS. PRINCÍPIO DA NÃO CUMULATIVIDADE. LEI COMPLEMENTAR Nº 87/96. LIMITAÇÃO TEMPORAL. LEGALIDADE. TRANSPORTE. COMBUSTÍVEIS E LUBRIFICANTES. INSUMOS. ATIVIDADE FIM. ATUALIZAÇÃO. TAXA SELIC. POSSIBILIDADE.
+1. O ICMS, por expressa determinação constitucional, rege-se pelo princípio da não cumulatividade.
+2. A limitação temporal firmada na Lei Complementar nº 87/96 e suas alterações revela-se legal e não viola o princípio da não cumulatividade. Precedentes deste eg.
+TJDFT, do col. STJ e do Pretório Excelso.
+3. Os combustíveis e os lubrificantes adquiridos pela empresa para sua atividade fim (prestação do serviço de transporte) são considerados insumos e, portanto, à margem da vedação imposta na legislação regente (artigo 33 da LC 87/96). 4. Aplica-se a taxa SELIC para atualização dos créditos decorrentes da aquisição de insumos integrantes da cadeia produtiva. 5.
+Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados, conforme fls. 127-133.
+No apelo especial (e-STJ fls. 149-163), o recorrente alega violação aos arts. 19, 20, e 33, I, da Lei Complementar nº 87/1996, pugna pela impossibilidade de se reconhecer ao recorrido o direito de aproveitamento de credito de ICMS sob combustíveis e lubrificantes; além do mais, argumenta a impossibilidade de concessão de efeitos retroativos ao mandado de segurança referentes aos cinco anos anteriores à propositura da ação, sendo possível no máximo a restrição aos últimos 120 dias nos termos do art. 23 da Lei nº 12.016/2009.
+Decisão de inadmissibilidade às fls. 212-217.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contraminuta.
+É o relatório. Decido.
+Registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+A insurgência merece prosperar em parte.
+De início, a jurisprudência desta Corte é no sentido de que, tendo em vista o objeto social da sociedade empresária, deve-se reconhecer que os combustíveis e lubrificantes são insumos necessários à prestação do serviço de transporte, o que gera seu direito ao creditamento do ICMS, e não bens de simples uso e consumo, como tem interpretado a administração tributária estadual.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CREDITAMENTO DE ICMS NA AQUISIÇÃO DE COMBUSTÍVEIS E LUBRIFICANTES. SOCIEDADE EMPRESÁRIA PRESTADORA DE SERVIÇOS DE TRANSPORTE. BENS QUE SE CARACTERIZAM COMO INSUMO NECESSÁRIO À PRESTAÇÃO DO SERVIÇO.
+1. Recurso ordinário em mandado de segurança em que se pretende o reconhecimento do direito de sociedade empresária prestadora de serviços de transporte fluvial ao creditamento do ICMS realizado no período de janeiro a dezembro de 2006, referente à aquisição de combustíveis e lubrificantes.
+2. A jurisprudência do STJ tem reconhecido o direito das prestadoras de serviços de transporte ao creditamento do ICMS recolhido na compra de combustível, que se carateriza como insumo, quando consumido, necessariamente, na atividade fim da sociedade empresária. Precedentes: REsp 1.090.156/SC, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 20/08/2010; REsp 1175166/MG, Rel.
+Ministro Herman Benjamin, Segunda Turma, DJe 26/03/2010.
+3. Ante o objeto social da sociedade empresária recorrente, deve-se reconhecer que os combustíveis e lubrificantes são insumos necessários à prestação do serviço de transporte fluvial, e não bens de simples uso e consumo, como tem interpretado a administração tributária estadual. 4. Recurso ordinário provido para reconhecer o direito da impetrante ao creditamento do ICMS referente aos combustíveis e lubrificantes que utilizou na prestação do serviço de transporte fluvial." (STJ, 1ªT, RMS 32.110/PA, rel. Min. Benedito Gonçalves, DJe 20/10/2010)
+TRIBUTÁRIO. ICMS. SERVIÇO DE TRANSPORTE FLUVIAL. COMBUSTÍVEL. APROVEITAMENTO DO ALUDIDO CRÉDITO POR FORÇA DO PRINCÍPIO DA NÃO-CUMULATIVIDADE.
+O combustível utilizado por empresa de prestação de serviço de transporte fluvial constitui insumo indispensável à sua atividade, de modo que o ICMS incidente na respectiva aquisição constitui crédito dedutível na operação seguinte (LC 87/96, art. 20, caput). Tratando-se o combustível de insumo, não se lhe aplica a limitação prevista no art. 33, I, da Lei Complementar nº 87, de 1996, que só alcança as mercadorias destinadas ao uso ou consumo do estabelecimento." (STJ, 1ª T, REsp 1.435.626/PA, rel. Min. Ari Pargendler, DJe 13/06/2014)
+Contudo, merece prosperar a alegação de impossibilidade de concessão de efeitos retroativos ao mandado de segurança referentes aos cinco anos anteriores à propositura da ação. A jurisprudência deta Corte Superior e do STF, consubstanciada na Súmula n. 269/STF, acentua que "o mandado de segurança não é substitutivo de ação de cobrança". Além do mais, a Súmula n. 271/STF enuncia que a "concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria". Inviável, portanto, a concessão de efeitos financeiros retroativos em sede de mandado de segurança.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDORA PÚBLICA ESTADUAL. MAGISTÉRIO. LEI ESTADUAL N. 6.672/74. PRETENSÃO DE RETROAÇÃO DE PROMOÇÃO EFETIVADA EM 2011. EFEITOS PATRIMONIAIS PRETÉRITOS. MANDADO DE SEGURANÇA. VIA IMPRÓPRIA. APLICAÇÃO DAS SÚMULAS 269 E 271/STF. INTERVALO MÍNIMO TRIENAL ENTRE PROMOÇÕES SUCESSIVAS FIXADO EM LEI. IMPOSSIBILIDADE DE CONCESSÃO ANUAL. PRECEDENTES.
+1. A pretensão de atribuir efeitos retroativos à promoção, tal como pleiteado pela parte impetrante, implicaria conferir reflexos patrimoniais pretéritos ao mandado de segurança, providência vedada pelas Súmulas 269 e 271 do Supremo Tribunal Federal e pelo artigo 14, § 4º, da Lei 12.016/2009.
+ ..
+4. Agravo regimental a que se nega provimento (AgRg no RMS 47257/RS, Rel. Min. Sergio Kukina, Primeira Turma, Dje 23/06/2016, grifo nosso).
+Ante o exposto, conheço do agravo e dou parcial provimento ao Recurso Especial para reconhecer a impossibilidade de concessão de efeitos retroativos ao mandado de segurança referentes aos cinco anos anteriores à propositura da ação.
+Publique-se. Intimem-se.
