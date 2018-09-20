@@ -1,0 +1,6 @@
+DECISÃO
+Em 20/01/2017, [NOME], concordando "que sejam aplicados à condenação os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança estipulados no art. 1º-F da Lei 9.494/1997", apresentou petição pleiteando o imediato julgamento do recurso especial quanto aos demais temas, destacando que está desempregado (e-STJ fls. 03/35 - expediente avulso).
+Não obstante os argumentos expendidos, tendo em vista que um dos temas objeto do especial estava afetado à sistemática dos recursos repetitivos (aplicabilidade do art. 1º-F da Lei n. 9.494/1997), em agosto de 2016 foi proferida decisão nesta Corte, que determinou a devolução dos autos ao Tribunal de origem, para que, após a publicação do acórdão proferido no recurso representativo da controvérsia, fosse observado o disposto no art. 1.040 do CPC/2015.
+Consoante explicitado na referida decisão, somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Assim, tendo em vista que os autos estão no Tribunal de origem para as providências cabíveis, INDEFIRO o pedido de e-STJ fls. 03/35 - expediente avulso.
+Intimem-se. Publique-se.
