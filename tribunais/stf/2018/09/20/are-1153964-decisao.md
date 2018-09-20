@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – GRATIFICAÇÃO POR TEMPO DE SERVIÇO – BASE DE INCIDÊNCIA – VENCIMENTO – REPERCUSSÃO GERAL ADMITIDA – MATÉRIA JULGADA PELO PLENO – PROVIMENTO NOS AUTOS DE GRAVO PROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, julgou procedente o pedido de cálculo dos quinquênios sobre o vencimento acrescido de vantagens permanentes dos servidores. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação do artigo 37, inciso XV, da Constituição Federal. Argui a prescrição quinquenal. Insurge-se contra a forma de cálculo dos benefícios com base na totalidade dos vencimentos, afirmando não ser possível a acumulação de acréscimos pecuniários após a Emenda Constitucional nº 19/98.
+    2. O acórdão recorrido está em dissonância com a jurisprudência do Supremo. O Tribunal, no recurso extraordinário nº 563.708/MS, da relatoria da ministra Cármen Lúcia, concluiu que, a partir da vigência da Emenda Constitucional nº 19/98, a qual alterou o inciso XIV do artigo 37 da Carta da República, a base de incidência da gratificação por tempo de serviço é o vencimento, independente da natureza da vantagem pessoal, na base de cálculo de outras vantagens – tendo ficado vencido, no particular –, mantendo-se o valor nominal da parcela, considerado o princípio da irredutibilidade salarial.
+    3. Diante da sedimentação do entendimento, conheço do agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Ante o precedente, julgo, desde logo, o recurso, nos termos do artigo 544, § 4º, inciso II, alínea “c”, do Código de Processo Civil. Dele conheço e o provejo para, reformando acórdão recorrido, restabelecer o contido na sentença.
+    4. Publiquem.
+Brasília, 20 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
