@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GEOMAR COUTINHO contra decisão exarada pela il. Vice-Presidência do eg. Tribunal de Justiça do Estado de Mato Grosso (TJ-MT), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "ação de responsabilidade civil c/c pedido de indenização por danos materiais e morais" promovida por GEOMAR COUTINHO contra SOCIEDADE HOSPITALAR CUIABANA S/A E OUTROS, cujo pedido foi julgado improcedente, conforme sentença de fls. 863-880.
+Diante disso, GEOMAR COUTINHO interpôs apelação, a qual não foi provida pelo eg. TJ-MT, nos termos do v. acórdão, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE RESPONSABILIDADE CIVIL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - PARTO CESÁRIA - FALECIMENTO DA MÃE E DO FETO - ERRO MÉDICO - RESPONSABILIDADE SUBJETIVA DO MÉDICO - RESPONSABILIDADE OBJETIVA DO HOSPITAL - NÃO COMPROVAÇÃO DA NEGLIGÊNCIA MÉDICA PROCEDIMENTOS ADOTADOS ADEQUADOS AO CASO CONCRETO - PARADA CARDIORRESPIRATÓRIA INESPERADA - RESPONSABILIDADE CIVIL E DEVER DE INDENIZAR AFASTADOS - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+1. Em respeito ao art. 14, §4º. do Código de Defesa do Consumidor, para responsabilização do profissional liberal (médico), o paciente deve comprovar - sem sombra de dúvidas - a existência de culpa do médico, evidenciada através da negligência, imprudência ou imperícia.
+2. O hospital possui dois tipos de responsabilidade, a primeira diz respeito à conduta do médico stritu sensu, onde o nosocômio responde objetivamente, desde que comprovada a culpa do preposto; por outro lado, o hospital possui responsabilidade objetiva, sem qualquer condicionante, quando restar comprovado que os danos decorreram da própria estrutura do hospital, e não de conduta do médico preposto/empregado, uma vez que essa responsabilidade decorreria da própria falha na prestação do serviço, cuja atribuição é afeta única e exclusivamente ao hospital (CDC, art. 14).
+3. Por ausência do requisito subjetivo (negligência, imprudência ou imperícia), merece ser afastada a pretensão da responsabilização do profissional por erro médico relacionada à realização de parto cesárea em paciente grávida" (fls 975-976).
+Os embargos de declaração opostos foram rejeitados (fls. 1015-1021).
+Inconformado, GEOMAR COUTINHO interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a" da Constituição Federal, no qual alega violação aos arts. 7º, parágrafo único e 14 do Código de Defesa do Consumidor (CDC) e aos arts. 12, 264, 265, 927, 932 e 944 do Código Civil.
+Contrrarazões às fls. 1045-1058 e fls. 1061-1078.
+Como dito, o apelo nobre foi inadmitido às fls. 1103-1107.
+Irresignado, GEOMAR COUTINHO manejou o presente agravo em recurso especial, refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Contraminutas às fls. 1123-1127/113-1140/1143-1153/1155-1159.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não merece prosperar.
+Nas razões recursais, sustenta o recorrente vulneração ao art. 14 do CDC a ao art. 932 do Código Civil, em síntese, ao argumento de que "o hospital, ora Recorrido, é diretamente responsável pelos danos causados por conta da negligência médica perpetrada por seus profissionais e responde objetivamente pelos defeitos de sua prestação de serviço" (fl. 1030).
+Por sua vez, o eg. TJ-MT asseverou que as provas carreadas aos autos não permitem a responsabilização dos médicos pelo óbito da esposa do recorrente e a consequentemente a responsabilização do próprio hospital. É o que se verifica in verbis:
+"De tal modo, por ausência do requisito subjetivo (negligência, imprudência ou imperícia), merece ser afastada a pretensão da responsabilização do profissional liberal, bem como do próprio hospital, uma vez que a sua responsabilidade objetiva dependeria da culpa de seu quadro médico" (fl. 983)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, a fim de perquirir a existência ou não de culpa dos profissionais, para eventual consequente responsabilização objetiva do hospital, nos termos em que ora se postula, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+Na sequência, aduz ainda o recorrente ofensa ao art. 7º, parágrafo único do CDC e aos arts. 12, 264, 265, 927 e 944 do Código Civil, resumidamente, sob a alegação de que "verifica-se que os médicos Recorridos agiram com culpa na medida em que não adotaram a diligência necessária e exigível para salvar a vida da parturiente e do recém- nascido naquele fatídico dia" (fl. 1034).
+Mais uma vez, a pretensão recursal traz à baila a discussão acerca da existência ou não de culpa dos profissionais referenciados, providência, no entanto, que requer incursão no suporte fático-probatório dos autos, o que é vedado conforme preleciona a Súmula 7/STJ.
+Por fim, conclui-se que o apelo nobre não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
