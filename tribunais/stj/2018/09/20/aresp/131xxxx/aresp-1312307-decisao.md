@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ARRENDAMENTO MERCANTIL. EXISTÊNCIA DE VÍCIO REDIBITÓRIO CONSISTENTE NA QUILOMETRAGEM ELEVADA E IRREAL DE VEÍCULO ADQUIRIDO POR EMPRESA DE ARRENDAMENTO MERCANTIL E ASSIM ENTREGUE AO ARRENDATÁRIO. DEFEITO QUE AUTORIZA A REDIBIÇÃO DO CONTRATO DE COMPRA E VENDA. ILEGITIMIDADE, PORÉM, DO ARRENDATÁRIO PARA PLEITEÁ-LA COM REEMBOLSO PELO VENDEDOR DAS PRESTAÇÕES DO FINANCIAMENTO (ARRENDAMENTO) QUE O ARRENDATÁRIO PAGAR. LEGITIMIDADE EXCLUSIVA DO ARRENDANTE, QUEM EFETIVAMENTE COMPROU O BEM PARA DEPOIS ARRENDÁ-LO. LEGITIMIDADE DO ARRENDATÁRIO PARA DEMANDAR A RESCISÃO APENAS DO CONTRATO DE ARRENDAMENTO MERCANTIL DE QUE PARTICIPOU. EXTINÇÃO DE OFÍCIO DO PROCESSO SEM JULGAMENTO DO MÉRITO. RECURSO PREJUDICADO.
+Os embargos de declaração opostos foram rejeitados (fls. 394 - 401, e-STJ).
+Nas razões de recurso especial, alega a agravante, em suma, divergência jurisprudencial.
+Sustenta sua legitimidade para, na qualidade de arrendatária de veículo automotor, figurar no polo ativo da demanda, que tem por objeto a reclamação por vícios redibitórios.
+Apresentadas contrarrazões (e-STJ fls. 440 - 444), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 445 - 446, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Assiste razão ao agravante.
+Com efeito, ao entender pela ilegitimidade ativa do agravante, na qualidade de arrendatário , ao fundamento de que este não é o proprietário do bem, verifica-se que a Corte local embasou seu entendimento em jurisprudência que trata de ilegitimidade passiva do arrendante (banco) para responder por vícios do bem arrendado em arrendamento mercantil.
+O caso dos autos, contudo, trata da legitimidade ativa do arrendatário para reclamar a existência dos vícios em comento, a não de legitimidade passiva, e, no ponto, verifica-se que o acórdão recorrido encontra-se em descompasso com a jurisprudência desta Corte Superior. A propósito:
+CIVIL E PROCESSUAL. ARRENDAMENTO MERCANTIL. BEM GARANTIDO SINISTRADO. PAGAMENTO PARCIAL DA INDENIZAÇÃO. AÇÃO MOVIDA PELO ARRENDATÁRIO CONTRA A SEGURADORA, OBJETIVANDO O INTEGRAL RESSARCIMENTO DOS PREJUÍZOS. LEGITIMIDADE ATIVA AD CAUSAM RECONHECIDA.
+I. Inobstante, na alienação fiduciária em garantia, a propriedade do bem financiado e a posse indireta pertençam ao credor arrendante, é o arrendatário parte legitimada ativamente para propor ação contra a seguradora do maquinário sinistrado, objetivando o pagamento de diferença de indenização para ressarcimento integral dos prejuízos com o sinistro, por ser ele, na verdade, o maior interessado ou na recuperação do equipamento danificado, ou na liquidação da dívida por ele assumida perante o banco financiador (grifamos).
+(..)
+III. Recurso especial conhecido e provido, para, afastada a carência da ação, determinar ao Tribunal estadual prosseguir no exame dos demais tópicos da apelação da seguradora ré. (REsp 595.427/PR, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 15/04/2004, DJ 31/05/2004, p. 323)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. BEM OBJETO DE CONTRATO DE ARRENDAMENTO MERCANTIL (LEASING). CONTRATO DE SEGURO FIRMADOPELO ARRENDAT ARIO E EM SEU BENEFÍCIO. BEM DE PROPRIEDADE DO ARRENDANTE. PROPOSITURA DE AÇÃO DE COBRANÇA DA INDENIZAÇÃOSECURITÁRIA PELO ARRENDATÁRIO. LEGITIMIDADE ATIVA.
+- O arrendatário que firma contrato de seguro em seu nome e benefício e se declara como proprietário do bem arrendado objeto do pacto possui legitimidade ativa para pleitear judicialmente o pagamento da indenização securitária devida na hipótese de sinistro, ainda que o verdadeiro proprietário do bem seja a sociedade arrendante. Precedente (grifamos).
+Recurso especial conhecido e provido (REsp 537.184/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJ 31/5/2004).
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para cassar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem para que profira novo acórdão analisando o mérito da questão conforme entenda de direito, tendo em vista a legitimidade ativa do agravante.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
