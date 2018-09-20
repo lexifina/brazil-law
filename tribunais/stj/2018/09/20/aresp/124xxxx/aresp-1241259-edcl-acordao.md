@@ -1,0 +1,60 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. HONORÁRIOS RECURSAIS DEVIDOS. ART. 85, § 11, DO CPC/2015.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. No julgamento do EREsp n. 1.539.725/DF (DJe 19/10/2017), a SEGUNDA SEÇÃO concluiu que o Colegiado poderá arbitrar, no agravo interno, a verba honorária recursal omitida pelo relator por ocasião da decisão monocrática.
+4. Apesar de o agravo em recurso especial ter sido interposto na vigência do CPC/2015, a decisão que negou provimento ao referido recurso, bem como o acórdão que desproveu o respectivo agravo interno, permaneceram silentes a respeito da aplicação do art. 85, § 11, do referido diploma processual, o que permite a fixação de honorários recursais nesta etapa.
+5. Embargos de declaração rejeitados, com majoração dos honorários sucumbenciais.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, rejeitou os embargos de declaração, com majoração dos honorários sucumbenciais, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de embargos de declaração (e-STJ fls. 1.222/1.233) opostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fl. 1218):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o exame da pretensão recursal, no sentido de verificar que o reparo no defeito do veículo teria ultrapassado o prazo de trinta dias, demandaria a análise de matéria fática, inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+Sustenta a embargante "omissão ao não fundamentar as razões pelas quais deixou de seguir o RESP 185.836/SP, RESP 1.443.268/DF, RESP 1.016.519/PR e RESP 1.297.690/PR, que tratam do mesmo assunto e decidiram de forma diversa" (e-STJ fl. 1.224). Em relação ao argumento, aduz que "existem no STJ, casos idênticos ao suportado pela Embargante, que após retirar seu veículo da concessionária, o mesmo seguidamente passou a apresentar uma série de panes, e mesmo com a substituição de peças não foi posto em condições para uso que dele se esperava, nesses casos a determinação foi para que o veículo fosse substituido ou o valor ressarcido ao comprador, mesma situação tratada nos autos" (e-STJ fl. 1.228).
+A seu ver, a Súmula n. 7 do STJ não é aplicável porque "a Embargante não pretende que essa Colenda 4ª Turma reanalise a ordem de serviço a que fazem menção mas sim, todo o contexto dos autos. Revalorar a prova é totalmente distinto de reexaminar a prova" (e-STJ fl. 1.231).
+RENAULT DO BRASIL S.A. apresentou impugnação e requereu a majoração dos honorários advocatícios (e-STJ fls. 1.236/1.238).
+VILLE RIO PRETO COMÉRCIO DE VEÍCULOS E PECAS LTDA., intempestivamente (e-STJ fl. 1.241), juntou impugnação (e-STJ fls. 1.246/1.250).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. HONORÁRIOS RECURSAIS DEVIDOS. ART. 85, § 11, DO CPC/2015.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. No julgamento do EREsp n. 1.539.725/DF (DJe 19/10/2017), a SEGUNDA SEÇÃO concluiu que o Colegiado poderá arbitrar, no agravo interno, a verba honorária recursal omitida pelo relator por ocasião da decisão monocrática.
+4. Apesar de o agravo em recurso especial ter sido interposto na vigência do CPC/2015, a decisão que negou provimento ao referido recurso, bem como o acórdão que desproveu o respectivo agravo interno, permaneceram silentes a respeito da aplicação do art. 85, § 11, do referido diploma processual, o que permite a fixação de honorários recursais nesta etapa.
+5. Embargos de declaração rejeitados, com majoração dos honorários sucumbenciais.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os aclaratórios, em regra, não permitem rejulgamento da causa, sendo certo que o efeito modificativo é possível apenas em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado.
+Sob esse enfoque, confiram-se os seguintes precedentes da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. EMBARGOS REJEITADOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, rejeita-se o recurso integrativo.
+II - Consoante jurisprudência firmada por esta Corte Superior, a tempestividade dos recursos é aferida quando do protocolo na secretaria do Tribunal e não da entrada na agência dos correios.
+III - Ademais, embora o embargante tenha juntado comprovante da entrega em Brasília, no dia 14/01/2013, não há comprovação de que tenha sido, na mesma data, entregue na secretaria deste Tribunal. Não tendo sido, inclusive, juntado até o presente momento os originais do recurso interposto.
+IV - Embargos rejeitados.
+(EDcl no AgRg no ARE no AgRg nos EDcl no RE no Ag n. 1.423.681/BA, Relator Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 16/9/2013, DJe 25/9/2013.)
+SEGUNDOS EMBARGOS DECLARATÓRIOS. EMBARGOS DE DIVERGÊNCIA. TELEFONIA. APLICAÇÃO DA SÚMULA 182. AUSÊNCIA DE ATAQUE AOS FUNDAMENTOS DA DECISÃO. PEDIDO DE EFEITOS INFRINGENTES. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO.
+À mingua dos vícios previstos no art. 535 do CPC e não sendo a via escolhida meio de resposta a questionamentos da partes, é de se ter como inviável a oposição, alertando ao embargante para a aplicação de multa processual caso persista o intuito de adiar a conclusão da causa.
+Embargos rejeitados.
+(EDcl nos EDcl no AgRg nos EAREsp n. 220.572/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 1º/7/2013, DJe 1º/8/2013.)
+No caso concreto, sob o argumento de omissão e inaplicabilidade da Súmula n. 7 do STJ, pretende a embargante nova apreciação de seu recurso.
+Ocorre que o julgado embargado foi claro ao destacar que o óbice da Súmula n. 7 do STJ impede a revisão das conclusões do acórdão recorrido quanto ao descabimento do pedido de restituição do valor pago. Segundo o TJSP, tal pleito "beira a litigância de má-fé, como evidenciam os documentos posteriormente trazidos pelas rés. A perícia evidenciou que o veículo da demandante não apresenta "nenhuma anormalidade", despropositada a responsabilidade das rés com base nas panes subsequentes, originada na imprudência na condução do veículo da própria autora" (e-STJ fl. 800).
+O acórdão ora embargado também esclareceu não ser possível que esta Corte Superior examine a ordem de serviço para verificar que o reparo no defeito do veículo teria ultrapassado o prazo de trinta dias.
+Por oportuno, cabe destacar que os precedentes citados pela embargante (REsp n. 185.836/SP, REsp n. 1.443.268/DF, REsp n. 1.016.519/PR e REsp n. 1.297.690/PR) não têm similitude fática com os presentes autos, em que o Tribunal de origem afirma que a prova pericial constatou que o veículo não apresentava anormalidade e que as panes tiveram origem na forma imprudente de condução do veículo pela ora embargante.
+Observe-se que o simples fato de a decisão recorrida ser contrária ao interesse da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015. Com efeito, "a opinião que os procuradores das partes têm acerca do modo como a causa deve ser decidida merece o respeito do Tribunal, e constitui auxílio inestimável à prestação jurisdicional. Proferido, no entanto, o acórdão, prevalece a autoridade do julgado, que não pode ser contrastada, pura e simplesmente, com as convicções de quem representa a parte que sucumbiu" (EDcl nos EREsp n. 1.077.658/SP, Relator Ministro ARI PARGENDLER, CORTE ESPECIAL, julgado em 18/12/2013, DJe 6/2/2014).
+Quanto aos honorários recursais, apesar de o agravo em recurso especial ter sido interposto na vigência do CPC/2015 (e-STJ fl. 1.038), a decisão monocrática que negou provimento ao referido recurso (e-STJ fls. 1.154/1.156), bem como o acórdão que desproveu o respectivo agravo interno (e-STJ fls. 1.212/1.218), permaneceram silentes a respeito da aplicação do art. 85, § 11, do referido diploma processual, o que permite a fixação da verba honorária nesta etapa.
+Corroborando tal entendimento:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. PLANO DE SAÚDE. MANUTENÇÃO. APOSENTADO. CUSTEIO POR COPARTICIPAÇÃO. IMPOSSIBILIDADE. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. DECISÃO MANTIDA.
+(..)
+3. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer ou desprover o respectivo agravo interno, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+4. Agravo interno a que se nega provimento. Honorários recursais arbitrados ex officio, sanada omissão na decisão ora agravada.
+(AgInt nos EREsp 1.649.709/SP, de minha relatoria, SEGUNDA SEÇÃO, julgado em 8/11/2017, DJe 13/11/2017.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS RECURSAIS. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. (AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, julgado em 09/08/2017, DJe de 19/10/2017).
+2. Não houve, no acórdão embargado, a devida majoração dos honorários recursais, nos termos do art. 85, § 11, do CPC de 2015.
+3. Embargos de declaração acolhidos para, sanando a omissão, elevar a verba honorária.
+(EDcl no AgInt no AREsp n. 1.174.690/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/8/2018, DJe 21/8/2018.)
+Em face do exposto, REJEITO os embargos de declaração opostos por [NOME] e, suprindo omissão do acórdão embargado, nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor dos patronos das recorridas, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+É como voto.
