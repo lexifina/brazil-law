@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALAN MARCELO VIEIRA JANE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 0067936- 96.2017.8.26.0050.
+Consta dos autos que o paciente foi condenado às penas de 7 anos, 5 meses e 25 dias de reclusão, em regime inicial fechado, e multa, pela prática do crime previsto no art. 157, § 2º, incisos I e II, do Código Penal, conforme sentença de fls. 12/25.
+Inconformada, a defesa apelou e a Corte local negou provimento ao recurso (fls. 30/36).
+No presente writ, a defesa alega que o paciente está sofrendo constrangimento ilegal na fixação da pena, na terceira fase da dosimetria, em fração superior a 1/3, baseada a fundamentação em critério referente ao número de majorantes presentes no caso. Aponta incidir ao caso o disposto no enunciado n. 443 da Súmula desta Corte.
+Requer, liminarmente e no mérito, que se promova o aumento da pena do crime de roubo, na terceira fase, no mínimo legal.
+O pedido liminar foi indeferido às fls. 40/41.
+O Ministério Público Federal opinou, às fls. 44/49, pela denegação da ordem.
+É o relatório. Decido.
+Inicialmente, cumpre analisar a adequação da via eleita para a manifestação da irresignação contra o acórdão proferido pelo Tribunal a quo.
+O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+No caso, a impetração insurge-se contra acórdão do Tribunal de origem que julgou o apelo defensivo, o que, de acordo com a nossa sistemática recursal, enseja a hipótese do recurso especial.
+Dessa forma, o habeas corpus em tela não merece conhecimento.
+Contudo, a coação ilegal apontada na inicial será analisada, a fim de verificar a existência de flagrante ilegalidade que justifique a atuação, de ofício, por este Superior Tribunal de Justiça.
+Busca-se, na presente impetração, o reconhecimento da ilegalidade no aumento da pena, na terceira fase da dosimetria, apenas com base em critério matemático.
+O Superior Tribunal de Justiça firmou o entendimento de que o critério para a exasperação da pena, em razão das causas de aumento no crime de roubo, não deve ser apenas matemático, mas subjetivo, a ser evidenciado pelas circunstâncias do caso concreto. O referido entendimento foi expresso no enunciado n. 443 da Súmula desta Corte, segundo o qual:
+O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+No presente caso, a pena foi exasperada na fração de 3/8 com base nos seguintes fundamentos:
+Há duas causas de aumento de pena consideráveis, pelo que acresço 3/8 (três oitavos) às penas acima impostas, fração de aumento que mais se adequa ao caso concreto, já que o réu, com emprego de arma de fogo e em concurso de agentes, abordou a vítima e tomou-lhe a motocicleta, exercendo, ainda, ameaça verbal, retirando-lhe qualquer possibilidade de reação, em circunstâncias já descritas indicativas da audácia, periculosidade extremada e absoluta certeza de impunidade. A arma, segundo a vítima, ainda era manuseada pelo acusado, o que exige maior rigor para a fixação da pena. Assim, perfaz a pena de 7 (sete) anos, 5 (cinco) meses e 25 (vinte e cinco) dias de reclusão, além de 16 (dezesseis) dias-multa.
+(Sentença fl. 23)
+Por fim, na derradeira fase, a existência de duas causas de aumento - concurso de agentes e emprego de arma de fogo - justificou o acréscimo à pena em 3/8, patamar que justo e compatível com as circunstâncias do crime, praticado por maior número de agentes, que atuaram com o emprego de arma de fogo municiada.
+O aumento da pena acima do mínimo não se pauta em critérios aritméticos, mas sim nas circunstâncias em que o crime foi praticado, o que, a meu ver, de fato obsta que o réu seja agraciado com o acréscimo mínimo de 1/3, pois parece despropositado que o agente se valha do maior número possível de causas de aumento de pena, e com o fim indiscutível de obter maior probabilidade de sucesso na empreitada criminosa, causando, em virtude de cada causa de aumento de pena, maior constrangimento às vítimas, mas nem por isso deverá ter sua pena agravada na mesma proporção.
+(Acórdão fls. 35/36)
+Conforme se observa da transcrição acima, as instâncias ordinárias aumentaram a pena em 3/8, na terceira fase da dosimetria, porém, deixaram de evidenciar de que forma as condutas desbordaram para um comportamento mais grave, o que justificaria a majoração da pena em fração superior ao mínimo de 1/3.
+Limitar-se a mencionar objetivamente o concurso de agentes e o emprego de arma de fogo não é suficiente para fundamentar a reprimenda em 3/8.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. TERCEIRA FASE. EXASPERAÇÃO DA PENA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL SEM FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443 DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+O Superior Tribunal de Justiça consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo circunstanciado em fração mais elevada que 1/3 (um terço) demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes. Inteligência da Súmula n. 443 desta Corte.
+In casu, tanto o Juiz sentenciante quanto o Tribunal de origem utilizaram tão só do critério matemático para fundamentar o aumento, na terceira fase da dosimetria, no patamar de 3/8, sem referência a elementos concretos dos autos a autorizar a exasperação da pena em patamar superior ao mínimo. Com efeito, limitaram-se a mencionar objetivamente o concurso de agentes e o emprego de arma de fogo, o que não consubstancia fundamentação idônea para a majoração da reprimenda em 3/8 (três oitavos). Precedentes.
+Agravo regimental a que se nega provimento. (AgRg no HC 321.043/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/11/2016, DJe 21/11/2016).
+Dessa forma, a fração da majorante deve ser redimensionada para 1/3.
+Passo a refazer a dosimetria.
+Na primeira fase, mantenho a pena-base fixada em 4 anos e 8 meses de reclusão e 11 dias-multa. Na segunda fase, presente a agravante da reincidência a pena é aumentada em 1/6, ficando em 5 anos, 5 meses e 10 dias de reclusão e 12 dias-multa. Na terceira etapa, redimensiono a fração de aumento em 1/3, ficando a pena arbitrada em 7 anos e 3 meses e 3 dias de reclusão, e 16 dias-multa, mantidos os demais termos da condenação.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para redimensionar a pena para 7 anos e 3 meses e 3 dias de reclusão, e 16 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intime-se.
