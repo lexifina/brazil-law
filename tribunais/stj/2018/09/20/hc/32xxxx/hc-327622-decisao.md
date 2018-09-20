@@ -1,0 +1,6 @@
+DECISÃO
+NESTAL SILVA JUNIOR, paciente neste habeas corpus, estaria sofrendo constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou o HC n. 0020141-21.2015.8.26.0000, no qual pretendia a revogação da preventiva.
+Segundo a denúncia, o paciente, em disputa automobilística de velocidade ("racha"), teria cometido o crime de homicídio qualificado - porquanto assumiu o risco de produzir o resultado morte (por motivo fútil e mediante recurso que dificultou a defesa da vítima), na condução de veículo automotor -, bem como o delito de lesão corporal grave - em razão de haver provocado deformidade permanente em uma outra vítima (esposa do de cujus). Em 5/3/2015, foi decretada a prisão preventiva do paciente (fl. 59).
+Neste writ, os impetrantes sustentam que as instâncias ordinárias não fundamentaram, concretamente, a necessidade da custódia preventiva. Ocorre que as últimas informações prestadas pelo Juízo da 3ª Vara da Comarca de Pirassununga - SP, às fls. 219-250, dão conta de que foi proferida decisão de pronúncia, ocasião em que foi mantido o decreto constritivo, máxime porque "o paciente encontra-se em local incerto e não sabido" (fl. 221).
+À vista do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
