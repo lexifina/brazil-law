@@ -1,0 +1,46 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA. COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL PELO PERÍODO ALEGADO. AGRAVO DO INSS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSS, com fundamento na alínea a do art. 105, III da Constituição Federal, contra Acórdão do Tribunal Regional Federal da 2a. Região que, confirmando a sentença, julgou procedente o pedido de aposentadoria rural.
+2. Em seu Apelo Especial inadmitido, sustenta o INSS violação dos arts. 11, VII, § 1o.; 55, § 3o.; bem como 106 da Lei 8.213/91, ao argumento de que ficou comprovado nos autos que a parte autora exerceu atividade urbana, o que descaracteriza o regime de economia familiar, não fazendo, assim, jus ao reconhecimento da atividade rural.
+3. É o relatório. Decido.
+4. A irresignação não merecer prosperar.
+5. A Constituição Federal/88 incluiu o trabalhador do campo no Regime Geral de Previdência Social, nos termos do art. 201, § 7o., II, tendo a Lei 8.213/91, que regula os Benefícios da Previdência Social, estabelecido um período de transição em que o trabalhador rural que já integrava o sistema de previdência social encontra-se dispensado do recolhimento das contribuições necessárias ao reconhecimento do tempo de atividade agrícola.
+6. Nesse diapasão, a Lei 8.213/91 dispõe em seu art. 143 que será devida aposentadoria por idade ao trabalhador rural que completar 60 anos de idade, se homem, e 55 anos de idade, se mulher, além de comprovar o exercício de atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico à carência.
+7. O art. 55, § 3o. e o art. 106, parágr. único da Lei 8.213/91 elenca os documentos necessários à comprovação do exercício de atividade rural, ressalvando não ser admitida prova exclusivamente testemunhal, salvo na ocorrência de motivo de força maior ou caso fortuito.
+8. É de se ter em conta que a jurisprudência desta Corte já pacificou entendimento de que o rol previsto no citado art. 106 da Lei 8.213/91 é meramente exemplificativo, conforme se depreende dos seguintes julgados:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. TRABALHADORA RURAL. APOSENTADORIA POR IDADE. RAZOÁVEL INÍCIO DE PROVA MATERIAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior de Justiça, consolidou o entendimento de que o rol de documentos descrito no art. 106 da Lei n.º 8.213/91 é meramente exemplificativo, e não taxativo, aceita como início de prova material documentos como os que a Autora, ora agravada, apresentou nos autos
+2. Agravo regimental a que se nega provimento (AgRg no Ag 1.247.858/MG, 6T, Rel. Min. conv. VASCO DELLA GIUSTINA, DJe 21.11.2011).
+
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. APOSENTADORIA RURAL. COMPROVAÇÃO DO LABOR RURAL. CERTIDÃO DE CASAMENTO EM QUE CONSTA A CONDIÇÃO DE RURÍCOLA DO MARIDO DA AUTORA. INÍCIO DE PROVA MATERIAL CORROBORADO POR PROVA TESTEMUNHAL. AGRAVO REGIMENTAL DO INSS DESPROVIDO.
+1. Não se deve aplicar rigor excessivo na comprovação da atividade rurícola, para fins de aposentadoria, sob pena de tornar-se infactível, em face das peculiaridades que envolvem o Trabalhador do campo.
+2. O rol de documentos hábeis a comprovar o labor rural, elencados pelo art. 106, parágr. único da Lei 8.213/91, é meramente exemplificativo. Precedentes.
+3. Não sendo a prova material suficiente para comprovar o labor rural (no caso, a Certidão de Casamento em que consta a condição de trabalhador rural do marido da autora), excepcionalmente deve ser dada maior ênfase à prova testemunhal colhida na instância ordinária, quando esta é capaz de demonstrar, de forma idônea, harmônica e precisa o labor rural exercido pelo autor.
+4. Agravo Regimental do INSS desprovido (AgRg no REsp. 976.410/SP, 5T, minha relatoria, DJe 29.11.2010).
+9. No caso dos autos, conforme analisado pelas instâncias ordinárias, a parte autora tem direito ao reconhecimento do exercício de atividade rural, tendo em vista que os documentos juntados aos autos acrescidos pela prova testemunhal são suficientes para demonstrar o exercício de atividade rural no período alegado.
+10. Esse entendimento encontra respaldo na jurisprudência do STJ de que, não sendo o início de prova material suficiente para comprovar o exercício do labor rural por todo o período alegado, deverá ser complementado por firme e idônea prova testemunhal. A propósito, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA RURAL. PROVA MATERIAL. INÍCIO. QUALIFICAÇÃO DO CÔNJUGE VARÃO. EXTENSÃO À ESPOSA. POSSIBILIDADE. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME INVIÁVEL, NO CASO. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Nos termos da consolidada jurisprudência do Superior Tribunal de Justiça, a qualificação do marido como trabalhador rural é extensível à esposa.
+2. É prescindível que o início de prova material se refira a todo o período de carência exigido, desde que sua eficácia probatória seja ampliada por robusta prova testemunhal. Precedentes.
+3. Tendo a Corte de origem assentado estarem comprovados os requisitos necessários ao deferimento do benefício de aposentadoria rural, a revisão desse entendimento encontra óbice na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento (AgRg no Ag 1.410.501/GO, 6T, Rel. Min. OG FERNANDES, Dje 29.8.2011).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TEMPO DE SERVIÇO RURAL. RECONHECIMENTO. INÍCIO RAZOÁVEL DE PROVA MATERIAL. PROVA TESTEMUNHAL. PERÍODO DE CARÊNCIA. COMPROVAÇÃO. AGRAVO DESPROVIDO.
+1. Para fins de concessão de aposentadoria rural por idade, a lei não exige que o início de prova material se refira precisamente ao período de carência do art. 143 da Lei n.º 8.213/91, desde que robusta prova testemunhal amplie sua eficácia probatória, como ocorre na hipótese em apreço.
+2. Este Tribunal Superior, entendendo que o rol de documentos descrito no art. 106 da Lei n.º 8.213/91 é meramente exemplificativo, e não taxativo, aceita como início de prova material do tempo de serviço rural as Certidões de óbito e de casamento, qualificando como lavrador o cônjuge da requerente de benefício previdenciário.
+3. In casu, a Corte de origem considerou que o labor rural da Autora restou comprovado pela certidão de casamento corroborada por prova testemunhal coerente e robusta, embasando-se na jurisprudência deste Tribunal Superior, o que faz incidir sobre a hipótese a Súmula n.º 83/STJ.
+4. Agravo regimental desprovido (AgRg no Ag 1.399.389/GO. 5T, Rel. Min. LAURITA VAZ, DJe 28.6.2011).
+11. Ademais, ressalte-se que os registros no CNIS da parte autora não afastam, por si só, o direito ao benefício, uma vez que a lei exige o exercício de atividade rural em período integral ou descontínuo, conforme preceituam os arts. 48, §§ 1o. e 2o. da Lei 8.213/91, e se referem a vínculos empregatícios em curto espaço de tempo.
+12. A propósito, os seguintes precedentes:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. REEXAME DA PROVA.
+As instâncias ordinárias firmaram entendimento de que a condição de ruralista da recorrida estaria caracterizada seja pelo início de prova material, seja pelo depoimento das testemunhas. Período trabalhado no meio urbano insuficiente para descaracterizar a condição de segurado especial. Se a reforma do julgado demanda o reexame da prova, o recurso especial é inviável (STJ - Súmula nº 7).
+Agravo regimental não provido (AgRg no AREsp 308.788/CE, 1T, Rel. Min. ARI PARGENDLER, DJe 21.8.2013).
+
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADORA RURAL. INÍCIO DE PROVA MATERIAL CORROBORADO POR ROBUSTA PROVA TESTEMUNHAL.
+1. O entendimento jurisprudencial do STJ é no sentido de que a atividade urbana exercida no período imediatamente anterior ao requerimento do benefício ou ao implemento do requisito etário impede a concessão da aposentadoria por idade rural, conforme arts. 142 e 143 da Lei 8.213/1991.
+2. Na hipótese dos autos, o autor trabalhou na área rural de forma descontínua, tendo exercido labor urbano durante dez anos até 1993. A partir de então, reconheceu-se pelas provas material e testemunhal que ele trabalhou no campo ininterruptamente até a data do requerimento administrativo em 2007.
+Agravo regimental improvido (AgRg no AREsp 352.085/CE, 2T, Rel. Min. HUMBERTO MARTINS, DJe 26.8.2013).
+13. Não se deve perder de vista que a concessão de aposentadoria rural possui relevante valor social, uma vez que busca amparar o obreiro rural por meio de distribuição da renda pela via da assistência social, de modo que a aplicação do Direito Previdenciário ao rurícola não deve se afastar da política que visa a inclusão desse Trabalhador no sistema, dado que historicamente foi sempre desassistido.
+14. Ante o exposto, nega-se provimento ao Agravo do INSS.
+15. Publique-se.
+16. Intimações necessárias.
