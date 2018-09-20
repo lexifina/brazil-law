@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JAKSUEL NUNES DOS SANTOS contra a decisão proferida no âmbito do Tribunal de Justiça do Estado do Maranhão que não admitiu seu recurso especial fundado no art. 105, inciso III, alíneas a e c, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado pelo crime previsto no art. 28 da Lei n. 11.343/2006, a advertência sobre os efeitos das drogas, em razão da posse de 75,410g (setenta e cinco gramas e quatrocentos e dez miligramas) de maconha, 7,747g (sete gramas e setecentos e quarenta e sete miligramas) de cocaína e mais 1,418g (um grama e quatrocentos e dezoito miligramas) dessa mesma droga.
+O Tribunal de origem deu provimento ao apelo do Ministério Público estadual para condená-lo pelo crime de tráfico de drogas a 5 anos de reclusão em regime inicial semiaberto. Eis a respectiva ementa (e-STJ fls. 264/265):
+PROCESSUAL PENAL. APELO MINISTERIAL. INSURGÊNCIA CONTRA A SENTENÇA QUE DESCLASSIFICOU A CONDUTA DO RÉU PARA O TIPO PENAL PREVISTO NO ART. 28, DA LEI DE DROGAS. PEDIDO DE REFORMA PARA CONDENAR PELA PRÁTICA DE TRÁFICO ILÍCITO DE ENTORPECENTES. VIABILIDADE. MATERIALIDADE E AUTORIA DEMONSTRADAS. DEPOIMENTOS DE AGENTES POLICIAIS. FORÇA PROBANTE. DOSIMETRIA DA PENA. INAPLICABILIDADE DO PRIVILÉGIO CONTIDO NO § 4º DO MESMO DISPOSITIVO. CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. APELO PROVIDO.
+1. Restando evidente, nos autos, que o recorrido praticou a conduta típica encartada no art. 33, caput, da Lei n. 11.343/06, é de rigor o desfecho condenatório nesses termos.
+2. A jurisprudência dos nossos sodalícios reputa como válidos os depoimentos dos policiais para a formação do convencimento judicial, desde que corroborados pelos demais elementos de prova.
+3. Inviável a concessão do benefício descrito no § 42, do art. 33, da Lei de Drogas, se o agente demonstra, a par das provas colacionadas aos autos, dedicação à atividade criminosa.
+4. Provimento da apelação. Concedido ao réu o direito de recorrer em liberdade.
+Os embargos de declaração opostos contra esse acórdão foram rejeitados.
+Nas razões do recurso especial, o recorrente sustenta violação ao art. 33, § 4º, da Lei n. 11.343/2006. Defende a aplicação da referida causa de diminuição de pena. Ao final, requer a redução da pena.
+Contrarrazões às e-STJ fls. 334/358.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 396/398).
+É o relatório. Decido.
+O Tribunal de origem, soberano na análise de questões fático-probatórias dos autos, reconheceu a existência de elementos suficientes para afastar a causa de diminuição da pena do artigo 33, § 4º, da Lei n. 11.343/2006. Confira-se (e-STJ fls. 278/282):
+Deixo de atender ao disposto no art. 42, da Lei n. 11.343/06, tendo em vista que o critério nele disposto - natureza e quantidade da droga apreendida - será utilizado na terceira etapa da dosimetria, evitando-se, assim, bis in idem, na esteira dos recentes julgados pretorianos, ad exempli:
+ ..
+Sopesadas as circunstâncias judiciais, fixo a pena-base no patamar mínimo legal, em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+À míngua de circunstâncias atenuantes e agravantes, e causas de diminuição de pena, detenho-me, doravante, à análise da incidência do § 4º, do art. 33, da Lei n. 11.343/06, segundo o qual:
+ ..
+Em que pese a primariedade e os bons antecedentes do réu em epígrafe, entendo que as circunstâncias evidenciadas pelo conjunto probatório encartado nos autos impedem a redução da pena pelo tráfico privilegiado.
+O laudo de exame químico de fls. 64/74, atesta a apreensão de quantidade bastante significativa de substância entorpecente, a saber:
+- 52 (cinqüenta e dois) pacotes pequenos, confeccionados em papel alumínio, contendo 82,170g (oitenta e dois gramas e cento e setenta miligramas) de massa bruta e 75,410g (setenta e cinco gramas e quatrocentos e dez miligramas) de massa líquida de substância vegetal seca, com resultado positivo para a presença de THC (Delta- 9-tetrahidrocanabidiol), ou seja, Cannabis sativa Lineu.
+- 36 (trinta e seis) pacotes pequenos, confeccionados em tecido de cor amarela, contendo 10,820g (dez gramas e oitocentos e vinte miligramas) de massa bruta e 7,747g (sete gramas e setecentos e quarenta e sete miligramas) de massa líquida de substância amarela sólida de consistência petrificada, com resultado positivo para a presença de alcalóide cocaína na forma base; e
+- 01 (um) pacote pequeno, de formato irregular, confeccionado em plástico transparente, acondicionando 1,564g (um grama e quinhentos e sessenta e quatro miligramas) de massa bruta e 1,418g (um grama e quatrocentos e dezoito miligramas) de massa líquida de substância branca sólida de consistência pulverizada, com resultado positivo para alcalóide cocaína, na forma sal.
+Nesse passo, destaco que a jurisprudência dos Pretórios Superiores já assentou que a significativa quantidade de droga é elemento absolutamente incompatível com o tráfico privilegiado, por revelar a periculosidade do traficante, que o pratica de forma organizada ou em larga escala:
+ ..
+Some-se a isso, a natureza dos entorpecentes, vulgarmente denominados maconha, crack ou merla, estes últimos de alto poder destrutivo e efeitos devastadores, pois, derivado da pasta de coca, originária da cocaína, possui alto nível de dependência química.
+O contexto em que a droga foi apreendida, não se pode olvidar, embalados em pequenos pacotes, prontos para a venda, além da balança de precisão e papel alumínio (auto de apresentação e apreensão de fls. 10/11), além das informações do serviço e inteligência que apontavam a residência do apelado como ponto de tráfico de substância entorpecente, revela, a meu sentir, a existência de traficância organizada.
+Dessarte, embora o acusado seja primário, com bons antecedentes, o contexto dos autos revela, a toda evidência, a existência de laços com organização voltada à prática da traficância, ou, no mínimo, dedicação a essa atividade.
+Por essas razões, entendo ser inviável a concessão do benefício ora postulado, motivo porque a sanção resta finalmente fixada em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, quantum que, é cediço, impede a substituição da pena privativa de liberdade por restritiva de direitos, a teor do que prescreve o art. 44, I, do Código Penal.
+Desse modo, a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. DESCLASSIFICAÇÃO PARA USO. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão do agravante de modificar o entendimento firmado pelas instâncias ordinárias - no sentido de que não há provas acerca da prática do delito em questão, da desclassificação do delito de tráfico para o uso e da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 - demandaria reexame de provas, o que é inviável na via do recurso especial, segundo dispõe o enunciado n. 7 da Súmula do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial").
+2. Agravo regimental não provido.
+(AgRg no AREsp 900.716/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2016, DJe 26/08/2016, grifei.)
+Por oportuno, cumpre esclarecer que "Esta Corte de Justiça Superior tem asseverado que a expressiva quantidade e a natureza do entorpecente apreendido em poder do acusado constitui circunstância hábil a impedir a aplicação da causa de diminuição de pena prevista no § 4º do artigo 33 da Lei nº 11.343/06, a depender das peculiaridades da hipótese concreta" (AgRg no REsp n. 1345725/SP, rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 1º/4/2014, DJe 14/4/2014).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
