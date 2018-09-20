@@ -1,0 +1,34 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMPOSTO DE IMPORTAÇÃO. ISENÇÃO. DECRETO-LEI 1.804/1980. REMESSA POSTAL DE ATÉ CEM DÓLARES. RESTRIÇÃO POR ATO ADMINISTRATIVO. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL (PRINCÍPIO DA LEGALIDADE). INVIABILIDADE DE APRECIAÇÃO. USURPAÇÃO DA COMPETÊNCIA DO STF. ADEMAIS, NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMPOSTO DE IMPORTAÇÃO. ISENÇÃO. REMESSA POSTAL. DECRETO-LEI 1.804/1980. PORTARIA MF 156/99 e IN SRF 96/99. ILEGALIDADE.
+1. Conforme disposto no Decreto-Lei 1.804/80, art. 2º, II, as remessas de até cem dólares, quando destinadas a pessoas físicas, são isentas do Imposto de Importação.
+2. A Portaria MF 156/99 e a IN 096/99, ao exigir que o remetente e o destinatário sejam pessoas físicas, restringiram o disposto no Decreto-Lei 1.804/80.
+3. Não pode a autoridade administrativa, por intermédio de ato administrativo, ainda que normativo (portaria), extrapolar os limites claramente estabelecidos em lei, pois está vinculada ao princípio da legalidade (fls. 134).
+2. Nas razões do Recurso Especial, a parte recorrente aponta ofensa ao art. 2o., caput e inciso II do Decreto-Lei 1.804/1980. Defende, em resumo, que o Ministro da Fazenda tem competência para dispor sobre o limite de isenção do II, razão pela qual deve ser levado em conta o limite de US$ 50.00 (cinquenta dólares norte americanos). Pugna pela reforma do julgado.
+3. Com contrarrazões (fls. 151/163), o recurso fora admitido na origem (fls. 168).
+4. O Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República BRASILINO PEREIRA DOS SANTOS, opinou pelo não conhecimento do Recurso Especial (fls. 185/188).
+5. É o relatório.
+6. O Recurso não prospera.
+7. Com efeito, ao analisar a controvérsia, assim decidiu a instância ordinária:
+Verifica-se que o Decreto-Lei 1.804/80, no art. 2º, II, estabelece que as remessas de até cem dólares são isentas do imposto de importação quando destinados a pessoas físicas, nada mencionando sobre o remetente.
+Após, a Portaria MF 156/99 e a IN SRF 096/99 passaram a exigir que tanto o destinatário quanto o remetente fossem pessoas físicas e diminuiu o valor da isenção para o limite de US$ 50,00 (cinquenta dólares).
+Entendo, na mesma linha da decisão ora revista, que não pode a autoridade administrativa, por intermédio de ato administrativo, ainda que normativo (portaria ou instrução normativa), extrapolar os limites claramente estabelecidos em lei, pois está vinculada ao princípio da legalidade.
+Não havendo no Decreto-Lei restrição relativa à condição de pessoa física do remetente, tal exigência não poderia ter sido introduzida por ato administrativo, afastando-se do princípio da legalidade.
+Assim, considerando que o impetrante é pessoa física e busca a isenção do imposto de importação incidente sobre mercadorias com valor inferior a US$ 100,00 (cem dólares norte- americanos), tal postulação encontra amparo na legislação em análise, especialmente porque a Portaria na qual se fundamenta a exigência do tributo está em clara contraposição quanto ao que determina a legislação de regência da matéria, violando o princípio da legalidade (fls. 131/132).
+8. A luz do exposto, depreende-se da leitura dos autos que fora o decisum fundamentado no Princípio Constitucional da Legalidade, assentado no art. 37 da CF/1988. Assim, a apreciação do julgado usurparia da competência da Suprema Corte. Ademais, não consta dos autos a interposição do competente Recurso Extraordinário, a fim de impugnar essa motivação, incidindo, também, o enunciado sumular 126 desta Corte Superior, que dispõe que é inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+9. Nesse sentido, confira-se:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA CONSTITUCIONAL E EM DIREITO LOCAL. SÚMULA 280/STF. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+1. Hipótese em que o Tribunal de origem decidiu a lide com base na análise do princípio da seletividade, insculpido no artigo 155 da Carta Magna, e em Direito local (Decreto 14.876/1991 - que regulamenta as Leis Estaduais 11.919/2000 e 12.135/2001), inviáveis de serem reexaminados em Recurso Especial, conforme dispõem o art. 102, III, do permissivo constitucional e a Súmula 280/STF.
+2. Ademais, não houve interposição de Recurso Extraordinário, razão por que incide a Súmula 126/STF, segundo a qual: É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+3. Agravo Regimental não provido (AgRg no AREsp. 50.316/PE, Rel. Min. HERMAN BENJAMIM, DJe 6.3.2012).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 535 DO CPC/1973. INEXISTÊNCIA DE VIOLAÇÃO. PARCELAMENTO TRIBUTÁRIO. ERRO DE FORMA. APLICAÇÃO DO PRINCÍPIO DA RAZOABILIDADE EM CONFRONTO COM O DA LEGALIDADE. ENFOQUE CONSTITUCIONAL. COMPETÊNCIA DO STF. APLICAÇÃO DA SÚMULA 126 DO STJ.
+1. Inexiste ofensa ao art. 535 do CPC/1973 quando o Juízo a quo dirime de forma fundamentada as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. O Tribunal de origem, ao decidir a controvérsia, assim o fez confrontando o princípio da razoabilidade com o cânone da legalidade, conferindo ao acórdão recorrido, portanto, fundamento constitucional.
+3. Quando a controvérsia é solucionada com fundamento em princípios ou dispositivos constitucionais, o recurso especial é inviável, sob pena de usurpação da competência reservada pela Constituição ao Supremo Tribunal Federal. Precedentes: AgRg no REsp 11.19.910/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 11/12/2009; REsp 735.156/PE, Rel. Ministro Francisco Falcão, Rel. p/ Acórdão Ministro Luiz Fux, Primeira Turma, DJe 3/11/2008.
+4. A recorrente não interpôs, simultaneamente ao apelo extremo, o recurso extraordinário, razão pela qual incide a Súmula 126/STJ à espécie.
+5. Recurso especial conhecido em parte e, nessa extensão, não provido (REsp. 1.598.596/RS, Rel. Min. OG FERNANDES, DJe 21.6.2017).
+10. Diante do exposto, nega-se seguimento ao Recurso Especial da FAZENDA NACIONAL.
+11. Publique-se.
+12. Intimações necessárias.
