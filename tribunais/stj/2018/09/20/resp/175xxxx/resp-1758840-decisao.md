@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por SEBASTIAO DE SOUZA BARBOSA NETO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas.
+Consta dos autos que o ora recorrente foi condenado à pena de 3 anos de reclusão, em regime aberto, e 20 dias-multa, pelo delito de posse ilegal de arma de fogo de uso permitido com numeração raspada.
+Irresignada, a defesa interpôs apelação, à qual o Tribunal de origem, por unanimidade de votos, negou provimento nos termos desta ementa (e-STJ fl. 192):
+APELAÇÃO CRIMINAL - POSSE ILEGAL DE ARMA DE FOGO - CIRCUNSTÂNCIA ATENUANTE - FIXAÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL - IMPOSSIBILIDADE - SÚMULA N.º 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - APELAÇÃO CONHECIDA E DESPROVIDA.
+1. Conforme entendimento consagrado pela Súmula 231 do STJ, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal."
+2. Esse entendimento ampara-se em uma interpretação segundo a qual as circunstâncias atenuantes, ao contrário das causas de diminuição de pena, não integram o tipo penal e, portanto, não ensejam a redução da pena aquém do limite mínimo fixado pelo legislador, que deve servir de parâmetro intransponível para o aplicador do direito quando da dosagem da pena a ser aplicada.
+3. Ainda que se reconheça a possível existência de circunstância atenuante em favor do apelada, não se faz possível a sua aplicação na hipótese dos autos, ante a impossibilidade de redução da pena-base abaixo do mínimo legal.
+4. Apelação criminal conhecida e não provida.
+Da precária petição de recurso especial, infere-se que a defesa busca, por meio do recurso especial, o reconhecimento da confissão espontânea.
+Contrarrazões às e-STJ fls. 210/217.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 238/240).
+É o relatório. Decido.
+O recurso não deve prosperar.
+O Tribunal local deixou de reconhecer a confissão espontânea em razão do óbice absoluto da Súmula n. 231/STJ, que proíbe a fixação da pena-base aquém do mínimo por incidência da mencionada atenuante (e-STJ fls. 194/196).
+Ao assim decidir, a Corte local não dissentiu da massiva jurisprudência sedimentada nesta Corte Superior de Justiça de que a incidência de circunstância atenuante, como a confissão espontânea e a menoridade relativa, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 do STJ.
+A respeito, confiram-se:
+PENAL E PROCESSUAL PENAL. AGRAVO INTERNO NO RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. HABEAS CORPUS COMO PARADIGMA. INADEQUAÇÃO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO VERIFICADA. RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DO ART. 21 DO CP. ERRO DE PROIBIÇÃO. NECESSIDADE DE REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. REDUÇÃO DA PENA AQUÉM DO MÍNIMO EM RAZÃO DE ATENUANTES. IMPOSSIBILIDADE. SÚMULA 231/STJ. SENTENÇA CONDENATÓRIA QUE DETERMINOU QUE A INCLUSÃO DO NOME DO RECORRENTE NO ROL DOS CULPADOS OCORRA SOMENTE APÓS O TRÂNSITO EM JULGADO DA CONDENAÇÃO. VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. NÃO OCORRÊNCIA.
+I - A jurisprudência deste eg. Superior Tribunal de Justiça é pacífica no sentido de que acórdãos proferidos em julgamento de habeas corpus não servem como paradigma para demonstração do dissídio jurisprudencial.
+II - Segundo firme entendimento desta Corte, o órgão judicial, para expressar sua convicção, não está obrigado a aduzir comentários a respeito de todos os argumentos levantados pelas partes, quando decidir a causa com fundamentos capazes de sustentar sua conclusão, não padecendo de falta de fundamentação a decisão que, embora suscinta, aprecia a quaestio trazida à análise, como é o caso dos autos.
+III - O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita. (Súmula 07/STJ).
+IV - Nos termos do Enunciado da Súmula 231 desta Corte, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal."
+V - Por fim, na hipótese, a decisão de primeiro grau determinou que o lançamento do nome do recorrente no rol dos culpados somente ocorra após o trânsito em julgado da condenação, com a constituição de título definitivo, pelo que não há falar em violação ao princípio da presunção de inocência.
+Agravo regimental desprovido (AgRg no REsp 1.400.041/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/05/2016, DJe 18/05/2016).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO DUPLAMENTE CIRCUNSTANCIADO TENTADO. 1) DOSIMETRIA. 1.1) CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. ERESP N. 1154752/RS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. 1.2) ATENUANTE DE MENORIDADE RELATIVA. REDUÇÃO DA PENA A PATAMAR AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. ENUNCIADO N. 231 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 1.3) CRITÉRIO MATEMÁTICO DE AUMENTO DE PENA NA TERCEIRA FASE DA DOSIMETRIA. FUNDAMENTAÇÃO INIDÔNEA. ENUNCIADO N. 443 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. 2) PENA-BASE FIXADA NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU REINCIDENTE. PENA DEFINITIVA INFERIOR A 4 ANOS. APLICAÇÃO DO ENUNCIADO N. 269 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. IMPETRAÇÃO NÃO CONHECIDA. ORDEM CONCEDIDA DE OFÍCIO PARA REDUZIR AS PENAS DO PACIENTE E FIXAR O REGIME SEMIABERTO.
+(..).
+- Nos termos da Súmula n. 231 do STJ, descabe a redução da pena na segunda fase da dosimetria a patamar aquém do mínimo legal em razão da existência de circunstância atenuante, no caso, a menoridade relativa.
+(..).
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir as penas aplicadas ao paciente e fixar o regime inicial semiaberto (HC 317.300/SP, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJ/SP, SEXTA TURMA, julgado em 21/05/2015, DJe 02/06/2015).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
