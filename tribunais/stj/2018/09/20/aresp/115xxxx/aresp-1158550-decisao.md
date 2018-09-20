@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela Superintendência de Seguros Privados - SUSEP, contra decisão que negou seguimento a recurso especial fundado na alínea "a" do permissivo constitucional, em oposição a acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INCLUSÃO DE SÓCIOS ADMINISTRADORES. POSSIBILIDADE. PRESENÇA DE FORTES INDÍCIOS DE ATOS FRAUDULENTOS. AGRAVO PROVIDO EM PARTE.
+1. A ação de origem refere-se a execução fiscal proposta pela Superintendência de Seguros Privados - SUSEP em face Preferencial Cia. de Seguros, para cobrança de dívida no valor total de R$ 347.537,73, correspondente ao débito pela taxa de fiscalização, por infração de normas, no período compreendido entre o 1º trimestre de 2003 e o 1º trimestre de 2007.
+2. Encontram-se presentes fortes indícios de atos fraudulentos pelos administradores da F&Z Participações Societárias Ltda que utilizaram de maneira clandestina o nome da empresa Preferencial Cia. de Seguros (executada) para atuar no mercado, restando evidente a confusão patrimonial,
+bem como de funcionários, gestão, atuação e movimentações financeiras entre as referidas empresas.
+3. Não há dúvida de que não só o texto, mas também o espírito do artigo 50 do Código Civil, autorizam a chamada desconsideração da personalidade jurídica inversa, a significar o afastamento da autonomia patrimonial da sociedade, para, contrariamente ao que ocorre na desconsideração da personalidade tradicional, atingir o ente empresarial e seu patrimônio social, de modo a responsabilizar a pessoa jurídica por dívidas de seus sócios ou administradores, desde que, além da prova de insolvência, haja a demonstração ou de um desvio de finalidade (teoria subjetiva da desconsideração) ou de uma confusão patrimonial (teoria objetiva da desconsideràção), tudo com o fito de suplantar a fraude ou o abuso de direito (que por si mesmo é signo de ilicitude de ato jurídico conforme o artigo 187 do Código Civil).
+4. É cabível, portanto, a inclusão das pessoas indicadas no polo passivo da execução fiscal originária para responder pelos débitos da empresa Preferencial Cia. de Seguros, com exceção de [NOME], [NOME] ues e [NOME], pois sequer integravam o quadro societário das empresas.
+5. Agravo de instrumento provido em parte.
+Nas razões do apelo especial, a recorrente acusa violação do art. 535 do CPC/1973, aduzindo omissão no que tange à participação de [NOME], [NOME] Rodrigues dos Reis e [NOME], na fraude perpetrada pela empresa F&Z Participações Societárias Ltda., e à inclusão das referidas pessoas como corresponsáveis no polo passivo da execução fiscal em tela.
+Contraminuta de agravo apresentada às e-STJ, fls. 326/328.
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não se pode falar em ofensa ao art. 535 do CPC/1973 quando o Tribunal regional, como verifico no presente caso, pronuncia-se de forma clara e objetiva sobre a questão posta nos autos, tendo o decisório se mostrado suficientemente fundamentado para embasar a decisão.
+Sobre o tema, assim se pronunciou a Corte de origem:
+É cabível, portanto, a inclusão das pessoas indicadas no polo passivo da execução fiscal originária para responder pelos débitos da empresa Preferencial Cia. de Seguros, com exceção de [NOME], [NOME] Rodrigues e [NOME], pois sequer integravam o quadro societário das empresas.
+Cumpre ressaltar, que caberá prova em contrário, em sede "própria, já que o tema enseja produção de provas em ambiente de cognição plena. (e-STJ, fl. 253).
+Ou seja, a Corte regional não se descuidou das alegações da ora recorrente, tendo apenas concluído que não se poderia incluir imediatamente as referidas pessoas no polo passivo da execução porque não integravam o quadro societário das empresas envolvidas, e que a responsabilização de tais indivíduos demandaria prova em sede própria, de cognição plena.
+Sendo assim, não há falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
