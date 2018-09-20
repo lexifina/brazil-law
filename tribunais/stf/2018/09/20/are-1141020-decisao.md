@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Quarta Turma Julgadora da Quarta Câmara Cível do Tribunal de Justiça do Estado do Goiás, assim ementado (eDOC 5, p. 26):
+    “EMENTA: APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO. GUARDA PATRIMONIAL. REGIME DE TRABALHO. JORNADA DE 12 (DOZE) X 36 (TRINTA E SEIS) HORAS. RECEBIMENTO DE HORAS EXTRAORDINÁRIAS. DESCABIMENTO. BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA. SUSPENSÃO DA EXIGIBILIDADE DA COBRANÇA DA VERBA SUCUMBENCIAL. PEDIDO DE CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ E DE MAJORAÇÃO DOS HONORÁRIOS EM SEDE DE CONTRARRAZÕES. INADEQUAÇÃO DA VIA ELEITA.
+    1. O servidor que labora na escala de 12 (doze) por 36 (trinta e seis) horas não faz jus à percepção por trabalho extraordinário, haja vista que o tempo excedido em uma semana será compensado na seguinte.
+    2. Impõe-se a suspensão da exigibilidade das obrigações decorrentes da sucumbência que tocam à parte autora, por ser beneficiária da assistência judiciária, em consonância com o artigo 98, § 3º, do Código de Processo Civil.
+    3. Por força da Súmula nº 27 deste egrégio Sodalício, não merecem ser conhecidos os pedidos de alteração dos honorários advocatícios de sucumbência ou de condenação da parte contrária por litigância de má fé, quando formulados em sede de contrarrazões à apelação, ante a inadequação da via eleita.
+    4. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.”
+    Os embargos de declaração foram rejeitados (eDOC 5, p. 65).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II; 7º, XVI; 37, caput; e 39, § 3º, da Carta da República.
+    Nas razões recursais, sustenta-se, em suma, que “o, a função de guarda patrimonial, conforme disposto na Lei 788 de 2010 de Cidade Ocidental, no seu anexo IV (vide fls. 141 dos autos), tem jornada de trabalho de 40(quarenta) horas semanais, ou seja, 160(cento e sessenta) horas, assim, as horas que ultrapassem a jornada de 40h/semanais devem ser pagas. Deste nodo, resta claro que não foram observados os princípios constitucionais da legalidade.“ (eDOC 5, p. 77).
+    A Presidência do TJ/GO inadmitiu o recurso com base no óbice da Súmula 280 do STF (eDOC 5, p. 94-95).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que a Turma Julgadora de origem, no julgamento da apelação, consignou que (eDOC 5, p. 20-21):
+    “O artigo 16 da Lei municipal nº 442, de 02 de julho de 2001, que dispõe sobre o regime jurídico único dos funcionários públicos do Município de Cidade Ocidental e dá outras providências, prescreve, ad litteram:
+    Art. 16. A duração normal do trabalho, para o funcionário, em qualquer atividade, não excederá de oito (8) horas diárias, nem será superior a quarenta e quatro (44) horas semanais.
+    É que, consoante explicou o magistrado de primeiro grau, o servidor que trabalha no regime de 12 (doze ) x 36 (trinta e seis) horas, em uma semana atingirá 48 (quarenta e oito) horas de labor, mas na outra exercerá seu ofício por 36 (trinta e seis) horas. Sem maiores dificuldades aritméticas, tem-se então que, a cada suas semanas, a média de suas atividades é de 42 (quarenta e duas) horas.
+    Isto é, há uma compensação evidente. Outrossim, é cediço que, pela própria natureza e responsabilidade do desempenho da função de guarda patrimonial, a carreira deve ter tratamento diferenciado, a começar pela sua carga horária, a qual precisa sofrer alterações de acordo com a necessidade de suprir a folga ou as férias de outro guarda.”
+    Nessa senda, como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que diz respeito ao regime especial de trabalho de 12x36, na forma do que prevê a lei instituidora, demandaria o reexame de fatos e provas constantes dos autos e a análise da legislação local aplicável à espécie (Lei Municipal 442/2001), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. JORNADA DE TRABALHO. REGIME DE TURNOS. CARACTERIZAÇÃO DE HORAS EXTRAS. NECESSIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 990451, Rel. Min. Luiz Fux, Primeira Turma, DJe 02.12.2016).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO MUNICIPAL. GUARDA MUNICIPAL. TRABALHO EM REGIME DE COMPENSAÇÃO. JORNADA DE TRABALHO DE 12 HORAS POR 36 HORAS DE DESCANSO. HORAS EXTRAS INDEVIDAS. ALEGAÇÃO DE AFRONTA AO ART. 7º, XIII, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 279/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.” (AI-AgR 738680, Rel. Min. Luiz Fux, Primeira Turma, DJe 13.09.2012).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do CPC.
+    Consoante o art. 85, § 11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os §§ 3º e 4º do art. 98, ressalvada a gratuidade de justiça.
+    Publique-se.
+    Brasília, 20 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
