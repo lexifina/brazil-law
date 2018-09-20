@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA THERMAS DO RIO QUENTE contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 243):
+APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. CONTRATAÇÃO DE PACOTE TURÍSTICO REFERENTE ÀS FESTIVIDADES DE FINAL DE ANO. DESCUMPRIMENTO. EXIGÊNCIAS INCOMPATÍVEIS COM A BOA-FÉ. VIOLAÇÃO A NORMAS E PRINCÍPIOS DO CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO. DESPROVIMENTO.
+1. Acarreta danos de ordem moral e material o oferecimento de pacote turístico em desacordo com as condições firmadas à época da contratação.
+2. Modificação de local para oferecimento de ceia de reveillon, com acomodação de famílias e amigos em mesas distintas, e de acompanhamento da tradicional queima de fogos. Exigências incompatíveis com a boa-fé que deve presidir as relações de consumo.
+3. Situação dos autos, muito bem delineada em sentença, que revela o malferimento de diversas normas e princípios do Código de Defesa do Consumidor, notadamente aqueles que se referem ao dever de informação adequada e clara sobre produtos e serviços (art. 6o, III), à proteção contra publicidade enganosa e abusiva, bem como contra práticas e cláusulas abusivas ou impostas no fornecimento de produtos e serviços (art. 6o, IV).
+4. Dano material referente aos valores despendidos para a participação na ceia de reveillon e na "festa da virada". Dano moral fixado com moderação.
+5. Verba honorária estabelecida de acordo com os limites legais. Manutenção.
+6. Precedente específico da Corte: Apelação Cível n. 58380/2015, rel. Des. José de Ribamar Castro.
+7. Apelações cíveis desprovidas.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 186, 927 do Código Civil, bem como dissídio jurisprudencial.
+Defende o afastamento da condenação ao pagamento de indenização por dano moral, estipulada no montante total de R$ 30.000,00 (trinta mil reais), pois não teria causado nenhum dano aos recorridos na contratação do pacote turístico para festividades de fim de ano.
+Contrarrazões apresentadas (e-STJ, fls. 280-295).
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme dispõe o Enunciado Administrativo nº 3/2016 do Superior Tribunal de Justiça.
+Da análise dos autos, verifica-se que está correta a decisão agravada, ao obstar o recurso especial pela incidência da Súmula 7 do STJ, pois a análise das alegações suscitadas pela recorrente, a fim de reformar o acórdão combatido, impõem o reexame de matéria fático-probatória, procedimento inviável nos termos do referido verbete sumular, irrepreensivelmente aplicado pela Corte estadual no primeiro juízo de admissibilidade.
+A propósito, confiram-se os fundamentos explicitados no acórdão impugnado, pelo Tribunal de origem, conforme trechos a seguir transcritos (e-STJ, fls. 247-249):
+A situação retratada nos autos, muito bem delineada em sentença e caracterizada por exigências incompatíveis com a boa-fé que deveria presidir a relação entre as partes, revela o malferimento de diversas normas e princípios do Código de Defesa do Consumidor, notadamente aqueles que se referem ao dever de informação adequada e clara sobre produtos e serviços (art. 6o, III), à proteção contra publicidade enganosa e abusiva, bem como contra práticas e cláusulas abusivas ou impostas no fornecimento de produtos e serviços (art. 6o, IV).
+O apelo de fls. 155-169 não contém argumentos com força necessária para desconstituir a fundamentação levada a efeito pelo magistrado singular.
+(..)
+No tópico dedicado à demonstração de uma suposta excludente de responsabilidade civil, a primeira recorrente, mesmo sem nada demonstrar de concreto, invoca a regra do art. 186 do Código Civil, afirmando que a responsabilidade civil apurada na hipótese é de índole subjetiva. Tal tese, contudo, já devidamente refutada em sentença, não tem procedência, na medida em que o caso é regido pelo Código de Defesa do Consumidor, que, como todos sabem, consagra a responsabilidade objetiva do fornecedor de serviços.
+Finalmente, há que se abordar dois aspectos suscitados na origem e repetidos no apelo.
+0 primeiro deles diz respeito a uma estapafúrdia relação que a primeira recorrente pretende estabelecer entre o fato de os autores terem viajado em assentos separados no avião e a possibilidade de participarem de uma ceia de reveillon em mesas separadas. Tal situação em nada repercute na apreciação dos fatos narrados na inicial.
+Uma coisa é cumprir uma viagem aérea (ou um trecho dela) em cadeiras separadas. Outra coisa, absolutamente distinta, é admitir que alguém, em sã consciência, adquiriria um pacote turístico com a possibilidade de participar de uma ceia de ano novo separado de seus amigos e familiares ou tendo que disputar com outros turistas mesas colocadas a disposição por ordem de chegada.
+O segundo aspecto está relacionado à ressalva segundo a qual, de acordo com a ocupação, a ré poderia "reduzir" os locais em que a ceia seria servida. Tal restrição, mal redigida por sinal, não pode ser interpretada em desfavor dos consumidores. Ou seja, não se pode considerar que essa mera observação signifique "carta branca" à ré para que modificasse a seu talante os locais previamente acordados com os seus clientes. Ademais, a ressalva diz respeito à "ocupação" do estabelecimento. Vale dizer, se não houvesse pessoas suficientes para ocupar os locais previamente estabelecidos, poderia haver a redução da quantidade de locais em que a ceia seria oferecida. Tal situação, contudo, não restou demonstrada nos autos.
+É oportuno salientar, ainda, que esta Corte possui precedente específico referente a pessoas que compunham o mesmo grupo dos autores. No caso aventado, a eg. Quinta Câmara Cível deste Tribunal ratificou o juízo de procedência dos pedidos então formulados, conforme se pode inferir da ementa abaixo transcrita:
+Assim, a desconstituição de tais premissas, na forma como pretendida pela recorrente, em relação à caracterização do ato ilícito, demandaria o reexame de fatos e provas, procedimento que encontra óbice, na via especial, no verbete da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. O Tribunal a quo, com base no conjunto fático e probatório carreado aos autos, entendeu estarem presentes os elementos caracterizadores da responsabilidade civil e do dever de indenizar, bem ainda a razoabilidade e proporcionalidade do quantum fixado a título de danos morais pelo magistrado de primeiro grau. A alteração de tais conclusões demanda a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 798.661/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/05/2018, DJe 18/05/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. ACIDENTE CAUSADO PELO CAMINHÃO CONTRATADO PARA EFETUAR O SERVIÇO DE GUINCHO DOS AUTOMÓVEIS SEGURADOS PELA RECORRENTE. RELAÇÃO DE PREPOSIÇÃO. RESPONSABILIDADE SOLIDÁRIA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. 2. REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS (R$ 30.000,00). IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal concluiu que a seguradora contratante do serviço de guincho é parte legítima para figurar no polo passivo da ação de reparação de danos causados a terceiros, em razão da relação de preposição. Assim, concluir de forma diversa pela inexistência dos elementos caracterizadores da responsabilidade civil implicaria o necessário revolvimento do acervo fático-probatório dos autos, pretensão vedada em recurso especial consoante os ditames da Súmula 7/STJ.
+2. Mostra-se razoável a fixação em R$ 30.000,00 (trinta mil reais) para reparação do dano moral pelo ato ilícito reconhecido, consideradas as circunstâncias do caso e as condições econômicas das partes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.718.015/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/4/2018, DJe 3/5/2018)
+Por fim, cumpre destacar que a aplicação do óbice descrito na Súm.7/STJ prejudica o exame do dissídio jurisprudencial quanto ao ponto.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Execução de título extrajudicial.
+2. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+3. Alterar o decidido no acórdão impugnado, no que se refere à inexistência de outros bens passíveis de constrição, bem como no que tange ao preenchimento dos requisitos necessários à determinação de penhora sobre faturamento, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A incidência da Súmula 7 desta Corte, acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional. Precedentes do STJ.
+5. Agravo não provido.
+(AgInt no AREsp 887.748/RS, Rel. Ministro NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/8/2018, DJe 23/8/2018)
+Em face do exposto, nego provimento ao agravo.
+Observados os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Intimem-se.
