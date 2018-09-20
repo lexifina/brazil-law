@@ -1,0 +1,49 @@
+EMENTA
+TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. DESPESAS COM CAPATAZIA. INCLUSÃO NO VALOR ADUANEIRO. IMPOSSIBILIDADE.
+1. Conforme pacífico entendimento jurisprudencial de ambas as Turmas que compõem a Primeira Seção, as despesas referentes à descarga e à movimentação, no porto alfandegado, das mercadorias importadas (despesas com capatazia) não podem compor o respectivo valor aduaneiro.
+2. Hipótese em que o recurso especial encontra óbice na Súmula 83 do STJ, pois o acórdão recorrido está em conformidade com a jurisprudência da Primeira Seção.
+3. Pacífico o entendimento jurisprudencial, a pretensão recursal se revela manifestamente improcedente, o que enseja a aplicação da multa do art. 1.021, § 4º, do CPC/2015.
+4. Agravo interno não provido, com aplicação de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, negar provimento ao agravo interno, com aplicação de multa, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno da FAZENDA NACIONAL contra decisão que conheceu parcialmente do recurso especial e, nessa parte, quanto à tese de violação do art. 535 do CPC/1973, negou-lhe provimento. Discute-se, no especial, a inclusão das despesas com capatazia na base de cálculo do imposto de importação.
+A agravante alega não estar pacificada a matéria no âmbito da Primeira Seção, razão pela qual não seria aplicável a Súmula 83 do STJ. Acresce em síntese (e-STJ fl. 469):
+Nessa perspectiva, não é difícil vislumbrar que, caso restem excluídas da base de cálculo dos tributos relacionados a importação as despesas com capatazia, os importadores que optarem pela contratação da importação com preço CIF sofrerão uma incidência tributária majorada em relação àqueles que optarem pelo preço FOB, eis que, para os primeiros, o valor faturado incluirá as despesas de transporte (incluindo a capatazia) e seguro, e para os últimos a fatura estará restrita ao valor puro da mercadoria.
+A luz, portanto, das razões acima expendidas, forçoso reconhecer que as despesas com capatazia devem compor o valor aduaneiro para fins de incidência do imposto de importação, nos termos da matriz tributária brasileira.
+Impugnação apresentada por DANA INDÚSTRIA LTDA.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Como assinalado na decisão agravada, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão deve ser mantida, pois, de fato, incide na espécie o óbice da Súmula 83 do STJ.
+Em interpretação do art. 40, § 1º, I, da Lei n. 12.815/2013, do art. 75, 77 e 79 do Decreto n. 6759/2009 e do art. 8º do Acordo Geral sobre Tarifas e Comércio - GATT, este Tribunal Superior tem decidido pela impossibilidade de incluir as despesas de capatazia no valor aduaneiro da mercadoria.
+É que o valor aduaneiro engloba somente o custo de transporte da mercadoria importada até o porto ou o aeroporto alfandegado de descarga ou o ponto de fronteira alfandegado e os gastos relativos à carga, à descarga e ao manuseio, associados ao transporte da mercadoria importada até esses locais.
+Portanto, a atividade de movimentação de mercadorias, após a chegada da mercadoria importada ao recinto alfandegado, ainda que dentro das instalações do porto, não integram o valor aduaneiro da mercadoria.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. IMPOSTO DE IMPORTAÇÃO. CUSTOS DOS SERVIÇOS DE CAPATAZIA PRESTADOS APÓS A CHEGADA AO PORTO ALFANDEGADO. INCLUSÃO NA BASE DE CÁLCULO. IMPOSSIBILIDADE. SÚMULA N. 568/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - É pacífico o entendimento de ambas as Turmas que integram a 1ª Seção desta Corte, segundo o qual é ilegal a inclusão dos custos referentes ao serviço de capatazia, ocorridos após a chegada da embarcação ao porto alfandegado, na base de cálculo do Imposto de Importação.
+III - O Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à jurisprudência dominante acerca do tema, consoante verbete sumular n. 568/STJ.
+IV - A parte agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1690593/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/03/2018, DJe 09/04/2018)
+TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. BASE DE CÁLCULO. VALOR ADUANEIRO. DESPESAS COM MOVIMENTAÇÃO DE CARGA ATÉ O PÁTIO DE ARMAZENAGEM (CAPATAZIA). INCLUSÃO. IMPOSSIBILIDADE. ART. 4º, § 3º, DA IN SRF 327/2003. ILEGALIDADE.
+1. O STJ já decidiu que "a Instrução Normativa 327/03 da SRF, ao permitir, em seu artigo 4º, § 3º, que se computem os gastos com descarga da mercadoria no território nacional, no valor aduaneiro, desrespeita os limites impostos pelo Acordo de Valoração Aduaneira e pelo Decreto 6.759/09, tendo em vista que a realização de tais procedimentos de movimentação de mercadorias ocorre apenas após a chegada da embarcação, ou seja, após a sua chegada ao porto alfandegado" (REsp 1.239.625/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4.11.2014).
+2. Recentes julgados da Segunda Turma do STJ seguiram essa orientação: REsp 1.528.204, Rel. p/ acórdão, Min. Mauro Campbell Marques, Segunda Turma, julgado em 9.3.2017, DJe 19.4.2017; REsp 1.600.906/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2/5/2017; AgInt no REsp 1.585.486/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 22/5/2017.
+3. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83 desta Corte: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+5. Agravo Interno não provido.
+(AgInt no REsp 1642020/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/08/2017, DJe 12/09/2017)
+TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE IMPORTAÇÃO. BASE DE CÁLCULO. VALOR ADUANEIRO. DESPESAS DE CAPATAZIA. INCLUSÃO. IMPOSSIBILIDADE. ART. 4º, § 3º, DA IN SRF 327/2003. ILEGALIDADE.
+1. Cinge-se a controvérsia em saber se o valor pago pela recorrida ao Porto de Itajaí, referente às despesas incorridas após a chegada do navio, tais como descarregamento e manuseio da mercadoria (capatazia), deve ou não integrar o conceito de "Valor Aduaneiro", para fins de composição da base de cálculo do Imposto de Importação.
+2. Nos termos do artigo 40, § 1º, inciso I, da atual Lei dos Portos (Lei 12.815/2013), o trabalho portuário de capatazia é definido como "atividade de movimentação de mercadorias nas instalações dentro do porto, compreendendo o recebimento, conferência, transporte interno, abertura de volumes para a conferência aduaneira, manipulação, arrumação e entrega, bem como o carregamento e descarga de embarcações, quando efetuados por aparelhamento portuário".
+3. O Acordo de Valoração Aduaneiro e o Decreto 6.759/09, ao mencionar os gastos a serem computados no valor aduaneiro, referem-se à despesas com carga, descarga e manuseio das mercadorias importadas até o porto alfandegado. A Instrução Normativa 327/2003, por seu turno, refere-se a valores relativos à descarga das mercadorias importadas, já no território nacional.
+4. A Instrução Normativa 327/03 da SRF, ao permitir, em seu artigo 4º, § 3º, que se computem os gastos com descarga da mercadoria no território nacional, no valor aduaneiro, desrespeita os limites impostos pelo Acordo de Valoração Aduaneira e pelo Decreto 6.759/09, tendo em vista que a realização de tais procedimentos de movimentação de mercadorias ocorre apenas após a chegada da embarcação, ou seja, após a sua chegada ao porto alfandegado.
+5. Recurso especial não provido.
+(REsp 1239625/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 04/09/2014, DJe 04/11/2014).
+Porque pacífico o entendimento jurisprudencial em ambas as Turmas da Primeira Seção, a pretensão recursal se revela manifestamente improcedente, o que enseja a aplicação da multa do art. 1.021, § 4º, do CPC/2015, a qual arbitro em 1% sobre o valor atualizado da causa.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno e aplico multa à agravante, arbitrada em 1% sobre o valor atualizado da causa.
+É como voto.
