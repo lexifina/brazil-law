@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por QUIMBRASIL-QUÍMICA INDUSTRIAL BRASILEIRA S.A., inconformada o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina e assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. DECISÃO QUE NÃO RECONHECEU A PRESCRIÇÃO INTERCORRENTE. RECURSO DO EXECUTADO.
+PRESCRIÇÃO INTERCORRENTE. EXECUÇÃO DE CHEQUE E DE NOTA PROMISSÓRIA. PROCESSO QUE FICOU PARALISADO POR MAIS DE QUATORZE ANOS, ARQUIVADO ADMINISTRATIVAMENTE, POR DESÍDIA DO EXEQUENTE. DECURSO DO PRAZO PRESCRICIONAL.
+Recurso conhecido e provido.
+Nas razões do recurso especial, alega violação ao artigo 791, III, do CPC/1973, ao argumento de que a execução estaria suspensa e, por essa razão, não deveria correr o prazo de prescrição intercorrente.
+Alega, ainda, ofensa aos artigos 921, III, §§ 1º e 4º, e 1.056 do CPC/2015, ao fundamento de que o prazo de um ano para ser pronunciada a prescrição intercorrente somente começaria a fluir em 18/3/2016.
+Aduz, também, afronta ao artigo 1.016, III, do CPC/2015. Nessa linha, defende que deveria haver pedido expresso de reforma da decisão atacada no agravo de instrumento.
+Por fim, indica divergência jurisprudencial no que diz respeito à impossibilidade de fluência do prazo prescricional quando a execução se encontrar suspensa por ausência de bens penhoráveis.
+É o relatório.
+No que diz respeito à alegada afronta ao artigo 1.016, III, do CPC/2015, embora um dos requisitos da petição do agravo de instrumento seja o próprio pedido de reforma ou de invalidação da decisão, em verdade, a falta desse pleito expresso não impede o conhecimento do agravo se o pleito resulta claro das razões ofertadas.
+Mutatis mutandis, é o mesmo entendimento que esta Corte adota para afastar a inépcia da inicial ou o julgamento extra petita, ao registrar que "o pedido é aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica dos pedidos" (REsp n. 120.299/ES, Relator o Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, DJ de 21/9/1998).
+Essa posição consolidada do STJ revela a necessidade de se conferir ao pedido no agravo de instrumento uma exegese sistêmica, que guarde consonância com o inteiro teor da petição recursal, de modo a conceder à parte o que foi efetivamente requerido por ela. Em outros termos, cabe ao julgador a interpretação lógico-sistemática do pedido formulado na petição recursal a partir da exposição do fato e do direito, considerados em todo o seu conteúdo.
+Não por outra razão que neste Tribunal sempre registrou que a falta de pedido expresso de reforma não impede o conhecimento do agravo se o pleito resulta claro das razões ofertadas. Vejam-se estes precedentes:
+AGRAVO DE INSTRUMENTO.
+I - A FALTA DE PEDIDO EXPRESSO DE REFORMA DA DECISÃO NÃO IMPEDE O CONHECIMENTO DO AGRAVO SE O PLEITO RESULTA CLARO DAS RAZÕES OFERTADAS.
+II - RECURSO CONHECIDO E PROVIDO.
+(REsp 130.381/DF, Rel. Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, julgado em 07/04/1998, DJ 08/06/1998, p. 89)
+AGRAVO DE INSTRUMENTO. PEDIDO DE REFORMA DA DECISÃO. A SUA FALTA NÃO IMPEDE SEJA O AGRAVO CONHECIDO. "SE O PLEITO RESULTA CLARO DAS RAZÕES OFERTADAS" (RESP 43.244, DJ DE 20.06.1994).
+RECURSO ESPECIAL CONHECIDO E PROVIDO.
+(REsp 80.382/DF, Rel. Ministro NILSON NAVES, TERCEIRA TURMA, julgado em 17/06/1997, DJ 01/09/1997, p. 40826)
+Ademais, não há como apreciar o mérito da controvérsia com base na aludida violação do artigo 921, III, §§ 1º e 4º, do CPC/2015, porquanto a simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela corte a quo, não é suficiente para caracterizar o requisito do prequestionamento. Aplica-se, no ponto, o Enunciado Sumular n. 211 desta Corte Superior.
+No que diz respeito à alegada ofensa aos artigos 791, III, do CPC/1973 e 1.056 do CPC/2015, bem como ao aventado dissídio pretoriano, a Segunda Seção desta Corte Superior, no julgamento do Incidente de Assunção de Competência no Recurso Especial 1.604.412/SC, Relator Ministro Marco Aurélio Bellizze, DJe 22/08/2018, firmou entendimento no sentido de que incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002. Na mesma ocasião, entendeu-se que o termo inicial do artigo 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual), como se ocorre na hipótese dos autos.
+O referido acórdão possui a seguinte ementa:
+"RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido."
+Diante do exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se.
