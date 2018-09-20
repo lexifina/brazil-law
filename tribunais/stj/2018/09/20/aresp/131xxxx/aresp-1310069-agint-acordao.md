@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal, a fim de excluir a ora agravante do polo passivo da demanda, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por RUMO MALHA PAULISTA S.A em face de decisão deste Relator de fls. 894-896, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido à impossibilidade de reexame do conjunto fático-probatório dos autos.
+Nas razões recursais, sustenta a parte agravante: " Ora, Excelências, a locomotiva envolvida no acidente claramente é pertencente à MRS, não havendo motivo para a manutenção da RUMO no polo passivo da demanda, sendo incompreensível, nessa senda, a negativa de prestação jurisdicional exarada no v. Acórdão recorrido, que se limitou a afirmar que "pairam dúvidas" acerca de tais fatos..Não é necessário rever todo o substrato fático do caso, pois a questão contida no recurso é puramente de direito, qual seja, a necessidade de se reconhecer a ilegitimidade passiva da RUMO, uma vez que a locomotiva envolvida no acidente ferroviário é pertencente à MRS (fl. 308).".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal, a fim de excluir a ora agravante do polo passivo da demanda, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme asseverei na decisão monocrática de minha Relatoria (fls. 894-896), o Tribunal de origem, amparado no acervo fático - probatório dos autos concluiu que: "Da análise dos fatos e documentos constantes dos autos, aliados às respostas apresentadas pelos agravados, pairam dúvidas acerca de quem detinha a concessão do trecho da malha ferroviária em que ocorreu o acidente, além de controvérsia acerca do proprietário da composição que atingiu o autor..Imprescindível a instrução probatória para fins de se apurar os pontos controvertidos, sobretudo no que tange à eventual culpa e a responsabilidade pela reparação dos danos, se o caso, motivo pelo qual a manutenção da recorrente no polo passivo da lide é a medida mais prudente.". Assim, o acolhimento da pretensão recursal, a fim de excluir a ora agravante do polo passivo da demanda, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.FUNDAÇÃO CESP. RESTITUIÇÃO DE CONTRIBUIÇÕES DESCONTADAS INDEVIDAMENTE. MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO.LEGITIMIDADE PASSIVA. COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não cabe ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos constitucionais, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do Supremo Tribunal Federal, consoante dispõe o art. 102, III, da Constituição Federal.
+2. Fica inviabilizado o conhecimento de temas trazidos na petição de recurso especial, mas não debatidos e decididos nas instâncias ordinárias, tampouco suscitados em embargos de declaração, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+3. O Tribunal de origem reconheceu a legitimidade passiva da Fundação CESP para responder pela restituição de contribuições cobradas em folha de pagamento dos recorridos, pois efetuou os descontos indevidamente e não demonstrou a destinação adequada da verba. 4. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1222290/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/08/2018, DJe 23/08/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. LEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. O Tribunal de origem conclui pela legitimidade passiva da ora recorrente, ausência de cerceamento de defesa, e a ocorrência de ato ilícito apto a gerar o dever de indenizar, com base nos elementos fático-probatórios dos autos. Assim, rever tais conclusões, a fim de acolher as alegações da ora agravante, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, ante a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+2. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1196428/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/06/2018, DJe 22/06/2018)
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
