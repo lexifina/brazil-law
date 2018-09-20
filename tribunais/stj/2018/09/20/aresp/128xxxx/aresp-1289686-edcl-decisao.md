@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial.
+A embargante afirma que as Súmulas 5 e 7 do STJ não se aplicam ao caso. Entende que o acórdão recorrido é omisso e desprovido de fundamentação. A prova oral, argumenta, demonstra excludente de responsabilidade e fundamenta a retomada do imóvel locado. Deu-se o fim normal do contrato e houve ocorrência de força maior que teria impedido sua filha de ocupar o bem, de modo que não é devido o pagamento de indenização do art. 44 da Lei 8.245/91.
+Em sua impugnação, [NOME] sustenta que não é o caso de se afastar a aplicação dos referidos enunciados e alega que os embargos são protelatórios.
+Sem razão a embargante.
+A decisão embargada não é omissa. As razões para a negativa de provimento do agravo foram expostas, inclusive com citação de trecho do acórdão a demonstrar que conclusão diferente demandaria nova interpretação de cláusulas contratuais e reexame de prova:
+Consigne-se que, da data programada para o término do contrato de locação - dia 31 de maio de 2010 - até a notificação expedida pela locadora - 16 de fevereiro de 2011 - se passou um considerável lapso temporal sem que a locadora intentasse qualquer retomada do imóvel ou pedido de desocupação, motivo pelo qual findado o prazo, e por se tratar de locação com prazo inferior a trinta meses, prorrogou-se automaticamente a locação, por prazo indeterminado, nos termos do artigo 47, caput, da Lei do Inquilinato.
+Nesta medida, percebe-se que o acordo extrajudicial firmado somente vem a corroborar o entendimento de que as partes efetivamente prorrogaram a locação a prazo indeterminado, haja visto que a própria legislação aplicável ao caso dá cabo de sustentar a tese levantada pelo autor, senão vejamos o que dispõe a Lei do Inquilinato sobre o assunto:
+Art. 47. Quando ajustada verbalmente ou por escrito e com prazo inferior a trinta meses, findo o prazo estabelecido, a locação prorroga-se automaticamente, por prazo indeterminado, somente podendo ser retomado o imóvel:
+(..)
+Destarte, é possível verificar que o locatário ainda tomou o cuidado, ao redigir o acordo extrajudicial, de deixar consignado que a retomada estava se operando pela necessidade da locadora em ter seu imóvel de volta para fins de moradia da filha.
+É o que se infere da cláusula 06 do referido acordo,
+"(..) Tendo em vista a necessidade do Locador de desocupação do imóvel para fins de moradia da filha da proprietária do imóvel, foi aprazado que a desocupação do imóvel será realizada até o dia 15 de julho de 2011. Ocasião em que o locatário fará a entrega do imóvel totalmente desocupado, apresentando os comprovantes de pagamento das taxas condominiais, IPTU, quitação da Copel e do aluguel até a data ora aprazada de 15 de julho."
+(..)
+Nesta esteira, não prospera o argumento da apelante de que a locação foi desfeita pela hipótese prevista no artigo 9º, inciso I, o qual preceitua que a locação poderá ser desfeita por mútuo acordo, levando-se em conta que não houve acordo com relação ao desfazimento da locação, mas sim acordo com relação a retomada do imóvel pela proprietária nos termos do artigo 47, inciso III, ou seja, para uso de sua filha.
+Superada esta questão, somente pende de discussão analisar se efetivamente o imóvel cumpriu com a finalidade pela qual autorizou a sua retomada pela proprietária. A resposta para tal assertiva é negativa.
+Com base na oitiva da testemunha [NOME], verifica-se que o imóvel no qual se discute o desvio de finalidade lhe foi apresentado à compra e venda, sendo que na sequência foi firmado contrato de permuta por um imóvel de propriedade da referida testemunha em troca do imóvel de propriedade da apelante.
+Ademais, prestando depoimento pessoal, a própria apelante afirmou que entrou em negociação com a Sra. [NOME], mostrando-se mais do que evidente que, de fato, o imóvel retomado não cumpriu para com a finalidade da qual se comprometeu a apelante, ou seja, o imóvel retomado não se destinou a moradia de sua filha ou qualquer um dos legitimados descritos no artigo 47, III, da Lei do Inquilinato.
+(..)
+Convém ressaltar que a apelante não logrou êxito em comprovar que a não destinação do imóvel se deu por força maior, haja visto que, como muito bem salientou o magistrado a quo, a mudança de emprego dogenro da locadora não é motivo plausível a ser caracterizado como força maior.
+A partir disto, está demostrada a má-fé da locadora que, comprometendo-se com o locatário que a desocupação do imóvel se daria para uso pessoal, deu-lhe destinação diversa, motivo pelo qual se deve aplicar multa punitiva a ser fixada pelo magistrado.
+As Súmulas 5 e 7 desta Corte, portanto, foram aplicadas de forma fundamentada, não havendo o que suprir na decisão embargada.
+Em face do exposto, rejeito os embargos.
+Intimem-se.
