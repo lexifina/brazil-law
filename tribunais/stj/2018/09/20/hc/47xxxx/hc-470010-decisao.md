@@ -1,0 +1,18 @@
+DECISÃO
+VERIDIANO ALVES LINHARES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, que ratificou a sua condenação nos autos da Apelação n. 0001587-59.2016.8.06.0000.
+Consta dos autos que o paciente foi condenado a 11 anos e 4 meses de reclusão, pelo crime do art. 33 da Lei n. 11.343/2006, e 6 anos e 8 mês de reclusão, pelo delito do art. 35 da Lei 11.343/2006.
+Alega o impetrante, em suma, que a "sentença atribuiu a autoria ao paciente unicamente por ter sido encontrada em sua propriedade munições, armas e drogas, mesmo tendo co-réu Francisco [NOME], assumido a autoria delitiva, em fase inquisitorial e judicial, afirmando que o paciente não sabia da existência do material ilícito, não havendo nos autos, qualquer prova de que o paciente tenha contribuído com os crimes praticados".
+Salienta que, "no caso concreto, o repertório probante não fornece nenhum elemento de convicção que permita concluir, com segurança, a existência de vínculo associativo, mais ou menos duradouro, do recorrente em torno da traficância, pois nem mesmo circunstâncias objetivas a esse respeito foram constatadas, como, a organização do tráfico, com a divisão de tarefas bem definida para cada um dos integrantes do grupo".
+Afirma que, "não havendo evidência segura acerca da participação do paciente no crime, meras conjecturas teóricas não autorizam sua condenação, devendo, no caso, prevalecer o princípio in dubio pro reo, ante a visível precariedade das provas a respeito de seu envolvimento no fato noticiado na denúncia".
+Assevera que "não existe nenhuma prova nos autos apta a ensejar a incidência do art.40, IV, da Lei 11.343/06, a uma, o paciente não é responsável por armas e munições, já que a autoria resta comprovada, pois assumida judicialmente pelo co-réu [NOME], a duas, não restou apurado, que o delito de tráfico de drogas foi perpetrado com o emprego de arma de fogo, utilizada como processo de intimidação difusa ou coletiva para viabilizar a prática do narcotráfico, caso em que se justificaria".
+Conclui que "deve ser reconhecida a nulidade da sentença, o julgador se valeu da mesma circunstância para a aplicação de duas penalidades distintas, em verdadeiro bis in iden, aplicou-se a lei do desarmamento e também a qualificadora do art. 40, IV, da Lei 11.343/06".
+A defesa pede o seguinte:
+DO PEDIDO
+Ex positis, em face do profundo e indisfarçável desrespeito ao disciplinamento normativo a que se subordina tal medida extrema, roga o impetrante a concessão de LIMINAR da ordem até ulterior deliberação dessa Colenda Corte.
+Concedida e efetivada a MEDIDA LIMINAR, suplicam a Vossa Excelência a notificação da digna autoridade coatora, para prestar, no prazo que lhe for assinado, as informações de estilo.
+Cumprida todas as formalidades legais e de praxe, ouvido o Ministério Publico, Requer-se a essa Egrégia Corte que julgue procedente o presente Habeas Corpus, concedendo a ordem impetrada e confirmando a liminar ao seu tempo deferida, por ser de direito e merecida JUSTIÇA.
+Decido.
+Inicialmente, observo que a impetração não especifica o pedido, cingindo-se a requerer o deferimento de liminar e a sua confirmação por meio da concessão da ordem, inviabilizando-se, assim, o conhecimento deste writ.
+Mesmo considerando que, das causas de pedir da petição inicial - a inexistência de provas para a condenação -, seria possível inferir que o pedido seja o afastamento da sentença condenatória e do acórdão proferido na apelação, saliento que a via estreita do habeas corpus não admite a análise de fatos e provas.
+À vista do exposto, com base no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
