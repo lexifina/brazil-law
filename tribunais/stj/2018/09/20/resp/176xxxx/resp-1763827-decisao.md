@@ -1,0 +1,61 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. COMPRA E VENDA DE LOTE EM TERRENO. ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. PRECEDENTES DESTA CORTE. MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. ASTREINTES. VALOR QUE NÃO SE MOSTRA EXORBITANTE. REFORMA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+SIMONE FREITAS LOPES DOMINGUES e [NOME] BUENO DOMINGUES (SIMONE e [NOME]) ajuizaram ação de obrigação de fazer e indenização por inadimplemento contratual cumulado com restituição de valores pagos e indenização por danos morais contra SP 12 EMPREENDIMENTOS IMOBILIÁRIOS, RESIDENCIAL RAPOSO TAVARES LTDA e [NOME] [NOME] (SP 12 e outros), em virtude de atraso na entrega de infraestrutura no Loteamento adquirido das rés.
+Em primeira instância, os pedidos foram julgados procedentes em parte, a fim de condenar as rés (1) na obrigação de fazer de entregar o lote, com a infra-estrutura prometida em 90 dias do trânsito em julgado, sob pena de multa diária de R$ 200,00, limitada a 300 dias; (2) ao pagamento de 0,5% do preço do imóvel por mês desde maio 2013 até a entrega do lote a título de lucros cessantes, atualizados desde os respectivos vencimentos e com juros de mora de 1% desde a citação; e , (3) ao pagamento das despesas processuais e dos honorários advocatícios que arbitro em 10 % da condenação (e-STJ, fls. 386/391).
+O Tribunal a quo negou provimento ao apelo das rés, em acórdão a seguir ementado:
+COMPROMISSO DE COMPRA E VENDA - BEM IMÓVEL LOTEAMENTO - ATRASO NA ENTREGA DO BEM. Parcial procedência - Problemas com entraves administrativos para a aprovação do loteamento não afastam a responsabilidade das rés - Hipóteses de fortuito interno - Mora configurada Aplicação do CDC - Cabimento de indenização, a título de lucros cessantes, face à impossibilidade de obtenção de renda com o imóvel, que não se confunde com o dano hipotético Inteligência da Súmula 162, do TJSP Obrigação de entregar o lote adquirido pelos autores, no prazo de noventa dias a contar do trânsito em julgado da r. sentença, que deve subsistir Rés que devem buscar a pronta realização da vistoria necessária à conclusão do loteamento junto à Prefeitura do Município de Cotia/SP Obrigação que não se afigura impossível Astreintes fixadas em valor razoável e que devem ser mantidas Majoração dos honorários advocatícios sucumbenciais (art. 85, §§1º a 11, NCPC) Sentença mantida - Recurso não provido (e-STJ, fls. 445).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 467).
+Irresignados, SP 12 e outros interpuseram recurso especial, com fulcro no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 393, 402, 403 e 884 do Código Civil.
+Sustentaram em suma, que (1) os lucros cessantes não podem ser presumidos, devendo ser comprovados, não se aplicando no caso de terreno em loteamento; (2) a multa diária aplicada em razão do descumprimento da obrigação de fazer se mostra desproporcional, ensejando enriquecimento indevido dos recorridos, o que é vedado em nosso ordenamento jurídico (e-STJ, fl. 476).
+Após transcorrer in albis o prazo para apresentação das contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 529/532).
+É o relatório.
+DECIDO.
+O recurso não comporta provimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos a decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Dos lucros cessantes (arts. 402 e 403 e dissídio)
+A Corte de origem afastou a existência de excludente de ilicitude (caso fortuito e/ou força maior) apta a ensejar o reconhecimento de que não houve atraso na entrega do imóvel, resultando, dai, o inadimplemento de obrigação primária do empreendedor imobiliário, do qual decorre o dever de ressarcir os prejuízos causados ao adquirente.
+A esse respeito, confira-se:
+Extrai-se dos autos que os autores adquiriram um lote de terreno, com previsão de entrega para maio/2013.
+Ocorre que até a propositura da ação não houve entrega do imóvel, razão pela qual pretende os autores pretendem, dentre outras coisas, a condenação das rés à entrega do lote em questão, bem como a condenação destas últimas ao pagamento de indenização por danos morais e lucros cessantes.
+As rés, por sua vez, insistem na tese de que não teria havido inadimplemento contratual e de que somente demoraram a concluir o loteamento em razão de embargo judicial da obra, bem como em virtude da omissão da SABESP no que tange à implantação da rede de água e esgoto.
+Tais alegações, contudo, não merecem ser acolhidas.
+Inicialmente, cumpre ressaltar que embora as rés pretendam fazer crer que não houve atraso na entrega do lote, haja vista que possuiriam o prazo de quatro anos para concluir as obras do loteamento, tal alegação não se sustenta, haja vista que os informes publicitários veiculados previam expressamente que as obras seriam entregues até maio/2013 (fls. 89/94).
+Tal oferta não só vincula os fornecedores, nos termos do art. 30 do CDC (fls. 89/94), como também foi determinante para que os autores optassem por celebrar o negócio jurídico envolvendo a compra de lote com as rés.
+Assim, uma vez que o loteamento não foi concluído no prazo previsto (maio/2013), não há como afastar a mora reconhecida na r. sentença recorrida.
+ ..
+Nem se alegue que os lucros cessantes configuram, neste caso, dano hipotético. Isto porque, existindo a probabilidade de ganho futuro com o imóvel, só não seria indenizável caso as rés, nos termos do art. 373, inciso II, do Código de Processo Civil, comprovassem que aquilo não se concretizaria, o que no caso dos autos não logrou êxito em demonstrar. Ademais, é preciso distinguir os lucros cessantes do dano emergente, porque aquele é fundado em mera probabilidade, enquanto o último é aquilo que efetivamente deixou de ganhar (e-STJ, fls. 447/450).
+Tal entendimento está em sintonia com a jurisprudência dominante firmada nesta Corte, no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes.
+Nesse caso, há presunção de prejuízo do promitente-comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável.
+A propósito, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO INJUSTIFICADO NA ENTREGA DO BEM. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. PRECEDENTES. DANO MORAL. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, descumprido o prazo para entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, havendo presunção de prejuízo do promitente-comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável.
+ .. .
+3. Agravo interno desprovido.
+(AgInt no REsp 1642107/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 7/11/2017, DJe 13/11/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA. ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. LUCROS CESSANTES. CABIMENTO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ .. .
+3. A jurisprudência consolidada neste Sodalício é no sentido de que a inexecução do contrato de promessa de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta, além de dano emergente, figurado nos valores das parcelas pagas pelo promitente-comprador e lucros cessantes. Há presunção de prejuízo do promitente-comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1075056/MA, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 15/8/2017, DJe 18/8/2017).
+Assim, estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+(2) Da multa diária aplicada (arts. 393 e 884 do CC/02)
+Com relação ao tema, o acórdão recorrido assim se manifestou:
+Quanto à multa diária fixada pelo MM. Juiz a quo para a hipótese de descumprimento da referida determinação, no valor de R$ 200,00/dia, limitado a 300 dias, entendo que o montante arbitrado é razoável e consentâneo à natureza da obrigação.
+Daí porque a r. sentença recorrida está correta e deve ser integralmente mantida (e-STJ, fls. 452).
+De acordo com a jurisprudência do STJ, não cabe, em regra, a revisão de valor fixado a título de astreintes na instância especial, salvo se notoriamente excessivo ou se revelar insuficiente, sob pena de incidir-se em vedado reexame de elementos fáticos, instrumentalizado no enunciado nº 7 da Súmula do STJ.
+Nesse sentido, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.  .. . EXCLUSÃO DAS ASTREINTES, POR EXCESSIVAS. PREVISÃO DO ART. 537, § 1º, DO CPC/2015. REVISÃO DA CONCLUSÃO PELA EXCESSIVIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Para se analisar os argumentos trazidos no recurso especial, seria necessário o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1212011/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, DJe 22/8/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DESCUMPRIMENTO DE DECISÃO JUDICIAL. MAJORAÇÃO DAS ASTREINTES. ALTERAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO IMPROVIDO.
+1. O Tribunal estadual, ao dirimir a controvérsia, concluiu que não houve cumprimento da decisão judicial na sua integralidade, sendo cabível a majoração da multa. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+(AgInt no AREsp 1235935/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 13/8/2018)
+No caso em testilha, o Tribunal de origem, com espeque no acervo fático-probatório dos autos, fixou a multa diária em R$ 200,00 (duzentos reais), limitando-a, contudo, a 300 dias - resultando, por simples cálculo aritmético, no montante de R$ 60.000,00 (sessenta mil reais) -, quantia essa que entendeu razoável pelo descumprimento da ordem judicial, especialmente porque este valor seria resultado da recalcitrância das rés em cumprir a determinação judicial.
+Sendo assim, a convicção a que chegou o acórdão decorreu da análise do conteúdo fático da causa, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, vez que o valor das astreintes não se revela exorbitante.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Majoro os honorários advocatícios anteriormente fixados em desfavor de SP 12 EMPREENDIMENTOS IMOBILIÁRIOS, RESIDENCIAL RAPOSO TAVARES LTDA e [NOME] em 5% sobre o valor atualizado da causa, limitados a 20%, nos termos do art. 85, § § 2º e 11, do NCPC.
+Por fim, advirto que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
