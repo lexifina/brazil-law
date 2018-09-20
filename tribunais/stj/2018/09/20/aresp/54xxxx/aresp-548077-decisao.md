@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo (art. 544, do CPC/73), interposto por [NOME], contra decisão que não admitiu recurso especial (fls. 4.328/4329, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 4.260/4.273, e-STJ):
+AGRAVO DE INSTRUMENTO. FALÊNCIA. INSURGÊNCIA COM A DECISÃO QUE FIXOU A REMUNRAÇÃO DO SÍNDICO EM 12% DA RECEITA AUFERIDA. LEGITIMIDADE DO TERCEIRO QUE DETÉM CRÉDITO PROVENIENTE DE RESTITUIÇÃO PARA RECORRER. PERCENTUAL QUE CORRESPONDE AO DOBRO DO TETO MÁXIMO PREVISTO EM LEI (ART. 67 DO DECRETO-LEI 7.661/45). AUSÊNCIA DE EXPLICITAÇÃO DETALHADA DOS MOTIVOS DO PERCENTUAL FIXADO. EXISTÊNCIA DE VALORES JÁ ADIANTADOS AO SÍNDICO A ESSE TITULO, QUE DEVEM SER DESCONTADOS DA REMUNERAÇÃO. CAPACIDADE FINANCEIRA DA MASSA. RECURSO PROVIDO PARA REVOGAR A DECISÃO AGRAVADA.
+1. Em se tratando de restituição decorrente de adiantamento de contratos de câmbio, portanto, em dinheiro, em vista de sua intrínseca fungibilidade, a prévia arrecadação mostrar-se-ia condição a rigor impossivel. Razão pela qual, a restituição fica a roço da massa falida, que deverá atendê-la antes de qualquer crédito.
+2. Assim, o credor com direito à restituição - crédito extraconcursal - tanto quanto qualquer outro que se subordina ao quadro geral de credores* tem legitimo interesse na composição e destinação do patrimônio da massa, pois é deste patrimônio que receberá o seu crédito. Em corolário, tem legitimidade para recorrer da decisão que fixou a remuneração do síndico.
+3. A remuneração do síndico será fixada pelo Juiz, tendo em vista a importância de seus trabalhos, o tempo de efetiva gerência, as funções e responsabilidades assumidas e, ainda, o volume e a importância da massa. O art. 67 do Decreto-Lei 7661/45 fixa os percentuais máximos para este desiderato, os quais se referem a todo o exercício da sindicância e não ao valor individualmente considerado como remuneração de cada síndico que atuou na gestão dos interesses da massa falida.
+4. Admite-se, excepcionalmente, a fixação da remuneração do síndico em percentual superior àqueles legalmente estatuídos, se as peculiaridades do caso assim reclamarem;
+cabendo ao julgador, nessa hipótese, promover uma explícitação detalhada dos motivos do percentual fixado, já que exceção à regra legal.
+5. Uma vez demonstrada que a massa falida não dispõe de patrimônio realizável suficiente para inaugurar o paqamento dos credores subordinados ao concurso coletivo, não é razoável fixar a remuneração do gestor da massa em percentual que extrapole os limites fixados na lei de regência.
+Na origem, a demanda proposta por RIO SÃO FRANCISCO COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS versa sobre agravo de instrumento visando reduzir os honorários do síndico da massa falida, ora Recorrente.
+O Tribunal a quo deu provimento ao agravo de instrumento interposto.
+Em suas razões de recurso especial, o Recorrente aponta ofensa ao art. 67, § 5º, do Decreto Lei 7.661/45 (fls. 4.278/4.287, e-STJ). Sustenta, em síntese, a ilegitimidade da Recorrida.
+Contrarrazões às fls. 4.301/4.322, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de incidir ao presente caso a súmula 7 do STJ.
+Daí o presente agravo (art. 544 do CPC/73), no qual o Agravante lança argumentos a fim de combater o retrocitado óbice.
+Contraminuta às fls. 4.342/4364, e-STJ.
+Parecer ministerial às fls. 4.377/4.380, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 1973 a este julgado, com amparo no Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. Inviável o acolhimento da pretensão recursal, porquanto a reversão do entendimento adotado pelo Tribunal local, o qual decidiu que a Rio São Francisco Companhia Securitizadora de Créditos Financeiros teria legitimidade para recorrer, demandaria o reexame do contexto fático-probatório do processo, providência esta vedada em sede de recurso especial, a teor do óbice da Súmula 7 do STJ.
+É, aliás, o que se extrai do seguinte excerto (fls. 4.260/4.273, e -STJ):
+"Alega a massa falida Curtume Berger Ltda que a agravante Rio São Francisco Companhia Securitizadora de Créditos Financeiros não tem legitimidade para recorrer do despacho que arbitrou a remuneração do atual síndico.  ..  Conquanto "a restituição de adiantamento não se confunda com os créditos da massa falida, não se sujeitando ao concurso geral de credores, tampouco à necessidade de arrecadação pelo síndico"", não se pode olvidar, no que diz respeito a adiantamento de contrato de câmbio, que é a massa quem deverá restituir à Cia Securitizadora os valores que esta adiantou à falida, devidamente corrigidos.
+É que em se tratando de restituição decorrente de adiantamento de contratos de cambio, portanto, em dinheiro, em vista de sua intrínseca fungibilidade, a prévia arrecadação mostrar-se-ia condição a rigor impossível. Razão pela qual, a restituição fica a roço da massa falida, que deverá atendê- la antes de qualquer crédito.  ..  Nessa prumada, cabendo a restituição do dinheiro outrora entregue ao falido à massa falida, é correto falar em crédito proveniente da restituição, classificando-se como crédito extraconcursal".
+Nesse sentido, confira-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DIREITO AUTORAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LEGITIMIDADE ATIVA. SÚMULA 7 DO STJ. FOTOGRAFIA REPRODUZIDA EM CARTÕES TELEFÔNICOS SEM A DEVIDA AUTORIZAÇÃO DO AUTOR. DEVER DE INDENIZAR. DANOS MATERIAIS. VALOR A SER APURADO COM BASE NO ART. 103, DA LEI DOS DIREITOS AUTORAIS. DANO MORAL CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Sendo o magistrado o destinatário da prova, e a ele cabe decidir sobre o necessário à formação do próprio convencimento. Desse modo, a apuração da suficiência dos elementos probatórios que justificaram o indeferimento do pedido de produção de provas demanda reexame do contexto fático-probatório, providência vedada pela Súmula 7/STJ. Precedentes.
+2. Do mesmo modo, a convicção a que chegou o acórdão acerca da legitimidade ativa da parte recorrida para a presente demanda decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+3. A simples publicação de fotografias, sem indicação da autoria, como se fossem obra artística de outrem, é suficiente à caracterização do dano moral e a proteção dos direitos autorais sobre fotografias está expressamente assegurada, nos termos do inciso VII, do art. 7º, da Lei 9.610/98.
+4. A sanção do parágrafo único do art. 103 da Lei 9.610/98 tem sua aplicação condicionada à impossibilidade de identificação numérica da contrafação.
+5. Agravo interno não provido.
+(AgInt no Resp 1.457.774/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19.09.17, Dje 25.09.17)
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, nego provimento ao agravo.
+Publique-se. Intimem-se.
