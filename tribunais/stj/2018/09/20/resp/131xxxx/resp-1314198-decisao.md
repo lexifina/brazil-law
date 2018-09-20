@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAIXA SEGURADORA S/A, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 1.766/1.768):
+PRELIMINAR. ILEGITIMIDADE PASSIVA AD CAUSA. AÇÃO DE RESPONSABILIDADE OBRIGACIONAL. PREJUDICIAL AFASTADA,
+"No contrato de seguro habitacional, vige o principio do risco integral. Desta forma, a existência de cláusula que particulariza os riscos cobertos não deve ser considerada exaustiva, mas meramente exemplificativa, cedendo lugar ao interesse maior que é o privilégio da segurança, razão de ser do próprio seguro. Além do mais, por ser típico contrato de adesão, o seguro habitacional é simplesmente imposto ao mutuário do Sistema Financeiro de Habitação, sem qualquer discussão sobre suas cláusulas e condições, merecendo, em hipótese de dúvida sobre seu alcance, interpretação mais favorável à parte que ao pacto adere". (AC n. 2002. 002758-8, Rel. Desª. Salete Silva Sommariva, DJ de 16-9-2004).
+[NOME]. CASAS POPULARES EDIFICADAS COM RECURSOS DO SISTEMA FINANCEIRO DE HABITAÇÃO. DANOS FÍSICOS NOS IMÓVEIS DECORRENTES DE VÍCIOS DE CONSTRUÇÃO. COBERTURA SECURITÁRIA CONTRATUALMENTE ESTIPULADA. INDENIZAÇÃO DEVIDA.
+"Os vícios de construção são passíveis de indenização pois não estão excluídos da cobertura do seguro e o fato de os danos serem provenientes de falhas construtivas não isenta a seguradora do dever de indenizar." (AC n. 2008.036173-7, de Palhoça, Rel. Des. Edson Ubaldo, DJ de 12-2-2009)
+"Constatada, através da prova pericial técnica produzida, a existência de desabamento de elementos estruturais da cobertura, assoalho e/ou paredes dos imóveis, ou, ainda, de efetivo risco de desabamento em cada uma das residências vistoriadas ainda não reparadas pelos próprios mutuários, em decorrência de causa externa, qual seja, vício de construção, exsurge evidente a obrigação da seguradora indenizar estes sinistros, através do pagamento dos valores apontados na perícia, conforme expressamente determina a apólice ao prever a cobertura dos eventos desabamento parcial e ameaça de desmoronamento, ressalvando-lhe o direito de regresso contra a construtora do conjunto habitacional." (AC n. 2001.016734-4, de Curitibanos, Rel. Des. Carlos Prudêncio, DJ de 1-11-2001)
+MULTA DECENDIAL ALEGADA EXCLUSÃO DE SUA APLICABILIDADE FACE AO NÃO DESCUMPRIMENTO DO CONTRATO DE SEGURO. MUDANÇA UNILATERAL E SEM O CONHECIMENTO DO MUTUÁRIO. INCIDÊNCIA DA MULTA.
+Configurada a inadimplência ou a mora da seguradora no pagamento da indenização, a multa decendial é válida e eficaz, porquanto pactuada expressamente no contrato de seguro, consoante cláusula 17a da apólice.
+A multa decendial é devida pelo fato de que a alteração relativa a sua exclusão foi realizada unilateralmente e sem o conhecimento das mutuárias.
+MORA. PRESSUPOSTO PARA A SUA OCORRÊNCIA CONFIGURADO PELO DECURSO DO PRAZO PREVISTO PARA O ADIMPLEMENTO DA INDENIZAÇÃO. RECURSO NÃO PROVIDO.
+"Decorrido o prazo contratual para que a seguradora providenciasse a reparação dos imóveis com a devida indenização, estará configurada a mora, uma vez que trouxe enormes prejuízos para os mutuários." (AC n. 2007.015606-1, de Modelo, Rel. Des. Carlos Prudêncio, DJ de 25-9-2007)
+RECURSO DOS AUTORES. "CONTROVÉRSIA ACERCA DE INTERPRETAÇÃO CONTRATUAL DISCUSSÃO DIRIMIDA EM FAVOR DO CONSUMIDOR HIPOSSUFICIENTE. DANOS COBERTOS. CLÁUSULACONTRATUAL POSSIBILITANDO REPOSIÇÃO DO IMÓVEL AO STATU QUO. CLÁUSULA ABUSIVA.
+É nula cláusula contratual que estabelece forma alternativa da seguradora cumprir sua obrigação para com o segurado, se em pecúnia ou através de reconstrução do imóvel. "(AC n. 2008.058154-2, de São José, Rel. Des. Carlos Adilson Silva)
+HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO PARA 15% (QUINZE POR CENTO) (SOBRE O VALOR DA CONDENAÇÃO, EXEGESE DO PARÁGRAFO 1º, DO ARTIGO 11, DA LEI N. 1.060/1950. RECURSO PROVIDO PARCIALMENTE.
+Em atendimento aos critérios do art. 20, § 3o, do CPC por serem os autores beneficiários da assistência judiciária gratuita, os honorários advocatícios devem ser minorados para o percentual de 15% (quinze por cento) sobre o valor da condenação, a fim de remunerar de forma justa o trabalho dispendido pelo profissional.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 109, I, da CF; 14 e 27 do CDC; 47, 219, § 5º e 333, I, do CPC/1973; 206, § 1º, II, b, 186, 476, 618, 757, 760, 769, 771 e 784 do CC/2002; 159, 178, § 6º, II, 1.245, 1.420, 1.435, 1.454, 1.455, 1.457, 1.459 e 1.460 do CC/1916; às Súmulas 101, 150 e 327 do STJ.
+Sustenta, em síntese:
+i) a necessidade de participação do agente financeiro (CEF) como litisconsorte nos feitos que envolvam o SFH e, por conseguinte o deslocamento da Justiça Federal para processar e julgar o feito;
+ii) a sua ilegitimidade passiva ad causam, pois inexistente cobertura quanto à ocorrência de vícios construtivos, o que afasta a sua responsabilidade pela indenização em pecúnia, pois a sua obrigação "é de restaurar o imóvel" (fl. 1.855);
+iii) a prescrição ânua, contado a partir da ciência do fato gerador;
+v) a improcedência da multa decendial ou a sua limitação ao valor da obrigação principal.
+Aponta julgados para defender as suas teses.
+Contrarrazões apresentadas.
+Não tendo sido admitido o recurso na origem foi interposto agravo, ao qual foi determinada a sua conversão em especial, para melhor exame da matéria.
+É o relatório. Passo a decidir.
+Cumpre salientar que o recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+De início, em relação à suscitada ofensa a dispositivo da Constituição Federal, ressalta-se que embora seja dever de todo magistrado velar a Carta Magna, para que se evite supressão de competência do egrégio STF, não se admite apreciação, em sede de recurso especial, de matéria constitucional, ainda que para viabilizar a interposição de recurso extraordinário.
+Da mesma forma, impossível a apreciação de enunciado de súmula, o que afasta a possibilidade de conhecimento quanto à suposta violação das Súmulas 101, 150 e 327, todas do STJ.
+As matérias trazidas no recurso especial quanto à necessidade de participação da CEF (litisconsórcio), à aplicação da Lei 12.409/2011 e à prescrição, não foram objeto de debate e decisão na instância a quo, não obstante a oposição de embargos declaratórios. E a parte recorrente, ao interpor o recurso especial, não alegou violação do art. 535 do CPC de 1973.
+Desse modo, tendo em vista a falta do indispensável prequestionamento do tema infraconstitucional suscitado na petição do apelo especial, deve ser aplicado o princípio estabelecido na Súmula 211/STJ.
+Esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração.
+Quanto à legitimidade e a responsabilidade da seguradora pela indenização securitária, o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, segundo a qual, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice (fls. 1.773/1.1775 e-STJ).
+Assim, tendo entendido a Corte de origem, interpretando as cláusulas contratuais, que os vícios construtivos comportavam cobertura, para se concluir em sentido contrário seria indispensável a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que, na via estreita do recurso especial, esbarra nas Súmulas 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1.305.102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 19/02/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DANOS CONSTRUTIVOS EM IMÓVEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno. Precedentes.
+2. Com base no princípio da dialeticidade recursal, não se conhece do agravo interno que veicula razões dissociadas dos fundamentos da decisão singular.
+3. A conclusão do acórdão recorrido, quanto à legitimidade ativa, adotada com base exclusivamente nos instrumentos anexos ao contrato de seguro, é insuscetível de reexame em sede de recurso especial, em razão do óbice da Súmula 5/STJ.
+4. Verificar se a apólice do seguro habitacional excluiria de modo válido a cobertura de vícios de construção demandaria na interpretação das cláusulas do ajuste, juízo obstado pelo óbice das Súmulas 5 e 7/STJ.
+5. Agravo interno conhecido em parte e, na extensão, desprovido.
+(AgInt no REsp 1581014/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2018, DJe 28/05/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE COBERTURA. AUSÊNCIA DE PREVISÃO. APÓLICE. VÍCIOS DE CONSTRUÇÃO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A Corte local, analisando os fatos e as provas dos autos, asseverou que a demandada não pode ser responsabilizada pelos vícios construtivos alegados na exordial, por não estarem cobertos na apólice securitária, a qual, ainda que seja oriunda de pacto de adesão, possui cláusulas expressas.
+2. Infirmar a conclusão do Tribunal estadual (acerca da abrangência dos danos cobertos no contrato de seguro e da clareza de suas cláusulas) exigiria, indubitavelmente, o revolvimento fático-probatório destes autos, inclusive a interpretação de cláusulas contratuais, o que não se admite no âmbito do recurso especial, ante o disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1184189/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+No que tange à multa decendial, nos termos da jurisprudência desta Corte de Justiça, "a multa decendial, devida em função do atraso no pagamento da indenização objeto do seguro obrigatório, nos contratos vinculados ao Sistema Financeiro da Habitação, é devida aos mutuários, dado o caráter acessório que ostenta em relação à indenização securitária e deve estar limitada ao valor da obrigação principal" (AgRg no AREsp 377.520/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/10/2013, DJe 04/11/2013).
+No tópico, a Corte de origem detectou que há previsão expressa no contrato de incidência da referida penalidade. Assim, o cabimento da multa decendial foi analisado pela Corte de origem com base na interpretação de cláusulas contratuais, cujo reexame é vedado em sede de recurso especial, nos termos da Súmula 5/STJ (fl. 1.776).
+Com efeito, as Turmas que compõem a Segunda Seção do STJ tem orientação firmada no sentido de que, nos contratos vinculados ao Sistema Financeiro da Habitação, a aludida multa decendial, pactuada para os casos de atraso no pagamento da indenização objeto do seguro obrigatório, deve estar limitada ao valor da obrigação principal.
+Nessa linha de entendimento, citam-se os seguintes julgados:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MULTA DECENDIAL. LIMITAÇÃO. PRINCIPAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Deve ser afastada a alegada violação ao artigo 535 do Código de Processo Civil se a questão trazida à discussão foi dirimida, pelo Tribunal de origem, de forma suficiente e fundamentada.
+2. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. A jurisprudência do STJ é firme no sentido de que a multa decendial pactuada para o atraso do pagamento da indenização é limitada ao montante da obrigação principal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 842.961/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/09/2017, DJe 26/09/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR VÍCIOS DE CONSTRUÇÃO. MULTA DECENDIAL. LIMITAÇÃO AO VALOR DA OBRIGAÇÃO PRINCIPAL. SÚMULA Nº 83/STJ.
+1. A jurisprudência desta Corte é firme no sentido de que a multa decendial pactuada para o atraso do pagamento da indenização é limitada ao montante da obrigação principal. Incidência, portanto, do Enunciado nº 83/STJ.
+2. Agravo interno não provido.
+(AgInt no REsp 1581438/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/08/2017, DJe 06/09/2017)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. SEGURO HABITACIONAL - MULTA DECENDIAL - LEGALIDADE DE SUA COBRANÇA QUANDO PREVISTA NO CONTRATO - LIMITAÇÃO PELO VALOR DA OBRIGAÇÃO PRINCIPAL - ART. 920 DO CÓDIGO CIVIL DE 1916 - RECURSO PROVIDO.
+É devida a multa decendial, pactuada entre as partes para o caso de atraso do pagamento da indenização, limitada ao valor da obrigação principal (art. 920 do Código Civil de 1916).
+(REsp 870.358/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 7/5/2009)
+Quanto à alegação da necessidade de limitação da multa decendial (fl. 1.860), o acórdão recorrido consignou o seguinte:
+Quanto ao pedido de limitação da multa decendial ao valor da obrigação principal, destaco que não há sucumbência nesse aspecto, pois  Juiz ao determinar a sua incidência, ressaltou que o valor da multa deverá obedecer a limitação imposta pelo disposto no artigo 412 do Código Civil, (artigo 920 do Código Civil de 1916), conforme fl. 1.608.
+Como se vê, a parte recorrente carece de interesse recursal, no ponto, porquanto a Corte local já decidiu no sentido do seu inconformismo.
+Diante do exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se.
