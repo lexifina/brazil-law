@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 152, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE REPARAÇÃO CIVIL. PRODUÇÃO DE PROVAS. DESCABIMENTO DO RECURSO. ROL TAXATIVO DO ART. 1.015 DO CPC. INADIMPLEMENTO CONTRATUAL.
+PRESCRIÇÃO.
+1. A decisão sobre a produção de provas não está prevista dentre as hipóteses elencadas no rol taxativo do artigo 1.015 do novo Código de Processo Civil, o que dá ensejo ao não conhecimento do recurso nesta parte, nos termos do artigo 932, III, do referido diploma legal, por absoluta inadmissibilidade.
+2. À pretensão de reparação civil por danos decorrentes de inadimplemento contratual aplica-se o prazo prescricional de 10 (dez) anos, previsto no art.
+205 do Código Civil.
+AGRAVO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.
+Nas razões do especial (fls. 308-313, e-STJ), o insurgente aponta violação ao artigo 206, § 3º, V do Código Civil. Sustenta, em síntese, que "ainda que o pleito de reparação civil decorra, no caso, de relação contratual (compromisso de compra e venda), a prescrição incidente na hipótese de reparação de danos morais e materiais deve ser aquela prevista no artigo 206, § 3º, V do CCB, isto é, trienal".
+Contrarrazões às fls. 195/205, e-STJ.
+Em juízo de admissibilidade, o reclamo foi admitido, ascendendo os autos a esta Corte (fls. 207/208, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Cinge-se a controvérsia acerca do prazo prescricional aplicável à hipótese dos autos. Sustenta o recorrente que "impõe-se aplicar, ao caso dos autos, o prazo prescricional trienal, ainda que a pretensão indenizatória resulte de alegado inadimplemento contratual".
+É incontroverso, portanto, que a pretensão deduzida na demanda decorreu do inadimplemento contratual.
+Desta forma, o acórdão recorrido está em harmonia com a jurisprudência deste Tribunal Superior, no sentido de ser aplicável o prazo prescricional decenal (artigo 205 do Código Civil) às demandas fundadas em responsabilidade civil decorrentes de inadimplemento contratual.
+A Segunda Seção desta Corte, no julgamento do EREsp 1280825/RJ, de relatoria da Ministra NANCY ANDRIGHI, DJe 02/08/2018, deliberou que "Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional".
+Confira-se, a propósito, a ementa do referido julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL. INTERPRETAÇÃO SISTEMÁTICA. REGIMES JURÍDICOS DISTINTOS. UNIFICAÇÃO. IMPOSSIBILIDADE. ISONOMIA. OFENSA. AUSÊNCIA.
+1. Ação ajuizada em 14/08/2007. Embargos de divergência em recurso especial opostos em 24/08/2017 e atribuído a este gabinete em 13/10/2017.
+2. O propósito recursal consiste em determinar qual o prazo de prescrição aplicável às hipóteses de pretensão fundamentadas em inadimplemento contratual, especificamente, se nessas hipóteses o período é trienal (art. 206, §3, V, do CC/2002) ou decenal (art. 205 do CC/2002).
+3. Quanto à alegada divergência sobre o art. 200 do CC/2002, aplica-se a Súmula 168/STJ ("Não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado").
+4. O instituto da prescrição tem por finalidade conferir certeza às relações jurídicas, na busca de estabilidade, porquanto não seria possível suportar uma perpétua situação de insegurança.
+5. Nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/02) que prevê dez anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/02, com prazo de três anos.
+6. Para o efeito da incidência do prazo prescricional, o termo "reparação civil" não abrange a composição da toda e qualquer consequência negativa, patrimonial ou extrapatrimonial, do descumprimento de um dever jurídico, mas, de modo geral, designa indenização por perdas e danos, estando associada às hipóteses de responsabilidade civil, ou seja, tem por antecedente o ato ilícito.
+7. Por observância à lógica e à coerência, o mesmo prazo prescricional de dez anos deve ser aplicado a todas as pretensões do credor nas hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos por ele causados.
+8. Há muitas diferenças de ordem fática, de bens jurídicos protegidos e regimes jurídicos aplicáveis entre responsabilidade contratual e extracontratual que largamente justificam o tratamento distinto atribuído pelo legislador pátrio, sem qualquer ofensa ao princípio da isonomia.
+9. Embargos de divergência parcialmente conhecidos e, nessa parte, não providos.
+(EREsp 1280825/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 27/06/2018, DJe 02/08/2018)  grifou-se
+Ainda, no mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO PARA AFASTAR A PRESCRIÇÃO.
+INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. Nos termos da jurisprudência desta Corte, aplica-se o prazo prescricional decenal previsto no artigo 205 do CC às pretensões indenizatórias decorrentes de inadimplemento contratual. Precedentes. 2. Agravo interno desprovido.
+(AgInt no REsp 1399280/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2018, DJe 12/09/2018)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+ ..  4. A jurisprudência do STJ firmou-se no sentido de ser aplicável o prazo prescricional decenal (artigo 205 do Código Civil) às pretensões indenizatórias decorrentes de inadimplemento contratual.
+Precedentes. Inviável, em sede de recurso especial, rever os marcos temporais e eventos que levaram a Corte estadual a afastar a ocorrência da prescrição. Incidência da Súmula 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 132.795/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2018, DJe 13/09/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO CIVIL. PRAZO PRESCRICIONAL. SÚMULA 83 DO STJ. DEVER DE INDENIZAR. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. O STJ possui firme o entendimento no sentido de ser aplicável o prazo prescricional decenal (artigo 205 do Código Civil) às demandas fundadas em responsabilidade civil decorrentes de inadimplemento contratual. Incidência da Súmula 83 do STJ.  ..  4. Agravo interno não provido. (AgInt nos EDcl no AgInt no AREsp 1060257/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/08/2018, DJe 24/08/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ILÍCITO CONTRATUAL. PRESCRIÇÃO AFASTADA. PRAZO DE DEZ ANOS. INTELIGÊNCIA DO ART. 205 DO CÓDIGO CIVIL. AGRAVO PROVIDO. 1. A jurisprudência do STJ firmou-se no sentido de ser aplicável o prazo prescricional decenal (art. 205 do Código Civil) às demandas fundadas em responsabilidade civil decorrente de inadimplemento contratual, razão pela qual deve ser afasta a prescrição. 2. Agravo interno provido. (AgInt no AgInt nos EDcl no REsp 1513839/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 23/08/2018)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AÇÃO DE COBRANÇA. RESCISÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO CONTRATUAL. PRAZO PRESCRICIONAL. DECENAL. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7 DO STJ. 1. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual. 2. Não cabe, em recurso especial, reexaminar conteúdo contratual, bem como matéria fático-probatória. Incidência dos Enunciados n.º 5 e 7/STJ. 3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. 4. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp 1498564/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/09/2017, DJe 29/09/2017)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). AÇÃO DE COBRANÇA. RESCISÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. INADIMPLEMENTO CONTRATUAL. PRAZO PRESCRICIONAL. DECENAL. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7 DO STJ. 1. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual. 2. Não cabe, em recurso especial, reexaminar conteúdo contratual, bem como matéria fático-probatória. Incidência dos Enunciados n.º 5 e 7/STJ. 3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. 4. AGRAVO INTERNO DESPROVIDO. (AgInt no REsp 1498564/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/09/2017, DJe 29/09/2017)  grifou-se
+Na hipótese, portanto, considerando que o acórdão recorrido está em consonância com a jurisprudência desta Corte acerca da matéria, incide o teor da Súmula 83/STJ, aplicável para recursos interpostos por ambas as alíneas do permissivo constitucional.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
