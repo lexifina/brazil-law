@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo manifestado por BANCO DO BRASIL S/A em face da decisão que negou seguimento ao recurso especial interposto contra acórdão assim ementado:
+PRESTAÇÃO DE CONTAS. SEGUNDA FASE. CONTRATO BANCÁRIO DE CONTA CORRENTE. TAXA DE JUROS. CONTRATO NÃO JUNTADO. APLICAÇÃO DA TAXA MÉDIA DE MERCADO. TARIFAS. AUSÊNCIA DE CONTRATAÇÃO. EXCLUSÃO. LANÇAMENTOS RELATIVOS A PAGAMENTOS DIVERSOS (EMPRÉSTIMOS, CONTAS, IMPOSTOS) E TRANSFERÊNCIAS. DÉBITOS EM PROVEITO DO CORRENTISTA. MANUTENÇÃO. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. SÚMULA 306/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA, EM PARTE PROVIDO.
+Mesmo sem autorização expressa, lançamentos relacionados com pagamentos de contas, débitos de parcelas de empréstimos e transferências de recursos não podem ser considerados indevidos, pois efetuados em proveito do correntista.
+Contra o referido acórdão, o ora agravante opôs embargos de declaração, afirmando que a Corte de origem deixou de examinar o teor da Resolução BACEN 2303, vigente durante a contratação sob revisão, a qual permite a cobrança de tarifas bancárias sem a autorização expressa do correntista, vedando apenas a cobrança por serviços considerados básicos no texto do ato normativo.
+Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação ao art. 535 do CPC.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno do autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
