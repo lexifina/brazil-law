@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/1973. ENFRENTAMENTO DA MATÉRIA PELO TRIBUNAL DE ORIGEM. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. TAXA DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). PREMISSA FÁTICA FIRMADA QUANTO AO RECONHECIMENTO DA CONTRATAÇÃO E NECESSIDADE DE RESTITUIÇÃO. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO DA PARTE RECORRIDA. TESE DEDUZIDA NAS RAZÕES DO AGRAVO INTERNO. AUSÊNCIA DE PRONUNCIAMENTO. INOVAÇÃO RECURSAL. AGRAVO INTERNO IMPROVIDO.
+1. O Colegiado estadual examinou, de forma expressa e fundamentada, a matéria controvertida submetida à sua apreciação, tendo concluído pela contratação dos Serviços de Assessoria Técnico-Imobiliária (Taxa SATI). Desse modo, a oposição dos embargos de declaração não era, de fato, necessária, levando-se em consideração que o julgador não está obrigado a examinar e responder todo questionamento formulado pelas partes, senão àqueles que sejam relevantes para a solução do litígio, o que foi feito na hipótese, motivo pelo qual a rejeição dos aclaratórios não implicou em negativa de prestação jurisdicional. Por consequência, a alegada ofensa ao art. 535 do CPC/1973 não ficou caracterizada, havendo, apenas, nítida insurgência meritória.
+2. A análise da tese referente à prescrição da pretensão da parte recorrida alegada somente em agravo interno configura inovação recursal, ainda que verse sobre matéria de ordem pública.
+3. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro (Presidente), Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por Liv Intermediação Imobiliária Ltda. contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 653):
+RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/1973. ENFRENTAMENTO DA MATÉRIA PELO TRIBUNAL DE ORIGEM. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. TAXA DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). RECONHECIMENTO DA CONTRATAÇÃO E NECESSIDADE DE RESTITUIÇÃO. REVER O JULGADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL IMPROVIDO.
+Em suas razões (e-STJ, fls. 495-505), a agravante sustenta que não pretende o reexame de provas, afirmando que o recurso especial teve como único objetivo a discussão referente à ofensa ao art. 535, II, do CPC/1973, em razão da omissão do acórdão estadual no tocante à ausência de desembolso, por parte do recorrido, referente ao pagamento de verbas de assessoria técnico-imobiliária (Taxa SATI).
+Pondera que, conquanto esta Turma Julgadora entenda pela necessidade de se reexaminar as provas dos autos para aferir o pagamento das verbas ora discutidas, nada impede o reconhecimento, de ofício, de que a pretensão objetivada pelo agravado está prescrita por conta do julgamento do RESp. n. 1.551.956/SP, o qual definiu a incidência da prescrição trienal sobre a pretensão de devolução de valores pagos a título de SATI.
+Não foi apresentada impugnação ao recurso (e-STJ, fl. 674).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Da leitura das razões recursais, constata-se que a parte ora recorrente não trouxe nenhuma argumentação capaz de modificar a conclusão da decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+Conforme elucidado na decisão monocrática, o Tribunal de origem, ao apreciar a questão referente à restituição dos valores pagos a título de assessoria imobiliária, declinou os seguintes fundamentos (e-STJ, fl. 604):
+ De outro lado, quanto à cobrança dos chamados "SATI" - serviços de assessoria técnico-imobiliária (fl. 103, parte final), tem-se que comportavam mesmo devolução. É que não havendo sido especificado o seu alcance, de forma diferenciada em relação aos serviços prestados pelos corretores, sua exigência constitui verdadeiro bis in idem em relação à comissão - esta, como acima afirmado, efetivamente devida -, sendo de rigor a condenação da ré à sua devolução total.
+ A repetição deve se dar em valor singelo - e não pelo dobro da soma -, já que além de não evidenciada efetiva má-fé na cobrança de tal despesa, seu ressarcimento só se operou após ampla discussão judicial - o que não dá ensejo à hipótese do parágrafo único do artigo 42 do Código de Defesa do Consumidor.
+Como se depreende da leitura das razões supramencionadas, houve expresso enfrentamento da matéria controvertida pelo acórdão recorrido, o qual concluiu pela efetiva contratação dos Serviços de Assessoria Técnico-Imobiliária (Taxa SATI), estipulada de forma autônoma no instrumento contratual de fl. 159 (e-STJ), sendo inevitável que a alteração dessa premissa fática não prescindiria do reexame do suporte probatório, o que é vedado pelo óbice da Súmula n. 7 do STJ.
+Dessa forma, permanece a compreensão de que a oposição dos embargos de declaração não era, de fato, necessária, levando-se em consideração que o julgador não está obrigado a examinar e responder todo questionamento formulado pelas partes, senão àqueles que sejam relevantes para a solução do litígio, o que foi feito na hipótese, motivo pelo qual a rejeição dos aclaratórios não implicou negativa de prestação jurisdicional.
+Portanto, tendo o Colegiado estadual examinado, de forma fundamentada, as questões submetidas à sua apreciação judicial na medida necessária para a solução da demanda, ratifica-se que a alegada ofensa ao art. 535 do CPC/1973 não ficou caracterizada, havendo, apenas, nítida insurgência meritória.
+Com relação à alegação de prescrição da pretensão do agravado, observa-se que a referida insurgência configura verdadeira inovação de tese recursal, porquanto não foi ventilada nas razões do recurso especial, o qual concentrou sua discussão a respeito da alegação de ofensa ao art. 535, II, do CPC/1973, e não sobre a legalidade, ou não, da cobrança de valores desembolsados pelos serviços de assessoria técnica.
+ Vale frisar que, mesmo sendo a referida matéria de ordem pública, não há como dispensar o devido prequestionamento.
+Como cediço, na linha da jurisprudência firmada nesta Corte, "é inviável a análise de teses alegadas apenas nas razões do agravo interno por se tratar de evidente inovação recursal" (AgInt no AREsp 642.154/RS, Relator o Ministro Ricardo Villas Bôas Cueva, julgado em 03/08/2017, DJe 18/08/2017)
+Nesse mesmo sentido, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO EMBARGANTE.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o reconhecimento da incidência da Súmula 283 do STF, por analogia. 1.1. Na linha dos precedentes do STJ, os argumentos apresentados apenas no regimental não são passíveis de conhecimento por importar indevida inovação recursal, em virtude da preclusão consumativa.
+2. Os embargos de terceiro constituem instrumento para a defesa pelo proprietário-possuidor ou apenas possuidor de bem objeto de indevida constrição por ordem judicial. Na hipótese de a ação principal estar baseada exclusivamente no fato da posse não são cabíveis embargos de terceiro fundamentados apenas em alegação de domínio.
+Inadequação da via processual eleita, sendo viável ação petitória para proteção da propriedade. Precedentes.
+2.1. Alterar a convicção formada nas instâncias ordinárias, especialmente quanto ao fato de o embargante jamais ter exercido a posse do imóvel, demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1321479/MA, Relator o Ministro Marco Buzzi, julgado em 17/08/2017, DJe 28/08/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Ausente o exame da matéria pelo Tribunal de origem, mesmo diante da oposição de embargos declaratórios, incide a Súmula n. 211/STJ.
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à indevida distribuição de lucros entre os sócios, demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+4. Incabível o exame de tese não exposta no recurso especial e invocada apenas em irresignação posterior, pois configura indevida inovação recursal.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1029493/SP, Relator o Ministro Antonio Carlos Ferreira, julgado em 17/08/2017, DJe 23/08/2017)
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
