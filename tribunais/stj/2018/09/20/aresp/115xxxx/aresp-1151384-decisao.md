@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por VIPLAN - VIAÇÃO PLANALTO LTDA, contra decisão que não admitiu recurso especial (fls. 293/294, e-STJ).
+O apelo nobre, fundamentado no art. 105, III, "a", desafia acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 238, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. NÃO COMPROVAÇÃO.
+Na hipótese em apreço, inexiste qualquer informação sobre a recuperação judicial a que a agravante alega ter se submetido.
+Nesses termos, não se pode depreender que o crédito exequendo existia na data do pedido de recuperação judicial, a justificar a alteração da competência para o juízo falimentar.
+Na origem, a demanda versa sobre agravo de instrumento, tendo por objeto decisão que deferiu a penhora do imóvel de titularidade da Recorrente.
+No entanto, a insurgente sustenta que a tramitação do cumprimento de sentença deve ocorrer no Juízo falimentar, enquanto não houver trânsito em julgado do processo de recuperação judicial, o qual foi extinto sem análise de mérito, mas foi objeto de recurso de apelação, ainda não julgado.
+O Tribunal de origem julgou improvido o recurso apresentado, sob o argumento de faltar nos autos a informação sobre o processo de recuperação judicial, tais como número da ação, data de requerimento e os créditos habilitados.
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 1.022, II, CPC/15, 6º, §4º, 7º, §1º, 47, 49, da Lei 11.101/2005 e 520, do CPC/73. Sustenta, em síntese, que o Juízo universal de falência seria competente para processar e julgar as execuções propostas após o pedido de recuperação judicial, assim como defende a impossibilidade de retomada das execuções após o transcurso do prazo de 180 dias.
+Não houve apresentação de contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que não houve violação ao art. 1.022, II, NCPC. Em relação à ofensa dos artigos 6º, §4º, 7º, §1º, 47, 49, da Lei 11.101/2005, 520, do CPC/73, segundo o tribunal de origem, o recurso encontra óbice no verbete sumula 07/STJ.
+Irresignada (fls. 2976/314, e-STJ), aduz a agravante que o reclamo merece trânsito, uma vez que não haveria incidência da súmula 7, do STJ, pois a controvérsia seria exclusivamente de direito.
+Não houve apresentação de contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. Quanto à apontada violação do artigo 1.022, II, do CPC/15 (art. 535, do CPC/73), não assiste razão aos recorrentes, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+Destaque-se, por oportuno, que a matéria apontada como omitida - competência do juízo de recuperação para autorizar a constrição patrimonial - foi objeto de debate pela Corte local, consoante denotam os seguintes excertos do acórdão recorrido (fls. 237/243, e-STJ):
+" ..  Conforme já destacado na decisão que negou o pedido de antecipação de tutela, o art. 49 da Lei nº 11.101/2005 prevê que "Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos." Desse modo, a legislação elenca como requisito para atrair a competência do juízo de falência, que o crédito vindicado seja existente à época do pedido de recuperação judicial. Ocorre que, no caso em comento, não consta na instrução deste agravo qualquer informação sobre a recuperação judicial a que a agravante se submeteu, não havendo sequer o número da ação, muito menos a data de seu requerimento e os créditos habilitados. Nesses termos, não se pode depreender que o crédito exequendo existia na data do pedido de recuperação judicial, a justificar a alteração da competência para o juízo falimentar. Assim, tendo em vista que a recorrente aduz a nulidade da decisão que determinou a penhora unicamente sob a alegação de incompetência do juízo prolator e ante a míngua de elementos suficientes para determinar a alteração da competência ao juízo de recuperação, mister a manutenção da decisão agravada.".
+Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual.
+3. No que diz respeito à violação aos artigos 6º, §4º, 7º, §1º, 47, 49, da Lei 11.101/2005, 520, do CPC/73 também não assiste razão à Agravante.
+A insurgente defende que apenas o juízo da vara de recuperação judicial poderia praticar atos de constrição patrimonial sobre o seu patrimônio, porquanto este deteria a exclusividade da gestão do seu patrimônio.
+No entanto, consoante entendimento do Tribunal de origem, não houve a juntada dos documentos aptos a comprovarem a existência do processo da recuperação judicial (fls. 237/243, e-STJ) :
+" ..  Ocorre que, no caso em comento, não consta na instrução deste agravo qualquer informação sobre a recuperação judicial a que a agravante se submeteu, não havendo sequer o número da ação, muito menos a data de seu requerimento e os créditos habilitados. .. ".
+Desse modo, alterar a conclusão do tribunal de origem, demandaria o reexame de fatos e provas, providência esta vedada pelo verbete sumular 07/STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO AUTÔNOMO. ANÁLISE DA INÉPCIA DA INICIAL PELA FALTA DE DOCUMENTOS INDISPENSÁVEIS. INCIDÊNCIA DO ENUNCIADO 7 DA SÚMULA DO STJ.
+1. Diante do princípio da dialeticidade, a agravante deve impugnar especificamente os fundamentos da decisão agravada. 2. Ausência de argumento destinado a atacar a inadequação de fundamento autônomo deduzido na decisão agravada.
+3. 1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1026249/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/05/2017, DJe 05/06/2017)
+4. Do exposto, com fundamento no art. 932, CPC/15 c/c a súmula 568 do STJ, nego seguimento ao agravo (art. 1.042, NCPC).
+Publique-se. Intimem-se.
