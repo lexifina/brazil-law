@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, instaurado por RÁPIDO TRANSPAULO LTDA - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 10ª Vara Cível da Comarca de Guarulhos/SP, no qual se processa a recuperação judicial da suscitante (Processo nº 1025650-49.2017.8.26.0224), e o r. Juízo da 3ª Vara do Trabalho de Canoas/RS, onde tramita a Reclamação Trabalhista nº 0021778-70.2017.5.04.0203, ajuizada por [NOME] de Vargas.
+Afirma a suscitante que em 14/07/2017, formulou pedido de recuperação judicial, cujo processamento foi deferido em 21/07/2017 pelo Juízo de Direito da 10ª Vara Cível da Comarca de Guarulhos/SP, com posterior suspensão de atos executórios relativos a créditos trabalhistas.
+Sustenta, contudo, que o r. juízo suscitado determinou o prosseguimento da ação reclamatória trabalhista em apreço, embora caiba ao juízo universal, com exclusividade, a deliberação de definição acerca do caráter concursal ou extraconcursal de créditos em processos de recuperação judicial.
+Postula, liminarmente, a fixação da competência do r. Juízo da 10ª Vara Cível da Comarca de Guarulhos/SP, para decidir sobre as questões que afetam o patrimônio da suscitante, bem como a suspensão do curso da ação trabalhista.
+No mérito, requer a confirmação da liminar, no tocante à competência do magistrado recuperacional.(fls. 1/33)
+Às fls. 119/121, este signatário indeferiu o pedido liminar.
+Contra o indeferimento da liminar, a suscitante opôs embargos de declaração, sustentando omissão "quanto à evidente sujeição do crédito à Recuperação Judicial". (fls. 131/135).
+Prestadas as informações (fls. 138/149 e 155/174), o MPF opinou pelo conhecimento do conflito, e declaração da competência do Juízo da Recuperação. (fls. 176/180).
+É o relatório.
+Decide-se.
+ 1. Consoante afirmado quando do exame do pedido liminar, a jurisprudência remansosa desta Corte Superior caminha no sentido que inexiste conflito de competência quando há processo de recuperação judicial em curso no Juízo Estadual e o Juízo especializado, nos autos de execução trabalhista envolvendo a empresa recuperanda, redireciona a execução contra empresa não albergada pelo manto do soerguimento. Nesse sentido, confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO DA RECUPERAÇÃO JUDICIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA SUSCITANTE, PELO JUÍZO LABORAL, PARA SE ALCANÇAR OS BENS DOS SÓCIOS. PATRIMÔNIO DOS SÓCIOS NÃO ABARCADO NA RECUPERAÇÃO JUDICIAL.
+SÚMULA 280/STJ. CONFLITO NÃO CONHECIDO. AGRAVO INTERNO QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO NÃO CONHECIDO.
+1. Cabe ao agravante, nas razões do agravo interno, trazer argumentos suficientes para impugnar os fundamentos da decisão agravada, conforme exigido pelo art. 1.021, § 1º, do CPC/2015, sob pena de não conhecimento do recurso.
+2. Não viola o juízo atrativo da falência a constrição pelo Juízo Laboral de bens dos sócios de sociedade empresária em recuperação judicial, quando em relação a ela foi promovida, na Justiça Especializada, a desconsideração da personalidade jurídica.
+3. "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa."
+4. Tendo em vista que o agravo interno foi interposto sem atender nem sequer os requisitos mínimos de admissibilidade, incide, na hipótese, a multa prevista no § 4º do art. 1.021 do CPC/2015, na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt no EREsp 1.120.356/RS, julgado em 24 de agosto de 2016.
+5. Agravo interno não conhecido, com aplicação de multa de 1% sobre o valor atualizado da causa.
+(AgInt no CC 145.697/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 09/11/2016, DJe 18/11/2016, grifado).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PELA JUSTIÇA DO TRABALHO. CONSTRIÇÃO DE BENS DOS SÓCIOS. NÃO CONFIGURAÇÃO DE CONFLITO.
+1. A desconsideração da personalidade jurídica ou o reconhecimento da existência de grupo econômico não é de competência exclusiva do Juízo que processa a recuperação judicial.
+2. Não se configura conflito de competência quando constrito bem de sócio da empresa em recuperação judicial, à qual, na Justiça do Trabalho, foi aplicada tal providência. Isso porque, em princípio, salvo decisão do Juízo da recuperação em sentido contrário, os bens dos sócios ou de outras sociedades do mesmo grupo econômico da devedora não estão sujeitos à recuperação judicial. Precedentes.
+3. Atuando as autoridades judiciárias no âmbito de sua competência, não se configura conflito positivo.
+4. Conflito de competência não conhecido.
+(CC 124.065/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 03/11/2016, grifado).
+E ainda: AgRg nos EDcl no CC 130.436/MT, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 27/11/2013, DJe 19/12/2013; EDcl no CC 100.592/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 25/08/2010, DJe 03/09/2010.
+Na hipótese dos autos, consoante o Juízo trabalhista consignou "(..) "(..) medidas de restrição do patrimônio em face das reclamadas em recuperação judicial restam vedadas (..) sendo da competência da Justiça Cível qualquer ato de execução em face das empresas Rápido Transpaulo Ltda e Transpaulo Logística Ltda." Acrescentou, ademais, que "(..) Determino, portanto a ser cumprida de imediato, a indisponibilidade dos ativos das empresas do grupo e pessoas físicas abaixo relacionadas, a ser levada a efeito por meio do Bacenjud, Renajud e CNIB, até o limite do valor atribuído aos pedidos da inicial: (..) 2) Sócios das reclamadas RÁPIDO TRANSPAULO LTDA e TRANSPAULO LOGÍSTICA LTDA, ambas em Recuperação Judicial, a saber: [NOME] (..) e SUPRIT PARTICIPAÇÕES LTDA." (fl. 81/86).
+2. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ não conheço do presente conflito de competência.
+Julgo prejudicados os embargos de declaração opostos às fls. 131/135, nos termos desta fundamentação.
+Publique-se. Intimem-se.
