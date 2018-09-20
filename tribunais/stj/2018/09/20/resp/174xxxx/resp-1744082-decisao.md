@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por MERCK S/A, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado:
+"Apelação cível. Ação de execução. Extinção do processo sem julgamento do mérito. Pressuposto de constituição e desenvolvimento válido e regular do processo. Ausência.
+A ausência de citação é causa de extinção do processo, sem resolução de mérito, por inexistência de pressuposto de constituição e desenvolvimento válido e regular.
+Recurso não provido." (fl. 125).
+No especial, a parte recorrente aponta ofensa ao art. 267, III, § 1º, do CPC/1973, alegando isto: (I) "(..) restou demonstrada a justificativa para a insistência da nova tentativa de citação em endereço fornecido nos autos, haja vista que a carta de citação remetida no início da ação, com aviso de recebimento, fora recebida no local diligenciado. Ademais, restou demonstrado que a Recorrente permanece com o mesmo endereço registrado perante a Junta Comercial e é pouco provável que, poucos meses depois, a empresa tenha se mudado" (fl. 136); (II) "Assim, mesmo que não fosse o caso, antes de proceder com a extinção do feito, o juízo a quo deveria proceder com a ritualística prevista no art. 267, §3º, e intimar a parte pessoalmente para que fosse dado o andamento devido ao feito, haja vista que, em sua concepção, seus patronos atuais não estariam dando o devido andamento ao processo, o que não ocorreu" (fl. 137).
+É o relatório. Passo a decidir.
+Na espécie, o processo foi extinto com fundamento no inciso IV do art. 267 do CPC/73, por ausência de pressuposto de constituição e desenvolvimento válido e regular, em razão da falta de citação do réu.
+Nesse contexto, as razões recursais, sustentando a extinção do processo por abandono de causa, estão deficientemente fundamentadas, o que atrai a incidência da Súmula 284/STF.
+Como quer que seja, a extinção do processo com base no art. 267, IV, do CPC/73 não impõe a aplicação do art. 267, 1º, do CPC/73. A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO. AUSÊNCIA DE PRESSUPOSTO PROCESSUAL (FALTA DE CITAÇÃO). INTIMAÇÃO DA PARTE. DESNECESSIDADE. 1. A falta de citação do réu, embora transcorridos cinco anos do ajuizamento da demanda, configura ausência de pressuposto de desenvolvimento válido e regular do processo, ensejando sua extinção sem exame do mérito, hipótese que prescinde de prévia intimação pessoal do autor. 2. Agravo regimental desprovido" (AgRg no REsp 1302160/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, 3ª Turam, DJe, 18.2.2016).
+Ademais, verifica-se que o alegado dissenso pretoriano não restou comprovado em razão do descumprimento do disposto nos arts. 1.029, §1º, CPC/2015 e 255, § 1º, do RISTJ.
+Com efeito, para a caracterização do alegado dissídio jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos os requisitos previstos nos mencionados dispositivos.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. APLICABILIDADE DO ESTATUTO DA TERRA AFASTADA PELO TRIBUNAL DE ORIGEM, COM BASE NAS CLÁUSULAS CONTRATUAIS E NO CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. ÓBICE DA SÚMULA 7/STJ. 2. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. 3. AGRAVO INTERNO IMPROVIDO.
+1. As instâncias ordinárias consignaram a existência de expressa disposição contratual de incidência da Lei de Locações, bem como assinalaram não se tratar de exploração rural da propriedade. Rever tais conclusões esbarra no óbice dos enunciados n. 5 e 7 da Súmula desta Corte.
+2. O dissenso pretoriano não ficou demonstrado por meio do cotejo analítico - com transcrição de trechos dos acórdãos recorrido e paradigma que exponham a similitude fática e a diferente interpretação da lei federal entre os casos confrontados -, conforme exigem os arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Em face da ausência de qualquer subsídio capaz de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente recurso.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1024480/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017, g.n.)
+Ante o exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
