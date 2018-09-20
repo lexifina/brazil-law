@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL PRECÁRIA, POSTERIORMENTE CASSADA. RESTITUIÇÃO AO ERÁRIO. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do ESTADO DO AMAZONAS, fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal do Estado de Amazonas, assim ementado:
+AGRAVO INTERNO. DECISÃO UNIPESSOAL DO RELATOR. RESTITUIÇÃO DE VALORES RECEBIDOS POR FORÇA DE DECISÃO PRECÁRIA. IMPOSSIBILIDADE. MANIFESTA BOA-FÉ. CARÁTER ALIMENTAR.
+1. Incabível a devolução de valores percebidos por força de decisão judiciai, ainda que precária, quando configurada a boa-fé e a natureza alimentar da verba. Entendimento do STF.
+2. Prevalência do princípio constitucional da dignidade da pessoa humana sobre o principio que veda o enriquecimento sem causa.
+3. Manutonção do entendimento adotado por este Tribunal, em respeito ao art. 926, do CPC/2015.
+4. Agravo conhecido e não provido.
+Os aclaratórios foram rejeitados:
+EMBARGOS DE DECLARAÇÃO PREQUESTIONADORES E INFRINGENTES - AUSÊNCIA DAS HIPÓTESES LEGAIS QUE JUSTIFICAM O RECURSO - PRETENSÃO DE REAPRECIAÇÃO DA MATÉRIA SOB NOVOS ARGUMENTOS - IMPOSSIBILIDADE - EMBARGOS REJEITADOS.
+No recurso especial, a parte recorrente alega que houve violação aos arts. 302, I e III e 520, I e II do CPC/2015, bem como ao art. 7º, III e § 3º da Lei 12.016/09, aduzindo que há a possibilidade de ressarcimento dos valores recebidos de forma precária.
+Houve contrarrazões (e-STJ fls. 243/279).
+Sobreveio juízo negativo de admissibilidade fundado na intempestividade do recurso:
+O prazo para leitura do ato de intimação do Estado foi encerrado no dia o 19/03/2018, tendo iniciado a contagem do prazo no dia 20/03/2018, conforme certificado à fl. 75.
+Contudo, consultar o Sistema de Automação do Judiciário - 2º Grau o (SAJ-SG5), verifiquei que o presente recurso fora protocolado no dia 16/04/2018, logo, após o encerramento do prazo recursal, que se deu em o 04/05/2018.
+É, portanto, intempestivo o presente recurso.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado, porquanto é tempestivo.
+Houve contraminuta pela parte agravada (e-STJ fls. 321/357).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+Cinge-se a questão em examinar a possibilidade de restituição de valores recebidos por força de decisão precária posteriormente reformada.
+Percebe-se que o Tribunal a quo julgou em desacordo com o entendimento desta Corte Superior, porquanto a Primeira Seção do Superior Tribunal de Justiça no julgamento do Recurso Especial Representativo da Controvérsia 1.401.560/MT, julgado em 12.2.2014, consolidou entendimento de que é obrigatória a devolução de valores pagos a Servidor ou Pensionista em razão do cumprimento de decisão judicial precária, posteriormente revogada. No mesmo sentido:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ACLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. SERVIDOR PÚBLICO. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL PRECÁRIA, POSTERIORMENTE CASSADA. RESTITUIÇÃO AO ERÁRIO. POSSIBILIDADE.
+1. Considerando a ausência de qualquer dos pressupostos do art. 535 do CPC e a pretensão nítida de rejulgamento da causa, recebo os embargos de declaração como agravo regimental, aplicando o princípio da fungibilidade recursal.
+2. É devido a devolução de valores pagos a servidor público em razão do cumprimento de decisão judicial precária e posteriormente revogada. Dentre os precedentes: AgRg no REsp n. 1.336.287/CE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 10/11/2014.
+3. O caráter alimentar só tem importância nos casos em que o recebimento dos valores se deu em face da boa-fé devido por erro da Administração (v.g. REsp n. 1.244.182/PR, julgado no rito do art. 543-C do CPC), o que não não se amolda ao caso dos autos.
+4. Aclaratórios recebidos como regimental, ao qual se nega provimento (EDcl no REsp. 1.387.306/PB, Rel. Min. BENEDITO GONÇALVES, DJe 27.3.2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. REAJUSTE DE 28,86%. OBRIGAÇÃO DE FAZER. DECISÃO JUDICIAL QUE DETERMINA A INCORPORAÇÃO DO REAJUSTE AOS PROVENTOS DOS SERVIDORES. POSTERIOR RECONSIDERAÇÃO DO DECISUM PARA LIMITAR OS EFEITOS DA CONDENAÇÃO À DATA DA REESTRUTURAÇÃO DA CARREIRA. DEVOLUÇÃO AO ERÁRIO DOS VALORES RECEBIDOS INDEVIDAMENTE. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Impõe-se a restituição ao Erário, independentemente da boa-fé do servidores, dos valores recebidos indevidamente a título de incorporação do reajuste de 28,86%, posteriores à Lei 11.784/2008, porquanto o pagamento de tais parcelas deu-se em função do cumprimento de decisão judicial prolatada em sede de execução de sentença - que inclusive cominava multa para o caso de descumprimento - e posteriormente reformada pelo Tribunal de origem, bem como tendo em vista que não se trata de pagamento em virtude de erro material ou operacional da Administração ou de interpretação errônea da legislação, caso em que estaria vedada a restituição
+(REsp 1.244.182/PB, rel. Min. Benedito Gonçalves).
+2.  ..  No caso de cumprimento de decisão judicial precária, a orientação do STJ é de ser "obrigatória a devolução por servidor público de vantagem patrimonial paga pelo erário público, em face de cumprimento de decisão judicial precária, desde que observados os princípios do contraditório e da ampla defesa. (AgRg no REsp. 1.177.349/ES, Rel. Ministro Gilson Dipp, Quinta Turma, DJe 1.8.2012). 4. Agravo Regimental não provido" (AgRg no REsp. 1.387.538/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/09/2013, DJe 26/09/2013).
+3. Agravo regimental não provido (AgRg no REsp. 1.474.964/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 18.11.2014).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL PRECÁRIA, POSTERIORMENTE REFORMADA. RESTITUIÇÃO AO ERÁRIO. POSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos da jurisprudência consolidada nesta Corte, "tendo a servidora recebido os referidos valores amparada por uma decisão judicial precária, não há como se admitir a existência de boa-fé, pois a Administração em momento nenhum gerou-lhe uma falsa expectativa de definitividade quanto ao direito pleiteado. A adoção de entendimento diverso importaria, dessa forma, no desvirtuamento do próprio instituto da antecipação dos efeitos da tutela, haja vista que um dos requisitos legais para sua concessão reside justamente na inexistência de perigo de irreversibilidade, a teor do art. 273, §§ 2º e 4º, do CPC" (STJ, EREsp 1.335.962/RS, Rel.Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 02/08/2013). No mesmo sentido: STJ, EDcl no REsp 1.387.306/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 27/03/2015; AgRg no REsp 1.474.964/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/11/2014; AgRg no REsp 1263480/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 09/09/2011.
+II. A previsão da devolução dos valores recebidos em decorrência de decisão judicial de natureza precária ou não definitiva, no § 3º do art. 46 da Lei 8.112/90, veio tão somente explicitar, no âmbito do Regime Jurídico Único, tal hipótese, bem como consignar, expressamente, a necessidade de sua devida atualização monetária.
+III. Agravo Regimental improvido (AgRg no AREsp. 348.196/CE, Rel. Min. ASSUSETE MAGALHÃES, DJe 9.3.2016).
+AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. PREVIDENCIÁRIO. BENEFÍCIO RECEBIDO VIA ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA. DEVOLUÇÃO. NECESSIDADE.
+1. A Primeira Seção, no julgamento do Recurso Especial 1.401.560/MT, realizado sob o rito dos recursos repetitivos, decidiu que devem ser devolvidos os valores percebidos a título de tutela antecipada, por ocasião da revogação desta.
+2. O recurso especial não comporta exame de preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp. 436.156/RS, Rel. Min. OG FERNANDES, DJe 26.2.2015).
+
+Incide na espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intime-se.
