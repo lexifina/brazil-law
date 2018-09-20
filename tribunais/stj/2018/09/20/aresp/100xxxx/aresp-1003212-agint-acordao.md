@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DE CLÁUSULA CONTRATUAL. SÚMULA 5/STJ. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Inexiste omissão no acórdão recorrido se, não obstante as questões terem sido apresentadas em momento processual oportuno, seu exame é absolutamente desnecessário para a solução da controvérsia.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ).
+3. Para afirmar-se que a corré se comprometeu a fornecer gratuitamente o tratamento médico, sem limitação de tempo, seria necessário reexaminar cláusula contratual, bem como os fatos e provas constantes dos autos. Incidência das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado pelo Estado do Rio Grande do Sul contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento. Na oportunidade, afirmou-se a inexistência de violação do art. 535 do CPC/1973; a não ocorrência de prequestionamento dos arts. 187 e 422 do Código Civil e 70, III, do Código de Processo Civil/1973; a aplicação dos óbices das Súmulas 5 e 7 do STJ com respeito à tese fundada nos arts. 187 e 422 do Código Civil.
+Defende a ineficácia do decisum, porque proferido após a afetação do REsp 1.657.156/RJ à sistemática dos recursos repetitivos. Explica que, nele, houve determinação de suspensão de todos os processos relativos ao tema: "Obrigatoriedade do poder público de fornecer medicamentos não incorporados em atos normativos do SUS".
+Destaca, ademais, que pende de julgamento o RE 566.471/RN, com repercussão geral reconhecida, no qual se discute a obrigatoriedade ou não de o Poder Público fornecer medicamentos de alto custo.
+Aduz que, do acórdão combatido, extrai-se " ..  a obrigação assumida pelo laboratório, com exclusividade, de, após a conclusão do estudo farmacológico, responder pela continuidade do fornecimento da medicação à paciente voluntária da pesquisa" (e-STJ, fl. 2.100). Argumenta, por isso, a inaplicabilidade da Súmula 7/STJ com respeito a essa questão.
+Diz também que os arts. 187 e 422 do Código Civil devem ser aplicados para a resolução da demanda, pois " ..  era a análise da (ausência de) boa-fé objetiva do laboratório que conduziria à identificação do verdadeiro (e único) responsável pelo fornecimento da medicação aprovada após os testes farmacológicos realizados com a participação da demandante" (e-STJ, fl. 2.106). Expõe que esses dispositivos legais foram apresentados no recurso de apelação e também dos embargos de declaração, motivo pelo qual incabível a incidência da Súmula 211/STJ, ou necessário o reconhecimento da omissão a seu respeito, uma vez que sua observância dará resultado diverso à causa, restando incorreto o desprovimento da tese de violação do art. 535 do CPC/1973.
+Relativamente ao art. 70 do CPC/1973, adverte não haver contradição no propósito de reconhecimento da denunciação à lide " ..  para que do laboratório patrocinador da pesquisa (Genzyme do Brasil Ltda.) possa ser reclamado o ressarcimento devido por sua exclusiva responsabilidade em atender àquela obrigação" (e-STJ, fl. 2.108).
+Questiona o emprego das Súmulas 5 e 7 do STJ, porquanto o aresto impugnado define que a obrigação de fornecimento do fármaco foi assumida com exclusividade pelo laboratório. Assim, dispensável incursão nos elementos fático-probatórios dos autos.
+Impugnação da parte contrária às e-STJ, fls. 2.174/2.183.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (RELATOR): O presente recurso não merece prosperar.
+De início, registro que, na decisão ora questionada, não houve debate acerca dos temas descritos no REsp 1.657.156/RJ, submetido à sistemática dos recursos repetitivos, e no RE 566.471/RN. A matéria aqui tratada tem caráter processual, de modo que a solução a ser aplicada nesses recursos não terá repercussão no presente caso.
+Como dito na ocasião do julgamento monocrático, o acórdão recorrido não se ressente de omissão. Muito embora as questões pertinentes aos arts. 187 e 422 do Código Civil e 70, III, do Código de Processo Civil/1973 tenham sido apresentadas no momento processual próprio, o Tribunal local não estava obrigado a se pronunciar a respeito.
+Isso porque a discussão das regras estabelecidas nesses dispositivos legais não teria qualquer repercussão na solução fixada pelo acórdão recorrido. Explico.
+Conforme o aresto (e-STJ, fls. 1.655/1.657):
+ ..  a responsabilidade pelo fornecimento  ..  é tanto do Estado como da empresa Genzyme do Brasil Ltda.
+ ..
+Certo que há duas relações. Uma entre a autora e o ESTADO e outra entre ela e o laboratório agravante. Mas o objeto dessa relação é o mesmo.
+Vale notar que a postulação desse medicamento contra o ESTADO acabará de uma forma ou de outra discutindo o fornecimento que vinha sendo realizado pelo agravante. Nesse passo, a sentença de procedência contra o ora agravante tem potencial inclusive de afastar eventual obrigação do ESTADO e vice-versa.
+Além disso, estamos diante de uma caso onde o ESTADO pode restar obrigado a fornecer um medicamento que somente está sendo ministrado na paciente em razão do tratamento realizado pelo agravante.  ..
+Com efeito, a responsabilidade da União, dos Estados, do Distrito Federal e dos Municípios, no âmbito da saúde, é solidária e irrestrita, de modo que qualquer desses entes tem legitimidade para figurar no pólo passivo de demanda que vise à efetivação do direito à saúde.  ..
+ ..
+Desse modo, irrelevante o fato de o medicamento postulado ser classificado como básico, especial ou excepcional, ou não integrar as listas dos entes públicos (AI n. [CPF], Rel . [NOME], AC n. [CPF], Rel. Claudir Fidelis Faccenda).
+E ainda, no julgamento dos embargos de declaração (e-STJ, fl. 1.691):
+Outrossim, tem-se que a responsabilidade pelo fornecimento é tanto do Estado como da empresa Genzyme do Brasil Ltda. Finda a pesquisa, tem o Estado a responsabilidade pelo tratamento da menor.
+Observe-se que a responsabilidade é solidariamente dividida entre o Estado e o laboratório. Aquele responde em razão de uma obrigação constitucional e este último, em decorrência de um vínculo contratual.
+Os arts. 187 e 422 do Código Civil têm as seguintes redações respectivamente:
+Art. 187. Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes.
+Art. 422. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé.
+A alegação de que, por força desses dispositivos legais, existe a responsabilidade do particular não afasta, de qualquer modo, a responsabilidade do ente público. A aplicação desses artigos, portanto, seria absolutamente irrelevante para eximir o Estado de sua obrigação.
+Do mesmo modo, sem sentido manifestação acerca do disposto no art. 70, III, do CPC/1973. Ora, se o colegiado afirma a responsabilidade solidária do Estado, qual sentido teria aplicar a denunciação da lide, se, nesse caso, conforme o recorrente, a responsabilidade recairia apenas sobre o laboratório  O pretendido pelo insurgente configuraria verdadeira contradição do órgão julgador.
+Todas essas colocações demonstram que o pronunciamento acerca dos artigos de leis federais supostamente omitidos eram totalmente incabíveis. Desse modo, inexiste violação do art. 535 do CPC/1973.
+Expõem também que esses dispositivos não foram objeto de qualquer debate na instância inferior. Ausente o prequestionamento, incide o óbice da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ademais, com respeito especificamente aos arts. 187 e 422 do Código Civil, a par da falta anteriormente descrita, a análise da tese correspondente - de que "a corré, condutora de pesquisa realizada com o Hospital das Clínicas de Porto Alegre, comprometeu-se a fornecer gratuitamente o tratamento médico, sem limitação de tempo" - demandaria a apreciação do ajuste estabelecido entre as partes.
+Essa providência, bem se sabe, é inadmissível em recurso especial, nos termos das Súmulas 5 e 7 do STJ, que a seguir transcrevo, em ordem: "A simples interpretação de cláusula contratual não enseja recurso especial"; "A pretensão de simples reexame de prova não enseja recurso especial".
+Em obicter dictum, há de se registrar que a responsabilidade do Estado pelo fornecimento do medicamento não retira a legitimidade passiva da empresa Genzyme do Brasil Ltda., de modo que, no caso de impossibilidade de cumprimento da obrigação por parte da empresa, deverá o Estado cumpri-la em caráter subsidiário e solidário, facultando-lhe o direito de regresso.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
