@@ -1,0 +1,89 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DECISÃO DENEGATÓRIA DE RECURSO ESPECIAL. ADMISSIBILIDADE. EXAME PRÉVIO. NÃO CABIMENTO. PRAZO RECURSAL. INTERRUPÇÃO. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Consoante orientação sedimentada nesta Corte Superior e no Supremo Tribunal Federal, é absolutamente inadmissível opor embargos de declaração à decisão denegatória de recurso especial proferida em exame prévio de admissibilidade. Precedentes.
+3. A oposição de incabíveis embargos não interrompe o prazo para interposição do único recurso possível na hipótese, qual seja, o de agravo. Precedentes.
+4. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por VECON CONSTRUTORA E INCORPORADORA LTDA. contra a decisão desta relatoria que não conheceu do agravo em recurso especial.
+Naquela oportunidade, concluiu-se pela impossibilidade de conhecimento do agravo ante sua intempestividade, tendo em vista que foi protocolizado somente em 19/12/2017 contra a decisão de inadmissibilidade do apelo nobre publicada em 31/10/2017, ou seja, quando já esgotado o prazo recursal.
+Nas razões do presente recurso (fls. 869/878 e-STJ), a agravante aduz, em síntese, que
+"(..) o Excelentíssimo Ministro deixou de considerar o disposto nos arts. 489, §1º, 1.022 e 1.024, §§ do Código de Processo Civil e arts. 263 e 265 do Regimento Interno do STJ, que determina a devida fundamentação da decisão e permite a insurgência contra omissão, obscuridade, contradição ou erro material de qualquer decisão judicial, via embargos declaratórios, interrompendo o prazo recursal.
+(..)
+O recurso, além de obedecer à forma prescrita em lei, é tempestivo, já que interposto dentro do prazo legal, considerando-se da decisão monocrática agravada foram opostos tempestivos embargos de declaração, os quais foram julgados por decisão publicada no DJE em 27.11.2017 (segunda feira), tendo o prazo recursal se iniciado em 28.11.2017 (terça feira), com término previsto para 19.12.2017 (terça feira), em razão do feriado de 08.12.2017, em comemoração ao Dia da Justiça".
+Ao final, requer a reforma da decisão atacada ou, alternativamente, que o feito seja submetido ao órgão julgador colegiado competente.
+Devidamente intimada, a parte contrária apresentou impugnação requerendo a rejeição do recurso, a aplicação de multa e a fixação dos honorários previstos no art. 85, § 1º e 11, do Código de Processo Civil de 2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DECISÃO DENEGATÓRIA DE RECURSO ESPECIAL. ADMISSIBILIDADE. EXAME PRÉVIO. NÃO CABIMENTO. PRAZO RECURSAL. INTERRUPÇÃO. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Consoante orientação sedimentada nesta Corte Superior e no Supremo Tribunal Federal, é absolutamente inadmissível opor embargos de declaração à decisão denegatória de recurso especial proferida em exame prévio de admissibilidade. Precedentes.
+3. A oposição de incabíveis embargos não interrompe o prazo para interposição do único recurso possível na hipótese, qual seja, o de agravo. Precedentes.
+4. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+Os argumentos expendidos nas razões do recurso são insuficientes para autorizar a reforma da decisão agravada, que está assim fundamentada:
+"(..)
+O agravo não ultrapassa a admissibilidade.
+Com efeito, a decisão agravada foi publicada no dia 31/10/2017 (fl. 765 e-STJ), contudo, o agravo somente foi protocolizado em 19/12/2017 (fl. 780 e-STJ), fora, portanto, do prazo legal (art. 1.003, § 5º, c/c 219 do Código de Processo Civil de 2015).
+Na hipótese, verifica-se que da decisão que inadmitiu o recurso especial foram opostos embargos de declaração. Porém, como consabido, o agravo é o único recurso cabível contra decisão denegatória ao processamento do recurso especial.
+Logo, os declaratórios opostos à decisão que inadmitiu o recurso, sendo manifestamente incabíveis, não interrompem o prazo para a interposição do agravo.
+(..)
+Ante o exposto, não conheço do agravo em recurso especial" (fls. 863/865 e-STJ).
+Conforme se depreende da própria fundamentação da decisão ora atacada, é pacífica nesta Corte a orientação de que a oposição de declaratórios à decisão denegatória ao processamento do recurso especial não interrompe o prazo para interpor agravo.
+A título de reforço argumentativo, merecem destaque, nesse particular, os seguintes precedentes, que bem demonstram estar a decisão ora agravada em sintonia com o entendimento jurisprudencial mais recente tanto das Turmas julgadoras integrantes da Segunda Seção desta Corte quanto do Supremo Tribunal Federal.
+Das Turmas julgadoras integrantes da Segunda Seção do Superior Tribunal de Justiça:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MAIS DE UM RECURSO INTERPOSTO CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE EMBARGOS DE DECLARAÇÃO EM FACE DE DECISÃO DENEGATÓRIA DE RECURSO ESPECIAL. NÃO INTERRUPÇÃO DO PRAZO. RECURSO INCABÍVEL. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. Revela-se defeso a interposição simultânea de mais de um recurso pela mesma parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade recursal.
+3. É intempestivo o agravo em recurso especial interposto após o decurso do prazo de 10 (dez) dias previsto nos art. 544 do CPC.
+4. Conforme a iterativa jurisprudência desta Corte e do STF, os embargos de declaração contra decisão de admissibilidade do Tribunal de origem não interrompem o prazo para a interposição do agravo em recurso especial, uma vez que manifestamente incabíveis.
+5. Agravo interno não provido" (AgInt no AREsp 1.138.203/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 7/12/2017, DJe 13/12/2017 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO QUE NEGA SEGUIMENTO AO ESPECIAL. DESCABIMENTO. LAPSO TEMPORAL QUE NÃO SOFRE INTERRUPÇÃO. PRECEDENTES. INTEMPESTIVIDADE. RECURSO NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte assentou o entendimento de que o único recurso cabível contra a decisão de admissibilidade do recurso especial é o agravo previsto no art. 1.042 do Código de Processo Civil de 2015, salvo na excepcionalidade de a decisão ser tão genérica que inviabiliza a interposição do agravo, o que não é o caso dos autos. Assim, a interposição de embargos declaratórios não interrompem o prazo para a apresentação do referido agravo em recurso especial, por serem manifestamente incabíveis.
+2. Agravo interno desprovido" (AgInt no AREsp 1.212.149/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/6/2018, DJe 14/6/2018).
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. INTERRUPÇÃO DO PRAZO. INOCORRÊNCIA.
+1. O único recurso cabível da decisão de admissibilidade do recurso especial é o respectivo agravo, razão pela qual a interposição de embargos de declaração não tem o condão de interromper o prazo recursal.
+2. Agravo interno no agravo em recurso especial não provido" (AgRg no AREsp 940.991/PE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 17/11/2016, DJe 21/11/2016).
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. EMBARGOS DE DECLARAÇÃO. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. O agravo previsto no art. 544 do CPC é o único recurso cabível contra decisão que nega seguimento a recurso especial, razão pela qual os embargos de declaração, quando não acolhidos, não interrompem o prazo para a interposição do agravo em recurso especial.
+(..)
+3. Agravo regimental desprovido" (AgRg no AREsp 529.906/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 2/10/2014, DJe 9/10/2014).
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. RECURSO INCABÍVEL NA HIPÓTESE. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO DO ART. 544 DO CPC. PROVIMENTO NEGADO.
+1. Embargos de declaração recebidos como agravo regimental em face do nítido caráter infringente das razões recursais. Aplicação dos princípios da fungibilidade e da economia processual.
+2. A Corte Especial, no julgamento dos EAREsp 275.615/SP, sob a relatoria do insigne Ministro Ari Pargendler, pacificou o entendimento de que a oposição de embargos de declaração contra decisão que nega seguimento a recurso especial, como regra, não tem o condão de interromper o prazo para interposição do agravo previsto no art. 544 do CPC. Excepcionalmente, nos casos em que a decisão for proferida de forma tão genérica que nem sequer permita a interposição do agravo, caberá a oposição de referido recurso.
+3. In casu, a decisão que inadmitiu o recurso especial, sob o argumento de que a recorrente não comprovou o recolhimento das custas, o que implicou a pena de deserção, não se enquadra na mencionada exceção, porquanto proferida de forma clara e fundamentada, conforme determina o art. 511, § 2º, do CPC, razão pela qual não havia falar em prévia oposição de embargos de declaração.
+4. Embargos declaratórios recebidos como agravo regimental, ao qual se nega provimento" (EDcl no AREsp 512.984/SC, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 19/8/2014, DJe 16/9/2014).
+Do Supremo Tribunal Federal:
+"RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) - DECISÃO DA PRESIDÊNCIA DO TRIBUNAL "A QUO" QUE NÃO ADMITIU O RECURSO EXTRAORDINÁRIO - OPOSIÇÃO, EM FACE DESSE ATO DECISÓRIO, DE EMBARGOS DE DECLARAÇÃO - RECURSO INADMISSÍVEL - INAPTIDÃO PARA INTERROMPER OU PARA SUSPENDER A FLUÊNCIA DO PRAZO RECURSAL - CONSEQUENTE INTEMPESTIVIDADE DO AGRAVO POSTERIORMENTE INTERPOSTO - PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL - RECURSO IMPROVIDO. - Revela-se absolutamente inadmissível a oposição de "embargos de declaração" em face de decisão que, proferida em sede de controle prévio de admissibilidade de recurso extraordinário, nega trânsito ao apelo extremo. - A utilização de espécie recursal evidentemente inadequada não tem aptidão sequer para interromper ou para suspender a fluência do prazo legal para efeito de oportuna interposição do recurso processualmente admissível. Precedentes" (AgR no ARE 741.882, Rel. Ministro CELSO DE MELLO, Segunda Turma, julgado em 28/5/2013, DJe 17/6/2013).
+"EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DE INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO. RECURSO INCABÍVEL. INTEMPESTIVIDADE DO RECURSO POSTERIOR. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO" (ED no ARE 691.080, Rel. Ministra CÁRMEN LÚCIA, Primeira Turma, julgado em 28/8/2012, DJe 18/9/2012).
+Assim, não prosperam as alegações postas no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+No tocante à multa requerida na impugnação, a Segunda Seção decidiu que a aplicação da penalidade prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+Sobre o tema:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido" (EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 24/8/2016, DJe 29/8/2016 - grifou-se).
+No caso concreto, não se vislumbra intenção abusiva ou protelatória na interposição de recurso previsto em lei, necessário, inclusive, para esgotar esta instância, requisito indispensável à interposição de eventual recurso extraordinário.
+No tocante aos honorários advocatícios, o Enunciado Administrativo nº 7/STJ deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais.
+De fato, a Terceira Turma, quando do julgamento do AgInt no REsp nº 1.573.573/RJ, Relator Ministro Marco Aurélio Bellizze, para fins de arbitramento dos honorários recursais previstos no art. 85, § 11, do CPC/2015, assim se manifestou:
+"(..) é necessário o preenchimento cumulativo dos seguintes requisitos:
+1. Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC";
+2. o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente;
+3. a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso;
+4. não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido;
+5. não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo;
+6. não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba".
+No caso, verifica-se que o presente grau de jurisdição iniciou-se diante de acórdão publicado em 13/7/2017 (fl. 640 e-STJ), que ensejou a interposição do recurso especial, portanto, após a entrada em vigor da Lei nº 13.105/2015, motivo pelo qual cabe a fixação de honorários recursais.
+Na origem, os honorários foram fixados em 12% (doze por cento) sobre o valor da condenação, cabendo ao autor (ora recorrido) o pagamento de 2/3 (dois terços) dessa quantia e ao réu (ora recorrente), 1/3 (um terço), devidos ao advogado da parte contrária.
+Assim, em observância ao art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a verba honorária atribuída ao réu, ora recorrente, sobre o valor arbitrado pela Corte local (1/3 - um terço - de 12% - doze por cento - sobre o valor da condenação), em favor do patrono da parte recorrida, observando o benefício da gratuidade de justiça, se for o caso.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
