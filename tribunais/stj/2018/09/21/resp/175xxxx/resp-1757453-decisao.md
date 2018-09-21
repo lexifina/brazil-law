@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação n. 0007022-91.2016.8.26.0344, com a seguinte ementa (e-STJ, fls. 595/602):
+TRÁFICO ILÍCITO DE ENTORPECENTES - ACUSADAS QUE TRANSPORTAVAM 2.154,800 (DOIS QUILOS, CENTO E CINQUENTA E QUATRO GRAMAS E OITOCENTOS MILIGRAMAS) DE MACONHA PARA VENDA NO VAREJO - DEPOIMENTOS DOS POLICIAIS EM SINTONIA COM O ACERVO PROBATÓRIO, A MERECER CREDIBILIDADE - TRAFICÂNCIA COMPROVADA - CONDENAÇÃO DEVIDA.
+TRÁFICO ILÍCITO DE ENTORPECENTES RECURSO MINISTERIAL OBJETIVANDO A CONDENAÇÃO DAS RÉS PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO IMPOSSIBILIDADE AUSÊNCIA DE PROVAS DA ESTABILIDADE E PERMANÊNCIA.
+DOSIMETRIA DA PENA - CAUSA ESPECIAL DE AUMENTO DE PENA PREVISTA NO ARTIGO 40, INCISO III, DA LEI Nº 11.343/2006 NÃO CONFIGURADA - DOSIMETRIA DA PENA - PREENCHIMENTO DOS REQUISITOS LEGAIS PARA CONCESSÃO DO REDUTOR DO ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 NA FRAÇÃO MÍNIMA - RECURSOS NÃO PROVIDOS.
+Consta dos autos que o Juízo da 1ª Vara Criminal da Comarca de Marília julgou parcialmente procedente o pedido, tendo absolvido a recorrente da imputação do tipo do art. 35 da Lei n. 11.343/2006, mas condenando-a nas penas do art. 33, § 4º, da Lei n. 11.343/2006, a 4 (quatro) anos e 2 (dois) meses de reclusão, em regime inicial fechado, e ao pagamento de 416 (quatrocentos e dezesseis) dias-multa, no piso legal (e-STJ, fls. 249/260).
+Em suas razões (e-STJ, fls. 622/628), a recorrente aponta violação do art. 33, § 2º, "b", do Código Penal, porque o acórdão fixou o regime prisional inicial mais severo do que o quantum da pena privativa de liberdade, com arrimo na gravidade abstrata do tráfico de drogas.
+Requer, ao final, o provimento do apelo nobre para fixação do regime aberto para início de cumprimento da pena privativa de liberdade.
+Contrarrazoada a insurgência (e-STJ, fls. 667/673), após o juízo prévio de admissibilidade (e-STJ, fl. 675), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal, na condição de custos legis, ofertou parecer pelo desprovimento do recurso (e-STJ, fls. 689/691).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade recursal, passa-se ao julgamento do recurso.
+O TJSP decidiu a questão com os seguintes fundamentos (e-STJ, fls. 600/602):
+ ..
+Passa-se à análise da dosimetria das penas.
+Com efeito, a basilar foi corretamente fixada no piso mínimo e assim deve permanecer.
+Na segunda fase a reprimenda deve manter-se inalterada, ante a inexistência de atenuante e agravante a serem ponderadas.
+Frise-se que, com relação a corré Silvia, a atenuante da confissão espontânea não autoriza a redução da pena aquém do menor patamar, nos termos da Súmula 231 do Superior Tribunal de Justiça.
+Não é caso de afastamento do redutor previsto no § 4º do artigo 33 da Lei nº 11.343/2006, como pleiteou o parquet, pois demonstrado que as rés são primárias, possuidoras de bons antecedentes e que se arrependeram de suas condutas.
+Ressalta-se que o magistrado, ao analisar o quantum de diminuição, deve considerar os elementos do artigo 42 da Lei de Drogas, especialmente a natureza e a quantidade de droga, que no caso era significativa.
+Nesse sentido: Apelação Criminal nº 382.919-2, relator [NOME], j. 22.2.2007, relator [NOME], TJPR "(..) levando em conta a natureza e a quantidade de droga apreendida e demais circunstâncias que envolveram a apreensão, aplico a redução em seu patamar mínimo de 1/6 (um sexto), na pena aplicada. (..)".
+Dessa forma, acertada a redução na fração de 1/6, tendo em vista a quantidade de droga apreendida, resultando 4 anos e 2 meses de reclusão, e pagamento de 416 dias-multa, no menor patamar, que tornou-se definitiva.
+A pretensão ministerial de reconhecimento da causa de aumento prevista no artigo 40, inciso III, da Lei 11.343/06, não pode incidir, pois a interpretação é restritiva e o citado dispositivo só tem cabimento nas hipóteses ali previstas.
+O regime inicial fechado é o adequado e suficiente ao caráter preventivo e repressivo da reprimenda. Não se olvida que a traficância é mola propulsora da criminalidade que assola o país, uma vez que o usuário, na ânsia de sustentar seu vício, pratica toda sorte de delitos, abalando consequentemente toda a sociedade. Pelos mesmos motivos, inviável a substituição da pena privativa de liberdade por restritiva de direitos.
+É certo que a decisão do colendo Supremo Tribunal Federal nos autos do HC 97.256/RS, consolidada pela Resolução nº 5 do Senado Federal, reconheceu ser possível sua aplicação para os delitos previstos na Lei de Drogas; todavia, não afastou do julgador natural o poder de efetuar tal conversão levando em conta as circunstâncias concretas de cada caso, o que nem se cogita no presente, já que o deferimento benefício poderia incentivar as apelantes a permanecer na senda de crime tão nefasto.
+Assim, atentando-se à gravidade do crime, percebe-se que a concessão de restritiva mostra-se insuficiente para a reeducação, bem como repressão do delito, sendo recomendável a aplicação do regime prisional inicialmente fechado para o cumprimento da pena.
+ ..
+No tocante à fixação do regime inicial do cumprimento da pena privativa de liberdade, destaca-se que a mera opinião em abstrato do julgador acerca da gravidade do crime, conforme o entendimento reiterado desta Corte, é justificativa inidônea à fixação de regime prisional mais gravoso, sobretudo quando o condenado é primário, a análise das circunstâncias judiciais do art. 59 do CP foi favorável, a pena-base foi fixada no mínimo legal e o redutor pelo tráfico privilegiado foi aplicado, como no caso.
+A matéria, aliás, está consolidada na Súmula 440/STJ, a saber: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Nesse exato sentido, veja-se:
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO. AUSÊNCIA. ILEGALIDADE INEXISTENTE. REGIME. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ALTERAÇÃO. POSSIBILIDADE. ORDEM CONCEDIDA QUANTO AO REGIME.
+1. Não existe fundamentação na decisão que, ao impor regime mais gravoso do que aquele que corresponde à quantidade da pena, limita-se apenas a referências à gravidade em abstrato do crime e ao texto legal (já declarado inconstitucional pelo STF), ainda mais quando a própria sentença impôs o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, no percentual de 3/5.
+2. Ausente a possibilidade de se autorizar a substituição da pena diante das circunstâncias do caso concreto.
+3. Ordem concedida para se fixar o regime aberto sem possibilidade de substituição.
+(HC 431.053/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/03/2018, DJe 26/03/2018).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. LEI 11.343/06.  ..  REGIME INICIAL. PENA INFERIOR A QUATRO ANOS, RÉ PRIMÁRIA, CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME INICIAL ABERTO. SUBSTITUIÇÃO POR PENA RESTRITIVA DE DIREITOS. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+XII - Por fim, quanto à possibilidade de substituição da pena, verifico que as circunstâncias do caso concreto recomendam a substituição. Pois trata-se de ré primária, condenada a pena privativa de liberdade inferior a 4 anos de reclusão, sendo que a quantidade não impede a substituição, porquanto não é expressiva - 8 pinos de cocaína. Dessa forma, resulta cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos.
+Habeas corpus não conhecido. Ordem concedida de ofício para reduzir a pena da paciente LUCINEA para 5 (cinco) anos de reclusão, mantidos os demais termos da condenação, e com relação à paciente TAMIRES, aplicar a causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/06 no seu patamar máximo, reduzindo a pena imposta para 1 (um) ano, 8 (oito) meses de reclusão, bem como fixar o regime aberto, para o início do cumprimento da pena, e, ainda, substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem fixadas pelo d. Juízo das Execuções Criminais.
+(HC 416.275/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/05/2018, DJe 08/05/2018)
+Lado outro, o Supremo Tribunal Federal também possui orientação firmada acerca do tema, consolidada em suas Súmulas 718 e 719, que dispõe respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dá-se provimento ao recurso especial, para fixar o regime prisional semiaberto, para início de cumprimento da pena corporal.
+Publique-se e intime-se.
