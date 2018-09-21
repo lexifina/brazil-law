@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+PLANO DE SAÚDE. NEGATIVA INDEVIDA DE COBERTURA DE CONTRATO DE PLANO DE SAÚDE. CARACTERIZAÇÃO. DANO MORAL. RECONHECIMENTO IN RE IPSA. INDENIZAÇÃO QUE DEVE SER FIXADA CONFORME O EVENTO E COM RAZOABILIDADE. RECURSO NÃO PROVIDO.
+Recusa indevida de cobertura de contrato de plano de saúde. Caracterização. Dano moral reconhecido in re ipso.
+Indenização. Dano moral. Análise das circunstâncias em que o dano ocorreu. Arbitramento mantido.
+Razoabilidade no valor fixado. Recurso não provido.
+Alegou-se, no especial, violação dos artigos 186 e 927 do Código Civil ao argumento de que não cometeu a recorrente ilícito indenizável, na medida em que foi legítima a recusa de cobertura do modo como pretendia a autora.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que a recorrente foi condenada ao pagamento de R$ 10.000,00 (dez mil reais) a título de danos morais porque a "beneficiária falecida era portadora de grave patologia denominada Amiloidose Familiar Portuguesa e necessitou de atendimento domiciliar, que solicitou à ré, com quem mantinha contrato de plano de saúde. A ré negou a cobertura alegando que a lei de regência e o contrato firmado com a falecida não previam referido atendimento" (e-STJ, fl. 371) e que, pela sentença, "o transtorno e desespero que a Sra. [NOME] familiares sentiram quando se viram quase que abandonados pelo plano médico, sem dúvida alguma trouxe uma dor maior e desnecessária que violou o direito da personalidade da autora (falecida), portanto, a indenização se faz de rigor" (e-STJ, fls. 11/12).
+Inequívoco, portanto, que o reexame da causa esbarra nos óbices de que tratam os enunciados n. 5, 7 e 83 da Súmula desta Casa, na medida em que, embora o plano de saúde possa, com alguma margem, limitar a cobertura, não está ao seu alcance estabelecer qual método terapêutico é adequado à convalescença da contratante, o que cabe ao profissional de saúde que acompanha a paciente.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. PLANO DE SAÚDE. RADIOTERAPIA. NEGATIVA DE COBERTURA. NATUREZA ABUSIVA. RECUSA INJUSTIFICADA. DANO MORAL. CABIMENTO. QUANTUM INDENIZATÓRIO. REVISÃO. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO NÃO PROVIDO.
+1. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes.
+2. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor da indenização, arbitrado em R$ 10.000,00 (dez mil reais), não é excessivo nem desproporcional aos danos sofridos - recusa do plano de saúde em custear Radioterapia à parte autora.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1287709/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/8/2018, DJe 24/8/2018)
+Diante do exposto, nego provimento ao agravo. Tendo o julgado impugnado sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil, limitado ao estabelecido nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
