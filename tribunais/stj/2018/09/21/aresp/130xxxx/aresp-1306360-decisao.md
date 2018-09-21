@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DO DEVER DE FORNECER MEDICAMENTO NÃO REGISTRADO NA ANVISA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, PROVIDO.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Caixa de Assistência do Ministério Público do Estado do Rio de Janeiro, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fls. 483-484):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. DEMANDA VISANDO AO FORNECIMENTO DE MEDICAÇÃO IMPORTADA INDISPENSÁVEL PARA O TRATAMENTO DA HEPATITE C, DIANTE DA RECUSA DO PLANO DE SAÚDE. TUTELA ANTECIPADA DEFERIDA PARA O CUSTEIO DO FÁRMACO. SENTENÇA DE PROCEDÊNCIA, MANTENDO A LIMINAR E CONDENANDO A RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+RECORRE A PARTE AUTORA PUGNANDO A CONDENAÇÃO DA RÉ AO PAGAMENTO DA MULTA POR DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER E O DEFERIMENTO NA INTEGRALIDADE DO SEU PEDIDO DE FORNECIMENTO DA MEDICAÇÃO ATÉ A SUA ALTA DEFINITIVA. APELA, TAMBÉM, A RÉ REQUERENDO A REFORMA DO JULGADO COM A IMPROCEDÊNCIA DOS PEDIDOS DO AUTOR OU, SUBSIDIARIAMENTE, A EXCLUSÃO OU DIMINUIÇÃO DA VERBA INDENIZATÓRIA.
+RECURSOS QUE NÃO MERECEM PROSPERAR. O DIREITO SUBJETIVO ASSEGURADO NO CONTRATO ENTABULADO ENTRE AS PARTES NÃO PODE SER EXERCIDO DE FORMA A SUBTRAIR DO NEGÓCIO SUA FINALIDADE PRECÍPUA, QUAL SEJA, O FORNECIMENTO PLENO DO AUXÍLIO À SAÚDE. MESMO QUE O REMÉDIO AINDA NÃO ESTIVESSE LIBERADO PELA ANVISA, O MESMO DEVERIA SER CUSTEADO, VISTO QUE ERA INDISPENSÁVEL PARA O TRATAMENTO DO AUTOR. RECUSA INJUSTIFICADA QUE ENSEJA DANO MORAL IN RE IPSA. QUANTUM INDENIZATÓRIO FIXADO EM R$ 10.000,00 (DEZ MIL REAIS), QUE RESPEITA OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE E SE MOSTRA EM CONSONÂNCIA COM OS PRECEDENTES DESTA CORTE FRACIONÁRIA EM CASOS SEMELHANTES. SÚMULA Nº 343 DESTE TRIBUNAL. EVENTUAL DESCUMPRIMENTO ANTERIOR DA TUTELA DE URGÊNCIA QUE DEVE SER APURADO EM MOMENTO PROCESSUAL OPORTUNO, CASO ASSIM DESEJE O DEMANDANTE. OBRIGAÇÃO DE FAZER DETERMINADA NA TUTELA DE URGÊNCIA QUE JÁ DETERMINOU O FORNECIMENTO ATÉ O RESTABELECIMENTO TOTAL DO AUTOR. RECURSOS AOS QUAIS SE NEGAM PROVIMENTO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 506-511).
+Nas razões do recurso especial, a ora agravante alegou divergência jurisprudencial e violação dos seguintes dispositivos normativos: i) arts. 12 e 66 da Lei n. 6.360/1976; 10, V, da Lei n. 6.437/1976; 493 e 485, VI, do CPC/2015, argumentando que não forneceu o medicamento pleiteado porquanto, à época do ajuizamento da ação, ele não era registrado pela Anvisa; ii) art. 6, § 1º, da LINDB, sob o fundamento de violação a princípio do ato jurídico perfeito; iii) arts. 2º, 3º, 4º e 51, IV, do CDC, defendendo a inaplicabilidade das normas consumeristas ao contrato de plano de saúde administrado por entidade de autogestão; e iv) art. 188, I do CC, ante a ausência de qualquer ato ílicito perpetrado.
+Sem contrarrazões (e-STJ, fl. 627).
+O apelo nobre não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A jurisprudência desta Corte Superior é no sentido da ausência de obrigação por parte da operadora do plano de saúde de custear o fornecimento de medicamento não registrado na Anvisa.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ART. 932 DO CPC/2015. JULGAMENTO MONOCRÁTICO. PLANO DE SAÚDE. MEDICAMENTO IMPORTADO SEM REGISTRO NA ANVISA. OBRIGAÇÃO DE FORNECIMENTO. AUSÊNCIA.
+1. É possível ao relator decidir o recurso de forma monocrática se baseado em jurisprudência dominante desta Corte, do Supremo Tribunal Federal ou de Tribunal Superior, sendo desnecessário submeter o feito à apreciação do órgão plural. Isso porque é facultada ao prejudicado a via do agravo interno para o colegiado, permitindo a apreciação de todas as questões suscitadas no recurso especial.
+2. A prestadora de serviços de plano de saúde está obrigada ao fornecimento de tratamento de saúde a que se comprometeu por contrato, pelo que deve fornecer os medicamentos necessários à recuperação da saúde do contratado, salvo o medicamento importado sem registro na Anvisa, ante a previsão de infração em razão da proibição de comercialização no território nacional de medicamento sem referido registro. Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1064153/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. IMPORTAÇÃO DE MEDICAMENTO NÃO REGISTRADO NO PAÍS AO TEMPO DA LIDE. IMPOSSIBILIDADE. REGISTRO NA ANVISA APÓS O FALECIMENTO DO SEGURADO. IRRELEVÂNCIA PARA O DESLINDE DA CAUSA. SUSTENTAÇÃO ORAL. NÃO CABIMENTO. REGIMENTAL NÃO PROVIDO.
+1. A prestadora de serviços de plano de saúde está obrigada ao fornecimento de tratamento de saúde a que se comprometeu por contrato, pelo que deve fornecer os medicamentos necessários à recuperação da saúde do contratado.
+2. "Contudo, essa obrigação não se impõe na hipótese em que o medicamento recomendado seja de importação e comercialização vetada pelos órgãos governamentais. Não pode o Judiciário impor a prestadora de serviços que realize ato tipificado como infração de natureza sanitária, previsto na Lei n. 6.360, art. 66, pois isso significaria, em última análise, a vulneração do princípio da legalidade previsto constitucionalmente" (REsp 874.976/MT, Rel.
+Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 01/12/2009, DJe 14/12/2009).
+3. O falecimento do segurado antes do registro do medicamento na Anvisa, mas após o ajuizamento da lide, não impõe o dever de reparação com os gastos com a aquisição da medicação, visto que até a efetivação do registro a parte não era obrigada a fornecer o remédio importado sem registro no País.
+4. Não é possível a sustentação oral no julgamento de agravo regimental, e seu julgamento independe de publicação prévia de pauta e de intimação, nos termos dos arts. 91, I, e 159 do RISTJ.
+Precedentes.
+5. Agravo regimental não provido.
+(AgRg no REsp 1425197/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/12/2015, DJe 10/12/2015)
+RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTOS. OBRIGAÇÃO DE DAR. FIXAÇÃO DE MULTA DIÁRIA. IMPORTAÇÃO DE MEDICAMENTO NÃO-REGISTRADO. IMPOSSIBILIDADE.
+1. Em princípio, a prestadora de serviços de plano de saúde está obrigada ao fornecimento de tratamento de saúde a que se comprometeu por contrato, pelo que deve fornecer os medicamentos necessários à recuperação da saúde do contratado.
+2. Contudo, essa obrigação não se impõe na hipótese em que o medicamento recomendado seja de importação e comercialização vetada pelos órgãos governamentais.
+3. Não pode o Judiciário impor a prestadora de serviços que realize ato tipificado como infração de natureza sanitária, previsto na Lei n. 6.360, art. 66, pois isso significaria, em última análise, a vulneração do princípio da legalidade previsto constitucionalmente.
+4. Recurso especial provido.
+(REsp 874.976/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 01/12/2009, DJe 14/12/2009)
+Dessa forma, o acórdão recorrido, ao condenar a operadora de plano de saúde ao pagamento de danos morais por se recusar a fornecer medicamento que à época não era registrado pela Anvisa, não refletiu o entendimento deste Tribunal, motivo pelo qual merece reforma.
+Fica prejudicada a análise das demais questões.
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento tão somente para afastar a condenação da insurgente ao pagamento de indenização a título de danos morais.
+Em razão da sucumbência recíproca, cada parte deverá arcar com metade das custas e despesas processuais, bem como com os honorários advocatícios de seus patronos, ora fixados em 15% do valor da causa.
+Publique-se.
