@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na petição de agravo em recurso especial a parte agravante somente trouxe alegações genéricas a respeito da aplicação do óbice da Súmula 83/STJ, insuficientes, pela sua generalidade, para a demonstração de que o entendimento do acórdão recorrido estaria em descompasso com o entendimento do STJ.
+Cabia ao recorrente apresentar jurisprudência recente que amparasse a sua tese ou mesmo a indicação de que os precedentes invocados pelo Tribunal a quo não se aplicariam ao caso. Assim, não sendo impugnado fundamento da inadmissibilidade do recurso especial pelo Tribunal de origem, deve ser mantida a decisão que não conheceu do agravo em recurso especial.
+Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto pelo ESTADO DO PARANÁ contra decisão desta Relatoria assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+Sustenta o agravante que procedeu com a impugnação do fundamento da inadmissão do recurso especial pela origem consubstanciado na aplicação da Súmula 83/STJ. Salienta que não pretende discutir sua exclusão da lide, mas tão somente qual seria a amplitude da solidariedade frente a União.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na petição de agravo em recurso especial a parte agravante somente trouxe alegações genéricas a respeito da aplicação do óbice da Súmula 83/STJ, insuficientes, pela sua generalidade, para a demonstração de que o entendimento do acórdão recorrido estaria em descompasso com o entendimento do STJ.
+Cabia ao recorrente apresentar jurisprudência recente que amparasse a sua tese ou mesmo a indicação de que os precedentes invocados pelo Tribunal a quo não se aplicariam ao caso. Assim, não sendo impugnado fundamento da inadmissibilidade do recurso especial pelo Tribunal de origem, deve ser mantida a decisão que não conheceu do agravo em recurso especial.
+Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Com efeito, na petição de agravo em recurso especial a parte agravante somente trouxe alegações genéricas a respeito da aplicação do óbice da Súmula 83/STJ, insuficientes, pela sua generalidade, para a demonstração de que o entendimento do acórdão recorrido estaria em descompasso com o entendimento do STJ.
+Vale esclarecer que é assente nesta Corte o entendimento segundo o qual os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia (AgRg no AREsp 542.855/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/6/2015, DJe 29/6/2015).
+No caso dos autos, em que se negou seguimento ao recurso especial com fundamento na Súmula 83/STJ, cabia a parte apresentar jurisprudência recente que amparasse a sua tese ou mesmo a indicação de que os precedentes invocados pelo Tribunal a quo não se aplicariam ao caso.
+Desse modo, restou inatingido o argumento de inadmissão do recurso especial, relacionado à aplicação da Súmula 83/STJ. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. I - Negou-se seguimento ao recurso especial em razão dos óbices do enunciado n. 83 da Súmula do STJ. Agravo nos próprios autos que não impugna o fundamento da decisão recorrida. II - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. III - Agravo interno improvido. (AgInt no AREsp 1123994/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA. 1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo. 2. A parte agravante não infirmou especificamente a incidência do óbice da Súmula 83/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso. 3. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes. 4. A jurisprudência desta Corte Superior firmou entendimento de que o óbice da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos recursos fundados na alínea "a". 5. Agravo interno a que se nega provimento. (AgInt no AREsp 991.297/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/04/2017, DJe 11/05/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
