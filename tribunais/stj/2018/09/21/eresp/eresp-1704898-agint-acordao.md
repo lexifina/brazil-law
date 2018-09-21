@@ -1,0 +1,60 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. OFENSA AO ART. 535, DO CPC/73. NÃO OCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. IMPROBIDADE ADMINISTRATIVA. LICITAÇÃO FRAUDULENTA. EFETIVA CONFIGURAÇÃO DA CONDUTA IMPROBA. ART. 11 DA LEI DE IMPROBIDADE. PROPORCIONALIDADE DAS SANÇÕES COMINADAS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem decidiu de forma suficientemente fundamentada a controvérsia colocada em discussão, razão pela qual não houve ofensa ao art. 535, do CPC/73.
+2. Com base no conjunto fático e probatório constante dos autos, a Corte a quo concluiu que houve efetiva prática de improbidade administrativa, bem como consignou a presença de elemento subjetivo já que o agravante "era quem determinava os vencedores nas licitações, delas participando efetivamente, tudo a demonstrar de forma clara a prática de atos de improbidade administrativa pelos quais deve responder". A revisão de tais fundamentos é inviável na via recursal eleita, tendo em vista a incidência da Súmula 7/STJ.
+3. A revisão da proporcionalidade das sanções cominadas no caso em concreto somente seria possível por meio do reexame do acervo fático-probatório existente nos autos, o que não se permite em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por [NOME] em face de decisão assim ementada (e-STJ fl. 3592):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2/STJ. OFENSA AO ART. 535, DO CPC/73. NÃO OCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. IMPROBIDADE ADMINISTRATIVA. LICITAÇÃO FRAUDULENTA. VIOLAÇÃO DOS PRINCÍPIOS DA LEGALIDADE E MORALIDADE. OFENSA AOS ARTS. 10 E 12, II, DA LEI Nº 8429/92. INCIDÊNCIA DA SÚMULA 284/STF POR APLICAÇÃO ANALÓGICA. EFETIVA CONFIGURAÇÃO DA CONDUTA IMPROBA. ART. 11 DA LEI DE IMPROBIDADE. PROPORCIONALIDADE DAS SANÇÕES COMINADAS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Nas razões do agravo interno, aduz a parte Agravante que permanece ofensa ao art. 535, do CPC/73, pois "deveria ser analisado se a multa poderia ser aplicada sem que houvesse dano e bem como sua razoabilidade, vide (e-STJ fls. 2834); havia sido omisso em qual dispositivo o Embargante se subsumiria (e-STJ fls. 2832); e o acórdão foi omisso em relação as contradições apresentadas nos diversos depoimentos de Gilcélio (e-STJ fls. 2834)" (e-STJ fls. 3653/3654).
+Aduz que a sentença foi baseada em fatos não discutidos nos autos. Aponta que "não houve a mínima demonstração dos elementos subjetivos que demonstrasse a responsabilidade do Agravante. Portanto, o elemento subjetivo deve ser devidamente evidenciado, não bastando a mera alegação" (e-STJ fl. 3658). Considera que "se tivesse ativa participação certamente sua conduta não seria narrada em poucas linhas na inicial. Assim, caso seja mantido a condenação primeva será dado guarida á responsabilidade objetiva por ser o Agravante responsável por ordenar as despesas. Observa-se que para a configuração do artigo 11 da mesma lei é necessário o DOLO. Ocorre que não ficou demonstrada sequer a culpa do Recorrente" (e-STJ fl. 3660) .
+Por fim, "conclui-se que a decisão agravada deve ser revista vez que a situação dos autos autoriza a análise da razoabilidade punir-se o Agravante com a perda do cargo, multa de 30 (trinta) vezes e suspensão política mediante conduta que não causou dano ao erário e nem houve enriquecimento ilícito do Agravante".
+Pede a reconsideração da decisão agravada ou a apreciação colegiada do feito pela 2ª Turma deste Superior Tribunal de Justiça.
+Impugnação ao agravo interno (e-STJ fls. 3681/3685).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. OFENSA AO ART. 535, DO CPC/73. NÃO OCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. IMPROBIDADE ADMINISTRATIVA. LICITAÇÃO FRAUDULENTA. EFETIVA CONFIGURAÇÃO DA CONDUTA IMPROBA. ART. 11 DA LEI DE IMPROBIDADE. PROPORCIONALIDADE DAS SANÇÕES COMINADAS. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem decidiu de forma suficientemente fundamentada a controvérsia colocada em discussão, razão pela qual não houve ofensa ao art. 535, do CPC/73.
+2. Com base no conjunto fático e probatório constante dos autos, a Corte a quo concluiu que houve efetiva prática de improbidade administrativa, bem como consignou a presença de elemento subjetivo já que o agravante "era quem determinava os vencedores nas licitações, delas participando efetivamente, tudo a demonstrar de forma clara a prática de atos de improbidade administrativa pelos quais deve responder". A revisão de tais fundamentos é inviável na via recursal eleita, tendo em vista a incidência da Súmula 7/STJ.
+3. A revisão da proporcionalidade das sanções cominadas no caso em concreto somente seria possível por meio do reexame do acervo fático-probatório existente nos autos, o que não se permite em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Incide o Enunciado Administrativo nº 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravo interno não merece ser provido.
+De fato, não há falar em ofensa ao art. 535, do CPC/73. Isso porque, conforme se verá a seguir, o acórdão recorrido decidiu fundamentadamente a controvérsia colocada em discussão.
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO - IRRESIGNAÇÃO DO RÉU.
+1. A jurisprudência desta Corte Superior de Justiça é firme no sentido de ser inviável a suspensão do processo quando o recurso especial ou o agravo que visa destrancar a insurgência não ultrapassam o juízo de admissibilidade.
+2. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC (art. 535 do CPC/73), o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado. Inexistindo quaisquer das máculas previstas nos aludidos dispositivos, não há razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 904.507/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13/06/2017, DJe 22/06/2017).
+Quanto à efetiva configuração da conduta enquanto ato de improbidade administrativa, com base no art. 11 da Lei nº 8429/92, o acórdão recorrido contém os seguintes fundamentos:
+Com respeito ao apelante [NOME], era ele o Prefeito Municipal à época dos fatos aqui narrados e, segundo a prova produzida, era quem determinava os vencedores nas licitações, delas participando efetivamente, tudo a demonstrar de forma clara a prática de atos de improbidade administrativa pelos quais deve responder. Estes são os fatos, devidamente documentados.
+Conforme se viu, efetivamente, com base no conjunto fático e probatório constante dos autos, o acórdão recorrido entendeu pela efetiva prática de improbidade administrativa, bem como consignou a presença de elemento subjetivo já que "era quem determinava os vencedores nas licitações, delas participando efetivamente, tudo a demonstrar de forma clara a prática de atos de improbidade administrativa pelos quais deve responder". A revisão de tais fundamentos é inviável na via recursal eleita, tendo em vista a incidência da Súmula 7/STJ.
+No mesmo sentido:
+ADMINISTRATIVO. AÇÃO DE IMPROBIDADE. ART. 11 DA LEI N. 8.429/92. ALEGAÇÕES DE VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTENTE. ALEGAÇÃO DE PRECLUSÃO CONSUMATIVA. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. ALEGAÇÕES DE CERCEAMENTO DE DEFESA E DE VIOLAÇÃO DA REGRA DA DISTRIBUIÇÃO DO ÔNUS DA PROVA. INCIDÊNCIA, POR ANALOGIA, DOS ENUNCIADOS N. 283 E 284 DAS SÚMULAS DO STF. REQUISITO SUBJETIVO DO ATO DE IMPROBIDADE E DOSIMETRIA. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+VI - No sistema de persuasão racional adotado pelos arts. 130 e 131 do CPC, cabe ao magistrado determinar a conveniência e a necessidade da produção probatória, mormente quando, por outros meios, já esteja persuadido acerca da matéria de fato.
+VII - Os atos de improbidade administrativa descritos no art. 11 da Lei n. 8.429/92, como visto, dependem da presença do dolo genérico, mas dispensam a demonstração da ocorrência de dano para a Administração Pública ou enriquecimento ilícito do agente.
+VIII - Da análise das razões do acórdão recorrido, observa-se que este delineou a controvérsia dentro do universo fático-comprobatório. Caso em que não há como aferir eventual violação dos dispositivos infraconstitucionais alegados sem que se abram as provas ao reexame, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+IX - Quanto à dosimetria das penas, a jurisprudência desta Corte é uníssona no sentido de que a revisão da dosimetria das sanções aplicadas em ações de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, o que esbarra no enunciado n.
+7 da Súmula do STJ, salvo em hipóteses excepcionais, nas quais, da leitura do acórdão recorrido, exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não é o caso.
+X - Agravo interno improvido.
+(AgInt na TutPrv no REsp 1624020/MA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+Por fim, forçoso reconhecer que a revisão da proporcionalidade das sanções cominadas no caso em concreto somente seria possível por meio do reexame do acervo fático-probatório existente nos autos, o que não se permite em Recurso Especial, ante o óbice da Súmula 7/STJ.
+No mesmo sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA DE ACÓRDÃO EM AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA. REVISÃO DE SANÇÕES COMINADAS. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. AUSÊNCIA DE VIOLAÇÃO DE DISPOSITIVO LEGAL. DESCABIMENTO DA DEMANDA.
+PRECEDENTES DO STJ.
+1. O acórdão impugnado está em consonância com o entendimento do STJ de que "os critérios de proporcionalidade, de justeza, de razoabilidade, utilizados como parâmetros na aplicação das sanções ao ato ímprobo não são passíveis de serem revistos na via estrita de ação rescisória, porquanto não se constituem como violação "literal" de dispositivo legal" (AgRg no AREsp 256.135/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3.2.2015). 2. Por outro lado, a revisão da conclusão da Corte local de que "o autor apresentou defesa preliminar antes da decisão de recebimento da petição inicial da ação de improbidade administrativa " somente seria possível por meio do reexame do acervo fático-probatório existente nos autos, o que não se permite em Recurso Especial, ante o óbice da Súmula 7/STJ.
+3. Agravo Interno não provido.
+(AgInt no AREsp 941.228/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+Ante tudo quanto exposto, NEGO PROVIMENTO ao AGRAVO INTERNO.
+É como voto.
