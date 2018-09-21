@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de IGOR SANTANA FELIX DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2090712-75.2018.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 21/3/2018 (prisão convertida em preventiva) e denunciado como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, porque, trazia consigo e guardava 4 (quatro) porções de maconha, pesando 71.33 gramas, para a finalidade de venda, entrega e fornecimento a terceiros (e-STJ fls. 33/34).
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando, em síntese, ausência dos requisitos da prisão preventiva e fundamentação inidônea. O Tribunal de origem, contudo, denegou a ordem. A decisão colegiada recebeu a seguinte ementa (e-STJ fl. 65):
+Habeas Corpus. Tráfico de entorpecentes. Apreensão de 4 porções de maconha, pesando, 71,33g, além de dinheiro e aparelho de telefonia celular. Alegação de constrangimento ilegal. Suposta ausência de fundamentação. Descabimento. Indicadores de materialidade e autoria. Decisão suficientemente escorada em dados objetivos contidos nos autos, não se há falar em constrangimento ilegal, descabida cautelar alternativa em razão de indicadores de ocorrência que deixa perplexa a população ordeira. Impossibilidade de se descartar, nesta quadra, sem motivo plausível, palavras de agentes do Estado, apenas em razão de suas condições funcionais. Ordem denegada.
+Na presente oportunidade, o impetrante alega que a liberdade do paciente não oferece risco à ordem pública, ordem econômica ou conveniência da instrução penal, que estão ausentes os requisitos autorizadores da prisão preventiva, bem como ressalta as condições pessoais do acusado, tais como primariedade, bons antecedentes, trabalho lícito e residência fixa.
+Diante do exposto, pede, liminarmente e no mérito, a concessão da liberdade provisória em favor do paciente.
+A liminar foi indeferida (e-STJ fls. 77/78).
+As informações foram prestadas (e-STJ fls. 83/103) e o Ministério Público Federal, previamente ouvido, manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 106/110).
+É o relatório, decido.
+Não há mais interesse no presente habeas corpus. Isso porque, no dia 7/6/2018, o Supremo Tribunal Federal concedeu a ordem nos seguintes termos (e-STJ fl. 119):
+Isso posto, concedo a ordem de habeas corpus (art. 192, caput, do RISTF), para revogar a prisão preventiva do paciente e determinar a sua imediata soltura, se por algum outro motivo não estiver preso e sem prejuízo da fixação, pelo juízo processante, de uma ou mais medidas cautelares previstas no art. 319 do Código de Processo Penal, caso entenda necessário.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
