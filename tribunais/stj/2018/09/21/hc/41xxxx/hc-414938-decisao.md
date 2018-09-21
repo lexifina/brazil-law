@@ -1,0 +1,7 @@
+EMENTA
+HABEAS CORPUS. CRIME DE FURTO NA FORMA TENTADA (ART. 155, CAPUT, C/C O ART. 14, II, AMBOS DO CÓDIGO PENAL). CARTA TESTEMUNHÁVEL CONTRA A DECISÃO QUE NÃO RECEBEU O RECURSO EM SENTIDO ESTRITO DO PARQUET, INTERPOSTO EM FACE DO DECISUM QUE CONCEDEU A LIBERDADE PROVISÓRIA AO PACIENTE. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. IMPOSIÇÃO DO REGIME ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. FACULTADO O RECURSO EM LIBERDADE. RELEVANTE ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
+DECISÃO
+As informações obtidas no endereço eletrônico do Tribunal de origem dão conta de que, em 27/8/2018, sobreveio sentença, a qual julgou parcialmente procedente o pleito, condenando o ora paciente ao cumprimento da pena privativa de liberdade de 4 meses de reclusão, em regime inicial aberto, e ao pagamento de 3 dias-multa, pela prática do crime de furto na forma tentada (art. 155, caput, c/c o art. 14, II, ambos do Código Penal), substituída a pena privativa de liberdade por uma restritiva de direito, consistente na prestação de serviços à comunidade e facultando-lhe, na oportunidade, o recurso em liberdade (Processo n. 0004816-20.2017.8.24.0023), fato que esgota a pretensão contida na presente impetração, dada a alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
