@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"APELAÇÃO CÍVEL. TEMPESTIVIDADE. LOCAÇÃO. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA.
+NOVAÇÃO. FIANÇA - EXONERAÇÃO - IMPOSSIBILIDADE - MULTA MORATORIA - PERCENTUAL MANTIDO.
+Uma vez que a parte encontra-se representada pela Defensoria Pública, que no artigo 128, inciso I, da Lei Complementar Federal nº 80/94 e o artigo 74, inciso I, da Lei Complementar Estadual nº 65/03 asseguram ao Defensor Público a intimação pessoal de todos os atos do processo, mediante entrega dos autos com vista, contando-lhe em dobro todos os prazos, não há que se falar em intempestividade do apelo.
+O acordo das partes para simples parcelamento do débito não caracteriza moratória, nem importa em novação, mas apenas uma tolerância do credor.
+Sem o cumprimento do acordo e a extinção da divida, remanesce a obrigação os fiadores.
+A multa moratória de 10% contratada entre as partes não merece ser reduzida porque às relações locaticias não se aplica o Código de Defesa do Consumidor, mas a legislação extravagante e o Código Civil de 2002." (e-STJ, fl. 167)
+Nas razões do recurso especial, o agravante alega violação aos artigos 413, 819 e 884 do Código Civil de 2002, bem como divergência jurisprudencial. Alega o recorrente, em síntese, que a) "firmado acordo entre as partes envolvidas no contrato de locação, sem a participação de um dos fiadores, a exoneração de sua responsabilidade é medida que se impõe" e b) ser cabível a redução da multa moratória prevista em contrato de locação, sustentando que a interpretação dada pelo Tribunal foi equivocada, uma vez que o dispositivo legal "prevê a possibilidade do juiz reduzir equitativamente a penalidade se seu montante for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio" .
+Não foram apresentadas contrarrazões (e-STJ, fl. 206).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No que diz respeito a exclusão da responsabilidade do fiador, o Tribunal de origem consignou, na oportunidade, o seguinte:
+"No que pertine a inconformidade do Réu/Apelante acerca da extinção da obrigação assumida no contrato de locação em decorrência do acordo de fls. 55/57, tenho que efetivamente, o documento firmado sem a anuência do Réu/Apelante, não representa novação, mas sim mero parcelamento da divida decorrente da cobrança relativa às obrigações do contrato de locação, bem como a entrega das chaves com o fito de evitar novos lançamentos de alugueres, tendo constado expressamente do acordo que o locador não estava abdicando "dos valores dos alugueres vencidos e demais acessórios da locação até o dia 27/06/2012.
+Infere-se, ainda, da cláusula 10 (dez) que "caso o presente acordo não seja cumprido por parte do locatário e seus fiadores a ação interposta será reativada e o processo terá sua tramitação normal.
+Desse modo, não há que se falar em novação, que exige como requisito a intenção das partes em extinguir a obrigação antiga por outra nova.
+Na espécie, o acordo de parcelamento do débito efetuado entre o locador e o locatário e um dos fiadores visava exclusivamente facilitar e melhor viabilizar ao devedor o adimplemento da obrigação, até mesmo para evitar ação judicial, o que não constitui moratória.
+Como não houve a criação de um novo ajuste, nem de uma nova dívida, permanece higida a fiança, sendo inaplicável ao caso em comento, a Súmula 214 do STJ." (e-STJ, fl. 170)
+Com efeito, a jurisprudência do STJ se firmou no sentido que "facultando o locador ao locatário o parcelamento do débito locatício e a dilação do prazo além do vencimento da dívida, resta caracterizado o instituto da moratória. No entanto, havendo transação e moratória sem a anuência dos fiadores, não respondem esses por obrigações resultantes de pacto adicional firmado entre locador e locatário" (AgRg no AREsp 679.715/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015).
+No mesmo sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. ACORDO ENTRE LOCADOR E LOCATÁRIO, SEM ANUÊNCIA DO FIADOR. MATÉRIA DE FATO DELINEADA NO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. NÃO INCIDÊNCIA.
+1. Extinta a obrigação do fiador com base na situação de fato descrita no acórdão recorrido, não há falar em incidência do óbice da Súmula 7/STJ.
+2. Estabelecida transação entre locador e locatário sobre a dívida em anterior ação de despejo, sem a participação do fiador, legítima a extinção da fiança, nos termos do art. 1.503, I, do Código Civil de 1916, ou do art. 838, I, do Código Civil de 2002, de acordo com a jurisprudência desta Corte, sedimentada na Súmula 214.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1058764/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/03/2018, DJe 20/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. FIANÇA. MORATÓRIA DE DÉBITOS DA LOCAÇÃO. AUSÊNCIA DE ANUÊNCIA DO FIADOR. ADITAMENTO. SÚMULA 214/STJ. AGRAVO DESPROVIDO.
+1. O fiador que não anui com moratória de débitos da locação concedida pelo locador ao locatário fica desobrigado da fiança, conforme previsto no art. 837, I, do Código Civil (CC/1916, art. 1.503).
+2. A transação realizada entre locador e locatário, acompanhada de confissão de dívida e de parcelamento do débito locatício, sem o consentimento ou participação do fiador, constitui aditamento, para fins de incidência da mencionada Súmula 214/STJ ("O fiador na locação não responde por obrigações resultantes de aditamento ao qual não anuiu").
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp 131.459/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/12/2012, DJe 7/2/2013)
+DIREITO CIVIL. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TRANSAÇÃO ENTRE CREDOR E DEVEDOR SEM ANUÊNCIA DOS FIADORES. PARCELAMENTO DA DÍVIDA. EXTINÇÃO DO CONTRATO DE FIANÇA. EXONERAÇÃO DOS FIADORES.
+1. A transação e a moratória, conquanto sejam institutos jurídicos diversos, têm um efeito em comum quanto à exoneração do fiador que não anuiu com o acordo firmado entre o credor e o devedor (arts. 1.031, § 1º e 1.503, I, do CC de 1916). Assim, mesmo existindo cláusula prevendo a permanência da garantia fidejussória, esta é considerada extinta, porquanto o contrato de fiança deve ser interpretado restritivamente, nos termos do art. 1.483 do CC de 1916, ou seja, a responsabilidade dos fiadores restringe-se aos termos do pactuado na avença original, com a qual expressamente consentiram. Inteligência da Súmula 214 do STJ.
+2. No caso concreto, o Tribunal a quo consignou a realização de transação entre credor e devedor, sem anuência do fiador, com dilação de prazo para pagamento da dívida. Extinguiu-se, portanto, a obrigação do garante pela ocorrência simultânea da transação e da moratória.
+3. Recurso especial provido.
+(REsp 1013436/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/9/2012, DJe 28/9/2012)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial a fim de reconhecer a extinção da obrigação do fiador.
+Resta prejudicada à análise das demais questões.
+Publique-se.
