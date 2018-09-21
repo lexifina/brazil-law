@@ -1,0 +1,38 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA PARA VISITA À FAMÍLIA. ART. 122, I, DA LEP. INDEFERIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. INCOMPATIBILIDADE COM OS OBJETIVOS DA PENA. FUNDAMENTAÇÃO IDÔNEA. REVISÃO. REVOLVIMENTO FÁTICO PROBATÓRIO. VIA ELEITA INADEQUADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro - que denegou a ordem em writ ali impetrado -, cujo acórdão ficou assim ementado (fls. 26/31 - Habeas Corpus n. 0008345-23.2018.8.19.0000):
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE CONCESSÃO DE TRABALHO EXTRAMUROS. EM QUE PESE A EVENTUAL ADMISSIBILIDADE DE HABEAS CORPUS EM QUESTÕES INERENTES À EXECUÇÃO PENAL, NÃO SE DEVE ATRIBUIR AO CITADO REMÉDIO HERÓICO A EXTENSÃO QUE ORA SE PRETENDE DAR. IMPROPRIEDADE DA APLICAÇÃO DO REMÉDIO HERÓICO COMO SUBSTITUTO PROCESSUAL VISITA PERIÓDICA AO LAR. INDEFERIMENTO. ALEGADA AUSÊNCIA DO REQUISITO SUBJETIVO PREVISTO NO INCISO III DO ART. 123 DA LEP. APENADO COM LONGA PENA A CUMPRIR. JUÍZO DAS EXECUÇÕES CRIMINAIS QUE DEVE AVALIAR, EM CADA CASO CONCRETO, A PERTINÊNCIA E A RAZOABILIDADE EM DEFERIR A PRETENSÃO, PARA QUE POSSA COMPATIBILIZAR TAIS SAÍDAS COM OS OBJETIVOS DA PENA, COMO REZA O ART. 123, III DA LEP. CASO DOS AUTOS QUE REQUER CAUTELA, POIS TRATA DE APENADO CONDENADO MAIS DE UMA VEZ PELO CRIME DE ROUBO MAJORADO, E COM TÉRMINO DE CUMPRIMENTO DA PENA PREVISTO PARA O ANO DE 2035. PREMATURA A CONCESSÃO DE SAÍDA EXTRAMUROS AO PACIENTE NESSE MOMENTO DO CUMPRIMENTO DA EXPIAÇÃO. ORDEM CONHECIDA E DENEGADA.
+Consta dos autos que o Juízo de Direito da Vara de Execuções Penais - Cartório de Réu Preso e Cartório de Livramento Condicional - da comarca do Rio de Janeiro/RJ indeferiu o requerimento do paciente para saída temporária para visita familiar, ao fundamento de incompatibilidade do benefício com os objetivos da pena (fls. 23/25 - Execução da Pena n. 0083412-30.2014.8.19.0001).
+Daí a presente impetração, em que se alega constrangimento ilegal consistente no indeferimento de saída temporária para visitação familiar (art. 122, I, da LEP).
+Sustenta-se, em síntese, que o paciente  ..  já cumpriu o requisito temporal e apresenta comportamento classificado como "Excepcional", conforme se extrai de sua TFD. Por último requisito, a medida ora pleiteada cumpre os objetivos da pena, uma vez que representa o gradual retorno ao convívio familiar (fl. 5).
+Postula-se, então, a concessão da ordem para  ..  deferir em favor do paciente a saída temporária denominada Visita Periódica ao Lar (fl. 10).
+Sem pedido liminar.
+Juntei às fls. 38/40, informações do Juízo de primeiro grau, prestadas no writ originário, registrando que (fl. 39):
+ ..
+Verifica-se que o apenado cumpre pena total de 13 (treze) anos e 09 (nove) meses de reclusão, pela prática de 06 (seis) crimes de roubo majorado, tendo cumprido tão somente 04 (quatro) anos, 07 (sete) meses e 12 (doze) dias, isto é, apenas 33% (trinta e três por cento) da pena que lhe foi imposta, restando ainda o cumprimento de 09 (nove) anos, 01 (um) mês e 18 (dezoito) dias, ou seja, 67% (sessenta e sete por cento).
+É por oportuno ressaltar que o apenado ingressou no regime semiaberto recentemente (25/01/2017), sendo necessário observar o cumprimento progressivo da pena e sua demonstração de autodisciplina para cumprir o regime mais brando, de forma a demonstrar aptidão para a saída do estabelecimento prisional.
+ ..
+É o relatório.
+Busca a impetração a autorização para saída temporária do estabelecimento prisional para visita à família, ao argumento de adimplemento dos requisitos objetivos e subjetivos para concessão do benefício.
+Da análise dos autos, tem-se que o Juízo da execução indeferiu a pretensão aqui veiculada, em razão do inadimplemento do requisito de compatibilidade do benefício com os objetivos da pena (art. 123, III, da LEP), aos seguintes fundamentos (fls. 40/41 - grifo nosso):
+ ..
+Destaco, ainda, que o apenado ingressou no regime semiaberto recentemente (25/01/2017), sendo necessário observar o cumprimento progressivo da pena e sua demonstração de autodisciplina para cumprir o regime mais brando, de forma a demonstrar aptidão para a saída do estabelecimento prisional.
+A concessão da VPL, nesse momento, poderá causar dano irreversível ao cumprimento da pena. Além disso, o prazo para que possa pleitear o LC está muito distante (30/04/2021), de forma que entendo necessário um maior tempo de cumprimento no semiaberto para que o apenado possa ser beneficiado com a saída extramuros.
+Ressalte-se que o término de sua pena está previsto para 11/12/2026.
+ ..
+Constato, destarte, que a concessão de saída extramuros no presente momento não se coaduna com o objetivo da pena, servindo, inclusive de estímulo para eventual evasão, razão pela qual INDEFIRO o pleito de VPL ao apenado [NOME] [NOME] DA [NOME], ao menos no presente momento, podendo o pedido ser reapreciado posteriormente.
+ ..
+No seu turno, o Tribunal a quo manteve a decisão do Juízo da execução, assentando que  ..  não obstante ter ocorrido lapso temporal suficiente para a concessão do benefício, resta ao apenado ainda uma longa pena a cumprir  ..  com término de cumprimento da pena previsto para o ano de 2026. Desta forma, resta claro ser prematura a concessão de saída extramuros ao agravante nesse momento do cumprimento da expiação (fl. 29 - grifo nosso).
+Conforme se vê dos autos, a pretensão mandamental foi indeferida nas instâncias ordinárias, que consideraram, no caso dos autos, a saída temporária incompatível com os objetivos da pena, em consonância com a jurisprudência desta Corte, para a qual  ..  o benefício da saída temporária para visitação ao lar não constitui direito subjetivo dos apenados inseridos no regime semiaberto, devendo a mencionada benesse ser avaliada pelo Juízo Executório com base no cumprimento dos requisitos objetivos e subjetivos estabelecidos pelo art. 123 da LEP, dentre os quais a compatibilidade com os objetivos da pena (AgRg no REsp n. 1.723.818/RO, Ministro Jorge Mussi, Quinta Turma, DJe 29/8/2018).
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO PARA O REGIME SEMIABERTO. VISITA PERIÓDICA AO LAR. REQUISITOS DO ART. 123, III, DA LEI N. 7.210/1984. NÃO PREENCHIMENTO. EXAME PELAS INSTÂNCIAS ORDINÁRIAS SUFICIENTEMENTE FUNDAMENTADO. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. AGRAVO IMPROVIDO.
+1. Consoante precedentes desta Corte Superior, a progressão do sentenciado para o regime semiaberto não lhe confere, como consequência necessária, o direito à visitação periódica ao lar.
+2. No caso, as instâncias ordinárias indeferiram o pedido, com fulcro no art. 123, III, da Lei de Execução Penal, sob o fundamento de que o benefício não se mostrava compatível com os objetivos da pena, revelando-se prematuro, ao menos naquele momento, inexistindo constrangimento ilegal a ser sanado.
+3. Agravo regimental improvido.
+(AgInt no HC n. 410.342/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/12/2017 - grifo nosso)
+Ademais, infirmar a conclusão a que chegou o eg. Tribunal de origem, para reconhecer a presença dos requisitos para a concessão da benesse, como pretende a impetração, demandaria aprofundado exame do contexto fático-probatório, providência incabível na via eleita (AgRg no HC n. 446.526/RJ, Ministro Felix Fischer, Quinta Turma, DJe 9/8/2018).
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento, pois não restou demonstrada ilegalidade no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
