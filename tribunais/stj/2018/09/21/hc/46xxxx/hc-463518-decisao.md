@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado pela Defensoria Pública do Distrito Federal em favor de LUIS CLAUDIO ELPIDIO DE OLIVEIRA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios, nos autos do HC n. 0704658-30.2018.8.07.0000.
+Depreende dos autos que o paciente foi preso preventivamente em audiência de custódia por ter supostamente cometido crime de homicídio simples. O Ministério Público apresentou denúncia, pelo crime tipificado no art. 121, § 4º, "in fine", c/c artt. 14, inciso II, ambos do Código Penal.
+Após relatório psicossocial, levantou-se suspeita de que o paciente não gozava de plenas capacidades mentais, o que motivou requerimento ministerial para instauração de incidente de insanidade mental, com a conversão da prisão preventiva decretada em internação provisória em estabelecimento adequado.
+Em decisão exarada em 09/03/2018 foi instaurado incidente de insanidade mental. Atualmente o paciente encontra-se em internação provisória no Centro de Detenção Provisória do Distrito Federal.
+Inconformada, a defesa ingressou com habeas corpus perante o eg. Tribunal de origem, que, por unanimidade, denegou a ordem em parecer assim ementado:
+"HABEASCORPUS. HOMICÍDIO TENTADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS FATOS. PERICULOSIDADE DO PACIENTE. INCIDENTE DE INSANIDADE MENTAL. PRISÃO PREVENTIVA CONVERTIDA EM INTERNAÇÃO PROVISÓRIA. ORDEM DENEGADA.
+1. Mantém-se a prisflo preventiva com fundamento na garantia da ordem pública, porquanto evidenciada pelas circunstâncias em que ocorreu o crime, revelando a gravidade da conduta perpetrada pelo paciente, bem como a sua perieulosidade dc maneira a permitir a decretação de sua prisSo preventiva, nos termos do artigo 312, do Código de Processo Penal.
+2. Convertida a prisSo preventiva em internação provisória, uma vez que instaurado incidente dc insanidade mental do paciente, o caso em concreto, além de revelar prudência, envolve análise aprofundada da situaçfio pessoal do paciente, fato que refoge ao âmbito restrito do habeas corpus. Dc qualquer modo, levando-se em conta os fundamentos que embasaram a prisflo preventiva, convertida cm internação provisória, nSo há ilegalidade a ser sanada, uma vez que preenchidos os requisitos dos artigos 312 e 313, inciso I, ambos do Código de Processo Penal.
+6. Habeas corpus conhecido. Ordem denegada" (fl. 148).
+Dai o presente writ, onde a impetrante alega, em síntese, que "  ..  não há elementos que indiquem a necessidade de medida cautelar de internação provisória, tampouco ser a prisão preventiva a única medida eficiente para resguardar a ordem pública e nem mesmo a medida mais adequada ante a gravidade do fato e às circunstâncias pessoais do paciente" (fl. 4).
+Afirma, ainda, que "O réu foi preso preventivamente, pelo Juízo do Núcleo de Audiências de Custódias, em 26/02/2018, sendo instaurado o incidente de insanidade mental em 09/03/2018. No entanto, o acusado encontra-se preso provisoriamente há mais de 150 dias sem que o exame tenha sido realizado, não havendo nenhuma previsão da sua realização" (fl. 4).
+Requer, assim, a concessão da ordem para revogar a internação provisória decretada em desfavor do paciente, com a sua imediata colocação em liberdade. Subsidiariamente, a substituição da internação provisória, pelas medidas cautelares de afastamento da vítima e tratamento ambulatorial ou quaisquer outras compatíveis com a situação pessoal do paciente.
+O pedido liminar foi indeferido às fls. 300-302.
+Informações prestadas às fls. 311-347.
+O Ministério Público Federal, às fls. 349-352, manifestou-se pela prejudicialidade do pedido, devida à perda de seu objeto, em parecer sem ementa.
+É o relatório.
+Decido.
+O writ está prejudicado.
+Com efeito, conforme informações prestadas às fls. 330-331, o d. juízo da Vara Criminal e Tribunal do Juri do Recanto das Emas-DF, substituiu a prisão preventiva por medidas cautelares e, em 22/08/2018, o paciente foi colocado em liberdade, in verbis:
+"Após avaliar o pedido de revogaçãO da prisão preventiva oriundo da Defesa, perpetrado nos autos nº 2018.15.1.001042-3, este juizo decidiu por REVOGAR A PRISÃO preventiva do réu, analisando as particularidades do caso, entendendo que as medidas cautelares impostas seriam suficientes no presente caso (fl. 49/149v), principalmente diante da primariedade do paciente e da inexistência de noticias de outros delitos perpetrados pelo paciente.
+O ALVARÁ DE SOLTURA DO PACIENTE FOI EXPEDIDO (fls. 153/154). Há noticia no sistema SIAPEN que o paciente foi posto em liberdade em 22/08/2018. Contra a referida decisão o Ministério Público impetrou recurso, o qual já fora recebido por este Juízo, após a juntada das razões e contrarrazões será devidamente encaminhado à instância superior" (fl. 331).
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, julgo o presente habeas corpus prejudicado.
+P. e I.
