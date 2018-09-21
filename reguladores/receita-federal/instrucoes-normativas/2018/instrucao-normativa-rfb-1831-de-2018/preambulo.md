@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1831, de 20 de setembro de 2018
+Altera a Instrução Normativa RFB nº 1.059, de 2 de agosto de 2010, que dispõe sobre procedimentos de controle aduaneiro e tratamento tributário aplicáveis a bens de viajantes.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 168 do Decreto nº 6.759, de 5 de fevereiro de 2009, e no art. 18 da Portaria MF nº 440, de 30 de julho de 2010, resolve:
