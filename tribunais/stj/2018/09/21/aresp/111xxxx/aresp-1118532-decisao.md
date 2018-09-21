@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. CÓDIGO DE DEFESA DO CONSUMIDOR. AÇÃO DE RESCISÃO DE CONTRATO. COMPRA E VENDA. IMÓVEL. INDENIZAÇÃO. USO DO IMÓVEL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por ANTONIA BISPO DOS PASSOS contra decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu o seu recurso especial manejado em face do acórdão assim ementado (e-STJ, fl. 227):
+Apelação cível. Ação de restituição de valores. Compromisso de compra e venda firmado com a Cohab e já rescindido em ação anteriormente ajuizada por aquela, em decorrência do inadimplemento da promitente compradora. Não se desconhece a aplicação dos princípios do Código de Defesa do Consumidor na resolução dos contratos de compromisso de compra e venda, não se permitindo a perda da totalidade das prestações pagas, ainda que o promissário comprador seja o inadimplente, nos termos do artigo 53 do Código de Defesa do Consumidor, com as deduções devidas e compensações pelo tempo de uso irregular do imóvel. Mas no caso dos autos, a perda da totalidade das prestações pagas em favor do promitente vendedor não implica em abuso e muito menos em enriquecimento sem causa, ante as poucas parcelas pagas e o longo período sem pagamento. Restituição indevida. Supostas benfeitorias não especificadas. Apelo desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 192/196).
+Nas razões do recurso especial, a recorrente, além de dissídio jurisprudencial, apontou violação dos arts. 884 do Código Civil e 51 e 53 do Código de Defesa do Consumidor. Sustenta, em síntese, que "deixar de condenar a recorrida a restituir à recorrente as parcelas pagas, afronta de plano todo o complexo legislativo além de consistir em enriquecimento ilícito" (e-STJ, fl. 202)
+Apresentadas as contrarrazões (e-STJ, fls. 220/235).
+É o relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que diz respeito à restituição das parcelas pagas pelo comprador, assim se pronunciou o Tribunal de origem:
+Código de Defesa do Consumidor na resolução dos contratos de compromisso de compra e venda, não se permitindo a perda da totalidade das prestações pagas, ainda que o promissário comprador seja o inadimplente, nos termos do artigo 53 do Código de Defesa do Consumidor, com as deduções devidas e compensações pelo tem po de uso irregular do imóvel.
+Mas no caso dos autos, a perda da totalidade das prestações pagas em favor do promitente vendedor não implica em abuso e muito menos em enriquecimento sem causa.
+O contrato de compromisso de compra e venda foi firmado com a autora em 30/11/2000 (fls. 16/23). A ação de rescisão de contrato c.c. reintegração ajuizada pela ré foi distribuída em 15/03/06, quando a autora já era devedora de 36 parcelas.
+Em consulta ao SAJ, verifica-se que até setembro de 2013 ainda não havia ocorrido a reintegração na posse do imóvel.
+Ou seja, o número de parcelas pagas é bem inferior ao tempo em que a autora usufruiu do imóvel, sendo indevida qualquer restituição.
+Com efeito, o entendimento firmado pelo Superior Tribunal de Justiça é de que a rescisão de contrato de promessa de compra e venda de imóvel, na hipótese em que o promitente comprador deixa de pagar a prestação e continua usufruindo do imóvel, enseja ao promitente vendedor o direito à indenização pelo uso do imóvel durante o período da inadimplência.
+Nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO NÃO DEMONSTRADO NOS MOLDES DOS ARTS. 541, PARÁGRAFO ÚNICO DO CÓDIGO DE PROCESSO CIVIL E 255, §§ 2º E 3º DO RISTJ. TERMO INICIAL. TAXA E FRUIÇÃO IMÓVEL. DATA DA INADIMPLÊNCIA. PRECEDENTES. SÚMULA Nº 83/STJ.
+1. O conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnado e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial, não sendo suficiente a simples transcrição de ementas ou votos, sem a exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados. Precedentes.
+2. A rescisão de contrato de promessa de compra e venda de imóvel, na hipótese em que o promitente-comprador deixa de pagar a prestação e continua usufruindo do imóvel, enseja ao promitente-vendedor o direito de indenização pelo uso do imóvel durante o período de inadimplência. Precedentes. Aplicação da Súmula n.º 83/STJ.
+3. Agravo regimental não provido. (AgRg no AREsp 199.817/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/11/2013, DJe 11/11/2013; grifou-se)
+AGRAVO REGIMENTAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL E REINTEGRAÇÃO DE POSSE. USO DO BEM APÓS O INADIMPLEMENTO DAS PRESTAÇÕES AJUSTADAS. INDENIZAÇÃO DEVIDA PELA POSSE. PRECEDENTES.
+I - A jurisprudência desta Corte orienta que, em caso de rescisão contratual, é devida indenização pelo uso do imóvel após o inadimplemento das prestações pelo adquirente. Agravo Regimental improvido. (AgRg no REsp n. 934.433/DF, Relator Ministro SIDNEI BENETI, 3ª TURMA, julgado em 18/8/2009, DJe 25/8/2009; grifou-se).
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO C.C. REINTEGRAÇÃO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ALEGAÇÃO AFASTADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVA. INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. MULTA CONTRATUAL. SENTENÇA QUE AFASTOU SUA INCIDÊNCIA. FALTA DE INTERESSE DE AGIR. POSSIBILIDADE DE RESTITUIÇÃO DAS PARCELAS PAGAS. RETENÇÃO ENTRE 10% E 25% DOS VALORES JÁ PAGOS ADMITIDA. INDENIZAÇÃO POR USO DO IMÓVEL DEVIDA. PRECEDENTES. FIXAÇÃO A CARGO DO JUÍZO DE ORIGEM EM SEDE DE LIQUIDAÇÃO DE SENTENÇA, OBSERVADOS OS PARÂMETROS INDICADOS. ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO.
+PRECEDENTE. RECURSO PARCIALMENTE PROVIDO.
+1. Não configura o cerceamento de defesa o julgamento antecipado da lide sem a produção de prova testemunhal quando o Tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes. A reforma do acórdão, neste aspecto, demandaria revolvimento do contexto fático-probatório, vedado pela Súmula nº 7 do STJ.
+2. Não possui interesse de agir quem se insurge contra ponto em que se sai vencedor.
+3. Nas hipóteses de resolução de contrato de promessa de compra e venda por inadimplemento do comprador, esta Corte tem admitido a retenção, pelo vendedor, entre 10% e 25%, do total da quantia paga.
+Precedentes.
+4. Havendo uso do imóvel por considerável período e a reintegração nele pelo vendedor, é devida retenção de percentual correspondente a perdas e danos que suportou, a título de alugueis.
+5. Respeitados os parâmetros fixados, os valores a que o vendedor poderá reter deverão ser apurados pelo juízo de origem, em sede de liquidação de sentença.
+6. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem sequer a título de prequestionamento.
+7. Recurso parcialmente provido.
+(REsp 1364510/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/12/2015, DJe 14/12/2015; grifou-se)
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. INADIMPLEMENTO DO PROMISSÁRIO COMPRADOR. PAGAMENTO DE ALUGUEL PELO USO DO IMÓVEL. OBRIGAÇÃO DEVIDA POR TODO O PERÍODO DE OCUPAÇÃO. CONSECTÁRIO LÓGICO DO RETORNO AO ESTADO ANTERIOR. PRECEDENTES DA CORTE.
+1. Decretada a resolução do contrato de compra e venda de imóvel, com a restituição das parcelas pagas pelo comprador, o retorno das partes ao estado anterior implica o pagamento de indenização pelo tempo em que o comprador ocupou o bem, desde a data em que a posse lhe foi transferida. Precedentes.
+2. A pretensão de que apenas fosse indenizada a posse do imóvel a partir do momento em que o comprador se tornou inadimplente ensejaria enriquecimento ilícito do ocupante, uma vez que as prestações pagas serão devolvidas como efeito da própria rescisão.
+3. Agravo interno provido para negar provimento ao recurso especial.
+(AgInt no REsp 1216477/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/04/2018, DJe 07/06/2018; grifou-se).
+Destarte, no caso dos autos, vislumbra-se que o aresto impugnado, ao examinar a situação de fato da recorrente observou essa orientação, encontrando-se em consonância com o entendimento desta Corte Superior.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, CONHEÇO do agravo para negar provimento ao recurso especial.
+Considerando o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários recursais em R$ 1.500,00 (um mil e quinhentos reais), observado o benefício da gratuidade de justiça concedido na origem fl. 31.
+Intimem-se.
