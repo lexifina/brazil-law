@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] e EVALDO SALES [NOME], contra decisão que deu provimento ao recurso especial para majorar os honorários advocatícios, fixando-os em 5% (cinco por cento) sobre o valor atribuído à causa (e-STJ, fls. 1.013-1.016).
+Sustenta a parte embargante ser "imperioso que haja o devido esclarecimento acerca da incidência dos juros e correção monetária sobre o montante fixado, para que se evite, assim, recursos procrastinatórios por parte do executado na primeira instância" (e-STJ, fl. 1.019).
+Requer, assim, o acolhimento dos embargos de declaração para: "(i) fixar o índice de correção monetária pelo INCC a partir da data do ajuizamento da ação rescisória (Súmula 14 - STJ); (ii) bem como fixar os juros de mora de 1% ao mês a partir da citação" (e-STJ, fl. 1.019).
+Impugnação apresentada pelos embargados (e-STJ, fls. 1.024-1.027), defendendo o não acolhimento dos embargos de declaração.
+Assim delimitada a questão, passo a decidir.
+Esclareço que, "nos termos da jurisprudência desta Corte Superior, o termo inicial dos juros moratórios na cobrança de honorários de sucumbência é a data em que o executado é intimado para pagamento na fase de cumprimento da sentença, caso a obrigação não seja adimplida de forma voluntária. Já a correção monetária tem incidência a partir da data do arbitramento da verba honorária, ou de sua majoração, como ocorrido na hipótese" (EDcl no AgRg no REsp 1.563.325/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 7/3/2017).
+No mesmo sentido, confira-se: AgInt no AREsp 887.644/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/11/2016, DJe 18/11/2016; REsp 330.180/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 9/10/2012, DJe 29/10/2012.
+Ademais, "o índice de correção monetária, por sua vez, embora seja matéria a ser tratada no âmbito do respectivo cumprimento de sentença, perante o Juízo de origem, é de proceder ordinário a adoção da Tabela oficial do Tribunal de origem" (EDcl no REsp 1.569.422/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 30/8/2016).
+Em face do exposto, acolho parcialmente os embargos de declaração para sanar a omissão apontada.
+Intimem-se.
