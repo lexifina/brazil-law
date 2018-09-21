@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WELITON LUIS DA [NOME] [NOME], apontando como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu pedido de liminar no Habeas Corpus nº 2190293-63.2018.8.26.0000.
+Consta dos autos que o paciente cumpre pena de 9 anos, 9 meses e 10 dias de reclusão em regime inicial fechado, por ter sido condenado pela prática do crime de extorsão, e formulou pedido de progressão de regime, que foi indeferido pelo Juízo das execuções.
+Alega, em síntese, que o paciente atingiu a fração de 1/6 do total das penas impostas e unificadas em 18/06/2017, vez que contou com a remição de 46 dia, além dos períodos de detração penal relativos à prisão cautelar, ora mencionados no parágrafo anterior, oportunidade em que ingressou com pedido de progressão ao regime semiaberto, deferido em 19/09/2017 (fl. 6)
+Requer, portanto, a concessão da liminar para que o Juízo de primeiro grau acate a decisão dos Tribunais Superiores e refaça o cálculo penal para alterar o marco para a nova progressão de regime, considerando, para isso, a data em que o sentenciado atingiu o requisito temporal de 1/6 para a progressão ao regime semiaberto, ou seja, em 18/06/2017, devendo a serventia, para tanto, também computar os dias remidos e, no julgamento do mérito, seja confirmada a decisão prolatada em caráter de urgência.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal e plenamente adotada por esta Corte - Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar -, em princípio, não se admite a utilização de habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+Consoante relatado, o paciente iniciou o cumprimento da pena corporal em 24/11/2009, para descontar 09 anos, 09 meses e 10 dias de reclusão em regime inicial fechado, por ter sido condenado pela prática do crime de extorsão (fl. 5).
+Sustenta o impetrante, em síntese, que o paciente atingiu a fração de 1/6 do total das penas impostas e unificadas em 18/06/2017, vez que contou com a remição de 46 dia, além dos períodos de detração penal relativos à prisão cautelar, ora mencionados no parágrafo anterior, oportunidade em que ingressou com pedido de progressão ao regime semiaberto, deferido em 19/09/2017. (fls. 6).
+Impetraram, então, habeas corpus perante o Tribunal de origem requerendo a retificação do cálculo de liquidação de penas, tendo a Corte estadual indeferido o pedido de liminar em decisão assim fundamentada (fls. 61):
+Vistos.
+[NOME] e [NOME], Advogados, impetram este habeas corpus em favor de [NOME], apontando como autoridade coatora o MM. Juízo de Direito do DEECRIM UR9 - Comarca de São José dos Campos. Postulam, liminarmente, a retificação do cálculo de liquidação de penas, considerando-se como marco inicial para fins de futuro benefício, a data da aquisição do direito à progressão ao regime intermediário, e não a data em que foi deferida a benesse.
+A análise sumária da inicial não autoriza inferir pelo preenchimento dos requisitos típicos da medida liminar.
+Isso porque, em verdade, a matéria arguida diz respeito ao próprio mérito do writ, escapando, portanto, aos restritos limites de cognição da cautelar, que há de ser deferida apenas nos casos em que exsurge flagrante a ilegalidade afirmada.
+Indefere-se, pois, a liminar.
+Requisitem-se informações da autoridade judiciária apontada como coatora, com posterior remessa dos autos à douta Procuradoria Geral de Justiça.
+No caso, a pretensão de retificação dos cálculos da liquidação das penas é questão passível de indeferimento da medida de urgência, em habeas corpus, por demandar, inclusive, análise do próprio mérito da impetração, sobretudo no caso em tela, em que afirmado pelo Relator que a matéria arguida diz respeito ao próprio mérito do writ, escapando, portanto, aos restritos limites de cognição da cautelar, que há de ser deferida apenas nos casos em que exsurge flagrante a ilegalidade afirmada.
+Dessa forma, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Outrossim, o processamento do presente writ implicaria inevitavelmente supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
