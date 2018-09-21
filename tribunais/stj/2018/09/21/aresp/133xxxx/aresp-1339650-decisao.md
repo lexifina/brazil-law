@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. COMERCIALIZAÇÃO INDEVIDA DE PRODUTOS E MARCAS. CONCORRÊNCIA DESLEAL. DANO MORAL IN RE IPSA. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Regina Indústria e Comércio S.A. ajuizou ação de conhecimento em desfavor de Comercial Paulista Eireli e GLC Utitlidades Eireli, ao argumento de que as requeridas estariam vendendo, sem a devida autorização, produtos para festa de personagens da Disney, Marvel e outras marcas. Afirma que detém a titularidade exclusiva dos direitos de fabricação, distribuição e comercialização no Brasil, levando o público consumidor à confusão, o que configura ilícito de concorrência desleal.
+A Magistrada de primeiro grau julgou parcialmente procedentes os pedidos para determinar às requeridas que se abstenham de produzir, comercializar e distribuir os produtos e marcas licenciadas à autora, bem como a fim de condená-las ao pagamento de danos materiais, cujo valor deverá ser liquidado por arbitramento, observado o art. 210 da Lei n. 9.279/1996.
+Interposta apelação pela autora, a Segunda Câmara Cível do Tribunal de Justiça de Mato Grosso do Sul negou provimento à insurgência, em acórdão assim ementado:
+RECURSO DE APELAÇÃO - CONCORRÊNCIA DESLEAL - COMERCIALIZAÇÃO DE PRODUTOS E MARCAS LICENCIADAS À AUTORA - DANO MORAL NÃO COMPROVADO - DANO MATERIAL - ART. 210 DA LEI 9.279/96.
+1. Conforme jurisprudência do Superior Tribunal de Justiça devem ser comprovados os prejuízos de ordem moral efetivamente sofridos pela autora.
+2. É devida a reparação dos danos materiais sofridos pela apelada, em razão da prática de concorrência desleal, cujo valor deverá observar o disposto no art. 210 da Lei 9.279/96.
+Regina Indústria e Comércio S.A. interpôs recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de divergência jurisprudencial, violação aos arts. 209 e 210, I, II e III, da Lei n. 9.279/1996.
+Defendeu, em síntese, que, reconhecida a concorrência desleal promovida em detrimento dos direitos da empresa ora recorrente, configurado o dever de reparação dos danos materiais e morais decorrentes de tal conduta ilícita.
+Sem contrarrazões.
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidência das Súmulas 7 e 83 do STJ.
+ Irresignada, a insurgente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta apresentada às fls. 950-954 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, a jurisprudência desta Corte é no sentido de que o dano moral originado da comercialização indevida de marca ou produto caracteriza hipótese de dano in re ipsa, isto é, independe da comprovação do efetivo abalo moral, decorrendo, portanto, do direito legalmente tutelado de exploração exclusiva da marca.
+Nesse sentido, confiram-se os seguintes precedentes:
+RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. DIREITO MARCÁRIO. INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. AUSENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. CONTRAFAÇÃO. DANOS MATERIAIS E MORAIS. DESNECESSIDADE DE COMPROVAÇÃO DO PREJUÍZO. DANO IN RE IPSA.
+1- Ação ajuizada em 28/7/2005. Recurso especial interposto em 15/4/2013 e concluso ao Gabinete em 26/8/2016.
+2- O propósito do presente recurso especial é definir se as premissas fáticas assentadas pelos juízos de primeiro e segundo graus dão suporte à condenação indenizatória imposta ao recorrente e ao valor arbitrado a título de compensação por danos morais.
+3- O recurso especial não pode ser provido quando a indicação expressa do dispositivo legal violado está ausente.
+4- A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5- Os danos suportados pela recorrida decorrem de violação cometida ao direito legalmente tutelado de exploração exclusiva das marcas por ela registradas.
+6- O prejuízo suportado prescinde de comprovação, pois se consubstancia na própria violação do direito, derivando da natureza da conduta perpetrada. A demonstração do dano se confunde com a demonstração da existência do fato - contrafação -, cuja ocorrência é premissa assentada pelas instâncias de origem. Precedentes.
+7- A jurisprudência do STJ firmou-se no sentido de entender cabível a compensação por danos morais experimentados pelo titular de marca alvo de contrafação, os quais podem decorrer de ofensa à sua imagem, identidade ou credibilidade.
+8- Recurso especial não provido. (REsp n. 1.661.176/MG, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 6/4/2017, DJe 10/4/2017)
+RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. USO INDEVIDO DE MARCA DE EMPRESA. SEMELHANÇA DE FORMA. DANO MATERIAL. OCORRÊNCIA. PRESUNÇÃO. DANO MORAL. AFERIÇÃO. IN RE IPSA. DECORRENTE DO PRÓPRIO ATO ILÍCITO. INDENIZAÇÃO DEVIDA. RECURSO PROVIDO.
+1. A marca é qualquer sinal distintivo (tais como palavra, letra, numeral, figura), ou combinação de sinais, capaz de identificar bens ou serviços de um fornecedor, distinguindo-os de outros idênticos, semelhantes ou afins de origem diversa. Trata-se de bem imaterial, muitas vezes o ativo mais valioso da empresa, cuja proteção consiste em garantir a seu titular o privilégio de uso ou exploração, sendo regido, entre outros, pelos princípios constitucionais de defesa do consumidor e de repressão à concorrência desleal.
+2. Nos dias atuais, a marca não tem apenas a finalidade de assegurar direitos ou interesses meramente individuais do seu titular, mas objetiva, acima de tudo, proteger os adquirentes de produtos ou serviços, conferindo-lhes subsídios para aferir a origem e a qualidade do produto ou serviço, tendo por escopo, ainda, evitar o desvio ilegal de clientela e a prática do proveito econômico parasitário.
+3. A lei e a jurisprudência do Superior Tribunal de Justiça reconhecem a existência de dano material no caso de uso indevido da marca, uma vez que a própria violação do direito revela-se capaz de gerar lesão à atividade empresarial do titular, como, por exemplo, no desvio de clientela e na confusão entre as empresas, acarretando inexorável prejuízo que deverá ter o seu quantum debeatur, no presente caso, apurado em liquidação por artigos.
+4. Por sua natureza de bem imaterial, é ínsito que haja prejuízo moral à pessoa jurídica quando se constata o uso indevido da marca. A reputação, a credibilidade e a imagem da empresa acabam atingidas perante todo o mercado (clientes, fornecedores, sócios, acionistas e comunidade em geral), além de haver o comprometimento do prestígio e da qualidade dos produtos ou serviços ofertados, caracterizando evidente menoscabo de seus direitos, bens e interesses extrapatrimoniais.
+5. O dano moral por uso indevido da marca é aferível in re ipsa, ou seja, sua configuração decorre da mera comprovação da prática de conduta ilícita, revelando-se despicienda a demonstração de prejuízos concretos ou a comprovação probatória do efetivo abalo moral.
+6. Utilizando-se do critério bifásico adotado pelas Turmas integrantes da Segunda Seção do STJ, considerado o interesse jurídico lesado e a gravidade do fato em si, o valor de R$ 50.000,00 (cinquenta mil reais), a título de indenização por danos morais, mostra-se razoável no presente caso.
+7. Recurso especial provido.
+(REsp n. 1.327.773/MG, Relator o Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/11/2017, DJe 15/2/2018.)
+RECURSO ESPECIAL. PROPRIEDADE INTELECTUAL. DIREITO DE MARCA. FALSIFICAÇÃO. IMPORTAÇÃO DE PRODUTO CONTRAFEITO. BENS RETIDOS PELA AUTORIDADE ALFANDEGÁRIA. DANO MORAL. CONFIGURAÇÃO. PRODUTOS NÃO COMERCIALIZADOS NO MERCADO INTERNO. DESNECESSIDADE DE COMPROVAÇÃO DO PREJUÍZO. DANO IN RE IPSA.
+1- Ação ajuizada em 24/7/2014. Recurso especial interposto em 3/11/2014 e concluso ao Gabinete em 25/8/2016.
+2- Controvérsia cinge-se em determinar se é necessária a exposição ao mercado ou a comercialização do produto contrafeito para que fique caracterizada a ocorrência de dano moral ao titular da marca ilicitamente reproduzida.
+3- A jurisprudência do STJ firmou-se no sentido de entender cabível a compensação por danos morais experimentados por pessoa jurídica titular de marca alvo de contrafação, os quais podem decorrer de ofensa à sua imagem, identidade ou credibilidade.
+4- A Lei n. 9.279/1996 - que regula a propriedade industrial -, em seus artigos que tratam especificamente da reparação pelos danos causados por violação aos direitos por ela garantidos (arts 207 a 210), não exige comprovação, para fins indenizatórios, de que os produtos contrafeitos tenham sido expostos ao mercado.
+5- O dano moral alegado pelas recorrentes decorre de violação cometida pela recorrida ao direito legalmente tutelado de exploração exclusiva da marca por elas registrada.
+6- O prejuízo suportado prescinde de comprovação, pois se consubstancia na própria violação do direito, derivando da natureza da conduta perpetrada. A demonstração do dano se confunde com a demonstração da existência do fato - contrafação -, cuja ocorrência é premissa assentada pelas instâncias de origem.
+7- Desse modo, exsurge que a importação de produtos identificados por marca contrafeita, ainda que não expostos ao mercado consumidor interno, encerram hipótese de dano in re ipsa.
+8- Verba compensatória arbitrada em R$ 50.000,00 (cinquenta mil reais).
+9- RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.535.668/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 15/9/2016, DJe 26/9/2016)
+Na hipótese dos autos, o acórdão recorrido manteve a improcedência do pedido de indenização por danos morais, por entender que "a quantidade de produtos apreendidos foi pequena e não há nos autos prova de que o acontecido foi capaz de abalar a credibilidade da marca ou macular a percepção dos consumidores em relação aos produtos por ela representados" (e-STJ, fl. 402).
+Dessa forma, é de se reconhecer que o entendimento adotado pelo Tribunal de origem está em dissonância à jurisprudência do Superior Tribunal de Justiça.
+Assim, apesar do subjetivismo que envolve o arbitramento do quantum indenizatório, a fixação do montante deve ser realizada levando-se em consideração o porte da insurgente, a marca objeto de falsificação, a quantidade de material apreendido, a natureza do dano sofrido e a função pedagógico-preventiva da condenação.
+Desse modo, fixo em R$ 20.000,00 (vinte mil reais) o montante devido a título de compensação por danos morais.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de condenar as ora recorridas, solidariamente, ao pagamento de indenização por danos morais, no valor de R$ 20.000,00 (vinte mil reais).
+Publique-se.
