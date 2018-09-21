@@ -1,0 +1,92 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. REVISÃO DE VERBA HONORÁRIA. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Esta Corte tem firme entendimento no sentido de que a revisão da verba honorária fixada na instância a quo, bem como do valor arbitrado a título de astreintes, somente é possível no âmbito do recurso especial quando se mostrarem irrisórios ou exorbitantes. Do contrário, a pretensão esbarra no óbice contido na Súmula n. 7/STJ.
+II - Tem-se que a situação delineada nos autos amolda-se à regra geral firmada por este Tribunal no sentido de ser incabível a alteração da verba honorária nesta instância, por demandar o revolvimento probatório, incidindo no óbice sumular n. 7/STJ
+III- O mesmo ocorre com relação ao valor fixado a título de astreintes, vez que restou assim delineado no acórdão vergastado (fl. 114).
+IV - Verifica-se que, na hipótese, o valor da multa, arbitrado em R$ 2.000,00 (dois mil reais), não se mostra excessivo, conforme entendimento desta Corte em casos semelhantes ao que ora se analisa.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, com o objetivo de reformar o acórdão assim ementado pelo Tribunal de Justiça do Estadual (fl. 141):
+CONSTITUCIONAL E ADMINISTRATIVO. RECURSO DE AGRAVO. INTERNAÇÃO EM UTI. MULTA DIÁRIA CONTRA A FAZENDA PÚBLICA. POSSIBILIDADE. ASTREINTES FIXADAS EM OBSERVÂNCIA ÇOM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. HONORÁRIOS ADVOCATICIOS. PEDIDO DE MINORAÇÃO. DESCABIMENTO. RECURSO IMPROVIDO. 1. Compulsando os autos, observo que a agravada deu entrada no Hospital Agamenom Magalhães no dia 11/01/2014, após sofrer um infarto agudo no miocárdio, evoluindo com fibrilação atrial persistente, infecção respiratória e infecção urinaria, sendo-lhe indicada, por esses motivos, a internação em leito da UTI para melhor acompanhamento do caso (fl.19/33). Ocorre que apesar do quadro clinico gravíssimo da apelada, a mesma não conseguiu ser internada em leito da UTI, por inexistir vagas na rede estadual de saúde, não restando alternativa a autora a não ser interpor a presente ação judicial. 2. Considerando que a garantia à saúde e à vida é ampla e irrestrita, é facultado ao Juiz fixar multa diária para o efetivo cumprimento da medida requerida, não se mostrando desarrazoado o valor arbitrado em R$2.000,00 (dois mil reais), em face da relevância do bem protegido. 3. A majoração ou diminuição do valor arbitrado a título de honorários advocatícios é medida excepcional, ou seja, só deve sofrer alteração nos casos onde o mesmo se mostre irrisório ou exorbitante, o que não vislumbro no presente caso, onde os mesmos foram fixados em R$1.000,00 (mil reais). 4. Recurso de Agravo a que se nega provimento.
+
+Os embargos de declaração opostos foram rejeitados (fl. 163).
+Em suas razões especiais, o recorrente aponta violação dos arts.20, §§ 3º e 4º do CPC/73 e 537 do CPC/15, defendendo a necessidade de redução do quantum arbitrado à título de honorários advocatícios e astreintes, vez que fixados em desconformidade com o disposto na lei.
+Sem contrarrazões (fl. 187), o Tribunal de origem negou seguimento ao recurso especial (fls. 189 - 190), tendo sido interposto o presente agravo.
+A decisão monocrática tem o seguinte dispositivo:"Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial. ".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Esta Corte tem firme entendimento no sentido de que a revisão da verba honorária fixada na instância a quo, bem como do valor arbitrado a título de astreintes, somente é possível no âmbito do recurso especial quando se mostrarem irrisórios ou exorbitantes. Do contrário, a pretensão esbarra no óbice contido na Súmula n. 7/STJ.
+Confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. SOBRESTAMENTO. DESNECESSIDADE. JUÍZO DE EQUIDADE. VALOR ÍNFIMO. SÚMULA 7 DO STJ. AFASTAMENTO.
+1. Esta Corte tem o entendimento, cristalizado na Súmula 345, de que são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas.
+2. O CPC/2015 inovou no tocante às regras alusivas à fixação dos honorários advocatícios, principalmente no que diz respeito aos percentuais a serem arbitrados e à condenação em casos que envolvem a Fazenda Pública, mantendo, contudo, o princípio da causalidade na fixação dos honorários, de modo que aquele que deu causa à ação judicial deve arcar com os honorários advocatícios.
+3. Apesar de a propositura da ação demarcar os limites da causalidade e os riscos de eventual sucumbência, o STJ elegeu a sentença - ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios - como marco para a incidência das regras do novo estatuto processual, notadamente em face da natureza jurídica híbrida do referido instituto (processual-material).
+4. Hipótese em que, tendo sido a execução proposta em 2006 e a sentença que a extinguiu, fixando a verba honorária, proferida em 2010, a eventual decisão a ser adotada por esta Corte no julgamento do recurso repetitivo - cuja tese controvertida refere-se à aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7º, do CPC/2015 - não terá o condão de alterar o entendimento explicitado na decisão ora agravada. Afastado, portanto, o sobrestamento do feito.
+5. Esta Corte possui o entendimento, sedimentado em julgamento realizado sob a sistemática dos recursos repetitivos, de que, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+6. Via de regra, não se admite o apelo especial para reapreciar honorários advocatícios fixados por equidade, em face do óbice da Sumula 7 do STJ, exceto quando quantificados em valor irrisório ou exorbitante.
+7. Hipótese em que a quantia arbitrada mostrava-se evidentemente irrisória, sendo o caso de afastar o óbice sumular para refazer o juízo de valor realizado pelas instâncias de origem.
+8. Agravos internos desprovidos.
+(AgInt no AREsp 1007254/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 06/02/2018, DJe 08/03/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO. COBRANÇAS REALIZADAS A MAIOR. REPETIÇÃO DO INDÉBITO FIXADA NA FORMA SIMPLES PELAS INSTÂNCIAS ORDINÁRIAS. ALEGAÇÃO DE INEXISTÊNCIA DE ENGANO JUSTIFICÁVEL. VERIFICAÇÃO. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM VALOR IRRISÓRIO (R$ 500,00). POSSIBILIDADE DE AUMENTO. RESTABELECIMENTO DO VALOR ESTIPULADO NA SENTENÇA (R$ 1.000,00). AGRAVO REGIMENTAL DO PARTICULAR PARCIALMENTE PROVIDO, SOMENTE PARA RESTABELECER A VERBA HONORÁRIA FIXADA NA SENTENÇA.
+ ..
+4. No que se refere aos honorários advocatícios, a jurisprudência deste STJ já firmou entendimento de que, em casos excepcionais, é possível a revisão quando se tratar de valor fixado de modo irrisório, inapto a remunerar condignamente o patrono da parte e atentatório à dignidade da justiça, ou exorbitante, cujo pagamento se torne excessivamente penoso ao vencido.
+5. No presente caso, a verba honorária foi reduzida pelo Tribunal de origem de R$ 1.000,00 para R$ 500,00, mostrando-se manifestamente irrisória, em clara afronta ao critério previsto no art. 20, § 4o. do CPC/1973. Os honorários advocatícios devem ser estimados de modo a remunerar condignamente o trabalho profissional especializado e, também, respeitar a complexidade da matéria, desestimulando-se sobremodo as ações judiciais que se originam de atitudes caprichosas ou resistentes ao conhecimento de direitos subjetivos fundamentais.
+6. Agravo Regimental do particular parcialmente provido, somente para restabelecer a verba honorária fixada na sentença (R$ 1.000, 00).
+(AgRg no AREsp 327.606/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/03/2017, DJe 05/04/2017).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DESERÇÃO DO RECURSO ESPECIAL DA PARTE ADVERSA. NÃO CABIMENTO. DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. ASTREINTES. REVISÃO DO VALOR. POSSIBILIDADE. EXORBITÂNCIA CONFIGURADA. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Na guia de custas judiciais juntada com o recurso especial da parte contrária constou o número de processo vinculado de origem e também o nome correto das partes, razão pela qual é correta a decisão agravada que não acolheu o pedido de aplicação da pena de deserção.
+2. O eg. Superior Tribunal de Justiça firmou orientação de que o exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância ou o caráter irrisório da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, sem que isso acarrete ofensa à coisa julgada. Precedentes.
+3. No caso, o arbitramento pela Corte de origem de multa diária no valor de R$ 300,00 (trezentos reais) ao dia por descumprimento de decisão judicial que determinou a exclusão do nome do recorrido chegou ao montante de R$ 272.381,71 (duzentos e setenta e dois mil, trezentos e oitenta e um reais e setenta e um centavos), mostrando-se exorbitante, razão pela qual foi determinada a sua redução para R$ 100,00 (cem reais) ao dia. Ausência de ofensa à coisa julgada. Nova reprimenda que atende à razoabilidade. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no AREsp 915.215/BA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017)
+No tocante aos honorários advocatícios - arbitrados em R$ 1.000,00 (mil reais), o Tribunal da origem, ao manter a sentença de procedência dos pedidos, assim deliberou (fl. 115):
+ ..
+Por fim, entendo que a majoração ou diminuição do valor arbitrado à título de honorários advocatícios é medida excepcional, ou seja, só deve sofrer alteração nos casos onde o mesmo se mostre irrisório ou exorbitante, o que não vislumbro no presente caso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM FAVOR DA DEFENSORIA PÚBLICA ESTADUAL VALOR IRRISÓRIO
+REVISÃO.
+POSSIBILIDADE.
+1. A jurisprudência desta Corte admite, em caráter excepcional, a alteração do quantum arbitrado a título de honorários advocatícios, caso o valor se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+2. No caso, a majoração da verba honorária é imperiosa, porquanto fixada em patamar ínfimo pelo Tribunal a quo.
+3. Agravo regimental não provido.
+(AgRg no AREsp 417.027/RJ, Rei. Ministro SÉRGIO KUK1NA, PRIMEIRA TURMA,
+julgado em 22/04/2014, DJe 06/05/2014).
+ ..
+Nesse contexto, tem-se que a situação delineada nos autos amolda-se à regra geral firmada por este Tribunal no sentido de ser incabível a alteração da verba honorária nesta instância, por demandar o revolvimento probatório, incidindo no óbice sumular n. 7/STJ
+O mesmo ocorre com relação ao valor fixado a título de astreintes, vez que restou assim delineado no acórdão vergastado (fl. 114):
+ ..
+Extrai-se dos autos que a autora deu entrada no Hospital Agamenom Magalhães no dia 11/01/2014, após sofrer um infarto agudo no miocárdio, evoluindo com fibrilação atrial persistente, infecção respiratória e infecção urinária, sendo-lhe indicada,por esses motivos, a internação em leito da UTI para melhor acompanhamento do caso (fl. 19/33).
+Ocorre que apesar do quadro clinico gravíssimo da apelada, a mesma não conseguiu ser internada em leito da UTI, por inexistir vagas na rede estadual de saúde, não restando alternativa a autora a não ser interpor a presente ação judicial.
+Dessa forma, considerando que a garantia à saúde e à vida é ampla e irrestrita, é facultado ao Juiz fixar multa diária para o efetivo cumprimento da medida requerida, não se mostrando desarrazoado o valor arbitrado em R$2.000,00 (dois mil reais), em face da relevância do bem protegido.
+ ..
+Neste particular, verifica-se que, na hipótese, o valor da multa, arbitrado em R$ 2.000,00 (dois mil reais), não se mostra excessivo, conforme entendimento desta Corte em casos semelhantes ao que ora se analisa.
+No sentido, os seguintes julgados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À VIDA E À SAÚDE. TRATAMENTO MÉDICO. INTERNAÇÃO EM UTI. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. ASTREINTES. REDUÇÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão publicada em 29/06/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, trata-se de ação de obrigação de fazer proposta em desfavor do Estado de Pernambuco, objetivando a internação do autor em unidade de terapia intensiva (UTI), em hospital de rede pública ou privada.
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. No caso, o Tribunal a quo, diante do quadro fático delineado nos autos, manteve o valor das astreintes em R$ 2.000,00 (dois mil reais), por dia de descumprimento, considerando a gravidade do caso - em que se discute o custeio de tratamento de paciente idoso, portador de tumor cerebral em estágio avançado, necessitando, com urgência, de internação em UTI -, razão pela qual entendeu não haver exorbitância em sua aplicação.
+V. Consoante a jurisprudência do STJ, "rever o entendimento do Tribunal de origem, que consignou pela manutenção da multa cominatória fixada pelo Juízo de 1º Grau por descumprimento da decisão de fornecimento de medicamento, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ" (STJ, AgInt no AREsp 728.833/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 09/06/2016). No mesmo sentido: "A revisão do valor arbitrado a título de multa exige, em regra, o reexame do conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ. Tal situação, no entanto, pode ser excepcionada quando o referido valor se mostrar exorbitante ou irrisório, situação não verificada no caso dos autos" (STJ, AgRg no AREsp 844.841/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/04/2016).
+VI. Agravo interno improvido.
+(AgInt no AREsp 936.117/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 06/04/2017, DJe 26/04/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. 1. REDUÇÃO DA MULTA POR NÃO CUMPRIMENTO DA ORDEM JUDICIAL. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. Rever as conclusões do acórdão recorrido quanto ao valor das astreintes demandaria o reexame de matéria fático-probatória, o que é inviável em recurso especial, nos termos da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+(AgInt no AREsp 1081986/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/08/2017, DJe 31/08/2017 - Valor da multa: R$ 2.000,00)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER OBJETIVANDO A TRANSFERÊNCIA DO AUTOR PARA CTI PEDIÁTRICA DE HOSPITAL PÚBLICO. DIREITO À SAÚDE. POSSIBILIDADE DE APLICAÇÃO DE MULTA PARA ASSEGURAR O CUMPRIMENTO A DECISÃO JUDICIAL. RAZOABILIDADE DO VALOR ARBITRADO. AGRAVO INTERNO DO ESTADO DO RIO DE JANEIRO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte Superior entende ser possível a aplicação de multa diária em caso como os dos autos, em que envolve direito à saúde. Precdentes: AgRg no AREsp. 603.546/GO, Rel. Min. HERMAN BENJAMIN, DJe 6.4.2015; AgRg no AREsp. 580.406/GO, Rel. Min. ASSUSETE MAGALHÃES, DJe 25.3.2015; REsp. 1.399.842/ES, Rel. Ministro SÉRGIO KUKINA, DJe 3.2.2015; REsp. 1.002.297/PR, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 7.4.2015.
+2. A fixação da multa no valor de R$ 10.000,00 por dia de atraso, fora estipulada de acordo com as peculiaridades do caso concreto, em especial, considerando a efetivação da medida de extrema urgência e o bem jurídico ora tutelado.
+3. Agravo Interno do Estado do Rio de Janeiro a que se nega provimento.
+(AgInt no REsp 1472443/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/06/2017, DJe 27/06/2017)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
