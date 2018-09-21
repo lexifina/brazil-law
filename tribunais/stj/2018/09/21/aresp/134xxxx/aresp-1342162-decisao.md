@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO. SFH. RENEGOCIAÇÃO CONTRATO DE MÚTUO. LEI Nº 11.922/2009.
+IMPOSIÇÃO AO AGENTE FINANCEIRO. IMPOSSIBILIDADE. AUTONOMIA DA VONTADE. RECURSO DESPROVIDO.
+1. Trata-se de Agravo Interno interposto por [NOME], em face da Decisão Monocrática que negou seguimento à Apelação Cível interposta pelo ora Agravante, que pretendia a condenação da CAIXA ECONÔMICA FEDERAL - CEF a realizar a revisão financeira do contrato de mútuo habitacional firmado entre as partes, em conformidade com as diretrizes previstas na Lei nº 11.922/2009.
+2. Depreende-se da interpretação literal do artigo 3º da Lei nº 11.922/2009 que, para que o mutuário tenha a benesse da renegociação do seu contrato é necessária que a instituição financeira esteja de acordo com a sua realização.
+3. A pretensão da Parte Agravante, em ver a Parte Agravada compelida a aderir à renegociação do seu contrato de mútuo, vai de encontro à autonomia da vontade, um dos princípios basilares de formação dos contratos, pautada pela liberdade das partes em contratar.
+4. Recurso desprovido.
+Nas razões de recurso especial, alega o recorrente violação do artigo 3º da Lei nº 11.922/2009, segundo a qual, sustenta, o agente financeiro é obrigado a efetivar a proposta para composição amigável ao mutuário. Prossegue afirmando que a faculdade é para o mutuário, que poderá ou não pactuar nestas condições.
+Não merece reforma a decisão agravada, a qual foi publicada depois da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do atual Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com efeito, consignou o Tribunal de origem:
+Pretende a Parte Agravante que seja acolhido integralmente o seu recurso, de modo a compelir a Parte Agravada a renegociar o contrato de financiamento habitacional com fulcro no disposto no artigo 3º, da Lei nº 11.922/2009.
+Assim dispõe o caput de tal dispositivo legal:
+"Art. 3º Os contratos de financiamento habitacional formalizados até 5 de setembro de 2001, no âmbito do SFH, sem a cobertura do FCVS bem como os contratos de financiamento que originariamente contavam com esta cobertura mas que a tenham perdido ou vierem a perdê-la, que apresentem o desequilíbrio financeiro de que trata o art. 4º desta Lei, poderão ser renegociados, de comum acordo entre as partes contratantes, nas condições desta Lei, no prazo de:" (Sem grifos no original)
+Depreende-se da interpretação literal do dispositivo acima que, para que o mutuário tenha a benesse da renegociação do seu contrato é necessária que a instituição financeira esteja de acordo com a sua realização.
+Como exposto pela Parte Agravante em sua petição inicial, várias foram as suas tentativas administrativas de que a CEF, ora Parte Agravada, anuísse com a sua pretensão de renegociação, contudo todas infrutíferas. Resta desta forma, incontestável, o fato de que a Empresa Pública não está de comum acordo com o pretendido pela Parte Agravante.
+A fim de obter Decisão favorável ao seu pleito, alega a Parte Agravante que a referida lei possui como destinatário final o mutuário, sendo sua a faculdade de celebrar a renegociação contratual. Já à Empresa Pública recai a obrigação legal de aderi-la, caso contrário não haveria a necessidade da edição da Lei nº 11.922/2009.
+A Decisão Monocrática deverá ser mantida.
+A pretensão da Parte Agravante, em ver a Parte Agravada compelida a aderir à renegociação do seu contrato de mútuo, vai de encontro à autonomia da vontade, um dos princípios basilares de formação dos contratos, pautada pela liberdade das partes em contratar.
+Logo, tendo sido o contrato de mútuo celebrado entre as partes de forma livre, não poderá uma das partes obrigar a que a outra proceda de modo diverso do previamente acordado. (destaques no original.)
+O caso é de incidência da Súmula 83/STJ, na medida em que o entendimento do Tribunal Regional Federal da Segunda Região não destoa do desta Corte, no sentido do respeito à autonomia de vontade e à liberdade de contratar. Confira-se precedente específico:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO. LEI 11.922/2009. RENEGOCIAÇÃO DE CONTRATO DE FINANCIAMENTO HABITACIONAL. AUTONOMIA DE VONTADE E LIBERDADE DE CONTRATAR. RECURSO PROCRASTINATÓRIO. NÃO RECONHECIMENTO. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. DESCABIMENTO.
+1. Nos casos de renegociação de contrato de financiamento habitacional não está o agente financeiro obrigado a renegociar o débito, mas apenas autorizado, inexistindo obrigação legal dirigida à CEF para rever o pactuado, nos termos do art. 3º da Lei nº 11.922/2009.
+2. Não se pode olvidar que a legislação referida é cristalina ao consignar que os contratos de financiamento habitacional "poderão" ser renegociados, em comum acordo de ambas as partes, sendo imperioso ressaltar que até mesmo por tratar-se de um contrato, é necessário o interesse, também do agente financeiro, para proceder-se à renegociação das dívidas.
+3. Esta Corte Superior entende que, no direito civil pátrio, predomina a autonomia da vontade, de modo que se confere total liberdade negocial aos sujeitos da relação obrigacional. Precedentes.
+4. Não é possível propugnar pela exigibilidade legal da renegociação da dívida, mormente porque não se extrai da mens legis qualquer norma coercitiva, que exorte a instituição financeira a proceder de forma contrária aos interesses próprios.
+5. Em consonância com a jurisprudência pacífica desta Corte Superior, não se considera procrastinatório ou manifestamente infundado o agravo interno manejado com o intuito de provocar decisão colegiada, visto que a simples interposição do recurso contra decisão do relator não implica a imposição de multa.
+6. "Os honorários recursais previstos no § 11 do art. 85 do CPC/2015 somente têm aplicação quando houver a instauração de novo grau recursal, e não a cada recurso interposto no mesmo grau de jurisdição (Enunciado n. 16 da ENFAM: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição")" (AgInt nos EAREsp 802.877/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 05/04/2017, DJe 09/05/2017).
+7. Agravo interno não provido.
+(AgInt no AREsp 1093164/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
