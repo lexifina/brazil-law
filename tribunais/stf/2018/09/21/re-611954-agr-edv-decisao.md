@@ -1,0 +1,31 @@
+DECISÃO:
+    1.  Trata-se de embargos de divergência opostos em 15.08.2012 contra acórdão proferido à unanimidade de votos pela Primeira Turma do Supremo Tribunal Federal, sob a relatoria do Ministro Dias Toffoli, assim ementado:
+    “Agravo regimental no recurso extraordinário. Magistério. Aposentadoria especial. Contagem do tempo de serviço prestado fora de sala de aula. Possibilidade. Precedente do Plenário.
+    1. O Plenário desta Corte, no julgamento da ADI nº 3.772, consolidou o entendimento de que a aposentadoria especial deve ser concedida aos professores ainda que esses não desenvolvam a atividade de magistério exclusivamente em sala de aula, estando também abrangidas atividades outras, inclusive administrativas, tais como funções de direção, coordenação e assessoramento pedagógico, desde que desempenhadas em estabelecimento de ensino.
+    2. Agravo regimental não provido.”
+    2. Na peça em exame, a parte embargante alega que o acórdão acima transcrito está em contrariedade com o entendimento da Segunda Turma desta Corte, consagrado no julgamento do RE 528.343-AgR, Rel. Min. Gilmar Mendes.
+    3. A parte adversa, regularmente intimada, não apresentou peça de contrarrazões.
+    4. Os embargos de divergência foram admitidos pelo Ministro Dias Toffoli.
+    5. A Presidência deste Tribunal não acolheu proposta de redistribuição dos autos a um dos Ministros que compõem a Segunda Turma.
+    6. É o relatório. Decido.
+    7. Tanto a decisão impugnada como o recurso de embargos datam de período anterior a 18.03.2016, quando entrou em vigor o CPC/2015. O recurso preenche os requisitos de admissibilidade exigidos pelo CPC/1973 – aplicável ao caso nos termos dos arts. 14 e 1.046 do novo Código (Lei nº 13.105/2015).
+    8. Na hipótese, o Tribunal de Justiça do Estado do Rio Grande do Sul manteve sentença que julgara improcedente pedido de concessão de aposentadoria especial, formulado por professora da rede pública estadual. Veja-se, nesse sentido, a fundamentação adotada pelo TJ/RS:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. PROFESSOR. APOSENTADORIA ESPECIAL.
+    - Para fins de concessão da aposentadoria especial do professor prevista no artigo 40, § 1º, inciso III, alínea a, c/c § 5º, da Constituição Federal, c/c art. 67, § 2º, da Lei nº 9.394/96 com a redação dada pela Lei nº 11.301/96 considera-se o tempo de contribuição exercido pelo professor nas funções de regência de classe, direção de unidade escolar, coordenação e assessoramento pedagógico tal como restou assentado na ADI nº 3772 julgada 29-10-2008 pelo Supremo Tribunal Federal. Hipótese em que o período de 26/06/00 a 17/08/06, em que a autora comprovadamente exerceu atividades administrativas não pode ser computado para fins de aposentadoria especial.
+    NEGARAM PROVIMENTO À APELAÇÃO.
+    […]
+    Na espécie, portanto, corretamente desconsiderado, para efeito da aposentadoria especial, o período – 26/06/00 a 17/08/06 – prestado pela autora em atividades de auxiliar de secretaria e biblioteca (fl. 20).
+    Ressalte-se, por oportuno, que a autora não apresentou qualquer adminículo de prova no sentido de que exercesse atividade pedagógica na função de auxiliar de secretaria e biblioteca.”
+    9. O recurso extraordinário apresentado pela autora da presente ação foi provido para “reformando o acórdão recorrido, julgar a ação procedente, para determinar que o período em que a recorrente exerceu a atividade de magistério fora de sala de aula seja computado para fins de aposentadoria especial”. A Primeira Turma manteve a referida decisão, em acórdão que constitui o objeto dos presentes embargos de divergência, conforme já relatado.
+    10. Os embargos de divergência devem ser providos. O Supremo Tribunal Federal admite a inclusão das atividades de direção, coordenação e assessoramento em unidade escolar no cômputo do tempo de serviço para fins de aposentadoria especial. Veja-se, nesse sentido, a ementa da ADI ADI 3.772, Redator para o acórdão o Ministro Ricardo Lewandowski:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE MANEJADA CONTRA O ART. 1º DA LEI FEDERAL 11.301/2006, QUE ACRESCENTOU O § 2º AO ART. 67 DA LEI 9.394/1996. CARREIRA DE MAGISTÉRIO. APOSENTADORIA ESPECIAL PARA OS EXERCENTES DE FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. ALEGADA OFENSA AOS ARTS. 40, § 5º, E 201, § 8º, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. AÇÃO JULGADA PARCIALMENTE PROCEDENTE, COM INTERPRETAÇÃO CONFORME.
+    I - A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar.
+    II - As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 5º, e 201, § 8º, da Constituição Federal.
+    III - Ação direta julgada parcialmente procedente, com interpretação conforme, nos termos supra.”
+    11. Neste caso, entretanto, a instância ordinária, soberana na apreciação da prova dos autos, considerou que a atividade exercida pela autora - auxiliar de secretaria e biblioteca – não se enquadra naquelas definidas pelo STF como integrantes da carreira de magistério. Dissentir da referida conclusão demandaria o exame dos fatos e do material probatório constantes dos autos, providência inviável na via extraordinária, nos termos da Súmula 279/STF (“Para simples reexame de prova não cabe recurso extraordinário”).
+    12. Ademais, nos termos da jurisprudência do STF, o relator possui plena faculdade de prover embargos de divergência, por decisão monocrática, nas hipóteses em que o acórdão embargado divergir da jurisprudência dominante do Tribunal, como ocorre neste caso. Precedentes: RE 560.555-AgR-EDv, Rel. Min. Celso de Mello, e RE 605.288-AgR-EDv, Rel. Min. Dias Toffoli.
+    13. Diante do exposto, nos termos do artigo 335, § 1º, do RI/STF, dou provimento aos embargos de divergência para negar seguimento ao recurso extraordinário.
+    Publique-se. Intimem-se.
+          Brasília, 21 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
