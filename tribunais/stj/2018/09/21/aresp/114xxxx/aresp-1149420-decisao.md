@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CIVIL. AÇÃO COM PEDIDO DE REVISÃO CONTRATUAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE  MODALIDADE CHEQUE ESPECIAL. ALEGAÇÃO DE COBRANÇA DE ENCARGOS ILEGAIS. NECESSIDADE DE AFASTAMENTO. EQUILÍBRIO DO PACTO. LEGITIMIDADE PASSIVA DO BANCO BAMERINDUS.
+SUCESSÃO. BANCO HSBC S.A. QUE APRESENTOU-SE COMO SUCESSOR, INCORPORANDO EM SEU PATRIMÔNIO O PRESTÍGIO DO NOME E A CLIENTELA, RESPONSABILIZANDO-SE PELO CUMPRIMENTO DAS OBRIGAÇÕES DECORRENTES DAS RELAÇÕES FORMALIZADAS ANTERIORMENTE À SUCESSÃO. CITA PRECEDENTES. INVERSÃO DO ÔNUS DA PROVA. DIREITO BÁSICO DO CONSUMIDOR. EX VI DO ART. 6º, INCISO VIII, DO CDC.
+VEROSSIMILHANÇA DAS ALEGAÇÕES E HIPOSSUFICIÊNCIA DEVIDAMENTE DEMONSTRADOS NO CASO EM QUESTÃO. CAPITALIZAÇÃO DE JUROS. AUSÊNCIA DE CONTRATO APRESENTADO PELA INSTITUIÇÃO FINANCEIRA. AFASTAMENTO DE TAL ENCARGO QUE SE IMPÕE. RESTITUIÇÃO DOS VALORES COBRADOS INDEVIDAMENTE. POSSIBILIDADE. SENTENÇA SINGULAR MANTIDA. RECURSO DE APELAÇÃO CONHECIDO E, NO MÉRITO, NÃO PROVIDO.
+No recurso especial, a parte agravante alega violação do artigo 6º da Lei 9.447/1997; dos artigos 219, 224, 225, 227, 228 e 229 da Lei 6.404/1976; do artigo 265 do Código Civil; e divergência jurisprudencial. Pretende ver reconhecida sua ilegitimidade passiva. Argumenta que celebrou contrato de compra e venda de ativos e passivos com o Banco Bamerindus do Brasil S.A.; que só adquiriu parte dos ativos, não todos, não sendo sucessor universal; que não há solidariedade entre as duas instituições financeiras; que a sucessão não é fato notório; que não cabe aplicar a teoria da aparência; que dentre os ativos e passivos adquiridos não está a operação objeto da presente demanda; e que o Banco Bamerindus do Brasil S.A. possui personalidade jurídica própria.
+Sobre a ilegitimidade passiva, consta do acórdão recorrido:
+Alega o recorrente que a apelada celebrou com o Banco Bamerindus Contrato de Conta Corrente no ano de 1992, sendo que apenas esta instituição possui todas as informações relativas a sua conta bancária.
+Narra que a financeira apelante não é sucessora, a título universal, do Banco Bamerindus, razão pela qual não pode ser responsabilizada por eventuais danos causados à correntista.
+Sem razão sua insurgência.
+O caso em questão não comporta maiores delongas, posto que o Banco HSBC tem legitimidade para responder por eventual prestação de contas de contratos firmados com o Banco Bamerindus, ante a ocorrência da sucessão, na qual o recorrente assumiu todas as obrigações e responsabilidades relativas às negociações celebradas com os correntistas do banco sucedido, incluindo-se entre elas a obrigação de guarda de documentos comuns às partes de relações jurídicas que possuía o sucedido com seus clientes.
+Deste modo, a partir do ajuste, apresentou-se ao público em geral como sucessor do Bamerindus, incorporando em seu patrimônio o prestígio do nome e a clientela, responsabilizando-se pelo cumprimento das obrigações decorrentes das relações formalizadas anteriormente à sucessão.
+A reforma do entendimento do Tribunal de origem depende de reexame dos elementos fático-probatórios do processo e de interpretação de cláusulas contratuais, o que não enseja recurso especial ante o teor das Súmulas 5 e 7 do Superior Tribunal de Justiça. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PLANO COLLOR I. LEGITIMIDADE PASSIVA. HSBC. BANCO BAMERINDUS. SUCESSÃO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ.
+1. O acolhimento da pretensão recursal, por qualquer das alíneas do permissivo constitucional, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmula 5 e 7 do STJ.
+2. Agravo interno não provido.
+(Quarta Turma, AgInt no REsp 1.337.726/MS, Rel. Ministro LUÍS FELIPE SALOMÃO, unânime, DJe de 10.2.2017)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. SUCESSÃO. HSBC. BANCO BAMERINDUS. REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE. SÚMULAS NºS 5, 7 E 83/STJ.
+1. A reforma do julgado demandaria a interpretação de cláusulas contratuais e o reexame do contexto fático-probatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+2. Estando o acórdão recorrido em harmonia com a jurisprudência do Superior Tribunal de Justiça, incide a Súmula nº 83 desta Corte, aplicável por ambas as alíneas autorizadoras.
+3. Agravo regimental não provido.
+(Terceira Turma, AgRg no AgRg no AREsp 101.995/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, unânime, DJe de 25.10.2013)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
