@@ -1,0 +1,49 @@
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. RESTITUIÇÃO DE VALORES RECEBIDOS A TÍTULO DE DECISÃO JUDICIAL PRECÁRIA POSTERIORMENTE CASSADA. POSSIBILIDADE. RESP N. 1.401.560/MT, JULGADO SOB O RITO DO ART. 543-C DO CPC/1973. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Amazonas, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça Estadual, assim ementado (e-STJ fl. 582):
+AGRAVO INTERNO. PEDIDO DE RESTITUIÇÃO DE VALOR PAGO A SERVIDOR PÚBLICO. ANTECIPAÇÃO DE TUTELA CONFIRMADA EM ACÓRDÃO PELO TRIBUNAL "A QUO". VERBA DE NATUREZA ALIMENTAR. EXISTÊNCIA DE BOA-FÉ. RESTITUIÇÃO INDEVIDA.
+A quantia percebida pelo servidor de natureza alimentar, mesmo que em antecipação de tutela, e que seja posteriormente confirmada em acórdão pelo Tribunal, não obsta a presunção de boa-fé.
+Inexistência do direito de restituição por parte do Erário.
+Recurso conhecido e não provido.
+Embargos de declaração rejeitados (e-STJ fl. 615).
+A parte recorrente alega que houve violação dos arts. 520 e 302 do Código de Processo Civil/2015 (475-O, I e II, e 811, do CPC/1973). Sustenta que as verbas recebidas por força de decisão precária, posteriormente revogada, devem ser repetidas.
+Contrarrazões não apresentadas (e-STJ fl. 644).
+Parecer do MPF às e-STJ fls. 669-671, da lavra do Dr. [NOME], pelo não conhecimento do recurso especial e, se conhecido, pelo seu desprovimento.
+É o relatório. Passo a decidir.
+A pretensão recursal merece prosperar.
+Os valores recebidos por força de decisão judicial precária devem ser ressarcidos quando a medida for revogada.
+O tema foi objeto de exame pela Primeira Seção no julgamento do REsp 1.401.560/MT, submetido ao rito do artigo 543-C do CPC/73. Confira-se a ementa do referido julgado:
+PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. ANTECIPAÇÃO DE TUTELA. REVERSIBILIDADE DA DECISÃO.
+O grande número de ações, e a demora que disso resultou para a prestação jurisdicional, levou o legislador a antecipar a tutela judicial naqueles casos em que, desde logo, houvesse, a partir dos fatos conhecidos, uma grande verossimilhança no direito alegado pelo autor. O pressuposto básico do instituto é a reversibilidade da decisão judicial. Havendo perigo de irreversibilidade, não há tutela antecipada (CPC, art. 273, § 2º). Por isso, quando o juiz antecipa a tutela, está anunciando que seu decisum não é irreversível. Mal sucedida a demanda, o autor da ação responde pelo recebeu indevidamente. O argumento de que ele confiou no juiz ignora o fato de que a parte, no processo, está representada por advogado, o qual sabe que a antecipação de tutela tem natureza precária.
+Para essa solução, há ainda o reforço do direito material. Um dos princípios gerais do direito é o de que não pode haver enriquecimento sem causa. Sendo um princípio geral, ele se aplica ao direito público, e com maior razão neste caso porque o lesado é o patrimônio público. O art. 115, II, da Lei nº 8.213, de 1991, é expresso no sentido de que os benefícios previdenciários pagos indevidamente estão sujeitos à repetição. Uma decisão do Superior Tribunal de Justiça que viesse a desconsiderá-lo estaria, por via transversa, deixando de aplicar norma legal que, a contrario sensu, o Supremo Tribunal Federal declarou constitucional. Com efeito, o art. 115, II, da Lei nº 8.213, de 1991, exige o que o art. 130, parágrafo único na redação originária (declarado inconstitucional pelo Supremo Tribunal Federal - ADI 675) dispensava.
+Orientação a ser seguida nos termos do art. 543-C do Código de Processo Civil: a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos.
+Recurso especial conhecido e provido. (REsp 1.401.560/MT, Relator Ministro Sérgio Kukina, Relator p/ acórdão Ministro Ari Pargendler, Primeira Seção, DJe 13/10/2015)
+
+Com o mesmo entendimento:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. SERVIDOR PÚBLICO. VALORES RECEBIDOS POR FORÇA DE DECISÃO JUDICIAL PRECÁRIA, POSTERIORMENTE CASSADA. RESTITUIÇÃO AO ERÁRIO. POSSIBILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido está em confronto com o entendimento desta Corte, no sentido de que é legítima a restituição ao erário de valores pagos a servidor público/pensionista em razão do cumprimento de decisão judicial, posteriormente reformada em segundo grau de jurisdição.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido. (AgInt no REsp 1.597.765/AM, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 18/11/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. RECEBIMENTO PROVISÓRIO. TUTELA ANTECIPADA CONCEDIDA. POSTERIOR REVOGAÇÃO. DEVOLUÇÃO DOS VALORES. NECESSIDADE. MEDIDA DE NATUREZA PRECÁRIA. REVERSIBILIDADE. AUSÊNCIA DE BOA-FÉ OBJETIVA. DUPLA CONFORMIDADE. EXCEÇÃO. ADMISSÃO. CORTE ESPECIAL. REQUISITOS NÃO PREENCHIDOS. FOLHA DE PAGAMENTO. DESCONTOS. POSSIBILIDADE. VERBA DE NATUREZA ALIMENTAR. PARÂMETROS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Os valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, haja vista a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa. Por ser decorrência lógica da insubsistência da medida precária, não há a necessidade de propositura de ação autônoma para o credor reaver tal quantia.
+Precedentes. Inaplicabilidade do precedente firmado nos EREsp nº 1.086.154/RS, pois não ocorreu o fenômeno da dupla conformidade na origem.
+3. Os efeitos da revogação da tutela antecipada devem ser suportados pela parte que a requereu, de modo que cassada a decisão, os efeitos retroagem, fazendo desconstituir a situação conferida de forma provisória. Em outras palavras, os efeitos são imediatos e ex tunc, impondo à parte beneficiada pela liminar o ônus de recompor o status quo anterior ao deferimento da medida. Aplicação, por analogia, da Súmula nº 405/STF.
+4. Como as verbas previdenciárias complementares são de natureza alimentar e periódica, e para não haver o comprometimento da subsistência do devedor, tornando efetivo o princípio da dignidade da pessoa humana (art. 1º, III, da CF), deve ser observado, na execução, o limite mensal de desconto em folha de pagamento de 10% (dez por cento) da renda mensal do benefício previdenciário suplementar até a satisfação integral do crédito.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.100.564/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 26/2/2018)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. TUTELA ANTECIPADA. REVOGAÇÃO. DEVOLUÇÃO DOS VALORES PAGOS EM RAZÃO DA MEDIDA ANTECIPATÓRIA. POSSIBILIDADE. RESP 1.401.560/MT, REPRESENTATIVO DA CONTROVÉRSIA.
+I - A Primeira Seção desta Corte, em sede de recurso representativo da controvérsia, ao apreciar o mérito do REsp n. 1.401.560/MT, definiu que "a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos".
+II - A Corte Especial fixou, alinhada com o julgamento precitado da Primeira Seção, que, nas hipóteses em que a antecipação de tutela é confirmada pela primeira e segunda instância, é presumida a boa-fé do receptor da verba alimentar, não obstante a revogação da medida nas instâncias especial ou extraordinária, o que não é o caso dos presentes autos. A propósito: EREsp 1.086.154/RS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 19.3.2014.
+III - Agravo interno improvido.
+(AgInt no REsp 1.659.472/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 31/10/2017).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECEBIMENTO VIA ANTECIPAÇÃO DE TUTELA POSTERIORMENTE REVOGADA. DEVOLUÇÃO. SERVIDOR PÚBLICO. CRITÉRIOS. CARÁTER ALIMENTAR E BOA-FÉ OBJETIVA. NATUREZA PRECÁRIA DA DECISÃO. RESSARCIMENTO DEVIDO. RECURSO ESPECIAL PROVIDO.
+1. O Recurso Especial de Roberto Mendes dos Santos carece de conhecimento, pois deixou de apontar a norma jurídica que entende incorretamente interpretada pelo Tribunal de origem. Incide a vedação de admissibilidade preceituada na Súmula 284/STF no ponto recursal, segundo a qual: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Quanto ao Recurso Espeical do INSS, a Primeira Seção do Superior Tribunal de Justiça, no julgamento do Tema 692, vinculado ao Recurso Especial Repetitivo 1.401.560/MT, firmou entendimento de que "a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos", independentemente da natureza alimentar da verba e da boa-fé do beneficiário.
+3. O acórdão combatido diverge da jurisprudência do STJ na medida em que decidiu que não é repetível o valor de benefícios previdenciários pagos por força de tutela antecipada posteriormente revogada.
+4. Recurso Especial de Roberto Mendes dos Santos não conhecido e Recurso Especial do INSS provido.
+(REsp 1.675.341/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2017).
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
