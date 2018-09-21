@@ -1,0 +1,32 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO NCPC. LOCAÇÃO. CANCELAMENTO DE PROTESTO E INDENIZAÇÃO POR DANOS MORAIS. BOA FÉ OBJETIVA. ATO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. POSSIBILIDADE DE INOVAÇÃO RECURSAL. COMANDO NORMATIVO INEFICAZ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS NºS 282 E 284, AMBAS DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ANDREIA ALVES DOS [NOME] e [NOME] (ANDREIA e outra) ajuizaram ação sob o rito ordinário contra MÔNICA DE BARROS CASTANHO (MÔNICA), pleiteando o cancelamento de protestos e indenização por danos morais, cujos pedidos foram julgados procedentes, em parte, rejeitado o pleito indenizatório (e-STJ, fls. 514/519).
+A apelação interposta por MÔNICA não foi provida e não conhecido o reclamo apresentado por ANDREIA e outra, nos termos da seguinte ementa:
+APELAÇÕES - LOCAÇÃO DE IMÓVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - MANUTENÇÃO DE PROTESTOS APÓS A QUITAÇÃO DA DÍVIDA COBRADA A MAIOR - SENTENÇA DE PARCIAL PROCEDÊNCIA QUE DETERMINOU O CANCELAMENTO DO PROTESTOS, CONDENOU A REQUERIDA AO PAGAMENTO DE DANOS MATERIAIS E AFASTOU A INDENIZAÇÃO POR DANOS MORAIS - APELO DAS REQUERENTES NÃO CONHECIDOS EM RAZÃO DA ALTERAÇÃO DA CAUSA DE PEDIR - RECONVENÇÃO PLEITEANDO O PAGAMENTO DE INDENIZAÇÃO POR DANOS NO IMÓVEL E MULTA CONTRATUAL - AUSÊNCIA DE CONEXÃO COM A AÇÃO PRINCIPAL OU COM OS FUNDAMENTOS DA DEFESA - HONORÁRIOS DE SUCUMBÊNCIA QUANTO À LIDE PRINCIPAL BEM ARBITRADOS - SENTENÇA MANTIDA - RECURSO DAS REQUERENTES NÃO CONHECIDO E RECURSO DA REQUERIDA DESPROVIDO (e-STJ, fl. 560).
+Os sucessivos embargos de declaração manejados por ANDREIA e outra foram rejeitados (e-STJ, fls. 573/576 e 581/584).
+Inconformadas, MÔNICA e ANDREIA e outra manejaram recursos especiais. Na presente decisão será analisada a insurgência das segundas.
+Em seu apelo nobre fincado nas alíneas a e c do permissivo constitucional, ANDREIA e outra alegaram ofensa aos arts. 187 e 422, ambos do CC/02. Argumentaram que a conduta omissiva de MÔNICA, ao não fornecer a carta de anuência, violou a boa-fé objetiva e acarretou a a permanência indevida das restrições, revelando-se ato ilícito passível de reparação por danos morais. Sustentaram ser possível a alegação da boa-fé objetiva em segundo grau de jurisdição, por ser questão de ordem pública, não havendo falar em inovação recursal (e-STJ, fls. 604/613).
+As contrarrazões foram apresentadas (e-STJ, fls.649/659).
+O apelo nobre não foi admitido em virtude da ausência de negativa de prestação jurisdicional e incidência da Súmula nº 7 do STJ no que respeita à questão de mérito (e-STJ, fls. 666/668).
+Nas razões do presente agravo em recurso especial, ANDREIA e outra sustentaram que a análise do seu reclamo prescinde do reexame fático-probatório e que não foi ventilada, no apelo nobre, violação do art. 1.022 do NCPC.
+A contraminuta foi apresentada (e-STJ, fls. 687/694).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No caso, a Corte de origem não conheceu da apelação manejada por ANDREIA e outra, porque entendeu que elas inovaram no recurso, ao apresentarem a tese de que, em razão do princípio da boa-fé objetiva, após a quitação da dívida, MÔNICA deveria ter entrado em contato e fornecido a carta de anuência:
+A preliminar de não conhecimento do recurso das requerentes deve ser acolhida.
+Realmente, na inicial as requerentes se limitaram a afirmar que a requerida prometia o fornecimento de declaração de anuência, mas não "se dignou restituir o indébito e, apesar das solicitações das ora requerentes, vem postergando - por simples espírito de emulação - o fornecimento da necessária e prometida "DECLARAÇÃO DE ANUÊNCIA"" Sic (fls. 3).
+Já nas razões de apelo, as requerentes sustentaram que em razão do princípio da boa-fé objetiva, após a quitação da dívida, a requerida deveria entrar em contato com as requerentes e fornecer a carta de anuência, independente de pedido, confira-se:
+(..)
+Dessa forma, observa-se que as requerentes inovaram nas razões recusais, pois, o único fundamento do recurso para a condenação da requerida ao pagamento de indenização por danos morais é que esta agiu de forma ilícita por não cumprir a obrigação imposta pela boa-fé objetiva, enquanto o fundamento da inicial para o mesmo pedido é a recusa da requerida em fornecer a carta de anuência.
+Assim, o recurso das requerentes, que trata apenas da indenização por danos morais e da conseqüente inversão dos encargos da sucumbência e imposição de honorários recursais, não pode ser conhecido (e-STJ, fls. 562/563 - sem destaques no original).
+Dessarte, não houve o prequestionamento do tema referente à boa fé objetiva e eventual cometimento de ato ilícito por desrespeito a esse princípio, porque a apelação de ANDREIA e outra não foi nem sequer conhecida. Incidência, portanto, da Súmula nº 283 do STF.
+Ademais, os dispositivos ditos contrariados não possuem comando normativo eficaz a amparar a tese recursal de que é possível a alegação da boa-fé objetiva em segundo grau de jurisdição, por ser questão de ordem pública, a afastar a pecha de inovação recursal. Aplica-se, no particular, a Súmula nº 284 do STF.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de Andreia e outras de R$ 1.400,00 (mil e quatrocentos reais) para R$ 1.500,00 (mil e quinhentos reais), nos termos do art. 85, §§ 2º e 11, do NCPC. Ressalta-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária foi fixada com base na equidade.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intime-se.
