@@ -1,0 +1,35 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE CONTRATO COM PEDIDO INDENIZATÓRIO. COMPRA E VENDA DE VEÍCULO. AFASTAMENTO DA CULPA DA CONCESSIONÁRIA E DO BANCO NA FRAUDE PERPETRADA POR TERCEIRO. AUSÊNCIA DO PREQUESTIONAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ROSE MARY VALENTIN DA CRUZ LIMA e [NOME] (ROSE E [NOME]) ajuizaram ação de rescisão contratual com pedido indenizatório contra a MAIS DISTRIBUIDORA DE VEÍCULOS S.A. (CONCESSIONÁRIA), contra o BANCO DO BRASIL S.A. (BB) e outros.
+O Juízo de Piso julgou parcialmente procedentes os pedidos contra a CONCESSIONÁRIA e o BB, condenando-os, respectivamente, ao pagamento de indenização por danos morais e à devolução dos valores envolvidos no negócio fraudulento.
+O Tribunal de origem, por sua vez, deu provimento aos apelos da CONCESSIONÁRIA e do BB em acórdão assim ementado:
+Apelações e recursos adesivos. Ação declaratória de rescisão contratual c.c. perdas e danos. Fraude perpetrada por terceiro estelionatário. Valores da suposta compra e venda do veículo transferidos pelas autoras para a conta de terceiro fraudador. Ausência de responsabilidade do banco em que o estelionatário mantém conta corrente. Vítimas que contribuíram para a consecução
+do engodo. Funcionária de concessionária que não confirmou o pagamento, por terceiro, do veículo objeto da lide para que o negócio
+fosse realizado. Responsabilidade afastada pelos danos sofridos pelas autoras. Sentença parcialmente reformada. Recursos de apelação dos réus providos, prejudicados os recursos adesivos das autoras (e-STJ, fl. 817).
+Em seguida, ROSE E [NOME] interpuseram recurso especial, com base no art. 105, III, a, da CF, apontando a violação dos arts. 186, 416, 927 e 932 do CC/02, 6º, 14 e 47 do CDC e 373 do NCPC. Sustentaram, em síntese, 1) terem comprovado a participação da vendedora da CONCESSIONÁRIA na intermediação do negócio; e, 2) o direito à inversão da prova no caso concreto, tendo em vista a presença dos pressupostos legalmente exigidos.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nºs 7 do STJ e 284 do STF (e-STJ, fls. 902/903).
+ROSE E [NOME] interpuseram agravo em recurso especial reiterando as teses invocadas no apelo nobre denegado na origem, além de refutar os fundamentos da decisão agravada (e-STJ, fls. 906/923).
+Contraminuta apresentada (e-STJ, fls. 926/946).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De início, cumpre ressaltar que o conteúdo normativo contido nos dispositivos legais invocados por ROSE E [NOME] não foi objeto de debate no âmbito do acórdão recorrido.
+Logo, ausente o prequestionamento, pressuposto específico de cabimento do apelo nobre, o que atrai a incidência da Súmula 211 do STJ.
+Além disso, cumpre destacar que a culpa tanto da CONCESSIONÁRIA, quando do BB foi categoricamente afastada pelo Tribunal de origem. A propósito, destaca-se o seguinte excerto do aresto atacado:
+Não há nos autos evidência de defeito na prestação de serviços por parte do banco réu. A culpa, nessas circunstâncias, é exclusiva da vítima que espontaneamente, sem se atentar para os cuidados necessários, transferiu valores para a conta de terceiro estelionatário, não tendo o banco em nenhum momento induzido referida transferência.
+Cumpre notar que as autoras foram vítimas de estelionatários. Entretanto, não há provas nos autos de que o banco tenha concorrido de qualquer forma para a perpetração do golpe.
+A responsabilidade pelas transferências de valores para a conta indicada pelos estelionatários é das autoras.
+Os extratos de fls. 47/48 são claros em destacar que foram feitos depósitos e transferência de valores entre contas por ato das próprias autoras.
+As autoras não foram diligentes e realizaram negócio com terceiro estelionatário, não podendo carrear a culpa pela fraude sofrida ao banco réu que é mero administrador da conta corrente que recebeu os valores depositados pelas autoras, não restando provado que participou de qualquer relação negocial. Não ficou demonstrada, assim, a existência de falha do banco na prestação dos serviços, devendo a sua condenação ser afastada.
+De outra feita, também assiste razão à empresa Mais Distribuidora de Veículos S/A.
+Ocorre que em momento algum se pode afirmar que a funcionária da
+concessionária, de nome Iara, tenha concorrido para o engodo sofrido pelas autoras, vez que estas transferiram os valores da compra para a conta de terceiro estelionatário, sem que houvesse uma confirmação do recebimento de valores na conta bancária da concessionária com a sinalização desta da regularidade do negócio, para só então determinar a transferência dos valores para essa conta do suposto vendedor.
+Os e-mails de fls. 36/41 demonstram que não houve qualquer participação ou induzimento da concessionária na realização do negócio, ao contrário, no e-mail
+de fls. 38 enviado pela autora [NOME] a um dos estelionatários, restou bem claro que a vendedora da concessionária havia informado que o pagamento não havia sido efetuado por [NOME] (um dos estelionatários, com o qual a autora [NOME] entabulou a compra do veículo).
+Referido e-mail foi enviado às 19h00 do dia 19 de junho de 2013, tendo a autora encaminhado os comprovantes de pagamento no e-mail seguinte (fls. 39), às 20h34, do mesmo dia, sem ter comprovado que houve uma mensagem de regularidade do negócio por parte da funcionária da concessionária.
+Por conseguinte, vislumbra-se que as autoras não foram diligentes na realização do negócio e, por isso, caíram no golpe dos estelionatários, nada havendo que se responsabilizar a concessionária de veículos (e-STJ, fls. 821/823).
+Nesse contexto, conforme bem destacado pela decisão agravada, rever a conclusão a que chegou o acórdão recorrido ensejaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em sede de recurso especial a teor do enunciado nº 7 da Súmula do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de ROSE e [NOME], nos termos do art. 85, parágrafos 2º e 11, do NCPC. Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
