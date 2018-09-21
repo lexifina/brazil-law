@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - NEGATIVA DE COBERTURA PARA CIRURGIA CORRETORA DE PTOSE MAMÁRIA - RECUSA EMBASADA EM RESOLUÇÃO DA ANS - ROL MERAMENTE EXEMPLIFICATIVO, INCAPAZ DE RESTRINGIR DIREITOS - INTERPRETAÇÃO DO CONTRATO DE FORMA MAIS FAVORÁVEL AO CONSUMIDOR - AUSÊNCIA DE EXPRESSA EXCLUSÃO CONTRATUAL - CIRURGIA REPARADORA DE CARÁTER FUNCIONAL, E NÃO ESTÉTICO - CONDENAÇÃO AO CUSTEIO DA CIRURGIA CORRETAMENTE DETERMINADA - NEGATIVA DE COBERTURA QUE NÃO ENSEJA DANO MORAL DESCUMPRIMENTO CONTRATUAL QUE GERA MERO DISSABOR DO COTIDIANO - AUSÊNCIA DE AGRAVAMENTO DO ESTADO DE SAÚDE DA PACIENTE - EXCLUSÃO DA CONDENAÇÃO PELOS DANOS MORAIS - REFORMA DA SENTENÇA APENAS NESTE PONTO RECURSO PARCIALMENTE PROVIDO
+Alegou-se, no especial, violação dos artigos 186 e 927 do Código Civil, associada a dissídio jurisprudencial, ao argumento de que são devidos danos morais no caso de negativa indevida de cobertura de tratamento pelo plano de saúde contratado.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local, no exame dos elementos informativos do processo, consignou que, em que pese indevida, "não foi possível verificar que a negativa de cobertura do exame por parte da apelante tenha gerado danos morais. Isso porque a cirurgia foi deferida e realizada em sede de antecipação de tutela, sem grandes atrasos. Além disso, não há notícia (ou alegação) de que a negativa tenha ocasionado um agravamento no estado de saúde da paciente, pois se tratava de cirurgia corretora pós gastroplastia" (e-STJ, fl. 359).
+Nesse sentido já decidiu o Superior Tribunal de Justiça, de modo que reexaminar a questão esbarra no óbice de que trata o verbete n. 7 da Súmula desta Casa.
+Assim:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. DANO MORAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. CLÁUSULA CONTRATUAL CONTROVERTIDA. RECONHECIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME PROBATÓRIO. NEGATIVA DA INDENIZAÇÃO. SÚMULA Nº 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É firme a orientação do Superior Tribunal de Justiça no sentido de que o simples descumprimento de cláusula contratual controvertida não gera dano moral. Precedentes.
+3. Na hipótese, os magistrados da instância ordinária afastaram o pleito indenizatório por força da natureza controvertida de cláusula do contrato. Rever tal entendimento exigiria o vedado reexame de provas.
+4. Agravo interno não provido.
+(AgInt no REsp 1681848/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/4/2018, DJe 17/4/2018)
+Diante do exposto, nego provimento ao agravo. Tendo o julgado impugnado sido publicado já na vigência do novo diploma processual, majoro, sobre o seu próprio valor, em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil, limitado ao estabelecido nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
