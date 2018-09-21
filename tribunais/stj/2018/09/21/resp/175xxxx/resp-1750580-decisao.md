@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 115):
+CRÉDITO RURAL. EXECUÇÃO FISCAL. ENCARGO DE 20%. ART. 8º, § 10 DA LEI Nº 11.775/2008. HONORÁRIOS ADVOCATÍCIOS. EXCLUSÃO.
+Segundo entendimento deste Tribunal, se a própria Lei nº 11.775/08, no art.
+8º, § 10, previu a exclusão do encargo de 20% do débito consolidado, como medida de estímulo à liquidação ou à renegociação de dívidas originárias de operações de crédito rural inscritas em Dívida Ativa da União, descabe condenar o executado em honorários advocatício.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+A parte recorrente aponta violação aos arts. 489, § 1º, e 1.022 do CPC/2015; e 8º, § 10, da Lei nº 11.775/2008. Sustenta que: (I) o Tribunal de origem foi omisso; (II) no caso dos autos, não houve a inclusão do encargo legal de 20% previsto no Decreto-Lei nº 1.025/69, razão pela qual é possível a incidência de honorários sucumbenciais.
+É o relatório.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Quanto ao cerne da controvérsia, o Tribunal de origem entendeu o seguinte (fls. 112/113):
+Conforme se verifica, o citado dispositivo legal determinou o afastamento do encargo legal, previsto no Decreto-Lei n.º 1.025/69, como medida de estímulo à liquidação ou à renegociação de dívidas originárias de operações de crédito rural inscritas em Dívida Ativa da União.
+Este Tribunal, em recentes decisões, firmou entendimento no sentido de que se a própria Lei nº 11.775/08 previu a exclusão do encargo de 20% do débito consolidado, em nítida intenção do legislador de conferir uma benesse ao contribuinte, descabe condenar o executado em honorários advocatícios, até mesmo em casos de improcedência dos embargos à execução
+No presente caso, o recurso especial não impugnou, de forma específica, fundamento basilar que ampara o acórdão recorrido, qual seja, o de que a autorização de condenação em honorários para o caso dos autos descaracterizaria as benesses concedidas pela Lei nº 11.775/2008.
+Desse modo, o apelo esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, não conheço o recurso especial.
+Publique-se.
