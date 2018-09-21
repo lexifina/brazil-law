@@ -1,0 +1,8 @@
+DECISÃO
+A defesa de ISALTINO MOREIRA NETO presta esclarecimentos sobre os motivos que ensejaram a duplicidade de pedidos relacionados ao acusado perante esta Corte Superior.
+Aduz que apenas impetrou novo habeas corpus (autuado sob o n. 464.239/SP) depois de verificar que o pedido de extensão formulado neste writ ainda não havia sido decidido por aguardarem manifestação do Ministério Público Federal e, com contato com a Assessoria daquele órgão, obteve "a informação de que a mesma  Subprocuradora responsável pelo caso  estava em férias, e somente dentro de alguns dias os autos retornariam ao Gabinete" (fl. 1.243).
+Noticia que, na data em que foi deferido o pedido liminar no HC n. 464.239/SP, "a subscritora da presente se encontrava na Comarca de Bauru, cidade distante da Capital de São Paulo cerca de 350 km, participando de longa e exaustiva audiência relacionada à mesma ação penal, somente tomando conhecimento da concessão da liminar em torno das 19 h" (fl. 1.244).
+Com base nesses dados, a defesa "vem se penitenciar  ..  por não haver desistido do pedido anteriormente, mas tal fato ocorreu pela concomitância entre a concessão da liminar naqueloutro habeas corpus (17.08.2018 - sexta-feira), e o despacho neste (20.08.2018 - segunda-feira), impedindo - dada a exiguidade do tempo - fosse efetivada a desistência" (fl. 1.244).
+Diante do relato minudente da advogada e considero justificada a duplicidade de pedidos no caso. Ainda, recebo a petição de fls. 1.242-1.245 como manifestação de desistência do pedido de extensão formulado às fls. 195-197.
+À vista do exposto, por se tratar de matéria que já foi apreciada em outra impetração, acolho a desistência do pedido de extensão.
+Publique-se e intimem-se.
