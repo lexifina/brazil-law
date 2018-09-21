@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por Banco Santander Brasil S.A., inconformado com a decisão que inadmitiu o recurso especial interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo e assim ementado:
+Agravo de Instrumento. Prestação de contas. Deferimento da gratuidade da justiça. Impugnação. Impossibilidade de pagamento não elidida pela prova existente nos autos. Decisões proferidas em outros feitos que, por si só, não se prestam à demonstração da capacidade econômica. Conjunto probatório existente nos autos que não autoriza a revogação. Honorários periciais. Dever de prestar contas, bem como o de arcar com o pagamento das custas e despesas processuais do processo. Perícia, portanto, que deve ser custeada pela agravante, por aplicação do princípio da causalidade e dos ônus da sucumbência. Decisão mantida. Recurso não provido.
+Nas razões do recurso especial, o ora agravante aponta afronta ao artigo 95 do CPC/2015, ao argumento de que a remuneração do perito deve ser rateada quando a perícia for determinada de ofício.
+É o relatório.
+Da análise dos autos, verifica-se que o agravo em recurso especial é tempestivo, que a parte agravante impugnou adequadamente os fundamentos da decisão agravada e que o recurso especial preenche, em princípio, os requisitos de admissibilidade, merecendo melhor análise por parte desta Corte.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, "d", do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
