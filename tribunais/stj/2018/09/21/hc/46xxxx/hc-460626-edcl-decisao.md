@@ -1,0 +1,12 @@
+DECISÃO
+VALQUIRIA CRISTINA PEREIRA opõe embargos declaratórios contra a decisão de fls. 464-467, em que concedi a ordem a fim de reduzir a pena-base ao mínimo legal e readequar a reprimenda para 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa.
+Nos aclaratórios, a defesa aponta a ocorrência de contradição no decisum, ao afirmar que o writ não foi instruído com cópia da certidão mencionada no acórdão, uma vez que o referido documento estaria acostado às fls. 252-257 destes autos.
+Requer, dessa forma, "que seja sanada a contradição acima apontada e afastada a reincidência da paciente, uma vez que a suspensão condicional do processo não pode ensejar a incidência da referida agravante" (fl. 483).
+Decido.
+Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na espécie, observo que os embargos declaratórios comportam acolhimento, mas sem a atribuição de efeitos infringentes.
+Com efeito, tal como asseverou a defesa, a certidão mencionada no acórdão impugnado havia sido acostada aos autos (fls. 252-257), mas não foi possível verificar seu teor por estar inelegível. Apresentada nova cópia do documento às fls. 484-489, prossigo no seu exame.
+A certidão em comento atesta a tramitação do Processo n. 0005221-21.2014.8.26.0180, que apurou a prática do crime de desacato. Segundo as anotações, a ré foi condenada, na audiência de instrução e julgamento, em 11/11/2015, ao cumprimento de prestação de serviços à comunidade pelo período de sete meses. A condenação transitou em julgado em 20/11/2015 (fl. 488).
+Percebo, com base nesses dados, que a acusada registra, em seu desfavor, condenação definitiva anterior ao delito apurado na ação penal objeto deste writ (ocorrido em 16/12/2015, fl. 11). Não se trata, como pretendeu fazer crer a defesa, de feito em que houve suspensão condicional do processo. Logo, devidamente justificada a aplicação da agravante da reincidência.
+À vista do exposto, acolho os embargos declaratórios para suprir o vício apontado pela defesa, nos termos anteriormente expostos, sem a atribuição de efeitos infringentes ao decisum.
+Publique-se e intimem-se.
