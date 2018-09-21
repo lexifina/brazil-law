@@ -1,0 +1,37 @@
+EMENTA
+PROCESSO CIVIL. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. POSSIBILIDADE, DESDE QUE DEMONSTRADOS O FUMUS BONI IURIS E O PERICULUM IN MORA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. PERIGO CONCRETO. AUSÊNCIA. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a agravo em recurso especial, desde que demonstrada a plausibilidade do direito alegado (fumus boni juris) e a urgência da prestação jurisdicional (periculum in mora).
+2. A execução provisória, por si só, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao agravo ou ao recurso especial, haja vista que esse procedimento possui mecanismos próprios para evitar prejuízos às partes, conforme as rígidas regras dos arts. 520 e 521 do CPC/15
+3. A ausência do periculum in mora basta para o indeferimento do pedido, pois deve se fazer presente cumulativamente com o fumus boni iuris.
+4. Pedido indeferido.
+DECISÃO
+Cuida-se de petição acostada por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS objetivando a concessão de efeito suspensivo ao AREsp 1.312.265/SP, em tramitação neste Superior Tribunal de Justiça.
+Ação: declaratória, ajuizada pela requerente em face de FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS MULTISEGMENTOS NPL IPANEMA - NAO PADRONIZADO e VCM EMPREENDIMENTOS E PARTICIPACOES LTDA, na qual pretende, em breve síntese, declaração judicial no sentido de que se encontra quitada sua obrigação de repassar as rés o preço de aquisição do crédito relativo à ação de regresso nº 583.00.2003.082583-2.
+Em paralelo, tramitou ação de cobrança promovida pelo FUNDO DE INVESTIMENTOS EM DIREITOS CREDITORIOS MULTISEGMENTOS NPL IPANEMA - NAO PADRONIZADO em face da requerente, na qual postulou, exatamente, o recebimento integral do crédito em comento, nos termos do contrato de cessão de créditos de indenizações securitárias regressivas firmado entre as partes.
+Sentença: julgou improcedente o pedido declaratório, condenando a ora requerente ao pagamento das custas e honorários advocatícios, fixados em R$ 20.000,00. Outrossim, julgou procedente o pedido de cobrança, para condenar a requerente ao pagamento da quantia de R$ 16.723.841,66.
+Acórdão: negou provimento às apelações interpostas pela requerente em ambos os processos.
+Embargos de Declaração: opostos pela requerente, foram rejeitados.
+Recurso especial: alega violação dos arts. 112, 113, 139, 295, 349, 421, 422, 786 e 884 do CC/02; 7º, 8º, 9º, 10, 11, 85, § 2º, 141, 437, § 1º, 489 e 1.022 do CPC/15; 2º, I e II, 5º e 14 da LC 126/07. Além de negativa de prestação jurisdicional, sustenta que: (i) o crédito em comento é de titularidade do IRB - Instituto de Resseguros do Brasil, porque se subrogou na posição da seguradora; (ii) diante disso, o referido crédito não se submete aos efeitos do instrumento de cessão firmado entre as partes; (iii) houve violação, na hipótese, dos princípios da função social do contrato, da boa-fé objetiva e da vedação ao enriquecimento sem causa.
+Prévio juízo de admissibilidade: o TJ/SP negou seguimento ao recurso, o que ensejou a interposição do Agravo em Recurso Especial nº 1.312.265/SP.
+Petição: requer a atribuição de efeito suspensivo ao agravo em recurso especial, sustentando que, além da probabilidade de êxito nas alegações recursais, existe risco de dano irreparável, pois as requeridas pleitearam o cumprimento provisório da sentença da ação de cobrança, no montante de R$ 37.674.250,78.
+Decisão unipessoal: de lavra da Vice-Presidência do STJ, indeferiu o pedido em sede liminar, por ausência da fumaça do bom direito.
+RELATADOS OS FATOS, DECIDE-SE.
+A concessão do pretendido efeito suspensivo depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Por se tratar de atribuição de efeito suspensivo a agravo em recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Na hipótese dos autos, a requerente afirma estarem presentes os requisitos para a concessão do efeito suspensivo ao seu recurso especial, pois: (i) foi equivocada a decisão de inadmissão do recurso especial, havendo probabilidade de que seu recurso especial seja conhecido e acolhido por negativa de prestação jurisdicional ou, sucessivamente, pela violação dos arts. 112, 113, 139, 295, 349, 421, 422, 786 e 884 do CC/02; 2º, I e II, 5º e 14 da LC 126/2007; 8º e 85 do CPC/15; (ii) o prosseguimento da execução provisória pode ensejar a ocorrência de dano irreparável, haja vista o risco iminente de penhora em quantia milionária (R$ 37.674.250,78), com acréscimo de multa e honorários advocatícios.
+No entanto, vê-se, ao menos em tese, com base em juízo perfunctório, que os argumentos da requerente não evidenciam qualquer risco iminente de dano irreparável ou de difícil reparação, tendo em vista que se limita a apontar sobre a proximidade da penhora no cumprimento provisório da sentença, sem indicar qualquer prejuízo que, concretamente, possa advir da demora no julgamento do agravo em recurso especial.
+Consoante o firme entendimento desta Corte, é certo que a execução provisória, por si só, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao agravo ou ao recurso especial, haja vista que esse procedimento possui mecanismos próprios para evitar prejuízos às partes, conforme as rígidas regras dos arts. 520 e 521 do CPC/15.
+A propósito, confiram-se, exemplificativamente, os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO. REQUERIMENTO PARA AGREGAÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO NA ORIGEM, HOJE, EM FASE DE PROCESSAMENTO.
+1. Não caracteriza risco de dano irreparável ou de difícil reparação, por si só, a iminente deflagração do cumprimento provisório de sentença.
+2. Atos de constrição para garantia do juízo do cumprimento provisório são reversíveis, afastando um dos requisitos autorizadores da agregação de efeito suspensivo a recurso especial.
+ ..
+6. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA (EDcl no AgInt no TP 711/PE, 3ª Turma, DJe de 18/12/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSAMENTO DOS EMBARGOS COM INDEFERIMENTO DO PEDIDO LIMINAR. ALEGAÇÕES RELATIVAS À CAUÇÃO E AOS LIMITES DA DECISÃO JUDICIAL. SUPRESSÃO DE INSTÂNCIA.
+1. A mera existência de cumprimento provisório de sentença não é razão, por si só, para a concessão de efeito suspensivo a recurso perante o Superior Tribunal de Justiça.
+2. O questionamento e a análise de idoneidade da caução prestada perante o juízo de origem, bem como dos limites da decisão judicial devem ser submetidos às instâncias de origem, sob pena de indevida supressão e ofensa ao devido processo legal.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp 1447082/TO, 2ª Seção, DJe de 01/08/2017)
+Assim, não demonstrada a urgência da prestação jurisdicional, resta inviabilizada a concessão do efeito suspensivo pretendido, ficando prejudicado o exame do pedido sob a perspectiva do fumus boni iuris.
+Forte nessas razões, INDEFIRO o pedido requerido.
+Publique-se. Intimem-se.
