@@ -1,0 +1,79 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. INDEFERIMENTO. INSUFICIÊNCIA DE RECURSOS. PESSOA JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DECISÃO FUNDAMENTADA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+DECISÃO
+MAERKA COMÉRCIO E REPRESENTAÇÕES LTDA (MAERKA) ajuizou agravo de instrumento contra decisão que não lhe concedeu gratuidade de justiça na ação em que litiga com REFRESCO GUARARAPES LTDA (REFRESCOS GUARARAPES LTDA).
+O Tribunal de Justiça do Estado de Pernambuco negou provimento ao recurso em acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO DE AGRAVO. JUSTIÇA GRATUITA. PESSOA JURÍDICA DE DIREITO PRIVADO COM OU SEM FINS LUCRATIVOS. NECESSIDADE DE COMPROVAR A IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS PROCESSUAIS. SÚMULA N. 481/STJ. RECURSO IMPROVIDO.
+- Pessoas jurídicas de direito privado, com ou sem fins lucrativos, para obter os benefícios da justiça gratuita, devem comprovar o estado de miserabilidade, não bastando simples declaração de pobreza.
+- Efetivamente, embora tenha o Agravante alegado a necessidade do benefício, imprescindível que a comprove. Logo, não restou evidenciada a inexistência de condições de arcar com as custas decorrentes do processo.
+- Sabe-se que a presunção de veracidade da declaração do requerente do benefício, entretanto, não afasta o dever de ofício do magistrado de, estando convencido de que a declaração não é compatível com outras declarações do postulante, como sua qualificação ou a causa do pedido, exija a comprovação da renda.
+- Recurso não provido (e-STJ, fl. 135).
+Inconformada, MAERKA interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, por violação dos arts. 1.022 do NCPC; 1º da Lei 1.060/1950; e 99, § 2º, do NCPC. Aduziu, em síntese, (1) negativa de prestação jurisdicional por omissão no julgamento dos embargos de declaração; (2) que não possui condições de arcar com a complementação das custas do processo, sendo gratuidade de Justiça um direito garantido também às pessoas jurídicas em dificuldades; e, segundo o novo Código de Processo Civil, seria necessário o Juízo de origem conceder prazo para que a parte demonstre os requisitos necessários à concessão do benefício (e-STJ, fls. 166/180)
+Em juízo de admissibilidade, a vice-presidência do Tribunal a quo inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. ).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conheço do agravo e passo à apreciação do recurso especial.
+O inconformismo não merece prosperar.
+(1) Da negativa de prestação jurisdicional
+Não há falar-se em negativa de prestação jurisdicional se o Tribunal a quo decidiu a matéria de forma fundamentada, enfrentando os argumentos capazes de, em tese, afirmar a conclusão adotada na sentença recorrida.
+No caso, o acórdão abordou as questões controvertidas, embora de forma contrária à pretensão do recorrente, razão pela qual não houve violação do art. art. 1.022 do NCPC. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXTINÇÃO DE USUFRUTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. AUSÊNCIA DE CULPA OU IRREGULARIDADE POR PARTE DA USUFRUTUÁRIA/RECORRIDA. REVISÃO. SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489, § 1º, e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. É firme a jurisprudência desta Corte no sentido de que compete às instâncias ordinárias exercer juízo acerca da necessidade ou não de dilação probatória, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado no âmbito do recurso especial, consoante o enunciado n. 7 da Súmula deste Tribunal.
+3. A alteração do entendimento firmado no aresto impugnado (no sentido de que não há elementos capazes de revelar a culpa da usufrutuária/recorrida pelas obras consideradas irregulares, ou que tenha provocado a ruína do prédio e que ela tivesse tentado alienar o imóvel) só seria possível mediante o revolvimento do acervo fático-probatório dos autos, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1158294/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/12/2017, DJe 15/12/2017, sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1.022 DO CPC. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. REEXAME DE MATÉRIA PROBATÓRIA.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação dos arts. 489 e 1.022 do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie.
+2. O Tribunal de origem consigna a inexistência de decisão ultra petita na espécie, tampouco qualquer nulidade no procedimento arbitral, notadamente quanto a observação ao contraditório e à ampla defesa. A reforma do aresto, nestes aspectos, demanda inegável necessidade de reexame de matéria probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Agravo interno não provido.
+(AgInt no AREsp 1163849/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 1º/3/2018, DJe 6/3/2018, sem destaque no original)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DIREITO PÚBLICO NÃO ESPECIFICADO. POSSIBILIDADE DE AVALIAÇÃO TÉCNICA DO PRÉDIO COM RELEVÂNCIA HISTÓRICA E CULTURAL. DECISÃO ADEQUADAMENTE FUNDAMENTADA, COM A DEVIDA PRESTAÇÃO JURISDICIONAL, SEM QUALQUER CERCEAMENTO DE DEFESA OU OFENSA AO CONTRADITÓRIO. AGRAVO INTERNO DOS PARTICULARES DESPROVIDO.
+1. Os recorrentes afirmam que a decisão monocrática ora agravada é nula por falta de fundamentação, negativa de prestação jurisdicional, cerceamento de defesa, ofensa ao contraditório e outras eivas, com ofensa, por isso, aos arts. 1o., 11, 140, /41, 371, 489, incisos I, II, III, e § 1o., inciso IV, 490, 492 do CPC/2015, além de garantias e preceitos constitucionais.
+2. Parecer do Ministério Público Federal pelo não conhecimento do Recurso Especial e, se conhecido, pelo seu desprovimento (fls.
+782/788).
+3. Os fundamentos de uma decisão judicial, seja sentença, acórdão ou decisão interlocutória, é a exposição da atividade intelectual do juiz, com base na lógica, diante do caso concreto. Nesse contexto, surge o princípio, de cunho processual, do livre convencimento motivado ou da persuasão racional, que garante ao juiz decidir de acordo com a convicção formada pela análise dos autos, não sendo vinculado a nenhum tipo de prova ou argumentação.
+4. O julgamento contrário aos interesses do autor, não pode significar ausência de prestação jurisdicional ou de julgamento contrário às provas dos autos. Estando o processo pautado pelo respeito aos princípios processuais - do contraditório, devido processo legal e da fundamentação de todas as decisões - é imprópria a alegação de negativa ou inocorrência da prestação jurisdicional.
+5. Da transcrição da decisão recorrida (fls. 7/10 do voto) verifica-se que esta encontra-se adequadamente fundamentada, com a devida prestação jurisdicional, sem qualquer cerceamento de defesa ou ofensa ao contraditório.
+6. Agravo interno dos particulares desprovido.
+(AgInt no AREsp 224.490/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 27/6/2017, DJe 2/8/2017, sem destaques no original)
+(2) Da violação dos arts. 1º da Lei 1.060/1950 e 99, § 2º, do NCPC
+A Corte Estadual assim dirimiu a controvérsia:
+Sabe-se que a presunção de veracidade da declaração do requerente do benefício, entretanto, não afasta o dever de ofício do magistrado de, estando convencido de que a declaração não é compatível com outras declarações do postulante, como sua qualificação ou a causa do pedido, exija a comprovação da renda.
+A Lei 1.060/50, ao estabelecer a concessão da assistência judiciária, condicionou o deferimento do benefício para todo aquele cuja situação econômica não lhe permita pagar as custas do processo e os honorários de advogado, sem prejuízo do sustento próprio ou da família. Com efeito, a jurisprudência dos Tribunais Superiores tem consolidado o entendimento de que "O pedido de justiça gratuita de pessoa jurídica de direito privado deve ser acompanhado de detalhada comprovação da efetiva insuficiência de recursos" (STF - AI 673.934 AgR, Rel. Min. Ellen Gracie, 2a Turma, julgado em 23/06/2009, DJe-148 de 07-08-2009).
+Assim, "Às pessoas jurídicas não basta alegar insuficiência de recursos para obtenção da gratuidade de justiça, devendo comprovar a impossibilidade econômica para litigar em juízo" (STF - AI 716.294 ED, Rel. Min. Cezar Peluso, 2a Turma, julgado em 31/03/2009, DJe-079 de 30-04-2009).
+A concessão do benefício à pessoa jurídica depende de demonstração da impossibilidade de arcar com os encargos processuais, o que não vislumbro no presente feito (e-STJ, fls. , sem destaques no original).
+Da leitura do trecho destacado, verifica-se que, para se alterar a conclusão a que chegou o Tribunal a quo, no sentido de que não ficou comprovada a insuficiência de recursos para se conceder a gratuidade de justiça, indispensável seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula nº 7 do STJ. A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. PESSOA JURÍDICA. RECUPERAÇÃO JUDICIAL. BENEFÍCIO DA GRATUIDADE DA JUSTIÇA. LEI 1.060/50. NECESSIDADE DE COMPROVAÇÃO DA INSUFICIÊNCIA DE RECURSOS. SÚMULA 481/STJ. ACÓRDÃO RECORRIDO. ALINHAMENTO JURISPRUDÊNCIA STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL.
+1. Nos termos da Súmula 481/STJ, a concessão dos benefícios da assistência judiciária gratuita às pessoas jurídicas, com ou sem fins lucrativos, requer a demonstração da impossibilidade de arcarem com os encargos processuais.
+2. Na hipótese sob análise, o acórdão recorrido afirmou a ausência da comprovação de que o requerente não poderia arcar com as custas processuais, para justificar a concessão do benefício da Lei 1.060/50. Alterar esse entendimento esbarra no óbice da Súmula 7/STJ.
+3. A jurisprudência desta Corte é no sentido de que fica prejudicado o exame do recurso especial pela alínea "c" do permissivo constitucional quando incidente na hipótese a Súmula 7/STJ.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 927.851/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 8/5/2018, DJe 10/5/2018, sem destaques no original)
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO CONTRA A INADMISSÃO DE RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA DE VERACIDADE. PRECEDENTES. REEXAME DE PROVA. SÚMULA 7/STJ. DISPOSITIVO CONSTITUCIONAL. OFENSA. EXAME. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+ ..
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, a declaração de pobreza goza de presunção relativa de veracidade, podendo a parte contrária impugnar o benefício da justiça gratuita, ou mesmo o magistrado exigir sua comprovação. Precedentes.
+3. Na hipótese dos autos, diante da manifestação da parte contrária de que os ora agravantes possuíam condição financeira de arcar com as despesas processuais, além de residirem no bloco mais luxuoso do condomínio, o Juízo de primeiro grau, na r. sentença, indeferiu o pedido de gratuidade de justiça. A Corte local, por sua vez, manteve o indeferimento por não ter vindo aos autos nenhuma prova em tal sentido. Infirmar as conclusões do julgado, para reconhecer a insuficiência de recursos da parte agravante, encontra óbice na Súmula 7 desta Corte Superior.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1369436/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/10/2015, DJe 25/11/2015, sem destaques no original).
+Ademais, do exame da decisão interlocutória agravada verifica-se que houve abertura de prazo para que a parte complementasse o valor das custas, mas a recorrente, em resposta, pediu a gratuidade de justiça e perdeu a oportunidade de apresentar a comprovação do preenchimento dos requisitos para a concessão do benefício.
+Destaque-se, ainda, que o simples fato de uma sociedade empresarial ter encerrado as atividades ou estar em recuperação judicial não autoriza a presunção automática de preenchimento dos requisitos para a gratuidade de Justiça. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. HIPOSSUFICIÊNCIA NÃO COMPROVADA. IMPOSSIBILIDADE DE REVER O ENTENDIMENTO ADOTADO PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.
+1. O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie, não sendo possível rever o entendimento adotado pelo Tribunal de origem, em virtude da Súmula 7/STJ. Precedentes.
+2. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1021128/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 17/8/2017, DJe 30/8/2017, sem destaque no original)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. PREPARO. DESERÇÃO. MASSA FALIDA. INEXISTÊNCIA DE HIPOSSUFICIÊNCIA ECONÔMICA PRESUMIDA.
+1. É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos (Súmula 187/Superior Tribunal de Justiça).
+2. Não é presumível a existência de dificuldade financeira da pessoa jurídica, em face de sua insolvabilidade pela decretação da falência, para justificar a concessão de justiça gratuita.
+Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 989.189/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 6/3/2018, DJe 13/3/2018, sem destaque no original)
+
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários recursais uma vez que não são aplicáveis ao presente caso.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º, e 1.026, § 2º).
+Publique-se. Intimem-se.
