@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 7002349-96.2017.8.26.0344).
+Consta nos autos que o Juízo da execução deferiu ao paciente a progressão ao regime semiaberto.
+Irresignado, o Ministério Público interpôs agravo em execução, que foi provido para cassar esse benefício e regredir o paciente ao regime fechado, determinando-se que outra decisão fosse proferida após a realização do exame criminológico. O acórdão foi assim ementado (e-STJ fl. 24):
+Agravo em execução - Progressão de regime prisional - Requisito subjetivo - Sentenciado que cumpre pena por homicídio duplamente qualificado - Art. 112, LEP, alterado pela Lei n. 10.792/03, apesar de não exigir a realização de exame criminológico, fica a critério do Juiz sua realização - Não ficou provado que o sentenciado possui méritos para a obtenção do benefício - Decisão reformada para cassar a progressão de regime concedida, regredindo o sentenciado ao regime fechado e determinando-se que o pedido de progressão de regime prisional do sentenciado seja reapreciado com a realização de exame criminológico.
+No presente writ, alega a defesa que a regressão de regime para a feitura do exame criminológico não foi devidamente fundamentada no aresto impugnado, que apenas apontou a gravidade abstrata dos crimes pelos quais foi o paciente condenado. Aduz que ele ostenta bom comportamento carcerário e que não registra intercorrências que possam impedi-lo de adimplir o requisito subjetivo para o benefício (e-STJ fls. 3/8).
+Assim, requer, liminarmente e no mérito, seja restabelecida a decisão do Juízo da execução.
+O pleito urgente foi indeferido (e-STJ fls. 33/35).
+As informações foram prestadas (e-STJ fls.39 e 45/54).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 56/62).
+É, em síntese, o relatório.
+A questão posta a deslinde refere-se à necessidade de realização do exame criminológico para o deferimento do pedido de progressão ao regime semiaberto.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984, pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o magistrado de primeiro grau, ou mesmo o Tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26 do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso dos autos, o Tribunal de origem reformou a decisão de primeiro grau, consignando, para tanto, que (e-STJ fls. 26/29):
+Com efeito, embora preenchido o requisito objetivo, realmente os méritos do sentenciado (requisito subjetivo) não restaram comprovados, uma vez que ele não foi submetido ao competente exame efetuado pela Comissão Técnica de Classificação.
+É necessária a realização de exame criminológico para se aferir se o condenado não oferece risco à integridade pública, uma vez que o agravado é reincidente e cumpre pena por crime grave, demonstrando, com tal comportamento, que se trata de pessoa perigosa, nociva à sociedade e corrompida pelo submundo do crime.
+É certo que o artigo 112, da LEP, com a nova redação dada pela Lei nº 10.792/03, não fala mais que a decisão deverá ser precedida de parecer da Comissão Técnica de Classificação e de exame criminológico, quando necessário, como preceituava o antigo parágrafo único, do artigo 112, da Lei de Execução Penal.
+ ..
+Entretanto, mesmo ficando a critério do Juiz "a quo" a realização ou não do exame criminológico, no presente caso, data vênia, ele não agiu com seu costumeiro acerto.
+Frise-se que o condenado cumpre pena pela prática de homicídio duplamente qualificado, delito considerado hediondo, demonstrando tratar-se de pessoa extremamente perigosa e nociva à sociedade, pela natureza e gravidade da conduta praticada.
+É dos autos que o agravado ceifou uma vida humana por motivo fútil e recurso que impossibilitou a defesa da ofendida.
+Suspeitando que sua ex-mulher [NOME] mantivesse relacionamento amoroso, foi ao seu encontro munido de uma arma de fogo. Após discussão, em determinado momento sacou o revólver que trazia e desferiu vários disparos contra [NOME], causando-lhe ferimentos que foram a causa de sua morte.
+Assim, diante destas informações, inegável que a prática de conduta de tamanha gravidade, revela sua natureza agressiva e conturbada personalidade, demonstrando completo desvalor para com a vida humana.
+Ademais, consta que o sentenciado já foi condenado por lesões corporais de natureza grave, sendo, portanto, reincidente.
+Desta forma, como não ficou provado que o condenado possui méritos para a obtenção do benefício, o mesmo deve ser tornado sem efeito (grifei).
+Como se vê, o Tribunal de origem, ao determinar a realização do exame criminológico, além de considerar a reincidência do paciente, por lesões corporais, levou em conta, sobretudo, a gravidade concreta do delito em questão, quando o sentenciado, por motivo fútil, matou a ex-mulher com vários disparos de arma de fogo, demonstrando completo desvalor pela vida humana e natureza extremamente agressiva. Desta forma, logrou fundamentar a necessidade do referido exame, não havendo, portanto, constrangimento ilegal na exigência de realização do mencionado exame.
+A propósito, confiram-se os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS NÃO CONHECIDO. EXECUÇÃO. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. WRIT NÃO EXAMINADO PELO TRIBUNAL A QUO POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE A JUSTIFICAR A UTILIZAÇÃO DA VIA ELEITA.
+1. É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014).
+2. No caso, o Juiz de piso, ao afirmar a necessidade de realização de exame criminológico, considerou a gravidade concreta do crime cometido (latrocínio praticado em concurso de pessoas, adentrando a residência mediante dissimulação e posteriormente ceifando a vida da vítima, maior de 60 anos, mediante estrangulamento - fl. 18).
+3. Agravo regimental improvido (AgInt no RHC 78.350/MG, relator o Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19/12/2016, grifei).
+AGRAVO REGIMENTAL. HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO. INCABIMENTO. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. ACÓRDÃO IMPUGNADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DESTA CORTE. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ. PREENCHIMENTO DO REQUISITO SUBJETIVO. QUESTÃO DE FATO CONTROVERTIDA. INADEQUAÇÃO DA VIA ELEITA.
+I. É incabível a impetração de habeas corpus como sucedâneo de recurso previsto na legislação se não resta evidente a ilegalidade apontada e o deslinde da questão posta requisita o exame aprofundado de questão de fato controvertida.
+II. Esta Corte Superior de Justiça tem jurisprudência pacífica no sentido de que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei nº 10.792/03, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução.
+III. Na sede angusta do habeas corpus é incabível o reexame de prova para afastar a conclusão adotada no acórdão impugnado de que o reeducando ostenta mau comportamento carcerário e não preenche o requisito subjetivo para o livramento condicional.
+IV. Agravo regimental improvido (AgRg no HC 302.033/SP, relatora a Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 16/9/2014, grifei).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
