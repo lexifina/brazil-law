@@ -1,0 +1,97 @@
+EMENTA
+PROCESSO CIVIL. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 315 DO STJ.
+1. A divergência que autoriza o manejo de embargos de divergência é a que tem sede no título jurídico da questão, constituindo-se o fato, como julgado nas instâncias ordinárias, na sua identidade essencial e no elemento comum dos acórdãos em divergência.
+2. No caso dos autos, o dissídio não foi comprovado. O acórdão embargado entendeu que "é dever da parte recorrente apontar o correto preenchimento das guias de recolhimento que compõem as custas do preparo, sob pena de deserção do recurso. A exigência do correto preenchimento da guia, longe de ser mero formalismo, presta-se a evitar fraudes contra o Judiciário, impedindo que se use a mesma guia para interposição de diversos recursos". Por outro lado, os acórdãos paradigmas afastaram a deserção, em decorrência da juntada das guias originais do pagamento das custas e porte de remessa e retorno.
+3. Nota-se, portanto, que fica evidente a ausência de similitude fática entre os acórdãos confrontados, pois, no acórdão embargado, não há nenhuma menção de existência de GRU original juntada aos autos.
+4. A ausência de similitude fático-jurídica obsta o processamento dos embargos de divergência.
+5. Demais disso, a embargante pleiteia modificar acórdão que aplicou o óbice da Súmula 187/STJ ao caso concreto. Porém, revela-se inviável rever - em embargos de divergência - o conhecimento do recurso especial, incindindo, in casu, a Súmula 315/STJ. Precedentes.
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça A Corte Especial, por unanimidade, negou provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Felix Fischer, Francisco Falcão, Nancy Andrighi e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por FINAMAX S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra decisão monocrática da minha lavra que indeferiu o processamento do dissídio nos termos da seguinte ementa (fl. 405, e-STJ):
+"PROCESSO CIVIL. DISSÍDIO NÃO DEMONSTRADO. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 315 DO STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE."
+A agravante alega, em síntese, que:
+"demonstrado nos Embargos de Divergência opostos pela Agravante que há vários casos em que a mesma situação fática é exatamente esta, mas o resultado está recebendo tratamento diverso daquele dado pelas demais Turmas deste Colendo STJ, pois, enquanto nestes autos foi negado seguimento ao Recurso Especial interposto, por conta do preenchimento incorreto do "número de referência" da GRU as outras Turmas consideram que, apesar do preenchimento incorreto, a juntada da via original das Guias e do comprovante de recolhimento nos autos afastam a possibilidade de fraude no recolhimento das custas processuais, ante a comprovação de que o valor realmente foi recolhido aos cofres públicos, além de não ser possível utilizar a mesma guia para distribuir outros recursos" (fls. 433/434, e-STJ).
+Aduz, por fim, que (fl. 441, e-STJ):
+"(..) não há como prevalecer também à alegação do Ministro Humberto Martins de que não há similitude entre o acórdão objeto dos embargos de divergência e os acórdãos paradigmas apresentados, pelo fato do primeiro acórdão não ter mencionado a juntada da via original da Guia de Recolhimento - GRU e seu comprovante de pagamento nos autos, vez que os acórdãos paradigmas fundamentam seu acolhimento no fato de que fora juntada a via original da referida para afastar a deserção do recurso.
+Ora, Doutos Ministros, mesmo que não conste expressamente do acórdão embargado a menção da juntada da guia e do comprovante originais aos autos, o fato é que eles encontram-se juntados em sua forma original ao presente processo!
+Basta que os autos sejam devidamente analisados para que se verifique que os originais estão juntados, mais precisamente, à fls. 227-228. A falta de menção desse documento no acórdão não elide, de forma alguma, a divergência apontada.
+Ou seja, incabida a alegação de falta de similitude fática entre o acórdão embargado e os paradigmas, posto que em todos os casos a GRU e o comprovante de pagamento foram juntados em seus originais aos autos, fica demonstrada a divergência entre as decisões internas deste mesmo Tribunal!".
+Não foram apresentadas contrarrazões (fl. 479, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 315 DO STJ.
+1. A divergência que autoriza o manejo de embargos de divergência é a que tem sede no título jurídico da questão, constituindo-se o fato, como julgado nas instâncias ordinárias, na sua identidade essencial e no elemento comum dos acórdãos em divergência.
+2. No caso dos autos, o dissídio não foi comprovado. O acórdão embargado entendeu que "é dever da parte recorrente apontar o correto preenchimento das guias de recolhimento que compõem as custas do preparo, sob pena de deserção do recurso. A exigência do correto preenchimento da guia, longe de ser mero formalismo, presta-se a evitar fraudes contra o Judiciário, impedindo que se use a mesma guia para interposição de diversos recursos". Por outro lado, os acórdãos paradigmas afastaram a deserção, em decorrência da juntada das guias originais do pagamento das custas e porte de remessa e retorno.
+3. Nota-se, portanto, que fica evidente a ausência de similitude fática entre os acórdãos confrontados, pois, no acórdão embargado, não há nenhuma menção de existência de GRU original juntada aos autos.
+4. A ausência de similitude fático-jurídica obsta o processamento dos embargos de divergência.
+5. Demais disso, a embargante pleiteia modificar acórdão que aplicou o óbice da Súmula 187/STJ ao caso concreto. Porém, revela-se inviável rever - em embargos de divergência - o conhecimento do recurso especial, incindindo, in casu, a Súmula 315/STJ. Precedentes.
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Na hipótese, os embargos de divergência foram opostos pela FINAMAX S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra acórdão proferido pela Terceira Turma, de relatoria do Ministro Moura Ribeiro, cuja ementa reproduzo (fl. 328, e-STJ):
+"PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. INDICAÇÃO ERRÔNEA DOS DADOS NA GUIA DE RECOLHIMENTO. AUSÊNCIA DE PREPARO. DESERÇÃO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade das disposições do NCPC, no que se refere aos requisitos de admissibilidade do recurso ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. É dever da parte recorrente apontar o correto preenchimento das guias de recolhimento que compõem as custas do preparo, sob pena de deserção do recurso. A exigência do correto preenchimento da guia, longe de ser mero formalismo, presta-se a evitar fraudes contra o Judiciário, impedindo que se use a mesma guia para interposição de diversos recursos (AgRg no AREsp 736.400/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 6/4/2016).
+3. Agravo regimental não provido."
+A embargante alega divergência jurisprudencial no tocante à possibilidade de afastamento da deserção, quando, ocorrendo erro no preenchimento do Número de Referência da GRU, for juntada a Guia original aos autos no momento da interposição do recurso.
+Eis os paradigmas apresentados:
+"PROCESSUAL CIVIL - RECURSO ESPECIAL - AGRAVO REGIMENTAL - PREPARO IRREGULAR - DESCUMPRIMENTO DA RESOLUÇÃO 12/2005 DO STJ - DESERÇÃO.
+1. Nos termos da Resolução 12 de 07.06.2005 desta Corte Superior, respaldada pelo art. 41-B da Lei n. 8.038/1990, deve constar no GRU o número do processo a que a guia se refere, sob pena de se considerar deserto o recurso especial.
+2. Entretanto, a Segunda Turma, em 28/08/2007, no julgamento do AgRg REsp 877.541/SP, decidiu afastar a exigência de conter o DARF o número do processo a que se refere, com base nos seguintes fundamentos (cópia das notas taquigráficas em anexo): a) a Resolução 20/2004 não teve o intuito de criar mais um empecilho de natureza formal ao conhecimento dos recursos; não se pode dar a essa resolução dimensão que vai muito além de seus objetivos; além disso, não há possibilidade de fraude porque o original está sendo juntado ao processo (Min. Herman Benjamin);
+b) ainda que não indicado o número do processo, como o valor do porte e remessa foi recolhido aos cofres do Estado, o objetivo foi cumprido (Min. João Otávio de Noronha);
+c) embora relevante a resolução, é suficiente a comprovação do porte de remessa e retorno (Min. Castro Meira).
+3. Determinada a subida dos autos do recurso especial, nos termos do art. 544 do CPC c/c o art. 254, I, RISTJ, para melhor exame da matéria.
+4. Agravo regimental provido." (AgRg no Ag 888.132/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 6/9/2007, DJ 2/10/2007, p. 237.)
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PORTE DE REMESSA E RETORNO. GRU. NÚMERO DE REFERÊNCIA AUSENTE. JUNTADA DA GUIA ORIGINAL. DIVERGÊNCIA DEMONSTRADA. DESERÇÃO AFASTADA. EMBARGOS ACOLHIDOS.
+1. O Supremo Tribunal Federal quando assentou a razão de não se admitir divergência na aplicação de regra técnica de admissibilidade do recurso, revelando natureza meramente infringente do debate sobre o equívoco ou não na aplicação da regra; ressalvou expressamente quanto ao debate de teses antagônicas à própria regra.
+2. Quando a discussão se estabelece sobre a própria regra de conhecimento, esta evidentemente passível de dissenso a desafiar também a uniformização de jurisprudência.
+3. Desconsidera-se a deserção por se ter em conta que o comprovante do pagamento das custas do Recurso Especial foi juntado aos autos na sua via original, o que afasta a possibilidade de fraude no recolhimento das custas.
+4. Em princípio, deve sempre ser prestigiada a boa-fé do recorrente, isto é, deve-se partir da presunção de que as partes litigantes se comportarão de forma leal; assim, embora a exigência formal não seja em si descabida ou desnecessária, as consequências do seu descumprimento devem ser apreciadas sob a ótica da razoabilidade e da proporcionalidade.
+5. Embargos de Divergência acolhidos." (EREsp 781.135/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 6/5/2015, DJe 20/5/2015.)
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. GUIA DE RECOLHIMENTO DA UNIÃO. COMPROVANTE ORIGINAL. PREENCHIMENTO EQUIVOCADO NÚMERO PROCESSO. VÍCIO SANÁVEL. DESERÇÃO AFASTADA.
+I - O acórdão embargado considerou deserto o recurso interposto pela parte em virtude do preenchimento equivocado do número do processo na GRU, embora juntado aos autos o comprovante original de pagamento das custas e porte de remessa e retorno.
+II - Os entendimentos consolidados no julgamento do AgRg no Agravo 888.132/PR, pela Segunda Turma, de relatoria da em. Ministra Eliana Calmon e no EREsp 781.135/DF, pela Corte Especial, de relatoria do em. Ministro Napoleão Nunes Maia Filho, se mostram diametralmente opostos ao entendimento firmado no acórdão embargado.
+III - In casu, comprovando a parte o recolhimento das custas, com juntada de documento original, não se pode presumir má-fé de modo a considerar deserto o recurso, devendo prevalecer o entendimento constante dos acórdãos paradigmas.
+Embargos de divergência providos." (EAREsp 665.717/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 7/12/2016, DJe 14/12/2016.)
+Indeferi o processamento da divergência, porque não verifiquei similitude fática entre os acórdãos confrontados, bem como em decorrência do óbice da Súmula 315/STJ (fls. 405/413, e-STJ). É contra essa decisão que se insurge a ora agravante.
+Nada a prover.
+Na lição de Barbosa Moreira, a finalidade dos embargos de divergência "é propiciar a uniformização da jurisprudência interna do tribunal quanto à interpretação do direito em tese" (Comentários ao Código de Processo Civil, 13ª ed., Forense, 2006, v. V.).
+Em síntese, o acórdão embargado negou provimento ao agravo interno para aplicar a orientação segundo a qual "é dever da parte recorrente apontar o correto preenchimento das guias de recolhimento que compõem as custas do preparo, sob pena de deserção do recurso. A exigência do correto preenchimento da guia, longe de ser mero formalismo, presta-se a evitar fraudes contra o Judiciário, impedindo que se use a mesma guia para interposição de diversos recursos" (fl. 328, e-STJ).
+Por sua vez, os acórdãos paradigmas afastaram a deserção em decorrência da juntada das guias originais do pagamento das custas e porte de remessa e retorno.
+Nota-se, portanto, que fica evidente a ausência de similitude fática entre os acórdãos confrontados, pois, no acórdão embargado, não há nenhuma menção de existência de GRU original juntada aos autos.
+A ausência de similitude fático-jurídica obsta o processamento dos embargos de divergência.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC/1973. SÚMULA N. 7/STJ. DISCUSSÃO SOBRE REGRA TÉCNICA DE CONHECIMENTO DO RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. A impossibilidade de se analisar a correta aplicação de regra técnica de admissibilidade do recurso especial em embargos de divergência, no caso presente, decorre da ausência de similitude fática entre o acórdão embargado e o paradigma.
+(..)
+6. As exigências relativas à demonstração da divergência jurisprudencial não foram modificadas pelo CPC/2015, nos termos do seu art. 1.043, § 4º.
+7. Agravo interno desprovido." (AgInt nos EAREsp 685.251/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 8/8/2018, DJe 14/8/2018.)
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. IRPJ. CSLL. BASE DE CÁLCULO. ARESTO EMBARGADO: REINTEGRA. ACÓRDÃO PARADIGMA: CRÉDITO PRESUMIDO DE IPI. AUSÊNCIA DE SIMILITUDE FÁTICA. PRECEDENTES.
+1. A comprovação da divergência jurisprudencial exige o cotejo analítico entre os julgados confrontados e a demonstração da similitude fática, partindo-se de quadro fático semelhante, ou assemelhado, para conclusão dissonante de julgamento quanto ao direito federal aplicável.
+2. No caso dos autos, o acórdão recorrido consignou a legitimidade de inclusão dos créditos provenientes do REINTEGRA na base de cálculo da CSLL e do IRPJ.
+3. Já o acórdão apontado como paradigma manifestou-se pela impossibilidade de inclusão de valores do crédito presumido de IPI na base de cálculo do IPRJ e da CSLL.
+4. Ausente a identidade fática entre os acórdãos colacionados, resta inviabilizado o processamento dos embargos de divergência. Nessa linha de entendimento, em casos similares, confiram-se: AgInt nos EREsp 1.573.262/RS, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 16/04/2018 e AgInt nos EDcl nos EREsp 1.541.110/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 03/10/2017.
+5. Agravo interno a que se nega provimento." (AgInt nos EREsp 1.462.313/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 8/8/2018, DJe 15/8/2018.)
+Demais disso, a embargante pleiteia modificar acórdão que aplicou o óbice da Súmula 187/STJ ao caso concreto. Revela-se, porém, inviável rever - em embargos de divergência - o conhecimento do recurso especial, incindindo, por analogia, a Súmula 315/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MÉRITO RECURSAL NÃO DEBATIDO NO ACÓRDÃO IMPUGNADO. EMBARGOS DE DIVERGÊNCIA INADMISSÍVEIS. INCIDÊNCIA DO ENTENDIMENTO SEDIMENTADO NA SÚMULA N. 315 DO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO INEXISTENTE.
+I - Se no julgamento do AREsp não há exame da matéria de fundo pelo Superior Tribunal de Justiça, incide o entendimento sedimentado no enunciado n. 315 da Súmula do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+II - Segundo decidido pelo Plenário desta Corte, na sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, portanto, o Código de Processo Civil de 1973 quanto ao recurso especial interposto. Assim, diante do enunciado administrativo n. 2 do STJ, é inaplicável o disposto no art. 76 do Código de Processo Civil de 2015.
+III - Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+IV - Na forma da jurisprudência, o exercício regular do direito constitucional de recorrer não enseja condenação do ora agravante às penalidades por litigância de má-fé e multa, na forma dos arts. 79 e 80, VII, do CPC/2015. Precedentes do STJ (AgInt no AgRg nos EREsp 1.433.658/SP, Rel. Ministro Jorge Mussi, Corte Especial, DJe de 25/11/2016). Descabimento, no caso, de aplicação dos arts. 79 e 80, VII, do CPC/2015.
+V - Embargos de declaração rejeitados." (EDcl no AgRg nos EAREsp 155.081/SC, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 18/10/2017, DJe 27/10/2017.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. EMBARGOS DE DIVERGÊNCIA REJEITADOS LIMINARMENTE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+I - Consoante o art. 1.043 do CPC/2015, os Embargos de Divergência somente são admissíveis quando os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia.
+II - In casu, o acórdão embargado não apreciou a controvérsia, no mérito, eis que proferido em sede de agravo interno manejado em agravo em recurso especial, do qual não se adentrou a análise meritória, assentando-se o julgado com base na Súmula 07/STJ, com a ressalva de não restar caracterizado o dissídio jurisprudencial.
+III - Incidência, no particular, do teor da Súmula n. 315 do STJ, segundo a qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Agravo interno não provido." (AgInt nos EAREsp 823.290/MG, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 20/9/2017, DJe 27/9/2017.)
+Aplica-se ao caso dos autos a Súmula 315/STJ, que assim dispõe: "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Relator
