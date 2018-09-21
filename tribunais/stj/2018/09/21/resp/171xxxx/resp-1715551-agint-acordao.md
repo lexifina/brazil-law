@@ -1,0 +1,48 @@
+EMENTA
+CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. CONTROVÉRSIA DIRIMIDA À LUZ DE FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. INVIABILIDADE DE EXAME EM RECURSO ESPECIAL.
+I - A questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+II - Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+III - A propósito, confiram-se trechos do julgado recorrido, os quais corroboram o referido entendimento, litteris: "A matéria versada já foi objeto de apreciação pelo Supremo Tribunal Federal, no julgamento do mandado de segurança 22584, em Sessão Plenária do dia 17.04.97, com relatoria do Ministro Marco Aurélio, tendo prevalecido a tese sustentada no voto do Ministro Nelson Jobim, "no sentido de que o art. 153, §2º, II, da Constituição Federal, ao estabelecer que o imposto de renda não incidirá, nos termos e limites fixados em lei, sobre rendimentos provenientes de aposentadoria e pensão, pagos pela previdência social da União, dos Estados, do Distrito Federal e dos Municípios, a pessoa com idade superior a sessenta e cinco anos, cuja renda total seja constituída, exclusivamente, de rendimentos do trabalho, não é auto-aplicável, estando a depender de lei que fixará os termos e limites dessa não-incidência."
+IV - Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal. No mesmo sentido, destaco os seguintes precedentes: AgInt no AREsp 862.012/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 9/8/2016, DJe 8/9/2016 e AgInt no AREsp 852.002/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/6/2016, DJe 28/6/2016.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra decisão monocrática de fls. 335-337.
+O presente feito decorre de ação interposta por [NOME] em face da União, combatendo a incidência de imposto de renda sobre aposentadoria paga pelo INSS e complementação de aposentadoria paga por entidade de previdência complementar. À causa foi arbitrado o valor de R$1.000,00 (mil reais). Na sentença julgou-se improcedente o pedido. No Tribunal Regional Federal da 3ª Região, a sentença foi mantida, nos termos assim ementados:
+CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA IMUNIDADE. ART. 153, § 2º, II DA CF/88. REVOGAÇÃO PELA EC 20/98.
+1. O artigo 153, § 2º, inciso II, da Constituição Federal foi revogado pela Emenda Constitucional nº 20, de 15/12/1998. Assim sendo, não há mais em nosso ordenamento respaldo jurídico, para se afastar a incidência de imposto de renda sobre os proventos de aposentados e pensionistas com mais de 65 anos.
+2. Apelação improvida.
+Foram rejeitados os embargos declaratórios opostos.
+Interposto recurso especial por [NOME], com fundamento no art. 105, III, a e c, da Constituição Federal.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 6º, da Lei 7.713/1988
+Sustenta, em síntese, que o recorrente tem direito à concessão do abono sobre imposto de renda, previsto no inciso XV, do artigo 6º, da Lei 7.713/88, face ter completado 65 (sessenta e cinco) anos.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Recebidos os autos pelo STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, com fundamento no artigo 255, § 4º, I, do RI/STJ não conheço do recurso especial".
+Interposto agravo interno contra essa decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+A questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, se tem inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+A propósito, confiram-se trechos do julgado recorrido, os quais corroboram o referido entendimento, litteris:
+A matéria versada já foi objeto de apreciação pelo Supremo Tribunal Federal, no julgamento do mandado de segurança 22584, em Sessão Plenária do dia 17.04.97, com relatoria do Ministro Marco Aurélio, tendo prevalecido a tese sustentada no voto do Ministro Nelson Jobim, "no sentido de que o art. 153, §2º, II, da Constituição Federal, ao estabelecer que o imposto de renda não incidirá, nos termos e limites fixados em lei, sobre rendimentos provenientes de aposentadoria e pensão, pagos pela previdência social da União, dos Estados, do Distrito Federal e dos Municípios, a pessoa com idade superior a sessenta e cinco anos, cuja renda total seja constituída, exclusivamente, de rendimentos do trabalho, não é auto-aplicável, estando a depender de lei que fixará os termos e limites dessa não-incidência."
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. SERVIDOR PUBLICO. ADICIONAL DE 20% DO ART. 184, II, DA LEI 1.711/52. CONTROVÉRSIA DIRIMIDA À LUZ DE FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. INVIABILIDADE DE EXAME EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. As partes agravantes sustentam que o Art. 535 do Código de Processo Civil foi violado, mas deixam de apontar o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. Verifica-se que a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+3. A atual jurisprudência do STJ tem entendido que não é possível o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios do direito adquirido, do ato jurídico perfeito e da coisa julgada, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional. Precedentes: REsp 1.333.475/RJ, Rel. Ministra Eliana Calmon, Segunda Turma, DJe de 26.6.2013; AgRg no AREsp 224.095/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 24.5.2013.
+4. A divergência jurisprudencial, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ficou evidenciado na espécie.
+5. Agravo Interno não provido. (AgInt no AREsp 862.012/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 9/8/2016, DJe 8/9/2016).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO DO PRESENTE RECURSO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. ITBI. VALOR VENAL. ACÓRDÃO RECORRIDO FULCRADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL E EM LEI LOCAL. SÚMULA Nº 280/STF.
+1. O acórdão recorrido negou provimento ao apelo da municipalidade com base em fundamento constitucional - princípio da legalidade, insculpido no art. 150, I, da Constituição Federal - ao afirmar que a legislação local deixou o prévio estabelecimento da base de cálculo do ITBI ao crivo de um órgão do Poder Executivo (Secretaria Municipal de Finanças), o que implicou em majoração do tributo acima dos limites inflacionários do período, por mero ato infralegal.
+2. Inviável a análise da pretensão em sede de recurso especial, uma vez que a adoção pela instância ordinária de fundamento eminentemente constitucional na solução da lide, inviabiliza o conhecimento do recurso especial.
+3. Ademais, o Tribunal a quo valeu-se da interpretação de legislação local (Decreto Municipal 46.228/2005 e Leis Municipais 11.154/1991 e 14.256/2006) para decidir a controvérsia. Na esteira da jurisprudência desta Corte Superior, nesses casos, não há a abertura da via especial, em virtude do óbice contido na Súmula 280/STF.
+4. Agravo interno não provido. (AgInt no AREsp 852.002/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/6/2016, DJe 28/6/2016).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
