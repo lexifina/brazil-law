@@ -1,0 +1,8 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO DECISUM AGRAVADO. SÚMULA 182/STJ. AGRAVO DO INSS NÃO CONHECIDO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSS, o qual se insurgiu contra acórdão proferido pelo egrégio Tribunal de origem.
+2. A irresignação, contudo, não merece ser admitida, visto que a parte agravante não infirmou adequadamente todos os fundamentos da decisão agravada, quais sejam: a) inexistência de violação do art. 1.022 do CPC; b) impossibilidade de análise de questão constitucional em sede de Recurso Especial; c) aplicação da Súmula 83 do STJ; d) e incidência da Súmula 7 do STJ. Na verdade, limitou-se a arguir: a) cabimento do Recurso Declaratório; b) inaplicabilidade da Súmula 7 do STJ; c) genericamente a ausência de consolidação jurisprudencial; d) e considerações sobre o mérito recursal.
+3. Verifica-se que o agravante sequer fez referência quanto à impossibilidade de análise de matéria constitucional em sede de Recurso Especial nem trouxe qualquer jurisprudência do STJ em favor da sua tese. Com efeito, o Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ.
+4. Diante dessas considerações, não se conhece o Agravo em Recurso Especial do INSS.
+5. Publique-se.
+6. Intimações necessárias.
