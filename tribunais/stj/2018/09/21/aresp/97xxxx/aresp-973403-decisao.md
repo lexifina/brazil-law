@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: MEDIDA CAUTELAR - LIMINAR - REQUISITOS LEGAIS. Para a concessão de medida liminar é necessário o atendimento dos pressupostos constantes do art. 798 do CPC, quais sejam: o fumus boni iuris e o periculum in mora. Ausentes os requisitos legais, impõe-se o indeferimento do pedido".
+Nas razões do recurso especial, a parte recorrente, ora agravante, alega violação ao art. 398 do CPC/73. Sustenta, em síntese, que: "não tendo sido o recorrente intimado a manifestar sobre a documentação juntada pela parte adversa, a violação à federal é flagrante a ensejar o conhecimento e provimento do recurso especial" (fl. 278).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Quanto à alegada vulneração ao art. 398 do CPC/73, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, embora ocorrida a interposição de embargos declaratórios (fls. 251-252).
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração. Caberia à parte recorrente, na hipótese, alegar violação ao art. 535 do Código de Processo Civil de 1973, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Por fim, conclui-se que o especial em exame não merece conhecimento.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
