@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e [NOME], devidamente assistidos pela Defensoria Pública do Estado do Rio Grande do Sul, com base no art. 105, III, alíneas a e c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça daquela unidade federativa.
+Depreende-se dos autos que os ora recorrentes foram condenados, pelo Juízo de primeiro grau, à pena de 6 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 10 dias-multa, no mínimo legal (e-STJ fls. 234/236).
+Sobre os fatos, extrai-se da denúncia que (e-STJ fl. 3):
+Na oportunidade, os denunciados e o comparsa abordaram a vítima quando esta estacionava seu veículo. Ato contínuo, os assaltantes anunciaram o roubo, um deles empunhando uma arma de fogo e ordenando que deixasse a chave e a bolsa no interior do carro, ao mesmo tempo em que os demais asseclas entravam no automóvel. Em seguida, os três saíram em fuga, levando consigo os bens subtraídos.
+Os ora recorrentes interpuseram, da sentença proferida pelo Juízo de primeiro grau, recurso de apelação, ao qual foi negado provimento pelo Tribunal de Justiça do Estado do Rio Grande do Sul em acórdão assim ementado (e-STJ fls. 293/294):
+APELAÇÃO CRIME. CRIMES CONTRA O PATRIMÔNIO. ROUBO DUPLAMENTE MAJORADO. MATERIALIDADE E AUTORIA DEMONSTRADAS. CONDENAÇÃO MANTIDA.
+Os elementos de convicção constantes dos autos demonstram a materialidade do crime de roubo duplamente majorado e a sua respectiva autoria, esta recaindo de forma segura sobre os denunciados. Por se aproximarem da reconstituição processual do fato, assumem especial relevância na busca da verdade as declarações da testemunha presencial apontando-os, em ambas as etapas nas quais ouvida, como protagonistas do ilícito subtrativo narrado na exordial. Inicial presunção de inocência que se viu derruída ao longo do processo-crime, observadas as constitucionais garantias postas em favor dos inculpados, que determina a manutenção do édito condenatório e o afastamento do pedido de absolvição consubstanciado no inciso VII do artigo 386 do Código de Processo Penal.
+RECONHECIMENTO POLICIAL E JUDICIALIZADO. INFRINGÊNCIA AO ARTIGO 226 DO CPP. MERA IRREGULARIDADE.
+A eventual inobservância das recomendações previstas no artigo 226 do Código de Processo Penal não se presta para acarretar a nulidade dos atos recognitivos realizados na Delegacia de Polícia e em juízo.
+Por se tratar de elemento informativo e de cunho indiciário, o reconhecimento obtido na fase administrativa não tem o condão de nulificar o posterior processo judicial. Prescindível que a vítima ou a testemunha inicialmente descreva o criminoso ou que, quando da recognição em pretório, seja o réu perfilado junto de pessoas que com ele possuam semelhança física, bastando seja apontado pelo ofendido como autor da infração a fim de que o ato surta seus efeitos como meio de prova.
+MAJORANTE DO EMPREGO DE ARMA.
+A aplicação da majorante do emprego de arma dispensa a apreensão do artefato, bastando prova, por qualquer meio admitido, quanto a sua efetiva utilização durante a ação subtrativa. Potencial lesivo in re ipsa que torna desnecessária a realização de perícia.
+MAJORANTE DO CONCURSO DE PESSOAS.
+A incidência da majorante do concurso de pessoas no crime de roubo não pressupõe que todos os agentes criminosos subtraiam bens e empreguem violência ou profiram grave ameaça contra a vítima, bastando que um deles assim proceda e que esta circunstância seja do conhecimento e conte com a aprovação dos demais.
+DOSIMETRIA.
+Apenamentos conservados na forma como dosados em sentença, pois atendem aos critérios de necessidade e de suficiência para a prevenção e a reprovação do ilícito.
+CIRCUNSTÂNCIA ATENUANTE. MENORIDADE.
+MENSURAÇÃO.
+O legislador infraconstitucional não estabeleceu os limites máximo e mínimo para as agravantes e as atenuantes genéricas, respectivamente, dos artigos 61 e 65 do Estatuto Repressivo. Há certa discricionariedade por parte do sentenciante, que determinará as quantidades correspondentes, atentando aos critérios da necessidade e da suficiência.
+A instância ordinária procedeu à razoável e à proporcional atenuação da pena, em face do reconhecimento da menoridade na segunda etapa do cálculo da pena privativa de liberdade.
+APELAÇÃO DEFENSIVA CONHECIDA EM PARTE E, NESTA, DESPROVIDA.
+Daí o presente recurso especial, no qual os ora recorrentes alegam negativa de vigência aos arts. 59 do CP e 617 do CPP.
+Alegam, em síntese, que "A decisão proferida pela Colenda Oitava Câmara Criminal desafia reparo, visto que acarreta violação direta aos princípios da ne reformatio in pejus e da Coisa Julgada, especialmente porque, embora inexista recurso do Ministério Público, o órgão fracionário alterou a sentença ao excluir a vetorial Conduta Social e agregar novos fundamentos para o fim de determinar a valoração negativa da vetorial Personalidade, sem, contudo, redimensionar a pena imposta, pois, segundo consta "os referidos apontamentos melhor se adéquam à moduladora personalidade, razão pela qual os realoco nesta etapa sem que tanto dê ensejo à reformatio in pejus em sede de recurso exclusivo da defesa"" (e-STJ fl. 324).
+Denotam, ainda, que "a análise negativa conferida à circunstância judicial Personalidade teve como fundamento a existência de condenações provisórias e processos em curso. Fundamentação completamente equivocada do ponto de vista jurídico, seja porque viola a Súmula nº 444, seja porque nega vigência ao art. 59, do CP, seja porque contraria a jurisprudência do STJ, na medida em que utiliza-se de fundamentação inadequada para exasperar a pena-base pelo vetor Personalidade, tendo em vista que este somente é aferível quando presentes elementos concretos contidos nos autos que o demonstrem, o que não foi o caso" (e-STJ fl. 325).
+Contrarrazões às e-STJ fls. 343/354.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial e, caso conhecido, pelo seu desprovimento (e-STJ fls. 377/382).
+É o relatório. Decido.
+De início, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Dito isso e após analisar os fundamentos recursais, tenho que razão assiste aos recorrentes.
+É que este Tribunal Superior, por mais de uma vez, já decidiu no sentido de que processos em que ainda não houver se operado o trânsito em julgado não configuram maus antecedentes e também não servem para valorar negativamente a conduta social ou a personalidade do agente. Tal posicionamento, aliás, ficou consolidado por meio da Súmula n. 444 desta Corte (2010).
+Nesse sentido, julgado deste Tribunal Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. RESTABELECIMENTO DA ANÁLISE DESFAVORÁVEL DA PERSONALIDADE DO RÉU. IMPOSSIBILIDADE. SÚMULA N. 444 DO STJ. AGRAVO NÃO PROVIDO.
+1. Mesmo depois do julgamento do RE n. 591.054/SC pelo Supremo Tribunal Federal, esta Corte Superior mantém a aplicabilidade da Súmula n. 444 do STJ, a fim de afastar a consideração de processos em andamento para exasperar a pena-base, quer a título de maus antecedentes, quer de conduta social ou de personalidade.
+2. Agravo regimental não provido.
+(AgRg no HC 392.214/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017, grifei)
+Desse modo, necessário se faz o decote da circunstância judicial da personalidade.
+Verifico também que, diante da revogação da causa de aumento de pena disposta no art. 157, § 2º, I, do Código Penal, imperativo o seu decote, o que faço de ofício.
+Nesse sentido, precedente deste Tribunal Superior:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 387, IV, DO CPP. REPARAÇÃO DE DANOS MATERIAIS CAUSADOS PELA INFRAÇÃO. PEDIDO EXPRESSO DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE INSTRUÇÃO ESPECÍFICA. VIOLAÇÃO À AMPLA DEFESA E AO CONTRADITÓRIO.
+AGRAVO DESPROVIDO. SUPERVENIÊNCIA DA LEI N. 13.654/2018. REVOGAÇÃO DO INCISO I DO § 2º DO ART. 157 DO CP. ROUBO COM EMPREGO DE ARMA BRANCA. CIRCUNSTÂNCIA QUE NÃO MAIS SE SUBSUME ÀS MAJORANTES DO ROUBO. AFASTAMENTO DA CAUSA DE AUMENTO. RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. A fixação de valor mínimo para reparação dos danos materiais causados pela infração exige, além de pedido expresso na inicial, a indicação de valor e instrução probatória específica, de modo a possibilitar ao réu o direito de defesa com a comprovação de inexistência de prejuízo a ser reparado ou a indicação de quantum diverso.
+2. A Lei n. 13.654, de 23 de abril de 2018, revogou o inciso I do artigo 157 do CP, de modo que o emprego de arma branca não se subsume mais a qualquer uma das majorantes do crime de roubo. Assim, uma vez que o caso dos autos é de roubo com emprego de arma branca (faca), impõe-se a concessão de habeas corpus de ofício para que a pena seja reduzida na terceira fase da dosimetria, em observância ao princípio da retroatividade da lei penal mais benéfica.
+3. Agravo regimental desprovido. Concessão de habeas corpus, de ofício, para afastar a causa de aumento prevista no inciso I do § 2º do art. 157 do CP.
+(AgRg no REsp 1724625/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/06/2018, DJe 28/06/2018, destaquei)
+Desse modo, considerando que a circunstância do concurso de agentes está legalmente prevista como causa de aumento de pena e somente foi utilizada pelo Juízo de primeiro grau na primeira fase de aplicação da pena pois a majorante do emprego de arma fora considerada na terceira, diante do decote desta, tenho que aquela deve ser realocada na sua fase de origem.
+Passa-se, portanto, ao redimensionamento da reprimenda.
+Na primeira fase de aplicação da pena privativa de liberdade, dada a inexistência de circunstâncias judiciais desfavoráveis, deve ser a pena-base fixada no mínimo legal, qual seja, 4 anos de reclusão.
+Na segunda fase de aplicação da pena, deixo de aplicar a atenuante da menoridade relativa diante do que dispõe a Súmula n. 231 do Superior Tribunal de Justiça. Pena provisória mantida, portanto, em 4 anos de reclusão.
+Na terceira fase, considerando a realocação da causa de aumento de pena disposta no art. 157, § 2º, II, do Código Penal, fica a pena aumentada no percentual de 1/3. Reprimenda definitiva concretizada em 5 anos e 4 meses de reclusão.
+O regime inicial, conforme salientado pelas instâncias de origem, é o semiaberto.
+Ante o exposto, dou provimento ao recurso especial, a fim de redimensionar a pena para 5 anos e 4 meses, em regime inicial semiaberto.
+Publique-se. Intimem-se.
