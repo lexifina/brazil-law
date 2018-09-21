@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2156059-55.2018.8.26.0000, que manteve a prisão cautelar de [NOME].
+Narram os autos que o paciente, preso em flagrante suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, teve a prisão em flagrante convertida em preventiva em 20/6/2018 (Processo n. 0000719-13.2018.8.26.0111, em curso na Vara Única da comarca de Cajuru/SP).
+Aqui, reitera o impetrante a alegação de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Aduz que não existiam, e, não existe nenhum elemento de prova de que a pequena quantidade de maconha, apreendida longe do paciente, e, debaixo de uma pedra, lhe pertencia ou tinha destinação mercantil (fl. 4).
+Requer, inclusive em liminar, a concessão da ordem para que seja revogada a prisão cautelar.
+É o relatório.
+Neste exame preliminar, não percebo a presença concomitante dos pressupostos autorizadores do pedido liminar.
+Aparentemente, há motivação idônea para a manutenção do decreto prisional, pois, conforme destacado pelo Juízo de origem (fls. 41/42 - grifo nosso):
+ ..  Há gravidade concreta, a autorizar o decreto da prisão preventiva. O autuado ostenta farto histórico de condenações pela prática do tráfico de drogas (apenso "situação processual"). É reincidente específico pela prática deste crime (fls.09/verso), denotando-se disso a real possibilidade de voltar a delinquir, continuando a traficar drogas. Cabe insistir, o autuado possui 01 (uma) condenação por uso de drogas, e 02 (duas) condenações por tráfico de drogas, o que demonstra, sobejamente, sua desenvoltura no meio criminoso e que faz da venda de drogas seu meio de vida. A existência de prévias denúncias, fornecidas à Polícia como relataram os policiais, dando conta da prática da traficância pelo autuado somente reforça a convicção de que diuturnamente se dedicava a esse espúrio comércio.
+A prisão preventiva, diante dos antecedentes do autuado, é a única medida capaz de obstar sua empresa criminosa e, por consequência, garantir a ordem pública. Além disso, conforme relato dos policiais militares, o autuado praticava a traficância com o envolvimento de menor de idade, demonstrando culpabilidade exacerbada, a reforçar a necessidade da coerção  ..
+E, aqui, há a compreensão de que o histórico criminal do agente (que pode ser extraído inclusive de inquéritos e ações penais em curso), a revelar fundado receio de reiteração na prática criminosa, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal (HC n. 327.626/SP, da minha relatoria, Sexta Turma, DJe 25/11/2015).
+Ademais, o envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria, o que, na espécie, aconteceu.
+Com essas considerações, não tendo como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar ora pretendida, indefiro-a.
+Instruídos os autos, ao Ministério Público Federal para parecer.
+Publique-se.
