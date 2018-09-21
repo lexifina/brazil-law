@@ -1,0 +1,75 @@
+EMENTA
+AGRAVO INTERNO EM FACE DE DECISÃO DA PRESIDÊNCIA. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA. CONSTATAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. TESE DE SER A DECISÃO EXTRA PETITA. IMPROCEDÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE.
+1. Nas razões recursais do agravo em recurso especial, os recorrentes promoveram adequadamente a impugnação específica dos fundamentos da decisão denegatória do recurso especial, razão pela qual é possível o conhecimento do AREsp.
+2. Na apelação, a ora recorrida não não só pleiteou a reforma da sentença para julgamento de total improcedência do pedido exordial, como também argumentou que a indenização deveria observar a avença contratual, não procedendo a tese de que a redução do quantum indenizatório fixado na sentença caracterizou prolação de decisão extra petita.
+3. Como observado na decisão denegatória do recurso especial, é patente que o acolhimento do pedido recursal demandaria o reexame de provas, obstado pela Súmula 7/STJ, para revisão do minucioso exame do acervo probatório procedido pela Corte local.
+4. Agravo interno parcialmente provido para conhecer do agravo em recurso especial, negando-lhe provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, dar parcial provimento ao agravo interno para conhecer do agravo em recurso especial, negando-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Marco Buzzi (Presidente) e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto em face da decisão da Presidência, que não conheceu do agravo em recurso especial, ao fundamento de não ter havido a impugnação específica dos seguintes fundamentos da decisão de admissibilidade: a) incidência da Súmula 7/STJ; b) ausência de impugnação específica de um dos fundamentos do acórdão recorrido.
+Nas razões recursais, aduzem os recorrentes que promoveram a adequada impugnação de todos os fundamentos da decisão denegatória do recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM FACE DE DECISÃO DA PRESIDÊNCIA. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA. CONSTATAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. TESE DE SER A DECISÃO EXTRA PETITA. IMPROCEDÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE.
+1. Nas razões recursais do agravo em recurso especial, os recorrentes promoveram adequadamente a impugnação específica dos fundamentos da decisão denegatória do recurso especial, razão pela qual é possível o conhecimento do AREsp.
+2. Na apelação, a ora recorrida não não só pleiteou a reforma da sentença para julgamento de total improcedência do pedido exordial, como também argumentou que a indenização deveria observar a avença contratual, não procedendo a tese de que a redução do quantum indenizatório fixado na sentença caracterizou prolação de decisão extra petita.
+3. Como observado na decisão denegatória do recurso especial, é patente que o acolhimento do pedido recursal demandaria o reexame de provas, obstado pela Súmula 7/STJ, para revisão do minucioso exame do acervo probatório procedido pela Corte local.
+4. Agravo interno parcialmente provido para conhecer do agravo em recurso especial, negando-lhe provimento.
+
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Comporta parcial acolhida a irresignação.
+Após a leitura das razões recursais do agravo em recurso especial, constato que os recorrentes promoveram a impugnação dos fundamentos da decisão denegatória do recurso especial.
+Com efeito, passo a examinar o agravo em recurso especial.
+3. Nas razões recursais do recurso especial, aduzem os recorrentes divergência jurisprudencial, omissão e que: a) o acórdão recorrido viola os arts. 128, 460 e 515 do CPC/1973; b) 1.434, 1.435 e 1.448 do CC/1916; b) na exordial, pleitearam, com a inversão do ônus da prova, obter indenização securitária pelos danos verificados em seus imóveis; c) apreciando a apelação da seguradora, o Tribunal local proferiu decisão extra petita para apreciar temas que não foram objeto da impugnação no apelo; d) a principal fonte de prova no processo é o laudo pericial, e não houve resistência da ré quanto aos valores orçados pelo perito; e) o entendimento acerca da inexistência de prova da ocorrência de danos aos imóveis dos autores, Srs. Rooselwet e Edson, se mostra impertinente e indevido; f) no tocante ao autor, Sr. [NOME], o acórdão jamais poderia ter modificado o valor da indenização, pois também não foi matéria suscitada na apelação; g) caberia ao Tribunal decidir apenas sobre o dever de indenizar; h) a apólice estabelece os riscos assumidos, e como os danos verificados nos imóveis decorrem de vícios de construção, "resta analisar qual a apólice aplicável, e se há, em seu teor, previsão de cobertura para tais danos" (fl. 772); i) a apólice deve ser a vigente por ocasião da contratação, e os danos ocorridos nos imóveis decorrem de vícios de construção, conforme atestado no laudo pericial; j) não anuíram com a nova apólice; k) não há falar em aguardar o final do processo para reparo dos imóveis, inclusive para não haver risco de comprometimento da saúde e segurança dos autores e famílias; l) os vícios de construção têm cobertura securitária; m) o seguro é feito para indenizar todos os eventos que possam afetar a coisa, salvo os expressamente afastados; n) a apólice prevê expressamente a cobertura pelos danos decorrentes de vícios; o) o valor das indenizações securitárias foram orçados no laudo pericial.
+3.1. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3.2. No apelo, a Seguradora, ora recorrida, aduziu, in verbis:
+Conforme confirmado pela perícia no decorrer da instrução processual, os danos havidos nos imóveis dos Apelados são decorrentes de vícios construtivos, principalmente pela utilização de material inadequado e concepção técnica incorreta, não encontrando eco na apólice que enseje a indenização  .. .
+ ..  a responsabilidade da seguradora está adstrita aos riscos pré-determinados na apólice.  ..  É o que também preceitua o art. 1460 do CC de 1916, vigente na época dos alegados fatos.
+Impende observar, que o juiz singular ao apreciar o mérito da presente demanda negou vigência à lei federal  .. .
+ ..
+Tal norma não poderia ser diferente ou estaria tornando a Seguradora a responsável pela obra, colocando a Construtora numa situação muito confortável quando da consecução do seu dever.
+ ..  as despesas serão suportadas por um fundo público, gerando um prejuízo para toda sociedade.
+Da leitura do apelo, fica nítido que é manifestamente improcedente a tese de a Corte local proferiu decisão extra petita, sendo nítido que a apelante não só pleiteou a reforma da sentença para julgamento de total improcedência do pedido exordial, como também argumentou que a indenização deveria observar a avença contratual, não podendo ser conferida nenhuma indenização que não tivesse preciso esteio em cláusula contratual.
+3.3. No tocante às demais teses recursais, é bem de ver que o acórdão recorrido dispôs:
+Os eventos que rendem ensejo à indenização securitária advinda da contratação coligada ao financiamento do imóvel estão declinados na apólice geral do seguro habitacional nos seguintes termos:
+ ..
+Não bastasse o exposto, ainda tendo em mente a aplicabilidade do microssistema protetivo do consumidor, este Tribunal sustenta o pontual entendimento de que, embora não haja previsão expressa de vícios construtivos entre as hipóteses seguradas, "deve-se considerá-los abrangidos como hipótese de risco coberto, pois evidente que eventuais falhas na consecução da obra contri- buem para a deterioração anormal dos bens, gerando riscos de degradação e desmoronamento, total ou parcial, com o passar do tempo." (TJSC, AC. n. 2007.020264-3, rel. Des. Carlos Adilson Silva, j. em 30/06/2009).
+ ..
+Vale dizer, quando a ocorrência dos danos descritos nas alíneas do item 3.1. das condições particulares para os riscos de danos físicos tiver por causa vícios de construção deve a seguradora, ausente o mutuário na execução das obras (exatamente como se dá na espécie), reconhecer a cobertura, sem que lhe seja dado alegar a falta de previsão contratual suficiente para tal paga- mento (argumentação em idêntico sentido em: TJSC, AC n. 2008.001177-7, rel. Des. Trindade dos Santos, j. em 26/08/2008).
+ ..
+Resta, portanto, analisar cada um dos vícios apontados pela perícia e verificar se, mesmo decorrentes da má construção do imóvel, estão igualmente cobertos pela cláusula securitária, por implicarem risco de desmoronamento.
+ ..
+As residências tratadas na presente demanda (todas localizadas no município de São José) são as seguintes: 1) Imóvel de Vilmar José Cardoso (CPF n. [CPF]): Rua Curitiba, s/n, quadra 05, lote 08, Conjunto Habita- cional Bela Vista II (fls. 391/396 - vol. 2); 2) Imóvel de Rooselwet Bulgacow (CPF n. [CPF]): Rua Belém, n. 39, quadra 03, lote 06, Conjunto Habitacional Bela Vista II (fls. 397/402 - vol. 2); e 3) Imóvel de Edson Francisco Cardoso (CPF n. [CPF]): Rua Manoel Francisco de Souza, n. 409, quadra 32, lote 05, Conjunto Habitacional Forquilhinhas (fls. 403/408 - vol. 2).
+O perito [NOME] aponta nos imóveis dos apela- dos a existência de alguns danos que, na análise do laudo, decorrem de falhas construtivas. Todavia, em somente um desses imóveis, aquele pertencente a [NOME], os danos representam risco de desmoronamento parcial.
+Em um primeiro momento o laudo afirma que "em alguns imóveis se os danos nas coberturas não forem sanados, estes poderão evoluir para um desmoronamento total ou parcial das estruturas de cobertura" (fl. 410 - vol. 2 - i- tem 08 - sem destaque no original). Mais adiante, porém, constata que "não há ameaça de desmoronamento de elementos estruturais, pois as estruturas de madeira dos telhados já foram trocadas" (fl. 416 - vol. 2 - item 8).
+ ..
+Assim, no que se refere ao apelado Vilmar a sentença deve ser parcialmente alterada - mantendo-se o reconhecimento da obrigação de indeni- zar porém apenas sobre dois itens relacionados pelo laudo pericial: a "cobertura" (6) e, por conseguinte, "demolições" (10), ressaltando que deste último apenas aquele subitem relacionado à cobertura.
+Já no tocante aos apelados Rooselwet e Edson a sentença deve ser reformada, julgando-se improcedentes os pedidos.
+ ..
+Assim, para fins de cálculo do valor da indenização securitária de- vem ser consideradas apenas as seguintes rubricas (fl. 394 - vol. 2): 6 - Cober- tura, 6.1 - Estrutura de madeira com telhas cerâmicas (R$ 3.478,00) e 6.2 - te- lhas cerâmica 50% de reap. (R$ 1.148,78); e 10 - Demolições, 10.8 - cobertura com telhas cerâmicas (R$ 799,94), num total geral de R$ 5.426,72 (cinco mil quatrocentos e vinte e seis reais e setenta e dois centavos) - montante necessário à recuperação total dos danos que ameaçam o bem.
+ ..
+Ocorre que a perícia não informou que os moradores precisariam se retirar de sua moradia, não demonstrando, portanto, a necessidade de abandono do lar para realização dos consertos.
+Diante desses fatos, o pagamento de aluguel pelo período necessário à reforma do imóvel de Vilmar deve ser excluído do valor da condenação.
+ ..
+No presente caso, o pedido deduzido na inicial no que se refere a despesas complementares, restringiu-se "ao pagamento de  ..  R$ 500,00 (quinhentos reais) mensais, para custeio de aluguel pelo período em que a perí- cia definir como necessário para as reformas" (fl. 06, item f - sem destaque no o- riginal). Porém, da análise da sentença verifica-se, de ofício, a ocorrência de jul- gamento ultra petita quando, no dispositivo da aludida decisão, determinou-se o pagamento (por completo) das "quantias individualizadas e especificadas no laudo pericial" (fl. 473 - vol. 2) - abarcando-se, pois, as despesas de mobilização e mudança, em função da possível desocupação do imóvel do apelado Vilmar para realização dos reparos.
+Cabe ressaltar que nem mesmo os quesitos formulados pelos ape- lados às fls. 217/219 (vol. 2) trouxeram qualquer questionamento quanto a e- ventuais despesas dessa espécie (mobilização e mudança).
+ ..
+No tocante aos apelados Rooselwet (Conjunto Habitacional Bela Vista II) e Edson (Conjunto Habitacional Forquilhinhas) nenhuma indenização é devida, considerando que as coberturas de suas casas já foram devidamente substituídas  .. .
+No julgamento da AC n. 2010.082447-0, de minha relatoria, em 13/11/2014, chegou-se à conclusão idêntica com relação a um dos dois imóveis tratados, também localizado no Conjunto Habitacional Forquilhinhas, conforme se observa do seguinte trecho daquele voto:
+ ..
+Conquanto os orçamentos do perito tenham discriminado os custos atualizados das recuperações já realizadas, não se produziu prova acerca da concreta existência do risco especifico segurado (risco de desmoronamento) na- queles bens, cuja prova é essencial ao acolhimento do pleito indenizatório, tanto para a aferição do risco segurado quanto para a pormenorização dos custos para o reparo das obras.
+Além disso, não houve prova de que os consertos das coberturas foram custeados pelo apelados Rooselwet e Edson, tampouco de que eles se deram após a negativa do seguro, o que reforça a impossibilidade da seguradora arcar com a indenização.
+ ..
+Observa-se, portanto, a total impossibilidade de demonstração do fato constitutivo do direito dos apelados, cujo ônus processual a eles incumbia.
+Os demais itens dos orçamentos também não representam risco de desmoronamento, tendo o laudo registrado que "não há ameaça de desmoronamento iminente." (fl. 411 - vol. 2 - item 11).
+Impossível, então, visualizar o fato constitutivo do direito dos autores, uma vez que os demais danos constatados em seus imóveis não são bastantes para afetar as edificações de forma tão grave a caracterizar o risco de desmoronamento, ao menos parcial.
+Com efeito, como observado na decisão denegatória do recurso especial, é patente que o acolhimento do pedido demandaria o reexame de provas, obstado pela Súmula 7/STJ, para revisão do minucioso exame do acervo probatório procedido pela Corte local.
+ Com efeito, é inviável o conhecimento das teses do mérito do recurso especial, inclusive no tocante à alegada divergência jurisprudencial.
+4. Diante do exposto, acolho o agravo interno para conhecer do agravo em recurso especial, negando-lhe provimento.
+É como voto.
