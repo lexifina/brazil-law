@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que não admitiu recurso especial interposto pelo BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado:
+"PROCESSO CIVIL. APELAÇÃO CIVEL. AÇÃO DE BUSCA E APREENSÃO. NÃO LOCALIZAÇÃO DO BEM OBJETO DA PRESENTE DEMANDA. INEXISTÊNCIA DE CITAÇÃO. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. RECURSO CONHECIDO E NÃO PROVIDO.
+1. "A ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo - falta de citação - enseja a extinção da ação de busca e apreensão sem resolução de mérito, a teor do inciso IV do art. 267 do CPC/73 (reproduzido no inciso IV do art. 485 do CPC/2015), não sendo caso de aplicação da hipótese de abandono da causa pelo autor" (TJ-ES - APL: 00123564120138080012, Relator: JOSÉ PAULO CALMON NOGUEIRA DA GAMA, Data de Julgamento: 17/05/2016, SEGUNDA CÂMARA CÍVEL, Data de Publicação: 25/05/2016).
+2. Recurso conhecido e não provido." (fl. 193).
+No especial, a parte recorrente aponta ofensa ao art. 267, IV, do CPC/1973, alegando que não houve abandono do feito ou falta de pressupostos de constituição e de desenvolvimento válido e regular do processo a ensejar a extinção do processo. Traz precedentes a favor da sua tese.
+É o relatório. Passo a decidir.
+Na espécie, o processo foi extinto com fundamento no inciso IV do art. 267 do CPC/73, por ausência de pressuposto de constituição e desenvolvimento válido e regular, em razão da falta de citação do réu.
+Nesse contexto, verifica-se, efetivamente, que o aresto recorrido encontra-se em sintonia com a jurisprudência desta Corte no sentido de que a falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor.
+A propósito :
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DO FEITO SEM JULGAMENTO DE MÉRITO. AUSÊNCIA DE PRESSUPOSTO PROCESSUAL (FALTA DE CITAÇÃO). INTIMAÇÃO DA PARTE. DESNECESSIDADE.
+1. A falta de citação do réu, embora transcorridos cinco anos do ajuizamento da demanda, configura ausência de pressuposto de desenvolvimento válido e regular do processo, ensejando sua extinção sem exame do mérito, hipótese que prescinde de prévia intimação pessoal do autor.
+2. Agravo regimental desprovido. (AgRg no REsp 1302160/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 04/02/2016, DJe 18/02/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALÊNCIA. AUSÊNCIA DE CITAÇÃO. PRESCRIÇÃO DOS TÍTULOS. AUSÊNCIA DE PRESSUPOSTOS PARA O DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. VIOLAÇÃO LEGAL INEXISTENTE.
+1. O aresto concluiu pela ausência de pressupostos para o desenvolvimento válido e regular do processo, tendo em vista que a ora agravante não agiu de forma diligente para que a citação da agravada fosse realizada, postergando-se no tempo por mais de 10 (dez) anos. Inexistência de violação legal.
+2. Agravo regimental não provido." (AgRg no AREsp n. 23.300/RJ, Terceira Turma, relator Ministro Ricardo Villas Bôas Cueva, DJe de 24.11.2014.)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LITISCONSORTE NECESSÁRIO. CITAÇÃO. DESÍDIA DOS IMPETRANTES. EXTINÇÃO DO PROCESSO. 1. Reconhecida a existência de litisconsórcio necessário pela Corte de origem em decisão que não fora objeto de impugnação, e não providenciado o ato citatório pelos impetrantes, é de rigor a extinção do processo sem resolução do mérito com supedâneo no art. 47 do CPC. 2. Precedentes da Excelsa Corte e deste Egrégio Superior Tribunal de Justiça acerca da desnecessidade de intimação pessoal da parte para que se proceda à extinção do feito. 3. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no RMS 39.040/TO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 11/12/2012, DJe 14/12/2012)
+Assim, encontrando-se o aresto recorrido em conformidade com o entendimento desta Corte, imperiosa a incidência da Súmula 83/STJ como óbice ao recurso especial.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
