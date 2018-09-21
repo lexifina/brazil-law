@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo CONSÓRCIO EQUINORTE-MINEORO, na vigência do CPC/73, contra decisão do Tribunal de Justiça do Estado do Estado do Paraná, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - RECURSO ADESIVO - ATO COATOR PRATICADO PELO CONSELHO DE CONTRIBUINTES - LEGITIMIDADE PASSIVA - PREFEITO MUNICIPAL E SECRETÁRIO DE FAZENDA - POSSIBILIDADE - TEORIA DA ENCAMPAÇÃO - RECURSO PRINCIPAL - ISS - SERVIÇOS DE ASSISTÊNCIA TÉCNICA - ITEM 14.02 DA LISTA ANEXA - COMPETÊNCIA TRIBUTÁRIA - ART. 3º DA LC Nº 166/2003 - LOCAL DO ESTABELECIMENTO PRESTADOR OU, NA FALTA DESTE, LOCAL DO DOMICÍLIO DO PRESTADOR - AUSÊNCIA DE PROVA DE ESTABELECIMENTO PRESTADOR, COM UNIDADE ECONÔMICA E PROFISSIONAL. NOS MAIS DE DUZENTOS MUNICÍPIOS EM QUE FORAM PRESTADOS OS SERVIÇOS - LEGITIMIDADE TRIBUTÁRIA ATIVA DO MUNICÍPIO DE LONDRINA, LOCAL DO DOMICÍLIO DO PRESTADOR - RECURSOS DESPROVIDOS" (fl. 606e).
+Sustenta a parte agravante, nas razões do Recurso Especial, fundamentado nas alíneas a e c do permissivo constitucional, além da divergência jurisprudencial, violação aos arts. 101, 102, 119 e 120, todos do Código Tributário Nacional. Afirma, in verbis:
+"II - Do direito. Razões de mérito.
+7- Tal circunstância de se ter de pagar o ISSQN sobre o mesmo fato gerador a 2 (dois) Municípios diferentes, se prende ao fato de que todos os Municípios exigem a retenção na fonte e o posterior recolhimento do ISSQN aos seus cofres, visto que tais serviços são prestados PESSOALMENTE pelos funcionários da recorrente no território do Município onde se localiza o tomador destes serviços.
+8- Ora, sobre este tema, na inicial a recorrente já desenvolveu os a seus argumentos, especialmente quanto ao princípio da territorialidade, segundo o qual o sujeito ativo da obrigação tributária somente está apto a exigir tributo sobre fatos ocorridos fora do seu território de assim autorizado por Convênios entre os entes tributantes.
+9- Com efeito, o CTN por seus artigos 101 e 102 trata da vigência da lei fiscal e prescreve o princípio da territorialidade nos seguintes termos:
+(..)
+10- Depreende-se das normas citadas supra que a Lei Tributária Municipal tem vigência dentro do Território do Município em questão e que esta lei SÓ terá vigência fora do seu território se for ratificada por Convênios dos quais este Município participe.
+11- Isso vale dizer, também, com a interpretação sistemática das normas constitucionais de competência tributária pelas quais em seu artigo 156, III confere competência aos Municípios para exigirem o ISSQN e com o que prescrevem os artigos 119 e 120 do CTN, somente pode ser sujeito ativo da obrigação tributária a pessoa pública constitucional titular desta competência constitucional em seu território. Eis o que prescrevem os artigos mencionados:
+(..)
+12- Portanto, UM MUNICÍPIO NÃO PODE SER SUJEITO ATIVO DE QUALQUER OBRIGAÇÃO TRIBUTÁRIA NASCIDA EM TERRITÓRIO DE OUTRO MUNICÍPIO, ou seja, não pode exigir o ISSQN sobre fato gerador (que faz nascer a obrigação - § 1º do art. 113 do CTN) ocorrido fora do seu território.
+13- Nesse sentido é a jurisprudência consolidada pela Primeira Seção deste E. Superior Tribunal de Justiça como visto adiante:
+(..)
+14- De outra parte, a legislação do Município de Londrina - PR tem o mesmo mandamento no artigo 128 do seu Código Tributário Municipal (Lei nº 7.703/1.994), a saber:
+(..)
+15- Isso vale dizer que um contribuinte do ISSQN domiciliado em São Paulo - SP, por exemplo, e que preste serviço a um tomador domiciliado em Londrina - PR, terá o ISSQN retido e recolhido em Londrina - PR. Como visto, em situação contrária em que o serviço é efetivamente prestado no território de Londrina e sendo o prestador de serviço domiciliado ou tendo estabelecimento em outro Município, ELE SOFRE RETENÇÃO DO ISSQN EM LONDRINA E DEVE PAGAR O ISSQN EM LONDRINA - PR.
+16- Já para o caso inverso objeto do debate nestes autos, se o domicílio fiscal do prestador do serviço é em Londrina-PR e ele presta serviço físico em outro Município, fora de Londrina-PR, ELE TAMBÉM DEVE PAGAR O ISSQN EM LONDRINA - PR, segundo o caput do artigo 108 do Código Tributário Municipal de Londrina - CTM (Lei nº 7.703/1.994) citado, a saber:
+(..)
+17- Isso vale dizer que para o Município de Londrina:
+(..)
+18- Tal posição do recorrido é, no mínimo, imoral, se não fosse ilegal e inconstitucional.
+19- Do exposto, como o ISSQN exigido já foi recolhido em outros Municípios, tudo dentro do princípio da territorialidade da lei fiscal, consoante demonstrado e provado na inicial, também quanto ao mérito, não pode prosperar a fundamentação levantada pelo Município e adotada pela sentença e acórdão recorridos.
+20- Independente disso, o que tratam estes autos é que o fisco de Londrina acaba de exigir o tributo que foi recolhido em outros Municípios do Paraná e em outros Estados, como se vê das Notificações (docs. 03, 04 e 05 da inicial) dos Autos de Infração (docs. 06, 07 e 08 da inicial) pelos quais o fisco está exigindo que a recorrente recolha em Londrina-PR, o ISSQN QUE FOI RETIDO E RECOLHIDO EM OUTRO MUNICÍPIO DO PARANÁ E DE OUTRO ESTADO OS QUAIS ADOTAM TRATAMENTO RECÍPROCO E IDÊNTICO AO DE LONDRINA.
+21- Concluindo, a recorrente DEVERÁ PAGAR ISSQN DUAS VEZES: UMA EM LONDRINA E OUTRA NO MUNICÍPIO ONDE FOI PESSOAL, FÍSICA E MATERIALMENTE PRESTADO O SERVIÇO.
+III - Da demonstração da divergência.
+22- Com efeito, como visto antes, o STJ já tem decidido na vigência da LC 116/2003 que o Município onde se perfectibilizou (onde foi efetivamente prestado) o serviço é que tem competência para exigir o ISSQN, como adiante se vê:
+(..)
+23- Acrescente-se que o STJ decidiu no RESP 1.060.210/SC como RECURSO REPRESENTATIVO DE CONTROVÉRSIA DO ARTIGO 543-C DO CPC que o Município competente para exigir o ISSQN, APÓS O ADVENTO DA LC 116/2003 é aquele onde a PRESTAÇÃO DO SERVIÇO SE PERFECTIBILIZA, OU SEJA, ONDE O SERVIÇO É EFETIVAMENTE PRESTADO. É o que se colhe de sua ementa adiante transcrita:
+(..)
+24- Ora, no caso presente, o serviços de manutenção preventiva de portas automáticas de Bancos por suas Agências diversas são prestados (PERFECTIBILIZADOS) em Londrina ou no local de cada porta de cada Agência
+25- A resposta é uma só, tal serviço prestado em Agências Bancárias de outros Municípios NÃO PODE JAMAIS SER ENTENDIDO COMO PRESTADO NO TERRITÓRIO DO MUNICÍPIO DE LONDRINA. ISSO É FATO PROVADO DOCUMENTALMENTE E RECONHECIDO PELO PRÓPRIO FISCO.
+26- Acrescente-se finalmente que em caso idêntico no qual empresa de Londrina prestou serviço em São Paula, o E. Tribunal de Justiça do Paraná, por sua íncita 1ª Câmara, se posicionou em recente julgamento (doc. 13 da inicial), em apoio aos argumentos da ora recorrente ao concluir que o "ISS só é devido na localidade onde efetivamente os serviços foram prestados, independente do município onde se encontra estabelecida a empresa", como adiante se vê da íntegra de tal decisão:
+(..)
+27- Dessa decisão o Município teve negado seguimento ao recurso especial e, com agravo ao STJ (AREsp 441658/PR), o mesmo findou por não conhecer o recurso, transitando em julgado, conforme certidão (doc. 14 da inicial).
+28- Do exposto, resta também provado que a decisão recorrida é divergente do que foi decidido nos Recursos Especiais números 1.280.778/MG, 1.060.210/SC e 1.221.309/RS, pois para estes recursos cujas ementas foram citadas anteriormente, "o partir da LC116/03, é aquele onde o serviço é efetivamente prestado, onde a relação é perfectibilizada".
+29- Destaque-se também que o próprio Tribunal de Justiça do Paraná, por sua 4ª Câmara decidiu exatamente ao contrário do que decidiu agora a 1ª Câmara e tal decisão é transitada em julgado porque o ERESP 441658/PR intentado sequer foi conhecido.
+30- Posto isso, a divergência da letra V do Inciso III do artigo 105 da Constituição, resta demonstrada" (fls. 623/631e).
+Requer, ao final, "que o mesmo seja admitido, conhecido e provido, de sorte que seja reformado o acórdão recorrido, concedendo-se a segurança pleiteada" (fl. 631e).
+Foram apresentadas contrarrazões (fls. 637/646e).
+Negado seguimento ao Recurso Especial (fls. 651/652e), foi interposto o presente Agravo (fls. 656/672e).
+Foi apresentada contraminuta (fls. 676/682e).
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"A Lei Complementar nº 116/2003, no artigo 3o, estabelece como regra geral que o tributo é devido no local do estabelecimento prestador ou, na falta deste, no local do domicílio do prestador, arrolando as exceções nos incisos I a XXII.
+No caso dos autos, como narrou o impetrante, houve "prestação de serviços de engenharia e assistência técnica em equipamentos elétricos e eletrônicos" e "prestação de serviços de Manutenção Corretiva e Preventiva de Equipamentos de PGDM, Sistemas de No-Break, Sistemas de CFTV e Subestações Elétricas" (fl. 532).
+Os serviços ora analisados enquadram-se no item 14.02 da Lista Anexa à Lei Complementar nº 116/2003 (assistência técnica), aplicando-se à hipótese a regra geral de competência, prevista no caput do artigo 3o, já que não se enquadra nas exceções descritas nos seus incisos.
+Imperioso reconhecer, portanto, que a legitimidade ativa para a cobrança do ISS sobre serviços de assistência técnica é do Município em que se localiza o estabelecimento prestador ou, na falta deste, no local do domicílio do prestador.
+O estabelecimento prestador é definido como "o local onde o contribuinte desenvolve a atividade de prestar serviço e que configure unidade econômica ou profissional" (artigo 4o).
+O julgamento pelo Superior Tribunal de Justiça do Resp nº 1060210/SC não permite conclusão diversa. Com efeito, o entendimento da Corte Superior é que "após a vigência da LC 116/2003 é que se pode afirmar que, existindo unidade conômica ou profissional do estabelecimento prestador no Município onde o serviço é perfectibilizado, ou seja, onde ocorrido o fato gerador tributário, ali deverá ser recolhido o tributo." (STJ, REsp 1060210/SC, Primeira Seção, Rel. Min. Napoleão Nunes Maia Filho, j: 28/11/2012).
+Diante disso, cabia ao impetrante demonstrar a existência de estabelecimento prestador com unidade econômica ou profissional nas localidades em que prestou o serviço.
+Contudo, os documentos trazidos aos autos não apontam para a conclusão pretendida pelo impetrante.
+O Contrato de Prestação de Serviços (fls. 253/271) e o Cronograma de Manutenções Periódicas (fls. 307/311) esclarecem que a assistência técnica foi prestada semestralmente em cada agência.
+Da análise destes documentos e dos demais juntados aos autos (avisos de lançamento, processo administrativo, autos de infração e notificações) não é possível concluir que o impetrante mantinha um estabelecimento prestador, com unidade econômica ou profissional, em cada um dos cerca de duzentos e vinte Municípios em que os serviços foram prestados.
+Assim sendo, a competência tributária para a cobrança da exação é do Município em que está sediado o prestador dos serviços, pois na falta de estabelecimento prestador, o tributo é devido no local do domicílio do prestador, de acordo com o artigo 3o da Lei Complementar nº 116/2003.
+Na hipótese dos autos, o Contrato Social (fls. 23/25) indica que o Consórcio Equinorte-Mineoro está sediado em Londrina, motivo pelo qual a legitimidade ativa tributária é do Município de Londrina.
+Nesse sentido, destacam-se os precedentes desta Corte de Justiça, que trataram da competência tributária para a cobrança de ISS sobre serviços de assistência técnica:
+(..)
+Registra-se que não há ofensa ao princípio da territorialidade ou aos artigos 101, 102. 119 e 120 do Código Tributário Nacional, já que a competência foi definida com fundamento no artigo 3o da Lei Complementar nº 116/2003.
+Por fim, anota-se que não houve bitributação na espécie, já que não há incidência dúplice de ISS sobre os serviços prestados.
+Não há prova da exigência do tributo ou do recolhimento da exação em favor de outro Município. Se houve recolhimento, pelo tomador de serviços, de ISS em outra localidade, tal fato decorreu de equívoco do próprio impetrante no preenchimento das notas fiscais (já que indicou, incorretamente, ter prestado serviços descritos no item 7.02 da Lista Anexa. fl. 400). Evidente que o tomador de serviços foi induzido a erro e pode, eventualmente, ter recolhido o tributo obedecendo à exceção contida no inciso III do artigo 3o da Lei Complementar já mencionada, o que não afasta a competência do Município de Londrina para cobrar o tributo.
+Assim sendo, deve ser mantida a sentença que denegou a segurança.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou que "não há ofensa ao princípio da territorialidade ou aos artigos 101, 102. 119 e 120 do Código Tributário Nacional, já que a competência foi definida com fundamento no artigo 3º da Lei Complementar nº 116/2003" (fl. 615e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Por outro lado, o acórdão, com base no exame dos elementos fáticos dos autos, consignou que "não há prova da exigência do tributo ou do recolhimento da exação em favor de outro Município. Se houve recolhimento, pelo tomador de serviços, de ISS em outra localidade, tal fato decorreu de equívoco do próprio impetrante no preenchimento das notas fiscais (já que indicou, incorretamente, ter prestado serviços descritos no item 7.02 da Lista Anexa. fl. 400)" (fl. 616e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Por fim, quanto à divergência jurisprudencial, verifica-se que a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido interpretados divergentemente pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno. 2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
