@@ -1,0 +1,24 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1501760-58.2017.8.26.0536.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para fixar o regime fechado e negar a substituição da pena privativa de liberdade por restritiva de direitos ao réu condenado à pena de 2 anos e 6 meses de reclusão e 250 dias-multa, em regime fechado, como incurso no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Concedida a liminar para assegurar que o paciente aguardasse em regime aberto a análise do mérito do mandamus e dispensada a solicitação de informações.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, cassando-se a liminar concedida.
+Decido.
+I. Contextualização
+O réu foi condenado à pena de 2 anos e 6 meses de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+O Tribunal estadual negou provimento ao apelo defensivo. No tocante ao regime de cumprimento da pena e à possibilidade de substituição por restritivas de direitos, o acórdão consignou que (fls. 30-31, destaquei):
+Inadmissíveis, também, a substituição da corporal por restritivas de direitos e a concessão de sursis, providências no caso claramente insuficientes à repressão e prevenção do delito, representando qualquer delas incentivo à criminalidade, algo reforçado pela circunstância negativa consistente na considerável quantidade de drogas e extremada nocividade da cocaína (artigos 44, inciso III e 77, inciso II, ambos do Código Penal).
+Para corroborar o impedimento, tem-se como impraticável ou nitidamente inviável o contato do traficante com a sociedade antes de submetê-lo à terapêutica criminal através do efetivo cumprimento da pena, não se verificando atividade compatível com o vil comércio capaz de possibilitar, v.g., a prestação de serviços à comunidade sem riscos à população advindos do estreito convívio com autor de delito de nefasta repercussão no seio da sociedade.
+Pelo mesmo motivo, inaceitável regime prisional diverso do fechado ante a gravidade concreta do crime envolvendo quantidade considerável de tóxicos, parte deles dotada de acentuado poder lesivo, algo incondizente com retiro menos severo (artigo 33, § 3º, do Código Penal).
+Solução mais branda ensejaria sentimento de impunidade e incentivaria a prática de crime que há muito atormenta a população, decorrendo o retiro pleno também da maior severidade decorrente de dispositivo constitucional (artigo 5º, XLIII).
+Isso, destaque-se, não representa mera opinião do julgador a respeito da gravidade do crime; a providência decorre, sim, de fato concreto facilmente constatado através de circunstância adversa (posse de considerável quantidade de entorpecente, parte deles de acentuada nocividade à higidez física ou psíquica da população, a par do alto poder viciante), sem se ignorar o cometimento de infração penal de indiscutíveis gravidade e repercussão.
+II. Abrandamento do regime
+Na hipótese, observo que o acusado era primário ao tempo do delito, teve a pena-base fixada no mínimo legal, foi condenado a reprimenda inferior a 4 anos de reclusão e agraciado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 - a qual visa, justamente, a beneficiar o "traficante ocasional". Embora as instâncias antecedentes mencionem a quantidade de droga apreendida (30 porções de maconha e 29 porções de cocaína), considero não ser elemento bastante para, isoladamente, evidenciar acentuada reprovabilidade da conduta perpetrada.
+Com base nessas premissas, entendo que o regime aberto é, de fato, o que se mostra o mais adequado para a prevenção e a repressão do delito praticado, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+III. Substituição da pena privativa de liberdade por restritiva de direitos
+Pelas mesmas razões, concluo que a substituição da pena é medida socialmente recomendada, máxime porque, conforme já salientado, a quantidade de substância entorpecente apreendida não foi excessivamente elevada.
+Diante da favorabilidade das circunstâncias previstas no art. 59 do Código Penal - tanto que a pena-base foi fixada no mínimo legal -, constato a violação do art. 44, III, do Código Penal, de modo que deve ser substituída a reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser definidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem a fim de fixar o regime inicial aberto para o cumprimento da pena privativa de liberdade e determinar a sua substituição por duas medidas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo da Execução.
+Comunique-se, com urgência, o inteiro teor deste decisum às instâncias ordinárias.
+Publique-se e intimem-se.
