@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. QUESTÕES DE ADMISSIBILIDADE. SÚMULA 7/STJ. NÃO CABIMENTO. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE.
+1. Trata-se de Embargos de Divergência interpostos por MARIA INÊS PANDELÓ CERQUEIRA contra acórdão da 2a. Turma desta Corte, assim ementado:
+A PROCESSO CIVIL E ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO A RT. 535 DO CPC. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NULIDADE. AUSÊNCIA DE PREJUÍZO. PRINCÍPIO PAS DE NULITÉ SANS GRIEF. CERCEAMENTO DE DEFESA E NECESSIDADE DE PRODUÇÃO DE PROVA. SÚMULA 7/STJ. ART. 9º DA LEI N. 8.429/92. APROPRIAÇÃO DE PARTE DO SUBSÍDIO DE ASSESSORES PARLAMENTARES. DOAÇÃO VOLUNTÁRIA/ESPONTÂNEA. ENRIQUECIMENTO ILÍCITO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+1. Não há a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da leitura do acórdão recorrido, que enfrentou, motivadamente, o tema abordado no recurso de apelação, ora tido por omitido, qual seja, cerceamento de defesa.
+O Tribunal de origem refutou ainda a existência da alegada omissão, conforme se extrai do trecho do voto do acórdão que apreciou os embargos.
+2. Verifica-se que o Tribunal de origem não analisou, ainda que implicitamente, os arts. 125, I, e 405, § 3º, do Código de Processo Civil. Assim, incide no caso o enunciado da Súmula 211 do Superior Tribunal de Justiça.
+3. O Tribunal a quo entendeu que não houve nenhum prejuízo decorrente da anulação da apelação, para julgamento simultâneo dos recursos, uma vez que não foi provido o recurso interposto pelo Ministério Público, motivo pelo qual não há falar em nulidade sem prejuízo (pas de nulité sans grief).
+4. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento. Ademais, aferir eventual necessidade de produção de prova demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado em recurso especial, dado o óbice do enunciado 7 da Súmula do STJ.
+5. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao negar provimento à apelação, entendeu que as doações realizadas pelos assessores parlamentares não eram espontâneas, bem como não houve a possibilidade de opção por parte dos assessores, o que caracteriza improbidade administrava, tipificada no art. 9º da Lei 8.429/92, pois o parlamentar dava ao capital destino diverso do fim público.
+6. Portanto, modificar o acórdão recorrido, como pretende a recorrente, no sentido de que não houve enriquecimento ilícito, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte, em razão do óbice da Súmula 7/STJ.
+7. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.Recurso especial conhecido em parte e improvido (fls. 727/728).
+2. Inconformada, os recorrentes alegam que a decisão guerreada diverge da jurisprudência da egrégia 1ª Turma do STJ, sendo de rigor o provimento dos presentes embargos, prevalecendo-se o entendimento no sentido da nulidade de todos os atos praticados a partir da decisão que indeferiu a produção de prova testemunhal pela embargante.
+3. É o relatório. Decido.
+4. São incabíveis Embargos de Divergência para discutir questões de admissibilidade, conforme orientação da Súmula 315/STJ. Nesse sentido citem-se precedentes da Corte Especial:
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PARADIGMA ORIUNDO DE ÓRGÃO NÃO MAIS COMPETENTE PARA O JULGAMENTO DA QUESTÃO. SÚMULA 158/STJ. DISSENSO INTERPRETATIVO NÃO CARACTERIZADO. QUESTÃO DE MÉRITO DECIDIDA APENAS NO PARADIGMA. DISCUSSÃO ACERCA DA APLICAÇÃO DE REGRA TÉCNICA RELATIVA AO CONHECIMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. DESCABIMENTO DOS EMBARGOS.
+(..)
+4. São incabíveis embargos de divergência em que não é feita a confrontação analítica dos arestos, demonstrando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+5. Agravo regimental desprovido (AgRg nos EDcl nos EAREsp. 382.553/SC, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 30.3.2015).
+
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDICAÇÃO DE ATO ILÍCITO E NEXO DE CAUSALIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO PROFERIDA EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL QUE NÃO ANALISA O MÉRITO DO NOBRE APELO, ANTE O ÓBICE DA SÚMULA 7 DO STJ. SÚMULA 315 DO STJ. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA MANTIDO. PRECEDENTES RECENTES DA CORTE ESPECIAL E DAS TRÊS SEÇÕES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte Especial consolidou o entendimento sobre a inviabilidade de manejo de Embargos de Divergência para discussão acerca de admissibilidade de Recurso Especial, tal como ocorre com a aplicação da Súmula 7/STJ.
+(..)
+4. Agravo Regimental desprovido (AgRg nos EAREsp. 260.971/RS, de minha relatoria, DJe 30.3.2015).
+5. Desprovido o Recurso Especial em razão do óbice da Súmula 7/STJ, torna-se inviável a reversão do julgado na forma propugnada.
+6. Ante o exposto, indeferem-se liminarmente os Embargos de Divergência.
+7. Publique-se.
+8. Intimações necessárias.
