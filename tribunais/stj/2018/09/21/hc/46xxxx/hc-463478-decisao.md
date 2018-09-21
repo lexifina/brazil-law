@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de PATRICK ZOTTI DA SILVA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Embargos de Declaração no Agravo em Execução n. 0005453-34.2018.8.24.0023.
+Infere-se dos autos que o Juízo da Execução homologou procedimento administrativo disciplinar e reconheceu a prática de falta grave pelo paciente, regredindo-o para o regime semiaberto e declarou a perda de 1/3 dos dias remidos, alterando a data-base.
+Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso, nos termos da seguinte ementa:
+RECURSO DE AGRAVO - DECISÃO QUE HOMOLOGA PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR, DETERMINA A REGRESSÃO DE REGIME, DECRETA A PERDA DE DIAS REMIDOS E FIXA NOVA DATA-BASE PARA BENEFÍCIOS FUTUROS. FALTA GRAVE - FATO DEFINIDO COMO CRIME DOLOSO - COMPETÊNCIA DO DIRETOR DA UNIDADE PRISIONAL PARA RECONHECER A FALTA GRAVE - ANÁLISE JUDICIAL RESTRITA À LEGALIDADE - ALEGADA AUSÊNCIA DE PROVAS - NÃO OCORRÊNCIA.
+De acordo com o entendimento jurisprudencial firmado no tema n. 652 dos recursos repetitivos, "no âmbito da execução penal, a atribuição de apurar a conduta faltosa do detento, assim como realizar a subsunção do fato à norma legal, ou seja, verificar se a conduta corresponde à uma falta leve, média ou grave, é do diretor do presídio, em razão de ser o detentor do poder disciplinar" (STJ, Min. Marco Aurélio Bellizze).
+PRESCINDIBILIDADE DO TRÂNSITO EM JULGADO - CONFORMIDADE COM O PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - DEVIDA A INSTAURAÇÃO DE INCIDENTE DE REGRESSÃO DE REGIME - INCIDÊNCIA DA SÚMULA N. 526 DO STJ - RECEPÇÃO, PELA CRFB/88, DO ART. 118 DA LEP - DECISÃO MANTIDA.
+"O cometimento de delito pelo apenado, durante o resgate da reprimenda, justifica a regressão de regime, sendo desnecessário, para tanto, o trânsito em julgado da nova condenação, inocorrendo, na espécie, ofensa ao princípio da presunção de inocência" (STJ, Min. Jorge Mussi) PERDA DE 1/3 DIAS REMIDOS E SANÇÕES DISCIPLINARES - APLICAÇÃO CONJUNTA - POSSIBILIDADE - NATUREZAS DISTINTAS - MEDIDAS PROPORCIONAIS - MANUTENÇÃO.
+Não há óbice na aplicação conjunta das sanções administrativas e judiciais em decorrência da prática de falta grave.
+RECURSO CONHECIDO E DESPROVIDO (fls. 70/71).
+Opostos embargos de declaração pela defesa para que fosse reconhecida a nulidade da decisão que decretou a regressão de regime sem realizar a audiência de justificação, os mesmos foram rejeitados, em acórdão assim ementado:
+PROCESSUAL PENAL - EMBARGOS DE DECLARAÇÃO - OMISSÃO INDIRETA - AUSÊNCIA DE AUDIÊNCIA DE JUSTIFICAÇÃO PRÉVIA (LEP, ART. 118, § 2o) - INOVAÇÃO RECURSAL - ADEMAIS, ATO PRESCINDÍVEL.
+"Os embargos de declaração são cabíveis somente nas hipóteses de ambigüidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado, sendo inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivem novo julgamento do caso" (STJ, Min. Rogério Schietti Cruz).
+EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS (fl. 95).
+Na presente impetração, a defesa sustenta a ilegalidade da decisão homologatória de falta grave que determinou a regressão de regime, sem que houvesse a prévia audiência de justificação.
+Requer, em liminar e no mérito, a suspensão dos efeitos da decisão que homologou a falta grave.
+Indeferida a liminar (fls. 309/311) as informações foram dispensadas e o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 314/321).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Passo à análise das alegações expostas na inicial tão somente para verificar se existe flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, busca-se, na presente impetração, a nulidade da homologação da falta grave que determinou a regressão de regime, em razão da ausência de audiência de justificação.
+O Tribunal de Justiça estadual negou provimento ao recurso interposto pela defesa, para manter a decisão de primeiro grau que homologou PAD e reconheceu a prática de falta grave pelo paciente, regredindo-o para o regime semiaberto e declarou a perda de 1/3 dos dias remidos, alterando a data-base.
+A defesa opôs embargos de declaração para que fosse reconhecida a nulidade da decisão que decretou a regressão de regime sem realizar a audiência de justificação, tendo a Corte estadual rejeitado os mesmos, conforme se verifica:
+2. O embargante alegou omissão indireta no acórdão, porque não reconhecida nulidade decorrente de ausência de audiência de justificação.
+De fato, isso não foi objeto da decisão, uma vez que referida tese não integrou as razões recursais, nada obstante também terem sido ofertadas pela Defensoria Pública do Estado de Santa Catarina.
+É verdade que se trata de tese de nulidade absoluta, matéria de ordem pública e que pode ser objeto de apreciação de ofício. Entretanto, inexistindo provocação, não se pode exigir que o órgão julgador exponha, além das razões que justificam seu posicionamento, aquelas pelas quais ele deixou de atuar de ofício. Por isso, com respaldo jurisprudencial, entende-se não ser omisso o acórdão:
+"EMBARGOS DE DECLARAÇÃO. HABEAS CORPUS. OMISSÃO E OBSCURIDADE. NÃO-OCORRÊNCIA. EMBARGOS REJEITADOS.
+ ..  É inviável a apreciação de matéria que não foi alegada no momento processual adequado, pois é vedado à parte inovar quando da oposição de embargos de declaração" (STJ, ED no HC n. 288875, Min. Maria Thereza de Assis Moura, j. 03.02.2015).
+De mais a mais, é prescindível a realização de audiência de justificação para a homologação do procedimento administrativo quando o apenado é ouvido, na fase embrionária, acompanhado de defensor público (fl. 279 do PEC), o qual inclusive apresenta alegações finais (fls. 280-281 do PEC) em sede de incidente de apuração de falta grave.
+É desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica" (STJ. HC n. 333.233. Min. Félix Fischer. j. 06.11.2015).
+ ..
+Inexistindo omissão, verifica-se que o objetivo do embargante é tão somente rediscutir a matéria já decidida, para o que não sen/em os embargos declaratórios. Nesse sentido:
+"A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabivel na via dos embargos de declaração" (STJ. EDd no AgRg no AREsp n. 173.597. Min. Laurita Vaz, j. 03.04.2014).
+Logo, incabível a pretensão do recorrente de alterar o teor da decisão que lhe foi desfavorável em sede de embargos de declaração (fls. 97/101).
+Na hipótese, verifica-se que houve a instauração e homologação dos devido procedimento administrativo disciplinar, sendo que o paciente foi ouvido, na presença de defensor, que apresentou, inclusive, alegações finais, conforme consignado pela Corte estadual.
+Esta Corte Superior possui firme entendimento acerca da prescindibilidade da oitiva do reeducando se já houve o Processo Administrativo Disciplinar, no qual foi oportunizado o contraditório e a ampla defesa, como no caso dos autos.
+Vejam-se os seguintes precedentes nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. FALTA GRAVE. CONSECTÁRIOS LEGAIS. AUDIÊNCIA DE JUSTIFICAÇÃO. PRESCINDIBILIDADE AO ACUSADO QUE SE ENCONTRA EM REGIME FECHADO. PRECEDENTES.
+I - Imprescindível a oitiva prévia do apenado em juízo para a decretação da perda dos dias remidos na hipótese em que, ao final de procedimento apuratório disciplinar, constata-se que houve a prática de falta grave, e o condenado foi previamente ouvido e esteve acompanhado de advogado no âmbito do processo administrativo.
+II - O artigo 118 da LEP exige a oitiva prévia apenas nos casos de regressão definitiva de regime prisional, o que não é a hipótese dos autos.
+III - Agravo regimental a que se nega provimento (AgRg/Resp 1704696, Rel. Mini. REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/2/18).
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUDIÊNCIA DE JUSTIFICAÇÃO. AUSÊNCIA. PRESCINDIBILIDADE. PAD. DEFESA TÉCNICA. CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS.
+I - A decisão agravada deve ser mantida por seus próprios fundamentos.
+II - É firme a jurisprudência desta Corte no sentido de que é "desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica" (HC n. 333.233/SP, Quinta Turma, de minha relatoria, DJe de 6/11/2015).
+Agravo regimental desprovido (AgRg/AResp 979032, Rel. Min. FÉLIX FISCHER, QUINTA TURA, DJe 16/02/2018).
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FALTA GRAVE. APURAÇÃO EM PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. OBSERVÂNCIA AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE REGRESSÃO DE REGIME. DESNECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA DE JUSTIFICAÇÃO JUDICIAL. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282/STF E 356/STF.
+1. Apurada a falta grave em procedimento administrativo disciplinar no qual foram assegurados a ampla defesa e o contraditório, e cuja homologação não resultou em regressão de regime, como na espécie, desnecessária a realização de audiência de justificação judicial para nova oitiva do apenado. Precedentes.
+2. Nos termos da jurisprudência deste Tribunal Superior, é defeso, em âmbito de agravo regimental, ampliar a quaestio veiculada nas razões do recurso especial.
+3. Ademais, a questão da nulidade do procedimento administrativo disciplinar não foi objeto de debate pelo Tribunal de origem, sendo que nem sequer foram opostos embargos de declaração para esse fim. Incidência, portanto, das Súmulas n. 356 e 282/STF. 4. Agravo regimental desprovido (AgRg no AREsp 843327, Rel. Min. ANTÔNIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 28/11/2017).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
