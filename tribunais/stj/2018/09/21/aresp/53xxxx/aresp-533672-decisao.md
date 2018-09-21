@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO PARA ATRIBUIR EFEITO SUSPENSIVO AOS EMBARGOS À EXECUÇÃO. SUPERVENIÊNCIA DE JULGAMENTO DOS EMBARGOS NOS AUTOS PRINCIPAIS. PERDA DE OBJETO. AGRAVO EM RECURSO ESPECIAL PREJUDICADO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo TW BRASIL-HARDWARE SOFTWARE E SERVIÇOS LTDA, com fundamento no art. 105, III, a da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+PROCESSUAL CIVIL. EFEITO SUSPENSIVO NOS EMBARGOS À EXECUÇÃO. NÃO COFlGURAÇÃO DOS REQUISITOS DO ART. 739-A, § Io.. DECISÃO MANTIDA.
+1. De acordo com a regra do art. 739-A do CPC, a regra é que os embargos à execução sejam recebidos sem a atribuição de efeito suspensivo, dando- se prosseguimento ao processo de execução.
+2. Para que seja possível conferir efeito suspensivo aos embargos é necessária a concomitância dos seguintes requisitos: requerimento da Embargante, relevância dos fundamentos, possibilidade da ocorrência de grave dano de difícil ou incerta reparação e a garantia suficiente da execução (art. 739-A, § 1o., do CPC).
+3. Cabe ao embargante a demonstração da relevância de seus
+fundamentos para suspender a execução, não aparentando relevância a só alegação de danos decorrentes dos atos executivos, pois não se admitem e se previnem apenas os danos ilegítimos, não os decorrentes da legalidade.
+4. A discussão em ação ordinária não inviabiliza a execução, que não deve ser suspensa sem penhora, cumulada com o preenchimento dos demais requisitos do art. 739-A, § 1o., do CPC.
+5. Agravo de instrumento improvido. Prejudicado o agravo regimental (fls. 550).
+2. Nas razões do Apelo Nobre de fls. 585/601, a parte recorrente aponta ofensa aos arts. 620, 668, 739-A do CPC. Afirma, em síntese, que a decisão recorrida está a causar lesão grave e de difícil ou incerta reparação à Recorrente (fls. 590), asseverando que foram preenchidos os requisitos para conceder efeito suspensivo aos Embargos à Execução.
+3. Sobreveio juízo de negativo de admissibilidade (fls. 625/626), o que ensejou a interposição do presente Agravo.
+4. É o relatório.
+5. Preliminarmente, cumpre noticiar que, em consulta à página oficial no sítio eletrônico do TRF da 4a. região, averiguou-se que sobreveio acórdão julgando a Apelação nos autos principais (Embargos à Execução-5007798-23.2011.4.04.7200). Observe-se, ainda, que a mencionada Apelação foi desprovida.
+6. Ante esse fato, conforme entendimento deste colendo Superior Tribunal de Justiça, fica prejudicado o Recurso Especial interposto contra decisão em Agravo de Instrumento, no qual se pretende atribuir efeito suspensivo aos embargos à execução, haja vista a superveniência do julgamento deste na origem. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DOS BENS. AGRAVO DE INSTRUMENTO RELATIVO À MEDIDA ANTECIPATÓRIA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO, JULGANDO IMPROCEDENTE A AÇÃO. PERDA DE OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. De acordo com a jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença de mérito, seja de procedência ou improcedência, acarreta a perda de objeto do recurso especial, interposto contra decisão interlocutória que decide pedido de liminar ou antecipação dos efeitos da tutela, porquanto o provimento dotado de cognição exauriente absorve os efeitos da medida antecipatória, cumprindo às partes impugnar a sentença, e não mais o deferimento ou indeferimento da liminar ou antecipação dos efeitos da tutela.
+II. Em situações semelhantes à dos presentes autos, em que fora declarada a perda de objeto do Recurso Especial que se insurge contra decisão interlocutória que, em sede de ação de improbidade administrativa, decide acerca da indisponibilidade dos bens, destacam-se os seguintes precedentes desta Corte: STJ, REsp 1.351.883/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/05/2015; STJ, AgRg no REsp 1.244.149/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 23/10/2014; STJ, AgRg no Ag 1.146.044/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 04/08/2014.
+III. Agravo Regimental improvido (AgRg no AREsp. 728.557/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 20.11.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. DISCUSSÃO ACERCA DA CONCESSÃO DE EFEITO SUSPENSIVO. SENTENÇA SUPERVENIENTE. PERDA DE OBJETO.
+1. A superveniência da sentença dos embargos à execução fiscal prejudica a discussão sobre os efeitos em que eles foram recebidos.
+2. Agravo regimental não provido (AgRg no REsp. 1.241.400/RS, Rel. Min. BENEDITO GONÇALVES, DJe 21.11.2013).
+7. Diante do exposto, com fundamento no art. 34, XI do RISTJ, julga-se prejudicada a análise do Agravo em Recurso Especial, em face da perda de seu objeto.
+8. Publique-se. Intimações necessárias.
