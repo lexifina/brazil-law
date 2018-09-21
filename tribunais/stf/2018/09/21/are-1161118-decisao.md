@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. A Turma Recursal, confirmando entendimento do Juízo e observada a legislação de regência, assentou a não incidência de contribuições previdenciárias sobre as verbas recebidas a título de bolsa de extensão à docência. No recurso extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 2º, 5º, inciso II, 150, inciso I e § 6º, 195, inciso I, alínea “a”, da Carta Política. Aduz a ausência de previsão legal da isenção fiscal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes fundamentos:
+    [...]
+    2. Contribuição Previdenciária: As Instituições Federais de Ensino Superior (IFES) e as demais Instituições Científicas e Tecnológias (ICT), de que trata a Lei 10.973/04, podem celebrar convênios e contratos com fundações instituídas com a finalidade de apoiar projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive na gestão administrativa e financeira necessária à execução desses projetos (art. 1º da Lei 8.958/94).
+    A participação de servidores das IFES e demais ICTs contratantes nas atividades antes mencionadas, uma vez autorizadas em conformidade com a lei, não cria vínculo empregatício de qualquer natureza, podendo as fundações contratadas, para sua execução, conceder bolsas de ensino, de pesquisa e de extensão, de acordo com os parâmetros a serem fixados em regulamento (§1º do art. 4º da Lei 8.958/94)
+    […]
+    A bolsa de estímulo à inovação acabou sendo considerada, pela alteração normativa ocorrida pela Lei 13.243/16, como uma doação e que não caracteriza contraprestação por serviços, não integrando a base de cálculo da contribuição previdenciária, nos termos do §4º que foi acrescentado ao art. 9º da Lei 10.973/04. A mesma alteração normativa expressamente dispôs que se trata de norma interpretativa, devendo ser aplicada retroativamente, nos termos do art. 106, I, do CTN.
+    Na hipótese dos autos, a bolsa de extensão concedida com fundamento na Lei 8.958/94, por força do convênio operacional mantido entre o Hospital de Clínicas de Porto Alegre, que é uma empresa pública federal, e a Fundação Médica do Rio Grande do Sul, a qual, segundo os seus estatutos, é uma instituição sem fins lucrativos que foi constituída para apoiar a UFRGS e o HCPA, possui idêntica natureza jurídica da bolsa de estímulo e inovação.
+    A paridade jurídica entre as bolsas de extensão e as bolsas de estímulo e inovação exige, por força do princípio da isonomia e diante da interpretação sistemática, idêntico tratamento tributário.
+    Logo, conclui-se que a bolsa de extensão recebida pelo autor no Programa de Extensão em Residência Integrada Multiprofissional em Saúde também não caracteriza contraprestação de serviços, não se sujeitando, portanto, à incidência da contribuição previdenciária.
+    […]
+    No caso dos autos, considerando que os valores recebidos pela parte autora não constituem verbas salariais incorporáveis à aposentadoria do servidor, tampouco se incorporam à base de cálculo da contribuição previdenciária para o regime próprio de previdência social, razão pela qual não devem sofrer a incidência de contribuição previdenciária.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais em 5% sobre o valor atualizado da causa, nos termos do artigo 85, § 11, do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 21 de setembro de 2018.
+ Ministro MARCO AURÉLIO
+Relator
