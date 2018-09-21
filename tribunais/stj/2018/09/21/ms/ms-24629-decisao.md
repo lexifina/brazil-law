@@ -1,0 +1,42 @@
+DECISÃO
+1. Trata-se de mandado de segurança, com pedido de liminar, impetrado contra decisão da Sexta Turma, assim ementado:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO EMBARGADO. EFEITO INFRINGENTE. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. O cabimento dos embargos de declaração em matéria criminal está disciplinado no artigo 619 do Código de Processo Penal, sendo que a inexistência dos vícios ali consagrados importam no desacolhimento da pretensão aclaratória.
+2. Inviável a concessão do excepcional efeito modificativo quando, sob o pretexto de ocorrência de omissão na decisão embargada, é nítida a pretensão de rediscutir matéria já suficientemente apreciada e decidida.
+3. Embargos de declaração rejeitados.
+Sustenta omissão sobre a alegada violação aos arts. 6º, V e 41 do CPP, desprezando o direito líquido e certo da parte requerente à uma decisão devidamente fundamentada.
+Alega ofensa ao art. 41 do CPP, dissertando sobre as questões de mérito.
+Requer a suspensão da decisão que não conheceu do agravo em recurso especial (AREsp 1.285.103) e, no mérito, a anulação essa decisão, com a prolatação de outra, em observância ao art. 498 do CPC.
+É o relatório.
+2. Com efeito, é cediço o cabimento do mandado de segurança contra decisão judicial apenas em situações de grande excepcionalidade, devendo o impetrante comprovar, de plano, a sua ilegalidade ou teratologia.
+Nesse sentido, recentíssimos precedentes da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. INDEFERIMENTO LIMINAR DO WRIT. ATO COATOR. ARESTO PROLATADO PELA TERCEIRA TURMA DO STJ. AUSÊNCIA DE TERATOLOGIA. PRETENSÃO DE UTILIZAR A VIA MANDAMENTAL COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A utilização do mandado de segurança para impugnar decisão judicial só tem pertinência em caráter excepcionalíssimo, quando se tratar de ato manifestamente ilegal ou teratológico, devendo a parte demonstrar, ainda, a presença dos requisitos genéricos do fumus boni iuris e do periculum in mora.
+2. Na hipótese, não se verifica a ocorrência de decisão judicial teratológica, tampouco a existência de direito líquido e certo amparável pelo mandado de segurança, na medida em que foi impetrado contra decisão fundamentada, com motivação clara e consistente, embora em dissonância com a pretensão da parte impetrante.
+3. A insistência da agravante no sentido de configurar o aresto impugnado como "teratológico e ilegal" esbarra em uma questão bastante simples: o acórdão objeto desta ação mandamental aplicou ao caso regra expressa contida no § 6º do art. 1.003 do CPC/2015. Como dito na decisão, ora agravada, "não se está firmando que a interpretação dada pelo aresto impugnado se encontra correta ou é a mais adequada à espécie, mas apenas que o decisório se lastreou em dispositivo expresso contido no § 6º do art. 1.003 do CPC/2015". E isso é o bastante para retirar a pecha de teratologia e de ilegalidade que pretende a agravante atribuir ao acórdão prolatado pela Terceira Turma desta Corte Superior.
+4. No que se refere ao argumento - repisado neste agravo interno - de que teria juntado um suposto documento idôneo apto para configurar a tempestividade do apelo interposto, como já fundamentado na decisão agravada, o mandado de segurança, até por se tratar de uma ação, não se traduz em espécie recursal para corrigir eventual equívoco de julgamento.
+5. Agravo interno a que se nega provimento.
+(AgInt no MS 23.896/AM, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 06/06/2018, DJe 14/06/2018)
+--
+PROCESSUAL CIVIL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. WRIT IMPETRADO EM FACE DE DECISÃO DA VICE-PRESIDÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CONHECIMENTO DE AGRAVO INTERPOSTO EM RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE. INDEFERIMENTO LIMINAR DO MANDAMUS. POSSIBILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "A orientação desta Corte é pacífica sobre o descabimento de Mandado de Segurança contra ato jurisdicional dos órgãos fracionários ou de Relator desta Corte Superior, a menos que neles se possa divisar flagrante e evidente teratologia  .. " (AgRg no MS 21.096/DF, Corte Especial, Rel. Min. Napoleão Nunes Maia Filho, julgado em 5/4/2017, DJe 19/4/2017).
+2. É que o mandado de segurança impetrado contra ato jurisdicional é medida excepcional, somente cabível em casos de flagrante ilegalidade, teratologia ou abuso de poder, o que não se verifica na espécie.
+3. A decisão objeto da ação mandamental se reportou a ato judicial praticado pela Vice-Presidência deste STJ, que não conheceu de agravo em recurso extraordinário. Em tais casos, não há qualquer teratologia - pelo não envio da insurgência ao STF -, visto que a própria Suprema Corte entende que inexiste usurpação de sua competência "na decisão que não conhece agravo em recurso extraordinário (artigo 1.042 do CPC/2015) interposto contra decisão que aplicou a sistemática da repercussão geral, passível de impugnação apenas por agravo interno (artigo 1.030, § 2º, do CPC/2015)" (STF, AgInt na Rcl 24.885/SP, Primeira Turma, Rel. Min.
+Luiz Fux).
+4. No caso dos autos, o ora agravante e impetrante do writ, por sentença prolatada na primeira instância, foi condenado a uma pena de 5 (cinco) anos de reclusão e ao pagamento de 50 (cinquenta) dias-multa, a qual foi confirmada pela segunda instância. Interposto recurso especial, a essa insurgência foi negado provimento, bem como foi negado seguimento ao recurso extraordinário, ingressando a parte com agravo, o qual não foi conhecido, com a determinação de trânsito em julgado, diante da evidente protelação.
+5. Ainda assim, a parte insiste, através desta ação mandamental, com o firme propósito de transformar o writ em uma modalidade recursal e prolongar a execução da pena, cuja confirmação já passa por três instâncias do Poder Judiciário, sendo que as duas primeiras soberanas quanto ao exame da prova dos autos. Neste momento, não se está afirmando se a eg. Corte de origem prolatou a melhor decisão ou se o aresto contempla a exaustiva apreciação da prova, mas, apenas e tão somente, que a jurisdição já foi exaurida por quem, constitucionalmente, tem atribuição para tal mister, sendo certo que ao STJ e ao STF descabe reexaminar a prova dos autos.
+6. Agravo interno a que se nega provimento.
+(AgInt no MS 23.911/DF, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 18/04/2018, DJe 24/04/2018)
+3. No caso concreto, a Presidência desta Casa não conheceu do agravo em recurso especial em virtude da ausência de impugnação a todos os fundamentos da decisão agravada, consoante se dessume do seguinte trecho:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ.
+Entretanto, a parte Agravante deixou de impugnar especificamente o referido fundamento.
+E, como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+O agravo interno sofreu do mesmo vício, qual seja, a não impugnação especificada:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU O FUNDAMENTO DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Compete ao recorrente, nas razões do agravo regimental, infirmar especificamente todos os fundamentos expostos na decisão agravada. Incidência do enunciado 182 da Súmula do Superior Tribunal de Justiça.
+2. Agravo regimental não conhecido.
+Como se vê, não há nenhuma ilegalidade ou teratologia nas decisões, mas tão somente a evidência de que os recursos foram manifestamente deficientes, ensejando, de forma escorreita, o seu não conhecimento.
+De fato, visa o impetrante a utilização do mandado de segurança como sucedâneo recursal, com vistas ao exame da questão de fundo do recurso especial, o que é inviável.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do CPC, no que tange à possível fixação de multa (arts. 1.021, § 4º e 1.026, § 2º).
+4. Ante o exposto, indefiro liminarmente a inicial do mandado de segurança, nos termos do art. 10 da Lei n. 12.016/2009 e, por conseguinte, o pedido de concessão de medida liminar.
+Publique-se. Intimem-se.
