@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo, interposto por DRRK ADMINISTRACAO LTDA, em 14/12/2016, contra decisão do Tribunal Regional Federal da 2ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO INTERNO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PARCELAMENTO DO DÉBITO. MP 303/06. INSCRIÇÃO EM DÍVIDA ATIVA EXTINTA. IMPOSSIBILIDADE DE PROSSEGUIMENTO DA AÇÃO. NECESSIDADE DE SUBSTITUIÇÃO DA CD A.
+1. No sistema da MP 303/06, o parcelamento importa na extinção da inscrição original, substituída por inscrições desmembradas, o que impõe a substituição da CDA em caso de eventual continuidade da cobrança, por rescisão do acordo.
+2. O sistema administrativo da Dívida Ativa rege a cobrança judicial, devendo haver perfeita correspondência entre os termos da inscrição vigente e o título executivo (artigo 2º, § § 5º e 6º da LEF).
+3. A execução Fiscal, todavia, não pode ser extinta sem prévia oportunidade de substituição da CDA em prazo razoável (artigo 2º, § 8º, da LEF). Precedentes do STJ.
+4. Agravo Interno parcialmente provido" (fl. 145e).
+Opostos Embargos Declaratórios, restaram rejeitados (fls. 197/207e).
+Nas razões do Recurso Especial, a parte ora agravante alega ofensa ao art. 2º, §§ 5º, 6º e 8º, da Lei 6.830/80, sustentando o seguinte:
+"21. Conforme brevemente exposto acima, o que se discute não é a extinção do débito e, sim, a inexistência de substituição de título executivo antes da prolação da sentença, uma vez que, diante da inclusão da ora Recorrente nos benefícios concedidos pela Medida Provisória nº 303/2006, a própria Fazenda Nacional tratou de alterar a certidão de dívida ativa originária, criando outras CDAs "derivadas" que, em verdade, substituem a original.
+22. Cabe fazer uma breve digressão sobre tal parcelamento.
+23. Diferentemente dos demais (tal como o parcelamento instituído pela Lei 11.941/2009) no caso do PAEX, por força da própria regulamentação da PGFN (citada na apelação às fls. 58/59), a certidão de dívida ativa era "desmembrada", para que fossem produzidas outras "derivadas", onde deveriam constar os valores consolidados, com as reduções previstas no programa.
+24. Ou seja, o título executivo que embasava a ação simplesmente some, dando lugar a outro, com valor diferente.
+25. A Recorrente sequer adentraria nesta discussão se o parcelamento discutido fosse o chamado REFIS IV ou REFIS da crise, onde as certidões de dívida ativa parceladas continuam intactas, o que leva somente à paralisação do executivo.
+26. Mas, no caso concreto, em se tratando o parcelamento instituído pela MP 303/2006 (PAEX), houve a efetiva substituição da CDA original, fato este não comunicado pela PFN ao MM. Juízo singular, muito embora este tenha intimado a então Exequente a se manifestar por duas oportunidades (fls. 41 e 46).
+27. Em verdade, a PFN, nas duas vezes, ficou com o processo em carga durante meses e respondeu pedindo a suspensão do feito, sem, contudo, fazer qualquer menção à substituição da CDA e nem apresentou a CDA substituta. Pelo contrário! Às fls. 48/52 a Fazenda Nacional junta aos autos petição apenas requerendo a suspensão do feito, mas trouxe aos autos documentos demonstrando que houve a alteração na certidão de dívida ativa original e não fez nenhuma menção ao fato de ter sido "desmembrada" a certidão de dívida ativa original, sendo criadas outras novas.
+28. Exatamente por isso, diante da incerteza do valor que estava sendo cobrado no feito, não restou ao magistrado singular outra alternativa senão a extinção do processo sem julgamento do mérito.
+(..)
+30. Ou seja, toda e qualquer execução tem origem de um título de obrigação certa, líquida e exigível, portanto, se não há o titulo executivo, não há execução, e mesmo tendo sido dada a oportunidade para a Recorrida apresentasse a nova CDA a mesma manteve-se inerte, violando, inclusive, a súmula 392 desse Superior Tribunal de Justiça:
+(..)
+31. Da leitura do que dispõe Lei nº 6.830/80 resta claro que, naquela circunstância, o magistrado deveria mesmo extinguir o feito sem julgamento do mérito.
+Confira-se:
+(..)
+32. Portanto, conforme pode ser verificado, a partir do momento em que a empresa opta por aderir ao parcelamento excepcional da Medida Provisório nº 303/2006 e a própria Exequente altera os elementos essenciais da CDA original sem comunicar ao Juízo, dessa forma, passa a haver dúvida quanto à natureza da obrigação executada, o que conduz à extinção do feito.
+33. Sendo assim, deveria a Fazenda proceder à nova inscrição em dívida ativa dos valores não quitados quando do parcelamento, na tentativa de conferir liquidez e certeza ao título executório, elementos esses essenciais para constituir a Execução Fiscal.
+(..)
+36. Noutras palavras, o TRF da Sª Região entende que caso a Fazenda Nacional pretendesse prosseguir a Execução deveria ter substituído a CDA até a prolação da sentença pelo juízo de 1º grau, conforme dispõe o art. 2º §8º da LEF, Todavia, mesmo tendo sido oportunizada a apresentação das novas CDA"s a Recorrida não o fez, motivo pelo qual não deve prosperar o entendimento de que ela poderá fazê-lo agora.
+37. A União, inclusive, trouxe como fundamento nas suas alegações recursais que a criação da inscrição derivada configuraria mera "funcionalidade operacional" e não uma nova inscrição.
+38. Todavia, não as apresentou e argumentou em seus Recursos que havia a impossibilidade de o Sistema conseguir gerar as Novas CDA"s.
+39. Ora, como foi possível então em sede de Embargos de Declaração em Agravo Interno na Apelação o "Sistema" gerar as referidas CDA"s substitutas (fls.148/162)
+40. O que se pode exprimir, é que a Recorrida foi intimada, em duas oportunidades para se manifestar acerca da substituição da CDA originária, e juntar as CDA"s substitutas e não o fez.
+41. Permitir que a substituição aconteça depois da prolação da sentença iria contra o art. 2º, §8º da LEF. Dando prazo muito maior ao que o legislador deu para a Recorrida manifestar sua pretensão de continuidade na Ação Executiva.
+42. Note-se que as explicações e a celeuma subsequente só surgiram no processo após a sentença de extinção do feito. Portanto, é evidente que, até então, o magistrado singular não havia sido informado de absolutamente nada disso que se discute agora e só tinha uma constatação, após a apresentação dos documentos acostados pela PFN às fls.
+49/52: houve alteração na certidão de dívida ativa, que não foi comunicada e nem juntada ao MM. Juízo ou à Executada.
+43. Isto posto, resta evidente que as regras evidenciadas nos art. 2º, §§ 5º, 6º e 8º foram violados, não havendo que se falar no afastamento de sua aplicação" (fls. 219/225e).
+Requer, ao final, "seja conhecido e provido integralmente o presente Recurso Especial para, reformando-se o Acórdão recorrido, determinar extinção do feito, haja vista que após intimada a Recorrida não procedeu a substituição da CDA originária, motivo pelo qual a Ação executiva perdeu seu objeto e corretamente foi julgada extinção sem resolução do mérito" (fls. 225/226e).
+Apresentadas as contrarrazões (fls. 231/236e), foi negado seguimento ao Recurso Especial (fls. 243/244e), o que ensejou a interposição do presente Agravo (fls. 249/259e). Foi apresentada contraminuta (fls. 262/265e).
+A irresignação não ultrapassa a admissibilidade.
+Com efeito, o Tribunal de origem, ao decidir a controvérsia, asseverou que "deve ser oferecida oportunidade à exequente para a substituição do título, a fim de sanar as deficiências verificadas, de modo que possa o feito judicial refletir a realidade existente no sistema administrativo da Dívida Ativa" (fl. 243e).
+Cabe salientar que, no acórdão integrativo, a Corte regional esclareceu que:
+"A executada divisa, em síntese, a manutenção da sentença apelada, visto que a exequente foi intimada, no seu sentir, diversas vezes para retificar certidão de dívida ativa, não o fazendo, razão pela qual não cabe mais a substituição. Porém, e conquanto assim divise, não foi dado prazo à exequente para a substituição da certidão de dívida ativa.
+Houve, na realidade, a concessão de prazo para a exequente se manifestar sobre a inclusão da executada em programa de parcelamento instituído pela Medida Provisória nº 303/06, fato distinto de se deferir a substituição da certidão de dívida ativa. Assim, e pelo contido nos autos, forçosa a rejeição dos embargos de declaração da executada" (fls. 202/203e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente, no sentido de que "a Recorrida foi intimada, em duas oportunidades para se manifestar acerca da substituição da CDA originária, e juntar as CDA"s substitutas e não o fez" (fl. 225e), somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
