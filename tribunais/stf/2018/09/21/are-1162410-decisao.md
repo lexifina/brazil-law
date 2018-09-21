@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. PREPARO. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO: DESERÇÃO. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Terceira Região:
+    “PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO LEGAL. ART. 557, § 1º, CPC. ERRO MATERIAL. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. DECISÃO EM CONSONÂNCIA COM JURISPRUDÊNCIA CONSOLIDADA DO C. STJ E DESTA E. CORTE. AGRAVO DESPROVIDO” (fl. 75, vol. 6).
+    2. No recurso extraordinário os agravantes afirmam ter o Tribunal de origem contrariado o inc. XXXVI do art. 5º da Constituição da República.
+    3. O recurso extraordinário foi inadmitido ao fundamento de deserção do recurso extraordinário (fls. 18-19, vol. 5).
+    Os agravantes alegam que “na petição de interposição recursal não se pediu o deferimento de justiça gratuita irrestrita e genérica no curso do processo, a fim de almejar efeitos retroativos, mas singela e exclusiva gratuidade ou isenção das custas e despesas recursais, diante da impossibilidade, no ato da interposição, de arcar com tal ônus, não havendo oportunidade outra para dedução do pedido em favor dos hipossuficientes” (fl. 50, vol. 7).
+    Requerem o provimento do recurso.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão de direito não assiste aos agravantes.
+    5. Assentou-se na jurisprudência deste Supremo Tribunal dever ser realizada a comprovação do preparo no momento da interposição do recurso extraordinário, nos termos da exigência prevista no art. 59 do Regimento Interno do Supremo Tribunal Federal e no caput do art. 511 da Lei n. 5.869/1973.
+    A concessão do benefício da justiça gratuita não gera efeitos retroativos. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE COMPROVAÇÃO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. DESERÇÃO. PEDIDO DO BENEFÍCIO DE JUSTIÇA GRATUITA. NÃO DEFERIMENTO. EFEITOS FUTUROS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Esta Corte possui entendimento firmado no sentido de que a comprovação do pagamento do preparo deve ocorrer no momento da interposição do recurso, sob pena de deserção. Precedentes. II - O deferimento do benefício da gratuidade da justiça só produz efeitos futuros. Assim, julgado deserto o recurso, de nada adiantaria a concessão posterior do benefício. Precedentes. III – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC” (ARE n. 1.011.823-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 15.5.2017).
+    “Agravo regimental no recurso extraordinário. Direito Processual Civil. Preparo. Comprovação no ato de interposição do recurso extraordinário. Ausência. Deserção. Pedido de gratuidade judiciária. Impossibilidade de retroação de seus efeitos. Reclamação dirigida ao Superior Tribunal de Justiça. Cabimento. Pressupostos. Verificação. Impossibilidade. Precedentes. 1.O preparo do recurso extraordinário deve ocorrer concomitantemente a sua interposição. Sua não efetivação, conforme os ditames legais, enseja a deserção do recurso. 2. Uma vez efetuado o pedido de gratuidade judiciária somente na petição de recurso extraordinário, sua posterior concessão não tem o condão de retroagir de forma a afastar a deserção anteriormente configurada. 3. O entendimento da Corte é de que a verificação dos pressupostos autorizadores da reclamação dirigida ao Superior Tribunal de Justiça é matéria de índole eminentemente processual, para cujo exame não se presta o recurso extraordinário. 4. Agravo regimental não provido” (RE n. 747.917-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 21.8.2018).
+    A decisão recorrida harmoniza-se com a jurisprudência deste Supremo Tribunal, nada havendo a prover quanto às alegações dos agravantes.
+    6. Pelo exposto, nego provimento ao agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
