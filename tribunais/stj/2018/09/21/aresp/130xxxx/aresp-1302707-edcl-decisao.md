@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de NOVOS embargos de declaração opostos por CRISTINA PEREIRA KEHL à decisão de fls. 430/432, que não conheceu do recurso.
+Sustenta a parte embargante que "que na forma do fundamento adotado pela decisão em anexo, impõe seja reconsiderada a decisão quanto ao não conhecimento do Recurso Especial ofertado. Inobstante os fundamentos da decisão ora embargada, não está pacificado o entendimento no âmbito do STJ, quanto ao não conhecimento do Recurso Especial em casos tais, e a maior prova disso é a recente decisão em anexo, que justamente reconsiderou anterior decisão quanto ao não conhecimento do Recurso Especial. Em nome do princípio da segurança jurídica, é impositiva a interposição do presente recurso aclaratório, quanto mais não seja porque a decisão em anexo passou a ser de conhecimento da Embargante apenas após a interposição dos Embargos de Declaração já rejeitados." (fl. 437).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O ora Embargante, mais uma vez, repisa todos os argumentos antes utilizados, insistindo na mesma tese e se utilizando, basicamente, das mesmas palavras, frases e conclusões apresentadas nos aclaratórios anteriores.
+Cabe ressaltar que a decisão citada referente ao agravo regimental no agravo em recurso especial nº 671091/ES, teve o marco temporal de aplicação do Código de Processo Civil de 1973, o que não é o caso.
+Nos termos do Enunciado Administrativo n.º 3 do STJ, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Diante do exposto, rejeito os embargos de declaração e, outra conclusão não se faz possível senão a de que a reiteração de embargos de declaração opostos com o intuito de modificar o julgado revela caráter manifestamente protelatório, razão pela qual aplico a multa de 2% sobre o valor da causa, nos termos do artigo 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
