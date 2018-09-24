@@ -1,0 +1,49 @@
+EMENTA
+RECURSO ESPECIAL. ROUBO SIMPLES. VIOLAÇÃO DO ART. 33, § 2º, B, E § 3º, DO CP. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL. PRIMARIEDADE. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA-BASE ESTIPULADA NO MÍNIMO LEGAL. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO GENÉRICA. GRAVIDADE ABSTRATA DO DELITO. ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. SÚMULAS 718 E 719/STF. SÚMULA 440/STJ. PENA DEFINITIVA ESTIPULADA EM 4 ANOS E 8 MESES DE RECLUSÃO. APLICAÇÃO DO ART. 33, § 2º, B, DO CP. REGIME SEMIABERTO QUE SE IMPÕE.
+Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] (fls. 181/192) com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo na Apelação Criminal n. 0016713-41.2016.8.26.0050.
+Consta dos autos que o Juízo de primeiro grau condenou o recorrente, com fundamento no art. 157, caput, duas vezes, na forma do art. 71, ambos do Código Penal, às reprimendas de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, mais pagamento de 36 dias-multa (fls. 101/109).
+Inconformadas com os termos do édito condenatório singular, tanto a acusação (fls. 112/116), como a defesa (fls. 121/125), interpuseram recursos de apelação.
+O Tribunal a quo deu parcial provimento a ambos os apelos, reduzindo a pena pecuniária a 11 dias-multa e fixando o regime inicial fechado para a pena privativa de liberdade (fls. 157/162).
+Apelação. Réu que, denunciado pela prática de dois roubos simples em concurso material, foi condenado como incurso no artigo 157, "caput", c.c. o artigo 71 (crime continuado), ambos do Código Penal. Recurso do Ministério Público e da defesa. 1. Quadro probatório a evidenciar a responsabilidade penal do réu pelos crimes de roubo. 2. As circunstâncias em que ocorreram os crimes de roubo autorizam o reconhecimento do crime continuado (artigo 71 do Código Penal). 3. Sanção que comporta alteração. 4. Pena de multa reduzida. No caso de crime continuado, não se aplica a regra prevista no artigo 72, do Código Penal. 5. Fixação do regime inicial fechado para a pena privativa de liberdade. Apelos parcialmente providos.
+No recurso especial é alegada a violação do art. 33, § 2º, b, e § 3º, do Código Penal, sob a tese de que a imposição do regime inicial fechado é ilegal, afrontando, ainda, os princípios da proporcionalidade e da individualização da pena.
+Sustenta que as instâncias ordinárias fixaram a pena-base no mínimo legal, ante a condição favorável das circunstâncias judiciais, notadamente a sua primariedade.
+Pede o recorrente o conhecimento e provimento do recurso para que seja abrandado o regime inicial de cumprimento de pena ao semiaberto.
+Oferecidas contrarrazões (fls. 196/207), o recurso especial foi admitido na origem (fl. 211).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 226/227).
+RECURSO ESPECIAL. ROUBO. FIXAÇÃO DO REGIME INICIAL FECHADO PARA O CUMPRIMENTO DA PENA. PENA PRIVATIVA DE LIBERDADE SUPERIOR A QUATRO ANOS, CONDENADO PRIMÁRIO E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE RECOMENDAM A IMPOSIÇÃO DO REGIME MAIS GRAVOSO. Pelo não provimento do apelo.
+É o relatório.
+No que se refere ao pleito de abrandamento do regime inicial, assim dispuseram o magistrado singular e a Corte a quo (fls. 108 e 160/161):
+ ..  III- Das penas. [NOME] não registra condenação, e as demais circunstâncias judiciais são favoráveis, de modo que a pena-base é fixada no mínimo: 4 anos e 10 dias-multa.  ..  A quantidade da pena e a primariedade correspondem ao regime semiaberto.  ..
+A pena-base, para um dos delitos, foi fixada no mínimo legal de 4 anos de reclusão, mais o pagamento de 10 dias-multa.
+Os crimes foram praticados contra dois adolescentes (13 e 15 anos - fls. 8/9), circunstância concreta a indicar um acentuado grau de culpabilidade da conduta, a impor o regime inicial fechado, sem o que não haveria suficiente reprovação e prevenção do delito.
+ ..
+Pela leitura dos citados fundamentos, verifica-se que foram utilizados fundamentos abstratos e genéricos na fixação do regime de cumprimento de pena mais grave, com suporte em elementos inerente ao tipo penal do roubo.
+Destaca-se, ainda, que todas as circunstâncias judiciais foram consideradas favoráveis ao recorrente, sendo fixadas as penas-base do crime de roubo no mínimo legal (4 anos de reclusão e 10 dias-multa).
+Sendo assim, não há fundamento para dar lastro à imposição de regime prisional mais severo do que permitido pelo quantum da pena, ex vi da Súmula 440/STJ.
+Nesse sentido:
+HABEAS CORPUS. ART. 157, § 2º, INCISOS I E II, DO CÓDIGO PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. VIA INADEQUADA. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME PRISIONAL. GRAVIDADE GENÉRICA DO CRIME. MOTIVAÇÃO INIDÔNEA. SÚMULAS 718 E 719 DO STF. SÚMULA 440 DO STJ. NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Para a exasperação do regime fixado em lei é necessária motivação idônea. Súmulas n.º 718 e n.º 719 do Supremo Tribunal Federal e Súmula n.º 440 deste Superior Tribunal de Justiça.
+3. Hipótese em que o Juiz de primeiro grau considerou, para fins de regime prisional, favoráveis as circunstâncias judiciais, fixando o intermediário. Contudo, o Tribunal de origem estabeleceu o regime fechado sem apresentar motivação idônea. Assentou a gravidade genérica do delito, bem como o entendimento, reiteradamente rechaçado por esta Corte, de que em casos de crime de roubo deve sempre ser imposto o regime fechado.
+4. Habeas corpus não conhecido. Ordem concedida de ofício a fim de garantir o início do cumprimento da pena em regime semiaberto.
+(HC n. 331.754/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/11/2015 - grifo nosso).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO PELO USO DE ARMA DE FOGO, CONCURSO DE PESSOAS. E RESTRIÇÃO À LIBERDADE DA VÍTIMA. REGIME INICIAL FECHADO. CONDENAÇÃO NÃO SUPERIOR A 8 ANOS DE RECLUSÃO. RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO LEGAL. GRAVIDADE ABSTRATA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. CONCEDIDO O MODO SEMIABERTO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem não logrou êxito em demonstrar a necessidade de manutenção do regime inicial fechado. Dessa forma, ao réu primário, condenado à pena reclusiva não superior a 8 anos, cuja pena-base foi estabelecida no mínimo legal, faz jus o paciente ao regime semiaberto, em coerência com a orientação firmada nas Súmulas 440/STJ e 718 e 719/STF e, conforme dispõe o art. 33, § 2º, alínea "b" e § 3º, do Código Penal.
+2. Agravo regimental improvido.
+(AgRg no HC n. 413.416/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 24/11/2017 - grifo nosso).
+Dessa forma, fixadas as penas-base no mínimo legal (4 anos - art. 157 do Código Penal) e não ostentando o recorrente antecedentes criminais, é descabida a fixação de regime mais gravoso sem a existência de fundamentação idônea, nos termos das referidas súmulas.
+No caso, verifica-se patente a ilegitimidade na fixação do regime inicial fechado.
+Por conseguinte, levando-se em consideração as penas definitivas cominadas ao recorrente (4 anos e 8 meses de reclusão, mais pagamento de 10 dias-multa), é possibilitada a imposição do regime semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+A corroborar:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO MAJORADO. REGIME FECHADO FIXADO COM BASE NA MAJORANTE DO EMPREGO DE ARMA DE FOGO E NA GRAVIDADE ABSTRATA DO DELITO. DESCABIMENTO. CONSTRANGIMENTO ILEGAL. REGIME SEMIABERTO. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A jurisprudência do excelso Supremo Tribunal Federal, em relação ao regime de cumprimento da prisão, é uniforme no sentido de que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" (Súmula 718/STF), e que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea" (Súmula 719/STF).
+III - "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (Súmula n. 440/STJ).
+IV - Na hipótese, verifica-se que o regime inicial fechado foi determinado tão somente com base na majorante do emprego de arma de fogo e na gravidade abstrata do delito, não tendo sido apresentado fundamento concreto para imposição de regime mais gravoso do que o cabível em razão do quantum de pena aplicado.
+V - Desse modo, sendo os réus primários, fixadas as penas-base no mínimo legal e considerada como favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, o regime inicial semiaberto mostra-se mais adequado para o resgate da reprimenda, nos termos do art. 33, § 2º, alínea b, do Código Penal.
+Habeas corpus não conhecido. Ordem concedida de ofício para estabelecer o regime semiaberto para o início de cumprimento da pena dos pacientes, mantidos os demais termos da condenação.
+(HC n. 442.914/RJ, Ministro Felix Fischer, Quinta Turma, DJe 8/5/2018 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para abrandar o regime inicial ao semiaberto.
+Publique-se.
