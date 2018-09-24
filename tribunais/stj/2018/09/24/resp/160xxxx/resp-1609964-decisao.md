@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. ENERGIA ELÉTRICA. LEGITIMIDADE DO CONSUMIDOR DE FATO (CONTRIBUINTE FINAL) PARA O AJUIZAMENTO DE AÇÃO, A FIM DE AFASTAR A INCIDÊNCIA DO ICMS SOBRE A DEMANDA CONTRATADA E NÃO UTILIZADA. REPRESENTATIVO DA CONTROVÉRSIA. ENTENDIMENTO FIRMADO NO RESP. 1.299.303/SC, REL. MIN. CESAR ASFOR ROCHA, DJE 14.8.2012, SOB O RITO DO ART. 543-C DO CPC. NOVA ORIENTAÇÃO DA PRIMEIRA SEÇÃO. RECURSO ESPECIAL DO CONTRIBUINTE A QUE SE DÁ PROVIMENTO, EM CONFORMIDADE COM O PARECER MINISTERIAL.
+1. Trata-se de Recurso Especial interposto por HOTELARIA ACCOR BRASIL S/A., com fulcro no art. 105, III, alíneas a e c da Constituição Federal, em face de acórdão proferido pelo egrégio Tribunal de Justiça do Estado da Bahia, assim ementado:
+APELAÇÕES SIMULTÂNEAS. MANDADO DE SEGURANÇA. ICMS. ENERGIA ELÉTRICA. DEMANDA CONTRATADA. IMPOSTO INDIRETO. RESTITUIÇÃO DE INDÉBITO. 1a APELAÇÃO. HOTELARIA ACORD. RECURSO PREJUDICADO.
+Está prejudicado o presente recurso diante do acolhimento da preliminar lançada na 2a apelação.
+2a APELAÇÃO. ESTADO DA BAHIA.
+PRELIMINAR. ILEGITIMIDADE ATIVA. ACOLHIMENTO.
+O Estado recorrente afirma que a recorrida não é contribuinte do ICMS, não tendo legitimidade para ingressar com o mandamus nem efetivar compensações futuras. De fato, consoante entendimento do Egrégio STJ, apenas o contribuinte de direito possui legitimidade ativa ad causam para figurar no polo ativo das demandas judiciais que envolvam a incidência do ICMS sobre a demanda contratada de energia elétrica. Nas operações internas com energia elétrica, o contribuinte é aquele que a fornece ou promove sua circulação. Dessa forma, não é possível enquadrar o consumidor final na descrição legal de contribuinte de direito, ainda que se discuta a posição da concessionária de serviço público. PRELIMINAR ACOLHIDA.
+No mérito, resta prejudicado o recurso.
+1a APELAÇÃO PREJUDICADA. 2a APELAÇÃO, ACOLHIDA A PRELIMINAR DE ILEGITIMIDADE ATIVA (fls. 788/789).
+2. Os Embargos de Declaração opostos (fls. 801/806), foram rejeitados (fls. 809/812).
+3. Em seu Recurso Especial, a parte recorrente sustenta, além de divergência entre julgados, violação dos arts. 3o. do CPC/1973 e 166 do CTN, discorrendo sobre a legitimidade ativa do contribuinte consumidor para postular a repetição de indébito, por meio de compensação tributária, do ICMS sobre a reserva de potência de energia elétrica.
+4. Apresentadas contrarrazões (fls. 881/889), sobreveio juízo positivo de admissibilidade (fls. 974/975).
+5. O Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República [NOME], opinou pelo conhecimento e provimento do recurso (fls. 991/994).
+6. É o breve relatório.
+7. Cinge-se a controvérsia sobre a não incidência do ICMS sobre o valor cobrado do contribuinte a título de demanda reservada de potência. A Primeira Seção desta Corte, no julgamento do REsp. 1.299.303/SC, representativo de controvérsia, realizado em 8.8.2012, da relatoria do ilustre Ministro CESAR ASFOR ROCHA, firmou entendimento que o consumidor final tem legitimidade para o ajuizamento de ação, a fim de afastar a incidência do ICMS sobre a demanda contratada e não utilizada no tocante ao fornecimento de energia elétrica, nos termos da seguinte ementa:
+RECURSO ESPECIAL. REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C CÓDIGO DE PROCESSO CIVIL. CONCESSÃO DE SERVIÇO PÚBLICO. ENERGIA ELÉTRICA. INCIDÊNCIA DO ICMS SOBRE A DEMANDA CONTRATADA E NÃO UTILIZADA. LEGITIMIDADE DO CONSUMIDOR PARA PROPOR AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO.
+- Diante do que dispõe a legislação que disciplina as concessões de serviço público e da peculiar relação envolvendo o Estado-concedente, a concessionária e o consumidor, esse último tem legitimidade para propor ação declaratória c/c repetição de indébito na qual se busca afastar, no tocante ao fornecimento de energia elétrica, a incidência do ICMS sobre a demanda contratada e não utilizada.
+- O acórdão proferido no REsp. 903.394/AL (repetitivo), da Primeira Seção, Ministro Luiz Fux, DJe de 26.4.2010, dizendo respeito a distribuidores de bebidas, não se aplica ao casos de fornecimento de energia elétrica.
+Recurso especial improvido. Acórdão proferido sob o rito do art. 543-C do Código de Processo Civil.
+8. Ante o exposto, dá-se provimento ao Recurso Especial interposto por HOTELARIA ACCOR BRASIL S/A., a fim de reconhecer a legitimidade ativa do consumidor para impetração do Mandado de Segurança, nos termos do parecer ministerial. Retorne os autos ao Tribunal de origem com o fim de dar continuidade ao julgamento, decidindo como entender de direito.
+9. Publique-se.
+10. Intimações necessárias.
