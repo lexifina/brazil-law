@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 14ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Apelação. Mandado de segurança. Imposto sobre transmissão inter vivos de bens imóveis. Fato gerador. Registro imobiliário da transmissão de propriedade ou de direitos reais sobre o imóvel. Precedente do Superior Tribunal de Justiça. Sentença mantida. Recurso denegado.” (eDOC 2, p. 48)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LXIX; e 156, II, do texto constitucional.
+    Nas razões recursais, alega-se, preliminarmente, a insubsistência do manejo do mandamus, uma vez que ausente lastro de ilegalidade no caso, bem como a caducidade do direito da recorrida à segurança, porquanto transcorrido o prazo decadencial previsto na legislação de regência.
+    No mérito, sustenta-se ocorrer com a realização do negócio jurídico o fato gerador do Imposto sobre a Transmissão de Bens Imóveis (ITBI).
+    Decido.
+    O recurso não merece prosperar.
+    No tocante à primeira tese preliminar, registro que o recorrente não logrou demonstrar a impertinência do mandado de segurança na exata hipótese dos autos, limitando-se a afirmar o seu descabimento nos casos em que necessária dilação probatória. Incide, portanto, o óbice da Súmula 284 do STF.
+    Quanto à segunda tese preliminar, que diz sobre a ocorrência da decadência, observo que, segundo consta da sentença (eDOC 1, p. 209-213), ratificada nessa parte pelo acórdão recorrido (eDOC 2, p. 48-51), não haveriam decorridos 120 dias do ato impugnado quando da impetração do mandado de segurança. Desse modo, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do STF.
+    No que toca ao tema de mérito, concernente ao momento da ocorrência do fato gerador do ITBI, verifico que o Tribunal a quo assim se manifestou sobre a questão:
+    “O imposto sobre transmissão inter vivos de bens imóveis incide sobre a transmissão, a qualquer título, por ato oneroso, da propriedade imóvel por natureza ou por acessão física, bem como sobre direitos reais, exceto os de garantia, e sobre a sua aquisição (artigo 156, II, da Magna Carta).
+    O fato gerador do imposto é o registro imobiliário da transmissão da propriedade, não a lavratura da respectiva escritura. Só com o registro é possível a exação.” (eDOC 2, p. 49-50)
+    Tal entendimento encontra-se em convergência com a jurisprudência do Supremo Tribunal Federal, que se firmou no sentido de se operar o fato gerador do mencionado tributo com a efetiva transferência da propriedade do bem imóvel, ocorrida com o registro da escritura de compra e venda no cartório competente.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS. FATO GERADOR. PROMESSA DE COMPRA E VENDA. IMPOSSIBILIDADE. 1. A cobrança de ITBI é devida no momento do registro da compra e venda na matrícula do imóvel. 2. A jurisprudência do STF considera ilegítima a exigência do ITBI em momento anterior ao registro do título de transferência da propriedade do bem, de modo que exação baseada em promessa de compra e venda revela-se indevida. 3. Agravo regimental provido.” (ARE 759964 AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 29.9.2015)
+    “Agravo regimental no agravo de instrumento. Imposto de transmissão intervivos de bens imóveis. ITBI. Momento da ocorrência do fato gerador. Compromisso de compra e venda. Registro do imóvel. 1. Está assente na Corte o entendimento de que o fato gerador do ITBI somente ocorre com a transferência efetiva da propriedade imobiliária, ou seja, mediante o registro no cartório competente. Precedentes. 2. Agravo regimental não provido.” (AI 764432 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 25.11.2013)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, § 1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 24 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
