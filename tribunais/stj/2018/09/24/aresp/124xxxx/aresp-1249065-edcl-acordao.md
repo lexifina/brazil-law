@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO. OCORRÊNCIA. ACOLHIMENTO. POSSIBILIDADE. CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. CABIMENTO. ART. 99, §§ 1º E 3º DO NCPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Ocorrendo uma das hipóteses do art. 1.022 do NCPC, merecem acolhimento os embargos de declaração.
+3. A jurisprudência desta Corte Superior admite a concessão da assistência judiciária gratuita mediante a simples declaração, pelo requerente, de que não pode custear a demanda sem prejuízo da sua própria manutenção e da sua família.
+4. Nos termos do art. 99, § 3º, do NCPC, o pedido de gratuidade de justiça pode ser formulado na própria petição inicial, na contestação, na petição de ingresso de terceiro no processo ou em recurso
+5. Embargos de declaração acolhidos.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO MOURA RIBEIRO (Relator):
+MARIA ALICE COSTACURTA BALBAR (MARIA ALICE) promoveu ação de indenização por danos materiais e morais contra o BANCO DO BRASIL S.A. (BB), em virtude da aplicação de recurso financeiro sem autorização das suas procuradoras que acarretou a retenção do dinheiro por 60 (sessenta) dias.
+Em primeira instância, o pedido foi julgado procedente para condenar o BB a pagar a MARIA ALICE, a título de danos materiais, os juros, correção monetária e rentabilidade pelo período em que o seu dinheiro ficou indevidamente retido na aplicação mencionada na petição inicial, a ser apurado em liquidação de sentença, bem como os honorários contratuais de seu patrono, no importe de três salários mínimos vigentes na contratação e 30% do valor recebido a título de indenização material e moral e, a título de danos morais, a quantia de R$ 5.000,00 (cinco mil reais), corrigida monetariamente pela Tabela Prática do E.TJSP desde a data da sentença e acrescida de juros moratórias de 1% ao mês, a partir da citação, tudo até devido pagamento (e-STJ, fls. 165/168).
+A apelação interposta pelo BB foi provida pelo Tribunal de origem, nos termos do acórdão assim ementado:
+Apelação. Demanda de indenização de danos morais e materiais. Sentença de procedência. Decisão modificada. Alegação de vício de vontade. Ônus da prova que cabia à autora. Ausência de demonstração do alegado vício. Falha em prestação de serviço não demonstrada. Dano extrapatrimonial não configurado. Honorários advocatícios contratuais. Descabimento de percepção dessa verba. Recurso provido (e-STJ, fl. 208).
+Inconformada, MARIA ALICE interpôs recurso especial com base no art. 105, III, a e c, da CF, alegando violação dos arts. 344 do NCPC; 14 do CDC; 927, parágrafo único, do CC/02; Resolução nº 2878 do BACEN e divergência jurisprudencial, ao sustentar que (1) ocorreu defeito na prestação do serviço; (2) houve confissão ficta do BB; e, (3) é objetiva a responsabilidade do BB em razão da atividade desenvolvida.
+O apelo nobre não foi admitido em virtude da (1) resolução não englobar o conceito de lei federal a autorizar o recurso especial; (2) não demonstração da infringência aos preceitos arrolados no recurso especial; (3) incidência da Súmula nº 7 do STJ; e, (4) não configuração do dissídio jurisprudencial.
+Seguiu-se o agravo em recurso especial interposto por MARIA ALICE que, por decisão monocrática da relatoria da Ministra Presidente do STJ, não foi conhecido em virtude do reconhecimento de sua intempestividade.
+O agravo interno interposto por MARIA ALICE não foi provido pela Terceira Turma desta Corte, nos seguintes termos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo em recuso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. Agravo interno não provido (e-STJ, fls. 331/332 - com destaque no original).
+Nas razões dos presentes embargos de declaração, MARIA ALICE alegou omissão, pois não houve a análise do pedido de justiça gratuita.
+Não houve impugnação ao recurso (e-STJ, fl. 347).
+Intimada, MARIA ALICE insistiu no julgamento do seu recurso (e-STJ, fls. 353/354).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO. OCORRÊNCIA. ACOLHIMENTO. POSSIBILIDADE. CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. CABIMENTO. ART. 99, §§ 1º E 3º DO NCPC. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Ocorrendo uma das hipóteses do art. 1.022 do NCPC, merecem acolhimento os embargos de declaração.
+3. A jurisprudência desta Corte Superior admite a concessão da assistência judiciária gratuita mediante a simples declaração, pelo requerente, de que não pode custear a demanda sem prejuízo da sua própria manutenção e da sua família.
+4. Nos termos do art. 99, § 3º, do NCPC, o pedido de gratuidade de justiça pode ser formulado na própria petição inicial, na contestação, na petição de ingresso de terceiro no processo ou em recurso
+5. Embargos de declaração acolhidos.
+VOTO
+O EXMO. SR. MINISTRO MOURA RIBEIRO (Relator):
+Os aclaratórios merecem acolhimento. Agravo interno não provido.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Como já constou do relatório, MARIA ALICE promoveu ação de indenização por danos materiais e morais contra o BB, em virtude da aplicação de recurso financeiro sem autorização das procuradoras da parte, o que acarretou a retenção do dinheiro por 60 (sessenta) dias.
+A sentença de procedência foi reformada pelo Tribunal de origem.
+Não admitido seu apelo nobre, MARIA ALICE manejou agravo em recurso especial que, por não ter sido conhecido, ensejou a interposição de agravo interno que não foi provido pela Terceira Turma desta Corte.
+É contra esse acórdão o inconformismo agora manejado, que merece acolhimento, com efeitos infringentes.
+De fato, o acórdão recorrido se mostra omisso na medida em que o pedido de concessão dos benefícios da assistência judiciária gratuita realizado nas razões do agravo interno não foi analisado quando de seu julgamento.
+Nesse contexto, passa-se ao exame do tema omisso.
+A jurisprudência desta Corte Superior admite a concessão da assistência judiciária gratuita mediante a simples declaração pelo requerente, de que não pode custear a demanda sem prejuízo da sua própria manutenção e da sua família.
+Assim, o benefício só não é concedido caso os elementos dos autos afastem a presunção (relativa) de ausência de recursos financeiros.
+De outra parte, nos termos do art. 99, §§ 1º e 3º, do NCPC, o pedido de gratuidade de justiça pode ser formulado na própria petição inicial, na contestação, na petição de ingresso de terceiro no processo ou em recurso, pois é perfeitamente possível que a parte inicialmente disponha de condições econômicas para arcar com as despesas do processo e, posteriormente, sofra uma piora de sua saúde financeira.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. DENUNCIAÇÃO CALUNIOSA. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. DANOS MORAIS. QUANTUM INDENIZATÓRIO. MONTANTE ESTIPULADO EM VALOR EXCESSIVO. REDUÇÃO. POSSIBILIDADE. CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte tem se posicionado no sentido de que a declaração prestada, na forma da lei, firma em favor do requerente a presunção iuris tantum de necessidade, que somente será elidida diante da prova em contrário, podendo também o magistrado, avaliando as alegações feitas pela parte interessada, examinar as condições para o seu deferimento.
+2. Quanto ao valor indenizatório pelos danos morais sofridos, o entendimento pacificado no Superior Tribunal de Justiça é de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que se evidencia no presente caso.
+3. Ao se reduzir o quantum indenizatório, a título de danos morais por denunciação caluniosa, de R$ 100.000,00 (cem mil reais) para R$ 40.000,00 (quarenta mil reais), amparou-se na análise das circunstâncias de fato da causa para concluir que o valor fixado pelas instâncias ordinárias não havia sido arbitrado de maneira condizente com os princípios da proporcionalidade e razoabilidade.
+4. Agravo interno não provido.
+(AgInt no AREsp 618.698/SC, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 2/2/2017, DJe 10/2/2017 - sem destaque no original).
+In casu, diante do acima exposto e levando em consideração as alegações de MARIA ALICE no sentido de que possui 83 (oitenta e três) anos, já sofreu dois AVCs, sendo um hemorrágico, que lhe retirou sua mobilidade, faz uso de fraldas geriátricas, possui Home Care para cuidados 24 horas e é aposentada, o fato de que o BB não trouxe nenhum documento apto a afastar tais alegações e, tendo em vista a possibilidade de concessão da assistência judiciária gratuita pela simples apresentação da declaração de hipossuficiência firmada, já que tal alegação se presume verdadeira, há que ser deferida a concessão dos benefícios ora pleiteados.
+Nessas condições, pelo meu voto, ACOLHO os embargos de declaração e CONCEDO os benefícios da assistência judiciária gratuita à MARIA ALICE.
+Advirto que eventual recurso interposto contra este acórdão estará sujeito ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º, e 1.026, § 2º, todos do NCPC).
