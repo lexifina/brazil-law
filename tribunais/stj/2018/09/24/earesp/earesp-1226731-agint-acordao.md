@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR. ALIENAÇÃO DE BENS PÚBLICOS. LICITAÇÃO. LEGALIDADE, MORALIDADE E AUSÊNCIA DE LESÃO AFIRMADAS PELA ORIGEM. SÚMULA 7/STJ. ARTS. 3º E 109 DA LEI 8.666/1993. AUSÊNCIA DE CONTRARIEDADE. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. NÃO OCORRÊNCIA. SÚMULA 182 DO STJ.
+1. O acórdão afirmou inexistir lesão ao erário pelo preço obtido na venda do imóvel municipal devidamente autorizada por lei após procedimento administrativo válido, legal e moral.
+2. O autor popular, ora recorrente, não infirmou de forma específica os fundamentos da decisão agravada quanto à inexistência de violação da legislação federal apontada, incidência da Súmula 7/STJ e falta de demonstração da divergência jurisprudencial.
+3. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese dos autos, não foi atendido.
+4. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por [NOME] contra decisão que não conheceu de seu agravo em recurso especial, ao fundamento de não enfrentamento dos fundamentos de inadmissibilidade do agravo relativos à ausência de contrariedade às normas federais apontadas, não demonstração da divergência e incidência da Súmula 7/STJ (e-STJ, fls. 2.248-2.249).
+A parte agravante aduz, em suma: i) toda alienação de bem municipal configura "inegável lesão patrimonial, ainda que devidamente precedida de autorização legislativa, haja visto que depois da mesma resultará menor o patrimônio municipal"; ii) não basta autorização da lei para afastar-se a ocorrência lesão ao erário; iii) a apreciação da lesividade da alienação apresenta-se como matéria de fato e não de direito (sic); iv) existência de dano ao erário, pela apropriação ilícita pelos licitantes, em processo frustrado por ilicitude e falta de competitividade no procedimento; v) ser irrisório o valor da alienação do imóvel".
+Requer, assim, a submissão do feito ao colegiado.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O agravo não prospera.
+Ao contrário do que aponta o agravante, o acórdão recorrido não afirmou a inexistência de dano ao erário apenas diante da existência de lei autorizadora da alienação. Transcrevo (e-STJ, fl. 1.869):
+AÇÃO POPULAR - Alienação de imóveis pertencentes à Municipalidade - Processo legislativo autorizando as alienações - Inocorrência de irregularidades - Ausência de comprovação de ilegalidade ou lesividade ao erário público - Impossibilidade de se inovar em sede de apelação - Ação popular improcedente Recursos improvidos.
+Consta do voto condutor do acórdão (e-STJ, fl. 1.871, grifos acrescidos):
+No caso dos autos, a alienação de bens públicos, após regular processo legislativo autorizador, não se mostrou ilegal, imoral nem lesiva ao erário público.
+Não há que se falar em prejuízo ao patrimônio público decorrente do preço do lance inicial feito para a compra do imóvel. Como bem salientou o Promotor de Justiça oficiante, "a lei municipal possui amparo normativo e constitucional. As avaliações estão nos autos com pesquisas perpetradas em imobiliárias dessa cidade, o que descaracteriza qualquer motivo para que se alegue o tal prejuízo que, acima de tudo, é um dos requisitos para o acolhimento do pleito vestibular." (fls. 1594/1595).
+Como se verifica do trecho supra, tampouco afirmou o acórdão tratar-se de exigir a demonstração da lesão para ajuizamento da ação popular. A pretensão do agravante foi afastada tanto pela inexistência de dano concreto quanto pela legalidade e moralidade do procedimento.
+Deixou ainda o insurgente de demonstrar ter procedido ao devido cotejo analítico, providência que não é atendida pela mera transcrição de acórdãos e votos. Compete ao recorrente demonstrar terem os tribunais divergido sobre a interpretação de norma incidente sobre uma mesma base fática, e, nesta oportunidade, indicar ter assim procedido. Não se vislumbra tal comprovação no presente agravo.
+Por fim, ele não indica de que modo seu recurso teria deduzido que a mera alienação de bens municipais, em qualquer hipótese, ainda que por preço justo, com procedimentos válidos e observados os ditames legais, resultaria em violação das normas da Lei 8.666/1993 suscitados (arts. 3º e 109).
+Assim, o agravante, ao distanciar-se dos fundamentos adotados pela decisão impugnada, que reconheceu corretamente a falta de combate específico aos argumentos de ser inadmissível o recurso especial nos termos em que lançado, incorre no óbice da Súmula 182/STJ (É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada).
+Vale ressaltar que a parte insurgente deve desconstituir os fundamentos utilizados na decisão impugnada, sob pena de vê-los mantidos. Desse modo, torna-se imprescindível o confronto específico entre todos, a fim de que seja demonstrado o desacerto da decisão.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
