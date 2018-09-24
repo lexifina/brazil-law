@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL. ‘HABEAS CORPUS’. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. FATO CONCRETO RELACIONADO AO HISTÓRICO CARCERÁRIO. ATESTADO DE BOM COMPORTAMENTO. IRRELEVÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO DESPROVIDO.
+    1. A progressão do regime prisional pode ser indeferida quando, a despeito de o reeducando apresentar bom comportamento carcerário certificado pelo diretor do estabelecimento prisional em que esteja cumprindo pena, o magistrado entender não implementado o requisito subjetivo com base em peculiaridades da situação fática que demonstrem a ausência de mérito do condenado, como o histórico carcerário que demonstra indisciplina consubstanciada em falta grave. Precedentes.
+    2. No caso destes autos, foram apresentados argumentos capazes de demonstrar a necessidade de maior cautela na concessão do benefício, especialmente relacionados ao histórico carcerário conturbado, com o registro de sete faltas disciplinares de natureza grave no curso da execução da pena.
+    3. Agravo regimental a que se nega provimento.”
+    (HC 388.900-AgRg/SP, Rel. Min. JORGE MUSSI – grifei)
+    Busca-se, em síntese, na presente sede processual, o ingresso do ora paciente em regime de execução penal menos gravoso (semiaberto).
+    O Ministério Público Federal, em pronunciamento da lavra da ilustre Subprocuradora-Geral da República Dra. CLÁUDIA SAMPAIO MARQUES, opinou pelo não conhecimento da ordem de “habeas corpus” em parecer assim ementado:
+    “’HABEAS CORPUS’ SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. INVIABILIDADE. AUSÊNCIA DE REQUISITO (SUBJETIVO) NECESSÁRIO AO DEFERIMENTO DA BENESSE. AUSÊNCIA DE ILEGALIDADE NA ESPÉCIE. PARECER PELO NÃO CONHECIMENTO DO ‘MANDAMUS’.” (grifei)
+    Sendo esse o contexto, passo a examinar o pleito em causa. E, ao fazê-lo, entendo assistir plena razão à Procuradoria-Geral da República, pois os fundamentos em que se apoia seu douto parecer ajustam-se, quanto ao mérito, com integral fidelidade, à orientação jurisprudencial que esta Suprema Corte firmou a propósito das matérias em análise.
+    Impende assinalar, por necessário, que eventuais divergências no exame do conjunto probatório produzido no âmbito do processo de execução penal, em face de pedido de progressão de regime formulado perante o Juízo das Execuções Criminais, não se mostram suscetíveis de apreciação na esfera deste “writ” constitucional.
+    Como se sabe, a ocorrência de iliquidez quanto aos fatos alegados na impetração basta, por si só, para inviabilizar a utilização adequada da ação de “habeas corpus”, que constitui remédio processual que não admite dilação probatória, nem permite o exame aprofundado de matéria fática, nem comporta a análise valorativa de elementos de prova produzidos no curso do processo penal de conhecimento (RTJ 110/555 – RTJ 129/1199 – RTJ 163/650-651 – RTJ 186/237, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    A análise da controvérsia, na perspectiva sugerida pela impetrante, torna necessária a interpretação do conjunto probatório emergente do procedimento administrativo disciplinar em questão, o que constitui matéria pré-excluída da via estreita do “habeas corpus” (RTJ 136/1221 – RTJ 137/198, v.g.).
+    Ainda que se pudesse superar esse óbice, mesmo assim não assistiria razão à impetrante, eis que o acórdão ora impugnado ajusta-se, com absoluta fidelidade, à diretriz jurisprudencial que esta Suprema Corte consagrou na apreciação da questão em referência (HC 74.249/PR, Rel. Min. NÉRI DA SILVEIRA – HC 95.486/SP, Rel. Min. JOAQUIM BARBOSA – HC 102.773/RJ, Rel. Min. ELLEN GRACIE – HC 110.098/SP, Rel. Min. CÁRMEN LÚCIA – RHC 109.610/SP, Rel. Min. TEORI ZAVASCKI – RHC 110.621/DF, Rel. Min. GILMAR MENDES, v.g.):
+    “’HABEAS CORPUS’. CONSTITUCIONAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO ATENDIDO. LONGA PENA A CUMPRIR. HISTÓRICO DE FALTA GRAVE COMETIDA PELO PACIENTE. ORDEM DENEGADA.
+    1. As decisões proferidas nas instâncias antecedentes harmonizam-se com a jurisprudência deste Supremo Tribunal, segundo a qual a longa pena a cumprir e o histórico de falta grave, consistente em evasão, como se tem na espécie, são fundamentos idôneos para não concessão do benefício de progressão de regime, evidenciando o não preenchimento do requisito subjetivo. Precedentes.
+    2. Para acolher a alegação da Impetrante de reabilitação do Paciente pelo longo tempo que teria decorrido da prática da falta grave, seria imprescindível o reexame dos fatos e das provas dos autos, ao que não se presta o ‘habeas corpus’.
+    3. Ordem denegada.”
+    (HC 134.249/SP, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “’HABEAS CORPUS’. PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO PREENCHIDO. OCORRÊNCIA DE FALTAS GRAVES E GRAVIDADE DO DELITO. REEXAME DE FATOS E PROVAS. INADEQUAÇÃO DA VIA ELEITA. ORDEM DENEGADA.
+    I – O não preenchimento dos requisitos subjetivos impede a progressão do regime de cumprimento da pena, ainda que cumprido o lapso temporal definido em lei. Inteligência do art. 112 da Lei 7.210/1984 (Lei de Execução Penal).
+    II – O cometimento de faltas graves e a gravidade do delito são fundamentos idôneos para avaliação dos requisitos subjetivos.
+    III – O ‘habeas corpus’ não é a via adequada para o reexame de fatos e provas, de modo a aferir o preenchimento dos requisitos subjetivos. Precedentes.
+    IV – Ordem denegada.”
+    (HC 135.748/RS, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Vale referir, em face da pertinência de que se reveste, fragmento do parecer do Ministério Público Federal oferecido no âmbito deste “habeas corpus”:
+    “10. Com efeito, é sabido que o atestado de boa conduta carcerária e o mero atendimento a requisito temporal não constituem fatores determinantes e suficientes para legitimar a eventual progressão de regime prisional.
+    11. No caso, são apontadas circunstâncias concretas e específicas que sinalizam pelo descabimento, por ora, do regime intermediário pretendido, não podendo ser desconsiderado que o paciente ainda tem longa pena a cumprir (término previsto para 08/11/2030), foi condenado por três roubos majorados (delitos que envolvem violência ou grave ameaça à pessoa), tratando-se ainda de apenado que ostenta ‘registro de sete faltas disciplinares de natureza grave durante o cumprimento da pena’.” (grifei)
+    Em suma: tenho para mim que os fundamentos subjacentes à presente impetração divergem dos critérios que a jurisprudência do Supremo Tribunal Federal consagrou nas matérias aqui examinadas.
+    Sendo assim, em face das razões expostas, e acolhendo, ainda, os fundamentos do parecer da Procuradoria-Geral da República, indefiro o pedido de “habeas corpus”.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 24 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
