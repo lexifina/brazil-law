@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME].
+1. O recurso especial interposto nestes autos discute, entre outras questões, a "natureza do rol do art. 1015 do CPC/15 e verificar possibilidade de sua interpretação extensiva, para se admitir a interposição de agravo de instrumento contra decisão interlocutória que verse sobre hipóteses não expressamente versadas nos incisos do referido dispositivo do Novo CPC", matéria afetada à Segunda Seção desta Corte, nos autos dos recursos especiais representativos da controvérsia 1.696.396/MT e 1.704.520/MT, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/15 , vinculada ao Tema 988, ainda não julgado.
+Assim, é imperiosa a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos, consoante determina o artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, a saber:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ressalta-se que "somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo" (REsp 1.361.535/MG, Rel. Min. Gurgel de Faria, DJe 8/2/2017).
+Vale lembrar, ainda, que a competência para aplicação da sistemática de recursos repetitivos é do Tribunal de origem, a teor do disposto no artigo 543-C do CPC/73, atual artigo 1.040 do CPC/2015. Aplicação analógica da interpretação dada pelo STF à sistemática do artigo 543-B do CPC/1973.
+2. Ante o exposto, determina-se a devolução dos autos à origem para que o presente recurso especial permaneça suspenso até o pronunciamento definitivo do STJ sobre o tema 988, nos termos do artigo 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/2015.
+Publique-se.
+Intimem-se.
