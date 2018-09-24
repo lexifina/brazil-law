@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo interposto por ROSSI NORTE EMPREENDIMENTOS S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas assim ementado:
+"AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PROCESSO ELETRÔNICO. DISSONÂNCIA ENTRE ASSINATURA ELETRÔNICA E NOME CONSTANTE DA PEÇA PROCESSUAL. AUSÊNCIA DE NULIDADE. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. NECESSIDADE DE DEMONSTRATIVO DO VALOR TIDO POR CORRETO. NULIDADE DE CITAÇÃO. INEXISTENTE. JOINT VENTURE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (e-STJ fl. 416).
+Os embargos declaratórios opostos foram parcialmente acolhidos, sem efeitos infringentes (e-STJ fl. 448).
+No especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 50 do Código Civil; 239, 242 e 248 do Código de Processo Civil de 2015.
+Postula, em síntese, a reforma do acórdão recorrido ao argumento de que o processo é nulo, pois houve incorreta aplicação da revelia à recorrente em razão de erro no endereço de citação e dissonância entre assinaturas, o que não poderia ser considerado válido.
+Assevera não ser possível a desconsideração da personalidade jurídica quando do ajuizamento da ação por afronta a norma legal, bem como a impossibilidade de liquidação da sentença, no tocante aos danos materiais, pois é necessária a apresentação de documentos elucidativos sobre a condenação dos lucros cessantes, de modo que pugna pelo provimento do recurso.
+Com as contrarrazões e inadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Acórdão impugnado pelo presente recurso especial publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+Preliminarmente, quanto à tese referente à dissonância entre o advogado que assinou eletronicamente a peça e aquele cujo nome nela consta, esta Corte Superior consolidou o entendimento no sentido de que, em se tratando de petição eletrônica, é necessário que haja procuração nos autos outorgada ao advogado titular da assinatura digital, independentemente de seu nome constar na peça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ASSINADO E ENCAMINHADO DIGITALMENTE, AO STJ, POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. NÃO CONHECIMENTO DO RECURSO. PRECEDENTE DA CORTE ESPECIAL. SÚMULA 115 DO STJ. INAPLICABILIDADE DOS ARTS. 13 E 37 DO CPC, NA INSTÂNCIA ESPECIAL. PRECEDENTES.
+I. A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do AgRg no REsp 1.347.278/RS, Relator o Ministro LUIS FELIPE SALOMÃO (DJe de 1º/08/2013), consolidou entendimento no sentido de que, em se tratando de petição eletrônica dirigida ao STJ, é necessário que haja procuração nos autos, outorgada ao advogado titular da assinatura digital, independentemente de seu nome constar na peça.
+II. Esta Corte considera inexistente o recurso endereçado à instância especial, no qual o advogado subscritor não possui procuração ou substabelecimento nos autos, conforme pacífica jurisprudência (Súmula 115/STJ), devendo a regularidade da representação processual ser comprovada no ato da interposição do recurso.
+III. Pacífico o entendimento jurisprudencial do STJ no sentido de que, na instância especial, não se aplicam as disposições dos arts.
+13 e 37 do Código de Processo Civil. Precedentes do STJ.
+IV. No caso, o advogado que assina e envia eletronicamente a petição do Agravo Regimental não possui procuração ou substabelecimento nos autos, conforme certificado pela Coordenadoria da Segunda Turma, devendo incidir, na espécie, o óbice da Súmula 115/STJ.
+V. Agravo Regimental não conhecido".
+(AgRg no AREsp 622.146/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 04/08/2015, DJe 19/08/2015)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. CABIMENTO. AGRAVO REGIMENTAL PROVIDO.
+1. A atribuição de efeitos infringentes aos embargos de declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária.
+2. A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do AgRg no REsp 1.347.278/RS, Rel. Min. Luis Felipe Salomão (DJe 1º/8/2013), consolidou entendimento no sentido de que, em se tratando de petição eletrônica dirigida ao STJ, é necessário que haja procuração nos autos outorgada ao advogado titular da assinatura digital, independentemente de seu nome constar na peça.
+3. Embargos de declaração acolhidos, com efeitos modificativos, para, dando provimento ao agravo regimental, determinar a reautuação do agravo como recurso especial".
+(EDcl no AgRg no AREsp 234.815/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/05/2014, DJe 15/05/2014)
+Incide, na espécie, o óbice da Súmula nº 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Quanto ao mais, o tribunal de origem, soberano na análise do conteúdo fático probatório dos autos, consignou que restou comprovada a possibilidade de desconsideração da personalidade jurídica da empresa, bem como a possibilidade de liquidação da sentença, consoante verifica-se do excerto do voto condutor a seguir transcrito (e-STJ fls. 420-422):
+"(..)
+Superadas as preliminares de mérito da exceção de pré-executividade, verifica-se que a causa não demanda maior instrução probatória e está apta para o imediato julgamento. De sorte que é possível adentrar-lhe o mérito neste julgamento de segundo grau, por expressão do art. 1.013, §3º do CPC/15.
+Quanto à não apresentação de demonstrativo de cálculos pelo excipiente, ora agravante. Por expressa disposição legal do §2º do art. 475-L do CPC/73 (vigente ao tempo da oposição de exceção de pré-executividade), quando o executado alegar excesso de execução,por entender que o exquente pleiteia valor superior ao decorrente da sentença, deve o executado impugnante apresentar demonstrativo do valor que entende correto. In verbis:
+(..)
+No caso da exceção de pré-executividade esta exigência é ainda mais intensa, na medida em que esta medida processual presta-se à alegação de matérias de ordem pública, conhecíveis de ofício e que não demandem dilação probatória.
+Neste sentido, só é alegável por exceção de pré-executividade o excesso de execução que seja flagrante, cristalinamente demonstrado. Sem o demonstrativo do valor que o excipiente entende correto, torna-se necessária a dilação probatória, o que é vedado na exceção de pré-executividade. Neste sentido:
+(..)
+Deste modo, a exceção de pré-executividade não pode ser conhecida no que toca à alegação de excesso de execução.
+No que tange à alegação de nulidade de citação, é fato que o contrato fora firmado em nome de Capital Rossi Empreendimentos S/A e que a ação fora ajuizada em face de Contrutora Capital S/A. Todavia, a Capital Rossi Empreendimentos S/A configura uma Joint Venture entre a Construtora Capital e a Rossi Incorporadora e Construtora, como declarado no sítio eletrônico de ambas as empresas (www.construtoracapital.com.br/quemsomos e www.capitalrossi.com.br/institucional/sobre-a-capital-rossi).
+A respeito do tema, [NOME], em seu Livro Direito Empresarial, definiu que joint venture "compreende qualquer associação de duas ou mais sociedades empresárias com o objetivo de criar ou desenvolver uma atividade econômica com intuito lucrativo".
+Neste sentido, ao associarem-se para promover determinado empreendimento, dividindo os lucros e responsabilidades, as empresas associadas em joint venture apresentam legitimidade passiva para as demandas que envolvam o empreendimento que constituem sua atividade desta. Neste sentido:
+(..)
+Por conseguinte, não há nulidade de citação realizada em nome da Construtora Capital S/A, porquanto integrante do joint venture Capital Rossi Empreendimentos S/A, sobre cujos empreendimentos também responde. Ademais, ambas as empresas funcionam no mesmo endereço, para o qual foi direcionada a carta de citação.
+Tanto é assim que na ação de nº 0627006-20.2015.8.04.0000, que veicula outra lide envolvendo o imóvel objeto da presente querela, a Construtora Capital S/A foi citada por correios e regularmente realizou a defesa processual da joint venture.
+Assim, não deve ser acolhido o argumento do agravante, reputando-se válida a citação realizada no bojo do processo nº 0612598-24.2015.8.04.0001.".
+Dessa forma, rever o entendimento do acórdão impugnado implicaria o reexame do contexto fático-probatório, procedimento inadmissível em âmbito de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. AUSÊNCIA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. 2. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. REEXAME DE PROVA. SÚMULA N. 7/STJ. 3. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 2. De fato, "a desconsideração da personalidade jurídica é admitida em situações excepcionais, devendo as instâncias ordinárias, fundamentadamente, concluir pela ocorrência do desvio de sua finalidade ou confusão patrimonial desta com a de seus sócios, requisitos sem os quais a medida torna-se incabível" (REsp 1.311.857/RJ, Rel. Min. Nancy Andrighi, Terceira Turma, julgado em 13/5/2014, DJe 2/6/2014).
+2.1. No caso, para refutar as conclusões fáticas alcançadas pela Corte estadual, a respeito da caracterização dos requisitos para a desconsideração da personalidade jurídica da empresa e do esgotamento dos bens dos executados, exigiria o reexame de provas, providência vedada nesta instância especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1200666/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/04/2018, DJe 26/04/2018)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ADMISSIBILIDADE DE LIQUIDAÇÃO ABREVIADA. PROVA PRÉ-CONSTITUÍDA DA TITULARIDADE DO DIREITO PLEITEADO E APURAÇÃO DA DÍVIDA POR MEROS CÁLCULOS ARITMÉTICOS. PRETENSÃO RECURSAL EM SENTIDO CONTRÁRIO QUE ESBARRA NA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O entendimento desta Corte é de ser possível a dispensa de liquidação por arbitramento ou artigos nas execuções coletivas que permitam verificar o valor devido por simples operação matemática com planilha de cálculo. Entretanto, essa possibilidade deve ser analisada caso a caso devido à diversidade de situações fáticas existentes nos processos coletivos.
+2. O Tribunal de origem afirmou que os documentos apresentados com a petição que requereu o cumprimento individual da sentença eram suficientes para comprovar, de plano, o valor da dívida e também a titularidade do crédito pleiteado, sem necessidade de uma liquidação por artigos ou arbitramento. Aferir se a liquidação de sentença deve ser procedida por simples cálculo aritmético ou mediante liquidação por artigos na ação coletiva enseja o revolvimento do conjunto fático-probatório dos autos, providência que atrai o óbice da Súmula 7 do STJ.
+3. Agravo interno improvido".
+(AgInt no REsp 1602761/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/02/2018, DJe 02/03/2018)
+"INCIDENTE DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABIMENTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. O Tribunal de origem, apesar de reconhecer o cabimento da Exceção de Pré-Executividade em casos de manifesto excesso de execução nos cálculos, entendeu que, na presente hipótese, há necessidade de dilação probatória para verificação dos excessos apontados pela agravante, o que não ocorre na Exceção de Pré-executividade.
+2. Nesse contexto, denota-se que o acolhimento da pretensão recursal para que a peça apresentada seja considerada como Exceção de Pré-Executividade demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ.
+3. Recurso Especial não conhecido".
+(REsp 1660379/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2017, DJe 20/06/2017)
+"PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO CABIMENTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE.
+I - Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que descabe a exceção de pré-executividade para deduzir matéria dependente de contraditório e eventual dilação probatória. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em recurso especial. Enunciado n. 7 da Súmula do STJ.
+II - O Tribunal de origem dirimiu a controvérsia em perfeita sintonia com a orientação do Superior Tribunal de Justiça, no julgamento do REsp 1.104.900/ES, afetado à sistemática do art. 543-C do CPC/1973 (recursos repetitivos), de que a Exceção de Pré-Executividade se mostra inadequada se o incidente envolve questão que requer dilação probatória, nos termos do enunciado n. 393 da Súmula do STJ.
+III - Agravo interno improvido".
+(AgInt no AREsp 979.095/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 17/10/2017, DJe 23/10/2017)
+Registra-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO EM RECURSO ESPECIAL. EXECUÇÃO. CONCURSO ESPECIAL. PREFERÊNCIA. PENHORA. SUB-ROGAÇÃO. EXISTÊNCIA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. ALÍNEA C. APLICABILIDADE. AGRAVO IMPROVIDO.
+1. A inversão quanto às conclusões do acórdão recorrido de que teria se efetivado a penhora nos autos e de que houve decisão no concurso especial de credores, demandaria revolvimento de aspectos fático-probatórios, procedimento vedado pelo óbice da Súmula 7/STJ.
+2. Segundo a pacífica orientação jurisprudencial desta Corte Superior, o óbice da Súmula 7/STJ impede o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+3. Agravo a que se nega provimento"
+(AgRg no AREsp nº 539.292/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/3/2015, DJe 16/3/2015).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 15% do valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
