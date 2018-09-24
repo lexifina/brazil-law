@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 537):
+APELAÇÃO CÍVEL. FUNCIONÁRIO PÚBLICO. IPERGS. REVISÃO DE APOSENTADORIA. EQUIPARAÇÃO. INCORPORAÇÃO DE FUNÇÃO GRATIFICADA. ALTERAÇÃO DA NOMENCLATURA ORGANIZACIONAL DA AUTARQUIA. PARIDADE. EC Nº 41/05. MANUTENÇÃO DA SENTENÇA DE PROCEDÊNCIA.
+Após a edição das Leis Estaduais nºs 13.415/2010 e 13.809/11, houve a reclassificação da função gratificada de chefe de serviço (FGP-V) para a de coordenador (FGE-10) aos servidores em atividade, benefício que deve ser estendido à apelante, em face do princípio constitucional da paridade.
+APELO DESPROVIDO.
+No especial obstaculizado, a parte recorrente apontou violação do art. 405, IV, § 3º, do CPC/1973, porquanto o aresto atacado deve ser reformado pois: (I) parte de raciocínio de que o Decreto 47.420/2010 e as Legislações Estaduais 13.418/2010 e 13.809/2011 teriam somente mudado a nomenclatura das funções anteriormente criadas, mas que mantinham as mesmas atribuições; (II) não "afasta o interesse direto dos informantes no resultado do feito e que estes beneficiar-se-ão com o julgamento de procedência desta ação, o que vicia todo o seu conteúdo" (e-STJ fl. 557).
+Sem contrarrazões.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, infirmar a conclusão adotada pela Corte de origem, segunda a qual os depoimentos prestados foram seguros e coerentes com as demais provas produzidas, a fim de acolher as teses defendidas pela parte recorrente, demandaria o reexame do conjunto fático-probatório dos autos, inviável na via de recurso especial (Súmula 7 do STJ).
+Ademais, ainda que apontada suposta violação de dispositivo de lei federal, verifica-se que a argumentação do apelo nobre se apoia na interpretação de legislação local (Decreto 47.420/2010 e as Legislações Estaduais n. 13.418/2010 e n. 13.809/2011 ).
+Nesse passo, deve-se destacar ser cediço que o recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência a lei local, conforme a inteligência da Súmula 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
