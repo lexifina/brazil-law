@@ -1,0 +1,61 @@
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL FUNDADO NO CPC/73. DESERÇÃO. AUSÊNCIA DAS GUIAS DE RECOLHIMENTO.
+1. Trata-se de recurso especial interposto sob a égide do CPC/73, considerado deserto em razão da ausência de juntada das Guias de Recolhimento e dos respectivos comprovantes de pagamento.
+2. A jurisprudência do STJ, para fins de comprovação de preparo, acha-se consolidada no sentido da indispensabilidade, no ato da interposição do recurso especial, da juntada da Guia de Recolhimento da União (GRU), com o respectivo comprovante de pagamento, sob pena de deserção. Precedentes: AgRg nos EAREsp 562.945/SP, Rel. Min. João Otávio de Noronha, Corte Especial, DJe 15/06/15 e AgRg no REsp 1467955/RS, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Turma, DJe 23/09/2015.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por [NOME], desafiando decisão exarada pela Presidência do Superior Tribunal de Justiça, desafiando decisão que não conheceu do recurso, por deserção do apelo raro.
+A parte agravante alega, em síntese, que teria efetuado o pagamento do preparo e juntado os respectivos comprovantes no momento da interposição do recurso especial, sendo que, em razão da greve dos bancários, teria recolhido o preparo por meio de "depósito identificado para a conta única do Tesouro Nacional", na forma do art. 7º, § 8º, da Resolução STJ nº 4, de 1º de fevereiro de 2013.
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Aberto prazo para impugnação, essa não foi apresentada (certidão de fl. 337).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados (fl. 323):
+Vistos, etc.
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto contra decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que o recurso especial não foi instruído com a guia de custas e o respectivo comprovante de pagamento. Assim, incide na espécie o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+A jurisprudência desta Corte é firme no sentido de que, para a comprovação do preparo, a ser realizada no ato da interposição do recurso especial, é necessária a juntada da Recolhimento da União (GRU), bem como do respectivo comprovante de pagamento.
+Nesse sentido, os seguintes julgados do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. NÃO OCORRÊNCIA DE JUNTADA DAS GUIAS DE RECOLHIMENTO DA UNIÃO. APRESENTAÇÃO APENAS DO COMPROVANTE DE PAGAMENTO. INSUFICIÊNCIA. PRECEDENTES.
+1. É insuficiente para comprovação do preparo a apresentação somente do comprovante de pagamento das custas processuais, pois é indispensável a juntada das respectivas guias de recolhimento da União.
+2. Agravo regimental desprovido.
+(AgRg nos EAREsp 562.945/SP, Rel. Min. João Otávio de Noronha, Corte Especial, DJe 15/06/15).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AUSÊNCIA DE JUNTADA DAS GUIAS DE RECOLHIMENTO.
+1. "A jurisprudência desta Corte é firme no sentido de ser essencial à comprovação do preparo a juntada da Guia de Recolhimento da União (GRU), com o respectivo comprovante de pagamento, no ato da interposição do especial, sob pena de deserção" (AgRg no AREsp 381.632/SP, 3ª Turma, Rel. Min. Ricardo Villas Bôas Cueva, DJe 10.3.2014). Desse modo, a juntada dos comprovantes de pagamento desacompanhados das respectivas guias de recolhimento não é suficiente para fins de comprovação do preparo. Ressalte-se que a jurisprudência desta Corte não autoriza a intimação do recorrente, na forma prevista no art. 511, § 2º, do CPC, para fins de juntada das guias de recolhimento (AgRg no Ag 1.414.820/SC, 4ª Turma, Rel. Min. Raul Araújo, DJe de 7.12.2011).
+2. Agravo regimental não provido
+(AgRg no AREsp 673.103/SP, Rel. Ministro Mauro Campbell Marques, DJe 23/06/2015).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE GUIA DE RECOLHIMENTO. DESERÇÃO.
+1. "A jurisprudência desta Corte é firme no sentido de ser essencial à comprovação do preparo a juntada da Guia de Recolhimento da União (GRU), com o respectivo comprovante de pagamento, no ato da interposição do especial, sob pena de deserção" (AgRg no AREsp 381.632/SP, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 10/03/2014).
+2. Agravo regimental desprovido.
+(AgRg no REsp 1467955/RS, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Primeira Turma, DJe 23/09/2015)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. NÃO OCORRÊNCIA DE JUNTADA DAS GUIAS DE RECOLHIMENTO DA UNIÃO. APRESENTAÇÃO APENAS DO COMPROVANTE DE PAGAMENTO. ARTIGO 511, CAPUT, CPC. AGRAVO NÃO PROVIDO.
+1. "É insuficiente para comprovação do preparo a apresentação somente do comprovante de pagamento das custas processuais, pois é indispensável a juntada das respectivas guias de recolhimento da União" (AgRg nos EAREsp 562.945/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 03/06/2015, DJe 15/06/2015).
+2. Agravo regimental não provido.
+(AgRg no AREsp 722.868/ES, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 20/10/2015)
+Além disso, na esteira do entendimento do STJ, nos casos em que se alegar a deflagração de greve bancária, impossibilitando o recolhimento do preparo dentro do prazo recursal e/ou na forma exigida na resolução do STJ, vigente à época da interposição do recurso, é necessário que seja devidamente demonstrado tal obstáculo, sob pena de deserção.
+Nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. PREPARO. GREVE BANCÁRIA. TÉRMINO. PROVA. INEXISTÊNCIA. DESERÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Consoante entendimento desta Corte, a greve dos bancários constitui justo impedimento ao recolhimento do preparo, desde que efetivamente impeça a parte de assim proceder, circunstância que deve ser manifestada e comprovada no ato da interposição do respectivo recurso, com o posterior pagamento das custas e a juntada da respectiva guia aos autos no dia subsequente ao término do movimento grevista (ou no prazo eventualmente fixado pelo respectivo Tribunal via portaria), sob pena de preclusão.
+3. Hipótese em que a parte não apresentou cópia do ato exarado pelo Tribunal de Justiça do Estado do Rio de Janeiro, que teria prorrogado o prazo para recolhimento das custas judiciais em razão da greve dos bancários realizada no ano de 2013, assim como não informou quando se deu o término do movimento paredista.
+4. Agravo interno desprovido.
+(AgInt no AREsp 478.531/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/02/2017, DJe 15/03/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. NECESSIDADE DE SUA COMPROVAÇÃO, NO ATO DA INTERPOSIÇÃO DO RECURSO. ART. 511 DO CPC/73. GREVE BANCÁRIA. NÃO COMPROVAÇÃO DO PREPARO, NO PRAZO DETERMINADO PELO TRIBUNAL DE ORIGEM. DESERÇÃO. IMPOSSIBILIDADE DE COMPROVAÇÃO, EM SEDE DE AGRAVO INTERNO. PRECLUSÃO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão do Presidente do STJ - que negou seguimento ao Recurso Especial -, publicada em 14/03/2016, na vigência do CPC/73.
+II. A jurisprudência do Superior Tribunal de Justiça - firmada à luz do CPC/73 -, orienta-se no sentido de que, no ato de interposição do Recurso Especial, deve o recorrente comprovar o preparo, com o recolhimento das custas judiciais, bem como dos valores locais, estipulados pela legislação estadual, sob pena de deserção (art. 511 do CPC/73).
+III. Quanto à hipótese de impossibilidade de realização do preparo, por motivo de greve bancária, esta Corte possui jurisprudência consolidada no sentido de que "a greve dos bancários constitui justo impedimento ao recolhimento do preparo, desde que efetivamente impeça a parte de assim proceder, circunstância que deve ser manifestada e comprovada no ato da interposição do respectivo recurso, com o posterior pagamento das custas e a juntada da respectiva guia aos autos, no dia subsequente ao término do movimento grevista (ou no prazo eventualmente fixado pelo respectivo Tribunal via portaria), sob pena de preclusão" (STJ, AgRg nos EREsp 1.002.237/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 20/11/2012).
+IV. No caso, ainda que o pagamento do preparo (custas) tenha sido realizado durante o período de greve bancária, o agravante tinha a obrigação de comprovar sua realização, no prazo - previsto pela Portaria 1.070/2015, do Tribunal de origem -, de três dias após o encerramento do movimento grevista, sob pena de preclusão. Nesse sentido: STJ, AgRg no AREsp 627.504/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 17/03/2015; AgRg no AREsp 626.986/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 25/02/2015; AgRg no REsp 1.465.557/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 27/11/2014; AgRg no AREsp 409.847/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/11/2013.
+V. Assim, ainda que o pagamento tenha sido realizado durante o período de greve dos bancários, deixando o agravante de comprovar a realização do devido preparo, no prazo estipulado pelo Tribunal de origem - fazendo-o somente agora, nas razões do Agravo interno -, não há como ser afastada a deserção do Recurso Especial.
+VI. Agravo interno improvido.
+(AgInt no REsp 1576314/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/05/2016, DJe 11/05/2016)
+Com efeito, no presente caso, o recurso especial fora interposto em 11/10/2013, sob a égide do CPC/73, tendo sido juntados, à fl. 181, dois comprovantes de pagamento, em que consta "Transferência para conta única do Tesouro", nos valores de R$ 131,87 e R$ 61,00, respectivamente.
+No entanto, não foram juntadas as Guias de Recolhimento, as quais são indispensáveis para a adequada comprovação do recolhimento do preparo do recurso especial, nos termos da jurisprudência desta Corte, restando deserto o especial apelo.
+Além disso, o art. 7º, § 8º, da Resolução STJ nº 4/2013, indicado pelo agravante como amparo normativo para o recolhimento por meio de depósito identificado para a conta única do Tesouro Nacional, sem a juntada da GRU, não socorre a parte, posto que trata de hipótese de indisponibilidade do sítio do Tesouro Nacional, e não no caso dos autos, em que teria havido greve dos bancários.
+Não é demais ressaltar que, em relação à comprovação da deflagração da greve dos bancários, a juntada de cópia de matéria jornalística não é suficiente para demonstrar a impossibilidade da parte de efetuar o recolhimento do preparo na forma exigida, sendo essencial a apresentação de documento oficial do Tribunal de origem, o que não se verifica no caso.
+Diante do exposto, nega-se provimento ao agravo interno.
+É o voto.
