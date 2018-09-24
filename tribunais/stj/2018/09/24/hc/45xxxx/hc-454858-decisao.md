@@ -1,0 +1,25 @@
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. SUPERVENIÊNCIA DO ACÓRDÃO JULGANDO O APELO E REFORMANDO PARCIALMENTE A DECISÃO DO MAGISTRADO DE PRIMEIRO GRAU. AUSÊNCIA SUPERVENIENTE DE INTERESSE PROCESSUAL. PREJUDICIALIDADE.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] e [NOME] DA [NOME] FERNANDES, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação n.º 0040458-90.2015.8.19.0014).
+Consta dos autos que o juiz de primeiro grau, em 1º/3/2016, condenou os pacientes às seguintes penas: a) [NOME] - 10 (dez) anos e 6 (seis) meses de reclusão, em regime inicial fechado, bem como o pagamento de 146 (cento e quarenta e seis) dias-multa, no mínimo legal; e b) [NOME] - 12 (doze) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 1.720 (mil setecentos e vinte) dias-multa, no menor patamar previsto pela legislação de regência. Ambos foram incursos nos delitos previstos nos arts. 33 e 35 da Lei n.º 11.343/2006 (fls. 17-28).
+Irresignada, a Defesa interpôs recurso de apelação, o qual, até a data da impetração do presente writ, ainda não havia sido julgado.
+A Defesa sustenta que os Pacientes estão " ..  presos desde do dia 10 de outubro de 2015 - provisoriamente - uma vez que ainda aguardam o julgamento do recurso de apelação interposto, o qual encontra-se há 367 dias sem qualquer nova movimentação ou concreta previsão de julgamento" (fl. 4).
+Pondera que " ..  o excesso de prazo no caso em tela demonstra-se gritante e afronta a normalidade, ultrapassando - em muito - todos e quaisquer prazos instituídos pelas normas penais e processuais penais, ensejando indiscutível ilegalidade prisional, não sendo crível qualquer tipo de alegação que tente justificar a prisão de um sujeito enquanto aguarda o julgamento de recurso de apelação onde se postula a absolvição por mais de 1 (um) ano" (fl. 6).
+Ao final, requer, liminarmente e no mérito, que " ..  seja relaxada a prisão preventiva e, por conseguinte, expedido alvará de soltura em favor dos pacientes, isto em razão da ilegal, infundada e intolerável morosidade processual acima esclarecida, acarretando injusto excesso de prazo para o qual os pacientes não concorreram e, por conseguinte, a ilegalidade da prisão" (fl. 7).
+O pedido liminar foi indeferido nos termos da decisão de fls. 92-93, prolatada pela Ministra MARIA THEREZA DE ASSIS MOURA, então relatora do presente feito.
+O Ministério Público Federal manifestou-se no sentido de que o habeas corpus deve ser julgado prejudicado (fl. 136).
+É o relatório.
+Decido.
+Conforme andamento processual atualizado obtido na página eletrônica do Tribunal de Justiça do Estado do Rio de Janeiro na internet, em 28/08/2018, foi julgada a apelação interposta em favor dos Pacientes no seguinte sentido: a) [NOME] - recurso provido para absolvê-la de ambos os crimes; e b) [NOME] - parcial provimento ao apelo, a fim de absolvê-lo do delito de associação para o tráfico e, mantida a condenação no tocante ao art. 33 da Lei n.º 10.343/2006, c.c. o art. 40 do mesmo Diploma Legal, reduzidas as penas aos patamares de 2 (dois) anos e 11 (onze) meses de reclusão, em regime aberto, e 291 (duzentos e noventa e um) dias-multa. A reprimenda privativa de liberdade foi substituída por duas restritivas de direitos, quais sejam, prestação de serviços à comunidade e limitação de fim de semana. Foi também determinada a expedição dos respectivos alvarás de soltura.
+Assim, encontra-se prejudicado o pedido formulado no writ.
+Nesse sentido:
+"PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. EXCESSO DE PRAZO PARA JULGAMENTO DE RECURSOS DE APELAÇÃO. PARCIAL PREJUDICIALIDADE. JULGAMENTO SUPERVENIENTE DE UM DOS RECURSOS. PRISÃO DOMICILIAR. DOENÇA GRAVE. DEBILIDADE EXTREMA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURAÇÃO. HABEAS CORPUS DENEGADO.
+1. Constata a superveniência do julgamento de um dos recurso de apelação, acerca do qual havia a imputação de excesso de prazo para julgamento, resta prejudicado o habeas corpus nesse ponto.
+ ..
+4. Habeas corpus denegado." (HC 411.059/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/05/2018, DJe de 24/05/2018.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. HABEAS CORPUS PREJUDICADO DIANTE DO JULGAMENTO SUPERVENIENTE DO RECURSO. AGRAVO REGIMENTAL DESPROVIDO.
+A impetração está prejudicada em razão do superveniente julgamento do recurso de apelação pelo eg. Tribunal de origem, tendo em vista que a tese ora sustentada consistiu no alegado excesso de prazo para o julgamento do referido recurso.
+Agravo regimental desprovido." (AgRg no HC 386.919/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/05/2017, DJe de 20/06/2017.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
