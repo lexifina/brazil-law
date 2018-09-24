@@ -1,0 +1,59 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO REIVINDICATÓRIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. AFASTAMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. USUCAPIÃO. REQUISITOS DE CONSTITUIÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Rever a convicção formada pelo Tribunal de origem, acerca da necessidade de produção das provas requeridas e do consequente julgamento antecipado da lide, importaria, necessariamente, no reexame do acervo fático-probatório carreado aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ. Precedentes.
+2. A constatação da ocorrência da usucapião depende de incursão no arcabouço fático-probatório dos autos, a fim de perquirir-se o preenchimento dos requisitos exigidos para a configuração da usucapião, providência, no entanto, obstada pela Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+Trata-se de agravo interno interposto por TRANSCONTINENTAL EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra decisão que negou provimento a seu recurso especial, ao fundamento de que o apelo nobre encontrava óbice na Súmula n. 7/STJ.
+Nas razões do presente agravo interno, TRANSCONTINENTAL EMPREENDIMENTOS IMOBILIÁRIOS LTDA afirma, em síntese, que: a) "Verifica-se que (i) as provas requeridas regularmente; (ii) devem ser produzidas as provas de depoimento pessoal e testemunhai por não serem suficientes as constantes nos autos, por questão de revaloração de provas e (iii) violação ao contraditório contrário ao disposto no art. 7º do CPC"  fl. 1208 ; e b) "O que se pretende com o Recurso Especial é tão somente a valoração jurídica das provas incontroversas no caso, tendo em vista que o v. Acórdão recorrido incorreu em negativa de vigência ao art. 7º do CPC/2015 e ao art. 551, caput, do CC/1916, quando julgou antecipadamente a lide e, no mérito, deixou de reconhecer a ausência de justo título e boa-fé dos Apelados e inexistência de prescrição aquisitiva capaz de lastrear suposto usucapião"  fl. 1209 .
+Ao final, requer a reconsideração da decisão agravada ou, se mantida, que seja o presente recurso levado a julgamento perante a eg. Quarta Turma.
+Impugnação às fls. 1217-1223.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) (Relator):
+O presente recurso não merece prosperar, uma vez que a agravante não apresentou argumentação jurídica necessária a motivar a modificação do entendimento externado na decisão ora vergastada.
+Primeiramente, no tocante à aplicação da Súmula n. 7/STJ à alegada violação ao art. 7º do CPC/2015, mantida a decisão singular, no ponto.
+Com efeito, ao contrário do aduzido pela agravante, a pretensão do presente recurso não se cinge em reconhecer matéria exclusivamente de direito relativa à alegada vulneração ao art. 7º do CPC/2015. Isso porque rever a convicção formada pelo eg. TJ-SC, acerca da necessidade de produção das provas requeridas e do consequente julgamento antecipado da lide, importaria, necessariamente, no reexame do acervo fático-probatório carreado aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ. Nessa linha de intelecção, além dos precedentes colhidos na decisão combatida, prestigiam-se também os seguintes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. AÇÃO CONEXA. AUSÊNCIA DE OBRIGATORIEDADE DE JULGAMENTO CONJUNTO. DANOS MATERIAIS. RESPONSABILIDADE DA CEF AFASTADA. SÚMULA 7 DO STJ.
+1. Não configura cerceamento de defesa o julgamento antecipado da lide quando o juízo embasa sua convicção em prova suficiente para fundamentar as deduções expostas na sentença.
+2. A avaliação tanto da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide (art. 330, I, do CPC), quanto da necessidade de produção de outras provas demandaria a incursão em aspectos fático-probatórios dos autos, inviável, portanto, em recurso especial (Súmula n. 7/STJ)" (AgRg no REsp 1449368/SP, Rel.Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/08/2014, Dje 27/08/2014).
+(..)
+5. Agravo interno não provido".
+(AgInt no REsp 1681350/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. REPARAÇÃO DE DANOS. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. LAUDO PERICIAL. INDEFERIMENTO DE NOVOS ESCLARECIMENTOS. AUSÊNCIA DE CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+(..)
+2. O juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 130 do CPC/73.
+3. In casu, o Tribunal de origem, com base nas provas constantes dos autos, considerou que se insere no poder de livre apreciação da prova do magistrado decidir sobre a necessidade de intimação do perito para novos esclarecimentos. Rever tal entendimento demandaria o reexame do contexto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 898.507/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 26/02/2018 - grifou-se)
+Na sequência de exame do presente agravo, a título elucidativo, transcreve-se o seguinte excerto da decisão agravada, que deve ser confirmada:
+ "Avançando na análise do apelo, aduz, ainda, a recorrente ofensa ao art. 551, parágrafo único, do Código Civil de 1916, resumidamente, sob a alegação de que, no caso concreto, incide a hipótese de usucapião ordinário, na medida em que a relação jurídica se dá entre ausentes, observado que as partes habitam municípios diversos, além do que, houve interrupção da posse dos recorridos com o ajuizamento da ação reivindicatória.
+ Por sua vez, o eg. TJ-SC asseverou que, na espécie, há satisfação dos requisitos para deflagração da usucapião extraordinário, previsto no art. 550 do Código Civil de 1916. É o que se verifica in verbis (fl. 1087):
+"Assim, conclui-se ser incontroversa a posse pelos demandados desde 14.4.1988, que perfez, em 14.4.2008, quando vigente o Código Civil de 2002, o total de 20 (vinte) anos, o que viabilizaria o usucapião extraordinário prevista no art. 550 do Código Civil de 1916, em face da regra de transição previstano art. 2.028 do Código Civil de 2002(..)"
+ Nesse cenário, não prospera a pretensão recursal, uma vez que a análise do preenchimento dos requisitos para a deflagração da usucapião pleiteada pela recorrente exige revolvimento de matéria fático-probatória dos autos, o que é inviável a teor da Súmula 7 deste STJ (..)"  fls. 1197-1198 .
+Nessa senda, a constatação da ocorrência da usucapião na modalidade ordinária, como defende a agravante, ou extraordinária, como concluiu o Tribunal de origem, na forma em que ora se postula, depende indubitavelmente de incursão no arcabouço fático-probatório dos autos, a fim de perquirir-se o preenchimento dos requisitos exigidos para a configuração da usucapião, providência, no entanto, obstada pela Súmula n. 7/STJ.
+Ademais, ao contrário do que aduz a agravante, a pretensão de alterar o entendimento do v. acórdão estadual não depende de mera revaloração de provas, mas, sim, de revisão do acervo fático-probatório dos autos, providência esta, contudo, incompatível com a via estreita do recurso especial, a teor da Súmula n. 7/STJ.
+Nesse jaez, consoante jurisprudência consolidada deste Superior Tribunal de Justiça, "não há que se falar em revaloração de provas por esta Corte quando o convencimento dos órgãos de instâncias inferiores foi formado com base em detida análise das provas carreadas aos autos, obedecendo às regras jurídicas na apreciação do material cognitivo" (AgRg no Ag 1417428/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/09/2011, DJe 05/10/2011). Veja-se a íntegra da ementa da decisão mencionada, que bem ilustra a questão:
+"DANOS MATERIAL E MORAL. AUSÊNCIA DE CULPA DO AGRAVADO. ACÓRDÃO RECORRIDO PROFERIDO COM BASE NAS PROVAS ACOSTADAS AOS AUTOS. SÚMULA STJ/07. IMPOSSIBILIDADE DE REVALORAÇÃO PROBATÓRIA.
+1.- Não há que se falar em revaloração de provas por esta Corte quando o convencimento dos órgãos de instâncias inferiores foi formado com base em detida análise das provas carreadas aos autos, obedecendo às regras jurídicas na apreciação do material cognitivo.
+2.- Agravo Regimental improvido.
+(AgRg no Ag 1417428/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/09/2011, DJe 05/10/2011)
+Na mesma toada, os precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CONTRATUAL. CONTRATO DE EMPREITADA E FORNECIMENTO DE MATERIAL. MÁ EXECUÇÃO DA OBRA. DANO MATERIAL. VIOLAÇÃO AO ART. 1.022 DO NOVO CPC. NÃO OCORRÊNCIA. CONCLUSÃO ACERCA DA CULPA CONCORRENTE. SÚMULAS 5 E 7 DO STJ.
+(..)
+2. O acórdão assentou o entendimento de que houve culpa concorrente no presente caso, na medida em que a empresa contratada pela agravante para supervisionar a execução da obra pela agravada não atentou para os defeitos na execução do serviço durante o seu andamento. Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação do conjunto probatório, bem como na interpretação de cláusula contratual, o que é vedado em recurso especial, ante o teor das Súmulas 5 e 7/STJ.
+3. Conforme já decidiu o STJ, "não há que se falar em revaloração de provas por esta Corte quando o convencimento dos órgãos de instâncias inferiores foi formado com base em detida análise das provas carreadas aos autos, obedecendo às regras jurídicas na apreciação do material cognitivo" (AgRg no Ag 1417428/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/09/2011, DJe 05/10/2011).
+4. Agravo interno não provido".
+(AgInt no AREsp 1083279/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/09/2017, DJe 02/10/2017 - grifou-se)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO AUTOR.
+1. Rever a conclusão do Tribunal a quo acerca da configuração dos requisitos ensejadores da procedência ou improcedência da tutela possessória demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior.
+2. A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial. Entretanto, na hipótese dos autos, para reverter a conclusão da Corte local, a fim de que se reconheça a presença dos pressupostos que ensejam a demanda reintegratória, necessário seria o reexame das provas colacionadas aos autos, providência vedada a esta Corte Superior, em sede de recurso especial.
+3. Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 51.977/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2016, DJe 29/04/2016 - grifou-se)
+Nesse cenário, a agravante limita-se a revisitar os mesmos argumentos já devidamente analisados, em decisum amplamente amparado em jurisprudência assente desta Corte Superior.
+Por fim, conclui-se que o agravo interno não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
