@@ -1,0 +1,25 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Tráfico de drogas. Regime aberto e Substituição da pena. Superação da Súmula 691/STF. Ordem concedida de ofício.
+1. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF).
+2. Possibilidade de fixação de regime inicial diverso do fechado e de substituição da pena privativa de liberdade por medida restritiva de direitos. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida de ofício.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 467.870, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 2 (dois) anos de reclusão, em regime inicial semiaberto, pelo crime previsto no artigo 33, caput e § 4º, da Lei 11.343/06. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos.
+    3. Da sentença, acusação e defesa apelaram. O Tribunal de Justiça do Estado de São Paulo deu “provimento ao recurso ministerial para afastar a substituição da pena privativa de liberdade e fixar o regime inicial fechado”. Da mesma forma, deu parcial provimento “ao recurso defensivo para reduzir as penas de VINICIUS DA SILVA FLORENTINO a 1 ano e 8 meses de reclusão”.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 467.870, Ministro Joel Ilan Paciornik, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a imposição de regime inicial mais gravoso. Alega, ainda, a possibilidade da substituição da pena privativa de liberdade por outra restritiva de direitos.
+    6. Com essa argumentação, requer a concessão da ordem a fim de fixar o regime inicial aberto, assim como a fim de determinar a conversão da pena privativa de liberdade em outra pena restritiva de direitos.
+    Decido.
+    7. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    8. As peculiaridades do processo, contudo, autorizam a superação da Súmula 691/STF.
+    9. O paciente, surpreendido com 4,24g de cocaína e 78,21g maconha, foi condenado à pena de 2 (dois) anos de reclusão, em regime inicial fechado, pelo crime previsto no artigo 33, caput e § 4º da Lei 11.343/06. O Juízo de origem determinou a substituição da pena privativa de liberdade por duas penas restritivas de direito. Em sede de apelação, o Tribunal Estadual reduziu a pena para 1 (um) ano e 8 (oito) meses de reclusão, mantido o regime inicial fechado, assim como cassou a substituição da reprimenda.
+    10. Para além de observar que se trata de réu primário, com bons antecedentes e menor de 21 anos de idade na data dos fatos, a quantidade da droga apreendida foi o único fundamento utilizado pelo Tribunal Estadual para justificar a imposição do regime prisional mais gravoso e o indeferimento da substituição de que trata o art. 44 do Código Penal. Ocorre que o acusado foi preso com uma quantidade pouco expressiva de entorpecentes (4,24g de cocaína e 78,21g de maconha), conforme demonstram a denúncia e o acórdão da apelação. Tanto que o próprio Juiz de primeiro grau concedeu ao acionante a substituição de que trata o art. 44 do Código Penal, por entender que o agente não possui personalidade atrelada ao âmbito criminoso.
+    11. Nessas condições, deve ser aplicada a jurisprudência do Plenário do Supremo Tribunal Federal. Jurisprudência que, ao analisar o HC 111.840, de Relatoria do Ministro Dias Toffoli, por maioria, declarou, incidenter tantum, a inconstitucionalidade do art. 2º, §1º, da Lei nº 8.072/1990, com a redação dada pela Lei nº 11.464/2007. Oportunidade em que ficou superada a obrigatoriedade de início do cumprimento da pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+    12. Da mesma forma, o Plenário do Tribunal, no julgamento do HC 97.256, Rel. Min. Ayres Britto, declarou, incidentalmente, a inconstitucionalidade do artigo 44 da Lei nº 11.343/06, na parte em que vedava a substituição da pena privativa de liberdade por medida restritiva de direitos, em favor dos condenados pela prática do crime de tráfico de entorpecentes.
+    13. Diante do exposto, não conheço do habeas corpus. Contudo, concedo a ordem de ofício para fixar, desde logo, o regime inicial aberto e para restabelecer a sentença condenatória do paciente, no ponto em que autorizada a substituição de que trata o art. 44 do Código Penal.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 24 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
