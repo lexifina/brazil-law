@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “SERVIDOR PÚBLICO MUNICIPAL – Guarda Civil. Admissibilidade da aposentadoria especial. Impossibilidade do percebimento de proventos integrais e à paridade porque o autor não comprovou ter preenchido os requisitos do artigo 3º, parágrafo único, da Emenda Constitucional nº 47/2005. Manutenção da r. Sentença. Inteligência do art. 252 do RITJSP. Precedente deste E. TJSP. REEXAME NECESSÁRIO NÃO ACOLHIDO E RECURSOS DESPROVIDOS.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, §§ 3º e 4º, da CF, bem como violação ao art. 3º da EC 47/2005 e art. 7º da EC 41/2003.
+    A decisão agravada negou seguimento ao recurso por entender que incidem, no caso, as Súmulas 279 e 636/STF.
+    O recurso não merece ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem se alinha com a jurisprudência desta Corte. O Supremo Tribunal Federal, ao julgar o RE 590.260-RG, Rel. Min. Ricardo Lewandowski, submetido à sistemática da repercussão geral, decidiu que os servidores públicos que ingressaram no serviço público antes da EC nº 41/2003, mas que se aposentaram após da edição da referida emenda, possuem direto à paridade e integralidade remuneratória, desde que observada a regra de transição prevista na EC nº 47/2005. Veja-se a ementa do mencionado julgado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO.
+    I – Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição).
+    II – Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005.
+    III – Recurso extraordinário parcialmente provido”.
+    O Tribunal de origem, ao manter a sentença por seus próprios fundamentos, assentou:
+    “Estabelecidas tais premissas, constata-se que, em princípio, o autor faria jus à paridade e à integralidade, porquanto ingressou nos quadros da administração pública municipal anteriormente a 16/12/1998.
+    Contudo, não comprovou ter preenchido os requisitos do artigo 3º, parágrafo único, da Emenda Constitucional nº 47/2005, razão pela qual não tem direito ao percebimento de proventos integrais e à paridade.
+    Daí que o valor de sua aposentadoria especial deverá ser calculado conforme o disposto no art. 40, § 3º, da CF/88 e na Lei Federal nº 10.887/04 (média aritmética simples dos maiores remunerações, utilizadas como base para as contribuições do servidor aos regimes de previdência a que esteve vinculado)”.
+      Para dissentir desse entendimento, são imprescindíveis o reexame do conjunto fático-probatório dos autos e a análise da legislação infraconstitucional pertinente, procedimentos vedados neste momento processual.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015
+    Publique-se.
+          Brasília, 24 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
