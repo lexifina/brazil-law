@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NÃO-PADRONIZADOS PCG-BRASIL MULTICARTEIRA em face de decisão denegatória de seguimento ao recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 150, e-STJ):
+Ação declaratória de inexigibilidade de débito c.c. indenização por danos morais - Lançamento indevido do nome da autora junto aos órgãos de proteção ao crédito - Dívida negada pela autora - Ausência de prova de contratação válida e a existência de comprovação de débito pendente de pagamento - Ônus da prova do réu - Inteligência do artigo 333, II, do CPC - Dano moral caracterizado Indenização devida - Valor majorado de acordo com os parâmetros de entendimento desta Câmara - Recurso da autora parcialmente provido e Recurso do réu desprovido.
+Opostos embargos de declaração (fls. 183/186, e-STJ), esses foram rejeitados.
+Nas razões do especial (fls. 156/180, e-STJ), a agravante apontou, além de dissídio jurisprudencial, violação aos artigos 186, 188, 290, 293, 927 e 944 do Código Civil. Sustentou, em síntese: i) a legitimidade da inscrição, tendo em vista que houve cessão de crédito da Aymoré Crédito para a ora insurgente; ii) a necessidade de afastar ou reduzir a indenização arbitrada a título de danos morais, uma vez que não cometeu ato ilícito.
+Sem contrarrazões (fl. 195, e-STJ).
+Em juízo de admissibilidade (fls. 196/198, e-STJ), negou-se seguimento ao reclamo, sob os seguintes fundamentos: i) não restou demonstrada a alegada vulneração aos dispositivos legais tidos por violados; ii) em razão do óbice da Súmula 7 do STJ; iii) não houve a demonstração do dissídio jurisprudencial nos moldes legais exigidos.
+Daí o agravo (fls. 200/225, e-STJ), no qual a agravante postula a reforma da decisão em testilha, lançando argumentações no sentido de combater os impedimentos acima apontados.
+Sem contraminuta (fl. 227, e-STJ).
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+1. Com efeito, o Tribunal local, com amparo nos elementos de convicção dos autos, decidiu pela presença dos requisitos ensejadores da reparação civil, relativamente à inscrição indevida do nome do agravado em cadastros de inadimplentes, definindo o quantum indenizatório segundo critérios de razoabilidade. Aduziu, ainda, que a agravante provou com os documentos a existência da cessão, mas não conseguiu colacionar provar idôneas do débito cedido, quanto à existência ou extensão.
+No ponto, relevante a menção aos seguintes trechos da sentença e do acórdão recorrido: (fls. 87 e 152, e-STJ):
+O réu insiste na regularidade do apontamento, aduzindo que é cessionário de crédito recebido de instituição financeira, referente a dívidas vinculadas a relacionamento bancário com a parte autora.
+Provou com os documentos de fls. 63, a existência da cessão, mas não conseguiu colacionar provas idôneas do débito cedido, quanto à existência ou extensão.
+Colacionou apenas contrato bancário de fls.82/85, com indicação de negócio firmado entre a autora e o Banco Santander. No entanto, a ré em sua própria defesa indica que o suposto débito tem origem em contrato firmado com Aymoré, justamente a empresa que figura como cedente (fl. 63). Mas tal documento não foi trazido aos autos, apenas um instrumento que indica outra instituição financeira como contratada.
+Imprescindível a juntada do contrato originário firmado a fim de fazer prova cabal do negócio por ocasião de sua defesa, porque não sendo documento novo, inviável a dilação probatória para tal fim (art. 396 do CPC). No entanto, nada trouxe que justificasse a sua atitude, e daí sem qualquer possibilidade de se manter registrada a restrição creditícia, que deve ser expurgada do cadastro do Serasa.
+Em que pesem os argumentos do réu, não restou comprovado qual a origem do débito, que pudesse dar ensejo à referida negativação.
+O documento trazido aos autos à fls. 82/85 comprova um contrato existente em nome da autora havido com o Banco Santander. Não foram trazidos documentos comprovando a contratação entre a autora e o réu. O ônus dessa prova efetivamente lhe incumbia, na forma do artigo 333, II, do Código de Processo Civil.
+Nesse contexto, verifica-se que a restrição em nome da autora foi indevida, ante a inexistência de comprovação da dívida em questão, sendo evidente a negligência do réu na prestação de seus serviços, devendo assumir os riscos inerentes à sua atividade nos termos do artigo 14 do Código de Defesa do Consumidor.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+2. No que tange à necessidade de demonstração do dano como requisito pra o deferimento do pedido indenizatório, sem razão a insurgente, porquanto a jurisprudência desta Corte firmou o entendimento de que, nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral configura-se in re ipsa, ou seja, prescinde de prova.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO DE DANOS. INSCRIÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. EXISTÊNCIA DE OUTRAS NOTIFICAÇÕES ANTERIORES. IMPROCEDÊNCIA. RECURSO ESPECIAL OBSTADO NOS TERMOS DO ART. 543-C, § 7º, I, DO CPC/73 E SÚMULAS NºS 284 DO STF E 83 DO STJ. AGRAVO QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO É INVIÁVEL EM HIPÓTESES DE INADMISSÃO COM FUNDAMENTO NA APLICAÇÃO DE ENTENDIMENTO FIRMADO EM JULGAMENTO DE RECURSOS REPETITIVOS (ART.1.042 DO NCPC) POR SE TRATAR DE ERRO GROSSEIRO.
+(..)
+2. A jurisprudência desta Corte firmou o entendimento de que a inscrição indevida em cadastro negativo de crédito, bem como o protesto indevido caracterizam, por si sós, dano in re ipsa, o que implica responsabilização por danos morais.
+3. Entretanto, existindo registros anteriores desabonadores em seu nome, em razão de débitos não pagos, é aplicável, à espécie, a Súmula nº. 385 do STJ, segundo a qual "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento."
+4. Com o advento da nova ordem processual civil, configura erro grosseiro a interposição de agravo contra decisão que não admite recurso especial fundado na aplicação de entendimento firmado em julgamento de recurso repetitivo.
+5. Em virtude do não provimento do presente recurso e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp 1075299/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 03/08/2017, DJe 24/08/2017)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSTITUIÇÕES FINANCEIRAS. DANOS CAUSADOS POR FRAUDES OU DELITOS PRATICADOS POR TERCEIROS. RESPONSABILIDADE OBJETIVA. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO IN RE IPSA. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. AGRAVO DESPROVIDO.
+(..)
+2. Está pacificado nesta eg. Corte que a inscrição indevida em cadastro negativo de crédito, por si só, configura dano in re ipsa.
+3. É entendimento desta eg. Corte de Justiça de que o valor estabelecido a título de indenização por danos morais, pelas instâncias ordinárias, pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se verifica no presente caso, em que foi fixada em R$ 30.000,00 por ter sido incluído o nome da agravada no cadastro de proteção ao crédito pela instituição bancária, com a qual a recorrida nem sequer mantinha relacionamento, em virtude da fraude praticada por terceiro.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 987.274/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Desse modo, reconhecido o ato ilícito ensejador do dano moral, correta a decisão que fixou o correspondente dever de reparação.
+3. Incide, o enunciado da Súmula n. 7 do STJ no que tange ao exame da pretensão voltada à redução da verba indenizatória fixada em R$ 10.000,00 (dez mil reais).
+Não obstante o grau de subjetivismo que envolve o tema, uma vez que não existem critérios predeterminados para a quantificação do dano moral, esta Corte Superior tem reiteradamente se pronunciado no sentido de que a indenização deve ser suficiente a restaurar o bem estar da vítima, desestimular o ofensor em repetir a falta, não podendo, ainda, constituir enriquecimento sem causa ao ofendido.
+Com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte ficaria limitada aos casos em que o quantum fosse irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição.
+Assim, se o arbitramento do valor da compensação por danos morais foi realizado com moderação, proporcionalmente ao grau de culpa, ao nível sócio-econômico do recorrido e, ainda, ao porte econômico do recorrente, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, fazendo uso de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso, o STJ tem por coerente a prestação jurisdicional fornecida (RESP 259.816/RJ, Rel. Min. Sálvio de Figueiredo Teixeira, DJ de 27/11/2000).
+Dessa forma, para modificar as conclusões consignadas no acórdão impugnado e concluir estar exagerado o quantum indenizatório como quer a parte recorrente, seria necessária a incursão no conjunto fático-probatório das provas e nos elementos de convicção dos autos, o que é vedado em sede de recurso especial (Súmula nº 7 do STJ).
+Nesse sentido: AgRg no REsp 1220686/MA, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 6/9/2011 e AgRg no AREsp 57.363/RS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 2/12/2011.
+Por outro lado, este Tribunal Superior tem prelecionado ser razoável a condenação no equivalente a até 50 (cinquenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito (REsp 295.130/SP, Rel. Min. Humberto Gomes de Barros, DJ 04.04.2005).
+Com a mesma orientação, também:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. VALOR EXORBITANTE DA INDENIZAÇÃO. NÃO VERIFICAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ.
+1. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em 50 (cinquenta) salários-mínimos.
+2. Agravo regimental não provido.
+(AgRg no REsp 1557170/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 10/05/2016)
+4. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+(..)
+5. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido.
+(AgInt no AREsp 1052768/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/02/2018, DJe 23/02/2018)
+5. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
