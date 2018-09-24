@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE PRESTAÇÃO DE CONTAS. DISPOSITIVO TIDO POR VIOLADO. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDICAÇÃO DO ART. 535 DO CPC/73. SÚMULA Nº 211 DO STJ. ALEGADA IMPENHORABILIDADE. BEM DE FAMÍLIA. NÃO COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. RECURSO NÃO CONHECIDO.
+DECISÃO
+[NOME] - FUNDAÇÃO DE PREVIDÊNCIA DA CASA DA MOEDA DO BRASIL ([NOME]) propôs ação de prestação de contas contra [NOME] [NOME] BARBOSA ([NOME] [NOME]).
+O juízo de piso julgou a ação procedente para condenar o réu a prestar as contas exigidas pela parte autora, no prazo de 48 (quarenta e oito) horas, sob pena de não poder impugnar as apresentadas pela autora, com base no art. 915, § 2º, do CPC/73 (e-STJ, fls. 924/927).
+O Tribunal a quo deu parcial provimento ao recurso de apelação interposto por [NOME] [NOME] tão-somente para que fosse desbloqueada a quantia que lhe era devida a título de contribuições vertidas ao plano de previdência privada complementar. O apelo adesivo interposto por [NOME] foram desprovidos.
+O acórdão recebeu a seguinte ementa
+APELAÇÃO CÍVEL. MEDIDA CAUTELAR INOMINADA INCIDENTAL À AÇÃO DE PRESTAÇÃO DE CONTAS. INDISPONIBILIDADE DE BENS IMÓVEIS E BLOQUEIO DE ATIVOS FINANCEIROS EM INSTITUIÇÕES FINANCEIRAS EM NOME OU CPF DO RÉU. BLOQUEIO DE VERBAS ORIUNDAS A SEREM RESTITUÍDAS AO RÉU, PROVENIENTES DE CONTRIBUIÇÃO PARA O PLANO DE PREVIDÊNCIA COMPLEMENTAR, RESCINDIDO JUNTAMENTE COM O CONTRATO DE TRABALHO JUNTO À AUTORA. PROVIMENTO DO APELO DO RÉU PARA DESBLOQUEAR VERBAS PREVIDENCIÁRIAS FACE AO SEU CARÁTER ALIMENTAR. NÃO COMPROVAÇÃO, PELO AUTOR, DE QUE O IMÓVEL EM QUE RESIDE SEJA BEM DE FAMÍLIA. DESPROVIMENTO DO RECURSO ADESIVO DA AUTORA, PARA A EXTENSÃO DA LIMINAR AO BLOQUEIO DE VERBAS EM INSTITUIÇÕES FINANCEIRAS, SENDO O BLOQUEIO DOS IMÓVEIS SUFICIENTE PARA SATISFAZER O CRÉDITO APURADO NA PRESTAÇÃO DE CONTAS. PROVIMENTO PARCIAL DO RECURSO DO RÉU, AQUI APELANTE 1, E DESPROVIMENTO DO RECURSO ADESIVO DA AUTORA, ORA APELANTE 2 (e-STJ, fls. 1.033/1.034).
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fl. 1.128/1.131).
+Irresignada, [NOME] [NOME] interpõe recurso especial com fundamento na alínea a do permissivo constitucional, sob o fundamento de que há violação dos arts. 1.715 do CC/02; e 1º e 5º da Lei nº 8.009/90, sustentando a impenhorabilidade do imóvel bem de família (e-STJ, fls. 1.209/1.216).
+Com contrarrazões (e-STJ, fls. 1.261/1.276), o recurso especial não foi admitido (e-STJ, fls. 1.278/1.284), tendo seguimento por força de agravo provido (e-STJ, fl. 1.380).
+Opina o Ministério Público Federal pelo não desprovimento do recurso especial (e-STJ, fls. 1.456/1.465).
+É o relatório.
+DECIDO.
+O inconformismo de [NOME] [NOME] não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Os temas referentes aos dispositivos tidos por violados não foram apreciados pelo acórdão recorrido, apesar da oposição de embargos de declaração, estando ausente o indispensável debate prévio. Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Incidente a Súmula nº 211 do STJ.
+Ressalte-se que caberia ao recorrente, nas razões do Especial, alegarem a violação do art. 535 do CPC/73, a fim de que esta Corte pudesse averiguar a existência de possível omissão, contradição ou obscuridade no julgado, o que não foi feito.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. 1. SÚMULA 291/STJ. PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA DA SÚMULA 83/STJ. 2. REEXAME DA CONCLUSÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. OFENSA AO ART. 114 DO CC. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC. SÚMULAS 282/STF E 211/STJ.
+4. AGRAVO REGIMENTAL IMPROVIDO.
+1.  ..
+2. É vedado em recurso especial o reexame das circunstâncias fáticas da causa, ante o disposto no enunciado n. 7 da Súmula do STJ: "A pretensão de simples reexame de provas não enseja recurso especial." 3. Não tendo sido a matéria decidida na instância ordinária à luz do preceito legal indicado pela parte (art. 114 do CC), mesmo tendo sido opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados 282 da Súmula do Supremo Tribunal Federal e 211 da Súmula do STJ. Ademais, o recorrente não interpôs seu recurso especial alegando a ofensa ao art. 535 do CPC/1973.
+4. Agravo regimental improvido.
+(AgRg no AREsp 661.281/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 27/9/2016, DJe 6/10/2016)
+De qualquer forma, o Tribunal de origem entendeu pela não comprovação pelo autor de que o imóvel em que residia fosse bem de família. Assim concluiu
+Em verdade, como se vê de fls. 185, que é a declaração de rendas do exercício de 2005, o réu/apelante possui três imóveis, sendo certo que consta penhora ordenada pelo Juízo da 12a Vara de Fazenda da Capital junto à matrícula do imóvel rcsidcncia do rcu (Rua Silva Castro, 44/1001 - Copacabana) desde 28/07/2003. Quanto ao imóvel situado na Av. Nossa Senhora de Copacabana, 793/703, consta escritura de promessa de compra e venda do réu a sua esposa, em 27/07/2005, na qual os proprietários declaram residir no imóvel prometido, oque contrasta com a tese de que residem no imóvel da Rua Castro Silva, 44/1001. Destaque-se que o ato de promessa de venda foi efetivado quando da vigência da ação de prestação de contas e desta cautelar" (e-STJ, fl. 1036).
+Nessas condições, com fundamento no art. 932, do NCPC c/c Súmula nº 568 do STJ, NÃO CONHEÇO do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
