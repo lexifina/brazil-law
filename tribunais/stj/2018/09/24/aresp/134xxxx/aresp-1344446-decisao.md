@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. PRONÚNCIA. TESE DE LEGÍTIMA DEFESA. AUSÊNCIA DE PROVA INEQUÍVOCA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de Alagoas que negou seguimento a recurso especial fundamentado no art. 105, III, a, da Constituição Federal (Recurso em Sentido Estrito n.º 0004257-88.2010.8.02.0001).
+Consta nos autos que os Agravantes foram pronunciados como incursos no art. 121, § 2º, I, c.c. o art. 14, II, ambos do Código Penal (fls. 219-230).
+Irresignada, a Defesa interpôs recurso em sentido estrito no Tribunal de origem, ao qual foi negado provimento, nos termos da seguinte ementa (fl. 271):
+"PENAL. PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. DECISÃO DE PRONÚNCIA. TENTATIVA DE HOMICÍDIO. MATERIALIDADE COMPROVADA. INDÍCIOS SUFICIENTES DE AUTORIA. AUSÊNCIA DE VIOLAÇÃO AO ART. 155 DO CPP. CONSTITUCIONALIDADE DO PRINCÍPIO IN DUBIO PRO SOCIETATE. DÚVIDAS QUANTO À LEGÍTIMA DEFESA PUTATIVA. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+1 Diferentemente do alegado pelos recorrentes, o magistrado de primeiro grau não utilizou apenas elementos colhidos na investigação, citando depoimentos obtidos na fase judicial, o que afasta qualquer violação ao art. 155 do Código de Processo Penal.
+2 - Na fase de formação da culpa no procedimento do Tribunal do Júri o que prevalece é o princípio do in dubio pro societate, devendo os acusados serem pronunciados se o juiz estiver "convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação" (art. 413 do CPP), sem que isso configure violação ao princípio da presunção da inocência.
+3 - Não estando cabalmente demonstrado que o recorrente praticou os atos em legítima defesa putativa, deve ser mantida a decisão de pronúncia.
+4 Recurso em Sentido Estrito conhecido e não provido. Decisão unânime."
+Nas razões deste recurso especial, sustenta-se, em síntese, contrariedade ao disposto nos arts. 23, II, e 25, ambos do Código Penal, sob o argumento de que "caracterizada a legítima defesa putativa, não poderiam os recorrentes ter tido sua pronúncia confirmada pelo E. Tribunal de Justiça de Alagoas" (fl. 299).
+O recurso especial não foi admitido pelo Tribunal a quo em razão do óbice contido na Súmula n.º 7 desta Corte Superior (fls. 310-313).
+Interposto o agravo em recurso especial (fls. 321-325), o Ministério Público estadual apresentou contrarrazões (fls. 330-331).
+O Ministério Público Federal, em parecer da lavra do Dr. [NOME], opinou pelo conhecimento e desprovimento do agravo (fls. 346-349).
+É o relatório.
+Decido.
+A Corte estadual, após examinar detidamente o conjunto fático-probatório dos autos, concluiu não haver prova suficiente de que os Agravantes tenham agido em legítima defesa putativa. Ao revés, constatou-se a existência de duas versões para os fatos, de forma que a dúvida quanto à veracidade destes relatos devesse ser submetida ao Tribunal do Júri, juiz natural dos crimes dolosos contra a vida.
+Confira-se, por oportuno, o seguinte excerto do acórdão impugnado:
+"Por esses motivos, bem fundamentou o juízo a quo ao entender não estar cabalmente demonstrado que os recorrentes praticaram os atos em legítima defesa. Apesar de haver indícios de que a vítima teria ameaçado a família do réus, há dúvidas se aquela teria agredido-os inicialmente, de forma que configurasse uma reação dos recorrentes a uma agressão atual ou iminente.
+Além disso, os acusados, ao confessarem a prática do ato em legítima defesa putativa, assumiram que foram ao encontro da vítima para tomar satisfação por supostas ameaças que esta havia feito. Por sua vez, a versão da acusação é de que os recorrentes pretendiam se vingar da vítima, a qual assassinou o irmão daqueles, tendo cumprido parte da pena.
+Destaque-se que [NOME] (vítima) encontra-se, atualmente, foragido desde agosto de 2008, quando havia progredido para o regime semiaberto, o que impossibilitou sua oitiva em juízo.
+Acrescente-se, por fim, que consta no laudo do exame de corpo de delito de fl. 46 que, além dos ferimentos por arma de fogo (instrumento pérfuro - contundentes) e provenientes do banco (instrumento contundente), a vítima também sofreu ferimentos decorrentes de instrumento cortante, o que diverge da versão apresentada pelos recorrentes.
+Dessa forma, tendo os próprios acusados confessado em seus interrogatórios que atiraram e arremessaram um banco na vítima e havendo duas versões quanto à legítima defesa, há indícios suficientes para a manutenção da pronúncia de [NOME] e [NOME]." (fl. 279, sem grifos no original.)
+De fato, conforme os precedentes desta Corte Superior, "a absolvição sumária por legítima defesa, na firme compreensão da jurisprudência e doutrina pátrias, somente há de ter lugar quando houver prova unívoca da excludente, a demonstrá-la de forma peremptória" (HC 295.547/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/06/2015, DJe 04/09/2015).
+No caso, contudo, havendo sido verificado pelas instâncias ordinárias a inexistência de prova inequívoca quanto à alegada legítima defesa e ante a existência de controvérsias acerca da matéria fática, a reversão da pronúncia dos Agravantes, com o fim de absolvê-los sumariamente, exigiria aprofundado reexame-probatório, o que não é possível nos estreitos limites do recurso especial (Súmula nº 7/STJ).
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRONÚNCIA. HOMICÍDIO. TESE DE LEGÍTIMA DEFESA. IMPRONÚNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para alterar a conclusão a que chegaram as instâncias ordinárias e decidir pelo reconhecimento das causas excludentes de ilicitude da legítima defesa, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "a pretensão de simples reexame de prova não enseja recurso especial."
+2. Agravo regimental não provido." (AgRg no AREsp 1.129.061/MA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe 01/12/2017.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. PLEITO DE ABSOLVIÇÃO SUMÁRIA. LEGÍTIMA DEFESA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Para alterar o entendimento consignado no acórdão recorrido acerca da pronúncia do agravante, bem como sobre a tese da legítima defesa, no caso, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, conforme o disposto na Súmula 7/STJ.
+2. Agravo regimental desprovido." (AgRg no AREsp 1074.678/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/08/2017, DJe 28/08/2017.)
+Ante o exposto, CONHEÇO do agravo para, com fundamento no art. 932, inciso III, do CPC, c.c. os arts. 3.º do CPP e 253, parágrafo único, inciso II, alínea a, do RISTJ, NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
