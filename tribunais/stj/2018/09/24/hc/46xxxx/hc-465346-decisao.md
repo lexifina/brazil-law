@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SIDNEI DE LIMA, em face de acórdão do Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o paciente foi condenado à pena de 2 meses, em regime aberto, por infração ao art. 155, §2º, c/c art. 14, II, do Código Penal, substituindo-se a reprimenda corporal por uma restritiva de direitos, consistente em prestação pecuniária.
+O Tribunal de origem negou provimento ao apelo defensivo, mantendo integralmente a condenação e determinando o cumprimento para que a pena restritiva de direito fosse executada provisoriamente (fls. 158/168).
+Pela presente ordem, a defesa requer a suspensão da execução provisória das penas restritivas de direitos até o trânsito em julgado da condenação.
+A liminar foi deferida (fl. 177).
+O Ministério Público Federal ofertou parecer (fls. 181/182), manifestando-se pela denegação da ordem do writ.
+É o relatório.
+DECIDO.
+O Tribunal de origem decretou a execução provisória da pena restritiva de direito nos seguintes termos (fl. 165/167):
+Embora não se desconheça decisões em sentido contrário, ou seja, denegando a execução provisória aos casos em que a pena corporal for substituída por restritiva de direitos - a exemplo do Embargos de Divergência n. 1.619/087/SC, do Superior Tribunal de Justiça, de Relatoria do Ministro Jorge Mussi e dos Embargos de Declaração n. 0002804-27.2016.8.24.0004, desta Corte de Justiça, de Relatoria do Desembargador Carlos Alberto Civinski; este Relator, refluindo de posicionamento e em conformidade com o majoritário entendimento jurisprudencial, compreende que o início do processo de execução da pena condenatória, ainda que relacionada à fixação de reprimenda restritiva de direitos, é plenamente cabível, mormente porque também abrange o decreto condenatório imposto ao apenado, sendo, igualmente, sanção penal.
+Nesse sentido, cita-se da jurisprudência deste Tribunal:
+ ..  EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. MANUTENÇÃO DA SENTENÇA CONDENATÓRIA. PRECLUSÃO DA MATÉRIA FÁTICA. NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (HC N. 126.292/SP) ADOTADA POR ESTA CÂMARA CRIMINAL (AUTOS N. 0000516-81.2010.8.24.0048). INTIMAÇÃO PARA CUMPRIMENTO IMEDIATO DAS RESTRITIVAS DE DIREITO. PROVIDÊNCIAS QUE DEVEM SER ADOTADAS PELO JUÍZO A QUO. RECURSO CONHECIDO E DESPROVIDO. (Apelação Criminal n. 0000018-30.2014.8.24.0020, de Criciúma, Terceira Câmara Criminal, Rel. Des. Ernani Guetten de Almeida, j. em 07/11/2017)
+ ..
+Assim, a determinação de imediata execução da pena, após o julgamento do recurso de apelação por este Tribunal, seja aos casos em que houver somente a fixação de pena privativa de liberdade, seja aos casos em que a reprimenda corporal for substituída por restritivas de direitos, não fere o princípio constitucional da presunção de inocência, uma vez que, neste momento processual, encerrada está a possibilidade de reexame da matéria fático- probatória, encontrando-se formada a culpa da agente.
+Além disso, a eventual interposição de Recurso Especial e/ou Extraordinário não tem o condão de impedir a execução da sentença condenatória, confirmada por acórdão do Tribunal, uma vez que ambos os recursos, via de regra, não possuem efeito suspensivo (art. 637 do Código de Processo Penal e art. 995 do Código de Processo Civil).
+Desse modo, conclui-se pela necessidade do início da execução da pena, de modo que o juízo da condenação deverá tomar as providências necessárias para o seu imediato cumprimento, nos termos do posicionamento do Supremo Tribunal Federal.
+Ante o exposto, vota-se no sentido de conhecer do recurso e negar- lhe provimento, determinando-se, de ofício, ao juízo da condenação que adote as providências necessárias para o imediato cumprimento da pena restritiva de direitos imposta, após o pleno exercício do duplo grau de jurisdição.
+Nessa perspectiva, a Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou orientação, fixada pelo Pleno do Supremo Tribunal Federal (HC 126.292/MG, de 17/2/2016), de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção da inocência.
+Atinente à matéria, ressalvada pessoal compreensão diversa, a Terceira Seção, no julgamento do REsp 1.619.087/SC, na sessão de 14/6/2017, adotou orientação quanto à impossibilidade de execução provisória de pena restritiva de direitos, de modo que esta só poderá ser executada após trânsito em julgado da sentença penal condenatória, nos estritos termos do art. 147 da Lei de Execução Penal.
+Ante o exposto, concedo o habeas corpus para garantir ao paciente o direito de que não seja executada provisoriamente a pena restritiva de direitos até o trânsito em julgado da sentença condenatória.
+Comunique-se.
+Publique-se.
+Intimem-se.
