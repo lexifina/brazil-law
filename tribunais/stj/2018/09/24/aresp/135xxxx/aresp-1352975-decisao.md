@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Instituto Nacional do Seguro Social - INSS contra decisão que não admitiu o recurso especial com base no óbice da Súmula 7 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 248):
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE EM REGIME DE ECONOMIA FAMILIAR. BOIA-FRIA. REQUISITOS LEGAIS. COMPROVAÇÃO. SÚMULA 149 DO STJ. CONSECTÁRIOS. LEI 11.960/2009. TUTELA ESPECÍFICA.
+Satisfeitos os requisitos legais de idade mínima e prova do exercício de atividade rural por tempo igual ao número de meses correspondentes à carência, é devida a aposentadoria rural por idade.
+Considera-se provada a atividade rural do segurado especial havendo início de prova material complementado por idônea prova testemunhal.
+Em se tratando de trabalhador boia-fria, a aplicação da Súmula 149 do STJ é feita com parcimônia em face das dificuldades probatórias inerentes à atividade dessa classe de segurado especial.
+Declarada pelo Supremo Tribunal Federal a inconstitucionalidade do art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/2009, os juros moratórios devem ser equivalentes aos índices de juros aplicáveis à caderneta de poupança (STJ, REsp 1.270.439/PR, Ia Seção, Relator Ministro Castro Meira, 26/06/2013). No que tange à correção monetária, permanece a aplicação da TR, como estabelecido naquela lei, e demais índices oficiais consagrados pela jurisprudência.
+Tramitando a ação na Justiça Estadual do Paraná, deve o INSS responder integralmente pelo pagamento das custas processuais (Súmula nº 20 do TRF4).
+O cumprimento imediato da tutela específica, diversamente do que ocorre no tocante à antecipação de tutela prevista no art. 273 do CPC, independe de requerimento expresso do segurado ou beneficiário e o seu deferimento sustenta-se na eficácia mandamental dos provimentos fundados no art. 461 do CPC.
+O insurgente alega a existência de violação do art. 1.022 do CPC/2015, uma vez que o acórdão combatido não se manifestou sobre a alegação de que o cônjuge da recorrida possui atividade de natureza urbana, o que descaracteriza sua condição de segurada especial.
+Aponta malferimento dos arts. 11, VII, § 1º, 55, § 3º, da Lei n. 8.213/1991, porquanto o cônjuge da recorrida possui atividade de natureza urbana, o que descaracteriza sua condição de segurada especial.
+É o relatório.
+Não merece prosperar a tese de violação do art. 1.022 do CPC, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Conforme se extrai do acórdão recorrido (e-STJ, fl. 242):
+O fato de o marido da requerente ter exercido atividade urbana (CNIS - fls. 25), por si só, não descaracteriza a condição de segurada especial da autora, de vez que não logrou a autarquia demonstrar que a subsistência do grupo familiar fosse suprida somente com os rendimentos por ele percebidos, tornando dispensáveis os ganhos auferidos pela demandante como trabalhadora rural.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No tocante à comprovação da condição de segurada especial pela recorrida, o Tribunal de origem, com base nos documentos dos autos, entendeu que (e-STJ, fl. 240):
+A prova testemunhal corrobora a pretensão exposta na inicial, uma vez que as testemunhas foram uníssonas em confirmar que a parte autora trabalhava nas lides rurais.
+ ..
+Da análise do conjunto probatório, conclui-se que os documentos juntados constituem início de prova material, para o que, consideradas as peculiaridades do trabalho na agricultura, não se pode exigir que sejam apenas por si mesmos conclusivos ou suficientes para a formação de juízo de convicção.
+E aceitável que a prova contenha ao menos uma indicação segura de que o fato alegado efetivamente ocorreu, vindo daí a necessidade de sua complementação pela prova oral, a qual, como se viu, confirmou de modo coerente c preciso o trabalho rural da parte autora, razão porque a sentença deve ser reformada pela Turma.
+O fato de o marido da requerente ter exercido atividade urbana (CNIS - fls. 25), por si só, não descaracteriza a condição de segurada especial da autora, de vez que não logrou a autarquia demonstrar que a subsistência do grupo familiar fosse suprida somente com os rendimentos por ele percebidos, tornando dispensáveis os ganhos auferidos pela demandante como trabalhadora rural. - grifos acrescidos
+Da leitura do acórdão recorrido dessume-se que a Corte local firmou seu entendimento com base nas provas dos autos, assim, a revisão do julgado implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+Por fim, o precedente indicado pelo recorrente (RESP 1.304.479/SP) está em consonância com o entendimento da Corte local, uma vez que a recorrida apresentou documentos que comprovam sua condição de segurada especial. Ademais, o fato de o marido da agravada ter exercido atividade urbana não descaracteriza, por si só, a condição de segurada, uma vez que o recorrente não comprovou que a subsistência do grupo familiar era suprida somente com os rendimentos por ele recebidos.
+No aspecto:
+RECURSO ESPECIAL. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. TRABALHO RURAL. ARTS. 11, VI, E 143 DA LEI 8.213/1991. SEGURADO ESPECIAL. CONFIGURAÇÃO JURÍDICA. TRABALHO URBANO DE INTEGRANTE DO GRUPO FAMILIAR. REPERCUSSÃO. NECESSIDADE DE PROVA MATERIAL EM NOME DO MESMO MEMBRO. EXTENSIBILIDADE PREJUDICADA.
+1. Trata-se de Recurso Especial do INSS com o escopo de desfazer a caracterização da qualidade de segurada especial da recorrida, em razão do trabalho urbano de seu cônjuge, e, com isso, indeferir a aposentadoria prevista no art. 143 da Lei 8.213/1991.
+2. A solução integral da controvérsia, com fundamento suficiente, não evidencia ofensa ao art. 535 do CPC.
+3. O trabalho urbano de um dos membros do grupo familiar não descaracteriza, por si só, os demais integrantes como segurados especiais, devendo ser averiguada a dispensabilidade do trabalho rural para a subsistência do grupo familiar, incumbência esta das instâncias ordinárias (Súmula 7/STJ).
+4. Em exceção à regra geral fixada no item anterior, a extensão de prova material em nome de um integrante do núcleo familiar a outro não é possível quando aquele passa a exercer trabalho incompatível com o labor rurícola, como o de natureza urbana.
+5. No caso concreto, o Tribunal de origem considerou algumas provas em nome do marido da recorrida, que passou a exercer atividade urbana, mas estabeleceu que fora juntada prova material em nome desta em período imediatamente anterior ao implemento do requisito etário e em lapso suficiente ao cumprimento da carência, o que está em conformidade com os parâmetros estabelecidos na presente decisão.
+6. Recurso Especial do INSS não provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+(REsp 1.304.479/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 19/12/2012)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
