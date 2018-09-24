@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. AUMENTO NA TERCEIRA FASE DA DOSIMETRIA. TERCEIRA ETAPA DA DOSIMETRIA DA PENA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. CRITÉRIO QUANTITATIVO. IMPOSSIBILIDADE. SÚMULA 443/STJ. AGRAVO DESPROVIDO.
+    1. De acordo com a Súm. n. 443/STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+    2. Na hipótese, o aumento da pena em fração superior a 1/3 ocorreu em razão da quantidade de majorantes (emprego de arma e restrição de liberdade), sem fundamentação baseada em circunstâncias que desbordem do tipo penal circunstanciado, a evidenciar a necessidade de aplicação da fração mínima.
+    3. Agravo regimental não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que:
+    (i) “o egrégio Superior Tribunal de Justiça violou frontalmente a Constituição da República de 1988, ao atuar de forma mais restrita do que lhe impõe a ordem constitucional, em seu art. 105, III”;
+    (ii) “nos termos de orientação sumulada da Suprema Corte, aplicável ao STJ, nada impede o último tribunal superior de, uma vez conhecido o recurso especial ou habeas corpus, aplicar o direito à espécie, em particular a Constituição Federal, sob pena de ainda ofender o art. 93, IX, da mesma Carta”;
+    (iii) “o E. Superior Tribunal de Justiça, por sua Quinta Turma, violou frontalmente o princípio constitucional da individualização da pena, previsto no art. 5º, inciso XLVI, da Constituição Federal. Fixou a fração de aumento, na terceira fase da dosimetria, em 1/3 ao fundamento de que a fração de 1/2 havia sido definida com base em critério meramente matemático”;
+    (iv) “é preciso dar exame à matéria segundo a razoabilidade constitucional, ou seja, segundo a concepção do devido processo legal em sua acepção substantiva (art. 5º, inciso LIV, da Constituição Federal)”;
+    (v) “ter o paciente, mediante uso de arma de fogo e com restrição de liberdade da vítima, subtraído seu veículo, revela a sua periculosidade e supera a descrição das elementares do tipo penal praticado”.
+    O recurso é inadmissível. Isso porque a jurisprudência do Supremo Tribunal Federal (STF) é no sentido de que “não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado daquele Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto na referida norma, o que não ocorreu no caso concreto” (AI 658.872-AgR, Rel. Min. Dias Toffoli).
+    Tal como consta no parecer do Ministério Público Federal, “sobre o tema ora em debate, cumpre salientar que “por ocasião do AI nº 742.460/RJ, Relator o Ministro Cezar Peluso, o Supremo Tribunal Federal concluiu pela ausência de repercussão geral de questões relativas à dosimetria da pena, em virtude de sua natureza infraconstitucional” (ARE 895.011 AgR/GO, rel. Min. Dias Toffoli, DJe 10.2.2016) (g.n.).”
+    Ademais, por ausência de questão constitucional, o STF rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    No caso, para chegar a conclusão diversa do acórdão recorrido, imprescindíveis seriam a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF).
+    Por fim, cabe ressaltar que o STF tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
