@@ -1,0 +1,35 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ASSOCIAÇÃO CRIMINOSA. COMANDO VERMELHO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. INVIABILIDADE.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, explicitada na participação do réu em associação criminosa voltada para a prática de homicídios, facção conhecida como Comando Vermelho, justifica-se a medida extrema em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes. Precedentes desta Corte.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME], em face de acórdão do Tribunal de Justiça do Ceará, que denegou o writ de origem.
+O acórdão do Tribunal a quo tem a seguinte ementa (fl. 97):
+HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E ASSOCIAÇÃO CRIMINOSA. ALEGADA AUSÊNCIA DE REQUISITOS PARA O DECRETO DA PREVENTIVA. DECISÃO DEVIDAMENTE FUNDAMENTADA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. CAUTELARES DIVERSAS DA PRISÃO QUE SE MOSTRAM INSUFICIENTES. WRIT CONHECIDO E DENEGADO.
+- Observa-se que a prisão fora devidamente justificada na necessidade de garantia da ordem pública, razão pela qual, atendidos os requisitos instrumentais do art. 312 do CPP, deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes, estando ausentes os critérios básicos da necessariedade e adequabilidade.
+- Os fatos narrados pela autoridade policial indicam a prática de crimes graves, envolvendo o porte de armamento de uso restrito, inclusive simulacro de granada, além de haver sido indicada a possível participação dos autuados em associação criminosa voltada para a prática de homicídios, o que reforça a grávida de concreta dos fatos.
+- É de se registrar que não pode o Judiciário, nesse momento de insegurança vivido em nosso estado, apresentar qualquer traço de benevolência, devendo oferecer uma resposta à altura e, assim, manter presos os que insistem em causar mais temor à sociedade.
+- Ordem conhecida e denegada.
+Aponta o recorrente, em suma, a ausência dos requisitos do art. 312 do Código de Processo Penal, requerendo, liminarmente e no mérito, a concessão da liberdade provisória mediante a imposição de medidas cautelares diversas da prisão.
+O recorrente foi preso em flagrante em 27/12/2017, posteriormente convertido em preventiva, sendo denunciado pela prática dos delitos descritos nos arts. 16, IV, da Lei n. 10.826/2003 e 2º da Lei n. 12.850/2013.
+A liminar foi indeferida às fls. 131/133.
+O parecer do Ministério Público foi pelo improvimento recursal.
+Na origem, processo n. 00008114-10.2017.8.06.0156, o Ministério Público manifestou-se em alegações finais, e a defesa ainda não se manifestou, conforme informações processuais eletrônicas em 14/8/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Como relatado, aponta o recorrente a ausência dos requisitos do art. 312 do Código de Processo Penal, requerendo, liminarmente e no mérito, a concessão da liberdade provisória mediante a imposição de medidas cautelares diversas da prisão.
+O decreto prisional assim dispôs (fl. 43):
+Trata-se de auto de prisão em flagrante de [NOME] e FRANCISCO EMÍLIO DA [NOME] GOMES, pela suposta prática delituosa insculpida nos arts. 288 do CP c art. 16 da Lei 10826/03 , fato ocorrido em 27/12/2017, por volta das 17:00 horas, neste Município.
+Da análise do procedimento, infere-se que foram atendidas as formalidades legais, bem como foram garantidos aos flagranteados os direitos constitucionais pertinentes.
+Vê-se, portanto, que foram observados os ditames constitucionais previstos no art. 5o, inciso LXII, conforme as peças que compõem o flagrante, razão pela qual HOMOLOGO a prisão em flagrante dos indiciados.
+Outrossim, não havendo notícia de que os indiciados constituíram advogados, determino que seja comunicada a Defensoria Pública para que regularize, em prazo que não pode exceder a 5 dias, conforme determina Resolução nº 66/2009 do CNJ, corri redação dada pela Resolução nº 87/2009.
+De início, destaco que o caso não comporta o imediato relaxamento de prisão ou a concessão da liberdade, tendo em vista que os fatos narrados pela autoridade policial indicam a prática de crimes graves, envolvendo o porte de armamento de uso restrito, inclusive simulacro de granada, além de haver sido indicada a possível participação dos autuados em associação criminosa voltada para a prática de homicídios, o que reforça a gravidade concreta dos fatos. .. .
+Como se vê, possui fundamento concreto o decreto preventivo no fato de o réu, ora paciente, integrar associação criminosa voltada à prática de homicídios.
+Com efeito, a jurisprudência desta Corte é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes. Nesse sentido: RHC n. 46.094/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 4/8/2014; RHC n. 47242/RS - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 10/6/2014; RHC n. 46341/MS - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 11/6/2014; RHC n. 48067/ES - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 18/6/2014. Igual posicionamento se verifica no Supremo Tribunal Federal, v.g.: AgRg no HC n. 121622/PE - 2ª T. - unânime - Rel. Min. Celso de Mello - DJe 30/4/2014; RHC n. 122094/DF - 1ª T. - unânime - Rel. Min. Luiz Fux - DJe 4/6/2014; HC n. 115462/RR - 2ª T. - unânime - Rel. Min. Ricardo Lewandowski - DJe 23/4/2013.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, voto por negar provimento ao recurso em habeas corpus.
