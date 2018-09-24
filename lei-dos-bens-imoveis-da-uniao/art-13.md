@@ -4,3 +4,4 @@ Art. 13. Na concessão do aforamento, será dada preferência a quem, comprovada
 § 3º A notificação de que trata o § 1º será feita por edital publicado no Diário Oficial da União e, sempre que possível, por carta registrada a ser enviada ao ocupante do imóvel que se encontre inscrito na SPU.
 § 4º O edital especificará o nome do ocupante, a localização do imóvel e a respectiva área, o valor de avaliação, bem como o local e horário de atendimento aos interessados.
 § 5º (Revogado).
+§ 6º Para fins de regularização nos registros cadastrais da Secretaria do Patrimônio da União do Ministério do Planejamento, Desenvolvimento e Gestão dos aforamentos ocorridos até 10 de junho de 2014, as transferências de posse na cadeia sucessória do imóvel serão anotadas no cadastro dos bens dominiais da União para o fim de cobrança de receitas patrimoniais dos respectivos responsáveis, não dependendo do prévio recolhimento do laudêmio.
