@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do acórdão da 5ª Turma do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 14, p. 24):
+    “ADMINISTRATIVO. TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. TÍTULOS DE DOMÍNIO PLENO. NEGATIVA DE VALIDADE E EFICÁCIA. IMPOSSIBILIDADE SENÃO MEDIANTE ANULAÇÃO POR DECISÃO JUDICIAL.
+    1-) Autor possuidor de título de domínio pleno, cuja desconsideração só se admite à vista de anulação por decisão judicial. É que a escritura pública faz prova plena, como preceitua o § 1º, do artigo 134 do Código Civil de 1916 (art. 215 do CC de 2002), e uma vez inscrita no registro de imóveis, estabelece, em favor do adquirente, a presunção de titularidade do direito real (CC de 1916, artigo 859).
+    2-) A União não pode, por simples ato administrativo, com apoio em disposições do Decreto-lei nº 9.760/46 que, em princípio, conflitam com a lei de registros públicos (que é norma específica), negar validade e eficácia a títulos de domínio do autor, atributos estes que só poderão ser afastados por decisão judicial que os declare nulos ou inexistentes. Enquanto isto não ocorre, milita em favor dele a presunção iuris tantum de validade dos referidos títulos.
+    3-) Inatendidas as disposições dos artigos 11 e 61 §§ 1º e 2º, do Decreto-lei nº 9.760/46, tem-se por inobservadas as exigências do devido processo legal, notadamente o direito ao contraditório e à ampla defesa assegurados na Carta Magna.
+    4-) Acresce que por força da alteração introduzida no artigo 20, inciso IV, da Constituição Federal, pela Emenda Constitucional nº 46/2005, restaram excluídas do domínio da União as ilhas costeiras que contenham sede de Município. Note-se que em decorrência dessa modificação, o STF vem decidindo pela ilegitimidade da União para contestar, em ação de usucapião, o domínio de terrenos situados na ilha de Santa Catarina, onde sediado o Município de Florianópolis. Nesse sentido: RE 596853/SC, Min. RICARDO LEWANDOWSKI, DJ 02/03/2009 e RE 341140/SC, Min. SEPÚLVEDA PERTENCE, DJ 11/11/2005
+    5-) Apelação e remessa improvidas.”
+    Os embargos declaratórios opostos foram rejeitados (eDOC 18, p. 10).
+    No recurso extraordinário, interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXIII, XXXVI e LIV; e 20, VII; da Constituição da República.
+    Nas razões recursais, sustenta-se a invalidade do registro do imóvel ocupado pelo autor, que se situa em terreno de marinha, e que por essa razão, não é possível afastar a propriedade da União sobre tais bens (eDOC 24, p. 5).
+    O recurso extraordinário foi inadmitido com base na ofensa indireta e reflexa a dispositivo constitucional e mediante o óbice das Súmulas 279 e 282 do STF (eDOC 29).
+    É o relatório.
+    Primeiramente, verifica-se, que ao julgar o ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, Dje de 1º.08.2013 (Tema 660), esta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do direito adquirido e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário.
+    Quanto à matéria de fundo, o Plenário desta Corte, no exame do recurso-paradigma no RE 636.199-RG, da relatoria da Ministra Rosa Weber, DJe 16.10.2013, reconheceu a repercussão geral do tema 676, referente à situação dos terrenos de marinha localizados em ilhas costeiras com sede de município, após o advento da Emenda Constitucional 46/2005.
+    Quando do julgamento de mérito, ocorrido em 27.04.2017, o Plenário, por maioria de votos, firmou sua jurisprudência sobre a matéria assentando a seguinte tese: "A Emenda Constitucional nº 46/2005 não interferiu na propriedade da União, nos moldes do art. 20, VII, da Constituição da República, sobre os terrenos de marinha e seus acrescidos situados em ilhas costeiras sede de Municípios”.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem, para adequação à sistemática da repercussão geral, nos termos do art. 1.036 do CPC, c/c art. 328 do RISTF.
+    Publique-se.
+    Brasília, 24 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
