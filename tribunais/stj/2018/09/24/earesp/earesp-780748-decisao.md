@@ -1,0 +1,37 @@
+EMENTA
+EMBARGOS DE DIVERGÊNCIA. HARMONIA ENTRE O ACÓRDÃO EMBARGADO E A JURISPRUDÊNCIA DO STJ. SÚMULA 168/STJ.
+1. Não cabem embargos de divergência quando o acórdão embargado encontra-se no mesmo sentido da jurisprudência deste Tribunal. Súmula 168/STJ.
+2. Embargos de divergência desprovidos, com majoração de honorários.
+DECISÃO
+Cuida-se de embargos de divergência interpostos por [NOME] E OUTROS, contra acórdão proferido pela 4ª Turma do STJ.
+Ação: de cobrança, ajuizada por [NOME] E OUTROS (embargantes), em face de FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL REFER (embargada), em que se requer a correção monetária plena das parcelas de suplementação de aposentadoria.
+Sentença: julgou improcedente o pedido, reconhecendo a ocorrência da prescrição, e extinguiu o processo, nos termos do art. 269, IV, do CPC/73.
+Acórdão: deu provimento à apelação interposta pelos embargantes, para julgar procedente o pedido inicial. Eis a ementa do acórdão:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA DE COBRANÇA - PREVIDÊNCIA PRIVADA - PRESCRIÇÃO QUINQUENAL - OBRIGAÇÃO DE TRATO SUCESSIVO - PRESCRIÇÃO DAS PARCELAS ANTERIORES A 05 (CINCO) ANOS DA PROPOSITURA DA AÇÃO - PRECEDENTES NO SUPERIOR TRIBUNAL DE JUSTIÇA E NESTA CORTE - CONDENAÇÃO AO PAGAMENTO DA DIFERENÇA DAS PARCELAS DE COMPLEMENTAÇÃO DE APOSENTADORIA NÃO PRESCRITAS - REAJUSTE DA COMPLEMENTAÇÃO DE APOSENTADORIA DAS PARCELAS VINCENDAS DE ACORDO COM A SÚMULA Nº. 289 - STJ - APLICAÇÃO DO ÍNDICE DE PREÇOS AO CONSUMIDOR - IPC - FORMA MAIS ADEQUADA A CORREÇÃO MONETÁRIA NO PERÍODO - DIFERENÇA DE 42,72% - JAN/89; 30,46% -. MAR/90; 44,80% - ABR/90; 2,36% - MAI/90; 1,92% - JUL/ 90; 1,31% AGO/90; 0,32% - OUT/90; E 13,90% - FEV/91 - INVERSÃO DO ÔNUS SUCUMBENCIAL - RECURSO PROVIDO.
+Embargos de declaração: opostos por ambas as partes, foram rejeitados os da embargada e acolhidos os dos embargantes, para fixar os honorários de sucumbência em 10% (dez por cento) sobre o valor da condenação.
+Recurso especial: foi interposto pela embargada, com fundamento nas alíneas "a" e "c" do permissivo constitucional, alegando violação do art. 535, I e II, do CPC/73 e dos arts. 1º, 18, § 3º, 19 e 75 da LC n. 109/2001, bem como dissídio jurisprudencial.
+Além de negativa de prestação jurisdicional, sustentou a ocorrência da prescrição do fundo de direito; não cabimento de expurgos inflacionários na hipótese em que os participantes permanecem vinculados à entidade de previdência privada; e a não incidência de honorários advocatícios sobre as prestações vincendas após a sentença.
+Juízo de admissibilidade: não admitiu o recurso especial da embargada (e-STJ fls. 1.158/1.160).
+Acórdão: a 4ª Turma negou provimento ao agravo interno, mantendo a decisão unipessoal do Relator que, após reconsiderar a decisão unipessoal de fls. 1.249/1.250 (e-STJ), conheceu do agravo para dar provimento ao recurso especial da embargada, a fim de julgar improcedente o pedido, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RESERVA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. INAPLICABILIDADE DA SÚMULA N. 289/STJ. AUSÊNCIA DE RESGATE DAS CONTRIBUIÇÕES. VÍNCULO NÃO DESFEITO COM A ENTIDADE DE PREVIDÊNCIA PRIVADA. DECISÃO MANTIDA.
+1. A Segunda Seção desta Corte pacificou entendimento de que a Súmula n. 289/STJ, a qual dispõe que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda", tem aplicação restrita aos casos de resgate, hipótese em que há o rompimento definitivo do vínculo contratual do participante, que nem sequer chegou a auferir benefício complementar.
+2. No caso em exame, inaplicável a Súmula n. 289/STJ, uma vez que não houve o definitivo rompimento do vínculo contratual dos participantes com a entidade de previdência complementar.
+3. Agravo interno a que se nega provimento.
+Embargos de divergência: aponta dissonância entre o posicionamento adotado pela 4ª Turma do STJ e o entendimento adotado no AgRg nos EDcl no REsp 1.482.201/PR e no AgRg nos EDcl no AREsp 515.004/PR, ambos da 3ª Turma.
+Sustenta que a correção monetária plena deve ser aplicada aos benefícios de complementação de aposentadoria privada que sofreram os reflexos dos expurgos inflacionários, de forma análoga ao que ocorre quando há o resgate de contribuições, mesmo quando o participante permanece vinculado à entidade de previdência.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: CPC/2015
+- Da Súmula 168/STJ
+Da leitura das razões dos embargos de divergência, verifica-se que os acórdãos apontados como paradigma não se prestam à comprovar a existência de divergência interna com a 3ª Turma.
+Em primeiro lugar, porque os Edcl no AREsp 515.004/PR foram decididos monocraticamente pelo e. Relator, não se prestando, pois, à comprovação do dissídio. Inclusive, o agravo interno interposto contra a referida decisão não foi sequer conhecido pela 3ª Turma.
+Em segundo lugar, porque a tese explicitada no AgRg nos Edcl no REsp 1.482.201/PR não reflete o atual posicionamento da 3ª Turma sobre o tema, que se alinha ao do acórdão embargado. Confira-se, a propósito, este recente julgado, que trata de situação assemelhada a dos autos, tendo como parte, também, a REFER:
+AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. EXPURGOS INFLACIONÁRIOS. SÚMULA 289 DO STJ. INAPLICABILIDADE. AUSÊNCIA DE RESGATE. PERMANÊNCIA DO VÍNCULO CONTRATUAL COM A ENTIDADE PREVIDENCIÁRIA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Não há que se falar em omissão ou ausência de fundamentação na hipótese de o acórdão recorrido, ainda que de modo conciso, expor, adequadamente, as razões de fato e de direito que levaram à conclusão do julgado.
+2. A Súmula 289/STJ, a qual dispõe que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda", aplica-se apenas às hipóteses em que houve o rompimento definitivo do vínculo contratual entre o participante e a entidade de previdência privada complementar, o que não é o caso dos autos.
+3. Agravo interno desprovido.
+(AgInt no REsp 1695561/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017)
+Com efeito, a 4ª Turma, ao decidir pela inaplicabilidade da Súmula 289/STJ à hipótese dos autos, alinhou-se ao entendimento consolidado do STJ quanto à matéria, no sentido de que a Súmula 289/STJ, que prescreve que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda", tem aplicação restrita às hipóteses de resgate das contribuições, em que ocorre o definitivo rompimento do vínculo contratual entre o participante e a entidade de previdência complementar (AgRg no AREsp 504.022/SC, 2ª Seção, DJe de 30/09/2014).
+Dessa forma, não prospera a pretensão dos embargantes, porquanto a jurisprudência do STJ se consolidou no mesmo sentido do acórdão embargado. Há incidência, pois, da Súmula 168/STJ.
+Forte nessas razões, NEGO PROVIMENTO aos embargos de divergência, com amparo no art. 266-C do RISTJ.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte embargada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente para R$ 15.000,00 (quinze mil reais).
+Publique-se. Intimem-se.
