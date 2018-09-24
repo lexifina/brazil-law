@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROTESTO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CÉDULA DE CRÉDITO BANCÁRIO PARA FINANCIAMENTO DE VEÍCULO. INADIMPLEMENTO DAS PARCELAS QUE RESULTOU NO PROTESTO DO TÍTULO. RESPONSABILIDADE PELO CANCELAMENTO DO PROTESTO QUE É DO DEVEDOR. RECURSO ESPECIAL N. 1.339.436/SP, SUBMETIDO AO RITO DO ARTIGO 543-C DO CÓDIGO DE PROCESSO CIVIL DE 1973. DEVEDOR QUE NÃO COMPROVOU TER REQUERIDO À CREDORA A CARTA DE ANUÊNCIA OU A RECUSA DE FONECIMENTO. IRREGULARIDADE DO PROTESTO NÃO DEMONSTRADA. EXERCÍCIO REGULAR DO DIREITO DA CREDORA. DEVER DE INDENIZAR INEXISTENTE. MANUTENÇÃO DA RESTRIÇÃO À CIRCULAÇÃO DO VEÍCULO POR MEIO DO SISTEMA RENAJUD APÓS PAGAMENTO DA DÍVIDA QUE TAMBÉM NÃO CONSTITUI A OBRIGAÇÃO DE INDENIZAR SE NENHUMA OUTRA CONSEQUÊNCIA FOI CONSTATADA NO PSÍQUICO DA VÍTIMA OU EM SEU MUNDO JURÍDICO. CONSULTA AO CADASTRO DO VEÍCULO NO DETRAN/SC QUE REVELA A AUSÊNCIA DE RESTRIÇÃO E A SUA ALIENAÇÃO A TERCEIRO. SENTENÇA REFORMADA. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA, NÃO SE OLVIDANDO DA CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA AO AUTOR. RECURSO PRINCIPAL PROVIDO E RECURSO ADESIVO DESPROVIDO" (e-STJ fl. 147).
+No especial, o recorrente alega que o Tribunal de origem deu interpretação ao artigo 927 do Código Civil de forma divergente da conferida por outros tribunais estaduais, que reconhecem se tratar de dano moral in re ipsa a manutenção indevida de anotação no Renajud.
+Após a apresentação das contrarrazões (e-STJ fls. 186/195), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Consta dos autos que o recorrente firmou cédula de crédito bancário junto à recorrida para adquirir uma motocicleta e, por não ter pago as prestações, o título foi encaminhado para protesto em 24/11/2010 e foi ajuizada ação de busca e apreensão do bem em 12/1/2011. Além disso, em 30/5/2012 foi incluída a restrição de circulação do veículo no sistema Renajud.
+Também está incontroverso que o contrato foi quitado apenas 7/12/2012, motivo que levou o Tribunal local a considerar regular o protesto e a anotação no Renajud.
+Nessa linha, o aresto recorrido considerou indevida a indenização por danos morais, tanto mais que a restrição já foi cancelada e o veículo alienado a terceiro em 31/7/2014.
+Assim, considerou que para gerar o pretendido dano moral a conduta da recorrida teria de ter repercutido na esfera íntima do devedor ou ter tido repercussão no mundo jurídico, o que não foi demonstrado.
+Eis a letra do acórdão na parte que interessa:
+"(..) porque é responsabilidade do devedor inadimplente, após o pagamento da dívida, providenciar a baixa do protesto legítimo, e porque não foi comprovada qualquer irregularidade no protesto (ainda que fosse demonstrada, não garantiria direito à indenização por dano moral ao devedor inadimplente), a sentença é reformada, julgando-se improcedentes os pedidos iniciais.
+E a manutenção da restrição à circulação do veículo do autor pelo sistema Renajud, por si só, também não justifica a indenização por dano moral se nenhuma outra consequência no psíquico da vítima ou repercussão no mundo jurídico foi demonstrada" (e-STJ fl. 153).
+Como se vê, o Tribunal de justiça, diante do conjunto fático delineado nos autos, concluiu pela não ocorrência de danos morais, razão pela qual a verificação da procedência dos argumentos expendidos no recurso exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.000,00 (mil reais), os quais devem ser majorados para R$ 1.250,00 (mil e duzentos e cinquenta reais) em favor do advogado da parte recorrida, nos termos do artigo 85, § 11, do CPC/2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
