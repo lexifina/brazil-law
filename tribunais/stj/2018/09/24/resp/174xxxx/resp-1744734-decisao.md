@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO CREDOR-EXEQUENTE POR PRAZO SUPERIOR AO DA PRESCRIÇÃO DO DIREITO MATERIAL VINDICADO. INTIMAÇÃO. NECESSIDADE. PRINCÍPIO DO CONTRADITÓRIO NÃO OBSERVADO.
+1. Cumprimento de sentença de ação de cobrança de despesas condominiais.
+2. Conforme consolidado pela 2ª Seção do STJ no Incidente de Assunção de Competência no REsp 1.604.412/SC - com a ressalva do entendimento pessoal desta Relatora quanto ao tema -, incide a prescrição intercorrente, nos processos regidos pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado.
+3. Segundo a tese majoritária, o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 (um) ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+4. Em respeito ao princípio do contraditório, deve o juiz, antes de pronunciar a prescrição intercorrente, intimar o credor-exequente a fim de que possa opor algum fato impeditivo à incidência da prescrição, o que não restou observado na hipótese dos autos.
+5. Recurso especial conhecido e parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por CONDOMINIO FAZENDA VILA REAL DE ITU, com fundamento nas alíneas "a" do permissivo constitucional.
+Ação: de cobrança, em fase de cumprimento de sentença, ajuizada pelo recorrente, em face de RENATA DI PIETRO, na qual aduz que a demandada não realiza o pagamento dos débitos condominiais desde de julho do ano de 2004 até a presente data. Dessa forma, requer o pagamento das cotas condominiais não adimplidas, no importe de R$ 39.361,44, bem como das que vencerem no curso desta ação.
+Sentença: extinguiu o processo, com resolução do mérito, nos termos do art. 269, IV, do CPC/73 (487, II, do CPC/15), em virtude do reconhecimento da prescrição intercorrente.
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO - AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS - FASE DE CUMPRIMENTO DE SENTENÇA - PRESCRIÇÃO INTERCORRENTE - POSSIBILIDADE DE RECONHECIMENTO
+- Prescrição intercorrente: construção prática processual civil a fim de estabilizar as relações jurídicas. Necessária a aferição de inércia e, conjuntamente, decurso do prazo - Súmula 150, do STF. Matéria que não se confunde com a hipótese de abandono (art. 267, do CPC73 / art. 485, NCPC), que exigiria intimação pessoal. Extinção com resolução do mérito (art. 269, CPC73/art. 487, II, NCPC), decorrente do reconhecimento da prescrição, na qual é prescindível a intimação pessoal;
+- Superada a divergência sobre as balizas da prescrição intercorrente com base na vigência do Novo Código de Processo Civil. Eficácia retroativa do espírito da Lei n. 13.105, de 2015; escolha política do legislador que influencia a jurisprudência, indicando a plena admissibilidade da prescrição intercorrente.
+Precedentes do C. STJ;
+- Decurso do prazo prescricional (art. 205, §5º, do Código Civil), em virtude do arquivamento do feito, com as intimações de praxe, sem qualquer oposição ou manifestação do exequente por lapso superior a CINCO anos. Pretensão executiva considerada de forma uma (art. 189, do CC), despropositado o lapso eterno pretendido, contrário ao próprio pedido deduzido.
+RECURSO IMPROVIDO. (e-STJ, fl. 160)
+Embargos de declaração: interpostos pela recorrida, foram acolhidos, para majorar os honorários de sucumbência para 15% do valor da causa; interpostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts 267, I e II, § 1º, do CPC/73 (485, I e II, § 1º, do CPC/15); 206, § 5º, do CC/02, bem como dissídio jurisprudencial. Sustenta que sua pretensão não está prescrita. Afirma que o reconhecimento da prescrição intercorrente depende de prévia intimação do credor.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da orientação consolidada pelo Superior Tribunal de Justiça
+Apesar do entendimento diverso desta Relatora quanto ao tema, a 2ª Seção do STJ, por ocasião do julgamento do Incidente de Assunção de Competência no REsp 1.604.412/SC, em 27/06/2018, uniformizou as seguintes teses acerca da prescrição intercorrente nas execuções ajuizadas antes da vigência do CPC/2015:
+(i) Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002;
+(ii) O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 (um) ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980);
+(iii) O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual);
+(iv) O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+- Da hipótese dos autos
+Cuida-se de cumprimento de sentença de ação de cobrança de despesas condominiais, na qual, consoante se extrai do acórdão recorrido, o processo ficou paralisado de 01/12/2008 a 04/09/2015, sem a parte exequente promover qualquer andamento, o que induz à conclusão de que, em tese, operou-se a prescrição intercorrente da pretensão executória, como decidido pelo acórdão recorrido.
+No entanto, diz-se em tese porque o exequente não foi previamente intimado a fim de que, no exercício regular do contraditório, tenha a oportunidade de comprovar a eventual existência de fatos impeditivos à incidência da prescrição.
+Logo, curvando-me ao entendimento majoritário fixado pela 2ª Seção, deve ser dado parcial provimento ao recurso especial.
+Forte nessas razões, com fundamento nos arts. 932, V, "c", do CPC/2015, e 255, § 4º, III, do RISTJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para determinar o retorno dos autos ao juiz de primeiro grau de jurisdição, a fim de que observe as diretrizes fixadas por este Tribunal - especialmente o prévio contraditório - antes de eventualmente pronunciar a prescrição intercorrente da pretensão executória.
+Publique-se. Intimem-se.
