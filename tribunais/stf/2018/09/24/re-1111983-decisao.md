@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 347):
+    “EMENTA: MANDADO DE SEGURANÇA – SUSPENSÃO PROVISÓRIA DE PAGAMENTO DE APOSTILAMENTO AOS SERVIDORES MUNICIPAIS DE MENDES PIMENTEL - DECRETO 579/13 – PEDIDO DE ANULAÇÃO DO ATO – SEGURANÇA DENEGADA.
+1 – Se o ato questionado limita-se a suspender o pagamento aos servidores das vantagens incorporadas de forma provisória, até que se apure em definitivo com procedimento administrativo em que será respeitado o contraditório a validade do apostilamento, não há falar em violação ao devido processo legal, pois além da autotutela, a Administração Pública ostenta a prerrogativa da autoexecutoriedade.
+    2 - Verificado que o apostilamento concedido aos servidores foi dado em confronto com a legislação vigente, pois desafia a Constituição Estadual, que extinguiu, desde 2003, o instituto do apostilamento, imperiosa a manutenção da sentença que negou o pedido que pretendia o restabelecimento do pagamento da incorporação pela Prefeitura de Mendes Pimentel.
+    3 – Ademais, conforme restou decidido na ADI nº. 1.0000.10.013456-8/000, Órgão Especial, Rel. Des. Paulo Cézar Dias, "A natureza precária dos cargos em comissão, de livre nomeação e exoneração, bem como a sua vinculação ao exercício de atribuições relativas à direção, chefia e assessoramento, torna inviável o recebimento de valores equivalentes ao do cargo comissionado por agente que não mais exerça as suas atribuições, não ensejando a estabilidade financeira".
+    4 – Recurso desprovido.”
+    Os embargos de declaração opostos foram rejeitados (eDOC 2, p. 7).
+    No recurso extraordinário, com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXVI, LIV e LV; e 37, da Constituição Federal, sob os argumentos de que o acórdão recorrido “desrespeita direito adquirido pelos impetrantes quanto ao recebimento de verba relativa a apostilamento, bem assim princípios da irredutibilidade de vencimentos, ampla defesa e contraditório”. (eDOC 2, p. 28).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Observo que a 3ª Câmara Cível de origem decidiu a controvérsia à luz da interpretação do Decreto nº 579/13, entendendo que as impetrantes não faz jus a incorporação de vantagens, uma vez que a lei que criou o apostilamento foi declarada inconstitucional (eDOC 1, p. 350).
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria a análise da legislação local, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Nesse mesmo sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO: APOSTILAMENTO. LEI ESTADUAL N. 14.683/03. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 733.711-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 5.5.09).
+    “RECURSO EXTRAORDINÁRIO - SERVIDOR PÚBLICO ESTATUTÁRIO - INALTERABILIDADE DO REGIME JURÍDICO - DIREITO ADQUIRIDO - INEXISTÊNCIA - REMUNERAÇÃO - PRESERVAÇÃO DO MONTANTE GLOBAL - AUSÊNCIA DE OFENSA À IRREDUTIBILIDADE DE VENCIMENTOS – RECURSO IMPROVIDO. - Não há direito adquirido do servidor público estatutário à inalterabilidade do regime jurídico pertinente à composição dos vencimentos, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração, e, em consequência, não provoque decesso de caráter pecuniário. Precedentes.” (RE 600.837-AgR, Rel. Min. Celso de Melo, Segunda Turma, DJe de 03.12.09)
+    No que se refere à discussão sobre eventual ofensa ao art. 5º, XXXVI, LIV e LV, da Constituição Federal, o Supremo Tribunal Federal já decidiu no julgamento do ARE 748.371-RG, rel. Min. Gilmar Mendes, DJe 1º.08.2013, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (tema 660).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC (Súmula 512 do STF).
+    Publique-se.
+    Brasília, 24 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
