@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL – CONCURSO PÚBLICO – PMMG – EXAME PSICOLÓGICO – EXCLUSÃO DO CERTAME – REALIZAÇÃO DE PROVA PERICIAL JUDICIAL – APTIDÃO COMPROVADA – NULIDADE DO ATO ADMINISTRATIVO – RECURSO PROVIDO. 1. A utilização de critérios específicos pela Administração Pública para aferição da capacidade de exercício das funções inerentes ao cargo é permitida, mormente na carreira Militar. 2. A comprovação por laudo pericial imparcial, em que foi assegurado o contraditório e ampla defesa, do preenchimento dos requisitos previstos no Edital, leva à anulação do ato administrativo ilegal, sem que implique afronta aos princípios da legalidade, isonomia e separação dos Poderes, mas como forma de resguardar a inafastabilidade da jurisdição e razoabilidade” (pág. 265 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação dos arts. 2°; 5°, caput; 18; 25; 37, caput, I, e II; 39, IX, XIV, e § 3°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Consta do voto condutor do acórdão recorrido:
+    “Não obstante a ausência de afronta à legislação aplicável à espécie, no caso, a prova pericial realizada judicialmente demonstra que o candidato não apresenta os aludidos fatores, consoante se vê na resposta ao quesito n° 03 (f. 08 do laudo):
+    ‘No parece da Avaliação Psicológica Pericial atual o autor foi considerado, NO MOMENTO, APTO à função militar’.
+    Resta aferir a admissibilidade de realização de outro exame, com novo laudo para substituição daquele confeccionado por empresa particular do certame.
+    Não desconheço a existência de posicionamentos conflitantes no tocante à matéria, todavia, coaduno com aquele de que não há ingerência do Judiciário, no acolhimento de exame pericial judicial, porquanto realizado sob o crivo do contraditório e da ampla defesa, atestando a aptidão do apelante para o exercício das atividades inerentes ao cargo para o qual se candidatou.
+    […]
+    Assim, pelo princípio da inafastabilidade da jurisdição, consagrado no artigo 5°, XXXV da CF/88, não será vedado ao Judiciário o conhecimento de questão firmada no âmbito extrajudicial, diante da concreta lesão ao direito subjetivo do autor, mormente porque apresenta conclusão diversa da realizada na prova técnica.
+    Por certo não se pode descurar da importância da correta aferição dos referidos requisitos para a segurança social, em razão das atividades a serem exercidas, dentro da objetividade a determinar os critérios específicos para a seleção.
+    No caso, o ato que levou à eliminação do candidato foi o item de Descontrole da Impulsividade (Item 3), que, conforme a peita judicial (f. 179), foi interpretado com conduta dentro do esperado (normalidade), resultado positivo para o pleito do apelante, e, conquanto o julgador não esteja adstrito à prova pericial, por certo que sendo o exame etapa eliminatória do certame, e tendo em vista a imparcialidade na realização da prova, a comprovação da boa saúde psíquica leva à procedência do pleito.
+    Impossível restringir o controle judicial dos atos administrativos a aspectos meramente formais porque a legalidade deste está estritamente ligada à razoabilidade exigível da Administração Pública, visando evitar, assim, subjetivismos e incongruências, o que pode ocorrer em testes que envolvam aspectos psicológicos.
+    Ressalto, ainda, que inexiste ofensa ao princípio da isonomia decorrente da análise da insurgência daquele que, se sentindo lesado com o resultado do exame recorra ao Judiciário a fim de submeter-se a novo teste porque, como dito, a análise da capacidade busca critérios da personalidade, que não podem ser completamente alterados pelo indivíduo, ainda que em momento ulterior.
+    […]
+    Cumpre registrar que verificando o decurso do tempo, haja vista que o apelado não prosseguiu no certame, em razão de sua exclusão na quarta etapa, determino seu ingresso no próximo concurso público da mesma natureza, devendo ser consideradas as etapas já ultrapassadas, inclusive, a de exame psicotécnico.
+    Isso posto, DOU PROVIMENTO AO RECURSO, para reformar a sentença e julgar procedente o pedido e declarar a nulidade do ato administrativo que exclui a parte autora do concurso público regido pelo Edital de Concurso n° 01/2008” (págs. 271-272 do documento eletrônico 1).
+    Assim porque para divergir do entendimento do Tribunal de origem seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas do edital do certame, o que é vedado pelas Súmulas 279 e 454 do STF.
+    Nesse sentido, cito o RE 1.127.235/MG, de relatoria do Ministro Luiz Fux; RE 1.047.628/MG, de relatoria do Ministro Alexandre de Moraes.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base, no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2° e § 3°, do CPC.
+    Publique-se.
+    Brasília, 24 de setembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
