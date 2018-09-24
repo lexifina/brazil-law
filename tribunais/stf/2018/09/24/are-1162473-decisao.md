@@ -1,0 +1,31 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MULTA POR INFRAÇÃO AMBIENTAL. MANDADO DE SEGURANÇA. PRESSUPOSTOS DE CABIMENTO. DIREITO LÍQUIDO E CERTO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. DANO AMBIENTAL. INFRAÇÃO. AUTUAÇÃO DE INSTITUTO FEDERAL. TERRENO DE MARINHA. PROTEÇÃO DO MEIO AMBIENTE. CONSTITUIÇÃO FEDERAL. LEGITIMIDADE. COMPETÊNCIA COMUM DOS ENTES FEDERATIVOS.
+    1. O meio ambiente ecologicamente equilibrado é resguardado constitucionalmente (art. 225), cuja proteção é competência comum da União, dos Estados, do DF e dos Municípios, cabendo a cada uma destas esferas de governo, nos termos da lei e do interesse preponderante, fiscalizar, licenciar e, em havendo necessidade, autuar.
+    2. Assim, a Constituição Federal, em seu art. 23, nos incisos VI e VII, respectivamente, estipula a competência comum dos três entes federativos para promover a proteção do meio ambiente e combater a poluição, bem como preservar a floresta, a fauna e a flora, remetendo a fixação das normas de cooperação para o âmbito normativo de Leis Complementares.
+    3. A Lei Complementar nº 140, de 08/12/2011 regulamenta o III, VI e VII do caput e do parágrafo único do art. 23 da Constituição Federal, mas não tem o condão de afastar disposições constitucionais acerca da competência comum dos entes federativos na proteção e preservação do meio ambiente. A LC nº 140 define a atuação supletiva e subsidiária dos entes, entretanto, por meio de seu artigo 17, § 3º, acaba por legitimar o exercício do poder de polícia ambiental da União, dos Estados e Municípios, com atribuição comum de fiscalização.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, XXXV e LXIX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    In casu, o voto condutor do acórdão ora recorrido consignou, in verbis:
+    “Assim, havendo disposição legal expressa que autoriza a apreensão de equipamentos ou veículos utilizados na infração ambiental, previsão constitucional que estipula a competência comum dos três entes federativos para promover a proteção do meio ambiente e Lei Complementar que define a atuação supletiva e subsidiária dos entes no exercício do poder de polícia ambiental e na atribuição comum de fiscalização, não vislumbro ato ilegal ou abusivo que possa ser combatido pela via mandamental.
+    (…)
+    Destarte, não havendo demonstração do alegado direito líquido e certo, tampouco da ilegalidade ou abuso de poder por parte da autoridade coatora, não há como prosperar a demanda.
+    (…)
+    Anoto, por fim, que questões de mérito relativas ao fundamento da autuação, bem como da proporcionalidade das sanções cominadas, por demandarem dilação probatória, não são objeto de exame no mandado de segurança, podendo ser veiculadas pela via ordinária própria.
+    Diante do exposto, voto por negar provimento à apelação.”
+    Verifica-se, dessa forma, que o acórdão recorrido manteve sentença que extinguiu o feito, sem resolução do mérito, em razão da inadequação da via eleita.
+    A jurisprudência desta Suprema Corte é no sentido de que a aferição dos pressupostos de cabimento do mandado de segurança não viabiliza o acesso à via recursal extraordinária, por envolver discussão atinente a tema de caráter eminentemente infraconstitucional. Nesse sentido, à guisa de exemplo, colacionam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. PRESSUPOSTOS DE ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO IMPROVIDO.
+    I - A pretendida discussão em torno dos requisitos de admissibilidade do mandado de segurança possui natureza meramente processual, que envolve a apreciação de normas infraconstitucionais. Precedentes.
+    II - Agravo regimental improvido.” (AI 773.527-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 10/11/2010)
+    “Agravo regimental em agravo de instrumento 2. Cabimento de mandado de segurança. Matéria processual. Ofensa reflexa e indireta à Constituição Federal. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI 648.686-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 11/4/2008)
+    Outrossim, quanto à alegação de ofensa ao artigo 5°, XXXV, da Constituição Federal, melhor sorte não assiste à parte agravante, tendo em vista que da análise dos autos é possível observar que a parte se valeu dos meios recursais cabíveis e teve a jurisdição devidamente prestada por decisões fundamentadas, embora contrárias aos seus interesses. Assim, não resta caracterizada a negativa de prestação jurisdicional. Nesse sentido, ARE 740.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 4/6/2013, o qual possui a seguinte ementa:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 7. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 24 de setembro de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
