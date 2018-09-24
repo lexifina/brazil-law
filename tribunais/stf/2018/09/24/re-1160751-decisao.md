@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região julgou procedente pedido formulado na peça primeira para admitir a execução dos valores atrasados decorrentes de prestação previdenciária, observado o benefício mais vantajoso concedido administrativamente. No extraordinário, o recorrente aponta a violação dos artigos 5º, incisos XXXV, XXXVI, LIV e LV, 194 e 195 da Constituição Federal. Sustenta a impossibilidade de recebimento concomitante de duas aposentadorias. Afirma contrariados os princípios do devido processo legal, da ampla defesa e da solidariedade. Diz ter a decisão resultado em desaposentação.
+    2. Colho da decisão recorrida o seguinte trecho:
+    A alegação da parte agravante no sentido de que é possível a manutenção do benefício concedido administrativamente no curso da ação e, concomitantemente, a execução das parcelas do benefício postulado na viajudicial até a data da implantação administrativa encontra amparo na jurisprudência desta Corte Regional, como se vê no AG 5012454-79.2017.404.0000, rel. Des. Federal Paulo Afonso Brum Vaz, 5ª Turma, julgamento em 13.06.2017.
+    Na mesma linha de entendimento cito aresto da 6ª Turma:
+    PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. BENEFÍCIO MAIS VANTAJOSO CONCEDIDO ADMINISTRATIVAMENTE. EXECUÇÃO DAS PARCELAS ATRASADAS DO BENEFÍCIO POSTULADO EM JUÍZO. POSSIBILIDADE.
+    Assegura-se aos beneficiários da Previdência Social a possibilidade de execução das diferenças do benefício concedido no julgado até o momento em que deferido um mais vantajoso na via administrativa, com a opção de continuar percebendo o benefício de renda maior.
+    (AG 5021811-83.2017.404.0000, rel. Des. Federal João Batista Pinto Silveira, julgado em 07.06.2017)
+    Por outro lado, a questão sub judice não se confunde com desaposentação. Com efeito, da leitura dos autos eletrônicos originários percebe-se que a agravante, em 11.02.2011 requereu aposentadoria por tempo de serviço (42), que lhe foi indeferida. Irresignada, ingressou com pedido judicial para reconhecimento do alegado direito, sendo que no curso da ação, a ora agravante requereu novo pedido administrativo, em 26.06.2015, NB: 172.746.118-2, sendo-lhe concedido o benefício de aposentadoria por tempo de contribuição. Em março de 2017 o juízo singular proferiu sentença na ação proposta pela ora agravante, sendo declarado o seu direito à aposentadoria por tempo de contribuição desde a DER de 11/02/2011.
+    Como se vê, devido ao indeferimento do pedido de aposentadoria na época própria pelo INSS, a parte agravante teve de continuar trabalhando, diferentemente da questão tratada pelo e. Supremo Tribunal Federal no julgamento do Tema 503, justamente porque o segurado não teve oportunidade de optar pela continuidade, ou não, do trabalho, como nos casos de desaposentação.
+    Nesse sentido, veja-se precedente da Terceira Seção desta Corte (TRF4, AR 0000473- 12.2015.404.0000, rel. Des. Federal SALISE MONTEIRO SANCHOTENE, D.E. 26/09/2016).
+    O acórdão impugnado mediante o extraordinário revela análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 24 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
