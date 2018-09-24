@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL PENAL. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO CONTRA ACÓRDÃO QUE DENEGOU A ORDEM EM MANDADO DE SEGURANÇA. ERRO GROSSEIRO. INEXISTÊNCIA DE DÚVIDA QUE JUSTIFIQUE A ADOÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. PRECEDENTES. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo de instrumento em mandado de segurança interposto por [NOME], com fulcro no art. 522 do Código de Processo Civil de 1973, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a segurança pleiteada, porque, para tanto, " ..  exige-se a comprovação, de plano, de direito líquido e certo, ou seja, aquele que está evidente e não demande análise mais acurada de provas, o que não se verifica no caso sub examine" (fls. 46-49).
+Sustenta a Agravante, nas razões recursais, que " ..  é de todo inadmissível que alguém seja preso antes de definitivamente julgado, salvo a hipótese desta prisão provisória se revestir de caráter cautelar, independentemente de primariedade e de bons antecedentes. Soa, portanto, estranho alguém ser presumivelmente considerado não culpado (pois, ainda não foi condenado definitivamente) e, ao mesmo tempo, ser obrigado a se recolher à prisão, mesmo não representando a sua liberdade nenhum risco seja para a sociedade seja para a aplicação da lei penal. Mais estranho se nos afigura ao atentarmos que aquela presunção foi declarada constitucionalmente" (fls. 55-56).
+Contrarrazões apresentadas às fls. 65-70.
+O Presidente da Seção de Direito Criminal da Corte de origem, com fulcro no art. 579 do Código de Processo Penal, aplicou o princípio da fungibilidade e recebeu o agravo como recurso ordinário em mandado de segurança (fls. 72-73).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do recurso (fls. 96-99).
+É o relatório.
+Decido.
+O presente recurso não ultrapassa a barreira do conhecimento.
+Nos termos do art. 105, inciso II, alínea b, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, em recurso ordinário, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão.
+Com efeito, o apelo cabível à impugnação do acórdão recorrido, atendidos os seus requisitos, seria o recurso ordinário em mandado de segurança - e não o agravo de instrumento previsto no art. 522 do CPC/73 -, nesse contexto, resta configurada a ocorrência de erro grosseiro, porquanto não há dúvida objetiva acerca da via processual adequada à hipótese, não se admitindo, por via de consequência, a aplicação do princípio da fungibilidade.
+A propósito, mutatis mutandis:
+"ADMINISTRATIVO. MANDADO DE SEGURANÇA. TETO REMUNERATÓRIO DOS DELEGATÁRIOS INTERINOS. INTERPOSIÇÃO DE RECURSO ESPECIAL NO LUGAR DE RECURSO ORDINÁRIO. ERRO GROSSEIRO. NÃO CONHECIMENTO DO RECURSO.
+I - A jurisprudência desta Corte é firme no sentido de que contra decisão denegatória de mandado de segurança decidido em única instância por Corte Estadual, como no caso dos autos, é cabível o recurso ordinário, conforme art. 105, II, "b", da Constituição Federal.
+II - A interposição de recurso especial quando cabível o ordinário contra decisão denegatória de mandado de segurança configura erro grosseiro, o que torna inviável a aplicação do princípio da fungibilidade recursal. Nesse sentido: AgInt no AREsp 1187280/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/03/2018, DJe 13/03/2018; AgInt no REsp 1606291/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/11/2016, DJe 14/11/2016.
+III - Agravo interno improvido." (AgInt no REsp 1.606.347/AL, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 17/04/2018, DJe de 23/04/2018.)
+"PROCESSO CIVIL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO QUE DENEGOU MANDADO DE SEGURANÇA. AUSÊNCIA DE DÚVIDA OBJETIVA. ERRO GROSSEIRO. NÃO-APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. PRECEDENTES.
+1. A Constituição Federal (art. 105, II, "b") e o Código de Processo Civil (art. 539, II, "a") estabelecem que é cabível recurso ordinário contra acórdão denegatório de mandado de segurança. A interposição de recurso especial nessa hipótese, em que não há dúvida objetiva acerca de qual recurso seria cabível, configura erro grosseiro, o que afasta a aplicação do princípio da fungibilidade.
+2. Recurso não-conhecido." (RMS 10.766/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/09/2006, DJ de 09/10/2006, p. 360.)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO DENEGATÓRIO. INTERPOSIÇÃO NA ORIGEM DE RECURSO DE APELAÇÃO. PRINCÍPIO DA FUNGIBILIDADE. ERRO GROSSEIRO E INEXISTÊNCIA DE DÚVIDA QUE JUSTIFIQUE A SUA ADOÇÃO. IMPOSSIBILIDADE.
+1. Tratando-se de acórdão prolatado em sede de apelação em mandado de segurança, o recurso cabível, atendidos os seus requisitos, seria o recurso especial. Dessa forma, tem-se como configurada a hipótese de erro grosseiro, sendo inaplicável o princípio da fungibilidade recursal. Precedentes.
+2. Agravo regimental desprovido." (AgRg no RMS 25.991/DF, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 24/04/2008, DJe de 12/05/2008.)
+Ante o exposto, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
