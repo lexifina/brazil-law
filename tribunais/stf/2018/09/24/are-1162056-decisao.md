@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 5ª Turma do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “PREVIDENCIÁRIO. ATIVIDADES CONCOMITANTES PRESTADAS SOB O RGPS. TRANSFORMAÇÃO DO EMPREGO PÚBLICO EM CARGO PÚBLICO. CONTAGEM PARA OBTENÇÃO DE APOSENTADORIA EM REGIMES DIVERSOS. POSSIBILIDADE.
+    1. Possível a utilização, para a obtenção de aposentadoria pelo Regime Geral da Previdência Social, do tempo de serviço em que o autor verteu contribuições para o RGPS como autônomo, ainda que, de forma concomitante, tenha recolhido contribuições para o Regime Geral como professor pertencente ao quadro de servidores estaduais. Isso porque houve a transformação do emprego público em cargo público, em que passou a ter Regime Próprio de Previdência.
+    2. Hipótese em que a situação é similar à dos servidores públicos federais, em relação aos quais houve submissão, por força do art. 243 da Lei n. 8.112/90, ao novo regime instituído, com a previsão expressa, no art. 247 da mencionada norma, de compensação financeira entre os sistemas, de modo que, se os empregos públicos foram transformados em cargos públicos, o tempo celetista anterior foi incorporado, de forma automática, ao vínculo estatutário, com a compensação financeira entre os sistemas (Terceira Seção desta Corte, EI n. 2007.70.09.001928-0, Rel. para o acórdão Des. Federal Ricardo Teixeira do Valle Pereira, julgado em 14-01-2013).
+     3. Considerado o tempo de contribuição vertido concomitantemente como autônomo, o recorrido faz jus à aposentadoria por idade”. (eDOC 3, p. 112)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 40, §10º e art. 201, §9º, do texto constitucional.
+    Nas razões recursais, alega-se:
+    “(...) que pode ser admitido o fracionamento do tempo de contribuição, porém, em hipótese alguma, admite-se o fracionamento de cada um dos vínculos de atividade desempenhas dentro de um mesmo tempo de contribuição, quando as contribuições foram efetuadas para um único regime previdenciário”. (eDOC 3, p. 163).
+    Decido.
+    A irresignação não merece prosperar.
+    Preliminarmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 3.807/1960, Decreto 89.321/84, Lei 8.112/90 e Lei 8.213/91) e o conjunto probatório constante dos autos, consignou que o recorrido desempenhou atividades em períodos concomitantes e pretende utilizar cada atividade para contagem como tempo de serviço em regimes distintos de previdência social.
+    Aduziu que a possibilidade de contagem recíproca, mediante compensação entre o Regime Geral de Previdência Social e os regimes próprios de previdência do servidor público, é assegurada pelo art. 94 da Lei nº 8.213/91.
+    Consignou, por fim, que mesmo havendo atividades concomitantes prestadas sob o RGPS, com transformação do emprego público em cargo público, ocorrendo a incorporação de forma automática do período anterior ao vínculo estatutário, ainda assim é possível o aproveitamento dos períodos como contribuinte individual, ou outro vínculo celetista, precedentes à Lei nº 8.112/90.
+     Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O recorrido detinha a condição previdenciária de autônomo e de empregado público celetista. Para sua aposentadoria no âmbito do RPPS, valeu-se exclusivamente das contribuições vertidas nesta condição. Pretende valer-se das contribuições que verteu concomitantemente como autônomo para fins de aposentadoria por idade no RGPS.
+    (…)
+    ‘No caso dos autos, a autora possuía duas atividades concomitantes no RGPS até a data da entrada em vigor da Lei nº 8.112/90, e se aposentou pelo Regime Próprio de Previdência dos Servidores Públicos Estaduais.
+    (…)
+     Impende referir que mesmo havendo atividades concomitantes prestadas sob o RGPS, com transformação do emprego público em cargo público, ocorrendo a incorporação de forma automática do período anterior ao vínculo estatutário, ainda assim é possível o aproveitamento dos períodos como contribuinte individual, ou outro vínculo celetista, precedentes à Lei nº 8.112/90”. (eDOC 3, p. 104 - 106)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito do Trabalho. Art. 93 da Lei 8.213/91. Portador de deficiência. Contratação. 3. Matéria infraconstitucional Prescrição. 4. Controvérsia decidida com base no conjunto fático-probatório constante dos autos. Súmula 279/STF. 5. Agravo regimental não provido”. (ARE 1000302 AgR, de minha relatoria, Segunda Turma, DJe 3.8.2017).
+    “DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, a análise da legislação infraconstitucional aplicada ao caso (Lei nº 8.213/91, art. 55) e o reexame dos fatos, do material probatório constante dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. Agravo regimental a que se nega provimento”. (RE 841814 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 1.3.2016).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
