@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIO CÉSAR ZUCCO contra decisão que negou seguimento a recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão prolatado pelo Egrégio Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 138, e-STJ):
+CIVIL. EMBARGOS À EXECUÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DO EMBARGANTE. PREVISÃO CONTRATUAL DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE INADIMPLEMENTO DO CONTRATANTE. DISPOSIÇÃO VÁLIDA. ARTS. 389 E 395, CAPUT, DO CÓDIGO CIVIL E 22 DO ESTATUTO DA OAB. VERBA QUE NÃO SE CONFUNDE COM OS HONORÁRIOS SUCUMBENCIAIS. CLÁUSULA LIVREMENTE PACTUADA ENTRE AS PARTES. VALIDADE. ENTENDIMENTO DO STJ E PRECEDENTES DESTA CORTE. AUSÊNCIA DE ABUSIVIDADE, ADEMAIS, DO VALOR FIXADO (20% DO SALDO DEVEDOR). QUANTIA QUE SE HARMONIZA COM O VALOR MÍNIMO SUGERIDO PELA TABELA DA OAB/SC. FIXAÇÃO DE HONORÁRIOS RECURSAIS. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+"A previsão contratual de honorários advocatícios em caso de inadimplemento da obrigação decorre diretamente do art. 389 do CC, não guardando qualquer relação com os honorários de sucumbência". (Aglnt no REsp 1377564/AL, Rel. Ministro Paulo de Tarso Sanseverino, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017
+Nas razões do recurso especial (fls. 150/169, e-STJ), o insurgente aponta, além do dissídio jurisprudencial, violação aos artigos 20, § 4º e 652-A, do Código de Processo Civil/73 (artigos 85, § 1º e 8º e 827 do Código de Processo Civil/15). Sustenta, em síntese, a ilegalidade na cláusula contratual que permite a cobrança dos honorários advocatícios no caso de inadimplemento. Alega, ainda, que "é nula a cláusula contratual que fixa honorários advocatícios no percentual de 20% (vinte por cento) para o caso de inadimplemento, uma vez que tal fixação é exclusiva do juiz no ingresso da ação de execução".
+Contrarrazões às fls. 191/198, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Analisando a controvérsia, o Tribunal assim consignou em suas razões de decidir (fls. 142/145, e-STJ):
+Sustenta o apelante a abusividade da cláusula contratual que prevê honorários advocatícios para o caso de inadimplemento.
+Com efeito, o "Instrumento Particular de Novação, Confissão, Consolidação e Composição de Dívidas e outras Avenças" (fls. 12/14), dispôs em sua Cláusula Quarta:
+As partes estipulam que, caso ocorra o inadimplemento de um das parcelas acima ajustadas, seja por qualquer motivo, automaticamente estarão vencidas as demais parcelas, podendo a Credora executar judicialmente as cláusulas desta composição, independentemente de qualquer aviso ou notificação, onde serão abatidas as parcelas devidamente pagas, acrescendo- se os juros de mora no percentual de 1% (um por cento) ao mês, correção monetária (INPC/IBGE), multa de 20% (vinte por cento) sobre o valor do devedor e honorários advocatícios 20% (vinte por cento), desde esta data, valendo esta composição como título executivo judicial, nos termos do art. 585 do Código Processual Civil.
+O embargante sustenta excesso de execução diante da impossibilidade de incidência de honorários contratuais sobre o valor do débito.
+Assevera a abusividade da cláusula, sendo a sucumbência matéria afeta ao juiz na entrega da prestação jurisdicional.
+Sem razão o recorrente.
+Veja-se o que dispõem os arts. 389 e 395 caput do Código Civil:
+Art. 389. Não cumprida a obrigação, responde o devedor por perdas e danos, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e honorários de advogado.
+Art. 395. Responde o devedor pelos prejuízos a que sua mora der causa, mais juros, atualização dos valores monetários segundo índices oficiais regularmente estabelecidos, e honorários de advogado.
+Essa verba honorária não se confunde com aquela decorrente dos ônus sucumbenciais imposta pelo juiz, consoante art. 85 e seu §1º do Código de Processo Civil:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 1º São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente. (grifou-se) Por fim, o Estatuto da OAB estabelece, quanto à verba honorária:
+Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência.
+Ademais, como já salientado no decisum, "a moratória concedida pela parte ao firmar o instrumento de confissão de dívida demandou suporte profissional, conforme se extrai da cláusula terceira, parágrafo primeiro do instrumento (fl. 12)", tendo em vista o endereçamento do pagamento das parcelas ao escritório de advocacia indicado no pacto.
+(..)
+Ora, se nos contratos regidos pela legislação consumerista, nos quais verifica-se a proeminência de uma parte (fornecedor) em detrimento da outra (consumidor) e a imposição das cláusulas ao contratante mais vulnerável por meio dos contratos de adesão, é lícita a previsão de honorários advocatícios em caso de inadimplemento do contratante, quanto mais nos contratos pactuados entre partes equivalentes, sem presumível relativização da autonomia da vontade, como é o caso dos autos.
+Sobre o assunto, a orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de que é válida a cláusula contratual que prevê o pagamento das despesas decorrentes da cobrança extrajudicial pelo credor, sobretudo dos honorários advocatícios naquela ocasião.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/1973). EMBARGOS À EXECUÇÃO. DESPESAS E HONORÁRIOS ADVOCATÍCIOS EXTRAJUDICIAIS. PACTUAÇÃO. LEGALIDADE. PRECEDENTES ESPECÍFICOS DESTA CORTE.
+1. Segundo a orientação jurisprudencial das Turmas que compõem a Segunda Seção desta Corte, é válida a cláusula contratual que prevê o pagamento das despesas decorrentes da cobrança extrajudicial da obrigação, suportadas pelo credor. 2. A previsão contratual de honorários advocatícios em caso de inadimplemento da obrigação decorre diretamente do art. 389 do CC, não guardando qualquer relação com os honorários de sucumbência.
+3. Conclusões do acórdão recorrido no mesmo sentido da orientação desta Corte.
+4. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1377564/AL, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017)
+DIREITO DO CONSUMIDOR E DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CARTÃO DE CRÉDITO. CLÁUSULAS CONTRATUAIS. ABUSIVIDADE. LIMITE TERRITORIAL DA SENTENÇA. PREJUDICIALIDADE PARCIAL DO RECURSO ESPECIAL.
+1. Celebrado acordo parcial entre o recorrente e o recorrido, fica prejudicado o recurso especial em relação às questões objeto do ajuste.
+2. Violação do art. 535 do CPC não configurada, tendo em vista que o Tribunal de origem, com fundamentos específicos, embora sucintos, enfrentou expressamente as questões pertinentes às despesas decorrentes da cobrança extrajudicial e à abrangência dos efeitos da sentença em âmbito nacional.
+3. É válida, com base no art. 956 do CC/1916 (art. 395 do CC/2002), a cláusula contratual que prevê, como uma das consequências da mora do consumidor, o pagamento das despesas decorrentes da cobrança extrajudicial, suportadas pela credora. No caso concreto, é válido o percentual limitador de tal cobrança, impondo-se conferir, em cláusula contratual, igual direito ao consumidor.
+4. Matéria pertinente à extensão da eficácia subjetiva da sentença coletiva julgada prejudicada. Por maioria.
+5. Recurso especial parcialmente provido.
+(REsp 748.242/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/11/2015, DJe 18/12/2015).
+RECURSOS ESPECIAIS. CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. AÇÃO CIVIL PÚBLICA. I - RECURSO DO BANCO PROMOVIDO: CONTRATO BANCÁRIO. LEASING. INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS EM CASO DE COBRANÇA EXTRAJUDICIAL. ÔNUS DECORRENTE DA MORA. RESPONSABILIDADE DO DEVEDOR. LEGALIDADE (CC/2002, ARTS. 389, 395 E 404). CONTRATO DE ADESÃO (CDC, ART. 51, XII). EXISTÊNCIA DE CLÁUSULA CONTRATUAL EXPRESSA. IMPROCEDÊNCIA DA AÇÃO. RECURSO PROVIDO. II - RECURSO DO PROMOVENTE: HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO MINISTÉRIO PÚBLICO. RECURSO PREJUDICADO.
+1. Inexiste abuso na exigência, pelo credor, de honorários advocatícios extrajudiciais a serem suportados pelo devedor em mora em caso de cobrança extrajudicial, pois, além de não causar prejuízo indevido para o devedor em atraso, tem previsão expressa nas normas dos arts. 389, 395 e 404 do Código Civil de 2002 (antes, respectivamente, nos arts. 1.056, 956 e 1.061 do CC/1916).
+2. Nas relações de consumo, havendo expressa previsão contratual, ainda que em contrato de adesão, não se tem por abusiva a cobrança de honorários advocatícios extrajudiciais em caso de mora ou inadimplemento do consumidor. Igual direito é assegurado ao consumidor, em decorrência de imposição legal, nos termos do art. 51, XII, do CDC, independentemente de previsão contratual.
+3. Recurso especial da instituição financeira provido, prejudicado o recurso do Ministério Público.
+(REsp 1.002.445/DF, Rel. Ministro MARCO BUZZI, Rel. p/ acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/08/2015, DJe 14/12/2015).
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CLÁUSULA QUE PREVÊ RESPONSABILIDADE DO CONSUMIDOR QUANTO AOS HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS DECORRENTES DE INADIMPLEMENTO CONTRATUAL. RECIPROCIDADE. LIMITES. ABUSIVIDADE. NÃO OCORRÊNCIA.
+1. Os honorários contratuais decorrentes de contratação de serviços advocatícios extrajudiciais são passíveis de ressarcimento, nos termos do art. 395 do CC/02.
+2. Em contratos de consumo, além da existência de cláusula expressa para a responsabilização do consumidor, deve haver reciprocidade, garantindo-se igual direito ao consumidor na hipótese de inadimplemento do fornecedor.
+3. A liberdade contratual integrada pela boa-fé objetiva acrescenta ao contrato deveres anexos, entre os quais, o ônus do credor de minorar seu prejuízo buscando soluções amigáveis antes da contratação de serviço especializado.
+4. O exercício regular do direito de ressarcimento aos honorários advocatícios, portanto, depende da demonstração de sua imprescindibilidade para solução extrajudicial de impasse entre as partes contratantes ou para adoção de medidas preparatórias ao processo judicial, bem como da prestação efetiva de serviços privativos de advogado e da razoabilidade do valor dos honorários convencionados.
+5. Recurso especial provido.
+(REsp 1.274.629/AP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/05/2013, DJe 20/06/2013).
+Desta forma, considerando que o decisum impugnado pelo agravante está em consonância com a jurisprudência desta Corte, incide o teor da Súmula 83 do STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", aplicável para ambas as alíneas do permissivo constitucional.
+2. Ademais, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, de que houve previsão contratual da cobrança de honorários advocatícios extrajudiciais, os quais foram fixados em 20% (vinte por cento) do valor da dívida, o que, forçosamente, ensejaria em rediscussão de matéria fática e reapreciação do contrato, incidindo na espécie o óbice das Súmulas 5 e 7/STJ, sendo manifesto o descabimento do Recurso Especial.
+3. Do exposto, com amparo no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
