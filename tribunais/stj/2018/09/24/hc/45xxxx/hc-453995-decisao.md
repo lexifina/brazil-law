@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário impetrado, de próprio punho, em favor de ELAINE SOARES, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos autos que a paciente foi pronunciada pela prática, em tese, do delito tipificado no art. 121, § 2º, I e IV, na forma do art. 14, II, do Código Penal, sendo mantida sua prisão preventiva.
+A defesa interpôs o recurso em sentido estrito contra a sentença de pronúncia. O Tribunal de origem desproveu o recurso nos termos do v. acórdão assim ementado:
+"RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO TENTADO. INDÍCIOS SUFICIENTES DE AUTORIA. PRESENÇA DE DUAS VERSÕES PROBATÓRIAS. DEPOIMENTOS JUDICIAIS QUE CONFEREM RESPALDO A NARRATIVA DA DENÚNCIA. INCLUSIVE NO QUE TANGE ÀS QUALIFICADORAS. PRONÚNCIA QUE SE IMPUNHA. SUBMISSÃO DA CAUSA AO TRIBUNAL POPULAR. DECISUM MANTIDO.
+Recurso improvido, por maioria" (fl. 30 ).
+Daí o presente writ, no qual a impetrante alega, em síntese, que o paciente estaria sofrendo constrangimento ilegal, em razão da ausência de fundamentação idônea da r. decisão que determinou a sua segregação cautelar e excesso de prazo para a formação da culpa.
+Argumenta que ostenta condições pessoais favoráveis.
+Requer, ao final, a concessão da ordem para que seja revogada a prisão preventiva.
+Pedido de liminar indeferido às fls. 61-63.
+Informações prestadas às fls. 20-52 e 67-69.
+O Ministério Público Federal, às fls. 74-77, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. UTILIZAÇÃO INADEQUADA DO WRIT. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA DECRETADA COMO GARANTIA DA ORDEM PÚBLICA E POR CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO DA PRISÃO CAUTELAR. MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. REU PRONUNCIADO. INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO E DE EMBARGOS INFRINGENTES. DEMORA ATRIBUÍDA Ã DEFESA. APLICAÇÃO DA SÚMULA 21 DO STJ. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS OU,. SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM"
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Inicialmente, no que concerne a ausência de fundamentação para a manutenção da segregação cautelar, tenho que o habeas corpus não merece prosperar.
+É que, do exame do v. acórdão reprochado, tem-se que o eg. Tribunal a quo, nos autos do Recurso em Sentido Estrito n. [CPF], objeto da presente impetração, sequer apreciou tal controvérsia, de maneira que sua análise diretamente por esta Corte fica impossibilitada, sob pena de indevida supressão de instância.
+Sobre o tema:
+"HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. CONDENAÇÃO. NULIDADE DA SENTENÇA. AUSÊNCIA DE ANÁLISE DE TESE DEFENSIVA. REGIME INICIAL MENOS GRAVOSO. POSSIBILIDADE DE SUBSTITUIÇÃO POR PENA RESTRITIVA DE DIREITOS. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM NO ACÓRDÃO COMBATIDO. APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO. INCOMPETÊNCIA DESTE STJ E SUPRESSÃO DE INSTÂNCIA. VEDAÇÃO AO DIREITO DE RECORRER EM LIBERDADE. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. QUANTIDADE DO TÓXICO. CIRCUNSTÂNCIAS DO FLAGRANTE. APREENSÃO DE QUANTIA EM DINHEIRO SEM COMPROVAÇÃO DE ORIGEM LÍCITA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE SOCIAL DO AGENTE. GARANTIA DA ORDEM E SAÚDE PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE TODA A INSTRUÇÃO CRIMINAL. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. COAÇÃO ILEGAL NÃO DEMONSTRADA. WRIT NÃO CONHECIDO.  ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ .. " (HC n. 347.010/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 12/4/2016).
+"PENAL. HABEAS CORPUS. LATROCÍNIO. ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. CITAÇÃO POR EDITAL. COMPARECIMENTO DO RÉU EM JUÍZO POR INTERMÉDIO DE DEFENSOR CONSTITUÍDO. EVENTUAL NULIDADE SANADA. ART. 570 DO CPP. ORDEM NÃO CONHECIDA.
+1. A alegada ausência de fundamentação para a decretação da prisão preventiva do paciente não foi apreciada pelo Tribunal estadual, uma vez que já havia sido examinado o writ anterior. Em vista disso, evidencia-se a incompetência desta Corte Superior para examiná-la neste habeas corpus, sob pena de indevida supressão de instância.
+ .. " (HC n. 133.743/PE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/3/2016).
+No que tange a alegação de excesso de prazo para a formação da culpa encontra-se, por ora, superada, pois foi prolatada decisão de pronúncia em desfavor do paciente em 07/08/2017, tendo sido mantida a sua custódia cautelar.
+In casu, incide, portanto, o óbice da Súmula n. 21 desta Corte Superior, que prescreve que "Pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução."
+Nesse sentido os seguintes julgados deste Tribunal Superior:
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. ALEGAÇÃO DE INOCÊNCIA. NÃO CABIMENTO. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. SÚMULA 21 STJ. ORDEM NÃO CONHECIDA.
+ ..
+4. Nos termos do enunciado nº 21 da Súmula do Superior Tribunal de Justiça, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+5. Ordem não conhecida" (HC n. 345.165/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 4/10/2016).
+"HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO E TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO CAUTELAR. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. FUNDAMENTAÇÃO DA PRISÃO. GRAVIDADE CONCRETA. MODUS OPERANDI. FUGA DO DISTRITO DA CULPA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. EXCESSO DE PRAZO. DECISÃO DE PRONÚNCIA PROFERIDA. SÚMULA Nº 21/STJ. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.  ..
+2. Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, notadamente em se considerado o modus operandi da conduta, consistente em disparar vários tiros de arma de fogo, de forma repentina, causando a morte de uma das vítimas e deixando a outra com paraplegia, em razão de brigas por drogas e mulheres. Ademais, o paciente também ficou foragido do distrito da culpa por vários meses.
+3. Eventuais condições pessoais favoráveis do recorrente não possuem o condão de, por si sós, conduzir à revogação da prisão preventiva.
+4. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+5. A decisão de pronúncia, já proferida nos autos, torna superado o pedido de relaxamento da prisão por excesso de prazo para o encerramento da instrução, nos termos do Enunciado nº 21 da Súmula desta Corte.
+6. Writ parcialmente conhecido e, nessa extensão, denegado" (HC n. 344.783/MG, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 29/8/2016).
+Ademais, constata-se dos autos que a sessão de julgamento pelo Tribunal do Júri ainda não ocorreu em razão da Defesa que interpôs o recurso em sentido estrito contra a sentença de pronúncia, estando pendentes embargos infringentes que, alíás, já se encontram conclusos ao relator (fls. 21-22).
+Assim sendo, não se vislumbra qualquer ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+P. e I.
