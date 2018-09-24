@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - EM RECUPERACAO JUDICIAL e OI MOVEL S.A. - EM RECUPERACAO JUDICIAL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. PLEITO DEMOLITÓRIO, CUMULADO COM PEDIDO INDENIZATÓRIO. CONSTRUÇÃO DE EDIFÍCIO PELA RÉ, COM PREJUÍZO AO SINAL DE TELEFONIA DE ANTENA DAS AUTORAS. SENTENÇA DE IMPROCEDÊNCIA DA DEMANDA.
+Perda do objeto do pleito demolitório. Caracterização. As autoras, no curso do feito, noticiando o remanejo da antena para outro local, efetivamente apontaram para a perda do objeto da lide no particular, o que restou reconhecido pelo juízo de origem. Nesta perspectiva, descabe, relativamente ao pleito demolitório, o decreto de improcedência, cuidando-se, em verdade, de hipótese de extinção, sem resolução de mérito, tópico em que merece reforma a sentença apelada.
+Pretensão indenizatória. Descabimento. Hipótese em que a obra da ré não possuía qualquer irregularidade à época da sua realização, estando em conformidade com os regulamentos municipais. Em tal contexto, nenhum dever possuía a parte ré de buscar em outros órgãos informações quanto ao empreendimento em razão da existência de uma antena de telefonia na cidade, não estando condicionada a realização da obra à autorização da Anatel ou à anuência das companhias telefônicas. Dever de indenização não caracterizado.
+APELAÇÃO PROVIDA EM PARTE" (fl. 476 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 491/496 e-STJ).
+No recurso especial, foi alegada violação do artigo 85, § 10, do Código de Processo Civil de 2015, sob o argumento de que, "(..) quem deu causa a presente demanda foi a recorrida, que construiu prédio em localidade que na época não possuía plano diretor, o que acarretou obstrução em serviço essencial de telecomunicação" (fl. 505 e-STJ).
+As recorrentes sustentou que, devido ao remanejamento dos equipamentos de telefonia que teve que promover, o pedido de demolição do prédio da parte ré teria perdido o objeto, cabendo a readequação da verba sucumbencial pela metade para cada uma das partes.
+Após a apresentação das contrarrazões (fls. 514/521 e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O Tribunal de origem, julgando embargos de declaração, ponderou, mediante minucioso exame dos elementos probatórios dos autos, que "(..) de modo algum foi a ré quem deu causa ao ajuizamento da ação, mas, sim, as autoras" (fl. 495 e-STJ) e que, a despeito da perda de objeto da pretensão demolitória, a improcedência da ação quanto à pretensão indenizatória já justificaria a imposição dos ônus sucumbenciais à parte autora.
+Nesse contexto, a análise da alegação de que foi a ré quem deu causa ao processo esbarra no óbice da Súmula nº 7/STJ, haja vista que inevitavelmente demandaria o profundo revolvimento do contexto fático-probatório dos autos, procedimento vedado na via do recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.500,00 (mil e quinhentos reais), os quais devem ser majorados para R$ 1.875,00 (mil oitocentos e setenta e cinco reais) em favor do advogado da parte ora recorrida, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
