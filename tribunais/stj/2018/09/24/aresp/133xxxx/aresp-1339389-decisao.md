@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM REPARAÇÃO DE DANOS. ILEGITIMIDADE DA ORA RECORRENTE. PRELIMINAR AFASTADA NA INSTÂNCIA ORDINÁRIA. RESPONSABILIDADE SOLIDÁRIA PELA DEVOLUÇÃO DE PARTE DOS VALORES PAGOS PELA PROMITENTE COMPRADORA RECONHECIDA COM AMPARO NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE BEIRAMAR IMÓVEIS LTDA.
+DECISÃO
+Trata-se de agravo interposto por Beiramar Imóveis Ltda. contra decisão que não admitiu o processamento do recurso especial, por sua vez manejado com fundamento na alínea a do permissivo constitucional, desafiando acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fls. 583-584):
+APELAÇÃO CÍVEL. CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RELAÇÃO DE CONSUMO. RESOLUÇÃO CONTRATUAL. CULPA DO PROMITENTE COMPRADOR. PRELIMINAR DE ILEGITIMIDADE PASSIVA. REJEITADA. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR. REJEITADA. CLÁUSULA PENAL. REDUÇÃO. RETENÇÃO DE 10%. ATUALIZAÇÃO MONETÁRIA. DEVIDA. SENTENÇA MANTIDA.
+1. Na hipótese de relação jurídica negociai cujo objeto é a compra de imóvel, a sociedade empresária construtora se posiciona como fornecedora de bens, submetendo o contrato às disposições normativas do Código de Defesa do Consumidor.
+2. Diante da evidência de abusividade de cláusula do contrato e também no distrato celebrados entre as partes, nos termos do art. 51, inc. IV, do CDC, deve-se preservar o interesse do consumidor em obter a restituição dos valores excedentes, mesmo na hipótese de ter sido o negócio resolvido.
+3. No caso de resolução contratual, as partes devem retornar ao status quo ante. O comprador que deu causa ao fim do contrato possui a pretensão legítima de reaver a quantia que pagou ao vendedor, admitindo-se tão somente a retenção de 10% (dez por cento) deste valor a título de multa penal compensatória.
+4. O valor a ser restituído ao consumidor deve ser devidamente atualizado monetariamente.
+5. Preliminares rejeitadas.
+6. Apelações das rés conhecidas e desprovidas.
+Nas razões do recurso especial (e-STJ, fls. 627-632), a recorrente apontou a existência de afronta ao art. 25, § 1º, do Código de Defesa do Consumidor, defendendo, em suas argumentações, a sua ilegitimidade passiva para o adimplemento da obrigação objeto de condenação (restituição de 90% - noventa por cento - dos valores pagos pela recorrida), uma vez que não recebeu tais valores, não havendo, portanto, solidariedade entre ela e as demais rés.
+Contrarrazões apresentadas (e-STJ, fls. 692-703).
+O processamento do recurso especial foi denegado pelo Tribunal de origem (e-STJ, fls. 709-711), o que levou a insurgente à interposição do presente agravo (e-STJ, fls. 747-754).
+Contraminuta às fls. 758-769 (e-STJ).
+Brevemente relatado, decido.
+Em relação à suscitada ilegitimidade, o Tribunal de origem, analisando o acervo fático-probatório, afastou tal pretensão, por entender que, no presente caso, a demandante não atuou apenas como intermediadora das partes contratantes, tendo em vista que recebeu o valor pago a título de sinal, conforme se verifica dos seguintes trechos do acórdão recorrido (e-STJ, fl. 588):
+Em suas razões recursais (fls. 494-505), a sociedade empresária Beiramar Imóveis Ltda alega, preliminarmente, sua ilegitimidade passiva. Afirma que não é possível sua condenação à devolução dos valores pagos pelo imóvel, pois não é parte no contrato de promessa de compra e venda, e que, como imobiliária, sua atividade empresarial se limita à intermediação entre as partes contratantes, sem que tenha recebido qualquer valor pelo imóvel.
+De fato, ao atuar apenas como intermediadora do contrato de promessa de compra e venda celebrado entre as partes, o valor recebido pela imobiliária limita-se à comissão de corretagem.
+Com efeito, no caso dos autos consta à fl. 49 o recibo emitido pela sociedade empresária Beiramar Imóveis Ltda que declara o recebimento de R$ 113.499,03 (cento treze mil quatrocentos e noventa e nove reais e três centavos) a título de sinal, no dia 5 de julho de 2012.
+Dessa forma, não é possível concluir que a atuação da referida imobiliária se limitou à intermediação entre as partes contratantes. É notório que, diante do recebimento do valor pago a título de sinal, a sociedade empresária) Beiramar Imóveis Ltda prestou serviços na qualidade de fornecedora, nos termos do art. 3º do Código de Defesa do Consumidor.
+Assim, para alterar a conclusão delineada na instância ordinária (acerca da responsabilidade da ora recorrente pelos valores que deverão ser devolvidos à compradora, ora agravada), seria imprescindível o reexame dos fatos e das provas do respectivo processo, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de Beiramar Imóveis Ltda.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em 2% (dois por cento) sobre o valor da condenação em favor dos advogados da parte recorrida, a serem custeados pela ora recorrente.
+Publique-se.
