@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - EM RECUPERACAO JUDICIAL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE ADIMPLEMENTO CONTRATUAL - CUMPRIMENTO DE SENTENÇA - INTERLOCUTÓRIA QUE DETERMINOU A EXIBIÇÃO DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA - RECURSO INTERPOSTO PELA EMPRESA DE TELEFONIA PEDIDO DE SUSPENSÃO DO PROCESSO EM DECORRÊNCIA DO DEFERIMENTO DO PEDIDO DE RECUPERAÇÃO JUDICIAL - DESNECESSIDADE - AUSÊNCIA DE PRÁTICA DE ATOS EXPROPRIATÓRIOS.
+O deferimento do pedido de recuperação judicial visa impedir o prosseguimento de atos expropriatórios, bem como das ações judiciais nas quais estiverem sendo executadas penalidades administrativas em desfavor da sociedade empresária, a teor do art. 6o, §1º, da Lei n. 11.101/2005.
+Na hipótese, carece a dívida de liquidez, porquanto não estabelecido o montante final do débito. Diante disso, o presente feito prescinde de suspensão, com a ressalva de que não se proceda apenas à realização de atos constritivos ou de liberação de valores.
+ORDEM DE APRESENTAÇÃO DO INSTRUMENTO CONTRATUAL CELEBRADO ENTRE AS PARTES - ALEGADA SUFICIÊNCIA DA RADIOGRAFIA PRESENTE NOS AUTOS PARA ELABORAÇÃO DO CÁLCULO DO MONTANTE DEVIDO - DOCUMENTO HÁBIL PARA INSTRUIR A AÇÃO DE ADIMPLEMENTO, MAS NÃO PARA PERMITIR A EXATA APURAÇÃO DAS PERDAS E DANOS - POSSIBILIDADE DE DIVERGÊNCIA ENTRE O VALOR INTEGRALIZADO E O EFETIVAMENTE CAPITALIZADO - IMPERATIVIDADE DA EXIBIÇÃO DA AVENÇA, A TEOR DO QUE PREVÊ O ART. 524, § 4o, DA LEI ADJETIVA CIVIL, SOB PENA DE INCIDÊNCIA DO § 5o DO MESMO DISPOSITIVO LEGAL - INSURGÊNCIA DESPROVIDA.
+Esta Câmara de Direito Comercial pacificou o entendimento de que a "radiografia" do contrato de participação financeira é documento apto e suficiente para instruir a ação de adimplemento contratual.
+No entanto, aquela passa a ser, na fase de cumprimento de sentença, apenas um dos documentos dos quais se extraem dados necessários à realização dos cálculos do montante exequendo, haja vista que somente por meio da análise do contrato de participação financeira é possível verificar com clareza o valor efetivamente pago pelo contratante a título de participação financeira quando da assinatura da avença. Assim, imperiosa a análise do instrumento contratual firmado entre os litigantes.
+No caso concreto, é imperiosa a exibição do documento pleiteado pelo exequente, essencial à realização dos cálculos de cumprimento de sentença, nos termos do art. 524, § 4o, do Código de Processo Civil, sob pena de aplicação da penalidade prevista no § 5o do mencionado dispositivo legal (presunção de veracidade) em relação à quantia empregada a título de integralização." (e-STJ fls. 126-127).
+Opostos embargos declaratórios, foram eles rejeitados (e-STJ fl. 493).
+No especial, a recorrente alega, além de dissídio jurisprudencial, violação dos artigos 373, I, 398, 399, III, 400, 425, V, e 524 do Código de Processo Civil de 2015.
+Postula, em síntese, a reforma do acórdão recorrido ao argumento de que as radiografias dos contratos de participação financeira apresentados são válidas, aptas a provarem a elucidação dos cálculos da fase de liquidação de sentença, de modo que pugna pelo provimento do recurso.
+Sem as contrarrazões e inadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Acórdão impugnado pelo presente recurso especial publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+Com efeito, o tribunal de origem, soberano na análise do conteúdo fático probatório dos autos, consignou ser necessária a análise do contrato de participação financeira para eliminar dúvidas a respeito de dados atinentes à contratação, consoante verifica-se do excerto do voto condutor a seguir transcrito (e-STJ fls. 130-131):
+"(..)
+Esta Câmara de Direito Comercial pacificou o entendimento de que a "radiografia" (ou certidão informativa) do contrato de participação financeira contendo dados do acionista; número, tipo e valor do contrato; valor total capitalizado; tipo e número de ações emitidas; valor patrimonial das ações; momento da capitalização; identificação da linha telefônica; e data da assinatura do contrato é documento apto e suficiente para instruir a ação de adimplemento contratual.
+De outra banda, a aludida radiografia passa a ser, na fase de cumprimento de sentença, apenas um dos documentos dos quais se extraem dados necessários à realização dos cálculos do montante exequendo.
+Nesta senda, somente por meio da análise do contrato de participação financeira é que se pode verificar com clareza o valor pago pelo contratante quando da assinatura da avença a título de participação financeira - quantia essa que deveria ter sido convertida em títulos acionários -, eliminando, assim, dúvidas ou obscuridades a respeito de dados atinerites à contratação.
+Frise-se, portanto, a existência de diferença conceituai entre os termos valor integralizado e valor capitalizado, na medida em que o primeiro indica o montante pago pelo acionista e o segundo registra quanto foi efetivamente convertido em ações pela empresa de telefonia.".
+Dessa forma, rever o entendimento do acórdão impugnado implicaria o reexame do contexto fático-probatório, procedimento inadmissível em âmbito de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA A DECISÃO QUE DETERMINOU A APRESENTAÇÃO DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. NÃO CABIMENTO, NESTA INSTÂNCIA, DO PEDIDO DE SUSPENSÃO DO PROCESSO EM RAZÃO DO DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. TESE RECURSAL DE QUE A RADIOGRAFIA DO CONTRATO É SUFICIENTE PARA A ELABORAÇÃO DOS CÁLCULOS. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. O pedido de sobrestamento do processo, em razão do deferimento da recuperação judicial, deve ser deduzido no juízo de origem.
+2. A revisão da conclusão a que chegou o Tribunal local, sobre a necessidade ou não de exibição do contrato e acerca da suficiência de dados existentes na radiografia para a realização dos cálculos de liquidação de sentença, demanda reexame de matéria fática, o que é inviável em recurso especial nos termos da Súmula 7 do STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido".
+(AgInt no AREsp 1046345/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/02/2018, DJe 23/02/2018)
+Registra-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO EM RECURSO ESPECIAL. EXECUÇÃO. CONCURSO ESPECIAL. PREFERÊNCIA. PENHORA. SUB-ROGAÇÃO. EXISTÊNCIA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. ALÍNEA C. APLICABILIDADE. AGRAVO IMPROVIDO.
+1. A inversão quanto às conclusões do acórdão recorrido de que teria se efetivado a penhora nos autos e de que houve decisão no concurso especial de credores, demandaria revolvimento de aspectos fático-probatórios, procedimento vedado pelo óbice da Súmula 7/STJ.
+2. Segundo a pacífica orientação jurisprudencial desta Corte Superior, o óbice da Súmula 7/STJ impede o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+3. Agravo a que se nega provimento" (AgRg no AREsp nº 539.292/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 5/3/2015, DJe 16/3/2015).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 15% do valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
