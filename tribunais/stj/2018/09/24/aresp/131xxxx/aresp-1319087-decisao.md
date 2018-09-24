@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela Universidade Federal Fluminense - UFF contra decisão que não admitiu o recurso especial com base no óbice da Súmula 7 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 356):
+ADMINISTRATIVO. INDENIZAÇÃO. DANOS MORAIS. ERRO MÉDICO. CIRURGIA PARA IMPLANTAÇÃO DE LENTE INTRA-OCULAR (CIRURGIA DE CATARATA). DANOS MORAL E MATERIAL. SUCUMBÊNCIA MÍNIMA. SÚMULA 326 DO STJ.
+1 - Evidenciado no laudo pericial que a doença ou lesão se deu durante o procedimento cirúrgico para a retirada de catarata do olho esquerdo do autor e devida às complicações pós-cirúrgica. O perito destacou que a necessidade da realização de quatro operações decorreu de erro cometido durante a cirurgia de catarata: sendo que o autor, atualmente, apresenta acuidade visual de 20/25 ct no olho direito sem correção e no olho esquerdo amaurose, que não melhora com correção, e processo inflamatório ativo com seqüelas.
+2 - Demonstrada a grande extensão do dano sofrido pelo autor (perda quase completa da visão do olho esquerdo), o que implica em considerável diminuição na sua qualidade de vida. cm se tratando de pessoa de idade avançada. Nexo causal entre a conduta praticada e os danos sofridos comprovado.
+3 - O autor decaiu em parte mínima em face do total de pedidos acolhidos. Na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca (Súmula nº 326 do STJ).
+4 - Remessa Necessária e Apelação da UFF a que se nega provimento. Recurso Adesivo provido para condenar a parte ré ao pagamento de honorários advocatícios fixados em R$ 4.000,00.
+A recorrente alega afronta do art. 927 do Código Civil, porquanto a responsabilidade é subjetiva e, dessa forma, necessária é a demonstração de culpa.
+Afirma que não ficou comprovada a culpa dos servidores e o nexo de causalidade.
+Sustenta que o valor arbitrado a título de dano moral é exorbitante, não tendo observando os princípios de proporcionalidade e razoabilidade, com fundamento no art. 944 do Código Civil.
+É o relatório.
+No específico, o ato ilícito foi praticado pela Universidade Federal Fluminense, pessoa jurídica de direito público com personalidade jurídica própria, em que a responsabilidade condicionando-se à comprovação dos seguintes requisitos: nexo de causalidade entre os danos alegados, conduta administrativa apontada como lesiva e inexistência de causa excludente da responsabilidade, não havendo falar em culpa, por tratar-se de responsabilidade objetiva.
+Ademais, não estamos diante de conduta omissiva genérica, como bem ressaltado pela Corte local. Assim, a análise da responsabilidade da recorrente é objetiva (e-STJ, fl. 352):
+Destarte, como a omissão da UFF - ao contrário do que, de modo culto e técnico, defende seu procurador (fls. 103-106) não consubstancia uma omissão genérica, mas especifica, permanece a responsabilidade objetiva da autarquia universitária.
+Quanto à responsabilidade da insurgente, o Tribunal de origem, com base nos documentos dos autos, entendeu que (e-STJ, fls. 351-352):
+Nexo de Causalidade. Apurados os fatos, resta verificar se existe algum liame entre eles e o dano.
+Este Juízo vislumbra nexo de causalidade entre o procedimento cirúrgico, realizado em 10/12/2007 para a remoção da catarata do olho esquerdo do autor e o dano, principalmente porque, conforme relatado pelo perito, no laudo de fls. 188-191, em resposta ao quesito nº 5 do autor, "durante a realização da cirurgia houve intercorrência (núcleo do cristalino esquerdo mergulhou no vitreo)".
+Por outro lado, não excluiu a possibilidade de a causa da intercorrência havida "ruptura da cápsula posterior do cristalino", ter sido derivada da imperícia do médico (quesito nº 06). Ao contrário. Afirmou que os males ocorridos ao autor não poderiam advir no próprio pós-operatório, independentemente de falha no ato cirúrgico (quesito "e").
+Ao ser indagado acerca do motivo da impossibilidade da aplicação da lente intraocular durante a cirurgia de catarata (quesito nº 09), afirmou ter sido devido à ruptura da cápsula e o fato de o cristalino ter mergulhado no vítreo.
+O laudo pericial deixa claro que os demais procedimentos efetuados só se fizeram necessários em razão da "intercorrência " lurvida na primeira cirurgia.
+Observa-se, ainda, a ratificação do perito no sentido de não haver nos autos a comprovação de que o amor tenha recebido as orientações relativas aos riscos do procedimento - diminuição da acuidade visual e até mesmo a perda total da visão em virtude de complicações pré, per e pós operatórias (quesitos nºs. N. 15 e g"), nem mesmo assinado Termo de Responsabilidade neste sentido, conforme dispõe o art 46 do Código de Ética Médica.
+Conclui o perito, afirmando que a incapacidade é decorrente de progressão ou agravamento da doença ou lesão.
+Também pela análise de Ioda a documentação constante dos autos (prontuário médico), se vislumbra o liame entre a lesão apresentada pelo autor e a falha no serviço médico a ele prestado.
+O relatório médico elaborado pelo Chefe do Serviço de Oftalmologia do HUAP. Dr. [NOME], à fl. 108, não é capaz: de comprovar a exclusão do nexo causal.
+Os fatos comprovados possuem nexo de causalidade com os danos material e moral, havendo que se reconhecer a responsabilidade da ré.- grifos acrescidos
+Da leitura do acórdão recorrido dessume-se que a Corte local firmou o entendimento com base nas provas dos autos, assim, a revisão do julgado implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+No tocante ao valor dos danos morais, a instância ordinária consignou que (e-STJ, fls. 352-353):
+É evidente a grande extensão do dano sofrido pelo autor, consiste na perda quase completa da visão esquerda, o que obviamente implica considerável diminuição na sua qualidade de vida, principalmente em se tratando de pessoa de idade avançada.
+ ..
+No presente caso, é de ser ressaltada a culpa exclusiva da ré pela ocorrência do dano, aliada à sua gravidade e irreversibilidade. A confessada condição de hipossuficiência econômica do autor fls. 94 e 98) também há de ser considerada. Ponderando todos esses elementos, este juízo considera razoável fixar a indenização em valor equivalente a 200 salários mínimos atuais, correspondente a RS 124.400.00 (cento e vinte e quatro mil e quatrocentos reais). O valor já considera a correção e os juros de mora vencidos até esta data. - grifos acrescidos.
+Esta Corte Superior admite a revisão do valor da indenização quando este se mostrar irrisório ou exorbitante, o que não é o caso dos autos. Dessa forma, a revisão do quantum indenizatório implica a revisão das provas dos autos, o que não é possível pela via eleita, ante o óbice da Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO ESTADO. BALA PERDIDA. DISPAROS EFETUADOS POR POLICIAL EM SERVIÇO. VÍTIMA ACOMETIDA DE PARAPLEGIA. VIOLAÇÃO AO ART. 489, § 1º DO CPC/2015. NÃO OCORRÊNCIA. INDENIZAÇÃO POR DANOS MORAIS. RAZOABILIDADE E PROPORCIONALIDADE DO QUANTUM ARBITRADO. REVISÃO DO MONTANTE. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não houve ofensa ao art. 489, § 1º do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Não é cabível, em regra, na via especial, a revisão do montante indenizatório fixado pela instância de origem a título de danos morais, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. A jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, a parte recorrente não demonstrou que os valores arbitrados, na espécie, seriam excessivos, de forma que o acórdão recorrido deve ser mantido.
+4. Agravo interno do Estado do Ceará a que se nega provimento.
+(AgInt no AREsp 1.176.969/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 2/8/2018)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
