@@ -1,0 +1,9 @@
+DECISÃO
+A Defensoria Pública do Estado de São Paulo requer tutela de urgência cautelar antecedente, "para determinar a suspensão dos efeitos da decisão proferida às fls. 936/942 dos autos eletrônicos 1014992-13.2015.8.26.0037, em trâmite na Vara da Fazenda Pública da Comarca de Araraquara, até que se julgue, em definitivo, o agravo de instrumento 2201015-59.2018.8.26.0000, em trâmite perante a 5ª Câmara de Direito Público do TJSP, em que se discute a nulidade absoluta do feito em razão da ausência de intervenção da Defensoria Pública na ação, conforme determina o artigo 554, § 1º do CPC" (fl. 17).
+Narra que o Tribunal de Justiça do Estado de São Paulo, ao apreciar agravo de instrumento interposto contra decisão que, em ação de reintegração de posse, determinou a desocupação da área esbulhada no prazo de 48 horas, indeferiu o postulado efeito suspensivo, decisão essa passível de causar prejuízo às famílias que ali residem, ante o exíguo prazo fixado, e sem o oferecimento de alternativa habitacional para essas pessoas.
+É o breve relatório.
+Em que pesem aos relevantes argumentos apresentados pela parte requerente, a tutela ora postulada - efeito suspensivo à decisão proferida na ação de reintegração de posse que determinou a desocupação da área em litígio (autos 1014992-13.2015.8.26.0037) - deve ser apreciada pelo órgão competente do e. Tribunal paulista, de acordo com as normas processuais vigentes, não sendo possível sua análise, per saltum, por este Superior Tribunal de Justiça.
+Nesse panorama, não se achando inaugurada a competência do Superior Tribunal de Justiça para o exame do mérito da questão controvertida, inviabilizada a apresentação do requerimento em testilha junto a esta Corte Superior.
+Ante o exposto, não conheço do pedido.
+Comunique-se, com urgência, o teor da presente decisão à ilustrada Defensoria Pública requerente.
+ Publique-se.
