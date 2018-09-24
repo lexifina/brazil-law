@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por BARBARA DE ALENCAR ARARIPE WANDERLEY e OUTROS, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região que deu provimento a apelo da recorrida, para que a execução prossiga com base nos cálculos por ela elaborados.
+Nas suas razões, os recorrentes apontam, além de divergência jurisprudencial, violação do art. 460 do CPC/1973 e alegam não haver julgamento ultra petita quando há o acolhimento dos cálculos elaborados por contador judicial, em montante superior ao apresentado pelo exequente.
+Apresentaram-se contrarrazões às e-STJ fls. 341/350.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerado isso, observo que os autos dão conta de embargos à execução de título judicial opostos pela UNIÃO, ora recorrida, que foram julgados improcedentes na origem.
+O apelo interposto foi provido pelo Regional para limitar o quantum exequendo àquele pleiteado pelos exequentes (R$ 418.373,37), afastando o montante apurado pelo perito contábil judicial (R$ 608.084,72), visto configurar julgamento ultra petita (e-STJ fl. 297):
+Assiste razão à União. Efetivamente, não devem prevalecer os cálculos apresentados no laudo pericial, contábil, penso que seria conceder à parte exequente mais do que por ela requerido, à medida que a excussão fora proposta com vista a reclamar R$418.373,37, porém, o órgão auxiliar do juízo entendeu serem devidos R$608.084,72.
+Todavia, os valores apurados no laudo pericial (na data da execução do julgado), resultaram em quantias superiores às vindicadas pelos exequentes, razão pela qual deve a quantia a ser pago aos embargados limitar-se ao montante cobrado" na inicial da execução, em atenção ao principio da demanda, e sob" pena de se incorrer em julgamento ultra petita (CPC, artigo 460).
+Essa postura se coaduna com a orientação firmada nesta Corte, como demonstram os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. LIQUIDAÇÃO DE INDENIZAÇÃO. CÁLCULOS ELABORADOS PELO CONTADOR JUDICIAL EM VALOR SUPERIOR AO APRESENTADO PELO EXEQUENTE. JULGAMENTO ULTRA PETITA NÃO CONFIGURADO. DISCUSSÃO QUANTO A SUPOSTO ERRO MATERIAL DOS CÁLCULOS E NECESSIDADE DE NOVA PERÍCIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O acolhimento dos cálculos elaborados por Contador Judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado. Precedentes: AgRg no REsp. 1.482.653/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 5.11.2014; REsp. 901.126/AL, Rel. Min. JOSÉ DELGADO, DJU 26.03.2007; REsp. 389.190/SC, Rel. Min. CASTRO MEIRA, DJ 13.3.2006; AgRg no Ag 568.509/MG, Rel. Min. LUIZ FUX, DJ 30.9.2004.
+2. A eventual análise da suposta necessidade de nova perícia para a verificação da alegada incorreção dos cálculos realizados pela Contadoria Judicial demandaria inevitável reexame de matéria fático-probatória, vedada em sede de Recurso Especial, nos termos da Súmula 7/STJ.
+3. Agravo Regimental do ESTADO DO ESPÍRITO SANTO desprovido.
+(AgRg no REsp 1.183.264/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/08/2016, DJe 23/08/2016).
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ACOLHIMENTO DO CÁLCULO DO EXPERT. JULGAMENTO ULTRA PETITA NÃO CARACTERIZADO.
+1. A jurisprudência do STJ entende que "o acolhimento dos cálculos do contador judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado" (AgRg no Ag 1.088.328/SP, rel. Min. Napoleão Nunes Maia Filho, Quinta Turma, DJe 16/8/2010).
+2. Ademais, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial." 3. Agravo Regimental não provido.
+(AgRg no AREsp 563.091/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/11/2014, DJe 04/12/2014).
+Dessarte, incide, inclusive quanto à divergência jurisprudencial suscitada, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se.
+Intimem-se.
