@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo em execução interposto pelo Ministério Público.
+O Juízo da Execução proferiu decisão na qual deferiu o indulto de penas, com fulcro no Decreto Presidencial n.º 8.615/2015, declarando extinta a pena imposta (fl. 26).
+O Tribunal a quo deu provimento ao agravo em execução ministerial para cassar a decisão combatida, uma vez que a qualificação do tráfico como crime hediondo, ainda que em sua modalidade privilegiada, decorre de lei, não cabendo ao julgador fazer distinção quando a própria lei regente não o fez (fl. 64).
+Sustenta a impetrante, em síntese, que não se pode conferir o mesmo tratamento entre os condenados por tráfico e aqueles condenados pelo tráfico na forma privilegiada, tendo em vista o atual entendimento do STF sobre a questão.
+Requer, assim, inclusive liminarmente, que seja conferido o indulto à paciente, restabelecendo a decisão de 1º grau.
+Indeferida a liminar (fl. 83) e prestadas as informações (fl. 86/92), manifestou-se o Ministério Público Federal pelo não conhecimento do writ, mas subsidiariamente, pela concessão da ordem (fls. 97/100).
+É o relatório.
+DECIDO.
+A Corte local cassou a benesse concedida, por acolher o pleito de reconhecimento do caráter hediondo do crime de tráfico de drogas, mesmo com a incidência da causa de diminuição de pena contida no § 4º do art. 33 da Lei 11.343/06, pelos seguintes fundamentos (fls. 73/74):
+ ..
+O recurso comporta provimento.
+Consta dos autos que a sentenciada foi condenada à pena de 01 ano e 08 meses de reclusão, em regime inicial aberto, como incursa no artigo 33, caput, e §4º, da Lei nº 11.343/06, sendo concedido sursis penal pelo prazo de 02 anos (fl. 17).
+Não agiu com seu costumeiro acerto o D. Magistrado de primeiro grau ao conceder o indulto à agravada, sob fundamento de preenche os requisitos do artigo 1o, inciso XIV, do Decreto Presidencial.
+Com efeito, a Constituição Federal atribuiu competência ao Presidente da República para a concessão de indulto e comutação de pena.
+Desta feita, assim dispõe o artigo 9o, inciso II, do Decreto Presidencial nº 8.615/2015:
+"Art. 9o O disposto neste Decreto não alcança as pessoas condenadas:
+II - por crime de tráfico ilícito de droga, nos termos do caput e do § 1o do art. 33 e dos art. 34 a art. 37 da Lei nº 11.343. de 23 de agosto de 2006;
+Portanto, assiste razão ao agravante no que pertine à impossibilidade de concessão dos benefícios de indulto e comutação de penas aos condenados pelos delitos de tráfico de entorpecentes, por expressa determinação legal.
+Além disso, a qualificação do tráfico como crime hediondo, ainda que em sua modalidade privilegiada, decorre de lei, não cabendo ao julgador fazer distinção quando a própria lei regente não o fez.
+Desta forma, como ficou provado que a condenada não faz jus ao benefício concedido, o mesmo deve ser tornado sem efeito.
+Ante o exposto, dá-se provimento ao recurso ministerial, para cassar a decisão recorrida, determinando-se o cumprimento integral da pena e o pagamento da multa aplicada à sentenciada [NOME].
+Há muito este Superior Tribunal de Justiça havia fixado entendimento no sentido de que a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06 não afastava a hediondez do delito de tráfico de drogas, pois sua incidência não decorre do reconhecimento de uma menor gravidade da conduta praticada e tampouco da existência de uma figura privilegiada do crime (REsp 1.329.088/RS, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 13/3/2013, DJe 26/4/2013), o que foi, inclusive, consolidado na Súmula 512/STJ.
+Ocorre que, no julgamento do HC 118.533/MS, o Plenário do Supremo Tribunal Federal firmou orientação segundo a qual o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei 11.343/06) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos. Eis a ementa do acórdão:
+EMENTA: HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA LEI N. 8.072/90 AO TRÁFICO DE ENTORPECENTES PRIVILEGIADO: INVIABILIDADE. HEDIONDEZ NÃO CARACTERIZADA. ORDEM CONCEDIDA.
+1. O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+2. O tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+3. Há evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90.
+4. Ordem concedida. (HC 118533, Relator(a):  Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 23/6/2016, PROCESSO ELETRÔNICO DJe-199 DIVULG 16-9-2016 PUBLIC 19-9-2016.)
+Nesse contexto, alinhando-se a posição do STF, a Terceira Seção desta Corte concluiu pela necessidade de revisão do entendimento anteriormente consolidado, com o consequente cancelamento da Súmula 512/STJ. Vejamos:
+PENAL E PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS NA SUA FORMA PRIVILEGIADA. ART. 33, § 4º, DA LEI Nº 11.343/2006. CRIME NÃO EQUIPARADO A HEDIONDO. ENTENDIMENTO RECENTE DO PLENO DO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO HC 118.533/MS. REVISÃO DO TEMA ANALISADO PELA TERCEIRA SEÇÃO SOB O RITO DOS REPETITIVOS. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA Nº 1.329.088/RS. CANCELAMENTO DO ENUNCIADO Nº 512 DA SÚMULA DO STJ.
+1. O Supremo Tribunal Federal, no recente julgamento do HC 118.533/MS, firmou entendimento de que apenas as modalidades de tráfico ilícito de drogas definidas no art. 33, caput e § 1º, da Lei nº 11.343/2006 seriam equiparadas aos crimes hediondos, enquanto referido delito na modalidade privilegiada apresentaria "contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa." (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 23/06/2016).
+2. É sabido que os julgamentos proferidos pelo Excelso Pretório em Habeas Corpus, ainda que por seu Órgão Pleno, não têm efeito vinculante nem eficácia erga omnes. No entanto, a fim de observar os princípios da segurança jurídica, da proteção da confiança e da isonomia, bem como de evitar a prolação de decisões contraditórias nas instâncias ordinárias e também no âmbito deste Tribunal Superior de Justiça, é necessária a revisão do tema analisado por este Sodalício sob o rito dos recursos repetitivos (Recurso Especial Representativo da Controvérsia nº 1.329.088/RS - Tema 600).
+3. Acolhimento da tese segundo a qual o tráfico ilícito de drogas na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006) não é crime equiparado a hediondo, com o consequente cancelamento do enunciado 512 da Súmula deste Superior Tribunal de Justiça. (Pet 11.796/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 23/11/2016, DJe 29/11/2016.)
+Desse modo, não há como se aplicar os rigores da Lei 8.072/90 ao crime de tráfico ilícito de entorpecentes, quando reconhecida a sua forma privilegiada, nos termos do art. 33, § 4º, da Lei 11.343/06, porquanto não caracterizada a natureza hedionda do delito.
+Ante o exposto, concedo o habeas corpus para afastar a natureza hedionda do crime de tráfico privilegiado, restabelecendo a decisão proferida pelo Juízo da Execução, que deferiu o pedido de indulto.
+Comunique-se.
+Publique-se.
+Intimem-se.
