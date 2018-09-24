@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por CELIA DE FATIMA FIGUEIREDO SILVA com base nas alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado, verbis:
+"Agravo em execução. Penas restritivas de direitos. Conversão. Na esteira do entendimento dos tribunais superiores, atualmente é de se ler o parágrafo 5o do artigo 44 do Código Penal como exigência de compatibilidade simultânea entre os institutos penais de espécies distintas" (e-STJ, fl. 60).
+O recorrente alega contrariedade aos arts. 44, § 5º e 76, ambos do Código Penal.
+Aduz, em suma, que " a  norma contida no § 5o do artigo 44 do Código Penal, diretamente dirigida ao juiz da execução criminal, processo este especial e dinâmico, pautado sempre num juízo de prognose, não deve ser, mais uma vez pedindo vênia, aplicada de forma automática, fruto de mera operação aritmética" (e-STJ, fl. 71).
+Assevera haver desproporcionalidade na fixação do regime inicial fechado, "sobretudo se considerada a circunstância de que, em breve espaço de tempo, a recorrente, no contexto da execução nº 02, ingressaria em regime aberto" (e-STJ, fl. 71).
+Sustenta, ainda, que a aplicação do disposto no § 5º do art. 44 do CP é facultativa, motivo pelo qual "é possível promover a suspensão da execução da pena restritiva de direitos até que, no âmbito da pena privativa de liberdade surja condição - progressão de regime, livramento condicional ou cumprimento - de que a recorrente possa retomar o cumprimento daquelas penas de serviços comunitários de que tanto se ressente a sociedade" (e-STJ, fl. 73).
+Requer, assim, o provimento do presente recurso, para que se conceda à recorrente a reconversão das penas, "suspendendo-se o curso das execuções nºs 03, 04, 05, 06 e 07 até que a recorrente reúna condições, no contexto da execução nº 02, de poder cumprir as penas restritivas de direitos" (e-STJ, fl. 75).
+Contrarrazões às fls. 77-83 (e-STJ).
+Decisão de admissibilidade à fl. 86 (e-STJ).
+O Ministério Público Federal opina pelo desprovimento do apelo especial (e-STJ, fls. 113-118).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Em relação à conversão da pena restritiva de direitos em privativa de liberdade, o Tribunal de origem assim decidiu:
+" ..  Malgrado aquele que era o anterior entendimento deste relator sobre a matéria, entáo fundado na disposição do artigo 76 do Código Penal que admite o cumprimento sucessivo das duas penas de espécies diferentes, é certo que, no âmbito desta 2ª Câmara Criminal do Tribunal de Justiça, afinal se consolidou o entendimento majoritário que a disposição do parágrafo 5o do artigo 44 do Código Penal dá melhor razão à solução do Juízo de origem.  ..  Desse modo, somente haverá possibilidade de manutenção da pena restritiva de direitos se ela puder, simultaneamente, ser cumprida com a pena privativa de liberdade: seria o caso, por exemplo, do advento de pena privativa de liberdade em regime aberto ou, ainda, da pena restritiva de direitos consistente em prestação pecuniária ou perda de bens e valores (STJ - 5a T - HC 240.168/SP - Rel. Laurita Vaz- j. 18.03.2014).
+Com relação ao regime prisional fixado, também incensurável a decisão que, no caso, sequer vem aqui a debate. Realmente, alongando-se as penas em execução, mesmo descontado o pouco tempo já cumprido, para mais de oito (8) anos, faz-se inevitável a imposição do fechado como regime de cumprimento prisional inicial.
+Logo, não se visualiza, para a agravante, outra alternativa que o cumprimento do lapso necessário para que possa adiante reclamar a progressão de regime para o semiaberto, se e quando satisfeitos os pressupostos e requisitos legais respectivos.
+Advirta-se que as idéias de razoabilidade e de proporcionalidade - aqui invocadas neste recurso - devem ser, na modernidade, também acomodadas, por outro lado, com aquela da universalidade da experiência do direito. Em outras palavras, não se pode falar naqueles ideários senáo no ambiente de um direito que se observa e se possa cumprir para todos, igualmente.
+Em face do exposto, nega-se provimento ao recurso" (e-STJ, fls. 61-63, grifou-se).
+Com efeito, " a  jurisprudência deste Tribunal Superior firmou-se no sentido de que, no caso de nova condenação a penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou semiaberto, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das penas. Nesses casos, as penas restritivas de direito devem ser convertidas em sanção privativa de liberdade, unificando-se as reprimendas, nos termos dos arts. 181 e 111 da Lei de Execução Penal, respectivamente, não sendo aplicável o art. 76 do Código Penal" (HC 400.480/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/09/2017, DJe 21/09/2017).
+Neste sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. CONVERSÃO DE PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. CONDENAÇÃO SUPERVENIENTE. PENA DE RECLUSÃO. CUMPRIMENTO SIMULTÂNEO. INCOMPATIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem de ofício se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. O paciente cumpria pena restritiva de direitos, consistente em prestação de serviços à comunidade quando sobreveio nova condenação à pena de 1 ano de reclusão, no regime inicial semiaberto.
+3. A superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas justifica a conversão da sanção restritiva de direitos em privativa de liberdade e a consequente unificação das penas, nos termos do art. 111 da Lei n. 7.210/84 (LEP).
+Habeas corpus não conhecido."
+(HC 360.379/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/09/2016, DJe 22/09/2016)
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REEDUCANDO EM CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE. CONDENAÇÃO SUPERVENIENTE. PENA RESTRITIVA DE DIREITOS. CUMPRIMENTO SIMULTÂNEO.
+IMPOSSIBILIDADE. CONVERSÃO DA PENA SUBSTITUTIVA EM REPRIMENDA RECLUSIVA.
+1. "A superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas justifica a conversão da sanção restritiva de direitos em privativa de liberdade e a consequente unificação das penas, nos termos do art. 111 da Lei n. 7.210/84 (LEP)" (HC 360.379/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/9/2016, DJe 22/9/2016).
+2. No caso dos autos, o agravante cumpria pena privativa de liberdade em regime fechado quando sobreveio nova condenação que foi substituída por pena restritiva de direitos.
+3. Desse modo, forçosa a conversão da pena substitutiva em privativa de liberdade e a posterior unificação das reprimendas.
+4. Agravo regimental desprovido."
+(AgRg no REsp 1634175/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/04/2017, DJe 26/04/2017)
+Não é despiciendo ressaltar que, como já firmado em diversos julgamentos desta Corte Superior, somente certas penas restritivas (prestação pecuniária e perda de bens) e multa se coadunam com os regimes semiaberto e fechado (HC 269366/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 26/2/2014).
+Assim, o acórdão impugnado está em consonância com o entendimento sedimentado pela Terceira Seção do Superior Tribunal de Justiça, não merecendo reforma.
+Assim, por estar o acórdão recorrido em consonância com a jurisprudência firmada nesta Corte, a pretensão recursal esbarra no óbice previsto na Súmula 83 deste Superior Tribunal de Justiça, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
