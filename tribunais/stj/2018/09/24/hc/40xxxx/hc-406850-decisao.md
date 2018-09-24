@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de DANILO VIEIRA DELGADO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação n. 0000029-30.2016.8.26.0571.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicialmente fechado, além do pagamento de 680 dias-multa, pela prática do delito previsto no art. 33 c/c o art. 40, inc. III, da Lei n. 11.343/06 (tráfico de drogas majorado).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso do ora paciente, conforme acórdão acostado às fls. 75/91.
+No presente writ, o impetrante alega, preliminarmente, nulidade das provas obtidas no celular do paciente sem prévio mandado judicial, especificamente em relação as conversas mantidas pelo aplicativo "WhatsApp".
+Sustenta que as provas dos autos dão demonstram que o paciente é um mero usuário de drogas e que sua conduta se subsume ao tipo do art. 28 da Lei n. 11.343/06.
+Afirma a impossibilidade de recrudescimento da pena-base com fundamento em condenações alcançadas pelo período depurador de 5 anos.
+Pondera que não foi apontada a exata localidade em que o paciente foi abordado, de modo que é necessário o afastamento da majorante referente às proximidades de estabelecimentos prisionais (art. 40, inc. III, da Lei de Drogas).
+Aponta violação ao principio do non bis in idem, porquanto as circunstâncias judiciais foram utilizadas para o aumento da pena e na fixação do regime fechado. Ainda, afirma que a fixação do regime mais severo não está idoneamente fundamentado e invoca as Súmulas n. 718 e 719 do Supremo Tribunal Federal, bem como a n. 440 desta Corte Superior de Justiça.
+Defende a possibilidade de imposição de regime aberto e de substituição da pena corporal por restritiva de direitos.
+Requer, liminarmente, a expedição de alvará de soltura e, no mérito, a nulidade do processo em razão da prova ilícita, a desclassificação para a conduta do art. 28 da Lei de Drogas, a diminuição da pena-base, afastamento da causa de aumento do art. 40, inc. III, da Lei n. 11.343/06 e a fixação do regime aberto com a substituição da pena privativa de liberdade por restritiva de direitos.
+O pedido de liminar foi indeferido (fls. 42/44) e as informações foram prestadas pela instância ordinária (fls. 51/91).
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 97/103).
+É o relatório
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Verifico que há pedido idêntico formulado no HC 399.649/SP de minha relatoria, pendente de julgamento. Em ambos os processos o paciente é o mesmo, a insurgência é contra o mesmo acórdão do Tribunal de origem e a defesa também apresenta as mesmas alegações aqui expostas.
+Desse modo, diante da impossibilidade de reiteração de pedidos, reservo a análise do mérito aos autos do HC n. 399.649/SP, porquanto foi impetrado primeiro, sendo inadmissível o conhecimento do presente writ, conforme a jurisprudência pacífica deste Tribunal, consoante se extrai dos seguintes precedentes:
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. ART. 157, § 2º, INCISOS I, II E V, DO CÓDIGO PENAL. DOSIMETRIA. TERCEIRA. AUMENTO NA FRAÇÃO DE 5/12 APENAS PELO NÚMERO DE MAJORANTES. DESCABIMENTO. SÚMULA N. 443/STJ. PEDIDO DE APLICAÇÃO DA FRAÇÃO DE 1/3. REITERAÇÃO DE PEDIDO. IDENTIDADE DE PARTE, CAUSA DE PEDIR. PEDIDO CONCEDIDO DE OFÍCIO NO HC 302206/SP. WRIT QUE SE NEGA SEGUIMENTO.
+I - O presente habeas corpus trata-se, na verdade, de mera reiteração de pedido, uma vez que a suposta ilegalidade emanada do v. acórdão proferido na apelação n. 0133645-78.2010.8.26.0000 já foi apreciada por este Relator no Habeas Corpus n. 302206/SP, que concedeu a ordem de ofício para estabelecer a fração de 1/3 (um terço), em razão da presenta das majorantes contidas nos incisos I, II e V do § 2º do art. 157 do Código Penal.
+II - Nega-se seguimento a pedido de habeas corpus que deduz pretensão idêntica já apreciada em outro mandamus interposto pela defesa em favor do mesmo paciente.
+Habeas corpus não conhecido, com fulcro no art. 34, inciso XVIII, "a", e art. 210, ambos do RISTJ (HC 424.565/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 29/05/2018).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. IDENTIDADE DE PEDIDO E CAUSA DE PEDIR DE RECURSO ESPECIAL JÁ JULGADO POR ESTA CORTE. REITERAÇÃO. NÃO CONHECIMENTO DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A despeito de os impetrantes apontarem como ato coator o acórdão proferido no julgamento do recurso de apelação, este habeas corpus consiste em mera reiteração de pedido formulado em recurso especial, já apreciado por esta Corte, interposto contra acórdão que julgou revisão criminal.
+2. Evidenciada a identidade de pedido e causa de pedir, o presente mandamus não pode ser conhecido, por configurar mera reiteração do apelo extremo.
+3. Agravo regimental não provido (AgRg no HC 403.289/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 03/04/2018).
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDO. NÃO CONHECIMENTO. EXCESSO DE PRAZO NÃO CARACTERIZADO. INCIDÊNCIA DA SÚMULA 52/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.
+1. A tese relativa à legalidade do decreto de prisão preventiva já foi analisada por esta Corte, por ocasião do julgamento do RHC 66.086/MG, o que impede o conhecimento do recurso no ponto, por se tratar de mera reiteração de pedido.
+2. Inexiste excesso de prazo no caso dos autos, pois o processo segue sua marcha regular, não havendo falar em desídia por parte do Poder Judiciário. Eventual retardo no término da instrução processual deveu-se à complexidade do feito, que conta com 2 réus, denunciados por 2 crimes, e à necessidade de expedição de carta precatória para oitiva de 9 (nove) testemunhas.
+3. "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade, não se ponderando a mera soma aritmética dos prazos para a realização dos atos processuais" (RHC 58.140/GO, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 17/09/2015, DJe 30/09/2015).
+4. Ademais, verifica-se que as alegações finais já foram apresentadas, o que atrai a incidência da Súmula 52 do STJ, que dispõe: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+5. Recurso ordinário em habeas corpus parcialmente conhecido e, nesta parte, desprovido (RHC 70.025/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 17/06/2016).
+Ante o exposto, nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimações necessárias.
