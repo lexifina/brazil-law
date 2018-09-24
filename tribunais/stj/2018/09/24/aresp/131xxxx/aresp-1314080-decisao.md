@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 2.637/2.638, e-STJ):
+AÇÃO MONITÓRIA. FOMENTO MERCANTIL. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. SÓCIA QUE FIGUROU COMO DEVEDORA SOLIDÁRIA NO "CONTRATO PRINCIPAL" NO QUAL FORAM ESTABELECIDAS AS CONDIÇÕES GERAIS, OBSERVADAS NOS TERMOS ADITIVOS. PRELIMINAR AFASTADA. CLÁUSULA DE RECOMPRA POR VÍCIO NA ORIGEM DO NEGÓCIO. VALIDADE (ART. 295, DO CÓDIGO CIVIL). MÁCULA, CONTUDO, NÃO COMPROVADA. ÔNUS DO QUAL NÃO SE DESINCUMBIU A AUTORA (ART. 333, I, CPC/73). PRECEDENTE DESTA CORTE. IMPROCEDÊNCIA DA MONITÓRIA. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA (ART. 17, CPC/73). DEVOLUÇÃO EM DOBRO (ART. 940, CÓDIGO CIVIL). NÃO CABIMENTO. AUSÊNCIA DE COBRANÇA DE DÍVIDA JÁ PAGA. RECURSO PARCIALMENTE PROVIDO. INVERSÃO DOS ÔNUS SUCUMBENCIAIS.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 2.659-2.666).
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Em relação ao juízo de admissibilidade realizado pelo Tribunal de origem, destaco que esta Corte possui entendimento no sentido de que "é admitida a incursão no mérito do recurso especial pelo Tribunal a quo para a verificação da admissibilidade do apelo nobre" (AgRg no Ag 1.034.534/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe 3.2.2009).
+Não admitido o especial na origem por ausência de violação do art. 489 do Código de Processo Civil/2015 e incidência da Súmula 7 do STJ, limitou-se a agravante a sustentar a inaplicabilidade da Súmula 7 do STJ.
+Assim, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, por analogia se aplica o princípio do enunciado n. 182 da Súmula do STJ, reproduzido no art. 932, III, do CPC/2015.
+Em face do exposto, não conheço do agravo.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
