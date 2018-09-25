@@ -1,0 +1,14 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO PREVISTO NO ART. 557, § 1º DO CPC JUROS DE MORA. HONORÁRIOS ADVOCATICIOS. APOSENTADORIA POR TEMPO DE SERVIÇO PROPORCIONAL. REQUISITO ETÁRIO. ETÁRIO. ARTIGO 3º E 9º DA EMENDA CONSTITUCIONAL 20/98”(eDOC 2, p. 208)
+    Decido.
+    O recurso não merece prosperar.
+    Verifico que o Superior Tribunal de Justiça no Embargos de Divergência no REsp n. 1.192.562, Relator o Ministro Ribeiro Dantas, em juízo de retratação conforme previsto no art. 1.030, II, do Código de Processo Civil, deu provimento ao recurso do ora recorrido, adequando a decisão ao tema 96 da sistemática da repercussão geral. (eDOC 5, p. 39)
+    O Plenário decidiu não ser cabível recurso ao Supremo Tribunal Federal contra aplicação do procedimento da repercussão geral nas instâncias originárias. Transcrevo a ementa do AI-QO 760.358, de minha relatoria, DJe 18.2.2010:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”.
+    Ademais, o art. 1.042 do novo Código de Processo Civil dispõe que cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos. Assim, há expressa previsão normativa acerca do não cabimento deste recurso.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC/2015 c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
