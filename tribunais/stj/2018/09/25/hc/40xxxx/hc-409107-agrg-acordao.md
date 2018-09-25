@@ -1,0 +1,56 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL N. 8.615/2015. REQUISITO OBJETIVO. NÃO CUMPRIMENTO. INEXISTÊNCIA DE ILEGALIDADE AGRAVO REGIMENTAL IMPROVIDO.
+1. De acordo com a jurisprudência desta Corte, para que o apenado preencha o requisito objetivo, de modo a fazer jus ao indulto, é necessário que cumpra 1/4, se não reincidente, ou 1/3, se reincidente, de cada uma das penas restritivas de direitos impostas pelo juízo sentenciante, respeitado o prazo estabelecido no decreto presidencial. Precedentes.
+2. Na hipótese, o agravante deixou de cumprir até 25/12/2015 a fração necessária da prestação pecuniária, impedindo, assim, a concessão do indulto por ausência de preenchimento do requisito objetivo do Decreto n.º 8.615/2015.
+3. Agravo Regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME] em face da decisão que denegou a ordem do habeas corpus.
+Em suas razões, alega o agravante, em suma, que o paciente faria jus ao indulto porque, sendo duas as penas restritivas de direitos, e já tendo cumprido 100% de uma delas (a prestação de serviços à comunidade), e 17,3% da segunda (a prestação pecuniária), teria atingido um percentual de cumprimento de 67,3%, o que corresponde à mais de 1/2 do total da pena (fl. 109).
+Requer, pois, o provimento do agravo, para o fim de conceder-se a ordem de habeas corpus requerida.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Na hipótese, a decisão agravada foi assim fundamentada, in verbis (fls. 99/101):
+Trata-se de habeas corpus impetrado em favor de [NOME], em face do Tribunal de Justiça do Paraná, que negou provimento ao recurso de agravo.
+Consta dos autos que o paciente teve indeferido pelo Juízo das execuções, o pedido de indulto de penas, nos termos dos Decreto Presidencial n.º 8.615/2015, ante o não cumprimento 1/4 das penas restritivas de direito, referente ao pagamento da prestação pecuniária, tudo com fulcro no art. 1º, XIV do referido decreto (fls 12-14).
+Interposto recurso de agravo pela defesa, a decisão foi mantida pelo Tribunal a quo (fls. 25-27).
+Sustenta a impetrante, em suma, que o decreto não prevê o cumprimento de 1/4 de cada uma das penas restritivas de direitos. O art. 1º, XIV, apenas estabelece a necessidade da pena privativa de liberdade ter sido substituída por restritivas de direitos e que 1/4 da pena tenha sido cumprida, nos casos de não reincidência.
+Alega que inexiste qualquer previsão no ato normativo que ampare o entendimento do Tribunal de origem, uma vez que a legislação e a jurisprudência admitem o reconhecimento do direito, no caso de cumprimento do total da pena e não de cada uma das penas restritivas de direito.
+Requer a concessão da ordem, determinando-se a reforma da decisão que indeferiu o pedido de indulto pleiteado, extinguindo-se a punibilidade do apenado.
+Não houve pedido liminar.
+As informações foram prestadas às fls. 38-90.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 92/97).
+É o relatório.
+O Tribunal de origem manteve a decisão que indeferiu o indulto ao paciente, sob os seguintes termos (fls. 56/58):
+ ..
+2. Conforme estabelece o art. 1º-XIV do Decreto Presidencial nº 8.615/15, concede-se indulto "às pessoas condenadas à pena privativa de liberdade, desde que substituída por restritiva de direitos, na forma do art. 44 do Código Penal.., que, de qualquer forma, tenham cumprido, até 25 de dezembro de 2015, um quarto da pena, se não reincidente..".
+Na espécie, o Agravante foi condenado, incurso nos artigos 302-parágrafo único-III e 303-parágrafo único do Código de Trânsito Brasileiro, à pena privativa de liberdade de 3 anos, 10 meses e 20 dias de detenção, substituída por duas restritivas de direitos - 455 horas de serviços à comunidade e prestação pecuniária de 52 salários mínimos às famílias das Vítimas -, além de 4 meses e 20 dias de suspensão do direito de dirigir veículo automotor (mov. 5.3).
+De acordo com o Atestado de Comportamento e Regularidade, o Recorrente prestou integralmente os serviços comunitários; em relação à prestação pecuniária, porém, "comprovou o pagamento de  somente  9 salários mínimos" (mov. 81.1).
+Daí, a manifesta insuficiência do requisito objetivo, orientando o e. SUPERIOR TRIBUNAL DE JUSTIÇA, a propósito, ser "necessário, para o preenchimento do requisito objetivo, que o apenado tenha cumprido 1/4, se não reincidente, ou 1/3, se reincidente, de cada uma das penas restritivas de direitos impostas na sentença condenatória para que possa ser agraciado com o deferimento do indulto"2.
+De rigor, pois, a manutenção da decisão recorrida.
+In casu, como visto, o paciente deixou de cumprir até 25/12/2015 a fração necessária da prestação pecuniária, impedindo, assim, a concessão do indulto por ausência de preenchimento do requisito objetivo do Decreto n.º 8.615/2015.
+Com efeito, a jurisprudência desta Corte firmou-se no sentido de que para que o apenado preencha o requisito objetivo, faz-se necessário que cumpra 1/4, se não reincidente, ou 1/3, se reincidente, de cada uma das penas restritivas de direitos impostas pelo juízo sentenciante, respeitado o prazo estabelecido no decreto presidencial. A propósito:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO. (..) EXECUÇÃO PENAL. INDULTO. DECRETO Nº 8.172/2013. REQUISITO OBJETIVO. EXIGÊNCIA DE CUMPRIMENTO DE 1/4 (UM QUARTO) OU 1/3 (UM TERÇO) DE CADA UMA DAS PENAS RESTRITIVAS DE DIREITOS. BENEFÍCIO CASSADO PELO TRIBUNAL DE ORIGEM. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. Consoante entendimento pacífico deste Superior Tribunal de Justiça e nos termos do art. 1º, inciso XIII, do Decreto n.º 8.172/2013, para que o apenado preencha o requisito objetivo, faz-se necessário que cumpra 1/4 (um quarto) ou 1/3 (um terço) de cada uma das penas restritivas de direitos impostas pelo juízo sentenciante até 25-12-2013.
+2. No caso dos autos, o Tribunal de origem cassou o benefício ao fundamento de que a paciente, embora tenha cumprido integralmente a prestação pecuniária, não cumpriu 1/4 (um quarto) da reprimenda referente à prestação de serviços à comunidade, restando ausente o requisito objetivo, o que impede o deferimento do indulto de penas, em consonância com a jurisprudência deste STJ. Ausência de constrangimento ilegal.
+3. Writ não conhecido. (HC 298.470/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/4/2016, DJe 3/5/2016.)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. EXECUÇÃO PENAL. INDULTO. REQUISITO OBJETIVO. PREENCHIMENTO NÃO CONSTATADO. WRIT NÃO CONHECIDO. (..)
+2. Segundo entendimento sufragado nesta Corte de Justiça, com o qual coincide o acórdão impugnado, para que o apenado preencha o requisito objetivo para concessão do indulto a que alude o art. 1º, XIII, do Decreto n. 8.172/2013, "faz-se necessário que cumpra 1/4 (um quarto) ou 1/3 (um terço) de cada uma das penas restritivas de direitos impostas pelo juízo sentenciante" (HC 298.461/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/11/2014, DJe 03/12/2014).
+3. Hipótese em que o paciente, embora tenha cumprido de forma integral uma das penas substituídas (prestação pecuniária), não atendeu à fração de 1/4 da pena de prestação de serviço à comunidade imposta.
+4. Habeas corpus não conhecido. (HC 299.164/RS, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 2/6/2015, DJe 15/6/2015.)
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1) IMPETRAÇÃO SUBSTITUTIVA. IMPROPRIEDADE DA VIA ELEITA. 2) EXECUÇÃO. INDULTO. DECRETO 8.172/2013. ART. 1º, INCISO XIII. REQUISITO OBJETIVO. CUMPRIMENTO DE 1/4 OU 1/3 DE CADA UMA DAS PENAS RESTRITIVAS DE DIREITO. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. 3) ORDEM NÃO CONHECIDA. (..)
+2. Nos termos do art. 1º, inciso XIII, do Decreto n.º 8.172/2013, para que o apenado preencha o requisito objetivo, faz-se necessário que cumpra 1/4 (um quarto) ou 1/3 (um terço) de cada uma das penas restritivas de direitos impostas pelo juízo sentenciante.
+3. Habeas Corpus não conhecido. (HC 298.461/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/11/2014, DJe 3/12/2014.)
+Ante o exposto, denego o habeas corpus.
+Com efeito, a decisão agravada deve ser mantida, porquanto em sintonia com a jurisprudência do Superior Tribunal de Justiça, que já firmou entendimento no sentido de que a exigência prevista para concessão do benefício é de que o sentenciado cumpra pelo menos 1/4 de cada uma das penas impostas (HC 309.393/RS, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, DJe 28/08/2015). No mesmo sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DA VIA ELEITA. INDULTO. DECRETO N. 7.873/2012. REQUISITO OBJETIVO NÃO PREENCHIDO. INEXISTÊNCIA DE ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Segundo entendimento firmado por esta Corte Superior, para que o apenado preencha o requisito objetivo para concessão do indulto, faz-se necessário que cumpra 1/4 (um quarto) ou 1/3 (um terço) de cada uma das penas restritivas de direitos impostas pelo juízo sentenciante.
+3. Na hipótese vertente, conforme se extrai dos autos, o paciente cumpriu mais de 1/4 da prestação de serviços à comunidade, mas não adimpliu a mesma fração da prestação pecuniária, penas restritivas de direitos que substituíram a pena privativa de liberdade imposta na condenação. Assim, não foi atendido o requisito de cumprimento de 1/4 da pena de prestação pecuniária, inexistindo ilegalidade no acórdão do Tribunal a quo.
+4. Tendo em vista, portanto, a inexistência de constrangimento ilegal e que se trata de habeas corpus substitutivo de recurso especial, não merece ser conhecido o writ.
+5. Habeas corpus não conhecido.
+(HC 302.023/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2015, DJe 13/10/2015 - grifei)
+Ante o exposto, voto por negar provimento ao agravo regimental.
