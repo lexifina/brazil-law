@@ -1,0 +1,33 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. EXECUÇÃO FISCAL. PENHORA REALIZADA SOBRE ATIVOS FINANCEIROS ANTES DO REINGRESSO NO PARCELAMENTO FISCAL. TIMEMANIA. MANUTENÇÃO DA CONSTRIÇÃO PATRIMONIAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. É pacífica a jurisprudência do Superior Tribunal de Justiça de que a adesão a programa de parcelamento tributário, por si só, não tem o condão de afastar a constrição dos valores bloqueados anteriormente. Precedentes: AgInt no REsp. 1.587.756/SE; AgRg no REsp. 1.289.389/DF.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno (fls. 758/766, e-STJ) interposto pelo Botafogo de Futebol e Regatas, contra decisão monocrática sintetizada da seguinte ementa:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. EXECUÇÃO FISCAL. PENHORA REALIZADA SOBRE ATIVOS. REINCLUSÃO NO PARCELAMENTO FISCAL MANUTENÇÃO DA GARANTIA. PRECEDENTES. AGRAVO CONHECIDO PARA SE NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+O agravante insurge-se contra a decisão monocrática, ao aduzir que não subsiste a penhora de ativos decorrentes dos direitos federativos de atleta de futebol posteriormente à adesão ao programa de parcelamento fiscal, sob pena de se violar o disposto no parágrafo onze do artigo quarto da Lei 11.345/2006.
+Neste sentido busca o agravante a reconsideração da decisão proferida, ou o provimento deste recurso na Turma julgadora.
+Contraminuta ao agravo interno às fls. 442/445 (e-STJ).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. EXECUÇÃO FISCAL. PENHORA REALIZADA SOBRE ATIVOS FINANCEIROS ANTES DO REINGRESSO NO PARCELAMENTO FISCAL. TIMEMANIA. MANUTENÇÃO DA CONSTRIÇÃO PATRIMONIAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. É pacífica a jurisprudência do Superior Tribunal de Justiça de que a adesão a programa de parcelamento tributário, por si só, não tem o condão de afastar a constrição dos valores bloqueados anteriormente. Precedentes: AgInt no REsp. 1.587.756/SE; AgRg no REsp. 1.289.389/DF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUESRelator:
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A tese do agravante visa desfazer da constrição judicial sobre ativos financeiros advindos da negociação de atleta de futebol. Assevera o recorrente que a constrição judicial destes recursos ocorreu após à sua adesão ao parcelamento fiscal, chamado  Timemania .
+Aduz que não obstante tenha havido a determinação de penhora antes do ingresso ao programa fiscal, esta, efetivamente se consumou após o ingresso do Clube de futebol ao citado refinanciamento fiscal, sendo que de acordo com a jurisprudência desta Corte é ato ilegal, merecendo seu desfazimento e a consequente liberação dos recursos financeiros.
+Em que pese a louvável tese, esta não merece guarida.
+Deveras, ao se compulsar os autos verificar-se-á que os direitos econômicos do jogador de futebol já estavam garantidos pela penhora, vide, fls. 35 (e-STJ), antes da inclusão da Associação futebolística ao parcelamento fiscal, conforme trecho em destaque, in verbis:
+Ocorre que, antes mesmo de a executada ser incluída no parcelamento da dívida o executivo fiscal já estava garantido pela penhora dos direitos econômicos do jogador ANDREZINHO de titularidade do clube executado (116-117). O auto de penhora e depósito se encontra à fl. 129, do qual o clube foi intimado em 10/07/2013 (fl. 127).
+Logo, orientando-se por este quadro fático, esta Corte tem jurisprudência pacífica no sentido de que a suspensão da exigibilidade decorrente de parcelamento mantém a relação jurídica processual no estado em que ela se encontra, isto é, se inexiste penhora, a suspensão do feito obsta a realização posterior de medidas constritivas, ao menos enquanto o parcelamento estiver vigendo. Por outro lado, medidas de constrição já efetivadas deverão ser preservadas até a integral quitação ou eventual rescisão do parcelamento, por inadimplência, conforme se revela nestes autos. A propósito:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA REALIZADA SOBRE ATIVOS FINANCEIROS. SISTEMA BACEN JUD. PARCELAMENTO. MANUTENÇÃO DA GARANTIA. PRECEDENTES. 1. Nos termos da jurisprudência do STJ, o parcelamento da dívida tributária, por não extinguir a obrigação, implica a suspensão da execução fiscal, e não sua extinção, que só se verifica após quitado o débito, motivo pelo qual a penhora realizada em garantia do crédito tributário deve ser mantida até o cumprimento integral do acordo. 2. Precedentes: AgRg no REsp 1.511.329/SC, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 07/04/2015, DJe 15/04/2015; AgRg no AREsp 322.772/PE, Rel. Ministro Castro Meira, Segunda Turma, julgado em 13/08/2013, DJe 19/08/2013. Agravo regimental improvido. (AgRg nos EDcl no REsp 1542201/PE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 15/10/2015, DJe 26/10/2015)
+TRIBUTÁRIO  EMBARGOS À EXECUÇÃO FISCAL  CONFISSÃO DA DÍVIDA  PARCELAMENTO DE DÉBITO  SUSPENSÃO DO PROCESSO  PRECEDENTES. É pacífico no Superior Tribunal de Justiça o entendimento de que o parcelamento da dívida tributária, por não extinguir a obrigação, implica a suspensão dos embargos à execução fiscal, e não sua extinção, que só se verifica após quitado o débito, motivo pelo qual a penhora realizada em garantia do crédito tributário deve ser mantida até o cumprimento integral do acordo. Agravo regimental improvido. (AgRg no REsp 923.784/MG, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 02/12/2008, DJe 18/12/2008)
+Neste sentido, considerando a pacífica jurisprudência, não se prospera a pretensão do agravado de desfazer a constrição judicial.
+Agravo interno não provido. É como voto.
