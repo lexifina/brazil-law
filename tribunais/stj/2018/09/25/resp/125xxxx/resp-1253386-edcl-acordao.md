@@ -1,0 +1,81 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NOS EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RECURSO INTEMPESTIVO. INTERPOSIÇÃO ALÉM DO PRAZO LEGAL, AINDA QUE CONTADO EM DOBRO. ART. 1.023 C/C ART. 219 DO CPC/2015. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. CARÁTER PROTELATÓRIO, APLICAÇÃO DE MULTA (ART. 1.026, § 2º, DO CPC/2015).
+I. O acórdão, objeto destes Embargos de Declaração, foi disponibilizado em 18/06/2018 (segunda-feira), no Diário de Justiça eletrônico, considerando-se publicado em 19/06/2018 (terça-feira). Em 29/06/2018, sexta-feira, a Procuradoria Geral do Estado do Amapá foi intimada eletronicamente da referida publicação, e o presente recurso foi interposto em 30/08/2018, quando já escoado o prazo legal, conforme certificado nos autos.
+II. Descumprido, portanto, o prazo de dez dias úteis, para a oposição dos Embargos de Declaração, previsto no art. 1.023 c/c arts. 183 e 219 do Código de Processo Civil vigente, inviável o conhecimento do recurso, uma vez que não preenchido um dos requisitos extrínsecos de sua admissibilidade.
+III. Ademais, trata-se de segundos Embargos de Declaração, reiterando os argumentos já enfrentados nos Embargos Declaratórios anteriores, com nítido propósito de rediscutir o suposto equívoco na aplicação da Súmula 182/STJ, o que constitui prática manifestamente protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+IV. Embargos de Declaração não conhecidos, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Embargos de Declaração, opostos pelo ESTADO DO AMAPÁ, em 30/08/2018, a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, de minha relatoria, em sede de Embargos de Declaração no Agravo interno, publicado em 19/06/2018, que se encontra assim ementado:
+"PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RAZÕES DO AGRAVO INTERNO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 09/03/2018.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, não conhecendo do Agravo interno, em razão da incidência da Súmula 182/STJ.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados" (fl. 251e).
+Inconformada, sustenta a parte embargante que:
+"Impõe-se destacar, data maxima venia, a omissão desta Egrégia Corte na análise dos argumentos apresentados no recurso do Estado. Esta Corte não se manifestou a respeito da questão de ser nulo o ato, e não anulável, a seguir transcrito:
+"A Administração Pública tem o dever e o poder de reaver e anular, com efeitos ex tunc, atos administrativos eivados de nulidade. Considerando que o pagamento feito pelo Estado à recorrida foi errôneo, aquele não só pode, como deve anular o ato nulo em observância ao princípio da legalidade. A possibilidade de anulação de decisões no âmbito do processo administrativo foi regulada pelo art. 53, da Lei n.º 9.784/1999, nos seguintes termos: Art. 53. A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos.
+Conforme já foi discutido anteriormente, o ato em questão é nulo, e não anulável, desta forma, a sua correção não é alcançada pelo prazo de 5 anos, da Lei retromencionada, sendo, assim, imprescritível sua reavaliação. No mesmo sentido, a Súmula 473 do STF.."
+Inconformado com o julgamento de não ter anulado o ato ilegal e ter dispensado a servidora de reposição ao erário, o estado do Amapá interpôs recurso de agravo interno que não foi conhecido.
+Como se observa, o apelo nobre foi alicerçado em duas linhas de argumentação bastantes distintas, dois capítulos autônomos entre si: o primeiro, defendendo a nulidade do ato que concedeu erroneamente os pagamentos à recorrida; e o segundo, a reforma dos acórdãos recorridos, ante as falhas apontadas.
+Ora, o não conhecimento ou improcedência de um argumento não impede o conhecimento e procedência do outro.
+Ao realizar o juízo de admissibilidade do recurso especial manejado pelo Estado do Amapá, a Ilustre Ministra Relatora não analisou questão de suma importância, qual seja, a de que o ato que concedeu os pagamentos é ato nulo e não anulável, conforme demonstra em seu recurso de agravo interno.
+Em sua decisão, somente se manifestou acerca da aplicabilidade da sumula 182/STJ, alegando que o Estado não impugnou especificamente todos os fundamentos da decisão agravada.
+Perceba, Excelência, que cada um dos fundamentos da decisão agravada tinha uma direção certa para cada um dos capítulos desenvolvidos nas razões do recurso manejado pelo Estado do Amapá.
+(..)
+Destarte, forte nos argumentos acima perfilhados, requer o Estado do Amapá que V. Exa. se digne em analisar os fundamentos dispendidos no recurso de agravo do Estado, a decisão impugnada, a fim de conhecer parcialmente do agravo, quanto à matéria que foi adequadamente impugnada, dando-lhe seguimento" (fls. 279/286e).
+Por fim, requer "seja sanada a omissão apontada, para que seja conhecido o agravo interno, dando-lhe parcial provimento" (fl. 286e).
+Impugnação da parte embargada, a fls. 292/301, pela rejeição dos Declaratórios, com aplicação de multa, diante do caráter protelatório.
+É o relatório.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): De início, é de se registrar que, na sessão realizada em 09/03/2016, em homenagem ao princípio tempus regit actum - inerente aos comandos processuais -, o Plenário do STJ sedimentou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência exata dos fundamentos do provimento jurisdicional que pretende combater.
+Tal entendimento restou assim firmado:
+"Enunciado Administrativo nº 2: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+"Enunciado administrativo nº 3: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Outra, a propósito, não é a jurisprudência desta Corte:
+"No que toca à modificação de procedimento para a interposição do agravo contra decisão que inadmite recurso especial, que, antes das novas disposições advindas com a Lei n. 12.322, de 2010, exigia a formação do instrumento, somente com a entrada em vigor da referida legislação é que o recurso de agravo passou a ser interposto nos próprios autos do recurso especial. Nesse sentido, com observância às regras de direito intemporal do processo civil, a nova sistemática não pode incidir nos agravos interpostos antes da sua entrada em vigor, caso dos autos" (STJ, AgRg no Ag 1.348.915/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 28/06/2013).
+""As normas que dispõem sobre os juros moratórios possuem natureza eminentemente processual, aplicando-se aos processos em andamento, à luz do princípio tempus regit actum." (EREsp 1207197/RS, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 18/05/2011, DJe 02/08/2011 - grifei.)" (STJ, EDcl no REsp 1.255.682/PR, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora convocada do TJ/PE), SEXTA TURMA, DJe de 1º/07/2013).
+Assim sendo, o presente recurso não merece ser conhecido, incidindo, no caso, as regras do CPC/2015, eis que o acórdão embargado foi publicado em 19/06/2018, tendo sido a parte agravante intimada eletronicamente em 29/06/2018 (fl. 274e).
+Com efeito, dispõem os arts. 183 e 1.023 do CPC vigente:
+"Art. 183. A União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público gozarão de prazo em dobro para todas as suas manifestações processuais, cuja contagem terá início a partir da intimação pessoal".
+"Art. 1.023. Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Por sua vez, orienta o art. 219 do mesmo Diploma Processual:
+"Art. 219. Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis.
+Parágrafo único. O disposto neste artigo aplica-se somente aos prazos processuais".
+No caso, verifica-se, de plano, a intempestividade dos Embargos Declaratórios. Isso porque a Procuradoria Geral do Estado do Amapá foi intimada eletronicamente do acórdão, objeto destes Embargos de Declaração, em 29/06/2018 (fl. 274e), sexta-feira.
+O presente recurso, no entanto, somente foi interposto, intempestivamente, em 30/08/2018, quinta-feira. De fato, como, no caso, o prazo para oposição de Embargos de Declaração é de 10 (dez) dias, contados em dias úteis e a partir da intimação pessoal do embargante, nos termos dos arts. 183 e 219 do CPC/2015 e art. 106 c/c art. 81, § 2º, do RISTJ, o embargante teria até o dia 14/08/2018, terça-feira, para opor o recurso, conforme certidão de fl. 289e.
+Descumprido, portanto, o prazo de cinco dias úteis, previsto no art. 1.023 do CPC/2015 - contado em dobro -, para a oposição dos Embargos de Declaração, inviável a análise dos argumentos recursais, uma vez que não preenchido um dos requisitos extrínsecos de sua admissibilidade.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INTEMPESTIVIDADE.
+1. A teor do disposto no art. 1.023, c/c os arts. 180 e 219, todos do CPC/2015, são intempestivos os embargos de declaração opostos pelo Ministério Público após o transcurso do prazo de dez dias úteis, contados da intimação pessoal.
+2. Embargos de declaração não conhecidos" (STJ, EDcl no AgInt no REsp 1.559.515/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 10/03/2017).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+1. Não se conhece do recurso interposto após o encerramento do prazo estabelecido pelo art. 1.023, caput, do CPC/2015.
+2. Embargos de declaração não conhecidos" (STJ, EDcl no AgInt no AREsp 879.701/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 19/09/2016).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACLARATÓRIOS INTEMPESTIVOS. NÃO CONHECIMENTO.
+1. Os presentes embargos declaratórios não merecem ser conhecidos, pois opostos fora do prazo de 5 dias previsto no art. 1.023, caput, c/c o art. 219, caput, do NCPC.
+2. Embargos de declaração não conhecidos" (STJ, EDcl no AgRg no AREsp 542.780/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 23/08/2016).
+"PROCESSUAL CIVIL. REQUERIMENTO RECEBIDO COMO EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO.
+1. Trata-se de Petição (fls. 487-492, e-STJ) em que se alega ocorrência de erro material no acórdão proferido às fls. 477-481, e-STJ. Requerimento do particular recebido como Embargos de Declaração, ante o seu conteúdo.
+2. O prazo para a oposição de Embargos de Declaração é de 5 (cinco) dias úteis, consoante dispõe o art. 1.023 do CPC/2015, ressalvadas as hipóteses de ampliação do prazo recursal.
+3. No caso concreto, a oposição dos Embargos ocorreu após o transcurso do prazo legal; portanto, são intempestivos.
+4. Embargos de Declaração não conhecidos" (STJ, PET nos EDcl nos EDcl no AgRg no AREsp 598.827/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/10/2016).
+Por fim, é de se registrar que a oposição, pela segunda vez, de Embargos de Declaração, com o objetivo de rediscutir a suposta existência de vícios, no julgado, em relação à aplicação da Súmula 182/STJ - enfrentada anteriormente, nos primeiros Embargos Declaratórios, como ocorreu, no caso em exame -, constitui prática processual abusiva e protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. CARÁTER PROTELATÓRIO. ABUSIVIDADE MANIFESTA. APLICAÇÃO DE MULTA. POSSIBILIDADE. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+I - São intempestivos os embargos de declaração opostos fora do prazo de cinco dias previsto no art. 1.023, caput, do Código de Processo Civil de 2015.
+II - A impropriedade da alegação dos segundos embargos de declaração opostos com o escopo de rediscutir a suposta existência de vícios no julgado, enfrentados anteriormente nos primeiros embargos declaratórios, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+III - Embargos de declaração não conhecidos, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa" (STJ, EDcl nos EDcl no AgRg no AREsp 775.437/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 02/10/2017).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACLARATÓRIOS INTEMPESTIVOS. ARTS. 219 E 1.023, AMBOS DO NCPC. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC.
+EMBARGOS NÃO CONHECIDOS.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os presentes embargos declaratórios não merecem ser conhecidos, pois opostos fora do prazo de 5 dias úteis, conforme previsto no art. 1.023, caput, c/c o art. 219, caput, do NCPC.
+3. Em razão dos embargos se mostrarem manifestamente protelatórios e da anterior advertência em relação a incidência do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 2º, no percentual de 2% sobre o valor atualizado da causa.
+4. Embargos de declaração não conhecidos, com imposição de multa" (STJ, EDcl no AgInt no AREsp 1.153.336/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 14/06/2018).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. NÃO CONHECIMENTO. CARÁTER PROTELATÓRIO. MULTA. MAJORAÇÃO. RECOLHIMENTO. EXIGÊNCIA.
+1. Embargos de declaração intempestivos, pois opostos fora do prazo de 5 dias previsto nos artigos 1.023, caput, e 219, caput, do novo Código de Processo Civil.
+2. Embargos de declaração rejeitados com aplicação de multa (art. 1.026, § 2º, do Código de Processo Civil/2015)" (STJ, EDcl nos EDcl no AgRg no AREsp 841.250/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 21/08/2017).
+Ante o exposto, não conheço dos Embargos de Declaração, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+É como voto.
