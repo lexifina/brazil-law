@@ -1,0 +1,1 @@
+Art. 4º-A. É assegurado atendimento educacional, durante o período de internação, ao aluno da educação básica internado para tratamento de saúde em regime hospitalar ou domiciliar por tempo prolongado, conforme dispuser o Poder Público em regulamento, na esfera de sua competência federativa.
