@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. AÇÃO ORDINÁRIA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. RESTITUIÇÃO DE TRIBUTO PAGO A MAIOR. OBTENÇÃO DE PROVIMENTO JUDICIAL A FIM DE SUPRMIR AS REGRAS DE RESTITUIÇÃO PREVISTAS EM NORMAS LOCAIS. RAZÕES SUFICIENTES PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário (Doc. 6, p. 53), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Doc. 6, p. 22) publicado em 20/4/2006 que assentou, in verbis:
+    “DECLARATÓRIA -- ICMS -- substituição tributária -- pretensão ao reconhecimento de direito à restituição de valores do ICMS recolhidos a maior nas operações de revenda de combustíveis, sem as limitações impostas pela legislação estadual -- inadmissibilidade -- não individualização das operações que poderiam gerar os créditos pretendidos -- sentença judicial que não pode ter caráter normativo -- não demonstração de que a autora teria suportado o encargo tributário, deixando de transferi-lo ao contribuinte de fato -- desatendimento à norma do artigo 166 do CTN -- inexistência, ademais, do direito pleiteado -- procedimento fiscal que encontra expresso embasamento legal -- pretensão inicial que não poderia mesmo ser acolhida -- recursos oficial e voluntário da Fazenda do Estado providos, prejudicado o exame do apelo do autor.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, o contribuinte apontou violação ao artigo 150, § 7º, da Constituição Federal. Alegou o desacerto do acórdão recorrido ao vedar a restituição do ICMS pago a mais no regime de substituição tributária de forma preferencial e imediata.
+    O Superior Tribunal de Justiça negou provimento ao agravo de instrumento no recurso especial (Ag 857.753, Rel. Min. Eliana Calmon, DJ de 3/4/2007).
+    O Presidente da Seção de Direito Público do Tribunal a quo determinou o retorno dos autos à Turma julgadora, para eventual adequação do acórdão recorrido ao quanto decidido por esta Corte no julgamento do RE 593.849, Rel. Min. Edson Fachin, Plenário, DJe de 31/3/2017, Tema 201 da Repercussão Geral. Contudo, o órgão manteve o seu entendimento em acórdão (Doc. 6, p. 190) assim ementado:
+    “APELAÇÃO -- Manifestação sobre eventual adequação da fundamentação e/ou manutenção do v. acórdão proferido por esta Colenda 8ª Câmara de Direito Público, observada a r. decisão proferida no RE nº 593.849/MG -- Tema nº 201, STF, DJe 05/04/2017 -- ICMS devido no regime da substituição tributária -- Discussão nos autos acerca do procedimento previsto no art. 66-B da Lei Estadual nº 6.347/89 e Portaria CAT nº 17/99 -- Ausência de ilegalidade ou inconstitucionalidade -- Retratação -- Inocorrência -- Acórdão apresentado como paradigma que cuida de matéria diversa da discutida nos autos. Acórdão mantido.”
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    In casu, o acórdão recorrido assentou a impropriedade da via processual eleita na forma que foi proposta.
+    Por sua vez, a parte recorrente, nas razões do extraordinário, limitou-se a questionar sobre a validade da limitações legais para a restituição do tributo e, ao assim proceder, deixou de atacar as razões que, por si só, são suficientes para a manutenção da decisão vergastada.
+    Incide, na espécie, o enunciado da Súmula 283 do STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido:
+    “AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO. SÚMULA 283 DO SUPREMO TRIBUNAL FEDERAL.
+    Inviável o agravo de instrumento que não ataca todos os fundamentos autônomos da decisão recorrida (Súmula 283 do Supremo Tribunal Federal). Agravo não provido.” (AI 489.247-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ de 16/2/2007)
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas sobre a Súmula 283 do STF:
+    “Pontes de Miranda sustentava opinião favorável à admissão do recurso extraordinário com fulcro num dos fundamentos quando a decisão assenta em vários (Comentários ao Código de Processo Civil, 2ª ed., t. XII/278). Opiniões contrárias são sustentadas por Lopes da Costa (Direito Processual Civil Brasileiro, 2ª ed., v. III/418) e José Afonso da Silva (Do Recurso Extraordinário, p. 201), que inadmitem o recurso nessas condições.
+    A Súmula 283 expressa que é inadmissível o recurso extraordinário quando a decisão recorrida tem mais de um fundamento suficiente e o recurso não abrange todos eles (RE 65.072, Rel. Min. Amaral Santos, RTJ 53/371; RE 66.768, Rel. Min. Djaci Falcão, RTJ 52/606; RE 60.854, Rel. Min. Barros Monteiro, RTJ 45/855; RE 63.174, Rel. Min. Evandro Lins, RTJ 45/419; RE 79.083, Rel. Min. Rodrigues de Alckmin, RTJ 75/844; RE 79.623, RTJ 75/849; RE 84.077, RTJ 80/906).
+    Aplicável o disposto nesta Súmula (decisão assentada em mais de um fundamento) às decisões do STJ (REsp 16.076; REsp 21.064; REsp 23.026; REsp 29.682).
+    V. Luiz Guilherme Marinoni, Manual do Processo de Conhecimento, Ed. RT, 2001, p. 561.” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 140)
+    Ex positis, DESPROVEJO o recurso, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 25 de setembro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
