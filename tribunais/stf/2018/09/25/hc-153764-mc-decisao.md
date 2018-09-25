@@ -1,0 +1,21 @@
+DECISÃO
+PENA – CAUSA DE DIMINUIÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 – ATIVIDADES CRIMINOSAS – DEDICAÇÃO.
+PENA – REGIME DE CUMPRIMENTO – ARTIGO 33, § 3º, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara da Comarca de Penápolis/SP, no processo nº 0010647-79.2015.8.26.0438, condenou a paciente a 8 anos de reclusão, em regime inicial fechado, e ao pagamento de 1.200 dias-multa, em virtude da prática das infrações descritas nos artigos 33, cabeça (tráfico de entorpecentes), e 35, cabeça (associação para o tráfico), da Lei nº 11.343/2006. Na primeira fase da dosimetria, assentou favoráveis as circunstâncias judiciais, fixando as penas-base no mínimo legal – 5 anos para o delito de tráfico e 3 para o de associação, considerado o piso de 5 e teto de 15 anos, quanto ao primeiro, e o mínimo de 3 e máximo de 10 anos, no tocante ao segundo. Disse ausentes atenuantes, agravantes, causas de diminuição e aumento, tornando definitivas as sanções. Assentou a não incidência do § 4º do citado artigo 33, afirmando dedicar-se a paciente a atividades criminosas, fazendo delas meio de vida. Aplicou a regra do concurso material. Implementou o regime fechado, aludindo ao artigo 2º, § 1º, da Lei nº 8.072/1990.
+    A Quarta Câmara de Direito Criminal do Tribunal de Justiça desproveu apelação interposta pela defesa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 410.645/SP. A Quinta Turma inadmitiu-o.
+    Os impetrantes sustentam preenchidos os requisitos autorizadores da observância, na fração máxima, da causa de diminuição, apontando inidôneos os fundamentos lançados para afastá-la. Destacam a valoração positiva das circunstâncias judicias previstas no artigo 59 do Código Penal. Arguem cabível regime diverso do fechado, reportando-se aos parágrafos 2º e 3º do artigo 33 do Código Penal.
+    Requerem, em âmbito liminar, seja garantido à paciente o direito de aguardar o julgamento final da impetração em regime semiaberto. No mérito, buscam a confirmação da providência e a consideração, no maior patamar, da causa de diminuição.
+    Consulta ao sítio do Tribunal estadual revelou ter o título condenatório transitado em julgado no dia 28 de setembro de 2017.
+    A fase é de apreciação da medida acauteladora.
+    2. Observem as premissas assentadas pelo Juízo, mantidas pelo Tribunal, para afastar a causa de diminuição de pena versada no artigo 33, § 4º, da Lei nº 11.343/2006. Teve presente a dedicação a atividades delitivas. Ressaltou os elementos coligidos no processo-crime, consignando tratar-se de traficante não ocasional. Inexiste, no ponto, ilegalidade a ser reparada.
+    Quanto ao regime de cumprimento da pena, surge relevante o que articulado. Na sentença condenatória, o Juízo, assentando favoráveis as circunstâncias judiciais do artigo 59 do Código Penal, veio a estabelecer as penas-base no mínimo legal. Fixou-as, no tocante ao delito do artigo 33 da Lei de Drogas, em 5 anos de reclusão e, relativamente ao do 35, em 3. Reportou-se ao artigo 2º, § 1º, da Lei nº 8.072/1990 para impor o regime fechado, sem veicular fundamentação concreta e circunstanciada. Ocorre que o Pleno, no julgamento do habeas corpus nº 111.840, relator ministro Dias Toffoli, declarou inconstitucional o dispositivo evocado, ante o princípio da individualização da sanção, proclamando imprópria a fixação, sempre e sempre, do regime inicial mais gravoso.
+    Atentem para a disciplina legal referente à definição do regime inicial de cumprimento de pena. Norteia-o o patamar alusivo à condenação e as circunstâncias judiciais, a teor do artigo 33, § 3º, do Código Penal. Tendo em vista a sanção estabelecida – 8 anos de reclusão – e a inexistência de circunstâncias judiciais negativas, fica afastado o regime fechado.
+    3. Defiro a liminar, determinando seja observado, até o exame do mérito desta impetração, o regime semiaberto no cumprimento de pena, ou o aberto, caso a paciente já tenha sido beneficiada pela progressão de regime, considerada a sentença proferida pelo Juízo da Segunda Vara da Comarca de Penápolis/SP, no processo nº 0010647-79.2015.8.26.0438.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 25 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
