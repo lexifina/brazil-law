@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Wagner Teixeira da Silva. Aparelhado o recurso na afronta aos arts. 5º e 37, II e IX, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+     As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos arts. 5º e 37, II e IX, da Constituição da República. Nesse sentido:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE DE LEI MUNICIPAL. VIOLAÇÃO DE DISPOSITIVO DE CONSTITUIÇÃO ESTADUAL. NORMA DE REPRODUÇÃO OBRIGATÓRIA. CONTRATAÇÃO TEMPORÁRIA POR TEMPO DETERMINADO PARA ATENDIMENTO A NECESSIDADE TEMPORÁRIA DE EXCEPCIONAL INTERESSE PÚBLICO. DESCUMPRIMENTO DOS REQUISITOS CONSTITUCIONAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO.” (RE 1084677 AgR, Relator(a):  Min. LUIZ FUX, Primeira Turma, julgado em 23/02/2018, PROCESSO ELETRÔNICO DJe-050 DIVULG 14-03-2018 PUBLIC 15-03-2018)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. NULIDADE DA DECISÃO POR OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. NÃO OCORRÊNCIA. CONTRATAÇÃO TEMPORÁRIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279. HONORÁRIOS. MAJORAÇÃO. NÃO CABIMENTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - No julgamento do AI 791.292-QO-RG/PE (Tema 339), Rel. Min. Gilmar Mendes, reconheceu-se a repercussão geral e reafirmou-se a jurisprudência no sentido de que a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento. II - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. III - Nos termos do art. 85, § 11, do CPC, deixo de majorar os honorários recursais, uma vez que não foram fixados pelo juízo de origem. IV- Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4° do CPC.” (ARE 1018767 AgR, Relator(a):  Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 25/04/2017, PROCESSO ELETRÔNICO DJe-095 DIVULG 05-05-2017 PUBLIC 08-05-2017)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de setembro de 2018.
+Ministra Rosa Weber
+Relatora
