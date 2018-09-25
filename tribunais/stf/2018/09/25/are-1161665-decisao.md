@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 40, §§ 2º e 5º, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA CONDIÇÃO DE BENEFICIÁRIA: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1114989 AgR, Relator(a):  Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, julgado em 29/06/2018, PROCESSO ELETRÔNICO DJe-160 DIVULG 07-08-2018 PUBLIC 08-08-2018)
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Militar. Pensão por morte. Paridade e Integralidade. Lei Estadual nº 6.660/09. Legislação local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. O recurso extraordinário não se presta para o exame de matéria ínsita ao plano normativo local, tampouco para o reexame dos fatos e provas que compõem a lide. Incidência das Súmulas nº 280 e 279/STF. 2. Agravo regimental não provido. 3. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça.” (ARE 1052973 AgR, Relator(a):  Min. DIAS TOFFOLI, Segunda Turma, julgado em 18/12/2017, PROCESSO ELETRÔNICO DJe-027 DIVULG 14-02-2018 PUBLIC 15-02-2018)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 25 de setembro de 2018.
+Ministra Rosa Weber
+Relatora
