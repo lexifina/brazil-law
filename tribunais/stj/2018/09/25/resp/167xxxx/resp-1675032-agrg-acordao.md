@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUTORIZAÇÃO PARA CONSTRUÇÃO EM ÁREA DE PRESERVAÇÃO AMBIENTAL. TIPICIDADE DEVIDAMENTE DEMONSTRADA. DELITO FORMAL. BEM JURÍDICO TUTELADO. ADMINISTRAÇÃO PÚBLICA AMBIENTAL. ERRO DE PROIBIÇÃO. NÃO OCORRÊNCIA. REVOLVIMENTO DE MATERIAL PROBATÓRIO. CONGRUÊNCIA ENTRE A DENÚNCIA E A SENTENÇA.
+1. Hipótese em que as condenações dos agravantes pelo crime previsto no artigo 67 da Lei nº 9.605/98 estão assentadas em provas robustas da materialidade e autoria delitivas, ausente qualquer dúvida sobre a tipificação formal e material da conduta, tampouco acerca da higidez da sentença condenatória, que fora proferida em harmonia com os fatos narrados na denúncia e com a legislação penal aplicável ao caso concreto.
+2. Tipicidade formal inequívoca do ato que, em conjunto com o parecer que o precedeu, concedeu autorização para edificação residencial de área protegida contrariando o disposto no Código Florestal vigente à época.
+3. O artigo 67 da Lei n. 9.605/1998 está inserido na Seção V, que trata dos Crimes contra a Administração Ambiental, e tem como bem jurídico tutelado diretamente a Administração Pública Ambiental.
+4. E se tratando de crime formal, ou seja, que não exige resultado finalístico, não há necessidade de se ter começado e/ou finalizado a edificação em Área de Preservação Permanente e comprovada a afetação ao ambiente para que o crime se consumasse.
+5. Inviável o acolhimento da tese de erro de proibição inevitável, se todo o corpo probatório dos autos é no sentido da consciência do ilícito. Incidência da Súmula 7 do STJ.
+6. Ausência de violação ao art. 29 do Código penal por ausência de congruência entre a acusatória e a sentença se os fatos imputados ao segundo agravante foram devidamente descritos na denúncia.
+7. Agravo desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI(Relator): Trata-se de agravo regimental interposto por [NOME] e [NOME] contra a decisão unipessoal de e-STJ, fls. 993/997, por meio da qual, com fundamento no art. 255, § 4º, II, do RISTJ, foi negado provimento ao recurso especial defensivo.
+Alegam os agravantes, em síntese, que o tipo penal do art. 67 da Lei n. 9.605/1998 é caracterizado como sendo formal e de perigo abstrato, não dependendo de resultado naturalístico, porém para sua efetiva tipificação, se faz necessária a atuação consciente do agente no sentido de contrariar as normas ambientais.
+Sustentam que, no presente caso, foi concedida uma mera declaração ambiental, não vinculativa, em processo administrativo de consulta prévia, não servindo de autorização para a construção como equivocadamente descreve a inicial acusatória.
+Argumentam que a autorização para se construir em área de preservação ambiental demandaria a intervenção de outros órgãos.
+Aduzem que, diante da ausência de qualquer tipo de construção no local mencionado na denúncia, não há dano ao meio ambiente, sustentando que embora se trate de delito formal que independe do resultado, o princípio da lesividade deve ser observado para a tipificação do crime.
+Afirmam que se encontram amparados pela excludente de culpabilidade consistente no erro inevitável sobre a ilicitude do fato, conforme do art. 21 do Código Penal.
+Requerem uma nova valoração do conjunto probatório encontrado nos autos para fazer incidir a excludente de culpabilidade.
+Argumentam que a juízo de primeiro grau não poderia, sem tomar as providências determinadas na legislação processual penal, condenar o segundo agravante com amparo em norma de extensão (art. 29 do Código Penal) que não veio implícita ou explicitamente descrita na inicial acusatória.
+Referem que pela simples narrativa contida na denúncia não há atribuição ao segundo agravante da conduta típica de partícipe, mostrando-se necessário o aditamento da inicial acusatória, nos termos do art. 384 do Código de Processo Penal, dando azo à nulidade da sentença.
+Requerem, ao final, a reconsideração do decisum ou a submissão do pleito ao Colegiado, dando-se provimento à irresignação para anular o acórdão de segundo grau que referendou a sentença condenatória.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI(Relator): Os elementos existentes nos autos indicam que [NOME] e [NOME] foram denunciados pela prática do crime descrito no art. 67 da Lei n. 9.605/1998, por terem concedido autorização, em desacordo com as normas ambientais, para atividade cuja realização depende de ato autorizativo do Poder Público.
+Julgada procedente a imputação, os acusados foram condenados às penas respectivas de 1 (um) ano, 8 (oito) meses de detenção, em regime aberto, e pagamento de 40 (quarenta) dias-multa, e de 1 (um) ano e 2 (dois) meses de detenção, em regime aberto, mais 35 (trinta e cinco) dias-multa. As penas corporais foram substituídas por restritivas de direitos.
+A sentença foi reformada para reduzir as penas impostas aos réus.
+Nas razões do apelo nobre, a defesa alega violação dos artigos 1º e 21, ambos do Código Penal e do art. 384, do Código de Processo Penal.
+Aponta que, na hipótese, houve simplesmente uma declaração ambiental, não vinculativa, em processo administrativo de consulta prévia, o que não caracteriza autorização para fim de adequação típica à infração penal em comento.
+Afirma, ainda, que não houve a mínima possibilidade de lesão ao meio ambiente pois não houve construção no local, para a qual há outras exigências legais.
+Aduz, ainda, que não se vislumbra vontade livre e consciente para o cometimento de infração penal contra o meio ambiente.
+Aponta incongruência da sentença com os fatos imputados, uma vez que o réu [NOME] foi colocado na posição de executor da conduta principal, ao invés de partícipe.
+Requer, ao final, o provimento do recurso especial para absolver os réus diante da atipicidade do comportamento imputado na peça exordial, ou pelo reconhecimento da excludente da culpabilidade em razão da incidência do erro sobre a ilicitude do fato, ou, ainda, para anular-se o julgado por inobservância ao principio da correlação, como medida de justiça.
+Contrarrazoada a insurgência (e-STJ, fls. 899/909), após o juízo prévio de admissibilidade, os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal, na condição de custos legis, ofertou parecer pelo desprovimento do inconformismo (e-STJ, fls. 980/985).
+Por decisão monocrática desta Relatoria, negou-se provimento ao recurso especial.
+Daí a apresentação deste regimental.
+Consoante devidamente delineado na decisão ora combatida, as condenações de [NOME] e de [NOME] pelo crime previsto no artigo 67 da Lei nº 9.605/98 estão assentadas em provas robustas da materialidade e autoria delitivas, ausente qualquer dúvida sobre a tipificação formal e material da conduta, tampouco acerca da higidez da sentença condenatória, que fora proferida em harmonia com os fatos narrados na denúncia e com a legislação penal aplicável ao caso concreto.
+A tese de ausência de tipicidade formal, sob o argumento de que os atos administrativos analisados não tinham caráter decisório, vinculativo, mas tão somente consultivo, foi devidamente afastada pela Corte Regional, entendendo ser inequívoca a tipicidade formal do ato que, em conjunto com o parecer que o precedeu, concedeu autorização para edificação residencial de área protegida contrariando o disposto no Código Florestal vigente à época.
+A alegação de não ter ocorrido nenhuma lesão ao meio ambiente, vez que a edificação não foi nem mesmo iniciada, também não encontra qualquer fundamento, uma vez que o artigo 67 da Lei n. 9.605/1998, estando inserido na Seção V que trata dos Crimes contra a Administração Ambiental, tem como bem jurídico tutelado diretamente a Administração Pública Ambiental.
+E, em se tratando de crime formal, ou seja, que não exige resultado finalístico, não há necessidade de ser ter começado e/ou finalizado a edificação em Área de Preservação Permanente e comprovada sua afetação ao ambiente para que o crime consumasse.
+Extrai-se, ainda, que o Tribunal afastou, também, a tese de erro de proibição inevitável, na medida em que todo o corpo probatório é no sentido da consciência do ilícito.
+E pela leitura das teses ventiladas no presente recurso, que visa a debater a existência de elementos objetivos e subjetivos da conduta criminosa, bem como a ocorrência de erro de proibição e de participação, exsurge nítido o propósito de a defesa provocar a rediscussão de matéria cujo exame demanda, necessariamente, o revolvimento do acervo fático probatório, circunstância que se afigura inadmissível pela via eleita, conforme pacífico entendimento sufragado na Súmula 7 do STJ.
+A propósito, o seguinte julgado:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE INFLUÊNCIA. ERRO DE PROIBIÇÃO E AUSÊNCIA DE DOLO. REVOLVIMENTO DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA DA PENA. ARTIGO 59 DO CÓDIGO PENAL - CP. CIRCUNSTÂNCIAS JUDICIAL DESFAVORÁVEL. CONSEQÜÊNCIAS DO CRIME. ELEMENTOS CONCRETOS. PENA DE MULTA. REDUÇÃO REEXAME DE PROVAS. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acolhimento da pretensão recursal, reconhecer o erro de proibição, encontra óbice no enunciado n. 7 da Súmula do STJ, por demandar profundo revolvimento do conteúdo fático-probatório dos autos, o que não se viabiliza em recurso especial.
+ ..
+(AgRg no AREsp 785.767/SP, Rei. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 02/08/2016, DJe 10/08/2016).
+Por fim, os fatos imputados ao segundo réu (Luiz) foram devidamente descritos na denúncia, devendo ser salientado que os réus não se defendem da classificação legal, mas sim dos fatos a eles imputados. Sendo assim, não há que se falar em violação ao art. 29 do Código penal por ausência de congruência entre a denúncia e a sentença.
+Ante o exposto, nega-se provimento ao agravo.
+É o voto.
