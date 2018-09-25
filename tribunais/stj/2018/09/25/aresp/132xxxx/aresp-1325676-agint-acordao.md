@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM REPARAÇÃO POR DANO MORAL. ILEGITIMIDADE DAS ANOTAÇÕES ANTERIORES RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DANOS MORAIS. VALOR PROPORCIONAL. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem reconheceu que todas as demais anotações em nome do autor foram objeto de ação judicial e declaradas inexigíveis. Nesse contexto, a modificação desse entendimento demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial (Súmula 7/STJ).
+2. A indenização por danos morais deve atender aos princípios da proporcionalidade e da razoabilidade, a fim de evitar o indesejado enriquecimento sem causa do autor da ação indenizatória, sem, contudo, ignorar o caráter preventivo e repressivo inerente ao instituto da responsabilidade civil.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator: Trata-se de agravo interno interposto por [NOME] contra decisão de fls. 432/435, que conheceu de agravo para negar provimento a recurso especial sob os fundamentos de que (a) o dano moral foi caracterizado; e (b) o valor da indenização por danos morais não pode ser revisto.
+Em suas razões recursais, a agravante afirma que havia anotações anteriores válidas que sequer haviam sido impugnadas judicialmente ou canceladas, o que afastaria o dano moral. Acrescenta que o valor da indenização por danos morais é exorbitante, tendo em vista o fato de a agravante ser empresa de pequeno porte.
+A parte ora agravada não apresentou impugnação.
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator: Em que pesem as alegações trazidas no agravo interno, a irresignação não merece prosperar.
+Embora a agravante sustente que o agravado tinha anotações válidas anteriores, que não teriam sido impugnadas judicialmente, o Tribunal de origem reconheceu que todas as demais anotações em nome do autor foram objeto de ação judicial e declaradas inexigíveis. Confira-se:
+"Isso porque todas as demais anotações no nome do autor preexistentes à anotação impugnada foram objeto de ações judiciais, em que o "autor logrou a declararão de inexigibilidade da dívida, conforme se verificou pelo sistema e-SAJ, o que também tem o condão de afastar a incidência da Súmula 385 do STJ  fis. 275 ." (e-STJ, fl. 327)
+Dessarte, não há como infirmar as conclusões do acórdão recorrido, visto que o Tribunal a quo é soberano na análise dos fatos e provas, por força da Súmula 7/STJ.
+Por fim, no que tange ao valor da indenização por danos materiais, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é inadmissível, na via estreita do recurso especial, a análise do quantum fixado a título de danos morais, tendo em vista que tal providência depende da reavaliação do contexto fático-probatório inserto nos autos, cujo reexame compete às instâncias ordinárias e não a esta Corte Superior, conforme vedado pela Súmula 7/STJ. O referido óbice somente pode ser afastado em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, o que, contudo, não ocorre na hipótese em exame, em que fixada a indenização por danos morais contra a pessoa jurídica agravante no valor de R$ 15.000,00 (quinze mil reais). A propósito:AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+Ressalte-se que a indenização por danos morais deve atender aos princípios da proporcionalidade e da razoabilidade, a fim de evitar o indesejado enriquecimento sem causa do autor da ação indenizatória, sem, contudo, ignorar o caráter preventivo e repressivo inerente ao instituto da responsabilidade civil.
+Nessa linha, a ora agravante não deduz argumentação capaz de modificar a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
