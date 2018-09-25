@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+     “EMENTA: MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTOS CUJO PEDIDO FOI NEGADO EM TUTELA DE URGÊNCIA - FÁRMACOS SÃO PADRONIZADOS – EXISTÊNCIA DE MEDICAMENTO ALTERNATIVO NA REDE PÚBLICA DE SAÚDE – AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA E EXIGÊNCIA DE DILAÇÃO PROBATÓRIA QUANTO AOS MEDICAMENTOS NÃO PADRONIZADOS – SEGURANÇA DENEGADA” (pág. 1 do documento eletrônico 4).
+    No RE fundado no art. 102, III, a , da Constituição, alegou-se violação do art. 196, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Destaca-se do voto condutor do acórdão recorrido (pág. 3 do documento eletrônico 4):
+    “No âmbito dos Juizados Especiais, diante da falta de previsão de recurso para impugnar decisões interlocutórias e do entendimento majoritário pelo não cabimento de agravo de instrumento, admite-se a impugnação pela presente via, entretanto, não a transforma em sucedâneo recursal.
+    […]
+    Entretanto, não se verifica direito líquido e certo violado, pela ausência de prova pré-constituída, uma vez que o NAT foi desfavorável ao fornecimento, sob o fundamento de que os medicamentos solicitados não são padronizados, sendo disponibilizados alternativas como Amitriptilina, Clomipramina, Carbonato de Lítio, Clonazepam e Diazepam.”
+    Quanto à questão acima destacada, os Ministros desta Corte, ao julgarem o AI 800.074-RG/SP (Tema 318), de relatoria do Ministro Gilmar Mendes, rejeitaram a repercussão geral da matéria relativa ao preenchimento dos requisitos de admissibilidade do mandado de segurança, conforme se verifica na ementa do aludido julgado:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral”.
+    Além disso, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF.
+    Ressalta-se, por fim, que os Ministros desta Corte ao analisarem o RE 576.847-RG/BA, Tema 77, Relator Ministro Eros Grau, reconheceram a existência de repercussão geral quanto ao cabimento de mandado de segurança contra decisão interlocutória nos Juizados Especiais, e essa decisão vale para todos os recursos com controvérsia idêntica, consoante determinam os arts. 326 e 327, § 1°, do RISTF. Por oportuno, transcreve-se a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA. MANDADO DE SEGURANÇA. CABIMENTO. DECISÃO LIMINAR NOS JUIZADOS ESPECIAIS. LEI N. 9.099/95. ART. 5º, LV DA CONSTITUIÇÃO DO BRASIL. PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA. AUSÊNCIA DE VIOLAÇÃO. 1. Não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei n. 9.099/95. 2. A Lei n. 9.099/95 está voltada à promoção de celeridade no processamento e julgamento de causas cíveis de complexidade menor. Daí ter consagrado a regra da irrecorribilidade das decisões interlocutórias, inarredável. 3. Não cabe, nos casos por ela abrangidos, aplicação subsidiária do Código de Processo Civil, sob a forma do agravo de instrumento, ou o uso do instituto do mandado de segurança. 4. Não há afronta ao princípio constitucional da ampla defesa (art. 5º, LV da CB), vez que decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Recurso extraordinário a que se nega provimento.”
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 25 de setembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
