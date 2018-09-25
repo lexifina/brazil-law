@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para dispor sobre hipóteses de perda do poder familiar pelo autor de determinados crimes contra outrem igualmente titular do mesmo poder familiar ou contra filho, filha ou outro descendente.
+O PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
