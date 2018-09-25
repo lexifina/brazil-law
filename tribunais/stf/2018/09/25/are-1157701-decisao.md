@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “DIREITO PROCESSUAL CIVIL E DIREITO CONSTITUCIONAL. CUMPRIMENTO DE SENTENÇA CONTRA O DISTRITO FEDERAL E O IPREV. AFASTAMENTO DA RESPONSABILIDADE DO ENTE DISTRITAL. IMPOSSIBILIDADE. COISA JULGADA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. EXPEDIÇÃO REQUISIÇÃO DE PEQUENO VALOR. IMPOSSIBILIDADE. A existência de coisa julgada obsta a reanálise da alegação de ilegitimidade do Distrito Federal em face dos débitos oriundos do IPREV. Os honorários contratuais devem ser considerados parcela integrante do valor principal devido e serão destacados do principal apenas para que o depósito seja disponibilizado diretamente em favor do advogado, por força do contrato e do disposto no artigo 22, § 4º, da Lei nº 8.906/94. Não se admite a expedição de Requisição de Pequeno Valor (RPV) para pagamento de honorários advocatícios contratuais destacados para recebimento de forma autônoma do crédito principal, pois, se o pagamento do valor principal for feito através de precatório, assim também deverá ocorrer com o valor destacado para pagamento dos honorários contratuais. Precedentes do Supremo Tribunal Federal e do Conselho Especial deste Tribunal.”
+    A parte recorrente, por meio da Petição de nº 61644/2018, informa a perda superveniente do objeto do presente recurso extraordinário.
+    O recurso está prejudicado. Isso porque o Superior Tribunal de Justiça, em acórdão transitado em julgado, deu provimento ao recurso especial simultaneamente interposto pela parte recorrente (Resp 1.745.163/DF) para determinar a possibilidade de execução de forma autônoma dos honorários contratuais mediante a requisição de pequeno valor, mesmo que o montante principal esteja sujeito ao regime de precatório. De modo que o recurso extraordinário perdeu o respectivo objeto.
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o recurso.
+    Publique-se.
+          Brasília, 25 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
