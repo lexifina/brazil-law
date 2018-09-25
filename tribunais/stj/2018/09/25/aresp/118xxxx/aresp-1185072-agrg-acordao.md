@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REVOLVIMENTO DE PROVA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A defesa não realizou o devido cotejo analítico, com demonstração, de forma clara e objetiva, da suposta incompatibilidade de entendimentos e da similitude fática entre os julgados confrontados, conforme disposição do arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+2. Constou do acórdão que a condenação está embasada não só na palavra da vítima como também no exame de corpo de delito e nas fotografias acostadas aos autos. Nesse cenário, para acolher a pretensão da parte - de que houve violação do art. 156 do CPP porque a condenação estaria fundada apenas na palavra da vítima -, seria necessário desconstruir o entendimento do Tribunal de Justiça, com amplo reexame de provas, situação não admitida em recurso especial, que se presta à resolução de controvérsia jurídica, e não fática (Súmula n. 7 do STJ).
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+[NOME] interpõe agravo regimental em contra decisão na qual conheci do agravo para não conhecer do recurso especial interposto pelo agravante, em razão da incidência, ao caso, da Súmula n. 7 do STJ e da ausência de demonstração de dissídio jurisprudencial.
+O agravante alega, em síntese: 1) as decisões paradigmas foram juntadas aos autos; 2) existe dissídio jurisprudencial a ser decido, pois a questão versa sobre a possibilidade de demonstração de autoria apenas pelas declarações da vítima em casos de lesão corporal, o que foi reconhecido no acórdão guerreado, mas não nos paradigmas; e 3) não existe necessidade de reexame do conjunto probatório.
+Requer a reconsideração da decisão agravada ou o processamento deste agravo regimental perante o órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REVOLVIMENTO DE PROVA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A defesa não realizou o devido cotejo analítico, com demonstração, de forma clara e objetiva, da suposta incompatibilidade de entendimentos e da similitude fática entre os julgados confrontados, conforme disposição do arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+2. Constou do acórdão que a condenação está embasada não só na palavra da vítima como também no exame de corpo de delito e nas fotografias acostadas aos autos. Nesse cenário, para acolher a pretensão da parte - de que houve violação do art. 156 do CPP porque a condenação estaria fundada apenas na palavra da vítima -, seria necessário desconstruir o entendimento do Tribunal de Justiça, com amplo reexame de provas, situação não admitida em recurso especial, que se presta à resolução de controvérsia jurídica, e não fática (Súmula n. 7 do STJ).
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O agravo regimental é tempestivo e atendeu aos demais requisitos de admissibilidade, razões pelas quais comporta conhecimento. Mantenho, contudo, a decisão de minha relatoria.
+O recurso especial busca, em síntese, a nulidade do feito, por violação do art. 156 do Código de Processo Penal, bem como por haver sido o decisum contrário à jurisprudência dos Tribunais de Justiça dos Estados de São Paulo, Minas Gerais e Rio Grande do Sul. Aduz que a condenação pela infração dos arts. 129, § 9º, e 147, ambos do Código Penal, haveria sido embasada única e exclusivamente na palavra da vítima, o que acarreta uma inversão do ônus da prova.
+Em relação à aventada divergência jurisprudencial, embora o agravante haja demonstrado haver colacionado aos autos cópia dos acórdãos em que se fundamenta o dissídio, verifico que a defesa, em sua petição, apenas transcreveu as ementas dos acórdãos paradigmas (fls. 384-385), mas não realizou o devido cotejo analítico, de forma a demonstrar, clara e objetivamente, a incompatibilidade de entendimentos e a similitude fática entre as demandas, conforme disposição dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ, o que torna inviável o conhecimento do recurso pela alínea "c" do art. 105, III, da Constituição Federal.
+Quanto à violação do art. 156 do CPP, ficou claro incidir na hipótese a Súmula n. 7 do STJ, pois constou do acórdão que a condenação está fundada não só na palavra da vítima como também no exame de corpo de delito e nas fotografias acostadas aos autos.
+Ressalto que, ao contrário do alegado pelo agravante, o laudo pericial e as fotografias servem para provar não só a materialidade do delito mas, também, a autoria, notadamente quando as lesões experimentadas pela vítima estão compatíveis com a versão relatada em seu depoimento.
+Na hipótese, o Tribunal de origem consignou que (fl. 357):
+Há laudo médico que concluiu que a vítima sofreu lesões corporais de natureza leve, consistentes em equimoses azuladas espalhadas pelos membros superiores, equimose amórfica localizada em região abdominal inferior mediana e equimoses focais esparsas pelos membros inferiores (fls. 108).
+ ..
+A vítima, de forma clara e segura confirmou os fatos narrados na denúncia: o apelante estava embriagado e sem motivo aparente começou a agredi-la com empurrões e socos na região da barriga, ao mesmo tempo em que proferia palavras ofensivas. Em determinado momento, passou a dizer que iria matá-la, além de quebrar diversos objetos em sua casa, causando prejuízo.
+Ressalte-se que a descrição das lesões atestadas no exame de corpo de delito, bem como as imagens dos hematomas e do (sic) bens danificados (fls. 52/59), guardam total compatibilidade com a narrativa da vítima, corroborando-a de modo convincente.
+Nesse cenário, para acolher a pretensão da parte, seria necessário desconstruir o entendimento do Tribunal de Justiça, com amplo reexame de provas, situação não admitida em recurso especial, que se presta à resolução de controvérsia jurídica, e não fática.
+À vista do exposto, nego provimento ao agravo regimental.
