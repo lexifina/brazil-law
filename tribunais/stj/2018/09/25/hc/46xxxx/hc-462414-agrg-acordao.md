@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES. REGIME PRISIONAL ABERTO. CABIMENTO. PENA-BASE FIXADA NO PISO LEGAL E PACIENTE PRIMÁRIO. INTELIGÊNCIA DO ART. 33, § 2º, "C", DO CÓDIGO PENAL. MODO DE RESGATE DE CUMPRIMENTO DA PENA MANTIDO. AGRAVO NÃO PROVIDO.
+1. Sabe-se que, na escolha do regime prisional, o julgador não está absolutamente adstrito ao quantum da pena imposta no caso concreto, devendo, nos termos do art. 33, § 3º, do Código Penal, guiar-se pelas diretrizes previstas no art. 59 do Estatuto Repressivo e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde do tipo penal violado.
+2. Aplicada a sanção corporal no patamar de 4 anos de reclusão e sendo favoráveis as circunstâncias judiciais do paciente, o regime inicial aberto é o adequado e suficiente para o cumprimento da pena reclusiva, nos termos do art. 33, § 2º, "c", do CP. A mera referência genérica, pelo Tribunal a quo, à violência empregada no delito de roubo não constitui motivação suficiente para justificar a imposição de regime prisional mais grave que a pena cominada, uma vez que se trata de situação prevista no próprio tipo penal. Precedentes.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão que não conheceu o habeas corpus, mas concedeu a ordem, de ofício, para fixar o regime aberto para o agravado (fls. 47/50).
+Consta dos autos que o paciente foi condenado, pelo Juízo singular, às penas de 5 anos e 4 meses de reclusão, em regime fechado, e 13 dias-multa, pela prática do delito previsto no art. 157, § 2º, I, do Código Penal (fls. 16/21).
+Inconformada, apelou a defesa e o Tribunal de origem proveu parcialmente o recurso para afastar a causa de aumento prevista no § 2º, I, do Código Penal, reduzindo a pena do paciente para 4 anos de reclusão e 10 dias-multa, mantido o regime fechado, conforme acórdão de fls. 22/28.
+A impetrante sustentou, no presente writ, a ocorrência de constrangimento ilegal, decorrente da aplicação do regime inicial fechado ao paciente, ante a ausência de fundamentação concreta para a imposição do regime mais rigoroso que o previsto para a pena aplicada, tendo em vista a ausência de circunstâncias judiciais desfavoráveis e a primariedade do paciente. Sustenta incidirem ao caso os enunciados 440 da Súmula desta Corte e 718 e 719 da Súmula do STF.
+Diante disso, requereu, liminarmente e no mérito, a fixação do regime aberto para o início do cumprimento de pena.
+O pedido liminar foi deferido para assegurar ao paciente o direito de aguardar no regime aberto o julgamento desta impetração (fls. 32/34).
+O Ministério Público Federal opinou, às fls. 43/44, pela concessão parcial da ordem, fixando-se o regime inicial semiaberto.
+Em decisão acostada às fls. 47/50, este Relator não conheceu o mandamus. Contudo, concedeu a ordem, de ofício, para fixar o regime aberto.
+Em seu agravo (fls. 57/61), o Ministério Público Federal, alega que, não obstante o regime fechado seja desproporcional, tendo em vista que a pena arbitrada não excedeu 4 anos, o regime semiaberto se mostrava mais adequado. Isso porque, no caso, argumenta que as circunstâncias da conduta demonstram a audácia e a periculosidade do paciente, que não hesitou em vitimar uma mulher, de modo covarde, subtraindo-lhe a bolsa que continha diversos pertences (fl. 59).
+Pleiteia, assim, a reconsideração da decisão agravada ou, caso contrário, sua submissão ao órgão colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+A despeito das alegações do agravante, entendo que a decisão impugnada deve ser mantida por seus próprios fundamentos.
+A jurisprudência desta Corte firmou-se no sentido de que é necessária a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal, na primariedade do acusado e na gravidade concreta do delito, evidenciada esta última por um modus operandi que desborde dos elementos normais do tipo penal violado.
+Nessa linha, foi editada a Súmula n. 440/STJ, segundo a qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Na mesma esteira, há os enunciados n. 718 e n. 719 da Súmula do Supremo Tribunal Federal, os quais indicam, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, embora o Tribunal a quo tenha reduzido a pena do paciente para 4 anos de reclusão, manteve o regime inicial fechado, conforme se segue (fl. 27):
+Quanto ao regime, o fechado é o único compatível com a gravidade concreta da conduta - agente que, mediante grave ameaça, aborda a vítima em plena via pública, a fim de subtrair-lhe os pertences. Houve maior desvalor da conduta, afigurando-se justo, para reafirmação da norma penal violada, que a resposta Estatal seja mais intensa, proporcional à gravidade do crime, sob pena de equiparação de situações desiguais, em ofensa ao princípio da individualização das penas, não havendo que se falar em afronta às Súmulas/STF nº 718 e nº 719 e STJ, nº 440.
+Da leitura do acórdão, verifico que a conduta do acusado não desbordou do tipo do roubo, de forma que os fundamentos utilizados não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que a pena imposta. Seguindo o entendimento desta Corte, a mera referência genérica, pelo Tribunal a quo, à violência empregada no delito de roubo não constitui motivação suficiente para justificar a imposição de regime prisional mais gravoso, uma vez que se trata de situação prevista no próprio tipo penal.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. ROUBO CIRCUNSTANCIADO. ORDEM CONCEDIDA PARA REDIMENSIONAR AS PENAS DOS ORA AGRAVADOS PARA 6 ANOS, 2 MESES E 20 DIAS DE RECLUSÃO. DOSIMETRIA. TERCEIRA FASE. EXASPERAÇÃO DA PENA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL SEM FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REDUÇÃO AO MÍNIMO LEGAL (1/3). POSSIBILIDADE. REGIME INICIAL. CONCEDIA A ORDEM PARA FIXAR REGIME INICIAL INTERMEDIÁRIO. PENAS-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENAS INFERIORES A 8 ANOS. ENUNCIADO N. 440 DA SÚMULA DO STJ E N. 718 E 719 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo circunstanciado em fração mais elevada que 1/3 (um terço) demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes, como no caso dos autos. Nesse diapasão, o Enunciado Sumular n. 443 desta Corte. Precedentes.
+2. É firme nesta Corte a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do Código Penal - CP. Nesse sentido, foi elaborado o Enunciado n. 440 da Súmula desta Corte e os Enunciados n. 718 e 719 da Súmula da Suprema Corte. Seguindo tal entendimento, a mera referência genérica, pelas instâncias ordinárias, à violência e à grave ameaça empregadas no delito de roubo, não constitui motivação suficiente, por si só, para justificar a imposição de regime prisional mais gravoso, porquanto refere-se a situação já prevista no próprio tipo.
+Outrossim, reconhecidas as circunstâncias judiciais favoráveis e a primariedade dos pacientes, sendo-lhes imposta reprimenda definitiva inferior a 8 anos de reclusão, cabível a imposição do regime semiaberto para iniciar o cumprimento da sanção corporal, à luz do art. 33, § 2º, alínea "b", do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC 418.160/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/06/2018, DJe 02/08/2018)
+Ademais, observa-se que o paciente é primário, a pena-base foi fixada no mínimo legal e a condenação não excede 4 anos de reclusão.
+Dessa forma, nos termos do art. 33, § § 2º e 3º, do Código Penal, o regime aberto se mostra mais adequado para o cumprimento da pena privativa de liberdade.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
