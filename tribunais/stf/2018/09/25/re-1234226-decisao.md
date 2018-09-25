@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — SEGUIMENTO – NEGATIVA .
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de evasão de divisas, previsto no artigo 22, parágrafo único, da Lei nº 7.492/86. No extraordinário, o recorrente aponta a violação do artigo 5º, incisos XXXIX, XL, XLVI, LVI, da Constituição Federal. Alega falhas no acordo de delação premiada. Diz ter sido julgado com base em provas insuficientes. Discorre sobre a ilicitude da prova, adentrando nos contornos da situação fática no tocante à preservação do material apreendido, tendo como diverso o quadro fático lançado pelo Colegiado de origem.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Colho do acórdão recorrido o seguinte trecho:
+    Saliente-se que as investigações da operação 'Ouro Verde' não gravitam unicamente em torno das planilhas em comento. Há escutas telefônicas, inúmeros depoimentos, quebras de sigilo bancário, quebra de sigilo telemático e, inclusive, confissão de alguns agentes envolvidos na trama delitiva. As planilhas profligadas são corroboradas pelas demais provas no que tange à fidedignidade de seu conteúdo original. A própria 'agenda eletrônica' de Fabiano Goens, um dos operadores da Tour Export Ltda., traz dados relativos às contas existentes na instituição clandestina.
+     Também é relevante ponderar que os dados contidos nas planilhas P1, P2 e TSC eram consolidados ao término de cada dia sendo, por conseguinte, inviável sua exclusão superveniente. As cópias obtidas pela polícia federal no computador pessoal de Alfredo Timm, quando devidamente corroboradas por outros elementos, constituem elemento de prova absolutamente idôneo para fundar decreto condenatório
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acrescer ter o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendido não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Nego seguimento ao extraordinário interposto por Ernesto Sigal.
+    4. Publiquem.
+Brasília, 25 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
