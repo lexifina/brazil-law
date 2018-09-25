@@ -7,3 +7,4 @@ Pena - reclusão, de 8 (oito) a 15 (quinze) anos.
 Pena - reclusão, de 10 (dez) a 20 (vinte) anos.
 § 4º Se da conduta resulta morte:
 Pena - reclusão, de 12 (doze) a 30 (trinta) anos.
+§ 5º As penas previstas no caput e nos §§ 1º, 3º e 4º deste artigo aplicam-se independentemente do consentimento da vítima ou do fato de ela ter mantido relações sexuais anteriormente ao crime.
