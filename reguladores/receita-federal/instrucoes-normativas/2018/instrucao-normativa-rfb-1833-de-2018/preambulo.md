@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1833, de 25 de setembro de 2018
+Altera a Instrução Normativa SRF nº 680, de 2 de outubro de 2006, que disciplina o despacho aduaneiro de importação, e a Instrução Normativa RFB nº 1.598, de 9 de dezembro de 2015, que dispõe sobre o Programa Brasileiro de Operador Econômico Autorizado.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXV do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 551, 578 e 579 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
