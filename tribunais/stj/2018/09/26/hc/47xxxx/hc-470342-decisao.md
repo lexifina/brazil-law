@@ -1,0 +1,11 @@
+EMENTA
+HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO. NULIDADE PROCESSUAL. AUDIÊNCIA DE INSTRUÇÃO. PRESIDÊNCIA CONDUZIDA POR MAGISTRADO ALHEIO AO FEITO. ALEGAÇÃO DE VIOLAÇÃO DE PRINCÍPIOS. JUIZ NATURAL. IDENTIDADE FÍSICA DO JUIZ. AUSÊNCIA DE CÓPIA DE DOCUMENTO QUE COMPROVE QUEM É O JUIZ NATURAL DA CAUSA. INSTRUÇÃO DEFICIENTE.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] e [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que não conheceu do habeas corpus ali impetrado - ao fundamento de impotência do órgão julgador, pois já tendo sido prolatado acórdão por este Tribunal de Justiça, mantendo a condenação dos pacientes, torna-se incompetente para julgar o presente "writ" (fl. 17 - Habeas Corpus n. 2180963-42.2018.8.26.0000).
+Consta dos autos que a Juíza de Direito da 1ª Vara Criminal da comarca de Jundiaí/SP, [NOME], presidiu audiência de instrução, em 4/5/2015, na Ação Penal n. 0018760-55.2014.8.26.0309, realizando a oitiva de duas testemunhas e designando nova data de audiência para continuação da instrução processual (fls. 9/14).
+Daí a presente impetração, na qual se alega constrangimento ilegal consistente em nulidade processual, na audiência de 4/5/2015, por violação dos princípios do juiz natural e da identidade física do juiz, objetivando tornar sem efeitos os atos posteriores; e que seja revogada a prisão dos pacientes, em cumprimento da execução provisória da pena, após confirmação da condenação em segundo grau.
+No entanto, o presente writ - instruído com cópias de procuração, termo de audiência de instrução e acórdão da Corte paulista - deve ser indeferido liminarmente, porquanto o impetrante não o instruiu suficientemente, carecendo de comprovação de que a magistrada que presidiu a audiência não era a juíza natural do feito.
+Isso porque cabe ao impetrante o ônus processual de instruir a inicial com documentos destinados a comprovar as alegações suscitadas no mandamus, a fim de se ter a exata compreensão da controvérsia e verificar eventual supressão de instância. Nesse sentido: AgRg no RHC n. 98.232/AL, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/9/2018; e HC n. 455.758/RJ, Ministro Felix Fischer, Quinta Turma, DJe 21/8/2018.
+Em razão disso, indefiro liminarmente o presente writ (art. 210 do RISTJ).
+Publique-se.
