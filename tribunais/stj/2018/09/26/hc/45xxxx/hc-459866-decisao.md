@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios.
+Consta dos autos que o reeducando cumpria pena no regime semiaberto, com autorização para realizar trabalho externo, quando sobreveio nova condenação, impondo-se, após procedimento de unificação, o regime prisional fechado. Ocorre que, mesmo com a soma das penas, o Juízo de Execuções constatou que o reeducando já fazia jus à progressão para o semiaberto, considerando a data-base em 11.03.2013. Dessa forma, concedeu a progressão e autorizou a continuidade do trabalho externo, conforme decisão de fls. 7/8.
+Diante da não reconsideração da decisão (fls. 15/18), o requerimento do Ministério Público foi recebido como agravo em execução. Em suma, sustentou-se que pela sentença condenatória superveniente ainda não ter transitado em julgado para a acusação, a concessão de benefícios executivos externos não seria recomendada, por não guardar correlação com a prisão preventiva em que se encontrao sentenciado.
+O Tribunal a quo deu provimento ao recurso ministerial, no sentido de inviabilizar o tralho externo (fls. 20/24).
+No presente writ, afirma o impetrante, em síntese, que a superveniência da sentença condenatória e com a emissão de guia de execução provisória da pena, inicia-se a competência do Juiz da Execução Penal e, consequentemente, a possibilidade de concessão de benefícios (fl. 1/5).
+Requer, assim, a concessão da ordem para restabelecimento da autorização de trabalho externo ao reeducando.
+Indeferida a liminar às fls. 40/42, e prestadas as informações às fls. 45/72, o Ministério Público Federal ofertou parecer pelo não conhecimento ou denegação da ordem (fls. 76/80).
+Petições do Ministério Público e da defesa protocoladas às fls. 82/91, reiterando seus pedidos.
+É o relatório.
+DECIDO.
+Ressalta-se que o pleito, antes de chegar à Corte de origem, foi analisado por três magistrados distintos no Juízo de Execuções, em oportunidades diversas, mas todas as decisões caminharam no mesmo sentido.
+Primeiramente, no primeiro contato, ao unificar as penas, decidiu-se nos seguintes termos (fls. 7/8):
+Com o propósito de ensejar a fixação de data efetiva para o cálculo de novos benefícios e propiciar o correto cadastramento do regime atual e a emissão de Atestado de Pena a Cumprir fidedigno, tendo em vista a(s) nova(s) execução(ões) distribuída(s), UNIFICO as reprimendas e fixo regime prisional FECHADO , tendo em vista que tal foi o regime fixado na nova condenação cadastrada  conforme IP (s) nº 1/2013 , bem como a quantidade de pena remanescente, que supera 8 anos.
+Fixo como data efetiva para o cálculo da benesse progressiva o dia 11/03/2013. o que faço com fundamento no artigo 111 e seu parágrafo único, da Lei de Execuções Penais, e no artigo 33 do Código Penal.
+Verifica-se, contudo, que para fins de concessão de benefícios, tem-se que o apenado mesmo com a pena da nova condenação, preencheu o requisito objetivo para nova progressão de regime, qual seja, ao semiaberto em 12/041/2016, já computados os 774 dias remidos homologados por este Juízo.
+O apenado também conta com requisitos subjetivos.
+Desse modo. DEFIRO A PROGRESSÃO AO REGIME SEMIABERTO pois o apenado preenche o apenado o requisito objetivo previsto no artigo 112. da Lei de Execução Penal e estabeleço o dia 12/04/2016 como novo marco efetivo para cálculos a partir do qual se contará novo requisito objetivo para futuros benefícios.
+CONCEDOa(o) sentenciado(a) a AUTORIZAÇÃO PARA O TRABALHO EXTERNO via FUNAP ou mediante proposta de emprego previamente analisada por este Juízo. Oficie-se á FUNAP e ao Estabelecimento Prisional remetendo cópia desta decisão.
+Deixo de conceder as saídas temporárias, pois o apenado que é reincidente, ainda não cumpriu 1/4 da pena, comom exige o art. 123, II. da LEP.
+Atualize-se a conta de liquidação, inclusive no que tange á data efetiva para o cálculo de novos benefícios. Após, junte-se aos autos a certidão relativa às execuções.
+Tendo em vista que o apenado não cumpriu 1/6 da pena remanescente em 12/04/2016, INDEFIRO os pedidos de progressão ao regime aberto. (grifos nossos)
+Outrora, na análise do pedido de reconsideração proposto pelo Ministério Público, a decisão foi mantida dessa forma (fls. 15/16):
+Alega o MP, em pedido de reconsideração, a impossibilidade de concessão dos benefícios da execução quando há sentença penal condenatória sem trânsito em julgado para a acusação.
+A defesa foi ouvida.
+Razão não assiste ao Parquet.
+A respeito do tema, há elucidativo precendente do c. STJ. Veja-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ART. 157, § 2o, I, II E V, C/C ART. 14, II, DO CÓDIGO PENAL. APELAÇÃO DO MP. EXPEDIÇÃO DA CARTA DE RECOLHIMENTO PROVISÓRIO. MATÉRIA NÃO APRECIADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. POSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DA PENA.
+I - Se a controvérsia veiculada na exordial, consistente na possibilidade de expedição de carta de recolhimento provisório antes do transito em julgado da condenação, não foi apreciada em segundo grau de jurisdição, dela não se conhece sob pena de supressão de instância.
+II - A pendência de julgamento do recurso de apelação interposto pelo Ministério Público não obsta a formação do Processo de Execução Criminal provisória. (Precedentes).
+III - "Admite-se a progressão de regime de cumprimento da pena ou a aplicação jmediata de regime menos severo nela determinada, antes do trânsito em julgado da sentença condenatória" (Súmula nº 716 do Pretório Excelso) Habeas corpus não conhecido.
+Writ concedido de ofício para que seja expedida guia de recolhimento provisória. (HC 83.276/SP, Rei. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/09/2007, DJ 29/10/2007, p. 289 - grifei ).
+Ora, é cediço que a execução provisória presta-se justamente a adequar a execução da pena à custódia cautelar decretada ou mantida na sentença penal condenatória, ainda não transitada em julgado, evitando-se, assim, que o sentenciado seja submetido a situação mais gravosa que aquela que decorre do titulo penal condenatório.
+Assim, não faz qualquer sentido lógico admitir-se a formação da execução provisória, permitindo-se, inclusive, a unificação das penas no regime fechado, caso a reprimenda somada supere os 8 anos, sem que se possa conceder benefícios que se mostrem cabíveis mesmo quando considerada a nova pena.
+Por tais motivos, mantenho a decisão de fl. 759 e recebo como agravo a manifestação ministerial de fls. 767/v.
+Mais uma vez, antes da subida dos autos, em juízo de eventual retratação, consta tal decisão (fl. 18):
+Cuida-se de recurso de Agravo, por meio do qual se ataca decisão proferida por este Juízo das Execuções Penais do DF, em sede incidental.
+Por força do efeito regressivo legalmente conferido ao recurso (art, 589, do CPP), volveram os autos para eventual juízo dé retratação.
+Reexaminados os autos da execução, e, detidamente cotejadas as razões expendidas pelo recorrente, tenho que os argumentos ali lançados não teriam o condão de modificar o entendimento deste Juízo, que é único e especializado no DF, aplicado, de forma isonômica, a todas as hipóteses assemelhadas àquela dos autos, estando a decisão calcada em fundamentos que, ao menos nesta sede prefaciai de análise, comportam e recomendam a sua manutenção.
+Ao cabo do exposto, com espeque nas próprias razões já explicitadas no decisório judicial atacado, e, revolvidos os elementos constantes dos autos, em cotejo com as razões recursais aventadas pelas partes, mantenho, incólume, a decisão vergastada, por entendê-la justa e adequada à hipótese específica dos autos.
+Junte-se cópia da presente decisão nos autos principais.
+Após, subam os autos ao Egrégio Tribunal de Justiça.
+Com o retorno dos autos, fica desde logo determinado o traslado das peças relevantes relativas ao julgamento para os autos da Execução, com o posterior arquivamento do Agravo.
+A Corte de origem, em sentido contrário, ao julgar agravo em execução ministerial, afastou a possibilidade de trabalho externo ao apenado, pelos seguintes fundamentos (fls. 20/24):
+Assiste-lhe razão.
+Na decisão hostilizada, o d. Juízo da execução, diante d  nova condenação no curso da execução penal, conforme IP nº 1/20Í3, unificou as reprimendas e fixou o regime prisional fechado, porém deferiu a progressão ao regime semiaberto em razão da remissão, bem como concedeu ao sentenciado autorização para o trabalho externo.
+Em consulta ao sítio eletrônico deste Tribunal de Justiça, verifica-se que a sentença penal referente ao IP nº 1/2013, proferida nos autos nº 2013 01 1 024113-0, condenou o denunciado/agravado à pena de 10 (dez) anos e 6 (seis) meses de reclusão, no regime prisional fechado, e 20 (vinte) dias-multa, à razão unitária mínima, bem como manteve a prisão preventiva do réu, em razão da prática dos fatos descritos no artigo 288, caput, do Código Penal; artigo 155, § 4o, incisos II e IV, c/c artigo 61, inciso II, "h  e artigo.62, inciso I, todos do Código Penal (9o fato); e artigo 155, § 4o, incisos II e IV, c/c artigo 61, inciso II, "h", e artigo 62, inciso I, todos do Código Penal (10º fato).
+Observa-se, ainda, que a referida sentença condenatória não transitou em julgado para a acusação, havendo recurso de apelação do Ministério Público pendente de julgamento.
+É certo que a possibilidade de agravamento da pena imposta ao agravado, diante de eventual provimento do apelo do Parquet, torna precipitada a concessão do benefício antes do trânsito em julgado da sentença. Ademais, a prisão preventiva mostra-se incompatível com o trabalho externo, inviabilizando, portanto, a concessão do referido benefício. Tanto que os próprios atos normativos da Vara de Execuções Penais do DF, especificamente as Portarias nº 01/2018 e nº 02/2018, vedam, respectivamente, a concessão de saídas temporárias e quinzenais em razão de prisão cautelar em desfavor do sentenciado.
+Registra-se, por oportuno, conforme inclusive pontuou o próprio agravante, que a progressão de regime deve ser mantida, de forma a evitar maior prejuízo ao apenado no caso de não provimento do recurso da apelação, suspendendo-se, porém, a autorização para. o trabalho externo até que haja o trânsito em julgado da sentença penal e a consolidação da situação processual do sentenciado, quando poderá ser concedido o benefício pelo Juízo da Execução se for o caso.
+Ante o exposto, conheço do recurso e a ele DOU PROVIMENTO para revogar a concessão de autorização para o trabalho externo. (grifos nossos)
+Acerca da progressão de regime, não restam dúvidas de que agiu corretamente o magistrado de 1º grau, conforme o próprio Parquet reconheceu às fls. 82/85, já que a decisão foi formulada moldes da Súmula 716/STF. Assim, quanto à manutenção do apenado no regime semiaberto não há maiores discussões.
+O ponto nodal da impetração consiste em determinar se ao reeducando em prisão preventiva pode ser autorizado o benefício do trabalho externo, já que ainda não transitada em julgado a condenação superveniente.
+Pois bem.
+Sobre a autorização para trabalho externo, dispõe a Lei de Execuções Penais:
+Art. 37. A prestação de trabalho externo, a ser autorizada pela direção do estabelecimento, dependerá de aptidão, disciplina e responsabilidade, além do cumprimento mínimo de 1/6 (um sexto) da pena.
+Parágrafo único. Revogar-se-á a autorização de trabalho externo ao preso que vier a praticar fato definido como crime, for punido por falta grave, ou tiver comportamento contrário aos requisitos estabelecidos neste artigo.
+Observa-se, portanto, que dois são os requisitos a serem atendidos para a fruição do benefício do trabalho externo, a saber: subjetivo, concernentes ao merecimento; e objetivo, referente ao percentual temporal de cumprimento de pena.
+Verifica-se da decisão do Juízo das Execuções que o apenado cumpriu o requisito objetivo, e também o subjetivo (fls. 7/8).
+Em termos legais, portanto, não há disposição que obste a concessão da benesse do trabalho externo por ausência de trânsito em julgado da condenação superveniente, tendo em vista que a unificação foi realizada.
+Certo é que há possibilidade de alteração da condenação imposta em grau recursal, com a exasperação da pena atribuída, de modo que a autorização para o trabalho externo possa vir a ser cancelada pela sua incompatibilidade com a regressão de regime. Porém, justamente por ser viável a suspensão a qualquer tempo é que não há risco no deferimento da benesse, haja vista não ser uma medida irreversível. Inconcebível seria, na verdade, a negativa de um benefício a que o apenado faz jus atualmente, por mero temor que no futuro venha este a ser suspenso.
+Não se desconsidera também as características do sentenciado, descrito às fls. 82/85 como integrante de associação criminosa. Entretanto, atingido o lapso necessário ao regime semiaberto, não há motivos legais que impeçam a fruição do trabalho externo, nos termos decididos em 1ª instância, estando o apenado preso ao menos desde 2013 (ano da data-base fixado pelo juízo de execuções).
+A negativa de benefícios, em especial a concessão de trabalho externo, preenchidos todos os requisitos legais, fere inclusive a lógica do encarceramento e sua função, ao menos ideal, de ressocialização.
+Ante o exposto, concedo o habeas corpus para determinar, presentes os requisitos legais, o restabelecimento da decisão do Juízo das Execuções que autorizou o trabalho externo ao apenado.
+Comunique-se.
+Publique-se.
+Intimem-se.
