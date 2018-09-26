@@ -1,0 +1,29 @@
+EMENTA
+PROCESSO PENAL. RECLAMAÇÃO. CABIMENTO. ART. 105, INCISO I, ALÍNEA F, DA CONSTITUIÇÃO FEDERAL E ART. 966, INCISOS I E II, DO CÓDIGO DE PROCESSO CIVIL. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRESERVAÇÃO DE SUA COMPETÊNCIA E GARANTIA DA AUTORIDADE DE SUAS DECISÕES. PRETENSÃO DO RECLAMANTE DE APLICAÇÃO DE REGRAS INTERNAS DE COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL. CASO CONCRETO QUE NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES DE CABIMENTO DA RECLAMAÇÃO NO SUPERIOR TRIBUNAL DE JUSTIÇA. RECLAMAÇÃO NÃO CONHECIDA.
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, ajuizada por [NOME], com amparo no art. 988, incisos I e II, do Código de Processo Civil, contra decisão do 3.º Vice-Presidente do Tribunal de Justiça do Estado do Rio Grande do Sul, que concedeu efeito suspensivo ao agravo em execução formulado pelo Ministério Público Estadual, que visava a renovação da inclusão do reclamante no sistema prisional federal até julgamento final do recurso, cuja ementa restou assim redigida:
+"MEDIDA CAUTELAR. AGRAVO EM EXECUÇÃO. CABIMENTO. INCLUSÃO NO SISTEMA PRISIONAL FEDERAL. PLAUSIBILIDADE JURÍDICA. LIDERANÇAS DE FACÇÕES. GARANTIA DA ORDEM PÚBLICA. PERICULUM IN MORA VERIFICADO. MEDIDA CAUTELAR DEFERIDA."
+Alega o Reclamante que o ato impugnado afronta as regras de competência das Câmaras Criminais do Tribunal de Justiça Gaúcho, na medida em que "sobrepôs a autoridade jurisdicional das decisões dos juízes da VEC, legalmente incumbidos do exercício executório penal (art. 66, incs. I ao X, da LEP)" (fl. 11).
+Argumenta, também, que referido decisum ofende o disposto nas Súmulas n.os 604 do Superior Tribunal de Justiça e 267 do Supremo Tribunal Federal.
+Assevera que a decisão concessiva de efeito suspensivo ao recurso de agravo em execução não tem amparo legal na legislação processual, sendo certo, ainda, que o 3.º Vice-Presidente do Tribunal de Justiça não detém prerrogativa funcional para apreciar o pedido, nos termos do art. 59 do Regimento Interno do TJ/RS.
+Enfatiza que:
+"a decisão que determinou o retorno do Apenado ao sistema penal originário, ora suspensa, foi proferida por um colegiado de Juízes responsáveis pela Execução Penal da Capital, os quais têm atuação direta e diária no sistema carcerário, conhecedores da realidade dos Presídios Gaúchos, que lograram lançar decisão robustamente fundamentada para indeferir o pleito ministerial, portanto, caracterizada estar-se-á, data vênia, manifesta coação ilegal, sanável, in casu, via RECLAMAÇÃO, à luz do art. 988, incs. I e II da Lei Federal nº 13.105/2015" (fl. 19).
+Requer, em sede liminar, seja cassada a decisão impugnada, que concedeu antecipou a tutela recursal do agravo em execução formulado pelo Ministério Público Estadual em desfavor do reclamante; no mérito, seja ratificada a liminar.
+Pleiteia, ainda, a extensão do decisum aos demais apenados recolhidos em presídios federais em situações similares, conforme art. 580 do Código de Processo Penal.
+Determinada a regularização da representação processual pela Vice-Presidência desta Corte, juntou o reclamante a procuração de fl. 3.320. Na oportunidade, noticiou a superveniência de decisão do Juízo Federal de Mossoró no sentido da devolução do Apenado, ora Reclamante, ao Estado de origem. Registrou o magistrado que:
+"a existência de medida cautelar, concedendo efeito suspensivo ao recurso interposto contra a decisão do juízo de origem, é inócua para fins de devolução do preso ao Estado de origem, pois não implica na renovação do prazo de permanência do preso em unidade federal.
+Diferente seria caso tivesse havido a reforma da decisão do juízo de origem do primeiro grau, com consequente decisão, ainda que monocrática do Tribunal de Justiça, no sentido da renovação, o que não ocorreu na espécie." (fl. 3.322).
+Por meio da Petição n.º 414.038/2018, o Ministério Público do Estado do Rio Grande do Sul pleiteia o não conhecimento ou a improcedência da reclamação.
+Às fls. 3.339-3.340, a Ministra Maria Thereza de Assis Moura indeferiu o pedido de liminar.
+É o relatório.
+Decido.
+De acordo com o art. 105, inciso I, alínea f, da Constituição Federal, cabe ao Superior Tribunal de Justiça processar e julgar, originariamente, "a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões".
+O art. 988 do Código de Processo Civil, aplicado subsidiariamente por força do no art. 3.º do Código de Processo Penal, ampliou as hipóteses de cabimento da reclamação, estabelecendo que ela será cabível para:
+"I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei nº 13.256, de 2016)"
+No caso, conforme já consignado na decisão que indeferiu o pleito liminar, a alegação do Reclamante refere-se ao descumprimento das regras de competência do Tribunal local pela decisão reclamada. Evidente, portanto, que o caso em tela não se enquadra em nenhuma das hipóteses previstas de cabimento da reclamação perante o Superior Tribunal de Justiça.
+Ademais, às fls. 3.321-3.323, consta decisão do Juízo Federal, datada de 26/07/2018, determinando a devolução imediata do Reclamante ao Estado de origem, em razão do decurso de prazo de permanência do preso no sistema carcerário federal, sem pedido de renovação do prazo. Dessa forma, é de ser reconhecida a perda superveniente de objeto da presente reclamação.
+Ante o exposto, seja pelo manifesto descabimento da presente reclamação, seja pela perda superveniente de objeto, NÃO CONHEÇO do pedido, conforme autorizado pelo art. 34, inciso XVIII, alínea a, do RISTJ.
+Publique-se. Intimem-se.
