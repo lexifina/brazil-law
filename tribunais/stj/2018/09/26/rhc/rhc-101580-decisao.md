@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por ALEXANDRE GONÇALVES DOS SANTOS FILHO desafiando acórdão do Tribunal de Justiça do Estado do Amazonas - HC n. 4002813-17.2018.8.04.0000.
+Foi o recorrente preso em flagrante pela suposta prática da conduta descrita no art. 157, § 2º, incisos I e II, do Código Penal. A prisão em flagrante foi convertida em preventiva.
+Contra essa decisão insurgiu-se a defesa. Entretanto, os desembargadores integrantes da Segunda Câmara de Direito Criminal, por unanimidade de votos, denegaram a ordem (e-STJ fls. 25/30).
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública o excesso de prazo na formação da culpa. Esclarece que o recorrente se encontra preso preventivamente desde 25 de agosto de 2017 e não há previsão para o encerramento da instrução processual penal. Ressalta que, "no caso dos autos de origem, há somente dois réus, demonstrando-se a ausência de peculiaridades a ensejar a caracterização de complexidade na análise do feito, de forma que, resta plenamente configurado o descaso do juízo de origem ao procrastinar o processo, sujeitando o recorrente ao cárcere, em razão de um suposto crime, sem a existência de condenação" (e-STJ fl. 44).
+Reverbera, outrossim, a ilegalidade, ante a ausência de fundamentos suficientes, do acórdão que manteve a custódia cautelar. Pondera que a gravidade abstrata do crime não justifica, por si só, a manutenção da medida excepcional. Acrescenta que, "se as ações penais em curso não podem servir como elemento nem mesmo para majorar a pena do réu condenado,  ..  tais ações penais, inconclusas, também não poderão servir para justificar a segregação cautelar por extenso lapso temporal, em observância ao princípio constitucional da presunção de inocência" (e-STJ fl. 51).
+Diante dessas considerações, pede, em tema liminar, possa o recorrente aguardar em liberdade o julgamento definitivo do presente inconformismo. No mérito, busca o relaxamento ou a revogação da prisão preventiva, aplicando-se, subsidiariamente, medidas cautelares diversas da custódia, nos moldes do art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido (e-STJ fls. 78/80).
+Prestadas as informações, opinou o Ministério Público Federal pelo desprovimento do recurso (e-STJ fls. 96/104).
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem, o ora recorrente foi condenado, em 13/9/2018, como incurso no art. 157, § 2º, I e II, do Código Penal, à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, permitido o direito de recorrer em liberdade.
+Diante disso, nada mais há a ser apreciado nesta oportunidade, tendo em vista que fica sem objeto o pedido contido no recurso, cujos fundamentos foram superados.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
