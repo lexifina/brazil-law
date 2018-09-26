@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial às e-STJ fls. 409/412, in verbis:
+1. Trata-se de recurso especial interposto pelo Ministério Público Federal, com base nas alíneas "a" e "c" do permissivo constitucional, por contrariedade ao artigo 334, § 1º, "c", do Código Penal, com a redação anterior à Lei n. 13.008/2014, bem como por divergência jurisprudencial, em relação à interpretação desse dispositivo, com os Tribunais Superiores, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que deu provimento ao recurso da acusação e, com base no princípio da insignificância, absolveu [NOME] da prática do crime de contrabando, uma vez que introduziu no território nacional pouca quantidade de cigarros estrangeiros.
+O MPF ofereceu denúncia, a qual foi recebida em 29/01/2015 (e-STJ fl. 07), em desfavor de [NOME], imputando-lhe a prática do crime tipificado no art. 334, § 1º, do CP, narrando, em suma, que, na data de 29/07/2013, introduziu no território nacional 306 maços de cigarros, de origem estrangeira, para posterior revenda.
+O magistrado de primeiro grau julgou procedente a denúncia e condenou [NOME], em regime inicial aberto, à pena de 01 ano de reclusão, concedendo-lhe o direito de recorrer em liberdade.
+A sentença foi registrada, eletronicamente, em 01/09/2015 (e-STJ fl. 115).
+A defesa de [NOME] interpôs recurso de apelação, arguindo, preliminarmente, a inépcia da denúncia, ante a ausência dos requisitos do art. 41, do Código de Processo Penal, já que teria deixado de indicar a alínea do §1º do art. 334 do CP, bem como o montante dos tributos sonegados pelo agente. No mérito, requereu a aplicação do princípio da insignificância, porquanto o valor dos tributos supostamente iludidos não ultrapassou o patamar de R$ 10.000,00 (dez mil reais). De forma alternativa, requereu a absolvição, por ausência de prova do dolo da conduta delitiva.
+A 8ª Turma do TRF/4ª afastou a preliminar arguida pela defesa, bem como a questão da ausência de dolo; no mérito, entretanto, deu provimento ao recurso, por maioria, para absolver [NOME], face o princípio da insignificância, em acórdão assim ementado (e-STJ fl. 361):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. DESCAMINHO. ARTIGO 334 DO CÓDIGO PENAL. DÉBITO TRIBUTÁRIO INFERIOR AO TETO DE RELEVÂNCIA ADMINISTRATIVA. INSIGNIFICÂNCIA PENAL. EXCLUDENTE DE TIPICIDADE. HABITUALIDADE DELITIVA. IRRELEVÂNCIA. PROVIMENTO.
+1. Em se tratando de suposta prática do delito de descaminho, previsto no 334 do Código Penal, e sendo o montante dos impostos federais iludidos, com a introdução irregular de mercadorias estrangeiras, inferior ao limite mínimo de relevância administrativa, aferível a insignificância penal, excluindo-se a tipicidade da conduta.
+2. Eventual reiteração criminal não importa o afastamento da tese despenalizante, porquanto o reconhecimento da bagatela não pressupõe a análise de circunstâncias subjetivas, sendo aferida apenas em função de aspectos objetivos referentes ao delito perpetrado.
+3. Apelação provida.
+O recurso foi julgado na sessão de 09/02/2018 (e-STJ fl. 362).
+O MPF interpõe, por fim, o presente recurso especial (e-STJ fls. 374/383), com base nas alíneas "a" e "c" do permissivo constitucional, por contrariedade ao artigo 334, § 1º, "c", do Código Penal (redação anterior à Lei n. 13.008/2014), bem como por divergência jurisprudencial, em relação à interpretação desse dispositivo, com os Tribunais Superiores. No mérito, sustenta que "não se aplica o princípio da insignificância ao contrabando de cigarros. Tal entendimento decorre do fato de a conduta não apenas implicar lesão ao erário e à atividade arrecadatória do Estado, como na hipótese de descaminho. De fato, outros bens jurídicos são tutelados pela norma penal, notadamente a saúde pública, a moralidade administrativa e a ordem pública." (e-STJ fl. 382).
+A defesa de [NOME], embora intimada para apresentar as contrarrazões recursais, deixou transcorrer o prazo, sem manifestação (e-STJ fls. 386/387).
+A Vice-Presidente do TRF/4ª Região admitiu o processamento do recurso (e-STJ fl. 393).
+Os autos foram remetidos ao STJ e distribuídos à relatoria do Ministro Antônio Saldanha Palheiro; em seguida, vieram ao MPF, para a emissão de parecer, na qualidade de fiscal da lei.
+Ao final, o Parquet opinou pelo provimento do recurso especial (e-STJ fl. 418).
+É o relatório.
+Decido.
+Assiste razão ao recorrente.
+É que este Tribunal Superior firmou entendimento de que a importação não autorizada de cigarros tipifica o crime de contrabando, que, por sua vez, não admite a aplicação do princípio da insignificância, em razão do alto grau de reprovabilidade da conduta.
+Confiram-se nesse sentido:
+RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. INSURGÊNCIA PROVIDA.
+1. Os Tribunais Superiores possuem entendimento consolidado de que o princípio da insignificância não se aplica aos crimes de contrabando de cigarros, por menor que possa ter sido o resultado da lesão patrimonial, pois a conduta atinge outros bens jurídicos, como a saúde, a segurança e a moralidade públicas. Precedentes do STF e do STJ.
+2. Ao manter a rejeição da denúncia, por considerar insignificante a guarda em depósito de 180 (cento e oitenta) maços de cigarros de origem e de procedência estrangeira, sem registro nos órgãos públicos competentes, com o objetivo de venda, no exercício de atividade comercial (art. 334-A, § 1º, IV, do CP), o acórdão impugnado dissentiu da jurisprudência sobre o tema.
+3. Recurso especial provido. (REsp 1.719.439/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/08/2018, DJe 24/08/2018.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE CONTRABANDO. ERRO DE TIPO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. REGIMENTAL IMPROVIDO.
+1. Inexistindo discussão quanto à efetiva subsunção das condutas ao tipo penal ou da ocorrência de erro de tipo, tampouco foram manejados embargos de declaração para suprir a omissão, ressentindo-se do indispensável requisito do prequestionamento.
+Súmulas 282 e 356 do STF.
+2. Este Superior Tribunal de Justiça firmou o entendimento de que a introdução clandestina de cigarros, em território nacional, em desconformidade com as normas de regência, configura o delito de contrabando, ao qual não se aplica o princípio da insignificância, por tutelar interesses que transbordam a mera elisão fiscal. Precedentes.
+3. Agravo regimental improvido. (AgRg no AREsp 1.116.451/MT, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/04/2018, DJe 02/05/2018.)
+Ante o exposto, tendo em vista que o posicionamento expendido no acórdão recorrido está em desacordo com a orientação firmada no Superior Tribunal de Justiça, dou provimento ao recurso especial para restabelecer a sentença condenatória.
+Publique-se. Intimem-se.
