@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial fundamentado no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - NOVA AVALIAÇÃO DE IMÓVEIS - REQUISITOS ARTIGO 683 DO CPC - NÃO DEMONSTRADOS - AVALIAÇÃO REALIZADA POR MEIRINHO - AUSÊNCIA DE PROVA CONTUNDENTES EM CONTRÁRIO. - O Código de Processo Civil, excepcionalmente, permite que seja feita nova avaliação de bens penhorados, desde que configurada uma das hipóteses previstas no artigo 683. - A mera apresentação de laudo de avaliação unilateral do imóvel não tem o condão de afastar a avaliação realizada por meirinho, que possui presunção de veracidade." (e-STJ, fls. 144)
+Em suas razões recursais, o recorrente aponta violação dos arts. 131, 165, 458, II, 535, II, do CPC/73 e divergência jurisprudencial, sustentando, em síntese, que (a) o acórdão recorrido foi omisso, (b) a avaliação deve ser refeita, tendo em vista que o valor apontado na primeira não reflete a crise financeira atual, (c) houve nulidade, em virtude da ausência de intimação quanto à realização da hasta pública.
+Foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente, não prospera a alegada ofensa ao art. 165 e 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+O Tribunal de origem, quanto ao pleito de nova avaliação, assim decidiu:
+"Em análise atenta aos fundamentos apresentados pelo recorrente, tenho que razão não lhe assiste, uma vez que inexistem provas contundentes hábeis a afastar a avaliação realizada nos autos.
+Isso porque o laudo oficial foi produzido pelo meirinho em agosto de 2014, não podendo ser considerado desatualizado, notadamente porque não se verificou durante este período significativas mudanças nas condições mercadológicas.
+Ademais, a avaliação unilateral apresentada pelo recorrente não tem o condão de desfazer o laudo oficial, uma vez que ela considerou toda a área do imóvel, inclusive suas benfeitorias. Contudo, a área penhorada refere-se apenas a parte do bem, tratando-se de 6 hectares em pastagens (fls. 67-TJ).
+Logo, é natural que o laudo unilateral produzido pelo agravante esteja dissonante da conclusão apontada pelo oficial de justiça avaliador.
+Parece-me, no caso concreto, clara a intenção procrastinatória do agravante, visto que o laudo oficial foi confeccionado em agosto de 2014 e a avaliação do recorrente em abril de 2015, porém somente em setembro de 2015, quando já havia sido realizada a primeira hasta pública, o executado peticionou nos autos pleiteando nova avaliação. Ora, trata-se, ao que tudo indica, de estratégia do recorrente para tentar cancelar a segunda praça do imóvel penhorado, deixando para impugnar o laudo pericial mais de um ano após sua confecção." (e-STJ, fls. 147/148)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+De outro turno, o agravante sustenta nulidade, por ter sido intimado acerca do indeferimento do pleito de nova avaliação e suspensão da hasta pública após a realização desta.
+Contudo, como consta do excerto acima, o acórdão recorrido reconheceu o intuito protelatório do agravante, tendo em vista que a avaliação feita pelo próprio recorrente deu-se cinco meses antes de ter sido noticiada em juízo, quando já havia sido realizada a primeira hasta pública, a fim de obter "estrategicamente" o cancelamento da segunda praça do imóvel.
+Nesse ponto, é bastante elucidativa a decisão monocrática impugnada na origem:
+"Às vésperas da primeira data designada para o praceamento do bem imóvel penhorado, o Devedor vem impugnar a avaliação.
+DECIDO.
+O Executado é velho conhecido deste Juízo e não é a primeira vez que vem atuando com deslealdade, pois em outros processos em que também é devedor ele "fabrica" laudos de avaliações às vésperas das praças e requer a suspensão delas.
+Houve a avaliação à época e não foi impugnada. (..)" (e-STJ, fl. 87)
+Diante disso, não merece qualquer reparo o acórdão recorrido ao afirmar que "anular os atos processuais por não ter havido a intimação do recorrente antes da realização da hasta, que já estava designada, seria admitir que o agravante se beneficiasse de sua própria torpeza, na medida em que se não houve tempo hábil para sua intimação antes do praceamento do bem, tal se deu em função da estratégia adotada pelo recorrente de impugnar o laudo pouco antes da realização do ato" (e-STJ, fl. 148)
+Assim, a invocação de nulidade a que deu causa o devedor não justifica a anulação do ato, visto que a ninguém é permitido se beneficiar de sua própria torpeza. A propósito:
+"Direito civil e processual civil. Execução de alimentos. Acordo não homologado. Incúria do devedor. Nulidade. Impossibilidade. Alegação por quem a deu causa.
+- A ausência de homologação judicial do acordo não retira ao documento o caráter de título executivo (art. 585, inc. II do CPC).
+- A invocação de nulidade da execução à qual o devedor deu causa ao não homologar o acordo de alimentos, não pode ter a anuência do Poder Judiciário, porque a ninguém é dado se beneficiar de sua própria torpeza (art. 243 do CPC).
+- Adentra a senda da má-fé, o devedor de alimentos ao empregar ardis e artifícios de cunho técnico-processual com o objetivo de se esquivar de execução por meio de subterfúgios que ladeiam ato atentatória à dignidade da Justiça (art. 600, II do CPC).
+Recurso especial não conhecido."
+(REsp 593.714/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/08/2005, DJ 22/08/2005, p. 261)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
