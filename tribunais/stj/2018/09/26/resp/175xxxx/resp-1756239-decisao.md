@@ -1,0 +1,44 @@
+DECISÃO
+q
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"PENAL E PROCESSO PENAL. ESTELIONATO CONTRA A PREVIDÊNCIA SOCIAL. DIES A QUO DA CONTAGEM DO PRAZO PRESCRICIONAL. RÉU BENEFICIÁRIO DAS PRESTAÇÕES. PRESCRIÇÃO.
+1. O prazo prescricional do crime de estelionato contra a Previdência Social, quando se trata de réu beneficiário das prestações, é a data do último recebimento do benefício previdenciário.
+2. Conclui-se que ocorreu a prescrição pela pena em abstrato, pois transcorreu lapso maior que 12 (doze) anos entre a suspensão administrativa do beneficio e a presente data.
+3. O denunciado conta com mais de 70 (setenta) anos, e, assim, beneficia-se da redução à metade do prazo prescricional, que, pela pena máxima, é de 06 (seis) anos, nos termos do artigo 115, do Código Penal.
+4. A permanência do crime não engloba o período em que o beneficio foi restabelecido por decisão judicial em mandado de segurança, pois, a partir do momento em que se apura a irregularidade nos pagamentos, a autarquia não mais se encontra em erro.
+5. Recurso não provido, tendo em vista a ocorrência da prescrição da pretensão punitiva estatal." (e-STJ, fl. 203)
+O Parquet Federal, nas razões de seu apelo nobre, aponta negativa de vigência aos artigos 109, III, e 111, III, e 171, § 3º, todos do Código Penal. Sustenta, em suma, que a Corte de origem de forma equivocada extinguiu a punibilidade do recorrido por considerar que teria ocorrido a prescrição retroativa da pretensão punitiva estatal. Afirma que o acórdão recorrido adotou como data da consumação do delito "a referente à primeira suspensão do benefício em sede administrativa, quando, em verdade, com a impetração da ação judicial pelo beneficiário, ora recorrido, o respectivo benefício acabou por ser reativado, adiando a sua consumação e, consequentemente, o início do prazo prescricional para o momento do cancelamento definitivo" (e-STJ, fl. 212).
+Requer o provimento do recurso, reformando-se o acórdão recorrido para que seja recebida a denúncia em desfavor do recorrido pela prática do crime previsto no artigo 171, § 3º, do Código Penal, determinando-se o prosseguimento da ação penal.
+Contrarrazões às fls. 239-251 (e-STJ).
+A Subprocuradoria-Geral da República opinou pelo provimento do inconformismo (e-STJ, fls. 291-296).
+É o relatório.
+Decido.
+No que tange à sustentada negativa de vigência aos artigos 109, III, e 111, III, e 171, § 3º, todos do Código Penal, sem razão o recorrente.
+Ao considerar extinta a punibilidade do recorrido quanto à prática de estelionato contra a Previdência, assim consignou a Corte de origem no acórdão recorrido:
+"Do exposto, considerando-se que o denunciado foi o beneficiário das prestações e que o último benefício foi recebido em abril de 1999 (fls. 25) - tendo sido suspenso administrativamente peto INSS - conclui-se que ocorreu a prescrição pela pena em abstrato, pois transcorreu lapso maior que 12 (doze) anos entre a suspensão administrativa do beneficio e a presente data.
+Por outro giro, não se pode olvidar que o denunciado conta com mais de 70 (setenta) anos, tendo em vista que nasceu em 01/03/1931 (fls 12), e, assim, beneficia-se da redução à metade do prazo prescricional, que, pela pena máxima, é de 06 (ses) anos, nos termos do artigo 115, do Código Penal.
+Registre-se que a permanência do crime não engloba o período em que o beneficio foi restabelecido por decisão judicial em mandado de segurança, pois, a partir do momento em que se apura a irregularidade nos pagamentos, a autarquia não mais se encontra em erro." (e-STJ, fls. 199-200)
+Conforme se observa, o Tribunal local considerou que a cessação da permanência do crime, no caso, deu-se com a suspensão administrativa do benefício, uma vez que "a permanência do crime não engloba o período em que o benefício foi restabelecido por decisão judicial em mandado de segurança" (e-STJ, fl. 200).
+Referido entendimento está de acordo com a jurisprudência desta Corte Superior:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. CRIME DE ESTELIONATO PREVIDENCIÁRIO. ART. 171, § 3º DO CÓDIGO PENAL. DELITO PRATICADO PELO PRÓPRIO BENEFICIÁRIO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CRIME PERMANENTE. BENEFÍCIO RESTABELECIDO POR DECISÃO JUDICIAL. TERMO A QUO PARA O CÔMPUTO DO LAPSO PRESCRICIONAL. SUSPENSÃO ADMINISTRATIVA.
+1. Este Tribunal Superior tem entendimento firme no sentido de que o marco inicial do prazo prescricional relacionado ao crime de estelionato previdenciário, quando o beneficiário é o próprio acusado, equivale à data da cessação do recebimento indevido do benefício.
+2. Se o pagamento do benefício previdenciário, após suspenso administrativamente, é restaurado por força de decisão judicial, não mais se cuida de recebimento indevido, cessando-se, pois, a permanência do crime.
+3. Reconhecimento do implemento da prescrição da pretensão punitiva estatal pela origem que se mantém.
+4. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.359.450/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/08/2014, DJe 21/08/2014 - grifou-se);
+"AGRAVO REGIMENTAL. PENAL. ESTELIONATO. FRAUDE CONTRA A PREVIDÊNCIA SOCIAL. ART. 171, § 3.º, DO CÓDIGO PENAL. CRIME COMETIDO PELO PRÓPRIO BENEFICIÁRIO. NATUREZA DE CRIME PERMANENTE. ENTENDIMENTO CONSOLIDADO PELA SUPREMA CORTE. DATA DA CONSUMAÇÃO DO DELITO. CESSAÇÃO DO PAGAMENTO. TERMO INICIAL DO PRAZO PRESCRICIONAL. SUSPENSÃO ADMINISTRATIVA DO RECEBIMENTO DAS PRESTAÇÕES INDEVIDAS PELO INSS. ART. 111, INCISO III, DO CÓDIGO PENAL. PRECEDENTE DA TERCEIRA SEÇÃO. RESTABELECIMENTO DO PAGAMENTO POR FORÇA DE DECISÃO JUDICIAL. AUSÊNCIA DE ARDIL OU FRAUDE NO RECEBIMENTO. ESTADO DE PERMANÊNCIA AFASTADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O delito de estelionato previdenciário capitulado no art. 171, § 3.º, do Código Penal, segundo a jurisprudência pacificada do Supremo Tribunal Federal, tem natureza binária. Assim, praticado pelo próprio beneficiário dos valores indevidos, é crime permanente, cujo momento consumativo se protai no tempo, já que o Agente tem o poder de fazer cessar, a qualquer tempo, a ação criminosa. Por outro lado, praticado por terceira pessoa para permitir que outrem receba a vantagem ilícita, constitui-se crime instantâneo de efeitos permanentes, pois todos os elementos do tipo penal são verificados no momento da conduta. Precedentes.
+2. Deve ser afastado o estado de permanência delitiva quando o pagamento do benefício é restabelecido por força de decisão judicial, na medida em que ausentes os elementos essenciais do tipo penal - fraude e a indução a erro -; o que afasta a ilicitude do recebimento e, portanto, o próprio crime. Precedentes.
+3. Colhe-se dos autos que o pagamento foi suspenso administrativamente no ano de 1999 e restabelecido em novembro do mesmo ano (1999) por força de decisão judicial proferida em mandado de segurança; para, finalmente, ser suspenso definitivamente em novembro de 2009.
+4. Cessada a permanência com a suspensão administrativa do pagamento no ano de 1999 e considerando o prazo prescricional de 12 (doze) anos, nos termos do do art. 109, inciso III, do Código Penal, é de ser afastada a alegação de prescrição, na medida em que não decorrido prazo superior entre a data do crime (cessação do pagamento indevido) e o recebimento da denúncia, ocorrido em 14/12/2010.
+5. Agravo regimental desprovido."
+(AgRg no REsp 1.271.901/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 18/02/2014, DJe 07/03/2014 - grifou-se);
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. ESTELIONATO PREVIDENCIÁRIO PRATICADO PELO BENEFICIÁRIO. TERMO INICIAL DA PRESCRIÇÃO. PERCEPÇÃO DA ÚLTIMA PARCELA INDEVIDA. DATA DA SUSPENSÃO ADMINISTRATIVA.
+1. Admitida a natureza permanente do estelionato previdenciário quando praticado pelo próprio beneficiário, em casos tais, o termo inicial do prazo prescricional se dá com a cessação do recebimento indevido do benefício.
+2. Se o benefício previdenciário, após suspenso administrativamente, foi posteriormente restabelecido por força de decisão judicial, a partir daí não se pode mais falar em recebimento indevido e, portanto, em permanência do crime.
+3. Agravo regimental desprovido."
+(AgRg no REsp 1.296.400/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/02/2013, DJe 01/03/2013)
+Desta feita, tendo se operado o prazo da prescrição retroativa entre a data da suspensão administrativa do benefício e a data que o juiz se pronunciou sobre o não recebimento da denúncia, era mesmo o caso de se declarar a extinção da punibilidade do agente.
+Portanto, não comporta provimento o recurso.
+Ante o exposto, com fulcro no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
