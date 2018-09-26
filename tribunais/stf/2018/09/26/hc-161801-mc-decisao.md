@@ -1,0 +1,22 @@
+DECISÃO
+TRÁFICO DE ENTORPECENTES – CAUSA DE DIMINUIÇÃO DA PENA – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 – RELEVÂNCIA – AUSÊNCIA.
+PENA-BASE – CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS.
+PENA – REGIME DE CUMPRIMENTO – RELEVÂNCIA NÃO DEMONSTRADA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Décima Terceira Vara Criminal da Comarca de São Paulo/SP, no processo nº 0014431-93.2017.8.26.0050, condenou o paciente a 8 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 830 dias-multa, pela prática da infração prevista no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Na dosimetria, ante o piso de 3 e o teto de 15 anos, fixou a pena-base em 10 anos de reclusão, aludindo à quantidade de substância encontrada – 9 quilos de maconha. Observou a atenuante da menoridade relativa, reduzindo a sanção a 8 anos e 4 meses de reclusão. Afastou a causa de diminuição versada no § 4º do artigo 33 da citada Lei, reportando-se à quantidade de entorpecente e à existência de denúncias anônimas a indicarem o ponto de venda das drogas. Negou o direito de recorrer em liberdade.
+    O Tribunal de Justiça proveu parcialmente apelação interposta pela defesa para reduzir a pena-base a 6 anos e 8 meses de reclusão. Ressaltou ser a quantidade de maconha apreendida circunstância apta ao aumento em apenas 1/3 na primeira fase da dosimetria. Considerada a atenuante da menoridade relativa, estabeleceu a sanção em 5 anos, 6 meses e 20 dias de reclusão, em regime inicial fechado, e 555 dias-multa. Consignou inviável a substituição por restritiva de direitos.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 450.657/SP, inadmitido pelo Relator.
+    O impetrante aponta violado o princípio da individualização da pena. Diz não ser a quantidade de entorpecente circunstância a conduzir à majoração da pena-base. Afirma possível levar-se em conta a causa de diminuição descrita no artigo 33, § 4º, da Lei de Drogas. Argui a ocorrência da dupla valoração do montante de substância ilícita encontrada – para fixar a pena-base e afastar a causa de diminuição. Assevera ausente prova a demonstrar o envolvimento em organização criminosa. Aduz ilegal a imposição de regime mais gravoso, realçando preenchidos os requisitos legais para implemento do semiaberto ou do aberto.
+    Postula, no campo precário e efêmero, seja a pena-base estabelecida no mínimo legal, observada a causa de diminuição de pena disposta no artigo 33, § 4º, da Lei nº 11.343/2006, e, consequentemente, determinado regime inicial diverso do fechado. No mérito, busca a confirmação das providências.
+    Consulta ao sítio do Tribunal de Justiça, no último dia 26 de setembro, revelou a preclusão maior, em 8 de maio de 2018, do título condenatório.
+    A etapa é de exame da medida acauteladora.
+    2. Percebam as premissas assentadas pelo Juízo, mantidas pelo Tribunal, para afastar a causa de diminuição de sanção prevista no artigo 33, § 4º, da Lei nº 11.343/2006. Teve presente a quantidade de substância apreendida – 9 quilos de maconha. Ressaltou haver denúncias anônimas a indicarem o ponto de venda das drogas. Inexiste ilegalidade a ser reparada.
+    Quanto à alegada dupla consideração, ante a majoração da pena-base e a inobservância da causa de diminuição por idêntico fundamento – quantidade de entorpecente –, não há sobreposição. A razão é simples: para o tipo, é fixada pena mínima e máxima. Então, a definição ocorre tendo em vista as circunstâncias judiciais do artigo 59 do Código Penal. Estabelecida a pena-base, abre-se ensejo para o exame da prática delituosa, sem limitação, levando em conta atenuantes e agravantes, causas de diminuição e de aumento da sanção, versadas no artigo 68 do mesmo diploma.
+    No tocante ao regime inicial de cumprimento da pena, o Juízo impôs a pena-base em patamar acima do piso legal. Destacou, ao avaliar as circunstâncias judiciais, a elevada quantidade de droga. Mencionou a dedicação do paciente a atividades criminosas. O Tribunal estadual, no julgamento da apelação, manteve o regime fechado, referindo-se à quantidade de entorpecente como circunstância negativa. A teor do disposto no artigo 33, § 3º, do Código Penal, na definição do regime, cabe observar as circunstâncias judiciais.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 26 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
