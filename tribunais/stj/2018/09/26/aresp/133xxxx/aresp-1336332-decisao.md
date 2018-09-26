@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. FALTA DE INTERESSE DE AGIR. REQUERIMENTO ADMINISTRATIVO. IDONEIDADE. REVISÃO. SÚMULAS 7 E 83 DO STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE PERTINÊNCIA ENTRE O DISPOSITIVO APONTADO COMO VIOLADO E AS RAZÕES RECURSAIS. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA CONHECIMENTO PARCIAL DO RECURSO ESPECIAL, E NESSA PARTE, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravante ajuizou ação de exibição de documentos, julgada improcedente.
+Interposta apelação pela ora insurgente, a Décima Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 200):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. PEDIDO REALIZADO VIA INTERNET. DOCUMENTO SIGILOSO. MEIO INIDÔNEO AO FIM PRETENDIDO. AUSÊNCIA DE INTERESSE PROCESSUAL RECONHECIDA.
+1. Consoante a atual orientação jurisprudencial emanada do Superior Tribunal de Justiça, no julgamento do recurso especial n. 1.349.453/MS, a propositura de ação cautelar de exibição de documentos bancários depende da comprovação de prévio pedido à instituição financeira não atendido em prazo razoável e do pagamento do custo do serviço, se for o caso, sem os quais não restará configurado o interesse processual para o ajuizamento da respectiva demanda.
+2. No caso em apreço, a demandante não logrou demonstrar a realização de pedido administrativo idôneo (ao fim a que se destina), um dos requisitos que configuram o interesse de agir em ação desta natureza. Isso porque, o pedido formulado na intemet, por meio de canal de comunicação disponibilizado pela instituição financeira, não é meio idôneo para solicitação de documentos protegidos pelo sigilo bancário, na medida em que não há como o Banco identificar quem, de fato, está acessando o canal e efetuando o requerimento. Manutenção da sentença de improcedência.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 6º, III e VIII, 43, §§ 3º e 4º, 46 e 72 do Código de Defesa do Consumidor; e 301, 333, II, 373, II, 396, 404, 844 e 855 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a garantia ao consumidor da exibição de documentos comuns às partes
+Assevera, ainda, que há interesse de agir na propositura da ação cautelar de exibição de documento, quando a solicitação administrativa tenha sido feita através de e-mail.
+Contrarrazões às fls. 255-259 (e-STJ).
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta às fls. 293-296 (e-STJ).
+Brevemente relatado, decido.
+Incialmente, cabe observar que a Segunda Seção do STJ, em julgamento submetido ao rito dos recursos repetitivos, sedimentou o seguinte posicionamento: "A propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária" (REsp n. 1.349.453/MS, Relator o Ministro Luis Felipe Salomão, julgado em 10/12/2014, DJe de 2/2/2015).
+No caso, o Tribunal de Justiça, ao analisar o conjunto probatório dos autos, consignou a ausência de interesse de agir da recorrente, adotando os seguintes fundamentos (e-STJ, fl. 203):
+Exige-se, portanto, que a parte demonstre, no ato da propositura da ação, ter realizado o prévio requerimento à instituição financeira para a obtenção dos documentos pleiteados.
+E, no caso concreto, a autora não comprovou a realização de prévio pedido administrativo válido, porquanto se limitou a acostar cópia da solicitação encaminhada à instituição financeira ré por meio do canal de atendimento disponibilizado por essa na sua página na internet (fl. 09).
+Consoante se depreende, o acórdão recorrido está alinhado à jurisprudência consolidada nesta Corte, ao concluir que, diante da ausência dos requisitos especificados na tese definida no Recurso Especial Repetitivo n. 1.349.453/MS, ficou caracterizada a falta de interesse de agir da recorrente. Inafastável, no ponto, a Súmula 83/STJ.
+Ademais, para derruir a convicção formada, desconstituindo o acórdão estadual, seria necessário o revolvimento de matéria fático-probatória, providência vedada na via eleita, ante a incidência do Enunciado n. 7/STJ.
+Por fim, no que tange aos demais dispositivos tidos por violados, a deficiência na fundamentação recursal ficou evidenciada, haja vista a ausência de pertinência entre o dispositivo apontado como violado e as razões recursais, o que atrai a incidência, por analogia, da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. LOCADOR ORIGINAL, ÚNICO E LEGÍTIMO CREDOR DOS VALORES. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284 DO STF. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Incidência da Súmula 284/STF.
+2. Em consonância com a jurisprudência pacífica desta Corte Superior, a simples interposição recursos cabíveis não implicam a litigância de má-fé. Precedentes.
+3. O mero inconformismo do agravante com a decisão agravada não enseja a imposição da multa, não sendo decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+4. Agravo interno não provido.
+(AgInt no AREsp 1156195/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2018, DJe 23/03/2018)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em R$ 500,00 (quinhentos reais), suspensa a exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Publique-se.
