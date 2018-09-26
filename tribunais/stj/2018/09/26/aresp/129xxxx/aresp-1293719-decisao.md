@@ -1,0 +1,19 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Medida Cautelar. Facebook. Fornecimento de dados do usuário. Ausência dos requisitos do art. 22 da Lei 12.965/2014. Improcedência mantida.
+Recurso a que se nega provimento.
+Opostos embargos de declaração, foram parcialmente acolhidos, sem efeitos modificativos.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 299 e seguintes, do CPC; 19, caput e § 1º e 22, caput e parágrafo único, da Lei n. 12.965/2014.
+Defende o direito à informação, a ser prestada pelos provedores de Internet, àqueles que foram alvo de ataques em sua intimidade, para que o infrator possa ser responsabilizado.
+É o relatório. DECIDO.
+2. As matérias referentes aos artigos 299 do CPC e 19, caput e § 1º, da Lei n. 12.965/2014, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. No mais, o Tribunal de origem reconheceu que "a quebra do sigilo de dados do usuário somente está autorizada diante da presença de indícios da prática de ilícito, penal ou civil, não sendo esta a hipótese dos autos". Confira-se trecho do acórdão recorrido nesse sentido:
+Portanto, o argumento da apelada de que não conserva a informação pretendida não é crível. Contudo, não pode se olvidar aqui que o requerimento formulado não preenche os requisitos enumerados no parágrafo único do artigo 22 da Lei 12.965/2014.
+Após analisar os autos, constata-se que estão ausentes os requisitos legais que autorizam a quebra do sigilo de dados pessoais, quais sejam: fundados indícios da ocorrência do ilícito; justificativa motivada da utilidade dos registros solicitados para fins de investigação ou instrução probatória; e período ao qual se referem os registros.
+A quebra do sigilo de dados do usuário somente está autorizada diante da presença de indícios da prática de ilícito, penal ou civil. Na hipótese dos autos, não vislumbra a prática de ilícito, como bem enfatizou a MM. "a quo", de modo que a improcedência a ação fica mantida por seus próprios fundamentos.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de verificar as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
