@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] NATANAEL CAVALCANTE DE FARIAS, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 560/563, in verbis:
+1- Trata-se de recurso especial interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Piauí que negou provimento ao apelo defensivo, assim ementado:
+ ..
+Consta dos autos que o ora recorrente foi condenado, em 17/03/2016, pela prática do delito descrito no artigo 155, § 4º, IV do Código Penal à pena de 02 (dois) anos e 08 (oito) meses de reclusão - [NOME], substituída por restritiva de direitos, pois subtraiu a bolsa da vítima.
+Inconformada, a defesa interpôs apelação e a 1ª Câmara Especializada Criminal, em 07/12/2016, negou provimento ao apelo, nos termos da ementa supra.
+Opostos embargos de declaração, foi-lhes negado o provimento.
+Daí o presente recurso, onde a defesa, com fulcro na alínea a, do permissivo constitucional, alega violação aos artigos 68 e 60, ambos do Código Penal. Sustenta ser impossível a aplicação da agravante de concurso de pessoas no furto qualificado por concurso de pessoas. Defende que a pena de multa deve ser desconsiderada ou reduzida diante da hipossuficiência de [NOME]. Requer o provimento.
+Em sede de contrarrazões, a acusação defende a aplicação da Súmula 07/STJ. Requer o não provimento.
+O Parquet opinou pelo parcial provimento do recurso especial.
+É o relatório. Decido.
+A sentença condenou o recorrente e outro corréu pelo crime de furto qualificado pelo concurso de pessoas (art. 155, § 4º, inciso IV, do Código Penal), agravando a pena na segunda fase da dosimetria em razão dessa circunstância. Confira-se (e-STJ fls. 345/347):
+19. Diante do exposto, face aos fundamentos supra, julgo procedente a denúncia e acolho o pleiteado pelo parquet nas alegações finais, e neste termos tenho os réus [NOME] NATANAEL CAVALCANTE DE FARIAS e [NOME], como incurso nas penas do artigo 155, § 4º, inciso IV, do Código Penal e o faço com fulcro no artigo 383, do Código de Processo Penal.
+ ..
+23. Existência das circunstâncias atenuantes, vale dizer confissão espontânea do acusado, ao teor do artigo 65, inciso III, alínea d do Código Penal. Atenuo a pena para para 2 (dois) anos de reclusão. Existe circunstância agravante, qual seja o concurso de pessoas, agravo para 2 (dois) anos e 8 (oito) meses de reclusão.
+ ..
+31. Existência das circunstâncias atenuantes, vale dizer confissão espontânea do acusado, ao teor do artigo 65, inciso III, alínea "d", do Código Penal. Atenuo a pena para para 2 (dois) anos de reclusão. Existe circunstância aqravante, qual seja, o concurso de pessoas, agravo para 2 (dois) anos e 8 (oito) meses de reclusão.
+O acórdão recorrido manteve essa dosimetria consignando (e-STJ fl. 463):
+Tendo em vista a higidez do conjunto probatório, não há como afastar a qualificadora atinente ao concurso de pessoas, porquanto devidamente demonstrada, por meio da prova testemunhai e do depoimento da vítima. Nestes termos, repiso aqui os mesmos argumentos tratados no tópico anterior, havendo elementos firmes e coerentes que demonstram a comunhão subjetivas de esforços para a prática criminosa.
+Ademais, é de se ressaltar que o acusado sequer tratou de tal ponto quando da sua defesa em primeiro grau, donde este debate se revela inoportuno, dada a preclusão.
+Verifica-se que a questão relativa à possibilidade de incidência simultânea da qualificadora e da agravante do concurso de pessoas não foi debatida especificamente no acórdão recorrido, embora opostos embargos de declaração. Assim, carece do necessário prequestionamento, conforme entendimento pacificado na Súmula n. 211/STJ.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA RELAÇÕES DE CONSUMO. ART. 7º, VII, DA LEI N. 8.137/1990. VIOLAÇÃO DO ART. 155 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO PROFERIDO EM HABEAS CORPUS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O requisito do prequestionamento pressupõe prévio debate da questão pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado, o que não ocorreu neste caso. Incidência da Súmula n. 211 do STJ.
+2. Não obstante a oposição do embargos, remanesceu a omissão, no acórdão recorrido, relativamente à violação do art. 155 do CP. Registre-se que inexiste, em situações tais, cerceamento ao contraditório, porquanto incumbia ao recorrente alegar violação do art. 619 do Código de Processo Penal.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp 540.734/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, grifei)
+Outrossim, o fundamento segundo o qual ocorreu a preclusão da matéria, suficiente à manutenção do acórdão recorrido, não foi impugnado de forma específica nas razões recursais, sendo forçoso o reconhecimento do óbice da Súmula n. 283/STF.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 188 DO CPP. NULIDADE POR INDEFERIMENTO AO DIREITO DE FORMULAR PERGUNTAS EM INTERROGATÓRIO DE CORRÉU. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. DIVERGÊNCIA JURISPRUDENCIAL. ART. 255/RISTJ. INOBSERVÂNCIA. CONTRARIEDADE AO ART. 1º, P.Ú., E 33, AMBOS DA LEI Nº 11.343/06. DESCLASSIFICAÇÃO DA CONDUTA. REEXAME FÁTICO E PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgInt no AREsp 1247259/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/05/2018, DJe 24/05/2018, grifei)
+Logo, o recurso especial não merece conhecimento nesse ponto.
+Contudo, é flagrante a ilegalidade na utilização da mesma circunstância - concurso de pessoas - para qualificar o delito e também para agravar a pena. Assim, impõe-se a revisão da dosimetria, pois, "Verificada flagrante ilegalidade, deve ser concedido habeas corpus de ofício, nos termos do art. 654, § 2º, do CPP" (AgInt no REsp n. 1582669/MG, rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 30/3/2017, DJe 7/4/2017, grifei).
+A propósito, acerca da vedação do bis in idem:
+RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. CULPABILIDADE. ACENTUADA REPROVABILIDADE DO AGENTE. CONDUTA SOCIAL. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. CIRCUNSTÂNCIAS DO DELITO. MAIOR AGLOMERAÇÃO DE PESSOAS. AGRAVANTE. BIS IN IDEM. ATENUANTE DA CONFISSÃO. QUANTUM DA DIMINUIÇÃO. DESPROPORCIONALIDADE. SANÇÃO REDIMENSIONADA. RECURSO PARCIALMENTE PROVIDO.
+ ..
+4. Verificado que a qualificadora do emprego de recurso que dificultou ou tornou impossível a defesa do ofendido (inciso IV) já foi sopesada para qualificar o delito de homicídio (deslocando a conduta da forma simples do homicídio para aquela com punição mais severa, prevista no § 2º do art. 121 do Código Penal), não poderia ser novamente valorada para fins de reconhecimento da agravante prevista no art. 61 II, "c", do Código Penal, sob pena de violação do princípio do ne bis in idem.
+ ..
+8. Recurso especial parcialmente provido, a fim de aumentar para 1/6 o quantum de diminuição de pena relativa à atenuante genérica da confissão espontânea e, de ofício, concedido habeas corpus para afastar a incidência da agravante prevista no art. 61, II, "c", do Código Penal (crime cometido mediante recurso que dificultou ou tornou impossível a defesa do ofendido), tornando a reprimenda do recorrente definitivamente estabelecida em 15 anos, 7 meses e 15 dias de reclusão (Processo n. 4162007).
+(REsp 1493789/MA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/11/2015, DJe 19/11/2015, grifei)
+Sendo assim, excluído o aumento efetuado na segunda fase pelo concurso de pessoas, a pena, fixada em 2 anos e 6 meses de reclusão, reduzida para 2 anos de reclusão pela atenuante da confissão espontânea, deve ser estabelecida definitivamente, por falta de causas de aumento ou de diminuição.
+Essa alteração na sanção privativa de liberdade não importa em modificações nos demais termos da condenação, ficando mantidos o regime aberto e a substituição da pena.
+Ademais, aplicando por analogia o entendimento segundo o qual, "Havendo identidade de situações fático-processuais entre a paciente e corréu, é possível a aplicação do art. 580 do CPP" (HC n. 431.244/SP, rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 8/5/2018, DJe 21/5/2018), também deve ser reduzida a pena do corréu Francisco.
+Quanto à pena de multa, o acórdão recorrido manteve sua incidência nos seguintes termos (e-STJ fl. 464):
+Os apelantes se voltam contra o capítulo da sentença que os condenou ao pagamento da multa penal, haja vista que foram patrocinado pela Defensoria Pública durante todo o trâmite da ação criminal além de serem beneficiários da gratuidade da justiça.
+Tal argumentação não merece prosperar, eis que não encontra respaldo na legislação que rege o tema. Neste sentido, a multa se revela como sanção pela prática de ato caracterizado como crime, nos mesmos moldes que uma privativa de liberdade ou restritiva de direitos, a teor do art. 32 do Código penal.
+Por oportuno, mesmo a situação de hipossuficiência ou miserabilidade não pode isentar a parte de cumprir com a retribuição de seu ato ilícito, sob pena de violação ao princípio da individualização da pena, consagrado constitucionalmente.
+Com efeito, não há previsão legal sobre a isenção da pena de multa, o que levou a jurisprudência a não admiti-la.
+A propósito:
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. TESE DE NULIDADE POR OFENSA AO ART. 212 DO CPP. OBEDIÊNCIA AOS PRINCÍPIOS DA VERDADE REAL E DO IMPULSO OFICIAL. NULIDADES RELATIVAS. NÃO ALEGAÇÃO NO MOMENTO OPORTUNO E NÃO DEMONSTRAÇÃO DE PREJUÍZO. NULIDADE NÃO RECONHECIDA. PLEITO DE ABSOLVIÇÃO. TESE DE FRAGILIDADE DAS PROVAS. VIA IMPRÓPRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. PROPORCIONALIDADE E RAZOABILIDADE. APLICAÇÃO DO ART. 42 DA LEI N. 11.343/2006. NÃO APLICAÇÃO DA MINORANTE DO § 4º DO ART. 33 DA LEI N. 11.343/2006. PRESENÇA DE ELEMENTOS QUE EVIDENCIAM ATIVIDADE CRIMINOSA. PLEITOS DE FIXAÇÃO DE REGIME MENOS GRAVOSO E DE SUBSTITUIÇÃO DAS PENAS. IMPOSSIBILIDADE. PENA RECLUSIVA SUPERIOR A 8 ANOS. PRETENSÃO DE ISENÇÃO DA PENA DE MULTA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+9. Descabida, outrossim, a pretensão de afastamento da pena de multa, não apenas por não se coadunar com a via do habeas corpus, remédio constitucional destinado a tutelar a liberdade de locomoção - já que o não cumprimento da pena de multa não enseja conversão em pena privativa de liberdade -, mas também poque, nos termos do entendimento pacífico desta Corte, a impossibilidade financeira do réu não afasta a imposição da pena de multa, inexistindo previsão legal de isenção do preceito secundário do tipo penal incriminador. Precedentes.
+10. Habeas corpus não conhecido.
+(HC 298.169/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/10/2016, DJe 28/10/2016, grifei)
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. CONDENAÇÕES AINDA NÃO TRANSITADAS EM JULGADO. MAUS ANTECEDENTES. IMPOSSIBILIDADE. OFENSA AO ART. 2º, § 1º, DA LEI 8.072/90 (ANTIGA REDAÇÃO). ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. CONTRARIEDADE AO ART. 1º, § 7º, LEI 9.455/97. DISSÍDIO JURISPRUDENCIAL. PROVIMENTO INÓCUO. AFRONTA AOS ARTS. 49 E 157, § 3º, DO CP. ISENÇÃO DA PENA DE MULTA. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO, EM PARTE, PARA MANTER A CONDENAÇÃO AO PAGAMENTO DE MULTA.
+ ..
+3. A jurisprudência desta Corte é pacífica no sentido de que, cominada a pena de multa ao delito, a sua imposição ao agente é de caráter necessário, haja vista cuidar-se de sanção penal, não sendo possível a isenção da pena de multa ante a inexistência de previsão legal.
+4. Eventual isenção somente poderá ser concedida pelo Juízo da Execução, que deverá avaliar a miserabilidade jurídica do sentenciado, examinando as condições sócio-econômicas para o pagamento da multa sem prejuízo para seu sustento e de sua família.
+5. Recurso provido, em parte, para restabelecer a sentença no que concerne à aplicação da pena de multa.
+(REsp 735.898/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/09/2009, DJe 13/10/2009, grifei)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PACIENTE CONDENADO À SANÇÃO CORPORAL TOTAL DE 7 ANOS, 9 MESES E 10 DIAS DE RECLUSÃO. PENA-BASE FIXADA EM 3 ANOS ACIMA DO MÍNIMO LEGAL. PACIENTE POLICIAL MILITAR. MAIOR REPROVABILIDADE DA CONDUTA. FUNDAMENTO IDÔNEO. DROGA NOCIVA, MAS APREENDIDA EM PEQUENA QUANTIDADE. NECESSIDADE DE REDUÇÃO PROPORCIONAL DA PENA-BASE. REGIME PRISIONAL FECHADO MANTIDO, COM BASE NA PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ISENÇÃO DA PENA DE MULTA. IMPOSSIBILIDADE NA VIA ELEITA. AFASTAMENTO DA HEDIONDEZ DO DELITO. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- É descabida a pretensão de afastamento da pena de multa, por tal sanção não se coadunar com a via do habeas corpus, já que o não cumprimento da pena de multa não enseja a conversão em pena privativa de liberdade, mas também porque, nos termos do entendimento desta Corte Superior, a impossibilidade financeira do réu não afasta a imposição da pena de multa, inexistindo previsão legal de isenção do preceito secundário do tipo penal incriminador (HC 298.169/RS, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 11/10/2016, DJe 28/10/2016).
+ ..
+- Habeas corpus não conhecido. Ordem concedida ex officio, apenas para reduzir as penas para 5 anos e 10 meses de reclusão, no regime inicial fechado, e 583 dias-multa, mantidos os demais termos da condenação.
+(HC 365.305/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/04/2017, DJe 05/05/2017, grifei)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Contudo, concedo habeas corpus de ofício para redimensionar a pena de ambos os réus para 2 anos de reclusão, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
