@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal Regional Federal da 3ª Região.
+Consta da impetração que o paciente foi condenado à pena de 4 (quatro) anos e 1 (um) mês de reclusão, no regime inicial semiaberto, como incurso no art. 168-A, c/c o art. 71, ambos do Código Penal (e-STJ fl. 13).
+Formulado pedido de progressão de regime, o Juízo de origem houve por bem indeferir o pleito, ao fundamento de não preenchimento dos requisitos para tal.
+Inconformada, a defesa interpôs recurso de agravo em execução perante a Corte federal, não tendo o recurso sido conhecido, em ementa cujo teor transcrevo a seguir (e-STJ fls. 106/107):
+AGRAVO DE EXECUÇÃO PENAL CONTAGEM DE TEMPO PARA PROGRESSÃO DE REGIME. REITERAÇÃO DE PEDIDO. RECURSO NÃO CONHECIDO.
+1 - A defesa ingressou com o presente recurso, em face da decisão que indeferiu o pedido de progressão de regime do agravante, diante d;i ausência de alteração do período de cumprimento de sua pena, desde seu último pedido.
+2 - O presente recurso, de fato, é mera reiteração do pedido constante do habeas corpus de nº 2014.03.00.011564-0, de relatoria do e. Des. Fed. [NOME], não sendo trazido aos autos novos fatos que demonstrem alguma mudança na situação tática.
+3 - O agravante alega, sem razão, que a quesito levantada acerca do cumprimento da pena no período de 29/05/2015 a 13/11/2015 em nenhum momento foi enfrentada.
+4 - No entanto, pelas fundamentações constantes do habeas corpus mencionado, bem corno dos embargos de declaração opostos contra ele, resta cristalino o entendimento de que o período pretendido (de 29/05/2015 a 13/11/2015) não foi reconhecido como cumprido em prisão domiciliar, mas somente a partir do cumprimento do "mandado de prisão domiciliar", realizado em 13/11/2015. Da mesma forma, no que diz respeito ao fato de estar foragido desde 11/04/2014, data em que a decisão que concedia a prisão domiciliar foi cassada pelo C. STF.
+5 - Por fim, não há que se falar em litigância de má-fé praticada pela combativa defesa.
+6 - Cora efeito, ainda que fosse possível a aplicação por analogia ao processo penal, a condenação em litigância de má fé exige circunstancias concretas que evidenciem alguma das hipóteses previstas nos incisos do artigo 17 do Código de Processo Civil, o que não ocorreu in casu.
+7 - Ressalte-se que o contraditório e a ampla defesa com os meios e recursos a ela inerentes não podem ser suprimidos sob tal argumento, sob pena de violação às garantias constitucionais.
+8 - Recurso não conhecido.
+Na presente impetração (e-STJ fls. 3/34), afirma a defesa que houve "a demonstração do preenchimento dos requisitos objetivos e subjetivos, bem como da remição, requisitos estes plenamente reconhecido pelo representante do Parquet  .. " (e-STJ fl. 19), razão pela qual o paciente faz jus à progressão ao regime aberto.
+Alega que "o indeferimento do pedido de progressão não considerou que, tendo em vista a extensão da liminar (complemento) concedida pelo Pretório Excelso  RHC 117.803 - "o recorrente permaneça em prisão domiciliar, até o julgamento definitivo do recurso" , em 29 de maio de 2013 foi RETOMADO O CUMPRIMENTO DA REPRIMENDA EM MODALIDADE DE REGIME DE PRISÃO DOMICILIAR, devendo ser considerados os dias, de forma simples, do cumprimento da pena em modalidade domiciliar de 29 de maio de 2013 até 28 de novembro de 2013, data essa última em que o E. TRF 3 autorizou a execução de trabalho externo em município diverso (Ribeirão Preto), e, desde então, deve-se considerar remido 1 dia do cumprimento da pena a cada 3 trabalhados" (e-STJ fl. 19).
+Diante disso, requer, liminarmente, o deferimento do pedido para que o paciente aguarde o julgamento do presente writ em prisão domiciliar e, no mérito, a progressão ao regime aberto.
+É, em síntese, o relatório.
+Não obstante as razões constantes da petição inicial, o impetrante não juntou aos autos cópia do inteiro teor do acórdão impugnado (Agravo em Execução n. 0006743-63.2015.4.03.6181, de relatoria da Desembargadora Federal Cecília Mello, do Tribunal Regional Federal da 3ª Região, apontada como autoridade coatora - e-STJ fl. 4), trazendo ao autos tão somente cópia da ementa.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC-54.626/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
