@@ -1,0 +1,31 @@
+EMENTA
+CONFLITO DE COMPETÊNCIA. PENAL. CONTRABANDO. CIGARROS. TRANSNACIONALIDADE. INDICATIVOS. AUSÊNCIA. COMPETÊNCIA DO JUÍZO ESTADUAL. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA 2.ª VARA CRIMINAL DE ITABAIANA/PB, O SUSCITADO.
+DECISÃO
+Trata-se de conflito de competência em que figura como suscitante o JUÍZO FEDERAL DA 16.ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DA PARAÍBA e, como suscitado, o JUÍZO DE DIREITO DA 2.ª VARA CRIMINAL DE ITABAIANA/PB.
+O Juízo suscitado declinou de sua competência com lastro nos seguintes fundamentos:
+" ..  compulsando-se os autos, verifica-se que os fatos ora apurados tratam da entrada no país de cigarros de forma irregular e sem o pagamento de tributos.
+DIANTE DO EXPOSTO, declaro-me incompetente para processar e julgar o presente feito, determinando o envio dos autos à Justiça Federal" (fl. 8).
+Por sua vez, o Juízo suscitante não reconheceu sua competência e suscitou o presente conflito a partir da fundamentação a seguir:
+"Da análise do exame merceológico realizado após requisição do MPF (fls. 93/95), bem como dos depoimentos colhidos na esfera policial (fls. 04/06), constata-se que as mercadorias apreendidas são de origem estrangeira, mais especificamente do Paraguai.
+5. Contudo, tal fato não se reputa suficiente para atrair a competência da Justiça Federal, conforme entendimento já pacificado no STJ  ..
+7. Logo, para que este juízo tenha competência para apreciar o presente feito, se faz necessária a presença de fortes indícios da participação do investigado na introdução ilegal dos cigarros no Brasil.
+8. Compulsando os autos, observo que não há qualquer indício de que o investigado haja concorrido para a entrada dos cigarros no territórios nacional, tende este somente afirmado, quando do seu interrogatório no âmbito policial, "que é proprietário dos cigarros apreendidos em sua casa; que não tem nota fiscal dos cigarros; que, fora os cigarros da marca GIFT, os demais são de origem paraguaia, ou seja, importados; que os cigarros destinavam-se a comercialização, pelo próprio interessado, nas feiras livres da região" (fl. 07).
+9. Além disso, segundo depoimento dos policiais militares que realizaram a prisão em flagrante e a apreensão dos cigarros, apenas chegou-lhes a informação de que a casa do ora investigado estava servindo como depósito clandestino de cigarros importados ilegalmente do Paraguai. Ato contínuo, dirigiram-se ao local e encontraram várias caixas de cigarros, tendo o Sr. ANTÔNIO apenas afirmado que não possuía a nota fiscal (fls. 05/06).
+10. Não há, portanto, qualquer informação de que o investigado foi quem efetivamente introduziu os cigarros no país, nem há notícia de alguém que possa ter lhe repassado as mercadorias.
+11. Sendo assim, compete à Justiça Estadual o acompanhamento do presente inquérito policial, bem como o processamento e julgamento de eventual ação penal que dele se origine" (fls. 10-12).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito e declaração da competência do Juízo Federal suscitante.
+É o relatório. Decido.
+A jurisprudência atual do Superior Tribunal de Justiça é no sentido de que a competência da Justiça Federal para processar e julgar crime de contrabando somente se estabelece no caso de transnacionalidade da conduta, ou seja, quando houver indicativos de que o acusado teria concorrido para introdução clandestina das mercadorias em território nacional.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INQUÉRITO POLICIAL. COMÉRCIO ILEGAL DE CIGARROS DE ORIGEM ESTRANGEIRA. CONTRABANDO. AUSÊNCIA DE INDÍCIOS DE TRANSNACIONALIDADE DA CONDUTA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O crime de contrabando descrito no art. 334-A do Código Penal - CP possui conteúdo variado, abarcando várias condutas, desde a importação ou exportação clandestina de mercadorias até a venda clandestina de mercadorias estrangeiras no comércio irregular, popularmente conhecido como camelôs.
+2. Esta Corte Superior firmou o entendimento de que o interesse da União no crime de contrabando, para fins de fixação da competência da Justiça Federal, cinge-se às hipóteses nas quais a transnacionalidade da conduta estiver demonstrada, não alcançando o comércio irregular se não houver indícios de que o investigado ou acusado tenha contribuído para a introdução da mercadoria no território nacional.
+3. No caso concreto, ao menos por hora, não há elementos indicativos de que o indiciado tenha sido o responsável pela introdução ilegal da mercadoria no Brasil. Embora seja plausível que o o mesmo tenha ciência da origem ilícita dos cigarros, do conhecimento desse fato não se pode inferir que tenha participação em cadeia internacional de comércio ilícito.
+4. Recentemente, a questão foi submetida, mais uma vez, à Terceira Seção do Superior Tribunal de Justiça, em incidente de minha relatoria, qual seja, o CC 157.803 (DJe 6/6/2018), tendo sido reafirmado o entendimento de que, no crime de contrabando, para ser reconhecida a competência da Justiça Federal, é indispensável a transnacionalidade da conduta.
+Agravo regimental desprovido." (AgRg no CC 158.435/SP, Rel. Ministro JOEL ILAN PARCIORNIK, QUINTA TURMA, julgado em 22/08/2018, DJe de 30/08/2018.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONTRABANDO DE CIGARRO. AUSÊNCIA DE INDICAÇÃO DE TRANSNACIONALIDADE NA CONDUTA DO ACUSADO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. A Terceira Seção desta Corte firmou a orientação de que, não havendo indicativo de transnacionalidade na conduta de réu acusado de vender cigarro contrabandeado, a competência para o julgamento do processo é da Justiça estadual (Precedentes).
+2. Agravo regimental desprovido." (AgRg no CC 159.003/MG, Rel. Ministro ANTÔNIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 08/08/2018, DJe de 15/08/2018.)
+No caso, pela análise dos autos e leitura das decisões que declinaram da competência, não se constata a presença de indicativos de que o acusado teria concorrido para o ingresso dos cigarros contrabandeados no território nacional.
+Ante o exposto, CONHEÇO do conflito e DECLARO a competência do JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE ITABAIANA/PB, o suscitado.
+Publique-se. Intimem-se.
