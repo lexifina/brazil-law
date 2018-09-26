@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 35):
+    “Ação civil coletiva — Agravo de instrumento — Não se pode admitir de imediato a incompetência em razão da categoria profissional — Jurisprudência de cortes superiores — Análise da competência exige exame do mérito e da identificação dos sindicalizados, o que ainda não se fez — Recolhimento de custas deve ser realizado pelo sindicato autor — Recurso negado.”
+    No recurso extraordinário, alega-se violação sos arts. 5º, XXI; 8º, III; e 93, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que esta Corte tem opinião pacificada no sentido de que os sindicatos tem legitimidade para representar a categoria, sendo desnecessária qualquer espécie de autorização (eDOC 2, p. 61).
+    Alega-se, ainda, que “se desnecessária autorização dos substituídos para a propositura da ação, certo que mais incabível ainda que se traga aos autos a listagem dos substituídos, especialmente porque o sindicato representa a toda a categoria.” (eDOC 2, p. 61).
+    O Supremo Tribunal Federal já se manifestou sobre o tema discutido nos autos ao analisar o RE-RG 883.642, Rel. Min. Ricardo Lewandowski, DJe de 26.6.2015 (Tema 823). Esta Corte, na ocasião, reafirmou a jurisprudência no sentido da ampla legitimidade das entidades sindicais de atuar como substituto processual nas ações em que atuam na defesa dos direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive na liquidação e nas execuções dos créditos reconhecidos, independentemente de autorização dos substituídos, tal como o caso dos autos.
+    Ademais, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 26 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
