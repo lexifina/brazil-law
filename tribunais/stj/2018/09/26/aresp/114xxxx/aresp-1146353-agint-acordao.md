@@ -1,0 +1,87 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO. SEGUIMENTO NEGADO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMAS 339/STF, 181/STF E 660/STF. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável a apreciação de matéria que não foi alegada no momento processual adequado, pois à parte é vedado inovar pedidos quando da interposição de agravo interno.
+2. É inviável o agravo interno que não impugna os fundamentos da decisão agravada. Aplicação do disposto na Súmula 182/STJ, bem como no artigo 1.021, § 1º, do CPC.
+3. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça: por unanimidade, não conhecer do agravo, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz e Humberto Martins votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trata-se de agravo interno, interposto por [NOME], contra decisão que negou seguimento a recurso extraordinário manejado em face de acórdão da Quarta Turma deste Superior Tribunal de Justiça, sintetizado nos seguintes termos (fl. 258):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. GRATUIDADE DE JUSTIÇA. ARGUMENTAÇÃO GENÉRICA. SÚMULA N. 284/STF. NÃO PROVIMENTO.
+1. A argumentação genérica formulada no recurso especial, carente da indicação da questão dita omissa no acórdão local ou de dispositivo legal ou divergência jurisprudencial, associada a razões bastantes, em torno das questões levantadas, atrai o disposto no verbete n. 284 da Súmula do Supremo Tribunal Federal. Precedentes.
+2. Agravo interno a que se nega provimento.
+A decisão ora agravada negou seguimento ao recurso extraordinário, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, conforme ementa abaixo (fl. 278):
+RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. TEMA 339/STF. OFENSA AO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 660/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+Alega a parte agravante, às fls. 286/294, que a decisão objurgada não analisou questão crucial para o deslinde do feito, em afronta direta e literal ao teor da Súmula 356 do STF ("o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento").
+Registra a existência de Mandado de Segurança em curso no Supremo Tribunal Federal em que se discute a existência de "fortíssimos indícios de suspeição indireta".
+Registra, ainda, que "A CRFB/88 prevê uma série de direitos e garantias fundamentais, inclusive de natureza processual. Entre eles, com íntima relação com o acesso à justiça (art. 5º, XXXV, CRFB/88), o direito à assistência judiciária gratuita, conforme previsto no art. 5º, LXXIV, segundo o qual "o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos"".
+Não foram apresentadas contrarrazões (fl. 295).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO. SEGUIMENTO NEGADO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMAS 339/STF, 181/STF E 660/STF. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável a apreciação de matéria que não foi alegada no momento processual adequado, pois à parte é vedado inovar pedidos quando da interposição de agravo interno.
+2. É inviável o agravo interno que não impugna os fundamentos da decisão agravada. Aplicação do disposto na Súmula 182/STJ, bem como no artigo 1.021, § 1º, do CPC.
+3. Agravo interno não conhecido.
+
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Da leitura da decisão agravada, verifica-se que ao recurso extraordinário foi negado seguimento por aplicação dos temas 339/STF, 660/STF e 181/STF, com base nos fundamentos abaixo:
+Não comporta trânsito o recurso.
+Consigne-se, de início, quanto à alegada ofensa ao art. 93, inciso IX, da Constituição Federal por violação do dever de fundamentação no acórdão recorrido, que a questão foi decidida pelo Supremo Tribunal Federal, no regime da repercussão geral, por ocasião do julgamento do AI-RG-QO n. 791.292/PE, relatado pelo Ministro Gilmar Mendes nos termos da seguinte ementa, in verbis:
+"Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral" (STF, AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes, DJe de 13/8/2010 - Tema n. 339 da sistemática da repercussão geral.).
+Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes.
+Assim, para efeito de análise de conformidade da decisão com o decidido sob o regime de repercussão geral, deve ser verificado se o aresto atacado possui motivação suficiente à solução da controvérsia ou se, à míngua da satisfação desse requisito, caracterizou-se a afronta ao princípio constitucional inscrito no inciso IX do art. 93 da Constituição Federal.
+Importante consignar que, nesta fase processual, a análise da questão constitucional ora em comento está adstrita à aferição da existência ou não de fundamentação suficiente para lastrear o acórdão recorrido. Por conseguinte, a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+No caso dos autos, o acórdão recorrido apresenta fundamentação suficiente para justificar as razões de negativa de provimento ao agravo interno do recorrente. É o que se depreende do seguinte excerto do voto condutor (fl. 254/256, e-STJ):
+"De início, a invocação do artigo 99, § 3º, do CPC é argumento novo que não se admite no presente momento.
+(..)
+Quanto ao mais, a decisão agravada foi clara ao assertar que cabe à parte indicar o dispositivo legal tido por violado ou a divergência jurisprudencial em torno da mesma questão de direito, ambos com suficiente demonstração do alegado, sem o que se tem por inexorável a incidência do verbete n. 284 da Súmula do STF, porquanto o especial é recurso de fundamentação vinculada, como se sabe.
+Esses foram os fundamentos constantes na decisão agravada, como se lê supra (..)
+(..)
+De se lembrar que o juízo acerca dos requisitos processuais antecede ao de mérito, pelo que não se compreende a alegação quanto à ausência de análise de todos os demais argumentos lançados no especial".
+Logo, não subsiste a alegação de ofensa ao art. 93 da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Outrossim, quanto à alegação de ofensa ao art. 5º, incisos XVII, XVIII, LIV e LV, da Constituição Federal, o Plenário Virtual da Suprema Corte decidiu, nos autos do ARE-RG n. 748.371/MT, que não está configurada a repercussão geral da matéria relativa à suposta ofensa aos princípios constitucionais do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender da análise preliminar da adequada aplicação das normas infraconstitucionais (Tema 660/STF).
+Veja-se, por oportuno, a ementa do referido julgado:
+"Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral" (ARE 748.371 RG / MT, Rel. Min. GILMAR MENDES, DJe de 01/08/2013 - tema n. 660 da sistemática da repercussão geral.).
+Por fim, se a ausência de análise do mérito ficou inviabilizada em razão dos óbices processuais, sem amparo as alegações do recorrente de que referido posicionamento incorreu em afronta a dispositivos constitucionais.
+Isso porque se depreende do acórdão recorrido que não houve preenchimento dos pressupostos de admissibilidade necessários à análise do mérito recursal, quando se entendeu pela incidência da Súmula 284/STF.
+E, neste contexto, o Supremo Tribunal Federal já consagrou o entendimento de que não há repercussão geral sobre o tema relativo ao preenchimento dos requisitos de admissibilidade recursal de outros tribunais, pois a controvérsia se restringe ao exame da legislação infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+A propósito, confira-se a ementa do seguinte julgado:
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608" (RE 598.365/MG, Tribunal Pleno, Rel. Ministro AYRES BRITO, DJe de 26/3/2010).
+Assim, os fundamentos utilizados pelo aresto atacado não são passíveis de revisão pela Suprema Corte quanto a esse ponto, por ausência de repercussão geral.
+Ante o exposto, nos termos do art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Nas razões deste agravo interno, verifica-se que a agravante não se insurgiu em face dos fundamentos do decisum.
+Com efeito, renovou-se de maneira sucinta e estanque a argumentação em torno do verbete sumular nº 356 do STF ("o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"), que antes lastreava a argumentação em torno da suposta violação do art. 535 do CPC, que, por sua vez, remetia à violação dos princípios constitucionais acima indicados. No entanto, a ausência de repercussão geral apontada em sede do decisum que negou seguimento ao recurso extraordinário não foi infirmada por fundamentos bastantes, preferindo o agravante, como dito, reproduzir a fundamentação outrora esposada no bojo do recurso extraordinário.
+Noutro vértice, citou-se de forma vaga e genérica a existência de um Mandando de Segurança em curso perante o Supremo Tribunal Federal em que se discute a existência de "fortíssimos indícios de suspeição indireta". À evidência, a simples menção à impetração da ação autônoma de impugnação em espeque não representa elemento capaz de criar qualquer ponto de inflexão ao recurso em exame, sobretudo quando descontextualizada, como sói ser a hipótese dos autos. Sem embargo, a tese representa novo argumento, sendo inviável a apreciação de matéria que não foi alegada no momento processual oportuno, pois à parte é vedado inovar pedidos quando da interposição de agravo interno. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. OMISSÃO. AUSÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. FEITO SUBSTANCIALMENTE INSTRUÍDO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. TESES ALEGADAS SOMENTE NO AGRAVO INTERNO. INOVAÇÃO RECURSAL. ANÁLISE. IMPOSSIBILIDADE.
+1. O entendimento desta Corte é pacífico no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Precedentes.
+2. Consoante o entendimento mais recente deste órgão julgador, não configura cerceamento de defesa o julgamento antecipado da lide quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção de prova pericial, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente, como na hipótese dos autos.
+3. É inviável a análise de teses alegadas apenas em agravo interno, mesmo em se tratando de matéria de ordem pública, por se caracterizar inovação recursal. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.252.714/PB, Rel. Ministro LÁZARO GUIMARÃES (Desembargador convocado do TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017)
+De mais a mais, a reverberação da suposta afronta ao art. 5º, XXXV e LXXIV, da CF novamente limita-se a reproduzir as razões do recurso extraordinário, e não combate os termos da decisão impugnada.
+Em sendo assim, no caso tem incidência o estabelecido na Súmula 182 deste Superior Tribunal de Justiça bem como no artigo 1.021, § 1º, do Código de Processo Civil, que determina que, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Nesse sentido, confiram-se os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO JUDICIAL PROFERIDO POR MINISTRO DESTA CORTE SUPERIOR. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. NÃO OCORRÊNCIA, IN CASU, DE TERATOLOGIA OU MANIFESTA ILEGALIDADE. PRECEDENTES DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do mandado de segurança, pois: a) é pacífico o entendimento jurisprudencial e doutrinário no sentido de que não cabe mandado de segurança contra ato judicial; b) incidência da Súmula 267/STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição."; c) também é consolidada a orientação no sentido da impossibilidade de impetração de mandado de segurança contra ato judicial dos órgãos fracionários desta Corte ou de seus Ministros; d) não há falar em teratologia ou manifesta ilegalidade da decisão judicial impugnada no writ, o que também afasta o cabimento da pretensão mandamental.
+2. No presente agravo interno, por sua vez, limitou-se a defender que a decisão impugnada via mandamus revela-se manifestamente ilegal e teratológica. Demais disso, reiterou ipsis litteris a fundamentação presente no mandado de segurança.
+3. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+(AgInt no MS 23.380/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 21/06/2017, DJe 29/06/2017)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. INCIDÊNCIA.
+É inviável o conhecimento do agravo interno que não impugna, especificamente, os fundamentos da decisão agravada. Agravo interno não conhecido.
+(AgInt no RE nos EDcl no REsp 1.373.292/PE, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 07/06/2017, DJe 14/06/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO SOB A ÉGIDE DO CPC/2015. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA N. 182/STJ. DECISÃO AGRAVADA MANTIDA NA ÍNTEGRA.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182/STJ).
+2. Mantém-se na íntegra a decisão agravada cujo fundamento de que não foram preenchidos os requisitos de admissibilidade do embargos de divergência não foi objeto de impugnação.
+3. Agravo interno não conhecido.
+(AgInt nos EAREsp 809.245/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 17/08/2016, DJe 30/08/2016)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
