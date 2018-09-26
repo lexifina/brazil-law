@@ -1,0 +1,71 @@
+DECISÃO
+Tratam os autos de agravo em recurso especial interposto por SARTI MENDONÇA INCORPORADORA LTDA., doravante SARTI MENDONÇA, contra decisão exarada pela il. 2ª V. Presidente do eg. Tribunal de Justiça do Estado da Bahia (TJ-BA) que inadmitiu seu recurso especial.
+Historiam os autos que [NOME] E [NOME] propuseram ação ordinária de indenização, cumulada com pedido de condenação de obrigação de fazer com pedido de tutela específica em caráter liminar em desfavor de SARTI MENDONÇA e LEIRO CONSTRUÇÕES E INCORPORAÇÕES LTDA, cujo pedido foi julgado procedente em parte para condenar "(..) a ré SARTI MENDONÇA INCORPORADORA a pagar à requerente indenização por danos morais, no importe de R$10.000,00 (dez mil) reais, como também a fazer reparos na quadra poliesportiva e na quadra de tênis (..) (fl. 598).
+Inconformados, ambos recorreram, tendo o eg. TJ-BA negado provimento à apelação da SARTI MENDONÇA e dado provimento parcial à apelação de [NOME], conforme v. acórdão estadual assim ementado (fls. 689/690):
+"APELAÇÕES CÍVEIS SIMULTÂNEAS. AÇÃO ORDINÁRIA DE INDENIZAÇÃO CUMULADA COM PEDIDO DE CONDENAÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA ESPECÍFICA EM CARÁTER LIMINAR. SENTENÇA PELA PROCEDÊNCIA PARCIAL DOS PEDIDOS. CONDENAÇÃO EM INDENIZAÇÃO POR DANOS MORAIS E EM OBRIGAÇÃO DE FAZER. PRELIMINAR DE ILEGITIMIDADE ATIVA REJEITADA. VÍNCULO JURÍDICO DECORRENTE DO CONTRATO. ATRASO INJUSTIFICADO. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. PROVA PERICIAL. NECESSIDADE DE REPAROS. IMPOSIÇÃO DE OBRIGAÇÃO DE FAZER DEVIDA. ATRASO IRRAZOÁVEL NA ENTREGA DA OBRA. DANO MORAL CARACTERIZADO. CONDENAÇÃO FIXADA DE FORMA IRRISÓRIA. PRESENÇA DE TERATOLOGIA.PRECEDENTES DO STJ. NATUREZA DÚPLICE DA CONDENAÇÃO. FUNÇÃO PEDAGÓGICA. MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. SENTENÇA REFORMADA.
+Prius, deve ser rejeitada a preliminar de ilegitimidade ativa da primeira acionante, posto que o contrato particular de promessa de compra e venda, juntado ás fls. 21/47, está em seu nome, demonstrando a existência do vínculo jurídico decorrente do contrato. Da mesma forma, persiste a exclusão do segundo acionante e da segunda acionada, por não figurarem na relação contratual estabelecida no instrumento pactuado.
+Dos autos, observa-se devida a obrigação de fazer imposta pelo decisum, já que foi constatado pela perícia que a pavimentação, as quadras de esportes e o campo de futebol, bem como seus equipamentos, considerando o tempo de construção e instalação, necessitam de reparos, evidenciando a falta de qualidade do material empregado, e, no caso da pavimentação, a má realização do serviço.
+Sobre a condenação em danos morais, não resta dúvidas de que, diante do fatos plenamente provados nos autos, mediante prova pericial, de que houve desrespeito ao prazo estipulado no contrato em cerca de dois anos, e, através da juntada da Ata de Assembléia Geral de Constituição do Condomínio, realizada em 24 de setembro de 2005, de que, quando foi constituído o condomínio, o empreendimento ainda estava inacabado injustificadamente, com diversas pendências, a indenização é medida que se impõe, posto que não se trata de mero dissabor ou aborrecimento, inerente ao negócio jurídico, mas de verdadeiro e intenso sofrimento e abalo psíquico causado a acionante, violando a sua dignidade.
+O valor fixado na sentença mostra-se irrisório no que se refere a sua função pedagógica, ocorrendo teratologia, o que enseja a sua majoração, a fim de que o réu/ apelante/apelado seja desestimulado a tais práticas.
+PRELIMINAR REJEITADA. RECURSO DA EMPRESA IMPROVIDO. RECURSO DA ACIONANTE PARCIALMENTE PROVIDO."
+Irresignada, SARTI MENDONÇA interpôs recurso especial com arrimo nas alíneas "a" e "c" do permissivo constitucional no qual aponta ofensa, além de dissídio jurisprudencial, aos arts. 6º do Código de Processo Civil de 1973, 186 e 1.348, II, do Código Civil e 22, § 1º, "a", da Lei n. 4.591/64.
+Contrarrazões às fls. 811/823.
+Como dito, o apelo nobre foi inadmitido (fls. 827/829), motivando o manejo do presente agravo em recurso especial (fls. 832/842).
+Contraminuta às fls. 847/858.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+De início, tendo em vista que o recurso especial foi interposto contra acórdão publicado anteriormente à entrada em vigor do Novo Código de Processo Civil, aplica-se ao caso o Enunciado Administrativo n.º 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Com efeito, ao apontar violação aos arts. 1.348, II, do CC/2002, 6º do CPC/73 e 22, § 1º, "a", da Lei n. 4.591/64, sustenta o recorrente que há ilegitimidade ativa da parte autora, ora recorrida, para pleitear suposto direito do condomínio, tal como a execução de obras e serviços em áreas comuns. O TJ-BA, por sua vez, soberano na análise do acervo fático-probatório, consignou que o contrato de promessa de compra e venda firmado entre as partes está em nome da parte autora, ora recorrida, demonstrando a existência de vínculo jurídico em decorrência do contrato (fls. 694/695):
+"Prius, deve ser rejeitada a preliminar de ilegitimidade ativa da primeira acionante, posto que o contrato particular de promessa de compra e venda, juntado ás fls. 21/47, está em seu nome, demonstrando a existência do vínculo jurídico decorrente do contrato. Da mesma forma, persiste a exclusão do segundo acionante e da segunda acionada, por não figurarem na relação contratual estabelecida no instrumento pactuado.
+ ..
+Sobre a condenação em danos morais, não resta dúvidas de que, diante do fato plenamente provado nos autos, mediante juntada do documento de fls. 268/269, a Ata de Assembléia Geral de Constituição do Condomínio, realizada em 24 de setembro de 2005, de que quando foi constituído o condomínio, o empreendimento ainda estava inacabado injustificadamente, com diversas pendências, a indenização é medida que se impõe, posto que não se trata de mero dissabor ou aborrecimento, inerente ao negócio jurídico, mas de verdadeiro e intenso sofrimento e abalo psíquico causado a acionante, violando a sua dignidade." (grifou-se)
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem concluiu que a parte autora, ora recorrida, possui legitimidade ativa. Dessa forma, alterar tal conclusão, sob alegada ofensa ao dispositivo mencionado, demandaria o revolvimento do suporte fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmula de n. 7 e n. 5, ambas do STJ.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VÍCIOS DE CONSTRUÇÃO ESTRUTURAIS E DE EXECUÇÃO. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO DEMONSTRADA. EXISTÊNCIA DE RELEVANTE INTERESSE SOCIAL. LEGITIMIDADE ATIVA AD CAUSAM DO MINISTÉRIO PÚBLICO. RECONHECIMENTO. VÍCIOS DE CONSTRUÇÃO. PRESCRIÇÃO. VINTE ANOS. SÚMULA 194/STJ. AFERIÇÃO DA LEGITIMIDADE PASSIVA DA CONSTRUTORA. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. CONVERSÃO EM PERDAS E DANOS. POSSIBILIDADE. PRECEDENTES. AFERIÇÃO DO ACERVO PROBATÓRIO. INQUÉRITO CIVIL PÚBLICO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. AGRAVO NÃO PROVIDO.
+ ..
+4. A aferição da condição de ser parte legítima, no presente caso, em razão da responsabilidade da construtora na execução do projeto de construção, à luz das obrigações contratuais e das provas constantes nos autos, incide no óbice das Súmulas 5 e 7/STJ.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp 971.279/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/08/2018, DJe 24/08/2018 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PRELIMINAR DE ILEGITIMIDADE ATIVA REJEITADA. INADIMPLEMENTO CONTRATUAL RECONHECIDO. SÚMULAS 5 E 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A convicção a que chegou o acórdão em relação à legitimidade ativa do recorrido e ao inadimplemento contratual da recorrente, decorreu da análise de elementos fáticos-probatórios dos autos e da interpretação de cláusulas contratuais, de modo que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que obsta a admissibilidade do especial ante o teor das Súmulas 5 e 7 desta Corte.
+ ..
+3. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 1246770/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/06/2018, DJe 15/06/2018 - grifou-se)
+Prosseguindo na análise do recurso, melhor sorte não socorre ao recorrente no tocante à alegada ofensa ao art. 186. Pretende o recorrente afastar condenação ao pagamento de indenização a título de danos morais, sustentando que o inadimplemento contratual não é circunstância capaz de violar a moral da parte contrária. O TJ-BA, conforme transcrição, asseverou que o atraso na entrega do empreendimento é situação que ultrapassa o mero dissabor, sendo cabível indenização por danos morais.
+Como sabido, a pacífica jurisprudência desta Corte é no sentido de que é cabível indenização por danos morais nos casos de excessiva demora na entrega do empreendimento. Assim, tendo o Tribunal a quo decidido em consonância com o entendimento atual desta Corte, incide o óbice da Súmula n. 83 do STJ.
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA. 1. OFENSA AO ART. 1.022 DO NCPC (535 DO CPC/1973). NÃO CONFIGURADA. 2. CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. MULTA DO ART. 1.026, § 2º, DO NOVO CPC. CABIMENTO. SÚMULA 83/STJ. 3. ILEGITIMIDADE PASSIVA E PERDA DE OBJETO DA AÇÃO. ANÁLISE DAS PROVAS DOS AUTOS E DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. 4. DEMORA EXCESSIVA CARACTERIZADA. DANOS MORAIS CONFIGURADOS. AFASTAMENTO DA SÚMULA 7/STJ. 5. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME PELO STJ. 6. AGRAVO IMPROVIDO.
+ ..
+4. No caso, o Tribunal de origem concluiu pela existência de danos morais, tendo em vista o excessivo atraso na entrega do imóvel, estando, assim, em conformidade com a jurisprudência desta Corte Superior, o que atrai a incidência da Súmula 83/STJ.
+ ..
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1133721/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/08/2018, DJe 10/08/2018 - grifou-se)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SUMULA N. 7 DO STJ. VALOR ARBITRADO NA ORIGEM. RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO MANTIDA.
+ ..
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+ ..
+6. Agravo interno a que se nega provimento."
+(AgInt no REsp 1715255/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/06/2018, DJe 29/06/2018 - grifou-se)
+Por fim, no tocante aos arts. 1.348, II, do CC/2002, 6º do CPC/73 e 22, § 1º, "a", da Lei n. 4.591/64, tem-se que o entendimento atual desta Corte é no sentido de que a incidência da Súmula 7 do STJ é óbice também para análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+A propósito, vide o seguinte precedente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. VALOR DA INDENIZAÇÃO. COMPATIBILIDADE. SITUAÇÃO ECONÔMICA DO OFENSOR. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRECEDENTES. AGRAVO DESPROVIDO.
+ ..
+3. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes.
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015 - grifou-se)
+Prosseguindo, em relação ao art. 186 do CC/2002, a iterativa jurisprudência deste eg. Corte é no sentido de que a Súmula n. 83 aplica-se tanto pela alínea "a" como pela alínea "c".
+Nesse sentido, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE TRATAMENTO. PERÍODO DE CARÊNCIA. URGÊNCIA. ÍNDOLE ABUSIVA. DOENÇA PREEXISTENTE. AUSÊNCIA DE EXAMES CLÍNICOS. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO, AINDA QUE IMPLÍCITO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A Súmula 83 do STJ, consoante entendimento firmado nesta Corte Superior, é aplicável aos recursos especiais interpostos com base tanto na alínea "a" quanto na alínea "c" do permissivo constitucional, visto que a divergência nela referida relaciona-se com a interpretação da norma infraconstitucional.
+6. Agravo interno não provido."
+(AgInt no AREsp 964.858/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/08/2018, DJe 23/08/2018 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AGRAVANTE.
+ ..
+3. A conformidade do acórdão recorrido com o entendimento desta Corte impede o conhecimento da pretensão recursal, nos termos da Súmula 83/STJ, óbice aplicável tanto aos recursos interpostos pela alínea "a" do permissivo constitucional, como pela alínea "c".
+4. Agravo interno desprovido."
+(AgInt no REsp 1408664/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/04/2018, DJe 30/04/2018 - grifou-se)
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
