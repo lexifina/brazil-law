@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se recurso especial interposto por MARIA ALTINA MARTINS DOS SANTOS, fundado no art. 105, III, "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Prestação de serviços. Ação de cobrança de despesas médico-hospitalares. Ré que presta socorro à patroa, em - caráter de urgência, e assina termo de responsabilidade para interná-la em Unidade de Terapia Intensiva. Estado de perigo não configurado. Alegação de obrigação excessivamente onerosa. Inadmissibilidade. Valores cobrados que são compatíveis com a prestação dos serviços. Aplicação do artigo 156, parágrafo único do CPC. Ação julgada procedente em Grau. Recurso da autora provido para julgar procedente a ação." (e-STJ, fl. 155)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 174/179).
+Em suas razões recursais, a recorrente aponta violação aos artigos 156 e 171, II, do CC e 39, V, 40 e 51, §1º, do CDC, sustentando, em síntese, que: a) a hipótese em análise se enquadra na previsão do artigo 156 do Código Civil, ou seja, configura-se o estado de perigo; b) o termo de responsabilidade é nulo "pois o termo dos autos foi assinado em um estado de forte emoção e desgaste psicológico pelo temor de que a cirurgia não se realizasse, pois queria garantir atendimento de sua patroa, que necessitava de internação." (e-STJ, fl. 190); c) que houve prática abusiva ao exigir vantagem manifestamente excessiva.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O Egrégio Tribunal do Estado de São Paulo decidiu que a situação em voga não se enquadra na hipótese de estado de perigo, assim entendeu ser devido o pagamento por prestação de serviços hospitalares, pois reputou válido o termo de responsabilidade firmado pela ora insurgente por ocasião da internação de sua patroa.
+Consignou-se, na oportunidade, o seguinte:
+"Em que pese o posicionamento adotado pelo MM. Juiz, com a devida vênia a S. Exa., em nenhum momento a ré apresentou prova do estado de perigo, da suposta obrigação excessivamente onerosa ou de vício do consentimento.
+(..)
+Tomando por base tais ensinamentos, evidente que a situação apresentada na exordial não preenche o a requisito objetivo para configuração do estado de perigo.
+Não há que se falar em assunção de obrigação excessivamente onerosa. Os valores cobrados pela autora são compatíveis com a qualidade dos serviços prestados.
+Note que a paciente ficou internada do dia 20 ao dia 31 de outubro de 2008, recebendo todos os cuidados necessários da Equipe da Unidade de Terapia Intensiva de Cardiologia.
+Ademais, a ré não demonstrou qualquer insatisfação na prestação dos serviços, mesmo porque o referido nosocômio se destaca pela excelência na qualidade de seus serviços.
+Importante salientar que a ré poderia ter 0 internado a paciente em hospital público ou que atendesse por meio do Sistema Único de Saúde - SUS, providência esta não adotada.à Não há igualmente prova de que a ré tenha sofrido qualquer tipo de coação ou violência para assinar o termo de responsabilidade, o que possivelmente inviabilizaria a cobrança da dívida.
+Além disso, o caput do artigo 156 relaciona o estado de perigo à condição própria ou de familiar.
+Já o parágrafo único do mesmo dispositivo anota que, tratando-se de pessoa não pertencente à família do declarante, o juiz decidirá segundo as circunstâncias e essas, no caso, não permitem pela configuração do estado de perigo à hipótese dos autos. Í Não bastasse isso, o documento de fls. 54 mostra que a pessoa em benefício do qual a ré firmou o termo de responsabilidade, litiga com plano de saúde e a procura pelo hospital Samaritano se deu em razão desse mesmo plano, mas eventual discussão entre a beneficiária e o plano de saúde não pode obstar a cobrança perpetrada pela autora." (e-STJ, fls. 159/160)
+Nesse sentido, para acolher as razões recursais e reconhecer a existência do estado de perigo, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula nº 7 desde Sodalício.
+A propósito:
+"AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO RECLAMO, MANTENDO A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. O acórdão recorrido não se manifestou acerca de todos os dispositivos suscitados nas razões do apelo extremo, apesar da oposição de embargos de declaração, razão pela qual incide, na espécie, o enunciado n. 211 da Súmula do STJ, ante a ausência de prequestionamento.
+2. O Tribunal de origem, soberano na análise do acervo probatório dos autos, assentou não estar configurado vício de vontade a inquinar o negócio jurídico celebrado (lesão ou estado de perigo); a alteração da referida conclusão demandaria o reexame do contexto fático-probatório dos autos, providência vedada em sede de especial, a teor da Súmula 7/STJ.
+3. Agravo interno desprovido."
+(AgInt no Ag 1408642/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/08/2016, DJe 16/08/2016)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
