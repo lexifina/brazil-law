@@ -1,0 +1,16 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por LUMINA PARTICIPAÇÕES E AQUISIÇÕES LTDA contra decisão de minha lavra, que deu provimento ao recurso especial interposto pela parte ora agravada "para fixar a competência da comarca do Rio de Janeiro/RJ" - fls. 1.036-1.039.
+Nas razões recursais, a parte embargante alega erro material, porquanto as obrigações objeto do contrato celebrado entre as partes foram assumidas por filial, devendo a competência ser do foro da comarca de Curitiba/PR - fls. 1.042-1.049.
+Requer o acolhimento dos embargos declaratórios.
+É o relatório. DECIDO.
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+4. Consta da decisão ora embargada o seguinte:
+3. No caso, o Tribunal de origem, apesar de assentar a inaplicabilidade do CDC, pois descaracterizada a relação de consumo com a cessão dos direitos contratuais, entendeu como competente o foro da comarca de Curitiba/PR, pois "a Oi S/A possui sede, agência ou sucursal em Curitiba" - fl. 827.
+4. Essa conclusão, todavia, deve ser reformada para, alinhando ao entendimento desta Corte Superior, consignar que a competência é do local onde situada a sede da empresa, salvo na hipótese de transação específica com filial, agência ou sucursal, o que não é a hipótese presente, pois, como constante no próprio acórdão recorrido, a sede a empresa é na cidade do Rio de Janeiro/RJ - fls. 827.
+5. Ante o exposto, dou provimento ao recurso especial para fixar a competência da comarca do Rio de Janeiro/RJ. - fls. 1.038-1.039.
+Com efeito, nota-se que no presente caso, não há erro material , tampouco qualquer outro vício a ensejar embargos de declaração, de modo que todos os pontos necessários ao desate da controvérsia foram abordados, de forma coerente e lógica, tanto que a questão ora devolvida em sede de aclaratórios está amparada na jurisprudência do STJ e no arcabouço fático delineado pela Corte de origem.
+Observa-se que eventual desacerto da decisão quanto aos fatos não é hipótese de alegado erro material, não havendo vício na decisão embargada que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+5. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos de declaração.
+Desse modo, ressalta-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto pelas razões acima delineadas.
+6. Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
