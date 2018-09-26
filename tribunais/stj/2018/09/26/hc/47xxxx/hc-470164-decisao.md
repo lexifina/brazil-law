@@ -1,0 +1,15 @@
+EMENTA
+HABEAS CORPUS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. PRESTAÇÃO PECUNIÁRIA, FUNDAMENTAÇÃO. MATÉRIA NÃO APRECIADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação n. 0012673-50.2009.8.24.0039).
+Narram os autos que o Juízo de Direito da 1ª Vara Criminal da comarca de Lages/SC condenou o paciente, como incurso no crime previsto no art. 12 da Lei n. 10.826/2003, às penas de 1 ano de detenção, no regime inicial aberto, e 10 dias-multa, substituída a pena privativa de liberdade por uma restritiva de direito, consistente em prestação pecuniária.
+Inconformada, a defesa e o Ministério Público interpuseram apelação. O Tribunal paulista deu parcial provimento ao recurso da defesa apenas para desclassificar a conduta do corréu Valtoir para a prevista no art. 12, caput, da Lei n. 10.826/2003.
+Aqui, alega a Defensoria Pública que o Juízo, ao substituir a pena privativa de liberdade aplicada ao Paciente [NOME] MENDES, fixou a pena restritiva de prestação pecuniária sem qualquer fundamentação, quando a medida mais benéfica seria a substituição da pena privativa de liberdade por uma pena exclusiva de multa, a teor do § 2º do art. 44 do Código Penal (fl. 6).
+Requer, inclusive em liminar, a concessão da ordem para que seja reconhecido ao Paciente o direito à substituição da pena de detenção unicamente por multa (fl. 10).
+É o relatório.
+O Tribunal local, ao julgar os embargos de declaração opostos contra o acórdão de apelação, assim considerou (fl. 311):
+ ..  Na verdade, o embargante almeja a reforma da decisão acoimada de omissa, ampliando seus limites, a pretexto de que seja eliminada suposta mácula, com o inescusável propósito de ver alterada a sanção que lhe foi imposta. Com efeito, a alegação de omissão relevante acerca de matéria que, conquanto não tenha sequer sido objeto de recurso, merecia conhecimento e aplicação de oficio, diante de seu manifesto cabimento à situação retratada nos autos, não possui o condão de determinar o acolhimento dos embargos, uma vez que, além de não haver sido alvo de insurgimento anterior, o que impede o seu exame na presente via segundo reiteradamente se tem decidido no âmbito dos Tribunais Pátrios, insere-se na esfera de discricionariedade do Magistrado a seleção entre quais as penas substitutivas da privativa de liberdade são reais recomendáveis à hipótese concreta, porquanto não há ordem de preferência a ser observada  ..
+Ora, observa-se do exposto acima que a instância ordinária não decidiu acerca do tema, razão pela qual, sua análise por este Superior Tribunal configura indevida supressão de instância. A alegação de ausência de fundamentação, ao substituir a pena privativa de liberdade por prestação pecuniária, foi suscitada apenas quando da oposição desses embargos declaratórios.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
