@@ -1,0 +1,12 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. RECURSO ESPECIAL QUE PREENCHE, EM TESE, OS REQUISITOS DE ADMISSIBILIDADE. AGRAVO CONHECIDO PARA DETERMINAR SUA AUTUAÇÃO COMO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo manejado pela FAZENDA NACIONAL contra decisão que negou admissibilidade ao recurso especial em razão da ausência de ofensa ao art. 535 do CPC do CPC/1973 e da incidência da Súmula nº 7 do STJ, tendo em vista que a análise da pretensão recursal demandaria reexame de matéria fático-probatória.
+A agravante insurge-se contra a decisão agravada reiterando a alegada ofensa ao art. 535 do CPC, eis que o acórdão recorrido, a despeito da oposição de embargos de declaração, não teria se manifestado sobre a existência de vício formal na Assembléia que deliberou pela atribuição do valor contábil ao imóvel destinado em pagamento aos sócios pela sociedade anônima, nos termos do art. 125, § 1º, c/c art. 130, caput, da Lei das S/A, bem como sobre vicio material, consistente na ausência de assinatura da ata pelos representantes da maioria necessária às deliberações, nos termos do art. 130 da Lei das S/A. Assevera que, uma vez que a lei determinou a forma de que deveria se revestir, o ato somente será válido e eficaz se atendê-la. Não se tratando, portanto, de ato anulável, mas de ato nulo, caberia a declaração de ofício do vício apurado, nos termos dos arts. 82 e 130 do Código Civil de 1916, vigente à época da realização da assembléia de sócios. Quanto ao mais alega a não incidência da Súmula nº 7 do STJ no que tange à aferição de ofensa aos arts. 43 do CTN e 432, I, do CTN na hipótese, bastando a aplicação do direito à espécie.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 334-336 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Da análise dos autos, verifica-se que a agravante impugnou adequadamente os fundamentos do acórdão recorrido, e que o recurso especial preenche, em tese, os requisitos de admissibilidade, merecendo melhor análise por parte desta Corte.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, "d", do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
