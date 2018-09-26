@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Paraná, que não conheceu do HC 00320365020188160000.
+Alega-se na impetração que a data-base para a obtenção de benefícios executórios deve ser a data da prisão e não do trânsito em julgado da última condenação.
+É o relatório.
+Primeiramente, o tema trazido neste writ não foi enfrentado no acórdão impugnado, tendo em vista que está submetido ao Tribunal estadual em agravo de execução, sendo certo, ainda, que a jurisprudência desta Corte não admite a supressão de instância.
+De todo modo, não ficou evidenciada a existência de manifesta ilegalidade.
+Verifica-se dos autos que, no Juízo da Vara de Execução de São Miguel do Iguaçu/PR - processo n. 00019429820168160159 - sobreveio nova condenação, de 2 anos e 3 meses de reclusão, em regime aberto, substituída por 2 restritivas de direitos (fl. 1.804), implicando no total de pena remanescente a cumprir pelo paciente de 8 anos, 5 meses e 14 dias de reclusão.
+O Tribunal de origem, considerando que a pena remanescente ultrapassava 8 anos, determinou a regressão ao regime fechado, mantendo a data-base inicial, ou seja, da última prisão, para a obtenção de benefícios executórios (fl. 1.389). Tal posicionamento guarda perfeita harmonia com a jurisprudência desta Corte, não estando evidenciada dos autos a aponta ilegalidade. A propósito, confiram-se os precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO. UNIFICAÇÃO DE PENAS. RESTRITIVA DE DIREITO CONVERTIDA EM PRIVATIVA DE LIBERDADE. INCOMPATIBILIDADE DE CUMPRIMENTO SIMULTÂNEO.
+I - Sobrevindo nova condenação, incumbe ao Juízo das Execuções Criminais proceder à unificação das penas, adequando o regime prisional ao resultado da soma, observadas, quando for o caso, a detração ou remição.
+II - A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que somente é possível a manutenção da pena restritiva de direitos na hipótese em que exista compatibilidade no cumprimento simultâneo das reprimendas.
+III - No caso, o agravante cumpria pena privativa de liberdade de 7 (sete) anos e 4 (quatro) meses de reclusão, por infração aos arts. 157, §2º, I e II e 329, §1º, ambos do Código Penal e arts. 309 e 298, I, do CTB, quando sobreveio nova condenação pela prática do crime tipificado no art. 155, §4º, do CP, oportunidade em que lhe foi imposta pena de 2 (dois) anos de reclusão, substituída por duas restritivas de direitos (prestação de serviços à comunidade e prestação pecuniária).
+IV - Agravo regimental a que se nega provimento.
+(AgRg no REsp 1691905/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/10/2017)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. EXECUÇÃO PENAL. UNIFICAÇÃO DE REPRIMENDAS. CONVERSÃO DA PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE. POSSIBILIDADE. INCOMPATIBILIDADE COM CUMPRIMENTO DA PENA ALTERNATIVA ANTERIORMENTE IMPOSTA.
+1.  ..
+2. Esta Corte firmou entendimento no sentido de que a conversão poderá ocorrer quando houver incompatibilidade na execução da pena restritiva de direitos com a privativa de liberdade (art. 181, § 1º, alínea "e"", da LEP e art.. 44, § 5º, do Código Penal).
+3. No caso concreto, o ora paciente cumpria pena privativa de liberdade (reclusão). Durante o cumprimento da reprimenda sofreu nova condenação à pena privativa de liberdade em regime aberto, substituída por duas penas restritivas de direitos, razão pela qual o Juízo da Vara de Execuções Criminais converteu as penas restritivas em privativa de liberdade, em consonância com a legislação de regência da matéria. Decisão mantida pelo Tribunal de origem, em sede de agravo em execução penal.
+4. Em hipóteses como a dos autos, conforme disposto no art. 111 da LEP, as penas devem ser unificadas. Inaplicabilidade, portanto, do art. 76 do Código Penal.
+5. Inexistência de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+6. Habeas corpus não conhecido.
+(HC 411.098/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/09/2017)
+PENAL E EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. PACIENTE QUE CUMPRE PENA RESTRITIVA DE DIREITOS. CONDENAÇÕES SUPERVENIENTES. PENAS PRIVATIVAS DE LIBERDADE. UNIFICAÇÃO E FIXAÇÃO DE REGIME INICIAL FECHADO. IMPOSSIBILIDADE DE CUMPRIMENTO CONCOMITANTE OU DE SUSPENSÃO DAS PENAS ALTERNATIVAS. RECONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. INTERPRETAÇÃO DOS ARTS. 76 E 111 DO CÓDIGO PENAL E DO ART. 181, § 1º, DA LEP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+I -  ..
+II - Esta Corte Superior pacificou o entendimento de que, no caso de superveniência de condenação à pena privativa de liberdade a quem esteja cumprindo pena restritiva de direitos, é inviável a suspensão do cumprimento desta ou a execução simultânea das penas. Nesses casos, nos termos do art. 111 da LEP, deve-se proceder à unificação das penas, não sendo aplicável o art. 76 do Código Penal.
+III - In casu, como o cumprimento da sanção privativa de liberdade em regime fechado é inconciliável com a pena de prestação de serviços à comunidade, não há ilegalidade na determinação pelo Juízo das Execuções de reconversão da pena restritiva de direitos em privativa de liberdade quanto à Execução n. 01.
+Habeas Corpus não conhecido.
+(HC 453.865/SP, Ministro Felix Fischer, Quinta Turma, DJe 14/08/2018)
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. NOVA DATA-BASE PARA A PROGRESSÃO DE REGIME. INEXISTÊNCIA DE PREVISÃO LEGAL. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM PARCIALMENTE CONCEDIDA DE OFÍCIO.
+I -  ..
+II - Este Superior Tribunal de Justiça se posicionava no sentido de que a superveniência de nova condenação, no curso da execução da pena, determinava a unificação das reprimendas e a fixação de nova data-base para a concessão de benefícios, excetuados o livramento condicional, a comutação de pena e o indulto.
+III - A Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, de relatoria do Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, com Relator para o acórdão o Ministro Sebastião Reis Júnior, sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+IV - A decisão que modificou o termo a quo para a progressão de regime, em face da unificação de penas, estabelecendo como novo marco a data do trânsito em julgado da última sentença penal condenatória, está em confronto com a nova orientação jurisprudencial firmada pela Terceira Seção desta Corte Superior de Justiça e, portanto, configura constrangimento ilegal.
+V - O pleito de concessão da progressão ao regime semiaberto não pode ser conhecido nesta instância, pois depende da verificação do preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112, da Lei de Execução Penal, com redação dada pela Lei n. 10.792/2003, exame que deve ser realizado pelo Juízo de 1º grau.
+Habeas corpus não conhecido. Ordem parcialmente concedida de ofício para afastar a fixação da data do trânsito em julgado da última sentença penal condenatória como novo marco para a progressão de regime, como consequência da unificação das penas, devendo o Juízo das Execuções novamente analisar o pleito defensivo, afastada a fundamentação anteriormente adotada.
+(HC 452.707/SC, Ministro Felix Fischer, Quinta Turma, DJe 14/08/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
