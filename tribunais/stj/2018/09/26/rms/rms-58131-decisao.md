@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por SELMA DE [NOME], com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 485e):
+MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - NOMEAÇÃO - PRELIMINAR - LITISCONSÓRCIO PASSIVO NECESSÁRIO - REJEIÇÃO - CANDIDATA APROVADA FORA DO NÚMERO DE VAGAS - MERA EXPECTATIVA DE DIREITO À NOMEAÇÃO - JURISPRUDÊNCIA REITERADA DOS TRIBUNAIS SUPERIORES - SEGURANÇA DENEGADA.
+Nas razões recursais, alega-se, em síntes que "o recorrido deixou fluir todo o prazo de validade do concurso, ocupando as vagas existentes com contratados temporários, entre os quais a própria requerente. Que as contratações eram sazonais, não foi devidamente comprovado. Agindo assim, fez surgir o direito subjetivo à nomeação, nos termos da legislação, bem como da jurisprudência dominante, selada com a repercussão geral determinada pelo Supremo Tribunal Federal no RE 837.311/PI (..) Neste caso, como foi comprovado nos autos, o recorrido continuou contratando temporariamente os chamados designados, demonstrando um vício de se burlar o concurso público que se instalou na alma da educação mineira, por toda a validade do concurso. (..) Inclusive a próprio recorrente ocupou a vaga como contratada (designada), a vaga que conquistara via concurso, pois sua contratação foi de acordo com o inciso I do art. 32 da Resolução de Designações de 2016, que estabelece como prioridade de contratação o fato de o candidato estar aprovado em concurso para o mesmo município ou SRE (quando deveriam ser nomeados)" (fls. 510/511e).
+Sem contrarrazões (fl. 517e), subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 522/528e, opinando pelo improvimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No caso, o tribunal de origem denegou a segurança sob o fundamento de que não houve comprovação da existência de cargos vagos na especialidade/localidade disputada, nem que a Impetrante foi preterida na ordem de classificação. Acrescentou, ainda, não ter sido demonstrado, com segurança, que houve contratação precária, ao tempo da validade do concurso público, nem em quais circunstâncias teria ocorrido a designação de servidores (fls. 489/491e):
+No caso em exame, verifica-se que a impetrante se classificou fora do número de vagas previsto no edital, possuindo então mera expectativa de direito à nomeação.
+Não restou comprovada a existência de cargos vagos para
+Professor de Educação Básica-PEB-Nível l-Grau A - História, Município de classificação: Ibirité, nem que a impetrante foi preterida na ordem de classificação.
+Saliento que a requerente não demonstrou, com segurança, que houve contratação precária, ao tempo da validade do concurso público regido pelo Edital SEPLAG/SEE ne 01/2011, para o exercício do cargo público a que concorreu para o Município de Ibirité, nem em quais circunstâncias teria ocorrido a designação de servidores.
+Conforme bem salientou o eminente Desembargador Edilson Fernandes:
+"É ônus da impetrante, candidata aprovada fora do número de vagas, que tem mera expectativa de direito em relação à sua nomeação, a demonstração, através de prova inequívoca e pré-constituída, do surgimento de novas vagas durante o prazo de validade do certame e da preterição arbitrária e imotivada por parte da Administração Pública, sob pena de denegação da segurança." (Mandado de Segurança nº 1.0000.17.004475- 4/000, DJ de 24/05/17).
+(..)
+Não há, portanto, demonstração de plano do direito líquido e certo invocado.
+Ante tais considerações, rejeito a preliminar e denego a segurança postulada.
+Nas razões do Recurso Ordinário, tais fundamentos não foram especificamente refutados, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO. FUNDAMENTO NÃO IMPUGNADO. APLICABILIDADE DA SÚMULA 283/STF.
+1. A jurisprudência do STJ é pacífica quanto à aplicabilidade da Súmula 283/STF nos julgamentos de Recursos Ordinários em Mandado de Segurança.
+2. Hipótese na qual o Tribunal a quo denegou a Segurança, por entender que a verba controvertida possui natureza de gratificação de caráter temporário e que a incorporação desse tipo de parcela remuneratória aos proventos de aposentadoria passou a ser vedada pelo art. 7º da LC Estadual 64/2002.
+3. Por seu turno, o recorrente não combateu especificamente o fundamento autônomo relativo ao art. 7º da LC 64/2002, o que atrai o incidência da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Agravo Regimental não provido.
+(AgRg no RMS 45.594/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/02/2015, DJe 20/03/2015).
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DO VERBETE SUMULAR 283/STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado sumular 283/STF, de aplicação analógica ao recurso ordinário, deve o recorrente impugnar especificamente todos os fundamentos do pronunciamento judicial que pretende reverter, sob pena de, não o fazendo, vê-lo mantido.
+2. Recurso ordinário não provido.
+(RMS 37.941/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 18/12/2012, DJe 04/02/2013).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. APOSTILAMENTO. INTERPRETAÇÃO SISTÊMICA DA LEGISLAÇÃO DE REGÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. INCIDÊNCIA.
+1. A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+2. Agravo regimental a que se nega provimento.
+(AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 26/06/2012, DJe 01/08/2012).
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Isto posto, com fundamento no art. 932, IV, do Código de Processo Civil de 2015 e art. 34, XVIII, b, do Regimento Interno desta Corte, NEGO PROVIMENTO ao Recurso Ordinário.
+Publique-se e intimem-se.
