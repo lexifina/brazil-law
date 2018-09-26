@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C COMPENSAÇÃO POR DANOS MORAIS. TERMO INICIAL. JUROS MORATÓRIOS. DATA EVENTO DANOSO. SÚMULA 54/STJ.
+1. Em se tratando de responsabilidade civil extracontratual, o termo inicial dos juros de mora é a data do evento danoso (Súmula. 54/STJ)
+2. Agravo conhecido. Recurso especial conhecido e desprovido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por TELEFÔNICA BRASIL contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/02/2018.
+Concluso ao gabinete em: 13/09/2018.
+Ação: declaratória c/c compensação por danos morais ajuizada por MARIA VANDERLEA DOS SANTOS BARBOSA contra a ora agravante, na qual alega jamais ter mantido relação contratual com o esta última e, não obstante isto, ela enviou seu nome aos cadastros de proteção ao crédito por suposta dívida (contrato 0201109010000000 no valor 29,90) de forma indevida e abusiva, causando-lhe danos morais e materiais. Requer a declaração de inexistência da dívida e compensação pelos danos morais.
+Sentença: julgou procedente o pedido e condenou a agravante ao pagamento de R$ 1.000,00 reais a título de danos morais e declarar inexistente a relação contratual entre as partes. Condenou a agravante ao pagamento de honorários no valor de 10% sobre o valor da condenação.
+Apelação: negou provimento ao recurso de apelação interposto pela agravante e deu provimento ao interposto pela agravada, para majorar para R$ 10.000,00 reais o valor da compensação por danos morais, com incidência de correção monetária a partir da data do julgamento e de juros de mora de 12% ao ano, a partir da data do evento danoso (negativação indevida), de acordo com a seguinte ementa:
+DÉBITO E INSCRIÇÃO NOS CADASTROS DE INADIMPLENTES - Reconhecimento da inexigibilidade do débito cobrado pela parte ré relativo à contratação e utilização de linha telefônica, objeto da presente ação, bem como a ilicitude de sua inscrição nos cadastros de inadimplentes, uma vez que esta não se desincumbiu do ônus de provar a existência e a origem da dívida relativa a essa linha, cuja exigibilidade foi impugnada pela parte autora - Reconhecida a inexigibilidade do débito, e a ilicitude de sua inscrição nos cadastros de inadimplentes, de rigor, a manutenção da r. sentença, na parte em que declarou inexistente a relação jurídica entre as partes representada pelo contrato 002011090100000000, tornando definitiva a tutela de urgência concedida para o fim de cancelar a negativação da dívida em questão.
+RESPONSABILIDADE CIVIL - Comprovado o ato ilícito da ré prestadora de serviços de telefonia, consistente em indevida inscrição do nome da parte autora em cadastro de inadimplentes, por culpa dela ré, e não configurada nenhuma excludente de responsabilidade, de rigor, o reconhecimento da responsabilidade e a condenação da prestadora de serviços de telefonia na obrigação de indenizar a parte autora pelos danos decorrentes do ilícito em questão.
+DANO MORAL - A inscrição indevida em cadastro de inadimplentes constitui, por si só, fato ensejador de dano moral - Indenização por dano moral majorada para a quantia de R$10.000,00, com incidência de correção monetária a partir da data do presente julgamento.
+JUROS DE MORA - Os juros simples de mora incidem a partir da data do evento danoso, ou seja, da negativação indevida, por se tratar a espécie de responsabilidade extracontratual, uma vez que não demonstrada a existência de relação contratual entre as partes, na taxa de 12% ao ano (CC/2002, art. 406, c.c. CTN, art. 161, § 1º).
+Recurso da parte ré desprovido, e recurso da parte autora provido, em parte.
+Recurso especial: alega violação do art. 405 do CC/02. Sustenta que os juros moratórios devem ser fixados a partir da data de citação ou alternativamente data da sentença, pois o dever de indenizar está atrelado à decisão judicial que instituiu o dano e o quantificou, sequer existindo a certeza de sua ocorrência em momento anterior àquele em que é arbitrado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+Quanto aos juros de mora, o TJ/SP ao julgar o recurso de apelação, concluiu o seguinte (e-STJ fl. 129):
+2.8. Os juros simples de mora incidem a partir da data do evento danoso, ou seja, da negativação indevida, por se tratar a espécie de responsabilidade extracontratual, uma vez que não demonstrada a existência de relação contratual entre as partes, na taxa de 12% ao ano
+Da análise do trecho acima, verifica-se que a Corte de origem decidiu de acordo com a jurisprudência do Superior Tribunal de Justiça que é no sentido de que, em se tratando de responsabilidade civil extracontratual, o termo inicial dos juros de mora é a data do evento danoso (Súmula. 54/STJ).
+No mesmo sentido: AgInt nos EREsp 1533218/MG, SEGUNDA SEÇÃO, DJe 30/05/2017.
+Desse modo, tendo em vista que o decidido no acórdão recorrido está em consonância com a jurisprudência deste Superior Tribunal de Justiça, o recurso não merece provimento.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 3% os honorários fixados anteriormente.
+Publique-se. Intimem-se.
