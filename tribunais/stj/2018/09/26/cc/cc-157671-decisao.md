@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência, sem pedido liminar, suscitado pelo Juízo da 1ª Vara do Trabalho de Mogi das Cruzes - SP em face do Juízo de Direito da Vara Única de Salesópolis - SP, estabelecido em ação de indenização de despesas dispendidas em face de construção de boa-fé em terreno alheio, com aquiescência do proprietário.
+O d. Juízo de Direito da Vara única de Salesópolis/SP, declinou de sua competência alegando que "A autora foi empregada da requerida, e a casa construída encontra-se no imóvel rural onde a ex-empregadora exerce sua empresa (produção de hortaliças). Alega-se que o valor dos materiais de construção foram descontados do salário da empregada. Nestes termos, o conflito surgiu em razão da relação de trabalho" (nas fls. 215/216).
+Por sua vez, o d. Juízo da ª Vara do Trabalho de Mogi das Cruzes - SP também se declarou incompetente, pois, segundo sua opinião, "em que pese haver menção na petição inicial sobre descontos de valores em folha de pagamento, tais descontos não são objeto da lide mas são apenas mencionados na narrativa da parte autora" (na fl. 75).
+O Ministério Público Federal opina pelo conhecimento do conflito negativo de competência, para que se declare a competência da Justiça Comum.
+É o relatório.
+Passo a decidir.
+O d. Juízo do Trabalho suscitado, ao prestar suas informações, salientou que:
+"Constato que a presente discussão não tem qualquer correlação com matérias de ordem trabalhista. Em que pese haver menção na petição inicial sobre descontos de valores em folha de pagamento, tais descontos não são objeto da lide, mas são apenas mencionados na narrativa da parte autora.
+A definição da competência material se dá a partir de critérios extraídos da causa de pedir e pedido e, no caso, o pedido formulado é de indenização por gastos com construção de imóvel.
+As teses da petição inicial e defesa perpassam por temas como a acessão em construção (artigo 1248, V do Código Civil), contrato verbal de comodato, se houve ou não esbulho para fins de definição da "actio nata" da prescrição e outros análogos a esses temas.
+Deste modo, não há causa de pedir ou pedido que se relacione com qualquer dos temas vinculados ao artigo 114 da Constituição Federal. Assim, este Juízo Trabalhista não detém competência material para a análise da questão" (na fl. 75).
+Assiste-lhe razão, porque a menção feita à relação de trabalho e aos descontos em folha de pagamento foram feitas a título de contextualização do pedido de ressarcimento das despesas da construção feita de boa-fé em terreno alheio, com a aquiescência do proprietário.
+Percebe-se que, na hipótese, o pano de fundo da lide poderia ser outro: é o caso de filhos recém casados e com dificuldade de obter moradia própria, tomando de empréstimo de seus pais valores que serão disponibilizados e ressarcidos, conforme o combinado, para a construção de moradia em terreno dos genitores. Somente por isso, a pretensão dos filhos de, após mudança, de serem ressarcidos, caso tenha sido ajustado, pelos genitores do valor despendido na construção da moradia, não desloca a competência do julgamento para a Vara de Família, por si só, como dito.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara Única de Salesópolis - SP.
+Publique-se.
