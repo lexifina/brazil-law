@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 13):
+    “APELAÇÃO — SERVIDORES PÚBLICOS ESTADUAIS — URV — Lei Federal n° 8.880/94 — Inocorrência da prescrição do fundo de direito — Obrigação de trato sucessivo — Sistema remuneratório utiliza como base o mês anterior de exercício e, por conseguinte, a conversão do padrão monetário pela URV do último dia do mês, conforme dita a Lei n° 8.880/90 — Inexistência de prejuízo ou ofensa  ao principio da irredutibi1idade de vencimentos — Descabida a pretensão de revisão da conversão em URV — Sentença de improcedência mantida, por outro fundamento — Recurso desprovido.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37, XV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “restou demonstrado que a não conversão dos vencimentos dos autores para URV nos meses de março a junho de 1994, nos moldes de art. 22 da Lei 8.880/94, acarretou-lhes inegáveis prejuízos financeiros a partir de julho de 1994, quando enfim houve a conversão da moeda para Real.” (eDOC 2, p. 29).
+    Verifica-se que o Supremo Tribunal Federal, ao analisar a RE 561.836, da relatoria do Ministro Luiz Fux, DJe 10.2.2014, em julgamento sob a sistemática da repercussão geral, Tema 005, firmou o entendimento segundo o qual reconhecida a ocorrência de decréscimo nos estipêndios dos servidores em face das perdas decorrentes da conversão do padrão monetário de Cruzeiro Real em URV, é cabível a recomposição remuneratória. O reconhecimento do direito à reposição das perdas não restou limitado aos servidores dos Poderes Legislativo e Judiciário federal, mas àqueles que recebem seus vencimentos em momento anterior ao do término do mês trabalhado, tal como ocorre no âmbito dos mencionados Poderes.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 26 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
