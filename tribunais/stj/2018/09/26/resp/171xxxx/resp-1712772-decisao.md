@@ -1,0 +1,40 @@
+DECISÃO
+ Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM CANCELAMENTO DE PROTESTO E INDENIZAÇÃO POR DANOS MORAIS.
+Dívida inexistente. Protesto lavrado e cancelado depois de cinco dias. Dano moral não demonstrado. Lapso temporal exíguo. Situação que não é apta a causar dano moral ao autor, mas mero aborrecimento. Cancelamento do protesto antes do ajuizamento da ação. Ausência de interesse de agir em relação a este pedido. Autor que foi vencedor somente quanto ao pedido de declaração de inexistência da dívida. Correta a sentença que distribuiu entre as partes os ônus sucumbenciais. Arbitrados honorários recursais.
+NEGARAM PROVIMENTO AO RECURSO." (e-STJ,fl. 130)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 150/155).
+Em suas razões recursais, a recorrente aponta violação dos seguintes dispositivos: 1) arts. 489, § 1º e 1.022, II, do CPC/2015, sustentando omissão no acórdão recorrido quanto ao enfrentamento dos argumentos apresentados capazes de infirmar a conclusão do julgado quanto ao cabimento da indenização por danos morais; e 2) arts. 186 e 927 do Código Civil, e divergência jurisprudencial, sustentando que reconhecido o protesto indevido de titulo por cinco dias, resta configurado o dano moral in re ipsa, exsurgindo o dever de indenizar.
+Não foram apresentadas contrarrazões (e-STJ, fl. 186).
+É o relatório.
+No que tange à alegada ofensa aos arts. arts. 489, § 1º e 1.022, II, do CPC/2015, não se observa qualquer omissão no acórdão recorrido, mas somente julgamento contra os interesses da parte recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração e tampouco sua rejeição importa em violação à sua norma de regência.
+Isso porque, embora a Corte de origem tenha rejeitado os embargos de declaração opostos pelo recorrente, manifestou-se de modo contrário às expectativas do agravante, tratando das questões apontadas de forma clara, sendo desnecessárias manifestações adicionais a respeito do tema, conforme se verá adiante. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC DE 2015. INEXISTÊNCIA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação ao art. 1.022 do CPC de 2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento. 2. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1300413/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/08/2018, DJe 24/08/2018 - grifo nosso)
+No entanto, do exame dos autos, verifica-se que a Corte de origem afastou a ocorrência de danos morais sob o fundamento de que o lapso temporal de 5 (cinco dias) de protesto indevido de titulo não foi suficiente para a configuração de danos morais, tratando-se de mero dissabor ou contratempo, nos seguintes termos:
+"Ajuizada esta ação em 17.09.2015, com a alegação de protesto indevido, lavrado em 10.09.2015 (f1.08).
+As rés juntaram documento comprovando o cancelamento do protesto em 15.09.2015 (f1.64).
+Não há falar em indenização por dano moral.
+Com efeito, o que se passou no presente caso (título protestado indevidamente por apenas 05 dias), não representou mais que um mero dissabor ou contratempo ao autor, incapaz de configurar efetivo "dano moral" passível de indenização.
+Embora a situação tenha causado desconforto e transtornos, não há prova nos autos de que tal ato foi capaz de lhe causar vultoso abalo psíquico, afetação íntima, a ponto de ser considerado como dano moral indenizável." (e-STJ, fl. 132 - grifo nosso)
+Com efeito, verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual, nas hipóteses de protesto indevido de título, como a dos autos, o dano moral opera-se in re ipsa, isto é, decorre do próprio fato da inscrição indevida em órgão de restrição ao crédito, sendo desnecessária a sua comprovação. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. INSTRUMENTO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. MEDIAÇÃO E CORRETAGEM. AUSÊNCIA DE PRESTAÇÃO DO SERVIÇO. COBRANÇA INDEVIDA. SÚMULAS 5 E 7 DO STJ. INSCRIÇÃO INDEVIDA EM CADASTROS RESTRITIVOS DE CRÉDITO. DANO MORAL CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal estadual, soberano na análise das provas, entendeu que seria indevido o pagamento de comissão de corretagem pelo autor em relação ao contrato de compra e venda de imóvel, uma vez que não houve qualquer demonstração da prestação do serviços.
+2. Alterar o julgamento proferido pelo Tribunal a quo, no sentido de ser devido o pagamento da comissão de corretagem, seria necessária interpretação de cláusulas contratuais e reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+3. A jurisprudência firmada neste Sodalício é no sentido de que o nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova.
+4. Agravo interno não provido.
+(AgInt no AREsp 1237491/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/05/2018, DJe 15/05/2018 - grifo nosso)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA POR DÍVIDA PRESCRITA. DANO MORAL. QUANTUM RAZOÁVEL E PROPORCIONAL. JUROS MORATÓRIOS INCIDENTES A PARTIR DO EVENTO DANOSO. CORREÇÃO MONETÁRIA A PARTIR DO ARBITRAMENTO. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ, "nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp 1.059.663/MS, Rel. Min. NANCY ANDRIGHI, DJe de 17/12/2008).
+2. O valor de R$ 5.000,00 (cinco mil reais) arbitrado a título de dano moral em razão de inscrição indevida em cadastro de inadimplentes por dívida prescrita não se mostra irrisório, tendo em vista as circunstâncias específicas do caso concreto.
+3. Os juros moratórios, em se tratando de responsabilidade civil extracontratual, fluem da data do evento danoso, conforme estabelecido na Súmula 54/STJ.
+4. A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento, consoante a Súmula 362/STJ.
+5. Agravo interno não provido."
+(AgRg no REsp 1125388/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/05/2016, DJe 13/05/2016 - grifo nosso)
+Desse modo, estando o entendimento do Tribunal de origem dissonante da jurisprudência do STJ, a reforma do acórdão recorrido é medida que se impõe.
+Levando-se em consideração as peculiaridades do caso e na linha dos precedentes desta Corte em casos análogos, é razoável a quantia de R$ 5.000,00 (cinco mil reais) pelo dano moral decorrente do protesto indevido, que devem ser acrescidos de juros de mora a partir da citação e correção monetária da data da publicação da presente decisão.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para julgar procedente o pedido inicial de indenização por danos morais, a qual fixo em R$ 5.000,00 (cinco mil reais), acrescidos de juros de mora a partir da citação e correção monetária da data da publicação da presente decisão.
+Invertidos os ônus sucumbenciais.
+Publique-se.
