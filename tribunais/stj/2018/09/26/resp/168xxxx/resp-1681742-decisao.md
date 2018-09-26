@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de prestação de contas na qual questiona vários lançamentos efetuados pelo recorrente em sua conta-corrente, registrando-os de forma genérica nos extratos.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por HSBC BANK BRASIL S.A. - BANCO MÚLTIPLO, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de prestação de contas, ajuizada por [NOME], em face do recorrente, na qual questiona vários lançamentos efetuados pelo recorrente em sua conta-corrente, registrando-os de forma genérica nos extratos. Pleiteia seja deferido o pedido de prestação de contas no período de dezembro de 1983 até o ano de 1999.
+Sentença: julgou procedente o pedido, para condenar o recorrente a prestar contas em relação ao contrato de [CONTA], [CONTA], desde dezembro de 1983 até o ano de 1999.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. SENTENÇA QUE JULGA PROCEDENTE O PEDIDO. AUSÊNCIA DE CONTA CORRENTE E CONTRATO CELEBRADO ENTRE AS PARTES. INOVAÇÃO RECURSAL. TESE NÃO CONHECIDA - PRESCRIÇÃO. INOCORRÊNCIA. APLICAÇÃO DO PRAZO VINTENÁRIO. INTERRUPÇÃO DO PRAZO EM VIRTUDE DA PROPOSITURA DE AÇÃO DE PRESTAÇÃO DE CONTAS - LEGITIMIDADE PASSIVA CONFIGURADA. SUCESSÃO DO BANCO BAMERINDUS PELO HSBC RECONHECIDA EM DIVERSOS PRECEDENTES JURISPRUDENCIAIS DESTE TRIBUNAL - INTERESSE DE AGIR. CONFIGURADO - IRRELEVÂNCIA DA PRESENÇA DO PERICULUM IN MORA E DO FUMUS BONI IURIS. MEDIDA DE CARÁTER SATISFATIVO - INVERSÃO DOS ÔNUS SUCUMBENCIAIS. INVIABILIDADE - HONORÁRIOS ADVOCATÍCIOS. MINORAÇÃO PARA R$ 600,00. PRECEDENTES DA CÂMARA - RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO. (e-STJ Fl. 279)
+Recurso especial: alega violação dos arts. 206, § 3º, II, e 265 do CC; 485, IV, do CPC/15, bem como dissídio jurisprudencial. Sustenta não ser parte legítima para figurar no polo passivo do presente processo. Afirma não ter existido sucessão, a título universal, do Banco Bamerindus do Brasil S/A pelo HSBC Bank Brasil S/A. Assevera inexistir solidariedade entre o HSBC e o Banco Bamerindus. Aduz que o Banco Bamerindus foi adquirido pelo Banco Pactual, o que corrobora a tese de ilegitimidade passiva para a causa. Alega falta de interesse processual da parte recorrida. Sustenta que o recorrido não requereu administrativamente a exibição dos documentos, sendo de rigor o reconhecimento da carência da ação pela ausência do pedido administrativo. Afirma ser aplicável o prazo prescricional trienal à espécie.
+Relatado o processo, decide-se.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à ilegitimidade passiva para a causa, o recorrente não alega violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 265 do CC e 485, IV, do CPC/15, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na espécie, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+O recorrente não impugnou o fundamento utilizado pelo TJ/PR de que "aplicando-se a regra de transição descrita no artigo 2.028, do Código Civil, é possível verificar que, até a data da entrada em vigor do Novo Código, já havia transcorrido mais da metade do tempo estabelecido na lei revogada. Isto porque, de dezembro de 1983 (data da pretensão inicial) até a entrada em vigor do Novo Código, em 11 de janeiro de 2003, já haviam se passado mais de 10 anos. Desta forma, cabível a aplicação do prazo vintenário disposto no artigo 177, do Código Civil de 1916" (e-STJ Fl. 283). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido.
+Outrossim, o recorrente também não impugnou o fundamento utilizado pelo TJ/PR de que "consoante se extrai dos autos em apreço, a instituição financeira não comprovou a efetiva entrega dos instrumentos contratuais e extratos da conta corrente ao apelado, ônus que lhe incumbia, nos termos do art. 333, II, do CPC. Tal conclusão justifica o próprio ajuizamento desta cautelar satisfativa, sem a qual o autor não teria acesso ao documento postulado. Ainda, cumpre salientar que a recusa da exibição do contrato em primeira instância configura pretensão resistida do apelante" (e-STJ Fl. 289). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido.
+Sendo assim, de rigor a aplicação, na espécie, da Súmula 283/STF.
+- Do reexame de fatos e o provas
+Alterar o decidido no acórdão impugnado, no que se refere à obrigação do recorrente de prestar contas ao recorrido, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, condeno a parte recorrente, a título de honorários recursais, ao pagamento de mais R$ 500,00 (quinhentos reais) em favor do procurador da parte recorrida.
+Publique-se. Intimem-se.
