@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. ARTIGO 535 DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 447):
+MANDADO DE SEGURANÇA. PRESCRIÇÃO NÃO VERIFICADA. APOSENTADORIA POR INVALIDEZ. CONDIÇÃO DE SEGURADO. SENTENÇA PROFERIDA EM RECLAMATÓRIA TRABALHISTA.
+1. Ausente a prescrição quinquenal. Inteligência da Súmula nº 85 do STJ.
+2. Consoante jurisprudência deste Tribunal Regional, é possível considerar a decisão transitada em julgado proferida em reclamatória trabalhista como início de prova material do direito alegado, mesmo que a autarquia previdenciária não tenha participado daquela demanda, desde que atendidas algumas condições. Hipótese em que a necessidade de execução judicial pelo reclamante, para o recebimento dos valores devidos e para o recolhimento das contribuições previdenciárias, afasta a possibilidade de conluio ou simulação capazes de demonstrar a propositura da demanda trabalhista com fins meramente previdenciários.
+3. O equívoco apontado pelo INSS, em relação ao código indicado na guia de pagamento das contribuições recolhidas pela empresa empregadora por força de sentença trabalhista, não tem o condão de prejudicar o empregado, na medida em que este não concorreu para sua ocorrência.
+4. Prequestionamento quanto à legislação invocada estabelecido pelas razões de decidir.
+Embargos de declaração parcialmente acolhidos, tão só para fins de prequestionamento, nos s termos do acórdão de fls. 466-468.
+O recorrente alega, nas razões do especial, a existência de contrariedade aos arts. 535, do CPC/1973; artigos 15 e 55, § 3º da Lei n. 8.213/91. Defende, em síntese, que houve omissão quanto à impossibilidade de utilização de sentença trabalhista como início de prova material, quando não fundamentada em documentos.
+Quanto a questão central, sustenta ofensa aos arts. 15 e 55, § 3º da Lei n. 8.213/91, porquanto não pode haver reconhecimento da qualidade de segurado da parte autora, com fundamento em acordo realizado em ação trabalhista, no qual as partes, sem qualquer produção de provas, consentiram em admitir a relação de emprego durante período certo, suficiente para que o reclamante pudesse ser segurado do RGPS.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 532.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Com relação à apontada violação ao art. 535 do CPC/1973, aduz o insurgente que o Tribunal de origem incorreu em omissão quanto à impossibilidade no caso concreto de reconhecimento do tempo de serviço ter como única prova o acordo trabalhista, pois este não basta para demonstrar que o de cujus tenha, efetivamente, exercido atividade no período que pretende ver reconhecido, ou seja, deixou de dar vigência aos arts. 15 e 55, §3º da Lei n. 8.213/91.
+De fato, assiste razão ao recorrente, pois do exame mais acurado dos autos, verifica-se, indubitavelmente, omissão no v. acórdão atacado, apesar da provocação por embargos de declaração, apontando o referido vício, constata-se que o Tribunal de origem não se manifestou sobre a matéria suscitada.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 535, II, do CPC/1973, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Com efeito, deve ser reconhecida a apontada violação ao artigo 535 do CPC/73, impondo-se a decretação de nulidade do acórdão que julgou os embargos de declaração opostos pelo ora recorrente, determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso, a fim de que sejam sanadas as aludidas omissões.
+Desta forma, as demais teses veiculadas no recurso especial ficam prejudicadas.
+Do exposto, dou parcial provimento ao recurso especial, para anular o julgamento dos embargos de declaração opostos pela ora recorrente (fls. 454-457) e determinar o retorno dos autos à origem para que seja proferido um novo julgamento e supridas as omissões apontadas.
+Publique-se. Intimem-se.
