@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO CEARÁ contra decisão que inadmitiu recurso especial fundado na alínea "a" do permissivo constitucional, que desafia acórdão do TJ/CE, assim ementado:
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRESA DE CONSTRUÇÃO CIVIL E DE MANUTENÇÃO DE PROJETOS DE ENGENHARIA E ELETRICIDADE. OPERAÇÃO INTERESTADUAL. CERCEAMENTO DE DEFESA. PRELIMINAR AFASTADA. DIFERENCIAL DE ALÍQUOTA. IMPOSSIBILIDADE. SENDO A EMPRESA ADQUIRENTE DOS PRODUTOS DO RAMO DA CONSTRUÇÃO CIVIL, A PRESUNÇÃO É DE SER SIMPLES PRESTADORA DE SERVIÇO, SENDO INVIÁVEL A COBRANÇA DO DIFERENCIAL DE ALÍQUOTA, RAZÃO DA NECESSIDADE DE PROVA QUE A APELADA PRATICOU ATOS DE COMÉRCIO COM AS MERCADORIAS ADQUIRIDAS DE OUTRAS UNIDADES DA FEDERAÇÃO. NÃO COMPROVAÇÃO. REMESSA OFICIAL E APELAÇÃO CONHECIDAS E IMPROVIDAS. SENTENÇA MANTIDA.
+Nas razões do especial alega violação dos arts. 333, II, e 535, II, do CPC/1973, sustentando as seguintes teses:
+a) existência de negativa de prestação jurisdicional, tendo em vista suposta omissão do Tribunal de origem quanto ao enfrentamento da relação de derivação existente entre as notas fiscais apresentadas no processo, das quais resultaria a legitimidade na cobrança do ICMS;
+b) ocorrência de cerceamento de defesa em virtude do indeferimento da prova pericial, que teria o condão de demonstrar os fatos alegados na preliminar de ofensa ao art. 535 do CPC/1973.
+Apresentaram-se ontrarrazões ao recurso especial, que não foi admitido ante a ausência de violação do art. 535 do CPC/1973 e pela incidência do óbice disposto na Súmula 7 do STJ, fundamento com o qual não concorda o agravante.
+Contraminuta foi apresentada pela parte agravada.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de ação ajuizada pela agravada, por meio da qual pretendeu a declaração de inexistência de relação jurídica válida à cobrança de diferencial de alíquotas de ICMS, concernente à aquisição de insumos em outras unidades da Federação, na qualidade de empresa de construção civil.
+Ante o procedência do pedido reconhecida pelo Juízo da 1ª Vara da Fazenda Pública do Ceará, o agravante interpôs recurso de apelação que foi desprovido pelo Tribunal de Justiça do Estado do Ceará. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 285/286):
+Preliminarmente, pede a apelante Estado do Ceará a produção de prova pericial para demonstrar que as notas fiscais apresentadas (fls. 79/97), são mesmas derivadas da nota fiscal de fl. 77. Referido pedido foi expresso e, está contido na contestação de fls. 136/144.
+Todavia, o exame pericial no caso sob exame mostra-se absolutamente desnecessário, vez que existe comprovação de que de fato houve o pagamento das notas fiscais, através dos documentos acostados de fls.121/123, onde encontra-se um DOC, constando o valor alegado.
+Portanto, os documentos propostos têm respostas no conjunto probatório acostado aos autos e/ou na legislação de regência do imposto.
+Segundo a doutrina "em casos em que o julgamento do mérito da causa depende de conhecimentos técnicos de que o magistrado não dispõe, deverá ele recorrer ao auxílio de um especialista, o perito, que dispondo do conhecimento técnico necessário, transmitirá ao órgão jurisdicional seu parecer sobre o tema posto à sua apreciação" (Alexandre Freitas Câmara; Lições de D.Processual Civil), ou seja, somente deverá haver perícia quando o exame do fato probando depender de conhecimentos técnicos ou especiais e essa prova tiver utilidade diante dos elementos disponíveis para exame.
+Ademais, é verificado que os argumentos / documentos, carreados aos autos pela Fiscalização e pela própria requerente em sua defesa, revelam-se suficientes para a elucidação das questões postas.
+(..)
+Deste modo, fica perfeitamente esclarecido pela análise dos documentos / argumentos presentes nos próprios autos propostos pela defesa, que a perícia requerida mostra-se desnecessária para a elucidação da questão posta, haja vista encontrar as provas bastante elucidativas nos presentes autos.
+Os embargos de declaração opostos pelo agravante foram rejeitados.
+Pois bem.
+a) Negativa de prestação jurisdicional
+Não há violação do art. 535, II, do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da leitura do excerto do acórdão supracitado, constata-se que o Tribunal de origem foi expresso ao ratificar o seu entendimento de que o material probatório constante dos autos foi suficiente ao exame das questões controvertidas, o que, por certo, afastou a necessidade da prova pericial requerida pelo agravante.
+Desse modo, não se observa nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+b) Violação do art. 333, II, do CPC/1973
+Quanto à alegação relativa à ocorrência de cerceamento de defesa em virtude do indeferimento da prova pericial requerida, não merece conhecimento o recurso especial, tendo em vista que a conclusão do acórdão recorrido deriva da análise do conjunto fático-probatório dos autos.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal a quo sobre a questão demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+Ante o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ).
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
