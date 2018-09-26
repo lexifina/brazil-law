@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado por Agência Nacional de Saúde Suplementar contra decisão que não conheceu do recurso especial.
+Alega ser descabida a aplicação da Súmula 283/STF, buscando o conhecimento e provimento de seu apelo extremo.
+Há de se reconhecido que os fundamentos do acórdão recorrido foram suficientemente rebatidos na peça de recurso especial, cabendo o afastamento da Súmula 283/STF.
+No apelo extremo, a ora agravante buscou o reconhecimento de violação do art. 1.022 do CPC/2015, argumento que "a questão referente à reformatio in pejus, quanto ao objeto de intempestividade aos embargos à execução, em conformidade com o artigo 16 da Lei 6.830/80 não foi objeto de decisão do acórdão recorrido".
+Decido.
+O provimento do recurso especial por contrariedade ao art. 1.022, do CPC pressupõe que sejam demonstrados, fundamentadamente, entre outros, os seguintes motivos: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma; (d) não há outro fundamento autônomo, suficiente para manter o acórdão. Esses requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+Com efeito, a recorrente limitou-se a indicar a necessidade de abordagem de alguns pontos pela Corte de origem, sem especificá-los, nem justificar, nas razões do apelo, a importância do enfrentamento do tema para a correta solução do litígio.
+A suscitada violação do art. 1.022 do Código de Processo Civil foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A esse respeito, destaco os seguintes precedentes:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DO PLANO GERAL DE CARGOS DO PODER EXECUTIVO - GDPGPE. EXTENSÃO AOS INATIVOS. POSSIBILIDADE. GRATIFICAÇÃO GENÉRICA. AUSÊNCIA DE AVALIAÇÃO DE DESEMPENHO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283/STF. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE. OFENSA AO ART. 535 DO CPC. SÚMULA 284/STF.
+1. Inviável o apelo especial quanto à alegação de ofensa ao art. 535 do CPC se as razões expendidas no recurso forem genéricas, constituindo simples remissão aos embargos de declaração opostos na origem, sem particularizar os pontos em que o acórdão teria sido omisso, contraditório ou obscuro. Incidência da Súmula 284/STF.
+2. O recurso esbarra no obstáculo da Súmula 283/STF, uma vez que a recorrente não impugnou o fundamentos adotados pelo Tribunal de origem ao considerar o caráter genérico da vantagem pleiteada por não ter sido realizada avaliação de desempenho dos servidores da ativa.
+3. Ainda que superado o referido óbice, o julgado reconheceu o direito dos autores baseado na necessidade de tratamento paritário entre ativos e inativos, garantido pela Constituição Federal, matéria insuscetível de ser examinada em recurso especial.
+4. Ademais, esta Turma já se manifestou no sentido de que a Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo (GDPGPE) vem sendo paga de forma genérica aos servidores da ativa, devendo ser estendida aos aposentados e pensionistas no mesmo percentual.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 304.959/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/9/2013, DJe 27/9/2013)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FORNECIMENTO DE ENERGIA ELÉTRICA. INTERRUPÇÃO. DANOS MORAIS. OCORRÊNCIA. CONCLUSÃO OBTIDA PELO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não se conhece da violação ao art. 535 do CPC, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros. Incide, no caso, a Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+2. O Tribunal de origem, ao concluir pela responsabilidade da concessionária ao pagamento dos danos morais sofridos pelo autor, entendeu que o dano decorreu da demora no restabelecimento da energia. Assim, para alterar tal conclusão, necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado nesta seara recursal, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1.370.724/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/9/2013, DJe 2/10/2013)
+No tocante à intempestividade da penhora, o que configuraria violação do art. 16, III, da LEF, o recurso deixou sem combate o fundamento central do acórdão:
+Compulsando os autos, constata-se que a apelante não foi devidamente intimada da penhora em 02/07/2012, pois o mandado de citação, penhora e avaliação de nº 0020001180-6/2015 estava suspenso de seu cumprimento, conforme despacho de fl. 23 dos autos da execução.
+Esse ponto não foi devidamente combatido na peça de recurso especial, o que atrai a aplicação da Súmula 283/STF. No aspecto:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. PRAZO PRESCRICIONAL. NÃO DEMONSTRAÇÃO DA REALIZAÇÃO DA COMPENSAÇÃO E, PORTANTO, DA SUSPENSÃO DO PRAZO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283/STF. NECESSIDADE DE REVISÃO DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não é possível conhecer do recurso especial em relação ao artigo 66, da Lei 8.383/91, em razão da ausência de prequestionamento, já que sobre tal norma não houve emissão de juízo pelo acórdão recorrido, tampouco foram opostos embargos declaratórios para suprir tal omissão, o que atrai a aplicação da súmula 282/STF.
+2. A Corte de origem afirmou que não houve comprovação acerca da efetiva realização do pedido de compensação, nem tampouco da sua glosa pela autoridade fiscal, de forma que não foi demonstrada a alegada suspensão do prazo prescricional. Referido fundamento não foi impugnado pela recorrente, fazendo incidir a Súmula 283/STF.
+3. A revisão da conclusão da Corte de origem a respeito da ocorrência ou não da compensação e, por conseguinte, da suspensão do prazo prescricional, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado a esta Corte em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.221.397/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/2/2014, DJe 24/2/2014)
+PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. FRAUDE À EXECUÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. O reexame de fatos e provas em recurso especial é inadmissível.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Agravo não provido.
+(AgRg no AREsp 436.494/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/2/2014, DJe 28/2/2014)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, para manter o não conhecimento do recurso especial por fundamento diverso.
+Publique-se. Intimem-se.
