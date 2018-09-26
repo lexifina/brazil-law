@@ -1,0 +1,44 @@
+Decisão: Cuida-se de embargos de declaração opostos em face de decisão mediante a qual julguei procedente o pedido deduzido na reclamação, cujo teor transcrevo (eDOC 26):
+    Trata-se de reclamação, com pedido de medida liminar, contra decisão proferida pelo Tribunal Regional do Trabalho da 3ª Região, prolatada em sede de recurso de revista, que indeferiu o requerimento de suspensão de reclamatória trabalhista (processo n° 0010307-43.2015.5.03.0110), bem como contra decisão da 31ª Vara do Trabalho de Belo Horizonte/MG, que indeferiu pedido de suspensão de execução provisória (processo n° 0010070- 04.2018.5.03.0110), as quais teriam afrontado a autoridade do Supremo Tribunal Federal e a eficácia da decisão que determinou a suspensão dos processos que veiculam matéria objeto da ADC/MC 48, Rel. Min. Roberto Barroso.
+    Aduz que referida ADC determinou a suspensão de todos os feitos em que se discuta a aplicação dos artigos 1°, caput, 2°, §§ 1° e 2°, 4°,§§ 1° e 2°, e 5°, caput, da Lei n° 11.442/07.
+    Narra que o ora beneficiário, Transportador Autônomo de Cargas, conhecido como TAC, ingressou com a reclamatória trabalhista contra a ora Reclamante visando ao reconhecimento de vínculo de emprego, em que pese a existência de ajuste escrito de subcontratação de serviços de frete, com fulcro no artigo 5° da Lei n°11.442/07 (eDOC 1, p. 2), tendo sido a ação julgada procedente, iniciada a execução provisória.
+    Requer-se, liminarmente e no mérito, a cassação da decisão reclamada e, via de consequência, a suspensão da execução provisória nos autos do processo n° 0010070- 04.2018.5.03.0110, em curso na 31ª Vara do Trabalho de Belo Horizonte/MG, e do processo n° 0010307-43.2015.5.03.0110 (Reclamatória Trabalhista), em curso no Tribunal Regional do Trabalho da 3ª Região, nos termos da cautelar deferida nos autos da ADC 48.
+    Foi concedida a tutela de urgência pleiteada pelo Min. Dias Toffoli, nos exercício da Presidência (eDOC 17).
+    A parte beneficiária apresentou sua manifestação (eDOC 21).
+    Dispenso o pedido de informações, bem como a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem Súmula Vinculante (art. 103-A, § 3º, da CF).
+    A matéria também veio disciplinada pelo Novo Código de Processo Civil, que, no art. 988, prevê as hipóteses de seu cabimento, in verbis:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+    § 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+    § 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+    § 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    § 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016)
+    I - proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016)
+    II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias. (Incluído pela Lei nº 13.256, de 2016)
+    § 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+    Na espécie, alega-se violação à autoridade da decisão proferida pelo Min. Luís Roberto Barros, na ADC MC 48, enquadrando-se no inciso II do dispositivo supracitado, bem como na regra insculpida no art. 102, I, l, CF.
+    Com efeito, o Min. Roberto Barroso, nos autos da ADC 48, concedeu, ad referendum do Plenário desta Suprema Corte, o provimento cautelar requerido na ADC 48/DF, para determinar a imediata suspensão de todos os feitos que envolvam aplicação dos artigos 1º, caput, 2º, §§ 1º e 2º, 4º, §§ 1º e 2º, e 5º, caput, da Lei 11.442/2007. Eis a parte dispositiva do julgado:
+    36. Diante do exposto, defiro a cautelar para determinar a imediata suspensão de todos os feitos que envolvam a aplicação dos artigos 1º, caput, 2º, §§ 1º e 2º, 4º, §§ 1º e 2º, e 5º, caput, da Lei 11.442/2007. Determino, por fim, a inclusão do processo em pauta, para referendo da cautelar e concomitante julgamento do mérito pelo Plenário do Supremo Tribunal Federal. (grifei)
+    Da análise dos autos, verifica-se que o objeto da reclamatória trabalhista em questão, ajuizada perante o Juízo da 1ª Vara do Trabalho de Pouso Alegre/MG, é o reconhecimento de vínculo empregatício em decorrência de contrato firmado, segundo narra a inicial, sob a égide da Lei 11.442/2007.
+    Assim, há estrita aderência da ordem de suspensão emanada de Ministro desta Corte, na ADC 48, ao ato reclamado, sendo irrelevante, nos termos da citada decisão, a fase processual em que se encontra o feito, considerando a ausência de ressalvas nesse sentido.
+    Ante o exposto, com base no art. 161, parágrafo único, do RISTF, confirmo a liminar deferida (eDoc. 17) e julgo procedente a reclamação, para cassar as decisões que descumpriram a ordem proferida na ADC 48, e, por consequência, determinar sua observância, mantendo suspenso o processo 0010070- 04.2018.5.03.0110, em curso na 31ª Vara do Trabalho de Belo Horizonte/MG, e o processo 0010307-43.2015.5.03.0110 (Reclamatória Trabalhista), em curso no Tribunal Regional do Trabalho da 3ª Região, até o julgamento final da referida ação.
+    Comunique-se, com urgência, transmitindo-se cópia desta decisão ao Juízo da 31ª Vara do Trabalho de Belo Horizonte/MG e ao Tribunal Regional do Trabalho da 3ª Região.
+    O embargante sustenta, em síntese, omissão na decisão monocrática quanto à alegação de impossibilidade de análise do mérito do recurso trabalhista, tendo em vista o exaurimento da fase cognitiva, o que afastaria a possibilidade de suspensão do processo.
+    Afirma não haver falar em discussão quanto a aplicação da lei 11.442/2007, posto que não será impossível a apreciação sob a ótica da referida lei, até porque, foi reconhecimento o vinculo empregatício com base na provas fáticas produzidas. (eDOC 29, p. 4):
+    A parte embargada apresentou contrarrazões apontando a inexistência de vício a ser sanado (eDOC 35).
+    É o relatório. Decido.
+    Nos termos do art. 1.024, § 2º, do CPC, “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.” E de acordo com a norma do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis nos casos de obscuridade, contradição ou omissão da decisão impugnada, bem como para corrigir eventual erro material.
+    Na decisão embargada, assentei configurada a inobservância do pronunciamento exarado na ADC 48, haja vista ser o objeto da ação trabalhista o reconhecimento de vínculo empregatício em decorrência de contrato firmado sob a égide da Lei 11.442/2007, sendo irrelevante, nos termos da citada decisão, a fase processual em que se encontra o feito, considerando a ausência de ressalvas nesse sentido.
+    Desse panorama analítico, observa-se nítido caráter infringente nas alegações recursais, porquanto se busca a revisão das razões que redundaram na decisão embargada. E esta Corte possui entendimento reiterado no sentido de que os embargos de declaração não se prestam à rediscussão do assentado no julgado, em decorrência de inconformismo da parte embargante.
+    Ante o exposto, rejeito os embargos de declaração.
+    Publique-se. Intimem-se.
+    Brasília, 26 de setembro de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
