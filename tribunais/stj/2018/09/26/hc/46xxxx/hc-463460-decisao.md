@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente teve o pedido de progressão de regime deferido pelo Juízo das Execuções.
+Interposto agravo em execução pelo Ministério Público, porém, o Tribunal de origem entendeu ser necessária a realização do exame criminológico antes da concessão do benefício, razão pela qual determinou a cassação da decisão de 1º grau e o retorno do apenado ao regime fechado até a produção do exame (fls. 45/48).
+Pela delonga na realização do procedimento, houve impetração de habeas corpus na instância ordinária. O writ, entretanto, não foi conhecido, ante a não constatação de ilegalidade manifesta (fls. 29/33).
+Em síntese, argumenta a defesa que há manifesto excesso de prazo na situação, pois o paciente encontra-se preso em regime mais gravoso desde final de março de 2017, ou seja, a quase um ano sem a realização do "Exame Criminológico" para que com isso possa retornar ao Regime semiaberto. Aduz ainda que o executado cumpriu bem mais que a fração necessária à benesse pleiteada, mantendo no período bom comportamento carcerário, conforme fez prova nos autos através do Boletim informativo, B.I. e conduta carcerária elaborado no Estabelecimento Penal na qual o Paciente encontrava-se acautelado.(fls. 3/8).
+Requer, assim, inclusive liminarmente, a concessão da ordem, para que se determine imediata remoção do paciente ao regime semiaberto ou, sucessivamente, a imediata realização do exame criminológico.
+O pedido liminar foi indeferido á fl. 37.
+Prestadas as informações pela autoridade coatora (fls. 42/69), o Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento do habeas corpus (fls. 71/74).
+É o relatório.
+DECIDO.
+De início, cumpre ressaltar que o paciente teve o pedido de progressão de regime deferido pelo Juízo das Execuções. A despeito da ausência de tal decisão nos autos, é possível aferir que o magistrado de piso julgou satisfeito o critério subjetivo com base no atestado de comportamento carcerário do apenado, conforme informa o próprio Tribunal de origem à fl. 47, preenchido também o lapso temporal necessário.
+O Tribunal a quo, entretanto, julgou imprescindível a realização do exame criminológico, nos seguintes termos (fls. 47/48):
+No mérito, o agravo comporta provimento.
+Pelo que consta dos autos, o agravado, condenado a 17 (dezessete) anos e 01 (um) mês de reclusão, pela prática de três roubos (fls. 04/07), teve deferido seu pedido de progressão ao regime semiaberto.
+É que, em razão da longa pena a cumprir e da gravidade concreta dos delitos cometidos, três roubos, se mostra inadequada, in casu , a aferição do preenchimento do requisito subjetivo pela simples análise do atestado de comportamento carcerário do agravado (fls. 03), sendo necessária, também, a realização de exame criminológico para aferição do mérito do reeducando.
+Anoto que, à luz da Lei Federal nº 10.792/03, a aferição do merecimento do reeducando passou, pois, de norma de competência vinculada para regra de competência discricionária, sem qualquer violação à norma constitucional, ou seja, o novo texto legal tão somente suprimiu a obrigatoriedade dos exames técnicos, não obstando, contudo, que o julgador, no exercício da jurisdição e no exame do caso concreto, determine sua realização sempre que seja necessário para avaliar o mérito do reeducando. Nesse sentido, a Súmula Vinculante nº 26, do Colendo Supremo Tribunal Federal, e a Súmula nº 439, do Egrégio Superior Tribunal de Justiça, com, respectivamente, os seguintes enunciados:
+"PARA EFEITO DE PROGRESSÃO DE REGIME NO CUMPRIMENTO DE PENA POR CRIME HEDIONDO, OU EQUIPARADO, O JUÍZO DA EXECUÇÃO OBSERVARÁ A INCONSTITUCIONALIDADE DO ART. 2º DA LEI N. 8.072, DE 25 DE JULHO DE 1990, SEM PREJUÍZO DE AVALIAR SE O CONDENADO PREENCHE, OU NÃO, OS REQUISITOS OBJETIVOS E SUBJETIVOS DO BENEFÍCIO, PODENDO DETERMINAR, PARA TAL FIM, DE MODO FUNDAMENTADO, A REALIZAÇÃO DE EXAME CRIMINOLÓGICO".
+"ADMITE-SE O EXAME CRIMINOLÓGICO PELAS PECULIARIDADES DO CASO, DESDE QUE EM DECISÃO MOTIVADA".
+Ante o exposto, CONHEÇO E DOU PROVIMENTO AO AGRAVO MINISTERIAL, para cassar a r. decisão de fls. 18/19, a fim de que outra seja proferida, após a realização do exame criminológico, devendo o agravado retornar ao regime fechado.
+Após a publicação do acórdão, os autos foram remetidos à Vara de origem no dia 16.5.2017, com a determinação de regressão do apenado ao regime fechado, segundo consta do sítio eletrônico do Tribunal.
+As informações mais recentes trazidas pela Vara de Execuções Criminais da Comarca de São Vicente, de 2.7.2018, anunciam que os autos estão em fase de remessa para defensoria pública quanto a formulação de quesitos complementares para a realização do exame criminológico (fl. 23).
+A Corte de origem, impelida a se manifestar acerca do constrangimento ilegal pelo excesso de prazo, não conheceu do writ, mas registrou que o processo vem seguindo a sua marcha natural, sendo que o juízo monocrático vem dando regular seguimento aos trâmites processuais necessários para o deslinde da situação. Vejamos (fls. 29/33):
+A presente ordem de habeas corpus deve ser julgada prejudicada Consta da informação prestada pela autoridade coatora que:
+"..processou-se o pedido de progressão ao regime semiaberto que foi apreciado e deferido por decisão do MM. Juiz de Direito da VEC de Taubaté datada de 11.08.2016. Contra esta decisão foi interposto agravo em execução pelo Ministério Público. Processado o agravo o E. Tribunal de Justiça de São Paulo, deu provimento ao mesmo, cassando a decisão e determinando o retorno do sentenciado ao regime fechado e a realização de exame criminológico.
+(..) Este juízo deu continuidade ao cumprimento do V.
+Acordão determinando a realização do exame criminológico.
+Os autos estão em fase de remessa para a Defensoria Pública para manifestação quanto a formulação de quesitos complementares."
+Do exposto observa-se que o juízo a quo vem cumprindo a determinação do V. ACORDÃO, que em sede de Agravo de Execução, determinou a regressão do paciente e a realização do exame criminológico.
+Deste modo, a despeito do alegado pela ilustre Defesa acerca de suposta morosidade para a elaboração do exame criminológico, as informações prestadas demonstram que o processo vem seguindo a sua marcha natural, sendo que o juízo monocrático vem dando regular seguimento aos trâmites processuais necessários para o deslinde da situação.
+Por oportuno, anoto que a decisão acerca de eventual concessão do benefício de progressão de regime é de competência originária do juízo a quo, sob pena de supressão de instância.
+Por fim, para o enfrentamento de teses jurídicas na via restrita, imprescindível que haja ilegalidade manifesta, relativa a matéria de direito, cuja constatação seja evidente e independa de qualquer análise probatória. Definitivamente não é o caso dos autos.
+Logo, inexiste qualquer violação ou ameaça à liberdade de locomoção do paciente, no caso em tela, a ser sanado pela via eleita.
+Diante do exposto, não se conhece do habeas- corpus impetrado.
+Em que pese o entendimento da Corte de origem, no tocante à inexistência de qualquer violação ou ameaça à liberdade de locomoção do paciente, a situação é bem diversa.
+O paciente, à quem já havia sido concedida a progressão de regime, com aferição dos requisitos já realizada pelo Juízo de Execuções, segue aguardando a realização de exame criminológico, determinado como necessário pelo Tribunal a quo, há mais de 1 ano.
+Sem adentrar à questão da imperiosidade ou não da realização do exame criminológico in casu, ponto que foge ao cerne do presente writ, fato é que o apenado, ao que tudo indica, permanece mantido em regime diverso a que possui direito, e a situação já perdura, frisa-se, há mais de 1 ano.
+Dessa forma, inequívoca a constatação de constrangimento ilegal decorrente da mora estatal em realizar o procedimento do exame criminológico, bem como de violação à liberdade de locomoção do paciente, que deveria usufruir da benesse do regime semiaberto.
+Suplanta os limites da razoabilidade permitir que o executado suporte a excessiva delonga apenas para fins do exame criminológico, quando já lhe foi provida a progressão de regime pelo juízo de 1º grau, em decisão fundamentada, preenchidos tanto o requisito objetivo (lapso temporal do cumprimento de pena) como o subjetivo (atestado de bom comportamento prisional).
+Ante o exposto, concedo o habeas corpus para determinar a imediata remoção do paciente ao regime semiaberto, até que seja realizado o novo exame acerca da progressão do regime após a submissão ao exame criminológico.
+Comunique-se.
+Publique-se.
+Intimem-se.
