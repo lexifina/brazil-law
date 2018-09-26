@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. REITERAÇÃO. IRREGULARIDADE FORMAL. DIALETICIDADE. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do agravo em recurso especial que não impugna especificamente os fundamentos da decisão que nega seguimento ao apelo extremo. Inteligência do art. 932, inciso III, do CPC/2015.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto pelo Estado do Rio Grande do Norte, contra a decisão de fls. 401/403 (e-STJ), onde não conheci do agravo em recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 932, III, 3ª PARTE, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões de agravo interno, o agravante sustenta que impugnou todos os fundamentos da decisão de inadmissibilidade, bem como reitera ainda as razões do recurso especial.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. REITERAÇÃO. IRREGULARIDADE FORMAL. DIALETICIDADE. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do agravo em recurso especial que não impugna especificamente os fundamentos da decisão que nega seguimento ao apelo extremo. Inteligência do art. 932, inciso III, do CPC/2015.
+2. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravo não deve ser provido.
+A parte agravante sustenta que impugnou os fundamentos da decisão de inadmissibilidade, porquanto, teria colacionado julgados que tratam da prescrição de fundo de direito nas hipóteses de enquadramento e reequandramento de servidor público.
+Não se desconhece a jurisprudência deste Tribunal no sentido de que o ato administrativo de enquadramento ou reenquadramento é único de efeitos concretos e que, portanto, caracteriza a possibilidade de configuração da prescrição do fundo de direito se a promoção da ação que visa a atacar o citado ato for posterior ao prazo quinquenal do art. 1º do Decreto 20.910/1932.
+Todavia, vale destacar que "A hipótese tratada na mencionada jurisprudência pressupõe a existência de um ato comissivo para consubstanciar a prescrição do fundo de direito (..)". REsp 1.691.244/RN, Relator Ministro Herman Benjamin, Segunda Turma, DJe 2/8/2018).
+Com efeito, ao entender pela incidência da Súmula 83/STJ ao caso concreto, o Tribunal de Origem salientou que nas hipóteses de omissão da administração quanto ao enquadramento ou reenquadramento, é firme a jurisprudência do STJ no sentido de a prescrição atinge tão-somente as parcelas vencidas anteriores ao quinquênio anterior ao ajuizamento da ação.
+A título ilustrativo: AgInt no AREsp 859.401/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30.8.2016; AgRg no REsp 1.337.789/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 19.4.2016; e AgRg no AREsp 133.913/SP, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 18.3.2013.
+Dessa forma, o agravante não atende ao comando estampado no § 1º do art. 1.021 do CPC/2015: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182 DO STJ. INCIDÊNCIA. 1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, o agravo interno deve infirmar todos os fundamentos da decisão atacada, sob pena de não ser conhecido. 2. Hipótese em que o recorrente, em flagrante desrespeito ao principio da dialeticidade, deixou de impugnar especificamente o fundamento da decisão agravada no sentido de que, à luz da jurisprudência desta Corte, a indisponibilidade de bens pode ser decretada sem a notificação prévia do réu em ação de improbidade administrativa. 3. Se a decisão objurgada está fundamentada no sentido de que o acórdão recorrido destoa do atual entendimento desta Corte Superior sobre a matéria, deveria a parte irresignada demonstrar a existência de posicionamento jurisprudencial diverso, apto a garantir a manutenção da orientação adotada pelo Tribunal a quo. Precedente. 4. Agravo interno não conhecido. (AgInt no AREsp 661.265/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 09/08/2016, DJe 08/09/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE INADMITIU RECURSO ESPECIAL. AGRAVO DO ART. 544 DO CPC/1973. AUSÊNCIA DE ATAQUE ESPECÍFICO. SÚMULA 182/STJ. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. IMPOSSIBILIDADE. PRECEDENTES. 1. O princípio da dialeticidade exige que a interação dos atores processuais se estabeleça mediante diálogo coerente e adequado entre seus interlocutores. 2. Não por outro motivo, o recorrente deve promover o ataque específico de todos os fundamentos da decisão impugnada, cuja reforma pressupõe a apresentação de razões suficientes para demonstrar o desacerto do entendimento perfilhado pelo julgador. Sem o cumprimento desse ônus processual, o recurso nem sequer terá aptidão para promover a alteração por ele buscada. 3. Nas razões do Agravo previsto no art. 544 do CPC/1973, verifica-se que a parte agravante deixou de impugnar a decisão recorrida. 4. É inviável o Agravo em Recurso Especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal a quo para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ. 5. Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial, por ocasião do manejo de Agravo Interno, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. 6. Agravo Interno não provido. (AgInt no AREsp 864.079/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/08/2016, DJe 08/09/2016)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
