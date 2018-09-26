@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto pela Universidade Federal de Goiás, desafiando decisão da Presidência do Tribunal Regional Federal da 1ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) as razões de apelo não foram capazes de indicar com precisão no que consistiu a negativa de vigência da lei federal, situação que atrai a incidência da Súmula 284/STF; (II) quanto ao dissídio jurisprudencial invocado, a recorrente não realizou o cotejo analítico, bem como deixou de indicar fonte oficial do paradigma; (III) não ficou configurada violação ao art. 535 do CPC/73, porquanto a Corte de origem adotou fundamentação suficiente para decidir a controvérsia; e (V) a suscitada violação ao art. 53 da Lei 9.394/96 não foi prequestionada.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, não atacando, de modo específico, a ausência de prequestionamento do art. 53 da Lei 9.394/96.
+Convém ressaltar que, negado o processamento do recurso especial ante a incidência da Súmula 211/STJ, é necessário que as razões do agravo tragam não só o pedido de destrancamento do apelo nobre, mas que demonstrem onde a questão foi tratada na origem.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
