@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal Regional Federal da 2ª Região.
+Consta dos autos que o réu foi condenado à pena de 2 (dois) anos e 2 (dois) meses de reclusão, substituída por 2 (duas) restritivas de direitos, pela prática do crime de contrabando, previsto no art. 334, § 1º, "c", do Código Penal.
+Irresignada a parte e interposto recurso, restou este provido, com absolvição do réu, por acórdão assim ementado (e-STJ, fl. 357):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME DE CONTRABANDO (ART. 334, § 1o, ALÍNEAS "C", "D", DO CP). PARECER DA ABINEE E LAUDO PERICIAL INCONCLUSIVO QUANTO À MARCA E À ORIGEM DOS COMPONENTES ELETRÔNICOS. MATERIALIDADE DELITIVA NÃO DEMONSTRADA. PROVAS INSUFICIENTES DA PROCEDÊNCIA ESTRANGEIRA DAS MÁQUINAS APREENDIDAS. RECURSO PROVIDO.
+I - a prova da origem estrangeira das mercadorias limitou-se ao expediente da ABINEE e ao Laudo de Exame de Material, expedido pelo Instituto de Criminalística Carlos Éboli, que não foi capaz de apontar a marca dos equipamentos, muito menos o seu país de origem;
+II - impossível afirmar que todos os fabricantes de placas-mãe são necessariamente associados à ABINEE, uma vez que, nos termos do art. 5o, XX, da CF/88, "ninguém poderá ser compelido a associar-se ou a permanecer associado."
+III - considerando a possível existência de fabricantes não associados à ABINEE e que, portanto, não constam do seu cadastro, aliado ao fato de que nem mesmo o laudo pericial foi conclusivo quanto à marca ou à origem das máquinas apreendidas, inexiste qualquer elemento hábil a comprovar a materialidade do crime de contrabando na presente hipótese;
+IV - Recurso provido.
+Na petição de recurso especial, a parte recorrente alega negativa de vigência aos arts. 155, 156, 158 e 167, do Código de Processo Penal.
+Afirma que "a tese ora defendida é a de que a caracterização do crime de contrabando tipificado no artigo 334, § Iº, "c" e "d", do Código Penal, cuja materialidade consubstancia-se na exploração de máquinas eletrônicas programadas (MEPs) compostas por peças de origem estrangeira, não pode estar condicionada à menção de dados específicos dos componentes da máquina no laudo pericial. Assim, a ausência da marca do equipamento, bem como da origem, não obsta a condenação."
+Contrarrazões às fls. 380/386.
+Admitido o recurso (fl. 389) os autos vieram a esta Corte.
+Parecer ministerial proferido nos termos da seguinte ementa (e-STJ, fl. 403):
+PENAL. RECURSO ESPECIAL. CONTRABANDO (CP: ART. 334, § 1º, "c" e "d"). APREENSÃO DE MÁQUINAS "CAÇA-NÍQUEIS" EM ESTABELECIMENTO COMERCIAL. PROCEDÊNCIA ESTRANGEIRA COMPROVADA. DOLO CONFIGURADO. Parecer pelo provimento do recurso especial.
+É o relatório. Decido.
+Não merece provimento a pretensão recursal.
+A parte recorrente pleiteia, em suma, que seja restabelecida sentença de condenação do réu, sustentando que a caracterização da materialidade do delito restou comprovada.
+Quanto ao tema, o Tribunal de origem consignou (e-STJ, fl. 354):
+Ocorre que, no presente feito, a prova da origem estrangeira das mercadorias restringiu-se ao expediente da Associação Brasileira da Indústria Elétrica e Eletrônica - ABINEE e aos laudos de exame de material, expedidos pelo Instituto de Criminalística Carlos Éboli, que se limitaram a atestar que "o noteiro, a placa de circuitos integrados e a fonte, dentre outros componentes, apresentam sinais de possuírem procedência estrangeira", não sendo capazes de apontar sequer a marca dos equipamentos, muito menos o país de origem.
+Ora, parece-me impossível afirmar que todos os fabricantes de placas-mãe são necessariamente associados à ABINEE, uma vez que, nos termos do art. 5o, XX, da CF/88, "ninguém poderá ser compelido a associar-se ou a permanecer associado."
+Sendo assim, considerando a possível existência de fabricantes não associados à ABINEE e que, portanto, não constam do seu cadastro, aliado ao fato de que nem mesmo os referidos laudos periciais foram conclusivos quanto à marca ou à origem das máquinas apreendidas, tenho que inexiste qualquer elemento hábil a comprovar a materialidade delitiva em relação aos crimes de contrabando objetos do presente feito.
+Com efeito, o Tribunal de origem entendeu que a materialidade delitiva não restou comprovada nos autos por nenhum elemento hábil, e a modificação desse quadro, na forma pretendida pela parte recorrente, não se poderia fazer sem o reexame do conjunto probatório, aplicando-se, assim, ao caso, o óbice da Súmula n. 7/STJ.
+Ademais, conforme entendimento deste Sodalício, "deve o Ministério Público apontar indícios concretos acerca da origem estrangeira dos equipamentos eletrônicos, bem como da ciência do acusado no tocante à introdução clandestina do produto no país, sendo insuficiente, para tanto, a mera presunção nesse sentido tão somente por ser o proprietário do estabelecimento comercial onde as máquinas foram apreendidas, sob pena de o exercício da acusação se transformar em instrumento de injusta persecução penal estatal." (AgRg no REsp 1228186/ES, Rel. Ministra LAURITA VAZ, Rel. p/ Acórdão Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 25/10/2013)
+Destarte, não merece provimento a pretensão recursal.
+Ante o exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
