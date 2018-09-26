@@ -1,0 +1,66 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ART. 20, §§ 3º E 4º, DO CPC/1973. MAJORAÇÃO DE HONORÁRIOS. EXCEPCIONALIDADE. NÃO OCORRÊNCIA.
+1. A genérica alegação de ofensa ao art. 535 do CPC/1973, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. A orientação da jurisprudência do Superior Tribunal de Justiça é no sentido de que, para o arbitramento da verba honorária, o julgador, na apreciação subjetiva, pode se utilizar de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos no § 3º do art. 20 do CPC/1973.
+3. O arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática, insuscetível de reexame na via especial nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Excepcionalmente, entretanto, entende-se cabível a readequação dos honorários se o valor fixado foi claramente irrisório ou exorbitante (v.g. REsp 1.387.248/SC, Corte Especial, Rel. Ministro Paulo de Tarso Sanseverino, julgado em 7/5/2014, DJe 19/5/2014 - repetitivo).
+5. Vale frisar que, por ocasião do julgamento do AgRg no AREsp 532.550/RJ, realizado pela Segunda Turma na assentada de 2/10/2014, convencionou-se que a desproporção entre o valor da causa e o valor arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente. No caso, não se mostram irrisórios os honorários fixados pelo aresto recorrido.
+6. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por Velloza e Girotto Advogados Associados, desafiando a decisão monocrática de e-STJ, fls. 735/739, por meio da qual não se conheceu do recurso especial do contribuinte, mantendo a verba honorária no montante de R$ 3.000,00 (três mil reais).
+Em suas razões, a agravante argumenta que deve ser afastado o óbice da Súmula 284/STF quanto à alegada ofensa ao art. 535 do CPC/1973, aduzindo que demonstrou de forma clara e objetiva a omissão indicada no acórdão recorrido.
+No mérito, insiste ser irrisório o montante de R$ 3.000,00 (três mil reais), arbitrado a título de honorários advocatícios, o que corresponderia a cerca de 0,38% sobre o valor atualizado da causa.
+Pugna também pelo afastamento da Súmula 7/STJ quanto ao tema, asseverando que a apreciação "do caráter irrisório do valor dos honorários fixados não demanda o reexame de fatos e provas, já que todas as informações necessárias para análise da questão estão devidamente consignadas no acórdão do Tribunal de origem" (e-STJ, fl. 750).
+Acrescenta que a desproporção entre o valor da causa e o valor fixado a título de honorários deve ser aferida através da análise da efetiva complexidade da causa e do trabalho desenvolvido pelo patrono da causa.
+Nesses termos, protesta pelo juízo de retratação ou pelo provimento do agravo interno.
+Sem impugnação ao agravo.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O recurso de agravo que ora se apresenta não merece prosperar.
+Como já registrado na primeira oportunidade, o provimento do recurso especial por contrariedade ao art. 535, II, do CPC/1973 pressupõe que sejam demonstrados, fundamentadamente, entre outros, os seguintes motivos: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma; (d) não há outro fundamento autônomo, suficiente para manter o acórdão.
+Esses requisitos são cumulativos e devem ser abordados de maneira fundamentada na petição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação, dada a generalidade dos argumentos apresentados.
+Com efeito, a recorrente limitou-se a afirmar que o Tribunal a quo não poderia ter se recusado a pronunciar as questões suscitadas nos aclaratórios, sem, contudo, apontar precisamente quais seriam as omissões e de que modo poderiam influenciar no julgamento do acórdão combatido, o que impede o conhecimento do apelo nobre quanto à alegada afronta ao citado dispositivo do novo Código de Ritos.
+A suscitada violação do art. 535 do Código de Processo Civil de 1973 foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A esse respeito, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE DO ESTADO. RECURSO ESPECIAL INTEMPESTIVO. JULGAMENTO DE AGRAVO INTERNO QUE MANTÉM A DECISÃO. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+II - Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/2/2017, DJe 8/3/2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO DEMONSTRAÇÃO DE NENHUM DOS VÍCIOS PREVISTOS NO ART. 1.022 DO NOVO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017)
+Portanto, o recurso especial não merece conhecimento relativamente à suscitada ofensa ao art. 535 do CPC/1973.
+Com relação à fixação dos honorários advocatícios, a orientação da jurisprudência do Superior Tribunal de Justiça é no sentido de que, para o arbitramento da referida verba, o julgador, na apreciação subjetiva, pode utilizar-se de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos nos §§ 3º e 4º do art. 20 do CPC/1973.
+Ademais, o arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial."
+Excepcionalmente, entretanto, entende-se cabível a readequação dos honorários se o valor fixado foi claramente irrisório ou exorbitante (v.g. REsp 1.387.248/SC, Corte Especial, Rel. Ministro Paulo de Tarso Sanseverino, julgado em 7/5/2014, DJe 19/5/2014 - repetitivo).
+Essa possibilidade demanda que o acórdão combatido traga exame de elementos suficientes que possibilitem a aferição da razoabilidade e proporcionalidade na fixação da verba.
+Tal entendimento foi consagrado na Segunda Turma desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. BENS PÚBLICOS. VERBA HONORÁRIA. REVISÃO. IMPOSSIBILIDADE.REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.SÚMULA 7/STJ.
+1. O afastamento excepcional do óbice da Súmula 7/STJ, para permitir a revisão dos honorários advocatícios em sede de recurso especial quando o montante fixado se revelar irrisório ou excessivo, somente pode ser procedido quando o Tribunal a quo expressamente indicar e valorar os critérios delineados nas alíneas "a", "b" e "c" do art. 20, § 3º, do CPC/73, conforme entendimento sufragado no julgamento do AgRg no AREsp 532.550/RJ.
+2. No caso dos autos, houve apenas uma menção genérica dos critérios delineados no art. 20, § 4º, do CPC/73, não sendo possível extrair do julgado uma manifestação valorativa expressa e específica, em relação ao caso concreto, dos referidos critérios para fins de revisão, em sede de recurso especial, do valor fixado a título de honorários advocatícios.
+3. Agravo não provido.
+(AgRg no REsp 1.535.484/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/4/2016, DJe 26/4/2016)
+Na espécie, não se mostram, de plano, irrisórios os honorários advocatícios fixados, pois a Corte estadual estipulou o referido montante com base nos seguintes fundamentos:
+A parcial procedência do agravo de instrumento, a qual reconheceu a prescrição dos créditos tributários e a extinção da execução, implica na condenação do exequente em honorários advocatícios.
+ ..
+Cumpre destacar que a condenação aos honorários advocatícios deve atentar-se para o disposto no art. 20, §§ 3o e 4o, do CPC.
+ ..
+Entretanto, sendo vencida a Fazenda Pública há que se observar o art. 20, § 4o, do CPC, quanto à apreciação equitativa, conforme ensina Leonardo Carneiro da Cunha:
+ ..
+Ante o exposto, ACOLHO os embargos de declaração, para sanar a omissão e condenar o embargado ao pagamento de honorários advocatícios, que fixo em R$ 3.000,00 (três mil reais). (e-STJ, fls. 534/536)
+Por outro lado, reconheço ter lavrado decisões que alteraram a verba honorária quando situada em patamar inferior a 1% (um por cento) do conteúdo econômico da demanda.
+Entretanto, por ocasião do julgamento do AgRg no AREsp 532.550/RJ, Relator p/ acórdão Ministro Herman Benjamin, convencionou-se que a desproporção entre o valor da causa e o arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente.
+Referido entendimento foi ratificado pela Segunda Turma ao analisar o AgRg no REsp 1.441.579/RJ (DJe 22/5/2015), oportunidade em que se assentou as seguintes premissas, de acordo com o voto do Ministro Herman Benjamin:
+a) a regra é a aplicação da Súmula 7/STJ;
+b) excepcionalmente, afasta-se o óbice sumular quando o montante fixado se revelar irrisório ou excessivo, o que somente pode ser feito quando o Tribunal a quo expressamente indicar e valorar os critérios delineados nas alíneas "a", "b" e "c" do art. 20, § 3º, do CPC;
+c) o valor da causa, por si só, não é elemento hábil a propiciar a qualificação do quantum como ínfimo ou abusivo;
+d) não há, à luz do vigente art. 20, §§ 3º e 4º, do CPC, norma que autorize o entendimento segundo o qual o arbitramento da verba honorária abaixo de um determinado parâmetro (percentual ou expressão monetária fixa) automaticamente a qualifique como irrisória.
+Mesmo para o Ministro Mauro Campbell Marques, que possuía voto em sentido contrário e realinhou seu posicionamento, a possibilidade de alteração da verba honorária depende da descrição das premissas fáticas no aresto impugnado:
+Ressalva do ponto de vista do Relator, que entende caracterizada afronta ao art. 20 do CPC quando há manifesta discrepância entre o conteúdo econômico da causa (geralmente expressado em seu valor) e o valor fixado a título de verba honorária, desde que tal peculiaridade esteja delineada no acórdão recorrido,  ou seja, "quando delineadas concretamente no acórdão recorrido as circunstâncias a que se refere o art. 20, § 3º, do CPC" (REsp 1.097.727/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 23/04/2009, DJe 13/05/2009), de modo que, nesta situação, justifica-se, excepcionalmente, o afastamento do óbice previsto na Súmula 7/STJ.
+Em suma, a análise das circunstâncias adstritas ao caso concreto compete às instâncias de origem, não podendo ser objeto de recurso especial, em homenagem à mencionada vedação da Súmula 7/STJ.
+Assim, como visto, não se afigura hipótese em que se deva flexibilizar o apontado óbice de conhecimento.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
