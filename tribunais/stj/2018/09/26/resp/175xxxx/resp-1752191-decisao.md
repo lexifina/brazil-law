@@ -1,0 +1,26 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. ARRENDAMENTO MERCANTIL. ALEGAÇÃO DE EXIGÊNCIA DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA PARA A PURGAÇÃO DA MORA SOMENTE A PARTIR DA VIGÊNCIA DA LEI 13.043/2014. FALTA DE PREQUESTIONAMENTO DA MATÉRIA. SÚMULAS 282 E 356 DO STF E 211 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+BRADESCO LEASING S/A (BRADESCO) ajuizou ação de reintegração de posse em desfavor de AUTO POSTO RAVELLO LTDA. - ME (POSTO), que foi julgada procedente para reintegrar os bens litigiosos na posse e na propriedade do autor (e-STJ, fls. 116/118).
+Irresignado, POSTO interpôs apelação, que foi desprovida pelo Tribunal de origem em acórdão assim ementado:
+ARRENDAMENTO MERCANTIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. EMENDA DA MORA MEDIANTE O DEPÓSITO DAS PRESTAÇÕES VENCIDAS. INADMISSIBILIDADE. NECESSIDADE DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA. PROCEDÊNCIA MANTIDA. ELEVAÇÃO DA VERBA HONORÁRIA EM VIRTUDE DE ATUAÇÃO RECURSAL. RECURSO IMPROVIDO, COM OBSERVAÇÃO. 1. Em razão da aplicação analógica da legislação que regula o instituto da alienação fiduciária e, segundo a orientação ditada em decisão proferida pelo C. Superior Tribunal de Justiça, com caráter repetitivo, a expressão "pagamento da integralidade da dívida pendente", constante do artigo 3º, § 2º, do Decreto-Lei nº 911/69, com a redação determinada pela Lei nº 10.931/04, deve ser entendida como os valores apresentados e comprovados pela credora na inicial. 2. No caso, constatando-se a insuficiência do depósito para a emenda da mora, porque não foram incluídas as prestações vincendas, de rigor a procedência da pretensão. 2. Diante desse resultado e nos termos do artigo 85, § 11, do CPC, eleva-se o valor da verba honorária a R$ 1.700,00. (e-STJ, fl. 140).
+Inconformado, POSTO interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, apontando a violação ao art. 401, I, do Código Civil, por reputar que houve a purgação da mora à luz dos critérios vigentes à época da celebração do contrato, de modo que não se aplica a exigência superveniente de pagamento integral da dívida para a sua ocorrência, instituída pela Lei 13.043/2014.
+Em juízo de admissibilidade, a Presidência da Seção de Direito Privado do Tribunal estadual admitiu o recurso (e-STJ, fls. 183/184).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O recorrente considerou que não se aplica a exigência superveniente de pagamento integral da dívida para a purgação da mora instituída pela Lei 13.043/2014.
+A Corte de origem, ao apreciar a a questão de fundo, destacou o seguinte:
+2. As partes realizaram um contrato de arrendamento mercantil e, diante da inadimplência do demandado, que foi devidamente notificado e deixou escoar a oportunidade para emendar a mora, ocorreu a propositura desta ação de reintegração de posse. Deferida a liminar, o réu efetuou depósito no valor de R$ 8.100,46, tendo a sentença reconhecido a procedência da pretensão.
+Inicialmente, impõe-se ressalvar que a respeito da possibilidade de o devedor fiduciante fazer restabelecer o contrato mediante o pagamento das prestações vencidas, tem-se que o C. Superior Tribunal de Justiça, ao realizar o julgamento do Recurso Especial nº 1.418.593, com caráter repetitivo, sendo Relator o Ministro Luís Felipe Salomão, reconheceu a impossibilidade de ser admitida a emenda da mora apenas mediante o depósito das prestações vencidas, nos termos seguintes:
+(..)
+E a orientação da jurisprudência do C. Superior Tribunal de Justiça, também, é no sentido de que essa mesma solução se aplica aos contratos de arrendamento mercantil.
+Diante disso, impõe-se admitir que o arrendatário pode reaver os bens, mas isto mediante a efetivação do depósito da integralidade da dívida pendente, ou seja, das prestações vencidas e vincendas, o que não ocorreu.
+No caso, observando-se a conduta processual do demandado conclui-se que o depósito realizado foi insuficiente para ensejar a emenda da mora, porque não foram incluídas as prestações vincendas.
+Enfim, não comporta acolhimento o inconformismo, devendo prevalecer a solução adotada pela r. sentença. (e-STJ, fls. 141/142).
+O Tribunal de origem não chegou a se manifestar acerca da negativa de aplicação da exigência superveniente de pagamento integral da dívida para a purgação da mora instituída pela Lei 13.043/2014.
+Portanto, o tema, da forma como apresentado, carece do devido prequestionamento, trazendo à incidência o teor das Súmulas nºs 282 e 356 do STF e 211 do STJ.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito a multa (art. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
