@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Seção 4.1.2 do Quarto Departamento de Inquéritos Policiais e Polícia Judiciária (DIPO 4) do Foro Central Criminal da Barra Funda, Comarca de São Paulo/SP, no processo nº 0077744-96.2015.8.26.0050, alusivo à suposta prática da infração descrita no artigo 33, cabeça (tráfico de entorpecentes), da Lei nº 11.343/2006, concedeu, em audiência de custódia, a liberdade provisória à paciente, condicionada à proibição de ausentar-se, sem autorização judicial, da Comarca e de outras contíguas.
+    A Terceira Câmara de Direito Criminal do Tribunal local deu provimento ao recurso em sentido estrito formalizado pelo Ministério Público para determinar a prisão preventiva. Realçou existentes materialidade e indícios de autoria do delito, mencionando as informações do relatório policial por meio das quais revelado que a paciente foi vista entregando objetos a algumas pessoas em troca de dinheiro e que, na abordagem, foram apreendidas 10 porções de crack, pesando 3,1 gramas. Sublinhou o descumprimento das condições fixadas para a concessão da liberdade provisória, dizendo que não foi encontrada no endereço fornecido nem compareceu em Juízo após publicação de edital visando a apresentação de resposta escrita, nos termos do artigo 55 da Lei nº 11.343/2006. Frisou necessária a custódia para garantir a ordem pública, a aplicação da lei penal e a instrução processual.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 468.677, no âmbito do qual indeferida a liminar.
+    A Defensoria Pública do Estado de São Paulo aduz ser o caso de superação do verbete nº 691 da Súmula do Supremo. Articula com as condições pessoais favoráveis da paciente – primariedade, bons antecedentes e idade de 60 anos. Ressalta a pequena quantidade de droga apreendida. Destaca a natureza excepcional da prisão preventiva, afirmando suficiente a imposição de medida diversa.
+    Requer, no campo precário e efêmero, o afastamento da preventiva, com expedição de contramandado de prisão. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal estadual, realizada em 24 de setembro último, revelou ter sido a denúncia recebida, no dia 5 de maio de 2016, pelo Juízo da Décima Sétima Vara Criminal da Comarca de São Paulo/SP, seguindo-se à suspensão do processo-crime, considerado o artigo 366 do Código de Processo Penal. Não consta notícia sobre o cumprimento ou não do mandado de prisão.
+    A etapa é de apreciação da medida acauteladora.
+    2. Observem os contornos da impetração. Num primeiro passo, o Juízo, em audiência de custódia, afastou a prisão, reportando-se às condições favoráveis da paciente – primariedade, bons antecedentes e idade próxima de 60 anos –, no que deferida a liberdade provisória com a fixação de condições. O Tribunal de Justiça, no recurso em sentido estrito nº 0025910-83.2017.8.26.0050, ao acolher requerimento do Ministério Público, revogou o benefício e determinou a preventiva, por não haver sido encontrada no endereço que forneceu ao Juízo, nem atendido à intimação por edital para apresentação de resposta. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante o descumprimento das exigências impostas quando preservada a liberdade. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. O curso deste habeas não prejudica o de nº 468.677/SP, em tramitação no Superior Tribunal de Justiça. Com as homenagens merecidas, remetam cópia desta decisão ao relator, ministro Ribeiro Dantas.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 26 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
