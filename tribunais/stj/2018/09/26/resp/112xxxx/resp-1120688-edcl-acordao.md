@@ -1,0 +1,46 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PRETENSÃO DE REDISCUSSÃO DE MATÉRIAS JÁ DECIDIDAS. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INTUITO MANIFESTAMENTE PROTELATÓRIO. EMBARGOS REJEITADOS COM APLICAÇÃO DE MULTA.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição com o objetivo de rediscutir o mérito da questão.
+2. A oposição de novos embargos de declaração reiterando alegações já rejeitadas em embargos anteriores evidencia o caráter manifestamente protelatório, a ensejar a aplicação da multa prevista no art. 1.026, §2º, do CPC/2015.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO)(Relator):
+Trata-se de segundos embargos de declaração opostos por DISTRIBUIDORA DE BEBIDAS FATH e OUTROS contra acórdão da c. Quarta Turma do Superior Tribunal de Justiça, desta Relatoria, assim ementado:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados." (fl. 1216)
+Nas razões dos aclaratórios, o embargante insiste na existência de omissão no acórdão recorrido quanto "ausência de manifestação sobre as omissões descritas às fls. 1.192-1.193 do anterior embargos de declaração - i. erro material; ii. afirmações do acórdão; iii. moradia afirmada pelo acórdão; iv. Inadmissibilidade do agravo interno; v. agravo interno que inova no processo" (fl. 1227).
+Requer, ao final, a atribuição de efeitos infringentes (fls. 1219-1228).
+Apresentada impugnação às fls. 1232-1237.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO)(Relator):
+Não se verifica a existência dos alegados vícios no acórdão recorrido, consoante se extrai dos fundamentos do acórdão embargado, verbis:
+"As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Com efeito, quanto aos requisitos para o reconhecimento da impenhorabilidade do imóvel, o acórdão recorrido consignou:
+"Consoante entendimento consolidado nesta Corte Superior, somente é possível afastar a impenhorabilidade de bem de família hipotecado com base no art. 3º, V, da Lei 8.009/90, quando a garantia foi prestada em benefício da própria entidade familiar, e não para assegurar empréstimo obtido por terceiro, ressalvada a hipótese em que o imóvel foi dado em garantia hipotecária de "dívida contraída em favor de pessoa jurídica da qual são únicos sócios os cônjuges, proprietários do imóvel, pois o benefício gerado aos integrantes da família nesse caso é presumido" (AgRg no AREsp 848.498/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/08/2016, DJe de 1º/09/2016).
+Ocorre que, na presente hipótese, o imóvel oferecido como garantia hipotecária de dívida, e que se pretende ver reconhecida a impenhorabilidade prevista na Lei 8.009/90, foi alienado a terceira pessoa, conforme afirmam os próprios recorrentes, nas razões do recurso especial, que "o imóvel em balda pertence a terceiro estranho a relação processual" (fl. 509).
+Este fato é confirmado, expressamente, nas razões do presente agravo interno, em que os agravantes afirmam "ter sido alienado o imóvel" (fl. 1.153).
+No entanto, insistem os agravantes em sustentar a impenhorabilidade do imóvel, nos termos dos arts. 1º e 3º, V, da Lei 8.009/90.
+Consoante exposto na decisão agravada, nos termos do art. 1º da Lei 8.009/90, somente o bem imóvel próprio do casal é impenhorável e não responderá por dívidas contraídas por seus proprietários, não sendo, portanto, cabível a pretensão dos ora agravantes de afastar a penhora sobre o imóvel que pertence a terceiro, não integrante da entidade familiar." (fl. 1.179)
+Nesse contexto, verifica-se a inexistência da alegada omissão.
+Cabe ressaltar que os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide." (fls. 1211 - 1212)
+Nesse contexto, não se verifica a ocorrência das alegadas omissões, erro material ou falta de fundamentação no acórdão recorrido. Assim, o mero inconformismo com a decisão embargada na busca de se rediscutir o mérito do julgado, não autoriza a oposição de embargos de declaração.
+Ademais, a oposição dos segundos aclaratórios, reiterando alegações já rejeitadas em embargos anteriores evidencia o caráter manifestamente protelatório, a ensejar a aplicação da multa prevista no art. 1.026, §2º, do CPC/2015.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. MOMENTO. INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO CPC. VÍCIO GRAVE. ART. 932, PARÁGRAFO ÚNICO, DO CPC. INAPLICABILIDADE EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. PRETENSÃO DE REDISCUSSÃO. MULTA. ART. 1.026, § 2º, DO CPC.
+1. Para fins de verificação da tempestividade do recurso, a parte deverá comprovar a ocorrência de feriado local no momento de sua interposição, como determina o artigo 1.003, § 6º, do Código de Processo Civil, não se aplicando as disposições do artigo 932, parágrafo único, por ser a intempestividade vício de natureza grave.
+Precedente da Corte Especial.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. A tentativa de alterar os fundamentos da decisão embargada, com vistas a obter decisão mais favorável aos seus interesses, demonstra o intuito procrastinatório da parte, o que enseja a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+4. Embargos de declaração rejeitados, com aplicação de multa." (EDcl no AgInt no AREsp 978.277/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/05/2018, DJe 01/06/2018, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO O RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. PROMESSA DE COMPRA E VENDA. IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. CLÁSULA PENAL. INVERSÃO EM FAVOR DO PROMISSÁRIO COMPRADOR. TEMA JURÍDICO SUBMETIDO AO RITO DOS RECURSOS REPETITIVOS. SOBRESTAMENTO. NÃO APLICAÇÃO. NOVA FIXAÇÃO DA MULTA IMPOSTA. INCIDÊNCIA DO ART. 1.026, § 2º, DO NCPC. RECURSO PARCIALMENTE PROVIDO.
+1. Aplicabilidade do NCPC ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. A jurisprudência do STJ firmou o entendimento de que a afetação de determinado recurso ao rito dos recursos repetitivos, nos termos do art. 543-C do CPC/73, não implica a suspensão ou sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas apenas as em trâmite nos Tribunais de origem (AgRg no AREsp nº 741.850/SP, de minha relatoria, Terceira Turma, j. 21/2/2017, DJe 9/3/2017).
+3. A teor do que dispõe o art. 1026, § 2º, do NCPC, quando manifestamente protelatórios, os embargos de declaração, o juiz ou o Tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a 2% sobre o valor atualizado da causa.
+4. Rejeitados os anteriores embargos de declaração, deve ser a ele imposta a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Agravo interno parcialmente provido." (AgInt nos EDcl no REsp 1664564/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+Diante do exposto, rejeito os embargos declaratórios, condenando os embargantes a pagar ao embargado multa de 1% (um por cento) do valor atualizado da causa.
+É como voto.
