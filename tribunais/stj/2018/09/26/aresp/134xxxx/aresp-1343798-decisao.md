@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Município de Coremas contra decisão que não admitiu o recurso especial com base no óbice da Súmula 7 do STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fls. 233-234):
+APELAÇÃO CÍVEL. AÇÃO DE MANUTENÇÃO DE POSSE C/C REPARAÇÃO POR DANOS MORAIS E MATERIAIS. IMPROCEDÊNCIA DO PEDIDO. IRRESIGNAÇÃO. DOAÇÃO DO IMÓVEL PÚBLICO AO AUTOR PELO MUNICÍPIO. LEI DECLARADA INCONSTITUCIONAL. ATO IMPRESTÁVEL PARA PERMITIR A AQUISIÇÃO DA POSSE DO TERRENO PELO PROMOVENTE. OCUPAÇÃO IRREGULAR. DESTRUIÇÃO DE CERCA DO IMÓVEL ANTERIOR A DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI DE DOAÇÃO. EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES. AUSÊNCIA DE OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. ATO ILÍCITO CONFIGURADO. RESPONSABILIDADE. DANOS MORAIS. CABIMENTO. ABALO PSÍQUICO. VALOR RAZOÁVEL E PROPORCIONAL. DANOS MATERIAIS. DESCABIMENTO. INEXISTÊNCIA DE COMPROVAÇÃO DO EFETIVO PREJUÍZO. PROVIMENTO PARCIAL DO APELO.
+- Reconhecido o vício no instrumento legal responsável pela doação (Lei nº 69/2012), temos que o ato em si, igualmente, restou viciado, sendo, portanto, imprestável para permitir a aquisição da posse do terreno pelo Autor, ora Apelante.
+- Conquanto se demonstre possível doar imóvel público desafetado a particular, no caso dos autos, todavia doação deixou de observar algumas formalidades, essenciais para a legalidade do negócio (desrespeito ao princípio da impessoalidade e não realização de prévia avaliação do imóvel), o que, indubitavelmente, desencadeou a declaração de inconstitucionalidade da Lei 69/2012, ato responsável por efetuá-la.
+- Considerando que, à época dos fatos, inexistia declaração de inconstitucionalidade da lei de doação, caberia ao Poder Público observar o devido processo legal para reaver o imóvel, sendo, portanto, antijurídica a conduta da Administração que atuou no exercício arbitrário das próprias razões ao invadir o bem e demolir as demarcações.
+- Além disso, impende destacar que a destruição e retomada do imóvel sem a utilização das vias judiciárias não pode ser considerado regular exercício do poder de polícia, já que a Administração está sujeita ao devido processo legal, sendo possível apenas a auto-executoriedade dos atos administrativos, quando há expressa previsão legal.
+- Para a caracterização do dano moral é suficiente a demonstração de uma situação que inflija no autor uma dor profunda, e não um mero dissabor. Sem dúvida alguma, é inegável a dor e o sofrimento suportado pela parte ao ver destruido um patrimônio, de forma arbitrária e ilegal.
+-O valor dos danos morais deve ser arbitrado com observância ao princípio da razoabilidade, sendo apto a reparar o dano causado ao ofendido e, ao mesmo tempo, servir de exemplo para inibição de futuras condutas nocivas.
+- Os danos materiais não se presumem, nem podem ser imaginários, de forma que o autor deve demonstrar o real prejuízo financeiro suportado, trazendo provas concretas aos autos, não bastando meras alegações.
+- Para a comprovação de prejuízo de ordem material, há a necessidade de prova idônea a possibilitar a realização de um juízo cognitivo de certeza acerca da exata extensão e efetiva ocorrência dos danos alegados, sob pena de indeferimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 266-271).
+O recorrente alega violação dos arts. 186 e 927 do Código Civil, porquanto não houve qualquer agressão moral a justificar uma condenação em indenização por danos morais.
+Afirma que se trata de mero aborrecimento da vida cotidiana.
+Ressalta, ainda, que o pagamento de dano moral acarretará em enriquecimento ilícito da parte recorrida, com fundamento no art. 884 do Código Civil.
+É o relatório.
+Quanto à responsabilidade do ente estatal, o Tribunal de origem, com base nos documentos dos autos, entendeu que (e-STJ, fls. 243-246):
+Impende destacar que a destruição e retomada do imóvel sem a utilização das vias judiciárias não pode ser considerado regular exercício do poder de polícia, já que a Administração está sujeita ao devido processo legal, sendo possível apenas a auto-executoriedade dos atos administrativos, quando há expressa previsão legal.
+Dito isso, entendo que restou configurado ato ilícito praticado pela recorrente, consistente em conduta comissiva.
+O nexo causal também encontra-se presente, porquanto o dano sofrido decorreu diretamente da conduta ilícita da parte promovida, ao realizar a destruição das demarcações sem a devida anulação do ato de doação.
+Dessa forma, resta patente a responsabilidade civil do Ente Municipal, de acordo com os fatos e provas coligidas ao encarte processual, embora a posse não seja protegida pelo interdito possessório.
+ ..
+No caso, para a caracterização do dano moral, é suficiente a demonstração de uma situação que inflija no autor uma dor profunda, e não um mero dissabor. Sem dúvida alguma, é o caso dos presentes autos, uma vez que é inegável a dor e o sofrimento suportado pelo promovente ao ver destruído um patrimônio, de forma arbitrária e ilegal. - grifos acrescidos
+Da leitura do acórdão recorrido dessume-se que a Corte local firmou seu entendimento com base nas provas dos autos, assim, a revisão do julgado implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7 do STJ.
+De outro lado, a matéria referente ao art. 884 do Código Civil não foi objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 211 desta Corte e 282 do Supremo Tribunal Federal.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
