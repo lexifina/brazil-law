@@ -1,0 +1,39 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão, ou erro material da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de embargos de declaração opostos por Rumo S/A e Rumo - Malha Sul S/A (novas denominações de ALL América Latina Logística S/A e de ALL América Latina Logística Malha Sul S/A), em face de acórdão assim ementado (fls. 1269/1270):
+RECURSO FUNDADO NO CPC/73. ADMINISTRATIVO. PROCESSUAL CIVIL. JULGAMENTO EXTRA PETITA. QUESTÃO NÃO EXAMINADA NA INSTÂNCIA ORDINÁRIA, APESAR DE OPOSTOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. EXIGÊNCIA DE EMISSÃO DE JUÍZO DE VALOR SOBRE A TESE. PREQUESTIONAMENTO FICTO. INADMISSIBILIDADE. PRECEDENTE.
+1. Publicado o acórdão recorrido ainda na vigência do CPC/73, deve ser observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+2. O Tribunal de origem não examinou a controvérsia sob o enfoque dos arts. 128, 286, 287, 288, 289, 460 e 514, II e III do CPC/73, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC/73, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+3. O prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, a menção pela Corte de origem de que dá por prequestionado o dispositivo legal suscitado pelo embargante.
+4. Esta Corte não admite o chamado "prequestionamento ficto", que ocorreria com a mera oposição de aclaratórios, sem que o Tribunal de origem tenha efetivamente emitido juízo de valor sobre as teses debatidas. Precedente: AgInt no REsp 1.409.731/AP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/10/2017, DJe 07/11/2017.
+5. Agravo interno desprovido.
+O embargante aponta omissão no acórdão recorrido, argumentando que a questão do prequestionamento não foi apreciada "SOB A ÓTICA DOS PRINCÍPIOS DA BOA-FÉ, DA CONFIANÇA E DA ISONOMIA" (fl. 1282). Argumenta que o provimento dos embargos de declaração opostos perante o Tribunal a quo gerou expectativa de preenchimento do requisito do prequestionamento. Alega, ainda, que o acórdão ora embargado se mostra obscuro, na medida em que transcreve trecho do acórdão proferido pelo TRF da 4ª Região, no qual ficou consignada a ausência de contrariedade dos dispositivos apontados na petição dos aclaratórios.
+Pugna pelo acolhimento dos embargos de declaração, a fim de que seja aplicada a aludida sanção em desfavor da parte ora embargada.
+A parte embargada não apresentou impugnação (fl. 1294).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou consignado no acórdão embargado que a ausência de manifestação do Tribunal a quo sobre os dispositivos apontados como violados implica a incidência da Súmula 211/STJ, ante o não preenchimento do requisito do prequestionamento.
+De outro turno, a fundamentação adotada no julgamento do agravo interno é clara ao explicitar que, embora a Corte regional tenha consignado que "o acórdão embargado não contrariou e/ou negou vigência aos dispositivos descritos no relatório supra. " (fls. 970/971), "Não analisou, todavia, o cerne da questão referente ao alegado julgamento extra petita, de modo que se mostra inafastável o óbice da Súmula 211/STJ." (fl. 1274).
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É o voto.
