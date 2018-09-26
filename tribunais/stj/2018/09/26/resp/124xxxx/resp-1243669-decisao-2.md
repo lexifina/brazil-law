@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por BANCO DO BRASIL S/A, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+"ADMINISTRATIVO. CÉDULA RURAL PIGNORATÍCIA E HIPOTECÁRIA. AÇÃO ANULATÓRIA. PROCEDÊNCIA DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. A autora pretende anular a hipoteca vinculada a cédulas de crédito rural emitidas por seu filho para tomada de financiamento agrícola (fls. 37/54).
+Preliminares
+Impossibilidade Jurídica do Pedido e Preclusão
+Não há vedação legal a que se discuta regularidade de hipoteca por meio de ação autônoma.
+Além disso, não há que se confundir embargos de devedor, que visam a extinguir o processo de execução ou a desfazer a eficácia do titulo executivo, com a ação anulatória de hipoteca. Assim, o fato de não se ter discutido a nulidade das garantias na ação de embargos à execução, não obsta a que se adote tal providência pela via de uma ação autônoma.
+Ilegitimidade Passiva
+O Banco do Brasil é legitimado para responder à ação, porquanto não se está, no feito, a discutir a dívida em si, mas sim as garantias hipotecárias incidentes sobre o imóvel pertencente à autora.
+Tempestividade da Contestação da Fazenda Nacional
+É tempestiva a contestação apresentada pela Fazenda Nacional em 09/02/09, porquanto há que ser considerada, na contagem do prazo, a suspensão do curso decorrente do período de recesso da Justiça Federal (21/12 a 06/01), de acordo com o artigo 179, do CPC (TRF/4ª, AC nº 2003.72.04.001617-8, D.E. 11/07/2008).
+Sobre o mérito, é de se acolher a pretensão da parte autora, com fundamento no voto vencedor proferido no julgamento do REsp 599.545/SP (STJ, Terceira Turma, DJ 25/10/2007, p. 166), verbis:
+Não há ofensa ao Art. 535 do CPC se, embora rejeitando os embargos de declaração, o acórdão recorrido examinou todas as questões pertinentes.
+O § 2º, do Art. 60, do DL 167/67 não foi objeto de debate no acórdão recorrido. Falta o prequestionamento. Incidem as Súmulas 282/STF e 21l/STJ.
+A MM Juíza de Primeira Instância rejeitou a exceção de pré-executividade com os seguintes fundamentos:
+"Sustentam os co-executados [NOME] e [NOME] que, em razão do que dispõe os parágrafos 2º e 3º do artigo 60 do referido decreto-lei, seria nula a garantia por eles prestada, uma vez que somente pessoas físicas participantes da empresa emitente do título, ou outras pessoas jurídicas, poderiam fazê-lo. Afora discussões acerca da aplicação do § 3º do referido dispositivo à relação jurídica havida entre as partes, é indubitável que, de qualquer forma, a norma em questão refere-se à hipótese em que a cédula rural tenha sido emitida por pessoa jurídica, o que não é o caso dos autos, em que pessoa natural ([NOME]) emitiu o título em que se arrima a demanda executiva (fls. 17/19), descartando-se, por conseqüência alegação de nulidade, ao menos por esse motivo, da garantia prestada."(fl. 19).
+O Tribunal a quo manteve a decisão com a simples afirmação de que "a cédula rural foi emitida por pessoa física. E a regra legal invocada fala expressamente em empresa, não se enquadrando a espécie na hipótese legal."(fl. 78).
+Eis o teor do § 3º, do Art. 60, do DL 167/67:
+"§ 3 º Também são nulas quaisquer outras garantias, reais ou pessoais, salvo quando prestadas pelas pessoas físicas participantes da empresa emitente, por esta ou por outras pessoas jurídicas. (Incluído pela Lei nº 6.754, de 17.12.1979)"
+A regra é a nulidade de quaisquer outras garantias, reais ou pessoais prestadas na cédula rural hipotecária, além da oferecida pelo emitente. Serão válidas apenas aquelas prestadas por pessoas físicas participantes da empresa sacadora, pela própria pessoa jurídica emitente ou por outras empresas.
+Portanto, são nulas as garantias, reais ou pessoais, prestadas por terceiros cm cédula rural hipotecária sacada por pessoa física (DL 167/67; Art. 60, § 3o).
+É nesse sentido o REsp 232.723/SP, onde o e. Relator, Ministro Ruy Rosado, afirmou:
+"A idéia que extraio do parágrafo 3º do art. 60, lido no seu contexto, é a de que a cédula de crédito rural hipotecária ou pignoratícia, isto é, essas que têm uma garantia real, não podem ter outra garantia senão aquelas oferecidas pelo seu emitente. Fica ressalvada a hipótese de a cédula ter sido emitida por empresa, quando se admite a garantia dos seus sócios, ou por outra pessoa jurídica" (fl. 120).
+No que concerne aos honorários, impõe-se o provimento do apelo, com base no art. 20, §§ 3º e 4º, do CPC, fixando-os em dez mil reais (R$ 10.000,00), em razão da qualidade do trabalho forense apresentado.
+2. Agravos a que se nega provimento" (fls. 1.069/1.071e).
+Alega-se, nas razões do Recurso Especial, além de divergência jurisprudencial, ofensa aos artigos 458, II, 535 e 745, V, do CPC/73, 14 da Resolução BACEN 2238/96, 1.069 e 1.072 do Código Civil/1916, 290 e 294 do Código Civil/2002, 11, 17, 60, 68 e 69 do Decreto-lei 167/67. Aponta omissão no acórdão recorrido sobre as teses de preclusão, de ilegitimidade do Recorrente em relação a contratos de securitização e os dispositivos de lei federal que buscou prequestionar com a oposição dos embargos de declaração.
+Defende a ilegitimidade do Banco do Brasil para figurar no polo passivo de ação em que se discute créditos rurais securitizados e cedidos à União Federal. Argui, ainda, preclusão e coisa julgada sobre a validade das garantias. Argumenta, ainda, ser válida a garantia prestada por Terceiros em Cédulas Rurais.
+Requer, por fim, seja acolhida a preliminar apontada e, no mérito, mantida a garantia hipotecária prestada.
+Em sede de contrarrazões (fls. 1.203/1.208e), a parte recorrida requer a manutenção do acórdão recorrido.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 1.227/1.230e).
+A insurgência merece prosperar, em parte.
+Inicialmente, ressalto que o Recurso Especial tem por objetivo o controle de ofensa à legislação federal, e, por isso, não cabe a esta Corte a análise de suposta violação de portarias, instruções normativas, resoluções, regimentos internos dos tribunais ou súmulas.
+Em relação aos artigos 458 e 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Acerca da legitimidade passiva do Banco do Brasil Corte de origem, ao analisar a controvérsia, asseverou que "o Banco do Brasil é legitimado para responder à ação, porquanto não se está, no feito, a discutir a dívida em si, mas sim as garantias hipotecárias incidentes sobre o imóvel pertencente à autora" (fl. 1.064e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+De outro lado, a Corte de origem, ao analisar a controvérsia, asseverou que "não há vedação legal a que se discuta regularidade de hipoteca por meio de ação autônoma", "além disso, não há que se confundir embargos do devedor, que visam extinguir o processo de execução ou a desfazer a eficácia do título executivo, com a ação anulatória de hipoteca", "o fato de não se ter discutido a nulidade das garantias na ação de embargos à execução, não obsta a que se adote tal providência pela via de uma ação autônoma" (fl. 1.064e).
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Quanto à validade da garantia, a Corte de origem asseverou que:
+"Sobre o mérito, é de se acolher a pretensão da parte autora, com fundamento no voto vencedor proferido no julgamento do REsp 599.545/SP (STJ, Terceira Turma, DJ 25/10/2007, p. 166), verbis:
+(..)
+A regra é a nulidade de quaisquer outras garantias, reais ou pessoais prestadas na cédula rural hipotecária, além da oferecida pelo emitente. Serão válidas apenas aquelas prestadas por pessoas físicas participantes da empresa sacadora, pela própria pessoa jurídica emitente ou por outras empresas.
+Portanto, são nulas as garantias, reais ou pessoais, prestadas por terceiros em cédula rural hipotecária sacada por pessoa física (DL 167/67; Art. 60, § 3º).
+É nesse sentido o REsp 232.723/SP, onde o Relator, Ministro Ruy Rosado, afirmou:
+"A ideia que extraio do parágrafo 3º do art. 60, lido no seu contexto, é a de que a cédula de crédito rural hipotecária ou pignoratícia, isto é, essas que têm uma garantia real, não podem ter outra garantia senão aquelas oferecidas pelo seu emitente. Fica ressalvada a hipótese de a cédula ter sido emitida por empresa, quando se admite a garantia dos seus sócios, ou por outra pessoa jurídica." (fl. 120)" (fl. 1.066e).
+Observa-se que o Tribunal a quo destoou da jurisprudência desta Corte, a qual admite a garantia prestada por terceiro pessoa física, diante do entendimento de que o artigo 60, § 3º, do Decreto-Lei 167/67 não alcança as cédulas de crédito rural.
+Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO RURAL EMITIDA POR PESSOA FÍSICA. GARANTIA DE AVAL PRESTADA POR TERCEIRO PESSOA FÍSICA. VALIDADE. ART. 60, § 3º, DO DECRETO-LEI N. 167/1967. INAPLICABILIDADE ÀS CÉDULAS DE CRÉDITO RURAL. LEGITIMIDADE PASSIVA DOS AVALISTAS.
+1. A vedação contida no art. 60, § 3º, do Decreto-Lei n. 167/1967 ("São nulas quaisquer outras garantias, reais ou pessoais, salvo quando prestadas pelas pessoas físicas participantes da empresa emitente, por esta ou por outras pessoas jurídicas") não alcança as cédulas de crédito rural, sendo aplicável apenas às notas e duplicatas rurais.
+2. É válido o aval prestado por terceiro pessoa física em cédula de crédito rural emitida por pessoa física.
+3. É parte legítima para figurar no polo passivo de ação de execução de título extrajudicial terceiro pessoa física que presta aval em cédula de crédito rural emitida por pessoa física.
+4. Agravo regimental desprovido" (STJ AgRg no AREsp 721.632/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 01/12/2015, DJe 09/12/2015).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA E HIPOTECÁRIA. EMITENTE. PESSOA FÍSICA. TERCEIRO GARANTIDOR.
+1. O STJ possui entendimento assente no sentido de que a melhor interpretação do art. 60 do DL 167/67 não inclui as cédulas de crédito rural no rol de nulidades das garantias, mas apenas as notas e duplicatas rurais.
+2. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 470.759/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe 10/08/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao Recurso Especial, para julgar improcedentes os pedidos iniciais, invertendo os ônus sucumbenciais.
+I.
