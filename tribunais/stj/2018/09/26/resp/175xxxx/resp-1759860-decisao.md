@@ -1,0 +1,6 @@
+DECISÃO
+O Superior Tribunal de Justiça, no bojo do REsp 1.643.873/SP, da relatoria do Min. Og Fernandes, submeteu à Primeira Seção do STJ a seguinte questão:
+Competência para processo e julgamento de demandas com pedidos ilíquidos em face da massa falida: se é competente o juízo no qual se processa o feito falimentar, ou o juízo cível em que inicialmente proposta a ação de conhecimento apropriada.
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos na Corte de origem e que tratem da mesma questão central fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista nos parágrafos sétimo e oitavo do art. 543-C do CPC (art. 5º, III, da Resolução 8/2008-STJ).
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que após a publicação do acórdão a ser proferido no recurso representativo da controvérsia (Resp n. 1.643.873/SP), o apelo especial: a) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 543-C, § 7º, I e II).
+Publique-se. Intimem-se.
