@@ -1,0 +1,62 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. Ministro MARCO BUZZI - Relator: Cuida-se de embargos de declaração, opostos por DIRECIONAL ENGENHARIA S/A, contra o acórdão de fls. 587/588, e-STJ, de relatoria deste signatário, que negou provimento ao agravo interno apresentado pela ora insurgente.
+O aresto em questão está assim ementado (fl. 587, e-STJ):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Alterar as premissas adotadas pelo decisum atacado, no tocante à responsabilidade civil da recorrente pelo atraso na entrega do imóvel, demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, providências inviáveis em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+2. Na hipótese, o Tribunal local seguiu orientação desta Corte no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83 do STJ.
+3. Incide o óbice da Súmula 284/STF na hipótese em que a parte recorrente deixa de apontar os dispositivos de lei federal tidos por violados ou objeto de interpretação divergente, bem como de informar de que modo a legislação federal foi violada ou teve negada sua aplicação.
+4. Agravo interno desprovido.
+Inconformada, a insurgente opôs embargos de declaração (fls. 592/615, e-STJ), alegando, em síntese, que a discussão é eminentemente de direito, que os dispositivos legais supostamente violados foram indicados, bem como foi realizado o cotejo analítico com a finalidade de demonstrar a ocorrência de dissídio jurisprudencial.
+Impugnação às fls. 630/633, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+
+VOTO
+Exmo. Sr. Ministro MARCO BUZZI - Relator: Os embargos de declaração não merecem acolhimento, visto que a embargante não demonstrou a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado. Nesse sentido, confira-se os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO EM FACE DO ACÓRDÃO DE RECURSO REPRESENTATIVO DE CONTROVÉRSIA. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. AUSÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Este Colegiado, como expresso no acórdão embargado, perfilhou o entendimento de que, no tocante ao recurso interposto por Indústria e Comércio de Cosméticos Natura Ltda. e Natura Cosméticos S.A., não há matéria afetada ao rito dos recursos repetitivos, devendo ser julgado pelo Juízo natural (Quarta Turma).
+2. Como dito na decisão colegiada ora embargada, o Tribunal de origem dirimiu as questões pertinentes ao litígio, não cabendo confundir omissão, obscuridade e contradição com entendimento diverso do perfilhado pela parte.
+3. O Tribunal de origem apurou que: a) houve prática de concorrência desleal, em vista da disposição das cores e imagens dos produtos das litigantes; b) a estrutura geral das embalagens é muito parecida, os escritos delas constantes encontram-se basicamente na mesma posição e têm o mesmo estilo de letra, as cores utilizadas são as mesmas, os desenhos de folhas são comuns aos produtos de ambas partes, o tamanho das embalagens e produtos é quase idêntico; c) a semelhança foi deliberada; d) o conjunto de similaridades leva à conclusão de que houve desenvolvimento de estratégia comercial que contraria qualquer normativa que visa assegurar o bom atendimento dos fins sociais da ordem econômica; e) não se sustentam os argumentos das ora embargantes acerca da impossibilidade de confusão dos destinatários finais, bem como sobre a ausência de violação do trade dress.
+3. O acórdão, ora embargado, efetuou a transcrição dos acórdãos proferidos na origem, apontando ter sido apurada a prática de concorrência desleal, mediante exploração deliberada de prestígio alheio, e perfilhou o entendimento de que a matéria acerca do reconhecimento da violação ao trade dress (uso de elementos "para-marcários") foi devidamente apreciada pelo enfoque da concorrência desleal, exaustivamente abordado pelas instâncias ordinárias, a patentear que, quanto ao ponto, andou bem a Corte local.
+4. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de conferir meramente efeito modificativo ao recurso.
+5. Embargos de declaração rejeitados.
+(EDcl no REsp 1527232/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/04/2018, DJe 18/04/2018; grifou-se)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE EXISTÊNCIA DOS VÍCIOS TIPIFICADOS EM LEI. NÃO OCORRÊNCIA.
+1. EMBARGOS OPOSTOS POR ARCELORMITTAL BRASIL S.A.
+1.1. Consoante estabelecido pelo art. 1.022, e seus incisos, do novo Código de Processo Civil, os embargos de declaração são cabíveis nas hipóteses de obscuridade, contradição, omissão ou até mesmo na ocorrência de carência de fundamentação válida.
+1.2. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+1.3. No caso dos autos, inexiste qualquer dos vícios tipificados no art. 1.022, incisos I e II, do Código de Processo Civil, a inquinar a decisão embargada.
+2. EMBARGOS OPOSTO POR [NOME].
+2.1. No que se refere aos honorários advocatícios, o Enunciado Administrativo n.º 7 do STJ, deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC.
+2.2. Ademais, a jurisprudência do STJ tem se firmado no sentido de ser incabível a majoração dos honorários advocatícios, com base no art. 85, § 11, do CPC/2015, em razão da interposição de agravo interno.
+2.3. No caso concreto, não é possível inferir que o agravo interno padece de manifesta inadmissibilidade nem que o desprovimento se reveste de notória evidência, a justificar a cristalização de conduta abusiva ou protelatória, em virtude da mera interposição do recurso. Afasta-se, portanto, a incidência do art. 1.021, § 4º, do CPC.
+3. EMBARGOS DECLARATÓRIOS REJEITADOS.
+(EDcl no AgInt no REsp 1662832/ES, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/02/2018, DJe 05/03/2018; grifou-se)
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado por meio de embargos de declaração, visto que esta eg. Quarta Turma decidiu a controvérsia com base no entendimento adotado no âmbito desta Corte, sendo clara na sustentação das razões do não provimento do agravo interno.
+Consoante consta do acórdão ora embargado, o pleito foi indeferido pelos seguintes fundamentos:
+ incidência das Súmulas 5 e 7/STJ, no que tange à responsabilidade civil da recorrente pelo atraso na entrega do imóvel;
+ incidência da Súmula 83/STJ no que respeita ao pagamentos dos lucros cessantes;
+ incidência da súmula 284/STF, porquanto a recorrente deixou de apontar os dispositivos de lei federal tidos por violados ou objeto de interpretação divergente, bem como de informar de que modo a legislação federal foi violada ou teve negada sua aplicação.
+Com efeito, o aresto proferido em sede de agravo interno demonstrou exaustivamente as razões do desprovimento do recurso, motivo pelo qual se verifica que os aclaratórios ora apresentados pela recorrente visam unicamente atribuir desfecho favorável a sua tese, com a rediscussão do julgado, o que resta vedado na estreita via recursal sob foco.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Deste modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+2. Por fim, deixa-se de analisar os embargos de declaração de fls. 617/626, e-STJ, em razão da preclusão consumativa e da aplicação do princípio da unirrecorribilidade.
+3. Do exposto, rejeitam-se os embargos de declaração de fls. 592/615, e-STJ.
+É como voto.
