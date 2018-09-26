@@ -1,0 +1,7 @@
+DECISÃO
+Publicada a decisão que rejeitou os embargos de declaração, a parte protocolou petição requerendo "a juntada do extrato de que comprova o pagamento das custas, emitido pela Caixa Econômica, não tendo sido oportunizado pela instituição bancária a emissão da 2ª via do comprovante por já ter se passado mais de 2 anos do pagamento." (fl. 332).
+É o relatório. Decido.
+O processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e, ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Nesse sentido, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade do preparo era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal. Dessa forma, para fins de regularização do preparo do recurso especial, objeto do despacho de fl. 307, o comprovante trazido aos autos agora (fl. 333) não pode ser conhecido para os fins que se propõe, uma vez que preclusa a oportunidade.
+Ante o exposto, nada a deferir. Certifique-se o transito em julgado da decisão de fls. 327/329 e baixem os autos à origem.
+Publique-se. Intimem-se.
