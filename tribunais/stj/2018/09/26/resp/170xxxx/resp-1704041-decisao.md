@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do Tribunal de origem negou provimento ao apelo da recorrente em acórdão que ficou assim ementado (e-STJ fl. 324):
+PLANO DE SAÚDE - DEMORA INJUSTIFICADA - Internação prescrita em regime de urgência - Prova oral que atestou a média de aguardo de vinte minutos para autorização da internação - Paciente lactante que aguardou quase cinco horas para liberação de internação de urgência, após aguardar cerca de três horas para realização de ultrassonografia no hospital corréu - Conduta displicente das rés, que retardaram injustificadamente o atendimento médico prescrito à apelante - Dano moral - Ocorrência - Paciente que já se encontrava em condição de dor, de abalo psicológico e com a saúde debilitada - Precedentes - Honorários convencionais - Restituição devida - Necessidade, por parte da autora, da contratação de advogado para a defesa dos seus interesses em Juízo, à vista da conduta das rés - Reparação das despesas assumidas que deve ser na exata medida do prejuízo experimentado, que restou comprovado - Decisão reformada - Recurso provido.
+Sobreveio o recurso especial (e-STJ fls. 339/346), fundado no art. 105, III, "a" e "c", da CF, no qual a parte recorrente sustenta violação dos arts. 186 e 927 do CC/2002, argumentando não ser devida a condenação em danos morais. Afirma que "não existe prova nos autos que levem à conclusão de que o réu teria agido ilicitamente ou tenha causado qualquer tipo de prejuízo ao paciente, sendo a ação improcedente e não existindo responsabilidade do hospital" (e-STJ fl. 343).
+Alega ainda improcedente a "condenação do HOSPITAL UNIMED DE GUARULHOS em R$ 1.000,00 (mil reais) pela contratação de advogado particular para patrocinar a causa" (e-STJ fl. 345).
+É o relatório.
+Decido.
+Quanto à configuração do dano moral, assim decidiu o Tribunal a quo (e-STJ fls. 326/328):
+Tratando-se de atendimento de urgência, o prazo para que os procedimentos médicos sejam liberados é de imediato, consoante determina o inciso XIV, do art. 3º, da Resolução Normativa 259/2011 da ANS.
+(..)
+Deste modo, considerando-se que o exame foi realizado na paciente às 17:40 horas (fl. 168) e que a mesma estava aguardando a liberação de sua internação desde às 18 horas (depoimento pessoal a fl. 206), a internação de urgência somente foi autorizada quase cinco horas depois (ou seja, às 22:48:51 horas fl. 30), sem qualquer motivo justificado para tanto.
+Assim, o prazo ordinariamente aplicado pela ré (vinte minutos) foi por deveras alargado, alcançando o patamar de quase cinco horas de espera pela paciente, ainda que se tratasse de internação de urgência (fl.
+145).
+É evidente que desse retardo injustificado decorreram danos morais, ante o grave abalo sofrido pela paciente submetida à injusta e excessiva espera pela liberação do indispensável tratamento de delicada enfermidade, a qual, por si só, já causa fragilidade, ainda mais ao se considerar a condição de lactante da apelante.
+A situação aqui tratada extrapolou os limites do mero inadimplemento contratual e dos aborrecimentos comuns à vida em sociedade. O pagamento da contraprestação gera justa expectativa de assistência médica, sendo que a demora na liberação da internação de urgência gerou excessivo transtorno à paciente, que já se encontrava em condição de dor, abalo psicológico e com a saúde debilitada.
+Guardadas as peculiaridades fáticas, este Corte já entendeu pela ocorrência de abalo moral em razão de indevido retardo no atendimento médico (..).
+No caso concreto, a análise da pretensão recursal a fim de afastar a configuração do dano moral, demandaria a incursão em aspectos fático-probatórios dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Quanto ao honorários advocatícios, a agravante não apontou qual dispositivo de lei federal teria sido supostamente violado. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
