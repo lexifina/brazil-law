@@ -1,0 +1,61 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BASF S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. EXTINÇÃO DO PROCESSO POR ABANDONO. INTIMAÇÃO PESSOAL. TENTATIVA FRUSTRADA. [NOME]. VALIDADE. INTIMAÇÃO PESSOAL DA PARTE E DO PROCURADOR POR PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA PARA DAR ANDAMENTO AO FEITO. PEDIDO DE ARBITRAMENTO DE HONORÁRIOS EM CONTRARRAZÕES. VIA INADEQUADA. 1 - Reputa-se válida a intimação pessoal tentada no endereço constante dos autos, face ao descumprimento pela parte autora do dever de informar ao Juízo o seu correto endereço. 2 - A extinção do processo por abandono da causa, nos termos do artigo 485, inciso III, §1º do CPC/15, deve ser mantida quando precedida da tentativa de intimação pessoal do autor, bem como de seu procurador, por publicação regular no Diário da Justiça. 3 - O pedido de arbitramento de honorários sucumbenciais em sede de contrarrazões não merece ser acolhido, ante a inadequação da via eleita (súmula n. 27, deste Tribunal de Justiça). RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto na Súmula n. 240/STJ e nos arts. 274, parágrafo único e 485, inciso III, do CPC de 2015.
+Alega, em síntese, que "não ocorreu a necessária intimação, tanto dos advogados, como da parte, para dar andamento ao feito sob pena de extinção do processo,  .. ".
+Aduz que a intimação feita ao advogado seria lacônica e que as cartas de intimação dirigidas à parte não teriam sido entregues. Diz que o Juiz já dispunha de informação de que a parte teria se mudado.
+É o relatório. DECIDO.
+2. Acerca da alegada negativa de vigência à Súmula n. 240/STJ, registre-se que os verbetes ou enunciados dos tribunais não se equiparam às leis federais para a finalidade prevista no artigo 105, III, "a" da Constituição Federal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/1973). VIOLAÇÃO AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ NÃO CARACTERIZADA. ART. 132 DO CPC. PRINCÍPIO QUE NÃO É ABSOLUTO. PRECEDENTES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DILAÇÃO DO PRAZO PARA PAGAMENTO.
+CONSTITUIÇÃO DO DEVEDOR EM MORA. EXCESSO NA FIXAÇÃO DA MULTA. READEQUAÇÃO DA VERBA HONORÁRIA. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. OFENSA À SÚMULA. IMPOSSIBILIDADE. ENUNCIADO DA SÚMULA 518/STJ. AGRAVO DESPROVIDO.
+(AgInt no AREsp 844.200/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 13/06/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. DISPOSITIVO. ERRO MATERIAL. RECURSO ACOLHIDO APENAS PARA CORREÇÃO. SEM MODIFICAÇÃO DO JULGADO. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. ARTS. 458, II, E 535, I e II, DO CPC/1973. REFORMATIO IN PEJUS. NÃO CONFIGURAÇÃO. DISSÍDIO INTERPRETATIVO. AUSÊNCIA DE SIMILITUDE. SÚMULA Nº 98/STJ. AFRONTA. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. 538 DO CPC/1973.
+(..)
+5. A jurisprudência desta Corte é pacífica no sentido de ser incabível a interposição de recurso especial com fundamento em violação de súmula, por não se enquadrar no conceito de lei federal, a teor do que dispõe o art. 105, III, da CF.
+6. Vislumbrado o caráter protelatório dos embargos opostos, não há falar em ofensa ou negativa de vigência ao mencionado art. 538, mas, sim, em seu fiel cumprimento.
+7. Agravo interno conhecido para correção de erro material e não provido.
+(AgInt no REsp 1598311/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 07/11/2016)
+3. No mais, segundo a pacífica jurisprudência desta Corte Superior, para que seja declarado pelo magistrado o abandono da causa pelo autor faz-se necessária a caracterização, de forma inequívoca, do desinteresse em prosseguir no feito, manifestação esta que somente se configura quando, intimado pessoalmente a promover as diligências necessárias, o autor permanece silente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ABANDONO DA CAUSA. EXTINÇÃO DO FEITO. REQUERIMENTO DO RÉU. AUSÊNCIA DE CITAÇÃO. DESNECESSIDADE. INTIMAÇÃO DO ADVOGADO. DISPENSÁVEL.
+1. Cuidando-se de processo em que ainda não houve a citação, é dispensável o requerimento do réu para a extinção do processo.
+2. É obrigatória a intimação do autor, nos casos de abandono da causa, e não de seu advogado, para que não ocorra de a parte ser surpreendida pela desídia de seu procurador.
+3. Agravo regimental não provido.
+(AgRg no AREsp 665.830/PR, 3ª Turma, Rel. Min. Ricardo Villas Bôas Cueva, DJe 03/08/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. ABANDONO DA CAUSA. INTIMAÇÃO ENCAMINHADA PARA ENDEREÇO DIVERSO DO AGRAVANTE. INOVAÇÃO RECURSAL. INTIMAÇÃO PESSOAL DO ADVOGADO. DESNECESSIDADE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. É vedado à parte inovar nas razões do agravo regimental, tendo em vista a ocorrência da preclusão como consequência de a questão não ter sido tratada oportunamente em sede de recurso especial.
+2. A jurisprudência desta Corte Superior firmou-se no sentido de que a extinção do feito por abandono de causa pelo autor, a teor do que prescreve o art. 267, III e § 1º, do Código de Processo Civil, demanda o requerimento do réu (Súmula 240/STJ) e a intimação pessoal da parte para que a falta seja suprida no prazo de 48 (quarenta e oito) horas, sendo desnecessária a intimação pessoal do procurador da parte. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 680.111/RS, 4ª Turma, Rel. Min. Raul Araújo, DJe 11/06/2015)
+No caso dos autos, o Tribunal local presumiu válida a intimação pessoal da parte agravante. Por oportuno, transcrevo o que foi consignado no acórdão recorrido:
+Saliente-se que, de fato, para ocorrer a extinção do processo há a necessidade de intimação pessoal da parte e de seu advogado via diário da justiça, nos termos do artigo 485, inciso III e §1º do Código de Processo Civil/15, in verbis:
+ .. .
+No caso em comento, houve a intimação via diário da justiça (f. 281/282).
+Por outro lado, constata-se no feito que a parte autora, ora apelante, não manteve o seu endereço atualizado nos autos e, por isso, as cartas de intimações com os respectivos ARs foram devolvidas (f. 269 e 280), impedindo, assim, a intimação pessoal.
+Com efeito, urge pontuar que, nos termos do artigo 77, inciso V do CPC, é dever das partes declinar, no primeiro momento que lhes couber falar nos autos, o endereço residencial ou profissional onde receberão intimações, atualizando essa informação sempre que ocorrer qualquer modificação temporária ou definitiva.
+Portanto, se a intimação pessoal da autora/apelante não foi realizada, conforme determina o artigo 485, §1º do CPC, isso se deu em virtude da parte não ter cumprido o seu dever de atualizar o seu endereço sempre que houver qualquer mudança temporária ou definitiva.
+Neste contexto, disciplina o artigo 274, parágrafo único do CPC, que presumem-se válidas as intimações realizadas no endereço fornecido pela parte nos autos, ainda que não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva de endereço não tiver sido devidamente comunicada ao juízo, como se observa no caso em comento.
+Assim, o que se extrai dos autos é que a recorrente deixou de realizar ato que lhe competia, motivo pelo qual forçosa se torna a conclusão de que houve o abandono da causa e que o juiz singelo agiu corretamente ao extinguir o processo, sem resolução do mérito.
+Cabe ressaltar que a jurisprudência do STJ tem entendimento de que é lícita a extinção do processo quando a intimação do autor for encaminhada ao endereço informado na inicial e seja devidamente comprovado o recebimento do comunicado. Dessa forma, o aviso de recebimento informando que o autor mudou de endereço é documento hábil à comprovação do comunicado, que foi frustrada pela desídia da parte em atualizar o endereço para correspondência.
+Para maior elucidação, transcrevo excerto do Resp n. 1.299.609/RJ da relatoria da Ministra Nancy Andrighy, que corrobora esse entendimento:
+Além disso, o impasse gerado pela devolução da carta de intimação por mudança de endereço foi, na verdade, gerado pelo próprio recorrente que, ao arrepio da regra constante do art. 39, II, do CPC, deixou de informar o juízo da mudança de sua sede. Destarte, se as obrigações fixadas pela Lei tivessem sido observadas pela parte, a consequência aqui discutida jamais teria sido por ela suportada.
+O julgado recebeu a seguinte ementa:
+PROCESSO CIVIL. EXTINÇÃO DO PROCESSO POR ABANDONO. INTIMAÇÃO POR CARTA. MUDANÇA DE ENDEREÇO. AUSÊNCIA DE INFORMAÇÃO AO JUÍZO. VALIDADE.
+1. A jurisprudência do STJ reputa possível promover a intimação do autor para dar andamento ao processo por carta registrada, desde que não haja questionamento acerca do efetivo recebimento do comunicado, e que tal providência tenha sido requerida pelo réu. Precedentes.
+2. Na hipótese de mudança de endereço pelo autor que abandona a causa, é lícito ao juízo promover a extinção do processo após o envio de correspondência ao endereço que fora declinado nos autos.
+3. O Código de Ética da OAB disciplina, em seu art. 12, que "o advogado não deve deixar ao abandono ou ao desamparo os feitos, sem motivo justo e comprovada ciência do constituinte". Presume-se, portanto, a possibilidade de comunicação do causídico quanto à expedição da Carta de Comunicação ao endereço que ele mesmo se furtara de atualizar no processo.
+4. A parte que descumpre sua obrigação de atualização de endereço, consignada no art. 39, II, do CPC, não pode contraditoriamente se furtar das consequências dessa omissão. Se a correspondência enviada não logrou êxito em sua comunicação, tal fato somente pode ser imputado à sua desídia.
+5. Recurso especial improvido.
+(REsp n. 1.299.609/RJ, Relator Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/8/2012, DJe 28/8/2012 - grifei).
+Também nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ARGUMENTO CAPAZ DE ALTERAR O JULGADO. MANUTENÇÃO DA DECISÃO AGRAVADA POR SEUS PRÓPRIOS FUNDAMENTOS. EXTINÇÃO DO PROCESSO POR ABANDONO. MUDANÇA DE ENDEREÇO. NÃO COMUNICAÇÃO AO JUÍZO. INTIMAÇÃO DA PARTE. VALIDADE. RECONHECIMENTO. ART. 238 DO CPC. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 386.319/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/09/2014, DJe 15/09/2014)
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+4. Por fim, importante frisar que o Tribunal Estadual reconheceu que a intimação pessoal da parte fora comprovada. Assim, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante no sentido de que o Juiz já dispunha de informação de que a parte teria se mudado, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ABANDONO DE CAUSA. EXTINÇÃO DO PROCESSO. DESNECESSIDADE DE INTIMAÇÃO DO PATRONO DA PARTE. INCIDÊNCIA DA SÚMULA 83/STJ. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE INTIMAÇÃO PESSOAL. RECONHECIMENTO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DESTA CORTE. RECURSO NÃO PROVIDO.
+1. É desnecessária a intimação do patrono da parte para a extinção do processo em decorrência do abandono da causa. Incidência da Súmula 83/STJ.
+2. O Tribunal de origem, com base nos fatos e provas dos autos, concluiu que a intimação pessoal da parte fora comprovada na espécie. O acolhimento das razões de recurso, na forma pretendida, demandaria o reexame de matéria fática. Incidência do verbete 7 da Súmula desta Corte.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 238.795/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 27/9/2013.)
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
