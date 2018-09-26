@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. No extraordinário cujo trânsito busca alcançar, a recorrente aponta a violação dos artigos 5º, inciso LV, 23, inciso II, 196 e 198 da Constituição Federal. Diz contrariado o princípio da ampla defesa. Salienta a responsabilidade solidária entre os entes federativos para a concessão de medicamentos e assistência à saúde.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    No presente feito já foi elaborada prova pericial a qual emitiu parecer isento e idôneo no sentido de que a lesão que ora acomete a requerente tem origem em lesão ocorrida na infância. O perito não se furtou à análise dos quesitos propostos pelas partes, tendo respondido as questões com base na prova trazida aos autos. Inexiste, portanto, qualquer razão para que nova perícia seja realizada.
+    Acerca da prova testemunhal requerida, também se desvela inócua, seja porque a prova dos autos leva à conclusão de que o dano no joelho não foi agravado por demora no atendimento (o que afasta a responsabilidade por suposta omissão da Casa da Criança ao deixar de narrar a ocorrência de um acidente), seja porque o conjunto probatório, como se verá adiante, é incipiente no que diz respeito à tese sugerida, de que teria havido um acidente durante a estada da autora na creche Casa da Criança, mormente considerando que a requerente sequer identificou e buscou trazer aos autos a ex funcionária do local, a qual teria contado à mãe da autora, meses depois do ocorrido, sobre este suposto incidente, datado em 13/03/1998. Veja-se que, consoante narrado pela mãe da autora, não havia qualquer ferimento aparente, sendo que ela só veio a reparar a existência de inchaço no local.
+    Veja-se que meros transtornos na rotina não são o bastante para dar ensejo à ocorrência de dano moral, o qual demanda, para sua configuração, a existência de fato dotado de gravidade capaz de gerar abalo profundo, no plano social, objetivo, externo, de modo a que se configurem situações de constrangimento, humilhação ou degradação e não apenas dissabor decorrente de intercorrências do cotidiano.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 26 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
