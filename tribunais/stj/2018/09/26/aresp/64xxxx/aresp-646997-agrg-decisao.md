@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interno interposto por SILVIO VIEIRA DA SILVA contra decisão da eminente Ministra Presidente desta Corte Superior, que negou seguimento ao recurso, sob o fundamento de que "o recurso especial foi interposto em 7/1/2013 (fl. 322), sendo que o v. acórdão recorrido foi publicado somente em 16/1/2013 (fl. 320)", não tendo havido posterior ratificação.
+Em suas razões, aduz o agravante que o referido entendimento não merece prevalecer, ressaltando, ademais, que se encontra superado pelo novo CPC à luz do disposto nos arts. 218, § 4º, e 1.024, § 5º. Colaciona precedente do excelso Supremo Tribunal Federal, proferido no Habeas Corpus n. 101.132-MA.
+É o relatório.
+DECIDO.
+2. A extemporaneidade do apelo nobre merece ser afastada, considerando o entendimento firmado pela Corte Suprema no julgamento do Agravo de Instrumento n. 703.269, calcado na garantia constitucional de acesso ao Poder Judiciário.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. TEMPESTIVIDADE DO RECURSO ESPECIAL RECONHECIDA. INTERPOSIÇÃO DO RECURSO ANTES DA PUBLICAÇÃO DO ACÓRDÃO DA APELAÇÃO. INEXISTÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. TESE DO RECURSO PREMATURA SUPERADA. ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL: AI 703.269, PLENÁRIO. CONTRADIÇÃO SANADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITO MODIFICATIVO.
+1. A questão central dos presentes embargos de declaração consiste na averiguação da tempestividade do recurso especial, outrora declarado intempestivo, por ter sido interposto prematuramente, eis que a publicação do acórdão recorrido se deu em 22/7/2009 e o recurso especial foi interposto em 3/7/2009.
+2. No tocante à tempestividade do recurso especial, sob o ângulo da interposição prematura, a jurisprudência do STJ entendia pela extemporaneidade do recurso especial interposto antes da publicação do acórdão que se pretende impugnar.
+3. Todavia, a tese então prevalente se mostrou superada em observância da garantia constitucional de acesso ao Poder Judiciário, a partir da orientação plenária do STF nos autos do AI 703.269.
+4. Embargos de declaração acolhidos para sanar contradição, com efeito modificativo, para afastar a intempestividade do recurso especial, determinando-se novo julgamento do agravo em recurso especial.
+(EDcl nos EDcl no AgRg no AREsp 789.805/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/10/2016, DJe 25/10/2016)
+Impõe-se, assim, a análise da insurgência deduzida no agravo em recurso especial.
+3. Cuida-se de agravo interposto pelo ora agravante contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+USUCAPIÃO EXTRAORDINÁRIO Ausência de comprovação do atendimento do lapso temporal a que alude o artigo 550 do CC/1916 Requisito temporal que deve ser necessariamente atendido até a data do ajuizamento da ação Tempo que não pode se completar no curso do feito, sob qualquer hipótese Prova testemunhal também insuficientes para comprovação do exercício da posse vintenária que, repita-se, deveria ter sido atendida por ocasião do ajuizamento Improcedência corretamente decretada Sentença mantida Recurso improvido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos art. 2.028 do Código Civil de 2002.
+Sustenta que, "conforme consta no próprio Acórdão recorrido a Ação foi proposta em março de 2009, o Novo Código Civil entrou em vigência em janeiro de 2003, de tal data até 2011, correu o lapso temporal de 08 anos, e na vigência Código Civil de 1916, correu o lapso temporal de 07 anos, ou seja, não se aplica no caso em tela o Código Civil de 1916, visto que na data de entrada em vigor do Código Civil de 2002, não se tinha transcorrido mais da metade do tempo estabelecido na Lei revogada".
+Contrarrazões ao recurso especial às fls. 333-349, pugnando pela manutenção do aresto atacado, ressaltando que não estão presentes os requisitos caracterizadores da usucapião pretendida.
+4. A irresignação não prospera.
+Em que pese o argumento do recorrente acerca do prazo prescricional aplicável à espécie, observa-se que a Corte de origem manteve a improcedência da ação de usucapião diante da falta de provas que demonstrassem o exercício de posse ad usucapinem do ora recorrente.
+É o que se extrai dos seguinte trecho do aresto recorrido:
+Conforme bem observado pela r. sentença recorrida, não restou demonstrada que a posse por ele exercida atinge o lapso temporal legal. Vale dizer, nem mesmo as testemunhas que arrolou comprovam o alegado. Aliás, o depoimento de uma delas (irmão do apelante - fls. 182), convenha-se, é por demais insuficiente para o reconhecimento da prescrição aquisitiva.
+De outra parte, as testemunhas arroladas pela corré contrariam a pretensão exordial, destacando-se o depoimento daquela de nome [NOME], funcionária da empresa ré desde o ano de 1997, confirmando o pagamento dos impostos incidentes sobre o lote (fls. 185).
+A continuidade da posse também cede aos documentos de fls. 187 e seguintes - intimações da Municipalidade para limpeza (o que certamente não ocorreria se o apelante, de fato, exercesse a posse, como por ele sustentado).
+Exatamente por conta disso, força convir que o autor, à data do ajuizamento da ação, não atendeu os requisitos contidos no artigo 550 do Código Civil então vigente, que devem estar presentes naquele momento, não podendo ser completados no curso do feito.
+(fl. 318)
+As razões do recurso especial não combatem o fundamento de que as provas carreadas aos autos não comprovam o exercício da posse do recorrente, fundamento apto, por si só, para manter a conclusão do julgado.
+A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. Ante o exposto, reconsidero a decisão agravada, em juízo de retratação, e nego provimento ao agravo pelos fundamentos acima elencados.
+Publique-se. Intimem-se.
