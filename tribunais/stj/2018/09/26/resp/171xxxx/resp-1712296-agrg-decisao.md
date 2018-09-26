@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO.
+DECISÃO
+Trata-se de agravo regimental interposto por ANDERSON BIANCHI DOS SANTOS, em face da decisão monocrática de fls. 534-544, assim ementada:
+"PENAL E PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DA DROGA. ART. 42 DA LEI N. 11.343/2006. POSSIBILIDADE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI 11.343/2006. OCORRÊNCIA DE BIS IN IDEM. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO."
+Nas razões do agravo (fls. 574-589), alega que "o réu guardou consigo arma do tipo 38, não sendo arma de uso restrito, e de tal forma, deve ser corrigida ex-officio a pena de 3 anos de reclusão, além de 8 (oito) diasa multa" (fls. 577).
+Requer o provimento do recurso para que seja reconhecido que "o Agravante praticou o delito previsto no art. 12 da Lei 10.826/2003 e não no art. 16, IV, da Lei 10.826/2003, e com isso, a imediata aplicação do regime aberto ao Embargante".
+É o relatório.
+Decido.
+Da análise dos autos, verifica-se que a parte embargante apresentou duas petições de embargos de declaração (fls. 552-562 e 563-573) e de agravo regimental (fls. 574-573), simultaneamente, desafiando a mesma decisão (fl. 534-544).
+Ocorre que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão ou acórdão, impede o conhecimento daquele(s) que foi(ram) apresentado(s) após o primeiro recurso, tendo em vista a preclusão consumativa e o princípio da unirrecorribilidade recursal.
+Nesse sentido, os seguintes precedentes:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS, PELA MESMA PARTE, CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA E VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 02/08/2017, que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. É assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Precedentes do STJ: EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 09/06/2016; AgRg no REsp 1.525.945/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe de 03/06/2016.
+III. Isso porque, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último. Precedentes" (STJ, AgInt nos EAg 1.213.737/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 26/08/2016).
+IV. Agravo interno não conhecido" (AgInt nos EDv nos EREsp 1314479/RS, Primeira Seção, Relª. Minª. Assusete Magalhães, DJe de 14/11/2017).
+"RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO OCORRÊNCIA. TEMA 339/STF. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. PRECLUSÃO DO SEGUNDO. 1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. Não enseja conhecimento o agravo de fls. 720/728 (e-STJ), pois, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último. Precedentes" (AgInt nos EAg 1.213.737/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 17/8/2016, DJe 26/8/2016).
+3. Agravo regimental improvido. Agravo em recurso extraordinário de fls. 706/711 (e-STJ) não conhecido" (AgRg no RE nos EDcl no AREsp 765.376/BA, Corte Especial, Rel. Min. Humberto Martins, DJe 21/03/2017).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+1. No caso de interposição de dois recursos pela mesma parte e contra a mesma decisão, tem-se que apenas o primeiro poderá ser submetido à análise, em face da preclusão consumativa e do princípio da unicidade recursal, que proíbe a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+2. Agravo regimental não conhecido" (AgInt no AREsp 980.381/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/02/2017).
+Pelo exposto, não conheço do recurso de fls. 574-589 (petição n. 00527091/2018).
+P. e I.
