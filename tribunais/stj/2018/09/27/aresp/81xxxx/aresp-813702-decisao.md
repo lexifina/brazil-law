@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso especial fundado na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - JUSTIÇA GRATUITA - PESSOA JURÍDICA - REJEIÇÃO LIMINAR DOS EMBARGOS - GARANTIA DO JUÍZO - PENHORA
+1. A pessoa jurídica, com ou sem fins lucrativos, faz jus à gratuidade de justiça quando comprovar que não possui capacidade para arcar com as despesas processuais, conforme Súmula 481 do STJ.
+2. Não deve prevalecer a decisão que rejeitou os embargos à execução fiscal por falta de garantia do juízo, quando não houverem provas de que tenha se esvaído a garantia do juízo.
+3. Recurso provido.
+Nas razões do especial, alega violação do art. 535, II, do CPC/1973 e do art. 6º da Lei n. 1.060/50, sustentando as seguintes teses:
+a) existência de negativa de prestação jurisdicional, tendo em vista suposta omissão do Tribunal de origem quanto ao enfrentamento do debate acerca da necessidade de o pedido de assistência judiciária ter sido formulado em petição avulsa, e não nas razões do apelo interposto pelo agravado;
+b) no mérito, reitera os fundamentos que deram azo à ofensa ao art. 535 do CPC/1973, para que seja reconhecida a deserção do apelo interposto pelo agravado.
+Sem contrarrazões ao recurso especial, este não foi admitido ante a ausência de violação do art. 535 do CPC/1973, bem como pela aplicação do óbice sumular n. 283 do STF, fundamentos com os quais não concorda o agravante.
+Contraminuta não foi apresentada pela parte agravada.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de embargos opostos pelo agravado à execução fiscal movida em seu desfavor pelo Estado de Minas Gerais.
+Em primeiro grau de jurisdição, o Juízo da 2ª Vara Tributária da Comarca de Belo Horizonte - MG rejeitou liminarmente os embargos, tendo em vista que a execução não foi garantida, indeferindo, ainda, o pedido de assistência judiciária gratuita.
+Irresignada, a parte agravada interpôs recurso de apelação, que foi provido pelo TJ/MG para deferir os benefícios da gratuidade de justiça e determinar o regular prosseguimento dos embargos do devedor. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 448/452):
+Da concessão dos benefícios da Justiça Gratuita A prestação da assistência judiciária é garantia constitucional, prevista no art. 5º, LXXIV, devendo ser concedida a todos aqueles que comprovarem insuficiência de recursos.
+O benefício deve ser concedido a todo aquele cuja situação econômica não lhe permita pagar as custas do processo e os honorários de advogado, sem prejuízo do sustento próprio ou da família, conforme regulado pelo art. 1º, da Lei 1.060/50.
+A concessão da assistência judiciária, portanto, deve ser cautelosa, visando coibir o abuso e o uso indevido desse instituto, de modo que a comprovação da situação de hipossuficiência financeira revela-se indispensável.
+Nessa esteira, a Corte Especial do STJ consolidou entendimento, por meio de súmula publicada em 01/08/2012, no sentido de que pessoa jurídica, com ou sem fins lucrativos, apenas faz jus à gratuidade de justiça caso comprove não possuir capacidade para arcar com as despesas processuais, a saber:
+Súmula 481: "Faz jus ao beneficio da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+No caso dos autos, o balanço patrimonial do exercício de 2011 revela que a empresa possui prejuízo acumulado de R$6.433.440,82, fato que corrobora com as alegações de que a apelante não possui caixa para suportar o pagamento dos encargos processuais, razão pela qual faz jus aos benefícios da Justiça Gratuita (f.150/152).
+Os embargos de declaração opostos pela agravante foram rejeitados.
+Pois bem.
+Compulsando os autos, tem-se que o Estado de Minas Gerais opôs embargos de declaratórios visando à integração do acórdão recorrido - entre outros temas - quanto à necessidade de o pedido de assistência judiciária ter sido formulado em petição avulsa, e não nas razões do apelo interposto pelo agravado.
+Com efeito, os aclaratórios foram rejeitados sem nenhuma manifestação do TJ/MG sobre o debate supracitado, o que, em tese, poderia configurar a alegada ofensa ao art. 535, II, do CPC/1973, por omissão no acórdão recorrido.
+Ocorre que a devolução dos autos para que o Tribunal sane a apontada irregularidade na prestação jurisdicional deve estar associada à utilidade da medida, em consonância com os princípios da celeridade e economia processual - importantes vetores do sistema processual civil, mormente após a vigência do CPC/2015.
+A propósito, confiram-se os seguintes precedentes:
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O PIS. LEI 10.637/02. CONCEITO DE FATURAMENTO PARA AFERIÇÃO DA BASE DE CÁLCULO. ENFOQUE EXCLUSIVAMENTE CONSTITUCIONAL.
+1. A omissão que justifica o provimento do recurso especial por deficiência na prestação jurisdicional constitui aquela relevante e apta a modificar o resultado do julgamento. Desinfluente, no caso, a menção expressa ao art. 110 do Código Tributário Nacional. Ofensa ao art. 535, II, do CPC descaracterizada.
+2. A questão da exigibilidade da Contribuição para o PIS sob a sistemática da não-cumulatividade inaugurada pela Medida Provisória nº 66/02, convertida na Lei nº 10.637/02, foi decidida com enfoque exclusivamente constitucional.
+3. Denota-se da fundamentação do acórdão recorrido que o debate se esgota na verificação de violação dos princípios constitucionais da isonomia, da capacidade contributiva e da anterioridade nonagesimal, de supostos vícios de inconstitucionalidade da Medida Provisória nº 66/02 face aos arts. 62 e 246 da Constituição Federal, bem como na interpretação do art. 195 da CF.
+4. Segundo o entendimento do Superior Tribunal de Justiça, o conceito de faturamento encontra-se delineado na Constituição Federal, sendo inviável tal definição em nível infraconstitucional, ainda que por suposta violação do art. 110 do Código Tributário Nacional. Nesse sentido: AgRg no REsp nº 1.186.641/SP, Relator Ministro Hamilton Carvalhido, DJe 15/03/2011; AgRg no REsp nº 1.214.896/SP, Relator Ministro Humberto Martins, DJe 18/02/2011; AgRg no REsp nº 745.080/SP, Relator Ministro Mauro Campbell Marques, DJe 09/11/2009; AgRg no AgRg no AG nº 803.634/PR, Relator Ministro Herman Benjamin, DJe 24/03/2009.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1.330.675/SP, Rel. Ministra MARGA TESSLER (JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA TURMA, julgado em 02/12/2014, DJe 11/12/2014).
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. AUSÊNCIA DE UTILIDADE NO PROVIMENTO. DIVISÃO INTERNA DE COMPETÊNCIA NO TRIBUNAL. COMPETÊNCIA RELATIVA. IMPORTAÇÃO DE BENS. LIBERAÇÃO DE BENS MEDIANTE A PRESTAÇÃO DE GARANTIA. SÚMULA 283/STF.
+1. Inexiste ofensa ao art. 535 do CPC/1973 se a análise dos dispositivos tidos por violados não teria o condão de levar o julgamento a um resultado diverso. Precedentes.
+2. A competência interna do Tribunal possui natureza relativa, razão pela qual pode ser prorrogada, não havendo falar em nulidade por não ter sido observada a especialização interna das Turmas do Tribunal de origem. Igual entendimento se aplica no âmbito desta Corte. Precedentes.
+3. A falta de combate a fundamento suficiente para manter íntegro o acórdão combatido justifica a aplicação do disposto na Súmula 283/STF.
+4. Hipótese em que a recorrente não infirmou o fundamento adotado pelo Tribunal de origem de que não se aplicaria no caso a Instrução Normativa n. 206/2002 da Secretária da Receita Federal.
+5. A jurisprudência desta Corte já consolidou o entendimento de que nos termos dos arts. 68 e 80, II, da Medida Provisória n. 2.158-35/2001 e art. 7º da IN/SRF n. 228/2002 é possível a liberação cautelar das mercadorias importadas mediante o oferecimento de garantia ofertada pelo contribuinte. Precedentes: REsp 1.516.282/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/8/2016; REsp 1.530.429/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30/6/2015.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1.138.502/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/04/2018, DJe 23/04/2018).
+Na presente hipótese, a tese aventada na preliminar de violação do art. 535 do CPC/1973 - que também representa a discussão de mérito - sobre a necessidade de a parte formular o pedido de assistência judiciária gratuita em petição avulsa foi superada pela mais recente jurisprudência desta Corte.
+Isso porque, no julgamento do AgRg nos EREsp 1.222.355/MG, Rel. Ministro Raul Araújo, DJe 25/11/2015, a Corte Especial do STJ firmou as seguintes orientações:
+1. É desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício.
+2. É viável a formulação, no curso do processo, de pedido de assistência judiciária gratuita na própria petição recursal, dispensando-se a exigência de petição avulsa, quando não houver prejuízo ao trâmite normal do feito.
+Logo, o deferimento pela Corte de origem do pedido de justiça gratuita formulado nas razões de apelação não contraria o entendimento atual do STJ, motivo pelo que não há que falar em violação dos arts. 535, II, do CPC/1973 e 6º da Lei n. 1.060/50.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
