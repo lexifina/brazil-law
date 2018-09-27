@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o TURMA RECURSAL DO JUIZADO ESPECIAL DO ESTADO DE SÃO PAULO, suscitante, e JUÍZO FEDERAL DA 1ª VARA DE TAUBATÉ - SJ/SP, suscitado.
+Consta dos autos que o réu foi denunciado, perante a justiça federal, pela prática do delito previsto no art. 55 da Lei n. 9.605/98. A defesa do acusado requereu o reconhecimento da incompetência do juízo federal, pois o delito descrito na peça inicial não implica ofensa a interesse federal, uma vez que o polígono versado nos autos não está compreendido em área de preservação ambiental. Assim, o juízo federal declinou da competência.
+O suscitante alega que a denúncia imputa prática de conduta delituosa em prejuízo de rio de importância nacional que cruza vários estados da Federação (Rio Paraíba do Sul).
+O Ministério Público Federal manifestou-se no sentido de que seja reconhecida a competência do Juízo de Direito da Comarca de Tremembé.
+É o relatório.
+DECIDO.
+Colaciono, por oportuno, as decisões do juízo suscitado e do juízo suscitante, para melhor análise do caso.
+Juízo suscitado (fls. 22):
+A presente ação penal foi ajuizada em face de [NOME] , para apuração do crime descrito no artigo 55 da Lei 9.605/98.
+O Ministério Público ofereceu denúncia em face do réu, pois no curso das investigações foi constatado que o acusado, na condição de responsável pela empresa "Porto de Areia Tubarão Ltda", extraiu recurso mineral sem licença ambiental válida emitida pela Companhia Ambiental do Estado de São Paulo, pois apesar da atividade ter sido realizada em área autorizada para lavra, já havia expirado a licença para funcionamento da atividade.
+Em face aos elementos carreados aos autos este Juízo recepcionou a peça exordial acusatória, tendo sido determinada a citação do acusado para responder aos termos da denúncia; em sua defesa preliminar o acusado requereu o reconhecimento de incompetência deste Juízo para processamento dos autos, pois o delito descrito na peça inicial não implica ofensa a interesse federal, uma vez que o polígono versado nos autos não está compreendido em área de preservação ambiental (fl. 104/107).
+Na manifestação ministerial o I. Procurador assevera que efetivamente não houve degradação de área tutelada pela União Federal e tampouco usurpação ao patrimônio dá União; cuida-se de extração mineral sem a licença do órgão ambiental.
+Nesse passo, por não vislumbrar ofensa à área ambiental de interesse da União Federal o dominus liíis pugna pelo declínio da competência para julgamento destes autos.
+Em razão do exposto, DECLINO DA COMPETÊNCIA para o processamento do feito e determino a imediata remessa destes autos à Justiça Estadual, Comarca de Tremembé  SP, para o regular processamento, devendo a Secretaria providenciar as comunicações necessárias, dando-se baixa na distribuição.
+Juízo suscitante (fls. 69-73):
+Recebo o remédio para análise mas voto no sentido de reconhecer a necessidade de que seja suscitado conflito de competência como requerido pelo Ministério Público. Tratando-se de competência de natureza absoluta, possível o reconhecimento a qualquer tempo, não havendo ofensa ao principio da não reformatio in pejus.
+A Jurisprudência da Corte competente para análise da competência em casos do jaez, no caso o Superior Tribunal de Justiça, vem decidindo que a competência no caso é da Justiça Federal. Note-se que há precedentes fixando a competência estadual sempre, contudo, ressalvando a natureza privada da área e curso no máximo estadual do rio ou riacho prejudicado:
+ ..
+Acontece que a denúncia imputa prática de conduta delituosa em prejuizo de rio de importância nacional que cruza vários estados da Federação (Rio Paraiba do Sul).
+Assim, patente que deve prevalecer a competência da Justiça Federal no caso. Veja-se:
+ ..
+Assim, resta prejudicada a análise da prescrição, reconhecida a incompetência absoluta desta Justiça Estadual para processamento.
+Quanto ao tema, tem-se que a competência da justiça federal para processar e julgar delitos ambientais é necessário que se revele o interesse da União no delito praticado, necessitando que seja também demonstrado que o ilícito tenha repercutido em área de interesse federal. Nesse sentido:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME AMBIENTAL. ART. 34 DA LEI Nº 9.605/98. INEXISTÊNCIA DE OFENSA A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A proteção ao meio ambiente constitui matéria de competência comum da União, dos Estados, do Distrito Federal e dos Municípios, motivo pelo qual, para se afirmar ser o delito contra a fauna de competência da Justiça Federal, é necessário que se revele evidente interesse da União, a teor do disposto no art. 109, inciso IV, da Constituição Federal.
+2. No caso, não obstante a pesca tenha ocorrido em rio que banha mais de um estado, não há nos autos qualquer indício de que o crime tenha repercutido para além do local em que supostamente praticado, de modo a autorizar a conclusão de que teria havido lesão a bem da União. 3. Agravo regimental a que se nega provimento.
+(AgRg no CC 154.855/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 13/12/2017, DJe 15/12/2017)
+No presente caso, tem-se que, não obstante o delito tenha sido praticado em rio que cruze vários estados da federação, não restou mencionado na denúncia (fls. 10-13) a repercussão do evento criminoso além do local onde o ilícito foi cometido, qual seja, na margem direito do Rio Paraíba do Sul da propriedade rural denominada "Fazendo do Meio", em Tremembé/SP (fl. 11).
+Dessa forma, não se constata o interesse da União no processamento e julgamento da referente ação penal. Nesse norte:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. AÇÃO PENAL. PESCA, EM LOCAL PROIBIDO DE RIO INTERESTADUAL, COM A UTILIZAÇÃO DE PETRECHOS NÃO PERMITIDOS - ART. 34, PARÁGRAFO ÚNICO, II, DA LEI 9.605/98. PREJUÍZO LOCAL. AUSÊNCIA DE LESÃO A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. A preservação do meio ambiente é matéria de competência comum da União, dos Estados, do Distrito Federal e dos Municípios, nos termos do art. 23, incisos VI e VII, da Constituição Federal.
+2. Com o cancelamento do enunciado n. 91 da Súmula STJ, após a edição da Lei n. 9.605/98, esta Corte tem entendido que a competência federal para julgamento de crimes contra a fauna demanda demonstração de que a ofensa atingiu interesse direto e específico da União, de suas entidades autárquicas ou de empresas públicas federais. Precedentes.
+3. Assim sendo, para atrair a competência da Justiça Federal, o dano decorrente de pesca proibida em rio interestadual deveria gerar reflexos em âmbito regional ou nacional, afetando trecho do rio que se alongasse por mais de um Estado da Federação, como ocorreria se ficasse demonstrado que a atividade pesqueira ilegal teria o condão de repercutir negativamente sobre parte significativa da população de peixes ao longo do rio, por exemplo, impedindo ou prejudicando seu período de reprodução sazonal.
+4. Tal critério tem por objetivo indicar parâmetros para a verificação da efetiva ou potencial ocorrência de dano que afete diretamente, ainda que de forma potencial, bem ou interesse da União, e não criar critério de definição de competência sem base legal, tanto mais que não se pode depreender da lei ambiental que o dano à União é presumido.
+5. Situação em que os danos ambientais afetaram apenas a parte do rio próxima ao Município em que a infração foi verificada, posto que a denúncia informa que os réus foram flagrados pescando a cerca de 1.000 (mil) metros da Usina Hidroelétrica de Marimbondo, localizada em rio interestadual (Rio Grande), utilizando-se de rede de 15mm de 20 metros de comprimento, já tendo apanhado 2 Kg (dois quilos) de pescado da espécie conhecida como "fuzilim", supostamente para consumo próprio.
+6. Conflito conhecido, para declarar a competência do Juízo de Direito da Vara Única da Comarca de Nova Granada/SP, o suscitante.
+(CC 154.859/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 22/11/2017, DJe 29/11/2017)
+Ante o exposto, conheço do conflito negativo de competência para declarar competente o Juízo Estadual da Comarca de Tremembé-SP.
+Publique-se.
+Intimem-se.
