@@ -1,0 +1,65 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, não tendo os recorrentes esclarecido como o dispositivo legal indicado nas razões do recurso especial teria sido malferido pelo aresto estadual, incide o óbice da Súmula nº 284/STF.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de agravo interno interposto por [NOME] e OUTRA contra a decisão que conheceu do agravo para negar provimento ao recurso especial em virtude da aplicação da Súmula nº 284/STF e da ausência de afronta ao art. 1.022, II, do Código de Processo Civil de 2015 (fls. 1.030-1.033, e-STJ).
+Sustentam os agravantes que,
+"(..)
+Como destacado no Agravo e no Recurso Especial, sem prejuízo do entendimento do Tribunal de Origem e mesmo dessa CORTE SUPERIOR sobre o tema central de demanda, era - e ainda é - imperativo que o Poder Judiciário apresentasse as razões pelas quais não se estaria a considerar cassação da majoração ao valor atribuído à causa de ofício pelo juízo sentenciante e, bem assim, a correta atribuição do valor da causa a se considerar o valor entabulado no acordo de recompra do imóvel formulado pelos recorrentes (R$ 335.000,00 - fls.136/137), sob pena de evidente malferimento das exegeses normativas oriundas do inciso II do caput, inciso II do parágrafo único do artigo 1.022 (inciso II do artigo 535 do Código de Processo Civil de 1.973) e inciso IV do §1º do artigo 489 ambos do Código de Processo Civil, notadamente agora quando se observa a preocupação do legislador ao considerar sem fundamentação - e, portanto nula - a decisão que não decide fundamentadamente questão autônoma e independente da postulação que por si só seria suficiente ao afastamento da decisão impugnada (art. 1.022, caput, II e par. ún., II c/c art. 489, §1º, IV, CPC).
+(..)
+(..) como bem alinhavado no item 3. do Recurso Especial e no item 2. do Agravo de instrumento, a vulneração da norma contida no inciso II do artigo 932 do Código de Processo Civil (antigo artigo 557, caput do CPC/1973), se deu pelo fato do Tribunal de Origem entender pela prejudicialidade do recurso sem considerar que a real razão dos recorrentes terem noticiado a formulação do acordo junto aos autos do recurso de agravo de instrumento foi a de se estabelecer o montante correspondente ao novo valor da causa, qual seja, à quantia de R$ 335.000,00 (fls. 136/137), haja vista que, ao considerar o montante pela qual acordo foi firmado estabelece-se efetivamente objeto do litígio, retratando, portanto, o benefício econômico buscado em juízo, valor esse apurado como correto a ser considerada para a atribuição da valoração a causa" (fls. 225-229, e-STJ).
+Ao final, requerem a reconsideração da decisão agravada ou a submissão deste recurso à Turma julgadora.
+Impugnação apresentada às fls. 233-237 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, não tendo os recorrentes esclarecido como o dispositivo legal indicado nas razões do recurso especial teria sido malferido pelo aresto estadual, incide o óbice da Súmula nº 284/STF.
+4. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+O tribunal estadual, ao dirimir a controvérsia, assim consignou:
+"(..)
+A demanda, da qual tirados os recursos, é de anulação de ato jurídico, com pleito de suspensão dos efeitos da consolidação da propriedade e do leilão extrajudicial.
+A petição inicial do agravo de instrumento menciona três decisões, uma primeira, no juízo de admissibilidade da aptidão da petição inicial, com a correção imposta ao valor da causa, publicada em 1º de outubro de 2015, (fls. 34), e outras duas, de outubro de 2015, e de janeiro de 2016, em sede de embargos de declaração (fls. 35/37).
+As razões recursais parecem se voltar contra a última decisão prolatada nos embargos de declaração (data vênia, a petição inicial do recurso é pouco clara, transcrevendo uma decisão seguida da outra).
+Pois bem. No juízo ad quem, houve uma primeira decisão, suspendendo a decisão do juízo a quo até ulterior deliberação do relator sorteado e da C. Câmara (fls. 124).
+Foi ofertada contraminuta relativa à primeira decisão, de outubro de 2015, mencionando de início deserção, ao depois, reclamo de manutenção da decisão, finalizando, com anuência ao pleito dos agravantes, dizendo que a decisão não beneficia a agravada e prejudica os recorrentes (fls. 128/131).
+A (data vênia) confusa contraminuta se equivoca ao se posicionar favoravelmente ao pleito dos agravantes: alegação de prejuízo a parte adversa não é fundamento para demonstrar erro judicial e a alteração do valor da causa acarreta recolhimento de tributo devido ao Estado, não podendo o Judiciário ser indiferente e dispor do valor.
+Saliente-se que a ausência do correto recolhimento de valores devidos ao Estado é causa de cancelamento da demanda por falta de pressuposto processual.
+Com efeito.
+Os recorrentes e a recorrida, em manifestações, data vênia, pouco claras, não apontam no que consistiria o erro judicial da decisão de outubro de 2015.
+Transcrevo o fundamento da decisão:
+Vistos. Trata-se de ação ordinária de anulação de ato jurídico com pedido de antecipação parcial de tutela para suspensão dos efeitos da consolidação da propriedade e do leilão extrajudicial, previsto para os dias 05/10 e 19/10/2015. Informam que em 27 de junho de 2013 pactuaram com o requerido Cédula de crédito bancário com alienação fiduciária, oferecido como garantia da obrigação o imóvel matriculado sob número 16.321 do Primeiro Oficial de Registro de Imóvel da Comarca de Bauru e que por razões de dificuldades financeiras tornaram-se inadimplentes de duas (02) parcelas, com vencimento em 10/11/2014 e 10/0/2015. E que procuraram a parte requerida na tentativa de justificar o ocorrido e renegociar o contrato, mas o requerido descartou a possibilidade de acordo, informando que deveria ser paga a integralidade da dívida. Alega, ainda, que não foram cumpridas as formalidades exigidas pela lei 9.514/1997, visto que não foi encaminhada junto com a notificação extrajudicial planilha de cálculos da dívida, os valores relativos às prestações vencidas e os encargos a serem acrescidos à dívida principal. Assim, requererem liminarmente o depósito em juízo das duas parcelas em atraso e, se o caso, acrescido das parcelas vincendas, bem como da suspensão do leilão extrajudicial e que, ao final, seja anulada a consolidação da propriedade e todos os demais efeitos a partir da notificação extrajudicial. É síntese do necessário. 1- Para que se conceda a tutela antecipada, imperiosa se faz a presença de requisitos legais, pois trata-se de medida que adianta os efeitos da tutela de mérito, propiciando imediata execução. Nos termos do que dispõe o artigo 273 do Código de Processo Civil, deve existir prova inequívoca e o juiz se convencer da verossimilhança da alegação, e ainda existir receio de dano irreparável ou de difícil reparação ou ficar caracterizado abuso de direito de defesa ou manifesto intuito protelatório do réu. Segundo a jurisprudência, "a exigência de prova inequívoca significa que a mera aparência não basta e que a verossimilhança exigida é mais do que o "fumus boni juris" exigido para a cautelar" (TJSP AI nº 11.560-5 Fartura 8a Câmara de Direito Público Rel. Des. Celso Bonilha J. 08.05.1996). Ainda de conformidade com as vozes que ecoam dos nossos pretórios, a exigida prova inequívoca, "evidentemente, deve ser prova escrita" (JTA-Lex 161/351).
+"Havendo necessidade de produção de prova, descabe a outorga da tutela antecipada" (JTA-Lex 161/354). Na hipótese dos autos, não se verifica o periculum in mora já que a realização do leilão não causará prejuízo de difícil reparação à parte, pois poderá obstar posteriormente a expedição de carta de adjudicação. Assim, hei por bem INDEFERIR o pedido de antecipação parcial da tutela jurisdicional, o que ora efetivamente delibero. 3- Altero, de ofício, o valor da causa para R$ 804.226,00, a qual corresponde ao valor econômico que se pretende auferir, no caso o valor do bem (1º leilão), procedendo a serventia as alterações necessárias. Complemente a parte autora o valor das custas devidas, no prazo de 10 (dez) dias, sob pena de indeferimento da petição inicial e extinção do feito 4- Cite-se. Intime-se. Bauru, 28 de setembro de 2015.
+Sem apontar no que consistiria o erro judicial, em demanda que não é de recompra de imóvel, o recurso carece de regularidade formal.
+Mas o agravo interno do agravo de instrumento diz respeito à decisão deu por prejudicado o precitado recurso (fls. 138).
+E não há desacerto dessa decisão, pois a transação que as partes entabularam é de 23 de novembro de 2015 (fls. 136/137).
+O protocolo revela que a petição foi apresentada no juízo de origem em 08 de janeiro de 2016 (fls. 136/137), portanto, antes da interposição do agravo de instrumento.
+E na transação há expressa menção de que as partes desistem de quaisquer recursos, assumindo os recorrentes as custas sem qualquer ressalva de valor (fls. 137).
+Consequentemente, os recorrentes desistiram do agravo de instrumento que interpuseram.
+Há preclusão lógica" (fls. 151-155, e-STJ - grifou-se).
+Na fundamentação do aresto dos declaratórios, aquela Corte complementou:
+"(..)
+Transcrevo a ementa o v. acórdão que demonstra a ausência de qualquer vício a justificar o indevido manejo dos embargos de declaração, com expresso fito que de modificar o julgado, através de recurso desprovido de tal natureza jurídica.
+Agravo interno. Decisão que deu por prejudicado agravo de instrumento em razão de transação levada a efeito pelas partes.
+Persistência dos recorrentes alegando ser correto o valor que deram à causa, R$ 5.000,00, não o da avaliação do imóvel.
+Ausência de indicação do erro judicial da decisão de admissibilidade da petição inicial, que determinou a alteração do valor dado à causa. Descabimento de o Judiciário dispor de valor pertencente ao Estado. Pressuposto processual, resultando a ausência do devido recolhimento em cancelamento da distribuição.
+Transação entabulada pelas partes antes da interposição do recurso, mas informada posteriormente, assumindo, sem ressalvas, os recorrentes as custas processuais, desistindo de recursos. Preclusão lógica. Agravo interno desprovido.
+Rejeito os embargos de declaração" (fl. 167, e-STJ).
+
+Nesse contexto, observa-se que o tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão dos recorrentes.
+Por fim, quanto à apontada afronta ao art. 557 do CPC/1973, verifica-se que a decisão recorrida entendeu que não se poderia conhecer dessa insurgência, porquanto os recorrentes não esclareceram, nas razões do recurso especial, como tal dispositivo legal teria sido malferido pelo tribunal estadual, incidindo na espécie o óbice da Súmula nº 284/STF.
+Nas presentes razões recursais, os recorrentes não impugnam tal fundamentação, o que enseja novamente a aplicação da referida Súmula nº 284/STF, em virtude da deficiência recursal.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
