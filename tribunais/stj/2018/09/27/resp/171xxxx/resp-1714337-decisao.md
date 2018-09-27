@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" "c", da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 128):
+PROCESSO CIVIL. Serviço auxiliar voluntário de soldado da Polícia Militar. Prescrição. Hipótese de fundo de direito. Art. 1º do Decreto nº 20.910/32. Termo inicial é a data do encerramento do serviço auxiliar voluntário. Precedentes. Prescrição configurada, para todos os fins. Ação julgada improcedente. Sentença mantida. Recurso desprovido.
+O recorrente alega violação do artigo 40, § 10 da Constituição Federal em razão do direito em ter reconhecido para fins previdenciários o período trabalhado como voluntária na Polícia Militar do Estado de São Paulo.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 200/201.
+É o relatório. Decido.
+No caso dos autos, o recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Ademais, o recorrente, ao direcionar a sua tese no sentido de que a pretensão de declaração de tempo de serviço é imprescritível, deixou de impugnar o fundamento do acórdão recorrido segundo o qual "o direito de reconhecimento de tempo trabalhado como soldado temporário para fins de adicionais de tempo de serviço  .. , bem como o de recolhimento dos valores previdenciários relativos ao mesmo período, configura-se como hipótese de fundo de direito, na medida em que ambos decorrem da situação fundamental de equiparação entre soldados temporários e policiais militares efetivos  .. . O início do prazo prescricional para ações todo jaezda presente, cujo pedido é de equiparação de soldado temporário a policiais efetivos para fins trabalhistas e previdenciários, dá-se com o término do contrato de "trabalho voluntário" (fl. 130).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
