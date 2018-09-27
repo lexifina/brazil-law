@@ -1,0 +1,35 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÕES EXISTENTES. HONORÁRIOS ADVOCATÍCIOS. DISTRIBUIÇÃO PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.
+1. A verificação do grau de sucumbência de cada parte, para fins de aplicação da norma contida no parágrafo único do art. 21 do CPC, enseja incursão na seara fático-probatória dos autos, vedada pela Súmula 7 desta Corte.
+2. Embargos de declaração acolhidos sem efeitos infringentes.
+DECISÃO
+1. Trata-se de embargos de declaração opostos por MINTER INTERNACIONAL BRANDS DISTRIBUIDORA DE PRODUTOS LTDA em face de decisão da minha lavra assim sintetizada:
+RECURSO ESPECIAL. ARESTO IMPUGNADO. ANTERIOR AO NOVO CPC. ART. 535 DO CPC/1973. REGULAR PRESTAÇÃO JURISDICIONAL. RELAÇÃO DE CONSUMO. PESSOA JURÍDICA. TEORIA FINALISTA. LIMITAÇÃO AO LUCRO DAS INSTITUIÇÕES FINANCEIRAS. AUSÊNCIA DE EMBASAMENTO LEGAL.
+1. Em caso de empréstimo bancário feito por empresário ou pessoa jurídica com a finalidade de financiar decisões e estratégias empresariais, o empréstimo realizado possui natureza de insumo, não sendo destinatário final e, portanto, não se configurando a relação de consumo.
+2. O artigo 4º, b, da Lei 1.521/51 não limita o lucro das instituições financeiras (spread bancário) a 20% sobre os custos de captação dos recursos.
+3. Inviabilidade de, nesta via especial, verificar grau de sucumbência de cada parte, para fins de aplicação da norma contida no parágrafo único do art. 21 do CPC, por ensejar incursão à seara fático-probatória dos autos. Incidência da súmula 7 desta Corte.
+4. Recurso especial não provido.
+A parte embargante sustenta que houve omissão da decisão no tocante à suscitada necessidade de nova distribuição dos ônus de sucumbência, sob a ótica do afastamento da capitalização de juros, com reconhecimento de decaimento mínimo da recorrente.
+Defende que também houve omissão quanto à distribuição dos ônus de sucumbência nos autos da cautelar em apenso.
+É o relatório.
+ DECIDO.
+2. A decisão embargada foi publicada no âmbito do Novo CPC.
+Segundo o art. 1.022, caput e incisos, do Novo CPC, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material.
+Da doutrina processualista, extrai-se que a obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas.
+Por outro lado, verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis. Nos termos do magistério de Barbosa Moreira:
+Pode haver contradição entre proposições contidas na motivação (exemplo: a mesma prova ora é dita convincente, ora inconvincente), ou entre proposições da parte decisória, isto é, incompatibilidade entre capítulos do acórdão: v.g. anula-se, por vício insanável, quando logicamente se deveria determinar a restituição ao órgão inferior, para sentenciar de novo; ou declara-se inexistente a relação jurídica prejudicial (deduzida em reconvenção ou em ação declaratória incidental), mas condena-se o réu a cumprir a obrigação que dela necessariamente dependia; e assim por diante. Também pode ocorrer contradição entre alguma proposição enunciada nas razões de decidir e o dispositivo: por exemplo, se na motivação se reconhece como fundada alguma defesa bastante para tolher a pretensão do autor, e no entanto se julga procedente o pedido.
+(Comentários ao Código de Processo Civil. v. 5. Rio de Janeiro: Forense, 2008, pp. 556-557)
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/06/2011, DJe 01/07/2011.
+De resto, nos termos do art. 1.022, II, do Novo CPC "omissão de ponto ou questão sobre o qual devia se pronunciar ao o juiz de ofício ou a requerimento".
+3. De fato há as omissões apontadas.
+4. Sobre o alegado decaimento mínimo, importe observar a manifestação do tribunal de origem ao julgar os embargos de declaração:
+Resta ponderar, unicamente, que não cabe considerar, para efeito de fixação do ônus da sucumbência, se poderá haver saldo credor em favor da embargante, face a revisão determinada pelo acórdão embargado, mesmo porque somente na fase de liquidação isto poderá ser apurado. E se a revisão afastou a pretensão da embargante no tocante a limitação da cobrança dos juros remuneratórios, em decorrência de prática de "spread" abusivo, acolhendo-a no tocante a capitalização de juros, determinando o seu afastamento, com a consequente descaracterização dos efeitos da mora, configurou-se, por isso, a hipótese de sucumbência reciproca das partes, conforme mencionado no acórdão embargado. (fl. 1401 e-STJ)
+O tribunal entendeu ser necessária a liquidação judicial para verificar o alcance certo da sucumbência, sendo certo que a parte recorrente teve a seu favor o afastamento da capitalização de juros e a recorrida a manutenção da cobrança do "spread", o que evidenciou sucumbência recíproca.
+De qualquer modo, o entendimento desta Corte é no sentido de que a verificação do grau de sucumbência de cada parte, para fins de aplicação da norma contida no parágrafo único do art. 21 do CPC, enseja incursão na seara fático-probatória dos autos, vedada pela Súmula 7 desta Corte.
+5. Cabe observar a não configuração de dissídio pretoriano com o Resp 1291952, por falta de similitude fática.
+Neste julgado paradigma, foi reconhecida sucumbência mínima por as instâncias ordinárias terem afastado a capitalização dos juros e a multa contratual. Não é possível verificar que outro pedido também teria existido naqueles autos além desses. Logo, inviável dizer que a situação fática desse precedente corresponde a destes autos.
+No caso em análise, como elucidado pelo tribunal de origem, não foi acolhido o pedido de limitação do spread, mas foi acolhido o de afastamento da capitalização, com consequente manutenção de decisão cautelar, o que denota a ocorrência de sucumbência recíproca.
+5. Quanto à omissão sobre a distribuição dos ônus de sucumbência nos autos da cautelar em apenso, verifica-se que houve manifestação do tribunal de origem, ainda que implícita, ao ter mantido o provimento da cautelar e, ao final do voto vencedor, ter estabelecido que restou configurada sucumbência reciproca das partes, com determinação de que cada um arcasse com as custas e despesas processuais, bem como com o pagamento dos honorários de seus respectivos advogados.
+Sobre o ponto incide também o mesmo óbice da súmula 7/STJ, pois seria necessário reexaminar conjunto fático-probatório para alterar as conclusões que determinaram a forma de distribuição dos ônus sucumbenciais fixadas pelo tribunal a quo.
+6. Ante o exposto, acolho os embargos de declaração para prestar esclarecimentos, sem efeitos modificativos.
+Intimem-se. Publique-se.
