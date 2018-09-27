@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] em face de decisão denegatória de seguimento a recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado:
+"APELAÇÃO PENAL. ART. 339 DO CPB (DENUNCIAÇÃO CALUNIOSA). PLEITO ABSOLUTÓRIO. AUSÊNCIA DE DOLO ESPECÍFICO. CONDUTA ATÍPICA. IMPROCEDÊNCIA. MATERIALIDADE, AUTORIA E DOLO CLARAMENTE EVIDENCIADOS. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+1. Configura-se o crime descrito no art. 339 do CP, quando o dolo estiver representado pela vontade do agente em provocar a instauração de investigação policial, judicial, administrativa, civil ou de improbidade, contra alguém, imputando-lhe crime que o sabe inocente.
+2. Demonstrada por acervo probatório coeso e suficiente, materialidade, a autoria e o dolo, inviável a absolvição.
+3. Recurso conhecido e improvido. Decisão unânime." (e-STJ, fl. 192)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 231-233).
+Nas razões do recurso especial, a defesa aponta violação ao artigo 59 do Código Penal, Sustenta, em síntese, que a pena-base da recorrente foi fixada acima do mínimo legal de forma desproporcional, tendo havido equívoco na fundamentação das circunstâncias judiciais valoradas negativamente. Afirma que "não se pode fundamentar o exame da culpabilidade na alegação de que o acusado agiu de forma intencional e consciente" (e-STJ, fl. 244). Ademais, "os motivos do crime foram genericamente apreciados" (e-STJ, fl. 245).
+Requer o provimento do recurso, reduzindo-se a pena-base fixada ao mínimo legal.
+Foram apresentadas contrarrazões (e-STJ, fls. 254-261).
+O recurso foi inadmitido em razão da aplicação dos óbices das Súmulas 7 e 83 do STJ (e-STJ, fls. 263-268). Daí este agravo (e-STJ, fls. 277-285), no qual a agravante refuta a incidência dos citados óbices sumulares, alegando que o acórdão combatido não se encontra em harmonia com a jurisprudência desta Corte Superior, bem como que a pretensão recursal não demanda a revisão das premissas fáticas do caso.
+O Ministério Público Federal manifestou-se pelo conhecimento e desprovimento do agravo em recurso especial (e-STJ, fls. 311-316).
+É o relatório.
+Decido.
+Primeiramente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Para melhor análise da controvérsia, transcreve-se o trecho pertinente da dosimetria formulada na sentença e mantida no acórdão recorrido:
+"A culpabilidade da acusada situa-se entre mínima e média: agiu intencionalmente e com finalidade específica; é primária e possui bons antecedentes criminais (fls. 107); personalidade e conduta social não pesquisadas; a motivação do crime foi em decorrência de uma briga entre a ré e a namorada do seu ex-companheiro; as circunstâncias e consequências do delito são próprias da espécie delituosa; análise do comportamento da vítima: prejudicada.
+Diante disso, fixo a pena-base em 03 (três) anos de reclusão e no pagamento de 80 (oitenta) dias-multa no valor mínimo legal de 1/30 (um trinta avos) do salário-mínimo vigente à época do fato, punição esta que torno DEFINTIVA ante a inexistência de causas modificadoras, devendo o valor da multa ser corrigido na forma do § 2º, do art. 49, do CPB, e recolhido em conformidade com o art. 50, desse mesmo Código." (e-STJ, fl. 141)
+Conforme se observa, a pena-base da recorrente foi mantida com o aumento de 1 ano acima do mínimo legal, pela valoração negativa da culpabilidade e dos motivos do crime.
+Entretanto, em que pese a existência de certo grau de discricionariedade no cálculo da pena, verifica-se que a decisão impugnada carece de motivação válida, pois o julgador deixou de indicar elementos concretos dos autos pelos quais entendeu serem reprováveis tais circunstâncias judiciais do art. 59 do CP, tendo se valido de elementos genéricos ou próprios do tipo penal incriminador, em manifesto desacordo, portanto, com o disposto no art. 93, IX, da Constituição Federal.
+A jurisprudência desta Corte é firme no sentido de que considerações genéricas e desvinculadas do contexto fático dos autos, assim como elementos inerentes ao próprio tipo penal não servem para o agravamento da pena, como se constata na espécie.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. CASO DOROTHY STANG. ALEGAÇÃO DE OFENSA AO ART. 118 DA LOMAN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NULIDADE SUPOSTAMENTE OCORRIDA EM PLENÁRIO DE JÚRI. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO. AUSÊNCIA DE PREJUÍZO. FINALIDADE INTRÍNSECA DO ATO ATINGIDA. OFENSA AO ART. 30 DO CP. INCIDÊNCIA DA SÚMULA 284/STF. DOSIMETRIA. PENA-BASE. CULPABILIDADE E MOTIVOS DO CRIME. MAJORAÇÃO. POSSIBILIDADE. DECISÃO FUNDAMENTADA. DISCRICIONARIEDADE REGRADA. ANTECEDENTES, CONSEQUÊNCIAS, CIRCUNSTÂNCIAS E COMPORTAMENTO DA VÍTIMA. FUNDAMENTAÇÃO INIDÔNEA. REDIMENSIONAMENTO DA PENA. AGRAVOS DESPROVIDOS.
+ ..
+VI - A dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por esta Corte Superior, exceto se for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+ ..
+XIII - As circunstâncias do crime, por sua vez, encontram-se destituídas de qualquer fundamentação idônea, limitando a eg. Corte de origem a afirmar que "são desfavoráveis ao condenado".
+Agravos regimentais desprovidos."
+(AgRg no REsp 1.405.233/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONCUSSÃO. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL JUSTIFICADA. FIXAÇÃO DO REGIME FECHADO. POSSIBILIDADE.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+ ..
+5. Agravo regimental não provido."
+(AgRg nos EDcl no REsp 1.535.170/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/4/2017, DJe 3/5/2017).
+Dessa forma, merece prosperar a insurgência, procedendo-se ao redimensionamento da pena-base da recorrente, o que se passa a fazer.
+Na primeira fase, uma vez afastada a análise desfavorável da culpabilidade e dos motivos, e não mais subsistindo circunstância judicial desfavorável, fixo a pena-base em 2 anos de reclusão e 10 dias-multa, a qual torna-se definitiva, tendo em vista a inexistência de outra causa modificadora.
+Por fim, mantém-se o regime aberto para o cumprimento da pena, bem como o benefício de substituição da pena privativa de liberdade por duas restritiva de direito (prestação de serviços à comunidade e prestação pecuniária).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo e dou provimento ao recurso especial para reduzir a pena definitiva da recorrente ao patamar de 2 anos de reclusão e 10 dias-multa, mantidos o regime aberto e o benefício da substituição da pena privativa de liberdade por restritivas de direito.
+Publique-se. Intimem-se.
