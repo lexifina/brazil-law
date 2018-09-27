@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], em face de acórdão do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que o Juízo das Execuções proferiu decisão unificando as penas a serem cumpridas pelo paciente, estabelecendo a data do trânsito em julgado da nova condenação (12/11/2015) como data-base para a concessão de benefícios.
+Irresignada, a defesa interpôs agravo em execução penal, que foi improvido pela Corte local.
+Daí o presente writ, em que a Impetrante sustenta, em síntese, que inexiste previsão legal para que a data-base seja a data do trânsito em julgado da condenação, motivo pelo qual merece ser cassado o acórdão exarado pelo Tribunal coator, reformando-se a decisão para que seja mantida inalterada a data-base ou fixada no dia da prática do novo delito (fl. 3).
+Requer, liminarmente e no mérito, a concessão da ordem para cassar o acórdão vergastado, restabelecendo a data-base originária ou fixando-a no dia da prática do novo delito.
+A liminar foi parcialmente deferida, apenas para determinar, até o julgamento final deste writ, que a unificação das penas não acarrete alteração do termo inicial para a concessão de benefícios da execução (fls. 113-117).
+O Ministério Público Federal ofertou parecer, manifestando-se pela concessão da ordem (fls.123-127).
+É o relatório.
+DECIDO.
+Conforme relatado, o Tribunal a quo negou provimento ao agravo em execução da defesa, nos seguintes termos (fls. 97-100):
+Adianto que o presente agravo não merece prosperar.
+Observa-se dos autos que o apenado [NOME], atualmente, cumpre uma pena total de 08 (oito) anos e 06 (seis) meses de reclusão, tendo iniciado o cumprimento da reprimenda em 11JUL2015, com término previsto para 16JAN2024, pela prática dos delitos de tráfico ilícito de entorpecentes e furto.
+Em relação ao último delito (Processo de n.º 070/2.12.0002219-0) o apenado foi condenado na origem e, após, em 12NOV2015, ratificada a sua condenação em segundo grau (Apelação de n.º [CPF]).
+Tendo em vista a ratificação operada neste grau de Jurisdição, em Sessão de Julgamento realizada em 12NOV2015, o juízo da execução entendeu que, ante o cadastro da nova condenação provisória, operada a unificação das penas, o regime para o cumprimento das mesmas passaria a ser o fechado, bem como a data-base para a obtenção de futuros benefícios deveria ser o dia da prolação do acórdão, a qual apontou ser 12DEZ2015 (fl. 44).
+Diante disso, a defesa interpôs o presente recurso, pugnando, em suma, que a nova data-base para a obtenção de futuros benefícios seja a data em que cometido o segundo delito, não a data em que publicado o acórdão que ratificou a condenação do réu, o que não prospera.
+Efetivamente, entendo que, sobrevindo nova condenação do apenado, no curso da execução da pena, seja por fato anterior ou posterior ao seu início, o prazo para a concessão de benefícios fica interrompido, devendo o novo cálculo ter por base a unificação das penas.
+Ocorre que o entendimento jurisprudencial firmado e pacificado pelo Superior Tribunal de Justiça, aponta no sentido de que, ante a superveniência de nova condenação no curso da execução da pena, a nova data-base deve ser o dia do trânsito em julgado da nova condenação, ou, em se tratando de condenação provisória, em que pendente o trânsito em julgado, o dia em que publicado o acórdão.
+ ..
+Assim, tenho que não prospera a alegação defensiva de que a nova data-base para futura obtenção de benefícios deve ser o dia em que cometido o novo delito.
+Especificamente no caso em tela, necessário destacar que, acredito que por engano, o magistrado a quo determinou que a nova data-base deveria ser aquela em prolatado o acórdão que ratificou a nova condenação do réu, apontando, entretanto, a data de 12DEZ2015, quando, em verdade, o acórdão foi prolatado em sessão de julgamento realizada em 12NOV2Q15, como se percebe da leitura da fl. 34
+Assim, ora se corrige o erro material constatado, considerando que mais benéfico ao réu.
+Desse modo, no caso em tela, vai mantida a alteração da data-base tal como determinada na origem, para o dia da prolação do acórdão, apenas se considerando como tal a data de 12NOV2015.
+Ante o exposto, nego provimento ao agravo, com correção do erro acima apontado.
+É o voto.
+Assim como evidenciado, o cerne da impetração consiste em determinar a data que, após a unificação das penas, será considerada como termo inicial para a concessão de novos benefícios.
+Sobre o assunto, é bem verdade que a jurisprudência do STJ adotava o trânsito em julgado da última condenação, por fato posterior ou anterior ao início da execução, como o marco inicial para a concessão de novos benefícios da execução.
+Ocorre que a Terceira Seção, em recente precedente, uniformizou o entendimento jurisprudencial desta Corte, fixando a data da última prisão como marco interruptivo para concessão dos benefícios da execução, no caso de crimes cometidos antes do início da execução da pena, e, nos casos de delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar. Confira-se:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/2/2018, DJe 15/3/2018.)
+Assim, o entendimento do Tribunal a quo, ao estabelecer o trânsito em julgado da última condenação como marco interruptivo para a concessão de novos benefícios prisionais, não está de acordo com a atual jurisprudência desta Corte Superior, o que evidencia a existência de constrangimento ilegal.
+Ante o exposto, concedo o habeas corpus para determinar a data da última prisão como marco interruptivo para concessão dos benefícios da execução, no caso de crimes cometidos antes do início da execução da pena, e, nos casos de delitos cometidos no curso da execução, a data do cometimento da última infração disciplinar.
+Comunique-se.
+Publique-se.
+Intimem-se.
