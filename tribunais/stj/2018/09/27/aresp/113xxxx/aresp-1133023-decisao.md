@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PRELIMINAR REJEITADA. CASO CONCRETO. MATÉRIA DE FATO. CORREÇÃO MONETÁRIA E JUROS DE MORA DEVIDOS DESDE A DATA EM QUE OS VALORES DEVERIAM TER SIDO ENTREGUES À AUTORA. TERMO FINAL DA CORREÇÃO MONETÁRIA. DATA DO PAGAMENTO DOS VALORES DEVIDOS À AUTORA. APELO" (e-STJ, 247)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 219 do CPC/73, 85, §4º, 86, 1.022 do CPC/15, 405 e 944 do CC e divergência jurisprudencial, sustentando, em síntese, que: (a) o acórdão recorrido foi omisso; (b) os juros de mora e correção monetária são devidos até a data do bloqueio judicial de valores do agravante; e (c) os juros de mora são devidos a partir da citação.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+O Tribunal de origem ainda alinhou-se ao entendimento do STJ no sentido de que "o bloqueio judicial dos bens é medida constritiva de natureza preventiva que não se confunde com a sistemática do depósito judicial em garantia" (REsp 1.750.570/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/09/2018, DJe 14/09/2018). Desse modo, a incidência dos juros moratórios e correção monetária sobre a indenização por danos materiais não é limitada à data do bloqueio judicial dos bens do agravante.
+Dessarte, com fundamento nas Súmulas 83 e 568/STJ, não merece reforma o acórdão recorrido, em virtude de sua sintonia com o entendimento do STJ.
+Por fim, o STJ pacificou entendimento de que, em se tratando de responsabilidade contratual, os juros de mora incidem a partir da citação quanto às indenizações por dano moral e material. A propósito:
+"RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ADVOGADO. DESCUMPRIMENTO DO MANDATO. PRESCRIÇÃO. NÃO CONFIGURAÇÃO. CELEBRAÇÃO DE ACORDO PREJUDICIAL. RENÚNCIA DE CRÉDITO. RESPONSABILIDADE CIVIL. RELAÇÃO CONTRATUAL. ABUSO DE PODER. CONFIGURAÇÃO. HONORÁRIOS. ABATIMENTO. IMPOSSIBILIDADE. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO. TERMO FINAL. QUITAÇÃO. BLOQUEIO DOS BENS. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO. DANO MORAL. REDUÇÃO. INVIABILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+(..)
+10. Esta Corte firmou o entendimento de que, em se tratando de indenização por danos decorrentes de responsabilidade contratual, os juros moratórios fluem a partir da citação tanto para os danos morais quanto para os materiais.
+(..)
+14. Recurso especial parcialmente conhecido e, nessa extensão, não provido."
+(REsp 1750570/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/09/2018, DJe 14/09/2018)
+"EMBARGOS DE DECLARAÇÃO. INDENIZAÇÃO POR DANOS MORAIS. INFECÇÃO HOSPITALAR. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL DOS JUROS MORATÓRIOS. INEXISTÊNCIA DOS VÍCIOS DO ART. 535 DO CPC. CARÁTER INFRINGENTE DA PRETENSÃO. FINALIDADE INCOMPATÍVEL COM A NATUREZA DO RECURSO.
+1. Os embargos de declaração visam aclarar obscuridade, eliminar contradição ou suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide. Ausentes essas hipóteses, não prospera a irresignação recursal.
+2. A atribuição de efeitos infringentes a embargos declaratórios é medida excepcional, cabível tão somente nas situações em que, sanada a omissão, contradição ou obscuridade, a alteração do julgado surja como consequência natural da correção efetuada.
+3. Tratando-se de reparação de dano moral, os juros de mora incidem desde o evento danoso, em casos de responsabilidade extracontratual (Súmula n. 54/STJ), e desde a citação da parte ré, no caso de responsabilidade contratual.
+4. Embargos de declaração rejeitados."
+(EDcl nos EREsp 903.258/RS, Rel. Ministro ARI PARGENDLER, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 06/05/2015, DJe 11/06/2015)
+Assim, merece parcial reforma o acórdão recorrido para determinar que os juros de mora sobre a indenização por danos materiais devem incidir a partir da data da citação.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, para determinar que os juros de mora sobre a indenização por danos materiais devem incidir a partir da data da citação.
+Publique-se.
