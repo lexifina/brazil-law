@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CIÊNCIA DE ADITAMENTO REALIZADO NO TÍTULO QUE LASTREOU A DEMANDA. AUSÊNCIA DE PROVAS DE DESCONHECIMENTO DA MEDIDA. SÚMULA 7/STJ. INEXISTÊNCIA DE IMPUGNAÇÃO A TODOS OS PONTOS DO DECISUM. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. FUNDAMENTO INATACADO, SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão estadual firmou que o recorrente não logrou comprovar que não anuiu com os aditivos feitos no título exequendo nem que seria falsa sua assinatura nele aposta. Essas conclusões foram fundadas na apreciação de fatos e provas, atraindo a aplicação da Súmula 7/STJ por quaisquer das alíneas do permissivo constitucional.
+2. No agravo interno, o insurgente não impugna todos os fundamentos da decisão recorrida, atraindo, nesta oportunidade, os termos do art. 932 do CPC/2015 e da Súmula 182/STJ.
+3. A permanência de fundamento incólume do acórdão - coisa julgada acerca do prazo prescricional da ação monitória -, suficiente para sua manutenção, atrai a incidência das Súmulas 283 e 284/STF.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por [NOME] contra a decisão desta relatoria de fls. 649-652 (e-STJ).
+O apelo nobre havia sido fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fls. 552-567):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO RURAL PIGNORATÍCIA. PRESCRIÇÃO DECIDIDA EM ANTERIOR APELAÇÃO. RESPEITO À COISA JULGADA.AVAL. OBRIGAÇÃO SOLIDÁRIA. INTERRUPÇÃO DA PRESCRIÇÃO QUANTO AO DEVEDOR PRINCIPAL EXTENSIVA AO AVALISTA. ALEGAÇÃO DE FALSIDADE DE ASSINATURA DO AVALISTA APOSTA NOS TERMOS ADITIVOS. AUSÊNCIA DE COMPROVAÇÃO. COBRANÇA DE COMISSÃO DE PERMANÊNCIA CUMULADA COM OUTROS ENCARGOS DA MORA. IMPOSSIBILIDADE.
+1. Tendo sido estabelecido o prazo prescricional da pretensão monitória em anterior apelação, fixando-se este como o somatório do prazo de execução e do prazo da monitória, deve ser respeitada a disposição, sob pena de violação à coisa julgada.
+2. Considerando-se que o aval configura obrigação solidária, a interrupção da prescrição em relação ao devedor principal também promove a interrupção em relação ao avalista, nos termos do artigo 204, § 1º, do Código Civil.
+3. Tendo o avalista alegado falsidade de assinatura nos termos aditivos, competia-lhe a comprovação de suas assertivas, que não podem ser acolhidas, à míngua de tal demonstração.
+4. Constatada a incidência da comissão de permanência cumulada com outros encargos, deve ser modulada a cláusula contratual a fim de permitir a sua cobrança, desde que não cumulada com nenhum outro encargo e que o percentual praticado observe o somatório dos encargos contratados.
+5. Apelação conhecida e parcialmente provida.
+
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 580-591).
+No recurso especial, a parte recorrente apontou, além de divergência jurisprudencial, violação dos arts. 204, § 1º, e 206, § 5º, I, do Código Civil.
+Esclareceu que se insurgiu contra o acórdão estadual oriundo do julgamento de embargos à ação monitória que não reconheceu a prescrição da dívida constante na Cédula de Crédito Rural.
+Afirmou que tal decisum não merece prosperar, pois sua conclusão, no sentido de que houve novo prazo para o vencimento da dívida em razão de aditamento realizado pelo titular, não pode lhe ser imposta. Argumentou, para tanto, que não anuiu com nenhum aditamento e que é falsa a sua assinatura aposta no título, porquanto o suposto novo prazo prescricional para a demanda não lhe deve ser estendido. Frisou que a prescrição da Cédula de Crédito Rural é de 3 (três) anos, e não de 5 (cinco) anos, sendo certo que a contagem se dá a partir do termo inicial da data do original de vencimento do título, conforme regramento legal que uniformizou as letras de câmbio e notas promissórias, bem como a jurisprudência do STJ. Nesse contexto, aduziu que deve ser declarada prescrita a pretensão (e-STJ, fls. 595-603).
+Negado trânsito ao recurso especial (e-STJ, fls. 619-621), foi manejado o agravo em recurso especial (e-STJ, fls. 527-623), o qual foi desprovido, conforme as fls. 649-652 (e-STJ).
+Contra esse julgado interpõe o recorrente o agravo interno. Aduz que atacou, no apelo especial, todos os fundamentos do acórdão, não sendo caso de aplicação das Súmulas 283 e 284/STF. Destarte, informa que a fixação do prazo prescricional da ação monitória em 5 (cinco) anos, anterior ao curso do presente processo, é justamente a questão controvertida ora suscitada, como se vê da inicial do recurso especial (e-STJ, fls. 657-659).
+Contraminuta apresentada (e-STJ, fls. 668-674).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CIÊNCIA DE ADITAMENTO REALIZADO NO TÍTULO QUE LASTREOU A DEMANDA. AUSÊNCIA DE PROVAS DE DESCONHECIMENTO DA MEDIDA. SÚMULA 7/STJ. INEXISTÊNCIA DE IMPUGNAÇÃO A TODOS OS PONTOS DO DECISUM. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. FUNDAMENTO INATACADO, SUFICIENTE PARA A MANUTENÇÃO DO ACÓRDÃO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão estadual firmou que o recorrente não logrou comprovar que não anuiu com os aditivos feitos no título exequendo nem que seria falsa sua assinatura nele aposta. Essas conclusões foram fundadas na apreciação de fatos e provas, atraindo a aplicação da Súmula 7/STJ por quaisquer das alíneas do permissivo constitucional.
+2. No agravo interno, o insurgente não impugna todos os fundamentos da decisão recorrida, atraindo, nesta oportunidade, os termos do art. 932 do CPC/2015 e da Súmula 182/STJ.
+3. A permanência de fundamento incólume do acórdão - coisa julgada acerca do prazo prescricional da ação monitória -, suficiente para sua manutenção, atrai a incidência das Súmulas 283 e 284/STF.
+4. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Não merece amparo o pleito recursal ora em apreciação.
+Em relação ao argumento do insurgente de que não anuiu com os aditamentos realizados no título, o acórdão firmou que novos prazos lhe devem ser aplicados, pois, "a despeito da alegação do réu de que não é sua a assinatura constante dos referidos aditivos, não logrou comprovar tal assertiva. Veja-se que, em decisão de fl. 381, o Juízo determinou que o autor procedesse à prova da autenticidade dos documentos, juntando, ainda, a versão original destes. Não houve o cumprimento da determinação por parte do autor (fl. 384) e não foi apresentada qualquer insurgência pelo réu [NOME], que alegava a falsidade da assinatura constante dos aditivos, ou seja, não se inconformou o maior interessado em comprovar que não anuiu com a prorrogação do prazo de vencimento da dívida" (e-STJ, fl. 559).
+Essas conclusões foram fundadas na apreciação de fatos e provas constantes nos autos, atraindo a aplicação da Súmula 7/STJ por quaisquer das alíneas do permissivo constitucional.
+É relevante observar que, no agravo interno, o insurgente não impugna esse fundamento, atraindo, nesta oportunidade, a incidência do art. 932 do CPC/2015 e da Súmula 182/STJ. Isso porque, no presente recurso, consta apenas questionamento acerca da incidência das Súmulas 283 e 284/STF.
+O acórdão justificou que não era caso de decretação de prescrição, em que pese ao entendimento do Superior Tribunal de Justiça e às alegações do recorrente fundadas em dispositivos que demonstrariam que o prazo prescricional seria de 3 (três) anos, e não de 5 (cinco) anos.
+A esse respeito, constou que, "de plano, deve ser registrado que o prazo prescricional para a pretensão monitória já foi fixado por ocasião do julgamento da 1ª apelação interposta, que determinou, a partir do vencimento da obrigação prevista em cédula de crédito, a contagem do prazo para a propositura da execução (de 3 anos), findo o qual se iniciaria a contagem para a pretensão monitória (de 5 anos). Assim, estabeleceu o acórdão proferido em 1º lugar que o termo final do prazo prescricional somente ocorreria em outubro de 2014. Essa disposição, portanto, deve ser respeitada, sendo que eventuais alegações dos réus devem ser examinadas obedecendo-se a essa fixação, sob pena de violação à coisa julgada. No caso, a ação monitória foi proposta em 4/11/2011, ou seja, dentro do prazo prescricional acima mencionado" (e-STJ, fls. 557-558). Como já havia sido firmado o prazo prescricional em julgado anterior, não poderia ser o novo entendimento do STJ aplicável no caso.
+Esse fundamento, suficiente para manutenção do acórdão, não foi atacado no recurso especial, atraindo a aplicação das Súmulas 283 e 284/STF, também incidentes as ambas as alíneas do art. 105, III, da CF.
+Nota-se que a parte aduz ter atacado o fundamento do acórdão no sentido da aplicação do prazo prescricional da ação monitória em 5 (cinco) anos. Reexaminando as peças processuais, percebe-se que, embora haja menção a equívoco a respeito da incidência de tal lapso temporal, o fato é que não se questiona no recurso especial a ocorrência de coisa julgada firmada anteriormente em relação a essa questão, a qual não poderia ser mais alterada.
+Portanto, não merece reparos o teor do julgado monocrático ao analisar essa irresignação.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
