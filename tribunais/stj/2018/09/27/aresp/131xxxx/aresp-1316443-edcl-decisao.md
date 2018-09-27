@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por SUPERMERCADOS BH COMÉRCIO DE ALIMENTOS LTDA contra decisão desta relatoria (e-STJ, fls. 1091/1094), que conheceu do agravo para negar provimento ao recurso especial sob os fundamentos de incidência da Súmula 7/STJ na análise da existência de repasse de valores e de enriquecimento ilícito e incidência da Súmula 284/STF ante a ausência de indicação de dispositivo legal supostamente contrariado pelo acórdão recorrido ou objeto de interpretação.
+A parte embargante alega, nas razões recursais, a existência de contradição/obscuridade na decisão embargada, uma vez que as razões do recurso especial demonstram explicitamente a indicação do art. 884 do Código Civil, conforme se verifica da petição do recurso especial às fls. 967 e 968.
+Ao final, requer que seja sanada a contradição/obscuridade, e que sejam recebidos o agravo e julgado o mérito do recurso especial.
+Apresentada impugnação às fls. 1105/1109.
+É o relatório.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição ou omissão, não sendo admitida sua interposição com a finalidade de se rediscutir questões decididas e devidamente fundamentadas na decisão embargada, o que significa que os embargos não são aptos a provocar novo julgamento da lide.
+Consoante a jurisprudência do STJ, a contradição que autoriza a oposição de embargos declaratórios é a interna, ou seja, entre as proposições do próprio julgado, enquanto a obscuridade diz respeito à falta de clareza na decisão atacada. Nesse sentido, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. No tocante à violação do artigo 535, I e II, do CPC/73, não assiste razão à parte recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia. 1.1 Não há falar em omissão a ensejar a nulidade do aresto recorrido, quando a questão jurídica foi enfrentada pelo Tribunal a quo, ainda que em sentido contrário ao pretendido pelo insurgente. 1.2 A contradição que autoriza a oposição de embargos de declaração é aquela interna, isto é, a existente entre os próprios fundamentos da decisão, não se configurando a ocorrência de tal hipótese no decisum ora impugnado.
+2. Diante das razões do recurso especial e da fundamentação do acórdão recorrido, rever o entendimento do Tribunal de origem no sentido do não cabimento da multa contratual para nenhuma das partes, demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice das Súmulas 05 e 07 do STJ.
+3. Agravo interno desprovido."
+(AgInt no AREsp 568.670/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/05/2018, DJe 29/05/2018, g.n.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 535 DO CPC. OBSCURIDADE. INEXISTÊNCIA DO VÍCIO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 535 do CPC, os embargos de declaração apenas são cabíveis, dada sua função integrativa, quando constar no julgamento obscuridade ou contradição ou quando o julgador for omisso na análise de questão-chave para a forma de como se dará o desfecho da lide, sendo de responsabilidade do embargante, em seu arrazoado, não só apontar o ponto em que estaria o decisório inquinado de vício, mas também tecer argumentação jurídica competente demonstrando a repercussão gerada em seu direito.
+2. O vício da obscuridade passível de correção é o que se detecta no texto do decisum, referente à falta de clareza - dada a falta de legibilidade de seu texto ou a imprecisão quanto à motivação da decisão -, o que não se constata na espécie.
+3. Embargos de declaração rejeitados."
+(EDcl no AgRg no AREsp 666.851/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/06/2015, DJe 03/08/2015, g.n.)
+Não se constata, portanto, qualquer contradição ou obscuridade, uma vez que o decisum embargado apresenta fundamentação clara e objetiva quanto à denegação do recurso especial. Verifica-se, portanto, o nítido propósito de se rediscutir questões devidamente apreciadas na decisão ora embargada, o que é inviável em sede de embargos de declaração.
+Ante o exposto, rejeita-se os embargos de declaração.
+Publique-se.
