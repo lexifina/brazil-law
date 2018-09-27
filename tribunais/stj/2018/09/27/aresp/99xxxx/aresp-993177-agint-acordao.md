@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. RESPONSABILIDADE CIVIL. AUSÊNCIA DE PREVISÃO NA APÓLICE. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa ao art. 535 do Código de Processo Civil de 1973 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+3. Tendo entendido a Corte a quo que os vícios construtivos não estavam previstos nas apólices discutidas nos autos, para se concluir em sentido contrário seria indispensável a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que, na via estreita do recurso especial, esbarra nas Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Trata-se de agravo interno interposto contra decisão deste Relator que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a parte agravante reitera as razões trazidas no recurso especial, quanto à alegada ofensa ao art. 535 do CPC de 1973, aos arts. 1.434 e 1.460 do Código Civil de 1916, aos arts. 423 e 760 do Código Civil de 2002 e aos arts. 47, 48, 51, IV, e 54 do CDC. Afirma, para tanto: (I) omissão no acórdão proferido na origem no tocante à existência de cobertura securitária e ao caráter abusivo das cláusulas excludentes de responsabilidade; (II) ser devida a cobertura dos vícios de construção pela Apólice do Seguro Habitacional do Sistema Financeiro de Habitação, tendo em vista a devida previsão no contrato. Salienta, ademais, a inaplicabilidade, no caso, das Súmulas 5 e 7 do STJ.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O SENHOR MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - RELATOR:
+A parte agravante não trouxe argumentos capazes de infirmar os fundamentos da decisão agravada, a qual deve ser mantida.
+A questão acerca da responsabilidade civil da seguradora pelos vícios construtivos foi assim dirimida pelo colendo Tribunal de Justiça, in verbis:
+ A ação proposta pretende a reparação de danos em imóveis, localizados no Conjunto Habitacional Edson Bastos Gasparini, atribuindo os autores, os danos físicos, a procedimentos incorretos, materiais de péssima qualidade, erros de implantação e de execução, delitos de construção visando lucro abusivo, ocasionando o comprometimento das estruturas dos imóveis.
+ No tocante a matéria de fiundo, estabelece a cláusula 3.2 das Condições Particulares para Riscos de Danos Físicos (fls. 139):
+3.2. Com exceção dos riscos contemplados nas alíneas "a" e "b" do subitem 3.1, todos os citados no mesmo subitem deverão ser decorrentes de eventos de causa externa, assim entendidos os causados por forças que, atuando de fora para dentro! sobre o prédio, ou sobre o solo ou subsolo em que o mesmo se acha edificado, lhe causem danos, excluindo-se, por conseguinte, todo e qualquer dano sofrido pelo prédio ou benfeitorias que seja causado por seus próprios componentes, sem que sobre eles atue qualquer força anormal.
+ A perícia realizada foi conclusiva no sentido de que: "os vícios que as edificações apresentam são de um conjunto de defeitos que iniciaram na concepção das edificações e que foram se acumulando ao longo dos anos da construção, RESULTANDO NUMA OBRA INSEGURA, INSALUBRE, DESCONFORTÁVEL [NOME]" (fls. 908).
+ Esta C. Câmara, na sua atual composição, por unanimidade, se rendeu ao entendimento de que: "o segurador não é obrigado a indenizar dano resultante de vício intrínseco da coisa segurada, máxime quando tal risco foi expressamente ixcluído pela apólice, nos termos dos artigos 1459 e 1460 do Código Civil de 1916, vigente à época. A apelada não era obrigada a fiscalizar a obra, não podendo ser responsabilizada pelos vícios da construção, o que poderá ser demandado da construtora e/ou incorporadora" (Apelação Cível 224.560-4/3-00, rei. Des. PAULO RAZUK).
+Das transcrições supra, infere-se, inicialmente, que não prospera a alegada ofensa ao art. 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+No mérito, por sua vez, o acórdão recorrido está em conformidade com a jurisprudência do STJ, segundo a qual, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+Assim, tendo entendido a Corte a quo que os vícios construtivos não estavam previstos nas apólices discutidas nos autos, para se concluir em sentido contrário seria indispensável a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que, na via estreita do recurso especial, esbarra nas Súmulas 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1.305.102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe de 19/02/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DANOS CONSTRUTIVOS EM IMÓVEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno. Precedentes.
+2. Com base no princípio da dialeticidade recursal, não se conhece do agravo interno que veicula razões dissociadas dos fundamentos da decisão singular.
+3. A conclusão do acórdão recorrido, quanto à legitimidade ativa, adotada com base exclusivamente nos instrumentos anexos ao contrato de seguro, é insuscetível de reexame em sede de recurso especial, em razão do óbice da Súmula 5/STJ.
+4. Verificar se a apólice do seguro habitacional excluiria de modo válido a cobertura de vícios de construção demandaria na interpretação das cláusulas do ajuste, juízo obstado pelo óbice das Súmulas 5 e 7/STJ.
+5. Agravo interno conhecido em parte e, na extensão, desprovido.
+(AgInt no REsp 1.581.014/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2018, DJe de 28/05/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. NEGATIVA DE COBERTURA. AUSÊNCIA DE PREVISÃO. APÓLICE. VÍCIOS DE CONSTRUÇÃO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A Corte local, analisando os fatos e as provas dos autos, asseverou que a demandada não pode ser responsabilizada pelos vícios construtivos alegados na exordial, por não estarem cobertos na apólice securitária, a qual, ainda que seja oriunda de pacto de adesão, possui cláusulas expressas.
+2. Infirmar a conclusão do Tribunal estadual (acerca da abrangência dos danos cobertos no contrato de seguro e da clareza de suas cláusulas) exigiria, indubitavelmente, o revolvimento fático-probatório destes autos, inclusive a interpretação de cláusulas contratuais, o que não se admite no âmbito do recurso especial, ante o disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.184.189/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/03/2018, DJe de 13/03/2018)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
