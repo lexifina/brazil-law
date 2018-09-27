@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que não admitiu o recurso especial manejado com apoio no art. 105, III, "a" e "c", da Constituição Federal, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL. ROUBO DUPLAMENTE MAJORADO EM CONCURSO FORMAL.
+Em preliminar, o 1º apelo defensivo não vai conhecido no ponto em que postula a concessão da assistência judiciária gratuita, para a suspensão do pagamento das custas processuais, pois o Juízo a quo já suspendeu a sua exigibilidade na sentença recorrida. Quanto ao mais, a ausência de Defensor na fase inquisitorial não enseja a nulidade do inquérito policial, tampouco contamina a ação criminal instaurada com base nele. Precedente recente do Superior Tribunal de Justiça. Preliminar rejeitada.
+A materialidade do fato-subtração e a autoria concursada dos réus estão comprovadas no caderno processual, diante das circunstâncias da prisão em flagrante deles, da apreensão, com eles, de um dos telefones celulares subtraídos das vítimas, dos apontes incriminatórios dos réus feitos por elas, tanto em sede inquisitorial, quanto em Juízo, bem assim da confissão do 2º réu-apelante. De outra parte, as formalidades do art. 226 do CPP não são essenciais à validade do procedimento de reconhecimento produzido em sede policial ou em Juízo, consoante majoritária jurisprudência. Ademais, não prospera a tese do 1º réu - apelante, de que um terceiro indivíduo praticou o fato - subtração com o réu confesso, não tendo força para derruir os firmes apontes pessoas dele pelos ofendidos. O emprego de arma de fogo e o concurso de agentes estão evidenciados nos relatos dos ofendidos e também na confissão do 2º réu-apelante.
+No campo penológico, impõe-se a manutenção do reconhecimento do concurso formal entre os crimes de roubo, pois os réus, mediante uma única ação, subtraíram bens de duas vítimas.
+A pena carcerária definitiva do 1º réu-apelante vai reduzida, em face da redução do quantum de agravação pela reincidência, e de majoração pelo emprego de arma de fogo e concurso de agentes, ponto em que a pena carcerária definitiva do 2º réu-apelante também vai reduzida, em respeito à Súmula nº 443 do STJ. Manutenção das demais valorações e operações sentenciais no cálculo da apenação dos réus. Ratificados os regimes fechado e semiaberto aos réus reincidente e primário, respectivamente. Mantida a pena de multa cumulativa individual, fixada no mínimo legal para
+cada fato. O pleito do 1º apelante, de isenção do pagamento da pena de multa cumulativa, vai indeferido, por ausência de previsão legal para tanto. Disposições periféricas da sentença mantidas, inclusive quanto à segregação cautelar dos réus e ao reconhecimento do direito à respectiva detração própria, com determinação de retificação dos PECs provisórios e oficiamento à VEC da Comarca de Bento Gonçalves.
+1º APELO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PRELIMINAR REJEITADA, E, NO MÉRITO, 1º E 2º APELOS PARCIALMENTE PROVIDOS." (e-STJ, fls. 576-577).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 627-632).
+A defesa aponta, além da existência de dissídio jurisprudencial, ofensa aos arts. 226 e 564, IV, do Código de Processo Penal, e ao art. 8º, 2, alíneas "a", "d" e "e", do Pacto de San Jose da Costa Rica.
+Alega que "houve um equívoco em relação a não aplicação do art. 564, IV, do Código de Processo Penal, visto que julgador de primeira instância deveria ter declarado imediatamente a nulidade do flagrante realizado sem a presença de advogado" (e-STJ, fl. 658).
+Sustenta, ainda, que "não foi realizado nenhum reconhecimento pessoal, com as formalidades previstas em lei, a fim de "regularizar" a situação do reconhecimento por fotografia feito perante a autoridade policial. Conclui-se que o reconhecimento fotográfico funcionou, como ato probatório autônomo, substituindo o reconhecimento pessoal" (e-STJ, fl. 662).
+Requer que o presente Recurso Especial seja recebido, conhecido e provido para reformar a decisão recorrida.
+Foram apresentadas as contrarrazões (e-STJ, fls. 671-679).
+O recurso foi inadmitido sob o fundamento de que a pretensão recursal encontra óbice nas Súmulas 83/STJ e 282, 356 e 284 do STF (e-STJ, fls. 690-706). Daí este agravo (e-STJ, fls. 709-732).
+O Ministério Público Federal manifestou-se pelo "conhecimento do agravo para negar provimento ao recurso especial" (e-STJ, fls. 784-788).
+É o relatório.
+Decido.
+A pretensão recursal não merece provimento, por nenhuma das alíneas.
+Inicialmente, no que toca à questão amparada na suposta ofensa ao art. 564, IV, do Código de Processo Penal, o Tribunal a quo rejeitou a alegação de nulidade do processo por ausência de defensor na ocasião do flagrante, com base nos seguintes fundamentos:
+"A defesa de FRANCISCO argui a preliminar de nulidade do auto de prisão em flagrante, por cerceamento de defesa, uma vez não garantida ao réu a presença de Defensor.
+Neste lindes, rejeito, de plano, a alegação da referida nulidade em face da ausência de advogadã durante o procedimento inquisitorial, diante da inexistência de qualquer prejuízo ao réu, incidindo na espécie o princípio pas de nullité sans grief. No caso, anoto que os flagrados foram cientificados de todos os seus direitos constitucionalmente garantidos, inclusive o de comunicar a prisão em flagrante a um familiar e/ou defensor, o que não fizeram (fl. 30), inclusive FRANCISCO, quando cientificado individualmente dos seus direitos (fl. 45). Ademais, o fato de constar que havia um Defensor na ocasião da declaração de FRANCISCO, de que não desejava ser submetido a exame de corpo de delito (fl. 71) constitui mero equívoco de digitação, e não má fé da autoridade policial, como quer fazer crer a defesa, pois é notório no APF que o flagrado não havia indicado Defensor.
+Quanto ao mais, eventual vício ocorrido na fase administrativa do feito, não tem o condão de macular a prova judicial produzida na fase subseqüe nte do processo-crime.
+Sobre a questão, trago à colação recentíssimo precedente jurisprudencial do Superior Tribunal de Justiça, verbis:
+(..)
+Assim, a preliminar de nulidade vai rejeitada." (e-STJ, fls. 584-585).
+Conforme entendimento desta Corte, a presença do advogado durante a lavratura do auto de prisão em flagrante não constitui formalidade essencial a sua validade.
+A propósito:
+" ..
+2. Assim, não constitui ilegalidade a ausência de advogado no momento da lavratura do auto de prisão em flagrante, por se tratar de procedimento investigatório não sujeito ao contraditório, ainda mais se demonstrada a inexistência do prejuízo ao paciente, que permaneceu em silêncio no interrogatório policial.
+3. A ausência dos requisitos do artigo 312 do Código de Processo Penal, diante do caso concreto, impossibilita a manutenção da custódia cautelar do ora Paciente, sobretudo quando suas condições pessoais o favorecem, pois é primário e possui ocupação lícita.
+4. Ordem parcialmente concedida, para restabelecer a liberdade provisória anteriormente deferida ao Paciente, mediante termo de comparecimento a todos os atos do processo."
+(HC 155.665/TO, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 02/09/2010, DJe 08/11/2010).
+" ..
+3. É pacífico o entendimento do Superior Tribunal de Justiça no sentido de que o inquérito policial é procedimento inquisitivo e não sujeito ao contraditório, razão pela qual a realização de interrogatório sem a presença de advogado não é causa de nulidade.
+4. Ordem parcialmente concedida para garantir à paciente o direito de aguardar em liberdade o trânsito em julgado da condenação."
+(HC 139.412/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 09/02/2010, DJe 22/03/2010).
+De outra outra parte, no que tange à nulidade, por descumprimento das formalidade do art 226 do CPP, consta do aresto impugnado:
+"Por oportuno, em atenção ao 1º apelo, anoto que as formalidades do art. 226 do CPP não são essenciais à validade do procedimento de reconhecimento produzido em sede policial ou em Juízo.
+Exemplificativamente, colaciono os seguintes precedentes jurisprudenciais, verbis:
+(..)
+Esses apontes incriminatórios feitos pelas vítimas não foram fragilizados pela negativa de autoria de FRANCISCO, pelas declarações do réu JONATA e dos coflagrados não denunciados CLAUDIOMIRO e BRUNO.
+Ocorre que não prospera a tese defensiva de que um terceiro indivíduo, de alcunha "ZIKI", foi o coautor da subtração admitida pelo réu JONATA. É clara a tentativa dos flagrados, desde o APF, de imputar a um terceiro elemento que não foi preso em flagrante a coautoria do fato - subtração, sendo ele o responsável por levar consigo a arma de fogo utilizada na empreitada criminosa e também o telefone celular subtraído de CATHARINE. No ponto, saliento que JONATA foi flagrado visto, pelos Policiais Militares IVAN e CINTIA, quando dispensava um telefone celular, depois identificado como o bem subtraído de GIAN CARLO, de modo que ele não poderia se esquivar da acusação. Desta forma, a maneira de livrar os demais flagrados era assumir a responsabilidade pela subtração e imputá-la também a um terceiro sujeito.
+No ponto, anoto que os milicianos IVAN e CINTIA já tinham a informação sobre as características do veículo em que os agentes ativos do fato embarcaram após a subtração.
+Pois bem, destaco que o telefone celular de CATHARINE, supostamente levado embora com o alegado coautor, foi encontrado por ela dias depois, em razão de buscas feitas pela vítima, seguindo o rastreador do seu telefone celular, em local próximo ao que o veículo VW/Parati, tripulado pelos quatro flagrados, foi abordado pelos milicianos. Neste diapasão, cai por terra a tese de que o indivíduo de alcunha "ZIKI" levou consigo o telefone celular de CATHARINE.
+(..)
+O enredo contado pelos flagrados não fragiliza o aponte de FRANCISCO feito pelas vítimas, que sempre afirmaram que ele foi o responsável por portar a arma de fogo, enquanto JONATA segurava a vítima CATHARINE. Aliás, anoto que o ofendido GIAN CARLO afirmou em sede inquisitorial que o indivíduo que portava a arma de fogo usava óculos (fl. 37), tendo FRANCISCO sido preso em flagrante usando óculos (fl. 123). Esta circunstância foi confirmada pelo réu no interrogatório (CD/DVD da fl. 286).
+Diante de todo este contexto, não há dúvidas sobre a participação dos réus JONATA e FRANCISCO no fato-subtração em análise.
+Nesta toada, é certo que a subtração efetuada foi consequência de unidade de desígnios e condutas conjuntas, simultâneas e reforçadas entre si dos réus - inclusive com grande probabilidade de auxílio de um e/ou outro agente não denunciado -, o que contribuiu decisivamente para o resultado subtração, desestimulando qualquer reação por parte das vítimas. No caso, obviamente se trata de uma ação planejada, sendo clara a existência do prévio ajuste dos agentes para a prática da subtração, produto final das suas vontades. Logo, é induvidoso o concurso de agentes no crime de roubo.
+Neste passo, comprovada a autoria concursada dos réus FRANCISCO e JONATA, vai mantido o veredicto de inculpação lançado contra eles na sentença recorrida." (e-STJ, fls. 601-605).
+Com efeito, o aresto impugnado foi proferido em sintonia com o entendimento desta Corte, no sentido de que as disposições do artigo 226 do Código de Processo Penal configuram mera recomendação legal e não uma exigência, cuja inobservância não enseja a nulidade do ato, notadamente quando a identidade dos réus puder ser comprovada por outros meios de provas, tal como ocorrido na espécie.
+A corroborar esse entendimento, confiram-se:
+" ..
+1. Esta Corte Superior de Justiça firmou o entendimento no sentido de que as disposições insculpidas no artigo 226 do Código de Processo Penal configuram uma recomendação legal, e não uma exigência, cuja inobservância não enseja a nulidade do ato.
+(..)
+3. Habeas corpus não conhecido."
+(HC 460.136/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/08/2018, DJe 30/08/2018).
+" ..
+3. A jurisprudência deste Tribunal Superior entende que a inobservância das formalidades legais para o reconhecimento pessoal do acusado não enseja nulidade, por não se tratar de exigência, apenas recomendação, sendo válido o ato quando realizado de forma diversa da prevista em lei, notadamente quando amparado em outros elementos de prova.
+4. Agravo regimental não provido."
+(AgRg no AREsp 1002962/SE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/03/2017, DJe 16/03/2017).
+No caso, consoante expressamente destacado na sentença (e-STJ, fl. 400), os acusados foram devidamente reconhecidos durante o procedimento judicial de oitiva das vítimas e das testemunhas.
+Quanto à suposta ofensa ao art. 8º, §2º, do Pacto de San Jose da Costa Rica, verifica que essa questão não foi examinada pelo Tribunal de origem, tampouco foi objeto dos embargos declaratórios opostos, faltando-lhe assim o requisito indispensável do prequestionamento. Aplica-se na espécie o óbice da Súmula 282/STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, com fundamento no art. 932, VIII, do CPC c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
