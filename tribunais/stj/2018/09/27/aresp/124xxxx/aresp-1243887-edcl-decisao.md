@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO contra decisão monocrática desta Relatoria que conheceu do agravo para não conhecer do recurso especial, ao fundamento de que a pretensão de alterar o entendimento firmado pelo eg. Tribunal de origem demandaria revolvimento do acervo fático-probatório dos autos, o que atraiu a incidência da Súmula n. 7/STJ.
+Nas razões dos embargos, sustenta a embargante, em síntese, que: a) "A Embargante postula o acolhimento dos presentes aclaratórios, corrigindo-se o erro material ora noticiado a fim de que, suprimida a referência à AUTO POSTO NORSK LTDA (denominação por ela jamais adotada), seja transcrito em seu relatório o dispositivo da r. sentença de fls. 794/810, proferida nesta demanda pelo MM. Juízo da 25ª Vara Federal da Seção Judiciária do Rio de Janeiro"  fl. 1134 ; e b) fato novo e superveniente com relevância para a solução da controvérsia, que consiste em acórdão recentemente proferido pela eg. Terceira Turma deste STJ, no julgamento do Recurso Especial n. 1.721.701/RJ.
+A parte embargada apresentou impugnação às fls. 1163-1167/1168-1171.
+É o relatório. Passo a decidir.
+A irresignação merece prosperar em parte.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material.
+Com efeito, o que se observa é que, sob a arguição de "fato novo", a pretensão recursal é a apresentação de novas teses, que constituem inovações inadmissíveis nesta seara recursal, portanto, carentes de prequestionamento, com vistas a complementar a fundamentação posta no recuso especial, sobre o qual já se opera a preclusão consumativa, à luz do princípio da unirrecorribilidade.
+Por conseguinte, a apreciação de "fato novo", na forma como sustenta a embargante, não se enquadra em nenhuma das hipóteses legais para a oposição dos aclaratórios, consignadas no art. 1.022 do CPC/2015, razão pela qual, sob essa alegação, não se acolhem os presentes embargos.
+Noutro giro, no tocante ao erro material apontado, prospera a pretensão da embargante, uma vez que a ação ordinária ajuizada na origem, consoante sentença de fls. 794-810, foi proposta contra EXTRA COMUNICACAO LTDA E INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL.
+Nesse jaez, nessa parte, os presentes aclaratórios devem ser acolhidos, para corrigir o aludido erro material, devendo ser retificada a decisão embargada, em seu relatório, nos seguintes termos:
+- Onde se lê, à fl. 1.124:
+"Cuidam os autos, na origem, de ação ordinária promovida por COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO contra AUTO POSTO NORSK LTDA, doravante EXTRA COMUNICACAO LTDA, na qual o pedido foi julgado procedente, conforme sentença de fls. 696-701, cujo dispositivo segue transcrito: (..)".
+- Leia-se:
+ "Cuidam os autos, na origem, de ação ordinária promovida por COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO contra EXTRA COMUNICACAO LTDA E INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL, na qual o pedido de transferência de nome de domínio foi julgado extinto sem exame de mérito, e os demais pedidos foram julgados improcedentes, conforme sentença de fls. 794-810." (grifou-se)
+Ante o exposto, acolho parcialmente os embargos de declaração para corrigir erro material, sem efeitos infringentes.
+ Publique-se.
