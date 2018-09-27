@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL C/C PEDIDO DE INDENIZAÇÃO. CONTRATOS DE ADIANTAMENTO DE CÂMBIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. VALOR DA CAUSA. PROVEITO ECONÔMICO PRETENDIDO. DIFICULDADE DE MENSURAÇÃO IMEDIATA. INDICAÇÃO DE QUANTIA PROVISÓRIA. POSSIBILIDADE.
+1. Ação de revisão de contratos de adiantamento de câmbio c/c pedido de indenização.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial quanto à suposta negativa de prestação jurisdicional.
+3. Conforme a jurisprudência deste Tribunal, o valor da causa deve ser fixado de acordo com o proveito econômico visado pela parte na propositura da demanda. Assim, na hipótese de revisão parcial de contrato, tem-se por inaplicável o disposto no art. 259, V, do CPC/73, devendo o valor da causa refletir o conteúdo econômico das cláusulas que se pretende discutir. Precedentes.
+4. Na impossibilidade de imediata mensuração da expressão econômica da demanda, notadamente quando a quantificação depende de complexos cálculos contábeis, este Tribunal tem admitido que o valor da causa seja estimado pelo autor em quantia provisória, passível de posterior adequação ao valor apurado na sentença ou no procedimento de liquidação. Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] e ICATU COMÉRCIO EXPORTAÇÃO E IMPORTAÇÃO LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/01/2015.
+Atribuído a esta Relatora em: 25/08/2016.
+Ação: de revisão contratual c/c pedido de indenização, ajuizada pelos agravantes em face de MASSA FALIDA DO BANCO BVA S.A - MASSA FALIDA, devido a existência de cláusulas abusivas nos 23 (vinte e três) contratos de adiantamento de câmbio firmados entre as partes.
+Decisão interlocutória: rejeitou a impugnação ao valor da causa apresentada pela agravada.
+Acórdão: deu provimento ao agravo de instrumento interposto pela agravada, para fixar o valor da causa em R$ 24.921.552,00, correspondente ao somatório dos valores dos contratos objeto da demanda.
+Embargos de declaração: opostos pelos agravantes, foram acolhidos, sem efeitos infringentes, para sanar contradição do acórdão embargado.
+Recurso especial: alega violação dos arts. 258, 259, 260 e 535 do CPC/73, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que o valor da causa deve ser proporcional às cláusulas contratuais discutidas na demanda, sem necessidade de corresponder à totalidade dos contratos celebrados entre as partes. Ademais, afirma que o excesso de cobrança somente poderá ser mensurado após a realização de prova pericial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/73.
+- Da violação do art. 535 do CPC/73
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Do valor atribuído à causa
+A jurisprudência deste Tribunal firmou-se no sentido de que o valor da causa deve ser fixado de acordo com o proveito econômico visado pela parte na propositura da demanda. Assim, na hipótese de revisão parcial de contrato, tem-se por inaplicável o disposto no art. 259, V, do CPC/73, devendo o valor da causa refletir o conteúdo econômico das cláusulas que se pretende discutir.
+A propósito, confiram-se, exemplificativamente, os seguintes julgados: AgRg no REsp 1.281.512/SP, 1ª Turma, DJe de 26/10/2016; AgRg no AREsp 405.027/RJ, 4ª Turma, DJe de 18/09/2014; AgRg no Ag 1.253.347/ES, 4ª Turma, DJe de 24/09/2010; REsp 674.198/RS, 3ª Turma, DJ de 02/05/2006; REsp 436.866/RJ, 4ª Turma, DJ de 01/09/2003.
+Não obstante, na impossibilidade de imediata mensuração da expressão econômica da demanda, notadamente quando a quantificação depende de complexos cálculos contábeis, este Tribunal tem admitido que o valor da causa seja estimado pelo autor em quantia provisória, passível de posterior adequação ao valor apurado na sentença ou no procedimento de liquidação (REsp 1.534.559/SP, 3ª Turma, Dje de 01/12/2016; REsp 363.445/RJ, 3ª Turma, DJ de 01/04/2002 e REsp 714.242/RJ, 4ª Turma, DJe de 10/03/2008).
+Privilegiam-se, nesse caso, os princípios da economicidade e celeridade, uma vez que não é razoável impor ao autor que, antes do ajuizamento da ação, custeie a produção de uma perícia técnica com vistas à apuração do exato valor de sua pretensão - isso se tiver acesso a todos os dados necessários - para que, no decorrer do processo, essa prova técnica seja novamente produzida, agora sob o crivo do contraditório e da ampla defesa.
+Na espécie, o acórdão recorrido reconheceu que o montante do benefício perseguido pelos ora agravantes "não pode ser de plano estabelecido". Em razão disso, concluiu que "o único critério objetivo a ser utilizado é o disposto no art. 259, V, do Código de Processo Civil" (e-STJ fl. 795).
+Todavia, à luz das diretrizes jurisprudenciais acima destacadas, não incide o referido dispositivo legal na hipótese de revisão parcial do contrato, não havendo impedimento, ademais, para que seja mantido o valor provisório atribuído pelos autores - no montante de R$ 500.00,00 - até que haja a exata aferição do conteúdo da demanda.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para manter a decisão do juiz do 1º grau de jurisdição que rejeitou a impugnação ao valor da causa.
+Publique-se. Intimem-se.
