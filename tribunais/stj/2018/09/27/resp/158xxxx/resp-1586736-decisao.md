@@ -1,0 +1,33 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. AÇÃO DE RESCISÃO CONTRATUAL E DEVOLUÇÃO DE PARCELAS. CONVENÇÃO DE ARBITRAGEM. CLÁUSULA COMPROMISSÓRIA. RELAÇÃO DE CONSUMO. CONTRATO DE ADESÃO. INTELIGÊNCIA DO ART. 51 DO CDC.
+1. Não prevalece a cláusula compromissória que estabelece o procedimento arbitral, nos termos do art. 51, VII, do CDC, quando utilizada de forma compulsória. Precedente específico.
+2. Recurso especial provido.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por DONIZETE MARTINS DE SOUSA contra acórdão do Tribunal de Justiça do Estado de Goiás, ementado nos seguintes termos:
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA EM APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL C/C RESCISÃO CONTRATUAL E RESTITUIÇÃO DE IMPORTÂNCIAS PAGAS. JUÍZO ARBITRAL. CLÁUSULA COMPROMISSÓRIA. EXTINÇÃO DO PROCESSO. ART. 267, VII DO CPC. PEDIDO DE RECONSIDERAÇÃO. INEXISTÊNCIA DE FATOS NOVOS. 1 - Se existe no contrato de venda de imóvel cláusula compromissória expressa em que as partes livremente e de comum acordo elegeram a via arbitral para dirimir as questões oriundas da relação contratual nos termos da Lei nº 9.307/96, é de se excluir a participação da Justiça Comum Estatal para julgar tal demanda face à ausência de competência. 2 - Consoante o art. 267, inciso VII, do Código de Processo Civil, deve o processo ser extinto sem julgamento do mérito se as partes convencionaram cláusula de eleição de foro para a Côrte de Conciliação e Arbitragem. 3 - Não demonstrado fato novo a embasar a pretensão regimental, deve ser mantida a decisão que rejeitou os embargos de declaração opostos, bem como a que deu provimento imediato ao recurso de apelação cível, não cabendo, assim, a reforma da decisão agravada regimentalmente. Agravo Regimental conhecido e desprovido.
+Em suas razões, a parte recorrente sustentou que o acórdão recorrido violou o disposto nos artigos 535, II, do CPC/73, 6º, 7º, 46 e 51, inciso VII, do Código de Defesa do Consumidor e 4º, § 2º, 6º, 7º da Lei nº 9.307/96, bem como apontou dissídio jurisprudencial.
+Presentes as contrarrazões, o recurso especial foi admitido.
+Recurso especial interposto sob a égide do CPC/73.
+É o relatório.
+Decido.
+O Tribunal de origem, reformando sentença que julgou parcialmente procedente os pedidos da petição inicial para declarar a rescisão contratual e condenar a requerida à restituição das importâncias já adimplidas pelos autores, acolheu a preliminar suscitada na apelação cível para extinguir o processo, sem resolução de mérito, nos termos do art. 267, VII, do CPC/73.
+Quanto ao tema devolvido com o presente recurso especial, acerca validade de cláusula compromissória no contrato de adesão de compra e venda diante do Código de Defesa do Consumidor, assim, se manifestou o Tribunal de origem:
+"Ainda, não vinga a tese dos autores de que a referida cláusula é nula, porquanto ofende os artigos 46 e 51, inciso VII, do Código de Defesa do Consumidor, eis que inaplicável, pois trata-se de contrato de compra e venda, ademais, tiverem pleno acesso e conhecimento de todas as cláusulas contratuais."
+Entretanto, o entendimento jurisprudencial desta Corte Superior é no sentido oposto, considerando que o "art. 51, VII, do CDC limita-se a vedar a adoção prévia e compulsória da arbitragem, no momento da celebração do contrato, mas não impede que, posteriormente, diante de eventual litígio, havendo consenso entre as partes (em especial a aquiescência do consumidor), seja instaurado o procedimento arbitral."
+Como no presente caso, "a atitude da recorrente (consumidora) de promover o ajuizamento da ação principal perante o juízo estatal evidencia, ainda que de forma implícita, a sua discordância em submeter-se ao procedimento arbitral, não podendo, pois, nos termos do art. 51, VII, do CDC, prevalecer a cláusula que impõe a sua utilização, visto ter-se dado de forma compulsória.
+Nesse sentido:
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL CUMULADA COM REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. CONVENÇÃO DE ARBITRAGEM. CLÁUSULA COMPROMISSÓRIA. RELAÇÃO DE CONSUMO. CONTRATO DE ADESÃO.
+1. Ação ajuizada em 05/03/2012. Recurso especial concluso ao gabinete em 26/09/2016. Julgamento: CPC/73.
+2. O propósito recursal é definir se é válida cláusula compromissória arbitral inserida em contrato de adesão, notadamente quando há relação de consumo, qual seja, a compra e venda de imóvel residencial.
+3. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais impede o conhecimento do recurso especial.
+4. Com a promulgação da Lei de Arbitragem, passaram a conviver, em harmonia, três regramentos de diferentes graus de especificidade: (i) a regra geral, que obriga a observância da arbitragem quando pactuada pelas partes, com derrogação da jurisdição estatal; (ii) a regra específica, contida no art. 4º, § 2º, da Lei nº 9.307/96 e aplicável a contratos de adesão genéricos, que restringe a eficácia da cláusula compromissória; e (iii) a regra ainda mais específica, contida no art. 51, VII, do CDC, incidente sobre contratos derivados de relação de consumo, sejam eles de adesão ou não, impondo a nulidade de cláusula que determine a utilização compulsória da arbitragem, ainda que satisfeitos os requisitos do art. 4º, § 2º, da Lei nº 9.307/96.
+5. O art. 51, VII, do CDC limita-se a vedar a adoção prévia e compulsória da arbitragem, no momento da celebração do contrato, mas não impede que, posteriormente, diante de eventual litígio, havendo consenso entre as partes (em especial a aquiescência do consumidor), seja instaurado o procedimento arbitral.
+6. Na hipótese sob julgamento, a atitude da recorrente (consumidora) de promover o ajuizamento da ação principal perante o juízo estatal evidencia, ainda que de forma implícita, a sua discordância em submeter-se ao procedimento arbitral, não podendo, pois, nos termos do art. 51, VII, do CDC, prevalecer a cláusula que impõe a sua utilização, visto ter-se dado de forma compulsória.
+7. Recurso especial parcialmente conhecido e, nesta parte, provido.
+(REsp 1628819/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/02/2018, DJe 15/03/2018)
+
+Dessa forma, diante do notório dissídio entre o entendimento adotado pelo Tribunal de origem e o preconizado por esta Corte Superior, merece acolhimento a insurgência recursal.
+Portanto, merece ser afastada a preliminar, retornando os autos à origem para prosseguimento no julgamento da apelação cível, como se entender de direito.
+Ante todo exposto, DOU PROVIMENTO ao recurso especial.
+Intimem-se.
