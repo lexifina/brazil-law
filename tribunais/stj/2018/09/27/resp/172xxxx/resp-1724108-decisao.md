@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/15. INOCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança devido à negativa de cobertura de sinistro.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/15.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por TRANSPORTES MOBILINE LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de cobrança, ajuizada pela recorrente, em face da TOKIO MARINE SEGURADORA S.A, devido à negativa de cobertura de sinistro, embora mantenha com a recorrida contrato de seguro. Pleiteia seja a recorrida condenada ao pagamento da quantia de R$ 104.740,91 (cento e quatro mil, setecentos e quarenta reais e noventa e um centavos).
+Sentença: julgou improcedente o pedido.
+Acórdão: julgou prejudicada a apelação interposta pela recorrente em razão do acolhimento da preliminar contrarrecursal, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. SEGUROS. AÇÃO DE COBRANÇA. SEGURO DE CARGA. PRESCRIÇÃO. CAUTELAR DE PROTESTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL INOCORRENTE. PRESCRIÇÃO IMPLEMENTADA.
+1) Trata-se de recurso de apelação interposto contra a sentença de improcedência de ação de cobrança de seguro de carga.
+2) Consoante a exordial, a empresa autora mantém com a seguradora ré contrato de seguro de responsabilidade civil facultativa - desvio de carga.
+Relatou que o veículo de sua propriedade, placas [PLACA], trafegava pelo perímetro urbano da cidade de São Paulo quando foi abordado por elementos armados que anunciaram o assalto.
+Referiu que o caminhão transportava uma carga de eletrodomésticos, tendo ressarcido o proprietário das mercadorias em face da negativa de cobertura por parte da demandada. Salientou que a negativa teve como fundamento o fato de o evento não estar coberto de acordo com as condições contratadas na apólice.
+3) Tratando-se de pretensão do segurado contra o segurador o prazo prescricional aplicável é ânuo, nos termos do artigo 206, § 1º, inc. II, do Código Civil. O termo inicial do prazo prescricional, por sua vez, corresponde à data do sinistro, podendo ser deslocado para data da negativa na esfera administrativa. Inobstante o inc. II do art. 202 do CC preveja a possibilidade de o lapso prescricional restar interrompido pelo protesto, no caso concreto a ação cautelar ajuizada pela parte autora não tem o condão de gerar o efeito pretendido. O manejo da ação cautelar de protesto interruptivo da prescrição, inobstante seja reconhecido jurisprudencialmente, é cabível tão somente quando demonstrada a impossibilidade de ingressar com a ação principal diretamente.
+4) In casu, colhe-se da petição inicial da ação cautelar em apenso que, quando do manejo da demanda, objetivava a parte autora interromper o lapso prescricional a fim de reunir os documentos necessários ao ajuizamento da ação principal, justificativa que não se presta ao embasamento da medida cautelar. A tese de que o documento de fls. 44, juntado também às fls. 50 não se presta para o fim de estabelecer o termo inicial para a contagem do prazo prescricional do prazo prescricional esvai-se na medida em que a ação cautelar foi ajuizada exatamente dois dias antes da expiração do prazo de prescrição. Além de não ter restado demonstrada eventual dificuldade na obtenção dos documentos, compulsando-se os autos da presente ação de cobrança verifica-se que a exordial está aparelhada com documentos produzidos pela parte autora, bem como documentos comuns à ambos os litigantes, dos quais o demandante já detinha posse. Sendo assim, o termo inicial do lapso prescricional corresponde à data da efetiva negativa de pagamento da indenização na esfera administrativa, conforme reconhecido em réplica, restando implementado o prazo ânuo.
+PRELIMINAR CONTRARRECURSAL ACOLHIDA. APELAÇÃO PREJUDICADA. (e-STJ Fls. 210/211)
+Embargos de declaração: interpostos pela recorrente, foram rejeitados, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. SEGUROS. AÇÃO DE COBRANÇA. SEGURO DE CARGA. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. PREQUESTIONAMENTO.
+1) Trata-se de embargos de declaração opostos em face de omissão no acórdão relacionado à AC [CPF]. No referido julgamento, restou acolhida a preliminar contrarrecursal para o fim de julgar extinta a ação de cobrança de seguro de carga em face do reconhecimento da prescrição.
+2) Segundo a parte autora, ora recorrente, há omissão quanto ao procedimento previsto no § 2º do art. 1.009 do CPC e no que se refere à inexistência de requisito no art. 202 do Código Civil para que a prescrição seja interrompida.
+3) In caso, almeja a parte embargante, visivelmente, o reexame da matéria debatida e decidida no acórdão, providência descabida em embargos de declaração. Em realidade, a parte recorrente não aponta omissão no acórdão recorrido, mas defeito no procedimento, o que se revela descabido em sede de embargos declaratórios.
+4) Os dispositivos legais que interessavam ao deslinde da controvérsia foram mencionados e interpretados no acórdão embargado, ainda que implicitamente, ficando afastados todos os demais tidos como aptos a obter pronunciamento jurisdicional diverso do que foi declinado.
+5) Inexistência das hipóteses autorizadoras da espécie recursal.
+EMBARGOS DE DECLARAÇÃO PARCIALMENTE CONHECIDOS E, NA PARTE CONHECIDA, DESACOLHIDOS. (e-STJ Fl. 233)
+Recurso especial: alega violação dos arts. 489, § 1º, 1.009, §§ 1º e 2º, e 1.022 do CPC/15; 202, II, do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a nulidade do acórdão recorrido em razão da ausência de intimação para se manifestar acerca da preliminar suscitada pela recorrida nas contrarrazões do recurso de apelação. Afirma que a pretensão está prescrita em virtude do "protesto interruptivo da prescrição".
+Relatado o processo, decide-se.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ausência de defeito de procedimento (e-STJ fl. 137/238), de maneira que os embargos de declaração opostos pela recorrente de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/15.
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o fundamento utilizado pelo TJ/RS para mitigar a aplicação do art. 1.009 do CPC/15 à hipótese dos autos, qual seja, que "a questão acerca da prescrição envolve matéria de III ordem pública, razão pela qual, mesmo que a parte ré não a tivesse suscitado em contrarrazões, seria conhecida" (e-STJ Fl. 238). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na espécie, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à prescrição da pretensão da recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários fixados anteriormente para 15% (quinze por cento) do valor atualizado atribuído à causa.
+Publique-se. Intimem-se.
