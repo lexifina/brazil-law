@@ -1,0 +1,13 @@
+Decisão:
+    Vistos.
+    Este Supremo Tribunal submeteu as questões trazidas no presente processo à sistemática da repercussão geral (Recurso Extraordinário n. 870.947/SE, Tema n. 810): repercussão geral reconhecida e mérito julgado.
+    Anote-se que a jurisprudência da Corte é pacífica no sentido de que a existência de precedente firmado por seu Tribunal Pleno autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação ou do trânsito em julgado do paradigma. Vide:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REAFIRMAÇÃO DA JURISPRUDÊNCIA SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. RE 855.178-RG. JULGAMENTO IMEDIATO. POSSIBILIDADE. TRÂNSITO EM JULGADO. DESNECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO” (ARE nº 909.527/RS-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/5/16).
+    “Agravo regimental em recurso extraordinário. 2. Direito Processual Civil. 3. Insurgência quanto à aplicação de entendimento firmado em sede de repercussão geral. Desnecessidade de se aguardar a publicação da decisão ou o trânsito em julgado do paradigma. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negativa de provimento ao agravo regimental” (RE n° 1.129.931/SP-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 27/8/18).
+    Entretanto, o eminente Ministro Luiz Fux, Relator do feito paradigma da repercussão geral, conferiu efeito suspensivo aos embargos de declaração por meio dos quais se busca a modulação dos efeitos da decisão tomada pelo Plenário desta Suprema Corte, o que impõe, excepcionalmente, diante dessa peculiaridade, que se aguarde o julgamento dos referidos embargos declaratórios pelo Plenário do STF para que a Corte de origem aplique a sistemática da repercussão geral no caso em tela.
+    Pelo exposto, reconsidero as decisões anteriormente proferidas e determino a devolução destes autos ao Tribunal de origem para que, após a conclusão do julgamento dos embargos de declaração no RE nº 870.947/SE, sejam observados os procedimentos previstos nos incs. I e II do art. 1.030 do Código de Processo Civil (al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de setembro de 2018.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
