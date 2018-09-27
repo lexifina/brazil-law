@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por [NOME] e outros, em 31/07/2018, a decisão de minha lavra, que com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheceu do Agravo para negar provimento ao Recurso Especial, interposto pela FAZENDA DO ESTADO DE SÃO PAULO, parte ora embargada.
+Sustenta a parte embargante a existência de omissão, eis que, o r. despacho deixou de majorar os honorários advocatícios sucumbenciais, nos termos do art. 85, § 11, do CPC/2015 (fls. 611/615e).
+Intimada (fl. 620e), a parte embargada deixou transcorrer in albis o prazo para Impugnação.
+Os Embargos de Declaração merecem prosperar.
+Com efeito, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Na hipótese, constata-se a ocorrência de erro material. Isso porque o acórdão recorrido arbitrou, a fl. 55e, a verba honorária em 12% (doze por cento) sobre a base indicada pela MM. Juíza a quo, qual seja sobre diferença entre o valor executado e o valor confessado pela Fazenda.
+Assim, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), devem ser majorados os honorários advocatícios devidos pela FAZENDA DO ESTADO DE SÃO PAULO, em favor de [NOME] e outros, anteriormente fixados em 12% (doze por cento) sobre a base indicada pela MM. Juíza a quo, qual seja sobre diferença entre o valor executado e o valor confessado pela Fazenda (fl. 55e), para 13% (treze por cento) sobre a base indicada pela MM. Juíza a quo, qual seja sobre diferença entre o valor executado e o valor confessado pela Fazenda, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição do Recurso Especial, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Fica, assim, sanado o referido erro material.
+Ante o exposto, acolho os Embargos de Declaração, apenas para sanar o erro material indicado.
+I.
