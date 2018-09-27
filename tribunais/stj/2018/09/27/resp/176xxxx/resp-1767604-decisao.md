@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE NATAL, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 103):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO DO PROCESSO POR ABANDONO DE CAUSA. ART. 267, III, DO CPC. POSSIBILIDADE. PRECEDENTES. QUESTÃO DECIDIDA NO RESP Nº 1120087/SP, SOB A ÉGIDE DO ART. 543-C, DO CPC. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Foram rejeitados os aclaratórios (e-STJ fls. 116/120).
+Nas suas razões (e-STJ fls. 124/151), o recorrente aponta divergência jurisprudencial e violação dos arts. 40, §§ 1º, 2º, 3º e 4º, da LEF. Sustenta, em resumo, que: (a) não á possível presumir abandono de causa, quando o exequente manifesta-se pelo prosseguimento do feito, ainda que a destempo; (b) é necessário o requerimento do executado para que o feito seja extinto; (c) a extinção da execução fiscal somente pode ocorrer depois de expirado o prazo de cinco anos previsto no art. 40 da LEF.
+Sem contrarrazões (e-STJ fl. 159).
+Decisão a quo de admissão do recurso especial consta às e-STJ fls. 161/162.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Considerado isso, vejamos o que decidiu a Corte estadual:
+O relator do presente recurso, o Desembargador Amílcar Maia, apresentou voto no sentido de acolher a pretensão recursal, ao fundamento de que a Fazenda Pública, mesmo que extemporaneamente, demonstrou interesse no prosseguimento do feito, bem como que não caberia extinção processual por abandono de causa em execução fiscal, mas apenas suspensão do processo com a posterior da prescrição intercorrente.
+Como se observa dos autos, o exequente, ora apelante, deixou de dar o devido andamento ao processo, a despeito de advertido pessoalmente de que a sua inércia, no prazo de 48 (quarenta e oito) horas, redundaria na extinção do feito sem exame de mérito.
+Em hipóteses dessa natureza, a jurisprudência consolidou-se no sentido de que, nas execuções não embargadas, mesmo quando se trata de execução fiscal, o requerimento de extinção do feito por abandono é dispensável, sendo inaplicável a Súmula 240 do Superior Tribunal de Justiça.
+ ..
+É necessário, no entanto, enfatizar que a determinação de cumprimento do art. 40 da Lei de Execução Fiscal somente deve ser observada quando esse dispositivo é aplicável.
+Note-se, por exemplo, que no próprio paradigma não houve observância do art. 40 da LEF, já que esse dispositivo era inaplicável. Na espécie, o abandono de causa deu-se logo após o ajuizamento da ação, quando o Juiz Federal determinou o depósito das custas relativas às diligências realizadas pelo oficial de justiça. A Fazenda Nacional ignorou tal determinação, a despeito de pessoalmente intimada, o que implicou na extinção por abandono. Frise-se que tal decisão não foi reformada pelo colendo STJ.
+ ..
+Ademais, frise-se que no caso em apreço as diligências em busca de bens penhoráveis sequer chegaram a ter início, razão pela qual é absolutamente inaplicável o art. 40 da LEF, o qual exige como pressuposto o esgotamento de tais diligências.
+Do que se observa, o acórdão recorrido está em conformidade com a jurisprudência desta Corte, firmada em julgamento de recurso especial repetitivo (REsp 1.120.097/SP), segundo a qual a inércia da Fazenda exequente, ante a intimação regular para promover o andamento do feito, implica a extinção de ofício da execução fiscal não embargada, independentemente de requerimento do réu.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. ABANDONO. APLICAÇÃO DO ART. 267, III, DO CPC. DECRETAÇÃO DE OFÍCIO. POSSIBILIDADE. NÃO-INCIDÊNCIA DA SÚMULA 240/STJ. MATÉRIA DECIDIDA PELA PRIMEIRA SEÇÃO, NO RESP 1.120.097/SP, MIN. LUIZ FUX, DJE DE 26/10/2010, JULGADO SOB O REGIME DO ART. 543-C DO CPC. ESPECIAL EFICÁCIA VINCULATIVA DESSE PRECEDENTE (CPC, ART. 543-C, § 7º), QUE IMPÕE SUA ADOÇÃO EM CASOS ANÁLOGOS.
+AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(AgRg no REsp 1.124.408/DF, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 21/06/2012, DJe 28/06/2012).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ART. 535, II, DO CPC/1973. AUSÊNCIA DE VIOLAÇÃO. EXECUÇÃO FISCAL. INÉRCIA DA PARTE EXEQUENTE. ABANDONO DA CAUSA. EXTINÇÃO DO PROCESSO DE OFÍCIO. POSSIBILIDADE. EXECUÇÃO NÃO EMBARGADA. INEXIGÊNCIA DE REQUERIMENTO DA PARTE EXECUTADA. INAPLICABILIDADE DA SÚMULA 240/STJ. RECURSO ESPECIAL NÃO PROVIDO. 1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. A Primeira Seção deste Tribunal, no julgamento do REsp 1.120.097/SP, firmou o entendimento de que, nas execuções fiscais não embargadas, a inércia da exequente, diante da intimação pessoal para promover o andamento do feito, configura abandono de causa, cabendo ao juiz determinar a extinção do processo ex officio, sem julgamento de mérito, afastando a incidência da Súmula 240/STJ.
+3. Cumpre registrar que o recorrente foi intimado para dar andamento ao feito, contudo permaneceu inerte. Novamente intimado para que se manifestasse no prazo de 48 horas, mais uma vez não se pronunciou no prazo legal de 48 horas estabelecido. Somente vindo a requerer o mandado de penhora após 5 meses do prazo, entretanto sem pedir a suspensão do processo por não ter encontrado bens passíveis de penhora, nos termos do art. 40 da LEF.
+4. Recurso especial a que se nega provimento.
+(REsp 1.435.717/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 05/12/2017).
+De igual maneira, não prospera a tese de que o requerimento para dar prosseguimento ao feito, ainda que apresentado a destempo, impediria a extinção do processo por abandono.
+Com efeito, a jurisprudência de ambas das Turma de Direito Público já consolidou o entendimento de que o prazo de 48 horas para a parte se manifestar sobre a subsistência de seu interesse na causa, sob pena de extinção do feito, é peremptório.
+A esse respeito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL NÃO EMBARGADA. ABANDONO DA CAUSA. EXTINÇÃO DE OFÍCIO. PEDIDO EXPRESSO DA PARTE CONTRÁRIA. DESNECESSIDADE. RECURSO ESPECIAL REPETITIVO 1.120.097/SP. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Primeira Seção, no julgamento do REsp 120.097/SP, processado nos termos do art. 543-C do Código de Processo Civil, firmou entendimento no sentido de que a "inércia da Fazenda exequente, ante a intimação regular para promover o andamento do feito e a observância dos artigos 40 e 25 da Lei de Execução Fiscal, implica a extinção da execução fiscal não embargada ex officio, afastando-se o Enunciado Sumular 240 do STJ".
+2. Intimada pessoalmente a exequente para se manifestar, sob pena de extinção do feito, a apresentação tardia de resposta tem-se por configurada sua inércia, haja vista tratar-se de prazo peremptório.
+Precedentes: AgRg no REsp 1.434.146/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18/06/2014; AgRg no REsp 1457991/RN, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 03/09/2014;
+AgRg no REsp 1433885/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17/06/2014.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.435.715/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/11/2014, DJe 24/11/2014).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. ABANDONO DE CAUSA. INTIMAÇÃO PESSOAL DA FAZENDA PÚBLICA PARA DEMONSTRAR INTERESSE NO PROSSEGUIMENTO DO FEITO. PARTE QUE SE MANTÉM INERTE.
+1. Em se tratando de execuções não embargadas, a jurisprudência do STJ vem firmando entendimento sobre a possibilidade de extinguir o feito sem resolução do mérito ex officio, por abandono do polo ativo, quando se mantiver a parte inerte, independentemente de requerimento da parte adversa. 2. Hipótese em que o autor, ora agravante, foi intimado para manifestar interesse no prosseguimento da Execução Fiscal no prazo de 48 horas, sob pena de extinção do feito nos termos do § 1º, do inciso III, do art. 267 do Código de Processo Civil. O Município apenas manifestou-se quatro meses após a intimação.
+3. O prazo em questão é peremptório, razão pela qual deve ser observado. Uma vez ultrapassado, indiscutível a inércia da parte.
+4. Agravo Regimental não provido.
+(AgRg no REsp 1.478.145/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/11/2014, DJe 26/11/2014).
+Incide, pois, em relação a esses dois pontos, a Súmula 83 do STJ.
+Por fim, o fundamento adotado pelo acórdão recorrido de que o art. 40 da LEF não tem aplicação no caso dos autos, porquanto o abandono ficou configurado antes mesmo do início das diligências para a busca de bens penhoráveis, não foi especificamente impugnado pelo recorrente, o que atrai a aplicação do óbice de conhecimento estampado na Súmula 283 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
