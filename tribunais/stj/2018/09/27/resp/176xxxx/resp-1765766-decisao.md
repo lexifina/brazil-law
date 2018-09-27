@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, na vigência do CPC/2015, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. AUXÍLIO-DOENÇA. RECOLHIMENTOS PREVIDENCIÁRIOS. VÍNCULO EMPREGATÍCIO. DESCONTO. IMPOSSIBILIDADE NA ESPÉCIE. TÍTULO EXECUTIVO JUDICIAL. AUSÊNCIA DE PREVISÃO. COISA JULGADA. PREVALÊNCIA. RESP. REPETITIVO 1.235.513/AL. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Recurso conhecido, nos termos do parágrafo único, do artigo 1.015 do CPC.
+2. A Primeira Seção do Eg. Superior Tribunal de Justiça, em sessão de julgamento realizada em 27/06/2012, em sede de recurso representativo da controvérsia (Recurso Especial Repetitivo 1.235.513/AL, Rel. Min. Castro Meira), firmou orientação no sentido de que a compensação somente poderá ser alegada, em sede de embargos à execução, se houver impossibilidade da alegação no processo de conhecimento ou se fundar em fato superveniente à sentença, caso contrário haveria ofensa à coisa julgada.
+3. Reavaliando posicionamento anterior, para aplicar o entendimento sufragado pelo Eg. Superior Tribunal de Justiça, entendo, na hipótese dos autos, não ser possível a compensação dos valores em atraso, ante a ausência de previsão, no título executivo judicial, do desconto de eventuais parcelas atrasadas a serem pagas nos períodos em que o agravado efetivamente exerceu atividade laborativa.
+4. Agravo de instrumento improvido" (fls. 72/73e).
+Opostos Embargos de Declaração, foram rejeitados, nestes termos:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE CAUSA QUE O JUSTIFIQUE. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INOCORRÊNCIA. REDISCUSSÃO DA CAUSA. EFEITOS MODIFICATIVOS. VIA INADEQUADA. EMBARGOS REJEITADOS.
+1. O art. 1.022 do NCPC admite embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, bem como suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento.
+2. Na hipótese dos autos, a tese jurídica veiculada nas razões recursais não é capaz de modificar o entendimento adotado na decisão recorrida, pois, não há falar em contradição, omissão ou obscuridade, haja vista que a intenção do embargante é rediscutir a matéria já decidida, obtendo efeitos modificativos do julgado, porém, a via processual escolhida é inadequada.
+3. Outrossim, ainda que se pretenda a análise da matéria destacada para fins de prequestionamento, não restou demonstrada a existência de quaisquer dos vícios in casu, elencados no art. 1.022, incisos I, II e III do NCPC, de modo que se impõe a rejeição dos presentes embargos de declaração.
+4. Embargos de declaração rejeitados" (fls. 93/94e).
+Alega-se, nas razões do Recurso Especial, ofensa aos arts. 59 da Lei 8.213/91, 368 e 369, do Código Civil, pelos seguintes argumentos:
+"O acórdão recorrido determinou o pagamento de valores em atraso, a título de benefício por incapacidade em relação a período em que o segurado comprovadamente (e incontroversamente) laborou e recebeu vencimentos.
+No entanto, a prevalecer o julgado do E. Turma "a quo" as normas inscritas nos artigos 59 da Lei 8.213/91, e 368 e 369 do Código Civil, restarão violadas.
+(..)
+Desta forma, da leitura do dispositivo legal transcrito, conclui-se que, para a concessão do benefício de auxílio-doença, é necessária a verificação de incapacidade total e temporária para o exercício de atividade que garanta a subsistência do segurado.
+Como se verifica dos autos, após o início da incapacidade o autor voltou a trabalhar, concedendo-se, desta forma, o benefício em período em que o autor estava em plena atividade.
+Portanto, após o início da alegada incapacidade, o que demonstra a existência de capacidade para o trabalho, uma vez que foi aprovado em exame admissional e permaneceu trabalhando.
+Portanto, persistindo a situação, tem-se a parte autora teria CONTINUADO A TRABALHAR, o que não é compatível com o benefício concedido, nos termos do artigo 59 da Lei nº 8.213/91.
+Ainda que se entenda pela existência de incapacidade, o que se admite a título de mera argumentação, necessária a suspensão do termo inicial do benefício durante o vínculo trabalhista em questão.
+De fato, necessária a compensação dos valores recebidos nos períodos em que estava trabalhando, uma vez que indevido o pagamento de benefício por incapacidade sem a incapacidade para o trabalho, o que configura enriquecimento sem causa.
+Observamos que não procede o argumento segundo o qual não seria possível realizar a presente discussão em sede de execução, não tendo a questão sido objeto do processo de conhecimento. Ora, não existiu a presente controvérsia em sede de processo de conhecimento (não havia pretensão resistida a ser levada ao judiciário por quem quer que seja).
+A controvérsia surgiu, passou a existir, apenas em sede de execução, quando o INSS verificou que não poderia fazer o pagamento em duplicidade, ao verificar o histórico de créditos frente aos vínculos de trabalho da parte autora. Diante de tal situação, cumpre ao INSS fazer cumprir a lei. Ora, e se a lei determina que não é possível o pagamento em duplicidade, deve o INSS agir nesse sentido. Uma vez resistida a pretensão pela parte embargada, cabe, a nosso ver, ao Poder Judiciário (em sede dos presentes autos) solucionar a controvérsia" (fls. 102/103e).
+Requer, ao final, "o provimento do presente Recurso para o fim de adequar a parte do aresto em desconformidade com as normas dos artigos 59 da Lei 8.213/91, 368 e 369 do Código Civil" (fl. 104e).
+Não foram apresentadas contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 114/115e).
+Sem razão a parte recorrente.
+Na origem, trata-se de Embargos ao Cumprimento de Sentença apresentados pela parte ora recorrente, com o objetivo de decotar da execução valores devidos a título de benefício por incapacidade, quando em concomitância com o exercício de atividade laboral remunerada.
+Julgada procedente, em parte, a demanda, recorreu o embargante, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Quanto à alegada ofensa aos artigos 59 da Lei 8.213/91, 368 e 369 do Código Civil, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que as teses recursais vinculadas aos dispositivos tidos como violados não foram apreciadas no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à míngua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
