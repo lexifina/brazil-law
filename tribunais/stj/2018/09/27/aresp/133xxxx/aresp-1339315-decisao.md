@@ -1,0 +1,47 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GRUPO OK CONSTRUCOES E EMPREENDIMENTOS LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+Agravo de Instrumento. Cumprimento de sentença. Título judicial transitado em julgado em 2004. Executado intimado para apresentação de rol de bens visando à futura penhora. Indicação de lista contendo bens, como "buchas" e "cabos de telefone", sem qualquer demonstração de propriedade sobre os mesmos ou de seu paradeiro. Descumprimento de determinação judicial exaustivamente detalhada. Multa por ato atentatório à dignidade da justiça aplicada e realizada nova intimação para a apresentação de bens. Executado que descumpre novamente a determinação judicial, apresentando apenas dois bens imóveis indisponíveis por decisão da Justiça Federal. Executado que ignorou a ordem de apresentação ampla de informações sobre bens, exarada na forma do art. 772, III, CPC. Após embargos de declaração, foi mantida a primeira multa e aplicada nova penalidade por esta segunda conduta atentatória à dignidade da justiça. Ademais, foram mantidas as buscas por bens penhoráveis; sendo, desta vez, os exequentes instados a tal esforço apó s diligências ultimadas pelo Juízo. Multas perfeitamente enquadradas no art. 774, II, III, IV e V, CPC. Existindo bens livres e desembaraçados, não pode a busca por estes ser obstada pela apresentação, de plano, de imóveis indisponíveis por decisão judicial. Tentativa do executado de ser ver livre da indisponibilidade a partir do descumprimento de obrigação judicialmente reconhecida, violando a boa-fé processual, inscrita no art. 5º, CPC. Precedentes desta Corte. Decisão mantida. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 774, 835 e 1.022 do CPC/2015.
+Alega omissão e contradição no acórdão recorrido. Sustenta que apresentou bens móveis e imóveis de propriedade da recorrente para serem penhorados e garantirem o juízo em valor superior ao devido nos autos à época. Insurge contra a aplicação da multa por ato atentatório à dignidade da justiça e ilícito processual, arguindo inexistência de prova irrefutável do dolo processual e que efetivamente cumpriu a determinação judicial. Pede, ainda, a redução do valor da multa.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 85.
+É o relatório. Decido.
+2. Não há falar em violação ao art. 1.022 do CPC/2015, pois o eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, com fundamentação clara e suficiente. Cabe destacar que não significa omissão, nem contradição, quando o julgador adota outro fundamento que não aquele perquirido pela parte.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022 do Código de Processo Civil de 2015, são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+3.(..)
+4. Embargos de declaração rejeitados.(EDcl no AgInt no CC 144.334/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+3. Quanto aos demais dispositivos violados, também não merece prosperar o inconformismo.
+Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu pelo descumprimento de duas determinações judiciais de apresentação ampla pelo executado de rol e informações de bens penhoráveis, desembaraçados e com comprovação de propriedade, bem como pela manutenção da multa aplicada por ato atentatório à dignidade da justiça, inclusive quanto ao valor aplicado, com a seguinte fundamentação:
+" ..
+Após longa tramitação do módulo de cumprimento de sentença, o Juízo a quo determinou a intimação do executado para apresentar seu rol de bens penhoráveis, restando clara a necessidade de comprovação de propriedade dos mesmos e a alusão ao dever processual de informar.
+Como se depreende da decisão, a lista deveria ser apresentada no prazo de 5 dias, sob pena de aplicação de multa de 20% sobre o valor atualizado do débito, a ser revertida em favor dos exequentes. Veja-se (fls. 909):
+ ..
+Não obstante a clareza da determinação judicial, o executado indicou, às fls. 920/922, uma série de bens móveis sem qualquer demonstração de propriedade sobre os mesmos.
+Entre os bens, foram indicados "cabides", "buchas eletroduto alumínio", "buchas de redução", "cabo de telefone", "caixas de telefone" e "caixas de passagem". Todos com valores unitários que iniciavam na casa dos centavos até o máximo das dezenas.
+Não houve qualquer prova sobre a propriedade dos mesmos ou seu paradeiro, muito menos em relação ao seu estado e à possibilidade de garantir o Juízo com os mesmos.
+Semelhante conduta se enquadra perfeitamente na descrição de ato atentatório à dignidade da justiça descrita no art. 774, II, III, IV e V, CPC, com penalidade prevista no parágrafo único do mesmo dispositivo:
+ ..
+Por esta razão foi aplicada multa de 20% sobre o valor atualizado do débito e novamente determinada a intimação do executado para indicar rol de bens penhoráveis (fls. 925/927):
+ ..
+Contra esta decisão, foram opostos embargos de declaração (fls. 929/937) e apresentados à penhora dois bens imóveis localizados no Distrito Federal (fls. 938/939).
+Mais uma vez, foi a determinação judicial ampla de apresentação de rol de bens penhoráveis descumprida pelo executado.
+Sem sequer alegar a inexistência de outros bens penhoráveis, indicou justamente dois imóveis com gravame de indisponibilidade por ordem da Justiça Federal, como demonstram as certidões de ônus reais de fls. 1.009/1.012 e 971/977.
+Nenhum outro bem foi elencado.
+Com base nisso, ao julgar embargos de declaração no sentido de manter a primeira multa aplicada, o Juízo aplicou multa por novo ato atentatório à dignidade da justiça, desta vez no índice de 15%, sendo esta a decisão agravada (fls. 08/09):
+ ..
+Como se nota, os pronunciamentos do Juízo a quo, incluindo a decisão agravada, foram vasta e solidamente fundamentados, não havendo que se falar em nulidade lastreada no dever expresso no art. 93, IX, da Constituição da República.
+Embora haja jurisprudência acerca da penhorabilidade de bens com indisponibilidade decretada judicialmente, o executado não pode usar tal artifício para deixar de indicar à penhora bens desembaraçados. A penhora de bem indisponível deve ser tratada como ultima ratio, e não como opção do executado para se ver livre de dois problemas de uma só vez, o que viola frontalmente a boa-fé processual, inscrita no art. 5º, CPC.
+Ao rechaçar a nomeação de bens indisponíveis à penhora, enquanto existem bens livres para a constrição, o Juízo lança mão de seu poder geral de efetivação das ordens judiciais, nos moldes do art. 139, IV, CPC:
+ ..
+Frise-se que a ordem, cuja efetivação se busca, transitou em julgado em 2004. Nessa ordem de ideias, descabe falar em ato exorbitante do Juízo.
+Em seguida, é necessário ter em mente que o dispositivo legal que descreve o ato atentatório à dignidade da justiça não estabelece como requisito à aplicação da penalidade o esgotamento de buscas por bens penhoráveis por parte do exequente.
+O necessário esforço do exequente, não exclui o dever do executado de cooperar com a execução, principalmente quando instado a tanto, na forma como preveem o art. 772, III, e o art. 774, V, ambos do CPC.
+Por estarem duas condutas independentes do executado caracterizadas como atentado à dignidade da justiça, na exata forma descrita nos dispositivos acima colacionados, perfeita a decisão agravada ao manter a primeira penalidade e aplicar uma segunda.
+Além disso, considerando as características dos bens apresentados à penhora até então, novamente acertado o Juízo de origem ao deferir buscas por bens penhoráveis e instar os exequentes a também fazê-lo." (e-STJ fls. 33-43)
+Resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso.
+A propósito, "a jurisprudência do Superior Tribunal de Justiça tem pacificado o entendimento de que perquirir se houve ou não a prática de ato atentatório à dignidade da Justiça por parte do devedor que, nos termos do art. 600, IV, do CPC/1973, é intimado, especificamente, para indicar ao Juízo a localização de penhoráveis e o respectivo valor, no prazo de 5 (cinco) dias, e não cumpre a ordem judicial tampouco justifica a impossibilidade de fazê-lo, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 do STJ" (AgInt no AREsp 529.845/SP, Rel. Ministro Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Quarta Turma, julgado em 14/08/2018, DJe 21/08/2018).
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
