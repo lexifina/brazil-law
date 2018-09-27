@@ -1,0 +1,18 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR –DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Barra Mansa/RJ, no processo nº 0007159-58.2018.8.19.0066, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 20 de março de 2018, em virtude do suposto cometimento do delito tipificado no artigo 33 (tráfico de drogas) da Lei nº 11.343/2006. Frisou indispensável a medida, reportando-se à apreensão de 500 gramas de cocaína. Afastou a substituição por cautelar menos gravosa, tendo-a como insuficiente. Indeferiu pedido de revogação da custódia, ante indícios de haver o paciente atuado como transportador de entorpecente, levando-o do Município do Rio de Janeiro para o de Barra Mansa, com o objetivo de atender traficante da região. Destacou a insegurança e os demais efeitos nocivos decorrentes do comércio ilegal de substâncias.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 469.842/RJ, indeferido liminarmente pelo Relator.
+    O impetrante afirma ausentes os requisitos do artigo 312 do Código de Processo Penal, bem assim a viabilidade das cautelares versadas no artigo 319 do mesmo diploma. Salienta excesso de prazo para a formação da culpa a repercutir na desproporcionalidade da custódia, que, consoante assevera, já alcança 186 dias. Alega ofensa ao artigo 5º, inciso LXXVIII, da Constituição Federal. Frisa que, até a realização da audiência de instrução, haverá o agravamento da situação prisional do paciente, assinalando ultrapassar 210 dias.
+    Consulta ao sítio do Tribunal de Justiça revelou a designação de audiência de instrução e julgamento para o dia 17 de outubro de 2018, às 15h.
+          A fase é de apreciação da medida acauteladora.
+    2. A prisão em flagrante e a gradação do tráfico de drogas, tendo em vista a quantidade e natureza do entorpecente apreendido – 500 gramas de cocaína –, indicam estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente a decisão atacada. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que o paciente está recolhido, sem culpa formada, desde 20 de março de 2018, ou seja, há 6 meses e 7 dias. Surge o excesso de prazo considerada a prisão provisória e o estágio do processo-crime, porquanto, consoante apontado pelo impetrante, sequer encerrada a instrução processual. A preventiva deve ser balizada no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento por meio do qual implementada, em execução antecipada da pena, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre custodiado por motivo diverso da prisão preventiva retratada no processo nº 0007159-58.2018.8.19.0066, da Segunda Vara Criminal da Comarca de Barra Mansa/RJ. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
