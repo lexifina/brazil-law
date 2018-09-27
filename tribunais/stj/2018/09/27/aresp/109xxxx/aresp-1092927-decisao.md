@@ -1,0 +1,27 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO E, NA SUA AUSÊNCIA, A PARTIR DA CITAÇÃO. ACÓRDÃO DA ORIGEM EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO EM RECURSO ESPECIAL DO INSS CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, interposto pelo INSS contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PROCESSO CIVIL - SENTENÇA ILÍQUIDA PROFERIDA CONTRA O INSS - REEXAME NECESSÁRIO - OBRIGATORIEDADE. É obrigatório o reexame de sentença ilíquida proferida contra autarquia federal - Art. 10 da Lei nº 9.469/97 - Súmula 423/STF - Súmula 490/STJ - REsp nº 1.101.727, submetido ao rito do art. 543-C do Código de Processo Civil.
+ACIDENTE DO TRABALHO - ASMA OCUPACIONAL - NEXO CAUSAL - INCAPACIDADE - BENEFÍCIO DEVIDO. Comprovada a redução parcial e permanente da capacidade laborativa, em razão de doença proveniente do exercício profissional, de rigor a concessão do auxílio-acidente - Art. 86, ambos da Lei nº 8.213/91.
+CORREÇÃO MONETÁRIA - DÉBITOS EM ATRASO DO INSS - LEI 8.213/91 E POSTERIORES ALTERAÇÕES. INPC, nos termos da Lei nº 11.430/2006. A partir de 30.6.2009, aplica-se, por ora, o disposto no art. 1º-F, da Lei nº 9.494/97, com as alterações introduzidas pela Lei nº 11.960/2009, até a modulação dos efeitos nas ADIs nº 4.357, 4.372, 4.440 e 4.425, julgadas pelo Supremo Tribunal Federal.
+JUROS MORATÓRIOS - CÔMPUTO - TAXAS. Modo englobado até a citação, quando passam a incidir de maneira decrescente, mês a mês - Taxa de 1% ao mês - A partir de 30.6.2009, aplica-se, por ora, o disposto no art. 1o-F, da Lei nº 9.494/97, com as alterações introduzidas pela Lei nº 11.960/2009, até a modulação dos efeitos nas ADIs nº 4.357, 4.372, 4.440 e 4.425, julgadas pelo Supremo Tribunal Federal.
+2. Os Embargos de Declaração opostos foram rejeitados.
+3. Em seu Apelo Especial inadmitido, defende o recorrente que o acórdão recorrido viola os arts. 535 do CPC/1973 e 23 da Lei 8.213/1991, ao fundamento de que o termo inicial do auxílio-acidente é o da juntada do laudo pericial aos autos
+4. É o relatório. Decido.
+5. Inicialmente, constata-se que a recorrente não demonstrou em que consiste a ofensa ao art. 535 do CPC/1973, tendo se limitado a alegar de forma genérica a existência de supostas omissões no aresto recorrido, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, inviabilizando a compreensão da controvérsia. Inafastável, portanto, a aplicação do óbice previsto na Súmula 284/STF.
+6. Em relação ao termo inicial, o STJ possui entendimento de que o marco da concessão do benefício previdenciário dá-se na prévia postulação administrativa e, na sua ausência, a partir da citação.
+7. Conforme já amplamente discutido nesta Corte, o laudo pericial é prova técnica que objetiva nortear o convencimento do juízo quanto à pertinência do benefício, não se prestando a atestar o efetivo momento em que a moléstia incapacitante se instalou, tampouco servindo de marco inicial do benefício previdenciário. Nesse sentido:
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL DO BENEFÍCIO. DATA DO REQUERIMENTO ADMINISTRATIVO. PRECEDENTES.
+1. Nos termos da jurisprudência pacífica do Superior Tribunal de Justiça, o termo inicial para a concessão do benefício assistencial de prestação continuada é a data do requerimento administrativo e, na sua ausência, a partir da citação.
+2. Hipótese em que o benefício deve ser concedido a partir da data do requerimento administrativo, observada a prescrição quinquenal, nos termos do art. 1º do Decreto 20.910/32.
+Agravo regimental parcialmente provido apenas para que seja observada a prescrição quinquenal, nos termos do art. 1º do Decreto 20.910/32 (AgRg no REsp. 1.576.098/DF, Rel. Min. HUMBERTO MARTINS, DJe 8.3.2016).
+
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL DO BENEFÍCIO. AUSÊNCIA DE REQUERIMENTO ADMINISTRATIVO. CITAÇÃO VÁLIDA. MATÉRIA JÁ DECIDIDA SOB O RITO DO ART. 543-C DO CPC.
+1. O tema relativo ao termo inicial de benefício proveniente de incapacidade laborativa já foi exaustivamente debatido nesta Corte, a qual, após oscilações, passou a rechaçar a fixação da Data de Início do Benefício - DIB a partir do laudo pericial, porquanto a prova técnica prestar-se-ia unicamente para nortear o convencimento do juízo quanto à pertinência do novo benefício, mas não para atestar o efetivo momento em que a moléstia incapacitante se instalou.
+(..)
+3. Recurso especial parcialmente provido (REsp. 1.311.665/SC, Rel. Min. ARI PARGENDLER, Rel. p/Acórdão Min. SÉRGIO KUKINA, DJe 17.10.2014).
+8. Portanto, nas razões acima expendidas, verifica-se que o Tribunal estadual decidiu de acordo com jurisprudência desta Corte, de modo que se aplica à espécie o enunciado da Súmula 83/STJ: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+9. Ressalta-se que é possível a aplicação da Súmula 83 do STJ aos Recursos Especiais interpostos com fundamento na alínea a do permissivo constitucional, consoante a jurisprudência do STJ.
+10. Diante dessas considerações, conhece-se do Agravo para não conhecer do Recurso Especial do INSS.
+11. Publique-se.
+12. Intimações necessárias.
