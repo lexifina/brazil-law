@@ -1,0 +1,23 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRADIÇÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Nos termos do artigo 1.022 do NCPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+2. Embargos de declaração rejeitados.
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por [NOME] em face de decisão monocrática de minha lavra, que deu provimento ao recurso especial da parte adversa, a fim de julgar improcedente a pretensão voltada à manutenção de contrato de plano de saúde.
+Eis a ementa da referida deliberação unipessoal:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. MANUTENÇÃO DO EX-EMPREGADO DEMITIDO SEM JUSTA CAUSA (E SEUS DEPENDENTES) NA CONDIÇÃO DE BENEFICIÁRIOS DO PLANO DE SAÚDE COLETIVO EMPRESARIAL. HIPÓTESE EM QUE A CONTRIBUIÇÃO FORA CUSTEADA INTEGRALMENTE PELO EMPREGADOR/ESTIPULANTE.
+1. O ex-empregado (aposentado ou demitido sem justa causa) não contributário - aquele que não realiza pagamento sequer parcial de prêmio ou mensalidade do plano de saúde coletivo empresarial, limitando-se ao pagamento de coparticipação - não faz jus ao direito de continuidade da cobertura assistencial após o término do vínculo empregatício. Precedentes.
+2. Recurso especial provido a fim de julgar improcedente a pretensão deduzida na inicial.
+Em suas razões, a embargante aponta contradição no julgado, uma vez não determinado o sobrestamento do feito em razão da afetação dos Recursos Especial 1.680.318 e 1.708.104 ao rito dos repetitivos. Outrossim, requer tutela de urgência consubstanciada na manutenção do plano de saúde até o julgamento final do reclamo, após a apreciação dos repetitivos.
+É o relatório. Decido.
+2. Não merece prosperar o recurso.
+Nos termos do artigo 1.022 do Novo CPC (aplicável à espécie), cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo.
+A embargante aponta contradição no julgado, por não ter sido determinado o sobrestamento do recurso especial em razão da afetação de repetitivos.
+Contudo, é de sabença que a contradição somente se verifica quando existirem, na decisão, proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+Como bem assinala Daniel Amorim Assumpção Neves, na obra intitulada Novo Código de Processo Civil Comentado:
+Essas contradições podem ocorrer na fundamentação, na solução das questões de fato e/ou de direito, bem como no dispositivo, não sendo excluída a contradição entre a fundamentação e o dispositivo, considerando-se que o dispositivo deve ser a conclusão lógica do raciocínio desenvolvido durante a fundamentação. O mesmo poderá ocorrer entre a ementa e o corpo do acórdão e o resultado do julgamento proclamado pelo presidente da sessão e constante da tira ou minuta, e o acórdão lavrado. (In: Novo Código de Processo Civil Comentado. Salvador: JusPodivm, 2016, pp. 1.711)
+A hipótese, portanto, não configura contradição, motivo pelo qual devem ser rejeitados os aclaratórios.
+Ainda que assim não fosse, destaca-se a jurisprudência desta Corte no sentido de que "a afetação de determinado recurso ao rito dos repetitivos, nos termos do art. 543-C do CPC, com correspondência no art. 1.037, II, do NCPC, não implica a suspensão ou o sobrestamento das demais ações já em curso no Superior Tribunal de Justiça, mas, apenas, as em trâmite nas instâncias ordinárias" (EDcl no AgInt no CC 150.257/SC, Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 27.06.2018, DJe 29.06.2018).
+Nesse contexto, sobressaindo a ausência de fumus boni iuris da tese deduzida pela ora embargante, também se revela inviável o acolhimento da tutela de urgência ora requerida.
+3. Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
