@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça da Paraíba, assim ementado (e-STJ fls. 241/242):
+REMESSA OFICIAL E APELAÇÕES CÍVEIS. SENTENÇA DE PROCEDÊNCIA PARCIAL. CONDENAÇÃO DO MUNICÍPIO DE SOUSA À IMPLANTAÇÃO DO ADICIONAL DE INSALUBRIDADE. AGENTES COMUNITÁRIOS DE SAÚDE. VANTAGEM INSTITUÍDA DE FORMA GENÉRICA PELA EDILIDADE. NORMA DE EFICÁCIA LIMITADA. NECESSIDADE DE COMPLEMENTAÇÃO. AUSÊNCIA DE CONTATO DIRETO E PERMANENTE COM PESSOAS DOENTES OU COM MATERIAIS DE NATUREZA INFECTO-CONTAGIOSA. CONDIÇÕES IN- SALUBRES NÃO VERIFICADAS. BENESSE INDEVIDA. CONDENAÇÃO AFASTADA. PRETENSÃO RECURSAL DA PARTE AUTORA PREJUDICADA. REEXAME NECESSÁRIO E APELO DO MUNICÍPIO PROVIDOS.
+- Por força da ausência de previsão normativa no art. 39, § 3º, da Constituição da República, os agentes públicos não fazem jus, de forma automática, ao adicional de insalubridade, mostrando-se necessária interposição legislativa para que essa garantia a eles se estenda.
+- A legislação municipal que dispõe sobre o Estatuto dos Servidores Públicos do Município de Sousa, apesar de dispor acerca da possibilidade de concessão do adicional de insalubridade, não prevê todos os elementos necessários para o seu deferimento, sendo, pois, norma de eficácia limitada, sem aplicabilidade imediata.
+- A atividade desempenhada pelo agente comunitário de saúde não o expõe a agentes nocivos à saúde, em virtude de seu caráter eminentemente preventivo.
+Declaratórios foram rejeitados (e-STJ fls. 262/267).
+Nas suas razões, a parte recorrente alega, além de divergência jurisprudencial, violação do art. 535, II, do CPC/1973 e do art. 192 do Decreto Lei n. 5.452/1943, uma vez que existem todos os requisitos para a concessão do adicional de insalubridade.
+Sem contrarrazões.
+ Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No que se refere à alegada violação do art. 535 do CPC/1973, todas as matérias defendidas pela parte recorrente foram tratadas pelo Tribunal de origem.
+Ademais, observa-se que, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco rebater uma a uma as premissas trazidas, desde que os argumentos utilizados tenham sido suficientes para o embasamento da decisão, tal como se dá na espécie. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO LIVRE DE OMISSÃO. TRIBUTÁRIO. EXECUÇÃO FISCAL. O SIMPLES PEDIDO DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO QUE ESTEJA EM FASE DE COBRANÇA JUDICIAL E GARANTIDO POR PENHORA, SE NÃO FOR INFORMADO AO JUIZ DA EXECUÇÃO ANTES DA ARREMATAÇÃO, NÃO TEM O CONDÃO DE SUSPENDER A EXIGIBILIDADE DA DÍVIDA EXECUTADA, PARA O QUE SE EXIGE, AINDA, A HOMOLOGAÇÃO DO PARCELAMENTO. PRECEDENTES DO STJ. ACÓRDÃO, QUE, ADEMAIS, É EXPRESSO AO AFIRMAR A MÁ-FÉ DA RECORRENTE EM DEIXAR DE COMUNICAR, TÃO LOGO FOSSE POSSÍVEL, A REALIZAÇÃO DO PARCELAMENTO, AINDA QUE TAL COMUNICAÇÃO TENHA OCORRIDO ANTES DA ARREMATAÇÃO. SÚMULA 7/STJ. NEGADO PROVIMENTO AO AGRAVO REGIMENTAL.
+1. Trata-se, na origem, de embargos à arrematação em execução fiscal do INSS em que a executada alega a suspensão do crédito tributário pelo parcelamento e sua comunicação ao Juízo antes da arrematação, pleiteando, assim, sua desconstituição.
+2. A alegada violação ao art. 535, II do CPC não ocorreu, pois a lide foi fundamentadamente resolvida nos limites propostos. As questões postas a debate foram decididas com clareza, não se justificando o manejo dos Embargos de Declaração. Ademais, o julgamento diverso do pretendido não implica ofensa à norma ora invocada. Tendo encontrado motivação suficiente, não fica o órgão julgador obrigado a responder, um a um, todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado. Precedente: AgRg no AREsp 12.346/RO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.08.2011. (..)
+5. Agravo Regimental desprovido. (AgRg no AREsp 163.417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014).
+Noutra quadra, da análise dos autos verifica-se que o aresto combatido apóia-se em fundamentação eminentemente constitucional e infraconstitucional.
+Ocorre que a parte não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial manejado, sendo esse manifestamente inadmissível, nos termos da Súmula 126 do STJ. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. FORNECIMENTO DE MEDICAMENTOS. TRATAMENTO DE SAÚDE. CERCEAMENTO DE DEFESA. REVISÃO. SÚMULA 7/STJ. ACÓRDÃO IMPUGNADO. DUPLO FUNDAMENTO. QUESTÃO CONSTITUCIONAL NÃO INFIRMADA. SÚMULA 126/STJ.
+ ..
+2. A despeito da existência de fundamento constitucional, a parte agravante limitou-se a interpor recurso especial, deixando de interpor o extraordinário, de competência do Supremo Tribunal Federal, o que atrai a incidência da Súmula 126/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.441.750/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/11/2015, DJe 19/11/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 535 DO CPC. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. FORNECIMENTO DE REMÉDIOS. NECESSIDADE DE RECEITA DE MÉDICOS CREDENCIADOS AO SUS. FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL DO ACÓRDÃO VERGASTADO. MATÉRIA NÃO IMPUGNADA POR RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ENFERMA QUE JÁ É ACOMPANHADA POR MÉDICOS CREDENCIADOS AO SUS. AUSÊNCIA DE INTERESSE RECURSAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535 do CPC, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. Da leitura do acórdão recorrido depreende-se que foram debatidas matérias de natureza constitucional e infraconstitucional. No entanto, a recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, no excelso Supremo Tribunal Federal. Súmula 126/STJ.
+ ..
+6. Agravo Regimental não provido.
+(AgRg no REsp 1.517.256/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/05/2015, DJe 30/06/2015).
+Noutro giro, vê-se que as conclusões do aresto derivam do Estatuto dos Servidores Públicos do Município de Sousa acerca do adicional de insalubridade, periculosidade e penosidade.
+Nesse passo, a revisão das razões de decidir do acórdão recorrido, nesse aspecto, encontra óbice na Súmula 280 do STF.
+Relativamente às divergências jurisprudenciais alegadas, estas se mostram prejudicadas, na medida em que as teses sustentadas já foram afastadas na ocasião do exame do recurso pela alínea "a" do permissivo constitucional.
+Nessa esteira é o entendimento desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANO AMBIENTAL. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA, NOS MOLDES LEGAIS E REGIMENTAIS. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Ademais, na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.146.384/SE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/12/2017, DJe 12/12/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA QUE VERIFICOU A CONSONÂNCIA DO ACÓRDÃO DO TRIBUNAL A QUO COM A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL SOBRE O TEMA. ANÁLISE PREJUDICADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO, NA ESPÉCIE. AÇÃO ORIGINÁRIA. MANDADO DE SEGURANÇA.
+ ..
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+ ..
+(AgInt no REsp 1.648.828/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/11/2017, DJe 16/11/2017).
+Por fim, cumpre salientar que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
