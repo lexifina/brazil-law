@@ -1,0 +1,19 @@
+DECISÃO
+PENA-BASE – CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Quarta Vara Federal da Seção Judiciária do Estado da Paraíba – Subseção Judiciária de Campina Grande, no processo nº 0002919-40.2008.4.05.8201, condenou o paciente a 3 anos de reclusão, em regime inicial aberto, substituída a sanção por duas restritivas de direitos, e ao pagamento de 78 dias-multa, em virtude da prática da infração descrita no artigo 20, cabeça (aplicação de recursos provenientes de financiamento concedido por instituição financeira oficial em finalidade diversa da prevista no contrato), da Lei nº 7.492/1986, por três vezes, na forma do artigo 71, cabeça (crime continuado), do Código Penal. Na dosimetria da sanção, valorou negativamente a circunstância judicial alusiva à culpabilidade, presente o grau médio de reprovabilidade da conduta, reportando-se aos contornos do delito, ao fato de ser o acusado proprietário de empresa conveniada à Caixa Econômica Federal para o fornecimento de material de construção no âmbito do programa denominado Carta de Crédito Individual – FGTS, a indicar a relevância da função desempenhada por ele para o sucesso da empreitada criminosa. Impôs a pena-base em 2 anos e 6 meses, tendo em vista o piso de 2 e o teto de 6 anos. Destacou ausentes atenuantes e agravantes. Fez incidir na fração de 1/5 o aumento decorrente da continuidade delitiva.
+    A Primeira Turma do Tribunal Regional Federal da 5ª Região desproveu apelação interposta pela defesa. Recurso especial foi inadmitido, considerada a inviabilidade de reexame de fatos e provas.
+    Chegou-se ao Superior Tribunal de Justiça com o agravo em recurso especial nº 648.175, desprovido pelo Relator. Formalizado agravo interno, a Sexta Turma negou-lhe provimento. Operou-se o trânsito em julgado do acórdão no dia 28 de setembro de 2017.
+    A impetrante sustenta a erronia da fixação da pena-base acima do mínimo legal. Aduz inadequada a valoração negativa da culpabilidade, dizendo-a alicerçada em elementos inerentes ao tipo penal. Ressalta que o modo de execução do delito e a importância do papel exercido pelo paciente não justificam o aumento, uma vez referirem-se, respectivamente, à circunstância descrita no artigo 59 relativa aos contornos do crime e à agravante versada no 62 do Código Penal.
+    Requer, no campo precário e efêmero, a imposição da pena-base no mínimo legal. No mérito, busca a confirmação da providência.
+    A fase é de exame da medida de urgência.
+    2. O Juízo fixou a pena-base em 2 anos e 6 meses, patamar acima do mínimo previsto para o tipo, observado o piso de 2 e teto de 6 anos. Consignou negativa a culpabilidade, ante o grau médio de reprovabilidade da conduta, aludindo aos contornos do delito, ao fato de ser o acusado proprietário de empresa conveniada à Caixa Econômica Federal para o fornecimento de material de construção no âmbito do programa denominado Carta de Crédito Individual – FGTS, a revelar a importância da função desempenhada por ele para o sucesso da empreitada criminosa. A dosimetria resolve-se, em regra, no campo do justo ou injusto. Difícil é o pronunciamento judicial a encerrar ilegalidade.
+    Quanto à alegação de terem sido levados em conta elementos constitutivos do crime para a ponderação negativa de circunstância judicial, inexiste sobreposição. Para o tipo são previstas pena mínima e máxima, e a definição da adequada ocorre a partir dos dados específicos da prática delitiva.
+    Não há relevância a conduzir, liminarmente, à providência pretendida. O habeas corpus pressupõe a configuração de ilegalidade e, tendo em vista as premissas referidas, esta não surge.
+    4. Indefiro a medida acauteladora.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 27 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
