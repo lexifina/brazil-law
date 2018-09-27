@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. SÚMULA 735 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+OGMO - ÓRGÃO GESTOR DE MÃO-DE-OBRA DO TRABALHO PORTUÁRIO NO PORTO ORGANIZADO DE FORTALEZA (OGMO) interpôs agravo de instrumento contra decisão que, nos autos da ação ajuizada por DANIEL TRANSPORTES LTDA. (DANIEL TRANSPORTES), determinou a abstenção da agravante de protestar qualquer título decorrente de cobrança vinculada ao litígio, bem como de negativar o nome da agravada.
+O Tribunal de origem não deu provimento ao agravo, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO AJUIZADA PARA ANULAR DISPOSIÇÃO DA ASSEMBLÉIA QUANTO AO RATEIO "POR CABEÇA" DAS DÍVIDAS TRABALHISTAS DO ÓRGÃO RECORRENTE. DETERMINAÇÃO DE SUSPENSÃO DA COBRANÇA E DE ABSTENÇÃO DA INCLUSÃO DO NOME DA AGRAVADA NO ROL DOS DEVEDORES. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. A princípio, é de se entender ser desproporcional a cobrança do pagamento de obrigações trabalhistas da OGMO, na forma em que imposta, sem considerar o critério de utilização de mão de obra pelos associados.
+2. A decisão da Assembléia de que o preço a ser pago por cada operador portuário seria fixo e mensal, e por prazo indeterminado, no valor de R$ 6.666,67, independentemente da freqüência de uso da mão de obra, ou seja, de que todos pagariam em partes iguais, mesmo que se utilizassem de pequena mão de obra, beneficia os que dela se utilizassem em maior proporção, e, consequentemente, impõe prejuízo ao associado que menos faz uso da mão de obra portuária.
+3. Decisão mantida. Recurso conhecido e desprovido. (e-STJ fls. 386)
+Inconformada, OGMO interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação do art. 308 do CC, ao sustentar que (1) a recorrida não vem honrando com a sua obrigação mensal, se insurgindo contra o valor previamente acordado em Assembléia Geral, sob o argumento de desproporcionalidade entre os operadores na fixação dos valores; (2) a recorrida fez parte da Assembléia Geral e votou a favor das novas regras; (3) toda a estrutura do recorrente, assim como o fornecimento de mão-de-obra é oferecido na mesma proporção para todos os Operadores associados, não cabendo discutir se uns utilizam mais ou menos do que os outros; (4) a decisão recorrida trará prejuízo para os demais Operadores e para toda a classe de empresas que exercem suas atividades no Porto Organizado de Fortaleza/CE; e (5) tem o direito de satisfazer seu crédito por meio das medidas legais, dentre elas, o protesto.
+O apelo nobre não foi admitido em virtude da incidência da Súmulas 735 do STF.
+Nas razões do presente agravo em recurso especial, OGMO sustentou que a presente demanda, se enquadra nas exceções que permitem a interferência desta Corte.
+Foi apresentada impugnação (e-STJ, fls. 460/466).
+É o relatório.
+Decido.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Preenchidos os pressupostos processuais para o conhecimento do agravo, passa-se para a análise do recurso especial, que foi interposto sob a égide do CPC/73, ao qual se aplica os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+A irresignação não merece prosperar.
+Do art. 308 do CC
+Na linha da jurisprudência desta eg. Corte Superior, em regra, não é cabível recurso especial com o objetivo de reexaminar acórdão que defere ou indefere medida liminar ou antecipação de tutela, em virtude da natureza precária do provimento jurisdicional concedido pela origem, e que está sujeito a modificação a qualquer tempo. Incidência, por analogia, da Súmula nº 735 do STF, verbis: não cabe recurso extraordinário contra acórdão que defere medida liminar.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM NO BOJO DE AÇÃO DE REVISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+(..)
+2. O STJ, em sintonia com o disposto na Súmula 735 do STF, entende que, "via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgInt no AREsp 886.909/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2016, DJe de 28/11/2016).
+(..)
+5. Agravo regimental desprovido.
+(AgRg no AREsp 377.706/PR, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 4/9/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS Nº 7/STJ E Nº 735/STF.
+1. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+2. Rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça. 3. Agravo regimental não provido.
+(AgRg no AREsp 573.120/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 3/2/2015, DJe de 9/2/2015).
+Verifica-se, ainda, que a conclusão do tribunal de origem está amparado no conjunto fático-probatório e sua alteração demandaria o seu exame, o que atrai a incidência do enunciado 7 da Súmula desta corte.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
