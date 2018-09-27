@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Agravo conhecido para dar provimento ao recurso especial.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+Apelação Cível. Processual civil. Objeção de pré-executividade - Execução Fiscal - Exceção revolvendo ilegitimidade passiva - Empresa que foi incorporada por outra - Impossibilidade de substituição do polo passivo por emenda à petição inicial - Aplicação da Súmula nº 392 do STJ - Sentença de extinção (art. 485, VI, do CPC) mantida. Honorária mantida, fixada no mínimo legal (art. 85, §§3º e 5o do atual CPC). Nega-se provimento ao recurso interposto.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas "a" e "c" do permissivo constitucional, a ora agravante aponta ofensa ao art. 1.022 do CPC/2015, bem como ao art. 132 do CTN, c/c o art. 1.116 do CC, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) "conforme dispõe o artigo 132 do CTN, a pessoa jurídica resultante de fusão, transformação, ou incorporação é responsável pelos tributos devidos pela empresa incorporada", sendo que "o prosseguimento de execução fiscal não implica substituição da certidão de dívida ativa - CDA, com alteração do sujeito passivo, mas apenas redirecionamento da ação para a sucessora tributaria".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 257/258, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, registre-se que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A despeito do que constou do acórdão de fls. 218 e seguintes, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre as seguintes alegações:
+A FESP nas suas razões de apelação sustentou teses jurídicas envolvendo o disposto nos artigos 132 do CTN e 1.116 do Código Civil, pois:
+- conforme dispõe o artigo 132 do CTN, a pessoa jurídica resultante de fusão, transformação, ou incorporação é responsável pelos "tributos devidos pela empresa incorporada;
+- o prosseguimento de execução fiscal não implica substituição da certidão de dívida ativa - CDA, com alteração do sujeito passivo, mas apenas redirecionamento da ação para a sucessora tributaria;
+- não é o caso de aplicação do conteúdo da Súmula n. 392 ("A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução.") desse Superior Tribunal de Justiça ao caso em questão. A intenção do entendimento sumulado em questão é vedar à Fazenda Pública a possibilidade de substituir ou emendar a CDA nos casos de alteração do próprio lançamento;
+- no caso em questão, não se trata de alteração do lançamento; uma vez que, conforme exposto no breve histórico processual acima formulado, o lançamento ocorrido através da lavratura do AIIM em 24/01/2007em nome de Perdigão Agroindustrial S/A foi correto e válido uma vez que a incorporação desta pela sociedade empresária Perdigão S/A só ocorreu com baixa do CNPJ da sociedade incorporada em 09/03/2009.
+Cumpre registrar que tais alegações foram suscitadas no momento oportuno e reiteradas em sede de embargos de declaração, os quais foram rejeitados pelo acórdão de fls. 218/224, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o recurso especial, a fim de anular o aresto proferido em sede de embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Diante do exposto, com fundamento no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
