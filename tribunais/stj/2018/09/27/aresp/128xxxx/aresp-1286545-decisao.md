@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SÓCIA DA PESSOA JURÍDICA. APURAÇÃO DE HAVERES E EVENTUAL CONDENAÇÃO NO PASSIVO. ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por O Lojão Magazine Ltda. contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravante ajuizou ação de cobrança, julgada improcedente.
+Interposta apelação pela ora insurgente, a Segunda Câmara Reservada de Direito Empresarial do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 551):
+COBRANÇA. RETIRADA DA RÉ, SÓCIA, DO QUADRO SOCIAL. PEDIDO DE CONDENAÇÃO NAS PERDAS ACUMULADAS. ALTERAÇÃO DO CONTRATO SOCIAL QUE NÃO SE EFETIVOU. A RÉ PERMANECE COMO SÓCIA DA EMPRESA. IMPOSSIBILIDADE DE APURAÇÃO DE SEUS HAVERES COM CONDENAÇÃO NA OBRIGAÇÃO DE PAGAR. IMPROCEDÊNCIA MANTIDA. RECURSO NÃO PROVIDO.
+Alegação da autora de que a ré deixou seu quadro social. Alteração do Contrato Social que não foi registrada. Consta na Junta Comercial o registro de outra alteração referente apenas à modificação do objeto social. A ré permanece como sócia da autora. Impossibilidade de apuração de haveres com condenação nas perdas acumuladas cobradas . Improcedência do pedido mantida . Recurso não provido.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação dos arts. 32, III, "e", da Lei n. 8.934/1994; e 1.029 e 1.031 do Código Civil.
+Asseverou que a notificação extrajudicial feita pela recorrida dando notícia aos demais sócios de sua declaração de vontade de retirar-se dos quadros da sociedade empresária é suficiente para produzir efeitos legais, sendo o arquivamento da alteração contratual perante a junta comercial mera peça de publicidade do ato.
+Esclareceu que "(..) o documento da Alteração Contratual que se encontra arquivado na Jucesp, encartado aos autos é falso, tendo em vista a utilização por transplante de selo de registro da Jucesp sob n. 99.127110-6, seção de 22.03.10" ( fl. 572, e-STJ).
+Contrarrazões às fls. 578-580 (e-STJ), com pedido de majoração da verba sucumbencial, com fulcro no art. 85, § 11, do CPC/2015.
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 594 (e-STJ).
+Brevemente relatado, decido.
+No caso, o Tribunal de Justiça, soberano na análise dos elementos fáticos e probatórios dos autos, concluiu que a recorrida permanece como sócia da pessoa jurídica, razão pela qual não há motivo para a apuração de haveres e sua eventual condenação no passivo, conforme se verifica dos trechos a seguir transcritos (e-STJ, fls. 554-555):
+Sucede que a Junta Comercial de São Paulo informou que efetivamente o que foi levado a registro junto à matrícula da autora foi a alteração do contrato social apresentada pela ré, qual seja aquela que se referia apenas à modificação do objeto social da empresa, sem qualquer identidade com a alteração que a autora juntou com sua petição inicial, com a qual buscou comprovar a retirada da sócia do quadro social, dando ensejo à responsabilidade pelo passivo que apurou.
+Diante desse quadro, constata-se que a ré permanece no quadro social da autora, como, aliás, é possível ver pela certidão de fls. 102/107 do apenso, de modo que não há que se falar em responsabilização pelo passivo social através da apuração de seus haveres, como bem anotado na sentença: "o documento registrado na JUCESP, ainda que sob alegada irregularidade na sua formação, está produzindo seus efeitos, de modo que a sociedade está mantida com a sócia requerida, não havendo como apurar os haveres, nos termos pleiteados na inicial".
+Vale observar, por oportuno, que tampouco poderá a autora providenciar o registro da alteração que juntou com sua inicial. Como bem anotado na sentença, "Ressalta-se que da alegada alteração contratual instrumentalizada pelo documento encartado a fls. 13/17, não consta a assinatura da sócia retirante, tornando-a imprestável para à sua pretensa finalidade".
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor corrigido da causa.
+Publique-se.
