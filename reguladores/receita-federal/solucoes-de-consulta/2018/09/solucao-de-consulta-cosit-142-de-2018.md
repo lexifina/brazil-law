@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 142, de 19 de setembro de 2018
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO
+EMENTA: SOCIEDADE EM CONTA DE PARTICIPAÇÃO. CARACTERÍSTICAS. EXERCÍCIO DE ATIVIDADE CONSTITUTIVA DO OBJETO SOCIAL PELO SÓCIO PARTICIPANTE. TRIBUTAÇÃO DOS RESULTADOS.
+Para fins tributários, não se caracteriza como Sociedade em Conta de Participação (SCP) o arranjo contratual no qual o sócio participante exerce a atividade constitutiva do objeto social e é remunerado na forma de distribuição de lucros. Desnaturada a SCP pelo exercício da atividade constitutiva do objeto social pelo sócio participante, os valores recebidos por este a título de participação nos negócios abarcados pelo objeto social devem ser tributados como receita da atividade principal.
+A consulente não faz jus a isenção do IRPJ, CSLL, PIS e COFINS referente aos valores recebidos a título de participação nos negócios abarcados pelo objeto das SCP’s. Dispositivos Legais: Lei Complementar nº 7, de 7 de setembro de 1970, art. 1º; Lei nº 7.689, de 15 de dezembro de 1988, arts. 1º e 6º; Lei Complementar nº 70, de 30 de dezembro de 1991, art. 1º; Lei nº 9.715, de 25 de novembro de 1998, art. 2º; Decreto nº 3.000, de 26 de março de 1999, arts. 148 e 149; e Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, arts. 981, 991 e 996.
+[arquivo anexo: SC Cosit nº 142-2018.pdf]
