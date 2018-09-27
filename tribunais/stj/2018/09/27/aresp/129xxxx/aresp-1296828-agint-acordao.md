@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. INDEFERIMENTO MANTIDO PELA PRECLUSÃO E HIPOSSUFICIÊNCIA NÃO COMPROVADA. ALTERAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7 DO STJ. DESERÇÃO DA APELAÇÃO. AUSÊNCIA DE PREPARO APÓS INTIMADO. CABIMENTO. RECURSO NÃO PROVIDO.
+1. No caso, o col. Tribunal de origem manteve o indeferimento da assistência judiciária gratuita informando a ausência de comprovação da impossibilidade de arcar com as despesas processuais.
+2. A inversão do que restou decidido pelo Tribunal de origem demandaria, necessariamente, o reexame do acervo fático-probatório contido nos autos, providência que desafia o enunciado 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno interposto contra decisão que conheceu do agravo para negar provimento ao recurso especial da parte recorrente, com fundamento na incidência das Súmulas 7, 83 e 481 do STJ.
+Nesta feita, a parte agravante reproduz os argumentos do recurso especial de não cabimento da deserção na hipótese. Defende a inaplicabilidade dos óbices sumulares apontados na decisão recorrida. Requer a concessão da gratuidade de justiça, o afastamento da deserção e o conhecimento do recurso de apelação.
+
+A parte ora agravada deixou transcorrer in albis o prazo das contrarrazões.
+É o relatório.
+
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Em que pese a argumentação tecida nas razões recursais, não merece êxito a insurgência.
+Como dito anteriormente, o acórdão recorrido decidiu de acordo com a jurisprudência do STJ de que "deve-se julgar deserto o recurso se o recorrente, apesar de intimado para recolher em dobro o preparo, na forma do art. 1.007, § 4º, do CPC/2015, não cumpre tal determinação" (AgInt no AREsp 1144749/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/11/2017, DJe 04/12/2017).
+Ainda que superado referido óbice o recurso especial não seria provido pelo óbice da Súmula 7 do STJ. Senão vejamos:
+Com efeito, apenas às pessoas físicas é possível o deferimento da assistência judiciária gratuita, mediante simples requerimento, dispensando-se a comprovação de sua efetiva necessidade. As pessoas jurídicas devem demonstrar a sua hipossuficiência.
+Quanto à gratuidade, o col. Tribunal de origem consignou que deve ser mantido o indeferimento da benesse porque não houve demonstração da hipossuficiência da pessoa jurídica, estando a matéria questiona preclusa. Eis o teor do acórdão recorrido:
+Com trânsito em julgado, acórdão de 18 de março de 2015 em agravo de instrumento, anterior a interposição do apelo em 15 de fevereiro de 2016 (fls. 907/973), manteve o indeferimento da gratuidade pretendida pela autora (fls. 1041/1044). Apesar da concedida faculdade para o recolhimento em dobro do preparo, ela não o recolheu e interpôs gratuidade. Então e para não se falar da ausência de demonstração do patrimônio, do faturamento líquido e do passivo, a autora questiona matéria preclusa e há evidente deserção, ora proclamada. Pelas razões expostas, julga-se deserto o apelo, de que não se conhece, e, em consequência, nega-se provimento ao agravo interno. (fls. 1091/1092)
+Tendo em vista que o col. Tribunal de origem consignou a ocorrência de preclusão da matéria relativa a gratuidade e manteve o indeferimento da benesse pela ausência de demonstração do patrimônio, do faturamento líquido e do passivo, a inversão do que restou decidido pelo Tribunal de origem demandaria, necessariamente, o reexame do acervo fático-probatório contido nos autos, providência que desafia o enunciado 7 da Súmula do Superior Tribunal de Justiça. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. ATROPELAMENTO. ÔNIBUS COLETIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. REEXAME DE PROVAS. ÔNUS SUCUMBENCIAIS DECORRENTES DA LIDE SECUNDÁRIA. RESISTÊNCIA. RECONHECIMENTO. JUROS MORATÓRIOS. TERMO INICIAL. DATA DO EVENTO DANOSO. INCIDÊNCIA DAS SÚMULAS 54 E 83 DO STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+2. Consoante jurisprudência desta Corte, "o direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie" (AgInt no REsp 1.619.682/RO, Relator o Ministro Raul Araújo, DJe de 7/2/2017).
+3. A revisão de matéria - afastamento dos ônus sucumbenciais diante da falta de oferecimento de resistência à lide secundária - que demanda o revolvimento do conjunto fático-probatório dos autos, não pode ser feita na via especial, diante do óbice da Súmula 7 deste Tribunal. 4. Os juros moratórios, nas hipóteses de responsabilidade extracontratual, fluem a partir do evento danoso. Incidência das Súmulas 54 e 83 do STJ. Decisão agravada mantida.
+5. Agravo interno desprovido." (AgInt no AREsp 1214552/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE. VIOLAÇÃO DO ART. 489 DO CPC/2015. INEXISTÊNCIA. INSTITUIÇÃO FINANCEIRA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. PEDIDO DE GRATUIDADE DA JUSTIÇA. DEMONSTRAÇÃO DA FALTA DE MEIOS PARA CUSTEIO DO PROCESSO. SÚMULAS N. 7 E 83 DO STJ. DECISÃO MANTIDA.
+1. Consoante previsto nos arts. 34, VII, e 253, parágrafo único, II, alínea "a", do RISTJ, o relator poderá "conhecer do agravo para não conhecer do recurso especial inadmissível".
+2. Inexiste afronta ao art. 489 do CPC/2015 quando o julgador pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo e identificando os seus fundamentos.
+3. "A jurisprudência desta Corte é firme no sentido de que o fato de haver a decretação da liquidação extrajudicial ou falência, não remete, por si só, ao reconhecimento da necessidade para fins de concessão da assistência judiciária gratuita à pessoa jurídica" (AgInt no AREsp n. 1.140.206/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 8/3/2018.)
+4. No caso, o Tribunal de origem, analisando os fatos e as provas dos autos, entendeu que o recorrente não comprovou sua incapacidade de custear as despesas processuais. Rever essa conclusão demandaria reexame do conjunto fático-probatório dos autos, o que não se admite no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+5. Agravo interno a que se nega provimento." (AgInt no AREsp 1048562/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 30/04/2018)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. HIPOSSUFICIÊNCIA NÃO COMPROVADA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta eg. Corte entende que é possível a concessão da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade.
+2. O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie. Precedentes.
+3. Agravo interno a que se nega provimento." (AgInt no REsp 1619682/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2016, DJe 07/02/2017)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
