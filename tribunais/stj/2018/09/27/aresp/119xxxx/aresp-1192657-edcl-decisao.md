@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO contra decisão monocrática proferida por esta relatoria (e-STJ, fls. 594-598), que, fundamentada no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheceu do agravo, para dar parcial provimento ao recurso especial, nos seguintes termos:
+"I) Quanto ao crime de tráfico de drogas: reconhecer a negativa de vigência ao art. 42 da Lei n.º 11.343/06, reduzir o quantum de aumento da pena-base e torná-la definitiva em 3 anos e 6 meses de reclusão, no regime inicial aberto, e pagamento de 125 dias-multa.
+II) Quanto ao crime de posse ilegal de munição de uso permitido: estabelecer o regime aberto para o início do cumprimento da pena reclusiva e substituir a reprimenda privativa de liberdade por uma restritiva de direitos, a ser definida pelo Juízo da execução."
+Nos aclaratórios, a acusação aponta "a presença de erro material no que tange à dosimetria da pena do crime de tráfico de drogas. Isso porque, ao realizar o redimensionamento da pena quanto ao referido crime fora determinada a majoração da pena-base em 1 ano e 3 meses; portanto, esta deveria ser estabelecida em 6 anos e 3 meses de reclusão - a pena in abstrato do crime de tráfico de drogas é de 5 a 15 anos de reclusão. Todavia, in casu, fora estabelecida em 5 anos e 3 meses de reclusão" (e-STJ, fl. 608).
+Requer, assim, a correção da dosimetria da pena relativa ao crime de tráfico de entorpecentes.
+Em razão dos consequentes efeitos infringentes do recurso, foi dada vista ao embargado para se pronunciar (e-STJ, fl. 612).
+Conforme certificado pela Coordenadoria da Quinta Turma, "a parte interessada não se manifestou com relação ao r. despacho de fl. 612 (e-STJ, fl. 616).
+É o relatório.
+Decido.
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, obscuridade ou, segundo a jurisprudência e doutrina, erro material existente no julgado.
+No caso, verifica-se a ocorrência do apontado erro material na dosimetria da pena relativa ao delito de tráfico de drogas, razão pela qual procedo à correção do referido cálculo:
+Na primeira fase, permaneceu em desfavor do recorrente apenas a natureza e quantidade de entorpecentes apreendidos - 178,90 gramas de maconha e 8,6 gramas de cocaína, razão pela qual majoro a pena-base em 1 ano e 3 meses, ficando, portanto, estabelecida em 6 anos e 3 meses de reclusão.
+Na segunda fase, não incidem agravantes ou atenuantes.
+Na terceira fase, mantida a diminuição da pena com fulcro no § 4º do artigo 33 da Lei 11.343/06 em 1/3, torno a pena definitiva em 4 anos e 2 meses de reclusão e 133 dias-multa.
+Em relação pedido de substituição da pena privativa de liberdade pela restritiva de direitos, com fulcro no art. 44 da Lei n. 11.343/2006, vale lembrar que a Suprema Corte, na análise do HC 97.256/RS, reconheceu a inconstitucionalidade das expressões, contidas no art. 44 e no § 4º do art. 33 da Lei n. 11.343/2006, "vedada a conversão em penas restritivas de direitos" e "vedada a conversão de suas penas em restritivas de direitos". Não há, desse modo, qualquer óbice à concessão da permuta legal aos sentenciados pelo delito de tráfico de drogas.
+No caso, a pena definitiva foi fixada em 4 (quatro) anos e 2 (dois) meses de reclusão, de modo que, nos termos do art. 33, § 2º, "b", do Código Penal, o regime inicial semiaberto é o indicado para o resgate da sanção.
+Em consequência das alterações promovidas no referido cálculo da pena, a parte dispositiva da decisão para a conter a seguinte redação:
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo, para dar parcial provimento ao recurso especial, nos seguintes termos:
+I) Quanto ao crime de tráfico de drogas: reconhecer a negativa de vigência ao art. 42 da Lei n.º 11.343/06, reduzir o quantum de aumento da pena-base e torná-la definitiva em 4 anos e 2 meses de reclusão, no regime inicial semiaberto, e fixar a pena de multa em 133 dias-multa.
+II) Quanto ao crime de posse ilegal de munição de uso permitido: estabelecer o regime aberto para o início do cumprimento da pena reclusiva e substituir a reprimenda privativa de liberdade por uma restritiva de direitos, a ser definida pelo Juízo da execução.
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material apontado, redimensionando a pena relativa ao crime de tráfico de drogas para 4 (quatro) anos e 2 (dois) meses de reclusão, no regime inicial semiaberto, e 133 (cento e trinta e três dias-multa), nos termos da fundamentação.
+Publique-se. Intime-se.
