@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto contra o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul no HC n. 00222305-57.2018.8.21.7000, que manteve a prisão preventiva de [NOME], no qual requer a expedição de alvará de soltura sob a alegação de excesso de prazo para a formação da culpa e ausência de fundamentação idônea a amparar a custódia cautelar.
+Narram os autos que o recorrente, denunciado pela suposta prática do delito previsto no art. 121, § 2º, II e IV, c/c art. 14, II, ambos do Código Penal, na forma da Lei n. 8.072/1990 - por ter tentado matar a vítima, seu irmão, mediante golpes de faca -, teve a prisão preventiva decretada no dia 23/4/2018. Cumprido o mandado dia 30/4/2018.
+É o relatório.
+Não me deparo com a presença concomitante dos pressupostos autorizadores da medida de urgência requerida.
+Neste juízo de cognição preliminar, sem um exame mais pormenorizado dos elementos que instruem o feito, afigura-se inviável acolher-se a pretensão, primeiro, porque não se vislumbra, por ora, excesso de prazo que justifique o deferimento da medida de urgência. Como dito pelo Tribunal local, o paciente foi preso há quase quatro meses, e, conforme consta nas informações prestadas pela autoridade apontada como coatora, nesse período já foi apresentada denúncia, o réu foi citado e apresentou resposta à acusação (fl. 202).
+Ademais, em consulta ao site oficial do Tribunal local, pude observar que, expedida carta precatória, foi designada audiência de instrução e julgamento para o dia 16/10/2018.
+Segundo, quantos aos fundamentos da constrição cautelar, destacou a Magistrada que o depoimento da vítima demonstra de forma objetiva que o acusado possui comportamento agressivo e que este teme por sua vida, pois o réu é "uma pessoa louca e violenta", justificando-se o decreto preventivo para garantir a integridade física da vítima, irmão do acusado, da instrução processual, visto que o socorro foi realizado por vizinhos que serão inquiridos, assim como garantir a ordem pública (fl. 163/164).
+Com essas considerações, não tendo como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar pretendida, indefiro-a.
+Solicitem-se informações, no prazo de 20 dias, por malote digital, ao Juízo da Vara do Júri da comarca de Novo Hamburgo/RS a respeito da atual situação do recorrente e dos Autos n. 0011391-06.2018.8.21.0019.
+Depois de prestadas, ouça-se o Ministério Público Federal.
+Publique-se.
