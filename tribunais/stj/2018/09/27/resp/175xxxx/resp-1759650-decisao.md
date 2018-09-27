@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. RESCISÃO CONTRATUAL POR CULPA DO ADQUIRENTE DO IMÓVEL. RETENÇÃO DE 20% DOS VALORES DESPENDIDOS. CABIMENTO. RAZOABILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA N. 284/STF.
+1. Ação de rescisão contratual cumulada com restituição de valores, na qual alegam os recorridos problemas financeiros que motivaram o encaminhamento de notificação às recorrentes para rescisão do contrato firmado entre as partes. Pleiteiam seja declarado rescindido o contrato de compra e venda de imóvel, bem como a restituição dos valores pagos.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O acórdão recorrido que adota orientação firmada pela jurisprudência do STJ não merece reforma.
+7. A jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% (dez por cento) e 25% (vinte e cinco por cento) do total da quantia paga.
+8. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+9. O dissídio jurisprudencial exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF.
+10. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+DECISÃO
+Cuida-se de recurso especial interposto por ATUA PROJETO IMOBILIARIO VIII LTDA e ATUA CONSTRUTORA E INCORPORADORA S.A, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de rescisão contratual cumulada com restituição de valores, ajuizada por [NOME] e ALANA MORAES CABULON, em face das recorrentes, na qual alegam problemas financeiros que motivaram o encaminhamento de notificação às recorrentes para rescisão do contrato firmado entre as partes. Pleiteiam seja declarado rescindido o contrato de compra e venda de imóvel, bem como a restituição dos valores pagos.
+Sentença: julgou parcialmente procedente o pedido, para declarar rescindido o negócio jurídico firmado entre as partes, bem como para condenar as recorrentes, solidariamente, a restituir aos recorridos as prestações pagas para aquisição do imóvel descrito na inicial, com dedução de 20% (vinte por cento) do montante pago a título de taxa de retenção.
+Acórdão: negou provimento à apelação interposta pelas recorrentes, nos termos da seguinte ementa:
+COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - PRELIMINAR DE ILEGITIMIDADE PASSIVA DA CORRÉ ATUA CONSTRUTORA - Ainda que tenha sido formada sociedade com propósito específico (Atua Projeto Imobiliário VIII), que figurou no contrato como única compromissária vendedora do bem, a corré Atua Construtora e Incorporadora fez parte da cadeia de fornecimento, figurando seu nome e timbre em basicamente todos os documentos, comunicados e propagandas que dizem respeito ao empreendimento - Responsabilidade solidária reconhecida, sob a ótica do direito do consumidor (art. 7º, parágrafo único e art. 25, § 1º, CDC) - PRELIMINAR REJEITADA.
+COMPRA E VENDA DE IMÓVEL - RESCISÃO DE CONTRATO CUMULADA COM RESTITUIÇÃO DE VALORES - Autores que pleiteiam a desistência do negócio em razão de dificuldades financeiras - Possibilidade de rescisão do contrato com a restituição de valores pagos, com retenção de percentual em favor da vendedora - Súmula 01-TJSP - Rés apelantes que invocam a aplicação de cláusula penal, que na prática, reduz o valor a ser restituído em quantia irrisória - Retenção em favor das rés fixada na sentença em 20% sobre os valores pagos, que se mostra razoável - Manutenção - Não demonstração de que a vendedora suportou prejuízo superior à compensação autorizada - Juros de mora sobre o valor da condenação, devidos a partir da citação (art. 240, CPC) - Sentença mantida - Honorários recursais devidos - RECURSO DESPROVIDO. (e-STJ Fl. 273)
+Recurso especial: alegam violação do art. 422 do CC, bem como dissídio jurisprudencial. Sustentam a inexistência de vícios no contrato celebrado entre as partes, sendo válida a cláusula penal prevista na avença. Insurge-se contra o termo inicial de incidência dos juros de mora.
+Relatado o processo, decide-se.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto ao termo inicial de incidência dos juros de mora, as recorrentes não alegam violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 422 do CC, indicado como violado. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na espécie, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+As recorrentes não impugnaram o fundamento utilizado pelo TJ/SP de que "a aplicação da referida cláusula coloca os consumidores em desvantagem exagerada, afigurando-se nitidamente abusiva, em violação às normas consumeristas (art. 51, II e IV, do CDC)" (e-STJ Fl. 277). Como esse fundamento não foi impugnado, deve-se manter o acórdão recorrido. Aplica-se, na espécie, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao valor fixado a título de retenção, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+O TJ/SP, ao decidir pela retenção no valor de 20% (vinte por cento) do total da quantia paga pelos recorridos, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgInt no AREsp 1247150/SP, Terceira Turma, DJe de 10/09/2018 e AgInt no AREsp 1285480/DF, Quarta Turma, Dje de 29/08/2018.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Outrossim, o conhecimento do recurso especial, fundamentado na alínea "c" do permissivo constitucional, exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula 284/STF.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, pois fixados no patamar máximo na origem.
+Publique-se. Intimem-se.
