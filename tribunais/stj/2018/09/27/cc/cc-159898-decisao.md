@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da 1ª Vara e Juizado Especial de Itajaí - SJ/SC contra o Juízo de Direito da 2ª Vara Cível de Camboriú - SC, nos autos da execução fiscal proposta pelo Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO em desfavor de Sergio Antonio da Silva & Cia Ltda.
+Narram os autos que o Juízo Federal da 1ª Vara e Juizado Especial de Itajaí - SJ/SC expediu carta precatória ao Juízo de Direito da 2ª Vara Cível de Camboriú - SC para que se procedesse à penhora de bens no feito executivo em comento.
+O MM Juízo de Direito, entretanto, declinou o cumprimento da precatória sustentando que a jurisdição do MM. Juízo Federal da 1ª Vara e Juizado Especial de Itajaí - SJ/SC compreenderia aquele município.
+Por sua vez, o Juízo Federal da 1ª Vara e Juizado Especial de Itajaí - SJ/SC suscita o presente incidente ao fundamento de que não haveria óbice para o cumprimento da carta precatória pela Justiça estadual, uma vez que a mencionada Comarca não é sede de Vara Federal.
+Opina o Ministério Público Federal pela competência do Juízo suscitado.
+Decido.
+Consoante o entendimento desta Corte, o cumprimento de cartas precatórias expedidas pela Justiça Federal poderão ser realizadas perante a Justiça estadual quando a Comarca não for sede de Vara Federal.
+De acordo com o art. 209 do Código de Processo Civil de 1973, (atual art. 267 do CPC/2015), a providência somente poderá ser recusada nas hipóteses em que a carta precatória não estiver revestida dos requisitos legais; quando o Juízo deprecado entenda carecer de competência em razão da matéria ou da hierarquia e quando tiver dúvida acerca da autenticidade do documento.
+No caso vertente, das razões invocadas pelo Juízo suscitado, não se verifica que a recusa tenha se dado por alguma das justificativas acima elencadas, o que firma a competência da Justiça estadual para o prosseguimento do feito.
+Nesse sentido:
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZO FEDERAL E JUÍZO DE DIREITO. EXECUÇÃO FISCAL AJUIZADA APÓS A LEI N. 13.043/2014. CARTA PRECATÓRIA. CITAÇÃO. INAPLICABILIDADE DA SÚMULA 3/STJ. COMPETÊNCIA DA JUSTIÇA COMUM. JUÍZO DEPRECADO.
+1. Com a entrada em vigor da Lei n. 13.043/2014, houve a revogação do art. 15, I, da Lei n. 5.010/1966, que conferia a competência delegada à Justiça estadual para ações de execução fiscal promovidas pela União, pelas autarquias e fundações públicas federais. No caso, a execução foi ajuizada no ano de 2016, isto é, após a entrada em vigor do mencionado diploma legislativo. Além disso, o presente conflito não diz respeito ao juízo competente para o feito executivo, mas apenas para o cumprimento de carta precatória de citação da parte executada.
+2. A expedição de carta precatória para o cumprimento de atos processuais não se confunde com a delegação de competência conferida aos juízes estaduais para atuarem investidos de jurisdição federal.
+Precedentes: CC 10.391/PR, Rel. Ministro Ruy Rosado de Aguiar, Segunda Seção, DJ 27/3/1995; CC 54.682/SC, Rel. Ministro Carlos Alberto Menezes Direito, Segunda Seção, DJ 1º/2/2007.
+3. Tratando-se do cumprimento de carta precatória, não há delegação da competência jurisdicional para o julgamento da causa, como ocorre nos casos previstos no art. 109, § 3º, da CF. Existe simples pedido de cooperação realizado por determinado juízo a outro, o qual atua nos estreitos limites do ato processual deprecado, no exercício de competência própria relacionada ao cumprimento da respectiva carta.
+Em tais hipóteses, não há ascendência jurisdicional do respectivo Tribunal Regional Federal sobre o juízo estadual deprecado, cumprindo ao Superior Tribunal de Justiça dirimir o conflito de competência em questão.
+4. Na situação dos autos, o ato processual deprecado referente à citação das partes no processo de execução fiscal deverá ser cumprido no Município de Balneário Camboriú - SC. Contudo, essa localidade não é sede de vara federal, devendo-se reconhecer a competência do Juízo de Direito para o cumprimento da carta precatória, consoante dispõe o art. 237, parágrafo único, do CPC.
+5. Conflito conhecido para declarar a competência do Juízo de Direito da Vara da Fazenda Pública de Balneário Camboriú - SC, o suscitado.
+(CC 158.953/SC, De minha Relatoria, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 29/8/2018)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO ESTADUAL E ESPECIAL FEDERAL. CARTA PRECATÓRIA DA JUSTIÇA FEDERAL. ART. 209 DO CPC. TAXATIVIDADE. EXECUÇÃO DE TÍTULO JUDICIAL. UNIÃO. AUTORA. JUIZADO ESPECIAL FEDERAL. IMPOSSIBLIDADE. ART. 6º, INCISOS I E II, DA LEI 10.259/01.
+1. O art. 209 do CPC, sendo taxativo, somente permite ao juízo deprecado recusar cumprimento à carta precatória, devolvendo-a com despacho motivado, quando não estiver revestida dos requisitos legais, quando carecer de competência em razão da matéria ou da hierarquia ou quando tiver dúvida acerca de sua autenticidade.
+2. A Lei nº 10.259/01 prevê, expressamente, que a União somente pode ser parte ré, e não autora, nos processos de competência dos Juizados Especiais Federais (art. 6º, incisos I e II).
+3. Tratando-se, pois, de execução de título judicial proposta pela União, não poderia o Juiz estadual recusar o cumprimento da carta precatória sob o fundamento da instalação de Juizado Especial Federal na respectiva comarca.
+4. Precedente da Seção: CC 48.125/SP, Rel. Min. Denise Arruda, DJ de 15.05.06.
+5. Conflito conhecido para declarar competente o Juízo de Direito da 1ª Vara Cível de Catanduva/SP, o suscitado" (STJ, CC 63.940/SP, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, DJU 8/10/2007).
+Diante de tal contexto, conheço do conflito de competência e declaro competente o Juízo de Direito da 2ª Vara Cível de Camboriú - SC.
+Publique-se. Intimem-se.
