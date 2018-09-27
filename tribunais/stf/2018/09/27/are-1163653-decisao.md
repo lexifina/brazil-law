@@ -1,0 +1,22 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECURSO SECUNDUM EVENTUM LITIS. ISSQN. SERVIÇOS DE REGISTROS PÚBLICOS, CARTORÅRIOS E NOTARIAIS. OBEDIÊNCIA AOS PRINCIPIOS TRIBUTÁRIOS DA LEGALIDADE, ANTERIORIDADE E IRRETROATIVIDADE. INOVAÇÃO RECURSAL. AUSÊNCIA DE FATO OU ARGUMENTO NOVO CONVINCENTE.
+    1. O agravo de instrumento rege-se pelo exame secundum eventum litis, o qual limita o conhecimento do recurso ao acerto ou desacerto das questões efetivamente decididas pelo juízo de primeiro grau, sob pena de supressão de instância.
+    2. Nos termos da Súmula n° 393 do STJ, "a exceção de pré-executividade admissível na execução fiscal relativamente às matérias conhecíveis de oficio que não demandem dilação probatória".
+    3. No julgamento da ADI n° 3.089, o STF confirmou, definitivamente, a constitucionalidade da tributação dos serviços de registros públicos, cartorários e notariais pelo Imposto sobre Serviços de Qualquer Natureza (ISSQN). Referida decisão reconheceu a constitucionalidade dos itens 21 e 21.1 da Lista Anexa à Lei Complementar n° 116/2003.
+    4. Havendo previsão no Código Tributário Municipal, dentre outras matérias, do fato gerador, da base de cálculo e das alíquotas para cálculo do ISSQN, nada impede a cobrança do imposto sobre os exercícios posteriores, por haver estrita observância aos princípios tributários da legalidade, da anterioridade e da irretroatividade.
+    5. É defeso à parte inovar nas teses recursais por ocasião do agravo regimental, uma vez que já se operou a preclusão consumativa.
+    6. O agravo regimental deve ser improvido quando o agravante não apresentar fato ou argumento novo convincente que justifique sua reforma.
+    RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, I e III, a, b e c, da CF. Sustenta, em síntese, que o Fisco municipal exigiu ISSQN de forma regressiva.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “O dispositivo constitucional apontado não foi objeto de enfrentamento explícito pelo acórdão atacado, o que resulta na ausência de prequestionamento indispensável à admissibilidade do recurso extraordinário, ao teor da Súmula 282 do Supremo Tribunal Federal.
+    Deixo, pois, de admitir o recurso.”
+    A pretensão recursal não merece prosperar. A alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco a oposição de embargos de declaração foi suficiente para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmulas 279 e 280/STF). Nesse sentido, confira-se o seguinte precedente:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Exceção de pré-executividade. Dilação probatória. CDA. Procedimento administrativo fiscal. Alegada existência de nulidade. Infraconstitucional. Necessidade de reexame dos fatos e das provas. Súmula nº 279/STF. 1. O exame da controvérsia acerca da impossibilidade de dilação probatória em sede de exceção de pré-executividade e acerca da alegada nulidade da certidão de dívida ativa e do procedimento administrativo fiscal, pressupõe a análise da causa à luz da legislação infraconstitucional aplicável, bem como o reexame das provas dos autos, o que é vedado em recurso extraordinário. Incidência do enunciado da Súmula nº 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 3. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.” (ARE 1.073.133-AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 27 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
