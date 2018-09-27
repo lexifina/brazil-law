@@ -1,0 +1,44 @@
+DECISÃO
+1. Cuida-se de agravo interposto por OUTEIRO DA MOEDA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS assim ementado:
+APELAÇÃO CÍVEL - TERCEIRO - RECURSO EM PROCESSO ALHEIO - DEFESA DE DIREITO PRÓPRIO - EXCLUSÃO DO DIREITO DOS LITIGANTES - IMPOSSIBILIDADE - NÃO CONHECIMENTO. 1. O terceiro que recorre no processo alheio não pode defender direito próprio que exclua o direito dos litigantes. 2. Não se conhece de recurso apresentado por terceiro que defende direito próprio, em detrimento do direito das partes originárias, por ausência de legitimidade recurso".
+Nas razões do recurso especial (fls. 258-263), o recorrente aponta violação do art. 996 do CPC/2015, sob o argumento de que há interesse jurídico na causa, o que viabiliza a interposição de recurso.
+Sustenta que, "Ao contrário do que entendeu o E. Tribunal a quo, a pretensão da Recorrente não é defender direito próprio que implique a exclusão do direito dos Recorridos, mas tão somente evitar que o cumprimento do acordo homologado a impeça de concluir, com êxito, o processo de regularização do loteamento".
+Sem contrarrazões. Certidão à fl. 271.
+É o relatório. DECIDO.
+2. Consoante entendimento do STJ, o terceiro prejudicado, para fins de legitimidade recursal, deve "demonstrar a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que se afirme titular ou que possa discutir em juízo como substituto processual" (art. 966, parágrafo único do COC/2015).
+A propósito, mutatis mutandis:
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TRANSAÇÃO, COM DAÇÃO DE BEM EM PAGAMENTO. REQUERIMENTO DE HOMOLOGAÇÃO E DE EXTINÇÃO DA COBRANÇA EXECUTIVA. SENTENÇA DE EXTINÇÃO. RECURSO DE TERCEIRO PREJUDICADO. REQUISITOS. AUSÊNCIA DE INTERESSE PROCESSUAL.
+1. O terceiro prejudicado, para fins de legitimidade recursal, "deve demonstrar o nexo de interdependência entre o seu interesse de intervir e a relação jurídica submetida à apreciação judicial" (CPC, art. 499, § 1º), sendo o seu interesse tido por análogo ao do assistente que atua em primeiro grau ao auxiliar a parte principal na demanda, ou seja, poderá intervir "o terceiro, que tiver interesse jurídico em que a sentença seja favorável a uma delas" (CPC, art. 50). 2. No que toca ao interesse processual do terceiro em recorrer, este deve ser atual - existência de algum prejuízo ou, ao menos, a perspectiva de algum benefício à situação do recorrente -, não podendo ser contrário à pretensão das partes, salvo exceções pontuais, tais como o amicus curiae, o litisconsórcio necessário excluído e as ações coletivas (em razão da coisa julgada erga omnes).
+3. Na espécie, o recurso de apelação do recorrido, na condição de terceiro prejudicado, não poderia sequer ser conhecido, já que: i) não defende a pretensão de nenhuma das partes (ao revés, sua pretensão é contrária a ambas); ii) se trata de sentença que homologa transação efetivada pelas partes; iii) o recorrido não pode ser tido como prejudicado, uma vez que seu recurso, definitivamente, não melhora a sua situação, como seria de rigor; iv) o recorrido acabou trazendo matéria estranha ao processo.
+4. Recurso especial provido.
+(REsp 1356151/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/09/2017, DJe 23/10/2017)
+Nesse viés, vale citar a lição de Daniel Amorim Assumpção Neves, segundo o qual, "Independentemente da natureza da decisão judicial o relevante é a existência de um interesse jurídico que justifique sua intervenção no processo por meio do recurso, consubstanciado na possibilidade de relação jurídica da qual é titular ser afetada pela decisão recorrida, gerando-lhe um prejuízo" (Manual de Direito Processual Civil, volume único. Daniel Amorim Assumpção Neves. ed. JusPodivm, 9ª edição, 2017, p. 1611).
+Posto isso, convém destacar a conclusão alcançada pela Corte de origem (fls. 254-255):
+(..)
+Assim, o terceiro que recorre no processo alheio não pode defender direito próprio que exclua o direito dos litigantes.
+Por consequência, não se conhece de recurso apresentado por terceiro que defende direito próprio, em detrimento do direito das partes originárias, por ausência de legitimidade recursal.
+Na espécie em exame, o apelante afirma que "o objeto do acordo, quanto à lavratura de escritura pública, pode abranger direitos" dos seus sócios, "uma vez que inexiste loteamento aprovado no local e, por isso, resta impossível delimitara propriedade do Apelado dentro da gleba que, até aprovação do loteamento, constitui bem indiviso".
+Com estas argumentações, pretende a apelante a desconstituição da sentença que homologou o acordo firmado entre o autor e uma das rés.
+Desta forma, em realidade, a apelante busca, com o recurso, defender direito próprio, que contrapõe ao direito dos demandantes, quando deveria fazê-lo através de ação própria.
+Falta, portanto, à apelante legitimidade recursal, o que conduz ao não conhecimento da apelação.
+Consoante entendimento emanado da instância de origem, verifica-se que o ora recorrente não possuía legitimidade recursal, pois a pretensão estaria relacionada à defesa de direitos próprios contrapostos a direitos das partes originárias, o que deveria ser feito por meio de ação própria.
+Em suas razões recursais, o insurgente alega que, "Ao contrário do que entendeu o E. Tribunal a quo, a pretensão da Recorrente não é defender direito próprio que implique a exclusão do direito dos Recorridos, mas tão somente evitar que o cumprimento do acordo homologado a impeça de concluir, com êxito, o processo de regularização do loteamento".
+Tecidas tais considerações, afirmo que não há, no acórdão hostilizado, elementos aptos a demonstrar a existência de interesse jurídico, relacionado ao comprovado prejuízo da parte, a ensejar a abertura da legitimidade recursal de terceiros não participantes da lide, na forma do que preconiza o art. 996 do CPC/2015.
+Nota-se, na verdade, nítida colisão entre premissas de natureza fática, as quais não podem ser revistas neste momento processual, pois, para isso, seria necessário reanálise dos elementos fático-probatórios constantes do presente processo, o que não se admite nesta estreita via recursal, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. CERCEAMENTO DE DEFESA E CARACTERIZAÇÃO DO DANO. APLICAÇÃO DA SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA. SÚMULA 54/STJ.
+1. Recurso especial cuja pretensão demanda reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+2. Segundo o entendimento da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito, os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 822.671/MA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. RECURSO DE TERCEIRO.
+LEGITIMIDADE E INTERESSE NÃO RECONHECIDOS PERANTE A INSTÂNCIA LOCAL.
+NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça." 2. O Tribunal a quo manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação, tendo decidido, entretanto, contrariamente aos interesses da parte recorrente, que buscou, com os embargos de declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição ou obscuridade, não se verifica a aludida ofensa aos arts. 165, 458, II e III, e 535 do CPC/1973.
+3. A desconstituição das conclusões a que soberanamente chegou o Tribunal local, no sentido de que os agravantes, na condição de terceiros prejudicados (CPC/73, art. 499), não detêm legitimidade e interesse recursal, especialmente porque o direito vindicado está sendo discutido em ação de embargos de terceiro, demandaria a incursão no suporte fático-probatório da causa, o que encontra empeço na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 222.471/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/06/2016, DJe 03/08/2016)
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
