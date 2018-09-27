@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto com fundamento na alínea "a" do permissivo constitucional contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO PENHORA VERBAS DE RESCISÃO DE CONTRATO DE TRABALHO - Execução de título extrajudicial - Constrição judicial Bloqueio online de ativos financeiros de origem salarial Verbas rescisórias trabalhistas - Créditos de natureza salarial são impenhoráveis nos termos do art. 833, inciso IV, do Código de Processo Civil Decisão reformada." (e-STJ, fls. 78)
+Os subsequentes embargos de declaração foram rejeitados (e-STJ, fls. 90/92).
+Nas razões do recurso especial, a parte recorrente alega violação ao art. 833, IV, do CPC/15, sustentando, em síntese, que: a) os executados não comprovaram que os valores são impenhoráveis; b) "não há nenhuma nulidade na constrição efetuada nos autos, até porque a conta constrita não é considerada como impenhorável, tendo em vista se tratar de conta corrente com aplicações financeiras" (e-STJ, fl. 101)
+É o relatório. Decido.
+Nos termos do art. 833, inciso IV e § 2º, do Código de Processo Civil de 2015, são absolutamente impenhoráveis os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios, ressalvado o caso de penhora para pagamento de prestação alimentícia.
+Nesse contexto normativo, a jurisprudência desta Corte firmou-se no sentido de ser inviável a penhora, ainda que parcial, de valores recebidos a título de salário, dada a natureza alimentar de tais verbas.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO PELO RELATOR. POSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO ÓRGÃO COLEGIADO. NÃO OCORRÊNCIA. PENHORA. SALÁRIO. IMPOSSIBILIDADE. ART. 649, IV, DO CPC. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da orientação jurisprudencial desta Corte Superior, é possível ao relator, mediante decisão monocrática, negar seguimento ao recurso especial quando presentes as hipóteses do art. 557, caput, do Código de Processo Civil e 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça, quais sejam, recurso manifestamente inadmissível, improcedente, prejudicado ou contrário a súmula ou jurisprudência do tribunal de origem ou de tribunal superior, não havendo que se falar, pois, na presente hipótese, em usurpação da competência de órgão colegiado.
+2. Consoante jurisprudência do Superior Tribunal de Justiça, é incabível a incidência de penhora sobre percentual de valores recebidos a título de salário, a teor do que prescreve o art. 649, IV, do Código de Processo Civil.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 555.675/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 9/9/2014, DJe de 9/10/2014 ; grifou-se).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ELETRÔNICA. PROVENTOS DE APOSENTADORIA. IMPOSSIBILIDADE. MATÉRIA JULGADA SOB O RITO DO ART. 543-C DO CPC.
+1. A Primeira Seção desta Corte, no julgamento do REsp 1.184.765/PA, submetido ao rito do art. 543-C do CPC (Recursos repetitivos), ratificou o entendimento de que "a penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.382/2006), segundo a qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal".
+2. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 549.871/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 4/9/2014, DJe de 10/9/2014 ; grifou-se).
+"AGRAVO REGIMENTAL. RECLAMAÇÃO. OFENSA À AUTORIDADE DE DECISÃO DO STJ. EXECUÇÃO. PENHORA. SALÁRIO. IMPOSSIBILIDADE.
+1. Na hipótese, há divergência entre a decisão desta Corte Superior - que entendeu não ser cabível a constrição sobre conta corrente destinada ao recebimento de salário - e a decisão proferida pelo Juízo de primeira instância, que manteve a penhora de 30% sobre conta-salário do devedor.
+2. Esta Corte tem entendimento assente no sentido de que é possível a penhora on line em conta corrente do devedor, desde que observada a impenhorabilidade de vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria e pensões, entre outras, prevista no art. 649, IV, do CPC.
+3. Agravo não provido."
+(AgRg na Rcl 12.251/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 14/8/2013, DJe de 19/8/2013 ; grifou-se).
+"AGRAVO REGIMENTAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - PENHORA DE 30% DA REMUNERAÇÃO PAGA AO COEXECUTADO POR SERVIÇOS MÉDICOS PRESTADOS À COOPERATIVA MÉDICA UNIMED. NATUREZA ALIMENTAR. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- A regra de impenhorabilidade absoluta prevista no art. 649, inciso IV, do CPC, visa por a salvo de quaisquer constrições os valores percebidos a título de "vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, (..)", em virtude da natureza alimentar de referidas verbas. Precedentes.
+2.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido."
+(AgRg no REsp 1.374.755/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/5/2013, DJe de 14/6/2013; grifou-se).
+DIREITO CIVIL E PROCESSUAL CIVIL. PENHORA DE VERBAS RESCISÓRIAS DE CARÁTER SALARIAL. VIOLAÇÃO DO ARTIGO 649, IV DO CPC. IMPENHORABILIDADE DE CONTA-SALÁRIO. NECESSIDADE DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. É inadmissível a penhora dos valores recebidos a título de verba rescisória de contrato de trabalho e depositados em conta corrente destinada ao recebimento de remuneração salarial (conta salário), ainda que tais verbas estejam aplicadas em fundos de investimentos, no próprio banco, para melhor aproveitamento do depósito.
+2. Ademais, o Tribunal a quo concluiu, com base nas provas dos autos, que a natureza dos valores penhorados é salarial. Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula 7 do Superior Tribunal de Justiça.
+Recurso especial não conhecido.
+(REsp 978.689/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/08/2009, DJe 24/08/2009, gn)
+Assim, observa-se que o Tribunal a quo decidiu em consonância com o entendimento firmado pelas Turmas integrantes da Segunda Seção desta Corte, que é no sentido de ser vedada a penhora de proventos do devedor, exceto para pagamento de dívidas de caráter alimentar, o que não é o caso dos autos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
