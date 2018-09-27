@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IAGO ALEXANDRE DA CONCEIÇÃO CARVALHO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0001107-81.2017.8.26.0617).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 6 anos e 6 meses de reclusão, em regime inicial fechado, e multa, pela prática dos crimes previstos nos arts. 157, § 2º, inciso II, do Código Penal e 244-B da Lei 8.096/1990, por duas vezes em concurso formal, aplicada a regra do concurso material entre os delitos distintos (e-STJ fls. 10/16).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi parcialmente provido para reconhecer o concurso formal entre os crimes de roubo e corrupção de menores, razão pela qual a pena do paciente foi redimensionada para 6 anos, 4 meses e 24 dias de reclusão e multa, mantido o regime inicial fechado (e-STJ fls. 25/31). Segue a ementa do acórdão:
+APELAÇÃO Roubo circunstanciado e Corrupção de menores Recurso da defesa Absolvição Improcedência Materialidade e autoria demonstradas Negativa do réu isolada nos autos Vítimas e policiais militares confirmando os fatos narrados na denúncia Conjunto probatório seguro e coeso Condenação de rigor Dosimetria das penas Penas-base no mínimo legal Reprimenda do roubo elevada em 1/3 pelo concurso de agentes Concurso formal entre os delitos Reconhecimento - Crimes praticados em uma única ação Aumento em 1/5 pela quantidade de condutas Regime inicial fechado mantido Recurso parcialmente provido.
+No presente mandamus (e-STJ fls. 1/4), a impetrante sustenta que o paciente sofre constrangimento ilegal, pois não há fundamentação concreta para a imposição do regime mais rigoroso que o previsto para a pena aplicada, tendo em vista a primariedade do paciente e a ausência de circunstâncias judiciais desfavoráveis. Aduz ser hipótese de aplicação dos enunciados das Súmulas n. 440/STJ, 718 e 719/STF.
+Ao final, liminarmente e no mérito, pede a alteração do regime prisional para inicial semiaberto.
+O pedido liminar foi indeferido (e-STJ fls. 36/37).
+As informações foram prestadas às e-STJ fls. 44/60.
+O Ministério Público Federal, por meio do parecer exarado às fls. 63/67, opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem, conforme a seguinte ementa:
+1. Habeas Corpus. Direito Processual Penal.
+2. Crimes contra o patrimônio. Roubo majorado. Dosimetria. Precedentes do Superior Tribunal de Justiça.
+3. Parecer pelo não conhecimento e improvimento do HC.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Busca-se, em síntese, o reconhecimento de constrangimento ilegal no estabelecimento do regime inicial fechado.
+Sobre o tema, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, sendo inidônea a mera menção à gravidade abstrata do delito.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, segue a motivação apresentada pelo Tribunal a quo para manter o regime prisional mais gravoso estabelecido na sentença (e-STJ fl. 30):
+Quanto ao regime prisional, tendo em vista que o delito foi praticado com grave ameaça exercida com o emprego de simulacro de arma, trazendo maior temor à vítima, além de envolver adolescente na prática criminosa, circunstâncias a denotar maior ousadia e periculosidade do apelante, o inicial fechado mostrou-se necessário à repreensão de sua conduta, nos termos do art. 33, §3º, do Código Penal.
+Não se pode olvidar, ainda, que o recorrente estava em cumprimento de liberdade condicional quando praticou o delito em tela, o que nos permite concluir que um regime mais brando seria inócuo.
+Dessa forma, extrai-se que o crime foi cometido com ousadia e envolveu a participação de dois adolescentes, logo após o paciente ser beneficiado com livramento condicional, o que revela maior reprovabilidade.
+Em consequência, embora a pena-base tenha sido estabelecida no patamar mínimo legal e a condenação não supere 8 anos de reclusão, o regime prisional mais gravoso possui lastro em fundamentação concreta e idônea.
+Em hipóteses análogas, nas quais circunstâncias concretas embasam o regime mais gravoso, embora a pena-base tenha sido estabelecida no mínimo legal e o paciente seja primário, segue a jurisprudência desta Corte.
+PENAL. RECURSO ESPECIAL. ROUBO QUALIFICADO PELA LESÃO CORPORAL GRAVE. ART. 157, § 3º, PRIMEIRA PARTE, DO CÓDIGO PENAL. REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTOS CONCRETOS E IDÔNEOS. PERICULOSIDADE SOCIAL DOS AGENTES.
+3. É certo que as circunstâncias judiciais são favoráveis ao recorrente, tanto que a pena-base foi fixada no mínimo legal. Entretanto, o Juiz sentenciante, ao estabelecer o regime fechado para o início do cumprimento da pena, ressaltou a gravidade dos ferimentos causados na vítima, bem como a periculosidade social dos agentes.
+4. Ora, o emprego de arma de fogo na prática delitiva denota não só maior periculosidade do agente mas também uma ameaça maior à incolumidade da vítima, sendo tal gravidade tão manifesta, que não se requerem maiores explanações para descrever o óbvio.
+5. De ressaltar que "o comando legal do art. 33, §§ 2º e 3º, do Código Penal não determina que o regime inicial tenha por baliza a pena-base fixada, e sim que o magistrado deva fundamentar sua sentença apoiado nas circunstâncias elencadas no art. 59 do mesmo Estatuto" (HC 295232/RJ, Relator Ministro SEBASTIÃO REIS JÚNIOR, Órgão Julgador T6 - SEXTA TURMA, DJe 09/03/2015).
+6. Recurso especial não provido. (REsp 1.501.738/SP, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 18/8/2015).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBO QUALIFICADO TENTADO. FIXAÇÃO DO REGIME INICIAL FECHADO. REGIME INICIAL MAIS GRAVOSO DO QUE O LEGALMENTE PERMITIDO. ALEGADA VIOLAÇÃO À SÚMULA N.º 440/STJ. INEXISTÊNCIA. FUNDAMENTAÇÃO CONCRETA. MODUS OPERANDI QUE DEMONSTRA MAIOR REPROVABILIDADE. PENA PRIVATIVA DE LIBERDADE FIXADA EM 03 ANOS, 06 MESES E 20 DIAS DE RECLUSÃO. CABIMENTO DO REGIME INICIAL SEMIABERTO. HABEAS CORPUS NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+ ..
+3. O fato da especial reprovabilidade do crime não ter sido utilizada para a exasperação da pena-base demonstra tão-somente a benevolência das instâncias ordinárias, não conduzindo à inferência de que há violação ao enunciado da Súmula n.º 440/STJ, uma vez que o regime mais gravoso foi estabelecido por conta da gravidade concreta do crime.
+4. Contudo, em se levando em consideração que a pena privativa de liberdade imposta para o crime de roubo majorado tentado foi fixada em menos de 04 anos de reclusão, o regime mais gravoso é o semiaberto.
+5. Habeas corpus não conhecido. Ordem de habeas corpus concedida, de ofício, para fixar o regime inicial semiaberto para o inicial cumprimento da pena dos Pacientes. (HC 289.347/SP, Rel. Ministra LAURITA VAZ, Quinta Turma, DJe 11/6/2014).
+Assim, a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, sendo manifestamente improcedente.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+Cientifique-se o Ministério Público Federal.
