@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de [NOME] contra v. acórdão do eg. Tribunal de Justiça do Estado do Paraná, no agravo em execução n. 0036603-37.2013.8.16.0021.
+Depreende-se dos autos que o paciente, enquanto cumpria pena em regime aberto provisório, foi preso em flagrante dia 07/12/2017, fato que ensejou a regressão para o regime fechado, com fundamento na prática, em tese, de novo fato definido como crime doloso (fls. 34-35).
+Irresignada, a Defesa interpôs agravo em execução, alegando ilegalidade por ausência de instauração de procedimento administrativo disciplinar para apuração da falta grave e aduzindo, ainda, a necessidade do trânsito em julgado do fato tido como crime doloso. O eg. Tribunal de origem, contudo, negou provimento ao recurso, em acórdão assim ementado (fls. 7-17):
+"AGRAVO EM EXECUÇÃO - DECISÃO QUE REGREDIU O APENADO AO REGIME FECHADO EM RAZÃO DO COMETIMENTO DE NOVO CRIME - INSURGÊNCIA DEFENSIVA - PLEITO PELA REFORMA DO "DECISUM" ANTE A AUSÊNCIA DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - NÃO CABIMENTO - DISPENSABILIDADE DO REFERIDO ATO DESDE QUE EFETUADA A AUDIÊNCIA DE JUSTIFICAÇÃO COM PRESENÇA DO DEFENSOR E DO MINISTÉRIO PÚBLICO - PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DESTA CÂMARA CRIMINAL - ALEGADA VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA EM VIRTUDE DA INEXISTÊNCIA DE SENTENÇA PENAL CONDENATÓRIA TRANSITADA EM JULGADO - NÃO OCORRÊNCIA - PRESCINDIBILIDADE - INTELIGÊNCIA DA SÚMULA 526 DO STJ - RECURSO CONHECIDO E NÃO PROVIDO."
+Daí o presente habeas corpus, em que o impetrante sustenta, em síntese, que seria imprescindível a instauração de Procedimento Administrativo Disciplinar para a apuração da falta grave.
+Aduz que "o PAD é requisito imprescindível para o reconhecimento da falta grave e posterior instauração de procedimento judicial. Sua ausência, portanto, configura vício formal insanável." (fl. 4).
+Requer, ao final, a concessão da ordem "com a determinação de que o juízo da execução afaste o reconhecimento da falta grave e seus consectários legais" (fl. 6).
+Pedido liminar deferido às fls. 50-54, apenas para suspender os efeitos da falta grave reconhecida pelo Juízo da Vara de Execuções Penais da Comarca de Cascavel - PR, até o julgamento definitivo desta impetração.
+Informações prestadas às fls. 59-62 e 65-137.
+O Ministério Público Federal, às fls. 141-145, manifestou-se pelo não conhecimento do writ, ou, caso conhecido, pela sua prejudicialidade, ou ainda, pela denegação da ordem, em parecer com a seguinte ementa:
+"EMENTA: HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. EXECUÇÃO PENAL. COMETIMENTO DE NOVO CRIME DOLOSO. REGRESSÃO DE REGIME. PREVISÃO DO ART. 118, I, DA LEP. DESNECESSIDADE DE PAD. DISTINGUISHING. NÃO INCIDÊNCIA DA SÚMULA 533/STJ.
+1. Não é cabível a impetração de habeas corpus em substituição a recursos próprios ou como sucedâneo de revisão criminal, salvo em situações excepcionais em que, na dicção jurisprudencial, se evidencie teratologia ou flagrante ilegalidade.
+2. O writ está prejudicado pois a imposição de regime fechado ao paciente, no momento, decorre da superveniência de nova condenação penal, e consequente unificação de penas, que superam 16 anos de reclusão.
+3. Diante da prática de novo crime doloso, o art. 118, I, da LEP autoriza o juízo da execução a determinar a regressão de regime prisional, sendo prescindível, nesse caso, a instauração de PAD. Não incidência da Súmula 533/STJ.
+4. Parecer pelo não conhecimento do habeas corpus; caso conhecido, pela sua prejudicialidade. Subsidiariamente, o parecer é pela denegação da ordem."
+É o relatório.
+Decido.
+O presente habeas corpus encontra-se prejudicado.
+De acordo com as informações prestadas pelo Juízo da Vara de Execuções Penais de Cascavel/PR às fls. 59-62, quando da decisão que determinou a regressão de regime, em razão da prática de fato definido como crime doloso no curso da execução, o paciente cumpria pena por duas condenações com trânsito em julgado.
+Todavia, após proferida esta decisão, sobreveio o trânsito em julgado de terceira condenação (fl. 109), que ensejou a unificação das penas privativas de liberdade impostas ao paciente em 16 anos, 5 meses e 16 dias de prisão (o paciente cumpriu pouco mais de 4 anos - fl. 59), em regime fechado.
+Nesse contexto, o regime fechado atualmente imposto ao paciente decorre de decisão posterior, pela qual foram unificadas as penas.
+De fato, diante da superveniência da condenação transitada em julgado relativa ao novo delito cometido pelo paciente - cuja prisão em flagrante levou ao reconhecimento da falta grave em 07/12/2017 - o Magistrado de origem determinou a unificação das penas do paciente, mantendo-o em regime fechado.
+Ante o exposto, diante da substancial mudança na realidade fática da execução penal do sentenciado, estando ele agora cumprindo suas reprimendas, unificadas, no regime mais gravoso em razão de novo título judicial, com fundamento no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+P. e I.
