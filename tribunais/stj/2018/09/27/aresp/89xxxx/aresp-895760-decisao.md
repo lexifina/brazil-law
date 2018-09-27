@@ -1,0 +1,72 @@
+DECISÃO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA QUE VERSA SOBRE BENEFÍCIO PREVIDENCIÁRIO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO, E, NA SUA AUSÊNCIA, A PARTIR DA CITAÇÃO AGRAVO EM RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se da decisão que negou seguimento ao Recurso Especial fundado na alínea a do art. 105, III da Constituição Federal, interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão do Tribunal Regional Federal da 3a. Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. DECISÃO MONOCRÁTICA. AUSÊNCIA DE ILEGALIDADE OU ABUSO DE PODER. BENEFÍCIO ASSISTENCIAL. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+1- O artigo 557 do Código de Processo Civil consagra a possibilidade de o recurso ser julgado pelo respectivo Relator.
+2- Segundo entendimento firmado nesta Corte, a decisão do Relator não deve ser alterada quando fundamentada e nela não se vislumbrar ilegalidade ou abuso de poder que resulte em dano irreparável ou de difícil reparação para a parte.
+3- A decisão agravada abordou todas as questões suscitadas e orientou-se pelo entendimento jurisprudencial dominante. Pretende a parte agravante, em sede de agravo, rediscutir argumentos já enfrentados pela decisão recorrida.
+4- Agravo desprovido. Decisão mantida.
+2. Em seu Apelo Especial inadmitido, defende o recorrente que o acórdão recorrido viola os arts. 20 da Lei 8.742/1993; 43, § 1o, 49 da Lei 8.213/1991 e 884 do CC, ao fundamento de que o Ministério Público possui legitimidade ativa para intervir nas causas em que haja interesse de incapazes. Aduz, ainda, que sendo indeferido o prévio requerimento administrativo o termo inicial do benefício previdenciário é a data do requerimento.
+3. É o relatório. Decido.
+4. No ponto referente à legitimidade de agir do Ministério Público para intervir na causa, mister prescrutar o arcabouço legislativo, jurisprudencial e doutrinário.
+5. A Lei Complementar 75/1993, em seu artigo 5o, I, assim preceitua:
+Lei Complementar 75/1993
+Art. 5º o funções institucionais do Ministério Público da União:
+I - a defesa da ordem jurídica, do regime democrático, dos interesses sociais e dos interesses individuais indisponíveis, considerados, dentre outros, os seguintes fundamentos e princípios:
+6. O Ministério Público somente terá sua representatividade adequada para intervir quando a ação tiver relação com as atribuições institucionais previstas no artigo 127, caput, da Constituição da República:
+Constituição Federal
+Art. 127. O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
+7. O [NOME] elucida que:
+(..) o Ministério Público tem a sua razão de ser na necessidade de ativar o Poder Judiciário, em pontos em que este remanesceria inerte, porque o interesse agredido não diz respeito a pessoas determinadas, mas a toda a coletividade. Mesmo com relação aos indivíduos, é notório o fato de que a ordem jurídica por vezes lhes confere direitos sobre os quais não podem dispor. Surge, daí, a clara necessidade de um órgão que vale tanto pelos interesses da coletividade, quanto pelos dos indivíduos, estes apenas quando indisponíveis. Trata-se, portanto, de instituição voltada ao patrocínio desinteressado de interesses públicos, assim como de privados, quando merecerem um especial tratamento do ordenamento jurídico. ([NOME], Celso. Curso de Direito Constitucional, São Paulo, 11ª ed.. Ed. Saraiva, 1989, p. 339).
+8. Destarte, é firme a orientação desta Corte de que incumbe ao Ministério Público a defesa da ordem jurídica do regime democrático de direito e dos interesses sociais e individuais indisponíveis, o que lhe confere legitimidade para reivindicar benefícios previdenciários, em virtude de a Previdência Social ter por finalidade garantir aos seus beneficiários meios indispensáveis de sobrevivência, por motivo de incapacidade, desemprego voluntário, idade avançada, tempo de serviço, prisão ou morte de quem dependiam (art. 1º da Lei 8.213/1991), pessoas, portanto, se encontram em situação de hipossuficiência.
+9. Na mesma linha de entendimento, os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE. MINISTÉRIO PÚBLICO. CONTRATOS DE FINANCIAMENTO. SFH. SÚMULA 168/STJ.
+1. O Ministério Público possui legitimidade ad causam para propor ação civil pública objetivando defender interesses individuais homogêneos nos casos como o presente, em que restou demonstrado interesse social relevante. Precedentes.
+2. "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula 168/STJ).
+3. Embargos de divergência não conhecidos (EREsp 644.821/PR, Rel. Min. CASTRO MEIRA, DJe 4/8/2008)
+
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO FEDERAL. LEGITIMIDADE ATIVA. DIREITOS INDIVIDUAIS HOMOGÊNEOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. De acordo com a jurisprudência atual desta Corte, o Ministério Público tem legitimidade ativa para propor ação judicial que vise a defesa de direitos individuais homogêneos tendo em vista o relevante interesse social na causa.
+2. Agravo regimental a que se nega provimento (AgRg no REsp 1.174.005/RS, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 1º/2/2013)
+
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ASSOCIAÇÃO CIVIL. LEGITIMIDADE. AÇÃO COLETIVA. POSSIBILIDADE.
+A Lei 8.078/90, ao alterar o art. 21 da Lei 7.347/85, ampliou o alcance da ação civil pública e das ações coletivas para abranger a defesa de interesses difusos, coletivos e individuais homogêneos, desde que presente o interesse social relevante na demanda.
+In casu, os interesses são homogêneos, tendo em vista o debate de uma ampla classe de segurados da Previdência Social, onde se tem um universo indeterminado de titulares desses direitos.
+De acordo com a inteligência do artigo 21 do Código de Defesa do Consumidor, a Associação é legítima para propor ações que versem sobre direitos comunitários dos associados.
+Recurso desprovido (REsp 702.607/SC, Rel. Ministro JOSÉ ARNALDO DA FONSECA, DJ 12/9/2005, p. 360)
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA DESTINADA À TUTELA DE DIREITOS DE NATUREZA PREVIDENCIÁRIA (NO CASO, REVISÃO DE BENEFÍCIOS). EXISTÊNCIA DE RELEVANTE INTERESSE SOCIAL. LEGITIMIDADE ATIVA AD CAUSAM DO MINISTÉRIO PÚBLICO. RECONHECIMENTO.
+1. Para fins de tutela jurisdicional coletiva, os interesses individuais homogêneos classificam-se como subespécies dos interesses coletivos, previstos no art. 129, inciso III, da Constituição Federal. Precedentes do Supremo Tribunal Federal. Por sua vez, a Lei Complementar n.º 75/93 (art. 6.º, VII, a) e a Lei n.º 8.625/93 (art. 25, IV, a) legitimam o Ministério Público à propositura de ação civil pública para a defesa de interesses individuais homogêneos, sociais e coletivos. Não subsiste, portanto, a alegação de falta de legitimidade do Parquet para a ação civil pública pertinente à tutela de direitos individuais homogêneos, ao argumento de que nem a Lei Maior, no aludido preceito, nem a Lei Complementar 75/93, teriam cogitado dessa categoria de direitos.
+2. A ação civil pública presta-se à tutela não apenas de direitos individuais homogêneos concernentes às relações consumeristas, podendo o seu objeto abranger quaisquer outras espécies de interesses transindividuais (REsp 706.791/PE, 6.ª Turma, Rel.ª Min.ª MARIA THEREZA DE ASSIS MOURA, DJe de 02/03/2009).
+3. Restando caracterizado o relevante interesse social, os direitos individuais homogêneos podem ser objeto de tutela pelo Ministério Público mediante a ação civil pública. Precedentes do Pretório Excelso e da Corte Especial deste Tribunal.
+4. No âmbito do direito previdenciário (um dos seguimentos da seguridade social), elevado pela Constituição Federal à categoria de direito fundamental do homem, é indiscutível a presença do relevante interesse social, viabilizando a legitimidade do Órgão Ministerial para figurar no polo ativo da ação civil pública, ainda que se trate de direito disponível (STF, AgRg no RE AgRg/RE 472.489/RS, 2.ª Turma, Rel. Min. CELSO DE MELLO, DJe de 29/08/2008).
+5. Trata-se, como se vê, de entendimento firmado no âmbito do Supremo Tribunal Federal, a quem a Constituição Federal confiou a última palavra em termos de interpretação de seus dispositivos, entendimento esse aplicado no âmbito daquela Excelsa Corte também às relações jurídicas estabelecidas entre os segurados da previdência e o INSS, resultando na declaração de legitimidade do Parquet para ajuizar ação civil pública em matéria previdenciária (STF, AgRg no AI 516.419/PR, 2.ª Turma, Rel. Min. GILMAR MENDES, DJe de 30/11/2010).
+6. O reconhecimento da legitimidade do Ministério Público para a ação civil pública em matéria previdenciária mostra-se patente tanto em face do inquestionável interesse social envolvido no assunto, como, também, em razão da inegável economia processual, evitando-se a proliferação de demandas individuais idênticas com resultados divergentes, com o consequente acúmulo de feitos nas instâncias do Judiciário, o que, certamente, não contribui para uma prestação jurisdicional eficiente, célere e uniforme.
+7. Após nova reflexão sobre o tema em debate, deve ser restabelecida a jurisprudência desta Corte, no sentido de se reconhecer a legitimidade do Ministério Público para figurar no polo ativo de ação civil pública destinada à defesa de direitos de natureza previdenciária.
+8. Recurso especial desprovido. (REsp 1.142.630/PR, Rel. Min. LAURITA VAZ, DJe 1º/2/2011)
+10. Depreende-se, que é perfeitamente cabível, pois, a intervenção do Ministério Público na espécie, perceptível a exigência de especial tratamento do ordenamento jurídico, diante da matéria em disputa.
+10. Depreende-se, que é perfeitamente cabível, pois, a intervenção do Ministério Público na espécie, perceptível a exigência de especial tratamento do ordenamento jurídico, diante da matéria em disputa.
+11. Em relação ao direito de recorrer nos termos do art. 499 do Código de Processo Civil/1973 e da Súmula 99/STJ, tem o Ministério Público Federal legitimidade para recorrer, especialmente tratando-se de ação previdenciária na qual busca resguardar direito dos necessitados da assistência social.
+12. Nesse aspecto, o acórdão recorrido destoa com a jurisprudência do STJ que entende pela legitimidade do Ministério Público, agindo na qualidade de fiscal da lei, para juntar documentos, efetuar requerimentos, tal como ocorre no presente caso, e mais, essa manifestação deve ser considerada pelo Tribunal a quo, por ocasião do julgamento. Ilustrativamente:
+ADMINISTRATIVO. PROCESSUAL CIVIL. MINISTÉRIO PÚBLICO. LEGITIMIDADE PARA RECORRER. SÚMULA 99 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ATUAÇÃO COMO FISCAL DA LEI. JUNTADA DE DOCUMENTOS E PRODUÇÃO DE PROVAS. ART. 83, INCISOS I E II DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. AFASTADA. RETORNO DOS AUTOS À CORTE DE ORIGEM. NECESSIDADE.
+1. Nos termos da Súmula 99/STJ: "O Ministério Público tem legitimidade para recorrer no processo em que oficiou como fiscal da lei, ainda que não haja recurso da parte", inclusive nas causas relativas a direitos individuais disponíveis. Precedentes do STJ.
+2. Por expressa determinação contida no art. 83, incisos I e II, do Código de Processo Civil, o Ministério Público, agindo na condição de fiscal da lei, tem a prerrogativa de juntar documentos e produzir provas.
+3. Na hipótese, o parquet do Distrito Federal fez anexar a seu parecer documentos que, em tese, teriam o condão de corroborar as alegações veiculadas na peça exordial. Assim, a aludida documentação deveria ter sido levada em consideração pelo Tribunal de origem quando do julgamento do writ, o que afasta o fundamento relativo à ausência de prova pré-constituída.
+4. Recurso ordinário em mandado de segurança conhecido e provido.
+(RMS 27.455/DF, Quinta Turma, Relatora Ministra Laurita Vaz, DJe 18/11/2011)
+
+ADMINISTRATIVO. PROCESSUAL CIVIL. DEMANDA QUE VEICULA INTERESSE DE INCAPAZ. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. OBRIGATORIEDADE. AUSÊNCIA DE INTIMAÇÃO DO PARQUET. ANULAÇÃO DO PROCESSO. NECESSIDADE.
+1. A jurisprudência desta Corte firmou-se no sentido de que é obrigatória a intervenção do Ministério Público nas demandas em que estejam em discussão interesses de incapazes e, descumprida essa exigência, é de ser considerado nulo o processo.
+2. Recurso especial conhecido e provido
+(REsp 867.087/RJ, Quinta Turma, relatora Ministra Laurita Vaz, Dje 13/9/2010)
+
+RECURSO ESPECIAL. PROCESSO CIVIL. MANDADO DE SEGURANÇA. INTERESSE INDIVIDUAL. SEGURANÇA DENEGADA. MINISTÉRIO PÚBLICO ESTADUAL. INTERESSE DE RECORRER. PRECEDENTES.
+Nos termos da Súmula n. 99 deste Superior Tribunal de Justiça, o "Ministério Público tem legitimidade para recorrer no processo em que oficiou como fiscal da lei, ainda que não haja recurso da parte".
+Por outro lado, esta Corte pacificou o entendimento segundo o qual "o Ministério Público detém legitimidade para recorrer nas causas em que atua como custos legis, ainda que se trate de discussão a respeito de direitos individuais disponíveis e mesmo que as partes estejam bem representadas" (REsp 460.425/DF, Rel. Min. Salvio de Figueiredo Teixeira, DJ 24.05.99).
+Dessa forma, na espécie, deve ser reconhecido o interesse de recorrer do Ministério Público de Estado de Santa Catarina contra sentença que denegou segurança em que se discutia a exigência de prévio pagamento de multas de trânsito para licenciamento de veículo.
+Recurso especial provido.
+(REsp 434.535/SC, Segunda Turma, Relator Ministro Franciulli Neto, DJe 2/5/2005)
+13. No mais, o STJ possui entendimento de que o termo inicial da concessão do benefício previdenciário dá-se na prévia postulação administrativa e, na sua ausência, a partir da citação.
+14. Ante o exposto, conheço do Agravo para dar provimento ao Recurso Especial do Ministério Público para declarar como termo inicial do benefício a data do requerimento administrativo (DER).
+15. Publique-se.
+16. Intimações necessárias.
