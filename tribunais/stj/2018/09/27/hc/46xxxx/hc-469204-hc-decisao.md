@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de requerimento formulado por DEBORA CRISTINA FERREIRA RIBEIRO em face de decisão em que indeferi liminarmente o habeas corpus (e-STJ, fls. 154-155).
+A requerente reitera o pleito de concessão de prisão domiciliar, nos termos do HC coletivo n.143.641/SP, diante do fato de possuir 2 filhos com idade inferior a 12 anos. Destaca que "a exigência de provar que a mãe é guardiã de suas próprias crianças além de ser completamente descabida, atenta contra a Ordem expressa exarada pelo E. STJ no sentido de converter imediatamente a prisão preventiva em prisão domiciliar quando a ré possuir filhos menores de 12 anos" (e-STJ, fl. 161).
+Aduz que aparentemente foi concedida a ordem, de ofício, pelo TJSP no HC n. 2158132-97.2018.8.26.0000, impetrado em favo do corréu WEVERTON, para converter a preventiva da requerente em domiciliar, mas nem o [NOME] nem o Juízo de primeiro grau cumpriram a determinação.
+Requer, assim, a apreciação da liminar indeferida para determinar à autoridade coatora que conceda o benefício à acusada, conforme decido pela Suprema Corte.
+É o relatório.
+Decido.
+O pleito não merece ser acolhido.
+A impetração foi indeferida liminarmente pelos seguintes fundamentos:
+"As alegações expendidas pelo impetrante não foram discutidas pelo Tribunal de origem, diante da falta de instrução do writ, e ao que se nota, ao menos em um exame perfunctório, é que a possibilidade de concessão de prisão domiciliar sequer foi suscitada ao juízo de primeiro grau, daí porque é inviável a apreciação do tema nesta impetração, sob pena de supressão de instância.
+Nesse sentido, já se decidiu que, "em face do obstáculo da supressão de instância, não é possível o exame, por esta Corte, de discussão não apreciada no Tribunal de origem" (HC 376.650/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/2/2017, DJe 22/2/2017).
+Cabe salientar, ainda, como bem destacou a Corte de origem, que em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado (AgRg no HC 370.583/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/10/2016, DJe 11/11/2016)" (e-STJ, fls. 154-155).
+No presente caso, apesar das alegações apresentadas pela requerente, mantenho a decisão pelos seus próprios fundamentos, pois esta Corte Superior está impedida de analisar temas não debatidos no Tribunal de origem, sob pena de incorrer em indevida supressão instância. Ademais, compete ao impetrante, e não ao magistrado, apresentar os documentos necessários para a verificação de eventual constrangimento ilegal no ato impugnado e, na sua falta, a autoridade julgadora está autorizada a não conhecer da impetração pela instrução deficiente da inicial, como bem fez a instância antecedente.
+Por fim, no que se refere ao eventual descumprimento de decisão proferida pelo TJSP no HC n. 2158132-97.2018.8.26.0000, observa-se do decisum impugnado que, diferentemente do alegado pela defesa, sequer houve o julgamento do mérito da impetração, a qual teve o pedido liminar indeferido e aguarda seu processamento (e-STJ, fl. 50).
+Ante o exposto, não conheço do requerimento.
+Publique-se. Intimem-se.
