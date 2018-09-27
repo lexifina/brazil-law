@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDITORA GLOBO S/A contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação de cobrança proposta por EDITORA GLOBO S/A em desfavor de EDITORA MEIO E MENSAGEM LIMITADA, M&M EVENTOS LTDA e M&M DIGITAL LTDA.
+O il. Magistrado julgou parcialmente procedente o pedido (sentença às fls. 172/175).
+Diante disso, as partes interpuseram os respectivos recursos de apelação. O eg. TJ-SP desproveu a apelação de EDITORA GLOBO S/A e concedeu parcial provimento ao recurso de EDITORA MEIO E MENSAGEM LIMITADA, M&M EVENTOS LTDA e M&M DIGITAL LTDA, nos termos do v. acórdão, assim ementado (fl. 250):
+"LOCAÇÃO DE IMÓVEIS AÇÃO DE COBRANÇA DE MULTA CONTRATUAL, ALUGUEL PROPORCIONAL E DANOS MATERIAIS DANOS CAUSADOS AO IMÓVEL LOCADO REPOSIÇÃO AO ESTADO ORIGINÁRIO FINDA A LOCAÇÃO AUSÊNCIA DE PROVA DO ESTADO DE CONSERVAÇÃO DESACOLHIMENTO DESSE PLEITO MANTIDO IMPERTINÊNCIA DA COBRANÇA DE ALUGUEL PROPORCIONAL PARTES QUE ACORDARAM OS TERMOS DA DESOCUPAÇÃO E RETIRADA DE BENFEITORIAS - SUCUMBÊNCIA PARCIAL PROPORCIONALIDADE POSSIBILIDADE RECURSO DAS RÉS ACOLHIDO; IMPROVIDO O DA AUTORA.
+I - Não havendo qualquer elemento de prova que evidencie qual o estado de conservação do imóvel quando do término da locação, não se pode concluir, como pretende a parte locadora, que o imóvel apresentava avarias quando devolvido;
+II - Sendo as partes vencidas e vencedoras, em desigualdade de proporções, os ônus da sucumbência devem ser repartidos entre ambas na proporção de sua perda".
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 263/266).
+Inconformada, EDITORA GLOBO S/A interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a", da CF/88, no qual alega violação dos arts. 374, incisos II e III, 384, 389, 489, § 1º, inciso IV, e 1.022 do CPC/2015.
+Como dito, o apelo nobre foi inadmitido às fls. 301/302.
+Irresignada, EDITORA GLOBO S/A manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 319/331).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) será o exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Inicialmente, rejeita-se a alegada violação dos arts. 489, § 1º,e 1.022 do CPC/2015, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/1973) - MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em violação aos artigos 458 e 535 do CPC/1973. Na hipótese, houve o julgamento das questões de maneira fundamentada, com clareza e exatidão no julgado, apenas não tendo sido adotadas as teses do insurgente. Consoante entendimento desta Corte, o julgador não precisa responder, nem se ater a todos os argumentos levantados pelas partes, se já tiver motivos suficientes para fundamentar sua decisão.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 790.880/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2017, DJe 04/04/2017, grifou-se)
+"RECURSO ESPECIAL. OFENSA AOS ARTIGOS 458 E 535 DO CPC. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO IMPUGNADO. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE OUTROS ENCARGOS, DIFERENTES DA TAXA DE MANUTENÇÃO, DE MORADOR NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU. INVIABILIDADE.
+1. Quanto à admissibilidade do presente recurso especial por violação aos artigos 458 e 535 do CPC, impende consignar que não houve negativa de prestação jurisdicional, máxime porque a Corte local analisou as questões deduzidas pelo recorrente e adotou fundamentação suficiente e consentânea com a conclusão apresentada.
+(..)
+4. Recurso especial parcialmente provido."
+(REsp 1356251/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 01/07/2016, grifou-se)
+Outrossim, no apelo nobre que pretende trânsito, sustenta-se a violação do art. 374 do CPC/2015, ao argumento de que os fatos incontroversos não dependem de prova, de modo que os recorridos teriam admitido a responsabilidade pela indenização pleiteada. O recurso, contudo, não merece prosperar. Isso porque o eg. TJ-SP, mediante análise soberana das provas carreadas aos autos, concluiu que não restou comprovado o dano decorrente de mau uso do imóvel, restando incontroversas tão somente questões relativas a alguns consertos realizados no bem. À título elucidativo, colaciona-se o seguinte excerto do v. acórdão estadual (fl. 253):
+"Logo, não proporcionada a regular participação do inquilino na vistoria de devolução do imóvel, os danos apontados pela autora não podem ser relacionados ao mau uso do bem durante o contrato, sendo de rigor a improcedência desse pedido indenizatório, como bem decidiu o MM. Juiz sentenciante, restando mantida apenas a condenação das rés no pagamento da importância de R$ 3.129,00 (conserto de vidros e forro do elevador), eis que não há insurgência recursal por parte das rés quanto a esse ponto da r. sentença".
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto a não comprovação do mau uso do imóvel, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ressalta-se, ainda, que referido enunciado também incide quanto ao art. 384 do CPC/2015. Sob a alegada infringência, afirma-se que a ata notarial é dotada de fé pública e, portanto, não poderia ser desconsiderada. Ocorre que a ata notarial é dotada de presunção relativa, de modo que incumbe ao magistrado valorar como destinatário final das provas. Nessa linha de intelecção, confira-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULA N. 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições deve ser afastada a alegada ofensa ao artigo 1.022 do Código de Processo Civil.
+2. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento 3. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1201100/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/05/2018, DJe 22/05/2018)
+Por fim, melhor sorte não socorre ao recurso quanto aos arts. 374, incisos II e III, e 389, do CPC/2015. Sob o argumento de violação desses dispositivos, a recorrente sustenta que o imóvel foi devolvido após o prazo final estipulado. O eg. TJ-SP, contudo, à luz dos elementos probatórios constantes dos autos, afastou a condenação em aluguel proporcional, tendo em vista que a ocupação por prazo superior decorrera de acordo firmado entre as partes, conforme transcrição a seguir do seguinte excerto do v. acórdão (fls. 253/254):
+"Outrossim, não há que se falar em aluguel proporcional (devido entre a data da vistoria final até a efetiva desocupação), eis que ambas as partes alegam nos autos que ajustaram por conveniência uma data de desocupação do bem e, posteriormente, acordaram que as rés procederiam à retirada das benfeitorias introduzidas no imóvel, as quais, na ausência de oposição da locadora, se incorporariam automaticamente ao bem, nos termos da cláusula oitava do contrato (fls.38).
+(..)
+Assim, não pode a autora cobrar alugueres relativos ao período de dez dias que as rés utilizaram para retirar as divisórias do layout construído no imóvel locado.
+Por derradeiro resta apreciar o pedido das rés quanto à distribuição dos ônus sucumbenciais".
+Dessa forma, a pretensão de alterar esse entendimento demanda revolvimento do acervo fático e probatório, o que é inadmissível no apelo especial, conforme Súmula 7/STJ.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de 15% (quinze por cento) para 16% (dezesseis por cento) sobre o valor da condenação.
+Publique-se.
