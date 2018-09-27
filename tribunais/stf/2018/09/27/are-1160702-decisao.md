@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL: AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Segunda Região:
+    “ADMINISTRATIVO. MERCADO DE CAPITAIS. VENDA DE AÇÕES POR CORRETORA. AUSÊNCIA DE AUTORIZAÇÃO DO CLIENTE. PROCESSO ADMINISTRATIVO. CONTRADITÓRIO E AMPLA DEFESA OBSERVADOS. 1. A decisão do Conselho de Administração da BOVESPA, se contrária ao reclamante, deve ser submetida ex officio à CVM para revisão, nos termos da Resolução CMN nº 922/84, tratando-se de verdadeira condição de eficácia da decisão administrativa, sendo que, não ocorrendo a remessa, o reclamante pode se valer de recurso próprio, que fará as vezes da submissão de ofício referida. 2. In casu, após a revisão feita pela CVM da decisão proferida pelo Conselho de Administração, a TAKEOVER apresentou recurso para o colegiado do órgão julgador, momento em que o contraditório e ampla defesa foram plenamente exercidos, motivo pelo qual restou afastada a alegação de nulidade do processo administrativo por cerceamento de defesa. 3. A partir do momento em que a corretora recebeu pagamento do cliente e se obrigou a transferir-lhe a custódia dos valores mobiliários adquiridos em Bolsa, emitindo recibo em que tal obrigação estava expressamente consignada, a relação jurídica direta foi consolidada, conforme disposto no art. 1º da Lei nº 6.385/76, não podendo a corretora vender as referidas ações sem prévia autorização de seu cliente (art. 24 da Lei nº 6.385/76). 4. Apelações improvidas” (fls. 34-35, vol. 64).
+    Os embargos de declaração opostos foram rejeitados (fls. 40-45, vol. 65).
+    2. No recurso extraordinário a agravante alega ter o Tribunal de origem contrariado o inc. LV do art. 5º da Constituição da República.
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência das Súmulas 279 e 636 do Supremo Tribunal Federal (fl. 50, vol. 76).
+    A agravante sustenta ter-se no “acórdão recorrido viol[ado] a Constituição da República no artigo 5º, inciso LV, uma vez que não foi concedido à ora agravante oportunidade para responder o recurso apresentado pela Casteval perante a CVM, tendo o Tribunal de origem ignorado esse fato, entendendo pela não existência de violação” (fls. 16-17, vol. 77).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à agravante.
+    5. No julgamento do Recurso Extraordinário com Agravo n. 748.371, (Tema 660), Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral na alegação de contrariedade aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando necessário o exame da legislação infraconstitucional:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações da agravante.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de setembro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
