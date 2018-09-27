@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Jairo Rodrigues. Aparelhado o recurso na afronta ao art. 8º, II e III, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação da Constituição da República  (art. 8, II e III). Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário. Processual civil. Prequestionamento. Ausência. Ação coletiva. Limites territoriais da eficácia da decisão. Legislação infraconstitucional. Ofensa reflexa. Reexame. Impossibilidade. Violação do princípio da reserva de plenário. Inexistência. Precedentes. 1. Inadmissível o recurso extraordinário se o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. A questão sobre a limitação territorial da eficácia da decisão proferida em ação coletiva proposta por sindicato restringe-se ao âmbito infraconstitucional. 3. Agravo regimental não provido.” (RE 862020 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 15/03/2016, PROCESSO ELETRÔNICO DJe-085 DIVULG 29-04-2016 PUBLIC 02-05-2016)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO COLETIVA. LIMITES TERRITORIAIS DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 796.473. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. A limitação territorial da eficácia da decisão proferida em ação coletiva, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do ARE nº 796.473, Rel. Min. Gilmar Mendes. 2. In casu, o acórdão recorrido assentou: PROCESSO CIVIL. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. LIMITES SUBJETIVOS DA SENTENÇA. COISA JULGADA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. 3. Agravo regimental DESPROVIDO.” (RE 788989 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 26/08/2014, PROCESSO ELETRÔNICO DJe-174 DIVULG 08-09-2014 PUBLIC 09-09-2014).
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2018.
+Ministra Rosa Weber
+Relatora
