@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu seu apelo nobre.
+Consta dos autos que o agravante foi condenado na sanção do artigo 15 da Lei n. 10.826/03, à pena de 2 (dois) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e pagamento de 18 (dezoito) dias-multa, no valor mínimo legal.
+Interposto recurso especial, este não foi admitido pela Instância de origem, ensejando a presente insurgência, na qual o recorrente sustenta que o óbice indicado na decisão objurgada não incidiria na hipótese dos autos.
+Requer o acolhimento do agravo a fim de que seja admitido o recurso especial.
+Parecer do Ministério Público Federal às e-STJ fls. 388/389.
+É o relatório.
+No recurso especial, a parte alega violação ao artigo 386, inciso VII, do Código de Processo Penal, pretendendo, em síntese, a absolvição em razão de insuficiência probatória. Aponta, ainda, afronta ao artigo 33, §2º e §3º, do Código Penal, requerendo que seja fixado regime menos gravoso para o cumprimento da pena.
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que, de fato, o recurso especial interposto merece parcial seguimento.
+Ao julgar a apelação, a Corte estadual entendeu estarem presentes elementos suficientes a sustentar a condenação por infração ao artigo 15 da Lei n. 10.826/03. Eis a ementa do acórdão combatido (e-STJ, fl. 287):
+APELAÇÃO CRIMINAL - DISPARO DE ARMA DE FOGO - AUTORIA E MATERIALIDADE COMPROVADAS - CONDENAÇÃO MANTIDA - REDUÇÃO DAS PENAS BASILARES - NECESSIDADE - ABRANDAMENTO DE REGIME - IMPOSSIBILIDADE. I- Os depoimentos dos policiais responsáveis pelas diligências, não contraditados e em plena consonância com os demais elementos de prova, são suficientes para comprovar a materialidade e autoria do crime previsto no art. 15 da Lei 10.826/03. II- Verificada a incorreção do juiz sentenciante quando da análise das circunstâncias judiciais, a reestruturação das penas é medida que se impõe. III- Inviável a fixação de regime prisional inicial diverso do fechado em se tratando de réu multirreincidente.
+Com efeito, da leitura do excerto acima transcrito, verifica-se que o Tribunal de origem, soberano na reanálise dos fatos e das provas, concluiu pela existência, nos autos, de elementos concludentes para fundamentar o decreto condenatório.
+Nesse aspecto, desconstituir o julgado, buscando uma absolvição da conduta criminosa analisada na origem, não encontra amparo na via eleita, dada a necessidade de revolvimento do conjunto fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO IMPRÓPRIO. ART. 157, § 1º, DO CP. DESCLASSIFICAÇÃO PARA O CRIME DE FURTO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Rever o entendimento externado pelas instâncias ordinárias, para afastar as elementares do crime de roubo impróprio (art. 157, § 1º, do CP), implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental improvido.
+(AgRg no AREsp 718.983/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+No que concerne ao regime inicial para o cumprimento da pena, constata-se que o Tribunal de origem manteve o fechado, nos seguintes termos:
+Mantenho o regime prisional inicialmente fechado, em face da reincidência e dos péssimos antecedentes do apelante, que registra 4 (quatro) condenações definitivas por crimes de roubo e tráfico de drogas (e-STJ fls. 293/294).
+Desse modo, conforme aludido no acórdão de apelação, a reincidência e os antecedentes não podem ser ignorados na análise do modo inicial de cumprimento de pena, a qual é vinculada às regras estabelecidas nos §§ 2º e 3º do artigo 33 do Código Penal.
+A par disso, levando-se em conta o quantum final de pena aplicado (2 (dois) anos e 10 (dez) meses de reclusão, entende-se proporcional a escolha do regime inicial semiaberto, haja vista que a mantença do modo fechado implicaria duplo agravamento na situação prisional de [NOME] [NOME] [NOME], conforme disposto no artigo 33 do Código Penal.
+Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO. (..) REGIME PRISIONAL. REGIME INICIAL MAIS SEVERO DETERMINADO COM BASE NA GRAVIDADE CONCRETA DA CONDUTA. POSSIBILIDADE. DESPROPORCIONALIDADE AO QUANTUM FINAL DA PENA. ALTERAÇÃO PARA O MODO SEMIABERTO. COAÇÃO ILEGAL EVIDENCIADA.
+1. Na hipótese, o Tribunal de origem fundamentou o regime inicial fechado na gravidade concreta do delito. Contudo, a reprimenda final foi estabelecida em 4 (quatro) anos de reclusão, a evidenciar a desproporcionalidade desse sistema prisional duplamente mais severo que o previsto no art. 33 do Código Penal.
+2. É possível, em razão da apontada reprovabilidade do delito, estabelecer o semiaberto como inicial à execução da pena, o qual se mostra devido e suficiente à prevenção e à repressão do crime versado.
+(..) (HC 387.239/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Por tais razões, nos termos do artigo 253, parágrafo único, inciso II, alínea c, do Regimento Interno do Superior Tribunal de Justiça, conhece-se do agravo para dar parcial provimento ao recurso especial para fixar o regime prisional semiaberto para o início do cumprimento da pena imposta ao recorrente, mantido o aresto objurgado nos demais termos.
+Publique-se.
