@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto pela União, desafiando decisão do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) as razões de apelo não foram capazes de se opor, especificamente, às razões adotadas no acórdão recorrido, além de não indicarem o permissivo constitucional que autoriza o recurso, situações que atraem a incidência da Súmula 284/STF; (II) não ficou configurada violação ao art. 535 do CPC/73, porquanto a Corte de origem adotou fundamentação suficiente para decidir a controvérsia; (III) os dispositivos apontados não estão prequestionados; e (IV) incide a Súmula 283/STF, porquanto remanesce inatacado fundamento adotado no acórdão recorrido.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, não atacando, de modo específico, a incidência das Súmulas 283/STF e 284/STF ("o recurso não se opõe especificamente aos fundamentos da decisão objurgada" - fl. 327), além da ausência de afronta ao art. 535 do CPC.
+Incide, desse modo, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
