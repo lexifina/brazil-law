@@ -1,0 +1,48 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PLINIO FONTÃO PERES JUNIOR E OUTROS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. IMÓVEL RURAL. EXCESSO NÃO DEMONSTRADO. AVALIAÇÃO. NÃO REALIZADA. RECURSO IMPROVIDO. 1. Agravo de instrumento interposto em ação de execução de título extrajudicial contra decisão que rejeitou os embargos de declaração opostos pelos executados. 1.1. Relatam que a decisão determinou a penhora sobre a integralidade dos dois imóveis rurais, sem prévia avaliação dos mesmos. 1.2. Alegam que, considerando-se o valor de mercado dos referidos imóveis, a penhora mostra-se excessiva. 1.3. No mérito, a reforma da decisão, para a liberação/revogação da penhora sobre um dos imóveis penhorados e a redução da quantidade de alqueires penhorados do outro imóvel. 2. De acordo com o art. 789, do CPC:  O devedor responde com todos os seus bens, presentes e futuros, para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei  3. A decisão agravada além da penhora, também determinou a expedição de carta precatória de avaliação dos bens com observância dos arts. 870 a 875 do CPC. 4. No caso, não há como se falar em excesso de penhora sem as avaliações dos imóveis rurais penhorados. 4.1. Também não há excesso à execução se outro bem não é apontado para penhora pelo devedor, ou se ele não se dispõe a pagar o débito, e o bem penhorado é imóvel com valor presumivelmente maior que o valor da dívida. 5. Recurso a que se nega provimento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 11, 371, 489, 805, 831 e 1.022, II, do CPC/2015.
+Alega negativa de prestação jurisdicional por omissão e ausência de fundamentação. Sustenta, ainda, excesso da penhora das duas glebas, arguindo que o valor de mercado dos imóveis é superior à suposta obrigação que está sendo discutida. Aponta o princípio da menor onerosidade.
+Contrarrazões ao recurso especial às fls. 355-363.
+É o relatório. Decido.
+2. De início, resguardado de qualquer ofensa está o art. 1.022, II, do CPC de 2015, haja vista que a ofensa somente ocorre quando o acórdão deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é complementar o acórdão quando nele identificar omissão, ou, ainda, aclará-lo, dissipando obscuridade ou contradição.
+Na espécie, a Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, não há falar, no caso, em negativa de prestação jurisdicional. Destaco que se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ-FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+ ..
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1608804/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 27/10/2016).
+____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA ESTUDANTE UNIVERSITÁRIA. PRORROGAÇÃO DO BENEFÍCIO ATÉ OS 24 ANOS. IMPOSSIBILIDADE. APLICAÇÃO DA LEI Nº 9.717/98. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA 7/STJ. OMISSÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Afasta-se a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1220599/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+____________
+3. Também não se verifica, no caso, a alegada vulneração dos arts. 11, 371 e 489 do CPC/2015, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+Nota-se que, mediante convicção formada do exame feito aos elementos fático-probatórios dos autos, a Corte local tratou de forma clara e suficiente a controvérsia apresentada, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar ausência de fundamentação.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. FILHA ESTUDANTE UNIVERSITÁRIA. PRORROGAÇÃO DO BENEFÍCIO ATÉ OS 24 ANOS. IMPOSSIBILIDADE. APLICAÇÃO DA LEI Nº 9.717/98. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA 7/STJ. OMISSÃO. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Afasta-se a ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1220599/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+4. No que tange à violação aos arts. 805 e 831 do CPC/2015, também não prospera o inconformismo.
+Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu pela manutenção da decisão que determinou a penhora dos imóveis, consignando a inexistência de excesso de penhora e de excesso à execução, com a seguinte fundamentação (fl. 263):
+"A despeito das alegações dos executados agravantes a decisão recorrida que determinou a penhora dos imóveis deve ser mantida.
+O devedor responde com todos os seus bens, presentes e futuros, para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei (art. 789 do CPC).
+Ademais, a decisão agravada, além da penhora, também determinou a expedição de carta precatória de avaliação dos bens com observância dos arts. 870 a 875 do CPC.
+Assim, não há como se falar em excesso de penhora, uma vez que ainda não foi realizada a avaliação dos imóveis rurais penhorados. Também não há excesso à execução se outro bem não é apontado para penhora pelo devedor, ou se ele não se dispõe a pagar o débito, e o bem penhorado é imóvel com valor presumivelmente maior que o valor da dívida."
+Desse modo, verifica-se que o acolhimento da pretensão recursal de excesso da penhora demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Ressalta-se que, conforme orientação do STJ, "Embora deva a execução ser processada do modo menos gravoso ao devedor, ela há de realizar-se no interesse do credor, que busca, pela penhora, a satisfação da dívida inadimplida" (AgInt no AREsp 956.931/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/3/2017, DJe 10/4/2017).
+Com efeito, observa-se que a verificação sobre o modo como se processa a execução, se mais ou menos onerosa ao executado, demandaria reincursão no acervo fático-probatório dos autos, o que é vedado nesta estreita via recursal, ante o óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. OMISSÃO. ARTIGO 535 DO CPC/73. NÃO OCORRÊNCIA. EXECUÇÃO. MENOR ONEROSIDADE. ARREMATAÇÃO. PREÇO VIL.REEXAME. SÚMULA N. 7 DO STJ. PENHORA. REAVALIAÇÃO DO BEM. EXTEMPORANEIDADE. IMPUGNAÇÃO. SÚMULA N. 283 DO STF. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 535 do CPC/73.
+2. Verificar se a execução não se processa do modo menos oneroso ao devedor demanda incursão nos elementos informativos do processo, a encontrar as disposições do enunciado n. 7 da Súmula desta Casa.
+3. Concluindo a instância de origem que não há prova de que o bem foi arrematado por preço vil, o reexame da questão esbarra no óbice de que trata o verbete n. 7 da Súmula desta Casa.
+4. Fundamento do acórdão de origem não impugnado pelo recorrente, no sentido de que está preclusa a pretensão de reavaliar o imóvel penhorado, atrai a incidência do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1403521/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/02/2017, DJe 16/02/2017)(g.n.)
+___________
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
