@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão exarado pelo exarado pelo eg. Tribunal de Justiça do Distrito Federal e Territóros (TJDFT).
+Cuidam os autos, na origem, de ação revisional proposta por [NOME] em desfavor de CAIXA DE PREVIDÊNCIA COMPLEMENTAR DO BANCO DA AMAZÔNIA.
+O il. Magistrado julgou o pedido (sentença às fls. 322/327).
+Diante disso, [NOME] interpôs apelação, a qual foi desprovida pelo eg. TJDFT nos termos do v. acórdão, assim ementado (fl. 411):
+"PREVIDÊNCIA PRIVADA. CAPAF. PRELIMINAR. COISA JULGADA. CORREÇÃO MONETÁRIA" PLENA. PRESCRIÇÃO. INDENIZAÇÃO. DANO MATERIAL E MORAL.
+I - Embora o e. STF tenha pacificado o entendimento da competência da Justiça Comum para causas relativas à previdência privada, modulou os efeitos para reconhecer competente a Justiça do Trabalho nos processos já julgados. Coisa julgada quanto às queàtões já definitivamente decididas pela Justiça do Trabalho.
+II - A pretensão à correção monetária plena da reserva de poupança prescreve em cinco anos da data do resgate, exceto quando o ex-participante do plano de previdência, ciente do valor disponibilizado e dos índices aplicados, nem sequer efetua o resgate, ficando inerte por quase 20 anos.
+III - Inexiste responsabilidade da CAPAF e do BASA por eventuais danos materiais e morais, quando o ex-participante do plano de previdência, ciente do valor da sua reserva de poupança e dos índices de correção aplicados, não ajuíza "ação revisional, não manifesta vontade de reingressar no plano, tampouco efetua o resgate.
+IV - Apelação desprovida".
+Inconformado, [NOME] manejou o presente recurso especial, com fulcro no art. 105, inciso III, alíneas "a", da CF/88, no qual alega violação dos arts. 186 e 927 do CC/02; dos arts. 20, 301, §§ 1º e 2º, e 535 do CPC/73; e do art. 42, caput e § 1º, da Lei n. 6.435/77.
+Contrarrazões às fls. 489/501.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - grifou-se)
+ "PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - grifou-se)
+Outrossim, no apelo nobre que pretende trânsito, sustenta o recorrente violação do art. 301, §§ 1º e 3º, do CPC/73, ao argumento de que não haveria coisa julgada, porquanto não discute acerca de direitos trabalhistas. O recurso, contudo, não merece prosperar. Isso porque o eg. TJDF, mediante análise soberana das provas carreadas aos autos, assentou que a questão relativa à previdência foi discutida nos autos da ação trabalhista, cuja sentença já transitou em julgado. Ressaltou ainda a competência da Justiça do Trabalho, tendo em vista que se enquadra na exceção trazida pelo eg. Supremo Tribunal Federal. À título elucidativo, colacionam-se os seguintes excertos do v. acórdão distrital (fls. 416/417):
+"O apelante-autor sustenta que não há coisa julgada.
+A cópia do acórdão do c. TRT da 10a Região (fls. 122/6), proferido em 26/06/03, demonstra que a Justiça do Trabalho julgou a pretensão de reingresso no plano de previdência, declarando-a prescrita, julgou improcedente pedido de complementação de aposentadoria e improcedente o pedido de condenação do BASA ao recolhimento das contribuições durante .o período da reintegração trabalhista. Esse aresto transitou em julgado.
+Embora o e. STF tenha pacificado o entendimento de que compete à Justiça Comum julgar causas fundadas na previdência complementar (RE 586453/SE), modulou os efeitos do acórdão para considerar competência da Justiça do Trabalho "todas as causas da espécie em que houver sido proferida sentença de mérito até a data da conclusão, pelo Plenário do Supremo Tribunal Federal, do julgamento do presente recurso (20/2/2013)".
+Nesses termos, reconhecida a competência da Justiça do Trabalho nos termos do julgado do e. STF, é manifesta a presença do pressuposto protessual negativo da coisa julgada, o que impede o novo julgamento dá pretensão de pagamento das contribuições"(fls. 416/417).
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à existência da coisa julgada, seria necessária a revisão de matéria fático-probatória, o que é inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Ademais, melhor sorte não socorre ao recurso no que diz respeito aos arts. 186 e 927 do CC/02. Sob as alegadas infringências, afirma-se a existência de danos morais. Nesse ponto, o eg. TJDFT afastou referido pleito, tendo em vista que que as razões sobre as quais repousam o apelo nobre decorreriam da relação trabalhista, o que não guarda relação com o contrato de previdência privada. Para fins ilustrativos, transcreva-se o trecho a seguir (fl. 415):
+"Quanto ao pedido de compensação moral decorrente de supostas perseguições no ambiente de trabalho e de demissão injusta, não se relacionam com o contrato de previdência privada. Essa causa de pedir refere-se à relação de trabalho, que é competência da Justiça do Trabalho, art. 114 da CF.
+Por isso, neste julgamento, será analisada a pretensão à compensação moral fundada apenas em fatos advindos do contrato de previdência complementar".
+Assim, incide novamente a Súmula 7/STJ, porquanto para alterar referido entendimento exigiria revolvimento fático e probatório dos autos. Ademais, o recorrente não impugnou o fundamento de que os argumentos dos danos morais não possuem relação com o contrato de previdência, o que atraia súmula 283/STF.
+Ainda sob os mesmos dispositivos, o recorrente afirma ter direito ao ressarcimento de danos materiais. O eg. TJDFT, no entanto, concluiu pela inexistência de ato ilícito praticado pelas partes recorridas. À título demonstrativo, segue o seguinte excerto do v. acórdão objurgado (fls. 419/420):
+"Na época do ingresso do apelante-autor no plano da CAPAF, em 1.971, a adesão era compulsória a todos os empregados do BASA. Porém, a partir de 1.981, o vínculo passou a ser de livre adesão, privilegiando a liberdade de contratação. O autor foi demitido do BASA em 1.992, manifestando interesse de resgatar sua reserva de poupança (fl. 37).
+Posteriormente, em 1.997, o apelante-auior foi reintegrado ao emprego no BASA e declarou, na missiva datada de 28/11/97,. endereçada à CAPAF: estou estudando a relação custo/benefício, de um eventual reingresso nessa Caixa" (fl. 67).
+Dessas circunstâncias, verifica-se que o apelante -autor não só sabia do rompimento do vínculo com a CAPAF, mas também estava ciente de que era -necessária uma declaração de vontade para reingressar no plano.. Não obstante afirmar que estava avaliando as vantagens do plano de previdência, ele nunca requereu o ,reingresso, razão pela qual não pode adotar comportamento contraditório e demandar perdas e danos decorrentes da não continuação do vínculo, em nítida afronta ao princípio da boa -fé objetiva.
+Além disso, o valor da reserva de poupança está à sua disposição (fl. 64). O fato de não ter havido o resgate até o presente momento não pode ser imputado aos réus.
+Diante dessas circunstâncias, não está evidenciado nenhum ato ilícito do BASA nem da CAPAF que pudesse acarretar a responsabilidade por eventuais danos, motivo pelo qual é improcedente o pedido de indenização por danos materiais e morais".
+Nesse jaez, a pretensão de alterar referido entendimento demanda revolvimento fático e probatório, o que é inviável no apelo nobre, consoante Súmula 7/STJ.
+Tampouco merece prosperar o recurso quanto à violação do art. 42, caput e § 1º, da Lei n. 6.435/77 e art. 406 do CC/02. Sustenta o recorrente a necessidade de substituir os índices dos Planos Econômicos pelo IPC ou INPC. O eg. TJDFT, contudo, afastou referido pleito sob o fundamento de que o pleito encontra-se prescrito. Nesse cenário, havendo fundamento autônomo e suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula n. 283/STF, aplicada por analogia. Nessa mesma linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PRETENSÃO DE COMPLEMENTAÇÃO DO LAUDO PERICIAL E JUNTADA DE DOCUMENTOS. NECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA COM O INTUITO DE ESCLARECER QUESTÕES ATINENTES ÀS AMORTIZAÇÕES REALIZADAS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF.
+(..)
+2. É inadmissível o recurso especial que não impugna os fundamentos do acórdão recorrido, suficientes, por si só, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283/STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 451.336/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 08/06/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM" RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1035112/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/05/2017, DJe 12/05/2017 - grifou-se)
+Por fim,o indeferimento do recurso prejudica a análise relativa aos honorários advocatícios (art. 20 do CPC).
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RI-STJ, nego provimento ao recurso especial.
+Publique-se.
