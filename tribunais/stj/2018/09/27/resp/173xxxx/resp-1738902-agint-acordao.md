@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 DO STF E 211 DO STJ. 2. LEGITIMIDADE PASSIVA. CADEIA DE FORNECEDORES. RESPONSABILIDADE SOLIDÁRIA. SÚMULA 83/STJ. 3. AGRAVO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, por analogia, o enunciado n. 282 do STF bem como a Súmula 211 do STJ.
+2. Com efeito, é solidária a responsabilidade entre os fornecedores constantes da cadeia de produção ou de prestação de serviços.
+2.1. No caso dos autos, ao analisar a questão, constata-se que o acórdão recorrido se alinhou à jurisprudência desta Corte Superior ao concluir pela responsabilidade solidária da ora recorrente, notadamente porque, a despeito de não ter negociado diretamente com a consumidora, foi ela quem intermediou a prestação de serviço falho entre a empresa recorrida e a empresa que instalou o autossocorro na carroceria do caminhão. Incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por Ford Motor Company Brasil Ltda. contra decisão monocrática desta relatoria que negou provimento ao recurso especial, assim ementada (e-STJ, fl. 478):
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 DO STF E 211 DO STJ. 2. LEGITIMIDADE PASSIVA. CADEIA DE FORNECEDORES. RESPONSABILIDADE SOLIDÁRIA. SÚMULA 83/STJ. 3. RECURSO IMPROVIDO.
+A agravante sustenta, em suas razões, o prequestionamento da matéria elencada no art. 2º do CDC, tendo em vista que, ainda que não tenha havido menção expressa ao dispositivo legal invocado no recurso especial, ao se qualificar a recorrida como consumidora, tratou-se do comando nele inserido.
+Aduziu também a inaplicabilidade da Súmula n. 83 do STJ por esta Corte, insistindo na argumentação de não ser o caso de responsabilidade solidária, isso porque apenas fabricou o veículo, não possuindo relação com os serviços prestados pela empresa Facchini, assim, não pode ser classificada como fornecedora. Alega, além disso, não possuir legitimidade passiva, na medida em que não tem responsabilidade pelos fatos narrados, por inexistirem defeitos ou problemas no produto que fabricou.
+A impugnação não foi apresentada - fl. 493 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 DO STF E 211 DO STJ. 2. LEGITIMIDADE PASSIVA. CADEIA DE FORNECEDORES. RESPONSABILIDADE SOLIDÁRIA. SÚMULA 83/STJ. 3. AGRAVO IMPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, por analogia, o enunciado n. 282 do STF bem como a Súmula 211 do STJ.
+2. Com efeito, é solidária a responsabilidade entre os fornecedores constantes da cadeia de produção ou de prestação de serviços.
+2.1. No caso dos autos, ao analisar a questão, constata-se que o acórdão recorrido se alinhou à jurisprudência desta Corte Superior ao concluir pela responsabilidade solidária da ora recorrente, notadamente porque, a despeito de não ter negociado diretamente com a consumidora, foi ela quem intermediou a prestação de serviço falho entre a empresa recorrida e a empresa que instalou o autossocorro na carroceria do caminhão. Incidência da Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pela parte agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+Conforme consignado na decisão agravada, o Tribunal estadual, ao dirimir a controvérsia, concluiu pela responsabilidade solidária entre a fabricante e a concessionária, conforme se colhe dos excertos do aresto recorrido (e-STJ, fls. 421-426):
+Na hipótese dos autos, conforme narrado pelo autor, ora agravante, o veículo foi adquirido perante a NOVESA VEÍCULOS, a qual juntamente com a FORD MOTOR DO BRASIL, intermediaram a instalação do auto socorro na carroceria do caminhão, realizada pela empresa FACCHINI. A partir dessas considerações, é juridicamente viável considerar os recorrentes participantes da cadeia de fornecimento dos serviços que, em tese, geraram prejuízos ao agravante.
+(..)
+Desse forma, me parece crível haver pertinência subjetiva para alcançar eventual responsabilidade solidária prevista nos arts. 7º, parágrafo único, 20 e 25 do CDC, pois, ao primeiro olhar, o fabricante e a concessionária formam a cadeia de fornecimento do serviço em discussão na controvérsia em julgamento, ainda que não exista relação contratual direta entre as partes demandadas originalmente.
+(..)
+Sob essa perspectiva, não subsiste a alegação do fabricante e da concessionária no sentido de que, à míngua de relação contratual com a FACCHINI, resta inviabilizada a pertinência subjetiva, bem assim que a falta de previsão na "lei ferrari" e no estatuto para intermediação de serviços a terceiros seriam óbices para conferir legitimidade passiva.
+(..)
+Posto isso, conheço do recurso e dou-lhe provimento para manter a fabricante e a concessionária no polo passivo da ação no primeiro grau.
+Desse modo, da leitura dos trechos acima, observa-se que não houve debate acerca da responsabilidade solidária entre as empresas requeridas do ponto de vista do art. 2º do CDC, uma vez que a conclusão do Tribunal de origem se deu única e exclusivamente com base na aplicação dos arts. 7º, parágrafo único, 20 e 25 do mesmo Código consumerista. Portanto, não há o devido prequestionamento, tampouco foram opostos embargos de declaração na origem, o que atrai o óbice das Súmulas 282 do STF e 211 do STJ.
+Ademais, em relação à legitimidade passiva, o art. 3º do CDC define como fornecedor "toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, bem como os entes despersonalizados, que desenvolvem atividade de produção, montagem, criação, construção, transformação, importação, exportação, distribuição ou comercialização de produtos ou prestação de serviços".
+Portanto, é solidária a responsabilidade entre os fornecedores constantes da cadeia de produção ou de prestação de serviços, consoante a jurisprudência pacífica desta Corte:
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO. VEÍCULO USADO. VENDA. HODÔMETRO ADULTERADO. RESPONSABILIDADE. PROPRIETÁRIO. AGÊNCIA CONTRATADA. SOLIDARIEDADE. ART. 18 DO CDC. FORNECEDOR ORIGINÁRIO. INAPLICABILIDADE. RELAÇÕES DE CONSUMO DISTINTAS. CADEIA DE FORNECIMENTO. RUPTURA.
+1. Ação de rescisão contratual cumulada com pedido indenizatório promovida por adquirente de veículo usado que pretende responsabilizar o ex-proprietário do automóvel, a empresa por ele contratada para revender o bem e o fornecedor originário deste pelos prejuízos decorrentes da constatação de que o hodômetro do veículo foi adulterado.
+2. Acórdão recorrido que concluiu pela integral procedência do pleito autoral, com a responsabilização solidária de todos os requeridos, sob o fundamento de que eles integrariam uma única cadeia de fornecedores, atraindo, assim, a incidência dos arts. 14, 18 e 20 do CDC.
+3. O fornecimento de bem durável ao seu destinatário final, por removê-lo do mercado de consumo, põe termo à cadeia de seus fornecedores originais. A revenda desse mesmo bem por seu adquirente constitui nova relação jurídica obrigacional, obstando que seja considerada solidariamente responsável por prejuízos resultantes dessa segunda relação, com esteio no art. 18 do CDC, empresa integrante daquela primeira cadeia de fornecimento interrompida.
+4. Recurso especial provido. (REsp 1.517.800/PE, Rel. Min. Ricardo VILLAS BÔAS CUEVA, Terceira Turma, julgado em 2/5/2017, DJe 5/5/2017)
+No caso, é inafastável a incidência da Súmula 83 do STJ, isso porque, ao analisar a questão, o acórdão recorrido se alinhou à jurisprudência desta Corte Superior ao concluir pela responsabilidade solidária da ora recorrente, notadamente porque, a despeito de não ter negociado diretamente com a consumidora, foi ela quem intermediou a prestação de serviço falho entre a empresa recorrida e a empresa que instalou o autossocorro na carroceria do caminhão, portanto, diferentemente do que afirma a agravante, a solidariedade não se caracterizou à luz de supostos vícios de fabricação, mas em decorrência da sua intermediação na prestação de serviço.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
