@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. RECURSO ESPECIAL INTERPOSTO NO BOJO DE AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA AFASTADA. LITIGÂNCIA DE MÁ-FÉ. CONDUTA DESLEAL NÃO CARACTERIZADA.
+1. Ação de execução de título executivo extrajudicial - Cédulas de Crédito Bancário.
+2. Consoante o entendimento pacífico desta Corte, resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que julgou agravo de instrumento, quando se verifica superveniente prolação de sentença de mérito, tendo em vista ser esta de cognição exauriente.
+3. Afasta-se a multa do parágrafo único do art. 538 do CPC quando não se caracteriza o intento protelatório na oposição dos embargos de declaração.
+4. O exercício legítimo do contraditório e da ampla defesa, com todos os meios e recursos a ela inerentes (art. 5º, LV, da CF/88), não se caracteriza como litigância de má-fé, salvo se ficar comprovada a intenção da parte de obstruir o trâmite regular do processo (dolo), a configurar uma conduta desleal por abuso de direito.
+5. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] e BRB LOCADORA DE VEÍCULOS LTDA, contra decisão interlocutória que negou seguimento a recurso especial fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/09/2015.
+Atribuído ao gabinete em: 25/08/2016.
+Ação: de execução de título executivo extrajudicial  Cédulas de Crédito Bancário  , ajuizada por BANCO ITAU BBA S.A e BANCO ITAÚ UNIBANCO S/A, em desfavor dos agravantes.
+Decisão interlocutória: deferiu o pedido de desconsideração da personalidade jurídica da empresa agravante.
+Decisão monocrática: negou provimento ao agravo de instrumento interposto pelos agravantes.
+Embargos de declaração: opostos pelos agravantes, foram rejeitados, tendo-lhes sido aplicada multa em razão de seu caráter meramente protelatório, bem ainda de multa em razão da suposta atuação em litigância de má-fé.
+Acórdão: negou provimento ao agravo interposto pelos agravantes, mantendo a decisão unipessoal do relator, nos termos da seguinte ementa:
+LITIGÂNCIA DE MÁ-FÉ - Oposição de embargos de declaração sem veicular omissão, contradição ou obscuridade - Caracterizado procedimento temerário, resistência injustificada e interposição de recurso manifestamente protelatório - Inteligência do disposto nos incisos IV, V e VII do art. 17 - Condenação dos agravantes no pagamento de multa e indenização - Aplicação do disposto no art. 18 e no parágrafo único do art. 538 do Código de Processo Civil - Decisões mantidas - Agravo regimental improvido (e-STJ fl. 618).
+Recurso especial: alegam violação dos arts. 76 da Lei 11.101/05; 50 do CC/02; 17, IV, V e VII, 18, caput, 499 e 538, parágrafo único, do CPC/73. Sustentam que a desconsideração inversa da personalidade jurídica do agravante [NOME] [NOME] somente poderia ser decidida pelo Juízo Universal da Falência. Insurgem-se, ainda, contra tal desconsideração da personalidade jurídica, por ausência dos requisitos autorizadores. Aduzem os agravantes que são partes legítimas para recorrer quanto ao ponto, pois estariam a tutelar interesse próprio. Por fim, pugnam pelo afastamento das multas aplicadas por ocasião da oposição dos aclaratórios.
+Relatado o processo, decide-se.
+- Julgamento: CPC/73
+- Da perda do objeto
+Quanto à alegada violação dos arts. 76 da Lei 11.101/05; 50 do CC/02; e 499 do CPC/73, tem-se que,consoante o entendimento pacífico desta Corte Superior, resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que julgou agravo de instrumento, quando se verifica superveniente prolação de sentença de mérito, tendo em vista ser esta de cognição exauriente (AgRg no REsp 1.485.765/SP, 3ª Turma, DJe 29/10/2015; e AgInt no AREsp 396.382/DF, 4ª Turma, DJe 27/04/2017).
+Na hipótese, verifica-se, em consulta ao sítio eletrônico do TJ/SP (Processo nº 0223643-14.2011.8.26.0100) que houve, nos autos originários, a prolação de sentença de extinção do processo em razão da satisfação da obrigação, em 01/08/2018, com publicação em 06/08/2018, acarretando a perda do objeto do recurso especial quanto aos pontos.
+- Da multa por embargos de declaração protelatórios e por litigância de má-fé
+Remanesce, no entanto, o objeto do recurso especial quanto à insurgência dos agravantes ao pagamento de multa por embargos de declaração protelatórios e por litigância de má-fé.
+Verifica-se que os embargos de declaração foram interpostos pelos agravantes em 2º grau de jurisdição com o intuito de obter o pronunciamento acerca de questões tidas por omissas. Assim, de acordo com a Súmula 98/STJ, a aplicação da multa prevista no parágrafo único do art. 538 do CPC deve ser afastada.
+No mais, tem-se que o exercício legítimo do contraditório e da ampla defesa, com todos os meios e recursos a ela inerentes (art. 5º, LV, da CF/88), não se caracteriza como litigância de má-fé, salvo se ficar comprovada a intenção da parte de obstruir o trâmite regular do processo (dolo), a configurar uma conduta desleal por abuso de direito (REsp 1.423.942/SP, 3ª Turma, DJe 29/09/2017), o que não está verificado na espécie. Deve ser afastada, portanto, a condenação ao pagamento de multa por suposta atuação em litigância de má-fé.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a" do CPC/2015, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para afastar as multas aplicadas a título de interposição de recurso protelatório e atuação em litigância de má fé.
+Publique-se. Intimem-se.
