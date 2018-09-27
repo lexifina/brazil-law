@@ -1,0 +1,12 @@
+Despacho
+(PET STF 0064163)
+    O réu, por seus ilustres Defensores, peticiona a fls. 3051/3052 afirmando que estava “confiante” de que seriam “apresentados em mesa apenas os declaratórios do MPF”, e que não seriam julgados seus “embargos infringentes”. Pede, por isso, a suspensão dos efeitos da decisão proferida pela Egrégia Primeira Turma na sessão de 25/09/2018, notadamente quanto aos efeitos da inelegibilidade, nos termos do art. 26-C da Lei Complementar 64/1990, “até o julgamento dos recursos a serem interpostos”.
+    Por primeiro, anoto que, ao contrário do alegado, o peticionário e seus nobres Defensores estavam regularmente intimados do julgamento de dois embargos de declaração, interpostos por ele próprio e pela Procuradoria-Geral da República.
+    De fato, no sítio eletrônico desta CORTE constava, desde 13/09/2018, às 13h40m, apresentação em mesa para julgamento na Primeira Turma dos embargos de declaração (“AP-ED”), sendo chamados para julgamento na sessão do dia 25/09 (registro de andamentos). Dessa liberação para julgamento teve inequívoca ciência o acusado, como se vê na petição juntada a estes autos em 17/09 (fls. 3048). E na pauta de julgamento do dia 25/09 constaram, na Lista 5, os Embargos de Declaração na Ação Penal n. 935, indicando-se expressamente como embargantes o Ministério Público Federal e Acir Marcos Gurgacz, e como embargados “os mesmos”. Claro, portanto, que seriam dois “embargos de declaração” a serem julgados.
+    Os termos empregados na pauta e demais registros não deixavam nenhuma dúvida, uma vez que o próprio acusado havia interposto embargos infringentes “com pedido subsidiário” de seu processamento como “embargos declaratórios” (petição a fls. 3003). E no sítio da CORTE seu recurso sempre constou com a sigla “ED” (tal como aliás, no próprio cabeçalho deste despacho, idêntico aos anteriores).
+    Quanto aos pedidos formulados na petição aqui referida, encontram-se evidentemente prejudicados, tendo em vista que foram objeto de expressa decisão da Egrégia Primeira Turma, em votação unânime, afirmando a inaplicabilidade do art 26-C da LC 64/90, bem como determinando a imediata execução da pena e, tal como já constava do acórdão proferido em 27/02/2018, a suspensão dos direitos políticos do condenado e expedição de ofício ao Presidente do Senado Federal (fls. 2981).
+    Publique-se.
+    Brasília, 27 de setembro de 2018
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
