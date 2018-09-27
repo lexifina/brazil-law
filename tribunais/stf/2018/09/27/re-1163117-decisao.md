@@ -1,0 +1,27 @@
+Decisão: Decisão: Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO DA AUTARQUIA JULGADA DESERTA POR AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - OBRIGATORIEDADE POR IMPOSIÇÃO DA LEI ESTADUAL 11.608103 - DESERÇÃO.
+    ‘O não recolhimento do porte de remessa e retorno previsto pela Lei 11.608/03 no ato da interposição da apelação obsta o seu processamento.’
+    ACIDENTÁRIA — ACIDENTE TÍPICO — AMPUTAÇÃO DO 20DEDO DA MÃO DIREITA — PROCEDÊNCIA - DIREITO PERSEGUIDO INFERIOR A 60 SALÁRIOS MÍNIMOS — REMESSA OFICIAL NÃO CONHECIDA — INTELIGÊNCIA DO §2º DO ARTIGO 475 DO CPC.
+    Apelação da Autarquia julgada deserta e recurso oficial não conhecido.” (eDOC 1, p. 85)
+    No recurso, interposto com fundamento no art. 102, III, alíneas “a”, “c” e “d”, da Constituição Federal, aponta-se violação aos artigos 24, IV, 98, §2°, e 145, II, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, não ser devido a cobrança de porte de remessa e de retorno do INSS, tendo em vista ser a autarquia isenta de pagamento de taxa judiciária.
+    O Presidente da Seção de Direito Público do TJSP determinou a devolução dos autos à Turma Julgadora, para a análise de eventual aplicação do tema 135 da sistemática da repercussão geral, cujo paradigma é o RE-RG 594.116, Rel. Min. Edson Fachin, DJe 5.4.2016. (eDOC 2, p. 6)
+    O órgão julgador, por sua vez, deixou de exercer o juízo de retratação ao argumento de que o presente caso não se amolda ao precedente da repercussão geral. Vejamos a ementa do julgado:
+    “AÇÃO ACIDENTÁRIA - APELAÇÃO INTERPOSTA PELO INSS - AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - OBRIGATORIEDADE POR IMPOSIÇÃO DA LEI ESTADUAL — DESERÇÃO CONFIGURADA.
+    VALOR DA CONDENAÇÃO QUE NÃO ULTRAPASSA 60 SALÁRIOS MÍNIMOS — REEXAME OFICIAL INAPLICABILIDADE - INCIDÊNCIA DO § 2° DO ART. 475 DO CPC/73.
+    Acórdão mantido.” (eDOC 2, p. 14)
+    Diante disso, remeteu-se o recurso extraordinário ao STF. (eDOC 2, p. 25-26)
+    É o relatório.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Decido.
+    Verifico que o recurso extraordinário merece prosperar.
+    Isso porque a matéria guarda identidade temática com o decidido no RE-RG 594.116 (Tema 135), Rel. Min. Edson Fachin, DJe 5.4.2016.
+    Naquela oportunidade, o Supremo Tribunal Federal afirmou que se aplica o § 1º do art. 511 do Código de Processo Civil para dispensa do recolhimento do porte de remessa e retorno por parte do INSS. Eis a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. TAXA JUDICIÁRIA. PREPARO RECURSAL. PORTE DE REMESSA E RETORNO. ISENÇÃO. INSS. JUSTIÇA ESTADUAL. 1. A despesa com porte de remessa e retorno não se enquadra no conceito de taxa judiciária, uma vez que as custas dos serviços forenses se dividem em taxa judiciária e custas em sentido estrito. Precedente: AI-ED 309.883, de relatoria do Ministro Moreira Alves, Primeira Turma, DJ 14.06.2002. 2. O porte de remessa e retorno é típica despesa de um serviço postal, prestado por empresa pública monopolística e, assim, remunerado mediante tarifas ou preço público. Precedente: AI-QO 351.360, de relatoria do Ministro Sepúlveda Pertence, Primeira Turma, DJ 07.06.2002. 3. O art. 511 do Código de Processo Civil dispensa o recolhimento dessa despesa processual por parte do INSS, pois se trata de norma válida editada pela União, a quem compete dispor sobre as receitas públicas oriundas da prestação do serviço público postal. 4. A lei estadual, ora impugnada, apenas reproduziu o entendimento esposado no próprio CPC de que as despesas com o porte de remessa e retorno não se incluem no gênero taxa judiciária, de modo que não há vício de inconstitucionalidade no particular. 5. Verifica-se que o art. 2º, parágrafo único, II, in fine, da Lei paulista 11.608/2003, é inconstitucional, uma vez que o Conselho Superior da Magistratura, como órgão de nível estadual, não possui competência para tratar das despesas com o porte de remessa e retorno. Declaração incidental de inconstitucionalidade da expressão cujo valor será estabelecido por ato do Conselho Superior da Magistratura. 6. Recurso extraordinário a que se dá provimento, para cassar o acórdão recorrido e determinar o processamento da apelação no Tribunal de origem.” (RE 594116/SP, Rel. Min. Edson Fachin, Tribunal Pleno, DJe 5.4.2016)
+    Com efeito, o decidido pelo Tribunal a quo destoa do referido entendimento, o que autoriza seja aplicado o tema da sistemática de repercussão geral na espécie, não sendo necessário se aguardar o resultado da ADI 3.154.
+    Ante o exposto, dou provimento ao recurso para reformar o acórdão recorrido no sentido de reconhecer a dispensa da autarquia do pagamento do porte de remessa e retorno, nos termos do tema n. 135 da repercussão geral, RE-RG 594.116 (artigo 932, VIII, do CPC c/c artigo 21, §2º, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
