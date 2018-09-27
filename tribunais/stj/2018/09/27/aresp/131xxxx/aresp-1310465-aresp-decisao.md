@@ -1,0 +1,6 @@
+DECISÃO
+Pela petição de fls. 1084/1085 (e-STJ), os advogados do agravante informam que renunciaram aos poderes que lhes foram outorgados (fls. 1041/1064 e-STJ), e reiteram o pedido de que seus nomes sejam excluídos dos autos e dos registros eletrônicos para que não mais recebam intimações alusivas ao presente feito.
+Determinada a intimação da parte recorrente para regularização da representação processual (fl. 1.088 e-STJ), a Coordenadoria de recebimento, controle e indexação de processos recursais informou que o Oficio nº JT [CPF]BR foi devolvido sem cumprimento, em virtude da mudança de endereço da parte destinatária.
+Diante disso, verifica-se que a decisão que inadmitiu o recurso especial foi publicada em 1º/2/2018 e, em 8/2/2018, os procuradores informaram a renúncia, comprovando a notificação da parte. Assim sendo, constata-se que, quando da interposição do agravo em recurso especial em 26/2/2018, o Dr. [NOME], signatário da petição (fls. 1066/1071 e-STJ), não contava com poderes de representação da parte agravante, motivo pelo qual, tem incidência o enunciado da Súmula nº 115/STJ, segundo a qual "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+Nesse contexto, torno sem efeito a decisão de fls. 1079/1081 (e-STJ) e, por conseguinte, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
