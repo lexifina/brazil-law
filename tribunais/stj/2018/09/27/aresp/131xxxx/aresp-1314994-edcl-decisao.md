@@ -1,0 +1,28 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por [NOME] OUTROS contra decisão de minha lavra, que negou provimento ao agravo em recurso especial aos fundamentos de não existir afronta ao art. 1.022 do CPC e ser hipótese de manutenção da multa aplicada, referente ao art. 1.026 do mesmo diploma legal.
+Nas razões recursais, a parte embargante sustenta, em suma, que ficou demonstrado o vício no qual teria incorrido o acórdão de origem.
+Requer o acolhimento dos embargos declaratórios.
+É o relatório. DECIDO.
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+3. Consta da decisão ora embargada o seguinte:
+2. Observa-se que não se viabiliza o recurso especial pelo art. 1.022 do CPC, pois, embora rejeitados os embargos de declaração, as matérias em exame foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, apreciando os fatos de forma coerente, inexistindo o alegado vício no acórdão.
+O acórdão recorrido expressamente consignou:
+Desta forma, todas as ações, recursos, execuções e atos tendentes á constrição de bens das recuperandas, que versem sobre o bloqueio ou penhora da quantia, ilíquida ou não, ou que impliquem em qualquer tipo de perda patrimonial das requerentes, deverão ser suspensos
+Quanto à possibilidade de liberação de eventuais valores já depositados ou penhorados, saliento que o Agravo de Instrumento (Al ne 0034576-58.2016.8.19.0000) interposto contra a decisão liminar que deferiu a suspensão das ações e execuções ajuizadas contra as empresas recuperandas, determinou que a suspensão não alcança "o levantamento de valores depositados pelas recuperandas antes de 21/06/2016, com a expressa finalidade de pagamento, bem como os valores depositados antes da aludida data em execuções nas quais tenha se dado a predusão ou o trânsito em julgado da sentença de embargos à execução ou da decisão final de impugnação ao cumprimento de sentença, permitindo-se, nestes casos, o levantamento".
+Destarte, a proteção patrimonial das empresas recuperandas não pode atingir os valores já depositados com a expressa finalidade de pagamento, ou que se verifiquem incontroversos em sede executiva, após o trânsito em julgado da sentença proferida em embargos à execução ou após decisão final em impugnação ao cumprimento de sentença, desde que os depósitos tenham sido efetuados antes da prolação da referida decisão liminar, ou seja, antes de 21/06/2016. - fls. 2.029-2.030.
+Portanto, foram analisadas as questões de levantamento dos valores, inclusive o resultante de depósito espontâneo, ao contrário do alegado pela parte ora recorrente.
+3. Por fim, no que se refere à multa do art. 1.026, § 2º, do CPC, deduz a parte recorrente que os embargos opostos na origem não foram protelatórios, devendo ser afastada a multa imposta.
+Conforme entendimento pacífico do Superior Tribunal de Justiça, os embargos de declaração têm finalidade específica de sanar vícios de omissão, obscuridade, contradição ou erro material, nos termos do art. 1.022 do CPC/15.
+Assim, não se destinam à revisão do julgado, como forma de irresignação da parte embargante, sendo que a sua oposição com caráter meramente protelatório enseja a aplicação da multa do art. 1.026 do CPC, nos termos da jurisprudência deste Tribunal Superior:
+(..)
+No presente caso, o Tribunal de origem solucionou todos os pontos da controvérsia - fls. 2.027-2.031.
+Contra esse acórdão, foram opostos aclaratórios - fls. 2.042-2.045, rejeitados - fls. 2.097-2.102.
+Opostos novos aclaratórios sustentando os mesmos vícios - fls. 2.109-2.111, razão pela qual foi aplicada a multa do art. 1.026, § 2º, do CPC - fls. 2.121-2.126.
+Como se vê, o Tribunal de origem já havia expressamente apreciado a matéria, razão pela qual a pretensão dos embargos opostos era de rediscussão da matéria já decidida, sendo, portanto, protelatórios, devendo ser mantida a multa.
+7. Ante o exposto, nego provimento ao recurso especial. - fls. 2.273-2.275.
+Com efeito, nota-se que no presente caso, não há qualquer vício a ensejar embargos de declaração, de modo que todos os pontos necessários ao desate da controvérsia foram abordados, de forma coerente e lógica, tanto que a questão ora devolvida em sede de aclaratórios está amparada na jurisprudência do STJ e no arcabouço fático delineado pela Corte de origem.
+Observa-se que eventual desacerto da decisão quanto aos fatos não é hipótese de alegado erro material, não havendo vício na decisão embargada que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+3. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos de declaração.
+Desse modo, ressalta-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto pelas razões acima delineadas.
+4. Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
