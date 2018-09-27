@@ -1,0 +1,27 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 7º, XXVI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Deixou a parte agravante de impugnar os óbices opostos pela Presidência da Corte de origem ao trânsito do recurso extraordinário, relativos à aplicação da Súmula 454/STF, bem como à aplicação de precedentes desta Suprema Corte, em desalinho com a exigência contida no inciso III do art. 932 do CPC/2015, verbis:
+    “Art. 932. Incumbe ao relator:
+    [...]
+    III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;” (destaquei)
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 287/STF: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido: ARE 645.366-AgR, 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe 12.4.2012; ARE 665.547-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 06.3.2012; AI 805.701-AgR, 1ª Turma, Rel. Min. Luiz Fux, DJe 23.4.2012; RMS 30.366-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 16.8.2016; e ARE 974.823-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 08.9.2016, cuja ementa transcrevo:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INADMISSÃO DO APELO EXTREMO PELA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 1. A decisão do Juízo a quo que obsta a subida de recurso extraordinário pode ser atacada por agravo (art. 1.042 do CPC/2015), o qual deve impugnar especificamente, de forma individualizada, todos os argumentos por si sós suficientes para manter a inadmissão, sob pena de não conhecimento (art. 932, III, do CPC/2015). 2. Agravo regimental a que se nega provimento.”
+    Ainda que não se ressentisse o agravo quanto à inobservância do pressuposto de admissibilidade, melhor sorte não colheria o extraordinário, porquanto não demonstrada, de forma efetiva, a repercussão geral da controvérsia nas razões do apelo extremo.
+    Este Supremo Tribunal Federal firmou entendimento no sentido de que não bastam alegações genéricas, ou a mera descrição do instituto em tela, nem a simples referência a precedente recursal. Cabe à parte recorrente a demonstração formal e fundamentada da existência de repercussão geral da matéria, indicando especificamente as razões que evidenciem a relevância econômica, social, política ou jurídica, ainda que tal repercussão já tenha sido presumida ou declarada em outro processo. Desatendida a mencionada preliminar, inadmissível o recurso extraordinário. Colho precedentes:
+    “DIREITO PENAL. ESTELIONATO. TIPICIDADE DA CONDUTA. AUTORIA E MATERIALIDADE. REDUÇÃO DAS PENAS. REGIME PRISIONAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 5º, CAPUT, XLVI, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal.
+    2. Não houve no recurso extraordinário, interposto sob a égide do CPC/2015, demonstração da existência de repercussão geral. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015.
+    3. Agravo interno conhecido e não provido.” (ARE 1115773-AgR, de minha lavra, 1ª Turma, Dje 17.9.2018)
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.4.2018. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA.
+    1. Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, o que não ocorreu no caso em exame. Mesmo em caso de repercussão geral presumida ou reconhecida em outro recurso, é ônus do recorrente a demonstração da existência desse requisito.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (ARE 1102846-AgR, Rel. Min. Edson Fachin, 2ª Turma, Dje 21.8.2018)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de setembro de 2018.
+Ministra Rosa Weber
+Relatora
