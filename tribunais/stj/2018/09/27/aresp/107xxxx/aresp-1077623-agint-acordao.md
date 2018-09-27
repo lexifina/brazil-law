@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE AÇÃO COLETIVA. PRESCRIÇÃO. LIQUIDAÇÃO APRESENTADA POR LEGITIMADO EXTRAORDINÁRIO. INTERRUPÇÃO DO PRAZO. OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O ajuizamento de ação de execução coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional, não havendo que se falar em inércia dos credores individuais. Precedentes.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por CENTRO DE ENSINO SUPERIOR DE CAMPO GRANDE LTDA. contra decisão monocrática desta relatoria que conheceu do agravo para negar provimento ao recurso especial, mediante juízo de retratação, nos termos da seguinte ementa (e-STJ, fl. 359):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA COLETIVA. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE DENEGOU O PROCESSAMENTO DO RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA DIALETICIDADE. NÃO OCORRÊNCIA. 2. PRESCRIÇÃO. PRAZO QUINQUENAL. AJUIZAMENTO DE LIQUIDAÇÃO COLETIVA. INTERRUPÇÃO DO PRAZO. SÚMULA 83/STJ. 3. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO DO DEVEDOR NA AÇÃO DE CONHECIMENTO. 4. CONHECIDO O AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
+Nas razões do presente agravo (e-STJ, fls. 369-377), o centro de ensino agravante refuta a aplicação da Súmula 83/STJ, tendo em vista que os precedentes citados na deliberação unipessoal "tratam de sindicato atuando como substituto processual promovendo execução coletiva, o que destoa do presente caso, em que o Ministério Público foi considerado parte ativa ilegítima ao liquidar crédito seu". Nesse contexto, defende ter havido a prescrição, uma vez que a liquidação do suposto crédito não teria o condão de interromper o transcurso do prazo prescricional.
+Impugnação apresentada (e-STJ, fls. 382-401).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE AÇÃO COLETIVA. PRESCRIÇÃO. LIQUIDAÇÃO APRESENTADA POR LEGITIMADO EXTRAORDINÁRIO. INTERRUPÇÃO DO PRAZO. OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O ajuizamento de ação de execução coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional, não havendo que se falar em inércia dos credores individuais. Precedentes.
+2. Agravo interno desprovido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pelo agravante não são capazes de modificar as conclusões da decisão impugnada.
+Consoante asseverado anteriormente, o prazo quinquenal é incontroverso, estando o debate limitado à interrupção, ou não, do prazo prescricional, haja vista o ajuizamento de liquidação coletiva pelo Ministério Público, a qual foi extinta por ilegitimidade ativa do Parquet.
+Ao contrário do que alega o insurgente, a jurisprudência desta Corte Superior se firmou no sentido de que, nas hipóteses em que o legitimado extraordinário apresenta a liquidação da sentença coletiva, não há inércia dos credores individuais, devendo ser reconhecida a interrupção do prazo prescricional para o ajuizamento da pretensão executória individual.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. DIFERENÇAS DE ANUÊNIOS REFERENTES AO TEMPO DE SERVIÇO REGIDO PELA CLT. AUSÊNCIA DE CONTRARIEDADE AO ART. 535 DO CPC/73. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES DE RECURSO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PRAZO QUINQUENAL (SÚMULA 150/STF). TRÂNSITO EM JULGADO DA SENTENÇA PROFERIDA EM AÇÃO COLETIVA. ANTERIOR DISCUSSÃO ACERCA DA LEGITIMIDADE ATIVA DO SINDICATO PARA PROPOR A EXECUÇÃO. INÉRCIA DOS ORA EXEQUENTES NÃO CONFIGURADA. INTERRUPÇÃO DO LAPSO PRESCRICIONAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..  IV. Com efeito, "a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que é de cinco anos, contados a partir do trânsito em julgado da sentença condenatória, o prazo prescricional para a propositura da ação executiva contra a Fazenda Pública, em conformidade com a Súmula n. 150/STF. E este só poderá ser interrompido uma única vez, recomeçando a correr pela metade, resguardado o prazo mínimo de cinco anos, nos termos da Súmula n. 383/STF" (STJ, REsp 1.248.517/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/06/2011).
+V. A ocorrência de prescrição presume a inércia daquele que tem interesse de agir, não parecendo "razoável que a apreciação pelas instâncias ordinárias, acerca da legitimidade do sindicato para promover a execução da obrigação de pagar, tenha o condão de ensejar prejuízo àqueles que envidaram esforços para o cumprimento do provimento jurisdicional, pois não houve qualquer inércia ou desinteresse dos exequentes" (STJ, AgRg no REsp 1.171.508/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 23/04/2012).
+VI. Diante disso, firme é a jurisprudência do STJ no sentido de que "o prazo prescricional da execução individual não se inicia enquanto pendente discussão acerca da legitimidade de entidade sindical" (STJ, AgRg no REsp 1.570.827/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 27/05/2016). No mesmo sentido: STJ, AgRg no REsp 1.171.604/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 19/05/2015; AgRg no REsp 1.199.601/AP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 04/02/2014; AgRg no AgRg no REsp 1.347.713/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 04/06/2013; AgRg no AgRg no REsp 1.165.488/RS, SEXTA TURMA, Rel. Ministro OG FERNANDES, DJe de 30/05/2012.
+VII. No caso, a ação coletiva transitou em julgado em 09/10/2000. Em 1º/12/2000, o SINDISERF/RS manifestou "interesse em proceder aos cálculos de liquidação do julgado", o que originou a discussão em torno da legitimidade do Sindicato para promover a execução. Essa controvérsia perdurou até 06/03/2006, com o trânsito em julgado da decisão, proferida em Recurso Extraordinário. A execução de sentença foi proposta, então, pelos ora recorridos, em 17/10/2007, razão pela qual não há falar em prescrição.
+VIII. Agravo Regimental parcialmente conhecido, e, nessa parte, improvido.
+(AgRg no AREsp 649372/RS, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 20/10/2016, DJe 11/11/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. GDASST E GDPST. EXTENSÃO A INATIVO. AÇÃO INDIVIDUAL. INTERRUPÇÃO DA PRESCRIÇÃO DE PARCELAS REMUNERATÓRIAS, EM DECORRÊNCIA DE PROTESTO JUDICIAL PROMOVIDO PELO RESPECTIVO SINDICATO DE CLASSE. APROVEITAMENTO. PRECEDENTES.
+1. Ao se prover o recurso especial do autor, aplicou-se jurisprudência desta Corte Superior no sentido de que o ajuizamento de ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, que volta a fluir pela metade, a partir do último ato processual da causa interruptiva, qual seja, do trânsito em julgado da execução coletiva (v.g.: AgRg nos EREsp n. 1.175.018/RS, Rel. Ministro Felix Fischer, Corte Especial, DJe 11/9/2015), não havendo falar em descumprimento ao preceito constitucional contido no art. 8º, III, da CF.
+2. Agravo regimental não provido.
+(AgRg no REsp 1370991/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 08/03/2016, DJe 17/03/2016)
+Importante assinalar, na espécie, que tanto o Ministério Público como as associações ou sindicatos atuam no processo coletivo mediante legitimação extraordinária, sendo desinfluente esse fato na interrupção do prazo prescricional.
+Desse modo, ao contrário do que pretende fazer prevalecer o recorrente, incide a Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
