@@ -1,0 +1,37 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública de Santa Catarina, em favor de Artur Alex Maestri, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no HC 389.274/SC.
+    Consta dos autos que o paciente foi condenado pela prática do delito descrito no artigo 306, § 1º, da Lei 9.503/1997, à pena de 7 meses de detenção, a ser cumprida inicialmente em regime aberto, além da proibição para obter a permissão ou habilitação para dirigir veículo automotor pelo prazo de 2 meses e 10 dias, pois teria sido flagrado por policiais militares na condução de motocicleta alcoolizado.
+    Irresignada, a defesa interpôs apelação criminal no Tribunal de origem, postulando, em suma, a substituição da pena privativa de liberdade pela restritiva de direito.
+    O recurso restou desprovido nos termos da ementa a seguir transcrita:
+    “APELAÇÃO CRIMINAL. CRIME DE TRÂNSITO. CONDUÇÃO DE VEÍCULO AUTOMOTOR SOB EMBRIAGUEZ (ARTIGO 306, § 1º, INCISO II, DA LEI N. 9.503/97). DELITO PRATICADO NA VIGÊNCIA DA LEI 12.760/12. RECURSO DEFENSIVO. PLEITO ABSOLUTÓRIO COM BASE NA INSUFICIÊNCIA PROBATÓRIA DA MATERIALIDADE DELITIVA. INSUBSISTÊNCIA. INGESTÃO DE BEBIDA ALCOÓLICA CONFESSADA PELO ACUSADO E CORROBORADA PELA NARRATIVA DAS TESTEMUNHAS. ELEMENTAR DA ‘CAPACIDADE PSICOMOTORA ALTERADA’ DEVIDAMENTE COMPROVADA. DELITO DE PERIGO ABSTRATO, CUJO RISCO INERENTE À CONDUTA É PRESUMIDO PELO TIPO PENAL. DECRETO CONDENATÓRIO MANTIDO. EM SEDE SUBSIDIÁRIA, PEDIDO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. ACUSADO QUE, EMBORA NÃO SEJA REINCIDENTE ESPECÍFICO, NÃO FAZ JUS À CONVERSÃO. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. RECURSO CONHECIDO E DESPROVIDO.
+    1. Impossível a absolvição quando os elementos contidos nos autos, corroborados pelas declarações firmes e coerentes das testemunhas, formam um conjunto sólido, dando segurança ao juízo para a condenação.
+    2. A conduta narrada nos autos fora levada a efeito pelo acusado já na vigência da Lei n. 12.760/12, que alterou a redação do art. 306 do Código de Trânsito Brasileiro, passando a não mais exigir prova da concentração de álcool por litro de sangue igual ou superior a 06 (seis) decigramas ou mesmo a exposição a perigo concreto de dano. Além disso, o próprio artigo de lei disciplinou, em seus parágrafos, os meios - alternativos, frise-se - pelos quais pode ser constatada a alteração da capacidade psicomotora do agente, entre os quais se encontra a presença de ‘sinais que indiquem, na forma disciplinada pelo Contran’, essa condição (art. 306, § 1º, inciso II, do Código de Trânsito Brasileiro).
+    3. Em que pese a exceção prevista no art. 44, § 3°, do Código Penal, a qual permite, excepcionalmente, a substituição da pena a reincidentes, mostra-se inadmissível a conversão da pena quando esta constituir obstáculo à persecução dos reais objetivos da reprimenda e, consequentemente, medida socialmente não recomendável” (eDOC 3, p. 21-22).
+    Impugnou-se o acórdão por meio de habeas corpus no Superior Tribunal de Justiça, que denegou a ordem diante da ausência de ilegalidade manifesta na individualização da pena.
+    Sobreveio agravo regimental o qual restou desprovido. Eis a ementa:
+    “PENAL. AGRAVO INTERNO NO HABEAS CORPUS. CRIME DE TRÂNSITO. CONDUÇÃO DE VEÍCULO AUTOMOTOR SOB EMBRIAGUEZ (ART. 306, § 1º, II, DA LEI N. 9.503/97). SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA. REINCIDÊNCIA NÃO ESPECÍFICA. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. ALTERAÇÃO DO ENTENDIMENTO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSÍVEL EM SEDE DE HABEAS CORPUS. AUSÊNCIA DE ILEGALIDADE. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+    1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+    2. Nos termos do art. 44, § 3º, do CP e da jurisprudência desta Corte superior, a substituição da pena privativa de liberdade por restritiva de direitos, nos casos em que o agente possui reincidência não específica, somente deve ocorrer quando for socialmente recomendável.
+    3. Dessa forma, afirmado, pelo Tribunal a quo, a ausência de preenchimento dos requisitos legais, em razão de a medida não ser socialmente recomendável ao paciente, não se vislumbra ilegalidade a ensejar a concessão da ordem do mandamus. Ademais, alterar o entendimento do Sodalício estadual demandaria a análise do conjunto fático-probatório, providência vedada na via do habeas corpus.
+    4. Agravo regimental improvido” (eDOC 3, p. 125).
+    Nesta Corte a impetrante reitera os pedidos pretéritos e enfatiza a violação ao artigo 44, § 3º, do Código Penal, tendo em vista que o paciente não é reincidente específico no delito de embriaguez ao volante.
+    Postula liminarmente e no mérito a substituição da reprimenda privativa de liberdade pela restritiva de direito.
+    É o relatório.
+    Em decisão de 9.8.2017, indeferi o pedido liminar (eDOC 7).
+    A Procuradoria-Geral da República opinou pelo não conhecimento do writ (eDOC 8).
+    É o relatório.
+    Passo a decidir.
+    As razões não merecem acolhimento.
+    Oportuna a transcrição dos seguintes trechos do acórdão do TJ/SC:
+    “Por fim, no que tange à pretendida substituição da pena privativa de liberdade por restritivas de direitos, o benefício mostra-se manifestamente inaplicável ao caso.
+    É bem verdade que o § 3° do art. 44 do Código Penal permite, excepcionalmente, a substituição da pena a reincidentes, exigindo, para tanto, que não haja reincidência específica e que a medida seja socialmente recomendável. )(...)
+    No presente caso, todavia, entendo que inaplicável a aludida exceção, uma vez que, embora não se trate de reincidência específica, a almejada conversão não constituiria medida socialmente recomendável, mormente pelo fato de o acusado ser comprovadamente reincidente na prática de crime de trânsito, especificamente o descrito no art. 309, caput, da Lei n. 9.503/1997 - conforme se vê da certidão de antecedentes à fl. 81.
+    A propósito, ‘[...] embora a reincidência não seja específica, a substituição da sanção corporal não se mostra eficaz à reprovação e prevenção do crime perpetrado, tendo em vista que o apelante, mesmo sofrendo condenação anterior, continuou a delinquir, o que revela a sua inclinação para a prática de delitos’. (TJSC - Apelação Criminal n. 2010.057680-9, de Palhoça, Rela. Desa. Salete Silva Sommariva, j. em 03/08/2010).
+    A par disso, ao meu sentir, a substituição da pena corporal realmente mostrar-se-ia inconveniente aos fins ínsitos do apenamento, e constituiria incentivo à repetição da conduta ilícita” (eDOC 3, p. 31/32).
+    A fundamentação utilizada para a impossibilidade de substituição da reprimenda privativa de liberdade pela restritiva de direito, quando não preenchido o requisito previsto no artigo 44, inciso III, do Código Penal, não destoa da jurisprudência desta Suprema Corte.
+    Nesse sentido, cito os seguintes precedentes: RHC 131.736/SP, de minha relatoria, DJe 16.9.2016, HC 122.235/MG, rel. Min. Luiz Fux, Primeira Turma, DJe 1º.7.2014; HC 123.299/SP, rel. Min. Teori Zavascki, Segunda Turma, DJe 2.10.2014; e HC 135.063, de minha relatoria, Segunda Turma, DJe 19.8.2016.
+    Desse modo, com fundamento no artigo 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 27 de setembro de 2018
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
