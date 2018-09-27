@@ -1,0 +1,9 @@
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. ART. 318, IV e V, DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE CÓPIA DA DECISÃO QUE INDEFERIU O PEDIDO NA ORIGEM. INSTRUÇÃO DEFICIENTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+Buscando a concessão liminar da ordem para que seja substituída a prisão cautelar de [NOME] nos Autos n. 0002268-32.2017.8.26.0616, da 1ª Vara Criminal da comarca de Poá/SP, pela modalidade domiciliar, com fundamento nos incisos IV e V do art. 318 do Código de Processo Penal, a defesa ajuíza este habeas corpus, apontando como autoridade coatora a Décima Terceira Câmara Criminal do Tribunal de Justiça de São Paulo, por haver denegado a ordem no HC n. 0008361-79.2018.8.26.0000.
+Sucede que a impetrante não se desincumbiu do ônus de instruir o presente feito com todas as peças imprescindíveis para a análise do apontado constrangimento ilegal, pois deixou de juntar aos autos cópia das decisões de primeiro grau que decretou a preventiva e indeferiu pedido de prisão domiciliar eventualmente formulado em favor da paciente.
+De qualquer forma, basta uma rápida leitura do acórdão impugnado para perceber que a negativa de substituição da prisão cautelar pela prisão domiciliar está devidamente enquadrada nas situações de exceção previstas pelo Supremo Tribunal Federal, uma vez que a paciente é reincidente específica na traficância e ostenta, ainda, outras duas condenações transitadas em julgado (fls. 25/26). Ademais, a paciente afirma que, além de estar grávida, possui uma filha de 03 (três) anos de idade e outro, ainda bebê, com apenas 08 (meses) de idade. Contudo, em relação a estes últimos, ela própria noticia que não estão sob os seus cuidados (fl. 27 - grifo nosso).
+Por tais razões, indefiro liminarmente o pedido de habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.
