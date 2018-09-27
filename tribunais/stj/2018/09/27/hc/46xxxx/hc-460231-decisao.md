@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de ALINE APARECIDA PAMELA FERNANDES BALESTRA DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+A paciente foi condenada à pena de 7 anos de reclusão, em regime fechado, e ao pagamento de 700 dias-multa no piso mínimo, como incursa no art. 33, caput, c/c o art. 40, inciso VI, da Lei de n. 11.343/2006.
+Em sede recursal, o Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir a pena-base, ficando a sanção final em 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa.
+Neste writ, alega a impetrante ser devida a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Aduz que o Tribunal a quo considerou que a paciente faria parte de organização criminosa sem que a denúncia tenha apontado a existência de 4 ou mais pessoas na prática da conduta delitiva, tal como prevê o art. 1º, § 1º, da Lei n. 12.850/2013.
+Requer ainda a alteração do regime inicial de cumprimento da pena para o semiaberto, como prevê o art. 33, § 2º, do Código Penal.
+O Ministério Público Federal opinou pelo não conhecimento do writ e , no mérito, pela denegação da ordem (fls. 58/61).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, pois, ao exame das alegações da defesa a fim de verificar a ocorrência de manifesta ilegalidade que autorize, de ofício, a concessão da ordem.
+Quanto ao reconhecimento do tráfico privilegiado, não assiste razão à impetrante.
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida de um sexto a dois terços quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os tribunais superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017).
+No caso, a Corte estadual manteve afastada a incidência da minorante por entender que há elementos suficientes que comprovam a destinação mercantil da droga apreendida, tais como a quantidade de crack encontrada na posse da paciente dividida em duas porções aproximadamente 80g, a confissão da acusada e as narrativas dos policiais.
+Assim, assentado pelas instâncias inferiores, soberanas na análise dos fatos, com fulcro em elementos colhidos nos autos, que a paciente é habitual na prática delitiva, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus (HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017).
+Ressalte-se que o fundamento utilizado pelas instâncias ordinárias para afastar a incidência da minorante foi a dedicação da paciente em atividade criminosa, e não a sua participação em organização criminosa, motivo pelo qual se mostra desnecessário o preenchimento dos requisitos previstos da Lei n. 12.850/2013.
+Por sua vez, quanto à alteração do regime inicial de cumprimento de pena, é manifesta a superveniente ausência de interesse de agir que atingiu este writ, pois, consoante informações prestadas pelo juízo de origem no Ofício n. 10.657/18-GAP 1.1/HC, a paciente foi promovida ao regime semiaberto em 16/4/2018 (e-STJ, fls. 37/38).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimações necessárias.
