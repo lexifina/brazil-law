@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. CASO EM QUE O TRIBUNAL DE ORIGEM AFIRMOU QUE O EXEQUENTE NÃO COMPROVOU A INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONCLUSÃO DIVERSA DEMANDARIA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. AGRAVO DO MUNICÍPIO DE SÃO BERNARDO DO CAMPO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pelo MUNICÍPIO DE SÃO BERNARDO DO CAMPO/SP, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Ação declaratória de inexistência de relação jurídico -tributária. Imposto predial e territorial urbano. Exercícios de 1990 a 1993 e de 1998. Pretensão desacolhida. Inadmissibilidade. Alegação de que interrompido o curso do prazo prescricional (artigo 174, parágrafo único, I, do Código Tributário Nacional, com a redação anterior à Lei Complementar 118/05). Falta de prova a respeito. Ônus do réu. Inteligência do artigo 333, II, do Código de Processo Civil. Recurso provido (fls. 118).
+2. Nas razões do Apelo Nobre inadmitido, a parte recorrente defende a inexistência de prescrição, com base nos arts. 173 e 174 do CTN, sob o fundamento de que o prazo prescricional foi interrompido em outra ação executiva e, ainda, ser indevida a condenação ao pagamento de honorários advocatícios.
+3. É o relatório. Decido.
+4. Na hipótese dos autos, o recorrente defende a não ocorrência da prescrição, com base nos seguintes fundamentos:
+Conforme já mencionado por esta Municipalidade, a cobrança do IPTU em comento incide sobre as inscrições imobiliárias antigas, e estão sendo discutidas através de execuções fiscais distintas, em trâmite perante a 1a Vara da Fazenda Pública desta comarca, sob de ordem 2906/1994 e 3064/2003.
+Através de análise dos documentos anexos (doc. 1 e 2) será possível comprovar a citação válida da executada nas execuções mencionadas, isto devido a mesma ter se manifestados nos autos de ambas execuções a data de 11 de novembro de 1994 e 10 de maio de 2004 (fls. 130/131).
+5. Todavia, nesse ponto, a Corte delineou o seguinte quadro fático:
+Os documentos de folhas 28/30 e 60/67 revelam distribuição de diversas execuções fiscais contra a antiga proprietária do imóvel. E, malgrado se alegue interrompido o curso do prazo prescricional, inexistem elementos a patentear que isso aconteceu: não se demonstrou citação daquela nas demandas.
+Incumbia ao réu produzir prova do fato impeditivo (causa interruptiva do prazo prescricional) do direito dos autores, consoante o artigo 333, II, do Código de Processo Civil. Mas do ônus ele não se desincumbiu (fls. 121/122).
+6. Assim, verifica-se que o acolhimento das alegações deduzidas no Apelo Nobre ensejaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+7. Por fim, em atenção aos princípios da causalidade e da sucumbência, correta a condenação do ente público ao pagamento de honorários advocatícios em favor do contribuinte. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. PRONÚNCIA DA PRESCRIÇÃO. DEMORA ATRIBUÍVEL AO EXEQUENTE. HONORÁRIOS ADVOCATÍCIOS. CONFIGURAÇÃO DA SUCUMBÊNCIA. CABIMENTO.
+1. A fixação dos honorários advocatícios é devida mesmo em casos de extinção do processo sem resolução do mérito, mediante a verificação da sucumbência e aplicação do princípio da causalidade. Nessa direção, desimporta se o feito foi extinto por ato de ofício do juiz ou a pedido da parte.
+2. No caso, houve pronúncia da prescrição, hipótese de extinção do processo com resolução do mérito. O completo decurso do prazo, porém, não resultou em absoluto da marcha da tramitação processual, mas, essencialmente, do comportamento da própria exequente.
+3. O contexto descrito nos autos dá a ideia de que a Fazenda Nacional foi vencida na presente ação. É, dessarte, sucumbente, e por isso deve responder pelo pagamento dos honorários advocatícios, na forma estabelecida pelo magistrado de primeira instância.
+4. Recurso especial provido (REsp 1.719.335/RS, Rel. Min. OG FERNANDES, DJe 9.4.2018).
+8. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial do Município de São Bernardo do Campo/SP.
+9. Publique-se.
+10. Intimações necessárias.
