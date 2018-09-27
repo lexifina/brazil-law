@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por DEPOSITO BANDEIRANTES LTDA - ME , fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO REVISIONAL DE ALUGUEL - LOCAÇÃO COMERCIAL - ALUGUEL PROVISÓRIO - LEI Nº 8.245/91, ART. 72, § 4º - LIMITE MÁXIMO DE 80% DO VALOR  PEDIDO PELO LOCADOR - REDUÇÃO - IMPOSSIBILIDADE - INCLUSÃO DAS BENFEITORIAS NA AVALIAÇÃO. Não tendo o réu apresentado documento hábil a desconstituir o parecer técnico apresentado pela autora, elaborado por profissional competente, deve o valor fixado a título de aluguel provisório ser mantido. Nos contratos de locação comercial, as benfeitorias realizadas pelo locatário se incorporam ao patrimônio do locador. Assim, devem as benfeitorias ser incluídas na avaliação do bem a embasar o valor do novo aluguel, uma vez que criam benefícios para o próprio locatário, além da valorização do seu fundo de comércio" (fl. 109 e-STJ).
+O recorrente sustenta, além de dissídio jurisprudencial, violação dos arts. 19 e 68, III, da Lei nº 8.245/1991. Alega que as construções realizadas pelo locatário não devem ser levadas em consideração para fins de reajuste do valor do aluguel imobiliário e que o valor arbitrado mostra-se excessivo, acima do percentual admitido por lei.
+Recurso respondido e admitido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+O ácordão recorrido encontra-se em dissonância da jurisprudência desta Corte, segundo a qual na ação revisional de aluguel, as benfeitorias e acessões realizadas pelo locatário não devem ser consideradas para efeito do cálculo do novo valor do aluguel, o que ocorre na hipótese dos autos.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO REVISIONAL DE ALUGUEL. ACESSÕES REALIZADAS PELO LOCATÁRIO. DESCONSIDERAÇÃO PARA EFEITO DE FIXAÇÃO DE NOVO VALOR DE ALUGUEL. DECISÃO MANTIDA.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ação revisional de aluguel de benfeitorias e acessões realizadas pelo locatário não devem ser consideradas para efeito do cálculo do novo valor do aluguel. Tais melhoramentos e edificações, no entanto, poderão ser levadas em conta na fixação do aluguel por ocasião da renovatória, em novo contrato. Precedentes.
+3. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Agravo interno não provido, com aplicação de multa" (AgInt nos EDcl no REsp 1.727.589/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 7/8/2018, DJe 14/8/2018).
+"CIVIL E PROCESSUAL CIVIL. LOCAÇÃO URBANA. AÇÃO REVISIONAL DE ALUGUEL PROPOSTA PELOS LOCADORES. BENFEITORIAS E ACESSÕES. NOVO ALUGUEL. RETROATIVIDADE À CITAÇÃO. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. PROVIMENTO PARCIAL.
+1. A ação revisional não se confunde com a renovatória de locação.
+Na revisional, as benfeitorias e as acessões realizadas pelo locatário, em regra, não devem ser consideradas no cálculo do novo valor do aluguel, para um mesmo contrato. Tais melhoramentos e edificações, no entanto, poderão ser levadas em conta na fixação do aluguel por ocasião da renovatória, no novo contrato. Precedente da QUARTA TURMA.
+2. Nos termos do art. 69, caput, da Lei n. 8.245/1991, a condenação da ré nos valores retroativos à data da citação deve observar, em seu cálculo, a diferença entre "os alugueres provisórios satisfeitos" e o arbitrado judicialmente.
+3. Sucumbência recíproca caracterizada, tendo em vista que o aluguel foi arbitrado judicialmente em valor equidistante do aluguel em vigor quando iniciada a demanda e da importância desejada pelos autores, cabendo destacar que a ré postulava a improcedência da ação.
+4. A sentença que julga procedente, ainda que somente em parte, a ação revisional de aluguel proposta pelo locador tem natureza constitutiva condenatória, incidindo a norma do § 3º do art. 20 do CPC/1973 para efeito de arbitramento dos honorários advocatícios.
+5. Considerando que a ação revisional se destina igualmente, quando for o caso, a reduzir o valor do aluguel ao preço de mercado (cf. arts. 19 e 68, II, "b", da Lei n. 8.245/1991), também o locatário poderá manejá-la a cada três anos (36 meses).
+6. Em tal contexto, aplicados o § 3º do art. 20 e o caput do art. 21 do CPC/1973, defere-se aos patronos dos recorrentes, a título de honorários advocatícios, o equivalente a 5% (cinco por cento) sobre a diferença entre o valor do aluguel na data da citação e o valor do novo aluguel fixado na sentença, multiplicando-se tal importância pelo período de 36 (trinta e seis) meses.
+7. Recurso especial parcialmente provido" (REsp 1.193.926/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+Ante o exposto, dou provimento ao recurso especial, para que sejam excluídas as benfeitorias realizadas pelo locatário no cálculo do novo aluguel.
+Publique-se.
+Intimem-se.
