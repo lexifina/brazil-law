@@ -1,0 +1,22 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO INDENIZATÓRIA. HERDEIRO TARDIAMENTE RECONHECIDO. DESFAZIMENTO DOS QUINHÕES. AUSÊNCIA DA DEVIDA DEMONSTRAÇÃO DA AFRONTA AO ART. 206, §3º, V, DO CCB. ATRAÇÃO DO ENUNCIADO 284/STF. DISPOSITIVO APLICADO PELO ACÓRDÃO RECORRIDO. DISCUSSÃO ACERCA DO TERMO INICIAL DA PRESCRIÇÃO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI IDÔNEO AO ALCANCE DA PRETENSÃO DE REFORMA. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea "a" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal de Justiça do Estado de São Paulo, prolatado no curso de ação de indenização contra ele ajuizada por ANDERSON ROBERTO DA COSTA [NOME], cuja ementa está assim redigida:
+Perdas e Danos. Autor que pretende receber indenização por quinhão hereditário recebido indevidamente pelos demais herdeiros. Prazo prescricional a contar do despacho proferido ainda naquela demanda investigatória, quando constatada a impossibilidade de se repartir os bens já alienados a terceiros e não do reconhecimento da paternidade. Prescrição afastada. Recurso provido para este fim.
+Opostos embargos de declaração, o recurso foi rejeitado.
+Nas razões do especial, sustentou a afronta ao art. 206, §3º, inciso V, do CCB, ao fundamento de que, quando do reconhecimento da filiação do recorrido, o processo de inventário dos bens deixados pelo seu pai já havia terminado. Referiu que a paternidade foi reconhecida em 1999 e a ação indenizatória ajuizada em 2006, superando-se, pois, o prazo prescricional trienal, contado da entrada em vigor do CC/02, já que não superada a metade do prazo prescricional anterior. Referiu não se poder contá-lo da decisão proferida na ação de investigação que indeferiu o pedido de repartição dos bens já alienados pelos demais herdeiros a terceiros. Pediu o provimento do recurso.
+O recurso não foi admitido na origem.
+Interposto agravo em recurso especial a ele dei provimento, determinando a sua conversão.
+É o relatório.
+Passo a decidir.
+Analisando novamente o recurso especial, com maior profundidade, tenho que ele efetivamente não merecia conhecimento, isso por força da atração do enunciado 284/STF.
+A discussão central é o termo inicial do prazo de prescrição da pretensão indenizatória formulada por um dos herdeiros, assim reconhecido tardiamente, em face dos demais herdeiros, que teriam recebido as suas cotas do patrimônio do pai em comum e alienado a terceiros, não mais restando o que partilhar na espécie.
+O acórdão recorrido reconhecera que o prazo prescricional seria o trienal, previsto no art. 206, §3º, inciso V, do CCB, mas que o início de sua contagem dar-se-ia com o surgimento da pretensão indenizatória do recorrido/autor que ocorrera com o indeferimento do seu pedido de partilha, tendo em vista a alienação dos quinhões. Nesse sentido, assim detalhou:
+O lapso temporal para o ajuizamento da demanda ressarcitória, ao contrário do entendimento do i. sentenciante não deve ser, contado do reconhecimento da paternidade/senão do despacho proferido ainda naquela demanda investigatória, quando constatada a impossibilidade de se repartir os bens já alienados a terceiros: ".. Como a sentença que julgou a partilha já transitou em julgado e os bens já foram definitivamente partilhados entre os demais herdeiros, caberá ao herdeiro prejudicado e ora nomeado inventariante buscar seu direito a 1/6 dos bens partilhados por meio de ação própria a ser proposta contra os herdeiros. A única solução viável a essa altura é a resolução em perdas e danos cujo montante da indenização deverá ser fixado nessa outra ação" (fl. 19), proferido aos 06 de julho de 2004.
+A presente demanda indenizatória foi proposta aos 17 de julho de 2006, portanto dentro do lapso temporal 3 anos disposto no artigo 206, § 3o, V, do CC.
+O dissenso, pois, não é outro, senão o termo inicial do prazo prescricional, não se tendo, todavia, indicado dispositivo de lei federal a regulá-lo, senão o art. 206, §3º, V, do CCB, que dele não trata, mas apenas do prazo de prescrição da pretensão indenizatória.
+Aliás, o acórdão fizera aplicar especialmente o prazo prescricional do referido dispositivo de lei, não se podendo, pois, de forma alguma, reconhecer a sua afronta.
+Ante o exposto, não conheço do recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
