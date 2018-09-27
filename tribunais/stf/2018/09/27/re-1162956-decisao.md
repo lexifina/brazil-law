@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto por Osvaldo Aparecido Baptista Engicht contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO contra acórdão que deu total provimento à apelação do impetrante para conceder a ordem em mandado de segurança versando sobre aposentadoria especial com proventos integrais e paridade. Verificada omissão do acórdão em relação às regras de transição previstas na EC 41/03 e na EC 47/05, posteriores à extinção da paridade e da integralidade como regra geral para os proventos dos servidores públicos no ordenamento constitucional. Impetrante que reuniu as condições para se aposentar após a vigência da EC 41/03. Omissão ora sanada. Manutenção do reconhecimento do direito do impetrante à aposentadoria especial, com proventos integrais (assim entendidos como equivalentes à última remuneração da ativa), com base na LCF 51/85 (art. 1º). Afastado, todavia, o direito à paridade. Direito à paridade extinto pela EC 41/03. Regras de transição previstas pela própria EC 41/03 e pela EC nº 47/05, não atendidas pelo impetrante. Embargos de declaração acolhidos com efeitos infringentes, para reconhecer o parcial provimento do recurso de apelação interposto, denegando a ordem quanto à paridade. Embargos parcialmente acolhidos, com efeitos modificativos.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 4º, da CF, bem como às ECs nºs 41/2003 e 47/2005.
+    O recurso está prejudicado. Isso porque o recurso extraordinário interposto pelo SPPREV e o Estado de São Paulo contra o acórdão do TJSP foi parcialmente provido, determinando-se o retorno dos autos à origem para que seja proferido novo julgamento. De modo que presente recurso perdeu o respectivo objeto.
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicado o recurso.
+    Publique-se.
+          Brasília, 27 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
