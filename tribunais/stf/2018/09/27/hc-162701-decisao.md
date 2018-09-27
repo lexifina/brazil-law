@@ -1,0 +1,20 @@
+Decisão:
+Ementa: Penal e processual penal. Habeas corpus. Prisão preventiva. Jurisprudência do STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Ribeiro Dantas, que não conheceu do HC 451.148.
+    2. Extrai-se dos autos que o paciente, preso preventivamente, foi denunciado pela suposta prática do crime previsto no art. 157, §3º, do Código Penal.
+    3. Foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo, denegado. Na sequência, a defesa impetrou HC no Superior Tribunal de Justiça, não conhecido.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, que “o Juízo de primeiro grau não apresentou nenhum elemento concreto que justificasse a decretação da custódia, tendo se limitado a considerações a respeito da gravidade abstrata do crime”. Ademais, afirma que “Com base nos mesmos argumentos e fundamentos foram decretadas as prisões preventivas de todos os acusados, inclusive da acusada Solange Aparecida Rolin Hirsgberg, que posteriormente lhe foi concedido o benéfico de responder ao processo em liberdade provisória”.
+    5. Por fim, aponta que “o paciente permanece custodiado desde 11/12/2017, por fato corrido em 15/08/2017, Ocorre que permanece recluso há mais de 275 (duzentos e setenta e cinco) dias , sem que sua culpa seja formada”.
+    Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. De início, verifico que a petição inicial do habeas corpus não foi instruída com cópia do inteiro teor do decreto prisional, nem do ato apontado como coator, o que atrai a orientação jurisprudencial do Supremo Tribunal Federal, no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Relator o Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Rel. Min. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    8. Além disso, a orientação do Tribunal é no sentido de que a periculosidade do agente, evidenciada pelo modus operandi, constitui fundamentação idônea para a decretação da custódia cautelar ( v.g HC 103.330, Rel. Luiz Fux, RHC 116.965, Relª Minª Cármen Lúcia, HC 116.151, Rel. Min. Ricardo Lewandowski).
+    9. No caso de que se trata, a decisão impugnada não divergiu desse entendimento ao assentar que “a prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso mais três agentes contra uma vítima, realizaram subtração mediante violência, que resultou na morte da vítima” (passagens do ato impugnado, obtidas em consulta à página oficial do STJ na internet).
+    10. Quanto à possibilidade de aproveitamento do “benéfico de responder ao processo em liberdade provisória” concedido à corré “Solange Aparecida Rolin Hirsgberg”, dou especial importância aos fundamentos adotados pela autoridade impetrada no sentido de que “não há falar em extensão da concessão da liberdade provisória da ré Solange Aparecida Rolin Hirsgberg, porquanto a conduta realizada por ela é de gravidade inferior, consistente em receptação, ao contrário do paciente, cuja conduta é pluriofensiva, atingindo os bens jurídicos vida e patrimônio”. Ademais, deixou consignado que se trata “de réu que já possui anotações na folha de antecedentes”.
+    11. Quanto ao mais, verifico que a questão relativa ao excesso de prazo para formação da culpa não foi apreciada pelo Tribunal Estadual, nem pelo Superior Tribunal de Justiça. O que impede o imediato exame das matérias por esta Corte, sob pena de dupla supressão de instâncias.
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 27 de setembro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+         Documento assinado digitalmente
