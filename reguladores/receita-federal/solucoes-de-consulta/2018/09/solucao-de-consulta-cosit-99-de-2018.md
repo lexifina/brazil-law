@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 99, de 17 de agosto de 2018
+ASSUNTO: CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO – CIDE EMENTA: BASE DE CÁLCULO. INCLUSÃO DO IRRF. A Contribuição de Intervenção no Domínio Econômico (CIDE) incide sobre as importâncias pagas, creditadas, entregues, empregadas ou remetidas, a cada mês, a residentes ou domiciliados no exterior, a título de remuneração decorrente das obrigações contraídas, considerada a remuneração, para fins de incidência da CIDE, como sendo a importância líquida paga ao residente ou domiciliado no exterior com a adição do Imposto de Renda Retido na Fonte (IRRF), independentemente de a fonte pagadora assumir o ônus do imposto. Dispositivos Legais: Lei nº 10.168, de 29 de dezembro de 2000, arts. 2º e 3º; Decreto nº 3.000, de 26 de março de 1999, arts. 344, § 3º e 725.
+.
+[arquivo anexo: SC Cosit nº 99-2018.pdf]
