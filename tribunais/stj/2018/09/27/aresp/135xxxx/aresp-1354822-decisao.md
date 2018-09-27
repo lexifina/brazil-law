@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo, desafiando decisão que inadmitiu recurso especial, este com fundamento na alínea "a" do permissivo constitucional, interposto contra acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 275):
+Execução de multa. Rescisão antecipada de contrato. Processamento de melaço e outras avenças. Exceção de pré-executividade só cabe em situações muito excepcionais, referentes à matéria suscetível de conhecimento ex ojjicio, questões de ordem pública, ou à nulidade do título, que seja evidente e flagrante. Inocorrência de prescrição. Admissível a apresentação de cópia do contrato objeto da execução. Negou-se provimento ao agravo da executada. Embargos declaratórios opostos só pela executada. Inocorrência de omissão, obscuridade e/ou contradição. Decisão colegiada unânime clara e objetiva. Os declaratórios devem ser encarados como instrumento de aperfeiçoamento da prestação jurisdicional, não como meio hábil ao reexame da causa, apenas porque o decisum refletiu entendimento contrário ao defendido pela embargante. Embargos de declaração conhecidos por serem tempestivos, porém rejeitados.
+Nas razões do apelo nobre, a recorrente aponta ofensa aos arts. 240, § 2º e 202, I, do Código Civil, sustentando, em síntese, a prescrição da pretensão da agravda, porquanto o despacho que ordenou a citação não interrompeu a prescrição, tendo em vista que a citação somente se verificou após decorridos aproximadamente 4 anos do despacho inicial, por culpa exclusiva da recorrida.
+É o relatório.
+Decido.
+Não colhe a irresignação.
+Na hipótese, o Tribunal a quo, com fulcro na análise do acervo fático-probatório dos autos, afastou a alega prescrição da pretensão da recorrida, consoante se depreende do seguinte excerto do aresto recorrido:
+De largada, afasto a alegada prescrição, pois a demanda foi ajuizada em observância ao prazo previsto no art. 206, § 5o, I, do CC, em 01.10.10. fl. 28, tendo o suposto descumprimento contratual ocorrido em 22.12.06.
+Por outro lado, eventual demora para citação da executada (despacho proferido em 09.01.11, fl. 122) ocorreu por motivos inerentes ao mecanismo da Justiça, não podendo recair sua culpa sobre a exequente.
+Aplica-se aqui, analogicamente, a Súmula nº 106 do Colendo STJ, que determina que "proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência ".
+Até mesmo porque consta ter a agravada agido diligentemente e, de qualquer forma, tal citação válida interrompeu o prazo prescricional e retroagiu à data do ajuizamento da ação. (fl. 259).
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido, nos moldes em que ora postulado, demandaria nova análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
