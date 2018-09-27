@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, proferido na Apelação Criminal n. 0805997-80.2014.8.24.0038.
+O paciente foi condenado, em primeiro grau, pela prática dos delitos tipificados no art. 138, c.c. o art. 59, caput, e o art. 141, inciso II, todos do Código Penal (calúnia contra funcionário público), às penas de 10 meses e 20 dias de detenção, em regime aberto, e 16 dias-multa, tendo a reprimenda corporal sido substituída por restritiva de direitos.
+Inconformados, a defesa e o Ministério Público interpuseram apelação perante o Tribunal de origem, que negou provimento ao reclamo e determinou o início da execução provisória da pena. Eis a ementa do julgado:
+APELAÇÃO CRIMINAL. CRIME DE CALÚNIA PRATICADO CONTRA FUNCIONÁRIO PÚBLICO (ART. 138, "CAPUT", C/C ART. 141, INCISO II, AMBOS DO CÓDIGO PENAL). RECURSOS DA DEFESA E DO MINISTÉRIO PÚBLICO. PRETENDIDA ABSOLVIÇÃO POR AUSÊNCIA DE DOLO, NÃO CONSTITUIR O FATO INFRAÇÃO PENAL OU INSUFICIÊNCIA DE PROVAS, COM O RECONHECIMENTO DO PRINCÍPIO DO "IN DUBIO PRO REO". IMPOSSIBILIDADE. CONJUNTO PROBATÓRIO QUE DEMONSTRA A CONDUTA DO APELANTE DE IMPUTAR A MAGISTRADO FATO TIPIFICADO COMO CRIME. PEDIDO DE RECONHECIMENTO DA EXCLUDENTE DE ILICITUDE DO EXERCÍCIO REGULAR DE UM DIREITO. NÃO ACOLHIMENTO. PRESIDÊNCIA DE SINDICATO QUE NÃO AUTORIZA O APELANTE [NOME] A CALUNIAR TOGADO. CONDENAÇÃO MANTIDA. PLEITO GENÉRICO DE FIXAÇÃO DA REPRIMENDA NO MÍNIMO LEGAL, SUBSTITUIÇÃO DAQUELA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS OU SUSPENSÃO CONDICIONAL DA PENA DESACOMPANHADO DE ARGUMENTAÇÃO CONCRETA. INCIDÊNCIA DO PRINCÍPIO DA DIALETICIDADE. PEDIDO NÃO CONHECIDO. CORREÇÃO DE ERRO MATERIAL, DE OFÍCIO. REPRIMENDA EXASPERADA, NA TERCEIRA FASE, EM 1/3, TOTALIZANDO 9 MESES E 10 DIAS DE DETENÇÃO, ALÉM DE 14 DIAS-MULTA, E NÃO COMO CONSTOU. EXECUÇÃO PROVISÓRIA DA PENA. NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (HC N. 126.292/SP) ADOTADA POR ESTA CÂMARA CRIMINAL (AUTOS N. 0000039-15.2016.8.24.0059). IMEDIATO CUMPRIMENTO DA REPRIMENDA RESTRITIVA DE DIREITOS QUE SE IMPÕE. RECURSOS PARCIALMENTE CONHECIDOS E, NESSA EXTENSÃO, DESPROVIDOS. (fl. 670)
+Daí o presente writ, no qual alega a impossibilidade da execução provisória em relação às penas restritivas de direitos.
+Requer, em liminar, a suspensão da execução provisória imposta ao paciente. No mérito, busca o reconhecimento da impossibilidade da execução da pena restritiva de direitos até o trânsito em julgado da condenação.
+Liminar deferida para suspender a execução provisória das penas restritivas de direito até o trânsito em julgado da condenação (fls. 753/755).
+Informações prestadas às fls. 760/824 e 831/833.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 835/844).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, no julgamento do EResp 1.619.087/SC, firmou o entendimento de que as penas restritivas de direitos não podem ser executadas antes do trânsito em julgado da condenação, em observância ao disposto no art. 147 da Lei n. 7.210/84.
+Confira-se, a propósito, a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados (EREsp 1619087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 24/08/2017).
+Ante exposto, concedo a ordem, de ofício, para suspender a execução provisória da pena restritiva de direito imposta ao paciente até o trânsito em julgado de eventual condenação, confirmando a liminar anteriormente deferida.
+Publique-se.
+Intimações necessárias.
