@@ -1,0 +1,51 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. OFENSA AO ARTIGO 535 DO CPC/73. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. REVOGAÇÃO DE OFÍCIO. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl.206/213):
+EMBARGOS À EXECUÇÃO FISCAL. GARANTIA DO JUÍZO. AUSÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO SITUAÇÃO FINANCEIRA PRECÁRIA.
+1. O parágrafo 1º do artigo 16 da Lei nº 6.830/80 impõe, como condição de admissibilidade dos embargos do devedor, a segurança do juízo pela penhora.
+2. As alterações trazidas pela Lei nº 11.382, de 2006, não afetam o tema da garantia para oposição dos embargos à execução fiscal, porquanto as normas processuais são aplicadas apenas de forma subsidiária, não sendo o caso, já que há disposição expressa no §1º do art. 16 da Lei nº 6.830/80 no ponto.
+3. Os elementos dos autos são insuficientes para autorizar a concessão do benefício da assistência judiciária gratuita.
+4. As execuções fiscais promovidas pela Fazenda Nacional já incluem o encargo legal (DL 1.025/69), que substitui os honorários de advogado, inclusive em sede de embargos (Súmula 168 do TFR). Verba honorária afastada.
+Apelação da parte embargante desprovida. Recurso da União parcialmente provido.
+Opostos embargos de declaração, foram parcialmente providos, nos seguintes termo:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. ENCARGO LEGAL.
+1. A natureza reparadora dos embargos de declaração só permite a sua oposição contra sentença ou acórdão acoimado de obscuridade ou contradição, bem como nos casos de omissão do Juiz ou Tribunal, conforme prescrito no art. 535 do CPC, ou, ainda, por construção jurisprudencial, para correção de erro material no julgado e prequestionamento.
+2. Tem-se por desnecessária a abordagem expressa dos dispositivos legais e constitucionais no corpo do acórdão para fins de prequestionamento, pois, como é sabido, o Juiz não está obrigado a responder a todas as alegações das partes, quando encontrar fundamento suficiente para embasar a sua decisão. Assim, eventual negativa de vigência a determinado dispositivo legal ou constitucional, ensejadora de interposição de recurso especial e/ou extraordinário, é decorrente dos fundamentos da decisão, e não de manifestação expressa do Julgador nesse sentido.
+3. Decisão acolhida em parte para aclarar o julgado, sem alterar a parte dispositiva.
+A recorrente alega violação ao artigo 535 do CPC/73, afirmando que há vícios no acórdão recorrido, mesmo após a oposição de embargos de declaração.
+Aponta ainda, ofensa aos artigos 2º, 128, 460, 473, 474 e 515 do CPC/73, na medida em que o Tribunal de origem incorreu em reformatio in pejus ao, em sede de apelação interposta pela Fazenda Pública, revogar, de ofício, a condenação em honorários advocatícios.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 242.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois a recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo, sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OMISSÃO NO JULGADO. ALEGAÇÃO GENÉRICA. IMPORTAÇÃO DE VEÍCULO. PENA DE PERDIMENTO. PAGAMENTO DE TRIBUTOS. REPETIÇÃO. CABIMENTO.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+2. Esta Corte de Justiça tem decidido que a alegação de violação do art. 535 do CPC/73 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, o que não ocorreu na espécie, o que enseja a aplicação da Súmula 284 do STF.
+3. Na hipótese dos autos, de acordo com a legislação tributária de regência, os tributos (II, PIS/Importação e COFINS/Importação) não incidem sobre mercadorias e bens estrangeiros que tenham sido objeto de pena de perdimento, exceto nas hipóteses em que não sejam localizados, consumidos ou revendidos, situação não ocorrida in casu.
+4. A devolução do valor recolhido a título de IPI também deve ocorrer, pois o seu fato gerador, que é o desembaraço aduaneiro, nem chegou a ocorrer, conforme premissa fática firmada pela Corte de origem.
+5. Recurso especial conhecido, em parte e, nessa extensão, desprovido.
+(REsp 1499408/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/08/2018, DJe 30/08/2018)
+PROCESSUAL CIVIL. TRIBUTÁRIO. INCIDÊNCIA DO ENUNCIADO N. 568 DA SÚMULA DO STJ E DO ART. 255 § 4º, INCISO III, DO REGIMENTO INTERNO DO STJ. ALEGAÇÃO DE VIOLAÇÃO DO ART 535, II, DO CPC/1973. JURISPRUDÊNCIA PACIFICADA. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+II - Em relação à alegada violação ao art. 535, II, do CPC/1973, verifica-se que em ambos os recursos os recorrentes limitaram-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+III - No mérito, verifica-se que a jurisprudência do Superior Tribunal de Justiça está pacificada no sentido de que o mencionado debate, por tratar de eventual contrariedade entre lei ordinária (art. 27 da Lei n. 10.865/2004) e lei complementar (Código Tributário Nacional), deve ser travado no âmbito do Supremo Tribunal Federal.
+IV - Agravo interno improvido.
+(AgInt no REsp 1495116/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/08/2018, DJe 29/08/2018)
+Com relação à alegação de reformatio in pejus, cabe registrar que o entendimento desta Corte firmou-se no sentido de que a questão relativa ao arbitramento de honorários advocatícios,
+por representar consectário lógico da condenação, é matéria de ordem pública, que por ser revisitada a qualquer tempo, inclusive de ofício.
+Destaca-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO DO PARTICULAR PROVIDO PARA EXCLUÍ-LO DO POLO PASSIVO DA EXECUÇÃO FISCAL. CONDENAÇÃO DA PARTE CONTRÁRIA AO PAGAMENTO DE VERBA HONORÁRIA. CABIMENTO.
+1. "Não obstante a exceção de pré-executividade se trate de mero incidente processual na ação de execução, o seu acolhimento com a finalidade de declarar a ilegitimidade passiva ad causam do recorrente torna cabível a fixação de honorários advocatícios, ainda que tal ocorra em sede de agravo de instrumento" (REsp 884.389/RJ, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 29/6/2009).
+2. A exclusão da lide de parte considerada ilegítima torna inequívoco o cabimento da verba honorária por força da sucumbência informada pelo princípio da causalidade.
+3. A condenação da parte contrária ao pagamento de honorários é matéria de ordem pública, cognoscível ex officio pelo juiz.
+4. Agravo interno a que se nega provimento (AgInt nos EDcl no REsp 1.584.753/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. SENTENÇA QUE SE OMITIU, QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO, PELO TRIBUNAL DE ORIGEM. POSSIBILIDADE. EFEITO DEVOLUTIVO DA APELAÇÃO, QUE PERMITE O CONHECIMENTO DE MATÉRIAS EXAMINÁVEIS DE OFÍCIO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+V. Na forma da jurisprudência desta Corte, ""a fixação dos honorários advocatícios é matéria que deve ser conhecida de ofício, porquanto é consectário lógico da sucumbência" (AgRg no REsp 1.189.999/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/8/2012, DJe de 24/8/2012)" (STJ, AgRg no AgRg no REsp 1471484/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 09/11/2015). Nesse contexto, considerando o efeito devolutivo da Apelação, que possibilita o conhecimento, pelo Tribunal de origem, de matérias examináveis de ofício - como é o caso dos honorários advocatícios -, não há que se falar em preclusão ou em ilegalidade do acórdão que, em razão da omissão da sentença, arbitrou honorários advocatícios, em desfavor da parte sucumbente na demanda.
+Precedentes do STJ.
+VI. Agravo interno parcialmente conhecido, e, nessa parte, improvido (AgInt no AgInt no AREsp 1.036.285/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/10/2017, DJe 27/10/2017).
+Ante ao exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
