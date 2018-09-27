@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DANILO SILVA PEREIRA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2093173-54.2017.8.26.0000).
+Consta dos autos ter sido o paciente condenado à pena de 18 anos de reclusão, a ser cumprida inicialmente no regime fechado, e ao pagamento de 45 dias-multa, pela prática do crime previsto no art. 157, § 2º, I e II, do Código Penal, por quatro vezes, negado o direito de recorrer em liberdade.
+Irresignada, a defesa ingressou com recurso de apelação.
+Impetrado habeas corpus no Tribunal de origem alegando excesso de prazo para a remessa do apelo, bem como violação ao princípio do juiz natural, a ordem foi parcialmente conhecida e, nessa extensão, tida por prejudicada. Eis a ementa do aludido julgado (e-STJ fl. 56):
+PENAL. "HABEAS CORPUS". ROUBO MAJORADO. EXCESSO DE PRAZO NA REMESSA DOS AUTOS AO E. TRIBUNAL DE JUSTIÇA.
+Postulada a imediata remessa dos autos ao E. Tribunal para julgamento do recurso, bem como a revogação da prisão preventiva por nulidade decorrente do desrespeito ao Juiz natural. Pleito parcialmente prejudicado. Verificado que os autos já se encontram nesta Corte, resta prejudicada a ordem, por perda superveniente de objeto, nesta parte.
+Nulidade arguida, por sua vez, em writ anterior, já analisada e julgada, no que não pode ser conhecida. Manutenção da prisão do paciente devido à gravidade concreta dos delitos perpetrados, não se vislumbrando flagrante ilegalidade ou abuso que justifique sua soltura neste momento. Constrangimento ilegal não configurado.
+Ordem, parcialmente conhecida, prejudicada.
+No presente writ, sustenta a impetrante ter havido desrespeito à teoria monista, uma vez que "houve uma latente desigualdade na aplicação da pena dos réus que foram condenados pelo mesmo fato criminoso. Trata-se do mesmo delito cometido supostamente em coautoria" (e-STJ fl. 3).
+Destaca que, "embora o artigo 29 atribua penalidade ao agente de acordo e na medida de sua culpabilidade, se há vínculo subjetivo, ou seja, havendo unidade de desígnios e suas condutas tiveram a mesma relevância causal para a produção do mesmo resultado, não há que se cogitar de medidas sancionatórias distintas, como ocorreu no caso em deslinde", asseverando que, "se o réu Marco Aurélio desfruta de lapso de tempo para progredir de regime, os outros réus Danilo e Leandro deveriam estar nas mesmas condições, pois são primários e suas vidas pregressas não justificam causa de aumento de pena" (e-STJ fl. 5).
+Aduz que a diferença entre as penas aplicadas ao paciente e ao corréu Marco Aurélio se deu em virtude da violação do princípio do juiz natural, tendo em vista que a sentença do aludido corréu foi prolatada pela juíza que presidiu a instrução criminal, diversamente do que ocorreu em relação ao paciente.
+Alega a existência de excesso de prazo para o julgamento do recurso de apelação, enfatizando não haver provas suficientes para a condenação do paciente.
+Busca, liminarmente, seja concedido ao paciente "o benefício da liberdade provisória" (e-STJ fl. 18).
+No mérito, pugna pela "nulidade da sentença para o fim de revogar a prisão preventiva e conceder ao paciente o benefício da liberdade provisória" (e-STJ fl. 19).
+Liminar indeferida às e-STJ fls. 95/97.
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 237/246).
+É, em síntese, o relatório.
+Pois bem. Compulsando os autos verifico que as teses de nulidade e de ilegalidade na dosimetria da pena não foram examinadas pelo Tribunal a quo no acórdão impugnado, o que impede a análise dos temas por esta Corte, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: ed. JusPodivm, 2016, p. 2.470).
+Logo, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para o processamento e julgamento do tema, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevida supressão de instância.
+ ..
+(HC 387.938/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017, grifei)
+No tocante à alegação de excesso de prazo para o julgamento do recurso de apelação, informações extraídas do endereço eletrônico do Tribunal de origem noticiam que o apelo defensivo foi julgado em 13/9/2018, de modo que esvaziada a presente impetração no ponto.
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, julgo-o prejudicado.
+Publique-se. Intimem-se.
