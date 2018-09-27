@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A contra decisão desta relatoria (e-STJ, fls. 399/402), que deu provimento ao recurso especial interposto por [NOME] para condenar a embargante ao pagamento de indenização por lucros cessantes a serem apurados em liquidação de sentença.
+A parte embargante alega que a decisão embargada foi omissão quanto à necessidade de suspensão do processo até o julgamento do Tema n. 970, afetado ao rito dos recursos repetitivos. Alega que a impossibilidade de cumulação de cláusula penal com indenização por lucros cessantes na hipótese de atraso na entrega do imóvel em construção objeto de contrato de promessa de compra e venda foi objeto das contrarrazões opostas.
+Ao final, requer a suspensão da tramitação do processo, nos termos do artigo 1.036 e seguintes do Código de Processo Civil.
+Não foi apresentada impugnação (e-STJ, fl. 412).
+É o relatório.
+Afiguram-se relevantes as alegações do embargante.
+De fato, observa-se que o Juízo de piso negou o pleito de condenação ao pagamento de lucros cessantes sob o fundamento de que já havia, no contrato, a previsão de aplicação de cláusula penal pelo mesmo fundamento, tendo a possibilidade de cumulação dos lucros cessantes com cláusula penal sido discutida desde a sentença, fato este que não foi levado em consideração no momento do julgamento monocrático do recurso especial.
+A questão foi objeto de afetação ao rito dos recursos repetitivos pela eg. Segunda Seção deste Tribunal Superior, sob o Tema n. 970, e encontra-se pendente de julgamento, sendo imperiosa a devolução dos autos ao Tribunal a quo, consoante determina o art. 256-L, I, do RISTJ, que dispõe que: "Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator".
+Ante o exposto, reconsidero a decisão hostilizada de fls. 399/402 (e-STJ), e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do CPC/2015, devendo ser analisado, em seguida, o procedimento dos arts. 1.040 e 1.041 do mesmo diploma.
+Publique-se.
