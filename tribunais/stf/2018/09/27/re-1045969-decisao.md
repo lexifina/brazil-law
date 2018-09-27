@@ -1,0 +1,37 @@
+Decisão: Trata-se recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 2, p. 183):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. ANULAÇÃO DO JULGAMENTO PELO STJ. REAJUSTES DE 28,86% E 3,17%. PENSÃO. PRESCRIÇÃO DO FUNDO DE DIREITO AFASTADA. PRESCRIÇÃO QUINQUENAL. POSSIBILIDADE DE COMPENSAÇÃO.
+    1 Considerando o teor do julgamento proferido no âmbito do Superior Tribunal de Justiça, compete a esta Turma proferir novo julgamento, pois afastada a prescrição do fundo de direito.
+    2. Uma vez que a ação fora ajuizada em 30/06/2010, impõe-se a observância da Súmula nº 85 do STJ, estando prescritas as parcelas anteriores a 30/06/2005.
+    3. Não procede a alegação de impossibilidade jurídica do pedido, já que não existe qualquer vedação no ordenamento jurídico para o pleito da demandante.
+    4. Quanto ao reajuste de 28,86%, a jurisprudência é no sentido de que devem ser compensados os valores eventualmente já pagos à demandante, por força do reenquadramento ou reestruturação da carreira, o que deverá ser observado por ocasião da liquidação de sentença.
+    5. No que se refere ao percentual de 3,17%, tratando-se de servidor ocupante da carreira de técnicos-administrativo, faz jus, pois, à incidência do reajuste até o momento temporal de implantação da reestruturação ocorrida com o advento da MP 2.150-39, de 31-5-2001. Destarte, considerando-se que as parcelas anteriores a 30/06/05 estão prescritas, a pretensão da autora, no ponto, é improcedente.
+    6. Apelação da UFPEL e remessa oficial parcialmente providas. Apelação da parte autora improvida.”
+    Os embargos de declaração foram providos, apenas para fins de prequestionamento (eDOC 2, p. 203).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, XXXV, LIV e LV; 37, X; e 93, IX, do Texto Constitucional.
+    Nas razões recursais, sustenta-se, em suma, que o reconhecimento do direito de percepção dos reajustes em favor da recorrente pela parte recorrida, de acordo com as normas editadas, restou configurada renúncia à prescrição (eDOC 3, p. 35).
+    Alega, ainda, que “Não se pode compactuar com o pagamento do reajuste apenas considerando a edição de normas com suposta eficácia no caso concreto.” Além disso, aduz que o entendimento de que os reajustes pleiteados tiveram vigência delimitada no tempo viola o disposto no art. 5º, LV (eDOC 3, p. 36).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado, asseverou (eDOC 2, p. 175-178):
+    “Considerando o teor do julgamento proferido no âmbito do Superior Tribunal de Justiça, compete a esta Turma proferir novo julgamento, pois afastada a prescrição do fundo de direito.
+    O Superior Tribunal de Justiça consolidou o entendimento de que a edição da Medida Provisória 1.704-/98, que reconheceu o direito dos servidores públicos civis ao reajuste de 28,86%, representou a renúncia do prazo prescricional. Assim, para as ações ajuizadas até 30/6/2003, os efeitos financeiros devem retroagir a janeiro de 1993; e se propostas após 30/6/2003, deve ser aplicado o enunciado da Súmula nº 85 daquela Corte.
+    Mesmo entendimento aplica-se à prescrição da pretensão ao reajuste de 3,17%, pois em razão da edição da Medida Provisória 2.225/2001, a Administração renunciou ao prazo prescricional das ações propostas até 04/9/2006, ou seja, antes do transcurso do prazo quinquenal da edição da referida norma, sendo que, para as ações propostas até 4/9/2006, os efeitos financeiros retroagem a janeiro de 1995, e, se ajuizada após esse termo, aplica-se a Súmula nº 85.
+    No caso concreto, uma vez que a ação fora ajuizada em 2010, impõe-se a observância da referida Súmula, in verbis:
+    'Nas relações jurídicas de trato sucessivo em que a fazenda pública figura como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação.'
+    Assim, como o ajuizamento ocorreu em 30/06/2010, estão prescritas as parcelas anteriores a 30/06/2005.
+    (…)
+    A jurisprudência do STJ e desta Corte é no sentido de que devem ser compensados os valores eventualmente já pagos à demandante, por força do reenquadramento ou reestruturação da carreira, o que deverá ser observado por ocasião da liquidação de sentença.
+    (…)
+    Ainda, quanto ao reajuste de 3,17%, tratando-se de servidor (instituidor da pensão) ocupante da carreira de servidores Técnicos-Administrativos, faz jus, pois, à incidência do reajuste até o momento temporal de implantação da reestruturação ocorrida com o advento da MP 2.150-39, de 31-5-2001.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Medidas Provisórias nº 1.704-/98; 2.225/01 e 2.150-39/01). Desse modo, resta demonstrado a não ocorrência de ofensa constitucional direta, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDORES PÚBLICOS. REAJUSTE DE 3,17%. EXECUÇÃO. PRESCRIÇÃO. INTERRUPÇÃO. FAZENDA PÚBLICA. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A discussão acerca da aplicação do prazo prescricional aplicado à Fazenda Pública está restrita ao âmbito infraconstitucional. 2. Agravo regimental a que se nega provimento.” (AI 859.981 AgR, de minha relatoria, Primeira Turma, DJe de 09.03.2016)
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. MILITARES. REAJUSTE DE 28,86%. PRESCRIÇÃO DECRETADA NA ORIGEM. DISCUSSÃO SOBRE EVENTUAL RENÚNCIA. DECRETO N. 20.910/1932. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 661.242-ED, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 14/3/2012)
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Por fim, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição, e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde os ora Agravantes.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 27 de setembro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
