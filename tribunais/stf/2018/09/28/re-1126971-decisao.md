@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – AUSÊNCIA — SEGUIMENTO – NEGATIVA.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 4ª Região, confirmando entendimento do Juízo, assentou não consubstanciarem ativos da sociedade os valores bloqueados, com conversão em renda, antes de deferida a recuperação judicial da empresa. No recurso extraordinário, a recorrente alega violados os artigos 5º, incisos XXII, XXXV e LIV, 93, inciso IX, 170, incisos II, III e VIII, da Constituição Federal. Aduz a contrariedade aos princípios da inafastabilidade da jurisdição, do devido processo legal, da necessária motivação das decisões judiciais, da publicidade dos atos processuais e da propriedade privada. Articula com a impossibilidade de efetividade da recuperação judicial ante a manutenção dos atos de constrição patrimonial.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência – a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência  é pacífica  a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    […]
+    No caso dos autos, o juiz da causa perfilhou esse entendimento e determinou que 'embora não haja a suspensão da execução fiscal em razão do deferimento da Recuperação Judicial da empresa executada, devem ser suspensos tão somente os atos judiciais de alienação/expropriação dos bens desta'. Contudo, indeferiu o pedido de que fosse suspensa a conversão em renda determinada no Ofício nº 4908891, porque anterior ao deferimento da Recuperação Judicial, confira-se:
+    […]
+    Como se vê, ao passo em que o bloqueio foi efetuado em 13-08-2009, com conversão em renda determinada em 20-08-2009, a recuperação judicial foi deferida apenas em 08-11- 2012. Isso quer dizer que os valores já haviam saído da disponibilidade da empresa desde a preclusão da decisão que ordenou a conversão em renda, que estava aguardando apenas ser efetivada.
+    Assim, os valores não podem ser considerados como integrantes do ativo da sociedade agravante, razão pela qual não compõem o plano de recuperação judicial. Ora, pelo fato de não serem abrangidos pelo plano de recuperação da empresa, o juízo da recuperação judicial, ao contrário do que pretende a agravante, não tem competência para decidir a respeito da constrição daqueles valores, conforme o disposto na Súmula 480 do Superior Tribunal de Justiça: O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa.
+    Portanto, no caso específico dos autos, a continuação dos atos expropriatórios apenas no que toca à efetivação da ordem de conversão em renda dos valores bloqueados não prejudicará a execução do plano de recuperação judicial.
+    […]
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 28 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
