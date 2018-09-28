@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão em que se negou seguimento ao recurso extraordinário interposto contra acórdão assim ementado:
+    "Agravo Regimental - Pedido de preferência no pagamento - Reconhecimento possível somente após a requisição de eventual saldo devedor pelo Juízo da Execução - Agravo não provido ” (pág. 15 do documento eletrônico 11).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação do art. 5°, XXXVI e LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, verifico que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, bem como quanto aos limites da coisa julgada, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguintes fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    No mais, a jurisprudência desta Corte firmou-se no sentido de que as decisões proferidas no processamento dos precatórios judiciais possuem cunho administrativo, sendo inviável o recurso extraordinário, nos termos da Súmula 733 desta Corte. Nesse sentido, menciono os seguintes precedentes:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRECATÓRIO. PROCESSAMENTO. SÚMULA 733/STF. A jurisprudência desta Corte consolidou o entendimento de que não cabe recurso extraordinário contra decisão proferida no processamento de precatórios. Incidência da Súmula 733/STF. Agravo regimental a que se nega provimento” (AI 854.380-AgR/RN, Rel. Min. Roberto Barroso, Primeira Turma, grifei).
+    “Agravo regimental em agravo de instrumento. 2. Recurso que não impugna todos os fundamentos da decisão recorrida. 3. Incidência da Súmula 287. 4. Decisão de natureza administrativa relativa ao processamento de precatórios. 5. Não cabimento de recurso extraordinário. 6. Aplicação da Súmula 733.7. Agravo regimental a que se nega provimento” (AI 734.499-AgR/CE, Rel. Min. Gilmar Mendes, Segunda Turma) .
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 28 de setembro de 2018.
+Ministro Ricardo Lewandowski
+Relator
