@@ -1,0 +1,17 @@
+DECISÃO: O presente agravo foi interposto por Gustavo Andrade de Azevedo contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região teria transgredido o preceito inscrito no art. 37, IV, da Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cabe registrar, desde logo, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contêm nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, sustentou as suas conclusões em aspectos fático-probatórios e em interpretação de cláusula de edital:
+    “(...) no presente caso, o Edital nº 02/2009 (Id. 4058200.196989) se destinou apenas a formação de cadastro de reserva para o cargo pretendido, prevendo que a convocação dos aprovados no certame obedeceria a ordem de classificação por cargo, ocupação e cidade escolhida pelo candidato, no ato de inscrição, condicionada à existência de vaga e disponibilidade orçamentária.
+    Inexistindo a abertura de vagas ou a realização de novo concurso para o cargo em questão, não há que se falar em preterição na ordem de classificação e contratação alegada pelo apelante, vez que na hipótese, o promovente foi aprovado em 3º (terceiro) lugar para concurso destinado à formação de cadastro de reserva de técnico em edificações da INFRAERO.”
+    Cumpre assinalar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 748.324-AgR-ED/RS,Rel. Min. ROSA WEBER – ARE 1.122.748-AgR-ED/PE, Rel. Min. DIAS TOFFOLI – ARE 1.125.170- -AgR/SC, Rel. Min. LUIZ FUX – RE 980.011-AgR/MG, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 28 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
