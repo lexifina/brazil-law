@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 159, de 26 de setembro de 2018
+ASSUNTO: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI EMENTA: AQUISIÇÃO DE MATERIAL DE EMBALAGEM. SUSPENSÃO DO IPI. IMPOSSIBILIDADE. ESTABELECIMENTO QUE ELABORA EXCLUSIVAMENTE PRODUTOS NÃO TRIBUTADOS. O acondicionamento de produtos por meio da colocação de embalagens de apresentação se enquadra no conceito de elaboração para fins da suspensão prevista no art. 29 da Lei nº 10.637, de 2002. Todavia, o estabelecimento que elabora exclusivamente produtos não tributados pelo IPI (NT) não é considerado estabelecimento industrial, motivo pelo qual ele não pode adquirir matérias-primas, produtos intermediários e materiais de embalagem com a suspensão do imposto de que trata o citado artigo. Dispositivos Legais: Lei nº 10.637, de 30 de dezembro de 2002, art. 29, caput e § 2º; Decreto nº 7.212, de 15 de junho de 2010, Regulamento do IPI (RIPI), arts. 4º, inciso IV, e 8º.
+.
+[arquivo anexo: SC Cosit nº 159-2018.pdf]
