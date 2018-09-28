@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado de São Paulo contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “Desapropriação – Depósito de saldo remanescente nos termos do artigo 34, parágrafo único do Decreto-lei n. 3365/41 – Possibilidade – Incerteza quanto a titularidade do bem – Norma especial que prevalece sobre o quanto estabelecido no Código de Processo Civil – Recurso desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 100 da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Decreto-Lei nº 3.365/41), o que torna incognoscível o apelo extremo.
+    Impõe-se observar, finalmente, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de legistação infraconstitucional e em aspectos fático-probatórios:
+    “De outro modo, não se desconhece todo o procedimento referente ao pagamento através do precatório judicial nos moldes estabelecidos pelo artigo 730 do Código de Processo Civil, entretanto, diante da particularidade apresentada nos autos e da dúvida existente quanto a titularidade do bem (que foi levantada pela própria agravante) gerou-se a observação a ser atendida salientando-se que o Decreto-Lei 3.365/41, por ser norma especial, prevalece sobre as disposições do Código de Processo Civil.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 28 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
