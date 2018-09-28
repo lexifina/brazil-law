@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 160, de 26 de setembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ EMENTA: LUCRO REAL. DEDUÇÃO. DOAÇÃO AOS FUNDOS DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE. PERÍODO DE APURAÇÃO. A pessoa jurídica incorporadora tributada pelo lucro real anual pode deduzir as doações efetuadas aos Fundos dos Direitos da Criança e do Adolescente, em dois períodos distintos: por ocasião do evento de incorporação sobre o imposto sobre a renda devido calculado na data desse evento; e por ocasião do encerramento do exercício social sobre o imposto sobre a renda devido referente ao período compreendido entre o evento de incorporação e o encerramento do exercício social. Dispositivos Legais: Lei nº 9.249, de 1995, arts. 21 e 35, Lei nº 9.959, de 2000, art. 5º, Lei nº 9.430, de 1996, art. 1º, IN RFB nº 1.700, de 2017, arts. 31 e 239 e IN SRF nº 267, de 2002, art. 11.
+.
+[arquivo anexo: SC Cosit nº 160-2018.pdf]
