@@ -1,0 +1,32 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Jairo de Cássio Teixeira contra acórdão que, proferido pelo E. Tribunal Regional Federal da 1ª Região, está assim ementado:
+    “PROCESSO PENAL E PENAL. APELAÇÃO CRIMINAL. FRAUDE A LICITAÇÕES. ART. 90 DA LEI Nº 8.666/93. AUTORIA E MATERIALIDADE COMPROVADAS. DOLO. DESNECESSIDADE DE COMPROVAÇÃO DO DANO. SENTENÇA CONDENATÓRIA MANTIDA. DOSIMETRIA ALTERADA. PENA-BASE MAJORADA.
+    1. No crime previsto no art. 90 da Lei nº 8.666/93, pune-se a frustração ou fraude do caráter competitivo do procedimento licitatório, mediante acordo ou qualquer outro instrumento para alcançar esse fim. É a eliminação da competição ou a promoção de uma ilusória competição entre participantes da licitação por qualquer mecanismo.
+    2. Autoria e materialidade do delito do art. 90 da Lei 8.666/90 suficientemente demonstradas. Dolo específico. Não se exige para o aperfeiçoamento do tipo que ocorra dano patrimonial à Administração Pública e a obtenção de vantagem.
+    3. Dosimetria alterada para majorar a pena-base. Culpabilidade elevada.
+    4. Apelação do réu não provida.
+    5. Apelação do MPF provida.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 5º, XLVI, da Constituição da República.
+    Cabe registrar, desde logo, que a jurisprudência do Supremo Tribunal Federal, a propósito da suposta ofensa ao art. 5º, XLVI, da Constituição, tem enfatizado que essa alegação pode configurar, quando muito, situação caracterizadora de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária:
+    “1. Embargos de declaração recebidos como agravo regimental.
+    2. Recurso extraordinário em matéria criminal: descabimento: questão relativa à individualização da pena decidida à luz da legislação ordinária pertinente: alegada violação do art. 5º, XLVI, da Constituição, que, se ocorresse, seria reflexa ou indireta: incidência do princípio da Súmula 636.
+    3. Decisão judicial: fundamentação (CF, art. 93, IX): exigência constitucional satisfeita.”
+    (AI 557.597-ED/MG, Rel. Min. SEPÚLVEDA PERTENCE – grifei)
+    A espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede – como precedentemente já enfatizado – o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO).
+    Cumpre assinalar, ainda, que não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal.
+    No caso, a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+    Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+    Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de matéria de índole penal.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal Regional Federal da 1ª Região, no julgamento da apelação, sustentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático-probatórios:
+    “A vista do relatório tem-se apelação do Ministério Público Federal e de Jairo de Cássio Teixeira contra sentença (fls. 755/760) prolatada pelo Juízo Federal da Vara Única da Subseção Judiciária de Munhaçu/MG, que condenou o réu a 02 (dois) anos e 04 (quatro) meses de detenção e 60 (sessenta) dias-multa, pela prática do crime tipificado no art. 90 da Lei 8.666/93.
+    O réu foi acusado de fraude ao caráter competitivo de procedimento licitatório realizado pela Prefeitura de Município de Caputira/MG. O Processo Licitatório nº 001/2008 teria sido mera formalidade que o acusado e outros engendraram para contratar diretamente a empresa Rogério Tavares Rodeio e Shows Ltda., ao argumento de inexigibilidade de licitação, em afronta ao art. 25, III, da Lei 8.666/93.
+    …...................................................................................................
+    Verifico que a sentença fixou para o acusado pena-base no mínimo legal de 02 (dois) anos de detenção, por considerar favoráveis todas as circunstâncias judiciais.
+    Entendo de modo diferente. A culpabilidade não é normal à espécie. Da análise dos fatos e provas dos autos, concluo que a pena deve ser fixada em patamar acima do mínimo legal, tendo em vista o grau de censurabilidade da conduta do réu, que, na qualidade de prefeito municipal, tinha o dever de zelar pela coisa pública. Os motivos, circunstâncias e consequências do crime são inerentes ao tipo penal em questão, não se constatando a existência de maus antecedentes. A conduta social e personalidade do agente não foram esclarecidas e não há que se falar em comportamento da vítima. Portanto, não havendo outras circunstâncias judiciais negativas, majoro a sanção em 1/8 (um oitavo) para de 02 (dois) anos e 03 (três) meses de detenção.
+    Inexistem circunstâncias agravantes e atenuantes a ser consideradas, sendo mantidas as penas antes fixadas.
+    Correto o aumento da pena em 1/6 (um sexto) em decorrência da continuidade delitiva (art. 71 do CP), o que resulta na pena definitiva de 02 (dois) anos 07 (sete) meses e 15 (quinze) dias de detenção, tornada definitiva nesse patamar.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 28 de setembro de 2018.
+Ministro CELSO DE MELLO
+Relator
