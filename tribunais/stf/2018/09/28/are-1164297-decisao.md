@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “SERVIDOR PÚBLICO MUNICIPAL - INATIVO - CESTA BÁSICA - BENEFÍCIO CONCEDIDO AOS APOSENTADOS DO INSS POR MERA LIBERALIDADE - REVOGAÇÃO POR LEI POSTERIOR - ADMISSIBILIDADE - AÇÃO PROCEDENTE - RECURSOS OFICIAL E DA MUNICIPALIDADE DE DRACENA PROVIDOS.” (eDOC 1, p. 101)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, caput, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, ofensa ao princípio da isonomia, na medida em que afastado o direito ao cartão alimentação do recorrente, porquanto vinculado ao regime geral de previdência.
+    Decido.
+    O recurso não merece prosperar.
+    Na hipótese, verifico que o Tribunal a quo, ao examinar a legislação local aplicável à espécie (Leis Municipais 2.868/00 e 3.649/09), consignou a pertinência da revogação do auxílio-alimentação. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Tratando-se de vantagem (cesta básica) que pela sua natureza não pode ser incorporada automaticamente ao vencimento nem é auferida na disponibilidade e na aposentadoria, e que o autor recebia por mera liberalidade do legislador municipal (art. 1º, § 1º, da Lei Municipal nº 2.868/00), deve cessar quando revogada pela Lei Municipal nº 3.649/09, que ao criar o cartão alimentação, expressamente afastou os inativos vinculados ao INSS.
+    Tudo sem nenhuma ofensa ao direito adquirido, porque a verba, por seu caráter, podia ser revogada a qualquer tempo, ou ao princípio da igualdade, posto que a situação dos aquinhoados pela Lei Municipal nº 3.649/09 é diferente.” (eDOC 1, p. 102)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CESTA BÁSICA. INSTITUIÇÃO E REVOGAÇÃO POR LEI MUNICIPAL. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. APLICAÇÃO DE PRECEDENTE DESTA CORTE PROFERIDO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. INTERPOSIÇÃO DE AGRAVO. NÃO CABIMENTO. PRECEDENTES. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 1014639 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 1º.9.2017)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público federal. Auxílio-alimentação. 3. Matéria debatida no Tribunal de origem restringe-se ao âmbito infraconstitucional. Ofensa reflexa à Constituição Federal. Súmula 280. 4. Necessidade de reexame do conjunto fático-probatório. Impossibilidade. Súmula 279. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 988560 AgR, de minha relatoria, Segunda Turma, DJe 28.4.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, § 1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 28 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
