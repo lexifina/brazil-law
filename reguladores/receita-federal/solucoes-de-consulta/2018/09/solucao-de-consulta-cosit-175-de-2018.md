@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 175, de 27 de setembro de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA – IRPJ EMENTA: ASSOCIAÇÃO SEM FINS LUCRATIVOS. DESMEMBRAMENTO DE TERRENO. VENDA DE IMÓVEIS. ATIVIDADE INCOMPATIVEL COM A NATUREZA SEM FINS LUCRATIVOS. Perde o direito à isenção tributária a associação sem fins lucrativos que exerça atos de natureza econômico-financeira, incompatível com a natureza não lucrativa da entidade, em concorrência com outras organizações que não gozam desse favor fiscal. Dispositivos Legais: Lei nº 9.532, de 1997, art. 12, § 2º, “a” a “e”, e § 3º, e arts. 13 a 15; Parecer Normativo CST nº 162, de 1974. ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO EMENTA: INEFICÁCIA. PROCEDIMENTOS. É ineficaz a consulta que descreva fato genérico ou que não identifique o dispositivo da legislação tributária cuja aplicação haja dúvida. Dispositivos Legais: Instrução Normativa nº 1.396, de 2013, art. 18, II.
+.
+[arquivo anexo: SC Cosit nº 175-2018.pdf]
