@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Mato Grosso do Sul, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA – PRELIMINARES DE IMPROPRIEDADE DA VIA ELEITA, CARÊNCIA DE AÇÃO E LEGITIMIDADE PASSIVA – AFASTADAS – SEGURADA GUARDIÃ DOS IMPETRANTES – COMPROVAÇÃO DA DEPENDÊNCIA ECONÔMICA – DIREITO AO RECEBIMENTO DA PENSÃO POR MORTE – ORDEM CONCEDIDA”. (eDOC 2, p. 99)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea b, da Constituição Federal, aponta-se violação ao art. 227, §3º, II, do texto constitucional.
+    Nas razões recursais, alega-se que o acórdão recorrido teria declarado a inconstitucionalidade do art. 16, § 2º, da Lei Federal 9.528/97, ao considerar que o menor sob guarda poderia ser reconhecido como beneficiário do regime próprio da previdência social do Estado.
+    Sustenta-se que, como cabe à lei federal instituir as normas gerais de previdência, não poderia a lei estadual acrescentar outra categoria ao rol de beneficiários nela previsto. (eDOC 4, p. 50)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Estadual 3.150/2005) e o conjunto probatório constante dos autos, consignou que os menores dependentes econômicos seriam equiparados a filhos do instituidor. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O argumento deduzido para indeferimento da concessão do benefício de pensão por morte (ausência de comprovação da dependência econômica da beneficiária) deve ser afastado, porquanto está comprovada a referida dependência, consoante a decisão que deferiu a guarda dos impetrantes para a beneficiária falecida, fl. 62/63.” (eDOC 3, p.2)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido”. (ARE 877864 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 11.6.2015)
+    “Agravo regimental em recurso extraordinário. Pensão por morte. Concessão. Regulamentação. Tempus regit actum. Manutenção. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O entendimento firmado na Corte é de que se aplica à pensão por morte a lei vigente ao tempo em que ocorrido o fato ensejador de sua concessão. 2. O Tribunal de origem, analisando a Lei Complementar estadual nº 109/97, a Lei Federal nº 9.717/98 e os fatos e as provas dos autos, concluiu que a agravada faria jus à pensão por morte. 3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame do conjunto fático-probatório da causa. Incidência das Súmulas nºs 280, 636 e 279/STF. 4. Agravo regimental não provido”. (RE 581530 AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe 8.8.2013)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de setembro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
