@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO DESPROVIDO.
+    1. Observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Proclamou-se:
+    RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SENTENÇA DE PROCEDÊNCIA PARCIAL DA AÇÃO. INCONFORMISMO DA RÉ. ACOLHIMENTO PARCIAL. SENTENÇA MANTIDA NO MÉRITO POR SEUS PRÓPRIOS FUNDAMENTOS. REFORMA APENAS QUANTO AO CÕMPUTO DA INDENIZAÇÃO POR DANO MORAL, QUE DEVERÁ REFLETIR O VALOR DE VINTE SALÁRIOS MÍNIMOS À ÉPOCA DO ARBITRAMENTO. 1. Satisfatoriamente provada a dinâmica fática do acidente que lesionou a parte autora, e atribuída a sua causa à falha de sinalização indicativa dos acessos de entrada e saída do estacionamento do hipermercado administrado pela ré, fica caracterizada a responsabilização, objetiva, da ré, que, na condição de fornecedora, fica obrigada a destinar à sua clientela um ambiente livre, seguro e adequado para circulação dos consumidores. Falhando nesse mister, como no caso, assume o risco do defeito do serviço prestado, prescindida qualquer análise de culpa. Ausência de excludente de responsabilidade, por suposta culpa exclusiva da vítima. Dever de indenizar configurado. 2. Montante indenizatório por danos materiais reconhecido em inconsonância com os dispêndios da parte autora suficientemente demonstrados e de ocorrência previsível, à vista do grau do comprometimento físico gerado pelo acidente. 3. Montante indenizatório por dano moral arbitrado com razoabilidade e proporcionalidade, atento às circunstâncias do caso. 4. Conversão da indenização de salários mínimos em moeda corrente nacional relativo ao valor obtido na data do arbitramento, ou seja, data da publicação da sentença recorrida. Recurso provido em parte.
+    2. Ante o quadro, conheço deste agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 28 de setembro de 2018.
+Ministro MARCO AURÉLIO
+Relator
