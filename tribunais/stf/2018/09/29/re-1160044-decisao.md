@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL. FUNDAÇÃO MUNICIPAL DE SAÚDE – FUMSA. NATUREZA JURÍDICA. PRERROGATIVA INERENNTES À FAZENDA PÚBLICA.
+    1. Deve a execução processar-se nos moldes do artigo 810 do CPC (730 do CPC/73), com as prerrogativas inerentes à Fazenda Pública, se a natureza dos serviços prestados pela executada é eminentemente pública, tendo relevante repercussão social, como no caso.
+    2. Natureza de direito público, reconhecida à embargante. Precedentes desta Corte.
+    3. Apelação desprovida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 100, § 1º, da CF, bem como ao art. 87 do ADCT.
+    O recurso não merece acolhida. A jurisprudência do Supremo Tribunal Federal tem estendido algumas prerrogativas da fazenda Pública a determinadas empresas estatais prestadoras de relevantes serviços públicos, como é o caso da Empresa Brasileira de Correios e Telégrafos ECT (RE 220.906, Rel. Min. Maurício Corrêa), a Empresa Brasileira de Infraestrutura Aeroportuária Infraero (ARE 987.398 AgR, Rel. Min. Dias Toffoli) e diversas companhias estaduais de saneamento básico (ACO 2.730 AgR, Rel. Min. Edson Fachin; ACO 1.460 AgR, Rel. Min. Dias Toffoli), quando não há comprovação de acúmulo ou distribuição de lucros. Nesse sentido, confiram-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário. Constitucional. Sociedade de economia mista. Regime de precatório. Possibilidade. Prestação de serviço público próprio do Estado. Natureza não concorrencial. Precedentes. 1. A jurisprudência da Suprema Corte é no sentido da aplicabilidade do regime de precatório às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. 2. A CASAL, sociedade de economia mista prestadora de serviços de abastecimento de água e saneamento no Estado do Alagoas, presta serviço público primário e em regime de exclusividade, o qual corresponde à própria atuação do estado, haja vista não visar à obtenção de lucro e deter capital social majoritariamente estatal. Precedentes. 3. Agravo regimental não provido.”(RE 852.302-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. SOCIEDADE DE ECONOMIA MISTA. EXERCÍCIO DE ATIVIDADE PÚBLICA ESSENCIAL. SUBMISSÃO AO REGIME DE PRECATÓRIOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 852.527-AgR, Relª. Min.ª Cármen Lúcia)
+    O Tribunal de origem, com base nos serviços prestados pela parte recorrida, reconheceu sua natureza pública, o que acarretou o processamento da execução fiscal por precatório. Dissentir desse entendimento exigiria o reexame de fatos e provas constantes dos autos, procedimento vedado neste momento processual nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 29 de setembro de 2018.
+Ministro LUÍS ROBERTO BARROSO
+Relator
