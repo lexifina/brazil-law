@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) e condenado às penas de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, além de pagamento de 166 dias-multa, conforme a sentença de fls. 114-120.
+A defesa interpôs apelação, alegando preliminar de nulidade e, no mérito, pleiteando a absolvição por insuficiência de provas ou a desclassificação da conduta, a fixação do regime mais brando e a substituição da pena privativa de liberdade.
+O Tribunal de origem negou provimento ao recurso defensivo, conforme o acórdão às fls. 192-210.
+Os embargos de declaração foram rejeitados (fls. 231-235).
+A defesa interpôs recurso especial por violação dos arts. 33, § 2º, "c", e 44, do Código Penal, além de divergência jurisprudencial.
+Sustenta, em síntese, que o regime fechado foi fixado com base na hediondez do delito.
+Alega que as circunstâncias judicias são favoráveis e o réu é primário, o que permite a fixação do regime aberto e a substituição da pena corporal.
+Contrarrazoado (fls. 276-297) e admitido parcialmente o recurso (fls. 307-308), manifestou-se o Ministério Público Federal pelo seu parcial provimento e pelo reconhecimento a prescrição da pretensão punitiva (fls. 327-329).
+É o relatório. Decido.
+A irresignação merece parcial provimento.
+No tocante aos artigos 33, § 2º, "c", e 44 do Código Penal, ainda que as circunstâncias judiciais tenham sido consideradas favoráveis e o recorrente seja primário, as circunstâncias em que cometido o crime e a quantidade/natureza da droga apreendida (48g de cocaína em 60 porções) justificam a segregação inicial em regime mais gravoso e o indeferimento da substituição da pena corporal.
+Todavia, embora constatada a reprovabilidade/periculosidade concreta da conduta do recorrente (fls. 208-209), considerando o quantum da pena aplicada - 1 (um) ano e 8 (oito) meses de reclusão -, o regime mais gravoso na hipótese é o semiaberto, consoante a jurisprudência desta Corte. A corroborar esse raciocínio:
+PENAL. TRÁFICO. INCIDÊNCIA DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI Nº 11.343/2006. CIRCUNSTÂNCIA QUE NÃO DESCARACTERIZA A HEDIONDEZ DO CRIME. REGIME MENOS GRAVOSO E SUBSTITUIÇÃO DE PENA. POSSIBILIDADE EM TESE. CASO CONCRETO. DELITO PRATICADO NAS PROXIMIDADES DE ESTABELECIMENTOS DE ENSINO. ORDEM CONCEDIDA, EM PARTE, APENAS PARA FIXAR O REGIME SEMIABERTO.
+1. A incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/06 não descaracteriza o caráter hediondo do crime de tráfico. Precedentes.
+2. Esta Corte, seguindo orientação do Supremo Tribunal Federal, entende possível, em tese, a substituição da privativa de liberdade por restritiva de direitos e a fixação de regime diverso do fechado, sempre tendo em conta as particularidades do caso concreto.
+3. É imperioso ter em linha de consideração os ditames norteadores do art. 42 da Lei n.º 11.343/2006, no sentido de que o juiz "na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+4. Condenado o paciente à pena de 1 ano e 8 meses de reclusão, por tráfico de 12 pinos plásticos contendo cocaína, com peso líquido de 9,5 g; 4 porções de maconha prensada, com peso líquido de 6,4 g; e 2 cigarros de maconha, com peso líquido de 0,8 g, nas proximidades de 2 estabelecimentos de ensino, não se mostra razoável a substituição da pena privativa de liberdade por restritiva de direitos, tampouco o regime aberto.
+5. Ordem concedida, em parte, ratificada a liminar, apenas para fixar o regime semiaberto para o início do cumprimento da pena reclusiva (HC 209.237/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 15.2.2012).
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. IMPOSIÇÃO DO REGIME INICIAL FECHADO E NEGATIVA DE SUBSTITUIÇÃO DAS PENAS. FUNDAMENTO COM BASE NA QUANTIDADE E NATUREZA DA DROGA APREENDIDA (128 PINOS DE COCAÍNA). FIXAÇÃO DO REGIME FECHADO. CONDENAÇÃO NÃO SUPERIOR A 4 ANOS. RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO. FUNDAMENTO CONCRETO PARA A FIXAÇÃO DO REGIME MAIS GRAVOSO - O SEMIABERTO - E NÃO O FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Nos termos do entendimento firmado pelo STJ, a natureza, a variedade e a quantidade da substância entorpecente constituem fundamento idôneo para justificar a imposição do regime mais severo e para o indeferimento da substituição das penas. Precedentes.
+3. Todavia, embora válido o fundamento para o recrudescimento do regime prisional, não se justifica a imposição do regime inicial fechado, ao réu primário, condenado à pena reclusiva não superior a 4 anos - 2 anos e 6 meses - cuja pena-base foi estabelecida no mínimo legal. Precedentes.
+4.  ..
+5. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para estabelecer o regime semiaberto para o cumprimento da pena reclusiva (HC 367.301/SP, Rel. Min. NEFI CORDEIRO, QUINTA TURMA, DJe de 17/10/2016).
+Nos termos do art. 61 do Código de Processo Penal CPP, a prescrição pode ser conhecida de ofício e em qualquer grau de jurisdição, por se tratar de causa de extinção da punibilidade.
+Assim, fixada a pena de 1 (um) ano e 8 (oito) meses de reclusão, forçoso o reconhecimento da prescrição da pretensão punitiva, tendo em vista que entre a data da publicação da sentença condenatória (9/6/2014 - fl. 120) e a presente data, transcorreu prazo superior ao previsto no art. 109, V, c.c. art. 115 do Código Penal - CP.
+Portanto, com fundamento no art. 107, IV, do CP, reconheço a prescrição da pretensão punitiva e declaro extinta a punibilidade.
+Ante o exposto, com fundamento no art. 932, inc. V, "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, dou parcial provimento ao recurso especial. De ofício, reconheço a extinção da punibilidade pela ocorrência da rescrição pretensão punitiva, nos termos acima.
+Publique-se. Intimem-se.
