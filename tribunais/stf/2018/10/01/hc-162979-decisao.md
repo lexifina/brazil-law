@@ -1,0 +1,22 @@
+DECISÃO
+HABEAS CORPUS. INDEFERIMENTO DE MEDIDA LIMINAR EM HABEAS CORPUS NO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPERVENIENTE JULGAMENTO DO HABEAS CORPUS NO SUPERIOR TRIBUNAL DE JUSTIÇA. PERDA SUPERVENIENTE DE OBJETO. HABEAS CORPUS PREJUDICADO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Vicente Simeoni Pavan e outro, advogados, em benefício de Gilson Ferreira, contra decisão do Ministro Felix Fischer, do Superior Tribunal de Justiça, que indeferiu a medida liminar requerida no Habeas Corpus n. 468.604.
+O caso
+    2. Consta dos autos ter sido recebida denúncia, em 12.9.2017, contra o paciente e outra ré pela suposta prática dos crimes previstos nos “arts. 273, § 1º – B; art. 334-A, § 1º, IV e V (contrabando); art. 334, § 1º, III (descaminho) e art. 184, § 2º, c/c arts. 29 e 69, todos do Código Penal”.
+    Em 12.9.2017, a defesa do paciente impetrou o Habeas Corpus n. 5053049-23.2017.4.04.0000, tendo a Sétima Turma do Tribunal Regional Federal da Quarta Região denegado a ordem, em julgamento realizado em 10.10.2017.
+    Em 23.4.2018, após apresentação de resposta à acusação, o juízo de primeira instância confirmou o ato de recebimento da denúncia, asseverando que, “ao tempo que foram deferidas as interceptações, o Juízo era competente, não tendo havido nada que macule as interceptações a partir das quais se angariaram elementos suficientes, por encontro fortuito de provas, para a busca e apreensão determinada por esse Juízo”.
+    Asseverou o magistrado que, “sobre nulidade da interceptação, o assunto já restou bem decidido pelo E. TRF da 4ª Região, o qual, por ocasião do HC 50530492320174040000, refutou a alegação de nulidade”.
+    3. A defesa impetrou o Habeas Corpus n. 468.604 no Superior Tribunal de Justiça alegando que “a medida de busca e apreensão que ensejou o oferecimento da denúncia é derivada de interceptação telefônica ilícita deferida pelo Juízo da Comarca de Santo Antônio da Platina/PR. Afirma que as interceptações foram autorizadas sem investigação prévia, a fim apurar crime de homicídio que não tinha relação com o paciente”. Em 10.9.2018, o Relator, Ministro Felix Fischer, indeferiu a medida liminar, afirmando que “a análise dos autos, portanto, nos limites da cognição in limine, não permite a constatação de indícios suficientes para a configuração do fumus boni iuris, não restando configurada, de plano, a flagrante ilegalidade”.
+    4. Essa decisão é o objeto do presente habeas corpus, no qual os impetrantes sustentam ter sido “iniciada ação criminal em face do paciente, com base em provas ilícitas, que não permitem contraditório”, pelo que pedem a superação da Súmula n. 691 deste Supremo Tribunal.
+    Requerem “o trancamento da ação penal n. 5006912-90.2017.4.04.7013 da 1º Vara Federal de Jacarezinho-PR”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    5. A decisão questionada é monocrática, de natureza precária e desprovida de conteúdo definitivo. O Ministro Felix Fischer, do Superior Tribunal de Justiça, indeferiu a medida liminar requerida, julgando ausentes as condições para o acolhimento do pedido, requisitou informações e determinou o encaminhamento do processo ao Ministério Público Federal, para, instruído o feito, dar-se o regular prosseguimento do habeas corpus até o julgamento, na forma pleiteada.
+    6. Consta do sítio do Superior Tribunal de Justiça que o Habeas Corpus n. 468.604 foi julgado em 25.9.2018, tendo a Quinta Turma daquele Superior Tribunal não conhecido do pedido (acórdão pendente de publicação).
+    Esse julgamento substituiu a decisão aqui questionada, pelo que há de se ter por prejudicada a presente ação.
+    Nesse sentido, entre outros, os Habeas Corpus ns. 128.101-AgR, de minha relatoria, Segunda Turma, DJe 20.4.2016; 91.838, Relator o Ministro Gilmar Mendes, DJe 12.2.2008; 92.288, Relator o Ministro Celso de Mello, DJe 17.12.2007; 90.483, Relator o Ministro Sepúlveda Pertence, DJ 2.5.2007; e 88.469-AgR, de minha relatoria, DJ 6.11.2006.
+    7. Pelo exposto, em razão das mudanças processadas no quadro fático-jurídico após a impetração, julgo prejudicado o presente habeas corpus por perda superveniente de objeto (inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal e art. 659 do Código de Processo Penal), prejudicada, por óbvio, a medida liminar requerida.
+    Publique-se.
+    Brasília, 1º de outubro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
