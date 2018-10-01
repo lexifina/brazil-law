@@ -1,0 +1,85 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. Esta Corte Superior tem entendimento pacífico no sentido de que "o agente financeiro somente tem legitimidade passiva ad causam para responder solidariamente com a seguradora, nas ações em que se pleiteia a cobertura por vícios de construção do imóvel, quando também tenha atuado na elaboração do projeto, na execução ou na fiscalização das obras do empreendimento" (AgRg no REsp 1522725/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/02/2016, DJe 22/02/2016)". Precedentes.
+1.1. No caso dos autos, o Tribunal de origem consignou que o agente financeiro contraiu o dever jurídico apenas de custear o financiamento, afastando a formação de litisconsórcio passivo necessário.
+2. Assim, o acolhimento da pretensão recursal demandaria a constatação da responsabilidade do agente financeiro - COHAPAR - pela execução da obra, o que exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em sede de recurso especial (Súmulas 5 e 7/STJ). Precedentes.
+3. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por COMPANHIA EXCELSIOR DE SEGUROS contra decisão monocrática de fls. 264/268 (e-STJ), da lavra deste signatário, a qual negou provimento ao recurso especial apresentado pela ora insurgente.
+Depreende-se da análise dos autos que o apelo nobre, interposto com com amparo na alínea "a" do permissivo constitucional, objetivava reformar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim sintetizado (fls. 166/167, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA DE INDENIZAÇÃO SECURITÁRIA - EVENTUAL INTERESSE DA CAIXA ECONÔMICA FEDERAL NA LIDE - INOCORRÊNCIA - APÓLICES VINCULADAS AO RAMO PRIVADO - MANUTENÇÃO DO FEITO NA JUSTIÇA ESTADUAL DEMAIS AUTORES - VÍCIOS DE CONSTRUÇÃO - PRETENSÃO FUNDADA NOS RISCOS COBERTOS PELO CONTRATO DE SEGURO IMOBILIÁRIO - AGENTE FINANCEIRO E/OU INTERMEDIADORA - ILEGITIMIDADE PASSIVA DA COHAPAR EVIDENCIADA - APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR À LIDE - FUNDAMENTAÇÃO DA AÇÃO EM APÓLICE DO RAMO 66 - DETERMINAÇÃO DE EMENDA DA INICIAL, DE OFÍCIO, COM FUNDAMENTAÇÃO JURÍDICA E JUNTADA DE DOCUMENTOS REFERENTES A APÓLICES DO RAMO PRIVADO - RECURSO CONHECIDO E IMPROVIDO, COM DETERMINAÇÃO DE OFÍCIO PARA QUE OS AGRAVADOS EMENDEM A INICIAL E JUNTEM CÓPIA DA ADEQUADA APÓLICE DO RAMO PRIVADO.
+Opostos embargos declaratórios, foram estes rejeitados, nos termos do aresto de fls. 205/218, (e-STJ).
+Nas razões do recurso especial (fls. 221/231, e-STJ), a recorrente apontou ofensa ao art. 47, do CPC/73. Sustentou, em suma, a obrigatoriedade da formação de litisconsórcio passivo necessário com o agente financeiro, nas ações que versem sobre vícios no imóvel adquirido pelo Sistema Financeiro da Habitação.
+Sem contrarrazões (certidão de fl. 241, e-STJ).
+Após decisão de admissão do recurso especial (fls. 243/244, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Instado, o Ministério Público Federal opinou pelo desprovimento do apelo nobre, em parecer assim ementado (fls. 258/262, e-STJ):
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA SECURITÁRIA. SUPOSTA VIOLAÇÃO DO ART. 47 DO CPC/73. AGENTE FINANCEIRO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. DESNECESSIDADE. SÚMULAS 5 E 7/STJ. PARECER PELO DESPROVIMENTO DO RECURSO ESPECIAL.
+1. Não há que se falar em integração da COHAPAR no feito, uma vez que o agente financeiro ou habitacional não tem responsabilidade por cobertura securitária, que é exclusiva das companhias seguradoras.
+2. Consoante a jurisprudência dessa e. Corte Superior de Justiça, "o agente financeiro somente tem legitimidade passiva "ad causam" para responder solidariamente com a seguradora, nas ações em que se pleiteia a cobertura por vícios de construção do imóvel, quando também tenha atuado na elaboração do projeto, na execução ou na fiscalização das obras do empreendimento".
+3. Ademais, acolher os argumentos deduzidos nas razões do apelo especial exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em sede de recurso especial (Súmulas 5 e 7/STJ).
+4. Parecer por que não seja provido o recurso especial.
+Por decisão monocrática (fls. 264/268, e-STJ), este signatário negou provimento ao recurso especial, com fundamento nos enunciados contidos nas Súmulas 05 e 07/STJ. Conforme decidido, para superar as premissas sobre as quais se apoiou a Corte de origem, a fim de aferir a responsabilidade do agente financeiro - COHAPAR - pela execução da obra, mister seria o revolvimento dos elementos de prova insertos nos autos, hipótese vedada na presente esfera recursal, ante os óbices acima referidos.
+Irresignada, interpõe a seguradora insurgente o presente agravo interno (fls. 273/278, e-STJ), oportunidade em que refuta a incidência dos referidos verbetes sumulares.
+ pugnando pela reforma da decisão singular, sob o argumento de que são inaplicáveis à espécie as Súmulas 5 e 7/STJ.
+Sem impugnação, conforme certidão à fl. 380.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. Esta Corte Superior tem entendimento pacífico no sentido de que "o agente financeiro somente tem legitimidade passiva ad causam para responder solidariamente com a seguradora, nas ações em que se pleiteia a cobertura por vícios de construção do imóvel, quando também tenha atuado na elaboração do projeto, na execução ou na fiscalização das obras do empreendimento" (AgRg no REsp 1522725/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/02/2016, DJe 22/02/2016)". Precedentes.
+1.1. No caso dos autos, o Tribunal de origem consignou que o agente financeiro contraiu o dever jurídico apenas de custear o financiamento, afastando a formação de litisconsórcio passivo necessário.
+2. Assim, o acolhimento da pretensão recursal demandaria a constatação da responsabilidade do agente financeiro - COHAPAR - pela execução da obra, o que exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em sede de recurso especial (Súmulas 5 e 7/STJ). Precedentes.
+3. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela insurgente são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Conforme destacado no decisum recorrido, esta Corte Superior de Justiça tem entendimento pacífico no sentido de que "o agente financeiro somente tem legitimidade passiva ad causam para responder solidariamente com a seguradora, nas ações em que se pleiteia a cobertura por vícios de construção do imóvel, quando também tenha atuado na elaboração do projeto, na execução ou na fiscalização das obras do empreendimento" (AgRg no REsp 1522725/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/02/2016, DJe 22/02/2016)".
+Nesse sentido, os seguintes precedentes:
+AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. LEGITIMIDADE PASSIVA DO AGENTE FINANCEIRO. ATUAÇÃO OU NÃO NO PROJETO DE EXECUÇÃO OU FISCALIZAÇÃO DO EMPREENDIMENTO. NÃO EXAME PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 07/STJ.
+1. Nas ações em que se discute acerca da indenização decorrente de vícios de construção de imóvel adquirido pelo Sistema Financeiro de Habitação, o agente financeiro somente terá legitimidade passiva ad causam quando tenha atuado no projeto de execução ou fiscalização do empreendimento.
+2. Não tendo o Tribunal de origem discutido acerca da atuação ou não do agente financeiro no projeto de execução ou fiscalização do empreendimento, impossível o examine da questão em recurso especial, ante o óbice sumula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1587794/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/04/2017, DJe 18/04/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO CPC/73. VÍCIO DE CONSTRUÇÃO EM IMÓVEL. RESPONSABILIDADE SOLIDÁRIA ENTRE SEGURADORA E AGENTE FINANCEIRO. MATÉRIA FÁTICA. SUMULA Nº 7 DO STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O agente financeiro somente tem legitimidade passiva ad causam para responder solidariamente com a seguradora, nas ações em que se pleiteia a cobertura por vícios de construção do imóvel, quando também tenha atuado na elaboração do projeto, na execução ou na fiscalização das obras do empreendimento (AgRg no REsp 1.522.725/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 22/2/2016). Precedentes.
+3. Na hipótese, como o acórdão recorrido não indicou nenhuma dessas circunstâncias fáticas, não é possível reconhecer a existência de solidariedade, a teor da Súmula nº 7 do STJ.
+ 4. Agravo regimental não provido.
+(AgRg no REsp 1566012/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/06/2016, DJe 01/07/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. VÍCIOS NA CONSTRUÇÃO. SEGURADORA. INCLUSÃO DO AGENTE FINANCEIRO COMO LITISCONSÓRCIO. SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Nos casos de vícios de construção de imóvel adquirido pelo Sistema Financeiro de Habitação, o agente financeiro somente terá legitimidade passiva ad causam quando também tenha atuado no projeto, na execução ou na fiscalização do empreendimento.
+2. Na hipótese, o acórdão recorrido não tratou da atuação ou não do agente financeiro no projeto, na execução ou na fiscalização do empreendimento, não sendo possível examiná-la em recurso especial, consoante o disposto na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 962.219/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/12/2016, DJe 19/12/2016)
+No caso em análise, assim se pronunciou o Tribunal a quo acerca da legitimidade do agente financeiro para figurar no polo passivo da ação indenizatória objeto da presente demanda (fls. 175/177, e-STJ):
+ Em que pesem às alegações da Seguradora Agravante de que o contrato de seguro imobiliário firmado pelos mutuários e o contrato de construção são coligados, a COHAPAR e a "Família Paulista Crédito Imobiliário S/A" não podem ser demandados a ressarcir como se seguradora fossem, com base em responsabilidade securitária.
+ Note-se que não se está a discutir se o agente financeiro e/ou a Companhia de Habitação devem ou não ser compelidos a arcar com o pagamento de eventuais vícios construtivos verificados no imóvel. Afirma-se que são ambos partes ilegítimas para responder a ações securitárias. Apenas seriam partes passivas legítimas se a lide tratasse de responsabilidade embasada no próprio contrato de construção e/ou de compra e venda. Ainda assim, integrariam a lide como intermediadores ou como financiadores, e não como construtores. Este, porém, não é o caso dos autos.
+ O que não se admite é que, ao buscar indenização securitária, o segurado proponha ação contra a Companhia de Habitação, construtora e/ou agente financeiro, que não pode responder pelo pagamento do valor de cobertura do seguro contratado, visto cuidar-se de relação direta entre o mutuário e a seguradora, configurando obrigação própria desta.
+ (..)
+ Considerando que a controvérsia em exame gravita em torno da cobertura securitária em virtude de danos construtivos, não há que se falar em legitimidade passiva da Companhia de Habitação, vez que não há, nos autos, qualquer discussão acerca de eventual dever da Companhia de Habitação ou do agente financeiro derivado de contrato de compra e venda eventualmente firmado entre eles e os mutuários.
+Portanto, uma vez consignado pelo Tribunal de origem que o agente financeiro contraiu dever jurídico apenas de custear o financiamento, tem-se por afastada a formação de litisconsórcio passivo necessário.
+2. Ademais, para o acolhimento da pretensão recursal, a fim de se reconhecer a responsabilidade civil do agente financeiro - COHAPAR - pela execução da obra, seria necessário o exame de provas e de cláusulas contratuais, providências vedadas em sede de recurso especial (Súmulas 5 e 7/STJ).
+Sobre o tema, confiram-se também:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. INTERESSE DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. REVISÃO. SÚMULA 7 DO STJ. AGENTE FINANCEIRO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. SÚMULAS 5 E 7/STJ. MULTA. ART. 538, PARÁGRAFO ÚNICO, DO CPC/73. MANUTENÇÃO.
+1. O acórdão recorrido alinha-se à jurisprudência desta Corte, pois a Segunda Seção do Superior Tribunal de Justiça, ao julgar os recursos sujeitos aos efeitos do artigo 543-C do CPC (repetitivos), REsp 1.091.363/SC, DJe de 25/05/2009, consolidou o entendimento no sentido de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado mediante contrato de mútuo submetido ao Sistema Financeiro da Habitação, quando não afetar o FCVS (Fundo de Compensação de Variações Salariais), sendo, portanto, da Justiça Estadual a competência para processar e julgar o feito.
+2. No caso, o Tribunal de origem consignou que os contratos discutidos na demanda não se encontram vinculados a apólices, garantidas pelo FCVS, o que afasta a competência da Justiça Federal.
+3. A análise da pretensão recursal de que o contrato foi firmado no âmbito do SFH e que há comprometimento do FCVS demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. "O agente financeiro somente tem legitimidade passiva ad causam para responder solidariamente com a seguradora, nas ações em que se pleiteia a cobertura por vícios de construção do imóvel, quando também tenha atuado na elaboração do projeto, na execução ou na fiscalização das obras do empreendimento. Precedentes" (AgRg no REsp 1522725/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/02/2016, DJe 22/02/2016).
+5. O acolhimento da pretensão recursal demandaria a constatação da responsabilidade do agente financeiro (COHAPAR) pela execução da obra, o que exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em sede de recurso especial (Súmulas 5 e 7/STJ).
+6. A aplicação da multa prevista no art. 538, parágrafo único, do CPC/73 deve ser mantida, quando a irresignação da parte for manifestamente infundada.
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1592365/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/03/2017, DJe 15/03/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. CONTRATO DE SEGURO HABITACIONAL. ILEGITIMIDADE PASSIVA DA COHAPAR. LITISCONSÓRCIO PASSIVO NECESSÁRIO. TESE REJEITADA PELO TRIBUNAL DE ORIGEM. APÓLICE QUE SE DESVINCULOU DO SFH. MIGRAÇÃO PARA CARTEIRA CASA FAMÍLIA PSH COHAPAR. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. QUESTÕES ANALISADAS PELA CORTE DE ORIGEM COM BASE NA INTERPRETAÇÃO DO CONTRATO E DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. A parte deve impugnar especificamente os fundamentos do acórdão recorrido, de modo que não há como admitir um ataque reflexo. Súmula n. 283/STF.
+2. Considerando que, na espécie, o Tribunal de origem concluiu ser parte passiva ilegítima a COHAPAR, rejeitando a sua inclusão na lide, com base nos documentos juntados aos autos, precipuamente a apólice de seguro, infirmar a compreensão alcançada, fundamentando-se nas provas dos autos, encontra óbice nos enunciados n. 5 e 7 da Súmula desta Casa.
+3. Agravo interno desprovido.
+(AgInt no REsp 1594199/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/09/2016, DJe 08/09/2016)
+3. Do exposto, nego provimento ao agravo interno. Outrossim, defiro o pedido formulado à fl. 277 (e-STJ), para que eventuais intimações e/ou publicações da parte ora recorrente sejam realizadas, exclusiva e simultaneamente, em nome dos advogados MARIA EMÍLIA GONÇALVES DE RUEDA ([OAB]) E ALEXANDRE PIGOZZI BRAVO ([OAB] E [OAB])
+É como voto.
