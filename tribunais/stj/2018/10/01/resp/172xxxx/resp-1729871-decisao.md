@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pela 4ª Câmara de Direito Privado do TJSP, assim ementado (e-STJ fl. 135):
+Agravo de instrumento. Obrigação de fazer. Interlocutória que determinou à agravante fornecesse medicamento e o tratamento necessário. Decisão mantida. Recomendação médica para utilização do medicamento denominado ERWINASE. indispensável ao controle da moléstia e prescrito após o insucesso de outro terapêutico. Negativa de cobertura sob a alegação de exclusão contratual. Contrato que não restringe a cobertura da doença. Cláusulas contratuais que devem ser interpretadas de forma mais favorável ao consumidor. Aplicação da Súmula 95 deste e. Tribunal. Agravo desprovido.
+Nas razões recursais (e-STJ fls. 252/264), a recorrente aponta violação dos arts. 10 da Lei n. 9.656/1998, 12 e 66 da Lei n. 6.360/76, 10 da Lei n. 6.437/1976 e 300 do CPC/2015, sustentando, em síntese, não estarem presentes os requisitos para o deferimento da tutela antecipada, pois o medicamento requerido pela parte autora não teria registro na ANVISA, não podendo, pois, ser custeado pela operadora de plano de saúde.
+É o relatório.
+Decido.
+Ao apreciar o caso, entendeu o Tribunal de origem estarem presentes os requisitos para a concessão da tutela antecipada, pois, além do grave estado de saúde do paciente, que tem seis anos de idade e apresenta leucemia linfoide aguda B, "é manifesta a probabilidade do direito, já que o contrato não restringe o tratamento da doença" (e-STJ fls. 136/137).
+Dessa forma, constata-se que, no acórdão recorrido, não houve manifestação quanto aos artigos apontados no recurso como supostamente violados relativos à ausência de registro do medicamento pretendido na ANS, sequer tendo havido embargos de declaração tendentes a essa manifestação. Nesses termos, o recurso não merece conhecimento, conforme a Súmula n. 282 e 356 do STF.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
