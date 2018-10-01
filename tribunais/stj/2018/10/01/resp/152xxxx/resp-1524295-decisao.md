@@ -1,0 +1,12 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. POSSIBILIDADE DA EMPRESA EM RECUPERAÇÃO SOFRER ATOS CONSTRITIVOS. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS (TEMA 987 - RESPS. 1.694.316, 1.712.484, 1.694.261). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CPC/2015.
+1. Trata-se de Recurso Especial interposto por BUETTNER S.A. INDÚSTRIA E COMÉRCIO - EM RECUPERAÇÃO JUDICIAL, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do TRF da 4a. Região, assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL MOVIDA PELA CVM. RECUPERAÇÃO JUDICIAL. LEI Nº 11.101/2005.
+1. A Lei nº 11.101/2005 prevê em seu art. 6º que o deferimento da recuperação judicial suspende as ações e execuções em face do devedor, entretanto, expressamente excepciona as execuções de natureza fiscal (§7º do art. 6º).
+2. Também, há previsão expressa na Lei de Execuções Fiscais, que no seu artigo 29, caput, prevê expressamente que a cobrança judicial da Dívida Ativa da Fazenda Pública não é sujeita a concurso de credores ou habilitação em falência, concordata, liquidação, inventário, ou arrolamento.
+3. Assim, independentemente da natureza do crédito exequendo (tributário ou não tributário), a execução fiscal não se suspende pelo deferimento da recuperação judicial (fls. 109).
+2. É o relatório.
+3. Verifica-se que a matéria discutida nos autos se encontra afetada à 1a. Seção do STJ como representativo da controvérsia e aguarda julgamento (TEMA 987 - REsps. 1.694.316, 1.712.484, 1.694.261).
+4. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do CPC/2015.
+5. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do CPC/2015.
+6. Publique-se. Intimações necessárias.
