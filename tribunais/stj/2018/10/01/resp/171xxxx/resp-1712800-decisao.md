@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e GUSTAVO YHONEY MENDEZ CUELLO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Conforme o contido nos autos, os recorrentes foram condenados às penas de 2 anos e 6 meses de reclusão, em regime aberto, e de 15 dias-multa, pelo delito de furto qualificado pela escalada e pelo concurso de agentes, tendo sido substituída a pena corporal de GUSTAVO YHONEY MENDEZ CUELLO por duas restritivas de direitos.
+A defesa interpôs apelação, à qual o Tribunal de origem, por unanimidade de votos, deu parcial provimento "para, reconhecendo a atenuante da menoridade relativa em relação ao apelante [NOME] e a privilegiadora em relação a ambos, redimensionar as penas impostas aos réus, a de [NOME] para 1 ano e 6 meses de reclusão, substituída por 2 restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária de 1 salário-mínimo, e a de Gustavo para 1 ano e 3 meses de reclusão, mantidas as demais disposições sentenciais" (e-STJ fl. 338).
+Renitente, a defesa interpôs recurso especial, apontando violação do art. 65, III, d, do Código Penal.
+Asseriu que a confissão, parcial ou total, espontânea ou não, ou até mesmo retratada, configura a atenuação da pena prevista no art. 65, III, d, do Código Penal.
+Frisou que, "embora a sentença tenha se furtado de apreciar o pedido de reconhecimento da atenuante da confissão espontânea, restou expresso que "(..) O acusado [NOME] (fls. 171/172), ao ser interrogado, admitiu parcialmente a prática delitiva, (..) No mesmo sentido, o réu GUSTAVO YHONEY MENDEZ CUELLO (fls. 173/174), por ocasião de seu interrogatório, confirmou a versão do corréu (..); sendo certo que os depoimentos prestados foram utilizados para influenciar, e talvez, até para determinar a decisão proferida, tanto em primeiro quanto em segundo grau, de modo que o acórdão exarado pela Colenda Oitava Câmara Criminal implica negativa de vigência ao art. 65, III, d, do Código Penal, de modo que o reparo do julgado é medida que se impõe" (e-STJ fl. 365).
+Requereu, assim, o reconhecimento da confissão espontânea.
+Contrarrazões às e-STJ fls. 374/379.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 406/409).
+É, em síntese, o relatório. Decido.
+O recurso deve prosperar.
+O Tribunal local, não obstante ter se valido da confissão espontânea como argumento probatório da autoria do delito, negou a redução da pena em razão de sua parcialidade. É o que se vê dos seguintes trechos do acórdão impugnado (e-STJ fls. 349/350):
+Na 2ª fase, no que diz com a pretensão defensiva de reconhecimento da atenuante da confissão espontânea, igualmente, não lhe assiste razão.
+A assunção de culpa só se erige à condição de atenuante quando for completa, ou seja, se os acusados admitirem o crime imputado na denúncia e pelo qual foram condenados em sua completude.
+Na hipótese, os denunciados, presos em flagrante, fizeram uso de seu direito de permanecer e silêncio na inquisitorial (fls. 27/28) e, em pretório, admitiram, tão somente, a subtração dos bens, negando, contudo, a qualificadora da escalada (fls. 171/174).
+Seus relatos, desse modo, não podem ser erigidos à condição de atenuante da confissão espontânea, a ensejar a diminuição das penas, porquanto parciais. (grifei)
+Ao decidir nesses termos, a Corte local afrontou a jurisprudência deste Tribunal Superior, sedimentada no enunciado da Súmula n. 545 - "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal" -, pois a confissão espontânea, ainda que parcial, deve implicar redução da pena sempre que tiver sido declinada para o fim de corroborar a autoria do crime.
+A propósito:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO TENTADO. VIOLAÇÃO DOS ARTS. 65, III, D, E 67, AMBOS DO CP. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E PARCIAL. UTILIZAÇÃO COMO SUPORTE DA CONDENAÇÃO. ATENUAÇÃO OBRIGATÓRIA. OMISSÃO. VERIFICAÇÃO. NÃO OCORRÊNCIA.
+1. Tanto na sentença condenatória, como no combatido aresto, foi reconhecida a confissão parcial do embargado. O não reconhecimento da atenuante da confissão espontânea revela-se em dissonância com a jurisprudência do Superior Tribunal de Justiça.
+2. Nos casos em que a confissão do acusado servir como um dos fundamentos para a condenação, deve ser aplicada a atenuante em questão, pouco importando se a confissão foi espontânea ou não, se foi total ou parcial, ou mesmo se foi realizada só na fase policial, com posterior retratação em juízo.
+3. A jurisprudência desta Corte firmou-se no sentido de que a confissão, ainda que parcial, ou mesmo qualificada - em que o agente admite a autoria dos fatos, alegando, porém, ter agido sob o pálio de excludentes de ilicitude ou de culpabilidade -, deve ser reconhecida e considerada para fins de atenuar a pena. Precedentes. HC n. 350.956/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/8/2016).
+4. Embargos de declaração rejeitados. (EDcl no AgRg no REsp 1710957/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/05/2018, DJe 06/06/2018, grifei)
+PENAL. ROUBO CIRCUNSTANCIADO (ART. 157, § 1º, e § 2º, I DO CP). DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES. REINCIDÊNCIA. PACIENTE MULTIRREINCIDENTE. BIS IN IDEM. NÃO OCORRÊNCIA. PLEITO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. RÉU QUE ADMITIU A SUBTRAÇÃO, MAS NÃO A GRAVE AMEAÇA OU VIOLÊNCIA. CONFISSÃO PARCIAL CONFIGURADA. CRIME COMPLEXO. SUBTRAÇÃO (FURTO) ASSOCIADA A OUTRA FIGURA TÍPICA (CONSTRANGIMENTO, AMEAÇA OU VIOLÊNCIA). COMPENSAÇÃO INTEGRAL DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. PACIENTE MULTIRREINCIDENTE ESPECÍFICO. COMPENSAÇÃO PARCIAL. POSSIBILIDADE. ORDEM CONCEDIDA EM PARTE.
+ ..
+2. A jurisprudência desta Corte firmou-se no sentido da incidência da atenuante da confissão espontânea, prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial - em que o réu admite parte dos fatos a ele imputados - deve ser considerada para atenuar a pena, ou mesmo que tenha havido retratação, bastando que tenha servido para embasar a condenação. Precedentes.
+3. Embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial.
+ ..
+6. Ordem parcialmente concedida para reduzir a reprimenda do paciente a 8 anos e 4 meses de reclusão e 20 dias-multa. (HC 396.503/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017, grifei)
+Dessa forma, passo à nova individualização das penas impostas aos recorrentes.
+Recorrente MARCO ANTONIO [NOME] CASTRO
+A pena-base fica mantida em 2 anos e 6 meses de reclusão (e-STJ fl. 349).
+Na segunda fase, o Tribunal de origem reconheceu a atenuante da menoridade relativa e minorou a pena em 3 meses (e-STJ fl. 350). Reconhecida, por esta Corte, a confissão espontânea, a sanção fica reduzida em mais 3 meses, totalizando 2 anos de reclusão.
+Na terceira fase, fica mantida a redução de 1/3 por força do reconhecimento da figura do furto privilegiado (e-STJ fls. 350/351), resultando na estabilização da reprimenda em 1 ano e 4 meses de reclusão, em regime aberto, e 12 dias-multa, mantido, no mais, o acórdão recorrido (e-STJ fls. 351/352).
+Recorrente GUSTAVO YHONEY MENDEZ CUELLO
+A sanção-base fica mantida em 2 anos e 6 meses de reclusão (e-STJ fl. 349).
+Na segunda fase, a pena fica reduzida em 3 meses pelo reconhecimento da confissão espontânea nesta Corte, perfazendo o montante de 2 anos e 3 meses de reclusão.
+Por fim, fica mantida a redução de 1/2 por força do reconhecimento da figura do furto privilegiado (e-STJ fls. 350/351), resultando na estabilização da reprimenda em 1 ano, 1 mês e 15 dias de reclusão, em regime aberto, e 11 dias-multa, mantido, no mais, o acórdão recorrido (e-STJ fls. 351/352)
+Ante o exposto, dou parcial provimento ao recurso para reconhecer a confissão espontânea e readequar as penas dos recorrentes nos termos acima delineados.
+Publique-se. Intimem-se.
