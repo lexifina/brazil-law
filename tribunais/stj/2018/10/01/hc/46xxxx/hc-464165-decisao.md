@@ -1,0 +1,20 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 990.10.254264-5 e HC n. 0012708-58.2018.8.26.0000).
+Em impetração de próprio punho, aponta a ilegalidade decorrente do não conhecimento do HC n. 0012708-58.2018.8.26.0000, em virtude de "não ser advogado" (fl. 2). Se insurge contra o regime inicial fechado, mantido em grau de apelação, para o cumprimento da pena de 5 anos e 4 meses de reclusão, em desconformidade com o "art. 33, § 2º, "b", do CP" (fl. 2).
+Requer a correção do regime prisional e a correção dos cálculos penais, para "progredir ao regime aberto" (fl. 23-24).
+Decido.
+Consta dos autos que o réu foi condenado pela prática dos delitos previstos nos arts. 157, § 2º, I, II e V e 288, na forma do art. 69, todos do Código Penal, à pena de 6 anos e 4 meses de reclusão, em regime fechado, mais multa.
+O Juízo monocrático, no que foi corroborado pela Corte estadual, fixou o regime fechado, "diante do caso concreto, roubo, em concurso de agentes, com emprego de arma de fogo e com restrição de liberdade das vítimas por tempo juridicamente relevante" (fl. 52).
+Quanto à pretensão de fixação do regime semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Diante da fundamentação oferecida pela instância de origem, não verifico a apontada ilegalidade na fixação do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, a prática do crime em concurso com mais cinco agentes, bem como a restrição de liberdade das vítimas por, aproximadamente, 3h e 30min -, ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP).
+Ilustrativamente:
+ ..
+1. Fixada a quantidade da sanção devida a quem, comprovadamente, violou a norma penal, compete ao juízo natural da causa indicar, de maneira motivada e com base nos dados concretos dos autos, qual o regime inicial adequado para o cumprimento da reprimenda, não sendo possível coarctar-lhe a consideração de fatores que, associados e complementares à dogmática penal, indiquem como necessária, para o alcance dos fins da pena, a imposição de regime mais gravoso do que indicaria a mera correspondência da quantidade da pena à previsão legal.
+2. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, concurso de três agentes e emprego de uma arma de fogo, que foi utilizada nos dois roubos praticados pelos réus .
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 666.933/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/6/2016, grifei)
+Logo, em que pese a insurgência ora deduzida, noto que a fundamentação apresentada demonstra, ineludivelmente, a maior gravidade do comportamento ilícito, o que justifica, de maneira idônea, a fixação do regime fechado.
+No tocante à progressão de regime e aos demais pedidos relativos à execução penal, noto que o writ requerido ao Tribunal de Justiça deixou de ser conhecido porque tais matérias não haviam sido analisadas pelo Juízo da VEC, o que impede a apreciação das questões diretamente por esta Corte Superior, sob pena de, assim o fazendo, incidir na inadmissível supressão de instância.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
