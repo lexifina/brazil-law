@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – NEGATIVA DE SEGUIMENTO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à condenação do Estado ao pagamento do terço de férias. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 29, incisos VI e VII, 29-A, cabeça e § 1º, da Constituição Federal. Aponta a inexistência de norma a autorizar o pagamento da verba. Ressalta a necessidade de observância aos limites referentes à despesa do Legislativo municipal e subsídio dos vereadores.
+    2. O recurso extraordinário direciona ao atendimento cumulativo dos requisitos gerais de recorribilidade – adequação, oportunidade, interesse de agir, representação processual e preparo – e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua do Tribunal, qual seja, a guarda da supremacia da Constituição Federal.
+    Quanto ao pressuposto específico, quase sempre retratado na alínea “a” do inciso III do artigo 102 da Lei Fundamental – violência a dispositivo nela inserto –, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão de texto do Diploma Maior mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Daí o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado pela parte recorrente, descabe assentar o enquadramento deste no permissivo constitucional.
+    No caso, o sustentado no extraordinário não foi enfrentado pelo Órgão julgador. Padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo. Verifica-se a não interposição de embargos declaratórios, ficando afastada a possibilidade de concluir-se pela ofensa ao artigo 93, inciso IX, da Carta de 1988.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
