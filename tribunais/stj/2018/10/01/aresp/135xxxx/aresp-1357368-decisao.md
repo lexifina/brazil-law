@@ -1,0 +1,29 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+TRÁFICO DE ENTORPECENTES - Materialidade e autoria demonstradas. Confissão judicial de Lucas corroborada pelos depoimentos dos guardas municipais, tudo em harmonia com o conjunto probatório. Negativa de Adilson isolada Apreensão de razoável quantidade e variedade de drogas (75 porções de cocaína, na forma de crack, com peso líquido de 15,82 gramas; e 13 porções de maconha, com peso líquido de 16,52 gramas), além de dinheiro Condenação mantida.
+RECEPTAÇÃO DOLOSA - Configuração. Autoria e materialidade comprovadas. Prova segura do conhecimento da origem ilícita do bem Condenação mantida.
+PENAS e REGIME DE CUMPRIMENTO - Bases acima dos mínimos para o tráfico (1/4). Redução aos patamares. Natureza das drogas que, em cotejo com a quantidade apreendida (não exorbitante), não recomenda a exasperação Penas-base nos mínimos (receptação) Confissão de Lucas inócua. Súmula nº 231 do STJ Exclusão do redutor do §4º do artigo 33 da Lei nº 11.343/06. Envolvimento com atividades criminosas Regime inicial fechado para o tráfico Regime inicial aberto para a receptação Apelo ministerial provido para cassar o redutor e, por consequência, elevar as penas do crime de tráfico. (e-STJ fl. 488)
+Aponta a defesa violação do art. 33, § 4º, da Lei n. 11.343/2006 alegando, em síntese, que os recorrentes preenchem os requisitos para o reconhecimento do tráfico privilegiado, sobretudo porque as circunstâncias judiciais lhes são favoráveis e não há evidências de que se dediquem a atividade ilícita. Pede o restabelecimento da sentença de primeira instância.
+Contrarrazões às e-STJ fls. 527/533.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 584/587.
+É o relatório. Decido.
+A irresignação merece prosperar.
+Os elementos existentes nos autos noticiam que o Tribunal de Justiça de São Paulo deu provimento ao apelo ministerial para afastar o redutor previsto no art. 33, § 4º, da Lei de Drogas e redimensionou a pena dos recorrentes relativamente ao crime de tráfico de entorpecentes para 5 (cinco) anos de reclusão.
+Em relação à redutora do art. 33, § 4º, da Lei n. 11.343/2006, a sua aplicação demanda o preenchimento de quatro requisitos cumulativos, quais sejam, primariedade, bons antecedentes, não se dedicar a atividades criminosas ou integrar organização criminosa.
+No caso dos autos, as instâncias ordinárias não aplicaram a minorante ao entendimento de que a quantidade da droga apreendida é incompatível com a condição de pequeno traficante que a Lei de Drogas procura beneficiar.
+Contudo, o fundamento não deve prevalecer, tendo em vista que a quantidade da droga - 75 porções de cocaína, na forma de crack, com peso de 15,82 gramas; e 13 porções de maconha, com peso de 16,52 gramas - não se mostra exorbitante para justificar, de forma isolada, o afastamento da benesse.
+A propósito:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. FUNDAMENTAÇÃO INIDÔNEA. PEQUENA QUANTIDADE DA DROGA APREENDIDA. APLICAÇÃO NA FRAÇÃO DE 1/3 (UM TERÇO). CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Para a incidência do redutor previsto no § 4º do art. 33 da Lei 11.343/06, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; e d) não integre organização criminosa.
+2. Em razão da natureza da droga apreendida, torna-se inviável a incidência da causa de diminuição em seu patamar máximo, mostrando-se razoável e proporcional ao caso concreto a aplicação da benesse na fração de 1/3 (um terço).
+(..)
+2. Habeas corpus não conhecido. Ordem concedida de ofício a fim de reduzir a pena para 3 (três) anos e 4 (quatro) meses de reclusão e multa, alterar o regime inicial para o aberto e determinar a substituição da pena privativa de liberdade por duas restritivas de direito, a serem designadas pelo Juiz Criminal competente. (HC 407.857/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/09/2017, DJe 27/09/2017)
+Nesse panorama, viável o restabelecimento da sentença de e-STJ fls. 379/385 que aplicou o referido redutor em fração intermediária. Nesse sentido, também já decidiu esta Corte:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. NEGATIVA DE APLICAÇÃO. FUNDAMENTAÇÃO INIDÔNEA. PREENCHIMENTO DOS REQUISITOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O § 4º do art. 33 da Lei n.º 11.343/06 dispõe que as penas poderão ser reduzidas de um sexto a dois terços, desde que: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+2. Atendidos os pressupostos legais à aplicação do benefício, imperiosa a mitigação da pena nos termos do supracitado dispositivo legal.
+3. Assim, tendo em vista a favorabilidade das circunstâncias judiciais e a quantidade de droga apreendida, mostra-se razoável e proporcional ao caso a redução da reprimenda em 1/2 (metade).
+4. Habeas Corpus não conhecido. Ordem concedida de ofício a fim de redimensionar a pena para 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial aberto, e 250 dias-multa. (HC 368.154/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 17/04/2017)
+
+Ante o exposto, com amparo no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo e dou provimento ao recurso especial para restabelecer a sentença de e-STJ fls. 379/385.
+Publique-se. Intimem-se.
