@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DA 4ª VARA DO TRABALHO DE BETIM/MG, o suscitante, e o JUÍZO DE DIREITO DA 1ª VARA DE BETIM/MG, o suscitado.
+Consta dos autos que foi proposta ação ordinária de cobrança por [NOME], contratado sem concurso, em 1º/12/1997, para exercer de técnico de enfermagem - de acordo com registro em CTPS -, alegando que, no período de janeiro de 2008 até a dispensa definitiva, em 15/06/2011, seu salário pago como registro como trabalho autônomo. Requer adicional de insalubridade, FGTS não depositado e demais verbas.
+A ação foi distribuída à Justiça comum, que, declinando da competência (e-STJ fl. 155), encaminhou os autos à Justiça especializada que, por sua vez, suscitou o presente conflito (e-STJ fl. 211).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo do Trabalho da 4ª Vara de Betim, o suscintante (e-STJ fls. 224/226).
+Passo a decidir.
+Nos termos do art. 955, parágrafo único, incisos I e II, do novo Código de Processo Civil, o relator poderá julgar de plano o conflito de competência quando sua decisão se fundar em súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou em tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência.
+Por sua vez, a Corte Especial deste Tribunal editou a Súmula 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável, por analogia, ao caso em concreto.
+Feito o registro, penso que não assiste razão ao suscitante.
+Considerado isso, o Supremo Tribunal Federal, quando do julgamento da ADI n. 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC n. 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6.527 AgR-segundo, Relator Min. LUIZ FUX, Primeira Turma, DJe 16/10/2015, Rcl 7.857 AgR/CE, Rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando esse posicionamento, esta Corte tem entendido que "a relação válida ou nula entre os entes municipais e seus agentes é, em regra, de natureza jurídico-administrativa, fixando a competência da Justiça Comum para solver as controvérsias decorrentes dessa avença" (AgRg no CC 139.456/RN, Rel. Ministro SÉRGIO KUKINA, Primeira Seção, julgado em 13/05/2015, DJe 19/05/2015).
+No caso, no entanto, a contratação do reclamante observou o regime celetista, conforme demonstram as cópias juntadas aos autos da CTPS (e-STJ fl. 17), o que acaba por atrair a competência da Justiça Laboral para apreciar a demanda.
+Nesse sentido, as decisões monocráticas proferidas em situações análogas: CC 143.103/SP, Relator Ministro HUMBERTO MARTINS, DJe 15/10/2015; CC 151.370/SP, Relator BENEDITO GONÇALVES, DJe 07/06/2017.
+Ante o exposto, com arrimo no art. 955, parágrafo único, I, do CPC/2015, CONHEÇO do conflito para declarar a competência do JUÍZO DA 4ª VARA DO TRABALHO DE BETIM/MG, o suscitante.
+Publique-se. Intimem-se.
