@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. VANTAGEM PECUNIÁRIA INDIVIDUAL: LEIS NS. 10.697/2003 E 10.698/2003. ALEGADA OCORRÊNCIA DE REVISÃO GERAL ANUAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Turma Recursal dos Juizados Especiais Federais:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. REMUNERAÇÃO. ALTERAÇÃO DA LEI 10.697/2003: NATUREZA DE REVISÃO GERAL ANUAL. VPI DA LEI 10.698/2003: NATUREZA DE REAJUSTE. VEDAÇÃO DE REAJUSTE SALARIAL PELO JUDICIÁRIO. IMPOSSIBILIDADE DE EXTENSÃO DO MAIOR IMPACTO PROPORCIONAL DA VPI (13,23%) A TODOS OS SERVIDORES. SV 37. PRECEDENTES DO STJ, TNU E STF. PROVIMENTO DO RECURSO” (doc. 5).
+    2. No recurso extraordinário a agravante alega ter a Turma Recursal contrariado os incs. LIV e LV do art. 5º, o inc. XXX do art. 7º e o inc. X do art. 37 da Constituição da República (doc. 4).
+    3. O recurso extraordinário foi inadmitido ao fundamento de harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal (doc. 3).
+    A agravante sustenta o direito de ter incorporado aos vencimentos o reajuste de 13,23% das Leis ns. 10.697/2003 e 10.698/2003, pelas quais promovida revisão geral anual da remuneração dos servidores em índices diferenciados.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à agravante.
+    5. No julgamento eletrônico do Recurso Extraordinário n. 800.721, Relator o Ministro Teori Zavascki, este Supremo Tribunal assentou inexistir repercussão geral da matéria controvertida na espécie:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. LEI 10.698/03. CONCESSÃO DE ‘VANTAGEM PECUNIÁRIA INDIVIDUAL’. OFENSA AO ART. 37, X, DA CF. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à incorporação, a vencimento de servidor, do reajuste de 13,23% sobre sua remuneração é de natureza infraconstitucional, já que decidida pelo Tribunal de origem com base nas Leis 10.697/03 e 10.698/03, não havendo, portanto, matéria constitucional a ser analisada. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC” (DJe 29.4.2014).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações da agravante.
+    6. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de outubro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
