@@ -1,0 +1,112 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. SUSPENSÃO DO PRAZO PRESCRICIONAL. ART. 200 DO CC/2002. DECISÃO MANTIDA.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 349/358) interposto contra decisão desta relatoria que não conheceu do recurso especial.
+Em suas razões, a agravante sustenta não ser necessário o reexame de fatos e provas para se verificar a aplicabilidade do CDC ao caso concreto.
+Afirma que comprovou a existência de dissídio jurisprudencial.
+Alega não existir relação de prejudicialidade entre as esferas cível e penal, motivo pelo qual não há falar em suspensão do início do prazo prescricional.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo colegiado.
+As agravadas apresentaram contrarrazões (e-STJ fls. 362/366).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. SUSPENSÃO DO PRAZO PRESCRICIONAL. ART. 200 DO CC/2002. DECISÃO MANTIDA.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno a que se nega provimento.
+
+AgInt no RECURSO ESPECIAL Nº 1.692.604 - SP (2017/0205768-5)
+
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+[NOME]
+ADVOGADOS
+:
+[NOME] - [OAB]
+
+ALEX CARLOS CAPURA DE ARAUJO - [OAB]
+AGRAVADO
+:
+[NOME]
+AGRAVADO
+:
+[NOME]
+AGRAVADO
+:
+[NOME]
+ADVOGADO
+:
+[NOME] E [NOME] - [OAB]
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 342/345):
+Trata-se de recurso especial, interposto pela DIA BRASIL SOCIEDADE LIMITADA, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão assim ementado (e-STJ fl. 157):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS REFLEXOS - Decisão reconheceu a prescrição trienal em relação às autoras maiores e capazes - Inconformismo - Acolhimento - Pretensão fundada em relação de consumo - Incidência do prazo prescricional quinquenal previsto no 27 do Código de Defesa do Consumidor - Fato delituoso apurado no juízo criminal - Prazo prescricional que só começa a fluir a partir do trânsito em julgado da sentença penal - Inteligência do art. 200 do Código Civil - Julgado do Colendo Superior Tribunal de Justiça - Prescrição afastada - Decisão reformada - Recurso provido.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fl.176).
+Em suas razões recursais (e-STJ fls.182/206), a recorrente alega violação do art. 17 do CDC, pretendendo afastar a equiparação das recorridas a consumidoras. Além disso, aponta ofensa aos arts. 200 e 206, §3º, do CC/2002, sustentando ser trienal o prazo de prescrição da ação indenizatória, cujo termo inicial seria a data do evento danoso.
+Foram apresentadas contrarrazões (e-STJ fls. 270/276).
+É o relatório.
+Decido.
+O presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual serão adotados os requisitos de admissibilidade recursal nele previstos, nos termos do Enunciado Administrativo n. 3 do Superior Tribunal de justiça.
+No tocante à alegada tese de impossibilidade de equiparação das agravadas a consumidoras, a Corte local decidiu que (e-STJ fls. 158/159):
+Sobre o consumidor por equiparação,
+Pois bem, examinando-se a questão sub judice, afigura-se insofismável a relação de consumo, pois o evento danoso, cuja reparação se objetiva, ocorreu na saída das dependências da agravante, fornecedora de produtos. Por sua vez, os agravantes, parentes da vítima e que com esta residem, são considerados consumidores por equiparação, nos termos do art. 17, do Código de Defesa do Consumidor. Aliás, a nobre julgadora confirmou que se trata de "pretensão fundada em relação de consumo" (v. fls. 113).
+Com efeito, a decisão da Corte de origem encontra-se em harmonia com a jurisprudência desta Corte Superior, a qual firmou o entendimento de ficarem sob a proteção do Código de Defesa do Consumidor aqueles que, embora não tenham participado diretamente da relação de consumo, sejam vítimas de evento danoso decorrente dessa relação.
+Sob esse aspecto:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ARTS. 535 E 557, §1º-A, DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. DANOS MORAIS. SERVIÇO MÉDICO. FALHA. [NOME]. ART. 17 DO CDC. CONSUMIDOR POR EQUIPARAÇÃO. REEXAME CÔNJUGE DA VÍTIMA. FÁTICO-PROBATÓRIOS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Consoante a jurisprudência desta Corte Superior, o art. 17 do Código de Defesa do Consumidor prevê a figura do consumidor por equiparação, sujeitando à proteção desse dispositivo legal todos aqueles que, embora não tendo participado diretamente da relação de consumo, sejam vítimas de evento danoso resultante dessa relação.
+2. A conclusão da Corte local a respeito da condição de consumidor por equiparação do coautor da presente demanda indenizatória, por resultar da apreciação das circunstâncias fático-probatórias do caso, não pode ser reexaminada na via do recurso especial em virtude da inarredável incidência da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.600.383/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4/5/2017, DJe 22/5/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. LESÃO CORPORAL RESULTANTE DE QUEDA EM PASSEIO PÚBLICO DEFRONTE AO ESTABELECIMENTO COMERCIAL. CALÇADA ESCORREGADIA E MOLHADA. TEORIA DO RISCO DO EMPREENDIMENTO. CONSUMIDOR POR EQUIPARAÇÃO. ART. 17 DO CDC. PRECEDENTES DO STJ. CULPA DA VÍTIMA. INOCORRENTE. CASO FORTUITO E FORÇA MAIOR NÃO COMPROVADOS. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência firmada neste Sodalício, o art. 17 do Código de Defesa do Consumidor prevê a figura do consumidor por equiparação, sujeitando à proteção desse dispositivo legal todos aqueles que, embora não tendo participado diretamente da relação de consumo, sejam vítimas de evento danoso resultante dessa relação. Precedentes.
+2. O acolhimento da pretensão recursal quanto a existência de culpa da vítima demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.076.833/RS. Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/3/2018, DJe 9/3/2018.)
+A conclusão da Corte local a respeito da caracterização do consumidor final, por resultar da apreciação das circunstâncias fático-probatórias do caso, não pode ser reexaminada na via do recurso especial, em virtude da incidência da Súmula n. 7/STJ.
+No que diz respeito ao prazo prescricional aplicável ao caso, a decisão recorrida está em consonância com a jurisprudência desta Corte, no sentido de que se aplica o prazo quinquenal do art. 27 do CDC a casos de reparação por dano decorrente de falha no serviço. Nesse sentido, o seguinte julgado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE DEPÓSITO DE AÇÕES NA INSTITUIÇÃO FINANCEIRA. VENDA INDEVIDA.PRESCRIÇÃO QUINQUENAL (ART. 27 DO CDC). IMPROVIMENTO.
+1.- A ação de indenização movida pelo consumidor contra o prestador de serviço, por falha relativa à prestação do serviço, prescreve em cinco anos, ao teor do art. 27 do CDC. Precedentes.
+2.- Agravo regimental improvido.
+(AgRg no REsp n. 1.436.833/RS, Relator Ministro SIDNEI BENETI, Terceira Turma, DJe 9/6/2014.)
+No que tange ao termo inicial do prazo prescricional, na ação de indenização por danos decorrentes de crime, o STJ tem assentado o entendimento de que, conforme art. 200 do CC/2002, enquanto não se apurar o fato com absoluta certeza, na esfera criminal, suspende-se a contagem prescritiva da pretensão indenizatória da vítima. Confira-se:
+RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL POR FATO DE OUTREM (EMPREGADOR). ART. 932, II, CC/2002. ACIDENTE DE TRÂNSITO CAUSADO POR PREPOSTO. FALECIMENTO DO MARIDO. DANOS MATERIAIS E MORAIS. AÇÃO PENAL. CAUSA IMPEDITIVA DA PRESCRIÇÃO. ART. 200 DO CC/2002. OCORRÊNCIA.
+1. Impera a noção de independência entre as instâncias civil e criminal, uma vez que o mesmo fato pode gerar, em tais esferas, tutelas a diferentes bens jurídicos, acarretando níveis diversos de intervenção. Nessa seara, o novo Código Civil previu dispositivo inédito em seu art. 200, reconhecendo causa impeditiva da prescrição: "quando a ação se originar de fato que deva ser apurado no juízo criminal, não correrá a prescrição antes da respectiva sentença definitiva" .
+2. Estabeleceu a norma, em prestígio à boa-fé, que o início do prazo prescricional não decorre da violação do direito subjetivo em si, mas, ao revés, a partir da definição por sentença, no juízo criminal, que apure definitivamente o fato. A aplicação do art. 200 do Código Civil tem valia quando houver relação de prejudicialidade entre as esferas cível e penal - isto é, quando a conduta originar-se de fato também a ser apurado no juízo criminal -, sendo fundamental a existência de ação penal em curso (ou ao menos inquérito policial em trâmite).
+3. Na hipótese, houve ação penal com condenação do motorista da empresa ré, ora recorrida, à pena de 02 (dois) anos de detenção, no regime aberto, além da suspensão da habilitação, por 06 (seis) meses, como incurso no art. 302 do Código de Trânsito Brasileiro, c/c art. 121, § 3º, do Código Penal, sendo que a causa petendi da presente ação civil foi o ilícito penal advindo de conduta culposa do motorista da empresa recorrida.
+4. O novo Código Civil (art. 933), seguindo evolução doutrinária, considera a responsabilidade civil por ato de terceiro como sendo objetiva, aumentando sobejamente a garantia da vítima. Malgrado a responsabilização objetiva do empregador, esta só exsurgirá se, antes, for demonstrada a culpa do empregado ou preposto, à exceção, por evidência, da relação de consumo.
+5. Assim, em sendo necessário - para o reconhecimento da responsabilidade civil do patrão pelos atos do empregado - a demonstração da culpa anterior por parte do causador direto do dano, deverá, também, incidir a causa obstativa da prescrição (CC, art. 200) no tocante à referida ação civil ex delicto, caso essa conduta do preposto esteja também sendo apurada em processo criminal. Dessarte, tendo o acidente de trânsito - com óbito da vítima - ocorrido em 27/3/2003, o trânsito em julgado da ação penal contra o preposto em 9/1/2006 e a ação de indenização por danos materiais e morais proposta em 2/7/2007, não há falar em prescrição.
+6. É firme a jurisprudência do STJ de que "a sentença penal condenatória não constitui título executivo contra o responsável civil pelos danos decorrentes do ilícito, que não fez parte da relação jurídico-processual, podendo ser ajuizada contra ele ação, pelo processo de conhecimento, tendente à obtenção do título a ser executado" (REsp 343.917/MA, Rel. Ministro CASTRO FILHO, TERCEIRA TURMA, julgado em 16/10/2003, DJ 03/11/2003, p. 315), como ocorre no presente caso.
+7. Recurso especial provido.
+(REsp 1.135.988/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/10/2013, DJe 17/10/2013)
+CIVIL E PROCESSUAL. DEMANDA REPARATÓRIA. ACIDENTE AUTOMOBILÍSTICO. FATO CRIMINOSO. INOCORRÊNCIA DE PRESCRIÇÃO. INTELIGÊNCIA DOS ARTS. 200 C/C 935 DO CC. PRAZO. CONTAGEM. ART. 206, §3º, DO CC.
+1. Tratando-se de ato que enseja, além da reparação civil, procedimento criminal, o lapso prescricional começa a fluir a partir do trânsito em julgado da sentença definitiva penal.
+2. A sentença penal condenatória transitou em julgado em 2006. A demanda reparatória fora proposta em 2008. Portanto, não há como vislumbrar qualquer afronta ao prazo prescricional do §3º, V, do art. 206, do Código de Processo Civil.
+3. Agravo regimental a que se NEGA PROVIMENTO.
+(AgRg no Ag 1300492/RJ, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 03/08/2010, DJe 16/08/2010)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique e intimem-se.
+Em relação ao prazo prescricional aplicável ao caso, a agravante não impugnou o fundamento da decisão agravada de que o acórdão recorrido está em consonância com a jurisprudência desta Corte.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Deixando a recorrente de rebater especificamente cada ponto da fundamentação da decisão ora agravada, incide a Súmula n. 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Acrescente-se que, relativamente à suspensão do prazo prescricional, o Tribunal de origem decidiu em consonância com a jurisprudência desta Corte. Confiram-se, ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANO MATERIAL E DANO MORAL . 1. PRAZO PRESCRICIONAL. SUSPENSÃO. ART. 200 DO CÓDIGO CIVIL DE 2002. APLICABILIDADE. SÚMULA N. 83 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. O art. 200 do Código Civil de 2002 dispõe que, "quando a ação se originar de fato que deva ser apurado no juízo criminal, não correrá a prescrição antes da respectiva sentença definitiva".
+2. Agravo interno improvido.
+(AgInt no REsp 1.720.865/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/5/2018, DJe 1º/6/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE PROPRIEDADE INDUSTRIAL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PRESCRIÇÃO NÃO VERIFICADA. INCIDÊNCIA DO ART. 200 DO CÓDIGO CIVIL. RECURSO NÃO PROVIDO.
+1. É possível ao relator decidir o recurso de forma monocrática se baseado em jurisprudência dominante desta Corte, do Supremo Tribunal Federal ou de Tribunal Superior, sendo desnecessário submeter o feito à apreciação do órgão plural. Isso porque é facultada ao prejudicado a via do agravo interno para o colegiado, permitindo a apreciação de todas as questões suscitadas no recurso especial.
+2. "Tratando-se de ato que enseja, além da reparação civil, procedimento criminal, o lapso prescricional começa a fluir a partir do trânsito em julgado da sentença definitiva penal." (AgRg no Ag 1300492/RJ, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 03/08/2010, DJe 16/08/2010)
+3. Nos termos da jurisprudência desta Corte, o art. 200 do CC/2002 somente é afastado quando, nas instâncias ordinárias, ficou consignada a inexistência de relação de prejudicialidade entre as searas cível e criminal ou quando não houve a instauração de inquérito policial ou de ação penal.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.191.792/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/4/2018, DJe 20/4/2018.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
