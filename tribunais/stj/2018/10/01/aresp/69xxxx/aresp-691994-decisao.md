@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por Raízen Combustíveis S/A desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região que não admitiu recurso especial com base nos seguintes fundamentos: (I) não há violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015); (II) incidência das Súmulas 98, 211 e 320 do STJ, pela falta de prequestionamento dos arts. 4º, 16, 98 e 116, II do CTN; (III) aplicação da Súmula 284/STF, haja vista que a recorrente deixou de apontar o dispositivo legal que foi infringido pelo acórdão recorrido; (IV) ausência de impugnação dos fundamentos medulares da decisão objurgada, o que atrai a incidência da Súmula 182/STJ; e (V) aplicação da Súmula 283/STF, tendo em vista que o recurso não enfrentou todos os fundamentos da acórdão.
+É o relatório.
+Na linha do entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação), verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de rebater a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No presente caso, a parte agravante deixou de impugnar, de forma específica, a seguinte assertiva: aplicação das Súmulas 182/STJ e 283/STF, tendo em vista que o recurso não enfrentou todos os fundamentos da acórdão impugnado.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
