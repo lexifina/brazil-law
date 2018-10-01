@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RONIERY DE OLIVEIRA ALVES, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Desembargadora Suimei Meira Cavalieri).
+Depreende-se dos autos que o paciente foi denunciado pela suposta prática do delito tipificado no art. 2º, § 2º, da Lei n. 12.850/2013, tendo em vista que, juntamente com outros acusados, seria integrante de organização criminosa especializada em furto de combustíveis por meio de perfuração dos oleodutos da empresa TRANSPETRO, subsidiária da PETROBRÁS, exercendo a função de braço direito do líder da organização (e-STJ fls. 31/53).
+A defesa impetrou habeas corpus na origem postulando o relaxamento ou a revogação da prisão preventiva decretada pelo Juízo da Terceira Vara Criminal da Comarca de Duque de Caxias/RJ, no entanto, os desembargadores da Terceira Câmara Criminal denegaram a ordem (e-STJ fls. 16/23).
+No Superior Tribunal de Justiça, a defesa alega que "o presente writ tem por finalidade sanar flagrante violação ao direito constitucional de ir e vir, constrangimento ilegal, decorrente de decisão proferida nos autos do processo 0056429-60.2016.8.19.0021 em que o D. Magistrado decretou a prisão preventiva do paciente, indeferiu pleitos libertários e mantém os autos paralisados em espera de digitalização integral do feito para remessa a CAC" (e-STJ fl. 2).
+Assevera a necessidade de relaxamento da prisão por excesso de prazo sob o argumento de que "o Paciente teve sua prisão preventiva decretada há mais de 1 ano, sem que houvesse julgamento em primeira instância, sendo a Audiência de Instrução e Julgamento adiada VÁRIAS VEZES, quer seja em razão da SOLTURA DE TODOS OS DEMAIS ACUSADOS, quer seja pela determinação de envio de todo os autos para CAC, sem que, até presente momento, houvesse a digitalização do feito e designação de nova data de audiência, ocasionando flagrante violação e constrangimento ilegal" (e-STJ fls. 3/4).
+Sustenta, ainda, ausência de fundamentos concretos para a manutenção da prisão preventiva, não estando preenchidos os requisitos necessários do art. 312 do Código de Processo Penal, e afirma que não há, nos autos, nenhum risco à instrução criminal por parte do acusado.
+Aduz, por fim, a possibilidade da aplicação de medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal.
+Dessa forma, requer, em liminar e definitivamente, a revogação da prisão preventiva, com a fixação de medidas alternativas à custódia cautelar.
+O pedido liminar foi indeferido (e-STJ fls. 67/70).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento da ordem e, caso conhecida, pela sua denegação (e-STJ fls. 112/116).
+É, em síntese, o relatório.
+Informações obtidas no sítio eletrônico do Tribunal de origem dão conta de que, no dia 24/9/2018, o ora paciente foi absolvido das imputações contidas na denúncia.
+Diante disso, nada mais há que ser apreciado nesta oportunidade, tendo em vista que fica sem objeto o pedido contido no habeas corpus.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
