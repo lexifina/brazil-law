@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2182657-46.2018.8.26.0000, que manteve a prisão preventiva de [NOME], no qual requer a expedição de alvará de soltura sob a alegação de excesso de prazo para a formação da culpa e ausência de fundamentação idônea a amparar a custódia cautelar.
+Narram os autos que o recorrente foi denunciado pela suposta prática do delito previsto no art. 288, caput, art. 155, § 4º, II e IV, por duas vezes, c/c art. 70, caput, e art. 340, todos do Código Penal.
+É o relatório.
+A concessão de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, o que não ocorre no presente caso, no qual, aparentemente, há motivação idônea para a manutenção do decreto prisional, pois, destacou a Sétima Câmara de Direito Criminal que o agrupamento de pessoas para a prática criminosa, demonstra que o paciente, ao menos em tese, integra associação criminosa, especializada na prática de furto de caminhões de empresas de distribuição de gás liquefeito de petróleo, cujos botijões subtraídos foram avaliados em R$ 84.326.00 (fl. 25).
+E já decidiu o Supremo Tribunal Federal que a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva (HC n. 95.024/SP, Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009).
+Ademais, a alegação de excesso de prazo para formação da culpa sequer foi objeto de análise pelo Tribunal de origem.
+Com essas considerações, não tendo como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar pretendida, indefiro-a.
+Solicitem-se informações, no prazo de 20 dias, por malote digital, ao Juízo da Vara Única da comarca de Tambaú/SP a respeito da atual situação do paciente e dos Autos n. 1500153-33.2018.8.26.0614. Deve a autoridade judicial enviar cópia da decisão que converteu a prisão em flagrante em preventiva.
+Depois de prestadas, ouça-se o Ministério Público Federal.
+Publique-se.
