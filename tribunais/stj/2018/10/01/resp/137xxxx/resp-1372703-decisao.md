@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e OUTROS, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 249):
+EXECUÇÃO DE SENTENÇA - EMBARGOS - Direito ao recebimento dos "gatilhos salariais" de julho, outubro e dezembro de 1987, concedido em anterior ação coletiva. Sentença transitada em julgado em 1997 - Execução ajuizada em 2006 - Reconhecimento dá prescrição - Embargos julgados parcialmente procedentes - Reexame necessário e recurso da embargante providos para reconhecer a prescrição do fundo de direito e prejudicadas as demais questões levantadas e o recurso dos embargados.
+Embargos de declaração foram acolhidos para correção de erro material (e-STJ fls. 269/273).
+Nas suas razões, a parte recorrente aponta violação dos arts. 535, II, 586 e 618 do CPC/1973, do art. 1º do Decreto n. 20.910/1932, do art. 21 da Lei de Ação Civil Pública e dos arts. 94, 96, 97 e 98 do Código de Defesa do Consumidor. Sustenta, em síntese, a não ocorrência da prescrição ante: a) a propositura de ação coletiva de execução pelo sindicato; b) a ausência de comunicação por edital dos interessados sobre o trânsito em julgado de sentença condenatória; c) a não liquidação do valor a ser executado.
+Apresentaram-se contrarrazões às e-STJ fls. 308/312.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fl. 314.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Em relação ao art. 535, II, do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 07/04/2016, Dje 15/04/2016).
+Quanto ao art. 21 da Lei da Ação Civil Pública, aos arts. 94, 96, 97 do CDC e ao art. 586 e 618 do CPC/1973 , da análise dos autos, verifica-se a ausência de prequestionamento, tendo em vista que o acórdão de origem não tratou do tema objeto da irresignação. Assim, incide à espécie o entendimento consolidado na Súmula 282 do STF.
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento. Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Por fim, quanto à violação do art. 1º do Decreto n. 20.910/1932, o Tribunal de origem expressamente declarou a inércia dos executados em iniciar a fase executiva do título judicial transitado em julgado. A propósito, confira-se (e-STJ fl. 424):
+Em 04 de novembro de 1997 ocorreu o trânsito em julgado da decisão.
+Passados mais de cinco anos do trânsito em julgado, pretendem os embargados a execução "da decisão concessiva do "Gatilho Salarial". Contudo,operou-se_ a prescrição, da pretensão dos embargados.
+Prevê o art. 1º do Decreto 20.910/32:
+"Art. 1º - As Dívidas Passivas Da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda Federal, Estadual ou Municipal, seja qual for a sua Natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+Depreende-se" do dispositivo que qualquer tipo de pretensão contra a Fazenda Pública, inclusive a execução de títulos judiciais se sujeita ao prazo prescricional qüinqüenal.
+ ..
+E, prevê o art. 98 da Lei 8.078/90:
+"Art. 98. A execução poderá ser coletiva, sendo promovida pelos legitimados de que trata o art. 82, abrangendo as vítimas cujas indenizações já tiverem sido fixadas em sentença de liquidação, sem prejuízo de outras execuções. "
+Depreende-se , do artigo transcrito, a possibilidade dos credores executarem individualmente o título judicial obtido na ação coletiva.
+Contudo, a pretensão executória individual se sujeita ao prazo prescricional qüinqüenal; como qualquer outra pretensão formulada face à Fazenda Pública.
+- Assim sendo, por todos os ângulos que se analise a questão, é de rigor o provimento do recurso, com o reconhecimento da prescrição.
+Assim, o provimento da pretensão recursal, no tocante à não ocorrência da prescrição executiva pelo lapso temporal entre o trânsito do título judicial e o início da execução, depende de prévio exame fático-probatório dos autos com o intuito de aferir eventual inércia dos exequentes/recorrentes. Contudo, essa tarefa não é possível em recurso especial nos termos da Súmula n. 7 do STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. PRESCRIÇÃO AFASTADA PELA CORTE DE ORIGEM. INCIDÊNCIA DO PERCENTUAL DE 28, 86% SOBRE OS ANUÊNIOS. HONORÁRIOS ADVOCATÍCIOS FIXADOS LEVANDO-SE EM CONSIDERAÇÃO O DECAIMENTO MÍNIMO DA PARTE EMBARGADA. AGRAVO INTERNO DA UNIÃO DESPROVIDO.
+1. Quanto à prescrição arguida pela União, tem-se que foi rechaçada pela Corte local aos seguintes argumentos: Desta forma, em relação à Ação Ordinária 95.00.16271-7, o trânsito em julgado se deu em 8.4.2002. Contudo, a decisão que fixou os critérios para a execução do título precluiu em 22.9.2003. Tendo sido ajuizado o protesto interruptivo da prescrição em 9.3.2007, desta data recomeça a contagem do prazo pela metade. Considerando-se que a Ação de Execução foi ajuizada em agosto de 2009, inocorreu a alegada prescrição (fls. 1.787).
+2. Assim, a alteração de tal entendimento, a fim de reputar incorretas as datas consideradas pela Corte de origem, na forma proposta pela União, demandaria, necessariamente, a revisão do acervo fático-probatório dos autos, providência vedada na via do Especial.
+3. A verba honorária foi fixada em 5% sobre o valor remanescente da Execução, já considerado e observado o decaimento mínimo do Sindicato nos Embargos à Execução manejados pela União, razão pela qual não merece reparos a decisão agravada quanto ao ponto.
+4. Agravo Interno da União desprovido. (AgInt nos EDcl no REsp 1338059/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/05/2017).
+PROCESSUAL CIVIL. EXECUÇÃO. PRESCRIÇÃO. SENTENÇA ILÍQUIDA. VIOLAÇÃO DO ART. 535, II, CPC NÃO CONSTATADA. AUSÊNCIA DE OMISSÕES. DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. ACÓRDÃO FUNDAMENTADO EM PREMISSAS FÁTICAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Inexiste infringência do art. 535, II, do CPC, se o Tribunal de origem manifestou-se de forma absolutamente motivada.
+2. Não houve apreciação pelo Tribunal de origem dos artigos 189, 192, 197 a 204 do Código Civil, 219, 617, 730 do CPC, 3º do Decreto 4.597/42 e 2º-B da Lei 9.494/97, o que impossibilita o julgamento do recurso especial por ausência de prequestionamento, nos termos da Súmula 211/STJ.
+ 3. A conclusão adotada pelo acórdão recorrido, no tocante à prescrição, baseou-se na análise das provas coligidas aos autos, tendo-se verificado a conduta diligente da recorrida e decidido pela não ocorrência da prescrição. Revolver esse fundamento do aresto recorrido é tarefa que demandaria, necessariamente, incursão no acervo fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7 deste Tribunal.
+4. Agravo regimental não provido. (AgRg no REsp 1272657/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 10/04/2012).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se.
+Intimem-se.
