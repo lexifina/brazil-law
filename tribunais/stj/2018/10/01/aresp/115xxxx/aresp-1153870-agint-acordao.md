@@ -1,0 +1,113 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL. DECISÃO MANTIDA.
+1. A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282 do STF).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+5. Agravo interno a que se nega provimento.
+
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 142/152) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, o agravante sustenta que não é necessário o reexame dos aspectos fático-probatórios para se verificar a iliquidez do título, bastando a leitura da sentença.
+Afirma que demonstrou a divergência jurisprudencial, apresentando acórdãos paradigmas que decidiram no sentido de que a prescrição da ação executiva apenas se inicia após a liquidação da sentença. Refuta a incidência da Súmula n. 83/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo colegiado.
+Os agravados apresentaram contrarrazões (e-STJ fls. 156/161).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL. DECISÃO MANTIDA.
+1. A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282 do STF).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+4. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+5. Agravo interno a que se nega provimento.
+
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.153.870 - MS (2017/0204870-2)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+[NOME]
+ADVOGADO
+:
+[NOME] E [NOME] - [OAB]
+AGRAVADO
+:
+[NOME]
+AGRAVADO
+:
+[NOME]
+ADVOGADO
+:
+[NOME] E [NOME] - [OAB]
+INTERES.
+:
+[NOME]
+ADVOGADO
+:
+[NOME] - [OAB]
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 135/138):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) incidência das Súmulas n. 7 e 83 do STJ, (b) inviabilidade de arguir ofensa a enunciado de Súmula e (c) não comprovação do dissídio jurisprudencial, por ausência de similitude fática e de demonstração do ponto de divergência entre as decisões (e-STJ fls. 109/112).
+O acórdão do TJMS está assim ementado (e-STJ fl. 52):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - EXTINÇÃO - PRESCRIÇÃO DA PRETENSÃO - DECURSO DE PRAZO QÜINQÜENAL A PARTIR DO TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA - DISCUSSÃO QUE NÃO SE CONFUNDE COM TÍTULO CAMBIAL - SENTENÇA MANTIDA - RECURSO DESPROVIDO. - O reconhecimento do direito ao crédito perseguido decorre de um provimento judicial, e não de um título de crédito normatizado pelas regras de direito empresarial.
+O prazo prescricional de 5 (cinco) anos a que é submetida a ação monitoria se inicia, de acordo com o princípio da actio nata, na data em que se torna possível o ajuizamento desta ação.
+Recurso improvido.
+Nas razões do recurso especial (e-STJ fls. 60/70), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente sustentou, além de dissídio jurisprudencial, violação da Súmula n. 150/STF e dos arts. 475-C do CPC/1973 (CPC/2015, art. 509), 205 e 206 do CC/2002, pois seria ilíquida a sentença a executar, devendo considerar que tal ato judicial, determinando os critérios para apurar o saldo devedor, seria o termo de início do prazo decenal de prescrição, razão por que a cobrança do crédito advindo da rescisão contratual não estaria prescrita.
+Não foram apresentadas contrarrazões (e-STJ fl. 107).
+No agravo (e-STJ fls. 114/121), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 124/131).
+É o relatório.
+Decido.
+A apontada afronta à Súmula n. 150/STF não comporta análise no recurso, porque, segundo entendimento consagrado pela Corte Especial deste Tribunal Superior no enunciado de Súmula n. 518 (DJ em 26/2/2015, DJe 2/3/2015), "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula."
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico dos acórdãos recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+De tais ônus o recorrente não se desincumbiu, por se limitar a transcrever, em fls. 64 e 66/68 (e-STJ), ementas dos julgados a partir dos quais defendeu o dissenso interpretativo, inviabilizando o conhecimento do recurso no ponto. A propósito: "Não se conhece do recurso pela divergência jurisprudencial nas hipóteses em que o recorrente se limita à transcrição de ementas, sem promover o cotejo analítico a que se refere o art. 541, parágrafo único, do CPC/1973" (REsp n. 1.675.015/DF, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/9/2017, DJe 14/9/2017).
+A Corte local decidiu que o prazo quinquenal de prescrição a que é submetida a ação monitória iniciou, segundo o princípio da actio nata, no momento em que se tornou possível ajuizar a ação, segundo se infere do excerto a seguir (e-STJ fls. 55/57):
+Do que se extrai do presente caso, o recorrente é credor de 18% sobre 20.337 sacas de milho e 13.089 sacas de soja, reconhecidos em sentença condenatória de ação de rescisão de contrato cumulada com perdas e danos transitada em julgado em 16/08/2007.
+Anos depois, precisamente em 16/04/2013, o recorrente postulou a liquidação de sentença, que foi conhecida pelo Juízo "a quo" como cumprimento de sentença para entrega de coisa e tramitou até o reconhecimento da prescrição daquela pretensão, a teor do seguinte fundamento extraído da sentença prolatada dos autos n.º 0800551-42.2013.8.12.0046:
+"Inicialmente, verifico que a ação originária (Autos n.º 046.01.001051-9) transitou em julgado em 16 de agosto de 2007 (f. 32). Já o presente cumprimento de sentença somente foi protocolado no dia 16 de abril de 2013 (f. 01/03).
+A súmula n.º 150 do Supremo Tribunal Federal estabelece que "prescreve a execução no mesmo prazo de prescrição da ação".
+Nota-se que o título judicial em debate surgiu de sentença condenatória de reparação civil, tendo o próprio autor afirmado em sua petição inicial que o valor era decorrente de indenização. Portanto o prazo prescricional da pretensão originária é de 03 (três) anos, conforme prevê o art. 206, § 3.º, inciso V, do Código Civil.
+Ou seja, de acordo com a súmula anteriormente mencionada o prazo prescricional para se iniciar o cumprimento de sentença também é de 03 (três) anos, contados a partir do trânsito em julgado daquela sentença na ação originária".
+Ao ajuizar a presente ação monitória com base no mesmo provimento judicial, teve obstada a sua ação pelo reconhecimento do mesmo instituto da prescrição, o que está corretamente adequado e conforme as disposições legais.
+Apesar de o apelante defender que a prescrição de um título de crédito deve ser contada em duas etapas, a primeira referente à pretensão cambiária, e a segunda relativa à pretensão de ressarcimento, a questão é que não há qualquer pretensão cambiária a se reconhecer a partir de uma decisão judicial condenatória, ainda mais quando advinda de uma ação ordinária de rescisão de contrato cumulada com perdas e danos.
+O reconhecimento do direito ao crédito perseguido decorre de um provimento judicial, repita-se, e não de um título de crédito normatizado pelas regras de direito empresarial, como leva a crer.
+E, ainda que em nome do princípio da eventualidade se argumente que o prazo prescricional da pretensão do apelante se enquadra na hipótese de pura e simples discussão de direito pessoal, considerando-se 10 anos, é mais do que pacífico que para a pretensão de ajuizar ação monitória decorrente de documentos que contenham dívida líquida, o prazo aplicável é o previsto pelo artigo 206, § 5º, do CC.
+Esse é o entendimento da jurisprudência pátria como a seguir demonstrado:
+"O prazo prescricional de 5 (cinco) anos a que submetida a ação monitoria se inicia, de acordo com o princípio da actio nata, na data em que se torna possível o ajuizamento desta ação.
+(..) o credor, mesmo munido de título de crédito com força executiva, não está impedido de cobrar a dívida representada nesse título por meio de ação de conhecimento ou mesmo de monitoria. É de se concluir que o prazo prescricional da ação monitoria fundada em título de crédito (prescrito ou não prescrito), começa a fluir no dia seguinte ao do vencimento do título". STJ 3.a Turma. REsp 1367362/DF, Rel. Min. Sidnei Beneti, julgado em 16/04/2013.
+Ocorre que ainda assim, a prescrição abrangeria a pretensão desta ação monitória, pois, como se observou, o trânsito em julgado da ação originária ocorreu em agosto de 2007, sendo certo que até o ajuizamento do cumprimento da sentença já se passaram mais de cinco anos.
+Se o apelante, beneficiado com a sentença, deixou de exigir seu cumprimento no tempo devido, evidente que ocorrida a prescrição, contado o prazo de seu trânsito em julgado.
+Diante do exposto, conheço do apelo, porém a ele nego provimento para manter a sentença extintiva prolatada pelo magistrado "a quo".
+Dissentir das conclusões da Corte local quanto à liquidez da condenação, a fim de considerar ilíquida a sentença, conforme sustentado pelo recorrente, exigiria o reexame de aspectos fático-probatórios nos autos, providência vedada em sede de recurso especial, a teor da Súmula n. 7/STJ.
+O entendimento adotado pelo Tribunal de origem, considerando quinquenal o prazo de prescrição para ajuizar a ação monitória de cobrança de dívida líquida, coincide com a jurisprudência do STJ quanto ao ponto. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE CONSÓRCIO. PRESCRIÇÃO. LIQUIDEZ DA DÍVIDA. PRAZO QUINQUENAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O prazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular, é de 5 (cinco) anos. Precedentes.
+3. Não há como acolher a tese recursal de que a dívida cobrada é ilíquida, a fim de aplicar a prescrição decenal, sem o reexame de aspectos fático-probatórios dos autos, o que é inviável em recurso especial em virtude do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.668.427/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 12/3/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CONTRATO BANCÁRIO. ALEGADA OFENSA AO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. NÃO CONFIGURAÇÃO. PRAZO PRESCRICIONAL PARA COBRANÇA DE DÍVIDA ORIUNDA DE ABERTURA DE CRÉDITO, MEDIANTE AÇÃO MONITÓRIA. CINCO ANOS. ART. 206, § 5º, I, DO CC/2002. PRECEDENTES. PROVIMENTO NEGADO.
+(..)
+2. Obrigatoriamente, por ser requisito para a própria admissibilidade da monitória, a dívida apresentada, na inicial, há de ser líquida, sem o que nem sequer pode o Juízo expedir o competente mandato monitório.
+3. A jurisprudência do Superior Tribunal de Justiça já pacificou seu entendimento de que a dívida subjacente a contrato de abertura de crédito que, no Código Civil revogado, inseria-se dentro do prazo prescricional geral de vinte anos passou a ter, com a entrada em vigor do Código Civil de 2002, sua prescrição regrada pelo art. 206, § 5º, I, do CC de 2002, que prevê prazo quinquenal para a cobrança de dívidas líquidas constantes de instrumento público ou particular. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 316.560/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/2/2015, DJe 18/2/2015.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+O Tribunal de origem confirmou o indeferimento da inicial da ação monitória ante o reconhecimento da prescrição.
+Constatou que a prescrição foi declarada em ação de rescisão contratual anteriormente proposta, porque a liquidação havia sido requerida após o prazo prescricional, contado a partir do trânsito em julgado da sentença condenatória.
+Na presente ação monitória, a Corte estadual entendeu que também deveria ser decretada a prescrição. Afastou o argumento de que a prescrição da pretensão cambiária seria diferente daquela referente à pretensão de ressarcimento, pois não haveria no caso nenhum interesse cambiário. Além disso, rejeitou a aplicação do prazo de dez anos, por entender que, na ação monitória, o prazo prescricional é de cinco anos. Acrescentou ainda que o procedimento monitório não pode ser utilizado para afastar a prescrição de título executivo judicial.
+Dessa forma, em relação ao art. 475-C do CPC/1973 e à tese de que o prazo prescricional para a execução somente se inicia após a liquidação do título, não há como conhecer do especial, pois ausente o requisito do prequestionamento (Súmula n. 282 do STF).
+Ademais, inafastável o óbice da Súmula n. 7 do STJ, pois, para verificar se, de fato, o prazo prescricional não teria se iniciado em virtude iliquidez da sentença, seria necessária a análise de matéria fática.
+Ao contrário do alegado, o dissídio jurisprudencial não foi demonstrado, pois a parte limitou-se a transcrever ementas, sem demonstrar a similitude fática entre os acórdãos confrontados.
+Quanto ao prazo prescricional, defendeu a parte que "o prazo para ação de rescisão contratual é de 10 anos" (e-STJ fl. 69). No entanto, tal argumento não guarda relação com o presente caso, que se refere à ação monitória ajuizada pela própria recorrente. Em tais condições, a incidência da Súmula n. 284/STJ também impede o conhecimento do especial.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
