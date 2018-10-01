@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto FÁBIO [NOME] e LAELITON SOARES DOS SANTOS, representados pela Defensoria Pública estadual, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, que denegou a ordem visada no Writ n. 0802412-44.2017.8.02.0000, mantendo a prisão preventiva decretada em seu desfavor nos autos da ação penal em que respondem pela suposta prática dos delitos tipificados nos arts. 157, § 2º, incisos I, II e V, contra a primeira vítima, e 157, § 2º, incisos I e II, em relação às demais vítimas (4), c.c. art. 71, todos do Código Penal, em concurso material.
+Alegam os recorrentes, em apertada síntese, a ausência de fundamentação idônea para a decretação e manutenção da segregação cautelar, entendendo malferido o art. 312 do Código de Processo Penal.
+Requerem, por isso, a revogação da custódia decretada em seu desfavor.
+Informações prestadas às fls. 124-125 (e-STJ) noticiam a prolação de sentença, em 26/3/2018, condenando os recorrentes às penas de 15 anos e 10 meses de reclusão, em regime inicial fechado, mais pagamento de 75 dias-multa, para LAELITON, e 13 anos e 10 meses de reclusão, em regime inicial fechado, mais 75 dias-multa, para FABIO.
+O Ministério Público manifestou-se pelo desprovimento do reclamo.
+É o relatório.
+O recurso não comporta conhecimento.
+Isso porque, infere-se dos autos que os ora recorrentes foram presos em flagrante em 30/5/2017, convertidas as prisões em preventiva na audiência de custódia realizada no dia 31/5/2017, para a garantia da ordem pública, dada a gravidade em concreto das condutas perpetradas pelos então custodiados.
+Todavia, das informações prestadas pela instância de piso e confirmadas na página eletrônica do Tribunal de origem, verifica-se que, ao proferir o édito condenatório, o sentenciante manteve a custódia preventiva de LAELITON, "por ter circunstâncias judiciais desfavoráveis, ser reincidente, periculosidade em concreto nos crimes e o regime ter sido o fechado" (e-STJ fl.162), e de FABIO, "uma vez que o regime fixado foi o fechado, houve periculosidade em concreto, circunstâncias judiciais desfavoráveis" (e-STJ fl. 164).
+Assim, resta prejudicado o presente remédio constitucional voltado a abordar a legalidade da prisão preventiva imposta, haja vista que os fundamentos utilizados pelo Juízo singular na sentença são distintos daqueles mencionados na decisão primeva, isto é, trata-se de decisão diversa da questionada na presente impetração, sendo, portanto, novo título cuja legalidade ainda não foi examinada pelo Tribunal originário.
+Diante do exposto, com fundamento no art. 34, inciso XI, do Regimento Interno deste Tribunal, julga-se prejudicado o habeas corpus, pela perda de seu objeto.
+Publique-se e intimem-se.
