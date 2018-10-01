@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2123242-35.2018.8.26.0000).
+Consta dos autos que o recorrente foi preso em flagrante pela suposta prática do delito constante do caput do art. 33 da Lei n. 11.343/2006, porque "tinha em depósito, com finalidade mercantil, 01 (uma) porção maior de "maconha", com peso bruto aproximado de 84,38g (oitenta e quatro gramas e trinta e oito decigramas), bem como 05 (cinco) porções da mesma substância, com peso total aproximado de 5,89g (cinco gramas e oitenta e nove decigramas)" - e-STJ fl. 19. A prisão em flagrante foi convolada em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem em acórdão assim ementado (e-STJ fl. 46):
+Habeas Corpus. Tráfico de entorpecentes. Apreensão de uma porção de maconha, com peso de 84,38g, e mais cinco porções do mesmo estupefaciente, pesando 5,89g, além de dinheiro. Pleito de trancamento da ação penal. Impossibilidade. Medida que somente é cabível em hipóteses excepcionais. Crime de tráfico de estupefacientes que é infração penal de caráter permanente, permitindo a prisão em flagrante a qualquer momento. Precedentes do E. Superior Tribunal de Justiça. Alegação de constrangimento ilegal. Suposta ausência de fundamentação. Descabimento.
+Indicadores de materialidade e autoria. Decisão suficientemente escorada em dados objetivos contidos nos autos, não se há falar em constrangimento ilegal, descabida cautelar alternativa em razão de indicadores de ocorrência que deixa perplexa a população ordeira.
+Impossibilidade de se descartar, nesta quadra, sem motivo plausível, palavras de agentes do Estado, apenas em razão de suas condições funcionais. Ordem denegada.
+Nas razões do presente recurso ordinário, a defesa assere que fica "claro, pelos depoimentos dos policiais e pelo descrito na denúncia, que os castrenses só adentraram na residência porque viram a namorada (e não o denunciado) ingressar na mesma deixando o portão aberto. Ou seja, não viram o acusado vendendo drogas e não foi o denunciado que avistou a viatura, empreendeu fuga e penetrou na casa. E isso não dá direito aos policiais de adentrarem a residência do acusado. E muito menos para prendê-lo em flagrante" (e-STJ fl. 64).
+E ainda que "todas as provas produzidas nos autos são imprestáveis e sem qualquer valor, pois, obtidas por condutas dos policiais militares que fugiram completamente da normalidade, transgredindo direitos individuais constitucionais, além de normas processuais e materiais" (e-STJ fl. 69).
+Assim, pugna pelo relaxamento da prisão do paciente e pelo trancamento da ação penal em trâmite perante as instâncias ordinárias.
+O pleito urgente foi indeferido (e-STJ fls. 94/96).
+Informações prestadas às e-STJ fls. 102/103.
+Opinou o Ministério Público Federal pela prejudicialidade do recurso (e-STJ fl. 105).
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem e conforme consta do parecer ministerial, em 27/8/2018 foi proferida sentença condenatória pelo Juízo de piso, nos autos da Ação Penal n. 0000955-37.2018.8.26.0572.
+Fica, portanto, sem objeto o pedido contido neste recurso, em que a defesa insurgia-se contra a conversão da prisão em flagrante em preventiva, à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
