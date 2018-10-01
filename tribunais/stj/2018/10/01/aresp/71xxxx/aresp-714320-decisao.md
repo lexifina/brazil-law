@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME] e outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 936):
+ADMINISTRATIVO. DESAPROPRIAÇÃO. FAIXA DE FRONTEIRA LOCALIZADA NO ESTADO DO PARANÁ. PAGAMENTO DE INDENIZAÇÃO A QUEM NÃO ERA LEGÍTIMO PROPRIETÁRIO. IMPOSSIBILIDADE.
+1. É viável o debate sobre domínio em ação expropriatória movida pelo INCRA contra particulares que receberam do Estado do Paraná títulos de propriedade de terras devolutas da UNIÃO situadas em faixa de fronteira.
+2. Os expropriados, em razão disso, não têm direito a receber indenização, na medida em que as concessões de terras devolutas situadas na faixa de fronteira, feitas pelos Estados anteriormente à vigente Constituição, devem ser interpretadas como legitimando o uso, mas não a transferência do domínio de tais terras, em virtude da manifesta tolerância da União, e de expresso reconhecimento da legislação federal.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 11 da Lei 4.504/46 e 6º do Decreto-Lei 1.414/75. Para tanto, aduz, em síntese, que, em respeito à coisa julgada, deve ser reconhecida a ratificação de ofício dos títulos pelo INCRA no processo de desapropriação, com a conseguinte manutenção do pagamento da justa verba indenizatória.
+O Ministério Público Federal, em parecer, opinou pelo desprovimento do agravo (fls. 1.163/1.167).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifico que a matéria pertinente aos arts. 11 da Lei 4.504/46 e 6º do Decreto-Lei 1.414/75 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
