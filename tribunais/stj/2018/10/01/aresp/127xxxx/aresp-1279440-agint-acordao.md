@@ -1,0 +1,60 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. A jurisprudência deste Tribunal Superior é firme no sentido de que, ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução. 1.1. O Tribunal de origem reconheceu, a partir da análise do acervo fático-probatório dos autos, que as duplicatas embora sem aceite ordinário, estão acompanhadas de comprovante de entrega das mercadorias e que essas não estão relacionadas a negócio jurídico firmado com terceiro, conclusões impossíveis de revisão por esta Corte, consoante o disposto na Súmula 7/STJ.
+2. Agravo interno desprovido.
+
+ACÓRDÃO
+ Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+ Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por PARADISE AUTO POSTO CUIABA LTDA em face da decisão acostada às fls. 342-346 e-STJ, da lavra deste relator, que negou provimento a agravo (art. 1.042 do CPC/15), por meio do qual a ora agravante pretendia ver admitido recurso especial.
+O apelo extremo (art. 105, III, "a" e "c", da CF/88) fora deduzido em desafio ao acórdão de fls. 183-212 e-STJ, prolatado pelo e. Tribunal de Justiça do Mato Grosso, assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE DE TÍTULOS CAMBIAIS E SUSTAÇÃO DEFINITIVA DE PROTESTO - DÉBITO DECORRENTE DE ENTREGA DE COMBUSTÍVEL - NOTAS FISCAIS EMITIDAS - COMPROVANTE DE RECEBIMENTO - RECIBO APRESENTADO EM VALOR E À PESSOA DIVERSA DO NEGÓCIO JURÍDICO ENTABULADO - ORIGEM DA DÍVIDA COMPROVADA - AUSÊNCIA DE PROVADA QUITAÇÃO - ILICITUDE INOCORRENTE A ENSEJAR REPARAÇÃO CIVIL IMPROCEDÊNCIA DA DEMANDA - RECURSO PROVIDO.
+Comprovada a origem do débito cujo inadimplemento deu causa ao protesto, bem como inexistente a quitação da obrigação, não há que se falar em nulidade do titulo e consequente indenização.
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial, o recorrente aponta ofensa aos artigos 20, § 3º, da Lei n.º 5.474/68, sustentando, em resumo, a inexigibilidade do título, ante a ausência de aceite na duplicata, afirmando tratar-se de título sem causa. Defendeu ser devida indenização por danos morais pelo emitente na hipótese em que, emitida a duplicata mercantil sem causa debendi.
+Contrarrazões (fls. 288-297 e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial. Essa decisão foi impugnada por meio de agravo (art. 1042 do NCPC) cuja minuta está às fls. 310-320 e-STJ. Contraminuta às fls. 323-331 e-STJ.
+Em julgamento monocrático, negou-se provimento ao reclamo por aplicação das Súmulas 83/STJ e 7/STJ.
+Inconformado, interpôs o presente agravo interno (fls. 349-363 e-STJ) alegando, em síntese, não serem aplicáveis os óbices invocados. Requereu a reforma do decisum.
+Impugnação às fls. 368-377 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. A jurisprudência deste Tribunal Superior é firme no sentido de que, ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução. 1.1. O Tribunal de origem reconheceu, a partir da análise do acervo fático-probatório dos autos, que as duplicatas embora sem aceite ordinário, estão acompanhadas de comprovante de entrega das mercadorias e que essas não estão relacionadas a negócio jurídico firmado com terceiro, conclusões impossíveis de revisão por esta Corte, consoante o disposto na Súmula 7/STJ.
+2. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Consoante a jurisprudência iterativa deste Tribunal Superior, a duplicada sem aceite é título com força executiva, desde que devidamente protestada e acompanhada de comprovação da entrega de mercadoria.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DUPLICATA SEM ACEITE. PROTESTO E PRESTAÇÃO DE SERVIÇOS AFERIDA PELO TRIBUNAL DE ORIGEM. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+GRATUIDADE DA JUSTIÇA DEFERIDA NA ORIGEM. HONORÁRIOS RECURSAIS. CABIMENTO. EXIGIBILIDADE SUSPENSA.
+1. A jurisprudência do STJ está consolidada no sentido de que a duplicata sem aceite é título hábil a aparelhar o processo de execução desde que devidamente protestada e acompanhada dos documentos suficientes para comprovar a entrega das mercadorias.
+2. Alterar o decidido no acórdão impugnado, no sentido de o exequente cuidou de efetivar o protesto das duplicatas, além de comprovar a efetiva entrega das mercadorias, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. O fato de a parte ser beneficiária da gratuidade da justiça não impede a fixação de honorários recursais, no entanto sua exigibilidade ficará suspensa na forma do art. 98, § 3º, do CPC/15, como na hipótese dos autos.
+4. Agravo interno não provido.
+(AgInt no AREsp 1253903/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/08/2018, DJe 07/08/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. AÇÃO MONITÓRIA. PROVA DA ENTREGA DO PRODUTO. EXISTÊNCIA DE RELAÇÃO OBRIGACIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que a autora da ação monitória logrou comprovar a existência do débito por meio da duplicata sem aceite em conjunto com a prova da entrega da mercadoria. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 439.108/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/10/2017, DJe 30/10/2017)
+Segundo os autos, a Corte de origem reformou a sentença que julgou procedente o pedido inicial formulado pelo recorrente na ação declaratória de inexistência de débito, nulidade de título e sustação de protesto.
+Essencialmente, o Tribunal a quo, conforme o voto da 2ª vogal e após a aplicação da técnica de julgamento prevista no art. 942 do CPC/15, verificou que houve emissão de boleto para pagamento e confirmação de recebimento da mercadoria. Não se constaram provas suficientes nos autos de que os titulo tivessem sido emitidos sem causa ou de quitação do débito, pois não restou comprovado que o produto entregue tivesse relação com negócio jurídico firmado com terceiro, a quem teria sido feito o pagamento.
+Veja-se o trecho pertinente ( fls. 209-210 e-STJ):
+Pedi vistas dos autos para melhor analise das Notas Fiscais e os respectivos comprovantes de entrega das mercadorias discriminadas, que deram origem as duplicatas de venda de álcool etílico hidratado; que instruem a pretensão da apelante, ASPEN DISTRIBUIDORA DE COMBUSTÍVEIS LTDA, de recebimento dos valores referentes à comercialização do referido produto.
+Bem como, o documento denominado "RECIBO" emitido em 20/01/2009, pela empresa MM Original Distribuidora de Petróleo Ltda., no valor de R$ 125.000,00 (cento e vinte e cinco mil reais), referente ao pagamento antecipado de 100.000 (cem mil) litros de álcool etílico hidratado combustível, para faturamento nas datas a serem informadas e autorizadas, com o qual, o apelado/autores, PAPAI POSTO CUIABÁ LTDA e PARADISE AUTO POSTO CUIABÁ LTDA, pretendem demonstrar a inexistência do débito para com o apelante, na AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE DE TÍTULOS CAMBIAIS e na AÇÃO DE SUSTAÇÃO DE PROTESTO.
+Destarte, conforme assevera o voto da e. Desembargadora 2a Vogal Convocada, o qual se corrobora inteiramente, pois, que com precisão e clareza enumerou aspectos das Notas Fiscais de fornecimento do citado produto álcool etílico hidratado e os respectivos comprovantes de entrega do produto, que bem determina a higidez das duplicatas originadas pelos fornecimentos do referido combustível automotivo. Ainda, as contradições existentes no citado recibo emitido pela empresa MM ORIGINAL DISTRIBUIDORA DE PETRÓLEO LTDA, que afastam qualquer eficácia jurídica do mesmo, de modo que inexiste qualquer possibilidade de afastar a responsabilidade dos apelados pelo pagamento da dívida objeto especificamente dos autos das Apelações Cíveis nº. 113200/2016 e nº. 113204/2016.
+Deveras, quanto as Notas Fiscais e os comprovantes de entrega do combustível, nas mesmas datas das Notas Fiscais que originaram as Duplicatas protestadas objeto das respectivas ações; compulsando os autos criteriosamente constata-se que:
+ ..
+Quanto a recibo emitido pela empresa MM ORIGINAL DISTRIBUIDORA DE PETRÓLEO LTDA, independentemente de sua data ser anterior às referidas Notas Fiscais, denota-se que o valor unitário diverge de todos os fornecimentos realizados pela apelante/Aspen Distribuidora de Combustíveis; sendo incabível que uma aquisição mediante pagamento antecipado poderia ter o seu valor majorado de forma expressiva e ser aceito pelo adquirente.
+Assim, resta evidente tratar-se de uma negociação diversa, a teor do que alega a apelante e ante as evasivas da testemunha arrolada pelas apeladas, de forma a corroborar-se à escorreita constatação que a e. Desembargadora 2a Vogal Convocada consignou de que: "(.) não há qualquer lastro de que tivesse havido negociação entre a Apelante e a empresa MM Original Distribuidora de Petróleo, a validar o instrumento e dar quitação à divida,..".
+O acórdão impugnado acompanhou nesse ponto a orientação firmada no âmbito deste Superior Tribunal de Justiça. Aplica-se, portanto, o óbice enunciado na Sumula 83/STJ: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+Ademais, revisão do aresto impugnado no sentido pretendido pelo recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre não haver relação entre as entregas de combustível realizada pela requerida e eventual negócio celebrado com terceiro. Essa medida não é possível pela via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+Importante consignar que esta Corte de Justiça entende ser cabível a aplicação do quanto enunciado na Súmula 7/STJ também como óbice ao conhecimento do dissídio jurisprudencial, na medida em que, dada a ausência de similitude fática entre o acórdão paradigma e o recorrido, a divergência entre os julgados tem origem em quadros fáticos distintos, não em teses jurídicas opostas.
+Nesse sentido, vejam-se os seguintes precedentes: AgInt nos EDcl no REsp 1582424/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016; AgRg no AREsp 748.127/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/03/2016, DJe 21/03/2016; AgInt no REsp 1345421/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2016, DJe 16/09/2016.
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
