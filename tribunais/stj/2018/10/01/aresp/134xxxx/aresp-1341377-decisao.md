@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e ELIONAE JOSÉ DOS SANTOS contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Sustenta a defesa, nas razões do recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, violação do artigo 156 do Código de Processo Penal.
+Defende a tese de ausência de provas suficientes para a condenação do agravante pelo delito de roubo, uma vez que o ônus da prova é da acusação que, no caso, não conseguiu provar a autoria do delito.
+Requerem suas absolvições.
+Apresentadas contrarrazões (e-STJ, fls. 422-425), o recurso foi inadmitido por incidência da Súmula 7/STJ (e-STJ, fls. 437-438). Daí este agravo (e-STJ, fls. 444-450).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 476-478).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem manteve as condenações dos recorrentes pelo cometimento de furto qualificado, com a seguinte fundamentação:
+"No que diz respeito à materialidade do crime capitulado no art. 155 do Código Penal, restou demonstrada por meio do APF às f 02/07, Boletim de Ocorrência de f. 10/16, auto de apreensão de f. 39, termos de restituição de f. 40, além dos depoimentos prestados judicial e extrajudicialmente.
+Ao passo que, no que se refere à autoria, a despeito da negativa dos agentes MARCOS ROBERTO DIAS DE OLIVEIRA e ELIONAE JOSÉ DOS SANTOS, restou comprovada por meio da declaração da vítima e dos demais depoimentos judiciais.
+A vítima [NOME] relatou em juízo:
+"(..) que não conhecia os acusados embora já os tenha visto passar na rua; que ninguém viu o furto; que acredita que a polícia tenha encontrado os ladrões porque passou aos policiais as características dos objetos furtados, sendo que o notebook tinha uma capa em alto relevo e a mochila que foi furtada também foi descrita com detalhes pela informante."
+Por sua vez, os Policiais Militares Diego de Almeida Gusmão e [NOME], que participaram da operação policial que culminou na prisão dos acusados, em juízo (f. 173 e f. 174), ratificaram o teor do Boletim de Ocorrência de f 13:
+"Quando a equipe do SGT [NOME] que compareceu ao local da ocorrência, após acionamento do COPOM, a vítima informou que indivíduos não identificados haviam entrado na em sua casa, não sabendo dizer se estava destrancada, pois não havia sinais de arrombamento, autores após adentrarem furtaram vários objetos, quais foram relacionados em campo específico, em seguida autores evadiram rumo ignorado. Em rastreamento pelas demais viaturas, foi abordado no bairro Iguaçu pelas viaturas prefixo 18987 e VP 19197, dois indivíduos que estavam de posse de uma mochila, contendo parte dos objetos que haviam sido furtados na casa da vítima.
+Segundo o autor Elionai comprou de um indivíduo desconhecido os pertences encontrados, pagando a quantia de R$50,00 reais em dinheiro. Diante dos fatos foi dado voz de prisão aos autores e conduzidos a essa Delegacia para maiores esclarecimentos. Em tempo o autor [NOME] tentou enganar os militares com nome falso, dificultando todo o trabalho na confecção do REDS, porém com confrontação de dados, conseguimos seu nome verdadeiro, cujo possui passagem por homicídio tentando. O autor Elionai, possui um total de 07 passagens pela polícia, pelos crimes de: roubo a mão armada, furto, receptação e uso de drogas."
+Acerca da validade do testemunho dos policiais responsáveis pelo flagrante, importante deixar claro que desfrutam, em princípio, da mesma credibilidade que, em geral, gozam os demais testemunhos.
+Apenas porque são policiais não estão impedidos de depor, tampouco possuem tais depoimentos menos valor, salvo se existirem sérias dúvidas sobre sua lisura - ônus da defesa -, o que não se verifica na hipótese.
+Sobre o tema, vale trazer à baila a jurisprudência do colendo SUPERIOR TRIBUNAL DE JUSTIÇA:
+"HABEAS CORPUS. PENAL. TRÁFICO "LICITO DE ENTORPECENTES TESE DE FRAGILIDADE DA PROVA PARA SUSTENTAR A ACUSAÇÃO. VIA IMPRÓPRIA. NECESSIDADE DE EXAME APROFUNDADO DO CONJUNTO PROBATÓRIO. DEPOIMENTO DE POLICIAIS. VALIDADE PROBATÓRIA. (..) 2. Os policiais não se encontram legalmente impedidos de depor sobre atos de ofício nos processos de cuja fase investigatória tenham participado, no exercício de suas funções, revestindo-se tais depoimentos de inquestionável eficácia probatória, sobretudo quando prestados em juízo, sob a garantia do contraditório. Precedentes. 3. Ordem denegada." (HC 115516/SP, Rel. Ministra Laurita Vaz, DJ. 09/03/09).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. FRAGILIDADE DO CONJUNTO PROBATÓRIO. TESTEMUNHO DE POLICIAIS. VALIDADE DA PROVA, MORMENTE QUANDO CONFIRMADA SOB O CRIVO DO CONTRADITÓRIO. (..) 2. De se ver, ainda, os depoimentos dos policiais que efetuaram a prisão em flagrante constituem prova idônea, como a de qualquer outra testemunha que não esteja impedida ou suspeita, notadamente quando prestados em juízo sob o crivo do contraditório, aliado ao fato de estarem em consonância com o conjunto probatório dos autos. (..)" (HC 98766, Rel. Ministro Og Fernandes, DJ. 23/11/09).
+Como visto, os réus foram abordados pela polícia nas proximidades da residência da vítima, de posse de parte dos bens furtados. E, segundo entendo, no crime de furto/roubo, a apreensão da res furtiva em poder do réu, pouco tempo após o delito, gera presunção de responsabilidade e inverte o ônus da prova, cabendo à defesa justificar convincentemente o ocorrido, o que não ocorreu na hipótese.
+Desta maneira, emerge da prova oral colhida nos autos sob o crivo do contraditório, a autoria dos denunciados, inclusive o concurso de pessoas, visto que a despeito de negarem que tivessem praticado o furto em comunhão de esforços e unidade de propósitos, não é o que restou demonstrado nos autos." (e-STJ, fls. 345-347).
+O acórdão combatido pontuou que "os réus foram abordados pela polícia nas proximidades da residência da vítima, de posse de parte dos bens furtados", e arrematou explicitando que a negativa de autoria não ficou demonstrada nos autos.
+Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela absolvição do recorrente, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Ilustrativamente:
+" ..
+1. Inadmissível o exame da pretensão de absolvição e de desclassificação da conduta, quando concluída pela Corte de origem que a materialidade e autoria do delito restaram fundamentadas em provas inquisitorial e judicial, em razão da necessidade de revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+2. Agravo regimental improvido."
+(AgRg no AREsp 1.131.028/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018).
+" ..
+Desconstituir o entendimento firmado, no intuito de abrigar o pleito defensivo de absolvição, exigiria o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice da Súmula 7/STJ. (..)
+2. Agravo regimental desprovido. Ordem concedida de ofício para reduzir a reprimenda corporal, com a adequação do regime inicial de cumprimento da pena."
+(AgRg no AREsp 1.024.563/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/03/2018, DJe 04/04/2018).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME MILITAR. FURTO SIMPLES. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para adotar a tese suscitada pela defesa - de não haver certeza quanto ao envolvimento do agravante na prática delitiva - e, consequentemente, absolver o réu com base no art. 439, "e", do Código de Processo Penal Militar, seria necessário o revolvimento das provas constantes dos autos, o que ultrapassa a mera revaloração das premissas estabelecidas no acórdão impugnado e, por conseguinte, atrai a incidência da Súmula n. 7 desta Corte Superior.
+2. Agravo regimental não provido."
+(AgRg no REsp 1376286/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+Ademais, quanto à insurgência em razão da inversão do ônus da prova, "não há falar em nulidade absoluta em razão de alegada ofensa ao disposto no artigo 156 do Código de Processo Penal, eis que, diante da apreensão da res furtiva em poder do paciente, caberia à defesa apresentar prova acerca da origem lícita do bem" (HC 348.374/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/03/2016, DJe 16/03/2016).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
