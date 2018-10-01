@@ -1,0 +1,24 @@
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO CAUTELAR. FUNDAMENTAÇÃO. INSTRUÇÃO DEFICIENTE. REITERAÇÃO DE PEDIDOS. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando-se como autoridade coatora a Desembargadora Relatora do Tribunal de Justiça de Goiás, que não conheceu do HC n. 5371441-27.2018.8.09.0000.
+Infere-se dos autos que o paciente, denunciado pela suposta prática do delito previsto no art. 35, caput, da Lei n. 11.343/2006 e art. 1º, § 4º, da Lei n. 9.613/1998, teve a prisão preventiva decretada no dia 4/8/2016 (Autos n. [CPF], da 2ª Vara da comarca de Jaraguá/GO).
+Em 1º/12/2016, a Sexta Turma deste Tribunal Superior, nos autos do HC n. 376.169/GO, concedeu a ordem para substituir a prisão do ora paciente pelas cautelares previstas no art. 319, I e III, do Código de Processo Penal.
+No dia 15/2/2018, por ter violado as medidas cautelares impostas, o paciente teve a prisão preventiva decretada (fls. 1.713/1.714).
+Aqui, pretende o impetrante a revogação da prisão preventiva. Aduz que o paciente não compareceu na audiência de instrução e julgamento pelo fato que o mesmo estava preso na Comarca de Aparecida de Goiânia, e seu antigo causídico não informou ao douto juízo do feito que o mesmo estava encarcerado (fl. 4).
+Ressalta ser o paciente primário, ter residência fixa e ocupação lícita (trabalha como empresário e é estudante).
+Por aqui, ainda tramita o HC n. 403.555/GO, impetrado em favor do corréu [NOME].
+É o relatório.
+O presente writ não merece seguimento.
+Isso porque, o impetrante se insurge contra decisão singular, contra a qual seria cabível agravo regimental, que, ao que consta, não foi interposto. Ademais, a Desembargadora Relatora não conheceu do writ ora atacado, por se tratar de reiteração de pedido feito no HC n. 20866-76.2018.8.09.0000 anteriormente impetrado, acórdão este que sequer foi acostado aos autos, o que revela deficiência na instrução do feito.
+E, ainda que assim não fosse, a questão referente aos fundamentos da constrição cautelar é objeto do HC n. 450.096/GO, impetrado contra o habeas corpus acima citado, no qual, em 16/5/2018, indeferi o pedido liminar e já há parecer do Ministério Público Federal pela manutenção da prisão preventiva.
+De mais a mais, em que pesem as alegações, não percebi nenhuma manifesta ilegalidade a justificar o seguimento desta impetração. Como já dito, aparentemente, há fundamentação idônea para o decreto da constrição cautelar. Eis o que consta da decisão de origem (fls. 1.713/1.714 - grifo nosso):
+ ..  O Ministério Público, por meio de seu representante legal, requereu a decretação da prisão preventiva, alegando que apesar dos acusados [NOME] DE LIMA [NOME] e JOÃO LÚCIO CORREA DE MORAIS terem conseguido Habeas Corpus perante o Superior Tribunal de Justiça, não deram cumprimento As medidas cautelares impostas e tampouco mantiveram seus endereços atualizados nos autos, impedindo que fossem intimados para a audiência de instrução e julgamento, estando em local incerto e não sabido.
+Pois bem. A Lei nº 12.403/11 impôs alterações quanto aos requisitos ensejadores da decretação da prisão preventiva, o que deve ser observado no presente caso concreto.  ..
+No caso dos autos, vislumbro a necessidade da decretação da prisão preventiva, tendo em conta que os acusados [NOME] e JOAO LÚCIO estão se furtando de todas as formas possíveis à imposição ditada pelo ordenamento jurídico brasileiro, especialmente no tocante à persecução penal, tanto mesmo após serem notificados, apresentarem defesa e tomarem ciência da cautelares impostas, não mantiveram seus endereços atualizados nos autos, demonstrando total descaso com a justiça, atrasando o curso processual e deixando clara a intenção de esquivar-se.
+Verifico ainda que os acusados estão sendo processados pela prática do crime de tráfico, associação e lavagem de dinheiro, existindo indícios suficientes de autoria e materialidade delitiva, de tal forma que todo o contexto fático criado autoriza a segregação.
+Ressalto ainda que o processo encontra-se desde 01/08/2017, ou seja, há mais de 06 (seis) meses com a audiência de instrução concluida, aguardando somente a localização destes dois acusados para interrogatório e finalizar a instrução. Destaco novamente que estes acusados já tinham ciência da presente ação e da obrigação de manterem o endereço atualizado nestes autos  ..
+Com efeito, aqui, temos dito que o descumprimento de medida cautelar anteriormente imposta, quando da concessão da liberdade provisória, é motivo legal para a decretação da prisão preventiva. Inteligência dos artigos 312, parágrafo único e 282, § 4º, ambos do Código de Processo Penal (HC n. 422.646/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/2/2018).
+Por tais razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
