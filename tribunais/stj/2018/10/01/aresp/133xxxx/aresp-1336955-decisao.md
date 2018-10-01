@@ -1,0 +1,59 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ART. 183 DA LEI N. 9.472/97. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CRIME FORMAL, DE PERIGO ABSTRATO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de SYLVIO DE ALENCAR NEVES COSTA manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+O juízo singular condenou o agravante como incurso nas sanções do artigo 183 da Lei n. 9.472/97, à pena de 2 (dois) anos e 6 (seis) meses de reclusão, no regime inicial aberto, e 97 (noventa e sete) dias-multa (fls. 354-370).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso foi parcialmente provido para redimensionar a pena de multa ao patamar de 12 (doze) dias-multa (fls. 435-450).
+No recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a defesa alega ofensa ao artigo 183 da Lei n. 9.472/97; artigo 70 da Lei n. 4.117/1962; e artigo 386, inciso III, do Código de Processo Penal, aos argumentos de que:
+(i) "violado o artigo 183 da Lei Geral de Telecomunicações, uma vez que condenado o recorrente sem que estivesse caracterizada a tipicidade formal do delito" (fl. 459);
+(ii) "no caso dos autos, a ausência de qualquer potencial de dano, decorrente da baixa potência da rádio, afasta a tipicidade da conduta (..)  e ntendimento em sentido diverso leva à conclusão de que o objeto jurídico tutelado pela norma penal é o monopólio dos meios de comunicação, o que é completamente incompatível com um Estado Democrático de Direito" (fl. 462)
+Contrarrazões às fls. 475-492.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula 7 do STJ (fls. 494-500).
+Nas razões do presente agravo, a parte alega que não incide o referido óbice (fls. 503-513).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 537-538).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+Busca a parte recorrente, em síntese, nas suas razões recursais, a absolvição em relação ao delito previsto no artigo 183 da Lei n. 9.472/97.
+Confira-se, oportunamente, trecho do v. acórdão ora vergastado sobre o tema, verbis:
+"Materialidade. A materialidade delitiva está suficientemente comprovada pelos seguintes elementos de convicção:
+a) termo de representação e relatório fotográfico do local dos fatos (fls. 4/6);
+b) nota técnica expedida pela [NOME] (fl. 7/7v.);
+c) auto de infração (fls. S/S));
+d) termo de interrupção de serviço (fls. 10/11);
+e) relatório de fiscalização da [NOME] (fls. 12/18);
+f) auto de apreensão do equipamento transmissor FM (fl. 36);
+g) laudo de exame pericial com a constatação de que o equipamento transmissor indicava sinais na frequência 103,1 Mhz, com potência de 34 Watts (fls. 47/50).
+Autoria. A autoria está suficientemente demonstrada.
+Na fase investigativa, o réu afirmou que administrava a rádio e realizava os serviços de manutenção, admitindo a responsabilidade pela estação de radiodifusão sonora denominada Rádio Morada do Sol FM. Tratava-se de uma rádio comunitária, sem fins lucrativos, que tocava música caipira. Acreditava que o fato caracterizasse mera contravenção (fl. 42).
+Em juízo, o réu declarou que fora convidado a trabalhar na rádio comunitária e, como gostava de comunicação, decidiu ajudar. A rádio não lhe pertencia. Não era proprietário dos equipamentos, não entendia do assunto. A rádio pertencia 3 um senhor que já era do ramo, amigo de pessoas influentes em Vinhedo (SP), cujos nomes não poderia citar. Não sabia dizer quais equipamentos haviam sido apreendidos. Não sabia qual era a potência da rádio, que transmitia música e anúncios. Não recebia pelos anúncios. Trabalhava na rádio havia um mês. Quem permanecia no local com mais frequência era [NOME], que também foi à Delegacia, c era uma pessoa meio instável. Não estava presente na data da apreensão. [NOME] estava no local e ficou apavorado. Por conta disso, chamou a responsabilidade do fato para si perante a Autoridade Policial, por iniciativa própria, para aliviar a situação de [NOME]. Não entendia de rádio, não sabia programar músicas no computador. Foi avisado por [NOME] uns três dias depois da apreensão (mídia eletrônica à fl. 266).
+A testemunha Airam de [NOME], [NOME], declarou cm Juízo que se recordava da apreensão. O proprietário Sylvio, não estava no local dos fatos. Apreenderam os equipamentos. A diligência foi acompanhada por um Oficial de Justiça. Houve medição com equipamentos específicos e foram sacadas fotografias a fim de demonstrar que a rádio estava em funcionamento. Não lembrava quem estava no momento, essa informação está em seu relatório. Os Oficiais de Justiça foram até uma imobiliária e constataram que [NOME] era o locatário do imóvel. O réu Sylvio confirmou que era o responsável pela rádio. [NOME] dissera que Sylvio era responsável pela rádio, foi realizado contato telefônico por celular com Sylvio e que confirmou a informação (mídia eletrônica â 11. 245).
+A testemunha [NOME] declarou em Juízo que a rádio não tinha autorização, o que descobriram apenas posteriormente. O responsável por ela disse que futuramente haveria a homologação. Conhecia essa pessoa pelo nome de Nei. Não sabia qual era o alcance da rádio, que tocava músicas na frequência 103,1 FM. O depoente permanecia no local cerca de duas horas todos os dias, como colaborador e locutor. Foi contratado por Nei. Sylvio também era colaborador e programador, além de ajudar com a limpeza. Cada colaborador tinha a chave da rádio. Não eram remunerados, realizavam a atividade porque gostavam. Recebiam ajuda para pagar as despesas com o aluguel e a limpe/a. A rádio transmitia música e. por vezes, realizava bazares e eventos de doação de sangue. Nenhum colaborador lucrava. Infelizmente não puderam continuar depois de descobrirem que era ilegal. Ninguém jamais reclamou de interferência (mídia eletrônica à fl. 201).
+Analisados os autos, há prova satisfatória de autoria delitiva.
+Em Juízo, o réu declarou que era mero colaborador da rádio e apresentou relatos evasivos a respeito de quem seria o real dono da estação.
+No entanto, a testemunha A iram Moreira. Técnico da [NOME], confirmou que na data dos fatos [NOME] afirmara que Sylvio era responsável pela estação de rádio, o que foi admitido por Sylvio cm contato telefônico.
+Não são críveis, portanto, os relatos judiciais do acusado e da testemunha [NOME], que não guardaram coerência com as informações que prestaram na fase extrajudicial ou com o testemunho do [NOME].
+Comprovadas a materialidade e a autoria do delito, que não restaram impugnadas, é mantida a condenação." (fls. 445-446)
+Ora, em síntese, a eg. Corte a quo entendeu pelo reconhecimento da atipicidade da conduta prevista no art. 183 da Lei 9.472/97, ao argumento de que ausente potencialidade lesiva ao bem jurídico tutelado, bem como em razão de o agente já haver possuído autorização para explorar o serviço de radiotáxi, a qual expirou por razões alheias à segurança da coletividade.
+Contudo, de acordo com o entendimento firmado nesta Corte, "o delito do art. 183 da Lei n. 9.472/1997 é crime formal, de perigo abstrato, razão pela qual não cabe a aplicação do princípio da insignificância. Precedentes. Incidência do enunciado n. 83 da Súmula do STJ" (AgRg no AREsp 1.012.489/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 22/09/2017).
+Nesse mesmo sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TELECOMUNICAÇÕES. TRANSMISSÃO CLANDESTINA DE SINAL DE INTERNET. SERVIÇO DE VALOR ADICIONADO. CLASSIFICAÇÃO QUE NÃO RETIRA A NATUREZA DE SERVIÇO DE TELECOMUNICAÇÃO. INVIABILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. CRIME DE PERIGO ABSTRATO. DESNECESSIDADE DE PREJUÍZO CONCRETO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. O delito do art. 183 da Lei n. 9.427/1997 é de perigo abstrato, uma vez que, para sua consumação, basta que alguém desenvolva de forma clandestina as atividades de telecomunicações, sem necessidade de demonstrar o prejuízo concreto para o sistema de telecomunicações.
+4. Agravo regimental improvido" (AgRg no AREsp 1.077.499/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 02/10/2017, grifei).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPLORAÇÃO CLANDESTINA DE ATIVIDADE DE TELECOMUNICAÇÕES. DELITO FORMAL. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. A instalação de estação de radiodifusão clandestina é delito formal, de perigo abstrato, bastante, por si só, para comprometer a segurança e a regularidade do sistema de telecomunicações do país.
+Desse modo, inviável a aplicação do princípio da insignificância, ainda que se trate de serviço de baixa potência. Precedentes (AgRg no AREsp 740.434/BA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/02/2017, DJe 21/02/2017).
+2. Agravo regimental improvido." (AgRg no AREsp 1.033.183/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 06/11/2017)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RÁDIO COMUNITÁRIA EM FUNCIONAMENTO SEM AUTORIZAÇÃO LEGAL. CRIME DO ARTIGO 183 DA LEI N. 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+1. A Terceira Seção desta Corte veio a se harmonizar o seu entendimento "no sentido da inaplicabilidade do princípio da insignificância ao delito previsto no art. 183 da Lei n. 9.472/1997, por tratar-se de crime formal, de perigo abstrato, o que torna irrelevante a ocorrência de dano concreto causado pela conduta do agente. Precedentes." (AgRg nos EREsp n. 1.177.484/RS, TERCEIRA SEÇÃO, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe de 15/12/2015).
+2. Agravo regimental desprovido." (AgRg no REsp 1.627.284/PE, Quinta Turma. Rel. Min. Ribeiro Dantas. DJe 10/05/2017, grifei).
+" ..
+RÁDIO COMUNITÁRIA CLANDESTINA. ARTIGO 183 DA LEI 9.472/1997. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE DE APLICAÇÃO. CRIME DE PERIGO ABSTRATO. DESNECESSIDADE DE AFERIÇÃO DA POTENCIALIDADE LESIVA DOS EQUIPAMENTOS DE TRANSMISSÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO IMPROVIDO.
+1. A aplicação do princípio da insignificância reflete o entendimento de que o Direito Penal deve intervir somente nos casos em que a conduta ocasionar lesão jurídica de certa gravidade, devendo ser reconhecida a atipicidade material de perturbações jurídicas mínimas ou leves, estas consideradas não só no seu sentido econômico, mas também em função do grau de afetação da ordem social que ocasionem.
+2. Segundo a jurisprudência do Supremo Tribunal Federal, o princípio da insignificância tem como vetores a mínima ofensividade da conduta, a nenhuma periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+3. Inviável a aplicação do referido brocardo, haja vista tratar-se de crime de perigo abstrato, no qual o simples exercício da atividade explicitada no texto normativo é suficiente para configurar a lesão ao bem jurídico tutelado, sendo descabida a análise da potencialidade lesiva dos equipamento utilizados para o funcionamento da rádio clandestina.
+4. Agravo regimental improvido." (AgRg no HC 260.074/BA, Quinta Turma, Rel. Min. Jorge Mussi, DJe 18/02/2014)
+Assim, considerando que o v. acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide a Súmula 568/STJ, que assim dispõe: " o  relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso, quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+P. e I.
