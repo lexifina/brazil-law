@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] MOTA BARBUGLIO contra decisão que inadmitiu o recurso especial manejado em face de acórdão proferido pelo eg. Tribunal de Justiça de São Paulo.
+De acordo com os autos, o agravante foi condenado a 20 (vinte) anos de reclusão pela prática do crime previsto no art. 121, § 2º, incisos I e IV, na forma do art. 14, inciso II, do Código Penal.
+Contra o édito condenatório, a defesa interpôs recurso de apelação, mas a sentença foi integralmente mantida.
+O recurso especial (e-STJ, fls. 2.644-2.656) foi interposto com fundamento nas alíneas a e c do permissivo constitucional. Em suas razões, o recorrente sustentou a ocorrência de dissídio jurisprudencial, além de violação ao art. 593, inciso III, alínea d, do Código de Processo Penal.
+O eg.Tribunal de origem negou seguimento ao recurso, sob o fundamento de que o dissídio jurisprudencial não foi demonstrado nos termos da legislação de regência. Além disso, foram apontados os óbices indicados pelos enunciados n. 284, da Súmula do Supremo Tribunal Federal e 7, do Superior Tribunal de Justiça.
+Nas razões do agravo em recurso especial (e-STJ, fls. 2.686-2.689), a defesa afirma que o pleito formulado não demanda revolvimento de fatos e provas e que, além disso, foi feita demonstração explicativa dos pontos nos quais o fundamento do julgado se afasta da norma indicada como violada, sendo, portanto, inaplicável o óbice sumular contido no enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Em sua manifestação, o Ministério Público opinou pelo não conhecimento do agravo (e-STJ, fls. 2.725-2.728).
+É o relatório.
+Da análise cotejada entre a decisão que inadmitiu o recurso e o presente agravo, verifica-se que esta insurgência não ultrapassa a barreira do conhecimento, na medida em que a defesa do agravante não atacou - com a necessária dialeticidade recursal - todos os fundamentos da decisão agravada.
+Desse modo, imperativa a subsunção do disposto nos arts. 932, inciso III, da Lei n.º 13.105/15, c/c 3º do Código de Processo Penal, e 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, segundo os quais não se conhece do agravo que não tenha atacado, especificamente, todos os fundamentos da decisão agravada, pelo que vale conferir:
+Art. 253. Omissis:
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo  ..  que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+Sobre o tema, esta Corte de Superposição sufraga o entendimento no sentido de que "É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do enunciado 182 da Súmula desta Corte" (AgRg no AREsp 1228710/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/05/2018, DJe 04/06/2018 - g.n.)
+Para este Sodalício, "Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia" (AgRg no AREsp 542.855/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/06/2015, DJe 29/06/2015 - g.n.).
+No mesmo flanco:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE NÃO CONHECIMENTO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DAS VIAS RECURSAIS EM SEGUNDA INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos da Súmula 182 desta Corte, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..  (AgRg no AREsp 1148470/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018 - grifou-se)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DO TRIBUNAL A QUO QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ. FALHA QUE SE REPETE NO PRESENTE REGIMENTAL. COMPETÊNCIA DA PRESIDÊNCIA DESTA CORTE. ART. 21-E DO RISTJ. PRESCRIÇÃO. INOCORRÊNCIA. RECURSO NÃO CONHECIDO.
+1. Nas razões do agravo em recurso especial, a defesa deixou de impugnar de forma clara e objetiva os fundamentos do decisum, o que impede o seu conhecimento, por ausência de requisito de admissibilidade (Súmula 182/STJ).
+2. A falha é repetida no presente agravo regimental, pois o agravante limita-se a considerações sobre o mérito do recurso especial, sem demonstrar, ainda que de forma sucinta, que o caso não atrairia a incidência da referida Súmula 182/STJ.
+3. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência no mérito da controvérsia.
+ ..
+6. Agravo não conhecido. (AgRg nos EDcl no AREsp 1134848/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/11/2017, DJe 01/12/2017 - grifou-se)
+Por tais razões, não se conhece do agravo em recurso especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intimem-se
