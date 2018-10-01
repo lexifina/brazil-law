@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME], contra acórdão do Tribunal de Justiça do Estado do Espírito Santo (HC n. 0023549-50.2017.8.08.0000).
+Consta dos autos que o paciente foi preso em flagrante, sendo a custódia convertida em preventiva, pela suposta prática dos crimes previstos nos artigos 157, § 2º, incisos I e II e 180, ambos do Código Penal.
+Na ação originária, a defesa alegou excesso de prazo para a formação e da culpa e ausência de motivos legais para a prisão. O Tribunal estadual, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 321):
+EMENTA: HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ROUBO CIRCUNSTANCIADO. POSSE DE DROGA. PRISÃO PREVENTIVA. REQUISITOS PRESENTES. ORDEM PÚBLICA. DENEGADA A ORDEM.
+1. Como já decidido por esta Colenda Câmara em julgamento de Habeas Corpus impetrado em favor do paciente, a necessidade de garantia da ordem pública, em virtude e da reiteração delitiva, é motivo que, por si só, autoriza a decretação da prisão preventiva. 2. Eventual; excesso de prazo deve ser analisado à: luz do princípio da razoabilidade, permitido aos Juízo, em hipóteses excepcionais, ante as peculiaridade da causa, a extrapolação dos prazos previstos; na lei processual penal, visto que essa aferição não resulta de simples operação aritmética. 3. Ordem denegada. Unânime.
+Na presente impetração (e-STJ fls. 328/340), a defesa reitera os argumentos relacionados ao excesso de prazo ao afirmar que o recorrente já está preso há mais de dez meses, sendo o atraso para encerramento da instrução criminal por culpa exclusiva da prestação jurisdicional. Ressalta que apesar de existirem três acusados, todos são patrocinados pelo mesmo causídico, que apresentou resposta escrita, antes mesmo de ser intimado, e não arrolou nenhuma testemunha para ser ouvido em Juízo (e-STJ fl. 333).
+Diante disso, pede, liminarmente, a expedição de alvará de soltura em favor do recorrente e, no mérito, pela cassação do acórdão recorrido, bem como da decisão que decretou a prisão preventiva, com a concessão de liberdade provisória, sem imputação de fiança.
+Contrarrazões às e-STJ fls. 351/353.
+A liminar foi indeferida (e-STJ fls. 368/370).
+As informações foram prestadas (e-STJ fls. 394/427) e o Ministério Público Federal manifestou-se pela prejudicialidade do recurso, em parecer assim resumido (e-STJ fl. 429):
+Recurso Ordinário em Habeas Corpus. Art. 157, § 2o, I e II e 180, ambos do Código Penal. Excesso de prazo. Superveniência de sentença condenatória. Pedido prejudicado. Revogação da prisão preventiva. Periculosidade concreta do paciente, que é contumaz na prática delitiva. decisão devidamente fundamentada. Regime semiaberto fixado na sentença condenatória. Compatibilidade entre a prisão cautelar e o regime menos gravoso. Necessidade de adequação. Parecer para que se julgue prejudicada a alegação de excesso de prazo e pelo desprovimento do recurso quanto ao pedido de revogação da prisão preventiva, com a ressalva de que haja a adequação da constrição ao modo de execução estabelecido na sentença.
+É o relatório, decido.
+Com razão o Ministério Público.
+A alegação de excesso de prazo está superada, uma vez que em 16/8/2018 foi proferida sentença condenando o recorrente à pena de 8 anos, 6 meses e 20 dias de reclusão, no regime inicial fechado, circunstância que atrai a aplicação do enunciado n. 52 da Súmula do Superior Tribunal de Justiça:
+ENCERRADA A INSTRUÇÃO CRIMINAL, FICA SUPERADA A ALEGAÇÃO DE CONSTRANGIMENTO POR EXCESSO DE PRAZO.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado do presente recurso ordinário em habeas corpus.
+Publique-se.
