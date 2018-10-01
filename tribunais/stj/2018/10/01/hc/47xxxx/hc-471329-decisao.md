@@ -1,0 +1,15 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. NOVA CONDENAÇÃO. UNIFICAÇÃO DE PENAS. MARCO INICIAL PARA BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO OU FALTA GRAVE. ENTENDIMENTO FIRMADO NO RESP N. 1.557.461/SC, JULGADO PELA TERCEIRA SEÇÃO. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] em razão do acórdão proferido pelo Tribunal de Justiça do Paraná no Agravo em Execução Penal n. 0015945-22.2018.8.16.0019, cuja ementa é a seguinte (fl. 45):
+RECURSO DE AGRAVO. EXECUÇÃO PENAL. INSURGÊNCIA DO MINISTÉRIO PÚBLICO. MAGISTRADO QUE DEFINIU A DATA BASE, PARA A CONCESSÃO DO BENEFÍCIO DA PROGRESSÃO DE REGIME, COMO A DATA DA ÚLTIMA PRISÃO DO AGRAVADO. PLEITO MINISTERIAL DE MODIFICAÇÃO PARA A DATA DO TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO. ACOLHIMENTO. A EXISTÊNCIA DE CONDENAÇÃO SUPERVENIENTE ENSEJA UM NOVO CÁLCULO DA PENA, PARA FINS DE PROGRESSÃO DE REGIME. A CONTAGEM DO PRAZO PARA A CONCESSÃO DO BENEFÍCIO DEVE SER INTERROMPIDA E, APÓS A UNIFICAÇÃO DAS PENAS, INICIA-SE O TERMO PARA A CONTAGEM DA PROGRESSÃO, A PARTIR DO TRÂNSITO EM JULGADO, PARA A ACUSAÇÃO, DA NOVA CONDENAÇÃO. PRECEDENTES. DECISÃO MODIFICADA. RECURSO
+Busca-se a concessão liminar da ordem para reformar o acórdão ora impugnado, restabelecendo-se a decisão dada em primeiro grau, que fixou a data da última prisão como marco inicial para obtenção de benefícios.
+Argumenta-se, para tanto, que o acórdão impugnado fixou a data-base, para fins de progressão de regime, como sendo o dia do trânsito em julgado da condenação superveniente, decisão esta em sentido oposto ao decidido por este Colendo Superior Tribunal de Justiça quando do julgamento do REsp n. 1.557.461/SC (fl. 5).
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem in limine.
+Isso porque a Terceira Seção desta Corte, no julgamento do Resp 1.557.461/SC, ocorrido no dia 22/2/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+Como dito no voto condutor, é preciso ressaltar que a unificação de nova condenação definitiva já possui o condão de recrudescer o quantum de pena restante a ser cumprido pelo reeducando, logo, a alteração da data-base para concessão de novos benefícios, a despeito da ausência de previsão legal, configura excesso de execução, baseado apenas em argumentos extrajurídicos.
+Pelo exposto, concedo liminarmente a ordem para estabelecer a data da última prisão da paciente, ou a data do cometimento da última falta grave, como a data-base para a aquisição de benefícios na execução da pena, observado o disposto nas Súmulas 441, 534 e 535/STJ.
+Comunique-se.
+Publique-se.
