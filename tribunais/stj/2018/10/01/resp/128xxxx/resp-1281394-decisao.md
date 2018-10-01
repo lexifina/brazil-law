@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial, interposto por [NOME] E SERVIÇOS FERROVIÁRIOS LTDA, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 512):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. INOVAÇÃO RECURSAL. MATÉRIAS NÃO ANALISADAS. CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO MENSAL DE JUROS. POSSIBILIDADE. INCIDÊNCIA DA MP 2.170-36/2001. JUROS DE MORA E REMUNERATÓRIOS. CUMULAÇÃO. POSSIBILIDADE. Matérias erigidas somente em sede recursal não poderão ser analisadas pelo juízo ad quem, sob pena de ofensa ao princípio da devolutividade e ao instituto da preclusão. A cédula de crédito bancária constitui título executivo, consoante previsão expressa no art. 3º da MP 2160-25/2001. Segundo entendimento consolidado no eg. STJ é possível a capitalização mensal de juros remuneratórios, desde que expressamente pactuada em contrato firmado após a vigência da Medida Provisória nº. 1.963-17/2000, atualmente reeditada sob o nº. 2.170-36/2001. É legal a cobrança simultânea de juros moratórios com juros remuneratórios, porquanto possuem funções distintas.
+Opostos embargos de declaração em face do referido acórdão (fls.535/538), esses restaram rejeitados, com imposição de multa (fls. 630/650).
+Em suas razões (fls. 653/664), a recorrente sustenta dissídio jurisprudencial e violação aos arts. 515, caput e § 1º, 517, 535, incisos I e II, e 538, parágrafo único, do CPC/1973.
+Isso por ter o Tribunal a quo (a) considerado protelatórios os embargos de declaração opostos com intuito de prequestionamento, (b) deixado de sanar omissão e contradição acerca de importantes matérias oportunamente aventadas e (c) reconhecido equivocadamente a inovação recursal da alegação de descumprimento das cláusulas 3ª e 5ª do contrato de empréstimo n. 95.0002121-5.
+Admitido o recurso especial (fl. 789), vieram os autos a esta Corte Superior.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Inicialmente, cumpre afastar a multa aplicada em sede de embargos de declaração (fls. 630/650).
+Conforme se extrai do recurso aclaratório (fls. 535/538), além de pretender sanar omissão e contradição, a recorrente também objetivou prequestionar vários dispositivos de lei federal, o que, a teor da Súmula 98 do STJ, afasta o seu caráter protelatório.
+Por essa razão, ausente o cunho protelatório dos embargos de declaração, mostra-se descabida a imposição da multa prevista no art. 538, parágrafo único, do CPC/1973.
+2. Ultrapassada essa questão, observa-se ter havido, de fato, omissão por parte do Tribunal a quo.
+Na espécie, embora o Colegiado local tenha reconhecido a inovação recursal da arguição de descumprimento das cláusulas 3ª e 5ª do contrato de empréstimo 95.0002121-5, não foi emitido juízo de valor acerca das alegações de que a licitude do débito lançado em conta vem sendo questionado desde a oposição dos embargos à execução e de que foi apenas com o laudo pericial oficial que a recorrente tomou conhecimento de que o desconto perpetrado pelo banco se referia a esse empréstimo, razão pela qual o exame da matéria consubstanciaria fato novo passível de análise.
+Embora provocado, o Colegiado se manteve silente em relação à alegada distorção econômica gerada pelo laudo pericial, na qual uma dívida de R$ 379.501,44 se transformou em R$ 1.143,042,55, afrontando, consequentemente, os postulados da boa-fé e função social do contrato.
+Sobre o tema, reconhecendo a negativa de prestação jurisdicional na hipótese em que o Tribunal local se recusa a enfrentar relevantes questões para o deslinde da controvérsia, colhem-se os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEIS. AÇÃO DE NULIDADE DE NEGÓCIO JURÍDICO. ALIENAÇÃO REALIZADA COM UTILIZAÇÃO DE INSTRUMENTO DE MANDATO DECLARADO NULO. TEORIA DA APARÊNCIA E BOA-FÉ DO TERCEIRO ADQUIRENTE. EMBARGOS DECLARATÓRIOS. OMISSÃO. OCORRÊNCIA. NECESSIDADE DE MANIFESTAÇÃO SOBRE PONTOS RELEVANTES. VIOLAÇÃO DO ART. 535 DO CPC. ACOLHIMENTO.
+1. Há violação do art. 535, II, do Código de Processo Civil quando, no acórdão recorrido, a despeito da oposição de embargos declaratórios, inexiste manifestação sobre argumento jurídico fundamental ao deslinde da controvérsia.
+2. Recurso especial parcialmente conhecido e provido.
+(REsp 1416624/ES, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, julgado em 15/09/2015, DJe 18/11/2015, sem grifos no original)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DECLARATÓRIOS. NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DECISÃO AGRAVADA MANTIDA.
+1.- Confirmada a ocorrência de negativa de prestação jurisdicional, pois o acórdão deixou de se manifestar sobre questões relevantes para o deslinde da controvérsia.
+2.- Agravo Regimental improvido.
+(AgRg no AREsp 453741/CE, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/03/2014, DJe 10/04/2014, sem grifos no original)
+Dessa forma, considerando que a ausência de efetivo pronunciamento sobre as matérias prejudica o acesso às instâncias extraordinárias, deve-se cassar o acórdão proferido em sede de embargos de declaração, determinando que novo julgamento seja proferido, enfrentando o Tribunal local, de forma fundamentada, as questões que lhe foram submetidas.
+3. Em virtude do acolhimento da negativa de prestação jurisdicional, resta prejudicado o exame da alegada violação aos arts. 515, caput e § 1º e 517 do CPC/1973.
+4. Do exposto, com fulcro no art. 932, inciso V, alínea "a", do CPC/2015, c/c a Súmula 568 do STJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento a fim de (a) reconhecer a ocorrência de violação aos arts. 535, inciso II, e 538, parágrafo único, do CPC/1973, (b) afastar a multa aplicada pelo Tribunal a quo e (c) cassar o acórdão proferido em sede de embargos de declaração (fls. 630/650), determinando o retorno dos autos ao Tribunal de origem, para que aquele órgão jurisdicional examine, de forma fundamentada, o recurso que lhe foi submetido.
+Publique-se.
+Intimem-se.
