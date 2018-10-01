@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO LUÍS contra decisão que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 306/307):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. TRATAMENTO DE SAÚDE. RESERVA DO POSSÍVEL. Tentativa de rediscussão do julgado. FIXAÇÃO DE ASTREINTES PARA GARANTIR O CUMPRIMENTO. VALOR DAS ASTREINTES EM CONSONÂNCIA COM OS PRINCÍPIOS DA PROPORCIONALIDADE E A RAZOABILIDADE. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. ARGUMENTAÇÃO RECURSAL INSUFICIENTE PARA REFORMAR A DECISÃO AGRAVADA.
+I. In casu, considerando o direito posto em debate, qual seja, o direito à vida e a saúde, se revela justo e adequado aos princípios da razoabilidade e proporcionalidade a fixação de multa diária de R$ 1.000,00 em caso de descumprimento.
+II. "Conforme jurisprudência desta Suprema Corte, a cláusula da "reserva do possível" não pode ser invocada pelo Estado com a finalidade de exonerar-se do cumprimento de suas obrigações constitucionais, ressalvada a ocorrência de justo motivo objetivamente aferível, que não é o caso dos autos" (..). (RE 665651-RS, Rel. Min. Gilmar Mendes, decisão, julgado em
+03/02/2012, DJE de 13/02/2012).
+III. "Há em verdade, tentativa de discutir o julgado. A Agravante
+não apresenta, no regimental, argumentos suficientes para
+desconstituir a decisão agravada". (AgRg no REsp 1494262/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/03/2016, DJe 11/03/2016).
+IV. Agravo Interno improvido.
+No especial obstaculizado, o ora agravante apontou violação do art. 537, § 1º, I, do Código de Processo Civil de 2015, ao argumento de que o valor de R$ 1.000,00 (mil reais) a título de multa diária é exorbitante, na medida em que os insumos pretendidos, fraldas, não podem ser considerados como medicamento emergencial para manter a vida da parte autora.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 353/354).
+Na presente irresignação, o agravante alega que o recurso obstado atende aos pressupostos para a sua admissão (e-STJ fls. 357/362).
+Apresentou-se contraminuta às e-STJ fls. 368/372.
+O Ministério Público Federal opina pelo desprovimento do agravo em recurso especial (e-STJ fls. 380/384).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Impõe-se notar, no que se refere à multa cominatória (astreintes), que o Superior Tribunal de Justiça firmou compreensão de que, em regra, não é cabível, na via especial, a sua revisão, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7 do STJ.
+Somente em casos excepcionais, quando a quantia arbitrada se mostrar exorbitante ou insignificante, em flagrante violação dos princípios da razoabilidade e da proporcionalidade, admite-se rever o total da multa diária aplicada.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MULTA DIÁRIA (ASTREINTES) FIXADA COM O OBJETIVO DE ASSEGURAR O FORNECIMENTO DE MEDICAMENTO. VALOR DA MULTA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Hipótese em que "a tese recursal defendida no apelo nobre não questiona a aplicação das astreintes, mas apenas o valor da multa diária estabelecida. Logo, houve preclusão do debate sobre cabimento da medida, restando apenas o questionamento a respeito da correção do quantum, matéria não abarcada pela afetação do REsp 1.474.665/RS" (AgInt no AREsp 900.872/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 14.11.2016).
+2. A jurisprudência do STJ pacificou o entendimento de que a apreciação dos critérios previstos na fixação de astreintes implica reexame de matéria fático-probatória, o que encontra óbice na Súmula 7/STJ. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, o que não se configura neste caso.
+3. In casu, o Tribunal de Justiça assentou que o valor da multa diária de R$ 1.000,00 (mil reais), é razoável, "porque o que está em discussão é o direito à saúde de paciente que está com perda visual e que se não tratado corretamente, pode ocasionar cegueira, bem como que este pessoa não tem condições financeiras para custear o tratamento"(fl. 127, e-STJ). Assim, não se mostra excessiva, a ensejar a sua revisão pelo STJ, nos termos da sua Súmula 7.
+4. Recurso Especial não conhecido. (REsp 1.662.614/PE, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 20/06/2017).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. O SOBRESTAMENTO DO JULGAMENTO DE PROCESSOS EM FACE DE RECURSO REPETITIVO (ART. 543-C DO CPC) SE APLICA APENAS AOS TRIBUNAIS DE SEGUNDA INSTÂNCIA. FORNECIMENTO DE MEDICAMENTO. CABIMENTO DE IMPOSIÇÃO DE MULTA DIÁRIA, CONTRA A FAZENDA PÚBLICA, POR DESCUMPRIMENTO DE OBRIGAÇÃO. IMPOSSIBILIDADE DE REVISÃO DO VALOR ARBITRADO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DA UNIÃO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial firmou entendimento de que o comando legal que determina a suspensão do julgamento de processos em face de recurso repetitivo, nos termos do art. 543-C do CPC, somente é dirigido aos Tribunais de segunda instância, e não abrange os recursos especiais já encaminhados ao STJ.
+2. O entendimento adotado pela Corte de origem não destoa da jurisprudência do STJ, segundo a qual é cabível a cominação de multa contra a Fazenda Pública por descumprimento de obrigação de fazer. No caso em tela, a apreciação dos critérios previstos no art. 461 do CPC para a fixação de seu valor demandaria o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante.
+3. Na hipótese, o valor de R$ 1.000,00 (mil reais) não se mostra excessivo, a ensejar a sua revisão por esta Corte Superior, especialmente por se tratar de hipótese de fornecimento de medicamentos e tratamento de saúde.
+4. Agravo Regimental da União Federal a que se nega provimento. (AgRg no AREsp 730.021/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 08/09/2015, DJe 23/09/2015).
+No caso, a Corte local manteve a multa cominatória estabelecida pelo juízo sentenciante, sob o seguinte fundamento (e-STJ fls. 309/310):
+A fixação da multa para a hipótese de descumprimento da ordem judicial é medida decorrente do poder geral de cautela do Magistrado e objetiva dar efetividade as decisões judiciais, nos termos do artigo 497, do CPC.
+Tendo em vista que, a fixação de multa é medida coercitiva de caráter inibitório, e que pela sua própria natureza, é fixada pra evitar o descumprimento, logo seria contraditório a exigência de evidências do seu descumprimento para a sua fixação.
+Além do mais, a fixação de multa só atingirá o patrimônio do agravante na hipótese do seu não cumprimento, não gerando, por certo, enriquecimento ilícito da parte ora, Agravada em nenhum momento.
+Sobre a matéria versada nos autos, muitos são os precedentes desta Egrégia Corte, in verbis:
+(..)
+Além disto, o valor fixado na multa está em plena consonância parâmetros utilizados nesta Egrégia Corte em casos semelhantes, e entendo como justo e razoável a manutenção do valor fixado pelo Juízo de 1º Grau, R$1.000,00 (hum mil reais) para cada dia de descumprimento. Neste sentido transcrevo diversos julgados desta Corte:
+(..)
+O aresto recorrido registrou, ainda, que o pedido de redução da multa diária não deve prosperar, "pois diante a gravidade da doença que acomete o agravado, necessária se faz a imposição de multa capaz de compelir o agravante ao cumprimento da obrigação imposta" (e-STJ fl. 320), concluindo, ao final, que o valor estabelecido está em conformidade a jurisprudência daquela Corte de Justiça.
+Diante desse contexto, não se mostra flagrantemente desproporcional o valor da multa diária. Com efeito, a modificação do julgado nos moldes pretendidos, a fim de reconhecer a prescindibilidade dos insumos pleiteados para a manutenção da vida e saúde da agravante, demandaria a revisão do acervo fático-probatório, providência que encontra óbice na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
