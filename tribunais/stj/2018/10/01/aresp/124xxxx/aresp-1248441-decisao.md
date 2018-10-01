@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 83/STJ (e-STJ fls. 325/328).
+O acórdão do TJMT está assim ementado (e-STJ fls. 286/287):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - EMBARGOS MONITÓRIOS - NOTA PROMISSÓRIA PRESCRITA - AVALISTA - SÓCIOS DA EMPRESA - REPRESENTANTES LEGAIS - ILEGITIMIDADE PASSIVA - PRESCRITA A NOTA PROMISSÓRIA A RELAÇÃO CAMBIAL DEIXA DE EXISTIR - RESPONSABILIDADE DO AVALISTA PERSISTENTE DURANTE PERÍODO DE EXEQUIBILIDADE DO TÍTULO - AVAL INSUBSISTENTE - RELAÇÃO CAMBIÁRIA AFASTADA - RECURSO DESPROVIDO.
+A Ação Monitoria é o instrumento processual colocado à disposição de credor de quantia certa, com crédito comprovado por documento escrito sem eficácia de título executivo, para que possa requerer em juízo o seu pagamento.
+A nota promissória prescrita, por exemplo, é documento escrito apto a sustentar uma Monitoria, conforme entendimento pacificado do colendo Superior Tribunal de Justiça.
+Ocorrendo a prescrição, o título perde suas características cambiais, deixando de existir, também, os institutos tipicamente cambiais, como o aval e o endosso.
+Com a prescrição da ação cambiária, tem-se por certo que as garantias perdem sua eficácia, inclusive o aval, de maneira que não mais responde o avalista pela obrigação assumida pelo devedor principal.
+A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, o aval perde sua eficácia quando prescrita a ação cambiária, não mais respondendo o garante pela obrigação assumida pelo devedor principal, salvo se comprovado o locupletamento do avalista.
+Tratando-se o documento que instrui a monitoria de título de crédito prescrito, o avalista que apôs sua assinatura no mesmo não pode integrar o polo passivo da lide, uma vez que o aval é garantia de natureza exclusivamente cambial, só acompanhando o título enquanto este tem força executiva.
+Sendo o aval uma garantia cambial, esta se extingue com a perda da força executiva do título, salvo se demonstrado que o avalista se locupletou daquele crédito, o que não existe nos autos.
+Os sócios da empresa somente poderiam responder solidariamente, por dívida assumida pela sociedade quando demonstrado que agiram com abuso de direito ou fraude, e também se esgotados os meios de recebimento da dívida perante a sociedade.
+Nas razões do recurso especial (e-STJ fls. 302/319), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, violação do art. 485, VI, do CPC/2015, afirmando que:
+(a) seria fato incontroverso ter celebrado negócio jurídico tanto com a pessoa jurídica como com os avalistas das notas promissórias endossadas, para todos gerando vantagem econômica, motivo de serem parte passiva para responder pelo débito (e-STJ fl. 309),
+(b) teriam todos os sócios subscrito a nota promissória como avalistas e não na condição de representantes legais da empresa (e-STJ fls. 309/311),
+(c) não teriam os recorridos negado a existência da dívida ou questionado sua natureza, fato que transcenderia a mera abstração de apor a assinatura no título, justificando reconhecer a legitimidade passiva dos sócios recorridos quanto ao débito (e-STJ fl. 313) e
+(d) seria desnecessário, na ação monitória, mencionar a causa de pedir que fundamentaria o negócio jurídico em função do qual o título teria sido emitido, mas que teria identificado a origem da relação causal do título, sem qualquer contestação dos avalistas/endossatários do título (e-STJ fl. 314).
+Não foram ofertadas contrarrazões (e-STJ fl. 324).
+No agravo (e-STJ fls. 331/349), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 352).
+É o relatório.
+Decido.
+A Corte local reconheceu a ilegitimidade passiva dos recorridos, assentando que os sócios recorridos assinaram como representantes legais da empresa, e não como avalistas do título prescrito, motivo por que a tese de serem parte passiva legítima na demanda instaurada para cobrar nota promissória prescrita, ante os benefícios por eles fruídos, conforme defendido pelo recorrente, não subsistia. Fixou, ainda, que apenas um sócio - e não todos - assinou a nota promissória. Confira-se o excerto (e-STJ fls. 292/293):
+No entanto, ocorrendo a prescrição, a nota promissória perde suas características cambiais, deixando de existir, também, os institutos tipicamente cambiais, como o aval e o endosso.
+Dessa forma, o portador da nota promissória, que, em razão do tempo, perdeu a força executiva, somente terá ação contra o endossante ou avalista, se demonstrar o seu prejuízo e em contrapartida, o enriquecimento destes, mas, para isso, deverá em primeiro lugar, buscar seus direitos junto ao devedor principal, isto é, o emitente do título.
+Assim, com a prescrição desaparece a relação cambial aposta no título, inviabilizando a demanda contra aqueles que não o responsável principal pela dívida.
+Entretanto, pode o credor ajuizar a ação monitória contra os garantidores se comprovar o locupletamento ilícito deles, restando caracterizada, assim, a pertinência subjetiva para o feito.
+Com estes fundamentos, não obstante o argumento expendido pelo apelante de que houve menção a origem da dívida, tem-se que apesar da nota promissória de fls. 12 ter sido assinada por um dos sócios, estes assinaram como representantes legais da empresa, e não na condição de avalistas.
+Conforme se observa dos autos, os apelados não estão sendo demandados na condição de sócio da empresa, mas porque assinaram a nota promissória prescrita, segundo a tese do apelante, por terem realizado o aval.
+Contudo, se fossem considerados na ação demandados na condição de sócios da empresa somente poderiam responder solidariamente, por dívida assumida pela sociedade quando demonstrado que agiram com abuso de direito ou fraude, e também se esgotados os meios de recebimento da dívida perante a sociedade.
+Assim, em se tratando de título prescrito a condição de avalista perde a razão de ser, porque deixa de existir a relação cambial.
+Desse modo, incluídos os apelados no polo passivo pela condição de terem assinado o título como avalista, e não subsistindo esta tese não há que se falar em legitimidade dos apelados, ainda porque somente um deles assinou a nota promissória e os demais não aportaram sua assinatura no documento.
+Dissentir de tais conclusões, para reconhecer que todos os recorridos teriam assinado o título, fazendo-o na condição de avalistas, e não como representantes da empresa, exigiria o reexame do acervo probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula n. 7/STJ.
+O TJMT assentou que, ainda que os recorridos tivessem sido demandados como sócios da empresa, apenas poderiam responder solidariamente por dívida assumida pela sociedade quando esgotados os meios de recebimento da dívida perante a sociedade e mediante demonstração de que agiram com abuso de direito ou fraude (e-STJ fl. 293).
+Tal fundamento, suficiente para manter o acórdão recorrido, não foi objeto de impugnação pelo recorrente, razão por que a Súmula n. 283/STF aplica-se como óbice ao recurso.
+A Corte de origem, por fim, afastou a legitimidade passiva do recorrido que teria figurado como avalista da nota promissória prescrita objeto de cobrança na ação monitória, assentando que (e-STJ fls. 293/294):
+Noutro passo, concernente a tese de que um dos apelados teria figurado como avalista da nota promissória, nenhum deles pode figurar no polo passivo da presente demanda, haja vista que não se trata de ação de execução, e sim de ação monitória ajuizada com base em nota promissória prescrita.
+Com a prescrição da ação cambiária, tem-se por certo que as garantias perdem sua eficácia, inclusive o aval, de maneira que não mais responde o avalista pela obrigação assumida pelo devedor principal.
+A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, o aval perde sua eficácia quando prescrita a ação cambiária, não mais respondendo o garante pela obrigação assumida pelo devedor principal, salvo se comprovado o locupletamento do avalista.
+De tal maneira, a ação tinha mesmo de prosperar em relação ao devedor principal. Mas não em relação ao avalista, uma vez que com a prescrição do título desaparece a sua responsabilidade.
+A decisão da Justiça de origem está em sintonia com o entendimento assente nas Turmas da Segunda Seção desta Corte, segundo o qual, uma vez "prescrita a ação cambiária, o aval perde eficácia, não respondendo o garante pela obrigação assumida pelo devedor principal, salvo se comprovado que auferiu benefício com a dívida" (REsp n. 896.543/MG, Relator Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 13/4/2010, DJe 26/4/2010.)
+No mesmo sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - EMBARGOS À MONITÓRIA (LASTRADA EM TÍTULO EXECUTIVO PRESCRITO) - RECONHECIMENTO, PELAS INSTÂNCIAS ORDINÁRIAS, COM BASE NOS ELEMENTOS FÁTICOS-PROBATÓRIOS, QUE A NOTA PROMISSÓRIA FOI OBJETO DE ACORDO CELEBRADO ENTRE AS PARTES - PROCEDÊNCIA DOS EMBARGOS MONITÓRIOS INSURGÊNCIA RECURSAL DO AUTOR DA MONITÓRIA.
+(..)
+3. As razões recursais, consistentes na alegação de que o acordo entabulado entre as partes não teria abrangido a nota promissória, em confronto com a conclusão do Tribunal de origem, que, lastrado nos elementos probatórios reunidos nos autos, reconheceu, sim, que o título cambial sob comento foi objeto da aludida transação, evidencia o indevido escopo de revolvimento de provas, providência não admitida na presente via especial. Incidência do enunciado n. 7 da Súmula do STJ.
+4. É firme a jurisprudência deste Tribunal Superior quanto à ilegitimidade do avalista para responder por dívida inscrita em título de crédito que sofreu a prescrição, salvo quando demonstrado seu locupletamente ilícito, circunstância não aventada no caso.
+Aplicação do enunciado n. 83/STJ 5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.069.635/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/8/2014, DJe 1º/9/2014.)
+Direito Comercial. Recurso Especial. Embargos à ação monitória.
+Cheque prescrito. Propositura de ação contra o avalista. Necessidade de se demonstrar o locupletamento. Precedente.
+- Prescrita a ação cambial, desaparece a abstração das relações jurídicas cambiais firmadas, devendo o beneficiário do título demonstrar, como causa de pedir na ação própria, o locupletamento ilícito, seja do emitente ou endossante, seja do avalista.
+- Recurso especial a que não se conhece.
+(REsp n. 457.556/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/11/2002, DJ 16/12/2002, p. 331.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c", quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+O recurso especial e o agravo nos próprios autos foram interpostos na vigência do CPC/2015 (e-STJ fls. 300 e 329, respectivamente), sendo-lhes aplicável a disposição inserta no art. 85, § 11, da nova lei processual (conforme orientação emanada do Enunciado n. 7 aprovado no Plenário do STJ em 16/3/2016, segundo a qual somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível arbitrar honorários sucumbenciais recursais, na forma do art. 85, § 11, do CPC/2015).
+Em tal circunstância, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, fazendo-o com fundamento no art. 85, § 11, do CPC/2015, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pelos benefícios da gratuidade da justiça (e-STJ fls. 200/201), ressalva-se a aplicação do art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
