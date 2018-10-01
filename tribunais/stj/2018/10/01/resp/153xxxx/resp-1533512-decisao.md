@@ -1,0 +1,32 @@
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. CONSTITUCIONALIDADE. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF1, assim ementado (fl. 107/108):
+PROCESSUAL CIVIL - EXECUÇÃO FISCAL EM VARA FEDERAL - CONSELHO PROFISSIONAL - INCONSTITUCIONALIDADE DO ART. 15, XI, DA LEI N. 5.905 E DO ART. 2º DA LEI N. 11.000/2004 NÃO DECLARADA PELO STF - PRESUNÇÃO DE CONSTITUCIONALIDADE DAS LEIS - ADIN N. 1717/5/DF: INAPLICABILIDADE.
+1. A Lei n. 5.905, de 12/07/1973, que instituiu o Conselho Federal e os Conselhos Regionais de Enfermagem, afirma que o próprio COREN/BA é o responsável por fixar suas contribuições. A Lei nº 11.000/2004 é no mesmo sentido (art. 2º): "Os Conselhos de fiscalização de profissões regulamentadas são autorizados a fixar, cobrar e executar as contribuições anuais, devidas por pessoas físicas ou jurídicas, bem como as multas e os preços de serviços, relacionados com suas atribuições legais, que constituirão receitas próprias de cada Conselho." Referidas normas estão em pleno vigor, sem notícia de afastamento ou suspensão de sua vigência por decisão da Suprema Corte e, portanto, gozam da presunção de legalidade e constitucionalidade.
+2. O STF, ao examinar a Lei n. 9.649/1998 (ADI n. 1.717-6/DF), declarou a inconstitucionalidade do art. 58, "caput" e parágrafos. Tal decisão, entretanto, não afeta o caso, pois o aludido acórdão do STF, Rel. Min. SIDNEY SANCHES, só e apenas afirmou que os Conselhos de Fiscalização (porque "autarquias" criadas por lei, sujeitas ao controle pelo TCU) não poderiam ser transmudados em entidades privadas, já porque indelegáveis a tais entes "atividade típica de Estado, que abrange até poder de polícia, de tributar e de punir"; mais não foi dito, dele não se podendo extrair a conclusão ampla de que o ato de delegar competência tributária seria, só por si e sempre, inconstitucional (o STF não fez tal afirmação, em linha de controle abstrato de constitucionalidade).
+3. Apelação provida.
+4. Peças liberadas pelo Relator, em 22/11/2011, para publicação do acórdão.
+Embargos de declaração rejeitados.
+O recorrente alega ofensa ao(s) artigo 2º da Lei 11.000/2004, violação ao princípio da irretroatividade e da legalidade.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 198/199.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A controvérsia relativa à exigibilidade das contribuições corporativas (profissionais) foi dirimida com fundamento constitucional, especificamente com base na presunção de constitucionalidade das leis que dão suporte à cobrança, bem como na jurisprudência do Supremo Tribunal Federal sobre o tema. Nesse sentido, transcrevo o seguinte trecho do voto condutor do acórdão recorrido (fls. 94/107):
+O art. 2º da Lei n. 11.000, de 15/12/2004, relativo aos conselhos profissionais de forma geral, é no mesmo sentido, delegando a eles a competência para fixar, cobrar a executar suas anuidades:
+"Art. 2º - Os Conselhos de fiscalização de profissões regulamentadas são autorizados a fixar, cobrar e executar as contribuições anuais, devidas por pessoas físicas ou jurídicas, bem como as multas e os preços de serviços, relacionados com suas atribuições legais, que constituirão receitas próprias de cada Conselho."
+Referidas normas estão em pleno vigor, não possuindo qualquer vício aparente de inconstitucionalidade porque a delegação ocorreu com suporte em norma legal.
+O STF, ao examinar a Lei n. 9.649/1998 (ADI n. 1.717-6/DF), declarou a inconstitucionalidade do art. 58, "caput" e parágrafos. Tal decisão, entretanto, não afeta o caso, pois o aludido acórdão do STF, Rel. Min. SIDNEY SANCHES, só e apenas afirmou que os Conselhos de Fiscalização (porque "autarquias" criadas por lei, sujeitas ao controle pelo TCU) não poderiam ser transmudados em entidades privadas, já porque indelegáveis a tais entes "atividade típica de Estado, que abrange até poder de polícia, de tributar e de punir"; mais não foi dito, dele não se podendo extrair a conclusão ampla de que o ato de delegar competência tributária seria, só por si e sempre, inconstitucional (o STF não fez tal afirmação, em linha de controle abstrato de constitucionalidade).
+Para que dúvidas não haja, é ler-se trecho do voto-condutor (f. 159/160 da ADI nº 1.717-6/DF), extraído do Parecer da PGR, a que o Min. SIDNEY SANCHES atribuiu especial relevância:
+"..
+10. No exame do "caput" do art. 58, ora impugnado, vê-se que foi alterada a natureza jurídica dos Conselhos Profissionais (..). Antes pessoas jurídicas de direito público, (..) passam a configurar pessoas de direito privado, que, por meio de delegação, desenvolvem atividade típica de Estado (..).
+..
+11. Já no §4º, os referidos Conselhos são autorizados a fixar, cobrar e executar contribuições anuais (..).
+12. Ocorre que essas contribuições possuem caráter tributário (..), de competência da União (..), não parecendo possa, em face do art. 119 do CTN, a capacidade de ser sujeito ativo da concernente obrigação tributária ser delegada a ente dotado de personalidade jurídica de direito privado.
+.."
+A bem dizer, a ADI nº 1.717-6/DF desautoriza a decisão recorrida, pois, se, no dizer do STF, só não se pode delegar parcela de competência tributária a ente privado (premissa), tem-se, conseqüência lógica (conclusão), que tal pode ocorrer legitimamente em se tratando de entidade pública (como as autarquias de fiscalização profissional).
+No mais, e apenas como reforço de argumento, anoto que tramita no STF a ADI 3408, que tem por objeto a constitucionalidade do art. 2º da Lei n. 11.000/2004. Na ação, ajuizada em 15/02/2005, não houve sequer apreciação da liminar, do que se conclui pela total higidez do referido diploma legal.
+Desse modo, o recurso especial se apresenta inviável, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
