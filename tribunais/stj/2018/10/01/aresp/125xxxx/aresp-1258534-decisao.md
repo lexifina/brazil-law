@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "c", da Constituição Federal, impugna acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. Plano de saúde. Pretensão de manutenção no plano de saúde, nos termos do art. 31 da Lei dos Pianos de Saúde. Sentença de improcedência. Lei que prevê o beneficio ao aposentado que contribua para o piano de saúde. Autora que é, na verdade, demitida-aposentada, pois não era aposentada quando da rescisão do contrato de trabalho, sequer tendo o tempo mínimo de contribuição de dez anos exigido por lei naquele momento. Beneficiária que, inclusive, já usufruiu do período de manutenção previsto no art. 30 da Lei dos Planos de Saúde. Sentença preservada. NEGADO PROVIMENTO AO RECURSO" (e-STJ fl. 490).
+A recorrente alega que o acórdão deu interpretação divergente os artigos 30 e 31 da Lei nº 9.656/1998.
+Sustenta que
+"muito embora quando da rescisão do contrato de trabalho não tivesse o decênio mínimo de contribuição, é fato que durante o interregno na qual estava vinculada ao plano por força do que dispõe o artigo 30 da lei, completou o tempo de contribuição, isto é, 10 anos, passando a fazer jus aos benefícios do art. 31"(e-STJ fls. 498-513).
+Apresentadas as contrarrazões, o recurso foi inadmitido. Daí o presente agravo no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com efeito, o art. 31 da Lei nº 9.656/1998 dispõe que "Ao aposentado que contribuir para produtos de que tratam o inciso I e o § 1º, do art. 1º, desta Lei, em decorrência de vínculo empregatício, pelo prazo mínimo de dez anos, é assegurado o direito de manutenção como beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral".
+Além disso, a jurisprudência desta Corte Superior é no sentido de que a melhor interpretação a ser dada ao art. 31, caput, da Lei nº 9.656/1998 é a de que deve ser assegurada ao aposentado a manutenção no plano de saúde coletivo, com as mesmas condições de assistência médica e de valores de contribuição, desde que assuma o pagamento integral, o qual poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear aos empregados em atividade.
+Sobre o tema:
+"RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO BENEFICIÁRIO. MANUTENÇÃO DAS MESMAS CONDIÇÕES DE ASSISTÊNCIA MÉDICA E VALORES DE CONTRIBUIÇÃO. INTERPRETAÇÃO DO ART. 31 DA LEI 9.656/98. RECURSO PROVIDO.
+1. Não obstante as disposições advindas com a Lei 9.656/98, dirigidas às operadoras de planos e seguros privados de saúde em benefício dos consumidores, tenham aplicação, em princípio, aos fatos ocorridos a partir de sua vigência, devem incidir em ajustes de trato sucessivo, ainda que tenham sido celebrados anteriormente.
+2. A melhor interpretação a ser dada ao caput do art. 31 da Lei 9.656/98, ainda que com a nova redação dada pela Medida Provisória 1.801/99, é no sentido de que deve ser assegurada ao aposentado a manutenção no plano de saúde coletivo, com as mesmas condições de assistência médica e de valores de contribuição, desde que assuma o pagamento integral desta, a qual poderá variar conforme as alterações promovidas no plano paradigma, sempre em paridade com o que a ex-empregadora tiver que custear.
+3. Recurso especial provido" (REsp nº 531.370/SP, Rel. Ministro RAUL ARAÚJO, DJe 6/9/2012 - grifou-se).
+Outro não foi o entendimento do acórdão recorrido ao decidir a questão. É o que se extrai de excerto do acórdão:
+"Para usufruir do direito previsto no art. 31 da Lei dos Planos de Saúde, o postulante deve preencher as ao seguintes condições: (i) inclusão como beneficiário de plano coletivo de assistência à saúde, como decorrência do vínculo de trabalho com a empresa estipulante; (ii) contribuição pelo prazo mínimo de dez anos, em decorrência desse vínculo; (iii) aposentadoria.
+No caso dos autos, não foram preenchidos os requisitos mencionados.
+A autora trabalhou por nove anos na empresa Interbrok e foi demitida sem justa causa na data de 28/02/2013. Na ocasião, optou pela continuidade do plano de saúde, pelo período de dois anos, conforme art. 30 da Lei 9.656/98. Na data de 18/12/2013, aposentou-se por tempo de contribuição.
+Na época em que foi demitida, a recorrente sequer preenchia o requisito relativo à contribuição pelo período mínimo de dez anos, nem era aposentada. A despeito da interpretação dada ao dispositivo pela autora, a finalidade da norma é tutelar o aposentado no momento da extinção do vínculo empregatício, e não aquele que se aposenta depois de já encerrado o vínculo. Para esse último caso, resta o benefício previsto no art. 30 da Lei 9.656/98, do qual a autora usufruiu.
+Veja-se que as contribuições devem ocorrer em decorrência do vínculo empregatício, e não por força do período de graça concedido pela Lei dos Planos de Saúde. Por essa razão, o período determinado de manutenção após a extinção do contrato de trabalho é irrelevante para os fins pretendidos pela autora" (e-STJ fls. 493-494 - grifou-se).
+Ademais, modificar o entendimento do Tribunal de origem, demandaria o reexame de provas, providência inviável em sede de recurso especial (Súmula nº 7/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 5.000,00, os quais devem ser majorados para R$ 6.250,00 em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
