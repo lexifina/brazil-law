@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF10 nº 10009, de 26 de setembro de 2018
+ASSUNTO: Simples Nacional EMENTA: OBRAS DE ACABAMENTO EM GESSO E ESTUQUE. As obras de acabamento em gesso e estuque executadas por microempresa (ME) ou empresa de pequeno porte (EPP) optante pelo Simples Nacional são tributadas pelo Anexo III da Lei Complementar nº 123, de 2006. Todavia, caso a ME ou EPP seja contratada para construir imóvel ou executar obra de engenharia em que essas atividades façam parte do respectivo contrato, sua tributação ocorrerá juntamente com a obra, na forma do Anexo IV da referida Lei Complementar. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 201, DE 5 DE AGOSTO DE 2015. Dispositivos Legais: Lei Complementar nº 123, de 14 de dezembro de 2006, art. 18, § 4º, II, § 5º-B, IX, § 5º-C, I, § 5º-I, VI; Ato Declaratório Interpretativo RFB nº 8, de 30 de dezembro de 2013; Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, art. 22.
+ASSUNTO: Simples Nacional
+EMENTA: OBRAS DE ACABAMENTO EM GESSO E ESTUQUE.
+As obras de acabamento em gesso e estuque executadas por microempresa (ME) ou empresa de pequeno porte (EPP) optante pelo Simples Nacional são tributadas pelo Anexo III da Lei Complementar nº 123, de 2006. Todavia, caso a ME ou EPP seja contratada para construir imóvel ou executar obra de engenharia em que essas atividades façam parte do respectivo contrato, sua tributação ocorrerá juntamente com a obra, na forma do Anexo IV da referida Lei Complementar.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 201, DE 5 DE AGOSTO DE 2015.
+Dispositivos Legais: Lei Complementar nº 123, de 14 de dezembro de 2006, art. 18, § 4º, II, § 5º-B, IX, § 5º-C, I, § 5º-I, VI; Ato Declaratório Interpretativo RFB nº 8, de 30 de dezembro de 2013; Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013, art. 22.
+IOLANDA MARIA BINS PERIN
+Chefe
