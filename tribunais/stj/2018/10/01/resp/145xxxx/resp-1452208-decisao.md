@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. EFEITO SUSPENSIVO. PENHORA. BACENJUD. ADESÃO A PARCELAMENTO. DESBLOQUEIO DO VALOR. COISA JULGADA. ARTS. 467 E 468 DO CPC: SÚMULA 7/STJ. NEGADO SEGUIMENTO AO RECURSO ESPECIAL.
+1. Trata-se de Recurso Especial interposto por ARDAN INDÚSTRIA E COMÉRCIO DE METAIS LTDA., com fundamento no art. 105, III, a da Constituição da República, em adversidade ao acórdão proferido pelo egrégio Tribunal Regional Federal da 4a. Região assim ementado:
+AGRAVO DE INSTRUMENTO. PENHORA VIA SISTEMA BACENJUD. POSSIBILIDADE. DESBLOQUEIO DE VALORES EM RAZÃO DE ADESÃO AO PARCELAMENTO. CONDICIONADA À SUBSTITUIÇÃO DA PENHORA.
+A adesão a programa de parcelamento após a realização da penhora (no caso, via BACENJUD) não autoriza, em linha de princípio, o levantamento da constrição já efetivada. Contudo, a parte executada tem a possibilidade de liberar dos valores mediante substituição da penhora, conforme vem decidindo este Colegiado.
+Quando o bloqueio for feito em data posterior à adesão ao parcelamento, a liberação dos valores deve ser de forma incondicionada. Por outro lado, quando o bloqueio se der anteriormente à adesão ao parcelamento, a liberação dos valores fica condicionada à substituição da penhora por outra garantia (fls. 385).
+2. Alega a recorrente violação aos arts. 467 e 468 do CPC, ao argumento de que a presente execução de sentença perdeu o objeto, pois a questão decidida, transitada em julgado, pelo Tribunal Regional Federal, refere-se à caução que deveria ser apresentada em face de um litígio, no qual seria discutido o mérito do auto de infração. Não há mais litígio (fls. 406).
+3. Contrarrazões apresentadas (fls. 423/426).
+4. O Ministério Público Federal, em parecer (fls. 446/450) subscrito pela ilustre Subprocuradora-Geral da República [NOME], manifestou-se nos termos da seguinte ementa:
+TRIBUTÁRIO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO EM CUMPRIMENTO DE MANDADO DE SEGURANÇA. PRETENSÃO DE LIBERAÇÃO DE CAUÇÃO. ADESÃO A PROGRAMA DE PARCELAMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA. SÚMULA 284 DO C. STF.
+- Não é possível conhecer o recurso especial nos casos em a parte não indica os dispositivos de lei federal supostamente violados pela decisão recorrida. Deficiência de fundamentação. Incidência da Súmula 284/STF.
+- Parecer peto não conhecimento do Recurso Especial.
+5. É o que havia de relevante para relatar.
+6. Veja-se o quanto exposto no acórdão recorrido, verbis:
+Indefiro o pedido da impetrante voltado ao desbloqueio dos valores objeto do Bacenjud. Explico.
+A penhora on line no presente feito foi feita em observância à coisa julgada aqui formada que entendeu pela legalidade da prestação de garantia para o desembaraço de mercadoria importada como medida de cautela fiscal. Como a mercadoria objeto dos presentes autos foi desembaraçada sem a prestação de tal garantia por força da liminar deferida anteriormente nos autos, esta fase executiva se volta à obtenção da aludida garantia.
+Assim, embora tenha sido reconhecido pela impetrante que o débito em comento foi objeto de parcelamento, isto não faz com que os valores objeto do Bacenjud - realizado em data anteriormente à adesão ao parcelamento - possam ser levantados pela impetrante. Isto porque o parcelamento do débito tributário não implica em novação ou transação do débito, apenas provocando a suspensão de sua exigibilidade pelo período em que perdurar a avença. Neste sentido, destaco recente aresto do egrégio Tribunal Regional da 4a. Região:
+(..).
+Com efeito, a alegação da impetrante/executada no sentido da existência de erro de fato, não merece acatamento.
+É que a manutenção do bloqueio objeto do Bacenjud se deu porque quando o mesmo foi implementado não havia ainda sido formalizado o parcelamento do aludido débito, não havendo que se falar em ausência de litígio que o justificasse. De outro lado, também não como se declarar a extinção da presente execução, como pretendido pela parte executada, sob pena de violoação à coisa julgada formada nos presentes autos que determinou fosse prestada a garantia a posteriori do crédito tributário decorrente do desembaraço implementado por força da liminar deferida nos presentes autos sem qualquer constrição.
+(..).
+Isto porque o parcelamento do débito tributário não implica em novação ou transação do débito, apenas provocando a suspensão de sua exigibilidade pelo período em que perdurar a avença.
+Portanto, havendo parcelamento da dívida, encontra-se suspensa a exigibilidade do crédito tributário, razão pela qual o Juízo entendeu que deveria ficar suspensa a presente execução até o descumprimento do aludido parcelamento ou até a satisfação integral da dívida (fls. 374/377).
+7. Conforme se verifica, o Tribunal de origem foi expresso ao afirmar que, havendo parcelamento da dívida, encontra-se suspensa a exigibilidade do crédito tributário, razão pela qual o Juízo entendeu que deveria ficar suspensa a presente execução até o descumprimento do aludido parcelamento ou até a satisfação integral da dívida, o que justifica a manutenção da execução, de modo que para a reversão dessa conclusão e, então, se admitir a inexistência de litígio, seria necessário o revolvimento de fatos e provas, o que não se permite em função do enunciado 7 da Súmula de jurisprudência desta Corte.
+8. Ante o exposto, com fundamento no art. 557, caput do CPC, nega-se seguimento ao Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
