@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ITAU UNIBANCO S/A contra decisão que inadmitiu seu recurso especial, fundado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo.
+Nas razões do nobre apelo, o ora agravante alega o descabimento de dano moral indenizável decorrente de inscrição em cadastro de inadimplentes sem prévia notificação do devedor, em razão da existência de inscrições anteriores legítimas, conforme preconiza a Súmula n. 385 do STJ.
+É o relatório. Decido.
+Aplicabilidade da Súmula n. 385/STJ:
+A Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo n. 1.386.424/MG, DJe de 16/5/2016, vinculado ao Tema n. 922, firmou entendimento no sentido do descabimento de indenização por danos morais quando preexistente anotação anterior em nome do ofendido nos órgãos de proteção ao crédito . Eis a ementa do julgado:
+RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. DANO MORAL. NÃO CARACTERIZADO. INSCRIÇÃO INDEVIDA COMANDADA PELO SUPOSTO CREDOR. ANOTAÇÕES ANTERIORES. SÚMULA 385/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula 385/STJ).
+3. Embora os precedentes da referida súmula tenham sido acórdãos em que a indenização era buscada contra cadastros restritivos de crédito, o seu fundamento - "quem já é registrado como mau pagador não pode se sentir moralmente ofendido por mais uma inscrição do nome como inadimplente em cadastros de proteção ao crédito", cf. REsp 1.002.985-RS, rel. Ministro Ari Pargendler - aplica-se também às ações voltadas contra o suposto credor que efetivou a inscrição irregular.
+4. Hipótese em que a inscrição indevida coexistiu com quatorze outras anotações que as instâncias ordinárias verificaram constar em nome do autor em cadastro de inadimplentes.
+5. Recurso Especial a que se nega provimento.
+(REsp 1.386.424/MG, relator Ministro Paulo de Tarso Sanseverino, relatora p/ Acórdão Ministra Maria Isabel Gallotti, Segunda Seção, DJe de 16/5/2016)
+Na espécie, entretanto, o Tribunal a quo expressamente afirmou que não seria o caso de aplicação da Súmula n. 385/STJ, "na medida em que o autor comprovou que os outros apontamentos noticiados nos autos estão sendo discutidos judicialmente, com decisão favorável ao autor proferida em primeiro grau" (fl. 165).
+Dessa forma, ultrapassar os fundamentos do acórdão e acolher a tese sustentada pela agravante, inevitavelmente, seria necessário o reexame de provas, incidindo portanto o óbice da Súmula 7 desta Corte. Exemplifico:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. A ocorrência de inscrições pretéritas em cadastro de inadimplentes obsta a concessão de indenização por dano moral em virtude de inscrição posterior, ainda que esta seja irregular. Súmula 385/STJ.
+2. No caso concreto, o Tribunal de origem concluiu pela caracterização do dano moral, ante a inexistência de inscrições regulares prévias em cadastro de restrição ao crédito. Aduziu, ademais, existir comprovação do questionamento judicial dos demais apontamentos, a indicar a utilização sucessiva dos documentos da autora por falsários.
+3. Avaliar a justeza ou regularidade das inscrições anteriores no cadastro de inadimplentes demandaria revolvimento de matéria fático-probatória, o que torna manifestamente inadmissível o recurso especial ante o óbice da súmula 7/STJ.
+4. O entendimento firmado pela Corte estadual também encontra amparo na jurisprudência desta Corte, no sentido de que a existência de questionamentos judiciais das inscrições anteriores em cadastros restritivos de crédito é circunstância que, ante o princípio da razoabilidade, permite a flexibilização da Súmula 385/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.058.050/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 7/3/2018).
+CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA DO NOME DA AUTORA EM ÓRGÃO DE PROTEÇÃO. PROCEDÊNCIA. OFENSA AO ART. 186 DO CC/02. TRIBUNAL LOCAL QUE RECONHECEU O DEVER DE INDENIZAR COM BASE NOS FATOS DA CAUSA. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. INCIDÊNCIA DA MULTA DO ART. 1.026, § 2º, DO NCPC E HONORÁRIOS RECURSAIS DO ART. 85, § 11º, DO NCPC.
+1. Aplicabilidade do NCPC a este recurso ante s termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso concreto, a Corte bandeirante reconheceu não ser aplicável a Súmula nº 385 do STJ quando há apontamentos anteriores cuja regularidade está sendo discutida judicialmente. Inexistindo comprovação da regularidade de inscrições anteriores, é cabível o pagamento de indenização de dano moral por inscrição indevida em órgão de proteção ao crédito. Reformar tal entendimento encontra o óbice contido no enunciado sumular nº 7 desta Corte.
+(AgInt no REsp 1.606.773/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 10/3/2017).
+Dessa maneira, inviável a reforma do acórdão atacado.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
