@@ -1,0 +1,22 @@
+S    Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Mandado de Segurança. Direito Administrativo e Constitucional.
+    Tida por interposta a remessa oficial.
+    Servidor público estadual Escrivão de Polícia Aposentadoria especial Verificados os requisitos de tempo de contribuição e tempo de exercício em cargo de natureza estritamente policial, faz jus o servidor ao benefício diferenciado - Aplicação da LC 51/85 c.c LC 1062/08, que não prevê integralidade de provento e paridade de revisão EC 41/2003 e EC 47/2005 Regra de transição - Tempo mínimo de contribuição não atingido Posicionamento do Colendo STF (RE 596962/MT).
+    Dá-se provimento ao recurso interposto e à remessa oficial.” (eDOC 1, p. 436)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 40, § 4º, II e § 8º do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese o direito de aposentação com paridade e integralidade de vencimentos, ao argumento de que o ora recorrente preenche os requisitos da LC 51/1985.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, cumpre destacar que o acórdão recorrido está em sintonia com o entendimento desta Corte firmado no sentido de que a Lei Complementar nº 51/1985, que trata da aposentadoria especial dos servidores públicos policiais, foi recepcionada pela Constituição Federal. Nesse sentido, confira-se o RE-RG 567.110, Rel. Min. Cármen Lúcia, tema 26 da sistemática da repercussão geral, assim ementado:
+    “Recepção pela Emenda Constitucional n. 20/1998 do art. 1º, inc. I, da Lei Complementar n. 51/1985. Adoção de requisitos e critérios diferenciados para a concessão de aposentadoria a servidores cujas atividades não são exercidas exclusivamente sob condições especiais que prejudiquem a saúde ou a integridade física. Repercussão geral reconhecida.”
+    No caso, verifico que o Tribunal de origem, com base na prova dos autos, consignou que a parte autora tem direito à aposentadoria especial, embora não faça jus à integralidade de provento e à paridade de revisão. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Sob tal enfoque, contando o impetrante 30 anos de contribuição previdenciária, o requisito estabelecido no artigo 6º, inciso II, da Emenda Constitucional nº 41/2003, cujo teor foi reproduzido no artigo 3º, inciso I, da Emenda Constitucional nº 47/2005, não foi preenchido, o que inibe o direito à paridade de reajuste e à integralidade do benefício, cujo cálculo deverá observar o comando disposto no artigo 40º, parágrafos 3º e 17, da Sexta Carta Republicana, prejudicada, por consectário, a análise da temática pertinente à manutenção na classe da carreira, na medida em que o provento será calculado pela média remuneratória (Lei nº 10.887/04) e não com base na última remuneração percebida.” (eDOC 1, p. 451)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria especial. Lei Complementar 51/85. Paridade e integralidade. Preenchimento dos requisitos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional, tampouco para o reexame do conjunto fático- probatório da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 3. Inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de mandado de segurança (art. 25 da Lei 12.016/09).” (ARE-AgR 1087.201, Rel. Min. Dias Toffoli, Segunda Turma, DJe 23.2.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 1º de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
