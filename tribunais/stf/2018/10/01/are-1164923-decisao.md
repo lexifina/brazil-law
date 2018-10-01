@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMENTA: ADMINISTRATIVO. APELAÇÃO CÍVEL. RECLAMAÇÃO TRABALHISTA. PRESTADOR DE SERVIÇO. PEDIDO DE COBRANÇA DE VERBAS PRÓPRIAS DO TRABALHADOR CELETISTA. TENTATIVA DE RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. PRECEDENTE DO STJ. APELAÇÃO IMPROVIDA.
+    1. O presente caso é por demais simples e prescinde de maiores debates. Cuida-se, aqui, de reclamação trabalhista formulada pelo Sr. José Cláudio Cid Pereira em face do Instituto de Previdência do Município - IPM, na qual pleiteia o pagamento de verbas trabalhistas (FGTS, anotação na CTPS).
+    2. Em caso, pretende o apelante a cobrança de verbas estranhas ao servidor estatutário, as quais foram criadas para os trabalhadores da iniciativa privada, não existindo amparo legal para seu pedido, configurando, assim, a falta de condição de ação (possibilidade jurídica do pedido).
+    3. Não há como admitir vínculo empregatício quando o contrato firmado com a administração pública é de prestação de serviços conforme o documento colacionado pelo autor/apelante à fl. 11 dos autos. Portanto, o pleito carece de possibilidade jurídica do pedido uma vez que nunca houve por parte da administração contratação regular ou irregular do recorrente.
+    4. Precedente do STJ” (pág. 78 do documento eletrônico 2).
+    No RE fundado no art. 102, III, a , da Constituição, sustenta-se, em suma, violação dos arts. 6°; 7°, XXIV; e 201, da mesma Carta.
+    O recurso extraordinário teve o seu seguimento negado (pág. 15 do documento eletrônico 3), da decisão que negou seguimento ao RE foram opostos embargos de declaração (pág. 66 do documento eletrônico 3) que foram rejeitados (pág. 71 do documento eletrônico 3).
+    A pretensão recursal não merece acolhida.
+    Isso porque a decisão que negou seguimento ao recurso extraordinário foi publicada em 30/8/2016 (pág. 19 do documento eletrônico 3). Assim, o agravo interposto dessa decisão na data de 12/4/2017 (pág. 20 do documento eletrônico 3), é intempestivo. Ressalte-se que a jurisprudência desta Corte é firme no sentido de que os embargos de declaração, quando manifestamente incabíveis, não interrompem ou suspendem o prazo para a interposição de outros recursos. Nesse sentido a seguinte decisão do Plenário:
+    “Embargos de divergência em embargos de declaração nos embargos de declaração em agravo regimental em agravo de instrumento. 2. Acórdãos recorridos que destoam da jurisprudência do Supremo Tribunal Federal. 3. Juízo negativo de admissibilidade do extraordinário. O recurso adequado à impugnação é o agravo de instrumento art. 544, CPC. Hipótese em que, opostos embargos declaratórios, estes serão tidos por incabíveis. Recurso impróprio, que não suspende nem interrompe o prazo de apresentação do recurso oportuno. 4. Agravo de instrumento interposto somente após o julgamento dos embargos de declaração. Intempestividade. 5. Embargos de divergência acolhidos e providos.” (AI 720.821-AgR-ED-ED-EDv/PR, Pleno, Rel. Min. Gilmar Mendes).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 1° de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
