@@ -1,0 +1,65 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra r. decisão que não admitiu o seu recurso especial, por sua vez manejado em face de v. acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESTADO DO RIO DE JANEIRO, assim ementado (fl. 617):
+"DIREITO ADMINISTRATIVO. APELAÇÃO. SFH. IMÓVEL RETOMADO. REVISÃO DO CONTRATO. PERDA DO INTERESSE DE AGIR.
+1. A sentença negou à mutuária o reajuste das prestações e saldo devedor pela equivalência salarial; exclusão da taxa de administração; substituição da tabela Price por outra que não gere anatocismo; devolução em dobro dos excessos; realização das obras necessárias à habitação segura; e indenização de cem salários mínimos por danos materiais e morais pelos vícios na construção.
+2. O Contrato de Mútuo com Obrigações e Alienação Fiduciária data de 5/3/2004; estabelece o prazo de 240 meses; juros de 8,16% ao ano; Sistema Francês de Amortização (tabela Price) e atualização do saldo devedor pelos índices de atualização do FGTS.
+3. Consolidada a propriedade do imóvel, sem que a autora obtivesse êxito nas tentativas de suspensão da execução extrajudicial, cuja nulidade não foi requerida, impõe-se a extinção do processo, sem resolução do mérito, por perda superveniente do interesse de agir, porquanto descabida qualquer discussão sobre cláusulas de relação contratual extinta. Precedentes do STJ e deste Tribunal.
+4. Processo extinto sem resolução do mérito."
+Nas razões do recurso especial, apontou a parte recorrente ofensa ao disposto nos 2º, 3º, 6º, III e IV, 39, IV, V, XI, do Código de Defesa do Consumidor, e arts. 130, 420, inc. I a III, do CPC/73. Invocou que persiste seu interesse processual na revisão de cláusulas de seu contrato de mútuo bancário, ainda que o bem gravado em garantia de alienação fiduciária tenha sido objeto de consolidação da propriedade pelo prol do credor, em processo judicial próprio, induzindo a extinção da relação jurídica contratual objeto de sua demanda revisional.
+Foram apresentadas contrarrazões ao recurso especial, conforme fls. 752-759.
+O Tribunal de origem negou seguimento ao recurso especial por deserção (fl. 763).
+Contra aludida decisão, o recorrente interpõe o agravo (fls. 765-769).
+Consta contraminuta de agravo às fls. 772-775.
+É o relatório.
+DECIDO.
+2. De início, cumpre registrar a patente inaplicabilidade do Código de Processo Civil de 2015 neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016, nos termos do qual: "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça."
+Interposto em 22/10/2014, o recurso especial cuja admissibilidade se revisa em sede de agravo, tem como normas de regência o Código de Processo Civil de 1973, e a Lei 1.060/50, para fins de se perquirir o preenchimento de seus requisitos de admissibilidade e se reúne condição de processamento pelo cumprimento das normas processuais pertinentes, em especial, quanto à parte fazer jus à gratuidade de justiça.
+Referido enunciado prejudica os argumentos apresentados em sede de razões de agravo, no sentido da inaplicabilidade das normas da Lei 1.060/50, em especial de seu art. 6º, o qual estabelece rito próprio a ser seguido para o pedido de gratuidade de justiça perante o Tribunal de origem de modo a dispensar a recorrente, ora agravante, do recolhimento do preparo, incluindo custas processuais, porte de remessa e retorno.
+3. Outrossim, é incontroverso que, no ato de interposição do recurso especial pela ora agravante não houve o recolhimento do preparo. Talvez para prevenir a deserção, ante a ausência de demonstração do devido recolhimento, a parte recorrente requereu, na própria petição em que consta as razões de recurso especial a concessão dos benefícios da assistência judiciária gratuita.
+Não obstante o artigo 6º da Lei n.º 1.060/50 possibilite que o pedido de assistência judiciária seja formulado a qualquer tempo no processo, é certo que tal previsão não pode significar um subterfúgio à obrigação legal de pagamento das custas recursais.
+A propósito, a exigência do preparo, estabelecida no artigo 511 do Código de Processo Civil, de 1973, é cogente e deve ser respeitada. Por conta disso, seu afastamento deve ser considerado exceção, que se dará somente quando anteriormente concedida a gratuidade à parte recorrente.
+Embora o pedido de assistência judiciária gratuita possa ser formulado a qualquer tempo, nos casos em que a ação judicial esteja em curso e sob a regência do CPC/73, ele deve ser veiculado em petição avulsa, a qual será processada em apenso aos autos da causa principal, segundo os termos da Lei n.º 1.060/1950, e não no próprio corpo do recurso especial, como ocorreu no presente caso.
+Portanto, a concessão da gratuidade deve preceder a interposição do recurso para fazer afastar a exigência de preparo. Do contrário, o recurso deve ser considerado deserto.
+Nesse sentido, confira-se os precedentes desta Corte:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO (ART. 544 DO CPC) - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO - MANIFESTO CARÁTER INFRINGENCIAL DAS RAZÕES CONTIDAS NOS ACLARATÓRIOS - EXPEDIENTE RECEBIDO COMO AGRAVO REGIMENTAL - PEDIDO DE GRATUIDADE DE JUSTIÇA - INDEFERIMENTO PELA INSTÂNCIA ORDINÁRIA - REALIZAÇÃO DE PREPARO - INOCORRÊNCIA - PEDIDO DE CONCESSÃO DA JUSTIÇA GRATUITA - RECURSO ESPECIAL DESERTO - SÚMULA N. 187/STJ.
+1. Não obstante seja possível o pedido de assistência judiciária gratuita a qualquer tempo, com a ação está em curso, tal pedido deve ser feito por petição avulsa, a qual será processada em apenso aos autos principais, nos termos do art. 6º da Lei nº 1.060/50, e não no próprio corpo do recurso especial.
+2. Agravo regimental improvido.
+(EDcl no AREsp 78.618/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/08/2012, DJe 04/09/2012).
+EMBARGOS DE DECLARAÇÃO SUCESSIVOS NO AGRAVO EM RECURSO ESPECIAL. INTENÇÃO PROTELATÓRIA. CARACTERIZAÇÃO. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. EXASPERAÇÃO.
+1- Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2 - O pedido de assistência judiciária gratuita formulado no curso da ação deve ser deduzido em petição a ser atuada em separado e processada em apenso aos autos principais (Lei 1.060/1950, art. 6º), configurando erro grosseiro a proposição no corpo da petição do recurso. Precedentes deste Tribunal.
+3 - Ademais, o pedido de assistência judiciária, mesmo se tivesse sido deduzido de forma apta ao deferimento, não acarretaria a consequência de excluir a a penalidade já imposta com base no art.
+538 do CPC.
+4- Embargos de declaração rejeitados, e tendo em conta a reiteração das razões do recurso, aplicação de multa de 5% (cinco por cento) sobre o valor atualizado da causa (CPC, art. 538, parágrafo único), ficando a interposição de novos recursos condicionada ao prévio recolhimento das penalidades impostas.
+(EDcl nos EDcl nos EDcl no AREsp 66.916/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/06/2012, DJe 26/06/2012).
+AGRAVO REGIMENTAL EM AGRAVO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REQUERIMENTO FORMULADO NA PETIÇÃO DE RECURSO ESPECIAL. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Quando a ação está em curso, consoante dispõe o artigo 6º da Lei 1.060/50, o pedido de assistência judiciária gratuita deve ser postulado em petição avulsa que será processada em apenso aos autos principais, caracterizando-se erro grosseiro o pedido formulado na própria petição recursal. Precedentes.
+2.- Os agravantes não trouxeram nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido.
+(AgRg nos EDcl no AREsp 144.345/MS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/05/2012, DJe 04/06/2012).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DESERÇÃO. AUSÊNCIA DE PREPARO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA NO CURSO DO PROCESSO. PETIÇÃO AVULSA. NECESSIDADE. PRECLUSÃO. IMPOSSIBILIDADE DE INTIMAÇÃO PARA REALIZAÇÃO INTEGRAL DO PREPARO.
+1. Cuida-se de Agravo Regimental interposto contra decisão que não conheceu do Agravo em Recurso Especial, em razão da ausência de preparo e do descumprimento do disposto no art. 6º da Lei 1.060/1950 quanto ao pedido de assistência judiciária gratuita no curso do processo.
+2. O art. 6º da Lei 1.060/1950 exige que o benefício em questão, quando pleiteado no curso do processo, seja formalizado por petição avulsa que será autuada em apenso aos autos principais. Precedentes do STJ.
+3. No presente caso, além de não efetuar o preparo, o agravante formulou o pedido de gratuidade da justiça em preliminar na petição de Recurso Especial, o que não é admitido pela jurisprudência do STJ (cf. AgRg no Ag 1397200/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/8/2011; AgRg no Ag 1306182/SP, Rel.
+Ministro Luiz Fux, Primeira Turma, julgado em 5/8/2010; AgRg no Ag 1369606/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, julgado em 2/6/2011).
+4. A comprovação do preparo deve ser feita no ato da interposição do recurso. O art. 511, § 1º, do CPC só admite a intimação da parte para complementar valor insuficiente, inexistindo previsão no sentido de superar a preclusão e possibilitar o suprimento integral do montante não recolhido tempestivamente. Precedentes do STJ.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 42.922/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2011, DJe 24/02/2012).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. (..) RECOLHIMENTO DAS CUSTAS JUDICIAIS. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. DESERÇÃO. OCORRÊNCIA. JUSTIÇA GRATUITA. AÇÃO EM CURSO. SOLICITAÇÃO. PETIÇÃO AVULSA. NECESSIDADE. PRECEDENTE DO STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. Segundo orientação firmada pela jurisprudência dominante deste Superior Tribunal, a comprovação do recolhimento das custas judiciais faz-se no ato de interposição do recurso, segundo a regra do art. 511, caput, do CPC, sendo incabível posterior regularização.
+3. Embora o pedido de gratuidade de justiça possa ser feito a qualquer tempo, quando a ação está em curso, deve ele ser formulado em petição avulsa, a qual será processada em apenso aos autos principais, constituindo erro grosseiro a não observância dessa formalidade, nos termos do art. 6.º da Lei 1.060/50. Precedente do STJ.
+4.Agravo regimental não provido." (AgRg no REsp 1.173.343/DF, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 15/3/2011, DJe 21/3/2011).
+Ademais, ainda que a parte agravante houvesse formulado o pedido nos termos do mencionado artigo 6º, a concessão do benefício não teria efeito retroativo, não servindo, por isso, para dispensar o pagamento das custas e do porte de remessa e de retorno dos autos.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. PREPARO DO PORTE DE REMESSA E RETORNO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA 288/STF. JUSTIÇA GRATUITA. INDEFERIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao recorrente comprovar a regularidade do preparo do Recurso Especial.
+2. Quando no curso da ação, o requerimento do Benefício da Justiça Gratuita deve ser formulado em petição avulsa, apensada aos autos principais, consoante o que dispõe o art. 6º da Lei n. 1.060/50.
+3. A concessão do benefício não tem efeito retroativo, não servindo, por isso, para dispensar o pagamento do porte de remessa e retorno dos autos.
+4. Agravo Regimental improvido." (AgRg no Ag nº 876.596/RJ, Relator o Ministro LUIS FELIPE SALOMÃO, DJe de 24/8/2009).
+No mesmo sentido: AgRg no AREsp 568.804/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 16/12/2014, DJe 19/12/2014; AgRg no REsp 1462683/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/11/2014, DJe 02/12/2014; e, AgRg nos EDcl no AREsp 554.990/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 21/10/2014, DJe 29/10/2014.
+Assim, se a parte se valeu da permissão legal de requerer a gratuidade da justiça a qualquer tempo, não se pode eximir-lhe a obrigatoriedade do preparo. Tampouco é de se permitir que seja concedido novo prazo para complementação do preparo, porque a parte recorrente nada recolheu. Logo, inexiste preparo a ser complementado.
+Dessa forma, o preparo, no momento da interposição do recurso, é essencial para o seu processamento e só poderá ser dispensado quando já concedida a gratuidade; diga-se, em momento anterior à interposição do recurso.
+No caso, como não foi realizado o preparo oportunamente, o recurso mostra-se deserto, o que atrai a incidência da Súmula nº 187/STJ, segundo a qual "é deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
