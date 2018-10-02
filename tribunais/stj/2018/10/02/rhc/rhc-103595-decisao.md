@@ -1,0 +1,11 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. SUPERVENIENTE SENTENÇA. NOVO TÍTULO. PERDA DO OBJETO.
+Recurso prejudicado.
+DECISÃO
+O Juízo de Direito da 7ª Vara Criminal da comarca de Belo Horizonte/MG prolatou sentença no Processo n. 024.18.083.248-7, condenando [NOME] a cumprir 5 anos e 4 meses de reclusão, inicialmente, em regime semiaberto, e a pagar 13 dias-multa, pela prática do crime descrito no art. 157, § 2º, II, c/c o art. 65, I e III, d, todos do Código Penal. Na oportunidade, negou-lhe o recurso em liberdade e determinou providências.
+Ora, o aresto combatido neste recurso foi proferido à luz do primevo decreto prisional, e, ante a prolação de édito condenatório, que alterou a realidade fática dos autos, esvaziou-se o objeto do pedido aqui formulado, no sentido de não estarem presentes os requisitos exigidos para a imposição da custódia cautelar (AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017).
+Considerando que a sentença superveniente inaugura nova realidade processual, resta impedido o exame da questão invocada nesta Corte, sob pena de incorrer em indevida supressão de instância, sendo prescindível a utilização de fundamentos diversos para a aplicação da prejudicialidade ao objeto do habeas corpus (AgRg no RHC n. 73.759/BA, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/11/2016).
+Afinal, na ocasião da prolação de sentença condenatória, em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente,  ..  a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria. (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017).
+De mais a mais, o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada pela referência ao modus operandi adotado para a prática do crime.
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
