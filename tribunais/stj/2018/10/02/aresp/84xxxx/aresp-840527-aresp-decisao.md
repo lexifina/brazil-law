@@ -1,0 +1,4 @@
+DECISÃO
+O Ministério Público Federal, na petição de fl. 1118, requer "seja determinada, independentemente de novos recursos e do trânsito em julgado da lide penal, remessa, conforme precedentes, de cópia dos autos - em especial da sentença, do acórdão do TJ/RN e das decisões do Superior Tribunal de Justiça - à origem, para fins da execução provisória das penas privativas de liberdade aplicadas aos réus [NOME] e [NOME]", tendo em vista o que foi decido pelo Plenário do Supremo Tribunal Federal no julgamento do HC 126.292/SP.
+Considerando que foi mantida a condenação de [NOME] MAIA DO NASCIMENTO e DOMINGOS [NOME] DE OLIVEIRA [NOME] em segundo grau de jurisdição (fls. 879/899), esgotando-se as vias ordinárias, determino à Coordenadoria da Quinta Turma a remessa da cópia dos autos ao juízo de primeira instância, a fim de que proceda à execução provisória das penas impostas aos réus, caso já não estejam cumprindo as respectivas sanções.
+Publique-se. Intimem-se.
