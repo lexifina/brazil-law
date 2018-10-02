@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por [NOME] SOARES DA ROCHA - ESPÓLIO em face da decisão acostada a fls. 411-412 e-STJ que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelos ora agravantes.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 359-370 e-STJ, proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Apelação cível e recurso adesivo. Ação declaratória de nulidade cumulada com indenização por dano material e moral. Prova pericial que atesta a falsidade da assinatura atribuída ao autor, constante da alteração contratual da sociedade integrada pelos réus. Laudo pericial cuja correção não lograram impugnar os réus. Procedência do pedido declaratório. Dano material comprovado, justificando o acolhimento do pedido indenizatório. Não comprovação do apontamento indevido alegado pelo autor. Parcial provimento ao recurso de apelação dos réus, para excluir a condenação por dano moral, prejudicado o recurso adesivo do autor, que pretendia a majoração da verba indenizatória arbitrada na sentença.
+Não foram opostos embargos de declaração.
+Nas razões de recurso especial, alegaram os insurgentes que o acórdão recorrido violou o artigo 479 do CPC/15, ao considerar falta a assinatura com base em laudo pericial inconclusivo. Aduziram, ainda, estar configurado o dissídio jurisprudencial.
+Contrarrazões a fls. 402-408 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao apelo nobre por aplicação das Súmulas 282 e 356 do STF e 7/STJ.
+Inconformados, interpuseram o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada a fls. 419-433 e-STJ, por meio do qual pretendem ver admitido o recurso especial.
+Contraminuta a fls. 437-444 e-STJ.
+É o relatório. Decide-se.
+O recurso não comporta provimento.
+1. O recurso não se afigura admissível por demandar reexame das provas contidas nos autos.
+Segundo os autos, a Corte de origem reformou parcialmente a sentença que, nos autos de ação declaratória de nulidade de negócio jurídico, julgou o pedido inicial formulado pelo ora recorrido improcedente com relação a apenas um dos requeridos e procedente em parte quanto aos ora recorrentes.
+Essencialmente, quanto à força probatória do laudo pericial, o Tribunal a quo verificou que o perito, ao prestar esclarecimentos, " reiterou a conclusão da falsidade da assinatura atribuída ao autor, constante do instrumento contratual impugnado" (fl. 368 e-STJ). Considerou, portanto, cabalmente demonstrada a falsidade da assinatura. Afirmou a Corte estadual que os requeridos foram desidiosos, uma vez que a falsificação poderia ser notada mesmo por pessoa leiga.
+Cita-se o excerto correspondente (fls. 369 e-STJ, sem grifos no original):
+Ademais, há que se considerar que o perito analisou os padrões gráficos colhidos pelo signatário em 2012 (fls. 196/200), mas também a assinatura do autor constante da petição inicial, datada de 08/10/2006, além das assinaturas apostas em sua carteira de identidade (fls. 09) e no seu CPF (fls. 09), ambos expedidos em 1986, permitindo a adequada aferição da grafia em comparação com a firma lançada na alteração do contrato social datado de 1993 - questionado pelo autor - e afastando a alegada contradição.
+Nesse contexto, em que a falsidade da assinatura aposta ao contrato impugnado, atribuída ao autor, restou cabalmente comprovada, inexistindo relação jurídica entre as partes, de rigor o acolhimento do pedido declaratório formulado em face dos réus.
+Apenas quanto ao dano moral houve modificação da sentença, pois não havia prova da inscrição do nome do recorrido em cadastro de inadimplentes.
+O acórdão impugnado está, portanto, fundamentado no quadro fático singular formado na presente demanda. A revisão do aresto no sentido pretendido pela recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a consistência do laudo pericial, medida impossíveis pela via estreita do recurso especial, conforme o enunciado da Súmula 7/STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+2. Do exposto, nega-se provimento ao agravo em recurso especial. Nos termos do art. 85, §11, do CPC/15, majoram-se os honorários de sucumbência em 1% (um por cento), a ser suportado exclusivamente pela parte recorrente.
+Publique-se. Intimem-se.
