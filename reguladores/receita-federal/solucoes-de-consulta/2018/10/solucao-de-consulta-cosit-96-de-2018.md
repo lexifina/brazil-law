@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 96, de 17 de agosto de 2018
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: SERVIDOR PÚBLICO EFETIVO. CESSÃO OU REQUISIÇÃO. REGIME PREVIDENCIÁRIO. O servidor amparado por Regime Próprio de Previdência Social é excluído do Regime Geral de Previdência Social. O servidor filiado a Regime Próprio de Previdência Social cedido ou requisitado para outro órgão ou entidade permanece vinculado ao regime previdenciário de origem. Não incide contribuição previdenciária para o Regime Geral de Previdência Social sobre as parcelas remuneratórias complementares à remuneração do cargo efetivo do servidor cedido ou requisitado filiado a Regime Próprio de Previdência Social pagas pelo cessionário ou requisitante. Dispositivos Legais: Lei nº 8.212, de 1991, art. 13; Lei nº 9.717, de 1998, art. 1º-A; IN RFB nº 971, de 2009, art. 6º, §3º, IV.
+.
+[arquivo anexo: SC Cosit nº 96-2018.pdf]
