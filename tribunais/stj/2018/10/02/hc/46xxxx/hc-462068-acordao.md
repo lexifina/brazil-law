@@ -1,0 +1,60 @@
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DOS ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. REGIME MAIS GRAVOSO (FECHADO). CONCURSO MATERIAL. REPRIMENDA SUPERIOR A 8 ANOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. No caso, observa-se flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+2. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+3. Hipótese em que a instância antecedente, atenta às diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e a natureza das drogas apreendidas - 13 pacotes de maconha (16,734 kg), 2 pacotes médio da mesma substância (16,621g) e 1 porção de cocaína (6,198g) - para fixar a pena-base em 1 ano e 3 meses acima do mínimo legalmente previsto, o que não se mostra desproporcional.
+4. Aplicada a regra do concurso material e somadas as reprimendas impostas pelos delitos de tráfico de drogas e de porte ilegal de arma de fogo de uso restrito, revela-se correto o regime fechado para o cumprimento inicial da pena superior a 8 anos de reclusão, nos termos dos arts. 33, § 2º, "a", do Código Penal.
+5. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de GEREMIAS DA SILVA E SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Maranhão.
+Consta dos autos que o paciente foi condenado à pena de 9 anos e 3 meses de reclusão, em regime fechado, mais pagamento de 635 dias-multa, como incurso nos arts. 33, caput, da Lei n. 11.343/2006 e 16, IV, da Lei n. 10.826/2003.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Neste writ, alega o impetrante ser inidônea e desproporcional a exasperação da pena-base do delito de tráfico com amparo na natureza e na quantidade da droga apreendida, sobretudo por serem favoráveis as demais circunstâncias judiciais.
+Requer, assim, a redução da sanção básica ao mínimo legal.
+Liminar indeferida (e-STJ, fl. 58).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 62-63).
+É o relatório.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DOS ENTORPECENTES. FUNDAMENTAÇÃO IDÔNEA. REGIME MAIS GRAVOSO (FECHADO). CONCURSO MATERIAL. REPRIMENDA SUPERIOR A 8 ANOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. No caso, observa-se flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+2. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+3. Hipótese em que a instância antecedente, atenta às diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e a natureza das drogas apreendidas - 13 pacotes de maconha (16,734 kg), 2 pacotes médio da mesma substância (16,621g) e 1 porção de cocaína (6,198g) - para fixar a pena-base em 1 ano e 3 meses acima do mínimo legalmente previsto, o que não se mostra desproporcional.
+4. Aplicada a regra do concurso material e somadas as reprimendas impostas pelos delitos de tráfico de drogas e de porte ilegal de arma de fogo de uso restrito, revela-se correto o regime fechado para o cumprimento inicial da pena superior a 8 anos de reclusão, nos termos dos arts. 33, § 2º, "a", do Código Penal.
+5. Habeas corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem manteve a elevação da pena-base do delito de tráfico de drogas em 1 ano e 3 meses, em decisão assim motivada:
+"No que pertine à dosimetria da reprimenda, de igual modo não assiste razão ao apelante, uma vez que o magistrado sentenciante agira em estrita observância ao que dispõem os arts. 59 e 68, ambos do Código Penal, bem como os arts. 33, § 4º, e 42, ambos da Lei nº 11.343/2006.
+Ao fixar a pena-base referente ao crime de tráfico de drogas, o magistrado de origem elevou-a um pouco acima do mínimo legalmente previsto considerando a quantidada da droga (superior a 15 kg) e a sua natureza, agindo, portanto, de acordo com o que disciplina o art. 42 da Lei de Drogas.
+Diante da inexisência de circunstâncias atenuantes e/ou agravantes, bem como de causas de diminuição e/ou aumento de pena, o Juiz de base acertadamente tornou a pena definitiva pelo crime de tráfico de droga em 06 (seis) anos e 03 (três) meses de reclusão, além de 625 (seiscentos e vinte e cinco) dias-multa.
+Considerando que o apelante pretende ter reconhecida em seu favor a causa de diminuição da pena prevista no § 4º, art. 33, da Lei nº 11.343/2006, destaco que o douto julgador monocrático fundamentou adequadamente a não incidência da mencionada causa de diminuição, por considerar que o apelante se dedicava à atividade criminosa, integrando organização criminosa, não cabendo, portanto, a benesse do tráfico privilegiado.
+A incidência da causa de diminuição prevista no art. 33, § 4º da Lei nº 11.343/2006 está condicionada às circunstâncias do caso concreto, já que a minorante se destina ao pequeno traficante, que inicia sua atividade ilícita para garantir seu próprio consumo, e não para os que fazem do crime um meio habitual de vida.
+Para tanto, são levados em consideração a primariedade e os bons antecedentes do réu, além do fato de não se dedicar à atividade criminosa ou integrar organização criminosa, sendo que tais requisitos devem ser observados em conjunto para ensejar no emprego do benefício.
+In casu, constatou o juiz sentenciante que o réu não preenchia os requisitos exigidos em lei, de modo que o benefício foi rejeitado de forma fundamentada, depois de reconhecido que o apelante, se dedica a atividades criminosas" (e-STJ, fls. 51-52).
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, o Tribunal de origem, atento as diretrizes do art. 42 da Lei de Drogas, considerou a quantidade e a natureza dos entorpecentes apreendidos - 13 pacotes de maconha (16,734 kg), 2 pacotes médio da mesma substância (16,621g) e 1 porção de cocaína (6,198g) - para elevar a pena-base em 1 ano e 3 meses acima do mínimo legal.
+Tendo sido apresentados elementos idôneos para a majoração da reprimenda básica, elencados inclusive como circunstâncias preponderantes, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. ARTS. 33 E 35, CAPUT, DA LEI N. 11.343/2006. PLEITO ABSOLUTÓRIO. AUTORIA E MATERIALIDADE COMPROVADAS. MODIFICAÇÃO QUE IMPLICA REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ. DOSIMETRIA DA PENA. PENA-BASE. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTAÇÃO SUFICIENTE. ART. 42 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A dosimetria da pena somente pode ser reexaminada no especial quando verificado, de plano, erro ou ilegalidade na fixação da reprimenda, o que não ocorre nestes autos.
+3. A natureza e a quantidade da droga justificam a exasperação da pena-base acima no mínimo legal, nos termos do art. 42 da Lei n. 11.343/2006.
+Agravo regimental desprovido."
+(AgRg no AREsp 1.005.975/AM, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 4/5/2017, DJe 17/5/2017);
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. INÉPCIA DA INICIAL ACUSATÓRIA. MATÉRIA REFUTADA NA ORIGEM. CONDENAÇÃO COM TRÂNSITO EM JULGADO. PRECLUSÃO DA MATÉRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DA DROGA. POSSIBILIDADE.  ..  AUSÊNCIA OU AMEAÇA A DIREITO DE LOCOMOÇÃO. VIA INADEQUADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+4. Em se tratando de crime de tráfico de drogas, como ocorre in casu, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006.
+5. No caso dos autos, a pena-base afastou-se do mínimo legal com base na quantidade da droga apreendida, fundamentação que se encontra em consonância com nossa jurisprudência.
+ ..
+11. Habeas corpus não conhecido."
+(HC 372.028/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017).
+Por fim, mantido o quantum da sanção corporal imposta em patamar superior a 8 anos de reclusão, pelo reconhecimento do concurso material entre o delito de tráfico de drogas e o de porte ilegal de arma de fogo de uso restrito, é incabível a alteração do regime prisional para o aberto ou o semiaberto, a teor do art. 33, § 2º, "a", do CP.
+Diante do exposto, não conheço do habeas corpus.
+É como voto.
