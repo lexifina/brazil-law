@@ -1,0 +1,53 @@
+EMENTA
+HABEAS CORPUS. PRISÃO. MANUTENÇÃO. SENTENÇA. REFERÊNCIA AOS FUNDAMENTOS DA PRISÃO PREVENTIVA. INIDONEIDADE.
+1. É inidônea a sentença que veda ao réu o direito de recorrer em liberdade quando se limita a se reportar ao fato de ele ter permanecido preso durante toda a instrução processual e aos fundamentos do decreto preventivo, quando esse não apresenta elementos concretos.
+2. Ordem concedida, facultando ao Juiz do feito a fixação de cautelares, desde que de forma fundamentada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por maioria, conceder a ordem de habeas corpus nos termos do voto do Sr. Ministro Sebastião Reis Júnior, que lavrará o acórdão. Vencidos os Srs. Ministros Laurita Vaz e Antonio Saldanha Palheiro. Votaram com o Sr. Ministro Sebastião Reis Júnior os Srs. Ministros Rogerio Schietti Cruz e Nefi Cordeiro.
+Sustentou oralmente o Dr. [NOME] pelo paciente, [NOME].
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ (Relator):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] [NOME] [NOME] JUNIOR, contra decisão monocrática indeferitória do pedido liminar formulado nos autos do HC n.º 0040411-56.2018.8.19.0000, processado no Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o Paciente foi denunciado pela suposta prática, em 11/09/2017, dos delitos do art. 158, caput, do Código Penal; e do art. 1.º, inciso I, alínea b, c.c. o § 4.º, inciso II, da Lei n.º 9.455/97.
+A prisão preventiva foi decretada pela Juíza de primeiro grau em 10/10/2017 (fls. 198-199).
+No dia 13 de junho de 2018, o Acusado foi absolvido em relação ao crime de tortura e condenado apenas pelo crime de extorsão, às penas de 6 (seis) anos de reclusão, a ser cumprida inicialmente em regime semiaberto, e 20 (vinte) dias-multa, sendo-lhe vedado o apelo em liberdade (fls. 437-475).
+Contra o decisum, foi impetrado habeas corpus junto ao Tribunal de origem, que teve o pedido liminar indeferido (fl. 513).
+Irresignada, a Defesa impetrou o presente habeas corpus nesta Corte, alegando, em suma, que o Paciente sofre constrangimento ilegal porque lhe foi vedado o recurso em liberdade sem fundamentação idônea, uma vez que não foram indicados elementos concretos que justifiquem a manutenção do condenado no cárcere.
+O habeas corpus foi indeferido liminarmente pela Ministra Maria Thereza de Assis Moura, por não ser cabível contra decisão monocrática que indefere a liminar e por não se vislumbrar manifesta ilegalidade na manutenção da custódia cautelar do Paciente (fls. 570-572).
+A decisão foi mantida pela Sexta Turma desta Corte, que negou provimento ao agravo regimental defensivo em acórdão assim ementado (fl. 589):
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA. SEGREGAÇÃO CAUTELAR MANTIDA. FUNDAMENTAÇÃO. INDEFERIMENTO DA LIMINAR DO PRÉVIO WRIT. SÚMULA N.º 691 DO STF. INEXISTÊNCIA DE ILEGALIDADE PATENTE. EXCEPCIONALIDADE. NÃO OCORRÊNCIA. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Segundo entendimento iterativo desta Corte, secundado pelo enunciado n.º 691 da Súmula do Supremo Tribunal Federal, não cabe habeas corpus contra indeferimento de liminar em prévio writ, por importar em verdadeira supressão de instância.
+2. Na espécie, inexiste excepcional situação de flagrante teratologia apta a superar o óbice sumular. Decisão monocrática mantida por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+Ocorre que, por meio da Petição n.º 00506390/2018, o Impetrante traz notícia do julgamento do mérito pelo Tribunal a quo e, sustentando ainda persistirem as mesmas ilegalidades, requer o aditamento da inicial "para impugnar o acórdão do Tribunal de Justiça que denegou a ordem de habeas corpus lá impetrada em favor do Paciente, alterando-se a autoridade coatora, que era a eminente Desembargadora Marcia Perrini Bodart que havia indeferido o pedido liminar, para constar a Egrégia 4ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro" (fl. 603).
+Pleiteia, assim, a apreciação do habeas corpus pela Sexta Turma, uma vez que já não mais incide o óbice do verbete sumular n.º 691/STF.
+É o relatório.
+VOTO VENCIDO
+A EXMA. SRA. MINISTRA LAURITA VAZ (Relator):
+Em prestígio à economia processual, passo à análise do mérito do presente habeas corpus.
+Como exposto, o Paciente foi condenado pela prática do crime de extorsão, às penas de 6 (seis) anos de reclusão, a ser cumprida inicialmente em regime semiaberto, e 20 (vinte) dias-multa, sendo-lhe vedado o apelo em liberdade. O édito condenatório consignou que permaneciam "presentes os fundamentos que autorizam a manutenção da custódia cautelar" (fl. 474).
+O Tribunal a quo, ao denegar a ordem de habeas corpus originária, manteve a negativa do apelo em liberdade. Confiram-se as razões do acórdão impugnado:
+"É evidente que a magistrada sentenciante, ao manter a custódia, levou em conta os motivos da prisão preventiva, já verificados por ocasião de seu decreto, os quais não sofreram qualquer alteração fática (pasta 147 - fls. 164/165).
+Ademais, não é razoável, diante de uma sentença condenatória, conceder ao Paciente, que esteve preso durante todo o processo, o direito de recorrer em liberdade, já que os motivos da prisão permanecem íntegros.
+Por conseguinte, as alegadas condições pessoais pela Defesa Técnica não foram suficientes para afastar a necessidade da custódia.
+Ademais, a autoridade apontada como coatora noticiou ter determinado a transferência do condenado para estabelecimento prisional compatível com o regime fixado na sentença.
+ .. " (fl. 636; sem grifos no original.)
+A jurisprudência desta Corte é firme no sentido de que a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente para a satisfação do art. 387, § 1.º, do Código de Processo Penal o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma.
+Exemplificativamente:
+"RECURSO EM HABEAS CORPUS. LATROCÍNIO. CUSTÓDIA CAUTELAR MANTIDA NA SENTENÇA CONDENATÓRIA. GRAVIDADE CONCRETA DA CONDUTA E FUGA DO DISTRITO DA CULPA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA E DA APLICAÇÃO DA LEI PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO IMPROVIDO.
+1. Sabe-se que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, antes da confirmação da condenação pelo Tribunal de Justiça, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Segundo o disposto no art. 387, § 1º, do Código de Processo Penal, "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+3. Na hipótese, tem-se que a sentença reportou-se expressamente aos motivos que ensejaram a decretação da custódia cautelar, os quais autorizam devidamente a medida extrema de prisão, pois, na oportunidade, enfatizou o Juízo de primeira instância a necessidade de se acautelar a ordem pública e se assegurar a aplicação da lei penal, em razão da gravidade concreta da conduta - extraída do modus operandi do crime de latrocínio, já que "executado contra uma vítima idosa com pancadas na cabeça e na região do pescoço, golpes esses desferidos com um cambito de madeira e uma roçadeira" - e da fuga do distrito da culpa.
+4. Recurso improvido." (RHC 78.042/CE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Extrai-se dos autos, portanto, que o entendimento esposado pelas instâncias ordinárias está em plena consonância com a jurisprudência deste Sodalício e da Corte Suprema, no sentido de que "não há lógica em permitir que o réu, preso preventivamente durante toda a instrução criminal, aguarde em liberdade o trânsito em julgado da causa, se mantidos os motivos da segregação cautelar" (STF, HC 89.824/MS, 1.ª Turma, Rel. Min. Carlos Britto, DJ de 28/08/08.).
+Por fim, não prospera a alegação de que a prisão cautelar seria mais gravosa que o regime prisional imposto na condenação, pois a Juíza de primeiro grau determinou a transferência do condenado para estabelecimento prisional compatível com o regime semiaberto.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+É como voto.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Não vi, na preventiva nem na sentença, nenhum argumento concreto para a prisão do paciente. Os fundamentos apontados foram apenas genéricos, aplicáveis a qualquer processo semelhante. Não há referência a nenhum elemento concreto que justifique a preventiva. A referência a riscos à instrução ou à efetividade de uma futura condenação é feita com base em simples presunção. Da mesma forma, a referência à gravidade concreta está desacompanhada de qualquer elemento concreto que a corrobore. E a sentença, ao cuidar da prisão, apenas se reporta aos dispositivos legais que dela cuidam, sem acrescer aqui elemento do caso concreto para a justificar. Por fim, o fato de ter o paciente permanecido preso durante a instrução processual, por si só, não justifica a negativa de recorrer em liberdade.
+Concedo a ordem, facultando ao Juiz do feito a fixação de cautelares, desde que de forma fundamentada.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Senhor Presidente, também vou pedir vênia à eminente Relatora para acompanhar a divergência. Além dos motivos elencados pelo Ministro Sebastião Reis Júnior, acrescentaria o fato de que, não tendo havido recurso do Ministério Público contra a sentença condenatória, a pena fixada no regime inicial semiaberto já cumpriria requisito temporal para progressão ao regime mais benéfico. De modo que, a partir desse momento, torna-se ainda mais onerosa e, a meu ver, ilegal, a manutenção da custódia cautelar.
+O juiz já expediu a guia de execução provisória, mas para o cumprimento da pena no regime semiaberto. O sentenciado já tem direito, pelo tempo passado no cárcere preventivo, a estar no regime aberto. Então, falta aí a proporcionalidade, em sentido estrito (homogeneidade), entre a sentença, a pena e a prisão cautelar.
+Por esses fundamentos, peço vênia à e. relatora e acompanho a divergência.
