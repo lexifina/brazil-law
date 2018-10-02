@@ -1,0 +1,33 @@
+DECISÃO
+HABEAS CORPUS. PENAL. LIVRAMENTO CONDICIONAL. EXAME PSIQUIÁTRICO. NECESSIDADE DE REEXAME DE PROVAS. AUSÊNCIA DE PLAUSIBILIDADE JURÍDICA PELOS DOCUMENTOS APRESENTADOS PELO IMPETRANTE. MEDIDA LIMINAR INDEFERIDA. INFORMAÇÕES. VISTA AO PROCURADOR-GERAL DA REPÚBLICA.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Walter Santos de Lima, advogado, em benefício de José Carlos de Souza Machado, contra julgado da Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao Agravo Regimental no Habeas Corpus n. 459.774, Relator o Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça.
+O caso
+    2. Consta dos autos que o paciente, “condenado a uma pena de 24 anos, 08 meses e 07 dias de reclusão em regime fechado”, teve pedido de livramento condicional deferido em 5.4.2017 pelo juízo do Primeiro Ofício Criminal da Comarca de Assis/SP – Seção Processual II (VEC Assis).
+    Contra essa decisão o Ministério Público interpôs recurso de agravo, provido pela Quinta Câmara Criminal de São Paulo, em julgamento assim ementado:
+    “AGRAVO. Deferimento de livramento condicional. Recurso do Ministério Público pretendendo que seja cassada a decisão pelo demérito subjetivo do acusado. Pleiteia a regressão ao regime fechado e realização de exame psiquiátrico. Recurso provido”.
+    3. Esse acórdão foi objeto do Habeas Corpus n. 459.774 no Superior Tribunal de Justiça, pelo qual a defesa do paciente pretendeu fosse “concedida a ordem para restabelecer a decisão do Juízo da Execução Penal que concedeu a liberdade condicional ao paciente”.
+    A Sexta Turma do Superior Tribunal de Justiça negou provimento ao agravo regimental interposto contra a decisão do Ministro Sebastião Reis Júnior, que denegara a ordem requerida pela defesa do paciente. Confira-se a ementa do julgado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL REVOGADO. AUSÊNCIA DE REQUISITO SUBJETIVO. PRÁTICA DE FALTAS GRAVES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+    1. A instância ordinária cassou o livramento condicional e determinou a realização de exame criminológico com parecer psiquiátrico, em razão das faltas graves praticadas pelo ora agravante, fundamento apto e não passível de modificação por esta Corte na via estreita do habeas corpus, visto que demandaria o revolvimento fático-probatório.
+    2. Agravo regimental improvido”.
+    4. A defesa impetra o presente habeas corpus, alegando que “o paciente foi rigorosamente submetido ao exame criminológico, nos termos da nova Resolução da SAP nº 088/2010, resolução esta que dispensa o laudo médico psiquiátrico exceto quando o perito psicólogo entender ser necessário a submissão do sentenciado ao referido exame”.
+    Argumenta que “o paciente vem dando mostras, comprovando estar totalmente apto para resgatar sua parcela de pena no livramento condicional conforme o fez durante todo o ano que assim permaneceu”.
+    Requer medida liminar
+    “para o fim de cassar a decisão ilegal proferida pela E. 6ª Turma do Superior Tribunal de Justiça, restabelecendo de imediato a liberdade condicional concedido em primeira instância ao paciente”. Subsidiariamente, requer que “o paciente possa aguardar o julgamento do presente writ em liberdade, até o julgamento final da ordem, uma vez que o mesmo encontrava-se trabalhando, com residência fixa, cumprindo todas as exigências da condicional”.
+    No mérito, requer a concessão da ordem para “restabelecer a decisão que concedeu a liberdade condicional ao paciente ou a determinação do mesmo permanecer em liberdade condicional”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    5. Neste exame preambular, a exposição dos fatos e a verificação das circunstâncias presentes e comprovadas na ação conduzem ao indeferimento da medida liminar requerida, não se verificando plausibilidade jurídica dos argumentos apresentados na inicial.
+    6. Ao negar provimento ao agravo regimental da defesa e manter a decisão pela qual o Ministro Sebastião Reis Júnior denegara a ordem, a Sexta Turma do Superior Tribunal de Justiça assentou que “o entendimento do Tribunal a quo encontra-se em harmonia com a jurisprudência consolidada por esta Corte Superior de Justiça, no sentido de que a prática de falta grave impede a concessão da progressão de regime e do livramento condicional, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena”.
+    7. As alegações deduzidas na inicial de desnecessidade de submissão do paciente a exame psiquiátrico e de insuficiência da fundamentação do julgado do Tribunal de Justiça de São Paulo pelo qual se reverteu a concessão de livramento condicional do paciente demandaria, pelo que se tem neste momento de exame da medida liminar nos presentes autos, reexame de fatos e provas para se chegar à valoração jurídica diversa da exposta pela Sexta Turma do Superior Tribunal de Justiça.
+    Como assentado na reiterada jurisprudência deste Supremo Tribunal, o habeas corpus constitui “remédio processual inadequado para a análise da prova, para o reexame do material probatório produzido, para a reapreciação da matéria de fato e, também, para a revalorização dos elementos instrutórios coligidos no processo penal de conhecimento” (HC n. 74.295, Relator o Ministro Celso de Mello, DJ 22.6.2001).
+    8. Para a análise do requerimento de medida liminar, é necessário avaliar as alegações expostas pelo impetrante sobre o mérito do presente habeas corpus a demandar informações pormenorizadas para a formação do juízo de convencimento sobre as questões postas.
+    Os argumentos carreados aos autos impõem o prosseguimento da presente ação para análise da questão de forma mais detida, com a complementação da instrução do pedido pelos esclarecimentos do Superior Tribunal de Justiça, da Quinta Câmara Criminal do Tribunal de Justiça de São Paulo e do juízo do Primeiro Ofício Criminal da Comarca de Assis/SP, que proferiu a decisão concedendo o livramento condicional do paciente, sobre o alegado nesta impetração, e com o parecer da Procuradora-Geral da República.
+    9. Pelo exposto, indefiro a medida liminar requerida.
+    Oficie-se ao Superior Tribunal de Justiça, ao Tribunal de Justiça de São Paulo e ao juízo do Primeiro Ofício Criminal da Comarca de Assis/SP para, com urgência, prestar informações pormenorizadas quanto ao alegado na presente impetração, esclarecendo qual o andamento atualizado da execução penal promovida contra o paciente.
+    Remeta-se, com os ofícios, cópia da inicial e da presente decisão.
+    10. Prestadas as informações, vista à Procuradora-Geral da República.
+    Publique-se.
+    Brasília, 2 de outubro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
