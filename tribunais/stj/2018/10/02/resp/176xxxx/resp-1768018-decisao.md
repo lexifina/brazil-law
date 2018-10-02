@@ -1,0 +1,20 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO FISCAL. EXPEDIÇÃO DE MANDADO DE PENHORA E AVALIAÇÃO. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 5ª Região de cuja ementa se extrai:
+Agravo de Instrumento interposto em face Decisão nos autos de Execução Fiscal, que indeferiu a expedição de Mandado de Penhora e Avaliação em virtude da ausência da individualização dos bens suficientes ao adimplemento da Execução, bem como da indicação do endereço onde se encontram os bens passíveis de Expropriação.
+Cabe ao Exequente impulsionar o Processo com o objetivo de atingir sua finalidade útil, qual seja, a satisfação do seu Crédito, na linha de Precedente da Primeira Turma do Tribunal Regional Federal da 5ª Região.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022 do CPC/2015, bem como ao art. 7º da Lei 6.830/80, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) o oficial de justiça, munido de mandado judicial, possui poderes para verificar a existência de eventuais bens passíveis de penhora.
+O recurso foi admitido pela decisão de fl. 166.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A orientação desta Corte firmou-se no sentido de que "é adequado o pedido do exequente de ordem ao oficial de justiça para que investigue a existência de bens penhoráveis que estejam localizados no domicílio da parte executada mormente porque somente este serventuário, em cumprimento à ordem judicial, pode ingressar na residência ou no estabelecimento da parte executada para tal fim; providência esta que não se confunde com o dever da exequente de exaurir as diligências necessárias à busca de outros bens penhoráveis (§ 2º do art. 40 da Lei n. 6.830/1980)" (REsp 1374556/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/08/2013, DJe 28/08/2013).
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. PENHORA. INTIMAÇÃO POR OFICIAL DE JUSTIÇA. BUSCA DE BENS PENHORÁVEIS. POSSIBILIDADE.
+1. Não procede a suscitada contrariedade ao art. 535, II, do CPC/1973, tendo em vista que o Tribunal de origem decidiu, fundamentadamente, as questões essenciais à solução da controvérsia, concluindo de forma contrária à defendida pela parte recorrente, o que não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+2. Considera-se "adequado o pedido do exequente de ordem ao oficial de justiça para que investigue a existência de bens penhoráveis que estejam localizados no domicílio da parte executada (já citada, no caso), mormente porque somente este serventuário, em cumprimento à ordem judicial, pode ingressar na residência ou no estabelecimento da parte executada para tal fim; providência esta que não se confunde com o dever da exequente de exaurir as diligências necessárias à busca de outros bens penhoráveis (§ 2º do art. 40 da Lei n. 6.830/1980)" (REsp 1.374.556/RN. Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 28/8/2013).
+3. Recurso especial a que se dá parcial provimento.
+(REsp 1615268/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 05/12/2017)
+Diante do exposto, com base no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou provimento ao recurso especial, para autorizar a expedição de mandado de penhora e avaliação, na forma requerida pela Fazenda Pública.
+Publique-se. Intimem-se.
