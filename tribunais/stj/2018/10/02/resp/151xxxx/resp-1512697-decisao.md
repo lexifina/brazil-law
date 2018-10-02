@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, na vigência do CPC/73, com base na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado:
+"PROCESSO CIVIL. DECISÃO MONOCRÁTICA. AGRAVO INTERNO. DEMONSTRAÇÃO DE MERO INCONFORMISMO. RECURSO IMPROVIDO.
+I - Em sede de agravo interno, a controvérsia limita-se ao exame da ocorrência, ou não, de flagrante ilegalidade ou abuso de poder na decisão monocrática recorrida, a gerar dano irreparável ou de difícil reparação para a parte, vícios inexistentes na decisão recorrida.
+II- Agravo Interno não provido.
+III - Decisão monocrática mantida" (fl. 56e).
+A parte recorrente alega ofensa ao art. 6º da Lei 6.830/80, sustentando, em síntese, que a petição inicial tem como elementos indispensáveis apenas o pedido, a menção do juízo e o requerimento para a citação, não podendo o Juiz, sem proferir o despacho citatório, manifestar-se acerca da ocorrência de prescrição, eis que "permanecem perfeitos e inatacáveis os termos da Certidão de divida ativa em discussão, dado que não foi o devedor citado para que pudesse afastar a presunção de certeza e liquidez da inscrição em divida ativa da União" (fls. 59/63e).
+Sem as contrarrazões (fl. 67e), foi o Recurso Especial admitido pelo Tribunal de origem (fl. 69e).
+A irresignação não merece prosperar.
+Quanto à alegação de violação ao art. 6º da Lei 6.830/80, aplica-se o teor da Súmula 284 do STF, tendo em vista que a parte recorrente não desenvolveu, nas razões do Recurso Especial, argumentos para demonstrar de que modo tal dispositivo fora violado.
+Na forma da jurisprudência desta Corte, "a admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Ademais, cumpre ressaltar que a prescrição ocorrida antes da propositura da ação, pode ser decretada de ofício, com base no art. 219, § 5º, do CPC, mesmo antes da citação.
+Nesse sentido, confiram-se os seguintes precedentes:
+"TRIBUTÁRIO E PROCESSO CIVIL. ART. 535, II, DO CPC/1973. AUSÊNCIA DE VIOLAÇÃO. EXECUÇÃO FISCAL. PRESCRIÇÃO. ANTERIOR À PROPOSITURA DA AÇÃO. SÚMULA 409/STJ. ART. 219, § 5º, DO CPC. DECRETAÇÃO EX OFFICIO.
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. Nos termos da Súmula 409 desta Corte, em "execução fiscal, a prescrição ocorrida antes da propositura da ação pode ser decretada de ofício (art. 219, § 5º, do CPC)".
+3. Na hipótese, verifica-se que os créditos tributários foram definitivamente constituídos em 28/5/1999 e que a execução fiscal foi proposta em 10/8/2006. Dessa forma, o caso em exame não se enquadra nas hipóteses de prescrição intercorrente, as quais ocorrem após o arquivamento dos autos, nos termos do art. 40, § 4º, da Lei n. 6.830/1980, mas, sim, de prescrição para a propositura da ação, nos moldes do art. 219, § 5º, do CPC.
+4. Não há falar em aplicação da Súmula 106/STJ ao caso em tela, uma vez que a prescrição se deu em momento anterior à citação.
+5. Recurso especial a que se nega provimento" (STJ, REsp 1.696.846/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 19/12/2017).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. OCORRÊNCIA. IPTU. ENTREGA DO CARNÊ. NOTIFICAÇÃO DO LANÇAMENTO. DECRETAÇÃO DE OFÍCIO. POSSIBILIDADE. SÚMULA 409/STJ.
+1. Nos termos do art. 174, parágrafo único, I, do CTN, a prescrição para cobrança dos créditos tributário é contada a partir da data de sua constituição definitiva e se interrompe pelo despacho que ordenar a citação, segundo a nova redação dada pela LC n. 118/05.
+2. Na espécie, a controvérsia se restringe aos débitos relativos ao IPTU de 2002, sendo o prazo prescricional contado a partir da notificação do contribuinte do lançamento tributário, o qual se dá com a entrega do carnê. Precedente: REsp 1.111.124/PR, Rel. Min. Teori Albino Zavascki, Primeira Seção, DJe de 4.5.2009 - julgado mediante a sistemática prevista no art. 543-C do CPC (recursos repetitivos).
+3. Assim, lançado o débito tributário em 1º de janeiro de 2002, e proposta a ação executiva em 16 de julho de 2007, não há como afastar o decreto de prescrição.
+4. Nos termos da Súmula 409 do STJ, a prescrição ocorrida antes da propositura da ação, tal como a hipótese dos autos, pode ser decretada de ofício com base no art. 219, § 5º, do CPC.
+5. Recurso especial não provido" (STJ, REsp 1.145.216/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/09/2010).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO OCORRIDA ANTES DA CITAÇÃO. DECRETAÇÃO DE OFÍCIO. POSSIBILIDADE, INDEPENDENTEMENTE DA PRÉVIA OITIVA DA FAZENDA PÚBLICA. SÚMULA N. 106/STJ. REEXAME DE PROVA. ÓBICE DA SÚMULA N. 7/STJ.
+1. Constou expressamente no acórdão recorrido que, na hipótese, "a Fazenda, como autora da ação, não diligenciou no sentido de praticar os atos que lhe competiam para dar andamento ao feito, demonstrando, com isso, desinteresse na percepção do valor objeto da execução". Nesse contexto, é inviável a rediscussão do tema, pois "a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 07/STJ" (REsp 1.102.431/RJ, 1ª Seção, Rel. Min. Luiz Fux, DJe de 1º.2.2010 - recurso submetido à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ).
+2. "Em execução fiscal, a prescrição ocorrida antes da propositura da ação pode ser decretada de ofício (art. 219, § 5º, do CPC)" (Súmula n. 409/STJ).
+3. Agravo regimental não provido" (STJ, AgRg no REsp 1.229.851/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/3/2012).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
