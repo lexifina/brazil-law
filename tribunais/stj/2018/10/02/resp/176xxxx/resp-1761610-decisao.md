@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+ACIDENTÁRIA - Prensista - Acidente típico - Lesão no 2º dedo da mão direita - Exame pericial que concluiu pela ausência de incapacidade laborativa - Laudo não contrariado por nenhum outro trabalho técnico - Improcedência da ação - Recursos autárquico e oficial providos (fl. 166).
+
+A parte recorrente aponta a violação ao art. 86 da Lei n. 8.213/1991, bem como dissídio jurisprudencial, sob o fundamento de que referido dispositivo legal assegura a reparação em todas as hipóteses de perda da capacidade de trabalho, independentemente do grau de incapacidade.
+Em juízo de retratação, proferido em observância à sistemática dos recursos repetitivos, o Tribunal de origem manteve o entendimento anteriormente adotado, seguindo-se juízo positivo de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento do Tema n. 416, ao qual está vinculado o Recurso Especial Repetitivo n. 1.109.591/SC, firmou entendimento no sentido de que "o nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão", nos termos do acórdão assim ementado:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. AUXÍLIO-ACIDENTE. LESÃO MÍNIMA. DIREITO AO BENEFÍCIO.
+1. Conforme o disposto no art. 86, caput, da Lei 8.213/91, exige-se, para concessão do auxílio-acidente, a existência de lesão, decorrente de acidente do trabalho, que implique redução da capacidade para o labor habitualmente exercido.
+2. O nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão.
+3. Recurso especial provido. (relator Ministro Celso Limongi, Desembargador convocado do TJ/SP, DJe de 8/9/2010.)
+É possível extrair, ainda, do voto condutor de referido paradigma, in verbis:
+O fato da redução ser mínima, ou máxima, reafirmo, é irrelevante, pois a lei não faz referência ao grau da lesão, não figurando essa circunstância entre os pressupostos do direito, de modo que, para a concessão de auxílio-acidente, é necessário verificar, apenas, se existe lesão decorrente da atividade laboral e que acarrete, no fim das contas, incapacidade para o trabalho regularmente exercido.
+ ..
+Por outro lado, é preciso considerar, paralela à questão material, a existência da sequela psíquica decorrente desses acidentes, pois é certo, por exemplo, que o segurado marceneiro cujo dedo foi amputado na serra, embora possa exercer, em tese, sua função, sem maiores entraves materiais decorrentes do sinistro, terá, sob o aspecto psicológico, também aumentado o grau de dificuldade, significando, dessa forma, na prática, na exigência de um maior esforço, circunstância que talvez tenha motivado o legislador a não incluir e nem valorizar, no texto legal, o grau da lesão.
+Nesse contexto, pode-se concluir que se há incapacidade e nexo causal, é de rigor a concessão do benefício; pouco importa se a redução para o trabalho é mínima, média ou máxima; tal circunstância importava ao regime anterior à vigência da Lei 9.032/95, de maneira que, na redação atual, escapa da competência do julgador imiscuir-se nessa seara.
+In casu, a Corte de origem concluiu pela impossibilidade de concessão do auxílio-acidente em contrariedade com essa orientação, conforme se extrai da seguinte fundamentação do julgado, in verbis:
+Efetuada a avaliação médica (fls. 87v 0/92), verificou o perito que o obreiro apresenta "amputação parcial de falange distal do 2º quirodáctilo, em nível de terço proximal desta falange, com força preservada, sem prejuízo relevante à prensa manual desta mão e com prejuízo parcial à preensão em pinça digital com o 20 quirodáctilo" (fls. 89vº).
+Salientou o expert, entretanto, que o exame físico não evidencia relevante perda segmentar à movimentação e preensão manual da mão direita, concluindo que a sequela não gera incapacidade laborativa. (fl. 167).
+Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença de primeiro grau, exceto quanto aos juros, que deverão incidir segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei n. 9.494/1997, com a redação dada pela Lei n. 11.960/2009), e à correção monetária, cujo índice aplicável é o INPC (art. 41-A da Lei n. 8.213/1991, na redação dada pela Lei n. 11.430/2006).
+Publique-se. Intimem-se.
