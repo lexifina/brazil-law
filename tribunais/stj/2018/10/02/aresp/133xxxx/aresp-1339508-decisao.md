@@ -1,0 +1,25 @@
+DECISÃO
+O Estado de Santa Catarina apresenta agravo contra decisão que negou seguimento ao seu recurso especial, interposto com fundamento no art. 105, III, a e c, da CF/88, com o objetivo de reformar acórdão assim ementado pelo Tribunal Regional Federal da 4ª Região (fl. 45):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. MULTA DIÁRIA.
+- O objetivo da multa diária não é penalizar a parte que descumpre a ordem, mas garantir a efetividade do comando judicial. Não se trata, pois, de medida reparatória ou compensatória, mas de instrumento de caráter coercitivo, visando compelir o devedor a satisfazer a obrigação determinada no decisum.
+- No tocante à cominação de obrigação e multa, saliento que, no presente caso, possível, em tese, a responsabilização do gestor público. Isso porque caracterizada situação de recalcitrância, e não sofrendo o gestor penalidade alguma, coação efetiva não haverá para que seja de fato a autoridade compelida a tomar providência contrária à sua vontade, mesmo nos casos de clara violação à lei. Logo, a multa pode alcançar não somente a administração pública, mas os gestores responsáveis pelo retardamento do comando judicial.
+- Na hipótese, considerando os valores adotados de regra nesta Corte, razoável a redução ao limite postulado no agravo (R$ 120,00 ao dia).
+Em suas razões especiais, o recorrente sustenta, em síntese, violado o art. 536, § 1º, do CPC/2015, sob o fundamento de ser incabível a imposição de multa coercitiva contra a pessoa do Secretário de Estado da Saúde.
+Aponta, ainda, divergência jurisprudencial sobre o tema.
+Sem contrarrazões (fls. 78-79), o Tribunal de origem negou seguimento ao recurso especial (fls. 81-83), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Em análise ao acórdão recorrido, o qual entendeu pela possibilidade de imposição de multa coercitiva em desfavor de agente público não integrante da relação processual, verifica-se que o mesmo encontra-se em dissonância com a jurisprudência do STJ, conforme se depreende da leitura dos seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. ANTECIPAÇÃO DOS EFEITOS DA TUTELA EM AÇÃO CIVIL PÚBLICA CONTRA O ESTADO DE SERGIPE E A FUNDAÇÃO HOSPITALAR DE SAÚDE. FORNECIMENTO DE MEDICAMENTOS. AUSÊNCIA DE PREQUESTIONAMENTO DAS TESES VEICULADAS NO RECURSO ESPECIAL. SÚMULA 211/STJ. MULTA PREVISTA NO ART. 461, §§ 4º E 5º, DO CPC. IMPOSIÇÃO AO AGENTE PÚBLICO QUE NÃO FIGUROU COMO PARTE NO PROCESSO. IMPOSSIBILIDADE. AFRONTA AO DIREITO DE AMPLA DEFESA. RECURSO ESPECIAL DESPROVIDO.
+1 - O Tribunal de origem, apesar de instado a fazê-lo por meio dos competentes embargos de declaração, não se pronunciou sobre as teses versadas no presente recurso. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+2 - Ainda que assim não fosse, o entendimento exposto no acórdão impugnado se amolda à jurisprudência do Superior Tribunal de Justiça, firmada no sentido de que o agente público não pode ser pessoalmente condenado ao pagamento de astreintes se não figurou como parte na relação processual em que imposta a cominação, sob pena de afronta ao direito constitucional de ampla defesa. Precedentes.
+3 - Recurso especial a que se nega provimento
+(STJ, REsp 1433805/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 24/06/2014)
+ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. APLICAÇÃO DE MULTA PREVISTA NO ART. 461, §§ 4º E 5º, DO CPC. IMPOSSIBILIDADE DE REDIRECIONAMENTO AO GESTOR PÚBLICO POR NÃO SER PARTE NO FEITO.
+1. Nos termos da jurisprudência pacífica desta Corte, em se tratando de obrigação de fazer, é permitido ao juiz, de ofício ou a requerimento da parte, a imposição de multa cominatória ao devedor (astreintes), mesmo contra a Fazenda Pública.
+2. Não é possível, contudo, a extensão ao agente político de sanção coercitiva aplicada à Fazenda Pública em decorrência da sua não participação efetiva no processo. Entendimento contrário acabaria por violar os princípios do contraditório e da ampla defesa. Agravo regimental improvido
+(STJ, AgRg no AREsp 196.946/SE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 16/05/2013).
+Observado que o entendimento consignado pelo recorrente, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ, in verbis:
+O relator, monocraticamente e no STJ, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RI/STJ, conheço do agravo para dar provimento ao recurso especial e afastar a possibilidade de fixação de multa coercitiva em desfavor do Secretário de Estado da Saúde, não integrante da relação processual.
+Publique-se. Intimem-se.
