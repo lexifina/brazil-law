@@ -1,0 +1,34 @@
+DECISÃO
+ADMINISTRATIVO. AÇÃO ANULATÓRIA DE INSCRIÇÃO EM DÍVIDA ATIVA. FUNDO DE FINANCIAMENTO À EXPORTAÇÃO - FINEX. LEGITIMIDADE PASSIVA E REGULARIDADE DA INSCRIÇÃO DA DÍVIDA. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. EXIGIBILIDADE DO DÉBITO. DECADÊNCIA. INAPLICABILIDADE DO PRAZO PREVISTO NO CTN. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por MADEF S/A INDÚSTRIA E COMÉRCIO, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. AÇÃO ANULATÓRIA DE INSCRIÇÃO EM DÍVIDA ATIVA. FUNDO DE FINANCIAMENTO À EXPORTAÇÃO - FINEX. LEGITIMIDADE. EXIGIBILIDADE DO DÉBITO. DECADÊNCIA. PRESCRIÇÃO. JUROS.
+Na qualidade de sucessora do Banco Central do Brasil na titularidade do FINEX, pode a União executar a dívida não-tributária em análise, pois a partir de janeiro de 1988 lhe foram transferidas a administração dos fundos e programas de crédito para fomento, inclusive os do FINEX.
+A empresa exportadora beneficiada pelo referido fundo, é a parte legítima para responder pelo débito não adimplido, uma vez que o Banco do Brasil, ao firmar os contratos que viabilizaram as operações internacionais em testilha, atuou não como simples entidade financeira, mas como veículo de realização da política creditícia e financeira do governo, nos termos do artigo 19, I, d, da Lei n. 4.595/1964.
+Cabia à demandante ilidir a presunção de certeza e liquidez do título executivo que pretende desconstituir, não tendo, sequer, juntando cópia dos contratos de financiamento firmados com o Banco do Brasil e as respectivas apólices de seguro destinadas a garantir os negócios.
+A alegação de que a autora não foi corretamente notificada da forma de constituição do débito não se sustenta, não apenas porquanto houve expressa notificação de cobrança (fls. 40-41), mas também porque o débito se originou de acordos firmados justamente pela empresa Madef S/A Indústria e Comércio, que não pode vir alegar desconhecimento das cláusulas acertadas a fim de viabilizar a obtenção de recursos através do Fundo de Financiamento à exportação - FINEX.
+Conquanto seja expressa a possibilidade de inscrição em dívida ativa de créditos de natureza não-tributária, forte no artigo 1º da Lei n.º 6.830, de 22 de setembro de 1980, tal previsão não lhes estende a aplicação dos dispositivos do Código Tributário Nacional, não se podendo falar, no caso do crédito em análise, no instituto da decadência.
+Aplica-se o prazo quinquenal, previsto no Decreto n. 20.910/32, que somente começa a correr com a notificação da exportadora para assumir a dívida.
+Não há um limite constitucional para a fixação de juros moratórios, pois, consoante a Súmula Vinculante n. 7 do Supremo Tribunal Federal, a norma do § 3.º do artigo 192 da Constituição, revogada pela Emenda constitucional nº 40/2003, que limitava a taxa de juros reais a 12% (doze por cento) ao ano, tinha sua aplicação condicionada à edição de lei complementar.
+2. Opostos Embargos de Declaração, foram eles parcialmente acolhidos, tão somente para fins de prequestionamento.
+3. Alega a recorrente, de início, ofensa aos arts. 131, 165 c/c 458, II do CPC/1973, reputando omisso o acórdão recorrido, não obstante a oposição dos Aclaratórios.
+4. No mérito, aponta violação dos arts. 1o., 2o. e 3o. do Decreto 57.286/1965, 296 do Código Civil, 70 da Lei Uniforme de Genebra e 173 do CTN, sustentando, em síntese: (a) a responsabilidade das empresas importadoras e da seguradora pelo débito adimplido pela exportadora; (b) a decadência do direito de constituição do crédito pela UNIÃO, já que passados mais de 9 anos do lançamento do débito; (c) a nulidade do termo e inscrição da dívida ativa.
+5. Contrarrazões às fls. 714/715.
+6. É o relatório.
+7. Inicialmente, em relação à suposta contrariedade aos arts. 131, 165, e 458 do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. No mérito, não prospera o Recurso Especial.
+9. Acerca do tema da legitimidade passiva da cobrança, a Corte de origem assim fundamentou suas conclusões:
+Portanto, não há falar, como quer a autora, em cessão ou novação da obrigação em análise, cujo conhecimento das nuances e tratativas, e o interesse de utilização de fundo público para fomentar e viabilizar suas operações, mostram-se evidentes por parte da exportadora.
+Ademais disso, cabia à demandante ilidir a presunção de certeza e liquidez do título executivo que pretende desconstituir, não tendo, sequer, juntando cópia dos contratos de financiamento firmados com o Banco do Brasil e as respectivas apólices de seguro destinadas a garantir os negócios.
+Existindo, a partir dos contratos, título executivo que goza de presunção de liquidez, certeza e exigibilidade, cabe à executada desconstituí-la, do que não se desincumbiu.
+10. Na forma como disposto, a reversão do julgado, nesse ponto, pressuporia a interpretação e análise das disposições contratuais dos ajustes, bem como das provas dos autos, medidas vedadas na estreita via eleita, nos termos das Súmulas 5 e 7/STJ. Os mesmos óbices incidem no tocante à validade do termo e inscrição da dívida ativa.
+11. Quanto à decadência, verifica-se que a posição adotada pela Corte de origem é consentânea com o entendimento deste STJ de que, na cobrança de créditos de natureza não-tributária, não incide o prazo decadencial do CTN. A propósito, citem-se precedentes:
+EXECUÇÃO FISCAL - FGTS - NATUREZA JURÍDICA NÃO-TRIBUTÁRIA - DECADÊNCIA E PRESCRIÇÃO - INAPLICABILIDADE DO ART. DO CTN.
+1. Na esteira da jurisprudência firmada pelo STF, a Primeira Seção desta Corte pacificou o entendimento de que as contribuições para o FGTS não têm natureza jurídica tributária, devendo observar-se na cobrança dos valores não recolhidos o prazo trintenário. Precedentes.
+2. Recurso especial provido (REsp. 923.503/MS, Rel. Min. ELIANA CALMON, DJe 25.3.2009).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. FGTS. NATUREZA JURÍDICA NÃO-TRIBUTÁRIA. PRESCRIÇÃO E DECADÊNCIA. PRAZO TRINTENÁRIO. PERÍODO ANTERIOR À EC 8/77.
+1. A jurisprudência do STJ, considerando a posição firmada pelo STF, por ocasião do julgamento do RE 100.249/SP, Relator Ministro Néri da Silveira, DJ de 01/07/1988, entende que a contribuição para o FGTS, mesmo em período anterior à EC 8/77, deve sujeitar-se, quanto à decadência e prescrição, ao prazo trintenário.
+2. Agravo regimental não provido (AgRg no AREsp. 178.398/PR, Rel. Min. BENEDITO GONÇALVES, DJe 24.9.2012).
+12. Ante o exposto, nega-se seguimento ao Recurso Especial.
+13. Publique-se.
+14. Intimações necessárias.
