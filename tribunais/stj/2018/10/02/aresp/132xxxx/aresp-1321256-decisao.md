@@ -1,0 +1,61 @@
+EMENTA
+PROCESSUAL CIVIL. CIVIL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. USURPAÇÃO DA COMPETÊNCIA DO STF. INTERPOSIÇÃO CONTRA SENTENÇA. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. AFASTADO. PRECEDENTES. DECISÃO EM CONFORMIDADE COM O ENTENDIMENTO DESTA CORTE. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+HANDBOOK STORE CONFECÇÕES LTDA. (HANDBOOK) interpôs agravo de instrumento contra decisão que, nos autos da ação de despejo por falta de pagamento movida por MULTIPLAN EMPREENDIMENTOS IMOBILIÁRIOS S.A. e MANATI EMPREENDIMENTOS E PARTICIPAÇÕES S.A. (MULTIPLAN e outra), indeferiu a suspensão do feito, já sentenciado.
+O Tribunal de origem não conheceu do recurso, conforme acórdão assim ementado:
+Agravo de instrumento. Interposição contra sentença. Inadmissibilidade. Cabimento de apelação. Erro grosseiro que inviabiliza a aplicação do princípio da fungibilidade recursal. Ausência de interesse recursal. Recurso não conhecido (e-STJ, fl. 450).
+Opostos embargos de declaração por MULTIPLAN e outra, foram rejeitados (e-STJ, fls. 503/506).
+HANDBOOK interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando ofensa aos arts. 7, 227, 283 e 1.015 do NCPC, além do art. 5º da CF, por entender que (1) não houve erro grosseiro na interposição do agravo de instrumento, pois o pedido por meio de petição simples não visava alterar a sentença; (2) subsidiariamente, o princípio da fungibilidade recursal permite o recebimento de recurso erroneamente interposto como adequado, a fim de resguardar a segurança jurídica e a celeridade processual (e-STJ, fls. 509/523).
+Contrarrazões apresentadas (e-STJ, fls. 566/576).
+O recurso especial foi inadmitido na origem por ausência de demonstração de ofensa aos artigos indicados e incidência da Súmula nº 282 do STF (e-STJ, fls. 601/603).
+Em suas razões, HANDBOOK alegou ter preenchido todos os requisitos para a interposição do recurso, afirmando que indicou os dispositivos e justificou a ofensa cada um deles. Sustentou que o Tribunal local adentrou no mérito da questão, quando deveria, apenas, restringir-se ao exame dos pressupostos de admissibilidade do recurso (e-STJ, fls. 647/657).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do juízo de admissibilidade
+Inicialmente, quanto ao juízo de admissibilidade, é relevante afirmar que o Tribunal a quo, ao realizá-lo, atendeu perfeitamente aos ditames legais.
+Ressalte-se que o juízo de prelibação é bifásico, ou seja, o primeiro juízo realizado no Tribunal de origem não tem o condão de vincular a decisão de admissibilidade do STJ, a qual é soberana àquele.
+Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESSUPOSTOS DE ADMISSIBILIDADE ATENDIDOS. ANÁLISE DE MÉRITO DO ESPECIAL. CONTROLE BIFÁSICO. APELAÇÃO. 514, II, DO CPC. ATENDIMENTO.
+1. O juízo de admissibilidade do recurso especial é bifásico e, como tal, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar, novamente, o preenchimento dos pressupostos recursais.
+(AgRg no AREsp 489.138/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 16/9/2014, DJe 26/9/2014)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SÚMULA 216/STJ. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. STJ NÃO VINCULADO.
+(..)
+2. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade. Precedentes.
+(EDcl no AREsp 289.109/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 15/5/2014, DJe 21/5/2014)
+Da alegada ofensa ao art. 5º da CF
+Inicialmente cumpre esclarecer que não é possível a análise de eventual ofensa a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito, veja-se o precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREPARO. AUSÊNCIA DE RECOLHIMENTO. DESERÇÃO. SÚMULA Nº 187/STJ.
+1.Compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir, nesta seara, a violação de dispositivos constitucionais, matéria afeta à competência do STF (art. 102, III, da Carta Magna).
+2.Não viola o artigo 535 do Código de Processo Civil nem importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+3. Incide, por analogia, a Súmula nº 284/STF quando o recorrente deixa de indicar o dispositivo de lei federal que teria sido violado pelo Tribunal de origem.
+4. O recorrente deve comprovar, no momento da interposição do recurso especial, o pagamento das custas judiciais e do porte de remessa e retorno dos autos, sob pena de deserção, ainda que o recurso tenha por objeto a gratuidade da justiça, pois a concessão de tal benefício não tem efeito retroativo. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp 803.183/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 5/4/2016, DJe 12/4/2016 - sem destaque no original)
+(2) e (3) Do erro grosseiro e da fungibilidade recursal
+O Tribunal local concluiu que o erro grosseiro inviabilizou a aplicação do princípio do princípio da fungibilidade. Para isso, adotou as seguintes razões:
+O recurso não comporta conhecimento, ante a inadequação da via recursal eleita.
+Com efeito, nota-se que a decisão impugnada trata-se, em verdade, de sentença que apreciou embargos de declaração opostos contra a sentença de fls. 251/253, devendo ter sido interposta apelação, nos termos do art. 1.009 do CPC/15, e não agravo de instrumento, como ocorreu.
+Outrossim, mostra-se impossível a aplicação da fungibilidade recursal no presente caso, pois a interposição de agravo foi erro crasso, haja vista a clareza solar dos dispositivos processuais que definem a decisão agravada como sentença e determinam a interposição de apelação para impugná-la, inexistindo qualquer dúvida objetiva a respeito do recurso cabível na hipótese dos autos.
+Em consulta ao extrato processual no sítio eletrônico do Tribunal de Justiça, verifica-se que a ora agravante já interpôs o competente recurso de apelação, de modo que serão oportunamente apreciadas, quando do julgamento do mencionado recurso, as questões aqui ventiladas (e-STJ, fls. 451/452).
+A jurisprudência deste Tribunal entende que a apelação constitui o recurso cabível contra a sentença, nos termos do art. 1.009 do NCPC. Assim, considera-se erro grosseiro a interposição de agravo de instrumento contra pronunciamento judicial que apreciou embargos de declaração opostos contra sentença. Deste forma, reveste-se de características de decisão terminativa, pondo fim ao processo, impugnável, portanto, através de apelação.
+Nesse sentido os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SÚMULAS 7 E 182/STJ E SÚMULA 284/STF. NÃO CABIMENTO. RECURSO ESPECIAL. EXECUÇÃO. DECISÃO QUE DETERMINA O ARQUIVAMENTO DO FEITO. NATUREZA DE SENTENÇA. ART. 162, C/C ART. 513 DO CÓDIGO DE PROCESSO CIVIL. RECURSO CABÍVEL. APELAÇÃO. PRECEDENTES.
+1. Tratando-se de decisão que põe fim ao procedimento executivo, não há como entender desarrazoada a alegação de que o recurso cabível é a apelação (art. 162, c/c o art. 513 do Código de Processo Civil).
+2. Agravo regimental não provido.
+(AgRg no Ag 1.160.413/DF, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 27/6/2012)
+PROCESSUAL CIVIL. EXECUÇÃO. VIOLAÇÃO AOS ARTS. 162, 165, 267, 458, 795, DO CPC. NÃO OCORRÊNCIA. DECISÃO DO JUÍZO QUE AFIRMA NÃO HAVER MAIS CRÉDITO A SER EXECUTADO E TER OCORRIDO COMPENSAÇÃO RECÍPROCA E PROPORCIONAL DOS HONORÁRIOS ADVOCATÍCIOS ENTRE OS LITIGANTES. DETERMINAÇÃO DE BAIXA E ARQUIVAMENTO DOS AUTOS. NATUREZA DO PROVIMENTO. SENTENÇA. IMPUGNAÇÃO QUE DEVE SER FEITA POR APELAÇÃO. AGRAVO DE INSTRUMENTO. NÃO CABIMENTO. AUSÊNCIA DE DÚVIDA OBJETIVA.
+1. Hipótese na qual o recorrente aduz violação aos artigos 162, 165, 267, 458, 795, todos do Código de Processo Civil, ao argumento de que o recurso cabível da decisão em primeira instância que determinou a baixa e o arquivamento dos autos de execução seria o agravo de instrumento e não a apelação, como entendeu a Corte a quo ao inadmitir a irresignação.
+2. Após informações apresentadas pelos recorrentes (fl. 27), o Juiz de primeiro grau extinguira a execução ao fundamento de que não havia mais crédito a ser executado nos autos, sendo incisivo ao declarar que, quanto aos honorários, fora proferida decisão anterior, a qual determinara a compensação recíproca e proporcional entre os litigantes, concluindo pela baixa e o arquivamento dos autos (fl. 28).
+3. Verifica-se que a referida prestação jurisdicional encerra o processo, põe fim à execução, daí a sua natureza sentencial, o que impede, na hipótese, o prosseguimento do feito. Eventual irresignação deveria ter sido feita através de recurso de apelação e não de agravo de instrumento, como decidira a Corte regional. Não há dúvida objetiva, tampouco indução a erro na escolha do recurso, não sendo aplicável o princípio da fungibilidade. A propósito: "A decisão que manda arquivar os autos e determina o cancelamento da distribuição tem natureza jurídica de sentença, impugnável por meio do recurso de apelação, não sendo admissível o agravo por se configurar erro grosseiro" (REsp 168.242/SP, Quarta Turma, Rel. Min. Sálvio de Figueiredo Teixeira, DJ de 21.9.1998). No mesmo sentido, eis os seguintes precedentes: REsp 1.065.612/RJ, Primeira Turma, Rel. Min. Teori Albino Zavascki, DJe de 4.2.2009; REsp 898.115/PE, Primeira Turma, Rel. Min. Teori Albino Zavascki, DJ de 21.5.2007; REsp 353.157/RN, Quinta Turma, Rel. Min. Gilson Dipp, DJ de 3.6.02.
+4. Não há nenhuma violação aos dispositivos legais indicados. A quaestio juris apresentada retrata a necessidade de se definir qual recurso deveria ter sido interposto, à luz do princípio da singularidade recursal. Eventuais vícios do provimento de primeiro grau, casos existentes, devem ser temas do próprio recurso na origem (apelação ou agravo de instrumento), que, na hipótese, não foi sequer admitido.
+5. Recurso especial não provido.
+(REsp 1.105.719/RJ, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 28/9/2009
+Assim, estando em consonância com o entendimento deste Sodalício sobre o tema, a decisão do Tribunal de origem deve ser mantida, para considerar a inadequação do agravo de instrumento interposto, quando deveria ter sido interposta apelação, sendo descabida a utilização do princípio da fungibilidade na presente hipótese.
+Ressalte-se que, consoante a Súmula nº 568 do STJ, O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
