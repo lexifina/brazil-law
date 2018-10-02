@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de revisão criminal, com pedido liminar, interposto em favor de EMANUEL CARLOS ARAUJO DA SILVA, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Pernambuco.
+Ressai dos autos que o juízo singular condenou o ora paciente às penas de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial semiaberto, mais o pagamento de 9 (nove) dias-multa, pela prática do crime descrito no art. 155, § 4º, inciso IV, c/c o art. 14, inciso II, ambos do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação criminal. O eg. Tribunal de origem, à unanimidade, deu parcial provimento ao apelo defensivo, apenas efetuar a compensação da atenuante da confissão espontânea com a agravante da reincidência, reduzindo, assim a pena privativa de liberdade imposta ao paciente, fixando-a em de 1 (um) ano e 4 (quatro) meses de reclusão, nos termos do v. acórdão assim ementado:
+"APELAÇÃO CRIMINAL. TENTATIVA DE FURTO QUALIFICADO. CONCURSO DE AGENTES (ART. 155, § INCISO IV, C/C ART. 14, II, AMBOS DO CP). MATERIALIDADE COMPROVADA. ALEGAÇÃO DE INEXISTÊNCIA DA QUALIFICADORA. PROVAS SUFICIENTES QUE APONTAM PARA A COMUNHÃO DE DESÍGNIOS DOS AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILlDADE À VISTA DO CONCURSO DE AGENTES. PRECEDENTES DO STF. DOSIMETRIA DA PENA. COMPENSAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A REINCIDÊNCIA. POSSIBILIDADE. PRECEDENTES DO STJ. REDUÇÃO DA PENA. APLICAÇÃO DE OFÍCIO DO DISPOSTO NO ART. 580 DO CPP EM FAVOR DO CONDENADO CORRÉU NÃO APELANTE. RECURSO PROVIDO EM PARTE. DECISÃO UNÂNIME.." (fl. 77).
+O v. acórdão combatido transitou em julgado para a defesa em 09/08/2018 (fl. 113).
+Daí o presente writ, no qual o impetrante pugna pela absolvição do paciente, com a aplicação do princípio da insignificância.
+A liminar foi indeferida às fls. 102-103.
+As informações foram prestadas às fls. 111-130.
+O Ministério Público Federal manifestou-se, às fls. 132-137, pelo não conhecimento do writ, em parecer ementado nos seguintes termos:
+"HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO FURTO QUALIFICADO. PRINCÍPIIO DA INSIGNIFICÂNCIA. INCOMPETÊNCIA. PRECEDENTES DO STJ. NÃO CONHECIMENTO.
+- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de revisão criminal.
+- 2ª Preliminar: conhecimento de ofício; impossibilidade, ausência de competência. Precedentes: STJ (HC 245.731/MS; HC nº 248.757/SP).
+- 3ª Preliminar, cabe, ainda, suscitar a ausência de competência originária do STJ para processar e julgar este HC, substitutivo de revisão criminal.
+- Parecer pelo não conhecimento deste habeas corpus." (fl. 132).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+No caso, inviável o conhecimento do presente habeas corpus, uma vez que se insurge contra decisão transitada em julgado, cuja revisão deve ser feita pelo eg. Tribunal a quo, conforme prescreve o art. 624, II, do Código de Processo Penal, entendimento esse sedimentado pela Terceira Seção deste Tribunal Superior a mais de vinte anos, conforme os seguintes precedentes:
+"CRIMINAL. HC. ROUBO QUALIFICADO. NOMEAÇÃO DE DEFENSOR PÚBLICO DA UNIÃO PARA AJUIZAR REVISÃO CRIMINAL PERANTE O STJ. AUSÊNCIA DE JULGADO DESTE TRIBUNAL A SER DESCONSTITUÍDO. PLEITO DE DESCONSTITUIÇÃO DE SENTENÇA CONDENATÓRIA. AÇÃO REVISIONAL A SER PROPOSTA NO COLEGIADO DE ORIGEM. ASSISTÊNCIA JUDICIÁRIA A SER PRESTADA PELA DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO. ORDEM NÃO CONHECIDA.
+I. Hipótese em que o impetrante busca desconstituir sentença condenatória prolatada pelo Juízo da 5ª Vara Criminal de São Paulo/SP, sendo que inexiste julgado proferido por esta Corte em desfavor do réu, restando evidenciado que eventual ação revisional deverá ser ajuizada perante o Tribunal de origem.
+II. Não há que se falar em nomeação de Defensor Público da União, sendo certo que a assistência judiciária terá que ser prestada pela Defensoria Pública do Estado de São Paulo, a qual deverá avaliar a viabilidade de ajuizamento de revisão criminal a ser proposta perante o Colegiado a quo, nos termos do art. 624, inciso II, do CPP.
+III. Defensoria Pública da União que já remeteu ofício para o referido órgão estadual, a fim de que fossem tomadas as medidas pertinentes, tendo igualmente encaminhado o inteiro teor da presente impetração.
+IV. O ajuizamento de ação revisional terá que ser baseado em novas provas, nos termos do parágrafo único do art. 622 do CPP, eis que o próprio impetrante já havia anteriormente ajuizado revisão criminal perante o Tribunal de origem, o qual restou provido em parte, tendo sido reduzido o quantum de pena aplicada, bem como fixado o regime intermediário para o desconto da reprimenda corporal.
+V. Ordem não conhecida." (HC 69.940/SP,.Quinta Turma, Rel. Min. Gilson Dipp, DJ 04/06/2007, p. 402, grifei).
+"CONSTITUCIONAL. PROCESSUAL PENAL. REVISÃO CRIMINAL. COMPETENCIA. CF, 105, I, "E". CPP, ART. 624, II.
+- EM SEDE DE REVISÃO CRIMINAL, A COMPETENCIA ORIGINARIA DO SUPERIOR TRIBUNAL DE JUSTIÇA RESTRINGE-SE AO REEXAME DOS SEUS JULGADOS (CF, ART. 105, I, E) COMPETINDO AOS TRIBUNAIS ESTADUAIS REVISAR AS CONDENAÇÕES POR ELES IMPOSTAS OU POR SEUS JUIZOS VINCULADOS (CPP, ART. 624, II).
+- REVISÃO CRIMINAL NÃO CONHECIDA. REMESSA DOS AUTOS AO TRIBUNAL DE JUSTIÇA DO PARANA." (RvCr 131/PR, Terceira Seção, Rel. Min. Vicente leal, DJ 26/08/1996, p. 29621).
+No mesmo sentido as seguintes decisões monocráticas: HC n. 420.966/SP, Quinta Turma, de minha relatoria, DJe de 03/05/2018; HC n. 409.285/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 13/09/2017;  HC n. 354.528/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/05/2016.
+Ante o exposto, não conheço do habeas corpus.
+[NOME]
