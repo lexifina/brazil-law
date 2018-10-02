@@ -1,0 +1,14 @@
+DECISÃO
+Vistos.
+Trata-se de agravo interposto pelo Ministério Público Federal contra decisão que inadmitiu o recurso especial com base no óbice da Súmula 7/STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo nas alíneas "a" e "c" do permissivo constitucional contra acórdão assim ementado (e-STJ, fl. 103):
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. SUPOSTAS IRREGULARIDADES EM EXAMES LABORATORIAIS CUSTEADOS PELO SUS. IMPUTAÇÃO FEITA A PARTICULAR, SEM A PARTICIPAÇAO DE AGENTE PÚBLICO. ILEGITIMIDADE PASSIVA AD CAUSAM. PROVIMENTO DA APELAÇÃO.
+1. Segundo a inicial, o apelante, médico privado, era sócio da empresa Serviço de Imunologia e Pesquisas S/C Ltda., que firmou contrato de prestação de serviços, em agosto de 1989, com o Hospital Biocor - Hospital de Doenças Card iovascu lares Ltda., em B elo Horizonte/MG, para a realização de exames imunológicos necessários à realização de transplantes de órgãos e tecidos, recebendo pagamento com verbas do SUS, repassadas ao Hospital Biocor - Hospital de Doenças Cardiovasculares Ltda., porém de forma indevida, dada a falsificação de resultados de exames de HLA, cometendo atos de improbidade administrativa (art. 90 - Lei 8.429/92).
+2. A ação foi proposta somente contra o apelante, um médico particular, que não ocupava cargo público no Hospital Biocor - Hospital de Doenças Cardiovasculares Ltda., onde eram prestados os serviços de exames laboratoriais, em caráter privado, pela sua empresa: Laboratório Serviço de Imunologia e Pesquisa S/C Ltda.
+3. Segundo os precedentes, terceiros - particulares, pessoas físicas ou jurídicas -, somente responderão perante a Lei de Improbidade Administrativa quando a sua conduta estiver associada à de um agente público, estando este na mesma relação processual. Se a sua conduta estiver isolada, sem a participação de agente público, não estarão sujeitos às sanções da lei de improbidade, embora possam responder sob outro formado de responsabilidade civil.
+4. Provimento da apelação. Nulidade da sentença. Extinção do processo sem resolução do mérito, por ilegitimidade passiva ad causam do apelante.
+No recurso especial, fundado na alínea "a" do permissivo, alega-se ofensa aos arts. 1º, 2º e 3º da Lei 8.429/1992 e 535, I, e II, do CPC/1973. Defende-se, a tanto, que houve omissão no aresto impugnado e que o recorrido pode responder por ato de improbidade administrativa, tendo em vista que, na conduta ilícita perpetrada, fez mau uso de verbas públicas.
+Decido.
+Com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
