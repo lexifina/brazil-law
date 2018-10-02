@@ -1,0 +1,35 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “Apelação Cível – Ação declaratória de inexistência de vínculo jurídico – ISSQN - Município de Campinas – As sociedades empresariais limitadas, que prestam, portanto, serviços com fito de lucro, não se enquadram no conceito de sociedade uniprofissional – Inexistência de direito ao tratamento do art. 9º, par. 3°, do DL 406/68 – Recurso provido” (pág. 40 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 146, III, a; e 150, II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que o art. 150, II, da Lei Maior não foi prequestionado. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF.
+    Além disso, o Tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “[...] O artigo 9º do Decreto-Lei n° 406/68 não é incompatível com a Constituição Federal; 2. Não foi revogado; 3. Foram revogadas as leis que lhe deram nova redação e 4. O artigo 9º está restaurado em sua redação original que fixa critérios para a base de cálculo do ISS.
+    Nesse passo, como regra geral, a base de cálculo é o preço do serviço.
+    Todavia, seus parágrafos 1° e 3º, tratam das exceções: ‘§ 1º Quando se tratar de prestação de serviços sob a forma de trabalho pessoal do próprio contribuinte, o imposto será calculado, por meio de alíquotas fixas ou variáveis, em função da natureza do serviço ou de outros fatores pertinentes, nestes não compreendida a importância paga a título de remuneração do próprio trabalho’.
+    ‘§ 3º Quando os serviços a que se referem os itens I, III, IV (apenas os agentes da propriedade industrial), V e VII da lista anexa, forem prestados por sociedades, estas ficarão sujeitas ao imposto na forma do § 1º, calculado em relação a cada profissional habilitado, sócio, empregado ou não, que preste serviços em nome da sociedade, embora assumindo responsabilidade pessoal, nos termos da lei aplicável’.
+    Contudo, observa-se que em nenhuma das hipóteses de exceção se enquadra a Apelada, que, trata-se de sociedade empresarial limitada, prestando, portanto, serviços com fito de lucro.
+    [...]
+    Assim, a forma de cobrança do tributo adotada pela Municipalidade, mostra-se consentânea com o que dispõe a lei local, a qual tem como base o Decreto-lei n° 406/68” (págs. 43-45 e 49 do documento eletrônico 2).
+    Assim, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no apelo extremo, notadamente quanto ao enquadramento ou a natureza jurídica dos serviços prestados pela recorrente, seria necessário o reexame do conjunto fático-probatório constante dos autos – o que é vedado pela Súmula 279/STF – e da legislação infraconstitucional aplicável à espécie (Decreto-Lei 406/1968), sendo certo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso extraordinário. Nesse sentido, destaco julgados desta Corte, cujas ementas transcrevo a seguir:
+    “Agravo regimental no agravo de instrumento. ISS. Sociedade médica que pretende recolher o imposto com base no tratamento tributário insculpido no art. 9º, § 3º, do Decreto-Lei nº 406/68. Acórdão proferido pela origem reconhecendo o não preenchimento de requisitos necessários para tanto. Atividade médica exercida como empresarial. Sociedade empresarial. Conclusão firmada à luz do contexto fático-probatório. Incidência na espécie da Súmula nº 279.
+    1. A pretensão da contribuinte foi afastada pelo Tribunal de origem com base no entendimento de que a recorrente reveste-se da natureza de sociedade empresarial.
+    2. A verificação em concreto dos requisitos para fazer jus ao tratamento previsto nos §§ 1º e 3º do art. 9º do Decreto-Lei nº 406/68 enseja, inevitavelmente, o reexame de provas. Óbice constante da Súmula nº 279 da Corte.
+    3. Agravo regimental não provido” (AI 632.781-AgR/RJ, Rel. Min. Dias Toffoli).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ISS. REGIME DE TRIBUTAÇÃO FIXA PREVISTA NO ART. 9º, § 1º e § 3º, DO DECRETO-LEI 406/1968. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta.
+    II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF.
+    III - Agravo regimental improvido” (AI 739.586-AgR/SP, de minha relatoria).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. NATUREZA JURÍDICA DO SERVIÇO PRESTADO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 787.973-ED/MG, Rel. Min. Cármen Lúcia).
+    “TRIBUTÁRIO. ISS. DECRETO-LEI 406/68. MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 279.
+    1. Verificar se a prestação de serviços de sociedade profissional se enquadra no disposto no art. 9º, § 3º, do Decreto-lei 406/68, demandaria o prévio exame de fatos e provas (Súmula STF 279) e de legislação infraconstitucional. Precedentes.
+    2. Agravo regimental improvido” (AI 730.786-AgR/MG, Rel. Min. Ellen Gracie).
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE SERVIÇOS. REGIME DE TRIBUTAÇÃO FIXA. PREENCHIMENTO DOS REQUISITOS LEGAIS. SÚMULA 279/STF.
+    1. Analisando a prova dos autos, a instância ordinária concluiu que a contribuinte não preencheria os requisitos exigidos para gozar do regime de tributação fixa do ISS, nos termos do art. 9º, § 3º, do DL 406/1968. O acolhimento da pretensão demandaria o revolvimento de provas, o que atrai o óbice da Súmula 279/STF.
+     2. Agravo regimental a que se nega provimento” (ARE 830.898-AgR/DF, Rel. Min. Roberto Barroso).
+    Com essa mesma orientação, menciono as seguintes decisões, entre outras: ARE 682.250-ED/PR, Rel. Min. Rosa Weber; AI 587.089-AgR/RS e AI 784.491-AgR/SP, Rel. Min. Cármen Lúcia; AI 729.121-AgR/SP, Rel. Min. Joaquim Barbosa; ARE 790.905-AgR/RS, AI 847.015-AgR/RS e ARE 1.040.632/SP, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 2 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
