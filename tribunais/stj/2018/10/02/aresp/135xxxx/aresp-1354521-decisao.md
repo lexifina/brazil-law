@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. TAXA DE ARMAZENAGEM. ATRIBUIÇÃO DA RESPONSABILIDADE À UNIÃO. IMPOSSIBILIDADE. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo manejado por DEVIR LIVRARIA LTDA em face de decisão que negou admissibilidade ao recurso especial em razão da incidência da Súmula nº 7 do STJ, eis que a análise da pretensão recursal demandaria reexame de matéria fático-probatória.
+A agravante insurge-se contra a decisão agravada alegando que a ilegalidade do ato perpetrado pela União - consubstanciado na exigência de tributos que sabia indevidos, dada a natureza de "livros" (magic cards) das mercadorias apreendidas, haja vista a imunidade judicialmente reconhecida e acobertada pela coisa julgada - é o bastante para afastar a responsabilidade da empresa pelo pagamento da taxa de armazenagem da mercadoria, não sendo necessária reexame de cláusula contratual ou de matéria probatória para chegar a tal conclusão, o que afastaria a incidência das Súmulas nºs 5 e 7 do STJ.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Contrarrazões às fls. 644-648 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A irresignação não merece conhecimento.
+O Tribunal de origem resolveu a lide ao fundamento de que, in verbis (fls. 492-394 e-STJ):
+(..) os supostos óbices fiscais que levaram à retenção das mercadorias não foram afastados, persistindo a necessidade de: (a) retificação da classificação NCM; (b) licença junto ao DECEX para a importação de mercadorias classificadas naquela posição; e (c) o recolhimento das contribuições sociais acrescidas da multa de 75% e juros de mora. Reputa-se, assim, que o procedimento realizado pela autoridade aduaneira não foi considerado ilegal - apenas foi determinado no provimento jurisdicional a não incidência dos impostos sobre a importação - e que, consequentemente, é óbvio que a responsabilidade pelo armazenamento das mercadorias no curso do processo aduaneiro e pelo pagamento da respectiva tarifa não pode ser atribuída à União Federal.
+(..)
+Mais: a empresa impetrante tem a seu desfavor também o conteúdo do contrato de armazenagem, que a ela atribuiu o pagamento dos encargos dessa guarda de bens internalizados. Não pode pretender empurrar para a responsabilidade da União uma dívida que ela mesma, enquanto importadora, assumiu.
+Não há o menor vestígio de direito líquido e certo.
+Da análise do supracitado excerto do voto condutor do acórdão recorrido, verifica-se que ele reputou legal o ato praticado pelo Fisco, eis que, a despeito do reconhecimento judicial da imunidade das mercadorias em relação a impostos, persistiu a necessidade de: (a) retificação da classificação NCM; (b) licença junto ao DECEX para a importação de mercadorias classificadas naquela posição; e (c) o recolhimento das contribuições sociais acrescidas da multa de 75% e juros de mora.
+Portanto, não é possível a esta Corte revolver o contexto fático-probatório dos autos ou o título judicial transitado em julgado para infirmar as conclusões do acórdão recorrido e atribuir à União a responsabilidade pelo pagamento da Taxa de armazenagem, visto que tal procedimento encontra óbice no teor da Súmula nº 7 desta Corte, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Incide na espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
