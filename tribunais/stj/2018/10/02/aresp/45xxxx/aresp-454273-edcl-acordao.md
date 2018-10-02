@@ -1,0 +1,44 @@
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. ALEGADA VIOLAÇÃO DO ART. 46 DA LEI 11.343/2006. SÚMULA 7/STJ. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Hipótese em que o embargante foi preso em flagrante transportando mais de 24 kg de entorpecentes, escondidos no automóvel que dirigia, especialmente preparado para o acondicionamento da droga, existindo, ainda, prova de sua participação na organização criminosa diante de escutas telefônicas devidamente autorizadas judicialmente.
+3. Não se verifica a ocorrência de omissão, na medida em que, em relação à apontada violação do art. 46 da Lei n. 11.343/2006, o acórdão embargado consignou não ser possível, em recurso especial, avaliar se o recorrente possuía plena capacidade de compreender a ilicitude do fato, sem que se proceda ao reexame fático-probatório dos autos, incidindo, no caso, o óbice da Súmula n. 7/STJ.
+4. Ademais, "a alegação de dependência química de substâncias entorpecentes do paciente não implica obrigatoriedade de realização do exame toxicológico, ficando a análise de sua necessidade dentro do âmbito de discricionariedade motivada do Magistrado" (HC 336.811/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/08/2016).
+5. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por [NOME] contra acórdão da Quinta Turma que negou provimento ao agravo regimental, cujo teor da ementa transcreve-se (e-STJ, fl. 609):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. OFENSA AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. DETRAÇÃO. OMISSÃO. INEXISTÊNCIA. INCONFORMISMO DA PARTE. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE ASSEGURAR A ORDEM PÚBLICA. ART. 46 DA LEI N. 11.343/2006. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte Superior de Justiça possui entendimento de que para admissão do recurso especial com base no art. 619 do Código de Processo Penal, a omissão, ambiguidade, obscuridade ou contradição devem ser notórias, ou seja, imprescindíveis para o enfrentamento da questão nas Cortes superiores. No presente caso, não é o que se verifica, tratando-se, pois, de mero inconformismo da parte.
+2. Outrossim, ressalte-se que cabe ao julgador fundamentar todas as suas decisões, de modo a robustecê-las, bem como afastar qualquer dúvida quanto a motivação utilizada, nos termos do art. 93, IX da Constituição Federal de 1988, devendo ser considerada a conclusão lógico-sistemática adotada pelo decisum, como ocorre in casu.
+3. No presente caso, o pedido de detração da pena foi postulado após o julgamento da apelação, não havendo que se falar em negativa de prestação jurisdicional.
+4. A segregação cautelar está adequadamente motivada com base em elementos concretos extraídos dos autos, notadamente diante da grande quantidade da droga apreendida (24.566 g de cocaína). Precedentes.
+5. No que diz respeito à violação do art. 46 da Lei n. 11.343/2006, a pretensão encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça, não sendo possível, em recurso especial, avaliar se o agravante possuía plena capacidade de compreender a ilicitude do fato, sem que se proceda ao reexame fático-probatório dos autos. Precedentes.
+6. Agravo regimental não provido."
+O embargante aduz, em síntese, a ocorrência de omissão, ao argumento de que "não consta nos autos nenhum documento para confirmar se o embargante era ou não dependente químico, na época dos fatos noticiados nos autos" (e-STJ, fl. 625), logo, segundo alega, não incidiria o óbice da Súmula n. 7/STJ quanto à suposta ofensa ao art. 46 da Lei n. 11.343/2006.
+Requer, assim, o acolhimento dos presentes embargos para sanar a omissão apontada, qual seja, a "ausência de exame médico ou outra prova idônea que comprove a situação concreta do Embargante, para que ocorra o afastamento da afirmação de que o mesmo na época dos fatos, não era dependente químico e que sejam aplicados os efeitos do art. 46 da Lei de n. 11.343/2006, com a redução da pena imposta na condenação" (e-STJ, fl. 625).
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO. ALEGADA VIOLAÇÃO DO ART. 46 DA LEI 11.343/2006. SÚMULA 7/STJ. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Hipótese em que o embargante foi preso em flagrante transportando mais de 24 kg de entorpecentes, escondidos no automóvel que dirigia, especialmente preparado para o acondicionamento da droga, existindo, ainda, prova de sua participação na organização criminosa diante de escutas telefônicas devidamente autorizadas judicialmente.
+3. Não se verifica a ocorrência de omissão, na medida em que, em relação à apontada violação do art. 46 da Lei n. 11.343/2006, o acórdão embargado consignou não ser possível, em recurso especial, avaliar se o recorrente possuía plena capacidade de compreender a ilicitude do fato, sem que se proceda ao reexame fático-probatório dos autos, incidindo, no caso, o óbice da Súmula n. 7/STJ.
+4. Ademais, "a alegação de dependência química de substâncias entorpecentes do paciente não implica obrigatoriedade de realização do exame toxicológico, ficando a análise de sua necessidade dentro do âmbito de discricionariedade motivada do Magistrado" (HC 336.811/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/08/2016).
+5. Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Os embargos não merecem ser acolhidos.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Inicialmente, cumpre ressaltar que os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, a sua revisão no caso de mero inconformismo da parte.
+No caso dos autos, à toda evidência, não se vislumbra nenhuma omissão no aresto embargado, pretendendo a parte a rediscussão de matéria já julgada.
+Com efeito, em relação à apontada violação do art. 46 da Lei n. 11.343/2006, o acórdão embargado consignou que, em recurso especial, não é possível avaliar se o recorrente possuía plena capacidade de compreender a ilicitude do fato, sem que se proceda ao reexame fático-probatório dos autos, incidindo, no caso, o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+Noutro giro, conforme constatado pelas instâncias ordinárias, o embargante foi preso em flagrante transportando mais de 24 kg de entorpecentes, escondidos no automóvel que dirigia, e que "foi especialmente preparado para acondicionar a droga, em pequeno alçapão sob o banco dos passageiros, coberto com tampa de aço fixada por parafusos" (e-STJ, fl. 380). Além dessas circunstâncias, foram examinadas escutas telefônicas, que confirmam a participação do embargante como integrante de organização criminosa voltada ao tráfico de entorpecentes, e que afastam, por si só, a alegação da Defesa de que o embargante não possuiria total capacidade de compreender o caráter ilícito da sua conduta. Não obstante, para concluir em sentido contrário ao ora consignado, seria necessário, invariavelmente, o revolvimento do suporte fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor da Súmula n. 7 deste Superior Tribunal de Justiça.
+Ademais, "a alegação de dependência química de substâncias entorpecentes do paciente não implica obrigatoriedade de realização do exame toxicológico, ficando a análise de sua necessidade dentro do âmbito de discricionariedade motivada do Magistrado" (HC 336.811/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/08/2016).
+A toda evidência, não há o que ser reparado no julgado.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
