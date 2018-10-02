@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Tocantins (e-STJ fls. 40/43).
+O retrospecto foi bem delineado no parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 731/732):
+1. Trata-se de habeas corpus que HAMILTON DE [NOME] OUTRO impetram em favor de [NOME], tendo como objeto acórdão da Segunda Câmara Criminal do E. Tribunal de Justiça do Estado do Tocantins (fls. 39/46), que negou provimento à apelação do paciente e manteve a sentença de 1ª instância que o havia condenado à pena de 7 (sete) anos de reclusão, nos termos da ementa a seguir transcrita:
+"APELAÇÃO CRIMINAL. ENTORPECENTE. TRÁFICO. COMPROVAÇÃO DE QUALQUER ATO DE COMÉRCIO. DESNECESSIDADE. SUFICIÊNCIA DO CONJUNTO PROBATÓRIO.
+A comprovação de qualquer ato de comércio é desnecessária, desde que comprovada a conduta do agente como tráfico de entorpecente, pelo conjunto indiciário dos autos. Recurso improvido."
+2. No que interessa ao julgamento do presente writ, pretendem os impetrantes a nulidade do processo a partir da sessão do julgamento da apelação, ao argumento de que não houve a necessária intimação pessoal dos defensores e que na intimação pelo diário não foram publicados os nomes de todos os patronos do paciente. Requer também a expedição de alvará de soltura.
+Liminar indeferida à e-STJ fl. 717.
+Informações prestadas às e-STJ fls. 721/727.
+O Ministério Público Federal opinou pelo indeferimento do writ (e-STJ fls. 731/734).
+É, em síntese, o relatório.
+Como visto, aduzem os impetrantes, em síntese, a existência de constrangimento ilegal sofrido pelo paciente, por cerceamento de defesa, em razão de alegada ausência de intimação pessoal dos defensores nomeados pelo Juízo, os advogados [NOME] e Maria de Fátima Melo Albuquerque Camarano, para apresentarem as razões de apelação.
+Contudo, não assiste razão à defesa.
+É que, de acordo com as informações prestadas pelo Tribunal a quo, "a intimação do apelante foi viabilizada através do Diário da Justiça n. 2213, página 10, do dia 18 de junho de 2009, no sítio www.tjto.jus.br, considerando-se publicada em 19 de junho de 2009, em face do artigo 4º, da Lei n. 11.419/06" (e-STJ fl. 721).
+Assim, consoante instrumento de procuração colacionado à e-STJ fl. 23, já existindo advogado constituído nos autos, o qual foi devidamente intimado pela imprensa oficial acerca da sessão de julgamento do recurso de apelação (e-STJ fl. 721), não há falar em nulidade do julgamento ante a ausência de intimação pessoal de defensor.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. NULIDADES. AUSÊNCIA DE INTIMAÇÃO DO ADVOGADO ACERCA DA SESSÃO DE JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. DEFENSOR CONSTITUÍDO INTIMADO PELA IMPRENSA OFICIAL. REFORMATIO IN PEJUS INDIRETA. ANULAÇÃO DO PRIMEIRO JÚRI. APLICAÇÃO DE PENA MAIS GRAVE NO SEGUNDO JULGAMENTO. POSSIBILIDADE. RECURSO NÃO EXCLUSIVO DA DEFESA. ILEGALIDADE INEXISTENTE.
+1. O advogado constituído foi intimado da sessão de julgamento do recurso de apelação pela imprensa oficial, nos termos do art. 370, § 1º, do Código de Processo Penal. Ilegalidade inexistente.
+2. No caso dos autos, a anulação do primeiro julgamento, além de ter acolhido pedido expresso da defesa, não se originou exclusivamente do recurso defensivo, tendo ocorrido também recurso da acusação. Nesse contexto, não há óbice ao agravamento da pena em razão de um segundo julgamento. Precedentes deste Tribunal e do Supremo Tribunal Federal.
+3. Habeas corpus não conhecido. (HC 177.808/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2014, DJe 27/06/2014, grifei.)
+Noutro giro, havendo pluralidade de advogados constituídos, não se exige que a publicação se dê em nome de todos eles, salvo quando houver pedido expresso nesse sentido, circunstância que não foi demonstrada nos autos.
+Sobre o tema:
+HABEAS CORPUS. PROCESSO PENAL. SESSÃO DE RECEBIMENTO DA DENÚNCIA. AÇÃO PENAL ORIGINÁRIA. ADVOGADO COM DOMICÍLIO EM COMARCA DIVERSA. INTIMAÇÃO REALIZADA POR MEIO DE PUBLICAÇÃO NA IMPRENSA OFICIAL. ATO REALIZADO DE ACORDO COM A FORMA LEGAL. PLURALIDADE DE ADVOGADOS. INTIMAÇÃO EM NOME DO ADVOGADO PRINCIPAL. VALIDADE DO ATO. WRIT NÃO CONHECIDO.
+1. No processo penal, a teor do art. 370, § 1º, do CPP, o advogado constituído não goza da prerrogativa de intimação pessoal e, por expressa previsão legal, sua intimação far-se-á por publicação no órgão incumbido da publicidade dos atos judiciais da comarca.
+2. Quando o réu for representado por mais de um advogado de sua livre escolha, basta, para a validade do ato judicial, que a intimação por meio da imprensa oficial seja feita em nome de qualquer um deles, salvo quando houver requerimento expresso para que as publicações sejam feitas de forma diversa.
+3. O advogado constituído pelo paciente foi intimado pessoalmente da sessão de recebimento da denúncia, em 5/12/2006, por meio de carta registrada com aviso de recebimento, e também foi intimado da sessão de continuação de julgamento, designada para o dia 19/12/2006, por meio de publicação na imprensa oficial, na qual não constou o nome da advogada substabelecida.
+4. O ato judicial é válido e foi realizado de acordo com as fórmulas legais. Não há falar em necessidade de intimação pessoal da sessão de continuidade de julgamento ou de aplicação subsidiária do art. 237, II, do CPC, pois a lei processual penal regeu a matéria de modo diverso e não necessita, no ponto, de interpretação extensiva ou aplicação analógica.
+5. Ordem não conhecida. (HC 75.640/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/02/2015, DJe 09/02/2015, grifei.)
+HABEAS CORPUS. PROCESSO PENAL. INTIMAÇÃO JUDICIAL PARA O JULGAMENTO DO RECURSO EM SENTIDO ESTRITO PELA IMPRENSA OFICIAL. PLURALIDADE DE ADVOGADOS CONSTITUÍDOS. INTIMAÇÃO EM NOME DE APENAS UM. PUBLICAÇÃO DO ATO JUDICIAL OCORRIDA NA FORMA LEGAL. ADIAMENTO DA SESSÃO DE JULGAMENTO. NOVA INTIMAÇÃO. PROCESSO ADIADO LEVADO A JULGAMENTO NA SESSÃO SUBSEQUENTE. ORDEM DE HABEAS CORPUS DENEGADA.
+1. No processo penal, a intimação do advogado constituído pelo réu dá-se por intermédio da imprensa oficial (§ 1.º do art. 370 do Código de Processo Penal).
+2. Estando o réu representado por mais de um advogado, basta que a intimação seja realizada em nome de um deles para a validade dos atos processuais, salvo quando há pedido expresso no sentido de que as publicações sejam realizadas exclusivamente em nome de determinado patrono ou de todos os procuradores, o que não ocorreu.
+3. Em que pese os adiamentos da sessão de julgamento do recurso em sentido estrito, verificou-se a intimação das respectivas mudanças na data do julgamento da insurgência, sempre informando que ela seria incluída na pauta da sessão subsequente. Inexistência de nulidade.
+4. Ordem de habeas corpus denegada. (HC 241.208/PE, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 05/08/2014, DJe 21/08/2014, grifei.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
