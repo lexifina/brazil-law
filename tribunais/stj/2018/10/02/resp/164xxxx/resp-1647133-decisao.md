@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por CASSIA REGINA DE ASSIS BUENO, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+DESCONTO PARA PAGAMENTO DE EMPRÉSTIMO LIMITAÇÃO EM 30% DOS RENDIMENTOS DEVOLUÇÃO DOS VALORES DESCONTADOS DANO MORAL Pretensão da autora de que seja reformada a respeitável sentença, para que os descontos oriundos de contrato de empréstimo sejam limitados a 30% de seus rendimentos líquidos, bem como para que o banco seja condenado a devolver os valores descontados em patamar superior ao pleiteado Pretensão do banco réu de que seja afastada qualquer limitação sobre os descontos Cabimento parcial do recurso da autora Hipótese em que a amortização do mútuo bancário, com a retenção de salário, não pode atingir patamares que prejudiquem a própria subsistência do mutuário Limitação dos descontos que deve respeitar o limite de 30% da remuneração Art. 6o, §5º, da Lei nº 10.820/03 Impossibilidade, todavia, da devolução do montante que supere 30% dos rendimentos Ausência de fundamento para a restituição de valores descontados, uma vez que se trata de dívida existente e exigível Dano moral não configurado, considerando-se que a amortização dos débitos decorrentes de concessão de crédito rotativo autoriza a retenção dos valores depositados em conta corrente, bem como que as despesas realizadas pela autora não foram exclusivamente destinadas ao pagamento dos contratos de empréstimo ora impugnados RECURSO DA AUTORA PARCIALMENTE PROVIDO E RECURSO DO BANCO RÉU DESPROVIDO. CRÉDITO ROTATIVO CHEQUE ESPECIAL DEVOLUÇÃO DE VALORES DESCONTADOS Pretensão, da autora, de reforma do capítulo da r. sentença que julgou improcedente pedido de devolução de valores debitados de sua conta corrente a título de cobrança de cheque especial Pretensão, do banco réu, de reforma do capítulo da r. sentença que limitou a cobrança do cheque especial em 30% dos rendimentos líquidos da autora Cabimento apenas do recurso do banco réu Hipótese em que não se vislumbra retenção de crédito trabalhista da autora, mas simples amortização de saldo devedor inerente ao contrato de crédito rotativo celebrado entre as partes Ausência de ato abusivo praticado pelo banco réu RECURSO DA AUTORA DESPROVIDO E RECURSO DO BANCO RÉU PROVIDO.
+No presente recurso especial, o recorrente aponta violação do art. 833, IV, do CPC/15.
+Sustenta, em síntese, que configura dano moral passível à reparação, a retenção do salário acima do limite de 30% (trinta por cento) para saldar débitos, gera direito à reparação a título de dano moral.
+Ademais, afirma que os valores retidos indevidamente devem ser restituídos.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Verifica-se que a irresignação do recorrente acerca da configuração de dano moral, ante o reconhecimento da ilegalidade dos descontos acima do limite de 30% da remuneração do devedor, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que é inviável o reconhecimento de dano moral na hipótese apresentada.
+Confira-se:
+Por fim, inviável o reconhecimento do dano moral em favor da autora, sobretudo considerando-se que a amortização dos débitos do cheque especial autoriza a aplicação dos valores depositados em conta corrente, ainda que provenientes de remuneração, sendo certo, também, que, na hipótese vertente, a autora utilizou o crédito rotativo para outras despesas além do pagamento dos demais empréstimos. (fl. 398)
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+ Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO BANCÁRIO. DESCONTO EM CONTA-CORRENTE EM QUE DEPOSITADO O SALÁRIO. LIMITAÇÃO A 30% DOS VENCIMENTOS. AUSÊNCIA DE ATO ILÍCITO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO.
+1. É válida a cláusula que autoriza o desconto em conta-corrente para pagamento das prestações do contrato de empréstimo livremente pactuado, ainda que se trate de conta utilizada para recebimento de salário. Precedentes.
+2. Hipótese em que o Tribunal de origem limitou os descontos a 30% dos vencimentos do mutuário, consignando que não ficou configurado ato ilícito passível de reparação por danos morais em razão do exercício regular de direito do banco mutuário. Súmula 7/STJ.
+3. Agravo interno provido, para negar provimento ao recurso especial.
+(AgInt no REsp 1390570/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+Quanto à devolução dos valores indevidamente retidos, assim se manifestou o Tribunal de origem às fls. 397-398:
+No que tange ao pedido de devolução de valores descontados indevidamente, razão não assiste à autora, uma vez que as dívidas eram existentes e exigíveis, não havendo fundamento algum, no caso em exame, para a devolução pretendida.
+Com efeito, a parte recorrente alega violação ao art. 833, IV, do CPC/15, assim disposto:
+
+Art. 833. São impenhoráveis:
+(..)
+IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2o;
+Verifica-se que a mera indicação do dispositivo apontado como violado não é suficiente para infirmar as conclusões do acórdão ora recorrido, de modo a atrair a incidência da Súmula n. 284/STF, por deficiência de fundamentação.
+Neste sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+(..)
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+(..)
+VII - Agravo Interno improvido.
+(AgInt no REsp 1714321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
