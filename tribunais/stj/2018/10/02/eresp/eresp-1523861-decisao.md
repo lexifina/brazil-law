@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Divergência interpostos pela EMBRAMÓVEL EMPRESA BRASILEIRA DE MÓVEIS LTDA, com base nos arts. 546 do Código de Processo Civil e 266 do Regimento Interno desta Corte, contra acórdão proferido pela 2ª Turma, assim ementado (fl. 498e):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PEDIDO DE RESSARCIMENTO. IPI, PIS E COFINS. CORREÇÃO MONETÁRIA. TERMO A QUO. LEI 11.457/07. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. O acórdão recorrido julgou a matéria referente ao termo inicial da correção monetária em sentido oposto ao do STJ, o qual entende que, após a vigência do art. 24 da Lei 11.457/07, a correção monetária de ressarcimento de créditos ocorre após o prazo de 360 dias para análise do pedido administrativo.
+Precedente: AgRg nos EREsp 1.490.081/SC, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe de 1.7.2015.
+2. Agravo Regimental não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 515/519e).
+Alega a Embargante a existência de dissenso entre o acórdão embargado e o EAG n. 1220942/SP, julgado pela 1ª Seção desta Corte.
+Nas razões recursais, anota, em síntese, que, nos casos em que há injustificada demora do Fisco na autorização de aproveitamento de créditos tributários, a correção monetária deve ser aplicada a partir do protocolo do requerimento administrativo, evitando assim que tais valores sejam corroídos por efeito da inflação.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Há muito a Corte Especial deste Tribunal Superior pacificou entendimento, inclusive com a edição do enunciado Sumular n. 168/STJ, que dispõe: "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+In casu, o acórdão embargado seguiu orientação da jurisprudência desta Corte, segundo a qual Acerca do termo inicial da correção monetária relativa ao pedido administrativo de ressarcimento de créditos escriturais formulado pelo contribuinte, esta Corte pacificou o entendimento segundo o qual o prazo fluirá somente após o esgotamento do lapso de 360 dias de que dispõe a Administração para o exame do requerimento, na forma do art. 24 da Lei n. 11.457/07 (EREsp n. 1.461.607/SC, 1ª S., Rel. p/ acórdão Min. Sérgio Kukina, j. 22.02.2018, acórdão pendente de publicação).
+Nesse sentido:
+TRIBUTÁRIO. IPI. PEDIDO ADMINISTRATIVO DE RESSARCIMENTO. APROVEITAMENTO OBSTACULIZADO PELO FISCO. RECURSO ESPECIAL REPETITIVO. ATUALIZAÇÃO MONETÁRIA. TERMO INICIAL.
+1. Nos termos do art. 24 da Lei nº 11.457/07, a administração deve obedecer ao prazo de 360 dias para decidir sobre os pedidos de ressarcimento, conforme sedimentado no julgamento do REsp 1.138.206/RS, submetido ao rito do art. 543-C do CPC/73.
+2. A Primeira Seção, por ocasião do julgamento dos EREsp nº 1.461.607/SC (Rel. Ministro Mauro Campbell Marques, Rel. p/ Acórdão Ministro Sérgio Kukina, j. em 22/2/2018, acórdão pendente de publicação), corroborou a orientação no sentido de que "a correção monetária, a exemplo do que ocorre na espécie examinada, terá seu termo inicial somente a partir do escoamento do prazo de 360 dias, nos termos da exegese do multicitado art. 24 da Lei nº 11.457/07".
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.672.141/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/06/2018, DJe 10/08/2018 - destaquei).
+TRIBUTÁRIO. RESSARCIMENTO DE CRÉDITOS. PEDIDO ADMINISTRATIVO. MORA. CORREÇÃO MONETÁRIA. TERMO A QUO. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE.
+1. A correção monetária de créditos escriturais só é devida quando há oposição ao seu aproveitamento decorrente de resistência ilegítima do Fisco, hipótese em que é contada a partir do fim do prazo de que dispõe a administração para apreciar o pedido administrativo do contribuinte (trezentos e sessenta  dias), nos termos do que dispõe o art. 24 da Lei n. 11.457/2007.
+2. De acordo com a jurisprudência desta Corte, "a competência do STJ restringe-se à interpretação e uniformização do direito infraconstitucional não sendo possível o exame de violação a dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl no AgRg no AREsp 229.156/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/10/2016, DJe 10/11/2016).
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.249.510/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/08/2018, DJe 19/09/2018 - destaquei).
+TRIBUTÁRIO. IPI. PIS/COFINS. PEDIDO DE RESSARCIMENTO. ATUALIZAÇÃO MONETÁRIA. TERMO INICIAL.
+1. Nos termos do art. 24 da Lei nº 11.457/07, a Administração deve observar o prazo de 360 dias para decidir os pedidos de ressarcimento, conforme sedimentado no julgamento do Resp 1.138.206/RS, submetido ao rito do art. 543-C do CPC/73.
+2. A correção monetária de ressarcimento dos créditos ocorre após o prazo de 360 dias para análise do pedido administrativo de ressarcimento. Precedentes: ERESP 1.461.607/SC, Primeira Seção, Rel. para o acórdão Min. Sérgio Kukina, julgado em 22/2/2018, pendente de publicação; AgRg nos EREsp 1.490.081/SC, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 24/6/2015, DJe 1º/7/2015; AgInt no ARESP 1.194.811/RS. Primeira Turma. Rel. Min. Sérgio Kukina. DJe 2/4/2018; AgInt no ARESP 1.659.494/RS. Primeira Turma, Rel. Min. Sérgio Kukina. DJe 27/3/2018; AgInt no REsp 1.581.330/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 21/8/2017; AgInt no REsp 1.585.275/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2016, DJe 14/10/2016.
+3. Agravo interno provido para negar provimento ao recurso especial.
+(AgInt no REsp 1.229.108/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/04/2018, DJe 24/04/2018 - destaquei).
+Adotando o acórdão embargado entendimento pacificado nesta Corte, inadmissíveis os presentes embargos de divergência a teor da Súmula n. 168/STJ.
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se. Intimem-se.
