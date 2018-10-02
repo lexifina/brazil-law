@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UNIVERSIDADE FEDERAL DE PERNAMBUCO contra a decisão de e-STJ fl. 379, proferida pelo meu antecessor, que homologou pedido de desistência da execução formulado pela ASSOCIAÇÃO DOS DOCENTES DA UNIVERSIDADE FEDERAL DE PERNAMBUCO somente em relação aos seguintes servidores substituídos: ANA CAROLINA [NOME], [NOME] PEREGRINO TORRES RAMOS, [NOME], ANA CLAUDIA VASCONCELOS MARTINS DE SOUZA LIMA, [NOME] SELVA, ANA CRISTINA BRITO ARCOVERDE, ANA CRISTINA DE SOUZA VIEIRA, [NOME] e ANA ELISABETH SOUZA DA ROCHA CARVALHO.
+A embargante alega, em síntese, que a decisão foi omissa quanto aos ônus sucumbenciais.
+Impugnação foi apresentada às e-STJ fls. 393/395.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Os embargos de declaração devem atender aos seus requisitos: suprir omissão, contradição e obscuridade, podendo, ainda, corrigir eventual erro material.
+In casu, verifica-se que assiste razão à embargante, tendo em vista que não houve manifestação quanto aos ônus sucumbenciais.
+Consoante o entendimento desta Corte "tem o Exequente a livre disponibilidade da execução, podendo dela desistir a qualquer momento. E, nos termos do art. 569, inciso I, do Código de Processo Civil, ocorrendo antes da oposição dos embargos, prescindirá da anuência do devedor; após dependerá da concordância, caso os embargos não tratem somente de matéria processual, e o credor arcará com as respectivas custas e honorários advocatícios." (AgRg na ExeMS 6.359/DF, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 14/10/2010).
+Em hipóteses similares a esta, a Primeira Turma tem determinado que os exequentes que desistem da execução devem arcar com o pagamentos das custas processuais e honorários advocatícios. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA DESISTÊNCIA NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DESISTÊNCIA DO RECURSO ESPECIAL HOMOLOGADA. HONORÁRIOS ADVOCATÍCIOS. IRRISORIEDADE. NÃO OCORRÊNCIA. PECULIARIDADE DO CASO.
+1. Na espécie, homologou-se o pedido de desistência da execução em relação a alguns substituídos/exequentes, devendo os honorários, no caso, ser fixados consoante apreciação equitativa do magistrado (art. 20, § 4º, do CPC/1973).
+2. Considerando o grau de zelo do profissional, a natureza, importância e o valor da causa, além do trabalho realizado e o tempo exigido para o seu serviço (art. 20, §3º, do Código de Processo Civil/1973), tenho que o valor da verba honorária fixada por este Relator em R$ 4.000,00 (quatro mil reais) em favor da Fazenda Pública não se mostra irrisório.
+3. Agravo interno não provido. (AgInt na DESIS no REsp 1.554.006/PE, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 19/12/2016).
+Ante o exposto, ACOLHO os presentes embargos para, integrando a decisão de e-STJ fl. 379, condenar os servidores substituídos que desistiram da execução ao pagamento das respectivas custas processuais e honorários advocatícios, que fixo em R$ 500,00 (quinhentos reais) para cada um.
+Intimem-se. Publique-se.
