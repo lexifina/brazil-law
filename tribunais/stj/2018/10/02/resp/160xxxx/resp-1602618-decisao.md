@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 255):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. RETENÇÃO DE MERCADORIA. LIBERAÇÃO CONDICIONADA À COBRANÇA DE MULTA. ILEGALIDADE.
+1. "Não se exige garantia para liberação de mercadoria importada, retida por conta de pretensão fiscal de reclassificação tarifária, com conseqüente cobrança de multa e diferença de tributo" (AgRg no RESp 1.263.028/PR, 2a T., rei. Min. Herman Benjamin, DJ 15/6/12).
+2. Hipótese em que não resta cabível a retenção da mercadoria apreendida, condicionada ao fim do parcelamento ou ao prévio recolhimento integral da multa imposta no auto de infração formalizado no Processo 10435.722933/2014-17, de modo que deve ser concluído o processo de desembaraço do referido bem, sem prejuízo, por conta da autoridade fiscal, do lançamento dos tributos que entender devidos.
+3. Apelação e remessa oficial desprovidas.
+Opostos embargos declaratórios, foram rejeitados (fls. 295/305)
+A parte recorrente aponta violação aos arts. 535 do CPC/1973; 51, § 1º, do Decreto-Lei 37/1966 e 571, § 1º, I, do Decreto 6.859/09. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, referentes aos arts. 51, § 1º, do Decreto-Lei 37/1966 e 571, § 1º, I, do Decreto 6.759/09; (II) "o simples parcelamento do montante devido não enseja a liberação da mercadoria, uma vez que ele é tão-somente meio de facilitar o pagamento pelo devedor, e, assim sendo, não confere qualquer garantia à Fazenda quanto à satisfação do crédito. Não é por outra razão, inclusive, que o STJ entende ser perfeitamente cabível a manutenção do bloqueio a bens contritos, mesmo diante de parcelamento" (fl. 303); (III) "como a prestação de garantia não foi ofertada, é claramente ilegal a liberação da mercadoria importada. Logo, o acórdão recorrido comete evidente negativa de vigência aos dispositivos supramencionados" (fl. 304).
+Contrarrazões às fls. 314/322.
+Parecer do Ministério Público Federal às fls. 344/349.
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mérito, tem-se que a decisão de origem está em sintonia com a jurisprudência do Superior Tribunal de Justiça, no sentido de que não se pode exigir garantia para liberação da mercadoria importada quando a retenção decorre de pretensão de reclassificação tarifária, com consequente cobrança de multa, como no caso dos autos.
+Nesse sentido, os seguintes julgados:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MERCADORIA IMPORTADA. DIVERGÊNCIA NA CLASSIFICAÇÃO TARIFÁRIA. RETENÇÃO PELO FISCO. LIBERAÇÃO CONDICIONADA À APRESENTAÇÃO DE GARANTIA E COBRANÇA DE MULTA. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO NÃO PROVIDO.
+1. "Não se exige garantia para liberação de mercadoria importada, retida por conta de pretensão fiscal de reclassificação tarifária, com consequente cobrança de multa e diferença de tributo" (AgRg no RESp 1.263.028/PR, Segunda Turma, Rel. Min. HERMAN BENJAMIN, DJe 15/6/12).
+2. Agravo regimental não provido.
+(AgRg no REsp 1227611/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 19/03/2013, DJe 25/03/2013)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. MERCADORIA IMPORTADA. DIVERGÊNCIA NA CLASSIFICAÇÃO TARIFÁRIA. RETENÇÃO PELO FISCO. LIBERAÇÃO CONDICIONADA À APRESENTAÇÃO DE GARANTIA E COBRANÇA DE MULTA. IMPOSSIBILIDADE. PRECEDENTES DO STJ.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 1.022 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+2. De acordo com a jurisprudência do STJ, por ser aplicável o disposto na Súmula 323/STF, por analogia, não se exige garantia para liberação de mercadoria importada, retida por conta de pretensão fiscal de reclassificação tarifária, com consequente cobrança de multa e diferença de tributo.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1690950/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/09/2017, DJe 10/10/2017)
+Assim, na esteira do entendimento acima delineado, se a liberação da mercadoria importada, retida com o objetivo de efetuar a reclassificação tarifária, independe de garantia, o adimplemento total ou não do parcelamento é irrelevante, razão pela qual o apelo raro não merece prosperar.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
