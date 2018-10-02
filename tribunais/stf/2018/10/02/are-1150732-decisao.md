@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+    1. Em momento algum houve decisão à luz da Constituição Federal. Observem as premissas do acórdão impugnado:
+    No entanto, conforme precedente do Superior Tribunal de Justiça acima colacionado, "seja qual for a predominância do labor misto no período de carência ou o tipo de trabalho exercido no momento do implemento do requisito etário ou do requerimento administrativo, o trabalhador tem direito a se aposentar com as idades citadas no § 3º do art. 48 da Lei 8.213/1991, desde que cumprida a carência com a utilização de labor urbano ou rural."
+    Deste modo, não interessa, para fins de concessão da aposentadoria por idade mista, que tenha prevalecido o labor urbano ou rural ou qual labor foi exercido por último. Uma vez reconhecido o tempo de serviço rural e urbano necessário ao implemento da carência e a idade mínima necessária, é devida a concessão da aposentadoria por idade híbrida.
+    Deste modo, tendo restado devidamente comprovado o labor rural da parte autora no período que faltava para completar a carência necessária à concessão da aposentadoria por idade híbrida, é devido o benefício.
+    Registre-se, ainda, que o INSS não impugnou especificamente o reconhecimento do período rural, razão pela qual deixo de apreciá-lo.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, a decisão impugnada revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, o Pleno, no recurso extraordinário nº 870.947/SE, relator ministro Luiz Fux, acórdão publicado no Diário da Justiça de 20 de novembro de 2017, assentou, sob o ângulo da repercussão geral, a inconstitucionalidade parcial do artigo 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009. Concluiu que o índice de correção monetária aplicável às condenações impostas à Fazenda Pública será o decorrente da variação de preços da economia, evitando-se enriquecimento sem causa do Estado-devedor. No tocante aos juros da mora, proclamou, se de natureza tributária a condenação, a pertinência do mesmo parâmetro utilizado pelo Estado relativamente à dívida ativa. Declarou a valia constitucional do referido dispositivo na parte concernente aos juros da mora, quando envolvida relação diversa da tributária.
+    No caso, faz-se em jogo controvérsia estranha ao campo tributário. O Tribunal de origem, ao fixar a correção monetária, não divergiu da decisão do Supremo. O quadro impõe a manutenção do pronunciamento, considerada a óptica revelada no paradigma, submetido ao regime da repercussão maior.
+    2. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% sobre o valor da condenação, nos termos do artigo 85, § 11, do citado diploma legal.
+    3. Publiquem.
+Brasília, 2 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
