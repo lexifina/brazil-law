@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, sem pedido de liminar, impetrado em benefício próprio por AROLDO APARECIDO DE FREITAS contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (Agravo em Execução n. 0049566-35.2011.8.26.0000):
+Pretendida unificação de penas por reconhecimento de continuidade delitiva. Diversos roubos qualificados. Impossibilidade. Tempo, lugar e modo de cometimento dos delitos diversos entre si. Habitualidade delitiva, aliás, que não permite o "favor legis". Unificação indeferida. Agravo improvido (fl. 85).
+O impetrante/paciente aduz que foi condenado, em diversos processos, à pena total de 128 anos, 5 meses e 22 dias de reclusão, em regime fechado, pela prática de vários delitos de roubo circunstanciado (art. 157, § 2º, do Código Penal), em concurso material (art. 69 do Código Penal). Porém, tais delitos foram praticados em continuidade delitiva, estando presentes todos os requisitos legais exigidos pelo art. 71 do Código Penal.
+Requer, assim, a unificação das penas, com o reconhecimento do crime continuado.
+Informações prestadas às fls. 35/87 e 89/162.
+Parecer do Ministério Público Federal, às fls. 164/166, pelo não conhecimento do habeas corpus, nos termos da seguinte ementa:
+Habeas Corpus. Execução penal. Roubos praticados em concurso material. Pretensão para o reconhecimento da continuidade delitiva. Impossibilidade. Dilação probatória. Não cabimento na via estreita da ação mandamental. Parecer pelo não conhecimento do habeas corpus (fl. 164).
+É o relatório.
+Decido.
+A questão referente à existência ou não de continuidade delitiva entre os diversos delitos de roubo praticados pelo paciente já foi apreciada por esta Corte, conforme se extrai do seguinte trecho da decisão que negou seguimento ao HC n. 265.196:
+ ..
+Inicialmente, verifico que, não obstante o paciente/impetrante impugnar acórdão proferido no Agravo em Execução nº 0049566-35.2011.8.26.0000, a matéria já havia sido levada a conhecimento do Tribunal de origem por meio do Agravo em Execução nº 00833446.3/5-0000-000, cujo acórdão foi questionado perante esta Corte Superior, por meio do Habeas Corpus nº 85.447/SP.
+Por oportuno, confira-se a ementa do acórdão proferido pelo Ministro Napoleão Nunes Maia Filho, no referido mandamus:
+HABEAS CORPUS. PACIENTE CONDENADO, ENTRE OUTROS CRIMES, POR 15 ROUBOS CIRCUNSTANCIADOS. PENA TOTAL: 121 ANOS DE RECLUSÃO. UNIFICAÇÃO DAS PENAS. CONTINUIDADE DELITIVA. ART. 71 DO CPB. RECONHECIMENTO. IMPROPRIEDADE DA VIA ELEITA. REITERAÇÃO CRIMINOSA. ORDEM DENEGADA. 1. A continuidade delitiva, segundo posição majoritária da doutrina e da jurisprudência, é uma ficção jurídica criada para beneficiar o criminoso eventual. Assim, não obstante a pluralidade de crimes, considera-se a existência de um só, conforme o preenchimento dos requisitos objetivos (delitos da mesma espécie, condições de tempo, lugar e modo de execução semelhantes) e subjetivos (unidade de desígnios). 2. Afirmado pelo Tribunal Estadual que o paciente sequer preencheu os requisitos de ordem objetiva, além de não ter ficado comprovada a unidade de desígnios, a Ação de Habeas Corpus mostra-se inadequada para rever essa conclusão, dada a necessidade de incursão em aspectos fáticos ou dilação probatória, providências incompatíveis com o mandamus. 3. Parecer do MPF pela denegação da ordem. 4. Writ denegado.
+Assim, não obstante o Tribunal ter se manifestado novamente sobre o tema, verifico que não houve qualquer modificação fática ou jurídica nos termos do que defendido pelo paciente/impetrante, razão pela qual entendo despicienda nova manifestação desta Corte sobre o tema. Com efeito, já assentada a ausência dos elementos aptos a ensejar o reconhecimento da continuidade delitiva, relativa aos crimes de roubo cometidos pelo paciente/impetrante, não há o que ser analisado no presente writ.
+ ..  (Ministro MARCO AURÉLIO BELLIZZE, 31/05/2013).
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
