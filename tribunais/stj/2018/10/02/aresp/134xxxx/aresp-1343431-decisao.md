@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC) interposto por [NOME] contra decisão que não admitiu recurso especial manejado com base nas alíneas "a" e "c" do permissor constitucional.
+Na origem, a demanda versa sobre a responsabilidade civil da instituição financeira pela demora em realizar o atendimento do correntista, em afronta à legislação local que estabelece prazo máximo de espera.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Mato Grosso, assim ementado (fls. 166-167, e-STJ):
+APELAÇÃO CÍVEL  AÇÃO DE INTDENIZAÇÃO POR DANOS MORAIS  TEMPO DE ESPERA EM FILA DE BANCO, ALÉM DO PREVISTO EM LEI MUNICIPAL Nº 3.061/99  RONDONÓPOLIS  MERO DISSABOR  IMPROCEDÊNCIA DO PEDIDO  DANO MORAL NÃO CONFIGURADO  SENTENÇA REFORMADA  RECURSO DE BANCO SANTANDER BRASIL S/A PROVIDO - RECURSO DE BENEDITO [NOME] JUNIOR PREJUDICADO.
+A simples situação de espera em fila, além do tempo determinado em lei municipal, para atendimento em estabelecimento bancário, não configura dano moral indenizável.
+"A só invocação de legislação municipal ou estadual que estabelece tempo máximo de espera em fila de banco não é suficiente para ensejar o direito á indenização, pois dirige a sanções administrativas, que podem ser provocadas pelo usuário" (STJ  3" Turma  REsp 1340394/SP  Rel. Ministro SIDNEI BENETI - j. 07/05/2013, DJe 10/05/2013)
+".. 2. Situação de mero aborrecimento ou dissabor não suscetível de indenização por danos morais.
+3. Agravo regimental a que se nega provimento." (negritei) (STJ - AgRg no Ag. 1422960/SC - AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - 4ª Turma - julgado em 27/3/2012)
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial (fls. 180-194, e-STJ), o recorrente aponta, além da existência de dissídio jurisprudencial, ofensa aos arts. 6º, VI, 14, 20, §2º, e 22, todos do CDC, e arts. 186 e 927 do Código Civil, porquanto a Corte local descurou da caracterização do dano moral indenizável, em razão da falha na prestação do serviço, dado o grande lapso temporal em que aguardou em fila para ser atendido.
+Contrarrazões (fls. 309-312, e-STJ).
+Em juízo de admissibilidade (fls. 326-331, e-STJ), negou-se o processamento do recurso especial, sob o fundamento de que aplicáveis ao caso as Súmulas 7 e 83 do STJ, circunstância que invabiliza a análise da divergência pretoriana.
+Irresignado (fls. 348-358, e-STJ), aduz o agravante que o reclamo merece trânsito, uma vez que as premissas lançadas para a negativa de admissibilidade não se aplicam ao caso.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Quanto à vulneração aos arts. 6º, VI, 14, 20, §2º, e 22, todos do CDC, e arts. 186 e 927 do Código Civil, vale destacar que o Superior Tribunal de Justiça é convergente para o entendimento de que a mera desobediência à legislação local que fixa tempo máximo de espera para atendimento em agência bancária, por si só, não dá azo ao pleito indenizatório.
+Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - ESPERA EM FILA BANCÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DO AUTOR.
+1. A mera invocação de legislação municipal que estabelece tempo máximo de espera em fila de banco não é suficiente para ensejar o direito à indenização. Precedentes.
+2. Conforme entendimento jurisprudencial desta Corte a demora no atendimento em fila de banco, por si só, não é capaz de ensejar a reparação por danos morais, uma vez que, no caso dos autos, não ficou comprovada nenhuma intercorrência que pudesse abalar a honra do autor ou causar-lhe situação de dor, sofrimento ou humilhação.
+Incidência do óbice da súmula 7/STJ no ponto.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 357.188/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 09/05/2018)
+CONSUMIDOR E PROCESSUAL CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ESPERA EM FILA DE BANCO. LEGISLAÇÃO LOCAL. PERÍODO EXCESSIVO PARA RECEBER ATENDIMENTO. CONFIGURAÇÃO.
+1. Ação ajuizada em 16/08/2013. Recurso especial interposto em 12/08/2015 e distribuído a este gabinete em 25/08/2016.
+2. Danos morais: grave ofensa à personalidade. Precedentes. 3. A mera invocação de legislação municipal que estabelece tempo máximo de espera em fila de banco não é suficiente para ensejar o direito à indenização. Precedentes.
+4. Contudo, a espera por atendimento em fila de banco quando excessiva ou associada a outros constrangimentos pode causar danos morais.
+5. Recurso especial não provido.
+(REsp 1662808/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/05/2017, DJe 05/05/2017)
+Fixada essa premissa, tem-se que o aresto estadual assentou que, afora a espera acima do tempo permitido pela legislação local, inexistem nos autos outros elementos hábeis a demonstrar a configuração do dano moral sustentado pelo insurgente, consoante o seguinte excerto.
+A sentença recorrida fundamentou-se no sentido de que "(..) Assim, conforme se extrai das informações contidas no documento de fl. 20, percebe-se a veracidade das afirmações do autor, haja vista que a senha emitida pela ré aponta que o horário de sua chegada foi o de 12h34min, sendo que o mesmo somente foi atendido às 15h31min, conforme comprovante bancário que acompanha a exordial.
+Note-se que a ré focou sua irresignação no fato de que o excesso de permanência do autor na fila não teria ocorrido, entretanto, é cediço por toda a sociedade que tal situação é corriqueira na agência da demandada, sendo certo que a situação abusiva restou suficientemente comprovada no caso concreto. Ressalte-se que o magistrado não pode se afastar das regras de experiência comum subministradas pela observação do que ordinariamente presencia na vida em sociedade (art. 335 do CPC), e por conta disso sabe-se da angustia dos consumidores quando se submetem ao descaso das filas de alguns estabelecimentos comerciais da cidade. A Lei Municipal n.º 3.601/99 veda expressamente a prática que ora se analisa. Da leitura da legislação, observa-se ao descaso a tal questão; não se pode acolher que a situação descrita na inicial causou meros aborrecimentos, uma vez que não é razoável aceitar que um cidadão perca tanto tempo em horário produtivo parado a espera de um simples atendimento. Assim, pode-se concluir que a ação da ré, que se sabe ser lamentavelmente corriqueira; além de causar vexame e cansaço físico e mental em seus clientes, certamente atrapalha suas rotinas, uma vez que estes se utilizam de seus serviços dado ao lapso temporal despendido em pleno horário comercial. Portanto, configurado o dano moral no presente caso.". (fl. 71/74).
+Após a devida análise dos autos, conclui-se que a sentença merece ser reformada, devendo ser acolhido o recurso interposto pelo BANCO/apelante.
+O fato do autor/apelado ter permanecido em fila de banco, aguardando atendimento além de prazo estabelecido por lei municipal, por si só, não configura dano moral, mas sim mero aborrecimento, chateação, desconforto, gerando apenas possibilidade de aplicação de multa administrativa correspondente.
+Nesse viés, o dano moral é passível de indenização apenas quando há ofensa aos direitos de personalidade, o que não se aplica ao caso de mero aborrecimento, decorrente apenas da espera prolongada em fila de estabelecimento bancário.
+Com tais considerações, não julgo presente o requisito que autoriza o deferimento do pleito indenizatório, havendo necessidade de demonstração de lesão ao patrimônio moral, que dê ensejo á responsabilização civil da instituição bancária.
+Nesse aspecto, ainda que recaia ao caso, a norma consumerista, não se mostra razoável a responsabilização objetiva do estabelecimento bancário, restando necessária a real comprovação do dano, o que não ocorreu.
+Sendo assim, verifica-se que o juízo de convicção externado no aresto estadual está em conformidade com a orientação jurisprudencial exarada por esta Corte Superior, de modo a atrair a aplicação do enunciado da Súmula 83 do STJ.
+Ademais, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça.
+2. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+(..) 7. Nesse contexto, em consonância com a judiciosa opinião estampada no parecer ministerial, incide a Súmula 07/STJ, o que também impede o exame da divergência jurisprudencial na medida em as peculiaridades do caso concreto, decisivas à solução conferida pela Corte de origem, não possuem identidade com os paradigmas trazidos à colação. 8. Recurso especial não conhecido ." (REsp 1.186.481/AC, Rel. Min. Castro Meira, 2ª Turma, julgado em 18.05.2010)
+ADMINISTRATIVO. SERVIÇO DE FORNECIMENTO DE ÁGUA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. DIVERGÊNCIA JURISPRUDENCIAL. OCORRÊNCIA DE DANO MORAL REPARÁVEL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Rever entendimento do Tribunal de origem que, com base nos elementos de convicção do autos, afasta a ocorrência de dano moral reparável demanda o revolvimento do arcabouço probatório dos autos, inviável em recurso especial, dado o óbice da Súmula 7 desta Corte.
+2. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa. (AgRg no Ag 1.160.541/RJ, Rel. Min. Humberto Martins, 2ª Turma, 25.10.2011)
+3. Do exposto, com fulcro no art. 932 do NCPC e na Súmula 568 do STJ, nego provimento ao agravo (art. 1.042 do NCPC). Majora-se os honorários em sede recursal em 1% sobre o valor da causa, a teor do que dispõe o art. 85, §11, do CPC/15, a ser suportado exclusivamente pelo recorrente, sobrestada a exigibilidade da verba porquanto beneficiário da gratuidade judiciária.
+Publique-se.
+Intimem-se.
