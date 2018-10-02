@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEXANDRE FRANCO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Revisão Criminal n. 0037321-79.2017.8.26.0000).
+Consta dos autos que o paciente foi condenado, em primeiro grau, como incurso no art. 121, §2º, I e IV, e §4º, do Código Penal, à pena de 24 anos, 10 meses e 20 dias de reclusão, a ser cumprida inicialmente em regime fechado.
+Contra o édito condenatório insurgiram-se as partes. O Tribunal de origem negou provimento aos recursos e, de ofício, redimensionou a pena para 23 anos e 4 meses de reclusão.
+Sobrevindo o trânsito em julgado, a defesa ajuizou revisão criminal, tendo a Desembargadora relatora indeferido liminarmente a pretensão (e-STJ fls. 136/139).
+Nas razões do presente writ, a Defensoria Pública sustenta, em linhas gerais, que deve ser revista a pena-base, a fim de ser fixada no mínimo legal.
+Alega que "as consequências do crime foram normais ao tipo penal, não é possível, dessa maneira, querer exasperar-se a pena de um crime de homicídio porque alguém perdeu um familiar, já que tal fato é decorrência lógica própria ação criminosa que já é embarcada pelo próprio tipo penal". Assere que, "sobre as consequências, não há nos autos nada que comprovem que [NOME] sofreu danos psicológicos necessitando de auxílio médico. Por essa razão, também não seria possível aumentar a pena por esse motivo" (e-STJ fl. 7).
+Aduz, ainda, que "a análise de personalidade necessita de prova, com conhecimento técnico suficiente (profissional de psicologia), o que não existe no presente caso. Como, a princípio, a avaliação da personalidade é tarefa que confronta a ciência criminal com conhecimentos intrínsecos a outros saberes, torna evidente a incapacidade técnica do magistrado em realizar juízos desta natureza" (e-STJ fl. 8).
+Requer, em tema liminar e no mérito, que seja promovida a diminuição da pena-base.
+É, em síntese, o relatório.
+Ab initio, cumpre registrar que, ao que se extrai da peça inaugural, o presente habeas corpus foi impetrado contra decisão monocrática da Desembargadora relatora da revisão criminal, que indeferiu liminarmente a pretensão deduzida (e-STJ fls. 136/139).
+Sendo assim, está inviabilizado o conhecimento deste habeas corpus, já que não se está diante de decisão colegiada.
+Em outras palavras, percebe-se a incompetência desta Corte para o processamento e julgamento da controvérsia, já que inexiste, no ponto, ato coator emanado de Tribunal sujeito à jurisdição do Superior Tribunal de Justiça, nos moldes do que exige o art. 105, I, "c", da Constituição Federal.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO INTERNO. HABEAS CORPUS. (..). RECURSO A QUE SE NEGA PROVIMENTO.
+1. Tendo o decisum atacado sido proferido monocraticamente por Desembargador e não havendo deliberação colegiada do Tribunal de origem, inviabiliza-se o conhecimento de habeas corpus impetrado perante esta Corte Superior. Com efeito, é fundamental, no caso, o prévio exaurimento da jurisdição na anterior instância, antes de se comparecer aos Tribunais de Cúpula.
+2. A ausência de manifestação do Tribunal de origem sobre a matéria suscitada na impetração impede sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância.
+3. Agravo regimental a que se nega provimento.
+(AgInt no HC 366.298/PB, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/09/2016, DJe 16/09/2016, grifei)
+PROCESSUAL PENAL. HABEAS CORPUS. CRIMES DE RESPONSABILIDADE DE PREFEITO. ART. 1º, I, DL 201/1967. MEDIDA DE AFASTAMENTO CAUTELAR DO CARGO COM IMPOSIÇÃO DE RESTRIÇÕES FUNDADAS NO ART. 319 DO CPP SOB PENA DE PRISÃO. ADMISSIBILIDADE DO MANDAMUS, NA HIPÓTESE. PRECEDENTES DO STJ E DO STF. WRIT IMPETRADO CONTRA DECISÃO INTERLOCUTÓRIA. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. ILICITUDE DA PROVA ADVINDA DE QUEBRA DE SIGILO DETERMINADA POR JUIZ DE DIREITO EM AUTOS DE INQUÉRITO CIVIL. QUESTÃO NÃO APRECIADA NO DECISUM. AUSÊNCIA DE FUNDAMENTAÇÃO VÁLIDA DA DECISÃO NO TOCANTE AO AFASTAMENTO DA PREFEITA DO CARGO. FALTA DE CONTEMPORANEIDADE ENTRE OS FATOS INVESTIGADOS E A DECISÃO DE AFASTAMENTO. POSSIBILIDADE DE CONCESSÃO DE HC DE OFÍCIO. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO, TÃO SOMENTE PARA CASSAR O DECISUM NA PARTE EM QUE DETERMINOU O AFASTAMENTO DA PREFEITA DO CARGO E SUAS CONSEQÜÊNCIAS.
+1. A jurisprudência mais atual da Terceira Seção desta Corte Superior de Justiça entende que a admissibilidade de habeas corpus para discutir afastamento de prefeito do cargo está condicionada à imposição conjunta de medidas que possam implicar restrição à liberdade de locomoção do paciente, como a prisão preventiva ou medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+2. Na hipótese, o mandamus volta-se contra decisão de relator de medida cautelar requerida pelo Ministério Público do Estado da Paraíba que, além de determinar o afastamento da paciente do cargo de Prefeita, impôs restrições fundadas no art. 319 do CPP, sob pena de prisão preventiva, como esclareceu a própria autoridade coatora em suas informações. Nesse contexto, é, em princípio, admissível a impetração.
+3. Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas a e c, da Constituição Federal.
+4. No caso, o writ foi impetrado contra decisão monocrática proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância.
+ ..
+(HC 331.986/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2016, DJe 23/06/2016, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE DELIBERAÇÃO COLEGIADA DA CORTE DE ORIGEM. EXIGÊNCIA DE PRÉVIO EXAURIMENTO DA JURISDIÇÃO NA ANTERIOR INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Se não há deliberação colegiada da Corte de origem, inviabiliza-se a apreciação, por este Sodalício, do teor da decisão unipessoal proferida em sede de habeas corpus.
+2. É fundamental, no caso, o prévio exaurimento da jurisdição na anterior instância, antes de se comparecer aos Tribunais de Cúpula. Portanto, não existe propriamente uma opção em ingressar, ou não, com o competente agravo regimental, a fim de se ensejar o pronunciamento colegiado do Tribunal local.
+3. A ausência de manifestação do Tribunal a quo sobre a matéria suscitada na impetração impede sua apreciação por esta Corte, sob pena de indevida supressão de instância.
+4. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma.
+5. Agravo regimental não provido.
+(AgRg no HC 268.382/RJ, de minha Relatoria, SEXTA TURMA, julgado em 21/10/2014, DJe 04/11/2014, grifei)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
