@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RECURSO ESPECIAL. JUROS DE MORA. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DOS CÁLCULOS E A EXPEDIÇÃO DA REQUISIÇÃO OU DO PRECATÓRIO. RE n. 579.431/RS. REPERCUSSÃO GERAL. RETRATAÇÃO.
+1. A decisão desta Corte que negou seguimento ao recurso especial de [NOME] e outros, segundo a qual não incidem juros moratórios entre a data da homologação da conta de liquidação e a da expedição da requisição ou do precatório judicial, encontra-se em dissonância com a orientação pacificada pela Suprema Corte, no julgamento do RE n. 579.431/RS, processado sob o rito da repercussão geral, de que incidem juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (relator Ministro Marco Aurélio, DJe 30/6/2017).
+2. Impõe-se, portanto, a adequação do julgado do STJ à orientação jurisprudencial fixada.
+3. Em juízo de retratação, nos termos do art. 1.040, II, do CPC/2015, reconsidera-se o decisum objeto de impugnação no recurso extraordinário, para dar provimento ao agravo regimental, a fim de reconhecer a incidência dos juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório, nos termos do julgamento proferido pelo Supremo Tribunal Federal, em repercussão geral, no RE n. 579.431/RS.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, em juízo de retratação, reconsiderou para dar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de recurso especial interposto por [NOME] e outros, que retorna para julgamento colegiado, na forma do art. 1.040, II, do Código de Processo Civil/2015, em razão do julgado proferido pelo Pretório Excelso no RE n. 579.431/RS, de relatoria do Ministro Marco Aurélio.
+Consta dos autos que os recorrentes, nos autos de ação de execução de sentença da Ação Ordinária n. 93.0027942-4, movida contra o Instituto Nacional do Seguro Social (INSS), requereram o pagamento dos juros de mora no período compreendido entre a data da elaboração da conta e a da expedição de precatório, ou seja, de janeiro/1995 até junho/1998.
+O Juízo da 5ª Vara Federal da Seção Judiciária do Estado do Ceará declarou extinta a execução, em razão do cumprimento da obrigação, nos termos do art. 794, I, do Código de Processo Civil/1973 (e-STJ fl. 160).
+Contra essa decisão foi interposta apelação, a qual foi desprovida, em acórdão assim ementado (e-STJ fl. 201):
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. JUROS MORATÓRIOS.
+1 . Descabe o pagamento de quaisquer acréscimos a titulo de juros de mora no período compreendido entre a data da apuração da conta e a expedição do precatório, tendo em vista que os novos cálculos apresentados pelo INSS mereceram a concordância expressa dos exequentes, restando plenamente resolvida a questão após o pagamento do precatório;
+2. Apelação improvida.
+Nas razões do apelo nobre, sustentaram os recorrentes violação aos arts. 794, I, e 293 do Código de Processo Civil/1973, visto que " ..  concordaram com os valores oferecidos pelo INSS "objetivando agilizar o prosseguimento do feito .." e "ressalvando-se no direito de requerer no futuro diferenças existentes não incluídas nos cálculos"" (e-STJ fl. 207).
+Em 21/11/2011, o então relator do feito, o Ministro Og Fernandes, negou seguimento ao recurso (e-STJ fls. 223/228), tendo essa decisão sido mantida pela Sexta Turma, que negou provimento ao agravo regimental nos termos da seguinte ementa (e-STJ fl. 252):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JUROS DE MORA. NÃO INCIDÊNCIA. CÁLCULO. APRESENTAÇÃO. PRECATÓRIO.
+1. Este Superior Tribunal de Justiça, ao julgar o Recurso Especial 1.143.677/RS (Rel. Min. LUIZ FUX, CORTE ESPECIAL, DJE 4/2/2010), processado segundo a sistemática prevista no art. 543-C do CPC, consolidou entendimento no sentido da não incidência de juros de mora no período compreendido entre a data da homologação dos cálculos e a da expedição do precatório judicial, haja vista não ficar, nesta hipótese, caracterizado o inadimplemento do ente público.
+2. Como é possível verificar, a matéria já se encontra pacificada, no âmbito deste Tribunal, pela via dos feitos repetitivos, demonstrando-se necessário o cancelamento da afetação deste recurso especial à competência da Col. Terceira Seção, ainda que inicialmente indicado, pela Corte de origem, seu processamento segundo o regime do art. 543-C do CPC.
+3. Agravo regimental a que se nega provimento.
+[NOME] e outros interpuseram, então, recurso extraordinário (e-STJ fls. 267/275), tendo o Ministro Felix Fischer determinado o sobrestamento do feito até o julgamento pelo Supremo Tribunal Federal da matéria contida no RE n. 579.431/RS (e-STJ fl. 288).
+Com o julgamento definitivo do citado RE n. 579.431/RS pela Suprema Corte, o Ministro Vice-Presidente do Superior Tribunal de Justiça determinou a remessa dos autos à Sexta Turma, para fins do disposto no art. 1.040, II, do Código de Processo Civil/2015 (e-STJ fl. 291).
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Como visto, os autos foram devolvidos a este colegiado, em razão do disposto no art. 1.040, II, do Código de Processo Civil/2015, que assim dispõe, in verbis:
+Art. 1.040. Publicado o acórdão paradigma:
+ ..
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior.
+A decisão monocrática que negou seguimento ao recurso especial interposto por [NOME] e outros foi confirmada pela Sexta Turma do Superior Tribunal de Justiça em 7/2/2012, amparada na orientação jurisprudencial consolidada de que "Este Superior Tribunal de Justiça, ao julgar o Recurso Especial 1.143.677/RS (Rel. Min. LUIZ FUX, CORTE ESPECIAL, DJE 4/2/2010), processado segundo a sistemática prevista no art. 543-C do CPC, consolidou entendimento no sentido da não incidência de juros de mora no período compreendido entre a data da homologação dos cálculos e a da expedição do precatório judicial, haja vista não ficar, nesta hipótese, caracterizado o inadimplemento do ente público".
+Essa orientação, segundo a qual não incidem juros moratórios no período compreendido entre a data da homologação da conta de liquidação e a da expedição da requisição ou do precatório judicial, diverge do entendimento firmado pela Suprema Corte no julgamento definitivo do RE n. 579.431/RS, sob o regime de repercussão geral, de que incidem juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório (relator Ministro Marco Aurélio, DJe 30/6/2017).
+Eis a ementa desse julgado:
+JUROS DA MORA - FAZENDA PÚBLICA - DÍVIDA - REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório.
+Dessa forma, impõe-se a adequação do julgado do Superior Tribunal de Justiça à orientação jurisprudencial acima, conforme a qual é devida a incidência de juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+Com base nessas considerações, em juízo de retratação, nos termos do art. 1.040, II, do Código de Processo Civil/2015, reconsidero o decisum objeto de impugnação no recurso extraordinário, para dar provimento ao agravo regimental, a fim de reconhecer a incidência dos juros de mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório, nos termos do julgamento proferido pelo Supremo Tribunal Federal, em repercussão geral, no RE n. 579.431/RS.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
