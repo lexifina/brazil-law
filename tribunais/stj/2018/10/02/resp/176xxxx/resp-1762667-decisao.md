@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Improcedência - Compromisso de compra e venda de imóvel - Data prevista para entrega do imóvel que não pode ser considerada meramente estimativa - Atraso na conclusão da obra, já computado o prazo de tolerância - Culpa das rés pelo retardamento reconhecida - Cabível a condenação das rés no ressarcimento dos alugueres suportados pelos autores no período da mora (01/07/2011 a 30/04/2013) - Saldo devedor - Correção monetária - Incidência - Mera recomposição do valor da moeda - Danos morais - Ocorrência - Período expressivo de atraso - Fixação em R$ 10.000,00 para cada um dos autores - Sucumbência recíproca - Sentença reformada - parcialmente provido.
+A parte recorrente sustenta que o atraso na entrega do imóvel se deve à ocorrência de caso fortuito/força maior; os recorridos não comprovaram a existência de danos emergentes; o simples atraso na entrega não gera danos morais.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+No que se refere à comprovação de existência de fortuito externo e dos danos emergentes, a conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+A jurisprudência do STJ, todavia, entende que o mero inadimplemento contratual, consistente no atraso da entrega de imóvel, em contrato de compra e venda, não enseja reparação a título de dano moral, ressalvadas excepcionalidades. Nesse sentido:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSABOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19.2.2015);
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27.10.2015).
+Em face do exposto, dou provimento ao recurso especial para determinar a exclusão da condenação em danos morais.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrente, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
