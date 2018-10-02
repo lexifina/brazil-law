@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA. DEFEITOS NO IMÓVEL. DANO MORAL. DESCUMPRIMENTO CONTRATUAL. NÃO OCORRÊNCIA. PRECEDENTES.
+1. Nos termos da jurisprudência do STJ, o simples inadimplemento contratual, em regra, não configura dano indenizável, devendo haver consequências fáticas capazes de ensejar o dano moral. Precedentes.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: [NOME] interpõe agravo interno contra a decisão que deu parcial provimento ao recurso especial interposto por QUADRA 150 EMPREENDIMENTO IMOBILIÁRIO SPE LTDA, para "reconhecer a aplicabilidade do prazo previsto na cláusula de tolerância e a incidência da correção monetária sobre o saldo devedor durante o período de atraso na entrega do imóvel e afastar a restituição do valor pago a título de comissão de corretagem e a condenação em danos morais" (fl. 797).
+O agravante defende a configuração dos danos morais, pois "existiram várias circunstâncias excepcionais que permitiram a fixação do dano moral, muito além do simples descumprimento contratual (..) (fl. 806). Afirma que a situação enfrentada na entrega do imóvel, com inúmeros defeitos, evidencia circunstância que ultrapassa o mero dissabor. Aponta, ainda, que a fixação de honorários em 10% (dez por cento) sobre a condenação não reflete o benefício econômico alcançado pela agravada. Requer, ao final, o provimento do recurso com a manutenção da condenação em danos morais e a readequação da verba honorária.
+Intimada, a agravada não se manifestou nos autos (fl. 812).
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): De início, indefiro o pedido constante do item 9 da petição de fls. 816/819, pois não houve prejuízo ao requerente, mas defiro o do item 10, determinando a retificação da autuação.
+Quanto ao recurso, cumpre transcrever a ementa do acórdão recorrido, proferido pela Terceira Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, à fl. 669:
+COMPROMISSO DE COMPRA E VENDA. Inaplicabilidade da cláusula de tolerância de 180 dias prevista no contrato, visto que a ré deixou de demonstrar caso fortuito, força maior ou outra circunstância que escapasse do seu âmbito de conhecimento e previsibilidade. Purgação da mora no momento em que as chaves foram disponibilizadas ao comprador, e não com a expedição do Habite-se. Atraso verificado entre novembro de 2011 e abril de 2014. Lucros cessantes devidos no patamar de 0,6% ao mês sobre o preço atualizado do imóvel, independentemente de sua destinação. Restituição dos valores desembolsados a título de condomínio, IPTU e correção monetária durante o período de atraso, diante do congelamento do saldo devedor. Depósito efetuado nos autos foi suficiente para quitar a dívida, ao contrário da alegação feita pela ré em apelação. Devolução das quantias pagas a título de corretagem e taxa SATI. Aplicação dos Enunciados nºs 38-1, 38-2, 38-3, 38-5, 38-7 e 38-8 aprovados por esta 3ª Câmara de Direito Privado.
+Danos morais arbitrados em R$10.000,00, corrigidos desde o arbitramento e com juros de 1% ao mês desde o primeiro dia de atraso (evento danoso). Outorga de escritura pública indevida, eis que o pedido não foi contemplado na inicial (art. 264 do CPC). Danos materiais corrigidos desde o desembolso (Súmula nº 43 do STJ) e com juros a partir da citação. Ônus da sucumbência atribuído à ré (art. 21, parágrafo único, CPC).
+Honorários advocatícios arbitrados em 15% sobre o valor da condenação, com base nos critérios elencados pelo art. 20 do CPC. RECURSO DO AUTOR PARCIALMENTE PROVIDO.
+RECURSO ADESIVO, DA RÉ, DESPROVIDO.
+Conforme consignado pela decisão agravada, a jurisprudência desta Corte entende que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. É possível, entretanto, sua configuração nesses casos, desde que haja maiores desdobramentos decorrentes do descumprimento contratual.
+Assim, além do atraso na entrega do imóvel, a Corte estadual apenas mencionou que "o autor relatou sérios problemas quando a obrigação foi satisfeita, desde infiltrações e ausência de churrasqueira até atraso na instalação do condomínio e demora na realização de vistorias" (fl. 675).
+Ante a ausência de demonstração de fato que indicasse malferimento a direitos da personalidade, a questão se resolve no mero descumprimento contratual, que não enseja, como é da jurisprudência desta Corte, abalo moral indenizável.
+A saber:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSADOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19.2.2015).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRA. ENTREGA. ATRASO. DANOS MORAIS. SÚMULA Nº 83/STJ.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+2. Agravo interno não provido.
+(AgInt no AREsp 973.811/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 15.8.2017).
+O recurso, na realidade, não trouxe nenhum elemento ou argumento novo capaz de alterar a decisão agravada, que ora confirmo.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
