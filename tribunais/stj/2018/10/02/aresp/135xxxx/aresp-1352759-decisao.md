@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+COMPROMISSO DE VENDA E COMPRA - MORA EXCLUSIVA DA VENDEDORA - ATRASO NA CONSTRUÇÃO - ADQUIRENTES QUE ESTAVAM EM DIA COM AS PARCELAS E QUE, DEPOIS DE INICIADA A MORA DA VENDEDORA, ACEITAVAM ADITAMENTOS POSTERGANDO O VENCIMENTO DA PARCELA FINAL, QUE DEVERIA COINCIDIR COM A ENTREGA DA UNIDADE - PEDIDO DE RESCISÃO DO CONTRATO E DE DEVOLUÇÃO DA QUANTIA PAGA - PROCEDÊNCIA - INCONFORMISMO - PRETENSÃO DE RETENÇÃO DE PARTE DA VERBA A SER DEVOLVIDA - REJEIÇÃO - FALTA DE PROVA DE CULPA DOS ADQUIRENTES PELA RESCISÃO - JUROS DE MORA - INCIDÊNCIA A CONTAR DA CITAÇÃO E NÃO DO DESEMBOLSO - APELAÇÃO PARCIALMENTE PROVIDA.
+A parte agravante sustenta que o atraso na entrega das unidades imobiliárias se deve ao caso fortuito e força maior; é inviável a atribuição da culpa exclusiva à incorporadora, porque os agravantes estavam inadimplentes com suas prestações; a cobrança da taxa de corretagem não é abusiva, além do que foi paga à corretora, e não à agravante.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto aos temas da abusividade da taxa de corretagem e do caso fortuito/força maior, pois são estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+A conclusão do Tribunal revisor acerca da culpa exclusiva da agravante - por ausência de prova de que os autores estavam inadimplentes - foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+No que se refere à legitimidade da incorporadora para responder pela devolução da taxa de corretagem, também não merece reparos o julgado estadual, pois essa tese foi amparada pelo STJ em julgamento proferido sob o rito dos recursos especiais repetitivos:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. PROCESSUAL CIVIL. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. ALEGAÇÃO DE ABUSIVIDADE. TEORIA DA ASSERÇÃO. LEGITIMIDADE PASSIVA DA INCORPORADORA. VALIDADE DA CLÁUSULA. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA (SATI). COBRANÇA. 1. TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+1.1. Legitimidade passiva "ad causam" da incorporadora, na condição de promitente-vendedora, para responder pela restituição ao consumidor dos valores pagos a título de comissão de corretagem e de taxa de assessoria técnico-imobiliária, nas demandas em que se alega prática abusiva na transferência desses encargos ao consumidor.
+2. CASO CONCRETO:
+2.1. Aplicação da tese ao caso concreto, rejeitando-se a preliminar de ilegitimidade.
+2.2. "Validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem" (tese firmada no julgamento do REsp 1.599.511/SP).
+2.3. "Abusividade da cobrança pelo promitente-vendedor do serviço de assessoria técnico-imobiliária (SATI), ou atividade congênere, vinculado à celebração de promessa de compra e venda de imóvel" (tese firmada no julgamento do REsp 1.599.511/SP).
+2.4. Improcedência do pedido de restituição da comissão de corretagem e procedência do pedido de restituição da SATI.
+3. RECURSO ESPECIAL PROVIDO, EM PARTE.
+(REsp 1.551.951/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe 6/9/2016)
+
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Intimem-se.
