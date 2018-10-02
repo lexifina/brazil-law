@@ -1,0 +1,16 @@
+DECISÃO
+ROSE MERI SOARES opõe embargos de declaração contra decisão de fls. 515-518.
+Afirma a embargante que o decisum é omisso, porquanto analisou somente a questão referente à atipicidade formal, olvidando-se quanto à apreciação, de ofício, da atipicidade material.
+Aduz, ainda, que há omissão no que se refere ao posicionamento do STF, no ARE n. 999.945/SC, de que para a configuração do crime do art. 2º, II, da Lei n. 8.137/1990, é necessária a ocorrência de fraude/falsificação.
+Requer o provimento dos embargos a fim de que sejam sanadas as omissões apontadas, com a consequente declaração da atipicidade da conduta tipificada no art. 2º, II, da Lei n. 8.137/1990.
+Decido.
+Os embargos de declaração são inadmissíveis quando, a pretexto de vícios do art. 619 do CPP, objetivam novo julgamento do caso.
+As teses objeto do recurso em habeas corpus foram analisadas no decisum embargado, que explicitou, de forma expressa e objetiva, que a Terceira Seção desta Corte Superior pacificou o entendimento de que, para a configuração do delito previsto no art. 2º, II, da Lei n. 8.137/1990, nos casos em que não há o repasse de ICMS ao Fisco - o qual prescinde da diferenciação entre imposto próprio ou por substituição tributária -, o fato de o agente registrar, apurar e declarar em guia própria ou em livros fiscais o imposto devido não tem o condão de elidir ou exercer nenhuma influência na prática do delito, visto que este não pressupõe a clandestinidade.
+Além disso, destacou-se que o sujeito ativo do crime de apropriação indébita tributária é aquele que ostenta a qualidade de sujeito passivo da obrigação tributária, que "desconta" ou "cobra" tributo ou contribuição, conforme claramente descrito pelo art. 2º, II, da Lei n. 8.137/1990. Exige-se, em tal caso, que a conduta seja dolosa (elemento subjetivo geral do tipo), consistente na consciência (ainda que potencial) de não recolher ao Fisco o valor do tributo devido.
+No que concerne às apontadas omissões, verifico, claramente, que houve indevida inovação recursal nestes embargos de declaração, porquanto, nas razões do recurso ordinário, a defesa, em nenhum momento, nem sequer fez alusão às questões ora mencionadas.
+Assim, o que se constata é a real intenção da embargante em alterar o julgado, haja vista que o decisum embargado não foi omisso, sendo certo que o mero inconformismo da parte com o resultado do julgamento não se coaduna com a via do recurso integrativo.
+Conforme é amplamente cediço, "Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida" (EDcl no AgRg no RMS n. 38.465/RJ, Rel. Ministro Moura Ribeiro, 5ª T., DJe 6/9/2013).
+Não se pode olvidar que a concessão de efeitos infringentes aos embargos de declaração somente pode ocorrer em hipóteses excepcionais, em casos de erro evidente, não se presta, pois, para revisar a lide.
+Portanto, percebe-se que esta irresignação resume-se a mero inconformismo da embargante com o resultado do julgamento, desfavorável à sua pretensão, tenho que não existe nenhum fundamento que justifique a oposição destes embargos.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
