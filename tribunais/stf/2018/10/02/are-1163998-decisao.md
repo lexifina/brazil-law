@@ -1,0 +1,34 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, XXXVI, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Verifica-se não demonstrada, de forma efetiva, a repercussão geral da controvérsia nas razões do apelo extremo.
+    Este Supremo Tribunal Federal firmou entendimento no sentido de que não bastam alegações genéricas, ou a mera descrição do instituto em tela, nem a simples referência a precedente recursal. Cabe à parte recorrente a demonstração formal e fundamentada da existência de repercussão geral da matéria, indicando especificamente as razões que evidenciem a relevância econômica, social, política ou jurídica, ainda que tal repercussão já tenha sido presumida ou declarada em outro processo. Desatendida a mencionada preliminar, inadmissível o recurso extraordinário. Colho precedentes:
+    “DIREITO PENAL. ESTELIONATO. TIPICIDADE DA CONDUTA. AUTORIA E MATERIALIDADE. REDUÇÃO DAS PENAS. REGIME PRISIONAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 5º, CAPUT, XLVI, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal.
+    2. Não houve no recurso extraordinário, interposto sob a égide do CPC/2015, demonstração da existência de repercussão geral. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015.
+    3. Agravo interno conhecido e não provido.” (ARE 1115773-AgR, de minha lavra, 1ª Turma, Dje 17.9.2018)
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.4.2018. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA.
+    1. Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, o que não ocorreu no caso em exame. Mesmo em caso de repercussão geral presumida ou reconhecida em outro recurso, é ônus do recorrente a demonstração da existência desse requisito.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (ARE 1102846-AgR, Rel. Min. Edson Fachin, 2ª Turma, Dje 21.8.2018)
+    Ainda que não se ressentisse o recurso quanto ao pressuposto, melhor sorte não colheria, porquanto o Tribunal de origem decidiu a lide com base na lei processual, considerada a ausência de hipótese de cabimento da ação rescisória. Este Supremo Tribunal Federal já se manifestou no sentido da inexistência de repercussão geral da controvérsia, verbis:
+    “DIREITO DO TRABALHO. PRESSUPOSTOS DE ADMISSIBILIDADE DE AÇÃO RESCISÓRIA. MATÉRIA RESTRITA AO PLANO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.” (AI 751.478-RG, Rel. Min. Dias Toffoli, Pleno, DJe 20.8.2010)
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. POLICIAL MILITAR. INCORPORAÇÃO DE VANTAGEM. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. REPERCUSSÃO GERAL REJEITADA. AI 751.478-RG. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. O Plenário Virtual no julgamento do AI 751.478-RG, Rel. Min. Dias Toffoli, reconheceu a inexistência de repercussão geral sobre os pressupostos de admissibilidade de ação rescisória em face do caráter infraconstitucional de debate.
+    3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    4. Ausente condenação anterior em honorários, inaplicável o art. 85, § 11, do CPC/2015.
+    5. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa.” (ARE 992.128-AgR, de minha lavra, 1ª Turma, DJe 04.5.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE AÇÃO RESCISÓRIA. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+    I – Recurso extraordinário com alegação que esbarra no óbice da ausência de prequestionamento, nos termos das Súmulas 282 e 356 do STF.
+    II – Esta Corte rejeitou a repercussão geral na hipótese em que se discutem os pressupostos de admissibilidade de ação rescisória, por depender de prévia análise da adequada aplicação das normas infraconstitucionais (AI 751.478-RG/SP, Rel. Min. Dias Toffoli).
+    III – Nos termos do art. 85, § 11, do CPC, deixo de majorar os honorários recursais, uma vez que não foram fixados pelo juízo de origem.
+    IV – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.” (ARE 968.269-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 23.02.2017)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 02 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
