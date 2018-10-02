@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por LIBERTY SEGUROS S/A, contra decisão que não admitiu recurso especial (fls. 418/430, e-STJ).
+O apelo nobre, fundamentado no art. 105, III, "a" e "c", do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. SFH. MUTUÁRIOS VÍCIOS CONSTRUTIVOS. DESCABIMENTO DO RECURSO EM RELAÇÃO ÀS PRELIMINARES DE ILEGITIMIDADE PASSIVA, AUSÊNCIA DE INTERESSE PROCESSUAL HIPÓTESES ESTRANHAS AOS INCISOS DO ART. 1.015, DO NCPC. PRESCRIÇÃO AFASTADA. MANUTENÇÃO DA INVERSÃO DO ÔNUS DA PROVA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PRA PROCESSAMENTO E JULGAMENTO DO FEITO.
+Por maioria, não conheceram do agravo de instrumento quanto às preliminares de ilegitimidade passiva e falta de interesse processual e, na parte conhecida, negaram provimento.
+Na origem, a demanda versa sobre agravo de instrumento visando reformar a decisão que indeferiu as preliminares suscitadas pela Agravante.
+O Tribunal de origem não conheceu o recurso nos pontos da ilegitimidade passiva e ausência de interesse processual, em razão de não constarem no rol do art. 1.015, do CPC/15. Em relação à prescrição, inversão do ônus da prova e competência da justiça federal, o reclamo foi improvido.
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 1º, 1º-A, da Lei 12.049/2011, 17 e 113, 1.015 do CPC/15, 206, § 1º, II, b, do CC/02. Sustenta, em síntese: a) a legitimidade da CEF para compor a lide, e, por conseguinte, a competência da justiça federal; b) a prescrição da pretensão da Agravada; e, por fim c) dissídio jurisprudencial.
+Não houve apresentação de contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que rever o posicionamento do órgão julgador demandaria o reexame fático-probatório.
+Irresignada (fls. 435/459, e-STJ), aduz a agravante que o reclamo merece trânsito, uma vez que não haveria os óbices consignados pelo tribunal a quo em seu recurso.
+A agravada não apresentou contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, impende consignar a aplicabilidade das normas insertas no Código de Processo Civil de 2015 a este julgado, com amparo no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016, tendo em vista a data de publicação do aresto recorrido.
+2. Acerca da competência da justiça federal e a legitimidade da CEF, o Tribunal de origem decidiu a questão levando em conta que os autores contrataram a cobertura compreensiva especial, razão pela qual qual o contrato não foi firmado com a mencionada empresa pública, fundamentos estes não impugnados no recurso especial. Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+3. Quanto à alegação de prescrição, melhor sorte não lhe assiste. Na hipótese, vale destacar que o acórdão recorrido, em sintonia com o entendimento do Superior Tribunal de Justiça, reconheceu que os danos físicos a darem gênese ao pedido de pagamento de indenização securitária surgiram progressivamente, não se podendo extrair data certa para a deflagração da contagem do prazo prescricional.
+É, aliás, o que se verifica do seguinte excerto do aresto guerreado (fl. 268, e-STJ):
+ ..  No que tange à prescrição, com efeito, nada há nos autos que demonstre a ciência inequívoca dos autores em relação à negativa de cobertura dos sinistros. E da própria superveniência dos danos, tendo em vista que o processo de deterioração de um imóvel inicia-se de forma imperceptível, tendo evolução lenta e progressiva.  ..
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. FCVS. CAIXA ECONÔMICA FEDERAL. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. JURISPRUDÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A Segunda Seção do Superior Tribunal de Justiça, ao julgar os recursos sujeitos aos efeitos do artigo 543-C do CPC (repetitivos), REsp 1.091.363/SC, DJe de 25/05/2009, consolidou o entendimento no sentido de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado mediante contrato de mútuo submetido ao Sistema Financeiro da Habitação, quando não afetar o FCVS (Fundo de Compensação de Variações Salariais), sendo, portanto, da Justiça Estadual a competência para processar e julgar o feito.
+2. "Sendo os danos ao imóvel de natureza sucessiva e gradual, sua progressão dá azo a inúmeros sinistros sujeitos à cobertura securitária, renovando seguidamente a pretensão do beneficiário do seguro e, por conseguinte, o marco inicial do prazo prescricional" (REsp 1143962/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/03/2012, DJe 09/04/2012).
+3. Não tendo o acórdão fixado um marco inicial para a fluência do prazo prescricional, não se revela possível, na via especial, reconhecer a prescrição, uma vez que demandaria reexame de provas. Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 533.161/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2014, DJe 23/09/2014 - grifo nosso)
+Aplica-se, pois, na espécie, o óbice insculpido na Súmula 07 do STJ.
+4. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+ADMINISTRATIVO. SERVIÇO DE FORNECIMENTO DE ÁGUA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. DIVERGÊNCIA JURISPRUDENCIAL. OCORRÊNCIA DE DANO MORAL REPARÁVEL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Rever entendimento do Tribunal de origem que, com base nos elementos de convicção do autos, afasta a ocorrência de dano moral reparável demanda o revolvimento do arcabouço probatório dos autos, inviável em recurso especial, dado o óbice da Súmula 7 desta Corte.
+2. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa.
+(AgRg no Ag 1.160.541/RJ, Rel. Min. Humberto Martins, 2ª Turma, 25.10.2011)
+5. Do exposto, com fundamento no art. 932, do CPC/15 c/c a súmula 568, do STJ, nego provimento ao agravo.
+Publique-se. Intimem-se.
