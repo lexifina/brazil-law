@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ARTIGOS 8o., § 2o. E 25 DA LEF E 174 DO CTN. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME DE PROVAS (RESP. 1.102.431/RJ, JULGADO SOB O RITO DO ART. 543-C DO CPC). AGRAVO DO MUNICÍPIO DE CURITIBA/PR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pelo MUNICÍPIO DE CURITIBA/PR, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo egrégio Tribunal de Justiça do Paraná, assim ementado:
+AGRAVO INTERNO. EXECUÇÃO FISCAL. INSURGÊNCIA CONTRA A DECISÃO QUE RECONHECEU A PRESCRIÇÃO. CITAÇÃO NUNCA EFETIVADA. TENTATIVA DE CUMPRIMENTO DA DILIGÊNCIA TODAS AS VEZES EM QUE A FAZENDA VEIO AOS AUTOS INFORMAR O ENDEREÇO DA PARTE EXECUTADA. AGRAVO INTERNO DESPROVIDO POR UNANIMIDADE, COM A CONSEQUENTE APLICAÇÃO DE MULTA, NOS TERMOS DO ART. 1.021, § 4º, DO CPC (fls. 62).
+2. Nas razões do Apelo Nobre inadmitido, a parte recorrente aponta violação ao art. 174 do CTN, sob o fundamento de que a prescrição interrompeu-se com o despacho que ordenou a citação, e que a demora no regular prosseguimento foi de responsabilidade do cartório e ao art. 25 da LEF, pois se o Município não se manifestou nos autos é porque não foi intimado.
+3. Inadmitido o Recurso Especial (fls. 94/95), sobreveio o Agravo de fls. 98/114.
+4. É o relatório.
+5. Inicialmente, verifica-se que os temas insertos nos arts. 8o., § 2o. e 25 da LEF e 174, parágrafo único, inc. I do CTN, não foram debatidos pelo Tribunal de origem, malgrado a oposição de Embargos Declaratórios. Assim, ante a ausência de prequestionamento, incide a Súmula 211 desta Corte.
+6. No tocante à aplicação da Súmula 106/STJ, a 1a. Seção do Superior Tribunal de Justiça, no julgamento do REsp. 1.102.431/RJ, representativo de controvérsia, firmou a orientação de que a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 07/STJ (REsp. 1.102.431/RJ, Rel. Min. LUIZ FUX, DJe 1.2.2010).
+7. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial do MUNICÍPIO DE CURITIBA/PR.
+8. Publique-se. Intimações necessárias.
