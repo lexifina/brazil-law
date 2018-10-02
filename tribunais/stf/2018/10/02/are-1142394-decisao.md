@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário cujo objeto é acórdão do Tribunal Regional Federal da 3ª Região assim ementado (eDOC 01, p. 95):
+    “APELAÇÃO EM MANDADO DE SEGURANÇA. CONTRIBUIÇÃO SOCIAL. FUNRURAL. ILEGITIMIDADE ATIVA AD CAUSAM AFASTADA. APELAÇÃO PROVIDA.
+    I. No que concerne à ilegitimidade ativa ad causam decidida pelo juízo monocrático, a jurisprudência do C. Superior Tribunal de Justiça firmou-se no sentido de que o produtor rural tem o direito de postular a declaração de inexigibilidade da contribuição do FUNRURAL, uma vez que o mesmo sofreu a diminuição patrimonial pelo recolhimento da exação.
+    II. Apelação provida.”
+    No recurso extraordinário (eDOC 01, p. 128) interposto com fulcro no art. 102, III, a, do permissivo constitucional, alega-se violação dos arts. 5º, XXXV; 93, XI; e 195, I, “b”, da Constituição Federal.
+    Nas razões recursais sustenta-se, em síntese, que a regulamentação da matéria em questão pode ser veiculada por meio de lei ordinária. Argumenta-se ainda que a declaração de inconstitucionalidade do §2º do artigo 25, da Lei 8.870 (ADI 1103/DF) não se aplica à questão suscitada.
+    O TRF-3 inadmitiu o recurso extraordinário com base na verificação de que a ocorrência de afronta aos dispositivos constitucionais elencados dependeria de análise prévia de legislação infraconstitucional.
+    É o relatório. Decido.
+    De plano, constata-se que as razões recursais estão dissociadas dos fundamentos do acórdão recorrido, o que torna aplicável ao caso a Súmula 284 desta Corte.
+    Ocorre que o Tribunal de origem manifestou-se sobre a ilegitimidade ativa da parte Recorrente para impetrar writ mandamental, bem como a inexistência de comprovação da condição de empregador rural pessoa física, nos seguintes termos (eDOC 01, p. 93):
+    “No que concerne à ilegitimidade ativa ad causam decidida pelo juízo monocrático, a jurisprudência do C. Superior Tribunal de Justiça firmou-se no sentido de que o produtor rural tem o direito de postular a declaração de inexigibilidade da contribuição do FUNRURAL, uma vez que o mesmo sofreu a diminuição patrimonial pelo recolhimento da exação.”
+    Por sua vez, a parte Recorrente suscita uma série de inconstitucionalidades de índole formal e material em nenhum momento tratadas pelos juízos de origem, muitas das quais refutadas pelo STF no julgamento do Tema 669 da sistemática da repercussão geral, cujo paradigma é o RE 718.874, de minha relatoria e com acórdão redigido pelo Ministro Alexandre de Moraes.
+    Nesse mesmo sentido, em caso similar, destaco argumentação do Ministro Marco Aurélio esposada no RE 1.034.962, de relatoria de Sua Excelência, DJe 26.04.2017:
+    “Em face dessa decisão, o recorrente formaliza extraordinário, inovando na argumentação recursal ao aduzir a inexigibilidade da contribuição ao funrural de produtor rural, pessoa natural, sem empregados, questão não enfrentada pelo Tribunal de origem. O quadro inviabiliza compreender a pretensão recursal, sendo pertinente, assim, o teor do verbete nº 284 da Súmula do Supremo: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    3. Nego seguimento ao extraordinário.”
+    Confiram-se, a propósito, os seguintes julgados de ambas as Turmas do Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. 1. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 652247 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 10.10.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE DO APELO EXTREMO. SÚMULA 284 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO A QUE SE NEGA PROVIMENTO. I O recorrente não impugnou especificadamente os fundamentos do acórdão recorrido. Inviável, portanto, o recurso extraordinário, a teor da Súmula 284 do STF. Para se chegar à conclusão contrária à adotada pelo acórdão impugnado, seria necessário o exame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, bem como a análise de normas infraconstitucionais, sendo certo que a ofensa à Lei Maior, se ocorrente, seria apenas indireta. - Agravo regimental a que se nega provimento.” (RE 718.234-AgR/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 9.12.2013).
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 02 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
