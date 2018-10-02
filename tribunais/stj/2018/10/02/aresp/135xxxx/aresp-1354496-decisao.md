@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BACEN-JUD. PESSOA JURÍDICA. CONSTRIÇÃO. SUSPENSÃO DA EXECUÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE GARANTIA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+1. O Código de Processo Civil, em seu artigo 835, prevê expressamente que o dinheiro em depósito ou aplicado em instituição financeira ocupa, juntamente com o dinheiro em espécie, o primeiro lugar na ordem de penhora, sendo certo que o artigo 854, do mesmo diploma legal, autoriza o juiz, mediante requerimento do exequente, a determinar a indisponibilidade de ativos financeiros através de meio eletrônico.
+2. Revela-se indispensável, contudo, que a penhora por meio eletrônico dos valores não coloque em risco o regular funcionamento da empresa ou a sobrevivência digna do executado, conforme a hipótese, nem recaia sobre bem impenhorável observados, naturalmente, o princípio da proporcionalidade e a busca pela satisfação do credor.
+3. Não há nos autos comprovação de que os valores bloqueados constituem verbas impenhoráveis, tampouco foi provado pela agravante que a penhora representa risco à sua saúde financeira.
+4. No que tange à alegação de que a execução estaria suspensa, destaque-se que, em razão da inexistência de bem dado em garantia, ante o insucesso no que tange à penhora do bem imóvel indicado, não há que se falar em suspensão da execução.
+5. O bem dado em garantia pela agravante, qual seja, um imóvel rural localizado no município de São Domingos do Capim, comarca de Guamá - PA, não foi localizado nos registros do referido cartório, motivo pelo qual não houve a averbação da penhora em seus assentamentos, devendo ser ressaltado que em momento nenhum ocorreu a necessária garantia do juízo, que é imprescindível para a determinação de suspensão da execução.
+6. Além da impossibilidade de constrição do imóvel indicado como garantia da dívida contraída, note-se que a agravante, em suas razões recursais, não demonstrou interesse em indicar outro bem em garantia, razão pela qual a manutenção do bloqueio de valores de sua titularidade, por meio do sistema BACEN-JUD é medida que se impõe.
+Alegou-se, no especial, violação do artigo 805 do Código de Processo Civil, ao argumento de que a execução há de se processar pelo modo menos gravoso ao executado.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal regional, a par de consignar que seguiu a preferência legal prevista no artigo 835 por ocasião da penhora, fundamento não impugnado pela agravante, asseverou que "não há nos autos comprovação de que os valores bloqueados constituem verbas impenhoráveis, tampouco foi provado pela agravante que a penhora representa risco à sua saúde financeira" (e-STJ, fl. 645).
+Inequívoco, portanto, que o reexame da causa esbarra nos óbices de que tratam os enunciados n. 283 da Súmula do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça.
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
