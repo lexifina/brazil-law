@@ -1,0 +1,37 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 146,6 G DE MACONHA E UM PAPELOTE COM 5 G DE COCAÍNA. PEDIDO DA DEFESA QUANTO À APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA. POSSIBILIDADE. PRIMARIEDADE. BONS ANTECEDENTES. NÃO REINCIDENTE. APLICAÇÃO DA LEI N. 11.343/2006 (MAIS BENÉFICA AO PACIENTE). REDIMENSIONAMENTO DA REPRIMENDA. REGIME DE CUMPRIMENTO. ABRANDAMENTO PARA O ABERTO. SUBSTITUIÇÃO DA PRIVATIVA POR RESTRITIVA DE DIREITOS. PENA INFERIOR A 4 ANOS.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como autoridade coatora a Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo.
+No Processo n. 1031/2003, o paciente foi condenado pelo Juízo de Direito da 2ª Vara Criminal da comarca de São Vicente/SP às penas de 5 anos e 3 meses de reclusão, no regime inicial fechado, e 87 dias-multa, por ter sido incurso no crime de tráfico de drogas majorado, na vigência da Lei n. 6.368/1976. Com o paciente foram apreendidas 146,6 g de maconha e um papelote de cocaína de 5 g (fls. 11/19).
+Inconformada, a defesa interpôs apelação (n. 9157583-51.2007.8.26.0000), em que pediu a absolvição, por insuficiência probatória; de forma subsidiária, o afastamento da causa de aumento da pena, por ausência de provas quanto à associação; a desclassificação para o art. 16 da Lei n. 6.368/1976; a substituição da pena privativa por restritiva de direitos; o abrandamento do regime e o afastamento da perda do cargo.
+A Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo deu parcial provimento ao recurso para aplicar as majorantes previstas no art. 18 da Lei n. 6.368/1976, nos patamares previstos na Lei n. 11.343/2006, resultando a reprimenda definitiva em 4 anos, 2 meses e 12 dias de reclusão, no regime fechado, e 69 dias-multa (fls. 20/30).
+No presente writ, aponta-se constrangimento ilegal consistente na ausência de aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, bem como na fixação do regime inicial fechado de cumprimento da pena.
+Decisão deste Relator indeferindo a liminar (fls. 36/38).
+Parecer ministerial opinando pela concessão parcial da ordem para fixar o regime semiaberto (fls. 55/61).
+É o relatório.
+A impetrante requer a aplicação do redutor previsto no § 4º do art. 33 da Lei de Drogas. Com o paciente foi apreendida a quantidade de 146,6 g de maconha e 5 g de cocaína. Razão assiste à impetrante.
+Verifica-se, na sentença, ter o Magistrado feito menção de que o paciente é primário e não registra antecedentes criminais (fl. 16), no entanto, que deveria ser considerado o seu dolo, por ter cometido o crime por pura ganância, uma vez que tinha condições econômicas bastante razoáveis, já que além do salário fixo e estável como Agente de Segurança Penitenciária, também tinha outras fontes de renda (fls. 16/17). Na sentença, não se faz referência à negativa pela causa de diminuição da pena.
+Já no julgamento da apelação, a Corte Local afastou o redutor, com base na seguinte fundamentação (fls. 28/29):
+ ..
+Na fixação da pena-base, o Magistrado elevou o mínimo (previsto no artigo 12 da antiga lei) em 1/6 (um sexto), totalizando 3 (três) anos e 6 (seis) meses de reclusão e 58 (cinqüenta e oito) dias-muita, considerando circunstâncias como a intensidade do dolo, a má índole de Jerônimo e sua ganância, uma vez que possui salário fixo e rendimentos externos que não apontam necessidade financeira.
+Mantidos estes critérios, percebe-se que, apesar de não ser reincidente, o apelante não faz jus aos benefícios previstos no art. 33, § 4º, da Lei n. 11.343/06.
+Por isso, a pena deve permanecer no patamar fixado, que é inferior àquele que adviria da aplicação da nova lei.
+ ..
+Com efeito, para a aplicação do art. 33, § 4º, da Lei de Drogas, devem ser considerados a primariedade, bons antecedentes, a não reincidência, bem como ausência de dedicação a atividades criminosas. No caso, tal privilégio foi afastado em virtude de intensidade de dolo, ganância e má índole, o que não pode ser aceitável para a negativa de um benefício ao paciente. Ademais, essa motivação já foi valorada na primeira fase da dosimetria para elevação da pena-base.
+De fato, a nova Lei n. 11.343/2006 parece ser mais favorável ao paciente, pois sendo primário, de bons antecedentes, não reincidente, bem como não comprovada a dedicação a atividades criminosas, poderá fazer jus a uma redução da pena no patamar de 2/3.
+Assim, considerando a elevação feita na sentença relativa à pena-base, trazendo para a nova lei de drogas, deverá a pena-base do paciente ser fixada em 5 anos e 8 meses de reclusão, e 580 dias-multa. Na segunda fase, não houve a incidência de atenuantes ou agravantes. Na terceira fase, pelo acréscimo da pena em razão do art. 40 da Lei n. 11.343/2006, tal como feito pelo Magistrado por conta do art. 18 da Lei n. 6.368/1976, deverá a reprimenda ser fixada em 6 anos e 7 meses de reclusão, e 676 dias-multa, pela exasperação da pena em 1/6, o que se mostra razoável e adequado ao caso. Por fazer jus o paciente ao art. 33, § 4º, da Lei de Drogas, aplicando-se agora a causa de diminuição da pena na fração de 2/3, a pena do paciente encontrará o total definitivo de 2 anos e 4 meses de reclusão, e 225 dias-multa.
+Em relação ao regime inicial, confira-se o teor do acórdão hostilizado (fls. 29/30):
+ ..
+O regime de cumprimento comporta modificação para inicial fechado, nos termos da Lei n. 11.464/07, em face não só do montante da pena, bem como da natureza do crime, que revela a periculosidade do agente, exigindo, em consequência, resposta penal mais enérgica com a qual não é compatível solução mais branda.
+ ..
+Nesse ponto, razão também assiste à defesa. Com a redução da pena agora a 2 anos e 4 meses de reclusão, e 225 dias-multa, e sendo o paciente primário e de bons antecedentes, além de não se mostrar excessiva a quantidade de drogas, 146,6 g de maconha e 5 g de cocaína, deverá ser fixado o regime aberto. Não pode a gravidade do crime ser usada para a fixação do regime fechado. Nesse sentido:
+ ..
+6. No caso, o regime mais gravoso foi fixado com base na gravidade abstrata e hediondez do delito, fundamentos que não se prestam a justificar o fechado. Dessa forma, tendo em vista que a pena é inferior a 8 anos, o paciente é primário, as circunstâncias judiciais lhe são favoráveis e a quantidade da droga não é expressiva, o regime semiaberto se mostra mais adequado, nos termos do art. 33, § § 2º e 3º, do Código Penal.
+7. Não há se falar em substituição da pena privativa de liberdade por restritiva de direitos, pois o quantum da pena supera o limite previsto no art. 44, inciso I, do Código Penal.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime semiaberto.
+ ..
+(HC n. 448.663/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/9/2018)
+No caso, possível a fixação no regime aberto, por não ser o paciente reincidente. Também se mostra devida a substituição da privativa por restritiva de direitos (pena inferior a 4 anos de reclusão).
+Ante o exposto, concedo a ordem a fim de redimensionar a pena do paciente, com base na Lei n. 11.343/2006, para o total de 2 anos e 4 meses de reclusão, em regime aberto, e 225 dias-multa, e conceder a substituição da pena privativa de liberdade por restritiva de direitos a ser definida pelo Juízo da Execução.
+Publique-se.
