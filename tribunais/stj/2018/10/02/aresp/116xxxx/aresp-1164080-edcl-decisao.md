@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão monocrática de fls. 474-478.
+O presente feito decorre de ação ajuizada por RRX Construtora e Comercio LTDA ME em face do Estado de São Paulo e Companhia de Processamento de Dados do Estado de São Paulo - PRODESP, objetivando indenização por danos materiais. À causa foi arbitrado o valor de R$71.060,61 (setenta e um mil, sessenta reais, sessenta e um centavos). Na sentença julgou-se improcedente o pedido. No Tribunal de Justiça do Estado de São Paulo, a sentença foi mantida, nos termos assim ementados:
+ADMINISTRATIVO. Contrato para execução de obras de pintura parcial no Poupatempo Itaquera. Indenização pelas despesas extraordinárias não previstas no contrato. Teoria da imprevisão. Improcedência. Cerceamento de defesa inexistente. Ilegitimidade da Fazenda do Estado, que detém responsabilidade subsidiariamente, porquanto a PRODESP conta com personalidade jurídica própria, patrimônio privado e autonomia financeira e administrativa. A teoria da imprevisão não se configura quando o contratante tem prévio conhecimento do objeto do contrato e de todas as condições para sua execução. Sentença de improcedência confirmada. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 414-417).
+Interposto recurso especial por RRX Construtora e Comercio LTDA ME com fundamento no art. 105, III, a e c, da Constituição Federal.
+A Construtora recorrente, em suas razões especiais, aponta violação do art. 20, §4º, do CPC/73, pretendendo reduzir o valor arbitrado a título de honorários advocatícios, alegando ser exorbitante e excessivo o percentual de 10% (dez por cento) fixado no decisum, ante as peculiaridades do caso concreto.
+Aduz ainda, divergência jurisprudencial com julgado desta Corte Superior e de outros Tribunais em situações análogas.
+Após o oferecimento de contrarrazões (fls. 420-424 e 425-429), o Tribunal Estadual inadmitiu o recurso (fl. 430), ensejando a interposição do agravo.
+Recebidos os autos no STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo em recurso especial, para não conhecer do recurso especial".
+Opostos embargos de declaração por Companhia de Processamento de Dados do Estado de São Paulo - PRODESP.
+É o relatório.
+Os embargos merecem acolhimento.
+Segundo decidido pelo Plenário desta Corte na sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Sendo assim, aplica-se o Código de Processo Civil de 2015.
+De igual modo, o enunciado administrativo n. 7/STJ dispõe que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Na sentença, fixaram-se os honorários advocatícios em 10% (dez por cento) sobre o valor da causa (fl. 313). No acórdão, a sentença foi mantida (fls. 378).
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em 2% (dois por cento).
+Publique-se. Intime-se.
