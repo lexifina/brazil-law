@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de demanda ajuizada com o objetivo de atribuir eficácia suspensiva ao recurso extraordinário interposto contra decisão emanada do E. Tribunal de Justiça do Estado de São Paulo (ADI nº 2001841- -69.2018.8.26.0000).
+    Sendo esse o contexto, passo a examinar o presente pedido.
+    Cabe assinalar, desde logo, que, em 01/10/2018, ao apreciar a causa principal a que se refere a presente demanda (RE 1.158.273/SP), julguei inviável, por inadmissível (CPC, art. 932, III), o recurso extraordinário deduzido pelo ora requerente.
+    O exame do contexto processual delineado nestes autos evidencia que a presente ação perdeu o seu objeto, considerado o caráter de acessoriedade de que se reveste esta demanda em face do processo principal.
+    É preciso ter presente, neste ponto, que há entre esta “medida cautelar”  e o processo principal inequívoca relação de acessoriedade. A tutela cautelar não existe em função de si própria. Supõe, por isso mesmo, para efeito de sua apreciação, a perspectiva de um processo principal.
+    A acessoriedade e a instrumentalidade, nesse contexto, constituem notas caracterizadoras da tutela cautelar. “Destinado a garantir complexivamente o resultado de outro processo”, assinala JOSÉ FREDERICO MARQUES (“Manual de Direito Processual Civil”, vol. IV/361, item n. 1.048, 1976, Saraiva), “o processo cautelar se relaciona com este, como o acessório com o principal. Daí o predomínio e hegemonia do processo principal, de que o cautelar é sempre dependente” (grifei).
+    Existe, por isso mesmo, em casos como o que ora se examina, uma situação de conexão por acessoriedade, que decorre do vínculo existente entre a “medida cautelar”, de um lado, e a causa principal (RE 1.158.273/SP), de outro. Nesse sentido, o magistério, sempre autorizado, de JOSÉ FREDERICO MARQUES (“Instituições de Direito Processual Civil”, vol. I/340, 3ª edição, e vol. III/256-257, 2ª edição, Forense) e de GIUSEPPE CHIOVENDA (“Instituições de Direito Processual Civil”, vol. II/298-299, tradução da 2ª edição italiana por ENRICO TULLIO LIEBMAN, 1943, Saraiva).
+    Como precedentemente assinalado, a relação de essencial dependência que existe entre este procedimento e a causa principal impede que se dê tramitação autônoma ao pedido cautelar, em face do vínculo de irrecusável acessoriedade que subordina ao destino do processo principal a subsistência da própria postulação ora formulada.
+    Cumpre salientar, por necessário, que esse entendimento tem o apoio da própria jurisprudência do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NA AÇÃO CAUTELAR. TRIBUTÁRIO. EXCLUSÃO DO PROGRAMA DE RECUPERAÇÃO FISCAL. EFEITO SUSPENSIVO AO RECURSO EXTRAORDINÁRIO N. 573.098. RECURSO JULGADO PREJUDICADO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    1. Pretensão de suspensão dos efeitos da decisão do Superior Tribunal de Justiça que deu provimento ao recurso especial interposto pela União. Decisão que poderia ter sido impugnada no momento processual oportuno.
+    2. Recurso extraordinário n. 573.098 julgado prejudicado. Prejuízo da ação cautelar, por perda superveniente de objeto.”
+    (AC 2.006-AgR/DF, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “CAUTELAR. Petição tendente a emprestar efeito suspensivo a recurso extraordinário. Não conhecimento deste. Extinção consequente daquela na mesma data. Falta de interesse superveniente. Publicação da decisão de não conhecimento do extraordinário em data posterior. Irrelevância. Agravo regimental não provido. Não conhecido recurso extraordinário, na mesma data pode ser extinto pedido cautelar que tendia a dar-lhe efeito suspensivo, sendo irrelevante que a decisão de não conhecimento daquele tenha sido publicada em data posterior à da que extinguiu esse.”
+    (Pet 2.397-AgR/SP, Rel. Min. CEZAR PELUSO – grifei)
+    Impende registrar, finalmente, que essa mesma orientação tem sido observada (e reafirmada), por esta Suprema Corte, em situações análogas à que se delineia nestes autos (AC 2.549/SP, Rel. Min. DIAS TOFFOLI – AC 2.832/AL, Rel. Min. LUIZ FUX – AC 2.849/SP, Rel. Min. JOAQUIM BARBOSA – AC 2.889-MC/GO, Rel. Min. CELSO DE MELLO – AC 3.566- -AgR/SP, Rel. Min. CELSO DE MELLO, v.g.).
+    Sendo assim, e tendo em vista a decisão por mim proferida nos autos do RE 1.158.273/SP (causa principal), julgo prejudicada a presente demanda, em virtude da perda superveniente de seu objeto.
+    2. A Secretaria Judiciária deverá juntar aos presentes autos cópia da decisão por mim proferida no RE 1.158.273/SP (causa principal).
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 02 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
