@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por [NOME] contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais no HC n. 1.0000.18.078660-0/000, conforme esta ementa (fl. 200):
+HABEAS CORPUS - INJÚRIA RACIAL E FURTO DE ENERGIA ELÉTRICA - DECISÃO QUE RATIFICOU O RECEBIMENTO DA DENÚNCIA - FUNDAMENTAÇÃO IDÔNEA - PRINCÍPIO DA INSIGNIFICÂNCIA E DESCLASSIFICAÇÃO DA CONDUTA - IMPROPRIEDADE DA VIA - INÉPCIA DA DENÚNCIA - INOCORRÊNCIA - EXTINÇÃO DA PUNIBILIDADE PELA DECADÊNCIA - REPRESENTAÇÃO DO OFENDIDO - MANIFESTAÇÃO PÚBLICA E INEQUÍVOCA - TRANCAMENTO DA AÇÃO PENAL - AUSÊNCIA DE JUSTA CAUSA - NÃO COMPROVAÇÃO.
+A Decisão que analisa, ainda que suscintamente, as teses aventadas em Resposta à Acusação, não padece de Nulidade, O Principio da Insignificância e a desclassificação da conduta, por demandarem dilação probatória, não se mostram compatíveis com o limite estreito do Habeas Corpus.
+Não pode ser considerada inepta a Denúncia que contém exposição clara do fato delituoso, com todas as circunstâncias, assim como a correta qualificação do denunciado, a classificação do crime e õ rol de testemunhas (art. 41 do CPP).
+A representação, nos crimes de Ação Penal Pública Condicionada, é ato que dispensa formalidade, bastando inequívoca manifestação de vontade da vitima.
+5. O Trancamento da Ação Penal, pelo Habeas Corpus, é medida excepcional, cabível quando comprovadas, de forma inequívoca, ausência de materialidade e de indícios de autoria, existência de causa de extinção da punibilidade ou atipicidade patente da conduta.
+Alega-se, em resumo, nulidade da decisão que ratificou o recebimento da denúncia por falta de apreciação das teses levantadas pela defesa (fl. 217); inépcia da denúncia em relação do delito de furto de energia; atipicidade da conduta e insignificância do furto de energia elétrica.
+Aduz-se, ainda, que o Ministério Público errou ao classificar a conduta narrada na denúncia como furto de energia elétrica, sendo que tal ato é no máximo, sendo bastante radical, furto de coisa comum (fl. 231). E que, sendo a suposta injuria racial praticada crime de ação penal pública condicionada a representação, tendo a vítima o prazo decadencial de 6 meses para oferecer representação, deve ser extinta a punibilidade, pois o termo de representação foi assinado mais de uma ano após o fato (fl. 233).
+Requer-se assim, em liminar, seja sobrestado o feito até julgamento do presente recurso e, no mérito, a concessão da ordem para que seja trancada ação penal.
+É o relatório.
+Sem um exame mais pormenorizado dos elementos que instruem este feito, providência que não se coaduna com este momento processual, não há como afastar estas conclusões do Tribunal local de que (fls. 203/ 206):
+ ..  ao analisar as teses aventadas pela Defesa, em Resposta à Acusação, a Autoridade apontada como coatora O fez de maneira fundamentada (Decisão - fls. 14611 47-TJ), inexistindo qualquer ofensa ao inciso IX do ad. 93 da Constituição Federal  ..
+ ..  Os requisitos de admissibilidade da Denúncia ou da Queixa-Crime se encontram previstos no art. 41 do Código de Processo Penal, que exige a exposição do fato criminoso, com todas as circunstâncias, a qualificação do acusado e a classificação do Crime.  ..
+Constata-se, ademais, que a forma como o fato delituoso foi descrito não dificultou a compreensão da conduta atribuída à Paciente, possibilitando o exercício da defesa.
+Neste sentido, não há como acolher a tese de Inépcia da Denúncia, porquanto se encontra em conformidade com as disposições legais (Art. 41 do CPP), inexistindo qualquer irregularidade ou ilegalidade.  ..
+ ..  No caso, contudo, consoante vislumbrado pela narrativa da Denúncia (fls. 21123-TJ), observa-se a presença de indícios suficientes de autoria e prova da materialidade, inexistindo, portanto, qualquer comprovação da patente ausência de Justa Causa, a justificar o Trancamento da Ação Penal em sede de Habeas Corpus  ..
+A Terceira Câmara Criminal ainda destacou que a Vítima se dirigiu à Delegacia de Policia, no mesmo dia, para narrar os fatos, imputando a suposta autoria à Paciente (fl. 205).
+Indefiro, portanto, o pedido liminar.
+Solicitem-se informações pormenorizadas ao Juízo de origem a respeito da atual situação do Processo n. 0110362-72.2014.8.13.0024. Deve a autoridade judicial enviar cópia da decisão que ratificou o recebimento da denúncia.
+Depois de juntadas, ouça-se o Ministério Público Federal.
+Publique-se.
