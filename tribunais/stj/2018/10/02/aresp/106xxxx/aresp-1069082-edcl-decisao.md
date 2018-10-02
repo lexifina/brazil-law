@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MSC MEDITERRANEAN SHIPPING DO BRASIL LTDA. contra decisão monocrática (e-STJ fls. 710/713) que negou provimento a seu agravo em recurso especial.
+Alega existir contradição porque reconhecido, pelo Tribunal de origem, que o transporte foi realizado na forma unimodal, podendo ser analisada a prescrição. Assim, aplicável o prazo prescricional previsto nos arts. 205 e 206, § 5º, I, do CC/2002.
+Ao final, requer o provimento dos embargos.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC.
+Ademais, os declaratórios, via de regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em hipóteses excepcionais, uma vez comprovada a existência dos aludidos vícios no julgado, o que não se evidencia no caso em exame. Nesse sentido, os seguintes precedentes da Corte Especial:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OBSCURIDADE. CONTRADIÇÃO. OMISSÃO. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade, contradição ou erro material, nos termos do art. 535 do CPC. Não se prestam para rediscutir a lide.
+2. Os embargos de divergência em recurso especial não se prestam para reformar o acórdão embargado, sob a alegação tardia da ocorrência de julgamento extra petita, considerando que a matéria foi ventilada tão somente nos presentes embargos de declaração e, por conseguinte, não constou dos outros 2 (dois) embargos de declaração interpostos contra o acórdão da Turma, assim do próprio recurso de embargos de divergência.
+3. De qualquer forma, inexiste julgamento extra petita. Atuou o órgão fracionário deste Tribunal nos limites em que trazida a questão a exame nas razões do recurso especial.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp n. 923.459/BA, Relator Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 12/5/2011, DJe 3/6/2011.)
+CUSTAS. RECOLHIMENTO. AUSÊNCIA. DESERÇÃO. AÇÃO CIVIL PÚBLICA. ISENÇÃO. INAPLICABILIDADE DO ART. 18, DA LEI Nº 7.347/85. PRECEDENTES. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE.
+I - Os embargos de declaração constituem recurso de rígidos contornos processuais, consoante disciplinamento inserto no artigo 535 do CPC, exigindo-se, para seu acolhimento, estejam presentes os pressupostos legais de cabimento, o que não se verifica na hipótese (..).
+III - Pretensão de simples rediscussão da controvérsia contida nos autos não dá margem à oposição de declaratórios, principalmente com intuito de emprestar efeito infringente à decisão. Precedentes: EDcl nos EREsp 445.664/AC, Rel. Ministro FERNANDO GONÇALVES, CORTE ESPECIAL, DJe 26/03/2009, EDcl no AgRg nos EREsp 499.648/MA, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe 21/08/2008.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp n. 1.003.179/RO, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 12/5/2011, DJe 7/6/2011.)
+Como bem delineado na decisão embargada (e-STJ fls. 711/713):
+A respeito da prescrição, assim considerou a Turma julgadora (e-STJ fls. 393/394):
+No que se refere à prescrição, a tese ora acolhida é a de que se aplica à hipótese a lei especial para este tipo de contrato, qual seja, a Lei nº 9.611/98, que, em seu artigo 22 prevê o prazo ânuo de prescrição para "as ações judiciais oriundas do não cumprimento das responsabilidades decorrentes do transporte multimodal".
+Ainda que se argumente que a legislação supramencionada se aplique apenas ao transporte multimodal, a fim de afastar a sua incidência, entende-se que, após a revogação do artigo 449 do Código Comercial pelo atual Código Civil, não há motivos plausíveis para aplicação de regras distintas às hipóteses de transporte multimodal e monomodal.
+Com efeito, a lei acima referida autoriza a aplicação do prazo ânuo de prescrição nela prevista, já que dispõe o artigo 24: "Para os efeitos desta Lei, considera-se unidade de carga qualquer equipamento adequado à unitização de mercadorias a serem transportadas, sujeitas a movimentação de forma indivisível em todas as modalidades de transporte utilizadas no percurso", e acrescenta o parágrafo único: "A unidade de carga, seus acessórios e equipamentos não constituem embalagem e são partes integrantes do todo". Por sua vez, o artigo 5º do Decreto nº 80.145/77, assim redigido "O container, para todos os efeitos legais, não constitui embalagem das mercadorias e sim parte ou acessório do veículo transportador", já definiu o container como acessório do veículo transportador e não mera embalagem, permitindo, portanto, adequação à legislação supra referida.
+Desta forma, com o fito de se obter um tratamento isonômico entre os diferentes tipos de transporte, multi e monomodal, deve-se aplicar a prescrição ânua, sendo certo que a previsão de prazo diferenciado para as referidas modalidades de contrato de transporte não se mostra salutar, tampouco recomendada pelo Direito.
+Como se verifica, os julgadores da origem não especificaram se o transporte na hipótese seria unimodal ou multimodal. Referida distinção, entretanto, é importante para ser definido o prazo prescricional, conforme entendimento desta Corte, aplicando-se prazos distintos para cada tipo de transporte (..)
+Ocorre, porém, que verificar qual a modalidade em que realizado o transporte, se unimodal ou multimodal, demandaria o reexame de provas, o que não é possível em recurso especial, conforme prevê a Súmula n. 7 do STJ.
+Assim, inexistiu omissão ou contradição, não se constatando nenhuma das hipóteses ensejadoras dos embargos de declaração. Ao contrário, verifica-se a mera pretensão da parte de reexame de questões devidamente analisadas nos recursos anteriores.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
