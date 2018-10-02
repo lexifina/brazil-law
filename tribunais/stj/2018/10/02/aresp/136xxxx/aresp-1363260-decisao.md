@@ -1,0 +1,39 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. PENA DE MULTA. VALOR FIXADO. ART. 60 DO CP. RAZOABILIDADE E PROPORCIONALIDADE. PONDERAÇÃO LEVANDO-SE EM CONTA O MONTANTE SONEGADO E A SITUAÇÃO FINANCEIRA DO RÉU. REVISÃO. DESCABIMENTO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da Constituição Federal, impugnando, por sua vez, acórdãos do Tribunal Regional Federal da 4ª Região, proferidos na Apelação Criminal n. 5006167-02.2015.4.04.7201/SC e nos Embargos de Declaração n. 5006167- 02.2015.4.04.7201/SC, assim ementados (fls. 1.087 e 1.109):
+DIREITO PENAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA (ART. 1º, INCISO I, LEI 8.137/90). TIPICIDADE. PRESTAÇÃO PECUNIÁRIA. PROPORCIONALIDADE.
+1. A diferença entre o simples inadimplemento de tributo e a sonegação, é o emprego de fraude. O inadimplemento constitui infração administrativa que não constitui crime e que tem por consequência a cobrança do tributo acrescida de multa e de juros, via execução fiscal. A sonegação, por sua vez, dá ensejo não apenas ao lançamento do tributo e de multa de ofício qualificada, como implica responsabilização penal.
+2. Configura crime material contra a ordem tributária reduzir tributo mediante omissão de fontes pagadoras.
+3. Os valores da prestação pecuniária devem ser proporcionais à situação econômica do réu.
+DIREITO PROCESSUAL PENAL. EMBARGOS DECLARATÓRIOS. REDISCUSSÃO DA MATÉRIA. DESCABIMENTO. AUSÊNCIA DE OMISSÃO.
+1. Os embargos de declaração não se prestam como via para a reapreciação dos fundamentos da decisão atacada.
+2. Como a multa não foi questionada no recurso de apelação, descabe afirmar a existência de omissão. Todos os argumentos foram apreciados pelo colegiado.
+Nas razões recursais, a defesa apontou negativa de vigência ao art. 60 do Código Penal, sustentando, em síntese, a desproporcionalidade do valor fixado para a pena de multa, a qual deve atender à situação econômica do réu (fl. 1.121). Requereu a redução do quantum estabelecido, tendo em vista que o réu diminuiu ao longo do processo drasticamente sua condição financeira (fl. 1.121)
+Apresentadas contrarrazões (fls. 1.134/1.138), o Tribunal de origem inadmitiu o recurso, por incidência do óbice da Súmula 7/STJ (fls. 1.141/1.143).
+Contra essa decisão a defesa interpõe agravo (fls. 1.151/1.156). Instado a se manifestar, o Ministério Público Federal opinou pelo improvimento do recurso (fls. 1.183/1.185).
+É o relatório.
+Presentes os requisitos de admissibilidade, o agravo merece ser conhecido.
+A pretensão recursal direciona-se à redução do quantum estabelecido para a pena de multa.
+Consta dos acórdãos recorrido e embargado (fls. 1.085 e 1.109 - grifo nosso):
+ ..  Em relação à dosimetria, a defesa requer a redução da pena pecuniária.
+Passo à análise da insurgência recursal.
+A pena-base foi fixada em 02 (dois) anos de reclusão, sem vetoriais negativas. Na segunda fase, não incidiu atenuantes ou agravantes. Na terceira fase, não incidiu causas de aumento ou diminuição de pena, mantendo-se a pena em 02 (dois) anos de reclusão.
+Foi aplicado aumento de pena no patamar de 1/4 em virtude da continuidade delitiva, considerando cada exercício como uma conduta, totalizando quatro condutas, sendo a pena corporal total fixada em 02(dois) anos e 06(seis) meses de reclusão.
+A pena de multa foi fixada em 68 (sessenta e oito) dias-multa, no valor de cinco salários-mínimos vigentes na data do último fato delituoso. A pena privativa de liberdade foi convertida em duas restritivas de direito, quais sejam, prestação de serviço à comunidade e prestação pecuniária no montante de 30 (trinta) salários-mínimos.
+A defesa requer a redução da pena pecuniária, em razão da modificação da situação patrimonial do réu. Tendo em vista que restou comprovada a modificação da situação patrimonial do réu, com apresentação de documentos médicos e comprovantes de pagamento (evento 85 - OUT3, OUT4 e OUT5), reduzo a pena de prestação pecuniária para 12 (doze) salários-mínimos, por considerá-la proporcional e adequada à atual situação do réu.
+Restam mantidos os demais aspectos da sentença.
+ ..
+Acórdão dos embargos de declaração:
+ ..  2. Pena de multa. Aduz a defesa que houve omissão acerca da fixação da pena de multa imposta ao embargante, desconsiderando a mudança da situação financeira do réu. Destaco inicialmente que o pedido da apelação objetivava, em relação à dosimetria, somente a redução da pena de prestação pecuniária e nada falou acerca da pena de multa. Não havendo pedido na apelação a ser apreciado, não se pode afirmar que tenha havido omissão. Todos os argumentos trazidos a este Tribunal foram apreciados no voto.
+Acrescento que a dosimetria da pena de multa se dá, assim como na reprimenda corporal, através de discricionariedade balizada pelo Código Penal (sistema de relativa indeterminação). Somente a existência de alguma grave discrepância ou ausência de fundamentação desafiariam a reforma do julgado por esta Corte. No caso, pela simples leitura do excerto da sentença quanto à multa questionada, mostra o acerto da condenação e a impertinência do recurso. O valor fixado é proporcional, tendo o magistrado a quo corretamente ponderado o valor, levando-se em conta o montante sonegado e a situação financeira do réu.
+ ..
+Na concreta situação dos autos, infere-se que o ora agravante foi condenado à pena privativa de liberdade, fixada em 2 anos de reclusão, e à pena de multa estabelecida em 68 dias-multa, no valor de cinco salários mínimos vigentes na data do último fato delituoso. A pena privativa de liberdade foi convertida em duas restritivas de direito: prestação de serviços à comunidade e prestação pecuniária no montante de 30 (trinta) salários mínimos.
+A Corte local, no julgamento da apelação, reduziu o valor da prestação pecuniária (medida restritiva de direito), para 12 salários mínimos, em razão da modificação da situação patrimonial do réu.
+Já no julgamento dos embargos de declaração, conquanto tenha afirmado que a parte não manifestara irresignação ou pedido, nas razões de apelação, acerca da pena de multa, manteve a pena cominada na sentença, consignando ter sido o valor fixado de forma proporcional, tendo o magistrado a quo corretamente ponderado o valor, levando-se em conta o montante sonegado e a situação financeira do réu (fl. 1.107), nos termos do art. 60 do Código Penal.
+Assim, diante da conclusão firmada pelo Tribunal Regional quanto à situação econômica do réu - critério norteador para a definição do valor do dia-multa -, não se mostra adequado, em sede de recurso especial, rever esse entendimento, dada à necessidade de análise fático-probatória.
+Nesse sentido, inúmeros julgados: AgRg no AREsp n. 875.794/MG, de minha relatoria, Sexta Turma, DJe 13/9/2017; AgRg no AREsp n. 1.062.447/AP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/5/2017; AgInt no AREsp n. 904.220/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 2/2/2017; AgRg no AREsp N. 719.466/DF, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 1º/2/2016; REsp n. 1.290.073/ES, Ministra Laurita Vaz, Quinta Turma, DJe 23/5/2014, entre outros.
+Imperioso destacar que a prestação pecuniária difere da multa cominada no preceito secundário do tipo penal, motivo pelo qual não há falar em correspondência com a sanção privativa de liberdade imposta ao acusado. A pena restritiva de direitos possui natureza jurídica indenizatória, que se destina à reparação do dano causado pelo crime, e pode, inclusive, ser ajuizada ação de reparação civil para complementação do valor recebido (AgRg no REsp n. 1.578.331/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/11/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
