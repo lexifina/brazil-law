@@ -1,0 +1,18 @@
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APLICAÇÃO DE NOVO TETO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. INOCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. MANIFESTO INTUITO PROTELATÓRIO. MAJORAÇÃO DA MULTA APLICADA. ARTIGO 1.026, § 3º, DO CPC/2015. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.
+    Decisão: Trata-se de embargos de declaração nos embargos de declaração opostos por JOSÉ CARLOS DA SILVA, contra decisão de minha relatoria, publicada em 21/9/2018, cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APLICAÇÃO DE NOVO TETO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. ERRO MATERIAL. INOCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.026, § 2º, DO CPC/2015. APLICABILIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.” (Fl. 272)
+    Inconformada com a decisão supra, a parte ora embargante interpõe o presente recurso, requerendo, em síntese:
+    “- 1º) seja afastada a aplicação da MULTA, porque os Embargos Declaratórios anteriores, com a devida vênia, não merecem ser considerados protelatórios;
+    - 2º) que V. Exa. decida sobre a questão posta no RE do aposentado e nos Embargos Declaratórios anteriores, qual seja, se, para demonstração de diferenças decorrentes dos tetos previstos nas Emendas Constitucionais 20/98 e 41/2003, nos termos do RE 564.354/SE, deve-se tomar por base a evolução do salário de benefício apurado nos cálculos primitivos da RMI ou a evolução da renda mensal inicial apurada administrativamente;
+    - 3º) que V. Exa. acolha os presentes Embargos Declaratórios para que se prossiga no julgamento do RE apresentado pelo aposentado, já que o julgamento da questão exige apenas interpretação das Emendas 20 e 41 e do RE 564.354/SE e não reapreciação do suporte fático probatório da demanda.” (Fl. 278)
+    É o relatório. DECIDO.
+    Não merecem acolhida as pretensões da parte embargante.
+    Ab initio, há que se frisar que a parte ora recorrente pretende, nestes segundos embargos de declaração, rediscutir matéria já decidida. Ora, esta Suprema Corte firmou jurisprudência nos termos da qual não se revelam cabíveis embargos de declaração quando, a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição, vêm a ser opostos com o inadmissível objetivo de infringir o julgado, em ordem a viabilizar um indevido reexame da causa (AI 177.313-AgR-ED, Relator o Ministro Celso de Mello, DJ de 13/9/1996).
+    Com efeito, a decisão hostilizada assentou que divergir do entendimento firmado pelo Tribunal de origem, no que se refere à não comprovação de diferenças a serem recebidas pela aplicação dos tetos previstos nas Emendas Constitucionais 20/1998 e 41/2003, seria necessário o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 279 do STF, que dispõe, in verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+    A parte revela intuito de tão somente rediscutir os argumentos já refutados pela decisão anterior, pelo que os presentes embargos revelam-se manifestamente incabíveis, notadamente em função do caráter protelatório. Destarte, impõe-se a aplicação da majoração da multa aplicada na decisão anterior, nos termos do art. 1.026, § 3º, do Código de Processo Civil de 2015 para o valor de 5% (cinco por cento) do valor atualizado da causa.
+    Ex positis, DESPROVEJO os embargos de declaração e MAJORO a multa anteriormente aplicada ao valor de 5% (cinco por cento) sobre o valor atualizado da causa (artigo 1.026, § 3º, do CPC/2015).
+    Publique-se.
+    Brasília, 2 de outubro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
