@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE BENTO GONÇALVES, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. OFERTA DE SEGURO GARANTIA EM LUGAR DE PENHORA DE DINHEIRO. POSSIBILIDADE. ORDEM DE PREFERÊNCIA. RELATIVIZAÇÃO. PRINCÍPIO DA MENOR ONEROSIDADE.
+- Nos termos do Código de Processo Civil, a execução, embora se processe no interesse do credor (art. 797), deve observar a menor onerosidade ao devedor (art. 805), preceitos estes que podem e devem conviver harmoniosamente.
+- Ainda que se reconheça que o dinheiro ostenta posição de preferência sobre a fiança bancária e o seguro garantia, não se afigura razoável deixar ao credor a faculdade de recusar a substituição, quando outros meios, igualmente idôneos, possam legitimamente tomar seu lugar, evitando prejuízos ao devedor - que tem montante expressivo seus ativos imobilizados. A ordem estabelecida, portanto, não deve ser absoluta, mas relativizada de acordo com as circunstâncias do caso concreto.
+- Apresentada apólice de seguro garantia correspondente ao valor do débito acrescido de 30% e, tratando-se de devedor absolutamente solvente (instituição bancária), não há qualquer risco de, ao final, o credor não receber o seu crédito.
+AGRAVO DE INSTRUMENTO DESPROVIDO, POR MAIORIA.
+No recurso especial, o recorrente aponta violação dos arts. 9º e 11, ambos da Lei n. 6.830/1980.
+Sustenta, em síntese, que é legítima a recusa pelo exequente do seguro garantia oferecido pelo contribuinte, tendo em vista que a aludida garantia necessita observar a ordem de penhora legalmente prevista no art. 11 da Lei de Execuções Fiscais.
+Por sua vez, o contribuinte apresentou contrarrazões, momento em que pugnou pelo não conhecimento do recurso especial em decorrência das Súmulas ns. 7, do Superior Tribunal de Justiça e 283, do Supremo Tribunal Federal.
+O recurso especial foi inadmitido com base na Súmula n. 83 do Superior Tribunal de Justiça.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Primeiramente, deve-se destacar que a matéria encimada à apreciação desta Corte Superior é eminentemente jurídica, qual seja, a possibilidade de inversão da ordem legal de penhora estabelecida. Assim, resta evidente a inaplicabilidade da Súmula n. 7 do Superior Tribunal de Justiça ao caso concreto.
+Ademais, também deve ser afastada a incidência da Súmula n. 283 do Supremo Tribunal Federal, haja vista que o recorrente inegavelmente rebateu os argumentos que fundamentaram o decisum ora recorrido.
+Por outro lado, o Superior Tribunal de Justiça tem jurisprudência consolidada no sentido da possibilidade da Fazenda Pública recusar bem nomeado à penhora em desobediência à ordem legal prevista no art. 11 da Lei 6.830/1980 e no art. 835 do CPC/2015, não caracterizando tal ato, violação ao princípio da menor onerosidade constante do art. 805 do diploma adjetivo civil.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. RECUSA DA FAZENDA PÚBLICA. INOBSERVÂNCIA DA ORDEM LEGAL. POSSIBILIDADE. MATÉRIA JULGADA NESTA CORTE SOB O RITO DO ART. 543-C DO CPC/1973.
+1. Nos termos do que decidido pelo Plenário do STJ, " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. No julgamento do REsp 1.337.790/PR, submetido ao rito do art. 543-C do CPC/1973, esta Corte ratificou o entendimento de que é legítima a recusa por parte da Fazenda de bem nomeado à penhora, caso não observada a gradação legal, não havendo falar em violação do art. 620 do CPC/1973, uma vez que a Fazenda Pública pode recusar a nomeação por quaisquer das causas previstas no art. 656 do CPC/1973 ou nos arts. 11 e 15 da LEF.
+3. Agravo regimental não provido (AgRg no REsp 1581091/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 7/2/2017, DJe de 14/2/2017).
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRECATÓRIOS JUDICIAIS. RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. ORDEM DE INDICAÇÃO NÃO OBSERVADA. INEXISTÊNCIA DE EQUIVALÊNCIA COM DINHEIRO. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS.
+1. A jurisprudência do STJ firmou-se no sentido de que é legítima a recusa da Fazenda Pública de bem oferecido à penhora quando não observada a ordem prevista nos arts. 655 do CPC e 11 da Lei 6.830/80, inclusive em recurso repetitivo (art. 543-C do CPC), no julgamento do REsp 1.090.898/SP, Rel. Min. Castro Meira.
+2. A Primeira Seção do STJ, no julgamento do REsp 1.337.790/PR (Rel. Ministro HERMAN BENJAMIN, DJe de 7/10/2013), representativo da controvérsia, decidiu que é possível à Fazenda Pública recusar a nomeação à penhora de precatório judicial, quando a nomeação não observar a ordem legal, cabendo ao executado apresentar elementos concretos, que justifiquem a incidência do princípio da menor onerosidade, sendo insuficiente a mera invocação genérica do art. 620 do CPC, tal como ocorreu, in casu.
+3. O princípio da menor onerosidade do devedor, insculpido no art. 620 do CPC, tem de estar em equilíbrio com a satisfação do credor, sendo indevida sua aplicação de forma abstrata e presumida, cabendo ao executado fazer prova do efetivo prejuízo.
+Agravo interno improvido (AgInt no AREsp 898.753/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/8/2016, DJe 17/08/2016).
+
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial.
+Publique-se. Intime-se.
