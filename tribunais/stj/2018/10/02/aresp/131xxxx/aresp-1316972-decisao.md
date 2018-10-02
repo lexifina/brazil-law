@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu o recurso especial fundado no art. 105, inciso III, alínea a, da Constituição da República e proposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o agravante foi condenado a 3 anos de reclusão e 300 dias-multa pelo delito de tráfico de drogas, caracterizado pelo porte de 677g (seiscentos e setenta e sete gramas) de crack, além de uma balança de precisão.
+Ambas as partes apelaram. O Tribunal de origem, por unanimidade de votos, deu provimento ao recurso da acusação "para decotar a minorante prevista no § 4º do art. 33 da Lei 11.343/06, bem como para alterar o regime inicial de cumprimento de pena e afastar a substituição da pena corporal por restritivas de direitos, concretizando-se as reprimendas do [NOME] em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, à razão de 1/30 do salário mínimo vigente ao tempo do fato delituoso, pela condenação nas sanções do art. 33, da Lei 11.343/06" (e-STJ fl. 336), e considerou prejudicado o recurso da defesa.
+No recurso especial, a defesa alegou violação ao art. 33, § 4º, da Lei n. 11.343/2006.
+Aduziu que a quantidade de droga, por si só, não se mostra idônea para o fim de justificar o decote do redutor, mostrando-se "completamente desarrazoado punir com o mesmo rigor pessoas que não se assemelham em nenhum aspecto, no que tange a condições pessoais, somente pela quantidade de drogas" (e-STJ fl. 345).
+Asseverou não haver comprovação do envolvimento do recorrente com a prática de mercancia ilícita ou com organização criminosa.
+Pleiteou, assim, a fixação do redutor no máximo legal, com a observância da adequação do regime e da substituição da pena corporal por restritivas de direitos.
+Inadmitido o apelo extremo, subiu o recurso por meio de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 399/402).
+É, em síntese, o relatório. Decido.
+O Tribunal de origem decotou a redução da pena pelo reconhecimento do privilégio do art. 33, § 4º, da Lei de Drogas nestes termos (e-STJ fls. 333/334):
+O Parquet pede a reforma da sentença para que a minorante prevista no § 4º do art. 33 da Lei 11.343/06 seja decotada.
+Por outro lado, a Defesa pleiteia a alteração da fração de diminuição pelo reconhecimento da referida minorante para o patamar máximo de 2/3 (dois terços).
+Razão assiste o Parquet.
+ ..
+A esse respeito, o STJ tem decidido que a expressiva quantidade e a natureza do entorpecente apreendido são circunstâncias hábeis a impedir a aplicação da causa de diminuição de pena referente ao tráfico privilegiado, pelo não preenchimento do requisito legal relativo a não dedicação às atividades criminosas.
+Nesse sentido, trago à colação o seguinte julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. ELEVADA QUANTIDADE DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. RECURSO NÃO PROVIDO.
+1. Para a aplicação da minorante descrita no § 4º do art. 33 da Lei de Drogas, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas.
+2. Este Superior Tribunal tem decidido que a apreensão de grande quantidade de drogas, a depender das peculiaridades do caso concreto, é hábil a denotar a dedicação do acusado a atividades criminosas e, consequentemente, a impedir a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, porque indica maior envolvimento do agente com o mundo das drogas.
+3. Agravo regimental não provido.
+(STJ, AgRg no AREsp 1052340/SC, Sexta Turma, Ministro ROGERIO SCHIETTI CRUZ, Data do Julgamento: 04/05/2017, Data da Publicação: 11/05/2017) - Negritei.
+No caso em exame, tem-se que o Réu, apesar de tecnicamente primário (CAC - fls. 50), em razão das circunstâncias da abordagem policial, no dia dos fatos, e da quantidade de droga apreendida, dedica-se a atividades criminosas.
+Depreende-se que foram apreendidos, no total, 677g (seiscentos e setenta e sete gramas) de "cocaína", na forma do substrato "crack", acondicionados em 02 (dois) invólucros plásticos, substância de natureza lesiva e de elevado poder viciante.
+Verifica-se, das provas, que o Réu foi preso em flagrante delito no momento em que, em tese, transportava substâncias entorpecentes. Ao ser abordado teria alegado que comprou as drogas pelo valor de R$4.000,00 (quatro mil reais), na Comarca de Sabará/MG.
+Os Policiais Militares compareceram ao local onde o Réu alegou ter adquirido os entorpecentes, sendo localizado 677g de "crack", além de uma balança de precisão (Laudo Definitivo - fl. 117 e Auto de Apreensão - fl. 14).
+Dessa forma, as circunstâncias da apreensão, a quantidade de drogas, aliada a fatores concretos, demonstra a dedicação a atividades criminosas, impondo-se o decote da causa de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/06.
+Afastado o benefício previsto no art. 33, § 4º, da Lei 11.343/06, fica prejudicada a pretensão Defensiva de elevação do patamar de diminuição da pena, em razão da referida minorante, em 2/3 (dois terços). (Grifei.)
+Como se vê, o Tribunal local concluiu pelo envolvimento do recorrente em atividades ilícitas com base em elementos concretos, consistentes numa balança de precisão, na considerável quantidade de droga apreendida - 677g (seiscentos e setenta e sete gramas) de crack - e na confissão de ter desembolsado R$ 4.000,00 (quatro mil reais) para adquirir o referido entorpecente na Comarca de Sabará, circunstâncias que, de fato, não retratam a figura de um traficante incipiente e, portanto, são suficientes e idôneas para justificar a extirpação do redutor.
+Diante desse quadro, para decidir em sentido contrário, o Superior Tribunal de Justiça teria de desqualificar todo o conjunto fático e probatório, o que demandaria novo esmerilamento dele, o que é, absolutamente, vedado pelo óbice absoluto da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECONHECIMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem entendeu indevida a incidência da minorante com base não só na quantidade de droga, mas também, no fato de haverem sido apreendidos com o réu diversos petrechos encontrados na "boca de fumo", além das anotações contábeis, as quais demonstraram a movimentação da distribuição das drogas, circunstâncias essas que inviabilizam a aplicação da minorante, em razão da existência de elemento concretos que indicam a dedicação do recorrente a atividades criminosas, notadamente ao tráfico de drogas.
+2. Para acolher o pleito defensivo e fazer incidir a referida minorante, seria necessário o revolvimento do contexto fático-probatório dos autos.
+3. Agravo regimental não provido. (AgRg no AREsp 970.634/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017, grifei.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. PRIMEIRO PACIENTE. QUANTIDADE, NATUREZA E DIVERSIDADE DA DROGA UTILIZADA PARA MODULAR A FRAÇÃO DE REDUÇÃO. POSSIBILIDADE. SEGUNDO PACIENTE. INAPLICABILIDADE. RÉU QUE SE DEDICA AO TRÁFICO DE ENTORPECENTES. QUANTIA E ESPÉCIE DAS SUBSTÂNCIAS UTILIZADAS PARA EXASPERAR A PENA-BASE E PARA AFASTAR A REDUTORA. VIABILIDADE. BIS IN IDEM NÃO EVIDENCIADO. REGIME PRISIONAL. QUANTIDADE, DIVERSIDADE E NATUREZA DOS ENTORPECENTES. MODO FECHADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO OBJETIVO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. ORDEM NÃO CONHECIDA.
+ ..
+2. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art. 33, § 4º, da Lei n. 11.343/2006).
+3. Na falta de indicação pelo legislador das balizas para o quantum da redução, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do delito, podem ser utilizadas na definição de tal índice ou, até mesmo, para afastar a aplicação da minorante quando evidenciarem a habitualidade do agente no comércio ilícito de entorpecentes. Precedentes.
+ ..
+5. Concluído pelas instâncias antecedentes, com fulcro na quantia, espécie e variedade dos entorpecentes, na apreensão de balança de precisão e de folhas com anotações contábeis do comércio espúrio, assim como nos demais elementos constantes dos autos, que o paciente [NOME] se dedica ao tráfico de drogas, a alteração desse entendimento - para fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+ ..
+9. Habeas corpus não conhecido. (HC 412.887/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/02/2018, DJe 26/02/2018, grifei.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
