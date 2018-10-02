@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado pela União contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 251):
+APELAÇÃO. DIREITO CIVIL. ADMINISTRATIVO. AÇÃO DE REINTEGRAÇÃO DE POSSE. PRÓPRIO NACIONAL. MULTA INDEVIDA.PROVIMENTO.
+1 - O cerne da controvérsia gira em torno de reintegração na posse de próprio nacional ocupado por militar após a passagem para a reserva remunerada, onde se questiona a possibilidade da aplicação de multa após a perda do direito à moradia.
+2 Observada a legislação que rege a matéria, verifica-se que o réu, na condição de militar em atividade, obteve a permissão de uso de imóvel da propriedade da União Federal, na data 16/05/2008. Tal posse é legítima e precária, se qualificando como permissão de uso nos termos do Decreto-Lei nº 9.760/46, portanto, seu uso está vinculado ao serviço militar ativo, requisito fundamental para sua concessão, concluindo que o direito cessa quando da passagem do militar para a inatividade.
+3. Por sua vez, com a passagem de tempo, o réu foi dispensado da situação de designado para o serviço
+ativo da Aeronáutica, sendo excluído c desligado a partir de outubro de 2008, momento cm que cessou a
+permissão de uso do bem imóvel.
+4. Acerca da incidência da multa prevista no art. 15, inciso I, da Lei n.º 8.025/90, segundo o entendimento pacífico do Colcndo STJ, ela é devida no caso de permanência no imóvel somente após o trânsito em julgado da decisão proferida cm ação dc reintegração de posse.
+5. A própria União Federal traz aos autos a notícia de que o réu desocupou o imóvel, ao tempo em que pugna pela extinção do feito sem resolução de seu mérito, o que, entretanto, não foi acolhido pelo magistrado de primeiro grau que proferiu sentença meritória, julgando procedente o pedido e condenando o réu ao pagamento da multa já citada, além de honorários advocatícios.
+6. Sendo assim, considerando que a própria autora requereu a extinção do feito e que a multa somente poderia ser exigida após o trânsito em julgado da sentença que determinaria a reintegração de posse a favor da autora, merece provimento o apelo para que seja afastada a condenação ao pagamento da multa de que trata o artigo 15,1, "e", da Lei n. 8.025/1990.
+7. Dessa forma, forçoso concluir pela procedência do pedido recursal e, consequentemente, pela reforma parcial da sentença de primeiro grau, na forma da fundamentação supra.
+8. Apelo provido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 15, VIII, da Medida Provisória nº 2215-10. Sustenta ser devida a aplicação da multa por ocupação irregular prevista em lei que trata especificamente da remuneração dos militares das Forças Armadas. Assim, defende ter sido indevida a aplicação do entendimento do Superior Tribunal de Justiça a respeito do art. 15, I,e, da Lei 8.025/1990, a qual não abarca o caso dos autos.
+É o relatório.
+ O inconformismo não comporta êxito, pois a matéria pertinente ao art. 15, VIII, da Medida Provisória nº 2215-10 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo. Por fim, levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
