@@ -1,0 +1,36 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. AUSÊNCIA DE MEMÓRIA DE CÁLCULOS. ÔNUS DO EMBARGANTE. JUÍZO DE ADMISSIBILIDADE PROFERIDO PELO TRIBUNAL DE ORIGEM. ALEGADA USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ. ENTENDIMENTO CONSOLIDADO NESTA CORTE SUPERIOR. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DE ARACAJU/SE A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo MUNICÍPIO DE ARACAJU/SE, no qual se insurgiu contra acórdão proferido pelo egrégio TJSE, assim ementado:
+AGRAVO REGIMENTAL - NEGATIVA DE SEGUIMENTO A APELAÇÃO CÍVEL - DECISÃO RESPALDADA NO ARTIGO 557 DO CPC - EMBARGOS À EXECUÇÃO - NÃO CONHECIMENTO - AUSÊNCIA DE MEMÓRIA DOS CÁLCULOS - ÔNUS DO EMBARGANTE QUE ALEGA EXCESSO DE EXECUÇÃO - PRECEDENTES - RECURSO IMPROVIDO - DECISÃO UNÂNIME (fls. 97).
+2. A decisão que inadmitiu o Recurso Especial (fls. 126/129), entendeu que o acórdão recorrido está em conformidade com a jurisprudência do Superior Tribunal de Justiça de que é necessária a apresentação da memória de cálculo nos embargos de execução, sob pena de rejeição, bem como de inviabilidade da emenda à inicial (fls. 127). Asseverou, ainda, que a Súmula 83/STJ aplica-se também ao Recurso Especial interposto pela alínea a.
+3. Em suas razões recursais, o agravante limitou-se a defender que não cabe, em juízo de admissibilidade, adentrar nas razões de mérito do Recurso Especial, bem como que a Súmula 83/STJ incide ao Apelo Nobre fundado na alínea c, o que não é o caso do autos.
+4. É o relatório.
+5. O recurso não merece prosperar.
+6. Com efeito, conforme a jurisprudência desta Corte, não há usurpação da competência do Superior Tribunal de Justiça quando o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, analisa os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO PARCIAL DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. ANÁLISE DO MÉRITO RECURSAL, EM JUÍZO DE ADMISSIBILIDADE. POSSIBILIDADE. SÚMULA 123 DO STJ. ACÓRDÃO RECORRIDO QUE AFASTA QUALQUER NULIDADE NA CDA. REVISÃO. IMPOSSIBILIDADE. SUMULA 7 DO STJ.
+(..).
+IV. Em conformidade com a jurisprudência deste Tribunal, "é possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia" (STJ, AgRg no Ag 228.787/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, DJU de 04/09/2000). Nesse sentido, aliás, é o enunciado sumular 123/STJ: A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais.
+V. Quanto à alegada inaplicabilidade da Súmula 7 do STJ, não merece reforma o decisum ora agravado, pois o Tribunal a quo, soberano na análise dos fatos e das provas da causa, assentou, expressa, clara e objetivamente, que a existência na CDA de todos os requisitos legais faz manter a presunção da liquidez e certeza do título executivo, não se sustentando, por consequência, a alegada nulidade do mesmo. Com efeito, para chegar a tal conclusão o Tribunal de origem analisou todo o conteúdo fático-probatório dos autos, pelo que a modificação do julgado implicaria, necessariamente, o reexame desse contexto probatório.
+VI. Agravo Regimental parcialmente conhecido e, nessa parte, não provido (AgRg no AREsp. 478.722/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 15.9.2015).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. TRIBUNAL DE ORIGEM. EXAME DE MÉRITO. POSSIBILIDADE. SÚMULA 123/STJ. FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNADO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ.
+1. Não há usurpação da competência do Superior Tribunal de Justiça quando o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, analisa os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, conforme o disposto na Súmula 123/STJ. Precedentes.
+2. No presente caso, o Tribunal de origem inadmitiu o recurso especial com base nas Súmulas 7/STJ e 83/STJ. Por seu turno, nas razões do agravo, a parte agravante limitou-se a alegar que o Tribunal de origem não poderia adentrar no mérito recursal. Assim, não foram impugnados precisamente os fundamentos utilizados pela Corte de origem para não admitir o recurso especial. Incidência, por analogia, da Súmula 182/STJ.
+(..).
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 295.224/CE, Rel. Min. SÉRGIO KUKINA, DJe 13.5.2013).
+7. Também é pacífico o entendimento nesta Corte Superior de que a Súmula 83/STJ é aplicável ao Recuso Especial interposto com fundamento na alínea a do permissivo constitucional. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SÚMULA 83 DO STJ. IMPUGNAÇÃO. DEFICIÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A rejeição do recurso especial com base na Súmula 83 do STJ exige da parte, nas razões do agravo, o ônus de indicar precedentes contemporâneos ou supervenientes aos referidos no decisum agravado com o fito de demonstrar ser diversa a orientação jurisprudencial do STJ, o que não aconteceu na espécie.
+3. Pacificado o entendimento de que aquele verbete é aplicável tanto pela alínea a quanto pela c do permissivo constitucional.
+4. Agravo interno desprovido (AgInt no AREsp. 648.333/ES, Rel. Min. GURGEL DE FARIA, DJe 17.5.2018).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a agravante não infirma especificamente a incidência do óbice da Súmula 83/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+4. É firme a jurisprudência desta Corte de que a Súmula 83/STJ não se aplica apenas aos recursos especiais interpostos com fundamento na alínea c do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea a (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 30/8/2016).
+5. Agravo interno a que se nega provimento (AgInt no AREsp. 882.405/SP, Rel. Min. OG FERNANDES, DJe 25.5.2018).
+8. Diante dessas considerações, nega-se provimento ao Agravo em Recurso Especial do MUNICÍPIO DE ARACAJU/SE.
+9. Publique-se.
+10. Intimações necessárias.
