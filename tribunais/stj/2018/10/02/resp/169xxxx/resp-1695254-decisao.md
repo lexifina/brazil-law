@@ -1,0 +1,23 @@
+DECISÃO
+O presente feito decorre de ação ajuizada por ADMINISTRADORA AUGUSTA LTDA. E OUTROS em desfavor do Município de Guarulhos, objetivando anulação de lançamentos tributários de IPTU dos exercício de 2010 a 2013, bem como a repetição do indébito.
+Na primeira instância, os pedidos formulados na inicial foram julgados procedentes. No Tribunal de Justiça do Estado de São Paulo, a sentença foi reformada em acórdão assim ementado:
+APELAÇÃO - IPTU - Exercício de 2010 a 2013 - Terrenos não edificados - Lançamento válido - Alíquotas diferenciadas em função da localização do imóvel e de seu valor venal - Hipótese de seletividade - Critérios admitidos pela EC 29 - Possibilidade - Incidente de inconstitucionalidade n. 185.741-0/2 restrito à imóveis residenciais, cuja progressividade decorre do fato do bem ser atendido ou não pelos serviços de coleta de lixo e/ou iluminação pública.
+RECURSO PROVIDO
+Administradora Augusta Ltda. e outros interpuseram recurso especial com fundamento na alínea a do inciso III do art. 105 da Constituição Federal por ofensa aos arts. 489, § 1º, IV, 1.013, § 2º, e 1.022, parágrafo único, II, do CPC/2015.
+A parte alega que o Tribunal de origem foi omisso sobre sua alegação de que os lançamentos são nulos em decorrência da ausência de publicação da planta genérica de valores, "o que invalida a cobrança de todos os IPTUs que tiveram como base a Lei n. 5.753/2001, sejam eles incidentes sobre imóveis residenciais, comerciais, industriais e terrenos vagos" (fl. 476).
+Apresentadas contrarrazões, a parte recorrida requer o desprovimento do recurso especial.
+É o relatório. Decido.
+Assiste razão à parte recorrente, no que toca à alegada violação ao art. 1.022, II, do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, de que a ausência de publicação da planta genérica de valores invalida a cobrança de todos os IPTUs que tiveram como base a Lei municipal n. 5.753/2001. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
