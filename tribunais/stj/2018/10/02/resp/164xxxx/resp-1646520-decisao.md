@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pela FAZENDA NACIONAL, na vigência do CPC/73, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"DIREITO TRIBUTÁRIO - TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO: INEXISTÊNCIA DO PAGAMENTO - INDISPONIBILIDADE DO CRÉDITO PÚBLICO: NECESSIDADE DA ADOÇÃO DO LANÇAMENTO DE OFÍCIO - TERMO INICIAL DO PRAZO DE DECADÊNCIA: "PRIMEIRO DIA DO EXERCÍCIO SEGUINTE ÀQUELE EM QUE O LANÇAMENTO PODERIA TER SIDO EFETUADO" (ARTIGO 173, I, DO CTN) - PRAZO DE DECADÊNCIA: 5 ANOS - SÚMULA VINCULANTE Nº 8, DO STF - INÉRCIA DA ADMINISTRAÇÃO TRIBUTÁRIA: CONSUMAÇÃO DA DECADÊNCIA - INEFICÁCIA DE AÇÃO JUDICIAL, AINDA QUE APARELHADA COM TUTELA ANTECIPADA OU MEDIDA LIMINAR, COMO CAUSA SUSPENSIVA OU INTERRUPTIVA DA DECADÊNCIA: TEMA CONSOLIDADO NA 1ª SEÇÃO DO STJ: ERESP 572603/PR, REL. MINISTRO CASTRO MEIRA" (fl. 203e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - ALEGAÇÃO DE VÍCIO: INEXISTÊNCIA - CARÁTER INFRINGENTE: IMPOSSIBILIDADE - PREQUESTIONAMENTO - REJEIÇÃO.
+1. O Poder Judiciário, pela iniciativa das partes, está vinculado a decidir a lide, em regra, nos termos do pedido. Mas a decisão fica sujeita a qualquer fundamento jurídico.
+2. Na solução da causa, a adoção de fundamento jurídico diverso do exposto pela parte não é omissão. É divergência de intelecção na solução da lide, circunstância desqualificadora da interposição de embargos de declaração.
+3. A Constituição Federal não fez opção estilística, na imposição do requisito da fundamentação das decisões. Esta pode ser laudatória ou sucinta. Deve ser, tão-só, pertinente e suficiente.
+4. Nos embargos de declaração é incabível o reexame do mérito da decisão.
+5. Os requisitos previstos no artigo 535, do Código de Processo Civil, devem ser observados nos embargos de declaração destinados ao prequestionamento.
+6. Embargos rejeitados" (fl. 228e).
+Alega-se, nas razões do Recurso Especial, violação ao art. 535, II, do CPC/73. Para tanto, sustenta, in verbis:
+"A Recorrente apresentou Embargos de Declaração fundamentado no artigo 535, inciso II, do Código de Processo Civil, consignando que:
+a) NÃO houve oportunidade prévia para que a União se manifestasse acerca do tema da decadência, analisado tão-somente por ocasião do julgamento da apelação do embargante;
+b) Após a constituição do crédito por meio da lavratura de auto de infração, houve IMPUGNACÃO ADMINISTRATIVA E, POSTERIORMENTE, RECURSO VOLUNTÁRIO E RECURSO ESPECIAL, este último perante a Câmara Superior de Recursos Fiscais, os quais determinaram a suspensão da exigibilidade do crédito, nos termos do art. 151, III, CTN, sendo de rigor o afastamento da tese de ocorrência da decadência" (fl. 232e).
+Sustenta, ainda, violação aos arts. 173, I, 151, 111, 174, caput, todos do Código Tributário Nacional, e 333, I, do CPC/73.
+Requer, ao final, "a admissão do presente Recurso Especial e, após seu processamento regular, o provimento da pretensão recursal perante o Colendo Superior Tribunal de Justiça de modo a anular ou a reformar o v. acórdão recorrido" (fl. 237e).
+Foram apresentadas contrarrazões (fls. 242/264e).
+A irresignação merece acolhimento.
+Dessarte, a Fazenda Nacional, ora recorrente, sustentou, nos Embargos de Declaração:
+"Na hipótese dos autos, os tributos em cobrança referem-se a fatos geradores ocorridos nos anos de 1994 a 1998, segundo consta da Certidão de Dívida Ativa.
+Ainda segundo a CDA, os débitos em questão referem-se ao processo administrativo nº [CEP].663/2006-34, no qual teria sido expedida notificação ao contribuinte somente em 21/08/2006, o que motivou o reconhecimento da decadência pelo v. acórdão, pois, em tese, teria sido ultrapassado o prazo previsto no art. 173,1, CTN.
+Todavia, conforme demonstrativo acostado à presente (doc. 01), o processo administrativo nº [CEP].663/2006-34 refere-se a Auto de Infração cuja ciência de lançamento, endereçada ao contribuinte, ocorreu em 11/12/1998, dentro do prazo legal, portanto.
+Referido Auto de Infração era objeto, originalmente, do processo administrativo nº [CEP].400/98-85. conforme doc. 02, ora juntado.
+O que ocorreu foi que, após a ciência do interessado acerca da lavratura do Auto de Infração, este OFERECEU IMPUGNACÃO ADMINISTRATIVA E, POSTERIORMENTE, RECURSO VOLUNTÁRIO E RECURSO ESPECIAL, este último perante a Câmara Superior de Recursos Fiscais. OS QUAIS FORAM REJEITADOS, PARA MANTER-SE O LANÇAMENTO FISCAL (vide consulta - doc. 03).
+Outrossim, constata-se que, a partir da lavratura do Auto de Infração. O CRÉDITO TRIBUTÁRIO ESTEVE COM SUA EXIGIBILIDADE SUSPENSA. NOS TERMOS DO ART. 151, III, CTN, O QUE IMPEDIA SUA COBRANÇA PELO FISCO.
+A movimentação do processo administrativo nº [CEP].400/98-85 demonstra seu trâmite perante as instâncias recursais no âmbito da Administração Pública, tudo a comprovar que o lançamento, feito de forma tempestiva, foi impugnado pelo contribuinte e manteve-se com sua exigibilidade suspensa até decisão final.
+Assim, não obstante a data aposta na CDA seja referente à notificação do contribuinte acerca da cessação da causa de suspensão da exigibilidade do crédito, demonstra-se que a data do lançamento previsto pelo art. 173, I, CTN, foi muito ANTERIOR, qual seja, 11/12/98 (doc. 01).
+Por outro lado, considerando a data em que cessou a suspensão da exigibilidade do crédito (21/08/2006), e a data do ajuizamento da execução fiscal (30/03/2007 - doc. 05), constata-se não ter ocorrido tampouco a prescrição, a teor do que reza o art. 174, caput, CTN. Não obstante a suspensão da exigibilidade do crédito (art. 151, III, CTN) e o lançamento tempestivo, em conformidade ao art. 173, I, CTN, fato é que o v. acórdão reconheceu a decadência, sem oferecer oportunidade para que a União se manifestasse acerca de sua inocorrência e sem apreciar a questão relativa ao oferecimento de recursos na esfera administrativa pelo embargante" (fls. 208/209e).
+Imprescindível, portanto, que a Corte de origem se pronuncie acerca da questão controversa, sob pena de negativa de prestação jurisdicional e violação ao art. 535, II, do CPC/73.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, para anular o acórdão proferido no julgamento dos Embargos de Declaração, e, como consequência, devolver os autos ao Tribunal de origem, a fim de que seja proferido novo julgamento, suprindo a omissão apontada.
+I.
