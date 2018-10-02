@@ -1,0 +1,48 @@
+DECISÃO
+LILIAN REGINA COSTA FERREIRA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0001134-88.2012.8.26.0601.
+Nas razões do recurso especial, a defesa aponta violação dos arts. 14 e 15 da Lei n. 10.826/2003 e da Súmula n. 17 do STJ. Sustenta a aplicabilidade do princípio da consunção, uma vez que "não houve qualquer potencialidade ofensiva quando do porte de arma, sendo este crime (art. 14) absorvido pelo disparo subsequente (art. 15)" (fl. 444).
+Requer, dessa forma, o provimento do recurso para "correção da sentença de 1ª instância, dando exata aplicação ao disposto nos citados artigos de lei" (fl. 445).
+A Corte local não admitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 495-502).
+Decido.
+I. Admissibilidade
+Verifico que o agravo preencheu os requisitos de admissibilidade, razão pela qual deve ser conhecido. Quanto ao recurso especial, observo que comporta conhecimento parcial.
+Com efeito, nos termos da Súmula n. 518 do STJ, "para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula". Desse modo, este recurso não pode ser conhecido quanto à suposta contrariedade à Súmula n. 17 do STJ.
+Assim, o recurso especial é admitido em parte.
+II. Contextualização
+A ora agravante foi condenada, em primeira instância, à pena de 4 anos de reclusão, em regime inicial aberto, e 20 dias-multa, pela prática dos delitos previstos nos arts. 14 e 15, ambos da Lei n. 10.826/2003.
+Relativamente à absorção do crime de porte de arma de fogo pelo de disparo efetuado, o Juízo sentenciante consignou que (fls. 358-359, grifei):
+Outrossim, não há se falar em consunção.
+Se não se considerasse o retorno dos acusados ao local do disparo, agora, na condução de um carro, e não mais de uma moto, a portar a acusada a mesma arma de fogo, só que, porém, desta vez, exibindo-a a pessoa diversa de [NOME], poder-se-ia, em tese, sustentar a absorção do crime meio (porte de arma) pelo que lhe sucedeu (disparo de arma), cuja ultimação implica, indissociavelmente, a prática daquele, por lhe constituir instrumento necessário.
+Ocorre que, uma vez consumado o disparo, o que se seguiu não foi o mero retorno dos agentes às suas residências, lapso no qual se consideraria o porte da arma verdadeiro post factum impunível porque necessário à retomada do status quo ante mediante o depósito da arma no seu local de origem, ou, ainda, em qualquer outro, com ânimo definitivo.
+O que restou demonstrado nos autos é que, decorridos aproximadamente quarenta minutos do disparo, os acusados retornaram ao local imbuídos de novo motivo, na condução de outro veículo e exibindo o artefato a pessoa diversa da de [NOME], João e Adilson.
+De fato, as testemunhas ouvidas deram conta de que na condução de um veículo Uno, seguramente para não serem identificados, os acusados retornaram ao Posto Portal indagando quem teria ido à delegacia de polícia ser testemunha de [NOME], sendo que a acusada desceu do carro com a arma em punho, o que gerou temor na testemunha Botacin, conforme ela mesma admite em seu interrogatório, embora queira fazer crer que voltara para indagar acerca da origem da arma.
+Nesta senda não há se falar em consunção do crime de porte pela de disparo, quer pelas novas circunstâncias a inovarem o contexto, quer pelo razoável lapso de tempo decorrido, tudo a revelar se tratar de crimes autônomos sem nexo de dependência, mormente se considerado que ao crime de disparo é que se seguiu o novo crime de porte, não o inverso.
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo, sob a seguinte motivação (fls. 436-437, destaquei):
+Não há que falar-se em absorção do delito de porte de arma (art. 14 da Lei 10.826) pelo de disparo em via pública (artigo 15), uma vez que a responsabilidade dos sentenciados decorreu da prática das condutas núcleos dos respectivos tipos penais em momentos distintos: a conduta de disparo (num primeiro momento absorvendo, naturalmente, o porte da arma com a qual foi efetuado o disparo), e a conduta de porte em momento posterior, quando já estava exaurida a conduta anterior de disparo.
+Parece evidente que, conquanto o porte da arma no momento do disparo constitua irrelevante penal (posto que, obviamente, não se pode disparar arma de fogo sem portá-la ou possuí-la), o ato de dispará-la não confere ao agente que violou a lei penal o direito de permanecer impunemente na posse da arma, portando-a em via pública, posto que o legislador brasileiro, com a edição das Leis 9.437/97 e 10.826/03, proclamou o entendimento de que essas condutas reduzem a níveis insuportáveis o nível de "segurança coletiva" que almeja a sociedade brasileira.
+É certo, pois, que LILIAN, que confessou amplamente a prática das condutas a ela imputadas com a denúncia, violou duas leis penais em momentos distintos, disparando arma de fogo e mantendo a arma em seu poder de modo a tornar possível a realização de novos disparos, violando de maneiras distintas o bem jurídico protegido pelos respectivos tipos penais, é dizer, a "segurança coletiva".
+De ser afastado, assim, o pleito de afastamento do material de crimes formulado pela defesa da sentenciada LILIAN.
+Feito esse registro, examino a tese defensiva.
+III. Princípio da consunção
+Segundo o princípio da consunção, quando uma infração penal constituir, unicamente, ato preparatório, meio necessário ou fase da execução de outro fato descrito por norma mais ampla (crime-fim), o agente só responderá pelo delito mais grave e ficará o crime-meio por ele absorvido.
+Isso significa que "A aplicação do princípio da consunção pressupõe, necessariamente, a análise de existência de um nexo de dependência das condutas ilícitas, para que se verifique a possibilidade de absorção daquela menos grave pela mais danosa, sendo, por isso mesmo, inviável a sua aplicação automática, em desconsideração às circunstâncias fáticas do caso concreto." (HC n. 104.455/ES, Rel. Ministro Og Fernandes, 6ª T., DJe 16/11/2010).
+Sobre a matéria posta em discussão, registro que a jurisprudência deste Superior Tribunal entende ser possível o reconhecimento do princípio da consunção entre os crimes de porte ilegal e de disparo de arma de fogo, desde que "ocorridos no mesmo contexto fático quando presente nexo de dependência entre as condutas, considerando-se o porte crime-meio para a execução do disparo de arma de fogo" (AgRg no AREsp n. 1.211.409/MS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 21/5/2018, grifei).
+No mesmo sentido:
+ ..
+1. Esta Corte Superior entende que a absorção do delito de porte de arma pelo de disparo não é automática, pois depende do contexto fático do caso concreto em que se deram as condutas. Não ficou caraterizada a hipótese de aplicação do princípio da consunção, na espécie, porque os momentos consumativos dos delitos ocorreram em situações diversas, em contextos destacados.
+2. As conclusões das instâncias ordinárias foram pautadas na análise acurada do conjunto fático-probatório, sendo que a revisão de tais entendimentos, in casu, implicaria o reexame de prova, providência inviável na presente via recursal, ante o óbice da Súmula 7, do STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.347.003/SC, Rel. Ministro Moura Ribeiro, 5ª T., DJe 3/2/2014, destaquei)
+Pela leitura dos excertos anteriormente transcritos, verifico que as instâncias ordinárias concluíram, de forma motivada e com base na livre apreciação da prova produzida em contraditório judicial, que os momentos consumativos dos crimes foram diversos. Nesse cenário, não há falar em incidência do princípio da consunção, e desconstituir tal entendimento demandaria imprescindível revolvimento do acervo fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor do enunciado sumular n. 7 deste Superior Tribunal de Justiça. Ilustrativamente:
+ ..
+2. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que não se aplica o princípio da consunção quando os delitos de posse ilegal de arma de fogo e disparo de arma em via pública são praticados em momentos diversos, em contexto distintos.
+3. As instâncias ordinárias reconheceram que os crimes foram praticados em contextos fáticos diversos, não se aplicando, portanto, o referido postulado. Assim sendo, é inviável a revisão da referida conclusão em recurso especial, em razão de a pretensão esbarrar no óbice prescrito pela Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 754.716/PR, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 19/12/2017, grifei)
+IV. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+V. Dispositivo
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação, para a imediata execução da pena imposta, caso o agente não a esteja cumprindo atualmente.
+Publique-se e intimem-se.
