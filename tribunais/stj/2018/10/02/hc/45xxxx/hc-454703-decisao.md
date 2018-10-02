@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JULIO CESAR OLIVEIRA DA [NOME], apontando, como autoridade coatora, o Tribunal de Justiça de Pernambuco.
+Consta dos autos que o Juízo das Execuções proferiu sentença, declarando extinta a execução da pena, em virtude de seu integral cumprimento (fl. 05).
+Irresignado, o Parquet estadual interpôs Agravo em Execução Penal, pretendendo a reforma da decisão do Juízo singular, ao argumento de que o ora paciente preencheu os requisitos exigidos para a concessão do indulto previsto no Decreto Presidencial n.º 8.172/2013, o qual, no seu entender, seria mais benéfico ao réu do que o reconhecimento da extinção da execução da pena.
+O Tribunal de origem, contudo, negou provimento ao recurso, por entender que existe vedação constitucional à concessão do benefício de indulto, àqueles que cometeram crimes de tráfico de entorpecentes, como na hipótese vertente e, com isso, manteve integralmente o decisum proferido pelo Juízo das Execuções Penais.
+No presente, a Defensoria Pública com suporte nos mesmos fundamentos lançados pelo Ministério Público no seu Agravo em Execução Penal (fls. 08/09), requer que se conceda a ordem de HABEAS CORPUS, para que seja reformado o acórdão que confirmou a sentença de Grau, SUBSTITUINDO A EXTINÇÃO DA EXECUÇÃO POR SEU CUMPRIMENTO, PELA DECRETAÇÃO DO INDULTO (fl. 04).
+A liminar foi indeferida (fl. 54).
+As informações foram prestadas às fls. 61-67.
+O Ministério Público Federal ofertou parecer, às fls. 69-73, pela denegação da ordem.
+É o relatório.
+DECIDO.
+Consta dos autos que o Juízo das Execuções proferiu sentença, nos seguintes termos (fl. 05):
+Trata-se de EXTINÇÃO DA EXECUÇÃO DA PENA, pelo integral cumprimento da pena, em favor de JÚLIO CÉSAR OLIVEIRA DA [NOME], filho de [NOME] e de [NOME], atualmente recolhido no Presídio de Igarassu, condenado a 05 anos de reclusão, pela 2a Vara de Entorpecentes da Capital/PE, nos autos do processo nº 57874-09.2011.8.17.0001.
+DECIDO:
+1. De acordo com as informações e os assentamentos carcerários acostados aos autos, o iniciou o cumprimento da presente execução em 28/09/2011; evadiu-se em 30/05/2012; preso em 23/10/2012;
+2. Desse modo, cumpriu integralmente a pena que lhe foi imposta em 19/02/2017.
+Isto posto, declaro extinta a execução da pena, pelo seu integral cumprimento, com base no art. 685, do Código de Processo Penal e art.109, da Lei Federal nº 7.210/84.
+Tome à Secretaria as providências necessárias para o fiel cumprimento desta decisão, inclusive remetendo cópia desta ao Instituto Tavares Buril e Delegacia de Capturas da Capital.
+Expeça-se alvará de soltura.
+
+O Tribunal de Justiça de Pernambuco, por sua vez, manteve a decisão proferida pelo Juízo monocrático em decisão assim fundamentada (fls. 38/39):
+O Agravante se insurge contra decisão do Juiz da Vara de Execução Penal da Capital, que extinguiu, por seu integral cumprimento, a pena que cumpria o Agravado no Processo n. 2013.0184.22S4 (fl. 02).
+Inconformado, o Ministério Público interpôs o presente agravo, argumentando que, preenchidos os requisitos objetivos e subjetivos exigidos no decreto presidencial, a pena deveria ser extinta pela concessão de indulto e não pelo integral cumprimento da reprimenda, por ser o primeiro mais benéfico ao condenado, à medida que fixa o dia 25.12.2013 como data-base para o cômputo da reincidência e de eventual reabilitação criminai (fl. 06).
+Na mesma linha aduz a Defensoria Pública (fls. 08/10), em suas contrarrazões, que o Juiz de Execuções deve agir de ofício de modo que não depende de impulso das partes para conceder benefícios.
+Contudo, a condenação imposta ao Agravante decorre da prática de crime tipificado no art. 33 da Lei n. 11.343/06, insusceptível de indulto, nos termos do art. 2º da Lei n. 8.072/1990, in verbis:
+Art. 2º Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o :errorismo são insuscetíveis de:
+I - anistia, graça e indulto; (..).
+Igual vedação decorre do próprio Decreto Presidencial n. 8.172/20:
+Art. 9º O disposto neste Decreto não alcança as pessoas condenadas:
+(..) II - por crime de tráfico ilícito de droga, nos termos do caput e § 1º do art. 33 e dos arts. 34 a 37 da Lei nº 11.343, de 23 de agosto de 2006;
+III - por crime hediondo praticado após a publicação das Lei nº 8.072, de 25 de julho de 1990; nº 8.930, de 6 de setembro de 1994; n.º 9.695, de 20 de agosto de 1998; nº 11.464, de 28 de março de 2007; e nº 12.015, de 7 de agosto de 2009, observadas, ainda, as alterações posteriores (..)
+Desse modo, o benefício pretendido encontra óbices intransponíveis nos dispositivos legais supramencionados, sendo inconstitucional a sua concessão ao condenado por crime hediondo, como decidiu o Pleno do Supremo Tribunal Federal:
+AÇÃO DIRETA DE INCONSTITUCIONAL!DADE. DECRETO FEDERAL INDULTO. LIMITES. CONDENADOS PELOS CRIMES PREVISTOS NO INCISO XLIII DO ARTIGO 5º DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE. INTERPRETAÇÃO CONFORME. REFERENDO DE MEDIDA LIMINAR DEFERIDA. 1. A concessão de indulto aos condenados a penas privativas de liberdade insere-se no exercício do poder discricionário do Presidente da República, limitado à vedação prevista no inciso XLIII do artigo 5º da Carta da República. A outorga do benefício, precedido das cautelas devidas, não pode ser obstado por hipotética alegação de ameaça à segurança social, que tem como parâmetro simplesmente o montante da pena aplicada. 2. Revela-se inconstitucional a possibilidade de "que o indulto seja concedido aos condenados por crimes hediondos, de tortura, terrorismo ou tráfico ilícito de entorpecentes e drogas afins, independentemente do lapso temporal da condenação. Interpretação conforme a Constituição dada ao § 2º do artigo do Decreto 4495/02 para fixar os limites de sua aplicação, assegurando-se legitimidade à indulgência principis. Referendada a cautelar deferida pelo Ministro Vice-Presidente no período de férias forenses. (STF: ADI 2795 MC, Relator: Min. Maurício Corrêa, Tribunal Pleno, Dj 20/06/2003).
+Com essas ponderações, voto pelo desprovimento do agravo.
+Acerca da impossibilidade de concessão do indulto aos apenados pela prática do delito de tráfico de entorpecentes, colhe-se o seguinte precedente oriundo da Corte Suprema, in verbis:
+Habeas corpus. 2. Tráfico e associação para o tráfico ilícito de entorpecentes (arts. 33 e 35 da Lei 11.343/2006). Condenação. Execução penal. 3. Sentenciada com deficiência visual. Pedido de concessão de indulto humanitário, com fundamento no art. 1º, inciso VII, alínea a, do Decreto Presidencial n. 6.706/2008. 4. O Supremo Tribunal Federal já declarou a inconstitucionalidade da concessão de indulto a condenado por tráfico de drogas, independentemente da quantidade da pena imposta  ADI n. 2.795 (MC), Rel. Min. Maurício Corrêa, Pleno, DJ 20.6.2003 . 5. Vedação constitucional (art. 5º, inciso XLIII, da CF) e legal (art. 8º, inciso I, do Decreto n. 6.706/2008) à concessão do benefício. 6. Ausência de constrangimento ilegal. Ordem denegada.
+(HC 118213, Relator(a): Min. GILMAR MENDES, Segunda Turma, julgado em 06/05/2014, PROCESSO ELETRÔNICO DJe-149 DIVULG 01-08-2014 PUBLIC 04-08-2014)
+No mesmo sentido são os precedentes deste Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. CONDENADA POR TRÁFICO DE DROGAS. VEDAÇÃO CONSTITUCIONAL. DECRETO PRESIDENCIAL DO DIA DAS MÃES (DECRETO N. 14.454/2017). INCIDÊNCIA. TRÁFICO PRIVILEGIADO.
+1. O art. 5º, XLIII da Constituição Federal não mencione, expressamente, a impossibilidade de concessão de indulto aos condenados pela prática do crime de tráfico de drogas, esse benefício, por ser uma espécie do gênero "graça" (que nada mais é do que um indulto individual), está abrangido pela vedação constitucional. Por conseguinte, uma vez que há vedação expressa no texto constitucional, não pode um decreto prever a possibilidade de concessão de tal benefício aos agentes condenados pelo cometimento de tal delito (HC n. 411.328/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 9/10/2017).
+ ..
+4. Agravo regimental improvido " (AgRg no HC 423.047/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018)
+"EXECUÇÃO PENAL. HABEAS CORPUS. INDULTO DA PENA DE MULTA. APENADA CONDENADA POR TRÁFICO ILÍCITO DE ENTORPECENTES. CRIME EQUIPARADO A HEDIONDO. VEDAÇÃO LEGAL PREVISTA NA CONSTITUIÇÃO FEDERAL E NO DECRETO N. 7.046/09 (ART. 8º, INCS. I E II). CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Inviável a concessão de indulto da pena de multa aos condenados por delitos equiparados a hediondo, sobretudo àqueles condenados por tráfico ilícito de drogas, como no caso, por expressa vedação do Decreto n. 7.046/09 (art. 8º, incs. I e II) e também por expressa vedação constitucional.
+3. Habeas corpus não conhecido" (HC 249.333/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/10/2016, DJe 28/10/2016).
+Além disso, ainda que fosse possível a concessão da benesse ora requestada - o que, com suporte nos fundamentos lançados acima, constata-se não o ser -, oportuno destacar a ocorrência da preclusão do pleito de concessão do indulto no caso vertente, na medida em que tal instituto processual penal somente seria cabível enquanto pendente a execução penal. Extinta, em definitivo, a execução da reprimenda imposta ao paciente, não se mostra viável a pretensão ora deduzida.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
