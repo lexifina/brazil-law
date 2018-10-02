@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por CASTELBLANCO EMPREENDIMENTOS IMOBILIARIOS S.A e OUTRA, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1242, e-STJ):
+COMPROMISSO DE COMPRA E VENDA. Ação declaratória c.c. indenização por danos materiais e morais. Preliminar de prescrição afastada. Incidência do prazo de 10 anos do art. 205 do CC. Mérito. Prazo de conclusão da obra e de entrega do imóvel ao adquirente não respeitado. Fatos alegados pelas rés para justificar o atraso da obra que não representam fortuito externo ou força maior. Atraso decorrente de fortuito interno (Súmula nº 161 do TJSP). Validade do prazo de tolerância de 180 dias para o término do empreendimento (Súmula nº 164 do TJSP). Mora das promitentes vendedoras configurada e que se estende até a data da efetiva entrega das chaves do imóvel ao adquirente, ainda que expedido o "habite-se" em data anterior (Súmula nº 160 do TJSP). Inadmissibilidade da reversão da multa e dos juros previstos no contrato para o caso de mora do adquirente (Súmula nº 159 do TJSP). Devida indenização correspondente às despesas do autor com aluguel, condomínio e imposto predial no período de atraso. Dano moral configurado. Arbitramento da indenização em R$ 15.000,00, considerando a norma do art. 944 caput do CC, as circunstâncias do caso concreto e os princípios da proporcionalidade e da razoabilidade. Sucumbência recíproca preservada.
+RECURSOS PARCIALMENTE PROVIDOS.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial (fls. 1307/1319, e-STJ), as recorrentes sustentam "a concessão de indenização por dano moral em virtude de mero descumprimento contratual encontra-se em desacordo com o entendimento majoritário exposto nos diversos Tribunais Estaduais, bem como neste E. Tribunal Superior, bem como fere o disposto nos artigos 170, 421 e 422, do Código Civil, além dos princípios".
+Em sede de juízo provisório de admissibilidade, o Tribunal local admitiu o recurso especial, ascendendo os autos a esta Corte (fls. 13861388, e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, destaca-se que, quanto aos danos suportados pelo promitente comprador, a jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico. Nesse sentido: AgRg no REsp 1408540/MA, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe de 19/02/2015.
+Todavia, no caso dos autos, o Tribunal de origem consignou expressamente estar comprovada a presença dos requisitos necessários à responsabilização das insurgentes.
+Com efeito, na hipótese dos autos, o Tribunal de origem, com base nos elementos fático-probatórios acostados aos autos, asseverou que houve a demonstração da ocorrência de danos morais indenizáveis, asseverando, in verbis:
+O atraso injustificado na conclusão da obra não pode ser equiparado a mero aborrecimento, notadamente considerando o vultoso investimento realizado pelo autor, implicando em abalo emocional e insegurança para o adquirente. Tal entendimento está em consonância com a jurisprudência desta C. Câmara (Apelação nº 4010712-84.2013.8.26.0564, Rei. Des. Donegá Morandini, j. 16/09/2014; Apelação n 0179903-40.2010.8.26.0100, Rei. Des. Egídio Giacoia, j. 16/09/2014) e do E. Superior Tribunal de Justiça (AgRg no AREsp 168.231 /RJ, Rei. Ministro Luis Felipe Salomão, 4a Turma, j. 05/08/2014, DJe 12/08/2014) consolidada em casos análogos.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO DE ALUGUERES DO IMÓVEL.
+CABIMENTO. PREJUÍZO PRESUMIDO. DANO MORAL. CABIMENTO. DIGNIDADE DO CONSUMIDOR ATINGIDA. MONTANTE. RAZOABILIDADE. RECURSO NÃO PROVIDO.
+1. O col. Tribunal de origem, com base no substrato probatório dos autos, afastou a excludentes de responsabilidade e concluiu pelo dever de indenização dos alugueres pelo tempo de atraso na entrega da obra. 2. O acórdão recorrido decidiu em sintonia com a jurisprudência do STJ no sentido de que, havendo atraso na entrega das chaves do imóvel objeto de contrato de compra e venda, é devido o pagamento de lucros cessantes durante o período de mora do vendedor, sendo presumido o prejuízo do promitente-comprador.
+Precedentes.
+3 Analisando o acervo fático-probatório dos autos, o Tribunal a quo concluiu que o atraso na entrega da obra ultrapassou a esfera do mero dissabor diário, sendo atingida a dignidade do consumidor que ensejou a reparação a título de danos morais, no valor de dez mil reais. Esse montante atende aos princípios da proporcionalidade, da razoabilidade, bem como às peculiaridades do presente caso.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1140098/BA, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+AGRAVO INTERNO EM EMBARGOS DECLARATÓRIOS EM AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO. DANO MORAL E MATERIAL. AFASTAMENTO NA ORIGEM. DILAÇÃO DO PRAZO PERMITIDA. CLÁUSULA CONTRATUAL. REVISÃO. IMPOSSIBILIDADE.
+SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO DO RECURSO.
+1.Inviável a análise do recurso quando dependente de reexame de matéria fática da lide, inclusive o contrato celebrado entre as partes (Súmulas n. 5 e 7 do STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 626.895/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL AOS PROMITENTES COMPRADORES. ART. 535, II, DO CPC. INEXISTÊNCIA DE OMISSÕES. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REVISÃO DO QUANTUM INDENIZATÓRIO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação art. 535, I e II, do CPC/73 (correspondente ao art. 1.022, I e II, do Novo CPC). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+O acolhimento da pretensão recursal, a fim de afastar as conclusões do aresto estadual no tocante aos danos morais sofridos pela parte agravada, demandaria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmula n. 7 do STJ.
+2. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 976.888/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/12/2016, DJe 09/12/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+ ..
+(AgRg no AREsp 746.188/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/03/2016, DJe 15/03/2016)
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao reclamo.
+Publique-se.
+Intimem-se.
