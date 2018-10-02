@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado pelo Ministério Público do Estado do Rio Grande do Sul, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do mesmo Estado, assim ementado (fl. 174):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. REFORMA DE CASA LOCALIZADA EM ÁREA DE PRESERVAÇÃO PERMANENTE, SEM LICENÇA AMBIENTAL. RESPONSABILIDADE CIVIL OBJETIVA. DANO AMBIENTAL NÃO COMPROVADO.
+A legislação ambiental é clara ao definir como objetiva a responsabilidade do causador de dano ambiental. Contudo, no presente caso, em que pese restar incontroverso que o demandado realizou reformas em uma casa situada em APP, sem o devido licenciamento ambiental, não houve a comprovação da existência de dano ambiental. Assim, muito embora seja objetiva a responsabilidade, não se dispensa a comprovação do prejuízo e do nexo de causalidade, não sendo autorizado inferir dano a partir de mera constatação de descumprimento de norma administrativa. APELAÇÃO DESPROVIDA.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/15 (fls. 203/209).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 3º, VIII, IX e X e 8º do Código Florestal; 4º, VII e 14, §1º, da Lei 6.938/81. Para tanto, sustenta que "a despeito da decisão do órgão fracionário, é certa a existência do dano ambiental, seja presumidamente, pela construção de casa de alvenaria em APP, seja pelo teor do relatório elaborado pela Brigada Militar, corroborado pelo auto de constatação, bem como pelo parecer técnico elaborado, que demonstram - com meridiana clareza - que a construção realizada pelo demandado, sem qualquer espécie de autorização, ensejaram danos ao ecossistema correspondente" - (fl. 228).
+O Ministério Público Federal, em parecer, opinou pelo provimento do recurso (fls. 307/312).
+É o relatório.
+De início, verifico que o Tribunal de origem, ao manter a sentença que rejeitou os pedidos feitos pelo Ministério Público, consignou, com base no lastro probatório colacionado aos autos que, apesar da realização de obra em Área de Preservação Permanente pela parte recorrida, não foi evidenciado o dano ambiental, ocasionando-se, portanto, mera infração administrativa, conforme se infere do trecho a seguir (fls. 181/183):
+Ou seja, a legislação ambiental é clara ao definir como objetiva a responsabilidade do causador de dano ambiental. Contudo, no presente caso, em que pese restar incontroverso que o demandante edificou uma casa de alvenaria em APP, sem o devido licenciamento ambiental, entendo que andou bem a magistrada ao julgar improcedente a demanda, em razão de não haver comprovação da existência de dano ambiental.
+Muito embora seja objetiva a responsabilidade nos casos que envolvem a matéria ambiental, não se dispensa a comprovação do prejuízo e do nexo de causalidade, não sendo autorizado inferir dano a partir de mera constatação de descumprimento de norma administrativa.
+Houvesse sido previamente licenciada a reforma do chalé já existente no local, e não haveria por quê promover-se a presente demanda.
+(..)
+Dito isso, no presente caso, o relatório da PATRAM indicou que não foi atingida a vegetação nativa (fls. 11/20), bem como que, em verdade, a construção realizada pelo demandado foi feita em substituição a um chalé de madeira que já existia no local.
+A prova testemunhal, por sua vez, dá conta de que o referido chalé fora construído há décadas (cerca de 50 anos), o que indica que, se desmatamento houve, ele foi perpetrado quando da construção do chalé original, não se podendo atribuir dano ambiental à conduta do réu, que apenas substituiu a construção de madeira por uma de alvenaria.
+Ressalta-se, assim, que a renovação da construção localizada em Área de Preservação Permanente, com a substituição do chalé de madeira por outro com alvenaria no mesmo local, sem o devido licenciamento ambiental, configura-se apenas a ocorrência de infração administrativa, mas não ambiental. Acrescento, ainda, que cabia ao Ministério Público trazer prova da alegada degradação ambiental, decorrente da obra realizada pelo réu, ônus do qual não se desincumbiu.
+Ocorre que, sobre o tema, esta Corte de Justiça interpreta que, apesar de a responsabilização por danos ambientais possuir natureza objetiva, é imprescindível que se evidencie o nexo causal, a conduta e os danos oriundos da mesma, restando elidida apenas a necessidade de se comprovar o elemento subjetivo (culpa). É o que se demonstra com as ementas a seguir:
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. DANOS AMBIENTAIS. PESCA PREDATÓRIA DE ARRASTO DENTRO DAS TRÊS MILHAS MARÍTIMAS. RESPONSABILIDADE OBJETIVA INDEPENDENTE DE CULPA. IMPRESCINDÍVEL, ENTRETANTO, A DEMONSTRAÇÃO DO NEXO DE CAUSALIDADE. FUNDAMENTOS INSUFICIENTES PARA A REFORMA DA DECISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que, apesar da responsabilidade por dano ambiental ser objetiva, deve ser demonstrado o nexo de causalidade entre a conduta e o resultado. Precedentes.
+2. A aplicação desse entendimento através de decisão monocrática está de acordo com o art. 557 do CPC e, portanto, não configura nulidade a ser sanada.
+3. Os argumentos postos no Agravo Regimental não são suficientes para modificar o entendimento trazido na decisão recorrida, que se mantém pelos próprios fundamentos.
+4. Agravo Regimental desprovido.
+(AgRg no REsp 1210071/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/05/2015, DJe 13/05/2015)
+ADMINISTRATIVO. IBAMA. APLICAÇÃO DE MULTA. INFRAÇÃO AMBIENTAL. ARMAZENAMENTO DE MADEIRA PROVENIENTE DE VENDAVAL OCORRIDO NA REGIÃO. EXISTÊNCIA DE TAC. COMPROVADA BOA-FÉ. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A responsabilidade é objetiva; dispensa-se portanto a comprovação de culpa, entretanto há de constatar o nexo causal entre a ação ou omissão e o dano causado, para configurar a responsabilidade.
+2. A Corte de origem, com espeque no contexto fático dos autos, afastou a multa administrativa. Incidência da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1277638/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/05/2013, DJe 16/05/2013)
+PROCESSUAL CIVIL E AMBIENTAL. QUEIMADA. MULTA ADMINISTRATIVA. RESPONSABILIDADE OBJETIVA. ART. 14, § 1º, DA LEI N. 6.398/1981. DANO AO MEIO AMBIENTE. NEXO CAUSAL. VERIFICAÇÃO. REEXAME DE PROVA. SÚMULA N. 7/STJ.
+1. A responsabilidade é objetiva; dispensa-se portanto a comprovação de culpa, entretanto há de se constatar o nexo causal entre a ação ou omissão e o dano causado, para configurar a responsabilidade.
+2. A Corte de origem, com espeque no contexto fático dos autos, afastou a multa administrativa. Incidência da Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 165.201/MT, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/06/2012, DJe 22/06/2012)
+Assim, ao contrário do pretendido pela parte recorrente, não há falar em dano presumido ambiental, uma vez que é essencial para a imputação de responsabilidade ao suposto agente degradador a demonstração dos elementos germinadores da responsabilidade, ainda que apresentada essa de forma objetiva.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
