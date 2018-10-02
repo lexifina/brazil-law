@@ -1,0 +1,43 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (75G DE MACONHA E 13G DE COCAÍNA). VIOLAÇÃO DO ART. 67 DO CP. CONFISSÃO ESPONTÂNEA. UTILIZAÇÃO COMO SUPORTE DA CONDENAÇÃO. COMPENSAÇÃO INTEGRAL COM A REINCIDÊNCIA. INVIABILIDADE. CONSTATADA A MULTIRREINCIDÊNCIA DO RECORRENTE.
+Recurso especial desprovido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Rondônia na Ação Penal n. 1009924-88.2017.8.22.0501.
+Consta dos autos que, na sentença de fls. 102/108, o Juízo de primeiro grau condenou o recorrente à pena privativa de liberdade de 7 anos, 5 meses e 25 dias de reclusão, em regime inicial fechado, mais pagamento de 747 dias-multa, como incurso nas iras do art. 33, caput, c/c o 40, III, ambos da Lei n. 11.343/2006.
+Inconformada com os termos do édito condenatório singular, a defesa interpôs recurso de apelação (fls. 119/127).
+O Tribunal a quo negou provimento ao recurso defensivo (fls. 162/167).
+Tráfico ilícito de drogas. Atenuante de confissão espontânea. Reconhecimento. Compensação. Inviabilidade. Confissão qualificada. Caracterização. Exclusão da causa de aumento. Pena prevista no inc. III do art. 40 da Lei n. 11.343/06. Impossibilidade. Redução. Pena de multa. Sanção impositiva. Não ocorrência. Recurso. Não provimento.
+Havendo a chamada confissão qualificada em que o agente, apesar de admitir a prática do delito, fá-lo com ressalvas ou, ainda, buscando descaracterizar o tipo penal, não é de lhe ser reconhecida a atenuante de confissão espontânea.
+A mera realização da infração penal nas dependências ou imediações de estabelecimentos prisionais é razão suficiente para ensejar a aplicação da causa de aumento.
+A multa é uma espécie de pena (art. 32 do CP) - sanção de preceito secundário do tipo penal - no qual o agente é condenado, não podendo o julgador isentar o condenado, sob pena de violação ao princípio da legalidade.
+Recurso que se nega provimento.
+O recorrente indica a violação do art. 67 do Código Penal, porquanto não compensada a atenuante da confissão espontânea com a agravante da reincidência.
+Destaca que a utilidade da confissão espontânea realizada nos autos em relação a todos os delitos, instrumento que serviu de fundamento ao decreto condenatório proferido em primeira instância, em confronto ao instituto da reincidência, de duvidosa constitucionalidade, deve restar proveitosa ao Acusado que se absteve de exercitar o "nemo tenetur se detegere" e contribuiu à elucidação judicial dos fatos controvertidos (fl. 143).
+Pede o conhecimento e provimento do recurso, para que seja efetuada a compensação entre a agravante da reincidência e a atenuante da confissão espontânea.
+Oferecidas contrarrazões (fls. 179/184), o recurso especial foi admitido na origem (fl. 186).
+O Ministério Público Federal opina pelo desprovimento da insurgência (fls. 198/201).
+PENAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A", DA CF/88. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 67 DO CÓDIGO PENAL. PRETENSÃO DE REDUÇÃO DE PENA POR MEIO DO RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA PARA QUE SEJA COMPENSADA COM A REINCIDÊNCIA. INAPLICABILIDADE. ACUSADO QUE NÃO ADMITIU A PRÁTICA DO FATO TÍPICO IMPUTADO. AFIRMAÇÃO DE QUE A DROGA ERA PARA CONSUMO PRÓPRIO. PARECER PELO NÃO CONHECIMENTO E, SE CONHECIDO, PELO DESPROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Em referência ao presente pleito de compensação da agravante da reincidência com a atenuante da confissão, o Juízo singular expôs a seguinte razão de decidir: Não há circunstâncias atenuantes a serem analisadas.  ..  Por sua vez, concorrendo a circunstância agravante da reincidência específica, agravo a sua pena em 1/6 (um sexto), passando a dosá-la em 06 (seis) anos e 05 (cinco) meses de reclusão e pagamento de 641 (seiscentos e quarenta e um) dias-multa, no valor já fixado.  ..  Deixo de aplicar o benefício previsto no artigo 33, § 4º, da Lei de Drogas, haja vista se tratar de réu multirreincidente, tendo três condenações definitivas por tráfico de drogas (fl. 106 - grifo nosso).
+Com efeito, quanto à violação do art. 67 do Código Penal, é certo que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a atenuante da confissão espontânea deve ser compensada com a agravante da reincidência (REsp n. 1.341.370, representativo da controvérsia, da minha relatoria, Terceira Seção, DJe 17/4/2013).
+Entretanto, verifica-se que o recorrente possui diversas condenações transitadas em julgado (fls. 91/97).
+Nesse contexto, constatada a sua multirreincidência, é descabida a compensação com a atenuante da confissão espontânea.
+A corroborar:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBO. DOSIMETRIA DA PENA. COMPENSAÇÃO INTEGRAL ENTRE REINCIDÊNCIA E CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. MULTIRREINCIDÊNCIA. PREVALÊNCIA DA AGRAVANTE. APLICAÇÃO DOS PRINCÍPIOS DA PROPORCIONALIDADE E INDIVIDUALIZAÇÃO DA PENA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. HABEAS CORPUS NÃO CONHECIDO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. Esta Corte Superior pacificou o entendimento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal." REsp 1.341.370/MT (Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 17/4/2013).
+3. Contudo, no presente caso, não é possível a compensação integral da agravante da reincidência com a atenuante da confissão em razão da multirreincidência do paciente. Precedentes.
+4. Habeas corpus não conhecido.
+(HC n. 312.102/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 9/3/2016 - grifo nosso)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. ROUBO QUALIFICADO. PEDIDO DE EXAME TOXICOLÓGICO. DISCRICIONARIEDADE DO JUÍZO. DECISÃO FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA. DOSIMETRIA DA PENA. IMPUGNAÇÃO GENÉRICA. ILEGALIDADE DEMONSTRADA. ATENUANTE. CONFISSÃO PARCIAL. POSSIBILIDADE. COMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. RÉU MULTIRREINCIDENTE. IMPOSSIBILIDADE. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. A jurisprudência desta Eg. Corte Superior já se consolidou no sentido de que o delito de roubo consuma-se com a simples posse da coisa alheia móvel subtraída, ainda que por breves instantes, sendo desnecessário que o bem saia da esfera de vigilância da vítima. Prescindível, portanto, a posse tranquila do bem, obstada, muitas vezes, pela imediata perseguição policial ou por terceiro.
+6. Em obediência aos ditames do art. 59 do Código Penal e do art. 93, IX, da Constituição Federal, é firme o entendimento de que a fixação da pena-base deve ser fundamentada de forma concreta, idônea e individualizada, não sendo suficiente referências a conceitos vagos e genéricos, máxime quando ínsitos ao próprio tipo penal.
+7. A compreensão desta Corte se firmou no sentido de que a confissão, ainda que parcial, deve ser considerada para atenuar a pena, quando utilizada para dar suporte à condenação.
+8. Na esteira do entendimento firmado pela Terceira Seção desta Corte, à oportunidade do julgamento do EREsp n.º 1.154.752/RS, a atenuante da confissão espontânea pode ser compensada com a agravante da reincidência.
+9. Tratando-se, no entanto, de réu multirreincidente, promover a compensação entre a confissão e a reincidência implicaria ofensa aos princípios da individualização da pena e da proporcionalidade.
+10. A multirreincidência exige maior reprovação do que aquela conduta perpetrada por quem ostenta a condição de reincidente em decorrência de um único evento isolado em sua vida, devendo, pois, prevalecer sobre a confissão.
+11. Habeas corpus não conhecido, mas ordem concedida, de ofício, para reduzir a pena dos pacientes Sandro e Ademir à 5 anos, 11 meses e 3 dias de reclusão, além de 14 dias-multa, em regime inicial fechado.
+(HC n. 243.422/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 17/3/2016 - grifo nosso).
+Diante do exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
