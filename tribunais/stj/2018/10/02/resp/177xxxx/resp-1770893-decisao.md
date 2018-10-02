@@ -1,0 +1,26 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ANULAÇÃO DE AVAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM VALOR IRRISÓRIO. AGRAVO CONHECIDO. REAUTUAÇÃO PARA MELHOR EXAME.
+DECISÃO
+DIRCINEIA TERCIOTTI DE CAMARGO CAVALIS (DIRCINEIA) promoveu ação anulatória de aval c/c pedido de antecipação de tutela contra BANCO BRADESCO S/A (BANCO) (e-STJ, fls. 3/18)
+O pedido foi julgado improcedente, sendo a autora condenada ao pagamento das custas e honorários advocatícios fixados em R$ 1.000,00 (e-STJ, fls. 120/123).
+O Tribunal de origem deu parcial provimento à apelação interposta por DIRCENEIA, em acórdão assim ementado:
+APELAÇÃO OVEL. AÇÃO ANULATORIA DE AVAL. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DA PARTE AUTORA. 1. AVAL PRESTADO SEM OUTORGA UXÓRIA. NULIDADE. AFRONTA AO ART. 1.647, INCISO |i| DO CÓDIGO CIVIL. 2. INOPONIBILIDADE DO TITULO AO CÔNJUGE QUE NÃO PRESTOU A OUTORGA.
+IMPOSSIBILIDADE. RECONHECIMENTO DA INSUBSISTÊNCIA DE TODA A GARANTIA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE ESTADUAL. 3. SUCUMBÊNCIA. INVERSÃO. MEDIpA QUE SE IMPÕE. 4. FIXAÇÃO DE HONORÁRIOS RECURSAIS, NOS TERMOS DO ARTIGO 85, § 11g, DO CÓDIGO DE PROCESSO CIVIL.
+"O aval prestado sem a devida outorga uxória não possui validade. Sua anulação não tem como consequência preservar somente a meação, mas torna insubsistente toda a garantia. " (Agint no AREsp 928.412/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2016, DJe 26/10/2016). RECURSO CONHECIDO E PROVIDO (e-STJ, fls. 209).
+Os honorários, agora em favor do patrono da autora, foram fixados em 2% sobre o valor da condenação.
+Opostos embargos de declaração por DICINEIA, foram acolhidos em parte com efeitos infringentes, nos termos a seguir:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CIVEL. AÇÃO ANULATÓRIA DE AVAL. SENTENÇA DE IMPROCEDÊNCIA. APELO DA PARTE AUTORA PROVIDO. EMBARGOS DA PARTE AUTORA. CONTRADIÇÕES ALEGADAS. 1. PEDIDO DE FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS COM BASE NO VALOR ATUALIZADO DA CAUSA E OBEDECIDOS OS LIMITES DO ARTIGO 85, § 2º DO CÓDIGO DE PROCESSO CIVIL. INOVAÇÃO RECURSAL. MATÉRIA NÃO AVENTADA EM SEDE DE RECURSO. DE APELAÇÃO. RECURSO NÃO CONHECIDO NO PONTO. 2. FIXAÇÃO DE HONORÁRIOS RECURSAIS EM PORCENTAGEM SOBRE O VALOR DA CONDENAÇÃO. CONTRADIÇÃO. CORRÊNCIA. VICIO SANADO PARA O FIM DE CONDENAR O EMBARGADO AO PAGAMENTO DE HONORÁRIOS RECURSAIS EM VALOR CERTO. ACÓRDÃO REFORMADO NO PONTO. EMBARGOS PARCIALMENTE CONHECIDOS E NA PARTE CONHECIDA, ACOLHIDOS, COM A ATRIBUIÇÃO DE EFEITOS INFRINGENTES (e-STJ, fls. 232).
+Inconformada, DICINEIA interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação do art. 85, § 4º do NCPC. Sustentou, em síntese, que (1) os honorários devem ser fixados entre 10 e 20% sobre o valor da condenação, pugnando pela majoração dessa verba que foi fixada em percentual irrisório (e-STJ, fls. 241/246).
+Contrrrazões oferecidas (e- STJ, fls. 256/266).
+Em juízo de admissibilidade, foi negado seguimento a referido apelo nobre sob os fundamentos de (1) incidência da Súmula nº 7 do STJ (e-STJ, fls. 268/270).
+Contra essa decisão, ROSÂNGELA maneja o presente agravo em recurso especial (e-STJ, fls. 273/280).
+Contraminuta apresentada (e-STJ, fls. 284/290).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Dos honorários
+Inicialmente, cabe ressaltar que nas causas em que há condenação, os honorários de sucumbência devem ser fixados em percentual do valor da condenação. Nas causas em que não há condenação, os honorários devem ser arbitrados em percentual fixo, sempre em atenção ao grau de zelo do profissional, ao lugar da prestação do serviço, à natureza e importância da causa, ao trabalho realizado pelo advogado e ao tempo exigido para o serviço.
+Na hipótese dos autos, na sentença foi fixado o valor de R$1.000,00 em desfavor da recorrente. Em sede de apelação, ante o provimento do recurso da recorrente, os honorários recursais foram fixados em 2% do valor da condenação e, após acolhimento dos embargos de declaração, em R$ 300,00 pelo Tribunal de origem.
+A presente demanda trata de ação anulatória de aval, julgada improcedente em primeira instância e procedente em segunda instância, para dar total provimento a autora. O valor da causa gira em torno de R$ 470.000,00 e a fixação dos honorários foi de em aproximadamente 0,06% desse valor. Neste passo, considerando ser possível a intervenção desta Corte nos casos de fixação de valores excessivos ou irrisórios para a verba honorária, para melhor examinar a controvérsia suscitada, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial.
+Publique-se. Intimem-se.
