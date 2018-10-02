@@ -1,0 +1,5 @@
+DECISÃO
+No despacho de e-STJ fls. 1943/1945 concitei as partes ao dever de cooperação processual e ao de informação, considerando a possibilidade de que tivesse havido a perda de objeto recursal em razão da prolação de duas sentenças em feitos outros os quais, contudo, aparentemente constituíam prejudicial externa ao presente, relevante ainda que tanto o recurso especial do Ministério Público Federal (MPF) quanto o agravo em recurso especial do Instituto Nacional de Colonização e Reforma Agrária (INCRA) voltavam-se apenas contra acórdão com conteúdo interlocutório, vez que originado de agravo de instrumento.
+Em resposta ao despacho, o MPF fez juntar em e-STJ fls. 1997/1999 a Petição PARMPF 00551840/2018, da lavra da Exma. Sra. Subprocuradora-Geral da República, Dra. [NOME], corroborando a perspectiva por mim lançada no referido despacho, isto é, a de perda do objeto do recurso especial.
+Em vista disso, com fulcro no art. 932, inciso III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
