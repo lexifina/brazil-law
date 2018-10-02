@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela CAIXA ECONÔMICA FEDERAL, em 17/10/2011, com fundamento no art. 105, III, a, da CF/88, contra acórdão do Tribunal Regional Federal da 2ª Região, que se encontra assim ementado:
+"PROCESSUAL CIVIL - EXECUÇÃO DE SENTENÇA PROFERIDA EM "SENTENÇA COLETIVA" - PENDÊNCIA DE AÇÃO RESCISÓRIA - INEXISTÊNCIA DE TUTELA SUSPENDENDO OS EFEITOS DA SENTENÇA.
+I - Nada obstante o art. 489, do CPC, positivar que "a ação rescisória não suspende a execução da sentença rescindenda", a jurisprudência dominante dos Tribunais - notadamente a do E. STJ - tem admitido, de modo excepcional, em sede de ação rescisória, o deferimento de medidas de urgência (cautelares ou satisfativas) para o efeito de suspender ou impedir a execução do julgado rescindendo, isso desde que atendidos todos os requisitos jurídico-legais bastantes e necessários para tanto.
+II - Entretanto, quando não se verificar a atividade de qualquer medida judicial implicativa de concreta suspensão ou impedimento da exeqüibilidade do título executivo genérico constituído no julgamento definitivo (no caso dos autos, da Ação Civil Pública Proc. n.º 95.0001119-0), revela-se efetivamente aplicável, in casu, a dicção do aludido dispositivo, não afastada sequer em face da interposição de Recurso Extraordinário e de Recurso Especial, máxime porque aqueles recursos, quando admissíveis, são recebidos no efeito meramente devolutivo (art. 542, § 2º, do CPC)" (fl. 469e).
+Opostos Embargos Declaratórios, restaram rejeitados (fls. 482/487e).
+Aponta a recorrente, nas razões do Recurso Especial, ofensa aos artigos 265, VI e 489 do CPC/73, sustentando a necessidade de suspensão do processo até o julgamento da Ação Rescisória.
+Sem contrarrazões (fl. 509e).
+Decido.
+O Recurso Especial não merece prosperar.
+Nos termos do Enunciado Administrativo nº 2/2016, do STJ, aprovado na sessão plenária de 09/03/2016: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou que:
+"Dita ilação, aliás, não se empalidece e face da só interposição de Recurso Extraordinário e de Recurso Especial nos autos da Ação Rescisória nº 1.727 (Proc. Nº 2001.02.02.031231-1), vez que, como se sabe, aqueles recursos, quando admissíveis, são recebidos no efeito meramente devolutivo, a teor do preceito do art. 542, § 2º, do CPC.
+Ademais, registre-se que o Relator da indicada Rescisória, em decisão monocrática publicada em 25.02.2003, ao fundamento do inc. I do art. 490 e do inc. I do 267 do CPC, negou seguimento à ação e, ato contínuo, revogou a tutela anteriormente deferida, decisão impugnada pela CEF por meio de embargos de declaração, os quais foram recebidos como agravo interno, os quais, de seu turno, foram julgados improcedentes em Acórdão publicado em 31.03.2004.
+Irresignadas, a UNIÃO FEDERAL e a CEF interpõem, respectivamente, aquela Recurso Especial, e a empresa pública Recurso Especial e Recurso Extraordinário em ataque ao Acórdão, os quais foram inadmitidos por decisões, publicadas em 19.08.2004, da Vice-Presidência desta Corte, ao fundamento na Súmula nº 83 do C. STJ e na Súmula nº 343 do E. STF.
+Destas decisões houve agravos de instrumento dirigidos ao STJ e ao STF. Entretanto, a agravante não trouxe aos autos qualquer notícia de que tenha sido deferido, naqueles agravos, efeito suspensivo, razão por que desassiste razão à empresa pública, impondo-se, conseguintemente, o improvimento do recurso de agravo interno nestes autos interpostos" (fls. 466/467e).
+Entretanto, tais fundamentos não foram impugnados pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
