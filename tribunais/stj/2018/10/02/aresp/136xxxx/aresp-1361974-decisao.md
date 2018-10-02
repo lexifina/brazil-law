@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado pelo Departamento Nacional de Produção Mineral (DNPM) contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 30):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. CONSULTA AO INFOJUD. MEDIDA EXCEPCIONAL. ESGOTAMENTO DE DILIGÊNCIAS. NECESSIDADE. RECURSO DESPROVIDO.
+1. Trata-se de agravo de instrumento, visando reformar decisão que indeferiu o requerimento de utilização do sistema INFOJUD para localização de bens da parte ré ao fundamento de que "não está este juízo autorizado a se utilizar de tão relevante convênio como ferramenta para localização de bens e devedores, suprindo deficiências administrativas dos Exeqüentes que através de seu próprio esforço devem dirimir tais limitações." 2. A localização dos bens do devedor é ônus processual do exequente, tendo este Eg. Tribunal manifestado recentemente o entendimento de que "A expedição de ofícios para localização de devedores e seus bens somente deve ocorrer quando o solicitante houver demonstrado ter diligenciado efetivamente com esforço próprio, sem lograr êxito. De resto, o Judiciário não é secretaria a serviço particular, e se já demora com seus próprios afazeres, é óbvio que não deve,não pode e nem há base legal ou lógica para, sem tal demonstração, suprir a falta de iniciativa da parte"(AG nº 234748, Rel.
+Des. Fed. GUILHERME COUTO, DJ 12.12.2013).
+3. Havendo outras medidas extrajudiciais aptas à localização de bens do executado, não há que se falar em ilegalidade na decisão que determinou a sua realização, antes de analisar o pedido de pesquisa ao INFOJUD.
+4. Agravo de Instrumento desprovido.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 774, 797 e 835, I, do CPC/2015. Sustenta que é desnecessário o esgotamento dos meios disponíveis para a localização de bens do devedor como condição para o deferimento da utilização do sistema INFOJUD. Afirma, ainda, que a execução deve ocorrer no interesse do credor.
+É o relatório.
+A insurgência merece prosperar.
+Com relação à necessidade de esgotamento prévio de todos os outros tipos de diligências para que se pudesse autorizar a penhora via [NOME]-JUD, esta Corte, no julgamento do REsp 1.184.765/PA, de relatoria do Min. Luiz Fux, publicado em 03/12/10, processado sob o rito do art. 543-C do CPC/73, firmou o entendimento no sentido de que "A utilização do Sistema [NOME]-JUD, no período posterior à vacatio legis da Lei 11.382/2006 (21.01.2007), prescinde do exaurimento de diligências extrajudiciais, por parte do exeqüente, a fim de se autorizar o bloqueio eletrônico de depósitos ou aplicações financeiras".
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRECATÓRIO. OFERECIMENTO. RECUSA DO CREDOR. POSSIBILIDADE. PENHORA ONLINE. BACENJUD. DEPÓSITOS BANCÁRIOS. PEDIDO DE CONSTRIÇÃO EFETIVADO APÓS A LEI Nº 11.382/06. ESGOTAMENTO. DILIGÊNCIAS PRÉVIAS. DESNECESSIDADE.
+1. O crédito relativo ao precatório judiciário é penhorável, mesmo que a entidade dele devedora não seja a própria exequente; todavia equivale à penhora de crédito, e não de dinheiro.
+2. A Fazenda Pública não é obrigada a aceitar bens nomeados à penhora fora da ordem legal insculpida no art. 11 da Lei nº 6.830/80 (matéria submetida ao rito dos recursos repetitivos no julgamento do REsp 1.090.898/SP, minha relatoria, DJ. 31.8.09). Ademais, o princípio da menor onerosidade do devedor, preceituado no art. 620 do CPC, tem de estar em equilíbrio com a satisfação do credor.
+3. A Súmula 406/STJ também se aplica às situações de recusa à primeira nomeação.
+4. A Primeira Seção deste Tribunal ratificou a necessidade de interpretação sistemática dos artigos 655-A do CPC e 185-A do CTN, de modo a autorizar a penhora eletrônica de depósitos e aplicações financeiras, independentemente do exaurimento de diligências extrajudiciais, por parte do exequente, na busca de outros bens para a a garantia da execução fiscal, após o advento da Lei nº 11.382/06 (REsp 1.184.765/PA, submetido ao regime do artigo 543-C, do CPC e da Resolução STJ 08/2008, Rel. Ministro Luiz Fux, DJe 3.12.2010).
+5. Agravo regimental não provido.
+(AgRg no REsp 1.350.507/SP, Rel. Ministro Castro Meira, Segunda Turma, julgado em 21/02/2013, DJe 27/02/2013)
+O entendimento supramencionado vem sendo estendido por esta Corte também à utilização do sistema INFOJUD, senão vejamos:
+PROCESSUAL CIVIL. SISTEMA INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+1. Com a entrada em vigor da Lei 11.382/2006, e como resultado das inovações nela tratadas, houve evolução no sentido de prestigiar a efetividade da Execução, de modo que a apreensão judicial de dinheiro, mediante o sistema eletrônico denominado [NOME], passou a ser medida primordial, independentemente da demonstração relativa à inexistência de outros bens.
+2. Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos.
+3. Ademais, o STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados. Nesse sentido: AgRg no REsp 1.322.436, Rel.
+Min. Assusete Magalhães, DJe 17.08.2015; REsp 1.522.644, Rel. Min. Humberto Martins, DJe 01/07/2015; AgRg no REsp 1.522.840; Rel. Min. Mauro Campbell Marques, DJe 10/06/2015; REsp 1.522.678, Rel. Min. Herman Benjamin, DJe 18/05/2015.
+4. Recurso Especial provido.
+(REsp 1.582.421/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2016, DJe 27/05/2016)
+Vejam-se, ainda, as deliberações monocráticas no REsp 1.618.127/ES, Relatora Ministra Regina Helena Costa, DJe de 15/8/2016 e REsp 1570.814/RS, Relator Ministro Benedito Gonçalves, DJe de 1º/7/2016.
+No caso, o Tribunal a quo indeferiu a utilização do sistema INFOJUD ao fundamento de que não restou demonstrado o esgotamento de diligências.
+Como se vê, o posicionamento da Corte Regional destoa daquele consolidado no STJ sobre o tema, estando, pois, a merecer reparos.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, a fim de deferir a utilização do Sistema INFOJUD.
+Publique-se.
