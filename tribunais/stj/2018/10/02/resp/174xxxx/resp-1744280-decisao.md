@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO CEARÁ, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local, assim ementado (e-STJ fls. 261/262):
+EMENTA: CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM FACE DE DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO À APELAÇÃO. PRESCRIÇÃO EM SEDE DE AÇÃO DE NATUREZA DECLARATÓRIA. IMPOSSIBILIDADE. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. O Superior Tribunal de Justiça firmou o entendimento de não ser possível a aplicação do instituto da prescrição no curso de ações de cunho puramente declaratório. Precedentes.
+2. No presente caso, a pretensão dos autores/agravados consiste na declaração de nulidade de ato administrativo supostamente violador da estabilidade preceituada pelo artigo 19 dos Atos de Disposições Constitucionais Transitórias da Constituição Federal de 1988.
+3. O presente Agravo interposto pelo Estado do Ceará não prospera, pois almeja o reconhecimento da prescrição da pretensão os autores/agravados, de caráter exclusivamente declaratório, razão pela qual a decisão monocrática ora impugnada deve ser mantida por seus próprios fundamentos.
+4. Outrossim, não seria possível constatar a ocorrência de prescrição no caso em comento, pois os agravados ajuizaram, ainda em 1988, pedido de deferimento de litisconsórcio ativo junto à Ação Cautelar promovida por outros servidores públicos, pleito que fora deferido pelo Juízo competente. Contudo, no ano de 2001, o Juízo da 3- Vara da Fazenda Pública da Comarca de Fortaleza ordenou o desmembramento do processo devido ao grande número de partes. A questão é que os autos desmembrados foram distribuídos,erroneamente, para a 5â Vara fazendária, em vez de serem encaminhados aos Juízo da mencionada 3- Vara, que seria o Juízo prevento.
+5. Desta forma, mesmo se possível a aplicação do instituto da prescrição, esta não teria se consumado, pois a ação declaratória de nulidade já havia sido ajuizada desde 1988, conforme o resumo fático contido na decisão ora impugnada.
+6. Agravo Regimental conhecido, mas não provido.
+Embargos de declaração foram rejeitados (e-STJ fls. 273/280).
+Nas suas razões, a parte recorrente aponta violação dos arts. 4º e 293 do CPC/1973. Sustenta que não houve análise restritiva do pedido formulado na inicial, fato que levou a uma errônea percepção da prescrição alegada.
+Apresentaram-se contrarrazões às e-STJ fls. 297/313.
+ Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 315/317.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, quanto aos dispositivos tido por violados, da análise dos autos, verifica-se a ausência de prequestionamento, tendo em vista que o acórdão de origem não tratou do tema objeto da irresignação. Assim, incide à espécie o entendimento consolidado na Súmula 282 do STF.
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento, sendo necessária a interposição de recurso especial por afronta ao art. 535 do então vigente Código de Processo Civil, sob pena de perseverar o referido óbice.
+Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ademais, para rever a posição do Tribunal de origem e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO. INSTITUIDOR VINCULADO AO MINISTÉRIO DOS TRANSPORTES NÃO ORIUNDO DO DNER. PLANO DE CARGOS DO DNIT. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. No julgamento do Recurso Especial 1.244.632/CE pelo rito dos recursos repetitivos (art. 543-C do CPC), da relatoria do Ministro Castro Meira, a Primeira Seção do Superior Tribunal de Justiça firmou o entendimento de que o servidor aposentado do extinto DNER, ainda que passe a integrar o quadro de inativos do Ministério dos Transportes, deve ter como parâmetro de seus proventos a retribuição dos servidores ativos do DNER absorvidos pelo DNIT, pois é esta autarquia a sucessora do DNER, não havendo razão jurídica para justificar disparidade.
+ 2. No entanto, no presente caso, em havendo o acórdão concluído, diante do lastro probatório constante dos autos, não existir prova documental de que o instituidor da pensão tenha sido, em algum momento, servidor do extinto DNER, modificar tal conclusão importa desafiar a orientação fixada pela Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. Agravo Interno a que se nega provimento. (AgInt no REsp 1631849/RN, Relator Ministro Herman Benjamin, julgamento 07/03/2017, DJe 19/04/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
