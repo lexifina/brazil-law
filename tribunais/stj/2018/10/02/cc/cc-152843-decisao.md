@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, instaurado por BASE ENGENHARIA E SERVIÇOS DE PETRÓLEO E GÁS S.A. - EM RECUPERAÇÃO JUDICIAL, sucessora de SCHAHIN ENGENHARIA S.A. - EM RECUPERAÇÃO JUDICIAL, envolvendo o Juízo de Direito da 2.ª Vara de Falências e Recuperações Judiciais de São Paulo/SP, no qual se processa sua recuperação judicial, e o Juízo da 18.ª Vara do Trabalho de São Paulo/SP, onde tramita reclamação trabalhista (n. 1001305-78.2015.5.02.0718), que lhe move [NOME].
+Sustenta que em 04/05/2015 foi deferido o processamento de sua recuperação judicial e de outras sociedades coligadas, com a determinação expressa de suspensão das ações e execuções contra as recuperandas pelo Juízo de Direito da 2.ª Vara de Falências e Recuperações Judiciais de São Paulo/SP (fls. 398/403, e-STJ).
+Todavia, a despeito da competência do juízo recuperacional para dispor sobre o seu patrimônio, o Magistrado da 18ª Vara do Trabalho de São Paulo/SP determinou o prosseguimento de atos executórios na Ação Trabalhista nº 1001305-78.2015.5.02.0718, proposta por [NOME], ora interessada, redirecionando-os, inclusive, para alcançar bens de seus sócios.
+Postulou a concessão de liminar para que fosse declarada a competência do Juízo da recuperação, para decidir sobre as questões que afetam o seu patrimônio, bem como a anulação de todas as ordens de bloqueios proferidas pelo sobredito juízo laboral, com a liberação dos valores eventualmente constritos e levantamento das penhoras incidentes sobre os bens dos sócios. No mérito, requereu a confirmação da liminar, a fim de que seja declarada a competência do Juízo de Direito da 2.ª Vara de Falências e Recuperações Judiciais de São Paulo/SP.
+O pedido liminar foi indeferido por este signatário (fls. 1.236-1.239).
+Prestadas as informações (fls. 1.252-1.255 e 1.265-1.267), o MPF opinou pelo não conhecimento do conflito (fls. 1.274-1.277).
+Às fls. 1.280-1.289, os procuradores da Suscitante renunciaram ao mandato outorgado.
+Em cumprimento ao despacho de fls. 1.292, a Suscitante foi intimada para regularizar sua representação processual, todavia, consoante certidão emitida pela Coordenadoria da Segunda Seção, o ofício emitido foi devolvido pela Empresa de Correios e Telégrafos - ECT, sem cumprimento, por falta de localização da destinatária, e não há nos autos qualquer outro endereço senão o indicado na fl. 1 dos autos (fl. 1.301).
+É o relatório.
+Decide-se.
+1. Com efeito, depreende-se dos autos que o subscritor da petição inicial não mais possui procuração nos autos, e que, a tentativa de intimação da Suscitante para que regularizasse sua representação processual, nos termos do art. 321 do CPC/2015, quedou-se infrutífera, tendo em vista a inexistência de outro endereço, além do indicado na exordial (fls. 1, 1.292 e 1.301).
+Assim sendo, ante a irregularidade na representação processual da empresa Suscitante, se revela impositivo o indeferimento da petição inicial.
+2. Do exposto, nos termos do art. 321, parágrafo único, do CPC/2015, indefiro a petição inicial.
+Publique-se. Intimem-se. Oficiem-se.
