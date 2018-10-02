@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo, interposto por AMBEV S.A., contra decisão do Tribunal Regional Federal da 2ª Região, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/73, assim ementado:
+"REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE LANÇAMENTO FISCAL CUMULADA COM DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA E PEDIDO DE TUTELA ANTECIPADA. BASE DE CÁLCULO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PARA FRENTE. MARGEM DE VALOR AGREGADO. PREVISÃO LEGAL. CÓDIGO TRIBUTÁRIO ESTADUAL. REGULAMENTO DO ICMS. CONSONÂNCIA COM A CONSTITUIÇÃO FEDERAL E A LEI COMPLEMENTAR N. 87/96. MULTA DEVIDA. VALOR CONFISCATÓRIO. REDUÇÃO DE 150% PARA 50%. PAUTA FISCAL. ILEGALIDADE. SÚMULA 431 DO STJ. RECURSO PARCIALMENTE PROVIDO. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE MAJORAÇÃO. PREJUDICADO.
+De acordo com a Súmula 431 do STJ "É ilegal a cobrança de ICMS com base no valor da mercadoria submetido ao regime de pauta fiscal".
+A Margem de Valor Agregado utilizada para aplicação do ICMS aos produtos comercializados pela apelada, em especial cervejas e refrigerantes, encontra previsão no Código Tributário Estadual e no Decreto n. 9.203/98, com expressa autorização contida no art. 8º, II, da LC n. 87/96, estando assim em consonância com a norma constitucional.
+Utilizando-se a empresa contribuinte da pauta fiscal para o cálculo da retenção do ICMS e, com isso, gerando uma diferença no valor a ser recolhido, devida é a multa aplicada pelo Estado, a qual, entretanto, deve ser reduzida, no caso, por encontrar-se fixada em percentual confiscatório" (fls. 655/656e).
+Opostos embargos de declaração (fls. 687/697e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente violação aos arts. 1.022 do CPC/2015 e 8º da LC 87/96, sustentando, em síntese, além de negativa de prestação jurisdicional, a ilegalidade da alteração da base de cálculo do ICMS/ST perpetrada pelo Estado do Mato Grosso do Sul, que prevê uma novo critério, que mistura os critérios da pauta fiscal e da margem de valor agregado, formando um critério híbrido sem previsão na lei.
+Apresentadas contrarrazões às fls. 1.029/1.052e, foi o Recurso Especial inadmitido na origem (fls. 1.055/1.057e), daí a interposição do presente Agravo (fls. 1.088/1.121e).
+Contraminuta às fls. 1.362/1.377e.
+A irresignação não merece acolhimento.
+Em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mérito, ao analisar a controvérsia, verifica-se que o Tribunal a quo utilizou-se de legislação local (Código Tributário Estadual e Decreto Estadual 9.203/98) para entender legal a utilização da Margem de Valor Agregado pelo Estado do Mato Grosso do Sul.
+Dessa forma, embora o agravante alegue violação a matéria infraconstitucional, o tema foi decidido à luz de norma local (Lei Estadual 14.937/2003), sendo, portanto, inviável o seu exame em recurso especial, diante da incidência, por analogia, da Súmula 280/STF, que preceitua que "por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTENTE. IPVA. LICENCIAMENTO POR ESTADO DA FEDERAÇÃO DIFERENTE DO DOMICÍLIO DO PROPRIETÁRIO. EXIGÊNCIA PELO ESTADO DE DOMICÍLIO DO PROPRIETÁRIO. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.
+(..)
+3. O Tribunal de origem decidiu a questão com base em leis estaduais - Lei ns. 14.937/03-MG e 6.999/2001-ES - que regem o caso, o que inviabiliza o conhecimento do recurso especial, nos termos da Súmula 280/STF.
+(..)
+Agravo regimental improvido" (STJ, AgRg no AREsp 622.428/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 19/02/2015).
+"TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPVA. POSSIBILIDADE DE ELEIÇÃO DO DOMICÍLIO TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO RECORRIDO FUNDADO EM LEI LOCAL. SÚMULA 280/STF. DOMICÍLIO ÚNICO. REVISÃO. SÚMULA 7/STJ. PRESCRIÇÃO. TESE NÃO PREQUESTIONADA. INOVAÇÃO RECURSAL.
+1. Não se conhece de recurso especial que esbarra nos óbices das Súmulas 280, 282 e 356 do STF. Além de o acórdão ter encontrado fundamento na Lei Estadual n. 6.606/89, a tese de possibilidade de eleição do domicílio tributário não está devidamente prequestionada.
+(..)
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 342.135/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/03/2014).
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
