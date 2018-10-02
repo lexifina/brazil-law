@@ -1,0 +1,54 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com amparo no art. 105, III, "a" e "c", da CF/1988, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais , assim ementado (e-STJ, fl. 350):
+DELEGADO DE POLÍCIA - EXERCÍCIO DE FUNÇÃO CORRELATA AO CARGO DE DIRETOR DE CADEIA PÚBLICA - DESVIO DE FUNÇÃO - INOCORRÊNCIA - IMPROCEDÊNCIA DO PEDIDO INDENIZATÓRIO - RECURSO A QUE SE NEGA PROVIMENTO "IN SPECIE".
+Apenas na hipótese de restar caracterizado o desvio de função é que está presente o direito ao recebimento da diferença de vencimentos.
+O fato de o Delegado de Polícia exercer funções de Diretor da Cadeia Pública Local não configura o mencionado desvio, uma vez que realizado em obediência a norma contida na Lei Orgânica da Polícia Civil do Estado de Minas Gerais.
+As dificuldades e riscos inerentes à função de Delegado de Polícia não dão causa a ressarcimento a título de dano material e moral.
+APELAÇÃO CÍVEL N* 1.0024.13.165558-1/001 - COMARCA DE BELO HORIZONTE - APELANTE(S): [NOME] [NOME] DE OLIVEIRA - APELADO(A)(S): ESTADO DE MINAS GERAIS
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 394-400).
+Em suas razões, alega a parte interessada ofensa direta aos arts. 22 da Lei n. 12.016/2009; 103 da Lei n. 8.078/1990 - CDC; e 492 do CPC/2015.
+Pleiteia, em síntese, que seja reformado o aresto combatido, a fim de que o recorrido seja responsabilizado a indenizar a recorrente por danos materiais e morais pela ilegalidade do ato da administração pública de atribuir ao Delegado de Polícia a gestão das cadeias públicas do Estado de Minas Gerais, função que não se encontraria no rol de atividades legalmente atribuídas ao referido cargo público.
+Afirma que a Corte de origem já reconheceu, em casos análogos, a ilegalidade do ato administrativo supracitado, oportunidade em que foi concedido "o prazo de 3 (três) anos para o reajuste do Estado na transferência de suas atribuições, no entanto, a determinação judicial não está sendo cumprida" (e-STJ, fl. 426).
+Destaca que "houve um equívoco na prolação do r. acórdão, em inteira contradição ao texto legal, às decisões supra mencionadas e as provas carreadas aos autos, visto que resta totalmente preenchidos os requisitos da Lei, fartamente são os argumentos legais e jurisprudências, como táticos para consolidar o entendimento que não é atribuição do delegado de polícia dirigir presídios, cabendo tão somente o juiz a quo analisar os efeitos da ordem ilegal, isto é, demandar o Estado que se abstivesse de demandar o delegado de polícia destas atribuição e indenizá-lo por isso" (e-STJ, fl. 429).
+Aponta, por fim, divergência jurisprudencial entre o acórdão recorrido e a posição adotada pela própria Corte de origem na ação coletiva ajuizada pelo Sindicato dos Delegados de Polícia do Estado de Minas Gerais que considerou ilegal a acumulação da função de Diretor de Presídio.
+Contrarrazões às e-STJ, fls. 487-505.
+É o relatório.
+A irresignação não merece acolhida.
+Extrai-se das razões assentadas no acórdão recorrido que os dispositivos legais tidos por violados, arts. 22 da Lei n. 12.016/2009; 103 da Lei n. 8.078/1990 - CDC; e 492 do CPC/2015, e as teses a eles vinculadas não foram objeto de debate e apreciação pela Corte de origem, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se ao caso a orientação firmada na Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+Nos termos da reiterada jurisprudência desta Corte, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, o qual deverá emitir um juízo de valor acerca dos dispositivos legais, ao decidir por sua aplicação ou seu afastamento em relação a cada caso concreto, o que não se deu na espécie.
+No mesmo sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNRURAL. DECLARAÇÃO DE INCONSTITUCIONALIDADE ACARRETA A REPRISTINAÇÃO DA NORMA REVOGADA PELA LEI VICIADA. CÁLCULO DA EXAÇÃO NOS MOLDES DA LEI REVOGADA. EFEITO LÓGICO DECORRENTE DA REPRISTINAÇÃO. EXEGESE DO RESP 1.136.210/PR, SUBMETIDO AO REGIME DOS RECURSOS REPETITIVOS (ART. 543-C DO CPC). SÚMULA 83/STJ.
+1. Descumprido o necessário e indispensável exame, dos artigos invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+2. O simples fato de o Tribunal a quo ter declarado como prequestionados os dispositivos, a fim de viabilizar o acesso à instância superior, não é suficiente para a admissão do recurso. Isso porque, para que se tenha por atendido o requisito do prequestionamento, não basta que a Corte de origem dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+ ..
+(AgRg no REsp 1.344.881/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/12/2012, DJe 8/2/2013)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. EXECUÇÃO FISCAL. ENCERRAMENTO DA EMPRESA. MATÉRIA DE PROVA. REVISÃO. IMPOSSIBILIDADE. ENUNCIADO SUMULAR 7/STJ. AGRAVO NÃO PROVIDO.
+1. "Configura-se o prequestionamento quando a causa tenha sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, não bastando a simples menção a tais dispositivos" (AgRg no REsp 623.320/DF, Segunda Turma, Rel. Min. ELIANA CALMON, DJ 6/2/06).
+ ..
+(AgRg no AREsp 218.444/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 16/10/2012, DJe 25/10/2012)
+Ademais, observa-se que o Tribunal de origem, ao decidir a lide, adotou a Lei n. 5.406/1969 (Lei Orgânica da Polícia Civil do Estado de Minas Gerais) como lastro de sua fundamentação (e-STJ, fls. 351-352). Assim, não há viabilidade para o conhecimento da insurgência, ante a necessidade de exame de legislação local.
+Tal circunstância torna inviável o acolhimento do recurso especial, consoante a aplicação analógica do enunciado n. 280 constante da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA. MEMBRO DO MINISTÉRIO PÚBLICO DE CONTAS. AJUIZAMENTO DA AÇÃO PELO PROCURADOR-GERAL DE JUSTIÇA. ART. 38, § 1º, I, DA LEI N. 8.625/93. HIPÓTESE AUTÔNOMA. AÇÃO ESPECÍFICA. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI COMPLEMENTAR ESTADUAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - A aplicação da sanção de perda do cargo público aos membros do Ministério Público, decorrente de condenação pela prática de ato de improbidade administrativa não depende do ajuizamento de ação específica, tratando-se de hipótese autônoma àquela prevista no art. 38, § 1º, inciso I, da Lei n. 8.625/93.
+III - Eventual disposição envolvendo a atribuição administrativa para o ajuizamento da ação em questão, prevista em leis orgânicas estaduais, não pode ser objeto de apreciação.
+IV - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever o acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+V - Recurso Especial improvido.
+(REsp 1.534.126/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 5/12/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTIGOS 527 E 557 DO CPC. SÚMULA 284/STF. DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REVISÃO. COMPETÊNCIA DO STF. ACÓRDÃO DE FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. INADEQUAÇÃO DA VIA DO ESPECIAL. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não houve especificação, nas razões de especial, de como teria ocorrido a alegada violação aos artigos 527 e 557 do Código de Processo Civil, razão que enseja a aplicação analógica da Súmula 284 do Supremo Tribunal Federal, ao ponto.
+2. Impossível também analisar a dita ofensa a artigos da Constituição Federal, na via do recurso especial, sob pena de usurpação da competência do STF.
+3. O Tribunal de origem firmou seu entendimento baseado em fundamentos eminentemente constitucionais, e também embasado nos artigos 38 e 39 da Constituição Federal, que inviabiliza a análise da insurgência pelo Superior Tribunal de Justiça.
+4. No tocante às alegações fundamentadas em dispositivos da Lei Orgânica do Município de Fortaleza, não é possível sua análise por esta Corte Superior, tendo em vista se tratar de legislação local, a teor da Súmula 280 do Supremo Tribunal Federal.
+5. A tese jurídica veiculada nas razões do regimental não é capaz de modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+6. Agravo regimental não provido.
+(AgRg no AREsp 233.067/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 6/11/2012, DJe 12/11/2012)
+AGRAVO REGIMENTAL EM ARESP. MILITAR. PEDIDO DE REINTEGRAÇÃO. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA N. 280/STF. PRESCRIÇÃO. OCORRÊNCIA. DECRETO N. 20.910/1932 - A revisão do julgado hostilizado implica estudo de direito local, inviável em sede de recurso especial a teor do disposto no enunciado n. 280 da Súmula do STF.
+- O prazo para propositura de ação de reintegração de policial militar é de 5 (cinco) anos, a contar do ato de exclusão ou licenciamento, nos termos do Decreto n. 20.910/1932. Precedentes desta Corte.
+Agravo regimental improvido.
+(AgRg no AREsp 15.890/DF, Rel. Ministro CESAR ASFOR ROCHA, SEGUNDA TURMA, julgado em 6/12/2011, DJe 16/12/2011)
+A propósito, ressalto que "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 24/9/2014, e AgRg no AREsp 820.984/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2016, DJe 20/5/2016)" (AgInt no REsp 1.420.954/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 11/10/2016, DJe 14/11/2016).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
