@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 28, de 3 de março de 2018
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: CADASTRO NACIONAL DA PESSOA JURÍDICA. SOCIEDADE EM CONTA DE PARTICIPAÇÃO. Considerando a equiparação, para fins tributários, das Sociedades em Conta de Participação (SCP) às pessoas jurídicas, a legislação que disciplina sobre o Cadastro Nacional da Pessoa Jurídica não autoriza a inscrição de SCP como filial de seu sócio ostensivo. Dispositivos Legais: Decreto nº 3.000, de 1999, art. 148; Instrução Normativa RFB nº 1.634, de 2016, art. 4º, XVII. ASSUNTO: PROCESSO ADMINISTRATIVO FISCAL EMENTA: É ineficaz a consulta, não produzindo efeitos, quando não versar sobre a interpretação de dispositivos da legislação tributária. Dispositivos Legais: Decreto nº 70.235, de 1972, art. 52, I, c/c art. 46.
+.
+[arquivo anexo: SC Cosit nº 28-2018.pdf]
