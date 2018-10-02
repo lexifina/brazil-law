@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281/STF. AGRAVO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto, com fundamento na alínea a do art. 105, III da Constituição Federal, contra decisão monocrática proferida por Desembargador do TRF da 3a. Região.
+2. Nas razões do seu Apelo Nobre (fls. 1.372/1.391), a parte recorrente ofensa aos arts. 841 CC, 129 do CPC, art. 158 e respectivo parag. único, 249, 485, VIII, 486 e 496 do CPC. Sustenta, em síntese, que a desistência do Mandado de Segurança fere o interesse público. Assevera que a obrigatoriedade da licitação é de interesse da própria Administração e não pode haver mera desistência do impetrante vencedor do Mandado de Segurança. Afirma não ser aplicável a jurisprudência invocada na decisão recorrida, que permite a homologação da desistência mesmo após a prolação da sentença.
+3. O Ministério Público Federal, em parecer da lavra da ilustre Subprocuradora-Geral da República [NOME], manifestou-se pelo não provimento do Agravo em Recurso Especial.
+4. É o breve relatório.
+5. A irresignação não merece prosperar.
+6. Nos termos do art. 105, III da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, em Recurso Especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+7. No caso em exame, o Recurso Especial aviado ataca decisão monocrática da Vice-Presidência do TRF da 3a. Região que homologou a desistência do Mandado de Segurança, contra a qual caberia Agravo Regimental na origem, não tendo, por conseguinte, sido exaurida a instância ordinária. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA DE OMISSÃO. REDISCUSSÃO DA MATÉRIA.
+(..).
+2. Na espécie verifico o nítido intuito da parte, com a interposição dos segundos aclaratórios, de rediscutir matéria já decidida, emprestando-lhe efeitos infringentes.
+3. O embargante insiste que ocorreu omissão no acórdão recorrido, pois não houve pronunciamento do STJ sobre o art. 462 do CPC, contudo se esquece de que para ter sua pretensão apreciada, deve-se conhecer de seu recurso.
+4. Consoante entendimento consubstanciado na Súmula 281 do STF, aplicável também aos Recursos Especiais, é necessário que a parte interponha todos os recursos ordinários perante o Tribunal de origem antes de buscar a instância especial.
+5. Embargos de Declaração rejeitados com aplicação de multa no percentual de 10% (dez por cento) sobre o valor da causa (EDcl nos EDcl nos EDcl no AgRg no AREsp. 696.082/ES, Rel. Min. HERMAN BENJAMIN, DJe 13.9.2016).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SIMPLES REITERAÇÃO DAS ALEGAÇÕES VEICULADAS NO RECURSO ANTERIOR. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF.
+I - Incidência da Súmula 281 do Supremo Tribunal Federal, quando interposto Recurso Especial contra decisão monocrática do Relator, contra o qual caberia Agravo Regimental perante o Tribunal de origem, nos termos do art. 557, § 1o. do Código de Processo Civil.
+II - O Agravante não apresentam argumentos capazes de desconstituir a decisão agravada, apenas reiterando as alegações veiculadas no recurso anterior.
+III - Agravo regimental improvido. (AgRg no AREsp. 474.281/MA, Rel. Min. REGINA HELENA COSTA, DJe 9.2.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO. CABIMENTO. AGRAVO. ART. 557, § 1o., DO CPC. INTERPOSIÇÃO. RECURSO ESPECIAL. INEXISTÊNCIA. ESGOTAMENTO PRÉVIO. INSTÂNCIA ORDINÁRIA. INADMISSIBILIDADE. SÚMULA 281/STF. AGRAVO REGIMENTAL. CARÁTER MANIFESTO. FALTA DE FUNDAMENTO. EXTENSÃO. DEMANDA. INÍCIO. ANO DE 1978. REPRIMENDA. MULTA.
+1. Tratando-se de agravo de instrumento decidido monocraticamente por magistrado de Tribunal Regional, na forma do art. 557, caput, do CPC, dessa decisão é cabível o agravo de que trata o § 1o. do mesmo preceptivo, e não diretamente o recurso especial, senão por que, a teor do art. 105, inciso III, da Constituição da República, o apelo raro presta-se à impugnação de causas decididas em única ou em última instância.
+2. Nesse mesmo sentido é a vetusta dicção da Súmula 281 do Supremo Tribunal Federal: É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+3. Assim, uma vez que era cabível o agravo do art. 557, § 1o. do CPC, e até mesmo os embargos de declaração para eventual prequestionamento, a interposição de recurso especial contra uma decisão monocrática revela-se absolutamente inviável e inadequada, não havendo simplesmente nenhuma hipótese de contornar-se essa falha visto constituir prática contra texto constitucional expresso.
+4. A SABESP, a despeito disso, e muito embora tenha sido cientificada da inviabilidade em duas oportunidades  no juízo de admissibilidade feito na origem e na decisão ora agravada  , intenta uma vez mais que o Poder Judiciário atente contra texto constitucional para debelar um comportamento processual seu o qual, no entanto, foi desacurado, estendendo sem propósito o tempo de duração de uma demanda cuja ação principal remonta ao ano de 1978.
+5. Esse atuação amolda-se à hipótese de manifesta falta de fundamento de que trata o § 2o. do art. 557 do CPC, porque não há, repise-se, possibilidade de que um recurso especial seja processado quando a causa foi decida apenas por decisão monocrática.
+6. Agravo regimental não provido, com o reconhecimento do caráter de manifesta falta de fundamento e a cominação de multa, na forma dos arts. 545 e 557, § 2o., do CPC, de um por cento sobre o valor corrigido da causa. (AgRg no AREsp. 610.024/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 14.4.2015).
+8. Aplicável, assim, por analogia, o óbice prescrito pela Súmula 281/STF, segundo a qual é inadmissível o Recurso Extraordinário, quando couber na Justiça de origem, recurso ordinário da decisão impugnada.
+9. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial da Empresa.
+10. Publique-se. Intimem-se.
