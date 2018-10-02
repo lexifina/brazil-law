@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por [NOME] RODRIGUES PERDIGAO em face da decisão acostada a fls. 603-604, e-STJ, que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pela ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 582-587, e-STJ, proferido pelo Tribunal de Justiça de São Paulo, assim ementado:
+Acidente de veículo. Culpa exclusiva do pedestre que, repentinamente, desiste de atravessar a avenida e retrocede à margem da esquerda, vindo a chocar a cabeça contra o vidro do ônibus cujo motorista o autorizara a atravessar. Versão confirmada pelo laudo necroscópico e pedido de arquivamento do inquérito policial formulado pelo Ministério Público Estadual. Inevitabilidade do atropelamento reconhecida. Recurso desprovido.
+Nas razões de recurso especial, alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigos 186 e 932 do Código Civil, ao argumento de que teriam sido demonstrados todos os requisitos da responsabilidade civil, bem como não estaria configurada a culpa exclusiva da vítima; (ii) artigos 34 e 44 do Código de Trânsito Brasileiro, porquanto o motorista teria faltado com o dever de cautela em relação à travessia preferencial do pedestre.
+Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da súmula 7/STJ.
+Inconformada, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada a fls. 607-619, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Não foram apresentadas contrarrazões.
+É o relatório
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. A insurgente sustenta, em síntese, que estariam preenchidos os requisitos da responsabilidade civil em decorrência de acidente de trânsito que levou a vítima (marido da agravante) a óbito, uma vez que demonstrada a culpa do condutor do ônibus (preposto da agravada), bem como em razão da inexistência de culpa exclusiva da vítima.
+Ao analisar a controvérsia, a Corte de origem, com base no arcabouço probatório dos autos, manteve a sentença na qual fora reconhecida a culpa exclusiva da vítima. Cita-se o trecho correspondente (fls. 584-587, e-STJ):
+No dia 15 de outubro de 2007, [NOME] foi atropelado por ônibus pertencente à Viação Clewis Ltda., quando atravessava a Rua Juscelino Kubitscheck de Oliveira, na altura do nº 1.756, em Santa Barbara D"Oeste/SP, vindo a falecer.
+Em março de 2008, a viúva, [NOME], ajuizou a presente ação indenizatória. Diz que o motorista do ônibus autorizou a travessia da avenida sem prestar atenção ao retrovisor direito e ver se vinham outros veículos pela pista da direita.
+A Ré alega que seu motorista avistou o pedestre, diminuiu a velocidade e autorizou a travessia, mas que ele desistiu no meio do caminho e voltou à margem esquerda, vindo a colidir a cabeça no vidro do ônibus.
+As testemunhas arroladas pelas partes não presenciaram o fato, mas confirmaram a ausência de faixa de pedestre no local do acidente, bem como o auxílio prestado à vítima após a colisão.
+Segundo o laudo necroscópico: "À evidência de múltiplas lesões tegumentares e o achado de fartura de crânio e arcos costais à esquerda são indicativos de ação contundente sobre a vítima no sentido da esquerda para direita e de frente para trás."
+O Ministério Público Estadual requereu o arquivamento do inquérito policial por inexistir "indícios suficientes de que o condutor do ônibus tenha agido com imprudência ou imperícia. Nada aponta que ele estivesse em alta velocidade ou que tivesse conduzindo o veículo de forma perigosa."
+Do que se extrai dos autos, a vítima estava na margem esquerda da via esperando a oportunidade para atravessar. O motorista da Ré reduziu a velocidade e o pedestre, então, resolveu atravessar na frente do ônibus. A caminho da margem direita da pista, por alguma razão não esclarecida, quiçá a aproximação de outro carro que não tenha avistado antes de iniciar a travessia, a vítima resolveu voltar para a margem esquerda da pista. O ônibus estava em baixa velocidade, mas bateu contra a vítima.
+Nestas circunstâncias, não se podia impor culpa ao motorista, porque a vítima, ao desistir da travessia e retroceder à margem esquerda, surpreendeu o piloto que não estava obrigado a prever a repentina desistência do pedestre.  grifou-se
+Transcreve-se, ainda, o excerto da conclusão a que chegou o magistrado primeiro grau quanto aos fatos ( fl. 535 e-STJ, sem grifos no original)
+Na realidade, de acordo com a prova dos autos, o acidente ocorreu por culpa exclusiva da própria vítima que, de forma imprudente, após haver iniciado a travessia da Avenida Juscelino Kubischek de Oliveira, no sentido do canteiro central para o "Rancho da Gaúcha", inverteu seu percurso e voltou para a frente do ônibus, surpreendendo o motorista que não pôde evitar o atropelamento
+Como se vê, diante do conteúdo fático-probatório constante dos autos, as instâncias de origem reconheceram a culpa exclusiva da vítima e afastou a responsabilidade da agravada.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal para afastar a ocorrência de excludente de responsabilidade na hipótese ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela súmula 7/STJ. A propósito, são os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. RODOVIA ESTADUAL. ACIDENTE. RESPONSABILIDADE. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que a empresa concessionária que administra rodovia mantém relação consumerista com os usuários, tendo responsabilidade objetiva por eventuais falhas na prestação do serviço.
+2. Na hipótese, o tribunal estadual afastou a responsabilidade da empresa concessionária, pois diante da realidade fática dos autos, evidenciou a culpa exclusiva da vítima pelo acidente rodoviário.
+Rever tal entendimento demandaria o reexame do contexto fático-probatório, procedimento inviável em recurso especial, à luz do óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1175262/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/03/2018, DJe 23/03/2018)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL OBJETIVA. ACIDENTE DE TRÂNSITO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. INEXISTÊNCIA DE NEXO CAUSAL. CULPA EXCLUSIVA DA VÍTIMA. REVISÃO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPEDIMENTO DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência desta Corte, mesmo nas hipoteses de responsabilidade civil objetiva, "faz-se imprescindível, para a configuração do dever de indenizar, a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo efetivamente verificado ao comportamento (comissivo ou omissivo) daquele a quem se repute a condição de agente causador" (REsp n. 1.602.106/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 25/10/2017, DJe 22/11/2017).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem, com base nos elementos probatórios dos autos, afastou a responsabilidade objetiva da ré, pois concluiu pela culpa exclusiva da vitima. Alterar tais conclusões demandaria reexame de elementos fáticos, inviável em recurso especial.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 532.494/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 06/03/2018, DJe 12/03/2018)  grifou-se
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
