@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESTA ALEGAÇÃO. AGRAVO DO INSS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSS, com base na alínea a do art. 105, III da Constituição Federal, contra acórdão do Tribunal Regional da 2a. Região assim ementado:
+DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CÁLCULO. PROVAS.
+I - As provas dos autos indicam que o valor calculado para a renda mensal inicial do beneficio que deu ensejo à execução está de acordo com o título executivo.
+II - Apelação desprovida (fls. 132).
+2. Em seu Apelo Especial inadmitido, sustenta o INSS violação do art. 535, II do CPC ao fundamento de que o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso sobre o erro de cálculo, consistente no número de grupos de 12 contribuições acima do menor valor-teto (fls. 155).
+3. É o relatório. Decido.
+4. Inexiste a violação apontada ao art. 535 do CPC. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, como se pode observar de uma simples leitura dos acórdãos da Apelação (fls. 127/132), que, inclusive, analisou a alegação acerca do número de grupos de contribuições acima do menor valor-teto, e dos Embargos Declaratórios (fls. 144/150). Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SIMPLES REITERAÇÃO DAS ALEGAÇÕES VEICULADAS NO RECURSO ANTERIOR. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL.
+I - A Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, apenas não adotando a tese vertida pelo Agravante. Inexistência de omissão, contradição ou obscuridade.
+II - O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+III - A Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, reiterando apenas as alegações veiculadas no recurso anterior.
+IV - Agravo regimental improvido (AgRg no AREsp. 648.040/MG, Rel. Min. REGINA HELENA COSTA, DJe 8.4.2015).
+
+TRIBUTÁRIO E PROCESSUAL CIVIL. TRIBUTAÇÃO BASEADA NO LUCRO LÍQUIDO DA EMPRESA. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. É sabido que o juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+3. Na espécie, o Tribunal de origem afastou a suposta ilegalidade da tributação pelo regime de lucro real arguida no recurso de apelação, manifestando-se nos seguintes termos: "O regime de arbitramento a que pretende ser submetida a apelante, contudo, está vinculado à imprestabilidade da escrituração contábil e financeira da empresa. In casu, na apuração da existência de receita omitida pelo fisco, encontrou-se o valor omitido pela apuração pela fiscalização nos livros contábeis da própria contribuinte, não justificando a adoção ao regimento de arbitramento dos lucros. (..) Acresça-se a essas considerações que não existe óbice à exclusão do SIMPLES com efeitos retroativos. A jurisprudência do STJ pacificou-se no sentido de que tal providência é natural, e consequência da própria sistemática de apuração das exigências para o enquadramento no regime de tributação diferenciado".
+Agravo regimental improvido (AgRg no REsp 1502984/CE, Rel. Min. HUMBERTO MARTINS, DJe 24.3.2015).
+5. Ante o exposto, nega-se provimento ao Agravo do INSS.
+6. Publique-se. Intimações necessárias.
