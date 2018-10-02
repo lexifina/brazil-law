@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICIPIO DE CAPELA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA VISANDO À INCLUSÃO DA MULTA DO ART. 8º DA LEI 13.254/2016 NA BASE DE CÁLCULO DO FPM. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO. PERDA DE OBJETO EM RAZÃO DE ALTERAÇÃO LEGISLATIVA SUPERVENIENTE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. Apelações interpostas contra sentença que julgou extinto o processo, sem resolução do mérito, por perda do objeto, ação ordinária visando à inclusão da multa instituída no art. 8º da Lei 13.254/2016 na base de cálculo do Fundo de Participação dos Municípios(FPM), condenando a União ao pagamento de honorários advocatícios.
+2. Tendo havido perda de objeto da ação por exaurimento da pretensão autoral, ante a edição da MP nº 753/2016, sem que isso decorra dos fundamentos lastreadores de seus pedidos, não há como, a partir do princípio da causalidade, condenar a União em honorários advocatícios. Tampouco se pode aplicar o princípio da sucumbência para condenar a municipalidade, já que no momento em que propôs a ação ainda havia pretensão resistida.
+3 . Apelação da União provida . Prejudicado o recurso do Município, que pleiteava a majoração dos honorários advocatícios.
+Foram rejeitados os embargos declaratórios opostos pelo Município de Capela.
+No presente recurso especial, o recorrente aponta violação do art. 85, § 10, do CPC/2015.
+Sustenta, em síntese, que é devida a condenação da União em honorários sucumbenciais, em respeito ao princípio da causalidade, tendo em vista que o direito pleiteado pelo Município na presente ação judicial foi posteriormente reconhecido pela edição da Medida Provisória n. 753/2016.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+No que concerne à suposta violação do art. 85, § 10, do CPC/2015, percebe-se que o Tribunal de origem, à fl. 375, ao ponderar acerca da aplicação do princípio da causalidade, atestou que "Tendo havido perda de objeto da ação por exaurimento da pretensão autoral, ante a edição da MP nº 753/2016, sem que isso decorra dos fundamentos lastreadores de seus pedidos, não há como, a partir do princípio da causalidade, condenar a União em honorários advocatícios.", haja vista que "não se pode afirmar que a União tenha reconhecido a procedência do pedido ou mesmo dado causa à propositura da ação.".
+Dessa forma, verifica-se que a irresignação do recorrente, acerca da aplicação do princípio da causalidade à condenação da União em honorários advocatícios sucumbenciais, vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
