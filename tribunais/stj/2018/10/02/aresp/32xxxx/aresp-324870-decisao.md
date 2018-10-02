@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial em virtude da incidência das Súmulas n. 7 e 83 do STJ.
+O Tribunal de origem negou provimento ao apelo interposto pelo agravante, em julgado que recebeu a seguinte ementa (e-STJ fl. 285):
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO ANULATÓRIA. GARANTIA, PESSOAL. AUSÊNCIA DE OUTORGA UXÓRIA.,LEGITIMIDADE EXCLUSIVA DO CÔN"JUGE E HERDEIROS. INSCRIÇÃO. NO ROL DE PROTEÇÃO LEGÍTIMA. SENTENÇA MANTIDA.
+- Não há vício no contrato em que a parte atuou na qualidade de Interveniente Garantidor, assinando-o de forma desvinculada de seu cargo junto à entidade, pois, consubstancia livre manifestação em comprometer-se, pessoalmente, a garantir o cumprimento da obrigação contratual.
+- A nulidade da fiança sob argumento de falta de outorga uxória somente pode ser alegada pelo cônjuge que não firmou contrato (CC, art. 1.650).
+- Havendo débito em aberto referente ao financiamento válido, revela-se legítima a. inscrição do nome do apelante no rol do cadastro de proteção do crédito, não havendo de se falar indenização por danos morais.
+- Negou-se provimento ao recurso.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 313/318).
+Nas razões do recurso especial, interposto com fundamento no art. 105, "a", da CF, o agravante apontou violação dos arts. 138, 139 e 422 do CC/2002, sustentando a nulidade do contrato em virtude da ausência de boa-fé e de erro de fato, ao considerar-se como garantidor o representante da pessoa jurídica. Afirmou, nesse contexto, que (e-STJ fl. 331):
+o Recorrente não é, e também não pode ser considerado como avalista do contrato, na qualidade de pessoa física ali integrante, mas sim como representante legal da Organização Não-Governamental, de modo que se torna forçoso proceder à liquidação dos bens da pessoa jurídica para a integral satisfação do credito existente.
+Aduziu, ainda, a nulidade do aval diante da inexistência da outorga uxória. Destacou (e-STJ fl. 334):
+(..) evidenciada a NULIDADE ABSOLUTA da garantida prestada pelo Recorrente, o reconhecimento ex officio da ausência do requisito indispensável à validade do ato, a saber, a falta da necessária outorga uxória, é medida que se impõe, sob pena de se incorrer em flagrante ilegalidade, gerando o indevido afastamento. dos dispositivos aplicáveis à espécie.
+Por fim, alegou a ocorrência de danos morais com a inscrição indevida em cadastros de restrição ao crédito, sob o argumento de que (e-STJ fl. 337):
+Considerando-se todas as argumentações já expostas no presente recurso excepcional, e, ainda, tendo em vista que contrato foi firmado em flagrante violação à lei, por vício na manifestação de vontade do Recorrente, o que macula o negócio jurídico e o torna nulo, como também, em razão da nulidade absoluta da garantia prestada, por ausência da inafastável outorga uxória, a inscrição do nome do Recorrente no cadastro de proteção ao crédito se mostra indevida, especialmente pelo fato de que a existência de eventual débito em aberto não pode ser a ele imputado, fatalmente por ele não ser o responsável pela dívida.
+Foram apresentadas contrarrazões (e-STJ fls. 348/357):
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A respeito da alegada ofensa à boa-fé e à existência de erro por considerar que o agravante teria assinado o contrato na condição de representante da pessoa jurídica, assim se pronunciou a Corte local (e-STJ fl. 289):
+Compulsando-se os autos, especialmente, o contrato de crédito, bancário de fl. 36/40, verifica-se que nãohá qualquer vício capaz de anulá-lo.
+A Sra. [NOME], na qualidade de, presidente da ONG,, firmou o referido contrato bancário, vinculando a entidade civil como parte financiada.. Logo, trata-se de ato jurídico perfeito, pois em conformidade com o art. 1041 do Código Civil brasileiro, bem como livre de vícios na livre manifestação, da vontade de pessoa legitimada para representar a entidade.
+Por outro lado, o apelante firmou o contrato de financiamento na qualidade de Interveniente Garantidor, assinando-o de forma desvinculada da sua qualidade de 2º Secretário, da entidade. Logo, não há vício, pois consubstancia livre manifestação do apelante,. em comprometer-se pessoalmente, a garantir o cumprimento da obrigação contratada.
+A modificação das conclusões do acórdão recorrido a respeito da condição em que o agravante teria assumido ao assinar o contrato demandaria nova interpretação do instrumento contratual bem como o reexame do contexto fático em que efetivada a celebração do ajuste. Nesse contexto, inviável o recurso especial a teor das Súmulas n. 5 e 7 do STJ.
+Ao tratar da outorga uxória, o TJDFT reconheceu a inadmissibilidade da alegação diante do que dispõe o art. 1.650 do CC/2002 que atribui ao cônjuge ou aos herdeiros a quem incumbe a mencionada outorga a legitimidade para a insurgência pretendida. Das razões do recurso especial, verifica-se que o agravante não impugnou o referido fundamento, incidindo, quanto ao ponto, a Súmula n. 283/STF.
+Por fim, sobre a ocorrência de danos morais, a Corte local decidiu que (e-STJ fl. 290):
+Dessa forma, o negócio jurídico firmado está em conformidade com os parâmetros legais e é válida a garantia prestada. Logo, havendo débito em aberto referente ao financiamento, revela-se legítima a inscrição do nome do apelante no rol do cadastro de proteção ao crédito, não havendo de se falar em indenização por danos morais.
+Também quanto ao ponto, incide a Súmula n. 7/STJ diante da inadmissibilidade do revolvimento de matéria de fato, a fim de alterar a conclusão do acórdão recorrido a respeito da inexistência de fato caracterizar de abalo na esfera moral do agravante.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
