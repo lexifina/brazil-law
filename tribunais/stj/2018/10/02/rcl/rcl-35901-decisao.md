@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de reclamação ajuizada por ÁGUAS GUARIROBA S.A. com fundamento no art. 105, I, f, da Constituição Federal, contra a decisão do Presidente do Tribunal de Justiça do Estado de Mato Grosso do Sul (TJMS) que deferiu a SLS n. 1404694-90.2018.8.12.0000, proposta pelo Município de Campo Grande (MS).
+A reclamante alega que o decisum de fls. 65-68 desconsidera a competência do Superior Tribunal de Justiça ao suspender os efeitos de decisão de magistrado de segundo grau no Agravo de Instrumento n. 1414283-43.2017.8.12.0000 até o trânsito em julgado desse recurso.
+Cita jurisprudência para embasar a tese de usurpação de competência, defendendo que somente o Superior Tribunal de Justiça poderia determinar a " ..  suspensão do cumprimento da decisão proferida no agravo de instrumento nº 1414283-43.2017.8.12.0000" (fl. 7). Assim, requer a imediata suspensão dos efeitos da decisão reclamada.
+Requisitadas informações (fls. 206-207), a autoridade reclamada manifestou-se às fls. 211-217.
+Na petição de fls. 219-222, o Município de Campo Grande sustentou a superveniente perda do interesse processual, tendo em vista o julgamento do próprio mandado de segurança que deu origem à controvérsia.
+Não obstante o teor da ementa de seu parecer, o Ministério Público Federal opinou pela procedência da reclamação (fls. 225-230).
+O Município de Campo Grande apresentou contestação (fls. 255-265).
+Posteriormente, o Presidente do TJMS esclareceu que os processos ajuizados em decorrência da liminar deferida no mandado de segurança, inclusive a suspensão de liminar impugnada por meio desta reclamação, foram extintos em razão da superveniente perda de objeto (fls. 273-275).
+É o relatório. Decido.
+A reclamante, na qualidade de concessionária de serviço público de abastecimento de água potável e de esgotamento sanitário do Município de Campo Grande, impetrou mandado de segurança contra ato do prefeito que concedeu isenção dos valores de tarifa mínima devida pelos usuários - Decreto n. 13.312/2017.
+Argumentou, na oportunidade, que a implementação desse benefício não fora condicionada ao reequilíbrio econômico-financeiro do contrato, deixando-se de observar o disposto nos arts. 35 da Lei n. 9.074/1995 e 9º, § 4º, da Lei n. 8.987/1995, que vedam expressamente essa prática.
+O juiz concedeu a liminar e suspendeu a isenção, e o município adotou duas medidas: interpôs agravo de instrumento (1414283-43.2017.8.12.0000) e formulou pedido de suspensão de liminar à Presidência do TJMS.
+Observa-se que tanto a reclamante quanto o interessado utilizaram-se de todos os meios e recursos para ver atendidos seus interesses; após, foi proferida a decisão impugnada por meio desta reclamação.
+Dada a multiplicidade de feitos ajuizados pelas partes, esses registros são importantes para evidenciar que o cerne da controvérsia é, conforme o interesse de cada parte envolvida, a cassação ou manutenção da decisão liminar proferida pelo juiz de primeiro grau no Mandado de Segurança n. 8000462-40.2017.8.12.08, impetrado pela reclamante.
+Por meio da petição de fls. 220-222, o Município de Campo Grande informou que o próprio mérito do mandado de segurança fora julgado e que a ordem fora denegada.
+O Presidente do TJMS encaminhou cópia da decisão proferida na SLS n. 1404694-90.2018.8.12.0000, da qual consta que, nos " ..  autos do Mandado de Segurança n. 8000462-40.2017.8.12.0800,  ..  foi proferida pelo juízo de primeiro grau, em 5/7/2018, sentença denegatória da segurança pleiteada" (fl. 275). Em razão disso, o feito foi extinto em razão da superveniente perda de objeto.
+Como o mérito do mandado de segurança em questão foi resolvido na origem, perderam o objeto todos os processos ajuizados para reverter as várias decisões liminares proferidas a favor de uma ou de outra parte. Fica, pois, prejudicado também o exame desta reclamação em decorrência da cessação do interesse de agir da reclamante.
+Ante o exposto, julgo extinta a reclamação por superveniente perda de objeto, nos termos do art. 485, VI, do CPC.
+Custas ex lege.
