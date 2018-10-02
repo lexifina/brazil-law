@@ -1,0 +1,4 @@
+DECISÃO
+1. Em razão da concordância das partes em relação ao cálculo apresentado pela Contadoria Judicial, às fls. 328-383, expeçam-se as requisições de pagamento, acrescidas dos consectários legais conforme orientação jurisprudencial desta Corte firmada em recurso repetitivo, bem como que se faça o destaque dos honorários, se for o caso.
+2. Defiro o pedido de habilitação formulado por [NOME], às fls. 400-420, sucessora de [NOME], bem como o formulado por [NOME], representada por José Isídio dos [NOME], às fls. 424-431, sucessora de Francisco Izidio dos [NOME]. Ressalto, porém, que o levantamento dos valores se condicionam a adequada apresentação de toda documentação necessária, como por exemplo o formal de partilha ou de sobrepartilha, nos termos da Instrução Normativa n. 3 desta Corte.
+Publique-se e cumpra-se.
