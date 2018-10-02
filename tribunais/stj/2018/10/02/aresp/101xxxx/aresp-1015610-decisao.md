@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por BANCO CRUZEIRO DO SUL S.A - MASSA FALIDA em face da decisão acostada a fls. 225-228, e-STJ, que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 51-54, e-STJ, proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+Agravo interno contra decisão que negou seguimento ao agravo de instrumento. Recurso decidido monocraticamente em razão de sua manifesta improcedência. Incidência do artigo 557, caput, do CPC. Manutenção da decisão monocrática agravada.
+Opostos embargos de declaração (fls. 57-62, e-STJ), restaram providos, tão somente, para correção de erro material (fls. 64-66, e-STJ).
+Submetidos a novo julgamento, após determinação desta Corte (fls. 131-137, e-STJ), os aclaratórios foram providos para sanar omissão, sem efeito modificativo (fls. 160-162, e-STJ).
+Nas razões de recurso especial, alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigos 1.022, inc. II, 371 e 489 do CPC/15, porquanto a Corte de origem teria deixado de analisar as provas apresentadas; (ii) artigo 84, inc. IV, da Lei nº 11.101/05, uma vez que as custas judiciais são consideradas créditos extraconcursais, o que autorizaria o seu recolhimento ao final do processo; (iii) artigos 1º e 19 da Lei nº 6.024/74, ao argumento de que estaria em liquidação extrajudicial, e não em recuperação judicial, bem como não estaria mais em operação. Aduziram, ainda, haver dissídio jurisprudencial em seu favor.
+Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao apelo nobre indicando a inexistência de omissão, por aplicação da súmula 7/STJ e por não ter sido demonstrado o dissídio na forma exigida.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada a fls. 238-271, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Não foram apresentadas contrarrazões.
+É o relatório
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, o recurso especial alega que o acórdão impugnado deveria ser anulado, por deficiência de fundamentação, bem como por se encontrar eivado de omissão, uma vez que não teria se manifestado sobre as provas apresentas a fim de demonstrar a incapacidade de arcar com as custas.
+Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022, inc. II, do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito, ainda que de modo contrário aos interesses da parte.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018; AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018; AgInt nos EDcl no REsp 1647017/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 02/04/2018.
+Igualmente, não há que se falar em ofensa artigo 371 e 489 do CPC/15, uma vez que a Corte de origem se manifestou, de forma expressa, sobre as provas apresentadas pelo insurgente, conforme se extrai do seguinte trecho:
+O fato do embargante estar em recuperação judicial revela, na verdade, a viabilidade econômica da empresa, tanto que permanece exercendo a sua atividade mercantil (artigos 53, II e 64, Lei nº 11.101/051). Os balancetes que instruem o agravo demonstram prejuízo contábil, mas não indicam a impossibilidade de recolhimento das custas porque, repita-se, a instituição financeira permanece em atuação.
+Por outro lado, o recolhimento das custas ao final é medida excepcional e inaplicável ao caso por envolver instituição financeira. (fls. 162, e-STJ)
+Afasta-se, portanto, a alegada violação aos artigos 1.022, inc. II, 371 e 489 do CPC/15.
+2. Já em relação às alegadas ofensas aos artigos 84, inc. IV, da Lei nº 11.101/05 e 1º e 19 da Lei nº 6.024/74, busca a insurgente a concessão de justiça gratuita, ou o pagamento das custas somente ao final do processo, em razão de se encontrar em liquidação extrajudicial, determinada pelo Banco Central.
+A Corte de origem entendeu, em síntese, que não estaria demonstrada situação excepcional a demonstrar a necessidade de concessão da gratuidade de justiça, ou mesmo de autorização para pagamento das custas ao final do processo.
+A reanálise dessas questões pressupõe enfrentar o quadro fático delineado na instância ordinária, o que é vedado nesta via recursal extrema, vocacionada à discussão eminentemente jurídica.
+Ademais, é também entendimento desta Corte que a situação de liquidação extrajudicial não conduz, por si só, à concessão de justiça gratuita, tal como decidiu a Corte de origem, devendo a excepcionalidade ser demonstrada.
+Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. INSTITUIÇÃO FINANCEIRA EM LIQUIDAÇÃO EXTRAJUDICIAL. INDEFERIMENTO DO BENEFÍCIO. CONCLUSÃO DO ACÓRDÃO PELA AUSÊNCIA DE COMPROVAÇÃO DA CARÊNCIA DE RECURSOS. INCIDÊNCIA DA SÚMULA 83 DO STJ. IMPOSSIBILIDADE DE ALTERAR O ENTENDIMENTO FIRMADO NO ARESTO IMPUGNADO. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A solução dada pelo acórdão recorrido está em consonância com a jurisprudência desta Corte, segundo a qual: "O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie" (AgInt no REsp 1.619.682/RO, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 15/12/2016, DJe 7/2/2017). Incidência da Súmula 83/STJ.
+2. Para elidir as conclusões do aresto impugnado quanto às convicções formadas pelo Tribunal de origem acerca da ausência da comprovação da hipossuficiência do recorrente, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial nos termos da Súmula n. 7 do STJ.
+3. Agravo interno improvido.
+(AgInt no REsp 1677141/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/08/2017, DJe 28/08/2017)  grifou-se
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 165, 458, II, E 535 NÃO VERIFICADA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. GRATUIDADE JUDICIÁRIA. INSTITUIÇÃO FINANCEIRA EM LIQUIDAÇÃO EXTRAJUDICIAL. TRIBUNAL DE ORIGEM QUE CONCLUI PELA AUSÊNCIA DE COMPROVAÇÃO DO ESTADO DE HIPOSSUFICIÊNCIA, À LUZ DOS DOCUMENTOS CARREADOS AOS AUTOS. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ.
+1. É defeso a esta Corte apreciar alegação de violação a dispositivos constitucionais, ainda que com intuito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. "As pessoas jurídicas podem ser contempladas com o benefício da Justiça Gratuita. Cuidando-se, porém, de Banco, ainda que em regime de liquidação extrajudicial, a concessão da gratuidade somente é admissível em condições excepcionais, se comprovado que a instituição financeira efetivamente não ostenta possibilidade alguma de arcar com as custas do processo e os honorários advocatícios. Elementos no caso inexistentes" (REsp 338.159/SP, DJ de 22/4/2002).
+3. Na espécie, o Tribunal de origem, à luz dos documentos juntados pela instituição financeira liquidanda, concluiu pela ausência de elementos que justificassem a concessão do benefício da gratuidade judiciária, ou mesmo do pagamento das custas ao final do processo.
+Assim, a revisão do julgado demandaria nova incursão nos elementos fático-probatórios, providência vedada em sede de recurso especial, sendo aplicável o entendimento cristalizado na Súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 466.246/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/05/2014, DJe 22/05/2014)  grifou-se
+Incidem, assim, as Súmula 7 e 83/STJ na espécie.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
