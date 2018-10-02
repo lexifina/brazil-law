@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE CUIABÁ com respaldo nas alíneas "a", "b" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso, assim ementado (e-STJ fl. 311):
+AGRAVO REGIMENTAL - APELAÇÃO/REEXAME NECESSÁRIO - DECISÃO MONOCRÁTICA - URV - REESTRUTURAÇÃO DA CARREIRA DOS SERVIDORES - NÃO COMPROVAÇÃO DA ABSORÇÃO DA DEFASAGEM - PRESCRIÇÃO - SÚMULA 85, DO STJ - SUCUMBÊNCIA RECÍPROCA - ART. 21, DO CPC- INAPLICABILIDADE-NORMA HARMÔNICA COM A DECISÃO AGRAVADA- RECURSO DESPROVIDO.
+Incumbe ao Município comprovar que as leis que reestruturaram as carreiras absorveram a referida defasagem, demonstrando qual o método utilizado, ou mesmo a correção nas fichas financeiras.
+Nas demandas em que se busca o reconhecimento de diferenças salariais advindas de errônea conversão da moeda, a prescrição atinge tão somente as parcelas anteriores aos 05 (cinco) anos que antecederam a data da propositura da ação, nos termos da Súmula nº 85 do STJ.
+Inexistindo sucumbência da parte autora, não há que se falar na aplicação do art. 21 do CPC.
+Nas suas razões, a parte recorrente apontou violação dos arts. 333, I e 460 do CPC/1973, afirmando que a parte autora não comprovou fato constitutivo do direito pleiteado. Acrescenta que a determinação de apuração da defasagem salarial, em fase de liquidação de sentença, fere o princípio que veda a prolação de sentença condicional.
+Sem contrarrazões.
+ Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 346/348.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Em relação ao cabimento do recurso com base na alínea "b" do permissivo constitucional, não se observa nas suas razões a demonstração de que o acórdão combatido tenha julgado válido ato de governo local contestado em face de lei federal. Assim, quanto ao ponto, incide o óbice da Súmula 284 do STF, por deficiência de fundamentação.
+Quanto ao art. 460 do CPC/1973, da análise dos autos, verifica-se a ausência de prequestionamento, tendo em vista que o acórdão de origem não tratou do tema objeto de irresignação do ora agravante. Assim, incide à espécie o entendimento consolidado na Súmula 282 do STF. Note-se, ainda, que nem sequer foram opostos embargos de declaração para sanar a omissão.
+Quanto ao mais, alteração das conclusões adotadas pelas instâncias ordinárias, acerca da comprovação do direito à reposição salarial, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, o aresto recorrido não destoa da jurisprudência deste Tribunal, no sentido de que, "somente em liquidação de sentença, há de se apurar a efetiva defasagem remuneratória devida aos servidores públicos decorrente do método de conversão aplicado pelo Município em confronto com a legislação federal, de modo a evitar eventual pagamento em duplicidade e o enriquecimento sem causa" (AgRg nos EDcl no REsp 1.237.530/SP, Rel. Ministro Cesar Asfor Rocha, Segunda Turma, julgado em 29/05/2012, DJe 13/06/2012). Incide, na hipótese, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+ Publique-se. Intimem-se.
