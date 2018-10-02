@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre Juízo Federal da 1ª Vara de Naviraí - SJ/MS contra o Juízo de Direito da 2ª Vara Cível de Naviraí - MS, nos autos de ação ordinária proposta em desfavor do Instituto Educacional do Estado de São Paulo - Iesp.
+O Juízo de Direito da 2ª Vara Cível de Naviraí extinguiu o processo, sem resolução de mérito, em relação à União, e declarou-se incompetente para processar e julgar o feito, porquanto "na inicial sequer se faz qualquer menção à União, de modo a se poder concluir tratar-se de típica relação de matriz consumerista, visto que a causa de pedir remota dirige-se à prestação de serviço educacional, fornecido pela Instituição de Ensino Superior que figura como corré" (e-STJ fl. 64).
+O Juízo Federal da 1ª Vara de Naviraí, por sua vez, suscitou o presente conflito de competência, por entender que, "ao que se noticia nos autos, o diploma pleiteado ja foi expedido, ou seja, não se discute eventual falta de registro do documento no MEC, ou eventual falta de credenciamento do curso. Assim, a demanda não se encaixa em qualquer das hipóteses da competência cível geral da Justiça Federal".
+Dispensei manifestação do Ministério Público Federal, tendo em vista cuidar-se de questão já conhecida desta Corte.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6.6.2018.
+Na origem, a autora ingressou com ação ordinária pretendendo que seja expedido seu diploma de curso superior, porquanto a demora da instituição de ensino em fazê-lo.
+Verifica-se que a lide é restrita ao interesse de particulares, a estudante, autora da ação, e a Faculdade, que é pessoa jurídica de direito privado.
+Dessarte, não figurando como parte nenhuma das entidades citadas no art. 109, I, "a", da Constituição Federal, compete à Justiça Estadual o julgamento do feito. Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO CONFLITO DE COMPETÊNCIA. INSTITUIÇÃO DE ENSINO. EXPEDIÇÃO DE DIPLOMA. IRREGULARIDADE NA INSCRIÇÃO DOS ALUNOS. AUSÊNCIA DE INTERESSE DA UNIÃO
+1. Nas causas que envolvam instituições de ensino superior, a União possui interesse (o que enseja a competência da Justiça Federal) quando se trata de: (I) registro de diploma perante o órgão público competente (inclusive credenciamento junto ao MEC); ou (II) mandado de segurança. Por outro lado, não há falar em interesse da União nas lides (salvo mandados de segurança) que digam respeito a questões privadas concernentes ao contrato de prestação de serviço firmado entre essas instituições e seus alunos (essas causas, portanto, devem ser processadas e julgadas pela Justiça Estadual).
+2. No presente caso, a falta de expedição do diploma não é decorrente da ausência de credenciamento da instituição de ensino superior pelo Ministério da Educação, mas de irregularidade na própria inscrição dos alunos.
+3. Não há interesse jurídico da União a ensejar a competência da Justiça Federal, pois eventual procedência do pedido limitar-se-á à esfera privada entre a aluna/autora e a instituição de ensino/ré.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no CC 128.718/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 16/05/2018).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INSTITUIÇÕES DE ENSINO SUPERIOR. COMPETÊNCIA PARA JULGAMENTO. REGISTRO DE DIPLOMA PERANTE ÓRGÃO PÚBLICO COMPETENTE. INTERESSE DA UNIÃO. JUSTIÇA FEDERAL. PRESTAÇÃO DE SERVIÇO. INDENIZAÇÃO POR DANOS MORAIS. JUSTIÇA ESTADUAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - A jurisprudência desta Corte Superior definiu que, nas causas que envolvam instituições de ensino superior, a União possui interesse, a ensejar o reconhecimento da competência da Justiça Federal, quando se tratar de registro de diploma perante o órgão público competente, incluindo o credenciamento junto ao Ministério da Educação e nos mandado de segurança. III - Não há falar em interesse da União nas ações que digam respeito a questões privadas concernentes ao contrato de prestação de serviço firmado entre essas instituições e seus alunos, sendo processadas e julgadas perante a Justiça Estadual. In casu, trata-se de ação de indenização por danos morais devido a não entrega do diploma do Curso de Ensino Superior, tendo em vista que houve a desistência do pedido de concessão do diploma. Assim, não há interesse jurídico da União a ensejar a competência da Justiça Federal, porquanto o pedido limita-se a esfera privada entre aluno e instituição de ensino.
+(..)
+(AgInt no REsp 1697874/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 21/02/2018).
+ADMINISTRATIVO E PROCESSUAL CIVIL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. ENSINO SUPERIOR. ENTIDADE PARTICULAR. NEGATIVA DE EXPEDIÇÃO DE DIPLOMA. AUSÊNCIA DE INTERESSE DA UNIÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. ILEGITIMIDADE PASSIVA DA UNIÃO. SÚMULA 83/STJ.
+(..)
+2. A Primeira Seção desta Corte, no julgamento do CC 38.130/SP, Rel. Min. Teori Albino Zavascki, DJ de 13.10.2003, firmou entendimento no sentido de que, em se tratando de ação diversa à do mandado de segurança, a competência para o seu processamento e julgamento, quando se discute a matrícula de aluno em entidade de ensino particular, é da Justiça Estadual, portanto inexistentes quaisquer dos entes elencados no art. 109 da CF/88.
+3. Sendo a hipótese de ação ordinária contra instituição estadual de ensino superior, e não integrando a lide nenhum ente federal, nos termos do art. 109, I, da Constituição Federal, a competência para processar e julgar a demanda é da Justiça Estadual.
+4. Aplica, à espécie, o enunciado da Súmula 83/STJ, por analogia, verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Agravo regimental improvido.
+(AgRg no REsp 1274304/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 25/04/2012).
+Ante o exposto, com base no art. 120, parágrafo único, do CPC, conheço do Conflito e declaro competente o Juízo de Direito da 2ª Vara Cível de Naviraí , ora suscitado.
+Publique-se.
+Intimem-se.
