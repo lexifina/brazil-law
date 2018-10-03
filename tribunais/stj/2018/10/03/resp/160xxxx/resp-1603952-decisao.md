@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR. INDÍCIOS. SÚMULA Nº 435 DO STJ. § 5º DO ART. 9º DA LC 123/2006.
+1. É possível a responsabilização do administrador, no caso de dissolução irregular da sociedade, consoante precedentes do STJ e desta Corte, na medida em que é seu dever, diante da paralisação definitiva das atividades da pessoa jurídica, promover-lhe a regular liquidação. Não cumprido tal mister, nasce a presunção de apropriação indevida dos bens da sociedade.
+2. Na hipótese em tela, o redirecionamento foi deferido em face dos indícios de dissolução irregular presentes nos autos.
+3. A inclusão no polo passivo da execução deve ocorrer contra o sócio responsável pelo ato que legitima o redirecionamento.
+4. Embora verificado que a empresa executada encerrara suas atividades, nada indica ter havido a efetiva baixa no registro mercantil.
+5. Não se justifica a aplicação do § 5º do art. 9º da LC 123, de 2006.
+6. Agravo legal desprovido.
+A recorrente alega violação :
+a) do art. 1.022 do CPC/2015, por considerar obrigatória a integração pedida nos embargos de declaração, pertinente à aplicação do art. 9º, §5º, da Lei complementar 123/2006 para o redirecionamento da execução fiscal à sócio após a dissolução irregular de micro empresa;
+b) do art. 9º, § 5º, da LC n. 123/2006 e do art. 135 do Código Tributário Nacional, ao argumento de estarem preenchidos os requisitos para o redirecionamento no caso de dissolução irregular da sociedade empresária, em especial por haver previsão expressa de responsabilização dos sócios de microempresas e empresas de pequeno porte pelos créditos tributários da sociedade não adimplidos até a sua baixa.
+Sem contrarrazões.
+Passo a decidir.
+A questão jurídica referente à possibilidade de redirecionamento da execução fiscal contra o sócio que, apesar de exercer a gerência da empresa devedora à época do fato tributário, dela regularmente se afastou, sem dar causa, portanto, à posterior dissolução irregular da sociedade empresária foi submetida à Primeira Seção para ser julgada pela sistemática dos recursos repetitivos, tendo sido escolhido o Recurso Especial 1.377.019/SP, de relatoria da Ministra Assusete Magalhães, como representativo da controvérsia.
+Assim, encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, Rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, Rel. Min. Benedito Gonçalves, DJe 17/03/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
