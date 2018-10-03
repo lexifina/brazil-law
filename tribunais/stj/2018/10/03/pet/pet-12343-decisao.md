@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de petição apresentada por [NOME], objetivando conferir efeito suspensivo a recurso especial inadmitido na origem, mas ainda não processado nesta Corte, interposto contra acórdão proferido pelo TJAM.
+Em razão da deficiência na instrução do feito, foi determinada a intimação da requerente para que, nos termos dos artigos 320 e 321 do CPC, instruísse o pleito com as peças essenciais ao deslinde do feito, dentre elas a petição de recurso especial e o inteiro teor do acórdão proferido na Corte de origem, com a respectiva publicação.
+Ocorre que, às fls. 51 à 91, a requerente, não obstante traga as razões do recurso especial, deixou de juntar a cópia do acórdão proferido pela origem, que negou provimento à apelação, bem como de sua respectiva publicação, tendo se limitado a colacionar a decisão de admissibilidade do recurso especial, a qual, inclusive, já estava nos autos às fls. 23/27.
+Em razão do exposto, indefiro a presente petição, nos termos do artigo 321, parágrafo único, do CPC.
