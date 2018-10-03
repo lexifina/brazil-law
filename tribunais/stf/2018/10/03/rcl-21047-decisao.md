@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    A União afirma haver a Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado de Sergipe, no processo nº 0507426-50.2014.4.05.8500, usurpado a competência do Supremo.
+    Segundo narra, Fábio Cordeiro de Lima, magistrado federal substituto, formalizou contra si ação visando o pagamento da diferença surgida considerado o subsídio de juiz titular relativamente aos períodos em que exerceu a função de suplente em Turma Recursal, aludindo ao previsto nos artigos 124 da Lei Complementar nº 35/1979 e 8º da Resolução nº 1/2008 do Conselho da Justiça Federal. Relata o afastamento da preliminar de incompetência e a procedência do pedido, tendo sido o entendimento mantido em sede de recurso inominado.
+    Sustenta usurpada a competência do Tribunal, com base no disposto no artigo 102, inciso I, alínea “n”, da Constituição de 1988, uma vez em jogo interesse dos membros da magistratura. Consoante argui, todos os juízes federais são ou já foram substitutos, no que afetados pela decisão impugnada. Acrescenta que a Turma Recursal é formada por magistrados de primeira instância, a revelar o interesse de mais da metade dos respectivos membros julgadores. Menciona o verbete nº 731 da Súmula do Supremo, segundo o qual seria da competência originária do Tribunal definir se juízes possuem direito a licença-prêmio em face da Lei Orgânica da Magistratura Nacional. Ressalta a desnecessidade de discussão a envolver benefício exclusivo da magistratura para efeito da configuração da competência do Supremo. Evoca jurisprudência.
+    Sob o ângulo do risco, menciona o pagamento de valores indevidos, de difícil repetição em virtude do caráter alimentar.
+    Requer, liminarmente, a suspensão do curso do processo na origem. Busca, alfim, a cassação do ato questionado.
+    2. Percebam as balizas do caso concreto. Magistrado federal substituto formalizou demanda, na origem, objetivando a condenação da União ao pagamento de diferenças, observado o subsídio de juiz titular, pela atuação como suplente em turma recursal de juizados especiais. Atendido o pleito na origem, busca a anulação de acórdão em recurso inominado, considerada a competência originária do Supremo para o processamento da causa.
+    É imprópria a irresignação. Tendo em vista o descrito no artigo 102, inciso I, alínea “n”, da Constituição de 1988, a despeito do envolvimento de interesse atinente à magistratura federal, não se faz em jogo controvérsia a alcançar todos os membros do Poder Judiciário, mas apenas aqueles enquadrados na situação retratada na inicial. No mais, levando em conta o versado no citado dispositivo da Lei Maior, descabe articular com a competência originária do Supremo em razão do envolvimento de alegado interesse de mais da metade dos membros de turma recursal uma vez que estas não ostentam a natureza de tribunal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 3 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
