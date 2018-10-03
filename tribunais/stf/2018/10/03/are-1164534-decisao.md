@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Sul, ementado nos seguintes termos:
+    “APELAÇÕES CÍVEIS. REEXAME NECESSÁRIO. DIREITO PÚBLICO NÃO ESPECIFICADO. AÇÃO CIVIL PÚBLICA. PRELIMINARES DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL E DE ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. REJEIÇÃO. TRANSBORDAMENTO DE ARROIO, CAUSANDO DESTRUIÇÃO DE UMA CASA E ALAGAMENTO DE DIVERSOS IMÓVEIS NO BAIRRO GENERAL OSÓRIO, NO MUNICÍPIO DE ESTEIO. RESPONSABILIDADE DO MUNICÍPIO, DA CORSAN E DA EMPRESA VOTORANTIM PELO EVENTO DANOSO. (...)” (eDOC 29, p. 45)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, a, da Constituição Federal, aponta-se violação ao art. 127 do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o Ministério Público não deteria legitimidade para a propositura da ação civil pública para tutelar direito individual homogêneo disponível. (eDOC 32, p. 15/16)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Leis 7.347/1985, 8.625/1993 e 8.078/1990 e Código de Processo Civil) e o conjunto probatório constante dos autos, consignou a legitimidade ativa do Ministério Público para a presente ação civil pública. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso em tela, ao propor a presente ação civil pública, está o Ministério Público agindo não só em defesa do meio ambiente e da ordem urbanística, mas também de outros interesses difusos e coletivos, o que deixa claro o interesse processual. Veja-se que o objetivo primordial da presente ação é que sejam tomadas providências para prevenir que novos alagamentos venham a ocorrer, vitimando mais famílias e causando prejuízos aos moradores do Bairro General Osório e das redondezas”. (eDOC 29, p. 56)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em agravo de instrumento. 2. Responsabilidade civil. Dano moral e material. 3. A Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas (AI-QO-RG 791.292). 4. Legitimidade do Ministério Público para ajuizar ação civil pública. Discussão acerca da natureza do direito tutelado. Índole infraconstitucional. Necessidade de reexaminar o conjunto fático-probatório. Súmula 279. Precedentes. (…)". (AI 831490-AgR, de minha relatoria, Segunda Turma, DJe 09.10.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO DO TRABALHO PARA AJUIZAR AÇÃO CIVIL PÚBLICA. DIREITO INDIVIDUAL HOMOGÊNEO. NATUREZA DO DIREITO TUTELADO. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. II - Agravo regimental a que se nega provimento." (ARE 689575-AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 03.02.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista se tratar de ação civil pública na origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 3 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
