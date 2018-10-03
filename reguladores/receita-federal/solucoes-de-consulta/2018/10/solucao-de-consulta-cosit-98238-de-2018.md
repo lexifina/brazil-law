@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98238, de 13 de setembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8443.99.31 Mercadoria: Mecanismo de impressão a laser, sem placa formatadora,constituído por unidade de alimentação para impressão frente e verso, rolete de tração, rolete de pressão, unidade de fixação da imagem, rolete de tração de saída do papel, rolete de tração de entrada do papel, bloco separador, rolete de tração de alimentação, rolete de transferência e estrutura plástica de sustentação, com cilindro fotossensível montado em seu suporte (unidade geradora de imagem), utilizado na fabricação de impressora a laser.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 2 da Seção XVI e texto da posição 84.43), RGI 6 (textos das subposições 8443.9 e 8443.99), RGC 1 (textos do item 8443.99.3 e do subitem 8443.99.31) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016.
+[arquivo anexo: SC Cosit nº 98.238-2018.pdf]
