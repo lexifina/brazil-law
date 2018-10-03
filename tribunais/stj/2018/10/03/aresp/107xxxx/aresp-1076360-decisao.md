@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSENTE. PENHORA DE DINHEIRO. SUBSTITUIÇÃO POR BEM IMÓVEL. INDEFERIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por COMPANHIA EXCELSIOR DE SEGUROS em face da decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do art. 105, III, da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SEGURO HABITACIONAL. INTERLOCUTÓRIO QUE RECUSOU O IMÓVEL INDICADO PELA SEGURADORA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA AD CAUSAM E DE QUE O DEPÓSITO DO VALOR DA CONDENAÇÃO OU O BLOQUEIO JUDICIAL PODERÃO CAUSAR GRAVES PREJUÍZOS À EMPRESA AGRAVANTE. SEGURADORA QUE ASSUME DIREITOS E OBRIGAÇÕES RELATIVAS AO CONTRATO DE SEGURO. ILEGITIMIDADE PASSIVA AD CAUSAM AFASTADA. OBSERVÂNCIA DA ORDEM LEGAL DE NOMEAÇÃO DE BENS À PENHORA ESTABELECIDA NO ART. 835 DO NOVO CPC. PRINCÍPIO DE QUE A EXECUÇÃO DEVE OBSERVAR A FORMA MENOS ONEROSA AO DEVEDOR QUE DEVE SER RELATIVIZADO DIANTE DO DIREITO DO CREDOR À SATISFAÇÃO DO SEU CRÉDITO. IMÓVEL OFERTADO QUE SE LOCALIZA EM OUTRO ESTADO DA FEDERAÇÃO. SITUAÇÃO QUE PODE ACARRETAR MAIOR DEMORA NA SOLUÇÃO DO LITÍGIO, PREJUDICANDO OS AGRAVADOS QUE AGUARDAM HÁ ANOS O RECEBIMENTO DO QUE LHES É DEVIDO, CABENDO A SEGURADORA, APÓS O PAGAMENTO SOLICITAR O REEMBOLSO DA QUANTIA PAGA A QUEM DE DIREITO. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+A Resolução de nº 221, de 04/12/07, do Conselho Curador do Fundo de Compensação de Variações Salariais, que altera o anexo 12 do Manual de Normas e Procedimentos Operacionais do Seguro Habitacional do Sistema Financeira de Habitação - MNPO/SH, aprovado pela Resolução do Conselho Curador do FCVC nº 179, de 28/04/06, traça as diretrizes para o Adiantamento e Reembolso às Seguradoras para cobertura de despesas e indenizações de sinistros, decorrentes de ações judiciais envolvendo a apólice do SH/SFH. (e-STJ, fl. 1.889)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.910/1.919).
+Em sede de recurso especial, a parte recorrente alega violação aos artigos 805, 835 e 1.022, inciso II, do CPC/15; aos artigos 620 e 655, do CPC/73; à Súmula 417/STJ; sustentando que comprovou que não tem condições de realizar o depósito e que o bloqueio judicial poderá causar-lhe lesão grave.
+Defende que foi apresentado imóvel que observa o princípio da menor onerosidade.
+Contrarrazões apresentadas (e-STJ, fls. 1.957/1.964).
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+De início, a agravante aponta a tese de omissão sustentando que o Tribunal de origem não observou a ordem de preferência legal, bem como não comprovou a impossibilidade de depósito judicial sem prejuízo. Alega, pois, malferimento do artigo 1.022, do CPC/15.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. CUSTAS PROCESSUAIS. SUCUMBÊNCIA MÍNIMA. RESPONSABILIDADE INTEGRAL DA PARTE VENCIDA.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Verificada a sucumbência mínima, caberá à outra parte, por inteiro, responder pelas custas e honorários advocatícios.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgRg no REsp 1448042/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 15/10/2015, DJe 21/10/2015 - grifou-se)
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA (..)
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado. (..)".
+(REsp 1.134.690/PR, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 15/02/2011)
+Sobre as omissões, o Tribunal de origem fundamentou que:
+Os documentos juntados pela agravante (fls. 1723-1854), além de terem sido juntados somente depois da decisão que recusou o imóvel ofertado pela tá seguradora, demonstram apenas que a seguradora está inserida em Plano de Regularização de Insolvência, para garantir que seus segurados recebam as indenizações referentes aos sinistros já ocorridos ou prestes a ocorrer. Não se pode esquecer, ainda, que o imóvel ofertado situa-se em Pernambuco, na cidade de Recife e, não foi juntado nenhum documento de propriedade do bem, nem mesmo a respectiva certidão de matrícula, a qual foi .c c apenas informada no laudo de avaliação de fls. 1666-1685, elaborado pela seguradora. E, além de não haver a agravante observado a ordem de nomeação de o bens à penhora estabelecida no art. 835 do CPC, é certo que a venda do imóvel o ofertado, avaliado em tão alto valor, R$ 5.500.000,00 (cinco milhões e quinhentos mil reais), não será muito fácil, o que poderá causar mais demora e, por consequência, acarretar prejuízo aos credores, que há muitos anos esperam receber o que lhes é devido. Oportuno ressalvar, por fim, a prioridade que se deve conferir à eficácia da sentença condenatória, no sentido de viabilizar a produção de seus efeitos normais, que apenas cede lugar, quando os argumentos do devedor são to cn relevantes e a providência determinada for manifestamente suscetível de causar-lhe prejuízo, o que não foi verificado no caso em tela. (e-STJ, fls. 1.915/1.916 - grifou-se)
+Sendo assim, ausente omissão no julgado, que examinou, com fundamento nos fatos e provas, a ausência de prejuízo e a possibilidade do depósito.
+No presente caso, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+A propósito, confira:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ADIMPLEMENTO CONTRATUAL. SUBSTITUIÇÃO DE PENHORA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à matéria relativa aos arts. 128, 460 e 468, do CPC/1973, constata-se que ela não foi objeto de discussão pela Corte local, tampouco a parte recorrente opôs embargos de declaração com o intuito de sanar a omissão. É entendimento assente no Superior Tribunal de Justiça a exigência do prequestionamento da matéria, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. O STJ possui firme o entendimento no sentido de que "a despeito da nova redação do art. 656, § 2º, do Código de Processo Civil, a substituição da garantia em dinheiro por outro bem ou carta de fiança somente deve ser admitida em hipóteses excepcionais e desde que não ocasione prejuízo ao exequente, sem que isso enseje afronta ao princípio da menor onerosidade da execução para o devedor" (REsp 1.090.864/RS, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 10.05.2011, DJe 01.07.2011).
+3. O Tribunal de origem, após a análise dos elementos fático - probatório do autos, manteve o indeferimento do pedido de substituição da penhora por seguro garantia. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1129823/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/04/2018, DJe 02/05/2018 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. 1. SUBSTITUIÇÃO DA PENHORA EM DINHEIRO POR SEGURO GARANTIA. EXCEPCIONALIDADE NÃO DEMONSTRADA. INDEFERIMENTO DA MEDIDA. SÚMULA 83 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. "Realizada a penhora em dinheiro, não cabe, em regra, a sua substituição por seguro garantia ou fiança bancária, por força do princípio da satisfação do credor" (AgRg no AREsp 730.565/SC, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/4/2016, DJe 26/4/2016).
+1.1. A Corte estadual considerou não haver nenhuma circunstância extraordinária que pudesse afastar o entendimento de ser inviável a
+substituição da penhora em dinheiro por seguro garantia. Incidência
+da Súmula 83 do STJ.
+2. Agravo interno improvido.
+(AgInt no AREsp 1066079/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 03/08/2017, DJe 17/08/2017 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PENHORA DE DINHEIRO. SUBSTITUIÇÃO POR BEM IMÓVEL DE TERCEIRO. INDEFERIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Realizada a penhora em dinheiro, não cabe, em regra, a sua substituição, por força do princípio da satisfação do credor. Precedentes.
+2. A revisão das circunstâncias fáticas que levaram as instâncias de cognição plena a não admitir a excepcional substituição da penhora é medida que encontra intransponível óbice no enunciado nº 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no AREsp 902.727/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/10/2016, DJe 10/11/2016 - grifou-se)
+Por fim, observo, por oportuno, que o dissídio jurisprudencial não foi devidamente comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/73, e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio.
+No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
