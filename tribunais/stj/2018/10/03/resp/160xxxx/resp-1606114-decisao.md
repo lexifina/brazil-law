@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSO CIVIL. AÇÃO CAUTELAR VINCULADA A MANDADO DE SEGURANÇA. VERBA HONORÁRIA. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA 105/STJ. RECURSO ESPECIAL DA FAZENDA NACIONAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto, com fundamento na alínea a do art. 105, III da Constituição Federal, objetivando a reforma do acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ART. 557, §1º, DO CPC. AÇÃO CAUTELAR ORIGINÁRIA. JULGAMENTO DA AÇÃO PRINCIPAL DESFAVORÁVEL AO CONTRIBUINTE. EXTINÇÃO SEM CONHECIMENTO DE MÉRITO. INADEQUAÇÃO DA AÇÃO CAUTELAR PARA A COBRANÇA PELA FAZENDA NACIONAL DE CRÉDITOS TRIBUTÁRIOS. DESCABIMENTO DA CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+I- O ordenamento jurídico disponibiliza à Fazenda Nacional os instrumentos adequados para promover a cobrança dos créditos tributários, tanto em sede administrativa, como em sede judicial. Em que pese a sucumbência do contribuinte na ação principal em que se discute a exigibilidade de créditos tributários, a ação cautelar não se presta à cobrança de valores de tais valores.
+II- A presente ação cautelar originária foi ajuizada incidentalmente à ação principal então já proposta e sentenciada, a fim discutir questão interlocutória nascida no próprio bojo na ação principal (exigência de depósitos judiciais). Portanto, verifica-se que sua propositura é meramente instrumental, razão pela qual inexiste sucumbência a justificar a condenação da requerente ao pagamento de honorários advocatícios.
+III- Agravo desprovido (fls. 154).
+2. Os Embargos de Declaração opostos (fls. 157/167), foram (fls. 170/174).
+3. Nas razões do seu Apelo Nobre, sustenta a recorrente violação dos arts. 20, § 3o., 535, II do CPC/1973 e 26 da Lei 12.016/2009, além da Súmula 405/STF. Aduz, que considerando-se que no mandado de segurança originário não há condenação da impetrante ao paqamento de verba honorária, mister se faz seja a verba sucumbencial fixada nos presentes autos, por força do princípio da causalidade, nos parâmetros do art. 20, § 3º, CPC (fls. 180).
+4. Apresentadas contrarrazões (fls. 189/197), o recurso fora admitido na origem (fls. 199).
+5. É o breve relatório. Decido.
+6. O recurso não merece prosperar. Explica-se.
+7. A ação cautelar julgada na Corte de origem que deixou de fixar honorários advocatícios contra o particular teve o seu processamento atrelado ao Mandado de Segurança que tinha o objetivo de dar efeito suspensivo ao Recurso de Apelação pendente de julgamento.
+8. Sobre o tema, é pacífico na jurisprudência do STJ que o processo cautelar, embora tecnicamente autônomo, tem caráter meramente instrumental, na medida em que seu escopo é o de resguardar a utilidade do eventual provimento de mérito almejado na ação mandamental.
+9. Portanto, evidenciada a natureza acessória do processo cautelar, tem-se que ele deve, no que couber, seguir a mesma disciplina processual prevista para o processo principal, inclusive no tocante à distribuição dos ônus sucumbenciais. Portanto, incide ao caso concreto, o enunciado da Súmula 105 do STJ, segundo a qual na ação de mandado de segurança não se admite condenação em honorários advocatícios. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SENTENÇA CONCESSIVA DA SEGURANÇA. MEDIDA CAUTELAR PARA SUSPENDER OS EFEITOS IMEDIATOS DA ORDEM. LIMINAR DEFERIDA E EXTINÇÃO POSTERIOR DA AÇÃO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. Nas medidas cautelares destinadas a dar efeito suspensivo a recurso que não o tenha, não são devidos honorários de advogado (EREsp 677.196/RJ, Rel. Ministro Carlos Alberto Menezes Direito, Corte Especial, DJ 18/2/2008).
+2. Em se tratando de medida incidental à ação de mandado de segurança, não deve haver imposição de verba honorária se o processo principal não a enseja (Súmulas 512/STF e 105/STJ).
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.443.588/ES, Rel. Min. OG FERNANDES, DJe 29.6.2015).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA DESISTÊNCIA NO RECURSO ESPECIAL. RENÚNCIA SOBRE O QUAL SE FUNDA A AÇÃO. HOMOLOGAÇÃO. HONORÁRIOS ADVOCATÍCIOS. AÇÃO CAUTELAR INCIDENTAL PARA CONFERIR EFEITO SUSPENSIVO A MANDADO DE SEGURANÇA. NÃO CABIMENTO DE HONORÁRIOS.
+1. Examina-se no presente agravo interno a possibilidade de se condenar a requerente nos honorários advocatícios, quando da renúncia ao direito sobre a qual se fundamenta a ação, que teve como origem medida cautelar inominada nos autos de apelação em mandado de segurança, visando dar efeito suspensivo ao citado remédio constitucional.
+2. Quanto ao precedente trazido pela embargante, constata-se que, enquanto estes autos tem origem na medida cautelar inominada nos autos de mandado de segurança, visando dar efeito suspensivo ao citado remédio constitucional, o Resp 1.009.559/SP teve início em ação declaratória de inexistência de relação jurídico-tributária c/c repetição de indébito tributário (fl.. 02/33, 1º vol..) (voto condutor no AgRg nos EDcl nos EDcl no RE nos EDcl no AgRg no Recurso Especial 1.009.559 - SP (2007/0265612-7). Assim, o paradigma tem origem diversa deste autos.
+3. Nas medidas cautelares destinadas a dar efeito suspensivo a recurso que não o tenha, não são devidos honorários de advogado (EREsp 677.196/RJ, Rel. Min. Carlos Alberto Menezes Direito, Corte Especial, julgado em 7.11.2007, DJ 18.2.2008.)
+4. Agravo regimental não provido (AgRg nos EDcl na DESIS no REsp. 1.175.261/SP, Rel. Min. BENEDITO GONÇALVES, DJe 20.9.2010).
+10. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pela FAZENDA NACIONAL.
+11. Publique-se.
+12. Intimações necessárias.
