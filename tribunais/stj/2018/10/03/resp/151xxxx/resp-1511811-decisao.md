@@ -1,0 +1,49 @@
+DECISÃO
+
+Trata-se de recurso especial interposto por DIRCEU LEANDRO AMARAL e OUTROS, com respaldo nas alíneas "a", "b" e "c" do permissivo constitucional e que desafia acórdão, assim ementado (e-STJ fl. 210)
+APELAÇÃO - Servidores públicos estaduais - Recálculo de vencimentos - Conversão em URV (Lei Federal nº 8.880/1994) - Impossibilidade - Prescrição do próprio fundo de direito (aplicação da conversão) - Posicionamento desta Colenda Câmara - Pedido, aliás, julgado improcedente - Aplicação, pela Administração, de regras mais favoráveis aos servidores, a superar a referida conversão - Não provimento do recurso.
+No especial, a parte recorrente apontou violação dos arts. 1º e 3º do Decreto n. 20.910/1932, dos arts. 333, II, 334 e 335, todos do CPC/1973, sustentando a inexistência da prescrição do fundo de direito, haja vista que a relação jurídica, por se configurar como de trato sucessivo, estaria sujeita apenas à prescrição das parcelas, devendo incidir a Súmula 85 do STJ. Alegou, também, que o erro na conversão gerou prejuízo aos recorrentes, não tendo o recorrido se desincumbido do seu ônus probatório. Indicou, ainda, a existência de dissídio jurisprudencial.
+Apresentaram-se contrarrazões às fls. 245/260.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal, no tocante à prescrição, merece prosperar.
+Com efeito, é firme o entendimento desta Corte no sentido de que a relação jurídica em questão se mostra como sendo de trato sucessivo, a qual se renova mês a mês, incidindo, assim, a Súmula 85 do STJ.
+Nessa esteira:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA REMUNERAÇÃO DE CRUZEIRO REAL PARA URV. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, II, DO CPC/73. REESTRUTURAÇÃO DE CARREIRA. LEIS ESTADUAIS. REEXAME. IMPOSSIBILIDADE. ENUNCIADO N. 7 DA SÚMULA DO STJ. PRESCRIÇÃO. INCIDÊNCIA DA SÚMULA 85 DO STJ. PRECEDENTES DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
+ ..
+III - A jurisprudência do STJ é no sentido de que, nas ações em que se busca o pagamento das diferenças salariais em decorrência de ilegalidade na conversão do vencimento dos servidores públicos de cruzeiros reais para URV, por configurar relação de trato sucessivo, ou seja, parcelas salariais pagas mês a mês, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação. Incidência do enunciado n. 85 da Súmula do STJ. Precedentes: REsp 1671566/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017 e AgInt no REsp 1634124/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017.
+IV - Agravo interno improvido.
+(AgInt no REsp 1635642/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/11/2017, DJe 10/11/2017)
+AGRAVO INTERNO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. LEI N.º 8.880/94. PRESCRIÇÃO DE FUNDO DE DIREITO. INEXISTÊNCIA DE PREJUÍZO. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 282/STF. NECESSIDADE DE PROVA PERICIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDA NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+Precedentes.
+ ..
+(AgInt nos EDcl no REsp 1653969/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 28/09/2017)
+Diante disso, verifica-se que houve equívoco na pronúncia da prescrição pela Corte a quo, já que seu posicionamento estava dissonante do entendimento firmado no Superior Tribunal de Justiça.
+Entretanto, percebe-se que o Tribunal de origem adentrou na matéria meritória e constatou que, ainda que não fosse reconhecida a prescrição, o pedido dos recorrentes deveria ser rejeitado, pois não houve demonstração nos autos da existência de prejuízo decorrente da conversão dos vencimentos em URV.
+Assim, conclui-se que seria necessário o revolvimento de matéria fático-probatória constante nos autos para examinar se existiu, ou não, prejuízo financeiro em decorrência da elaboração dos cálculos que converteram os vencimentos dos servidores em URV, de forma diversa da prevista na Lei n. 8.880/1994, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DOS VENCIMENTOS EM URV. REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ.
+1. Inarredável a incidência da Súmula 7/STJ ao caso, porquanto a alteração das conclusões adotadas pela Corte de origem, acerca da ausência de comprovação dos prejuízos salariais e a inexistência de cerceamento de defesa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, o que impede, também, o conhecimento pelo dissídio jurisprudencial.
+2. Agravo Interno a que se nega provimento.
+(AgInt no AREsp 1162142/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/11/2017, DJe 06/12/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS. REAJUSTE VENCIMENTAL. CONVERSÃO DA MOEDA. UNIDADE REAL DE VALOR - URV. LEI 8.880/94. DEFASAGEM SALARIAL. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. LIMITAÇÃO TEMPORAL. REESTRUTURAÇÃO DE CARREIRA. POSSIBILIDADE. LEI ESTADUAL. SÚMULA 280/STF. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA "A". DISSÍDIO PRETORIANO PREJUDICADO. RECURSO ESPECIAL NÃO PROVIDO.
+1. No presente caso, concluiu a Corte de origem que os recorrentes não demonstraram prejuízos financeiros na conversão para URV dos seus salários. Rever o entendimento do Tribunal a quo implica abrir reexame do contexto fático-probatório dos autos. Incidência, na hipótese, da Súmula 7 do STJ.
+ ..
+(REsp 1703978/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/12/2017, DJe 19/12/2017)
+Da mesma forma, a Súmula 7 do STJ obstaculiza a análise, nos moldes trazidos pelo recorrente, da possível violação dos arts. 333, II, 334, e 335 do CPC/1973, pois seria necessário o revolvimento de matéria fático-probatória constante nos autos para examinar se, de fato, não foram apresentadas provas que afastassem as alegações constantes na exordial, assim como para aferir a existência de eventual confissão dos fatos narrados na inicial.
+Por sua vez, quanto à alínea "b" do permissivo constitucional, registre-se que a parte recorrente não demonstrou em que ponto o aresto recorrido proferiu julgamento que valida ato de governo local contestado em face de lei federal, incidindo, nesse aspecto, o óbice da Súmula 284 do STF.
+Quanto à divergência jurisprudencial alegada, esta se mostra prejudicada, na medida em que a tese sustentada já foi afastada na ocasião do exame do recurso pela alínea "a" do permissivo constitucional.
+Nessa esteira é o entendimento desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANO AMBIENTAL. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA, NOS MOLDES LEGAIS E REGIMENTAIS. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Ademais, na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1146384/SE, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 12/12/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA QUE VERIFICOU A CONSONÂNCIA DO ACÓRDÃO DO TRIBUNAL A QUO COM A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL SOBRE O TEMA. ANÁLISE PREJUDICADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO, NA ESPÉCIE. AÇÃO ORIGINÁRIA. MANDADO DE SEGURANÇA.
+ ..
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+ ..
+(AgInt no REsp 1648828/RS, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 16/11/2017)
+Por fim, cumpre salientar que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, apenas para reconhecer a inexistência da prescrição do fundo de direito, permanecendo hígidos, entretanto, os demais fundamentos do aresto de origem.
+Publique-se. Intimem-se.
