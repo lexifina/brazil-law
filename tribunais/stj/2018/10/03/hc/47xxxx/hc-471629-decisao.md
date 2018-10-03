@@ -1,0 +1,32 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTORA DO ART. 33, § 4º, DA LEI N. 11.343/2006. ENVOLVIMENTO DO ACUSADO EM ATIVIDADES CRIMINOSAS. LEGALIDADE. AFASTAMENTO. POSSE ILEGAL DE ARMA DE FOGO. TIPICIDADE. ARMA MUNICIADA. DESNECESSIDADE. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Narram os autos que o Juízo da 1ª Vara Criminal da Comarca de Jundiaí julgou improcedente a ação penal e absolveu o paciente da imputação dos arts. 33, caput, da Lei n. 11.343/2006, e 16, parágrafo único, IV, do Estatuto do Desarmamento, com fundamento no art. 386, VII, do Código de Processo Penal (fls. 62/64 - Processo n. 0000881-04.2017.8.26.0544).
+A acusação recorreu, tendo o Tribunal de Justiça dado provimento ao recurso para condenar [NOME] à pena de 8 anos de reclusão, em regime fechado, e 510 dias-multa, como incurso nos arts. 33, caput, da Lei n. 11.343/2006, e 16, parágrafo único, IV, do Estatuto do Desarmamento (fls. 105/115 - Apelação criminal n. 0000881-04.2017.8.26.0544).
+Daí a presente impetração, em que se requer a aplicação da redutora do § 4º do art. 33 da Lei n. 11.343/2006, em sua fração máxima, bem como a readequação do regime prisional e a substituição da pena corporal por pena restritiva de direitos.
+Num primeiro momento, sustenta-se que apesar de estar mencionado de forma expressa no acórdão que a quantidade e qualidade de entorpecentes não sejam fundamento para impedir a redução máxima da pena, esses requisitos foram utilizados para embasar a alegação errônea de que o paciente estava envolvido em organização criminosa, pois fora afirmado que o local em que as drogas foram encontradas é conhecido como "ponto de venda de drogas". Ainda presumiu o acórdão que diante da quantidade de drogas, haveria a habitualidade (fl. 6).
+Noutro ponto, insurge-se quanto à condenação pela posse ilegal de arma de fogo, defendendo, em apertada síntese, a ausência de tipicidade normativa, em razão do desmuniciamento da arma (fl. 8).
+Postula-se, então, a concessão liminar da ordem nos moldes propostos.
+É o relatório.
+Extrai-se do acórdão impugnado (fl. 113):
+Nesta ação penal, com clareza solar, [NOME] está envolvido em "atividades criminosas" porque surpreendido em local conhecido como ponto de venda de drogas (cf. depoimento do policial militar Wellington mídia) trazendo consigo e mantendo em depósito 760 (setecentos e sessenta) porções de cocaína, duas delas em pó e outras 758 na forma de crack, com peso líquido total de 118,43 gramas (laudo de fls. 16), circunstância concreta que, no mínimo, leva à conclusão de que, com habitualidade, recebe os entorpecentes (mediante compra ou consignação) do grande traficante para, na sequência, comerciá-los no varejo em porções. Afinal, "ponto de tráfico" significa "ponto de comércio ilícito" que entre suas medulares características estão o "meio de vida à margem da legalidade", a "organização e prevenção contra a atuação das autoridades de polícia", a "disputa clandestina do sítio utilizado na atividade" e a "freguesia viciada"
+Note-se que o Tribunal de Justiça justificou o afastamento da redutora em razão do envolvimento do paciente em atividades criminosas, destacando, inclusive, a quantidade e qualidade das drogas apreendidas, bem como na circunstância onde ocorreu o flagrante - em local conhecido como ponto de tráfico -, indo, portanto, ao encontro da jurisprudência do Superior Tribunal de Justiça que, assim tem-se pronunciado:
+PROCESSO PENAL. PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTERPOSIÇÃO SIMULTÂNEA DE DOIS RECURSOS. NÃO CONHECIMENTO DO SEGUNDO. PRECLUSÃO CONSUMATIVA. TRÁFICO DE ENTORPECENTES. MINORANTE DO TRÁFICO. GRANDE QUANTIDADE DE DROGAS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. SÚMULAS 83/STJ E 7/STJ. POSSIBILIDADE. REGIME PRISIONAL MAIS GRAVOSO. GRANDE QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA.
+1. Interpostos dois agravos regimentais pela defesa, não se conhece do segundo recurso, ante a preclusão consumativa.
+2. Nos termos da jurisprudência desta Corte, a quantidade e/ou a natureza da droga podem justificar a não aplicação da minorante, prevista no art. 4º do art. 33 da Lei 11.343/2006, quando evidenciada a dedicação à atividade criminosa, bem como constituem fundamento idôneo para a imposição do regime mais severo.
+3. Agravo regimental de fls. 1.606/1.685 não conhecido e agravo regimental de fls. 1.526/1.605 improvido.
+(AgRg no REsp 1649037/RO, Sexta Turma, Ministro Nefi Cordeiro, DJe 25/09/2018)
+De mais a mais, ao contrário do que defende o impetrante, para a tipificação da conduta do art. 16 da Lei do Desarmamento não se mostra necessário que a arma esteja municiada.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIME DE PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E COM NUMERAÇÃO RASPADA. DOSIMETRIA. ARMA MUNICIADA. AUMENTO DA PENA-BASE. CIRCUNSTÂNCIA SOPESADA NEGATIVAMENTE. DESCABIMENTO. FATOR COMUM À ESPÉCIE. PENA DE MULTA. NECESSIDADE DE UTILIZAÇÃO DOS MESMOS PARÂMETROS UTILIZADOS PARA A FIXAÇÃO DA PENA PRIVATIVA DE LIBERDADE. REDIMENSIONAMENTO DAS PENAS. RÉU PRIMÁRIO. PENA-BASE REDUZIDA AO MÍNIMO LEGAL. FIXAÇÃO DO REGIME ABERTO. HC NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Não se mostra necessário, para a tipificação do crime previsto no art. 16 da Lei 10.826/2003, que a arma esteja municiada. Contudo, o fato de assim se apresentar não pode constituir fundamento idôneo, e concreto, para aumento da pena-base, motivada na maior reprovabilidade da conduta, por se tratar de circunstância comum à espécie. Precedentes.
+3. A definição do número de dias-multa deve variar entre os limites da pena cominada, com proporcionalidade. Precedentes.
+4. Tratando-se de réu primário, cuja pena-base foi reduzida ao mínimo legal, é cabível a fixação do regime aberto para cumprimento da pena reclusiva.
+5. Habeas corpus não conhecido, porém, concedida de ofício a ordem para reduzir a pena a 3 anos de reclusão e 10 dias-multa, bem como fixar o regime inicial aberto para o cumprimento da pena reclusiva.
+(HC 194.046/SP, Sexta Turma, Ministro Nefi Cordeiro, DJe 15/12/2015 - grifo nosso)
+Por fim, considerando inalterados os termos da condenação do paciente, nada há o que se deferir quanto às insurgências do regime prisional e à substituição das penas.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
