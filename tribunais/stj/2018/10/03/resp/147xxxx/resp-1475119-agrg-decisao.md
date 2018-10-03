@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. TELEFONIA. SUBSCRIÇÃO DE AÇÕES. A QUESTÃO DA ILEGITIMIDADE PASSIVA DA TELEBRÁS FOI AFETADA COMO REPRESENTATIVA DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA ANULAR A DECISÃO AGRAVADA. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+DECISÃO
+[NOME] TAVARES ([NOME]) promoveu ação de adimplemento contratual contra TELEBRÁS - TELECOMUNICAÇÕES BRASILEIRAS S.A. (TELEBRÁS), julgada parcialmente procedente (e-STJ, fls. 251/261).
+O Tribunal de origem negou provimento ao recurso de apelação da TELEBRÁS, nos termos do acórdão cuja ementa a seguir se transcreve:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TELEBRÁS. PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA.
+Ilegitimidade Passiva. A responsabilidade pela complementação das ações não recebidas da antiga CTMR - Companhia de Melhoramento e Resistência é da Telebrás, na medida em que o próprio edital de cisão parcial dispõe, expressamente, que os fatos geradores ocorridos até a data de sua aprovação permanecerão de responsabilidade exclusiva da demandada.
+Ilegitimidade Ativa. Embora a demandada sustente que a autora alienou as ações, não trouxe aos autos qualquer prova nesse sentido, impondo-se o afastamento também desta preliminar.
+Inépcia da inicial. Não merece prosperar, porquanto o contrato firmado com a CTMR é documento apto para embasar a inicial, considerando a cisão perfectibilizada em 1998.
+Correção monetária. A correção monetária visa a reposição do valor da moeda, atingida pelas variações inflacionárias. Logo, a pretensão de afastamento da correção não vinga, porquanto importaria em enriquecimento indevido da demandada.
+Sentença e sucumbência mantidas.
+NEGARAM PROVIMENTO AO APELO. UNÂNIME (e-STJ, fl. 308)
+Os embargos de declaração opostos pela TELEBRÁS foram rejeitados (e-STJ, fls. 342/346).
+Irresignada, TELEBRÁS interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, sob o fundamento de que, além de dissídio jurisprudencial, houve violação dos arts. 535, II, do CPC/73; e 229, § 1º, da Lei nº 6.404/76, sustentando ser parte ilegítima para a causa, porque "não assumiu qualquer responsabilidade das operadoras locais, e nem poderia, eis que no processo de cisão parcial a TELEBRÁS repartiu o seu capital social entre as operadoras locais que já detinham patrimônios e personalidades jurídicas próprios" (e-STJ, fl. 360).
+Sem contrarrazões (e-STJ, fl. 441), o recurso especial foi admitido (e-STJ, fls. 443/446).
+Por meio de decisão monocrática, neguei seguimento ao recurso especial em decisão assim ementada
+RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TELEBRÁS. LEGITIMIDADE. CTMR. EMPRESA FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. INCIDÊNCIA DA SÚMULA 283/STF. RECURSO A QUE SE NEGA SEGUIMENTO (e-STJ, fl. 459).
+No presente agravo interno, TELEBRÁS alega, em síntese, que deve ser afastado o óbice da Súmula nº 283 do STF e que há entendimento pacificado nesta Corte de se "afastar a legitimidade da TELEBRAS em detrimento da responsabilidade da Empresa sucessora das antigas operadoras de telefonia fixa" (e-STJ, fl. 479).
+Pleiteia, alfim, que a decisão monocrática seja reconsiderada ou, caso isso não ocorra, que seja reformada por esta Terceira Turma (e-STJ, fls. 466/486).
+É o relatório.
+Tendo em vista as alegações trazidas no agravo interno, reconsidero a decisão agravada para anulá-la.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do CPC/73, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Na hipótese, verifica-se que a questão relativa à "responsabilidade da TELEBRÁS por todas as obrigações com origem em atos ou fatos anteriores à cisão" se encontra afetada à Segunda Seção do STJ, pelo Ministro PAULO DE TARSO SANSEVERINO, sob o rito dos recursos representativos, nos autos dos REsp nº 1.633.852/SP e REsp 1.633.801/SP, vinculados ao Tema nº 910.
+A afetação de recurso especial como representativo da controvérsia impõe a devolução aos respectivos Tribunais de origem dos recursos já distribuídos a esta Corte Superior que versem sobre questão idêntica, para que lá permaneçam suspensos até o julgamento definitivo da controvérsia em observância ao princípio da economia processual e à própria finalidade do NCPC, corroborada pelo art. 256-L, I, do RISTJ, incluído pela Emenda Regimental nº 24, de 2016.
+Após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista no art. 1.040 do NCPC (art. 5º, III, da Resolução nº 8/2008 da Presidência do STJ).
+Nesse sentido, vejam-se as seguintes decisões monocráticas: AREsp 1.146.082, Relatora a Ministra LAURITA VAZ, DJe 13/9/2017; AREsp 1.111.754, Relator o Ministro MARCO BUZZI, DJe 5/9/2017; e AREsp 1.135.496, Relator o Ministro MARCO AURÉLIO BELLIZZE, DJe 24/8/2017.
+Nessas condições, DOU PROVIMENTO ao agravo interno para anular a decisão agravada e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso até a publicação do acórdão representativo da controvérsia, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do NCPC, observando-se, logo após, o expediente previsto nos arts. 1.040 e 1.041, ambos do citado diploma processual.
+Publique-se. Intimem-se.
