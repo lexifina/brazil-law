@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento ao recurso especial, no qual se alega violação dos arts. 6º e 156 do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 137):
+DIREITO PROCESSUAL CIVIL - AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - RECURSO INTERPOSTO EM FACE DE DESPACHO DE MERO EXPEDIENTE - AUSÊNCIA DE CONTEÚDO DECISÓRIO - INADMISSIBILIDADE DO AGRAVO DE INSTRUMENTO - ART. 1.001 DO CPC/15 - AGRAVO INTERNO NÃO PROVIDO.
+1. A manifestação que determina a expedição de mandado de verificação para que se constate o cumprimento ou não do "home care" corresponde a um despacho de mero expediente, que visa unicamente impulsionar o processo de origem.
+2. Considerando a ausência de conteúdo decisório do despacho combatido, bem como a inexistência de prejuízo aos litigantes, não caberia a interposição de recurso de agravo de instrumento cm face desse comando judicial, nos termos do art. 1.001 do CPC/15.
+3. Recurso improvido.
+Sustenta a agravante que o Juízo de origem, "por meio de decisão interlocutória, denominada erroneamente de despacho, determinou a expedição de mandado de verificação para que se constate o cumprimento ou não do home care" (fls. 191/192).
+Afirma que, para o cumprimento do referido mandado, o magistrado não nomeou um perito, "expert com qualificação para a averiguação requerida, mas sim, um oficial de justiça, sem qualquer qualificação técnica para verificar e avaliar serviços de atendimento médico, do tipo home care" (fl. 192), motivo pelo qual interpôs agravo de instrumento por entender que o conteúdo da manifestação do Juízo poderia ocasionar prejuízo à agravante.
+Argumenta, dessa forma, que "não pode prosperar o v. acórdão que inadmitiu o agravo de instrumento, sob o fundamento de que a determinação de vistoria judicial, através de oficial de justiça tratava-se apenas de um despacho de mero expediente" (fl. 196).
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que a Corte de origem entendeu que o conteúdo do pronunciamento judicial impugnado se trata de um despacho de mero expediente, que visou impulsionar o processo, de modo que não poderia ser atacado por meio de agravo de instrumento, conforme se extrai dos seguintes excertos (fls. 139/142):
+(..)
+Cinge-se o presente debate em verificar se o despacho de fl. 24, por meio do qual o magistrado a quo determinou que se expeça "mandado de verificação para que se constate o cumprimento ou não do home care", é de mero expediente ou possui algum conteúdo decisório, o que, nesta última hipótese, autorizaria a interposição do presente Agravo de Instrumento.
+Conforme já exposto no decorrer da decisão vergastada, o recurso de agravo de instrumento é cabível apenas em face de decisões interlocutórias, o que, por óbvio, não inclui os despachos de mero expediente, os quais não possuem conteúdo decisório. Seguindo o mencionado entendimento, o art. 1.001 do CPC/15 dispõe: "Dos despachos não cabe recurso".
+Ora, examinando atentamente o conteúdo do pronunciamento judicial atacado, nota-se claramente que se trata de um mero despacho que visa impulsionar o processo de origem, sem, entretanto, trazer benefícios ou prejuízos para qualquer dos litigantes. Vejamos:
+"Expeça-se, imediatamente, mandado de verificação para que se constate o cumprimento ou não do home care" (fl. 24).
+Seria diferente se o magistrado o quo tivesse, por exemplo, reconhecido o descumprimento da obrigação e imposto uma multa à ora agravante, o que logicamente poderia ser impugnado pela via do agravo de instrumento, ante o caráter decisório desse comando judicial.
+Entretanto, o pronunciamento do juiz ora questionado corresponde a uma simples diligência que irá auxiliá-lo na apreciação do petitório acostado aos autos de origem pelo agravado (cópia às fls. 35/40), o que em nada prejudica ou beneficia nenhuma das partes.
+Portanto, a manifestação do juízo de piso que determina apenas a expedição de mandado para averiguar a ocorrência ou não de descumprimento de obrigação de fazer não possui conteúdo decisório, configurando mero despacho e, por isso, é irrecorrível nos termos do já citado art. 1.001 do CPC/15.
+Seguindo essa linha de raciocínio, colhe-se o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+(..)
+Por fim, cuido ainda de rechaçar o argumento de que a averiguação realizada pelo Oficial de Justiça (certidão de fl. 119) não teria valor probatório por ter sido feita por profissional sem qualificação na área médica. Note-se, [NOME], que as informações ditas pelo filho do agravado, no sentido de que os equipamentos instalados na residência não correspondem ao serviço de "home care", foram confirmadas pela técnica de enfermagem que se encontrava no local. Vejamos o teor da citada certidão:
+"CERTIFICO e dou fé, que procedendo diligências no endereço constante no presente mandado e sendo ai, PROCEDI com a VERIFICAÇÃO determinada constatando que no local não encontrava-se instalado um home care, e sim um P.G.C, fui recebido no local pelo Sr. ARMANDO JONHSON DA SILVA, filho do paciente, que afirmou que os aparelhos instalados no local não correspondem ao home care, e que a visitação médica é apenas mensal, falei inclusive com a técnica de enfermagem que se encontrava no local a qual confirmou as informações. O referido é verdade dou fé." (fl. 119)
+Ora, a formação técnica de um profissional de enfermagem se revela mais do que suficiente para atestar se o serviço prestado pela empresa agravante corresponde ou não ao "home care", razão pela qual não acolho o pedido de declaração de nulidade da certidão acima transcrita, tampouco o pleito de que seja realizada nova verificação por pessoa competente.
+Ante o exposto, mantenho o posicionamento explanado na decisão monocrática agravada, de modo que nego provimento ao presente recurso.
+(..)
+Com efeito, anoto que o julgado estadual está em consonância com a jurisprudência desta Corte, que já decidiu que a manifestação judicial que visa impulsionar o andamento do processo e que não ocasiona prejuízo para as partes, configura despacho de mero expediente, não suscetível de recurso. Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DESPACHO DE MERO EXPEDIENTE. FALTA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. Nos termos do art. 504 do CPC/1973, é irrecorrível o despacho de mero expediente que não acarreta prejuízo para as partes. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 384.543/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 8.9.2016)
+Registro, ademais, que a desconstituição da conclusão do acórdão recorrido, que concluiu pela ausência de prejuízo aos litigantes, demandaria o reexame do acervo fático dos autos, procedimento que, em sede de especial, encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
