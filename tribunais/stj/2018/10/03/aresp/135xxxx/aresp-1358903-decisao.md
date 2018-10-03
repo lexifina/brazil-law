@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pelo Município de Ananindeua, desafiando decisão da Presidência do Tribunal de Justiça do Estado do Pará, que não admitiu recurso especial com base nos seguintes fundamentos: (I) ausência de prequestionamento do art. 188, inciso I, do Código Civil apontado como malferido, tendo o acórdão decidido com base em dispositivo constitucional, sendo aplicável a Súmula 282/STF, e (II) o dissídio pretoriano não foi demonstrado adequadamente mediante cotejo analítico dos julgados e indicação do dispositivo legal cuja interpretação foi divergente, incidindo o óbice da Súmula 284/STF.
+É o relatório.
+De início, verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou especificamente os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo concreto e mediante fundamentação suficiente, a ausência de prequestionamento do art. 188, I, do Código Civil e a deficiência na demonstração do dissídio pretoriano, limitando-se a transcrever trecho das razões do seu recurso inadmitido.
+Com efeito, em que pese a parte agravante haver mencionado a não incidência dos referidos óbices no pedido, não declinou os motivos pelos quais, no seu entender, eles não seriam aplicáveis ao caso concreto.
+Isso porque a alegação genérica de que é necessária a reforma do decisum não tem o condão de infirmar o juízo formulado pela decisão agravada, à míngua de demonstração da situação particular que justificasse o processamento do apelo nobre, o que atrai a incidência, por analogia, da súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. 1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente.
+Isso contudo não ocorreu, devendo ser mantida a decisão que aplicou o óbice da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.070.028/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTOS DA DECISÃO AGRAVADA.
+AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, §§ 1º E 3º, DO CPC/2015 E SÚMULA 182/STJ.
+1. Uma das principais mudanças de paradigma trazidas pelo Código de Processo Civil/2015 diz respeito a uma maior exigência de motivação das decisões judiciais. Em especial, quanto ao julgamento do Agravo Interno, o art. 1.021, § 3º, do novo diploma adjetivo dispõe que "É vedado ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno".
+2. Ocorre que, não raro, a parte sucumbente interpõe Agravo Interno tão somente repetindo os argumentos já aduzidos no apelo indeferido monocraticamente. Nessa hipótese, à primeira vista, poderia ter-se a ideia de que o Magistrado deveria fazer uso da sua criatividade para adotar novos fundamentos em face de argumentos repetidos.
+3. Entretanto, não foi esse o intento do legislador. Em contrapartida à impossibilidade de o relator limitar-se à reprodução dos fundamentos da decisão agravada, ficou estabelecido no art.
+1.021, § 1º, do novo Codex que, "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+4. Em busca do aperfeiçoamento do sistema processual pátrio, o legislador instituiu como peças de uma mesma engrenagem tanto a obrigação do julgador de explicitar de forma particularizada as razões que ensejaram a prolação do provimento jurisdicional quanto o ônus da parte recorrente de impugnar especificadamente os fundamentos da decisão atacada.
+5. In casu, a parte agravante limitou-se basicamente a reiterar as razões do Recurso Especial, alegando, de forma genérica, a ocorrência de violação dos arts. 20, § 3º, e 535 do CPC/1973 (1.022 do CPC/2015) e a não incidência da Súmula 7/STJ, sem contrapor especificadamente os fundamentos que dão supedâneo ao decisum hostilizado.
+6. A ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"), que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º.
+7. Agravo Interno não conhecido.
+(AgInt no AREsp 933.639/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/11/2016, DJe 29/11/2016)
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
