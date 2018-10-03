@@ -1,0 +1,18 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXCEÇÃO DE INCOMPETÊNCIA. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. COPERATIVA MISTA.
+EXISTÊNCIA DE RELAÇÃO DE CONSUMO. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. NULIDADE DA CLÁUSULA CONTRATUAL DE ELEIÇÃO, DE FORO. COMPETÊNCIA DECLINADA. DECISÃO MANTIDA, AINDA QUE POR OUTRO FUNDAMENTO. RECURSO DESPROVIDO." (e-STJ fl.152)
+Os embargos de declaração foram rejeitados (e-STJ fl.222/226)
+Nas razões do recurso especial, o agravante alega violação dos arts. 535 do CPC/73 e aos art. 1º e 18 da LC 130/2009, art. 2º, 3º e 51 do CDC, bem como ser indevida a aplicação dos revogados art. 10, §3º e 18 da Lei 5.764/71, sustentando, em síntese, que não é uma "cooperativa de crédito", não integra o SIFN (Sistema Financeiro Nacional) e não se submete às normas do CMN (Conselho Monetário Nacional) ou à fiscalização do Banco Central, de modo que não há como aplicar à recorrente o CDC, para reconhecer a nulidade da cláusula de eleição de foro. Alega que o acórdão recorrido recusou-se a analisar tais peculiaridades.
+É o relatório. Decido.
+Não prospera a alegada ofensa ao ars. 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+O Tribunal de origem, ao analisar o enquadramento da recorrente como "cooperativa de crédito", equiparando-a a instituição financeira e determinando a incidência do CDC ao caso dos autos para reconhecer a nulidade da cláusula de eleição de foro, expressamente consignou o seguinte:
+"Inicialmente, destaca-se dos autos que a agravante é uma Cooperativa Mista, isto é, além de suas atividades de produção agrícola, também atua no crédito. Tanto isto se verifica que a exemplo do capitulo 11 de seu estatuto social, art. 20, §1º, letra "e", a Coopermibra, ora agravante, menciona como sendo objetivo social "fazer adiantamento em dinheiro, sempre que possível, do valor dos produtos recebidos dos associados, ou que estejam em fase de produção", e, por este motivo, é equiparada à instituição financeira.
+Da análise dos artigos 17 e 18, §1º, ambos da Lei nº 4.595/64, verifica-se com clareza a natureza jurídica das operações contratadas com os agravados, o que caracteriza a relação de consumo entre as partes:
+(..)
+Desta forma, nenhuma dúvida há acerca da qualidade de instituição financeira da cooperativa mista, razão pela qual incide o CDC ás sociedades cooperativas de crédito, vez que disciplina o artigo 30, caput e parágrafo 20, do CDC que os bancos e instituições financeiras estão insertos na definição de fornecedor, já que se tratam de pessoas jurídicas, de direito público ou privado, prestadoras de serviços de natureza bancária, financeira e de crédito.
+(..)
+Portanto, há que se mantida a decisão, ainda que por outro fundamento (aplicabilidade ao feito das normas do CDC). (e-STJ fl. 154/157)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, para afastar a equiparação da recorrente a uma instituição financeira, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
