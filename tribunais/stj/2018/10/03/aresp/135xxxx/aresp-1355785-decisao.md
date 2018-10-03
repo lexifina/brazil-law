@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por CONCEIÇÃO CACERES DA COSTA contra decisão proferida pelo Tribunal de Justiça do Estado de Mato Grosso do Sul que inadmitiu recurso especial interposto com fundamento nas alíneas a e c do permissivo constitucional.
+Conforme o contido nos autos, a ora agravante foi absolvida, em primeiro grau, da imputação de furto qualificado pelo concurso de pessoas.
+Houve apelação do Parquet, à qual o Tribunal de origem, por unanimidade de votos, deu provimento "para o fim de reformar a sentença de fls. 126/128, determinando-se o prosseguimento da ação penal instaurada em face de Conceição Cáceres da Costa" (e-STJ fl. 187).
+Irresignada, a defesa interpôs recurso especial, alegando, em suma, dissídio jurisprudencial e violação do art. 386, III, do Código de Processo Penal.
+Rebelou-se contra a utilização de percentuais do salário-mínimo como argumento para impedir o reconhecimento da atipicidade material da conduta, ressaltando que "justificar a incidência do princípio da insignificância somente quando a res furtiva tiver valor inferior a 10% do salário mínimo sob o argumento de que patamar superior ofende os 4 (quatro) requisitos acima elencados simplesmente demonstra o desconhecimento da jurisprudência de nossa Corte Suprema ou, o que seria pior, a má-fé do julgador, eis que opta pelo caminho mais fácil, porquanto tal entendimento o desincumbiria de analisar o caso concreto, bastando apenas uma olhada no valor do bem furtado" (e-STJ fl. 206).
+Asseverou, ainda, que a existência de processos em andamento não pode servir de óbice absoluto ao reconhecimento da insignificância da conduta.
+Pugnou, assim, pelo restabelecimento da decisão de absolvição de primeiro grau (e-STJ fls. 126/128).
+Contrarrazões às e-STJ fls. 235/246.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 291/292).
+É, em síntese, o relatório. Decido.
+O Tribunal local afastou a aplicação do princípio da insignificância, nestes termos (e-STJ fls. 185/186):
+Tem-se que a apelada foi denunciada pela prática do crime de furto qualificado pelo concurso de pessoas, porquanto no período de maio a junho de 2013, em dia e horário não determinados, na Rua Laudelino, nº 520, esquina com a Rua Joaquim Murtinho, na cidade de Rochedo/MS, juntamente com a denunciada [NOME], conscientes da ilicitude e reprovabilidade de suas condutas, em comunhão de esforços, subtraíram para si aproximadamente R$ 285,00 (duzentos e oitenta e cinco reais) em espécie, em prejuízo da vítima [NOME], com idade de 91 anos, à época.
+A denunciada [NOME], em seu interrogatório extrajudicial (fl. 20), confessou a autoria do crime, afirmando que sempre frequentou a residência da vítima Sr. [NOME] pois era amiga do filho dele. No dia dos fatos, foi juntamente com a acusada Conceição até a casa dele, ocasião em que pediu R$ 5,00 para ele, tendo ele dito que não tinha.
+Não satisfeita, visualizou a quantia de R$ 155,00 (cento e cinquenta e cinco reais) em cima da geladeira da residência e resolveu pegá-la. Em seguida, logo após Conceição revirar a residência, foram embora, momento em que Conceição contou a ela que também havia subtraído a quantia de aproximadamente R$ 130,00 (cento e trinta reais).
+ ..
+Pois bem: como é de ordinária sabença para aplicação do princípio da insignificância, necessário que presentes estejam os requisitos de ordem objetiva e subjetiva, cujos parâmetros, cumulativos, restaram fixados pelo Supremo Tribunal Federal: a) a mínima ofensividade da conduta do agente; b) a ausência de periculosidade social da ação; c) o reduzido grau de reprovabilidade do comportamento; d) a inexpressividade da lesão jurídica causada (HC nº 84.412/SP, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 19/11/04). No campo objetivo tem-se o baixo valor da res furtiva deve ser ínfimo, sendo que a jurisprudência estabelece como "ínfimo", a importância inferior à 10% (dez pontos percentuais) do salário mínimo vigente à época dos fatos.
+No entanto, no caso em apreço, não se pode considerar ínfimo a quantia em espécie de R$130,00 (cento e trinta reais), tendo em vista que na época dos fatos, o valor do salário mínimo vigente era R$ 678,00 (seiscentos e setenta e oito reais).
+Portanto, a res furtiva representava mais de 19% (dezenove por cento) do valor do salário mínimo vigente à época dos fatos.
+Não obstante tal fato, não se pode olvidar que devem ser analisados os requisitos subjetivos para enquadramento da conduta no princípio da insignificância.
+E, neste ponto, tem-se que apesar da apelada ser tecnicamente primária, esta possui várias ações penais de crimes contra o patrimônio em curso, inclusive com auto de prisão em flagrante (conforme extrato do SIGO - fls. 141/142), porquanto o grau de reprovabilidade de sua conduta é alto, fazendo-se necessária a intervenção estatal para que o agente não continue a delinquir.
+Isso porque, enquadrar pequenos delinquentes contumazes como insignificante, colocaria a sociedade como refém de condutas como a perpetrada pelo recorrido. Ou, ainda, representaria um incentivo a pequenos delitos e geraria uma desordem social.
+Demais disso, necessário analisar também as condições pessoais da vítima, a qual contava com 91 (noventa e um) anos de idade à época dos fatos, sendo que a apelada e a denunciada [NOME] eram pessoas que frequentavam a casa do idoso, aproveitando-se disso para cometer a prática do crime.
+Portanto, entendo ser inaplicável ao caso o princípio da insignificância, pelo que a sentença de fls. 126/128 deve ser reformada, dando-se regular processamento da ação penal. (Grifei.)
+Como se vê das transcrições, a Corte de origem afastou a atipicidade material da conduta em razão não só do substancial valor subtraído - R$ 130,00 - e da existência de vários ações penais em andamento por delitos contra o patrimônio, mas também pelas condições pessoais da vítima, idoso com 91 anos de idade, cuja casa costumava ser frequentada pela recorrente.
+No presente recurso especial, a defesa refutou as razões de decidir pertinentes ao valor da coisa e à existência de ações penais em andamento, sem, contudo, declinar uma linha sequer para o fim de impugnar o fundamento relativo às condições pessoais da vítima, que levaram a uma maior reprovabilidade da conduta da recorrente.
+Assim, o óbice da Súmula n. 283 do STF mostra-se intransponível, impedindo o conhecimento do recurso nesse ponto.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. LEITURA EM PLENÁRIO DO ACÓRDÃO QUE ANULOU O JULGAMENTO ANTERIOR. NULIDADE. PREJUÍZO NÃO DEMONSTRADO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 283/STF. REEXAME PROBATÓRIO. SÚMULA 7/STJ. EXECUÇÃO PROVISÓRIA DA PENA DEFERIDA. IMPROVIMENTO.
+1. A ausência de impugnação de fundamento, por si só, suficiente para manter o aresto recorrido, porquanto tratou-se, justamente, da ausência de efetivo prejuízo ao réu, importa em incidência, por analogia, da Súmula n. 283 da Suprema Corte, que dispõe É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+ ..
+4. Agravo regimental improvido. (AgRg no AREsp 523.437/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/10/2017, DJe 23/10/2017, grifei.)
+ ..  NÃO REALIZAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE. INCIDÊNCIA DO ENUNCIADO N.º 283 DA SÚMULA DO STF.
+ ..
+2. Insurgência que deixa de refutar um dos fundamentos constantes do acórdão objurgado, consistente na alegada inexistência de pedido da defesa, que, por si só, é suficiente para manter a conclusão de ser inviável o reconhecimento da eiva arguida.
+3. A ausência de impugnação, no recurso especial, de fundamento suficiente adotado pelo Tribunal de origem no aresto recorrido, atrai a incidência, por analogia, do óbice do Enunciado n.º 283 da Súmula do STF.
+ ..
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 685.354/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/05/2017, DJe 10/05/2017, grifei.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
