@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CONVERSÃO DA REMUNERAÇÃO DO SERVIDOR PÚBLICO DE CRUZEIRO REAL PARA URV. COMPENSAÇÃO COM REAJUSTES CONCEDIDOS PELA REESTRUTURAÇÃO DA CARREIRA. SÚMULA 7 DO STJ. RECURSO ESPECIAL DO PARTICULAR DESPROVIDO.
+1. Trata-se Recurso Especial interposto por [NOME] , com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão do egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO EM EMBARGOS À EXECUÇÃO.Reajuste de remuneração, conversão de URV em moeda real. Discussão acerca da taxa de juros. Aplicação do art. 1o.-F, da Lei 9.494/97 com nova redação dada pela Lei 11.960/09, em razão de sua natureza processual que exige incidência imediata. Tempus regit actum. Juros aplicados à caderneta de poupança até que se tenha o efetivo pagamento. Inaplicabilidade de litigância de má-fé. Sucumbência recíproca compensada. Recursos parcialmente providos (fls. 334).
+2. Opostos Embargos de Declaração, foram acolhidos em acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO NO TOCANTE À VEDAÇÃO DE COMPENSAÇÃO - Embargante servidora pública que pleiteia a manifestação expressa acerca da possibilidade ou não de compensação de valores apurados com a conversão da URV. Entendimento alterado. Situação, contudo, que não altera o julgado nem tampouco prejudica qualquer das partes litigantes, tendo em vista a ressalva feita em sentença proferida em 1a.instância e mantida em sede recursal. Embargos acolhidos, sem efeito modificativo.
+3. Nas razões do seu Apelo Nobre, a parte recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 368, 369, 370 e 371 do CC, bem como à Lei 8.880/1994, insurgindo-se contra a compensação pois os reajustes concedidos pela Municipalidade tratam exclusivamente de aumento salarial.
+4. É o relatório.
+5. Cuida-se, na origem, de Ação Ordinária ajuizada por Servidor Público, pleiteando a impossibilidade de compensação das diferenças decorrentes da conversão da moeda com reajustes salariais concedidos.
+6. Sobre à pretendida compensação, a Corte de origem, com base em fatos e provas, afirmou, expressamente, não haver comprovação de que a conversão dos vencimentos em URV tenha gerado efetivo prejuízo, nos seguintes termos:
+Deste modo, deve ser possibilitada a compensação de valores devidos e de valores já pagos pela Fazenda Pública embargada, sob pena de enriquecimento sem causa da servidora pública embargante que, em verdade recebeu parte dos valores devidos em virtude dos percentuais de revalorização de seus vencimentos e proventos.
+De qualquer forma, o atual entendimento não acarretará modificação do julgado nem tampouco trará prejuizo às partes deste feito, tendo em vista a sentença proferida em Ia instância que ressaltou tal necessidade de compensação, que foi mantida nesta instância recursal, como agora se deixa claro e expresso (fls. 369).
+7. Nesse sentido, entendimento diverso, conforme pretendido, implicaria incursão no campo fático-probatório, o que é vedado nesta Corte, por incidência da Súmula 7 do STJ.
+8. Com essas considerações, nega-se provimento ao Recurso Especial do Particular.
+9. Publique-se.
+10. Intimações necessárias.
