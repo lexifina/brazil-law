@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. AUSÊNCIA DE INDÍCIOS DE AUTORIA. DILAÇÃO PROBATÓRIA. NÃO CONHECIMENTO. EXCESSO DE PRAZO. TÉRMINO DA INSTRUÇÃO. SÚMULA N. 52/STJ. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS DENEGADO.
+1. No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+2. Verificado o encerramento da instrução processual, então, está superada a alegação de que há constrangimento ilegal pelo excesso de prazo, conforme a Súmula n. 52/STJ.
+3. Apresentada fundamentação concreta para a prisão preventiva no recebimento da denúncia, consubstanciada na afirmação de que a custódia é necessária, pois o acusado praticou roubo em coautoria e emprego de arma de fogo e, de acordo com a denúncia, em um contexto de transporte de valores, evidenciando a sua acentuada periculosidade, não há ilegalidade.
+4. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem de habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que denegou o writ de origem, por meio de acórdão que tem o seguinte relatório (fl. 20):
+O Dr. [NOME], advogado, impetrou a presente ordem de "habeas-corpus", com pedido de liminar, em favor de [NOME], aduzindo que está ele sofrendo constrangimento ilegal por parte do MM. Juiz de Direito da Vara Única da Comarca de Embu das Artes, eis que foi denunciado pela suposta infração ao artigo 157, parágrafo 2º, incisos I, II e III, c.c. os artigos 29 e 70, todos do Código Penal, tendo sido decretada sua prisão preventiva, em despacho não fundamentado, muito embora ausentes os requisitos autorizadores da medida cautelar.
+Sustenta o digno impetrante que o ora paciente não concorreu para o crime a ele ora imputado e o fato de não ter comparecido à audiência foi em razão de morar fora do país a trabalho e não por ter se ausentado do distrito da culpa.
+Alega, ainda, que o ora paciente é primário e possui bons antecedentes, residência fixa e emprego lícito.
+Postula, pois, a revogação da prisão preventiva, com a expedição de salvo-conduto.
+A liminar foi indeferida consoante o r. despacho de fls. 51/52.
+As informações solicitadas encontram-se às fls. 55/98.
+O ilustre Dr. Procurador de Justiça, em seu Parecer de fls. 100/108, opinou pela denegação da ordem.
+O impetrante argumenta que o paciente sofre constrangimento ilegal, tendo em vista que não há indícios de que ele tenha praticado o crime, bem como que o decreto não apresentou fundamentos idôneos para a prisão.
+Alega também que há excesso de prazo para o encerramento da instrução processual.
+Requer a concessão da ordem, para expedição de contramandado de prisão.
+O paciente foi denunciado pela prática do crime tipificado no art. 157, § 2º, I, II e III, na forma do art. 70, 333 c/c o 69, todos do Código Penal.
+A liminar foi indeferida.
+As informações solicitadas estão nos autos.
+O parecer do Ministério Público tem manifestação no sentido do não conhecimento ou denegação do habeas corpus.
+Na origem, o processo n. 00016123920178260628, na audiência de 31/7/2018 a instrução foi encerrada, concedendo-se prazo para apresentação de alegações finais, conforme informações processuais eletrônicas do site do Tribunal a quo consultadas em 15/8/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A impetração objetiva a revogação da prisão preventiva, tendo em vista que não há indícios de que ele tenha praticado o crime, bem como que o decreto não apresentou fundamentos idôneos para a decretá-la, e que há excesso de prazo para o encerramento da instrução processual.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Quanto ao excesso de prazo, segundo informações processuais eletrônicas do site do Tribunal a quo consultadas em 15/8/2018, a instrução já foi encerrada e as partes foram intimadas para apresentarem alegações finais. Então, essa matéria encontra-se superada, conforme enunciado da Súmula n. 52 do STJ.
+Quanto à prisão, constou no decreto o seguinte (fl. 36):
+ .. . No tocante ao pedido, formulado pelo Ministério Público, de decretação da Prisão Preventiva dos acusados Felipe, Celso e [NOME] , deve ser ele atendido. Os réus foram denunciados pela prática de delito de roubo com emprego de arma de fogo. Há prova da materialidade e veementes indícios de autoria pelos acusados. O caso em tela cuida de delito violento e que causa desassossego e temor na população ordeira, que demonstra periculosidade por parte dos acusados, com claro descaso pelo patrimônio e integridade física alheios. Inegável, pois, em face dos elementos coligidos pela fase inquisitiva, que a custódia cautelar dos acusados é necessária para a garantia da ordem pública, asseguração da instrução criminal e aplicação da lei penal, considerando a periculosidade das condutas e também para garantir a incolumidade física das vítimas. Assim, considerando presentes os requisitos do art. 312 do Código de Processo Penal, para garantia da ordem pública, por conveniência da instrução criminal, assegurando-se a incolumidade física das vítimas e testemunhas, e para assegurar a aplicação da lei penal, porquanto que com a prática do crime de corrupção demonstraram que podem atrapalhar a regular instrução processual, DECRETO A PRISÃO PREVENTIVA DE FELIPE [NOME] DE [NOME], CELSO NOBRE DE SOUSA JÚNIOR e [NOME] [NOME] [NOME] DE [NOME].  .. .
+Como se vê, a decisão de prisão demonstra fundamento concreto, quando faz referência ao fato de ter sido cometido roubo com outros agentes e emprego de arma de fogo e, conforme denúncia, dentro do contexto de transporte de valores, razão, portanto, apta a ensejar a constrição.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ante o exposto, voto por denegar o habeas corpus.
