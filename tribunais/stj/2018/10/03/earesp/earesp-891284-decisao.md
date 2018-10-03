@@ -1,0 +1,35 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AJUIZAMENTO DE AÇÃO ANULATÓRIA AO INVÉS DE EMBARGOS À EXECUÇÃO. IMPOSSIBILIDADE JURÍDICA. FUNDAMENTO NÃO IMPUGNADO PELA RECORRENTE. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL DA CONTRIBUINTE.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por POLIMIX CONCRETO LTDA., com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio TJ/RS, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. NÃO OPOSIÇÃO DE EMBARGOS. AJUIZAMENTO DE AÇÃO ANULATÓRIA SUBSTITUTIVA. IMPOSSIBILIDADE JURÍDICA (CPC, ART. 267, VI). VIOLAÇÃO AO PRINCÍPIO DA RAZOÁVEL DURAÇÃO DO PROCESSO (CF, ART. 5º, LXXVIII). PRECEDENTES DO TJRS E DO STJ.
+APELAÇÃO PROVIDA (fls. 393).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 408).
+3. Nas razões do Apelo Nobre, a parte recorrente aponta violação aos arts. 9o., § 2o., itens 19 e 20 do Decreto_lei 406/1968; 7o., § 2o. da LC 116/2003; 20, §§ 3o. e 4o., 543-B, § 3o. do CPC/1973; Súmula 167 do STJ, bem como divergência jurisprudencial. Sustenta, em síntese, a não incidência do ISS sobre os valores dos materiais utilizados no serviço de concretagem.
+4. Com contrarrazões (fls. 489/499), o recurso foi inadmitido na origem (fls. 516/527).
+5. É o relatório.
+6. A insurgência não merece prosperar.
+7. O Tribunal de origem, ao decidir a lide, concluiu pela impossibilidade de ajuizamento de Ação Anulatória em substituição aos Embargos à Execução, pelo que extinguiu o feito sem resolução do mérito com base no art. 267, VI do CPC/1973. A propósito, veja-se:
+No caso, relativamente à ação substitutiva de embargos, minha primeira compreensão a respeito foi no sentido do descabimento, visto que a oportunidade legal para o executado se defender era os embargos, ampliada para a exceção de executividade nas hipóteses restritas em que admitida (STJ, Súm. 393).
+Todavia, a jurisprudência se posicionou pela admissão, motivo pelo qual me alinhei para fins jurisdicionais, mas agora o STJ resolveu fechar tal possibilidade processual, e esta Corte aderiu à orientação, e obviamente eu, v.g., nas APs [CPF] e [CPF] e Agln 70 055 861 405, visto corresponder ao entendimento originário.
+Em suma, na realidade correspondia a embargos sem prazo definido, além de atentar contra o princípio constitucional da razoável duração do processo (CF, art. 5º, LXXVIII, acrescido pela EC 45/2004), verdade constatada no cotidiano, porquanto demanda sempre ajuizada na véspera de hasta pública, exatamente para atrasar tudo e desperdiçar tudo, dinheiro com edital, tempo do Judiciário, etc.
+(..).
+Em suma, o que se propõe é uma nova etapa em relação à dita ação declaratória substitutiva de embargos, no sentido de que ela não se compatibiliza com o princípio constitucional da razoável duração do processo.
+Ademais, sabidamente, trata-se de ação que, na maioria das vezes, tem fins meramente tumultuários e protelatórios face à execução, violando também o princípio de que esta se realiza no interesse do credor (CPC, art. 612).
+Aliás, é muito bom que assim seja para sanear pelo menos um pouco o ambiente das execuções, já suficientemente infestado pela praga chamada exceção de executividade.
+Nesses termos, provejo, a fim de extinguir o processo com base no art. 267, VI, do CPC, respondendo a autora pelas custas e pela soma dos honorários fixados na sentença (R$ 700,00  R$ 1.500,00), atualizados pelo IGP-M desde a sentença e juros moratórios mensais de 1% a partir do prazo ao pagamento espontâneo (CPC, art. 475-J) (fls. 395/398).
+8. Entretanto, nesta via recursal, a parte Recorrente sustenta a não incidência do ISS sobre os valores dos materiais utilizados no serviço de concretagem.
+9. Vê-se, portanto, que não houve a impugnação do principal fundamento utilizado pelo aresto recorrido para negar a pretensão recursal, o que atrai a aplicação, por analogia, do disposto na Súmula 284/STF, diante das razões recursais dissociadas dos fundamentos do acórdão.
+10. A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEIS MUNICIPAIS N. 805/66 E N. 3.499/90. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. CONFLITO ENTRE LEI LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DA SUPREMO CORTE. ART. 7º DA LEI MUNICIPAL 3.316/89 EM CONFLITO COM O ART. 33 DO CÓDIGO TRIBUTÁRIO NACIONAL. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE REVISÃO EM SEDE DE RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+(..).
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamentos suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..).
+VIII - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida. IX - Agravo Interno improvido (AgInt no REsp. 1.360.060/SC, Rel. Min. REGINA HELENA COSTA, DJe 26.8.2016).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. GRATIFICAÇÃO DE DESEMPENHO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO E RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULAS 283 E 284/STF. ACÓRDÃO RECORRIDO QUE ASSENTA A EXISTÊNCIA DE COISA JULGADA. PRETENSÃO DE REEXAME. NECESSÁRIO REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, suficiente por si só à manutenção do julgado (Súmula 283/STF), bem como quando as razões recursais encontram-se dissociadas da fundamentação adotada pelo acórdão recorrido (Súmula 284/STF).
+2. Infirmar a conclusão do acórdão recorrido que assentou ser inviável a pretensão da ora agravante porquanto implicaria violação à coisa julgada formada em outro processo, pressupõe o reexame fático-probatório o que é obstado na via do recurso especial por força da Súmula 7/STJ.
+3. Agravo interno não provido (AgInt no REsp. 1.626.816/PE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 23.11.2016).
+11. Ante o exposto, conhece-se do Agravo para negar seguimento ao Recurso Especial da Contribuinte.
+12. Publique-se. Intimações necessárias.
