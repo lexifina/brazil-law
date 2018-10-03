@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. DEFICIENTE FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO
+1. Ação de Busca e Apreensão
+2. A deficiente fundamentação do recurso especial impede o seu conhecimento.
+3. Não se conhece do recurso especial, quando não há impugnação de fundamento do acórdão recorrido.
+4. A ausência de prequestionamento da matéria, impede o conhecimento do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Dissídio jurisprudencial não configurado, ante a ausência de indicação do dispositivo de lei federal a que se teria dado interpretação divergente. Aplicação da Súmula 284/STF
+7. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República
+8. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S/A com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 01/11/2017
+Processo distribuído ao Gabinete em: 26/09/2018
+Ação: de busca e apreensão ajuizada pela recorrente, em face de [NOME], em razão do inadimplemento do recorrido em contrato de financiamento de veículo garantido por alienação fiduciária.
+Sentença: julgou extinto o processo, com resolução de mérito, nos termos do art. 269, II, c/c 462 do CPC.
+Acórdão: negou provimento ao recurso de apelação interposto pela recorrente, nos termos da ementa a seguir:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. SENTENÇA DE EXTINÇÃO COM RESOLUÇÃO DO MÉRITO PELO RECONHECIMENTO DO PEDIDO PELO RÉU (ART. 269, II, CPC/1973), DECORRENTE DA COMPROVAÇÃO DA PURGAÇÃO DA MORA. CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA AO PAGAMENTO DA MULTA NO VALOR EQUIVALENTE A 50% DO VALOR ORIGINALMENTE FINANCIADO E AO PAGAMENTO DO VALOR DE MERCADO DO VEÍCULO, [NOME], VIGENTE NA DATA DO JULGADO.
+INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA. ALEGADA INVIABILIDADE DE RECONHECIMENTO DA PURGAÇÃO DA MORA, EIS QUE NECESSÁRIO O PAGAMENTO INTEGRAL DA DÍVIDA. PURGAÇÃO, NO ENTANTO, EVIDENCIADA, MEDIANTE PAGAMENTO DA DÍVIDA EM VALOR APRESENTADO PELA CREDORA NA INICIAL. ADEMAIS, RECONHECIMENTO DA MORA PURGADA EM SANEADOR. AUSÊNCIA DE MANIFESTAÇÃO DA PARTE CREDORA, APESAR DE INTIMADA PARA TANTO. PRECLUSÃO EVIDENCIADA. RECLAMO NÃO CONHECIDO NO PONTO.
+ALEGAÇÃO DE IMPOSSIBILIDADE DE CONDENAÇÃO AO PAGAMENTO DAS PENALIDADES PREVISTAS NO ART. 3, § 6º DO DECRETO LEI N. 911/69, FACE A EXTINÇÃO DA AÇÃO SEM JULGAMENTO DO MÉRITO E DA AUSÊNCIA DE MOTIVAÇÃO DA DECISÃO QUE LHE CONDENOU AO PAGAMENTO DO VALOR DE MERCADO DO VEÍCULO. TESES REJEITADAS. ALIENAÇÃO EXTRAJUDICIAL DO BEM QUE IMPEDE O RETORNO AO STATUS QUO ANTE. ATO ILÍCITO CONFIGURADO. MANUTENÇÃO DO PAGAMENTO DA MULTA E DA INDENIZAÇÃO POR PERDAS E DANOS. SENTENÇA ESCORREITA.
+" ..  A hipótese de venda extrajudicial do bem encontra-se prevista em comando normativo (art. 3º, § 1º, do Decreto - Lei 911/1969), no que pode acarretar a incidência da regra prescrita no § 6º do art. 3º do Decreto -Lei 911/1969, que o o prevê a sua condenação ao pagamento de multa equivalente o a 50% (cinquenta por cento) do valor originariamente o financiado, devidamente atualizado, não excluída a responsabilidade por perdas e danos (art. 3º, §7º, do Decreto - Lei 911/1969)  .. " (Apelação Cível nº 2013.068423-9, de Joinville, rel. Des. Robson Luz Varella, j. 08/07/2014). (TJSC, Apelação Cível n. 2014.074105-1, de Tubarão, rel. Des. Luiz Fernando Boller, j. 10-03-2015).
+RECURSO CONHECIDO EM PARTE E DESPROVIDO (e-STJ fls. 110/111).
+Recurso Especial: a recorrente aduz, além de divergência jurisprudencial, negativa de vigência aos arts. 2º, §2º e 3º do Decreto-Lei n. 911/69, defendendo que a purga da mora exige o pagamento da integralidade da dívida, isto é, o pagamento das parcelas vencidas e vincendas, acréscimos contratuais, custas processuais e honorários advocatícios.
+Aduz, ainda, não ser cabível a aplicação da tabela [NOME] para efeito de valorar o bem, haja vista não ser possível saber o estado do veículo no momento da apreensão. Defende, também, que não há falar em qualquer risco ao direito do recorrido, uma vez que na hipótese de improcedência da ação de busca e apreensão, haverá a condenação do credor fiduciário em multa de 50% (cinquenta) por cento do valor do bem.
+Assinala que a multa inserta no art. 3º, §6º, do Decreto-lei n. 911/69, não á cabível na hipótese em que a sentença foi de extinção da ação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: CPC/2015
+- Da deficiente fundamentação do recurso
+Observa-se que a recorrente pretende valer-se do conteúdo inserto no art. 3º, §2º, do Decreto-Lei n. 911/69, para defender a tese segunda a qual, a purga da mora exige o pagamento da integralidade da dívida, a qual consiste no soma das parcelas vencidas e vincendas, encargos, custas processuais e honorários advocatícios.
+Ocorre que o comando do referido dispositivo de lei não se presta a tal desiderato, uma vez que ele não exige que a soma dos encargos, custas processuais e honorários advocatícios integrem o valor da dívida . Assim, padece o recurso especial, nos termos em que apresentado, de deficiente fundamentação, atraindo a incidência da Súmula nº 284 do STF.
+Em relação à questão atinente à inaplicabilidade da tabela [NOME], a recorrente defende o seu afastamento, sem, no entanto, demonstrar qual o dispositivo de Lei que teria sido violado pelo Tribunal de origem, o que também demonstra a deficiente fundamentação do recurso a ensejar a aplicação do referido sumular.
+- Da ausência de fundamento impugnado
+No mais, tem-se que acerca da inclusão dos honorários advocatícios, no percentual de 10% e custas processuais finais ao valor da dívida, o Tribunal de origem entendeu que, resta impossibilitada a somatória dessas verbas ao quantum debeatur, pois ao ser intimado acerca da decisão que entendeu por purgada a mora (fls. 59/60), mateve-se inerte, estando preclusa a pretensão em comento (e-STJ fl. 116). No entanto, verifica-se, da leitura do recurso especial interposto pela recorrente, que não houve a impugnação do referido fundamento.Incide a Súmula 83/STJ.
+Da mesma forma, a Corte a quo ao apreciar a questão atinente à aplicação da multa de 50% (cinquenta) por cento do valor originalmente contratado, entendeu que a recorrente deu causa à impossibilidade de restituição do veículo ao aliená-lo antes do término da demanda, situação que constituiu risco assumido pela instituição financeira a ensejar a aplicação da referida sanção, argumento que não foi impugnado pela recorrente.
+- Da ausência de prequestionamento
+Quanto às teses da recorrente, no sentido de que não houve a interposição de recurso pelo recorrido pugnando pela aplicação da multa inserta no art. 3º, §6º, do Decreto-lei n. 911/69; que não caberia tal condenação, uma vez que a sentença foi de extinção da ação; e que não seria possível ampliar o campo de aplicação da referida norma, tem-se que tais questões não foram objeto de análise pelo Tribunal de origem, restando ausente o devido prequestionamento. Incide à espécie a Súmula 282/STF.
+- Da divergência jurisprudencial
+A falta do cotejo analítico, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+A ausência de prequestionamento do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 255, §4º, I, do RISTJ.
+Publique-se. Intimem-se.
