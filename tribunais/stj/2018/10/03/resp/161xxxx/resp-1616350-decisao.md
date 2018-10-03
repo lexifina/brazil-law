@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 1.242/1.243):
+AÇÃO CIVIL PÚBLICA - ENSINO SUPERIOR - COBRANÇA DE TAXA DE EXPEDIÇÃO DE DIPLOMA - DESCABIMENTO.
+1. Nos moldes do artigo 209 da Constituição Federal o ensino é livre à iniciativa privada, que deve sujeitar-se, porem, à regulamentação do Poder Público. Tendo em vista a relevância social, o tema tem merecido especial atenção do legislador no sentido de possibilitar o acesso à educação e evitar abusos por parte das instituições privadas de ensino.
+2. A matéria está regulamentada pelo § 1º do artigo 2º da Resolução n. 1/83, do Conselho Federal de Educação, que dispõe que o custo da expedição do diploma encontra-se inserido no valor da anuidade escolar. 5. Vedada a cobrança de qualquer valor adicional a esse título, ante as disposições da norma citada.
+3. Rejeitados os pedido de devolução em dobro de todos os valores cobrados indevidamente, além de danos morais coletivos.
+4. A cobrança embora indevida decorreu de equivocada interpretação literal da legislação, restando a matéria controversa por longo tempo e a prática aceita e tolerada durante todo o período, indemonstrada a má-fé da parte ré.
+5. Não demonstrado que no período em que cobrada, a taxa integrava os custos apropriados para o cálculo do valor das mensalidades e que houve cobrança em duplicidade, pelo que determinar às rés a devolução dos valores cobrados implicaria no risco da transferência indireta desses custos para os atuais alunos, com o indevido repasse desses encargos ao presente corpo discente dessas instituições.
+6. De se desacolher o apelo da União já que reconhecido na sentença não caber nesta ação impor à União obrigação que já é sua por natureza, qual seja, fiscalizar as instituições de ensino, para as quais delega o exercício do ensino superior. Precedentes desta Corte, a respeito da temática: AC 00147879520074036102, 6ª Turma, Relatora Desembargadora Federal Consuelo Yoshida, e-DJF3 Judicial I, de 4/4/2013; APELREEX 00111439720054036108, 3ª Turma, Juiz Federal Convocado Silva Neto, e-DJF3 Judicial 1, de 9/3/2010.
+7. Precedentes desta Corte: AC 00147879520074036102, 6ª Turma, Relatora Desembargadora Federal Consuelo Yoshida; APELREEX 00111439720054036108, 3ª Turma, Juiz Federal Convocado Silva Neto.
+8. Não conhecimento do agravo retido e negativa de provimento dos apelos da União e do Ministério Público Federal.
+Opostos embargos de declaração, foram parcialmente acolhidos para dar "provimento à apelação da União para que a ela não se imponha uma obrigação que já é sua por natureza" (fl. 1.265), nos termos da seguinte ementa (fls. 1.268/1.269):
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. ENSINO SUPERIOR. TAXA DE EXPEDIÇÃO DE DIPLOMA. COBRANÇA INDEVIDA. INTERESSE DA UNIÃO EM INTEGRAR O PÓLO ATIVO. NÃO ADMITIDO. OMISSÃO E CONTRADIÇÃO. PREQUESTIONAMENTO. EMBARGOS DA UNIÃO ACOLHIDOS EM PARTE E EMBARGOS DO MPF REJEITADOS.
+1. Os embargos de declaração opostos pela União devem ser acolhidos para sanar a contradição apontada, reformulando o dispositivo do acórdão, e para suprir a omissão apontada, porém mantendo o indeferimento de sua inclusão no polo ativo da ação.
+2. Os embargos de declaração opostos pelo Ministério Público Federal, por sua vez, devem ser rejeitados, pois a decisão recorrida abordou a questão da cobrança indevida da taxa de matrícula e da inexistência de dano a ser ressarcido de forma suficientemente clara, nos limites da controvérsia, não restando vício a ser sanado.
+3. O questionamento do acórdão com sustentáculo em pretenso vício de omissão e contradição, quando se verifica que a questão foi devidamente tratada no aresto, aponta para típico e autêntico inconformismo com a decisão, contrariedade que não enseja o acolhimento do presente recurso, uma vez que inexistente qualquer dos vícios elencados no artigo 535 do Código de Processo Civil.
+4. Embargos de declaração da União acolhidos parcialmente e embargos de declaração do Ministério Público Federal rejeitados.
+A parte recorrente aponta violação aos arts. 9º, 48, parágrafo único, e 53, VI, da Lei n. 9.394/96; 55, §§ 1º e 4º e 105 da Lei n. 8.078/90; 4º do Decreto n. 2.181/97; 3º, 23, 30, parágrafo único, e 29 da Lei n. 8.987/95; 3º, 461, § 4º, 462, 475, caput e § 2º, 535, I, e 644 do CPC/73.
+Sustenta, em resumo, (I) a sua ilegitimidade passiva ad causam, haja vista a inexistência de competência legal do Ministério da Educação para a fiscalização do pagamento de serviços prestados por instituição de ensino, inclusive quanto à emissão de certificados e diplomas, e (II) que "a relação existente entre os estudantes (contratantes) e as Universidades privadas é relação de consumo, portanto, está sujeita às premissas legais insertas no Código de Defesa do Consumidor" (fl. 1.282).
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo desprovimento do recurso especial (fls. 1.394/1.402).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, com relação aos arts. 461, § 4º, 462, 475, caput e § 2º, 535, I, e 644 do CPC/73, cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Para ilustrar, sobressaem os seguintes precedentes: AgRg no AREsp 83.629/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 3/4/2012; AgRg no AREsp 80.124/PB, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 25/5/2012.
+Por sua vez, quanto aos demais dispositivos aos quais a parte alega violação, denota-se que o seu conteúdo não foi objeto de apreciação pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice das Súmulas 282 e 356/STF.
+A propósito, vejam-se:
+PROCESSUAL CIVIL. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. TELEFONIA. COBRANÇA DE SERVIÇOS NÃO AUTORIZADOS PELO USUÁRIO. MINISTÉRIO PÚBLICO. LEGITIMIDADE ATIVA. RECONHECIMENTO. INVERSÃO DO ÔNUS DA PROVA E DEVOLUÇÃO EM DOBRO DOS VALORES. SÚMULAS 7 E 83 DO STJ. APLICAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA.
+ ..
+3. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+ ..
+6. Se o conteúdo de dispositivos legais tidos por violados não é examinado na origem, o apelo nobre padece do indispensável requisito do prequestionamento, falta que atrai a incidência analógica da Súmula 282 do STF.
+ ..
+8. Agravo interno desprovido.
+(AgInt no AREsp 222.660/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/9/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 14, II, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 620 DO CPC/73. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO STF.
+ ..
+III - Sobre a alegada violação do art. 14, II, do CPC/1973, verifica-se que no acórdão recorrido não foi analisado o conteúdo do referido regramento, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos enunciados sumulares n. 282 e 356 do STF.
+IV - Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+ ..
+VIII - Embargos conhecidos como agravo interno. Agravo interno improvido.
+(EDcl no REsp 1.677.883/AM, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/8/2018, DJe 20/8/2018)
+Por fim, cabe observar que a parte recorrente carece de interesse recursal acerca da alegação de ilegitimidade passiva ad causam, haja vista que os embargos declaratórios opostos na origem foram acolhidos com efeitos infringentes para corrigir a contradição apontada no aresto embargado, consignando, expressamente, o provimento do pedido contido na apelação da União, de modo a afastar a obrigação imposta na sentença.
+Nesse panorama, ressai nítida a ausência de interesse recursal, consubstanciado no binômio necessidade-utilidade de se insurgir contra a decisão alvejada no ponto.
+A esse respeito, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. PRETENSÃO DO PARTICULAR ACOLHIDA NA ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL.
+1. A pretensão formulada no recurso especial do particular já foi acolhida na origem. Confira-se os seguintes pontos da ementa do acórdão recorrido: "(..) 2. Tendo em vista que as vendas de mercadorias para a Zona Franca de Manaus são equiparadas à exportação para fins fiscais, devem as receitas dessas operações ser excluídas da base de cálculo da contribuição previdenciária de que trata o artigo 8º da Lei nº 12.546/2011. (..) 4. Em relação às vendas para áreas de livre comércio, é inviável a desoneração das receitas, já que criadas posteriormente, sem que haja lei que lhes atribua essa mesma condição. Vencido o Relator no ponto".
+2. O item 4 da ementa do acórdão recorrido esclarece que o relator ficou vencido no ponto em que contrariou a pretensão da agravante, o que corrobora com a impossibilidade de conhecimento do recurso especial do particular, haja vista a ausência de interesse recursal, eis que o contribuinte não foi sucumbente quanto à pretensão formulada no recurso.
+3. Agravo interno do particular não provido.
+(AgInt no REsp 1.736.363/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 6/9/2018, DJe 13/9/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. ACOLHIMENTO DA PRETENSÃO. FALTA DE INTERESSE RECURSAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - Não há interesse recursal se a parte já obteve o acolhimento de sua pretensão, uma vez que a prestação jurisdicional demanda a presença de interesse concreto.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.380.053/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 7/8/2018, DJe 14/8/2018)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. INTERESSE RECURSAL. AUSÊNCIA.
+ ..
+3. Não tendo a parte recorrente sido sucumbente na origem quanto ao tema objeto do especial, não há que se falar em interesse recursal.
+4. Agravo interno desprovido.
+(AgInt no AgRg no REsp 1.538.518/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/6/2018, DJe 7/8/2018)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
