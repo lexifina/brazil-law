@@ -1,0 +1,20 @@
+EMENTA
+PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. AUXÍLIO DOENÇA. BENEFÍCIO PREVIDENCIÁRIO. PETIÇÃO INICIAL QUE NÃO NARRA MOLÉSTIA LABORAL OU ACIDENTE DO TRABALHO. COMPETÊNCIA DO JUÍZO FEDERAL.
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 1ª Vara Cível de Novo Hamburgo/RS, suscitante, e o Juízo Federal da 4ª Vara de Novo Hamburgo-SJ/RS, suscitado, extraído dos autos da ação previdenciária ajuizada em face do INSS.
+A ação foi ajuizada perante a Justiça Federal e distribuída ao Juízo da 4ª Vara de Novo Hamburgo - Seção Judiciária do Estado do Rio Grande do Sul, que declinou da competência ao argumento de que a presente demanda postula a concessão do benefício decorrente de acidente do trabalho. Aduz ainda, que o laudo médico judicial aponta que a incapacidade decorre de acidente de trabalho, sendo, portanto, a competência da Justiça Estadual por se enquadrar na hipótese da exceção constitucional do art. 109, I, da CF (fls. 48-49).
+Encaminhado o feito à Justiça Estadual, o Juízo de Direito da 1ª Vara Cível de Novo Hamburgo/RS também declinou da competência ao argumento de que a pretensão inicial do autor diz respeito à concessão do auxílio-doença previdenciária, não se fazendo qualquer menção, como causa de pedir, à acidente do trabalho ou doença a ele equiparada, de forma a justificar o deslocamento da competência.
+Suscitou, em razão do alegado, o presente conflito de competência.
+O Ministério Público Federal manifesta-se seja declarada a competência do Juízo da Justiça Federal, suscitado (fls. 73-76).
+É o relatório. Decido.
+Inicialmente, o conflito de competência deve ser conhecido, pois se insere no que dispõe o artigo 105, I, "d", da Constituição Federal.
+No caso sub judice, a fixação do foro competente para o julgamento da demanda vincula-se estritamente à definição da natureza do benefício pleiteado.
+Com efeito, doutrina e jurisprudência firmaram compreensão de que, em regra, o deslinde dos conflitos de competência entre Juízos em razão da matéria deve ser dirimido com a observância da relação jurídica controvertida, notadamente no que se refere à causa de pedir e ao pedido indicados pelo autor da demanda. Nesse sentido, confiram-se: CC 117.722/BA, Rel. Min. Castro Meira, Primeira Seção, DJe 02/12/2011; CC 108.138/SC, Rel. Min. Nancy Andrighi, Segunda Seção, Dje 06/09/2010; e AgRg no CC 104.283/RJ, Rel. Min. Og Fernandes, Terceira Seção, DJe 24/02/2012.
+No caso dos autos, da leitura da exordial não há narrativa de que as moléstias e/ou doenças supostamente incapacitantes sejam decorrentes de acidente do trabalho, porquanto, a natureza previdenciária do benefício atrai a competência da Justiça Federal.
+Assim, fixa-se a competência do Juízo da Justiça Federal, conforme dispõe o artigo 109, I, parte inicial, da Constituição Federal. A propósito:
+PREVIDENCIÁRIO. PETIÇÃO INICIAL. PEDIDO E CAUSA DE PEDIR. PLEITO DE APOSENTADORIA POR INVALIDEZ. AUSÊNCIA DE MENÇÃO A ACIDENTE DE TRABALHO. EXEGESE DO ART. 109, I, DA CONSTITUIÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+2. No caso concreto, não se extrai da petição inicial da subjacente ação qualquer alusão à ocorrência de acidente laboral que, enquanto causa de pedir, estivesse a respaldar o pedido de aposentadoria por invalidez formulado pelo segurado frente ao INSS, cujo contexto desautoriza a tramitação da lide perante a Justiça estadual.
+3. A teor do art. 109, I, da CF, compete à Justiça federal o julgamento das "causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;" 4. Agravo regimental a que se nega provimento. (AgRg no CC 144.267/SP, Rel. Min. Sérgio Kukina, Primeira Seção, DJe 31/03/2016 - destacamos)
+Ante o exposto, conheço do conflito e declaro a competência do Juízo Federal da 4ª Vara de Novo Hamburgo - SJ/RS.
+Publique-se. Intimem-se.
