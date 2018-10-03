@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão proferido pelo TJRS assim ementado (e-STJ fls. 484/485):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AGRAVO RETIDO. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. PRESCRIÇÃO QUINQUENAL. INOCORRENTE. ERRO MÉDICO EM PROCEDIMENTO ESTÉTICO. PREENCHIMENTO LABIAL COM METACRIL. IMPERÍCIA NÃO DEMONSTRADA. AUSÊNCIA DE DANO CONSOLIDADO. DEVER DE INDENIZAR NÃO CONFIGURADO.
+1) Trata-se de recursos de agravo retido e de apelação interposta contra sentença de parcial procedência de ação de indenização por danos moral e estético envolvendo erro médico em procedimento estético. Consoante a exordial, a parte autora realizou procedimento de preenchimento labial com o requerido para aumento do seu lábio superior. O produto utilizado ocasionou lesão de artéria no rosto da parte autora, causando-lhe fortes dores e uma grave crise alérgica. Aduziu a responsabilização objetiva do cirurgião plástico, ante a obrigação de resultado.
+2) PRESCRIÇÃO - Estando a relação jurídica travada entre as partes jungidas às normas do microssistema do consumidor, revela-se adequada a aplicação do prazo prescricional quinquenal previsto no art. 27 do CDC, em detrimento do prazo trienal preconizado no art. 206, §3º, inc. V, do Código Civil. Prescrição não implementada.
+3) MÉRITO - Para que seja possível a configuração do dever de indenizar devem estar demonstrados à suficiência os pressupostos relacionados ao dano, ato ilícito (no caso imperícia e negligência do médico demandado) e nexo causal. O direito à indenização sucumbe frente à evidente falta de demonstração de dano estético consolidado, como se deduz das respostas apresentadas pelo expert nomeado à causa. Então, não havendo demonstração de que houve imperícia na realização do procedimento eleito pelas partes para a modificação estética almejada pela parte apelada, não se revela razoável, na ausência de dano consolidado, estabelecer-se o juízo reparatório tão-somente em face da discutida falta de informação e/ou consentimento autorizado pela paciente.
+4) Ademais, como a ação de indenização está apoiada no dano moral e estético, sendo o primeiro decorrência do segundo, no caso em comento, em não havendo dano estético consolidado não pode haver dano moral decorrente.
+AGRAVO RETIDO PREJUDICADO. APELAÇÃO PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 518/527).
+Nas razões do recurso especial (e-STJ fls. 542/566), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alega ofensa aos arts. 14 do CDC e 186 do CC/2002 porque existente responsabilidade objetiva por erro médico em cirurgia estética.
+Sustenta ofensa ao art. 489, § 1º, V, do CPC/2015 por omissão em relação aos argumentos que afastaram os danos morais, em desconformidade, ainda, com a Súmula n. 387 do STJ. Menciona jurisprudência.
+Juízo de admissibilidade positivo (e-STJ fls. 729/733).
+É o relatório.
+Decido.
+A respeito da inexistência de danos morais e estéticos, afastando-se a responsabilidade objetiva, a decisão do Tribunal de origem foi devidamente fundamentada nos seguintes termos (e-STJ fls. 491/492):
+Revisando a inicial, constato que, às fls. 03, a parte autora fez expressa referência à circunstância de que o apelante utilizaria o produto METACRIL e "que não haveria qualquer efeito colateral, porquanto era um produto seguro, utilizado na área médica em larga escala".
+Assim, não é possível admitir-se a tese de que a sentença revelou-se extra petita ao conter fundamento não deduzido na inicial para a afirmação do juízo de procedência.
+A improcedência da ação deve resultar da análise do conjunto da prova, com destaque à prova técnica.
+Para que seja possível a configuração do dever de indenizar devem estar demonstrados à suficiência os pressupostos relacionados ao dano, ato ilícito (no caso imperícia e negligência do médico demandado) e nexo causal.
+Entendo que o direito à indenização sucumbe frente à evidente falta de demonstração de dano estético consolidado, como se deduz das respostas apresentadas pelo expert nomeado à causa.
+Em seu laudo de fls. 251 existe informação de que "ao exame, a face está plenamente recuperada, com pele com boa elasticidade e sem seqüelas. O discretíssimo vestígio do ocorrido na face é quase imperceptível e demonstra a ampla recuperação dos tecidos."
+Assim, como a ação de indenização está apoiada no dano moral e estético, entendendo que o primeiro é decorrência do segundo, no caso em comento, em não havendo dano estético consolidado não pode haver dano moral decorrente.
+Então, não havendo demonstração de que houve imperícia na realização do procedimento eleito pelas partes para a modificação estética almejada pela parte apelada, não se revela razoável, na ausência de dano consolidado, estabelecer-se o juízo reparatório tão-somente em face da discutida falta de informação ou e consentimento autorizado pela paciente.
+Ao final e ao cabo, parece ter a parte autora atingido seu desiderato, não podendo as circunstâncias relacionadas à reação alérgica grave verificada no caso da autora sustentar indenização por defeito na prestação de serviço de cirurgia estética.
+Tendo a Turma julgadora assim decidido, em decisão com a devida fundamentação, com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
