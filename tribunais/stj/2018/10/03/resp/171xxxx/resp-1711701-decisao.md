@@ -1,0 +1,41 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. AUTOGESTÃO. NÃO APLICAÇÃO DO CDC. RETORNO DOS AUTOS PARA NOVO JULGAMENTO À LUZ DA LEGISLAÇÃO PERTINENTE. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+MARIA DAS GRAÇAS PEREIRA DAMO (MARIA DAS GRAÇAS) ajuizou ação de obrigação de fazer cumulada com pedido de indenização por danos morais contra a CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL (CASSI), julgada parcialmente procedente.
+O Tribunal de origem negou provimento ao recurso de apelação interposto pela CASSI, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 5 SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA RÉ. 1. ALEGADA INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR À DEMANDADA, SOB O FUNDAMENTO DE SER ENTIDADE DE AUTOGESTÃO (CASSI). COBERTURA MÉDICO-HOSPITALAR CONTRATADA PELO ASSOCIADO. IRRELEVÂNCIA DA NATUREZA JURÍDICA DA ENTIDADE QUE PRESTA O SERVIÇO. RELAÇÃO DE CONSUMO EVIDENCIADA. 2. AUTORA QUE OPTOU PELO SISTEMA DE LIVRE ESCOLHA. PROCEDIMENTO CIRÚRGICO PARTICULAR REALIZADO EM HOSPITAL CREDENCIADO. 2.1. APESAR DA NECESSIDADE DE OBSERVÂNCIA DOS LIMITES CONTRATUAIS PARA O REEMBOLSO POR MEIO DO SISTEMA DE LIVRE ESCOLHA, A APELANTE NÃO COMPROVOU O CUMPRIMENTO DO DEVER DE PRESTAR INFORMAÇÃO - CLARA, PRECISA E DE FÁCIL COMPREENSÃO - À AUTORA QUANTO ÀS RESTRIÇÕES AO RECEBIMENTO DAS DESPESAS CUSTEADAS POR ELA. EXEGESE DOS ARTIGOS 6º, 31 E 54, §4º, DO CÓDIGO DE DEFESA DO CONSUMIDOR. 2.2. DIREITO À RESTITUIÇÃO LIMITADA AOS VALORES CONTRATADOS, CONSOANTE TGA - TABELA GERAL DE AUXÍLIOS. 3. PREQUESTIONAMENTO. DESNECESSIDADE DE MANIFESTAÇÃO EXPRESSA SOBRE TODOS OS DISPOSITIVOS LEGAIS INVOCADOS PELAS PARTES. 4. RECURSO CONHECIDO E DESPROVIDO (e-STJ, fl. 462).
+Inconformada, CASSI apresentou recurso especial, com base no art. 105, III, a e c, da Constituição Federal, alegando ofensa a dispositivos de lei federal (art. 6º da Lei nº 9.656/98; e, art. 3º, § 2º, do CDC) e dissídio jurisprudencial, por entender, em suma, que a aplicação do CDC deve ser afastada, por se tratar de plano de saúde administrado por entidade de autogestão (e-STJ, fls. 476/492).
+As contrarrazões não foram apresentadas (e-STJ, fl. 500).
+Em juízo de admissibilidade, a Presidência do Tribunal estadual admitiu o referido apelo nobre (e-STJ, fls. 501/502).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da não aplicação do Código de Defesa do Consumidor
+Nas razões do recurso especial, a CASSI sustentou a inaplicabilidade do CDC por se tratar de plano de saúde administrado por entidade de autogestão.
+O Tribunal local, por sua vez, assim se manifestou:
+2.1. Da aplicação do Código de Defesa do Consumidor
+Primeiramente, insta salientar que, na hipótese dos autos, é perfeitamente aplicável o Código de Defesa do Consumidor, uma vez que, ao firmar contrato de assistência à saúde, a autora enquadrou-se como consumidora, nos termos do artigo 2o do Código Consumerista, e a requerida como fornecedora, segundo preconiza o artigo 3º do mesmo diploma legal.
+Ademais, a relação em comento é de consumo, em consonância com a Súmula 469 do Superior Tribunal de Justiça: "aplica-se o Código de Defesa do Consumidor aos contratos de planos de saúde".
+Cumpre frisar o teor do artigo 35 da Lei n. 9.656/98, o qual caracteriza o contratante de plano de assistência à saúde como consumidor:
+Art. 35. Aplicam-se as disposições desta Lei a todos os contratos celebrados a partir de sua vigência, assegurado aos consumidores com contratos anteriores, bem como aqueles com contratos celebrados entre 2 de setembro de 1998 e 1o de janeiro de 1999, a possibilidade de optar pela adaptação aos sistema previsto nesta Lei.
+Neste sentido, é o entendimento pacífico desta Corte de Justiça:
+ ..  Tratando-se de relação de consumo a havida entre o usuário e a empresa de plano de saúde, aplica-se à espécie as regras do Código de Defesa do Consumidor  ..  (TJSC, Apelação Cível n. 2013.005195-9, de Blumenau, rei. Des. Henry Petry Júnior, j. 22-08-2013).
+No caso em apreço, a apelante aduz ser uma sociedade sem fins lucrativos, criada para prestar serviços de assistência à saúde, única e exclusivamente aos seus funcionários e aposentados do Banco do Brasil. Ademais, esclarece que, em razão do vínculo empregatício mantido entre a requerente e a instituição financeira, aquele passou a ser seu associado. Portanto, segundo a recorrente, não existe contrato de adesão, ocorrendo o vínculo em razão do seu ingresso ao referido banco, assim como não há relação de consumo, pois, a associação rege-se pelo seu estatuto social e decorre de relação trabalhista.
+Não obstante, as teses não encontram amparo legal, pois o regime de autogestão e a argumentação de ausência de fins lucrativos não ensejam a retirada do caráter consumerista da relação em apreço, tendo em vista a prestação do serviço estar diretamente ligada à realização de assistência à saúde, por meio de remuneração paga pelos seus associados.
+ ..
+Portanto, evidente a aplicação da Legislação Consumerista ao o caso, devendo ser mantida a decisão de primeiro grau neste ponto (e-STJ, fls. 466/468 - sem destaques no original).
+Acerca do tema, a Segunda Seção do STJ, no julgamento do Recurso Especial nº 1.285.483/PB, Relator Ministro LUIS FELIPE SALOMÃO, firmou o entendimento de que não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo, nos termos da seguinte ementa:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DE AUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃO OFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA. RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade de autogestão, é pessoa jurídica de direito privado sem finalidades lucrativas que, vinculada ou não à entidade pública ou privada, opera plano de assistência à saúde com exclusividade para
+um público determinado de beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia, sensivelmente, essas pessoas jurídicas quanto à administração, forma de associação, obtenção e repartição de receitas, diverso dos contratos firmados com empresas que exploram essa atividade no mercado e visam ao lucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido.
+(REsp 1.285.483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, j. 22/6/2016, DJe 16/8/2016)
+Assim, merece reforma o acórdão recorrido por estar em dissonância com a jurisprudência dominante firmada no âmbito desta Corte, colhendo, portanto, a incidência da Súmula nº 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Nestas condições, DOU PROVIMENTO ao recurso especial a fim de afastar a incidência da legislação consumerista sobre a controvérsia e determinar o retorno dos autos ao Tribunal de origem para que reanalise as questões à luz de novas bases, como entender de direito.
+Inaplicável ao caso a majoração de honorários.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa, nos termos do NCPC (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
