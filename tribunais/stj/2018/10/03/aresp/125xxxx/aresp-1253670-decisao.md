@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por Odontologia Clínica Dentária EIRELI - ME contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 690):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. MULTA ADMINISTRATIVA. AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR - ANS. SERVIÇOS ODONTOLÓGICOS. PLANO DE SAÚDE. CERTIDÃO DE DÍVIDA ATIVA. VALIDADE. FORMALIDADES LEGAIS CUMPRIDAS. FUNDAMENTAÇÃO LEGAL. VALOR DA MULTA.
+1. A CDA, ao indicar os fundamentos legais referentes ao débito exequendo, e número do processo administrativo que lhe deu origem, viabiliza ao executado o conhecimento da dívida, sua origem, sua natureza e a forma de calcular os encargos presentes, atendendo, assim, aos seus requisitos legais.
+2. O fato de não constar na fundamentação legal da CDA o dispositivo legal que prevê a pena de multa, que pudesse ser imposta pela pretensa prática de atos ilícitos, não é causa de nulidade do título executivo.
+3. Havendo presunção de liquidez e certeza do débito, somente através de prova inequívoca é que se pode macular a CDA, configurando-a como nula ou irregular.
+4. As empresas que oferecem planos odontológicos são alcançadas pela Lei nº 9.656/98.
+5. A escolha da penalidade aplicável é atividade administrativa enquadrada no âmbito do poder discricionário da autoridade fiscalizadora e o enquadramento de infrações como leves, graves ou gravíssimas pode ser feito em regulamento, sem violação ao princípio da legalidade.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 2º, § 5º, e 6º da Lei nº 6.830/80; 2º e 3º da Lei nº 9.784/99; 3º do CPC/2015. Sustenta que: (I) não é cabível a inclusão de obrigações que não foram previstas durante o trâmite do processo administrativo ou no auto de infração lavrado; e (II) é possível ao Judiciário avaliar a proporcionalidade e a razoabilidade da sanção aplicada.
+É o relatório.
+Inicialmente, no que diz respeito à tese relativa à violação aos arts. 2º, § 5º, e 6º da Lei nº 9.784/99, em razão da suposta inclusão, apenas na CDA, de dispositivo legal estranho ao auto de infração e ao processo administrativo (art. 25, II, da Lei nº 9.656/98), a Corte de origem assim se manifestou (fls. 684/686):
+Portanto, merece ser mantida a sentença, cujos fundamentos, em relação às demais alegações (nulidade do lançamento, inexigibilidade da multa, valor excessivo, adoto e transcrevo (evento 45):
+ ..
+Com relação a omissão na indicação do artigo 25, II, da Lei nº 6.956/98 no auto de infração, entendo, que é erro que não causa nulidade do lançamento.
+ ..
+Ora, durante todo o processo administrativo ficou evidenciado que a penalidade a ser aplicada seria a multa e tanto no auto de infração, como no parecer e na decisão administrativa foram mencionadas a RDC 24/2000, substituída pela RN 124/2006, que fixam a multa para o caso concreto.
+As normas regulamentadoras, como vimos, são legais, não havendo, pois, que se falar em cerceamento de defesa ou ilegalidade na fixação das penalidades.
+Não bastasse isso, a irregularidade capaz de levar a anulação do ato administrativo é aquela que implica prejuízo ao autuado, o que não aconteceu no caso, já que os demais dispositivos citados no processo administrativo eram aqueles aplicáveis aos fatos e definiam claramente a penalidade a ser aplicada, permitindo a defesa do autuado,sem qualquer obstáculo.
+Na verdade, houve por parte da autoridade mero erro material na confecção do auto de infração e demais peças do procedimento ao deixar de citar o artigo 25, II, da Lei nº 9.656/98.
+Assim, na ausência de prejuízo efetivo, deixo de reconhecer a nulidade apontada.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem acerca da inocorrência de cerceamento de defesa ou de prejuízo decorrente da irregularidade na CDA, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Quanto à tese de que seria possível ao judiciário rever a sanção aplicada com base nos princípios da razoabilidade e da proporcionalidade, nota-se que o Tribunal a quo não negou essa possibilidade, se tendo manifestado expressamente sobre o ponto (fl. 688):
+É que, no caso concreto, a decisão administrativa respeitou o princípio da legalidade, tendo observado estritamente os dispositivos constitucionais e os parâmetros legais para a aplicação da pena, inclusive com o exame das circunstâncias agravantes e atenuantes.
+Até mesmo, houve a plicação retroativa da legislação mais benéfica à empresa, no caso a norma da RN 124/2006, que fixou penalidade inferior aquela prevista inicialmente na RDC
+No mais, a fixação da multa, no caso concreto, não implica, a princípio, violação do princípio da proporcionalidade ou razoabilidade, já que não foi apresentada qualquer prova de que o montante fixado provoca interferência excessiva ou injurídica no patrimônio do devedor.
+O fato de a empresa ser microempresa, sem outros elementos de prova, não justifica a redução da multa.
+Desse modo, a leitura integral das razões de decidir do acórdão recorrido revela que, em verdade, a Corte de origem entendeu que a parte não teria comprovado efetivamente que a sanção, no caso concreto, violaria os referidos princípios, razão pela qual a multa aplicada restou integralmente mantida.
+Nesse sentido, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostas no acórdão recorrido, sendo evidente que, no presente caso, a insurgência apresentada pela parte sequer fez oposição ao entendimento jurídico adotado pela Corte a quo.
+Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, citam-se os seguintes julgados: REsp 1.260.020/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 30/8/2011; AgRg no Ag 1.238.729/PE, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 13/9/2010.
+Resta prejudicada a análise da divergência jurisprudencial quando as teses sustentadas já foram afastadas no exame do recurso especial pela alínea a do permissivo constitucional.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
