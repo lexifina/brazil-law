@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. DIREITO DE VIZINHANÇA. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. COMPROVAÇÃO PERICIAL DE QUE OS DANOS EXISTENTES NO IMÓVEL DOS AUTORES FORAM CAUSADOS PELA OBRA REALIZADA PELA RÉ. VALOR CALCULADO PELO PERITO QUE DEVE SER CONSIDERADO COMO MONTANTE DA INDENIZAÇÃO POR DANOS MATERIAIS. CONDENAÇÃO EM LUCROS CESSANTES FUTUROS REFERENTES AO PERÍODO EM QUE UM DOS AUTORES TERÁ DE SUPORTAR AS OBRAS DE CONSERTO DAS AVARIAS. DANOS MORAIS EXISTENTES PARA AMBOS OS AUTORES. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por GAFISA S/A, contra decisão do Tribunal de Justiça do Estado de São Paulo, que negou seguimento a recurso especial, com fundamento na alínea "a" do permissivo constitucional.
+A agravante infirmou os fundamentos da decisão agravada.
+Nas razões do recurso especial, a recorrente alega ofensa aos artigos 402, 403, e, 884 do Código Civil, e, 333, inciso I, 459, § único, e, 535, inciso II, do Código de Processo Civil/1973.
+Defende, em síntese, negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se manifestado sobre todas as questões postas em debate pela recorrente.
+Insurge-se, no mais, contra a manutenção dos lucros cessantes futuros, eis que, "sequer foram pedidos pelos Recorridos em sua inicial, e, cujos parâmetros (base de cálculo) não estão provados nos autos" (e-STJ Fl. 1.447). Aduz que não poderia haver prolação de sentença ilíquida, "em que pese o pedido certo (não comprovado) pelos Autores" (e-STJ Fl. 1.448).
+Por fim, alega que "restou cabalmente demonstrado que os Recorridos foram os responsáveis pela demora na solução do litígio e por todos os percalços que poderiam ter sido solucionados, pois a Recorrente sempre buscou a vai conciliatória" (e-STJ Fl. 1.453), razão pela qual, não há que se falar em indenização por dano material ou mora, pois, foram os próprios recorridos os responsáveis pela permanência prolongada dos vícios no imóvel.
+É o relatório.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Os embargos declaratórios não merecem acolhida. No caso não se configura a existência de quaisquer das deficiências apontadas, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com relação à suposta violação aos artigos 402, 403, e, 884 do Código Civil, e, 333, inciso I, 459, § único, do Código de Processo Civil/1973, o Tribunal de origem assentou que:
+"O perito, ao analisar o empreendimento da ré e o imóvel dos autores, levou em consideração o estado deste último, consequência da idade da construção. Os danos que encontrou, como afirmado no laudo, guardam relação com a obra feita pela ré, ficando afastada a alegação de que as avarias decorrem do tempo de uso.
+Não há prova de que o autor Eduardo provocou percalços que atrasaram o andamento da obra, ficando afastada também essa alegação.
+Não prospera ainda a alegação da ré de que os autores não formularam pedido de pagamento de lucros cessantes futuros. No pedido a esse respeito os autores aduzem que Eduardo está impossibilitado de realizar procedimentos cirúrgicos em seu consultório há mais de seis meses e assim permanecerá pelo tempo necessário para a reforma no imóvel, o que significa que o pedido engloba o período passado e o futuro.
+Os autores não fizeram pedido certo, mas sim apenas estimaram o valor dos lucros cessantes, de modo que o magistrado poderia, como fez, ter proferido sentença ilíquida.
+Também não é verdade que ficará ao alvedrio dos autores o tempo de duração, da obra. Como bem fixado na sentença, será na fase de arbitramento que se terá mais elementos para a apuração do quantum devido, ocasião em que se poderá decidir pelo tempo razoável para tal finalidade. O mesmo vale para o conserto da parte externa do imóvel, que é necessário, nos termos do laudo pericial.
+No entanto, tem razão a ré quando alega que o valor necessário para o conserto das avarias do imóvel dos autores não é aquele constante da sentença, e sim o valor retificado pelo perito, às fls. 866. A sentença fica alterada nesse ponto, para que o valor de R$ 56.930,96 seja substituído pelo de R$ 55.623,29.
+Os danos morais, no caso, merecem algumas considerações.
+Tal como posto na sentença, a situação vivenciada por cada um dos autores foi considerada para efeito de arbitramento da indenização pelos danos morais.
+A deterioração do imóvel de propriedade também da coautora Fernanda trouxe para ela mais do que mero aborrecimento, justificando a indenização que, no entanto, não é a mesma que cabe ao coautor Eduardo, o qual sofreu o dano em maior extensão e continuará sofrendo.
+O quantum arbitrado, no entanto, deve ser reduzido, pois tanto os R$ 50.000,00 como os R$ 150.000,00, fixados na sentença, estão muito além do que se costuma arbitrar em casos até mais graves do que o presente. Sopesadas as circunstâncias, os valores restam arbitrados em R$ 13.560,00 (20 salários mínimos à época da sentença) para a autora Fernanda e R$ 33.900,00 (50 salários mínimos à época da sentença) para o autor Eduardo, a serem corrigidos monetariamente a partir do arbitramento de primeiro grau, nos termos da Súmula 362 do Superior Tribunal de Justiça" (e-STJ Fls. 1.272/1.274, gn).
+Assim, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
