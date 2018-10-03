@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Neste writ, o impetrante alega, em síntese, que: a) "no caso em tela, verifica-se que houve flagrante invasão de competência material, pois a guarda municipal atuou como se fosse polícia ostensiva, realizando patrulhamentos, buscas pessoais e domiciliares, mesmo sendo autoridade incompetente para tanto" (e-STJ, fl. 4); b) o decreto de prisão preventiva não está fundamentado.
+Pleiteia a revogação da prisão preventiva imposta ao paciente ou a substituição dela por medidas cautelares diversas.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pela denegação da ordem.
+É o relatório.
+Inicialmente, quanto à aventada ilegitimidade da atuação dos guardas municipais, verifica-se que tal questão não foi objeto de julgamento pelo acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante pacífico entendimento desta Corte:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. NULIDADE DO PROCESSO ADMINISTRATIVO DISCIPLINAR. QUESTÃO NÃO EXAMINADA PELA CORTE DE ORIGEM. IMPOSSIBILIDADE DE APRECIAÇÃO ORIGINÁRIA. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto, nos termos da jurisprudência pacífica do STJ, matérias não enfrentadas pela Corte de origem não podem ser analisadas diretamente por este Superior Tribunal, sob pena de supressão de instância.
+2. Agravo regimental improvido."
+(AgRg no HC 345.592/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/05/2017, DJe 11/05/2017)
+Ademais, no que tange à legalidade do decreto preventivo, verifica-se, em consulta ao sítio eletrônico do Tribunal de origem, que, em 21.8.2018, foi prolatada sentença condenatória nos autos da Ação Penal n. 0000140-43.2018.8.26.0571.
+De acordo com o entendimento da Quinta Turma desta Corte, "a superveniência de sentença de pronúncia ou condenatória não constituirá "título novo", de modo a prejudicar o conhecimento do habeas corpus, se a ela nenhum fundamento novo for acrescentado" (HC 288.176/SP, Rel. Ministro NEWTON TRISOTTO, julgado em 25/11/2014).
+No caso dos presentes autos, a prisão preventiva do paciente foi inicialmente decretada pelos seguintes fundamentos:
+"Havendo prova da existência do crime e indícios suficientes de autoria, a manutenção do acusado no cárcere é medida que se impõe a fim de se garantir a ordem pública, máxime perante a sociedade local e diante da situação atual do Pais. em que tanto se discute a questão da impunidade, sendo prematura a liberação sem a dissipacâo dos efeitos da conduta perpetrada. Vale citar: ".. o conceito de ordem pública não se limita só a prevenir a reprodução de fatos criminosos, mas também a acautelar o meio social e a própria credibilidade da justiça em face da gravidade do crime e de sua repercussão.." ( Processo Penal - ed. Atlas - [NOME]). Desta feita, observadas as disposições do art. 312 do Código de Processo Penal, com a redação dada pela Lei 12.403/11. converto a prisão cm flagrante em prisão preventiva, com fulcro no art. 310 do Código de Processo Penal, ressalvando, por ora, a inadequação das medidas cautelares diversas da prisão ante o acima exposto." (e-STJ, fl. 25)
+O magistrado sentenciante manteve a custódia cautelar do réu, quando da prolação da sentença, nos seguintes termos:
+"Indefiro o Apelo em Liberdade, na medida em que permanecem inalteradas as razões que determinaram a prisão provisória do réu. E mais, considerando que se trata de réu que ostenta personalidade transgressora, com recente condenação recorrível pela mesma espécie delitiva, tornado provável que acaso solto, tornará a delinquir, razão pela qual a manutenção de sua segregação cautelar é absolutamente necessária a garantia da ordem pública.
+Como se vê, foram agregados novos fundamentos ao decreto preventivo, encontrando-se superada a discussão acerca da legalidade da primeira decisão, pois, configurando a sentença um novo título, necessária a prévia submissão da matéria ao Tribunal a quo, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
