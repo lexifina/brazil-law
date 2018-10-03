@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por ASSOCIAÇÃO COMERCIAL DE SÃO PAULO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Responsabilidade civil - Ação de repetição de indébito cumulada com indenização por danos morais - Apelação apresentada pelo Banco do Brasil não conhecida em razão da ausência de comprovação do preparo no ato da interposição do recurso (art. 511 do CPC/73) - Cheque prescrito - Devolução da cártula pelo banco sacado pelo motivo l2 (insuficiência de"fundos ao invés do motivo 44 (cheque prescrito)- Impossibilidade - Falha na prestação de serviços evidenciada - Devolução por motivo incorreto que acarretou na inclusão do nome do autor no cadastro de emitentes de cheques sem fundos (CCF do Banco Central do Brasil), SPCP e Serasa - Pedido de indenização contra os órgãos de proteção ao crédito que tem por fundamento a ausência de comunicação prévia da restrição - Legitimidade passiva dos réus reconhecida - Descumprimento do art. 43, § 2º, do CDC e Súmula 359 do STJ evidenciado - Responsabilidade objetiva dos réus verificada - Dano moral caracterizado - Indenização devida - Fixação da condenação da verba indenizatória em R$ 5.000,00, de forma solidária - Quantum que se mostra adequado, proporcional ao dano e com observância do caráter dúplice da indenização, não comportando a majoração pretendida pelo autor, tampouco a redução pleiteada pela instituição financeira - Correção monetária - incidência a partir do arbitramento (Súmula 362 do STJ) - Juros moratórios - Termo inicial - fluência desde a citação (art. 405 do Código Civil), por envolver
+responsabilidade contratual - Precedente do STJ - Honorários advocatícios corretamente arbitrados - Repetição em dobro do indebito - Inadmissibilidade - Dolo não evidenciado - Procedência Parcial mantida - Recurso do corréu Banco do Brasil S/A não conhecido. Apelos do autor e da corré Associação Comercial de São Paulo improvidos" (fl. 420, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega a violação do artigo 43, § 2º, do Código de Defesa do Consumidor, sustentando que "não foi a responsável pelo suposto dano sofrido pela Recorrida, pois cumpriu com seu dever de enviar a carta de notificação prévia para o endereço fornecido pela empresa credora" (fl. 535, e-STJ).
+Após a apresentação das contrarrazões (fls. 548/550, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que tange ao art. 43, § 2º, do CDC, o Tribunal de origem concluiu que o recorrido não foi notificado da inscrição do seu nome nos cadastros de inadimplentes, conforme se observa nos seguintes trechos do acórdão recorrido:
+"(..)
+Com efeito, tem a entidade ré legitimidade para figurar no polo passivo da presente demanda, considerando sua responsabilidade no evento, pela não comprovação de prévia comunicação ao autor da inclusão do seu nome nos seus arquivos.
+De fato, a responsabilidade pela indicação do apontamento é do titular do crédito inadimplido ou, como no caso, a proveniente de informação repassada, coletada do CCF - Cadastro de Emitentes de Cheques sem Fundo, que é administrado pelo Banco do Brasil e supervisionado pelo Banco Central. Contido, tal fato não exime a ora apelante de sua responsabilidade no caso concreto, eis que não comprovou que antes de inscrever o nome do Tutor, procedeu à sua prévia notificação.
+(..)
+Assim, sobre essa comunicação na hipótese,resta evidenciada a responsabilidade do órgão arquivista, pois, levando-se em conta que a origem da anotação não é proveniente de informações colhidas junto a fontes públicas há a obrigatoriedade de condicionar a anotação à prévia notificação do devedor.
+(..)" (fls. 425/426, e-STJ).
+Com efeito, rever tal entendimento, da forma pretendida pela parte recorrente, demandaria a análise de circunstâncias fático-probatórias dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista que já foram fixados na origem no percentual máximo de 20% (vinte por cento) sobre o valor da condenação.
+Publique-se.
+Intimem-se.
