@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PODER DE POLÍCIA. VIOLAÇÃO À GARANTIA DA DUPLA VISITAÇÃO. ACÓRDÃO FIRMADO EM FATOS E PROVAS DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto contra decisão monocrática assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO. PODER DE POLICIA. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO AO ART. 1022 CPC/2015. INOCORRÊNCIA. ALEGAÇÃO DE AFASTAMENTO DA GARANTIA DA DUPLA VISITAÇÃO. REEXAME FÁTICO. IMPOSSIBILIDADE. INCIDÊNCIA SÚMULA 7/STJ. VIOLAÇÃO DE PORTARIA. NORMA NÃO INSERIDA NO CONCEITO DE LEI FEDERAL. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões de agravo, sustenta o agravante o desacerto da decisão proferida, na medida em que não há necessidade de análise do conjunto fático-probatório, mas a exata aplicação do direito ao caso concreto, de modo que inaplicável o óbice da Súmula 7/STJ à espécie.
+Alega que é de competência dos órgãos da Administração a definição das atividades e situações que não se sujeitam ao disposto no art. 55 da LC 123/2006, bem como foram dadas todas as oportunidades para que a agravada exercesse a ampla defesa perante a autarquia.
+Pugna pela reconsideração da decisão monocrática ou o julgamento pelo Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PODER DE POLÍCIA. VIOLAÇÃO À GARANTIA DA DUPLA VISITAÇÃO. ACÓRDÃO FIRMADO EM FATOS E PROVAS DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente recurso tem por objeto afastar o óbice imposto pela decisão agravada.
+Entretanto, suas razões de impugnação não merecem prosperar.
+Isso porque, constata-se que o Tribunal de origem, reportando-se à sentença, concluiu que o critério da dupla visita dever ser empregado nas ações de fiscalização das microempresas e empresas de pequeno porte, bem como reconheceu que a agravada foi autuada na primeira visitação, sendo o auto de infração homologado sem que lhe fosse oportunizado o saneamento da irregularidade. A propósito, destaco os seguintes trechos do acórdão recorrido (e-STJ fl. 171):
+Observa-se, assim, que o critério da dupla visita deve ser empregado nas ações de fiscalização - de qualquer natureza, seja na área da metrologia, seja na da avaliação de conformidade - das microempresas e empresas de pequeno porte.
+Saliente-se que o objetivo da dupla visita é, justamente, orientar para o exercício regular da atividade e advertir sobre a possibilidade de autuação na segunda visita, na hipótese de permanecerem as irregularidades constatadas na primeira.
+Por outro lado, tal método não se aplica, entre outras, na hipótese de reincidência, conforme parágrafo primeiro do artigo 55, acima transcrito, do que não se tem notícia nestes autos.
+No caso em apreço, verifica-se que a embargante foi autuada já na primeira visitação, sendo o auto de infração homologado sem que fosse oportunizado, a ela, o saneamento da irregularidade. Com isso, restou violada a garantia da dupla visita antes mencionada.
+Ademais, conforme ressaltado na decisão agravada, verificou-se que o Tribunal a quo decidiu a questão concluindo que a agravada é empresa de pequeno porte e que esta faz jus à garantia da dupla visitação, porquanto a LC 123/2006 não fez distinção entre a fiscalização relacionada à metrologia ou à conformidade.
+Com efeito, observa-se que o exame probatório empreendido pela Corte a quo resultou na compreensão de que foi proferida decisão diversa daquela pretendida pelo agravante. Trata-se de conclusão decorrente da análise dos fatos e provas dos autos, motivo pelo qual a reversão do entendimento demandaria o reexame do acervo fático-probatório, o que é inviável a teor da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. INMETRO. MULTA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem, com base nas provas dos autos consignou: "a autora requer a anulação da multa aplicada a partir dos autos de infração nº 2238629, no valor de R$ 640,00. (..) No caso dos autos, a sociedade empresária autuada, ora demandante, consiste em microempresa, pelo que se depreende do contido no contrato social (evento 1 - CONTRSOCIAL4 e CONTRSOCIAL5).
+Outrossim, pelo que se observa do processo administrativo anexado aos autos (evento 13 - PROCADM3 a PROCADM22), a autuação fiscal ocorreu na primeira visitação ao estabelecimento comercial em que foram coletadas as mercadorias fabricadas pela demandante. Não há, no referido processo administrativo, indicativos de que a fiscalização tenha apresentado natureza orientadora e de que tenha sido atendido o critério de dupla visitação previsto no artigo 55, §1º, da Lei Complementar 123/2006. Não observo a existência de quaisquer razões que pudessem caracterizar ressalva à aplicação daquele dispositivo, no caso em discussão. Nesse sentido, o grau de risco oferecido pela atividade desenvolvida pela demandante é evidentemente compatível com a adoção de fiscalização com caráter orientador. Note-se que o objeto da autuação relaciona-se à fabricação, pela demandante, de embalagens para pipoca e hamburguer, atividade inofensiva, para os efeitos do que dispõe o artigo 55, caput, acima transcrito. E, no que tange à dupla visitação, prevista no artigo 55, §1º, da LC 123/2006, cumpre observar que o caso em discussão não trata de infração por falta de registro de empregado ou anotação da Carteira de Trabalho e Previdência Social, tampouco ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização, hipóteses que autorizariam a lavratura de infração na primeira visita. Ainda que a Administração possua certo grau de discricionariedade ao analisar se as circunstâncias que impedem a incidência do critério da dupla visita e fiscalização orientada estão presentes, não é aceitável, evidentemente, que uma Portaria venha restringir ou reduzir direitos estabelecidos pela Lei Complementar 123/2006. É exatamente o que ocorre em relação à Portaria INMETRO nº 436/2007 (..) A necessidade da dupla visitação para a autuação fiscal das microempresas e empresas de pequeno porte é reconhecida de maneira sólida pela jurisprudência. (..) Por tais razões, cabe reconhecer a insubsistência do auto de infração e da multa, aplicados em face da demandante" (fls. 278-282, e-STJ).
+2. Já o Inmetro sustenta que "no caso, constam do processo administrativo elementos e exames técnicos que provam materialmente a infração cometida, em comercializar produto reprovado em exame quantitativo, nos termos das normas técnicas metrológicas (..) Assim, uma vez constatada já na primeira fiscalização a conduta ilegal, comprometendo a identificação/aferição da quantidade dos produtos, e uma vez autorizada legalmente a autuação, não há falar em insubsistência do auto de infração" (fls. 326-327, e-STJ).
+3. Desse modo, inviável o acolhimento da reivindicação do recorrente, em sentido contrário, em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Recurso Especial não conhecido.
+(REsp 1695039/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/10/2017, DJe 19/12/2017)
+Com essas considerações, a decisão agravada merece ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
