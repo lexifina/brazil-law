@@ -1,0 +1,20 @@
+Decisão: Trata-se de mandado de segurança, com pedido de liminar, impetrado por Julio Cesar Carmo Bueno contra ato da 2ª Turma do Tribunal de Contas da União – TCU, consubstanciado no Acórdão 9.751/2016, nos autos do Pedido de Reconsideração à PC 008.897/1999-9.
+    Narra o impetrante que o TCU rejeitou suas contas, referentes ao ano de 1998, quando presidia o Instituto Nacional de Metrologia, Qualidade e Tecnologia – Inmetro. Sustenta que eventuais falhas não causaram prejuízo ao erário. Afirma ser incontroverso que as contas do Inmetro, para o exercício de 1999, foram aprovadas sem ressalvas pelo TCU (Processo de Prestação de Contas n.º 008639/2000-4).
+    Alega que o pedido de reconsideração apresentado posteriormente, consubstanciado no acórdão de 9.588/2017, foi julgado em 7.11.2017. Assevera que foi intimado dessa decisão apenas em 8.1.2018.
+    Afirma ainda que, tendo em vista o transcurso de 17 anos para análise das contas pelo TCU, considerando a instauração do procedimento de prestação de contas em 1999, ocorreu a prescrição intercorrente da pretensão fiscalizatória, em razão da aplicação analógica do art. 1º, § 1º, da Lei 9.873/1999.
+    Requer liminarmente a suspensão de todos os efeitos condenatórios provenientes da Prestação de Contas 008.897/1999-9, até o julgamento final do presente writ. No mérito, pugna pela concessão definitiva da segurança, tendo em vista a prescrição intercorrente da pretensão fiscalizatória no caso.
+    A autoridade coatora apresentou informações (eDOC 14).
+    É o relatório.
+    Decido.
+    Defiro o ingresso da União no feito, conforme requerido. (eDOC 15)
+    O mandamus não merece prosperar.
+    Inicialmente, ressalto que esta Corte firmou orientação no sentido de que o prazo decadencial para impetração de mandado de segurança contra atos do Tribunal de Contas da União, nos casos em que o interessado participou do processo administrativo, é contado a partir da publicação do ato impugnado na imprensa oficial. Cito, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA CONTRA ACÓRDÃO DO TRIBUNAL DE CONTAS DA UNIÃO. PRAZO DECADENCIAL. TERMO INICIAL. PUBLICAÇÃO DO ATO COATOR NO DIÁRIO OFICIAL, TENDO EM VISTA A PARTICIPAÇÃO DO IMPETRANTE NO RESPECTIVO PROCESSO ADMINISTRATIVO. IMPETRAÇÃO FORA DO PRAZO DE 120 DIAS. DECADÊNCIA CONSUMADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (MS 28.948 AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 31.8.2015)
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/1973. TRIBUNAL DE CONTAS DA UNIÃO. AUDITORIA. AMPLA PARTICIPAÇÃO DO IMPETRANTE NO CURSO DO PROCESSO ADMINISTRATIVO. PUBLICAÇÃO DO ATO COATOR NO DIÁRIO OFICIAL. TERMO A QUO DO PRAZO DECADENCIAL PARA A IMPETRAÇÃO. DECADÊNCIA CONFIGURADA. PRECEDENTES. 1. Conforme reiterada jurisprudência desta Suprema Corte, o prazo decadencial para impetração do mandado de segurança contra ato praticado pelo Tribunal de Contas da União, em processo administrativo de que participou o interessado, tem seu termo inicial na publicação do ato coator na imprensa oficial. No caso, o impetrante apontou ilegalidade supostamente existente em acórdão lavrado em Pedido de Reexame, por ele interposto. 2. Agravo regimental conhecido e não provido”. (MS 24.868 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 1º.8.2017)
+    No caso, conforme noticiado pela autoridade coatora, o Acórdão 9.588/2017-TCU-2ª Câmara, que negou provimento ao recurso de reconsideração interposto pelo impetrante contra o Acórdão 9.751/2016-TCU-2ª Câmara, foi publicado no Diário Oficial da União de 13.11.2017 (eDOC 13). Nesses termos, verifico, na espécie, a consumação da decadência prevista no art. 23 da Lei 12.016/2009, uma vez que o presente writ foi impetrado apenas em 8.5.2018 (eDOC 3), portanto mais de 120 dias após o ato impugnado.
+    Ante o exposto, nego seguimento ao mandado de segurança e julgo prejudicado o pedido liminar (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 3 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
