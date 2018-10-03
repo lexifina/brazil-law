@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão de fls. 129-131, que deu provimento ao recurso especial para permitir a capitalização diária dos juros remuneratórios, conforme pactuada.
+Sustenta omissão quanto à manutenção da sucumbência recíproca, ao argumento de que com o provimento dos juros remuneratórios, cabe a condenação da parte recorrida ao pagamento integral das custas processuais e honorários advocatícios.
+Intimada para se manifestar acerca da interposição do presente recurso, a parte contrária apresentou impugnação (fls. 140-141, e-STJ), sustentando a sua rejeição.
+Assim delimitada a questão, aprecio os argumentos.
+Verifico que não estão presentes os vícios elencados no art. 1.022 do atual Código de Processo Civil, pois os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição ou for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+A decisão embargada deu provimento ao recurso especial para admitir a capitalização dos juros remuneratórios e não alterou a sucumbência recíproca, pois o recorrente manteve-se sucumbente em relação ao pedido relativo à comissão de permanência para o período de inadimplência sem a cumulação com outro encargo decorrente da mora com a sua condenação de devolução dos valores cobrados de forma simples cobrados a esse título.
+Desse modo, não se impõe a redistribuição dos ônus sucumbenciais, ainda que o embargante tenha obtido êxito no seu pedido de capitalização dos juros remuneratórios na forma pactuada. Confira-se como foi delineada pelo Tribunal de origem (fl. 77, e-STJ):
+O apelante obteve êxito parcial quanto aos pedidos.Assim, levando-se em consideração a sucumbência de cada parte, condeno ambas ao pagamento das custas e despesas processuais, na proporção de 50% (cinqüenta por cento), e honorários sucumbenciais no valor de R$ 1.500,00 (um mil e quinhentos reais) para cada procurador, por ser proporcional e razoável com o trabalho desenvolvido, observando-se que a sentença que fixou a verba honorária foi proferida sob a égide do Código de Processo Civil/1973. Com relação à parte autora/apelante, deverá ser observado os benefícios da assistência judiciária.
+Os apontados vícios, além de inexistentes, objetivam, na verdade a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
