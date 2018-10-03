@@ -1,0 +1,24 @@
+DECISÃO
+O presente feito decorre de agravo de instrumento interposto pela Associação Comunitária de Habitação de Bragança Paulista contra decisão judicial que, nos autos de execução fiscal que lhe move o Município de Bragança Paulista, rejeitou exceção de pré-executividade.
+No Tribunal de Justiça do Estado de São Paulo, a decisão judicial foi reformada em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Execução fiscal - IPTU e taxa de coleta de lixo. Exercícios de 2005 a 2007. Exceção de pré-executividade rejeitada. Exclusão da executada do polo passivo, tendo em vista cessão do imóvel a terceiro, por contrato particular, para construção de habitação popular. Admissibilidade. Transferência da posse comprovada. Agravo provido.
+O Município de Bragança Paulista interpôs recurso especial com fundamento na alínea a do inciso III do art. 105 da Constituição Federal por ofensa aos arts. 32, 34, 123, 124, I e II, e 131 do CTN.
+A parte alega que o acórdão regional apresenta contradição na medida em que decide pela ilegitmidade passiva da Associação em razão de contrato de mutuo, mas utiliza como fundamento precedentes em que foi afastada a responsabilidade pelo pagamento do tributo em razão de sua quitação.
+Argumenta que as convenções particulares não são oponíveis à Fazenda Publica e, por tal razão, o contrato de mutuo não tem o condão de afastar a responsabilidade do mutuante pelo pagamento do IPTU do imóvel.
+Submetido a novo julgamento pela Turma em decorrência do julgamento definitivo dos recurso especiais n. 1.111.202 e n. 1.110.551, submetidos ao rito do art. 543-C do CPC/73, o Tribunal de origem manteve o teor do julgamento (fls. 111-112).
+Não foram apresentadas contrarrazões ao recurso especial.
+É o relatório. Decido.
+A Primeira Seção do STJ, no julgamento do REsp n. 1.110.551/SP, submetido ao regime de recursos repetitivos sob o Tema n. 122/STJ, firmou o entendimento de tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU.
+Eis a ementa do julgado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA DO POSSUIDOR (PROMITENTE COMPRADOR) E DO PROPRIETÁRIO (PROMITENTE VENDEDOR).
+1. Segundo o art. 34 do CTN, consideram-se contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título.
+2. A jurisprudência desta Corte Superior é no sentido de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU. Precedentes: RESP n.º 979.970/SP, Rel. Min. Luiz Fux, Primeira Turma, DJ de 18.6.2008; AgRg no REsp 1022614 / SP, Rel. Min. Humberto Martins, Segunda Turma, DJ de 17.4.2008; REsp 712.998/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJ 8.2.2008 ; REsp 759.279/RJ, Rel. Min. João Otávio de Noronha, Segunda Turma, DJ de 11.9.2007; REsp 868.826/RJ, Rel. Min. Castro Meira, Segunda Turma, DJ 1º.8.2007; REsp 793073/RS, Rel. Min. Castro Meira, Segunda Turma, DJ 20.2.2006.
+3. "Ao legislador municipal cabe eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no CTN. Definindo a lei como contribuinte o proprietário, o titular do domínio útil, ou o possuidor a qualquer título, pode a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação" (REsp 475.078/SP, Rel. Min. Teori Albino Zavascki, DJ 27.9.2004).
+4. Recurso especial provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.
+(REsp 1110551/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 10/06/2009, DJe 18/06/2009)
+No caso dos autos, o Tribunal de origem afastou a responsabilidade do proprietário do imóvel pelo pagamento do IPTU em razão da transferência da posse do imóvel a terceiro, in verbis (fls. 78-79):
+Há nos autos cópia de contrato particular "AUTORIZAÇÃO" (fls. 44), em que a ora agravante concede, em 27.10.1990, o lote tributado a [NOME], "em decorrência de sua contemplação no sorteio público realizado em 09.10.88, com o direito de edificar uma casa padrão popular (..)."
+Nesse quadro, é induvidosa a transferência da posse a terceiro, que passou a exercê-la com animus domini, impondo-se o afastamento da responsabilidade do vendedor pelo pagamento de tributos incidentes sobre o imóvel.
+Assim, estando o acórdão regional recorrido em desconformidade com a jurisprudência do STJ, merece ser reformado.
+Ante o exposto, com fundamento no art. 255, § 4º, inciso III, do RISTJ, dou provimento ao recurso especial para reincluir a parte recorrida no polo passivo da execução fiscal, nos termos da fundamentação acima.
+Publique-se. Intimem-se.
