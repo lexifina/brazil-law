@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROGERIO [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem no writ.
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 121, § 2º, incisos I e IV, c/c o art. 29, ambos do Código Penal, à pena de 21 anos, 10 meses e 15 dias de reclusão, em regime inicial fechado, e absolvido da imputação de infringência ao art.157, § 2º, incisos I e II, do Estatuto Repressivo, com fundamento no art. 386, VII, da Lei Adjetiva Penal, vedado o apelo em liberdade.
+Irresignadas, as partes interpuseram apelação perante o Tribunal de origem, que deu parcial provimento ao recurso da defesa, a fim de reduzir a sanção para 19 anos e 20 dias de reclusão, e negou o apelo do Parquet.
+Impetrou prévio writ perante a Corte a quo, que denegou a ordem.
+No presente mandamus, sustenta o impetrante a ocorrência de constrangimento ilegal, ao argumento de que está configurado indevido bis in idem, em razão do reconhecimento dos maus antecedentes e da reincidência.
+Requer a concessão da ordem para que seja afastada a reincidência, e consequentemente, reduzida a pena imposta ao apenado.
+Informações prestadas às fls. 35/36.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 83/88).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105 da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. CONCURSO MATERIAL. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS NO SENTIDO DE QUE AS CONDUTAS PRATICADAS TINHAM DESÍGNIOS AUTÔNOMOS. INVERSÃO DO JULGADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+- O Supremo Tribunal Federal, por sua primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+ ..
+- Habeas corpus não conhecido.
+(HC 366.638/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/08/2016, DJe 29/08/2016)
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+No tocante à aventada ilegalidade na aplicação da pena-base, para melhor elucidação da questão, transcreve-se, por oportuno, a dosimetria procedida pela Corte estadual:
+Em contato com o Ofício da 1ª Vara das Execuções Criminais de Araçatuba, restou informado que a Execução 01, referente ao processo criminal nº 336/1996, foi arquivada em 18 de novembro de 2009 pela Vara das Execuções Criminais de São Vicente SP.
+Ato contínuo, foram formados novos autos para fiscalização da Execução 02 em 16 de dezembro de 2011, aos quais foram posteriormente apensadas as Execuções 03 a 06.
+Diante disso, restaram impossibilitados de informar quanto à Execução 01 e a decisão que teria declarada extinta a punibilidade pela prescrição, como informado no atestado de pena de fls. 14 e mencionado pelo próprio impetrante/ paciente.
+Em que pese os argumentos suscitados pelo paciente, o que ocorreu no presente caso foi o reconhecimento da prescrição da pretensão executória em relação à Execução 01, que não é capaz de afastar a reincidência reconhecida nos autos do processo criminal nº 0005005-54.2010.8.26.0001, mantendo-se os efeitos secundários da pena.
+Ademais, no que tange aos critérios do artigo 59, aplicados na primeira fase da dosimetria da pena, bem como a reincidência reconhecida na segunda fase da dosimetria, tais aspectos foram devidamente analisados e reconhecidos tanto na r. sentença condenatória quanto no v. acórdão, que limitou-se, neste ponto, a reduzir as frações aplicadas de 1/6 para 1/4, não havendo que se falar em eventual "bis in idem", eis que embasados em fatores distintos, inexistindo dupla valoração negativa da reincidência.
+Dessa forma, inexistindo situação teratológica processual, não há constrangimento ilegal a ser sanado pelo presente writ.
+Isso posto, denega-se a ordem. (fls. 56/57)
+Acerca do tema, cumpre destacar que a aplicação da pena-base é o momento em que o juiz, dentro dos limites abstratamente previstos pelo legislador, deve eleger, fundamentadamente, o quantum ideal de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto, guiando-se pelos fatores relacionados no caput do art. 59 do Código Penal.
+Insurge-se o impetrante com relação à negativação dos maus antecedentes do paciente, que teriam sido utilizados também para configurar a agravante da reincidência, na segunda fase da dosimetria.
+Da análise dos autos, verifica-se que não há constrangimento ilegal a ser reparado por esta Corte Superior, uma vez que, nota-se a existência de duas condenações com trânsito em julgado, estando todas aptas a configurar os maus antecedentes e a reincidência, tendo uma sido utilizada na primeira etapa e outra como agravante, na segunda fase de aplicação da reprimenda.
+É entendimento remansoso neste Sodalício que não há óbice em se considerar, na primeira fase da dosimetria, anotações diversas daquelas sopesadas como reincidência, razão pela qual é descabida a alegação de ocorrência de bis in idem, ou mesmo de ofensa ao enunciado sumular 241 deste Sodalício, uma vez que os fatos utilizados para a exasperação de pena-base não são os mesmos que autorizaram a majoração na etapa seguinte.
+A propósito:
+PENAL E PROCESSUAL. (I) ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA DE FOGO E POSSE DE ARMA DE FOGO. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. CONTEXTO FÁTICO DIVERSO. (II) DOSIMETRIA DA PENA. MAUS ANTECEDENTES E REINCIDÊNCIA. CONDENAÇÕES DEFINITIVAS DIVERSAS. BIS IN IDEM. NÃO OCORRÊNCIA.
+ ..
+3. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta à certa discricionariedade do Magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+4. Nos moldes do enunciado n. 241 da Súmula desta Corte Superior, a reincidência penal não pode ser considerada como circunstância agravante e, simultaneamente, como circunstância judicial. Nada obsta, porém, que, diante de diversas condenações definitivas pretéritas em desfavor do sentenciado, seja uma delas utilizada pelo sentenciante na primeira fase do cálculo da reprimenda, e a outra na segunda etapa da dosimetria, a título de reincidência. Precedentes.
+5. Na espécie, correto o aumento da pena-base em 1/6 (um sexto) diante dos maus antecedentes do paciente, pois presente uma condenação definitiva em face do sentenciado, anterior à data do fato em análise, diferente da condenação utilizada na segunda etapa do cálculo da sanção para a configuração da reincidência.
+6. Ordem denegada.
+(HC 241.666/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/03/2017, DJe 21/03/2017)
+Nesse contexto, ausente qualquer ilegalidade a ser sanada na primeira fase da dosimetria, uma vez que a indicada circunstância judicial foi negativamente sopesada com fundamentação idônea.
+Ademais, conforme destacado no parecer ministerial às fl. 86, "Além disso, frisa-se que a extinção da punibilidade pela prescrição da pretensão executória possui o condão de impedir a execução da pena, mas não impede a formação da reincidência e maus antecedentes".
+No mesmo sentido, confira-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO DUPLAMENTE MAJORADO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. REINCIDÊNCIA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+2. A jurisprudência desta Corte admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, da conduta social e, ainda, da personalidade do agente, ficando apenas vedado o bis in idem. Precedentes.
+3. Conforme o entendimento pacífico desta Corte, a extinção da punibilidade pela prescrição da pretensão executória não tem o condão de cessar os efeitos penais secundários da condenação criminal, tais como a reincidência, mas apenas seu efeito penal principal, qual seja, a imposição de pena ou de medida de segurança.
+Precedente.
+4. "O conceito de maus antecedentes, por ser amplo, abrange não apenas as condenações definitivas por fatos anteriores cujo trânsito em julgado ocorreu antes da prática do delito em apuração mas também aquelas transitadas em julgado no curso da respectiva ação penal, além das condenações transitadas em julgado há mais de cinco anos, as quais também não induzem reincidência, mas servem como maus antecedentes." (HC n. 171.212 /DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 20/8/2015).
+5. Habeas corpus não conhecido.
+(HC 349.708/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/10/2017, DJe 31/10/2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA DO VÍCIO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. O acórdão prolatado pela Sexta Turma deixa claro que a matéria relativa à desclassificação não foi prequestionada, haja vista não ter sido apreciada pelo Tribunal estadual, o que atraiu a incidência da Súmula n. 282 do STF ao caso.
+4. A fixação do regime mais gravoso foi pautada em dados fáticos suficientes a indicar a gravidade concreta do crime - na espécie, a reincidência do réu e a avaliação desfavorável das circunstâncias judiciais que resultou no aumento da pena-base -, sendo irrelevante o quantum da pena inferior a oito anos (art. 33, § 3º, do CP).
+5. O reconhecimento da prescrição da pretensão executória impossibilita o Estado de executar a pena aplicada, sem, contudo, rescindir a sentença penal condenatória, razão pela qual seus efeitos secundários - entre eles, a reincidência - permanecem inalterados. Precedentes.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 726.325/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/02/2016, DJe 25/02/2016)
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, por se afigurar manifestamente incabível, não conheço do habeas corpus.
+Publique-se. Intime-se.
