@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (121,8 g DE MACONHA E 10,5 g DE CRACK). ART. 33 C/C 40, IV E VI, DA LEI N. 11.343/2006. FIXAÇÃO DA PENA-BASE. QUANTIDADE DA DROGA APREENDIDA. FUNDAMENTO NÃO IMPUGNADO NO ACÓRDÃO. SÚMULA 283/STF. CAUSA DE DIMINUIÇÃO DA PENA. § 4º DO ART. 33 DA LEI N. 11.343/2006. REQUISITOS CUMULATIVOS. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. SÚMULA 7/STJ. UTILIZAÇÃO DA QUANTIDADE DE DROGAS NA PRIMEIRA E NA TERCEIRA FASE. BIS IN IDEM. NÃO OCORRÊNCIA. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS EXTRAÍDA DAS CIRCUNSTÂNCIAS. PRECEDENTE.
+Agravo conhecido para não conhecer de recurso especial.
+DECISÃO
+Trata-se de agravo de [NOME] e [NOME] contra decisão de inadmissão de recurso especial, este interposto no processo n. 0002660-71.2016.8.08.0045 proferido pela Primeira Câmara Criminal do Tribunal de Justiça do Espírito Santo que, negando provimento ao apelo defensivo, manteve-os submetidos às penas de 8 anos, 10 meses e 7 dias, em regime fechado, e 7 anos, 4 meses e 16 dias, em regime fechado, respectivamente, pela prática de condutas descritas nos arts. 33 c/c 40, IV e VI, da Lei n. 11.343/2006, conforme termos da seguinte ementa (fls. 361/362):
+EMENTA: APELAÇÃO - TRÁFICO DE DROGAS - PROVAS PARA A CONDENAÇÃO - DESCLASSIFICAÇÃO - IMPOSSIBILIDADE - DOSIMETRIA - PENA-BASE - MANTIDA - ATENUANTE DE MENORIDADE RELATIVA PARA UM DOS RÉUS - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI N. 11.343/2006 - AFASTAMENTO - CAUSA DE AUMENTO - PARTICIPAÇÃO DE ADOLESCENTE E EMPREGO DE ARMA DE FOGO - PENA PECUNIÁRIA - REGIME INICIAL FECHADO - VEDADA A SUBSTITUIÇÃO - RECURSO CONHECIDO E IMPROVIDO.
+Comprovadas a materialidade e as autorias do delito de tráfico de drogas, com a participação de menores de idade e utilização de armas de fogo, a manutenção do édito condenatório é medida que se impõe, não havendo que se falar em desclassificação para o crime previsto no artigo 28, da Lei de Drogas.
+Conserva-se a pena-base em valor acima do mínimo ante a apreensão de 121,8g (cento e vinte e um gramas e oito decigramas) de maconha e 10,5g (dez gramas e cinco decigramas) de crack, em atenção ao artigo 42, da Lei de Drogas.
+Como um dos acusados possuía apenas 18 (dezoito) anos de idade na data dos fatos, impõe-se o reconhecimento da atenuante da menoridade relativa, a fim de que a sua reprimenda intermediária seja reduzida.
+A apreensão de 1 (uma) balança de precisão, R$ 333,00 (trezentos e trinta e três reais) em notas variadas, 132,5g (cento e trinta e dois gramas e cinco decigramas de substâncias ilícitas (crack e maconha), bem como a participação de adolescentes com histórico infracional indicam se tratar de acusados dedicados às atividades ilícitas, o que afasta o pretendido reconhecimento da causa de diminuição do art. 33, § 4º, da Lei nº 11.343/2006.
+Mantêm-se as causas de aumento do artigo 40, incisos IV e VI, da Lei nº 11.343/2006, ante o cometimento do delito com a participação de 3 (três) adolescentes e a utilização de armas de fogo e inúmeras munições na mercancia de substâncias ilícitas.
+Fixa-se a pena pecuniária em importe equânime à sanção corpórea, em respeito ao princípio da proporcionalidade.
+Preserva-se o regime inicial fechado, nos termos do artigo 33, §§ 2o e 3o, do CP, e art. 387, § 2o, do CPP.
+Veda-se a substituição da pena corporal por restritivas de direitos, em atenção ao artigo 44, do CP.
+Recurso conhecido e improvido.
+Os recorrentes interpuseram recurso especial, no qual alegam, em síntese, que o acórdão recorrido teria violado os arts. 59 e 68 do Código Penal, porquanto não teria sido comprovado o envolvimento dos menores e, assim, não se poderia negativar as circunstâncias. Também teria havido ofensa ao princípio da proporcionalidade em razão da maioria das circunstâncias serem favoráveis.
+Sustentam, outrossim, que teria havido vulneração do § 4º do art. 33 da Lei de Drogas, tendo em vista que não teria havido comprovação do envolvimento dos recorrentes com a mercancia do tráfico de drogas. O dispositivo em comento estabeleceria critérios objetivos e inflexíveis para a aplicação da causa de diminuição. Também haveria bis in idem, pois o mesmo fundamento teria sido utilizado na primeira fase da dosimetria e na terceira fase, a saber, a quantidade de droga apreendida. (fls. 369/382).
+Contrarrazões às fls. 388/391.
+O apelo foi obstado na origem por demandar reexame de provas e por ter sido formulado como apelação, atraindo a incidência das Súmulas 283 e 284/STF (fls. 393/395).
+Os recorrentes aviaram, então, o presente agravo, no qual aduzem, em suma, que o recurso não teria a finalidade de analisar o conjunto fático-probatório, mas apenas adequar a decisão recorrida aos preceitos da Lei Federal. Afirmam buscar a revaloração jurídica da prova, pois os parâmetro utilizados seriam inaptos a permitir a condenação em patamar acima do mínimo legal previsto. Acresce que o acórdão estaria em divergência com a legislação vigente, sendo necessária sua reforma. A fundamentação do recurso teria se dado de forma clara e válida, tendo sido feita a subsunção dos fatos à norma (fls. 399/413).
+Contrarrazões ao agravo em recurso especial às fls. 418/422.
+O Ministério Público Federal opina pelo desprovimento do agravo, dada a necessidade de reexaminar provas (fls. 296/299).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade
+Passando ao recurso especial, quanto à violação do art. 59 e 68 do Código Penal, consta no acórdão fundamento não abarcado nas razões recursais, a saber, ter a pena-base sido exasperada pela quantidade de droga apreendida (fl. 364):
+ ..
+Na primeira fase da dosagem, vejo que foram arbitradas as reprimendas básicas em 6 (seis) anos e 3 (três) meses de reclusão, importe que entendo adequado, ante a apreensão de 121,8g (cento e vinte e um gramas e oito decigramas) de maconha e 10,5g (dez gramas e cinco decigramas) de crack, em atenção ao artigo 42, da Lei de Drogas.
+ ..
+Como se observa, ao contrário do afirmado pelo recorrente, a pena-base não foi exasperada com base no envolvimento de adolescente, mas na quantidade de droga apreendida. Tal fundamento constante no acórdão não foi impugnado nas razões recursais.
+Essa omissão implica o não prosseguimento da insurgência, tendo em vista o ônus do então recorrente de abarcar todos os fundamentos do acórdão em sua insurgência, óbice exposto na Súmula 283/STF.
+Quanto à violação do art. 33, § 4º da Lei n. 11.343/2006, o Superior Tribunal de Justiça entende não aplicável a benesse se não preenchidos cumulativamente todos os requisitos, a saber, ser o agente primário, ter bons antecedentes, não se dedicar às atividades criminosas, nem integrar organização criminosa.
+Nesse sentido: AgRg no REsp n. 1.449.194/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 04/10/2017.
+Essa questão foi enfrentada pelo Tribunal local sob os seguintes termos (fl. 365):
+ ..
+Na terceira fase, verifico que a apreensão de 1 (uma) balança de precisão, R$ 333,00 (trezentos e trinta e três reais) em notas variadas, 132,5g (cento e trinta e dois gramas e cinco decigramas) de substâncias ilícitas (crack e maconha), bem como a participação de adolescentes com histórico infracional indicam se tratar de acusados dedicados às atividades ilícitas, o que afasta o pretendido reconhecimento da causa de diminuição do art. 33, § 4o, da Lei nº 11.343/2006.
+ ..
+Do excerto, verifica-se que os ora recorrentes foram presos portando balança de precisão, R$ 333 reais em notas variadas o que, segundo a instância a quo, indica a dedicação às atividades criminosas, afastando, assim, a incidência da minorante. A quantidade de drogas, aqui, foi referida apenas dentro do contexto da apreensão.
+Compreender de modo diverso, é atividade incabível em recurso especial, tendo em vista a necessidade de reexaminar provas (Súmula 7/STJ).
+Além disso, não há falar em bis in idem, tendo em vista que, embora mencionado no momento da avaliação acerca da incidência da minorante em questão, a quantidade de drogas foi mencionada dentre diversas outras circunstâncias concretas, indicativas da dedicação do ora recorrente às atividades criminosas, este sim o fundamento pelo qual a benesse foi negada.
+Em suporte:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 316 KG DE MACONHA. DOSIMETRIA. ELEVAÇÃO DA PENA-BASE. QUANTIDADE DE DROGAS E NATUREZA. POSSIBILIDADE. PEDIDO DE APLICAÇÃO DO REDUTOR DA PENA. ART. 33, § 4º, DA LEI DE DROGAS. IMPOSSIBILIDADE. COMPROVAÇÃO DE DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ALEGAÇÃO DE BIS IN IDEM. NÃO OCORRÊNCIA. REGIME FECHADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não há falar em bis in idem, pois a quantidade de drogas foi utilizada para elevar a pena-base, enquanto o afastamento da redutora da pena, prevista no art. 33, § 4º, da Lei de Drogas, deu-se em razão da comprovação, nos autos, de que o agravante se dedica a atividades criminosas.
+2. Inviável o abrandamento do regime, pois idônea a fundamentação de negativa pela comprovação à atividade criminosa e pela quantidade de substância entorpecente apreendida.
+3. Agravo regimental improvido.
+(AgRg no HC n. 450.968/PR, de minha relatoria, Sexta Turma, DJe 13/9/2018)
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
