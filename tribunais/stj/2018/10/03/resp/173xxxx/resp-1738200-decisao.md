@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. TRÁFEGO EM RODOVIA FEDERAL COM EXCESSO DE PESO. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS ADMINISTRATIVA E JUDICIAL. ACÓRDÃO COM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA RECURSAL ELEITA. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por F.G. COMÉRCIO DE AREIA E VRITA LTDA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República, contra o acórdão prolatado pelo Tribunal Regional Federal da 1ª Região, cuja ementa assim se resume (e-STJ fl. 275):
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. TRÁFEGO DE VEÍCULO EM RODOVIA FEDERAL COM EXCESSO DE PESO. [NOME]. PROTEÇÃO DO PATRIMÔNIO PÚBLICO E DE INTERESSES DIFUSOS E COLETIVOS DOS USUÁRIOS DE RODOVIAS. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS ADMINISTRATIVA E JUDICIAL. PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO (CF, ART. 5º, XXXV). INDENIZAÇÃO, A TÍTULO DE DANO MATERIAL E MORAL. CABIMENTO.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do especial, alega violação ao artigo 231, V, do Código de Trânsito Brasileiro, bem como divergência jurisprudencial, sob o argumento de que "é incabível o suplemento judicial para que os usuários das rodovias se abstenham de trafegar com veículos em condução de cargas em patamar superior ao limite máximo de peso permitido, tendo em vista que há legislação expressa com comando voltado a coibir tal prática".
+Admitido o feito na origem, os autos ascenderam a esta Corte de Justiça.
+Parecer do Ministério Público Federal (e-STJ fls. 407/412) pelo conhecimento parcial do recurso especial, e no que conhecido, pelo não provimento.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Isso porque, quanto à suposta ofensa ao dispositivo legal indicado sob o argumento de que "é incabível o suplemento judicial para que os usuários das rodovias se abstenham de trafegar com veículos em condução de cargas em patamar superior ao limite máximo de peso permitido, tendo em vista que há legislação expressa com comando voltado a coibir tal prática", o Tribunal de origem assim consignou (e-STJ fls. 263/264):
+(..)
+Com efeito, a despeito do caráter repressivo da regra do art. 231, V, da Lei nº. 9.503/97 (Código de Trânsito Brasileiro), no sentido de coibir-se o trânsito de veículos com excesso de peso, mediante a imposição de multa, retenção do veículo e transbordo da carga excedente, na esfera administrativa, a flagrante recalcitrância das promovidas na observância da referida norma legal, como no caso, autoriza a atuação jurisdicional do Poder Judiciário, de forma a resguardar o seu caráter imperativo e, também, o interesse difuso e coletivo não só de todo o universo de usuários de rodovias em nosso país, mas, primordialmente, para fins de proteção do patrimônio público, do direito à vida, à integridade física, à saúde, à segurança pessoal e patrimonial, à qualidade dos serviços de transporte, à ordem econômica e social a um meio ambiente ecologicamente equilibrado, inclusive, mediante a imposição de multa pecuniária, por eventual descumprimento da ordem judicial, e o pagamento de competente indenização por danos materiais e morais coletivos, a serem apurados oportunamente.
+Em casos assim, em que resta manifesta a afronta ao princípio da proibição do retrocesso social, que se caracteriza como obstáculo constitucional à frustração e ao inadimplemento, pelo poder público, de direitos prestacionais, a inteligência jurisprudencial da Suprema Corte já firmou sua convicção sobre a legitimidade da intervenção do Poder Judiciário, para sanar eventual omissão do Poder Público.
+(..)
+Em casos que tais, a independência entre as instâncias administrativa e judicial autoriza a concomitância de apurações, mormente em face do princípio da inafastabilidade da jurisdição (CF, art. 5º, inciso XXXV).
+Dessa forma, e a despeito do recorrente apontar violação a dispositivo infraconstitucional, o Tribunal de origem apreciou a questão sob enfoque eminentemente constitucional - princípio da inafastabilidade da jurisdição (CF, art. 5º, inciso XXXV). A revisão de tal fundamento conforme a pretensão recursal não é possível na via eleita, tendo em vista que o recurso especial é a via destinada a analisar ofensa à legislação infraconstitucional federal, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal definida constitucionalmente.
+Por conseguinte, afasta-se a possibilidade de revisão de suas premissas pelo Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. MATÉRIA DECIDIDA PELA CORTE DE ORIGEM SOB O ENFOQUE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA PELO STJ. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ.
+ ..
+3. Quando a controvérsia é solucionada com fundamento em princípios ou dispositivos constitucionais, o recurso especial é inviável, sob pena de usurpação da competência reservada pela Constituição ao Supremo Tribunal Federal.
+4. Esta Corte admite a revisão dos honorários advocatícios quando estes se mostrarem irrisórios ou exorbitantes, o que não é o caso dos autos, assim, rever o valor fixado na instância de origem implica o reexame das provas dos autos, o que é vedado pela Súmula 7/STJ. 5. Agravo regimental a que se nega provimento. (AgRg no REsp 1537862/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 07/04/2016, DJe 15/04/2016)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER. OBRAS DE ACESSIBILIDADE EM CENTROS DE SAÚDE DO MUNICÍPIO. PRETENSÃO JULGADA IMPROCEDENTE. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ESTREITA VIA DO RECURSO ESPECIAL EXTRAPOLADA.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamento eminentemente constitucional, escapando sua revisão, assim, à competência desta Corte no âmbito do recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1275358/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/12/2014, DJe 10/12/2014)
+Por fim, o entendimento desta Corte Superior de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Neste sentido:
+ADMINISTRATIVO. ADICIONAL DE INSALUBRIDADE. APONTADA OFENSA AOS ARTS. 4º E 5º DA LINDB, 126 E 127 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NORMA LOCAL. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O STJ entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O exame da controvérsia acerca do pagamento do adicional de insalubridade foi realizado com amparo na legislação local (Lei Municipal 1.863/2009 e Decreto Municipal 44/2009), sendo sua análise vedada na via Especial, consoante Súmula 280/STF, aplicável por analogia.
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Interno não provido. (AgInt no AREsp 932.880/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2016, DJe 17/11/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
