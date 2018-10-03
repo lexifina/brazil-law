@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS. CUMPRIMENTO DA PENA EM REGIME SEMIABERTO. SUPERVENIÊNCIA DE CONDENAÇÃO À PENA RESTRITIVA DE DIREITOS. INCOMPATIBILIDADE. IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO. CONVERSÃO EM PRIVATIVA DE LIBERDADE. POSSIBILIDADE. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], no qual se aponta como autoridade coatora a Quinta Câmara Criminal do Tribunal de Justiça de Santa Catarina, que negou provimento ao Agravo em Execução n. 0001695-08.2018.8.24.0036, assim ementado (fl. 49):
+AGRAVO EM EXECUÇÃO PENAL. CONVERSÃO EM PENA PRIVATIVA DE LIBERDADE DAS PENAS RESTRITIVAS DE DIREITOS IMPOSTAS EM CONDENAÇÃO SUPERVENIENTE. INSURGÊNCIA DEFENSIVA. ALEGAÇÃO DE QUE A REGRA DO ARTIGO 44, §5º, DO CÓDIGO PENAL NÃO SE APLICA. IMPOSSIBILIDADE. INCOMPATIBILIDADE DAS PENAS SUBSTITUTIVAS COM O REGIME EXECUTADO PELO APENADO. APLICAÇÃO DO PRINCÍPIO DA ISONOMIA. CASO CONCRETO QUE ESTÁ INSERIDO EM UMA LACUNA DA LEI, MAS QUE TECNICAMENTE SE ASSEMELHA À PREVISÃO LEGISLATIVA. DECISÃO ACERTADA. RECURSO DESPROVIDO.
+Alega a defesa que, no presente caso, não é aplicável o § 5.º do art. 44 do CP, já que este dispositivo diz respeito a uma outra situação, que não corresponde com a situação do Paciente: a pena alternativa "convertida" em reclusão pelo Juízo da Execução no presente caso é posterior, e não anterior, à pena privativa de liberdade. Logo, o § 5.º do art. 44 do CP não é aplicável ao caso, e sua invocação por analogia (in malam partem, pois) viola o princípio da legalidade (fl. 7).
+Requer, assim, seja concedida a ordem para RESTABELECER a pena restritiva de direitos imposta ao Paciente, convertida ilegalmente em pena privativa de liberdade (fl. 10).
+Liminar indeferida (fls. 108/111).
+Informações prestadas (fls. 115/150), o Ministério Público Federal ofereceu parecer pelo não conhecimento e, caso conhecido, pela denegação da ordem (fls. 152/154).
+É o relatório.
+A insurgência não prospera.
+Este Superior Tribunal tem entendido que a pena restritiva de direitos que sobrevém ao condenado que cumpre pena privativa de liberdade, apesar de não se enquadrar nas hipóteses legais de conversão previstas no art. 44, §§ 4º e 5º, do Código Penal, somente pode ser cumprida simultaneamente caso haja compatibilidade, o que não se constata quando o apenado se encontra em regime semiaberto ou fechado, como no caso (AgRg n. HC 318.983/SP, da minha relatoria, Sexta Turma, DJe de 6/5/2015).
+Ainda neste sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO. SUPERVENIÊNCIA DE CARTA DE GUIA PARA CUMPRIMENTO DE PENAS RESTRITIVAS DE DIREITOS. INCOMPATIBILIDADE DE EXECUÇÃO SIMULTÂNEA. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITO EM SANÇÃO CORPORAL. UNIFICAÇÃO DAS PENAS. LEGALIDADE. ARTS. 111 E 181 DA LEI DE EXECUÇÃO PENAL. INAPLICABILIDADE DO ART. 76 DO CÓDIGO PENAL. PRECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO ORDINÁRIO DESPROVIDO.
+A jurisprudência deste Tribunal Superior firmou-se no sentido de que, no caso de nova carta de guia para execução de penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou semiaberto, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das reprimendas. Nesses casos, as penas restritivas de direito devem ser convertidas em sanção privativa de liberdade, unificando-se as sanções, nos termos dos arts. 111 e 181 da LEP, respectivamente, não sendo aplicável o art. 76 do CP. Precedentes.Recurso ordinário em habeas corpus desprovido. (RHC 93.248/SP, Ministro Felix Fischer, Quinta Turma, DJe 27/8/2018 - grifo nosso)
+Com efeito, tendo as instâncias ordinárias decidido de acordo com a jurisprudência desta Corte, não há ilegalidade a ser sanada.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
