@@ -1,0 +1,37 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim ementado:
+Agravo de Instrumento Ação de Rescisão de Contrato cc outros pleitos Cumprimento de sentença Pedido de fixação de honorários advocatícios nesta fase - A despeito de ser possível tal fixação, o caso apresenta peculiaridades que devem ser observadas Parte da condenação dos Agravados de pagarem indenização aos Agravantes em razão do esbulho e indevida exploração agrícola cujos valores ainda estão sendo apurados nesta fase V. Acórdão proferido na fase de conhecimento que pontuou que os honorários advocatícios serão fixados sobre o valor total da condenação, o que está sendo apurado ainda Raciocínio correto e adequado da decisão agravada que deve ser mantido Decisão mantida Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 85, § 14 e 1022, I, do NCPC
+Contrarrazões ao recurso especial às fls. 213/215.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+No tocante à alegada violação ao art. 1.022, I, do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou contradição apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOS FINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 1.035.430/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/05/2017, DJe 16/05/2017- grifou-se).
+3. Em relação à compensação dos honorários advocatícios, o Tribunal de origem assim se pronunciou (fls. 146/148):
+O fundamento da decisão aqui agravada é a peculiaridade da sentença que se cumpre, que contém dupla condenação de forma que os honorários se compensam.
+Sem embargo das razões dos Agravantes, a questão no caso de fato é peculiar, sendo correto o raciocínio que fundamenta a decisão: se acolhido o pleito dos Agravantes, fixar-se-ão honorários para a fase de cumprimento de sentença, em que ambas as partes têm condenação a cumprir.
+Veja que, no que tange à indenização devida pelos Agravados aos Agravantes, é trazido aos autos que o cumprimento de sentença ainda está sendo decidido, estando sob análise laudo pericial apresentado pelo perito nomeado, o que deve ser aguardado a fim de se apurar o real proveito econômico das partes, diferentemente do que acontece na fase de conhecimento.
+Ademais, quando determinada no bojo do v. Acórdão a condenação dos Agravados a restituirem o imóvel e a pagarem integralmente os ônus da sucumbência, "inclusive os honorários do patrono dos Autores no equivalente a 10% da condenação total que vier a ser apurada", ficou claro que a incidência da porcentagem ficou determinada sobre a condenação total (AI nº 2189636-29.2015.8.26.0000) valor que ainda está sendo verificado nesta fase de cumprimento da sentença.
+Correto e adequado o raciocínio exposto na decisão agravada de Primeiro Grau ao caso, ante as suas peculiaridades, entendo que assim deve ser mantida, observando que a decisão agravada não indeferiu a fixação dos honorários para esta fase processual, mas tão somente pontuou que não tal verba não pode ser fixada neste momento.
+Ressalta-se que a argumentação contida no recurso especial não possui elementos suficientes para infirmar as razões colacionadas no aresto objurgado, pois não ataca especificamente os fundamentos utilizados pela instância a quo para dirimir a controvérsia, o que impõe o não conhecimento da pretensão, a teor do entendimento das Súmulas 283 e 284 do STF, ante a deficiência na motivação e a ausência de impugnação a fundamento autônomo.
+Cito precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. A falta de exposição sobre o modo como teriam sido violados aos dispositivos de lei invocados, bem como a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, além da apresentação de razões dissociadas desse fundamento impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no REsp 1210184/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/11/2017, DJe 21/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE ALIMENTOS. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO DA REDUÇÃO DA CAPACIDADE CONTRIBUTIVA. RENDA MENSAL MÉDIA DA GENITORA. FUNDAMENTOS INATACADOS. ALTERAÇÃO DAS PREMISSAS ADOTADAS. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa e considerando o interesse do menor, concluiu pela manutenção da pensão, tendo em vista a "não comprovação de redução de capacidade contributiva" e que "o quadro financeiro delineado às fls. 48 (revendedora de produtos, com renda mensal média de R$ 450, 00), sem contrariedade específica na réplica de fls. 54/55, não enseja a possibilidade de aporte relevante a ponto de reduzir a participação do apelado no custeio do seu filho".
+2. Tais fundamentos, autônomos e suficientes à manutenção do v.acórdão recorrido, não foram impugnados nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF. Em âmbito de especial, é indispensável demonstrar o cabimento do recurso e o desacerto do acórdão impugnado.
+3. Outrossim, as peculiaridades destacadas pelo acórdão recorrido afastam o cabimento do recurso especial com base no dissídio jurisprudencial (Súmula 7/STJ). Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1067066/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 14/11/2017, DJe 21/11/2017)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
