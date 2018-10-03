@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por [NOME] em face de acórdão assim ementado:
+AGRAVOS INTERNOS. Direito de submeter a decisão ao colegiado. Decisum que negou seguimento aos recursos, na forma do art. 557, caput, do CPC.
+Trata-se de demanda indenizatória, alegando o autor que sofreu ofensa em razão de a parte ré ter ajuizado contra si diversas ações sucessivas e infundadas. O réu apenas ajuizou demandas buscando tutelar direito que entendia cabível. Trata-se do exercício do direito de ação, assegurado constitucionalmente, sendo certo que nosso ordenamento jurídico não aplica a teoria concreta do direito de ação, no sentido de que só haveria tal direito se existisse também o direito material. Ao contrário, o nosso ordenamento adotou a teoria abstrata do direito de ação, em que há plena autonomia entre o direito de pretensão e o direito material em si pleiteado. Sendo assim, segundo a teoria da abstração, o direito de ação independe da existência efetiva do direito subjetivo invocado. Dessa forma, não se verifica a prática de ato ilícito, sequer na modalidade de abuso de direito, somente o réu tendo buscado valer direitos pleiteáveis.
+No mesmo sentido, não merece prosperar o pedido do réu na condenação do autor nas penas de litigância de má-fé, que igualmente apenas exerceu o seu direito de ação, a fim de tutelar direito que entendia cabível.
+Honorários fixados em 10% sobre o valor da causa, que corresponde a mais de R$ 3.000,00, que não merece majoração, nos termos do art. 20, §4º, do CPC, haja vista a baixa complexidade da demanda, além do pequeno tempo transcorrido desde a propositura da ação, que sequer houve dilação probatória, não exigindo maiores esforções do patrono.
+Inexistência de ilegalidade na decisão recorrida, não merecendo reforma.
+Desprovimento dos recursos.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 16, 17, 18, 20, 21, 126, 127, 335 e 1.109 do Código de Processo Civil de 1973; 404 e 884 do Código Civil; 4º e 5º do Decreto-Lei 4.657, além de dissídio jurisprudencial. Sustenta a litigância de má-fé do agravado e afirma que os honorários advocatícios fixados em seu favor o foram em valor irrisório.
+Assim posta a questão, observo que o recurso não poderia ser acolhido sem reexame de prova. O agravante afirma que o agravado é litigante de má-fé. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 548):
+(..), não merece prosperar o pedido do réu na condenação do autor nas penas de litigância de má-fé.
+O litigante de má-fé é a parte ou interveniente que, no processo, age de forma maldosa, com dolo ou culpa, causando dano processual à parte contrária. É o improbus litigator, que se utiliza de procedimentos escusos com o objetivo de vencer ou prolongar deliberadamente o andamento do processo, procrastinando o feito.
+Alterar a verdade dos fatos significa afirmar fato inexistente, negar fato existente ou dar versão mentirosa para fato verdadeiro, o que não se vislumbra na hipótese.
+Igualmente, o autor apenas exerceu o seu direito de ação, a fim de tutelar direito que entendia cabível.
+Afastar essas conclusões é inviável em recurso especial, consoante dispõe a Súmula 7 do STJ.
+O mesmo enunciado da Súmula tem aplicação quanto aos honorários advocatícios. A jurisprudência deste Tribunal admite a revisão dos honorários pelo critério da equidade quando a quantia arbitrada destoa da razoabilidade, revelando-se irrisório ou exagerado, o que não se verifica no presente caso, pois fixado em 10% do valor da causa.
+O dissídio jurisprudencial não ficou caracterizado, pois não destacadas as circunstâncias que assemelhassem os casos confrontados, o que, diante da incidência do enunciado citado, seria mesmo inviável.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
