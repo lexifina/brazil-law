@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Seguro de vida e acidentes pessoais. Ação declaratória de nulidade de contrato. Perícia que confirma a falsidade da assinatura e demais manuscritos atribuídos ao segurado na proposta e no questionário de seguro. Boletos de pagamento enviados para o endereço da beneficiária lá indicada. Nulidade reconhecida. Ação procedente. Recurso da seguradora provido, prejudicado o adesivo.
+A parte agravante sustenta que o acórdão é omisso e destituído de fundamentação. Alega que aufere vantagem manifestamente exagerada, de forma abusiva e contrária à boa-fé objetiva, a seguradora que, após longo período recebendo os prêmios pagos pelo segurado, nega cobertura, sob alegação de que a assinatura do segurado é falsa.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+De início, sem razão a recorrente no que tange à alegação de omissão e falta de fundamentação, haja vista que enfrentadas todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+No que se refere à validade do contrato de seguro, a Corte de origem entendeu que a nulidade da assinatura do proponente torna o pacto nulo. O STJ já teve oportunidade de se manifestar, em conformidade com o entendimento exarado no acórdão recorrido, como se vê do seguinte precedente:
+FALSA A FIRMA PROPONENTE, TEM-SE COMO NÃO PRESTADAS AS INFORMAÇÕES E NULO O CONTRATO SUBSEQUENTE.
+(REsp n. 78.794/MG, Relator Ministro EDUARDO RIBEIRO, TERCEIRA TURMA, DJ 4/8/1997)
+Colhe-se da fundamentação:
+O contrato de seguro faz-se com base nas declarações do segurado. Se a assinatura é falsa, há de entender-se que não as prestou. Falta, pois elemento essencial. Mais do que falsa, as declarações constantes da proposta, são, em verdade, inexistentes.
+Com efeito, a ausência de assinatura do segurado significa a falta de qualquer declaração de vontade para a celebração do pacto, circunstância que afeta o próprio plano de existência do negócio jurídico. O contrato inválido (ou inexistente) não produz quaisquer efeitos jurídicos. Por isso, despiciendas as alegações relativas à qualidade do representante da seguradora, ou na boa-fé no pagamento do prêmio. Imprópria a menção da regra de seguro de vida de terceiros, figura jurídica diversa da espécie tratada nos autos.
+Os acórdãos indicados como paradigmas não guardam semelhança com o acórdão recorrido; um deles aplicou as Súmulas n. 5 e 7/STJ como óbice para alterar a conclusão das instâncias ordinárias (ou seja, nem conheceu do mérito); o outro trata de declarações falsas quanto à saúde do segurado, hipótese fática distinta do caso confrontado.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Intimem-se.
