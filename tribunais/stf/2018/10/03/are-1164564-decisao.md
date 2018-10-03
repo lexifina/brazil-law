@@ -1,0 +1,22 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, 5º, LIV e LV, e 6º da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não prospera a insurgência pelo prisma dos incisos LIV e LV do art. 5º da Carta Política, consagradores dos princípios do devido processo legal, do contraditório e da ampla defesa, uma vez que o Plenário Virtual desta Suprema Corte negou a existência de repercussão geral da questão no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.8.2013, assim ementado:
+    "Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Oportuna a transcrição parcial do acórdão recorrido:
+    “[...]Mérito. A Lei Nacional nº 12.608/12 instituiu a Política Nacional de Proteção e Defesa Civil - PNPDEC, dispondo sobre o Sistema Nacional de Proteção e Defesa Civil - SINPDEC e o Conselho Nacional de Proteção e Defesa Civil – CONPDEC, estabelece que:[...]
+    MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS, dentro do campo de suas atribuições, editou a Lei Complementar nº 267/2003 instituiu o Código de Edificações do Município, que disciplina toda construção, reforma, ampliação ou demolição realizada no Município, orientando e determinando os processos de sua aprovação e fiscalização assim estabelece:[...]
+    Na mesma linha, a Lei Complementar Municipal nº 428/2010, que estabeleceu regras relativas ao uso e ocupação do solo em São José dos Campos, em consonância com o Plano Diretor da Cidade aprovado e instituído pela Lei Complementar Municipal nº 306/2006 previu que:[...]
+    Constata-se que o MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS, exercendo seu poder de polícia, agiu nos estritos limites da legislação de regência. Em 21.07.2010 o MUNICÍPIO DE SÃO JOSÉ DOS CAMPOS efetuou a Notificação Preliminar nº 374.091 (fls. 05/06) no sentido de noticiar ao requerido que estava construindo sem autorização da Administração e foi advertido que deveria paralisar a obra e proceder à demolição. Em 30.08.2010, em razão do descumprimento da notificação preliminar, fora lavrado o Auto de Infração e Multa nº 374/485 (fls. 07/08). O relatório fotográfico elaborado pela Coordenadoria Municipal de Defesa Civil (fls. 14/16) demonstrou que o imóvel pertencente ao autor está localizado em área classificada como risco muito alto. Em 04.12.2013 foi efetuado Termo de Vistoria pelo Setor de Monitoramento de Loteamentos Irregulares (fls. 19 e ss) classificando o imóvel com risco muito alto R-4. O laudo social de fls. 23 dera o seguinte Parecer Técnico:[...]
+    Nesta condição, incontestável a procedência do pedido[...]”
+    Desse modo, é certo que as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos apontados dispositivos da Constituição da República.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
