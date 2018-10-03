@@ -1,0 +1,38 @@
+DECISÃO
+Na origem, trata-se de embargos à execução opostos por Manfer Construções Ltda. em decorrência de execução fiscal que lhe move o Instituto Nacional do Seguro Social (INSS), objetivando a cobrança de débito inscrito em dívida ativa.
+Na primeira instância, os embargos à execução foram julgados parcialmente procedentes. No TRF da 2ª Região, a sentença foi reformada em acórdão assim ementado:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. GRUPO ECONÔMICO. RESPONSABILIDADE SOLIDÁRIA DE EMPRESA INTEGRANTE DO GRUPO POR DÍVIDA FISCAL DE OUTRA. ART. 50, CC/02. 124, I, CTN. NECESSIDADE DE COMPROVAÇÃO.
+I - Reconhecido grupo econômico e restando configurado o disposto no art. 50 do CC/02, é possível desconsiderar a responsabilidade jurídica de uma empresa para responder por dívidas de outra(s), entendimento que vem sendo adotado pela jurisprudência.
+II - Contudo, a responsabilidade solidária de uma empresa em relação às dívidas de outra, mesmo no caso de grupos econômicos, deve ser reconhecida em situações excepcionais, quando verificado que a empresa devedora e aquela que se busca responsabilizar pertençam ao grupo de sociedades sob o mesmo controle e com estrutura meramente formal - o que ocorre quando diversas pessoas jurídicas do grupo exercem suas atividade sob a mesma unidade gerencial, laboral e patrimonial -, e, ainda, quando se visualizar a confusão de patrimônio, fraudes, abuso de direito e má-fé com prejuízo a credores.
+III - Não se encontra comprovada de forma cristalina e categórica nos autos, no entanto, que fatos ilícitos ou abusivos teriam sido praticados em favor dos sócios ou da própria empresa apelante, que supostamente comporia um grupo econômico, em conluio com a empresa devedora e que teriam deixado esta última em situação de insolvência, de modo a não saldar as dívidas tributárias junto ao Fisco.
+IV - Registre-se, ainda, que, para fins de responsabilidade solidária tributária, preconizada no art. 124, I, do CTN, é imprescindível que as empresas que participam do mesmo grupo econômico realizem conjuntamente a situação configuradora do fato gerador da obrigação tributária.
+V - Remessa oficial a que se nega provimento. Apelo provido.
+Opostos embargos de declaração, foram rejeitados.
+A Fazenda Nacional interpôs recurso especial, com fundamento na alínea a do inciso III do art. 105 da Constituição Federal por ofensa ao art. 535, II, do CPC/73; aos arts. 124, I e II, e 135, III, do CTN; ao art. 30, IX, da Lei n. 8.212/91; e ao art. 50 do Código Civil de 2002.
+Alega que, apesar da oposição de embargos de declaração, o tribunal de origem foi omisso quanto aos elementos dos autos que comprovam o vinculo operacional e administrativo entre as empresas do grupo econômico, autorizando, assim, a responsabilização solidária, in verbis (fls. 1.460-1.461):
+Eis o que restou apontado nos declaratórios opostos:
+ ..
+Portanto, importante evidenciar algumas considerações que demonstram essa situação, a qual se encontra comprovada nos autos por hábeis e idôneos documentos:
+a) participação do Sr. [NOME] como sócio-gerente nas três empresas, retirando-se da sociedade limitada embargante somente em 25/01/2000, data do registro de alteração contratual, a propósito, fato que deu fundamento ao acórdão 366/2005, da 4a Câmara de Julgamento, no processo administrativo fiscal, para reduzir o período de apuração do débito originário;
+b) participação dos sócios direta e indiretamente de todas as empresas, praticando atos de gestão financeira e administrativa, apondo assinaturas em documentos destinados a pagamento de despesas diversas e de pessoal;
+c) sócios-gerentes de uma empresa e sendo admitido como empregado ou gerentes de outra;
+d) funcionamento de duas empresas, em determinada época, no mesmo endereço, bem como, constatação de locação de imóvel pertencente a uma empresa pela outra, a preço módico;
+e) pagamentos de despesas com telefone (Telemar), energia (Escelsa) e água (Cesan) efetuados por uma empresa ora em nome de esposa de sócio, ora em proveito de outra empresa;
+f) aquisição, entre as empresas, de bens móveis e equipamentos de escritórios, além de maquinário imobilizado, a preços abaixo do valor de venda comercial;
+g) constatação de que fornecedores e prestadores de serviços são comuns a todas as empresas, no periodo de apuração do débito;
+h) situações em que se verifica a prestação de serviços por funcionários, de forma concomitante e em período sucessivo, às empresas que compõe o grupo de fato (vide relatório de fls. 159/167)." (fls. 1404-1409)
+Apresentadas contrarrazões, a parte recorrida requer o desprovimento do recurso especial.
+É o relatório. Decido.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 535, II, do CPC/73, pois de fato apresentou questão jurídica relevante, qual seja, a existência de elementos nos autos que comprovam o vinculo operacional e administrativo entre as empresas do grupo econômico, de modo a possibilitar a responsabilização solidária. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 535, II, do CPC/73, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
