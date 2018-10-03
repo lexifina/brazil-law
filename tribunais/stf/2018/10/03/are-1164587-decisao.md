@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONTRATO POR PRAZO DETERMINADO COM A ADMINISTRAÇÃO PÚBLICA. GRAVIDEZ. ESTABILIDADE PROVISÓRIA. REPERCUSSÃO GERAL RECONHECIDA. TEMA 542. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Goiás:
+    “DUPLO GRAU DE JURISDIÇÃO. MANDADO DE SEGURANÇA. CONTRATO TEMPORÁRIO. GESTANTE. DIREITO À REMUNERAÇÃO CORRESPONDENTE AO PERÍODO DE ESTABILIDADE. PRECEDENTES STF E DESTA CORTE DE JUSTIÇA. 1. As servidoras públicas contratadas a título precário (contrato temporário) fazem jus ao recebimento de seus vencimentos durante todo o período de gestação, até cento e oitenta (180) dias após o parto, ainda que não reintegrada. Precedentes Jurisprudenciais. 2. Sendo o reconhecimento do direito à estabilidade provisória da gestante o objeto principal do writ, não há se falar em sua utilização como sucedâneo de ação de cobrança. REMESSA CONHECIDA E DESPROVIDA” (fl. 36, doc. 4).
+    2. O agravante alega contrariados o inc. XVIII do art. 7º e o § 3º do art. 39 da Constituição da República e a al. b do inc. II do art. 10 do Ato das Disposições Constitucionais Transitórias e pede “o sobrestamento destes autos, nos termos do art. 1.030, III, CPC, pela existência de controvérsia acerca da matéria, em trâmite no STF (Temas 497 e 542, RE 629.053/SP e 674.103/SC, respectivamente), cuja repercussão geral foi reconhecida, porém não concluído o julgamento dos referidos feitos, conforme 1030, III, do CPC/2015” (fl. 71, doc. 4).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. No julgamento eletrônico do Recurso Extraordinário n. 842.844-RG, Relator o Ministro Luiz Fux, Tema 542, este Supremo Tribunal reconheceu a repercussão geral da questão constitucional em exame neste processo:
+    “DIREITO CONSTITUCIONAL, ADMINISTRATIVO E TRABALHISTA. CONTRATOS POR PRAZO DETERMINADO E OCUPANTES DE CARGOS EM COMISSÃO NÃO OCUPANTES DE CARGOS EFETIVOS. GRAVIDEZ DURANTE O PERÍODO DA PRESTAÇÃO DOS SERVIÇOS. DIREITO À LICENÇA-MATERNIDADE E À ESTABILIDADE PROVISÓRIA. ARTIGO 7º, XVIII, DA CONSTITUIÇÃO FEDERAL. ARTIGO 10, INCISO II, ALÍNEA B, DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS” (DJe 18.6.2013).
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+    4. Pelo exposto, determino a imediata devolução destes autos ao Tribunal de origem para observar-se o disposto no art. 1.036 do Código de Processo Civil, nos termos do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 3 de outubro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
