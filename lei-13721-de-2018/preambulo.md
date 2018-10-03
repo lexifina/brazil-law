@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer que será dada prioridade à realização do exame de corpo de delito quando se tratar de crime que envolva violência doméstica e familiar contra mulher ou violência contra criança, adolescente, idoso ou pessoa com deficiência.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
