@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TENTATIVA DE ROUBO MAJORADO. ART. 157, § 2º, II, C/C 14, II, DO CP. VIOLAÇÃO DOS ARTS. 157, § 2º, II, DO CP E DOS ARTS. 156 E 386, VII, DO CPC. CONDENAÇÃO COM BASE EXCLUSIVA EM DEPOIMENTO DA VÍTIMA. DEPOIMENTO DE POLICIAIS RESPONSÁVEIS PELO FLAGRANTE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer de recurso especial.
+DECISÃO
+Trata-se de agravo de [NOME] contra decisão de inadmissão de recurso especial, este interposto contra acórdão proferido no processo n. 1.0079.14.049635-1 pela Terceira Câmara Criminal do Tribunal de Justiça de Minas Gerais que não acolheu seus embargos de declaração.
+Anteriormente, esse órgão julgador havia negado provimento aos apelos, mantendo-o submetido à pena de 1 ano e 9 meses de reclusão, em regime aberto, e 5 dias-multa, à razão mínima, pela prática de conduta descrita no art. 157, § 2º, II, c/c art. 14, II, ambos do Código Penal, conforme termos da seguinte ementa (fl. 533):
+EMENTA: ROUBO MAJORADO - ABSOLVIÇÃO - INVIABILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS DESCLASSIFICAÇÃO PARA FURTO - INVIABILIDADE. Havendo comprovação da materialidade e da autoria, bem como do elemento subjetivo do injusto penal, não há como acolher a pretensão defensiva de absolvição por insuficiência de provas. Comprovados o emprego da violência e grave ameaça caracterizadores do crime de roubo, não há que se falar em sua desclassificação para o crime de furto.
+O recorrente interpôs recurso especial, no qual alega, em síntese, que o acórdão recorrido teria contrariado os arts. 157, § 2º, II, do Código Penal e os arts. 156 e 386, VII, do Código de Processo Penal, porquanto, para lastrear o decreto condenatório, ter-se-ia considerado somente os depoimentos contraditórios prestados pela vítima, bem como depoimentos de policiais, que teriam tomado conhecimento dos fatos através dos relatos do ofendido. As palavras da vítima, isoladas e contraditórias, não poderiam ensejar um decreto condenatório.
+Pede a absolvição (fls. 569/581).
+Contrarrazões às fls. 585/587.
+O apelo foi obstado na origem por demandar reexame de provas (fl. 589).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que não teria pretendido reavaliar as provas já produzidas nos autos e devidamente apreciadas. O recurso giraria em torno exclusivamente de questão de direito. A palavra da vítima, isolada e contraditória, não poderia ensejar um decreto condenatória (fls.592/600).
+Contrarrazões ao agravo em recurso especial às fls. 602/604.
+O Ministério Público Federal opina pelo não provimento do agravo, dada a necessidade de reexaminar provas (fls. 618/619).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, quanto à suposta violação dos arts. 157, § 2º, II, do Código Penal e os arts. 156 e 386, VII, do Código de Processo Penal, importante observar termos do acórdão combatido (fls. 540/542):
+ ..
+Impende registrar que, ao contrário do que alega a defesa, não se constata qualquer incoerência nas declarações da vítima, tendo ela, em ambas as fases processuais, narrado em detalhes a prática delitiva e reconhecido com segurança os apelantes como sendo os autores do crime.
+Ademais, as divergências apontadas referem-se a minúcias do momento da abordagem dos apelantes, o que, não têm o condão de desacreditar o teor das suas declarações, eis que preservada a essência do fato principal. Conforme lição de Nicola Framarino Dei Malatesta, que, pela clareza, reclama transcrição literal:
+ ..
+Há também nos autos os depoimentos dos policiais que, apesar de não serem testemunhas presenciais do fato criminoso, o são do seguro reconhecimento do apelante pela vítima, logo após o evento criminoso.
+A esse respeito, [NOME], condutor do flagrante, declarou em sede inquisitiva, "que estavam realizando a operação "Para Pedro" na Av João César de Oliveira quando foram acionados pela vitima MATHEUS DE OLIVEIRA CARDOSO, informando que estava sentado no ponto de ônibus quando foi surpreendido por dois indivíduos sendo um moreno, altura mediana, trajando bermuda jeans e blusa de frio escura e outro branco, trajando bermuda branca, blusa preta e um fita laranjada no pescoço que anunciaram ó assalto e lhe disse: "passa o celular se não vamo te bater" que, MATHEUS respondeu que não possuía celular e neste momento foi agredida com um soco na região das costas pelo autor de cor branca com a fita laranja no pescoço, após ser agredido MATHEUS visualizou a viatura e gritou por socorro, momento em que os autores evadiram sem levar o celular; Que, colocaram MATHEUS na viatura fizeram rastreamento nas imediações quando localizaram os indivíduos nas proximidades da rua Olinto Fontes e estes começaram a correr sendo contidos pelos militares da guarnição e logo negaram toda ação, mas a vitima apontou de forma categórica os indivíduos como sendo os indivíduos que momentos antes tentaram lhe assaltar" (f. 02)
+Em juízo (f. 168), o referido policial confirmou suas declarações anteriores e reafirmou que, após serem acionados pela vítima, realizaram rastreamento e lograram êxito em apreender os dois acusados que foram reconhecidos pela vítima "sem vacilação".
+No mesmo sentido foram as declarações dos policiais [NOME] e [NOME] (f. 03 e 04).
+Por todo o exposto, tenho que a prova incriminatória é contundente quanto a autoria imputada aos apelantes, razão pela qual não há como acolher o pleito de absolvição por insuficiência de provas.
+Melhor sorte não ocorre à defesa quanto ao pleito de desclassificação do delito de roubo para o de furto.
+Como visto linhas acima, Matheus afirmou que foi abordado pelos agentes que lhe anunciaram o assalto com os seguintes dizeres "passa o celular se não vamo te batei"" e, como a vítima disse que não tinha nada foi agredida com um soco nas costas.
+Com efeito, o roubo é crime complexo - unidade jurídica que se completa pela reunião de dois delitos: constrangimento ilegal (CP, art. 146) e furto (CP, art. 155).
+Assim, a diferença entre o delito de furto e o de roubo consiste precisamente no fato de que neste, a subtração de coisa alheia móvel é feita mediante violência ou grave ameaça, ou ainda, quando há a redução da possibilidade de resistência da vítima. Portanto, o delito de roubo nada mais é que um furto qualificado pelo emprego de violência ou grave ameaça contra a pessoa, e não somente contra a coisa furtada.
+ ..
+Do excerto, verifica-se que o acórdão se lastreou em elementos probatórios produzidos na instrução penal, em especial os depoimentos da vítima e das testemunhas, os policiais responsáveis pelo flagrante [NOME] e [NOME], inacessíveis em sede de recurso especial.
+A inversão da conclusão a que chegou o Tribunal a quo implicaria, necessariamente, o reexame de todo o conjunto fático-probatório, pois a instância ordinária, soberana na análise das circunstâncias fáticas da causa, concluiu existirem elementos suficientes para a condenação.
+Aplica-se, portanto, no ponto, o óbice da Súmula 7/STJ.
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
