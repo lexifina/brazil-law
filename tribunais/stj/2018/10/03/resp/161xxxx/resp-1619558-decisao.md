@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CALÇADOS ANIGER LTDA, na vigência do CPC/2015, com fundamento na alínea a do permissivo constitucional, em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. PIS E COFINS. DECRETO 8.426/2015. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE VIOLAÇÃO.
+O Decreto 8.426/2015 não se mostra ofensivo ao princípio da legalidade, eis que não se trata de instituição ou majoração de tributo, e sim de redução e posterior restabelecimento, dentro dos limites indicados na própria lei (art. 27, § 2º, da Lei 10.865/2004), das alíquotas de contribuição para o PIS e COFINS sobre as receitas financeiras auferidas pelas pessoas jurídicas sujeitas ao regime não cumulativo. Não há se falar em inconstitucionalidade" (fl. 155e).
+Os Embargos Declaratórios opostos foram rejeitados (fls. 188/190e).
+Nas razões do Recurso Especial, a parte recorrente alega violação ao art. 97 do CTN, sustentando a inconstitucionalidade e ilegalidade do Decreto 8.426/15, no que diz respeito à incidência do PIS e da COFINS sobre receitas financeiras.
+Apresentadas as contrarrazões (fls. 243/245e), o Recurso Especial foi admitido pelo Tribunal de origem (fl. 253e).
+A insurgência, todavia, não merece amparo.
+Com efeito, o dispositivo legal apontado como violado reproduz o Princípio da Legalidade Tributária, norma prevista no art. 150, I, da Constituição Federal, tratando de limitação ao poder de tributar. Nesse aspecto, é assente a jurisprudência desta Corte no sentido de que não pode ser examinada eventual ofensa do referido dispositivo legal em sede de Recurso Especial, sob pena de violação a competência exclusiva do Supremo Tribunal Federal, nos termos do art. 102, III, do permissivo constitucional.
+Nesse sentido, confira-se o seguinte julgado:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. IMPOSTO DE RENDA RETIDO NA FONTE. RECOMPRA DE ORTN"S. APLICABILIDADE DO ART. 5º DO DECRETO-LEI 2.065/83 C/C OS ARTS. 3º, II, §1º E 4º, II, PARÁGRAFO ÚNICO, DO DECRETO-LEI 2.072/83. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA 283/STF. INSURGÊNCIA DE ÍNDOLE CONSTITUCIONAL. ART. 97, I, DO CTN. REPRODUÇÃO DO DISPOSTO NO ART. 150, I, DA CF. COMPETÊNCIA DO STF.
+1. Constatado que a Corte a quo empregou fundamentação suficiente para dirimir a controvérsia, é de se afastar a alegada violação do art. 535 do CPC.
+2. O fundamento autônomo do acórdão recorrido, relacionado à aplicabilidade do art. 5º do Decreto-Lei 2.065/83 c/c os arts. 3º, II, §1º e 4º, II, parágrafo único, do Decreto-Lei 2.072/83 ao caso concreto, não foi impugnado. Aplica-se, no ponto, a Súmula 283/STF.
+3. O art. 97 do CTN reproduz a norma encartada no art. 150, I, da Constituição da República (Princípio da Legalidade Tributária) e sua análise implica apreciação de questão constitucional, o que é inviável em sede de recurso especial. Nesse sentido: AgRg no REsp 1.176.217/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe 22/9/2010; AgRg no REsp 1.154.339/RS, Rel. Min. Castro Meira, Segunda Turma, DJe 26/08/2010 e REsp 753.562/MG, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJe 2/2/2010.
+4. Agravo regimental não provido" (STJ, AgRg no REsp 1.260.055/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 21/11/2013).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
