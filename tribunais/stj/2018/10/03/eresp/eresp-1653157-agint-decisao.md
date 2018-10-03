@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno, interposto por BANCO SANTANDER S/A, em face de decisão singular dessa relatoria, pela qual foram indeferidos liminarmente os embargos de divergência, por não ter sido configurada a similitude fática entre os acórdãos confrontados.
+Defende a parte agravante, em resumo, a reforma do decisum, apresentando os seguintes argumentos:
+(1) Resta patente a similitude fática do acórdão paradigma proferido pela 2ª Seção no REsp nº 1.207.071-RJ com o acórdão embargado da Primeira Turma, já que ambos analisaram a natureza do auxílio alimentação, se indenizatória ou remuneratória.
+(2) A similitude fática entre o acórdão embargado e o paradigma está justamente no fato de ter sido analisada a questão da natureza jurídica do auxílio em ambos os casos, foco da questão meritória, não fazendo diferença se em um caso a síntese da referida análise tenha resultado na integração do auxílio-alimentação à base de cálculo da contribuição previdenciária ou incorporado ao benefício de aposentadoria complementar (direito privado).
+(3) No REsp n. 1.207.071 foi afastado o caráter remuneratório atinente à cesta-alimentação, entendendo-se que a forma como o auxílio é concedido ou sua designação não interferem no fato de objetivar tal benefício proporcionar ao trabalhador a aquisição de alimentos. Vale dizer, a partir da análise da natureza do auxílio alimentação, o acórdão embargado adotou posição diametralmente oposto daquela proferida no referido paradigma, na medida em que para a 2ª Seção o referido auxílio não pode ser considerado verba salarial para incorporação nos benefícios de previdência complementar, enquanto para a Primeira Turma o mesmo benefício foi tratado como salário para fins de tributação, usando como razão de decidir, inclusive, o que restou decidido no REsp nº 1.185.685, julgado pela Primeira Turma.
+É o relatório.
+Diante dos relevantes argumentos declinados nas razões do agravo interno, com fulcro no artigo 259, § 3º, do Regimento Interno do Superior Tribunal de Justiça, RECONSIDERO A DECISÃO AGRAVADA.
+Estando, a princípio, caracterizado o dissídio jurisprudencial entre os órgãos julgadores deste Superior Tribunal de Justiça, devendo ser admitidos os embargos de divergência.
+Dê-se vista dos autos à parte embargada para, querendo, apresentar impugnação no prazo de 15 (quinze) dias, nos termos do artigo 267 do Regimento Interno desta Corte Superior.
+Após, encaminhe-se o feito ao Ministério Público Federal, pelo prazo de 20 (vinte) dias, conforme o artigo 266-D, do RI/STJ, alterado pela Emenda Regimental n. 22, de 16/03/2016.
+Publique-se.
+Intimem-se.
