@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alínea "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 507):
+PROCESSUAL CIVIL - MANDADO DE SEGURANÇA - INADEQUAÇÃO DA VIA ELEITA
+1. O ato de suspensão de benefício foi precedido de regular intimação para oferecimento da defesa. Considerando que inexiste direito adquirido a regime jurídico, tais benefícios, em relação aos quais não se operara ainda a decadência do direito da Administração revisar, passaram a observar o novo prazo decadencial de 10 anos, previsto pela Lei n. 8.213/91, alterada pela MP n. 138/2003, posteriormente convertida na Lei n. 10.839/04.
+2. Ademais, o representante do INSS menciona, como fato que ensejou a suspensão do benefício da impetrante, a fundada suspeita de fraude, matéria que desafia dilação probatória, imprópria a ser realizada nesta via processual.
+3. Apelação não provida. Sentença confirmada.
+Aponta o recorrente, além de divergência jurisprudencial, violação aos arts.1º, 2º, 18, 24, 35, 52 e 55 da Lei n. 8.213/91. Sustenta que "não se pode suspender o pagamento do benefício, SEM ANTES ESTAR CONCLUÍDA A VIA ADMINISTRATIVA, O QUE ABRANGE INCLUSIVE, A VIA RECURSAL, pois, determina a Portaria MPS nº. 713/93, em seu Artigo 14, que os Recursos serão recebidos com efeito devolutivo e SUSPENSIVO, O QUE NOS FAZ REQUERER, SOMENTE A DEVIDA APLICAÇÃO DA NORMA LEGAL" (fl. 566).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso especial (fls. 630/633).
+É o relatório.
+A irresignação não merece acolhimento.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Na espécie, nota-se que os referidos dispositivos legais não contêm comandos capazes de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ressalta-se que o mesmo óbice da Súmula 284/STF aplica-se ao recurso interposto com fundamento na divergência jurisprudencial (alínea "c" do permissivo constitucional).
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
