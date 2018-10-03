@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98241, de 14 de setembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8528.62.00 Mercadoria: Projetor de imagens do tipo DLP (Digital Light Processing), com resolução nativa SVGA (800 x 600), medindo 283 mm x 95 mm x 222 mm, possuindo duas portas de entradas VGA (D-sub de 15 pinos), uma porta de saída VGA (D-sub de 15 pinos), uma porta de entrada de Vídeo composto, uma porta de entrada S-Vídeo (Mini DIN 4 pinos), uma porta HDMI, uma porta USB-B e uma porta RS-232.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.28) e RGI 6 (textos da subposição de 1º nível 8528.6 e da subposição de 2º nível 8528.62) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 8 de fevereiro de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.241-2018.pdf]
