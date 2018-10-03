@@ -1,0 +1,8 @@
+DECISÃO
+ALEX LUIS DA SILVA alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0006710-52.2015.8.26.0635.
+Busca, liminarmente, seja reconhecida a nulidade absoluta consistente na ausência de intimação da defesa do paciente quanto ao conteúdo do acórdão proferido por ocasião do julgamento dos recursos de apelação interpostos pela defesa e pela acusação, com reabertura do prazo recursal.
+ Ao examinar o teor deste habeas corpus, verifica-se, no entanto, que se trata de mera reiteração do HC n. 464.922/SP, no qual indeferi o pedido liminar, por considerar serem necessárias, para a análise da questão, a vinda das informações a serem prestadas pela autoridade coatora e a manifestação do Ministério Público. Ressalto que, conquanto a subscritora deste mandamus não seja a mesma que impetrou o HC n. 464.922/SP, e que estes autos possuem documentos que não constam do writ primeiramente impetrado nesta Corte, diante da constatação de que há identidade de partes, de causa de pedir e de pedido, evidencia-se a inviabilidade de processamento deste habeas corpus.
+Esclareço, ainda, que, como dito na decisão que indeferiu o pedido liminar no HC acima citado, "a análise da tese defensiva recomenda um exame mais detido do caso, de modo que é conveniente a vinda das informações e a manifestação do Ministério Público, o que inviabiliza, a priori, a concessão da tutela liminar".
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Em tempo, determino que sejam desentranhados destes autos os documentos de fls. 9-15, e que tais documentos sejam acostados ao HC n. 464.922/SP.
+Publique-se e intimem-se.
