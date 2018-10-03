@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por THEREZA [NOME] interposto contra decisão de admissibilidade do TJ/RS que não admitiu o recurso especial que interpusera.
+Todavia, da análise dos autos, constata-se que o recurso especial juntado às e-STJ fls. 251/279, não faz referência à sentença e ao acórdão destes autos, e inclusive nomina como recorrente [NOME] e não THEREZA [NOME] [NOME].
+Com efeito, as razões de e-STJ fls. 251/279 são dissociadas da sentença e do acórdão referentes à THEREZA [NOME] [NOME], pois indicam a sentença e acórdão que julgaram a revisão de contrato de plano de saúde de [NOME] (e-STJ fls. 254 e 255) como decisões impugnadas pelo recurso especial.
+O recurso deve ser apresentado com os fundamentos de fato e de direito que deram causa ao inconformismo com a decisão prolatada, ou seja, deve fazer referência direta aos fundamentos do pronunciamento judicial, como base para desenvolver as razões recursais.
+Evidenciado nos autos que as razões recursais, bem como o pedido de reforma nada se referem com o cerne do que foi decidido, o recurso interposto não deve ser conhecido pela ausência da necessária dialeticidade recursal.
+Forte nessas razões, NÃO CONHEÇO o presente agravo em recurso especial, com fundamento no art. 253, parágrafo único, I do RISTJ.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$2.000,00 (dois mil reais) (e-STJ fls. 229) para R$ 2.500,00 (dois mil e quinhentos reais), suspensa a exigibilidade de tal verba enquanto perdurarem os efeitos da concessão do benefício da assistência judiciária gratuita.
