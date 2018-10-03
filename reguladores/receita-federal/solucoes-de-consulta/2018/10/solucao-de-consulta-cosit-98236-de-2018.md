@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98236, de 13 de setembro de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8708.99.90 Mercadoria: Peça em forma de uma barra de aço com ponteiras articuláveis, para veículos comerciais das posições 87.01 a 87.05, constituída por tampa, concha, cachimbo/carcaça, anéis tensores, capa de proteção, pino, tubo e conjunto abraçadeira, com peso e dimensões variáveis, utilizada para conectar uma roda à outra, para que os movimentos de direção transmitidos a uma das rodas seja também transmitido à outra roda, denominada comercialmente “barra de ligação”.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (textos das subposições 8708.9 e 8708.99), RGC 1 (texto do item 8708.99.90) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.236-2018.pdf]
