@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+COBRANÇA. [NOME]. Complementação. Invalidez parcial permanente. Apuração em perícia de que a perda funcional experimentada pelo autor foi de 2,5%. Correção monetária incidente a partir do evento danoso. Decisão do C. STJ na sistemática de julgamento de recursos repetitivos fixou a tese de direito de que o termo inicial da correção monetária é a data do evento danoso. Posterior edição da Súmula n.º 580 do STJ. Sucumbência. Condenação exclusiva do autor por ter decaído de maior parte os pedidos. Recurso parcialmente provido.
+A parte agravante sustenta que decaiu de parte mínima do pedido, motivo por que a ré deve ser condenada ao pagamento dos ônus da sucumbência.
+Este Tribunal possui entendimento no sentido de que "a reforma do entendimento firmado nas instâncias ordinárias, acerca do quantitativo em que os demandantes saíram vencedores ou vencidos para aferição da ocorrência de sucumbência mínima ou recíproca, demanda o reexame do conjunto fático-probatório dos autos, defeso pela Súmula 7/STJ" (AgRg no AgRg no Ag 1.257.530/SP, Rel. Ministro Napoleão Nunes Maia Filho, DJe 9.8.2010).
+No mesmo sentido: AgRg no REsp 620.101/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 17.11.2009, DJe 30.11.2009; AgRg no Ag 712.198/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18.8.2009, DJe 2.9.2009; AgRg nos EDcl no REsp 1.055.413/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19.3.2009, DJe 3.4.2009.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
