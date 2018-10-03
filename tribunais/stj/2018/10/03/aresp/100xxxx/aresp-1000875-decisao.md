@@ -1,0 +1,102 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 88/90).
+O acórdão do TJRJ traz a seguinte ementa (e-STJ fl. 51):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DÉBITO DE CONDOMÍNIO. CONTAS APROVADAS EM ASSEMBLEIA GERAL. DESNECESSIDADE DE COMPROVAÇÃO DAS RESPECTIVAS DESPESAS. INSURGÊNCIA DA DEVEDORA CONTRA A PLANILHA APRESENTADA PELO CREDOR, DESACOMPANHADA DA DISCRIMINAÇÃO DO VALOR QUE [NOME], NÃO SE PRESTANDO PARA TAL FIM A MERA ALEGAÇÃO DE QUE A MEMÓRIA DE DÉBITO CORRETA SERIA AQUELA ACOSTADA NOS IDOS DE 2011, SEM QUALQUER ATUALIZAÇÃO, E SEM A INCLUSÃO DAS COTAS VENCIDAS APÓS A CITADA DATA. ARTIGO 475-L, § 2º, DO CPC. AUSÊNCIA DE NOVOS FUNDAMENTOS
+CAPAZES DE INFIRMAR A DECISÃO AGRAVADA. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 64/68).
+Nas razões do recurso especial (e-STJ fls. 70/81), interposto com fundamento no art. 105, III, alínea "a", da CF, a parte recorrente indicou desrespeito aos arts. 535 do CPC/1973 e 489, § 1º, I e IV, e 1.022, I e II, do CPC/2015, pois a Corte local teria sido silente sobre as seguintes teses:
+(i) "alegação de violação ao contraditório, ampla defesa e devido processo legal em virtude da não apreciação do pedido de produção de provas feito na impugnação" (e-STJ fl. 72),
+(ii) "o descompasso entre a documentação juntada pelo exequente e os valores por este cobrados" além de que "não há ata de assembléia fixando o valor da cota condominial para o período objeto da impugnação", (e-STJ fl. 72),
+(iii) "a decisão reconheceu o desastre da gestão da sindica mas, de forma absolutamente contraditória, manteve a decisão pela legalidade da cobrança, mesmo ante a ausência de correspondência dos valores aqui cobrados com a documentação que sustenta a cobrança" (e-STJ fl. 73),
+(iv) "não há qualquer elemento que demonstre que estes valores cujas contas foram aprovadas correspondem aos aqui cobrados" (e-STJ fl. 73),
+(v) "o condomínio não emite boleto de cobrança e não aprovou qualquer valor de cobrança de cota condominial para o período" (e-STJ fl. 73),
+(vi) falta de provas que permitam "a conclusão de que os valores cobrados na planilha são os mesmos discutidos e aprovados pela assembléia de condomínio" (e-STJ fl. 73), e
+(vi) as atas da assembléias condominial que aprovaram as contas "não estavam nos autos no momento da execução, somente tendo sido apresentadas após a impugnação, o que demonstraria que o cumprimento de sentença, tal como requerido, não poderia prosperar" (e-STJ fl. 74),
+(vii) "pedido de aplicação da teoria da carga probatória dinâmica ao caso" (e-STJ fl. 74), e
+(viii) o "pedido de produção de provas cuja produção iria demonstrar a inconsistência da cobrança aqui questionada, vez que o recorrido, como já dito, não fez a prova de que os valores incluídos nas planilhas podem ser considerados "cotas condominiais" ou que os outros dois condôminos contribuem para o rateio das despesas comuns" (e-STJ fl. 74).
+Indicou contrariedade aos arts. 333, I e II, 359 e 400 do CPC/1973, argumentando existir cerceamento de defesa, por causa da suposta omissão das instâncias de origem no exame do seu pedido de exibição de documentos comuns em poder do recorrido, com as cominações legais no caso de recusa, além do seu requerimento de expedição de mandado de verificação, "devendo o oficial de justiça comparecer ao local e fornecer descrição pormenorizada do prédio, informando a eventual existência de serviços comuns ou qualquer outra fonte de despesas condominiais" (e-STJ fl. 75).
+Defendeu afronta ao art. 373, § 1º, do CPC/2015, argumentando que haveria recusa do condomínio na apresentação dos demonstrativos das despesas comuns e do seu rateio, o que justificaria a inversão dinâmica do ônus da prova em seu favor, a fim de impor a parte recorrida o dever de comprovar a regularidade dos encargos condominiais cobrados.
+Apontou ofensa aos arts. 333, I, e 586 do CPC/1973 (CPC/2015, arts. 373, I, e 783), pois haveria excesso de execução ante a falta de "correspondência entre os valores informados e o titulo executivo, já que a ausência de qualquer comprovante de despesas comuns e principalmente ausência de fixação do valor da cota condominial torna os valores cobrados absolutamente aleatórios e dissociados do título executivo que os poderia sustentar" (e-STJ fl. 75), além de que o condomínio recorrido não teria se desincumbido do seu ônus probatório quanto à comprovação da regularidade do montante executado.
+Argumentou, ainda, no particular que:
+(i) "a decisão violou os dispositivos acima indicados ao considerar que a aprovação das contas resolve o problema, pois não há nenhuma indicação da origem dos valores cobrados e que os mesmos corresponderiam exatamente ao que foi aprovado" (e-STJ fl. 75), e
+(ii) "o condomínio foi instado a comprovar o seu suposto crédito e não o fez, tendo a decisão recorrida violado as regras sobre distribuição do ônus da prova ao permitir o prosseguimento de uma cobrança desacompanhada da comprovação de sua correlação com o título executivo em que apoia" (e-STJ fl. 75).
+
+Não foram apresentadas contrarrazões (e-STJ fl. 87).
+No agravo (e-STJ fls. 99/112), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 116).
+É o relatório.
+Decido.
+Não assiste razão à parte recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo decidiu a matéria controvertida, não incorrendo em omissão, contradição ou obscuridade (e-STJ fls. 50/55 e 64/68).
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489, § 1º, do CPC/2015), tampouco hipótese de cabimento dos aclaratórios.
+O Tribunal a quo negou provimento ao agravo de instrumento da recorrente, oposto a decisão que rejeitou a sua impugnação ao cumprimento de sentença, proposta pelo recorrido para satisfação de despesas condominiais em haver, nos termos a seguir (e-STJ fls. 52/55):
+Tendo o agravante se utilizado do direito de ver a questão submetida ao Órgão Colegiado, transcrevo, de logo, a ementa da decisão guerreada, com vistas a facilitar a compreensão da controvérsia e o julgamento do recurso:
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DÉBITO DE CONDOMÍNIO. CONTAS APROVADAS EM ASSEMBLEIA GERAL. DESNECESSIDADE DE COMPROVAÇÃO DAS RESPECTIVAS DESPESAS. INSURGÊNCIA DA DEVEDORA CONTRA A PLANILHA APRESENTADA PELO CREDOR, DESACOMPANHADA DA DISCRIMINAÇÃO DO VALOR QUE [NOME], NÃO SE PRESTANDO PARA TAL FIM A MERA ALEGAÇÃO DE QUE A MEMÓRIA DE DÉBITO CORRETA SERIA AQUELA ACOSTADA NOS IDOS DE 2011, SEM QUALQUER ATUALIZAÇÃO, E SEM A INCLUSÃO DAS COTAS VENCIDAS APÓS A CITADA DATA. ARTIGO 475-L, §2º, DO CPC. RECURSO AO QUAL SE NEGA SEGUIMENTO, NA FORMA DO ARTIGO 557, CAPUT, DO CPC."
+Eis os motivos pelos quais neguei seguimento ao recurso:
+A controvérsia consiste em saber se a alegada irregularidade nas assembleias onde as contas condominiais foram prestadas impede a cobrança da cota condominial, bem como se houve excesso de execução na planilha apresentada pelo credor.
+Registre-se, de partida, que as alterações promovidas pela Lei nº 11.232/2005 transformaram o processo de execução, sincretizando-o numa nova sistemática, o procedimento de cumprimento da sentença, de modo a garantir a eficácia no recebimento de quantia certa, visando estimular a satisfação imediata do crédito determinado por sentença transitada em julgado, emprestando celeridade ao processo.
+Assevero que os alegados prejuízos decorrentes da gestão desastrosa da síndica anterior não deve ser discutida em sede de impugnação ao cumprimento de sentença, cujo debate encontra-se limitado pelo artigo 475-L do CPC, mas sim pela via própria, sendo certo que compete ao síndico prestar contas à Assembleia Geral anualmente e quando exigidas e, em sendo as contas aprovadas, como ocorreu no presente caso, não se exige a demonstração do rateio das despesas comuns para a cobrança das cotas dos respectivos condôminos.
+No que tange ao alegado excesso de execução, verifico que a sentença, confirmada em sede de recurso (indexador 187), julgou procedente o pedido de cobrança formulado pelo condomínio/agravado, condenando a ré/agravante ao pagamento das cotas condominiais vencidas, bem como as vincendas, enquanto durar a obrigação, acrescidas de correção monetária, juros de mora de 1% ao mês, a partir da citação e de multa de 2% sobre o débito, mais despesas processuais e honorários de sucumbência de 10% sobre o valor da condenação.
+Após o trânsito em julgado, em 23 de janeiro de 2014, a devedora/agravante
+requereu o parcelamento do débito, na forma do artigo 745-A do CPC, mediante o depósito de apenas R$ 3.452,36 (três mil e quatrocentos e cinquenta e dois reais e trinta e seis centavos), correspondentes a 30% do débito, considerando o valor da planilha de 25 de setembro de 2011, ocasião em que a dívida era de R$ 10.124,46 (dez mil, cento e vinte e quatro reais e quarenta e seis centavos), conforme documento indexado ao nº 118, fls. 130.
+Inconformado, o condomínio não anuiu com o parcelamento requerido, apresentando nova memória de débito, referente ao período de novembro de 2009 a novembro de 2014, totalizando a cobrança de R$ 24.380,65 (vinte e quatro mil e trezentos e oitenta reais e sessenta e cinco centavos), conforme indexador 187, fls. 205/209.
+Em seguida, o juízo determinou a apresentação de nova planilha pelo credor, considerando a quantia depositada pela devedora, entretanto, o condomínio trouxe aos autos a cobrança relativa ao período de setembro de 2011 a abril de 2014, sem realizar o desconto exigido (indexador 212, fls. 216/217).
+Em abril de 2014, a devedora solicitou mais uma vez o parcelamento do débito, complementando o depósito anterior com R$ 3.861,83, que representaria os 30% da planilha indexada ao nº 187, fls. 205/209.
+Posteriormente, o credor regularizou sua planilha, apresentando a memória do débito de todo o período  novembro de 2009 a setembro de 2014 , totalizando R$ 18.792,68, já descontados os valores depositados pela devedora (indexador 244, fls. 247/248).
+Enfim, diante do bloqueio on line, o juízo restou garantido e a devedora ofereceu a impugnação ao cumprimento de sentença (indexador 258).
+Com efeito, cabe ao devedor impugnar os cálculos do credor, de forma clara e precisa, juntando, inclusive, a planilha divergente (artigo 475-L, §2º, do CPC).
+E, em havendo simples incorreções aritméticas, por exemplo, caberá ao magistrado decidir a impugnação de plano, sem que seja necessária a realização de perícia contábil, ou a remessa dos autos ao contador do juízo. Seja como for, a impugnação ao cumprimento de sentença por excesso de
+execução, depende da garantia do juízo, com o depósito do valor requerido
+pelo credor, acompanhada da planilha elaborada pelo devedor, apontando a
+quantia a ser expurgada.
+Note-se que o artigo 475-L, §2º, do CPC dispõe claramente que cabe ao executado declarar de imediato o valor que entende devido, não se prestando para tal fim a mera alegação de que o valor correto seria aquele lançado pelo credor nos idos de 2011, sem a incidência das cotas que se venceram após a citada data e sem qualquer acréscimo legal.
+Além disso, destaco que não há nos autos a quitação das cotas vencidas entre novembro de 2009 e agosto de 2011, não se podendo presumir a renúncia dos respectivos valores pelo credor, pela simples apresentação da memória do débito contemplando outro período, qual seja, setembro de 2011 a abril de 2014 (indexador 212, fls. 216/217).
+De mais a mais, o credor/agravado regularizou a aludida planilha, conforme indexador 244, fls. 247/248, incluindo todos os meses em que as cotas não
+foram pagas, até a data de sua elaboração, descontando os depósitos efetuados pela devedora, tendo sido esta memória de débito levada à cabo
+pelo juízo, quando da penhora on line.
+Diante dessas considerações, na forma do artigo 557, caput, do CPC, nego
+seguimento ao recurso.
+Assim, tendo em vista que no agravo interposto não foi trazido qualquer argumento que justifique a revisão do julgado guerreado, voto no sentido de negar provimento ao recurso.
+Constata-se, portanto, que a Corte local não se manifestou quanto aos arts. 333, I e II, 359, 400 e 586 do CPC/1973 e 373, § 1º, e 783 do CPC/2015. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 do STF e 211 do STJ.
+Ressalte-se, ainda, que segundo a jurisprudência do STJ "não há contradição em afastar a violação do art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado" (AgInt no AREsp n. 1.251.735/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/6/2018, DJe 14/6/2018).
+Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ.
+(..)
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento quanto às teses invocadas pela parte recorrente, mas não debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+5. Se a alegada violação não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento da matéria nos termos do art. 1.025 do CPC/2015.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.234.093/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/4/2018, DJe 3/5/2018.)
+A recorrente não se manifestou quanto à indicação genérica dos valores supostamente executados em excesso e sobre a necessidade da propositura de demanda autônoma para discutir eventuais irregularidades na gestão da síndica - fundamentos utilizados no acórdão impugnado para confirmar a rejeição em segunda instância da impugnação ao cumprimento de sentença apresentada pela parte recorrente - limitando-se a insistir na ocorrência de negativa de prestação jurisdicional e no cerceamento de defesa, bem como na existência de excesso de execução, segundo os arts. 333, I e II, 359, 400, 535 e 586 do CPC/1973 e 373, § 1º, 489, § 1º, I e IV, 783 e 1.022, I e II, do CPC/2015, que teriam sido violados.
+Ademais, o acolhimento da tese de insuficiência probatória, conforme sustentado pela recorrente na insurgência recursal, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ. A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REANÁLISE DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pela possibilidade de julgamento antecipado da lide, considerando desnecessária a realização de novo exame de DNA, tendo em vista a falta de comprovação de qualquer irregularidade ou vício no exame realizado extrajudicialmente. Alterar tal conclusão demandaria nova análise dos elementos fáticos, inviável em recurso especial.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.152.898/PR, de minha Relatoria, QUARTA TURMA, julgado em 15/8/2017, DJe 23/8/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, PARÁGRAFO 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. REEXAME DE PROVAS.
+(..)
+2. Rever a conclusão do aresto impugnado quanto à inexistência de cerceamento de defesa encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo interno parcialmente conhecido e, nessa parte, não provido.
+(AgInt no AREsp n. 1.068.815/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/8/2017, DJe 25/8/2017.)
+De igual forma, o acolhimento da pretensão da parte recorrente, a fim de verificar a desincumbência do recorrido do seu ônus probatório sobre a regularidade dos encargos condominiais exigidos, bem como para aplicar a inversão dinâmica do ônus da prova em seu favor, pelas razões defendidas no especial, demandaria nova incursão no conjunto fático probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ. Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA ADSTRIÇÃO. ANÁLISE. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. VALORAÇÃO INADEQUADA DAS PROVAS NA ORIGEM. VERIFICAÇÃO. ÓBICE SÚMULA 7/STJ. DISTRIBUIÇÃO DA SUCUMBÊNCIA. INVIABILIDADE DE ALTERAÇÃO DAS CONCLUSÕES ALCANÇADAS NA INSTÂNCIA A QUO. SÚMULA 7/STJ.
+(..)
+4. Conforme jurisprudência do STJ, "não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1.665.411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe 13/9/2017).
+(..)
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.234.472/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/6/2018, DJe 13/6/2018.)
+Na mesma linha: REsp n. 1.665.411/MT, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/9/2017, DJe 13/9/2017.
+Por fim, ultrapassar as conclusões da Corte local, a fim de reconhecer o excesso de execução dos débitos condominiais controvertidos - nos moldes postulados na insurgência recursal -, exigiria o reexame do acervo fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ. Nesse aspecto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. AUSÊNCIA DE COMPROVAÇÃO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. A convicção a que chegou o acórdão acerca da ausência de provas quanto ao alegado excesso de execução decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.208.114/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/6/2018, DJe 13/6/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUBSCRIÇÃO DE AÇÕES. EXCESSO DE EXECUÇÃO. PREMISSAS FÁTICAS. SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Alterar a conclusão da Corte estadual, quanto à existência de excesso de execução, advindo de erro nos cálculos elaborados pela contadoria do juízo, demanda reexame do contexto fático-probatório, atividade não realizável nesta via especial, conforme Súmula n. 7 do STJ.
+2. Agravo interno improvido.
+(AgInt no AREsp n. 1.154.771/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/3/2018, DJe 15/3/2018.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
