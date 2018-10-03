@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por A C Comercial Importadora e Exportadora Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 766):
+ADMINISTRATIVO. APELAÇÃO. EMBARGOS À EXECUÇÃO. INMETRO. MULTA. LEGALIDADE. AUSÊNCIA DE NULIDADE. FUNDAMENTAÇÃO SUFICIENTE.
+Sentença mantida.
+Apelação do embargante não provida.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 489, § 1º, do CPC/2015; 135 do CTN; e 50 do CC; e 9º, §§ 2º e 3º, da Lei n. 9.933/99. Sustenta que: (I) o Tribunal de origem não se manifestou sobre a aplicação do art. 50 da Lei n. 9.874/99; e (II) a CDA que instrui a execução fiscal é nula pois não se pode impor multa prevista apenas em portaria.
+É o relatório.
+Inicialmente, verifica-se que, na espécie, não houve oposição de embargos de declaração perante a Corte de origem. Assim, ao indicar violação ao art. 489, § 1º, do CPC/2015, revela-se manifesta a deficiência na fundamentação do recurso especial. Imperiosa, portanto, a incidência do óbice constante da Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.".
+Com relação aos arts. 135 do CTN e 50 do CC, cumpre registrar que a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Para ilustrar, sobressaem os seguintes precedentes: AgRg no AREsp 83.629/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 3/4/2012; AgRg no AREsp 80.124/PB, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 25/5/2012.
+Por outro lado, a Corte regional concluiu pela regularidade da Certidão de Dívida Ativa com base nos fundamentos da sentença de piso, assim proferida (fls. 758/759):
+A execução fiscal está instruída com a CDA 37 do Livro 216, e com as CDAs 99, 100, 101, 102, 103 e 104 do Livro 217.
+Todas encartam multas aplicadas com base nos arts. 8º e 9º da Lei nº 9.933/99.
+As citadas informações são suficientes para viabilizar a defesa da executada, sendo certo que os critérios utilizados na mensuração e aplicação da pena devem constar do respectivo procedimento administrativo.
+Ausência de regulamento e legalidade
+O tema em debate é regido pela Lei nº 9.933/99 nos seguintes termos (redação à época dos fatos):
+(..)
+A Lei 9.933/99 previu a edição de regulamento para fixação de critérios e procedimentos para aplicação das penalidades, até hoje não publicado, de acordo com informação do embargado.
+A ausência do regulamento de que trata o §3º do artigo 9º da Lei n. 9.933/99 (atual art. 9º-A), contudo, não pode obstar a aplicação de penalidade no caso de infração a dispositivo da legislação metrológica, nem macula a CDA e o procedimento administrativo, haja vista que ela própria já fornece um roteiro básico a ser seguido pelo administrador, com atenuantes e agravantes.
+A se entender de forma diversa, o exercício do poder de polícia na área em questão restaria inviabilizado.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "A ausência do regulamento de que trata o §3º do artigo 9º da Lei n. 9.933/99 (atual art. 9º-A), contudo, não pode obstar a aplicação de penalidade no caso de infração a dispositivo da legislação metrológica, nem macula a CDA e o procedimento administrativo, haja vista que ela própria já fornece um roteiro básico a ser seguido pelo administrador, com atenuantes e agravantes." (fl. 759). A insurgência esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Fica prejudicada, pelas mesmas razões, a análise do dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
