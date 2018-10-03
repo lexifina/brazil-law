@@ -1,0 +1,29 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. DANOS MORAIS. NÃO CABIMENTO NA ESPÉCIE. SÚMULA 385/STJ. EXISTÊNCIA DE REGISTROS ANTERIORES. CONCLUSÃO DO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DAS PROVAS DOS AUTOS. RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por MATHEUS GOMES COUTINHO, com fundamento na alínea a do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio TJ/MG, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA COM PEDIDO LIMINAR - INOVAÇÃO RECURSAL - INOCORRÊNCIA - INCLUSÃO INDEVIDA DO NOME DO CONSUMIDOR EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO - DIREITO AO CANCELAMENTO - DANOS MORAIS AFASTADOS - EXISTÊNCIA DE OUTRAS INSCRIÇÕES EM NOME DO DEVEDOR - SÚMULA 385 DO SUPERIOR TRIBUNAL DE JUSTIÇA - CONDENAÇÃO EM LITIGÂNCIA DE MÁ-FÉ - NÃO CABIMENTO.
+- Não constitui inovação recursal, se o recurso tem como objeto matéria que foi discutida no decorrer do processo.
+- Pratica ato ilícito a parte que inscreve o nome do consumidor no serviço de proteção ao crédito, por dívida não reconhecida e não comprovada. Entretanto, tal ato ilícito não dá direito ao ressarcimento por danos morais, se este possui outras inscrições em órgãos de proteção ao crédito.
+- Somente será litigante de má-fé a parte que maliciosamente altera a verdade dos fatos com o fito de obter vantagem material ou processual indevida, deixando de proceder com seu dever de lealdade e boa -fé.
+Neste sentido, para que surja a obrigação de reparar, conforme dispõe o artigo 18 do Código de Processo Civil, é imprescindível que o demandante tenha agido com explícita intenção de prejudicar a outra parte, por má-fé ou erro grosseiro. Além do mais, a inscrição do nome da parte autora foi indevida e, por tal motivo, não há que se falar em má-fé ao ajuizar a presente ação.
+VV. EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA. NEGÓCIO REALIZADO POR TERCEIRO. EXCLUSÃO DO NOME NOS CADASTROS DE INADIMPLENTES. SUMULA 385 DO STJ. ÓRGÃO MANTENEDOR. DANO MORAL. CONFIGURAÇÃO. QUANTUM INDENIZATÓRIO.
+Consoante precedentes do Superior Tribunal de Justiça pacificou o entendimento no sentido de que o enunciado contido na Súmula n. 385 só se aplica quando a indenização é pleiteada contra órgão mantenedor do cadastro de proteção ao crédito.
+A negativação indevida representa uma injusta agressão à imagem da pessoa, configurando dano moral passível de indenização.
+A quantificação do dano moral obedece ao critério do arbitramento judicial, que, norteado pelos princípios da proporcionalidade e da razoabilidade, fixará o valor, levando-se em conta o caráter compensatório para a vitima e o punitivo para o ofensor, devendo o quantum indenizatório ser arbitrado de forma a atender à razoabilidade e se aproximar dos parãmetros adotados por este Tribunal e pelo Superior Tribunal de Justiça. (Des. Marcos Lincoln) (fls. 207).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 245/249).
+3. Em seu Apelo Especial, a parte Recorrente alega violação dos arts. 186 e 927 do CC/02, defendendo a ocorrência de danos morais por se tratar de inclusão indevida no cadastro de inadimplentes sem prévia comunicação à parte.
+4. Apresentadas contrarrazões (fls. 266/276), houve a admissão do recurso.
+5. É o relatório.
+6. O presente Recurso não merece prosperar.
+7. Na espécie, o Tribunal de origem consignou que a despeito de ter havido a inscrição indevida da recorrente pela recorrida nos cadastros de proteção ao crédito, já havia outras inscrições, cuja eventual irregularidade não foi demonstrada pela Autora, motivo pelo qual não condenou a Concessionária ao pagamento de danos morais, nos termos da Súmula 385/STJ. A propósito, confira-se trecho do voto condutor do aresto:
+Depreende-se dos autos que o autor, ora apelante, ajuizou a presente ação ordinária, com pedido liminar alegando que seu nome foi inserido indevidamente em cadastros de inadimplentes, motivo pelo qual requereu a declaração de inexistência do débito, bem como indenização pelos danos morais sofridos.
+A sentença julgou parcialmente procedente os pedidos do requerente, para declarar a inexistência da divida, objeto da lide, devendo o nome da parte autora ser retirado em definitivo do órgão de restrição ao crédito, em relação aos fatos narrados na inicial, contudo, deixou de condenar a requerida ao pagamento de indenização a título de danos morais, nos termos da Súmula 385 do STJ (fls. 210/211).
+8. Nota-se, assim, que o acórdão recorrido adota a orientação firmada pela jurisprudência do STJ, não merecendo, portanto, reforma.
+9. Assim, para verificar se os registros em nome da Recorrente são regulares ou não, necessário o reexame de matéria fático-probatória, o que é vedado em Recurso Especial, ante o óbice da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA CONHECENDO DO AGRAVO PARA, DE PLANO, DAR PARCIAL PROVIMENTO AO APELO EXTREMO, AFASTANDO A MULTA APLICADA EM RAZÃO DA OPOSIÇÃO DOS ACLARATÓRIOS. INSURGÊNCIA DA AUTORA.
+(..).
+2. Na hipótese, o Tribunal de origem concluiu pela ausência de dano moral, ante a existência de inscrição prévia em cadastro de restrição ao crédito. 2.1. A ocorrência de inscrições pretéritas em cadastro de inadimplentes obsta a concessão de indenização por dano moral em virtude de inscrição posterior, ainda que esta seja irregular. Súmula 385 do STJ. 2.2. Acórdão recorrido em consonância com a jurisprudência desta Corte, a atrair a incidência da Súmula 83 do STJ, aplicável para ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido (AgInt no AREsp. 746.784/RO, Rel. Min. MARCO BUZZI, DJe 23.3.2018).
+10. Ante o exposto, nega-se provimento ao Recurso Especial do Particular.
+11. Publique-se.
+12. Intimações necessárias.
