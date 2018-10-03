@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de EDSON PIRES contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, no julgamento da Apelação Criminal n. 20120110893396APR.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 10 anos de reclusão, em regime inicial fechado, e 800 dias-multa, pela prática do delito tipificado no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006 (e-STJ fls. 397/412).
+Irresignada, a defesa apelou e o Tribunal distrital negou provimento ao recurso, para manter incólume a sentença primeva (e-STJ fls. 438/444). O pedido de revisão criminal foi julgado improcedente (e-STJ fls. 448/461).
+No presente writ (e-STJ fls. 1/6), o impetrante afirma que o acórdão recorrido impôs constrangimento ilegal ao paciente, na medida em que manteve a exasperação da sua pena-base, com base em circunstâncias judiciais equivocadamente desvaloradas.
+Requer, por isso, liminarmente e no mérito, a redução da pena-base do paciente.
+O pedido liminar foi indeferido pela Ministra Laurita Vaz - Presidente do STJ -, ás e-STJ fls. 17/19, e as informações foram prestadas às e-STJ fls. 30/469.
+O Ministério Público Federal, em parecer exarado às e-STJ fls. 471/478, opinou pela extinção do mandamus sem resolução de mérito ou, pela denegação da ordem.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Conforme relatado, busca a impetrante, em suma, a redução da pena-base do paciente para próximo do mínimo legal.
+Inicialmente, cabe ressaltar que, em se tratando de crime de tráfico de drogas, como ocorre in casu, o juiz, ao fixar a pena, deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006, in verbis:
+Art. 42. O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+ Sob essas balizas, ao julgar o apelo defensivo e manter inalterada a pena-base, o Tribunal local consignou que (e-STJ fl. 443, destaquei):
+ ..
+A sentença considerou a culpabilidade do réu e a os seus motivos, bem como as circunstâncias e conseqüências do crime para fixar a pena-base em oito anos de reclusão e oitocentos dias-multa. Contudo, a fundamentação não é idônea para justificar a análise desfavorável da culpabilidade e dos motivos do crime, pois o juízo de reprovabilidade da conduta e o fim de obter lucro são inerentes a todo crime de tráfico de droga, que orientaram a criminalização primária, e, por isso, não poderiam justificar o aumento da pena-base. As conseqüências também são normais ao tipo, mesmo porque a ação policial logrou interceptar o carregamento antes que fosse distribuído na praça. Mas as circunstâncias do fato realmente são graves, haja vista que a quantidade superlativa da maconha apreendida - cento e quarenta e dois quilos preponderante sobre as diretrizes do artigo 59 do Código Penal, conforme o artigo 42 da Lei 11.343/2006, justificando a pena-base de oito anos de reclusão e oitocentos dias-multa.
+Pela leitura do trecho acima, verifica-se que o Tribunal distrital corrigiu a decisão de primeiro, no tocante à negativação da culpabilidade, dos motivos e das consequências do crime, mantendo porém, inalterada a exasperação da pena-base, em três anos, pelo desvalor conferido à vetorial circunstância do delito, consubstanciada na significativa quantidade de entorpecente apreendida - 142 quilogramas de maconha -, fundamentação idônea e que se encontra em consonância ao já mencionado art. 42 da Lei n. 11.343/2006 e à jurisprudência pacificada desta Corte Superior.
+Vejam-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. GRANDE QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. SEGUNDA FASE DA DOSIMETRIA. COMPENSAÇÃO INTEGRAL ENTRE A MÚLTIPLA REINCIDÊNCIA E A CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- A quantidade, natureza e diversidade dos entorpecentes apreendidos constituem fatores que, de acordo com o art. 42 da Lei n. 11.343/2006, são preponderantes para a fixação das penas do delito de tráfico ilícito de entorpecentes.
+- A fixação da pena-base acima do mínimo legal teve por fundamentos a grande quantidade de droga apreendida - 19,7 quilogramas de maconha - a qual se apresenta proporcional e adequada ao caso. Precedentes.
+ ..
+- Habeas corpus não conhecido. (HC n. 432.731/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/4/2018, DJe 7/5/2018)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. GRANDE QUANTIDADE DE ENTORPECENTES. POSSIBILIDADE. DESPROPORCIONALIDADE. AUSÊNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Não se demonstra excessiva, desarrazoada ou ilegal a exasperação da pena-base em 2 anos pela valoração da vetorial negativa da grande quantidade de drogas apreendidas, aplicada dentro do critério da discricionariedade vinculada do julgador.
+3. Ademais, nos termos da jurisprudência desta Corte Superior, a exasperação da pena-base não se dá por critério objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos (AgInt no HC 352.885/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/05/2016, DJe 09/06/2016), só podendo ser alterado o quantum de aumento na pena-base quando flagrantemente desproporcional.
+4. Agravo regimental improvido. (AgRg no HC n. 400.214/MS, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 6/3/2018, DJe 14/3/2018)
+Dessa forma, reputo razoável e proporcional tanto a fundamentação, quanto o patamar de aumento operado pelas instâncias de origem para recrudescer a pena-base, não existindo, portanto, nenhuma ilegalidade a ser sanada.
+Assim, a pretensão formulada pelo impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, sendo manifestamente improcedente.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
