@@ -1,0 +1,21 @@
+DECISÃO
+PENA – CAUSA DE DIMINUIÇÃO – PERCENTUAL – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006.
+PENA – REGIME DE CUMPRIMENTO – ARTIGO 33, PARÁGRAFOS 2º e 3º, DO CÓDIGO PENAL – OBSERVÂNCIA.
+PENA PRIVATIVA DE LIBERDADE – SUBSTITUIÇÃO – ARTIGO 44, INCISO III, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO PARCIAL.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara Criminal da Comarca de Tupã/SP, no processo nº 0000172-49.2015.8.26.0637, condenou a paciente a 3 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 334 dias-multa, em virtude do cometimento da infração descrita no artigo 33, cabeça (tráfico de drogas), combinado com o § 4º (causa de diminuição de pena em razão de o agente ser primário, possuir bons antecedentes, não se dedicar a atividades delitivas nem integrar organização criminosa), da Lei nº 11.343/2006. Na dosimetria, assentou favoráveis as circunstâncias judiciais, fixando a pena-base no mínimo legal, considerado o piso de 5 e o teto de 15 anos. Apontou ausentes atenuantes e agravantes. Na terceira fase, fez incidir a causa de diminuição no patamar de 1/3. Reconheceu o direito de recorrer solta.
+    A Décima Quarta Câmara de Direito Criminal do Tribunal de Justiça desproveu o recurso de apelação interposto pela defesa, mantendo inalterada a sentença condenatória. Operou-se o trânsito em julgado da decisão em 30 de outubro de 2017.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 434.566/SP, o qual teve a ordem deferida, individualmente, pela Relatora, para impor o regime semiaberto de cumprimento de pena, aludindo à totalidade de substâncias encontradas. Consignou que a fixação de regime inicial mais brando e a substituição da privativa de liberdade por restritivas de direitos não são suficientes para a reprovação e prevenção do delito.
+    O impetrante sustenta atendidos os pressupostos versados no § 4º do artigo 33 da Lei de Drogas, a ensejar a incidência, no grau máximo, da causa de diminuição. Assevera a inidoneidade da fundamentação do ato que implicou o estabelecimento da fração de redução em 1/6. Diz cabível a imposição do regime aberto e a substituição da pena privativa de liberdade por limitadoras de direitos. Aduz inobservadas as regras descritas nos artigos 33 e 59 do Código Penal.
+    Requer, no campo precário e efêmero, a fixação da causa de diminuição no grau máximo – 2/3 –, o implemento do regime aberto e a substituição da sanção por limitadora de direitos. Sucessivamente, o reconhecimento do direito de aguardar, solta ou em prisão domiciliar, o julgamento da impetração. Buscam, alfim, a confirmação das providências.
+     A fase é de apreciação da medida acauteladora.
+    2. O Juízo, após estabelecer a pena-base no mínimo previsto para o tipo – 5 anos de reclusão –, observou, na fração de 1/6, a diminuição definida no § 4º do artigo 33 da Lei nº 11.343/2006, reportando-se à quantidade e natureza da substância apreendida – 1.418,59 gramas de maconha. Nos termos do preceito da Lei de Drogas, mostra-se cabível a redução da pena no patamar de 1/6 a 2/3 quando o agente é primário, com bons antecedentes e não se dedica a atividades delituosas nem participa de organização criminosa. Não há ilegalidade a ser sanada, circunscrevendo-se a questão ao justo ou injusto.
+    Percebam a disciplina legal referente à imposição do regime de cumprimento da pena. Norteia-o o patamar alusivo à condenação e as circunstâncias judiciais, considerado o artigo 33, parágrafos 2º e 3º, do Código Penal. Tendo em vista a sanção aplicada – 3 anos e 4 meses de reclusão – e as circunstâncias judiciais favoráveis, revela-se adequado o aberto.
+    Quanto à substituição da pena, surge a inviabilidade, a teor do inciso III do artigo 44 do mesmo diploma. Os contornos da infração, no que encontrada elevada quantidade de entorpecente na residência da paciente, não indicam ser conveniente a conversão.
+    3. Defiro parcialmente a liminar para determinar, até o exame do mérito desta impetração, seja observado o regime inicial aberto de cumprimento da pena estabelecida no processo nº 0000172-49.2015.8.26.0637, da Vara Criminal da Comarca de Tupã/SP.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 3 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
