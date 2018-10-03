@@ -1,0 +1,24 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. MORTE DO AUTOR. HABILITAÇÃO DOS SUCESSORES. SUSPENSÃO DO PRAZO PROCESSUAL. ARTS. 265, I E 791, II, DO CPC. PRESCRIÇÃO INTERCORRENTE. INEXISTÊNCIA DE PREVISÃO LEGAL. INTERPRETAÇÃO RESTRITIVA. PRECEDENTES DO STJ. AGRAVO EM RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSS, com base na alínea a do art. 105, III, da Constituição Federal, interposto contra acórdão do Tribunal Regional Federal da 5a. Região, assim ementado:
+PROCESSUAL CIVIL. PEDIDO DE HABILITAÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA.
+1. "A prescrição da pretensão executória ocorre no mesmo prazo da prescrição da ação, ou seja, em 5 anos, nos termos do art. 1º do Decreto 20.910/32 e Súmula 150 do STF, contudo, deve-se registrar que a morte da parte suspende o curso do prazo prescricional, o qual somente recomeça a correr a partir da habilitação dos herdeiros". "Ausente previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição". (STJ, 1ª T., AgRg no AREsp 452257/CE, rel. Min. Napoleão Nunes Maia Filho, DJ 21/05/15) 2. atacado que está de acordo com a posição dominante adotada pelo Egrégio Superior Tribunal Decisum de Justiça, a exemplo do julgado acima citado, e por esta Terceira Turma, na qual vem sendo afastada a alegação de prescrição da pretensão executória dos herdeiros que não se habilitaram no prazo quinquenal.
+3. Agravo de instrumento desprovido.
+2. Em suas razões recursais, sustenta o recorrente, em síntese, o provimento do presente recurso, para anular o acórdão omisso ou reconhecer a impossibilidade do prosseguimento da execução, em razão da consumação, da prescrição da pretensão habilitatória.
+3. É o relatório. Decido.
+4. Sustenta o recorrente, em preliminar, negativa de prestação jurisdicional. O inconformismo não prospera, porquanto a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente. É de salientar que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, os questionamentos suscitados pelas partes.
+5. A pretensão da Autarquia está em dissonância com o entendimento desta Corte de que o óbito de uma das partes do processo implica em sua suspensão, deste modo, ausente previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ÓBITO DA PARTE AUTORA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ HABILITAÇÃO DOS SUCESSORES. FALTA DE PREVISÃO LEGAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos dos arts. 265, I, e 791, II, do CPC, a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 286.713/CE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 1.4.2013).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. FALECIMENTO. SUSPENSÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA.
+1. O falecimento de uma das partes do processo importa na sua suspensão, razão pela qual, na ausência de previsão legal que imponha prazo para a habilitação dos respectivos sucessores, não há falar em prescrição intercorrente. Precedentes do STJ.
+2. Agravo Regimental não provido (AgRg no AREsp. 282.115/CE, Rel. Min. HERMAN BENJAMIN, DJe 8.5.2013).
+
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, CPC. NÃO OCORRÊNCIA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO. ÓBITO DA PARTE AUTORA. SUSPENSÃO DO PRAZO PRESCRICIONAL ATÉ HABILITAÇÃO DOS SUCESSORES. PRESCRIÇÃO INTERCORRENTE. FALTA DE PREVISÃO LEGAL.
+1. Com a morte do exequente deve o processo ser suspenso a fim de que seja regularizado o polo ativo da relação jurídica processual, nos termos do que dispõem os artigos 43, 265, I, e 791, II, do CPC, o que afasta a declaração da prescrição intercorrente por falta de previsão legal a respeito. Nesse sentido, confiram-se: AgRg no REsp 1.215.823/RJ, Rel. Min. Hamilton Carvalhido, Primeira Turma, DJe 26/04/2011; AgRg no AREsp 269.902/CE, Rel. Min. Humberto Martins, Segunda Turma, DJe 19/02/2013; AgRg no REsp 891.588/RJ, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe de 19/10/2009.
+2. Agravo regimental não provido (AgRg no AREsp. 259.255/CE, Rel. Min. BENEDITO GONÇALVES, DJe 18.3.2013).
+6. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+7. Publique-se.
+8. Intimações necessárias.
