@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. LEVANTAMENTO DE VALORES A MAIOR. PEDIDO DE DEVOLUÇÃO. FORMULAÇÃO NOS PRÓPRIOS AUTOS. POSSIBILIDADE. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+EXECUÇÃO DE SENTENÇA. RESTITUIÇÃO DE VALORES A UNIÃO FEDERAL. EXECUÇÃO INVERSA.
+O Superior Tribunal de Justiça, bem como este Regional, já firmaram entendimento de que eventual levantamento do valor pago em juízo que transborde aquele efetivamente devido impõe ao credor, nos mesmos autos, a imediata restituição do excedente, é de se presumir, com mais razão ainda, que no caso de equívoco no pagamento, inclusive reconhecido pelos exeqüentes, os valores recebidos indevidamente devem ser devolvidos de imediato, no bojo da própria execução, sem necessidade de ação específica para este fim (fls. 281).
+2. Em suas razões recursais, os recorrentes apontam violação dos arts. 267, 475, 586 e 618 do CPC e 5o. da CF. Aduzem, inicialmente, a inexistência de título executivo judicial determinando a devolução dos valores recebidos pelos Servidores. De outro lado, defendem ser indevida a devolução de valores de caráter alimentar recebidos de boa-fé pelos Servidores.
+3. É o relatório.
+4. A irresignação não merece prosperar.
+5. De início, quanto à violação do art. 5o. da CF/88, registre-se que a análise de matéria de cunho constitucional é, por força do art. 102, III da Carta Maior, exclusiva da Suprema Corte, sendo, portanto, vedado a este Superior Tribunal de Justiça conhecer da suposta infringência, ainda que para fins de prequestionamento.
+6. No mérito, o entendimento adotado pela Corte de origem não destoa da jurisprudência do STJ, conforme demonstram os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUBSCRIÇÃO DE AÇÕES. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. OMISSÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. LEVANTAMENTO DE VALORES A MAIOR. PEDIDO DE DEVOLUÇÃO. FORMULAÇÃO NOS PRÓPRIOS AUTOS. POSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do aresto recorrido atrai, por analogia, o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. É reiterada a jurisprudência desta Corte quanto à possibilidade de o executado buscar a restituição de valores pagos em excesso, em execução ou cumprimento de sentença, no mesmo processo, sem a necessidade do ajuizamento de ação autônoma, bastando a apresentação de cálculos atualizados e a intimação da parte contrária na pessoa de seu advogado. Precedentes.
+4. Agravo interno desprovido (AgInt no REsp. 1.380.639/RS, Rel. Min. LÁZARO GUIMARÃES, DJe 22.8.2018).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. LEVANTAMENTO DE VALORES A MAIOR. PEDIDO DE DEVOLUÇÃO. FORMULAÇÃO NOS PRÓPRIOS AUTOS. POSSIBILIDADE. SÚMULA 568/STJ. PRECEDENTES.
+1. É reiterada a jurisprudência desta Corte quanto à possibilidade de o executado buscar a restituição de valores pagos em excesso, em execução ou cumprimento de sentença, no mesmo processo, sem a necessidade do ajuizamento de ação autônoma, bastando a apresentação de cálculos atualizados e a intimação da parte contrária na pessoa de seu advogado.
+2. Agravo interno não provido (AgInt no AREsp. 946.056/RS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 25.9.2017).
+7. Ante o exposto, nega-se seguimento ao Recurso Especial.
+8. Publique-se. Intimações necessárias.
