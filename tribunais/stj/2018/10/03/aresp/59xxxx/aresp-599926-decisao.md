@@ -1,0 +1,94 @@
+DECISÃO
+[NOME] [NOME] agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 9000013-11.2005.8.26.0052.
+Em sua insurgência especial, a parte aponta violação dos arts. 564, III, "h", 370, § 4º, e 593, III, "d", todos do CPP, porquanto a testemunha protegida, indicada tanto pela defesa quanto pela acusação, não foi encontrada no endereço apontado pelo Ministério Público, fato do qual o defensor dativo não foi intimado para tomar ciência.
+Por haver sido cientificado da ausência de intimação da referida testemunha, arrolada com cláusula de imprescindibilidade, somente na sessão de julgamento, o advogado do réu requereu o seu adiamento, o que foi indeferido.
+Argumenta a defesa que o Magistrado de primeiro grau rejeitou seu pleito de que este indagasse à depoente nomeada pela defesa - tia do ofensor -, moradora do mesmo bairro da testemunha protegida, se ela sabia onde encontrá-la.
+Aduz que o acusado foi condenado tão somente com base em declarações da citada testemunha, que não foi inquirida na presença do Conselho de Sentença.
+Defende que não se pode condenar um indivíduo com suporte exclusivamente em depoimento de testemunha protegida, o que demonstra a fragilidade probatória para sustentar a sentença, sob pena de negativa de vigência ao art. 593, III, "d", do CPP.
+Pleiteia o provimento do apelo extremo a fim de que seja anulada a sessão de julgamento e possibilitando ao causídico revelar à tia do acusado a identidade da testemunha protegida, com vistas à descoberta do paradeiro desta, para depor em plenário.
+O recurso especial foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 1.086-1.088), o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 1.165-1.169, pelo não provimento do agravo.
+Decido.
+I. Contextualização
+Segundo narra a exordial acusatória, o ora agravante, em concurso com terceira pessoa não identificada, mediante disparos de arma de fogo, matou [NOME].
+No dia dos fatos, um indivíduo chamou o ofendido em sua casa e disse-lhe que o acusado queria conversar com ele.
+A vítima foi ao encontro do ofensor, que, depois de trocarem algumas palavras, sacou sua arma de fogo e efetuou disparos contra a cabeça de [NOME], o qual caiu no chão e ainda foi alvejado outras vezes. Ao todo, foi atingido por 8 projéteis.
+Em seguida, o recorrente evadiu-se do local em uma motocicleta guiada por indivíduo não reconhecido.
+Encerrada a primeira fase do júri, o réu foi pronunciado como incurso no art. 121, § 2º, IV, do CP.
+Submetido ao Tribunal do Júri, foi condenado, nos termos da pronúncia.
+Após julgamento da apelação da defesa, a pena foi fixada em 14 anos de reclusão, em regime inicial fechado.
+II. Violação dos arts. 564, III, "h", e 370, § 4º, ambos do CPP
+Quanto à nulidade arguída, veja-se o que disse o Tribunal a quo:
+4. A preliminar de nulidade suscitada em seguida diz respeito ao suposto prejuízo decorrente da falta de intimação da defesa acerca da não localização da testemunha protegida para depor em plenário (item 1, subitem III, fls. 804).
+Alega o apelante que o prejuízo decorreria do fato de que não lhe teria sido dada a oportunidade de perguntar à testemunha [NOME] se conhecia seu endereço, além do fato de que teria interesse em questionar a protegida perante os jurados.
+Não vejo a nulidade alegada.
+A fls. 441, a defesa arrolou as mesmas testemunhas que a acusação, em caráter de imprescindibilidade, o que foi deferido a fls. 443. A fls. 470v, o oficial de justiça certificou que não conseguiu localizar a testemunha protegida no endereço fornecido. Em 09 de janeiro de 2012 tentou-se realizar a sessão de julgamento, o que não foi possível pela ausência daquela testemunha e de outras (fls. 475).
+Destaco que, por ocasião da sessão adiada, a defesa insistiu na oitiva das testemunhas em caráter de imprescindibilidade e preferiu aguardar as diligências que seriam empreendidas pelo Ministério Público. Este, por sua vez, juntou envelope em apartado contendo outro endereço da testemunha (fls. 560).
+A fls. 577 há certidão do oficial de justiça onde afirma não ter logrado êxito em encontrar o ora apelante.
+Em seguida, foi realizada a sessão de julgamento, sob protesto da defesa por não ter sido intimada de fls. 577. Só teria tomado conhecimento do resultado da diligência no momento da sessão de julgamento. Corno já reproduzido nas razões recursais, o Magistrado indeferiu o pedido de adiamento para que fosse perguntado à testemunha [NOME] se conhecia seu endereço, em razão da injustificada demora que acarretaria (fls. 731/736).
+Diante disso, noto que razão assiste ao ilustre Procurador de Justiça em seu parecer, onde menciona que a defesa quedou-se inerte perante as providências adotadas pela acusação, razão porque seria desnecessária sua intimação. Caso quisesse perguntar à testemunha [NOME], poderia tê-lo feito sem intermediação do juízo.
+Ademais, como bem observou o próprio apelante, o advogado não tem acesso a alguns bancos de dados à disposição da Justiça Pública, o que nos leva a concluir que teria chance ainda menor de localizá-la por conta própria (já que não o teria feito sequer para a primeira tentativa de realização da sessão).
+Também parece oportuno registrar que [NOME] é tia do réu e que poderia terminar por revelar o nome da testemunha para seu sobrinho, frustrando todo o esforço por sua ocultação.
+Ainda, não se olvide que o réu disse já conhecer a identidade da testemunha protegida há alguns anos, o que poderia explicar, pelo menos em hipótese, o seu desaparecimento.
+Durante sua exposição, o defensor transcreve o texto do caput do artigo 461 do Código de Processo Penal, que, visando maior clareza, transcrevo novamente: "O julgamento não será adindo se a testemunha deixar de comparecer, salvo se uma das partes tiver requerido a sua intimação por mandado, na oportunidade de que trata o art. 422 deste Código, declarando não prescindir do depoimento e indicando a sua localização".
+Todavia, percebo que o fez suprimindo os parágrafos daquele dispositivo, pois contêm previsões que enfraquecem sua argumentação. São eles: "§ 1º - Se, intimada, a testemunha não comparecer, o juiz presidente suspenderá os trabalhos e mandará conduzi-la ou adiará o julgamento para o primeiro dia desimpedido, ordenando a sua condução. § 2º - O julgamento será realizado mesmo na hipótese de a testemunha não ser encontrada no local indicado, se assim for certificado por oficial de justiça".
+Assim, do texto integral do comando legal, se deve extrair a conclusão de que o julgamento só será adiado se a testemunha ausente, arrolada em caráter de imprescindibilidade, não tiver sido localizada. Todavia, haverá julgamento mesmo sem a testemunha se ela não for encontrada no local indicado (e não houver indicação de outros locais pela parte). Foi exatamente o que sucedeu no caso dos autos. Como bem observou o Magistrado, não havia mais chance de se localizar a testemunha, mostrando-se necessária a realização do julgamento com base nos seus dois depoimentos documentados.
+ ..
+Exatamente esse o ocorrido. Na primeira tentativa de realização da sessão de julgamento, a defesa foi cientificada da não localização da testemunha e deixou de apresentar qualquer informação que pudesse levar à sua localização (fls. 475). O dispêndio de esforços adicionais pela acusação não legitima a posterior reclamação do defensor de não ter sido comunicado pessoalmente do fracasso da intimação no novo endereço fornecido pelo Ministério Público.
+ ..
+Diante do exposto, por considerar que a cláusula de imprescindibilidade manifestada pela defesa não pode adiar o julgamento se a parte não fornece meios de se localizar a testemunha, com respaldo nos precedentes acima referidos e pela não comprovação de prejuízo inocente, deixo de decretar a nulidade arguida (fls. 965-969, grifei).
+Pela leitura do acórdão recorrido, verifico que o Tribunal estadual afastou a alegada nulidade da realização do julgamento, a despeito da falta de intimação da defesa acerca da não localização da testemunha protegida para depor em plenário, pelos seguintes fundamentos:
+a) a primeira sessão de julgamento foi adiada em razão, entre outras, da ausência da testemunha protegida, arrolada, tanto pela defesa quanto pela acusação, com cláusula de imprescindibilidade. Nessa oportunidade, o advogado do réu insistiu na sua oitiva, preferiu aguardar as diligências que seriam empreendidas pelo Ministério Público e quedou-se inerte para localizá-la, apesar de considerar imprescindível sua inquirição perante o Júri popular;
+b) não cabe à defesa sustentar a impossibilidade de revelar o nome da testemunha protegida à única pessoa que, talvez, fosse capaz de indicar sua localização, pois, por ser tia do acusado, poderia revelar-lhe tal dado, tendo em vista que este "disse já conhecer a identidade da testemunha protegida há alguns anos, o que poderia explicar, pelo menos em hipótese, o seu desaparecimento" (fls. 966-967, destaquei);
+c) o defensor só menciona o caput do art. 461 do CPP, que lhe é conveniente, e deixa de considerar o teor do § 2º do mesmo dispositivo legal, que autoriza a realização do julgamento caso a testemunha não seja encontrada no local indicado, se assim for certificado por oficial de justiça - o que ocorreu in casu - e destaca que o Magistrado consignou não haver "mais chance de se localizar a testemunha, mostrando-se necessária a realização do julgamento com base nos seus dois depoimentos documentados" (fl. 967, grifei);
+d) a parte - cientificada da não localização da testemunha no primeiro julgamento que foi adiado - foi inerte ao deixar de tentar apresentar qualquer informação que pudesse levar à sua localização e, "o dispêndio de esforços adicionais pela acusação não legitima a posterior reclamação do defensor de não ter sido comunicado pessoalmente do fracasso da intimação no novo endereço fornecido pelo Ministério Público" (fl. 968, destaquei). O aresto impugnado enfatizou excerto da manifestação do Parquet de que "a defesa quedou-se inerte perante as providências adotadas pela acusação, razão porque seria desnecessária sua intimação" (fl. 966).
+De pronto, é necessário mencionar que, "No âmbito dos recursos especial e extraordinário, o princípio da dialeticidade impõe ao recorrente a obrigatoriedade de rechaçar todos os fundamentos que esteiam o decisum que pretende reformar" (HC n. 396.238/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 27/9/2017).
+Todavia, o insurgente não infirmou, em suas razões recursais, os seguintes argumentos:
+a) a possibilidade da defesa haver apresentado qualquer informação que pudesse levar à localização da testemunha, independentemente dos "esforços adicionais pela acusação" (fl. 968), circunstância que não legitima a posterior reclamação em razão de sua própria inércia, que, segundo entendimento do Ministério Público - chancelado pelo acórdão recorrido -, afastaria a necessidade de sua intimação.
+Acerca de tal explanação, a parte nem sequer esboça alguma irresignação.
+b) a viabilidade de o próprio causídico haver perguntado diretamente à tia do réu (também arrolada para ser inquirida perante o Tribunal do Júri), desde a primeira sessão que foi adiada, acerca do paradeiro da testemunha protegida, porquanto o acusado já havia dito "conhecer a identidade da testemunha protegida há alguns anos" (fls. 966-967).
+Nesse ponto, em seu apelo extremo, a defesa não impugna a justificativa apontada, tendo em vista que se limita a afirmar ser inviável perguntar à tia do ofensor sobre o paradeiro da testemunha, no plenário anterior ou neste, pois "indiretamente estaria desobedecendo ordem legal, no sentido de não se permitir, ao réu, que soubesse o nome da testemunha" (fl. 1.043).
+c) a circunstância de o defensor só citar o caput do art. 461 do CPP, que lhe é conveniente e deixar de considerar o teor do § 2º do mesmo dispositivo legal, que autoriza a realização do julgamento caso a testemunha não seja encontrada no local indicado, se assim for certificado por oficial de justiça - o que ocorreu in casu.
+A defesa, no recurso especial, novamente, apenas invoca a regra prevista no caput do art. 461 do CPP e, pois, não refuta o fundamento indicado, de que o § 2º autoriza a realização do Júri na hipótese ali descrita.
+Assim, incide, por analogia, a Súmula n. 283 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No que tange à assinalada ofensa ao art. 370, § 4º, do CPP, constato que, acerca de tal tema, a instância a quo não se manifestou.
+Conforme reiterada jurisprudência do STJ, para que atenda ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado, o que, como visto, não se deu na espécie.
+Confira-se, a propósito, o seguinte precedente:
+ ..
+1. É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento. Inteligência dos enunciados 211/STJ, 282 e 356/STF.
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 665.385/PR, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 13/4/2015)
+III. Afronta ao art. 593, III, "d", do CPP
+Quanto a este ponto, em consulta processual realizada na página eletrônica deste Superior Tribunal, verifico que houve a impetração do HC n. 355.316/SP, em que figura como paciente [NOME] (ora recorrente), cujos ato apontado como coator e objeto são os mesmos deste recurso especial.
+Registro que o habeas corpus mencionado já foi julgado, e a ordem denegada, em decisão publicada em 5/6/2018, com o seguinte teor:
+ ..
+II. Absolvição - in dubio pro reo
+A Corte local rechaçou a tese defensiva de que a condenação foi contrária à prova dos autos, sob o seguinte fundamento:
+O pedido principal, nesse ponto, é a submissão de [NOME] a novo julgamento pelo Tribunal do Júri Popular, por entender o subscritor das razões recursais que a decisão contrariaria a prova dos autos.
+Considero inviável o desfecho esperado.
+Fosse caso de julgamento por Juiz Singular, me parece que as provas realmente seriam insuficientes para a condenação. Contudo, por opção do Constituinte, os crimes dolosos contra a vida são julgados pelo Tribunal do Júri Popular, que profere decisão soberana, baseada apenas em seu livre convencimento imotivado (artigo 5º, inciso XXXVIII, alíneas c e d, da Constituição da República).
+Assim, a insuficiência probatória sequer consta do rol taxativo de fundamentos para recurso de apelação contra decisão dos Juízes Leigos, nas alíneas do inciso III do artigo 593 do Código de Processo Penal. Embora concorde que seja possível considerar condenação do júri contrária às provas dos autos quando inexistente qualquer prova desfavorável, noto que, na espécie, não foi o que ocorreu.
+Embora vacilante, a testemunha protegida ofertou embasamento à versão acusatória e a credibilidade de seu depoimento foi apreciada pelos nobres Jurados. Trata-se, repito, de opção do legislador Constituinte, a qual não pode ser desrespeitada nem ao menos pela Instância Revisora. Não há que se declarar inidônea a valoração feita pelos jurados da versão apresentada pela testemunha protegida.
+ ..
+Diante do exposto, havendo os jurados optado por uma das versões que lhes foram apresentadas, não vejo como submeter [NOME] a novo julgamento (fls. 56-58, grifei).
+Pela leitura do excerto acima, denoto que a Instância a quo, depois de analisar o arcabouço probatório produzido no curso da ação penal, a despeito de entendê-lo insuficiente para a condenação, concluiu que o Conselho de Sentença, soberano em suas decisões, julgou ser ele bastante para dar credibilidade e embasamento à versão acusatória, a qual acolheu.
+E, nos termos da jurisprudência desta Corte:
+ ..
+2. Interposto recurso de apelação contra a sentença proferida pelo Tribunal do Júri, sob o fundamento de ser manifestamente contrária à prova dos autos, ao órgão recursal se permite apenas a realização de um juízo de constatação acerca da existência ou não de suporte probatório para a decisão tomada pelos jurados integrantes do Conselho de Sentença, somente se admitindo a cassação do veredicto se flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo.
+(HC n. 229.847/RS, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 4/8/2014)
+Tal situação não se observa in casu, pois se concluiu pela condenação do réu no tipo qualificado com lastro em todo o acervo probatório produzido sob o crivo do contraditório e do devido processo legal. Confira-se:
+ ..
+2. Nos processos de competência do Tribunal do Júri, o princípio do duplo grau de jurisdição é limitado pelo princípio da soberania dos veredictos. A anulação do julgamento, quando a decisão dos jurados contrariar à prova dos autos, restringe-se aos casos em que Conselho de Sentença decide absolutamente divorciado dos fatos e provas colhidos nos autos, e não quando dá às provas interpretação divergente.
+ ..
+5. Afirmando o Tribunal a quo a presença de provas no mesmo sentido do julgamento dos jurados não se configura hipótese de julgamento contrário à prova dos autos, não havendo como se infirmar a existência de versões conflitantes nos autos sem o reexame do material cognitivo produzido nos autos, insuscetível em habeas corpus. Precedentes.
+ ..
+8. Habeas corpus não conhecido (HC n. 200.186/SP, Rel. Ministro Nefi Cordeiro, 5ª T., DJe 1º/10/2015).
+Como se isso não bastasse, uma vez que o Tribunal a quo entendeu que a decisão dos jurados se encontrava em conformidade com os fatos e as provas apresentados, desconstituir tal entendimento demandaria a análise do mencionado conteúdo fático-probatório dos autos, providência vedada na estreita via do habeas corpus.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem. (grifos no original)
+Cumpre assinalar que a decisão monocrática foi impugnada por meio de agravo regimental, ao qual o órgão colegiado competente negou provimento e cujo acórdão foi publicado em 2/8/2018.
+Assim, uma que vez que já foi analisada a ofensa ao art. 593, III, "d", do CPP, aduzida neste recurso, entendo que está prejudicada a sua apreciação, pela perda superveniente do seu objeto.
+IV. Dispositivo
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
