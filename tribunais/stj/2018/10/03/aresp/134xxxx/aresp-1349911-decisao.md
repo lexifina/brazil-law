@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA FASE DE CUMPRIMENTO DE SENTENÇA IMPUGNAÇÃO REJEITADA EXCESSO DE EXECUÇÃO NÃO DEMONSTRADO ARTIGO 525, §4º DO CPC - RECURSO NÃO PROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 341, 525, § 4º, do Código de Processo Civil e 1.204 do Código Civil.
+Assim posta a questão, observo que o acolhimento dos argumentos referentes ao excesso de execução não dispensa o reexame de prova. Os agravantes afirmam ter contestado especificamente os valores apresentados pelo agravado e, assim, demonstraram o excesso de execução. Do acórdão recorrido, porém, consta o seguinte (e-STJ fl. 452):
+Com efeito, da análise dos autos constata-se que, iniciada a fase de cumprimento de sentença, os Agravantes ofereceram impugnação alegando excesso de execução, porquanto discordam dos valores apresentados pelo Agravado.
+A insurgência dos agravantes quanto à divergência nos valores apresentados pelo cálculo é absolutamente genérica e não subsiste frente ao exarado no v. acórdão aqui transcrito: "Portanto, deve a r. sentença ser reformada para julgar totalmente procedente a demanda, condenando os Réus ao pagamento das verbas locatícias consubstanciadas no demonstrativo de débito acostado a fls. 06, acrescidas de juros de mora de 1% ao mês contados da citação, mantendo-se a rescisão do contrato e a decretação do despejo."
+Tal decisão fora ainda complementada nos seguintes termos: "A cobrança dos aluguéis e respectivos encargos é cabível até a imissão na posse do imóvel, com correção monetária incidindo sempre a partir de cada mês vencido e juros de mora a partir da citação, na proporção de 1% ao mês." Nesse contexto, interpreta de maneira errônea a questão da imissão na posse, uma vez que esta é considerada apenas como termo final da locação, e não como termo inicial do contrato.
+Logo, nos termos do artigo 525, V, e § 4º, do Código de Processo Civil, quando o executado alegar excesso de execução deve declarar o valor que entende correto, apresentando demonstrativo discriminado e atualizado de seu cálculo, o que não fez no caso em comento.
+Não há como apresentar, em recurso especial, o valor correto da execução que não foi apresentado perante as instâncias ordinárias. Afastar as conclusões transcritas é inviável em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
