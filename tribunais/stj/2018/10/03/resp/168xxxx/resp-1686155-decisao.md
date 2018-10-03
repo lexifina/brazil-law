@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FUNDAÇÃO EDSON QUEIROZ, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+EMENTA: TRIBUTÁRIO. II, IPI, PIS E COFINS. IMPORTAÇÃO DE MERCADORIAS. IMUNIDADE. SOCIEDADE CIVIL. ARTS. 195, § 7º, CF/88 E 55 DA LEI Nº 8.212/91. REQUISITOS NÃO-PREENCHIDOS. AUSÊNCIA DO CERTIFICADO DE ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL - CEAS. PRECEDENTES DO STJ E DESTA CORTE.
+1. A sentença denegou segurança que pretendia liberar mercadoria importada sem o pagamento do II, do IPI, do PIS e da COFINS.
+2. A jurisprudência do colendo STJ e desta Corte é vasta e pacífica na linha de que o certificado concedido à entidade filantrópica ou de assistência social, conforme exigência do art. 55 da Lei nº 8.212/91, confere-lhe a imunidade de que trata o art. 195, § 1 da Carta Magna, afastando a exigibilidade das contribuições para a seguridade social.
+3. Não basta que se alegue que ser uma sociedade civil sem finalidade lucrativa.
+4. Não atendidos os requisitos do art. 55 da Lei nº 8.212/91 (in casu, ausência do Certificado de Entidade Beneficente de Assistência Social - CEAS - expedido pelo Conselho Nacional de Assistência Social - CNAS), é de se manter existência de relação jurídica para cobrança dos tributos e contribuições, cujos créditos são exigíveis.
+5. Apelação não-provida.
+No julgamento encimado restou consignado, em suma, que a falta de juntada do Certificado de Entidade Beneficente de Assistência Social - CEAS, implica a não comprovação da natureza filantrópica ou de assistência social que viabilizaria a importação com imunidade tributária, sendo exigível a cobrança das exações.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial, o recorrente aponta violação do art. 1022, II do CPC/2015, aduzindo, em resumo, que o Tribunal de origem foi omisso quanto a análise dos arts. 142 do CTN; 1º, §3º, I da Lei n. 9.703/98, destacando que a omissão diz respeito à ilegalidade na conduta do Fisco de reter as mercadorias para forçar o recolhimento dos tributos incidentes na operação de importação.
+Indicou, ainda, malferimento dos arts. 142 do CTN; 9º, do Decreto n. 70.235/1972; 1º, §3º, I da Lei n. 9.703/98.
+Sustenta, em síntese, que é ilegal a apreensão de mercadorias como meio de coação para forçar o contribuinte a recolher tributos, haja vista que cabe à autoridade fiscal efetuar a cobrança dos créditos tributários por meio da lavratura do auto de infração ou ajuizamento da execução fiscal, sob pena de violação do art 142 do CTN. Afirma, ainda, que o fato de a administração tributária não ter lavrado o auto de infração acarretou violação do art. 9º do decreto n. 70.235/1972.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+ Assiste razão ao recorrente, no que toca à alegada violação ao art. 1022, II, do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a ilegalidade ou não da apreensão das mercadorias a fim de forçar o recolhimento das exações. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
