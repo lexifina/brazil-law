@@ -1,0 +1,31 @@
+EMENTA
+EMBARGOS DECLARATÓRIOS NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO. INCONFORMISMO COM O JULGADO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+2. O que se verifica, em verdade, é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida pela egrégia Quinta Turma.
+Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de embargos de declaração opostos contra o acórdão proferido por esta Quinta Turma, de minha relatoria, assim ementado:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. IRREGULARIDADES DA PRISÃO EM FLAGRANTE. NEGATIVA DE AUTORIA. NULIDADE DO RECONHECIMENTO REALIZADO PELAS VÍTIMAS. SUBSTITUIÇÃO DO ENCARCERAMENTO POR PRISÃO DOMICILIAR. DESPROPORCIONALIDADE DA SEGREGAÇÃO. DESCLASSIFICAÇÃO PARA O TIPO PENAL DE RECEPTAÇÃO. TESES NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO RECORRENTE. MODUS OPERANDI. RISCO AO MEIO SOCIAL. GARANTIA DA ORDEM PÚBLICA. INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. As alegações referentes à irregularidades praticadas pela autoridade policial quando da prisão em flagrante, a negativa de autoria, a nulidade do reconhecimento realizado pelas vítimas, a substituição do encarceramento por prisão domiciliar, e a desproporcionalidade da segregação em razão da possibilidade, em caso de condenação, de desclassificação para o tipo penal de receptação, não foram apreciadas pelo Tribunal de origem, o que obsta a análise por esta Corte Superior, sob risco de se incorrer em indesejável supressão de instância.
+2. Considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+3. In casu, presentes elementos concretos a justificar a imposição da segregação antecipada. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a gravidade da conduta perpetrada a revelar a periculosidade do recorrente. Note-se que o delito de roubo de carga teria sido praticado em comparsaria, mediante ameaça e restrição à liberdade das vítimas, circunstâncias que justificam a segregação antecipada para resguardar o meio social.
+4. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+5. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+Recurso ordinário em habeas corpus parcialmente conhecido e, nessa extensão, desprovido (fls. 204/205).
+O embargante alega que o acórdão impugnado incorreu em omissão e erro material ao não conhecer das teses relativas à ilegalidade do flagrante, negativa de autoria e desclassificação para o crime de receptação, porquanto os temas foram efetivamente apreciados pela Corte de origem, que superou as ilegalidades apontadas, não havendo a apontada supressão de instância.
+Afirma que todas as questões acima apontadas estão "inseridas na controvérsia do reconhecimento realizado pelas supostas vítimas" (fl. 228), que foi apreciado e rechaçado pelo Tribunal Estadual.
+Pretende, assim, o acolhimento dos embargos, com efeitos modificativos, para que o recurso ordinário seja conhecido integralmente e provido, com a concessão da liberdade ao recorrente.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+No caso em espécie, não se verifica a apontada omissão.
+Com efeito, o Tribunal estadual, ao julgar o mandamus que deu origem ao presente recurso, não se manifestou sobre as teses ora apresentadas em sede de recurso ordinário relativas a irregularidades praticadas pela autoridade policial quando da prisão em flagrante, a negativa de autoria, a nulidade do reconhecimento realizado pelas vítimas, a substituição do encarceramento por prisão domiciliar, e a desproporcionalidade da segregação em razão da possibilidade, em caso de condenação, de desclassificação para o tipo penal de receptação.
+O decisum, embora extenso, limitou-se a discutir a fundamentação da custódia cautelar. Desta forma, impossível conhecer das apontadas ilegalidades, sobre o risco de incorrer-se em insuperável supressão de instância.
+Anote-se, por oportuno, que o trecho do acórdão recorrido colecionado pelo embargante, menciona o reconhecimento dos réus, sem contudo debater sua legalidade, ou qualquer dos temas cujo conhecimento ora se busca.
+Dessa forma, não há falar em omissão no julgado, uma vez que foram explicitados de forma clara as razões de decidir. Assim, o que se verifica é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida pela Quinta Turma.
+Ante o exposto, voto no sentido de rejeitar os embargos de declaração.
