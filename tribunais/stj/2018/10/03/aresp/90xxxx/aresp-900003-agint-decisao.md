@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. TERRENO DE MARINHA. DEMARCAÇÃO. ILHA COSTEIRA. SÃO LUÍS/MA. EFEITOS EX NUNC DA MEDIDA CAUTELAR CONCEDIDA NA ADI 4.264-PE. OFENSA AO ART. 535 DO CPC/1973 CARACTERIZADA. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL DA UNIÃO.
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial interposto pela UNIÃO contra decisão que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. TERRENO DE MARINHA. DEMARCAÇÃO. ILHA COSTEIRA. SÃO LUÍS/MA. ART. 535, II DO CPC. INOCORRÊNCIA DE OMISSÃO. INVERSÃO DO JULGADO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO DA UNIÃO DESPROVIDO.
+2. A parte agravante requer a reconsideração da decisão agravada uma vez que o acórdão foi omisso ao não se pronunciar a respeito da análise da eficácia ex nunc da decisão proferida nos autos da ADI 4.264/PE, nos termos do art. 11, § 1o. da Lei 9.868/1999.
+3. É o relatório.
+4. Em face das razões de fls. 270/272, reconsidera-se a decisão de fls. 263/265, e passa-se a reapreciação da questão.
+5. Trata-se na origem de Ação Ordinária que pretende a suspensão dos efeitos do cadastramento do imóvel objeto da demanda como terreno de marinha pertencente à UNIÃO, para afastar a cobrança de taxas de ocupação e laudêmio.
+6. Da análise dos autos, verifica-se que não foram apreciadas pela Corte de origem as questões suscitadas nos Embargos de Declaração, motivo pelo qual merece prosperar o Recurso Especial por violação do art. 535 do CPC/1973.
+7. Com efeito, nos Embargos de Declaração, foi expressamente solicitada a manifestação do Colegiado acerca dos efeitos ex nunc da medida cautelar concedida na ADI 4.264-PE, que entendeu atentatória aos princípios do contraditório e da ampla defesa a convocação dos interessados por meio de edital nos procedimentos demarcatórios de terrenos de marinha, produzindo efeitos somente a partir da data de publicação do julgamento.
+8. Entretanto, o Tribunal de origem entendeu que os Embargos de Declaração opostos pretendiam o reexame do Acórdão Recorrido, não havendo esclarecimento quanto aos pontos omissos, persistindo a irregularidade apontada.
+9. Assim, tendo o acórdão recorrido permanecido omisso quanto aos efeitos da medida cautelar concedida na ADI 4.264-PE, resta caracterizada a violação do art. 535 do CPC/1973, devendo ser anulado do acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para que analise as questões suscitadas.
+10. Ante o exposto, dá-se provimento ao Agravo Interno para conhecer do Agravo da UNIÃO e dar parcial provimento ao seu Recurso Especial, a fim de anular o acórdão proferido nos Embargos de Declaração, determinando o retorno dos autos ao Tribunal de origem para sanar o vício acima apontado.
+11. Publique-se.
+12. Intimações necessárias.
