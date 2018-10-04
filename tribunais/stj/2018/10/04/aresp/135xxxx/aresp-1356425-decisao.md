@@ -1,0 +1,11 @@
+DECISÃO
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto com fulcro no art. 105, III, a da Constituição Federal, objetivando a reforma de acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. SEGURADO ESPECIAL. EXERCÍCIO DE ATIVIDADE RURAL NÃO COMPROVADO. REQUISITOS NÃO PREENCHIDOS.
+Não restando comprovado nos autos por início de prova material o exercício da atividade laborativa rurícola na condição de segurado especial no período equivalente à carência, não há como ser concedida a aposentadoria rural por idade.
+2. Nas razões do seu Apelo Especial, se insurge a recorrente ao argumento de que a legislação não traz qualquer óbice quanto à possibilidade de cumulação da aposentadoria pelo regime próprio com a aposentadoria por idade rural.
+3. É o relatório.
+4. Em suas razões recursais a recorrente defende que o que não se admite é a cumulação de benefícios com idêntico fato gerador, não sendo o caso da recorrente. Ainda mais que a Recorrente, após a concessão da aposentadoria como Professora Municipal - regime estatutário, exerceu exclusivamente a profissão de agricultora juntamente com o esposo e filhos até a data de 18.3.2009 quando postulou a aposentadoria rural, data que comprovou o período de trabalho rural contínuo de 179 meses de contribuição, período mais que suficiente á concessão do beneficio, conforme previsto nos artigos 142 e 143 da Lei 8.213/1991.
+5. Ocorre que a Corte de origem, como bem destaca o acórdão, é clara ao consignar que não se trata, no caso, da vedação à cumulação de aposentadorias de regimes distintos, mas sim da impossibilidade de a autora, titular de proventos decorrentes de regime próprio, pleitear o reconhecimento de sua qualidade de Segurada Especial para fins de concessão do benefício de aposentadoria por idade, nos termos do art. 11, § 10, c da Lei 8.213/1991.
+6. Contudo esse fundamento autônomo e suficiente à manutenção do aresto recorrido não foi impugnado nas razões do Recurso Especial, permanecendo, portanto, incólume. Dessa forma, aplicável, na espécie, por analogia, a Súmula 283 do STF.
+7. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+8. Publique-se. Intimações necessárias.
