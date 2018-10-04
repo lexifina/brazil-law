@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ICMS. INCIDÊNCIA NA BASE DE CÁLCULO DO PIS E DA COFINS. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO DE VALORES RECOLHIDOS ANTERIORMENTE À IMPETRAÇÃO. . EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES.
+DECISÃO
+Cuida-se de embargos de declaração opostos por TV Jangadeiro Ltda, contra decisão que negou seguimento ao recurso especial, assim ementada (fl. 1592):
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. INCIDÊNCIA NA BASE DE CÁLCULO DO PIS E DA COFINS. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO DE VALORES RECOLHIDOS ANTERIORMENTE À IMPETRAÇÃO. RECURSO A QUE SE NEGA SEGUIMENTO.
+Em suas razões, sustenta a existência de erro material/contradição, porquanto, o julgador claramente se posicionou no sentido de reconhecer o direito de a EMBARGANTE realizar a compensação dos créditos oriundos desta demanda perante a Receita Federal do Brasil. No entanto, no trecho final da parte dispositiva da decisão ora embargada, o Relator negou seguimento ao recurso, o que, claramente, consiste em um erro material da decisão, uma vez que toda a fundamentação foi no sentido oposto a este entendimento.
+É o relatório. Decido.
+Depreende-se do art. 1.022 do CPC/15, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, erro material ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no art. 489, § 1º, do referido diploma legal, que configurariam a carência de fundamentação válida.
+In casu, verifico que assiste razão à parte embargante.
+Com efeito, colaciono trecho da decisão ora embargada (1592-1597):
+ ..
+Por seu turno, afasta-se a alegada violação do artigo 535 do CPC/73, porquanto o acórdão recorrido, mesmo sem ter examinado individualmente cada um dos argumentos suscitados, manifestou-se, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, apenas não adotando a tese defendida pelo recorrente. ..
+Quanto ao tema, o Tribunal de origem afirmou que (fl. 1.411):
+No entanto, não podendo a segurança visar à recuperação de valores recolhidos antes de sua impetração, até porque não pode substituir a ação de cobrança, não é possível deferir-se pretenso direito à compensação. Quando muito se admite apenas a declaração de compensabilidade dos valores indevidamente recolhidos, sem defini-los, o que esvazia de sentido prático a concessão, mera repetição do comando abstrato da lei.
+Deste modo, em razão do efeito vinculatório que imprime a referenciada decisão a todo o Poder Judiciário, resta imperiosa a reforma da sentença em comento.
+Mercê do exposto, DOU PARCIAL PROVIMENTO à apelação para deferir em parte a segurança, assegurando ao impetrante a não inclusão do valor do ICMS incidente no desembaraço aduaneiro na base de cálculo do PIS-Importação e da COFINS-Importação, indeferindo, porém, pretenso direito à compensação.
+Deve-se observar que o direito da impetrante só nascerá com o trânsito em julgado da sentença que reconheceu a existência do indébito tributário, daí porque não há falar que a comprovação de pagamentos anteriores à impetração para fins de compensação tributária tenha o condão de transformar o mandado de segurança em ação de cobrança, mormente porque só poderiam ser oponíveis ao fisco após a declaração de que os pagamentos foram indevidos. Não incide, pois, as Súmulas n. 269 e n. 271 do STF.
+ ..
+Assim, constatado e declarado que houve pagamento indevido, o que está em consonância com o entendimento firmado pela Primeira Seção no julgamento do REsp 1.230.957/RS (art. 543-C do CPC), pode a impetrante fazer prova junto a administração dos recolhimentos indevidos e pedir a compensação tributária. A liquidez e certeza dos respectivos créditos ficará submetido ao crivo da autoridade fiscal.
+Verifica-se portanto, que quanto ao mérito, a decisão concluiu que: "constatado e declarado que houve pagamento indevido, o que está em consonância com o entendimento firmado pela Primeira Seção no julgamento do REsp 1.230.957/RS (art. 543-C do CPC), pode a impetrante fazer prova junto a administração dos recolhimentos indevidos e pedir a compensação tributária. A liquidez e certeza dos respectivos créditos ficará submetido ao crivo da autoridade fiscal."
+Assim, onde se lê na ementa "recurso especial a que se nega seguimento", leia-se "recurso especial parcialmente provido" e na parte dispositiva: "nego seguimento ao recurso", leia-se: "recurso parcialmente provido, nos termos da fundamentação".
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, para sanar erro material apontado.
+Publique-se. Intimem-se.
