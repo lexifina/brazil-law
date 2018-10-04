@@ -1,0 +1,14 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 544, § 4o., I DO CPC. SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por CRISTIANO CAJU FREITAS, [NOME], com fundamento no art. 105, III, a e c da Constituição Federal, contra o acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Rio Grande do Sul, no qual se objetiva a revisão dos honorários advocatícios fixados na origem, em razão de sua irrisoriedade.
+2. Inobstante o inconformismo dos agravantes, seu recurso não comporta conhecimento, uma vez não atendido o pressuposto recursal da regularidade formal, no caso, consistente no combate específico e particularizado a cada um dos fundamentos que subsidiaram a inadmissão do recurso para o qual se busca o trânsito a esta Corte, nos termos do art. 544, § 4o., I do CPC/1973 e do enunciado 182 da Súmula de jurisprudência deste Tribunal, neste caso, por analogia. Confiram-se os julgados abaixo:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO OBJETIVA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA E REPETIÇÃO, COM PEQUENOS ACRÉSCIMOS, DO ARRAZOADO EXPENDIDO NO RECURSO ESPECIAL. SÚMULA 182/STJ CORRETAMENTE APLICADA PELA DECISÃO AGRAVADA. RECURSO IMPROVIDO.
+1. Se a agravante se limita a repetir, ipsis literis, as razões do especial, sem demonstrar qualquer peculiaridade que diferenciasse a hipótese em exame das demais situações que levaram à aplicação dos verbetes citados pelo magistrado a quo quando da inadmissão do recurso especial, é incidente a Súmula n. 182 do Superior Tribunal de Justiça (AgRg no Ag 1.005.201/PR, Rel. Min. MAURO CAMPBELL MARQUES, DJe 24.09.2008).
+(..).
+3. Agravo Regimental improvido (AgRg no Ag 1.139.882/SP, Rel. Min. LUIS FELIPE SALOMÃO, DJe 10.05.2010).
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182 DO STJ. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 535 DO CPC. OMISSÃO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO (EDcl no Ag 1.303.172/BA, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 07.03.2012).
+3. No caso, restou incólume o único fundamento lançado na decisão agravada para a inadmissão do recurso, qual seja, de que a valoração na justiça na fixação dos honorários é matéria de fato, que diz com as circunstâncias próprias da causa, sendo incabível sua reapreciação na via do recurso especial, ante a incidência da Súmula 07/STJ.
+4. Ante o exposto, com fundamento no art. 34, VII do RISTJ, bem como no art. 544, § 4o., I do CPC/1973, não se conhece o Agravo em Recurso Especial.
+5. Publique-se.
+6. Intimações necessárias.
