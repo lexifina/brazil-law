@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] - preso cautelarmente por suposta infração ao art. 121, § 2º, I e IV, do Código Penal - contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. [CPF]) que denegou a ordem originária, nos termos da seguinte ementa (e-STJ fl. 776):
+PRONÚNCIA. RECURSO EM LIBERDADE. RÉU PRESO PROVISORIAMENTE. IMPOSSIBILIDADE.
+Se o paciente está preso provisoriamente ao tempo da sentença de pronúncia, não é criticável a decisão do Julgador de lhe negar o direito de aguardar recurso em liberdade. A manutenção da custódia cautelar decorre da situação em que se encontra o pronunciado: detido preventivamente. Se quando a pronúncia, uma quase condenação, ainda era uma hipótese, havia motivos para mantê-lo detido preventivamente, com mais razão agora, quando ela se torna real (a pronúncia). É a hipótese em julgamento.
+DECISÃO: Habeas corpus denegado. Unânime.
+Nas razões do presente recurso, a defesa alega, em síntese, que a sentença de pronúncia não apresentou fundamentação idônea para a manutenção da custódia cautelar.
+Sustenta que os fundamentos utilizados para manter a prisão do recorrente foram os mesmos apontados no decreto prisional, mas que, diante do lapso temporal, não se mostra mais razoável.
+Diante disso, requer a revogação da prisão preventiva do recorrente.
+Indeferida a liminar (e-STJ fls. 827/829), o Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 835/842).
+É o relatório. Decido.
+De plano, verifico que nesta Corte também houve a interposição do RHC n. 90.414/RS, em favor do ora recorrente, requerendo igualmente a revogação da prisão preventiva, sendo que a 5ª Turma desta Corte, em 24/5/2018, negou provimento ao recurso, nos termos da seguinte ementa:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. NEGATIVA DE LIBERDADE. FUNDAMENTOS DO DECRETO DE PRISÃO PREVENTIVA MANTIDOS. AUSÊNCIA DE NOVO TÍTULO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. RÉU REINCIDENTE. RISCO DE REITERAÇÃO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. IRRELEVÂNCIA. RECURSO IMPROVIDO.
+1. Conforme precedente desta Quinta Turma, a superveniência de sentença de pronúncia ou condenatória não constituirá "título novo", de modo a prejudicar o conhecimento do habeas corpus, se a ela nenhum fundamento novo for acrescentado (HC 288.716/SP, Rel. Ministro NEWTON TRISOTTO - Desembargador Convocado do TJ/SC -, Quinta Turma, julgado em 25/11/2014, DJe 1º/12/2014).
+2. Na hipótese, os fundamentos utilizados na sentença de pronúncia, quanto à necessidade da prisão, em nada inovaram quanto ao decreto constritivo originário, apenas negando o direito do recurso em liberdade. Não é o caso, portanto, de se julgar prejudicado o mandamus.
+3. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+4. Na espécie, verifica-se que as decisões precedentes encontram-se fundamentadas na garantia da ordem pública, considerando as circunstâncias do caso concreto, notadamente (i) pela gravidade concreta da conduta (homicídio ligado a um contexto de consolidação de poder para exploração de tráfico) e (ii) pelo efetivo risco de voltar a cometer delitos, porquanto o mesmo possui condenação definitiva por tráfico -, elementos que evidenciam a sua periculosidade social, justificando-se, nesse contexto, a segregação cautelar como forma de resguardar a ordem pública.
+5. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública.
+6. Recurso improvido.
+Assim, por se tratar de mera reiteração, o presente recurso não pode prosseguir. Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido (AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1o/9/2015, DJe 22/9/2015).
+Ante o exposto, nego seguimento ao presente recurso.
+Publique-se. Intime-se.
