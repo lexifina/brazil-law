@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. RECONSIDERAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SUPOSTO CERCEAMENTO DE DEFESA. PLEITO DE PRODUÇÃO DE PROVA TESTEMUNHAL. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO ACOLHIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E ASSIM DEIXAR DE CONHECER DO RECURSO ESPECIAL. MAJORAÇÃO DE HONORÁRIOS.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interno, manejado por [NOME] VIANA, em face de decisão da Presidência desta Corte superior (e-STJ fls. 569-570) que deixou de conhecer do agravo em recurso especial haja vista a ausência de impugnação específica a fundamento da decisão de admissibilidade do apelo nobre.
+Diante da argumentação expendida no presente recurso (e-STJ fls. 774-793), constata-se a suficiente impugnação da decisão que inadmitiu o recurso especial, razão pela qual reconsidero a decisão agravada e passo à nova análise da insurgência recursal.
+O agravo em recurso especial foi interposto contra decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul que negou seguimento ao recurso especial fundamentado nas alíneas "a" e "c" do inciso III, do artigo 105, da Constituição Federal, contra acórdão assim ementado:
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C DECLARAÇÃO DE NULIDADE DE ESCRITURA PÚBLICA C/C INDENIZAÇÃO POR PERDAS E DANOS - ALEGAÇÃO DE CERCEAMENTO DE DEFESA - AUSÊNCIA DE PRODUÇÃO DE PROVA TESTEMUNHAL E DESIGNAÇÃO DE AUDIÊNCIA DE CONCILIAÇÃO - PRELIMINAR DE PRECLUSÃO CONSUMATIVA ARGUIDA EM CONTRARRAZÕES DE APELAÇÃO - DECISÃO INTERLOCUTÓRIA DE INDEFERIMENTO DE PROVAS E SANEAMENTO DO FEITO - INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO - NÃO CONHECIMENTO DO AGRAVO - ACOLHIMENTO DA PRELIMINAR DE PRECLUSÃO CONSUMATIVA - RECURSO NÃO CONHECIDO. (e-STJ fl. 663)
+Nas razões do recurso especial, a parte recorrente alega violação aos artigos 1.022, II, 489, § 1º, IV, 373, I, e 1.013 do Código de Processo Civil de 2015, sustentando, em síntese, a existência de omissão no acórdão recorrido quanto à aplicação da prova e que teria ocorrido cerceamento de defesa uma vez que seria imprescindível a produção de provas e oitiva de testemunhas na hipótese dos autos (e-STJ fl. 704).
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não pode prosperar.
+Inicialmente, quanto à alegada violação dos artigos 1.022 e 489 do CPC/2015, constata-se ter a parte recorrente registrado inconformismo com a conclusão alcançada no acórdão vergastado sem que, contudo, tenha logrado êxito em apontar qualquer omissão, obscuridade ou contradição que pudesse configurar violação ao apontado dispositivo legal.
+Com efeito, a alegação de afronta ao art. 1.022 do CPC/2015 sem a adequada indicação da questão federal controvertida, impede o conhecimento do recurso especial ante a deficiência na fundamentação, o que atrai a incidência da Súmula 284/STF, por analogia.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. VALOR DO CONTRATO. RADIOGRAFIA. DOCUMENTO UNILATERAL. LIMITE DOS RENDIMENTOS. TRÂNSITO EM JULGADO. TRANSFORMAÇÕES ACIONÁRIAS. INCLUSÃO DEVIDA. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. No caso, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. (..).
+4. Agravo interno não provido. (AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe 24/02/2017)
+
+Ademais, não é possível conhecer do recurso especial em que se alega cerceamento de defesa com base na necessidade de produção de prova testemunhal, isso porque analisar o pleito da parte recorrente demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado a teor da Súmula 7 do STJ.
+Nesse sentido,
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. CONTRATO DE SEGURO DE VIDA EM GRUPO. PRESCRIÇÃO DECENAL. AGRAVO NÃO PROVIDO.
+1. O juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 130 do CPC.
+2. (..).
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 567505/RS, Relator: Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/08/2015, DJe de 16/09/2015)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMISSÃO. INTERMEDIAÇÃO EM CONTRATAÇÃO DE JOGADOR DE FUTEBOL. DÍVIDA COMPROVADA. QUESTIONAMENTOS ACERCA DO PERCENTUAL DEVIDO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. In casu, não ocorreu cerceamento do direito de defesa, na medida em que o Juiz de piso, sendo o destinatário da prova, entendeu pela desnecessidade de produção de prova testemunhal, única reclamada pelos promovidos, para comprovação do percentual correto da comissão comprovadamente devida.
+2. "A avaliação da suficiência dos elementos probatórios produzidos e o indeferimento de outras provas demanda o reexame fático-probatório dos autos, sendo certo que o magistrado é o destinatário da prova, cabendo a ele decidir acerca dos elementos necessários à formação do próprio convencimento" (AgInt no AREsp 1.003.670/MT, Relator Min. Paulo de Tarso Sanseverino).
+3. Agravo interno desprovido. (AgInt no AgInt no AREsp 1070572/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017).
+Ante o exposto, dou provimento ao agravo interno para conhecer do agravo em recurso especial e DEIXAR DE CONHECER do recurso especial.
+Considerando a prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração de 12% (doze porcento) (e-STJ 671) para 15% (quinze porcento) do valor atualizado da causa, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+ Intimem-se.
