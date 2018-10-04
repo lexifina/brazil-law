@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ROBERTO PIMENTA DE PÁDUA JÚNIOR, em face de decisão de fls. 554/559.
+Em suas razões, o embargante alega que não foram devidamente esclarecidos os motivos para a retirada da indenização pelos danos morais sofridos.
+Intimada à fl. 568, não houve impugnação da parte embargada (certidão de fl. 570).
+O recurso não merece prosperar.
+Da leitura dos autos, não identificado, na decisão embargada, nenhum dos vícios necessários ao conhecimento dos embargos declaratórios, a teor do art. 1022 do Código de Processo Civil/2015, adstrito à correção de omissão, contrariedade, obscuridade ou, ainda, erro material. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FALÊNCIA. IMPONTUALIDADE. TÍTULO EXECUTIVO JUDICIAL. EXECUÇÃO FRUSTRADA. DESNECESSIDADE. LIQUIDEZ DO TÍTULO. SIMPLES CÁLCULO ARITMÉTICO PARA INCLUSÃO DO VALOR DOS ENCARGOS E ABATIMENTO DOS PAGAMENTOS PARCIAIS. ACLARATÓRIOS. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. DESCABIMENTO. (..) 2. Ausentes as hipóteses insertas no art. 535 do CPC, inexistindo omissão, contradição ou obscuridade, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, onde se objetiva rediscutir a causa já devidamente decidida. 3. Caráter manifestamente protelatório dos embargos de declaração, ensejando a aplicação da multa prevista no artigo 538, parágrafo único, do CPC. 4. Embargos de declaração rejeitados, com aplicação de multa. (EDcl no AgRg no Ag 1073663/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2011, DJe 16/08/2011)
+Observe-se que em sua petição o embargante, sequer, demonstra omissão, obscuridade ou contradição no julgado embargado, fazendo arguições genéricas e sem similitude com o disposto no art. 1022 do Código de Processo Civil/2015.
+A decisão embargada abordou, expressamente, as questões que se pretenderam discutidas no especial, estando assim redigida (fls. 554/559):
+Trata-se de recurso especial interposto por GAFISA S.A., contra acórdão assim ementado (fl. 412):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS PELO RITO SUMÁRIO.
+COMPRA E VENDA DE IMÓVEL. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS INICIAIS. PLEITO DE ALTERAÇÃO DA DATA DE MORA DA CONSTRUTORA - INÍCIO APÓS TOLERÂNCIA DE 180 DIAS - ENCERRADA A MORA COM A EFETIVA ENTREGA DAS CHAVES E IMISSÃO DA POSSE - ACOLHIDO.
+LUCROS CESSANTES - DEVIDO PELO QUE RAZOAVELMENTE DEIXOU DE GANHAR. DANO MORAL CONFIGURADO - IMÓVEL ENTREGUE APÓS A DATA DO CASAMENTO - PRAZOS CONTRATUAIS DESCUMPRIDOS PELA CONSTRUTORA - ATRASO NA OBRA - EXISTÊNCIA DE FATOS CONSTITUTIVOS CONFIGURADOS. REFORMA DA SENTENÇA.
+INVERSÃO DO ÔNUS DA SUCUMBÊNCIA.
+RECURSO PROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 436/443).
+Em suas razões, a recorrente alega afronta aos arts. 186, 403, 844, 927 e 944 do Código Civil, bem como dissídio jurisprudencial. Afirma que a "verificação da ocorrência de atraso na entrega de empreendimento imobiliário NÃO é, por si só, apta a atingir a esfera moral do indivíduo" (fl. 451). Acrescenta que "verifica-se a impossibilidade de fixação de danos materiais a título de lucros cessantes de um valor mensal locatício por mês de atraso fixado em R$ 3.000,00 (três mil reais), VALOR QUE NÃO CORRESPONDE À REALIDADE ECONÔMICA DO MERCADO IMOBILIÁRIO" (fls. 455/456), sendo "latente a necessidade de liquidação de sentença in casu para a correta percepção do valor a ser fixado para cálculo dos lucros cessantes, sob pena de enriquecimento sem causa do Recorrido" (fl. 456). Pretende, caso mantida a condenação em danos morais, a redução do valor fixado em R$ 10.000,00 (dez mil reais).
+Passo a decidir.
+O Tribunal de origem, com base nos fatos e provas dos autos, fixou os lucros cessantes, assim se pronunciando (fls. 417/422):
+18. O apelante pleiteia o pagamento de lucros cessantes, correspondente ao equivalente ao valor do aluguel que obteria com a locação do imóvel durante o período de atraso na obra.
+Ainda sustenta que o valor dos alugueres do imóvel corresponde ao valor mensal de R$ 3.000,00, o qual deve ser corrigido monetariamente e com incidência de juros de mora.
+19. Merece prosperar.
+20. Consoante o artigo 402 do Código Civil, as perdas e danos abrangem tudo aquilo que a vitima perdeu e o que deixou de lucrar:
+(..)
+25. Dessa forma, é devida a indenização pelos lucros cessantes ante o atraso na entrega na obra, conforme o pedido do apelante, o qual não foi rebatido pelo apelado em relação ao valor atribuído, tendo em vista a renúncia do prazo para contrarrazões (seq. 86).
+26. Assim, fixo o valor dos Lucros Cessantes em R$ 3.000,00 (três mil reais) mensais, o equivalente a alugueres, durante o período de mora, ou seja, de junho/2011 até agosto/2012.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. Seguindo a mesma orientação:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Inviável a interpretação de cláusulas contratuais e o reexame de matéria de fato em sede de recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+2. O valor arbitrado a título de reparação civil observou os critérios de proporcionalidade e de razoabilidade, além de estar compatível com as circunstâncias narradas no acórdão, não se revelando exorbitante. Assim, a sua eventual redução demandaria a reanálise de provas, o que é vedado em recurso especial ante o óbice da Súmula 7/STJ.
+3. Na hipótese, o Tribunal local seguiu orientação desta Corte, no sentido de que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83/STJ.
+3.1. A conclusão do órgão julgador quando ao termo final do pagamento dos lucros cessantes resultou da análise das circunstâncias fáticas, bem como da interpretação de cláusulas contratuais. Incidência das Súmulas 5 e 7 do STJ.
+4. Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento, a teor do disposto na Súmula 543 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1114698/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018)
+Observe-se que a conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que o atraso na entrega do imóvel acarreta a indenização pelos lucros cessantes que, somente pode ser afastada, em caso de comprovação de que o atraso não se deu por culpa da empreendedora. Nessa direção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA. ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. LUCROS CESSANTES. CABIMENTO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A jurisprudência consolidada neste Sodalício é no sentido de que a inexecução do contrato de promessa de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta, além de dano emergente, figurado nos valores das parcelas pagas pelo promitente-comprador e lucros cessantes. Há presunção de prejuízo do promitente-comprador, cabendo ao vendedor, para se eximir do dever de indenizar, fazer prova de que a mora contratual não lhe é imputável. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1075056/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2017, DJe 18/08/2017)
+Acrescente-se que não foram devidamente impugnadas as razões expostas pela origem, não havendo a recorrente combatido a afirmativa de que o valor requerido pelo apelante, a título de lucros cessantes, "não foi rebatido pelo apelado (..), tendo em vista a renúncia do prazo para contrarrazões (seq. 86). Assim, inviável o provimento do especial, também, por aplicação da Súmula 283/STF.
+No mais, quanto à lesão moral, assiste razão à recorrente.
+A jurisprudência desta Corte entende que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Orienta, ainda, a jurisprudência que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis. Confiram-se, a propósito, os seguintes precedentes:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSABOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19.2.2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27.10.2015)
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou parcial provimento ao recurso especial, a fim de afastar da condenação os danos morais. Em face da sucumbência recíproca, redistribuo os honorários advocatícios fixados à razão de 20% (vinte por cento) para o ora recorrido; e 80% (oitenta por cento) para a ora recorrente.
+Intimem-se.
+Em face do exposto, não configurado vício no julgado ora embargado, rejeito os embargos de declaração.
+Intimem-se.
