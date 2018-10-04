@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por MAILSON SIQUEIRA DA CRUZ, contra v. acórdão proferido pelo eg. Tribunal de Justiça de Minas Gerais.
+Depreende-se dos autos que o recorrente teve sua prisão em flagrante convertida em preventiva e, posteriormente, foi denunciado pela prática, em tese, dos delitos tipificado no artigo 33, caput, da Lei n. 11.343/06, e no art. 14 da Lei n. 10.826/03.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da decisão que decretou a prisão preventiva do ora recorrente. O eg. Tribunal de origem, à unanimidade, denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS - PRISÃO EM FLAGRANTE DELITO - TRÁFICO DE SUBSTÂNCIA ENTORPECENTE - PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO - ACUSADO QUE RESPONDE A INQUÉRITO POLICIAL POR DELITO DA MESMA NATUREZA - LIBERDADE PROVISÓRIA - BENEFICIO ANTERIORMENTE CONCEDIDO - QUEBRA DE COMPROMISSO - PERICULOSIDADE DO AGENTE CONSTATADA - NECESSIDADE DE CONSTRIÇÃO DA LIBERDADE COMO GARANTIA DA ORDEM E SAÚDE PÚBLICAS E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL - DECISÃO FUNDAMENTADA - LIBERDADE PROVISÓRIA - IMPOSSIBILIDADE - IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INVIABILIDADE. 01. Afigura-se necessária, para a garantia da ordem pública, a prisão provisória de acusado que, já respondendo a Inquérito Policial por delito da mesma natureza, é preso em flagrante delito pela prática de novo crime. 02. Paciente que quebra anterior compromisso assumido, após ter sido beneficiado com liberdade provisória, demonstra completo desrespeito para com a Justiça e a sociedade, eis porque, como garantia da ordem pública e para assegurar a aplicação da lei penal, justifica-se sua prisão processual. 03. Encontrando-se a decisão fundamentada, concretamente, na necessidade da segregação processual para a garantia da ordem pública, não há falar-se na aplicação das medidas cautelares eiencadas no art. 319 do CPP (fl. 72).
+Daí o presente recurso ordinário, no qual o recorrente repisa os argumentos lançados no writ originário, reafirmando a existência de constrangimento ilegal, consubstanciado na ausência de fundamentação idônea a justificar a decretação de sua segregação cautelar.
+Ressalta a desproporcionalidade em se manter presa, uma pessoa que, ao final da instrução processual será mantida em regime menos gravoso, diante da possibilidade de fixação de regime diverso e de substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa.
+A liminar foi indeferida às fls. 102-104.
+O Ministério Público Federal manifestou-se, às fls. 160-163, pelo conhecimento e desprovimento do recurso, em parecer assim ementado:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. PRESENÇA DOS REQUISITOS DO ART.
+312 DO CPP - MODUS OPERANDI (ACUSADO QUE APONTOU ARMA PARA POLICIAL) - EXISTÊNCIA DE INQUÉRITO POLICIAL QUE APURA A PRÁTICA DE OUTRO DELITO DE TRÁFICO DE DROGAS PELO ORA RECORRENTE - PRÁTICA DE NOVO DELITO DURANTE A LIBERDADE PROVISÓRIA - RISCO CONCRETO DE REITERAÇÃO CRIMINOSA - GARANTIA DA ORDEM PÚBLICA. PARECER PELO CONHECIMENTO E DESPROVIMENTO DO RECURSO" (fl. 110).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Segundo informações colhidas no sítio eletrônico do eg. Tribunal de origem (www.tjmg.jus.br), na Ação Penal 0573875-07.2018.8.13.0024/MG, constata-se a expedição de alvará de soltura em favor do recorrente em 03/09/2018.
+Nesse contexto, verifico que o presente recurso perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+P. e I.
