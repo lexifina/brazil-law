@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE CONTRATAÇÃO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - ALEGAÇÃO DO AUTOR DE FRAUDE EM CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO - INEXISTÊNCIA DO DEVER DE INDENIZAR - LITIGÂNCIA DE MÁ-FÉ CONFIRMADA - APELO NÃO PROVIDO.
+1. O autor/recorrente alega que na condição de indígena, idoso e de pouca instrução, foi vítima de golpe em empréstimos consignados em sua aposentadoria, e que faria jus a indenização por danos morais e nulidade da relação jurídica. Na hipótese, o banco/recorrido fez prova dos fatos impeditivos, modificativos e extintivos do direito (art. 373, II) ao apresentar contrato assinado nos exatos termos da assinatura do autor e recibo do depósito do valor do empréstimo, conforme documentos juntados aos autos.
+2.Inexistência do dever de indenização.
+3. A condenação por litigância de má-fé fica mantida quando se denota que a parte utilizou-se do judiciário para intentar a presente demanda visando a declaração de nulidade de empréstimo que realizou, a fim de obter indenização por danos morais.
+4. Recurso não provido.
+Não foram opostos embargos de declaração.
+Nas razões do especial, aponta a parte agravante violação aos artigos 79, 80, 396, 399, 400 e 408, parágrafo único, do Código de Processo Civil/2015; 6º, inciso VI, 42, parágrafo único, do Código de Defesa do Consumidor; e 186, 884 e 927 do Código Civil.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, apurou a ocorrência de relação jurídica entre autor e a instituição financeira, bem como aplicou multa por litigância de má-fé, assim se pronunciando:
+Cuida-se de apelação interposta por [NOME] em face da sentença que julgou improcedente o pedido formulado nos autos da ação declaratória de nulidade de empréstimo consignado c/c repetição de indébito e danos morais ajuizada em face de Banco Itaú BMG Consignado S/A.
+Quanto a alegação de inexistência de relação jurídica há de se ressaltar que, muito embora a apelante sustenta que jamais recebeu o valor dos supostos contratos de empréstimo consignado, o banco apelado fez prova desconstitutiva do direito autoral, uma vez que em contestação (f. 72/118), em especial às fs. 77/87, juntou comprovante dos contratos assinados e das transferências dos valores mutuados à apelante.
+Assim, indubitável há relação jurídica entre as partes.
+Cumpre esclarecer que a situação posta em discussão não contraria o entendimento deste Relator que, em casos semelhantes, entendeu por declarar situação em tela, há prova nos autos de que a recorrente foi beneficiada com os valores objeto dos contratos de empréstimo bancário.
+Ademais, embora diversos indígenas e/ou aposentados tenham sido vítimas de fraudes, eventuais ações declaratórias de inexistência de débitos cumuladas com reparações por dano material e moral ajuizadas por estas pessoas devem ser apreciadas, caso a caso, dentro daquilo que foi efetivamente comprovado nos autos, não se podendo conceder uma prestação jurisdicional de forma genérica, apenas porque uma das partes se qualifica como indígena/aposentado.
+Dessa forma, não demonstrando a apelante que as provas existentes nos autos levam à procedência do pedido inicial, não há que se falar em prolação de sentenças diversas em casos idênticos.
+Destarte, tenho que a instituição financeira desincumbiu-se do ônus que lhe competia, nos termos do art. 373, II, do Código Processual Civil, não se podendo falar em inexistência do débito.
+Na sentença, por ter entendido que houve a regular contratação do empréstimo, e que a parte apelante omitiu ao afirmar na inicial que não recebeu o valor do empréstimo descontado de seu benefício, o magistrado condenou a autora por litigância de má-fé em 2% sobre o valor da causa.
+A condenação por litigância de má-fé deve ser mantida, eis que o contrato foi juntado com aposição de digital, assinatura a rogo e duas testemunhas, e o valor contratado foi depositado na conta corrente da apelante que, inclusive, não nega ser sua, demonstrando que alterou a verdade dos fatos.
+Acrescento que o uso abusivo do direito de ação sob os auspícios da gratuidade da justiça é causa relevante a ser considerada na valoração da multa a ser aplicada por litigância de má-fé. Além disso, nos termos do art. 98, § 4º, do NCPC, "a concessão de gratuidade não afasta o dever de o beneficiário pagar, ao final, as multas processuais que lhe sejam impostas".
+Conquanto a parte autora seja beneficiária da justiça gratuita, não há como ser afastada a multa por litigância de ma-fé, uma vez que a conduta verificada incorre em abuso ao uso do Poder Judiciário, cabendo destacar que o valor fixado é suficiente a impedir a autora de ingressar novamente com demandas judiciais de forma temerária e excessiva.
+Quanto à verba honorária, é cediço que para a fixação dos honorários de advogado é necessário respeitar os princípios da razoabilidade e da proporcionalidade, não podendo o quantum estipulado ser irrisório a ponto de tornar-se insignificante ao profissional que atuou na causa, nem exacerbado, impossibilitando o pagamento pelo devedor.
+Considerando o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e a importância da causa, assim como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, tenho por manter a verba honorária em 10% (dez por cento) sobre o valor atualizado da causa, com esteio no art. 85, §2º do Código de Processo Civil.
+Posto isso, nego provimento ao recurso.
+Em atenção ao que dispõe o art. 85, §11, do NCPC, evidenciada a sucumbência em segundo grau em desfavor do recorrente, arbitro honorários advocatícios no importe de 5% (cinco por cento) sobre o valor da causa, montante este que deverá ser acrescido ao percentual (10%) fixado em sentença.
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Por fim, impende registrar que os apelos interpostos com fundamento no artigo 105, III, na alínea "c", da Constituição Federal, atraem, regularmente, a incidência da Súmula n. 7/STJ, quando necessário examinar o contexto fático-probatório dos autos, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+SÚMULA N. 211/STJ. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+(..) 4. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 980.520/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/02/2017, DJe 13/02/2017) (grifou-se)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
