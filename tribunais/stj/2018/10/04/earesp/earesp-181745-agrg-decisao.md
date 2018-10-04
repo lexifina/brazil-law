@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno, interposto por [NOME], em face de decisão singular dessa relatoria, pela qual foram indeferidos liminarmente os embargos de divergência, por não ter sido configurada a similitude fática entre os acórdãos confrontados.
+Defende a parte agravante, em resumo, a reforma do decisum, apresentando os seguintes argumentos:
+(1) Em se tratando de discrepância de julgados sobre a aplicação de regra de direito processual, a jurisprudência do STJ não exige que, nos acórdãos recorrido e paradigma, os fatos da causa sejam semelhantes ou ostentem idêntica discussão de direito material, bastando haver divergência sobre a interpretação do dispositivo de lei federal controvertido no recurso.
+(2) O Superior Tribunal de Justiça tem mitigado o rigor da exigência de identidade da moldura fática quando a divergência se der em torno da aplicação de regra de direito processual, desde que a diferença na questão de direito material não tenha o condão de alterar a solução jurídica aplicada à lide, conforme decidido no EREsp n. 1.478.557-SP e no EREsp n. 1.080.694-RJ.
+(3) Abstraída a discussão acerca da identidade fática entre os acórdãos confrontados, competiria ao Superior Tribunal de Justiça dizer se o acórdão recorrido divergiu da orientação jurisprudencial que autoriza a concessão de habeas corpus de ofício, presente flagrante ilegalidade no veredicto condenatório.
+(4) Nesse contexto, a desinteligência de julgados sobre a aplicação da regra processual prevista no artigo 654, § 2º do CPP afigura-se incontestável, viabilizando o conhecimento dos embargos de divergência, pois, em que pesem a relevância das teses de defesa demonstrando a flagrante ilegalidade do pronunciamento do Tribunal de Justiça do Estado de São Paulo, a Sexta Turma deste Sodalício limitou-se a articular não ser possível a concessão de ofício de habeas corpus.
+(5) Em sentido oposto, os acórdãos paradigmas estimaram ser possível ao Superior Tribunal de Justiça conceder a ordem de habeas corpus de ofício em situações excepcionais, onde constatadas flagrantes ilegalidades, consistentes, por exemplo, nos seguintes precedentes: EREsp n. 1.094.499-MG; EREsp n. 688.211-SC; EDcl no AgRg nos EREsp n. 1.084.522-CE; AgRg no EREsp n. 202.782-SP; e EDcl no AgRg no ARE no RE no REsp 1.113.401-SP.
+É o relatório.
+Diante dos relevantes argumentos declinados nas razões do agravo regimental, com fulcro no artigo 259, § 3º, do Regimento Interno do Superior Tribunal de Justiça, RECONSIDERO A DECISÃO AGRAVADA.
+Estando, a princípio, caracterizado o dissídio jurisprudencial entre os órgãos julgadores deste Superior Tribunal de Justiça, devem ser admitidos os embargos de divergência.
+Dê-se vista dos autos à parte embargada para, querendo, apresentar impugnação no prazo de 15 (quinze) dias, nos termos do artigo 267 do Regimento Interno desta Corte Superior.
+Após, encaminhe-se o feito ao Ministério Público Federal, pelo prazo de 20 (vinte) dias, conforme o artigo 266-D, do RI/STJ, alterado pela Emenda Regimental n. 22, de 16/03/2016.
+Publique-se.
+Intimem-se.
