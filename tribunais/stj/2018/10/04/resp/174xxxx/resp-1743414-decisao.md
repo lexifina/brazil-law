@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+ADMINISTRATIVO. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH.
+LEGITIMIDADE. CESSIONÁRIO. ILEGITIMIDADE.
+No caso dos autos, a ilegitimidade torna-se mais evidente, porquanto não há falar sequer em cessão do mútuo. De fato, ainda que em determinado momento o imóvel tenha sido financiado e que o valor financiado deva sofrer abatimento em decorrência de sentença transitada em julgado, a sua aquisição pelo(a) atual proprietário(a) se deu em momento posterior à liquidação do financiamento e levantamento da hipoteca.
+Opostos embargos de declaração, foram acolhidos, em parte, sem atribuição de efeitos modificativos.
+Nas razões de recurso especial, alega o recorrente violação dos artigos 489, §§ 1º e 2º, do Código de Processo Civil; e 237, 349 e 1.232 do Código Civil, além de divergência jurisprudencial.
+Não merece reforma o acórdão recorrido, o qual foi publicado depois da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Com efeito, o Tribunal de origem confirmou sentença que indeferira a petição inicial de Cumprimento de Sentença proposto com base em título executivo judicial - sentença proferida nos autos de ação civil pública movida pelo Ministério Público Federal em face de Caixa Econômica Federal e Outros -, por reconhecer a ilegitimidade ativa da parte exequente, visto não ocupar posição de mutuário no contrato objeto da execução. Estes foram os fundamentos do acórdão recorrido:
+Esta Turma apreciou questão idêntica nos autos da AC n. 5003995- 53.2016.4.04.7007/PR, em julgamento datado de 05/04/2017 nos seguintes termos:
+ADMINISTRATIVO. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. LEGITIMIDADE. CESSIONÁRIO. ILEGITIMIDADE.
+No caso dos autos, a ilegitimidade torna-se mais evidente, porquanto não há falar sequer em cessão do mútuo. De fato, ainda que em determinado momento o imóvel tenha sido financiado e que o valor financiado deva sofrer abatimento em decorrência de sentença transitada em julgado, a sua aquisição pelo(a) atual proprietário(a) se deu em momento posterior à liquidação do financiamento e levantamento da hipoteca.
+Em sendo assim, evitando tautologia, transcrevo os fundamentos lá invocados, verbis:
+(..)
+Portanto, no que importa neste apelo, transitou em julgado a ação no sentido de que condenar a CAIXA a abater o percentual de 28,19% dos débitos dos financiamentos concedidos aos mutuários. Com a redução do saldo devedor, e, consequentemente, do valor das prestações dos mutuários, de modo a compensar os valores pagos a mais.
+Reitero os termos da inicial do MPF relatados no Recurso Especial supra transcritos: alegando que construções de moradias do Conjunto Habitacional Planalto II e VI, financiadas pela CEF a mutuários-adquirentes selecionados pela agente COHALAR e construídas pela TAJI MARRAL, resultaram por esta construídos em flagrante desacordo com as "Especificações da Construção", fornecidas pela CEF e pelos próprios mutuários, e sob superfaturamento na construção, gerando prejuízos para os mutuários-adquirentes, que, por isso, passaram a pagar valores acima do correto, de modo que a inicial pediu o "abatimento do valor de saldos devedores e das prestações dos mutuários (..)
+Portanto, necessária a condição de mutuário nas condições originárias de aquisição.
+Não há como estender a condição de mutuário ao terceiro adquirente do imóvel, como sub-rogatário de direitos e ações. O pedido e o dispositivo abarcam os mutuários-adquirentes.
+Entender diferentemente, poderia levar a conclusão de que, em havendo cadeia de transmissão deste imóvel, todo o adquirente poderia invocar direito de ação diante do prejuízo (superfaturamento), repassado, em tese, ao preço. Veja-se que, no caso, resta ainda mais clara a ilegitimidade do proprietário porquanto já quitado o imóvel pelo mutuário originário quando da venda, assim não há falar em transmissão de direito do contrato originário de financiamento.
+Veja-se os termos do §4º, do artigo 509, do Código de Processo Civil, que trata da liquidação de sentença:
+Art. 509 (..) § 4º Na liquidação é vedado discutir de novo a lide ou modificar a sentença que a julgou.
+Por fim, nos termos da coisa julgada, in casu, não há como o adquirente subrogar-se no direito de redução do saldo devedor, e, consequentemente, do valor das prestações. Aqui não há financiamento ativo, tampouco saldo devedor do contrato objeto da revisão.
+(..)
+No caso dos autos, a ilegitimidade torna-se mais evidente, porquanto não há falar sequer em cessão do mútuo. De fato, ainda que em determinado momento o imóvel tenha sido financiado e que o valor financiado deva sofrer abatimento em decorrência de sentença transitada em julgado, a sua aquisição pelo(a) atual proprietário(a) se deu em momento posterior à liquidação do financiamento e levantamento da hipoteca.
+Estando o contrato de mútuo em nome do(a) antigo(a) mutuário(a), não tem o(a) exequente legitimidade para postular qualquer pretensão relativamente ao contrato de financiamento habitacional, porquanto é vedado postular em nome próprio direito alheio (art. 18 do CPC).
+Assim, imperioso reconhecer a ilegitimidade ativa da parte exequente, visto não ocupar posição de mutuário(a) no contrato objeto da presente execução.
+Verifico, assim, que deve ser afastada a alegada afronta ao artigo 489 do Código de Processo Civil, pois não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Verifico, também, que apenas com o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ, seria possível infirmar as conclusões do acórdão recorrido quanto ao reconhecimento da ilegitimidade ativa.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
