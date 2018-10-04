@@ -1,0 +1,46 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DA PENA. AUSÊNCIA DE RECURSO COM EFEITO SUSPENSIVO. RECURSO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. De acordo com o entendimento do STF, ao apreciar medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), é possível a execução provisória da pena se ausente recurso com efeito suspensivo.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME] DE ALMEIDA em face de decisão de minha lavra que concedeu em parte o habeas corpus.
+Em suas razões, reitera a existência de constrangimento ilegal quando da possibilidade de cumprimento antecipado da pena, ao argumento de que é necessária fundamentação idônea.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada concedeu em parte o habeas corpus sob os seguintes argumentos (fls. 119-122):
+No que se refere ao regime inicial de cumprimento da pena, consignou o Tribunal de origem (fls. 46/47):
+Quanto ao ponto, assiste razão à Defesa, em parte.
+No tocante a [NOME], levando em conta os apontamentos e certidões de fls. 103, 124/128 e 340, observa-se que o acusado demonstra culpabilidade exacerbada e personalidade desviada, já que, quando cumpria pena por anterior delito de roubo, estando em regime aberto, voltou a perpetrar novo delito, agora de receptação, pelo que deve ser mantida sua pena-base acima do mínimo legal, em 02 anos de reclusão e pagamento de 20 dias-multa. Os registros de fls. 124 e seguintes, ao contrário do que afirma a Procuradoria Regional da República, dizem respeito à execução do crime de roubo, e não foram consideradas pela sentença de primeiro grau, no ponto, para exasperação da reprimenda penal.
+Inexistem circunstâncias atenuantes e agravantes, registrando que não liá recurso ministerial para que eventual reincidência seja reconhecida, pelo que torna-se incabível nesse momento, sob pena de configuração de "reformatio in pejus". Com a incidência do § 6ª do art. 180 do CP, considerando a natureza da vítima (EBCT), deve a sanção penal ser dobrada, resultando na pena final de 04 anos de reclusão.
+Redimensiono a pena de multa do delito, para guardar proporcionalidade com a pena corporal, que assim fica arbitrada cm 40 dias-multa no piso legal.
+ ..
+Fica mantido o regime inicial fechado de cumprimento de pena, nos termos do artigo 33, § 3º, do Código Penal, com relação ao réu WILLIAN, assim como o fechado para o acusado DIEGO, reincidente em crime doloso (art. 33, § 2º, "b" do CP).
+A Terceira Seção deste STJ entende ser possível, desde que com base em motivação concreta, estabelecer regime prisional mais gravoso do que aquele que corresponderia, como regra geral, à pena aplicada. Tal fundamentação, porém, deve ser aferida caso a caso (HC n. 362.535/MG, Terceira Seção, Rel. Min. Felix Fischer, Rel. para o acórdão Min. Maria Thereza de Assis Moura, DJe de 8/3/2017).
+Na espécie, o Colegiado de origem nada justificou para a fixação de regime prisional mais severo do que o correspondente à pena aplicada, o que, a teor da iterativa jurisprudência das Cortes Superiores é expressamente vedado. A propósito:
+HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS. VALORAÇÃO NEGATIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. CAUSAS DE AUMENTO. MAJORAÇÃO. CRITÉRIO MATEMÁTICO. ILEGALIDADE. SÚMULA 443/STJ. REGIME FECHADO. IMPOSIÇÃO. GRAVIDADE ABSTRATA. CONTINUIDADE DELITIVA. DUAS INFRAÇÕES. MAJORAÇÃO NA FRAÇÃO MÁXIMA. DESCABIMENTO.
+1. A consciência da ilicitude e a exigibilidade de conduta diversa são pressupostos da culpabilidade, não servindo para agravar a pena-base.
+2. A afirmação de que o roubo teria colocado em risco a vida da vítima e causado intranquilidade social bem como a de que as circunstâncias prejudicavam os acusados têm natureza genérica, uma vez que não se fizeram acompanhar de nenhum elemento concreto extraído do delito pelo qual estavam os pacientes sendo apenados.
+3. O prejuízo da vítima é inerente aos crimes contra o patrimônio. Assim, salvo se demonstrada a gravidade exacerbada da lesão, não se presta para fundamentar a análise negativa das consequências do crime. Da mesma forma, por se tratar de elementar, a busca pelo lucro fácil não é apta para agravar os motivos do delito.
+4. É descabido atribuir desvalor à conduta social e à personalidade se não há dados concretos nos autos aptos para formar, de maneira segura, a convicção do julgador. Igualmente, não pode lastrear a negativação dessas circunstâncias a existência de processos em curso.
+5. Se os antecedentes foram considerados negativos, mas nem a sentença nem o acórdão fizeram menção à existência de condenação criminal transitada em julgado, tem incidência a Súmula 444/STJ.
+6. A exasperação da pena pelas instâncias ordinárias apenas em razão do número de causas de aumento vai de encontro ao comando da Súmula 443/STJ.
+7. Sendo os pacientes primários e reduzidas as penas-base ao mínimo legal em razão da ausência de circunstâncias judiciais negativas, impõe-se o estabelecimento do regime inicial semiaberto, mormente porque a opção pelo regime mais severo, nas instâncias ordinárias, foi fundamentada na gravidade abstrata do delito.
+8. Se as instâncias ordinárias reconheceram a prática de dois crimes em continuidade delitiva, a exasperação da reprimenda na fração máxima de 2/3 destoa da jurisprudência desta Casa, que, nessa hipótese, determina que a majoração ocorra no piso mínimo de 1/6.
+9. Ordem concedida, com extensão ao corréu, [NOME], para reduzir as penas-base ao mínimo legal, bem como para aplicar a menor fração de aumento na terceira fase da dosimetria (1/3). Habeas corpus deferido, de ofício, em relação a ambos, a fim de fixar o regime inicial semiaberto e, quanto ao mencionado corréu, para reduzir a majoração da reprimenda pela continuidade delitiva à fração mínima de 1/6, ficando as penas redimensionadas nos termos do voto" (HC 136.451/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/08/2011, DJe 12/09/2011).
+Nesse contexto, o estabelecimento de regime prisional mais gravoso sem fundamento concreto, contraria o disposto nas Súmulas 440/STJ, 718 e 719/STF, in verbis:
+Súmula 440/STJ: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Súmula 718/STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Súmula 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Sendo assim, não se justifica a imposição de regime inicial fechado a paciente primário, condenado à pena reclusiva de 4 anos, fazendo jus o paciente ao regime semiaberto, em atenção ao disposto no art. 33, §§ 2º, c, e 3º, c.c. o art. 59, ambos do Código Penal, em razão da existência de uma circunstância judicial desfavorável.
+Por fim, relativamente ao pleito suspensão da execução antecipada da pena, tem-se que o Pleno do Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo, confirmada, ainda, em repercussão geral (ARE 964246 RG, Rel. Min. TEORI ZAVASCKI, DJe 25/11/2016).
+Ressalto que esta Corte permanece cumprindo a decisão mencionada do precedente do plenário da Suprema Corte, inobstante as fortes razões em contrário contidas em decisões da segunda turma daquela egrégia Corte - dispensada indicação casuística de necessidade da cautelar, pois assim não exigida pelo precedente aqui seguido.
+Aplicam-se, pois, os arts. 637 do CPP e 27, §2º, da Lei 8.038/90, c/c a Súmula 267 do STJ, autorizando-se o imediato início do cumprimento da pena.
+Ante o exposto, concedo em parte o habeas corpus para, mantida a execução antecipada da pena, fixar o regime inicial semiaberto.
+Com efeito, exaurida a instância ordinária e na pendência de recursos especial ou extraordinário, apenas casuísticos efeitos suspensivos concedidos, seja por cautelar ou por habeas corpus, obstarão a execução provisória, o que não ocorreu, in casu.
+Assim, considerando que o agravante não apresentou qualquer elemento capaz de alterar a conclusão do julgado, mantenho o posicionamento firmado na decisão agravada.
+Ante o exposto, voto por negar provimento ao agravo regimental.
