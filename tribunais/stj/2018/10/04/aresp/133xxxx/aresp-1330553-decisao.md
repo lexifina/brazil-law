@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por ASSOCIAÇÃO DO PLANO DE SAÚDE DA SANTA CASA DE SANTOS contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+Apelações cíveis. Autos de tutela provisória antecipada em caráter de urgência. Plano de saúde. Sentença de procedência. Inconformismo de ambas as partes.
+Justiça gratuita. Caráter assistencial da requerida. Presunção de hipossuficiência para custeio das custas processuais. Benefício mantido.
+Amputação de membro em caráter emergencial. É abusiva a negativa de cobertura em atendimento de urgência e/ou emergência a pretexto de que está em curso período de carência que não seja o prazo de 24 horas estabelecido na Lei n. 9.656/98. Súmula nº 103 deste Egrégio Tribunal de Justiça. Resolução CONSU nº 13/1998 que não pode limitar o que a Lei nº 9.656/1998 dispôs em seu artigo 12, V, c: "prazo máximo de vinte e quatro horas para a cobertura dos casos de urgência e emergência". Hierarquia de normas.
+Dano moral. Caracterização. Prescrição de uma cirurgia de amputação de membro a ser realizada em caráter de urgência, e ter negada a devida cobertura por seu plano de saúde. Sofrimento intenso e profundo no caso concreto, com alterações no bem-estar psicofísico que ultrapassaram os aborrecimentos comumente experimentados no cotidiano da vida moderna.
+Quantum indenizatório. Manutenção em R$ 10.000,00. Quantia suficiente para compensar o sofrimento experimentado, sem gerar enriquecimento sem causa, e alertar o fornecedor sobre a necessidade de buscar alternativas para evitar a repetição de eventos danosos como o tratado nos autos.
+Prequestionamento. Já lançados no v. acórdão todos os fundamentos e motivos que justificaram as razões de decidir.
+Sentença mantida, majorando-se a verba honorária de sucumbência para o patrono do autor, com fixação da mesma rubrica para o patrono da ré, observada a gratuidade judiciária. Artigo 85, §§ 1o e 11, do Código de Processo Civil. Não providos os recursos que visavam à desconstituição da concessão da justiça gratuita à ré e da condenação desta última a pagar danos morais e ressarcir as despesas médicas desembolsadas pelo autor, com concomitante custeio daquelas não cobertas.
+Nas razões do especial, a agravante alegou negativa de vigência dos artigos 186, 187, 421, 422 e 927 do Código Civil; 1º, 11, 12, 35-A e 35-C da Lei 9.656/98, sob o argumento de que foi lícita a negativa de cobertura em face do que lhe é atribuído como obrigação estabelecida no plano de saúde, estando em conformidade com as normas que regem essa espécie de contrato, não havendo de se falar, assim, em indenização por danos materiais (R$ 3.923,12 - três mil, novecentos e vinte e três reais e doze centavos) e morais (R$ 10.000,00 - dez mil reais).
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento.
+O Tribunal de origem entendeu pela responsabilização da agravada, como se extrai dos seguintes trechos (fls. 345-347, e-STJ):
+Quanto ao restante do mérito, anota-se ter a ré reconhecido que o autor necessitava de operação de emergência (fl. 298, in fine), nos termos do relatório médico de fl. 53, estando a hipótese pacificada por este Egrégio Tribunal de Justiça (..)
+Desta maneira, não podia ter havido negativa de cobertura para a referida cirurgia, não se havendo falar de falta de cobertura de tratamento de doença preexistente, uma vez que não estava sendo pleiteada a cobertura de tratamento de diabetes, mas sim de uma cirurgia de amputação de membro cujo caráter era emergencial.
+(..)
+Nem se há falar na limitação da cobertura ao período de 12 horas de atendimento, prazo constante do artigo 2º da Resolução CONSU nº 13/1998, porque referido regulamento - hierarquicamente inferior às leis federais - não pode trazer uma limitação ao que a Lei nº 9.656/1998 dispôs em seu artigo 12, V, c: "prazo máximo de vinte e quatro horas para a cobertura dos casos de urgência e emergência".
+(..)
+Assim, mantém-se a condenação da ré a custear os procedimentos utilizados pelo autor, bem como a lhe ressarcir o numerário de R$ 3.923,12, indicado na r. sentença, pois o seu desembolso (fl. 79) se deu exclusivamente em razão da negativa de cobertura efetivada pela operadora do plano de saúde.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+De todo modo, a conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. LEGITIMIDADE PASSIVA. PRECLUSÃO. PESSOAS JURÍDICAS DISTINTAS. PRAZO DE CARÊNCIA PARA HIPÓTESES DE URGÊNCIA. VINTE E QUATRO HORAS (24H). PREVALÊNCIA DA GARANTIA DA SAÚDE E DA VIDA DO SEGURADO. JUSTA EXPECTATIVA. PRECEDENTES DO STJ.
+1. Não conhecimento da insurgência em relação a questão jurídica preclusa. A alegação de ilegitimidade passiva fora objeto de decisão saneadora, não tendo sido oportunamente impugnada pela recorrente.
+Inviável a renovação do debate em sede de recurso especial.
+2. Em se tratando de procedimento de urgência, ou seja, de atendimento médico que se não for realizado imediatamente implica em risco concreto de morte ou lesão irreparável para o paciente, deve ser adotado o prazo de carência de vinte e quatro horas, e não o de cento e oitenta dias, sob pena de violação da legítima expectativa do consumidor ao celebrar o contrato para preservar a sua vida, sua saúde e sua integridade física. Precedente específico do STJ.
+3.AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1448660/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 10/04/2017)
+Quanto ao dano moral, a Corte local assim se manifestou sobre a controvérsia (fls. 348-349, e-STJ):
+A circunstância, pois, de ter a prescrição de uma cirurgia de amputação de membro a ser realizada em caráter de urgência, e ver negada a devida cobertura por seu plano de saúde, sem dúvida alguma causou ao autor sofrimento intenso e profundo no caso concreto, com alterações no seu bem-estar psicofísico que ultrapassaram os aborrecimentos comumente experimentados no cotidiano da vida moderna.
+(..)
+Desta forma, ponderando-se as particularidades do caso concreto, inclusive a existência de Súmula tratando do objeto dos autos e a circunstância de a ré só ter autorizado a cobertura após o ingresso do autor em vias judiciais, fica mantido o quantum indenizatório em R$ 10.000,00, quantia suficiente para compensar o sofrimento experimentado pelo requerente, sem gerar enriquecimento sem causa, e alertar o fornecedor sobre a necessidade de buscar alternativas para evitar a repetição de eventos danosos como o tratado nos autos.
+A alteração dessa conclusão, novamente, demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado no âmbito do recurso especial (Súmula 7/STJ). Nesse sentido:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INJUSTIFICADA DE COBERTURA. DANOS MORAIS. VALOR. RAZOABILIDADE. NÃO PROVIMENTO.
+1. Tendo a instância de origem concluído, a partir do exame das provas dos autos, que a recusa de cobertura pelo plano de saúde foi injustificada e ocorrida em momento de grave estado de saúde do beneficiário, causando danos morais, a revisão desse entendimento demanda reexame de matéria de fato, incabível no âmbito do recurso especial (Súmula 7).
+2. (..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1195268/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 8/8/2018)
+Encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
