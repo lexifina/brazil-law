@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 410):
+Apelação cível e recurso adesivo. Construção civil. Reparação de danos causados ao vizinho. Legitimidade passiva da seguradora. Solidariedade. Danos Morais configurados. Incidência de juros a partir do arbitramento. Quantum indenizatório. Manutenção. Apelação principal parcialmente provida. Recurso adesivo. Danos materiais. Pagamento de Aluguéis a terceiros. Impossibilidade. Recurso adesivo desprovido. A seguradora é parte legitima para figurar no polo passivo de demanda junto ao segurado. Configura dano moral os danos causados em imóvel habitado, decorrentes de construção vizinha. Os juros de mora sobre indenização por danos morais correm a partir de seu arbitramento. Quando o dano material não foi efetivamente realizado, a indenização deve pautar-se no valor incontroverso.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 448/453).
+Nas razões do recurso especial (e-STJ fls. 244/266), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou afronta aos arts. 757, 760 e 787 do CC/2002, argumentando que a parte segurada deve pagar a franquia obrigatória, devendo ser abatido esse valor da indenização securitária. Alegou ainda que a condenação solidária afronta aos termos contratuais, ultrapassando os limites da apólice a obrigação imposta ao seguradora e à seguradora de construir muro de arrimo definitivo.
+No agravo (e-STJ fls. 275/293), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O Tribunal de origem entendeu que a seguradora tem a obrigação de cobrir os danos sofridos por terceiro, causados pelo segurado, pois este estava adimplente com sua parte no contrato securitário, além de haver cobertura na apólice para o prejuízo alegado pelo autor da ação, não sendo necessário o trânsito em julgado da demanda contra o segurado para que a empresa seja chamada a indenizar. Quanto à suscitada franquia, concluiu o Tribunal de origem que é questão a ser apreciada em outro processo, pois diz respeito às nuances contratuais entre segurado e seguradora (e-STJ fls. 414/417).
+É inviável alterar a conclusão do Tribunal de origem quanto ao tema, pois, para tanto, seria necessário reexaminar os fatos e as provas dos autos, bem como reinterpretar os termos contratados, providências vedadas a esta Corte, de acordo com as Súmulas n. 5 e 7 do STJ.
+Por fim, o argumento da impossibilidade de exame sobre o pagamento da franquia nestes autos não foi impugnado especificamente, o que atrai o óbice da Súmula n. 283 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
