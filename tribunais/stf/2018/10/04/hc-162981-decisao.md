@@ -1,0 +1,53 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Ricardo Egidio Lucas contra decisão monocrática do Ministro Reynaldo Soares da Fonseca, Relator do HC 471.299/SP no Superior Tribunal de Justiça - STJ.
+    Esta a decisão ora atacada:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RICARDO EGIDIO LUCAS contra decisão monocrática do Tribunal de Justiça do Estado de São Paulo que indeferiu a medida liminar formulada no HC n. 2202307-79.2018.8.26.0000.
+    O paciente foi preso em flagrante, em 18/9/2018, e convertida a custódia em preventiva – e-STJ fls. 65/67, pela suposta infringência aos arts. 171 (estelionato) e 304 (uso de documento falso), ambos do Código Penal.
+    Inconformada com a prisão cautelar, a defesa impetrou o habeas corpus originário e, como antes relatado, o pedido liminar foi indeferido (e-STJ fls. 3/10).
+    Nas razões do presente mandamus (e-STJ fls. 1/37), a defesa informa que arbitrariedades foram cometidas pela polícia militar no momento do flagrante, a saber, uso arbitrário de algemas e excesso de registros fotográficos.
+    Suscita, ainda, a nulidade da decisão que decretou a prisão preventiva do paciente, por fundamentação inidônea (gravidade abstrata do delito) sem indicar a necessidade da medida extrema.
+    Argumenta, por fim, haver constrangimento ilegal na manutenção da custódia cautelar, tendo em vista a ausência dos pressupostos legais autorizadores previstos no art. 312 do Código de Processo Penal, inclusive porque o paciente é primário, possui ocupação lícita (representante comercial) e residência fixa.
+    A defesa pugna, liminarmente e no mérito, pela revogação da prisão preventiva do paciente ou, ainda, pela substituição da medida extrema por medidas cautelares alternativas.
+    É o relatório. Decido.
+    O presente habeas corpus não merece ser conhecido.
+    Isso porque é assente a jurisprudência do Superior Tribunal de Justiça no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira do enunciado da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo se demonstrada flagrante ilegalidade. A propósito:
+    PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância. (Enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese. Agravo regimental desprovido. (AgRg no HC n. 306.319/CE, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/06/2015, DJe 19/06/2015).
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DE HABEAS CORPUS. APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO DO PRÓPRIO WRIT. AGRAVO REGIMENTAL PREJUDICADO.
+    1. Tratando-se de impetração contra decisão monocrática, proferida por Desembargador Relator do Tribunal Estadual, que indeferiu pedido de liminar, em que não se observa teratologia ou falta de fundamentação, não há que ser mitigada a aplicação da Súmula n. 691 do STF.
+    2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do writ originário, impetrado em 2º Grau, torna prejudicada a análise do habeas corpus, impetrado neste Superior Tribunal de Justiça.
+    3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste writ, pelo julgamento do habeas corpus na origem.
+    4. Agravo Regimental prejudicado. (AgRg no HC n. 288.056/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/05/2015, DJe 26/05/2015).
+    Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, de minha relatoria, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+    Não é o que ocorre na espécie.
+    Consoante se observa dos autos, a decisão que indeferiu o pedido liminar na origem não ostenta ilegalidade evidente e apta a desafiar controle antecipado por este Superior Tribunal, pois, sob a cognição sumária, está devidamente fundamentada, in verbis (e-STJ fls. 34/37):
+    Indefiro a liminar.
+    De proêmio, cabe lembrar que a via eleita não é adequada para a análise do conjunto probatório, em razão da cognição sumária do habeas corpus, portanto, as provas amealhadas aos autos serão devidamente analisadas no momento oportuno, por ocasião da prolação da sentença.
+    Aliás, a medida liminar é cabível somente quando o constrangimento ilegal for detectado de plano, através do exame sumário da inicial, o que não ocorre no presente caso.
+    Conforme se depreende do boletim de ocorrência, em 18 de setembro de 2018, Ricardo, ora paciente, foi surpreendido após tentar realizar empréstimo em nome de terceiro junto ao Banco do Brasil, valendo-se de documento falso.
+    Segundo consta, o gerente responsável pela unidade bancária vítima acionou a polícia militar, vez que suspeito a real identidade do indiciado, pois ao verificar as imagens do castro de clientes após solicitação de empréstimo, constatou que o paciente não se tratava da real pessoa, sendo identificado como Ricardo Egídio Lucas, havendo inconsistência entre o documento apresentado e aquele digitalizado no cadastro bancário, ocasião foi acionada a polícia.
+    O paciente manifestou o desejo de permanecer em silêncio (fls. 09/12, dos autos principais). Por meio da cópia da decisão acostada as fls. 14/16, o magistrado a quo, considerando o flagrante formalmente em ordem e estando presentes a prova da materialidade e indícios de autoria, com base no fato concreto, gravidade e circunstâncias do crime, converteu a prisão em flagrante delito do agente em preventiva, tendo em vista a presença de seus requisitos autorizadores.
+    Desde logo fica o registro que o decreto prisional expôs motivação bastante, porquanto referiu às circunstâncias do fato como reveladoras de característica do agente, expostas assim as razões de decidir e satisfeita à exigência constitucional (CF, art. 93, IX).
+    No caso em tela, ao menos em sede de cognição sumária, se mostra temerária a concessão da liminar, uma vez que, conforme bem assinalado, a principio, há risco a ordem pública e a aplicação da lei penal.
+    O causídico não trouxe qualquer situação excepcional capaz de alterar, liminarmente, a decisão de 1º grau, referente ao paciente, sendo que tal condição fora analisada satisfatoriamente pelo juízo a quo, encontrando-se dentro dos limites legais.
+    Ademais, cumpre ressaltar que o delito de estelionato, pese não ser cometido com violência, acarreta intranquilidade à população e coloca em risco a ordem pública, no caso em tela, o paciente tentou, utilizando o nome de terceiro, efetuar empréstimo bancário.
+    De outra parte, conforme documentos juntados pelo paciente (fls. 10/13), bem como alertado pelo douto Procurador em sede de audiência de custódia, o expediente utilizado pelo autuado transcorreu vários crimes, buscando cidade diversa visando obter vantagem ilícita, evidenciando conduta que intranquiliza a ordem pública (fls. 14).
+    Observo, por oportuno, que a análise do preenchimento, ou não, dos requisitos legais autorizadores da custódia provisória, bem como de eventuais medidas cautelares, revela-se inadequada à esfera de conhecimento liminar, porquanto se confunde com o mérito.
+    Instruída a petição inicial com a documentação que entendeu suficiente a Defesa, reputo dispensável a requisição de informações ao MM Juízo a quo, e determino a remessa à d. Procuradoria Geral de Justiça para manifestação.
+    Ademais, a análise perfunctória do writ não evidencia a ocorrência de constrangimento ilegal hábil a permitir a concessão da ordem de ofício.
+    É certo que questões suscitadas pela defesa do paciente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+    Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+    Ante o exposto com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+    Publique-se. Intime-se.
+    Cientifique-se o Ministério Público Federal.
+    Brasília (DF), 26 de setembro de 2018.
+    Ministro REYNALDO SOARES DA FONSECA
+    Relator”.
+    É o relatório necessário. Decido.
+    Como se vê, a presente impetração volta-se contra decisão monocrática do Ministro Reynaldo Soares da Fonseca, que negou seguimento ao habeas corpus.
+    Desse modo, este pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência deste Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo seu colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte. Do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Ademais, as teses suscitadas não foram examinadas pela decisão ora questionada, que não conheceu do habeas corpus, ante a orientação desta Suprema Corte assentada na Súmula 691. Nesse contexto, a análise daquelas questões por esta Suprema Corte implicaria dupla supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal.
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento a este writ. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 04 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
