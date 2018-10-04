@@ -1,0 +1,23 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"AGRAVO REGIMENTAL. Recurso interposto contra a decisão monocrática que rejeitou embargos de declaração, mantendo o indeferimento da justiça gratuita postulada em razões de apelo. Recolhimento das custas e despesas processuais durante a tramitação do feito. Formulação do pedido do benefício somente após a prolação da sentença, com resultado desfavorável. Ausência de demonstração, nos autos, de que o pagamento das custas processuais comprometeria o sustento familiar. Precedentes. Decisão monocrática mantida. NEGADO PROVIMENTO AO RECURSO".(v.24595).
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 2º, 4º e 6º da Lei nº 1.060/50, 1º da Lei nº 7.115/83, e 5º, LXXIV, da CF.
+Insurge contra o indeferimento da gratuidade de justiça, arguindo que basta a simples afirmação da parte requerente para a concessão desse benefício. Afirma que demonstrou documentalmente que não tem condições de arcar com o alto valor do preparo da apelação. Aduz que a negativa do benefício impossibilita o acesso do recorrente ao Judiciário.
+Contrarrazões ao recurso especial às fls. 372-374.
+É o relatório. Decido.
+2. Quanto à violação ao art. 5º, LXXIV, da CF, observa-se que a matéria constitucional invocada não é de ser examinada nesta via, porquanto refoge à missão creditada ao Superior Tribunal de Justiça, pelo artigo 105, inciso III, da Carta Magna, qual seja, a de unificar o direito infraconstitucional.
+3. No que tange aos demais dispositivos legais violados e ao dissídio jurisprudencial, o inconformismo não prospera.
+Observa-se que "o Superior Tribunal de Justiça entende que é relativa a presunção de hipossuficiência oriunda da declaração feita pelo requerente do benefício da justiça gratuita, sendo possível a exigência, pelo magistrado, da devida comprovação" (AgRg no AREsp 815.190/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2016, DJe 25/05/2016).
+Com efeito, "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO), QUARTA TURMA, julgado em 02/12/2008, DJe 18/12/2008).
+Na espécie, a convicção formada pela Corte local no sentido de indeferir o benefício da gratuidade de justiça à parte recorrente decorreu dos elementos existentes nos autos (fls. 325-332), de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+A propósito:
+______________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. PREENCHIMENTO DOS REQUISITOS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A jurisprudência desta Corte orienta que pode o juízo, embora haja declaração da parte de sua hipossuficiência jurídica para fins de concessão dos benefícios da gratuidade de justiça, investigar sobre a real situação financeira do requerente, haja vista a presunção relativa de veracidade que ostenta a declaração.
+2. O acórdão recorrido baseou-se na interpretação de fatos e provas para confirmar o indeferimento da assistência judiciária gratuita. A apreciação dessa matéria em recurso especial esbarra na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 889.259/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/10/2016, DJe 21/10/2016)
+______________
+Ademais, especificamente quanto ao dissídio jurisprudencial, observa-se que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente. Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
