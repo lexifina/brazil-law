@@ -1,0 +1,24 @@
+Trata-se de petição em favor de Ana Grasiella Moreira Figueiredo Magalhães, para atribuir efeito suspensivo a recurso extraordinário 1.028.577/RJ.
+    Em resumo, o presente recurso trata da aplicação da causa de inelegibilidade consistente na vedação do cumprimento de um terceiro mandato na chefia do Poder Executivo por candidato do mesmo grupo familiar.
+    A referida causa de inelegibilidade não se encontra expressa no texto constitucional e também não consta na Lei das Inelegibilidades (Lei Complementar 64/1990), sendo fruto da fusão, por criação jurisprudencial, dos parágrafos 5° e 7° do art. 14 da Constituição Federal de 1988.
+    Na espécie, cabe destacar a cronologia dos fatos: (i) Eleição 2008, Oscar é eleito Prefeito do Município de Iguaba Grande/RJ; (ii) Eleição 2012, Ana Grasiella é eleita Prefeita do Município de Iguaba Grande/RJ; (iii) Eleição 2016, Ana Grasiella é reeleita Prefeita do Município de Iguaba Grande/RJ, mas teve o registro indeferido com fundamento na aplicação da causa de inelegibilidade de vedação do exercício do terceiro mandato de cargo de chefia do Poder Executivo por integrante de um mesmo grupo familiar.
+    Na sequência, foi deferida medida cautelar para garantir a diplomação e posse no cargo do referido Município, haja vista o resultado obtido no sufrágio, a plausibilidade jurídica da tese versada no recurso extraordinário e o perigo de dano irreparável.
+    Ao julgar o mérito do recurso, neguei-lhe provimento, verificando a jurisprudência do Supremo Tribunal Federal quanto a incidência da referida causa de inelegibilidade, decorrente da fusão entre os parágrafos 5° e 7° do art. 14 da Constituição Federal de 1988.
+    A decisão por mim proferida foi objeto de agravo regimental, cujo julgamento iniciou-se em ambiente virtual. Contudo, o Ministro Gilmar Mendes manifestou-se pelo destaque do julgamento para análise em sessão presencial.
+    Com a paralisação do julgamento, a requerente alega a existência de periculum in mora, porquanto as eleições suplementares encontram-se marcadas para o dia 28/10/2018.
+    É o relatório necessário. Decido.
+    A concessão de medida cautelar demanda a presença de seus requisitos autorizadores, quais sejam, a fumaça do bom direito e a iminência de seu perecimento.
+    Entendo que, no presente caso, ambos os requisitos encontram-se preenchidos, uma vez que algumas questões jurídicas versadas no presente caso devem ser analisadas de forma mais verticalizada.
+    Isso porque o Plenário do Supremo Tribunal Federal, em processo com repercussão geral reconhecida, firmou entendimento, ressalvada minha posição, no sentido de que
+    “[a]s decisões do Tribunal Superior Eleitoral que, no curso do pleito eleitoral (ou logo após o seu encerramento), impliquem mudança de jurisprudência (e dessa forma repercutam sobre a segurança jurídica), não têm aplicabilidade imediata ao caso concreto e somente terão eficácia sobre outros casos no pleito eleitoral posterior” (RE 637.485/RJ, Rel. Min. Gilmar Mendes).
+    Neste ponto, observo que um dos precedentes citados no acórdão proferido pelo Tribunal Superior Eleitoral é a Consulta 117-26, de relatoria do Ministro Luiz Fux, publicada no DJe de 12/9/2016, ou seja, no curso do pleito eleitoral em questão.
+    Já os demais precedentes adotados como razão de decidir, em que pesem serem anteriores ao pleito de 2016, ilustram situações diversas à presente, uma vez que tratam de casos nos quais o primeiro membro do grupo familiar a assumir o a chefia do Poder Executivo foi, posteriormente, reeleito. Assim, a Corte Eleitoral fixou a tese de que “nos termos do art. 14, §§ 5° e 7°, da Constituição Federal e da jurisprudência firmada sobre a matéria, o cônjuge e os parentes do chefe do executivo são elegíveis para o mesmo cargo do titular, apenas quando este for reelegível. A princípio, foi o que ocorreu. Ana Grasiella concorreu ao pleito para o qual seu sogro seria reelegível. E, na sequência, buscou sua própria reeleição.
+    Assim sendo, os precedentes não se amoldariam perfeitamente ao quadro fático ora em análise, de modo a revelar a presença do fumus boni iuris necessário à concessão de medida cautelar.
+    Quanto ao perigo na demora, verifico sua existência porquanto o pleito suplementar encontra-se marcado para o próximo dia 28/10.
+    Isso posto, preenchidos os requisitos necessários, concedo efeito suspensivo ao agravo regimental interposto em favor da recorrente, a fim de suspender a realização da eleição suplementar e manter a requerente no cargo, até o trânsito em julgado do recurso extraordinário 1.028.577/RJ.
+    Comunique-se com urgência ao Tribunal Superior Eleitoral e ao Tribunal Regional Eleitoral do Estado do Rio de Janeiro.
+    Intime-se o requerido.
+    Publique-se.
+    Brasília, 4 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
