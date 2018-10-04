@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 552/553) que inadmitiu recurso especial por incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fls. 419/420):
+EMENTA: APELAÇÃO CÍVEL. EXECUÇÃO. EMBARGOS DE TERCEIRO. INTEMPESTIVIDADE. MANTENÇA DA SENTENÇA. 1 - Na execução, os embargos de terceiro são tempestivos quando opostos até 05 dias depois da arrematação, adjudicação ou remição, mais sempre antes da assinatura da respectiva carta, nos termos do artigo 1.048 do Código de Processo Civil. II - Vem sendo mitigada a interpretação deste artigo, para que a contagem do prazo se inicie a partir do momento em que o terceiro embargante tiver ciência do processo de execução. Precedentes STJ e [NOME] os embargos de terceiro após três anos da ciência inequívoca do processo de execução, vez que intimado da constrição/penhora efetivada no bem, a mantença da sentença que julga intempestivos os embargos de terceiro se impõe. Apelo conhecido e desprovido.
+O recurso especial (e-STJ fls. 518/539), fundamentado no art. 105, III, alínea "a", da CF, apontou violação do art. 1.048 do CPC/1973, suscitando a tempestividade dos embargos de terceiro opostos após a ciência do processo executivo, mas antes da hasta pública do bem.
+Não foram apresentadas contrarrazões (e-STJ fl. 549)
+O agravo (e-STJ fls. 557/579) refuta os fundamentos da decisão agravada e alega o cumprimento de todos os requisitos legais para o recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 584).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+O art. 1.048 do CPC/1973 possui a seguinte redação:
+Art. 1.048. Os embargos podem ser opostos a qualquer tempo no processo de conhecimento enquanto não transitada em julgado a sentença, e, no processo de execução, até 5 (cinco) dias depois da arrematação, adjudicação ou remição, mas sempre antes da assinatura da respectiva carta.
+Ao interpretar o referido dispositivo legal, a jurisprudência do STJ fixou o entendimento de que "os embargos de terceiro devem ser opostos até o quinto dia após a arrematação e antes de assinada a carta, se o terceiro tinha conhecimento da execução. Caso contrário, o prazo tem início a partir da efetiva turbação da posse que se dá com a imissão do arrematante na posse do bem" (AgRg no REsp n. 1.504.959/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2015, DJe 2/2/2016). Confira-se a ementa do referido precedente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. 1. EMBARGOS DE TERCEIRO. INTEMPESTIVIDADE. NÃO OCORRÊNCIA. 2. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, os embargos de terceiro devem ser opostos até o quinto dia após a arrematação e antes de assinada a carta, se o terceiro tinha conhecimento da execução. Caso contrário, o prazo tem início a partir da efetiva turbação da posse que se dá com a imissão do arrematante na posse do bem. Precedentes.
+2. Na hipótese, o Tribunal de origem constatou que a ora agravada adquiriu o imóvel objeto de penhora antes do ajuizamento da execução e até mesmo da emissão do título executado, não havendo, portanto, fraude à execução e tampouco intempestividade.
+3. Agravo regimental improvido.
+Também nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO DE INDENIZAÇÃO EM VIRTUDE DE ACIDENTE DO TRABALHO. SENTENÇA EXEQUENDA PROFERIDA ANTES DA EC N. 45/2004. COMPETÊNCIA DA JUSTIÇA COMUM. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. EMBARGOS DE TERCEIRO. TERMO FINAL DO PRAZO. PENHORA ELETRÔNICA. BACEN-JUD. DATA DA ASSINATURA DO ALVARÁ AUTORIZADOR DE LEVANTAMENTO DOS ATIVOS BLOQUEADOS. TEMPESTIVIDADE RECONHECIDA.
+1. Após a promulgação da Emenda Constitucional n. 45, de 8/12/2004, que alterou o art. 114 da Carta vigente, é da Justiça trabalhista a competência para processar e julgar as ações de indenização por danos morais ou patrimoniais decorrentes da relação de trabalho, salvo nos casos em que já houver sentença de mérito proferida pelo Juízo estadual anteriormente à edição da referida emenda. Nas hipóteses de existência de sentença anterior à EC n. 45, a competência será da Justiça comum, onde tramitará a ação até o trânsito em julgado e correspondente execução.
+2. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+3. Em hipótese de utilização do sistema BACEN-JUD, considera-se realizada a penhora no momento em que se dá a apreensão do dinheiro depositado ou aplicado em instituições financeiras, mas a alienação somente ocorre com a colocação do dinheiro à disposição do credor, o que acontece com a autorização de expedição de alvará ou de mandado de levantamento em seu favor, devendo este ser o termo ad quem do prazo de 5 (cinco) dias para apresentação dos embargos de terceiro.
+4. Recurso especial desprovido.
+(REsp 1.298.780/ES, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 19/3/2015, DJe 27/3/2015.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS. EXECUÇÃO. DESCONHECIMENTO. PRAZO. TERMO INICIAL. IMISSÃO DO ARREMATANTE NA POSSE. REQUISITOS DE ADMISSIBILIDADE PREENCHIDOS.
+1. Nos termos da jurisprudência desta Corte, os embargos devem ser opostos até o quinto dia após a arrematação e antes de assinada a carta, se o terceiro tinha conhecimento da execução. Caso contrário, o prazo tem inicio com a imissão do arrematante na posse do bem.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 389.222/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/12/2013, DJe 3/2/2014.)
+Portanto, o posicionamento desta Corte é no sentido de que a data da efetiva turbação da posse somente é levada em consideração para dilatar o prazo dos embargos de terceiro - para além dos 5 (cinco) dias da arrematação, da adjudicação ou da remissão - relativamente aos que tomaram conhecimento da execução com a imissão do arrematante na posse do bem, e não para antecipar o referido prazo em relação àqueles que sabiam da existência do feito executivo.
+No caso dos autos, a ora agravante teve conhecimento da execução quando foi intimada da penhora - por hora certa - no dia 16/4/2007 (e-STJ fl. 415).
+Dessa maneira, o acórdão recorrido - ao concluir que a "apelante/embargante tinha ciência da penhora desde o ano de 2007 e, portanto, esse seria o marco inicial para a oposição dos embargos, eis que, contra senso fazer valer a regra rígida inseria no art. 1048, do CPC, sem as ressalvas que são a ela inerentes" (e-STJ fl. 416) - dissentiu do entendimento do STJ.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para afastar a intempestividade dos embargos e determinar o retorno dos autos à origem para que prossiga no julgamento.
+Publique-se e intimem-se.
