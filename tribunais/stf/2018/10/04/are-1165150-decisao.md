@@ -1,0 +1,19 @@
+Decisão:
+    1. Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Apelação Cível. Embargos à Execução Fiscal. SPTRANS Pretensão à imunidade recíproca (IPVA) Sociedade de economia mista, que por sua natureza não se assemelha a Administração Pública Direta Não há como ampliar a interpretação da norma constitucional, na forma pleiteada (analogia por extensão) Improcedência dos embargos, mantida. Nega-se provimento ao recurso interposto.”
+    2. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, VI, a, da CF. Sustenta, em síntese, que presta serviço público essencial, de modo que faz jus à imunidade tributária recíproca.
+    3. A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No entanto, o recurso não merece trânsito.
+    Ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada.
+    Ressalta-se, ademais, que o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame das provas colhidas no correr do feito. Incidente a Súmula 279 do Colendo Supremo Tribunal Federal.
+    Inadmito, pois, o recurso extraordinário com fundamento no inciso V do art. 1.030 do Código de Processo Civil.”
+    4. A pretensão recursal não merece prosperar. No caso dos autos, note-se que o Tribunal de origem consignou o seguinte:
+    “Nessa espia, cumpre observar que a embargante presta serviços de transporte coletivo, “a autora é empresa de economia mista ..... Assim, não desenvolvendo a embargante serviço público essencial de transportes de passageiros e não se confundindo sua figura com a da Municipalidade, apesar de fazer parte da administração indireta, não faz ela jus à imunidade tributária prevista no art. 150, IV, “a”, da Constituição Federal” (fl. 94).
+    5. Neste sentido, para firmar entendimento diverso do acórdão recorrido quanto aos pontos aduzidos pela parte recorrente, seria indispensável o reexame do acervo probatório constante dos autos. Nessas condições, a hipótese atrai a incidência do enunciado da Súmula 279/STF. Confiram-se:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Imunidade tributária. Preenchimento dos requisitos autorizadores. Sociedade de economia mista. Ausência de comprovação do desempenho de serviço público essencial sem fim lucrativo. 4. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 1121100 AgR, Rel. Min. Gilmar Mendes)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IPTU. REDE FERROVIÁRIA FEDERAL RFFSA. IMUNIDADE TRIBUTÁRIA RECÍPROCA. SOCIEDADE DE ECONOMIA MISTA. PRESTADORA DE SERVIÇOS PÚBLICOS. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. 1. A jurisprudência do STF é firme no sentido de que controvérsia relativa ao preenchimento de requisitos para fazer jus à imunidade tributária cinge-se ao âmbito infraconstitucional. Súmula 279 do STF. 2. As razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual. Súmula 284 do STF. 3. Agravo regimental a que se nega provimento.” (RE 930409 AgR, Rel. Min. Edson Fachin)
+    6. Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+     Brasília, 04 de outubro de 2018
+Ministro Luís Roberto Barroso
+Relator
