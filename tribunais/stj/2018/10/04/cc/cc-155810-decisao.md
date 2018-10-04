@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o e. Tribunal Regional Federal da 3ª Região, suscitante, e o e. Tribunal de Justiça do Estado de São Paulo, suscitado.
+Ação: de indenização por danos morais e materiais c.c. pedido de alimentos, em razão do falecimento da genitora e esposa dos autores, que foi atropelada por um trem.
+ Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, sob o argumento de que "(..) em se tratando de demanda proposta contra empresa concessionária de serviço público federal e que ostenta vínculo contratual com a RFFSA, inconteste o interesse da União e a consequente competência recursal nos termos dos arts. 108, II e art. 109, I, da CF (..)". (fl. 933)
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, ao fundamento de que "(..) inexiste a vis attractiva para o processamento do feito perante a Justiça Federal, a União como Poder Concedente e na qualidade de sucessora da RFFSA não pode ser responsabilizada pelas atividades decorrentes da exploração do transporte ferroviário realizado pela MRS Logística S/A.". (fl. 995).
+Parecer do Ministério Público Federal: pelo conhecimento do conflito e competência do Juízo suscitado (fls. 1.009-1.013).
+É o relatório.
+Decide-se.
+1. Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Como visto, a controvérsia gira em torno de se definir qual o Juízo competente para processar e julgar demanda na qual se postulou o recebimento de indenização por danos morais e materiais decorrentes de atropelamento por um trem, que vitimou a mãe e esposa dos autores.
+Nesse contexto, o Juízo Federal suscitante se posicionou no sentido da ausência de interesse de ente federado na causa, nos exatos termos da Súmula nº 150 do STJ ("Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas."), sobressaindo, dessa forma, a competência da Justiça comum para análise do feito.
+Com essa orientação, confiram-se os seguintes julgados monocráticos, envolvendo a própria MRS Logística S.A.: CC n. 152.219/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, DJe 21/02/2018; CC n. 148.882/SP, relator Ministro RICARDO VILLAS BOAS CUEVA, DJe 18/08/2017; CC n. 132.261/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), DJe. 05/08/2015.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do e. Tribunal de Justiça do Estado de São Paulo, o suscitado.
+Publique-se. Intimem-se. Oficie-se.
