@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Município de Senador Cortes contra decisão que não admitiu o recurso especial com base na afirmativa de que "a questão discutida nos autos não coincide com a matéria tratada no Tema n. 592 (Resp n. 1.559/965/RS), pois nesse paradigma se discute a legitimidade da União para integrar a lide objetivando o pagamento do piso salarial nacional para os professores do magistério público da educação básica, nos termos da Lei n. 11.738/2008, questão distinta destes autos, em que se discute o direito da servidora de receber o piso salarial nacional instituído pela Lei Federal n. 11.738/2008, além da adequação da carga horária para que observado o percentual estipulado para atividades extraclasse, razão pela qual deixo de aplicar o paradigma citado" (e-STJ, fl. 261).
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "c" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 191):
+REEXAME NECESSÁRIO - APELAÇÃO CÍVEL - PROFESSOR MUNICIPAL - MUNICÍPIO DE SENADOR CORTES - LEI 11.738/2008 - PISO SALARIAL - JORNADA EXTRAORDINÁRIA - INEXISTÊNCIA DE PROVA. JUROS E CORREÇÃO MONETÁRIA. HONORÁRIOS.
+1 - O vencimento básico do professor deve-se adequar ao piso salarial instituído pela Lei 11.738/2008.
+2 - Imperiosa é a reforma da sentença e o desprovimento do recurso se não há qualquer prova nos autos de que o réu/apelado descumpre a Lei 11.738/2008 no que se refere às aulas em classe e extraclasse.
+3 - A correção monetária deverá se dar pelo IPCA, por ser o melhor índice que reflete a inflação acumulada no período, e juros de mora, a partir da citação; nos termos do art. 1º-F da Lei nº. 9.494/97, com redação dada pela Lei 11.960/2009, até a expedição do precatório ou do RPV, observada a modulação das ADIs 4.357 e 4.425.
+4 - Os honorários advocaticios devem ser fixados nos termos do art. 85, §§4º e 11, do CPC/15.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 239-245).
+O recorrente alega que é necessária a suspensão do processo até o julgamento do Recuso Especial n. 1.559.965/RS, submetido à sistemática dos recursos repetitivos.
+Afirma que "em ambos os casos o contexto fático é idêntico, ou seja, implementação do piso nacional para os profissionais do magistério pela Lei Federal n. 11.738/2008 e, por consequência, a definição da responsabilidade pelo referido pagamento" (e-STJ, fl. 304).
+É o relatório.
+Não assiste razão ao recorrente, uma vez que indica paradigma que não se aplica ao processo em análise.
+O tema n. 592 (Recurso Especial n. 1.559.965/RS) versa sobre a legitimidade da União para integrar a lide objetivando o pagamento do piso salarial nacional para os professores do magistério público da educação básica, nos termos da Lei n. 11.738/2008. Ocorre que, o caso em análise, diz respeito ao direito da servidora de receber o piso salarial nacional instituído pela Lei n. 11.738/2008, além da adequação da carga horária para que se observe o percentual das atividades extraclasse. Não se podendo afirmar que o paradigma citado reflete a mesma situação.
+Dessa forma, não há que se falar em suspensão do feito.
+Ainda que assim não fosse, o Tema n. 592 (Recurso Especial n. 1.559.965/RS) já teve tese fixada: "Os dispositivos do art. 4º, caput, e §§ 1º e 2º, da Lei n. 11.738/2008 não amparam a tese de que a União é parte legítima, perante terceiros particulares, em demandas que visam à sua responsabilização pela implementação do piso nacional do magistério, afigurando-se correta a decisão que a exclui da lide e declara a incompetência da Justiça Federal para processar e julgar o feito ou, em sendo a única parte na lide, que decreta a extinção da demanda sem resolução do mérito" (REsp 1.559.965/RS, de minha relatoria, Primeira Seção, DJe 21/6/2017).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
