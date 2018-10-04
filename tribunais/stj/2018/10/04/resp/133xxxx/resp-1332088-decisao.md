@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. TERRENO DE MARINHA. ANULAÇÃO DE AFORAMENTO. PRESCRIÇÃO. INCIDÊNCIA DOS PRAZOS PREVISTOS NO DECRETO 20.910/1932. OCORRÊNCIA DA PRESCRIÇÃO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela União com fundamento no artigo 105, III, "a", da Constituição Federal contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 1.105):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS INFRINGENTES. ANULAÇÃO DE TÍTULO DE AFORAMENTO. PRESCRIÇÃO. DIREITO REAL. APLICAÇÃO DOS PRAZOS DO CÓDIGO CIVIL.
+1. Se a pretensão versada na inicial dos autos diz respeito à anulação de ato administrativo de aforamento de terreno da marinha em beneficias dos réus e sendo a enfiteuse um direito real sobre coisa alheia, não é aplicável a norma da prescrição quinquenal (Decreto 20.910132) à ação que objetiva declarar sua extinção, mas sim o prazo de 15 anos (conforme o Código Civil anterior, art. 177) ou, na pior da hipóteses, de 10 anos (conforme o novo Código Civil, art. 205), pelo que, ainda que contado pela metade, não fulmina a pretensão posta em juizo.
+2. Prevalência do entendimento exarado no voto-condutor no sentido de dar provimento às apelações para afastar a extinção do processo pela ocorrência da exação prescricional, retomando os autos ao juizo de origem para regular processamento.
+A União sustenta que o acórdão recorrido contraria os artigos 1º e 9º do Decreto 20.910/1932, sob o argumento de que a demanda ajuizada pelos ora recorridos diz respeito à anulação de ato administrativo (anulação do ato de aforamento em área pública - terreno de marinha).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 1132-1133.
+Os autos foram redistribuídos ao Gabinete em razão do despacho proferido pela então relatora, Ministra Assusete Magalhães, nos seguintes termos:
+À fl. 1.044e, informa o Tribunal de origem que o presente Recurso Especial guarda conexão com o REsp 436.341/SC (fl. 67/6741 e 710e), Rel. Ministro Francisco Falcão, então componente da Primeira Turma desta Corte.
+Dessa forma, nos termos do art. 71 do RISTJ, §1º, o feito deve ser redistribuído por prevenção do órgão julgador, no caso, a Primeira Turma desta Corte.
+Do exposto, proceda-se à redistribuição dos presentes autos a um dos Ministros integrantes da Primeira Turma.
+I.
+Brasília (DF), 23 de maio de 2018.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Na origem, cuida-se de ação ordinária na qual os autores buscam a anulação do título de aforamento e, sucessivamente, a reintegração de posse, ao entendimento de que a área é particular, e indenização por perdas e danos.
+A sentença julgou o pedido improcedente em razão do reconhecimento da prescrição quinquenal com fundamento no Decreto n. 20.910/1932. Em sede de apelação, a Corte de origem, por maioria de votos, afastou a incidência do decreto ao fundamento de que o prazo deve ser regulado pelo Código Civil (15 anos, conforme CC/1916, ou 10 anos, nos termos do CC/2002), afastando a prescrição. Ao fim, o Órgão julgador apreciou embargos infringentes e manteve a reforma da sentença. Deste último julgado extrai-se a seguinte fundamentação (fls. 1-103-1.104):
+Como visto, os autores pleiteiam a anulação de ato administrativo de aforamento de terreno da marinha em benefícios dos réus. O bem da vida que buscam em juízo, portanto, é o restabelecimento do domínio direto e imediato que defendem possuir sobre o bem público, dada, segundo sustentam, à irregularidade da supressão de seu titulo anterior em favor dos réus.
+Sendo a enfiteuse um direito real sobre coisa alheia (cap. II, do Título III, do livro II, do Código Civil de 1916) não é aplicável a norma da prescrição quinquenal (Decreto 20.910/32) à ação que objetiva declarar sua extinção (TRFIR., AC 89.01.24442-0, 4ª Turma, Rel: Juiz Nelson Gomes da Silva, DJ 13-8-1990).
+ ..
+Deste modo, o prazo é de 15 anos (conforme o Código Civil anterior, art. 177) ou, na pior da hipóteses, de 10 anos (conforme o novo Código Civil, art. 205), pelo que, ainda que contado pela metade, não fulmina, a pretensão posta em juízo.
+Com efeito, o aforamento que se deseja anular foi deferido em 04/01/1985. Houve pleito administrativo, por parte dos autores/apelantes, de anulação de tal ato administrativo, em 12/05/1989. Em 05/12/1991 foi indeferido o pedido administrativo, sendo ajuizada a presente ação anulatória em 12/01/1996.
+Da data do indeferimento administrativo a do ajuizamento da presente ação anulatória, portanto, não transcorreram 5 anos, pois este prazo ocorreria somente em dezembro de 1996, ao passo que a demanda foi proposta em janeiro.
+O voto condutor do acórdão proferido em sede de embargos infringentes indica que se está diante de pedido de anulação de ato administrativo de aforamento de terreno de marinha e que teria ocorrido supressão irregular do título anterior (particular). O fundamento para se afastar a prescrição quinquenal prevista no Decreto n. 20.910/1932, portanto, concentrou-se em ser a enfiteuse um direito real previsto no Código Civil.
+Com efeito, a relação jurídica que tem por objeto a concessão ou anulação do aforamento sobre terreno de marinha é disciplinada, indiscutivelmente, por meio do regime jurídico de direito público e sob a sistemática de lei específica. A propósito: "Inaplicável o entendimento de que o laudêmio somente pode ser cobrado na transferência do imóvel aforado, nos termos do art. 686 do Código Civil, porque os imóveis localizados em terreno de marinha encontram-se sujeitos ao regime jurídico administrativo, sendo disciplinados por legislação específica, total ou parcialmente derrogatória dos princípios e dos institutos de Direito Privado (REsp 1.128.333/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/9/2010 - grifo nosso).
+O Código Civil de 1916 e o de 2002, conforme ressalvado pelos referidos diplomas legais, não são aplicáveis para fins operatividade das relações jurídicas surgidas pelo estabelecimento da enfiteuse em terreno de marinha, a qual é regulada por lei especial, conforme anunciado pelos próprios diplomas civis. Confira-se, in verbis:
+CC/1916:
+Art. 694. A sub-enfiteuse está sujeita às mesmas disposições que a enfiteuse. A dos terrenos de marinha e acrescidos será regulada em lei especial.
+CC/2002:
+Art. 2.038. Fica proibida a constituição de enfiteuses e subenfiteuses, subordinando-se as existentes, até sua extinção, às disposições do Código Civil anterior, Lei no 3.071, de 1o de janeiro de 1916, e leis posteriores.
+§ 2º A enfiteuse dos terrenos de marinha e acrescidos regula-se por lei especial (grifos nosso).
+Ao desfazimento do ato administrativo em questão, portanto, aplicam-se os prazos previstos no Decreto n. 20.910/1932.
+A propósito:
+PROCESSUAL CIVIL - ADMINISTRATIVO - RECURSO ESPECIAL - INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC - DEMARCAÇÃO DE TERRENO DE MARINHA - AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO - PRAZO PRESCRICIONAL QUINQUENAL. DECRETO 20.910/32.
+1. Os terrenos de marinha, cuja origem remonta à época do Brasil-Colônia, são bens públicos dominicais de propriedade da União, previstos no Decreto-Lei 9.760/46.
+2. O procedimento de demarcação de terrenos de marinha e seus acrescidos não atinge o direito de propriedade de particulares, pois não se pode retirar a propriedade de quem nunca a teve.
+3. A ação declaratória de nulidade dos atos administrativos (inscrição de imóvel como terreno de marinha) não tem natureza de direito real. Aplicável a norma contida no art. 1º do Decreto 20.910/32, contando-se o prazo prescricional a partir da conclusão do procedimento administrativo que ultima a demarcação.
+4. Recurso especial não provido (REsp 1.147.589/RS, Rel. Min. Eliana Calmon, Segunda Turma, DJe 24/03/2010 - grifo nosso).
+No caso, segundo consta no acórdão recorrido (fl. 1.104), o ato administrativo contra o qual se insurgem os autores, ora recorridos, foi praticado em 4/1/1985. Houve a interrupção do prazo prescricional previsto no artigo 1º do Decreto n. 20.910/1932 com o pedido administrativo para anulá-lo em 12/5/1989, voltando a correr, pela metade, a partir do termo do respectivo processo (artigo 9º), o que ocorreu em 5/12/1991. Deve-se, portanto, reconhecer a prescrição, pois a ação foi ajuizada em 12/1/1996, ou seja, após dois anos e meio da decisão administrativa.
+Ante o exposto, dou provimento ao recurso especial a fim de restabelecer a sentença de fls. 918-921 (e-STJ).
+Publique-se. Intimem-se.
