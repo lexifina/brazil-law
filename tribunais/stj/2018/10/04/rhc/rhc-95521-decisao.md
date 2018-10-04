@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], contra acórdão do Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.17.107946-0/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 10.12.2017 por ter supostamente praticado o delito tipificado no art. 157, caput, do Código Penal (roubo). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS - CRIME CONTRA O PATRIMÔNIO - ROUBO (ART. 157 DO CP) - GRAVIDADE CONCRETA DO CRIME - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - PRESENTES OS REQUISITOS DOS ART. 312 E 313 DO CPP - INSUFICIÊNCIA DE OUTRAS MEDIDAS CAUTELARES NÃO PRISIONAIS - ART. 319, CPP - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+- Evidenciado elementos aptos a demonstrar o fumus comissi delicti e o periculum libertatis, a segregação preventiva mostra-se necessária, mormente para garantia da ordem pública.
+- De acordo com posicionamento firmado pelo STJ, "as condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho licito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva".
+Ordem denegada (fl. 108).
+No presente recurso, alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal - CPP. Aponta que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito. Invoca o princípio da presunção de inocência.
+Ressalta as condições pessoais favoráveis do recorrente e sustenta ser suficiente, no caso concreto, a aplicação de medidas cautelares alternativas ao cárcere.
+Pondera que a manutenção da custódia cautelar seria desproporcionalmente severa, à luz dos enunciados da Súmula 440 do Superior Tribunal de Justiça e das Súmulas 718 e 719 do Supremo Tribunal Federal.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva, para que o recorrente possa responder ao processo em liberdade.
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, em consulta à página eletrônica do Tribunal de origem, constatou-se que, na Ação Penal n. 1208671-09.2017.8.13.0024, de que aqui se cuida, em 17.4.2018, sobreveio a prolação de sentença, que ora faço juntar, por meio da qual o paciente foi condenado à pena de 4 anos, 1 mês e 23 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 16 dias-multa.
+Foi-lhe, ainda, negado o direito de recorrer em liberdade e, quanto à custódia cautelar, a segregação antecipada restou mantida com base em novo fundamento além daqueles utilizados para sua decretação, assim consignados:
+Em que pese as alegações da Defesa, com relação à prisão do réu, em atendimento ao disposto no art. 387, §1º, do CPP, registro que o sentenciado deverá continuar preso, porque assim permaneceu durante toda a instrução do processo, conforme orientação da Súmula 07 do TJMG, e porque ainda presentes os motivos que determinaram a sua segregação cautelar, não havendo, desde então, qualquer modificação fática ou jurídica que lhe beneficie. Assim, a custódia preventiva ainda é necessária, como garantia da ordem pública. Recomende-o na prisão em que se encontra.
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do paciente, fica superada a alegação trazida no writ que ataca os fundamentos na decretação da prisão preventiva.
+Ademais, cumpre anotar que, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. RECEPTAÇÃO. NULIDADE DAS DECISÕES DE AUTORIZAÇÃO DAS INTERCEPTAÇÕES TELEFÔNICAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO JUDICIAL. JUÍZO DE COGNIÇÃO MAIS AMPLO. WRIT PREJUDICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Com a superveniência da prolação de sentença condenatória, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático processual.
+2. A decisão agravada, que julgou prejudicado o habeas corpus, por perda de objeto, não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+3. Agravo Regimental improvido (AgRg no HC 389.001/MG, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 04/12/2017).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TENTATIVA DE FURTO CIRCUNSTANCIADO. PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA DE CERCEAMENTO DE DEFESA. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. PRISÃO PREVENTIVA MANTIDA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. NOVOS FUNDAMENTOS. PREJUDICIALIDADE. REGIME INICIAL SEMIABERTO. COMPATIBILIDADE ENTRE A PRISÃO CAUTELAR E O REGIME MENOS GRAVOSO. NECESSIDADE DE ADEQUAÇÃO. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - O art. 557 do CPC c/c o 3º do CPP e 34, XI e XX, do RISTJ, permite ao relator negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante nos Tribunais superiores, não importando em cerceamento de defesa ou violação ao princípio da colegialidade.
+II - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+III - Na linha da jurisprudência desta Corte, o pedido de revogação da prisão preventiva encontra-se prejudicado em virtude da superveniência de novo título prisional ao qual foram agregados novos fundamentos para a manutenção da segregação cautelar do recorrente.
+IV - Estabelecido na sentença condenatória o regime semiaberto para o início do cumprimento das penas, e ressalvado o entendimento pessoal deste relator, deve o agravante aguardar o trânsito em julgado da condenação em tal regime, compatibilizando-se a prisão cautelar com o modo de execução determinado na sentença condenatória.
+Agravo Regimental desprovido. Ordem concedida de ofício para determinar que o agravante aguarde o trânsito em julgado da condenação no regime semiaberto (AgRg no RHC 59.075/MG, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/04/2016).
+Dessa forma, inegável a perda superveniente do objeto do recurso.
+Ante o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
