@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Agência Nacional de Transportes Terrestres - ANTT contra decisão que inadmitiu o recurso especial ante a razoabilidade da decisão tomada em segunda instância.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com base na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+Ação demolitória. Construção em área de domínio de rodovia e via férrea. Princípio da vedação ao comportamento contraditório. Boa fé da parte ré.
+Prévia indenização.
+1. A hipótese trata de ação demolitória, visando à remoção de construção executada irregularmente dentro da faixa de domínio da Rodovia BR -393, em Paraíba do Sul/RJ (fl. 27), tendo havido a notificação do morador (fl. 28), em 05.03.2013, com prazo de 20 dias para desocupação do imóvel, sem que tenha corrido seu cumprimento.
+2. In casu, foi realizada a perícia técnica, cujo laudo demonstrou que o imóvel em questão "está parcialmente localizado no interior da faixa de domínio de uma rodovia federal e de sua área não edificante, além de também situar-se na faixa de domínio e respectiva área não -edificante de uma ferrovia".
+3. Uma vez demonstrado, por meio de perícia que a edificação foi erguida em faixa de domínio, área de segurança da rodovia fixada pelo Poder Público, deve-se confirmar a determinação de desocupação do referido imóvel, bem como a demolição das edificações existente na faixa de domínio, tal como assinalado no laudo pericial.
+4. Destaque-se dentre as conclusões do laudo pericial que o imóvel situa-se em logradouro com denominação concedida pela Prefeitura de Paraíba do Sul/RJ contando com serviços básicos, que para serem fornecidos, necessitam que a localidade possua ao menos uma ínfima infraestrutura e denominação para que as redes sejam instaladas e as cobranças expedidas, sendo certo que os moradores pagam seus tributos junto ao Município e os serviços de abastecimento, residindo em logra- douro público reconhecido pela Prefeitura de Paraíba do Sul/RJ.
+5. Em situações como essa em que o ente municipal estimula a ocupação da área e o ente federal mantém-se inerte por décadas, revela-se contraditória a conduta da autora de demolir o imóvel, por violação ao princípio da boa-fé.
+6. A tutela do princípio da boa-fé e da confiança em situações como a dos autos, tem sido objeto de estudo pela doutrina, sob o enfoque da aplicação do princípio da vedação ao comportamento contraditório (venire contra factum proprium) ou teoria dos atos próprios, como é conhecido no Direito Administrativo, não podendo a parte que criou com o seu comportamento anterior uma aparência de legitimidade da relação jurídica, vir a adotar conduta contrária, com a vulneração de direito que em razão da conduta anterior já se acreditava incorporado ao patrimônio da parte oposta.
+7. " ..  a melhor forma de compatibilizar a boa-fé do réu aflo- rada pela conduta do Município e da União com a obrigação as- sumida pela concessionária de promover a desocupação da faixa de domínio da rodovia é admitir a demolição, mesmo por- que a referida faixa visa garantir a segurança dos seus usuários, os quais se encontram em risco se mantida a edificação tal como se encontra, porém sujeitando-a à prévia indenização das ben- feitorias realizadas pelo réu". (Grifei).
+8. Recurso autoral parcialmente provido.
+A ANTT alega violação dos arts. 99, I, do Código Civil e 4º, III, da Lei n. 6.766/1979. Alega que o condicionamento da demolição à prévia indenização não encontra amparo legal.
+Decido.
+Com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
