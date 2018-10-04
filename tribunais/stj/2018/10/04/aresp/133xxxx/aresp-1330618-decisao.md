@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por ISAC FAVORITO contra decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão assim ementado:
+PLANO DE SAÚDE. ART. 31 DA LEI 9656/98. RECUSA DO AUTOR NA MANUTENÇÃO DO PLANO. FALTA DE INTERESSE DE AGIR. EXTINÇÃO SEM APRECIAÇÃO DO MÉRITO. SENTENÇA REFORMADA. 1 - Ação declaratória visando a manutenção do plano de saúde ao aposentado, nas mesmas condições de quando estava na ativa. Art. 31 da Lei 9656/98. 2 - Oferta de adesão ao plano de saúde para os inativos no momento da rescisão do contrato de trabalho. Recusa expressa. Falta de interesse de agir. 3- Apelação do autor não provida. Recurso da ré provido.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. ACÓRDÃO. AUSÊNCIA DE OMISSÃO. 1- As questões alegadas nos embargos de declaração serão analisadas pelo MM Juízo de origem, uma vez que a sentença foi anulada. 2- Embargos de declaração rejeitados.
+Nas razões do especial, aponta o recorrente a existência de dissídio jurisprudencial, além da violação do artigo 31 da Lei 9656/98, alegando que sempre teve interesse em permanecer no plano de saúde, visto ter usufruído durante vinte e sete anos do convênio e que não aderiu à proposta, quando se aposentou, em face de sua vulnerabilidade e hipossuficiência como consumidor.
+Requer a procedência da ação para que ele seja incluído no plano de saúde coletivo, arcando ele, com o pagamento integral da mensalidade.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse não merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Da análise dos autos, verifico que o recurso especial vai de encontro ao entendimento desta Corte, razão pela qual o recurso especial esbarraria no óbice sumular nº 83, do STJ, aplicável aos recursos interpostos com base em ambas as alíneas (AgInt no AREsp 720.037/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 3/5/2016, DJe 11/5/2016).
+É o que se depreende da leitura do seguinte trecho (fls. 641-643, e-STJ):
+Isso porque, embora o autor tenha preenchido os requisitos do artigo 31 da Lei 9656/98, renunciou ao seu direito de permanecer no plano ao optar por "SER EXCLUÍDO do seguro-saúde, juntamente com todo meu grupo familiar de forma irrevogável e irretratável", do termo de opção (fls. 200/201).
+O referido termo faz expressa menção à Lei 9.656/98 e especifica os preços para custeio integral do prêmio. Vê-se, pois, que a empregadora ofereceu, formalmente, a manutenção do plano de saúde, em cumprimento às resoluções 20 e 21 do CONSU.
+(..)
+III) Concluindo, a r. sentença deve ser reformada, para que seja reconhecida a falta de interesse de agir, jugando-se extinta a ação, sem julgamento do mérito, nos termos do artigo 267, VI, do Código de Processo Civil. Sucumbência mantida.
+Com efeito, nos termos do artigo 1º, § 6º, da Resolução CONSU n.º 21/99, "o aposentado de que trata o artigo 1.º, deve optar pela manutenção do benefício aludido no caput, no prazo máximo de trinta dias após seu desligamento, em resposta à comunicação da empresa empregadora, formalizada no ato da rescisão contratual".
+No caso em análise, o ora recorrente não manifestou seu interesse na manutenção do plano de saúde por tempo superior ao admitido, de modo que é imperioso concluir pelo acerto do Tribunal de origem.
+Confiram os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. AÇÃO DECLARATÓRIA. RESTABELECIMENTO DE CONTRATO DE SEGURO. FUNCIONÁRIO APOSENTADO QUE CONTRIBUIU POR QUINZE ANOS PARA O CONTRATO COLETIVO DE SAÚDE. AUSÊNCIA DE DECADÊNCIA. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 2º, § 6º DA RESOLUÇÃO CONSU N. 21/1999. PRESCRIÇÃO DECENAL NÃO CONFIGURADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Para efeitos do que dispõe o art. 31 da Lei 9.656/98, basta que o empregado tenha preenchido os requisitos legais da aposentadoria e que tenha contribuído por tempo mínimo de dez anos para que, a partir de então, faça jus a permanecer no plano de saúde, desde que passe a pagar integralmente o plano.
+2. É necessária a comunicação inequívoca ao empregado acerca do direito de optar pela manutenção no plano de saúde em grupo para que possa ser iniciada a contagem do prazo de 30 dias prevista na Resolução CONSU n. 21/1999, o que não está demonstrado no caso dos autos (REsp n. 1.237.054/PR, Relator o Ministro Paulo de Tarso Sanseverino, DJe 19/05/2014).
+3. Agravo regimental improvido.
+(AgRg no REsp 1578938/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 21/9/2016)
+RECURSO ESPECIAL. CIVIL, PROCESSUAL CIVIL E CONSUMIDOR. PLANO DE SAÚDE EM GRUPO. EMPREGADO DEMITIDO SEM JUSTA CAUSA. PERMANÊNCIA NA QUALIDADE DE BENEFICIÁRIO. APLICAÇÃO DO ARTIGO 30, CAPUT, DA LEI N. 9656/98. BOA-FÉ OBJETIVA. INTERPRETAÇÃO DA RESOLUÇÃO 20/1999 DO CONSU. PRAZO DE 30 DIAS PARA FORMALIZAR A OPÇÃO DE MANUTENÇÃO NO PLANO. NECESSIDADE DE COMUNICAÇÃO INEQUÍVOCA DO EMPREGADOR, CONFERINDO ESSA OPÇÃO AO EX-EMPREGADO. ENTENDIMENTO RESPALDADO NA RESOLUÇÃO NORMATIVA Nº 275/2011 DA ANS. RECURSO ESPECIAL PROVIDO.
+1. Demanda proposta por empregada demitida, pouco mais de trinta dias após sua demissão, buscando manter a sua vinculação ao plano de saúde empresarial, mediante o pagamento das parcelas correspondentes.
+2. Decorre do princípio da boa-fé objetiva o dever de comunicação expressa ao ex-empregado do seu direito de optar pela manutenção da condição de beneficiário do plano de saúde, no prazo razoável de 30 dias a partir do seu desligamento da empresa.
+3. A contagem desse prazo somente inicia-se a partir da "comunicação inequívoca ao ex-empregado sobre a opção de manutenção da condição de beneficiário de que gozava quando da vigência do contrato de trabalho" (parágrafo único do art. 10 da RN 275/2011 da ANS).
+4. Não comprovação da efetiva comunicação à autora.
+5. Recurso especial provido.
+(REsp 1237054/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 19/5/2014)
+Ademais, o acolhimento das razões despendidas pelo recorrente implicaria, necessariamente, o reexame do contexto fático-probatório, o que é vedado nesta via do recurso especial, em razão do óbice contido na Súmula nº 7/STJ.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
