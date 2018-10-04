@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pela 1ª Câmara Cível do TJRO que recebeu a seguinte ementa (e-STJ fl. 371):
+Processo civil. Perícia judicial. Qualificação do perito. Assistente do juízo. Qualificação compatível com o mister. Conduta profissional. Inexistência de mácula. Manutenção da nomeação. No âmbito do Sistema Processual Civil, em especial do novo Diploma vigente, todos os atores processuais atuam em colaboração com o magistrado, de tal modo que. especificamente, o perito judicial colabora com sua aptidão técnica de conhecimento, auxiliando o juiz para o deslinde da causa. E. neste contexto, basta ao expert formação compatível com o ato a ser produzido de tal modo que não seja exigível o superprofissional. a ponto de ter qualificação extraordinária. Assim, é legitima a decisão que nomeia engenheiro civil para a realização de pericia apuratória de danos causados pelos alagamentos do no Madeira. Inexistindo prova eficaz e concreta que possa impor suspeição ao perito, não há que se falar em sua destituição.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 400/403).
+Sobreveio o recurso especial (e-STJ fls. 524/547), fundado no art. 105, III, "a", da CF, no qual a recorrente sustentou violação dos arts. 1º, 3º e 6º, III, da Lei de Serviços Notariais, além do art. 384 do CPC/2015, pois as atas notariais apresentadas na origem pela recorrente demonstrariam os vícios da conduta do perito responsável pela prova pericial produzida no feito.
+Apontou ainda afronta ao art. 1.022 do CPC/2015, aduzindo que o TJRO não teria examinado as alegações de violação legal apontadas.
+É o relatório.
+Decido.
+Inicialmente, não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+A Corte de origem reconheceu a licitude da qualificação e da conduta do perito nomeado pelo juízo, sendo que as provas apresentadas pela recorrente não revelam a suspeição do técnico, pois "as declarações realizadas em cartório extrajudicial unilaterais não servem a comprovar conduta macular do perito, pois, qualquer pessoa pode voluntariamente se dirigir a um cartório e afirmar algo inverídico sobre outrem, e tal declaração não se tornaria verdade pelo simples fato ter sido prestada mediante um tabelião" (e-STJ fl. 370).
+Constata-se que o TJRO se baseou nos fatos e provas dos autos, para reconhecer a idoneidade do expert responsável pela prova pericial produzida na instrução. Nesse sentido, para rever o entendimento da Corte local, seria necessário reexaminar o conjunto fático-probatório do feito, o que é incabível no recurso especial, ante a Súmula n. 7/STJ.
+Diante do exposto, NÃO CONHEÇO do recurso.
+Ante a inexistência de fixação de ônus de sucumbência na origem, deixo de majorar os honorários advocatícios.
+Publique-se. Intimem-se.
