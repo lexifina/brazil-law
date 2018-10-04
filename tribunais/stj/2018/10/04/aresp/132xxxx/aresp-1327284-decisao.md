@@ -1,0 +1,40 @@
+DECISÃO
+ Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Ação de cobrança movida pela concessionária em face da montadora. Sentença que extinguiu o processo. Interesse processual presente. Acordo firmado entre as partes que previu repasse de IPI da montadora à concessionária. Extinção afastada. Teoria da causa madura.
+A análise do acordo firmado entre as partes permite verificar que o direito de crédito da autora está vinculado à condição suspensiva, consistente no trânsito em julgado da decisão favorável à ré, no mandado de segurança impetrado com o fim de obter a restituição ou a compensação dos valores pagos a maior a título de IPI.
+A disposição contratual é expressa ao mencionar o trânsito em julgado da decisão favorável à Mercedes-Benz na ação que seria ajuizada, condição implementada em 08 de agosto de 2011, quando transitou em julgado a decisão concessiva da segurança. Ré que deve efetuar o repasse do crédito de IPI recebido.
+Sentença de extinção afastada. Prejudicado o apelo dos patronos da ré. Provido o recurso da autora.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 112 do Código Civil, bem como alega desproporcionalidade na condenação sucumbencial.
+Contrarrazões apresentadas (e-STJ, fls. 515-532).
+O recurso não foi admitido na origem, nos termos da decisão de fls. 585-586, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+No tocante às alegações de ofensa ao art. 112 do Código Civil, verifico que não merecem prosperar, pois a irresignação se pauta, em suma, à interpretação de cláusulas contratuais, o que é vedado na instância extraordinária em razão do óbice descrito na Súmula 5/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AUTORA.
+1. Alterar as premissas adotadas pelo decisum atacado, no tocante ao direito do autor de realizar o recadastramento no condomínio recorrido, demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1050745/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 17.9.2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. .SÚMULA SEGURADORA LITISDENUNCIADA. INCIDÊNCIA DE JUROS DE MORA A PARTIR DA CITAÇÃO. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de indenização por danos materiais cumulada com pedido de compensação por danos morais.
+2. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Segundo entendimento desta Corte Superior, a responsabilidade da litisdenunciada pelo pagamento dos juros de mora é contada a partir da sua citação na ação indenizatória, pois, apesar da inexistência do vínculo contratual entre a seguradora e a parte ora agravante, a responsabilidade decorre do contrato de seguro firmado com a parte segurada.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte. 5. Agravo interno não provido.
+(AgInt no AREsp 1276267/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 13.9.2018)
+Relativamente à revisão dos honorários em razão da suposta desproporcionalidade, verifico que a recorrente não apontou quais dispositivos de lei federal entendeu por violados, de modo a permitir o conhecimento do recurso especial com espeque tanto na alínea "a" quanto na alínea "c" do inciso III do art. 105 da Constituição Federal.
+Assim, imperioso concluir pela incidência da Súmula n. 284 do egrégio Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. TERMO FINAL DO PENSIONAMENTO. SÚMULA 284/STF. DANOS MORAIS. VALOR RAZOÁVEL.
+1. Segundo o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). Ressalva do ponto de vista pessoal da Relatora.
+2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da CF não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.432.383/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24.6.2014, DJe 1º.8.2014).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO COM FULCRO NA ALÍNEA "C" DO ART. 105, III DA CONSTITUIÇÃO FEDERAL. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF. FUNDAMENTO INATACADO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO NÃO PROVIDO.
+(..)
+2. A jurisprudência consolidada deste Superior Tribunal determina que na interposição do recurso especial pela alínea ""c" do permissivo constitucional é preciso particularizar o dispositivo de lei federal violado para a análise da divergência jurisprudencial entre os acórdãos recorrido e paradigma. A falta deste pressuposto recursal enseja deficiência na fundamentação e inviabiliza do conhecimento do apelo nobre, ante a incidência, por analogia, da Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. "Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial" (..) "A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial" (AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18.12.2013, DJe 17.03.2014).(..)
+(AgInt nos EDcl no AREsp 925.438/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10.11.2016, DJe 23.11.2016).
+Em face do exposto, nego provimento ao agravo.
+Observados os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Intimem-se.
