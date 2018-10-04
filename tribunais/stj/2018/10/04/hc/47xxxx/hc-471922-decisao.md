@@ -1,0 +1,14 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 5006542-94.2018.4.03.0000, em que foi determinada a conversão em privativa de liberdade das penas restritivas de direitos a que condenado, além da regressão do regime inicial de cumprimento da pena para o semiaberto.
+A defesa assere que " o  legislador não previu, como efeito do descumprimento da pena restritiva de direitos, a regressão de regime nem considerou tal descumprimento um ato de descaso com o Judiciário. O legislador considerou o descumprimento da medida alternativa como causa da reconversão em pena privativa de liberdade, ou seja, como mera perda do benefício a ele concedido" (fl. 7, destaquei), razão pela qual requer o estabelecimento do regime inicial aberto.
+Decido.
+Sobre o tema em debate, é imperioso salientar que as Turmas que compõem a Terceira Seção deste Superior Tribunal possuem o entendimento pacificado de que, caracterizado o descumprimento das condições relativas às penas restritivas de direitos impostas ao apenado, a regressão a regime prisional mais gravoso aliado à conversão das reprimendas configura bis in idem, devendo ser iniciado o cumprimento da pena no regime estabelecido na sentença condenatória. Confiram-se:
+ ..
+3. Caracteriza bis in idem a regressão para regime prisional mais gravoso do que o fixado na sentença definitiva de forma conjunta com a conversão da pena restritiva de direitos em privativa de liberdade, porquanto evidente que estão sendo aplicadas duas penalidades pela prática de um único ato: descumprimento da reprimenda substituída (HC-357.384/SC, 6ª Turma, Relator Ministro Rogério Schietti Cruz, DJe de 2/2/2017).
+4. Habeas corpus não conhecido. Ordem concedida de ofício para garantir ao paciente o cumprimento da pena privativa de liberdade no regime aberto (HC n. 418.291/ES, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/8/2018, grifei).
+ ..
+3. Caracteriza bis in idem a regressão para um regime prisional mais gravoso do que o fixado no título executivo de forma simultânea com a reconversão da pena restritiva de direitos em privativa de liberdade.
+4. Recurso desprovido. Ordem concedida, de ofício, para para afastar a regressão de regime imposta ao paciente (RHC n. 95.561/RS, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/4/2018, sublinhei).
+Dessa forma, dada a condenação do paciente pela prática do delito previsto no art. 180, § 6º, do Código Penal, à pena de 2 anos de reclusão, em regime inicial aberto, mais multa, é imperioso o afastamento da regressão operada pelo Juízo da execução penal, para que se inicie o cumprimento da pena privativa de liberdade no regime apontado alhures.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo, in limine, a ordem para afastar a regressão ao regime semiaberto.
+Publique-se e intimem-se.
