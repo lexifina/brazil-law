@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA DE PRECATÓRIO. AVALIAÇÃO NECESSÁRIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Rio Grande do Sul, com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça Gaúcho, assim ementado (fl. 242):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO CAUTELAR. CAUÇÃO. PRECATÓRIOS. DEFERIMENTO. EFEITOS ANTECIPATÓRIOS DE PENHORA FUTURA.
+Viável a ação cautelar que pretende a caução antecipatória da penhora, a fim de que o Estado expeça certidão positiva com efeito de negativa.
+O precatório expedido contra a Fazenda Pública é crédito líquido passível de ser penhorado. Ademais, a ordem estabelecida no art. 11 da LEF não é absoluta.
+Os embargos de declaração foram rejeitados, conforme ementa de fl. 276.
+No apelo especial, a parte recorrente alega, além de dissídio jurisprudencial, violação do art. 11 da Lei 6.830/1980, porquanto a Fazenda Pública não pode ser compelida a aceitar os precatórios oferecidos em caução.
+Contrarrazões às fls. 317-325.
+Juízo positivo de admissibilidade às fls. 329-334.
+É o relatório. Passo a decidir.
+O cerne da irresignação é a possibilidade ou não de recusa da utilização de precatórios como caução antecipatória da penhora em ação cautelar fiscal. Nesse diapasão, tem-se que a Corte de origem decidiu em desconformidade com o entendimento deste Tribunal Superior, onde se firmou em sede de recurso representativo de controvérsia (REsp 1337790/PR, Rel. Min. Herman Benjamin, Primeira Seção, DJe de 7/10/2013):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. PRECATÓRIO. DIREITO DE RECUSA DA FAZENDA PÚBLICA. ORDEM LEGAL. SÚMULA 406/STJ. ADOÇÃO DOS MESMOS FUNDAMENTOS DO RESP 1.090.898/SP (REPETITIVO), NO QUAL SE DISCUTIU A QUESTÃO DA SUBSTITUIÇÃO DE BENS PENHORADOS. PRECEDENTES DO STJ.
+1. Cinge-se a controvérsia principal a definir se a parte executada, ainda que não apresente elementos concretos que justifiquem a incidência do princípio da menor onerosidade (art. 620 do CPC), possui direito subjetivo à aceitação do bem por ela nomeado à penhora em Execução Fiscal, em desacordo com a ordem estabelecida nos arts. 11 da Lei 6.830/1980 e 655 do CPC.
+2. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a divergência, tal como lhe foi apresentada.
+3. Merece acolhida o pleito pelo afastamento da multa nos termos do art. 538, parágrafo único, do CPC, uma vez que, na interposição dos Embargos de Declaração, a parte manifestou a finalidade de provocar o prequestionamento. Assim, aplica-se o disposto na Súmula 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+4. A Primeira Seção do STJ, em julgamento de recurso repetitivo, concluiu pela possibilidade de a Fazenda Pública recusar a substituição do bem penhorado por precatório (REsp 1.090.898/SP, Rel. Ministro Castro Meira, DJe 31.8.2009). No mencionado precedente, encontra-se como fundamento decisório a necessidade de preservar a ordem legal conforme instituído nos arts. 11 da Lei 6.830/1980 e 655 do CPC.
+5. A mesma ratio decidendi tem lugar in casu, em que se discute a preservação da ordem legal no instante da nomeação à penhora.
+6. Na esteira da Súmula 406/STJ ("A Fazenda Pública pode recusar a substituição do bem penhorado por precatório"), a Fazenda Pública pode apresentar recusa ao oferecimento de precatório à penhora, além de afirmar a inexistência de preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre o da efetividade da tutela executiva. Exige-se, para a superação da ordem legal prevista no art. 655 do CPC, firme argumentação baseada em elementos do caso concreto. Precedentes do STJ.
+7. Em suma: em princípio, nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem legal. É dele o ônus de comprovar a imperiosa necessidade de afastá-la, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC.
+8. Diante dessa orientação, e partindo da premissa fática delineada pelo Tribunal a quo, que atestou a "ausência de motivos para que (..) se inobservasse a ordem de preferência dos artigos 11 da LEF e 655 do CPC, notadamente por nem mesmo haver sido alegado pela executada impossibilidade de penhorar outros bens (..)" - fl. 149, não se pode acolher a pretensão recursal.
+9. Recurso Especial parcialmente provido apenas para afastar a multa do art. 538, parágrafo único, do CPC. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+Ressalta-se que muito embora o recurso repetitivo discuta o direito fazendário em sede de execução fiscal e o caso concreto trate de ação cautelar, o entendimento é o mesmo em ambas as situações. Com efeito, veja-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CAUTELAR. CAUÇÃO ANTECIPATÓRIA DE PENHORA EM EXECUÇÃO FISCAL. OFERECIMENTO DE PRECATÓRIO. RECUSA DA FAZENDA PÚBLICA. LEGITIMIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. (..)
+2. A orientação da Primeira Seção/STJ firmou-se no sentido de que a penhora (ou eventual substituição de bens penhorados) deve ser efetuada conforme a ordem legal, prevista no art. 655 do CPC e no art. 11 da Lei 6.830/80. Assim, não obstante o precatório seja um bem penhorável, a Fazenda Pública pode recusar a nomeação de tal bem, quando fundada na inobservância da ordem legal, sem que isso implique ofensa ao art. 620 do CPC (REsp 1.090.898/SP, 1ª Seção, Rel. Min. Castro Meira, DJe de 31.8.2009 - recurso submetido à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ).
+3. Por outro lado, se o precatório é oferecido como caução (antecipação de penhora) em ação cautelar, para fins de obtenção de certidão positiva de débito com efeito de negativa, a sua aceitação deve observar o mesmo regime da garantia ofertada em sede de execução fiscal.
+4. Agravo regimental não provido. (AgRg no REsp 1577021/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 10/3/2016)
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AÇÃO CAUTELAR. CAUÇÃO ANTECIPATÓRIA DE PENHORA EM EXECUÇÃO FISCAL. PRECATÓRIOS JUDICIAIS. RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. CONTRIBUINTE. NÃO PRODUÇÃO DE PROVA INEQUÍVOCA PARA AFASTAR A PRESUNÇÃO DE CERTEZA E LIQUIDEZ [NOME]. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. (..)
+2. A jurisprudência do Superior Tribunal de Justiça admite a penhora de crédito relativo a precatório judicial. Entretanto, não se equiparando o precatório a dinheiro ou a fiança bancária, mas a direito de crédito, a Fazenda Pública pode recusar a nomeação ou a substituição do bem por quaisquer das causas previstas no art. 656 do CPC, ou nos arts. 11 e 15 da LEF. Tal orientação foi reafirmada pela Primeira Seção, no julgamento do REsp 1.090.898/SP, submetido ao rito do art. 543-C do CPC, e na edição da Súmula 406/STJ: "A Fazenda Pública pode recusar a substituição do bem penhorado por precatório".
+3. Se o precatório é oferecido, a título de caução, em Medida Cautelar, com o fito de viabilizar futura constrição em Execução Fiscal, deve ser adotado o entendimento de que a Fazenda Pública pode se opor ao pleito do contribuinte. Afinal, deve prevalecer o mesmo entendimento onde existe idêntica razão fundamental.
+4. (..)
+5. (..)
+6. Agravo Regimental não provido.
+(AgRg no AREsp 710804/DF, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 20/11/2015)
+Ante o exposto, dou provimento ao recurso especial, para restabelecer a sentença. Sem majoração em honorários.
+Publique-se. Intimem-se.
