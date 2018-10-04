@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário cujo objeto é acórdão do Tribunal Regional Federal da 5ª Região assim ementado (eDOC 01, p. 206):
+    “TRIBUTÁRIO. PRESCRIÇÃO QUINQUENAL. AÇÃO AJUIZADA APÓS A ENTRADA EM VIGOR DA LEI COMPLEMENTAR 118/2005. CONTRIBUIÇÃO PREVIDENCIÁRIA. BASE DE CÁLCULO. AUXÍLIO DOENÇA. AUXÍLIO-ACIDENTE. TERÇO CONSTITUCIONAL DE FÉRIAS. NÃO INCIDÊNCIA. FÉRIAS GOZADAS E SALÁRIO MATERNIDADE. INCIDÊNCIA. COMPENSAÇÃO. ART. 66, DA LEI N°. 8.383/91. ART. 170-A, DO CTN. TAXA SELlC. HONORÁRIOS ADVOCATÍCIOS.
+    1. O plenário do STF, no julgamento do RE 566.621/RS, submetido ao regime da "Repercussão Geral", chegou à conclusão de que o prazo prescricional de cinco anos, definido nos termos do art. 3° da Lei 118/2005, deve incidir sobre as ações de repetição de indébito ajuizadas após o decurso da "vacatio legis" de 120 dias, ou seja, a partir de 09/06/2005, ainda que estas ações se refiram a pagamentos indevidos realizados anteriormente a tal marco temporal.
+    2. Ação que foi proposta em 08/06/2010. Prescrição do direito à restituição dos recolhimentos indevidos realizados em data anterior a 08/06/2005.
+    3. Os valores pagos aos empregados, a título de férias gozadas e salário-maternidade, possuem natureza salarial, razão pela qual é legitima a incidência da contribuição previdenciária patronal sobre os mesmos. Precedentes do STJ.
+    4. O terço constitucional de férias ostenta natureza indenizatória, não integrando a base de cálculo da contribuição previdenciária, conforme orientação pacificada no STF e, também, no STJ (EREsp 956.289/RS, ReI. Min. Eliana Calmon).
+    5. O auxílio-doença, pago pelo empregador até o 15° dia de afastamento do empregado, e o auxílio-acidente detêm natureza indenizatória, constituindo, assim, verbas infensas à incidência da contribuição previdenciária patronal.
+    6. Consoante orientação firmada no STJ, a compensação tributária há de ser regida pela lei vigente no momento do ajuizamento da ação.
+    7. Caso em que os valores recolhidos a maior apenas poderão ser compensados com débitos vincendos alusivos a tributos da mesma espécie, nos termos do art. 26, § único da Lei nº. 11.457/2007, c/c o art. 66 da Lei nº. 8.383/91, vigentes a época da propositura da demanda (08/06/2010)
+    8. A correção monetária e os juros de mora deverão ser aplicados mediante a incidência da taxa Selic (que já engloba ambos os acréscimos), desde o recolhimento indevido, com fundamento na Lei nº, 9.250/95.
+    9. Incidência do art. 170-A, do CTN, que veda a compensação antes do trânsito em julgado.
+    10. Redução dos honorários advocatícios (arbitrados pelo Juiz "a quo" em 10% sobre o valor' da condenação), para o montante fixo de R$ 1.000,00 (um mil reais), tendo em vista a simplicidade da causa, bem como os princípios da ponderação e da razoabilidade, Art. 20, § 4°, do CPC.
+    11. Apelação da parte autora improvida. Remessa Necessária provida em parte (itens 2, 7 e 10).”
+    No recurso extraordinário interposto com fundamento no art. 102, III, a e b, do permissivo constitucional, aponta-se violação ao art. 195, I, “a”, e 201, §4º, da Constituição Federal.
+    Nas razões recursais (eDOC 02, p. 48), verifica-se que a controvérsia cinge-se à natureza jurídica dos valores pagos a título de terço de férias a empregados, bem como seus desdobramentos para fins de incidência do referido tributo sob os valores pagos nos primeiros 15 dias de afastamento do empregado.
+    De plano, observa-se que o STF já rejeitou a repercussão geral das questões alusivas à incidência de contribuição previdenciária sobre os valores pagos pelo empregador ao empregado nos primeiros quinze dias do auxílio-doença (Tema 482), cuja ementa reproduzo:
+    “REPERCUSSÃO GERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VALORES PAGOS PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. I A discussão sobre a incidência, ou não, de contribuição previdenciária sobre valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença situa-se em âmbito infraconstitucional, não havendo questão constitucional a ser apreciada. II Repercussão geral inexistente.” (RE 611.505-RG, Rel. Min. Ayres Britto, Rel. p/ Acórdão: Min. Ricardo Lewandowski, DJe 28.10.2014).
+    Outrossim, a discussão relativa à incidência de contribuição previdenciária sobre os valores pagos a título de terço constitucional de férias está compreendida no tema 985 da Repercussão Geral, cujo leading case é o RE 1.072.485, de minha relatoria.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 04 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
