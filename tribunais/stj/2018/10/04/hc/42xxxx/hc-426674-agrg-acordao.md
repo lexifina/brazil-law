@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA EM CRIMES CONTRA O PATRIMÔNIO. ACENTUADA REPROVABILIDADE NO COMPORTAMENTO DO AGENTE. EXCEPCIONALIDADE NÃO CONFIGURADA. AGRAVO DESPROVIDO.
+1. A jurisprudência dos Tribunais Superiores firmou orientação no sentido de que a aplicação do princípio da insignificância, e consequente absolvição em face do reconhecimento da atipicidade material da conduta, pressupõe o preenchimento cumulativo dos requisitos: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) inexpressividade da lesão jurídica e d) reduzido grau de reprovabilidade do comportamento do agente.
+Na hipótese, a instância ordinária ressaltou a habitualidade delitiva do réu, indicativa do elevado grau de reprovabilidade do comportamento praticado.
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Agravo regimental interposto por SILVIO AMARANTE JUNIOR contra decisão que não conheceu do presente habeas corpus, no qual pretendia-se o reconhecimento da atipicidade material da conduta e, por consequência, a absolvição do réu.
+Alega-se, em síntese, que o tema sobre a aplicação do princípio da insignificância no delito capitulado no art. 155 do CP, ainda que o acusado tenha 9 (nove) condenações anteriores ao crime em tela, não está pacificado nos Tribunais Superiores (fl. 420).
+Nestes termos, postula-se a reconsideração da decisão agravada ou o provimento do agravo regimental, para conceder a ordem pleiteada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+O presente recurso não merece provimento, em que pese os argumentos apresentados pelo agravante.
+A decisão agravada não conheceu do pedido por não vislumbrar ilegalidade alguma a ser corrigida nas decisões proferidas pelas instâncias ordinárias, em perfeita sintonia com a jurisprudência desta Corte, no sentido de que a aplicação do princípio da insignificância, e consequente absolvição em face do reconhecimento da atipicidade material da conduta, pressupõe o preenchimento cumulativo dos requisitos: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) inexpressividade da lesão jurídica e d) reduzido grau de reprovabilidade do comportamento do agente, os quais não restaram preenchidos, in totum, na hipótese em tela, nos termos da fundamentação adotada no acórdão recorrido, in verbis:
+ ..
+No caso em apreço, as circunstâncias pessoais do Acusado impedem que seja aplicado o princípio da bagatela. Isso porque:
+o princípio da insignificância não pode ser acolhido para resguardar e legitimar constantes condutas desvirtuadas, mas para impedir que desvios de conduta ínfimos, isolados, sejam sancionados pelo direito penal, fazendo-se justiça no caso concreto. Comportamentos contrários à lei penal, mesmo que insignificantes, quando constantes, devido a sua reprovabilidade, perdem a característica da bagatela e devem se submeter ao direito penal (STF, HC 102.088, Relª. Minª. Cármen Lúcia, j. 21.5.10).
+Nesse contexto, registra-se que o Acusado Silvio Amarante Júnior é renitente na prática de crimes contra o patrimônio, ostentando nove condenações anteriores pelo cometimento de crimes de furto (fls. 34-43).
+Essa constatação caracteriza a reiteração delitiva e o comportamento contumaz na prática de crimes contra o patrimônio, de modo a demonstrar maior grau de reprovabilidade de sua empreitada e que a incidência do referido princípio não é socialmente recomendável à presente hipótese (fl. 357).
+Em reforço à jurisprudência colacionada no decisum, temos os seguintes julgados, de ambas as Turmas que julgam matéria penal:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. MULTIRREINCIDÊNCIA. VALOR DA RES FURTIVA QUE NÃO PODE SER CONSIDERADO INSIGNIFICANTE. RECONHECIMENTO DA BAGATELA. IMPOSSIBILIDADE. RELEVÂNCIA PENAL DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A aplicação do princípio da insignificância, causa excludente de tipicidade material, exige o exame quanto ao preenchimento de certos requisitos objetivos e subjetivos, traduzidos na irrelevância da lesão ao bem tutelado pela norma e na favorabilidade das circunstâncias em que foi praticado o crime e de suas conseqüências jurídicas e sociais.
+2. Na hipótese dos autos, os pressupostos para o reconhecimento da bagatela não se encontram preenchidos, pois se trata de acusada multirreincidente, além de o valor dos bens subtraídos do estabelecimento comercial não poder ser considerado insignificante, circunstâncias que indicam a especial reprovabilidade do seu comportamento, suficiente e necessária a recomendar a intervenção estatal.
+3. Agravo regimental desprovido (AgRg no REsp 1715864/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 23/05/2018).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ARREPENDIMENTO POSTERIOR. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA: INVIABILIDADE. MULTIRREINCIDÊNCIA E ABUSO DE CONFIANÇA. AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. É imprescindível à aplicação do princípio da insignificância que as quatro circunstâncias que o caracterizam sejam preenchidas, a saber: 1) mínimaofensividade da conduta do agente; 2) ausência de periculosidade social da ação; 3) grau de reprovabilidade atribuído à conduta muito reduzido e 4) inexpressividade da lesão ao bem jurídico protegido.
+2. Não é insignificante a conduta de furtar um objeto (ainda que de pequeno valor) da casa de quem lhe havia oferecido abrigo, trabalho e alimento, mesmo que o bem seja restituído ao seu proprietário voluntariamente (arrependimento posterior), pois o abuso de confiança demonstra o elevado o grau de reprovabilidade da conduta, que impede seja a conduta tida como de bagatela.
+3. Na mesma linha, a multirreincidência qualifica a conduta como altamente reprovável, por evidenciar o desprezo por parte do agente em relação à norma penal.
+4. Não tendo sido trazidos, no agravo regimental, argumentos novos capazes de alterar o entendimento anteriormente firmado, mantenho a decisão que deixou de aplicar o princípio da insignificância em razão da multirreincidência e da qualificadora de abuso de confiança.
+5. Agravo regimental improvido (AgRg no AREsp 721.395/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 02/04/2018).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. MULTIRREINCIDÊNCIA ESPECÍFICA E OUTRAS AÇÕES PENAIS POR DELITOS DA MESMA NATUREZA.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta de tentar se apropriar de R$10,00 (dez reais), de forma a viabilizar a aplicação do princípio da insignificância, pois, independentemente do valor atribuído à res furtiva, consta do acórdão recorrido que o agravante é multirreincidente em crimes contra o patrimônio - cinco condenações definitivas -, além de responder a outras três ações penais por delitos dessa mesma natureza. Precedentes.
+3. Agravo regimental improvido (AgRg no AREsp 1205325/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 26/03/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO E CORRUPÇÃO DE MENORES. ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. MENORIDADE DO COAUTOR. COMPROVADA. SÚMULA 7. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. As instâncias antecedentes destacaram a reiteração criminosa do acusado, traduzida na multirreincidência em delitos da mesma natureza, o que é suficiente, por si só, para obstar a incidência do princípio da insignificância.
+ ..
+4. Agravo regimental não provido (AgRg no REsp 1642588/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 19/12/2017).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
