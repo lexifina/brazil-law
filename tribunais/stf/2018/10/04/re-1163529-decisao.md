@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, manejam recurso extraordinário, com base no art. 102, III, da Lei Maior, Flávio José Quinderé de Almeida e Luiz Gonzaga de Almeida Júnior. Aparelhado o recurso na afronta ao art. 150, I, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Na esteira da Súmula 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ademais, as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 150, I, da Constituição da República. Nesse sentido:
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. SOLIDARIEDADE DO SÓCIO ADMINISTRADOR NA RESPONSABILIDADE TRIBUTÁRIA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1120307 AgR, Relator(a):  Min. ROBERTO BARROSO, Primeira Turma, julgado em 29/06/2018, PROCESSO ELETRÔNICO DJe-163 DIVULG 10-08-2018 PUBLIC 13-08-2018)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Responsabilidade tributária solidária. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 6. Necessidade de reexame do acervo fático-probatório dos autos. Impossibilidade. Incidência da Súmula 279 desta Corte. Precedentes. 7. Afronta aos princípios da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, traduz ofensa reflexa à Constituição Federal. ARE-RG 748.371, Tema 660. 8. Ausência de argumentos capazes de infirmar a decisão agravada. 9. Agravo regimental a que se nega provimento.” (ARE 729145 AgR, Relator(a):  Min. GILMAR MENDES, Segunda Turma, julgado em 26/05/2017, PROCESSO ELETRÔNICO DJe-119 DIVULG 06-06-2017 PUBLIC 07-06-2017)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
