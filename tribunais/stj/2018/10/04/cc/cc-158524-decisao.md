@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o Tribunal de Justiça do Estado de Minas Gerais, suscitante, e o Tribunal Regional do Trabalho da 3ª Região, suscitado.
+Ação: de cobrança proposta perante a Justiça do Trabalho, por [NOME] e OUTRA em face de IDEA INFO DESIGN SERVIÇOS LTDA e EDITORA ÁTICA S.A., em que os interessados postulam o pagamento pelos serviços prestados de seleção de questões gabaritadas e/ou resolvidas de Química, utilizadas em Simulados do Ensino Médio e em provas do ENEM.
+Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, sob o argumento de que "(..) nas relações de consumo, como ocorre quando profissionais liberais oferecem seus serviços, a prestação de serviços exaure-se em si mesma, não sendo utilizada como instrumento para prestar outro serviço, não se incluindo, portanto, na hipótese de relação de trabalho, prevista nos incisos I e IX do art. 114 da CF" (fl. 206).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, sob o fundamento de que a relação posta nos autos não pode ser considerada relação de consumo, pois "(..) se os serviços dos Autores foram utilizados para agregar e incrementar o produto das Rés, descaracterizada está a relação de consumo, vez que as empresas não foram as destinatárias finais do trabalho prestado." (fl. 637).
+É o relatório.
+Decide-se.
+1. Registre-se, preliminarmente, que o presente incidente se apresenta pronto para julgamento, haja vista que são dispensáveis maiores esclarecimentos pelos juízos conflitantes e que a hipótese dos autos não se enquadra em nenhuma daquelas previstas no artigo 178 do Código de Processo Civil de 2015, dispensando-se também o parecer do Ministério Público Federal, a teor do que dispõe o parágrafo único do artigo 951 do CPC/2015.
+2. Verifica-se, na hipótese dos autos, que o pedido formulado na inicial decorreu do descumprimento do quanto pactuado entre as partes ora interessadas no contrato de prestação de serviços (fls. 4-12), e não da relação de trabalho entre elas, denotando o caráter eminentemente civil da ação. Nesse sentido, confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO. JUSTIÇA COMUM ESTADUAL. AÇÃO DE COBRANÇA. RESCISÃO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS. AVALIAÇÃO DE PESSOAL PARA SOCIEDADE EMPRESÁRIA POR PSICÓLOGO. PROFISSIONAL LIBERAL. RELAÇÃO DE EMPREGO NÃO ALEGADA.
+CAUSA DE PEDIR. PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL.
+1. O pedido e a causa de pedir denotam a competência da Justiça Comum Estadual porque o autor em nenhum momento pede o reconhecimento da existência de relação de emprego e a percepção dos seus consectários; ao revés, pretende o recebimentos dos exatos valores previstos na "cláusula cinco do contrato" de prestação de serviços.
+2. Desse modo, a pretensão deriva da prestação, por psicólogo, do serviço de intermediação e avaliação de aptidão de candidatos a empregos oferecidos pela empresa contratante, de forma autônoma e não subordinada, fazendo incidir o teor da Súmula 363 desta Corte: "Compete à Justiça estadual processar e julgar a ação de cobrança ajuizada por profissional liberal contra cliente."
+3. Conflito conhecido para declarar competente a Justiça Comum Estadual.
+(CC 135.007/MG, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 22/10/2014, DJe 17/11/2014)
+E ainda: CC 122.011/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 12/09/2012, DJe 20/09/2012; EDcl no CC 98.726/BA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 25/08/2010, DJe 02/09/2010.
+Aplica-se, ainda, por analogia, o enunciado da Súmula 363 do STJ: "Compete à Justiça estadual processar e julgar a ação de cobrança ajuizada por profissional liberal contra cliente."
+3. Do exposto, com fundamento no art. 955, do NCPC c/c Súmula 568/STJ conheço do conflito para declarar a competência do r. juízo suscitante.
+Publique-se. Intimem-se.
