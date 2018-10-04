@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DEPÓSITO JUDICIAL. EXPURGOS INFLACIONÁRIOS. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO DO ACÓRDÃO RECORRIDO. NÃO INDICAÇÃO DE ÍNDICE APLICADO E MESES DA CORREÇÃO. VIOLAÇÃO DO ART. 535 DO CPC/1973. OCORRÊNCIA. RECURSO ESPECIAL DO BANCO DO BRASIL S.A. - SUCESSORA DE BANCO NOSSA CAIXA S.A. CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+PREJUDICADO O RECURSO DA CENESP ALIMENTAÇÃO LTDA. - MASSA FALIDA.
+DECISÃO
+Trata-se de agravo interposto por Banco do Brasil S.A. - Sucessora de Banco Nossa Caixa S.A. desafiando decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado, por seu turno, contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 376):
+DEPÓSITOS JUDICIAIS.
+Correção monetária. Inclusão de diferenças devidas em razão dos expurgos inflacionários gerados pelos planos econômicos. Instituição financeira responde pela correção monetária dos valores depositados (Súmula nº 179 do STJ).
+Prescrição inocorrente. Prazo vintenário (art. 177 do CC/1916 c.c. art. 2.028 do Código Civil vigente). Precedentes. Juros moratórios são devidos a partir da citação, por se tratar de obrigação ilíquida (Súmula nº 163 do STF). Honorários mantidos.
+Recursos não providos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 419-425).
+Nas razões do apelo extremo (e-STJ, fls. 439-465), o recorrente alegou ofensa aos arts. 535 do Código de Processo Civil de 1973; 12 do Decreto-Lei n. 2.284/1986; 17 da Lei n. 7.730/1989; 5º e 6º da Lei n. 8.024/1990; 12 e 13 da Lei n. 8.177/1991; e 9º e 10 da Lei n. 4.595/1964, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ausência de prestação jurisdicional, uma vez que não foi apreciada a questão relativa aos índices das diferenças que deveriam ser aplicadas, oriundas da utilização do IPC e dos meses em que a correção se faz devida. Alternativamente, aduziu que o banco recorrente apenas obedeceu, na condição de auxiliar da Justiça como depositário judicial, às normas públicas editadas acerca da forma de remuneração dos ativos, tendo em vista sua ilegitimidade passiva para responder pelas supostas diferenças de remuneração; que nenhuma diferença de correção monetária é devida sobre as contas judiciais; a falta de previsão legal para a atualização monetária com base no IPC para os depósitos judiciais; e a prescrição dos juros remuneratórios.
+Contrarrazões às fls. 501-520 (e-STJ).
+O Tribunal de origem não admitiu o recurso da instituição financeira em virtude da inexistência de violação do art. 535 do CPC/1973; da falta de prequestionamento, incidindo a Súmula n. 211/STJ; e da ausência de comprovação da divergência jurisprudencial, nos termos dos arts. 541 do CPC/1973 e 255 do RISTJ (e-STJ, fls. 694-695).
+Por seu turno, a CENESP Alimentação Ltda. - Massa Falida alegou, no recurso especial (e-STJ, fls. 480-490), violação dos arts. 397, 398 e 407 do Código Civil de 2002, sustentando que os juros de mora devem incidir desde o pagamento a menor.
+Foram apresentadas contrarrazões (e-STJ, fls. 522-530).
+O Tribunal de origem não admitiu o processamento do recurso especial da massa falida em virtude da ausência de afronta à legislação apontada (e-STJ, fl. 696).
+Brevemente relatado, decido.
+Cabe ressaltar, inicialmente, que esta Corte Superior, por ocasião da entrada em vigor do novo Código de Processo Civil, expediu o Enunciado Administrativo 2, determinando que aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Com efeito, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 535, I e II, do CPC/1973.
+Assim, no que diz respeito à negativa de prestação jurisdicional, com razão o recorrente, porquanto, apesar de ter sido instado a se manifestar sobre questão imprescindível ao correto deslinde da controvérsia, o Tribunal não sanou os vícios.
+No caso, o Tribunal a quo deixou de se manifestar sobre a questão levantada pelo recorrente, relativa aos índices das diferenças que deveriam ser aplicadas, oriundas da utilização do IPC e dos meses em que a correção se faz devida, o que não foi analisado.
+Constata-se, portanto, que o acórdão combatido, a despeito da oposição de embargos declaratórios, deixou de sanar omissão sobre a questão federal relevante para o deslinde da controvérsia, impondo-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação sobre as peculiaridades do caso.
+A propósito, cito os seguintes precedentes:
+RECURSO ESPECIAL. QUESTÕES SUSCITADAS EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 535 DO CPC CONFIGURADA. AGRAVO NO RECURSO ESPECIAL PREJUDICADO.
+1.- Negativa de prestação jurisdicional configurada no caso, por infringência ao artigo 535 do Código de Processo Civil, voltando o caso à origem para novo julgamento dos Embargos de Declaração.
+2.- Em processo em que recebido pedido de reconsideração do Acórdão, posterior à interposição de Recurso Especial, como Agravo Regimental, para não conhecê-lo, o Acórdão, embora fundamentado, não enfrentou todas as questões, conquanto reclamado o exame por Embargos de Declaração. Impossível, nesta instância, reexaminar todas essas matérias interligadas, de interesse para o deslinde do caso. De rigor o provimento do Recurso Especial, para anular o julgamento dos Embargos de Declaração, com retorno à origem.
+3.- Recurso Especial provido, anulando-se o Acórdão dos Embargos de Declaração, para que outro seja proferido, com expresso julgamento da questão assinalada.
+4.- Agravo no Recurso Especial prejudicado pela perda do objeto. (REsp n. 1.424.420/CE. Relator Ministro Sidnei Beneti, Terceira Turma, julgado em 11/2/2014, DJE 28/2/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ART. 535 DO CPC. OMISSÃO. VIOLAÇÃO CONFIGURADA. RETORNO DOS AUTOS. DEMAIS QUESTÕES. ANÁLISE PREJUDICADA.
+1. Há ofensa ao art. 535 do CPC quando o Tribunal a quo, a despeito da omissão existente no acórdão e da oposição de embargos declaratórios, deixa de emitir juízo de valor especificamente sobre questão federal desenvolvida nos autos e relevante para o deslinde da controvérsia.
+2. Acolhida no STJ a violação do art. 535 do CPC, deve o processo retornar ao Tribunal de origem para apreciação da questão suscitada nos embargos de declaração, ficando prejudicada a análise das demais questões.
+3. Agravo regimental provido.
+(AgRg no AG n. 1.327.466/MS. Relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 13/8/2013, DJe 23/8/2013).
+Ante o exposto, agravo conhecido para dar provimento ao recurso especial de Banco do Brasil S.A. - Sucessora de Banco Nossa Caixa S.A. a fim de cassar o acórdão que julgou os embargos de declaração, determinando que a Corte a quo supra a omissão apontada, ficando prejudicada a análise do recurso da CENESP Alimentação Ltda. - massa falida.
+Publique-se.
