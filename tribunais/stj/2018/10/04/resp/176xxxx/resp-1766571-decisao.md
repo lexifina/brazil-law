@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 417):
+EMBARGOS À EXECUÇÃO DE SENTENÇA. COMPLEMENTAÇÃO DE PENSÃO E APOSENTADORIA DE FUNCIONÁRIO DA FEPASA/RFFSA. LEGITIMIDADE PASSIVA DA UNIÃO FEDERAL. JUROS MORATÓRIOS. ÍNDICES APLICÁVEIS. ARTIGO 1º F DA LEI 9.494/97. SUCESSÃO DA RFFSA PELA UNIÃO FEDERAL.
+1. Por expressa previsão legal, a União passou a suceder a RFFSA em direitos, obrigações e ações judiciais a partir de 22.01.2007. Note-se, por oportuno, que à exceção das ações a que se refere o inciso II do artigo 17 do mesmo diploma legal o dispositivo legal não trouxe qualquer ressalva à assunção de responsabilidade pela União.
+2. Não obstante a União tenha sucedido a RFFSA em direitos, obrigações e ações judiciais a partir de 22.01.2007, o crédito em discussão não constitui condenação da Fazenda Pública propriamente dita considerando que o título executivo foi constituído em relação à RFFSA, ainda que a responsabilidade pelo pagamento seja imputada à União Federal por força de lei.
+3. Apelação e agravo retido não providos.
+Não foram opostos embargos declaratórios.
+A parte recorrente aponta violação aos arts. 2º e 32 da Lei nº 11.483/2007 e 1º-F da Lei nº 9.494/97. Sustenta que a "Medida Provisória nº 353/2007 foi convertida na Lei n.º 11.483, de 31.5.2007, portanto, consagrou a sucessão da União pela Rede Ferroviária Federal para todos os fins de direito, devendo incidir a partir da data da sucessão, todos os dispositivos legais que integram o regime jurídico da Fazenda Pública, inclusive no tocante ao percentual de juros de mora" (fl. 424).
+Dessa forma, alega que a alíquota dos juros de mora, a partir de agosto de 2001, deve se limitar à 0,5% ao mês, consoante previsto no art. 1º-F da Lei nº 9.494/97, acrescentado pela MP nº 2.180-35/2001.
+É o relatório.
+A irresignação não comporta acolhida.
+No que interessa à solução da controvérsia, colhe-se da fundamentação do aresto hostilizado o seguinte excerto:
+"Pelas mesmas razões, descabe qualquer discussão acerca da aplicabilidade do artigo 1º-F na Lei nº 9.494/97 relativamente à limitação da taxa de juros de mora.
+Isto porque, não obstante a União tenha sucedido a RFFSA em direitos, obrigações e ações judiciais a partir de 22.01.2007, o crédito em discussão não constitui condenação da Fazenda Pública propriamente dita considerando que o título executivo foi constituído em relação à RFFSA, ainda que a responsabilidade pelo pagamento seja imputada à União Federal por força de lei." (fl. 416)
+Observa-se, portanto, que o presente caso o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "o crédito em discussão não constitui condenação da Fazenda Pública propriamente dita considerando que o título executivo foi constituído em relação À RFFSA", circunstância que atrai o obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
