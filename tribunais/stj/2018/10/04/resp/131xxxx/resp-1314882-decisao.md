@@ -1,0 +1,61 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento na alínea "a" do inciso III do art. 105 da Constituição da República, contra acórdão proferido pelo TRF da 4ª Região assim ementado (e-STJ, fl. 227):
+TRIBUTÁRIO. OBRIGAÇÃO ACESSÓRIA. MULTA. AUTONOMIA. DECADÊNCIA - REGRA APLICÁVEL: ART. 173, I, DO CTN.
+1. As responsabilidades tributárias acessórias são autônomas, sem qualquer vínculo direto com a existência do fato gerador do tributo.
+2. O fornecimento de dados não correspondentes aos fatos geradores de todas as contribuições previdenciárias devidas configura descumprimento de obrigação tributária acessória, passível de sanção pecuniária, na forma da legislação de regência. Nesse caso, o prazo decadencial para a constituição do crédito tributário é regido pelo art. 173, I, do CTN, tendo em vista tratar-se de lançamento de ofício, consoante a previsão do art. 149, incisos II, IV e VI. Ausente a figura do lançamento por homologação, não há que se falar em incidência da regra do art. 150, § 4º, do CTN.
+3. Decadência constatada na espécie.
+Os embargos de declaração (e-STJ, fls. 242/243) foram rejeitados, nos termos da decisão de e-STJ, fls. 251/255.
+A recorrente alega, nas razões do especial, a existência de contrariedade aos arts. 535, II, do CPC/1973; 113, 114, 115 e 173, I, do CTN.
+Sustenta que o Tribunal de origem incorreu em omissão, ao deixar de se pronunciar sobre questão essencial à solução da controvérsia.
+Defende, em síntese, que "o dies a quo do prazo decadencial foi a data do não cumprimento da obrigação acessória (agosto de 2006) e não a da ocorrência do fato gerador da obrigação principal (1996 a 2000)" (e-STJ, fl. 265).
+Foram apresentadas contrarrazões às e-STJ, fls. 274/277.
+É o relatório.
+Registro, de logo, que não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+É o que se depreende da leitura dos seguintes trechos do voto condutor do aresto impugnando (e-STJ, fl. 234):
+Ainda cabe ressalvar, como bem fez a sentença, não ser possível identificar - da análise da documentação trazida aos autos pela União, por intermédio da Procuradoria da Fazenda Nacional - sequer a data da notificação do contribuinte acerca do auto de infração lavrado e consequente lançamento tributário, não sendo demais referir que a intimação via carta AR, relatada, não restou corroborada pela juntada dos documentos pertinentes ao envio via ECT. Ademais, a intimação do contador, sem respaldo em mandato, não supre a ausência da intimação do representante legal do contribuinte. Portanto, inviável ter-se como constituído os créditos fiscais supramencionados no ano de 2006. Ainda que assim não fosse, considerando os períodos correspondentes a não apresentação de documentos fiscais (1996 a 2000 e não 08/2006), ainda assim os créditos em referência estariam fulminados pela decadência.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp 884.151/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/5/2016, DJe 13/6/2016)
+Por outro lado, o entendimento adotado pela Corte de origem no que se refere à decadência do direito de constituir os créditos referente às obrigações acessórias, encontra em harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que em se tratando de "descumprimento de obrigação acessória (penalidade pecuniária), convertida em principal, a constituição do crédito sujeita-se ao lançamento de ofício, na forma do art. 149, incisos II, IV e VI, do CTN, cuja regra a ser observada é a do art. 173, inciso I, do CTN" (EDcl no REsp 1.384.832/RN, Rel. Ministro Humberto Martins, Segunda Turma, DJe 24/3/2014).
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. APRESENTAÇÃO DE ESCRITURAÇÃO FISCAL DIGITAL (EFD-CONTRIBUIÇÕES). OBRIGAÇÃO ACESSÓRIA. AUTONOMIA EM RELAÇÃO À OBRIGAÇÃO PRINCIPAL. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. É inviável a discussão em Recurso Especial acerca de suposta ofensa a dispositivos constitucionais, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+2. A jurisprudência do STJ entende que "a obrigação acessória possui caráter autônomo em relação à principal, pois mesmo não existindo obrigação principal a ser adimplida, pode haver obrigação acessória a ser cumprida, no interesse da arrecadação ou da fiscalização de tributos" (EDcl no REsp 1.384.832/RN, Rel. Ministro Humberto Martins, Segunda Turma, DJe 24.3.2014).
+3. Recurso Especial parcialmente conhecido e nessa parte não provido.
+(REsp 1.680.757/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/9/2017, DJe 9/10/2017)
+TRIBUTÁRIO - EXECUÇÃO FISCAL - CONTRIBUIÇÃO PREVIDENCIÁRIA - APRESENTAÇÃO DA GFIP - OBRIGAÇÃO ACESSÓRIA - DESCUMPRIMENTO - DECADÊNCIA - REGRA APLICÁVEL: ART. 173, I, DO CTN.
+1. A falta de apresentação da Guia de Recolhimento do FGTS e Informações à Previdência Social (GFIP), assim como o fornecimento de dados não correspondentes aos fatos geradores de todas as contribuições previdenciárias devidas configura descumprimento de obrigação tributária acessória, passível de sanção pecuniária, na forma da legislação de regência.
+2. Na hipótese, o prazo decadencial para a constituição do crédito tributário é regido pelo art. 173, I, do CTN, tendo em vista tratar-se de lançamento de ofício, consoante a previsão do art. 149, incisos II, IV e VI.
+3. Ausente a figura do lançamento por homologação, não há que se falar em incidência da regra do art. 150, § 4º, do CTN.
+4. Recurso especial não provido.
+(REsp 1.055.540/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 19/2/2009, DJe 27/3/2009)
+No mais, o Tribunal de origem decidiu, ainda, que a "constituição de crédito tributário está fulminada por nulidade insanável, qual seja, a ausência de regular notificação do contribuinte" (e-STJ, fl. 235).
+Verifica-se que tal fundamento não foi devidamente impugnado pela recorrente nas razões do apelo extremo de e-STJ, fls. 261/265, o que, por si só, mantém incólume o acórdão combatido.
+A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido. (REsp 1.367.651/MG, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 3/12/2013)
+PROCESSUAL CIVIL. TRIBUTÁRIO. CADIN. INSCRIÇÃO. NOTIFICAÇÃO PRÉVIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem consignou que: a) o recorrente não juntou cópia do processo administrativo que deu ensejo à inscrição em dívida ativa a fim de demonstrar a alegação de que não foi notificado de sua inclusão no CADIN; b) o insurgente relatou que apresentou impugnação em âmbito administrativo, evidenciando que teve ciência da existência dos débitos; c) não houve demonstração do periculum alegado pelo recorrente; d) a notificação dando conhecimento ao devedor da existência do débito ou da sua inscrição em dívida ativa, conforme o art. 2º, § 4º, da Lei 10.522/2002, atende à exigência estampada no § 2º, qual seja, de comunicação ao devedor da existência do débito passível de inscrição no Cadin; e) há nos autos provas de que o insurgente tinha plena ciência do débito.
+2. O recorrente esquiva-se de rebater todos os fundamentos utilizados pelo Tribunal local no sentido de firmar seu convencimento. Sendo assim, como há fundamento não atacado pela parte recorrente que é apto, por si só, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, o óbice das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Não se pode conhecer da irresignação contra a afronta ao art. 1º da Lei 12.016/2009, uma vez que o mencionado dispositivo legal não foi analisado pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF.
+4. Para modificar o entendimento firmado no acórdão recorrido, quanto à assertiva de que o insurgente tinha plena ciência do débito, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.455.882/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/8/2014, DJe 25/9/2014)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
