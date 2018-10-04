@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO CONTRA ACÓRDÃO DA PRIMEIRA (RESP N. 1.365.307/DF) EM QUE FOI PARTE. UTILIZAÇÃO COMO SUCEDÂNO RECURSAL. IMPOSSIBILIDADE. INCIDÊNCIA DO ART. 34, XVIII, "A", DO RISTJ. RECLAMAÇÃO NÃO CONHECIDA.
+DECISÃO
+Trata-se de reclamação com pedido de liminar ajuizada por [NOME], com fundamento no art. 988, I, do CPC de 2015, combinado com os arts. 187 a 192 do RISTJ, objetivando a cassação do acórdão da Primeira Turma do STJ que não conheceu do Recurso Especial n. 1.365.307/DF do ora reclamante pelo teor das Súmulas 7/STJ e 284/STF.
+Assevera que nas razões do apelo nobre não pretendia o revolvimento de provas, "mas tão somente a análise do julgamento do julgamento do Tribunal posto que a devida e competente análise de provas já havia se processado juízo de primeiro grau que culminou com a irretocável sentença de procedência do direito do ora reclamante" (fl. 6, e-STJ).
+Questiona por quê "os demais ministros não atentaram para o alcance trazido no voto divergente do Ministro Napoleão Nunes Maia e que fazia toda a diferença no julgamento do recurso especial" (fl. (9, e-STJ).
+Consigna que, com a vedação ao conhecimento do recurso especial pela Primeira Turma, a "justiça foi proibida de ser praticada, de ser aplicada, tampouco garantida, a despeito dos comandos legais e constitucionais invocados" (fl. 12, e-STJ).
+Entende o reclamante que, com a interposição da presente reclamação, tem "direito a um julgamento justo, mormente quando recorreu à Corte Superior de Justiça, a fim de ver seu direito assegurado" (fl. 13, e-STJ); que o óbice da Súmula 7/STJ "poderá ser afastado para que o recurso especial seja conhecido" (fl. 21, e-STJ).
+Deduz que "foi nessa linha que se pautou, e o faz porque entende não ter havido razão, nem fundamento, nem motivação para a prática do ato demissional, recorrendo, pois com o objetivo de que a sua demissão do serviço público seja anulada" (fl. 21, e-STJ).
+Sintetiza dizendo que "com a presente reclamação pretende que esse STJ reveja a decisão proferida pela Primeira Turma, diante de um possível erro de julgamento" (fl. 22, e-STJ.
+Requer liminarmente a concessão da liminar, para "suspender a tramitação e para fazer cessar o trânsito em julgado do resultado do julgamento do REsp n. 1.365.307/DF, até delimitação da presente reclamação" (fl. 24, e-STJ).
+Pede ao final a procedência da reclamação, a fim de que se determine o "afastamento da Súmula 7/STJ, assegurando ao reclamante o conhecimento e julgamento do RESP n. 1.365.307/DF" (fl. 24, e-STJ).
+É o relatório. Passo a decidir.
+É ressabido que a reclamação é destinada a preservar a competência do Superior Tribunal de Justiça ou a garantir a autoridade das suas decisões, nos termos do disposto nos arts. 105, I, "f", da Constituição Federal e 187 do RISTJ, sendo instrumento processual de caráter específico e de aplicação restrita.
+No Código de Processo Civil de 2015, foram disciplinadas as hipóteses de cabimento do presente recurso, para: preservar a competência do tribunal (I); garantir a autoridade das decisões do tribunal (II); garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade (III); garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (IV).
+No caso concreto, resumidamente, entende o reclamante que, com a interposição da presente reclamação, tem "direito a um julgamento justo, a fim de ver seu direito assegurado" (fl. 13, e-STJ), e que o óbice da Súmula 7/STJ "poderá ser afastado para que o recurso especial seja conhecido" (fl. 21, e-STJ). Ou seja, o reclamante se insurge contra o resultado do julgamento proferido pela Primeira Turma no julgamento do REsp n. 1.365.307/DF em que foi parte.
+Ora, é nítido que o reclamante está a utilizar a reclamação como sucedâneo recursal, sendo inaceitável tal pretensão, pois não se podendo exigir que, por meio do presente recurso constitucional, se avalie o acerto ou desacerto de decisão proferida pelo órgão julgador.
+No mesmo sentido:
+RECLAMAÇÃO CONSTITUCIONAL. SUCEDÂNEO RECURSAL. INVIABILIDADE.
+2. O objetivo da reclamação (art. 105, I, f da Constituição da República) é tornar efetiva as decisões proferidas, no próprio caso concreto, em que a reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal.
+3. Hipótese em que a agravante se irresigna contra o resultado do julgamento proferido pelo Tribunal Regional Federal da 2ª Região que lhe foi desfavorável, pretendendo, ainda que por via obliqua, a reforma do acórdão reclamado, situação, contudo, que não se enquadra nas hipóteses de cabimento da reclamação.
+4. Agravo interno a que se nega provimento.
+(AgInt na Rcl 35.095/RJ, Rel. Ministro Og Fernandes, Primeira Seção, DJe 18/4/2018)
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVO. AGRAVO INTERNO EM RECLAMAÇÃO. EFICÁCIA RESTRITA ÀS PARTES ENVOLVIDAS NO CASO CONCRETO. IMPOSSIBILIDADE DO AJUIZAMENTO DE RECLAMAÇÃO PARA PRESERVAÇÃO DA JURISPRUDÊNCIA. AUSÊNCIA DE JULGAMENTO EM DEMANDA REPETITIVA.
+2. A reclamação não é via adequada para preservar a jurisprudência do STJ, mas sim a autoridade de suas decisões tomadas no próprio caso concreto, envolvendo as partes postas no litígio do qual oriundo a reclamação. Não se pode pretender que, por intermédio do instrumento constitucional, se avalie o acerto ou desacerto de decisão proferida pela instância ordinária.
+4. Agravo interno a que se nega provimento.
+(AgInt na Rcl 34.438/MA, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 19/6/2018)
+No mesmo sentido: AgRg na Rcl 36.129/PR, Rel. Ministro Felix Fischer, Terceira Seção, DJe 18/9/2018; AgRg na Rcl 26.635/SP, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 19/6/2018; AgInt nos EDcl na Rcl 34.574/DF, Rel. Ministro Og Fernandes, Primeira Seção, DJe 1º/3/2018.
+Ante o exposto, não conheço da reclamação, nos termos do art. 34, XVIII, "a", do RISTJ.
+Publique-se. Intimem-se.
