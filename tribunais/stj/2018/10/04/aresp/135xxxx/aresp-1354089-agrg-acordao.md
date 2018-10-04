@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. REVISÃO CRIMINAL. CONDENAÇÃO CONTRÁRIA À EVIDÊNCIA DOS AUTOS. ART. 621, INCISO I, DO CÓDIGO DE PROCESSO PENAL. TRIBUNAL DE ORIGEM QUE CONCLUIU HAVER PROVAS SUFICIENTES PARA A CONDENAÇÃO. PRETENSÃO REVISIONAL IMPROCEDENTE. MODIFICAÇÃO DO RESULTADO. IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, apesar de formalmente não conhecer da revisão criminal, efetuou efetiva análise do mérito do pedido revisional e concluiu que que não se trata de condenação contrária à evidência dos autos.
+2. Não se verifica violação ao art. 621, inciso I, do Código de Processo Penal, pois o Tribunal estadual julgou o pedido revisional, embora concluindo em sentido oposto ao desejado pela Requerente.
+3. Para elidir a conclusão alcançada pela Corte de origem acerca da conformidade entre a evidência dos autos e a condenação imposta, seria necessário amplo reexame probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n.º 7 desta Corte Superior.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por [NOME] [NOME] FERNANDES [NOME] contra decisão de minha lavra, a qual conheceu de agravo em recurso especial para negar seguimento ao apelo nobre, nos termos da seguinte ementa (fl. 628):
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. REVISÃO CRIMINAL. TRÁFICO DE DROGAS. ART. 621, I, DO CÓDIGO DE PROCESSO PENAL. SENTENÇA CONDENATÓRIA CONTRÁRIA À EVIDÊNCIA DOS AUTOS. NÃO OCORRÊNCIA. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Nas razões do agravo regimental, a Agravante reitera que o Tribunal estadual, ao exigir a apresentação de prova nova para o conhecimento da revisão criminal, contrariou o disposto no art. 621, inciso I, do Código de Processo Penal.
+Sustenta que a pretensão veiculada no recurso especial não demanda o reexame do conjunto fático-probatório, o que afasta a incidência da Súmula n.º 7/STJ.
+Ao final, pleiteia o provimento do agravo regimental "para determinar que o Tribunal a quo, conheça da ação revisional e julgue-a no mérito" (fl. 639).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. REVISÃO CRIMINAL. CONDENAÇÃO CONTRÁRIA À EVIDÊNCIA DOS AUTOS. ART. 621, INCISO I, DO CÓDIGO DE PROCESSO PENAL. TRIBUNAL DE ORIGEM QUE CONCLUIU HAVER PROVAS SUFICIENTES PARA A CONDENAÇÃO. PRETENSÃO REVISIONAL IMPROCEDENTE. MODIFICAÇÃO DO RESULTADO. IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, apesar de formalmente não conhecer da revisão criminal, efetuou efetiva análise do mérito do pedido revisional e concluiu que que não se trata de condenação contrária à evidência dos autos.
+2. Não se verifica violação ao art. 621, inciso I, do Código de Processo Penal, pois o Tribunal estadual julgou o pedido revisional, embora concluindo em sentido oposto ao desejado pela Requerente.
+3. Para elidir a conclusão alcançada pela Corte de origem acerca da conformidade entre a evidência dos autos e a condenação imposta, seria necessário amplo reexame probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n.º 7 desta Corte Superior.
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+De início, conforme ressaltado na decisão impugnada, constata-se que o Tribunal de origem, apesar de formalmente não conhecer da revisão criminal, efetuou efetiva e profunda análise do mérito do pedido revisional. Após extenso exame dos elementos que integram o conjunto fático-probatório da ação penal revisionada, a Corte estadual concluiu que não se trata de condenação contrária à evidência dos autos.
+O Tribunal a quo expressamente concluiu que as provas constante nos autos da ação penal que originou a revisão criminal são suficientes para a fundamentar a condenação da Agravante, revelando-se improcedente a pretensão revisional.
+A esse respeito, confira-se o seguinte excerto do julgado estadual:
+"De fato, as provas produzidas a cargo da acusação foram contundentes e indicaram que a peticionária praticara, em conjunto com os demais condenados, o crime de tráfico ilícito de "maconha" (1.528,56 gramas, separados em dois tijolos prensados, envoltos em fita crepe na cor amarela, e uma porção de 7,65 gramas, acondicionada em um invólucro plástico), restando a versão por ela apresentada infirmada pelos relatos dos agentes públicos, que, como dito, encontram-se em consonância com o conjunto probatório.
+As circunstâncias em que ocorreram a apreensão das substâncias tóxicas materialmente comprovadas nos autos demonstram, de modo inequívoco, que [NOME] transportava, em conjunto com os corréus [NOME] e [NOME], ilegalmente, entorpecentes para o fim do nefasto comércio. Não se exige, para tanto, que haja prova concreta da mercancia, sendo suficiente a presença de elementos dos quais se possam inferir a sua ocorrência. Como já decidido, iterativamente, o tráfico é infração que se integra através de várias fases sucessivas, articuladas entre si, havendo suficiência, para a sua configuração, da presença de qualquer das fases (RJTJESP - 107/454). Como assentado, o tráfico de drogas é crime de natureza permanente e a qualquer momento os seus autores estão sujeitos à prisão em flagrante.
+Ficou caracterizada, pois, a infração penal em estudo. Constata-se que as drogas apreendidas não poderiam, a toda evidência, se destinar a uma só pessoa, a um só consumidor. Resta claro que a peticionária e os corréus transportavam os entorpecentes apreendidos, que seriam vendidos, comercializados por eles em Orlândia, estando patente e incontroversa a caracterização do comércio criminoso de estupefaciente, mormente pela quantidade de narcóticos." (fls. 479-481, grifos diversos do original).
+Portanto, não se verifica violação ao art. 621, inciso I, do Código de Processo Penal, pois o Tribunal estadual efetivamente julgou o pedido revisional, embora concluindo em sentido oposto ao desejado pela Requerente.
+Nesse contexto, para elidir a conclusão alcançada pela Corte de origem acerca da conformidade entre a evidência dos autos e a condenação imposta, seria necessário amplo reexame probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n.º 7 do Superior Tribunal de Justiça.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
