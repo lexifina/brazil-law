@@ -1,0 +1,40 @@
+Trata-se de habeas corpus preventivo com pedido de liminar impetrado em favor de Fábio Rogério Alves Guimarães, contra decisão do Ministro do Superior Tribunal de Justiça que indeferiu o pleito cautelar requerido no HC 454.250/SP (documento eletrônico 31).
+    Na petição inicial, o impetrante alega, em suma, que
+    “ […] O presente writ tem por finalidade corrigir nova vituperação dos direitos deste causídico, posto que, assim como já ocorrido indevidamente em maio de 2.009, a saber, há quase dez anos, houve a decretação precipitada e imotivada, sem falar inconstitucional, da prisão do mesmo, agora, novamente há sua decretação de prisão, sem qualquer fundamento lançado, como bem se observa no acórdão profereido [sic], mas sim novamente a decretação em caráter de urgência da prisão do paciente, sem qualquer motivação fática, ao contrário, houveram por bem, a decretação ante a simples prolação do acórdão, mesmo tendo o Quarto Grupo de Direito Criminal do Tribunal de Justiça de São Paulo, ter garantido ao paciente o direito de aguardar o trânsito em julgado feito, na Revisão Criminal: 0077246-92.2011.8.26.000” (pág. 4 da petição inicial; grifos no original).
+    Posteriormente, por meio de manifestação, comunica que
+    “[...] logo após a negativa do provimento liminar anteriormente indeferido pela autoridade coatora, este causídico apresentou por sua vez, novo pleito de urgência, sob a título de reconsideração, trazendo à colação, não apenas o teratológico acórdão vergastado, mas também outros fatos relevantes que de per si só já se mostrariam mais que suficientes para embasar o pedido formulado.
+    [...]
+    Neste passo ao reapreciar a liminar já indeferida o Eminente Ministro Relator, novamente, por equívoco certamente, data vênia, não apreciou o cerne do pleito apresentado e deferiu liminarmente pedido não apresentado, visto que assim decidiu” (págs. 2-3 do documento eletrônico 34).
+    Ao final, mantém o pedido de que
+    “[…] seja o presente pedido de Provimento Liminar apreciado e posteriormente deferido, determinando que seja dado cumprimento ao acórdão do Quarto Grupo de Direito Criminal do Tribunal de Justiça de São Paulo prolatado na Revisão Criminal 0077246-92.2011.8.26.0000, e por conseguinte reconhecido o direito do paciente aguardar em liberdade o trânsito em julgado do feito em questão, determinando a expedição de CONTRAMANDADO DE PRISÃO se solto ainda estiver ou de ALVARÁ DE SOLTURA se preso estiver o paciente FÁBIO ROGÉRIO ALVES GUIMARÃES, até final decisão do presente remédio constitucional, para ao final, ser reconhecido tal direito ao paciente, ratificando a liminar que ora se pleiteia” (pág. 9 do documento eletrônico 34; grifos no original).
+    É o relatório. Decido.
+    Em consulta ao sítio eletrônico do STJ na rede mundial de computadores, é possível verificar que, em 13/9/2018, o Ministro Joel Ilan Paciornik, Relator do HC 454.250/SP, proferiu nova decisão e corrigiu o equívoco anteriormente cometido, nos seguintes termos:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em benefício próprio por FABIO ROGERIO ALVES GUIMARAES, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 9000005-26.2007.8.26.0032.
+    Extrai-se dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e pagamento de 583 dias-multa, conforme a sentença de fls. 48/58. Em razão de decisão do STF, sobreveio nova sentença que, por aplicação da minorante da Lei Antidrogas, redimensionou a pena ao patamar de 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e pagamento de 485 dias-multa (fls. 245-246).
+    A defesa interpôs nova apelação, pleiteando a nulidade da nova sentença, tendo o Tribunal de origem negado provimento ao recurso e rejeitado os embargos de declaração (fls. 112/116 e 117/121).
+    Na sequência, a defesa apresentou recurso especial, que foi parcialmente provido determinando o retorno dos autos ao Tribunal de origem para que este refizesse a dosimetria da pena, utilizando a quantidade e natureza da droga apenas em uma das etapas da pena.
+    O Tribunal a quo, cumprindo o determinado, deu parcial provimento ao recurso fixando a pena em definitivo em 4 anos e 2 meses de reclusão, mais o pagamento de 416 dias-multa, no regime fechado. Determinou, ainda, a expedição de mandado de prisão.
+    No presente mandamus, alega que, estando pendente de recursos a decisão, não pode ser determinada a prisão do paciente. Requer, em liminar e no mérito, a expedição de contramandado de prisão e alvará de soltura se tiver sido preso, até decisão final.
+    Liminar indeferida por decisão de fls. 153/154. Ao analisar pedido de reconsideração, a liminar foi deferida apenas para assegurar ao paciente o direito de aguardar em liberdade o esgotamento dos prazos recursais ordinários, perante o Tribunal Estadual, se por outro motivo não estiver preso (fls. 407/409).
+    Informações prestadas às fls. 282/284, 358/360, 383, 396.
+    O Ministério Público Federal opinou pelo não conhecimento do writ e pela cassação da liminar deferida (fls. 249/555).
+    É o relatório.
+    Decido.
+    Conforme relatado, busca-se, na presente impetração, obstaculizar o cumprimento antecipado da pena, visto que a condenação do paciente ainda não transitou em julgado.
+    No julgamento do HC n. 126.292/MG, realizado em 17/2/2016, o Supremo Tribunal Federal, em sua composição plena, passou a admitir a possibilidade de imediato início do cumprimento provisório da pena após o exaurimento das instâncias ordinárias, inclusive com restrição da liberdade do condenado, por ser o recurso extraordinário desprovido de efeito suspensivo, sem que isso implique violação ao princípio da não culpabilidade.
+    Esta Corte de Justiça, por sua vez, também adotou o aludido posicionamento, mormente a partir do julgamento pela egrégia Sexta Turma dos EDcl no REsp n. 1.484.415/DF, da relatoria do eminente Ministro ROGÉRIO SCHIETTI CRUZ, cujo brilhante voto sintetiza a quaestio em debate, conforme se verifica dos trechos a seguir transcritos:
+    […]
+    Acrescente-se ainda, que, em 5/10/2016, o Plenário da Suprema Corte, no julgamento do pedido de liminar nas Ações Declaratórias de Constitucionalidade n. 43 e 44, reafirmou o entendimento de ser possível a execução da pena após o escoamento dos recursos na via ordinária.
+    No caso em debate, todavia, a determinação do cumprimento antecipado da pena do paciente decorre do acórdão proferido no mencionado julgamento da Apelação Criminal n. 9000005-26.2007.8.26.0032, realizado em 07/06/2018. Entretanto, de consulta à página eletrônica da Corte Estadual, verificou-se que em 26/07/2018 foram opostos embargos de declaração, ainda pendentes de julgamento pelo Tribunal de origem.
+    Pelo que se pode verificar, portanto, ainda não foi esgotada a jurisdição do Tribunal a quo, fato que obsta a expedição de mandado de prisão em desfavor do apenado, para a execução provisória da pena. Nesse sentido, confiram-se os seguintes precedentes:
+    […]
+    Constata-se, assim, a aventada ilegalidade flagrante, consistente na determinação de expedição de mandado de prisão após o julgamento da apelação quando ainda não esgotadas as vias recursais ordinárias.
+    Ante o exposto, concedo a ordem para determinar que o paciente aguarde, em liberdade, o esgotamento das vias recursais ordinárias, se por outro motivo não estiver preso, confirmando a liminar anteriormente deferida.
+    Publique-se. Intimem-se” (sítio eletrônico do STJ; grifei).
+    Levando-se em consideração essa informação, é de se ter por prejudicado o pedido deste writ.
+    Isso posto, julgo prejudicado este habeas corpus, nos termos do art. 659 do Código de Processo Penal.
+    Após o trânsito em julgado, arquivem-se estes autos.
+    Publique-se.
+    Brasília, 4 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
