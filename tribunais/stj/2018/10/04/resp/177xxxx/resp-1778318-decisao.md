@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, conforme ementa assim redigida (fl. 417):
+
+Parceria agrícola. Ação declaratória c.c pedido possessório. Pretendida a declaração de renovação automática dos contratos celebrados entre as partes. Ação julgada improcedente. Apelação. Preliminar de cerceamento de defesa: rejeitada. Prova documental suficiente para o deslinde dos fatos. Prorrogação do contrato já exercida por um ano após o prazo de vencimento original. Autora que após o término do prazo de prorrogação se manteve inerte no sentido de fazer nova contratação com os réus. Prova documental acostada pelos requeridos que comprova a desídia da autora ao deixar de realizar tratos culturais, plantação e colheita da cana de açúcar, além de não efetuar os pagamentos relativos ao período posterior ao do contrato. Sentença mantida. Recurso improvido.
+Opostos embargos de declaração, foram rejeitados às fls. 432/436 e 446-449 (e-STJ).
+Nas razões do recurso, a parte agravante alegou violação dos artigos 95 e 96 da Lei 4.504/1964 e 22 do Decreto 59.566/1966, bem como dissídio jurisprudencial. Sustentou que a presente ação deveria ter sido julgada improcedente, uma vez que não houve a devida notificação por parte dos recorridos.
+Aduziu que "em momento algum a recorrente abandonou as áreas em que era realizada a cultura da cana de açúcar, restando totalmente impugnadas as fotos anexadas aos autos pelos recorridos. Ora, Dignos Ministros, não se mostra crível que uma área supostamente abandonada produza aproximadamente 12.616 toneladas de cana de açúcar, como estava previsto. Ademais, é evidente que estivesse realmente abandonada a área, outra usina não teria realizado a colheita indevida" (fl. 500, e-STJ).
+Argumentou a necessidade de notificação por parte do arrendatário em seis meses antes do término do contrato de arrendamento rural, sob pena de renovação automática.
+À vista da relevância da matéria, dou provimento ao agravo e determino a conversão dos autos em recurso especial para melhor exame.
+Intimem-se.
