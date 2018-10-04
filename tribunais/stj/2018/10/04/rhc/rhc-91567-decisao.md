@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2112579-61.2017.8.26.0000.
+O paciente foi preso temporariamente em 17.10.2016 pela suposta prática dos crimes previstos no art. 2º, §§ 2º e 4º, II e IV, da Lei 12.850/13 (organização criminosa armada) e no art. 158, §1º (por diversas vezes), c/c o art. 71 e 69, todos do Código Penal (extorsão qualificada). Referida custódia foi convertida em prisão preventiva.
+Irresignada com o recebimento da denúncia e a manutenção da segregação cautelar, a defesa impetrou a ordem originária, que foi denega conforme acórdão juntado às fls. 248/258.
+No presente recurso, aduz nulidade da decisão que recebeu a denúncia por ausência de fundamentação, porquanto deixa de examinar as teses defensivas. Afirma violação do art. 397 do Código de Processo Penal.
+Sustenta, ainda, a existência de excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por cerca de 1 ano sem que a instrução tenha sido encerrada. Destaca que a defesa não deu causa à demora no julgamento do feito.
+Ressalta as circunstâncias pessoais favoráveis do recorrente e alega ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal.
+Requer, em liminar, a expedição de alvará de soltura, ou, alternativamente, a aplicação de medidas cautelares alternativas à prisão.
+No mérito, pede a nulidade da decisão que recebeu a denúncia.
+Liminar indeferida às fls. 313/314. Informações prestadas às fls. 321/522. O Ministério Público Federal se manifestou pelo desprovimento do recurso, conforme parecer de fls. 527/541.
+É o relatório. Decido.
+Os pedidos estão prejudicados, pois conforme demonstram as informações obtidas na página da internet do Tribunal de origem, o Juiz de primeiro grau, no âmbito da ação penal n. 0003049-58.2016.8.26.0238, proferiu sentença condenatória, em desfavor do paciente no dia 5/7/2018.
+ Nesse contexto, não há como negar a perda superveniente do objeto em relação a decisão que recebeu a denúncia, tendo em vista o acolhimento pela instância ordinária, em juízo de cognição exauriente, quanto à procedência da acusação.
+No mesmo sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO DO REMÉDIO CONSTITUCIONAL. EXAME EXCEPCIONAL QUE VISA PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. 2. LITISPENDÊNCIA. INEXISTÊNCIA. 3. TRANCAMENTO DA AÇÃO PENAL. MEDIDA EXCEPCIONAL. AUSÊNCIA DE JUSTA CAUSA. NECESSIDADE DE EXAME APROFUNDADO DAS PROVAS. IMPOSSIBILIDADE 4. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. O pedido de trancamento da ação penal por ausência justa causa fica prejudicado pela superveniência da sentença condenatória, em que foi amplamente examinada a existência de autoria e materialidade do delito. Precedentes.
+4. Habeas corpus não conhecido (HC 227.425/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 01/07/2013).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL, POR AUSÊNCIA DE JUSTA CAUSA. ALEGAÇÃO DE NÃO DEMONSTRAÇÃO DO ENVOLVIMENTO DO PACIENTE NO DELITO IMPUTADO NA DENÚNCIA. SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA. APELAÇÃO JÁ JULGADA, PELO TRIBUNAL A QUO. WRIT PREJUDICADO. JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I. A superveniência de sentença condenatória - em que foram examinadas, em ampla cognição, a autoria e a materialidade do delito - torna sem objeto o Habeas corpus em que se busca o trancamento da Ação Penal, em face da ausência de justa causa.
+ ..
+III. Agravo Regimental desprovido (AgRg no RHC 19.262/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, DJe 19/04/2013).
+Da mesma forma, não há mais falar em excesso de prazo da custódia cautelar, uma vez que encerrada a instrução processual, nos termos da Súmula n. 52 desta Corte Superior que dispõe:
+Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+Por fim, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. OPERAÇÃO "LAVA-JATO". CORRUPÇÃO E LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA SUPERVENIENTE QUE ADICIONOU NOVOS FUNDAMENTOS À SEGREGAÇÃO. PERDA DE OBJETO DO WRIT. HABEAS CORPUS JULGADO PREJUDICADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - Consoante a jurisprudência desta Corte, a sentença condenatória que mantém a prisão cautelar com adição de novos fundamentos, por constituir novo título prisional, torna prejudicada a análise de habeas corpus cuja pretensão é a desconstituição do título anterior (precedentes).
+II - Na hipótese, a sentença condenatória superveniente trouxe novos fundamentos à segregação cautelar, evidenciando a possível prática de novos crimes de lavagem já durante as investigações da denominada Operação "Lava-Jato", bem como a superveniência de outra denúncia por crimes de corrupção diversos e outra condenação por crime de fraude à licitação, circunstâncias que revelariam, de maneira inconteste, a dedicação profissional do ora recorrente à prática de crimes, e a indispensabilidade da manutenção de sua prisão para garantia da ordem pública, pelo fundado receio de reiteração delitiva.
+Agravo regimental desprovido (AgRg no HC 333.322/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 11/05/2016).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. CONCURSO DE PESSOAS. NEGATIVA DE AUTORIA. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR MANTIDA NA SENTENÇA. NOVOS FUNDAMENTOS. NOVO TÍTULO. FUNDAMENTOS NÃO ENFRENTADOS NA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. O habeas corpus não é o meio adequado para a análise de tese de negativa de autoria ou participação por exigir, necessariamente, uma avaliação do conteúdo fático-probatório, procedimento incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária.
+3. Caso em que o Juízo sentenciante, ao negar ao paciente o direito de apelar em liberdade, inovou nos fundamentos para manter a prisão cautelar, referindo-se a supostas práticas delitivas ocorridas posteriormente ao fato praticado nos autos.
+4. Conforme precedente desta Quinta Turma, "a superveniência de sentença penal condenatória, na qual se agrega nova motivação para a manutenção da prisão cautelar, torna prejudicada a irresignação quanto ao ponto, isto porque, o novo título prisional contém fundamentos cuja legalidade ainda não foi examinada pelo Tribunal originário, não cabendo, portanto, a este Superior Tribunal apreciá-la de forma originária, sob pena de indevida supressão de instância" (AgRg no RHC 49.413/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/10/2014, DJe 06/11/2014).
+5. Habeas corpus não conhecido (HC 345.071/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 07/03/2016).
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
