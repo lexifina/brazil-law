@@ -1,0 +1,35 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. ATRASO NA ENTREGA DE OBRAS. AUSÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. DANO MORAL NÃO CONFIGURADO. RECURSO ESPECIAL PROVIDO PARA AFASTAR A CONDENAÇÃO POR DANOS MORAIS.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por SOCIEDADE AGRO-PASTORIL IGARAPIAPUNHA LTDA fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 460):
+AGRAVO INOMINADO EM EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE PROCEDIMENTO COMUM. PEDIDO DE RESPONSABILIDADE CIVIL (COMPENSAÇÃO DE DANO MORAL, NÃO INFERIOR A 20 - VINTE - SALÁRIOS MÍNIMOS). SENTENÇA DE PARCIAL PROCEDÊNCIA, QUE FIXA A VERBA COMPENSATÓRIA EM R$ 4.400,00 (QUATRO MIL E QUATROCENTOS REAIS). MONOCRÁTICA DO ENTÃO RELATOR QUE DESPROVÊ A APELAÇÃO DA ORA AGRAVANTE E PROVÊ A DA RECORRIDA, MAJORANDO A VERBA PARA R$ 8.000,00 (OITO MIL REAIS). ACLARAR:RIOS E AGRAVO INOMINADO NÃO CONHECIDOS PELO MESMO RELATOR SUPERVENIÊNCIA DE DECISÃO NO C. SUPERIOR TRIBUNAL DE JUSTIÇA, NO SENTIDO DO IMPOSITIVO DO JULGAMENTO DO INOMINADO, QUE SE INSURGE CONTRA A APLICAÇÃO DO ART. 557 DO CÓDIGO DE PROCESSO CIVIL DE 1.973 E QUER VER QUESTÃO DE MÉRITO REJULGADA PELO COLEGIADO. DECISÃO UNIPESSOAL FUNDAMENTADA E EM ESTRITA OBSERVÂNCIA DOS PODERES DO RELATOR. RESPEITO À LEGISLAÇÃO PROCESSUAL CIVIL. PRECEDENTES DO C. SUPERIOR TRIBUNAL DE JUSTIÇA. DANO MORAL. OCORRÊNCIA. INEXISTÊNCIA DE MERO ABORRECIMENTO. INAPLICABILIDADE DA SÚMULA N.º 75-TJRJ. RECENTÍSSIMOS PRECEDENTES DO MESMO SODALÍCIO SUPERIOR. INEXISTÊNCIA DE ERRORES IN PROCEDENDO JUDICANDOQUE. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, o recorrente alega violação aos arts. 186 e 944 do Código Civil, pois "a questão é de mero descumprimento de contrato de venda de lote imobiliário, por conta de atraso na entrega de partes comuns do condomínio, situação que, de acordo com a mais recente linha jurisprudencial dominante do Superior Tribunal de Justiça, o mero inadimplemento decorrente de atraso não é, por si só e de forma automática, apto a ensejar dano moral" (e-STJ, fl. 480).
+Alternativamente, alega ofensa ao art. 884 do Código Civil, porquanto requer a minoração do valor arbitrado em sede de danos morais seria exacerbado, tendo em vista que equivale ao dobro do valor pago pelo imóvel em questão.
+Requer, assim que o presente Recurso Especial seja conhecido e, ao final, provido.
+Sem contrarrazões (e-STJ fl. 494).
+É o relatório.
+Passo a decidir.
+Primeiramente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Assiste razão à parte agravante no que tange à argumentação de impossibilidade de presunção de dano moral advindo do atraso na entrega do imóvel, razão pela qual o recurso especial deve ser provido para afastar a condenação imposta.
+Compulsando os autos, observa-se que o Tribunal de origem não assentou de forma inequívoca que o atraso na entrega do imóvel abalou os direitos inerentes à personalidade da recorrida.
+Atribuiu, pois, somente ao inadimplemento contratual a configuração dos danos morais, sem individualizar, no caso concreto, eventual abalo moral sofrido pela parte, reputando in re ipsa o dano moral sofrido, de modo a ensejar a reparação pela recorrente.
+Confira-se (e-STJ, fl. 468):
+No mérito, a questão foi corretamente dissecada e julgada monocraticamente, convindo destacar que a recorrente não nega o atraso na entrega do imóvel e que, ao contrário do que afirmou, o colendo Superior Tribunal de Justiça não tem entendido que o caso seja de mero aborrecimento.
+Verifica-se, portanto, que o órgão julgador presumiu a configuração do danos extrapatrimoniais compensáveis em favor do adquirente de imóvel, atribuindo, destarte, ao mero inadimplemento contratual o dever de compensação por danos morais. Não houve qualquer peculiaridade estabelecida pelo Tribunal de origem no caso concreto que justificasse a condenação em R$ 8.000,00 reais a título de danos morais.
+Com efeito, a jurisprudência desta col. Corte Superior é no sentido de que, embora o atraso na entrega do imóvel possa gerar dano moral compensável, estes devem estar demonstrados e configurados, não podendo ser fundamentado somente no mero inadimplemento contratual.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. PRÉ-QUESTIONAMENTO FICTO. OMISSÃO. AUSÊNCIA. DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.  ..
+2. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto
+demonstrarem a efetiva lesão extrapatrimonial.
+3. Agravo interno no recurso especial desprovido.
+(AgInt no REsp 1719311/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/05/2018, DJe 28/05/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015)
+Dessa forma, considerando que a conclusão do Tribunal de origem está em confronto com o entendimento deste Superior Tribunal de Justiça, verifica-se que a alteração de tal conclusão não demanda a revisão dos elementos fático-probatórios constantes dos autos, mas tão somente a alteração do contorno jurídico dado à premissa fática já estabelecida pela corte local. Hipótese que afasta a aplicação do óbice da súmula 7/STJ.
+Destarte, a revisão do julgado é medida que se impõe, para conhecer do recurso especial, excluindo a indenização por danos morais, que não é devida no caso em questão, restando prejudicada a análise das demais questões.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para afastar a indenização por danos morais.
+Intimem-se.
