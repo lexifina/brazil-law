@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INVIABILIDADE — DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Amazonas confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de homicídio culposo na direção de veículo automotor. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação do artigo 5º, incisos LIV e LV, da Constituição Federal. Diz ter sido julgado com base exclusivamente em provas testemunhais e laudo pericial colhido no inquérito policial, tendo como cerceado o direito de defesa. Requer a absolvição.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Verifica-se que o apelante trafegava em velocidade elevada, em via de apenas duas faixas de rolamento, sem a atenção necessária, razão pela qual não há como atribuir vitima a responsabilidade pela atropelamento que sofreu.
+    Nos autos se observa que outros motoristas (tis. 90/93) passaram pelo mesmo local do atropelamento e não enfrentaram qualquer problema em desviar, com antecedência segura, dos veículos parados no lado direito da via no momento da abordagem policial, o que demonstra inexistir qualquer impossibilidade de realização da manobra necessária para evitar a colisão com o veículo parado (Celta) e também com o policial militar (vitima).
+    Consta, ainda, que as avarias registradas no veículo Celta dão conta de que a colisão ocorrera na lateral esquerda deste (retrovisor e para-lama traseiro esquerdo). Logo, é de se notar que tanto a alta velocidade, como também a falta de atenção do apelante contribuíram para a ocorrência do fatídico evento, pois o apelante não teve tempo suficiente de reação.
+    Portanto, incabível albergar a tese de culpa exclusiva da vítima, tampouco de inexigibilidade de conduta diversa, na medida em que o apelante, ao adotar uma postura imprudente, empregando velocidade exacerbada e sem adotar a atenção necessária na condução do veículo, ceifou a vida da vitima.
+    Cumpre destacar, ainda, que o apelante confessou (11. 175) que no dia do fato estava gripado e sob efeito de remédios, tendo dirigido em estado de sonolência.
+    Com efeito, verifica-se, mais uma vez, a imprudência do apelante que, apesar do estado letárgico que se encontrava, assumiu a direção de um veículo automotor e deu causa à morte do policial militar.
+    No que se refere à suposta invalidade do Laudo Pericial, bem como à alegada inconsistência e falta de credibilidade dos depoimentos prestados pelas testemunhas, não verifico razões para acolher tais argumentos.
+    Ao analisar os depoimentos das testemunhas, mormente o prestado por Veraldo Mendonça de Oliveira (fls.85/86), que estava na companhia da vítima no momento do atropelamento, nota-se que a dinâmica dos fatos relatada se coaduna com os demais elementos existentes nos autos. Harmoniza-se, inclusive, com os esclarecimentos (áticos que o apelante apresentou em juízo, havendo divergência apenas quanto à velocidade empregada pelo condutor no momento do atropelamento.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce ter o Tribunal, no recurso extraordinário com agravo nº 748.371/M, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    Acresce que os argumentos expendidos no recurso não foram enfrentados pelo Órgão julgador. Assim, padece o recurso da ausência de  prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula deste Tribunal.
+    4. Conheço do agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 4 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
