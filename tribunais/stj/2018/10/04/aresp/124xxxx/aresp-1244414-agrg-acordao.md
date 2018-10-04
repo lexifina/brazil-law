@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. HOMICÍDIO QUALIFICADO. TRIBUNAL AFIRMA QUE A TESE ACOLHIDA PELOS JURADOS ENCONTRA AMPARO NO LASTRO PROBATÓRIO DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. SOBERANIA DOS VEREDICTOS DO TRIBUNAL DO JÚRI. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão assim resumida (fl. 1.352):
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. TRIBUNAL AFIRMA QUE A TESE ACOLHIDA PELOS JURADOS ENCONTRA AMPARO NO LASTRO PROBATÓRIO DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. SOBERANIA DOS VEREDICTOS DO TRIBUNAL DO JÚRI. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF.
+Agravo conhecido para não conhecer do recurso especial.
+Alega o agravante não incidir ao presente caso a Súmula 126/STJ, uma vez que o v. aresto  ..  carecia de fundamentos constitucionais, pois, evidente era o cabimento do recurso nobre, e assim, a decisão guerreada, ao contrário do que aduz a referida súmula, não trouxe qualquer fundamento concreto que o inviabilizasse (fl. 1.367).
+Diz que não se busca o reexame de provas, mas, sim, o reconhecimento de que a decisão proferida pelo corpo de jurados é sim manifestamente ilegal, porquanto manteve a qualificadora da suposta "surpresa no ataque" (fl. 1.367).
+Sustenta, ainda, no tocante ao óbice da Súmula 283/STF, que a matéria abordada  ..  já foi amplamente discutida durante a instrução, como ficou evidenciado nas razões de apelação  ..  onde o tema foi minuciosamente versado, com riqueza de detalhes, possibilitando o prequestionamento, e por consequência, a interposição do referido recurso especial (fl. 1.372).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir quaisquer de seus fundamentos, motivo pelo qual os trago para serem confirmados pelo Colegiado.
+Com efeito, de acordo com o afirmado anteriormente, o Tribunal de Justiça paulista afirmou, com base no lastro probatório dos autos, que a tese acolhida pelos jurados encontra amparo nos elementos de prova produzidos no curso da persecutio criminis, além disso, destacou a soberania dos veredictos do Conselho de Sentença prevista no texto constitucional.
+Eis os fundamentos elencados no acórdão (fls. 1.214/1.216):
+ ..
+Segundo a versão apresentada pela defesa (e encampada pelo corpo de jurados), o embargante estava em um ônibus e, mediante emprego de grave ameaça, com a utilização de arma de fogo, subtraiu quantia em dinheiro que estava na posse do cobrador.
+Ato contínuo, o embargante se dirigiu ao fundo do coletivo e, de surpresa, disparou contra WIL GALBIATI, em razão de ter com ele discutido anteriormente (supostamente, a vítima não teria lhe pagado o valor que devia em razão da compra de um par de tênis).
+Adotadas aqui as razões já explanadas no v. acórdão de fls. 861/866, o qual tão somente se completa, em observância ao determinado pelo C. STJ se entende que a qualificadora correspondente ao uso de recurso que dificultou a defesa da vítima não destoa das provas produzidas nos autos.
+Há prova testemunhal que afirma que o embargante atentou contra a vítima de arma em punho, sem nada falar, e de surpresa (em momento em que a vítima conversava com seus amigos) lhe desferindo um tiro.
+Neste sentido, o relato das testemunhas CARLA RENATA LOPES MACHADO (fls. 276) e VÂNIA MARCHESIN (fls. 284).
+Como se vê, a qualificadora acolhida pelos jurados não é manifestamente contrária à prova dos autos, é soberana e deve ser respeitada.
+Reforço que a análise e valoração aprofundada são incabíveis em sede recursal, em respeito ao princípio da soberania dos veredictos, cabendo ao juízo ad quem limitar-se à verificação de eventual discrepância manifesta e absurda entre a solução do julgamento em plenário e os elementos de prova colhidos ao longo da persecução penal, que inexiste no caso.
+Os jurados adotaram vertente possível dentre as apresentadas, optando por versão que lhes parecia verdadeira, reconhecendo a materialidade delitiva, autoria e qualificadora. A decisão não é, em absoluto, arbitrária ou sem respaldo na prova dos autos.
+Era lícito aos jurados tomar como verdadeiras ou não as declarações que desfavoreceram o recorrente, sem que isso configurasse decisão manifestamente contrária à evidência dos autos, como pretendido em recurso de apelação.
+A Constituição Federal, em seu art. 5o, inciso XXXVIII, alínea c, garante a soberania dos veredictos como um direito intrínseco à instituição do júri. Em obediência a tal determinação, deve-se restringir ao máximo a interpretação dada aos casos de decisão manifestamente contrária à prova dos autos, sob pena de se ignorar o mencionado dispositivo constitucional, apenas por não se estar concorde com o veredicto do conselho de sentença.
+Portanto, como já salientado, ao Tribunal ad quem cabe apenas verificar se o veredicto popular é manifestamente contrário à prova dos autos, ou seja, se colide ou não com as provas apresentadas. E, desde que a solução adotada tenha suporte em vertente probatória, deve-se acatá-la, sem se examinar minuciosamente as versões acusatória e defensiva, porque o mesmo já foi realizado pelos juízes de fato, verdadeiros detentores da competência de julgar crimes dolosos contra a vida.
+ ..
+Dessa forma, a par da ausência de recurso extraordinário impugnando o fundamento constitucional adotado, trazendo a lume a Súmula 126/STJ, alterar a conclusão do acórdão recorrido, sobretudo a referente à consonância do veredicto aos elementos de prova dos autos e às teses aventadas pelas partes, como pretendido pelo agravante, demanda o reexame do acervo fático-probatório dos autos, providência que contraria a Súmula 7/STJ.
+Ademais, tenho que o agravante não infirmou o fundamento do acórdão em sua totalidade, em especial, a soberania do Conselho de Sentença que impede a alteração de seu veredicto por outro órgão jurisdicional, bem como que o Juri acolheu uma das versões debatidas, amparada em lastro probatório dos autos, motivo pelo qual incide o Enunciado n. 283/STF.
+Ante o exposto, nego provimento ao agravo regimental.
