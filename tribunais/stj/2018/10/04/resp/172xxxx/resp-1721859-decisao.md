@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por RUBIA DUTRA DE FARIAS, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, em face de acórdão da seguinte forma ementado:
+NULIDADE DE RESCISÃO CONTRATUAL C.C. OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS -
+Plano de saúde - Autora que pretende o restabelecimento do contrato e a indenização por danos morais - Procedência parcial do pedido - Inconformismo da autora - Desacolhimento - Aplicação do disposto no art. 252 do RITJSP - Contrato originário rescindido - Legitimidade reconhecida pela sentença - Autora que se insurge quanto à indenização não concedida - Cirurgia realizada na data inicialmente agendada - Procedimento não emergencial - Danos morais não configurados - Sentença mantida - Recurso desprovido.
+Nas razões do especial, aponta a recorrente a existência de dissídio jurisprudencial, além da negativa de vigência dos artigos 14 do Código de Defesa do Consumidor e 1º da Lei 9.656/98, alegando que "a recusa injustificada de internação e prestação de serviços hospitalares ao segurado por parte da empresa de seguro saúde constitui ato ilícito, de modo a caracterizar responsabilidade das recorrentes" (fl. 430, e-STJ), por isso faz jus à reparação econômica por dano moral.
+O recurso foi admitido na origem, nos termos da decisão de fls. 495-497, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568, desta Corte, dispõe que  relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No tocante ao pleito de reparação econômica por danos morais, é assente que ao dever de indenizar impõe-se a presença dos requisitos exigidos para a responsabilização civil, nos termos em que estatuídos nos arts. 186, 187 e 927 do Código Civil.
+Para a configuração do dano moral, há de existir uma consequência mais grave em virtude do ato que, em tese, tenha violado o direito da personalidade, provocando dor, sofrimento, abalo psicológico ou humilhação consideráveis à pessoa, e não quaisquer dissabores da vida.
+O Tribunal de origem assim se manifestou sobre a controvérsia (fl. 415, e-STJ):
+É dizer, nada obstante o cancelamento do contrato, diga-se, reputado legítimo pela r. sentença, e a necessidade de ajuizamento da presente ação, o certo é que com a antecipação da tutela pleiteada (fls. 128/129) o procedimento cirúrgico foi efetivamente realizado na data inicialmente agendada.
+Assim, tratando-se de cirurgia não emergencial e inexistindo necessidade de novo agendamento que demandasse, por exemplo, repetição de exames pré- operatórios ou ingestão de novos medicamentos, a improcedência do pedido indenizatório era mesmo de rigor.
+Entende-se que a situação de fato, para gerar danos morais, deveria ter repercutido no patrimônio imaterial do autor de forma reflexa, o que não ficou demonstrado, conforme delineado pelo acórdão recorrido, sendo que a recusa na prestação dos serviços por parte da ré significou, segundo o que consta dos autos, nada mais do que meros aborrecimentos e dissabores. Tem-se que as ocorrências narradas não geram, por si sós, dano à moral.
+Nesse contexto, verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Diante do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
