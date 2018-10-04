@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (e-STJ fl. 199):
+ADMINISTRATIVO - TRABALHADOR PORTUÁRIO AVULSO - SERVIÇO DE CAPATAZIA - INSCRIÇÃO NO ÓRGÃO DE GESTÃO DE MÃO-DE-OBRA - OGMO.
+1. A exigência de serem contratados dentre os profissionais cadastrados no órgão de gestão de mão-de-obra do trabalho portuário - OGMO, conforme interpretação sistemática do art. 26 da Lei nº 8.630/93 e do art. 11 da Lei nº 9.719/98 restringe-se aos serviços de "estiva, conferência de carga, conserto de carga e vigilância de embarcações com vínculo empregatício a prazo indeterminado", não sendo aplicável aos serviços de capatazia.
+2. Precedentes do STJ.
+3. Sentença mantida.
+Rejeitaram-se os aclaratórios (e-STJ fls. 212/219).
+Nas suas razões, a recorrente aponta violação dos seguintes dispositivos legais:
+(a) art. 535, II, do Código de Processo Civil de 1973, porque, apesar de opostos embargos de declaração, o Tribunal de origem não se manifestou sobre questões relevantes ao deslinde da controvérsia;
+(b) arts. 18, 27 e 37 da Lei n. 8.630/1993, sustentando que é necessário o cadastro prévio dos trabalhadores portuários de capatazia no Órgão de Gestão de Mão de Obra - OGMO, para a contratação por prazo indeterminado.
+Apresentaram-se contrarrazões às e-STJ fls. 251/272.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 275/276.
+O Ministério Público Federal opina pelo desprovimento do recurso especial (e-STJ fls. 288/291).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa anotação, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se observando, na espécie, nenhuma contrariedade da norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750.650/RJ, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/9/2015, e AgRg no AREsp 493.652/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 20/6/2014.
+Com efeito, o Tribunal de origem apreciou a matéria submetida ao seu crivo, consignando expressamente que, "pela interpretação conjugada do artigo 26 da Lei n. 8.630 com o artigo 11 da Lei nº 9.719/98, infere-se não se aplicar a exigência da contratação por intermédio do OGMO aos serviços de capatazia" (e-STJ fl. 197).
+Quanto ao mérito, esta Casa de Justiça possui entendimento de que a exigência de contratação de profissionais portuários cadastrados no OGMO não se aplica aos serviços de capatazia. A propósito:
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SERVIÇO PORTUÁRIO. LEI 8.630/93. SERVIÇO DE CAPATAZIA. DESNECESSIDADE DE REGISTRO NO OGMO. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Lei 8.630/93 que dispõe sobre o regime jurídico da exploração dos portos organizados e das instalações portuárias, dispõe em seu art. 23, parág. único, que a contratação de trabalhadores portuários de estiva, conferência de carga, conserto de carga e vigilância de embarcações com vínculo empregatício a prazo indeterminado será feita, exclusivamente, por trabalhadores registrados junto ao Órgão Gestor de Mão de Obra - OGMO.
+2. É firme o entendimento dessa Corte de que tal exigência não pode ser aplicada de maneira extensiva a outras classes de trabalhadores que não as elencadas no referido dispositivo. Precedentes: AGRG NO RESP. 1.131.911/SC, 2T, REL. MIN. CASTRO MEIRA, DJE 5.10.2009, AGRG NO RESP. 1.028.049/SP, 1T, REL. MIN. TEORI ALBINO ZAVASCKI, DJE 13.8.2009, RESP. 996.112/PR, 1T, REL. MIN. [NOME], DJE 24.4.2008.
+3. Não é possível acolher a pretensão do Sindicato de extensão da exigência de registro aos trabalhadores de capatazia, por ausência de previsão legal.
+4. Agravo Regimental do SINDOGEESP desprovido. (AgRg no REsp 964417/SP, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 08/11/2013).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO PORTUÁRIO. LEI 8.630/93. CONTRATAÇÃO DE TRABALHADORES. CAPATAZIA. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA 568/STJ E ART. 253, PARÁGRAFO ÚNICO, II, B, DO RISTJ. DESNECESSIDADE DE CADASTRO NO ÓRGÃO GESTOR DE MÃO DE OBRA - OGMO. JURISPRUDÊNCIA DOMINANTE DO STJ. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão publicada em 12/09/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. A questão ora controvertida possui entendimento dominante nesta Corte, fato esse que autoriza a apreciação monocrática do apelo, nos termos da Súmula 568 do STJ ("O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema") e do art. 253, parágrafo único, II, b, do RISTJ.
+III. Conforme a jurisprudência dominante do STJ, a contratação de profissionais portuários cadastrados no Órgão Gestor de Mão de Obra - OGMO constitui exigência que não se aplica aos serviços de capatazia (STJ, AgRg no REsp 1.131.911/SC, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 05/10/2009; AgRg no REsp 964.417/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 08/11/2013).
+IV. Assim, estando o acórdão recorrido em consonância com a jurisprudência sedimentada nesta Corte, afigura-se acertada a decisão ora agravada, que, com fundamento na Súmula 568 do STJ, obstou o processamento do Recurso Especial.
+V. Agravo interno improvido. (AgInt no REsp 1455023/SP, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/05/2017).
+Assim, estando a conclusão do aresto combatido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide, quanto ao ponto, a Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
