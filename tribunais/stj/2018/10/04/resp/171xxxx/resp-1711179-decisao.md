@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+PROCESSUAL CIVIL. CAUTELAR. SFH. NULIDADE. LEILÃO. EXECUÇÃO EXTRAJUDICIAL. INEXISTÊNCIA. DISCUSSÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+I - Pretendeu a parte autora, em suma, o reconhecimento da nulidade da execução extrajudicial referente ao imóvel situado na Rua Libaralina, nº 135/01, Parada 40, São Gonçalo - RJ, alegando, para tanto, a existência de ilegalidades e vícios no procedimento executório levado à cabo pela CEF.
+II - A constitucionalidade do Decreto-Lei nº 70/66 (que regula o execução extrajudicial) já foi reconhecida pelo STF.
+III - Não restou demonstrado nos autos a inobservância, por parte da CEF, do devido processo legal, face à comprovação de que foram enviadas para o endereço do imóvel financiado diversas comunicações acerca do andamento do procedimento de execução que culminou na realização do leilão.
+IV - O imóvel objeto do contrato foi regularmente adjudicado pelo agente financeiro.
+À ausência de comprovação de parcialidade do agente fiduciário, não há nulidade alguma a ser sanada.
+V - A discussão acerca da revisão de cláusulas contratuais é extemporânea, por não se poder, validamente, discutir revisão de contrato que não mais existe, uma vez que a obrigação referente ao mútuo já se encontra extinta, não havendo mais prestações mensais e periódicas a serem pagas, em virtude da satisfação do crédito da instituição financeira pela adjudicação do imóvel.
+VI - O Agravante não apresentou qualquer argumento capaz de viabilizar a alteração da Decisão hostilizada.
+VII - Agravo Interno improvido.
+Nas razões de recurso especial, alega a parte recorrente violação dos artigos 247 e 535 do Código de Processo Civil de 1973; 5º da Lei 4.380/1964; 31 a 37 do Decreto-Lei 70/1966; 4º do Decreto 22.626/1933; 44 da Lei Complementar 80/1997; 5º, § 5º, da Lei 1.060/1950; 20 do Código de Organização Judiciária; 167, I, da Lei 6.015/73; 2º, 3º, 6º, V, e 39, I, do Código de Defesa do Consumidor; e 79, § 1º, I, da Lei 11.977/2009.
+Não merece reforma o acórdão recorrido, o qual foi publicado antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Com efeito, verifico que a recorrente limitou-se a citar genericamente violação a artigos de lei sequer prequestionados, sem demonstrar em que extensão e como se deu a violação, o que impede a compreensão da controvérsia, por deficiência na fundamentação. Incidência das Súmulas 282 e 284/STF.
+Por outro lado, observo que o Tribunal de origem consignou:
+Com efeito, o Agravante não apresentou qualquer argumento capaz de viabilizar a alteração da Decisão hostilizada, que foi fundamentada em consonância com a jurisprudência desta E. Corte Regional Federal, pelo que merece ser transcrita e mantida em sua integralidade, verbis:
+"Trata-se de Apelação em Ação Cautelar, interposta pela Parte Autora, contra Sentença de fls.293/300, que iulqou improcedente a pretensão por ela deduzida.
+Pretendeu a Parte Autora, em síntese, o reconhecimento da nulidade da execução extraiudicial referente ao imóvel situado à Rua Libaralina, nº 135, ap. 01, Parada 40, São Gonçalo - RJ. Como causa de pedir, a parte autora alega a existência de ilegalidades e vícios no procedimento executório levado a cabo pela CEF.
+Em razão da Sentença de improcedência, a Parte Autora opôs a Apelação de fls.304/332, onde pugna pela reforma do Decisum vergastado.
+Contrarrazões às fls. 335/337.
+É o relatório.
+Inicialmente cumpre destacar que a constitucionalidade do Decreto -Lei nº 70/66, que disciplina a execução extrajudicial, já foi reconhecida pelo Supremo Tribunal Federal, em inúmeras ações julgadas (STF: RE223075, RE287453, RE408224), razão pela qual não há óbice para que o agente fiduciário deflagre o procedimento executório extrajudicial.
+Nesse passo, no que tange à ausência de notificação pessoal para purga da mora, não restou demonstrado nos autos a inobservância por parte da Caixa Econômica Federal do principio constitucional da ampla defesa (art. 5º, LV, da CRFB/88), face à comprovação, às fls. 238 a 269, de que foram enviadas para o endereço do imóvel financiado diversas comunicações acerca do andamento do procedimento de execução que culminou na realização do leilão.
+Outrossim, verifica-se que imóvel objeto do contrato foi regularmente adjudicado pelo agente financeiro. E isto porque, conforme bem aventado pelo MM. Juízo a quo, "encontrando-se o financiamento em questão compreendido pelo Sistema Financeiro da Habitação, é de se concluir que o agente fiduciário estava agindo em nome da Caixa Econômica Federal e sua eleição não dependia de comum acordo entre as partes. É dizer sendo o agente fiduciário preposto do credor, cabe apenas a este a escolha daquele." (fl. 295). Ademais, à ausência de comprovação de parcialidade do agente fiduciário, em prejuízo do devedor ou capaz de macular o procedimento de execução, não há nulidade alguma a ser sanada.
+No que pertine, por sua vez, à discussão acerca de revisão de cláusulas contratuais, considero a mesma extemporânea, pois não se pode, validamente, discutir revisão de contrato que não mais existe, uma vez que a obrigação referente ao mútuo já se encontra extinta, não havendo mais prestações mensais e periódicas a serem pagas, em virtude da satisfação do crédito da instituição financeira através da adjudicação do imóvel.
+(..)
+Ocorre que tais fundamentos, além de não terem sido especificamente impugnados pelas razões do recurso especial, donde a incidência da Súmula 283/STF, demandariam reexame de matéria de fato para serem revistos, o que é vedado pelas Súmulas 5 e 7/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
