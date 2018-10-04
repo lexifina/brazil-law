@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Paraná, a qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 318):
+APELAÇÃO CÍVEL - PREVIDENCIÁRIO - CONVERSÃO DE AUXÍLIO ACIDENTE EM APOSENTADORIA POR INVALIDEZ - IMPOSSIBILIDADE DIANTE DAS CIRCUNSTÂNCIAS DO CASO EM CONCRETO - APELO PROVIDO. REEXAME NECESSÁRIO PREJUDICADO.
+No especial obstaculizado, o recorrente aponta violação do art. 42 da Lei n. 8.213/1991, alegando que a legislação não faz distinção quanto à incapacidade, se deve ser parcial ou total, de modo que a comprovação da incapacidade parcial já seria suficiente para concessão do auxílio-doença.
+Transcorrido in albis o prazo para contrarrazões (e-STJ, fl. 419), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento da incidência da Súmula n. 7/STJ.
+Na presente irresignação, o agravante postula seja afastado o óbice sumular e analisada a questão de mérito.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse esclarecimento, o Tribunal de origem ao negar a concessão do benefício concluiu pela existência de capacidade laborativa aliada à sua pouca idade, tecendo a seguinte fundamentação, in verbis (e-STJ fls. 320-321):
+Ainda que o autor seja pessoa de baixa escolaridade (com até o sexto ano do ensino fundamental completo, conforme fls. 99), não é possível crer que um indivíduo com 42 anos e que ainda detém certa capacidade laborativa está totalmente excluído do mercado de trabalho; o Superior Tribunal de Justiça permite a concessão de aposentadoria por invalidez aos segurados em situação semelhante, todavia, desde que tenham mais idade, considerando que um quadro clínico frágil e idade avançada sejam fatores que contribuem não somente para a incapacidade profissional, mas também social destes indivíduos.
+Ao autor, no momento, ainda aplica-se o disposto no art. 86 da lei 8213/91.
+Porém, observa-se que o agravante não se insurgiu nas razões do recurso especial contra esse fundamento do acórdão recorrido, o que atrai a aplicação da Súmula 283 do STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
