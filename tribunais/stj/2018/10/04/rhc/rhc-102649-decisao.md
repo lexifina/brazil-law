@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MARCONI MARLON FARIA DA SILVA, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos o recorrente teve a prisão preventiva decretada pela pratica, em tese, dos crimes previstos no art. 180, §1º, c.c. o art. 14, II, ambos do código penal e art. 2º, caput, §2º da Lei 12.850/2013.
+Irresignada, a Defesa impetrou habeas corpus no Tribunal de origem pleiteando a revogação preventiva. O tribunal a quo denegou a ordem em decisão assim ementada:
+"EMENTA: "HABEAS CORPUS". RECEPTAÇÃO QUALIFICADA TENTADA. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. "MODUS OPERANDI". DECISÃO DEVIDAMENTE FUNDAMENTADA EM DADOS CONCRETOS DOS AUTOS. PRESENÇA DOS REQUISITOS FÁTICOS (ARTIGO 312 DO CPP) E INSTRUMENTAIS (ARTIGO 313,1, DO CPP) DA MEDIDA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS FATOS APURADOS CONDIÇÕES PESSOAIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA 1. Dadas as peculiaridades concretas do caso, de agente que Integra, em tese. Organização criminosa, havendo diversos outros acusados supostamente envolvidos no mesmo esquema, a liberdade do paciente poderia ensejar, facilmente, a reiteração da atividade criminosa, Indicando a necessidade de manutenção da custódia cautelar. 2. A atividade delituosa desenvolvida de maneira reiterada e habitual justifica a segregação provisória como forma de se garantir a ordem pública, em razão do modus operandi do grupo. Precedentes. 3. Além dos requisitos constantes no artigo 312 do
+CPP, para a decretação da prisão preventiva, faz-se necessária a presença de pelo menos um dos requisitos instrumentais do an 313 do CPP. 4. Sendo os crimes ora apurados apenados com reprimendas máximas, privativas de liberdade, superiores a quatro anos õ possível a manutenção da segregação provisória como forma do garantia da ordem pública. 5. As condições pessoais favoráveis da paciente, mesmo quando comprovadas nos autos, por si sós. não garantem eventual direito de responder ao processo em liberdade, quando a necessidade da segregação se mostra patente como forma do garantia da ordem pública e para se evitar a reiteraçao delitiva. 6. Ordem negada" (fl. 236).
+Daí o presente recurso ordinário, no qual alega o recorrente que sofre constrangimento ilegal uma vez que a decisão que decretou a prisão preventiva carece de fundamentação idônea.
+Pondera a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, que seja revogada a prisão preventiva ou a substituição por medidas cautelares.
+Liminar indeferida às fls. 286-287.
+O representante do Ministério Público Federal, às fls. 292-293, manifestou-se pelo desprovimento do recurso, em parecer que restou assim ementado:
+"RECURSO EM HABEAS CORPUS. RECEPTAÇÃO QUALIFICADA. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA SUPOSTAMENTE ENVOLVIDA COM A PRÁTICA REITERADA DE ROUBOS. RECEPTAÇÃO E ADULTERAÇÃO DE SINAL DE IDENTIFICAÇÃO DE VEÍCULO AUTOMOTOR FUNDAMENTAÇÃO IDÔNEA.
+PARECER PELO DESPROVIMENTO DO RECURSO."
+É o relatório.
+Decido.
+Inicialmente, verifico que não há nos autos procuração outorgada ao ilustre Advogado subscritor do presente recurso ordinário. Ainda que se considere que na impetração de habeas corpus não se exija a produção de instrumento de mandato, uma vez que qualquer um do povo pode impetrar o remédio heróico, tal faculdade não se estende à interposição do respectivo recurso ordinário. Nesse caso, de acordo com o enunciado da Súmula 115/STJ o recurso é inexistente.
+Ilustrativamente:
+"PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. 1. PETIÇÃO SUBSCRITA POR ADVOGADO. AUSÊNCIA DE JUNTADA DA PROCURAÇÃO. INCIDÊNCIA DO VERBETE N. 115/STJ. 2. INVERSÃO DA ORDEM DE OITIVA DAS TESTEMUNHAS. ART. 400 DO CPP. RESSALVA EXPRESSA AO ART. 222 DO CP. A EXPEDIÇÃO DE CARTA PRECATÓRIA NÃO SUSPENDE A INSTRUÇÃO CRIMINAL. INTELIGÊNCIA DO ART. 222, § 1º, DO CPP. AUSÊNCIA DE NULIDADE. 3. RECURSO EM HABEAS CORPUS NÃO CONHECIDO.
+1. Não há como conhecer do recurso em habeas corpus, porquanto não foi juntada aos autos a procuração dos causídicos que o subscrevem. Note-se que, cuidando-se de petição subscrita por advogado constituído, imprescindível a juntada da procuração, sob pena de incidir no caso o enunciado n. 115 da Súmula do Superior Tribunal de Justiça, segundo o qual, "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos".
+ ..
+3. Recurso em habeas corpus não conhecido" (RHC 57.455/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 2/5/2016, grifei).
+Ante o exposto, com fulcro no art. 34, XVIII, "a", do RISTJ, não conheço do presente recurso ordinário em habeas corpus.
+P. e I.
