@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da 9ª Câmara Cível do TJPR que apresenta a seguinte ementa (e-STJ fls. 489/490):
+DIREITO PROCESSUAL CIVIL. APELAÇÕES CÍVEIS E AGRAVO RETIDO. AÇÃO DE COBRANÇA DE SEGURO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS JULGADA PARCIALMENTE PROCEDENTE. AGRAVO RETIDO (RÉ). ALEGAÇÃO DE IMPOSSIBILIDADE DE INVERSÃO DO ÔNUS DA PROVA. NÃO ACOLHIMENTO. HIPOSUFICIÊNCIA TÉCNICA DO CONSUMIDOR CARACTERIZADA. Reconhecimento da h/possuficiência do agravado, fundada na distinção entre fornecedor e consumidor, segundo os conceitos extraídos da legislação específica (CDC, art. 2º e art. 3a).
+AGRAVO RETIDO CONHECIDO E DESPROVIDO. APELAÇÕES (1 E 2). SEGURO DE VIDA EM GRUPO. IN VALI DEZ PERMANENTE PARCIAL POR ACIDENTE DE TRÂNSITO. CONDENAÇÃO A COBERTURA PROPORCIONAL AO GRAU DE INVALIDEZ. PRETENSÃO DE RECEBIMENTO DO TETO DA APÓLICE. AUSÊNCIA DE CIÊNCIA DO CONSUMIDOR DAS CONDIÇÕES GERAIS DO CONTRATO. VIOLAÇÃO DAS REGRAS CONSUMERISTAS. INDENIZAÇÃO QUE DEVE SER PAGA NO VALOR MÁXIMO DO CAPITAL SEGURADO PARA INVALIDEZ PERMANENTE POR ACIDENTE. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. POSSIBILIDADE. Nos casos em que o segurado não teve prévio conhecimento das condições do ajuste para as hipóteses de invaiidez parcial, qualquer margem
+interpretativa deve-se resolver em favor do consumidor, sendo vedada interpretação prejudicial acerca do alcance das garantias do seguro. As cláusulas contratuais que impliquem em limitações de direito do consumidor devem ser redigidas de forma ostensiva, clara e facilmente compreensível. RECURSO DE APELAÇÃO (1) CONHECIDO E PARCIALMENTE PROVIDO E RECURSO DE APELAÇÃO (2) PARCIALMENTE CONHECIDO E NA PARTE CONHECIDA, PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 530/541).
+Sobreveio o presente recurso especial (e-STJ fls. 544/586), fundado no art. 105, III, "a" e "c", da CF, no qual a recorrente sustenta violação dos arts. 6º, 46, 47 e 54 do CDC e 436, 757 e 801 do CC/2002, sob fundamento de que não deve pagar a indenização securitária no valor total previsto na apólice, pois o segurado foi cientificado da limitação do valor garantido nos termos da tabela SUSEP.
+Por fim, suscita afronta ao art. 1.022 do CC/2015, pois o acórdão recorrido não teria examinado as apontadas violações legais.
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+O Tribunal de origem entendeu que o segurado faria jus à indenização securitária no valor máximo da apólice, pois teria sido cientificado previamente sobre as restrições do contrato no caso de invalidez parcial (e-STJ fls. 499/507).
+Seria necessário o reexame dos fatos e das provas dos autos para alterar a conclusão do Tribunal a quo referente à ausência de prévia informação do recorrido sobre os limites da cobertura. Incidente, nesses termos, a Súmula n. 7/STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
