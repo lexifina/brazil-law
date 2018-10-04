@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manifestado em face da decisão que negou seguimento ao recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EXECUÇÃO - PENHORA DE DIREITOS SOBRE BENS DOS EXECUTADOS - NOMEAÇÃO DUM DESTES COMO DEPOSITÁRIO - INADMISSIBILIDADE - Inexistência de situações excepcionais previstas no art. 666, § 1º, do CPC - Continuidade empresarial não afetada - Decisão reformada - Recurso provido.
+Argumenta a parte recorrente, em síntese, que o acórdão estadual é omisso, e que é possível a nomeação de um dos executados como depositário, circunstância menos gravosa à atividade desempenhada pela empresa executada.
+Inicialmente, não conheço do recurso quanto à violação do art. 591 do Código de Processo Civil, pois o recorrente não demonstrou em que consiste a ofensa ao dispositivo tido por violado, tornando patente a falta de fundamentação do recurso especial, circunstância que atrai a incidência do verbete nº 284 da Súmula do Supremo Tribunal Federal.
+Quanto à alegada violação ao art. 535 do CPC, sem razão a recorrente, haja vista que enfrentadas todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+No mais, a Corte de origem examinou aspectos fáticos da lide ao recusar o depósito em nome dos executados, firmando a inexistência de prejuízo à atividade empresarial dos devedores, além de antever o risco de depreciação dos veículos penhorados se permanecessem como meio de exploração do ramo de transporte rodoviário de cargas e passageiros. A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
