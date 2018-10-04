@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, III, 5º, caput, XXII e XXXVI, e 37 da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos arts. 1º, III, 5º, caput, XXII e XXXVI, e 37 da Constituição da República. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. FGTS. DEPÓSITOS EFETUADOS NA CONTA VINCULADA. ÍNDICE DE CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. CONTRARRAZÕES NÃO APRESENTADAS. MAJORAÇÃO DA VERBA HONORÁRIA: IMPOSSIBILIDADE. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (ARE 921603 AgR, Relator(a):  Min. CÁRMEN LÚCIA, Segunda Turma, julgado em 31/05/2016, PROCESSO ELETRÔNICO DJe-123 DIVULG 14-06-2016 PUBLIC 15-06-2016)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA PARTE RECORRENTE. ARTIGOS 1º, III, 5º, CAPUT E XXII, E 37, CAPUT, DA CF/88. NORMAS DE CONTEÚDO PRINCIPIOLÓGICO. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA CONSTITUCIONAL REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL. ARE 748.371 (REL. MIN. GILMAR MENDES – TEMA 660). ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AFRONTA INDIRETA À CONSTITUIÇÃO FEDERAL. PRECEDENTE. VALIDADE DA APLICAÇÃO DA TAXA REFERENCIAL – TR. ÍNDICE DE CORREÇÃO MONETÁRIA DOS DEPÓSITOS EFETUADOS NA CONTA VINCULADA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO – FGTS. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA. ARE 848.240-RG (REL. MIN. TEORI ZAVASCKI – TEMA 787). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 847732 AgR, Relator(a):  Min. TEORI ZAVASCKI, Segunda Turma, julgado em 24/02/2015, PROCESSO ELETRÔNICO DJe-045 DIVULG 09-03-2015 PUBLIC 10-03-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 04 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
