@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 413):
+TRIBUTÁRIO. MEDIDA PROVISÓRIA 774/2017.
+Tendo sido revogada pela Medida Provisória n. 794/2017, a Medida Provisória n. 774/2017 não produziu quaisquer efeitos. Por conseguinte prevalece, para os contribuintes que, quanto ao exercício de 2017, haviam optado por recolher suas contribuições patronais nos termos da Lei n. 12.546/2011, a referida opção.
+Nas razões do recurso especial, a parte recorrente sustenta, em síntese, que: (I) "no mês de julho/2017 vale a contribuição sobre a folha de salários, pois a MP 774 estava produzindo regularmente seus efeitos, nos termos do § 11 do art. 62 da Constituição Federal. Assim que, quanto à "reoneração" da folha de salários, quanto à "reoneração" da folha de salários, inegável a aplicabilidade da MP nº 774/2017 a partir de julho/2017 até a sua revogação pela MP 794/2017." (fl. 428); e (II) "por outro lado, a perda da eficácia da Medida Provisória nº 794, de 2017, a partir de 7 de dezembro do mesmo ano, implicou a restauração da eficácia da Medida Provisória nº 774, de 2017, pelo período que ainda lhe restava para vigorar (dois dias), depois dos quais: (i) a MP nº 774, de 2017, perdeu sua eficácia em definitivo, e (ii) iniciou-se o prazo de 60 dias, no qual o Congresso Nacional pode vir a disciplinar as relações jurídicas dela decorrentes." (fl.431).
+Recurso extraordinário interposto às fls. 432/440.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso (fls. 526/530).
+É o relatório.
+O recurso especial não comporta trânsito.
+Com efeito, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
