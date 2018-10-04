@@ -1,0 +1,24 @@
+Trata-se de reclamação ajuizada por Eugênio Piva Neto e Luzia Aparecida Rodrigues Piva contra decisão proferida pelo Ministro Luiz Fux, Relator do ARE 1.158.852/SP.
+    Os reclamantes informam que buscam a “[...] cassação da r. decisão que não admitiu o Recurso Extraordinário nº 1.158.852 (977)” (pág. 2 da inicial).
+    Esclarecem que, na origem, trata-se de ação de imissão de posse de bem imóvel, bem de família, arrematado pela ora interessada.
+    Sustentam que
+    “[...] o não acolhimento ao presente recurso, servirá como instrumento de flagelo dos aqui ora Reclamantes, posto que lhes deva ser assegurados os direitos básicos outorgados por lei, como o direito a ter moradia e, principalmente, o direito a ter uma vida digna […]” (pág. 6 da inicial).
+    Assim, “[...] no que tange aos fatos apresentados os autos serem totalmente divergentes dos referidos autos e principalmente violar a nossa constituição federal de 1988” (pág. 22 da inicial), requerem a reforma da decisão atacada.
+    É o relatório. Decido.
+    Bem examinados os autos, entendo que a reclamação não merece prosperar.
+    Como se sabe, as reclamações têm por escopo preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de enunciado de Súmula Vinculante, bem como de decisão desta Corte Suprema em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil.
+    Ocorre que, na espécie, os reclamantes sequer apontam o paradigma supostamente violado.
+    Ademais, observo que o ato reclamado consistiu em decisão monocrática proferida pelo Ministro Relator nos autos do ARE 1.158.852/SP, no sentido de desprover o agravo, com fundamento no art. 932, VIII, do Código de Processo Civil, cumulado com o art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal – RISTF, com amparo no teor da Súmula 735 desta Suprema Corte.
+    Ora, as hipóteses de revisão de decisões proferidas monocraticamente pelos Ministros estão catalogadas exaustivamente no Regimento Interno e ocorrem sempre por um órgão colegiado (Turma ou Plenário), por meio do agravo regimental (art. 317 do RISTF), mas nunca por outro Ministro, sob pena de instaurar-se verdadeira guerra intestina, com a contraposição de decisões divergentes, o que, além de provocar enorme insegurança jurídica, retiraria a credibilidade da mais alta Corte do país.
+    Conforme decidiu, recentemente, o Plenário da Corte, não se admite sequer a concessão de habeas corpus por outro integrante deste Tribunal quando o juiz natural do feito já tiver se pronunciado sobre o direito à liberdade de uma pessoa.
+    Ressalto, ainda, que em consulta ao sítio eletrônico do Supremo Tribunal Federal, não houve interposição de recurso contra a decisão proferida no ARE 1.158.852/SP.
+    Note-se, a propósito, que eventuais falhas na prestação jurisdicional podem ser reparadas pelas vias processuais apropriadas, previstas na legislação aplicável, sendo, portanto, descabida a conversão da reclamação em sucedâneo recursal, tal como ocorreu na espécie.
+    Assim, considero incabível a presente reclamação, porquanto a jurisprudência desta Suprema Corte não admite sua utilização como sucedâneo recursal. Vejamos:
+    “Agravo regimental em reclamação. 2. Alegação de violação a precedente desta Corte não dotado de efeito vinculante. Decisão proferida em ação de natureza subjetiva, com efeitos inter partes. 3. Inocorrência das hipóteses previstas no art. 102, I, ‘l’, da Constituição Federal e no art. 988 do CPC/2015. Não cabimento. 4. Impossibilidade de utilização da reclamação como sucedâneo recursal. 5. Ausência de argumentos que possam influenciar a convicção do julgador. 6. Agravo regimental não provido” (Rcl 30.118-AgR/DF, Rel. Min. Gilmar Mendes).
+    Ademais, já se consolidou o entendimento de que “é inadmissível a reclamação proposta contra decisão judicial de ministro ou órgão colegiado desta Suprema Corte” (Rcl 27.685-AgR/SP, Rel. Min. Dias Toffoli), verbis:
+    “Agravo regimental na reclamação. Súmula Vinculante nº 22. Reclamação constitucional usada como sucedâneo de recurso. Ausência de aderência estrita entre o ato reclamado e o paradigma da Corte. Súmula nº 734/STF. Impropriedade da reclamação contra ato desta Suprema Corte. Agravo regimental não provido. 1. A aderência estrita do objeto do ato reclamado ao conteúdo das decisões paradigmas é requisito de admissibilidade da reclamação constitucional. 2. A reclamação não é meio processual adequado para o reexame do mérito da demanda originária. 3. É inadmissível a reclamação proposta contra decisão judicial de ministro ou órgão colegiado desta Suprema Corte. 4. Agravo regimental não provido, com aplicação de multa (art. 1.021, § 4º do CPC/2015)” (Rcl 27.685-AgR/SP, Rel. Min. Dias Toffoli).
+    Isso posto, nego seguimento à reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 4 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
