@@ -1,0 +1,62 @@
+EMENTA
+PROCESSO PENAL. SÚMULA 691 DO STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF). No caso, observa-se a existência de ilegalidade suficiente para, excepcionalmente, autorizar a superação da aludida Súmula 691, de modo a permitir a análise do mérito deste habeas corpus.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. In casu, não foram apontados dados concretos que justificassem a segregação provisória. O magistrado singular utilizou apenas fundamentos genéricos relacionados à gravidade abstrata do crime de tráfico de drogas e baseou-se em elementos inerentes ao próprio tipo penal, deixando de observar o disposto no art. 312 do CPP. Nem mesmo a quantidade dos entorpecentes apreendida - 37,36 gramas de maconha - pode ser considerada relevante a ponto de autorizar, por si só, a custódia cautelar do paciente, sobretudo quando considerada sua primariedade.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para revogar a prisão preventiva imposta ao paciente, mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] em que se aponta como autoridade coatora Desembargador do Tribunal de Justiça do Estado de Rondônia.
+Colhe-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Neste writ, o impetrante sustenta, em síntese, que: a) não estão presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP; b) é suficiente a imposição de medidas cautelares diversas da prisão; c) o paciente é primário, tem residência fixa e bons antecedentes.
+Pleiteia a revogação da custódia provisória ou a substituição dela por medidas cautelares diversas da prisão.
+O pedido liminar foi deferido.
+O Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem.
+É o relatório.
+EMENTA
+PROCESSO PENAL. SÚMULA 691 DO STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF). No caso, observa-se a existência de ilegalidade suficiente para, excepcionalmente, autorizar a superação da aludida Súmula 691, de modo a permitir a análise do mérito deste habeas corpus.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. In casu, não foram apontados dados concretos que justificassem a segregação provisória. O magistrado singular utilizou apenas fundamentos genéricos relacionados à gravidade abstrata do crime de tráfico de drogas e baseou-se em elementos inerentes ao próprio tipo penal, deixando de observar o disposto no art. 312 do CPP. Nem mesmo a quantidade dos entorpecentes apreendida - 37,36 gramas de maconha - pode ser considerada relevante a ponto de autorizar, por si só, a custódia cautelar do paciente, sobretudo quando considerada sua primariedade.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para revogar a prisão preventiva imposta ao paciente, mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+No caso, observa-se a existência de ilegalidade suficiente para, excepcionalmente, autorizar a superação da aludida Súmula 691, de modo a permitir a análise do mérito deste habeas corpus.
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso dos autos, a custódia cautelar foi decretada pelos seguintes fundamentos:
+"Trata-se de comunicação de prisão em flagrante delito de [NOME], qualificado nos autos, sendo lhe imputada a prática do crime capitulado no art. 33, caput, da Lei n. 11.343/2006.
+O auto de prisão em flagrante delito está em ordem e formalmente perfeito razão pela qual HOMOLOGO-o.
+A materialidade está devidamente comprovada e há indícios de autoria por parte do flagranteado.
+O crime imputado é extremamente grave, afetando sobremaneira a paz pública, levando desespero para as famílias e o odioso vicio para adolescentes e até crianças.
+É sabido que testemunhas sentem amedrontadas a depor quando o acusado do crime de tráfico encontra-se solto.
+No caso em questão, a situação se toma mais grave ainda porque envolveu adolescente.
+Assim, no caso em apreço, na falta de melhores elementos para se aquilatar as condições pessoais do preso e pelos fundamentos supra deve ser mantida a prisão por conveniência da instrução criminal, para garantia da ordem pública e, ainda, para garantia da aplicação da lei penal, razão pela qual CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA em desfavor de [NOME], nos termos do art 310, II, e 312, ambos do CPP" (e-STJ, fl. 64).
+Extrai-se, ainda, da decisão que indeferiu o pedido de revogação da prisão preventiva:
+"A CF dispõe que ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória (art. 51, LVII).
+A prisão antes do devido processo legal e antes do amplo contraditório só se justifica quando presentes um dos fundamentos do art. 312 do CPP.
+No caso em exame, entendo que presente o fundamento da garantia da ordem pública e da instrução processual, conforme exposto na decisão que decretou a prisão preventiva (datada de 14/07/2018).
+O delito de tráfico, em si, representa sério risco à sociedade. Não é demais ser apontado como o maior problema a ser extirpado de nosso convivia social. É um caminho de degradação da pessoa e da família como um todo.
+As demais alegações da defesa em seu pedido de liberdade provisória, por si só não tem o condão de determinar a concessão da liberdade, pois examinando o auto de prisão em flagrante, verifica-se que outras pessoas foram ouvidas além de um policial.
+Além disto, a comunidade exige um posicionamento enérgico do estado frente a tais delitos. A regra é o acusado preso em flagrante e, agora, na conversão em prisão preventiva permanecer nesta condição durante a tramitação processual, apenas em situações muito peculiares é que se concede a liberdade, o que não é o caso dos autos.
+Desta forma, com base no dispositivo legal acima citado e presente também o fundamento da garantia da ordem pública (art, 312 do CPP), entendo que a liberdade provisória não merece ser concedida.
+Diante o exposto, INDEFIRO a LIBERDADE PROVISÓRIA requerida por [NOME]" (e-STJ, fls. 66-67).
+Como se vê, não foram apontados dados concretos que justificassem a segregação provisória. O magistrado singular utilizou apenas fundamentos genéricos relacionados à gravidade abstrata do crime de tráfico de drogas e baseou-se em elementos inerentes ao próprio tipo penal, deixando de observar o disposto no art. 312 do CPP. Nem mesmo a quantidade dos entorpecentes apreendida - 37,36g (trinta e sete gramas e trinta e seis centigramas) de maconha (e-STJ, fl. 30) - pode ser considerada relevante a ponto de autorizar, por si só, a custódia cautelar do paciente, sobretudo quando considerada sua primariedade.
+A propósito:
+"HABEAS CORPUS SUBSTITUTIVO DO RECURSO PRÓPRIO. NÃO CONHECIMENTO. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. REQUISITOS. PROIBIÇÃO DE LIBERDADE PROVISÓRIA CONSTANTE DO ART. 44 DA LEI Nº 11.343/2006. INCONSTITUCIONALIDADE DECLARADA PELO STF. GRAVIDADE ABSTRATA DO DELITO. DROGA APREENDIDA. REDUZIDA QUANTIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. É certo que a gravidade abstrata do delito de tráfico de entorpecentes não serve de fundamento para a negativa do benefício da liberdade provisória, tendo em vista a declaração de inconstitucionalidade de parte do art. 44 da Lei nº 11.343/2006 pelo Supremo Tribunal Federal.
+3. Caso em que o decreto que impôs a prisão preventiva ao paciente não apresentou motivação concreta, apta a justificar a segregação cautelar, tendo-se valido de afirmação genérica e abstrata sobre a gravidade do delito, decorrente do quantum da pena em abstrato, deixando, contudo, de indicar elementos concretos e individualizados que evidenciassem a necessidade da rigorosa providência cautelar.
+4. Condições subjetivas favoráveis ao paciente, conquanto não sejam garantidoras de eventual direito à soltura, merecem ser devidamente valoradas, quando não for demonstrada a real indispensabilidade da medida constritiva, máxime diante das peculiaridades do caso concreto, em que o acusado foi flagrado na posse de 115,65g de maconha. Precedentes.
+5. Writ não conhecido. Ordem de habeas corpus concedida de ofício, para determinar a soltura do paciente, sob a imposição das medidas cautelares diversas da prisão previstas no art. 319, incisos I e IV, do Código de Processo Penal"
+(HC 410.856/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/2/2018, DJe 1º/3/2018).
+"HABEAS CORPUS. TRÁFICO. 180 G DE MACONHA. PACIENTE PRIMÁRIO. INEXISTÊNCIA DE ELEMENTOS QUE INDIQUEM TRAFICÂNCIA HABITUAL. ORDEM CONCEDIDA.
+1. Primariedade do paciente, natureza da droga apreendida (maconha) e ausência de elementos que indiquem habitualidade no crime de tráfico de drogas autorizam a revogação da prisão preventiva imposta a ele, com a possibilidade de fixação de cautelares diversas pelo Juiz da causa.
+2. Ordem concedida. Cassada a prisão imposta ao paciente, permitindo que o Juiz do feito fixe cautelares diversas da prisão que entender pertinentes"
+(HC 409.578/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017).
+Ante o exposto, não conheço do habeas corpus. Não obstante, concedo a ordem, de ofício, para, confirmando a liminar anteriormente deferida, revogar a prisão preventiva imposta ao paciente, mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+Ressalvo a possibilidade de nova decretação da prisão, caso demonstrada, de forma fundamentada, sua necessidade.
+É o voto.
