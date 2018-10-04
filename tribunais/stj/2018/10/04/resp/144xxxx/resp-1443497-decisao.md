@@ -1,0 +1,71 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Instituto Nacional do Seguro Social - INSS, com base na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fl. 170):
+PREVIDENCIÁRIO. REVISÃO. PRESCRIÇÃO. LIMITAÇÃO DO SALÁRIO- DE-BENEFÍCIO AO TETO DO SALÁRIO-DE-CONTRIBUIÇÃO. RECOMPOSIÇÃO DE DIFERENÇAS. POSSIBILIDADE. CONSECTÁRIOS LEGAIS.
+1. Nas relações continuadas, a prescrição não atinge o fundo de direito, mas somente os créditos relativos às parcelas vencidas há mais de cinco (5) anos da data do ajuizamento da demanda.
+2. A limitação estabelecida no art. 29, §2º, da Lei n.º 8.213/91 deve ser aplicada apenas para fins de pagamento do benefício.
+3. A recuperação das diferenças desconsideradas pela limitação do salário-de-benefício ao teto do salário-de-contribuição podem ser feitas já desde o primeiro reajuste do benefício (art. 26 da Lei n.º 8.870/94, art. 21, §3º, da Lei n.º 8.880/94, e art. 35, §3º, do Decreto n.º 3.048/99) e, inclusive, nos subsequentes, bem como por ocasião da alteração do valor máximo do salário-de-contribuição.
+Os embargos de declaração opostos pelo recorrente (e-STJ fls. 176/193) não foram acolhidos nos termos da decisão (e-STJ, fls. 200/204), conforme ementa que se transcreve:
+EMBARGOS DE DECLARAÇÃO. CABIMENTO. PREQUESTIONAMENTO.
+São pré-requisitos autorizadores dos embargos de declaração a omissão, contradição ou obscuridade na decisão embargada. Também a jurisprudência os admite para a correção de erro material e para fim de prequestionamento.
+Os embargos declaratórios não se prestam para reexame da matéria sobre a qual houve pronunciamento do órgão julgador.
+Não pode o colegiado ser compelido a enfrentar questões e diplomas legais que não julgue relevantes para a solução da lide, bem como não está obrigado a ater-se aos fundamentos indicados pelas partes e tampouco a responder um a um todos os seus argumentos.
+Prequestionam-se artigos de lei na intenção de evitar não sejam conhecidos eventuais recursos a serem manejados nas instâncias superiores.
+O recorrente alega contrariedade aos arts. 535 do CPC/1973 e 103, caput, da Lei n. 8.213/1991.
+Sustenta, em suma, que o benefício da parte autora é anterior ao advento da MP 1.523-9/1997 e que o prazo decenal para pedir sua revisão já havia se esgotado ao tempo do ajuizamento da ação.
+Contrarrazões apresentadas (e-STJ, fls. 231/236).
+Admitido o recurso especial na origem (e-STJ, fl. 248), subiram os autos a esta Corte de Justiça.
+É o relatório.
+Registro, desde logo, que não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão combatido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Ademais, extrai-se do acórdão recorrido:
+Em se tratando de benefício previdenciário de prestação continuada, a prescrição não atinge o fundo de direito, mas somente os créditos relativos às parcelas vencidas há mais de cinco (5) anos da data do ajuizamento da demanda, consoante a iterativa jurisprudência dos Tribunais.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo insurgente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. NÃO OCORRÊNCIA. CUMULAÇÃO DE DUAS APOSENTADORIAS POR INVALIDEZ CONCEDIDAS PELO MESMO REGIME DE PREVIDÊNCIA SOCIAL. VEDAÇÃO EXPRESSA CONTIDA NO ARTIGO 124, II, DA LEI 8.213/1991. FATO ALEGADO EM EMBARGOS DE DECLARAÇÃO. QUESTÃO DE ORDEM PÚBLICA DE DIREITO MATERIAL CARACTERIZADA. NECESSIDADE DE APRECIAÇÃO PELO TRIBUNAL A QUO. JUROS DE MORA E ÍNDICE DE CORREÇÃO MONETÁRIA. ARTIGO 1º-F DA LEI 9.494/1997 COM A REDAÇÃO DADA PELA LEI 11.960/2009. CONDENAÇÃO DE NATUREZA PREVIDENCIÁRIA. ANÁLISE PREJUDICADA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA PARTE, PROVIDO.
+1. A questão recursal consiste em saber se o fato de o segurado cumular duas aposentadorias por invalidez, no mesmo regime de previdência, é questão de ordem pública de direito material, passível de ser examinada pelo Tribunal a quo em sede de embargos de declaração.
+2. Em preliminar, rejeita-se a alegada violação do artigo 535 do CPC/1973, porque o Tribunal a quo enfrentou o pedido contido nos embargos de declaração, concluindo que o tema da cumulação de aposentadorias estaria precluso para o debate.
+3. O artigo 124 da Lei 8.213/1991 contém norma expressa de vedação de cumulação de aposentadorias. É uma norma de exceção, que veda o recebimento simultâneo das prestações ali elencadas. Condiz a uma vedação de conduta.
+4. Questão de ordem pública é uma questão que constitui matéria de interesse público. Deve ser verificada sob diferentes enfoques, em distintas disciplinas jurídicas e em cada ramo do Direito. Isto porque, cada disciplina jurídica possui seu próprio núcleo de regras e princípios fundamentais e, em cada disciplina será contextualizada a violação à ordem pública.
+5. Quanto aos consectários, o acolhimento do pedido principal gera prejudicialidade na análise.
+6. Recurso especial conhecido em parte e, nessa parte, provido.
+(REsp 1.411.526/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/5/2018, DJe 24/5/2018)
+ADMINISTRATIVO. PROCESSUAL CIVIL. DECISÃO QUE SE FIRMA EM JURISPRUDÊNCIA DOMINANTE. VIOLAÇÃO DO ART. 557 DO CPC. NÃO OCORRÊNCIA. PRINCÍPIO DA COLEGIALIDADE. AGRAVO REGIMENTAL.
+PRESERVAÇÃO. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. APOSENTADORIA. TEMPO DE SERVIÇO RURAL. CONTAGEM RECÍPROCA. RECOLHIMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. NECESSIDADE.
+1. A configuração de jurisprudência dominante constante do art. 557 do CPC prescinde de que todos os órgãos competentes em um mesmo Tribunal tenham proferido decisão a respeito do tema. Isso porque essa norma é inspirada nos princípios da economia processual e da razoável duração do processo e tem por finalidade a celeridade na solução dos litígios. Assim, se o relator conhece orientação de seu órgão colegiado, desnecessário submeter-lhe, sempre e reiteradamente, a mesma controvérsia.
+2. A eventual nulidade da decisão monocrática calcada no art. 557 do CPC fica superada com a reapreciação do recurso pelo órgão colegiado na via de agravo regimental.
+3. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+4. Nos termos da jurisprudência pacífica do STJ, o cômputo, para fins de aposentadoria estatutária, do tempo de atividade rural anterior à Lei n. 8.213/1991, somente é possível se houver a comprovação do recolhimento das contribuições previdenciárias referentes a tal período ou à respectiva indenização.
+5. Na espécie, o Tribunal de origem assegurou o direito à manutenção de suas aposentadorias, reconhecendo-se a impossibilidade de o INSS cancelar as certidões de tempo de serviço e de suspender o pagamento dos proventos de aposentadoria, sendo-lhe possível, em tese, pelas vias apropriadas, promover a cobrança da indenização que entende devida. Incidência da Súmula 83/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.511.130/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 25/8/2015, DJe 2/9/2015)
+Quanto à decadência, verifica-se que o acórdão combatido afirmou tratar-se de revisão dos critérios de reajuste da renda mensal do benefício, não do ato de concessão, razão pela qual não se aplicaria o disposto no art. 103, caput, da Lei n. 8.213/1991. Veja-se o seguinte excerto (e-STJ, fl. 211):
+Esta Corte já se manifestou no sentido de que "O instituto da decadência, versado no caput do art. 103 da LBPS, refere-se às questões do fundo de direito, quando a ação judicial trata do ato de concessão do benefício previdenciário (cálculo da renda mensal inicial, por exemplo) ou da decisão que o indeferiu, de natureza diversa, portanto, das hipóteses em que a revisão postulada em juízo, envolvendo critério de reajuste, diz respeito às prestações de trato sucessivo, estas últimas sujeitas ao prazo prescricional, versado no seu parágrafo único." (TRF4, EINF N.º 2009.72.00.007206-9, 3a Seção, Des. Federal JOÃO BATISTA PINTO SILVEIRA, Unânime, D.E. 28/10/2010)
+Assim, em ações revisionais, a análise acerca da decadência pressupõe distinguir se a pretensão deduzida diz respeito tão somente aos critérios de reajuste do benefício ou vai mais além, revolvendo discussão acerca do cálculo da RMI.
+No caso concreto, o pedido do segurado consiste na revisão da renda mensal do benefício mediante aplicação de reajustes sobre o valor do salário-de-benefício.
+Quanto ao tema objeto da irresignação, anoto que a Primeira Seção, no julgamento do Recurso Especial n. 1.309.529/PR, de relatoria do em. Ministro Herman Benjamin, processado sob o rito do art. 543-C do CPC, fixou posicionamento sobre a decadência prevista no art. 103 da Lei n. 8.213/1991, considerando aplicável o referido dispositivo aos benefícios concedidos em data anterior à da vigência da Medida Provisória n. 1.523-9/97, de 27/6/1997.
+Eis o que consta da ementa, no que interessa ao deslinde da controvérsia:
+PREVIDENCIÁRIO. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSOS REPRESENTATIVOS DE CONTROVÉRSIA (RESPS 1.309.529/PR e 1.326.114/SC). REVISÃO DO ATO DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO PELO SEGURADO. DECADÊNCIA. DIREITO INTERTEMPORAL. APLICAÇÃO DO ART. 103 DA LEI 8.213/91, COM A REDAÇÃO DADA PELA MP 1.523-9/1997, AOS BENEFÍCIOS CONCEDIDOS ANTES DESTA NORMA. POSSIBILIDADE. TERMO A QUO. PUBLICAÇÃO DA ALTERAÇÃO LEGAL. AGRAVO REGIMENTAL. INDEFERIMENTO DE INTERVENÇÃO COMO AMICUS CURIAE E DE SUSTENTAÇÃO ORAL.
+ ..
+MATÉRIA SUBMETIDA AO REGIME DO ART. 543-C DO CPC
+8. Trata-se de pretensão recursal do INSS com o objetivo de declarar a decadência do direito do recorrido de revisar benefícios previdenciários anteriores ao prazo do art. 103 da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997 (D.O.U 28.6.1997), posteriormente convertida na Lei 9.528/1997, por ter transcorrido o decênio entre a publicação da citada norma e o ajuizamento da ação.
+9. Dispõe a redação supracitada do art. 103: "É de dez anos o prazo de decadência de todo e qualquer direito ou ação do segurado ou beneficiário para a revisão do ato de concessão de benefício, a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo."
+SITUAÇÃO ANÁLOGA ENTENDIMENTO DA CORTE ESPECIAL
+10. Em situação análoga, em que o direito de revisão é da Administração, a Corte Especial estabeleceu que "o prazo previsto na Lei n. 9.784/99 somente poderia ser contado a partir de janeiro de 1999, sob pena de se conceder efeito retroativo à referida Lei" (MS 9.122/DF, Rel. Ministro Gilson Dipp, Corte Especial, DJe 3.3.2008).
+No mesmo sentido: MS 9.092/DF, Rel. Ministro Paulo Gallotti, Corte Especial, DJ 25.9.2006; e MS 9.112/DF, Rel. Ministra Eliana Calmon, Corte Especial, DJ 14.11.2005.
+O OBJETO DO PRAZO DECADENCIAL
+11. O suporte de incidência do prazo decadencial previsto no art. 103 da Lei 8.213/1991 é o direito de revisão dos benefícios, e não o direito ao benefício previdenciário.
+12. O direito ao benefício está incorporado ao patrimônio jurídico, e não é possível que lei posterior imponha sua modificação ou extinção.
+13. Já o direito de revisão do benefício consiste na possibilidade de o segurado alterar a concessão inicial em proveito próprio, o que resulta em direito exercitável de natureza contínua sujeito à alteração de regime jurídico.
+14. Por conseguinte, não viola o direito adquirido e o ato jurídico perfeito a aplicação do regime jurídico da citada norma sobre o exercício, na vigência desta, do direito de revisão das prestações previdenciárias concedidas antes da instituição do prazo decadencial.
+RESOLUÇÃO DA TESE CONTROVERTIDA
+15. Incide o prazo de decadência do art. 103 da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997, convertida na Lei 9.528/1997, no direito de revisão dos benefícios concedidos ou indeferidos anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência (28.6.1997).
+16. No mesmo sentido, a Primeira Seção, alinhando-se à jurisprudência da Corte Especial e revisando a orientação adotada pela Terceira Seção antes da mudança de competência instituída pela Emenda Regimental STJ 14/2011, firmou o entendimento, com relação ao direito de revisão dos benefícios concedidos antes da Medida Provisória 1.523-9/1997, que alterou o caput do art. 103 da Lei de Benefícios, de que "o termo inicial do prazo de decadência do direito ou da ação visando à sua revisão tem como termo inicial a data em que entrou em vigor a norma fixando o referido prazo decenal (28.6.1997)" (RESP 1.303.988/PE, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJ 21.3.2012).
+CASO CONCRETO
+17. Concedido, no caso específico, o benefício antes da Medida Provisória 1.523-9/1997 e havendo decorrido o prazo decadencial decenal entre a publicação dessa norma e o ajuizamento da ação com o intuito de revisão de ato concessório ou indeferitório, deve ser extinto o processo, com resolução de mérito, por força do art. 269, IV, do CPC.
+18. Agravos Regimentais não providos e Recurso Especial provido.
+Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+(RESP 1.309.529/PR, Rel. Min. HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 4/6/2013).
+No mesmo sentido, ainda, dentre outras, as seguintes decisões: REsp 1.423.176/SC, Min. Herman Benjamin, DJe 11/12/2013 e REsp 1.415.129/SP, Min. Mauro Campbell Marques, DJe 24/10/2013.
+Assim, não sendo caso de revisão do ato de concessão, não incide a decadência prevista no caput do art. 103 da Lei de Benefícios.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
