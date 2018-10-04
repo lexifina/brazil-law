@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por UNIMED C. GRANDE COOPERATIVA DE TRABALHO MÉDICO LTDA contra decisão monocrática, da lavra deste signatário (fls. 328/332, e-STJ), que negou provimento ao agravo em recurso especial.
+Nas razões dos aclaratórios (fls. 336/342, e-STJ), opostos com base no art. 1.022, inc. I e II, do CPC/2015, a parte embargante aduz a existência de contradição e obscuridade no decisum embargado, sob os seguintes argumentos: (i) "a matéria está tanto expressamente como implicitamente prequestionada, tendo sido levantada pelo juízo de primeiro grau e mantida de forma expressa no acórdão"; e (ii) "que foi feito o cotejo analítico do caso no agravo negado, inclusive com quadro comparativo, demonstrando que o STJ já definiu que não pode se aplicar a teoria do fato consumado em situações de tutela antecipada, justamente o caso dos autos".
+Não foi apresentada impugnação, conforme Certidão de fls. 343, e-STJ.
+É o relatório.
+Decido.
+Os embargos de declaração não merecem acolhida.
+1. Nos estreitos limites do artigo 1.022 do CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a parte embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação das questões já decididas e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+Com efeito, no que concerne à suposta contradição, cumpre destacar que a contradição que autoriza os embargos declaratórios é a interna, entre as proposições da própria decisão, ou seja, é aquela existente entre a fundamentação e o dispositivo, relatório e fundamentação, dispositivo e ementa ou ainda entre seus tópicos internos.
+Na hipótese em tela, observa-se que a decisão embargada contem fundamentação adequada e suficiente, decidindo que, com relação à apontada violação ao art. 493 do CPC/2015, incide, na espécie, o Enunciado n. 282, da Súmula do STF, ante a ausência do requisito do prequestionamento, porquanto o referido dispositivo não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Confira-se, a propósito, a disposição do art. 493 do CPC/2015:
+Art. 493. Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão.
+Efetivamente, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, o que não ocorreu na hipótese.
+A decisão embargada entendeu, ainda, quanto à suposta contrariedade ao art. 86 do NCPC, que a revisão acerca da sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ.
+Nota-se, assim, que a parte embargante pretende, na verdade, a revisão da decisão embargada, não se verificando, portanto, qualquer vício a justificar o acolhimento dos aclaratórios.
+2. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
