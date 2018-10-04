@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que inadmitiu o recurso especial, por incidência da Súmula n. 7/STJ (e-STJ fls. 319/323).
+O acórdão do TJMT está assim ementado (e-STJ fls. 281/282):
+APELAÇÃO CÍVEL - AÇÃO MONITORIA - EMBARGOS MONITÓROS - CHEQUES PRESCRITOS - AVALISTA ENDOSSANTE - SÓCIOS DA EMPRESA EMITENTE DO CHEQUE - REPRESENTANTES LEGAIS - ILEGITIMIDADE PASSIVA - INEXISTÊNCIA DE ENDOSSO E AVAL - RELAÇÃO CAMBIÁRIA AFASTADA - RECURSO DESPROVIDO.
+A Ação Monitória é o instrumento processual colocado à disposição de credor de quantia certa, com crédito comprovado por documento escrito sem eficácia de título executivo, para que possa requerer em juízo o seu pagamento.
+O cheque prescrito, por exemplo, é documento escrito apto a sustentar uma Monitória, conforme entendimento pacificado do colendo Superior Tribunal de Justiça. Ocorrendo a prescrição, o cheque perde suas características cambiais, quais sejam, cartularidade, literalidade, autonomia, independência e abstração, deixando de existir, também, os institutos tipicamente cambiais, como o aval e o endosso.
+Dessa forma, o portador do cheque que, em razão do tempo, perdeu a força executiva, somente terá ação contra o endossante ou avalista, se demonstrar o seu prejuízo e em contrapartida, o enriquecimento destes, mas, para isso, deverá em primeiro lugar, buscar seus direitos junto ao devedor principal, isto é, o emitente do título.
+Os sócios da empresa somente poderiam responder solidariamente, por dívida assumida pela sociedade quando demonstrado que agiram com abuso de direito ou fraude, e também se esgotados os meios de recebimento da dívida perante a sociedade.
+Não há no verso dos cheques qualquer assinatura, portanto, inexiste a comprovação de que houve endosso. Assim, tão só o fato de figurarem como sócios não indicam a existência de solidariedade pela dívida, pois assinaram como representante da empresa. O endosso deve ser emitido pelo portador do título, o que inexiste no caso.
+A emissão de título autônomo acarreta a responsabilidade da emitente pessoa jurídica pelo pagamento, nos termos da lei 7.357/85, e por conseqüência a ilegitimidade passiva da pessoa física representante da emitente. A Lei n. 7.357/85, que disciplina a relação cambial específica do cheque, não imputa responsabilidade ao mandatário pelo pagamento e sim ao emitente do título.
+Com a prescrição da ação cambiária, tem-se por certo que as garantias perdem sua eficácia, inclusive o aval, de maneira que não mais responde o avalista pela obrigação assumida pelo devedor principal.
+A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, o aval perde sua eficácia quando prescrita a ação cambiária, não mais respondendo o garante pela obrigação assumida pelo devedor principal, salvo se comprovado o locupletamento do avalista.
+Nas razões do recurso especial (e-STJ fls. 297/313), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, violação do art. 485, VI, do CPC/2015, afirmando que os sócios responderiam solidariamente pela dívida dos cheques emitidos pela empresa Mato Grosso Factoring Ltda., exigidos na ação monitória, porque:
+(a) seria fato incontroverso ter celebrado negócio jurídico tanto com a pessoa jurídica como com os sócios da empresa, tendo todos os recorridos auferido vantagem econômica com a obrigação assumida, motivo de serem parte passiva para responder pelo débito (e-STJ fl. 305),
+(b) os recorridos não seriam responsáveis na demanda por mero endosso, mas porque figurariam como beneficiários do negócio jurídico, não tendo negado a existência da dívida ou questionado sua natureza, fato que transcenderia a mera abstração decorrente do título,
+(c) seria desnecessário, na ação monitória, mencionar a causa de pedir que fundamentaria o negócio jurídico em função do qual o título teria sido emitido, mas que teria identificado a origem da relação causal do título, sem qualquer contestação dos avalistas/endossatários do título (e-STJ fl. 308).
+Não foram ofertadas contrarrazões (e-STJ fl. 318).
+No agravo (e-STJ fls. 326/343), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 346).
+É o relatório.
+Decido.
+A Corte local assentou que a tese defendida pelo recorrente na monitória instaurada para cobrança dos cheques emitidos pela sociedade empresária Mato Grosso Factoring Ltda., consistia em alegar a legitimidade passiva dos sócios recorridos, porque supostamente teriam endossado ou avalizado o título, conforme se infere dos excertos a seguir (e-STJ fls. 287 e 289):
+Analisando os autos verifico que a ação monitoria se embasa em cheques prescritos emitidos pela empresa Mato Grosso Factoring Ltda, e que argumenta o apelante terem sido supostamente endossados e/ou avalizados pelos apelados.
+(..)
+Entretanto, pode o credor ajuizar a ação monitória contra os garantidores se comprovar o locupletamento ilícito deles, restando caracterizada, assim, a pertinência subjetiva para o feito.
+Com estes fundamentos, não obstante o argumento expendido pelo apelante de que houve menção a origem da dívida, tem-se que os cheques de fls. 13/15 foram assinados pelos representantes legais da empresa, porém, não na condição de endossantes ou avalistas.
+Em seguida, o TJMT assentou que não houve endosso aposto nos títulos pelos recorridos, por falta de assinatura no verso dos cheques, visto que (e-STJ fls. 289/290):
+Desse modo, incluídos os apelados, no polo passivo pela condição de terem assinado o título como endossantes, e não subsistindo esta tese não há que se falar em legitimidade dos apelados.
+Inicialmente, foram juntadas aos autos apenas cópias dos cheques em questão, não constando das cópias o verso dos títulos, onde supostamente estaria a assinatura do endossante, além do que o endosso é ato do beneficiário do título, pelo qual o mesmo transfere a outrem os direitos emergentes desse título.
+No caso dos autos, o beneficiário do título é o próprio requerente, não fazendo sentido, portanto, a alegação de que um dos sócios da empresa emitente do cheque teria endossado o título.
+Constata-se que não há no verso dos cheques qualquer assinatura, portanto, inexiste a comprovação de que houve endosso. Assim, tão só o fato de figurarem como sócios não indicam a existência de solidariedade pela dívida, pois assinaram como representante da empresa.
+De acordo com o que se observa dos originais dos cheques não há endosso no verso, bem como a assinatura emitida não pode ser considerada endosso já que assinaram como representantes da empresa, de acordo com o que emana do contrato social.
+Cumpre asseverar ainda que, não há como acatar a tese de endosso ou aval, pois com relação ao endosso a lei 7357/85 dispõe:
+"Art. 19 - O endosso deve ser lançado no ", cheque ou na folha de alongamento e assinado pelo endossante, ou seu mandatário com poderes especiais.
+§ 1º O endosso pode não designar o endossatário. Consistindo apenas na assinatura do endossante (endosso em branco), só é válido quando lançado no verso do cheque ou na folha de alongamento ".
+O endosso deve ser emitido pelo portador, no caso, o apelante/autor, não sendo crível a tese de que os apelados figuraram como endossantes no caso.
+Ultrapassar tais fundamentos, para reconhecer a legitimidade passiva dos recorridos na monitória exigindo os cheques emitidos pela empresa Mato Grosso Factoring Ltda., exigiria o reexame do acervo probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula n. 7/STJ.
+O TJMT assentou que, ainda que os recorridos tivessem sido demandados como sócios, apenas poderiam responder solidariamente por dívida assumida pela empresa quando esgotados os meios de recebimento da dívida perante a sociedade e mediante demonstração de que agiram com abuso de direito ou fraude (e-STJ fl. 289).
+Tal fundamento, suficiente para manter o acórdão recorrido, não foi objeto de impugnação pelo recorrente, que se limitou a defender que os recorridos responderiam pela dívida por estar provado que teriam auferido vantagem com o negócio, sem negar a origem ou a natureza da dívida, razão por que a Súmula n. 283/STF aplica-se como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando o recorrente amparado pelos benefícios da gratuidade da justiça (e-STJ fls. 200/201), ressalva-se a aplicação do art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
