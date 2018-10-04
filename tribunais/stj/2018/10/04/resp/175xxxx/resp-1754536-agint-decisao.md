@@ -1,0 +1,39 @@
+DECISÃO
+Vistos,
+Trata-se de Agravo Interno interposto pelo INSTITUTO ESTADUAL DE FLORESTAS contra a decisão que deu provimento ao Recurso Especial, para reconhecer reconhecer que o Recorrente não está isento do pagamento de despesas processuais tão somente no caso de esta serem relativas a serventias não-oficializadas.
+Sustenta o Agravante, haver erro material na conclusão da decisão ora agravada (que pode, inclusive, ser reconhecido de ofício pelo julgador e alegado em qualquer momento, nos termos do art. 494, I do CPC), quando se conclui que o recorrente (Fazenda Pública) "não" está isento do pagamento de despesas processuais tão somente no caso de esta serem relativas a serventias não-oficializadas. O correto, nos termos da fundamentação da decisão e dos precedentes invocados na decisão agravada, seria, portanto, a seguinte conclusão: (..) DOU PROVIMENTO ao Recurso Especial, para reconhecer que o Recorrente está isento do pagamento de despesas processuais tão somente no caso de esta serem relativas a serventias não-oficializadas" (fl. 230e).
+Sem impugnação, consoante certidão à (fl. 227/230e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+Inicialmente, considerando o teor da impugnação, bem assim o princípio da fungibilidade e a observância do prazo previsto no art. 1.023 do Código de Processo Civil de 2015, recebo o recurso como embargos de declaração.
+Verifico, no caso, a necessidade de integralização do julgado, razão pela qual passo a analisar os argumentos do agravo interno.
+O Recorrente aponta erro material na conclusão da decisão em tela, que DEU PROVIMENTO ao Recurso Especial, para reconhecer que o Recorrente não está isento do pagamento de despesas processuais tão somente no caso de esta serem relativas a serventias não-oficializadas (fl. 221e).
+Contudo, das razões recursais, extrai-se que o Recorrente postulou o provimento do recurso especial para ver reconhecido o direito de reformar o acórdão "no sentido de que, no caso, cumpre ao recorrente pagar despesas processuais exclusivamente no caso de serem estas relativas a serventias não-oficializadas" - destaquei (fl. 202e).
+A decisão agravada foi proferida nos seguintes termos (fls. 217/221e):
+Verifico que o acórdão recorrido adotou entendimento contrário à orientação adotada por esta Corte, segundo o qual a Fazenda Pública e suas autarquias não estão sujeitas ao pagamento de custas e emolumentos na execução fiscal, salvo quando tratar-se de pagamento de emolumentos nos procedimentos realizados em serventias não oficializadas, como o demonstram os julgados assim ementados:
+PROCESSO CIVIL - EXECUÇÃO FISCAL - EXTINÇÃO DO PROCESSO - SERVENTIAS NÃO OFICIALIZADAS - CUSTAS JUDICIAIS.
+1. A Fazenda Pública não está sujeita ao pagamento de custas e emolumentos na execução fiscal (art. 39 da Lei 6.830/80). Entretanto, tratando-se de processo em curso em serventia não oficializada é devido o recolhimento das custas pela Fazenda Pública.
+2. As serventias não oficiais são mantidas exclusivamente com as custas regimentais, sem estipêndio dos cofres públicos, sendo um despropósito a manutenção da isenção.
+3. Embargos de divergência conhecidos e desprovidos.
+(EREsp 889.558/PR, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 11/11/2009, DJe 23/11/2009).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVENTIAS NÃO OFICIALIZADAS. CUSTAS JUDICIAIS DEVIDAS. SÚMULA 83/ STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do STJ firmou entendimento que tratando-se de custas referentes à serventia não oficializada, hipótese na qual os serventuários não são remunerados pelos cofres públicos, a Fazenda Pública deve-se sujeitar ao pagamento. Nesse sentido os seguintes precedentes: AgRg no AREsp 403.483/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe 29/11/2013; AgRg no AREsp 368.833/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 09/12/2013; AgRg no AREsp 353.388/SC, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 10/09/2013, DJe 18/09/2013; AgRg no REsp 1180324/PR, Rel. Ministro Luiz Fux, Primeira Turma, DJe 03/08/2010; EREsp 979.784/PR, Rel. Ministro Castro Meira, Primeira Seção, DJe 11/06/2010.
+2. Agravo regimental não provido.
+(AgRg no AREsp 522.531/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/09/2014, DJe 10/09/2014).
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL E TRIBUTÁRIO. DESISTÊNCIA DO PROCESSO DE EXECUÇÃO FISCAL POR CANCELAMENTO DO CRÉDITO TRIBUTÁRIO. REMISSÃO. EXTINÇÃO DE EXECUÇÃO FISCAL. CUSTAS E EMOLUMENTOS. SERVENTIA NÃO-OFICIALIZADA. ART. 26 E 39 DA LEI 6.830/80. NÃO APLICABILIDADE. FAZENDA PÚBLICA ESTADUAL. PAGAMENTO. POSSIBILIDADE. SUMULA 83/STJ.
+1. A ratio legis dos artigos 26 e 39 da Lei nº 6.830/80, pressupõe que a própria Fazenda, sponte sua, tenha dado ensejo à extinção da execução.
+2. In casu, a extinção da execução se deu por pedido da Fazenda Pública Estadual, que apontou o cancelamento do débito exequendo, pela remissão disposta na Lei Estadual Paranaense (n. 15.747/07).
+3. A Fazenda Pública está sujeita ao pagamento das custas referentes à serventia não-oficializada, onde os serventuários não são remunerados pelos cofres públicos. (Precedentes: EREsp 889.558/PR, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 11/11/2009, DJe 23/11/2009; EREsp 891.763/PR, Rel. Ministra DENISE ARRUDA, PRIMEIRA SEÇÃO, julgado em 28/10/2009, DJ 16/11/2009).
+4. Agravo Regimental desprovido.
+(AgRg no REsp 1180324/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 22/06/2010, DJe 03/08/2010);
+PROCESSUAL CIVIL E TRIBUTÁRIO. DESISTÊNCIA DO PROCESSO DE EXECUÇÃO FISCAL POR CANCELAMENTO DO CRÉDITO TRIBUTÁRIO. REMISSÃO. EXTINÇÃO DE EXECUÇÃO FISCAL. CUSTAS E EMOLUMENTOS. SERVENTIA NÃO OFICIALIZADA. ART. 26 E 39 DA LEI 6.830/80. NÃO APLICABILIDADE. FAZENDA PÚBLICA ESTADUAL. PAGAMENTO. OBRIGATORIEDADE.
+1. A ratio legis dos artigos 26 e 39 da Lei nº 6.830/80, pressupõe que a própria Fazenda, sponte sua, tenha dado ensejo à extinção da execução.
+2. In casu, a extinção da execução ocorreu após pedido da Fazenda Pública Estadual, que apontou o cancelamento do débito exeqüendo por remissão, disposta na Lei Estadual Paranaense 14.075/03.
+3. Deveras, tratando-se de serventia não oficializada como no caso sub judice, em que os serventuários não são remunerados pelos cofres públicos, mas sim, seus proventos provém do preparo das custas regimentais, a Fazenda Pública deve-se sujeitar ao pagamento das despesas processuais por ela provocadas, restando inaplicáveis os arts. 26 e 39 da Lei nº 6.830/80. Precedentes: REsp. 1.022.456/PR, DJU 24.04.08; REsp. 978.071/PR, DJU 22.04.2008; REsp. 916.617/PR, DJU 07.05.07; AgRg nos EDcl no REsp. 657.888/PR, DJU de 14.03.2005; REsp. 285.747/PR, DJU 29.04.2002.
+4. Recurso Especial a que se nega provimento.
+(REsp 906.273/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 04/12/2008, DJe 17/12/2008)
+Isto posto, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para reconhecer que o Recorrente não está isento do pagamento de despesas processuais tão somente no caso de esta serem relativas a serventias não-oficializadas.
+
+Reitero que o recurso especial foi provido, com base na orientação desta Corte, para reconhecer o direito do recorrente, nos exatos termos em que pretendido: de que "cumpre ao recorrente pagar despesas processuais exclusivamente no caso de serem estas relativas a serventias não-oficializadas".
+Isto posto acolho o Agravo Interno como Embargos de Declaração, para fins de esclarecimentos, sem atribuir-lhes, contudo, efeitos infringentes.
+Publique-se e intimem-se.
