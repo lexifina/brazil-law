@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, INC. II, DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ARTS. 267, §3º, E 741, INC. III, DO CPC/1973. AUSÊNCIA DE ARGUMENTAÇÃO E DE COMANDO NORMATIVO. SÚMULA 284/STF. ART. 267, INC. VI, DO CPC/1973. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ SOBRE O TEMA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 410):
+EMBARGOS À EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. FALECIMENTO DO EXEQUENTE ANTES DO AJUIZAMENTO DA EXECUÇÃO DE SENTENÇA. HABILITAÇÃO POSTERIOR. CABIMENTO. EXTINÇÃO DO FEITO. DESNECESSIDADE.
+Não há impedimento à habilitação dos sucessores na fase de execução da sentença ainda que o óbito dos autores tenha ocorrido no curso do processo principal.
+Embargos de declaração com provimento negado.
+A recorrente alega violação do art. 535, inc. II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustenta ofensa aos arts. 267, inc. VI, e §3º, e 741, inc. III, do CPC/1973, sob os seguintes argumentos: a) é evidente que uma pessoa já falecida não pode ingressar com ações em juízo; b) se isso ocorrer, o cabível é a extinção desse feito sem o julgamento de seu mérito, a teor do art. 267, inc. VI e § 3º, do CPC/1973; c) se se tratar de um processo executivo (como no caso), cabível, igualmente, a invocação do art. 741, inc. III, do CPC/1973; d) a hipótese é de carência de ação por ilegitimidade da parte que a propôs, sendo descabida a "convalidação" dos atos praticados por posterior habilitação dos sucessores.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 456.
+É o relatório. Passo a decidir.
+De pronto, não se conhece da suposta afronta ao art. 535, inc. II, do CPC/1973, pois a recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Lado outro, não se conhece da suposta afronta aos arts. 267, §3º, e 741, inc. III, do CPC/1973, pois a recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa aos referidos normativos. E ainda, os dispositivos em questão não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Incide à hipótese, por ambos os motivos, a Súmula 284/STF.
+Por fim, com relação ao art. 267, inc. VI, do CPC/1973, a Corte de origem assentou (fls. 408-409):
+"Numa breve retrospectiva dos fatos, verifico que a execução de sentença foi proposta por [NOME] em maio de 2014, momento em que já era falecido, consoante atesta o documento apresentado no Evento 1, INF2 deste feito (falecimento do exequente no ano de 2010). Ainda, também constato que, em sede de execução de sentença, foi requerido, pelos sucessores do exequente, o procedimento de habilitação, nos termos dos art. 1.055 e seguintes do CPC, estando pendente sua análise em virtude deste recurso (Eventos 47 e seguintes do processo de execução).
+Pois bem. O caso cinge-se, então, em verificar se a homologação do pedido de habilitação dos sucessores, realizado somente em procedimento de execução de sentença, quando o exequente já havia falecido no curso da ação principal, afastaria a ilegitimidade ativa suscitada.
+Sobre o tema, tenho que a resposta é afirmativa.
+Isso porque, o procedimento de habilitação convalida todos os atos praticados pelo procurador do falecido, desde que ratificados pelos seus sucessores. Desse modo, homologado o procedimento de habilitação, a irregularidade do polo ativo será sanada, podendo prosseguir o feito executivo.
+Ademais, verifico que o defeito de representação apontado pela União, não acarretou em quaisquer prejuízos às partes, ou foi procedido com má-fé pelos procuradores do exequente"
+Isso registrado, verifica-se que o acórdão recorrido analisou a controvérsia em conformidade com o entendimento desta Corte Superior, onde se tem que "a morte do autor antes do processo de execução autoriza a habilitação dos sucessores, reconhecendo-se, salvo comprovada má-fé, a validade dos atos praticados pelo mandatário" (AgInt no REsp 1670334/MG, Rel. Min.  Mauro Campbell Marques, Data de Publicação em 21/9/2017). Com efeito, veja-se ainda:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. MORTE DA MANDATÁRIA. AUSÊNCIA DE SUSPENSÃO DO PROCESSO. ALEGAÇÃO DE NULIDADE DOS ATOS PRATICADOS PELOS ADVOGADOS APÓS O ÓBITO DA SEGURADA. NÃO-CABIMENTO. INEXISTÊNCIA DE MÁ-FÉ. POSTERIOR HABILITAÇÃO. OUTORGA DE MANDATO, PELOS SUCESSORES, AOS MESMOS PATRONOS DA FALECIDA. CONVALIDAÇÃO. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS E DA SEGURANÇA JURÍDICA. AUSÊNCIA DE PREJUÍZO. PRECEDENTES DO STJ. RECURSO IMPROVIDO.
+1. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que são válidos os atos praticados pelo mandatário após a morte do mandante, notadamente quando ausente má-fé.
+2. A ausência de suspensão do processo, porém com a ulterior confirmação, pelos sucessores, dos atos praticados, nenhum prejuízo trouxe às partes, preencheu a finalidade essencial do processo (CPC, arts. 154 e 249, § 1º) e, sobretudo, observou o princípio da instrumentalidade das formas.
+3. A segurança jurídica não pode e não deve ser prejudicada em virtude de irregularidade desimportante para a justa solução da lide.
+4. Recurso especial improvido.
+(REsp 772.597/RS, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, DJe de 31/8/2009.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
