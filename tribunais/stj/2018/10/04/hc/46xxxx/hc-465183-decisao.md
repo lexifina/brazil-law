@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Pará, que denegou o writ de origem.
+Os impetrantes buscam a revogação da prisão preventiva, sob a alegação de ausência de fundamentos para a segregação cautelar e de excesso de prazo para o encerramento da instrução, ou a aplicação das medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal.
+Sustenta, em síntese, que a paciente não violou as medidas impostas pelo Tribunal de Justiça e que o simples descumprimento de medidas cautelares, por si só, não autoriza a decretação da prisão, caso não estejam presentes os seus requisitos autorizadores.
+Afirma que o Juízo não poderia ter decretado novamente a prisão preventiva da paciente, pois a sua liberdade fora concedida pelo Tribunal de Justiça e que faz jus à liberdade provisória concedida pela Corte local aos corréus, na medida em que se encontra na mesma situação fático-processual.
+Durante o trâmite deste writ sobreveio sentença condenatória em desfavor da paciente (fls. 257/396), fixando pena definitiva de 44 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e pagamento de 1.393 dias-multa pela prática dos delitos dos arts. 158, § 1º, c/c 71, 250, § 1º, I, 288-A, 299 e 317, § 1º, do Código Penal e art. 1º da Lei 9.613/98.
+Quanto aos fundamentos da prisão preventiva, verifica-se que o Tribunal de origem não conheceu da questão, pois o pleito era reiteração de writ impetrado anteriormente naquela instância, sendo inviável, portanto, a apreciação da matéria diretamente nesta Corte Superior, sob pena de indevida supressão de instância.
+Com relação aos prazos consignados na lei processual, verifica-se que foi prolatada sentença condenatória em 19/9/2018, ação penal n. 0016754-71.2017.8.14.0061, o que atrai a aplicação do enunciado da Súmula 52 desta Corte, segundo a qual: encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+No tocante à alegação de que a paciente faz jus à extensão do benefício da liberdade provisória concedida pelo Tribunal de origem aos corréus, ressalte-se que a questão está superada, tendo em vista a superveniência de sentença condenatória, a qual decretou a prisão preventiva dos corréus.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
