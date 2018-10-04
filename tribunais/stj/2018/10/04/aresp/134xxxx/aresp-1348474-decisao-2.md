@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANO MORAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de compensação por danos morais na qual alega estar sofrendo com a poluição e contaminação oriundos da estação de tratamento de esgoto São Jorge, instalada pela agravante.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por COMPANHIA DE SANEAMENTO DO PARANÁ SANEPAR, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de compensação por danos morais, ajuizada por IRONDI ALVES DOS SANTOS, em face da agravante, na qual alega estar sofrendo com a poluição e contaminação oriundos da estação de tratamento de esgoto São Jorge, instalada pela agravante. Pleiteia seja a agravante condenada a compensar danos morais.
+Sentença: julgou improcedente o pedido.
+Acórdão: conheceu e deu provimento ao agravo retido interposto pelo agravado e julgou prejudicada a apelação, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. - AGRAVO RETIDO 1. RECURSO CONTRA DECISÃO DE SANEAMENTO. - METODOLOGIA DA PERÍCIA. AUTONOMIA PROFISSIONAL DO PERITO. IMPOSSIBILIDADE DE INTERFERÊNCIA DO JUÍZO. LIBERDADE DO PERITO PARA VALER-SE DOS MEIOS NECESSÁRIOS AO ESCLARECIMENTO DO OBJETO DA PERÍCIA. - INTERVENÇÃO DO IAP E MINISTÉRIO PÚBLICO. DESNECESSIDADE. PROVA A SER PRODUZIDA PELOS PROFISSIONAIS NOMEADOS PELO JUÍZO. AGENDAMENTO DA PERÍCIA. DIREITO DAS PARTES À INFORMAÇÃO PRÉVIA DOS DIAS E HORÁRIOS DAS DILIGÊNCIAS E EXAMES. - INVERSÃO DO ÔNUS DA PROVA.
+VEROSSIMILHANÇA DOS FATOS ALEGADOS. HIPOSSUFICIÊNCIA TÉCNICA DA PARTE AUTORA. REQUISITOS PRESENTES. - SUSPEIÇÃO DO PERITO. NECESSIDADE DE ARGUIÇÃO MEDIANTE EXCEÇÃO. PROCEDIMENTO NÃO OBSERVADO. NÃO CONHECIMENTO. - AGRAVO RETIDO 2. RECURSO INTERPOSTO CONTRA DECISÃO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO INTERPOSTOS CONTRA A SENTENÇA E NA QUAL NÃO SE ATRIBUI EFEITO INTERRUPTIVO AOS DECLARATÓRIOS. DECISÃO RECORRIDA QUE INTEGRA A SENTENÇA. VIOLAÇÃO AOS PRINCÍPIOS DA UNIRECORRIBILIDADE E DA ADEQUAÇÃO. NÃO CONHECIMENTO. ALEGAÇÃO DE DANO AMBIENTAL. DANO MORAL DECORRENTE DE MAU CHEIRO PROVENIENTE DE ESTAÇÃO DE TRATAMENTO DE ESGOTO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DO DIREITO À PROVA. VIOLAÇÃO DO DEVIDO PROCESSO LEGAL. PROVA PERICIAL NECESSÁRIA PARA A FORMAÇÃO DO CONVENCIMENTO. SENTENÇA CASSADA. RECURSO DE APELAÇÃO PREJUDICADO. AGRAVO RETIDO 1 PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO. - AGRAVO RETIDO 2 NÃO CONHECIDO. - APELAÇÃO PREJUDICADA. (e-STJ Fls. 649/650)
+Embargos de declaração: interpostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 355, 370, 371 e 1.022 do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que o julgamento antecipado da lide não acarretou cerceamento de defesa, de modo que a decisão proferida pelo juízo de origem deveria ter sido mantida pelo TJ/PR.
+Relatado o processo, decide-se.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ocorrência de cerceamento de defesa em virtude do julgamento antecipado da lide (e-STJ fl. 659/660), de maneira que os embargos de declaração opostos pela agravante de fato não comportavam acolhimento.
+No ponto, o aresto recorrido expressamente consignou que "o julgamento antecipado da lide importou em cerceamento do direito de produzir prova e de participação ativa no processo para a formação do convencimento do juiz e violou o artigo 330, do CPC/73, na medida em que há questão de fato que necessita ser submetida à prova pericial, cuja produção já havia sido deferida em decisão de saneamento" (e-STJ Fl. 660).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ocorrência de cerceamento de defesa em razão do julgamento antecipado da lide, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, pois não fixados na origem.
+Publique-se. Intimem-se.
