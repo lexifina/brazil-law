@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e [NOME], com amparo na alínea "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 567, e-STJ):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO INTERLOCUTÓRIA QUE NÃO RECONHECEU A PRESCRIÇÃO INTERCORRENTE - INSURGÊNCIA DO EXECUTADO - PRESCRIÇÃO INTERCORRENTE - INOCORRÊNCIA - AUSÊNCIA DE EFETIVA DESÍDIA DO DEVEDOR - INEXISTÊNCIA DE INTIMAÇÃO DAS PARTES SOBRE A ÚLTIMA DETERMINAÇÃO DO JUÍZO - FALHA DO PODER JUDICIÁRIO QUE NÃO PODE PREJUDICAR A PARTE - IMPOSSIBILIDADE DE RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE - DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+Na origem, trata-se de agravo de instrumento interposto contra decisão que não reconheceu a consumação da prescrição intercorrente arguida pelos recorrentes.
+Nas razões do recurso especial (fls. 584-598, e-STJ), os recorrentes apontam a existência de dissídio jurisprudencial no que diz respeito aos requisitos necessários à caracterização da prescrição intercorrente.
+Contrarrazões (fls. 624-647, e-STJ) e, após decisão de admissão do recurso especial (fls. 649-658, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Às fls. 672-675 (e-STJ) concedeu-se tutela provisória para atribuir efeito suspensivo ao apelo nobre, de modo a sobrestar eventuais atos expropriatórios levados à efeito no procedimento executivo.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. A matéria controvertida neste recurso especial foi objeto de discussão no REsp 1.604.412/SC (DJe 22/8/2018), cuja tramitação neste Superior Tribunal de Justiça obedeceu a regra prevista para julgamento de Incidente de Assunção de Competência - IAC (art. 947 do NCPC), de modo que a Segunda Seção firmou os seguintes entendimentos a respeito da aplicação da prescrição intercorrente durante a vigência da legislação processual anterior:
+1.1) Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2) O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3) O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4) O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.  ..  (REsp 1604412/SC, Rel. Min. Marco Aurélio Bellizze, Segunda Seção, julgado em 27/06/2018, DJe 22/08/2018).
+Na hipótese, verifica-se que o feito permaneceu arquivado por mais de 6 (seis) anos, conforme assentado no aresto estadual, dada a dificuldade em localizar outros bens para a satisfação da dívida, logo após requerimento formulado pela exequente (fl. 457, e-STJ).
+Deste modo, é de se notar que, ao contrário do argumento utilizado pela Corte de origem, a falta de intimação da decisão que determinou o arquivamento é desnecessária para o decurso da prescrição intercorrente, conforme o item 1.2 das teses firmadas no IAC.
+Ainda mais quando o sobrestamento originou-se da acolhida do pleito formulado pela própria exequente, situação que, por consequência lógica, leva a crer que teve conhecimento do deferimento da suspensão, dado o grande lapso temporal de inatividade do procedimento expropriatório garantido por constrição (fl. 573, e-STJ).
+2. Do exposto, com amparo no art. 932 do NCPC e na Súmula 568 do STJ, dou provimento ao recurso especial para desconstituir o acórdão recorrido e a decisão prolatada na origem, determinando o retorno dos autos para a instância de piso para que adote as providências externadas no julgamento do REsp 1604412/SC (IAC).
+Publique-se.
+Intimem-se.
