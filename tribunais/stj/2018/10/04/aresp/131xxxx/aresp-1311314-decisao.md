@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por ASSOCIAÇÃO DE BENEFICÊNCIA E [NOME], em face de acórdão assim ementado (fl. 359):
+OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - HOME CARE - Preliminar arguida em contrarrazões ante a ausência de impugnação específica da sentença, no recurso. Não acolhimento. Contrato anterior a Lei 9.656/98.
+Irrelevância. Contrato de trato sucessivo. Indicação médica do serviço de home care. Negativa indevida. Comprovação ao longo do processo dos valores despendidos com o tratamento da autora falecida. Sentença mantida.
+RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 373/376).
+Nas razões do especial, a ora agravante alega afronta ao art. 535, II, do Código de Processo Civil/1973, por omissão do Tribunal de origem, ao não se pronunciar sobre os limites do reembolso.
+No mérito, argui violação do art. 12, VI, da Lei n. 9.656/98. Afirma que "o v. acórdão, não delimita quais as despesas que deverão ser reembolsadas, quais sejam, aquelas relativas aos procedimentos necessários ao home care, e, devidamente mencionados tanto no relatório médico, quanto em laudo pericial" (fl. 383).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas.
+Ressalte-se que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões proferidas pela origem.
+Esclareça-se, também, que não se traduz em omissão a motivação contrária ao interesse da parte ou que deixe de se pronunciar acerca de pontos considerados irrelevantes.
+Observe-se, ainda, que "A jurisprudência é firme no sentido de que os embargos de declaração, ainda que opostos com o objetivo de prequestionamento visando à interposição de recursos nos Tribunais Superiores, não podem ser acolhidos quando inexistentes omissão, contradição ou obscuridade na decisão recorrida (EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/2/2018, DJe 27/2/2018).
+O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela obrigatoriedade de cobertura, assim se pronunciando (fl. 364):
+Com relação a ausência de comprovação das despesas decorrentes de tratamento particular na qual a autora falecida foi submetida, verifica-se que nos documentos juntados às fls. 247/252, há valores despendidos, no tratamento da autora, com fonoaudiologia e fisioterapia, portanto razão não assiste a apelante, devendo reembolsar os apelados das despesas comprovadamente arcadas por estes no curso do processo.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Do acima transcrito, verifica-se que não há interesse da parte em recorrer (art. 330, III, Código de Processo Civil/2015), tendo em vista a conclusão de que o reembolso será das "despesas comprovadamente arcadas" (fl. 364) pela recorrente.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo e fixo os honorários deste recurso, a serem suportados pela parte recorrente, em 10% (dez por cento) dos honorários advocatícios já arbitrados em favor da parte recorrida, ressaltando que não deve ser aplicada a medida aos casos em que ultrapassados os limites dos §§ 2º e 3º do art. 85 do Código de Processo Civil/2015, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
