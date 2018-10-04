@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE COBRANÇA. FRAUDE À EXECUÇÃO. INEXISTÊNCIA. REEXAME. SÚMULA 7/STJ. TRÂNSITO EM JULGADO ACERCA DA MATÉRIA RELATIVA À HIPOTECA JUDICIÁRIA SOBRE BEM IMÓVEL EM NOME DE TERCEIRO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial apresentado por [NOME] e Tais Bastos e [NOME], com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 1.161):
+AGRAVO DE INSTRUMENTO - Ação Ordinária de Cobrança c/c Indenização por Danos Morais - Sentença de procedência - Interposição de apelação - Decisão que indeferiu constituição de hipoteca judiciária - Inconformismo - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 1.169-1.178).
+Em suas razões recursais (e-STJ, fls. 1.181-1.186), os recorrentes alegaram ofensa aos arts. 466, 592 e 593 do Código de Processo Civil de 1973 e 166, 167, 168, 169 e 245 do Código Civil de 2002.
+Sustentaram, em síntese, a ocorrência de fraude à execução e a possibilidade de proceder à hipoteca judiciária sobre bem imóvel em nome de terceiro.
+Não foram apresentadas contrarrazões (e-STJ, fl. 1.268).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da consonância do acórdão recorrido com a jurisprudência fixada por meio de recurso repetitivo, nos termos do art. 543-C do Código de Processo Civil - em relação à fraude à execução -, e da incidência da Súmula n. 7 do STJ - quanto à possibilidade de proceder à hipoteca judiciária sobre bem imóvel em nome de terceiro (e-STJ, fls. 1.269-1.272).
+Esta relatoria analisou o agravo em recurso especial interposto e proferiu decisão que recebeu a seguinte ementa (e-STJ, fl. 1.346):
+AGRAVO EM RECURSO ESPECIAL. JUÍZO NEGATIVO DE ADMISSIBILIDADE. APELO NOBRE INADMITIDO NA ORIGEM COM FULCRO NA APLICAÇÃO DE RECURSO REPETITIVO. IMPOSSIBILIDADE DE O STJ CONHECER DO AGRAVO EM RECURSO ESPECIAL NA PARTE EM QUE QUESTIONA A APLICAÇÃO DO ART. 543-C, § 7º, I, DO CPC/1973. MATÉRIA QUE DEVERÁ SER DIRIMIDA PELA PRÓPRIA CORTE DE ORIGEM, MEDIANTE RECEBIMENTO DO ARESP, NESSA PARTE, COMO AGRAVO INTERNO. REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO PARCIALMENTE CONHECIDO PARA, NESTA PARTE, NÃO CONHECER DO RECURSO ESPECIAL. DETERMINADA SUA REMESSA À ORIGEM PARA QUE SEJA PROCESSADO COMO AGRAVO INTERNO.
+Em nova decisão de admissibilidade, o Tribunal de origem reconsiderou parcialmente a decisão anteriormente proferida e não admitiu o recurso especial em razão da aplicação da Súmula n. 7/STJ e da ausência de similitude entre paradigmas e acórdão recorrido - no tema referente à fraude à execução (e-STJ, fls. 1.366-1.367).
+Brevemente relatado, decido.
+Preliminarmente, acerca da matéria referente à possibilidade de proceder à hipoteca judiciária sobre bem imóvel em nome de terceiro, verifica-se que já houve pronunciamento sobre o tema no recurso anteriormente analisado (e-STJ, fls. 1.346-1.351), com trânsitado em julgado, conforme certidão à fl. 1.354 (e-STJ), motivo pelo qual não haverá mais pronunciamento sobre o tema nesta decisão.
+No que se refere à ocorrência de fraude à execução, o Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 1.162-1.163):
+(..)
+O recurso não comporta provimento, pois como corretamente decidido na decisão agravada, o imóvel que os agravantes pretendem seja objeto de hipoteca judiciária, nunca pertenceu aos agravados, sendo de propriedade de pessoa que sequer figura como parte no processo.
+Aliás, não prospera a alegação dos agravantes de ocorrência de fraude à execução, visto que não iniciada a fase executória, na medida em que, consoante observado nos autos do Agravo de Instrumento nº 0141434-26.2013.8.26.0000, interposto pelos ora agravados contra os ora agravantes, o recurso de apelação interposto pelos ora agravantes foi recebido no duplo efeito.
+Ora, sem a existência de execução não há que se falar, obviamente, em fraude à execução, pela simples razão de inexistente do meio executório, que é um dos requisitos do instituto em epígrafe, cumprindo acrescentar que na hipótese - que não pode ser descartada, de integral provimento da apelação interposta pelos agravantes, sequer haverá execução em favor dos ora agravados.
+Frise-se, que se nesta fase processual é inadmissível o reconhecimento de fraude à execução, nada impede que no futuro dita fraude seja reconhecida, desde que a sentença apelada seja mantida e presentes os requisitos necessários para configuração da anomalia processual em foco. (Sem grifo no original).
+Dessa maneira, depreende-se que o Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos, cujo reexame é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS DE TERCEIRO. CERCEAMENTO DE DEFESA E FRAUDE À EXECUÇÃO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos probatórios dos autos, afastou as alegações de cerceamento de defesa e de inexistência de fraude à execução. Alterar esse entendimento é inviável em recurso especial, de acordo com a referida súmula.
+3. O conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e realização de cotejo analítico entre elas, nos termos definidos pelo art. e 541, parágrafo único, do CPC/1973.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 995.087/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/3/2018, DJe 2/4/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
