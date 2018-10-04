@@ -1,0 +1,22 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+APELAÇÃO CRIMINAL. INCÊNDIO. ART. 250, § 1º, II, "a" DO CÓDIGO PENAL. RESISTÊNCIA 329 DO CÓDIGO PENAL. AMEAÇA. ART. 147 DO CP. MATERIALIDADE E AUTORIA. CONDENAÇÕES MANTIDAS.
+1. Acervo probatório que demonstra ter o réu provocado incêndio na residência de sua ex companheira, expondo a perigo o patrimônio alheio. A conduta do réu restou adequadamente tipificada no art. 250, § 1º, II, "a" do CP Condenação mantida.
+2. Não houve dúvida que o réu incorreu nas sanções do art. 329 do CP, levando-se em conta o relato fidedigno apresentado pelos policiais que participaram da prisão. Não há por que duvidar da versão apresentada por eles, que, em todas as oportunidades em que foram ouvidos, narraram com verossimilhança a ocorrência dos fatos, não deixando dúvida a respeito da prática do crime. Condenação mantida.
+3. Restou comprovado que o acusado, posto em liberdade no dia anterior ao fato, foi à residência da vítima, na posse de um facão e ameaçou degolá-la. Com tal conduta praticou o delito previsto no art. 147 do CP. Condenação mantida.
+4. O pedido de isenção das custas processuais deve ser dirigido à Execução. No entanto, por disposição do art. 12 da Lei 1.060/50, cabível a suspensão da sua exigibilidade. Precedentes. No caso, no entanto, já tendo sido deferida na origem, inexiste interesse no pedido.
+APELO DEFENSIVO DESPROVIDO. (e-STJ fl. 265)
+Aponta a defesa a violação dos arts. 158, 159 e 386, VII e VIII, do Código de Processo Penal, insurgindo-se, em síntese, contra a condenação do recorrente pelo crime de incêndio "sem ter havido a comprovação por perícia da causa do incêndio, sua extensão e risco de danos, o que não pode ser suprido pela prova oral quando se trata de delito que deixa vestígios" (e-STJ fl. 286).
+Contrarrazões às e-STJ fls. 295/298.
+Parecer do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 274/281.
+É o relatório. Decido.
+A irresignação não prospera.
+Observa-se, inicialmente, que a questão relativa à necessidade de perícia para a configuração do delito não foi objeto de debate pelo acórdão recorrido, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento.
+Acresça-se, ainda, que nem sequer foram opostos embargos de declaração para suprir eventual omissão. Incidência dos enunciados n. 282 e 356 do Supremo Tribunal Federal. Confiram-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO INTERNO QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ENUNCIADO 182 DA SÚMULA DO STJ. ALEGAÇÃO DE BIS IN IDEM. TESE JURÍDICA NÃO PREQUESTIONADA. INCIDÊNCIA DOS ENUNCIADOS 282 E 356 DA SÚMULA DO STF. JUÍZO BIFÁSICO DE ADMISSIBILIDADE. DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO VINCULA O STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. "A ausência de impugnação específica do fundamento autônomo adotado pela decisão que negou seguimento ao agravo em recurso especial atrai a incidência do óbice previsto na Súmula 182 do Superior Tribunal de Justiça". (PET no AREsp 392.046/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 28/02/2014) 2. É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional. Inteligência dos enunciados 282 e 356 da Súmula do STF.
+3. O juízo de admissibilidade do recurso especial é bifásico, de modo que a primeira análise realizada pelo Tribunal de origem não vincula o Superior Tribunal de Justiça, o qual pode chegar à conclusão diversa no momento em que realiza o segundo juízo de admissibilidade. Precedentes.
+4. Agravo regimental parcialmente conhecido e, nessa extensão, não provido. (AgRg no REsp 1624034/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 11/11/2016).
+Ainda que assim não fosse, rever o entendimento externado pelas instâncias ordinárias, acolhendo a tese de atipicidade da conduta, implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
