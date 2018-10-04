@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração no recurso em mandado de segurança oposto contra decisão monocrática de minha relatoria em que neguei provimento ao feito nos seguintes termos:
+" ..
+É o relatório. Decido.
+Com relação à gratuidade de justiça requerida por pessoa física, é assente na jurisprudência desta Corte que a declaração de hipossuficiência, apresentada para fins de concessão da assistência judiciária gratuita, possui presunção juris tantum, podendo o magistrado determinar que o interessado comprove nos autos a impossibilidade de arcar com as despesas processuais e com os honorários de sucumbência. A propósito: AgInt no REsp n. 1.592.645/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/2/2017, DJe 16/2/2017.
+A luz da referida orientação, e na esteira do consignado pelo Tribunal de origem, não se mostra descabida ou desarrazoada, na hipótese em debate, havendo dúvidas a respeito, a determinação do magistrado de primeiro grau acerca da comprovação documental de hipossuficiência, mormente quando os elementos constantes dos autos permitem conclusão diversa da situação econômica do réu. A omissão da Defensoria Pública Estadual no atendimento a ordem judicial, mostra-se fundamento hábil e suficiente para a sua destituição do caso, não havendo, portanto, falar em violação às prerrogativas da Defensoria Pública, e, tampouco, em direito líquido e certo a ser assegurado pela via mandamental eleita.
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se."
+Afirma o embargante que há, na hipótese, omissão e contradição no aludido julgado. Alega que o fundamento utilizado para concluir que a Defensoria "se omitiu no cumprimento de ordem judicial mostrou-se desconexa e não enfrenta o argumento principal que a Defensoria Pública do Estado do Paraná trouxe em seu recurso, de que, havendo atividade defensorial em determinada localidade, será exclusivamente dela a função de atuar em casos nos quais haja interesse de hipossuficiente e/ou se trate de acusado em processo criminal sem defesa técnica."
+Pretende, assim, sejam os presentes embargos de declaração recebidos com efeito infringente a fim de reformar o julgado.
+É o relatório. Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+.
+No caso concreto, ao revés do alegado pela embargante, não há que se falar em omissão, contradição ou erro no julgado.
+Observa-se que a embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+Reafirma-se, por apego ao debate, que ao revés do consignado nas razões recursais, não se mostra descabida ou desarrazoada, tampouco atenta contra as funções jurisdicionais da Defensoria Pública, a decisão de primeiro grau que a afastou do feito, tendo nomeado defensor dativo. Consoante outrora destacado, considerando que o magistrado, havendo dúvidas a respeito, pode e deve determinar a comprovação da hipossuficiência, a partir das peculiariadades do caso concreto, e na esteira do decidido pelo Tribunal de origem, "lamentável a postura da Defensoria que, além de achincalhar com a determinação do magistrado, fez um enfrentamento desrespeitoso à autoridade", ao se omitir no atendimento de ordem judicial. Nesse contexto, não há, no caso em debate, direito líquido e certo a ser assegurado pela via mandamental eleita.
+Destaque-se, ainda, que ""a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios." (EDcl no AgInt na CR 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/12/2017, DJe 9/2/2018)." (EDcl no AgRg no REsp 1.683.591/PI, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 02/04/2018).
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
+Intimações necessárias.
