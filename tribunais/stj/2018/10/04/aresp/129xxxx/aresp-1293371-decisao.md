@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 458/460).
+O acórdão recorrido está assim ementado (e-STJ fl. 392):
+APELAÇÃO CÍVEL  CAUTELAR INOMINADA  PROCEDÊNCIA  DETERMINAÇÃO DE PENHORA DOS PAGAMENTOS 13 DE SACAS DE SOJA, CONFORME CONTRATO DE ARRENDAMENTO RURAL INADIMPLIDO  PROCEDÊNCIA FUNDAMENTADA EM RAZÃO DE PROVIMENTO DO PLEITO NA AÇÃO DE COBRANÇA RELATIVA AO MESMO CONTRATO  PREENCHIMENTO DOS REQUISITOS "FUMUS BONI IURIS" E "PERICULUM IN MORA"  ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DA CONGRUÊNCIA  DESCABIMENTO  SENTENÇA MANTIDA  APELO DESPROVIDO.
+Não se verifica a afronta ao principio da congruência, em razão de utilizar como base os fundamentos anteriormente firmados na Ação de Cobrança, que mantém estreita relação com estes autos (referente a Cautelar Inominada), urna vez que a causa de pedir em ambos os processos diz respeito ao Contrato de Arrendamento Rural inadimplido.
+Deve ser considerado procedente o pedido formulado na Cautelar Inominada que busca a penhora dos pagamentos em sacas de soja, conforme disposto contratualmente, restando preenchidos os requisitos que justificam tal procedência: "fumus boni iuris", este decorrente da existência e validade do contrato que não foi adimplido; c "periculum in mora" este em razão do tempo de inadimplemento e da real possibilidade de frustração do pagamento e quitação do débito.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 425/439).
+Nas razões do recurso especial (e-STJ fls. 442/447), interposto com fundamento no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 319, IV, 324, 330, III, 337, XII, 492 do CPC/2015, 206,§ 3º, I, e 243 do CC/2002. Sustentou, em síntese: (a) ocorrência da prescrição trienal e (b) ausência de pedido certo e determinado, pois a coisa devida não seria dinheiro, mas sacos de soja.
+No agravo (e-STJ fls. 463/471), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 476/483).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade do recurso especial.
+Com efeito, o recurso deve observar o princípio da dialeticidade, ou seja, apresentar as razões pelas quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem (art. 1.010, II e III, do CPC/2015, correspondente ao art. 514, II, do CPC/1973), a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com os motivos expendidos no recurso.
+No caso, o Tribunal de origem, no julgamento da apelação, entendeu que estariam presentes os requisitos para a concessão da medida cautelar, nos seguintes termos (e-STJ fl. 401):
+Enfim, restou sobejamente demonstrada a natureza do contrato como de arrendamento rural e não de parceria e também a inadimplência.
+Assevere-se, com base em todo o conjunto probatório, que o Contrato de Parceria Agrícola firmado em junho de 2001 (fls. 89/92), não possui o condão de desconstituir a dívida existente em razão do contrato de arrendamento, muito pelo contrário, só corrobora com os argumentos lançados pelos Autores/Apelantes/e "Parceiros Outorgantes", de que o Apelado é cada vez mais devedor, em relação aos Apelantes.
+Comungo, ainda, com o que dispôs o Juiz "a quo", em sua sentença, no tocante aos documentos de fls. 103/116, de que eles não tem força probatória de pagamentos efetuados e de quitação dos débitos perseguidos." Portanto, ao contrário do argumento do Apelante, ilógico seria não concluir pela procedência da cautelar, pois os pressupostos que justificam o pedido ("furnus boni iuris" e "periculum in moral foram preenchidos.
+A meu ver estão satisfeitos tais requisitos e perfeitamente fundamentada a sentença, pois diante da existência do Contrato de Arrendamento e de seu inadimplemcnto ao longo de muitos anos, é perfeitamente plausível a penhora dos pagamentos em sacas de soja, em razão do risco de que tais pagamentos não sejam efetuados, afinal, o que se busca com a Cautelar e a integridade do bem disputado pela via judicial, preservando-o, para se evitar a sua dissipação, extravio ou até mesmo inutilidade.
+Com tais argumentos, entendo descabida a alegação de afronta ao princípio da congruência, inclusive porque a causa de pedir destes autos guarda relação com a causa de pedir da Ação de Cobrança (Numeração Única: 2972-13.2012.8.11.0010), que é objeto do Recurso de Apelação Chiei n. 140690/2016, com as mesmas partes inclusive e que está apensa a estes autos).
+Contudo, no especial, o recorrente não impugnou esse fundamento, haja vista que apenas repisa os mesmos fundamentos que foram utilizados no AREsp n. 1.289.956/MT, que tratou do mérito da ação de cobrança, a saber: (1) prescrição e (2) ausência de pedido certo e determinado. Assim, é imperioso reconhecer que trouxe alegações dissociadas do que ficou decidido no acórdão recorrido, incidindo, portanto, as Súmulas n. 283 e 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF. 3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
