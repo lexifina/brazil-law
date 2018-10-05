@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO DESPROVIDO.
+    1. Observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. O Tribunal de Justiça do Estado de São Paulo consignou, em síntese:
+    APELAÇÃO – ATOS ADMINISTRATIVOS – TRANSPORTE PÚBLICO COLETIVO – TARIFA DIFERENCIADA – VALE TRANSPORTE – DECRETO Nº 16.669/15 – MANDADO DE SEGURANÇA PREVENTIVO. Pretensão inicial voltada à declaração de ilegalidade do art. 1º e seus parágrafos do Decreto Municipal nº 16.669/15, sob o fundamento de que a diferenciação do valor da tarifa de transporte público afronta o disposto no art. 5º da Lei Federal nº 7.418/85 possibilidade o Decreto do Município de Santo André nº 16.669/15 alterou o disposto no Decreto nº 16.605/14, estabelecendo que o valor da tarifa de transporte coletivo urbano do Município, a ser utilizado exclusivamente para o cálculo do benefício do vale-transporte para fins da Lei Federal nº 7.418/85, seria de R$4,50, porém, para os demais usuários pagantes seria fixada a tarifa geral de R$ 3,50 inadmissibilidade a própria lei federal previu que o valor do vale transporte deve corresponder ao valor da tarifa vigente - ato normativo emanado pelo Executivo que efetuou distinção entre os usuários pagantes do transporte público e os usuários que se utilizam do benefício do vale transporte instituído pela Lei Federal nº 7.418/85 ilegalidade da tarifa diferenciada violação ao princípio da isonomia precedentes do STJ e do TJ/SP sentença concessiva da ordem de segurança mantida. Recursos, voluntário e oficial, improvidos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    2. Ante o quadro, conheço deste agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 5 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
