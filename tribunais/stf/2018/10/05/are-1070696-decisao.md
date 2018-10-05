@@ -1,0 +1,23 @@
+DECISÃO: O presente agravo foi interposto contra decisão que negou trânsito ao apelo extremo deduzido nestes autos, no qual a parte ora recorrente sustentou que o acórdão proferido pelo E. Tribunal de Justiça do Estado do Rio de Janeiro teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cabe referir, desde logo, que o tema concernente à alegada transgressão ao preceito inscrito no art. 37, § 4º, da Constituição, não se acha devidamente prequestionado.
+    E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    Cumpre ressaltar, de outro lado, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 8.429/92), o que torna incognoscível o apelo extremo.
+    Impende observar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pela parte ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático- -probatórios:
+    “Cumpre salientar que não se pode exigir cognição exauriente do juízo que admite a inicial da ação civil pública, que irá se desdobrar em instrução pormenorizada ao longo da lide. Tanto é que o art. 17, § 8º, da Lei nº 8.429/92 aponta apenas três possibilidades para a rejeição da inicial nesse tipo de ação, quais sejam, a inadequação da via eleita, a improcedência da ação e a inexistência de ato de improbidade, nenhuma demonstrada no caso concreto.
+    …...................................................................................................
+    De igual sorte, andou bem o magistrado de primeiro grau ao rechaçar a preliminar de inépcia da petição inicial, visto que os fatos foram precisamente narrados em extensa e brilhante inicial de 84 laudas, bastando a detida e atenta leitura da peça inaugural para perceber que estão preenchidos os requisitos da petição inicial.
+    …...................................................................................................
+    A justa causa está presente nos autos, já que foram demonstrados provas mínimas para fundamentar a interposição da ação coletiva em questão, conforme explanado acima nos fundamentos relativos a possibilidade de provas, ainda que indiciárias, para receber a inicial, assim como o prestígio ao princípio do ‘in dubio pro societate’, ao qual me reporto.
+    Outrossim, o art. 17, § 6º, da Lei de Improbidade Administrativa, exige indícios suficientes para o ajuizamento da ação para averiguar a prática de ato ímprobo e não provas cabais, já que estas serão produzidas no curso da demanda. Oportuno transcrever o dispositivo legal, que afasta qualquer dúvida acerca da existência de justa causa para o ajuizamento da presente demanda. (…):”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 05 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
