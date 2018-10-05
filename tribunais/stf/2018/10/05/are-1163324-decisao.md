@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO NO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Juizado Especial da Fazenda Pública de Salvador:
+    “RECURSO INOMINADO. JUIZADO ESPECIAL. FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CARREIRA DE AGENTE COMUNITÁRIO DE SAÚDE E COMBATE ÀS ENDEMIAS. SISTEMA REMUNERATÓRIO E BENEFÍCIOS DIFERENCIADOS. INCONSTITUCIONALIDADE PARCIAL DO ARTIGO 15 DA LEI 7.955/2011. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA CARACTERIZADO. AUSÊNCIA DE RAZÕES PARA O DISCRÍMEN PREVISTO NA LEGISLAÇÃO MUNICIPAL. SÚMULA VINCULANTE 88 DO STF. NÃO INCIDÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO” (fl. 263, doc. 1).
+    2. O agravante alega contrariados o art. 2º, o § 1º do art. 39, o § 4º do art. 60 e o § 1º do art. 169 da Constituição da República e sustenta serem indevidos os pagamentos das vantagens pagas à agravada.
+    3. O recurso extraordinário foi inadmitido com fundamento na aplicação da sistemática de repercussão geral (fls. 308-309, doc. 1).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Este agravo não pode ser conhecido por incabível.
+    5. No julgamento da Questão de Ordem no Agravo de Instrumento n. 760.358, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou não caber recurso ou outro instrumento processual para o Supremo Tribunal Federal contra a decisão pela qual se aplica a sistemática da repercussão geral na origem, nos termos do art. 543-B da Lei n. 5.869/1973:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem” (Plenário, DJe 3.12.2009).
+    Confira-se também o seguinte julgado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. Recuperação judicial e falência. 3. Não cabe ao Supremo Tribunal Federal rever decisão que, na origem, aplica o disposto no art. 543-B do CPC. Precedente. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (ARE n. 736.723, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 22.8.2014).
+    Nada há a prover quanto às alegações do agravante.
+    6. Pelo exposto, não conheço do presente recurso extraordinário com agravo (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e determino a majoração da verba honorária, se fixada na instância de origem, em 10%, conforme disposto no § 11 do art. 85 do Código de Processo Civil, nos termos do § 3º do art. 98 do mesmo Código.
+    Publique-se.
+    Brasília, 5 de outubro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
