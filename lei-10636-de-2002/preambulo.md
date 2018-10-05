@@ -1,0 +1,2 @@
+Dispõe sobre a aplicação dos recursos originários da Contribuição de Intervenção no Domínio Econômico - Cide incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível, atendendo o disposto no § 2º do art. 1º da Lei nº 10.336, de 19 de dezembro de 2001, cria o Fundo Nacional de Infra-Estrutura de Transportes - FNIT e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
