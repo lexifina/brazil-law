@@ -1,0 +1,2 @@
+Altera a Lei nº 8.906, de 4 de julho de 1994, que "dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB)", e revoga dispositivo da Lei nº 5.584, de 26 de junho de 1970, que "dispõe sobre normas de Direito Processual do Trabalho, altera dispositivos da Consolidação das Leis do Trabalho, disciplina a concessão e prestação de assistência judiciária na Justiça do Trabalho, e dá outras providências".
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
