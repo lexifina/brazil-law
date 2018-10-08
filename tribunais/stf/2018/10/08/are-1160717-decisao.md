@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO DESPROVIDO.
+    1. Observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Eis os fundamentos da decisão recorrida:
+    A autora aforou ação anulatória de multa que lhe foi aplicada pela FUNDAÇÃO DE PROTEÇÃO E DEFESA DO CONSUMIDOR PROCON/SP, no valor original de R$3.192.300,00 (24/08/2010), conforme fls. 195, derivada do Auto de Infração nº 05454 D7 (fls. 164/165), lavrado em razão de ligações telefônicas de 'telemarketing' realizadas pela requerente para números de linhas telefônicas de consumidores que estavam inscritos no Cadastro para o Bloqueio do Recebimento de Ligações de 'Telemarketing' há mais de trinta dias. Da análise do indigitado AI, infere-se que a autora foi penalizada por infringência ao artigo 5º, da Lei Estadual nº 13.226/2008; artigo 3º, § 1º, do Decreto Estadual nº 53.921/2008; e artigo 39, 'caput', do Código de Defesa do Consumidor. Não logrando obter na esfera administrativa a declaração de insubsistência da sanção imposta, ingressou com a presente ação, objetivando a declaração de nulidade do auto ou a redução do 'quantum' de multa.
+    […]
+    Nessa esteira, nem se avente ausência de atribuição ao PROCON da atividade fiscalizatória e impositiva de penalidades. Faz parte das funções institucionais da FUNDAÇÃO a elaboração e execução da política de proteção e defesa dos consumidores do Estado de São Paulo, desenvolvendo atividades de fiscalização do mercado consumidor para fazer cumprir as determinações da legislação de defesa do consumidor. Nesse sentido, estabelece a Lei Estadual nº 9.192, de 23 de Novembro de 1995, que autorizou o Poder Executivo a instituir a FUNDAÇÃO DE PROTEÇÃO E DEFESA DO CONSUMIDOR PROCON:
+    Artigo 1º - Fica o Poder Executivo autorizado a instituir a Fundação de Proteção e Defesa do Consumidor - Procon, com personalidade jurídica de direito público, vinculada à Secretaria de Estado da Justiça e da Defesa da Cidadania, a qual se regerá por esta lei e por estatutos aprovados por decreto.
+    Artigo 2º - A Fundação terá por objetivo elaborar e executar a política estadual de proteção e defesa do consumidor.
+    Artigo 3º - Para a consecução de seus objetivos, deverá a Fundação: (...)
+    XI - fiscalizar a execução das leis de defesa do consumidor e aplicar as respectivas sanções;”
+    […]
+    Evidente que o PROCON, quando da autuação da recorrente, estava apenas a exercer uma das funções institucionais para as quais fora criado, de modo que, apontando as ilegalidades averiguadas, não estava a exercer atribuição que não lhe pertence. Explicitava, tão somente, o motivo pelo qual vislumbrava não estar a apelante a observar as normas consumeristas incidentes na hipótese, procedimento este necessário para possibilitar o exercício do contraditório pela autuada o que, reitera-se, foi feito na esfera administrativa e judicial.
+    […]
+    No que atine ao alegado excesso no valor da multa fixada, de igual modo, não procede o inconformismo. A apelante assevera que o PROCON não apresentou motivos para enquadrar as práticas abusivas em grau III, afastando-se dos critérios de graduação da multa previstos no artigo 57 do CDC, não podendo impor multa superior a três milhões de reais motivada exclusivamente no faturamento da empresa, sequer apurado.
+    […]
+    Dos documentos que instruem a presente ação, conclui-se que as teses levantadas pela apelante são frágeis e não têm o condão de anular o auto de infração ou diminuir o valor da penalidade. A apelante possui grande porte e presta serviços a milhares de consumidores; as irregularidades cometidas à legislação do consumidor são inafastáveis e restaram suficientemente comprovadas; e o 'quantum' da multa apresenta-se proporcional à gravidade da conduta e em consonância com o arcabouço normativo incidente na espécie, mormente quando considerado o caráter preventivo repressivo da sanção.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    À toda evidência, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 8 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
