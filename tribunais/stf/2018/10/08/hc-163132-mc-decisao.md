@@ -1,0 +1,24 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR –DEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Comarca de Casa Branca/SP, no Plantão Judiciário, no processo nº 0000406-76.2018.8.26.0103, converteu em preventivas as prisões em flagrante dos pacientes, ocorridas no dia 2 de março de 2018, em virtude do suposto cometimento da infração prevista no artigo 157, § 2º, incisos I e II (roubo com causas de aumento de pena alusivas a emprego de arma e concurso de pessoas), do Código Penal, com redação anterior à Lei nº 13.654/2018. Destacou os contornos do delito, praticado no domicílio da vítima e mediante agressões que resultaram em dentes quebrados, clavícula deslocada, cortes profundos na face e lesões na costela. Frisou indispensável a preventiva para garantir a ordem pública e a instrução processual, referindo-se à gravidade do crime, à periculosidade dos agentes e ao risco à integridade física da vítima. Ressaltou a repercussão social do fato e o sentimento de intranquilidade causado à comunidade local.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 447.310/SP, inadmitido pela Quinta Turma.
+    Os impetrantes sustentam a inidoneidade dos fundamentos do ato por meio do qual determinadas as preventivas, dizendo-o lastreado na gravidade abstrata do delito. Aduzem o excesso de prazo das custódias, a perdurarem por mais de 7 meses. Sublinham as condições pessoais favoráveis – primariedade, bons antecedentes, residência fixa, atividade laboral lícita e família constituída. Salientam o caráter excepcional da prisão, afirmando tratar-se de indevida antecipação de pena. Arguem inobservados os requisitos definidos no artigo 312 do Código de Processo Penal, asseverando a possibilidade de imposição de medida cautelar alternativa.
+    Requerem, no campo precário e efêmero, a revogação da custódia. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 8 de outubro último, revelou ter sido indeferido o pedido de liberdade provisória formalizado pela defesa. O Juízo da Vara Única da Comarca de Caconde/SP assentou existentes os motivos ensejadores da preventiva, consignando não configurado o excesso de prazo da prisão ante o fato de encontrar-se a instrução processual próxima ao encerramento.
+    O habeas foi distribuído por prevenção, em razão do vínculo com a impetração de nº 156.872, que versa idênticos pedido e causa de pedir. Nesta última, Vossa Excelência, em 24 de maio de 2018, deixou de acolher o pedido de liminar. O processo está aparelhado para julgamento.
+    A fase é de exame da medida de urgência.
+    2. Quanto à alegação de insubsistência das premissas ensejadoras da preventiva, reporto-me ao que fiz ver por ocasião do indeferimento da medida acauteladora no habeas corpus nº 156.872:
+    [...]
+    2. A prisão em flagrante por crime de roubo, cometido mediante concurso de pessoas e emprego de arma de fogo e violência, causando diversas lesões na vítima, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a constrição se impunha, considerada a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    [...]
+    Ocorre que os pacientes estão presos, sem culpa formada, desde 2 de março de 2018, ou seja, há 7 meses e 6 dias. Surge o excesso de prazo considerada a custódia provisória e o estágio do processo-crime, porquanto ainda não encerrada a instrução. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento mediante o qual implementada, em execução antecipada de sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvarás de soltura a serem cumpridos com as cautelas próprias: caso os pacientes não se encontrem recolhidos por motivo diverso das prisões preventivas formalizadas no processo nº 0000406-76.2018.8.26.0103, da Vara Única da Comarca de Caconde/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do homem médio, integrado à sociedade.
+    4. Ante a vinculação deste habeas corpus com o de nº 156.872, providenciem o apensamento dos processos.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 8 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
