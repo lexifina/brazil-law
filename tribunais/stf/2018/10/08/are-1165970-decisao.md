@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “EMBARGOS À EXECUÇÃO FISCAL. ISSQN. Preliminar de prescrição. Ausência de análise. Embargos de declaração acolhidos para afastar aquela preliminar. Prescrição da Lei nº 9.873/99 que não se aplica ao município, ou ao Processo Judicial - Art. 151-III do CTN - Art. 4º e parágrafos da Lei 6830/80 - Agravo desprovido.” (eDOC 1 – P. 132-133)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, inc. LXXVIII do texto constitucional (eDOC 1, p. 153).
+    Nas razões recursais, alega-se a impossibilidade de duração indefinida do processo administrativo de lançamento do crédito tributário, em observância ao princípio constitucional da razoável duração do processo e da celeridade processual (eDOC 1, p. 150/175).
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei nº 9.873/1999 e Lei nº 5.172/1966), consignou que não se verificou a ocorrência de prescrição de débitos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “De fato, a Lei nº 9.873/99 não se aplica ao caso, visto tratar-se de Lei ordinária e, portanto, descabe sua utilização para disciplinar matéria envolvendo prescrição tributária, mas, acime de tudo, trata-se de Lei federal, que regula o processo administrativo, naquela esfera de poder e por isso, não pode regulamentar o procedimento do município, dada a autonomia desta pessoa política.
+    Ainda, a impugnação administrativa do débito tributário suspende a sua exigibilidade - art. 151-III do CTN - e, pois, o curso prescricional respectivo e, como observou o d. Juízo “a quo”, neste caso só existe prescrição intercorrente, no processo judicial, regulada pelo art. 40 e parágrafos, da Lei 6830/80, sem incidência, na espécie, por ora.
+    Desse modo, a alegação da agravante quanto à cogitada prescrição, só poderia mesmo ser rejeitada.”
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ISS. TV A CABO. PROCESSO ADMINISTRATIVO FISCAL. PRESCRIÇÃO INTERCORRENTE. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. SÚMULAS Nº 282 E Nº 356 DO STF. AGRAVO REGIMENTAL DESPROVIDO. (ARE 721.109 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.11.2016)
+    DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRESCRIÇÃO INTERCORRENTE. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a ocorrência de prescrição intercorrente. 2. Agravo regimental a que se nega provimento.” (ARE 881.865 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 25.09.2015)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. 1. A aferição da prescrição intercorrente na execução cinge-se ao âmbito infraconstitucional. 2. A controvérsia veiculada no presente feito não guarda similitude com o Tema 390 da sistemática da repercussão geral, porquanto no RE-RG 636.562 discute-se a reserva de lei complementar para dispor sobre marco inicial da prescrição de crédito tributário. 3. Agravo regimental a que se nega provimento. (ARE 1.010.305 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 26.05.2017)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 8 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
