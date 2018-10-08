@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROCESSO ADMINISTRATIVO. EXONERAÇÃO POR INAPTIDÃO. INEXISTÊNCIA DE CONTRARIEDADE AO INC. IX DO ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA. ALEGAÇÃO DE INOBSERVÂNCIA DOS INCS. LIV E LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. ALEGADA CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA 636 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Apelação cível - Servidor público municipal - Preliminares afastadas - Exoneração de servidor por inaptidão - Possibilidade - Processo administrativo que respeitou os princípios do contraditório e da ampla defesa, assim como, no que tange à sua motivação, pautou-se nos princípios da razoabilidade e proporcionalidade - Sentença mantida - Recurso improvido” (fl. 70, vol. 2).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O agravante alega contrariados os incs. LIV e LV do art. 5º, o art. 37 e o inc. IX do art. 93 da Constituição da República e sustenta que, no processo administrativo que resultou na exoneração, foram desrespeitados os princípios constitucionais do contraditório e da ampla defesa.
+    3. O recurso extraordinário foi inadmitido pela inexistência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao agravante.
+    5. A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269).
+    6. O Supremo Tribunal Federal assentou que a alegação de contrariedade ao princípio da legalidade, se dependente do exame de legislação infraconstitucional (Decreto municipal n. 4.012/2002 e Lei Complementar municipal n. 50/1996), inviabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Incide na espécie a Súmula 636 do Supremo Tribunal Federal. Assim, por exemplo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO. JUROS DE MORA. PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 679.154-AgR, de minha relatoria, Primeira Turma, DJe 14.6.2012).
+    7. No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral nas alegações de contrariedade aos princípios do devido processo legal, do contraditório e da ampla defesa quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do agravante.
+    8. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e determino a majoração da verba honorária, se fixada na instância de origem, em 10%, conforme disposto no § 11 do art. 85 do Código de Processo Civil, nos termos do § 3º do art. 98 do mesmo Código.
+    Publique-se.
+    Brasília, 8 de outubro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
