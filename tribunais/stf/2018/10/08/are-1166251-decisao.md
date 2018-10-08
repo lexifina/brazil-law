@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Apelação. Ação Civil Pública. Atuação do Ministério Público na defesa de interesse individual. Possibilidade. Fornecimento de vaga hospitalar. Estado de saúde da interessada que, por sua gravidade, justifica seu imediato atendimento, ‘furando a fila’ do SUS. Possibilidade. Multa diária fixada dentro de critérios razoáveis. Sentença mantida. Negado provimento ao recurso ” (eDOC 1, p. 127)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, a, da Constituição Federal, aponta-se violação aos arts. 5º, LIV, LV; 129, III; e 134, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o Ministério Público não deteria legitimidade para a propositura da ação civil pública para tutelar direito individual de idoso. (eDOC 1, p. 140)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.625/1993 e Lei Complementar 734/1993) e o conjunto probatório constante dos autos, consignou a legitimidade ativa do Ministério Público para a presente ação civil pública. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O Ministério Público tem legitimidade para propor ação civil pública em favor de pessoa determinada, quando o direito a ser tutelado seja indisponível, conforme previsão do art. 127 da CF, art. 25, IV, a, da Lei n. 8.625/93 (Lei Orgânica Nacional do Ministério Público), e art. 103 da Lei Complementar n. 734/93, que institui a Lei Orgânica do Ministério Público do Estado de São Paulo”. (eDOC 1, p. 128)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso a Súmulas 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em agravo de instrumento. 2. Responsabilidade civil. Dano moral e material. 3. A Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas (AI-QO-RG 791.292). 4. Legitimidade do Ministério Público para ajuizar ação civil pública. Discussão acerca da natureza do direito tutelado. Índole infraconstitucional. Necessidade de reexaminar o conjunto fático-probatório. Súmula 279. Precedentes. (…)". (AI 831.490-AgR, de minha relatoria, Segunda Turma, DJe 09.10.2015)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO DO TRABALHO PARA AJUIZAR AÇÃO CIVIL PÚBLICA. DIREITO INDIVIDUAL HOMOGÊNEO. NATUREZA DO DIREITO TUTELADO. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. II - Agravo regimental a que se nega provimento". (ARE 689.575-AgR, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 03.02.2014)
+    No tocante à suposta violação à ampla defesa, e ao contraditório, reitero que o Supremo Tribunal Federal já apreciou a questão no ARE-RG 748.371 (Tema 660), de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral da matéria quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista se tratar de ação civil pública na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 8 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
