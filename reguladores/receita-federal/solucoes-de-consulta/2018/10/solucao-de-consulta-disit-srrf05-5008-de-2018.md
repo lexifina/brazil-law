@@ -1,0 +1,15 @@
+Solução de Consulta Disit/SRRF05 nº 5008, de 2 de outubro de 2018
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS. FÉRIAS GOZADAS. TERÇO CONSTITUCIONAL. As férias gozadas integram a base de cálculo para fins de incidência das contribuições sociais previdenciárias do empregador e do empregado, assim como o terço constitucional de férias. SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA N.º 188 - COSIT, DE 27 DE JUNHO DE 2014. EMENTA: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS. AUXÍLIO-DOENÇA PAGO NOS PRIMEIROS 15 (QUINZE) DIAS DE AFASTAMENTO DO EMPREGADO. Integra o conceito de salário de contribuição para fins de incidência das contribuições sociais previdenciárias a importância paga pelo empregador, a título de auxílio-doença, nos primeiros 15 (quinze) dias de afastamento do empregado. SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA N.º 126 - COSIT, DE 28 DE MAIO DE 2014. Dispositivos Legais: Lei n.º 8.212, de 1991, artigos 20, 22, inciso I, 28, inciso I, parágrafo 9º, alíneas “d” e “e”, item 6, e 89; Lei n.º 8.213, de 1991, artigos 59, 60, parágrafo 3º, e 86, parágrafo 2º; Lei n.º 10.522, de 2002, artigo 19; IN RFB n.º 1.717, de 2017, artigos 84 a 87; NOTA PGFN/CRJ/Nº 520/2017. ASSUNTO: NORMAS DE ADMINISTRAÇÃO TRIBUTÁRIA Não produz efeitos a consulta em tese, com referência a fato genérico, ou, ainda, que não identifique o dispositivo da legislação tributária e aduaneira sobre cuja aplicação haja dúvida. Dispositivos Legais: Instrução Normativa RFB Nº 1.396, de 2013, art. 18, inciso II.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS. FÉRIAS GOZADAS. TERÇO CONSTITUCIONAL.
+As férias gozadas integram a base de cálculo para fins de incidência das contribuições sociais previdenciárias do empregador e do empregado, assim como o terço constitucional de férias.
+SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA N.º 188 - COSIT, DE 27 DE JUNHO DE 2014.
+EMENTA: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS. AUXÍLIO-DOENÇA PAGO NOS PRIMEIROS 15 (QUINZE) DIAS DE AFASTAMENTO DO EMPREGADO.
+Integra o conceito de salário de contribuição para fins de incidência das contribuições sociais previdenciárias a importância paga pelo empregador, a título de auxílio-doença, nos primeiros 15 (quinze) dias de afastamento do empregado.
+SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA N.º 126 - COSIT, DE 28 DE MAIO DE 2014.
+Dispositivos Legais: Lei n.º 8.212, de 1991, artigos 20, 22, inciso I, 28, inciso I, parágrafo 9º, alíneas “d” e “e”, item 6, e 89; Lei n.º 8.213, de 1991, artigos 59, 60, parágrafo 3º, e 86, parágrafo 2º; Lei n.º 10.522, de 2002, artigo 19; IN RFB n.º 1.717, de 2017, artigos 84 a 87; NOTA PGFN/CRJ/Nº 520/2017.
+ASSUNTO: NORMAS DE ADMINISTRAÇÃO TRIBUTÁRIA
+Não produz efeitos a consulta em tese, com referência a fato genérico, ou, ainda, que não identifique o dispositivo da legislação tributária e aduaneira sobre cuja aplicação haja dúvida.
+Dispositivos Legais: Instrução Normativa RFB Nº 1.396, de 2013, art. 18, inciso II.
+MILENA REBOUÇAS NERY MONTALVÃO
+Chefe da DISIT 05
