@@ -1,0 +1,25 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 23, Vol. 2):
+    “Na atualização dos salários-de-contribuição para fins de apuração do salário-de-benefício deve ser aplicado o IRSM integral do mês de fevereiro de 1994, da ordem de 39,67%.”
+    Opostos Embargos de Declaração, foram rejeitados.
+     No apelo extremo, com fundamento no art. 102, III, “a” e “d”, da Constituição Federal, a parte recorrente alega ter o acórdão recorrido violado os seguintes dispositivos constitucionais: arts. 5º, XXXVI; 93, IX; e 201.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente. Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta CORTE no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o SUPREMO TRIBUNAL FEDERAL assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    Quanto à alegação de afronta ao art. 5º, XXXVI, da Constituição Federal, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Efetivamente, na presente hipótese, o Juízo de origem, com base na legislação ordinária de regência e no conteúdo fático e probatório constante dos autos, reformou parcialmente a sentença de procedência do pedido ante os seguintes fundamentos, dentre outros (fls. 24, Vol. 2):
+    “Aliás, não é por menos que a Lei no 8.880/94 já estabelecia critérios para a correção dos salários-de-contribuição, bem como a forma de conversão em URV (artigo 21, § 1°).
+    Portanto, não há como negar o pedido do autor no sentido de se aplicar o IRSM integral de fevereiro de 1994 (39,67%) na atualização dos salários-de-contribuição que serviram de base para o cálculo do salário-de-benefício (fis. 15/16).
+    Embora não se possa falar em prescrição ou decadência do direito, pois a lei nova somente abrange os fatos advindos posteriormente à sua vigência, de rigor o reconhecimento da prescrição qüinqüenal prevista no artigo 103 da Lei nº 8.213/91 para cobrança de eventuais diferenças.”
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Decadência. RE nº 626.489/SE-RG. Repercussão geral reconhecida. Inaplicabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional, bem como o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.” (ARE 910.691-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 7/3/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. INÍCIO DA CONTAGEM DO PRAZO DECADENCIAL. SÚMULA/STF 279. HONORÁRIOS NÃO FIXADOS PELA ORIGEM. MAJORAÇÃO DESCABIDA. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – A discussão em torno do início do prazo decadencial para revisão de benefício previdenciário implica rever fatos e provas, o que é inviável ante a incidência da Súmula/STF 279. II – Incabível a majoração de honorários, uma vez que não foram fixados pelo juízo de origem. III – Agravo regimental a que se nega provimento, com prevista no art. 1.021, § 4º, do CPC.” (RE 982.350-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 21/4/2017)
+    Por fim, inadmissível o conhecimento do apelo pelas alínea “d” do inciso III do art. 102, da CF/88, haja vista não se verificar, no caso, a hipótese elencada nesse permissivo constitucional.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 8 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
