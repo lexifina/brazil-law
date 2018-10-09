@@ -1,0 +1,16 @@
+DECISÃO
+JOÃO NICIO NUNES MOREIRA opõe embargos de declaração à decisão de fls. 1.612-1.614, que denegou a ordem de habeas corpus impetrado pela defesa, com o objetivo de anular todo o processo que culminou com a sua condenação prática de roubo circunstanciado.
+Alega o embargante que a decisão foi omissa quanto à impossibilidade de advogado representar o réu sem que haja sido constituído ou nomeado pelo juízo. No particular, afirma que a inexistência de poderes do advogado que atuou na causa acabou prejudicando a defesa do acusado.
+Decido.
+De início, ressalto que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do decisum, objetivam, em essência, a reapreciação do caso.
+Na espécie, extrai-se do decisum embargado as seguintes passagens (fls. 1.613-1.614, grifos no original):
+Em relação à ampla defesa e ao contraditório, verifico que o paciente, assistido por advogado regularmente constituído, embora afirme o contrário neste habeas corpus, ofereceu defesa preliminar (fls. 564-565), pleiteou a revogação da preventiva (fls. 587-590), oportunidade em que juntou diversos documentos pessoais seus, participou das audiências de instrução e julgamento (fls. 749, 791-793), apresentou alegações finais (fls. 866-873) e, ainda, interpôs recurso de apelação (fls. 1.451-1.464). Isso tudo demonstra a participação ativa da defesa.
+Nesse particular, extrai-se do acórdão impugnado a seguinte passagem (fl. 204):
+ ..
+Além disso, vale salientar que o advogado, que segundo o réu não tinha poderes para representá-lo, apresentou resposta à acusação (fls. 303/304), posteriormente peticionou requerendo a revogação da prisão preventiva do acusado (fls. 328/331), participou de 03 (três) audiências como advogado do acusado [NOME] (fls. 396/397, 535/540, 356/565) apresentou alegações finais (fls. 610/618), apelou e apresentou as razões do recurso (fls. 691 e 721/733). Além disso, o pedido de revogação de prisão preventiva subscrito pelo mencionado causídico foi apreciado pelo Juiz, fl. 392/393. Fls. 67/68).
+Ademais, o argumento de que o advogado que atuou na defesa do paciente, perante as instâncias ordinárias, não teria procuração, é inconsistente, seja porque não encontra respaldo nos autos se confrontada com a ativa atuação defensiva que, inclusive, juntou ao processo documentos pessoais do réu, seja porque se trata de alegação que nem sequer foi suscitada em grau de apelação.
+ ..
+De fato, como ressaltou o Parquet "no processo penal, é imprescindível a demonstração de prejuízo para a decretação de nulidade" (HC n. 394.719/SP, Rel. p/ acórdão Ministro Rogerio Schietti, DJe 27/10/2017).
+Como se observa, não houve omissão na decisão embargada que, no ponto suscitado pelo embargante, apenas rechaçou a pretensão deduzida no habeas corpus, sobretudo em razão de que a alegação do embargante, destituída de embasamento nos autos, não indicou a ocorrência de prejuízo à ampla defesa, a qual, repita-se, foi observada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
