@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 463/464, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O entendimento de que os embargos de declaração intempestivos não interrompem o prazo para recurso - aliado a todas os dispositivos legais concernentes a eles (já mencionados), bem como a total ausência de celeridade dos tribunais brasileiros, exigindo dos julgadores e dos órgãos judicantes maior celeridade - afeta diretamente o direito ao devido processo legal, bem como o direito de petição, uma vez que tira do jurisdicionado o direito ao recurso, antes da resposta (fl. 467).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/03/2016, já sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n.º 3 do STJ, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso. Precedentes: ARE 813.750 AgR, Relatora Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 28/10/2016, publicado em 22/11/2016; ARE 823.947 ED, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 15/12/2015, publicado em 19/2/2016; ARE 819.651 ED, Relator Min. LUIZ FUX, Primeira Turma, julgado em 9/9/2014, publicado em 10/10/2014.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
