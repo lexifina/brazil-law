@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL EM AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE TUTELA ANTECIPADA EM FACE DA AUSÊNCIA DOS REQUISITOS AUTORIZADORES. PRETENSÃO DE EXAME DE MÉRITO DA DEMANDA. IMPOSSIBILIDADE. SÚMULA 735/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 154):
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. RENDA. CRITÉRIO ECONÔMICO OBJETIVO. FLEXIBILIZAÇÃO. IMPOSSIBILIDADE.
+1. A análise da renda do segurado recluso é feita tomando por base seu último salário-de-contribuição. Este deve ser confrontado com a portaria vigente na data da reclusão, verificando-se assim se pode ser enquadrado no conceito de baixa renda.
+2. Considerando que a renda do segurado recluso era superior ao limite estipulado pela Portaria vigente na época, a parte autora não faz jus ao benefício.
+3. Não há espaço para flexibilização do critério fixado objetivamente na norma para definição do conceito de baixa renda.
+O recorrente aduz divergência jurisprudencial em relação à interpretação dada ao art. 80 da Lei n. 8.213/1991, tendo em vista que tal dispositivo garante a possibilidade de flexibilização do critério econômico de baixa renda para a concessão do auxílio-reclusão às dependentes menores.
+Por fim, requer o provimento do presente recurso especial, para que seja anulando o acórdão recorrido para que outro seja proferido observando a flexibilização do critério econômico objetivo previsto na Portaria MPS/MF n. 01/2016 (fl. 183).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 203-204.
+Às fls. 227-230, o recorrente atravessa petição requerendo a concessão da tutela de urgência, para fins de determinar que a Autarquia recorrida implante o benefício de auxílio-reclusão.
+É o relatório. Passo a decidir.
+No caso, observa-se que o presente recurso especial foi interposto contra acórdão proferido em agravo de instrumento que, por sua vez, atacou decisão que indeferiu a tutela antecipada pleiteada pelo autor, em razão da ausência dos requisitos autorizadores da medida antecipatória.
+Ocorre que, consoante maciça jurisprudência do STJ, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida antecipatória ou liminar, em razão da sua natureza precária, estando sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+Dessa forma, configura-se a ausência do esgotamento das instâncias ordinárias, imprescindível ao trânsito da insurgência extraordinária, o que atrai a aplicação analógica da Súmula 735/STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Nesse sentido, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. ANTECIPAÇÃO DE TUTELA. REQUISITOS. SÚMULA N. 7 DO STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+I -  ..
+II - A jurisprudência desta Corte firmou-se no sentido de que, para análise dos critérios adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é necessário o reexame dos elementos probatórios, o que não é possível em recurso especial, dado o óbice da Súmula 7 desta Corte. Precedentes: AgRg no AREsp 597.247/RJ, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 11/11/2014, DJe 21/11/2014; AgRg no REsp 1.352.935/ES, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 7/8/2014, DJe 25/9/2014; e, AgRg no AREsp 406.477/MA, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 11/3/2014, DJe 27/3/2014.
+III - Ainda, de acordo com a jurisprudência do STJ, não se " ..  admite a interposição de Recurso Especial com objetivo de discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado 735 da Súmula do STF." (REsp 1655010/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/03/2017, DJe 02/05/2017).
+IV - Agravo interno improvido. (AgInt no AREsp 968.546/GO, Rel. Min. Francisco Falcão, Segunda Turma, DJe 26/6/2017 - destacamos).
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. NECESSIDADE DE ANÁLISE DA LEI COMPLEMENTAR MUNICIPAL N. 2.157/2007. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. PROSSEGUIMENTO DA ANÁLISE DA ADMISSIBILIDADE. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERE OU INDEFERE MEDIDA LIMINAR OU ANTECIPAÇÃO DOS EFEITOS DA TUTELA. NÃO CABIMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 735/STF. ANÁLISE DO FUMUS BONI IURIS QUE DEMANDA DILAÇÃO PROBATÓRIA. SÚMULA N. 07/STJ. INCIDÊNCIA.
+I -  ..
+II -  ..
+III - Não cabe recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão. Incidência, por analogia, da Súmula n. 735/STF.
+IV - In casu, rever o entendimento do tribunal de origem, no sentido de que a análise do fumus boni iuris demandaria dilação probatória, impõe o revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+V - Recurso especial não conhecido. (REsp 1.588.337/SP, Rel. Min. Benedito Gonçalves, Rel. p/ Acórdão Min. Regina Helena Costa, Primeira Turma, DJe 3/3/2017 - destacamos).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+VI. Consoante reiterada jurisprudência desta Corte, não é cabível Recurso Especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação dos efeitos da tutela, é tratada, pelo Tribunal de origem, apenas sob juízo precário de mera verossimilhança, porquanto, em relação a "tal matéria, somente haverá causa decidida em única ou última instância com o julgamento definitivo, atraindo, analogicamente, o enunciado da súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar"" (STJ, REsp 765.375/MA, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJU de 08/05/2006).
+VII. Agravo interno improvido. (AgInt no AREsp 698.557/BA, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 27/09/2016 - destacamos)
+PROCESSUAL CIVIL. TUTELA ANTECIPADA. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+ ..
+3. A jurisprudência do STJ não admite a interposição de Recurso Especial com objetivo de discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado 735 da Súmula do STF.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.655.010/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 02/05/2017)
+Ainda, importante ressaltar que somente uma violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. (AgInt no REsp 1.179.223/RJ, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 15/3/2017).
+Prejudicado o pedido de tutela de urgência de fls. 227-230.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
