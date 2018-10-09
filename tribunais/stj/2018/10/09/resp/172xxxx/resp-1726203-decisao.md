@@ -1,0 +1,46 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. LIQUIDAÇÃO. OBSERVÂNCIA DO QUANTO DECIDIDO NOS EMBARGOS DO DEVEDOR. AUSÊNCIA DE PREQUESTIONAMENTO ACERCA DO CERCEAMENTO E O ART. 398 DO CPC/73. RECONHECIMENTO DA INEXISTÊNCIA DE PRECLUSÃO ACERCA DOS VALORES OBJETO DA EXECUÇÃO. ATRAÇÃO DO ENUNCIADO 7/STJ. INAPLICABILIDADE DO PREQUESTIONAMENTO FICTO SEM A DEVIDA ALEGAÇÃO E DEMONSTRAÇÃO DA VIOLAÇÃO AO ART. 1.022 DO CPC. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por ARTES GRÁFICAS FORMATO LTDA., com fundamento na alínea "a" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal de Justiça do Estado de Minas Gerais, prolatado em sede de agravo de instrumento aviado no curso de ação de cumprimento de sentença formulado pela recorrente contra FINANCEIRA ALFA S/ CRÉDITO FINANCIAMENTO E INVESTIMENTOS, cuja ementa está assim redigida:
+AGRAVO DE INSTRUMENTO - INÉPCIA RECURSAL - AUSÊNCIA - COMPATIBILIDADE ENTRE FUNDAMENTOS E PEDIDOS - DECISÃO INTERLOCUTÓRIA - FUNDAMENTAÇÃO CONCISA - AUSÊNCIA DE NULIDADE - PRESCINDIBILIDADE DE APRECIAÇÃO DE TODAS AS TESES LEVANTADAS PELAS PARTES - COISA JULGADA - IMUTABILIDADE - EXECUÇÃO - FIDELIDADE AO TÍTULO - CONTROLE DE OFÍCIO PELO JUIZ.
+Ausente configuração de inépcia da peça recursal na hipótese em que os fundamentos apresentados são congruentes com os pedidos formulados no recurso. Inexiste nulidade em decisão interlocutória motivada de forma sucinta, com a apresentação das razões que formaram o convencimento do juiz. Não consiste em requisito de validade do ato judicial a apreciação de todas as teses levantadas pelas partes, sendo suficiente para tal desiderato a devida apresentação pelo magistrado das razões que formaram seu convencimento. Verificada a formação de coisa julgada material, deve ser preservada a imutabilidade da matéria por ela acobertada, devendo a execução ser promovida em estrita fidelidade ao título formado, controle este suscetível de realização de ofício pelo juiz.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, sustentou: a) a ausência de contraditório no que toca ao pedido da parte contrária de anulação parcial do processo (a afronta ao art. 398 do CPC/73); b) confissão ficta da recorrida, preclusão e coisa julgada (arts. 183 e 503 do CPC/73 e art. 1.034 do CPC); c) a autoridade da decisão do Al 1.024.92.866.852-4/006 que ordenou a expedição de alvará de levantamento em favor da exequente, sem prestação de caução. Pediu o provimento do recurso.
+Houve contrarrazões.
+O recurso não foi admitido na origem.
+Interposto agravo em recurso especial, a ele dei provimento, determinando a sua conversão.
+É o relatório.
+Passo a decidir.
+Analisando mais profundamente o acórdão recorrido e o presente recurso, tenho que ele não merece conhecimento.
+Inicialmente, no tocante à pretensão de que, conhecido o recurso, examinem-se todas as questões alegadas, mesmo que não enfrentadas no acórdão, é imperioso que, de pronto, seja rechaçada.
+Esta Corte Superior tem a sua competência ditada pela Constituição Federal e o art. 105 da CF já fora um sem número de vezes interpretado no sentido de que apenas o direito será objeto de análise e não os fatos que não estejam cristalizados no acórdão recorrido.
+Nessa conjuntura, não serão analisadas questões a dependerem da análise das provas, mas, apenas, aquelas que se esgotem na aplicação e interpretação da lei federal e que, assim, não exijam desta Corte Superior diligência que nunca lhe pertiniu.
+O art. 1.025 do CPC vigente, por outro lado, não tem o alcance pretendido pelo recorrente. O prequestionamento ficto apenas poderá ser reconhecido quando a questão não analisada pela instância de origem não necessite de revisão do contexto fático probatório e, ainda, quando se demonstre, devidamente, a existência de algum dos vícios do art. 1.022 do CPC, alegando-se, assim, no recurso especial a sua violação.
+Na espécie, não houve a alegação da violação ao art. 1.022 do CPC, limitando-se o recurso a dizer da aplicação do art. 1.025 do CPC. A propósito (fl. 893 e-STJ):
+5.3. Esclareça-se que, nos termos do artigo 1.025 do Novo CPC a matéria debatida neste recurso está prequestionada. E ainda que, nos termos do parágrafo único do artigo 1034 do Novo CPC, todas as questões debatidas nos autos deverão ser devolvidas a este E. STJ. Com isto, a exequente espera e confia que as decisões proferidas pelo [NOME] e por este E. STJ sejam restabelecidas. Ou seja, que a decisão, transitada em julgado, que indeferiu a impugnação da Financeira seja respeitada, e a decisão que ordenou a expedição de alvará em favor da exequente, sem prestação de caução, seja cumprida;
+Feito este registro, passo ao exame do cerne do recurso especial, que devolve a esta Corte as seguintes questões: a) cerceamento de defesa; b) confissão e preclusão; c) julgamento de anterior Agravo de Instrumento acerca do levantamento de valores sem a prestação de caução.
+Tenho por incidente o enunciado 7/STJ em relação a todas estas questões.
+O acórdão recorrido fora categórico em reconhecer que a decisão prolatada anteriormente limitara-se a dizer da necessidade ou não de caução para o levantamento de valores.
+Evidencio (fl. 860 e-STJ):
+A pretensão recursal visa a anulação da decisão impugnada, ao argumento de que violada decisão do tribunal e que preclusa a discussão da matéria decidida.
+No que se refere à alegada violação de acórdão prolatado por este tribunal, com a devida venha, não se evidencia tal vício na espécie.
+É que, ao contrário do que afirmado pela agravante, no julgamento do agravo nº 1.0024.92.866852-4/006 restou decidida apenas a questão acerca da possibilidade ou não de levantamento da quantia depositada em juízo sem a prestação de caução idônea, com fundamento na perquirição da natureza provisória ou não da execução.
+Em nenhum momento se procedeu ao exame do valor da execução, como bem ressaltado pelo juízo a quo, de modo que não há que se cogitar em violação do acórdão proferido pelo tribunal.
+No tocante ao alegado cerceamento de defesa, não houve linha sequer nesse sentido no acórdão recorrido, não se tendo, pois, por perfectibilizado o devido prequestionamento, razão da incidência do enunciado 211/STJ, pois apesar de opostos embargos de declaração, não se postulou a desconstituição do acórdão que julgou os aclaratórios por infração ao art. 1.022 do CPC.
+Por fim, não houve, ainda, o reconhecimento da existência da alegada confissão por parte do executado.
+Na verdade, a parte mesma reconhece que haveria discussão acerca do quantum debeatur, expressão da oposição de embargos à execução e, ainda, razão da decisão prolatada pelo juízo de primeiro grau a reconhecer que os cálculos se divorciavam do quanto decidido em sede de embargos do devedor.
+A propósito, deixou registrado o acórdão o teor da decisão agravada:
+Pelo exposto, anulo o feito desde o pedido de cumprimento de sentença de f. 323-333, determinando que exequente providencie novo cálculo de seu suposto crédito, que deverá seguir o determinado na sentença proferida nos embargos à execução de número 0024.95.036251-7, com as modificações determinadas nos respectivos acórdãos proferidos pelo juízo de segundo grau e STJ .. (f. 65- TJ).
+E, analisando a regularidade dessa decisão, assomou o aresto (fls. 861-63 e-STJ):
+O feito se encontra em fase de execução, devendo ser observado os termos da coisa julgada material formada, sob pena de violação ao art. 467 do CPC, delimitação esta a ser procedida de ofício pelo juiz.
+(..)
+Portanto, como consiste em dever do juiz resguardar a integridade da coisa julgada, não há que se falar em preclusão.
+No caso vertente, como bem ressaltado pelo juizo a quo, a própria agravante em sua petição de requerimento de cumprimento de sentença relativo ao saldo remanescente (ff. 87/90-TJ), reconheceu a alteração dos parâmetros judiciais de cálculo estabelecidos no julgamento dos embargos do devedor, concernentes ao termo inicial dos juros de mora e dos honorários de sucumbência.
+Todavia, a agravante procedeu à adequação apenas do montante relativo aos honorários, tendo mantido o valor referente o saldo devedor a despeito da modificação do termo inicial de incidência dos juros de mora, passando estes à data da citação por força do julgamento dos embargos do devedor, ao argumento de coerente com o laudo pericial.
+Assim, constata-se uma aparente violação à fidelidade do título formado, questão esta que depende de análise do referido laudo pericial como bem afirmado no juízo de origem, de modo que as diligências impostas na decisão recorrida mostram-se necessárias ao deslinde desta controvérsia.
+Sendo os atos processuais praticados após o requerimento de cumprimento de sentença do saldo remanescente incompatíveis com as diligências acima mencionadas, forçoso concluir-se pela sua invalidade, tal como decidido no juízo de origem, sendo o eventual valor discrepante do título apurado apenas mediante o implemento das medidas determinadas na decisão recorrida.
+Não é outro, assim, o destino do presente recurso especial do que a inadmissão.
+Ante o exposto, não conheço do recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
