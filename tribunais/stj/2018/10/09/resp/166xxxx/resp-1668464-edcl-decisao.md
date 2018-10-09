@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 1.144):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. INASSIDUIDADE. CUMULAÇÃO DE CARGO PÚBLICO COM DIREÇÃO EXECUTIVA DE EMPRESA PRIVADA. VIOLAÇÃO DOS ARTIGOS 489, § 1º, IV E VI, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. APLICAÇÃO DA PENALIDADE DE DEMISSÃO. ACÓRDÃO A QUO FUNDADO NOS FATOS DA CAUSA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PROPORCIONALIDADE E RAZOABILIDADE DA SANÇÃO APLICADA. AUSÊNCIA DE DISCRICIONARIEDADE. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO PROVIDO.
+O embargante alega que referido decisum padece de omissão, pois não externou as razões pelas quais não considerou comprovado o dissídio jurisprudencial. Afirma que o cotejo não se limitou à mera reprodução do acórdão paradigma, haja vista que em dois tópicos distintos, realizou o exame de similitude entre os acórdãos confrontados.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A embargante, nos presentes aclaratórios, amparando-se nas disposições dos artigos 489, § 1º, II e III, e 1.022, II, parágrafo único, II, do CPC/2015, afirma que a decisão embargada não externou as razões pelas quais não considerou comprovado o dissídio jurisprudencial.
+Razão, contudo, não lhe assiste.
+Com efeito, a decisão embargada registrou, expressamente, que o dissídio jurisprudencial não foi demonstrado, nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que o recorrente, ora embargante, não logrou êxito em realizar o devido cotejo analítico, identificando os trechos que assemelhassem os casos confrontados.
+De toda sorte, verifica-se que o dissídio jurisprudencial apontado pelo recorrente tem por objeto "a aplicação e alcance da vedação contida no art. 117, X, da Lei nº 8.112/90" (fl. 1.090) e, ao apreciar a alegada afronta a referido dispositivo legal, a decisão embargada entendeu que para infirmar as conclusões das instâncias ordinárias seria necessário o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
