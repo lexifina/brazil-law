@@ -1,0 +1,39 @@
+DECISÃO
+Relatório
+Trata-se de recurso ordinário em mandado de segurança interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 122):
+MANDADO DE SEGURANÇA - SERVIDORA PÚBLICA ESTADUAL INATIVA - REVISÃO DE APOSENTADORIA - PRETENSÃO DE INCORPORAÇÃO DA GRATIFICAÇÃO PELA PRESTAÇÃO DE SERVIÇO EXTRAORDINÁRIO AOS PROVENTOS RELATIVOS À APOSENTADORIA - PEDIDO DE REVISÃO DECORRENTE DE ATO ADMINISTRATIVO ÚNICO, COM EFEITOS PERMANENTES, QUE NÃO CARACTERIZA TRATO SUCESSIVO - PRESCRIÇÃO DO FUNDO DE DIREITO - DECURSO DE MAIS DE 5 ANOS DO ATO DE APOSENTAÇÃO NOS TERMOS DO ARTIGO 1º DO DECRETO Nº 20.910/32 - PRECEDENTES DO STJ E DESTE TRIBUNAL - EXTINÇÃO DA AÇÃO MANDAMENTAL, COM RESOLUÇÃO DO MÉRITO - ARTIGO 269, INCISO IV, DO CPC.
+Sustenta a recorrente, em preliminar, a nulidade do acórdão recorrido, uma vez que, nada obstante disponha o art. 70, V, c/c o art. 87, V, b, do Regimento Interno do Tribunal de origem que o subjacente mandado de segurança fosse julgado por todos os integrantes da Sexta Câmara Cível daquela Corte, foi ele julgado " apenas pelo relator e outros dois vogais, inviabilizando a discussão e pronunciamento por todos os demais que poderiam interferir até mesmo na conclusão" (fl. 135), desconformidade esta que resta evidenciada, ainda, pelo fato de que "não foi ouvido o Desembargador Prestes Mattar" (fl. 136).
+No mérito, alega que não há falar em prescrição do próprio fundo de direito, uma vez que (fls. 136/137):
+ ..  não pretende alterar sua condição de aposentada, mas perceber uma contraprestação pecuniária incorporável aos seus proventos de aposentadoria, pois preenchidos os requisitos exigidos pela lei instituidora dessa vantagem, ainda enquanto vigente.
+A relação jurídica fundamental é a aposentadoria, que restará intacta mesmo com a procedência do pedido, pois ela representa o vínculo com a Administração Pública pela satisfação dos requisitos específicos para a inatividade.
+O direto não pereceu pelo simples fato de não tê-lo exercido até os derradeiros dias de 1986, quando completaria cinco anos como aposentada.
+Seu direito estava adquirido e nada lhe obrigava a exercê-lo, de modo que o caso não se resolve à luz do Decreto 20.910/1932.
+A omissão do Secretário de Estado da Administração e da Previdência do Estado do Paraná é que impediu seu gozo, permitindo que reclamasse, como de fato reclamou, pedindo fosse garantido judicialmente seu direito à vantagem.
+Sequer a omissão administrativa deflagrou o prazo prescricional, pois não presenta uma recusa ao direito material reclamado.
+Por fim, requer o provimento do recurso ordinário.
+O recurso foi admitido pelo Tribunal de origem (fl. 146).
+O Estado do Paraná apresentou contrarrazões (fls. 149/155), pugnando pelo não provimento do recurso ordinário, uma vez que: (a) a questão acerca do quórum para julgamento do writ restou preclusa, porquanto não suscitada oportunamente; (b) houve a prescrição do fundo de direito pleiteado pela recorrente.
+A Paranáprevidência também apresentou contrarrazões, pugnando pelo não conhecimento do recurso ordinário, uma vez que o acórdão recorrido não denegou a segurança, na forma do art. 105, II, b, da CF/88, mas, sim extinguiu a segurança em face do acolhimento da prejudicial de prescrição do fundo de direito, ou, alternativamente, pelo seu não provimento, mantendo-se o acórdão recorrido por seus próprios fundamentos.
+O Ministério Público Federal, em parecer da Subprocuradora-Geral da República [NOME], opinou pelo não provimento do recurso ordinário, nos termos da ementa que se segue (fl. 172):
+ADMINISTRATIVO. SERVIDORA PÚBLICA ESTADUAL INATIVA. REVISÃO DE APOSENTADORIA. PRAZO PRESCRICIONAL. TERMO A QUO. DATA DO ATO DE APOSENTADORIA. RESOLUÇÃO/SERH Nº 10.942, DE 03/12/81. PEDIDO FORMULADO APÓS O PRAZO DE 05 ANOS. PRESCRIÇÃO DO FUNDO DE DIREITO CONFIGURADA. PRECEDENTES. PELO NÃO PROVIMENTO DO RECURSO ORDINÁRIO.
+É o relatório.
+Decisão
+De início, afasta-se a preliminar de não conhecimento suscitada pela Paranaprevidência, haja vista que contra acórdão, que extingue a ação mandamental, em face do acolhimento da prejudicial de prescrição do fundo de direito, é cabível o recurso ordinário em mandado de segurança.
+Assim, passo ao exame do recurso ordinário.
+No que concerne à tese de nulidade do acórdão recorrido, não procede o inconformismo da parte recorrente.
+Da leitura do acórdão recorrido, não é possível aferir a veracidade da alegação formulada pela parte recorrente, pois não há elementos suficientes para se concluir que a sessão de julgamento se deu sem que o quórum estivesse completo, muito menos as razões pelas quais o Desembargador Prestes Mattar não apresentou o voto (se por estar ausente ou por ter-se declarado impedido ou suspeito).
+Logo, na ausência de prova em sentido contrário, deve prevalecer a presunção de regularidade do julgamento em tela.
+Impende ressaltar, de toda sorte, ser possível aplicar ao caso concreto o princípio pas de nullité sans grief haja vista que, tendo o mandado de segurança sido extinto em julgamento unânime (três votos), um eventual voto contrário do Desembargador Prestes Mattar não teria o condão de alterar o resultado. Nesse sentido, mutatis mutandis:
+ADMINISTRATIVO. PROCESSO DISCIPLINAR PARA PERDA DO CARGO. MAGISTRADO. DEFESA PREAMBULAR. INVIABILIDADE DE PRODUÇÃO DE PROVA TESTEMUNHAL NESSA FASE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA.
+ 1. A participação, no julgamento dos embargos de declaração, de desembargador que declarou seu impedimento anteriormente é irregularidade capaz de promover a nulidade de seu voto, mas não suficiente para macular o aresto. O voto proferido pelo magistrado impedido não teve o condão de alterar o resultado de julgamento ou demonstrar a imparcialidade dos demais juízes. Vício não reconhecido. Precedentes.
+ 2. No procedimento previsto no art. 27, § 1º, da LOMAN, o juiz-sindicado é intimado para apresentação de defesa prévia. Não importa cerceamento de defesa o indeferimento de dilação probatória nessa fase, porquanto ela lhe será assegurada oportunamente, caso instaurado processo administrativo (art. 27, § 4º).
+ 3. O reconhecimento de nulidade processual exige a comprovação de prejuízo à defesa, o que, no presente caso, após detida análise dos debates, não ocorreu. Incidência do princípio pas de nullité sans grief.
+ 4. A decisão que determina a instauração do processo administrativo e afasta o magistrado do exercício de suas funções não exige o voto de dois terços dos membros do Tribunal, podendo ser tomada por maioria absoluta, nos termos do art. 93, X, da Constituição Federal.
+ 5. Recurso ordinário improvido.
+(RMS 20.030/PB, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 06/12/2010)
+Quanto ao mérito, melhor sorte não socorre à recorrente.
+Com efeito, "esta Corte tem o entendimento de que, nos mandados de segurança que visem a revisão de aposentadoria, nos quais se questiona o ato concessivo do benefício, o termo inicial do prazo decadencial para a impetração é a data daquele (ato), por ser ato único de efeitos permanentes" (AgInt no REsp 1.284.455/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 22/05/2018).
+Destarte, considerando-se que a pretensão formulada na petição inicial é a revisão do ato de aposentadoria da recorrente, datado de 03/12/1981 (fl. 4), de modo que fosse incluída em seus proventos a gratificação prevista no art. 172, II, da Lei Estadual 6.794/1976 e que o mandamus foi impetrado em 27/02/2012 (fl. 3), é de rigor o reconhecimento da prescrição do próprio fundo de direito.
+Por tudo isso, não se vislumbra erro no acórdão recorrido que justifique sua reforma. Deve, pois, ser integralmente mantido. Antes, é o apelo recursal que se apresenta em confronto com a jurisprudência desta Corte, impondo-se-lhe o não provimento.
+Ante o exposto, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se.
