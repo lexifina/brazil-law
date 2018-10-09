@@ -1,0 +1,14 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Antonio Hilario da Silva afirma haver o Presidente da Turma Recursal do Tribunal de Justiça do Estado de Rondônia, no processo nº 7000670-05.2016.8.22.0022, usurpado a competência do Supremo ao impedir o prosseguimento do extraordinário por si interposto.
+    Segundo narra, ajuizou, na condição de servidor público, ação contra o Estado de Rondônia visando o pagamento de auxílio-transporte. Ressalta a procedência do pedido, no que assentado o direito à citada verba, com quitação de retroativos anteriores aos cinco anos do ajuizamento da demanda. Aponta a reforma parcial da óptica pela Turma Recursal, tendo sido declarado indevido o adimplemento de atrasados em virtude da ausência de prévio requerimento administrativo. Diz da protocolação de extraordinário, no qual arguida violação dos artigos 5º, incisos XXXV e LV, e 93, inciso X, da Constituição Federal. Este veio a ser inadmitido. Não houve êxito em agravo.
+    Ressalta existir entendimento jurisprudencial a revelar a pertinência do pagamento da rubrica, independentemente de ter transporte coletivo no Município, considerado o caráter indenizatório. Reputa desrespeitada a competência do Supremo, dizendo caber a apreciação do agravo manuseado em face de inadmissão do extraordinário, ante o previsto no artigo 1.042 do Código de Processo Civil, bem assim decidir sobre a configuração, ou não, da repercussão geral. Frisa o preenchimento desse requisito. Insiste demonstrada negativa de prestação jurisdicional.
+    Requer a cassação do ato impugnado e a remessa do caso a este Tribunal para exame.
+    Por meio da petição/STF nº 50.833/2018, o reclamante esclarece estar o inconformismo voltado contra ato praticado no processo nº 7000670-05.2016.8.22.0022, e não no de nº 7002926-57.2016.822.0009.
+    2. Este processo somente serve à sobrecarga da máquina judiciária, hoje suportada pelo Supremo, que, no tocante à celeridade processual, encontra-se inviabilizado. Mostra-se evidente a inadequação do inconformismo. A análise dos documentos que acompanham a inicial sinaliza estarem as razões nela lançadas dissociadas do ocorrido na origem. O objeto da demanda formalizada diz respeito unicamente ao pagamento, a título de auxílio-transporte, de parcelas vencidas entre abril de 2011 e janeiro de 2015, o que foi – diferentemente do veiculado pelo reclamante – acolhido pelo Juízo e mantido em sede de recurso inominado. O extraordinário a seguir interposto, ao contrário do que consignado na inicial, foi inadmitido ante a falta de interesse, não havendo debate, no processo, acerca da problemática atinente à imprescindibilidade de prévio requerimento administrativo.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 9 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
