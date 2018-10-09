@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –  MATÉRIA FÁTICA – NORMAS LEGAIS – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de origem confirmou  entendimento do Juízo quanto à procedência dos pedidos formulados em ação civil pública, considerada a prática de atos de improbidade administrativa, nos termos da Lei nº 8.429/1992. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violado o artigo 37, § 4º, da Constituição Federal. Afirma que o Colegiado interpretou de forma equivocada a situação, indicando quadro fático diverso do lançado na sentença.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Ainda, importa mencionar que, para a configuração da prática de improbidade por ato que atenta contra os princípios da Administração Pública, basta a demonstração do dolo lato sensu ou genérico no ato do agente, como se vê dos seguintes precedentes:
+    "[..] extremo seria exigir, para fins de enquadramento no art. 11 da LIA, que o agente ímprobo agisse com dolo específico de infringir determinado preceito principiológico. Caso fosse essa a intenção do legislador, poderíamos dizer que as situações previstas nos incisos do mencionado dispositivo configurariam rol enumerativo das condutas reprováveis, o que é absolutamente inaceitável, diante da redação do caput, ao mencionar ações e omissões que 'notadamente' são passíveis de sanção.[..J" (EREsp 654721 MT, Rel. Ministra EMANA CALMON, PRIMEIRA SEÇÃO, julgado em 25/08/2010, Dle 01/09/2010)
+    "[...] 'a questão controvertida se a atuação dolosa do  agente é imprescindível. ou não. para consubstanciar  ofensa aos princípios da Administração. encontra-se  pacificada no âmbito da Primeira Secão do ST.I.  justamente no sentido de ser necessária a presenca do  dolo no elemento subjetivo do tipo, para caracterizar ato  ímprobo.' é necessário apenas o dolo genérico, sendo  dispensável o dolo específico. [..J" (AgRg nos EREsp 1312945 MG, Re1 Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/12/2012, ale 01/02/2013)
+    Desse modo, o dolo genérico se refere à intenção do gestor de, deliberadamente, agir em desconformidade com o que prescreve a lei, em violação aos princípios administrativos que vinculam a atuação do administrador e a limitam ao bloco de juridicidade à que se subsume, bem como aos deveres de legalidade e lealdade às instituições.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 9 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
