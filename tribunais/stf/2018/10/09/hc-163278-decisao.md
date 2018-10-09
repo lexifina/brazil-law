@@ -1,0 +1,40 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Antonio Roberto Sanches, em favor de Paulo Henrique Marques, contra decisão monocrática de Ministro Relator do STJ, nos autos do HC 417.764/SP.
+    Colho o relatório da decisão impugnada:
+    Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCELO CRISTIANO DE SOUZA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0001668-05.2011.8.26.0589).
+    Depreende-se dos autos que o paciente foi condenado a 6 anos de reclusão, em regime inicialmente fechado, como incurso na prática dos delitos inscritos no art. 155, § 4º, incisos I e IV, Código Penal, sendo-lhe permitido apelar em liberdade (e-STJ fls. 48/49).
+    O Tribunal de origem negou provimento ao recurso de apelação, determinando a expedição de mandado de prisão em acórdão assim ementado (e-STJ fl. 66):
+    Furtos qualificados por rompimento de obstáculo e concurso de agentes, mais associação criminosa, em concurso material (art. 155, § 4°, I e V, e art. 288, "caput", do Cód. Penal, na forma do art. 69 do Cód. Penal). Crimes caracterizados, integralmente. Provas seguras de autoria e materialidade. Palavras coerentes e incriminatórias de Investigadores de Policia, mais declarações do representante da empresa-vitima. Confissão de um dos acusados em Policia, com incriminação dos corréus. Validade. Versões exculpatórias, no mais, improvadas e inverossímeis. Apenamento adequado, impassível de alterações. Regime fechado único possível. Apelos improvidos, com expedição de mandados de prisão.
+    No presente writ, sustenta o impetrante constrangimento ilegal na expedição do mandado de prisão emanado pelo Tribunal a quo, visto que o paciente opôs embargos declaratórios, o que impediria a execução provisória da pena devido ao não exaurimento das instâncias ordinárias (e-STJ fl. 3).
+    Busca, liminarmente, a suspensão dos efeitos do acórdão (e-STJ fl. 5).
+    No mérito, pugna seja ordenada a execução da pena apenas após esgotadas as instâncias ordinárias (e-STJ fl. 5).
+    O pedido liminar foi deferido para conceder ao paciente o direito de aguardar em liberdade o julgamento final do presente writ, ou até que sobrevenha o exaurimento da instância ordinária (e-STJ fls. 98/103).
+    Feitos pedidos de extensão pelos corréus Paulo Henrique Marques e Jonas Ribeiro de Oliveira Pitta às e-STJ fls. 109/137 e 150/177, por entender serem idênticas as situações fático-processuais, deferi os pleitos às e-STJ fls. 141/143 e 221/223.
+    Informações prestadas às e-STJ fls. 178/217 e 230/248.
+    O Ministério Público Federal manifestou-se pela prejudicialidade do presente habeas corpus (e-STJ fls. 251/253).
+    É, em síntese, o relatório. (eDOC 4, p. 1-2)
+    No STJ, a ordem foi denegada em 9.4.2018 (eDOC 4)
+    Nesta Corte, o impetrante alega que o paciente tem direito a permanecer em liberdade, ao menos até o pronunciamento do STJ, nos autos do agravo em recurso especial.
+    É o relatório.
+    Decido.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Não é só.
+    A decisão questionada foi proferida em 9.4.2018, de modo que se passaram quase seis meses entre sua publicação e a impetração do presente writ.
+    A ausência de interposição de recurso naquela Corte, somada ao decurso do tão longo prazo, indica conformismo com a decisão, razão por que, se houver alguma autoridade coatora, não é mais o STJ.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desses entendimentos jurisprudenciais pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o não que verifico no presente caso.
+    Os Ministros do STF têm aplicado a jurisprudência do Supremo no sentido de que a execução provisória da sentença já confirmada em sede de apelação, ainda que sujeita a recurso especial e extraordinário, não ofende o princípio constitucional da presunção de inocência, conforme decidido no HC 126.292/SP. Esse posicionamento foi mantido pelo STF ao indeferir medidas cautelares nas Ações Declaratórias de Constitucionalidade 43 e 44, e no julgamento do Recurso Extraordinário com Agravo 964.246/SP, com repercussão geral reconhecida pelo Plenário Virtual.
+    No julgamento do HC 126.292/SP, o Ministro Dias Toffoli votou no sentido de que a execução da pena deveria ficar suspensa com a pendência de recurso especial ao STJ, mas não de recurso extraordinário ao STF. Para fundamentar sua posição, sustentou que a instituição do requisito de repercussão geral dificultou a admissão do recurso extraordinário em matéria penal, que tende a tratar de tema de natureza individual e não de natureza geral ao contrário do recurso especial, que abrange situações mais comuns de conflito de entendimento entre tribunais.
+    Ainda, no julgamento do HC 142.173/SP (de minha relatoria, sessão da Segunda Turma de 23.5.2017), manifestei minha tendência em acompanhar o Ministro Dias Toffoli no sentido de que a execução da pena com decisão de segundo grau deve aguardar o julgamento do recurso especial pelo STJ.
+    Recentemente, a Segunda Turma julgou o HC 152.752/PR, DJe 27.6.2018, de modo que novamente manifestei-me no sentido de que o julgamento pelo Superior Tribunal de Justiça é a opção que confere maior segurança à execução provisória da pena.
+    Isso porque, como anteriormente citado, o STJ pode corrigir questões relativas à tipicidade, antijuridicidade ou culpabilidade do agente, alcançando inclusive a dosimetria da pena.
+    Esse novo marco, com o fim da prisão automática no segundo grau, consubstancia apenas um ajustamento do momento inicial para a execução da pena, mais consentâneo com o nosso ordenamento jurídico e a com a nossa realidade. Não se altera a essência do entendimento majoritário desta Corte estabelecido no HC 126.292, de esgotamento das instâncias soberanas na apreciação dos fatos para se considerar imutável a condenação, apenas muda-se o marco.
+    Fora desse referido marco, abrem-se três possibilidades de antecipação da execução da pena:
+    A primeira: possibilidade de antecipar-se a execução da pena ocorreria com o trânsito em julgado progressivo da sentença condenatória, tendo em vista que parte ou parcela da pena tornou-se líquida por falta de argumentação recursal. A pena incontroversa poderia ser executada ainda na primeira instância (execução da pena mínima).
+    A segunda: possibilidade de antecipação da execução da pena, na mesma linha do trânsito em julgado progressivo, decorrente agora da precipitação em habeas corpus (denegado) do exame pelo STJ ou pelo STF de questões iguais ou mais abrangentes que aquelas perfiladas nos recursos extraordinários (especial e extraordinário), tornando desnecessário aguardar o julgamento destes para o cumprimento da reprimenda.
+    A terceira: uma vez confirmada a condenação em segundo grau de jurisdição, formando-se, portanto, título executivo mais robusto, abre-se a possibilidade, em crimes graves, de nova análise do cabimento da antecipação da execução da pena para garantia da ordem pública ou da aplicação da lei penal, mediante uma nova interpretação do conceito de ordem pública.
+    Assim, tenho que o caso se amolda à terceira possibilidade, porquanto se trata de crime grave, praticado por meio de explosão de caixa eletrônico, o que foi ressaltado nas decisões dos juízos inferiores.
+    Ante o exposto, nego seguimento ao presente habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 9 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
