@@ -1,0 +1,34 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DOS VENCIMENTOS EM URV. NÃO OCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. AGRAVO DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO com fundamento no art. 105, III, a e c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO - Servidores Públicos Estaduais Ativos - Recálculo de vencimentos - Conversão em URV (Lei Federal 8.880/1994) - Sentença de improcedência, proferida na forma do artigo 285-A do CPC - Afastamento da prescrição do fundo de direito - Relação de trato sucessivo - Prescrição parcelar - Precedentes do Eg. STJ e desta Col. Câmara - Impossibilidade de aplicação do art. 515, § 3o. do CPC - Necessidade de se possibilitar aos autores a produção de outras provas para comprovação de seu direito - Retorno dos autos à origem para reabertura da instrução - Parcial provimento da apelação (fls. 213).
+2. Nas razões do Recurso Especial inadmitido, a parte recorrente alega, além da divergência jurisprudencial, ofensa aos arts. 1o. do Decreto 20.910/1932 e 333, I do CPC/1973, argumentando, em síntese, que houve a indevida inversão do ônus da prova; a ocorrência da prescrição do fundo de direito, tendo em vista que a URV deixou de existir em julho de 1994, momento em que poderiam os autores verificar a não conversão e ingressar com a presente Ação; e que não houve a demonstração do efetivo prejuízo remuneratório dos servidores.
+3. É o relatório do essencial.
+4. Na hipótese dos autos, o Tribunal de origem consignou:
+Respeitado o entendimento do i. magistrado, a jurisprudência do Egrégio Superior Tribunal de Justiça sedimentou-se no sentido de que, nas ações em que se pleiteia o reconhecimento de supostas diferenças salariais decorrentes da errônea conversão da moeda em URV, discute-se relação de trato sucessivo.
+Em tais casos, portanto, somente ocorre a prescrição parcelar, nos termos do art. 3º do Decreto nº 20.910/32 e da Súmula 85 do col. STJ.
+(..).
+De rigor, portanto, o afastamento o decreto de prescrição do fundo de direito.
+Da mesma forma, entendo que, a despeito da Lei nº 8.880/94 ser federal, inquestionável sua aplicação aos servidores de todas as esferas da Federação, por se tratar de matéria de competência exclusiva da União Federal, que, por outro lado, não faz qualquer distinção a esse respeito.
+De qualquer forma, quanto ao mérito, não é possível mesmo o julgamento imediato do pedido, nos termos do artigo 515, § 3o. do Código de Processo Civil, sem que se proceda à dilação probatória pleiteada pelos autores na inicial (fl. 31).
+Assim, mostra-se necessário que se faculte aos autores a possibilidade de produção dessas provas.
+Portanto, afastada a prescrição, o processo deverá retornar à origem para que se reabra a instrução e, ao final, seja proferida nova sentença (fls. 214/216).
+5. Inicialmente, inviável a análise dos fundamentos da Recorrente de que houve indevida inversão do ônus da prova e de que não houve a demonstração do efetivo prejuízo remuneratório dos servidores, uma vez que ainda não foi oportunizada a produção de provas aos autores, tendo determinado o Tribunal de origem a reabertura da instrução em decorrência do afastamento da prescrição.
+6. Carece tal questão, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+7. No tocante à alegada prescrição do fundo de direito, a jurisprudência desta Corte Superior firmou entendimento de que, nas demandas em que se busca o reconhecimento de diferenças salariais advindas de errônea conversão da moeda, a prescrição atinge tão somente as parcelas anteriores aos 5 anos que antecederam à data da propositura da ação, nos termos da Súmula 85 do STJ, uma vez que a relação jurídica existente é de trato sucessivo, que se renova mês a mês. Nesse sentido, citem-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. CONVERSÃO DE MOEDA. URV. SÚMULA 83/STJ. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 131, 333, INCISO I, 334, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. INCIDÊNCIA DA SÚMULA 211/STJ. DATA DE PAGAMENTO. VENCIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+(..).
+IV. É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual, que não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento de diferenças salariais decorrentes da omissão da Administração em converter corretamente cruzeiros reais para URV, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, porquanto resta caracterizada relação de trato sucessivo, que se renova mês a mês.
+(..).
+X. Agravo Regimental improvido (AgRg no REsp. 1.557.867/RJ, Rel. Min. REGINA HELENA COSTA, DJe 19.4.2016).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. DIFERENÇAS SALARIAIS. CONVERSÃO DA MOEDA EM URV. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. INCIDÊNCIA DA SÚMULA 85/STJ.
+1. A jurisprudência desta Corte possui o entendimento de que, nas ações em que se pretende o recebimento de diferenças salariais decorrentes da conversão em URV, não ocorre a prescrição do fundo de direito, aplicando-se ao caso a Súmula 85/STJ, pois caracterizada a relação de trato sucessivo.
+2. Recurso especial provido para afastar a prescrição do próprio fundo de direito e determinar o retorno dos autos ao Tribunal de origem, a fim de que prossiga no julgamento da causa, dando-lhe a solução que entender de direito (REsp. 1.477.670/SP, Rel. Min. convocada DIVA MALERBI, DJe 22.6.2016).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. URV. DIFERENÇAS SALARIAIS. PRESCRIÇÃO DO DIREITO DE AÇÃO. INOCORRÊNCIA. PRESTAÇÕES DE TRATO SUCESSIVO. SÚMULA 85 DO STJ.
+1. Consoante a pacífica jurisprudência desta Corte, "nas ações que tratam de perdas salariais resultantes da conversão da moeda em URV, resta caracteriza relação de trato sucessivo, de modo que a prescrição atinge tão somente as parcelas anteriores ao quinquênio que precedeu à propositura da ação (Súmula 85 do STJ)" (STJ, AgRg nos EDcl no Resp 1.531.829/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 20/8/2015).
+2. Agravo Regimental não provido (AgRg no REsp. 1.573.925/RJ, Rel. Min. HERMAN BENJAMIN, DJe 24.5.2016).
+8. Ante o exposto, nega-se provimento ao Agravo da FAZENDA DO ESTADO DE SÃO PAULO.
+9. Publique-se.
+10. Intimações necessárias.
