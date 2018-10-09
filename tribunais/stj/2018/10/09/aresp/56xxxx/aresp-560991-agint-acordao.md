@@ -1,0 +1,39 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Afasta-se a alegada ofensa ao art. 535 do CPC/73, porquanto a instância ordinária dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Gurgel de Faria (Presidente), Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por [NOME], desafiando decisão de fls. 607/609, que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: (I) ausência de violação ao art. 535 do CPC/73; e (II) incidência da Súmula 280/STF.
+Em suas razões, a parte agravante sustenta, em síntese, que: (i) o acórdão incorreu em omissão, "não se tratando de mero inconformismo do agravante com a decisão que lhe foi desfavorável" - (fl. 617); e (ii) "a premissa adotada para atrair a aplicação da Súmula 280/STF revela-se equivocada (..) por haver o acórdão recorrido contrariado única e exclusivamente o art. 535, II, do antigo CPC" - (fl. 619)
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A título de esclarecimento, verifica-se que a parte ora agravante, em sede de apelo especial, de fato, irresignou-se tão somente quanto à violação ao art. 535 do CPC/73, restando, portanto, incabível a fundamentação embasada na incidência do óbice constante na Súmula 280/STF ("Por ofensa a direito local, não cabe recurso extraordinário").
+Quanto à alegada omissão acerca da impossibilidade de o Secretário Municipal de Transportes escolher livremente o tipo de veículo a ser utilizado na prestação do serviço de transporte alternativo, em detrimento da opção do legislador municipal consolidada na Lei nº 3.360/2000, não há contrariedade ao art. 535 do CPC/73, porquanto se constata que o acórdão integrativo cumpriu seu ofício, concluindo que não havia vício a ser sanado, sobretudo porque o aresto embargado solucionou a controvérsia com o direito que entendeu melhor aplicável ao caso.
+No caso concreto, o acórdão proferido em sede de agravo interno manteve a decisão monocrática do Desembargador relator, que negou provimento à apelação, nestes termos (fl. 410/11):
+Assim, o Decreto 31.052/09 não ostenta natureza autônoma, como alegado, porquanto não afronta as normas previstas na Lei 3360/02, simplesmente por ter instituído o "Serviço de Transporte Público Urbano Local da Área de Planejamento 5", referindo-se, especificamente, a esta área territorial, ao passo que no restante da cidade o transporte se manteve regulado nos termos da referida lei municipal.
+Nesse sentido, atuou a Administração Pública ao adotar regras diferenciadas e destinadas à determinada região, no exercício do poder discricionário de gestão do serviço de transportes que lhe compete.
+Destaque-se o correto entendimento do juiz sentenciante:
+"Da análise dos autos, vê-se que não merece acolhimento a pretensão da parte autora, adotando-se integralmente a manifestação do Ministério Público de fls. 381/385, pois em última análise a conduta da parte ré através do advento do Decreto Municipal 31052/09 tem em mira o próprio interesse público, cabendo ao Município do Rio de Janeiro discricionariedade quanto à escolha do melhor meio de gestão que se mostre mais eficiente para prestação de serviço de transporte público complementar de certa região. A questão toca o campo da discricionariedade aqui imune ao controle jurisdicional, sob pena de indevida intervenção junto à Administração Pública. Inexiste assim qualquer inconstitucionalidade ou ilegalidade no ato impugnado"
+O que ocorre no presente caso, entretanto, é o exercício de atividade discricionária reservada ao Secretário Municipal de Transporte, a quem competia a eleição da forma como se daria a prestação do serviço de transporte público local, com base no seu juízo de conveniência e oportunidade. Ou seja, não restou configurada hipótese de violação ao princípio da legalidade, preceituada no art. 5o, II da CRFB/88, pois agiu o ente Recorrido em conformidade a competência que lhe fora reservada.
+Reitera-se, assim, não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. Nancy Andrighi, Terceira Turma, DJ 28/11/05).
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+ ..
+5. Agravo regimental não provido.
+(AgRg no REsp 1.386.843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 24/2/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE PREQUESTIONAMENTO - SÚMULA 211/STJ.
+ ..
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804.921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJ 28/5/2007)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
