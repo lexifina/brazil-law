@@ -1,0 +1,13 @@
+DECISÃO
+1. Trata-se de Embargos de Declaração opostos pelo Segurado em face de decisão que deu provimento ao Recurso Especial do INSS, nos termos da seguinte ementa:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. CUMULAÇÃO DE BENEFÍCIOS DE APOSENTADORIA E AUXÍLIO-ACIDENTE. ART. 86, §§ 2o. E 3o., DA LEI 8.213/1991, COM A REDAÇÃO DADA PELA LEI 9.528/97. EXIGÊNCIA DE QUE AMBOS BENEFÍCIOS TENHAM SIDO CONCEDIDOS ANTES DA EDIÇÃO DA LEI 9.528/97. RECURSO ESPECIAL 1.296.673/MG, REPRESENTATIVO DA CONTROVÉRSIA, REL. MIN. HERMAN BENJAMIN. RECURSO ESPECIAL DO INSS PROVIDO.
+2. Reitera a embargante os razões já apresentados nos Embargos de Declaração rejeitos, reiterando o reconhecimento da omissão no julgado, defendendo que na hipótese dos autos o seu benefício de aposentadoria não foi concedido pelo INSS e sim pelo IMPAS, razão pela qual não haveria óbice na cumulação dos benefícios.
+4. Pede e espera provimento dos Embargos Declaratórios nos Embargos Declaratórios com efeitos Infringentes, para modificar o venerando acordo, pois, a Embargante nunca foi e não é aposentada pelo INSS E SIM PELO IMPAS, e certamente em todas as suas manifestações informou que não era aposentada pelo Instituto Embargado. Por isso e por tudo o mais que dos autos consta, pede que se lhe faça cristalina.
+5. É o relatório.
+6. Como já dito, da leitura dos autos, o que se verifica é que no acórdão recorrido não há qualquer menção acerca da tese defendida pela autora, não tendo a Corte em nenhum momento analisado a alegação de que a aposentadoria da autora seria decorrente de vínculo no RPPS. Nem mesmo pelo juiz sentenciante tal alegação foi abordada ou considerada.
+7. Percebe-se, ainda, que não foram opostos Embargos de Declaração com fins de provocar as instâncias ordinárias acerca de tal peculiaridade.
+8. Assim, ainda que a parte autora tenha de fato alegado inúmeras vezes tal argumento, o fato é que o argumento não foi analisado pela Corte de origem, assim, impunha-se à parte autora a obrigação de opor Embargos de Declaração em face do acórdão recorrido para provocar a Corte de origem à manifestação, como o faz agora, embora tardiamente.
+9. Constatada, assim, a ausência de prequestionamento quanto à possibilidade de cumulação de auxílio-acidente com aposentadoria estatutária, inviável o seu exame no momento de oposição dos Embargos de Declaração.
+10. Convém pontuar que a reiterada oposição de recursos para discutir questões já examinadas configura o caráter protelatório do ato, uma vez que a pretensão já foi manifestamente repelida. A reiteração de tal conduta poderá implicar em imposição de multa se a parte manifestar outros aclaratórios com a mesma pretensão.
+11. Ante o exposto, rejeitam-se os Embargos de Declaração.
+12. Publique-se. Intimações necessárias.
