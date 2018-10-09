@@ -1,0 +1,50 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. TRÁFICO DE DROGAS. EXAME DE INSANIDADE MENTAL DO PACIENTE REALIZADO POR PSICÓLOGO CREDENCIADO. VALIDADE. CONSTRANGIMENTO ILEGAL INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. As instâncias ordinárias indeferiram, no caso concreto, a realização de perícia com fulcro na sua real desnecessidade, tendo sido consignado que havia laudo anterior o qual contemplava todos os elementos necessários a firmar a convicção do julgador, ex vi do princípio do livre convencimento motivado o qual vigora no processo penal brasileiro no que pertine ao sistema de valoração das provas.
+Referida orientação está de acordo com o entendimento jurisprudencial deste Superior Tribunal de Justiça - STJ segundo o qual compete ao Magistrado de primeiro grau, condutor da instrução e destinatário da prova, indeferir as diligências que entender irrelevantes, impertinentes ou protelatórias, conforme dispõe o art. 400, § 1º, do Código de Processo Penal - CPP. O indeferimento fundamentado da prova requerida pela defesa não revela cerceamento de defesa, quando justificada sua desnecessidade para o deslinde da controvérsia. Precedentes.
+3. Outrossim, este Superior Tribunal de Justiça vem admitindo a possibilidade de que o psicólogo nomeado pelo Juízo ateste a sanidade mental do paciente, representando um elemento no conjunto probatório apto a formar a convicção do Juízo. Precedente: AgRg no HC 440.208/MS, Rel. Ministro REYNALDO SOARES DA FONSECA.
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Agravo regimental interposto contra decisão de minha lavra na qual não conheci de habeas corpus nos seguintes termos (fls. 242/245):
+" ..
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Busca-se, na presente impetração, a nulidade da condenação imposta ao paciente, ante a ausência de médico psiquiatra para a realização de perícia que atestou a sua higidez mental.
+A propósito, transcrevo, para melhor elucidação da hipótese em debate, a decisão de primeiro grau acostada às fls. 165/168:
+" ..
+Em que pesem o argumentos lançados ela defesa, a impugnação deve ser indeferida.
+Inicialmente, observa-se que é evidente a preclusão da matéria, visto que a defesa somente insurgiu-se contra a nomeação quando tomou conhecimento do laudo pericial desfavorável.
+Com efeito, embora tenha sido devidamente intimada a respeito da nomeação, a defesa do requerente não impugnou tal nomeação no primeiro momento que falou nos autos, sendo certo que compareceu aos autos e apresentou quesitos para a realização da perícia na petição de fls. 24/25, nada mencionando sobre a suposta incapacidade técnica do Perito Judicial para realizar a prova.
+Logo, é evidente que ocorreu preclusão de discussão de tal matéria, situação que justificar sequer o conhecimento da impugnação.
+De outra banda, o perito nomeado por este juízo para a realização do exame de insanidade mental no acusado é devidamente cadastrado junto à Corregedoria-Geral de Justiça, bem como já atuou em diversas perícias, não só determinadas por este Juízo, como também por outras Varas Criminais desta Comarca.
+Ademais, não existe óbice na nomeação de psicólogos para atuação em perícias de insanidade mental ou exames de dependência toxicológicas, posto que tais exames fazem parte do ramo da psicologia forense, disciplina incluída na formação desse profissional.
+Por fim, deve ser esclarecido que, em matéria de prova, no processo penal brasileiro vige o princípio do livre convencimento motivado, pelo qual o juiz é livre para analisar as provas apresentadas, sopesando-as para, motivadamente, proferir sua decisão.
+Inclusive, a aplicação de tal principio permite ao magistrado, nas perícias em geral, a aceitação ou rejeição dos laudos, aceitando-os ou rejeitando-os, no todo ou em parte, a teor do que dispõe o art. 182 do Código de Processo Penal.
+ ..
+Diante do exposto, INDEFIRO A IMPUGNAÇÃO de fls. 70/73, ressalvada a análise de mérito sobre imputabilidade para o momento processual oportuno."
+Da análise atenta dos autos, e a partir da leitura do aresto hostilizado e, mormente da decisão de primeiro grau, verifica-se que se indeferiu a realização de perícia com fulcro na sua real desnecessidade, na medida em que havia laudo anterior o qual contemplava todos os elementos necessários a firmar a convicção do julgador, ex vi do princípio do livre convencimento motivado o qual vigora no processo penal brasileiro no que pertine ao sistema de valoração das provas.
+Nessa ordem de idéias, não há configurado no caso constrangimento ilegal passível de correção. A orientação firmada pelas instâncias ordinárias está em sintonia com a jurisprudência desta Corte Superior firmada no sentido de que cabe ao Magistrado de primeiro grau, condutor da instrução e destinatário da prova, indeferir as diligências que entender irrelevantes, impertinentes ou protelatórias, conforme dispõe o art. 400, § 1º, do Código de Processo Penal. O indeferimento fundamentado da prova requerida pela defesa não revela cerceamento de defesa, quando justificada sua desnecessidade para o deslinde da controvérsia.
+Nessa linha de idéias, o seguinte precedente:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. FORMAÇÃO DE QUADRILHA. FRAUDE PROCESSUAL. NULIDADE. INDEFERIMENTO DA PRORROGAÇÃO DO PRAZO PARA EXPEDIÇÃO DE CARTA ROGATÓRIA. INOCORRÊNCIA. INTUITO MANIFESTAMENTE PROTELATÓRIO. DECISÃO FUNDAMENTADA. RECURSO DESPROVIDO.
+I - Evidente o intuito protelatório do atraso para providenciar a tradução da carta rogatória, prejudicando o regular andamento do processo, revelando-se escorreita a decisão da magistrada de 1ª instância ao indeferir a produção da prova, na esteira do art. 400, § 1º, do CPP.
+II - O deferimento de provas (v.g., testemunhal e documental) é ato que se inclui na esfera de discricionariedade regrada do magistrado processante, que poderá indeferi-las de forma fundamentada, quando as julgar protelatórias ou desnecessárias e sem pertinência com a instrução do processo.
+III - Recentíssimo julgado do col. Supremo Tribunal Federal, veiculado no Informativo de n. 823, consignou, mutatis mutandis, que "não há direito absoluto à produção de prova. Em casos complexos, há que confiar no prudente arbítrio do juiz da causa, mais próximo dos fatos, quanto à avaliação da pertinência e relevância das provas requeridas pelas partes  .. " (HC n. 131.158/RS, Primeira Turma, Rel. Min. Edson Fachin, DJe de 26/4/2016, grifei).
+Recurso ordinário desprovido." (RHC 67.916/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 14/10/2016)
+Por inteiramente semelhante à hipótese, confira-se, ainda, a decisão monocrática - Ministro REYNALDO SOARES DA FONSECA, proferida nos autos do HC 440.208/MS (DJe 10/9/2018).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se."
+No presente regimental, o agravante reitera os argumentos anteriores consubstanciados na ocorrência de nulidade decorrente da nomeação de psicólogo para realização do exame médico em manifesto desrespeito à previsão legal.
+Pretende, assim, o provimento do recurso a fim de reconhecer nulidade processual.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+Não obstante os esforços do agravante, mantenho a decisão agravada por seus próprios fundamentos.
+Conforme outrora consignado, as instâncias ordinárias indeferiram, no caso concreto, a realização de perícia com fulcro na sua real desnecessidade. Consignado que havia laudo anterior o qual contemplava todos os elementos necessários a firmar a convicção do julgador, ex vi do princípio do livre convencimento motivado o qual vigora no processo penal brasileiro no que pertine ao sistema de valoração das provas.
+Referida orientação está de acordo com o entendimento jurisprudencial deste Superior Tribunal de Justiça - STJ segundo o qual compete ao Magistrado de primeiro grau, condutor da instrução e destinatário da prova, indeferir as diligências que entender irrelevantes, impertinentes ou protelatórias, conforme dispõe o art. 400, § 1º, do Código de Processo Penal - CPP. O indeferimento fundamentado da prova requerida pela defesa não revela cerceamento de defesa, quando justificada sua desnecessidade para o deslinde da controvérsia.
+De qualquer sorte, mutatis mutandis, "é cediço nesta Corte Superior de Justiça a possibilidade de que psicólogo nomeado pelo Juízo ateste a ausência do requisito subjetivo do reeducando, pois o exame criminológico é dispensável e, quando elaborado, ainda que por referido profissional, representa um elemento no conjunto probatório apto a formar a convicção do Juízo. Portanto inexiste qualquer vício pela ausência de médico psiquiatra a atestar o exame criminológico. Precedentes" (AgRg no HC 409.941/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 16/2/2018).
+Recentemente, na sessão de 2 de outubro de 2018, desta egrégia Quinta Turma, em julgamento de caso inteiramente semelhante, no AgRg no HC 440.208/MS, da relatoria do Ministro REYNALDO SOARES DA FONSECA - pendente de publicação - admitiu-se a possibilidade da realização de exame de insanidade mental por psicólogo credenciado
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
