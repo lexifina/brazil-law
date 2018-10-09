@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. RECURSO QUE OBJETIVA A APLICAÇÃO DA CONTINUIDADE DELITIVA. TRIBUNAL QUE ENTENDEU PELA AUSÊNCIA DE LIAME SUBJETIVO E PELA REITERAÇÃO DELITIVA. FUNDAMENTO INATACADO PELO RECORRENTE. INCIDÊNCIA DA SÚMULA 283/STF.
+Agravo conhecido para não conhecer do recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Distrito Federal e Territórios que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele interposto.
+O referido recurso especial foi fundado no art. 105, III, a, da Constituição Federal e dirigiu-se contra acórdão proferido no julgamento do Agravo em Execução Penal n. 0022872-47.2017.8.07.0000, nos termos da seguinte ementa (fl. 82):
+AGRAVO EM EXECUÇÃO. UNIFICAÇÃO DAS PENAS. CRIMES DE ROUBO. CONTINUIDADE DELITIVA NÃO CARACTERIZADA. AUTONOMIA DE DESÍGNIOS. REITERAÇÃO CRIMINOSA. SENTENÇA MANTIDA.
+1. Para a caracterização do crime continuado é necessário que estejam presentes os requisitos de ordem objetiva e subjetiva. Precedentes do Superior Tribunal de Justiça.
+2. O instituto da Continuidade Delitiva não foi concebido para beneficiar o delinquente habitual, mas apenas corrigir distorções em casos tais que o agente, visando a um resultado delitivo único, o alcança pelo fracionamento de sua conduta até a obtenção do objetivo visado. Em outras palavras, o crime continuado exige, além das condições objetivas homogêneas de tempo, lugar e modo de execução, que a conduta tenha sido praticada com aproveitamento das mesmas relações e oportunidades nascidas da situação primitiva.
+3. Ausente a unidade de desígnio entre os crimes, ainda que cometidos no espaço de tempo de 1 (um) dia, na mesma região administrativa e com idêntico modo de execução, mas presente a reiteração e a habitualidade delitiva, não há se falar em crime continuado.
+4. Recurso conhecido. Negou-se provimento.
+Nas razões do especial (fls. 165/178), suscitou violação ao art. 71 do Código Penal, sob o fundamento de que ao exigir para o reconhecimento da ficção jurídica do crime continuado prevista no artigo 71 do CP a configuração de unidade de desígnios, requisito não previsto na lei e referente apenas ao crime continuado real, os tribunais brasileiros têm negado, sem nenhum respaldo legal, a aplicação do artigo 71 do CP em casos em que todos os requisitos legais foram preenchidos (fl. 174).
+Defende que, in casu, deve ser aplicada a continuidade delitiva, nos moldes do art. 71, caput, do Código Penal, uma vez que o Tribunal de Justiça a quo já reconheceu que os delitos são da mesma espécie e foram praticados com o mesmo modus operandi e nas mesmas condições de tempo e lugar.
+Pleiteia pelo provimento do recurso a fim de ser determinado o retorno dos autos à origem para que a continuidade delitiva seja analisada de acordo apenas com os critérios previstos no art. 71, caput, do Código Penal.
+Apresentadas contrarrazões (fls. 184/188), o recurso especial não foi admitido por incidência da Súmula 7/STJ (fls. 190/191).
+Contra essa decisão a defesa interpõe agravo (fls. 194/199).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 215/216).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Ao manter a negativa de reconhecimento da continuidade delitiva, o Tribunal de origem teceu os seguintes fundamentos (fls. 90/92):
+ ..  No caso, verifica-se que o crime previsto no artigo 157, § 2º, incisos I e II, do Código Penal (roubo circunstanciado pelo emprego de arma e concurso de pessoas - 2a execução nº 00059285620168070015) e o crime previsto no artigo 157, § 2º, incisos I, II e V, do Código Penal (roubo circunstanciado pelo emprego de arma, concurso de pessoas e restrição de liberdade da vítima - processo nº 00000285820178070015 - 3a execução), foram praticados pelo recorrente nos dias 7/12/2010 e 6/12/2010 em Taguatinga -DF (fls. 17/22 e 25/31).
+Destarte, embora se verifique que os crimes da mesma espécie foram praticados em semelhantes condições de tempo, lugar e modo de execução, não se verifica presente o requisito subjetivo para o reconhecimento da continuidade delitiva, qual seja, a unidade de desígnios, porquanto não demonstrado nos autos a presença do intuito único ou global do recorrente, tampouco que os delitos praticados no intervalo de 1 (um) dia, contaram com as mesmas relações de oportunidade nascidas da primeira situação, a fim de caracterizar a conduta subsequente uma continuação da inicial, evidenciando o liame subjetivo entre os delitos.
+ ..
+Assim, a prática dos vários crimes da mesma espécie, nas mesmas condições de tempo, lugar, maneira de execução e outras semelhantes, a fim de demonstrar que os crimes subsequentes são uma continuação do primeiro, por si só, não se mostra suficiente para a configuração da continuidade delitiva, que, como cediço, nada mais é do que um concurso material de crimes ao qual a lei conferiu um tratamento especial, sendo necessária, ainda, a demonstração do intuito único ou global, a fim de restar configurado o crime único.
+Destarte, o referido benefício volta-se, fundamentalmente, ao criminoso eventual, não sendo aplicável, portanto, ao agente que reitera na prática delitiva, sob pena de se tornar mais conveniente "ao delinquente cometer vários crimes, em sequência, tornando-se sua "profissão", do que fazê-lo vez ou outra. Não se pode pensar em diminuir o excesso punitivo de quem faz do delito um autêntico meio de ganhar a vida" (ob. cit., pág. 563).
+Assim, no caso, deve ser considerado, ainda, que o recorrente possui outra condenação, pelo mesmo delito, praticado em 14/04/2015, cuja sentença transitou em julgado para a Defesa em 24/06/2016, referente à primeira execução - processo nº 00344754320158070015 (fl. 9).
+Destarte, na espécie, resta evidenciada a reiteração criminosa, o que denota maior reprovabilidade e evidencia que um crime não se deu em continuação ao anterior, como resultado de um desígnio único, não restando demonstrado, portanto, a existência de um vínculo entre os delitos.  ..
+Ora, vê-se do trecho acima colacionado que o Tribunal entendeu que não seria o caso de aplicar a continuidade delitiva porque não estaria configurado o elemento subjetivo - qual seja a unidade de desígnios - e porque ficou evidenciada a reiteração delitiva.
+Contudo, o segundo fundamento, qual seja, a reiteração delitiva não foi impugnada pelo recorrente, que apenas afirmou que bastam os requisitos objetivos previstos no art. 71, caput, do Código Penal, para que seja aplicada a continuidade delitiva.
+Sendo assim, diante da falta de impugnação a fundamento suficiente, por si só, para manter a condenação, entendo caracterizada a inobservância do princípio da dialeticidade recursal (art. 932, III, do Código de Processo Civil), apta a atrair a incidência da Súmula 283/STF.
+A propósito, destaco:
+ ..
+4. Em atenção ao princípio da dialeticidade, revela-se inadmissível o Recurso Especial que não infirma o fundamento no qual assentado o acórdão recorrido. Incidência, por analogia, da Súmula 283/STF.
+ ..
+(REsp n. 1.689.959/SP, Ministro Herman Benjamin, Segunda Turma, DJe 16/10/2017)
+Ante o exposto, com fulcro no art. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
