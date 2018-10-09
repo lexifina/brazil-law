@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. ART. 85, § 11 DO CPC/2015. EMBARGOS DA EMPRESA ACOLHIDOS.
+1. Trata-se de Embargos de Declaração opostos pela HESS DE SOUZA E AREND - ADVOGADOS ASSOCIADOS S.C., contra a decisão assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. ACIDENTE DE TRÂNSITO. INVERSÃO DO JULGADO QUE IMPLICARIA O REVOLVIMENTO DO ACERVO PROBATÓRIO DOS AUTOS. AGRAVO EM RECURSO ESPECIAL DA MUNICIPALIDADE A QUE SE NEGA PROVIMENTO (fls. 311).
+2. A parte embargante objetiva esclarecer a decisão para evitar que posteriormente, na fase de execução, o município utilize-se como tese de impugnação ao cumprimento de sentença (..) (fls. 318). Assevera que a condenação será com base no proveito econômico quando o ganho pela parte vencedora não tenha sido em pagar quantia pecuniária. Contrário ao caso dos autos, que a parte Embargada foi condenada ao pagamento de R$ 14.142,00 (quatorze mil, cento e quarenta e dois reais). Dessa forma, acreditando que a condenação disposta na decisão recorrida tenha sido equivocadamente baseada no proveito econômico, requer que o erro material seja corrigido, alterando-se a condenação, constando que os honorários sucumbenciais foram majorados, nos termos do art. 85, § 11 do Código de Processo Civil, em 1% sobre o valor da condenação (fls. 319).
+3. Sem Impugnação (fls. 323).
+4. É o relatório.
+5. De início, cumpre esclarecer que o art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+6. Como afirmado na decisão embargada, os honorários recursais serão somados aos honorários de sucumbência fixados em primeiro grau. Constitui, como consignado, majoração do quantum já estipulado, não modificando, portanto, a base de cálculo de sua incidência.
+7. Na hipótese, como a demanda foi julgada procedente condenando a parte recorrida ao pagamento de R$ 14.142,00, e tendo em vista que na origem a verba de sucumbência foi fixada em 10% sobre o valor da condenação, os honorários recursais fixados na decisão embargada em 1% sobre o proveito econômico representa, por consequência, o mesmo que 1% sobre o valor da condenação.
+8. Dessa forma, acolhem-se os Declaratórios da Empresa para esclarecer que a parte final do item 11 da decisão embargada se refere a mesma base de cálculo adotada na origem, qual seja, o valor da condenação.
+9. Publique-se.
+10. Intimações necessárias.
