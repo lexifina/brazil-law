@@ -1,0 +1,17 @@
+Decisão: Trata-se de habeas corpus, impetrado em favor de Samuel Renato Ferreir, contra decisão monocrática de Ministro Relator do STJ, nos autos do HC 471.134/SP, que indeferiu o pedido liminar e solicitou informações as autoridades das instâncias inferiores. (eDOC 8)
+    Alega a defesa que o paciente encontra-se submetido a constrangimento ilegal, pois o STJ teria em outros pedidos de habeas corpus deferido a liberdade provisória de outros corréus, e que por estar em mesma situação, essas decisões deveriam ser estendidas ao paciente. (eDOC 1)
+    Registro que não há nos autos nenhum documento que se refira à situação do paciente, o motivo pelo qual se encontra preso, a decisão que fundamentou sua prisão, que tipo de prisão é, desde quando, se houve habeas corpus ao Tribunal local, se este teria apreciado pedido, em que termos e etc.
+    É o relatório.
+    Decido.
+    Preliminarmente, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de mesma natureza articulada perante tribunal superior, antes do julgamento definitivo do writ [ cf. HC (QO) 76.347/MS, Rel. Min. Moreira Alves, 1ª Turma, unânime, DJ 8.5.1998; HC 79.238/RS, Rel. Min. Moreira Alves, 1ª Turma, unânime, DJ 6.8.1999; HC 79.776/RS, Rel. Min. Moreira Alves, 1ª Turma, unânime, DJ 3.3.2000; HC 79.775/AP, Rel. Min. Maurício Corrêa, 2ª Turma, maioria, DJ 17.3.2000; e HC 79.748/RJ, Rel. Min. Celso de Mello, 2ª Turma, maioria, DJ 23.6.2000].
+    Esse entendimento está representado na Súmula n. 691/STF, in verbis: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    É bem verdade que o rigor na aplicação da Súmula n. 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+    Como é cediço, na ação constitucional do habeas corpus, é imprescindível a existência de prova pré-constituída da ilegalidade, sem a qual não há como reconhecer suposto constrangimento ilegal a que estaria submetido o paciente.
+    Consoante reiterada jurisprudência da Corte, “constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo” (HC 95.434/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2.10.09).
+    Consultando o andamento do habeas impetrado no STJ verifico que as informações solicitadas ao TJSP já foram prestadas, convém aguardar a manifestação da Corte Superior.
+    Desse modo, nego seguimento ao presente habeas corpus. (artigo 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
