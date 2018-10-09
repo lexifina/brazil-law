@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado de próprio punho por JOSE JAILTO DE BRITO, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu liminarmente o mandamus inpetrado perante a Corte de origem.
+Consta dos autos que o paciente foi condenado à pena de 20 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado, pela prática dos delitos previstos nos arts. 121, § 2º, IV, e art. 121, § 2º, II, c.c art. 14, II, todos do Código Penal.
+O paciente impetrou habeas corpus perante a Corte de origem, a qual indeferiu liminarmente a inicial.
+No presente habeas corpus, alega a ocorrência de constrangimento ilegal ao argumento de que deveria ser reconhecida a atenuante da confissão espontânea. Aduz que seria cabível a aplicação da continuidade delitiva. Argumenta que o réu apenas agiu em legítima defesa. Afirma que deveria ser afastada a qualificadora do recurso que dificultou a defesa da vítima.
+A liminar foi indeferida, informações prestadas e o Ministério Público Federal manifestou-se pela negativa de seguimento do mandamus.
+É o relatório.
+DECIDO.
+No concernente aos pleitos de reconhecimento de legítima defesa e redimensionamento da reprimenda, tem-se que a Corte de origem indeferiu liminarmente a inicial do mandamus, com os seguintes fundamentos (fls. 40-41):
+Tendo em vista o teor do pedido formulado, dispenso a vinda de Informações e a manifestação da d. Procuradoria Geral de Justiça, visto que o presente writ merece indeferimento in limine, nos termos do art. 663, do Código de Processo Penal.
+O habeas corpus, conforme preceitua o art. 5o, LXVIII, da Constituição Federal e o art. 647 e seguintes do Código de Processo Penal, é o remédio constitucional previsto para assegurar ao cidadão sua liberdade de locomoção na hipótese de latente constrangimento ilegal ou em sua iminência.
+Já a Apelação, prevista no art. 593, I, do Código de Processo Penal, é o recurso cabível para atacar sentenças condenatórias ou absolutórias proferidas pelo Juiz singular.
+Se no presente caso, pretende o Impetrante/Paciente seja concedida a ordem para que seja absolvido ou que seja reconhecida a continuidade delitiva de seus crimes com a ".. redução da pena imposta ..claro está que o presente writ não é a via adequada para solucionar tal questão, pois não constitui sucedâneo da Apelação, prevista em Lei.
+Com isso, resta evidente a ausência de interesse de agir do Impetrante/Paciente, na modalidade de adequação, vez que para o caso sub examine há expressa previsão em lei de recurso específico, não sendo possível, assim, admitir o presente mandamus como substitutivo do recurso cabível.
+Ademais, a pretensão do Impetrante/Paciente sugere interesse no reexame de provas, o que não comporta conhecimento, afinal a via estreita desta ação penal constitucional, no particular, não autoriza avaliação aprofundada do conjunto probatório.
+De pronto, verifica-se que a matéria ventilada no presente writ não pode ser analisada por este Superior Tribunal de Justiça, tendo em vista que a irresignação do paciente não foi apreciada pelo Tribunal de origem, fato que obsta a análise da impetração por este Sodalício, sob pena de indevida supressão de instância.
+Ressalto, por oportuno, que a apelação criminal é o recurso próprio à análise das aludidas alegações, as quais dependem de análise fático-probatória, a ser realizada pelas instâncias ordinárias.
+Assim, tendo em vista a informação do Tribunal de Justiça do Estado de São Paulo de que foi interposta apelação criminal, encontrando-se esta em processamento (fl. 37), inviável a analise dos pleitos, tal como requerido pelo impetrante/paciente, diretamente por esta Corte superior. Nesse sentido:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. REGIME INICIAL DA PENA. MATÉRIA NÃO CONHECIDA. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA DECRETADA EM SENTENÇA CONDENATÓRIA. RECORRENTE QUE RESPONDEU AO PROCESSO EM LIBERDADE. AUSÊNCIA DE CONTEMPORANEIDADE. ILEGALIDADE. PRESENTE. RECURSO EM HABEAS CORPUS PARCIALMENTE PROVIDO.
+1. Para evitar supressão de instância, não se conhece da matéria relativa ao regime inicial de cumprimento da pena, pois, em consulta ao site do Tribunal a quo, constatou-se estar pendente de julgamento a apelação do recorrente, Apelo Criminal n.0000473-40.2014.8.02.0203.
+2. Pacífico é o entendimento de que a urgência intrínseca às cautelares, notadamente à prisão processual, exige a contemporaneidade dos fatos justificadores dos riscos que se pretende com a prisão evitar: HC 214921/PA - 6ª T - unânime - Rel.
+Min. Nefi Cordeiro - DJe 25/03/2015; HC 318702/MG - 5ª T - unânime - Rel. Min. Reynaldo Soares da Fonseca - DJe 13/10/2015.
+3. Recurso em habeas corpus parcialmente provido, para a soltura do recorrente, CARLOS JORGE FERREIRA, sem prejuízo de nova e fundamentada decisão de necessária medida cautelar penal, inclusive menos grave que a prisão processual, esta última fundamentada exclusivamente por fatos novos.
+(RHC 76.405/AL, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. TRÁFICO DE DROGAS. CONDENAÇÃO. REGIME FECHADO DE CUMPRIMENTO DA PENA. PRETENSÃO PELO ABRANDAMENTO DO REGIME. PENDÊNCIA DE JULGAMENTO DO RECURSO DE APELAÇÃO. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS. NATUREZA E QUANTIDADE DA SUBSTÂNCIA ENTORPECENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, em recentes decisões, não admitem mais a utilização do habeas corpus como sucedâneo do meio processual adequado, seja o recurso, seja a revisão criminal, salvo em situações excepcionais.
+2. Apesar de se ter solidificado o entendimento no sentido da impossibilidade de utilização do habeas corpus como substitutivo do recurso cabível, este Superior Tribunal analisa, com a devida atenção e caso a caso, a existência de coação manifesta à liberdade de locomoção, não tendo sido aplicado o referido entendimento de forma irrestrita, de modo a prejudicar eventual vítima de coação ilegal ou abuso de poder e convalidar ofensa à liberdade ambulatorial.
+3. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, da ilegalidade da fixação do regime fechado, quando a matéria não foi examinada no acórdão impugnado, especialmente em se considerando a existência de recurso de apelação criminal que se encontra pendente de julgamento.
+4. Tendo havido também motivação na sentença, em relação às circunstâncias judiciais, com base no art. 42 da Lei n. 11.343/2006, em face da quantidade e natureza de entorpecentes, ausente constrangimento ilegal na presente hipótese.
+5. Habeas corpus não conhecido.
+(HC 348.181/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/06/2016, DJe 01/07/2016)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
