@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. RECURSO ORDINÁRIO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por [NOME] em face de acórdão assim ementado:
+AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA CONTRA DECISÃO DO RELATOR QUE DETERMINOU A CONVERSÃO DO AGRAVO DE INSTRUMENTO EM AGRAVO RETIDO. DESCABIMENTO DO WRIT.
+1. O mandado de segurança não é sucedâneo recursal, não sendo cabível contra ato do Relator que determinou a conversão do agravo de instrumento em agravo retido, consoante previsto pelo CPC.
+2. Ausência do alegado direito líquido e certo a legitimar a impetração do mandamus.
+3. Agravo a que se nega provimento.
+O recorrente impetrou mandado de segurança contra decisão que determinou a conversão de agravo de instrumento, que visava afastar os efeitos de decisão que determinou a indisponibilidade de bens, em agravo retido. Afirma que não se poderia "ter recebido o recurso de agravo de instrumento na forma retida, uma vez que o recurso foi dirigido contra decisão liminar em ação cautelar, cujos efeitos vem produzindo prejuízos na esfera de direitos do ora recorrente" (fl. 797, e-STJ). Sustenta que "a decisão objeto do mandamus Ou seja, a decisão objeto do mandamus limitou-se a analisar somente o objeto do arresto, mas não a legalidade da constrição frente a já comprovada existência de bens suficientes para cobertura do suposto dano" fl. 799, e-STJ). Por fim, aponta que há teratologia na decisão contra a qual se volta o mandado de segurança na medida em que ela "não guarda pertinência com a lógica, o bom senso e com o conteúdo da demanda originária do agravo de instrumento oriundo de uma ação cautelar em improbidade administrativa (e não mandado de segurança), sem qualquer pedido liminar do recorrente, seja em primeiro grau (porque é réu), seja em segunda instância (porque não requereu)" (fl. 801, e-STJ).
+Contrarrazões da União às fls. 815-822, e-STJ.
+Parecer do Ministério Público pelo conhecimento e improvimento do recurso ordinário (fls. 831-834, e-STJ).
+É o relatório. Decido.
+A Corte de origem denegou a segurança pelos seguintes fundamentos: (a) o pedido é manifestamente incabível, pois não se admite a utilização de mandado de segurança como sucedâneo recursal; (b) a decisão que determinou a conversão do agravo de instrumento em agravo retido não se apresenta teratológica, tampouco constitui ato ilegal ou arbitrário, de forma a autorizar mandado de segurança.
+Em decorrência do princípio da dialeticidade, o recorrente deve impugnar todos os fundamentos da decisão recorrida.
+No caso dos autos, a parte não se insurge, de forma específica, quanto ao primeiro fundamento constante do acórdão recorrido. Das razões do apelo, dessume-se que o recorrente dirige sua argumentação contra a decisão combatida pela via do mandamus, e não contra os fundamentos do acórdão objurgado. Dessa forma, descumprido este ônus que se impõe àquele que busca desconstituir uma decisão judicial na via recursal, o seu apelo não será conhecido por irregularidade formal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. O recurso ordinário em mandado de segurança, como espécie recursal que é, reclama, para sua admissibilidade, a fiel observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros - de procedimento ou de aplicação do direito - que justificam a reforma do acórdão recorrido, não bastando, para isso, a simples insatisfação com a denegação da ordem.
+2. Nas hipóteses em que as razões do recurso não infirmam especificamente os fundamentos do acórdão recorrido, nos capítulos em que é impugnado, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência dos art. 932, III, do CPC e 34, XVIII, "a", do RISTJ.
+3. Agravo interno não provido (AgInt no RMS 41.710/BA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 26/3/2018).
+ADMINISTRATIVO. CONCURSO. NOMEAÇÃO. CUMPRIMENTO INDIVIDUAL DA SENTENÇA POR MANDADO DE SEGURANÇA. FUNDAMENTO NÃO IMPUGNADO. DEFICIÊNCIA DA FUNDAMENTAÇÃO.
+I - Conforme corretamente explicitado pelo i. membro do parquet federal, o recorrente deixou de atacar o fundamento da decisão recorrida, que no caso se circunscreveu à inadequação da via eleita para postular o cumprimento individual de sentença havida em sede de ação civil pública, limitando-se a afirmar que o Tribunal a quo deveria ter analisado os outros fundamentos do pedido.
+II - Por esta razão, o recurso padece de irregularidade formal e ofende o princípio da dialeticidade, fato que impede o exame de seu mérito, conforme entendimento dessa Corte Superior. Neste sentido: AgInt no RMS 52.344/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/03/2017, DJe 17/03/2017; AgInt no RMS 47.395/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+III - Agravo interno improvido (AgInt no RMS 53.297/GO, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 9/4/2018).
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
