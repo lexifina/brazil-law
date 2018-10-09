@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] e IGOR GRAZIANO DE TOLEDO contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu medida urgente de igual natureza.
+Consta dos autos que os Pacientes foram presos em flagrante em 16/09/2018, com posterior conversão em preventiva, como incursos no art. 33 da Lei n.º 11.343/2006, por trazerem consigo 38 eppendorfs de cocaína (29 gramas) e 1 porção de maconha (31 gramas).
+Sustenta o Impetrante, em síntese, ser inidônea a fundamentação da decisão que decretou a prisão preventiva, por não ter sido demonstrado nenhum dos requisitos previstos no art. 312 do Código de Processo Penal.
+Argumenta, ainda, que os Pacientes possuem condições pessoais favoráveis à concessão da liberdade provisória.
+Requer liminar para que seja superado o enunciado da Súmula n.º 691/STF, com revogação da custódia cautelar.
+É o relatório.
+Decido.
+O entendimento firmado pelo Supremo Tribunal Federal e por este Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado no Verbete Sumular n.º 691/STF: "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar", aplicável, mutatis mutandis, a este Superior Tribunal de Justiça, v.g: HC 117.440/PE, Quinta Turma, Rel. Min. JORGE MUSSI, DJ de 21/06/2010; HC 142.822/SP, Quinta Turma, Rel. Min. ARNALDO ESTEVES LIMA, DJ de 07/12/2009; HC 134.390/MG, Sexta Turma, Rel. Min. OG FERNANDES, DJ de 31/08/2009.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, subvertendo a regular ordem do processo.
+No caso, não verifico teratologia na decisão que converteu a prisão em flagrante em prisão preventiva, pois foi expressamente ressaltada a gravidade concreta do crime, consubstanciada na variedade das drogas apreendidas (fl. 134), a revelar, ao menos em juízo sumário de cognição, que a custódia está amparada na garantia da ordem pública (art. 312 do CPP).
+Diante do que registrado acima - em que não se observa, ao menos primo ictu oculi, nenhuma teratologia -, não há como se reconhecer, de plano, ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Destaco que, não havendo notícia de que o Tribunal a quo tenha procedido ao exame meritório, reserva-se primeiramente àquele órgão a apreciação da matéria ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte a quo, mormente se o writ está sendo regularmente processado.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
