@@ -1,0 +1,29 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR AUTÁRQUICO APOSENTADO. RECÁLCULO DO ADICIONAL DE INSALUBRIDADE. NÃO OCORRÊNCIA DA PRESCRIÇÃO DE FUNDO DE DIREITO. PRESTAÇÃO DE TRATO SUCESSIVO. SÚMULA 85 DO STJ. RECURSO ESPECIAL DO DEPARTAMENTO DE ESTRADAS DE RODAGEM A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+SERVIDOR AUTÁRQUICO APOSENTADO - Adicional de insalubridade - Direito à percepção, decorrente da Lei Complementar 432/1985, não questionado - Fato da atividade de risco, igualmente, incontroverso - Pretendido pronunciamento da prescrição, inadmissível, por inequívoco o fundo de direito - Relação jurídica de sucessividade, prescritas as parcelas anteriores a cinco anos da propositura da ação - Súmula 85, do Superior Tribunal de Justiça - Procedência, em parte - Improvimento da apelação e da remessa para reexame (fls. 175).
+2. Nas razões do Recurso Especial, alega ofensa aos arts. 1o. do Decreto 20.910/1932; e 2o. do Decreto-Lei 4.597/1942, ao argumento de que houve a prescrição do fundo do direito quanto ao pleito de pagamento do adicional de insalubridade, porquanto o lapso temporal entre a concessão da aposentadoria e a propositura da demanda remonta aproximadamente 12 anos.
+3. É o relatório do essencial.
+4. Na hipótese dos autos o Tribunal de origem consignou:
+Incide a Súmula 85, do Superior Tribunal de Justiça:
+Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação.
+(..).
+Havendo o requerente desempenhado, por mais de um qüinqüênio, atividade exercida sob condições especiais, propícias a lhe prejudicar a saúde ou a integridade física, inequivocamente, faz jus à percepção do benefício. A restrição cinge-se aos cinco anos anteriores à propositura da ação (Decreto-lei 20.910/1932 e Decreto-lei 4.597/1942, artigo 2o.). De trato sucessivo, a relação jurídico-material instaurada, a prescrição alcança, exclusivamente, as parcelas anteriores aos cinco anos, contados do ajuizamento do feito. Desimportante, destarte, o lapso de tempo entre a aposentadoria e a data em que aforada esta ação, de aproximadamente doze anos (fls. 176/178).
+5. Sobre o tema, é firme a jurisprudência desta Corte de que, nos casos em que a pretensão envolve o pagamento de vantagem pecuniária, por se tratar de prestações de trato sucessivo que se renovam mensalmente, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ. A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. SERVIDOR PÚBLICO. REVISÃO DO ADICIONAL POR TEMPO DE SERVIÇO. PRESCRIÇÃO. NÃO OCORRÊNCIA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação jurisprudencial do STJ declara a não ocorrência da prescrição do fundo de direito nas lides relacionadas ao pagamento de adicionais por tempo de serviço e da sexta-parte.
+2. Agravo interno não provido (AgInt no REsp. 1624699/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 19.2.2016).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APOSENTADOS E PENSIONISTAS DA FEPASA. SEXTA-PARTE. PRESCRIÇÃO DO FUNDO DE DIREITO NÃO CONFIGURADA. RELAÇÃO DE TRATO SUCESSIVO . SÚMULA 83/STJ. INCIDÊNCIA.
+I - Esta Corte orienta-se no sentido de que não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento da parcela denominada sexta parte, devida a aposentados e pensionistas do Estado de São Paulo, mas, tão somente, das parcelas vencidas antes do quinquênio que precedeu à propositura da ação, por tratar-se de ato omissivo da Administração e ausente a negativa expressa do direito pleiteado, incidindo a orientação contida na Súmula 85/STJ.
+II -  O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula 83/STJ.
+III - A Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+IV - Agravo Regimental improvido (AgRg no AREsp. 204.460/SP, Rel. Min. REGINA HELENA COSTA, DJe 1o..3.2016).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POLICIAIS MILITARES ATIVOS E INATIVOS E/OU PENSIONISTAS. ADICIONAL SEXTA-PARTE. REEXAME DE MATÉRIA FÁTICA. DESNECESSIDADE. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Deve ser rejeitada a tese de não conhecimento do recurso especial, uma vez que a questão trazida no apelo apresentado pelos autores, a respeito do prazo prescricional, não envolve fato controvertido e prescinde de análise do conjunto probatório constante dos autos, sendo inaplicável, ao caso, o óbice previsto na Súmula 7/STJ.
+2. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85 do STJ).
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.522.514/SP, Rel. Min. SÉRGIO KUKINA, DJe 25.9.2015).
+6. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM.
+7. Publique-se.
+8. Intimações necessárias.
