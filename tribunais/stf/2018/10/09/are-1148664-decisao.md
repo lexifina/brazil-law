@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Aracaju/SE contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de Sergipe, está assim ementado:
+    “APELAÇÃO CÍVEL – VENDA DE CIGARROS ACIMA DO PREÇO TABELADO PELO FABRICANTE – AUTO DE INFRAÇÃO QUE NÃO SE REVELA HÍGIDO – TABELAMENTO DO PREÇO DO CIGARRO – POSSIBILIDADE DO PODER EXECUTIVO FIXAR O PREÇO MÍNIMO DE VENDA – INTELIGÊNCIA DO ART. 20 DA LEI Nº 12.546/11 QUE DISPÕE SOBRE O IPI – ART. 220, §§ 1º E 2º DO DECRETO FEDERAL Nº 7.212/10 QUE APARENTEMENTE COMPROMETE A LIVRE INICIATIVA E EXTRAPOLA DO SEU PODER REGULAMENTAR – REFORMA DA SENTENÇA – RECURSO CONHECIDO E PROVIDO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, a decisão impugnada em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Lei nº 12.546/11 e Decreto Federal nº 7.212/2010), o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido pela parte ora agravante, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos  fático-probatórios:
+    “Voltando os olhos para o caso em tela, verifico que a Apelante se insurge contra a conduta do Coordenador de Fiscalização do Procon Municipal de Aracaju, o qual efetuou diversas autuações, conforme autos de infração acostados às fls. 33/37, em virtude de não ter sido observado o tabelamento do preço mínimo do cigarro nos estabelecimentos comerciais do recorrente.
+    Entretanto, anoto que não há motivos para tais autuações. Ora, o art. 20 da Lei nº 12.546/11, o qual dispõe, dentre outras coisas, sobre o IPI, estabelece que o Poder Executivo poderá fixar preço mínimo de venda do cigarro:
+    ‘Art. 20. O Poder Executivo poderá fixar preço mínimo de venda no varejo de cigarros classificados no código 2402.20.00 da Tipi, válido em todo o território nacional, abaixo do qual fica proibida a sua comercialização.’ (…)
+    Logo, a determinação legal é no sentido do estabelecimento de preço mínimo e não de preço máximo. Aliás, tal interpretação é a que melhor se coaduna com o espírito da norma, a qual foi instituída com vistas a efetuar uma maior tributação do produto, em virtude dos malefícios que são causados à saúde dos seus consumidores.
+    Não olvido do teor dos parágrafos 1º e 2º do art. 220 do Decreto Federal nº 7.212/10, o qual estabelece que os comerciantes deveriam observar a tabela fornecida pelo fabricante quando da venda do cigarro:
+    …...................................................................................................
+    Ocorre que além de tal decreto ser anterior à Lei nº 12.546/11, o mesmo, aparentemente, compromete a livre iniciativa, além de extrapolar do seu poder de apenas regulamentar a cobrança, fiscalização, arrecadação e administração do IPI. (...).
+    …...................................................................................................
+    Tenho, portanto, que diante do exposto no art. 20 da Lei nº 12.546/11 faz-se presente para concessão da segurança.”
+    Vê-se, portanto, que a pretensão deduzida pela parte agravante revela-se processualmente inviável.
+    Sendo assim, tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 09 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
