@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado por [NOME] em seu favor, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA MILITAR DO ESTADO DE SÃO PAULO, que não conheceu do writ lá impetrado.
+Narra o impetrante que respondeu a processo administrativo de apuração de transgressão disciplinar militar por ter "na função de instrutor e estágio operacional probatório de ingresso de sargentos recém-formados no 2o BAEP, em fevereiro de 2015, praticado condutas que afrontaram normatizações institucionais, ao denominar os discentes por meio de números, em desacordo com a Ordem de Serviço nº [NOME], consoante o apurado no" PI nº CORREGPM- 366/170/205" (e-STJ fl. 02).
+Afirma que, ao final, foi determinada a aplicação da sanção de 01 (um) dia de permanência disciplinar, que foi mantida após recurso hierárquico.
+Impetrado habeas corpus perante a Auditoria Militar do Estado de São Paulo, a liminar foi indeferida, o que ensejou a impetração de novo writ perante o Tribunal de Justiça Militar do Estado de São Paulo.
+Não conhecida a ordem pelo Desembargador relator - ao argumento de inadequação da via eleita por ser substitutivo de recurso judicial adequado - busca o impetrante com o presente habeas corpus impedir a execução da sanção privativa de liberdade, bem com o regular processamento do writ impetrado no Tribunal de origem.
+Aduz ilegalidade no procedimento militar pelos seguintes motivos: a) ofensa aos princípios do contraditório e ampla defesa, por não terem sido apontadas as testemunhas na exordial acusatória; b) ausência de fundamentação da decisão que dispensou a manifestação preliminar da autoridade competente; c) ausência de motivação do despacho que delegou a realização da audiência de instrução e julgamento; d) inexistência de justificativa para exasperação da sanção; e e) invalidade do ato disciplinar por não ter sido aprovado por autoridade hierárquica superior.
+Defende, por fim, a necessidade da concessão da medida liminar para conceder o salvo conduto, a fim de evitar a sua prisão administrativa.
+Passo a decidir.
+O processamento do feito afigura-se inviável.
+Com efeito, esta Corte, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, tem o entendimento de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+In casu, na ocasião do exame do pedido de liminar, o Desembargador Relator do Tribunal de Justiça Militar de São Paulo julgou extinto o writ originário sem resolução do mérito, por entender que a via eleita não seria a adequada, tendo em vista não se tratar de sucedâneo de recurso judicial próprio.
+Assim, como a matéria relacionada ao processo disciplinar não foi debatida na instância originária, não pode o Superior Tribunal de Justiça, em princípio, examiná-la sob pena de incorrer em supressão de instância.
+Quanto às demais alegações, cumpre destacar que a concessão do habeas corpus em sede de punição disciplinar castrense dá-se de modo excepcionalíssimo, tendo em vista a expressa disposição constitucional contra seu cabimento:
+Art. 142, § 2º Não caberá habeas corpus em relação a punições disciplinares militares.
+A excepcionalidade parte da premissa de que a punição disciplinar é ato administrativo e como tal torna-se passível de anulação apenas quando se mostrar eivado de vícios ou nos casos de manifesta teratologia. Nesse sentido:
+CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. CABIMENTO. ART. 142, § 2º, DA CONSTITUIÇÃO FEDERAL. PUNIÇÃO DISCIPLINAR MILITAR.
+1. Nos termos do art. 142, § 2º, da Constituição Federal, "não caberá habeas corpus em relação a punições disciplinares militares". A flexibilização dessa regra, na linha da orientação jurisprudencial firmada, ocorre somente no caso de alegação de vício formal do procedimento, situação inocorrente na espécie.
+2. Agravo desprovido. (AgInt RHC 70.421/BA, Rel. Min. ANTÔNIO SALDANHA PALHEIRO, Sexta Turma, DJe 08/05/2017).
+Some-se a isso a presunção de legitimidade de que gozam os atos administrativos, cuja desconstituição só é possível em juízo quando cabalmente demonstrada a sua nulidade (dos atos).
+In casu, observa-se que, no bojo do procedimento militar, houve decisão acerca do pedido de reconsideração (e-STJ fls. 124/133) e do recurso hierárquico (e-STJ fls. 153/167).
+Assim, diante da análise dos documentos carreados aos autos, não se verifica manifesta ilegalidade ou teratologia do ato impugnado, o que afasta o cabimento do habeas corpus. Nesse sentido: HC 277.051/DF, Min. Rel. SÉRGIO KUKINA, Primeira Turma, DJe 29/08/2013.
+Diante do exposto, com fundamento no art. 210 do RISTJ, INDEFIRO LIMINARMENTE o mandamus.
+Publique-se. Intimem-se.
