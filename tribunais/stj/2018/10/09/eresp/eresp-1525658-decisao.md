@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. NÃO IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional de Colonização e Reforma Agrária (INCRA) (e-STJ fls. 471-482), com arrimo na alínea "a" do permissivo constitucional, contra acórdão oriundo do TRF da Primeira Região, cuja ementa está consignada nos seguintes termos (e-STJ fl. 435):
+ADMINISTRATIVO. DESAPROPRIAÇÃO. AÇÃO DECLARATÓRIA DE PRODUTIVIDADE. IMÓVEL RURAL. FAZENDA TOCA DA RAPOSA. REFORMA AGRÁRIA. LAUDO OFICIAL. PRODUTIVIDADE. RESERVA LEGAL. LEI Nº 12.651/2012, INCISO I, LETRA "A". AVERBAÇÃO NO REGISTRO DE IMÓVEIS EM DATA POSTERIOR À VISTORIA ADMINISTRATIVA. SITUAÇÃO QUE NÃO DESCARACTERIZA A RESERVA LEGAL PREEXISTENTE. IMÓVEL PRODUTIVO. LEI Nº 8.629/93, ART. 6º, §§ 1º E 2º.
+1. A jurisprudência desta Casa tem evoluído no sentido de que as áreas de reserva legal, ainda que não averbadas às margens dos registros cartoriais, devem ser consideradas como não aproveitáveis, nos termos do inciso IV do art. 10 da Lei 8.629/93, desde que os proprietários assinem um Termo de Compromisso de Ajustamento de Conduta ou que haja confirmação da existência da respectiva área.
+2. No caso em exame, a averbação da área de reserva legal, ainda que efetivada em data posterior à vistoria administrativa, retrata situação fática preexistente, e deve ser reconhecida para efeito de análise da produtividade do imóvel.
+3. Há, na hipótese, proteção ao interesse público concernente à obediência à Constituição Federal.
+4. A Constituição não autoriza que a propriedade produtiva seja desapropriada por interesse social para fins de reforma agrária.
+5. Provimento à apelação da autora.
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 463).
+No bojo da presente irresignação especial, o recorrente sustenta violação dos arts. 16, I, § 8º, da Lei n. 4.771/1965, 10, IV, da Lei n. 8.629/1993 e 167, II, item 22, da Lei n. 6.015/197, ao argumento de que " ..  as provas dos autos indicam que não houve a averbação da área controversa como de reserva legal, portanto, não pode tal equivaler à "área inaproveitável" referida ao art. 10, IV, da Lei n. 8.629/93 porque não atendidos os requisitos postos pelo próprio ordenamento jurídico" (e-STJ fl. 476).
+Com contrarrazões.
+O recurso especial recebeu crivo positivo de admissibilidade no Tribunal a quo, razão pela qual os autos ascenderam ao STJ (e-STJ fls. 511-512).
+O Ministério Público Federal, atuando na qualidade custos legis, opinou pelo não provimento do apelo nobre (e-STJ fls.542-548).
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Preliminarmente, o recurso em apreço não merece ser conhecido.
+Deveras, a questão controvertida respeita saber se a averbação da área de reserva legal junto ao competente cartório de registro de imóveis pode ser efetivada após a vistoria administrativa do INCRA, a fim de que não seja levada em conta no cálculo de produtividade de imóvel rural que se pretende expropriar.
+Pois bem, o acórdão impugnado expressamente assentou que " ..  após a vistoria administrativa, ocorrida no período de 9 a 18 de dezembro de 2002, a proprietária providenciou a averbação da reserva legal, de fato existente no imóvel, mesmo que em momento posterior, ficando comprovada que a área de reserva legal já existia de fato por ocasião da vistoria, carecendo apenas de formalização" (e-STJ fl. 432). Ou seja, considerou válida a averbação da reserva legal em momento posterior à vistoria administrativa.
+Todavia, o INCRA, na razões do seu apelo nobre, em momento algum impugna esse fundamento, limitando-se a apenas devolver argumentação a respeito da imprescindibilidade de que a reserva legal seja averbada, para que a respetiva área não seja considerada no cálculo de produtividade do imóvel. Dessarte, a ausência de impugnação específica do fundamento em questão é suficiente para manter hígido o acórdão impugnado, ensejando a aplicação da Súmula n. 283/STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Isso posto, não conheço do recurso especial.
+Publique-se. Intimem-se
