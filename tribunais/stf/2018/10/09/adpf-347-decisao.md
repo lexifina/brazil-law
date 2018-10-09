@@ -1,0 +1,13 @@
+Petição/STF nº 63.055/2018 (eletrônica)
+DECISÃO
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL – INTERVENÇÃO DE TERCEIRO – INDEFERIMENTO.
+    1. O assessor Dr. Eduardo Ubaldo Barbosa prestou as seguintes informações:
+    O Partido Socialismo e Liberdade – PSOL busca, por meio desta arguição de descumprimento de preceito fundamental, com pedido de liminar, seja reconhecida a figura do estado de coisas inconstitucional relativamente ao sistema penitenciário brasileiro. Pede a adoção de providências estruturais em face de lesões a direitos fundamentais dos presos, que alega decorrerem de ações e omissões dos Poderes Públicos da União, dos Estados e do Distrito Federal.
+    O Instituto de Defensores de Direitos Humanos – DDH, mediante peça subscrita por profissional da advocacia regularmente credenciado, requer o ingresso na qualidade de terceiro interessado. Sustenta ter como objetivo a promoção e a defesa dos direitos humanos, enfatizando a representatividade e a relevância da instituição. Destaca a atuação na assistência judicial gratuita a cidadãos vulneráveis e hipossuficientes e na promoção de medidas objetivando a concretização dos direitos humanos. Afirma a importância da admissão de terceiros para o enriquecimento da discussão no Supremo. Tece considerações a respeito da precariedade do sistema carcerário brasileiro, articulando com a relevância da atuação do Tribunal para minimizar as recorrentes violações de garantias fundamentais.
+    2. A regra é o indeferimento da intervenção de terceiros no processo de arguição de descumprimento de preceito fundamental. A exceção corre à conta de parâmetros a demonstrarem a relevância da matéria e a representatividade do terceiro, quando, por decisão irrecorrível, mostra-se possível a manifestação de órgãos ou entidades – artigo 7º da Lei nº 9.868, de 10 de novembro de 1999.
+    O Instituto de Defensores de Direitos Humanos – DDH, embora demonstre possuir finalidades institucionais de alguma forma ligadas ao objeto desta arguição, não evidenciou a aptidão a contribuir de maneira efetiva para a análise do tema, sobretudo considerado o ingresso, com similar representatividade, do Instituto Pro Bono, do Instituto Brasileiro de Ciências Criminais – IBCCRIM, do Instituto de Defesa do Direito de Defesa e da Conectas Direitos Humanos. O ingresso da entidade não trará o objetivo da intervenção, que é o esclarecimento da questão, conduzindo, ao contrário, a quadro de tumulto processual, tendo em vista as instituições de mesma natureza já admitidas na qualidade de terceiras.
+    3. Indefiro o pedido. Devolvam a petição e os documentos que a acompanham à requerente.
+    4. Publiquem.
+Brasília, 9 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
