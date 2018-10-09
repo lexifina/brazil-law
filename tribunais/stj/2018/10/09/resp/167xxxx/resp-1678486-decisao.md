@@ -1,0 +1,36 @@
+DECISÃO
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. HABILITAÇÃO DOS HERDEIROS. ABERTURA DO INVENTÁRIO. DESNECESSIDADE. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio Tribunal Regional Federal da 2a. Região, assim ementado:
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - PRECATÓRIO DEPOSITADO - ÓBITO DA PARTE AUTORA - SUCESSÃO CAUSA MORTIS - HERDEIROS LEGÍTIMOS E TESTAMENTÁRIOS - ARTS. 1.784 E 1.791 DO CÓDIGO CIVIL DE 2002 - LEGITIMIDADE AD CAUSAM ATIVA ORDINÁRIA - ARTS 41 E 43 DO CÓDIGO DE PROCESSO CIVIL - HABILITAÇÃO - ARTS. 1.055 E SEGUINTES DO CPC - ALEGAÇÃO DE SUPOSTO ENRIQUECIMENTO ILÍCITO DE TERCEIROS - INSUFICIENTE - RAZÕES NÃO ABALAM O DECISUM.
+- Na eventual morte do beneficiário do pagamento de precatório, ocorre, do ponto de vista material, por se tratar de direito transmissível e não personalíssimo, a aquisição derivada translatícia do direito de percepção daquela quantia certa e, mais precisamente, a modificação subjetiva desse direito, na forma de sucessão causa mortis, quando o(s) herdeiro(s) legítimo(s) e testamentário(s) do de cujus passa(m) a ser titular(es) daquele direito, por força da teoria da saisine, consagrada nos arts. 1.784 e 1.791 do CC/2002 (que vieram a substituir o art. 1.572 do CC/1916), tornando-se, portanto, o(s) beneficiário(s) daquele pagamento.
+- Do ponto de vista processual, aquele(s) também passa(m) a revelar legitimidade ad causam ativa ordinária, ou seja, pertinência subjetiva para pleitear interesse próprio em nome próprio, a partir do fenômeno da sucessão processual, autorizada pelos arts. 41 e 43 do CPC  inconfundível com o da substituição processual, autorizada pelos arts. 6º e 42, § 1º, desse Codex, dentre outras regras presentes na legislação extravagante  , como reflexo da sucessão causa mortis anteriormente descrita, que se instrumentaliza no procedimento da habilitação, normatizado nos arts. 1.055 e ss. do mesmo.
+- Eventuais questões acerca da final destinação daquele valor depositado pelos novos beneficiários poderão ser resolvidas no oportuno processo (judicial ou administrativo) de inventário (ainda que negativo) e partilha, que disponibiliza a aplicação de instrumentos próprios destinados a garantir a efetividade do direito de herança a todos os titulares do mesmo, os quais, pelo presente conjunto probatório, reduzem-se in casu na pessoa dos próprios agravantes.
+- Argumentos deduzidos em agravo interno não abalam razões de decidir.
+- Agravo interno não provido (fls. 54).
+2. Nas razões de seu Apelo Nobre, a parte recorrente alega violação do art. 43 do CPC/1973, ao argumento de que a substituição da parte que faleceu no âmbito da execução deve ser feita pelo espólio, não se admitindo a habilitação dos sucessores.
+3. Sobreveio juízo positivo de admissibilidade (fls. 78/79).
+4. É o relatório.
+5. A questão controvertida cinge-se em definir se a substituição da parte que faleceu no âmbito da execução deve ser feita pelo espólio, ou se ingresso dos sucessores se mostra suficiente.
+6. Acerca do tema, o Tribunal de origem concluiu que:
+Note-se que a decisão monocrática, proferida por esta Relatoria, deu provimento ao recurso de agravo de instrumento por constatar, conforme a certidão de óbito (fl. 08), que a Srª Agnália de Souza Batista e seus filhos se tornaram aptos a serem sucessores processuais, passando a titulares do direito de percepção daquela quantia certa, sem a necessidade, para esse fim, de inauguração de processo (judicial ou administrativo) de inventário (ainda que negativo) e partilha.
+Ressaltou-se, ainda que, por se tratar de processo iniciado a mais de quinze anos, deve ser, de modo a finalmente se garantirem a satisfação da pretensão como resultado da fase de execução, de forma simples e correta, determinado o ajustamento da titularidade da conta bancária, não mais em favor do falecido, mas sim, agora, em favor de seus sucessores legítimos, ou ao menos a expedição de alvará de levantamento em favor dos mesmos (fls. 53).
+7. Veja-se que a conclusão firmada no acórdão combatido se alinha ao entendimento desta Corte Superior de que os herdeiros são legitimados para pleitearem direitos transmitidos pelo falecido, não se mostrando imprescindível a abertura do inventário. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. SUCESSÃO. HERDEIROS. HABILITAÇÃO. ABERTURA DE INVENTÁRIO. DESNECESSIDADE. PRECEDENTES DO STJ.
+1. Considera-se regular a representação ativa do espólio quando a viúva e todos os herdeiros se habilitam pessoalmente em juízo, independentemente de nomeação de inventariante quando o inventário já tenha se encerrado ou não exista (REsp 554.529/PR, Rel. Ministra Eliana Calmon, DJ 15/8/2005).
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 669.686/RS, Rel. Min. SÉRGIO KUKINA, DJe 1.6.2015).
+
+PROCESSUAL CIVIL - EMPRÉSTIMO COMPULSÓRIO - REPETIÇÃO DE INDÉBITO - MORTE DO TITULAR DO DIREITO - REPRESENTAÇÃO DO ESPÓLIO EM JUÍZO - LEI 6.858/80.
+1. A Lei 6.858/80, ao exigir a apresentação da certidão de habilitação dos herdeiros na Previdência Social para pleitear levantamento de valores não recebidos em vida pelo de cujus, somente se aplica à via administrativa.
+2. Considera-se regular a representação ativa do espólio quando a viúva e todos os herdeiros se habilitam pessoalmente em juízo, independentemente de nomeação de inventariante quando o inventário já tenha se encerrado ou não exista.
+3. Recurso especial improvido (REsp. 554.529/PR, Rel. Min. ELIANA CALMON, DJ 15.8.2005, p. 242).
+
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC/73. INOCORRÊNCIA. EXECUÇÃO DE SENTENÇA. HERDEIROS. HABILITAÇÃO. ABERTURA DE INVENTÁRIO. DESNECESSIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual, para habilitação dos herdeiros no processo de execução, é desnecessária a abertura do inventário.
+IV - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+V - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido (AgInt no REsp. 1.600.735/PR, Rel. Min. REGINA HELENA COSTA, DJe 5.9.2016).
+8. Ante o exposto, nega-se provimento ao Recurso Especial da UNIÃO.
+9. Publique-se.
+10. Intimações necessárias.
