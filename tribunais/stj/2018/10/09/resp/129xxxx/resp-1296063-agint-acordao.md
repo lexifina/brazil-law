@@ -1,0 +1,111 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Primeira Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas a seguir, prosseguindo o julgamento, após o voto-vista do Sr. Ministro Sérgio Kukina, por maioria, vencido o Sr. Ministro Napoleão Nunes Maia Filho, não conhecer do agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Gurgel de Faria, Benedito Gonçalves (voto-vista) e Sérgio Kukina (voto-vista) (com a ressalva do seu ponto de vista) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de Agravo Interno interposto contra a decisão que negou seguimento ao Recurso Especial, fundamentada na ausência de omissão e na incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+Sustenta o Agravante, em síntese, que a condenação por dano moral é exorbitante.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 515e).
+É o relatório.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Da leitura do agravo interno, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que a ausência de omissão não foi combatida nas razões do presente recurso, incidindo, portanto, a Súmula n. 182 desta Corte: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, o entendimento jurisprudencial consagrado na Súmula n. 182/STJ, segundo o qual compete à Agravante, sob pena de não conhecimento do agravo, impugnar especificamente os fundamentos da decisão hostilizada, consoante julgados cujas ementas transcrevo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇO. FORNECIMENTO DE ENERGIA ELÉTRICA. COBRANÇA INDEVIDA. INOCORRÊNCIA DE SUCUMBÊNCIA RECÍPROCA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESSA CORTE. SÚMULA 83/STJ. DOCUMENTAÇÃO NOS AUTOS. REVISÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. A ORA AGRAVANTE DEIXOU DE IMPUGNAR O ÓBICE DA SÚMULA 83/STJ. APLICAÇÃO DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. Com relação aos honorários advocatícios, o Tribunal de origem concluiu que a parte ora agravada decaiu de parte mínima do pedido.
+3. O acolhimento das alegações deduzidas no Apelo Nobre demandaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7/STJ.
+4. O Acórdão recorrido está em conformidade com a jurisprudência dessa Corte, incidência da Súmula 83/STJ.
+5. A agravante deixou de impugnar o óbice da Súmula 83/STJ.
+Aplicação da Súmula 182/STJ.
+6. Agravo Regimental não conhecido.
+(AgRg no AREsp 731.396/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/03/2016, DJe 28/03/2016)
+TRIBUTÁRIO E PROCESSUAL CIVIL. ÓBICE DA SÚMULA 182 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. RECURSO REPETITIVO. SOBRESTAMENTO DO FEITO.
+1. Não se conformando com a decisão, a recorrente interpôs Agravo repetindo os argumentos expostos no Recurso Especial; contudo, não impugnou de maneira eficiente todas as razões do decisum - em especial a aplicação da Súmula 182 do STJ.
+2. É inviável o Agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182/STJ.
+3. É pacífico o entendimento no STJ de que, escolhido o Recurso Especial para ser julgado no rito dos repetitivos (art. 543-C do CPC), não haverá sobrestamento dos recursos que tramitam no STJ. AgRg nos EDcl nos EREsp 1352046/RS, Rel. Ministro Sidnei Beneti, Corte Especial, DJe 3/2/2014.
+4. Agravo Regimental não conhecido.
+(AgRg nos EDcl no AREsp 734.905/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/12/2015, DJe 05/02/2016)
+Ademais, a necessidade de impugnação aos fundamentos da decisão agravada está expressamente disposta no art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil de 2015.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1311383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016, destaque meu).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016, destaque meu).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPETRAÇÃO DE MANDADO DE SEGURANÇA. COMPETÊNCIA ORIGINÁRIA. PRIMEIRO GRAU DE JURISDIÇÃO. DENEGAÇÃO. INTERPOSIÇÃO DE APELAÇÃO. DESPROVIMENTO. IMPUGNAÇÃO POR VIA DE RECURSO ORDINÁRIO. DESCABIMENTO MANIFESTO. HIPÓTESE INADEQUADA. RECORRIBILIDADE. RECURSO ESPECIAL. NÃO CONHECIMENTO. IMPOSSIBILIDADE. DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. JURISPRUDÊNCIA SEDIMENTADA. AGRAVO INTERNO. CARÁTER DE MANIFESTA IMPROCEDÊNCIA. COMINAÇÃO DE MULTA.
+1. A denegação do mandado de segurança mediante julgamento proferido originariamente por Tribunal de Justiça ou por Tribunal Regional Federal desafia recurso ordinário, na forma do art. 105, inciso II, alínea "b", da Constituição da República.
+2. No entanto, quando impetrada a ação de mandado de segurança em primeiro grau de jurisdição e instada a competência do Tribunal local apenas por via de apelação, o acórdão respectivo desafia recurso especial, conforme o disposto no art. 105, inciso III, da Constituição da República.
+3. Dessa forma, a interposição do recurso ordinário no lugar do recurso especial constitui erro grosseiro e descaracteriza a dúvida objetiva. Precedentes.
+4. O agravo interno que se volta contra essa compreensão sedimentada na jurisprudência e que se esteia em pretensão deduzida contra texto expresso de lei enquadra-se como manifestamente improcedente, porque apresenta razões sem nenhuma chance de êxito.
+5. A multa aludida no art. 1.021, §§ 4.º e 5.º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas.
+6. Agravo interno não provido, com a condenação do agravante ao pagamento de multa de cinco por cento sobre o valor atualizado da causa, em razão do reconhecimento do caráter de manifesta improcedência, a interposição de qualquer outro recurso ficando condicionada ao depósito prévio do valor da multa.
+(AgInt no RMS 51.042/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/03/2017, DJe 03/04/2017, destaque meu).
+No caso, não obstante o não conhecimento do Agravo Interno, não configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Ante o exposto, NÃO CONHEÇO do presente agravo interno.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO, ACOMPANHANDO A RELATORA, SENHORA MINISTRA REGINA HELENA COSTA
+VOTO-VISTA
+O SENHOR MINISTRO BENEDITO GONÇALVES: Trata-se agravo interno interposto contra decisão singular da senhora Ministra Regina Helena Costa (relatora do feito), a qual negou seguimento ao recurso especial, com os fundamentos da não ocorrência de violação do art. 535 do CPC/1973 e da incidência da Súmula n. 7/STJ.
+No bojo do agravo interno, a agravante sustenta, em suma, ser exorbitante o valor da condenação por dano moral.
+Sem impugnação.
+A senhora relatora está propondo não conhecer do agravo interno por força do óbice contido na Súmula n. 182/STF, sob argumento de que a agravante não impugnou, objetivamente, os fundamentos da decisão agravada. Confira-se:
+Da leitura do agravo interno, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que a ausência de omissão não foi combatida nas razões do presente recurso, incidindo, portanto, a Súmula n. 182 desta Corte: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, o entendimento jurisprudencial consagrado na Súmula n. 182/STJ, segundo o qual compete à Agravante, sob pena de não conhecimento do agravo, impugnar especificamente os fundamentos da decisão hostilizada  ..
+Na sessão do dia 12/12/2017, solicitei vista dos autos.
+É o relatório.
+Após exame da questão da controvertida, devo expor que acompanho a senhora relatora, conforme os fundamentos de direito a seguir explicitados.
+Nos termos do art. 1.021, § 1º, do CPC/2015, nas razões do agravo interno, a parte deve infirmar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento do recurso.
+A decisão agravada está fundamentada na não ocorrência de violação do art. 535 do CPC/973 e na incidência da Súmula n. 7/STJ.
+Das razões da presente irresignação, infere-se que a ora agravante não impugnou tal assertiva, limitando-se a devolver a questão de fundo à análise da 1ª Turma, no sentido de que é exorbitante a quantia fixada a título de danos morais pela Corte de origem.
+Assim, a falta de impugnação específica aos fundamentos da decisão agravada acarreta o não conhecimento do recurso, incidindo o óbice da Súmula 182/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO RECURSAL. DESCABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. A modificação do pedido veiculado no apelo nobre relativo ao termo inicial dos juros de mora configura inovação recursal, incabível nesta fase, em razão da preclusão consumativa.
+2. Conforme reiterada jurisprudência desta Corte de Justiça, codificada no § 1º do art. 1.021 do novo Diploma de Processo Civil, o agravante deve infirmar, no agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+3. Agravo interno não conhecido (AgInt no AREsp 155.117/SP, Rel. Ministro Gurgel de Faria, Primeira Turma,DJe 29/8/2016).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PETIÇÃO DE AGRAVO INTERNO. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Na espécie, a agravante não impugnou o fundamento adotado na decisão agravada, no sentido de que o agravo em recurso especial não poderia ser conhecido ante a falta de impugnação aos fundamentos adotados na decisão proferida pelo Presidente do Tribunal a quo que negou seguimento ao seu recurso especial. Desse modo, a pretensão à reconsideração não pode ser conhecida, em observância da Súmula 182/STJ.
+3. Agravo interno não conhecido (AgInt no AREsp 882.607/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/5/2016).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. Agravo interno não conhecido, com aplicação de multa (AgInt no AREsp 825.386/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 27/5/2016).
+Ante o exposto, não conheço do agravo interno, acompanhando a relatora, senhora Ministra Regina Helena Costa.
+É como voto.
+VOTO-VENCIDO
+(MINISTRO NAPOLEÃO NUNES MAIA FILHO)
+1. Senhora Presidente, esta é uma matéria muito delicada. Trata-se de uma ofensa a uma Juíza, praticada pela OAB/RS, segundo a alegação constante dos autos.
+2. Entendo os óbices regimentais levantados por Vossa Excelência e acolhidos também pelos Ministros BENEDITO GONÇALVES e GURGEL DE FARIA, mas penso que seria mais pacificador das coisas se houvesse uma decisão pelo mérito, porque, caso o recurso não seja conhecido, ficará fixada a indenização de 200 salários mínimos decidida pelo Tribunal de origem, o equivalente, aproximadamente, a R$ 200.000,00. Ou seja, é uma diferença extremada, visto que o Juíz Federal, em decisão anterior, estabelecera a condenação em R$ 5.000,00.
+3. Assim, manifesto-me, com todo o respeito a Vossa Excelência e aos Ministros aqui presentes, pelo conhecimento do Agravo Interno para resolução do mérito.
+4. É como voto.
+VOTO-VISTA
+O SENHOR MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto pela Ordem dos Advogados do Brasil - Seção do Rio Grande do Sul (fls. 500/512), desafiando decisão monocrática de lavra da ilustre Ministra Regina Helena Costa, que afastou a suscitada afronta ao art. 535 do CPC/73 e não conheceu do recurso especial no que se refere aos arts. 103, 320, II, do CPC/73, 7º, XVII e 18 do Estatuto da Advocacia, por compreender que a reforma do acórdão recorrido esbarra no óbice contido na Súmula 7/STJ.
+A culta relatora, por compreender que as alegações trazidas pela OAB/RS deixaram de impugnar o fundamento adotado na decisão agravada, no que afastou a apontada violação ao art. 535, II, do CPC/73, encaminha seu voto pelo não conhecimento do agravo interno, mercê da incidência da Súmula 182/STJ.
+O Ministro Benedito Gonçalves, após tomar vista dos autos, em judicioso voto, acompanhou a relatora, também na compreensão de que o agravo interno não reúne condições para ser conhecido, ante a aplicação da Súmula 182/STJ, no que foi igualmente acompanhado pelo Ministro Gurgel de Faria.
+Na sequência de votos, o Ministro Napoleão Nunes Maia Filho inaugurou a divergência, compreendendo pela desnecessidade da impugnação de capítulo autônomo da decisão agravada.
+Para examinar mais de perto a questão, e em especial a apontada aplicação do óbice previsto no referido verbete 182, pedi vista dos autos.
+É o relatório.
+Em recente decisão, a Corte Especial do Superior Tribunal de Justiça, na assentada de 19 de setembro de 2018, ao julgar os EAREsp"s 701.404/SC e 831.326/SP (acórdãos pendentes de publicação), firmou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+Em tal contexto - e com a ressalva de meu pessoal e diverso entendimento (sobre ser possível o emprego do recurso parcial), acompanho a relatora para não conhecer do agravo interno, porquanto a OAB/RS deixou de empreender combate a todos os outros fundamentos declinados na monocrática para rejeitar os demais capítulos autônomos de seu especial apelo (sem expressa desistência quanto a tais pontos), limitando-se a impugnar, apenas, a incidência do óbice contido na Súmula 7/STJ.
+É como voto.
