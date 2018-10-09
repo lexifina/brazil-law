@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PLANO DE SEGURIDADE SOCIAL. OFENSA AO ART. 1.022 DO CÓDIGO FUX CARACTERIZADA. RETORNO DOS AUTOS À ORIGEM. RECURSO ESPECIAL DA UNIÃO PARCIALMENTE PROVIDO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE REGIMENTAL. SERVIDOR PÚBLICO. PLANO DE SEGURIDADE SOCIAL. PSS. DIFERENÇAS REMUNERATÓRIAS. RPV.
+A incidência de contribuição ao Plano de Seguridade Social - PSS sobre verba recebida de forma acumulada, por força de condenação judicial, decorre de imposição legal, sendo devida sua retenção no momento do pagamento por meio de precatório/RPV (fls. 235).
+2. Opostos Embargos de Declaração, foram eles parcialmente acolhidos para fins de prequestionamento.
+3. Nas razões do Recurso Especial, alega ofensa aos arts. 1.022, 82, 84, 85 e 535, III e IV do Código Fux; 20, §§ 3o. e 4o., 741, II e V do CPC/1973; 35 da MP 449/2009, convertida na Lei 11.941/2009; e 16-A da Lei 10.887/2004, argumentando, em síntese: (a) omissão no acórdão recorrido; (b) que os honorários advocatícios fixados na execução devem incidir sobre o valor efetivamente devido e não sobre o valor total apresentado pelo exequente na execução; e (c) necessidade de retenção da contribuição previdenciária quando do pagamento do precatório ou RPV pelo regime de caixa e não de competência.
+4. É o relatório do essencial.
+5. Da análise dos autos, verifica-se que não foram apreciadas pela Corte de origem as questões suscitadas nos Embargos de Declaração, motivo pelo qual merece prosperar o Recurso Especial por violação ao art. 1.022 do Código Fux.
+6. Com efeito, nos Embargos de Declaração, foi expressamente solicitada a manifestação do Colegiado acerca da ocorrência de omissão quanto à alegação de que a base de cálculo da verba honorária deve incidir sobre o valor efetivamente requisitado.
+7. Entretanto, o Tribunal de origem entendeu que os Embargos de Declaração opostos pretendiam o reexame do Acórdão Recorrido, não havendo esclarecimento quanto aos pontos omissos, persistindo a irregularidade apontada.
+8. Assim, tendo o acórdão recorrido permanecido omisso, resta caracterizada a violação ao art. 1.022 do Código Fux, devendo ser anulado do acórdão proferido nos Embargos de Declaração, determinando-se o retorno dos autos ao Tribunal de origem para que analise as questões suscitadas.
+9. Ante o exposto, dá-se parcial provimento ao Recurso Especial interposto pela UNIÃO, para anular o acórdão proferido nos Embargos de Declaração, determinando o retorno dos autos ao Tribunal de origem para sanar os vícios acima expostos.
+10. Publique-se. Intimações necessárias.
