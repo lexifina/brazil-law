@@ -1,0 +1,38 @@
+EMENTA
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. DISPENSA ILEGAL DE LICITAÇÃO. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. COGNIÇÃO PROFUNDA E EXAURIENTE. DISCUSSÃO ACERCA DA VIABILIDADE DA ACUSAÇÃO SUPERADA. HABEAS CORPUS PREJUDICADO.
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] e LUIS WAGNER [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n.º 2021727-54.2018.8.26.0000).
+Consta nos autos que o Juízo de origem recebeu denúncia que imputa aos Pacientes a prática do crime previsto no art. 89, parágrafo único, da Lei n.º 8.666/93 (fl. 70).
+Inconformada, a Defesa impetrou habeas corpus na origem, objetivando trancar a ação penal, porém a ordem foi denegada (fls. 28-39).
+Nas razões deste mandamus, os Impetrantes alegam a existência de constrangimento ilegal sob o fundamento da inépcia da denúncia.
+Aduzem, nesse sentido, que a peça acusatória é genérica e, portanto, não descreveu quais as condutas praticadas pelos Pacientes que pudessem enquadrá-los no crime de dispensa de licitação, bem como que não ficou claro na imputação qual foi o prejuízo do Erário, elemento fundamental da tipicidade do delito imputado.
+Sustentam que os pacientes foram acusados somente porque são sócios da empresa, numa verdadeira responsabilização objetiva, e ressaltam que "a denúncia se filiou à reprodução lógica e literal do núcleo verbal do tipo penal definidor do crime imputado, sem conter qualquer descrição objetiva e concreta do fato criminoso que pudesse causar alguma aderência ao molde legal abstratamente aduzido" (fl. 12).
+Sustentam, na mesma linha, que a denúncia não resiste às exigências do art. 41 do CPP, porque dela não se extraem os elementos do tipo penal e os indícios da autoria e da materialização do crime, estando o processo maculado por patente falta de justa causa.
+Defendem, ainda, que a denúncia traz equívoco formal intransponível, porquanto não demonstrou o dolo específico, qual seja, a condescendência criminosa do particular em relação ao servidor público que realiza a dispensa de licitação, que, na hipótese, seria a comprovação de que os pacientes concorreram diretamente para a dispensa da licitação, sendo beneficiados diretamente, não valendo para tanto, a mera indicação de que foi a empresa da qual são responsáveis a contratada pela Administração Pública.
+Postulam, liminarmente, o sobrestamento da ação penal n.º 0007626-67.2016.8.26.0048, em trâmite na 2ª Vara Criminal da Comarca de Atibaia/SP. No mérito, pleiteiam que seja concedida a ordem para trancar a ação penal, tendo em vista a ausência de justa causa processual e a inépcia da denúncia.
+Liminar indeferida (fls. 792-795).
+Pedido de reconsideração indeferido (fls. 815-816).
+Informações prestadas às fls. 809-811 e 819-841.
+O Ministério Público Federal, em parecer da lavra da Dra. [NOME] C. [NOME], opinou pela denegação da ordem (fls. 844-853).
+É o relatório.
+Decido.
+Em consulta ao sistema de informações processuais do Tribunal de Justiça do Estado de São Paulo, observa-se que, em 28/08/2018, sobreveio sentença nos autos da ação penal n.º 0007626-67.2016.8.26.0048, a qual condenou os Pacientes nos seguintes termos:
+"Ante o exposto, JULGO PROCEDENTE a acusação movida em face de [NOME] TRICOLI, [NOME] e LUIS WAGNER BASSETO, qualificados nestes autos para, com fundamento no artigo 89, caput, da Lei nº 8.666/93, CONDENAR o réu [NOME], a cumprir, no regime aberto, a pena de 03 (três) anos de detenção e pagamento de 10 (dez) dias-multa, no valor unitário mínimo legal, e CONDENAR os réus [NOME] e LUIS WAGNER BASSETO, já qualificados nestes autos para, com fundamento no artigo 89, parágrafo único, da Lei nº 8.666/93, CONDENÁ-LOS a cumprir, no regime aberto, a pena de 03 (três) anos de detenção e pagamento de 10 (dez) dias-multa, no valor unitário mínimo legal." (Grifos diversos do original).
+ A superveniência de sentença penal condenatória, a qual constata, em cognição profunda e exauriente, a existência da autoria e da materialidade delitivas, bem como a tipicidade da conduta, torna prejudicada a discussão em torno da existência de justa causa para a ação penal, pois se encontra superada a análise da viabilidade da acusação.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA. NOVO TÍTULO. PERDA DO OBJETO. PRECEDENTES.
+1. A superveniente confirmação de decisum singular de relator pelo órgão colegiado supera eventual violação do princípio da colegialidade
+2. Segundo o entendimento do Superior Tribunal de Justiça, a superveniência de sentença prejudica o exame do pleito de trancamento da ação penal por inépcia da denúncia, em razão de sua cognição exauriente.
+3. Agravo regimental improvido." (AgRg no HC 346.037/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/05/2018, DJe 21/05/2018, sem grifos no original).
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. DENUNCIAÇÃO CALUNIOSA. TRANCAMENTO DA AÇÃO PENAL. SENTENÇA CONDENATÓRIA SUPERVENIENTE. ATIPICIDADE E INSUFICIÊNCIA PROBATÓRIA. NECESSIDADE DE REVOLVIMENTO DO CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM NÃO CONHECIDA.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. A jurisprudência desta Corte é segura no sentido que a superveniência de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia, haja vista a insubsistência do exame de cognição sumária, relativo ao recebimento da denúncia, em face da posterior sentença de cognição exauriente.
+  ..
+6. Habeas corpus não conhecido." (HC 310.191/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/02/2018, DJe 05/03/2018, sem grifos no original).
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRANCAMENTO DA PERSECUÇÃO PENAL E NULIDADE DA DECISÃO QUE CONFIRMA O RECEBIMENTO DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA. PREJUÍZO AO MÉRITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme quanto ao entendimento de que os pleitos de trancamento da persecução penal ou de nulidade da decisão que recebe ou ratifica o recebimento da exordial acusatória ficam prejudicados quando já há, como no caso concreto, sentença prolatada na origem.
+2. Incoerente analisar a mera higidez formal da acusação, a ausência de justa causa para o início da persecução penal ou a fundamentação lançada para o recebimento da denúncia, se a própria pretensão acusatória já foi acolhida, depois de uma análise vertical do acervo fático-probatório dos autos e, há muito, oportunizada a ampla defesa ao recorrente, constando na sentença, inclusive, farta fundamentação para o reproche de todas as teses ventiladas pela defesa.
+3. Consoante balizada doutrina, não se anula o ato processual mesmo nos casos em que o vício poderia caracterizar nulidade absoluta, se atingida a finalidade para a qual foi concebido.
+4. Agravo regimental não provido." (AgRg no RHC 45.301/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017, sem grifos no original).
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
