@@ -1,0 +1,79 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. RECORRER EM LIBERDADE. CUSTODIADO DURANTE A INSTRUÇÃO CRIMINAL. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. Segundo o disposto no art. 387, § 1º, do Código de Processo Penal, "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+3. É válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios, como na espécie, uma vez que a instância antecedente, além de fazer remissão a razões elencadas pelo Juízo natural da causa, indicou os motivos pelos quais considerava necessária a manutenção da prisão preventiva do réu e a insuficiência de sua substituição por medidas cautelares diversas (RHC n. 94.488/PA, rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2018, DJe 2/5/2018)
+4. No caso, a negativa do direito de recorrer em liberdade está justificada, pois a sentença condenatória que manteve a custódia preventiva fez menção às circunstâncias do caso concreto, consistente em tráfico de drogas interestadual de 88kg (oitenta e oito quilogramas) de maconha. Como é cediço, a grande quantidade de drogas apreendidas justifica a decretação e manutenção da prisão preventiva com o fim de garantir a ordem pública (Precedentes).
+5. Condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (Precedentes).
+6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+7. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado a 8 anos e 4 meses de reclusão, em regime inicialmente fechado, negado o direito de recorrer em liberdade, pela prática do delito inscrito no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fl. 15).
+Segundo a acusação, o paciente transportava 88kg (oitenta e oito quilogramas) de maconha (e-STJ fl. 7).
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 18/21).
+Daí o presente writ, no qual alega a defesa que a negativa do direito de o paciente recorrer em liberdade carece de fundamentação idônea (e-STJ fl. 3).
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente. Eventualmente, pleiteia a substituição por medida cautelar diversa (e-STJ fl. 6).
+O pedido liminar foi indeferido (e-STJ fls. 24/25).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ em parecer assim ementado (e-STJ fl. 49):
+Habeas corpus substitutivo de recurso próprio. Descabimento. Tráfico ilícito de entorpecentes. Negativa do direito de recorrer em liberdade. Fundamentação idônea. Garantia da ordem pública e aplicação da lei penal. Grande quantidade e natureza das drogas apreendidas. Requisitos do artigo 312 do CPP. Observância. Aplicação de medidas cautelares alternativas à prisão. Artigo 319 do CPP. Inviabilidade. Parecer pelo não conhecimento da ordem.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O objeto do presente pleito cinge-se à verificação da existência de fundamentação da negativa do direito de recorrer da sentença condenatória em liberdade.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, estes foram os fundamentos invocados para a negativa do direito de recorrer em liberdade quando da prolação de sentença condenatória, in verbis (e-STJ fls. 10/17):
+Narraram com detalhes à dinâmica dos fatos. Não há contradição, os depoimentos são uníssonos.
+A quantidade de droga apreendida e a forma em que estava disposta autorizam a considerar que a substância entorpecente era destinada ao consumo de terceiros, sendo tal preceito expresso na Lei nº 11.343/06.
+Ademais, o acusado confessou espontaneamente em juízo a prática do delito imputado.
+Ressalta-se que restou demonstrado que o transporte de drogas era realizado entre Estados da Federação, como o próprio acusado confessou. Portanto, incide a causa de aumento de pena prevista no artigo 40, inciso V, da Lei nº 11.343/06.
+Passo, com fulcro nos artigos 59 e 68 do Código Penal, à fixação da pena.
+Respeitado o sistema trifásico, fixo a pena base em 1/3 acima do mínimo legal, tendo em vista a quantidade de droga apreendida, qual seja. 68 (sessenta e oito) tijolos de maconha, com peso bruto de 88,15 Kg, o que prepondera sobre a análise do art. 59, "caput", do Código Penal e serve, ao menos como fundamento principal, para o exasperamento da pena base.
+ ..
+Pena-base, portanto, em 06 (seis) anos e 08 (oito) meses de reclusão.
+Na segunda fase da dosimetria, não há agravantes a computar. Todavia, reconheço a atenuante da confissão judicial, promovendo a redução da pena em 1/6. Pena em 05 (cinco) anos. 06 (seis) meses e 20 (vinte) dias de reclusão.
+Na terceira fase, observo que não incide a causa de diminuição prevista no art. 33, § 4o, da Lei de Drogas, tendo em vista que o réu se dedicava com habitualidade à atividade criminosa, o que restou comprovado pela grande quantidade de drogas transportadas, além do teor das mensagens de seu telefone celular (fls. 133/135). Assim, por exemplo, já entendeu o Supremo Tribunal Federal:
+ ..
+E, no caso concreto, foram apreendidos 68 (sessenta e oito) tijolos de maconha, com peso bruto de 88,15 Kg, o que demonstra, sob o meu ponto de vista, que o réu se dedicava à atividade criminosa, a impossibilitar a redução prevista no art. 33, §4º, da Lei n. 11.343/06.
+Destarte, presente a causa de aumento de pena prevista no artigo 40, inciso V, da Lei nº 11.343/06, de modo que majoro a pena em 1/2 (metade), considerando que o réu transportaria a droga por quase 1.000 km de distância (Campo Grande a São Paulo). Assim, a pena de 08 (oito) anos e 04 (quatro) meses de reclusão é definitiva.
+A pena pecuniária, utilizados os mesmos critérios da privativa de liberdade, é fixada em 833 (oitocentos e trinta e três) dias-multa, no mínimo legal.
+Diante da pena aplicada, o regime inicial de cumprimento é o fechado. Ademais, e o único regime compatível com a natureza do delito, equiparado a hediondo, cuja pena, por disposição expressa de lei, tem cumprimento inicial nesse regime fechado (art. 2o, § Io, da Lei nº 8.072/90).
+Não é demais consignar que as nefastas circunstâncias e conseqüências que o crime de tráfico de entorpecentes causa à sociedade conclamam a fixação do regime mais gravoso, a fim de que se retire o infrator do convívio social, evitando que cie continue a exercer tais atividades ilícitas, viciando pessoas e destruindo famílias.
+Além disto, o tráfico suporta o vício. E para o viciado obter recursos para obter a droga muitas vezes comete outros delitos, em especial, delitos patrimoniais. Assim, indiretamente, o tráfico fomenta toda uma gama de criminalidade. Diversos crimes orbitam o tráfico de entorpecentes.
+Na atual sociedade nesta Comarca, o tráfico é delito de extrema relevância que demanda combate diuturno das autoridades policiais, judiciárias e do Ministério Público. Assim, diante das graves conseqüências sociais, inviável imputar ao traficante regime de pena menos rigoroso do que o fechado.
+Deixo de aplicar o disposto no §2º do art. 387 do Código de Processo Penal, acrescido pela Lei nº 12.736/12, por entender que tal norma e materialmente inconstitucional, uma vez que viola o princípio da individualização das penas e também porque ofensa o princípio da igualdade.
+Diante do exposto e considerando o mais que dos autos consta, JULGO PROCEDENTE o pedido da presente ação penal que a Justiça Pública move contra [NOME], qualificado nos autos, e o CONDENO à pena de 08 (oito) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 833 (oitocentos e trinta e três) dias-multa, no mínimo legal, como incurso nos artigos. 33, caput, c.c. artigo 40, inciso V, ambos da Lei nº 11.343/06.
+Pelas circunstâncias do caso concreto e considerando-se que o réu se encontra preso, não se justificaria a soltura após a condenação. Nego-lhe, portanto, o apelo em liberdade.
+Recomende-se o réu na prisão em que se encontra. (Grifei.)
+O exame dos excertos acima transcritos, contidos na sentença condenatória, evidenciam que o disposto no art. 387, § 1º, do Código de Processo Penal foi devidamente observado, pois foram indicados fundamentos concretos para a manutenção da prisão cautelar anteriormente imposta ao paciente.
+Segundo o disposto no referido comando normativo, "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+Por tal razão, esta Corte firmou orientação de ser indispensável, por ocasião da prolação da sentença condenatória, que o magistrado fundamente, com base em dados concretos extraídos dos autos, a necessidade de manutenção ou de imposição de segregação cautelar, ainda que tal fundamentação se dê mediante emprego da técnica per relationem, quando o juiz sentenciante faz expressa remissão aos motivos da decretação da prisão preventiva tendo em vista a permanência das razões que a ensejaram.
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CONSTITUIÇÃO DE [NOME]. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. NULIDADE. NÃO OCORRÊNCIA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+ ..
+2. É válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios, como na espécie, uma vez que a instância antecedente, além de fazer remissão a razões elencadas pelo Juízo natural da causa, indicou os motivos pelos quais considerava necessária a manutenção da prisão preventiva do réu e a insuficiência de sua substituição por medidas cautelares diversas.
+ ..
+(RHC 94.488/PA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/04/2018, DJe 02/05/2018)
+No presente caso, com efeito, vê-se que a prisão foi mantida em decorrência das circunstâncias do caso concreto, quais sejam, a apreensão de quantidade significativa de drogas, a saber, 88kg (oitenta e oito quilogramas) de maconha, o que justifica a decretação e manutenção da prisão preventiva e a consequente negativa do direito de recorrer em liberdade.
+Da mesma forma decidiu esta Corte nos seguintes julgados:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA MANTIDA PELA SENTENÇA CONDENATÓRIA. MOTIVAÇÃO PER RELATIONEM. CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE CONCRETA DA PACIENTE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Na hipótese dos autos estão presentes elementos concretos a justificar a imposição da segregação antecipada, uma vez que as instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a periculosidade concreta do paciente, tendo o Magistrado de primeiro grau destacado a qualidade e a considerável quantidade de droga apreendida - 101,7 quilogramas de cocaína -, bem como a apreensão de armas, grande soma de dinheiro, máquinas de contagem de dinheiro e carros de luxo, o que demonstra o risco que o paciente representa ao meio social, recomendando a sua custódia cautelar para garantia da ordem pública, tendo tal fundamentação sido reafirmada pelo juízo sentenciante, que, mediante motivação per relationem, entendeu que permaneciam válidas as razões que justificaram o decreto da prisão preventiva.
+Habeas Corpus não conhecido.
+(HC 318.368/CE, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 23/06/2015, DJe 03/08/2015)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 33, CAPUT, DA LEI 11.343/2006. REGIME PRISIONAL FECHADO E NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS COM BASE NA HEDIONDEZ E NA GRAVIDADE EM ABSTRATO DO DELITO. CONSTRANGIMENTO ILEGAL CONFIGURADO. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. MOTIVAÇÃO PER RELATIONEM. POSSIBILIDADE. NECESSIDADE DE ADEQUAÇÃO AO NOVO REGIME ESTABELECIDO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. No caso, a custódia cautelar encontra-se justificada, pois o magistrado justificou a segregação cautelar após a sentença na necessidade de garantia da ordem pública, destacando o modus operandi e os fundamentos utilizados no decreto constritivo.
+6. É necessário, contudo, adequar a prisão com o modo de execução intermediário estabelecido neste writ, sob pena de impor ao paciente modo mais gravoso tão somente pelo fato de ter optado pela interposição de apelo.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto, afastar a fundamentação utilizada na sentença para vedar a substituição da pena privativa de liberdade por restritiva de direitos, permitindo que o Tribunal a quo, no julgamento da apelação, verifique o preenchimento dos requisitos do art. 44 do Código Penal e, por fim, permitir ao paciente aguardar no regime semiaberto o trânsito em julgado da Ação Penal n. 0001528-09.2015.8.16.0039.
+(HC 332.136/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/10/2015, DJe 26/10/2015)
+Portanto, os fundamentos acima delineados indicam a necessidade de se manter o paciente segregado, não se revelando adequado, por outro lado, possibilitar-lhe recorrer em liberdade.
+Ante o exposto, denego a ordem.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
