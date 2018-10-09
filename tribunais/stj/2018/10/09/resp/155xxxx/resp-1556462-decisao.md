@@ -1,0 +1,39 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. DEMORA NA TRAMITAÇÃO DO FEITO ATRIBUÍDA AO PODER JUDICIÁRIO. AUSÊNCIA DE INÉRCIA DA PARTE AUTORA. REEXAME DE PROVAS. INADMISSIBILIDADE. RECURSO REPRESENTATIVO DE CONTROVÉRSIA: RESP. 1.102.431/RJ, REL. MIN. LUIZ FUX, DJE 01.02.2010. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento na alínea a do art. 105, III da Constituição Federal, em face do acórdão proferido pelo egrégio Tribunal Regional Federal da 3a. Região, assim ementado:
+AGRAVO LEGAL. ART. 557. CABIMENTO. SERVIDOR. 28,86%. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. PROSSEGUIMENTO DA EXECUÇÃO. 1. Plenamente cabível a decisão monocrática na presente ação, pois, segundo o art. 557, § 1o., do CPC, não há necessidade de a jurisprudência ser unânime ou de existir súmula dos Tribunais Superiores a respeito. 2. Se a decisão apreciou e decidiu a questão de conformidade com a lei processual, nada autoriza a sua reforma. 3. Inércia do exequente não caracterizada se a citação para o início da execução não ocorreu no prazo estipulado pela lei devido à morosidade do judiciário. 4. Prosseguimento da execução. 5. Agravo legal a que se nega provimento (fls. 169).
+2. Nas razões de seu Apelo Nobre, a parte recorrente aponta violação do art. 1o. do Decreto 20.910/1932, ao argumento de que a execução teve início somente em 17 de março de 2009, seis anos e três meses depois da data do trânsito em julgado do r. acórdão, período muito maior que o prazo legal de cinco anos estabelecido pelo Decreto (fls. 183). Além disso, acrescenta que não houve qualquer falha do Judiciário que teria causado a morosidade.
+3. Após a apresentação das contrarrazões (fls. 203/211 e 217/226), o recurso foi admitido na origem (fls. 228/230).
+4. É o relatório.
+5. O Tribunal a quo afastou a ocorrência da prescrição reconhecendo expressamente que a parte autora não se quedou inerte por cinco anos para dar início a execução do julgado, e que a demora na tramitação do feito, na hipótese, se deu por culpa do Poder Judiciário, consoante se pode conferir da leitura do seguinte trecho do acórdão recorrido:
+Conforme se pode averiguar, o trânsito em julgado ocorreu, para a parte autora, em 22 de novembro de 2002 (fl. 189). A intimação pára ciência do respectivo trânsito ocorreu somente em 20 de abril de 2004.
+A partir desse ponto houve inúmeras petições, requerimentos andamentos processuais, inclusive devido a alguns autores terem constituídos novos patronos. Verifica-se que no dia 17 de março de 2009 e em 06 de abril de 2009 o autor em questão apresentou os cálculos de liquidação e requereu o início da execução, nos termos do artigo 730 do Código de Processo Civil. O mandado de citação cumprido foi acostado aos autos em 04 de setembro de 2009 (fls. 288/289).
+Após sua citação a União (AGU) peticionou nos autos principais às fls. 290/292 e 293/297 informando da impossibilidade no prosseguimento da execução pelo fato do autor pertencer ao quadro da ANVISA, devendo ser representado judicialmente pela Procuradoria Regional Federal.
+Regularmente processado o feito, a União foi tida por parte legítima para figurar nos presentes embargos à execução (fl. 412 ação principal).
+Assim, embora a efetiva citação tenha-se consumado após cinco anos, não foi por inércia dos autores, ou seja, não transcorreu mais de cinco anos sem que a parte tenha se manifestado a fim de impulsionar o processo. Portanto, o fato de a citação não ter ocorrido no prazo de cinco anos não foi por negligência da parte autora, não podendo esta ser penalizada pela morosidade do judiciário.
+Em suma, não se pode atribuir ao exequente a responsabilidade pela paralisação do feito, pois não se vislumbra em sua atuação processual a inércia inescusável (fls. 164/165).
+6. A leitura do excerto acima transcrito revela que a demora na tramitação do feito ocorreu em decorrência da morosidade do Poder Judiciário, não havendo inércia da parte autora, que se valeu dos mecanismos necessários para impulsionar o feito.
+7. Dessa forma, considerando-se que o fundamento basilar do acórdão está na aplicação da Súmula 106/STJ, a Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp. 1.102.431/RJ, representativo de controvérsia, firmou a orientação de que a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 07/STJ (REsp. 1.102.431/RJ, Rel. Min. LUIZ FUX, DJe 1.2.2010).
+8. Ainda a esse respeito, convém a transcrição dos seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. APLICAÇÃO DA SÚMULA 106/STJ. NECESSIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL 1.102.431/RJ JULGADO SOB O RITO DO ART. 543 DO CPC/1973. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O acolhimento da pretensão recursal depende da verificação da aplicação ou não da Súmula 106/STJ, o que, consoante orientação dada pela Primeira Seção do STJ, sob o rito do art. 543-C do CPC/1973, é tarefa vedada nesta instância recursal, em razão do óbice da Súmula 7/STJ (REsp 1.102.431/SP, Rel. Min. Luiz Fux, DJe de 1.2.2010).
+(..).
+5. Recurso Especial não conhecido (REsp. 1.729.222/SP, Rel. Min. HERMAN BENJAMIN, DJe 22.5.2018).
+
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO ESTADUAL. SUPOSTA VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. EXECUÇÃO DE TÍTULO JUDICIAL. DEMORA NA CITAÇÃO. APLICAÇÃO DA SÚMULA 106/STJ. ALEGAÇÃO DE PRESCRIÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional nos embargos declaratórios, porquanto as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia.
+2. Eventual reforma do aresto, para efeito de desconsiderar a incidência da Súmula 106/STJ, demanda o reexame da matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ. Isso porque a verificação de responsabilidade pela demora na prática dos atos processuais, se atribuível ao exequente ou ao Poder Judiciário, enseja o reexame do acervo fático-probatório. Precedentes.
+3. Agravo interno não provido (AgInt no AREsp 1.119.066/PE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 19.3.2018).
+
+RECURSO FUNDADO NO CPC/15. TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. RECONHECIMENTO DA PRESCRIÇÃO. AFERIÇÃO DA CULPA PELA DEMORA DA CITAÇÃO. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA.
+(..).
+2. A alteração das conclusões adotadas pela Corte de origem, no tocante à aplicação da Súmula 106/STJ, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+(..).
+4. Agravo interno a que se nega provimento AgInt no REsp. 1.440.500/PE, Rel. Min. SÉRGIO KUKINA, DJe 3.8.2017).
+
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC DE 1973. INOCORRÊNCIA DE PRESCRIÇÃO INTERCORRENTE. DEMORA NO ANDAMENTO PROCESSUAL CAUSADA PELO PODER JUDICIÁRIO. SÚMULA 106 DO STJ.
+(..).
+4. É firme o entendimento do STJ de que somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução, o que não se verifica no caso concreto, já que a demora no andamento do feito se deu por motivos inerentes ao próprio mecanismo judiciário (Súmula 106/STJ).
+5. Recurso Especial não provido (REsp. 1.697.890/RJ, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+9. Ante o exposto, nega-se seguimento ao Recurso Especial da UNIÃO.
+10. Publique-se. Intimações necessárias.
