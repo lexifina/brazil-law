@@ -1,0 +1,42 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. CONDENAÇÃO PELA JUSTIÇA FEDERAL. EXECUÇÃO DA PENA PELA JUSTIÇA ESTADUAL. SÚMULA N. 192 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PROGRESSÃO AO REGIME ABERTO. MANUTENÇÃO DA COMPETÊNCIA DO JUÍZO ESTADUAL, ORA SUSCITADO.
+1. "Compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos à administração estadual." Súmula n. 192 do STJ.
+2. Segundo a jurisprudência desta Corte, a progressão para o regime aberto não afasta a competência do Juízo estadual para fiscalizar a execução da pena.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Execução de Penas e Medidas Alternativas de Foz do Iguaçu/PR, o suscitado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, conhecer do conflito e declarar competente o suscitado, Juízo de Direito da Vara de Execução de Penas e Medidas Alternativas de Foz do Iguaçu/PR, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Laurita Vaz, Jorge Mussi, Sebastião Reis Júnior, Nefi Cordeiro, Reynaldo Soares da Fonseca, Ribeiro Dantas e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Rogerio Schietti Cruz.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 4ª VARA DE FOZ DO IGUAÇU - SJPR em face do JUÍZO DE DIREITO DA VARA DE EXECUÇÃO DE PENAS E MEDIDAS ALTERNATIVAS DE FOZ DO IGUAÇU - PR.
+Consta dos autos que [NOME] foi condenado, na Justiça Federal, à pena privativa de liberdade em regime inicial semiaberto (Ação Penal n. 5093741-12.2014.404.7100), cuja execução foi atribuída à Justiça estadual, nos termos do Enunciado n. 192 da Súmula do STJ (Compete ao juízo das execuções penais do estado a execução das penas impostas a sentenciados pela justiça federal, militar ou eleitoral, quando recolhidos a estabelecimentos sujeitos a administração estadual) (Execução n. 0028123-72.2015.8.16.0030).
+Posteriormente, o reeducando foi progredido ao regime aberto pelo Juízo da Vara de Execuções Penais de Foz do Iguaçu/PR. Diante disso, os autos foram encaminhados ao Juízo da Vara de Execuções de Penas e Medidas Alternativas da Comarca de Foz de Iguaçu/PR. Esse Juízo, considerando que o reeducando não estava recolhido em estabelecimento penal sob a jurisdição da Justiça estadual, remeteu os autos ao Juízo Federal de Porto Alegre/RS, o qual, concordando com a competência da Justiça Federal, expediu carta precatória ao Juízo da 4ª Vara Federal de Foz do Iguaçu/PR para fiscalização da pena. Este Juízo, porém, suscitou o presente conflito negativo de competência, sob o argumento de que a progressão ao regime aberto não afasta a competência do Juízo estadual para presidir a execução penal.
+O Juízo suscitado foi designado para decidir, em caráter provisório, as medidas urgentes até o julgamento final do presente incidente, nos termos do art. 196 do RISTJ. (e-STJ fl. 516).
+O Ministério Público Federal manifestou-se pela competência do Juízo suscitante (fls. 524/527).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Filio-me à remansosa jurisprudência desta Corte Superior que culminou na edição da Súmula 192/STJ, no sentido de que "compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos à administração estadual."
+Observe-se, ainda, que o fato de o reeducando ter progredido para o regime aberto não afasta a competência para o Juízo estadual fiscalizar a pena, mesmo porque o condenado pode regredir para regime mais gravoso, nas hipóteses previstas no artigo 118 da Lei n. 7.210/84.
+Sobre o tema, confiram-se os seguintes precedentes proferidos em situação análoga à dos autos, que restaram assim ementados:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO PERANTE A JUSTIÇA FEDERAL. ESTABELECIMENTO PRISIONAL SOB ADMINISTRAÇÃO ESTADUAL. PROGRESSÃO PARA REGIME ABERTO. SÚMULA 192/STJ. COMPETÊNCIA DO JUÍZO ESTADUAL. ALTERAÇÃO DA COMPETÊNCIA. NÃO OCORRÊNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É competente o Juízo das Execuções Penais do Estado para a execução da pena imposta a sentenciado pela Justiça Federal, quando recolhido a estabelecimentos sujeitos à administração estadual (Súmula 192 STJ).
+2. O fato de o reeducando passar a cumprir a pena em regime aberto não autoriza a modificação da competência para execução da pena.
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC 156.440/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 25/04/2018, DJe 02/05/2018)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PENA APLICADA PELA JUSTIÇA FEDERAL. CUMPRIMENTO EM ESTABELECIMENTO ESTADUAL. PROGRESSÃO AO REGIME ABERTO. MANUTENÇÃO DA COMPETÊNCIA DO JUÍZO ESTADUAL. SÚMULA 192/STJ. PRECEDENTES. AGRAVO IMPROVIDO.
+1. A execução penal compete ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença. Sem ferir o art. 109 da CF/88, o verbete n. 192 da Súmula do Superior Tribunal de Justiça excepciona referida disciplina, nos casos em que o apenado, condenado pela Justiça Federal, encontrar-se em estabelecimento penitenciário estadual (AgRg no CC 139.877/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 26/08/2015, DJe 04/09/2015).
+2. A Terceira Seção do Superior Tribunal de Justiça firmou entendimento de que a competência da execução, mesmo após a progressão ao regime aberto, se mantém na esfera estadual.
+3. Agravo regimental improvido. (AgRg no CC 149.271/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe 19/12/2016).
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. CONDENAÇÃO EM ÂMBITO DA JUSTIÇA FEDERAL. PROGRESSÃO DE REGIME. FISCALIZAÇÃO DA PENA EM REGIME ABERTO. MANUTENÇÃO DO JUÍZO ESTADUAL. INCIDÊNCIA DA SÚMULA 192 DO STJ. CONFLITO DE COMPETÊNCIA CONHECIDO. DECLARAÇÃO DE COMPETÊNCIA DO JUÍZO ESTADUAL, ORA SUSCITADO.
+1. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que compete ao Juízo das execuções penais do Estado a execução de pena imposta a sentenciado pela Justiça Federal, quando recolhido em estabelecimentos sujeitos à administração estadual.
+2. A competência para a execução penal não fica atrelada à natureza do delito praticado, tampouco ao Juízo processante, e sim à jurisdição a que se encontra subordinado o estabelecimento penal do sentenciado.
+3. "Compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos à administração estadual" (Súmula 192/STJ).
+4. Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Execução de Penas e Medidas Alternativas de Foz do Iguaçu - PR, ora suscitado. (CC 147.591/PR, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 10/08/2016, DJe 22/08/2016).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONDENAÇÃO EM ÂMBITO DA JUSTIÇA FEDERAL. PROGRESSÃO DE REGIME. FISCALIZAÇÃO DA PENA EM REGIME ABERTO. MANUTENÇÃO DO JUÍZO ESTADUAL. INCIDÊNCIA DA SÚMULA 192 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Havendo cumprimento de pena em estabelecimento prisional sob a jurisdição do Juízo das execuções estadual, este é o competente para o respectivo processo de execução penal, decidindo os incidentes de tal etapa processual.
+2. O fato de haver progressão de regime e não mais se encontrar custodiado, não torna incompetente o Juízo estadual para continuar a presidir sua execução. Incidência da Súmula 192 do STJ.
+3. Agravo regimental não provido. (AgRg no CC 136.386/PR, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 09/12/2015, DJe 01/02/2016).
+Ante o exposto, voto no sentido de conhecer do presente conflito para declarar a competência do Juízo de Direito da Vara de Execução de Penas e Medidas Alternativas de Foz do Iguaçu/PR, o suscitado.
