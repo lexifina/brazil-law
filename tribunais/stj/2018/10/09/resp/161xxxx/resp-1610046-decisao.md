@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PLANO DE SEGURIDADE SOCIAL. DIFERENÇAS SALARIAIS RECEBIDAS EM JUÍZO. RECOLHIMENTO DA CONTRIBUIÇÃO PREVIDENCIÁRIA NOS TERMOS DO REGULAMENTO VIGENTE À ÉPOCA EM QUE SERIAM DEVIDAS. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE REGIMENTAL. DIFERENÇA SALARIAIS. RETENÇÃO DE VALORES. PLANO DE SEGURIDADE SOCIAL. PSS.
+A retenção de valores devidos a título de contribuição ao Plano de Seguridade Social - PSS decorre de imposição legal, sendo devida a dedução em tela no momento do recebimento dos valores por meio de precatório/RPV.
+As diferenças salariais recebidas em juízo são complementações de pagamento realizado em data pretérita e o reconhecimento, na via judicial, do direito do servidor apenas demonstra que o pagamento já deveria ter sido realizado no passado.
+Desta forma, as verbas relativas a diferenças salariais recebidas em juízo estão sujeitas ao recolhimento da contribuição previdenciária nos termos do regulamento vigente à época em que seriam devidas, apurando-se o respectivo valor, mês a mês, conforme a competência de cada pagamento (fls. 202).
+2. Opostos Embargos de Declaração, foram eles parcialmente acolhidos para fins de prequestionamento.
+3. Nas razões do Recurso Especial, alega ofensa aos arts. 535, II do CPC/1973; e 35 da MP 449/2009, convertida na Lei 11.941/2009; e 16-A da Lei 10.887/2004, argumentando, em síntese, a necessidade de retenção da contribuição previdenciária quando do pagamento do precatório ou RPV pelo regime de caixa, e não de competência, incidindo sobre a totalidade recebida.
+4. É o relatório do essencial.
+5. Inicialmente, em relação à suposta contrariedade ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+6. Quanto ao mérito, a atenta leitura das razões do Apelo Nobre revela que o fundamento, suficiente à manutenção do acórdão objurgado, segundo o qual as verbas relativas a diferenças salariais recebidas em juízo estão sujeitas ao recolhimento da contribuição previdenciária nos termos do regulamento vigente à época em que seriam devidas (fls. 200), não foi alvo de impugnação nas razões de Recurso Especial, motivo pelo qual incide, no ponto, o disposto na Súmula 283 do STF.
+7. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pela UNIÃO.
+8. Publique-se. Intimações necessárias.
