@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. DETRAN. OMISSÃO. PROPORCIONALIDADE DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS, FIXADOS EM R$ 3.110,00. AUMENTO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, no qual DIEGO ENGEL LEITE se insurge contra acórdão do egrégio TJRS, assim ementado:
+RESPONSABILIDADE CIVIL. DETRAN. OMISSÃO ESPECÍFICA. RESTRIÇÃO. DEVER DE INDENIZAR. QUANTUM
+I. Responde a autarquia objetivamente, nos termos do art 37, § 6o., da CF, por omissão especifica. Hipótese na qual a ré tinha o dever de agir, incluindo a restrição pendente sobre o veículo do autor em seus registros dentro de prazo razoável e, assim não o fez, dando causa ao evento danoso.
+II. Dano moral que se dá in re ipsa. Os transtornos sofridos pelo demandante, a aflição e o desequilíbrio em seu bem-estar, fugiram à normalidade e se constituíram como agressão à sua dignidade.
+III. Fixação do montante indenizatório considerando o equívoco da ré, o aborrecimento e o transtorno sofridos pelo demandante, além do caráter punitivo-compensatório da reparação. Culpa concorrente do autor reconhecida e sopesada para fins de arbitramento da indenização.
+IV. Dano material que não pode ser atribuído à ré, mas apenas ao estelionatário, sendo mantida a sentença no ponto.
+APELAÇÃO PARCIALMENTE PROVIDA (fls. 208).
+2. Opostos Embargos de Declaração, restaram rejeitados às fls. 230/235.
+3. Nas razões do Recurso Especial (fls. 242/255), a parte recorrente aponta, preliminarmente, violação ao art. 535, II do CPC. No mérito, aduz violação ao art. 944 do CC, afirmando que o valor arbitrado em R$ 3.110,00, a título de danos morais, mostra-se irrisório. Afirma que perdeu seu único bem e, quando buscou auxílio do Departamento de Trânsito, este foi inerte. Alega existir dissídio jurisprudencial em relação ao quantum fixado.
+4. Sobreveio juízo negativo de admissibilidade (fls. 308/321), o que ensejou a interposição do presente Agravo (fls. 325/331).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, no que toca ao art. 535, II do CPC, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. No mérito, cinge-se a controvérsia a respeito do valor atribuído aos donos morais. Acerca da questão, manifestou-se o Tribunal de origem no julgamento da Apelação:
+É verdade que o patrimônio moral das pessoas físicas e jurídicas não pode ser transformado em fonte de lucro ou pólo de obtenção de riqueza. Não se admite a indenização como instrumento de enriquecimento ilimitado do ofendido, transformando-se o direito ao ressarcimento em loteria premiada, ou sorte grande, de forma a tornar um bom negócio o sofrimento produzido por ofensas.
+É certo, outrossim, que a reparação por danos morais tem caráter pedagógico, devendo-se observar a proporcionalidade e a razoabilidade na fixação dos valores, atendidas as condições do ofensor, ofendido e do bem jurídico lesado.
+(..).
+Na hipótese dos autos, considerando-se a conduta do demandante que foi efetivamente descuidado, pois vendeu o veículo sem tomar as mínimas precauções, tal fato deve ser sopesado para fins de fixação do quantum indenizatório.
+Nestas circunstâncias, considerando o ato ilícito praticado contra o autor, o potencial econômico do ofensor, o caráter punitivo- compensatório da indenização e os parâmetros adotados em casos semelhantes, fixo a indenização em R$ 3.110,00 (três mil cento e dez reais) (fls. 216/218).
+ 9. Como se observa, o quantum fora determinado em razão das peculiaridades do caso concreto, levando em consideração o grau da lesividade da conduta ofensiva e a capacidade econômica da parte pagadora, a fim de cumprir dupla finalidade: amenização da dor sofrida pela vítima e punição do causador do dano, evitando-se novas ocorrências. Também restou consignado que a conduta descuidada da parte recorrente, que não observou as precauções devidas, deveria ser considerada na fixação do quantum. Assim, a revisão do valor a ser indenizado somente é possível quando exorbitante ou irrisória a importância arbitrada, em violação aos princípios da razoabilidade e da proporcionalidade. No caso dos autos, o valor arbitrado em R$ 3.110,00 (três mil cento e dez reais), não se mostra irrisório a ponto de excepcionar a aplicação da Súmula 7/STJ.
+10. Por fim, no que toca à alínea c, o sugerido dissídio jurisprudencial não foi analiticamente demonstrado de acordo com os arts. 255, § 2o. do RISTJ e 541, parágrafo único do Estatuto Processual Civil.
+11. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial interposto pelo Particular.
+12. Publique-se. Intimações necessárias.
