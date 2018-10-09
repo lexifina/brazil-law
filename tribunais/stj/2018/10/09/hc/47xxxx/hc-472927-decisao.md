@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o acórdão proferido pelo Tribunal de Justiça de Santa Catarina no HC n. 4021447-22.2018.8.24.0900, no qual requer a suspensão da transferência de [NOME] para o Estado de Goiás, até o julgamento do agravo em execução interposto.
+Alega-se que o paciente está a sofrer constrangimento ilegal, eis que a decisão que solicita a devolução do paciente ao sistema prisional goiano revela-se desproporcional e ofende os princípios do contraditório, da ampla defesa e do devido processo legal, conforme amplamente discutido no Agravo em Execução interposto e que se busca suspender através do presente (fl. 6).
+Infere-se dos autos que, em razão de investigação deflagrada pela Polícia Civil em que se apura o cometimento das infrações de uso de documento falso, tráfico de drogas e lavagem de dinheiro, o paciente foi preso em flagrante pela suposta prática do delito previsto no art. 304 do Código Penal.
+E, em 1º/3/2018, o Juízo da 1ª Vara Criminal da comarca de Balneário Camboriú/SC, nos Autos n. 0001631-91.2018.8.24.0005, converteu a prisão em flagrante em preventiva.
+Posteriormente, no dia 15/8/2018, o Juízo da Vara de Execuções Penais da comarca de Itajaí/SC, destacando que a instrução dos autos acima mencionados já se encerrou, autorizou o recambiamento do apenado à Goiânia (fls.18).
+Estes autos foram a mim distribuídos por prevenção do HC n. 465.908/SP o qual indeferi liminarmente, por aplicável o entendimento da Súmula 691/STF.
+É o relatório.
+O deferimento de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, o que aqui não se observa, porquanto, a Terceira Câmara Criminal, ao denegar a ordem, dispôs que (fls. 69/71 - grifo nosso):
+ ..  a concessão de efeito suspensivo ao recurso exige decisão manifestamente ilegal, a ocasionar dano ao recorrente pela demora no julgamento.
+Contudo, este não é o caso dos autos.
+De pronto, é bom que se diga que o paciente não se mudou para o Estado de Santa Catarina. Na verdade, está em Balneário Camboriú homiziado. Além disso, o paciente teve deferido o pedido de permanência na comarca de Itajaí, provisoriamente, a fim de não frustrar o curso da ação penal a que responde neste Estado de Santa Catarina (p. 137).
+Terminada a instrução, o juízo a quo determinou o "recambiamento do apenado à Goiânia" (p. 145).
+Em seguida, o impetrante formulou pedido de reconsideração da decisão no primeiro grau e, também impetrou mandado de segurança, bem como agravo à execução (ao qual pretende conferir efeito suspensivo), tudo pretendendo seja-lhe deferida a sua permanência neste Estado.
+Conquanto o art. 103 da Lei de Execução Penal permita a permanência do apenado em estabelecimento penal próximo ao seu meio social e familiar, tal direito não se revela absoluto, podendo sucumbir ao interesse público.  ..
+No caso dos autos, a transferência do ora impetrante para Goiás justifica-se, ao que parece da análise estreita permitida nesta via de cognição sumária, por ele cumprir pena e responder naquele Estado pela fuga, no ano de 2015. Conquanto o impetrante argumente o extravio dos autos e sua não reconstituição, ainda há interesse daquele Poder Judiciário em sua permanência lá, para averiguação dos fatos e em razão da execução da pena  ..
+Com efeito, nos termos do art. 197 da LEP ("Das decisões proferidas pelo juiz caberá recurso de agravo, sem efeito suspensivo"), o recurso de agravo em execução não comporta efeito suspensivo, salvo no caso de decisão que determina a desinternação ou liberação de quem cumpre medida de segurança (precedentes). (AgRg no HC n. 380.419/SP, Ministro Felix Fischer, Quinta Turma, DJe 25/4/2017).
+Ademais, a motivação que ampara o pedido liminar confunde-se com o próprio mérito do writ, devendo o caso concreto ser analisado mais detalhadamente quando da apreciação e do seu julgamento definitivo.
+Com essas considerações, não tendo, por ora, como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar pretendida, indefiro-a.
+Solicitem-se, por malote digital, no prazo de 20 dias, informações detalhadas ao Tribunal local e ao Juízo da Vara de Execuções Penais da comarca de Itajaí/SC a respeito do alegado na inicial, bem como sobre a atual situação do paciente e dos Autos n. 0302670-63.2018.8.24.0033, esclarecendo, principalmente, sobre o eventual julgamento do agravo em execução interposto.
+Após, ao Ministério Público Federal.
+Publique-se.
