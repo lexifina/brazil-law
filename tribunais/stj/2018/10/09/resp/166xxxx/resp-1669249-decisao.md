@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ABONO DE PERMANÊNCIA. PRESCRIÇÃO. RECONHECIMENTO ADMINISTRATIVO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. RECURSO ESPECIAL DA FUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela FUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ABONO DE PERMANÊNCIA. PSS. ATRASADOS. RECONHECIMENTO ADMINISTRATIVO.
+- Acerca da prescrição, com base no princípio da actio nata, somente a partir do ato administrativo que reconheceu a aposentadoria do autor com proventos integrais, com base na conversão de tempo efetivada pela ON SRH/MP 10, de 5-11-2010, é que se tornou possível contar o prazo qüinqüenal de prescrição para a pretensão posta em juízo.
+Com efeito, não é razoável supor que o autor devesse pleitear antes um direito que sequer sabia ser integrante de seu patrimônio jurídico.
+- Sobre o prévio requerimento administrativo, esta Corte tem decidido por desnecessária a prévia e expressa opção do servidor em receber o abono de permanência, "na medida em que a opção do servidor em permanecer em serviço se depreende da própria inexistência de requerimento de aposentadoria, esta sim condicionada ao pedido do servidor. Na ausência deste, o servidor automaticamente faz jus ao abono de permanência." (AC 5014137-07.2011.404.7100 - Des. Federal [NOME]).
+- Reconhecido, no âmbito administrativo, o direito do autor ao abono de permanência, tem ele direito ao pagamento dos valores correspondentes. Não pode a Administração Pública recusar o mencionado pagamento, quando já transcorreu tempo suficiente para a sua inclusão no orçamento, não sendo cabível que o servidor aguarde, indefinidamente, o pagamento de verba a que tem direito.
+- Relegada para a fase de execução a decisão acerca dos critérios de atualização monetária e juros a serem aplicados no período posterior à entrada em vigor da Lei 11.960/2009 (período a partir de julho de 2009, inclusive), quando provavelmente a questão já terá sido dirimida pelos tribunais superiores (fls. 208).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial, alega ofensa aos arts. 535, II do CPC/1973; 1o., 4o., parág. único, 6o., 8o. e 9o. do Decreto 20.910/1932, argumentando, em síntese, que o acórdão recorrido entendeu que a contagem do prazo prescricional não deve se pautar por protesto interruptivo, e não observou que a regra de suspensão do prazo prescricional exige a iniciativa do interessado.
+4. É o relatório do essencial.
+5. Na hipótese dos autos, o Tribunal de origem consignou:
+Acerca da prescrição, decidiu corretamente o MM. Juízo a quo com base no princípio da actio nata, pois somente a partir do ato administrativo que reconheceu a aposentadoria do autor com proventos integrais, com base na conversão de tempo efetivada pela ON SRH/MP 10, de 5.11.2010, é que se tornou possível contar o prazo qüinqüenal de prescrição para a pretensão posta em juízo.
+Com efeito, não é razoável supor que o autor devesse pleitear antes um direito que sequer sabia ser integrante de seu patrimônio jurídico.
+(..).
+Assim, tendo ajuizado a ação em 24.4.2013, não há falar em prescrição (fls. 202/203).
+6. Inicialmente, em relação à suposta contrariedade ao art. 535, II do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Quanto ao mérito, a atenta leitura das razões do Apelo Nobre revela que o fundamento, suficiente à manutenção do acórdão objurgado, segundo o qual somente a partir do ato administrativo que reconheceu a aposentadoria do autor com proventos integrais, com base na conversão de tempo efetivada pela ON SRH/MP 10, de 5.11.2010, é que se tornou possível contar o prazo qüinqüenal de prescrição para a pretensão posta em juízo, não foi alvo de impugnação nas razões de Recurso Especial, motivo pelo qual incide, no ponto, o disposto na Súmula 283 do STF.
+8. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pela FUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE.
+9. Publique-se.
+10. Intimações necessárias.
