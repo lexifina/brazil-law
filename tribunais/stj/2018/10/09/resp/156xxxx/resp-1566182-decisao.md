@@ -1,0 +1,31 @@
+DECISÃO
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. TERMO INICIAL. REQUISITOS IMPLEMENTADOS APÓS O REQUERIMENTO ADMINISTRATIVO. RECURSO ESPECIAL DO SEGURADO PARCIALMENTE PROVIDO PARA FIXAR O TERMO INICIAL DO BENEFÍCIO A CITAÇÃO DA AUTARQUIA PREVIDENCIÁRIA.
+1. Trata-se de Recurso Especial interposto por DURVAL QUINTINO, com base nas alíneas a e c do art. 105, III da Constituição Federal, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 3a. Região, assim ementado:
+CONSTITUCIONAL. PREVIDENCIÁRIO. AGRAVO LEGAL. BENEFÍCIO ASSISTENCIAL AO DEFICIENTE. ARTIGO 203 CF. TERMO INICIAL. DATA DA CITAÇÃO. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. É pacífico o entendimento nesta E. Corte, segundo o qual não cabe alterar decisões proferidas pelo relator, desde que bem fundamentadas e quando não se verificar qualquer ilegalidade ou abuso de poder que possa gerar dano irreparável ou de difícil reparação.
+2. O benefício de prestação continuada, de um salário mínimo mensal, previsto no art. 203, V, da Constituição Federal e regulamentado pelo art. 20 e parágrafos da Lei nº 8.742/93, é devido à pessoa portadora de deficiência (sem limite de idade) e ao idoso, com mais de 65 anos, que comprovem não ter condições econômicas de se manter e nem de ter sua subsistência mantida pela família.
+3. Reconhece-se o direito da parte autora ao benefício assistencial, no valor de um salário mínimo, a ser implantado a partir da data de inicio da incapacidade ocorrida em 29.7.2013 - (fls. 172v), conforme fixado na r. sentença.
+4. Agravo legal improvido.
+2. Os Embargos de Declaração opostos foram rejeitados.
+3. Nas razões de seu Apelo Nobre, a parte recorrente alega violação dos arts. 20 e 31 da Lei 8.742/1993; 886 do CC, ao fundamento de que o termo inicial do benefício previdenciário é a data do requerimento administrativo indeferido. Requer, ainda, danos morais.
+4. É o relatório.
+5. Cinge a demanda sobre o termo inicial para fixação do benefício assistencial. É assente o entendimento do STJ no sentido de que o termo inicial da concessão do benefício previdenciário dá-se na prévia postulação administrativa e, na sua ausência, a partir da citação.
+6. A Constituição Federal prevê em seu art. 203, caput e inciso V a garantia de um salário mínimo de benefício mensal, independente de contribuição à Seguridade Social, à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei.
+7. Para concessão do referido benefício, o requerente, além de comprovar sua deficiência ou a idade avançada, deverá demonstrar que a renda familiar mensal per capita é inferior a 1/4 (um quarto) do salário mínimo, além da incapacidade de prover a sua sobrevivência ou a de seu núcleo familiar, sendo certo que o requisito referente à renda per capita foi relativizado pela jurisprudência do STJ, no Recurso Especial Repetitivo 1.112.557/MG.
+8. Em outras palavras, a concessão do benefício está sujeita à avaliação da deficiência e do grau de incapacidade, composta por avaliação médica e avaliação social realizadas por médicos peritos e por assistentes sociais do INSS. E, em caso de concessão, deverá ser revisto a cada dois anos para avaliação da continuidade das condições que lhe deram origem.
+9. Destarte, no caso, considerando que a incapacidade laboral só ocorreu após o requerimento administrativo, o termo inicial deve ser a data da citação, vez que no momento indeferimento administrativos os requisitos à concessão do benefício assistencial, não existiam.
+10. Em relação aos danos morais, a Corte de origem consignou que não foram comprovados o dano, a conduta lesiva e o nexo causal.
+11. Assim, o acolhimento das alegações deduzidas no Apelo Nobre demandaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial. No mesmo sentido, seguem os precedentes a seguir colacionados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTO. NOTIFICAÇÃO DE LANÇAMENTO. PUBLICAÇÃO NO DIÁRIO OFICIAL. QUEBRA DE SIGILO FISCAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DESTA CORTE. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. INCIDÊNCIA. DANOS MORAIS. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 198 do CTN, apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.).
+2. A análise da questão recorrida demanda necessária interpretação das disposições da Lei Distrital 4.567/11, o que, todavia, afigura-se vedado em sede de recurso especial por atrair a incidência da Súmula 280/STF.
+3. A alteração das conclusões adotadas pela Corte de origem, quanto à ausência de comprovação do dano moral, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto no enunciado 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 721.518/DF, Rel. Min. SÉRGIO KUKINA, DJe 19.8.2015).
+
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE RESPONSABILIDADE DA CONCESSIONÁRIA. CULPA EXCLUSIVA DE TERCEIRO. REVISÃO DESSE ENTENDIMENTO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+(..).
+2. Insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática. Incidência da Súmula 7 deste Tribunal.
+Agravo regimental improvido (AgRg nos EDcl no AREsp. 665.559/SP, Rel. Min. HUMBERTO MARTINS, DJe 14.9.2015).
+12. Ante o exposto, dou parcial provimento ao Recurso Especial do Segurado, para fixar o termo inicial do benefício a citação da Autarquia previdenciária.
+13. Publique-se.
+14. Intimações necessárias.
