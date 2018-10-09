@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e Territórios.
+Consta dos autos que o paciente foi condenado à pena de 4 anos, 5 meses e 10 dias de reclusão, em regime prisional semiaberto, e ao pagamento de 40 dias-multa, pela prática do crime previsto no artigo 155, §§ 1º e 4º, I e IV, do Código Penal.
+O Tribunal a quo negou provimento à apelação defensiva, nos termos da seguinte ementa:
+"Furto qualificado. Maus antecedentes. Reincidência. Personalidade. Condenações anteriores. Qualificadoras.
+1 - A negativa de autoria não autoriza a absolvição se as provas são suficientes quanto a essa.
+2 - Se o réu registra várias condenações transitadas em julgado, é possível que cada uma delas seja considerada como circunstância judicial desfavorável de antecedentes penais e como justificativa para agravar a pena em razão da reincidência, sem que isso caracterize bis in idem.
+3 - É possível a utilização de condenações anteriores transitadas em julgado para o exame negativo da personalidade do agente, desde que observado o princípio da vedação ao bis in idem.
+4 - Tratando-se de crime com mais de uma qualificadora, é possível utilizar uma delas para qualificar o crime e outra para agravar a pena, na segunda fase da individualização, desde que haja previsão legal, ou, ainda, valorar negativamente circunstância judicial, na primeira fase.
+5 - Apelação não provida." (e-STJ, fl. 30)
+Neste writ, o impetrante alega que "o Tribunal de origem, com relação às moduladoras dos antecedentes e da personalidade, utilizou-se dos registros do histórico criminal do paciente para avaliá-las desfavoravelmente. Os registros criminais do réu foram divididos para valorar negativamente as circunstâncias judiciais, o que está a causar constrangimento ilegal a atrair a atuação dessa Corte de Justiça" (e-STJ, fl. 6).
+Sustenta que "a análise da personalidade do agente está ligada à psicologia. A folha de antecedentes criminais, por si só, não serve de lastro para avaliar a personalidade" (e-STJ, fl. 7).
+Postula, ao final, a concessão da ordem para que seja reduzida a pena-base.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Para permitir a análise dos critérios utilizados na dosimetria da pena-base, faz-se necessário expor excertos do acórdão impugnado:
+"Em relação ao réu [NOME], na primeira fase, a sentença utilizou condenações anteriores para valorar negativamente os antecedentes (f. 271- v) e a personalidade (fls. 271-v, 247 e 277), e utilizou uma das qualificadoras - rompimento de obstáculo - para valorar desfavoravelmente as circunstâncias do crime. A pena-base foi fixada em 3 anos de reclusão e 25 dias-multa.
+As condenações anteriores consideradas para valorar negativamente os antecedentes e a personalidade do réu estão dentro do prazo depurador. Podem ser utilizadas como fundamento para a valoração negativa dessas circunstâncias judiciais.
+O réu registra condenações transitadas em julgado por fatos anteriores (fls. 271-v, 247, 275, 277,). Tem maus antecedentes e é reincidente.
+Se registra várias condenações transitadas em julgado, é possível que cada uma delas seja considerada como circunstância judicial desfavorável de antecedentes penais e como justificativa para agravar a pena em razão da reincidência, sem que isso caracterize bis in idem.
+Para valorar a circunstância judicial relativa à personalidade do réu, dispensa-se a prova técnica que ateste o desajuste do réu, sendo possível utilizar condenações anteriores, transitadas em julgado, desde que observada a vedação ao bis in idem.
+ ..
+Para valorar negativamente a personalidade do réu, a sentença considerou três condenações transitadas em julgado (fls. 271-v, 247 e 277). Embora uma dessas condenações também tenha sido utilizada para valorar os antecedentes (f. 271-v), as demais (fls. 247 e 277) são aptas a valorar a personalidade, sem que haja bis in idem.
+Mantenho, pois, a valoração negativa da circunstância judicial da personalidade.
+Tratando-se de crime com múltiplas qualificadoras, é possível utilizar uma delas (concurso de pessoas) para qualificar o crime, e a outra (destruição ou rompimento de obstáculo) para caracterizar circunstância agravante, na segunda fase da individualização da pena, quando prevista no art. 61 do CP, ou, ainda, circunstância judicial, na primeira fase.
+A utilização da qualificadora como agravante ou circunstância judicial do art. 59 do CP é discricionaridade do julgador, não estando ele vinculado a qualquer critério normativo.
+ ..
+Correta, pois, a valoração desfavorável das circunstâncias do crime baseada em qualificadora do tipo penal (destruição ou rompimento de obstáculo).
+Avaliada negativamente três circunstâncias judiciais - antecedentes, personalidade e circunstâncias do crime - a sentença, considerando fração inferior a 1/8, mais benéfica ao réu e fixou a pena-base em 3 anos de reclusão e 25 dias- multa. Sem recurso da acusação, mantenho a pena-base. (e-STJ, 34-37)
+A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+A Quinta Turma deste Superior Tribunal de Justiça em recente decisão, e ao alterar seu posicionamento sobre o tema, decidiu que as condenações transitadas em julgado não são fundamentos idôneos para se inferir a personalidade do agente voltada a prática criminosa ou até mesmo para certificar sua conduta social inadequada.
+No caso, as instâncias ordinárias expressamente justificaram a valoração negativa dos antecedentes e da personalidade com base em duas condenações com trânsito em julgado, relativas a fatos anteriores. De fato, não é possível utilizar a condenação para valorar a personalidade, mas esse fato deve ser considerado para aumentar a reprimenda relativa aos antecedentes, que contam com duas condenações, nos termos da devida individualização da pena. Ademais, utilizou-se da qualificadora remanescente para valorar negativamente as circunstâncias do crime.
+Estabelecido o consagrado parâmetro de aumento de 1/8 para as circunstâncias do crime e 1/4 para os antecedentes, fazendo-a incidir sobre o intervalo de pena em abstrato do preceito secundário do crime em questão (6 anos), resultaria no acréscimo de 2 anos e 3 meses à pena mínima cominada pelo tipo penal, o que consubstanciaria 4 anos e 3 meses de reclusão. Tendo em vista que as instâncias ordinárias estabeleceram a pena-base em 3 anos de reclusão, deve esta prevalecer, em conformidade com a regra non reformatio in pejus.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
