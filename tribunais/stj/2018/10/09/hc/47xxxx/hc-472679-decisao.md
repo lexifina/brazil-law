@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] e JOAO [NOME] DE CORDOVA, apontando-se como autoridade coatora o Tribunal de Justiça do Espírito Santo, que indeferiu o pedido liminar no writ de origem.
+Argumenta o impetrante, em suma, que ao correu [NOME] foi concedida liberdade provisória, encontrando-se os pacientes na mesma situação jurídico-processual, possibilitando a extensão do benefício, alegando, ainda, a ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva.
+Os pacientes tiveram sua prisão preventiva decretada em 27/7/2018, sendo denunciados posteriormente pela prática dos delitos tipificados no art. 155, §§ 1º e 4º, c/c o art. 14, II, e art. 288, caput, ambos na forma do art. 69, todos do Código Penal.
+Na origem, no processo n. 0021871-88.2018.8.08.0024, oriundo da 8ª Vara Criminal de Vitória, designou-se audiência de instrução e julgamento para 12/11/2018, conforme informações processuais eletrônicas extraídas do site do Tribunal a quo em 3/10/2018.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão do Tribunal de origem que indeferiu a liminar foi fundamentada nos seguintes termos (fls. 7/8 - com destaque):
+ .. .Verifico, de plano, que a situação dos pacientes não é comprovadamente idêntica à do corréu [NOME], motivo pelo qual não há que se falar em extensão dos efeitos da r. decisão que indeferiu a prisão preventiva dele.
+Digo isso pois, diferente dos pacientes que foram flagrados pelas câmeras de monitoramento do Banco, o réu [NOME] não foi identificado no local dos fatos, razão pela qual o fato de possuir patrimônio incompatível com seu salário e o paciente [NOME] ter afirmado que o grupo era composto por três meliantes, não foram suficientes para que sua prisão fosse decretada.
+Vale registrar que a existência de endereço fixo veio apenas corroborar a desnecessidade da prisão cautelar, porém não foi o principal fundamento.
+Conforme já manifestei no HC nº 0022533-27.2018.8.08.0000 há prova da existência do crime e indícios da autoria, eis que, como bem destacou o Douto Magistrado, o laudo pericial demonstra o arrombamento da agência bancária e pelas imagens do vídeo monitoramento é possível identificar os pacientes no momento dos fatos, inclusive, o réu [NOME] confessou na esfera policial que cometeu o crime.
+É importante registrar que a prisão visa assegurar a garantia da ordem pública considerando o modus operandi dos pacientes que revela a periculosidade social dos reus, uma vez que vieram de outro Estado, alugaram veiculo neste Estado e se hospedaram em hotel de luxo, tendo arrombado a agente Bradesco de Goiabeiras, cortado os cabos de rede, telefonia e câmera. O paciente [NOME] ainda foii flagrado rondando outras agências bancárias neste Estado a fim de cometer furtos, conforme consta do relatório investigação (fls. 148/149). Assim, é evidente a necessidade de segregação cautelar até mesmo pelo risco de reiteração.
+Portanto, de acordo com o conjunto de fatos apurado nos autos, verifica-se que os réus estão em situações distintas, não havendo que se falar em violação ao princípio da isonomia.
+Assim, por não vislumbrar presentes os pressupostos indispensáveis à concessão da liminar pleiteada, quais sejam, o fumus boni iuris e o periculum in mora, ao menos em cognição sumária, INDEFIRO o pedido LIMINAR. .. .
+A decisão que decretou a prisão preventiva assim dispôs (fls. 100/102 - com destaques):
+ .. .Trata-se de representação promovida pela Autoridade Policial, requerendo a prisão preventiva em desfavor dos nacionais [NOME] [NOME] e JOÃO VÍTOR DE CÓRDOVA, já qualificados na inicial.
+Alega que no dia 01/06/2018, o Banco Bradesco, localizado na Praça Coronel Francisco do Nascimento, Goiabeiras, Vitória/ES, foi alvo de tentativa de furto, provocadas por dois meliantes que por circunstâncias alheias a vontade, não conseguiram subtrair qualquer numerário.
+As diligências apontam os indiciados com os indivíduos que, reiteradamente, vem cometendo o delito em tela nesse Estado. O inquérito revela que desde a semana passada, tais indivíduos estavam de volta a este Estado, sendo monitorados desde então. Hospedaram-se no Pier hotel, e utilizaram o veículo Nissan/Versa, alugado da MOVIDA, parando freqüentemente em frente a agencia bancária, com intuito, provável, de sondar sua próxima vítima.
+Conta que [NOME], na presente data, ficou das 05h40min até as 08h30min em frente ao Banco do Brasil do bairro Jardim América, Cariacica/ES. Diante da suspeita do cometimento do delito, o mesmo foi abordado, tendo confessado que estava observando a movimentação no referido Banco para poder agir futuramente.
+A polícia seguiu até o hotel onde [NOME] estava hospedado, juntamente com [NOME] e [NOME], sendo todos conduzidos para Delegacia a fim de prestar esclarecimentos.
+Segundo consta do inquérito, [NOME] confessou que cometera o crime em apuração, mas negou-se a apontar os demais indivíduos que agiram em conjunto com ele, seguindo o "Código de Ética" dessas organizações criminosas. Destaca a autoridade policial, que é bem provável que os três nacionais tenham praticado o crime em apuração, entretanto, as câmeras apenas mostram imagens de [NOME] e JOÃO, motivo pelo qual, [NOME] não figura como representado.
+ ..
+Dá analise do presente caso, verifico que estão presentes os fundamentos da prisão preventiva (artigo 312 e 313, ambos do Código de Processo Penal), em especial a garantia da ordem pública e aplicação da lei penal.
+ ..
+No vertente caso, a prisão cautelar dos acusados apresenta-se necessária para a garantia da ordem pública, como forma de acautelar o meio social e a própria credibilidade da justiça, dada a necessidade de preservação da segurança e da tranqüilidade.
+Além disso, os depoimentos colhidos perante a autoridade policial demonstram fortes indícios da autoria delitiva e a materialidade delitiva.
+Ante o exposto, DECRETO A PRISÃO PREVENTIVA DOS INDICIADOS. .. .
+De início, consoante o acima transcrito na decisão indeferitória de liminar, o correu [NOME], diversamente dos ora pacientes que foram flagrados pelas câmeras de monitoramento do banco furtado, não foi identificado no local dos fatos.
+Logo, inexistindo identidade fático-processual entre os correus, não cabe, a teor do art. 580 do CPP, deferir pedido de extensão de benefício obtido por um deles.
+No mais, expôs o decreto prisional fundamentação concreta com esteio na vivência delitiva dos pacientes, uma vez afirmar que as diligências apontam os indiciados como os indivíduos que, reiteradamente, vêm cometendo o delito em tela nesse Estado.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Não se verifica, portanto, ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
