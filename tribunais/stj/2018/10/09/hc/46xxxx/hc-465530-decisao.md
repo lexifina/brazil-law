@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEX ANTONIO CAVALCANTE MEIRELES, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o juízo da execução indeferiu o pedido de progressão de regime, por ausência do cumprimento do requisito subjetivo (fl. 29).
+Irresignada, a defesa interpôs agravo em execução perante o tribunal de origem, que negou provimento ao recurso (fls. 61/64).
+Sustenta a impetrante a existência de constrangimento ilegal ao argumento de que o indeferimento do benefício foi pautado em elementos abstratos.
+Alega ser aceitável que uma falta grave já reabilitada seja obstáculo à progressão.
+Requer a concessão da ordem constitucional para que seja deferida a progressão ao regime aberto.
+A liminar foi indeferida às fls. 73/74.
+As informações foram prestadas às fls. 81/82 e 85/91.
+O Ministério Público Federal manifestou-se às fls. 93/94.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105, inciso III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2.º, do Código de Processo Penal.
+Segundo a dicção do art. 112 da Lei de Execução Penal, para que o reeducando faça jus à promoção carcerária é necessário o preenchimento de requisitos objetivo e subjetivo.
+No que tange ao requisito subjetivo, de acordo com o aludido dispositivo legal, este é aferido através de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+No entanto, não é vedado ao magistrado o indeferimento do benefício quando, a despeito do reeducando apresentar bom comportamento carcerário certificado pelo Diretor do estabelecimento prisional em que esteja cumprindo pena, entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado.
+Nesse sentido, vejam-se:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. AUSÊNCIA DE CUMPRIMENTO. LIVRE APRECIAÇÃO DA PROVA PELAS INSTÂNCIAS ORDINÁRIAS MEDIANTE DECISÃO FUNDAMENTADA. INDEFERIMENTO COM BASE EM DADOS CONCRETOS EXTRAÍDOS DOS AUTOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+II - Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+III - Para a concessão do benefício da progressão de regime, deve o acusado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+IV - Não se vislumbra qualquer ilegalidade ou arbitrariedade na decisão impugnada, tendo em vista as peculiaridades do caso concreto que justificam o indeferimento da progressão do regime prisional em razão da ausência do cumprimento do requisito subjetivo pelo apenado.
+V - Esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, examinar se estão ou não presentes os requisitos subjetivos e objetivos para a progressão de regime prisional, pois demandaria dilação probatória aprofundada.
+Habeas Corpus não conhecido. (HC 308.630/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/03/2015, DJe 10/04/2015 - grifou-se);
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. PROGRESSÃO CONCEDIDA EM 1º GRAU. CASSAÇÃO PELO TRIBUNAL DE ORIGEM. REQUISITO SUBJETIVO NÃO PREENCHIDO. HISTÓRICO CARCERÁRIO CONTURBADO. PRÁTICA DE FALTAS GRAVES. COMETIMENTO DE NOVO DELITO DURANTE O CUMPRIMENTO DA PENA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE FLAGRANTE.
+INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Legítima é a denegação de progressão de regime com fundamentos concretos, pelo não preenchimento do requisito subjetivo em virtude, essencialmente, do histórico carcerário conturbado, com o registro da prática de faltas disciplinares de natureza grave durante o cumprimento da pena, além de ter sido preso, em flagrante, meses após ter sido expedido alvará de soltura a seu favor, por duas vezes. Precedentes.
+3. Habeas corpus não conhecido. (HC 308.744/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/02/2015, DJe 20/02/2015 - grifou-se).
+O Juízo de primeiro grau, ao indeferir a progressão de regime ao paciente consignou que "como já foi dito, o sentenciado não demonstra senso de responsabilidade e adequação à terapêutica penal que lhe é aplicada, pois possui histórico prisional desfavorável ao benefício e não há, ao menos, indícios de mudança em razão de não ter transcorrido razoável espaço de tempo. Assim, permanecem inalteradas a realidade dos fatos e a situação processual relativamente ao sentenciado. Posto isto, não conheço o pedido" (fl. 29).
+Colhe-se do acórdão recorrido (fls. 61/64):
+ ..
+O agravo não comporta provimento.
+Com efeito, considerando-se que o mérito para a obtenção do benefício pleiteado não deve ser aferido apenas e tão somente em função do preenchimento do lapso temporal, mas também em decorrência da aptidão do condenado em retornar ao convívio comunitário sem risco para a sociedade, percebe-se que o agravante, apesar de contar com atestado de bom comportamento carcerário (fls. 05), ainda não possui merecimento para tanto.
+E isso porque, segundo se verifica dos autos, o agravante possui histórico prisional conturbado, lhe tendo sido concedida a liberdade, em diversas oportunidades, desde 1995, e voltou a praticar delitos (fls. 07/16 - boletim informativo) .
+Além disso, condenado por inúmeros crimes contra o patrimônio e um homicídio duplamente qualificado, tem, ainda, longa pena a cumprir, pois o seu término está previsto para 08 de abril de 2024 (fls. 07).
+Cabe ressaltar, ainda, que, embora a gravidade dos crimes e a longevidade da pena não constituam, de forma isolada, causas impeditivas da progressão prisional, elas implicam na necessidade de maior rigor na verificação dos requisitos objetivos e subjetivos, pois a colocação do sentenciado com longa pena por cumprir em regime mais brando, onde há falta de vigilância, amplia as tentações de ele voltar a delinquir e colocar em sério risco a segurança da sociedade.
+Ademais, com bem destacado na r. Decisão recorrida, "permanecem inalteradas a realidade dos fatos e a situação processual relativamente ao sentenciado" (fls. 21), desde seu último pedido de progressão ao regime aberto, o qual foi indeferido em 31 de março de 2017 pelo MM Juízo da Varas das Execuções Criminais de Presidente Prudente, por decisão mantida por esta Colenda Câmara, quando do julgamento do agravo nº 7011026-31.2013.8.26.0482, desta relatoria.
+Assim, levando-se em consideração que, em fase de execução, vige o princípio "in dúbio pro societate", mostra-se de todo conveniente que o sentenciado permaneça tempo suficiente no regime intermediário para que possa ser mais bem observado e se constate de maneira irrefutável sua aptidão e adaptação para o gradual retorno ao convívio em sociedade podendo o douto Magistrado, para tanto, se entender necessário, submetê-lo a exame criminológico. Ante o exposto, nega-se provimento ao agravo.
+Na hipótese em testilha, verifica-se que acórdão impugnado trouxe fundamentação concreta ao consignar que " o agravante possui histórico prisional conturbado, lhe tendo sido concedida a liberdade, em diversas oportunidades, desde 1995, e voltou a praticar delitos (fls. 07/16 - boletim informativo)" (fl. 64).
+Nesse sentido, vejam-se:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. AUSÊNCIA DE CUMPRIMENTO. LIVRE APRECIAÇÃO DA PROVA PELAS INSTÂNCIAS ORDINÁRIAS MEDIANTE DECISÃO FUNDAMENTADA. INDEFERIMENTO COM BASE EM DADOS CONCRETOS EXTRAÍDOS DOS AUTOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+II - Portanto, não se admite mais, perfilhando esse entendimento, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+III - Para a concessão do benefício da progressão de regime, deve o acusado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da Lei de Execuções Penais.
+IV - Não se vislumbra qualquer ilegalidade ou arbitrariedade na decisão impugnada, tendo em vista as peculiaridades do caso concreto que justificam o indeferimento da progressão do regime prisional em razão da ausência do cumprimento do requisito subjetivo pelo apenado.
+V - Esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, examinar se estão ou não presentes os requisitos subjetivos e objetivos para a progressão de regime prisional, pois demandaria dilação probatória aprofundada.
+Habeas Corpus não conhecido. (HC 308.630/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/03/2015, DJe 10/04/2015 - grifou-se);
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. PROGRESSÃO CONCEDIDA EM 1º GRAU. CASSAÇÃO PELO TRIBUNAL DE ORIGEM. REQUISITO SUBJETIVO NÃO PREENCHIDO. HISTÓRICO CARCERÁRIO CONTURBADO. PRÁTICA DE FALTAS GRAVES. COMETIMENTO DE NOVO DELITO DURANTE O CUMPRIMENTO DA PENA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE FLAGRANTE.
+INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Legítima é a denegação de progressão de regime com fundamentos concretos, pelo não preenchimento do requisito subjetivo em virtude, essencialmente, do histórico carcerário conturbado, com o registro da prática de faltas disciplinares de natureza grave durante o cumprimento da pena, além de ter sido preso, em flagrante, meses após ter sido expedido alvará de soltura a seu favor, por duas vezes. Precedentes.
+3. Habeas corpus não conhecido. (HC 308.744/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/02/2015, DJe 20/02/2015 - grifou-se).
+Por tais razões, não se verifica no acórdão objurgado constrangimento ilegal a ser reparado, de ofício, por este Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no artigo 34, inciso XX, do RISTJ, não se conhece do habeas corpus.
+Publique-se.
