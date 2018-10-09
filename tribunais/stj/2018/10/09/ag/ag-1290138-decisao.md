@@ -1,0 +1,5 @@
+DECISÃO
+1. Trata-se de Agravo de Instrumento interposto pela UNIVERSIDADE FEDERAL DA BAHIA - UFBA, ao qual foi dado provimento pelo Ministro LUIZ FUX, determinando a subida do Recurso Especial, com decisão publicada em 3.5.2010.
+2. Contudo, conforme informações às fls. 2 prestadas pela Coordenadoria da Primeira Turma desta Corte, foi interposto, também, Recurso Especial pela parte contrária, o Sindicato Nacional dos Docentes das Instituições de Ensino Superior. Este foi atuado como RESp. 1.173.616/BA e distribuído à Ministra MARIA THEREZA DE ASSIS MOURA, que negou seguimento ao recurso, em decisão publicada em 14.1.2010. O Agravo Regimental interposto não foi conhecido e os Embargos de Declaração foram rejeitados. O trânsito em julgado foi certificado e os autos remetidos ao TRF da 1a. Região em 11.10.2012.
+3. Diante das considerações, em razão da prevenção, torno sem efeito a decisão de fls. 416/418. Encaminhe-se o feito à Ministra MARIA THEREZA DE ASSIS MOURA, nos termos do art. 71 do RISTJ, e à Secretaria Judiciária para as providências cabíveis.
+4. Publique-se. Intimações necessárias.
