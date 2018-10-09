@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – NORMAS LEGAIS – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Eis os fundamentos da decisão impugnada:
+    Pois bem. Conforme se comprovou nos autos o autor necessitou em 24 de abril de 2009 de atendimento no Hospital São Camilo em razão de uma infecção em seu pé direito, causada e agravada pela diabetes de que era portador. Houve negativa por parte da seguradora, momento em que seus familiares resolveram interná-lo em regime particular, arcando com todas as despesas, que totalizaram R$ 7.050,00 [sendo R$ 6.000,00 com despesas hospitalares e R$ 1.050,00 de honorários médicos]. Em 29 de outubro de 2009 necessitou de novo atendimento, também relacionado ao seu pé direito, sendo indicada pelo médico que o atendeu a realização de uma cirurgia de amputação. Novamente a internação e demais procedimentos foram negados, necessitando o autor despender o valor de R$ 19.299,49, conforme a nota fiscal de fl. 41.
+    Ora, como o Hospital São Camilo Pompéia fazia parte tanto do rol de hospitais credenciados ao réu, como ao seu plano MAXIM, a recusa no atendimento foi injusta, fato este já afirmado no Acórdão envolvendo as mesmas partes e acima citado. Portanto, o mesmo entendimento deve ser preservado por esta Turma Julgadora no sentido de que todos os procedimentos a que se submeteu o autor dentro do nosocômio são de responsabilidade da seguradora, inclusive em relação aos honorários médicos. Sem esquecer, é claro, que a conduta do réu é reincidente.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    O Tribunal, no recurso extraordinário com agravo nº 748.371/MT, relatado pelo ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 9 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
