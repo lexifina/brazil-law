@@ -1,0 +1,31 @@
+Trata-se de Ação Direta de Inconstitucionalidade proposta pela Confederação Nacional dos Trabalhadores do Ramo Financeiro – Contraf contra o Presidente da República Federativa do Brasil, o Presidente da Caixa Econômica Federal e a Caixa Econômica Federal – CEF, alegando que, em 19/1/2018, a Assembleia Geral aprovou um novo Estatuto para a CEF, fazendo-o com esteio no art. 72 do Decreto 8.945/2016, o qual contraria o Decreto-Lei 759/1969, na medida em que este exige Decreto Presidencial para aprovação dos Estatutos da citada instituição.
+    Aduziu que o Decreto-Lei 759/1969 foi recepcionado pela Constituição – CF como Lei Complementar, nos termos do art. 192 da Carta Magna, sendo indispensável que os Estatutos da CEF sejam aprovados por Decreto editado pelo Presidente da República, na forma do art. 84, IV da CF, até mesmo porque não consta da Lei das Estatais a revogação do art. 9º do Decreto-Lei 759/1969.
+    Relatou que, inicialmente, ingressou com Ação de Descumprimento de Preceito Fundamental – ADPF, tendo o Ministro Relator afirmado que, como a autora buscava a declaração da inconstitucionalidade da aplicação do art. 27, § 3°, do Decreto 8.945/2016 à CEF, bem como a aplicação da Lei 13.303/2016 às instituições financeiras de caráter público, o pedido deveria ser, necessariamente, objeto de ação direta de inconstitucionalidade ou de ação declaratória de constitucionalidade.
+    Afirmou terem sido violados os seguintes artigos da Constituição:
+    (i) art. 48, IX e XIII, porque só o Congresso Nacional poderia revogar as normas previstas no Decreto-Lei 759/1969;
+    (ii) art. 192, porque o sistema financeiro nacional deve ser regulado por leis complementares, sendo ele constituído pelas instituições financeiras públicas e privadas, nos termos do art. 1º, V, da Lei 4.595/1964;
+    (iii) art. 37, porque houve ofensa ao princípio da legalidade pela aprovação do novo Estatuto Social da CEF;
+    (iv) art. 84, IV, porque o Decreto Presidencial 8.945/2016 exorbita do âmbito da Lei 13.303/2016, além de contrariá-la.
+    Asseverou que o Decreto em questão visa regular a Lei 13.303/2016, a qual não dispõe sobre o procedimento para a aprovação do Estatuto da Empresa Pública, ao passo que é a Lei 4.595/1964 que o faz.
+    Insistiu em que o novo Estatuto da CEF ressalta que a instituição é regida pelo Decreto-Lei 759/1969, mas, paradoxalmente, deixe de cumpri-lo. Sublinhou que há reserva de competência do Congresso Nacional para revogar leis federais e que, no caso concreto, apenas lei complementar poderia regular a matéria.
+    Enfatizou que o teor do Estatuto Social é decisivo para a gestão da CEF, e que, caso não seja suspenso, produzirá inúmeros atos inválidos, causando prejuízo à segurança jurídica e justificando o reconhecimento do periculum in mora. Invocou os precedentes da ADPF 489, da ADI 2332 MC, e da ADI 3964 para o deferimento da liminar.
+    Por fim, requereu:
+    “1 – A suspensão, em sede de liminar, de todos os Processos Seletivos em trâmite na Caixa Econômica Federal sob arrimo do Estatuto em debate;
+    2 – A suspensão das posses dos profissionais, eventualmente, escolhidos para preencherem os cargos constantes dos processos seletivos relacionados no tópico anterior;
+    3 – A suspensão do novo estatuto da Caixa Econômica Federal, visando evitar atos eivados de nulidade insanável, até que, e se, expedido Decreto de Aprovação pelo Presidente da República do Brasil;
+    4 – Seja notificada a eminente Procuradora Geral da República, para emissão de parecer;
+    5 – Seja declarada inconstitucional a aplicação do arts. 27, §3º e 72, parágrafo único do Decreto 8945/2016 à Caixa Econômica Federal;
+    6 – Seja declarada inconstitucional a aplicação da lei 11.303/2016 às instituições financeiras de caráter público;
+    7 – A anulação do ato de aprovação do novo Estatuto Social da Caixa Econômica Federal pela Assembleia Geral da instituição, bem como, a Declaração de ineficácia, invalidade e ausência de vigência do diploma até que, e se, expedido Decreto Presidencial de Aprovação, nos termos do art. 9º do Decreto-Lei 759/69;
+    8 – A anulação de todos os processos seletivos em trâmite na Caixa Econômica Federal sob a égide do Estatuto atual;
+    9 – A anulação da posse dos profissionais, eventualmente, escolhidos nos processos seletivos relacionados no tópico anterior;
+    10 – A anulação dos atos realizados pelos gestores, ancorados no novo Estatuto Social da Caixa Econômica Federal, nos casos em que haja expresso conflito com os ditames previstos no Estatuto Social anterior, aprovado pelo Decreto Presidencial nº 7973/2013, que pela nulidade insanável de aprovação do diploma pela Assembleia Geral da Empresa Pública, jamais deixou de viger;
+    11 – A intimação da Diretoria Jurídica da Caixa Econômica Federal para realizar o controle de nulidade dos atos mencionados no pedido anterior, bem como, para mitigar os efeitos dessas nulidades de forma a não prejudicar o funcionamento harmônico da instituição secular Caixa Econômica Federal.”
+    É o relatório. Decido.
+    Pois bem. Em 27/6/2018, nos autos da ADI 5.624/DF, concedi, em parte, a cautelar, ad referendum do Plenário do Supremo Tribunal Federal, para, liminarmente, conferir interpretação conforme à Constituição ao art. 29,  caput, XVIII, da Lei 13.303/2016, afirmando que a venda de ações de empresas públicas, sociedades de economia mista ou de suas subsidiárias ou controladas exige prévia autorização legislativa, sempre que se cuide de alienar o controle acionário, bem como que a dispensa de licitação só pode ser aplicada à venda de ações que não importem a perda de controle acionário de empresas públicas, sociedades de economia mista ou de suas subsidiárias ou controladas.
+    Assim, tendo em vista a conveniência de um julgamento único e definitivo sobre os temas afetos à Lei das Estatais, além da evidente relevância da matéria e de seu especial significado para a ordem social e a segurança jurídica, adoto o procedimento abreviado previsto no art. 12 da Lei 9.868/1999.
+    Isso posto, solicitem-se informações ao Presidente da República e ao Presidente da CEF. Após, ouça-se, sucessivamente, a Advocacia-Geral da União e a Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 9 de outubro de 2018.
+Ministro  Ricardo Lewandowski
+Relator
