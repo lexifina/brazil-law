@@ -1,0 +1,50 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. JUROS DE MORA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. OMISSÃO INEXISTENTE. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento na alínea a do art. 105, III da Constituição Federal, que objetiva a reforma do acórdão do egrégio Tribunal Regional Federal da 4a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO COLETIVA N. 99.00.09226-0. JUROS DE MORA DE 1%. ART. 741, §Ú, DO CPC/73. INAPLICABILIDADE NA HIPÓTESE. AUSÊNCIA DE FUNDAMENTO EMPREGADO NO TÍTULO QUE TENHA SIDO DECLARADO COMO INTERPRETAÇÃO INCONSTITUCIONAL.
+1. É assente o entendimento jurisprudencial no sentido de que o art. 741, §ú, por excepcionar o princípio da imutabilidade da coisa julgada, deve ser interpretado restritivamente. Precedentes.
+2. A interpretação declarada incompatível com a constituição deve ter sido efetivamente utilizada como fundamento na sentença transitada em julgado, isto é, deve estar expressa no título executivo que se alega inexigível por tal argumento.
+3. A sentença inicialmente proferida na ação n. 99.00.09226-0 não fixou os juros aplicáveis. Em sede de embargos de declaração, somente o dispositivo sentencial foi alterado, fixando-se juros de 1% a.m. Obscuro o fundamento empregado na sentença, da qual não foram opostos novos embargos declaratórios, não cabe, em sede de execução, presumir o fundamento utilizado e contra ele se insurgir alegando "interpretação" inconstitucional.
+4. Hipótese em que a situação concreta não se enquadra entre aquelas nas quais é aplicável o art. 741, §ú, CPC/73.
+5. Agravo de instrumento não provido.
+2. Os Embargos de Declaração opostos foram providos para fins de prequestionamento, nos termos da seguinte ementa:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DOS FUNDAMENTOS DO ACÓRDÃO EMBARGADO.
+1. Os embargos de declaração são cabíveis para o suprimento de omissão, saneamento de contradição, esclarecimento de obscuridade ou correção de erro material no julgamento embargado. A jurisprudência também os admite para fins de prequestionamento.
+2. Os embargos declaratórios não se prestam à reforma do julgado proferido, nem substituem os recursos previstos na legislação processual para que a parte inconformada com o julgamento possa buscar sua revisão ou reforma.
+3. Embargos declaratórios de [NOME] e outros providos para correção de erro material.
+4. Embargos declaratórios da União parcialmente providos apenas para fins de prequestionamento.
+3. Nas razões de seu Apelo Nobre inadmitido, sustenta a parte recorrente violação ao art. 1.022 do Código Fux, ao fundamento de que o acórdão recorrido, a despeito da oposição dos Embargos de Declaração, foi omisso sobre a alegação de que há entendimento contrário ao defendido no acórdão. Argumenta haver coisa julgada inconstitucional, de forma que deveria ser aplicada a previsão da MP 2.180-35/2001, incidindo juros de 6% a.a. desde a citação.
+4. É o relatório.
+5. A questão em debate cinge-se à existência de contradição no acórdão hostilizado no tocante à conclusão adotada pela Corte de origem de que a parte autora estaria aposentada.
+6. Inicialmente, importa salientar que a contradição autorizadora da oposição dos Aclaratórios é aquela de ordem interna, que se caracteriza nos termos da própria decisão embargada, e não entre os termos da decisão e o entendimento que a parte reputa correto. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMERCIALIZAÇÃO DE IMPRESSOS CONTENDO NORMAS TÉCNICAS DA ABNT. COBRANÇA INDEVIDA. OMISSÃO E CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. A contradição que autoriza a oposição de embargos declaratórios é a interna, ou seja, entre as proposições do próprio julgado, e não entre a sua conclusão e o que fora discutido nos autos.
+3. Não compete ao eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. Para futura interposição de recurso extraordinário, basta a prévia oposição de embargos de declaração (vide Súmula 356 do STF).
+4. Embargos de declaração rejeitados (EDcl no AgInt no REsp. 1.621.370/SP, Rel. Min. LÁZARO GUIMARÃES, DJe 4.9.2018).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..).
+III - A contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, ou seja, o recurso integrativo não se presta a corrigir contradição externa, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+(..).
+VII - Agravo Interno improvido (AgInt no REsp. 1.737.581/DF, Rel. Min. REGINA HELENA COSTA, DJe 4.9.2018).
+
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTAÇÃO DOS ACÓRDÃOS PROFERIDOS NA INSTÂNCIA RECURSAL ORDINÁRIA. AUSÊNCIA DE CONTRADIÇÃO INTERNA A SER SANADA. DOSIMETRIA. PETIÇÃO INICIAL EM QUE O PARQUET AUTOR ESPECIFICOU CADA UMA DAS PENAS QUE DESEJAVA FOSSEM IMPOSTAS AO RÉU. AUSÊNCIA DE PEDIDO EXPRESSO QUANTO À SANÇÃO CONSISTENTE NA PERDA DO CARGO. CORTE REGIONAL QUE INVOCA O PRINCÍPIO DA ADSTRIÇÃO AO PEDIDO PARA AFASTAR A IMPOSIÇÃO DESSA ÚLTIMA PENALIDADE. DISPOSITIVOS SUSCITADOS NO RECURSO MINISTERIAL QUE NÃO CONTÊM COMANDO CAPAZ DE REFUTAR A TESE ASSIM ADOTADA PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 284/STF.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado, hipótese ausente no caso concreto.
+2. A questão agitada no recurso especial do Parquet autor, desenganadamente, diz com a possibilidade, à luz do princípio da congruência ou adstrição, de se impor ao réu sanção diversa daquelas expressamente individualizadas e postuladas na petição inicial, dentre as quais não constou a perda do cargo ocupado pelo recorrido. No ponto, tem-se que, com relação aos arts. 12, I, e 20 da Lei 8.429/1992, tais dispositivos não encerram comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido quanto à ausência de pedido expresso do demandante, em contexto que faz atrair a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+3. Agravo interno improvido (AgInt no REsp. 1.420.289/ES, Rel. Min. SÉRGIO KUKINA, DJe 6.9.2018).
+7. Na hipótese, verifica-se, todavia, inexistir a alegada omissão, uma vez que os argumentos da ora recorrente revelam sua insatisfação com a análise dos elementos de prova, levada a efeito pelo Tribunal de origem, não havendo vício interno nas razões do acórdão apto a viabilizar o acolhimento dos Embargos.
+8. Assim, observa-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+9. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+10. Neste sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. ARTIGO 535 DO CPC. OFENSA NÃO CARACTERIZADA. ART. 273 DO CPC. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SUMULA 7 DO STJ. FUNDAMENTO CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 126/STJ. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA "A". DISSÍDIO PRETORIANO PREJUDICADO.
+1. Não se verifica a ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..).
+5. Agravo Regimental não provido (AgRg no AREsp. 615.053/RJ, Rel. Min. HERMAN BENJAMIN, DJe 6.4.2015).
+
+DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCON. APLICAÇÃO DE MULTA EMPRESA PÚBLICA FEDERAL. REDUÇÃO DO VALOR. NÃO OFENSA AO ART. 535 DO CPC. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Correta a rejeição dos embargos de declaração ante a inexistência de omissão, contradição ou obscuridade a ser sanada e, por conseguinte, deve-se concluir pela ausência de ofensa ao artigo 535 do CPC.
+2. A controvérsia dos autos foi dirimida com base nos fatos e provas constantes dos autos, de modo que o recurso especial é inviável em razão do enunciado n.º 07 da Súmula desta Corte.
+3. Agravo regimental não provido (AgRg no AREsp. 618.556/PE, Rel. Min. BENEDITO GONÇALVES, DJe 31.3.2015).
+11. Diante do exposto, nega-se provimento ao Recurso Especial da UNIÃO.
+12. Publique-se. Intimações necessárias.
