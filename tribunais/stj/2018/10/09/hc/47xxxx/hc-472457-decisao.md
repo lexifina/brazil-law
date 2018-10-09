@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra decisão monocrática do Relator, proferida no âmbito do Tribunal de Justiça do Estado de São Paulo, que indeferiu a medida liminar postulada no HC n. 2198949-09.2018.8.26.0000.
+O sentenciado requereu o deferimento da progressão de regime em sede de execução, por, segundo alegado, preencher todos os requisitos legais para tanto. Entretanto, o Juízo a quo determinou a realização de exame criminológico. (e-STJ fls. 64/65).
+Inconformada, a defesa impetrou habeas corpus perante o TJSP, que, ao analisar o pedido liminar, indeferiu a medida antecipatória por considerar que não estavam presentes os requisitos para sua concessão (e-STJ fls. 69/70).
+Nas razões do presente mandamus, a defesa sustenta, em síntese, a inidoneidade da decisão que determinou a realização do exame criminológico para fins de progressão de regime.
+Diante disso, requer, liminarmente, ""a suspensão cautelar da decisão que determinou a realização de prova pericial no Paciente, até o julgamento colegiado deste habeas corpus, e impor ao magistrado que, enquanto o presente writ tramitar, analise o pleito de progressão de regime com base apenas nos requisitos legais (Lei 7.210/1984, art. 112)"". No mérito, pede que "seja concedida a ordem, de ofício, para reconhecer a ausência de fundamentação idônea, e, revogando a decisão que determinou a realização de perícia no Paciente e impor ao Juízo originário análise, em 24 horas, o pleito de progressão de regime formulado, deforma definitiva, sem a realização desta prova pericial, tomando por base apenas os taxativos requisitos legais (Lei 7.210/1984, art. 112, caput)."
+É o relatório. Decido.
+O presente mandamus merece ser indeferido de plano.
+Isso porque é assente a jurisprudência do Superior Tribunal de Justiça no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira do enunciado da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo se demonstrada flagrante ilegalidade. A propósito:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância. (Enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese. Agravo regimental desprovido. (AgRg no HC n. 306.319/CE, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/06/2015, DJe 19/06/2015).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DE HABEAS CORPUS. APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO DO PRÓPRIO WRIT.AGRAVO REGIMENTAL PREJUDICADO.
+1. Tratando-se de impetração contra decisão monocrática, proferida por Desembargador Relator do Tribunal Estadual, que indeferiu pedido de liminar, em que não se observa teratologia ou falta de fundamentação, não há que ser mitigada a aplicação da Súmula n. 691 do STF.
+2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do writ originário, impetrado em 2º Grau, torna prejudicada a análise do habeas corpus, impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste writ, pelo julgamento do habeas corpus na origem.
+4. Agravo Regimental prejudicado. (AgRg no HC n. 288.056/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/05/2015, DJe 26/05/2015).
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, de minha relatoria, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Não é o que ocorre na espécie.
+Consoante se observa dos autos, a decisão que indeferiu o pedido liminar na origem não ostenta ilegalidade evidente e apta a desafiar controle antecipado por este Superior Tribunal, pois, sob a cognição sumária, está devidamente fundamentada, in verbis (e-STJ fls. 69/70):
+ ..
+Pleiteia-se a concessão da ordem para afastar a exigência de realização de exame criminológico, determinando-se que a autoridade impetrada analise o pedido de progressão de regime mediante apreciação, apenas, dos requisitos previstos em lei.
+A matéria arguida na impetração diz respeito ao próprio mérito do writ, escapando, portanto, aos restritos limites da medida liminar, que há de ser deferida apenas nos casos em que exsurge flagrante o constrangimento ilegal apontado, o que não é o caso dos autos.
+Indefiro, pois, a liminar.
+Requisitem-se informações à autoridade apontada coatora e, após, colha-se a manifestação da douta Procuradoria Geral de Justiça, tornando-me os autos, na sequência, em nova conclusão.
+ ..
+Com efeito, a análise perfunctória do writ não evidencia a ocorrência de constrangimento ilegal hábil a permitir a concessão da ordem de ofício.
+É certo que questões suscitadas pela defesa do paciente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Sem recurso, arquivem-se os autos.
