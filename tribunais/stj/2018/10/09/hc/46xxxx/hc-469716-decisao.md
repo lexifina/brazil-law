@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] contra acórdão por meio do qual o Tribunal de Justiça do Estado de São Paulo denegou o writ pleiteado naquela instância (autos de n. 2191553-78.2018.8.26.0000).
+Infere-se dos autos que o paciente foi condenado, por infração aos arts. 157, § 2º, I, II e V; 121, § 2º, IV, V e VII c/c art. 14, II, por duas vezes, 288 e 329, todos do Código Penal e ao art. 16, parágrafo único, IV, da Lei n. 10.826/2003, à pena de 28 anos, 4 meses e 5 dias de reclusão, em regime inicial fechado, sendo-lhe negado o direito de apelar em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem. A ordem, contudo, foi denegação nos termos da seguinte ementa (e-STJ fl. 15):
+HABEAS CORPUS Pleito para recorrer em liberdade. Impossibilidade. Paciente condenado pela prática dos delitos de roubo, homicídio qualificado tentado e associação criminosa. Fixação do regime inicial fechado para desconto da pena. Inviolabilidade do princípio constitucional da presunção de inocência. Increpado que permaneceu recolhido cautelarmente durante a instrução processual. Alegação de excesso de prazo na formação da culpa. Descabimento. Prolação de r. sentença penal condenatória na origem Incidência do verbete 52 do E. Superior Tribunal de Justiça. Manutenção da situação do increpado. Denegação da ordem.
+Na presente impetração, a defesa alega, em síntese, que o excesso de prazo para a formação da culpa em definitivo, argumentando que o paciente encontra-se preso cautelarmente desde 27/09/2016. Defende que a ação é simples e que a defesa não deu causa para a referida demora, não se mostrando razoável o tempo que o paciente está preso.
+Em liminar e no mérito, pede a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares alternativas.
+Indeferida a liminar (e-STJ fls. 110/115), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus e, caso conhecido, pela denegação da ordem (e-STJ fls. 119/128).
+É o relatório. Decido.
+Busca o presente writ, o reconhecimento do excesso de prazo da prisão do paciente.
+Ocorre que, antes mesmo da presente impetração, o paciente foi condenado, por infração aos arts. 121, § 2º, IV, V e VII, c/c o art. 14, II; 157, § 2º, I, II e V; e 288, parágrafo único, todos do Código Penal, à pena de 28 anos, 4 meses e 5 dias de reclusão, em regime inicial fechado, além de multa.
+Com efeito, com o encerramento da instrução criminal, resta superada a alegação de excesso de prazo para a formação da culpa, nos termos do enunciado n. 52 da Súmula desta Corte, segundo o qual Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+Outrossim, não existe um prazo definido para a formação da culpa em definitivo.
+Assim, o excesso de prazo não pode ser medido apenas em razão do tempo decorrido para o julgamento definitivo do feito, devendo ser apreciado, também, a partir do princípio da razoabilidade e da proporcionalidade, tendo em vista a complexidade da causa em julgamento e do quantum da pena imposta na sentença condenatória.
+Destarte, considerando a pena total a que foi condenado o paciente - 28 anos, 4 meses e 5 dias de reclusão -, não verifico flagrante excesso de prazo para o julgamento definitivo do feito. Além disso, expedida a competente guia de execução provisória, o paciente já pode usufruir de benefícios relativos à execução da pena, que já foi iniciada.
+Ante o exposto, não conheço o presente mandamus.
+Publique. Intime-se.
