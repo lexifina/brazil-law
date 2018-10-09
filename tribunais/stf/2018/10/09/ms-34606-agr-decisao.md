@@ -1,0 +1,16 @@
+Despacho: Trata-se de Agravo Regimental que tem como pedidos (eDOC 8, p. 8):
+     “Em defluência do exposto e mais que nos autos do processo consta, requerem os Agravantes a Vossa Excelência se digne admitir o presente Agravo Regimental interposto, e lhe dando PROVIMENTO, tendo em vista as razões suscitadas e oportunamente, para conhecer e acolher os pedidos neles formulados, para que seja redistribuído o presente Mandado de Segurança tendo em vista o impedimento dos julgadores da Segunda Turma desta Egrégia Corte, bem como que seja admitido o presente Mandado de Segurança e após sua apreciação seja o “writ” impetrado julgado TOTALMENTE PROCEDENTE, como medida de Justiça!”
+    Tendo em vista que o embargante pleiteia a redistribuição do presente mandado de segurança, sob alegação de impedimento dos julgadores da Segunda Turma, haja vista a exclusão da referida turma para julgar o writ, os fundamentos do presente recurso dirigem-se, na verdade, contra decisão da Presidência desta Suprema Corte, assim exarada (eDOC 2):
+    1. Em 29.8.2017, o Ministro Edson Fachin submeteu ao exame desta Presidência proposta de redistribuição do presente mandado de segurança:
+    “Despacho: Trata-se de Embargos de Declaração opostos contra decisão monocrática por mim proferida, a qual negou seguimento a mandado de segurança impetrado em face de decisão referente à Reclamação Constitucional 22.848, da relatoria do Ministro Celso de Mello. Tendo em vista que o embargante pleiteia, preliminarmente, a redistribuição do presente mandado de segurança, sob alegação de impedimento dos julgadores da Segunda Turma, haja vista a exclusão da referida turma para julgar o writ, determino a remessa dos autos à Presidência para análise de possível redistribuição do presente processo, tendo em vista que a partir de 2 de fevereiro do corrente ano, este relator passou a integrar a Segunda Turma” (doc. 11).
+    2. Na espécie vertente não se revela situação jurídica ensejadora da prevenção suscitada.
+    3. O presente mandado de segurança foi impetrado em 1º.2.2017 e distribuído por exclusão dos Ministros que compõem a Segunda Turma deste Supremo Tribunal, prolatora do acórdão objeto da impetração (Reclamação n. 22.848-AgR).
+    A ação foi então distribuída, por sorteio, em 1º.2.2017, ao Ministro Edson Fachin, que naquela data compunha a Primeira Turma deste Supremo Tribunal, a qual, por exclusão, tornou-se o colegiado prevento para o julgamento desta ação mandamental.
+    4. A transferência do Ministro Edson Fachin para a Segunda Turma não desloca a competência para aquele Colegiado para julgamento de eventuais recursos interpostos contra decisões proferidas pelo Ministro Relator, tampouco enseja a redistribuição do processo, por prevenção, a um dos Ministros que atualmente compõem a Primeira Turma. A Primeira Turma persiste competente para se pronunciar sobre os recursos interpostos contra decisões proferidas na presente ação mandamental.
+    5. Pelo exposto, deixo de acolher a proposta de redistribuição e determino sejam estes autos eletrônicos restituídos ao Ministro Relator.
+    Ante o exposto, determino a remessa dos autos à Presidência do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 9 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
