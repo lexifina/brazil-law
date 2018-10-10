@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo (eDOC 10, p. 26):
+    “APELAÇÃO - AÇÃO INDENIZATÓRIA DE DESAPROPRIAÇÃO INDIRETA – FASE DE EXECUÇÃO – Insurgência contra o cálculo do Departamento de Execução de Precatórios – Inaplicabilidade da lei 11.960/2009 – Ocorrência – Trânsito em julgado e início do processo de execução anteriores à promulgação da citada Lei – Incidência de juros e correção monetária oriunda de decisão judicial revestida de eficácia da coisa julgada material – Sentença mantida – Recurso Improvido.”
+    Foram rejeitados os embargos de declaração (eDOC 10, p. 46).
+    No recurso extraordinário interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, alega-se violação da coisa julgada e do artigo 100, § 5º, da Constituição Federal, do artigo 78 do ADCT, bem como da Súmula Vinculante nº 17 do STF.
+    Nas razões recursais sustenta-se, em síntese, que no cálculo do precatório não devem ser incluídos juros de mora pois não houve atraso no pagamento, o qual foi parcelado consoante disposição do artigo 78 do ADCT.
+    Arguiu-se, ainda, que, quando vencido o prazo para pagamento do precatório, em caso de não pagamento, o cômputo de juros deverá incidir somente depois do vencimento do prazo.
+    É o relatório. Decido.
+    De plano, verifica-se que a controvérsia posta em juízo cinge-se ao Tema 132 da sistemática da repercussão geral, cujo recurso-paradigma é o ARE 590.751 RG, de relatoria do Ministro Ricardo Lewandowski, DJe 04.04.2011, assim ementado:
+    “CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT, INTRODUZIDO PELA EC 30/2000. INCIDÊNCIA DE JUROS COMPENSATÓRIOS E MORATÓRIOS NAS PARCELAS SUCESSIVAS. INADMISSIBILIDADE. ART 5º, XXIV E XXXVI, DA CONSTITUIÇÃO. OFENSA AO PRINCÍPIO DA JUSTA INDENIZAÇÃO. NECESSIDADE DE REEXAME DE PROVA. OFENSA REFLEXA. INCIDÊNCIA DA SÚMULA 279 DO STF. RE PARCIALMENTE PROVIDO. I - O art. 78 do ADC possui a mesma mens legis que o art. 33 deste Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência destes nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente. II – Não se mostra possível, em sede de recurso extraordinário, examinar a alegação de ofensa ao princípio da justa indenização, abrigado no art. 5º, XXIV, da Constituição Federal, diante do que dispõe a Súmula 279 do STF. III - A discussão acerca dos limites objetivos da coisa julgada, ademais, constitui matéria de legislação ordinária, que não dá ensejo à abertura da via extraordinária. IV - Recurso extraordinário parcialmente provido.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 10 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
