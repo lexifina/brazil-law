@@ -1,0 +1,32 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face de acórdão da 1ª Turma Recursal do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (eDOC 3, p. 52/53):
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. PERITO MÉDICO-LEGISTA. POLÍCIA CIVIL. PROVA FÍSICA. VALIDADE E LEGALIDADE. RECURSO IMPROVIDO.
+    1. O cargo de Perito Médico-Legista encontra-se submetido aos requisitos estabelecidos pelo artigo 9º, VI, da Lei nº 4.878/65, que dispõe sobre o regime jurídico peculiar dos funcionários policiais civis da União e do Distrito Federal, sendo requisito para ingresso na Academia de Polícia, dentre outros, gozar de boa saúde física, não havendo necessidade de previsão expressa na lei sobre a comprovação por meio de prova física.
+    2. O teste físico está previsto no edital, do qual o recorrente tinha plena ciência, e não há nos autos nenhuma notícia e tampouco comprovação de impugnação tempestiva aos termos do edital, cuja irresignação surgiu apenas após a reprovação na prova física. A pretensão de afastamento desta fase do concurso, a qual foram submetidos todos os demais candidatos, por meio de decisão judicial, fere o princípio da isonomia, pois se concederia condição privilegiada a determinado candidato em detrimento ao demais, o que contraria o ordenamento jurídico como um todo.
+    3. Má condição da pista. O Tribunal de Justiça já decidiu (fls. 177/180) que problemas da pista de corrida não é suficiente para a anulação da prova para se prestigiar o princípio da isonomia, posto que os demais candidatos realizaram a prova na mesma pista e em condições idênticas às do recorrente.
+    4. Exercício de cargo equivalente em outro estado da federação. O exercício de cargo similar não exime o recorrente de realizar e ser aprovado em todas as fases do concurso, posto que não se admite a presunção de satisfação dos requisitos do edital.
+    5. Recurso conhecido e improvido.
+    6. Condeno o recorrente ao pagamento de custas e de honorários advocatícios, fixados em R$ 800,00 (oitocentos reais).
+    7. Acórdão elaborado de conformidade com o disposto no art. 46 da Lei 9099/1995.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 94-100).
+    No recurso extraordinário, com fundamento no art. 102, III, a, b e c, do permissivo constitucional, aponta-se ofensa ao artigo 37, caput e II, da Constituição Federal.
+    Nas razões do recurso, sustenta-se, em suma, que “somente a lei pode impor requisito para o acesso a cargo ou emprego público. Destaca-se que no caso in concreto, é fato incontroverso que não há lei disciplinando ou prevendo a exigência de submissão a exame de aptidão física” (eDOC 3, p. 116) e “a imprecisão nos métodos utilizados para auferir a metragem da prova” (eDOC 4, p. 2).
+    A Presidência da 1ª Turma Recursal do Juizados Especiais do Distrito Federal inadmitiu o recurso assentando a deficiência na fundamentação da existência de repercussão geral, a incidência à espécie dos óbices das Súmula 280, 279 e 454 do STF, e a não ocorrência das hipóteses de cabimento dos inciso b e c do inciso III do art. 102 da Constituição Federal (eDOC 4, p. 18-25).
+    É o relatório. Decido.
+    Não assiste razão à parte recorrente.
+    Conforme se extrai dos itens 1 e 2 da ementa do acórdão recorrido, o Tribunal de origem assentou a submissão do cargo de Perito Médico-Legista aos requisitos estabelecidos pelo artigo 9º, VI, da Lei nº 4.878/65, e que o teste físico está previsto no edital.
+    Sendo esses os fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação infraconstitucional de regência, bem como das cláusulas editalícias, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 454 do STF e a inexistência de afronta direta à Carta da República, uma vez que possível afronta Constituição, se existente, somente se viabilizaria de modo indireto ou reflexo.
+    Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Concurso público. Escrivão de polícia. Teste de aptidão física. Previsão legal e editalícia. Acórdão recorrido assentou que as atribuições previstas pela lei justificam a realização do teste físico. Necessidade de reexame da legislação local aplicável. Ofensa reflexa. 3. Ausência de abuso de poder ou ilegalidade em cláusula de edital que preveja a realização de teste de aptidão física quando a natureza e as atribuições do cargo justifiquem, em consonância com o princípio da razoabilidade, a referida exigência. 4. Agravo regimental a que se nega provimento.” (ARE 748162 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 13.11.2015)
+    Confiram-se, ainda, as seguintes decisões monocráticas: ARE 1141715/DF, Rel. Min. Marco Aurélio, DJe 11.9.2018; ARE 1138169/DF, Rel. Min. Rosa Weber, DJe 20.6.2018; e ARE 1046206/DF, Rel. Min. Alexandre de Moraes, DJe 28.8.2017)
+    Quanto à alegação de imprecisão nos métodos utilizados para auferir a metragem da prova, a rediscussão da matéria demandaria o reexame de fatos e provas constantes dos autos, o que obsta o processamento do extraordinário, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ademais, esta Corte possui entendimento pacífico no sentido de que não cabe recurso extraordinário quando a análise da apontada violação do princípio da legalidade demandar necessariamente a análise de atos normativos infraconstitucionais.
+    Aplicável à espécie, portanto, a Súmula 636 do STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Por fim, verifica-se que a Corte de origem não declarou a inconstitucionalidade de tratado ou lei federal, tampouco julgou válida lei ou ato de governo local contestados em face da Constituição Federal, condições formais indispensáveis à viabilidade do extraordinário no que fundado nas alíneas b e c do inciso III do art. 102 da Constituição Federal.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC, e 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 10 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
