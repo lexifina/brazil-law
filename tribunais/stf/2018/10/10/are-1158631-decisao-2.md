@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – NORMAS LEGAIS – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. Observem as premissas do acórdão impugnado. Colho os seguintes trechos:
+    [...]
+    A sentença condenatória está muito bem embasada e não merece reparos. Não há nos autos qualquer prova que aponte no sentido da inexistência de culpa dos réus. Ao revés, os documentos que relatam o acidente (anexo 12 ao 16) informam que, de fato, havia animal solto na pista, que, em decorrência de um acidente com outro veículo, ficou morto no caminho, ocasionando, logo em seguida, o acidente da presente demanda. Assim, não há que se falar em exclusão de culpa do DNIT no caso concreto, haja vista o dever dessa autarquia em fiscalizar a presença de animais nas rodovias.
+    […]
+    No caso específico dos autos, trata-se de omissão culposa da Administração Pública no dever de boa manutenção e fiscalização das estradas federais, como bem explicitado na sentença. Diferentemente do alegado pelo Recorrente, além da responsabilidade do dono do animal (art. 936, do CC) não afastar a concorrência da culpa do Poder Público, é sabido que desde o advento da Lei nº 10.233/2001, o Departamento Nacional de Infraestrutura de Transporte (DNIT) é responsável pela manutenção, conservação e fiscalização das rodovias federais, nos termos do art. 82 do referido diploma legal, o que envolve, por conseguinte, a retirada de animais, objetos e quaisquer outros obstáculos que se anteponham aos motoristas.
+    Sendo assim, caso efetivamente existissem cercas ou defensas em bom estado nos acostamentos, impedir-se-ia o acesso de animais.
+    […]
+    Com efeito, é certo que ficou provada a responsabilidade subjetiva dos réus no presente caso, seja pelas informações prestadas formalmente em Boletim de Acidente de Trânsito (BAT), seja pelo fato de que o DNIT e a União não lograram êxito em demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito do Autor, o que leva a crer que sua conduta se deu de forma omissiva, isto é, na abstenção no exercício de seu dever legal de bem administrar as rodovias federais.
+    Por outro lado, não trouxe qualquer mínima prova que evidenciasse a culpa exclusiva da vítima. Sendo, portanto, as provas lastreadas suficientes para formar a convicção do juízo, não havendo cerceamento de defesa. - Destarte, a omissão das rés em proporcionar condições adequadas ao tráfego de veículos na rodovia poderia ter acarretado inclusive danos permanentes à integridade física dos passageiros do veículo. É evidente, portanto, que não há que se falar em simples aborrecimento, mas sim em constrangimento apto a caracterizar dano moral. Diante disso, verifica-se a presença de dano moral a ser indenizado, em razão da exposição do autor a risco de vida
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 10 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
