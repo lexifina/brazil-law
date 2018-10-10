@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de Reclamação, com pedido de liminar, ajuizada contra decisão proferida pela 4ª Vara do Trabalho de Ribeirão Preto/SP (Processo 0012502-63.2016.5.15.0067), que teria desrespeitado o decidido no julgamento da ADC 48-MC (Rel. Min. ROBERTO BARROSO).
+    Na inicial, a reclamante informa que: (a) na origem, foi proposta reclamação trabalhista com o objetivo de reconhecimento de vínculo empregatício entre transportador autônomo de cargas e a reclamante; (b) contestando o processo, foi anexado o “Distrato do Comodato nº 10142”, firmado entre o Sr. Clóvis Gonçalves Dia, e a Reclamante, Tora Transportes. O contrato foi realizado com amparo na Lei 11.442/2007, pelo fato de que o agregado trabalha com caminhão próprio (fl. 2); (c) foi alegada na peça defensiva preliminar de incompetência da Justiça do Trabalhista, citando, expressamente, o Art. 5º da Lei 11.442/07 (fl.2); e (d) a autoridade reclamada violou a autoridade desta CORTE, ao indeferir o pedido, interposto pela parte autora, de suspensão do processo, com apoio na Medida Cautelar de Ação Declaratória de Constitucionalidade 48, que determinou a suspensão de todos os processos que envolvam a aplicação dos artigos 1°, caput, 2°, §§ 1° e 2°, 4°, §§ 1° e 2°, e 5°, caput, da Lei 11.442/2007. Requer a concessão de medida liminar para suspender de imediato o andamento do processo 0012502-63.2016.5.15.0067, até o julgamento final da ADC 48.
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    É o relatório. Decido.
+    A respeito do cabimento da Reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem os arts. 102, I, “l”, e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    O parâmetro de confronto invocado é o decidido na ADC 48 (Rel. Min. ROBERTO BARROSO), que deferiu medida liminar para determinar a imediata suspensão de todos os processos que envolvam a aplicação dos artigos 1º, caput, 2º, §§ 1º e 2º, 4º, §§ 1º e 2º, e 5º, caput, da Lei 11.442/2007.
+    Na presente hipótese, assiste razão à Reclamante. Os documentos demonstram que a presente demanda versa sobre o reconhecimento do vínculo trabalhista entre transportadora e motorista, tema diretamente relacionado ao objeto da ADC 48 MC (Rel. Min. ROBERTO BARROSO), por envolver o art. 5º, caput , da Lei 11.442/2007.
+    O Juízo reclamado, em resposta ao pedido de suspensão do processo requerido pela parte autora, com base no decidido na ADC 48-MC, limitou-se a proferir o seguinte despacho (doc. 12): difiro a análise do sobrestamento do feito, requerido pela reclamada, para após o encerramento da instrução processual.
+    Nessas circunstâncias, em que a matéria em discussão é alcançada pelo objeto do paradigma de controle indicado, somada à inequívoca recusa em sobrestar o andamento da demanda originária, há manifesta ofensa ao decidido na ADC 48-MC (Rel. Min. ROBERTO BARROSO).
+    Nessa mesma direção, registram-se nesta CORTE: Rcl 31.899, de minha relatoria, DJe de 24/9/2018; Rcl 31.942 MC, Rel. Min. CELSO DE MELO, DJe de 20/08/2018; Rcl 31.922, Rel. Min. EDSON FACHIN, DJe 21/9/2018; Rcl 31.480 MC, Rel. Min. ROBERTO BARROSO, DJe de 20/8/2018; Rcl 31.350 MC, Rel. Min. RICARDO LEWANDOWSKI, DJe de 10/8/2018; Rcl 31.160 MC, Rel. Min. GILMAR MENDES, DJe de 3/8/2018; Rcl 30794 MC, Rel. Min. ROSA WEBER, DJe de 27/06/2018.
+    Diante do exposto, com base no art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, JULGO PROCEDENTE o pedido, de forma que seja cassado o ato reclamado e DETERMINO, por consequência, a suspensão do andamento do Processo 0012502-63.2016.5.15.0067, em curso perante a 4ª Vara do Trabalho de Ribeirão Preto/SP, até posterior pronunciamento na ADC 48-MC (Rel. Min. ROBERTO BARROSO).
+    Publique-se.
+    Brasília, 10 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
