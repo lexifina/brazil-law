@@ -1,0 +1,56 @@
+DECISÃO: Trata-se de “habeas corpus” impetrado contra decisão que, emanada do E. Superior Tribunal Militar, acha-se consubstanciada em acórdão assim ementado:
+    “APELAÇÃO. MPM. POSSE DE ENTORPECENTE EM ÁREA SOB ADMINISTRAÇÃO MILITAR. INSPEÇÃO DE SAÚDE. IMPUTABILIDADE. CRITÉRIO BIOPSICOLÓGICO.
+    1. A inspeção de saúde para reinclusão de desertor não tem por escopo a aferição da capacidade de entendimento do caráter ilícito da conduta, especialmente quando se trata do delito descrito no art. 290 do CPM.
+    2. A imputabilidade deve ser aferida no momento da ação, a verificar se o réu estava mentalmente são e se possuía capacidade de entender a ilicitude da sua conduta e de determinar-se de acordo com esse entendimento, não havendo possibilidade de se afastar a culpabilidade tão somente pelo diagnóstico de uma patologia catalogada pela Organização Mundial de Saúde, mesmo que tenha relação com o delito praticado – critério biopsicológico.
+    Recurso conhecido e provido. Decisão unânime.”
+    (Apelação nº 0000125-59.2016.7.11.0211/DF, Rel. Min. ARTUR VIDIGAL DE OLIVEIRA – grifei)
+    Busca-se, na presente sede processual, seja cassado “(...) o acórdão condenatório de 07/12/2017 (...)”, com o consequente restabelecimento da “(...) justa Sentença de absolvição, com fundamento no art. 439, alínea ‘d’, do Código de Processo Penal Militar (...)” (grifei), ou, subsidiariamente, seja “aplicado o art. 28 da Lei nº 11.343/06, por se tratar de tratamento mais adequado ao usuário/mero portador de drogas, posto não ser mais Militar da ativa e há mais de 01 (um) ano e meio ostentar o ‘status’ de ‘cidadão civil’ (...)“ (grifei), ou, ainda, seja reconhecida a “(...) ‘bagatela imprópria’, porque injusta a sanção contra este ‘cidadão civil’, que um dia foi Militar da ativa, por estar devidamente integrado no meio social civil (…)” (grifei).
+    O Ministério Público Federal, em manifestação da lavra do ilustre Subprocurador-Geral da República Dr. JULIANO BAIOCCHI VILLA-VERDE DE CARVALHO, opinou contrariamente à concessão da ordem de “habeas corpus” em parecer assim ementado:
+    “Processo penal. ‘Habeas corpus’. Pleito de anulação de condenação pelo crime de posse/uso de drogas, previsto no art. 290 do CPM.
+    1. O CPM adotou a teoria da atividade, pelo que o desligamento posterior do agente do quadro das Forças Armadas não é, ‘per si’, causa de perda de condição de procedibilidade ou de punibilidade.  2. Ter sido o paciente considerado incapaz, pelo vício em drogas, a retorno às FAs, quando de deserção, nos termos do art. 457 do CPPM, não significa seja ele inimputável, nos termos do art. 48 do CPM, quanto ao delito de posse/uso de drogas, mormente quando o entendimento contrário vulneraria a hierarquia e a disciplina na Caserna. 3. Não incide o princípio da insignificância, balizado pela quantidade de entorpecente apreendida, quanto à conduta de uso/porte de droga por militar em ambiente castrense, pois a par da conduta ser danosa à saúde do militar e de outros, se praticada no ambiente castrense, fere a hierarquia e a disciplina militares.  4. Pela denegação da ordem.” (grifei)
+    Sendo esse o contexto, passo a examinar o pleito em causa. E, ao fazê-lo, entendo não assistir razão à parte impetrante.
+    Impende ressaltar, desde logo, que a verificação da procedência, ou não, das alegações deduzidas no presente “writ” sobre a suposta inimputabilidade do ora paciente implicaria, no caso, necessário reexame de fatos, o que não se admite nesta sede excepcional.
+    A jurisprudência do Supremo Tribunal Federal – desde que ausente situação de certeza objetiva quanto aos fatos – tem assinalado não se revelar compatível com o âmbito estreito do “habeas corpus” a apreciação jurisdicional que importe em indagação probatória, ou em análise aprofundada de matéria fática, ou, ainda, em exame valorativo dos elementos de prova (RTJ 165/877-878, Rel. Min. CELSO DE MELLO – RTJ 168/863-865, Rel. Min. CELSO DE MELLO, v.g.):
+    “’HABEAS CORPUS’. PENAL MILITAR. CONDENAÇÃO PELO CRIME DE DESERÇÃO. 1. PACIENTE INDULTADO ANTES DO TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA: SUBSISTÊNCIA DO INTERESSE NO JULGAMENTO DA PRESENTE AÇÃO. 2. QUESTÃO RELATIVA À NECESSIDADE DE PERÍCIA NEUROPSIQUIÁTRICA PARA CONSTATAR A INIMPUTABILIDADE DO PACIENTE. IMPROCEDÊNCIA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO DOS AUTOS.
+    …...................................................................................................
+    2. Alegada necessidade de realização de perícia neuropsiquiátrica. Instauração de incidente de insanidade mental afastada pelo Superior Tribunal Militar com base nas provas e nos fatos cuidados no processo. Pacífica a jurisprudência do Supremo Tribunal Federal, segundo a qual não é possível reexame de provas na via do ‘habeas corpus’.
+    3. Ordem denegada.”
+    (HC 105.022/DF, Rel. Min. CÁRMEN LÚCIA – grifei)
+    “Recurso ordinário em ‘habeas corpus’. Processual Penal. Restauração de autos. Existência de cópia autêntica do feito. Desnecessidade de observância do procedimento previsto no art. 541, § 2º, do Código de Processo Penal. Cópia autêntica que se considera como original (art. 541, § 1º, CPP). Nulidade inexistente. Alegada ausência de cópia do verso do mandado de intimação da sentença, do qual constaria o desejo do recorrente de apelar da sentença. Questão relevante, diante do reconhecimento da intempestividade da apelação interposta pelo defensor. Matéria, todavia, não suscitada quando da restauração dos autos. Controvérsia a respeito da existência dessa manifestação de vontade. Questão insuscetível de resolução na via estreita do ‘habeas corpus’, por demandar dilação probatória. Recurso não provido.
+    1. A existência de cópia autêntica dos autos torna dispensável o procedimento de restauração previsto no art. 541, § 2º, do Código de Processo Penal.
+    2. A jurisprudência do Supremo Tribunal Federal, não admite, na via estreita do ‘habeas corpus’, questão controvertida que demande dilação probatória. Precedentes.
+    3. O caráter documental do processo de ‘habeas corpus’ torna inviável o exame de fatos despojados da necessária liquidez (RHC nº 106.398/SP, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 3/4/12).
+    4. Diante da ausência, nos autos restaurados, de cópia do verso do mandado de intimação da sentença, do qual supostamente constaria o desejo do recorrente de apelar, a controvérsia a respeito da tempestiva interposição desse recurso pelo próprio réu é insuscetível de resolução em sede de ‘habeas corpus’.
+    5. Recurso não provido.”
+    (RHC 125.241/GO, Rel. Min. DIAS TOFFOLI – grifei)
+    Como se sabe, a ocorrência de iliquidez quanto aos fatos alegados na impetração basta, por si só, para inviabilizar a utilização adequada da ação de “habeas corpus”, que constitui remédio processual que não admite qualquer dilação probatória (RTJ 110/555 – RTJ 129/1199 – RTJ 163/650-651 – RTJ 186/237, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    No que concerne às demais alegações (aplicação, ao caso, da Lei nº 11.343/2006 e incidência, na espécie, do princípio da insignificância), verifico, ainda, que a decisão ora impugnada sequer examinou os fundamentos em que se apoia, nesses específicos pontos, esta impetração.
+    Inexiste, portanto, coincidência temática entre as razões invocadas nesta ação de “habeas corpus” para dar suporte às alegações acima referidas e aquelas que dão apoio à decisão objeto de impugnação na presente sede processual.
+    A circunstância que venho de mencionar (ocorrência de incoincidência temática) faz incidir, na espécie, em relação a este “writ” constitucional, a jurisprudência do Supremo Tribunal Federal, que assim se tem  pronunciado nos casos em que os fundamentos apresentados pelo impetrante não guardam pertinência com aqueles que dão suporte à decisão impugnada (RTJ 182/243-244, Rel. Min. SEPÚLVEDA PERTENCE – HC 73.390/RS, Rel. Min. CARLOS VELLOSO – HC 81.115/SP, Rel. Min. ILMAR GALVÃO, v.g.):
+    “IMPETRAÇÃO DE ‘HABEAS CORPUS’ COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE DO ‘WRIT’ CONSTITUCIONAL
+    – Revela-se insuscetível de conhecimento, pelo Supremo Tribunal Federal, o remédio constitucional do ‘habeas corpus’, quando impetrado com suporte em fundamento que não foi apreciado pelo Tribunal apontado como coator.
+    Se se revelasse lícito ao impetrante agir ‘per saltum’, registrar-se-ia indevida supressão de instância, com evidente subversão de princípios básicos de ordem processual. Precedentes.”
+    (RTJ 192/233-234, Rel. Min. CELSO DE MELLO)
+    “Em ‘habeas corpus’ substitutivo de recurso ordinário, a inconformidade deve ser com o acórdão proferido pelo STJ, e não contra o julgado do Tribunal de Justiça.
+    O STF só é competente para julgar ‘habeas corpus’ contra decisões provenientes de Tribunais Superiores.
+    Os temas objeto do ‘habeas corpus’ devem ter sido examinados pelo STJ.
+    .......................................................................................................
+    Caso contrário, caracterizaria supressão de instância.
+    ‘Habeas Corpus’ não conhecido.”
+    (HC 79.551/SP, Rel. Min. NELSON JOBIM – grifei)
+    Disso tudo resulta que as razões que dão suporte à presente impetração, para serem conhecidas pelo Supremo Tribunal Federal em sede de “habeas corpus”, precisam constituir objeto de prévio exame por parte do E. Superior Tribunal Militar, sob pena de configurar-se, como precedentemente já acentuado, inadmissível supressão de instância, consoante tem advertido o magistério jurisprudencial desta Suprema Corte:
+    “EXECUÇÃO PENAL. ‘HABEAS CORPUS’. PROGRESSÃO DE REGIME. CUMPRIMENTO DE UM SEXTO DA PENA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL ‘A QUO’. SUPRESSÃO DE INSTÂNCIAS. PRECEDENTES. ‘WRIT’ NÃO CONHECIDO.
+    1. A presente impetração visa ao reconhecimento do direito do paciente em progredir de regime prisional em razão do cumprimento de um sexto da pena.
+    2. A questão suscitada pelo impetrante no presente ‘habeas corpus’ não foi sequer apreciada pelo Superior Tribunal de Justiça, já que não tinha sido submetida anteriormente ao crivo do Tribunal de Justiça do Rio de Janeiro.
+    3. Desse modo, o conhecimento da matéria, neste momento, pelo Supremo Tribunal Federal acarretaria inadmissível supressão de instâncias.
+    4. A jurisprudência dessa Suprema Corte é firme no sentido de que ‘não se conhece de ‘habeas corpus’ cujas questões não foram apreciadas pela decisão contra a qual é impetrado’ (HC 93.904/RS, Rel. Min. Cezar Peluso, DJe 094).
+    5. ‘Writ’ não conhecido.”
+    (HC 97.761/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    Sendo assim, em face das razões expostas, conheço, em parte, do pedido de “habeas corpus” e, nessa parte, indefiro-o.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 10 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
