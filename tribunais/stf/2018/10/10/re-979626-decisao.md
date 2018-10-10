@@ -1,0 +1,17 @@
+Petição/STF nº 65.149/2018
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AFETAÇÃO AO PLENÁRIO – JULGAMENTO CONJUNTO – REPERCUSSÃO GERAL – TEMA Nº 906 – INDEFERIMENTO.
+REPERCUSSÃO GERAL ADMITIDA – MATÉRIA SIMILAR – PROCESSO – SUSPENSÃO.
+    1. O Gabinete assim retratou o caso:
+    W Sul Logística em Duas Rodas Ltda., por meio da petição/STF nº 65.149/2018, protocolada eletronicamente por advogada regularmente credenciada, pleiteia seja este recurso extraordinário afetado ao Pleno para apreciação concomitante à do extraordinário de nº 946.648/SC, paradigma do Tema nº 906 do repertório de repercussão geral, a versar a incidência do Imposto sobre Produtos Industrializados – IPI na saída do estabelecimento importador de mercadoria para a revenda, no mercado interno, ante a ausência de novo beneficiamento no campo industrial. Considerada a inclusão do mencionado paradigma na pauta da Sessão Plenária, a ser realizada em 31 de outubro de 2018, pretende a imediata liberação deste recurso para julgamento conjunto. Sucessivamente, requer o processamento deste extraordinário, caso assentada distinção em relação ao representativo do Tema nº 906.
+    Consoante alega, o recurso contempla questões de direito não descritas no piloto da repercussão geral, concernentes à bitributação e ao princípio da não discriminação entre o tratamento dado a produtos de origem nacional e importados. Aludindo ao artigo 10 do Código de Processo Civil, pondera a relevância da ampliação do debate ante o princípio do contraditório.
+    Vossa Excelência, na condição de Relator do recurso extraordinário nº 946.648/SC, admitiu, no paradigma do Tema nº 906, a ora requerente como terceira, além da Federação das Indústrias do Estado de São Paulo – FIESP, a Confederação Nacional do Comércio de Bens, Serviços e Turismo – CNC, a Federação das Indústrias do Estado do Rio de Janeiro – FIRJAN e a Associação Brasileira de Importadores e Exportadores de Alimentos e Bebidas – ABBA.
+    Em 29 de maio de 2018, a Presidência, com fundamento no artigo 325-A do Regimento Interno, determinou a redistribuição, por prevenção, do extraordinário de nº 979.626/SC a Vossa Excelência, em razão da pendência de exame, pelo Pleno, do recurso extraordinário nº 946.648/SC.
+    O processo é eletrônico e está concluso.
+    2. Mostra-se contrário à organicidade própria ao Direito, especialmente ao instrumental, acolher o pedido. Conforme noticiado, a requerente postulou admissão, como terceira interessada, no processo-piloto. Acolhido o pleito, poderá manifestar-se como entender pertinente, contribuindo com os debates, exercendo as funções típicas da apontada intervenção.
+    Considerada a fase atual do processo-piloto, há de buscar-se otimização do tempo em época na qual não se consegue conciliar celeridade e conteúdo. Inexiste justificativa a conduzir ao julgamento conjunto dos processos.
+    3. Observado o fato de o recurso extraordinário nº 979.626/SC veicular matéria similar à versada no paradigma do Tema nº 906, havendo a intimação do acórdão impugnado ocorrido posteriormente à data em que iniciada a vigência do sistema da repercussão geral, e levando em conta o objetivo maior do instituto – evitar que o Supremo, em prejuízo dos trabalhos, tenha o tempo tomado com questões repetidas – determino a suspensão deste processo para aguardar o exame do piloto pelo Pleno do Supremo.
+    4. Publiquem.
+Brasília, 10 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
