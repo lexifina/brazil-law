@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+RECURSO EM HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Quarta Vara Criminal da Comarca de Caucaia/CE, no processo nº 65623-44.2018.8.06.0064/0, no Plantão Judiciário, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 21 de julho de 2018, ante o suposto cometimento da infração descrita no artigo 14 (porte ilegal de arma de fogo de uso permitido) da Lei nº 10.826/2003. Destacou a existência de prova da materialidade e indícios de autoria, reportando-se à apreensão de 1 pistola – marca Taurus, calibre .980, nº KDT91348 –, 1 carregador e 16 munições intactas, aos depoimentos dos policiais e à confissão. Frisou indispensável a custódia para garantir a ordem pública e a aplicação da lei penal, aludindo ao risco de reiteração delituosa, ante o fato de haver registros criminais pela prática de homicídio e mandado de prisão em aberto por tráfico de entorpecentes. Apontou incompatível o horário do flagrante – 1h01 – com o de treino de tiro esportivo.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 103.318/CE, o qual teve a liminar indeferida pelo Relator.
+    Os impetrantes sustentam a insubsistência dos fundamentos do ato que implicou a preventiva, dizendo-o lastreado nos registros criminais do paciente. Salientam não constituir maus antecedentes inquéritos policiais e ações penais em andamento, referindo-se ao disposto no verbete nº 444 da Súmula do Superior. Aduzem a viabilidade de estabelecer-se medida cautelar versada no artigo 319 do Código de Processo Penal. Sublinham as condições pessoais favoráveis – residência fixa, família constituída e ocupação lícita. Asseveram a atipicidade da conduta, sublinhando que a arma está registrada no nome do paciente, possuindo autorização para transportá-la para fins de treinamentos e competições, apresentando documentação comprobatória.
+    Requerem, no campo precário e efêmero, a revogação da preventiva, com ou sem a imposição de medidas cautelares alternativas. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça do Estado do Ceará, realizada em 8 de outubro de 2018, revelou não haver sido apresentada denúncia contra o paciente.
+    A fase é de exame da medida de urgência.
+    2. O Juízo, ao converter em preventiva a prisão em flagrante, mencionou o fato de ter sido o paciente surpreendido pela Polícia Rodoviária Federal, às 1h01 horas, na rodovia BR 020, portando 1 pistola marca Taurus, calibre .980, nº de série KDT91348, 1 carregador e 16 munições intactas, destravada e pronta para uso. A teor do Documento Comprobatório de Porte de Trânsito apresentado pelos impetrantes, o paciente somente está autorizado a transportar a citada arma de fogo para utilização em treinamentos e/ou competições de tiro desportivo do local de origem para os estandes de tiro. O quadro indica estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. O curso da impetração no Supremo não prejudica o recurso em habeas corpus nº 103.318, em tramitação no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Antonio Saldanha Palheiro.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 10 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
