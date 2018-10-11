@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão de fls. 3106/3118, em que neguei provimento aos recursos especiais de JOSE [NOME].
+Os agravantes sustentam a ocorrência de prescrição da pretensão punitiva de [NOME] relativa ao crime do art. 288 do CP em que lhe foi aplicada pena de 01 ano e 06 meses de reclusão, considerando a data da publicação da sentença condenatória e a presente data. Reafirmam a existência de omissão por parte do Tribunal de origem que se furtou ao analisar a dosimetria das penas sob o pretexto de que a matéria não teria sido objeto específico da divergência, quando o raciocínio aventado em plenário foi o de que o voto absolutório permitia a devolução à Corte, em sede de infringentes, de toda a matéria suscitada no apelo.
+Aduzem que a verificação de ofensa ao art. 59 do Código Penal não encontra limite na Súmula n. 7/STJ por não demandar discussão fática. Afirmam que o quantum da pena aplicada ao tipo previsto no art. 1º, I, do DL n. 201/67, qual seja de 6 anos, fere o princípio da proporcionalidade, uma vez que fora estabelecido em patamar três vezes superior ao mínimo legal.
+Pleiteiam, assim, o reconhecimento da prescrição e a reconsideração do julgado para o reconhecimento da violação ao art. 619 do CPP e, subsidiariamente, alteração das penas-base do art. 1º, I, do DL n. 201/67 para o mínimo legal.
+É o relatório. Decido.
+O recurso deve prosperar quanto ao pleito de reconhecimento da prescrição da pretensão punitiva de [NOME] relativa ao crime do art. 288 do CP em que lhe foi aplicada pena de 01 ano e 06 meses de reclusão.
+No caso, forçoso o seu reconhecimento, tendo em vista que entre a data da sentença condenatória - 23.10.2010 - e a presente data, transcorreu prazo superior ao previsto nos arts. 109, V, do Código Penal.
+Impende ressaltar que a tese de que o voto absolutório permitia a devolução à Corte, em sede de infringentes, de toda a matéria suscitada no apelo foi enfrentada pela Corte de origem, pelo que não houve omissão quanto ao ponto, e sim, inconformismo quanto ao que restou solucionado no sentido de que não seria revista a dosimetria pois não constava dos pedidos originários.
+No mais, ficam mantidos os fundamentos do decisório atacado.
+Ante o exposto, reconsidero a decisão de fls. 3106/3118 apenas para reconhecer e declarar a prescrição da pretensão punitiva de [NOME] relativa ao crime do art. 288 do CP.
+Publique-se. Intimem-se.
