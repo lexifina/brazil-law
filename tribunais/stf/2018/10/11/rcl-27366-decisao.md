@@ -1,0 +1,13 @@
+DESPACHO (referente à petição nº 24.805/2018 (doc. 161 ):
+    Após o trânsito em julgado da decisão pela qual julguei parcialmente procedente o pedido inicial, o Estado de Roraima apresentou petição, pleiteando a execução da condenação da parte contrária em honorários advocatícios.
+    Analiso.
+    A reclamação constitucional foi originalmente regulada pela Lei 8.038/1990, a qual não impunha a formação de contraditório prévio à decisão de mérito. Nessa linha, a jurisprudência do STF se desenvolveu no sentido de que a reclamação, antes de atender a direitos subjetivos, visava a garantir a observância da competência e a autoridade das decisões do STF, de modo que o contraditório, embora possível, não constituía requisito de validade das decisões finais: Rcl 7.904-AgR, Rel. Min. Luiz Fux; Rcl 449-AgR, Rel. Min. Celso de Mello; Rcl 3.375-AgR, Rel. Min. Gilmar Mendes; Rcl 8.478, Rel. Min. Cármen Lúcia; e Rcl 8.197-AgR, Rel. Min. Dias Toffoli.
+    Ocorre que o CPC/2015 promoveu modificação essencial no procedimento da reclamação, ao instituir o contraditório prévio à decisão final (art. 989, III). Disso decorre o ingresso do beneficiário do ato impugnado como parte, com respectiva obrigatoriedade de oportunizar-lhe a defesa do seu direito. Isto é, a reclamação indiscutivelmente tornou-se ação. Neste novo cenário, e sem prejuízo de qualquer adaptação que o Tribunal venha a fazer relativamente ao novo regime processual, a observância do princípio da causalidade viabiliza a condenação da sucumbente na reclamação ao pagamento dos respectivos honorários.
+    Por outro lado, as mudanças trazidas pelo Novo CPC não podem implicar a mudança do estrito objeto constitucional da reclamação, qual seja a garantia da autoridade do STF, por meio da proteção da sua competência e de seus precedentes e súmulas vinculantes. É dizer, deve-se conformar a lei processual com a especialidade do procedimento em que incide e a função do órgão que a aplica.
+    Dito isso, nos casos em que a reclamação figurar como ação incidental, isto é, quando tiver por objeto decisão jurisdicional, em respeito ao princípio da economia processual, à especialidade do procedimento e à excepcionalidade da provocação do Supremo Tribunal Federal, deve a execução dos honorários ser delegada ao juízo competente para a apreciação da ação principal. Nesta linha, confiram-se Rcl 23.554-ED e Rcl 24.015-ED, da minha relatoria; e Rcl 26.780, Rel. Min. Dias Toffoli.
+    Deste modo, deve o pedido de execução ser dirigido ao Tribunal de Justiça de Roraima.
+    Nada mais há a prover nestes autos.
+    Publique-se. Arquivem-se.
+          Brasília, 11 de outubro de 2018.
+Ministro LUÍS ROBERTO BARROSO
+Relator
