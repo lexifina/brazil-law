@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de Sergipe que denegou o writ de origem, por acórdão que possui a seguinte ementa (fls. 195/197):
+HABEAS CORPUS - ART. 155, § 1º E § 4º, INCISO I C/C ART. 163, PARÁGRAFO ÚNICO C/C ART. 288, PARÁGRAFO ÚNICO, TODOS DO CP E ART. 16, DA LEI 10.826/2003, NA FORMA DO ART. 69, DO CP - ALEGAÇÃO DE LITISPENDÊNCIA ENTRE O PROCESSO ORIGEM (201663300374) EFEITOS REGISTRADOS SOB O 000.431-10.2016.4.05.8500 E [CPF] - ANÁLISE NÃO CABÍVEL EM SEDE DE HABEAS CORPUS POR DEMANDAR REVOLVIMENTO DO ACERVO FÁTICO - NÃO CONHECIMENTO NESSE PONTO - PEDIDO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA NECESSIDADE DE REVOLVIMENTO FÁTICO - PROBATÓRIO - INADEQUAÇÃO DA VIA ELEITA - NÃO NESSE PONTO - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS NECESSÁRIOS PARA A DECRETAÇÃO DA PRISÃO PREVENTIVA - AUSÊNCIA DE PROVA PRÉ CONSTITUÍDA - NÃO CONHECIMENTO DO MANDAMUS, NO PARTICULAR ALEGAÇÃO DE EXCESSO DE PRAZO PROCESSUAL - NÃO ACOLHIMENTO - AÇÃO PENAL COM SEIS RÉUS NO POLO PASSIVO, PATROCINADOS POR ADVOGADOS DIFERENTES NECESSIDADE DE EXPEDIÇÃO DE 19 (DEZENOVE) CARTAS PRECATÓRIAS DIVERSOS PLEITOS DE REVOGAÇÃO DA PRISÃO PREVENTIVA - FEITO QUE APRESENTA COMPLEXIDADE JUÍZO DE ORIGEM TEM AGIDO DE FORMA DILIGENTE E QUE NÃO AFRONTA O PRINCÍPIO DA RAZOABILIDADE - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - NÃO CABIMENTO DAS CAUTELARES SUBSTITUTIVAS DA PRISÃO - SEGREGAÇÃO MANTIDA - HABEAS COR PUS CONHECIDO EM PARTE E, NA PARTE CONHECIDA, DENEGADO - DECISÃO UNÂNIME.
+O impetrante argumenta a existência de constrangimento ilegal, por não existirem indícios da prática dos crimes imputados, por ausência dos requisitos autorizadores da prisão e por excesso de prazo para o término da instrução processual.
+Sustenta, ainda, que há litispendência, pois já houve denúncia e sentença em outros dois processos com relação ao mesmo fato, bem como que deve ser reconhecida a continuidade delitiva no caso em análise.
+Por isso, requer a concessão da ordem, para soltura, ou imposição de cautelares diversas.
+O paciente foi preso preventivamente pela prática do crime tipificado no art. 155, §§ 1º e 4º, I, 163, parágrafo único, III, e 288, parágrafo único, todos do CP, e art. 16, da Lei n. 10.826/2006.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade a autoria delitiva. As alegações quanto a esses pontos, portanto, não devem ser conhecidas.
+Além disso, a matéria relativa à fundamentação da prisão não foi objeto de análise do Tribunal de origem, conforme cópia de acórdão de fls. 195/203. Então, esse tema também não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Ademais, a análise de pretensões como o bis in idem, a continuidade delitiva e a litispendência são satisfativas, melhor cabendo seu exame no julgamento de mérito pelo colegiado, juiz natural da causa, assim inclusive garantindo-se a necessária segurança jurídica.
+Por outro lado, a concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se constrangimento ilegal.
+Com relação aos prazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal. De efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Na hipótese, ao menos em cognição sumária, não se detecta manifesta ilegalidade apta a ensejar o deferimento da medida de urgência, pois, se faz necessário exame circunstancial do prazo de duração do processo.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações.
+Após, ao Ministério Público Federal, para manifestação.
+Publique-se.
+Intimem-se.
