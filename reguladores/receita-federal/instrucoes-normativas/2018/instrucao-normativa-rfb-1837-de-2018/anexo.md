@@ -1,0 +1,5 @@
+anexo I - INFORMAÇÕES SOBRE A MÃO DE OBRA PRÓPRIA CONSTANTES DA DCTFWEB
+[arquivo anexo: Anexo I.doc]
+anexo II - INFORMAÇÕES SOBRE A MÃO DE OBRA TERCEIRIZADA CONSTANTES DA DCTFWEB
+[arquivo anexo: Anexo II.doc]
+.
