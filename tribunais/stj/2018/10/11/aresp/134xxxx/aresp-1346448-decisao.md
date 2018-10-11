@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por PLASTMÓVEIS INDÚSTRIA E COMÉRCIO LTDA e JACI [NOME] contra decisão denegatória de seu recurso especial fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Paraná.
+Nas razões do nobre apelo, os ora agravantes discutem, em síntese: a) taxa de juros remuneratórios; b) exibição dos contratos pela instituição financeira; c) vedação da capitalização diária e mensal de juros; e d) proporcionalidade da sucumbência.
+É o relatório. Decido.
+Taxa de juros remuneratórios do contrato de [CONTA]:
+A Segunda Seção do Superior Tribunal de Justiça consolidou o entendimento acerca dos juros remuneratórios, no julgamento dos Temas n. 24 a 27/STJ, sob o rito dos recursos especiais repetitivos, conforme o acórdão assim ementado:
+ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada  art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+ .. . (REsp n. 1061530/RS, relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/3/2009.)
+Na espécie, o eg. Tribunal a quo decidiu em conformidade com esses entendimentos, de acordo com o que se verifica (Fls. 99/101 e 103), in verbis:
+c) Dos juros remuneratórios (apelo da parte ré):
+Com relação aos juros remuneratórios, o magistrado sentenciante determinou a limitação destes à taxa média de mercado para todas as operações em que se apurou uma diferença positiva entre os juros praticados e a taxa média de mercado, pelo que a parte ré insurge-se alegando a legalidade dos juros praticados.
+Infere-se, primeiramente, que para o referido posicionamento, o juízo a quo levou em consideração, tão somente, a tabela realizada por perícia particular das partes autoras (fls. 447/457), a qual, inclusive, considera mais contratos do que os efetivamente juntados aos autos.
+Nesse sentido, cabe salientar que fora dada a oportunidade às apelantes para que apresentassem os 14 contratos faltantes - discriminados na tabela pericial, porém sem cópia nos autos (fl. 10-TJ), ao que estes se manifestaram requerendo a intimação da parte ré para que promova a exibição dos demais contratos. Tendo em vista que a juntada de cópia de contrato de financiamento é requisito essencial para a propositura de ação revisional de contrato, não merece acolhimento o pedido dos apelantes, não cabendo qualquer revisão dos contratos não apresentados, de modo que o pedido será analisado apenas em relação aos demais 18 contratos.
+Feitas as considerações iniciais, faz-se necessário observar o entendimento do Superior Tribunal de Justiça, o qual firmou a seguinte orientação, na ocasião do julgamento do REsp 1.061.530 -RS:
+(..)
+Diante disso, verifica-se que a taxa de juros pode ser livremente pactuada, inclusive em patamar acima de 12%, devendo ser revista somente em situações excepcionais, quando restar demonstrado que é abusiva.
+(..)
+Considerando o entendimento exposto acima, verifica- se que, segundo as taxas de juros médias para a aquisição de bens por pessoa jurídica, a taxa mensal média de juros no segundo semestre de 2009 foi de 2,05%3; para o segundo semestre de 2010 foi de aproximadamente 1,78%4; para o segundo semestre de 2011 esteve em 2,26%5; e para o primeiro semestre de 2012 consistiu em 2,87%6, épocas em que as partes realizaram contratos de cédula de crédito bancário com garantia de alienação fiduciária.
+Verifica-se, portanto, que os valores estipulados aos juros contratuais estão na média das taxas aplicadas pelo mercado nos períodos de contratação, diversamente do que alegam as partes autoras, não configurando, portanto, abusividade que mereça revisão do contrato.
+Dessa forma, merece reforma a sentença singular, a fim de declarar a legalidade dos juros remuneratórios pactuados nos 18 contratos analisados.
+Ressalto que, para se concluir em sentido contrário ao que restou expressamente consignado no v. acórdão recorrido, seria necessário o revolvimento do conjunto fático-probatório dos autos, bem como interpretação de cláusula contratual, inviável no âmbito desta instância especial (STJ - Súmulas nºs 5 e 7) .
+Nesse sentido, o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. COBRANÇA ABUSIVA COMPROVADA. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. POSSIBILIDADE. REVOLVIMENTO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado somente quando cabalmente comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações da espécie.
+2. O Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu que a taxa de juros cobrada excede em muito a média de mercado. A alteração de tal entendimento, como pretendida, demandaria a análise de cláusulas contratuais e do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento. (AgRg no REsp n. 1440011/RS, relator Ministro Raul Araújo, QUARTA TURMA, julgado em 10/5/2016, DJe 27/5/2016.)
+E ainda: AgRg no AREsp nº 541.423/MG, relatora Min. Nancy Andrighi, DJe de 28/8/2014; AgRg no AREsp 344.213/MS, relator Ministro Ricardo Villas Bôas Cueva, DJe 30/9/2014 e AgRg no REsp 1414974/SC, relator Ministro Raul Araújo, DJe 16/9/2014.
+Ressalto que, com relação aos demais contratos, os recorrentes não lograram demonstrar em que consistiu sua insurgência e quais dispositivos legais foram eventualmente violados, fazendo incidir, no ponto, a Súmula n.º 284 do STF.
+Exibição dos contratos pela instituição financeira e Capitalização diária de juros:
+A ausência de manifestação expressa pela Corte de origem acerca das referidas matérias inviabiliza a abertura da instância excepcional, em razão do requisito formal de admissibilidade que é o prequestionamento, o que atrai, por analogia, a inarredável incidência das Súmulas n. 282 e 356/STF, mormente quando o recorrente queda-se inerte em opor os competentes embargos de declaração com o fim de ofertar à Corte estadual a possibilidade da análise acerca do conteúdo dos referidos pedidos.
+Capitalização mensal de juros:
+A Segunda Seção do Superior Tribunal de Justiça consolidou seu entendimento acerca da capitalização mensal dos juros, inferior à anual, sob o rito dos recursos especiais repetitivos, vinculado ao Tema n. 246/STJ, nos termos do acórdão assim ementado:
+CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido. (REsp n. 973.827/RS, relatora p/ acórdão Ministra Maria Isabel Gallotti, DJe de 24/9/2012.)
+No caso dos autos, o Tribunal de origem decidiu em conformidade com essa orientação ao permitir a capitalização mensal dos juros em razão da demonstração da sua pactuação (Fls. 98/99).
+Destaco que é inviável a reforma do acórdão neste particular pois, para tanto, seria necessário o revolvimento do conjunto fático-probatório dos autos, bem como interpretação de cláusula contratual, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+Proporcionalidade da sucumbência:
+Com relação à proporcionalidade da sucumbência, a ora agravante deixou de indicar, de forma inequívoca, os dispositivos legais supostamente violados pelo v. acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do e. Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Nos termos do artigo 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido dispositivo legal, bem como a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
