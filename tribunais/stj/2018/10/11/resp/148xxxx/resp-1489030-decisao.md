@@ -1,0 +1,42 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. TAXA DE OCUPAÇÃO RESULTANTE DA DEMARCAÇÃO DE TERRENO DE MARINHA. TERMO INICIAL DA PRESCRIÇÃO. TEORIA DA ACTIO NATA. AGRAVO DA UNIÃO DESPROVIDO. RECURSO ESPECIAL DA EMPRESA PROVIDO.
+1. Trata-se de Recursos Especiais interpostos contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+AÇÃO ORDINÁRIA. TERRENO DE MARINHA. POSSE. TAXA DE OCUPAÇÃO. PRESCRIÇÃO. DANO MORAL.
+1. A partir do momento em que o imóvel passa a ser usufruído por novo ocupante, cumpre a este a obrigação de assumir o encargo relativo à taxa de ocupação.
+2. O ato administrativo de ocupação é discricionário e é precário, podendo a União promover a desocupação, caso entenda necessário, sem que o ocupante tenha direito à permanência, nem direitos sobre o terreno ou indenização por benfeitorias realizadas.
+3. A coisa pública goza de proteção diferenciada, não se aplicando as regras de direito privado às disputas deflagradas por particulares a respeito de posse sobre bens públicos.
+4. Competia à parte autora, quando citada na ação possessória, ter utilizado os mecanismos processuais pertinentes para estender à União os efeitos processuais e extraprocessuais decorrentes daquela lide, dentre os quais, a interrupção da prescrição (art. 219 do CPC), não aguardar inerte o desfecho da demanda.
+5 . A despeito da possibilidade de a pessoa jurídica sofrer dano moral (súmula 227/STJ), não enseja o dever de indenizar, mera "quebra de expectativa", não se verificando, in casu, ofensa à honra objetiva da empresa.
+2. Opostos Embargos de Declaração, foram eles acolhidos somente para fins de prequestionamento, sem efeitos modificativos.
+3. A UNIÃO, com espeque no art. 105, III, a da CF/1988, alega violação ao art. 535, II do CPC/1973, reputando omisso o acórdão recorrido, não obstante a oposição dos Aclaratórios. No mais, aduz contrariedade ao art. 475 do CPC/1973, defendendo a necessidade de nova análise da controvérsia pelo Tribunal Regional, sujeitando a sentença proferida em primeira instância ao reexame necessário.
+4. Por sua vez, TERRAPLANAGEM AZZA LTDA, com fundamentos nas alíneas a e c do permissivo constitucional, aponta, em preliminar, ofensa ao art. 535 do CPC/1973, e, no mérito, ao art. 184 do Código Civil, sustentando a aplicação da teoria da actio nata, reconhecendo que o prazo prescricional somente se iniciaria com o conhecimento do dano e de suas consequências pelo titular do direito.
+5. Inadmitido o Recurso Especial da UNIÃO, sobreveio Agravo.
+6. É o relatório.
+7. Inicialmente, no que diz respeito à suposta ofensa ao art. 535 do CPC/1973, observa-se que o Tribunal a quo, ao contrário do alegado, manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação e, ao final, decidiu contrariamente aos interesses da parte Recorrente, que buscou, com os Embargos de Declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição ou obscuridade, não se verifica ofensa à regra ora invocada.
+8. Não procede, também, a alegada ofensa ao art. 475 do CPC/1973. Conforme assinalado no julgamento dos Embargos de Declaração, a Corte de origem recebeu a Apelação juntamente com a remessa oficial, compreendendo suficientemente revistas as conclusões do Juízo de piso, repisados os fundamentos deste nas questões que não foram objeto de nova manifestação. Colhe-se trecho elucidativo da devida apreciação do Reexame Necessário:
+Quanto aos embargos apresentados pela União, esta Corte não se olvidou de que havia, além da apelação da parte, reexame necessário.
+A sentença (Evento 46) julgou concomitantemente três ações, sendo que o acórdão embargado diz respeito à apelação/reexame necessário da parte da sentença que se relaciona à Ação Declaratória de Inexistência de Relação Jurídica cumulada com Repetição de Indébito e Indenização.
+Quanto aos itens que constavam do apelo da outra parte (prescrição, despesas processuais e indenização), esta Corte se manifestou expressamente, negando provimento ao recurso da parte recorrente. Quanto aos pontos que não foram objeto de análise explícita no decisum embargado, eles são os mesmos que foram detidamente analisados quando do julgamento do apelo da União (APELAÇÃO CÍVEL Nº 5001059-52.2012.404.7215), ocasião em que essa corte também entendeu pela manutenção da sentença proferida pelo juízo a quo, e negou provimento à apelação da União. Assim, não há que se falar em ausência de análise da matéria à luz do artigo 475 do CPC. Aliás, a União já foi intimada da decisão proferida na APELAÇÃO CÍVEL Nº 5001059-52.2012.404.7215.
+Ou seja, para que não restem dúvidas, a decisão da julgadora de primeiro grau foi confirmada, e os fundamentos da sentença adotados como razões de decidir, não havendo necessidade de repetir todo o teor da sentença nos votos dos apelos.
+9. No mais, é bem verdade que o Superior Tribunal de Justiça firmou o entendimento de que a anulação do processo de demarcação de terreno de marinha está sujeito ao prazo prescricional constante do art. 1o. do Decreto 20.910/1932. Com efeito, conforme a jurisprudência, o curso do prazo prescricional do direito de reclamar inicia-se somente quando o titular do direito subjetivo violado passa a conhecer o fato e a extensão de suas consequências, conforme o princípio da actio nata (REsp. 1.257.387/RS, Rel. Min. ELIANA CALMON, DJe 17.9.2013). Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. TERRENO DE MARINHA. PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE INTIMAÇÃO PESSOAL DOS INTERESSADOS. TAXA DE OCUPAÇÃO. COBRANÇA. TERMO INICIAL. PRESCRIÇÃO. OCORRÊNCIA.
+1. O Superior Tribunal de Justiça firmou a compreensão de que o curso do prazo prescricional do direito de reclamar inicia-se somente quando o titular do direito subjetivo violado passa a conhecer o fato e a extensão de suas consequências, conforme o princípio da actio nata (STJ, REsp 1.257.387/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 17/09/2013), insculpido no art. 189 do Código Civil de 2002.
+2. O momento em que o proprietário do imóvel toma ciência inequívoca da demarcação da linha de preamar ou de acrescidos de marinha ocorridos após 1831 (LPM/1831), por ações naturais ou artificiais, deve ser considerado como termo inicial da contagem do prazo prescricional para impugnar o respectivo processo administrativo.
+3. Hipótese em que o interessado não foi pessoalmente notificado do processo administrativo demarcatório, circunstância que impede considerar a data de sua conclusão como termo inicial para a contagem do prazo prescricional do direito de questionar a validade do aludido procedimento.
+(..).
+5. Agravo interno desprovido (AgInt no REsp. 1.424.737/SC, Rel. Min. GURGEL DE FARIA, DJe 28.11.2017).
+
+ADMINISTRATIVO. PROCESSUAL. PRESCRIÇÃO. NULIDADE NO PROCEDIMENTO DEMARCATÓRIO DA LINHA DE PREAMAR MÉDIO DE 1831. AÇÃO DE DIREITO PESSOAL. ART. 1o. DO DECRETO 2.0910/32. TERMO INICIAL. CIÊNCIA DO OCUPANTE. TEORIA DA ACTIO NATA. (..) DESPROVIMENTO.
+(..)
+2. O termo inicial da prescrição, para o fim de impugnar ato demarcatório em terreno da marinha, tem início com a ciência do ocupante. Precedentes.
+(..).
+5. Agravo regimental a que se nega provimento (AgRg no REsp. 1.380.240/RS, Rel. Ministro OG FERNANDES, DJe 14.10.2015).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. TERRENO DE MARINHA. DEMARCAÇÃO. PRETENSÃO ANULATÓRIA. PRESCRIÇÃO. POSSIBILIDADE. TERMO INICIAL. RETORNO DOS AUTOS À ORIGEM.
+1. Conforme a jurisprudência do STJ, a pretensão anulatória do processo de demarcação dos terrenos de marinha sujeita-se ao prazo previsto no art. 1o. do Decreto 20.910/1932.
+2. O Superior Tribunal de Justiça firmou entendimento de que o prazo deve ser contado da data em que o ocupante tem ciência da fixação da Linha Preamar Média, o que, em geral, ocorre com a notificação para pagamento da taxa de ocupação.
+3. Indispensável o retorno dos autos à origem para análise da eventual ocorrência de prescrição sob o prisma do posicionamento do STJ.
+4. Agravo Regimental não provido (AgRg no REsp. 1.490.760/AL, Rel. Min. HERMAN BENJAMIN, DJe 31.3.2015).
+10. Ante o exposto, nega-se provimento ao Agravo da UNIÃO e dá-se provimento ao Recurso Especial da empresa, reconhecendo como marco inicial do prazo prescricional a data da confirmação da extinção da posse na Ação Possessória, momento em que, de fato, veio a conhecimento do particular a desnecessidade do recolhimento da taxa de ocupação.
+11. Publique-se.
+12. Intimações necessárias.
