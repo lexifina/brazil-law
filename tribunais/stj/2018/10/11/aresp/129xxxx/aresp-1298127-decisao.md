@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DO CONTRADITÓRIO NÃO RECONHECIDA PELA CORTE DE ORIGEM. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por PLANO HOSPITAL SAMARITANO LTDA contra decisão do Tribunal de Justiça do Estado de São Paulo que negou seguimento a recurso especial com fundamento na alínea "a" do permissivo constitucional.
+O agravante infirmou os fundamentos da decisão agravada.
+Nas razões do recurso especial, o recorrente alega ofensa aos artigos 331, § 2º do Código de Processo Civil/1973, e, 7º, 9º, e, 10º do Código de Processo Civil/2015, sustentando, em síntese, violação ao princípio do contraditório e da ampla defesa, ante o indeferimento de prova testemunhal.
+É o relatório. Passo a decidir.
+Com efeito, em relação à tese de necessidade de oitiva de prova oral, a Corte de origem, soberana na análise do material fático e probatório carreado aos autos, assentou que:
+"Com efeito, o v. acórdão embargado afastou expressamente as alegações apresentadas pela embargante, ressaltando que a requerida não demonstrou nos autos, por meio dos documentos juntados, que havia profissionais habilitados a realizar a cirurgia de que a autora necessitava para o tratamento do quadro apresentado. Nessa esteira, cumpre ressaltar que a prova documental se mostrava suficiente para comprovação dos fatos narrados, não se mostrando necessária a produção de prova oral, considerando que bastava à ré apresentar documento que comprovasse a existência de profissional credenciado ao plano de saúde e que estivesse apto a realizar a cirurgia.
+Nessa esteira, não há que se falar na necessidade de produção de prova oral, considerando que restou suficientemente demonstrado nos autos, pela própria embargante, que somente na data em que estava marcada a cirurgia da autora houve o credenciamento de profissional que, em tese, estaria habilitado a realizar o procedimento, restando comprovada, portanto, a impossibilidade de realização do procedimento com profissional credenciado à embargante.
+Tem-se, portanto, que os fatos narrados restaram suficientemente demonstrados pela autora e as provas trazidas pela própria requerida permitem concluir pela ausência de profissional que pudesse realizar o procedimento, não se mostrando necessária a produção de prova oral, uma vez que os fatos narrados restaram comprovados no caso em tela. Ademais, o Magistrado é o destinatário da prova, cabendo a ele indicar a necessidade ou não da dilação probatória, respeitado o princípio do livre convencimento motivado. Na hipótese dos autos a prova documental produzida se mostrou suficiente para o julgamento da lide, dispensando-se a produção de qualquer outra prova" (e-STJ fls. 215/216, gn).
+Assim, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Ante o exposto conheço do agravo para não conhecer do recurso especial.
+Considerando-se o disposto no § 11 do art. 85 do Código de Processo Civil de 2015, majoro os honorários fixados em R$ 2.000,00 (dois mil reais), e-STJ fl. 157, para R$ 2.500,00, (dois mil e quinhentos reais).
+Intimem-se.
