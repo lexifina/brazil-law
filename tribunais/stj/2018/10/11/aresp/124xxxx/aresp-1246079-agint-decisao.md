@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO POR DANO MATERIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. RESPONSABILIDADE CIVIL. PRESCRIÇÃO DA PRETENSÃO. INADIMPLEMENTO CONTRATUAL. PRAZO DE DEZ ANOS.
+1. Ação de obrigação de fazer cumulada com reparação por dano material devido a passivo ambiental, decorrente de vazamento ocorrido em duas linhas subterrâneas.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A jurisprudência do STJ firmou-se no sentido de ser aplicável o prazo prescricional decenal (artigo 205 do Código Civil) às pretensões indenizatórias decorrentes de inadimplemento contratual. Precedentes.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+DECISÃO
+Diante das razões apresentadas no agravo interno de e-STJ Fls. 2.055/2.059, reconsidero a decisão de e-STJ Fls. 2.050/2.051 e passo à nova análise do agravo em recurso especial interposto por IPIRANGA PRODUTOS DE PETRÓLEO S/A.
+Cuida-se de agravo em recurso especial interposto por IPIRANGA PRODUTOS DE PETRÓLEO S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de obrigação de fazer cumulada com reparação por dano material, ajuizada por DAMIANI BIAVATTI & CIA LTDA, em face da agravante, na qual relata ter firmado contrato de locação de posto de serviços com a agravante cujo objeto era operação de revenda varejista de combustíveis e derivados de petróleo. Relata que, no ato de retirada dos tanques e bombas medidoras, foi constatado passivo ambiental, decorrente de vazamento ocorrido em duas linhas subterrâneas. Pleiteia seja a agravante condenada ao ressarcimento do valor total do investimento com a remediação do passivo e lucros cessantes de abril a setembro de 2007 e abril a setembro de 2008, bem como a ressarcir todas as despesas operacionais fixas e eventuais, no período de 07/04/2008 até a data da primeira aquisição de combustíveis após a instalação dos tanques, ocorrida em setembro de 2008.
+Sentença: julgou improcedente o pedido, e julgou procedente o pedido reconvencional para condenar a agravada ao pagamento da quantia de R$ 100.505,20 (cem mil quinhentos e cinco reais e vinte centavos).
+Acórdão: negou provimento ao agravo retido interposto pela agravante e deu parcial provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+DIREITO AMBIENTAL E DIREITO CONTRATUAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. DISTRIBUIDORA DE COMBUSTÍVEIS. CONTRATO DE COMODATO DE EQUIPAMENTOS. CONSTATAÇÃO DE PASSIVO AMBIENTAL NO MOMENTO DA RETIRADA DOS TANQUES DE COMBUSTÍVEL. RESPONSABILIDADE PELA REMEDIAÇÃO DO SOLO.
+ AGRAVO RETIDO. PRESCRIÇÃO - INOCORRÊNCIA - INTELIGÊNCIA DO ARTIGO 205, DO CÓDIGO CIVIL - AÇÃO DE NATUREZA PESSOAL. RECURSO CONHECIDO E NÃO PROVIDO.
+APELAÇÃO CÍVEL. REMEDIAÇÃO AMBIENTAL NÃO REALIZADA - RESPONSABILIDADE DO COMODANTE - RESSARCIMENTO DEVIDO AO COMODATÁRIO QUE FINALIZOU O PLANO REMEDIADOR. LUCROS CESSANTES - AUSÊNCIA DE DEMONSTRAÇÃO. EMBARGOS PROTELATÓRIOS - APLICAÇÃO DE MULTA - AFASTADA. PLEITO RECONVENCIONAL AFASTADO DIANTE DA PROCEDÊNCIA DA DEMANDA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. (e-STJ Fls. 1.358/1.359)
+Embargos de declaração: interpostos pela agravada, foram acolhidos com efeitos infringentes e, interpostos pela agravante, foram rejeitados, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO 01. COMPLEMENTAÇÃO DA DECISÃO - PLEITO INDENIZATÓRIO GENÉRICO - POSSIBILIDADE - DELIMITAÇÃO DO QUANTUM DEBEATUR EM SEDE DE LIQUIDAÇÃO. EMBARGOS CONHECIDOS E PARCIALMENTE ACOLHIDOS, COM EFEITOS INFRINGENTES.
+EMBARGOS DE DECLARAÇÃO 02. OMISSÃO. INEXISTÊNCIA - II PRETENSÃO DE REDISCUSSÃO DA MATÉRIA JÁ APRECIADA - VIA ELEITA INADEQUADA - LIMITES DO ARTIGO 535 DO CPC - EFEITOS INFRINGENTES - IMPOSSIBILIDADE.
+EMBARGOS CONHECIDOS E REJEITADOS.
+Recurso especial: alega violação dos arts. 104, I, II e III, 186, 206, § 3º, V, 283 e 927 do CC/02; 333, I, do CPC/73; 3º, IV, e 14, § 1º, da Lei nº 6.938/81, bem como dissídio jurisprudencial. Sustenta ser aplicável o prazo prescricional trienal à espécie, de forma que a pretensão da agravada estaria prescrita. Afirma não estar comprovado nos autos que o vazamento que deu origem ao dano ambiental seria decorrente dos equipamentos fornecidos pela agravante. Insurge-se contra a condenação à reparação dos danos alegados pela agravada. Aduz que, em sendo a responsabilidade solidária entre as partes, as despesas ambientais devem ser divididas com a agravada, eis que esta realizou atividades no local e se beneficiou do meio ambiente.
+Relatado o processo, decide-se.
+- Julgamento: CPC/73
+De início, impõe-se ressaltar que o agravo em recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 104, I, II e III, 186, 283 e 927 do CC/02; 3º, IV, e 14, § 1º, da Lei nº 6.938/81, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inocorrência da prescrição da pretensão da agravada na espécie, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Outrossim, o acórdão recorrido expressamente consignou que "a autora, como visto acima, demonstrou o fato constitutivo de seu direito, consistente na verificação de que os equipamentos da requerida, objeto de comodato à autora, deram origem a importante passivo ambiental, constatado em abril/2008" (e-STJ Fl. 1.373).
+A reforma do acórdão estadual, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da mencionada súmula.
+- Da Súmula 568/STJ
+O TJ/PR, ao decidir pela aplicação do prazo prescricional decenal à espécie, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgInt no REsp 1731038/DF, Terceira Turma, Dje de 05/09/2018 e AgInt no AREsp 1296944/SP, Quarta Turma, Dje de 21/09/2018.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
