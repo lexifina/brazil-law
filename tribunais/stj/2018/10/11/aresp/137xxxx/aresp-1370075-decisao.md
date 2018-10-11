@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo MUNICÍPIO DE CURITIBA, em 06/08/2018, contra decisão do Tribunal de Justiça do Estado do Paraná, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"1) DIREITO PROCESSUAL CIVIL. EXECUÇÃO JUDICIAL DE MULTA ADMINISTRATIVA. AUSÊNCIA DE TRÂMITE DO PROCESSO DURANTE LONGO INTERREGNO QUE NÃO PODE SER IMPUTADA UNICAMENTE AOS MECANISMOS DO JUDICIÁRIO. DEVER CONJUNTO DE PROMOVER IMPULSO PROCESSUAL DO MUNICÍPIO-EXEQUENTE INADMISSIVELMENTE DESATENDIDO.
+a) O processo ficou sem trâmite por quase (7) sete anos. Tal inatividade não pode ser creditada exclusivamente aos mecanismos judiciários, sendo exigível da parte que provocasse também o andamento do processo.
+b) Não é o caso, portanto, de aplicabilidade da Súmula 106, do STJ, eis que a ausência de progresso no caminho processual não se deve, unicamente, aos mecanismos da justiça, mas também à inércia da parte exequente.
+c) A ausência da intimação a que se refere o art. 25 da Lei nº 6.830/1980 não retira o dever da parte Exequente em promover diligências bastantes e suficientes para avivar a marcha processual.
+2) EXECUÇÃO DE MULTA ADMINISTRATIVA. INÉRCIA PROCESSUAL DA ADMINISTRAÇÃO-EXEQUENTE QUE CULMINA NA FRUSTRAÇÃO DA FINALIDADE DA SANÇÃO IMPOSTA. OFENSA AOS PRINCÍPIOS DA CELERIDADE, EFICIÊNCIA E RAZOÁVEL DURAÇÃO DO PROCESSO.
+a) O abandono injustificado pelo Exequente do processo judicial, em que executa a sanção pecuniária imposta, demonstra de forma inequívoca seu desinteresse na repressão da irregularidade que deu origem ao ato sancionador, culminando com o inexorável esvaziamento da finalidade do processo em questão.
+b) Transcorrido tanto tempo sem efetivo trâmite processual, fica evidente que a cobrança do valor da multa não atende mais ao interesse público, tendo até mesmo sido revogada a norma em que escorado o ato administrativo sancionador, evidenciando estar presente, apenas, o intuito arrecadatório do Município, em flagrante desvio de finalidade.
+c) Assim, é de se reconhecer a afronta aos princípios da celeridade, da eficiência, da moralidade e da razoável duração do processo, impondo-se a extinção da Execução, por perecimento de sua utilidade.
+3) DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE MULTA ADMINISTRATIVA. EXTINÇÃO POR PRESCRIÇÃO, DECLARADA DE OFÍCIO. CONDENAÇÃO AO PAGAMENTO DE CUSTAS PROCESSUAIS. CABIMENTO.
+a) Declarada, de ofício, a prescrição, e extinta a execução fiscal, é devido o pagamento das custas processuais pela Fazenda municipal, haja vista que inexiste Lei isentando as Fazendas Públicas - estadual ou municipal - do seu pagamento, quando vencidas.
+b) A legislação existente não deixa margem para dúvidas de que, no ESTADO DO PARANÁ, tais custas serão devidas mesmo nos processos que tramitaram por Varas estatizadas, caso em que o sucumbente as recolherá ao Fundo de Justiça - FUNJUS.
+c) A Lei nº 15.942/2008, que criou o Fundo da Justiça - FUNJUS, elencou em seu artigo 3º as receitas que constituem o Fundo da Justiça - FUNJUS, não diferenciando a composição das custas devidas às Serventias estatizadas ou não; ao contrário, expressamente estabeleceu que, para as Serventias estatizadas, também deveria ser observado o Regimento de Custas estabelecido pela Lei nº 6.149/1970.
+4) APELO A QUE SE NEGA PROVIMENTO" (fls. 61/64e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação ao art. 174 do CTN, sustentando que: (a) "o acórdão recorrido negou vigência ao artigo 174 do Código Tributário Nacional, o qual determina que o despacho do juiz que ordena a citação interrompe a prescrição. A prescrição foi interrompida quando o despacho do juiz deferiu a inicial e determinou a citação, assim não há que se falar em prescrição" (fl. 82e); (b) "na realidade o processo jamais ficou paralisado por culpa do Município, visto que a execução fiscal foi ajuizada no prazo legal, bem como foi requerida a citação do executado, sendo a demora na efetivação do ato citatório responsabilidade exclusiva do serviço judicial" (fl. 82e).
+Por fim, requer o provimento do recurso.
+Sem contrarrazões (fl. 94e), negado seguimento ao Recurso Especial (fls. 97/98e), foi interposto o presente Agravo (fls. 104/116e).
+Não foi apresentada a contraminuta (fl. 119e).
+A irresignação não merece prosperar.
+Quanto à controvérsia trazida aos autos, o acórdão recorrido manifestou-se firme nos seguintes fundamentos:
+"a) Ocorrência de inércia do Município-Exequente em dar impulso ao processo Útil observar os marcos temporais havidos neste processo:
+1) ajuizamento da ação em 30.06.2011;
+2) em 02 de agosto de 2011, foi determinada a citação da Executada, que restou infrutífera;
+3) o Município foi intimado em 24/04/2017;
+4) em 25/04/2017, o Exequente se manifestou arguindo a não ocorrência de prescrição.
+Vê-se que o interregno que salta aos olhos transcorreu entre o ajuizamento da execução e a ausência de citação efetiva: quase 7 anos.
+Durante este período, é de se reconhecer, incumbia ao agente público - no caso, o Oficial de Justiça - dar cumprimento ao mandado de citação, ou, ao menos, devolvê-lo aos autos, justificando a impossibilidade de fazê-lo.
+Também é certo, entretanto, que não se pode admitir que a parte exequente singelamente esqueça do processo; simplesmente ignore a possibilidade de admoestar o Juízo para que este exorte o Servidor a cumprir o mandado.
+Diante deste quadro fático, destaco não ser hipótese de aplicabilidade da Súmula 106, do STJ, já que a demora na citação não se deu por conta dos mecanismos do Judiciário, mas, concomitantemente, por colateral falha do Município-Exequente em acompanhar e exigir impulso nas demandas por ele ajuizadas, haja vista o interesse público em causa.
+Ao que parece, avizinhando-se a prescrição e malgrado estivesse evidente a baixa probabilidade de êxito na cobrança, o Exequente ajuizou o maior número possível de execuções de seus créditos fiscais tributários e não-tributários, amparando-se na desnecessidade de antecipação de custas, transferindo, então, para o Poder Judiciário, o peso daquela responsabilidade.
+Nesse contexto, descabe argumentar não ter havido a intimação a que se refere o art. 25, da Lei nº 6.830/1980, já que, como dito, não era caso de intimação da Fazenda-Exequente, mas, sim, de razoável exigência de iniciativa processual de sua própria lavra" (fls. 66/68e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
