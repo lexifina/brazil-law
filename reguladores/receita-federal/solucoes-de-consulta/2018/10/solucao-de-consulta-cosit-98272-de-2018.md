@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98272, de 2 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 1901.20.00, sem enquadramento no Ex 01 da Tipi Mercadoria: Pré-mistura própria para a fabricação de pão tipo forma, contendo farinha de trigo (90% em peso), açúcar, sal, farinha de soja, leite, emulsificantes, antioxidantes e outros ingredientes, apresentada na forma de pó, acondicionada em embalagens com capacidades de 1 kg a 50 kg. DISPOSITIVOS LEGAIS: RGI 1 e RGI 6 da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.272-2018 .pdf]
