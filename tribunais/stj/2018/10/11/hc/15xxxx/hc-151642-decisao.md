@@ -1,0 +1,9 @@
+DECISÃO
+CARLOS ROBERTO DE ROLT alega sofrer constrangimento ilegal em decorrência de cerceamento de defesa ocasionado, em síntese, pela ausência de intimação pessoal sua e de seu patrono acerca da data da sessão de julgamento do recurso em sentido estrito n. 2006.72.00.008647-0/SC.
+Consta que o paciente foi indiciado no inquérito policial n. 2006.72.00.008647-0, em trâmite perante a 6ª Vara Federal de Florianópolis. O feito foi encaminhado ao Tribunal Regional Federal da 4ª Região por envolver a possível participação de prefeito municipal, detentor de prerrogativa de foro, nas condutas delituosas investigadas.
+Daí a interposição do recurso em sentido estrito, por parte do Ministério Público Federal, cuja intimação pessoal para a sessão de julgamento está sendo questionada neste writ.
+Ocorre que, em pesquisa aos bancos de dados constantes da internet, este gabinete obteve a informação de que em janeiro de 2013, após as eleições de 2012, quando o indiciado [NOME] perdeu o foro privilegiado, o Parquet requereu o retorno dos autos à Justiça Federal em Florianópolis. No entanto, outro indiciado, [NOME], elegeu-se prefeito de Palmas-TO, o que determinou a remessa do feito ao Tribunal Regional Federal da 1ª Região.
+O inquérito acabou desmembrado, sobrevindo o IP n. 5032439-70.014.4.04.7200/SC, o qual tramitou perante a 6ª Vara Federal de Florianópolis, cujos indiciados não detinham foro por prerrogativa de função, entre eles o paciente. Alguns desse investigados vieram a ser denunciados e condenados, nos autos da ação penal n. 5036273-81.2014.4.04.7200, cuja sentença já foi objeto de recurso de apelação por parte dos condenados.
+Dessarte, resta clara a perda do objeto desta impetração.
+À vista do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
