@@ -1,0 +1,10 @@
+DECISÃO
+DANIEL PEREIRA BENZI alega sofrer constrangimento ilegal ao seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem vindicada no HC n. 2111611-94.2018.8.26.0000, lá impetrado com vistas ao relaxamento de sua custódia cautelar, ante o excesso de prazo para o início da instrução criminal.
+Às fls. 103-105, indeferi a liminar pretendida neste writ, por ausência de plausibilidade jurídica.
+Sobrevindas informações do Juízo de primeiro grau e do Tribunal de origem (fls. 109-113 e 116-144), o Ministério Público Federal ofertou seu parecer, às fls. 61-67, manifestando-se pelo não conhecimento do habeas corpus.
+Decido.
+Ab initio, importante consignar que o flagrante foi homologado e convertido em prisão preventiva para garantia da ordem pública, diante da folha de antecedentes do indiciado com outros envolvimentos criminais e a existência de mandado de recaptura em seu desfavor (Processo n. 7000204-18.2007.8.26.0506). Ademais, pelas informações prestadas, observo que o paciente "está custodiado em regime fechado na Penitenciária I de Serra Azul-SP desde 21 de setembro de 2017, resgatando a pena fixada nos autos da Ação Penal n. 0002765-97.2005.8.26.0153, Controle n. 386/2005, da Primeira Vara Judicial da Comarca de Cravinhos, com início em 05 de abril de 2005 e término previsto para 27 de fevereiro de 2025" (fl. 118).
+Em relação ao excesso de prazo, em consulta ao sítio eletrônico do Tribunal de origem, verifica-se, todavia, que tanto a acusação quanto a defesa já ofertaram as suas alegações finais, e, em 4/10/2018, o feito foi concluso para sentença, a evidenciar a prejudicialidade deste mandamus.
+Afinal, nos termos da Súmula n. 52 desta Corte Superior, "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
