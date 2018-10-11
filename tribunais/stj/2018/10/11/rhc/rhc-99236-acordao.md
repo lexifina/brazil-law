@@ -1,0 +1,75 @@
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. RÉU CONDENADO. REGIME SEMIABERTO. NEGATIVA DE RECORRER EM LIBERDADE. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. A negativa de recorrer em liberdade está adequadamente motivada em elementos concretos extraídos dos autos, com o fito de garantir a ordem pública, diante da periculosidade do recorrente que responde a três outras ações penais pela prática do mesmo delito, evidenciando a necessidade da medida para evitar a reiteração delitiva.
+3. A liberdade no curso da instrução processual não impede a decretação da prisão preventiva na sentença condenatória, presentes os requisitos do art. 312 do Código de Processo Penal.
+4. Recurso em habeas corpus desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por [NOME] contra acórdão do Tribunal Regional Federal da 5ª Região.
+Na origem, constata-se condenação do recorrente às penas de 5 anos e 4 meses de reclusão, em regime semiaberto, pela prática do crime de roubo majorado, sendo-lhe negado apelar em liberdade.
+Ao fundamento de inidoneidade da prisão preventiva, a defesa impetrou habeas corpus, cuja ordem foi denegada:
+"CRIME DE ROUBO MAJORADO. ART. 157, § 2º, II, DO CÓDIGO PENAL. EMENTA: HABEAS CORPUS REVOGAÇÃO DE DECRETO DE PRISÃO PREVENTIVA PROFERIDA JÁ QUANDO DA PROLAÇÃO DA SENTENÇA. ADOÇÃO DE REGIME MAIS GRAVOSO DO QUE O PREVISTO PARA A PENA AO FINAL APLICADA.
+INVIABILIDADE DA TESE IMPETRADA. PACIENTE QUE JÁ SE ENCONTRA PRESO POR OUTRA AÇÃO DELITUOSA, COM CONDENAÇÃO POR IDÊNTICA CONDUTA EM DUAS OUTRAS AÇÃO PENAIS. PENAS QUE TOTALIZAM, AO FINAL, EM 23 ANOS, 8 MESES E 13 DIAS. REITERAÇÃO DELITUOSA QUE SE OBSERVA.
+GARANTIA À ORDEM PÚBLICA. DENEGAÇÃO DA ORDEM.
+1. Cuida-se de impetrado em favor de , que foi condenado às penas do art. 157, habeas corpus [NOME] § 2º, II, do Código Penal, em regime semiaberto, sendo, no entanto, determinada na sentença sua prisão preventiva, pretendendo, em sede liminar, a revogação da prisão preventiva, com a sua imediata soltura ou, alternativamente, a adoção de medidas cautelares elencadas no art. 319 do Código de Processo Penal ou, ainda, o cumprimento da constrição preventiva em estabelecimento prisional adequado ao regime semiaberto, com a confirmação da liminar quando do mérito, aduzindo ser a medida adotada mais gravosa que o regime aplicado para o cumprimento da pena, tratando-se o paciente réu primário e sem antecedentes, encontrando-se em tramitação outros processos criminais a que responde sem qualquer condenação com trânsito em julgado, não havendo sido decretada a medida constritiva quando do curso do processo a que restou condenado, mas tão somente quando da prolação da sentença, limitando-se, ali, a menci onar suposta reiteração no agir do ora paciente, sem contudo indicar qualquer elemento concreto que levasse o juízo impetrado a concluir pela conduta reiterativa na prática criminosa.
+2. As circunstâncias judiciais do art. 59 do Código Penal foram sopesadas em favor do ora paciente, sendo ele tecnicamente primário e sem antecedentes, vindo a ser condenado, ao final, às penas de 5 (cinco) anos e 4 (quatro) meses de reclusão e de 13 (treze) dias-multa, cada qual valorado em 1/30 (um trigésimo) do salário mínimo vigente em março/2016, em regime inicialmente semiaberto, sendo-lhe negado, contudo, o direito de recorrer em liberdade, com o decreto, na sentença, de prisão preventiva no entendimento de presentes os requisitos pois, embora não tenha sido determinada tal medida no curso do processo, tal situação se justificava por já se encontrar preso pelo cometimento de outro crime, pelo que não mostrava, então, necessária a ordem de prisão, acrescentando a sentença, a justificar a medida, a garantia da ordem pública, eis que o próprio ora paciente confessou ter praticado outros idênticos delitos, evidenciando uma propensão à prática de ilícitos da mesma natureza, além do que já se encontra preso em virtude de outro processo.
+3. O ora paciente é réu em três ações penais no âmbito da Seção Judiciária do Ceará, todas pela prática de roubo, com condenações que totalizam 23 (vinte e três) anos, 8 (oito) meses e 13 (treze) dias de reclusão (no caso em comento - Ação Penal nº 0000474-46.2017.4.05.8100: 5 anos e 4 meses, em regime de cumprimento inicialmente semiaberto; na Ação Penal nº 0003382-13.2016.4.05.8100, da mesma 32ª Vara Federal: 8 anos, em regime fechado;
+e na Ação Penal nº 0001689-91.2016.4.05.8100, da 11ª Vara Federal: 10 anos, 4 meses e 13 dias, em regime fechado), pelo que, ao se considerar seu conjunto e, se mantidas, diante da unificação, a pena final imposta não será conduzida a patamar inferior a 8 (oito) anos, pelo que não há como se entender que a medida - de se decretar na sentença a prisão preventiva - configuraria na adoção de regime mais gravoso do que o previsto em lei para a pena, nos autos, fixada.
+4. Diante do fato de ser o ora paciente réu em três ações penais por idêntica prática criminosa, capituladas no art.
+157, § 2º, II, do Código Penal, contrapõe-se à tese apresentada no a hipótese indicada na sentença da writ propensão à reiteração delitiva, além do que se encontra ele, já por um outro agir delituoso, recolhido em estabelecimento prisional.
+5. Ordem denegada".
+Neste recurso, a parte destaca ausência dos requisitos para a negativa em recorrer em liberdade.
+Assevera, ademais, incompatibilidade do regime prisional fixado com a prisão cautelar.
+Pugna pelo provimento do recurso para que seja revogada a custódia cautelar.
+O Ministério Público Federal opinou pelo não provimento do recurso.
+É o relatório.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. RÉU CONDENADO. REGIME SEMIABERTO. NEGATIVA DE RECORRER EM LIBERDADE. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. A negativa de recorrer em liberdade está adequadamente motivada em elementos concretos extraídos dos autos, com o fito de garantir a ordem pública, diante da periculosidade do recorrente que responde a três outras ações penais pela prática do mesmo delito, evidenciando a necessidade da medida para evitar a reiteração delitiva.
+3. A liberdade no curso da instrução processual não impede a decretação da prisão preventiva na sentença condenatória, presentes os requisitos do art. 312 do Código de Processo Penal.
+4. Recurso em habeas corpus desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Conforme destacado, pretende o recorrente o direito de recorrer em liberdade.
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, consoante relatado, a prisão preventiva foi mantida nos seguintes termos:
+"Nego ao réu o direito de recorrer em liberdade, de modo que decreto a sua prisão preventiva, porque presentes os requisitos Com efeito, embora o réu em tese não tenha sido preso em virtude deste processo, já estava preso pelo cometimento de outro crime, dai por que, em tese, não foi necessária a sua ordem de prisão. Todavia entendo que, para melhor resguardo da ordem pública, é preciso ordenar a sua prisão também por força desta ação penal. A materialidade delitiva e a autoria foram reconhecidas nesta sentença. O cnme é doloso. A pena final aplicada foi superior a quatro anos. E a necessidade de garantia da ordem pública é evidente, porquanto o próprio réu confessou ter praticado outros assaltos juntamente com outras pessoas, o que evidencia sua propensão para a prática de ilícitos desta natureza e torna concreto o risco de que volte a delinquir".
+Como se vê, a negativa de recorrer em liberdade está adequadamente motivada em elementos concretos extraídos dos autos, com o fito de garantir a ordem pública, diante da periculosidade do recorrente que responde a três outras ações penais pela prática do mesmo delito, evidenciando a necessidade da medida para evitar a reiteração delitiva.
+Sobre o tema, os seguintes precedentes:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ROUBO E CORRUPÇÃO DE MENORES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. INOCORRÊNCIA. PERICULOSIDADE DO AGENTE. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - No caso, o decreto prisional se encontra devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora paciente acarretaria risco à ordem pública, tendo em vista o fundado receio de reiteração delitiva, diante da extrema periculosidade, evidenciada pelo modus operandi da conduta praticada, com o emprego de arma de fogo. (Precedentes).
+ ..
+Habeas corpus não conhecido."
+(HC 325.125/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2015, DJe 06/11/2015).
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. NECESSIDADE DA CUSTÓDIA DEMONSTRADA. GRAVIDADE CONCRETA DO CRIME. PERICULOSIDADE SOCIAL DO RÉU. MODUS OPERANDI. CONCURSO DE AGENTES. SIMULACRO DE ARMAS DE ARMA DE FOGO. FUNDAMENTAÇÃO IDÔNEA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. REGIME SEMIABERTO E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. NECESSIDADE DE COMPATIBILIZAÇÃO.
+ ..
+3. Caso em que a manutenção da segregação acautelatória para garantia da ordem pública decorreu da periculosidade do réu, evidenciada pelo modus operandi empregado na prática delitiva, no qual houve concurso de agentes, com arregimentação de menor de 18 (dezoito) anos, e utilização de simulacro de arma de fogo.
+ .. "
+(RHC 56.829/MG, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 01/09/2015, DJe 18/09/2015).
+A liberdade no curso da instrução processual não impede a decretação da prisão preventiva na sentença condenatória, presentes os requisitos do art. 312 do Código de Processo Penal.
+Por fim, esta Corte, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória.
+Sobre o tema, confiram-se:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. POSSE ILEGAL DE ARMA DE FOGO. SENTENÇA SUPERVENIENTE. MANTIDOS OS FUNDAMENTOS DA SEGREGAÇÃO. AUSÊNCIA DE PREJUDICIALIDADE. CUSTÓDIA PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. VARIEDADE, NATUREZA DELETÉRIA E QUANTIDADE DAS DROGAS APREENDIDAS. CIRCUNSTÂNCIAS DO DELITO. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. COMPATIBILIDADE DA CUSTÓDIA COM O REGIME SEMIABERTO FIXADO NA SENTENÇA. NECESSIDADE DE ADEQUAÇÃO. FLAGRANTE ILEGALIDADE EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Esta Quinta Turma possui firme entendimento no sentido de que a manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Precedentes.
+ ..
+8. Esta Corte Superior sedimentou entendimento segundo o qual a prisão preventiva é compatível com o regime prisional semiaberto, desde que seja realizada a efetiva adequação ao regime intermediário. Assim, tendo a sentença condenatória fixado o regime prisional semiaberto para o início do cumprimento da pena, deve a prisão provisória ser compatibilizada ao regime imposto, sob pena de tornar mais gravosa a situação daquele que opta por recorrer do decisum.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para adequar a prisão preventiva ao regime semiaberto fixado na sentença"
+(HC 419.815/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/4/2018, DJe 18/4/2018).
+"PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PACIENTE QUE RESPONDE A OUTRA AÇÃO PENAL. NEGATIVA DE RECORRER EM LIBERDADE. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. NECESSIDADE DE ADEQUAR A CUSTÓDIA AO MODO DE EXECUÇÃO FIXADO NA SENTENÇA.
+ ..
+3. No caso, a manutenção da prisão preventiva está justificada pela reiteração delitiva do recorrente, que responde a outra ação penal pelo mesmo tipo de delito, a saber, tráfico de drogas. Assim, demonstrada a necessidade da prisão provisória para garantia da ordem pública e como forma de se evitar a reiteração delitiva.
+4. Tendo em vista a fixação do regime inicial semiaberto para o cumprimento de pena, faz-se necessária a compatibilização da custódia cautelar com o modo de execução fixado na sentença condenatória.
+5. Recurso parcialmente provido"
+(RHC 93.888/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/3/2018, DJe 9/4/2018).
+No caso dos autos, o recorrente foi condenado à pena privativa de liberdade a ser inicialmente cumprida em regime semiaberto, vedado o recurso em liberdade.
+Contudo, na hipótese, não se aplica o entendimento acima referido. Isso porque, consoante consignado no acórdão recorrido, "o paciente é réu em três ações penais no âmbito da Seção Judiciária do Ceará, todas pela prática de roubo, com condenações que totalizam 23 (vinte e três) anos, 8 (oito) meses e 13 (treze) dias de reclusão", o que, por certo, diante da unificação das reprimendas, o regime prisional deve ser o fechado.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+É o voto.
