@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Tribunal Regional Federal da 3ª Região, suscitante, e o Tribunal de Justiça do Estado de São Paulo, suscitado, em ação ajuizada por TEREZINHA [NOME], em que requer o restabelecimento de auxílio-doença e/ou concessão de benefício acidentário.
+O Juízo Estadual, invocando o art. 11, I, VI e VII, da Lei n. 8.213/91, declinou da competência e determinou a remessa dos autos à Justiça Federal, ao fundamento de que o mencionado dispositivo excluiu o contribuinte individual do rol dos segurados que gozam da proteção infortunística (fls. 179/182).
+À sua vez, o Juízo Federal, forte no art. 109, I, da CF, suscitou o presente conflito, ao argumento de que, em se tratando de pretensão a benefício acidentário, compete à Justiça Estadual dirimir a lide a teor das Súmulas 501/STF e 15/STJ (fls. 185/191).
+É o relatório.
+Razão assiste ao juízo suscitado.
+Realmente, a Primeira Seção, ao examinar o Conflito de Competência 140.943/SP, Rel. Ministro Mauro Campbell Marques, assentou entendimento no sentido de que, em se tratando de contribuinte individual, compete à Justiça Federal o julgamento da lide.
+Eis a ementa do julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA.
+AÇÃO PREVIDENCIÁRIA. BENEFÍCIO POR INCAPACIDADE. SEGURADO CONTRIBUINTE INDIVIDUAL. LEGISLAÇÃO ACIDENTÁRIA EXCLUDENTE. NATUREZA PREVIDENCIÁRIA DO BENEFÍCIO. INTELIGÊNCIA DO ARTIGO 19 DA LEI 8.213/1991. COMPETÊNCIA DA JUSTIÇA FEDERAL. JUÍZO SUSCITADO.
+1. No caso, tramita ação previdenciária em que ser requer a condenação do INSS ao pagamento de benefício previdenciário por incapacidade, em que o autor ostenta a qualidade de segurado contribuinte individual.
+2. O segurado contribuinte individual integra o rol dos segurados obrigatórios do Regime Geral de Previdência Social. O artigo 12, V, da Lei 8.212/1991 e o artigo 9º, V, do Decreto 3.048/1999, com a redação dada pela Lei 9.876/1999, elencam quem são os segurados contribuintes individuais. São igualmente segurados contribuintes individuais, o médico-residente, por força da Lei 6.932/1981 com a redação dada pela Lei 12.514/2011; o cônjuge ou companheiro do produtor que participe da atividade rural por este explorada; o bolsista da Fundação Habitacional do Exército, contratado em conformidade com a Lei 6.855/1980 e o árbitro de competições desportivas e seus auxiliares que atuem em conformidade com a Lei 9.615/1998.
+2. Consoante artigo 19 da Lei 8.213/1991, somente os segurados empregados, incluídos os temporários, os segurados trabalhadores avulsos e os segurados especiais fazem jus aos benefícios previdenciários por acidente do trabalho. O ordenamento jurídico fez incluir o segurado empregado doméstico no rol do artigo 19, em observância à Emenda Constitucional 72 e à Lei Complementar 150/2015.
+3. O artigo 109, I, da Constituição Federal de 1988, ao excetuar da competência federal as causas de acidente do trabalho, abarcou tão somente as lides estritamente acidentárias, movidas pelo segurado contra o INSS.
+4. O acidente sofrido por trabalhador classificado pela lei previdenciária como segurado contribuinte individual, por expressa determinação legal, não configura acidente do trabalho, não ensejando, portanto, a concessão de benefício acidentário, apenas previdenciário, sob a jurisdição da Justiça Federal.
+5. Conflito negativo de competência conhecido para declarar a competência da Justiça Federal.
+(CC 140.943/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/02/2017, DJe 16/02/2017)
+Com a mesma compreensão, confiram-se as seguintes decisões monocráticas: CC 153.039/SP, Rel. Min. Og Fernandes, DJe 22/11/2017; CC 148.030/SC, Relª. Minª. Regina Helena Costa, DJe 9/8/2017; e CC 145.326/SP, Rel. Benedito Gonçalves, DJe 24/5/2017.
+Ante o exposto, conheço do conflito para declarar competente para o processamento do feito o Tribunal Regional Federal da 3ª Região, o suscitante.
+Publique-se e comunique-se, dando-se ciência aos Juízos envolvidos e ao Ministério Público Federal.
