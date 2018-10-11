@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por COMERCIAL V L DE VEÍCULOS E PEÇAS LTDA - MICROEMPRESA, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado de Mato Grosso, que não admitiu recurso especial com base nos seguintes fundamentos: (I) não houve violação ao art. 535 do CPC/73; (II) falta de prequestionamento, sendo aplicáveis as Súmulas 282 e 356/STF e 211/STJ; (III) as teses suscitadas no apelo especial demandariam novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ; e (IV) quanto à suposta divergência jurisprudencial, a recorrente não realizou o cotejo analítico de forma adequada.
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater de modo específico os seguintes fundamentos: (I) não houve violação ao art. 535 do CPC/73; (II) falta de prequestionamento, sendo aplicáveis as Súmulas 282 e 356/STF e 211/STJ; e (III) as teses suscitadas no apelo especial demandariam novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ
+Com efeito, apesar de afirmar, genericamente, que a matéria do recurso restou prequestionada e não envolve reexame de prova, a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, limitando-se, então, a repetir a fundamentação adotada no bojo das razões do apelo especial.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (acórdãos pendentes de publicação).
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
