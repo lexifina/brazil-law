@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 0003251-71.2017.8.26.0635.
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, à pena de 5 anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas).
+Em apelação da defesa, o Tribunal a quo manteve a sentença.
+Na presente impetração, a defesa sustenta ser aplicável a causa de diminuição disposta no art. 33, § 4º, da Lei n. 11.343/2006. Assevera que o paciente cumpre todos os requisitos exigidos para a incidência da referida minorante.
+Requer, assim, a redução da pena, com a consequente alteração do regime prisional.
+Indeferido o pedido liminar e dispensadas as informações, o Ministério Público Federal opinou pela concessão da ordem, nos termos da seguinte ementa:
+EMENTA: HABEAS CORPUS. Tráfico de drogas. Pequena quantidade de maconha e cocaína. Pleito pelo reconhecimento do tráfico privilegiado. Possibilidade. Ausência de indicativos de que participe de atividades criminosas ou integre organização criminosa. Aplicação do regime inicial semiaberto. Cabimento. Réu primário. Pena-base fixada no mínimo legal. Parecer pela concessão da ordem e pela aplicação de práticas restaurativas. (fl. 104).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Na hipótese dos autos, o paciente foi condenado por tráfico ilícito de entorpecentes. Na dosimetria da pena, asseverou o magistrado sentenciante:
+ ..
+Demonstrada a procedência da imputação contra o acusado, não existindo justificativas para os seus atos, passo a dosimetria das penas a serem aplicadas. O acusado é primário. Com base no artigo 68 do Código Penal, observando os elementos norteadores previstos nos artigos 59 e 60, ambos do Código Penal, não sendo os elementos diversos de casos análogos, fixo as penas básicas no patamar mínimo legal para o crime de tráfico ilícito de entorpecentes, ou seja, em 5 (cinco) anos de reclusão e 500 (quinhentos) dias multa, sendo estas as sanções definitivas, pela ausência de circunstâncias modificadoras e de causas de aumento e de diminuição de penas que possam ser consideradas. Fixam-se, cada dia multa, no valor mínimo unitário legal, diante da ausência de informações seguras sobre a capacidade econômica do acusado.
+ ..
+ O réu iniciará o cumprimento da pena privativa de liberdade no regime fechado, o único compatível com a gravidade da sua conduta. Também, não se verifica a possibilidade do reconhecimento de nenhum benefício legal, em face da pena imposta e da própria natureza do crime praticado, mormente a diminuição prevista no artigo 33, § 4º, da Lei Federal nº 11.343/06, uma vez que o dispositivo é de aplicação para casos específicos em que o Juízo verifique uma ação isolada e sem qualquer relação com a atividade continuada e organizada do crime. Anota-se que o acusado foi detido em circunstâncias que evidencia ligação com o crime organizado, uma vez que traficava em ponto específico. Observa-se que um traficante que atua de forma isolada e independente não pode ficar em um ponto fixo, uma vez que corre o risco de ser morto pela concorrência criminosa. Logo, não se está diante de um indivíduo isolado, mas de um agente integrado a algo maior e organizado, representando o benefício, neste caso, em sendo dado, mero exercício de impunidade o que é contrário ao próprio espírito da lei. (fls. 49/50)
+Em apelação interposta pela defesa, assim decidiu o Tribunal a quo, quanto ao ponto:
+ ..
+No que concerne à dosimetria da pena, nada a acrescentar, porquanto no primeiro momento foi fixada no mínimo legal, enquanto no segundo e terceiro momentos, à míngua de circunstâncias e causas alteradoras, foi mantida no mesmo patamar, destacando corretamente o douto magistrado sentenciante a impossibilidade de aplicação do redutor previsto no § 4º do artigo 33 da Lei de Drogas (..). (fl. 79)
+O art. 33, § 4º, da Lei n. 11.343/06 dispõe que "as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Na hipótese, conforme demonstram os trechos acima, as instâncias ordinárias entenderam, com base nas circunstâncias do delito, principalmente no local em que houve a prisão em flagrante, que o paciente estava ligado ao crime organizado, não fazendo jus, assim, à referida minorante. Para se afastar essa conclusão, é necessário o reexame aprofundado do conjunto fático-probatório, o que é vedado em habeas corpus.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. PRETENDIDA APLICAÇÃO. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES DELITUOSAS. REGIME PRISIONAL DIVERSO DO FECHADO. WRIT NÃO CONHECIDO.
+1. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, são exigidos, além da primariedade e dos bons antecedentes da acusada, que esta não integre organização criminosa e que não se dedique a atividades delituosas.
+2. Não há constrangimento ilegal no ponto em que, fundamentadamente, não foi aplicada a causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, à vista de elementos concretos que indicaram a dedicação da acusada à atividade criminosa do tráfico.
+3. Para acolher a tese defensiva de que a acusada não se dedica a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+4. Ordem não conhecida.
+(HC 287.874/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/08/2015, DJe 03/09/2015).
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. TRÁFICO DE DROGAS. APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADE CRIMINOSA. ANÁLISE QUE DEMANDARIA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao habeas corpus quanto à aplicação do § 4º do art. 33 da Lei de Drogas, uma vez que as instâncias originárias afastaram sua incidência por entender que os réu se dedicavam a atividade criminosa. Assim, a pretensão em sentido contrário, a infirmar a conclusão do Tribunal a quo, implicaria o revolvimento do conjunto fático-probatório, inviável na sede estreita do habeas corpus. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC 302.101/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/11/2014, DJe 12/12/2014)
+Por outro lado, o regime fechado está baseado exclusivamente na gravidade abstrata do delito, em desrespeito ao Enunciado n. 440 da Súmula desta Corte.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para fixar o regime inicial semiaberto.
+Publique-se.
+Intimações necessárias.
