@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial adesivo interposto por [NOME], com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AÇÃO COM PEDIDO DE COBRANÇA. RESTITUIÇÃO. PRÊMIO. COBERTURA MORTE DE FILHO. PRESCRIÇÃO. PAGAMENTO PARCIAL APÓS O DECURSO DO PRAZO PRESCRICIONAL. RENÚNCIA TÁCITA À PRESCRIÇÃO CONFIGURADA. ART. 191 DO CC. SEGURADO QUE PLEITEIA A INDENIZAÇÃO PELA MORTE DE FILHO. SEGURADORA QUE NEGA O PAGAMENTO AO ARGUMENTO DE QUE EXISTE O LIMITE DE 21 ANOS DE IDADE. PRÊMIO REGULARMENTE DESCONTADO A ESTE TÍTULO. RESTITUIÇÃO DEVIDA. CÁLCULO. DEVOLUÇÃO DA QUOTA PARTE DE CADA FILHO CONTADOS A PARTIR DO IMPLEMENTO DA IDADE DE 21 ANOS. RESTITUIÇÃO EM DOBRO DO INDÉBITO. CORREÇÃO MONETÁRIA A PARTIR DO DESCONTO DE CADA PARCELA DO PRÊMIO. JUROS A PARTIR DA CITAÇÃO. HONORÁRIOS 15% SOBRE O VALOR DA CONDENAÇÃO. DANOS MORAIS. NÃO CABIMENTO" (e-STJ fl. 277)
+Em suas razões recursais, o recorrente defende haver dissídio jurisprudencial quanto à possibilidade de condenação da seguradora ao pagamento de indenização por danos morais.
+Apresentadas contrarrazões às fls. 333/340 (e-STJ)
+É o relatório. Passo a decidir.
+Em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, esta eg. Corte de Justiça tem decidido, reiteradamente, que, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+Contudo, na hipótese dos autos, não houve essa demonstração.
+Da análise dos autos, denota-se que o recorrente nem mesmo descreveu as circunstâncias fáticas analisadas nos acórdãos paradigmas, sendo impossível verificar se divergem ou não do que foi exposto no aresto vergastado.
+Além disso, o recorrente, nas razões do apelo especial, não indicou nenhum dispositivo legal supostamente contrariado pelo acórdão recorrido ou objeto de interpretação divergente pelos tribunais, o que atrai a incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF.
+1. Em relação à alínea "a", a alegação genérica, sem a particularização dos dispositivos legais eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento deste STJ, atraindo a incidência, ao caso, da Súmula 284/STF.
+2. Quanto à alínea "c", a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial, também atraindo a incidência da Súmula n.º 284 do STF.
+3. Agravo regimental a que se nega provimento, com aplicação de multa." (AgRg no AREsp n. 675.968/DF, Relator o Ministro Luis Felipe Salomão, Quarta Turma, DJe 17/4/2015.)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial adesivo.
+Publique-se.
