@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de petição manifestando expressamente não ter o autor interesse na realização de qualquer acordo referente aos expurgos inflacionários.
+Em face da manifestação na qual consignou que não possui interesse na realização do acordo, e com base na nova deliberação da Segunda Seção deste Superior Tribunal de Justiça realizada na sessão do dia 22 de agosto de 2018 acerca da continuidade dos feitos que envolvam expurgos inflacionários em caderneta de poupança quando a parte manifesta seu desinteresse no acordo homologado pelo Supremo Tribunal Federal, torno sem efeito o despacho de fl. 648 e passo ao exame do agravo em recurso especial.
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu recurso especial, interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 283/STF e deficiência de fundamentação - Súmula 284/STF.
+Entretanto, a parte Agravante deixou de impugnar especificamente os referidos fundamentos.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A propósito, confira-se este julgado:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONCESSÃO DE SUSPENSÃO CONDICIONAL DA PENA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Incabível a execução provisória da pena imposta a réu ao qual concedida a suspensão condicional da pena. Precedentes.
+3. Agravo regimental improvido e indeferido o pedido de execução provisória da pena. (AgRg no AREsp n. 1.193.328/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 11/5/2018.)
+Nesse sentido, vejam-se ainda os seguintes precedentes: AgInt no AREsp n. 880.709/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/6/2016; AgRg no AREsp n. 575.696/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/4/2016; AgRg no AREsp n. 809.829/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2016; e AgRg no AREsp n. 905.869/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/6/2016.
+Ante o exposto, torno sem efeito a decisão de fl. 648 e, prosseguindo na análise recursal, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
