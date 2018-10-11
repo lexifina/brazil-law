@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. EXPURGOS INFLACIONÁRIOS. SÚMULA 289 DO STJ. INAPLICABILIDADE. AUSÊNCIA DE RESGATE. PERMANÊNCIA DO VÍNCULO CONTRATUAL COM A ENTIDADE PREVIDENCIÁRIA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por [NOME] e outros, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 481-482):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. PREVIDENCIÁRIO. AÇÃO DE COBRANÇA C/C REVISIONAL. PLANO DE PREVIDÊNCIA PRIVADA. PREVI. DIFERENÇAS DE EXPURGOS INFLACIONÁRíOS. REVISÃO DA RENDA MENSAL INICIAL. APELAÇÃO. PEDIDO DE INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR - ACOLHIMENTO ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE AFASTA A SUA INCIDÊNCIA NOS CASOS DE PLANOS DE PREVIDÊNCIA PRIVADA FECHADA. INAPLICABILIDADE DA SÚMULA 289 DO STJ - IMPOSSIBILIDADE DE APLICAÇÃO ANALÓGICA - INCIDÊNCIA APENAS NOS CASOS DE RESGATE E ROMPIMENTO DO VÍNCULO JURÍDICO - MIGRAÇÃO DE PLANOS POR MEIO DE TRANSAÇÃO - CONCESSÃO MÚTUA DE VANTAGENS - MANUTENÇÃO DO VÍNCULO CONTRATUAL - RECEBIMENTO DE BENEFÍCIO DE RENDA MENSAL VITALÍCIA - DIREITO À CORREÇÃO MONETÁRIA NÃO CONFIGURADO - JURISPRUDÊNCIA ATUAL DO STJ. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 506-516).
+Nas razões do recurso especial (e-STJ, fls. 519-534), os recorrentes alegaram violação aos arts. 389, 421, 422, 423, 427 e do Código Civil, além de divergência jurisprudencial.
+Insurgiram-se, em suma, contra a decisão do acórdão recorrido em julgar improcedente a pretensão de reconhecimento ao direito do benefício de complementação de aposentadoria que sofreu os reflexos dos expurgos inflacionários, bem como a correção monetária plena, por entender que somente em caso de reserva matemática poderia ser reconhecido tal direito.
+Argumentaram que, apesar de os fundos de pensão não serem de instituições financeiras, tal fato não os exime de devolver o que descontaram do salário de seus empregados devidamente corrigidos, sob pena de enriquecimento indevido por parte da entidade.
+Defenderam que "a aposentadoria complemetar, da mesma forma que a reserva matemática sacada, deve ter assegurada sua correção monetária plena, mesmo que não esteja descrito tal direito no Regulamento, ou seja, contrato do participante com a Entidade" (e-STJ, fl. 524).
+Ressaltaram que "não cabe ao regulamento interno ou o estatuto de entidade de direito privado estabelecer norma que ofenda os princípios que norteiam os contratos" (e-STJ, fl. 524).
+Pleitearam, assim, que a "complementação de aposentadoria seja objeto de correção monetária plena através dos reflexos dos expurgos inflacionários, de forma análoga ao que ocorre no resgate de contribuições" (e-STJ, fl. 526).
+Apontaram, ao final, divergência jurisprudencial.
+A decisão da Primeira Vice-Presidência do Tribunal de Justiça do Estado do Paraná deixou de admitir o recurso especial por incidência da Súmula 83/STJ (e-STJ, fls. 561-563).
+Foi interposto agravo em recurso especial às fls. 566-576 (e-STJ), e contraminuta apresentada às fls. 580-586 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ao analisar a questão controvertida dos autos, o Tribunal de Justiça consignou os seguintes fundamentos (e-STJ, fls. 487-494):
+ 11. Assiste razão à apelante-ré quanto à inaplicabilidade da Súmula 289 do Superior Tribunal de Justiça ao caso.
+ 12. A Súmula 289 do Superior Tribunal de Justiça é no seguinte sentido:
+"A restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda."
+ 13. A aplicação da referida Súmula restringe-se aos casos em que há o rompimento do vínculo jurídico (contratual) estabelecido entre o beneficiário e o plano de previdência complementar com o resgate de sua reserva de poupança.
+ 14. Já nos casos em que o beneficiário permanece ligado ao plano recebendo o benefício complementar, sua incidência deve ser afastada.
+ ..
+ 19. É incontroverso que os apelados continuam ligados ao plano de previdência complementar e recebem o benefício de renda mensal vitalícia, conforme documentos constantes na seq.
+ 20. Nesse caso, deve ser afastada a incidência da Súmula 289 do Superior Tribunal de Justiça e, por conseqüência, inexiste o direito à correção da renda mensal inicial.
+Dessa forma, constata-se que o acórdão estadual está em consonância com a atual orientação jurisprudencial da Segunda Seção desta Corte, no sentido de que a Súmula 289/STJ, a qual dispõe que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda", aplica-se apenas às hipóteses em que houve o rompimento definitivo do vínculo contratual entre o participante e a entidade de previdência privada complementar, o que não é o caso dos autos.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. REAJUSTE DO BENEFÍCIO. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. SÚMULA 289 DO STJ. INAPLICABILIDADE. AUSÊNCIA DE RESGATE. VÍNCULO CONTRATUAL COM A ENTIDADE PREVIDENCIÁRIA MANTIDO. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. "A atual jurisprudência desta Corte está sedimentada no sentido de que a Súmula dn. 289/STJ, a qual dispõe que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda", tem aplicação restrita aos casos de resgate, hipótese em que há o rompimento definitivo do vínculo contratual do participante, que nem sequer chegou a auferir benefício complementar" (AgRg nos EREsp 1.488.815/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 12/08/2015, DJe de 18/08/2015).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.120.678/RJ, Relator Ministro Lázaro Guimarães, Desembargador convocado do TRF 5ª Região, Quarta Turma, julgado em 12/12/2017, DJe 18/12/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. REAJUSTE DO BENEFÍCIO. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. SÚMULA 289 DO STJ. INAPLICABILIDADE. AUSÊNCIA DE RESGATE. VÍNCULO CONTRATUAL COM A ENTIDADE PREVIDENCIÁRIA MANTIDO. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. "A atual jurisprudência desta Corte está sedimentada no sentido de que a Súmula n. 289/STJ, a qual dispõe que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda", tem aplicação restrita aos casos de resgate, hipótese em que há o rompimento definitivo do vínculo contratual do participante, que nem sequer chegou a auferir benefício complementar" (AgRg nos EREsp 1.488.815/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 12/08/2015, DJe de 18/08/2015).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.082.463/DF, Relator o Ministro Raul Araújo, Quarta Turma, julgado em 1/12/2016, DJe 14/12/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. MIGRAÇÃO DE PLANO DE BENEFÍCIOS. TRANSAÇÃO EXTRAJUDICIAL. CONCESSÃO DE VANTAGENS RECÍPROCAS. RESERVA DE POUPANÇA. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. SÚMULA N. 289 DO STJ. INAPLICABILIDADE. SÚMULA N. 168/STJ.
+1. A atual jurisprudência desta Corte está sedimentada no sentido de que a Súmula n. 289/STJ, a qual dispõe que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda", tem aplicação restrita aos casos de resgate, hipótese em que há o rompimento definitivo do vínculo contratual do participante, que nem sequer chegou a auferir benefício complementar.
+ ..
+(AgRg nos EREsp n. 1.488.815/SC, Relator o Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 12/8/2015, DJe 18/8/2015.)
+Desse modo, incide a Súmula n. 83/STJ, aplicável a ambas as alíneas autorizadoras.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor dos advogados da parte ora recorrida em R$ 200,00 (duzentos reais).
+Publique-se.
