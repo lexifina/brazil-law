@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 37 DA SÚMULA DO SUPREMO – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    A União assevera haver o Juízo da Vigésima Oitava Vara do Juizado Especial Federal de Belo Horizonte, no processo nº 0052088-03.2017.4.01.3800, olvidado o teor do verbete vinculante nº 37 da Súmula do Supremo.
+    Segundo narra, Carlos Geraldo Teixeira, magistrado federal, ajuizou contra si ação visando o reconhecimento do direito à conversão de 1/3 das férias em abono pecuniário, levando em conta o disposto no artigo 220, § 3º, da Lei Complementar nº 75/1993 e a alegada simetria constitucional entre membros do Judiciário e do Ministério Público Federal. Diz do deferimento, pelo Juízo, do pleito de tutela provisória. Frisa a subsequente declaração de procedência do pedido e a confirmação da liminar, considerado o princípio da isonomia. Interposto recurso inominado, aguarda apreciação.
+    Sustenta violado o paradigma, enfatizando que, com apontada base no aludido princípio, acabou assegurada a membro do Judiciário a percepção de vantagem exclusiva dos integrantes do Ministério Público. Conforme argumenta, o Órgão reclamado, a partir de suposta isonomia remuneratória entre as carreiras, atuou como legislador positivo, incorrendo em contrariedade ao verbete vinculante nº 37, o qual, consoante aduz, engloba não apenas vencimentos mas também verbas de caráter indenizatório. Evoca jurisprudência. Salienta que o enunciado alcança, a título de servidores, quaisquer agentes públicos, cabendo observar somente as vinculações remuneratórias explicitamente previstas na Constituição Federal. Realça o entendimento do Supremo segundo o qual inexistiria a paridade.
+    Sob o ângulo do risco, reporta-se ao pagamento de valores indevidos e de difícil repetição.
+    Pretende, no campo precário e efêmero, a suspensão e, alfim, a cassação do pronunciamento atacado.
+    2. Percebam as balizas processuais. Magistrado formalizou ação contra a União com a finalidade de, tendo em vista a arguida simetria, ver admitido o direito à conversão da terça parte das férias em abono pecuniário, considerado o regime dos membros do Ministério Público. Acolhida a pretensão, a reclamante afirma desrespeitado o verbete vinculante nº 37, cujo teor é o seguinte:
+    Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento da isonomia.
+    Surge relevante a alegação. Da leitura do ato impugnado extrai-se que o Órgão reclamado assentou pertinente a vantagem, apesar da ausência de dispositivo legal específico a respaldá-la, ante a suposta simetria, inclusive sob o ângulo remuneratório, entre os regimes jurídicos das carreiras da magistratura e do Ministério Público da União. Confiram o seguinte trecho da sentença atacada:
+    [...]
+    Observo que o cerne da controvérsia aqui posta em deslinde é o direito ou não do autor, membro do poder judiciário da União, de receber ou não vantagem que é concedida aos membros do Ministério Público da União, mais especificamente a conversão de 1/3 de férias em abono pecuniário.
+    O referido pleito tem como fundamento a simetria reconhecida e declarada pelo CNJ entre a magistratura e os membros do Ministério Público, na decisão proferida no pedido de providências n.º 0002043-22.2009.00.0000.
+    [...]
+    O quadro revela inobservância do paradigma. A pretexto de assegurar-se isonomia remuneratória – gênero –, no que incluídas vantagens indenizatórias, acabou-se reconhecendo a membro da magistratura o direito de ver convertida a terça parte das férias com base em preceito inserido em legislação voltada a disciplinar a situação específica dos membros do Ministério Público da União. Consoante se verifica, o pronunciamento reclamado resultou, de modo imediato, em alteração da remuneração de servidor público, no que constatado, de forma direta, o impacto financeiro.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia da sentença prolatada pelo Juízo da Vigésima Oitava Vara do Juizado Especial Federal de Belo Horizonte no processo nº 0052088-03.2017.4.01.3800, inclusive no tocante à tutela provisória.
+    4. Citem o interessado e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 11 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
