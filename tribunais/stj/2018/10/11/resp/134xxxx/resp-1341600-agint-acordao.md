@@ -1,0 +1,58 @@
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. ICMS. PRESCRIÇÃO DA DÍVIDA TRIBUTÁRIA. ART. 174 DO CTN. REEXAME DE PROVAS DOS AUTOS. FUNDAMENTO INATACADO. SÚMULAS 7 DO STJ E 283 DO STF.
+1. Para afastar o entendimento a que chegou o Tribunal de origem, de modo a albergar as peculiaridades do caso e verificar a não ocorrência da prescrição quinquenal da dívida tributária, como sustentado neste recurso, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em apelo excepcional por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. A Corte de origem decidiu que, nos termos do § 4º do art. 150 do CTN, não poderia a Fazenda dar início a um novo processo de constituição do crédito, mas tão somente revisar aquele já efetuado pelo contribuinte, indicando o valor que entendia devido. Observa-se que tal assertiva não foi devidamente impugnada pelo recorrente nas razões do apelo especial, o que, por si só, mantém incólume o aresto combatido, atraindo a incidência da Súmula 283 do STF.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado pelo Estado do Paraná contra decisão que conheceu, em parte, do recurso especial e, nesta extensão, negou-lhe provimento, por entender que o exame da questão de prescrição do crédito tributário demandaria análise de fatos e de provas dos autos, assim como por deixar o insurgente de impugnar fundamento do julgado recorrido, atraindo a incidência das Súmulas 7 do STJ e 283 do STF.
+Inconformado, o agravante alega que a decisão merece ser reconsiderada, defendendo, em síntese, que não ocorreu a prescrição, já que o julgado recorrido deixou de considerar o fato de que se cuida de débito relativo a auto de infração, e não de cobrança de ICMS declarado pelo contribuinte e não pago, o que configuraria a tese da homologação tácita.
+Salienta que não se aplica a Súmula 409 do STJ, já que, na hipótese, o devedor participou de todo o procedimento administrativo fiscal, bem como foi cientificado pela sua conclusão, intimado para proceder o pagamento não fez.
+Aduz que em 5/6/2012 foi ajuizada a execução fiscal, não tendo decorrido, portanto, o prazo de cinco anos previsto no art. 174 do CTN.
+Assevera que não se aplica a Súmula 283 do STF, já que se trata de lançamento de débito, decorrente de auto de infração.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): A pretensão recursal não merece êxito, na medida em que a parte interessada não trouxe argumentos aptos à alteração do posicionamento anteriormente firmado.
+O Tribunal de Justiça do Estado do Paraná assim se pronunciou quanto à prescrição da dívida tributária (e-STJ, fls. 391/395):
+Naquela ocasião, neguei seguimento ao apelo do agravante, ao entendimento de que o crédito por ele perseguido na execução fiscal de origem está prescrito
+Reafirmo, nesta oportunidade, o acerto da decisão impugnada.
+A CDA que instrui o executivo se refere ao auto de infração nº 62392177, que tem por objeto créditos de ICMS relativos aos meses de janeiro a setembro de 1995.
+O auto de infração respectivo descreve que a agravada utilizou crédito do imposto em desconformidade com a legislação (fl. 239).
+Vem agora a Fazenda alegar que "iniciou-se a atividade administrativa de lançamento com a expedição de Edital de Notificação n. 02/2000, publicado no Diário Oficial de 07/08/2000, notificando o contribuinte para apresentar documentos comprobatórios da aquisição de créditos de ICMS, sob pena de estorno desses créditos (fls. 258/263). Não tendo a agravada apresentado tais documentos, lavrou-se o Auto de Infração n. 6239217-7, em 21/02/2001 (fl. 239)." (fl. 329).
+A alegação não prospera, pois o ICMS é imposto sujeito a lançamento por homologação (art. 150, do CTN), que, na espécie, já havia ocorrido, haja vista os termos em que foi lavrado o auto de infração.
+Assim, na dicção do § 4º, do artigo 150, do Código Tributário Nacional, expirado o prazo para homologação, considerar-se-á homologado o lançamento feito pelo próprio contribuinte (homologação tácita) "e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação".
+Não poderia a Fazenda, portanto, dar início a um novo processo de lançamento, mas tão somente revisar aquele já efetuado pelo contribuinte, indicando o valor que entendia devido.
+ ..
+No presente caso, a própria agravante confessa que determinou o valor devido apenas em 06.03.2002, muito depois, portanto, do prazo de revisão.
+Frise-se: expirado o prazo de cinco anos sem a homologação, considera-se extinto o crédito tributário, nos termos do § 4º, do artigo 150, do Código Tributário Nacional.
+Daí porque, na decisão agravada, consignei que "diferentemente do entendimento adotado pelo douto sentenciante, tenho que é inaplicável à espécie o artigo 173, do CTN, pois não se trata de tributo não lançado, mas de apropriação de créditos de ICMS, reputados pelo Fisco como indevidos, cujo creditamento, para materializar-se, os apelados necessariamente tiveram que lançar os valores correspondentes no livro contábil.
+"É como dizer, em outras palavras, que o ICMS foi pago com créditos, embora indevidos, enquadrando-se o caso no artigo 174, do CTN, o qual dispõe que o lapso prescricional de cinco anos para a cobrança de crédito tributário inicia-se com a sua constituição definitiva." (fl. 318).
+Nesse contexto, para afastar o entendimento a que chegou o Tribunal de origem, de modo a albergar as peculiaridades do caso e verificar a não ocorrência da prescrição quinquenal da dívida tributária, como sustentado neste recurso, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em apelo excepcional por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+No ponto:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. PRESCRIÇÃO. AJUIZAMENTO ANTES DA LC 118/2005. DEMORA NA CITAÇÃO IMPUTADA AO CREDOR. REVISÃO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Em processo de execução fiscal ajuizado anteriormente à LC 118/2005, é pacífica a orientação do STJ de que o despacho que ordena a citação não interrompe o prazo prescricional, pois somente a citação pessoal produz esse efeito, devendo prevalecer o disposto no art. 174 do CTN sobre o art. 8º, § 2º, da LEF.
+2. Ajuizada a demanda dentro do prazo prescricional e realizada a citação do executado fora dele, o marco interruptivo deve retroagir à data do ajuizamento do feito somente quando a demora na citação for imputada ao mecanismo da Justiça (REsp 1.120.295/SP, Rel. Ministro Luiz Fux, Primeira Seção, DJe 21/5/2010).
+3. Nos casos em que a demora na citação, ou sua não efetivação, não é imputada aos mecanismos do Poder Judiciário - conclusão a que chegou o Tribunal de origem -, descabe a retroatividade da interrupção da prescrição à data da propositura do executivo fiscal. Para alterar tal entendimento, exige-se o reexame de provas, o que é inviável em recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.352.016/RS, de minha relatoria, SEGUNDA TURMA, julgado em 6/2/2018, DJe 16/2/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO QUINQUENAL. ART. 174, I, DO CTN. OCORRÊNCIA. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. AJUIZAMENTO DA AÇÃO. TRANSCURSO DE PRAZO SUPERIOR A CINCO ANOS. PREMISSAS FÁTICAS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. O Tribunal de origem, ao julgar Agravo de Instrumento interposto contra decisão que rejeitara Exceção de Pré-Executividade, deu-lhe provimento, ao fundamento de que teria havido prescrição da ação de Execução Fiscal, com base no art. 174, I, do CTN.
+III. Conforme pacífica orientação jurisprudencial do Superior Tribunal de Justiça, nos tributos sujeitos a lançamento por homologação, não havendo o contribuinte entregue a declaração ou efetuado o pagamento, ainda que a menor, aplica-se a regra do art. 173, I, do CTN, segundo o qual o prazo decadencial tem início no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido realizado.
+IV. Segundo entendimento consolidado em julgamento realizado em sede de Recurso Especial representativo de controvérsia repetitiva, iniciado o prazo prescricional com a constituição do crédito tributário, o termo ad quem dá-se com a propositura da Execução Fiscal. Ademais, a interrupção da prescrição pela citação válida, na redação original do art. 174, I, do CTN, ou pelo despacho que a ordena, conforme a modificação introduzida pela Lei Complementar 118/05, retroage à data do ajuizamento, em razão do que determina o art. 219, § 1º, do CPC (STJ, REsp 1.120.295/SP, Rel. Ministro LUIZ FUX, Primeira Seção, DJe de 21/05/2010).
+V. No caso dos autos, ainda que considerada a data mais recente de constituição dos créditos tributários em discussão, qual seja, 31/12/2007, operou-se a prescrição, pois o despacho que ordenou a citação, na Execução Fiscal ajuizada em 30/04/2013, deu-se em 08/05/2013, quando já transcorrido o prazo quinquenal do art. 174, caput, do CTN.
+VI. O entendimento firmado pelo Tribunal a quo, no sentido de que não teria havido qualquer causa suspensiva ou interruptiva da prescrição, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VII. Agravo interno improvido.
+(AgInt no AREsp 929.408/PB, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 1º/12/2017)
+Quanto ao mais, a Corte de origem decidiu, ainda, que, nos termos do § 4º do art. 150 do CTN, não poderia a Fazenda dar início a um novo processo de constituição do crédito, mas tão somente revisar aquele já efetuado pelo contribuinte, indicando o valor que entendia devido.
+Observa-se que tal assertiva não foi devidamente impugnada pelo recorrente nas razões do apelo especial (e-STJ, fls. 401/409), o que, por si só, mantém incólume o aresto combatido.
+A não impugnação de fundamento suficiente para manter o acórdão combatido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido. (REsp 1.367.651/MG, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 3/12/2013)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
