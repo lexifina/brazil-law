@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o paciente foi condenado à pena de 1 (um) ano, 5 (cinco) meses e 15 (quinze) dias de reclusão, em regime aberto, bem como à sanção de 2 (dois) meses de detenção, no regime aberto, mais pagamento de 5 (cinco) dias-multa, pela prática das condutas descritas no art. 155, § 4º, inciso I, na forma do art. 14, inciso II, e no art. 147, todos do Código Penal. As penas privativas de liberdade foram substituídas por duas restritivas de direitos.
+Contra o édito condenatório insurgiu-se a defesa.
+Os desembargadores integrantes da Terceira Câmara de Direito Criminal deram parcial provimento ao recurso para afastar, na primeira fase da dosimetria, a valoração negativa da personalidade, readequando a pena para 1 (um) ano de reclusão e 1 (um) mês e 5 (cinco) dias de detenção, mais pagamento de 5 (cinco) dias-multa, no valor mínimo legal, determinando-se o imediato cumprimento das sanções restritivas de direitos.
+No Superior Tribunal de Justiça, sustenta a defesa que o Magistrado singular substituiu a pena privativa de liberdade do paciente por duas restritivas de direitos sem apresentar fundamentação suficiente para tanto. Pondera que, sendo a pena de multa mais favorável ao paciente, o sentenciante somente poderia optar pela sanção menos favorável mediante motivação válida. Reverbera, outrossim, a ilegalidade da execução provisória das sanções restritivas de direitos.
+Pede, em tema liminar, sejam suspensos os efeitos da condenação até o julgamento final deste remédio constitucional. No mérito, busca "seja reconhecida a ausência de fundamentação na aplicação das duas penas restritivas de direitos, para aplicar uma pena restritiva de direitos e multa" (e-STJ fl. 10).
+O pedido liminar foi indeferido (e-STJ fls. 353/354).
+O Ministério Público Federal manifestou-se pela concessão parcial da ordem (e-STJ fls. 366/376).
+É, em síntese, o relatório.
+Por meio da petição eletrônica 564573/2018, protocolizada em 2/10/2018, a Defensoria Pública da União noticia que, "Ao que consta do andamento processual da ação penal na origem, o juízo da 2ª Vara Criminal da Comarca de Chapecó, Estado de Santa Catarina, proferiu decisão na Ação Penal nº 0010033-30.2015.8.24.0018, em que figura como acusado o ora assistido [NOME], julgando extinta sua punibilidade face ao seu falecimento (art. 107, I do CP), cf. documento em anexo" (e-STJ fl. 381).
+Tal o contexto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
