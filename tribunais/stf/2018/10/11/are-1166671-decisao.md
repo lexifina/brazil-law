@@ -1,0 +1,8 @@
+DESPACHO
+    Este Supremo Tribunal submeteu as questões trazidas no presente processo à sistemática da repercussão geral (ARE nº 1.140.005, Tema nº 1.002): existência de repercussão geral.
+    Pelo exposto, determino a devolução destes autos ao Tribunal de origem para observância dos procedimentos previstos no inc. III do art. 1.030 do Código de Processo Civil (art. 13, inc. V, al. c, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de outubro de 2018.
+Ministro Dias Toffoli
+Presidente
+Documento assinado digitalmente
