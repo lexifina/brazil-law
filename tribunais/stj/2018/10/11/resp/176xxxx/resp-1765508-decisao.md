@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIÃO, em 23/05/2018, com base na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. APELAÇÃO. PROUNI. ENSINO SUPERIOR. ÚLTIMO ANO CURSADO COM BOLSA PARCIAL. CASO CONCRETO. PRINCÍPIO DA RAZOABILIDADE. SENTENÇA MANTIDA NO PONTO. RESTITUIÇÃO DAS MENSALIDADES. RESPONSABILIDADE DA UNIÃO AFASTADA, NO PONTO.
+1. A Lei nº 11.096/05, em seu artigo 2º, I, aponta como requisito necessário para a concessão de bolsa de estudo pelo PROUNI ter cursado o estudante o ensino médio em escola da rede pública ou em instituição privada, neste caso na condição de bolsista integral.
+2. Caso concreto em que a autora, com exceção do último ano, cursou os estudos na condição de bolsista integral. Princípio da razoabilidade. Precedentes.
+3. Os valores das mensalidades pagas devem ser ressarcidos pela Universidade ao requerente, eis que foi a mesma quem percebeu os valores indevidamente pagos pelo avô do estudante. Apelo da União provido no ponto.
+4. Reconhecido o direito à incidência de juros de mora e correção monetária sobre os valores devidos, por ser questão de ordem pública e a fim de dar efetividade à prestação jurisdicional, fica diferida para a fase de execução a definição quanto à forma da sua aplicação.
+5. O termo inicial de incidência da correção monetária vai mantido conforme fixado na origem (desde o pagamento indevido). Não há razão para fixar o termo inicial de incidência de correção monetária a contar da citação, eis que tal quantia foi paga indevidamente
+6. Sucumbência redistribuída" (fl. 267e).
+Opostos Embargos de Declaração pela FUNOESC, pelo particular e pela UNIÃO, foram rejeitados os da FUNOESC e acolhidos os da UNIÃO e do particular, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. CONTRARIEDADE À TESE.
+1. Cabem embargos de declaração quando na decisão prolatada houver obscuridade, contradição, omissão ou erro material.
+2. Não cabem embargos de declaração quando o recurso traz exclusiva contrariedade à tese adotada pelo julgado.
+3. O NCPC veda a compensação da verba honorária, a qual deve ser fixada em valor/percentual compatível com a causa e não irrisório" (fl. 315e).
+Alega-se, nas razões do Recurso Especial, ofensa ao art. 2º, I, da Lei 11.096/2005, sob os seguintes fundamentos:
+"O acórdão reconheceu cabalmente que o autor não preencheu os requisitos constantes da norma em destaque para o fim de obter bolsa integral do PROUNI junto à IES co-demandada.
+Ressalvou, contudo, em nome da razoabilidade, a flexibilização da regra contida no art. 2º, I, da lei de referência, justificando que o ensino privado do recorrido, durante o primeiro ano do ensino médio, foi aparentemente custeado de forma integral por seu empregador.
+(..)
+Não se discute no presente recurso a forma como o recorrido custeou seus estudos na rede privada, e tampouco sua condição social. A irresignação recursal dá-se especificamente quanto ao fato de estar incontroverso que a frequência do recorrido no ensino médio não se deu integralmente mediante benefício de bolsa de estudos na rede privada e que o aresto recorrido entendeu possível a flexibilização da regra contida no art. 2º, I, da Lei 11.096/2005 para fins de possibilitar ao recorrido o acesso ao ensino superior.
+(..)
+Esse Superior Tribunal de Justiça, analisando hipótese idêntica ao presente caso, teve a oportunidade de assentar a impossibilidade da "flexibilização" do rigor normativo acima apontado, negando a possibilidade de interpretação extensiva de norma que estabelece como critério a conclusão do ensino fundamental e médio, exclusivamente, em escola pública para abranger instituições de ensino de outra espécie, sob pena de frustrar o escopo da ação afirmativa, como se verifica abaixo:
+(..)
+Diante dessas razões, a relativização do critério estabelecido no art. 2º, I, da lei de regência do PROUNI em prol de uma interpretação dita razoável acaba pondo em risco a própria integridade do sistema: quanto mais exceções se verificarem, maior será o número de acessos indevidos ao Programa e, consequentemente, menor sua disponibilidade (orçamentária, destaque-se!) para aqueles que objetivamente preenchem os requisitos legais".
+Requer, ao final, "seja dado provimento ao presente recurso especial, com o fim de que seja, ao fim e ao cabo, julgado improcedente o pedido autoral, invertendo-se os ônus sucumbenciais" (fl. 341e).
+Em sede de contrarrazões, a parte recorrida afirma que incide, na espécie, o óbice da Súmula 7/STJ, que o art. 2º, I, da Lei 11.096/2005 não está prequestionado e que a decisão do Tribunal Regional Federal está em consonância com os princípios constitucionais do acesso à educação e dignidade da pessoa humana.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 359/360e).
+Sem razão a parte recorrente.
+Na origem, trata-se de Ação ajuizada pela parte ora recorrida, com o objetivo de que seja efetivada sua matrícula junto à universidade por meio do Programa Universidade para Todos - PROUNI, bem como que os réus sejam condenados ao ressarcimento dos valores pagos pelo autor a título de mensalidades.
+Julgada procedente a demanda, recorreu os réus, tendo o Tribunal local negado provimento à Apelação da FUNOESC e dado parcial provimento à Apelação da União.
+Daí a interposição do presente Recurso Especial.
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"Com efeito, ao que se vê, em tese, o autor não preencheu os requisitos do 2º, I, da Lei n.º 11.096/05. Contudo, entendo que o fato de o demandante não ter percebido a bolsa integral no último ano, não descaracteriza a efetiva carência social, eis que está comprovado nos autos que o estudante não possui condições de arcar com as mensalidades, tanto que, para cursar o último ano, teve que conseguir auxílio financeiro de seu avô, o qual sequer compõe o seu núcleo familiar.
+Desse modo, considerando que a finalidade do programa é possibilitar que os desfavorecidos tenham acesso ao ensino superior, não vejo razão para impedir o acesso do demandante ao referido programa.
+Como dito, a peculiaridade do caso concreto consiste no fato de que o autor ter comprovado: a) pertencer de família de baixa renda; b) ter cursado todo o ensino médio, com exceção do último ano, na condição de bolsista integral" (fl. 261e).
+O acórdão recorrido encontra-se em conformidade com a jurisprudência do STJ, no sentido de que deve ser aplicado o princípio da razoabilidade na interpretação dos critérios estabelecidos pela legislação para a implementação de ações afirmativas para garantir o acesso à Universidade de estudantes de baixa renda, de forma a atingir suas finalidades, conforme se verifica dos seguintes precedentes:
+"ADMINISTRATIVO. ENSINO SUPERIOR. PROUNI. REQUISITOS. DIFERENÇA ÍNFIMA DA RENDA FAMILIAR DA REQUERENTE EM COMPARAÇÃO AO VALOR MÁXIMO EXIGIDO PARA A CONCESSÃO. PRINCÍPIO DA RAZOABILIDADE.
+1. Hipótese em que a estudante, ora agravada, foi excluída do programa pelo fato de possuir renda familiar superior, R$ 11,40, ao limite que a lei da concessão do ProUni exige.
+2. A negativa de concessão da bolsa integral, no presente caso, seria interpretação extremamente formal da lei. Portanto, ainda que imprescindível o cumprimento dos requisitos previstos na Lei 11.096/2005, deve-se interpretar o texto legal com vistas à finalidade por ele colimada.
+3. Agravo Regimental não provido" (STJ, AgRg no REsp 1.343.166/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/06/2013).
+"ADMINISTRATIVO. ENSINO SUPERIOR. PROUNI. REQUISITOS. REALIZAÇÃO DO ENSINO MÉDIO EM INSTITUIÇÃO PRIVADA NA CONDIÇÃO DE BOLSISTA INTEGRAL. ÚLTIMO ANO. ISENÇÃO PARCIAL (93% DE BOLSA). PRINCÍPIO DA RAZOABILIDADE.
+1. Hipótese em que a estudante-recorrida cursou o 1º e 2º ano do ensino médio com bolsa integral, sendo que, no ultimo ano do ensino médio, o percentual de isenção foi de 93%.
+2. Não é razoável negar a matrícula da ora recorrente no curso de ensino superior sob a justificativa de que não cursou o ensino médio na condição de bolsista integral, tendo em vista que os 7% cobrados de mensalidade tão-somente no ultimo ano são ínfimos.
+3. De se notar que a finalidade da referida regra é garantir, pela eleição do critério do desfrute de bolsa integral no ensino médio, que o acesso ao Prouni seja permitido apenas por estudantes de baixa renda, de modo que a flexibilização que ora se realiza não tem o condão de violar a ratio normativa, a segurança jurídica ou a isonomia.
+4. Recurso especial não provido" (STJ, REsp 1.015.341/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/04/2011).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e, considerando a sucumbência recíproca estabelecida pelas instâncias ordinárias, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, devido ao advogado da parte recorrida, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015, sendo vedada a compensação, nos termos do § 14 do aludido dispositivo legal.
+I.
