@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o agravado foi preso preventivamente por ter supostamente praticado o crime do art. 157, § 3º, do Código Penal (latrocínio). Impetrado habeas corpus, o Tribunal de origem concedeu a ordem a fim de revogar a prisão, aplicando medidas cautelares previstas no art. 319 do Código de Processo Penal. O acórdão está assim ementado:
+PROCESSO PENAL - HABEAS CORPUS - PRISÃO PREVENTIVA - LATROCÍNIO - AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PREVENTIVO - NECESSIDADE DA CUSTÓDIA CAUTELAR NÃO DEMONSTRADA - APRESENTAÇÃO ESPONTANEA - COLABORAÇÃO COM A ADMINISTRAÇÃO DA JUSTIÇA - CONSTRANGIMENTO ILEGAL EVIDENCIADO - ORDEM CONCEDIDA EM DEFINITIVO - DECISÃO UNÂNIME.
+1. Consoante já mencionado na liminar, mostra-se insuficiente a simples afirmação de que a prisão cautelar é recomendável, devendo ser apontados todos os motivos que autorizam sua decretação, delineando as circunstâncias concretas com as hipóteses previstas no art. 312 do CPP;
+2. In casu a custódia cautelar foi decretada como garantia da aplicação da lei penal em razão da fuga do paciente do distrito da culpa. Entretanto, compulsando os documentos acostados aos autos, verifica-se que ele apresentou-se espontaneamente em juízo e perante a autoridade policial, demonstrando, portanto, o interesse em colaborar com a justiça, o que afasta o fundamento da prisão preventiva;
+3. Liminar confirmada. Ordem concedida, à unanimidade.
+Irresignado, o Parquet interpôs recurso especial, em que alega ofensa ao art. 312 do Código de Processo Penal, sob o argumento de que estão presentes os requisitos para a manutenção da prisão preventiva.
+A r. decisão agravada não admitiu o recurso especial pela incidência da Súmula n. 284 do STF e por necessidade de revolvimento fático-probatório dos autos, incidindo o enunciado n. 7/STJ.
+Contraminuta às fls. 327/240. O Ministério Público opinou pelo desprovimento do agravo (fls. 252/254).
+É o relatório. Decido.
+O recurso não merece provimento.
+Com efeito, verifica-se que o acolhimento da pretensão recursal, no sentido de rever os fundamentos utilizados pelo Tribunal a quo para conceder a ordem e afastar a prisão cautelar em comento, demandaria o reexame do acervo probatório carreado aos autos, o que inviabiliza o recurso especial ex vi do enunciado n. 7 da Súmula do STJ.
+A propósito, mutatis mutandis:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS E LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. REVOGAÇÃO DA CUSTÓDIA CAUTELAR DEFERIDA PELO TRIBUNAL DE ORIGEM. ALEGADA NECESSIDADE DA MEDIDA EXTREMA PARA A GARANTIDA DA ORDEM PÚBLICA. REEXAME DE FATOS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Conforme reiteradamente decido por este Superior Tribunal de Justiça, o exame da presença dos pressupostos do art. 312 do Código de Processo Penal, a fim de se perquirir a necessidade da prisão cautelar, enseja o reexame do conteúdo fático-probatório dos autos, providência inadmissível em recurso especial (Súmula 7/STJ).
+2. Agravo regimental não provido (AgRg no REsp 1.229.817/MT, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 17/02/2016).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSO PENAL. PREVENÇÃO. NULIDADE. FUNDAMENTO INATACADO. SÚMULA 182/STJ. PRISÃO PREVENTIVA. REQUISITOS. AFERIÇÃO. INVIABILIDADE. SÚMULA 7/STJ.
+1. A decisão agravada afirmou ser inviável a análise da alegação de nulidade do acórdão recorrido por falta da observância de prevenção, pela necessidade de reexame de matéria fática (Súmula 7/STJ) e de direito local (Súmula 280/STF). As razões do agravo regimental, entretanto, refutaram apenas o primeiro fundamento, razão pela qual, nesse ponto, tem incidência a Súmula 182/STJ.
+2. Valorar juridicamente a prova é aferir se, diante da legislação pertinente, um determinado meio probatório é apto para provar algum fato, ato, negócio ou relação jurídica.
+3. No caso concreto, não se debate se determinado tipo de prova pode ser juridicamente utilizado como meio probatório para dar suporte a uma condenação criminal. O que se pretende é que esta Corte verifique se estariam preenchidos os requisitos necessários da prisão preventiva. Isso não é valoração jurídica da prova, mas reexame do acervo de provas, vedado pela Súmula 7/STJ.
+4. Agravo regimental improvido (AgRg no Resp 1.509.481/RN, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 19/10/2015.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRISÃO PREVENTIVA. HABEAS CORPUS LIBERATÓRIO DO TRIBUNAL DE PISO. ALEGADA EXISTÊNCIA DE ELEMENTOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO. VEDAÇÃO DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A desconstituição do entendimento firmado pelo Tribunal de piso diante de suposta contrariedade a lei federal não encontra campo na via eleita, dada a necessidade de revolvimento do material probante, procedimento de análise exclusivo das instâncias ordinárias - soberanas no exame do conjunto fático-probatório -, e vedado ao Superior Tribunal de Justiça, a teor da Súmula 7/STJ.
+2. Agravo regimental não provido (AgRg no AREsp 31.409/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 30/04/2013).
+Diante do exposto, com fundamento no art. 932, inc. IV, do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso.
+Publique-se. Intimem-se.
