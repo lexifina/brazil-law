@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por [NOME] [NOME], em 13/04/2018, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL. FGTS. PRETENSÃO PAGAMENTO REFERENTE A CONTRATO DE TRABALHO. NÃO COMPROVAÇÃO DE TRANSFERÊNCIA DOS DEPÓSITOS PARA A CEF.
+1. Nos termos da Lei 8036/90 todos os depósitos deveriam ser transferidos pra a CEF.
+2. O autor foi funcionário do Município de Mundo Novo, no período de 17/01/1978 a 23/03/2009. Fez a opção pelo FGTS em 01/1978 (fl.93), não havendo informação de qual seria o banco depositário.
+3. Não há comprovação nos autos de que houve transferência de valor para a CEF.
+4. Não havendo comprovação de que a CEF tenha tido a posse dos valores, não há como se responsabilizar a parte ré pelo levantamento do FGTS.
+5. O inciso I do art. 333 do Código de Processo Civil de 1973 estabelece que cabe ao autor comprovar os fatos que sejam constitutivos de seu direito. Desse modo, a mera alegação da existência de direito não pode servir de fundamento à sua pretensão, implicando na improcedência do pedido inicial:
+6. Apelação da parte autora [NOME] desprovida" (fl. 354e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 131, 515, §§ 1º e 2º, do CPC/73, 7º e 8º da Lei 8.036/90 e 402 do Código Civil, sustentando que: a) a tese de existência de culpa in vigilando não foi examinada e "não existe resolução do mérito da demanda e recursal sem sopesar todos os fatos relevantes para a solução da controvérsia, principalmente frente aos limites objetivos da questão discutida nos autos e devolvida no apelo" (fl. 369e), b) a parte recorrida foi negligente quanto ao cumprimento as obrigações previstas na Lei 8.036/90, devendo reparar os danos materiais causados ao recorrente.
+Contrarrazões a fls. 376/379e.
+Negado seguimento ao Recurso Especial (fls. 383/384e), foi interposto o presente Agravo (fls. 395/402e).
+Sem contraminuta.
+A irresignação não merece conhecimento.
+Quanto à alegada ofensa aos artigos 131, 515, §§ 1º e 2º, do CPC/73, 7º e 8º da Lei 8.036/90 e 402 do Código Civil, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada aos dispositivos tidos como violados não foram apreciadas no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Ademais, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "não havendo comprovação de que a CEF tenha tido a posse dos valores, não há como se responsabilizar a parte ré pelo levantamento do FGTS" (fl. 352e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A Corte de origem asseverou, ainda, que: "o inciso I do art. 333 do Código de Processo Civil de 1973 estabelece que cabe ao autor comprovar os fatos que sejam constitutivos de seu direito" e "a mera alegação da existência de direito não pode servir de fundamento à sua pretensão" (fl. 352e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
