@@ -1,0 +1,21 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. ENSINO SUPERIOR. PROUNI. COMPETÊNCIA DA UNIÃO. PREENCHIMENTO DOS REQUISITOS PARA A BOLSA. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSOS ESPECIAIS AOS QUAIS SE NEGA SEGUIMENTO.
+1. Trata-se de Recursos Especiais interpostos em face de acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. ENSINO SUPERIOR. COMPETÊNCIA. LEGITIMIDADE. UNIÃO. PROUNI. BOLSA. REQUISITOS.
+A autoridade de instituição privada, no exercício de função federal delegada, sujeita-se ao crivo da Justiça Federal, desde que o ato não seja de simples gestão, mas de delegação, competindo à Justiça Federal decidir sobre admissibilidade da ação.
+Nos termos do art. 205 da CRFB, incumbe ao Estado prover o acesso ao ensino superior. As Instituições de Ensino que atuam nesse setor estratégico exercem atividade delegada do Poder Público, estabelecida em lei federal e controlada pelo Ministério da Educação e Cultura, razão pela qual a União é parte passiva legitimada para a causa.
+O PROUNI é programa instituído pela União, por meio do Ministério da Educação, destinado à concessão de bolsas de estudo a estudantes de cursos de graduação em instituições privadas de ensino superior, nos termos da Lei nº 11.096/2005. Caso em que, cumpridos os requisitos postos na legislação, inclusive o relativo à renda bruta do grupo familiar, e não tendo sido apresentado outro óbice administrativo pela Instituição de Ensino, é de ser reconhecido ao candidato o direito à vaga para a qual fora selecionado.
+Apelações e remessa oficial improvidas.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. A UNIÃO alega, em preliminar, ofensa ao art. 535 do CPC/1973, reputando omisso o acórdão recorrido, não obstante a oposição dos Aclaratórios.
+4. Aponta violação aos arts. 3o. e 267, VI do CPC/1973, bem como aos arts. 1o. e 3o. da Lei 11.096/2005, sustentando sua ilegitimidade passiva para responder judicialmente pela concessão do benefício, já que não lhe caberia, individualmente, aferir o preenchimento dos requisitos para o enquadramento no PROUNI.
+5. No mérito propriamente dito, defende a imprescindibilidade de cumprimento regular dos requisitos constantes da Lei 11.096/2005, com aprovação em todas as fases da seleção.
+6. Por sua vez, a FUNDAÇÃO UNIVERSIDADE DO SUL DE SANTA CATARINA-UNISUL aduz o descumprimento das regras instituídas pela Portaria MEC 5/2009 para a concessão do benefício.
+7. Contrarrazões às fls. 355/361 e 362/367.
+8. É o relatório.
+9. Inicialmente, no que diz respeito à suposta ofensa ao art. 535 do CPC/1973, observa-se que o Tribunal a quo, ao contrário do alegado, manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação e, ao final, decidiu contrariamente aos interesses da parte Recorrente, que buscou, com os Embargos de Declaração, a reapreciação do mérito da causa. Logo, em virtude da não ocorrência de omissão, contradição ou obscuridade, não se verifica ofensa à regra ora invocada.
+10. Quanto à alegação de ilegitimidade passiva, observa-se que o Programa PROUNI é um meio de acesso ao Ensino Superior, estabelecido em lei federal e controlado pelo MEC, órgão integrante da própria União, nos termos da Lei 11.096/2005. Por essa razão, não há como afastar a sua legitimidade para constar no polo passivo da demanda, embora a instituição privada de ensino seja a responsável pela análise dos documentos apresentados.
+11. Nessa linha, confiram-se decisões monocráticas proferidas em casos semelhantes: REsp. 1.583.524/RS, Rel. Min. HUMBERTO MARTINS, DJe 4.4.2016; REsp. 1.480.831/RS, Rel. Min. HUMBERTO MARTINS, DJe 24.2.2016, REsp. 1.542.074/RS, Rel. Min. REGINA HELENA COSTA, DJe 28.10.2015 e REsp. 1.485.504/RS, Rel. Min. REGINA HELENA COSTA, DJe 1o.6.2017.
+12. Por fim, quanto ao mérito, nota-se que a Corte de origem compreendeu terem sido devidamente cumpridos os requisitos para a concessão do benefício derivado do PROUNI, adotando moldura fática distinta daquela proposta pelos recorrentes, o que atrai o óbice da Súmula 7/STJ, dada a inviabilidade de revolvimento de matéria probatória.
+13. Ante o exposto, nega-se seguimento aos Recursos Especiais.
+14. Publique-se. Intimações necessárias.
