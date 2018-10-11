@@ -1,0 +1,8 @@
+DECISÃO
+O embargante assere a ocorrência de omissão da decisão de fls. 669-671, "ao deixar de reconhecer que a ausência da oitiva judicial enseja nulidade integral da decisão homologatória da falta grave - e não de algum de seus efeitos" (fl. 676).
+Todavia, consoante exposto na decisão atacada, "ouvido o paciente durante a fase administrativa de apuração da infração disciplinar, estão preservados os princípios do contraditório e da ampla defesa, já que oportunizada ao sentenciado a possibilidade de justificação da falta de natureza grave por ele cometida" (fl. 670).
+Ressaltou-se também que a jurisprudência do Superior Tribunal de Justiça é firme ao asseverar que, " o uvido o sentenciado em momento anterior à homologação da falta disciplinar, por meio da instauração de sindicância, faz-se desnecessária sua oitiva judicial" (AgRg no HC n. 393.013/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 24/5/2017).
+O entendimento supracitado deu origem ao enunciado da Súmula n. 533 deste Tribunal Superior, segundo a qual " p ara o reconhecimento da prática de falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado".
+Dessa forma, percebe-se que a matéria foi devidamente analisada na decisão embargada, oportunidade em que se acentuou que, diferentemente da regressão definitiva de regime, a homologação da infração disciplinar prescinde de prévia oitiva judicial.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
