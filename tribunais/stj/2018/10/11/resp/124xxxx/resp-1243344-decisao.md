@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO SANTANDER BRASIL S/A contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, considerando que "a existência de agravos em Tribunais Superiores", não representa motivo "para obstar ou exigir caução para o levantamento do numerário depositado porque a demanda versa sobre diferenças de correção monetária em caderneta de poupança, matéria pacifica inclusive no âmbito dos tribunais superiores" (na fl. 70).
+O recorrente alega divergência jurisprudencial e violação ao art 475-O do Código de Processo Civil de 1973 e das Leis nº 8.024/90 e nº 8.088/90, bem como à Súmula Vinculante nº 10/STF.
+É o relatório.
+Passo a decidir.
+De início, destaca-se que recorrente desenvolve extensa argumentação acerca do mérito da lide, que discute recomposição de expurgos inflacionários em cadernetas de poupança, assim, como a respeito da Súmula Vinculante nº 20/STF, temas que não foram prequestionados e que não guardam correlação com o único tema decidido no acórdão recorrido, referente à execução provisória.
+Desse modo, é inviável o conhecimento do recurso no particular, conforme a Súmula 282/STF ("é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Dessarte, o único argumento expendido pela instituição financeira na petição recursal que foi realmente prequestionado é o de que a ausência de trânsito em julgado da demanda impede que, na execução provisória, seja realizado levantamento de valores sem caução idônea, o que, aliás, constitui-se em questão prejudicial ao próprio recurso especial.
+Nesse passo, salienta que:
+"Trata-se de Ação de Cobrança referentes aos expurgos inflacionários devidos em razão do chamado Plano Collor 1, julgada PROCEDENTE para condenar o Banco Recorrente ao pagamento das diferenças supostamente devidas, apurando-se o valor efetivamente creditado, e aquele pleiteado pela Autora Recorrida, acrescidos de juros remuneratórios, moratórios e correção monetária.
+O Banco interpôs Recurso de Apelação ao qual o Nobre Tribunal negou provimento, o que desafiou a interposição de Recursos Extremos - Especial e Extraordinário, e posteriormente, de Agravo de Instrumento, contra a r. decisão que obstou o seguimentos dos recursos retro, sendo que tais Agravos pendem de julgamento pelas respectivas Cortes" (nas fls. 77).
+Contudo, o recorrente não especifica quais são os assinalados agravos que ainda "pendem de julgamento pelas respectivas Cortes" e que obstam o trânsito em julgado da demanda, impedindo que a execução provisória se torne definitiva atraindo, com isso, o óbice da Súmula 284/STF ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Ante o exposto, nego seguimento ao recurso especial.
+Publique-se.
