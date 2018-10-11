@@ -1,0 +1,45 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] e outros contra decisão que não admitiu o recurso especial, sob o fundamento de não existir desrespeito à legislação, ausência de prequestionamento (Súmula 211/STJ) e não atendimento ao art. 541, parágrafo único, do CPC/1973.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo nas alíneas "a" e "c" do permissivo constitucional contra acórdão assim ementado (e-STJ, fls. 305/309):
+SERVIDORES PÚBLICOS - Agentes Penitenciários de Escolta e Vigilância - Alegam exercer jornada de trabalho superior à fixada, tendo direito a horas extras e descanso de uma hora para refeição, com os reflexos nas demais verbas remuneratórias - Relação estatutária - Inaplicabilidade das regras do direito laborai - Ausência de comprovação das horas extras Regime de trabalho 12 x 36 que não gera direito ao recebimento de horas extras por ultrapassar a jornada semanal - Ausência de previsão legal para o pagamento de horas extras pela inexistência de intervalo para refeições Sentença mantida - Recurso improvido.
+Opostos embargos de declaração, estes foram rejeitados, nos termos do acórdão de e-STJ, fls. 323-336.
+Sem contraminuta, conforme certidão à e-STJ, fl. 570.
+É o relatório.
+A irresignação não merece acolhida.
+Percebe-se, das razões elencadas pelo Tribunal de origem no aresto combatido, que, para analisar a controvérsia posta nos autos, demandaria o exame de legislação local, tendo em vista que foi adotado como fundamento do decisum a legislação estadual de direito público e não do direito laboral.
+Tal circunstância torna inviável o acolhimento do recurso especial, consoante a aplicação analógica do enunciado n. 280 constante da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTOS. INOCORRÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/1973. RELAÇÃO DE TRATO SUCESSIVO. A OCORRÊNCIA DE PRESCRIÇÃO DEPENDE DE ANÁLISE DA LEI ESTADUAL 1.206/1987 DO ESTADO DO RIO DE JANEIRO. SÚMULA 280/STF. AGRAVO REGIMENTAL DO ESTADO DO RIO DE JANEIRO A QUE SE NEGA PROVIMENTO.
+1. Cinge-se à controvérsia em verificar se os Servidores, ora recorridos, fazem jus à implementação imediata do reajuste de 24% (vinte e quatro por cento) sobre os seus vencimentos, decorrente da apuração da diferença do aumento de 70,5% (setenta e meio por cento) concedido pela Lei 1.206/1987, do Estado do Rio de Janeiro, a determinadas categorias do serviço público estadual, do qual fora excluído o Poder Judiciário, razão pela qual foi declarada a inconstitucionalidade do art. 5o. da mencionada norma local.
+2. No tocante ao art. 535 do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+3. Quanto à aplicação do Decreto 20.910/1932, o acórdão recorrido, decidindo de acordo com a firme jurisprudência desta Corte Superior, afastou a incidência da prescrição do fundo de direito ao argumento de que a relação veiculada nos autos é de trato sucessivo, em que a conduta omissiva se renova mês a mês, nos termos da Súmula 85 do STJ.
+4. Nesse contexto, como o aresto impugnado decidiu pela ocorrência da prescrição quinquenal, não declarando, por conseguinte, a prescrição do próprio fundo de direito, seria preciso o exame da Lei 1.206/1987 do Estado do Rio de Janeiro para verificar se referida legislação de fato negou a pretensão autoral, o que, na via especial, é vedado por força da incidência da Súmula 280/STF, que impede a possibilidade de discussão acerca da legislação local na via extraordinária. Precedentes: REsp. 1.642.757/RJ, Rel. Min. HERMAN BENJAMIN, DJe 7.3.2017; AgRg no AREsp. 624.241/RJ, Rel. Min. OG FERNANDES, DJe 4.9.2015; AgRg no AREsp. 658.822/RJ, Rel. Min. SÉRGIO KUKINA, DJe 24.3.2015.
+5. Agravo Regimental do ESTADO DO RIO DE JANEIRO a que se nega provimento.
+(AgRg no AREsp 468.656/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/4/2017, DJe 8/5/2017)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PODER JUDICIÁRIO DO RIO DE JANEIRO. REAJUSTE DE VENCIMENTOS. RESIDUAL DE 24%. LEI ESTADUAL 1.206/1987. PRESCRIÇÃO. COISA JULGADA. SÚMULA 7/STJ.
+1. Não se verifica ofensa ao art. 535 do CPC/1973, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Quanto ao Decreto 20.910/1932, a par de ser necessária a análise de legislação local (Lei 1.206/87), o que atrai a incidência da Súmula 280/STF, o acórdão recorrido não destoa da jurisprudência deste Superior Tribunal, pacífica no sentido de que, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85 do STJ).
+3. Ademais, a alteração das conclusões adotadas pela Corte de origem acerca dos limites da coisa julgada, como aventada nas razões recursais, demandaria novo exame do acervo fático-probatório constante dos autos, o que encontra óbice na Súmula 7/STJ.
+4. Recurso Especial não provido.
+(REsp 1.642.757/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 7/3/2017)
+Por outro lado, a única legislação federal mencionada no recurso especial, o art. 5º da Lei n. 11.960/2009 não foi discutida no Tribunal regional, tampouco foi objeto de aclaratórios.
+Dessa forma, impõe-se o não conhecimento do recurso especial nesse ponto, por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal com base no art. 105, III, "a", da Constituição.
+Incide no caso, portanto, o disposto nos enunciados 282 e 356 das Súmulas do STF, a seguir transcritas:
+Súmula 282: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356: O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Sobre o tema, os seguintes precedentes jurisprudenciais das Turmas que compõem a Primeira Seção desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPTU. DISPOSITIVO APONTADO COMO VIOLADO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DISCUSSÃO ACERCA DA INCLUSÃO DA ÁREA COMO URBANIZÁVEL OU DE EXPANSÃO URBANA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgRg no AgRg no REsp 1.580.776/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/4/2016, DJe 3/5/2016)
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. PROGRESSÃO FUNCIONAL. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO, O QUE FAZ INCIDIR O VETO DAS SÚMULAS 282 E 356 DO STJ. INVIABILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL, SENDO APLICÁVEL O ÓBICE DA SÚMULA 280 DO STF.
+1. Os temas referentes à violação dos arts. 1º do Decreto 20.910/32, 2º, § 1º da LICC e 4º da Lei 8.906/04 não foram debatidos pelo Tribunal de origem, que se limitou a debater acerca da progressão funcional, vertical e horizontal, dos Servidores da carreira de Magistério do Estado de Roraima. Carecem, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+ ..
+4. Agravo Regimental desprovido.
+(AgRg no REsp 1.261.496/RR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/3/2016, DJe 28/3/2016)
+Por fim, quanto ao dissídio jurisprudencial alegado, o recurso não merece ser conhecido, pois o acórdão paradigma invocado é proveniente do próprio Juízo a quo, o Tribunal de Justiça de São Paulo, encontrando óbice, portanto, na Súmula 13 do STJ (A divergência entre julgados do mesmo Tribunal não enseja recurso especial).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
