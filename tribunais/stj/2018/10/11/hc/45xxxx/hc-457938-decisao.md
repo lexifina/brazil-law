@@ -1,0 +1,26 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. ÔNUS QUE CABE AO IMPETRANTE. EXISTÊNCIA DE FILHO MENOR E PRAZO DILATADO ATÉ A AUDIÊNCIA DE INSTRUÇÃO. NÃO ENFRENTAMENTO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no julgamento do Habeas Corpus n.º 1.0000.18.047972-7/000.
+Consta dos autos que o paciente foi preso em flagrante, no dia 18/4/2018, pela prática do delito previsto no art. 33, caput, c.c. o art. 40, ambos da Lei n. 11.343/2006. A prisão foi convertida em preventiva e o Tribunal de origem a manteve, em acórdão de seguinte ementa (fl. 84):
+"HABEAS CORPUS - TRÁFICO DE DROGAS - NEGATIVA DE AUTORIA - IMPOSSIBILIDADE DE EXAME NA ESTREITA VIA DO WRIT - CONVERSÃO DA PRISÃO EM FLAGRANTE EM SEGREGAÇÃO PREVENTIVA - DECISÃO A QUO FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA EXCEPCIONAL PREVISTOS NOS ARTS. 312 E 313, INCISOS I E II, AMBOS DO CÓDIGO DE PROCESSO PENAL - PROVA DA EXISTÊNCIA DO CRIME E INDÍCIOS SUFICIENTES DE AUTORIA - EXORBITANTE QUANTIDADE DE DROGAS - NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA - PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS - REINCIDENTE - MEDIDAS CAUTELARES - INVIABILIDADE - CONDIÇÕES PESSOAIS DO PACIENTE - IRRELEVÂNCIA.
+- É cediço doutrinária e jurisprudencialmente que na estreita via do writ não é possível o exame valorativo do conjunto fático-probatório, afigurando-se inviável, nesta seara, a discussão acerca da negativa de autoria. - Não há que se falar em constrangimento ilegal se a decisão que converteu a prisão em flagrante delito do paciente em custódia preventiva, bem como a decisão que indeferiu o pedido de revogação da prisão preventiva em desfavor da paciente, encontram-se devidamente fundamentadas na necessidade de garantia da ordem pública, mormente em face da exorbitante quantidade de entorpecentes, em tese, apreendidos. - Presentes os requisitos no art. 312 do Código de Processo Penal, é possível a manutenção da prisão preventiva quando se tratar de paciente reincidente e de crime punido com pena máxima superior a 04 (quatro) anos de reclusão, conforme ocorre no caso em análise (art. 313, I e II, do Código de Processo Penal). - As medidas cautelares diversas da prisão não se mostram suficientes e adequadas à prevenção e repressão do delito imputado à paciente, mormente quando presentes outras circunstâncias autorizadoras da cautela. - As condições favoráveis do paciente não são suficientes para lhe garantir a liberdade provisória, mormente quando presentes outras circunstâncias autorizadoras da cautelar. "
+Neste habeas corpus, o impetrante alega que o paciente desconhecia a existência da droga encontrada no dia do flagrante e que, realizada a busca pessoal, nada de ilícito foi encontrado, situações que demonstram não ser ele o autor do delito investigado.
+Assevera que não estão presentes requisitos concretos para a prisão cautelar e que possui um filho menor, com quem convivia até a data da prisão, sendo o único responsável pelo sustento.
+Por fim, afirma que a audiência de instrução e julgamento foi marcada para o dia 11/12/2018, ou seja, 8 meses depois da prisão em flagrante do acusado.
+Requer, em liminar e mérito, que o Paciente seja colocado em liberdade ou, alternativamente, sejam aplicadas medidas cautelares diversas da prisão.
+Liminar indeferida pela Ministra Presidente Laurita, no período de recesso forense (fls. 120/125).
+Informações prestadas (fls. 128/135).
+Despacho deferindo requerimento de diligência formulado pelo Ministério Público Federal (fl. 143).
+Novas informações prestadas (fls. 146/154).
+Parecer do Parquet Federal opinando pelo não conhecimento da impetração ou, caso conhecida, pela denegação da ordem.
+É o relatório.
+A insurgência não prospera. Com efeito, compulsando-se os autos verifica-se que, apesar da diligência por mim deferida a requerimento do Ministério Público Federal, não foi juntada aos autos cópia da decisão que decretou a prisão preventiva do paciente.
+Destarte, não há como aferir a verossimilhança das alegações, o que poderia dar suporte às premissas da defesa.
+Deve-se saber que o habeas corpus, por seu procedimento sumário e célere, não comporta dilação probatória, razão pela qual a inicial deve vir devidamente instruída com prova documental pré-constituída, comprobatória do constrangimento ilegal alegado, sem o que é impossível o exame da pretensão.
+Nesse sentido, HC n. 335.219/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 29/4/2016.
+Alem disso, nos termos da jurisprudência do Superior Tribunal de Justiça, a análise da tese de negativa de autoria não pode ser conhecida por meio de habeas corpus, via estreita em que não é possível o exame valorativo do conjunto fático-probatório.
+No que diz respeito à existência de filho menor que depende economicamente do paciente e ao lapso temporal até a data da audiência, constato que essas alegações não foram enfrentadas pelo Tribunal de origem, o que torna inviável a análise neste feito, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço da impetração.
+Publique-se.
