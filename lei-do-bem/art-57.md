@@ -1,0 +1,3 @@
+Art. 57. Na apuração da Contribuição para o PIS/Pasep e da Cofins no regime de não-cumulatividade, a central petroquímica poderá descontar créditos calculados às alíquotas de 1,65% (um inteiro e sessenta e cinco centésimos por cento) e 7,6% (sete inteiros e seis décimos por cento), respectivamente, decorrentes de aquisição ou importação de nafta petroquímica.
+§ 1º Na hipótese de revenda dos produtos adquiridos na forma do art. 56 ou importados na forma do § 15 do art. 8º da Lei nº 10.865, de 30 de abril de 2004, os créditos de que trata o caput serão calculados mediante a aplicação das alíquotas estabelecidas nos incisos do caput do art. 56.
+§ 2º (Revogado)
