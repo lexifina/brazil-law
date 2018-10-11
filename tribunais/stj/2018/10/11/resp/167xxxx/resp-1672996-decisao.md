@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal Regional Federal da 5ª Região.
+Consta dos autos que a inicial acusatória atribuiu ao réu a suposta prática dos crimes previstos nos arts. 288 do Código Penal (formação de quadrilha); 1º, inciso I, segunda parte, do Decreto-Lei n. 201/1967 (desvio de recursos públicos); 89, 92, parágrafo único, 93 e 96, inciso V, da Lei n. 8.666/1993 (dispensar a realização de licitação fora das hipóteses exigidas por lei; possibilitar vantagem ilícita ao adjudicatário; fraudar procedimento licitatório e tornar mais onerosa à Fazenda Pública a execução do contrato).
+Irresignada a parte e interposto habeas corpus, foi concedida a ordem para determinar o trancamento da ação n. 0009572-90.2010.4.05.8200, em trâmite na 16ª Vara Federal da Paraíba, nos termos da seguinte ementa (e-STJ, fl. 282):
+HABEAS CORPUS. PENAL. PROCESSUAL PENAL. CRIMES DOS ARTS. 288 DO CÓDIGO PENAL; 1º, INCISO I, SEGUNDA PARTE, DO DECRETO-LEI N. 201/1967; 89, 92, PARÁGRAFO ÚNICO, 93 E 96, INCISO V, DA LEI N. 8.666/1993. INÉPCIA DA DENÚNCIA. OCORRÊNCIA. ASSINATURA DE TERMO DE CESSÃO CONTRATUAL. AUSÊNCIA DE DEMONSTRAÇÃO MÍNIMA DO NEXO CAUSAL ENTRE O PACIENTE E A CONDUTAS A ELE IMPUTADAS. CONSIDERAÇÃO, APENAS, DA CONDIÇÃO DO PACIENTE DENTRO DA EMPRESA. RESPONSABILIDADE PENAL OBJETIVA. IMPOSSIBILIDADE. TRANCAMENTO DA AÇÃO, SEM PREJUÍZO DO OFERECIMENTO DE OUTRA DENÚNCIA. CONCESSÃO DA ORDEM.
+- Habeas corpus manejado objetivando o trancamento da Ação Penal n. 0009572-90.2010.4.05.8200, que tramita na 16ª Vara Federal da Seção Judiciária de João Pessoa/PB, alegando inépcia da denúncia, além do pedido de extensão da decisão proferida pelo STJ no RHC 47.244.
+- Nos termos da denúncia, o paciente, na qualidade de representante da empresa Via Dragados S.A/Via Engenharia S.A, realizou a segunda cessão do contrato do consórcio existente com a Construtora Marquise, possibilitando que outra pessoa jurídica continuasse a realizar, sem a devida licitação, o objeto do Convênio 317/98-MI.
+- Nada obstante os delitos apontados, a única narrativa relativa ao paciente foi a de ter assinado, no dia 20/09/2001, o 2º Termo de Cessão de contrato que o Consórcio Via Dragados/Marquise mantinha com a Prefeitura de João Pessoa/PB em favor da empresa Bracel, relativo à execução das obras previstas para o Convênio 317/98 e a qualidade de representante da pessoa jurídica que assinou o referido termo.
+- À falta de maiores argumentações fático-jurídicas quanto aos crimes supostamente praticados, ou de alguma descrição que estabeleça um liame entre o agir de [NOME] e as práticas criminosas, segue-se que tal ato - assinatura do termo de cessão - , isoladamente, não induz, só por si, aprática das figuras delituosas previstas no libelo acusatório, impossibilitando o exercício do contraditório e da ampla defesa pelo paciente.
+- Concessão da ordem de habeas corpus para determinar o trancamento da ação nº 0009572-90.2010.4.05.8200, em trâmite na 16ª Vara Federal da Paraíba, em relação ao paciente, ressalvando o oferecimento de outra denúncia, desde que observados os requisitos legais.
+Opostos embargos de declaração, foram estes rejeitados (e-STJ, fls. 324/326).
+Na petição de recurso especial, o Parquet federal alega a ocorrência de violação aos arts. 41, 381, inciso III e 619, todos do Código de Processo Penal e ao art. 89, da Lei n 8.666/93.
+Sustenta a ausência de motivação da decisão.
+Afirma que a conduta está individualizada e descritas as elementares, razão pela qual requer o afastamento da inépcia da denúncia.
+Contrarrazões às fls. 352/361.
+Admitido o recurso (fls. 380) os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo não conhecimento do apelo nobre (e-STJ, fls. 411/413).
+É o relatório. Decido.
+Não merece provimento a pretensão recursal.
+Primeiramente, não há falar em inexistência de motivação na decisão guerreada.
+Percebe-se, ainda, que o recorrente desejava a rediscussão do julgado, não apresentando no apelo quais seriam os pontos a serem discutidos pelo Tribunal.
+Ademais, cumpre ressaltar que, se a asserção não foi expressamente apresentada na decisão, mas foi capaz de apresentar a conclusão do feito em todos os seus aspectos, não há que se falar em omissão.
+No que tange ao pleito relativo ao afastamento da inépcia da denúncia, não assiste melhor sorte a parte recorrente.
+Quanto ao tema o Tribunal de origem consignou (e-STJ, fl. 281):
+Note-se que não há sequer uma descrição mínima acerca da participação do paciente na suposta organização criminosa, de modo a caracterizar o crime de formação de quadrilha, e de que forma teria praticado ou contribuído para a prática das demais figuras delituosas previstas na inicial acusatória, não ficando demonstrado, assim, o nexo causal entre o paciente e as condutas a ele imputadas.
+Não restaram observados, assim, os requisitos contidos no art. 41 do CPP.
+Não há de se aplicar aqui o entendimento da jurisprudência a respeito dos crimes de autoria coletiva, a qual admite "a validade da peça acusatória que, apesar de não descrever minuciosamente as ações individuais dos acusados, demonstra um liame entre o agir e a suposta prática delituosa, " (AgRg no estabelecendo a plausibilidade da imputação e possibilitando o exercício da ampla defesa REsp 1432770/MA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª Turma, j. 21/06/2016, DJe 29/06/2016).
+Ao revés, o STJ tem reiteradamente decidido ser inepta a denúncia que, mesmo em crimes societários e de autoria coletiva, atribui responsabilidade penal à pessoa física, partindo apenas da sua qualidade dentro da empresa, deixando de demonstrar o vínculo desta com a conduta delituosa, por configurar, além de ofensa à ampla defesa, ao contraditório e ao devido processo legal, hipótese de responsabilidade penal objetiva, não admitida pelo ordenamento jurídico pátrio. (..)
+Com efeito, a parte recorrente não infirma todos os fundamentos da decisão guerreada, razão pela qual atrai-se o óbice da Súmula n. 283/STF quanto ao ponto.
+Ademais, "mesmo em se tratando de crimes societários, é indispensável a indicação de uma conduta que se ligue minimamente ao resultado, não bastando a referência à condição de sócio, sob pena de responsabilização de caráter objetivo." (HC 50.804/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 11/11/2008, DJe 01/12/2008)
+Destarte, não merece provimento a pretensão recursal.
+Ante o exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
