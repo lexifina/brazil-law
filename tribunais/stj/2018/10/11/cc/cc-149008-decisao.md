@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. MANIFESTAÇÃO, PELA JUSTIÇA FEDERAL, DA FALTA DE INTERESSE DA UNIÃO NA LIDE. INCIDÊNCIA DAS SÚMULAS 150 E 254/STJ. PRECEDENTES. CONFLITO CONHECIDO PARA DETERMINAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 3ª Vara da Fazenda Pública da Comarca de Florianópolis/SC, em face do Juízo da 2ª Vara Federal de Florianópolis/SC, nos autos da ação na qual se pleiteia a alteração de gabarito de concurso público, com a consequente convocação para as fases subsequentes do certame.
+O Juízo federal determinou a exclusão da União do polo passivo da ação, sob o argumento de que a Cebraspe teria adquirido personalidade jurídica de direito privado, o que afastaria a competência federal para o feito, remetendo os autos à Justiça estadual comum.
+O Juízo estadual, por sua vez, se declarou incompetente por entender que não há como afastar o interesse da União na causa e suscitou o presente conflito.
+O Ministério Público Federal, em parecer às fls. 619/622, opinou pelo conhecimento do conflito, para declarar competente a Justiça comum estadual.
+É o relatório. Decido.
+No que pertine à competência da Justiça Federal, o artigo 109, I, da Constituição Federal, dispõe que:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+A competência cível da Justiça Federal é definida ratione personae, consoante o artigo 109, I, da Carta Magna de 1988. Consectariamente, somente a Justiça Federal está constitucionalmente habilitada a proferir sentença que vincule a União, ainda que negando a sua legitimação passiva, a teor do que dispõe a Súmula 150/STJ, sendo irrelevante a natureza da controvérsia posta à apreciação.
+No presente caso, o Juízo Federal se manifestou no sentido da inexistência de interesse da União Federal no feito, a quem incumbe sindicar a respeito deste particular, nos termos da Súmula n. 150/STJ: "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença da União, no processo, da União, suas Autarquias ou Empresas Públicas".
+Ademais, a teor da Súmula 254 do STJ, "a decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual".
+Sobre o tema, esta Corte firmou o entendimento no sentido de atribuir à Justiça Federal a competência para decidir acerca de eventual interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.
+Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO ORDINÁRIA. POLO PASSIVO. ASSOCIAÇÃO CIVIL DE DIREITO PRIVADO E FUNDAÇÃO PÚBLICA FEDERAL. COMPETÊNCIA. JUSTIÇA FEDERAL. CRITÉRIO "RATIONE PERSON ". COMPETÊNCIA ABSOLUTA. SÚMULA 150/STJ.
+1. A teor do art. 109, inciso I, da Constituição da República, compete à justiça federal processar e julgar causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+2. Assim, proposta uma ação ordinária em que se verifique no pólo passivo um desses entes, a competência será obrigatoriamente da justiça federal, ainda que o órgão julgador limite a sua atuação à rejeição da legitimidade ou do interesse do ente federal, e, com isso, exclua-o da demanda, somente a partir de quando, então, poderá declinar da competência, salvo se remanescer motivo outro para que a causa continue a tramitar perante a justiça federal.
+3. Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas. Inteligência da Súmula 150/STJ.
+4. Conflito conhecido para julgar competente o suscitado, Juízo Federal da Vara de Barreiras, na Seção Judiciária da Bahia (CC 149.906/SC, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 19/12/2016)
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL. AÇÃO ORDINÁRIA OBJETIVANDO GARANTIR O TRATAMENTO MÉDICO ADEQUADO. VERIFICAÇÃO DA LEGITIMIDADE AD CAUSAM DA UNIÃO. IMPOSSIBILIDADE.
+1. Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas (Súmula 150 do STJ), não cabendo à Justiça Estadual reexaminar a decisão, manifestando-se contrariamente (Súmula 254/STJ).
+2. "Excluída a União da lide pelo Juizado Federal competente, cabe ao interessado interpor o recurso ordinário próprio, descabendo discutir na via do conflito de competência a necessidade de reingresso do ente federal no feito" (AgRg no CC 109096/SC, Relator Ministro CESAR ASFOR ROCHA, Órgão Julgador S1 - PRIMEIRA SEÇÃO, DJe 10/06/2011).
+3. Agravo interno desprovido (AgInt no CC 148.143/SC, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 27/11/2017).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 3ª Vara da Fazenda Pública da Comarca de Florianópolis/SC, nos termos da fundamentação.
+Publique-se. Intimem-se.
