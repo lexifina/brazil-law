@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pela UNIÃO, em 23/03/2018, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. ENSINO SUPERIOR. FIES - EXIGÊNCIA DE COMPROVAÇÃO DE IDONEIDADE CADASTRAL DO ESTUDANTE PARA ASSINATURA DO CONTRATO. SUPRIDA PELA IDONEIDADE CADASTRAL DO FIADOR. APELAÇÃO E REMESSA OFICIAL IMPROVIDAS.
+1. O financiamento concedido com os recursos do FIES observará a comprovação de idoneidade cadastral do estudante na assinatura dos contratos e termos aditivos.
+2. Em qualquer financiamento bancário tal determinação é necessária, até porque se busca o financiamento com dinheiro público, requerendo um maior cuidado em sua liberação.
+3. No entanto, é possível a suspensão da exigência de idoneidade cadastral da estudante na hipótese em que o contrato de financiamento estudantil é garantido por fiador idôneo que garanta a dívida objeto do contrato, conforme o caso dos autos.
+4. Ocorre que a suspensão da exigência de idoneidade cadastral do estudante, além de oportunizar o acesso ao ensino superior, não traz qualquer perigo de dano à CEF, na medida em que o financiamento disporá com fiador sem restrição cadastral, assegurando, assim, a renovação do FIES e a continuação dos estudos do autor.
+5. Por outro lado, vale observar, por oportuno, que a Lei nº 12.801/2013 atribuiu nova redação ao inciso VII do art. 5º da Lei nº 10.260/2001, retirando a obrigação de atestar a idoneidade cadastral do estudante para assinatura de contrato de financiamento com recursos do FIES, mantendo-a somente quanto ao fiador.
+6. Apelação e remessa oficial improvidas" (fls. 187/188e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa aos artigos 38 da LC 73/93, 6º da Lei 9.028/85 e 17 da Lei 10.910/94, sob a tese de que a ausência de intimação da recorrente, acerca do pedido de desistência formulado pelo recorrido, macula o processo com nulidade absoluta.
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Em contrarrazões, a parte ora agravada assevera que deve ser negado provimento ao Agravo.
+Negado seguimento ao Recurso Especial (fls. 208/209e), foi interposto o presente Agravo (fls. 211/213e).
+Não foi apresentada contraminuta.
+A irresignação não merece acolhimento.
+Cabe destacar que o Tribunal de origem não se manifestou acerca do teor dos artigos 38 da LC 73/93, 6º da Lei 9.028/85 e 17 da Lei 10.910/94, sob a tese de que a ausência de intimação da recorrente, acerca do pedido de desistência formulado pelo recorrido, macula o processo com nulidade absoluta. Ressalte-se que a parte recorrente sequer opôs os Embargos Declaratórios cabíveis, para que o Tribunal de origem se pronunciasse sobre o teor da respectiva tese. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o recurso especial, incidindo o teor da Súmula 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. FUNRURAL. LEGITIMIDADE PARA PLEITEAR A RESTITUIÇÃO DE VALORES INDEVIDAMENTE RECOLHIDOS. PRODUÇÃO DE PROVAS, PARA ESSE FEITO, QUE TERIA SIDO POSTERGADA PARA A FASE DE LIQUIDAÇÃO DE SENTENÇA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282/STF E 356/STJ. DISCUSSÃO SOBRE A INEXISTÊNCIA DE REPASSE DO RESPECTIVO ENCARGO FINANCEIRO AO PRODUTOR RURAL PESSOA FÍSICA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356/STF, por analogia).
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido" (STJ, AgInt no AREsp 968.202/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/12/2016).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
