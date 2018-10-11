@@ -1,0 +1,45 @@
+DECISÃO: Registro, preliminarmente, por relevante, que se mostra regimentalmente viável, no Supremo Tribunal Federal, o julgamento imediato, monocrático ou colegiado, da ação de “habeas corpus”, independentemente de parecer do Ministério Público, sempre que a controvérsia versar matéria objeto de jurisprudência prevalecente no âmbito desta Suprema Corte, valendo assinalar, quanto ao aspecto ora ressaltado, que este Tribunal, em decisões colegiadas (HC 103.955/SP, Rel. Min. CELSO DE MELLO – HC 107.200/RS, Rel. Min. CELSO DE MELLO, v.g.), reafirmou a possibilidade processual do julgamento do próprio mérito da ação de “habeas corpus” sem prévia manifestação da douta Procuradoria-Geral da República, desde que observados os requisitos estabelecidos no art. 192 do RISTF, na redação dada pela Emenda Regimental nº 30/2009:
+    “POSSIBILIDADE DE JULGAMENTO IMEDIATO DA AÇÃO DE ‘HABEAS CORPUS’
+    – Mostra-se regimentalmente viável, no Supremo Tribunal Federal, o julgamento imediato, monocrático ou colegiado, da ação de ‘habeas corpus’, independentemente de parecer do Ministério Público, sempre que a controvérsia versar matéria objeto  de jurisprudência prevalecente no âmbito desta Suprema Corte. Emenda Regimental nº 30/2009. Aplicabilidade, ao caso, dessa orientação.”
+    (HC 109.544-MC/BA, Rel. Min. CELSO DE MELLO)
+    Tendo em vista essa delegação regimental de competência ao Relator da causa, impõe-se reconhecer que a presente controvérsia ajusta-se à jurisprudência firmada pelo Supremo Tribunal Federal na matéria em análise, o que possibilita seja proferida decisão monocrática sobre o litígio em questão.
+    Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. ASSOCIAÇÃO E TRÁFICO INTERNACIONAL DE DROGAS. CONTINUIDADE DELITIVA. INTERVALO SUPERIOR A 30 DIAS.
+    I – O agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras do novo CPC referentes à contagem dos prazos em dias úteis (art. 219, Lei nº 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei nº 13.105/2015).
+    II – Intimada a Defensoria Pública no dia 18/06/2018, é intempestivo o agravo regimental protocolizado em 24/7/2018.
+    III – A jurisprudência desta Corte firmou-se no sentido de que o lapso de tempo superior a trinta dias entre o cometimento dos delitos impossibilita o reconhecimento da continuidade delitiva, porquanto descaracteriza o requisito temporal, que impõe a existência de uma certa periodicidade entre as ações sucessivas.
+    IV – Agravo regimental não conhecido.”
+    (REsp 1.443.183-AgRg/PR, Rel. Min. REYNALDO SOARES DA FONSECA – grifei)
+    A parte ora impetrante busca, nesta sede processual, “(...) a concessão da ordem de ‘habeas corpus’ para reconhecer a continuidade delitiva entre os dois crimes de tráfico praticados, vez que cumpridos os requisitos do art. 71 do Código Penal”.
+    Sendo esse o contexto, passo a apreciar, em caráter preliminar, a admissibilidade, na espécie, desta ação de “habeas corpus”. E, ao fazê-lo, verifico, desde logo, que o E. Superior Tribunal de Justiça, ao não conhecer do agravo regimental interposto no âmbito do REsp 1.443.183/PR, apoiou-se, fundamentalmente, em pressuposto de admissibilidade do mencionado recurso.
+    O Supremo Tribunal Federal tem advertido, em sucessivos pronunciamentos, não se revelar admissível a ação de “habeas corpus”, quando se pretende discutir os pressupostos de admissibilidade de recurso interposto perante o E. Superior Tribunal de Justiça, cabendo destacar, entre outras, as seguintes decisões que esta Corte proferiu a propósito do tema ora em exame (HC 93.824/RS, Rel. Min. EROS GRAU – HC 94.336/RS, Rel. Min. EROS GRAU – HC 95.684/RS, Rel. Min. CELSO DE MELLO – HC 106.468/RJ, Rel. Min. CELSO DE MELLO – HC 120.223- -AgR/PE, Rel. Min. CELSO DE MELLO – HC 120.933-AgR/SP, Rel. Min. GILMAR MENDES – HC 123.312-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI – HC 125.439-AgR/SP, Rel. Min. TEORI ZAVASCKI – HC 125.938-AgR/SP, Rel. Min. ROSA WEBER – HC 131.786-AgR/SP, Rel. Min. TEORI ZAVASCKI – HC 132.864-AgR/PR, Rel. Min. DIAS TOFFOLI, v.g.):
+    “2. Na concreta situação dos autos, a pretensão da acionante esbarra na firme jurisprudência de que os temas atinentes aos pressupostos de admissibilidade de recursos da competência de outros Tribunais não ensejam a abertura da via recursal extraordinária, dado que as ofensas à Carta Magna, se existentes, ocorreriam de modo indireto ou reflexo. Foi nessa linha interpretativa que o Plenário do Supremo Tribunal Federal julgou a repercussão geral no RE 598.365, sob a minha relatoria.
+    3. Ordem denegada.”
+    (HC 108.861/ES, Rel. Min. AYRES BRITTO – grifei)
+    “1. O ‘habeas corpus’ não constitui meio hábil para rever as decisões do Superior Tribunal de Justiça quanto à admissibilidade ou não do recurso especial ou dos recursos internos a ele inerentes, questão que não está relacionada, senão reflexamente, com a liberdade de locomoção, e que deve ser resolvida no âmbito daquela Corte. Precedentes.”
+    (HC 125.024-AgR/DF, Rel. Min. ROSA WEBER – grifei)
+    Ainda que fosse possível superar tal óbice, melhor sorte não assistiria à parte impetrante, eis que a pretensão veiculada na presente ação de “habeas corpus” não tem o beneplácito da jurisprudência firmada sobre a matéria por ambas as Turmas do Supremo Tribunal Federal:
+    “’HABEAS CORPUS’. ROUBO QUALIFICADO. CIRCUNSTÂNCIAS DO CRIME SIMILARES. LAPSO TEMPORAL SIGNIFICATIVO ENTRE OS FATOS CRIMINOSOS. IMPOSSIBILIDADE DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. PRECEDENTES.
+    1. A configuração da continuidade delitiva exige a prática de um ou mais crimes da mesma espécie em condições de tempo, lugar e modo de execução do delito indicativas de serem, as condutas subsequentes, continuação da primeira.
+    2. O lapso temporal significativo, no caso cerca de oitenta e nove dias entre a prática dos crimes de roubo,  inviabiliza o reconhecimento da continuidade delitiva. Precedentes.
+    3. Ordem denegada.“
+    (HC 106.173/PR, Rel. Min. ROSA WEBER – grifei)
+    “PENAL. ‘HABEAS CORPUS’. DOIS CRIMES DE ROUBO PRATICADOS COM INTERVALO DE 45 DIAS. CONTINUIDADE DELITIVA. INEXISTÊNCIA. HABITUALIDADE OU REITERAÇÃO CRIMINOSA.
+    1. O art. 71 do Código Penal arrola os requisitos necessários à caracterização do crime continuado, a saber: (i) mais de uma ação ou omissão; (ii) prática de dois ou mais  crimes da mesma espécie; (iii) condições de tempo, lugar, maneira de execução e outras semelhantes; e (iv) os crimes subsequentes devem ser havidos como continuação do primeiro.
+    2. ‘In casu’, o paciente restou condenado por dois crimes de roubo, o primeiro praticado em 20/12/2004 e o segundo em 05/02/2005, perfazendo entre os delitos um intervalo de 45 dias.
+    3. É assente na doutrina que não há como determinar o número máximo de dias ou mesmo de meses para que se possa entender pela continuidade delitiva.
+    4. O Supremo Tribunal Federal, todavia, lançou luz sobre o tema ao firmar, e ao consolidar, o entendimento de que,  excedido o intervalo de 30 dias entre os crimes, não é possível ter-se o segundo delito como continuidade do primeiro:  HC 73.219/SP, Rel. Min. MAURÍCIO CORRÊA, DJ de 26/04/1996, e HC 69.896, Rel. Min. MARCO AURÉLIO, DJ de 02/04/1993.
+    5. A habitualidade ou a reiteração criminosa distingue-se da continuidade delitiva, consoante reiteradamente vem decidindo esta Corte: HC 74.066/SP, Rel. Min. MAURÍCIO CORRÊA, 2ª Turma, DJ de 11/10/1996; HC 93.824/RS, Rel. Min. EROS GRAU, 2ª Turma, DJe de 15/08/2008; e HC 94.970, Rel. Min. RICARDO LEWANDOWSKI, 1ª Turma, DJe de 28/11/2008.
+    6. ‘Habeas corpus’ denegado.”
+    (HC 107.636/RS, Rel. Min. LUIZ FUX – grifei)
+    “’HABEAS CORPUS’. PROCESSUAL PENAL. ROUBO. UNIFICAÇÃO DAS PENAS EM RAZÃO DA ALEGADA CONTINUIDADE DELITIVA: IMPROCEDÊNCIA. AUSÊNCIA DOS REQUISITOS LEGAIS. ESPAÇO TEMPORAL ENTRE OS DELITOS SUPERIOR A TRINTA DIAS. ‘HABEAS CORPUS‘ DENEGADO.
+    1. Não se comprovam, nos autos, constrangimento ilegal a ferir direito do Paciente nem ilegalidade ou abuso de poder a ensejar a concessão da ordem.
+    2. O Paciente não satisfaz os requisitos objetivos necessários à unificação das penas executadas, pois, havendo intervalo de tempo superior a trinta dias entre os crimes, não é de ser reconhecida a continuidade delitiva  (HC 95.415, relator o Ministro Eros Grau, DJe 20.3.2009).
+    3. ‘Habeas corpus’ denegado.”
+    (HC 112.484/RS, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Sendo assim, e pelas razões expostas, não conheço da presente ação de “habeas corpus”, restando prejudicado, em consequência, o exame do pedido de medida liminar.
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 11 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
