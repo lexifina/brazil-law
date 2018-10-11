@@ -1,0 +1,10 @@
+DECISÃO
+JOSE ELIAS DA SILVA BATISTA alega sofrer coação ilegal diante de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar no HC n. 2214077-69.2018.8.26.0000.
+Requer a defesa, liminarmente, seja concedido o direito do paciente recorrer em liberdade até o trânsito em julgado da sentença, na qual foi condenado à pena de 5 anos e 6 meses de reclusão, em regime inicial fechado, mais multa, por infração ao art. 157, § 2º, I e II, do Código Penal.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pese sua altivez e grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país, em poucos dias, decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula nº 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de  habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+Na espécie, verifico que a possibilidade de o paciente recorrer em liberdade a não foi sequer analisada pelo Desembargador do Tribunal de origem, que se limitou a indeferir a liminar no tocante ao pedido modificação de regime prisional, o que, em princípio, evidencia a impossibilidade de apreciação da questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
