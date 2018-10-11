@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo ESTADO DA PARAÍBA, contra decisão do Tribunal de Justiça do Estado da Paraíba, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/2015, assim ementado:
+"AGRAVO INTERNO. ANTECIPAÇÃO DA TUTELA. INDEFERIMENTO. SUSPENSÃO DE EXIGÊNCIA DE CRÉDITO TRIBUTÁRIO. ICMS - IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS. RAZÕES DO AGRAVO. INSUFICIÊNCIA PARA INFIRMAR A FUNDAMENTAÇÃO DO PROVIMENTO QUE INDEFERIU O PLEITO EMERGENCIAL. MANUTENÇÃO DO DECISUM . DESPROVIMENTO.
+- Nos termos do art. 1.021, do Código de Processo Civil, contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado.
+- É de se manter a decisão monocrática que indeferiu o pleito emergencial, mormente quando as razões do agravo" (fl. 111e).
+Opostos embargos de declaração (fls. 123/127e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente violação aos arts. 1.022, inciso II, parágrafo único, e 489, inciso II, § 1º, inciso IV, do CPC/2015, art. 1º, § 3º da Lei 8.437/92 e 1º da Lei 9.494/97, sustentando, em síntese, além de negativa de prestação jurisdicional, que:
+"Ao que parece, o acórdão recorrido entende que o art. 1º, § 3º, da Lei nº 8.437/92 e o art. 1º da Lei nº 9.494/97 não se aplica e, para tanto, trouxe fundamentação oblíqua para não aplicar a legislação em referência.
+Em verdade, é patente a falta de subsídios a apoiar o acórdão que manteve a concessão do provimento de urgência para determinar a suspensão da exigibilidade do crédito tributário.
+Dessa forma, a Fazenda Pública está impedida até mesmo de cobrar o crédito tributário, o que faz chocar a decisão recorrida com a legislação vigente que rege a concessão de medidas de urgência contra a Fazenda Pública, mormente com o que dispõe a Lei 9.494/97.
+(..)
+Salta aos olhos que a r. decisão vergastada incorreu em absoluta afronta ao que dispõe a Lei 9.494/97 e demais diplomas que regem a concessão de tutela antecipatória contra a Fazenda Pública, motivo pelo qual é medida imperativa a imediata cassação da medida satisfativa.
+Dessarte, não acode razão ao Recorrido uma vez que o art. 1º, § 3º, da Lei n. 8.437/92 (aplicável à disciplina da tutela antecipada contra a Fazenda Pública por força do art. 1º da Lei n. 9.494/97) proíbe medidas liminares de caráter satisfativo, o que se impõe a reforma da decisão recorrida, ante a vedação legal acima indicada, o que ora requer" (fl. 156/157e).
+Apresentadas contrarrazões às fls. 161/171e, foi o Recurso Especial inadmitido na origem (fls. 182/185e), daí a interposição do presente Agravo (fls. 187/198e).
+Contraminuta às fls.203/214e.
+A irresignação não merece acolhimento.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Outrossim, não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre os arts. 1º, § 3º da Lei 8.437/92 e 1º da Lei 9.494/97 , a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
