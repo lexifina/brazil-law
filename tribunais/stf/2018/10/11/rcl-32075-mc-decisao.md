@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 37 DA SÚMULA DO SUPREMO – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    A União afirma haver a Primeira Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Paraná, no processo nº 5029409-74.2016.4.04.7000, olvidado o teor do verbete vinculante nº 37 da Súmula do Supremo.
+    Segundo narra, Carolina Orlando de Campos, magistrada do trabalho, ajuizou contra si ação visando o pagamento de ajuda de custo decorrente da posse no referido cargo público, levando em conta a alegada simetria constitucional entre membros do Judiciário e do Ministério Público. Relata a procedência do pedido, entendimento mantido em sede de recurso inominado, ante o princípio da isonomia, surgindo daí o arguido desrespeito. Menciona a apresentação de incidente de uniformização para a Turma Nacional, o qual teve a sequência obstada. Interposto extraordinário, aguarda apreciação.
+    Sustenta violado o paradigma porquanto, com apontada base no aludido princípio, acabou assegurada a integrante do Judiciário a percepção de ajuda de custo em virtude do regime alusivo a membros do Ministério Público. Conforme esclarece, a partir de suposta isonomia remuneratória entre as carreiras, o Órgão reclamado atuou como legislador positivo, incorrendo em contrariedade ao verbete vinculante nº 37, o qual, consoante aduz, engloba não apenas vencimentos, mas também verbas de caráter indenizatório. Evoca jurisprudência. Salienta que o citado enunciado alcança, a título de servidores, quaisquer agentes públicos, cabendo observar somente as vinculações remuneratórias explicitamente previstas na Constituição Federal. Realça o entendimento do Supremo no sentido da inexistência de paridade.
+     Sob o ângulo do risco, reporta-se ao pagamento de valores indevidos e de difícil repetição.
+    Pretende, em sede liminar, a suspensão e, alfim, a cassação do pronunciamento atacado.
+    2. Percebam as balizas processuais. Magistrada formalizou ação contra a União com a finalidade de, em virtude da alegada simetria, ver reconhecida e paga ajuda de custo em razão da posse no cargo, considerado o recebido, em idêntica situação, por integrantes do Ministério Público. Acolhido o pedido, a reclamante assinala desrespeito ao verbete vinculante nº 37, cujo teor é o seguinte:
+    Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento da isonomia.
+    Tem-se a relevância do que articulado. Da leitura do acórdão impugnado extrai-se haver a Turma Recursal assentado a pertinência do pagamento da verba, apesar da ausência de dispositivo legal específico a respaldá-lo, ante a suposta simetria existente, inclusive sob o ângulo remuneratório, entre os regimes jurídicos das carreiras da magistratura e do Ministério Público da União. Confiram o seguinte trecho do acórdão atacado:
+    […]
+    Ainda que o CNJ não tenha incluído expressamente o direito à ajuda-de-custo em razão de nomeação, sua extensão decorre da premissa geral da simetria, não havendo razão para que a resolução elencasse cada um dos direitos que se comunicariam entre as carreiras.
+    [...]
+    O quadro revela inobservância do paradigma. A pretexto de assegurar-se isonomia remuneratória – gênero –, no que incluídas vantagens indenizatórias, acabou-se reconhecendo a membro da magistratura o pagamento de ajuda de custo com base em legislação voltada a disciplinar a situação específica dos integrantes do Ministério Público da União. Consoante se verifica, o pronunciamento reclamado resultou, de modo imediato, em alteração da remuneração de servidor público, no que constatado, de forma direta, o impacto financeiro.
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia do acórdão formalizado pela Primeira Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Paraná no processo nº 5029409-74.2016.4.04.7000.
+    4. Citem a interessada e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 11 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
