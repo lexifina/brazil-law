@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DA PARAÍBA contra decisão que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 107):
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO FORÇADA. MULTA IMPOSTA A EX-PREFEITO MUNICIPAL. ESTADO DA PARAÍBA. ILEGITIMIDADE ATIVA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. INTELIGÊNCIA DO ARTIGO 267, VI, DO CÓDIGO DE PROCESSO CIVIL. IRRESIGNAÇÃO. NÃO ACOLHIMENTO. MANUTENÇÃO DA DECISÃO. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DESTA CORTE. DESPROVIMENTO DO RECURSO.
+- O Estado da Paraíba carece de legitimidade para promover execução de multa
+imposta pela Corte Estadual de Contas a ex-prefeito Municipal.
+- Extingue-se o processo sem resolução de mérito quando não concorrer qualquer das condições da ação, como a possibilidade jurídica, a legitimidade das partes e o interesse processual.(art. 267, VI, do CPC)
+No especial obstaculizado, o ora agravante, além de divergência jurisprudencial, apontou violação dos arts. 267, VI, § 3º, e 566, I, ambos do Código de Processo Civil de 1973.
+Passo a decidir.
+Feito esse registro, tem-se que a questão jurídica referente à legitimidade para a execução de multa aplicada pelo Tribunal de Contas estadual a agente político, em razão de danos causados ao erário municipal teve a repercussão geral reconhecida pelo Supremo Tribunal Federal, no Recurso Extraordinário n. 641.896/RJ.
+Em 30/01/2017, o referido paradigma foi substituído pelo RE 1.003.433/RJ (Tema 642), Relator MINISTRO MARCO AURÉLIO.
+Dessa forma, encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido: AgInt nos EDcl no REsp n. 1.612.117/SC, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 17/08/2017; AgInt no REsp n. 1.366.363/ES, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 23/08/2017; AgInt no AgInt no REsp n. 1.603.061/SC, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 28/06/2017.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Nessa quadra, a ausência de interposição simultânea de recurso extraordinário, no caso, não afasta a necessidade de a Corte de origem realizar o juízo de conformação. Nesse sentido: REsp 1.590.541, Relator Ministro SÉRGIO KUKINA, Dje 28/08/2018, e REsp 1.340.497, Relator Ministro OG FERNANDES, Dje 14/06/2018
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão, a ser proferido no Recurso Extraordinário n. 1.140.005/RJ, e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
