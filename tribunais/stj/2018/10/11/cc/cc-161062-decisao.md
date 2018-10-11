@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Conflito de Competência, nos autos de ação ordinária proposta por [NOME], ora primeira interessado, em face do Banco do Brasil S/A, ora segundo interessado, pleiteando indenização por danos materiais e morais decorrentes de supostos desfalques em sua conta PASEP.
+O Juízo de Direito da 12ª Vara Cível de Recife/PE, ora suscitado, considerando que, "a presente demanda deva ter trâmite perante a Justiça Federal, haja vista que, por se tratar de reclamo pertinente à gestão do fundo PIS-PASEP, a competência para o processo e o julgamento é de referenciada Justiça especializada, em decorrência de nítido interesse da União" (fl. 84e), declarou-se incompetente para processar e julgar o feito e determinou a remessa dos autos a uma das Seções da Justiça Federal do Estado de Pernambuco.
+Por sua vez, o Juízo Federal da 3ª Vara da Seção Judiciária do Estado de Pernambuco, ao suscitar o presente Conflito, o fez entendendo que "eventual desfalque de valores decorrente de saque indevido em conta individual do servidor deverá ser apreciado na Justiça Estadual, competente para julgar as ações contra sociedade de economia mista federal" (fl. 5e).
+Assiste razão ao juízo suscitante.
+De acordo com a orientação jurisprudencial predominante na Primeira Seção desta Corte, consubstanciada na Súmula 42/STJ, compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal).
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. ALVARÁ JUDICIAL. LEVANTAMENTO DO SALDO DA CONTA VINCULADA DO PASEP. JURISDIÇÃO VOLUNTÁRIA. GESTÃO DO FUNDO PELO BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. APLICAÇÃO DA SÚMULA N.º 42 DO STJ.
+1. A expedição de alvará judicial requerido pelo próprio titular da conta, objetivando a liberação de depósitos de PASEP, é simples procedimento de jurisdição voluntária, inexistindo qualquer litígio posto em juízo.
+2. Ainda que assim não seja entendido, não é possível olvidar, no caso, o teor do enunciado da Súmula n.º 42 do STJ, ao proclamar que compete a Justiça Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista.
+3. Conflito conhecido e declarada competência do Juízo de Direito da 1.ª Vara Cível da Comarca de Franca/SP (CC 34.778/SP, Rel. Ministra Laurita Vaz, Primeira Seção, DJ 18/11/2002).
+Confira-se, ainda, os seguintes precedentes: CC 77.867/PA, Rel. Ministro JOSÉ DELGADO, DJU de 29/06/2007; CC 48.376/GO, Rel. Ministro FRANCISCO PEÇANHA MARTINS, DJU de 20/06/2005; CC 43.891/RO, Rel. p/acórdão Ministro LUIZ FUX, DJU de 06/06/2005; CC 44.202/BA, Rel. Ministro CASTRO MEIRA, DJU de 27/09/2004; CC 31.432/SP, Rel. Ministro FRANCISCO PEÇANHA MARTINS, DJU de 17/06/2002.
+Ante o exposto, com fundamento no art. 955, parágrafo único, I, do CPC/2015, conheço do Conflito de Competência, para declarar competente o Juízo de Direito da 12ª Vara Cível de Recife/PE, ora suscitado.
+I.
