@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por WELLINGTON WILLIANS DOS SANTOS contra a decisão proferida no âmbito do Tribunal de Justiça do Estado do Espírito Santo que não admitiu seu recurso especial fundado no art. 105, inciso III, alíneas a e c, da Constituição Federal.
+Depreende-se dos autos que o agravante teve, em seu favor e em primeiro grau de jurisdição, declarado o indulto com base no Decreto Presidencial n. 5.620/2005, com consequente extinção da punibilidade dos fatos que lhe foram imputados na Guia de Execução de n. 89515 (e-STJ fls. 12/14).
+Irresignado, o Ministério Público do Estado do Espirito Santo interpôs recurso de agravo em execução, ao qual o Tribunal de origem deu provimento para revogar o induto outrora concedido. Eis a ementa do acórdão (e-STJ fl. 118):
+AGRAVO EM EXECUÇÃO PENAL - INDULTO DE NATAL COMETIMENTO DE FALTA GRAVE - DECRETO PRESIDENCIAL 5.620/2005 - REQUISITO SUBJETIVO NÃO PREENCHIDO - RECURSO CONHECIDO E IMPROVIDO.
+Por ter o reeducando cometido novo crime durante o período estabelecido no artigo 4o, do Decreto Presidencial nº 5.620/2005, resta evidenciado o não reenchimento do requisito subjetivo necessário à concessão do indulto. Recurso conhecido e provido.
+Daí o recurso especial, no qual a Defesa alega que o Tribunal de origem, no acórdão proferido, contrariou o disposto no art. 4º do Decreto n. 5.620/2005 e também nos artigos 59 e 129, ambos da Lei de Execução Penal.
+Denota, em síntese, que "O decreto dispõe que a declaração do indulto fica condicionada à "constatação de inexistência da prática de falta grave", "APURADA na forma do art. 59 e seguintes da lei nº 7.210/1984", cometida nos doze meses de cumprimento de pena contados retroativamente a 25 de dezembro. A condição, portanto, não é a ocorrência da falta, mas sim o seu reconhecimento judicial, por decisão motivada, observado o contraditório e a ampla defesa, conforme expressamente declarado no artigo 59 da lei 7.210/1984." (e-STJ fls. 130/131).
+ Contrarrazões às e-STJ fls. 143/146.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (e-STJ fls. 361/363).
+É o relatório.
+Decido.
+Após analisar os argumentos do recurso de agravo e também o inteiro teor da decisão proferida pelo Vice-Presidente do Tribunal de origem, tenho que o dito recurso não ultrapassa sequer o seu juízo de admissibilidade.
+Isso porque o agravante deixou de impugnar todos os fundamentos da decisão agravada, limitando-se a reiterar as alegações deduzidas no recurso especial outrora interposto.
+Assim, não havendo impugnação específica acerca de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o enunciado sumular n. 182 do STJ.
+Trago, a propósito, trecho da decisão monocrática, proferida pelo membro do Tribunal de origem, na qual se negou seguimento ao recurso especial interposto (e-STJ fl. 150):
+O acórdão recorrido concluiu que o recorrente não preencheu os requisitos previstos no Decreto nº 5.620/2005 para que fosse concedido o indulto, uma vez que foi praticado novo crime no período previsto no artigo 4o, do referido Decreto.
+Ainda, extrai-se do acórdão que para verificação requisitos para a concessão do indulto, não seria relevante a data homologação da infração, mas o momento em que teria sido praticada.
+Portanto, o acórdão recorrido adotou tese coincidente com a jurisprudência do Superior Tribunal de Justiça, o que torna inadmissível recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, ..  por aplicação extensiva da Súmula nº 83, do Superior Tribunal de Justiça.
+E porque o acórdão recorrido adotou tese coincidente com a jurisprudência do Superior Tribunal de Justiça, também não é possível admitir o recurso especial interposto com fundamento no artigo 105, III, i"c", da Constituição Federal, com fundamento na Súmula nº 83, do Superior Tribunal de Justiça.
+De fato, em tópico nenhum de seu recurso, o agravante impugnou a fundamentação da decisão monocrática no sentido de que o acórdão proferido pelo Tribunal de origem estaria em harmonia com o entendimento deste Tribunal Superior. Na sua irrresignação, apenas mencionou teses extraídas do princípio do in dubio pro reo e do princípio do amplo acesso ao Judiciário (e-STJ fl. 161).
+Aplicando o supramencionado enunciado sumular, precedentes de ambas as Turmas componentes da Terceira Seção deste Tribunal Superior:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DOIS FURTOS SIMPLES. VIOLAÇÃO DO ART. 155 DO CP. RES FURTIVA: UMA FACA E UMA EMBALAGEM DE PISCA-PISCA, AVALIADOS EM R$ 32,00. COMPORTAMENTO REPROVÁVEL. CONSTATADA A CONTINUIDADE DELITIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES DO STJ. RECURSO QUE NÃO INFIRMOU, DE FORMA ESPECÍFICA, OS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. O recurso especial foi desprovido, pela inaplicabilidade do princípio da insignificância, notadamente, diante do modus operandi do ora agravante, em que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a prática de delitos de furto em continuidade delitiva evidencia o maior grau de reprovabilidade da conduta do agente, sendo, portanto, inviável a aplicação do referido postulado.
+2. A insurgência não merece prosperar, haja vista o agravante não ter atacado de forma específica os fundamentos da decisão agravada, incidindo, no caso, a Súmula 182/STJ.
+3. Como tem reiteradamente decidido esta Corte, em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+4. Nos termos da Súmula 182 desta Corte, é manifestamente inadmissível o agravo regimental que não impugna, especificamente, todos os fundamentos da decisão confrontada (AgRg no AREsp n. 1.056.485/ES, Ministro Nefi Cordeiro, Sexta Turma, DJe 2/4/2018).
+5. Agravo regimental não conhecido.
+(AgRg no REsp 1740601/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018, grifei)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. PEDIDO DE SUPERAÇÃO DO VERBETE N. 182/STJ. ARGUMENTO QUE NÃO ELIDE O NÃO CONHECIMENTO DO AGRAVO. DESVIRTUAMENTO DA LÓGICA DO ORDENAMENTO RECURSAL. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A não impugnação específica e pormenorizada dos fundamentos da decisão que nega seguimento ao recurso especial inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessarte, não é suficiente pugnar pela superação do referido entendimento, sob pena de se desvirtuar a lógica do ordenamento recursal, o que tem se buscado coibir.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 1235392/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/08/2018, DJe 31/08/2018, grifei)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
