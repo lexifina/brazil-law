@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. Pedido para que seja obstada a inclusão dos dados da impetrante no CADIN, enquanto pendente pedido de compensação de débitos de ICMS com créditos cedidos, oriundos de precatório judicial. Inadmissibilidade. Inaplicabilidade do art. 151, III, do CTN, ao caso concreto. Suspensão da exigibilidade do débito não ocorrida. Sentença que denegou a ordem. Recurso não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5°, XIII, XXXV e LXIX, e 170 da CF. Sustenta, em essência, que sua inscrição no CADIN viola o direito ao livre exercício de atividade comercial lícita.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No entanto, o recurso não merece trânsito. Com efeito, os dispositivos da Lei Maior tidos como violados não foram apreciados pelo acórdão hostilizado de modo explícito como vem sendo exigido, faltando, assim, o requisito do prequestionamento. Incidente, portanto, a Súmula 282 do Colendo Supremo Tribunal Federal.
+    Inadmito, pois, o recurso extraordinário com fundamento no inciso V do art. 1.030 do Código de Processo Civil.”
+    O recurso não merece acolhida, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC. Como já registrado pelo Supremo Tribunal Federal, a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual “de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa” (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    A alegada ofensa à Constituição não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos de declaração para sanar eventual omissão. Portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 11 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
