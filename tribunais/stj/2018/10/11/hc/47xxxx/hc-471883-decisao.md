@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente foi condenado, como incurso no artigo 28, caput, da Lei n. 11.343/2006 e no artigo 12, caput, da Lei n. 10.826/2003, ao cumprimento das penas de 1 (um) ano e 8 (oito) meses de detenção, no regime semiaberto, e de 4 (quatro) meses de prestação de serviço à comunidade.
+Irresignada, a defesa interpôs recurso de apelação, desprovido nos termos da ementa ora transcrita (e-STJ fl. 383):
+APELAÇÃO CRIMINAL - USO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO - RECURSO DO MINISTÉRIO PÚBLICO: CONDENAÇÃO PELO CRIME DE TRAFICO DE DROGAS - IMPOSSIBILIDADE - IN DÚBIO PRO REO - RECURSO DA DEFESA: ABSOLVIÇÃO DO USO DE ENTORPECENTES - NÃO CABIMENTO - AUTORIA E MATERIALIDADE DO ARTIGO 28 DA LEI DE DROGAS DEMONSTRADAS - REDUÇÃO DA PENA-BASE DO CRIME DE POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO -
+INVIABILIDADE.
+Tendo em vista que as provas dos autos não são aptas a demonstrar, com a certeza necessária, a traficância por parte do acusado, não há que se falar na sua condenação pelo crime do artigo 33 da Lei de Drogas. Contudo, comprovado que ele possuía drogas destinadas ao seu uso próprio, é necessário manter a desclassificação da conduta que lhe foi imputada para a do delito do artigo 28 da Lei 11.343/06. Verificado que a pena-base foi fixada de maneira correta e com base em elementos concretos, impossível é sua correção.
+Na presente impetração a defesa assere que, "quanto à circunstância judicial referente aos antecedentes criminais, em que pese fundamentação apresentada pelo TJMG, cumpre destacar que a condenação extinta há mais de cinco anos não pode ser utilizada para majorar pena-base" (e-STJ fl. 4).
+Assim, requer o decote da mencionada circunstância judicial da dosimetria da pena.
+Parecer ministerial pela denegação da ordem, nos termos da seguinte ementa (e-STJ fl. 399):
+HABEAS CORPUS. MANEJO DO WRIT COMO SUCEDÂNEO DE RECURSO ESPECIAL. INADMISSIBILIDADE. POSSE DE DROGAS PARA CONSUMO PESSOAL E POSSE DE ARMA DE FOGO DE USO PERMITIDO (ARTS. 28, CAPUT, DA LEI Nº 11.343/06 E 12, CAPUT, DA LEI Nº 10.826/03). DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DA CIRCUNSTÂNCIA JUDICIAL REFERENTE AOS MAUS ANTECEDENTES. UTILIZAÇÃO DE CONDENAÇÃO TRANSITADA EM JULGADO HÁ MAIS DE 05 (CINCO) ANOS. POSSIBILIDADE. PRECEDENTES DESSE STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELA EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO OU PELA DENEGAÇÃO DA ORDEM.
+É, em síntese, o relatório.
+Busca-se, com a presente impetração, seja afastada do cálculo da basal a valoração negativa referente aos maus antecedentes, sob o argumento de que a condenação extinta há mais de cinco anos não pode ser levada em consideração na operação dosimétrica.
+Sem razão a defesa.
+Esta Corte é firme na compreensão de que as condenações anteriores ao prazo depurador de 5 anos podem constituir motivação idônea para a exasperação da pena-base a título de maus antecedentes, sendo inaptas, no entanto, à configuração da reincidência. A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 157, § 3º, 2ª PARTE, DO CÓDIGO PENAL. DOSIMETRIA. CONDENAÇÃO ANTERIOR. PERÍODO DEPURADOR. TRANSCURSO. MAUS ANTECEDENTES. CONFIGURAÇÃO. POSSIBILIDADE.
+1. As condenações anteriores ao prazo depurador de 5 anos podem constituir motivação idônea para a exasperação da pena-base a título de maus antecedentes, apesar do fato de que não podem ser consideradas como reincidência. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC 389.185/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017, grifei)
+RECURSO ESPECIAL. TRÁFICO DE DROGAS. MAUS ANTECEDENTES. PERÍODO DEPURADOR. PONDERAÇÃO NO CASO CONCRETO. RECURSO NÃO PROVIDO.
+1. Consoante entendimento deste Superior Tribunal, decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não possa prevalecer para fins de reincidência, pode ser sopesada a título de maus antecedentes. Precedentes.  ..
+5. Recurso especial não provido.
+(REsp 1478425/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/03/2017, DJe 22/03/2017, grifei)
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL. DOSIMETRIA. PRIMARIEDADE. DETRAÇÃO. TEMAS NÃO ENFRENTADOS PELA CORTE DE ORIGEM. COGNIÇÃO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. CONDENAÇÕES ANTERIORES. DECURSO DO PRAZO PREVISTO NO ART. 64, INCISO I, DO CÓDIGO PENAL. CONFIGURAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. MAUS ANTECEDENTES. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. CIRCUNSTÂNCIAS QUE IMPEDEM A APLICAÇÃO DO ART. 33, §4º, DA LEI Nº 11.343/06. REGIME INICIAL FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. QUANTIDADE DE DROGA APREENDIDA. ADEQUAÇÃO. SUBSTITUIÇÃO DE PENA. REQUISITO OBJETIVO NÃO PREENCHIDO. NÃO CONHECIMENTO.
+ ..  2. É assente neste Superior Tribunal de Justiça o entendimento de que, salvo situações excepcionais, à luz do art. 64, inciso I, do Código Penal, ultrapassado o lapso temporal superior a 5 anos entre a data do cumprimento ou extinção da pena e a infração posterior, as condenações anteriores não prevalecem para fins de reincidência mas podem ser consideradas como maus antecedentes, nos termos do art. 59 do Código Penal.
+3. É de se manter o entendimento pacificado por este Sodalício de que, mesmo ultrapassado o prazo depurador, as condenações anteriores podem ser consideradas como maus antecedentes.  ..
+7. Habeas corpus não conhecido.
+(HC 354.928/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016, grifei)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. AFASTAMENTO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS, COM FUNDAMENTO NOS MAUS ANTECEDENTES. CONSIDERAÇÃO DEVIDA. EXISTÊNCIA DE CONDENAÇÕES DEFINITIVAS NÃO GERADORAS DE REINCIDÊNCIA. CONCEITO MAIS AMPLO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITO E FIXAÇÃO DE REGIME ABERTO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+ ..  2. O conceito de maus antecedentes, por ser mais amplo, abrange não apenas as condenações definitivas por fatos anteriores cujo trânsito em julgado ocorreu antes da prática do delito em apuração, mas também aquelas transitadas em julgado no curso da respectiva ação penal, além das condenações transitadas em julgado há mais de cinco anos, as quais também não induzem reincidência, mas servem como maus antecedentes.  ..
+4. Habeas Corpus não conhecido.
+(HC 246.122/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/03/2016, DJe 15/03/2016, grifei)
+Na mesma linha intelectiva, o vaticínio da doutrina:
+os antecedentes dizem respeito ao histórico criminal do agente que não se preste para efeitos de reincidência (GRECO, Rogério. Código Penal Comentado. p. 166).
+No mesmo sentido, o parecer ministerial (e-STJ fl. 401):
+Isso porque a sentença condenatória, corroborada pela Corte a quo, está em perfeita sintonia com a jurisprudência desse Superior Tribunal de Justiça, no sentido de que condenações anteriores ao prazo depurador de 05 (cinco) anos, malgrado não possam ser valoradas na segunda etapa da dosimetria como reincidência, constituem motivação idônea para a exasperação da pena-base a título de maus antecedentes.
+Tal o contexto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
