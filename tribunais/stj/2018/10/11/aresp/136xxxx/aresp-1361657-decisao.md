@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SAFRA S A contra decisão denegatória de seu recurso especial fundado no artigo 105, inciso III, alínea a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Nas razões do nobre apelo, o ora agravante debate, em síntese, error in judicando pela utilização de documento confeccionado unilateralmente para a instrução da inicial.
+É o relatório. Decido.
+No que tange à matéria posta em debate, a Corte de origem assim se manifestou, ipsis litteris:
+Dos extratos bancários acostados às fls. 16/17 se pode constatar a "liquidação de financiamento" no valor de R$ 176.000,00 (cento e setenta e seis mil reais) relacionado ao documento de n. 2094830, mesmo número da Cédula em comento. Registra-se que referidos extratos se referem a conta mantida pelos embargantes junto ao Banco embargado e, portanto, não foram produzidos de forma unilateral pela parte apelada.
+E no demonstrativo relacionado à recuperação judicial acostado às fls. 19/20, os apelados afirmaram que a Cédula n. 209483-0 foi liquidada em 18/06/2015. Este documento não restou impugnado pelo apelante pois, ao ser intimado para impugnar os pagamentos indicados pelos embargantes/apelados (fl. 74), salientou tão-somente que a parte embargante deixou de comprovar o pagamento das Cédulas.
+Nesse prisma, verifica-se que os embargantes, ora apelados, comprovaram o alegado pagamento, não impugnado pelo embargado, conforme determinado pelo art. 373, II, do Código de Processo Civil de 2015.
+Com efeito, verifica-se que, para infirmar os fundamentos do julgado objurgado para se determinar a imprestabilidade ou não dos documentos colacionados pela agravada na inicial necessário o reexame do substrato fático-probatório dos autos, o que é vedado nesta instância especial, nos moldes da Súmula n. 7/STJ.
+Ademais, o fundamento expendido pelo Tribunal a quo no sentido de que o documento apresentado pela agravada não foi impugnado pelo agravante não foi infirmado por este nas razões do recurso especial, o que permite a incidência, na espécie, da Súmula n. 283/STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% do valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido dispositivo legal, ressalvada a eventual concessão de justiça gratuita (artigo 98, § § 2º e 3º, do Código de Processo Civil).
+Publique-se. Intimem-se.
