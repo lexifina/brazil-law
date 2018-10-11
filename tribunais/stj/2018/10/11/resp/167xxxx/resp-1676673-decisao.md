@@ -1,0 +1,44 @@
+EMENTA
+RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. 1. O TERMO INICIAL DOS JUROS MORATÓRIOS RESPONSABILIDADE EXTRACONTRATUAL. SÚMULA N. 54/STJ. DECISÃO MANTIDA. 2. SUSPENSÃO DO CÔMPUTO DOS JUROS ATÉ O PAGAMENTO DO PASSIVO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Companhia Mutual de Seguros - em liquidação contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fls. 388-389):
+APELAÇÃO CÍVEL. ACIDENTE DE TRÂNSITO. COLISÃO DE VEÍCULOS. REPARAÇÃO DE DANOS. SEGURADORA DENUNCIADA À LIDE. PAGAMENTO DA INDENIZAÇÃO. RESPONSABILIDADE SOLIDÁRIA DA SEGURADORA. SÚMULA N. 537 DO STJ. DINÂMICA DO ACIDENTE. CULPA ADMITIDA. VALOR DA REPARAÇÃO. ORÇAMENTO ÚNICO. CONCORDÂNCIA. POSSIBILIDADE. RECORRENTE EM LIQUIDAÇÃO EXTRAJUDICIAL. PROCESSO EM FASE DE CONHECIMENTO. SUSPENSÃO DO FEITO. IMPOSSIBILIDADE. JUROS E CORREÇÃO MONETÁRIA. INCIDÊNCIA CABÍVEL. LITISDENUNCIADA. ACEITAÇÃO DA DENUNCIAÇÃO E CONTESTAÇÃO DO PEDIDO INICIAL. LITISCONSÓRCIO. ÔNUS SUCUMBENCIAIS DECORRENTES DA LIDE SECUNDÁRIA. NÃO CABIMENTO. PRECEDENTE. JUROS DE MORA E CORREÇÃO MONETÁRIA. TERMO INICIAL. SÚMULA 54/STJ. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que "em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariedade junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice" (Súmula 537).
+2. Demonstrada a culpa da segurada, respondem a causadora do acidente e a seguradora pelos danos causados. Admite-se a apresentação de orçamento único para comprovar os gastos com o reparo, ainda mais quando a própria seguradora admitiu que a quantia estava de acordo com o valor de mercado.
+3. A decretação da liquidação extrajudicial acarreta a suspensão apenas das ações e execuções que possam repercutir diretamente no acervo da entidade liquidanda. A jurisprudência do Superior Tribunal de Justiça já firmou o entendimento de que a liquidação extrajudicial não interrompe a contagem dos juros moratórios, haja vista a possibilidade de sua fluência a partir da decretação da quebra, existindo ativo suficiente para o pagamento do passivo (eSTJ, AgRg no AREsp n. 2.338/GO).
+4. Em caso de procedência do pedido formulado na denunciação lide, a denunciada só responde pelos ônus da demanda secundária se a ela opôs resistência, o que não ocorreu no caso em apreço.
+5. Os juros de mora e a correção monetária, na obrigação fundada em responsabilidade civil extracontratual, incidem a partir do evento danoso.
+6. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a recorrente alega ofensa ao art. 18, d e f, da Lei n. 6.024/1974; 405 do CC/2002. Sustenta que o termo inicial para incidência dos juros de mora sobre o valor arbitrado para a indenização por danos morais deve fluir a partir da citação e que os juros e correção monetária devem ter seus cômputos suspensos a partir da decretação da liquidação extrajudicial até o pagamento do passivo.
+Foram apresentadas contrarrazões (e-STJ, fls. 422-426 e 430-435).
+Juízo de admissibilidade positivo (e-STJ, fls. 437-439).
+Brevemente relatado, decido.
+Inicialmente, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado n. 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a jurisprudência das Turmas que integram a Segunda Seção do STJ é pacífica ao entender que os juros de mora incidem a partir do evento danoso quando se tratar de relação extracontratual, consoante dispõe o Enunciado n. 54 da Súmula de jurisprudência desta Corte.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE EXTRACONTRATUAL. SÚMULA N. 54/STJ. DECISÃO MANTIDA. INOVAÇÃO RECURSAL. DESCABIMENTO.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+3. Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual (Súmula n. 54/STJ).
+4. Incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal.
+5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 862889/PR, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, julgado em 24/10/2017, DJe 30/10/2017 - sem grifo no original)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. DANO MORAL. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO.
+1. Em relação ao termo inicial dos juros de mora incidentes sobre os danos morais, a jurisprudência desta Corte firmou o entendimento de que, em se tratando de responsabilidade extracontratual, o juros moratórios fluem a partir do evento danoso.
+2. Agravo regimental não provido. (AgRg no REsp 1454544/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/09/2016, DJe 20/09/2016 - sem grifo no original)
+Desse modo, constata-se que o acórdão recorrido destoou da jurisprudência acima colacionada, devendo ser reformado para que se fixe a data do evento danoso como termo inicial dos juros de mora.
+O Tribunal estadual, quanto ao termo inicial dos juros de mora, deixou assente que "Tratando-se de responsabilidade extracontratual por ato ilícito, o colendo Superior Tribunal de Justiça sumulou o entendimento de que a correção monetária e os juros moratórios fluem a partir do evento danoso (enunciado n. 54)". (e-STJ, fl. 399).
+Dessa forma, a decisão recorrida se mostra em sintonia com o entendimento deste Tribunal, motivo pelo qual não merece reforma.
+Conforme entendimento desta Corte Superior, o cômputo dos juros moratórios devem ser suspensos a partir da decretação da liquidação extrajudicial até o pagamento integral do passivo da liquidanda, continuando a fluir normalmente a correção monetária.
+A propósito:
+RECURSO ESPECIAL. INSTITUIÇÃO FINANCEIRA. LIQUIDAÇÃO EXTRAJUDICIAL. OBRIGAÇÕES. JUROS MORATÓRIOS. SUSPENSÃO. TERMO INICIAL. DECRETO DE LIQUIDAÇÃO. CORREÇÃO MONETÁRIA. INCIDÊNCIA. SUCUMBÊNCIA RECÍPROCA. RECONHECIMENTO.
+1. Fica suspensa a fluência de juros contra a instituição financeira, sejam legais ou contratuais, a partir do decreto de liquidação até o pagamento do passivo. Na hipótese de sobejar alguma quantia após a satisfação do principal, os juros serão pagos respeitada a ordem estabelecida no quadro geral de credores.
+Precedente.
+2. A princípio, a Lei nº 6.024/1974 suspendia a incidência de correção monetária sobre as dívidas da instituição financeira em liquidação extrajudicial. Porém, o art. 18, "f", da referida lei foi modificado, no ponto, pelo Decreto-Lei nº 1.477/1976, que prevê a incidência de correção monetária sobre a totalidade das obrigações de responsabilidade das entidades sob regime de liquidação extrajudicial.
+3. A distribuição dos ônus sucumbenciais está relacionada com a quantidade de pedidos requeridos na demanda e o decaimento proporcional das partes em relação a cada pleito. O acolhimento de apenas um dos pedidos dentre dois realizados implica sucumbência recíproca.
+4. Recurso especial parcialmente provido.
+(REsp 1646192/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/03/2017, DJe 24/03/2017).
+Assim, o acórdão recorrido merece reforma parcial, apenas com relação à suspensão da fluência dos juros.
+Diante do exposto, dou provimento parcial ao recurso especial de Companhia Mutual de Seguros - em liquidação para determinar a suspensão da fluência dos juros desde a decretação da liquidação extrajudicial até o pagamento integral do passivo da liquidanda.
+Diante da alteração da condenação do recurso especial, deve o autor arcar com 75% dos ônus sucumbenciais, e os réus com 25%, mantidos os honorários, tal como fixados no acórdão, em 15% sobre o valor da condenação.
+Publique-se.
