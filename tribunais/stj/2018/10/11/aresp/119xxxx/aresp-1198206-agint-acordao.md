@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRETERIÇÃO E INEXISTÊNCIA. REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+1. Não ocorre contrariedade ao art. 535, II, do CPC, quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+2.Não há como se analisar recurso especial que demande incursão na seara probatória, nos termos preconizados pela Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por [NOME] contra decisão que não conheceu do recurso especial.
+O agravante insiste na alegada violação do art. 1.022, II, do Código de Processo Civil e na desnecessidade de reexame de provas para o julgamento da lide.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Verifica-se que a parte agravante não trouxe tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+A decisão monocrática reconheceu a inexistência de violação do art. 535 do Código de Processo Civil.
+Os questionamentos acerca das convocações dos professores foram devidamente apresentados na origem e apreciados pelo Tribunal a quo, não se podendo falar de falta de prestação jurisdicional.
+No ponto:
+Do cotejo dos autos, já em sede de contestação, o ente público traz a relação de professores contratados emergencialmente, durante a vigência do concurso, para a disciplina de Língua Portuguesa, Séries Finais, no município de Porto Alegre (fls. 245-309).
+Após, o Estado trouxe todas as informações requeridas pela parte autora às fls. 349, 380 e 482, as quais revelam a contratação emergencial de 84 professores para a área em que a agravante prestou concurso. Após, nas fls. 580, 606 e 630, restou esclarecido que aos contratos novos e vigentes (2005 a 2007), acrescido dos professores contratados entre 2007 até 2014, acrescido dos professores contratados e extintos de 2007 aos dias atuais, mais as 09 nomeações, resultam num total de 129, sem ocorrer a preterição ao cargo público.
+À fl. 650, no ano de 2015, o Estado informou que um total de 106 professores foram contratados/extintos/renovados no período.
+A ora agravante trouxe aos autos o Ofício nº 1204/2015 AJU/GAB/lg CRE, quando da interposição do agravo interno, que diz respeito às convocações realizadas pelo Estado no período de vigência do concurso, referindo que somente neste momento processual teve acesso ao documento, o qual foi juntado aos autos pelo Estado em processo diverso. No entanto, a própria agravante refere que a listagem anexa "não traz segurança quanto ao nível de ensino no qual atua cada professor relacionado - se para o ensino médio ou para o ensino fundamental/séries finais - o que pode ser essencial para a análise da existência de preterição específica"(fl. 788).
+Por isso, não estando comprovado, cabalmente, em qual nível de ensino tais professores listados no referido documento atuam, não há como proceder a alegação de preterição.
+Todos os documentos trazidos pelo Estado (e pela própria agravante, em petição inicial às fls. 51-76, 124-129 e 136-139) justificam a improcedência da demanda, e sua veracidade não é afastada pelo documento novo trazido somente neste momento processual, pois como a própria agravante afirma, não demonstram o nível de ensino no qual cada professor atua. O novo documento, no caso, mostra que houve contratações, mas não demonstra que os documentos trazidos pelo ente público estão equivocados, mantendo-se a decisão de improcedência da demanda.
+No mais, em se tratando de exame da preterição, a Corte de origem consignou de modo claro a inexistência de preterição da autora.
+Confira-se:
+A questão foi percucientemente analisada pelo nobre presentante do parquet atuante no feito, Dr. [NOME], razão pela qual peço vênia para transcrever excerto do parecer de fls. 763-770:
+A análise da matéria do agravo retido articulado resulta, inexoravelmente, em adiantar o entendimento quanto ao mérito recursal. Pois bem, a agravante sustenta que teve cerceada sua defesa.
+Alegou que postulou várias vezes (fls. 320, 333, 361, 418) a necessidade da prova em mãos do Estado, para que trouxesse aos autos o número de contratos vigentes em data anterior ao ano de 2005 e o número dos contratos que permaneceram vigentes, bem como, o número de contratados durante o período de 2005 a 2007, exonerados e substituídos, a fim de comprovar a necessidade contínua do serviço e a preterição do concursados em face de contratados temporariamente/comissionados.
+Isto porque a agravante logrou êxito no concurso público CPR 01/2005 - SE, D.O.E. de 10/01/2005, em 1962 lugar, para o cargo de Professora do Ensino Fundamental - Série final, disciplina de Língua Portuguesa, Município de , pertencente a área de abrangência da 01P Coordenadoria Regional de Educação - Porto Alegre/RS, homologado no Edital n2 21, D.O.E de 21/09/2005, suplemento, cujo prazo de validade expirou em 21/09/2007. Salientou que foram realizadas nove nomeações para o Ensino Fundamental, mantendo contrato temporário com o Estado.
+Referiu o Estado informou ter contratado emergencialmente, dentro do período de validade do certame, 84 professores para área em que a agravante prestou concurso, consoante os documentos de fls. 349, 380, 482.
+Esta informação veio repetida nas fls. 349, 380, 482, dando conta de que foram efetuadas 84 contratações, sem, contudo, informar as contratações anteriores que permaneceram durante o período de validade do concurso. Nas fls. 580, 606 e 630, o Estado esclareceu que teve o número de contratos novos e vigentes, no período de 2005 a 2007, acrescidos do número de professores contratados no período de 2007 até 2014, somados ao número professores contratados e contratos extintos no período 2005/2007 e o número de contratados e extintos de 2007 aos dias atuais, bem como às nove nomeações, totaliza o número 129, sem, assim, ocorrer a referida preterição ao cargo público. Em janeiro de 2015, na fl. 650, informou que foram no total de 106 professores contratados/extintos/renovados no período.
+Foram vários requerimentos que vieram respondidas pelo ente público.
+De modo que não há falar em cerceamento de defesa, porquanto o magistrado deferiu várias vezes o pedido do agravante e consoante o art.
+130 e 131 do CPC, só defere provas que entender cabíveis ou veda as provas que entender por desnecessárias para sentenciar segundo sua convicção.
+No caso dos autos, firmada sua convicção, encerrou a instrução e julgou o feito, haja vista que demonstrado que o número de contratados não ultrapassam a classificação da agravante, impondo concluir que não houve preterição e assim, inocorre direito subjetivo à nomeação.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
