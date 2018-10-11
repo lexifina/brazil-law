@@ -1,0 +1,12 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONVERSÃO DOS VENCIMENTOS EM URV. RECURSO ESPECIAL QUE TEVE SEGUIMENTO NEGADO COM FUNDAMENTO NO ART. 1.040, I DO CÓDIGO FUX. INEXISTÊNCIA DE NOVO RECURSO APÓS O JULGAMENTO DO AGRAVO INTERNO. AUSÊNCIA DE DEVOLUÇÃO RECURSAL AO STJ. TRÂNSITO EM JULGADO JÁ CERTIFICADO. DETERMINAÇÃO DE DEVOLUÇÃO DOS AUTOS À EGRÉGIA CORTE REGIONAL PARA PROSSEGUIMENTO DO FEITO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pelo MUNICÍPIO DE SANTO ANDRÉ/SP, com fundamento nas alíneas a e c do art. 105, inciso III da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+2. Por ocasião do juízo de admissibilidade, foi negado seguimento ao Recurso Especial do MUNICÍPIO DE SANTO ANDRÉ/SP, com fundamento no art. 543-C, § 7o., I do CPC/1973, atual art. 1.040, I do Código Fux, no que diz respeito à prescrição, bem como sobre a obrigatoriedade de incidência da Lei 8.880/1994 ao Distrito Federal, Estados e Municípios quando da conversão dos vencimentos em URV, sob o fundamento de que a decisão guerreada se ajusta ao quanto decidido no REsp. 1.101.726/SP, julgado de acordo com o regime dos recursos repetitivos.
+3. Em relação aos demais temas suscitados pela parte recorrente, a insurgência restou inadmitida ante a incidência da Súmula 7/STJ e a ausência de demonstração de divergência jurisprudencial.
+4. Diante do juízo negativo de admissibilidade, o MUNICÍPIO DE SANTOS/SP interpôs Agravo (fls. 206/220), que restou recebido pelo Tribunal de origem como Agravo Interno, na forma do art. 1.030, § 2o. do Código Fux, e nos termos do art. 33-A do Regimento Interno do Tribunal de Justiça do Estado de São Paulo. A questão restou dirimida nos termos da decisão acostada às fls. 229/237.
+5. Após a publicação do acórdão, e não sobrevindo insurgência recursal, foi certificado o trânsito em julgado em 22.2.2018 (fls. 240).
+6. É o relatório.
+7. Do que consta nos autos, verifica-se que inexiste Agravo em Recurso Especial apto a ser apreciado, uma vez que o Tribunal de origem converteu a peça recursal de fls. 206/220 em Agravo Interno e proferiu julgamento, não havendo irresignação das partes.
+8. Desse modo, inexistindo qualquer manifestação recursal das partes interessadas, esta nova apreciação transitou em julgado (fls. 240), não havendo qualquer devolução recursal esta Corte Superior.
+9. Ante o exposto, retornem os autos à egrégia Corte Regional para regular prosseguimento do feito.
+10. Publique-se. Intimações necessárias.
