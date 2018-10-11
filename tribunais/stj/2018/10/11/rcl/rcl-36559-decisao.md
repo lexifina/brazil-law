@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de reclamação proposta contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+O reclamante sustenta afronta à decisão proferida pelo STJ nos autos do AREsp n. 629.885/PA. Destaca que (e-STJ fl. 7):
+(..) o Reclamante se insurge APENAS quanto a determinação do cálculo, levando-se em consideração SOMENTE UMA DAS AÇÕES (ordinárias de indébito fiscal) o que confronta com a decisão do colendo STJ, que diz ter o Reclamante o direito líquido, certo e exigível (pelo transito em julgado), sobre duas ações, ou seja:
+(..)
+A decisão ora Reclamada, publicada no DJE-TJPA merece reforma somente no que se refere a determinação de elaboração de cálculo pericial, considerando-se apenas uma ação em vez das DUAS como reconhecidas e determinada pelo egrégio STJ.
+Requer a procedência da presente reclamação.
+É o breve relatório.
+Decido.
+Determina o art. 988, § 2º, do CPC/2015:
+Caberá reclamação da parte interessada ou do Ministério Público para:
+(..)
+§ 2o A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+Na tese dos autos, a inicial não foi instruída com os documentos necessários para a apreciação do seu mérito, pois ausente a decisão reclamada.
+Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO. RECLAMAÇÃO. INSTRUÇÃO. PROVA DOCUMENTAL. NECESSIDADE. ART. 988, § 2º, DO CPC/2015. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Em conformidade com os princípios da fungibilidade e da economia processual e tendo em vista que o pedido de reconsideração não consta do rol de recursos do art. 994 do NCPC, é possível o recebimento pedido de reconsideração como agravo interno. (RCD no AREsp 886.650/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/05/2016, DJe 25/05/2016).
+2. O art. 988, § 2º, do NCPC exige a instrução da petição inicial da reclamação com todos os documentos indispensáveis à propositura da ação. Assim, o pedido inicial deverá ser instruído com documentos capazes de comprovar as alegações da parte reclamante.
+3. "O cabimento da reclamação calcada na garantia da autoridade das decisões do tribunal (art. 988, II, CPC/2015) surge por ocasião de eventual descumprimento de ordens emanadas desta Corte aplicáveis especificamente para o caso concreto, não sendo esta a hipótese retrata nos autos". (AgInt na Rcl 32.938/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 22/02/2017, DJe 07/03/2017) 4. A reclamação não é passível de utilização como sucedâneo recursal, com vistas a discutir o teor da decisão hostilizada.
+5. Pedido de reconsideração recebido como agravo interno, a qual se nega provimento.
+(RCD nos EDcl na PET na Rcl n. 32.221/DF, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10/5/2017, DJe 25/5/2017.)
+PROCESSO CIVIL. RECLAMAÇÃO CONSTITUCIONAL. INSTRUÇÃO DEFICIENTE. PETIÇÃO INICIAL. NÃO APRESENTAÇÃO DE CÓPIA DO INTEIRO TEOR DA DECISÃO RECLAMADA.
+1. A reclamação, tal como concebida nos arts. 105, I, "f", da Constituição Federal e 187 do RISTJ, é medida de caráter restrito destinada a preservar a competência do Tribunal ou garantir a autoridade das suas decisões.
+2. O pedido inicial deverá ser instruído com documentos capazes de comprovar as alegações do reclamante.
+3. Petição inicial indeferida. Processo extinto sem resolução do mérito.
+(Rcl n. 9.395/DF, Relator Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 10/8/2016, DJe 22/8/2016.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. AUSÊNCIA DE CERTIDÃO DE PUBLICAÇÃO DO ACÓRDÃO, INDISPENSÁVEL PARA SE AFERIR A TEMPESTIVIDADE DA RECLAMAÇÃO E DE CÓPIA INTEGRAL DO ACÓRDÃO IMPUGNADO. JUNTADA POSTERIOR. IMPOSSIBILIDADE.
+1. Cuida-se de reclamação, com fundamento no art. 105, I, "f", da CF, c/c com os arts. 187 a 192 do RISTJ, contra suposto acórdão proferido pela 2ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul.
+2. A reclamante não instruiu a reclamação com os documentos necessários para sua apreciação, ou seja, cópia integral do acórdão proferido, bem como certidão de publicação do acórdão, indispensável para se aferir a tempestividade do clamor.
+3. Agravo regimental não provido.
+(AgRg na Rcl n. 11.823/RS, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/2/2014, DJe 19/2/2014.)
+Além disso, mesmo que superado o referido óbice, não há falar que a decisão proferida no AREsp n. 629.559/PA reconheceu que "deve, o patrono do excipiente, ter remunerada sua pretensão de serviço de advocacia pelo pagamento de honorários contratuais" (e-STJ fl. 7).
+Esta Corte superior não apreciou questão dos honorários apresentada no recurso especial da parte interessada, porque incidia na hipótese a Súmula n. 283 do STF, fazendo-o nos seguintes termos (e-STJ fl. 19):
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que o cálculo da verba honorária, levando-se em consideração o quantum mensal, acarretaria sentença extra petita, pois, na inicial, foram pleiteados apenas os honorários especificados. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, dissentir das conclusões do acórdão impugnado implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto na Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Diante do exposto, INDEFIRO a petição inicial da presente reclamação e JULGO extinto o processo sem resolução do mérito (art. 485, I, do CPC/2015).
+Publique-se e intimem-se.
