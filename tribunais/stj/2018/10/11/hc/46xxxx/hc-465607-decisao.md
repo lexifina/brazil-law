@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+O paciente foi condenado, em sentença confirmada pela Corte a quo, pelos crimes previstos nos artigos 33 e 35 da Lei de Drogas, à pena de 8 anos de reclusão em regime inicial fechado, além do pagamento de 1200 dias-multa.
+Neste writ, pretende-se que o regime inicial de cumprimento da reprimenda seja abrandado, tendo em vista a primariedade do réu, bem como o fato de ambas as penas terem sido fixadas no mínimo legal, em patamar total não excedente à 8 anos, nos termos autorizados pelo artigo 33, §2, "b", do Código Penal.
+Requer, assim, inclusive liminarmente, a concessão da ordem para determinar o regime inicial semiaberto no início da execução criminal.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+É o relatório.
+DECIDO.
+Na sentença, foi fixada a pena mínima em ambos os crimes - tráfico e associação -, sendo as reprimendas somadas ao final, nos seguintes termos (fls. 36/38):
+2.4.1 Dosimetria
+ I) [NOME]) Delito previsto no art. 33, caput, da Lei 11.343/06
+Na primeira fase da dosimetria da pena observa-se que a culpabilidade do réu para o delito de tráfico de entorpecentes é inerente ao tipo penal; o réu é primário e não possuiu maus antecedentes, não há informações sobre a conduta social do réu ou sobre sua personalidade; os motivos são os inerentes ao delito, assim como as circunstâncias nas quais foi praticado e consequências do delito. Não há se falar em comportamento da vítima em razão da natureza do delito.
+No caso de tráfico de drogas, deverá ser considerado com preponderância sobre o previsto no art. 59, do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente (art. 42, da Lei de Drogas).
+Quanto à natureza, observa-se terem sido apreendidos 150 gramas de "maconha", acondicionados em 11 pacotes. A quantia apreendida não é elevada, pelo que fixo a pena base no mínimo, 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na segunda fase, não há agravantes. Contudo, o réu confessou a prática de tráfico perante o juízo, e o seu depoimento foi utilizado como fundamento para a condenação, razão pela qual reconheço a atenuante (art. 65, III, "d" do CP). Presente também a atenuante prevista no art. 65, I do CP.
+A despeito do reconhecimento das atenuantes, considerando que a pena não pode fica aquém do mínimo legal, consoante entendimento sumulado pelo Superior Tribunal de Justiça, deixo de atenuar a pena.
+Na terceira fase, não se encontram presentes causas de aumento ou diminuição da pena. Assim sendo, fixo a pena definitiva para o delito em 5 anos de reclusão e 500 dias-multa.
+b) Delito previsto no art. 35, caput, da Lei nº. 11.343/2006
+Na primeira fase da dosimetria da pena observa-se que a culpabilidade do réu para o delito de associação para o tráfico de entorpecentes é inerente ao tipo penal; o réu é primário e não possuiu maus antecedentes, não há informações sobre a conduta social do réu ou sobre sua personalidade; os motivos são os inerentes ao delito, assim como as circunstâncias nas quais foi praticado e consequências do delito. Não há se falar em comportamento da vítima em razão da natureza do delito.
+Assim, fixo a pena base no mínimo legal, qual seja, 3 anos de reclusão e 700 dias- multa.
+Na segunda fase, presente a atenuante prevista no art. 65, I do CP, contudo, uma vez que a pena não pode ficar aquém do mínimo legal, deixo de aplicá-la.
+Na terceira fase, não se encontram presentes causas de aumento ou diminuição da pena. Fixo a pena definitiva em 3 anos de reclusão e 700 dias-multa.
+c) Concurso material
+Tendo o agente, mediante mais de uma ação, praticado dois crimes, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido.
+Assim, a pena total aplicada alcança 08 anos de reclusão e 1200 dias-multa.
+No tocante ao regime inicial, em que pese ter traçado premissas consonantes à orientação desta Corte, estabeleceu-se o regime fechado (fl. 40):
+2.4.2 Do regime de cumprimento inicial da pena
+ Quanto à fixação do regime inicial de cumprimento de pena, necessário esclarecer que os réus foram condenados pelo delito de tráfico de drogas, o qual é equiparado ao hediondo e, por força do art. 2º, §1º, da Lei nº. 8.072/90, o regime inicial de cumprimento de pena deve ser o fechado. Contudo, o Supremo Tribunal Federal declarou a inconstitucionalidade da determinação por ocasião do julgamento do HC 111.840/ES, em 27/06/2012.
+Assim sendo, não há vedação à fixação de regime inicial diverso do fechado, mesmo a condenados por tráfico de drogas, consoante o entendimento do STF, por força da necessária individualização da pena, que implica na necessidade de se observarem as circunstâncias do caso concreto e de cada condenado.
+No caso, por se tratar de concurso material de crimes, o regime inicial deve ser fixado tendo por base a somatória das penas aplicadas, consoante sedimentado pelo Superior Tribunal de Justiça:
+Reconhecida a existência do concurso material entre os delitos de tráfico de drogas e associação para o narcotráfico, o regime inicial de cumprimento de pena deve ser fixado de acordo com a soma resultante das penas impostas pelos delitos, consoante o disposto no artigo 111 da Lei de Execução Penal (HC n. 232.948/TO, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 14/04/2014).
+Nos termos do art. 59, III, do Código Penal, portanto, considerando o requisito objetivo (a quantidade de pena fixada: a) para o réu [NOME]  8 anos de reclusão  e b) para o réu Marlon  10 anos, 3 meses e 6 dias de reclusão ), as penas aplicadas aos réus deverão ser cumpridas em regime inicialmente fechado (art. 33, §2º, "a", do CP).
+Ao analisar, em sede de apelação defensiva, o regime de cumprimento da reprimenda fixado em 1º grau, o Tribunal local manteve o mais gravoso em virtude da gravidade abstrata do delito de drogas. Vejamos (fls. 26/27):
+Finalmente, em relação ao regime de cumprimento de pena, não bastasse a reincidência e maus antecedentes de um dos réus, cumpre considerar que o tráfico de drogas é extremamente grave, causa indiscutível abalo à ordem pública, na medida em que o traficante consegue atingir um número elevado de pessoas, que acabam se envolvendo em outros crimes. Por isso, inclusive em face do delito ser equiparado aos hediondos, o regime inicial fechado é o que se tem como único possível, até mesmo em razão da quantidade da pena imposta, observando-se que esse mesmo motivo impede qualquer tipo de substituição da pena privativa de liberdade.
+Em suma, o improvimento dos recursos é medida que se impõe.
+Com efeito, esta Corte Superior detém entendimento de que reconhecida a existência do concurso material entre os delitos de tráfico de drogas e associação para o narcotráfico, o regime inicial de cumprimento de pena deve ser fixado de acordo com a soma resultante das penas impostas pelos delitos, consoante o disposto no artigo 111 da Lei de Execução Penal (HC n. 232.948/TO, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 14/04/2014).
+No que concerne ao argumento trazido pela Corte de origem na apelação defensiva, como fundamento para imposição do regime mais gravoso, ressalto que no julgamento do HC n. 111.840/ES (Rel. Min. Dias Toffoli), em que Plenário do STF afastou a obrigatoriedade de imposição de regime inicial fechado aos condenados por crimes hediondos ou equiparados, consignou-se que as regras do art. 33 do CP deveriam ser utilizadas também na fixação do regime prisional inicial dos crimes hediondos e equiparados, daí o constrangimento ilegal.
+Nesse sentido, veja-se que o § 3º do art. 33 do CP estabelece que a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código. Ou seja, exige-se fundamentação concreta para a fixação de regime inicial mais gravoso do que a pena aplicada permite, nos termos do disposto nas Súmulas 440/STJ, 718 e 719/STF. No mesmo sentido: STJ, HC 217.931/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/08/2012, DJe de 27/08/2012.
+Assim, não se justifica a imposição do regime inicial fechado, a réu primário, condenado à pena mínima em ambos os delitos, não excedente a 8 anos no total, em coerência com a orientação firmada na Súmula 440/STJ e conforme dispõe o art. 33, § 2º, alínea "b" e § 3º, do Código Penal.
+Nesse contexto, como bem salientou o Parquet Federal, considerando que a pena imposta ao paciente primário foi fixada, após a soma decorrente do concurso material, em 8 anos de reclusão, imperioso concluir que o regime inicial para cumprimento da reprimenda deve ser o semiaberto.
+Ante o exposto, concedo o habeas corpus para fixar o regime semiaberto como inicial para o cumprimento de pena.
+Comunique-se.
+Publique-se.
+Intimem-se.
