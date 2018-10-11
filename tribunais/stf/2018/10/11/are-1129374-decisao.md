@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – IMPROPRIEDADE – AGRAVO DESPROVIDO.
+    1. Observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Proclamou-se:
+    Demais a mais nada a ser consertado quanto à alegação de que o i. Perito se distanciou da realidade imobiliária existente no Parque Jabaquara, com base em valores defasados da Cafuja. Referida questão foi devidamente enfrentada pela sentença monocrática. Senão vejamos:
+    Em relação ao unitário básico do terreno (na frente de análise fator favela), o valor atribuído ao terreno está fundamentado no "Relatório Final da Comissão de Peritos" nomeada pela Portaria CAJUFA 02/2011, estabelecendo critérios, parâmetros, valores unitários de terrenos e metodologia para as avaliações dos imóveis atingidos pelo "Prolongamento da Avenida Jornalista Roberto Marinho Águas Espraiadas".
+    Ficou estabelecido no item "c" do Capítulo 4 do referido Relatório que: "nos imóveis inseridos em áreas ocupadas por favela, a avaliação deverá considerar tanto a titularidade de domínio quanto o exercício da posse. Se o titular de domínio também for detentor da posse do imóvel, deve-se pleno da Tabela.
+    Resumo deste trabalho para o logradouro do imóvel, não comportando a aplicação de fator redutor adicional ("fator favela"). Caso o titular do domínio não seja detentor da posse do imóvel, para fins de avaliação, a Comissão recomenda, face a ausência de mercado imobiliário formal para o bem, considerar a aplicação de percentual depreciativo de, no mínimo, 80%, ou seja, a avaliação do terreno será estabelecida, por arbitramento, em, no máximo, 20% do valor unitário de terreno contido na Tabela de Resumo. Tal percentual deverá ser justificado a partir das peculiaridades do imóvel avaliando".
+    O local está todo ocupado por favela. O Sr. Perito aplicou depreciou o valor do imóvel em 85%, correspondente a imóvel tomado por densa favela, lindeiro a córrego. A presença de favela deteriora extremamente o local, reduzindo, em muito, sua viabilidade econômica. Ademais, há de ser considerado que no local há uma favela consolidada e os expropriados sequer demonstraram que dispõe do imóvel, visto que a ocupação pode gerar a perda da propriedade.
+    Nada a reparar quanto ao valor unitário básico do terreno, que foi fixado com fundamento no "Relatório Final da Comissão de Peritos", nomeada pela Porta ria Cajufa 02/2011, atualizado conforme Ofício 04/14, como bem esclarecido na manifestação pericial de fls. 279 e seguintes. As benfeitorias/construções foram corretamente classificadas. As fotografias juntadas demonstram que elas se enquadram na faixa média de padrão barrado simples, visto que atendem os requisitos indicados às fls. 289.
+    Dessa forma, os expropriados não conseguiram abalar o bem fundamentado laudo do perito judicial, não trazendo em suas críticas nenhum elemento substancial que pudesse contaminar o referido laudo, nem demonstrar eventual inconsistência do valor apresentado, motivo pelo qual deve ser mantida a indenização firmada em 1º grau.
+    (…)
+    Destarte, o valor adotado judicialmente mostra-se justo e correto para o desate da questão, até mesmo porque o intuito dos expropriados é apenas o de majorar a indenização, conforme seus anseios. Assim, merece prevalecer o valor fixado em sentença à luz dos exames técnicos.
+    2. Ante o quadro, conheço deste agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 11 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
