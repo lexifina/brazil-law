@@ -1,0 +1,67 @@
+EMENTA
+CIVIL. CONSUMIDOR. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. [NOME]. AUSÊNCIA DE DISCUSSÃO SOBRE DÚVIDA RAZOÁVEL NA INTERPRETAÇÃO DO CONTRATO. ATENDIMENTO DE EMERGÊNCIA. PRAZO DE COBERTURA PARCIAL TEMPORÁRIA PARA DOENÇAS PREEXISTENTES. COBERTURA. NEGATIVA INDEVIDA. MERO ABORRECIMENTO. DESCARACTERIZAÇÃO. DANO MORAL IN RE IPSA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de obrigação de fazer com pedido de antecipação dos efeitos da tutela combinado com indenização por danos morais contra UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO (UNIMED), que foi julgada parcialmente procedente.
+Inconformados, [NOME] e UNIMED apelaram da sentença. O aresto se encontra assim sintetizado:
+PLANO DE SAÚDE Operadora que se recusou a custear cirurgia em caráter de urgência antes de decorrido o prazo de cobertura parcial temporária (CPT) Inexigível o cumprimento de período de carência ou cobertura parcial temporária superior a 24 horas em casos de urgência/emergência Artigo 12, V, "c" e artigo 35-C, II da Lei nº 9.656/98 Súmula 103 deste Tribunal de Justiça Irrelevância da Resolução nº 13 do CONSU.
+PLANO DE SAÚDE Indenização por danos morais Descabimento Negativa de cobertura que decorreu de indevida interpretação contratual Ausência de ofensa aos direitos da personalidade ou à honra do contratante Recursos desprovidos (e-STJ, fl. 314).
+Os embargos de declaração opostos por [NOME] foram rejeitados (e-STJ, fls. 341/343).
+A UNIMED também opôs embargos de declaração que foram rejeitados (e-STJ, fls. 349/351).
+Irresignado, [NOME] interpôs recurso especial, fundado no art. 105, III, a, da Constituição Federal, alegando ofensa aos arts. 186 e 927 do CC/02, ao sustentar que a UNIMED cometeu ato ilícito, causando prejuízos psicológicos aos autores, devendo ser indenizados pelos danos suportados.
+As contrarrazões não foram apresentadas (e-STJ, fl. 370).
+O apelo nobre foi admitido na origem (e-STJ, fls. 371/372).
+É o relatório.
+DECIDO.
+O recurso comporta provimento.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do dano moral
+A Terceira Turma do STJ pacificou o entendimento de que, embora, em regra, a indevida negativa de cobertura enseje a reparação por dano extrapatrimonial, este deve ser afastado, caso haja dúvida razoável na interpretação do contrato, porquanto descaracterizada a conduta ilegítima da operadora do plano de saúde.
+Nesse entendimento, os recentíssimos julgados:
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. OBESIDADE MÓRBIDA. INTERNAÇÃO EM CLÍNICA MÉDICA ESPECIALIZADA. POSSIBILIDADE. INSUCESSO DE TRATAMENTOS MULTIDISCIPLINARES AMBULATORIAIS. CONTRA-INDICAÇÃO DE [NOME]. DOENÇA COBERTA. SITUAÇÃO GRAVE E EMERGENCIAL. FINALIDADE ESTÉTICA E REJUVENESCEDORA. DESCARACTERIZAÇÃO. MELHORIA DA SAÚDE. COMBATE ÀS COMORBIDADES. NECESSIDADE. DISTINÇÃO ENTRE CLÍNICA DE EMAGRECIMENTO E SPA. DANO MORAL. NÃO CONFIGURAÇÃO.
+(..)
+10. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+11. Há situações em que existe dúvida jurídica razoável na interpretação de cláusula contratual, não podendo ser reputada ilegítima ou injusta, violadora de direitos imateriais, a conduta de operadora que optar pela restrição de cobertura sem ofender, em contrapartida, os deveres anexos do contrato, tal qual a boa-fé, o que afasta a pretensão de compensação por danos morais.
+12. Recurso especial parcialmente provido.
+(REsp 1.645.762/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/12/2017 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. TRATAMENTO DE INJEÇÃO INTRA-VÍTREA (LUCENTIS). RECUSA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. DANOS MORAIS. NÃO CONFIGURAÇÃO.
+1. Ação ordinária que visa a cobertura de tratamento ocular com medicamento (Lucentis) bem como a compensação por danos morais.
+2. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+3. Há situações em que existe dúvida jurídica razoável na interpretação de cláusula contratual, não podendo ser reputada ilegítima ou injusta, violadora de direitos imateriais, a conduta de operadora que optar pela restrição de cobertura sem ofender, em contrapartida, os deveres anexos do contrato, tal qual a boa-fé, o que afasta a pretensão de compensação por danos morais.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.134.706/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 23/11/2017 - sem destaque no original)
+CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E DE COMPENSAÇÃO DE DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO. DOENÇA. COBERTURA. RECUSA INJUSTIFICADA. DEVERES ANEXOS OU LATERAIS. BOA-FÉ OBJETIVA. VIOLAÇÃO. DANO MORAL. OCORRÊNCIA.
+1. O propósito recursal é determinar se a negativa da seguradora ou operadora de plano de saúde em custear tratamento de doença coberta pelo contrato tem, por si só, a aptidão de causar dano moral ao consumidor segurado.
+2. Embora o mero inadimplemento, geralmente, não seja causa para ocorrência de danos morais, a jurisprudência do STJ vem reconhecendo o abalo aos direitos da personalidade advindos da recusa indevida e ilegal de cobertura securitária, na medida em que a conduta agrava a já existente situação de aflição psicológica e de angústia no espírito do segurado.
+3. A recusa indevida e abusiva de cobertura médica essencial à cura de enfermidade coberta por plano de saúde contratado caracteriza o dano moral, pois há frustração da justa e legítima expectativa do consumidor de obter o tratamento correto à doença que o acomete.
+4. Existem situações, todavia, em que a recusa não é indevida e abusiva, sendo possível afastar a presunção de dano moral, pois dúvida razoável na interpretação do contrato não configura conduta ilícita capaz de ensejar indenização.
+5. O critério distintivo entre uma e outra hipótese é a eventualidade de a negativa da seguradora pautar-se nos deveres laterais decorrentes da boa-fé objetiva, a qual impõe um padrão de conduta a ambos os contratantes no sentido da recíproca colaboração, notadamente, com a prestação das informações necessárias ao aclaramento dos direitos entabulados no pacto e com a atuação em conformidade com a confiança depositada.
+6. In casu, o tratamento para a doença (neoplasia) por meio de radioterapia teria sido previsto no contrato, e a negativa de cobertura teria sido justificada pelo fato de o método específico de tratamento não estar previsto na lista de procedimentos da Agência Nacional de Saúde. Como a negativa de cobertura não estava expressa e destacada no contrato e como o tratamento seria necessário e indispensável à melhora da saúde, a recusa ao custeio do tratamento mostra-se injusta e decorrente de abuso, violando a justa expectativa da parte, o que revela a existência de dano moral a ser indenizado.
+7. Recurso especial conhecido e provido.
+(REsp 1.651.289/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 5/5/2017 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO HOME CARE. TRATAMENTO DEFERIDO JUDICIALMENTE. RECUSA FUNDADA EM INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INEXISTÊNCIA DE DANO MORAL. INCIDÊNCIA DAS SÚMULAS 5 E 7 DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. A recusa da operadora do plano de saúde baseou-se na ausência de previsão contratual para o fornecimento de home care. Dúvida razoável na interpretação do contrato que não configura conduta ilícita capaz de ensejar indenização. Incidência das Súmulas 5 e 7/STJ.
+2. Agravo desprovido.
+(AgInt no AREsp 983.652/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 2/2/2017 - sem destaque no original)
+Ocorre que, na hipótese dos autos, não se cuidou de dúvida na interpretação do contrato e, sim, de recusa a dar cobertura financeira a tratamento emergencial, sob o fundamento de que não havia transcorrido o prazo de cobertura parcial temporária para doenças preexistentes.
+Pois bem.
+O Superior Tribunal de Justiça compreende que, embora o mero descumprimento contratual não justifique indenização por dano moral, nos casos em que a operadora recusa cobertura para tratamento de emergência, deve ser reconhecido o dano extrapatrimonial, porque a situação não causa apenas mero aborrecimento.
+Nessa mesma orientação, vejam-se os julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA TRATAMENTO DE EMERGÊNCIA DE DOENÇA GRAVE. PERÍODO DE CARÊNCIA. CLÁUSULA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento emergencial, como ocorrido no presente caso, em que a autora buscava realizar procedimento para tratamento de câncer, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+(AgInt no AREsp 872.156/CE, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 20/3/2017 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CARÊNCIA. CONTRATO QUE AFASTA A NECESSIDADE DE CUMPRIMENTO DO PRAZO. SÚMULAS N. 5 E 7 DO STJ. ATENDIMENTO DE EMERGÊNCIA. AFASTAMENTO DA CARÊNCIA. SÚMULA 83/STJ. RECUSA NO ATENDIMENTO. DANO MORAL. CONFIGURAÇÃO. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+ ..
+3. O entendimento firmado no STJ é no sentido de que há caracterização do dano moral quando a operadora do plano de saúde se recusa à cobertura do tratamento médico emergencial ou de urgência, como no caso dos autos, não havendo que se falar em mero aborrecimento por inadimplemento contratual. Aplicação da Súmula 83/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 854.954/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 6/6/2016 - sem destaque no original)
+Na hipótese, o acórdão de origem, não obstante tivesse reconhecido ser indevida a recusa da OPERADORA de custear as despesas médicas, havidas em situação de urgência, compreendeu não ser cabível a reparação por danos morais:
+Por fim, no que diz respeito ao pleito de indenização por danos morais, razão não assiste ao requerente. Isto porque, conquanto não se desconheça os dissabores sofridos pelo autor em razão da recusa de cobertura, o que se extrai dos autos é que a ré não autorizou o custeio do procedimento cirúrgico por acreditar que o contrato entabulado amparava tal conduta.
+E tal postura acaba situando-se no campo dos conflitos de interesses negociais, não avançando para o âmbito da ofensa aos direitos da personalidade e da honra do contratante, ensejadora da pretendida reparação por dano moral. É que a interpretação errônea da relação contratual não dá margem à fixação de tal indenização.
+Nessa conformidade, o Egrégio Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1244781/RS, relatora a Ministra Maria Isabel Gallotti, assim se pronunciou a respeito do tema: "O inadimplemento motivado pela discussão razoável acerca do descumprimento de obrigação contratual, em regra, não causa, por si só, dano moral, que pressupõe ofensa anormal à personalidade" (e-STJ, fls. 317/318 - sem destaques no original).
+Dessarte, por dissentir da jurisprudência desta Corte, que compreende haver, nesse caso, dano moral in re ipsa, o acórdão recorrido merece reparos quanto a esse ponto, reconhecendo-se o cabimento da indenização por dano moral.
+Ressalta-se, ainda, que consoante a Súmula nº 568 do STJ, O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, DOU PROVIMENTO ao recurso especial para julgar procedente o pedido indenizatório por danos morais e arbitrar a reparação em R$ 5.000,00 (cinco mil reais), acrescida de correção monetária a partir desta data (Súmula nº 362 do STJ) e de juros moratórios a partir da citação, à base de 1% (um por cento) ao mês.
+Condeno ainda a UNIMED ao pagamento integral das custas e despesas processuais, bem assim em honorários advocatícios, os quais fixo em 20% sobre o valor da condenação.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
