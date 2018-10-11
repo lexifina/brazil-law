@@ -1,0 +1,10 @@
+DECISÃO
+1. Trata-se de Agravo Interno interposto pelo INSS em face da decisão que deu provimento ao Recurso Especial interposto pelos Segurados, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. APLICAÇÃO DO ART. 144 DA LEI 8.213/1991. NÃO PREVISÃO NO TÍTULO EXECUTIVO JUDICIAL EXEQUENDO. OBSERVÂNCIA DA COISA JULGADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+2. Sustenta o agravante que é imprescindível que se esclareça que o excesso de execução alegado pelo INSS, que enseja a violação ao art. 741, II, do CPC/1973, surgiu com a apresentação dos cálculos pelo exequente, já no processo de execução. Isso porque, o momento da apresentação da conta é, exatamente, o tempo processual adequado para a apresentação dos argumentos acerca do que é ou não devido, eis que a autarquia então verifica se o cálculo está de acordo com o título executivo. Nesse contexto, a preclusão alegada não tem amparo jurídico, pois a concessão da revisão do benefício pela autarquia não é fato impeditivo ou modificativo do direito do autor mas, simplesmente, motivo de inexigibilidade do título no período em que há concomitância, haja vista que a lei não permite tal cumulação.
+3. É o relatório.
+4. Assiste razão à Autarquia.
+5. Melhor analisando os autos, o que se verifica é que a Corte de origem consignou que a revisão, amparada no art. 144 da Lei 8.213/1991, foi realizada na via administrativa, excluindo, assim, da execução os valores já pagos administrativamente.
+6. Tal orientação está em harmonia com a jurisprudência desta Corte que embora se reconheça incabível, em sede de Embargos à Execução, a discussão acerca de possíveis compensações que poderiam ter sido alegadas no processo de conhecimento, sob pena de violação ao princípio da coisa julgada, admite-se a compensação com valores já pago na via administrativa.
+7. Ante o exposto, dá-se provimento ao Agravo Interno para em juízo de retratação, negar provimento ao Agravo em Recurso Especial dos Segurados.
+8. Publique-se. Intimações necessárias.
