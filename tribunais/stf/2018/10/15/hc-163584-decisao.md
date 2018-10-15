@@ -1,0 +1,36 @@
+Decisão: Trata-se de habeas corpus, impetrado por Pedro Ivo Campos Rodrigues, em favor de Silas Diniz Paixão, contra decisão monocrática proferida por Ministro Relator do STJ, nos autos do HC 471.072/PA.
+    Colho o relatório do STJ:
+    “Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de SILAS DINIZ PAIXÃO, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará no Habeas Corpus n.º 0806121-20.2018.8.14.0000.
+    Consta dos autos que o Paciente – acusado da prática do crime de furto realizado a um estabelecimento comercial, previsto no art. 155, § 4.º, incisos I e IV, do Código Penal – teve sua prisão preventiva decretada, tendo em vista a sua ausência em audiência de instrução criminal.
+    Conforme informações colhidas nos autos, a prisão do Paciente ocorreu na data de 04/10/2017, em razão de flagrante por tráfico de entorpecentes, uma vez que estava na condição de réu foragido quanto ao delito de furto qualificado.
+    O Juízo da Vara Única da Comarca de Anajás/PA, em 02/08/2018, indeferiu o pedido de revogação da prisão preventiva ao fundamento de garantia da instrução processual e da aplicação da lei penal (fl. 29).
+    Inconformada, a Defesa impetrou habeas corpus perante Corte a quo, que denegou a ordem em acórdão assim ementado, litteris (fl. 18):
+    ‘HABEAS CORPUS LIBERATÓRIO COM PEDIDO DE LIMINAR. CONSTRANGIMENTO ILEGAL. PRESO E POSTERIORMENTE SOLTO. REVOGAÇÃO DA PRISÃO PREVENTIVA. RÉU QUE ESTAVA NA CONDIÇÃO DE FORAGIDO. CONSISTÊNCIA DOS REQUISITOS DA PRISÃO PREVENTIVA. PREDICADOS INSUFICIENTES. DENEGAÇÃO. 1. Em face da condição de foragido do paciente quando de sua prisão por outro crime, momento em que o Juízo a quo tomou conhecimento de seu paradeiro, não há legitimação para a alegação de inexistência de motivos para a prisão preventiva, diante do risco de violação à instrução criminal e futura aplicação da lei penal, principalmente da fundamentação idônea do decreto preventivo, decretado bem antes da prisão do acusado por outro crime. 2. Medidas cautelares diversas da prisão só se aplicam nos casos em que inexiste a necessidade da prisão preventiva, o que já se mostrou infrutífera no presente caso, em que o réu, solto, além de se furtar aos chamados da Justiça, mudou-se de endereço para fora do distrito da culpa sem comunicar ao magistrado, e ainda foi preso em flagrante pela prática de outro crime. 3. Ordem denegada. Decisão unânime.’
+    No presente writ, a Defesa alega ausência dos requisitos autorizadores da prisão preventiva e excesso de prazo na formação da culpa.
+    Narra o Impetrante que o Paciente está custodiado há 11 (onze) meses, desde o dia 04/10/2017, e que, numa eventual condenação, estaria em regime prisional menos gravoso.
+    Aduz, ainda, que ‘se até o momento não houve audiência de instrução e julgamento, é por culpa única do ESTADO, pois por duas vezes o impetrante não foi levado a audiência em razão de impossibilidade única do PODER JUDICIÁRIO E SISTEMA PRISIONAL PARAENSE’ (fl. 14).
+    Requer, liminarmente e no mérito, a revogação da custódia cautelar ou, subsidiariamente, a concessão de medidas cautelares diversas da prisão.
+    É o relatório inicial”. (eDOC 8)
+    No STJ, a liminar foi indeferida.
+     Nesta Corte, a defesa reitera a tese de excesso de prazo, porquanto estaria o paciente preso há doze meses preso, sem culpa formada.
+    Assevera que o paciente apenas foi preso por não ter comparecido a seu interrogatório.
+    Sustenta que não estão presentes os requisitos da prisão preventiva, motivo por que requer o restabelecimento de sua liberdade.
+    É o relatório.
+    Decido.
+    Preliminarmente, registro que o pedido se esbarra na Súmula 691 desta Corte, razão por que dele não posso conhecer.
+    É bem verdade que o rigor na aplicação da Súmula n. 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+    Na hipótese dos autos, não se caracteriza nenhuma dessas situações ensejadoras do afastamento da incidência da referida Súmula.
+    De pronto, afasto a alegação de que o paciente teria sido preso apenas por não ter comparecido à audiência para ser interrogado.
+    Sua prisão foi decretada em 6.5.2014 e foi cumprida apenas em 4.10.2017. (eDOC 9, p. 3 e eDOC 4)
+    Ademais, conquanto houvesse um mandado de prisão a ser cumprido, o paciente não foi preso por conta do cumprimento do mandado, mas em razão de encontrar-se em estado de flagrante por tráfico de drogas, conforme registrou o Tribunal de origem, verbis:
+    “No que tange ao decreto preventivo, tenho a destacar que o Paciente não passou da condição de réu solto para réu preso em razão do decreto preventivo prolatado pela autoridade coatora, porque em 15.10.2017 ele foi preso em flagrante delito pela prática do crime de tráfico ilícito de entorpecentes em Belém, momento em que o Juízo a quo tomou conhecimento da prisão do acusado, o qual estava na condição de réu foragido no feito principal desde 2014, pois nele o Paciente respondia na condição de Réu solto.
+    No entanto, durante a tramitação do feito ele mudou de endereço sem fazer qualquer comunicação ao Juízo, mesmo possuindo advogado nos autos, o qual apresentou defesa preliminar em seu favor.
+    Veja-se que os atos processuais foram acontecendo em relação ao corréu e o acusado não foi intimado da audiência de instrução criminal justamente em razão disso, já que o oficial de justiça não lhe localizou nos endereços constantes dos autos, nem mesmo em Belém, daí porque o magistrado decretou sua custódia cautelar, a qual não havia sido cumprida até 2017, quando o Juízo foi comunicado da nova prisão do réu, pela prática de outro crime.
+    Ora, após análise do que nos autos consta, entendo que não há condições legais para que o benefício da liberdade seja garantido ao Paciente, neste momento, pois ele se ausentou do distrito da culpa sem comunicar ao magistrado, passou mais de 3 anos em local incerto e não sabido, e só foi descoberto seu paradeiro por nova prisão, motivos mais do que evidentes de que a liberdade não convém neste caso”. (eDOC 2, p. 4)
+    Desse modo, fundamento para a manutenção da prisão existe e é legítimo, razão pela qual não vislumbro constrangimento ilegal a autorizar a superação da Súmula 691, tampouco a concessão da ordem de ofício.
+    Assim, nego seguimento ao presente habeas corpus. (artigo 21, § 1º, RISTF)
+    Comunique-se. Publique-se.
+    Brasília, 15 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
