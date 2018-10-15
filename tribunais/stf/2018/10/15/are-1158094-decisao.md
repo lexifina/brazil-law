@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – NORMAS LEGAIS – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, as razões pelas quais manteve a sentença, deixando clara a existência de provas aptas a embasar a imposição de multa.
+    No mais, observem as premissas do acórdão impugnado. Em momento algum, foi adotado entendimento a partir de texto constitucional. Eis os fundamentos da decisão impugnada:
+    No caso, foi constatada pela fiscalização a existência de irregularidade na amostra (e-STJ Fl.513) Documento recebido eletronicamente da origem de óleo diesel inspecionado, por estar fora das especificações em relação ao ponto de fulgor, que constitui uma medida de segurança contra risco de incêndio.   Assim, é forçoso concluir pela inexistência de mácula ao auto de infração impugnado, devendo ser mantida a imposição de multa ao autor, que não logrou afastar sua responsabilidade pelas irregularidades apuradas no exercício de sua atividade, tampouco a ocorrência de qualquer violação da ANP quanto à superação de prazo recomendado pelo INMETRO entre a coleta do produto e a análise laboratorial .
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    O Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais .
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 15 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
