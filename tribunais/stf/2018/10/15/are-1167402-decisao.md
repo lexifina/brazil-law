@@ -1,0 +1,30 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXV e XXXVI, e 102, I, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Restou assentado entre os fundamentos da decisão agravada que “Examinando os autos, podemos concluir que, no caso em questão, não é possível receber o recurso interposto porque ausentes os requisitos previstos nos itens: II. 1, 2, 7, 8”. Tais itens fazem referência a preceitos consubstanciados nas Súmulas 322, 282 c/c 356, 283 e 284 desta Suprema Corte.
+    Deixou a parte agravante de impugnar os óbices apontados, em desalinho com a exigência contida no inciso III do art. 932 do CPC/2015, verbis:
+    “Art. 932. Incumbe ao relator:
+    [...]
+    III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;” (destaquei)
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 287/STF: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido: ARE 645.366-AgR, 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe 12.4.2012; ARE 665.547-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 06.3.2012; AI 805.701-AgR, 1ª Turma, Rel. Min. Luiz Fux, DJe 23.4.2012; RMS 30.366-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 16.8.2016; e ARE 974.823-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 08.9.2016, cuja ementa transcrevo:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INADMISSÃO DO APELO EXTREMO PELA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 1. A decisão do Juízo a quo que obsta a subida de recurso extraordinário pode ser atacada por agravo (art. 1.042 do CPC/2015), o qual deve impugnar especificamente, de forma individualizada, todos os argumentos por si sós suficientes para manter a inadmissão, sob pena de não conhecimento (art. 932, III, do CPC/2015). 2. Agravo regimental a que se nega provimento.”
+    Ainda que não se ressentisse o agravo quanto ao pressuposto, melhor sorte não colheria o extraordinário, porquanto está relatado no acórdão recorrido que “trata-se de agravo de instrumento interposto em face de decisão interlocutória que não recebeu o recurso inominado sob o fundamento da deserção”.
+    Esta Suprema Corte já se manifestou no sentido da inexistência de repercussão geral da controvérsia relativa à admissibilidade de recursos no âmbito de outros tribunais, bem como no sentido da vedação ao exame do extraordinário interposto de decisão proferida em agravo de instrumento manejado contra decisão de natureza interlocutória, a teor da Súmula 735/STF. Cito:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.” (RE 598.365, Rel. Min. Ayres Britto, Pleno, DJe 26.3.2010)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. HABILITAÇÃO DE HERDEIROS NO INVENTÁRIO. DECISÃO INTERLOCUTÓRIA IMPUGNADA POR MEIO DE SUCESSIVOS RECURSOS. APELO EXTRAORDINÁRIO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA 735/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+    As decisões interlocutórias, postos não constituírem decisão de única ou última instância nos termos do artigo 102, III, da Constituição Federal, não são passíveis de impugnação via recurso extraordinário, nos termos do enunciado do Verbete nº 735 da Súmula da Jurisprudência desta Corte.(…)” (RE 606.305-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2013)
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE: INDEFERIMENTO. DECISÃO INTERLOCUTÓRIA. NÃO CABIMENTO DE RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – Exceção de pré-executividade. Controvérsia acerca do transcurso, ou não, do lapso prescricional. Decisão que indefere o incidente no processo de execução fiscal, por depender de dilação probatória quanto à ocorrência, ou não, de marcos interruptivos ou suspensivos do curso da prescrição. Natureza interlocutória do provimento judicial, que, como tal, não põe fim ao processo e não produz coisa julgada, nem preclusão.
+    II – Não cabimento do recurso extraordinário, in casu, por não se cuidar de decisão de única ou última instância. Precedentes: AI 586.906-AgR, Rel. Min. Sepúlveda Pertence; AI 761.940-AgR, Rel. Min. Ellen Gracie; AI 606.129-AgR, Rel. Min. Gilmar Mendes; e RE 507.310-AgR, Rel. Min. Cármen Lúcia, entre outros.
+    III – Agravo regimental a que se nega provimento.” (ARE 768.194-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 06.10.2014)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
