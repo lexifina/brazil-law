@@ -1,0 +1,45 @@
+Decisão: Trata-se de habeas corpus com pedido liminar, impetrado pela Defensoria Pública da União, em favor de Mohd Maznin Mahadi, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no Recurso Especial 1.259.745/SP.
+    Consta dos autos que o paciente foi condenado pela prática do delito descrito no art. 33, caput, c/c o art. 40, inciso I, da Lei 11.343/2006, à pena de 5 anos e 10 meses de reclusão, a ser cumprida inicialmente em regime semiaberto, por ter sido flagrado no Aeroporto de Guarulhos portando, para fins de traficância internacional, 1.465g de cocaína, acondicionado em um fundo falso de uma mala. (eDOC 3, p. 118)
+    Irresignada, a defesa interpôs apelação criminal no Tribunal Regional da 3ª Região postulando, em suma, a concessão do benefício descrito no art. 33, § 4º, da Lei de Drogas.
+    O recurso foi parcialmente provido e a pena redimensionada para 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias, mantido o regime semiaberto, nos termos da ementa a seguir transcrita:
+    “PENAL. LEI N. 11.343/06, ART. 33 C. C. ART. 40, I. ATENUANTE DE CONFISSÃO. STJ, SÚMULA N. 231. CAUSA DE DIMINUIÇÃO (LEI 11.343/06, ART. 33, § 4°) APLICAÇÃO. CAUSA DE AUMENTO. TRANSNACIONALIDADE. TEMPO DE PRISÃO PROVISÓRIA. JUÍZO DA EXECUÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. NÃO CABIMENTO. APELAÇÃO DA DEFESA PARCIALMENTE PROVIDA.
+    1. Materialidade e autoria suficientemente demonstradas.
+    2. Em face da impossibilidade da redução da pena abaixo do mínimo legal (STJ, Súmula n. 231), deixo de aplicar a atenuante da confissão prevista no art. 65, III, d, do Código Penal, razão pela qual resta mantida a pena fixada na primeira fase.
+    3. O acusado é primário e sem antecedentes e não há nos autos indícios satisfatórios de que integre organização criminosa ou faça do tráfico de entorpecentes seu meio de vida, tornando possível identificá-lo como transportador ocasional. Desse modo, aplico a causa de diminuição de pena do art. 33, § 4°, da Lei n. 11.343/06, na fração de 1/6 (um sexto), pelas circunstâncias subjacentes à prática delitiva, consistentes no fato de o réu ter sido preso em flagrante e que a droga foi encontrada em fundo falso da mala. Em razão da transnacionalidade do delito, mantenho o aumento de 1/6 (um sexto), tornando definitiva a pena de 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias e 485 (quatrocentos e oitenta e cinco) dias-multa, no valor unitário mínimo.
+    4. Considerando a pena fixada, não merece reforma a parte da sentença que estabeleceu o regime inicial semiaberto de cumprimento de pena, nos termos do art. 33, § 2°, b, do Código Penal. Ainda que aplicada a detração, nos termos do art. 387, § 2°, do Código Penal, o regime cabível ao caso é o semiaberto, pois ainda restaria tempo de cumprimento de pena superior a 4 (quatro) anos de reclusão, considerada as datas da prisão em flagrante e a prolação da sentença condenatória. Ademais, a detração da pena poderá ser apreciada pelo Juízo da Execução (LEP, art. 110).
+    5. Incabível a substituição da pena privativa de liberdade por restritivas de direitos deduzida pelo réu, à míngua do preenchimento do requisito previsto no art. 44, I, do Código Penal.
+    6. Apelação da defesa parcialmente provida para aplicar a causa de diminuição do § 4° do art. 33 da Lei n. 11.343/06”. eDOC 4, p. 71)
+    Opostos embargos infringentes, estes restaram desprovidos. Eis a ementa:
+    “EMBARGOS INFRINGENTES E DE NULIDADE. PENAL E PROCESSUAL PENAL. TRÁFICO TRANSNACIONAL DE DROGAS. CAUSA DE DIMINUIÇÃO DO § 4° DO ART. 33 DA LEI N° 11.343/2006. FRAÇÃO MÍNIMA. EMBARGOS INFRINGENTES NÃO PROVIDOS.
+    1. A divergência estabeleceu-se na fração aplicável à causa de diminuição de pena prevista no art. 33, § 4°, da Lei n° 11.343/2006.
+    2. De acordo com o disposto no art. 33, § 4°, da Lei n° 11.343/2006, as penas do tráfico de drogas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre - organização criminosa. Esses quatro requisitos devem concorrer cumulativamente para que a minorante seja aplicada.
+    3. No caso, tudo indica que o envolvimento do réu com o narcotráfico tenha sido pontual, fazendo jus à minorante. Todavia, esta deve ser fixada no patamar mínimo, pois a conduta praticada pelo acusado lei inequivocamente relevante, tendo ele se disposto a levar consigo a droga escondida em um fundo falso de sua mala.
+    4. Consoante a jurisprudência do STJ, a gravidade concreta do delito e suas circunstâncias autorizam a aplicação dessa causa de diminuição em patamar diverso do máximo.
+    5. Embargos infringentes não providos”. (eDOC 4, . p 117)
+    Sobreveio recurso especial, o qual foi obstado na origem. (eDOC 4, p. 152-157)
+    Impugnou-se a decisão por meio de agravo endereçado ao Superior Tribunal de Justiça, que negou provimento ao recurso por ausência de ilegalidade na dosimetria da pena. (eDOC 4, p. 188-191)
+    Na sequência, a defesa interpôs agravo regimental, que restou desprovido sob os seguintes fundamentos:
+    “AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. MERO INCONFORMISMO. PRETENSÃO DE REDISCUTIR MATÉRIA JÁ ENFRENTADA NA DECISÃO AGRAVADA. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. ARGUMENTO NOVO. INDEVIDA INOVAÇÃO RECURSAL.
+    1. O agravante não logrou êxito em demonstrar qualquer argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítida tentativa de rediscussão da matéria enfrentada e monocraticamente rechaçada.
+    2. É incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal (AgRg no REsp n. 1.156.971/RS, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 19/2/2015).
+    3. Agravo regimental improvido”. (eDOC 4, p. 202)
+    Nesta Corte a impetrante postula, em suma, a aplicação da minorante descrita no art. 33, § 4º, da Lei de drogas, em seu patamar máximo, pois explica que o paciente é primário, não possui circunstâncias judiciais desfavoráveis e, tampouco, integra organização criminosa.
+    É o relatório.
+    Passo a decidir.
+    Conforme relatado, a defesa busca, em síntese, a aplicação em grau máximo da causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas.
+    Não assiste razão à impetrante.
+    Consta dos autos que o paciente foi denunciado pela suposta prática do delito tipificado no art. 33, caput, c/c o art. 40, I, da Lei 11.343/2006. O TRF/3, ao dar parcial provimento ao recurso de apelação e fixar a minorante no patamar de 1/6, consignou o seguinte:
+    “Revejo a dosimetria.
+    Mantenho a pena-base no mínimo legal de 5 anos e 500 dias-multa.
+    Em face da impossibilidade da redução da pena abaixo do mínimo legal (STJ, Súmula 231), deixo de aplicar a atenuante da confissão prevista no art. 65, III, “d”, do Código Penal, razão pela qual resta mantida a pena fixada na primeira fase.
+    Por outro lado, incide a causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/06. O acusado é primário e sem antecedentes (fls. 94, 151, 153, 158 e 162). Não há nos autos indícios satisfatórios de que integre organização criminosa ou faça do tráfico de entorpecentes seu meio de vida, tornando possível identificá-lo como transportador ocasional. Contudo, a fração a ser aplicada deve considerar as circunstâncias subjacentes à prática delitiva, consistentes no fato de o réu ter sido preso em flagrante e que a droga foi encontrada em fundo falso da mala. Aplico, assim, a redução, na fração de 1/6 (um sexto), resultando na pena de 4 anos e 2 meses de reclusão e 146 dias-multa.
+    Em razão da transnacionalidade do delito, mantenho o aumento de 1/6, tornando definitiva a pena de 4 anos, 10 meses e 10 dias e 485 dias-multa, no valor unitário mínimo”. (eDOC 4, p.62-64)
+    Consoante se depreende dos trechos acima transcritos, a aplicação da minorante do art. 33, § 4º, da Lei 11.343/06, na fração de 1/6, foi realizada atendendo aos princípios da proporcionalidade e da individualização da pena. Às Cortes Superiores, no exame da dosimetria, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Conforme se verifica neste caso, as motivações das decisões das instâncias inferiores estão embasadas em elementos concretos e provados nos autos, que justificam a determinação da redução da pena no nível indicado.
+    Dessa forma, nada há a corrigir no que se refere à decisão proferida pelo STJ, que manteve o quanto decidido pelo Tribunal de origem. Cito, a propósito, os seguintes precedentes: HC 124.250/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 18.12.2014, e ARE-AgR 938.357/AL, de minha relatoria, 2ª Turma, DJe 14.6.2016).
+    Ante o exposto, com base no artigo 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 15 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
