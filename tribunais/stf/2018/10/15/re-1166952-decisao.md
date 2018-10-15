@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, H. Soler Empreendimentos Imobiliários SPE Ltda. Aparelhado o recurso na afronta ao art. 5º, LIV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+     O exame de eventual ofensa ao preceito constitucional indicado nas razões recursais, consagrador do princípio do devido processo legal (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, verbis:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013)
+    Ademais, a verificação da ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas contratuais, o que é vedado a esta instância extraordinária, a teor da Súmula 454/STF: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Direito Civil e do Consumidor. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Contrato de compra e venda de imóvel. Encargos financeiros. Abusividade. Fatos e provas. Cláusulas contratuais. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Inadmissível, em recurso extraordinário, o reexame do conjunto fático-probatório da causa e de cláusulas contratuais. Incidência da Súmula nº 279 e 454/STF. 3. Agravo regimental não provido.” (ARE 869706 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 28/04/2015, ACÓRDÃO ELETRÔNICO DJe-108 DIVULG 05-06-2015 PUBLIC 08-06-2015)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
