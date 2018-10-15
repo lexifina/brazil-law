@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de Jundiaí. Aparelhado o recurso na afronta aos arts. 146, III, “a”, e 156, I, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A ementa proferida pelo Tribunal de origem tem o seguinte teor:
+    “PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ALIENAÇÃO FIDUCIÁRIA. LEI N. 9.514/97. DIREITO REAL DE GARANTIA. CEF. ILEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA AÇÃO.
+    A alienação fiduciária de bem imóvel é a operação através da qual o devedor/fiduciante, visando à garantia de determinada obrigação frente ao credor/fiduciário, concede a este a propriedade resolúvel de um imóvel (art. 22), cuja posse fica desdobrada entre o devedor, que passa a ser possuidor direto, e o credor que se torna possuidor indireto do bem (art. 23). A questão da responsabilidade quanto aos tributos que recaiam ou venham a recair sobre o imóvel cuja posse tenha sido transferida por meio de alienação fiduciária encontra previsão específica na Lei n.° 9.514/97, na redação dada pela Lei 10.931/2004, especificamente no parágrafo 8º de seu artigo 27. A Caixa Econômica Federal é proprietária do imóvel, mas tal propriedade eqüivale a um direito real de garantia, visto que o uso e o gozo do bem ficam a cargo da devedora-fiduciante, agindo como se proprietária fosse. Havendo disposição de Lei atribuindo responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel ao devedor fiduciante (Lei 9.514/1997, § 8º do artigo 27), verifica-se a exceção prevista no artigo 123 do CTN, sendo a CEF ilegítima para figurar no polo passivo da execução fiscal. Apelação a que se nega provimento.” (grifo nosso)
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie (Lei 9.514/97), razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos arts. 146, III, “a”, e 156, I, da Constituição da República. Nesse sentido:
+    “Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPTU. TAXA DE LIXO. CONTRIBUINTE. ALIENAÇÃO FIDUCIÁRIA. LEI Nº 9.514/1997. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. 2. Inaplicável o art. 85, §11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC/2015.” (ARE 1012527 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 01/12/2017, PROCESSO ELETRÔNICO DJe-289 DIVULG 14-12-2017 PUBLIC 15-12-2017)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
