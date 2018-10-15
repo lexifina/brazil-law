@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do 5ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, ementado nos seguintes termos:
+    “LEGITIMIDADE ATIVA - Inteligência do artigo 5° inciso I, da Lei 7.347185 - Ação civil pública que visa na defesa de interesses difusos e coletivos - Preliminar rejeitada.
+    LEGITIMIDADE PASSIVA - Responsabilidade da FAMESP na prestação de serviços de saúde local juntamente com os entes públicos por esta integrar a rede do Sistema Único de Saúde - Preliminar rejeitada.
+    COISA JULGADA - Julgamento anterior de ação civil pública que versava sobre pedido e partes diversas - Preliminar rejeitada.
+    FORNECIMENTO DE LEITOS HOSPITALARES - Dever do Estado – Tutela à saúde ampla e incondicionada - Previsão constitucional em norma de eficácia plena, e não meramente programática, sujeita a ação civil pública - Legitimação das três esferas político-administrativas: Município, Estado e União - Recusa injustificada que define a ilegalidade da conduta estatal - Legalidade da imposi- ção de astreintes - Não conhecimento do pedido incidental do Ministério Público, de custeio de internações hospitalares na rede privada, porque não formulado na petição inicial - Apelações do Município de Bauru, da Fundação para o Desenvolvimento Médico Hospitalar, da Fazenda Paulista, e remessa necessária não providas - Apelação do Ministério Público parcialmente provida, tão somente para majoração das astreintes.” (eDOC 11 , p. 149)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 1º, III; 2ª, 5º e 196, do texto constitucional (eDoc 11, P. 188/195).
+    Nas razões recursais, sustenta-se, em síntese, que a decisão recorrida afronta os princípios da dignidade humana e da igualdade, ofende a coisa julgada e desrespeita a independência dos poderes (eDOC 11, p. 188/194-195).
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o recurso de agravo submete-se ao regime jurídico do Código de Processo Civil de 2015, tendo em vista que impugna decisão publicada em data posterior a 17 de março de 2016.
+    Feita essa consideração de ordem processual, passo ao exame da admissibilidade do recurso.
+    Verifico que a decisão que inadmitiu o recurso extraordinário foi publicada em 8 de março de 2018 (eDOC 12, p. 28), tendo sido o respectivo agravo interposto em 2 de maio de 2018 (eDOC 12, p. 29), ou seja, após o prazo preclusivo de 15 dias úteis previsto no art. 1.003, § 5º, c/c art. 219, caput , todos do CPC/2015.
+    Portanto, notória a intempestividade do presente agravo em recurso extraordinário, o que inviabiliza o seu seguimento, visto tratar-se de vício insanável (art. 1.029, § 3º, do CPC/2015).
+    Confira-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTEMPESTIVIDADE. RECURSO NÃO CONHECIDO. 1. É intempestivo o agravo interno interposto fora do prazo fixado pelo art. 1.003, § 5º, c/c o art. 183 do CPC/2015. 2. Inaplicável o art. 85, § 11, do CPC, uma vez que não houve prévia fixação de honorários advocatícios. 3. Agravo interno não conhecido.“ (ARE 1033198 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.5.2018)
+    “Agravo regimental no recurso extraordinário com agravo. Intempestividade. 1. O agravante não observou o prazo de 15 (quinze) dias úteis para a interposição do agravo manejado contra a decisão de inadmissão do recurso extraordinário, segundo dispõe o § 5º do art. 1.003 do Código de Processo Civil. 2. O art. 1.003, § 6°, do Novo CPC determina que [o] recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais em favor do recorrido pela Corte de origem.” (ARE 1033168 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 18.9.2017)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, § 1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 15 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
