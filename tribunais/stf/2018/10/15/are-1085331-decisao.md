@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo (eDOC 10, p. 70-87) contra decisão de inadmissibilidade do processamento de recurso extraordinário (eDOC 10, p. 27-31) que impugna acórdão da Câmara Criminal do Tribunal de Justiça do Estado de Sergipe (eDOC 7, p. 94-102), a qual conheceu e deu parcial provimento à apelação interposta pelo ora recorrente.
+    Daí a interposição, pela defesa, dos recursos especial (eDOC 8, p. 55-76; eDOC 9, p. 1-10) e extraordinário (eDOC 8, p. 18-53).
+    No RE, fundado no art. 102, III, “a”, da Constituição Federal, alegou-se ofensa aos arts. 1º, inciso III e 5º, inciso LVII, da Constituição Federal, além de ter sido ressaltada a repercussão geral das questões constitucionais discutidas no caso.
+    Inadmitiram-se os recurso especial e extraordinário (eDOC 10, p. 27-31).
+    Houve, então, a interposição do AREsp 1.135.429/SE e do presente ARE (eDOC 10, p. 36-68; eDOC 10, p. 70-87).
+    O relator do citado AREsp 1.135.429/SE não conheceu do recurso, nos termos do art. 253, parágrafo único, do RI/STJ (eDOC 10, p. 30-35), mediante decisão transitada em julgado (certidão; eDOC 10, p. 40).
+    É o relatório.
+    Decido.
+    A presente irresignação recursal não merece prosperar, visto que o acórdão recorrido dirimiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (eDOC 7, p. 94-102). Para tanto, transcrevo a ementa do acórdão em apreço:
+    “Apelação criminal – Latrocínio tentado (art. 157, §3º, segunda parte, c/c art. 14, II, ambos do CP) – Pleito absolutório – Não cabimento – Autoria e materialidade sobejamente testificadas através dos elementos probatórios – Desnecessidade de prova pericial para aferição da natureza da lesão – Latrocínio na modalidade tentada – Suficiência da comprovação do animus necandi - Pleito de desclassificação para o crime de tentativa de roubo – Impossibilidade – Demonstrada a intenção de matar a vítima – Dosimetria – Circunstâncias judiciais valoradas negativamente (Culpabilidade e consequências do crime) – Pena distanciada do mínimo legal – Necessidade de neutralização da culpabilidade – Fundamentação genérica – Pena redimensionada – Apelo conhecido e parcialmente provido.
+    I- Não há que se falar em absolvição por insuficiência de provas, pois o conjunto probatório carreado ao feito demonstra a conduta narrada na exordial acusatória. Conclusão embasada nos depoimentos dos condutores do flagrante, nas declarações da vítima, no depoimento do colega de profissão da vítima e no relatório médico;
+    II – Para o fim de configuração do latrocínio na modalidade tentada basta a comprovação do animus necandi do agente, como restou comprovado, não se exigindo que o in casu resultado ocorra, de sorte que se torna despicienda a aferição da natureza da lesão sofrida pela vítima;
+    III - Incabível a desclassificação do crime de latrocínio tentado para o de roubo tentado, haja vista que demonstrada a intenção de matar a vítima;
+    IV – Analisando-se o art. 59, do CP, verificou-se a existência de circunstâncias judiciais desfavoráveis, fixando-se a pena-base acima do mínimo legal. Contudo, diante da fundamentação genérica quanto à culpabilidade, necessária a neutralização desta circunstância e, assim, o redimensionamento da pena-base, com reflexos na pena definitiva;
+    V – Recurso conhecido e parcialmente provido.” (eDOC 8, p. 94-95; grifos originais)
+    Portanto, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Dessa forma, incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido é a jurisprudência desta Suprema Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento. (ARE 948.438 AgR/PE, por mim relatado, Segunda Turma, DJe 23.9.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PENAL. AUSÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO FUNDAMENTADO DE FORMA ADEQUADA E SUFICIENTE À DEMONSTRAÇÃO DA CONVICÇÃO DO JULGADOR. CRIME DE FURTO QUALIFICADO. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 928.826 AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2016)
+    No mesmo sentido, recentemente: ARE 1.148.612/SE, Rel. Min. Luiz Fux, decisão monocrática, DJe 1º.8.2018; ARE 1.144.653/RJ, Rel. Min. Dias Toffoli, decisão monocrática, DJe 3.8.2018, dentre outros.
+    Ante o exposto, nego seguimento ao recurso (artigo 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 15 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
