@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Tabelião — Lei que impõe obrigação de fiscalizar o recolhimento do ITBI no ato de registro de compromisso de compra e venda de bens imóveis — Exigência que não se mostra razoável, não lhe podendo ser imposta multa — Fato gerador do imposto que é a transmissão do imóvel, que somente se dá com o registro — Recurso improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 156, II, da CF. Sustenta que a hipótese de incidência do ITBI é o negócio imobiliário e não seu posterior registro em cartório.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “No entanto, o recurso não merece trânsito.
+    Ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões d6 v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada.
+    A respeito do tema, já decidiu o Supremo Tribunal Federal, verbis:
+    ‘AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS. FATO GERADOR. PROMESSA DE COMPRA E VENDA. IMPOSSIBILIDADE. 1. A cobrança de ITBI é devida no momento do registro da compra e venda na matrícula do imóvel. 2. A jurisprudência do STF considera ilegítima a exigência do ITBI em, momento anterior ao registro do título de transferência da propriedade do bem, de modo que exação baseada em promessa de compra e venda revela-se indevida. 3. Agravo regimental provido.’ (ARE 759964 AgR /RJ, Relator Ministro EDSON FACHIN, DJ 29/0912015)
+    Inadmito, pois, o recurso extraordinário.”
+    A pretensão recursal não merece prosperar. A jurisprudência do STF é firme no sentido de que o fato gerador do Imposto sobre a Transmissão de Bens Imóveis (ITBI) somente ocorre com a transferência efetiva da propriedade no cartório de registro de imóveis. Vejam-se os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. itbi. FATO GERADOR. TRANSFERÊNCIA DA PROPRIEDADE. REGISTRO EM CARTÓRIO. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA NO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. ACÓRDÃO RECORRIDO PUBLICADO EM 13.3.2014. O entendimento adotado pela Corte de origem, nos moldes do que assinalado na decisão agravada, não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. Entender de modo diverso demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.” (ARE 839.630-AgR, Relª. Minª. Rosa Weber)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE A TRANSMISSÃO DE BENS IMÓVEIS itbi. FATO GERADOR: REGISTRO DA TRANSFERÊNCIA EFETIVA DA PROPRIEDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 798.241-AgR, Relª. Minª. Cármen Lúcia)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília,15 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
