@@ -1,0 +1,116 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CONJUGADO COM DANOS MORAIS E MATERIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. CADASTRO DE INADIMPLENTES. INSCRIÇÃO. DANO MORAL DEVIDO. REDUÇÃO. SÚMULA Nº 7/STJ. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO. RELAÇÃO CONTRATUAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em violação dos arts. 489 e 1.022 do CPC/2015 quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+3. Rever o entendimento do tribunal de origem, que concluiu pelo dever de indenizar, encontra óbice da Súmula nº 7/STJ.
+4. Rever o valor da indenização por danos morais só é viável em recurso especial quando o montante fixado nas instâncias locais for exorbitante ou ínfimo.
+5. O marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual, é a citação. Precedentes.
+6. Agravo interno parcialmente provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+Trata-se de agravo interno interposto por BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO contra a decisão (fls. 310/317 e-STJ) que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento em virtude da aplicação das Súmulas nºs 7 e 568/STJ e porque ausente a alegada negativa de prestação jurisdicional.
+Nas razões do presente recurso, a agravante alega, em síntese, que o Tribunal de Justiça do Estado de Santa Catarina violou frontalmente os arts. 489 e 1.022 do Código de Processo Civil de 2015 ao entregar uma prestação jurisdicional incompleta.
+Afirma, ainda, que não pretende o reexame de matéria de prova, não havendo falar em aplicação da Súmula nº 7/STJ, tendo em vista que não é possível a responsabilização pela reparação de danos morais com base na simples conjectura da sua ocorrência, ainda mais quando caracterizada a culpa concorrente, sendo necessária a redução do valor arbitrado a título de danos morais, além da alteração do marco inicial dos juros de mora, ante a natureza contratual da relação jurídica mantida entre as partes.
+Ao final, requer a reforma da decisão atacada.
+Devidamente intimada, a parte contrária não ofereceu impugnação (fl. 329 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CONJUGADO COM DANOS MORAIS E MATERIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. CADASTRO DE INADIMPLENTES. INSCRIÇÃO. DANO MORAL DEVIDO. REDUÇÃO. SÚMULA Nº 7/STJ. JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO. RELAÇÃO CONTRATUAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em violação dos arts. 489 e 1.022 do CPC/2015 quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+3. Rever o entendimento do tribunal de origem, que concluiu pelo dever de indenizar, encontra óbice da Súmula nº 7/STJ.
+4. Rever o valor da indenização por danos morais só é viável em recurso especial quando o montante fixado nas instâncias locais for exorbitante ou ínfimo.
+5. O marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual, é a citação. Precedentes.
+6. Agravo interno parcialmente provido.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator):
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+Na origem, PHILIPE RAFAEL DA SILVA ajuizou ação declaratória de inexistência de débito conjugada com indenização por danos morais e antecipação de tutela conjugada com suspensão de negativação de seu nome no SPC e SERASA contra BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO.
+A ação foi julgada procedente em primeiro grau, com a condenação da requerida ao pagamento do valor de R$ 20.000,00 (vinte mil reais) a título de indenização por danos morais.
+Dessa decisão foi interposto recurso de apelação, ao qual foi negado provimento pela Corte estadual em acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E ANTECIPAÇÃO DOS EFEITOS DA TUTELA. SUPOSTA COMPRA FRAUDULENTA COM CARTÃO DE CRÉDITO. INSCRIÇÃO DO NOME DO AUTOR NO ROL DE INADIMPLENTES. SENTENÇA DE PROCEDÊNCIA. RECURSO DA FINANCEIRA REQUERIDA. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. PLEITO DE REFORMA DA SENTENÇA AO ARGUMENTO DE NÃO TER PRATICADO ATO ILÍCITO. INSUBSISTÊNCIA. AUSÊNCIA DE COMPROVAÇÃO INEQUÍVOCA DA COMPRA PELO AUTOR A JUSTIFICAR A ANOTAÇÃO DO SEU NOME NO CADASTRO DE INADIMPLENTES. ÔNUS QUE INCUMBIA À DEMANDADA (ART. 14, § 3, DO CDC). FALHA NA PRESTAÇÃO DE SERVIÇO POR PARTE DA REQUERIDA QUE NÃO OPEROU COM A CAUTELA NECESSÁRIA AO ANALISAR A REGULARIDADE DA TRANSAÇÃO. PEDIDO DE APLICABILIDADE DA EXCLUDENTE DE RESPONSABILIDADE POR CULPA DE TERCEIRO. IMPOSSIBILIDADE. OCORRÊNCIA DE FRAUDE QUE NÃO TEM O CONDÃO DE AFASTAR A RESPONSABILIDADE DA REQUERIDA. APLICAÇÃO DA TEORIA DO RISCO DA ATIVIDADE-ECONÔMICA. ILICITUDE DA INSCRIÇÃO EVIDENCIADA. RESPONSABILIDADE OBJETIVA INARREDÁVEL. INTELIGÊNCIA DO ARTIGO 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR. INSCRIÇÃO INDEVIDA MANTIDA POR MAIS DE 5 (CINCO) MESES. DANO MORAL PRESUMIDO (IN RE IPSA). SITUAÇÃO QUE EXTRAPOLA O MERO DISSABOR. PRIVAÇÃO INJUSTIFICADA DO USO DO NOME PERANTE O MERCADO DE CONSUMO. VIOLAÇÃO DOS DIREITOS DE PERSONALIDADE ELENCADOS NO ARTIGO 5º, INCISO X, DA CONSTITUIÇÃO FEDERAL. DEVER DE INDENIZAR MANTIDO. JUROS DE MORA. PEDIDO DE ADEQUAÇÃO DO DIES A QUO PARA A DATA DA CITAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DOS JUROS MORATÓRIOS A CONTAR DO EVENTO DANOSO, NOS TERMOS DA SÚMULA 54 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ADESIVO DO AUTOR. QUANTUM INDENIZATÓRIO. PEDIDO DE AMBAS AS PARTES DE ALTERAÇÃO DO MONTANTE FIXADO NA SENTENÇA EM R$ 20.000,00 (VINTE MIL REAIS). INSUBSISTÊNCIA. QUANTIA FIXADA QUE ATENDE AO PRINCÍPIO DA RAZOABILIDADE E DA PROPORCIONALIDADE, ALÉM DE MANTER O CARÁTER PEDAGÓGICO E INIBIDOR ESSENCIAL À REPRIMENDA. QUANTUM MANTIDO. PLEITO DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 15% (QUINZE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO. POSSIBILIDADE. SERVIÇOS PRESTADOS COM EFICIÊNCIA E PRESTEZA. VERBA MAJORADA PARA 20% (VINTE POR CENTO) SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO. CONSONÂNCIA COM O PRECEITO CONSTITUCIONAL DE VALORIZAÇÃO DO TRABALHO. RECURSO DE APELAÇÃO DA REQUERIDA CONHECIDO E DESPROVIDO. RECURSO ADESIVO DO AUTOR CONHECIDO E PARCIALMENTE PROVIDO" (fl. 202/203 e-STJ).
+Inconformada, a ora agravante, com fundamento na alínea "a" do permissivo constitucional, interpôs recurso especial alegando negativa de vigência dos seguintes dispositivos e suas respectivas teses:
+a) arts. 489, § 1º, e 1.022 do Código de Processo Civil de 2015 - negativa de prestação jurisdicional;
+b) arts. 186, 927 e 945 do Código Civil e 373, I, do CPC/2015 - o acórdão recorrido não poderia entender que é responsável pela reparação de danos morais com base em mera presunção de que teriam ocorrido, devendo ser reconhecida a culpa concorrente;
+c) arts. 884 e 944 do Código Civil - o valor da indenização por danos morais é exorbitante, permitindo o enriquecimento sem causa do recorrido, e
+d) art. 405 do Código Civil - no caso de responsabilidade contratual, o termo inicial da incidência de juros moratórios é a data da citação do demandado, e não da ocorrência do evento danoso.
+No presente recurso, a agravante insiste em rediscutir as teses já rechaçadas na decisão ora agravada.
+Todavia, o que se verifica da fundamentação dos aclaratórios de fls. 233/244 e-STJ, é que o acórdão recorrido analisou de forma completa e suficiente todas as questões suscitadas no recurso, conforme se observa do seguinte trecho:
+"(..)
+A embargante assevera ter o Acórdão incorrido em omissão quanto ao reconhecimento de dano moral na hipótese. Alega inexistir "qualquer prova que demonstre inequivocadamente a existência de dor, humilhação ou efetivo sofrimento do embargante em decorrência do abalo de crédito perante a terceiros, o que deve levar ao afastamento da indenização por danos morais pela ausência de um dos pressupostos fundamentais para a configuração da responsabilidade civil, nos termos dos arts. 186 e 187 do Código Civil".
+Destaca que o valor arbitrado não levou em consideração a culpa de terceiro pela alegada fraude. Sobreleva a necessidade de minoração do valor da indenização ao argumento de não ter restado caracterizada a má-fé da embargante.
+Ocorre que tais argumentos, além de despropositados, não demonstram nenhuma espécie de contradição entre um ponto e outro da decisão atacada, nem ao menos qualquer omissão ou obscuridade.
+As questões levantadas nos presentes embargos têm ligação com o mérito da causa porquanto discute a dialética utilizada pelo Colegiado para declarar o direito aplicável ao caso.
+Da leitura da decisão atacada não se vislumbra qualquer omissão, contradição ou obscuridade. Ao revés, a matéria foi amplamente enfrentada, tendo em vista que o Acórdão está suficientemente fundamentado a fim de torná- lo o mais inteligível e didático possível.
+Em verdade, denota-se serem as questões debatidas pela embargante flagrante demonstração do seu inconformismo com o julgamento e a sua intenção de modificar o conteúdo da decisão, para fazer prevalecer sua convicção" (fls. 240/241 e-STJ).
+Tendo o acórdão recorrido se manifestado a respeito dos pontos considerados omissos, ainda que não no sentido pretendido pela parte, não há falar em negativa de prestação jurisdicional.
+Sobre o tema:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Tendo sido os honorários advocatícios fixados com base na apreciação equitativa da prestação do serviço pelo advogado, sua revisão impõe incontornável reexame dos aspectos fáticos da lide.
+Incidência do enunciado 7 da Súmula do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.254.843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018 - grifou-se)
+Registra-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador.
+Por tal motivo, restou afastada a assertiva de violação dos arts. 489 e 1.022 do CPC/2015.
+Desse modo, conforme afirmado na decisão agravada, no que tange aos arts. 186, 927 e 945 do CC, o Tribunal de origem dirimiu a controvérsia à luz dos elementos de provas dos autos e assim consignou:
+"(..)
+In casu, constitui fato incontroverso nos autos ter a demandada inscrito o nome do autor na Serasa, conforme documento de fls. 23/24, por lançamento de débito em fatura de cartão de crédito que assevera não ter adquirido.
+Igualmente incontroverso ter o autor informado administrativamente à requerida a respeito da alegada cobrança indevida de valores na fatura de seu cartão de crédito, obtendo resposta de que não havia qualquer irregularidade na transação (fl. 19).
+Realizada audiência junto ao PROCON, foi concedido prazo de 15 (quinze) dias para que a requerida apresentasse comprovante de compra com assinatura do autor (fl. 18), o que segundo afirmação na exordial não foi cumprido pela demandada, inexistindo contestação a respeito deste ponto.
+Diante deste contexto, incumbe ao requerente demonstrar o dano e o nexo causal com a atividade desenvolvida pela demandada (artigo 14 do CDC), o que se encontra claramente comprovado pela Declaração de fls. 23/24 (inscrição na Serasa).
+Por sua vez, comprovado o dano advindo de inscrição realizada pela requerida, e não demonstrada nenhuma das hipóteses previstas no § 3º do artigo 14 do Código de Defesa do Consumidor, a causar o rompimento do nexo causal do dano com sua atividade, configurada está a responsabilidade civil da demandada.
+A esse respeito, cabe ao fornecedor do serviço, a fim de eximir-se da reponsabilidade, a comprovação de alguma das excludentes previstas no artigo 14, § 3º, do Código de Defesa do Consumidor, verbis:
+(..)
+Isso porque, a despeito de ter defendido a regularidade em seu procedimento, razão pela qual não teria praticado qualquer ilícito, não se vislumbra a existência de qualquer elemento probatório a indicar a veracidade das declarações lançadas em sua defesa.
+Nesse viés, verifica-se não ter a financeira demandada acostado aos autos prova cabal da existência do débito, haja vista não ter comprovado que o autor efetuou e/ou autorizou as compras em seu cartão de crédito, as quais ensejaram a inscrição de seu nome nos órgãos de proteção ao crédito.
+Destarte, à míngua de prova capaz de derruir as assertivas e documentos apresentados pela parte autora, resta evidenciada a falha na prestação dos serviços por parte da requerida, devendo suportar eventuais prejuízos decorrentes de sua conduta.
+Além do mais, eventual ocorrência de fraude não possui o condão de afastar a responsabilidade da requerida pelos prejuízos ocasionados ao autor, porquanto o dano ora em comento decorre de risco inerente à própria atividade explorada.
+(..)
+Deste modo, não se desincumbiu a requerida do ônus probatório de demonstrar a existência do débito contraído pelo autor e seu correspondente inadimplemento, condição sine qua non para a inscrição do seu nome nos órgãos de proteção ao crédito.
+Portanto, resta inequívoca a ilicitude do ato praticado pela demandada, consubstanciada na negativação indevida do nome do autor em órgão restritivo de crédito, por dívida inexistente.
+Dessa forma, emerge para o responsável o dever de indenizar os danos morais causados pela inscrição irregular.
+Assim, em razão da inscrição indevida do nome do autor em cadastro restritivo de crédito, configurado está o ilícito praticado pela requerida, devendo ressarcir os danos suportados pelo requerente"" (fls. 210/212 e-STJ - grifou-se).
+Portanto, ao contrário do que sustenta a agravante, não há como afastar a aplicação da Súmula nº 7/STJ, tanto no que diz respeito à sua responsabilidade de indenizar quanto à redução do valor arbitrado a título de danos morais - R$ 20.000,00 (vinte mil reais) -, que, aliás, não se mostra exorbitante.
+De fato, referida quantia não destoa dos parâmetros adotados por esta Corte em casos análogos, consoante se colhe dos seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE INCLUSÃO INDEVIDA EM CADASTRO DE INADIMPLENTES - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO AGRAVO REGIMENTAL A FIM DE RECONSIDERAR A DECISÃO MONOCRÁTICA ANTERIORMENTE PROFERIDA PARA, DE PLANO, NEGAR PROVIMENTO AO RECLAMO POR FUNDAMENTAÇÃO DIVERSA. INSURGÊNCIA RECURSAL DA RÉ.
+1. Para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado no sentido de que houve a inscrição indevida, o que demandaria o revolvimento das provas juntadas aos autos e forçosamente ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça. Precedentes.
+1.1 O STJ já firmou entendimento que "nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp 1.059.663/MS, Rel. Min. NANCY ANDRIGHI, DJe 17/12/2008). Precedentes.
+2. A indenização por danos morais, fixada em quantum em conformidade com o princípio da razoabilidade, não enseja a possibilidade de interposição do recurso especial, ante o óbice da Súmula n. 7/STJ.
+2.1 Este Tribunal Superior tem prelecionado ser razoável a condenação no equivalente a até 50 (cinquenta) salários mínimos por indenização decorrente de inscrição indevida em órgãos de proteção ao crédito. Precedentes.
+3. Agravo interno desprovido".
+(AgInt no AgRg no AREsp 572.925/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 1º/08/2017).
+"RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. INSCRIÇÃO INDEVIDA. CADASTRO DE INADIMPLENTES. DANO MORAL. RESPONSABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. COMPENSAÇÃO. VALOR. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PEDIDO. SENTENÇA. ADSTRIÇÃO. ARTS. 128 E 460 DO CPC/73. JULGAMENTO ALÉM DO PEDIDO. CONFIGURAÇÃO. MULTA. ART. 56, I, DO CDC. CARÁTER ADMINISTRATIVO.
+1. Ação de compensação de danos morais e de obrigação de fazer decorrente de inscrição indevida em cadastro de inadimplentes, ajuizada em 16/03/2011, de que foi extraído o presente recurso especial, interposto em 17/01/2012 e concluso ao Gabinete em 27/04/2017. Julgamento pelo CPC/73.
+2. O propósito recursal é determinar se: a) nas ações que envolvam Direito do Consumidor, o juiz pode, de ofício, aplicar a multa administrativa prevista no art. 56, I, do CDC; b) se é possível reexaminar a responsabilidade da recorrente pela inscrição do nome do recorrido em cadastro de inadimplentes; e c) se cabe rever o valor da compensação dos danos morais fixados pelos graus ordinários de jurisdição.
+3. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais impede o conhecimento do recurso especial.
+4. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada, o que não é o caso dos autos.
+5. O juiz não pode conhecer de questões a respeito das quais a lei exige iniciativa das partes, somente podendo examinar, de ofício, matérias não por elas não suscitadas se a lei dispensar expressamente essa iniciativa.
+6. Agindo o juiz fora dos limites definidos pelas partes e sem estar amparado em permissão legal que o autorize examinar questões de ofício, haverá violação ao princípio da congruência, haja vista que o pedido delimita a atividade do juiz (CPC, arts.128 e 460), que não pode dar ao autor mais do que ele pediu, julgando além do pedido, como ocorreu na hipótese em exame, com a imposição de ofício da multa do art. 56, I, do CDC ao recorrente.
+7. Recurso especial parcialmente conhecido e, nessa parte, provido."
+(REsp 1.377.463/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/02/2018, DJe 02/03/2018 - Indenização: R$ 21.800,00)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. DANO MORAL. OCORRÊNCIA. INDENIZAÇÃO. VALOR EXORBITANTE. NÃO VERIFICAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. PRECEDENTES.
+1. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisória ou exorbitante, o que não ocorreu na hipótese dos autos, em que o valor foi arbitrado em R$ 20.000,00 (vinte mil reais).
+2. Agravo interno não provido."
+(AgInt no AREsp 646.664/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/09/2017, DJe 05/10/2017)
+Além disso, esta Corte tem reiteradamente entendido que, em se tratando de dano moral, cada caso, consideradas as circunstâncias do fato, as condições do ofensor e do ofendido, a forma e o tipo de dano, bem como suas repercussões no mundo interior e exterior da vítima, reveste-se de características que lhe são próprias. Sendo assim, ainda que, objetivamente, possam parecer assemelhados, no aspecto subjetivo os casos serão sempre diferentes.
+Daí a dificuldade de se alterar, nesta instância especial, a quantificação fixada no tribunal de origem, a título de indenização, sem esbarrar também no óbice da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO REGIMENTAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. PROVA PERICIAL. NECESSIDADE. LIVRE CONVENCIMENTO DO JULGADOR. SÚMULA N. 7/STJ. CIVIL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. ATROPELAMENTO. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ.
+(..)
+2. Aplica-se a Súmula n. 7 do STJ se a tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+3. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+4. Agravo regimental desprovido" (AgRg no AREsp 682.186/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 16/2/2016, DJe 23/2/2016).
+No tocante ao termo inicial dos juros de mora, melhor sorte socorre à agravante, pois a jurisprudência dominante desta Corte Superior, assente no sentido de que o marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual, é a citação.
+Confira-se:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO REGIMENTAL. AÇÃO INDENIZATÓRIA. RELAÇÃO CONTRATUAL. JUROS MORATÓRIOS TERMO INICIAL. CITAÇÃO.
+1. Há responsabilidade contratual nos casos em que o dever jurídico violado tenha origem em contrato ou negócio jurídico firmado pelo indivíduo.
+2. Tratando-se de responsabilidade contratual, os juros moratórios incidirão a partir da citação (artigo 219 do CPC e artigo 405 do Código Civil), e a correção monetária pertinente ao valor dos danos morais, a partir de sua fixação.
+3. Agravo regimental provido para, reconsiderando decisão anterior, conhecer do recurso especial e dar-lhe provimento" (AgRg no REsp 1.229.864/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 24/05/2011, DJe 1º/06/2011).
+Ante o exposto, dou parcial provimento ao agravo interno tão somente para determinar a incidência dos juros de mora na indenização por danos morais desde a citação.
+É o voto.
