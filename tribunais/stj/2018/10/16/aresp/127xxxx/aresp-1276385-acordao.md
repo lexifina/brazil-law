@@ -1,0 +1,63 @@
+EMENTA
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. LAUDO PERICIAL CONCLUSIVO PELA AUSÊNCIA DE REDUÇÃO DA CAPACIDADE PARA O TRABALHO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
+I - De acordo com a jurisprudência do STJ, "o auxílio-acidente visa indenizar e compensar o segurado que não possui plena capacidade de trabalho em razão do acidente sofrido, não bastando, portanto, apenas a comprovação de um dano à saúde do segurado, quando o comprometimento da sua capacidade laborativa não se mostre configurado" (REsp 1108298/SC, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, julgado em 12/5/2010, DJe 6/8/2010).
+II - Havendo o Tribunal de origem, ao examinar as conclusões do laudo pericial e as demais provas carreadas, concluído que a parte recorrente não apresenta redução da capacidade laborativa, nem lesões acidentárias incapacitantes, a inversão do julgado demandaria necessariamente o reexame dos mesmos elementos fático-probatórios, o que é vedado em recurso especial ante a incidência do enunciado n. 7 da Súmula do STJ. Precedentes: (AgInt no REsp 1503133/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 20/2/2018, DJe 8/3/2018; REsp 1696383/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2017, DJe 19/12/2017; e AgInt no AREsp 384.961/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 22/8/2017, DJe 3/10/2017.
+III - A enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+IV - Recurso especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de ação ajuizada por [NOME] em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando a concessão de auxílio-acidente.
+Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No Tribunal de Justiça do Estado de São Paulo, a sentença foi mantida em acórdão assim ementado:
+Ação acidentária - Obreira que pretende a conversão de auxílios doença previdenciários em seus homônimos acidentários - Laudo pericial que afasta as lesões alegadas na inicial e, por conseqüência, a incapacidade - Sentença de improcedência mantida - Recurso desprovido.
+As patologias apontadas pela autora como desencadeadas em razão dos trabalhos realizados não foram diagnosticas no laudo médico pericial, de modo que não há que se falar em deferimento de seu pedido de conversão dos auxílios doença previdenciários em seus homônimos acidentários.
+Opostos embargos de declaração, foram rejeitados.
+[NOME] interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal por ofensa ao art. 42 da Lei n. 8.213/91; ao art. 145 do CPC/73; e por divergência jurisprudencial.
+Alega em suma que, nos autos da ação acidentária n. 129.301.409-3, ajuizada em 2003, a perícia judicial concluiu pela existência de nexo causal entre as lesões da recorrente e as condições de trabalho. Assim, argumenta que, diante da divergência entre os dois peritos judiciais quanto ao nexo causal, o Tribunal de origem deveria ter determinado a realização de nova perícia.
+Não foram apresentadas contrarrazões ao recurso especial.
+O Tribunal de origem negou seguimento ao recurso especial, o que ensejou a interposição de agravo nos próprios autos.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Considerando que houve a impugnação aos fundamentos da decisão agravada e atendidos os demais pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Nos termos do art. 86 da Lei n. 8.213/91, para que seja concedido o auxílio-acidente, faz-se necessário que o segurado empregado, exceto o doméstico, o trabalhador avulso e o segurado especial (art. 18, § 1º, da Lei n. 8.213/91), tenha redução permanente da sua capacidade laborativa em decorrência de acidente de qualquer natureza.
+De acordo com a jurisprudência do STJ, "o auxílio-acidente visa indenizar e compensar o segurado que não possui plena capacidade de trabalho em razão do acidente sofrido, não bastando, portanto, apenas a comprovação de um dano à saúde do segurado, quando o comprometimento da sua capacidade laborativa não se mostre configurado" (REsp 1108298/SC, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, julgado em 12/5/2010, DJe 6/8/2010).
+No caso dos autos, o Tribunal de origem, com base nos fatos e provas dos autos e de laudo pericial, concluiu que a parte recorrente não apresenta redução da capacidade laborativa, nem lesões acidentárias incapacitantes, conforme excerto do acórdão regional (fl. 275):
+No caso dos autos, no laudo de fls. 174/179 e esclarecimentos de fls. 206, o Perito concluiu que "as alegações da autora nas iniciais que em decorrência do trabalho que realizava, "adquiriu LER/DORT, na forma clínica de Tendinite, Bursite e Síndrome do Desfiladeiro Torácico" não encontraram respaldo na análise realizada. Não há, portanto, quanto a estas alegações, seqüelas consolidadas de origem acidentária que impliquem em redução da capacidade funcional laborativa, nem lesões acidentários incapacitantes a indenizar"" (fls. 179), esclarecendo, ao final, que "Se a autora não apresenta doença de origem acidentária ou seqüelas consolidadas de origem acidentária, o que com certeza configura uma situação diferente do julgamento realizado em 2003 há seis anos atrás, não há o que converter. A pessoa pode apresentar um "estado de inaptidão laborai", mas não significa que seja de origem acidentária. Ratifico, portanto, as conclusões apresentadas no laudo médico pericial" (fls. 192).
+Com efeito, as conclusões periciais não autorizam o acolhimento dos pedidos da autora, tendo em vista que ausente o requisito da incapacidade, não há que se falar em benefício acidentário.
+Assim, a inversão do julgado para acolher a tese recursal demandaria necessariamente o revolvimento do mesmo conjunto fático-probatório, o que é vedado na instância especial diante do óbice do enunciado n. 7 da Súmula do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.
+AUXÍLIO-ACIDENTE. PEDIDO DE CONCESSÃO DE AUXÍLIO-ACIDENTE JULGADO IMPROCEDENTE PELA CORTE DE ORIGEM POR AUSÊNCIA DE REDUÇÃO DA CAPACIDADE LABORAL. REQUISITOS LEGAIS PARA A CONCESSÃO DO BENEFÍCIO NÃO PREENCHIDOS. INVIABILIDADE DE REAVALIAR O CONJUNTO FÁTICO-PROBATÓRIO PARA CONCLUSÃO DIVERSA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 86 da Lei 8.213/91, para que seja concedido o auxílio-acidente, necessário que o segurado empregado, exceto o doméstico, o trabalhador avulso e o segurado especial (art. 18, § 1o. da Lei 8.213/91), tenha redução na sua capacidade laborativa em decorrência de acidente de qualquer natureza.
+2. Por sua vez, o art. 20, I da Lei 8.213/91 considera como acidente do trabalho a doença profissional, proveniente do exercício do trabalho peculiar à determinada atividade, enquadrando-se, nesse caso, as lesões decorrentes de esforços repetitivos.
+3. As instâncias ordinárias, com base na prova pericial produzida em juízo, julgaram improcedente o pedido de concessão de auxílio-acidente com base na conclusão de que a sequela que acomete o segurado não acarreta prejuízo laboral considerável.
+4. A alteração dessa conclusão, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+5. Agravo Interno do Segurado a que se nega provimento.
+(AgInt no REsp 1503133/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 08/03/2018)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO AO ART. 535. DO CPC. NÃO OCORRÊNCIA. AUXÍLIO-ACIDENTE. PROBLEMAS NA COLUNA E NOS MEMBROS SUPERIORES. NÃO COMPROVADO O NEXO DE CAUSALIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Trata-se de ação em que busca o recorrente desconstituir acórdão que não reconheceu o direito ao benefício do auxílio-acidente.
+2. Constato que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+3. Modificar o acórdão recorrido, como pretende o recorrente, no sentido de reconhecer o nexo causal entre a doença e a atividade laboral, demandará o reexame de todo o contexto fático-probatório dos autos, o que é defeso ao STJ em vista do óbice da Súmula 7/STJ. Nesse sentido.
+4. Recurso Especial conhecido parcialmente e, nessa parte, não provido.
+(REsp 1696383/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/11/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. INCAPACIDADE E NEXO DE CAUSALIDADE. AUSÊNCIA. CERCEAMENTO DE DEFESA. OITIVA TESTEMUNHAL. MAGISTRADO COMO DESTINATÁRIO DA PROVA. INVERSÃO. SÚMULA 7 DO STJ.
+1. O Tribunal de origem, além de considerar inexistente o nexo de causalidade apto à concessão do benefício acidentário pleiteado, concluiu que estaria ausente também a incapacidade para as atividades laborativas da segurada, de modo que a inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ. 2. Como é cediço, compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências que as partes pretendem realizar, segundo o disposto nos arts. 130 e 420, II, do Código de Processo Civil/1973, podendo afastar o pedido de produção de provas que considerar inúteis ou meramente protelatórias.
+3. Agravo interno desprovido.
+(AgInt no AREsp 384.961/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 03/10/2017)
+Quanto à alegada divergência jurisprudencial, esclareço que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. HEPATITE C. INDENIZAÇÃO POR DANO MATERIAL E MORAL. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 7/STJ.
+1. O Tribunal a quo, procedendo com amparo nos elementos de convicção dos autos, entendeu que não há nexo causal entre a conduta dos agentes públicos e os danos sofridos pelos ora agravantes, e que estes não trouxeram provas para corroborar o que alegou.
+2. Não é cabível em Recurso Especial o exame de questões que demandam o revolvimento do contexto fático-probatório dos autos, em vista do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.612.647/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 7/3/2017).
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AUTORA.
+1. A reforma do acórdão recorrido, no sentido de se entender pela falsidade da prova pericial, da existência de documento novo e da ocorrência de erro de fato, demandaria necessário revolvimento de matéria fática, prática vedada pela Súmula 7/STJ.
+2. A incidência da Súmula 7 do STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido.
+(AgInt no AREsp 638.513/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 9/3/2017, DJe 15/3/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+É o voto.
