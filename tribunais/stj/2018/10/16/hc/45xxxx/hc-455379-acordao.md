@@ -1,0 +1,49 @@
+EMENTA
+PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO PARA O JULGAMENTO DA AÇÃO PENAL. NÃO OCORRÊNCIA. MARCHA REGULAR. RAZOABILIDADE. HABEAS CORPUS DENEGADO.
+1. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Nesta perspectiva, não se verifica ilegalidade quando, após prolatada a sentença de pronúncia, a defesa interpôs recurso em sentido estrito, que, além de suspender o julgamento do Tribunal do Júri, nos termos do art. 584, § 2º do CPP, esteve em constante movimentação, seguindo a sua marcha regular, embora tenha sido necessária a devolução dos autos ao Juízo de origem, para a juntada das contrarrazões do Parquet, não se tributando, pois, aos órgãos estatais indevida letargia.
+2. Ainda que o paciente esteja preso desde 28/4/2017, a custódia cautelar, no momento, não se revela desproporcional, diante das penas em abstrato atribuídas aos delitos imputados ao paciente na pronúncia.
+3. Habeas corpus denegado, porém com a recomendação de celeridade no julgamento da ação penal n. 0001340-65.2017.8.10.0054/MA.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, com recomendação, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSE [NOME] [NOME] RIBEIRO DA [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Maranhão que denegou o writ na origem.
+O acórdão impugnado contém a seguinte ementa (fl. 82):
+HABEAS CORPUS. ART. 121, § 2º, II e IV, DO CP. DECRETO DE PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. NÃO CONFIGURADO. RÉU PRONUNCIADO. SUBSTITUIÇÃO POR OUTRAS MEDIDAS CAUTELARES. INVIABILIDADE DE ANÁLISE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DENEGADA.
+O prazo para a conclusão dos autos não é absoluto, fatal e improrrogável, pois o excesso de prazo, segundo o pacífico entendimento jurisprudencial, deve ser aferido dentro dos limites da razoabilidade, considerando circunstâncias excepcionais que venham a retardar o andamento processual, não se restringindo à mera soma aritmética dos prazos processuais.
+Impossibilitada a análise da possibilidade de substituição da prisão preventiva por outras medidas cautelares alternativas, descritas no art. 319 do Código de Processo Penal, quando ausente a comprovação dos requisitos subjetivos favoráveis do paciente.
+Ordem denegada. Unanimidade.
+O impetrante busca a revogação da prisão preventiva ou a aplicação de medidas alternativas à prisão, sob a alegação de excesso de prazo para o julgamento da ação penal, havendo demora na apresentação das contrarrazões ao recurso em sentido estrito pelo Parquet.
+O paciente foi preso pela prática do delito tipificado no art. 121, § 2º, II e IV, do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela denegação do writ.
+Na origem, consta que, após a juntada das contrarrazões do Ministério Público ao recurso em sentido estrito, os autos foram enviados ao Tribunal de Justiça em 4/7/2018 para julgamento do recurso, conforme informações processuais eletrônicas disponíveis em 21/8/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O impetrante busca a revogação da prisão preventiva ou a aplicação de medidas alternativas à prisão, sob a alegação de excesso de prazo para o julgamento da ação penal, havendo demora na apresentação das contrarrazões ao recurso em sentido estrito pelo Parquet.
+Em suas informações, o Tribunal a quo assim se manifestou (fls. 107/108):
+ .. .1. Em 03/04/2018, foi impetrado em favor do mencionado paciente, o Habeas Corpus nº 0802500-26.2018.8.10.0000, contra ato do Juízo de Direito da Comarca de Presidente Dutra/MA, distribuído eletronicamente, ao Desembargador [NOME] Luiz Oliveira de Almeida que, ao reconhecer a prevenção ao Recurso em Sentido Estrito, determinou a redistribuição dos mesmos a esta Relatoria. Os quais vieram conclusos em 10/04/2018.
+2. A insurgência do impetrante, naquela Ação, reportava-se essencialmente, ao excesso de prazo na formação da culpa, sob a alegação de que teria interposto Recurso em Sentido Estrito, da decisão de pronúncia e o referido recurso, carente das contrarrazões Ministeriais, fora devolvido à Comarca de origem para saneamento de tal lapso, sem que, até a data da impetração, tivesse sido recebido pelo destinatário.
+3. Requisitadas informações, foi acostada certidão da Secretária da 2ª Câmara Criminal, dando conta de equívoco na remessa dos autos para comarca diversa da pretendida, mas que, já se estava providenciando a regularização no envio dos autos ao Juízo de origem.
+4. Em 07/06/2018, após as diligências necessárias, e subsidiado na gravidade do crime praticado pelo paciente que desferiu uma facada, pelas costas, do próprio filho, o qual faleceu dois dias depois, e, no fato do paciente já ter sido pronunciado, os referidos autos foram julgados pela 2ª Câmara Criminal, quando, à unanimidade de votos e, de acordo com o parecer da Procuradoria Geral, foi denegada a ordem, cujo acórdão juntado em 15/06/2018, foi publicado em 19/06/2018.
+5. Informo ainda que em consulta ao sistema JURISCONSULT, ficou constatado que as diligências requeridas, já foram cumpridas pela juízo de base, o qual determinou o envio do Recurso a este Tribunal, para a regular tramitação e julgamento. .. .
+O Juízo de origem, por sua vez, prestou as seguintes informações (fl. 138):
+ .. .Em resposta ao pedido de informações, em que é paciente [NOME], venho prestar as informações que se seguem.
+Com regular trâmite processual, o paciente foi pronunciado no dia 30 de agosto de 2017 em sede de audiência de instrução e julgamento realizada.
+Após, foi interposto Recurso em Sentido Estrito pela Defensoria Pública no dia 13 de novembro de 2017, recebido no mesmo dia por este juízo.
+As razões do Recurso acima indicado foram apresentadas e no dia 29/11/2017 foi mantida a decisão de pronúncia.
+Em 01 de dezembro de 2017 os autos foram remetidos ao Egrégio Tribunal de Justiça do Maranhão sendo distribuídos para a Segunda Câmara Criminal em 18 de janeiro de 2018, sob relatoria do Desembargador [NOME] Bernardo [NOME] Rodrigues.
+Ato contínuo, foi impetrado Habeas Corpus distribuído para a 2ª Câmara Criminal do Tribunal de Justiça do Estado do Maranhão, onde foi denegado a ordem impetrada.
+Informamos por derradeiro que os autos encontram-se, portanto, no Tribunal de Justiça do Maranhão desde o dia 01 de dezembro de 2017. .. .
+Na hipótese, conforme as informações prestadas e da análise do andamento processual constante do endereço eletrônico do Tribunal de origem, constatou-se que o paciente foi preso em 28/4/2017 pela prática do delito tipificado no art. 121, § 2º, II e IV, do Código Penal;
+Em 30/8/2017, foi prolata sentença de pronúncia, tendo a defesa interposto recurso em sentido estrito em 13/11/2017, que foi remetido ao Tribunal de Justiça em 1/12/2017 e, ante a ausência de contrarrazões do Ministério Público, o recurso foi devolvido à Comarca de origem para regularização;
+Consta que, por equívoco, a remessa dos autos foi feita para comarca diversa da pretendida e, após o recebimento pelo juízo competente e juntadas as contrarrazões, os autos foram enviados à Corte a quo em 4/7/2018 para o julgamento do recurso em sentido estrito.
+Cumpre observar, por oportuno, que, quanto à primeira fase do Tribunal do Júri, nos termos da súmula n. 21/STJ - Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo da instrução. A esse respeito: HC 73.843/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/12/2016, DJe 01/02/2017; HC 343.617/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/03/2016, DJe 09/03/2016; RHC 65.628/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/12/2016, DJe 14/12/2016.
+Posto isso, sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética dos mesmos.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Nesse contexto, verifica-se que, após prolatada a sentença de pronúncia, a defesa interpôs recurso em sentido estrito, que, além de suspender o julgamento do Tribunal do Júri, nos termos do art. 584, § 2º do CPP, esteve em constante movimentação, seguindo a sua marcha dentro da normalidade, embora tenha sido necessária a devolução dos autos ao Juízo de origem para a juntada das contrarrazões do Parquet, não se tributando, pois, aos órgãos estatais indevida letargia.
+Cumpre observar, ademais, que, ainda que o paciente esteja preso desde 28/4/2017, a custódia cautelar, no momento, não se revela desproporcional, diante das penas em abstrato atribuídas aos delitos imputados ao paciente na pronúncia.
+Não constatada mora estatal em ação penal onde a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida. Nesse sentido:
+Ante o exposto, voto por denegar o habeas corpus, porém com a recomendação de celeridade no julgamento da ação penal n. 0001340-65.2017.8.10.0054/MA.
