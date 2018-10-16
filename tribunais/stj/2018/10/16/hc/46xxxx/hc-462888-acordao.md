@@ -1,0 +1,92 @@
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. INÉPCIA DA DENÚNCIA. PREJUDICIALIDADE. ABSOLVIÇÃO. VÍNCULO ESTÁVEL E PERMANENTE NÃO COMPROVADO. TRÁFICO DE DROGAS. ABRANDAMENTO DO REGIME. HABEAS CORPUS CONHECIDO EM PARTE. ORDEM CONCEDIDA.
+1. Com a prolação de sentença condenatória, fica prejudicado o exame da tese atinente à inépcia da denúncia. Precedente.
+2. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+3. No caso em exame, a moldura fática descrita na sentença e no acórdão permite verificar que: a) o réu foi encontrado sozinho na posse de entorpecentes, radiotransmissor e arma de fogo, ocasião em que admitiu atuar como "vapor" - tanto que foi o único denunciado na ação penal objeto deste writ; b) o local em que estava o acusado é conhecido como ponto de venda de drogas, vinculado à associação criminosa "Comando Vermelho".
+4. Tanto a associação do paciente com outras pessoas quanto o vínculo estável e permanente ao grupo denominado "Comando Vermelho" - para a prática do comércio ilegal de drogas - foram presumidos pelas instâncias antecedentes, em violação à regra probatória inerente ao princípio da presunção de inocência.
+5. O acusado era primário ao tempo do delito, teve a pena-base - pelo crime de tráfico de entorpecentes - fixada no mínimo legal e, mantida a condenação apenas pelo crime de tráfico de drogas, a reprimenda definitivamente imposta é superior a 4 anos e inferior a 8 anos de reclusão.
+6. Como a quantidade de droga apreendida com o réu não foi mencionada pelas instâncias ordinárias para fixar o regime inicial de cumprimento da reprimenda, é vedado a esta Corte a menção a tal circunstância, sob pena de, em ação concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do paciente.
+7. Habeas corpus conhecido em parte e, nessa extensão, concedida a ordem, a fim de absolver o réu do crime descrito no art. 35 da Lei n. 11.343/2006 e fixar o regime inicial semiaberto para cumprimento da pena atinente ao delito de tráfico de drogas.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conhecer parcialmente do pedido e, nesta parte, conceder a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MATHAUS QUINTANILHA DA SILVA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação n. 0072511-32.2013.8.19.0001.
+Nesta Corte, a defesa sustenta a inépcia da denúncia e a insuficiência de provas para justificar a condenação do paciente pela prática do crime de associação ao tráfico de drogas, em face da ausência de demonstração dos requisitos da estabilidade e da permanência. Afirma que, absolvido o réu do delito previsto no art. 35 da Lei n. 11.343/2006, deveria ser estabelecido o regime inicial semiaberto para o cumprimento da pena imposta pela prática do crime de tráfico de drogas.
+Requer, dessa forma, "a concessão da ordem para desconstituir o acórdão no ponto aqui considerado para absolvição na imputação do artigo 35 da Lei 11.343/06" (fl. 33, grifei) e o abrandamento do regime quanto ao crime do art. 33 do mesmo diploma legal. Ausente pedido liminar.
+Prestadas as informações (fls. 98-115), o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 117-120).
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. INÉPCIA DA DENÚNCIA. PREJUDICIALIDADE. ABSOLVIÇÃO. VÍNCULO ESTÁVEL E PERMANENTE NÃO COMPROVADO. TRÁFICO DE DROGAS. ABRANDAMENTO DO REGIME. HABEAS CORPUS CONHECIDO EM PARTE. ORDEM CONCEDIDA.
+1. Com a prolação de sentença condenatória, fica prejudicado o exame da tese atinente à inépcia da denúncia. Precedente.
+2. A jurisprudência desta Corte Superior firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+3. No caso em exame, a moldura fática descrita na sentença e no acórdão permite verificar que: a) o réu foi encontrado sozinho na posse de entorpecentes, radiotransmissor e arma de fogo, ocasião em que admitiu atuar como "vapor" - tanto que foi o único denunciado na ação penal objeto deste writ; b) o local em que estava o acusado é conhecido como ponto de venda de drogas, vinculado à associação criminosa "Comando Vermelho".
+4. Tanto a associação do paciente com outras pessoas quanto o vínculo estável e permanente ao grupo denominado "Comando Vermelho" - para a prática do comércio ilegal de drogas - foram presumidos pelas instâncias antecedentes, em violação à regra probatória inerente ao princípio da presunção de inocência.
+5. O acusado era primário ao tempo do delito, teve a pena-base - pelo crime de tráfico de entorpecentes - fixada no mínimo legal e, mantida a condenação apenas pelo crime de tráfico de drogas, a reprimenda definitivamente imposta é superior a 4 anos e inferior a 8 anos de reclusão.
+6. Como a quantidade de droga apreendida com o réu não foi mencionada pelas instâncias ordinárias para fixar o regime inicial de cumprimento da reprimenda, é vedado a esta Corte a menção a tal circunstância, sob pena de, em ação concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do paciente.
+7. Habeas corpus conhecido em parte e, nessa extensão, concedida a ordem, a fim de absolver o réu do crime descrito no art. 35 da Lei n. 11.343/2006 e fixar o regime inicial semiaberto para cumprimento da pena atinente ao delito de tráfico de drogas.
+
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+O paciente foi condenado, em primeira instância, à pena de 9 anos e 4 meses de reclusão, em regime inicial fechado, e 1.399 dias-multa, como incurso nos arts. 33, caput, e 35, caput, ambos c/c o art. 40, IV, todos da Lei n. 11.343/2006.
+Segundo a denúncia, na data dos fatos, o acusado "trazia consigo e guardava, para fins de tráfico, 572g (quinhentos e setenta e dois gramas) da substância entorpecente [NOME], acondicionadas em 205 (duzentos e cinco) pequenos sacos plásticos,  ..  e 122g (cento e vinte e dois) gramas da substância cloridrato de cocaína, na forma de pó, acondicionados em 240 (duzentos e quarenta) tubos plásticos" (fl. 18, grifei).
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo defensivo.
+Feito esse registro, examino as teses defensivas.
+II. Inépcia da denúncia
+De início, observo que a questão relacionada à insuficiência dos elementos descritos na denúncia, sobretudo pela ausência de individualização dos demais membros da suposta associação delitiva integrada pelo réu, não comporta conhecimento.
+Com efeito, a jurisprudência desta Corte Superior é firme em assinalar que a prolação "de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia, haja vista a insubsistência do exame de cognição sumária, relativo ao recebimento da denúncia, em face da posterior sentença de cognição exauriente" (HC n. 384.302/TO, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 9/6/2017).
+
+III. Absolvição do crime de associação para o tráfico de drogas
+A respeito do tema, o Juízo sentenciante consignou que (fls. 60-61, destaquei):
+ ..
+Como é cediço, o crime em tela exige, como um de seus elementos, a societas sceleris, ou seja, o vínculo associativo, como já dito, demandando, portanto, uma atuação conjugada de parceiros. No caso, além da atuação conjugada, deve-se ter, também, a estabilidade da associação.
+O conjunto probatório mostra-se suficiente para se ter como configurada a associação em caráter permanente. Note-se que, conforme se apurou, o Acusado foi preso portando um revólver calibre .38 e farta quantidade de droga, além de um radiocomunicador e certa quantia em dinheiro, o que impõe reconhecer que atuava com o propósito de traficar com estabilidade. Os policiais militares também afirmaram que o local é dominado pela facção comando vermelho, sendo certo que a referida organização criminosa não permite a atuação avulsa, ou seja, se o acusado trabalhava para o tráfico, e isso foi confirmado, é porque integrava a referida súcia.
+Note-se que o conluio criminoso retratado nos autos indica o caráter permanente da associação, onde as funções são divididas, sendo que o Acusado confirmou aos policiais no momento de sua prisão que exercia a função de "vapor" do tráfico.
+Além disso, a posse de mais de quatrocentos sacolés de maconha e cocaína, além de uma arma de fogo indica que possuía a confiança da organização e revela que a ela estava associado.
+Sendo assim, resultou comprovado o elemento subjetivo do tipo penal de que o Réu e demais integrantes da facção criminosa autodenominada Comando Vermelho atuavam, em caráter estável e permanente, em conluio criminoso entre si, com vistas à traficância.
+Ao analisar o recurso defensivo, a Corte de origem asseverou que (fl. 88, grifei):
+ ..
+Enfim, as circunstâncias da prisão e os demais elementos de provas dos autos demonstram que o acusado não só comercializava entorpecentes, como também estava associado aos integrantes da facção criminosa que comanda o tráfico da localidade.
+Como cediço, radiotransmissores são utilizados por elementos ligados a organizações criminosas bem estruturadas com o fito de assegurar a traficância, protegendo-a da atuação repressiva do Estado e até mesmo da atuação de grupos rivais.
+Ademais, certo é que, em locais dominados por facções criminosas - como é o caso dos autos -, não é possível que uma pessoa na situação do réu, flagrado com grande quantidade e variedade de drogas, radiotransmissor e, ainda, portando arma de fogo, com livre circulação pela comunidade, atuasse de forma autônoma, sem vínculo associativo com os traficantes da área.
+A tese defensiva de que para a configuração do delito de associação para tráfico exige-se a comprovação da "permanência" e "estabilidade" não merece acolhimento.
+Com efeito, o legislador, ao definir o crime de associação para prática do tráfico, não inseriu as expressões "permanência" ou "estabilidade"; mas, diferentemente, o artigo 35 da Lei n. 11.343/06 incrimina a associação para o fim de praticar os delitos previstos nos artigos 33, caput e parágrafo 1.º, e 34, reiteradamente ou não, sendo certo que, no caso em tela, se demonstrou, quantum satis, que acusado efetivamente estava associado a elementos integrantes da facção criminosa atuante na localidade para a prática dos crimes supracitados.
+Para melhor análise da questão sub examine, transcrevo o disposto no art. 35 da Lei n. 11.343/2006:
+Art. 35. Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei:
+Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 700 (setecentos) a 1.200 (mil e duzentos) dias-multa.
+Parágrafo único. Nas mesmas penas do caput deste artigo incorre quem se associa para a prática reiterada do crime definido no art. 36 desta Lei.
+Diante da expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas a fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 da Lei de Drogas, passou-se a perscrutar se, para a caracterização do delito de associação para o tráfico, seria necessário que a reunião entre os acusados se desse de forma estável - tal como é exigido no antigo crime de quadrilha ou bando (art. 288 do Código Penal), atual delito de associação criminosa -, ou bastaria a convergência ocasional de vontades ou a eventual colaboração entre duas ou mais pessoas para a prática das infrações constantes dos arts. 33 e 34.
+A esse respeito, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+A propósito, confiram-se os seguintes julgados:
+ ..
+1. A jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é imprescindível a demonstração concreta da estabilidade e da permanência da associação criminosa.
+ ..
+6. Ordem não conhecida.
+(HC n. 220.231/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016, grifei)
+ ..
+2. O acórdão impugnado entendeu pela desnecessidade do ânimo associativo permanente, reconhecendo que a associação para a prática de um crime seria suficiente para condenar a acusada como incursa no art. 35 da Lei n.º 11.343/06. Entretanto, nos termos da jurisprudência desta Corte Superior de Justiça e do Supremo Tribunal Federal, para configuração do tipo de associação para o tráfico, necessário estabilidade e permanência na associação criminosa. Atipicidade reconhecida.
+3. Reconhecida a atipicidade da conduta de associação eventual para o tráfico de drogas, o édito condenatório perdeu seu único argumento para negar à Paciente a causa de diminuição de pena inserta no § 4.º do art. 33 da Lei 11.343/2006, na medida em que, considerou o acórdão impetrado que a condenada, ora Paciente, não preenche os requisitos legais para a concessão da benesse por integrar associação criminosa.
+ ..
+(HC n. 248.844/GO, Rel. Ministra Laurita Vaz, 5ª T., DJe 28/5/2013, destaquei)
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é preciso que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico.
+No caso em exame, a moldura fática descrita tanto na sentença quanto no acórdão permite verificar que: a) o réu foi encontrado sozinho na posse de entorpecentes, radiotransmissor e arma de fogo, ocasião em que admitiu atuar como "vapor" - tanto que foi o único denunciado na ação penal objeto deste writ; b) o local em que estava o acusado é conhecido como ponto de venda de drogas, vinculado à associação criminosa "Comando Vermelho".
+Com base nessas premissas, observo que tanto a associação do acusado com outras pessoas quanto o vínculo estável e permanente ao grupo denominado "Comando Vermelho" - para a prática do comércio ilegal de drogas - foram presumidos pelas instâncias antecedentes, em violação à regra probatória inerente ao princípio da presunção de inocência, entendimento que destoa da jurisprudência consolidada desta Corte Superior.
+Assim, percebo a ilegalidade suscitada, a ensejar a absolvição do paciente.
+Em caso semelhante, este Superior Tribunal também decidiu pela absolvição relativamente ao delito previsto no art. 35 da Lei de Drogas:
+ ..
+2. Para a configuração do delito de associação para o tráfico de drogas é necessário o dolo de se associar com estabilidade e permanência, sendo que a reunião de duas ou mais pessoas sem o animus associativo não se subsume ao tipo do art. 35 da Lei n. 11.343/2006. Trata-se, portanto, de delito de concurso necessário.
+3. Hipótese em que a Corte de origem não apresentou elementos concretos que demonstrem efetivamente o vínculo associativo estável e permanente entre o paciente e outros integrantes da facção criminosa. Não houve sequer a indicação de quem seriam as demais pessoas com ele associadas. Na falta da comprovação de dois requisitos legais para a configuração do delito de associação para o tráfico de entorpecentes, pluralidade de agentes e vínculo subjetivo no cometimento dos delitos , a absolvição do paciente é medida que se impõe.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para absolver o paciente pelo delito de associação para o tráfico de drogas, resultando a pena definitiva em 5 anos e 6 meses de reclusão, mantido o regime inicial fechado.
+(HC n. 434.880/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 9/4/2018, grifei)
+Resta ao réu, dessa forma, o cumprimento da pena de 5 anos e 10 meses de reclusão e 583 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+IV. Regime prisional inicial
+A sentença condenatória fixou o regime mais gravoso porque a pena então imposta era superior a 8 anos de reclusão, além de se tratar de crime hediondo. O Tribunal de origem manteve a conclusão exarada "considerando não só o quantum da pena, mas também a condenação do apelante pelo crime de associação para o tráfico, com utilização de arma de fogo" (fl. 91).
+Observo que o acusado era primário ao tempo do delito, teve a pena-base fixada no mínimo legal e, mantida a condenação apenas pelo crime de tráfico de drogas, a reprimenda definitivamente imposta é superior a 4 anos e inferior a 8 anos de reclusão.
+Na espécie, noto que as circunstâncias mencionadas pela Corte estadual são inerentes aos delitos pelos quais o réu havia sido condenado - arts. 33, caput, e 35, caput, ambos c/c o art. 40, IV, todos da Lei n. 11.343/2006 - e, por isso mesmo, não são idôneas para justificar o regime mais gravoso. Embora não desconheça ser elevada a quantidade de droga apreendida (cerca de 572 g de maconha e 122 g de cocaína), deixo de utilizar esse dado para manter o regime fechado.
+Com efeito, a jurisprudência desta Corte é firme em considerar que o acréscimo de fundamentos, no julgamento de habeas corpus, não se presta a suprir a ausente motivação do Juízo natural, sob pena de, em ação concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do acusado. Ilustrativamente: HC n. 377.398/PE (Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 21/3/2017).
+Desse modo, ausentes motivos suficientes a justificar o regime mais gravoso, estabeleço o modo semiaberto para o início do cumprimento da pena.
+V. Dispositivo
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, concedo a ordem, a fim de absolver o réu do crime previsto no art. 35 da Lei n. 11.343/2006, bem como fixar o regime inicial semiaberto para cumprimento da pena atinente ao delito de tráfico de drogas.
+Comunique-se, com urgência, o inteiro teor deste decisum às instâncias ordinárias.
