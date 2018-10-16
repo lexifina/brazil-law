@@ -1,0 +1,31 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. “PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. OMISSÃO. NÃO OCORRÊNCIA. CARÁTER MERAMENTE INFRINGENTE. APELO EXTREMO E DECLARATÓRIOS MANEJADOS SOB A VIGÊNCIA DO CPC/2015. EMBARGOS REJEITADOS.
+1. O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+2. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas na decisão embargada.
+3. Ausência de omissão, contradição e obscuridade justificadoras da oposição de embargos declaratórios, a teor do art. 1022 do CPC/2015, a evidenciar o caráter meramente infringente da insurgência.
+4. Majoração em 10% (dez por cento) dos honorários advocatícios anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+5. Embargos de declaração rejeitados.
+    Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual negado seguimento a agravo em recurso extraordinário, ao fundamento da ausência de ressonância constitucional das matérias que versam sobre suposta nulidade em intimação para sessão de julgamento.
+    O embargante aduz omisso o julgado, ao articular direta a ofensa a preceitos constitucionais. Defende que não teve análise de suas argumentações quanto à referida nulidade. Requer a concessão de efeitos infringentes para apreciar o mérito do apelo extremo.
+     Destaco cuidar-se de recurso extraordinário aparelhado na afronta ao art. 5º, XXXV e LXXIV, da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Ceará, assim ementado:
+    "DIREITO CIVIL E PROCESSO CÍVEL – AÇÃO DE REINTEGRAÇÃO DE POSSE – REQUISITOS – ARTS. 926 E 927 DO CPC/73, RENOVADOS NO CÓDE DE 2015, ARTS. 560 E 561 – PERDA DA POSSE – PROVA – PRESENÇA – ESBULHO CONFIGURADO – RECURSO NÃO PROVIDO."
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios, independentemente do caráter infringente que ostentam.
+    Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    Realço inexistente a veiculada omissão na decisão embargada, haja vista expressamente registrado o entendimento de que a apreciação do pleito recursal demanda a inarredável análise da legislação infraconstitucional aplicável à espécie, providência inviável nesta estreita via recursal, verbis:
+    “O exame de eventual ofensa ao preceito constitucional indicado nas razões recursais, consagrador do princípio da inafastabilidade da prestação jurisdicional, demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, verbis:
+     “PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.” (RE 956.302-RG, Rel. Min. Edson Fachin, Pleno, DJe 16.6.2016)
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 5º, LXXIV, da Constituição da República.  ”
+    De mais a mais, enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, bem como aquelas tidas por omissas, afasta-se a tese veiculada nos embargos declaratórios de que omisso o decisum.
+    Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    Pontuo, por derradeiro, que não se prestam os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    Majoração em 10% (dez por cento) dos honorários advocatícios anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 16 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
