@@ -1,0 +1,29 @@
+decisão
+    Trata-se de embargos de declaração opostos contra decisão monocrática assim fundamentada:
+    “Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região. Veja-se o seguinte trecho de ementa:
+    ‘ADMINSTRATIVO. PENSÃO ESPECIAL POR MORTE DE EX-COMBATENTE. FALECIMENTO POSTERIOR À CF/88, MAS ANTERIOR À LEI Nº 8.059/90. INCIDÊNCIA DO PRINCÍPIO TEMPUS REGIT ACTUM. COMPANHEIRA. REVERSÃO DA COTA-PARTE ANTES PERCEBIDA PELOS FILHOS MENORES. AQUISIÇÃO DA MAIORIDADE. JUROS DE MORA. REFORMA PARCIAL DA SENTENÇA.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente aponta violação aos arts. 2º; 5º, XXXV e LIV; 93, IX, da Constituição, bem como ao art. 53, II e III, do ADCT.’
+    A decisão agravada negou seguimento ao recurso pelo seguinte fundamento: “Se ofensa existe à Carta Magna, esta é apenas reflexa, como bem se nota dos fundamentos do recurso extraordinário interposto. É o caso de se aplicar a Súmula 284/STF”.
+    O recurso extraordinário não deve ser provido. Isso porque o acórdão recorrido está alinhado com a jurisprudência desta Corte no sentido de que o direito à pensão de ex-combatente é regido pelas normas legais em vigor na data da morte do instituidor. Nesse sentido, veja-se a ementa do RE 638.227-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. FILHA DE EX- COMBATENTE. PENSÃO ESPECIAL. REGÊNCIA. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. O direito à pensão de ex-combatente é regido pelas normas legais em vigor à data do evento morte. Tratando-se de reversão do benefício à filha mulher, em razão do falecimento da própria mãe que a vinha recebendo, consideram-se não os preceitos em vigor quando do óbito desta última, mas do primeiro, ou seja, do ex-combatente (MS 21.707/DF, Redator para o acórdão o Ministro Marco Aurélio, Pleno DJ de 22.09.95). No mesmo sentido: AI 537.651-AgR, Relator o Ministro Eros Grau, Primeira Turma, DJ de 11.11.05; AI 724.458-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ de 1º.10.10.
+    2. In casu, o acórdão originalmente recorrido assentou que: PENSÃO DE EX-COMBATENTE. REVERSÃO DO BENEFÍCIO. FILHA MAIOR DE 21 ANOS, EM DECORRÊNCIA DO ÓBITO DA MÃE OCORRIDO ANTES DA LEI Nº 8.059/90. A Lei nº 8.059 de 04 de julho de 1990, que regulamentou o artigo 53 do ADCT, estabelece, em seu artigo 5º, III, as condições para a persecução do benefício. A autora é maior de 21 anos e, por isso, não faz jus à pensão aumentada. No que concerne à assistência médico-hospitalar gratuita, de que trata o art. 53, IV, do ADCT, a sentença que a concedeu é mantida. Sentença reformada. Apelação e remessa necessária providas em parte.
+    3. Agravo regimental a que se nega provimento.’
+    Na hipótese, o Tribunal de origem assentou que o falecimento do instituidor da pensão ocorreu antes da vigência da Lei nº 8.059/1990, de modo que devem ser aplicadas as Leis nºs 3.765/1960 e 4.242/1963, vigentes à época do óbito, para regular o benefício. Com efeito, para dissentir do entendimento acerca da norma legal aplicável ao caso concreto, seriam necessários a análise da legislação infraconstitucional pertinente, bem como o reexame dos fatos e provas constates dos autos, providências incabíveis nesta sede (incidência da Súmula 279/STF). Nessa linha, vejam-se: AI 537.651-AgR, Rel. Min. Eros Grau; AI 771.290-AgR, Rel. Min. Dias Toffoli; e AI 847.578-AgR, Rel. Min. Luiz Fux.
+    O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Esta Corte tem firme entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se. ”
+    A parte embargante sustenta que houve omissão “quanto a aplicabilidade da Lei n. 11.960/2009, que alterou o artigo 1-F da Lei 9.494/97, com relação à correção monetária sobre as condenações impostas à Fazenda Pública”.
+    Com razão a parte embargante. De modo que acolho os embargos apenas para integrar a decisão que passará a ter a seguinte redação:
+    “Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região. Veja-se o seguinte trecho de ementa:
+    [...]
+     Quanto aos juros, o Supremo Tribunal Federal, nos autos do RE 870.947-RG, julgado sob a relatoria do Ministro Luiz Fux, reconheceu a existência de repercussão geral da controvérsia relativa à validade da correção monetária e dos juros moratórios incidentes sobre condenações impostas à Fazenda Pública, tanto na fase de conhecimento quanto na fase de execução, conforme determina o art. 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009 (tema 810).
+    Diante do exposto:
+    (i) quanto à pensão de ex-combatente, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. ; e
+    (ii) quanto à controvérsia dos juros, com base no art. 328, parágrafo único, do RI/STF, determino o retorno dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.”
+    Diante do exposto, acolho os embargos de declaração com efeitos modificativos.
+    Publique-se.
+          Brasília, 16 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
