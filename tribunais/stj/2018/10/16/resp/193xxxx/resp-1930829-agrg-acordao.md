@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL. CRIME DE RESPONSABILIDADE DE PREFEITOS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Firmou-se no âmbito de ambas as Turmas que compõem a Terceira Seção deste Tribunal Superior o entendimento no sentido de que o acórdão que apenas confirma o decreto condenatório, como na hipótese, não constitui marco interruptivo da prescrição.
+2. No caso destes autos, o agravado foi condenado a 2 (dois) anos de reclusão, em regime inicial aberto, pela prática do crime previsto no art. 1º, inciso II, do Decreto-Lei n. 201/1967, sendo que a sentença condenatória - último marco interruptivo da prescrição - foi publicada em 25.2.2014.
+3. Considerando o prazo de 4 (quatro) anos previsto no art. 109, inciso V, do Código Penal, já transcorreu prazo superior ao legalmente assinalado para a extinção da punibilidade pelo decurso do prazo de prescrição da pretensão punitiva.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI: Trata-se de agravo regimental interposto pelo Ministério Público do Rio Grande do Sul contra decisão unipessoal desta Relatoria (e-STJ, fls. 1130-1132), que deferiu o pedido formulado pela defesa, declarando extinta a punibilidade do agravado [NOME] em razão do decurso do prazo prescricional.
+De acordo com os autos, o agravado foi condenado a 2 (dois) anos de reclusão, em regime inicial aberto, pela prática do crime previsto no art. 1º, inciso II, do Decreto-Lei n. 201/1967. A pena privativa de liberdade foi substituída por medidas restritivas de direitos.
+ A sentença condenatória foi publicada em 25.2.2014. Contra esta decisão, foram opostos embargos de declaração, rejeitados por meio de decisum publicado em 9.7.2014.
+O recurso de apelação foi julgado em 25.6.2015. O eg. Tribunal de Justiça gaúcho negou provimento ao recurso. Foram opostos embargos de declaração, rejeitados por meio de acórdão publicado em 17.8.2015.
+A defesa apresentou recurso especial, inadmitido na origem. O agravo em recurso especial também não obteve êxito nesta instância.
+A defesa, então, apresentou petição avulsa, por meio da qual postulou o reconhecimento da extinção da punibilidade pelo decurso do prazo prescricional. Em 17.8.2018, por meio de decisão monocrática, acolheu-se o pedido.
+Neste regimental, o parquet estadual alega que o Supremo Tribunal Federal tem entendimento no sentido de considerar o acórdão confirmatório da sentença condenatória marco interruptivo do prazo prescricional, razão pela qual não há que se falar em extinção da punibilidade na hipótese destes autos.
+Requer o provimento do presente agravo para que seja afastado o reconhecimento da prescrição.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI: Atendidos os requisitos genéricos de admissibilidade, passa-se à análise do mérito recursal.
+Firmou-se no âmbito de ambas as Turmas que compõem a Terceira Seção deste Tribunal Superior o entendimento no sentido de que o acórdão que apenas confirma o decreto condenatório, como na hipótese, não constitui marco interruptivo da prescrição, consoante se extrai dos seguintes julgados:
+AGRAVO REGIMENTAL EM PETIÇÃO EM RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO. EXTINÇÃO DA PUNIBILIDADE. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO, MAS QUE MAJOROU A PENA APLICADA. NÃO OCORRÊNCIA DE NOVO MARCO INTERRUPTIVO DA PRESCRIÇÃO. PRESCRIÇÃO CARACTERIZADA.
+1. Nos termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição. Precedentes: AgRg nos EDcl no AgRg no Ag 1.112.682/SP, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 1º/3/2016, DJe 9/3/2016; AgRg no AgRg no REsp 1.393.682/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/4/2015, DJe 6/5/2015, HC 243.124/AM, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 20/8/2012 .
+2. Hipótese em que o agravado foi condenado a penas superiores a 4 e inferiores a 8 anos de reclusão, incidindo, portanto, o prazo prescricional de 12 anos, nos termos do disposto no art. 109, inciso III, do Código Penal.
+3. Da última causa interruptiva da prescrição, a publicação da sentença condenatória, em 24/1/2002, até a decisão agravada, observa-se o transcurso de mais de 12 anos para ambos os crimes imputados ao réu. Não tendo sido iniciado o cumprimento da pena nem tendo ocorrido nenhuma outra causa interruptiva, está caracterizada a prescrição.
+Agravo regimental improvido. (AgRg no RE nos EDcl no REsp 1301820 / RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, Julgado em 16/11/2016, DJe 24/11/2016)
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. CONDENAÇÃO. ACÓRDÃO CONFIRMATÓRIO. FATO POSTERIOR À LEI N. 11.596/2007. IRRELEVÂNCIA. INTERRUPÇÃO DA PRESCRIÇÃO. NÃO OCORRÊNCIA.
+1. Mesmo em se tratando de fatos posteriores à alteração do art. 117, IV, do Código Penal pela Lei n. 11.596/2007, é firme a jurisprudência desta Corte no sentido de que o acórdão que dá parcial provimento a recurso defensivo, confirma a condenação e reduz a pena aplicada não constitui marco interruptivo da prescrição.
+2. Embargos de declaração rejeitados. (EDcl no AgRg no REsp 1233343/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/11/2013, DJe 05/12/2013)
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CAUSAS INTERRUPTIVAS DO PRAZO PRESCRICIONAL (CP, ART. 107). PUBLICAÇÃO DA SENTENÇA CONDENATÓRIA. ÚLTIMO MARCO. EXTINÇÃO DA PUNIBILIDADE DO CONDENADO. OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. DECLARAÇÃO DE OFÍCIO.
+1. A jurisprudência deste Colendo Tribunal assenta que os acórdãos confirmatórios da condenação não podem ser considerados como causas interruptivas do prazo prescricional, a teor do que disciplina o art. 117, inciso IV, do Código Penal (redação determinada pela Lei n.º 11.596/2007).
+2. Na linha da aludida orientação, verifica-se, na hipótese, o advento da prescrição da pretensão punitiva, porquanto entre a data da publicação da sentença, ultimo marco, e a atual, transcorreram-se mais de oito anos, ex vi do art. 109, inciso IV, do Código Penal, sem a ocorrência de superveniente causa interruptiva.
+4. Assim, impõe-se declarar, de ofício, por se tratar de matéria de ordem pública, a extinção da punibilidade do condenado A N. Recurso julgado prejudicado. (REsp 882.415/RS, Rel. Ministro CAMPOS MARQUES (DESEMBARGADOR CONVOCADO DO TJ/PR), QUINTA TURMA, julgado em 23/4/2013, DJe 26/4/2013)
+Considerando a pena aplicada, o prazo prescricional é de 4 (quatro) anos, nos termos do art. 109, V, do Código Penal.
+Fixado o prazo prescricional aplicável à espécie, verifica-se o transcurso de período superior a 4 anos entre a publicação da sentença condenatória e a presente data, sendo, portanto, de rigor o reconhecimento da extinção da punibilidade pelo decurso do prazo prescricional, não havendo reparos a serem feitos na decisão impugnada.
+Diante do exposto, nego provimento ao agravo regimental.
+É o voto.
