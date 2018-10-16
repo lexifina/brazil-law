@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+    “Apelação interposta pela embargada contra sentença que, em sede de embargos à execução objetivando o reconhecimento da inexigibilidade do título executivo, em razão do julgamento, pelo Supremo Tribunal Federal, do Recurso Extraordinário 638.115, ou, alternativamente, declaração da inconsistência dos cálculos elaborados com base na certidão de f. 11/13, nos quais não figura o nome da exequente, mas de outra pessoa, julgou procedente o pedido e extinguiu a execução.
+    O cenário mostra execução de sentença, tendo por objeto central a incorporação de quintos no período compreendido entre 1998 a 2001, na qual, a embargante entende que ... o Plenário do Supremo Tribunal Federal reconheceu inconstitucionalidade da incorporação de quintos por exercício de função/cargo comissionado naquele período (RE 638115). Por consequência, impunha-se a aplicação do então vigente art. 741, parágrafo único do CPC/73.
+    A pretensão da apelada carece de sustentação jurídica que a ampare, como se verifica da conclusão do julgamento do RE 638115//CE, da lavra do min. Gilmar Mendes, que assim se pronunciou: dou provimento ao recurso extraordinário, fixando a tese de que ofende o princípio da legalidade a decisão que concede a incorporação dos quintos pelo exercício de função comissionada no período entre 8.4.1998 até 4.09.2001, ante a carência de fundamento legal. Além disso, em razão da segurança jurídica, modulam-se os efeitos da presente decisão para obstar a repetição do indébito em relação aos servidores que receberam de boa-fé os quintos pagos até a data do presente julgamento, cessada a ultra-atividade das incorporações em qualquer hipótese.
+    Falta de exigibilidade do título judicial para que a execução tenha continuidade.
+    Inexigibilidade do cumprimento da obrigação de pagar diferenças vencidas a título de incorporação de quintos no período de 08/04/1998 a 05/09/2001, com extinção da execução.
+    Apelação improvida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da CF.
+    O Ministério Público Federal, em parecer do Subprocurador-Geral da República Carlos Alberto Vilhena, opinou pelo “não conhecimento do agravo ou, se conhecido, pelo seu desprovimento para sequer conhecer o recurso extraordinário”.
+    O recurso extraordinário é inadmissível, tendo em vista que a parte recorrente não apresentou preliminar formal e fundamentada de repercussão geral das questões constitucionais discutidas, o que atrai a incidência do art. 327, § 1º, do RI/STF. Nessa linha, veja-se a ementa do ARE 713.080-AgR, julgado sob a relatoria do Ministro Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. FAMÍLIA. ALIMENTOS. EXECUÇÃO. EXCESSO DE EXECUÇÃO. DISCUSSÃO SOBRE CÁLCULOS JUDICIAIS. AUSÊNCIA DA PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL. ARTIGO 543-A, § 2º, DO CPC E ART. 327, § 1º, DO RISTF.
+    […].”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 16 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
