@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Terceira Turma Recursal dos Juizados Especiais Federal da Seção Judiciária do Distrito Federal, assim ementado (eDOC 7):
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. ANISTIADO. LEI 8.878/94. MUDANÇA DE REGIME JURÍDICO. REENQUADRAMENTO. ANULAÇÃO DE ATO ADMINISTRATIVO (ART. 3º, § 1º, INCISO III, LEI N. 10.259/2001). INCOMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. RECURSO PREJUDICADO. SENTENÇA ANULADA.
+    1. Recurso do autor contra a sentença que julgou improcedente o pedido.
+    2. O autor, na condição de anistiado por força da Lei n° 8.878/94, pleiteia o reenquadramento no Regime Jurídico Único, para que lhe seja garantido todos os direitos decorrentes da condição de servidor público, na forma da Lei nº 8.112/90 e demais normas vigentes.
+    3. Anulação ou cancelamento de ato administrativo federal. O exame da pretensão exige incursão no mérito do ato administrativo que procedeu ao reenquadramento dos autores no serviço público. Não se inclui na competência dos Juizados Especiais Federais a anulação ou cancelamento de ato administrativo federal, salvo os de natureza previdenciária e de lançamento fiscal (artigo 3º, §1º, inciso III, da Lei 10.259/2001). Precedentes desta 3ª Turma Recursal, processos nº 0069742-44.2014.4.01.3400, 0053991-17.2014.4.01.3400, 0053992- 02.2014.4.01.3400, 0061110-29.2014.4.01.3400, julgados em 15/09/2015.
+    4. Incompetência dos Juizados Especiais Federais para processar e julgar o feito. Quando a lei que criou os juizados especiais federais excepcionou o ato administrativo de natureza previdenciária, permitindo que se acionasse a jurisdição dos JEF’s para a sua anulação, divisou tão-somente, na teleologia normativa, o ato administrativo da Pública Administração ligado ao Regime Geral da Previdência Social - RGPS, e não os demais regimes, em especial o Regime Próprio do Servidor Público, seja civil ou militar, regime no qual o ato aposentador se consubstancia em ato administrativo complexo, a exigir, inclusive, a sua homologação por parte do Tribunal de Contas da União.
+    5. O pedido de anulação de ato administrativo deve ser postulado perante uma das varas da Justiça Federal Comum. Precedente desta Terceira Turma Recursal do Distrito Federal (Recurso Inominado nº 0026774-04.2011.4.01.3400, Rel. Juiz Antonio Claudio Macedo da Silva, Julgado na Sessão realizada em 23/06/2015); do TRF/1ª Região (CC 2005.01.000.689124/DF, 3ª Seção, Desembargadora Federal Selene Maria de Almeida, DJ 13/02/2006 e CC 2005.301.000.694620/BA, 3ª Seção, Desembargadora Federal Maria Isabel Gallotti Rodrigues, DJ 16/03/2006); e do Superior Tribunal de Justiça (CC 47488/RR, 3ª Seção, Relator Ministro Paulo Gallotti, DJ de 02/06/2006).
+    6. Assim, não há como se dar prosseguimento à ação junto a esta Turma Recursal, posto tratar-se de competência absoluta, e que não comporta prorrogação (CPC/2015, ART. 64, § 1º), razão pela qual cabe declinar da competência, de ofício, para uma das Varas Cíveis da Seção Judiciária do Distrito Federal.
+    7. Sentença anulada. Recurso prejudicado.
+    8. Sem condenação em honorários advocatícios.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 1º, III; 5º, caput e LV; e 37, II, da Constituição Federal e 19 do ADCT.
+    Nas razões recursais, sustenta-se, em suma (eDOC 6, p. 5/6):
+    “9. Excelência, no mérito, a decisão da Turma Recursal viola expressamente o princípio da Isonomia e do devido processo legal disciplinados no art. 5º, caput e inciso LV da CF/88 ao permitir exceção a regra para questões previdenciárias e não para outras questões.
+    10. Mais ainda, não tem sido isso que tem definido a competência dos Juizados Especiais Federais, mas sim o valor da causa, explico melhor.
+    (...)
+    15. No mesmo diapasão de entendimento, quando do surgimento da Lei nº 8.878/94, que é quem define a forma de retorno dos empregados públicos anistiados, lá está no seu art. 4º da Lei nº 8.878/94 o comando expresso de que a Administração Pública deverá, em todos os casos, reservar a vaga a ser preenchida pelos concursados, ao número correspondente ao de postulantes habilitados na forma da Lei 8.878/94 (ANISTIA): (...)
+    16. Significa dizer que não há qualquer necessidade de concurso público para os Anistiados, tendo em vista que a própria Lei assim determinou.”
+     A Coordenadoria das Turmas Recursais/JEFDF inadmitiu o recurso assentando a harmonia do julgado com a jurisprudência desta Corte (eDOC 4).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei 10.259/2001). Desse modo, a discussão referente a competência dos Juizados Especiais Federais para a anulação ou o cancelamento de ato administrativo federal revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Ademais, ao analisar questão análoga no julgamento do AI 768339 RG, da relatoria do Ministro Ricardo Lewandowski, DJe 20.11.2009, relativo à competência dos Juizados Especiais Federais Cíveis para processar e julgar ação que visa compelir os entes políticos das três esferas do governo a fornecer medicamentos à pessoa carente, quando o valor da causa é inferior ao limite de sessenta salários mínimos (Tema 213), esta Corte recusou o recurso extraordinário ante a ausência de repercussão geral da questão, por não se tratar de matéria constitucional. O acórdão restou assim ementado:
+    “EMENTA: PROCESSUAL CIVIL. COMPETÊNCIA. COMPLEXIDADE DA DEMANDA. VALOR DA CAUSA. JUIZADO ESPECIAL FEDERAL. LEI 10.259/01. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, b, do CPC e 21, § 1º, do RISTF.
+    Deixo de aplicar art. 85, § 11, do CPC, tendo em vista que não houve prévia fixação de honorários na origem.
+    Publique-se.
+    Brasília, 16 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
