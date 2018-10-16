@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 74, Vol. 33):
+    “APELAÇÃO CÍVEL. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO ORDINÁRIA DE RESTITUIÇÃO DE PERDAS SALARIAIS. FAZENDA PÚBLICA. DIREITOS INDISPONÍVEIS. INAPLICABILIADE DOS EFEITOS DA REVELIA. IMPROCEDENTES. SENTENÇA MANTIDA. RECURO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.”
+    No apelo extremo, com fundamento no art. 102, III, “c”, da Constituição, alega-se violação ao art. 5º, XXXVI, e 37, XI, da Constituição.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    Observe-se, ainda, que, mesmo a CORTE já tendo reconhecido, em processo distinto, a transcendência geral da matéria discutida, o recorrente não se exime de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), desde que a intimação da decisão que se pretende impugnar tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental 21, de 30 de abril de 2007 (AI 664.567-QO, Rel. Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe de 6/9/2007), como na presente hipótese.
+    Ademais, quanto à alegação de afronta ao art. 5º, XXXVI, da Constituição, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    De outro lado, os recorrentes alegam que a despeito de a parte contrária não ter apresentado contestação, não foram aplicados os efeitos da revelia. Sobre a matéria, foram os seguintes os fundamentos do acórdão recorrido (fl. 76, Vol. 33):
+    “Independente dos fundamentos levados à efeito pelo juízo a quo, tenho que não é possível a decretação da revelia em face da Fazenda Pública, por se tratar de direito indisponível desta, de acordo com a disposições do artigo 320, II, do CPC.”
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Quanto ao mais, a análise da pretensão recursal demandaria o reexame do conteúdo probatório dos autos e da legislação infraconstitucional (Leis Estaduais 6.394/ e 6.395, de agosto de 2003).
+    A solução dessa controvérsia, portanto, depende da análise da legislação local em tela, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+    Mesmo que fosse possível superar todos esses graves óbices, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+     Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 16 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
