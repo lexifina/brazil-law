@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INADMISSIBILIDADE. AUTOS ELETRÔNICOS. PRINCÍPIO DA IDENTIFICAÇÃO DO TEOR MATERIAL DE TODOS ARQUIVOS ANEXADOS. OFENSA À INSTRUÇÃO NORMATIVA. ATOS N. 17/2012-P E 20/2015, DO TJ/RS. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. SÚMULA 280/STF.
+I - O recurso especial tem por objetivo o controle de ofensa à legislação federal, nos termos do art. 105, III, a, b e c, da Constituição Federal, e, por isso, não cabe a esta Corte a análise de suposta violação de legislação local, portarias, instruções normativas, resoluções, regimentos internos, etc.
+II - Em que pese o inconformismo manifestado pela parte agravante, com efeito, verifica-se o Tribunal de origem, para decidir a controvérsia, interpretou os Atos n. 17/2012-P e 20/2015, do TJ/RS, o que implica a inviabilidade do recurso especial, uma vez que tal procedimento exigiria, necessariamente, a análise dos citados atos da Corte local, medida vedada por via de recurso especial, porquanto essa espécie normativa não se enquadra no conceito de lei federal ou tratado, conforme entendimento jurisprudencial pacífico desta Corte:
+III - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O presente feito decorre agravo de instrumento interposto por [NOME] em face de decisão proferida pelo MM. Juiz da 3ª Vara da Fazenda Pública do Foro Central de Porto Alegre/RS, que não conheceu do recurso por falta de individualização dos documentos, nos autos da ação anulatória que o autor move em face do Departamento Autônomo de Estradas de Rodagem. No Tribunal de Justiça do Estado do Rio Grande do Sul, a decisão objeto do agravo foi mantida, nos termos assim ementados:
+AGRAVO INTERNO CONTRA DECISÃO DO RELATOR QUE NEGOU TRÂNSITO A AGRAVO DE INSTRUMENTO POR INADMISSIBILIDADE. AUTOS ELETRÔNICOS. PRINCÍPIO DA IDENTIFICAÇÃO DO TEOR MATERIAL DE TODOS ARQUIVOS ANEXADOS. IMPRESCINDIBILIDADE, SOB PENA DE O RELATOR SER OBRIGADO A ABRIR UM A UM PARA SABER ONDE ESTÃO AS PROVAS DO FATO CONSTITUTIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO ALEGADO NA PEÇA RECURSAL. PRINCÍPIO PREVISTO NA LEGISLAÇÃO ESPECIAL E QUE ABRANGE TANTO OS DOCUMENTOS OBRIGATÓRIOS QUANTO OS FACULTATIVOS REPUTADOS ÚTEIS PELA PARTE RECORRENTE. DESPERDÍCIO DA OPORTUNIDADE PARA SER CUMPRIDO O REQUISITO. CASO DE NÃO CONHECIMENTO OU INADMISSIBILIDADE. DECISÃO MONOCRÁTICA PREVISTA NO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. MANUTENÇÃO. AGRAVO INTERNO DESPROVIDO.
+Interposto recurso especial, com fundamento no art. 105, III, a, da Constituição Federal.
+Em suas razões especiais, a parte recorrente sustenta violados os arts. 4º, 932, § único, e 1.017, I e III, e § 3º, do CPC/2015, sob o fundamento de que, tendo sido acostados os documentos obrigatórios à interposição do agravo de instrumento, é incabível o não conhecimento deste pela ausência de individualização das peças apresentadas no processo judicial eletrônico.
+Sem contrarrazões (fl. 257), o Tribunal de origem negou seguimento ao recurso (fls. 259-266), tendo sido interposto o presente agravo.
+Recebidos os autos no STJ, foi proferida decisão com o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial".
+Interposto agravo interno contra essa decisão.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+O recurso especial tem por objetivo o controle de ofensa à legislação federal, nos termos do art. 105, III, a, b e c, da Constituição Federal, e, por isso, não cabe a esta Corte a análise de suposta violação de legislação local, portarias, instruções normativas, resoluções, regimentos internos, etc.
+Em que pese o inconformismo manifestado pela parte agravante, com efeito, verifica-se o Tribunal de origem, para decidir a controvérsia, interpretou os Atos n. 17/2012-P e 20/2015, do TJ/RS, o que implica a inviabilidade do recurso especial, uma vez que tal procedimento exigiria, necessariamente, a análise dos citados atos da Corte local, medida vedada por via de recurso especial, porquanto essa espécie normativa não se enquadra no conceito de lei federal ou tratado, conforme entendimento jurisprudencial pacífico desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO DO AGRAVO DE INSTRUMENTO EM DESACORDO COM O PROVIMENTO CONJUNTO 15/TJMG. DESERÇÃO DECRETADA NA ORIGEM. NORMAS LOCAIS. REVISÃO INDEVIDA EM SEDE DE RECURSO ESPECIAL. SÚMULA 280/STF. CONFIRMAÇÃO. AGRAVO IMPROVIDO.
+1. Na hipótese, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Não é possível a análise nesta Corte da pretensão recursal no sentido de afastar a deserção reconhecida pela Corte de origem com base no Provimento 15/2010 do TJ/MG. Isso, porque não está inserida na competência desta Corte a análise de norma infralegal, a teor do art. 105, III, da Constituição Federal, atraindo, por analogia, a incidência da Súmula 280/STF.
+3. Esta Corte tem considerado deserto o recurso especial se a regularização do respectivo preparo for realizada intempestivamente, em inobservância das normas de protocolo dispostas em ato da Corte local (AgInt no AREsp 443.695/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 15/12/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1516089/MG, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 24/4/2018, DJe 3/5/2018)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA À INSTRUÇÃO NORMATIVA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. As Turmas que compõem a 1a. Seção desta Corte, entendem que é inviável o Recurso Especial para análise de violação a atos normativos infralegais, tais como Resoluções, Portarias, Regimentos, Circulares ou Instruções Normativas, pois não se enquadram no conceito de lei federal nos termos do art. 105, inciso III da Constituição Federal/1988. Precedentes: AgInt no AREsp. 908.829/SP, Rel. Min. FRANCISCO FALCÃO, DJe 9.12.2016; AgInt no REsp. 1.533.635/RS, Rel. Min. SÉRGIO KUKINA, DJe 9.11.2016.
+2. Agravo Interno da FAZENDA NACIONAL desprovido.
+(AgInt no REsp 1394867/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/2/2018, DJe 14/3/2018)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
