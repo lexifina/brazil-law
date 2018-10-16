@@ -1,0 +1,39 @@
+EMENTA
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. LEVANTAMENTO DE HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULAS N. 283/STF E 284/STF.
+I - Na origem, cuida-se de agravo de instrumento interposto contra decisão judicial que, nos autos de ação movida em desfavor do Instituto Nacional do Seguro Social - INSS, indeferiu o levantamento dos valores referentes aos honorários advocatícios.
+II - Não tendo o recorrente impugnado o fundamento autônomo do acórdão recorrido de que, considerando o falecimento do autor, o pagamento de qualquer valor por ele devido deve ser postulado diretamente a seus herdeiros, incide por analogia os enunciados n. 283 e n. 284 da Súmula do STF.
+III - Recurso especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de agravo de instrumento interposto por [NOME] contra decisão judicial que, nos autos de ação movida por [NOME] em desfavor do Instituto Nacional do Seguro Social - INSS, indeferiu o levantamento dos valores referentes aos honorários advocatícios.
+No Tribunal de Justiça do Estado do Rio de Janeiro, a decisão judicial foi mantida em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO ACIDENTARIA. PROCEDÊNCIA DO PEDIDO. FALECIMENTO DO AUTOR. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE LEVANTAMENTO DE VALOR CORRESPONDENTE À VERBA HONORÁRIA CONTRATADA. INDEFERIMENTO. IMPOSSIBILIDADE DE SE PROCEDER A QUALQUER RESERVA OU LEVANTAMENTO DE VALOR POR FALTA DE AMPARO LEGAL. DEVE O PATRONO FAZER VALER SEU DIREITO ATRAVÉS DA VIA PRÓPRIA OU COBRAR O VALOR QUE ENTENDE DEVIDO DIRETAMENTE DO CLIENTE. ACERTO DA DECISÃO.
+DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados.
+[NOME] interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal por ofensa aos arts. 22, § 4º, e 24, § 1º, da Lei n. 8.906/94, sob o argumento em suma de que há previsão legal para que haja a execução de honorários advocatícios nos próprios autos, desde que o advogado faça requerimento em nome próprio e com a apresentação de contrato de honorários.
+Não foram apresentadas contrarrazões ao recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, qual seja: de que, considerando o falecimento do autor, o pagamento de qualquer valor por ele devido deve ser postulado diretamente a seus herdeiros (fl. 26).
+Assim, a deficiência na fundamentação do recurso especial atrai, por analogia, o óbice dos enunciado n. 283 e n. 284 da Súmula do STF, in verbis:
+Súmula n. 283: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido é a jurisprudência desta Corte:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. ARTS. 10, VIII, E 11 DA LEI 8.429/1992. IMPROBIDADE POR VIOLAÇÃO DE PRINCÍPIOS. DOLO GENÉRICO. EXIGÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. DISPENSA DE LICITAÇÃO, OCORRÊNCIA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. CONCLUSÃO ADOTADA PELA CORTE A QUO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do STJ se firmou no sentido de que o ato de improbidade administrativa previsto no art. 11 da Lei n. 8.429/1992 exige a demonstração de dolo, o qual, contudo, não precisa ser específico, sendo bastante o dolo genérico.
+2. Não merece prosperar o recurso especial quando a peça recursal não refuta determinados fundamentos do acórdão recorrido, suficientes para a sua manutenção, o que atrai a incidência do enunciado da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+3. No caso, no que tange à alegada violação do art. 10, VIII, da LIA, a parte recorrente não impugnou, no recurso especial, a fundamentação do acórdão combatido no sentido do não perfazimento do ato ímprobo, eis que a dispensa da licitação se fundou em situação emergencial, decorrente de enchente no ano de 1998, e na insuficiência do quadro de servidores, ante a recente emancipação do Município, fundamentos autônomos e suficientes para a manutenção do aresto recorrido.
+4. Nesse contexto, eventual modificação da situação fática assentada no acórdão do TJRJ importaria em reexame de prova, o que se revela inviável em recurso especial, nos termos da Súmula 7/STJ.
+5. Recurso especial não conhecido.
+(REsp 1352535/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/04/2018, DJe 25/04/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO CONSTITUCIONAL. COMPETÊNCIA DO STF. FUNDAMENTOS NÃO IMPUGNADOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. HOMOLOGAÇÃO, EM SEDE DE EMBARGOS À EXECUÇÃO FISCAL, DE COMPENSAÇÃO INDEFERIDA ADMINISTRATIVAMENTE. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 16, § 3º, DA LEI Nº 6.830/80. PRECEDENTES.
+1. Impossibilidade de conhecimento do recurso especial em relação à alegada imunidade constitucional dos óleos lubrificantes derivados de petróleo, nos termos do art. 153, § 3º, II e 155, § 3º, da Constituição Federal, uma vez que tal análise compete ao Supremo Tribunal Federal no âmbito do recurso extraordinário.
+2. Não é possível conhecer do recurso especial em relação ao alegado desrespeito à segurança jurídica do contribuinte e ao art. 146 do CTN, em relação às Soluções de Consultas SRRF/7ºRF/DISIT nº 248/2000 e SRRF/10ªRF/DISIT nº 180/2001, que teriam reconhecido a viabilidade do aproveitamento de crédito de IPI decorrente da aquisição de insumos tributados, com base no art. 11 da Lei nº 9.779/1999, ainda que a saída dos produtos fosse imune ou isenta, permitindo a sua compensação ou ressarcimento. É que tal alegação foi afastada na origem em razão de se tratar de inovação em sede recursal, cujo enfrentamento restou obstado pelo art. 128 do CPC, no que tange aos limites da lide, fundamento esse que não foi impugnado pela recorrente nas razões do recurso especial, o que atrai a incidência, no ponto, do óbice da Súmula nº 283 do STF.
+3. O acórdão recorrido afirmou que a compensação pleiteada foi indeferida administrativamente. Dessa forma, não é possível, em razão do disposto no art. 16, § 3º, da Lei nº 6.830/80, homologar a pleiteada compensação em sede de embargos À execução fiscal, conforme o entendimento desta Corte. É que a alegação de compensação no âmbito dos embargos restringe-se àquela já reconhecida administrativa ou judicialmente antes do ajuizamento da execução fiscal, conforme entendimento adotado no sede de recurso especial repetitivo (REsp nº 1.008.343/SP, Rel. Min. Luiz Fux, Primeira Seção, DJe 1º.2.2010), não sendo esse o caso dos autos, eis que a compensação foi indeferida na via administrativa.
+4. Agravo interno não provido.
+(AgInt no REsp 1694942/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+Ante o exposto, com fundamento no art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+É o voto.
