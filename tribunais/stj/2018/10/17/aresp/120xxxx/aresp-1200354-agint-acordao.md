@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. GENÉRICA. SÚMULA 284/STF. TEORIA DA IMPREVISÃO. SUPERVENIÊNCIA E IMPREVISIBILIDADE. NÃO OCORRÊNCIA. DOCUMENTOS NÃO SÃO SUFICIENTES PARA PROVAR A CRISE. MATÉRIA FÁTICA E PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por PERFURATEC FUNDAÇÕES LTDA contra decisão que negou provimento ao agravo em recurso especial, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. GENÉRICA. SÚMULA 284/STF. TEORIA DA IMPREVISÃO. SUPERVENIÊNCIA E IMPREVISIBILIDADE. NÃO OCORRÊNCIA. DOCUMENTOS NÃO SÃO SUFICIENTES PARA PROVAR A CRISE. MATÉRIA FÁTICA E PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO. (e-STJ, fl. 286)
+A agravante sustenta a negativa de prestação jurisdicional, pois não houve deficiência em sua fundamentação. Indica a aplicação do artigo 1.025, do CPC/15.
+Defende que é necessária a aplicação da teoria da imprevisibilidade no caso em debate, pois houve comprovação de que a crise no setor financeiro repercutiu nas finanças da parte agravante. Por isso, não é possível aplicar a Súmula 7/STJ.
+Pugna pelo conhecimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. GENÉRICA. SÚMULA 284/STF. TEORIA DA IMPREVISÃO. SUPERVENIÊNCIA E IMPREVISIBILIDADE. NÃO OCORRÊNCIA. DOCUMENTOS NÃO SÃO SUFICIENTES PARA PROVAR A CRISE. MATÉRIA FÁTICA E PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Não obstante a afirmação da agravante de que a violação ao art. 1.022, o CPC/15 não foi genérica, tem-se que não houve a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros. Portanto, correta a aplicação do óbice da Súmula 284/STF.
+Ademais, cumpre ressaltar que o artigo 1.025, do CPC/15 não se aplica ao caso, pois não houve o reconhecimento da ausência de prequestionamento da matéria, mas, tão somente, a deficiência na violação do artigo 1.022, do CPC/15.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. REEXAME DE PROVA. SÚMULA Nº 7/STJ. INOVAÇÃO. IMPOSSIBILIDADE.
+1. O recurso especial que indica violação do artigo 535 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+2. Rever questão decidida com base no exame das circunstâncias fáticas da causa esbarra no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+3. É inviável a análise de teses alegadas apenas nas razões do regimental por se tratar de evidente inovação recursal.
+4. Agravo regimental não provido. (AgRg no AREsp 578.636/RS, Terceira Turma, Rel. Ministro Ricardo Villas Bôas Cueva, julgado em 10/03/2015, DJe 16/03/2015 - grifou-se)
+Ademais, sobre a teoria da imprevisão, o Tribunal de origem decidiu com amparo no seguinte fundamento:
+Por fim, alega o agravante a necessidade de aplicação da teoria da imprevisão no caso em discussão, ou seja, alega que diante do acontecimento de fatos supervenientes, os quais, conforme o alegado, tornaram a obrigação excessivamente onerosa. Tal circunstância que sobrecarregou o cumprimento das obrigações da pessoa jurídica postulante perante a parte adversa fora, segundo a alegação, a superveniência de acontecimento imprevisível - crise - no ramo da construção civil, o qual é o seu setor de atuação. Acerca da presente questão, tem-se que a resolução contratual - ou até mesmo a modificação de determinadas cláusulas pactuadas - por conta da onerosidade excessiva oriunda de evento extraordinário e imprevisível que desemboca na extrema dificuldade de adimplemento da obrigação por uma das partes, justifica-se por se encontrar subentendida na denominada cláusula rebus sic stantibus, segundo a qual, "nos contratos de trato sucessivo ou a termo, o vínculo obrigatório ficará subordinado, a todo tempo, ao estado de fato vigente à época de sua estipulação" Destarte, no caso dos autos, os requisitos da imprevisibilidade e da extraordinariedade do evento relatado pelo recorrente - qual seja, a crise no ramo da construção civil -, ao menos pelo que fora carreado aos autos, não se verificam, uma vez que é clarividente que a existência de intempéries econômicas que por ventura venham a prejudicar ou comprometer as finanças empresariais de pessoas jurídicas atuantes do referido setor é inerente à pr ópria atividade desenvolvida pelo postulante. De mais a mais, vale ressaltar que inexiste prova axiomática no processo no sentido de indicar que a suposta crise no ramo de atuação da agravante tenha sido a causadora do descompasso financeiro em relação aos seus recursos patrimoniais. Vale dizer, os documentos carreados aos autos não são capazes de indicar que eventual adversidade na esfera de atividade da insurgente seja a causadora do seu infortúnio, pois em análise dos instrumentos de prestação de serviços à terceiros (Doc. 5 - 2º volume do anexo - sem numeração de página), observa-se o percebimento de alta remuneração, bem como a contínua realização de trabalhos pela empresa agravante. (e-STJ, fls. 145/146 - grifou-se)
+Ressalte-se que, para alterar a conclusão da Corte a quo, a qual consignou não vislumbrar a ocorrência de circunstâncias supervenientes e imprevistas de modo a justificar a aplicação da teoria da imprevisão, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é defeso na via eleita devido ao enunciado da Súmula 7 do STJ.
+Assim, correta a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
