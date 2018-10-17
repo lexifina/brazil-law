@@ -1,0 +1,25 @@
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 535 DO CPC/73. VÍCIO NÃO ESPECIFICADO. SÚMULA Nº 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 211/STJ E Nº 282/STF. COISA JULGADA. MONTANTE DEPOSITADO EM JUÍZO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. IMPOSSIBILIDADE. RECURSO ESPECIAL NÃO PROVIDO.
+1. Para verificar a possível afronta ao art. 535 do CPC/73, é necessário que a parte recorrente indique especificamente qual o ponto acerca do qual deixou o tribunal a quo de se manifestar, sob pena de configurar deficiência na fundamentação recursal. Súmula nº 284/STF.
+2. A ausência de prequestionamento, mesmo implícito, impede a análise da matéria na via especial. Súmulas nº 211/STJ e nº 282/STF.
+3. A pretensão de verificar se os fiadores tiveram ciência da notificação somente se processa mediante reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+4. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por COMERCIAL DE ALIMENTOS CARREFOUR LTDA com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+INDENIZAÇÃO - ACIDENTE DE TRABALHO - DIREITO COMUM - LIQUIDAÇÃO POR ARTIGOS - HIPÓTESE EM QUE SE PRETENDE QUE A CONSTRIÇÃO RECAIA SOBRE SALDO EXISTENTE EM CONTA JUDICIAL - INVIABILIDADE POR SE TRATAR DE CAPITAL GARANTIDOR DE PAGAMENTO DE PENSÕES VINCENDAS, CONFORME DECIDIDO EM REGULAR PROCESSO DE CONHECIMENTO - VERIFICAÇÃO DE QUE A EXECUÇÃO, ORA EM CURSO, REFERE-SE A DESPESAS MÉDICAS NÃO ABRANGIDAS POR AQUELA - DECISÃO MANTIDA.
+Agravo improvido.
+Em suas razões recursais, aponta o recorrente ofensa aos seguintes dispositivos legais;
+a) art. 535 do CPC/73 diante da existência de vícios no acórdão recorrido;
+b) art. 249 do CPC/73, pois deve ser julgado o mérito quando, diante da nulidade, não seja essencial o rejulgamento;
+c) art. 930 do Código Civil de 1916 e arts. 794, II, e 475-Q, § 3º, do CPC/73, pois a obrigação deveria ser extinta, tendo em vista que antes mesmo do prazo previsto foi cumprida a maior, com depósitos superiores ao montante condenatório; e
+d) arts. 467 e 468 do CPC/73, por afronta à coisa julgada "ao determinar que a Recorrente pagasse a quantia indicada pela Recorrida" - fls. 235.
+É o relatório.
+DECIDO.
+2. A admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, assim como em que medida teria o acórdão recorrido afrontado a cada um dos artigos impugnados o que, na espécie, no tocante à alegação de negativa de prestação jurisdicional, não ocorreu, porquanto a recorrente alega genericamente que houve ofensa ao art. 535 do Código de Processo Civil de 1973, sem, contudo, indicar precisamente em que consiste a eventual omissão, contradição ou obscuridade. Incide, na espécie, por analogia, o óbice da Súmula n. 284/STF.
+3. A matéria referente ao art. 249 do CPC/73, consistente no julgamento do mérito diante da hipótese de nulidade, não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas nº 282/STF e nº 211/STJ).
+4. Quanto aos demais pontos, relativos ao uso do capital depositado para quitação da obrigação - art. 930 do CC/16 e arts. 764, II, e 475-Q, § 3º, do CPC/73, e à coisa julgada - arts. 467 e 468 do CPC/73, assim decidiu o v. acórdão recorrido:
+Analisando-se todo o processado, verifica-se a correção da r. decisão agravada já que, incontestavelmente, o dinheiro depositado em conta judicial relaciona-se à constituição de capital garantidor do pagamento das pensões vincendas em conformidade com o que restou decidido em regular ação de conhecimento. Mostra-se totalmente inviável que tais verbas sejam manejadas para garantir execução de despesas médicas, não englobadas na referida constituição de capital, como a própria agravante admite.
+A engenhosa pretensão da agravante não prospera. Pretender que um capital, constituído por determinação judicial para garantia do pagamento de pensões vincendas, possa também garantir posterior execução de despesas médicas é que contraria a coisa julgada. Desse modo, atendo-se aos elementos dos autos, a pretensão da agravante é que contraria o disposto nos artigos 467 e 471, ambos do CPC, e não a r. decisão agravada. O fato de haver saldo em conta judicial superior à correção linear trazida pela agravante em nada altera a questão, já que tal conta, por determinação judicial, refere-se, exclusivamente, à garantia de pensões vincendas, nada se relacionando com o capital garantidor da condenação relativa às despesas médicas. - fls. 169-170.
+Rever os fundamentos que ensejaram esse entendimento - e verificar ase há afronta à coisa julgada e adequação do montante depositada à determinação judicial - exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula nº 7, do Superior Tribunal de Justiça.
+5. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
