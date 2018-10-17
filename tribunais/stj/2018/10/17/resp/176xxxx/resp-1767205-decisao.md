@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEDIDO DE REDIRECIONAMENTO. NOVO CPC. NECESSIDADE DE INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. COMPETÊNCIA DO JUÍZO A QUO. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO. AGRAVO INTERNO PREJUDICADO.
+- A discussão instalada nos autos diz respeito à apuração da responsabilidade do sócio da empresa executada pelos débitos da pessoa jurídica.
+- Dentre outros temas, o Novo Código de Processo Civil trouxe inovação em seus artigos 133 a 137, disciplinando expressamente o incidente de desconsideração da personalidade jurídica.
+- Sendo assim, a partir da vigência do Novo CPC, para a análise de eventual pretensão de redirecionamento da execução ao patrimônio dos sócios tornou-se necessária a instauração do mencionado incidente de desconsideração da personalidade jurídica da empresa executada.
+- Portanto, apenas depois da vigência do Novo CPC é que passou a ser necessária a instauração do incidente de personalidade jurídica para fins de apuração da responsabilidade do sócio da empresa executada pelos débitos da empresa.
+- No caso dos autos, no tempo em que proferida a decisão agravada - 08.03.2016 (fl. 105) - o Novo CPC ainda não estava em vigor, o que ocorreu apenas em 18.03.2016, nos termos de seu artigo 1.045 ("Este Código entra em vigor após decorrido 1 (um) ano da data de sua publicação oficial."), não sendo possível que se determinasse a instauração do referido procedimento, à míngua de expressa previsão legal.
+- Ocorre, contudo, que ao tempo em que submetida a decisão agravada a reexame, já se encontrava em vigor as regras do Novo Código de Processo Civil, de modo que neste momento a agravada deverá promover a instauração do referido incidente de desconsideração da personalidade jurídica da empresa executada a fim de se verificar a responsabilidade de seus sócios pelo débito executado.
+- Isso porque tenho que esse incidente aplica-se, em toda sua extensão, à Fazenda Pública, por expressa disposição do artigo 4º. § 2º, da Lei de Execuções Fiscais, que prevê que "à dívida ativa da Fazenda Pública, de qualquer natureza, aplicam-se as normas relativas à responsabilidade prevista na legislação tributária, civil e comercial".
+- Por tal razão, deixo, contudo, de apreciar a presença dos requisitos que autorizam o redirecionamento do feito executivo ao sócio da pessoa jurídica executada por se tratar de tarefa que incumbe ao juízo de origem, sob pena de indevida supressão de instância.
+- Agravo de instrumento parcialmente provido. Prejudicado o agravo interno.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 1.022, II, e 489, § 1º, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 133, 134 e 135 do CTN, 10 do Decreto nº 3.078/19, 158 da Lei nº 6.404/76, 133 a 137, 985 e 919, § 1º, do CPC/2015, 50 do CC, 1º, 4º, V, e 16, § 1º, da Lei nº 6.830/80, asseverando que, em razão da dissolução irregular da pessoa jurídica executada, devidamente certificada nos autos por Oficial de Justiça, mostra-se viável o redirecionamento da execução fiscal em desfavor do respectivo sócio, sem a necessidade de instauração do incidente de desconsideração da personalidade jurídica.
+Não houve apresentação de contrarrazões.
+O recurso foi admitido pela decisão de fls. 556/557.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A despeito do que constou do acórdão de fls. 511/520, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação (fls. 497 e 524/525):
+"Inicialmente a União requer a suspensão do presente julgamento, nos termos do art. 982, I, do Novo CPC, diante do INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR nº 4.03.1.000001 em trâmite perante este Egrégio Tribunal Regional Federal da 3º Região, que trata do redirecionamento de execução de crédito tributário da pessoa jurídica para os sócios nos próprios autos da execução fiscal ou em sede de incidente de desconsideração da personalidade jurídica."
+"Em embargos de declaração, a União Federal demonstrou que havia omissão no julgado, uma vez que o r. Acórdão deixou de manifestar-se sobre questão crucial à solução da lide jurídica.
+A União indicou que o v. acórdão não considerou a necessidade de suspensão do presente julgamento, nos termos do art. 982, I, do Novo CPC, diante do INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR nº 4.03.1.000001 em trâmite perante este Egrégio Tribunal Regional Federal da 3ª Região, que trata do redirecionamento de execução de crédito tributário da pessoa jurídica para os sócios nos próprios autos da execução fiscal ou em sede de incidente de desconsideração da personalidade jurídica.
+O E. Órgão Especial do Colendo TRF da 3ª Região, no dia 15 de fevereiro de 2017, se manifestou sobre a questão no INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS Nº 001761097.2016.4.03.0000/SP e a decisão do Relator determinou a suspensão "dos Incidentes de Desconsideração da Personalidade Jurídica" em tramitação na Justiça Federal da 3ª Região, mantidos os atos de pesquisa e constrição de bens necessários à garantia da efetividade da execução. Confira-se:
+"PROCESSO CIVIL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. ADMISSIBILIDADE. EXECUÇÃO FISCAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA.
+1. O requisito legal de efetiva repetição de processos que tem por objeto a mesma questão de direito restou comprovado pelos extratos de andamento processual que foram juntados aos autos.
+2. Risco de ofensa à segurança jurídica e isonomia restou caracterizado diante do ambiente de dubiedade procedimental estabelecido.
+3. Questão controvertida de direito processual: o redirecionamento de execução de crédito tributário da pessoa jurídica para os sócios dar-se-ia nos próprios autos da execução fiscal ou em sede de incidente de desconsideração da personalidade jurídica.
+4. Incidente de Resolução de Demandas Repetitivas admitido"." (grifos no original).
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados pelo acórdão de fls. 511/520, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356/STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o presente recurso, a fim de anular o aresto proferido no julgamento dos embargos de declaração (fls. 511/520), determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Diante do exposto, com base no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, e a Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
