@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 415):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. CONCURSO PÚBLICO. DESNECESSIDADE DE FORMAÇÃO DE LITISCONSÓRCIO PASSIVO EM RELAÇÃO AOS DEMAIS CANDIDATOS APROVADOS. JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante alega que o dispositivo em vigor à época da formação da relação processual era o do CPC/1973, de forma a se afastar o óbice contido na Súmula 284/STF, bem como que o que se pretende no recurso especial é a formação de litisconsórcio passivo com os servidores contratados, e não os demais aprovados no certame.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO INDICADO. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Compulsando-se os autos, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, consoante bem delineado na decisão agravada, há óbice intransponível na fundamentação do recurso, pois o agravante indicou infração a dispositivo de lei já revogado à época da publicação do acórdão proferido pelo Tribunal de origem, sem indicação de possíveis correspondentes, de forma que este não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se a Súmula 284/STF.
+Não se diga que deveria ser indicado dispositivo vigente à época da formação da relação processual, dado que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. (Enunciado Administrativo n. 3, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Noutro passo, ad argumentandum tantum, ressaltou-se também a jurisprudência do STJ no sentido de que a formação de litisconsórcio passivo com os outros candidatos aprovados em melhor classificação é desnecessária, já que existe apenas expectativa de direito à nomeação. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. DIREITO À NOMEAÇÃO. VIOLAÇÃO DO ART. 535 DO CPC NÃO CARACTERIZADA. IMPOSSIBILIDADE DE ANÁLISE DO ART. 269 DO CPC, EM RAZÃO DA DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. DESNECESSIDADE DE FORMAÇÃO DE LITISCONSORTE NECESSÁRIO EM RELAÇÃO AOS DEMAIS CANDIDATOS APROVADOS NO CERTAME. CANDIDATOS CLASSIFICADOS DENTRO DO NÚMERO DE VAGAS PREVISTAS NO EDITAL. CONTRATAÇÃO DE TERCEIRIZADOS NA VIGÊNCIA DO CERTAME PARA EXERCÍCIO DE ATIVIDADES TÍPICAS DOS CARGOS DE PROVIMENTO EFETIVO. COMPROVAÇÃO DE DIREITO LÍQUIDO E CERTO. IMEDIATO CUMPRIMENTO DA DECISÃO CONCESSIVA DA SEGURANÇA. POSSIBILIDADE. AUSÊNCIA DE VEDAÇÃO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  3. No pertinente ao art. 47 do CPC, esta Corte Superior já consolidou o entendimento de que é prescindível a formação de litisconsórcio passivo necessário em relação aos candidatos aprovados em melhor classificação, por existir apenas expectativa de direito à nomeação. Precedente: AgRg no REsp. 1.478.420/RR, Rel. Min. SÉRGIO KUKINA, DJe 3.2.2015.
+ ..  10. Agravo Regimental do ESTADO DE GOIÁS desprovido. (AgRg no AREsp 151813/GO, PRIMEIRA TURMA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, julgado em 05/04/2016, DJe 11/04/2016)
+Tal entendimento, não obstante as razões ora aduzidas no recurso de agravo, deve ser mantido, pois o ora agravante argumentou expressamente no recurso especial quanto à necessidade de formação de litisconsórcio com os demais candidatos aprovados, e não com relação a supostos servidores contratados  indevida inovação da tese recursal  , consoante se extrai do seguinte excerto do apelo nobre (fl. 305):
+Como dito, o requerente pretende ser nomeado e empossado em concurso público que ficaram apenas classificados, estando juntamente com outras pessoas na mesma condição. Deste modo, faz-se imprescindível que os outros classificados da lista de espera sejam participes no pólo passivo da demanda. De outro modo, ocorreria grave violação de direitos e flagrante injustiça haja vista que estes classificados seriam claramente preteridos.
+Por fim, no que tange ao argumento de formação de litisconsórcio com os servidores contratados, o recorrente, ao direcionar a sua tese no sentido de que haveria interferência nos contratos dos servidores não concursados, deixou de impugnar o fundamento do acórdão recorrido segundo o qual o provimento do pleito não implica na automática desconstituição dos contratos firmados, pois não se objetivou, com a demanda originária, subtrair a vaga de outro profissional, mas apenas assegurar o direito à posse em função de preterição indevida em concurso público.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
