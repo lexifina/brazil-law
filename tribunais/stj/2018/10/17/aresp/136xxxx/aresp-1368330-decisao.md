@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado pela União contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 82):
+SERVIDOR. ESCRIVÃ DA POLÍCIA FEDERAL. CURSO DE FORMAÇÃO. AUXÍLIO FINANCEIRO.
+1. Candidata que participou de curso de formação para cargo das carreiras da Polícia Federal que faz jus ao recebimento de 80% do vencimento fixado para a primeira referência da classe inicial da categoria, a título de auxílio financeiro. Precedentes.
+2. Remessa oficial não conhecida e apelação desprovida.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte recorrente aponta violação ao art. 14 da Lei n.º 9.624/88. Sustenta, em síntese, que a parte recorrida não faz jus ao recebimento do pagamento da diferença de remuneração referente ao Curso de Formação Profissional de Escrivão da Polícia Federal.
+É o relatório.
+Com efeito, o acórdão recorrido não destoa da orientação jurisprudencial deste Superior Tribunal assente no sentido de que os candidatos que participam de curso de formação para os cargos das carreiras da Polícia Federal, na Academia Nacional de Polícia, fazem jus ao recebimento de 80% do vencimento fixado para a primeira referência da classe inicial da categoria, a título de auxílio financeiro, confiram-se os seguintes precedentes:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. CURSO DE FORMAÇÃO. POLICIAL FEDERAL. PERCEPÇÃO DE 80% DOS VENCIMENTOS DA CLASSE INICIAL DA CARREIRA. APLICAÇÃO DA LEI N.º 4.878/65 E DO DECRETO-LEI N.º 2.179/84.
+1. "É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual os candidatos que participam de curso de formação para os cargos das carreiras da Polícia Federal fazem jus ao recebimento de 80% do vencimento fixado para a primeira referência da classe inicial da categoria, a título de auxílio financeiro." (AgInt no REsp 1.390.038/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/09/2016, DJe 20/09/2016) 2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1622787/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/08/2018, DJe 23/08/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA RELACIONADA A PRESCRIÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. CONCURSO PÚBLICO. CURSO DE FORMAÇÃO. SERVIDOR PÚBLICO FEDERAL. POLICIAL FEDERAL. PERCEPÇÃO DE 80% DOS VENCIMENTOS DA CLASSE INICIAL DA CARREIRA. POSSIBILIDADE. ART. 1º DO DECRETO-LEI N. 2.179/84. ART. 8º DA LEI N. 4.878/65. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+IV - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual os candidatos que participam de curso de formação para os cargos das carreiras da Polícia Federal fazem jus ao recebimento de 80% do vencimento fixado para a primeira referência da classe inicial da categoria, a título de auxílio financeiro.
+V - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+VI - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.390.038/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/09/2016, DJe 20/09/2016)
+RECURSO ESPECIAL. PROCESSO CIVIL E ADMINISTRATIVO. NÃO APLICAÇÃO DA SÚMULA 280/STF. CONCURSO PÚBLICO. AGENTE DA POLÍCIA CIVIL DO DISTRITO FEDERAL. CURSO DE FORMAÇÃO. DIREITO À PERCEPÇÃO DE 80% (OITENTA POR CENTO) DOS VENCIMENTOS INICIAIS DO CARGO. APLICAÇÃO DO DECRETO-LEI Nº 2.179/84 E DA LEI 4.878/65. PRECEDENTE.
+1. Admite-se a análise, no julgamento de recurso especial, das leis que regulam disposições relativas à polícia militar, à policial civil e ao corpo de bombeiros militar do Distrito Federal, uma vez que é da competência da União legislar com exclusividade sobre seu regime jurídico, nos termos do art. 21, inciso XIV, da Constituição Federal. Precedentes.
+2. Os candidatos aprovados em concurso público para ingresso na carreira da Polícia Civil do Distrito Federal têm direito ao recebimento, por mês de participação no respectivo Curso de Formação, de 80% (oitenta por cento) dos vencimentos iniciais do cargo, nos termos do Decreto-Lei nº 2.179/84. Precedente da Primeira Turma.
+3. Recurso especial improvido.
+(REsp 1.294.265/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/06/2012, DJe 29/06/2012)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
