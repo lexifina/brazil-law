@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado pela UNIVERSIDADE FEDERAL DO AMAZONAS - UFAM contra decisão que inadmitiu recurso especial interposto com apoio na alínea "a" do permissivo constitucional em face de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (e-STJ fl. 169):
+ADMINISTRATIVO. ENSINO. VESTIBULAR. EXIGÊNCIA DE CONCLUSÃO DO ENSINO MÉDIO. CURSO TÉCNICO PROFISSIONALIZANTE. SÚMULA 35 DO TRF. MATRÍCULA. POSSIBILIDADE. CONSOLIDAÇÃO DE SITUAÇÃO DE FATO.
+I. A Súmula 35 do TRF dispõe que "O aluno de curso técnico profissionalizante que concluiu o segundo grau pode ingressar em instituição de ensino superior para o qual foi aprovado em exame vestibular, ainda que não tenha obtido êxito no estágio e em disciplinas que compõem etapa profissionalizante daquele curso, pois que estas apenas o habilitarão a exercer a profissão de técnico, não influenciando na exigência curricular do ensino médio. (AGRAC 0000176-69.2009.4.01.3307 / BA, Rei. DESEMBARGADORA FEDERAL SELENE MARIA DE ALMEIDA, QUINTA TURMA, e-DJF1 p.251 de 22/11/2010)
+II. Restando demonstrado que o autor, à época da matrícula, havia concluído a 3a série do Ensino Médio Integrado em Agropecuária, restando, apenas, o último semestre referente ao 4o ano, de forma que já teria cumprido a carga horária mínima correspondente ao ensino médio, não existe razão para a não-efetivação de sua matrícula.
+III. Apelação e remessa oficial, tida por interposta, a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados.
+No especial obstaculizado, a ora agravante apontou violação dos arts. 535 do CPC/1973 e 44, II, da Lei n. 9.394/1996.
+Sustentou, preliminarmente, que houve negativa de prestação jurisdicional.
+Alegou, em síntese, que é "ilegal o ingresso de aluno no ensino superior sem o devido atendimento aos requisitos constantes da Lei de Diretrizes e Bases da Educação Nacional".
+Contrarrazões apresentadas.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem ao entendimento de que não houve a dita ofensa ao art. 535 do CPC/1973, o fato está consumado e que a revisão do julgado demandaria análise fático-probatória (Súmula 7 do STJ).
+Em sua irresignação, a agravante infirma a incidência do óbice sumular mencionado e, no mais, reitera os argumentos articulados no recurso especial.
+Sem contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Isso considerado, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535 do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 04/03/2016, e AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/11/2015.
+No caso, o julgado recorrido decidiu de forma suficientemente fundamentada sobre o tema acerca do qual se considerou olvidado (e-STJ fl. 189).
+Por outro lado, verifica-se que o art. 44, II, da Lei n. 9.394/1996, que trata das diretrizes do sistema universitário superior, não contém comando para infirmar os fundamentos do acórdão recorrido, que versou sobre a comprovação de conclusão do ensino médio integrado. Aplicável, no ponto, a Súmula 284 do STF, por deficiência na fundamentação.
+Nessa linha de raciocínio:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. LIMITAÇÃO. EXECUÇÃO E EMBARGOS. COMPENSAÇÃO. NÃO VIOLAÇÃO AOS ARTIGOS 458 E 535 DO CPC. VALOR DOS HONORÁRIOS RAZOÁVEIS. ART. 20, § 4º DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ARTIGOS 2º, 22, §2º, 23 e 24 DA LEI 8.906/1994. SÚMULA 284 DO STF.
+1. Da análise do acórdão recorrido, verifica-se que o Tribunal de origem manifestou-se de maneira clara e fundamentada sobre as questões postas a julgamento, dentro dos limites que lhe são impostos por lei, apenas não adotando a tese defendida pela recorrente.
+2. O Tribunal a quo analisou os elementos fáticos para concluir pela limitação dos honorários advocatícios da execução por exequente em patamar razoável, situação que impede a revisão nesta Corte, pois somente valores que fogem da razoabilidade são viáveis a flexibilizar o óbice da Súmula n. 7/STJ.
+3. Em relação à suposta violação aos artigos 2º, 22, §2º, 23 e 24 da Lei 8.906/1994, verifica-se a carência de fundamentação. Além disso, os artigos apontados como malferidos não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, porquanto não induzem ao direito pleiteado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: 4. Agravo regimental não provido.
+(AgRg no AREsp 622.518/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/04/2015, DJe 12/05/2015)
+PROCESSUAL CIVIL. TRIBUTÁRIO. HABILITAÇÃO DE CRÉDITO. INTERPRETAÇÃO DA INSTRUÇÃO NORMATIVA DA SRF N. 600/2005. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA. ÓBICE NAS SÚMULAS 283 E 284 DO STF.
+1. O artigo 74, § 14, da Lei n. 9.430/96, apontado como violado pela Fazenda Nacional, bem como a tese a ele referente, superficialmente defendida, não são capazes de desconstituir e refutar os termos do aresto, que, na realidade, interpretou a Instrução Normativa da Secretaria de Receita Federal quanto ao excessos nos requisitos para habilitação de crédito tributário.
+2. A fundamentação do acórdão não foi atacada pela parte recorrente, que, como é apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Agravo regimental improvido.
+(AgRg no REsp 1405522/ES, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 13/05/2014, DJe 19/05/2014)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado 7 do STJ.
+Publique-se. Intimem-se.
