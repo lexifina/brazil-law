@@ -1,0 +1,6 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu pedido de liminar formulado em habeas corpus lá impetrado, no qual pretendia a defesa fosse reconhecida a ausência de fundamentação da sentença condenatória que, ao impor o cumprimento de 2 anos e 6 meses em regime semiaberto, pela prática de tráfico de drogas, impediu o recurso liberdade.
+Em que pese a concessão da liminar neste writ, informa o Ministério Público Federal que "em sessão de julgamento realizada em 21 de fevereiro de 2018, a Décima Segunda Câmara de Direito Criminal daquele Colegiado, por unanimidade de votos, concedeu a ordem de habeas corpus ali buscada em benefício de [NOME], determinado a substituição da sua prisão preventiva pelas medidas acautelatórias previstas no art. 319, incisos I, IV e V, do Código de Processo Penal" (fl. 99).
+Assim, o paciente não mais se encontra em liberdade por força da liminar deferida neste writ, mas pelo resultado do acórdão proferido na origem, a evidenciar a prejudicialidade deste habeas corpus.
+À vista do exposto, com fundamento no art. 34, XX do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
