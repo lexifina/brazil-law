@@ -1,0 +1,13 @@
+DECISÃO
+Relatório.
+Cuida-se de recurso ordinário em mandado de segurança interposto pelo Centro dos Professores do Estado do Rio Grande do Sul - CPERS/SINDICATO, contra o acórdão proferido pelo Órgão Especial do Tribunal do Justiça do Estado do Rio Grande do Sul às fls. 477 a 512, resumido na seguinte ementa:
+MANDADO DE SEGURANÇA. DÉCIMO TERCEIRO SALÁRIO. VERBA DE NATUREZA ALIMENTAR. MEDIDA PRELIMINAR. ILEGITIMIDADE PASSIVA. SECRETÁRIO DE ESTADO DA FAZENDA. MÉRITO. DÉCIMO TERCEIRO SALÁRIO. PARCELAMENTO. DISPOSIÇÃO CONSTITUCIONAL. CRISE FINANCEIRA DO ESTADO. SITUAÇÃO EXCEPCIONAL..
+- Em se tratando de mandado de segurança que visa o pagamento da gratificação natalina, não detém legitimidade passiva ad causam, nos termos do art. 82, inc. II e VII da Constituição Estadual, o Secretário de Estado da Fazenda, sendo ato de gestão privativa do Governador do Estado.
+- Apesar do Decreto de Calamidade (Decreto n.º 53.303, de 21/11/2016) não servir para afastar direitos e deveres constitucionalmente previstos, deve ser admitido como válido e eficaz para demonstrar a ausência de recursos disponíveis em caixa, inclusive para formalização do pagamento da remuneração integral e pontual dos servidores, conforme vem ocorrendo há meses neste Estado.
+- Presente causa impeditiva e/ou modificativa para a autoridade coatora cumprir a obrigação constitucional prevista no art. 35 da Constituição do Estado, resta inviável o deferimento do pedido de não parcelamento do décimo terceiro salário pretendido pelo CPERS/SINDICATO, diante da reconhecida precariedade financeira do Estado do Rio Grande do Sul, mas concedido o direito a devida correção monetária, nos termos do art. 36 da Carta Estadual.
+PRELIMINAR DE ILEGITIMIDADE PASSIVA DO SECRETÁRIO ACOLHIDA. UNÂNIME. MANDADO DE SEGURANÇA DENEGADO, POR MAIORIA. (fl. 479).
+Intimado a se pronunciar quanto à eventual perda superveniente do objeto do mandado de segurança, o recorrente trouxe aos autos a manifestação à fl. 653, pela qual, em síntese, expressamente a reconhece, ".. em virtude da quitação da gratificação natalina".
+Decisão.
+Considerando a afirmação do próprio recorrente de que ".. o bem da vida buscado pelo impetrante já foi pago aos substituídos" (fl. 653), fica prejudicado o presente recurso em mandado de segurança, pois visava apenas o pagamento do 13.º salário de forma integral e imediata a todos os servidores representados pela entidade impetrante.
+Diante do exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o presente recurso ordinário em mandado de segurança e extingo o feito, sem resolução do mérito, por perda superveniente do objeto.
+Publique-se.
