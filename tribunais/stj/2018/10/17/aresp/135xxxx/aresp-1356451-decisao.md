@@ -1,0 +1,33 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÕES CÍVEIS E AGRAVO RETIDO. SUBSCRIÇÃO DE AÇÕES. TELEFONIA.
+PROCEDÊNCIA DO PEDIDO RESPALDADA APENAS NA INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DO PRESSUPOSTO DA VEROSSIMILHANÇA DO DIREITO ALEGADO. PROCESSO PARCIALMENTE ANULADO.
+A inversão do ônus da prova fica a critério do juiz, conforme apreciação dos aspectos da verossimilhança das alegações apresentadas pelo consumidor e de sua hipossuficiência, mas, por estar intrinsecamente ligada ao conjunto fático-probatório, não afasta do autor o ônus de trazer aos autos elementos de convicção que deem suporte, ainda que indiciário, aos fatos que alega como constitutivos do direito reclamado, nos termos da norma contida no art. 330 do Código de Processo Civil de 1973.
+Por isso, a inversão do ônus da prova é inviável naqueles casos em que o consumidor não evidenciar minimamente a verossimilhança de suas alegações. Também por isso, a mera decretação da medida não conduz de modo automático ao julgamento de procedência dos pedidos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 1.022, I, do CPC/2015, 356, I e III e 357 do CPC/1973.
+Alega omissão da Corte local em analisar a aplicabilidade ou não dos arts. 356, I e III e 357 do CPC/1973. Sustenta que juntou oportunamente todos os documentos que comprovam o seu direito acionário quanto à chamada dobra acionária em decorrência da decisão transitada em julgado junto aos autos de nº 054.08.002890-3, que reconheceu o seu direito acionário quanto da telefonia fixa adquirida mediante contrato de participação financeira.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 481.
+É o relatório. Decido.
+2. De início, resguardado de qualquer ofensa está o art. 1.022 do CPC/2015, haja vista que a ofensa somente ocorre quando o acórdão deixa de pronunciar-se sobre questão jurídica ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é complementar o acórdão quando nele identificar omissão, ou, ainda, aclará-lo, dissipando obscuridade, contradição ou erro material.
+Na espécie, a Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, não há falar, no caso, em negativa de prestação jurisdicional. Destaco que se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ-FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+ ..
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1608804/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 27/10/2016).
+3. Quanto aos demais dispositivos legais violados, também não prospera o inconformismo.
+Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu que a parte recorrente não apresentou elementos de prova capaz de comprovar a existência de relação jurídica entre as partes. Segue trecho da fundamentação do acórdão recorrido (fls. 406-407):
+"Na hipótese, a parte autora não apresentou elemento de prova capaz de comprovar a existência de relação jurídica com a requerida até 30 de julho de 1997 (lista telefônica, pagamento de fatura etc.), quando foram extintos os planos de expansão com participação financeira, mesmo após a concessionária de telefonia deixar de apresentar qualquer documento apto a comprovar a possível relação jurídica noticiada (cf. Ap. Cív. n. 2011.060155-0, Primeira Câmara de Direito Comercial, rel. Des. Salim Schead dos Santos, DJe de 16-10-2012).
+ ..
+Por isso, sem o conjunto fático-probatório não se pode inverter o ônus da prova, sob pena de ferir o princípio constitucional da isonomia das partes.
+Assim, a parte autora agiu em desrespeito às regras dos incisos I e III do art. 356 e do art. 357, ambos do CPC:
+ ..
+Para suprir a ausência de indício mínimo, deve a parte autora apresentar, por exemplo, "cópia ou original da fatura da linha telefônica, de folha da chamada "lista de assinantes" ou qualquer elemento do qual constem dados fundamentais de uma contratação" (TJSC, Ap. Cív. n. 2011.078187-4, de Joinville, Primeira Câmara de Direito Comercial, rel. Des. Ricardo Fontes, j. em 24-11-2011).
+Note-se que a procedência de demanda anterior relacionada à telefonia fixa não gera vinculação à pretensão da telefonia celular e, por isso, os documentos de fls. 35-50 não suprem a necessidade de apresentar os indícios referidos.
+Deixa-se de intimar as partes para se manifestar (art. 10 do CPC/2015), porquanto a matéria foi debatida nos autos.
+Assim, impõe-se reconhecer a nulidade parcial do processo, de ofício, em decorrência de error in procedendo, a fim de que o Togado, antes da prolação da sentença, intime o polo ativo para a juntada do indício de prova da relação jurídica existente entre as partes."
+Resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ, impedindo o conhecimento do recurso.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
