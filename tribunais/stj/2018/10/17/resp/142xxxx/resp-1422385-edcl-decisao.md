@@ -1,0 +1,10 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. PAGAMENTO DO CRÉDITO PLEITEADO. PERDA SUPERVENIENTE DO OBJETO DO RECURSO. RECURSO ESPECIAL DO INSS PREJUDICADO ANTE A PERDA SUPERVENIENTE DE SEU OBJETO.
+1. Trata-se de Embargos de Declaração nos Embargos de Declaração no Recurso Especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, os quais objurgam decisão por mim prolatada, que acolheu os Embargos de Declaração anteriores, conferindo-lhes efeitos infringentes, para dar parcial provimento ao Recurso Especial do INSS, a fim de determinar o retorno dos autos ao Tribunal a quo, para que se proceda à intimação da Autarquia para apresentação das contrarrazões ao Agravo de Instrumento.
+2. Nas razões dos presentes Embargos, os Particulares informam que a pretensão vertida pelo INSS em sede de recurso especial não mais se sustenta: na origem, nos autos da Execução de Sentença n. 5063850-14.2012.4.04.7100, houve a concordância, por parte do INSS, quanto ao crédito pleiteado na ação, ou seja, o INSS, devidamente citado, não opôs embargos à execução, CONCORDANDO expressamente com o montante devido, que foi requisitado e pago (fls. 500).
+3. Intimado a se manifestar, o INSS confirmou o pagamento das RPVs e reafirmou a perda do objeto do Recurso Especial (fls. 518).
+4. É o relatório.
+5. De início, verifica-se que a discussão do Recurso Especial cinge-se à concessão do benefício de assistência judiciária gratuita aos ora embargantes.
+6. Conforme relatado pelas partes, nos autos da ação principal, na Execução de Sentença 5063850-14.2012.4.04.7100, houve concordância e quitação pelo INSS dos valores discutidos, razão pela qual verifica-se que houve a superveniente perda do objeto recursal.
+7. Ante o exposto, acolhem-se os presentes embargos, tornando sem efeito as decisões anteriores de fls. 471/475 e 493/497, para julgar prejudicado o Recurso Especial do INSS.
+8. Publique-se. Intimações necessárias.
