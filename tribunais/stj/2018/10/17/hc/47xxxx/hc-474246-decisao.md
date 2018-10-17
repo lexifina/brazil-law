@@ -1,0 +1,14 @@
+DECISÃO
+O paciente acoima de ilegal acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 7005267-19.2017.8.26.0071, em que foi cassada a decisão de primeiro grau, que lhe havia concedido livramento condicional, e determinada a prévia elaboração de exame criminológico antes de novo pleito.
+Com efeito, verifico que a Corte de origem, ao reformar a decisão de primeiro grau, salientou que o paciente "registra a prática de falta graves em seu prontuário, uma por evasão, quatro envolvendo apreensão e posse de celular/acessórios e duas por apreensão de massa epóxi" (fl. 44).
+Como se observa da leitura do excerto acima, a determinação de realização da perícia foi justificada pelo histórico prisional desfavorável do paciente.
+Segundo o Tribunal local, é necessária a completamentação do laudo pericial, porquanto foram realizados tão-somente os exames psicológico e social (fls. 34/37), sendo, porém, imprescindível, a meu ver, o laudo do médico psiquiatra, para que a perícia atenda aos fins a que se destina, de forma ampla" (fl. 44, sublinhei).
+Com efeito, sobre a possibilidade da exigência de realização do exame criminológico, ressalte-se entendimento desta Corte nos termos do seguinte precedente:
+ ..
+III - Na hipótese, as instâncias ordinárias entenderam que não teria sido atendido o requisito subjetivo da progressão de regime, firmadas em fatos concretos ocorridos no curso da execução penal, quais sejam, o cometimento de diversas faltas disciplinares graves pelo paciente, bem como a prática de novos delitos, quando se encontrava no gozo de anterior livramento condicional e quando da última progressão ao regime aberto.
+IV - Estando os títulos judiciais das instâncias ordinárias escudados em motivação suficiente, a reforma do entendimento adotado quanto ao preenchimento do requisito subjetivo de benefício da execução penal demandaria amplo revolvimento do acervo fático-probatório, medida inviável em sede de habeas corpus.
+Habeas corpus não conhecido (HC n. 381.291/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 21/3/2017, destaquei).
+No caso, o Tribunal a quo determinou a realização do exame criminológico em face da prática de infrações disciplinares de natureza grave, de modo a macular a avaliação do requisito de ordem subjetiva. Assim, apontada a fundamentação para requisição do exame criminológico, verifica-se que o contorno do caso em apreço está em consonância com o entendimento esboçado por esta Corte Superior na Súmula n. 439: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Assim, diante das razões asseveradas, não constitui constrangimento ilegal a determinação de realização do exame criminológico.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
