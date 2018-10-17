@@ -1,0 +1,37 @@
+EMENTA
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça de Minas Gerais que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado.
+O referido recurso especial foi fundado no art. 105, III, a, da Constituição Federal e dirigiu-se contra acórdão proferido no julgamento do Recurso em Sentido Estrito n. 1.0024.08.106148-3/001, assim ementado (fl. 257):
+RECURSO EM SENTIDO ESTRITO - HOMICÍDIOS QUALIFICADOS TENTADOS - IMPRONÚNCIA IMPOSSIBILIDADE - TESE A SER APRECIADA PELO TRIBUNAL DO JÚRI - MATERIALIDADE DELITIVA E INDÍCIOS SUFICIENTES DE AUTORIA - INTELIGÊNCIA DO ART. 413 DO CPP - ABSOLVIÇÃO SUMÁRIA - INVIABILIDADE - INCOMPATIBILIDADE ENTRE TENTATIVA E DOLO EVENTUAL - INOCORRÊNCIA. RECURSO NÃO PROVIDO.
+1 . A Sentença de Pronúncia consiste em mero juízo de admissibilidade da acusação, bastando, para tanto, que o Juiz se convença acerca da materialidade do fato e dos indícios suficientes de autoria, a teor do disposto no art. 413 do Código de Processo Penal.
+2. Satisfeita a exigência legal," e não evidenciada qualquer descriminante a que se refere o art. 23 do Código Penal, algurha causa de isenção de pena ou, ainda, qualquer das hipóteses previstas no art. 415 do Código de Processo Penal, a pronúncia é a medida de rigor.
+3. Para o reconhecimento da tentativa (art. 14, inc. II, do Código Penal), é imperiosa a demonstração do dolo do agente, podendo ser ele direto ou eventual, uma vez que o art. 18, inc. I, do Estatuto Repressivci não faz qualquer distinção no tratamento dispensado às referidas modalidades de dolo, equiparando-as.
+Nas razões recursais, a defesa apontou afronta ao art. 14, II e ao art. 121 do Código Penal, aduzindo que a Corte de origem incorreu em erro ao pronunciar o agravante, uma vez que há plena incompatibilidade entre o dolo eventual e o homicídio tentado.
+Sustenta que o crime tentado pressupõe que o agente tenha agido com "vontade" de atingir o resultado (art.14, II, do CP), não sendo possível interpretação extensiva em prejuízo do réu, para incluir também as hipóteses em que o réu não tenha desejado o resultado, mas, apenas, assumido o risco de produzi-lo (fl. 291).
+Requereu, ao final, a reforma do acórdão recorrido a fim de que o réu seja absolvido sumariamente das imputações nos crimes de homicídio tentado contra as vítimas [NOME] e [NOME], uma vez que o agente não agiu com vontade de produzir o resultado, mantendo-se a pronúncia em relação ao réu [NOME], conforme parecer ministerial (fl. 291).
+Apresentadas contrarrazões (fls. 296/300), o recurso especial não foi admitido por incidência da Súmula 83/STJ (fls. 302/303).
+Contra essa decisão a defesa interpõe agravo (fls. 306/308).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 322/324).
+É o relatório.
+O agravo é inadmissível.
+A jurisprudência desta Corte tem orientado que na hipótese em que o recurso especial é inadmitido com fundamento na Súmula 83/STJ, ou seja, como base no entendimento de que o acórdão hostilizado está em harmonia com a jurisprudência consolidada nesta Corte, cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Se o agravante assim não procede, como é o caso dos autos - em que o agravante apenas afirma que o posicionamento não é pacífico porque não existe súmula publicada da matéria -, o recurso é tido como inadmissível, ante a inobservância do princípio da dialeticidade recursal (art. 932, III, do Código de Processo Civil de 2015).
+A propósito, destaco:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMOU UM DOS FUNDAMENTOS DO DECISUM COMBATIDO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. TENTATIVA DE COMPLEMENTAR AS RAZÕES DO AGRAVO. INADMISSIBILIDADE. PRECLUSÃO.
+1. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete à agravante demonstrar que a orientação jurisprudencial desta Corte Superior é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue daquelas objetos dos precedentes invocados, o que não ocorreu na espécie.
+ ..
+(AgRg no AREsp n. 1.068.523/SP, de minha relatoria, Sexta Turma, DJe 8/6/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. QUINTOS/DÉCIMOS. CONVERSÃO EM VPNI. LEI 9.527/1997. REAJUSTAMENTO. LEIS 10.475/2002, 10.994/2004, 11.416/2006 E 12.774/2012. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. REITERAÇÃO DAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DO ART. 544, § 4º, I, DO CPC. PRECEDENTES. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece do agravo em recurso especial que deixa de atacar especificamente e fundamentadamente os fundamentos da decisão de inadmissibilidade. Incidência do art. 544, § 4º, I, do CPC.
+2. Tendo a decisão de inadmissibilidade decidido que o acórdão recorrido estaria em sintonia com a jurisprudência do STJ (Súmula 83/STJ), compete ao agravante demonstrar que o entendimento adotado pelo acórdão encontra-se em descompasso com o atual entendimento do STJ, trazendo para tanto precedentes do STJ favoráveis à sua tese recursal, ou que os precedentes invocados na decisão de inadmissibilidade não se aplicariam ao casu, por versarem sobre situações diversas, o que não ocorreu na espécie. Nesse sentido: AgRg no AREsp 293.726/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 13/08/2013, DJe 26/08/2013.
+ ..
+(AgRg no AREsp n. 805.799/RS, Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/3/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os seus fundamentos não merece conhecimento, ante o óbice imposto pela Súmula 182/STJ.
+2. Ademais, a jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada; é necessário que a contestação seja específica e suficientemente demonstrada.
+3. Sendo obstado o recurso especial no despacho de admissibilidade, pela aplicação da Súmula 83/STJ, incumbia à agravante demonstrar, no agravo, que a orientação jurisprudencial não foi pacificada no mesmo sentido do acórdão recorrido, ou então comprovar que o precedente indicado, por constituir situação diversa, não teria aplicação ao caso dos autos. Agravo regimental improvido.
+(AgRg no AREsp n. 555.160/CE, Ministro Humberto Martins, Segunda Turma, DJe 13/10/2014)
+No caso, as razões do agravo não demonstraram nenhuma das duas condições aptas a infirmar o decisum, ou seja, não evidenciaram que a orientação jurisprudencial desta Corte é diversa daquela extraída do precedente indicado no decisão agravada, nem que a situação retratada nos autos possui uma peculiaridade que a distingue do precedente invocado.
+Logo, o agravo é inadmissível.
+Ante o exposto, com fundamento nos arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
