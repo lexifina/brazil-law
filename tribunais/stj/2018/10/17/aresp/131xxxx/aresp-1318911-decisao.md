@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO PRIVILEGIADO. ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE OU QUALIDADE DA SUBSTÂNCIA APREENDIDA. ART. 42 DA LEI N. 11.343/2006. POSSIBILIDADE DE UTILIZAÇÃO NA PRIMEIRA OU TERCEIRA FASE. EXASPERAÇÃO DA PENA-BASE OU MODULAÇÃO DA FRAÇÃO DE DIMINUIÇÃO. PRECEDENTE. FIXAÇÃO DO REGIME INICIAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. HEDIONDEZ. ART. 2º, § 1º, DA LEI N. 8.072/1990. VEDAÇÕES CONSTANTES NOS ARTS. 33, § 4º, E 44, AMBOS DA LEI N. 11.343/2006. INCONSTITUCIONALIDADE. PRECEDENTES. SÚMULA 512/STJ REVOGADA. REGIME INICIAL DIVERSO DO FECHADO E SUBSTITUIÇÃO DA PENA. POSSIBILIDADE.
+Agravo conhecido para dar parcial provimento a recurso especial.
+DECISÃO
+Trata-se de agravo de [NOME] contra decisão de inadmissão de recurso especial, este interposto no processo n. 0022686-79.2011.8.26.0590 contra acórdão proferido pela Décima Primeira Câmara Criminal do Tribunal de Justiça de São Paulo que, dando parcial provimento ao apelo, redimensionou sua pena a 3 anos e 4 meses de reclusão, em regime fechado, e 333 dias-multa, à razão mínima, pela prática de conduta descrita no art. 33, § 4º, da Lei n. 11.343/2006 (fls. 200/207).
+O recorrente interpôs recurso especial, no qual alega, em síntese, que o acórdão recorrido teria violado o art. 33, § 4º, da Lei n. 11.343/2006, porquanto não teria especificado os motivos pelos quais a Turma julgadora não operou diminuição maior. Não bastaria a mera reprodução da expressão "quantidade e natureza de droga" para que a pessoa acusada fosse prejudicada. O montante não se mostraria expressivo o suficiente para, de forma isolada, concluir pela traficância como meio de vida.
+Sustenta, outrossim, que não teria como se aplicar regime diverso do indicado no art. 33, § 2º, do Código Penal, a saber, o aberto, conforme entendimento da Súmula 440/STJ. Salienta que a hediondez não seria fundamento, até porque o tráfico privilegiado não seria considerado equiparável aos crimes hediondos.
+Afirma não ser possível negar a substituição da pena, nos termos do art. 44 do Código Penal, pois preenchidos os requisitos legais.
+Por fim, subsidiariamente, pede a fixação do regime inicial semiaberto, visto que não se poderia saltar do regime mais brando para o fechado quando a pena não fosse superior a 8 anos, como no caso (fls. 264/278).
+Contrarrazões às fls. 280/306.
+O apelo foi obstado na origem por deficiência nas razões recursais, por falta de prequestionamento e por demandar reexame de provas (fls. 308/309).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que os trechos tratados no recurso especial teriam sido analisados pela instância local e que não teria pedido reinterpretação de qualquer fato para sustentar sua pretensão recursal. Por fim, acresce que teria estampado os fundamentos e os objetivos da irresignação (fls. 325/334).
+Contrarrazões ao agravo em recurso especial às fls. 336/340.
+O Ministério Público Federal opina pelo conhecimento do agravo para dar parcial provimento ao recurso, a fim de que o agravante possa cumprir a pena em regime aberto, determinando-se ao Juízo da Execução Penal que examine a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos (fls. 354/357).
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Passando ao recurso especial, quanto à violação do § 4º do art. 33 da Lei de Drogas, cumpre destacar que a menção às circunstâncias tanto do art. 59 do Código Penal quanto do art. 42 da Lei de Drogas para fins de modulação da fração da causa de diminuição encontra amparo jurisprudencial, desde que não configure bis in idem (Cf. REsp n. 1.294.540/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/2/2016).
+Essa questão foi tratada da seguinte maneira pelo Tribunal local (fl. 206):
+ ..
+A pena base foi fixada no mínimo legal, 05 anos de reclusão mais 500 dias-multa, no piso.
+Em seguida foi computada a menoridade do agente, porém, sem reflexo na pena, eis que vedada a redução abaixo do piso legal na segunda fase (S. 231 do STJ).
+Na derradeira, foi aplicado o redutor do art. 33, § 4o, da Lei de Drogas, no patamar de 1/6, contudo, para manter coerência com casos semelhantes julgados por esta Turma Julgadora, aplica-se a fração de 1/3, compatível com a quantidade e a natureza da droga, totalizando 03 anos e 04 meses de reclusão e pagamento de 333 dias-multa, no piso mínimo.
+ ..
+De fato, o Tribunal menciona a apreensão de invólucro com 10 porções de cocaína e no local ainda foram encontradas outras 75 porções ocultas no cano de PVC igualmente embaladas.
+Tal fundamento mostra-se idôneo e impassível de modificação nesta Instância Superior, não prosperando o recurso no ponto.
+Em relação ao regime inicial, após o Supremo Tribunal Federal ter declarado, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, não subsiste mais a imposição automática do regime inicial fechado de cumprimento da pena aos crimes hediondos e equiparados, devendo o magistrado observar as regras previstas no art. 33, c/c o art. 59, ambos do Código Penal, e fundamentar concretamente a imposição do regime inicial mais rigoroso do que o correspondente à pena aplicada.
+Não serve, portanto, a Lei de Crimes Hediondos como fundamento para recrudescimento do regime.
+Nesse sentido: HC n. 220.996/SP, de minha relatoria, Sexta Turma, DJe 19/12/2014; HC n. 306.214/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 2/2/2015; e HC n. 307.228/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 15/12/2014.
+Ainda sobre influxos da Lei dos Crimes Hediondos no crime de tráfico de drogas, além da Resolução n. 5/2012 do Senado Federal suspendendo a execução da vedação à substituição da pena constante no § 4º do art. 33, o Supremo Tribunal Federal reputou inconstitucional a vedação em abstrato da substituição da pena nos casos de tráfico de drogas, abrangendo expressamente também o art. 44 da Lei n. 11.343/2006.
+É o que se observa no HC n. 97.256/RS, Ministro Ayres Britto, Tribunal Pleno, DJ 16/12/2010, p. 279-333.
+E no mesmo sentido se encaminhou a jurisprudência deste Tribunal Superior: HC n. 360.507/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/8/2016.
+Além disso, seguindo posicionamento do Supremo Tribunal Federal, este Tribunal Superior passou a não considerar o crime de tráfico privilegiado, figura do art. 33, § 4º, da Lei n. 11.343/2006 como equiparado a hediondo, o que culminou com o cancelamento da Súmula n. 512/STJ.
+Contrariando tais posicionamentos, há muito pacificados, o Tribunal local fixou o regime inicial fechado automático e obstou a substituição da pena privativa de liberdade por restritiva de direitos em razão da hediondez (fls. 206/207):
+ ..
+O regime inicial fechado era mesmo de rigor e fica mantido, pois, sob o prisma da suficiência, é o único compatível com o delito de tráfico de entorpecentes, equiparado aos hediondos, que tantas mazelas sociais tem proporcionado, pois trata-se de crime que fomenta outras espécies de ilícitos penais, provoca a degradação do indivíduo e da família brasileira, desvia a juventude da busca de objetivos lícitos e produtivos em favor bem comum, tudo em troca de um único escopo, o lucro do traficante. Quem promove este sistema e estimula a degradação alheia, merece repreensão severa.
+Sob os mesmos fundamentos, e também devido ao quantum da pena imposta, não se cogita de substituição da pena privativa de liberdade por restritivas de direitos.
+ ..
+Do excerto, conforme exposto no parecer ministerial, tendo em vista a imprestabilidade dos fundamentos declinados, baseados na suposta hediondez do tráfico de drogas privilegiado, necessário fixar o regime inicial de acordo com o quantum da pena, a saber, o aberto, nos termos do art. 33, § 2º, c, do Código Penal.
+Do mesmo modo, necessário substituir a pena privativa por restritivas de direitos, a serem especificadas pelo Juízo da Execução Penal.
+Desse modo, estando o acórdão recorrido em consonância com a jurisprudência assente neste Tribunal, autoriza-se o julgamento monocrático, conforme dispõe a Súmula 568/STJ.
+Ante o exposto, com fulcro no art. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, fixando o regime aberto e determinando a substituição da pena por restritivas de direitos a serem especificadas pelo Juízo da Execução Penal.
+Publique-se.
