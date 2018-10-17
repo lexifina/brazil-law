@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TERMO INICIAL PARA A CONTAGEM DO LAPSO TEMPORAL. DATA EM QUE O APENADO TERIA DIREITO AO BENEFÍCIO, CUMPRINDO OS REQUISITOS LEGAIS (ART. 118 DA LEP). DECISÃO CONCESSIVA DE NATUREZA DECLARATÓRIA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que não conheceu do writ ali impetrado (fls. 17/19 - Habeas Corpus n. 2167477-87.2018.8.26.0000), mantendo decisão do Juízo de Direito da 1ª Vara de Execuções Criminais da comarca de Araçatuba/SP, que indeferiu o requerimento do paciente a fim de que os cálculos da pena considerassem como data-base para progressão ao regime aberto a data do adimplemento do requisito objetivo para progressão ao regime semiaberto (fls. 24/25 - Execução n. 363.293).
+Daí a presente impetração, em que se alega constrangimento ilegal consistente na fixação da data-base para progressão de regime.
+Sustenta, em síntese, que se equivocou o nobre julgador, pois, conforme o HC n. 369.774, a Sexta Turma do Superior Tribunal de Justiça passou a seguir o entendimento da Quinta Turma do STJ e do Supremo Tribunal Federal, entendendo que a data-base para a progressão de regime é aquela em que o apenado preenche os requisitos do artigo 112 da Lei de Execução Penal, e não a data em que o Juízo concedeu o benefício ou até mesmo a data da conclusão do exame criminológico para progressão ao regime semiaberto (fl. 6).
+Postula, então, a concessão liminar da ordem a fim de que seja retificada a data-base para concessão da progressão de regime.
+É o relatório.
+Busca a impetração que seja realizado novo cálculo de pena do paciente, considerando como data-base de concessão da progressão ao regime inicial aberto a data que adimpliu o requisito objetivo para progressão ao regime semiaberto.
+Da análise dos autos, tem-se que o Juízo da execução fixou como data-base para futura progressão a data da avaliação criminológica (fl. 25).
+Por sua vez, o Tribunal a quo não adentrou ao mérito da pretensão, sob o argumento de inviabilidade de análise da pretensão na via eleita (fl. 19).
+No entanto, após o julgamento proferido pelo Supremo Tribunal Federal no HC 115.254/SP, esta Corte Superior de Justiça, revendo o entendimento anterior, passou a entender que, na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. Deve ser aplicada a mesma lógica utilizada para a regressão de regime em faltas graves (art. 118, LEP), em que a data-base é a da prática do fato, e não da decisão posterior que reconhece a falta (HC n. 439.068/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 23/3/2018).
+Confira-se também: HC n. 309.087/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 9/2/2017.
+Pelo exposto, concedo liminarmente a ordem para determinar a realização de novos cálculos da pena imposta ao paciente, considerando como data-base para a concessão de nova progressão de regime a data do adimplemento do último requisito objetivo da última progressão concedida, referente à Execução n. 363.293, da 1ª Vara de Execuções Criminais da comarca de Araçatuba/SP.
+Comunique-se com urgência.
+Publique-se.
