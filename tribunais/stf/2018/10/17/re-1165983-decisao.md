@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. PENSÃO POR MORTE.
+    Se o servidor foi admitido no serviço público antes do advento da Emenda Constitucional nº 41/2003 e estava aposentado quando do seu falecimento, a ele não se aplicam as posteriores alterações introduzidas, que estabeleceram restrições à paridade, diante do que dispõe o art. 3º, parágrafo único da Emenda Constitucional nº 47/2005. Se do acórdão constou expressamente que o percentual fixado a título de honorários advocatícios incidirá sobre o valor total das prestações vencidas, é curial que foi aplicada a orientação constante do enunciado nº 111 da súmula de jurisprudência do Superior Tribunal de Justiça. Se a parte litigou sob o pálio da gratuidade de justiça, o Instituto-Réu nada terá que ressarcir a título de custas e taxa judiciária.
+    RECURSO PARCIALMENTE PROVIDO. ”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 40, §§ 7º e 8º, da CF, com redação dada pela EC nº 41/2003. Sustenta a impossibilidade de a beneficiária da pensão receber o benefício com integralidade e paridade, diante do falecimento do ex-servidor após a EC nº 41/2003.
+    O recurso deve ser parcialmente provido.
+    O Supremo Tribunal Federal, ao julgar o RE 603.580-RG, Rel. Min. Ricardo Lewandowski, reconheceu a repercussão geral da matéria ora discutida e assentou que: (i) aplica-se à pensão por morte a legislação vigente ao tempo em que ocorreu o fato gerador de sua concessão, ou seja, aquela que se encontrava em vigor na data do óbito do instituidor; (ii) falecido o servidor público após a da publicação da EC nº 41/2003, a pensão por morte de seus dependentes deve ser reajustada nos termos da lei, conforme dispõe o art. 40, § 8º, da Constituição; (iii) a EC nº 47/2005 prevê uma exceção a essa regra, hipótese em que a paridade subsistirá, ainda que o falecimento do instituidor da pensão se dê após o marco temporal de 31.12.2003, desde que sejam preenchidos pelo servidor os requisitos de: a) 35 anos de contribuição, b) 25 anos de efetivo exercício no serviço público, c) 15 anos de carreira e d) 5 anos no cargo em que se deu a aposentadoria (art. 3º, parágrafo único, da EC 47/2005). Veja-se a ementa do paradigma mencionado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. INSTITUIDOR APOSENTADO ANTES DA EMENDA CONSTITUCIONAL 41/2003, PORÉM FALECIDO APÓS SEU ADVENTO. DIREITO DO PENSIONISTA À PARIDADE. IMPOSSIBILIDADE. EXCEÇÃO: ART. 3º DA EC 47/2005. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PARCIAL PROVIMENTO.
+    I O benefício previdenciário da pensão por morte deve ser regido pela lei vigente à época do óbito de seu instituidor.
+    II Às pensões derivadas de óbito de servidores aposentados nos termos do art. 3º da EC 47/2005 é garantido o direito à paridade.
+    III Recurso extraordinário a que se dá parcial provimento.”
+    A tese do RE 603.580-RG restou assim fixada: “Os pensionistas de servidor falecido posteriormente à EC nº 41/2003 têm direito à paridade com servidores em atividade (EC nº 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC nº 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I)”.
+    Na hipótese, o Tribunal de origem, realizando o juízo de retratação, entendeu por manter o acórdão recorrido, nos seguintes termos:
+    “No caso presente, o finado servidor se aposentou em 05/4/2010, observando-se os critérios da EC nº 20/98, sendo inaplicável a aplicação da EC n° 41/2003, diante do advento da EC 47/2005, que garantiu a paridade às pensões derivadas de óbito de servidores aposentados que tenham ingressado no serviço público até 16/12/1998, como se vê:
+    (…)
+    Portanto, a autora faz jus à revisão, na forma da legislação acima mencionada, o que foi observado no Aresto.
+    Além do direito à revisão de sua pensão, a autora faz jus à aplicação da regra de integralidade do pensionamento, conforme remuneração do ex-servidor, diante do advento da EC nº 47/2005, eis que ele preenchia os requisitos exigidos no art. 3°.”
+    O Tribunal de origem divergiu parcialmente do entendimento desta Corte, uma vez que a autora da ação não tem direito à integralidade da pensão.
+    Por outro lado, observa-se que o instituidor da pensão preencheu os requisitos da regra de transição estabelecida pelo art. 3º da EC 47/2005, o que beneficia a pensionista com o direito à paridade remuneratória.
+    Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso para assentar a impossibilidade de a pensionista receber a pensão em sua integralidade, diante do previsto no art. 40, § 7º, I, da Constituição Federal, na redação dada pela EC nº 41/2003.
+    Publique-se.
+          Brasília, 17 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
