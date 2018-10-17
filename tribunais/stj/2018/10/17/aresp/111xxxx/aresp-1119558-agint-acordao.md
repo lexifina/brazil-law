@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). INTIMAÇÃO DA PARTE. PREQUESTIONAMENTO. AUSENTE. SÚMULA 282/STF. INAPLICABILIDADE DO CPC/15. APELAÇÃO INTERPOSTA NO JUÍZO DE ORIGEM. PUBLICAÇÃO DA DECISÃO RECORRIDA NA VIGÊNCIA DO CPC/73. ENUNCIADO ADMINISTRATIVO N. 2º, DO STJ. CUSTAS. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por ART SERVICES SOLUCOES & LOGISTICA S.A contra decisão que negou provimento ao agravo em recurso especial, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). INTIMAÇÃO DA PARTE. PREQUESTIONAMENTO. AUSENTE. SÚMULA 282/STF. INAPLICABILIDADE DO CPC/15. APELAÇÃO INTERPOSTA NO JUÍZO DE ORIGEM. PUBLICAÇÃO DA DECISÃO RECORRIDA NA VIGÊNCIA DO CPC/73. CUSTAS. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE.SÚMULA 280/STF. NEG ADO PROVIMENTO AO AGRAVO. (e-STJ, fl. 807)
+A agravante assevera o prequestionamento da matéria, de modo que esta foi debatida no Tribunal de origem, ainda que de modo implícito.
+Defende que, na hipótese dos autos, é cabível a aplicação das normas do CPC/15, de modo que deveria ter sido intimada antes do indeferimento do benefício da justiça gratuita.
+Aduz, por fim, que a violação é referente às normas de direito federal, não sendo o caso de aplicação da Súmula 280/STF.
+Pugna pelo conhecimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). INTIMAÇÃO DA PARTE. PREQUESTIONAMENTO. AUSENTE. SÚMULA 282/STF. INAPLICABILIDADE DO CPC/15. APELAÇÃO INTERPOSTA NO JUÍZO DE ORIGEM. PUBLICAÇÃO DA DECISÃO RECORRIDA NA VIGÊNCIA DO CPC/73. ENUNCIADO ADMINISTRATIVO N. 2º, DO STJ. CUSTAS. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+De início, é importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstre de forma clara os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão.
+Assim, não basta a mera indicação dos dispositivos de lei federal que entende violados, sem indicar a fundamentação jurídica para os artigos apresentados.
+Além disso, ATHOS GUSMAO CARNEIRO, define que: "não é suficiente para que a questão federal tenha sido prequestionada, que tenha sido ela suscitada pela parte, no curso do contraditório, mas é essencial que a matéria tenha sido explicitamente decidida no aresto recorrido, embora não se faça necessária a expressa menção a texto de lei" (ATHOS GUSMAO CARNEIRO - Requisitos específicos de admissibilidade no Recurso Especial).
+Contudo, torna-se inviável acatar o argumento de prequestionamento quando a legislação federal indicada nas razões de recurso especial não faz parte da fundamentação do acórdão recorrido.
+Na espécie, no que se refere à violação ao artigo 99, § 2º, do CPC/15, verifica-se que esta não foi apreciada pelo acórdão recorrido, não tendo sido suscitada nem mesmo nas razões dos aclaratórios, estando ausente o indispensável debate prévio.
+Sabe-se que o acórdão recorrido não examinou a necessidade de intimação da parte quando do indeferimento do benefício da justiça gratuita.
+Ressalta-se, por oportuno, que "à configuração do prequestionamento viabilizador do acesso a esta Superior instância, é necessário que o Tribunal local se manifeste, emita juízo de valor, ainda que de forma implícita, sobre a matéria federal tratada no dispositivo infralegal dito violado, não bastando, apenas, a menção dos referidos preceitos legais na petição de recurso especial". (AgRg no Ag 1259583/ PA, QUARTA TURMA, Rel. Ministro RAUL ARAÚJO, DJe 25/04/2014)
+Ademais, oportuno lembrar, que o marco temporal de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do antigo Codex Processual.
+Assim, nos termos do Enunciado Administrativo nº 2 do STJ, "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Além disso, à luz do princípio tempus regit actum, esta Corte Superior há muito pacificou o entendimento de que as normas de caráter processual têm aplicação imediata aos processos em curso, regra essa que veio a ser positivada no ordenamento jurídico no art. 14 do novo CPC.
+Em homenagem ao referido princípio, o Superior Tribunal de Justiça consolidou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater.
+No caso em apreço, a dinâmica processual estabelecida pelo Código de Processo Civil de 2015 não tem aplicação, pois quando da interposição do recurso de apelação no Tribunal de origem não vigia aquele Código de Ritos, sendo a sentença publicada em 07/10/2015 (e-STJ, fl. 323).
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO EVIDENCIADA E SANADA.
+1. Nos termos do que decidido pelo Plenário do STJ, "(aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, nos ditames do art. 535, I e II, do CPC/1973, bem como para sanar a ocorrência de erro material.
+3. Sob esse enfoque, os presentes embargos declaratórios merecem parcial acolhimento, porquanto o acórdão embargado deixou de apreciar o terceiro capítulo dos embargos de divergência, bem como o pedido de suspensão do julgamento do feito.
+4. Os requisitos necessários para o exame do dissídio jurisprudencial não foram atendidos, uma vez que o acórdão apontado como paradigma encontra-se assentado em contexto fático absolutamente diverso do que foi considerado para o debate travado nos presentes autos.
+5. O sobrestamento do REsp 1.470.443/PR determinado pela Primeira Seção, diante da repercussão geral reconhecida pelo STF no RE 855.091, em nada interfere na análise da presente controvérsia, cujo tema é absolutamente diverso do tratado no repetitivo referido, não apenas em razão da diferença dos tributos e, portanto, de diferentes bases de cálculo (IRPF naquele - IRPJ e CSLL neste), quanto em razão de todas as peculiaridades in casu consideradas, alusivas à forma de realização do depósito, à disponibilidade ou não do montante depositado, dentre outros.
+6. Embargos declaratórios acolhidos, sem efeitos infringentes, apenas para sanar a omissão apontada"
+(EDcl nos EREsp 1.138.695/SC, Rel. Ministro Benedito Gonçalves, Corte Especial, julgado em 05/10/2016, DJe 11/10/2016 - grifou-se).
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIGÊNCIA DO NOVO CPC. 18/3/2016. LC 95/1998 E LEI N. 810/1949. DECISÃO IMPUGNADA PUBLICADA ANTES DA VIGÊNCIA DO NOVO CPC. APLICABILIDADE NA ESPÉCIE DO CPC DE 1973. PRINCÍPIO DO TEMPUS REGIT ACTUM. RECURSO ASSINADO ELETRONICAMENTE POR ADVOGADO SEM INSTRUMENTO DE PROCURAÇÃO. SÚMULA 115/STJ.
+1. Observando o disposto na Lei n. 810/1.949 c/c Lei Complementar 95/1.998, a vigência do novo Código de Processo Civil, instituído pela Lei n. 13.105, de 16 de março de 2015, iniciou-se em 18 de março de 2016 (Enunciado Administrativo n. 1, aprovado pelo Plenário do Superior Tribunal de Justiça em 2/3/2016).
+2. À luz do princípio tempus regit actum, esta Corte Superior há muito pacificou o entendimento de que as normas de caráter processual têm aplicação imediata aos processos em curso, regra essa que veio a ser positivada no ordenamento jurídico no art. 14 do novo CPC.
+3. Em homenagem ao referido princípio, o Superior Tribunal de Justiça consolidou o entendimento de que a lei a reger o recurso cabível e a forma de sua interposição é aquela vigente à data da publicação da decisão impugnada, ocasião em que o sucumbente tem a ciência da exata compreensão dos fundamentos do provimento jurisdicional que pretende combater. Precedentes.
+4. Esse entendimento foi cristalizado pelo Plenário do Superior Tribunal de Justiça, na sessão realizada dia 9/3/2016 (ata publicada em 11/3/2016), em que, por unanimidade, aprovou a edição de enunciado administrativo com a seguinte redação: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+5. Na espécie, o agravo interno impugna decisão publicada na vigência do CPC de 1973, sendo exigidos, pois, os requisitos de admissibilidade na forma prevista naquele código de ritos, com as interpretações dadas, até então, pela jurisprudência desta Corte.
+6. A interposição de recurso especial assinado eletronicamente por advogado sem poderes nos autos atrai a incidência da Súmula 115/STJ. Ademais, a regularidade na representação processual da parte deve ser comprovada no ato da interposição do recurso. Precedentes.
+7. Agravo interno a que se nega provimento"
+(AgInt no REsp 1.599.104/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 04/10/2016, DJe 07/10/2016 - grifou-se).
+Por fim, cumpre asseverar que o acórdão recorrido fundamentou-se, essencialmente, nos dispositivos de lei estadual. A eventual violação de lei federal seria reflexa, e não direta, porque no deslinde da controvérsia seria imprescindível a interpretação da lei estadual.
+Convém colacionar trechos do acórdão recorrido que assim fundamentam:
+Foi determinado à recorrente que comprovasse, no prazo de cinco dias, para evitar a deserção, o recolhimento do valor complementar do preparo recursal (fl. 676/677), considerando-se os termos do inciso II do artigo 4º da Lei Estadual nº 11.608/2003, alterada pela Lei nº 15.855/2015 (4% sobre o valor da causa). (..) O diferimento do recolhimento da taxa judiciária somente poderá ocorrer mediante comprovação, por meio idôneo, da momentânea impossibilidade financeira do seu recolhimento, ainda que parcial, nos termos do art. 5º da Lei de Custas. Contudo, a empresa embargante não comprovou nos autos a alegada momentânea impossibilidade financeira para o recolhimento integral do preparo.
+(..) O recurso encontra-se irremediavelmente comprometido. Dispõe o artigo 4º, inciso II da Lei Estadual nº 11.608, de 29.12.03, alterada pela Lei nº 15.855/2015:
+"O recolhimento da taxa judiciária será feito da seguinte forma:
+(..) II - 4% (quatro por cento) sobre o valor da causa, nos termos do artigo 511 do Código de Processo Civil, como preparo da apelação e do recurso adesivo, ou, nos processos de competência originária do Tribunal, como preparo dos embargos infringentes". (e-STJ, fls.
+553/555 - grifou-se)
+Logo, o exame de normas de caráter local é inviável na via do Superior Tribunal de Justiça recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+Assim, correta a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
