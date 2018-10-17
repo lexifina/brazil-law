@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC), interposto por OI S/A - EM RECUPERAÇÃO JUDICIAL, contra decisão que não admitiu recurso especial (fls. 547/551, e-STJ), fundamentada no sentido de que: a) não houve negativa de prestação jurisdicional; e, b) a alteração do que restou decidido pela Corte Estadual demandaria o reexame de fatos e provas, providência vedada pela Súmula 07/STJ.
+Nas razões de agravo (fls. 558/567, e-STJ), a insurgente, sucintamente, argumenta que demonstrou a violação aos dispositivos da Lei n.º 11.101/2005.
+Contraminuta às fls. 581/586 (e-STJ).
+É o relatório.
+Decido.
+1. O recurso não é admissível, por violação ao princípio da dialeticidade.
+Com efeito, a agravante limitou-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, sem, contudo, efetivamente demonstrar a inadequação dos óbices invocados.
+No caso dos autos, a insurgente deixou de impugnar a inexistência de negativa de prestação jurisdicional e a inadequação da aplicação do óbice sumular 07/STJ, isto porque, no agravo em recurso especial, ateve-se a atacar genericamente o juízo de admissibilidade recursal exercido pela Corte Estadual, aduzindo, tão-somente, que o disposto no art. 1.030 do NCPC "limita a competência do tribunal a quo à verificação dos pressupostos gerais e constitucionais do recurso especial, sendo-lhe vedado, por consequência, adentrar no mérito do citado recurso" (fl. 561, e-STJ).
+No entanto, repisa-se, não refutou a conclusão do tribunal de origem sobre a incidência da súmula 07 do STJ ao caso sob julgamento. Assim, a falta de ataque específico aos fundamentos da decisão agravada atrai, por analogia, o óbice contido no Enunciado n. 182, da Súmula do STJ, verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, nos moldes do entendimento firmado por este Tribunal Superior, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos da decisão de admissibilidade recursal, de maneira a demonstrar que o apelo extremo merece ser apreciado por esta Corte, o que não se vislumbra no recurso em questão.
+Este, a propósito, foi o entendimento adotado pela Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n.º 746.775/PR, no qual restou afirmado que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo por aplicação da Súmula 182 do STJ.
+Pois, conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008 - grifos nossos).
+2. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, não conheço do agravo em recurso especial.
+Publique-se.Intimem-se.
