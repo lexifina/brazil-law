@@ -1,0 +1,8 @@
+DECISÃO
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIÇO DE RADIODIFUSÃO. DESLIGAMENTO DE SINAL ANALÓGICO. SUPERVENIÊNCIA DO FUNCIONAMENTO DO SINAL DIGITAL COM A DESATIVAÇÃO DO ANTERIOR ANALÓGICO. PERDA DO OBJETO DA IMPETRAÇÃO. VERBAS SUCUMBENCIAIS ISENTAS POR SE TRATAR DE AÇÃO MANDAMENTAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO.
+1. Trata-se de Mandado de Segurança, com pedido de tutela liminar, impetrado pelo MUNICÍPIO DE MONTE APRAZÍVEL/SP contra ato omissivo do Presidente da Agência Nacional de Telecomunicações e do Ministro de Estado das Comunicações, consubstanciado na demora em elaborar o cronograma descrito no Decreto 5.820/2006 e no Decreto 8.061/2013, que visa ao desligamento do sinal analógico dos serviços de radiodifusão de sons e imagens (TV) e serviços de retransmissão de televisão (RTV).
+2. Tendo em vista que o sinal digital de Televisão já está em pleno funcionamento na região onde se localiza o Município impetrante, assinalou-se o prazo de 5 (cinco) dias para que a Municipalidade impetrante informasse se ainda persiste o interesse na impetração, justificando-o.
+3. Devidamente intimada, a parte impetrante deixou transcorrer in albis o prazo, consoante se verifica da certidão de fls. 534 dos autos.
+4. Ante o exposto, dada a implementação do sistema digital de televisão na região onde se localiza a Municipalidade impetrante, ocorreu a perda superveniente do objeto da impetração, que se destinava à realização de providências prévias até o final do funcionamento do sinal digital com a disponibilização de todos os canais de TV aberta, razão pela qual declaro a EXTINÇÃO DO PRESENTE MANDADO DE SEGURANÇA, SEM RESOLUÇÃO DO MÉRITO. Sem condenação em verba honorária, por se tratar de ação mandamental.
+5. Publique-se.
+6. Intimações necessárias.
