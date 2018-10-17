@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DPVAT. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça de Goiás que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a e c, da CF, desafiando acórdão assim ementado (e-STJ, fl. 137):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO. DPVAT. PRÉVIO REQUERIMENTO A D M I N I S T R A T I V O . N E C E S S I D A D E . R E C U R S O EXTRAORDINÁRIO Nº 631.240/MG COM REPERCUSSÃO GERAL. DESPROVIMENTO. 1 - O Supremo Tribunal Federal reconheceu no Recurso Extraordinário nº 631.240 a indispensabilidade do prévio requerimento administrativo para legitimar a propositura de ação de cobrança do seguro obrigatório decorrente de acidente de trânsito. 2 - Apresentação de cópia do prévio requerimento administrativo, apesar de imprescindível, e incapaz de caracterizar por si só lesão ou ameaça de direito, deve também demonstrar a respectiva negativa formal ou a demora na resposta da seguradora. 3 - Não se equipara à rejeição administrativa do pleito seu arquivamento por falha de instrução, não complementada pelo interessado, após regular chamamento. 4 - Agravo conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 156-167).
+Em suas razões de recurso especial (e-STJ, fls. 171-186), o recorrente alegou ofensa ao art. 5º da Lei n. 6.194/1974.
+Sustentou, em síntese, que a exigência documental feita pela Seguradora contraria a Lei Federal, uma vez que não há previsão de tal exigência como indispensável para a regulação do sinistro.
+Foram apresentadas contrarrazões (e-STJ, fls. 193-198).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência da aplicação da Súmula n. 284 do STF (e-STJ, fls. 171-186).
+Brevemente relatado, decido.
+O dispositivo legal apontado pelo recorrente - art. 5º da Lei n. 6.194/1974 - não foi enfrentado pelo acórdão impugnado, incidindo o óbice da Súmula n. 211/STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DEMARCATÓRIA. INICIAL INDEFERIDA. APELO RARO. VIOLAÇÃO DO ART. 335 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. OFENSA AOS ARTS. 130 E 402, AMBOS DO CPC/73. PRODUÇÃO DE PROVA ORAL E PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REFORMA DO JULGADO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Incide a Súmula nº 211 do STJ quando o dispositivo de lei invocado no apelo nobre (art. 335 do CPC/73) não foi debatido no acórdão recorrido, apesar de opostos embargos de declaração a fim de suscitar os temas neles contidos na instância a quo. Caberia à parte, nas razões do seu especial, alegar violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+3. A reforma do acórdão quanto à inexistência de cerceamento do direito de defesa em razão do indeferimento de prova oral e pericial demandaria, necessariamente, o revolvimento dos fatos da causa. Incidência da Súmula nº 7 do STJ.
+4. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA, DJe 30/6/2010.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 650.702/SC, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/8/2016, DJe 9/8/2016).
+Ressalte-se que o entendimento jurisprudencial desta Corte é de que têm-se como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
