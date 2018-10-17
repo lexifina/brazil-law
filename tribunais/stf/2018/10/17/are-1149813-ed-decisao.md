@@ -1,0 +1,30 @@
+EMBARGOS DE DECLARAÇÃO EM DECISÃO MONOCRÁTICA. DIREITO PROCESSUAL CIVIL. DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO PARA O SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. NÃO OCORRÊNCIA. CARÁTER MERAMENTE INFRINGENTE. APELO EXTREMO E DECLARATÓRIOS MANEJADOS SOB A VIGÊNCIA DO CPC/2015. EMBARGOS REJEITADOS.
+1. O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+2. Não se prestam os embargos de declaração, não obstante sua vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas na decisão embargada.
+3. Ausência de omissão, contradição e obscuridade justificadoras da oposição de embargos declaratórios, a teor do art. 1022 do CPC/2015, a evidenciar o caráter meramente infringente da insurgência.
+4. Majoração em 10% (dez por cento) dos honorários advocatícios anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+5. Embargos de declaração rejeitados.
+    Vistos etc.
+    Trata-se de embargos de declaração opostos de decisão monocrática da minha lavra, pela qual negado seguimento a agravo em recurso extraordinário, ao fundamento da ausência de ressonância constitucional da matéria que versa sobre o cabimento do recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional
+    O embargante aduz omisso o julgado, ao articular direta a ofensa a preceitos constitucionais. Requer a concessão de efeitos infringentes para apreciar o mérito do apelo extremo.
+     Destaco cuidar-se de recurso extraordinário aparelhado na afronta aos arts. 105, I, “f”, da Constituição Federal, interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    "AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO CONSTITUCIONAL - ALEGADO DESCUMPRIMENTO DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA - HIPÓTESE EM QUE O RECURSO ESPECIAL SEQUER FOI CONHECIDO - INEXISTÊNCIA DE COMANDO DESTA CORTE - INADMISSIBILIDADE DA MEDIDA CORREICIONAL. INSURGÊNCIA DO RECLAMANTE. 1. De acordo com a jurisprudência da Segunda Seção, o ajuizamento da reclamação que objetiva garantir a autoridade de decisão proferida por este Tribunal Superior, pressupõe a existência de um comando positivo desta Corte cuja eficácia deva ser assegurada, protegida e conservada, circunstância inexistente na hipótese dos autos. 2. Agravo interno desprovido."
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O artigo 1.022 do CPC/2015 admite embargos de declaração “contra qualquer decisão judicial”, autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando “opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes aclaratórios, independentemente do caráter infringente que ostentam.
+    Reputo inexistente vício a ensejar o acolhimento dos presentes embargos declaratórios.
+    De início, sobrelevo devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, consideradas, a teor do art. 489, IV, do CPC/2015, bem como da jurisprudência desta Corte, aquelas assertivas recursais capazes de, em tese, infirmar a conclusão adotada pelo julgador. Precedentes: AR 2374 AgR-ED, Tribunal Pleno, Relator Min. Teori Zavascki, DJe 15.9.2016 e ARE 919777 AgR-ED, Tribunal Pleno, Relator Min. Ricardo Lewandowski (Presidente), DJe 21.9.2016.
+    Realço inexistente a veiculada omissão na decisão embargada, haja vista expressamente registrado o entendimento de que a apreciação do pleito recursal – cabimento do recursos da competência de outros Tribunais – demanda a inarredável análise da legislação infraconstitucional aplicável à espécie, providência inviável nesta estreita via recursal, verbis:
+    “As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 105, I, “f”, da Constituição da República.”
+    Saliento não se ressentir do vício da omissão, ao feitio legal, o decisum no qual se assenta, de forma inequívoca, a inviabilidade do apelo extremo, haja vista não preenchido o requisito do art. 102, III, da Constituição Federal.
+    De mais a mais, enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, bem como aquelas tidas por omissas, afasta-se a tese veiculada nos embargos declaratórios de que omisso o decisum.
+    Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    Pontuo, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    Majoração em 10% (dez por cento) dos honorários advocatícios anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 17 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
