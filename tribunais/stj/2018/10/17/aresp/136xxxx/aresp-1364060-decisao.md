@@ -1,0 +1,35 @@
+DECISÃO
+1. Cuida-se de agravo interposto por UNIMED-RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Ação cominatória cumulada com indenização por danos morais e pedido de antecipação dos efeitos da tutela Plano de saúde Agravo retido Ampliação da tutela antecipatória que não se confunde com aditamento da inicial Recurso provido.
+Ação cominatória cumulada com indenização por danos morais e pedido de antecipação dos efeitos da tutela Plano de saúde Sentença de procedência parcial Insurgência da requerida Unimed Paulista Ilegitimidade de parte afastada - Requerida que faz parte do mesmo grupo econômico que a Unimed contratada pela autora Contrato de trato sucessivo Aplicação da Lei específica e Código de Defesa do Consumidor Norma principiológica Prevalência do princípio ao acesso à saúde Abusividade da negativa de cobertura Recurso não provido.
+Ação cominatória cumulada com indenização por danos morais e pedido de antecipação dos efeitos da tutela Plano de saúde Sentença de procedência parcial Insurgência da requerente Reiteração de agravo retido Acolhimento Pleito para autorização e custeio de todos os procedimentos necessários para a retirada do tumor na coluna, bem como da estabilização da mesma Ampliação de tutela e não aditamento da inicial Necessidade de cobertura Prevalência do princípio ao acesso à saúde Abusividade da negativa de cobertura Danos morais Caracterização Abalo psicológico da paciente em razão da injusta recusa de cobertura e ao custeio do tratamento da autora Fixação do valor da indenização em R$ 10.000,00 de acordo com os princípios da razoabilidade e proporcionalidade Sucumbência a cargo das requeridas Recurso provido.
+Nega-se provimento ao recurso da requerida e Dá-se provimento ao recurso da autora, acolhido o agravo retido.
+No recurso especial, a parte recorrente busca afastar a condenação ao pagamento de indenização por danos morais.
+Decido.
+2. O recorrente limitou-se a indicar precedentes paradigmas sem, contudo, indicar qual dispositivo legal teria recebido interpretação divergente.
+Todavia, o recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal, verbis:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito os seguintes precedentes desta Corte:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. NECESSIDADE DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL NO RECURSO ESPECIAL INTERPOSTO PELA ALÍNEA "C". SÚMULA 284/STF.
+(..)
+2. A jurisprudência desta Corte orienta-se no sentido de que, para ser apreciado o recurso especial interposto pela alínea "c" do art. 105 da Constituição Federal, cabe ao recorrente indicar o dispositivo de lei federal violado, pois o dissídio jurisprudencial baseia-se na interpretação divergente da norma federal. Aplica-se, por analogia, o disposto na Súmula 284 do Excelso Pretório diante da deficiência na fundamentação do recurso, na espécie, caraterizada pela ausência de indicação da norma federal tida por violada.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1099762/RJ, Rel. Min. Vasco Della Giustina (Desembargador Convocado do TJ/RS), Terceira Turma, julgado em 12.5.2009, DJe 25.5.2009.)
+"DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 458 E 535, I E II, DO CPC. NÃO-OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO DE LEI FEDERAL AO QUAL TERIA SIDO DADA INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. AUSÊNCIA. SÚMULA 284/STF. APLICAÇÃO. PARADIGMA PROLATADO EM SEDE DE RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. NÃO-CABIMENTO. PRECEDENTE DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+(..)
+2. A ausência de indicação do dispositivo de lei federal ao qual teria sido dada interpretação divergente daquela firmada por outro Tribunal importa em deficiência de fundamentação, nos termos da Súmula 284/STF.
+(..)
+4. Recurso especial conhecido em parte e, nessa extensão, improvido."
+(REsp 1019269/MS, Rel. Min. Arnaldo Esteves Lima, Quinta Turma, julgado em 23.4.2009, DJe 18.5.2009.)
+PROCESSUAL CIVIL - RECURSO ESPECIAL - REGISTRO SINDICAL - MATÉRIA CONSTITUCIONAL - IMPOSSIBILIDADE DE ANÁLISE PELO STJ - HIPÓTESE QUE IMPLICARIA EM USURPAÇÃO DE COMPETÊNCIA DO STF - AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO - NECESSIDADE MESMO EM RECURSO ESPECIAL POR DIVERGÊNCIA JURISPRUDENCIAL - INCIDÊNCIA DO VERBETE DA SÚMULA 284 DO STF.
+(..)
+2. Ainda que fosse competência desta Corte, melhor sorte não teria o recorrente, pois mesmo o recurso especial interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal necessita de indicação de dispositivo federal violado para a exata compreensão da controvérsia. Não sendo cumprido este requisito, não pode ser conhecido o recurso especial, pois não é possível ter a exata compreensão da controvérsia. Incidência do verbete da Súmula 284 do STF. Precedentes.
+Recurso especial não-conhecido.
+(REsp 211.905/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/10/2009, DJe 23/10/2009)
+Ademais, o recurso não comporta a análise de divergência jurisprudencial no que diz respeito à reavaliação dos danos morais, uma vez que se verifica a impossibilidade de, relativamente ao acórdão confrontado, estabelecer-se juízo de valor acerca da relevância e semelhança dos pressupostos fáticos inerentes a cada uma das situações retratadas nos acórdãos confrontados que acabaram por determinar a aplicação do direito à espécie.
+Cada caso reveste-se de peculiaridades que lhes são muito próprias, tais como circunstâncias em que o fato ocorreu, condições do ofensor e do ofendido, além do grau de repercussão do fato no âmbito moral da vítima. Dessa forma, os acórdãos sempre serão distintos quanto ao aspecto subjetivo, não obstante as semelhanças externas e objetivas.
+Por oportuno:
+"em se tratando de valor da indenização por danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos." (AgRg no Ag 1019589/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 06/05/2010, DJe 17/05/2010)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
