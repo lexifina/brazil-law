@@ -1,0 +1,37 @@
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. JULGAMENTO DO HABEAS CORPUS n. 441.967/DF. IDÊNTICOS PEDIDOS. PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO.
+DECISÃO
+Trata-se de recurso especial interposto por VANDERSON DIAS DOS SANTOS com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios.
+Consta dos autos que o eg. Tribunal de origem, em decisão unânime, deu provimento ao agravo em execução penal ali interposto pelo Ministério Público do Distrito Federal e dos Territórios, em v. acórdão assim ementado (fl. 41):
+"AGRAVO EM EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS E FIXAÇÃO DE NOVA DATA -BASE PARA CONCESSÃO DE BENEFÍCIOS. TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO. DECISÃO REFORMADA.
+1 Reeducando cujas penas foram unificadas com a superveniência de nova condenação. O Juízo da VEP estabeleceu o dia da última falta grave como termo inicial de contagem de prazo para concessão de benefícios futuros, ensejando a irresignação do órgão acusador. A hipótese exige solução diferente, consoante assentou a jurisprudência do STJ:
+havendo nova condenação no curso da execução, unificam-se as penas e fixa-se como data inicial o dia do trânsito em julgado da última condenação.
+2 Agravo provido."
+Nas razões do recurso especial, interposto com fulcro na alínea a, do permissivo constitucional, o recorrente sustenta a ocorrência de violação aos arts. 111, parágrafo único, e 118, inciso II, ambos da Lei n. 7.210/1984 (fls. 53-60). Para tanto, argumenta que:
+a) "O cerne da questão consiste em saber se a data inicial para deferimento de novos beneficios execucionais, em face da ocorrência de nova condenação por crime praticado antes da execução, ocorre com o trânsito em julgado da última condenação do réu ou no dia do primeiro recolhimento 15/6/2014" (fl. 55);
+b) "regulada pelo art. 111, parágrafo único, da LEP, o qual determina que devem ser somadas as penas para fins de fixação do regime cabível, aplicando-se as regras inscritas no art. 33, § 2º, do CP" (fl. 56);
+c) "o Superior Tribunal de Justiça tem entendimento no sentido de que, no caso da prática de falta grave no curso da execução, o prazo para progressão de regime é interrompido na data do fato e não na data da decisão posterior que reconhece a infração" (fl. 57);
+Apresentadas as contrarrazões (fls. 65-70), o recurso foi admitido na origem (fls. 72-73) e os autos ascenderam a este Superior Tribunal de Justiça.
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo desprovimento do recurso especial (fls. 85-88).
+É o relatório.
+Decido.
+O presente agravo encontra-se prejudicado.
+Isso porque, por ocasião do julgamento do HC n. 441.967/DF, de minha relatoria, concedi a ordem, de ofício, para examinar todas as teses aventadas nas razões do presente recurso especial.
+Transcrevo, no que importa ao caso, trechos do referido decisum:
+"Sobre a alteração da data-base para novos benefícios em face da unificação de penas, este Superior Tribunal de Justiça se posicionava no sentido de que a superveniência de nova condenação, no curso da execução da pena, determinava unificação das reprimendas e a fixação de nova data-base para a progressão de regime, excetuados os benefícios do livramento condicional, comutação e indulto, verbis:
+ ..
+Ocorre que a Terceira Seção desta Corte Superior de Justiça, em 22/2/2018, ao julgar o REsp n. 1.557.461/SC, Relator o Ministro Rogério Schietti Cruz, e o Habeas Corpus n. 381.248/MG, de relatoria da Ministra Maria Thereza de Assis Moura, com Relator para o acórdão o Ministro Sebastião Reis Júnior, sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+Confira-se a ementa do REsp n. 1.557.461/MG:
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido." (REsp 1557461/SC, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe 15/03/2018)
+Em tal contexto, decidiu-se que não há previsão legal expressa que permita a alteração da data-base para concessão de novas benesses quando da unificação de penas.
+Ressaltou-se que a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+Em conclusão, assentou-se ser indevida a alteração do termo a quo para a concessão de novos benefícios na execução da pena, pois a alteração da data-base não é consectário imediato do somatório das reprimendas impostas ao sentenciado.
+Desta forma, verifica-se que a decisão que modificou a data-base para novos benefícios da execução, em face da unificação de penas, estabelecendo como novo marco a data do trânsito em julgado da última sentença condenatória, está em confronto com a nova orientação jurisprudencial firmada pela Terceira Seção desta Corte Superior de Justiça e, portanto, configura constrangimento ilegal.
+Ante o exposto, não conheço do writ. Concedo a ordem, de ofício, para afastar a fixação da data do trânsito em julgado da última sentença penal condenatória como novo marco para a concessão de benefícios, como consequência da unificação das penas."
+Ante o exposto, nos termos do que preceitua o art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso especial.
+P. e I.
