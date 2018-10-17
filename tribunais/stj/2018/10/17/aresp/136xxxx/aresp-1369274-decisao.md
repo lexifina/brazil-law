@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AFERIÇÃO DA APLICABILIDADE DA SÚMULA Nº 106 DO STJ. IMPOSSIBILIDADE NA HIPÓTESE. SÚMULA Nº 7 DO STJ. EXECUÇÃO FISCAL. INÉRCIA DA EXEQUENTE. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. SÚMULA Nº 83 DO STJ C/C A SÚMULA Nº 314 DO STJ. PRECEDENTE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo manejado pelo MUNICÍPIO DE CURITIBA em face de decisão que negou admissibilidade ao recurso especial em razão da incidência da Súmula nº 7 do STJ, eis que a análise da pretensão recursal demandaria reexame de matéria fático-probatória.
+O agravante insurge-se contra a decisão agravada alegando, em síntese, que discute a aplicação da Súmula nº 106 do STJ, que afastaria o reconhecimento da prescrição intercorrente na hipótese, cuja aferição não demandaria reexame de matéria fático probatória a atrair o óbice da Súmula nº 7 desta Corte.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+Sem contrarrazões.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A irresignação não merece conhecimento.
+É que esta Corte já se manifestou no sentido da impossibilidade de análise, em sede de recurso especial, da responsabilidade pela demora no andamento do feito executivo, nos termos da Súmula nº 106 do STJ, quando tal premissa já foi definida pelo acórdão recorrido, tendo em vista que análise demandaria reexame de matéria fático-probatória a atrair o óbice da Súmula nº 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NÃO CONHECIDO. INDISPONIBILIDADE DO SISTEMA ELETRÔNICO. JUSTA CAUSA ACOLHIDA. EXECUÇÃO FISCAL. PRESCRIÇÃO. AUSÊNCIA DE CITAÇÃO. AFASTAMENTO NA ORIGEM DA SÚMULA 106/STJ. EFEITO RETROATIVO. INAPLICABILIDADE. REVISÃO DE PREMISSA FÁTICA. SÚMULA 7/STJ.
+1. Revela-se justa causa apta a afastar o juízo negativo de admissibilidade do recurso anterior a comprovada indisponibilidade do sistema eletrônico desta Corte no último dia do prazo recursal por tempo superior ao disciplinado no art. 7º da Resolução STJ n. 14/2013.
+2. Para as Turmas de Direito Público do Superior Tribunal de Justiça, nos casos em que a demora na citação é imputada ao exequente, descabe a retroatividade da interrupção da prescrição à data da propositura da ação fiscal.
+3. A análise da incidência da Súmula 106/STJ, afastada pelo acórdão impugnado, esbarra na impossibilidade de incursão na seara probatória dos autos, conforme dispõe a Súmula 7/STJ.
+4. Embargos de declaração acolhidos para conhecer do agravo regimental e negar-lhe provimento. (EDcl no AgRg no AREsp 434000/BA, Rel. Ministro Og Fernandes, Segunda Turma, DJe 02/04/2014) (grifei)
+Por outro lado, o entendimento firmado no acórdão recorrido está de acordo com a pacífica jurisprudência do STJ sintetizada na sua Súmula 314: "Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição qüinqüenal intercorrente". É que a falta de impulso oficial do processo, por si só, não exime a responsabilidade da exequente pela condução do feito executivo, mormente quando o transcurso de prazo superior a cinco anos ocorre após a citação" (AgRg no REsp 1.166.428/PE, Rel. Min. CASTRO MEIRA, Segunda Turma, DJe 25/9/12).
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. EXECUÇÃO FISCAL. INÉRCIA DA EXEQUENTE. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
+1. A parte sustenta que o art. 535 do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. De acordo com o entendimento do Superior Tribunal de Justiça, com o advento da Lei 11.051/04, que acrescentou o § 4º ao art. 40 da Lei 6.830/80, tornou-se possível a decretação ex officio da prescrição quinquenal intercorrente pelo juiz, após ouvido o representante da Fazenda Pública. Dispensável, todavia, a intimação do credor da suspensão da execução por ele mesmo solicitada, bem como do arquivamento do feito executivo, decorrência automática do transcurso do prazo de um ano de suspensão e termo inicial da prescrição.
+3. O entendimento firmado no acórdão recorrido, assim, está de acordo com a pacífica jurisprudência do STJ, sintetizada na sua Súmula 314: "Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição qüinqüenal intercorrente".
+4. "A falta de impulso oficial do processo, por si só, não exime a responsabilidade da exequente pela condução do feito executivo, mormente quando o transcurso de prazo superior a cinco anos ocorre após a citação" (AgRg no REsp 1.166.428/PE, Rel. Min. CASTRO MEIRA, Segunda Turma, DJe 25/9/12).
+5. Recurso Especial parcialmente conhecido e nessa parte não provido. (REsp 1.683.398/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2017)
+Incidência da Súmula nº 83 do STJ, aplicável, inclusive, aos recursos especiais interpostos com base na alínea "a" do permissivo constitucional.
+ Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
