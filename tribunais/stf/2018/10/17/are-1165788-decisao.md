@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Eis a síntese do acórdão recorrido:
+    APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – PRELIMINAR DE CERCEAMENTO DE DEFESA – PROVA DE DIREITO E DOCUMENTAL – DESNECESSIDADE DE OUTRAS PROVAS – REJEITADA – CÉDULA DE PRODUTO RURAL – REQUISITOS PREENCHIDOS PARA O AJUIZAMENTO DE EXECUÇÃO PARA ENTREGA DE COISA INCERTA – PRESCINDE DE LIQUIDAÇÃO FINANCEIRA – ARTIGO 4º-A DA LEI 8.829/94 – AFASTAMENTO DA MORA – TEORIA DA IMPREVISÃO – NÃO APLICÁVEL – INADIMPLEMENTO DA OBRIGAÇÃO IMPLICA A CARACTERIZAÇÃO DA MORA – SENTENÇA MANTIDA – RECURSO CONHECIDO E IMPROVIDO.
+    Verificado pelo juiz da causa a prescindibilidade da realização de prova testemunhal e pericial, por versar sobre matéria exclusivamente de direito ou dependente de prova documental, e existindo no bojo do processo elementos suficientes à prestação da tutela jurisdicional, é seu dever julgar antecipadamente a lide, não havendo falar em nulidade de sentença por cerceamento de defesa.
+    A Cédula de Produto Rural - CPR, representativa de promessa de entrega de produtos rurais, emitida por produtor rural e suas associações, inclusive cooperativas, constitui título executivo, nos termos do art. 4º, da Lei n. 8929, de 22.8.94, servindo de base à propositura da ação de execução para entrega de coisa incerta, para a qual é desnecessária a liquidação financeira, exigível apenas para o ajuizamento de execução por quantia certa.
+    A ocorrência de intempéries climáticas e a oscilação do preço de mercado de um produto com frustração da safra agrícola não se caracterizam como fatos extraordinários e imprevisíveis a abalizar a aplicação da teoria da imprevisão ao contrato de compra e venda firmado.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 17 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
