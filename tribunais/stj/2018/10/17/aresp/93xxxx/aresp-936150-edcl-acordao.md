@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por OK Imóveis Ltda. contra acórdão, assim ementado (fl. 2.333):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE OBRIGAÇÃO DE FAZER C/C LIQUIDAÇÃO POR ARTIGOS. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REMOÇÃO DE CONSTRUÇÕES IRREGULARES DE MORADIA E URBANIZAÇÃO DE ÁREA. ATRASOS JUSTIFICADOS E AUTORIZADOS PELO PODER JUDICIÁRIO. ACORDO FIRMADO ENTRE AS PARTES DEVIDAMENTE CUMPRIDO. REVISÃO. IMPOSSIBILIDADE. ÓBICES DAS SÚMULAS 5 E 7/STJ.
+1. Não há violação do artigo 535 do CPC/1973 quando o acórdão recorrido manifesta-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, inclusive sobre a qual se alega omissão.
+2. A Corte de origem, após ampla análise do conjunto fático-probatório e das cláusulas constantes no acordo pactuado entre as partes, firmou compreensão de que o atraso no cumprimento da obrigação por parte do Município se deu de forma justificada, sobretudo em razão das dificuldades inerentes à complexidade da situação (retirada de inúmeras famílias invasoras e urbanização da respectiva área) e das diversas prorrogações de prazo deferidas pelo Poder Judiciário para a conclusão final dos serviços previstos na decisão executada (as quais sequer foram objeto de impugnação pelo ora recorrente). Concluiu, portanto, que a transação foi devidamente cumprida, "vez que o município réu cumpriu o compromisso de retirar das ruas as famílias invasoras, bem como de urbanizar a área, inexistindo qualquer indenização a ser ressarcida em favor da empresa autora que renunciou explicitamente este direito" (fls.
+1.838). A revisão de tal entendimento esbarra nos óbices das Súmulas 5 e 7/STJ.
+3. Agravo interno não provido.
+O embargante sustenta que o acórdão atacado incorre em contradição, na medida em que transcreve os trechos do julgado de origem em que expostos os fatos suficientes e necessários à compreensão da controvérsia, mas, ao mesmo tempo, conclui que o provimento do recurso esbarra nos óbices das Súmulas 5 e 7 do STJ. A esse respeito, defende que, "em nenhum momento o presente apelo busca sejam reexaminados os fatos e provas produzidos nos autos, mas apenas que seja conferida nova e correta valoração jurídica exatamente àqueles fatos que estão estampados no acórdão do TJPE e cuja literalidade fora transcrita no aresto ora embargado" (fls. 2.345).
+Aponta, ainda, omissão em relação a alegação de que o Tribunal de origem teria deixado de se manifestar em relação à ausência de ofensa à coisa julgada (violação dos artigos 467, 468, 471, 473, I e II, e 474 do CPC/73).
+Por fim, pugna pelo prequestionamento dos artigos 5º, XXXVI e 93, IX, da CF, que dão garantia à coisa julgada e à devida prestação jurisdicional legitimadoras do direito da embargante.
+Com impugnação (fls. 2.359/2.363).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado, ao decidir a controvérsia, assentou que não há violação do artigo 535 do CPC, porquanto o acórdão de origem afastou as alegações de ofensa a coisa julgada, registrando que as prorrogações de prazo concedidas pelo Judiciário não caracterizam descumprimento do acordo firmado entre as partes, no bojo da ação condenatória transitada em julgado.
+Consignou, também, que a pretensão esbarra nos nos óbices das Súmulas 5 e 7/STJ, tendo em vista que a Corte de origem, após ampla análise do conjunto fático-probatório e das cláusulas constantes no acordo pactuado entre as partes, firmou compreensão de que: i) o atraso no cumprimento da obrigação por parte do Município se deu de forma justificada, sobretudo em razão das dificuldades inerentes à complexidade da situação (retirada de inúmeras famílias invasoras e urbanização da respectiva área) e das diversas prorrogações de prazo deferidas pelo Poder Judiciário para a conclusão final dos serviços previstos na decisão executada (as quais sequer foram objeto de impugnação pelo ora recorrente); ii) a transação foi devidamente cumprida, "vez que o município réu cumpriu o compromisso de retirar das ruas as famílias invasoras, bem como de urbanizar a área, inexistindo qualquer indenização a ser ressarcida em favor da empresa autora que renunciou explicitamente este direito" (fls. 1.838).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material, tampouco ofensa aos artigos 5º, XXXVI e 93, IX, da CF, a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
