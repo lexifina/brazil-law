@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. ILEGITIMIDADE DA AUTORA. NÃO COMPROVADA. ÔNUS DA AGRAVANTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Brasil Telecom S.A. (atual Oi S.A. - em recuperação judicial), com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 139):
+Apelação cível. Ação de adimplemento contratual. Complementação de ações emitidas mediante contrato de participação financeira celebrado para a aquisição de linha telefônica. Pleito indenizatório sucessivo. Procedência.
+Insurgência da Brasil Telecom S/A.
+Ilegitimidade ativa. Alegada inexistência de direito à emissão acionária em razão de ajuste pactuado na modalidade de habilitação. Procedimento realizado após 30.06.1997. Circunstâncias não comprovadas. Ônus da requerida. Artigo 333, inciso II, do Código de Processo Civil. Prefacial rejeitada.
+Suscitada prescrição trienal (art. 287, II, "g", da Lei n. 6.404/1976). Não ocorrência. Relação jurídica de natureza obrigacional. Aplicabilidade, no caso, dos prazos prescricionais vintenário e decenal previstos, respectivamente, no artigo 177 do CC/1916 e no artigo 205 do CC/2002, observada a regra de transição do artigo 2.028 do Código Civil vigente. Ausência de violação ao princípio da isonomia. Contagem do prazo da data da capitalização a menor. Lapso, no caso, não escoado. Prejudicial rejeitada.
+Mérito. Valor Patrimonial das Ações (VPA). Cálculo conforme o balancete do mês em que houve o desembolso ou, no caso de pagamento parcelado, do mês referente ao adimplemento da primeira prestação. Súmula 371 do Superior Tribunal de Justiça. Perdas e danos. Indenização consoante a cotação das ações na Bolsa de Valores da data do trânsito em julgado. Apontada litigância de má-fé da demandante. Situação não verificada. Pedido rejeitado. Honorários advocatícios. Fixação em 15% sobre o valor a ser apurado na fase de cumprimento de sentença. Artigo 20, § 3º, do Código de Processo Civil. Precedentes desta Corte.
+Recurso provido em parte.
+Prequestionamento. Desnecessidade de pronunciamento sobre todos os dispositivos legais apontados.
+Nas razões do recurso especial, a recorrente alegou violação do art. 333 do CPC/1973, sustentando que: a) a agravada é parte ilegítima para pleitear a subscrição de ações, tendo em vista que o contrato firmado é de habilitação de linha telefônica, sem participação financeira; e b) caberia à autora provar que o contrato era de participação financeira, e não à ré comprovar que o contrato era de habilitação.
+Contra-arrazoado (e-STJ, fls. 184-188), o recurso não foi admitido (e-STJ, fls. 201-203), ensejando a interposição do presente agravo, ao qual não foi oferecida resposta (e-STJ, fl. 234).
+Brevemente relatado, decido.
+Consta da sentença que a agravante, embora tenha sido intimada, não juntou o contrato firmado entre as partes. Além disso, na contestação concordou tratar-se de contrato de participação financeira, afirmando, inclusive, que na sua execução seguiu as regras emitidas pelo Ministério de Infraestrutura relativas aos contratos de participação financeira (e-STJ, fl. 82).
+Embora a questão não tenha sido especificamente discutida nos autos, especialmente porque ficou incontroversa, infere-se que a instância ordinária entendeu que foi provado que o contrato firmado entre as partes era sim de participação financeira.
+Portanto, se, em apelação, a agravante, mudando o rumo dos fatos, alega que o contrato entre as partes não é mais de participação financeira, e sim de habilitação de linha telefônica, no intuito de arguir a ilegitimidade da autora, é irretocável o entendimento do Tribunal de Justiça de que o ônus de provar é da agravante, ou seja, de quem alega (art. 333, II, do CPC).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em R$ 500,00 (quinhentos reais).
+Publique-se.
