@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] e LUCAS LIMA VEIGA contra decisão que inadmitiu recurso especial manifestado, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que os agravantes foram condenados às penas de 5 anos e 8 meses de reclusão, em regime semiaberto, e de 10 dias-multa, por roubo majorado pelo uso de arma de fogo e pelo concurso de pessoas.
+A defesa apelou dessa decisão, e o Tribunal local, por unanimidade de votos, negou provimento ao recurso (e-STJ fls. 716/758).
+Daí o recurso especial, no qual a defesa apontou violação do art. 157, § 2º, do Código Penal, alegando, em síntese, que "a fixação da pena acima do mínimo de um terço ante a incidência de majorantes, quiçá no montante de 5/12, deve ser sempre bem fundamentada e a análise deve ser qualitativa em vez de quantitativa, sob pena de se admitir a aplicação da pena objetivamente, sem individualização" (e-STJ fl. 768).
+E reforçou a alegação asserindo que "a mera existência de uma causa de aumento de pena não justifica, por si só, o afastamento do mínimo previsto na Lei, e com muito mais razão não se justifica exasperar a pena em 5/12 tão somente por existirem duas majorantes, especialmente diante da fragilidade da fundamentação assentada, que, diga-se, não apresenta higidez e idoneidade apta a fundamentar o agravamento das reprimendas. A fundamentação reside nos próprios fundamentos do tipo penal reconhecido, não excedendo ao ordinário para justificar tamanho majoração aplicada" (e-STJ fls. 768/769).
+Contrarrazões às e-STJ fls. 788/797.
+Inadmitido pelo Tribunal de origem, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ fls. 847/851).
+É, em síntese, o relatório. Decido.
+O Tribunal local, por unanimidade de votos, manteve o patamar de aumento da pena, na terceira fase de sua individualização, em 5/12 porque "o delito foi praticado por pelo menos três agentes, segundo evidenciado pela narrativa das vítimas, que fizeram uso ostensivo de duas armas de fogo, externando, assim, contornos mais gravosos da conduta" (e-STJ fl. 756).
+Como se vê do trecho transcrito do acórdão impugnado, o aumento da sanção em 5/12 foi concretamente justificado pelas circunstâncias do delito - relevante número de agentes e de armas de fogo usadas ostensivamente -, que exteriorizaram contornos mais gravosos da conduta criminosa, indo, assim, ao encontro do que dispõe o enunciado da Súmula n. 443/STJ:
+O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+A propósito, confiram-se:
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PRESENÇA DE DUAS MAJORANTES. UMA UTILIZADA NA PRIMEIRA FASE DA DOSIMETRIA E A OUTRA NA TERCEIRA FASE. AUSÊNCIA DE ILEGALIDADE. EXASPERAÇÃO DA PENA NA TERCEIRA FASE. ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. REGIME INICIAL FECHADO. PENA SUPERIOR A 4 ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. ADEQUAÇÃO. ORDEM DENEGADA.
+ ..
+3. Em se tratando de roubo circunstanciado, a majoração da pena na terceira fase da dosimetria acima do mínimo legal requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um acréscimo mais expressivo, o que se verifica no caso em apreço (durante toda a ação delitiva o apelante e seus comparsas mantiveram as vítimas de bruços para o chão, apontando as armas contra estas).
+ ..
+5. Ordem denegada. (HC 401.515/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/08/2017, DJe 24/08/2017, grifei)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO NA VIA ELEITA. ROUBO MAJORADOS. PENAS-BASE ACIMA DO MÍNIMO LEGAL. AÇÕES PENAIS EM CURSO. PERSONALIDADE. IMPOSSIBILIDADE. SÚMULA 444/STJ. COMPENSAÇÃO ENTRE A AGRAVANTE DA REINCIDÊNCIA E ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. MATÉRIA PACIFICADA NO ERESP N. 1.154.752/RS. PLEITO DE INCIDÊNCIA DA SÚMULA N. 443/STJ. NÃO APLICAÇÃO. FRAÇÃO DEVIDAMENTE MOTIVADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. Nos termos do disposto no enunciado n. 443 da Súmula desta Corte, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+6. Na hipótese, o aumento da pena em fração superior ao mínimo, em razão da incidência de duas majorantes, decorreu de peculiaridades concretas do crime. No caso, a conduta perpetrada por dois agentes com uso de arma de fogo, contra quatro vítimas em um posto de gasolina, expondo a maior risco a vida de diversas pessoas, denota a necessidade de maior resposta penal, não havendo ilegalidade na fixação das majorantes na fração de 3/8, não se aplicando ao caso o enunciado n. 443 da Súmula deste Tribunal.
+7. Habeas Corpus não conhecido. Contudo, ordem concedida, de ofício, para redimensionar a pena do paciente. (HC 407.805/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017, grifei)
+Dessa forma, ao contrário do asseverado pelo recorrente, houve sim fundamentação concreta para o fim de justificar a fixação da causa de aumento em 5/12, devendo o acórdão impugnado ser mantido intacto.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
