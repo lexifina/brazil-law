@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Paraná, assim ementado:
+Agravo interno. Artigo 557, § 1º, CPC. Decisão monocrática que nega seguimento ao agravo de instrumento. Cláusula de eleição de foro. Exceção de incompetência. Cautelar. Preclusão. lnocorrência. Precedentes STJ. Pretensão recursal que vai de encontro à jurisprudência dominante. "O autor da ação cautelar preparatória, ao ajuizá-la, deve, abstratamente, perscrutar, a partir dos elementos da futura ação principal, em que foro esta deverá ser proposta. Vê-se, desde logo, que a definição da competência para conhecer da ação cautelar preparatória é, inequivocamente, precária, já que, somente com a concretização da ação principal, em face da efetiva exposição dos elementos da ação, é que se terá a melhor definição da competência." (STJ, EDcI no REsp 1072911/SC, Rel. Ministro MASSAMI UYEDA, DJe 01/06/2009). Recurso não provido.
+Embargos de declaração rejeitados.
+No recurso especial a parte recorrente alega violação dos arts. 557, § 1º, e 100, IV, "d", do Código de Processo Civil de 1973, porque "inexistente o posicionamento jurisprudencial dominante nos Tribunais Superiores de modo a possibilitar o julgamento monocrático, e porque é plenamente viável a nulidade da cláusula de eleição de foro estipulada no contrato" (fl. 457).
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 557 do Código de Processo Civil de 1973, tendo em vista que o relator está autorizado a decidir singularmente recurso com fundamento em jurisprudência dominante de Corte Superior, sendo que "eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado competente, em sede de agravo interno." (AgInt no AREsp 1210307/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/09/2018, DJe 25/09/2018).
+No tocante à cláusula de eleição de foro a jurisprudência "da Segunda Seção deste Superior Tribunal de Justiça encontra-se pacificada no sentido de ser válida a cláusula de eleição de foro, a qual somente pode ser afastada quando reputada ilícita em razão de especial dificuldade de acesso à justiça ou no caso de hipossuficiência da parte. Precedentes."(EDcl no AgRg no REsp 878.757/BA, Rei. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/09/2015, DJe 01/10/2015).
+Na hipótese, o col. Tribunal de origem, ao analisar a questão fática dos autos concluiu que o protesto levado a efeito em local diverso do eleito pelas partes não configura renúncia tácita da cláusula de eleição de foro, pois mesmo sendo de natureza relativa, deve prevalecer o foro de eleição previsto contratualmente, ainda que protestado título de crédito afeto ao contrato em localidade diversa da eleita. (fls. 391/399)
+Nesse contexto, o acórdão recorrido decidiu em harmonia com a jurisprudência do STJ no sentido de que "o protesto levado a efeito em local diverso do eleito pelas partes não configura renúncia tácita da cláusula de eleição de foro, uma vez que por se tratar de competência territorial, portanto de natureza relativa, deve prevalecer o foro de eleição previsto contratualmente, ainda que protestado título de crédito afeto ao contrato em localidade diversa da eleita. (AgInt no AREsp 960.900/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. FORO DE ELEIÇÃO. PROTESTO EM CIDADE DIVERSA. INEXISTÊNCIA DE RENÚNCIA TÁCITA. VALIDADE DA CLÁUSULA CONTRATUAL. RECURSO ESPECIAL PROVIDO. INOVAÇÃO RECURSAL.
+AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior entende que é competente o foro de eleição contratual para a propositura de qualquer ação dele decorrente, mesmo quando protestado título de crédito atinente a esse contrato em localidade diversa da eleita. Precedentes 2. Fica inviabilizado o conhecimento de tema trazido somente na petição de agravo interno, não debatido pelas instâncias ordinárias, tampouco alegado em sede de contrarrazões ao recurso especial, por se tratar de indevida inovação recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1253278/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/04/2017, DJe 04/05/2017)
+RECURSO ESPECIAL. PROCESSO CIVIL. EXCEÇÃO DE INCOMPETÊNCIA. EXECUÇÃO DE DUPLICATA PROTESTADA. FORO DO LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO.
+ART. 100, IV, "D", DO CPC E ART. 17 DA LEI N. 5.474/68. PROTESTO.
+NÃO ALTERAÇÃO DA PRAÇA DE PAGAMENTO.
+1. Nos termos do art. 17 da Lei n. 5.474/1968, c/c o art. 100, IV, "d", do CPC, é competente o foro do local da obrigação para a cobrança judicial da duplicata.
+2. O protesto do título não altera o foro para a propositura da ação de execução da duplicata.
+3. Recurso especial provido.
+(REsp 1306980/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 21/05/2015, DJe 26/05/2015)
+Ademais, a alteração das premissas fáticas adotadas no acórdão recorrido demandaria o reexame das provas produzidas nos autos, o que é vedado em sede de recurso especial, pelas Súmulas 5 e 7 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
