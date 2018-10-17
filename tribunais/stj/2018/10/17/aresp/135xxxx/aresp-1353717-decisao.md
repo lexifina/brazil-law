@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. ATROPELAMENTO. 1. ALTERAÇÃO DO VALOR DA INDENIZAÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. 2. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA EM RAZÃO DA APLICAÇÃO DO ENUNCIADO DA SÚMULA N. 7/STJ. 3. TERMO INICIAL DE INCIDÊNCIA DOS JUROS DE MORA. SÚMULA 54/STJ. EVENTO DANOSO, POR SE TRATAR DE ILÍCITO EXTRACONTRATUAL. JULGADO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 4. AGRAVO CONHECIDO PARA CONHECIMENTO PARCIAL DO RECURSO ESPECIAL, E NESSA PARTE, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por Viação Itapemirim S.A. - em recuperação judicial - contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que as agravadas ajuizaram ação indenizatória, julgada procedente.
+Interpostas apelações pelas partes, a Trigésima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo negou provimento aos recursos, em acórdão assim ementado (e-STJ, fl. 229):
+ACIDENTE DE TRÂNSITO - ATROPELAMENTO POR ÔNIBUS - RÉ CONCESSIONÁRIA/PERMISSIONÁRIA DE SERVIÇO PÚBLICO DE TRANSPORTE DE PASSAGEIROS APLICAÇÃO DO ARTIGO 37, § 6º, DA CF RESPONSABILIDADE OBJETIVA PELOS DANOS OCASIONADOS A TERCEIROS DURANTE A PRESTAÇÃO DOS SERVIÇOS RECONHECIMENTO DANO MORAL CARACTERIZADO VALOR FIXADO EM QUANTIA PROPORCIONAL AO ABALO SOFRIDO REDUÇÃO OU MAJORAÇÃO IMPOSSIBILIDADE HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR DA CONDENAÇÃO REMUNERAÇÃO ADEQUADA DIANTE DOS CRITÉRIOS DO ART. 20, § 3º, DO CPC/1973 SENTENÇA MANTIDA RECURSOS IMPROVIDOS
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea c do permissivo constitucional, a recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 407 e 944 do Código Civil.
+Sustentou, em síntese, que o valor da condenação por danos morais se mostra abusivo e desproporcional, além do que os juros moratórios só podem incidir a contar da data do arbitramento da obrigação.
+Contrarrazões às fls. 373-382 (e-STJ), com pedido de majoração da verba sucumbencial, com fulcro no art. 85, § 11, do CPC/2015.
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta às fls. 440-443 (e-STJ).
+Em parecer, o Ministério Público opinou pelo desprovimento do agravo em recurso especial.
+Brevemente relatado, decido.
+Inicialmente, cabe observar que o quantum compensatório arbitrado a título de danos morais pelas instâncias de origem só pode ser reexaminado neste Superior Tribunal quando se revelar manifestamente irrisório ou exorbitante.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO NO RECURSO ESPECIAL . TRANSPORTE AÉREO. INDENIZAÇÃO POR DANO MORAL. OVERBOOKING. EXTRAVIO DE BAGAGENS. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO. SUCUMBÊNCIA. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. DANO MORAL. EXISTÊNCIA. QUANTUM INDENIZATÓRIO. REDUÇÃO. IMPOSSIBILIDADE. SUMULA N. 7/STJ.
+1. Inexiste violação do art. 535 do CPC quando o acórdão impugnado examina e decide, de forma motivada e suficiente, as questões relevantes para o desate da lide.
+2. A responsabilidade civil das companhias aéreas em decorrência da má prestação de serviços, após a entrada em vigor da Lei n.
+8.078/90, não é mais regulada pela Convenção de Varsóvia e suas posteriores modificações (Convenção de Haia e Convenção de Montreal) ou pelo Código Brasileiro de Aeronáutica, subordinando-se, portanto, ao Código de Defesa do Consumidor.
+3. A revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 409.045/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 26/05/2015, DJe 29/05/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXTRAVIO DE BAGAGEM. INEXISTÊNCIA DE ELEMENTOS QUE CARACTERIZEM EXCLUDENTE DE RESPONSABILIDADE. REVERSÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DANO MORAL. VALOR ARBITRADO. RAZOABILIDADE. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência firmada nesta Corte, a responsabilidade civil das companhias aéreas em decorrência da má prestação de serviços, inclusive nos casos de extravio de bagagens, cancelamento e de atrasos em voos internacionais, após a entrada em vigor da Lei 8.078/90, não é mais regulada pela Convenção de Montreal, subordinando-se, portanto, ao Código Consumerista.
+2. O Tribunal local, ao apreciar as provas produzidas nos autos, foi categórico em reconhecer os requisitos ensejadores da obrigação de indenizar o dano moral e o dano material ocorrido em decorrência de extravio de bagagem. Nessas circunstâncias, afigura-se inviável rever o substrato fático-probatório diante do óbice da Súmula 7/STJ.
+3. O Superior Tribunal de Justiça firmou orientação de que é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que não ficou caracterizado no caso em tela, em que o valor de R$ 12.000,00 afigura-se razoável ao dano causado.
+4. Agravo regimental não provido.
+(AgRg no AREsp 531.529/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 18/06/2015)
+No presente caso, o Tribunal de Justiça, corroborando a sentença, fixou os valores a serem ressarcidos, a cada um dos autores da ação principal, dentro do limite de suas peculiaridades, na proporção do dano causado.
+Confira-se excerto do acórdão recorrido (e-STJ, fl. 232):
+O valor fixado em sentença (R$ 300.000,00, sendo R$ 160.000,00 para a esposa e R$ 140.000,00 para a filha), sopesadas as circunstâncias fáticas, e já levada em consideração a condição econômica da ré, situa-se em patamar justo e razoável frente ao abalo sofrido pelas autoras, encontrando-se em perfeita sintonia com a jurisprudência dominante para casos dessa natureza, traduzindo compensação pelos dissabores experimentados sem, contudo, enriquecê-las, nada justificando a redução ou majoração pretendida pelas partes.
+Dessa maneira, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Outrossim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+No tocante ao termo a quo dos juros de mora, a Corte de origem manteve a fixação a partir da data do ato ilícito.
+Essa conclusão não destoa da orientação deste Tribunal Superior, porquanto, nesse tipo de ilícito, os juros de mora fluem a partir do ato ensejador do dano, nos termos da Sumula n. 54/STJ. Portanto, o acórdão está em sintonia com a jurisprudência desta Corte, atraindo a aplicação da Súmula 83/STJ por ambas as alíneas do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. USO INDEVIDO DE IMAGEM. REPORTAGEM JORNALÍSTICA. CONDUTA ILÍCITA. DEVER DE INDENIZAR. REVISÃO. SÚMULA 7/STJ. ART. 535. AUSÊNCIA DE OMISSÃO. REDUÇÃO DO QUANTUM INDENIZATÓRIO. VALOR RAZOÁVEL. CORREÇÃO MONETÁRIA. SÚMULA 362/STJ. JUROS DE MORA. SÚMULA 54/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há que se falar em violação do art. 535, do Código de Processo Civil, pois o tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. A revisão das premissas firmadas pela Corte de origem, acerca da presença da conduta ilícita a gerar o dever de indenizar, demandaria revisão dos fatos discutidos na lide, o que é defeso nesta fase recursal. Incidência da Súmula 7/STJ e impede o conhecimento do recurso por ambas alíneas.
+3. O valor fixado pelo Tribunal de origem em R$ 30.000,00 (trinta mil reais), não se revela excessivo, considerando-se os parâmetros adotados por este Tribunal Superior.
+4. Em se tratando de indenização por dano moral, o termo inicial da correção monetária incide a partir do seu arbitramento. (Súmula n. 362/STJ) e os juros de mora a partir do evento danoso (Súmula 54/STJ).
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 460.774/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/04/2014, DJe 23/04/2014)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. DANO MORAL, MATERIAL E ESTÉTICO. PROCEDÊNCIA. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA Nº 54 DO STJ. PRECEDENTES. INCIDÊNCIA DA MULTA PREVISTA NO ART. 1.021, § 4º DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O termo inicial de juros de mora nos casos de indenização por danos morais por responsabilidade extracontratual é o evento danoso, conforme Súmula nº 54/STJ, segundo a qual os juros moratórios fluem a partir do evento danoso em caso de responsabilidade extracontratual. Precedentes.
+3. Estando o acórdão recorrido em dissonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente, e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+4. Em virtude do não conhecimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, aplica-se ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1.735.493/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/08/2018, DJe 31/08/2018)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
