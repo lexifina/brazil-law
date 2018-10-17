@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO DO BRASIL S/A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+APELAÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, COM PLEITOS CUMULADOS DE DEVOLUÇÃO DUPLICADA DE VALORES E CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS SENTENÇA DE IMPROCEDÊNCIA.
+1 Código de Defesa do Consumidor Aplicabilidade ao caso concreto, pois caracterizada relação de consumo Instituições financeiras que se submetem às disposições do Código consumerista, na esteira do entendimento sumulado do C. Superior Tribunal de Justiça (verbete 297).
+2 Quitação do mútuo Cuidando-se de empréstimo consignado, com o falecimento do consignante, o débito é extinto, nos termos do que determina o art. 16 da Lei 1.046/50 Recentes pronunciamentos deste E. Tribunal de Justiça.
+3 Danos morais Caracterização Autora octogenária, que havia recentemente perdido o marido, é cobrada indevidamente e paga por dívida já extinta Situação retratada que não pode ser reputada mero inadimplemento contratual, sem desdobramentos outros Precedentes desta C. Corte de Justiça, também envolvendo cobrança relativa a mútuo com consignação em folha, após o falecimento do consignante Indenização fixada, considerando-se os fins a que se destina e as características do caso concreto em R$ 12.000,00 (doze mil reais).
+4 Devolução de valores Aplicação do disposto no art. 42, parágrafo único, do CDC Má-fé da casa bancária evidenciada Mútuo extinto com o falecimento do esposo da autora e confessada cobrança, efetuada por um de seus gerentes, diretamente à octogenária demandante Precedente deste E. Tribunal de Justiça, também relativo à cobrança indevida, após falecimento do consignante.
+RECURSO PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 186, 188, 877, 927 e 944 do CC. Afirma que a cobrança efetuada é exercício regular de um direito e que não ficou comprovado o dano moral, de modo que a indenização não é devida. Além disso, assevera que não tem obrigação de restituir as parcelas pagas, por falta de prova do erro.
+Decido.
+2. O Tribunal de origem, com base nas provas produzidas nos autos, concluiu que, no caso, houve cobrança indevida, o que gerou dano moral indenizável. Confira o seguinte trecho do acórdão recorrido:
+Pelo que se observa do "extrato" de fl. 16, cuidava-se de empréstimo consignado, para desconto diretamente de benefício recebido pelo falecido junto ao INSS Instituto Nacional do Seguro Social.
+Portanto, com a morte do mutuário, houve a quitação da dívida, por força do disposto no art. 16 da Lei 1.046/50, verbis:
+(..)
+Ora, o próprio banco confirmou em sua contestação que um de seus gerentes informou à autora que esta deveria efetuar o pagamento do empréstimo consignado. Isso, a despeito de ter ocorrido a quitação, por força do disposto no já mencionado art. 16 da Lei 1.046/50.
+A situação retratada, não pode ser reputado mero dissabor típico da hodierna vida em sociedade.
+Não é um simples inadimplemento contratual, sem desdobramentos outros, senão que dolo de aproveitamento em desfavor octogenária que acabara de se tornar viúva.
+Presentes, portanto, os requisitos para a configuração do dever de indenizar, quais seja: conduta, dano e nexo causal entre ambos.
+Nesse contexto, verifica-se que o acolhimento da pretensão recursal de afastar o reconhecimento de ocorrência de dano moral indenizável exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+3. A jurisprudência deste Sodalício Superior é assente no sentido de que a compensação de valores e a repetição de indébito são cabíveis sempre que verificado o pagamento indevido, em repúdio ao enriquecimento ilícito de quem o receber, independentemente da comprovação do erro. Precedentes: AgRg no REsp 1026215/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 13.05.2008, DJ de 28.05.2008; AgRg no REsp 1013058/RS, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 25.03.2008, DJ de 11.04.2008; AgRg no Ag 953.299/RS, Rel. Ministro Humberto Gomes de Barros, Terceira Turma, julgado em 12.02.2008, DJ de 03.03.2008.
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
