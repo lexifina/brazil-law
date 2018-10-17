@@ -1,0 +1,8 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu o Recurso Especial interposto, o qual se insurgiu contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco.
+2. A irresignação, contudo, não merece ser conhecida, visto que as partes agravantes não infirmaram adequadamente os fundamentos da decisão agravada, quais sejam: a) aplicação da Súmula 7 do STJ; b) o acórdão recorrido está em harmonia com a jurisprudência da Corte Superior, atraindo a incidência da Súmula 83 do STJ; c) e que o recorrente não transcreveu a ementa de nenhum julgado para demonstrar a suposta divergência jurisprudencial, o que inviabiliza o recurso interposto pela alínea c, ante a ausência do cotejo analítico entre as decisões. Na verdade, limitou-se a sustentar a usurpação de competência da Corte Superior, bem como a não incidência do óbice previsto na Súmula 7 do STJ e a demonstração da divergência jurisprudencial entre o acórdão recorrido e a jurisprudência do STJ, sem, contudo, impugnar de forma escorreita o decisório, a fim de possibilitar a ascensão do Apelo Especial.
+3. Com efeito, o Agravo em Recurso Especial tem por escopo desconstituir a decisão de inadmissão de Recurso Especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação da Súmula 182 do STJ.
+4. Diante dessas considerações, não se conhece do Agravo em Recurso Especial.
+5. Publique-se.
+6. Intimações necessárias.
