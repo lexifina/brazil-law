@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO EM TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL QUE OBJETIVA A EXPEDIÇÃO DE CERTIDÃO DE REGULARIDADE FISCAL. AUSÊNCIA DE DEMONSTRAÇÃO DOS REQUISITOS AUTORIZADORES DA MEDIDA. AUSÊNCIA DE FUMAÇA DO BOM DIREITO. INOVAÇÃO NESTA SEARA. MATÉRIA NÃO DEBATIDA NA ORIGEM. ANÁLISE DE REQUISITOS DO SEGURO GARANTIA QUE DEVEM SER REQUERIDOS E ANALISADOS NA ORIGEM. PEDIDO DE RECONSIDERAÇÃO INDEFERIDO.
+1. Trata-se de pedido de reconsideração de decisão que indeferiu a liminar pleiteada, uma vez ausente o requisito da fumaça do bom direito.
+2. Alega o objetivo do pleito liminar, não se refere à eventual suspensão da exigibilidade do crédito tributário discutido nos autos ou à concessão de efeito suspensivo ao Recurso Especial interposto - o que se relacionaria intrinsicamente às chances de êxito do mérito da demanda. O que se pretende, em verdade, é apenas: (i) a apresentação das apólices de Seguro Garantia, assegurando a totalidade dos débitos objetos da presente lide (inclusive com a posterior verificação e anuência da Procuradoria do Estado de São Paulo, ora Requerida); (ii) a determinação de que seja expedida Certidão Positiva com Efeito Negativo, para que a contribuinte não seja impedida de exercer a sua atividade econômica, considerando as referidas garantias dos débitos tributários (fls. 2.456).
+3. É o relatório.
+4. Como afirmado na decisão de fls. 2.446/2.451, não se evidencia, no particular, a plausibilidade do direito alegado, haja vista que as razões de direito constantes dos autos não demonstram a aparência do bom direito da parte requerente, uma vez que, por decisão da Presidência do STJ, o Agravo foi desprovido (fls. 2.237/2.241).
+5. Ademais, a prestação de seguro garantia é matéria estranha aos autos, nunca antes discutida no juízo de piso, razão pela qual, não cabe sua discussão e análise de preenchimento de seus requisitos em sede de Agravo em Recurso Especial, que, frise-se, fora desprovido.
+6. Ante o exposto, indefere-se o pedido de reconsideração requerido por MASTERFOODS BRASIL ALIMENTOS LTDA.
+7. Publique-se.
+8. Intimações necessárias.
