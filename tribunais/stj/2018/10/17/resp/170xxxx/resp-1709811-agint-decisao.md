@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de expediente avulso (pet 00429710/2018), por meio do qual, LARA COSTA TARGINO TOURINHO e CARLOS ALBERTO CHAMUSCA TOURINHO FILHO, uma das partes recorrentes, requer o julgamento de seu recurso especial, suspenso pela decisão de fls. 384/386, e-STJ, com determinação de retorno dos autos à origem até o julgamento do Tema n.º 971, observando-se, após, a sistemática prevista nos arts. 1.040 e 1.041 do Código de Processo Civil
+Aduz que a penalidade contratual aplicada não se revestia de penalidade específica ao consumidor, de modo que a situação fática não se amoldaria ao tema afetado ao julgamento dos recursos repetitivos. Tal diferenciação, contudo, não foi realizada pela Corte de origem.
+E da análise dos autos, constata-se que, em 15 de dezembro de 2017 foi publicada decisão determinando a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte Superior, para que o recurso permaneça suspenso até a publicação do acórdão paradigma. Por conseguinte, em 23 de fevereiro de 2018 foi certificado o trânsito em julgado (fl. 389, e-STJ).
+Assim, exaurida a prestação jurisdicional deste Superior Tribunal de Justiça. Forte nessas razões, NADA A DEFERIR.
+Publique-se. Intimem-se.
