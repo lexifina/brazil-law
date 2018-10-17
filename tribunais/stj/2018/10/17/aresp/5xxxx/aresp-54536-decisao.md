@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por ARIOSVALDO RAMOS e OUTRO em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - TAXAS CONDOMINIAIS - PRELIMINARES DE ILEGITIMIDADE ATIVA E FALTA DE INTERESSE DE AGIR - CONTRATO DE COBRANÇA GARANTIDA DE TAXAS DE CONDOMÍNIO - INOCORRÊNCIA DE SUB-ROGAÇÃO - LEGITIMIDADE DO CONDOMÍNIO PARA EFETUAR A COBRANÇA - PRELIMINAR DE ILEGITIMIDADE PASSIVA - AFASTADA - REQUERIDOS PROPRIETÁRIOS DO IMÓVEL - DENUNCIAÇÃO DA LIDE DOS LOCATÁRIOS - IMPOSSIBILIDADE - VEDADA NO RITO SUMÁRIO - DIREITO DE REGRESSO GARANTIDO - INÉPCIA DA INICIAL - NÃO VERIFICADA - VALOR DAS DESPESAS COMPROVADO DOCUMENTALMENTE - MULTA DE 20% SOBRE O DÉBITO PACTUADA ANTERIORMENTE À ENTRADA EM VIGOR DO CC/02 - INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR - VALOR DOS HONORÁRIOS ADVOCATÍCIOS CORRETAMENTE ARBITRADO - RECURSO AO QUAL SE NEGA PROVIMENTO." (fls. 380)
+Nas razões do recurso especial, os recorrentes apontam violação aos arts. 12, §4º e 24 da Lei 4.591/64, sustentando, em síntese, ilegitimidade ativa do condomínio para cobrar a dívida, falta de interesse de agir, ilegitimidade passiva dos recorrente pois os valores referente às taxas do condomínio devem ser pagas pelos inquilinos, ausência de documentos essenciais para a propositura da ação, inépcia da inicial pois o recorrido "deixou de apresentar as especificações de seu pedido" e ilegalidade da cláusula penal. (fls. 397-428)
+Não foram apresentada contrarrazões.
+É o relatório.
+Os recorrentes, nas razões do apelo nobre, aduzem violação aos arts 12, §4º e 24 da Lei 4.591/64, entretanto, não desenvolvem argumentação que evidencie as ofensas, tornando evidente a falha de fundamentação do apelo especial.
+Ademais, quanto a ilegitimidade ativa e passiva, interesse de agir, ausência de documentos essenciais para a propositura da ação, inépcia da inicial e ilegalidade da cláusula penal, os recorrentes alegam violação genérica à lei federal, mas não indicam qual ou quais dispositivos entendem violados, circunstância que caracteriza deficiência de fundamentação.
+Desta forma, incide, na hipótese, o óbice da súmula 284/STF.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.FUNDAMENTAÇÃO DEFICIENTE. VIOLAÇÃO GENÉRICA DA LEI. DISPOSITIVOS. FALTA DE ESPECIFICAÇÃO. ARGUMENTAÇÃO JURÍDICA. AUSÊNCIA. SÚMULA Nº 284/STF. DECISÃO MANTIDA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial fundamentado na alínea "a" do permissivo constitucional deve especificar claramente os dispositivos violados, de modo que não basta a simples alegação de ofensa genérica a lei federal, sendo necessário, ainda, que as razões recursais sejam acompanhadas de argumentação jurídica pertinente à tese defendida.
+Precedentes."
+3. Agravo interno não provido." (AgInt no AREsp 1086904/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art. 38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido". (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 27/08/2015)
+ Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
