@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA PENA. APLICAÇÃO DA REDUTORA, ALTERAÇÃO DO REGIME INICIAL E SUBSTITUIÇÃO POR RESTRITIVA DE DIREITOS. APELAÇÃO PENDENTE DE JULGAMENTO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA.
+Writ indeferido liminarmente.
+DECISÃO
+Huanda Cristina dos Santos foi condenada por incursa no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado, mais 500 dias-multa (Processo n. 0001676-84.2016.8.26.0272, da 2ª Vara da comarca de Itapira/SP).
+Buscando a redução da reprimenda pela aplicação da redutora do § 4º do art. 33 da Lei n. 11.343/2006, em grau máximo, bem como a fixação de regime inicial mais brando e a substituição da pena privativa de liberdade por restritiva de direitos, impetrou-se no Tribunal de Justiça de São Paulo o HC n. 2173773-28.2018.8.26.0000. A Oitava Câmara de Direito Criminal indeferiu liminarmente o habeas corpus, nos termos desta ementa (fl. 51):
+Habeas Corpus - Reexame de fundamentação da sentença condenatória - Pedido visando a redução das penas, a fixação de regime inicial menos gravoso e a substituição da pena privativa de liberdade por restritiva de direitos - Matéria não passível de discussão em sede de Habeas Corpus - Constrangimento ilegal inexistente - Indeferimento liminar do writ.
+Não se presta o habeas corpus ao reexame do mérito de sentença condenatória de primeiro grau, devendo ser a matéria reservada à via recursal adequada, a apelação, na qual é possível reavaliar não apenas as teses jurídicas pertinentes como todo o contexto probatório.
+Com a mesma pretensão, inclusive em caráter liminar, impetrou-se este writ, em que se argumenta que nunca é demais lembrar que diante de flagrante ilegalidade, é possível a concessão da ordem de ofício, é o exato caso dos autos (fl. 7). Sustenta-se que a fundamentação apresentada para a negativa de aplicação da redutora e para a imposição do regime mais gravoso é inidônea.
+É o relatório.
+Primeiramente, observo que a pretensão de revisão da reprimenda e do regime não foi objeto de apreciação pelo Tribunal estadual, de modo que conhecer agora de tal insurgência implicaria indevida supressão de instância.
+Além disso, se há simultânea interposição de apelação e impetração de habeas corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a decisão das questões para o recurso adequado, mormente quando sua análise reclama - como entendeu a Corte estadual - o exame do conjunto fático-probatório da ação penal. Confira-se, nesse sentido, o RHC n. 56.338/SP, de minha relatoria, Sexta Turma, DJe 1º/12/2016.
+Com efeito, há aqui o entendimento de que se mostra prematura a revisão da dosimetria da pena e do regime prisional na via do habeas corpus, quando já interposta a apelação, recurso próprio à análise das aludidas alegações, as quais dependem de análise fático-probatória, a ser realizada pelas instâncias ordinárias (AgRg no RHC n. 40.054/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 21/10/2014).
+Assim, não há constrangimento ilegal a ser sanado por esta via. A matéria será objeto de discussão e análise pelo Tribunal a quo por ocasião do julgamento do apelo defensivo.
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.
