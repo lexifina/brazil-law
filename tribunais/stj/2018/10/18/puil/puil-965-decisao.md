@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de uniformização de jurisprudência apresentado pelo ESTADO DO RIO GRANDE DO SUL, com apoio no art. 18, § 3º, da Lei n. 12.153/2009, em face de acórdão da Segunda Turma Recursal da Fazenda Pública dos juizados especíais cíveis do Estado do Rio Grande do Sul, no qual se decidiu pela não incidência de imposto de renda sobre os pagos a servidor público estadual a título de abono de permanência, uma vez tratar-se de verba indenizatória.
+O requerente aduz que referido entendimento diverge daquele externado pela Turma Recursal da Fazenda Pública do Estado de São Paulo e pelo Superior Tribunal de Justiça; e defende a incidência do imposto de renda sobre o abono de permanência.
+Sem contrarrazões pela parte requerida.
+A Turma de Uniformização da Fazenda Pública, declinando da competência, determinou a remessa dos autos a este Tribunal Superior.
+Passo a decidir.
+A teor do art. 18, § 3º, da Lei n. 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal Superior, quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+De início, verifica-se estar comprovada a divergência entre Turmas de diferentes Estados, o que atrai a competência deste Tribunal para o pedido de uniformização.
+A Primeira Seção deste Tribunal Superior, na sistemática dos recursos repetitivos, em agosto de 2010, decidiu pela "incidência do Imposto de Renda os rendimentos recebidos a título de abono de permanência a que se referem o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional 41/2003, e o art. 7º da Lei 10.887/2004  uma vez que  não há lei que autorize considerar o abono de permanência como rendimento isento" (REsp 1.192.556/PE, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 25/08/2010, DJe 06/09/2010).
+E, ainda em 2017, as Turmas Recursais dos juizados especiais do Estado do Rio Grande do Sul têm contrariado esse precedente, o que, inclusive, já foi constatado, em 26 de junho de 2018, por ocasião do julgado monocrático do PUIL 861/RS, sob a relatoria do em. Min. Francisco Falcão.
+Ante o exposto, CONHEÇO do pedido de uniformização de interpretação de lei e DECLARO a legalidade da incidência do imposto de renda sobre os valores recebidos a título de abono de permanência.
+Publique-se. Intimem-se.
+Comunique-se ao Presidente da Turma Recursal do Estado do Rio Grande do Sul.
