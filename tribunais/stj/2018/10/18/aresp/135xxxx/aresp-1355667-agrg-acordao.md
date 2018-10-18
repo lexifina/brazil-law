@@ -1,0 +1,44 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo, excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante de circunstâncias concretas, o que não ocorre no caso dos autos.
+2. Não obstante o baixo valor dos bens furtados, o entendimento desta Corte se firmou no sentido de que o princípio da insignificância não tem aplicabilidade nos casos em que se verifica a reiterada prática da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese.
+3. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por [NOME] GONÇALVES DE OLIVEIRA contra decisão desta Relatoria que, fundamentada no art. 932, III, do Código de Processo Civil de 2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheceu do agravo para não conhecer do recurso especial.
+O agravante requer "seja reconsiderada a r. decisão monocrática, a fim de que seja conhecido e provido o presente agravo, reformando-se o v. acórdão guerreado, a fim de reconhecer a incidência do princípio da insignificância, absolvendo-se o agravante, face à atipicidade material da conduta imputada" (e-STJ, fl. 379).
+Alega que "nem a reincidência nem a reiteração criminosa, tampouco a habitualidade delitiva, são suficientes, por si sós e isoladamente, para afastar a aplicação do denominado princípio da insignificância" (e-STJ, fl. 370).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo, excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante de circunstâncias concretas, o que não ocorre no caso dos autos.
+2. Não obstante o baixo valor dos bens furtados, o entendimento desta Corte se firmou no sentido de que o princípio da insignificância não tem aplicabilidade nos casos em que se verifica a reiterada prática da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese.
+3. Agravo regimental a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Conforme consignado na decisão recorrida, no que se refere à alegada atipicidade da conduta, impende consignar que o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (STF, HC 84.412/SP, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, DJ 19/11/2004).
+Vale dizer, não basta à caracterização da tipicidade penal a adequação pura e simples do fato à norma abstrata, pois, além dessa correspondência formal, é necessário o exame materialmente valorativo das circunstâncias do caso concreto, a fim de se evidenciar a ocorrência de lesão grave e penalmente relevante ao bem em questão.
+Logo, além dos pressupostos objetivos, idealizados pelo STF, deve estar presente também o requisito subjetivo, indicativo de que o réu não poderá ser um criminoso habitual.
+A Corte de origem afastou o princípio da insignificância, com base nos seguintes fundamentos:
+"No caso em comento, embora tenha sido furtado dois desodorantes avaliados em R$26,00 (vinte e seis) reais, a Certidão de Antecedentes Criminais do acusado (f. 84186) aponta uma condenação, transitada em julgado, além de ter outra condenação sem registro de trânsito e julgado e ter uma ação em curso, sendo que todas as três são delitos contra o patrimônio, o que indica que ele faz dos crimes contra o patrimônio o seu meio de vida, não se podendo admitir que o delito em tela seja considerado como crime de bagatela.
+ ..
+Portanto, no caso em tela, a aplicação do princípio da insignificância, com a consequente absolvição, certamente representaria um estímulo à delinquência, e à reiteração criminosa do apelante." (e-STJ, fls. 295-296, grifou-se).
+Não obstante o baixo valor dos bens furtados, o entendimento desta Corte se firmou no sentido de que o princípio da insignificância não tem aplicabilidade nos casos em que se verifica a reiterada prática da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese.
+Sobre o tema, confiram-se:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO CONSUMADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGENTE REINCIDENTE ESPECÍFICO NA PRÁTICA DE DELITO PATRIMONIAL. REPROVABILIDADE ACENTUADA DA CONDUTA. JULGAMENTO MONOCRÁTICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRECEDENTES DO STJ. AGRAVO IMPROVIDO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+2. O furto de 1 vidro de perfume, avaliado em R$ 69,90, representando quase 12% do salário mínimo vigente à época dos fatos, por agente reincidente específico em delito patrimonial, não permite a incidência do princípio da insignificância para exclusão da tipicidade penal. Precedentes do STJ.
+3. O julgamento monocrático do recurso especial não constitui ofensa ao princípio da colegialidade, sobretudo porque, conforme a jurisprudência do Superior Tribunal de Justiça, com a interposição de agravo regimental, torna-se superada a alegação de violação ao referido postulado, tendo em vista a devolução da matéria recursal ao órgão julgador competente.
+4. Agravo Regimental improvido."
+(AgRg no REsp 1.571.787/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/5/2016, DJe 20/5/2016).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TENTATIVA DE FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. OBJETOS AVALIADOS EM APROXIMADAMENTE 28% DO SALÁRIO MÍNIMO.
+I. A lei penal não deve ser invocada para atuar em hipóteses desprovidas de significação social, razão pela qual os princípios da insignificância e da intervenção mínima surgem para atuar como instrumentos de interpretação restrita do tipo penal.
+II. No caso, todavia, o recorrente é reincidente e possui diversas anotações por delitos patrimoniais, além de ter tentado subtrair bens avaliados em R$ 192,00, aproximadamente 28% do salário mínimo, não fazendo jus à aplicação do princípio bagatelar.
+III. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1.567.443/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/3/2016, DJe 11/3/2016).
+Ademais, o simples fato de o bem haver sido restituído à vítima, não constitui, por si só, razão suficiente para a aplicação do princípio da insignificância. Nesse sentido: AgRg no AREsp 754.797/MG, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 1º/12/2015, DJe de 11/12/2015, AgRg no REsp 1.563.252 / SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 4/2/2016, DJe de 22/2/2016.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
