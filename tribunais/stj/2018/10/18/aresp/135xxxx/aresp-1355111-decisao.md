@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo ASSOCIAÇÃO DE DESENVOLVIMENTO TECNOLÓGICO DO VALE, que objetiva a admissão de recurso especial no qual alega violação do art. 14 do CTN, discutindo o direito à imunidade tributária no que se refere ao imposto sobre operações financeiras e ao imposto de renda.
+Contraminuta foi apresentada pela parte agravada.
+Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Considerado isso, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 177 e seguintes):
+ ..
+No caso em análise, todavia, verifico que a postulante é uma associação sem fins lucrativos e tem por objetivo "..promover ações visando ao desenvolvimento tecnológico da região do Vale do Rio dos Sinos, buscando a integração regional, o incentivo ao empreendorismo, a criação e desenvolvimento de empresas, o ensino através da produção do conhecimento, a realização de cursos, transferência de tecnologia e a pesquisa. Pode, ainda, administrar habitats de inovação tecnológica como incubadoras, condomínios, empresarias, parques e pólos tecnológicos, além de gerir outras ações de interesse das suas instituições integrantes". (Evento 1, ESTATUTO3)
+Observa-se que a parte autora não comprovou sua condição de instituição de educação ou de assistência social. Ao que se depreende da leitura dos objetivos sociais, trata-se de associação destinada ao fomento da atividade econômica da região. Esse tipo de atividade, por relevante que seja, não implica concluir se tratar de "instituição de educação ou de assistência social" no sentido que a Constituição lhe empresta, qual seja, vinculado à tutela dos direitos sociais.
+Atividade de ensino ou assistência social a justificar a imunidade prevista constitucionalmente há de ser aquela capaz de gerar algum tipo de mobilidade social para os que são beneficiados pelos cursos, de modo a presumir que a entidade estaria substituindo o Estado no seu papel fundamental (efetividade do direito social à educação ou assistência social).
+Cabe destacar que constitui requisito indispensável à legitimidade para o exercício da atividade de ensino pela iniciativa privada, a autorização pelo Poder Público, prevista no art. 209, II da Constituição Federal.
+Além disso, o Aviso de Movimentação Financeira colacionado aos autos (evento 1, OUT 5), não informa sequer sua origem, ou seja, não há comprovação acerca da correlação entre a operação realizada e a finalidade da associação, bem como não há comprovação de que a parte autora seja o sujeito passivo da tributação em comento.
+Assim, há que se julgar improcedente o pedido.
+Com efeito, resta claro que a autora jamais poderia ser considerada uma instituição de educação. Trata-se de associação destinada ao fomento da atividade econômica da região. Sem dúvida, uma empreendedora e importante atividade, porém não abarcada pela imunidade constitucional pretendida.
+Saliento que a eventual promoção de cursos, bem como a produção de conhecimento, não confere à autora a condição de instituição de educação. Sequer seu estatuto assim a define, sendo de flagrante improcedência o pedido.
+Pensar de maneira contrária, albergando a tese da recorrente, seria considerar qualquer associação que ministrasse cursos, de qualquer natureza, como entidade passível de ser atingida pela imunidade. Certamente, este não é o objetivo da norma.
+Esclareço que preencher os requisitos do art. 14 do CTN, não muda a sua qualificação, nem permite, por si só, a concessão do benefício pretendido.
+Diante do expendido, não merece reparos a sentença, devendo ser mantida conforme lavrada.
+Pois bem.
+O conhecimento do recurso encontra mesmo óbice na Súmula 7 do STJ, pois o delineamento fático contido no voto condutor do acórdão recorrido não permite a verificação dos elementos de prova necessários ao reconhecimento do direito à imunidade tributária.
+Por força do art. 85, § 11, do CPC/2015, a verba honorária de sucumbência arbitrada na sentença há de ser majorada em 1% (um por cento), respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial; e majoro em 1% (um por cento) a verba de sucumbência arbitrada na sentença, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
