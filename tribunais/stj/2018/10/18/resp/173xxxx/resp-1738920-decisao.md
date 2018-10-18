@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CONTRATO TEMPORÁRIO DE PESSOAL. RENOVAÇÕES SUCESSIVAS. NULIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. DEPÓSITO DO FGTS. OBRIGATORIEDADE. PRECEDENTES DO STF E DO STJ. EMBARGOS SEM CARÁTER PROTELATÓRIO. SÚMULA 98/STJ. MULTA. AFASTAMENTO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado (e-STJ fl. 224):
+APELAÇÃO CÍVEL - CONTRATAÇÃO TEMPORÁRIA - PRORROGAÇÃO SUCESSIVA DE CONTRATO ADMINISTRATIVO - NULIDADE - FGTS - CABIMENTO - POSIÇÃO PREVALENTE DA 3a CÂMARA CÍVEL, PARA FIXAÇÃO E DECISÃO ENVOLVENDO MATÉRIAS OBJETO DE DIVERGÊNCIA. Em reunião realizada pela egrégia Terceira Câmara Cível, definiu-se, com base no entendimento proferido pelo Supremo Tribunal Federal, em julgamento dó Recurso Extraordinário, em que restou reconhecida a repercussão geral do tema, e nos termos do art. 19-A, da Lei 8.036/90, ser devido f o depósito do FGTS aos trabalhadores contratados, de forma irregular, pela Administração Pública, bem como saldo de salário, afastando-se o pagamento de outras verbas, por ser nula a contratação.! Provido.
+Os embargos de declaração foram rejeitados, conforme fls. 240-245.
+No apelo especial (e-STJ fls. 249-265), o recorrente alega que não se pode considerar ilegal as sucessivas renovações do contrato temporário; e que tratando-se de hipótese de contratação temporária, os trabalhadores estarão subordinados ao regime administrativo, sendo descabido o FGTS. Pugna ao final, pelo afastamento da multa aplicada.
+Juízo positivo de admissibilidade às e-STJ fls. 311-313
+É o relatório. Passo a decidir.
+O recurso merece prosperar em parte.
+De inicio, o Supremo Tribunal Federal, por meio de interpretação extensiva ao Tema 191/STF, declarou que é devido o depósito do FGTS ao contratado temporário que teve prorrogações sucessivas. ARE 766.127 AgR, Relator Min. DIAS TOFFOLI, Segunda Turma, julgado em 15/3/2016, publicado em 18/5/2016.
+Da mesma forma, a jurisprudência desta Corte é no sentido de que a contratação temporária de excepcional interesse público gera o direito aos depósitos do FGTS, desde que hajam sucessivas renovações, como na espécie.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. CONTRATO TEMPORÁRIO. RENOVAÇÕES SUCESSIVAS. INTERPRETAÇÃO EXTENSIVA. EFEITOS. RECOLHIMENTO DO FGTS.
+1. O Supremo Tribunal Federal, por meio de interpretação extensiva ao Tema 191/STF, declarou que é devido o depósito do FGTS ao contratado temporário que teve prorrogações sucessivas. ARE 766.127 AgR, Relator Min. DIAS TOFFOLI, Segunda Turma, julgado em 15/3/2016, publicado em 18/5/2016.
+2. Ao julgar o Tema 308, a conclusão foi a mesma: contratação sem observância da regra de concurso público gera direito à percepção de FGTS (RE-RG 705.140, Rel. Min. Teori Zavascki, julgado em 28/8/2014).
+3. Por seu turno, o Tema 916 ampliou a situação jurídica que legitima a percepção de FGTS, deixando claro que a contratação temporária, quando deixa de observar os preceitos constitucionais de regência (art. 37, IX, da CF), torna a contratação nula e autoriza o levantamento da citada rubrica. RE-RG 765.320, Rel. Min. Teori Zavascki, julgado em 15/9/2016.
+4. Por qualquer ângulo em que se analise o tema em debate, observa-se que as diversas manifestações do STF seguiram a ótica de reconhecer o direito à percepção do FGTS quando evidenciada a nulidade da contratação efetuada pela administração pública, como na hipótese dos autos.
+Agravo interno improvido (AgInt no RE nos EDcl no AgInt no REsp 1536362/MG, Rel. Min. Humberto Martins, Corte Especial, DJe 14/12/2017, grifo nosso).
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO TEMPORÁRIO DE PESSOAL SEM CONCURSO PÚBLICO. NULIDADE DECLARADA. DEPÓSITO DO FGTS. OBRIGATORIEDADE. PRECEDENTES DO STF E DO STJ.
+1. O acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido de que a contratação temporária de excepcional interesse público gera o direito aos depósitos do FGTS, desde que hajam sucessivas renovações, como na espécie. Precedente: AgRg no REsp 1.554.980/MG, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 14/12/2015.
+2. Agravo não provido (AgRg no REsp 1.479.487/MT, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 15/05/2016, grifo nosso).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. CONTRATO TEMPORÁRIO DE EXCEPCIONAL INTERESSE PÚBLICO. RENOVAÇÕES SUCESSIVAS. DIREITO AOS DEPÓSITOS DE FGTS. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+I - O acórdão recorrido está em confronto com o entendimento desta Corte, no sentido de que a contratação temporária de excepcional interesse público gera o direito aos depósitos de FGTS, desde que haja sucessivas renovações, como na hipótese.
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido (AgRg no REsp 1.554.980/MG, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 14/12/2015, grifo nosso).
+Com efeito, o Tribunal a quo expressamente reconheceu a nulidade da contratação temporária em razão da extrapolação da temporariedade, diante das sucessivas renovações, hipótese que também gera direito aos depósitos do FGTS, conforme a jurisprudência do STF e do STJ.
+Por fim, no que diz respeito ao afastamento da multa em razão dos embargos de declaração, verifico que tal consideração é de prosperar, cabendo o afastamento da multa aplicada. Isso porque o Superior Tribunal de Justiça já sumulou o entendimento de que embargos de declaração opostos com o intuito de prequestionamento não devem ser considerados protelatórios, ex vi o Enunciado de Súmula 98/STJ.
+Ante o exposto, dou parcial provimento ao recurso especial apenas para afastar a aplicação da multa.
+Publique-se. Intimem-se.
