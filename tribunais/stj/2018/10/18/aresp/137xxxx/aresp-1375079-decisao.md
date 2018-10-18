@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por CRISTIANO SOUZA DOS SANTOS, em face da decisão acostada a fls. 420/429 (e-STJ) que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelo ora agravante.
+Em juízo prévio de admissibilidade, a corte de origem negou seguimento ao apelo nobre pelos seguintes fundamentos: i) incidência do óbice contido na Súmula 5/STJ, quanto à ausência de abusividade da taxa de juros pactuada na cédula de crédito bancário; ii) emprego do enunciado contido na Súmula 83/STJ às teses relacionadas com comissão de permanência, indeferimento de tutela provisória requerida ante a inexistência de abusividade dos encargos exigidos no período da normalidade contratual e cobrança de IOF; iii) aplicação das Súmulas 5, 7 e 83/STJ relativamente à capitalização de juros em periodicidade inferior a um ano, desde que expressamente pactuado; e incidência, por analogia, do óbice contido na Súmula 283/STF quanto à tarifa de emissão de carnê.
+Inconformado (fls. 431/441, e-STJ), o insurgente interpõe o presente agravo em recurso especial, no qual alega ter preenchido os pressupostos de admissibilidade do apelo nobre, notadamente quanto o prequestionamento dos dispositivos de lei que compreende terem sido violados - arts. 39, incisos V e XI, 42 e 51, IV, da Lei 8.078/90; Decreto 22.626/33; art. 1062 CC; e arts. 22 e 23 da Lei 8.906/94.
+Contraminuta às fls. 445/448 (e-STJ).
+É o relatório. Decide-se
+O agravo em recurso especial não ultrapassa o conhecimento
+1. Consoante entendimento desta Corte, pelo princípio da dialeticidade, compete à parte recorrente infirmar todos os fundamentos do capítulo impugnado na decisão agravada. A ausência de impugnação específica torna forçoso o não conhecimento do reclamo, por aplicação do quanto disposto nos artigos 932, inc. III, do CPC/15.
+Aplicável, ainda o óbice enunciado na Súmula 182 do STJ, a saber: "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada".
+Confiram-se, nesse sentido, os seguintes julgados: AgInt no AREsp 1074988/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017; AgInt no AREsp 877.856/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/11/2016, DJe 23/11/2016; AgInt nos EDcl no AREsp 1017447/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017; AgInt nos EDcl no AREsp 863.863/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 09/06/2017
+No caso em comento, a decisão proferida em juízo prévio de admissibilidade fundamentou-se na incidência dos óbices contidos nas Súmulas 5, 7, 83/STJ e 283/STF.
+Caberia, então, à parte insurgente, desafiar essas razões de decidir demonstrando como ao menos, que a matéria alegada em sede de recurso especial fora objeto de deliberação pela Corte estadual.
+Apresentou, contudo, razões que, ao que tudo indica, voltam-se contra o acórdão recorrido, sem, contudo, nada se manifestar acerca dos verbetes sumulares empregados.
+ Ausente a impugnação específica aos fundamentos da decisão agravada, impõe-se aplicação do artigo 932, inc. III, do CPC/15 e, ainda, por analogia do óbice enunciado na Súmula 182 do STJ.
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
