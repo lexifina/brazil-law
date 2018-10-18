@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. CONTROVÉRSIA SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 1.036 DO CÓDIGO DE PROCESSO CIVIL. PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM. BAIXA IMEDIATA.
+Relatório
+    1. Recurso extraordinário interposto com base nas als. a e d do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “ACIDENTE DO TRABALHO - RECURSO - AGRAVO DE INSTRUMENTO INTERPOSTO PELO INSS - AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - DESERÇÃO – NÃO CONHECIMENTO. A falta de recolhimento do porte de remessa e retorno no momento da interposição do recurso impõe a pena de deserção, considerando o disposto no artigo 511, caput, do Código de Processo Civil c/c a Lei Estadual n. 11.608/03” (fl. 97, vol. 1).
+    2. O recorrente alega ter o Tribunal de origem contrariado o inc. IV do art. 24, o § 2º do art. 98, e o inc. II do art. 145 da Constituição da República.
+    Sustenta que, “ao excluir o porte de remessa e de retorno do conceito de taxa judiciária, a lei estadual alterou o próprio conceito constitucional, em clara afronta aos artigos 24, inciso IV, 98, §2º, 145, inciso II, da Constituição Federal, já que o porte de remessa e de retorno dos autos nada mais é que serviço público de natureza forense relativo aos recursos, sendo taxa judiciária” (fl. 115, vol. 1).
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. No julgamento do Recurso Extraordinário n. 594.116, Relator o Ministro Menezes Direito, o Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia sobre a “exigibilidade do porte de remessa e retorno de autos de autarquia federal no âmbito da Justiça Estadual” (Tema 135). Nesse julgado, assentou-se:
+    “DIREITO PROCESSUAL CIVIL. LEI ESTADUAL. PREPARO. PORTE DE REMESSA E RETORNO. AUTARQUIA FEDERAL. RECOLHIMENTO. EXISTÊNCIA DE REPERCUSSÃO GERAL” (DJe 21.11.2008).
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar-se o julgamento do mérito e, após a decisão, observar-se o disposto no art. 1.036 do Código de Processo Civil.
+    4. Pela irrecorribilidade da decisão de devolução de recurso à instância de origem, seguindo a sistemática da repercussão geral (MS n. 31.445-AgR/RJ, de minha relatoria, Plenário, DJ 25.2.2013; MS n. 32.060-ED/SP, Relator o Ministro Dias Toffoli, Plenário, DJ 6.11.2013; MS n. 28.982-AgR/PE, Relator o Ministro Gilmar Mendes, Plenário, DJ 15.10.2010; RE n. 629.675-AgR/SP, Relator o Ministro Luiz Fux, Primeira Turma, DJ 21.3.2013; RE n. 595.251-AgR/RS, Relator o Ministro Dias Toffoli, Primeira Turma, DJ 9.3.2012; AI n. 503.064-AgR-AgR/MG, Relator o Ministro Celso de Mello, Segunda Turma, DJ 26.3.2010; AI n. 811.626-AgR-AgR/SP, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ 3.3.2011; RE n. 513.473-ED/SP, Relator o Ministro Cezar Peluso, Segunda Turma, DJe de 18.12.2009; e AI n. 790.033-AgR/DF, Relator o Ministro Cezar Peluso, Plenário, DJ 2.5.2012), determino a baixa imediata dos autos.
+    5. Pelo exposto, determino a devolução destes autos à origem para observância do art. 1.036 do Código de Processo Civil, nos termos do parágrafo único do art. 328 do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 18 de outubro de 2018.
+Ministra CÁRMEN LÚCIA
+Relatora
