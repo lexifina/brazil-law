@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ACIDENTE DE TRÂNSITO - REPARAÇÃO DE DANOS MORAIS E MATERIAIS - Vítima fatal - Cerceamento ao direito de defesa, afastado - Culpabilidade caracterizada - Insurgência em relação ao "Quantum debeatur" - Existência de avença extrajudicial entre os autores e Seguradora denunciada - Processamento de incidente de falsidade indeferido - Recebimento de valor indenizatório de considerável monta, no valor de R$ 96.700,00, a compensar os danos decorrentes do acidente, não havendo indícios que os autores foram prejudicados com a realização do acordo - Improcedência mantida - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 1.106 - 1.109, e-STJ).
+Nas razões de recurso especial, alegam os agravantes, em suma, divergência jurisprudencial e violação aos artigos 373, I, do Código de Processo Civil de 2015, e 122, 138, 186, 843, 849, 927 e 949 do Código Civil.
+Sustentam a ocorrência de cerceamento de defesa ante a negativa de produção de prova testemunhal e pericial.
+Defendem a nulidade de transação extrajudicial firmada, no ponto em que confere plena quitação dos valores pretendidos.
+Ponderam pela necessidade de condenação dos agravados em danos materiais, morais e estéticos.
+Apresentadas contrarrazões (e-STJ fls. 1.233 - 1.286), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 1.290 - 1.293, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão aos agravantes.
+No que diz respeito à pretensão de reconhecimento de cerceamento de defesa, pela negativa de produção de provas (testemunhal e pericial), cumpre destacar que o Tribunal de origem é soberano quanto à pertinência da produção das provas que as partes pretendam juntar aos autos, bem como acerca da análise das provas efetivamente trazidas.
+Com efeito, a jurisprudência desta Corte é pacífica no sentido de que, como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE SOLIDÁRIA DO ENGENHEIRO E DA EMPRESA CONTRATADA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+I - Examinados suficientemente todos os pontos controvertidos, não há falar-se em negativa de prestação jurisdicional.
+II - Se, diante da prova dos autos, as instâncias ordinárias concluem pela culpa do agravante e pelo nexo de causalidade, entender diversamente esbarra na Súmula/STJ.
+III - O Juiz é o destinatário da prova e a ele cabe decidir sobre o necessário à formação do próprio convencimento. Assim, a apuração da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide e/ou o indeferimento de prova oral demanda reexame provas, providência vedada em sede de recurso especial. Agravo regimental improvido". (AgRg no Ag 771.335/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 04/09/2008, DJe 23/09/2008)
+Nesses termos, não há que se falar em cerceamento de defesa pela negativa de produção de prova testemunhal, ou pericial, quanto mais quando o órgão julgador embasa seu entendimento em demais provas de maneira suficiente, como no caso dos autos.
+Com relação à alegação de nulidade da transação realizada, relevante se faz a reprodução de trecho do acórdão, que tratou o tema da seguinte forma (e-STJ, fls. 1.088 - 1.090):
+A Seguradora Bradesco Auto/RE Companhia de Seguros, empresa denunciada, demonstrou ter firmado acordo com os autores, ora apelantes (fl. 490/492), sendo encartado o termo original nos autos de incidente de falsidade, fls. 37/38, em que restou acordado o recebimento do valor de R$ 96.700,00, em favor dos apelantes, mediante cheque cruzado em nome de [NOME], em decorrência do acidente em discussão.
+A cláusula 9ª do instrumento de transação (fl. 491) sinala que os apelantes dão à Seguradora, plena, geral e irrevogável quitação, para nada mais reclamar com fundamento no acidente de trânsito ocorrido em 30.8.2008 (grifamos).
+Cumpre salientar que foi suscitado incidente de falsidade pelos autores em que se questionou a assinatura lançada por [NOME], representante da empresa corré [NOME] Oscar [NOME] ME (Transportadora Transbecker). Todavia, o juízo a quo entendeu que só caberia ser arguida por quem efetivamente teve sua assinatura falsificada. Logo, foi indeferido o processamento deste incidente (fls. 42 - autos em apartado).
+Inclusive, foi mantido tal entendimento por este Tribunal (agravo de instrumento nº 2017312-67.2014.8.26.0000 - fls. 70/76 - autos de incidente de falsidade).
+Os apelantes reconhecem a realização do referido acordo no valor de R$ 96.700,00, quantia essa de considerável relevância, de maneira a afastar eventual prejuízo.
+Por outro lado, conforme bem ressaltado pelo juízo sentenciante, o entabulado entre as partes foi celebrado quando já havia transcorrido quase um ano e meio da data do acidente, o que repele a alegação dos apelantes de que na época do ajuste, estavam sob a influência de forte emoção, em virtude do evento recente que os vitimou (grifamos).
+Conforme se verifica, após a análise de cláusulas contratuais, fatos e provas, a Corte local concluiu pela validade da cláusula havida em acordo extrajudicial, dando plena quitação de valores oriundos do acidente que gerou os danos ora vindicados. Assim, a revisão da conclusão adotada na origem é medida que encontra veto nas Súmulas 5 e 7 do STJ.
+Referido óbice impede por idênticas razões a análise da suscitada divergência jurisprudencial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
