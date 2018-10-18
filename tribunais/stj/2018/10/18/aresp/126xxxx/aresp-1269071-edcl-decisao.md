@@ -1,0 +1,23 @@
+DECISÃO
+Na origem, trata-se de ação que objetiva condenação ao pagamento de Gratificação de Qualificação, bem como sobre férias e 13º salário, com valor da causa fixado em R$ 128.075,00 (cento e vinte e oito mil, setenta e cinco reais). Na sentença, julgou-se parcialmente procedente o pedido. No TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, a sentença foi reformada, conforme a seguinte ementa do acórdão:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO RETIDO NÃO REITERADO EM CONTRARRAZÕES: NÃO CONHECIMENTO. ADICIONAL DE QUALIFICAÇÃO. LEI 11.907/2009. NORMA NÃO AUTO-EXECUTÁVEL. EXERCÍCIO DO PODER REGULAMENTAR. HONORÁRIOS ADVOCATÍCIOS. REFORMA DA DECISÃO IMPUGNADA. APELAÇÃO PROVIDA. REEXAME NECESSÁRIO PROVIDO. AGRAVO RETIDO NÃO CONHECIDO.
+1. Reexame necessário e Apelação da União em face de sentença que julgou parcialmente procedente pedido de concessão à parte autora da gratificação de qualificação (GQ em nível III ou, subsidiariamente, GQ em nível II), desde a data da entrada em vigor da Lei nº. 11.907/2009, com condenação no pagamento das diferenças daí decorrentes.
+2. O agravo retido da parte autora não restou reiterado em contrarrazões, a acarretar o não conhecimento, com fundamento no artigo 523, §1º, CPC/1973, vigente à época.
+3. Gratificação de Qualificação (GQ) prevista no art. 56 da lei nº. 11.907/2009 que depende de regulamentação pelo Poder Executivo.
+4. A regulamentação do dispositivo legal invocado é atribuição da competência privativa do Presidente da República, nos estritos termos do art. 84, IV, da Constituição Federal, não sendo dado ao Poder Judiciário, por meio desta ação de rito ordinário, substituir-se ao Chefe do Poder Executivo na regulamentação de direito subjetivo não objeto de fruição imediata.
+5. Sendo necessária a edição de regulamento executivo para definir os requisitos para a percepção da GQ em níveis II e III (o que só veio a ocorrer em 2012, com a edição do Decreto nº. 7.876, substituído, atualmente, pelo Decreto nº. 7.922/2013), não há direito subjetivo à sua percepção desde a data da entrada em vigor da lei n. 11.907/2009.
+6. Sucumbência da parte autora: o arbitramento dos honorários está adstrito ao critério de valoração delineado no art. 20 do CPC/1973, consoante orientação do Colendo Superior Tribunal de Justiça no Enunciado administrativo número 7 ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+7. Agravo retido não conhecido. Apelação provida. Reexame necessário provido.
+Opostos embargos declaratórios, foram rejeitados.
+Interposto recurso especial, negou-se seguimento. Foi então interposto agravo em recurso especial.
+Nesta Corte, não se conheceu do agravo.
+Em embargos de declaração, aponta a parte embargante omissão na majoração dos honorários advocatícios.
+Intimada, a parte embargada apresentou impugnação (fls. 380-387).
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Consoante o Enunciado Administrativo n. 3/STJ, aprovado pelo Plenário do STJ, na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De igual modo, o enunciado n. 7 da Súmula Administrativa do STJ dispõe que, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Por sua vez, nos termos do § 11 do art. 85 do Código de Processo Civil de 2015: "O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento."
+Na sentença, fixaram-se os honorários advocatícios em 10% sobre o valor da condenação (fl. 180). No acórdão, houve a inversão dos ônus da sucumbência, e a condenação em honorários advocatícios, fixados em R$ 1.000,00 (mil reais), (fl. 252).
+Ante o exposto, considerando o trabalho adicional realizado, com a apresentação de contrarrazões ao recurso especial, e os critérios previstos nos §§ 2º a 6º do art. 85 do Código de Processo Civil de 2015, acolho os embargos de declaração, para integrar a decisão embargada, fazendo constar a majoração dos honorários advocatícios em R$ 200,00.
+Publique-se. Intimem-se.
