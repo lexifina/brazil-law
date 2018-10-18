@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. PLANO DE SAÚDE. RECUSA INTERNAÇÃO E TRATAMENTO.
+CARÊNCIA. Sentença de procedência condenando a ré a arcar com todas as despesas de internação e tratamento da autora, tornando definitiva decisão que antecipou os efeitos da tutela. Apelação da autora pela anulação da sentença citra petita que não apreciou pedido de indenização por danos morais ou o julgamento com a procedência do pedido. Sentença citra petita. Teoria da causa madura. Dano moral não configurado. Princípio da razoabilidade que deve ser observado não só quando da fixação da compensação extrapatrimonial, mas também quando da análise de sua incidência. Sentença complementada para julgar improcedente o pedido de indenização e condenar em sucumbência recíproca. PROVIMENTO PARCIAL DO RECURSO.
+Nas razões do especial, a parte recorrente alegou violação do art. 6º, VI, da Lei n. 8.078/90. Sustentou que foram comprovados os danos morais no presente caso, devendo a parte recorrida ser condenada a pagá-los.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu (fls. 149-150, e-STJ):
+O dano moral pressupõe a existência de dor, vexame, sofrimento ou humilhação que interfira no comportamento psicológico causando angústia e desequilíbrio ao indivíduo.
+É entendimento consubstanciado na Súmula 75 do TJRJ que o descumprimento do dever legal ou contratual, por caracterizar mero aborrecimento, em princípio, não configura dano moral.
+Não se pode banalizar a previsão constitucional da indenização por danos morais, pretendendo condenar qualquer ato que cause aborrecimento, sob pena de se formar uma verdadeira indústria do dano moral.
+No caso dos autos, a autora estava internada na emergência, o laudo médico data de 03/08/2011, a inicial foi proposta em 04/08 e a antecipação da tutela concedida na mesma data, portanto, não houve interrupção de tratamento.
+Com relação à irresignação acerca da ausência de comprovação dos danos morais, conforme se verifica do trecho acima, o Colegiado estadual concluiu que eles não foram demonstrados no presente caso. Assim, a pretensão não comporta análise na presente via, por encontrar nítido veto na Súmula n. 7 do STJ.
+A propósito, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE [NOME]. RESPONSABILIDADE CIVIL. DANO MORAL NÃO CONFIGURADO. MERO DESCUMPRIMENTO CONTRATUAL DECORRENTE DE CONTROVÉRSIA A RESPEITO DE COBERTURA. REVISÃO.IMPOSSIBILIDADE.SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que, quando a situação experimentada não tem o condão de expor a parte a dor, vexame, sofrimento ou constrangimento perante terceiros, não há falar em dano moral, uma vez que se trata de circunstância a ensejar mero aborrecimento ou dissabor, mormente quando mero descumprimento contratual, embora tenha acarretado aborrecimentos, não gerou maiores danos ao recorrente.
+2. No caso, não ficou demonstrada nenhuma hipótese de excepcionalidade. O Tribunal de origem, mediante análise do contexto fático-probatório dos autos, entendeu não estarem presentes elementos que caracterizem a indenização por danos morais, pois a recusa decorreu de controvérsia a respeito da extensão da cobertura contratada.
+3. Desse modo, a reversão do julgado afigura-se inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de reexame do contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência das Súmulas 5 e 7/STJ.
+4. Agravo regimental não provido. (AgRg no AREsp 799.330/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2016, DJe 22/02/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE EXAME DE RESSONÂNCIA MAGNÉTICA. RESPONSABILIDADE CIVIL. DANO MORAL NÃO CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A insurgência recursal dirige-se contra decisão que entendeu não ser devida a indenização por danos morais pelo fato de a recusa da realização de exame pela operadora do plano de saúde ter decorrido de dúvida razoável a respeito de cláusula contratual, bem como por ter ocasionado ao agravante simples aborrecimento.
+2. Desse modo, a reversão do julgado, no sentido de reconhecer a existência do dano causado ao recorrente, é inviável para esta eg. Corte de Justiça, tendo em vista a necessidade de se reexaminar o contexto fático-probatório dos autos, providência, todavia, incabível, a atrair a incidência da Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 682.226/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1º/3/2016, DJe 10/3/2016.)
+Ante o exposto, nego provimento ao agravo.
+Havendo sucumbência recíproca na origem, deixo de proceder à majoração dos honorários advocatícios.
+Intimem-se.
