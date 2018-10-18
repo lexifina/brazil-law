@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido de liminar, impetrado em favor de [NOME] contra acórdão do Tribunal de Justiça do Estado de Pernambuco (Apelação Criminal n. 336449-6).
+Alega o impetrante que " ..  o objetivo da presente ação de habeas corpus está pautado na condição deste paciente cumprir sua pena em regime diferente do que foi mantido na sentença prolatada em primeiro grau e mantida em decisão de segundo grau no Tribunal de Justiça do Estado de Pernambuco, onde um paciente condenado a 4 (quatro) em crime comum, embora reincidente, é mantido no regime fechado, cumpre preventivamente com 9 (nove) meses e 18 (dezoito) dias e ainda assim com uma pena a ser cumprida em 3 (três) anos 2 (dois) meses e 12 (doze) dias para ser cumprida no regime ainda fechado" (e-STJ, fl. 12).
+Requer " ..  seja LIMINARMENTE alterada a forma de cumprimento inicial da pena deste paciente conforme disposto no artigo 33 do nosso código penal, assim como disposto na sumula 440 do STJ, que foi equivocadamente mantida na apelação 336449-6, onde este paciente teve sua pena mantida em 3 (três) anos e 2 (dois) meses de reclusão equivocadamente mantida no regime de cumprimento desta pena fechado, passando para o semiaberto, quiçá o regime aberto" (e-STJ, fl. 13).
+A liminar foi indeferida e foram requisitadas informações ao Tribunal de Justiça do Estado de Pernambuco, para esclarecer a atual situação prisional do paciente e o encaminhamento de cópia dos documentos imprescindíveis à compreensão da controvérsia, notadamente do acórdão proferido na Apelação n.º 336449-6 e da sentença condenatória (e-STJ, fls.19-21).
+Às fl. 83 (e-STJ) sobreveio a informação que foi deferida a progressão de regime ao semiaberto desde o dia 12/05/2018, nos termos do art. 112 da Lei das Execuções Penais, c/c art. 2º, §2º da Lei 8.072/1990, com a sua transferência, após essa data, para a Penitenciária Agro-Industrial São João.
+Na petição avulsa trazida a estes autos por meio do PFRN n. 00447561/2018, o impetrante requer a remissão por dias trabalhados com novos cálculos e a respectiva progressão ao regime aberto de pena em favor do ora paciente (e-STJ, fls. 88-99).
+O Ministério Público Federal manifestou-se "pela concessão da ordem para que seja determinado ao Juízo da Execução o refazimento dos cálculos no sentido de que os dias remidos sejam considerados como pena efetivamente cumprida para todos os efeitos" (e-STJ, fls. 105-107).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+A jurisprudência deste Superior Tribunal de Justiça possui entendimento de que o apenado que cumpre reprimenda em regime fechado ou semiaberto poderá ser beneficiado com a remição de parte da pena, por trabalho ou por estudo.
+Entende, ainda, que a interpretação mais favorável dos dispositivos legais que tratam da matéria, é a de que os dias remidos pelo condenado devem ser considerados pena efetivamente cumprida, ou seja, não se pode descontar o tempo remido do total da pena, a teor dos arts. 126 e 128 da Lei de Execução Penal, com a redação dada pela Lei n. 12.433/2011, que assim dispõem:
+"Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+ ..
+Art. 128. O tempo remido será computado como pena cumprida, para todos os efeitos."
+Nesse sentido, confiram-se os seguintes julgados:
+"HABEAS CORPUS. ART. 128, DA LEI DE EXECUÇÕES PENAIS. ACRÉSCIMO DOS DIAS REMIDOS AO TEMPO DE PENA EFETIVAMENTE CUMPRIDO QUE SE IMPÕE. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Segundo regra disposta no art. 128, da Lei de Execuções Penais, " o  tempo remido será computado como pena cumprida, para todos os efeitos" (redação conferida pela Lei n.º 12.433/2011).
+2. Ordem de habeas corpus concedida, para determinar que os dias remidos pelo Paciente sejam considerados como dias de efetivo cumprimento de pena, para fins de progressão de regime."
+(HC 174.947/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 23/10/2012, DJe 31/10/2012, grifou-se.)
+"HABEAS CORPUS. EXECUÇÃO PENAL. DIAS REMIDOS. CONTAGEM. PENA EFETIVAMENTE CUMPRIDA.
+1. A redação do art. 128 da Lei nº 12.433, de 29 de junho de 2011, que dispõe sobre a remição de parte do tempo de execução da pena por estudo ou por trabalho, estabelece o seguinte: "Art. 128. O tempo remido será computado como pena cumprida, para todos os efeitos."
+2. Esta Corte já tinha firmado o entendimento segundo o qual o tempo remido deve ser considerado como pena efetivamente cumprida para fins de obtenção dos benefícios da execução e não simplesmente como tempo a ser descontado do total da pena.
+3. Ordem concedida a fim de restabelecer a decisão do Juízo das Execuções Criminais, que considerou os dias remidos como pena efetivamente cumprida para obtenção de benefícios da execução."
+(HC 205.895/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 23/08/2011, DJe 08/09/2011.)
+Dessa forma, o entendimento adotado pelas instâncias ordinárias encontra-se dissonante da jurisprudência deste Superior Tribunal de Justiça, o que evidencia o constrangimento ilegal.
+Ora, o que pretende o paciente não é a "dupla incidência da remição", mas que, primeiro, seja elaborado o cálculo para os benefícios da execução e, posteriormente, seja realizado a subtração dos dias remidos, não do total da pena, mas do tempo de pena efetivamente cumprido.
+ Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para determinar ao Juízo da Execução o refazimento dos cálculos no sentido de que os dias remidos sejam sejam descontados do lapso temporal para a obtenção de benefícios da execução, como pena efetivamente cumprida, nos termos do art. 128 da LEP, e não do total da pena, bem como sejam considerados como pena efetivamente cumprida para todos os efeitos.
+Publique-se. Intimem-se.
