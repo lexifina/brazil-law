@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto pela Companhia Imobiliária de Brasília - TERRACAP contra decisão da Corte de origem que não admitiu o recurso especial em razão de sua deserção.
+O apelo nobre obstado enfrenta acórdão assim ementado (fls. 1043/1044):
+DIREITO PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. [NOME]. PRELIMINAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. PRELIMINAR ACOLHIDA. APELAÇÃO NÃO CONHECIDA. OMISSÃO NA SENTENÇA. INEXISTÊNCIA. OUTORGA DE ESCRITURA DEFINITIVA. REQUISITOS. MANUTENÇÃO DO QUANTITATIVO DE EMPREGOS. LEI Nº 3.196/03. DECRETO Nº 24.430/04. PREVISÃO EXPRESSA. TAXA DE OCUPAÇÃO. PAGAMENTO INDEVIDO. DEDUÇÃO DO VALOR DO IMÓVEL. SENTENÇA MANTIDA.
+1. Apelações de ambas as partes contra sentença em que se julga parcialmente procedentes os pedidos deduzidos em ação cominatória relativa a concessão de benefício do PRÓ -DF II, apenas para se assegurar ao beneficiário a dedução da taxa de ocupação e os descontos previstos na contratação.
+2. Nos termos do artigo 932, inciso Ill, do Código de Processo Civil, não se conhece da apelação, por ausência de impugnação específica aos fundamentos da sentença se a parte reproduz a mesma peça em manifestação ação prévia ao pedido liminar, em contestação, em apelação e em contrarrazões de apelação, notadamente quando a controvérsia dos autos envolve a análise da presença dos pressupostos fáticos para a incidência de determinado diploma normativo.
+3. 0 não acolhimento de todos os pedidos formulados pela parte não representa omissão na sentença.
+4. A Lei nº 3.196/03 e o Decreto nº 24.430/04, que a regulamentou, exigem, para a outorga de escritura de compra e venda de imóvel decorrente do programa PRO -DF II, o cumprimento de todos os requisitos legais e contratuais, dentre os quais, a manutenção do quantitativo de empregos previstos no Projeto de Viabilidade Técnica, Econômica e Financeira do empreendimento, pelo prazo de 05 (cinco) anos, contados da data da emissão do Atestado de Implantação Definitiva. Por isso, legítima a exigência para a outorga da escritura de compra e venda do terreno.
+5. Não se pode atribuir ao Ente Público a responsabilidade integral pela demora na emissão do Atestado de Implantação Definitiva do projeto apresentado pelo empreendedor, a partir de quando seria suspensa a cobrança da taxa de ocupação, se, de acordo com a prova dos autos o interessado também contribuiu para demora ao não apresentar, em duas oportunidades, os documentos necessários para se averiguar o cumprimento de todos os requisitos legais e contratuais.
+6. Não há que se falar em restituição dos valores pagos indevidamente, a título de taxa de ocupação, uma vez que tal montante será deduzido do valor final do imóvel, a ser pago pela Apelante à Terracap.
+7. Apelação da Ré não conhecida. Apelação da Autora parcialmente provida.
+Embargos de declaração acolhidos com efeitos modificativos em acórdão assim ementado (fls. 1110/1111):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO DE FUNDAMENTAÇÃO VINCULADA. OMISSÃO SUPRIDA. PRO-DF II. SUSPENSÃO DA OBRIGAÇÃO DE PAGAR TAXA DE OCUPAÇÃO. TERMO INICIAL. DIVERGÊNCIA ENTRE A EMENTA E O DISPOSITIVO DO ACÓRDÃO. CONTRADIÇÃO SANADA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA E RECURSAIS. OMISSÃO SANADA.
+1. Os Embargos de Declaração constituem-se em espécie de recurso de fundamentação vinculada e de efeito devolutivo restrito, uma vez que seu conteúdo limita-se às hipóteses delineadas no art. 1.022 do CPC/2015 (art. 535 do CPC/73), sendo vedada a rediscussão da matéria.
+2. Se o ponto alegadamente omisso foi devidamente analisado e efetivamente decidido no acórdão impugnado, impõe-se negar provimento aos Embargos dei: Declaração. Diversamente, constatada omissão na fundamentação na parte em que indeferiu um dos pleitos formulados pela embargante em sua Apelação, o caso é de suprir a omissão com motivação suficiente.
+3. Pode-se extrair dos §§ 7º e 11º, d artigo 23, § 7º, do Decreto 24.430/04, o qual regulamentou a Lei 3.196/03 (Institui o Programa de Apoio ao Empreendimento Produtivo do Distrito Federal - PRÓ -DF II - e dá outras providências) que o fato autorizador da suspensão da obrigação de pagar a taxa de ocupação, não é a data em que se cumpriu os requisitos legais, mas sim, a efetiva expedição do Atestado de Implantação Provisório. Além disso, no caso dos autos, não se pode afirmar que a demora nessa expedição do atestado referido tenha se dado em decorrência de culpa exclusiva da TERRACAP.
+4. Aintenção de prequestionar a matéria, por si só, não autoriza o provimento do recurso.
+5. Constatada divergência entre a ementa e o dispositivo do acórdão, mister o provimento dos Embargos de Declaração para correção.
+6. Como o acórdão embargado não disciplinou os honorários de sucumbência e honorários recursais, a omissão deve ser sanada nesta via.
+7. Cotejando os pedido formulados na inicial com o dispositivo da sentença, no qual apenas alguns dos pedidos foram deferidos, percebe-se que se revela adequado estabelecimento dos ônus da sucumbência, à razão de metade para cada parte.
+8. Tendo em vista o não conhecimento do recurso do Distrito.
+Federal, bem como o desprovimento do recurso da autora, impõe-se a majoração dos honorários fixados na origem, para ambas as partes, em 1% (um por cento), no termos do artigo 85, § 11, CPC.
+9. Nas razões dos Embargos de Declaração da TERRACAP evidencia-se o intuito de manifestar inconformismo contra decisão colegiada que não conheceu do seu recurso de Apelação, razão pela qual se deve negar provimento aios embargos.
+10. Embargos de Declaração de ambas as partes parcialmente providos.
+No recurso especial, o recorrente sustenta ofensa aos artigos 932 e 1.010, III, ambos do CPC/2015, ao fundamento de que deveria ter lhe sido concedido o prazo de cinco dias úteis para sanar o vício apontado pela Corte de origem, bem como que o recurso de apelação interposto atende ao requisito da dialeticidade.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+De início, frise-se que não é possível conhecer do recurso especial que apresenta suposta violação dos arts. 932 e 1.010 do CPC/2015, pois os dispositivos indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Incidência da Súmula 284/STF.
+Assevera-se, apenas por excesso de zelo, que o parágrafo único do supramencionado art. 932 do NCPC diz respeito às hipóteses de saneamento de possíveis vícios materiais ou de complementação de documentação probatória, e não para casos concernentes à tese argumentativa ou forma em que foi redigida a irresignação, como por exemplo, a desobediência à dialeticidade recursal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
