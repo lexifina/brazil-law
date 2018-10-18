@@ -1,0 +1,21 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. LICENÇA-PRÊMIO. CORREÇÃO MONETÁRIA. RETORNO DOS AUTOS À ORIGEM PARA SOBRESTAMENTO ATÉ O JULGAMENTO DO RESP 1.495.146/MG, DO RESP N. 1.495.144/RS E DO RESP 1.492.221/PR PARA OS FINS DO ART.1.040 DO CPC/2015.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial da UNIÃO fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA NEM CONTABILIZADA QUANDO DA APOSENTADORIA. CONVERSÃO EM PECÚNIA. DIREITO. EXISTÊNCIA.
+1. A ausência de prévio requerimento administrativo não configura falta de interesse processual quando oferecida resistência à pretensão autoral, ainda que em sede de recurso.
+2. Os Tribunais Superiores pacificaram o entendimento no sentido de reconhecer o direito do servidor aposentado à conversão em pecúnia das licenças-prêmios não gozadas e não computadas em dobro quando da aposentadoria, desde que preenchidos os requisitos legais, de modo a evitar o enriquecimento sem causa por parte da Administração Pública.
+3. Atestado na esfera administrativa o direito do postulante a 15 (quinze) meses de licença-prêmio.
+4. Considerando que o col. Supremo Tribunal Federal, nos autos do RE 870.947, julgado em 16/04/15, reconheceu a existência de repercussão geral a respeito da validade jurídico-constitucional da correção monetária e dos juros moratórios na forma estabelecida pelo art. 5o da Lei 11.960/09 (no que toca à condenação imposta à Fazenda Pública até a expedição do requisitório), é de se aplicar o Manual de Cálculos da Justiça Federal vigente à época da execução do julgado.
+5. Apelação desprovida.
+Os embargos de declaração apresentados na origem não foram providos.
+No recurso especial, a parte recorrente aponta violação do art. 1º-F da Lei 9.494/97, aduzindo que os juros e correção monetária acrescido ao pagamento de valores, a título de licença-prêmio, estão em desconformidade com a lei.
+Sobreveio juízo negativo de admissibilidade fundado: (a) na existência de matéria constitucional, não cabendo tal análise no âmbito do Superior Tribunal de Justiça; e (b) na consonância entre o acórdão regional e a jurisprudência predominante do STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houuve apresentação de contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Superior Tribunal de Justiça, nos seguintes feitos: REsp 1.495.146/MG, REsp 1.495.144/RS e REsp 1.492.221/PR  todos da relatoria do Min. Mauro Campbell Marques (DJe de 11.11.2014)  , submeteu à Primeira Seção/STJ a questão relativa à aplicabilidade do art. 1º-F da Lei 9.494/97, com redação dada pela Lei 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora.
+A admissão de recurso especial como representativo da controvérsia impõe que os recursos interpostos (na Corte de origem), que tratem da mesma questão central, fiquem suspensos até o pronunciamento definitivo deste Tribunal. Posteriormente, tais recursos devem ser apreciados na forma prevista no art. 1.040 do CPC/2015. Por tais razões, os recursos não merecem exame por este STJ.
+Desse modo, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a devida baixa nesta Corte, para que, após publicado o acórdão relativo ao recurso representativo da controvérsia, o respectivo recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; (ou) 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
