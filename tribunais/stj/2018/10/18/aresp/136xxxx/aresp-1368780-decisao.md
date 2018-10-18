@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO AOS ARTS. 11 E 489 DO CPC/2015. INOCORRÊNCIA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] e OUTRO, em face de decisão proferida pelo Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 353 e-STJ):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. COMISSÃO ESPECIAL DE INQUÉRITO. CÂMARA DE VEREADORES DO MUNICÍPIO DE DIVISOPOLIS. FATO DETERMINADO PARA INSTAURAÇÃO DEVIDAMENTE VERFICADO. VIOLAÇÃO À AMPLA DEFESA E AO CONTRADITÓRIO NÃO DEMONSTRADO. DIREITO LÍQUIDO E CERTO AUSENTE. SENTENÇA MANTIDA.
+- O mandado de segurança mostra-se via apropriada para as hipóteses de proteção a direito liquido e certo que tenha sido vilipendiado por ato praticado por autoridade coatora, segundo se conclui do panorama normativo de mencionada via mandamental, em especial o disposto no artigo 5º, inciso LXIX, da Constituição da República, combinado com o artigo 1º da Lei nº 12.016/09.
+- Não ocorre violação a direito liquido e certo se a comissão de inquérito pela Câmara de Vereadores de Divisópolis aponta situações passíveis de apuração claramente definidas, mostrando-se legitimo o ato administrativo envolvendo sua instauração, em face da adequada delimitação do objeto da investigação.
+- Dada a ausência de demonstração por parte dos vereadores investigados de violação à ampla defesa e ao contraditório por comissão parlamentar instaurada a fim de verificar possíveis irregularidades, não há como se declarar a nulidade do procedimento.
+Os embargos de declaração fora rejeitados. (e-STJ, fls 372/379)
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação aos arts. 11 e 489, II e § 1º, I e IV, do CPC/2015, pois o Tribunal de origem não teria se manifestado acerca de todas as teses suscitadas pelo recorrente em grau de apelação.
+Devidamente intimada a parte recorrida não apresentou contrarrazões.
+Decisão de inadmissibilidade do recurso especial. (e-STJ, fls. 404/406)
+Nas razões do agravo em recurso especial, o recorrente impugna todos os fundamentos da decisão de inadmissibilidade.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do recurso especial.
+Quanto à alegação de violação dos arts. 11 e 489, II e § 1º, I e IV, do CPC/2015, destaca-se que o acórdão foi preciso e suficientemente claro no desenvolvimento de seus fundamentos. Em verdade, o Tribunal decidiu de maneira fundamentada que a Casa Legislativa de Divinópolis cumpriu com tramites legais previstos na legislação pertinente, seguindo as exigências necessárias para a instauração da CPI.
+Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos dispositivos mencionados, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXERCÍCIO PROFISSIONAL. OAB. EXAME DE ORDEM. CERTIFICADO DE APROVAÇÃO. ALEGADA VIOLAÇÃO AO ART. 489 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PROVIMENTO. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL.
+IMPOSSIBILIDADE DE ANÁLISE, EM RECURSO ESPECIAL. AGRAVO INTERNO IMPROVIDO. (..) III. Não há falar, na hipótese, em violação ao art. 489 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida. (..) VII. Agravo interno improvido. (AgInt no REsp 1739534/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/09/2018, DJe 01/10/2018)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
