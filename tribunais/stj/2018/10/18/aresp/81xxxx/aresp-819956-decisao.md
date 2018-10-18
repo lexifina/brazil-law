@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Mato Grosso.
+Sustenta a Defesa, nas razões do recurso especial, violação dos arts. 59, caput, e 61, I, ambos do Código Penal.
+Alega que a pena-base foi estabelecida acima do mínimo legal de forma desproporcional, em razão dos maus antecedentes, e que o quantum de aumento na segunda fase da dosimetria, diante da reincidência, em 1/5, também seria extremamente elevado.
+Requer o provimento do recurso para que seja reduzida a pena do recorrente.
+Apresentadas as contrarrazões (e-STJ, fls. 333-340), o recurso foi inadmitido com fundamento na Súmula 7 do STJ (e-STJ, fls. 342-344). Daí este agravo (e-STJ, fls. 348-356).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 374-382).
+É o relatório.
+Decido.
+No caso dos autos, o Juiz de 1º grau, na primeira fase da dosimetria da pena, considerou como desfavoráveis os antecedentes, pois "o acusado tem pendente contra si quatro condenações com trânsito em julgado por crimes praticados anteriormente a este delito, sendo que duas delas serão consideradas para valorar negativamente os antecedentes do acusado nesta fase da dosagem penal e as demais serão sopesadas na fase seguinte como agravante" (e-STJ, fl. 174).
+A pena-base foi fixada em 5 (cinco) anos de reclusão, ou seja, 1 (um) ano acima do mínimo legal previsto para o crime de roubo, e 20 (vinte) dias-multa.
+Na segunda etapa dosimétrica, diante da agravante da reincidência, o Magistrado elevou a pena em 1 (um) ano, estabelecendo a pena provisória em 6 (seis) anos de reclusão, mais o pagamento de 30 (trinta) dias-multa.
+Na terceira fase, aumentou a pena em 1/3 (um terço), diante do emprego de arma de fogo, fixando a pena do agravante em 8 (oito) anos de reclusão mais o pagamento de 50 (cinquenta) dias-multa.
+O Tribunal de origem, por sua vez, negou provimento ao recurso da Defesa, explicitando que "a utilização de condenações distintas, e com o trânsito em julgado, para fins de aumento de pena por maus antecedentes, e também por reincidência, não viola o princípio do non bis in idem" (e-STJ, fl. 304), além de considerar proporcional o aumento da pena na primeira e na segunda fases da dosimetria.
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+In casu, verifica-se que a pena-base foi fixada em 1 (um) ano acima do mínimo legal, o que foi mantido pelo Tribunal de origem, que considerou como circunstâncias judiciais desfavoráveis ao agravante os antecedentes.
+A jurisprudência desta Corte admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, ficando apenas vedado o bis in idem. Assim, tendo em vista a existência de quatro condenações transitadas em julgado, duas sopesadas na primeira etapa do procedimento dosimétrico, e as demais na segunda fase, não se vislumbra, no ponto, violação da lei federal.
+Por outro lado, no que diz respeito ao quantum de aumento da pena-base, cumpre salientar que "o Superior Tribunal de Justiça entende que o julgador não está adstrito a critérios puramente matemáticos, havendo certa discricionariedade na dosimetria da pena, vinculada aos elementos concretos constantes dos autos. No entanto, o quantum de aumento, decorrente da negativação das circunstâncias, deve observar os princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime, informadores do processo de aplicação da pena" (REsp 1599138/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018).
+Na hipótese, considerando as penas mínima e máxima abstratamente cominadas ao delito de roubo (4 a 10 anos de reclusão), e a existência de uma circunstância judicial desfavorável (antecedentes), tem-se que a pena-base foi fixada de acordo com o princípio da legalidade e pautada por critérios de proporcionalidade e razoabilidade, não merecendo, portanto, qualquer reparo.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. PROPORCIONALIDADE. AGRAVO NÃO PROVIDO.
+1. São proporcionais as penas-base estabelecidas aos recorrentes, diante da valoração negativa de uma circunstância judicial, qual seja as circunstâncias - 1 ano acima do mínimo legal -, se considerados os patamares mínimo e máximo previstos para o tipo penal que incide na espécie - de 4 a 10 anos de reclusão.
+2. Agravo regimental não provido."
+(AgRg no AREsp 1068497/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/08/2017, DJe 31/08/2017).
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. ROUBO MAJORADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. ELEVADO VALOR DA RES FURTIVA. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE RESPEITADA. SANÇÃO MANTIDA. REGIME PRISIONAL FECHADO. MANUTENÇÃO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL, ANTE A PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+ ..
+- Na espécie, a pena-base do crime de roubo foi estabelecida um ano acima do mínimo legal ante a maior reprovabilidade da conduta, pois o paciente subtraiu um veículo, bem de elevado valor patrimonial, entendimento que se amolda à jurisprudência deste Tribunal Superior. Precedentes.
+- Logo, em respeito à discricionariedade vinculada do julgador, deve ser mantida a pena-base aplicada - 5 anos de reclusão -, pois proporcional à gravidade concreta do crime e à variação das penas abstratamente cominadas ao tipo penal violado, qual seja, 4 a 10 anos de reclusão.
+- Esta Corte firmou o entendimento no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada na reincidência ou nas circunstâncias judiciais previstas no art. 59 do Código Penal. Inteligência das Súmulas n. 440/STJ e n. 719 e 718, ambas do STF.
+- Hipótese em que, apesar de a pena final do paciente ter sido estabelecida em patamar inferior a oito anos de reclusão, a presença de circunstância judicial desfavorável, que justificou a exasperação da pena-base acima do mínimo legal, impede o reconhecimento do alegado constrangimento ilegal, devendo ser mantido o inicial regime fechado estabelecido pelas instâncias ordinárias, com lastro nos arts. 33, § 3º, e 59, ambos do CP. Precedentes.
+- Habeas corpus não conhecido."
+(HC 425.089/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/12/2017, DJe 13/12/2017).
+Lado outro, o Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+No caso, a consideração da dupla reincidência do recorrente constitui motivação válida para a escolha da fração em 1/5, razão pela qual não há ilegalidade no cálculo da pena na segunda fase da dosimetria.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. FRAÇÃO DE AUMENTO SUPERIOR À 1/6 (UM SEXTO) NA SEGUNDA FASE DA DOSIMETRIA. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL PROVIDO.
+ ..
+II - Consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração superior à 1/6 (um sexto), pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea. III - Verifica-se que houve fundamentação idônea a lastrear o valor fracionário utilizado em patamar diverso à 1/6 (um sexto), em razão da reincidência específica ostentada pelo réu. Precedentes.
+IV - O v. acórdão combatido está em consonância com a jurisprudência deste Tribunal Superior, inexistindo flagrante ilegalidade no aumento operado em patamar diverso à 1/6 (um sexto), em razão da reincidência específica ostentada pelo réu.
+V - Ante o exposto, dou provimento ao agravo regimental para restabelecer o aumento operado pelas instâncias ordinárias, na segunda fase da dosimetria, na fração de 1/4 e fixar a pena definitiva do réu EMERSON GOMES em 8 (oito) e 3 (três) meses de reclusão, em regime fechado, mais pagamento de 20 (vinte) dias-multa, mantidos os demais termos da condenação.
+Agravo regimental provido."
+(AgRg no HC 403.600/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/05/2018, DJe 08/05/2018).
+" ..  AUMENTO PELA DUPLA REINCIDÊNCIA DO RÉU. PROPORCIONALIDADE. INCIDÊNCIA DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. AUMENTO SUPERIOR A 1/3 NA TERCEIRA FASE DA DOSIMETRIA DO CRIME DE ROUBO FUNDAMENTADO. WRIT NÃO CONHECIDO.
+ ..
+7. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. A aplicação de fração superior a 1/6 exige motivação concreta e idônea. No caso, a consideração da dupla reincidência do paciente Leonardo constitui motivação válida para a escolha da fração em 1/4, razão pela qual não se verifica manifesta ilegalidade no cálculo da pena, a autorizar a concessão da ordem de ofício.
+ ..
+10. Writ não conhecido."
+(HC 375.060/SP, de minha relatoria, QUINTA TURMA, julgado em 05/12/2017, DJe 12/12/2017, grifou-se).
+" ..  REDUÇÃO DA FRAÇÃO DE AUMENTO PELA REINCIDÊNCIA. INVIABILIDADE. AUMENTO DA PENA JUSTIFICADO ANTE A MULTIRREINCIDÊNCIA DO PACIENTE. PENA DE MULTA. INCONSTITUCIONALIDADE. IMPOSSIBILIDADE DE ANÁLISE NA VIA ELEITA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Em se tratando de atenuantes e agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta.
+- Hipótese em que a fração de 1/4, utilizada para agravar a pena na segunda fase da dosimetria, lastreou-se no fato de pesarem contra o paciente três outras condenações definitivas, fundamentação idônea e de acordo com o postulado da proporcionalidade. Precedentes.
+ ..
+- Habeas corpus não conhecido."
+(HC 392.299/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/11/2017, DJe 12/12/2017).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
