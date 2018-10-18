@@ -1,0 +1,13 @@
+DECISÃO
+Nos termos do art. 1.001 do Novo Código de Processo Civil, não cabe a interposição de recurso contra despacho. Contudo, em atenção ao princípio da primazia da resolução de mérito, recebo este recurso como petição.
+Em face da manifestação de fls. 207/210 e com base na nova deliberação da Segunda Seção deste Superior Tribunal de Justiça, ocorrida em 22 de agosto de 2018, acerca da continuidade dos feitos que envolvam expurgos inflacionários em caderneta de poupança, em fase de execução de sentença, quando a parte manifesta seu desinteresse no acordo homologado pelo Supremo Tribunal Federal, torno sem efeito o despacho de fls. 202/203 e passo ao exame do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão denegatória de recurso especial interposto por BANCO DO BRASIL S/A fundado no artigo 105, inciso III, alínea a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de São Paulo.
+Nas razões do nobre apelo, o ora Agravante discute os seguintes temas: a) correção dos débitos relativos aos expurgos inflacionários nas cadernetas de poupança; e, b) honorários advocatícios em impugnação ao cumprimento de sentença.
+É o relatório. Decido.
+Inicialmente, o presente recurso não comporta conhecimento quanto à apontada ofensa ao art. 5.º, inciso II, da Constituição Federal, uma vez que a violação a dispositivos constitucionais não pode ser objeto de recurso especial, porquanto matéria própria de apelo extraordinário para a eg. Suprema Corte, consoante disposto no art. 102, inciso III, da Constituição Federal.
+No mais, verifica-se que o Tribunal a quo não emitiu nenhum juízo de valor acerca da matéria tratadas no recurso especial.
+Resta, nessa hipótese, configurada a ausência de prequestionamento, o que atrai a inarredável incidência das Súmulas 282 e 356/STF, mormente porque o recorrente sequer opôs Embargos de Declaração com o fim de ofertar à Corte estadual a possibilidade da análise acerca do conteúdo dos referidos pedidos.
+A exigência do prequestionamento, impende destacar, não é mero rigorismo formal, que pode ser afastado pelo julgador a que pretexto for. Ele consubstancia a necessidade de obediência aos limites impostos ao julgamento das questões submetidas ao Superior Tribunal de Justiça, cuja competência fora outorgada pela Constituição Federal, em seu artigo 105.
+Ante o exposto, recebo o agravo interno como petição, torno sem efeito o despacho de sobrestamento do processo e, ainda, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado, em desfavor do Banco do Brasil, em 15% sobre o valor já arbitrado nas instâncias de origem.
+Publique-se. Intimem-se.
