@@ -1,0 +1,53 @@
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. TRANSPORTE RODOVIÁRIO. ACIDENTE. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. DANO MORAL. VALOR. FIXAÇÃO EM PATAMAR RAZOÁVEL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PENSÃO VITALÍCIA. AUSÊNCIA DE COMPROVAÇÃO DA PERDA OU REDUÇÃO DA CAPACIDADE LABORATIVA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
+DECISÃO
+[NOME] ([NOME]) promoveu contra EMTRAM EMPRESA DE TRANSPORTES MACAUBENSE (EMTRAM), ação de indenização decorrente de acidente envolvendo ônibus de propriedade da ré no qual era passageiro.
+Afirmou que sofreu graves lesões por conta do acidente, tendo que implantar seis pinos na perna esquerda, além de submeter-se a inúmeras sessões de fisioterapia, passando a ter dificuldades de locomoção.
+A ré EMTRAM denunciou a lide a NOBRE SEGURADORA DO BRASIL (NOBRE SEGURADORA).
+ Os pedidos foram julgados parcialmente procedentes, condenando-se solidariamente EMTRAM e NOBRE SEGURADORA ao pagamento de danos materiais e morais, bem como na pensão mensal vitalícia (e-STJ, fls. 754/758).
+Recursos interpostos pelas partes, o Tribunal de origem negou provimento ao recurso de [NOME], provendo o apelo da EMTRAM provimento, em acórdão assim ementado:
+Ação indenizatória por danos materiais e morais - Responsabilidade civil por acidente de transporte rodoviário de passageiros - Ação julgada parcialmente procedente - Recurso do autor pretendendo a majoração do dano moral - Dever de indenizar bem reconhecido - Danos morais que se comprovam com o próprio fato (damnum in re ipsa) - Valor da indenização arbitrado em consonância aos critérios da razoabilidade e proporcionalidade - Recurso do autor negado.
+Seguro obrigatório - O valor do seguro obrigatório dispensa comprovação do recebimento ou mesmo do requerimento (súmula 246 do STJ) - Valor a ser deduzido da indenização - Sentença reformada - Recurso da ré provido.
+Acidente de transporte rodoviário de passageiros - Pensão vitalícia - Pensionamento mensal vitalício indevido, por inexistir comprometimento físico a resultar perda ou redução da capacidade laborativa da vítima - Sentença reformada - Recurso da ré proVido.
+Sucumbência - Acolhimento parcial do pedido inicial - Repartição proporcional da sucumbência, nos termos do art. 82, §§2º e 14 e 86 do CPC/2015 - Sentença mantida - Recurso do autor negado.
+Recurso do autor negado e recurso da ré provido (e-STJ, fl. 1.058).
+Inconformado, [NOME] interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 944 e 950 do CC/02 e 373, II do NCPC, alegando, em síntese (1) que o valor fixado pelo dano moral é ínfimo, levando-se em consideração as peculiaridades do caso, devendo sofrer majoração; e, (2) que tem direito ao recebimento de pensão vitalícia, tendo em vista a diminuição da capacidade laborativa, comprovada pela perícia.
+Suscitou dissídio jurisprudencial para defender a tese de que não é possível haver o abatimento do seguro DPVAT da indenização sem o comprovante de seu recebimento.
+Em juízo de admissibilidade, a presidência da seção de direito privado do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Sem contraminuta.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Dano Moral - Quantum
+A lei não fixa valores ou critérios para a quantificação do dano moral, que entretanto deve ter assento na regra do art. 944 do CC/02. Por isso, esta Corte tem se pronunciado reiteradamente no sentido de que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Desta forma, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PUBLICAÇÃO DE MATÉRIA JORNALÍSTICA. 1. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. 2. DANOS MORAIS. QUANTUM INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE OBSERVADAS. IMPOSSIBILIDADE DE MAJORAÇÃO. SÚMULA 7/STJ. 3. AGRAVO DESPROVIDO.
+1. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento é imprescindível que se demonstre de forma clara os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão. Impositiva a incidência do entendimento jurisprudencial expresso no enunciado n. 284 da Súmula do STF.
+2. A jurisprudência desta Corte é firme no sentido de que a redução ou majoração do quantum indenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n. 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos.
+3. Agravo interno desprovido.
+(AgInt no REsp 1655592/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 22/8/2017, DJe 4/9/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/2015) - AÇÃO CONDENATÓRIA (INDENIZAÇÃO) - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. O óbice da Súmula nº 7 do STJ inviabiliza o pleito de revisão do quantum indenizatório arbitrado a título de danos morais, se este não se revelar irrisório ou exorbitante, como no presente caso.
+2. Agravo interno desprovido.
+(AgInt no AREsp 996.785/DF, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 17/8/2017, DJe 28/8/2017)
+No caso concreto, o valor fixado na sentença e mantido pelo Tribunal de origem para a indenização por danos morais (R$ 15.000,00 - quinze mil reais), não se mostra irrisório a justificar a excepcional intervenção desta Corte no presente feito.
+(2) Da Pensão Vitalícia - Perda ou redução da capacidade laborativa - Não comprovação
+A turma julgadora concluiu que a perda ou redução da capacidade laborativa não foi comprovada, afastando a condenação ao pagamento da pensão vitalícia. Confira-se o aresto recorrido:
+Com relação à pensão mensal vitalícia, a r. sentença merece reforma, eis que não comprovada a perda ou redução da capacidade laborativa do autor em decorrência das lesões causadas pelo acidente.
+A perícia realizada pelo IMESC concluiu que, apesar da existência de sequelas definitivas na perna esquerda do autor (com grau de comprometimento patrimonial físico na ordem de 7,0%), não houve limitação funcional e impedimento para o trabalho (fls.469/474). Aliás, o próprio autor, por ocasião do exame, informou ao perito que já estava trabalhando normalmente como manobrista (atividade que exerce atualmente), não relatando qualquer dificuldade no exercício dessa tarefa (fls. 173 e 494/495).
+Desse modo, não se comprovando a perda ou redução da capacidade laborativa, consoante determina o art. 950 do Código Civil, incabível a concessão de pensão mensal vitalícia pleiteada na inicial, portanto, impondo-se sua exclusão da condenação (e-STJ, fls. 1.066/1067 - sem destaque no original)
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+(3) Do Dissídio Jurisprudencial - Ausência de Demonstração
+Verifica-se que o recorrente não demonstrou a divergência jurisprudencial por meio do cotejo analítico com transcrição de trechos dos acórdãos recorrido e paradigmas que exponha a similitude fática e a diferente interpretação da Lei Federal entre os casos confrontados, conforme exigência dos artigos 541, parágrafo único, do CPC/73 (atual 1.029, § 1º do NCPC) e 255, § 1º, do RISTJ, não bastando a mera transcrição da ementa dos julgados paradigmas, sendo este o entendimento pacífico nesta Corte de Justiça.
+Confira-se acórdão da Segunda Seção desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO. NÃO REALIZAÇÃO. MERA TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DE SIMILITUDE FÁTICA. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO.
+1. A divergência jurisprudencial, nos termos do artigo 266, § 1º, c/c o artigo 255, §§ 1º e 2º, do RISTJ, exige comprovação e demonstração com a transcrição dos trechos dos julgados que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+2. Se não realizado o cotejo analítico ou ausente a similitude de base fática entre os arestos comparados, não há como se caracterizar a divergência jurisprudencial.
+3. Por serem espécie de recurso de fundamentação vinculada e dotado da finalidade única de unformizar a jurisprudência do Superior Tribunal de Justiça, os embargos de divergência estão adstritos ao dissídio pretoriano suscitado, sendo inadequados para o fim de corrigir equívocos outros supostamente ocorridos no julgamento do recurso especial. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EAREsp 971.729/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 25/10/2017, DJe 31/10/2017)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
