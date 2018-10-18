@@ -1,0 +1,31 @@
+EMENTA
+ADMINISTRATIVO. AÇÃO COLETIVA PROPOSTA POR ASSOCIAÇÃO CIVIL. LEGITIMIDADE ATIVA. REPRESENTAÇÃO PROCESSUAL. AUTORIZAÇÃO EXPRESSA DOS ASSOCIADOS. NECESSIDADE. ENUNCIADO ADMINISTRATIVO 3/STJ. ARGUMENTOS BASEADOS NA SEARA FÁTICO-PROBATÓRIA DOS AUTOS. IMPOSSIBILIDADE DE REANÁLISE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial da ASSOCIAÇÃO DOS SERVIDORES DO INCRA NO ESTADO DO PARANÁ fundado nas alíneas "a" e "c" do permissivo constitucional, interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. JUÍZO DE RETRATAÇÃO. AÇÃO COLETIVA PROPOSTA POR ASSOCIAÇÃO CIVIL. LEGITIMIDADE ATIVA. REPRESENTAÇÃO PROCESSUAL. AUTORIZAÇÃO EXPRESSA DOS ASSOCIADOS. NECESSIDADE.
+1. De acordo com o que restou decidido pelo Supremo Tribunal Federal, no julgamento do RE nº 573232, conforme a sistemática prevista nos arts. 1.030, II, e 1.040, II, do CPC/2015, as associações, ao atuarem na defesa dos interesses dos seus integrantes, agem na condição de representantes e não de substitutas processuais, sendo, portanto, necessária a apresentação de expressa autorização dos associados para o ajuizamento da ação (art. 5º, inciso XXI, da Constituição Federal), a qual pode ser dada individualmente ou mediante deliberação específica em assembléia geral, não bastando, para tanto, genérica autorização constante do estatuto da entidade.
+2. Diversamente do que restou consignado pela 3ª Turma no julgamento da Apelação Cível n. 5056611-60.2015.4.04.7000/PR, em 12/07/2016, a ASSINCRA não possui legitimidade para substituir os seus associados; todavia, possui legitimidade para representá-los, já que expressamente autorizada para tanto.
+3. Após retificação e complementação apresentadas, é de se manter o provimento do apelo, a fim de que a ação civil pública tenha regular processamento.
+Os embargos de declaração foram acolhidos, a fim de sanar o equívoco apontado, reconhecendo a ilegitimidade ativa da ASSINCRA/PR, atribuindo-lhe efeito infringentes para, em juízo de retratação, negar provimento ao apelo da associação.
+EMBARGOS DE DECLARAÇÃO. EQUÍVOCO SANADO. EFEITOS INFRINGENTES. ILEGITIMIDADE ATIVA DA ASSOCIAÇÃO. PREQUESTIONAMENTO. DISCIPLINA DO ARTIGO 1.025 DO CÓDIGO DE PROCESSO CIVIL.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+2. Hipótese em que se acolhem os embargos de declaração para sanar o equívoco apontado, reconhecendo-se a ilegitimidade ativa da ASSINCRA/PR para a propositura da presente demanda, face à ausência da lista dos servidores associados que autorizaram a representação judicial, atribuindo-se efeitos infringentes aos aclaratórios para, em juízo de retratação, negar provimento ao apelo da Associação.
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, encontra disciplina no artigo 1.025 do CPC, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração.
+A parte recorrente sustenta, em síntese, que o v. acórdão recorrido teria contrariado o disposto nos artigos 2º, parágrafo único da Lei 9.494/97 e 82, IV do CDC. Aduzindo, em síntese, que juntou a ata da assembléia que aprovou a propositura do feito e, portanto, teria legitimidade ativa para atuar na demanda.
+Contrarrazões apresentadas (e-STJ fls. 448/456).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Acórdão entendeu que:
+De acordo com o que restou decidido pelo Supremo Tribunal Federal, no julgamento do RE nº 573232, conforme a sistemática prevista nos arts. 1.030, II, e 1.040, II, do CPC/2015, as associações, ao atuarem na defesa dos interesses dos seus integrantes, agem na condição de representantes e não de substitutas processuais, sendo, portanto, necessária a apresentação de expressa autorização dos associados para o ajuizamento da ação (art. 5º, inciso XXI, da Constituição Federal), a qual pode ser dada individualmente ou mediante deliberação específica em assembléia geral, não bastando, para tanto, genérica autorização constante do estatuto da entidade.
+E, nos aclaratórios, reafirmou que:
+Hipótese em que se acolhem os embargos de declaração para sanar o equívoco apontado, reconhecendo-se a ilegitimidade ativa da ASSINCRA/PR para a propositura da presente demanda, face à ausência da lista dos servidores associados que autorizaram a representação judicial, atribuindo-se efeitos infringentes aos aclaratórios para, em juízo de retratação, negar provimento ao apelo da Associação.
+O recorrente aduz que:
+Pelo texto supra, não há dúvidas de que a propositura da ação em tela foi aprovada pela Assembléia Geral.
+A despeito disso, todavia, o V. Acórdão considerou que a Associação não detém a legitimidade para propor o presente feito porque não trouxe aos autos a lista de presença dos associados que compareceram à Assembléia Geral.
+ ..
+Disso decorre que, data venia, a exigência contida no V. Acórdão é ilegal, porquanto a lei jamais determinou que, além dos dois documentos supra, deveria ser anexada aos autos também a relação dos associados que participaram da Assembléia.
+Percebe-se que a discussão gira em torno da legitimidade ou não da associação para atuar na demanda. O Tribunal entendeu que os pressupostos não foram preenchidos, tendo em vista que estava ausente a lista de associados que autorizaram a representação judicial. Já o recorrente aduz que a Assembléia autorizou a propositura da ação.
+Fica claro que para averiguar se há ou não legitimidade, no presente caso, haveria a necessidade de se adentrar no conjunto fático probatório dos autos, o que é vedado pela súmula 7/STJ.
+Tendo em vista o óbice aplicado, fica prejudicada a análise de suposto dissídio jurisprudencial.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intime-se.
