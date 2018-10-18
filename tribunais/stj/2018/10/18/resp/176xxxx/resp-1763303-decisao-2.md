@@ -1,0 +1,10 @@
+DECISÃO
+ Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial interposto em face de acórdão assim ementado:
+INCIDENTE DE PROCESSO REPETITIVO. RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO. REEXAME DO ACÓRDÃO. ART. 1.030, INCISO II DO CPC/2015. AÇÃO DE BUSCA E APREENSÃO. RE Nº 592.377. RESP. Nº 1.061.530. RESP. N.º 1.058.114-RS. RESP. Nº 973.827. RESP Nº 1.251.331/RS E RESP Nº 1.255.573/RS. RECONSIDERAÇÃO DA DECISÃO. CONTRATO BANCÁRIO DE OUTORGA DE CRÉDITO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. PROTESTO. INTIMAÇÃO POR EDITAL. CASO CONCRETO. RESP PARADIGMA Nº 1.398.356/MG. COMPROVAÇÃO DO ESGOTAMENTO DOS MEIOS DISPONÍVEIS PARA LOCALIZAÇÃO DO DEVEDOR PELO TABELIÃO. COMPROVADA A PRÉVIA CONSTITUIÇÃO EM MORA. Deferimento da liminar de busca e apreensão, nos termos do art. 3º do DL 911/69.
+APELO DESPROVIDO, EM JUÍZO DE RETRATAÇÃO.
+A decisão agravada negou seguimento ao recurso com fundamento na ausência de prequestionamento (Súmulas n. 282 e 356/STF), bem como pela ausência de impugnação específica aos fundamentos da decisão recorrida (Súmula n. 283) e ausência de contrariedade ou negativa de vigência à Lei Federal, em aplicação do óbice da Súmula n. 83/STJ.
+Ocorre que o agravante não rebateu especificamente o fundamento da decisão recorrida, pois não demonstrou a inaplicabilidade do óbice da Súm. 283/STJ, limitando-se a tecer considerações de mérito e de inaplicabilidade dos óbices das Súmulas 284 e 282/STF; 5, 7 e 356/STJ.
+Assim, sem a impugnação específica e suficiente para infirmar o fundamento da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, nos termos do art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários advocatícios em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como a gratuidade de justiça concedida.
+Intimem-se.
