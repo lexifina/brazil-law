@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+SOCIEDADE. ALIENAÇÃO DE QUOTAS SOCIAIS. DESFAZIMENTO DO CONTRATO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS.
+O autor vendeu aos réus suas quotas sociais da empresa voltada à prestação de serviços de ginástica. Sucede que os réus não pagaram o valor avençado e tampouco deram continuidade às atividades empresariais, como informou o próprio autor. Assim, por não mais explorarem o negócio, retomou o autor as quotas sociais por ele antes titularizadas e, por isso, não pode pretender o autor o pagamento das quantias avençadas em contrato que não mais subsiste. Assim, não há vício na sentença, que examinou as pretensões do autor de acordo com o cenário neste momento enfrentado. Reparação por danos materiais adequadamente fixada na sentença.
+Recurso não provido.
+Nas razões do especial, aponta o recorrente a violação dos arts. 141, 344 e 492 do novo Código de Processo Civil, alegando ofensa ao princípio da congruência no presente caso, afirmando a ocorrência de decisão extra petita na hipótese dos autos. Questiona que "não há discussão com relação aos débitos não pagos pelos Recorridos, relativos às clausulas existentes no contrato, o qual, não houve qualquer pagamento/cumprimento do mesmo, deixando o Recorrente em real prejuízo financeiro" (fl. 158, e-STJ).
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, é de se ressaltar que, à luz do princípio da congruência, deve o juiz decidir a lide nos limites em que foi proposta, devendo ser a sentença adstrita à extensão do pedido formulado, sob pena de incorrer em vício, qual seja, ser citra, ultra ou extra petita.
+Ademais, quando do julgamento da apelação, deve também o tribunal se ater à matéria devolvida à sua apreciação, aplicando-se, de forma correlata, o princípio tantum devolutum quantum apellatum.
+Examinando as razões e fundamentos do acórdão atacado, verifico que o Tribunal de origem não incorreu na alegada violação do princípio da congruência ou da adstrição, destaco que o Colegiado estadual se ateve aos temas devolvidos na apelação, apresentando uma análise aprofundada sobre a questão tratada nos autos, destacando o seguinte (fls. 145-147, e-STJ):
+O autor cedeu aos réus suas quotas sociais da empresa voltada à prestação de serviços de ginástica. Sucede que os réus não pagaram o valor avençado e tampouco deram continuidade às atividades empresariais, como informou o próprio autor. Assim, por não mais explorarem o negócio, retomou o autor as quotas sociais por ele antes titularizadas e, por isso, não pode pretender o autor o pagamento das quantias avençadas em contrato que não mais subsiste.
+Assim, não há vício na sentença, que examinou as pretensões do autor de acordo com o cenário neste momento enfrentado.
+(..).
+O autor, ao que tudo indica, realizou empréstimo bancário, antes da celebração do contrato. Os recursos obtidos, ao que tudo indica, seriam aplicados no empreendimento e, como se ajustou, responderiam os réus por esta dívida.
+Entretanto, com o fim da avença e entrega do estabelecimento, não podem os réus continuar a responder por esta dívida e, por isso, não se justifica o pedido de reembolso das quantias despendidas pelo autor na quitação desta obrigação.
+De outra parte, no que tange às despesas locatícias que deixaram de ser pagas no período de exploração do estabelecimento pelos réus, a sentença, acertadamente, dispôs que os réus responderão por esta dívida, valor que deverá ser apurado em liquidação de sentença. Logo, não pode o autor pretender que os réus respondam por acordo que venha a ser entabulado entre ele e proprietária do imóvel, pois deste ajuste não terão participação os réus.
+No que toca à pretendida reparação por danos morais, afirmou o autor que teve seu nome lançado no rol de inadimplentes em virtude do não pagamento do empréstimo bancário (fls. 74). Entretanto, como visto, esta dívida foi inicialmente contraída pelo próprio autor, sendo certo que, pelo desfazimento do contrato e reassunção das quotas sociais, deve o autor por ela responder e, por isso, não se justifica a condenação dos réus ao pagamento de reparação por danos morais.
+(..).
+Diante da presunção relativa de veracidade dos fatos, pela revelia, a sentença, portanto, deve ser mantida, por seus próprios fundamentos.
+Assim, observo que o Colegiado estadual apreciou o pleito dentro dos limites apresentados pela parte recorrente na petição inicial ou nas razões recursais, não revelando julgamento ultra ou extra petita no caso. Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO - AÇÃO CONDENATÓRIA - UTILIZAÇÃO INDEVIDA DE IMAGEM PARA FINS COMERCIAIS/PUBLICITÁRIOS - DECISÃO UNIPESSOAL CONHECENDO DO AGRAVO DE INSTRUMENTO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DO RÉU.
+1. Não se verifica a alegada violação ao art. 535 do CPC, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, malgrado não ter acolhido os argumentos suscitados pelo recorrente.
+2. Não se pode reputar de extra petita a decisão que interpreta de forma ampla o pedido formulado pelas partes, pois o pedido é o que se pretende com a instauração da demanda e se extrai da interpretação lógico-sistemática da petição inicial. Precedentes.
+3. Nos termos do enunciado da súmula 403/STJ, independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais.
+4. Quanto ao pleito de redução do quantum indenizatório, observa-se que o apelo extremo esbarra em óbice formal intransponível, consistente na ausência de indicação precisa dos dispositivos legais tidos por violados. Aplicação, por analogia, da Súmula 284/STF.
+5. No caso em tela, consoante dispôs o acórdão recorrido, o fundamento da pretensão condenatória foi o uso indevido de imagem, para fins comerciais, não tendo decorrido de inadimplemento contratual. Desse modo, tratando-se de responsabilidade extracontratual, os juros de mora devem fluir a partir do evento danoso, nos termos da Súmula 54/STJ.
+6. Agravo regimental desprovido.
+(AgRg nos EDcl no Ag 1.415.130/SC, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/2/2014, DJe 14/2/2014.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PRINCÍPIO DA CONGRUÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA PETIÇÃO INICIAL.
+1. Consoante o princípio da congruência, exige-se a adequada correlação entre o pedido e o provimento judicial, sob pena de nulidade por julgamento citra, extra ou ultra petita, a teor do que prescrevem os arts. 128 e 460 do Código de Processo Civil.
+2. A pretensão deduzida em juízo não se limita a determinado capítulo da petição inicial, merecendo atenção do julgador tudo o que se pode extrair mediante interpretação lógico-sistemática das razões apresentadas. Precedentes.
+3. In casu, não se verifica a ocorrência de julgamento extra petita, uma vez que a sentença, ao condenar a ré ao pagamento de pensão vitalícia, ateve-se ao que pleiteado pelo autor no corpo da petição inicial, não obstante na sua parte final tenha requerido o pagamento de complementação de aposentadoria em face da invalidez.
+4. Recurso especial a que se nega provimento.
+(REsp n. 874.430/MA, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2011, DJe 7/12/2011.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO COMINATÓRIA COM PEDIDO DE TUTELA ANTECIPADA. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. (..)
+2. À luz dos artigos 128 e 460 do CPC/73, atuais, 141 e 492 do NCPC/15, o vício de julgamento extra petita não se vislumbra na hipótese do juízo a quo, adstrito às circunstâncias fáticas (causa de pedir remota) e ao pedido constante nos autos, proceder à subsunção normativa com amparo em fundamentos jurídicos diversos dos esposados pelo autor e refutados pelo réu.
+3. (..)
+4. O Tribunal de origem, com base nas provas dos autos e no contrato, entendeu que o reembolso das despesas médicas realizadas fora da rede credenciada era devido. Assim, a revisão de tal entendimento esbarra nos óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+(AgInt no AREsp 1191919/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 28/2/2018.)
+No mais, ao contrário do alegado neste recurso especial, o Tribunal local, após minudente análise do conjunto fático-probatório, reconheceu que não pode pretender o autor o pagamento das quantias avençadas em contrato que não mais subsiste.
+Nesse contexto, rever a conclusão assentada no acórdão recorrido, para se concluir de forma diversa, demandaria reexame do conjunto fático-probatório do processo, procedimento incompatível com o recurso especial, consoante a inteligência da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Deixo de proceder à majoração dos honorários advocatícios, pois a parte agravante não foi condenada a pagá-los.
+Intimem-se.
