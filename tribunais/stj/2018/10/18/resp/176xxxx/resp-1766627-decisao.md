@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial manejado por Panatlantica Catarinense S/A e Filial (is), com base no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 300):
+MANDADO DE SEGURANÇA. DECADÊNCIA. TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL - TCFA. ATUALIZAÇÃO MONETÁRIA. PORTARIA. ILEGALIDADE E INCONSTITUCIONALIDADE AFASTADAS.
+1. Em se tratando de mandado de segurança preventivo, utilizado como sucedâneo de ação declaratória, não se aplica o prazo decadencial previsto no artigo 23 da Lei nº 12.016/2009.
+2. A Medida Provisória nº 687, de 14/8/15, convertida na Lei nº 13.196/15, autorizava o Poder Executivo a atualizar monetariamente os valores da Taxa de Controle e Fiscalização Ambiental - TCFA, até o limite do valor acumulado de IPCA. O Decreto nº 8.510/15 atribuía a atualização monetária a ato conjunto dos ministros da Fazenda e do Meio Ambiente, o que ocorreu pela Portaria Interministerial 812 MF- MMA/2015.
+3. A correção monetária foi autorizada pela lei, que estabeleceu, ainda, os parâmetros a serem seguidos. Observada a reserva legal quanto aos elementos essenciais da obrigação tributária e aos parâmetros e limites para a readequação do valor. Não configurada ilegalidade ou inconstitucionalidade.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a recorrente sustenta violação aos arts. 7º e 97, do CTN. Alega, em síntese, que é ilegal a atualização monetária da Taxa de Controle e Fiscalização Ambiental instituída pela Portaria Interministerial nº 812/2015, porquanto: (I) "de acordo com o Princípio da Legalidade, expresso na Constituição brasileira (art. 150, inc. I) e no Código Tributário Nacional (art. 97, incs. II e IV), a instituição ou majoração de tributos deve ser promovida por meio de lei em sentido estrito (emanada pelo Poder Legislativo e com observância do devido processo), não sendo possível, via de regra, que os aumentos sejam por ato de competência do Poder Executivo." (fl.319); e (II) "a atribuição da competência legislativa plena conferida ao legislador da União, não poderia, nem mesmo por vontade do próprio legislador, ser delegada ao Executivo." (fl.322).
+É o relatório.
+O recurso especial não reúne condições de trânsito.
+De início, relativamente à apontada ofensa ao art. 97 do CTN, esta Corte já se manifestou no sentido de que a matéria não pode ser invocada em recurso especial, porquanto o preceito infraconstitucional é mera reprodução de dispositivo da Constituição Federal. A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO SENAR. CONTROVÉRSIA SOBRE O FATO GERADOR. ART. 97 DO CTN. MATÉRIA DE NATUREZA CONSTITUCIONAL.
+1. O art. 97, inciso IV, do Código Tributário Nacional - CTN encontra respaldo no art. 150, inciso I, da Constituição Federal e sua norma possui natureza eminentemente constitucional. Nessa linha, o recurso especial, no qual se defende violação ao princípio constitucional da legalidade tributária, não pode ser conhecido.
+Precedentes: AgRg no AREsp 417.936/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 03/11/2014; AgRg no AREsp 507.664/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/10/2014; AgRg no REsp 1454339/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/10/2014; AgRg no REsp 1421060/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/04/2014.
+2. Agravo regimental não provido.
+(AgRg no REsp 1428741/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/2/2015, DJe 23/2/2015)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO SAT. ALEGADA VIOLAÇÃO AO ARTIGO 535 DO CPC. NÃO CARACTERIZADA. ARTIGO 97 DO CTN. MATÉRIA DE CUNHO CONSTITUCIONAL. INVIABILIDADE DE APRECIAÇÃO NESTA VIA RECURSAL. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS TIDOS POR VIOLADOS. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A análise da violação dos artigos 97 e 110 do Código Tributário Nacional, por reproduzirem princípios encartados em normas da Constituição da República, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Precedentes: REsp 828.935/PR, Rel. Ministro Castro Meira, Segunda Turma, DJ 29/8/2006; e AgRg nos EDcl no REsp 1.098.218/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/11/2009.
+3. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+4. Agravo regimental não provido.
+(AgRg no REsp 1454339/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/10/2014, DJe 20/10/2014)
+Por outro lado, a matéria pertinente ao art. 7º do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
