@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Irmandade do Hospital de Caridade de Irati, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 683/684):
+ADMINISTRATIVO. SUS. REEMBOLSO DE SERVIÇOS MÉDICO - HOSPITALARES. CONVERSÃO EM URV"S. CRITÉRIO. ILEGALIDADE. MEDIDA PROVISÓRIA Nº 542/94. LEI Nº 9.096/95. LEI Nº 8.880/90. DECRETO 99.438/90.
+. Preliminar de carência de ação rejeitada.
+. Prescrição qüinqüenal, nos termos da Súmula 85 do STJ, não configurada.
+. Estabelecida pela Lei nº 9.096/95 que a paridade entre o Real e o Cruzeiro Real, a partir de 1º de julho de 1995, seria igual à paridade entre a Unidade Real de Valor - URV e o Cruzeiro Real e que, na conversão dos valores para o novo padrão monetário, a URV corresponderia a CR$ 2.750,00, descabe a adoção de critério diverso.
+. Ao utilizar o valor de CR$ 3.013,00 para converter as importâncias devidas aos prestadores de serviços médico-hospitalares ao SUS, por meio das Portarias 104 e 105, o Ministério da Saúde afrontou o princípio da legalidade e acarretou prejuízo na ordem de 9,56%.
+. A competência atribuída pelo Conselho Nacional de Saúde pelo art. 26, §§1º e 2º da Lei nº 8.880/90 e pelo art. 1º, IV, do Decreto 99.438/90 não se sobrepõe à aplicação de normas editadas para reger o processo de conversão da moeda e disciplinar as relações contratuais em curso.
+. Reconhecido o direito às diferenças decorrentes dos reembolsos efetuados sem a observância do parâmetro legal.
+O reajuste efetivado por meio da Portaria nº 2.777/95 apenas corrigiu a defasagem de preços que se encontravam inalterados desde julho de 1994, sem reparar as distorções ocorridas na época da conversão da moeda.
+. Condenação da ré limitada a novembro de 1999, quando elaborada nova tabela na qual foram reavaliados os procedimentos médicos e hospitalares e remunerados os serviços de forma individualizada, sem a adoção de percentual de reajuste uniforme, com base em preços equivocadamente convertidos em Real.
+Precedentes do STJ. Vencida a Relatora no tópico.
+. Juros de mora, a contar da citação, mantidos em 6% ao ano, por ausência de recurso dos autores.
+. Sucumbência mantida, fixada na esteira dos precedentes da Turma.
+. Prequestionamento quanto à legislação invocada estabelecido pelas razões de decidir.
+. Apelação e remessa oficial parcialmente providas.
+Opostos embargos declaratórios pela parte autora, foram providos, para juntada de voto vencedor (fl. 697).
+Os aclaratórios da União foram rejeitados, ante a ausência dos vícios elencados no art. 535 do CPC/73, com a aplicação da multa prevista no art. 538, parágrafo único, do referido Codex.
+Os embargos infringentes interpostos pela União foram desprovidos, nos seguintes termos (fl. 883):
+EMBARGOS INFRINGENTES. TABELA. SERVIÇO MÉDICO - HOSPITALAR. SISTEMA ÚNICO DE SAÚDE - SUS. CONVERSÃO DE VALORES EM CRUZEIROS REAIS. LIMITAÇÃO. NOVEMBRO DE 1999.
+A matéria já está pacificada na 1ª Seção do Superior Tribunal de Justiça no sentido de que, "a partir de novembro de 1999, não há que se falar em ilegalidade, porque os valores de reembolso deixaram de ser atualizados tendo como base os valores ilegalmente fixados para serem reajustados com base na complexidade do procedimento" (MS nº 8501/DF, 1ª Seção, Rel. Min. Francisco Falcão, DJ de 27/09/2004). (AgRg no Ag 754.554/SC, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 03/08/2006, DJ 31/08/2006 p. 228, REPDJ 19/10/2006 p. 246)
+Ratificação do recurso especial às fls. 888/913.
+A parte recorrente aponta, além de divergência jurisprudencial, violação ao Comunicado n. 4.000 do Banco Central do Brasil; arts. 26, §§ 1º e 2º, da Lei n. 8.080/90; e 1º, § 3º, da Medida Provisória n. 542/94. Sustenta que os critérios de conversão de valores dos serviços prestados ao SUS, para a moeda corrente, implicam desequilíbrio contratual, não sendo cabível a limitação dos prejuízos à data da vigência da Portaria 1230/99.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O recurso especial não pode ser conhecido no tocante à alegada ofensa ao Comunicado n. 4.000 do Banco Central do Brasil. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Confiram-se, a propósito, os seguintes precedentes: AgRg no Ag 1.203.675/PE, Segunda Turma, Rel. Ministro Humberto Martins, DJe de 10/3/2010; e AgRg no REsp 1.040.345/RS, Primeira Turma, Rel. Ministro Luiz Fux, DJe 9/2/2010.
+Constata-se, ademais, a sintonia do acórdão recorrido com o entendimento emanado da Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.179.057/AL, Rel. Ministro Arnaldo Esteves Lima, DJe 15/10/2012, sob o regime de julgamento dos recursos repetitivos, no qual se assentou o seguinte:
+ADMINISTRATIVO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). SERVIÇOS PRESTADOS AO SUS. TABELAS DE PREÇOS. FATOR DE CONVERSÃO EM URV. PRESCRIÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Nas demandas que envolvem a discussão sobre a conversão da tabela de ressarcimentos de serviços prestados ao Sistema Único de Saúde - SUS de cruzeiro real para real, o Superior Tribunal de Justiça firmou entendimento no sentido de que: a) por se tratar de relação de trato sucessivo, prescrevem apenas as parcelas vencidas anteriormente ao quinquênio que antecedeu ao ajuizamento da ação (Súmula 85/STJ); b) deve ser adotado como fator de conversão o valor de Cr$ 2.750,00, nos termos do art. 1º, § 3º, da MP 542/95, convertida na Lei 9.096/95; e c) o índice de 9,56%, decorrente da errônea conversão em real, somente é devido até 1º de outubro de 1999, data do início dos efeitos financeiros da Portaria 1.323/99, que estabeleceu novos valores para todos os procedimentos.
+2. Recurso especial conhecido e não provido. Acórdão submetido ao regime do art. 543-C do CPC.
+Ante o exposto, conheço, em parte, do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
