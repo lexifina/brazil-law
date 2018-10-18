@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA E DE OBRIGAÇÃO DE FAZER. ART. 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIOS. EXECUÇÃO COMPLEMENTAR. IMPOSSIBILIDADE. EXTINÇÃO DA EXECUÇÃO COM TRÂNSITO EM JULGADO. JUÍZO FIRMADO COM FUNDAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ASSISTÊNCIA JUDICIÁRIA REQUERIDA NO RECURSO ESPECIAL. DEFERIMENTO TÁCITO. ENTENDIMENTO DA CORTE ESPECIAL FIRMADO NO AGRG NOS EARESP N. 440.971/RS. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, DAR-LHE PARCIAL PROVIMENTO APENAS QUANTO AO DEFERIMENTO DA ASSISTÊNCIA JUDICIÁRIA PARA INSTÂNCIA RECURSAL SUPERIOR.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por MARIA [NOME], em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 168):
+PROCESSUAL CIVIL. AGRAVO EM AGRAVO DE INSTRUMENTO. EXECUÇÃO POR QUANTIA CERTA E EXECUÇÃO DA OBRIGAÇÃO DE FAZER. APÓS SENTENÇA DE EXTINÇÃO DA EXECUÇÃO COM TRÂNSITO EM JULGADO NÃO HÁ QUE SE FALAR EM EXECUÇÃO COMPLEMENTAR.
+1. A revisão da renda mensal de beneficio previdenciário submete- se ao tratamento jurídico dado às execuções de obrigação de fazer, sendo que nossa jurisprudência já se consolidou no sentido de que a revisão ao beneficio é tida como obrigação de fazer, sendo que a execução da obrigação de fazer não se confunde com a execução por quantia certa.
+2. Nesse contexto, a execução por quantia certa ocorrerá em face de todas as verbas pecuniárias vencidas até o momento em que o MM.
+Magistrado a declare extinta.
+3. Frise-se, por oportuno, que em face da r. sentença de extinção da execução não houve interposição de apelação por parte dos credores, sendo que foram intimados da referida sentença em 23/06/97, o feito transitou em julgado em 23/07/97 e estes somente compareceram aos autos em 08/08/97 requerendo a execução complementar, o que não se pode admitir.
+4. Agravo a que se nega provimento.
+No recurso especial, a recorrente aponta violação dos arts. 535 do CPC/1973 alegando contradição e necessidade de esclarecimentos a respeito da execução remanescente promovida em ação executiva autônoma. Alternativamente, pugna ofensa ao art. 301, § 1º, do CPC/1973 quanto ao ajuizamento de ação revisional autônoma.
+Sustenta, em síntese, contrariedade: (i) aos arts. 473 e 730 do CPC/1973 aduzindo a preclusão da autarquia em se insurgir contra a expedição de alvará de levantamento ao argumento de preclusa e extemporânea; (ii) ao art. 290 do CPC/1973 consignando que a execução remanescente autônoma não abrangeu acréscimo ou acessório algum aos valores antes declarados adimplidos, abarcando apenas as próprias prestações previdenciárias que se venceram em período futuro e distinto, posterior àquela execução cuja execução fora declarada cumprida nos limites daquela lide.
+Faz pedido de assistência judiciária no bojo do recurso especial.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Registra-se que os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ.
+No que concerne ao benefício da gratuidade judiciária, tendo em vista a ausência de indeferimento expresso pela instância a quo no exame de admissibilidade do especial, entende-se havido o deferimento tácito do benefício, sem efeitos retroativos, em face do entendimento firmado pela Corte Especial no julgamento do AgRg nos EAREsp n. 440.971/RJ, DJe 17/3/2016:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. RECURSO JULGADO DESERTO. REFORMA DA DECISÃO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA FORMULADO NA ORIGEM. AUSÊNCIA DE MANIFESTAÇÃO DO PODER JUDICIÁRIO.
+DEFERIMENTO TÁCITO. RECONHECIMENTO. AGRAVO PROVIDO.
+1. Presume-se o deferimento do pedido de assistência judiciária gratuita não expressamente indeferido por decisão fundamentada, inclusive na instância especial.
+2. A ausência de manifestação do Judiciário quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo.
+3. A omissão do julgador atua em favor da garantia constitucional de acesso à jurisdição e de assistência judiciária gratuita, favorecendo-se a parte que requereu o benefício, presumindo-se o deferimento do pedido de justiça gratuita, mesmo em se tratando de pedido apresentado ou considerado somente no curso do processo, inclusive nesta instância extraordinária.
+4. Agravo interno provido.
+(AgRg nos EAREsp 440.971/RS, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 3/2/2016, DJe 17/3/2016)
+De início, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido, a fls. 166/167, manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração. Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, visto que decisão contrária à pretensão da parte ou à tese defendida não configura ofensa ao artigo 535 do CPC/1973.
+No mérito, a Corte de origem, analisando os elementos fáticos, assim dispôs (fls. 166/167):
+Sustenta a parte agravante, em suas razões de inconformismo, que a r. decisão agravada viola os artigo 290, 301, 301 §1º, 473 e 730 do CPC, ao determinar o ajuizamento de nova ação executiva, uma vez que se trata de mera execução de saldo remanescente.
+ ..
+"Inicialmente, assevero que, a execução por quantia certa não se confunde com a execução da obrigação de fazer.
+A revisão da renda mensal de beneficio previdenciário submete-se ao tratamento jurídico dado às execuções de obrigação de fazer, sendo que nossa jurisprudência já se consolidou no sentido de que a revisão ao beneficio é tida como obrigação de fazer:
+ ..
+Nesse contexto, a execução por quantia certa ocorrerá em face de todas as verbas pecuniárias vencidas até o momento em que o MM.
+Magistrado a declare extinta.
+Assim, compulsando detidamente os documentos constantes do presente agravo de instrumento, observo que, após o pagamento do precatório principal e considerando satisfeito o cumprimento da obrigação, o MM Juiz a quo julgou extinto o processo de execução.
+Muito embora o MD. Juízo a quo devesse ter procedido à intimação dos exequentes após o levantamento do depósito, a fim de saber se haviam verbas suplementares a ser pagas, o fato é que o processo executório foi extinto, não sendo possível sua reativação após o trânsito em julgado da r. sentença.
+Frise-se, por oportuno, que em face da r. sentença de extinção da execução (fl. 276 -verso dos autos principais) não houve interposição de apelação por parte dos credores, sendo que foram intimados da referida sentença em 23/06/97, o feito transitou em julgado em 23/07/97 e estes somente compareceram aos autos em 08/08/97 requerendo a execução complementar, o que não se pode admitir.
+Dessa forma, entendo cabível somente o cumprimento da obrigação de fazer para a revisão da renda mensal dos beneficias da parte autora, vez que se trata de outra modalidade de execução, devendo eventuais parcelas vencidas ser reclamadas em processo autônomo, tendo em vista a extinção da obrigação por quantia certa."
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, dar-lhe parcial provimento tão somente quanto ao deferimento do benefício da assistência judiciária requerido no bojo do presente especial, sem efeitos retroativos.
+Publique-se. Intimem-se.
