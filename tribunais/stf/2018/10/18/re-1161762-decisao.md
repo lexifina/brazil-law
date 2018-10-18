@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto Nacional do Seguro Social (INSS). Aparelhado o recurso na afronta aos arts. 2º, 7º, XXXIII, 195, § 5º, e 203, V, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Quanto à alegada violação do art. 2º da Lei Fundamental, a jurisprudência do Supremo Tribunal Federal é no sentido de que o exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido, cito o RE 417.408-AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma, DJe 26.4.2012, e o ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 09.9.2012, assim ementado:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao princípio da separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas Súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.”
+    Ademais, o entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. TRABALHADORA RURAL. MENOR DE 16 ANOS DE IDADE. CONCESSÃO DE SALÁRIO-MATERNIDADE. ART. 7º, XXXVIII, DA CONSTITUIÇÃO FEDERAL. NORMA PROTETIVA QUE NÃO PODE PRIVAR DIREITOS. PRECEDENTES. Nos termos da jurisprudência do Supremo Tribunal Federal, o art. 7º, XXXIII, da Constituição “não pode ser interpretado em prejuízo da criança ou adolescente que exerce atividade laboral, haja vista que a regra constitucional foi criada para a proteção e defesa dos trabalhadores, não podendo ser utilizada para privá-los dos seus direitos” (RE 537.040, Rel. Min. Dias Toffoli). Agravo regimental a que se nega provimento.” (RE 600616 AgR, Relator(a):  Min. ROBERTO BARROSO, Primeira Turma, julgado em 26/08/2014, ACÓRDÃO ELETRÔNICO DJe-175 DIVULG 09-09-2014 PUBLIC 10-09-2014)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de outubro de 2018.
+Ministra Rosa Weber
+Relatora
