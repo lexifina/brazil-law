@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de HABEAS CORPUS impetrado em favor de [NOME] ROSA, indicando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, aduzindo-se, em apertada síntese, a existência de ilegalidade a ser sanada pela via do presente writ, uma vez que a prisão preventiva imposta seria desproporcional e desarrazoada.
+2. Em consulta processual realizada à página eletrônica do Tribunal de origem, verifica-se que, em 13-10-2018, sobreveio a prolação de sentença pelo Juízo de 1º Grau, condenando o ora paciente pela prática dos delitos previstos nos artigos 33 e 35, ambos c/c o artigo 40, inciso VI, todos da Lei nº 11.343/2006, na forma do artigo 69 do CP, ao cumprimento de 10 (dez) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, no regime inicial fechado, mais pagamento de multa, ocasião em que lhe foi indeferido o direito de apelar em liberdade.
+Na hipótese, resta prejudicado o presente remédio constitucional voltado a abordar a legalidade da prisão provisória aplicada ao paciente, visto que a sentença, que manteve a custódia antecipada, trata-se de decisão diferente da questionada na presente impetração, sendo, portanto, novo título cuja legalidade ainda não foi examinada pelo Tribunal originário.
+3. Diante do exposto, com fundamento no art. 34, inciso XI, do Regimento Interno deste Tribunal, julga-se prejudicado o writ, pela perda de seu objeto.
+Publique-se e intimem-se.
+Em seguida, arquivem-se os autos.
