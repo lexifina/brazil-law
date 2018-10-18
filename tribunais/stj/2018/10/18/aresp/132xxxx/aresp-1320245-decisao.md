@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Graniex Comercial Ltda. - ME contra decisão que inadmitiu o recurso especial com base nos seguintes fundamentos:
+Por seu turno, os embargos de declaração foram regularmente apreciados. A alegada omissão é eminentemente reflexa, e não é apta a fundamentar a admissibilidade do recurso especial. De fato, alegar ofensa aos artigos 511, § 2º, 674, 675 e 1.022, I e II do CPC, quando isto pressuponha, para que acatado, reexaminar os fatos e, só assim, perquirir a correção ou não do julgado, torna inviável a via extrema.
+À luz da súmula nº 7 do Superior Tribunal de Justiça, é vedado, em sede de recurso especial, o reexame do conjunto fático-probatório constante dos autos ("A pretensão de simples reexame de prova não enseja recurso especial").
+Significa dizer que a premissa equivocada deve ser demonstrada com o corpo teórico constatado pelo acórdão atacado, à luz das premissas de fato por ele vislumbradas.
+In casu, verifica-se que o órgão julgador decidiu a controvérsia após análise dos fatos, sendo certo que, para se chegar à conclusão diversa, tornar-se-ia imprescindível reexaminar o conjunto fático-probatório dos autos, o que, como visto, é vedado.
+ ..
+Portanto, o debate no especial encontra óbice na súmula nº 7 do STJ. Não restou demonstrado, sem necessidade de exame dos fatos e provas, que o julgado contrariou os dispositivos legais citados ou, ainda, que conferiu à lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
+Diga-se que é diverso o objeto tratado no acórdão trazido à baila pela recorrente, às fls. 530/534, em razão de fundamentações baseadas em fatos e circunstâncias específicas de cada processo. Repita-se: aqui não restou comprovada a tempestividade dos embargos de terceiro, já que a recorrente tomou ciência da penhora do bem e que ele seria levado à hasta pública, mas quedou-se inerte.
+Do exposto, INADMITO o recurso especial.
+Das razões do agravo interposto, verifico que a agravante não impugnou, de forma precisa, os fundamentos da decisão combatida, o que atrai, por analogia, a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Com efeito, não basta a assertiva genérica de que é desnecessário o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual.
+Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie a Súmula 182/STJ.
+2. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo de instrumento, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficiente apresentar alegações genéricas de inaplicabilidade do óbice invocado. Precedentes.
+3. O recurso revela-se manifestamente infundado e procrastinatório, devendo ser aplicada a multa prevista no art. 557, § 2º, do CPC.
+4. Agravo regimental não provido, com aplicação de multa.
+(AgInt no AREsp 941.148/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/2/2017, DJe 20/2/2017)
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182 DO STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ.
+2. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada.
+3. A apresentação tardia de novos fundamentos para viabilizar o conhecimento do recurso representa inovação, vedada no âmbito do agravo interno.
+Agravo interno improvido.
+(AgInt no AREsp 867.735/SE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 2/8/2016, DJe 10/8/2016)
+Ademais, o recurso especial não engloba todos os pontos do acórdão recorrido, visto que, enquanto a insurgência restringe à tempestividade dos embargos de terceiro, a instância ordinária também ressaltou a improcedência da ação ajuizada - "Ainda que não se reconhecesse a intempestividade do presente recurso, análise cuidadosa, detalhada e acurada pela r. julgadora a quo evidencia as seguintes conclusões: (1) Não é possível reconhecer a validade do acordo homologado no processo nº 011990360742 da ia Vara Cível de Cachoeiro em que [NOME] teria adquirido o imóvel da GRAMARCIL; (2) Não é possível reconhecer a validade do contrato particular de compra e venda celebrado entre [NOME] e a Embargante, ora Apelante; e (3) Há fortes indícios de simulação para perpetrar fraude, na forma de um " esquema engendrado para retirar um determinado imóvel (com amplo potencial de exploração) do nome de uma empresa com débitos, transferindo-o, por interposta pessoa, para uma outra empresa administrada pelo mesmo núcleo familiar, a fim de manter o patrimônio e a renda e furtar-se ao pagamento de tributos" -, o que não foi rebatido no apelo nobre. Inteligência das Súmulas 283 e 284 do STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
