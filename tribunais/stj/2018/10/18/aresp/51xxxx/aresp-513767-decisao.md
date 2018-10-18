@@ -1,0 +1,50 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Instituto de Previdência do Estado do Rio Grande do Sul contra decisão (e-STJ, fls. 174/181) que inadmitiu o recurso especial sob a afirmação, em síntese, de a) o acórdão recorrido estar em sintonia com a tese firmada no REsp 1.336.026/PE (Tema 880), ante o enquadramento do caso à modulação de efeitos; e b) não ocorrência de negativa de prestação jurisdicional, pois o julgador não está obrigado a responder todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+O agravante defende, de forma sucinta, que: a) a tese definida no REsp 1.336.026/PE (Tema 880) se aplica ao caso, porém há necessidade de se aguardar o julgamento dos embargos de declaração opostos no recurso representativo da controvérsia; b) não cabe ao Tribunal de origem analisar o mérito da controvérsia, devendo-se restringir sua análise aos aspectos formais de admissibilidade e faz considerações acerca do mérito recursal; c) não se aplica ao caso o óbice previsto na Súmula 7/STJ.
+O agravo não comporta conhecimento.
+Da análise do teor da decisão recorrida percebe-se que, dentre os fundamentos invocados para inadmitir o recurso especial manejado pelo ora agravante, um deles foi a adequação do acórdão recorrido à tese firmada no REsp 1.336.026/PE (Tema 880), haja vista a modulação de efeitos realizada em embargos de declaração. Nesse ponto (e-STJ, fl. 176):
+Por ocasião do julgamento dos Embargos de Declaração, no REsp 1.336.026/PE, em 13 de junho de 2018, o Superior Tribunal de Justiça modulou os efeitos da aludida decisão, a contar de 30 de junho de2017, "para as decisões transitadas em julgado até 17/3/2016 (quando ainda vigente em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providencia sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para a propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017.
+Não se aplica, portanto, ao presente recurso a tese firmada no Tema 880, já que a decisão transitou em julgado depois de agosto de 2002 e antes de março de 2016.
+Portanto, nesse fundamento, o juízo de admissibilidade foi realizado com base no art. 1.030, I, "b", do CPC/2015:
+Art. 1.030.  ..
+I - negar seguimento:  ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos.
+Contra decisão fundada em tal dispositivo, o Código de Ritos prevê a possibilidade de interposição de agravo interno, consoante o § 2º do supramencionado artigo legal ("§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021").
+Assim, o presente agravo não merece ser conhecido pela notória inadmissibilidade, conforme acima exposto. Ademais, não se cabe falar em fungibilidade no caso, ante a ausência de dúvida objetiva diante da previsão expressa no código processual.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.030, I, "b", DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO NO TRIBUNAL DE ORIGEM.
+1. De acordo com o art. 1.030, I, "b", §2º, do CPC/2015, cabe agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão em conformidade com tese firmada em sede de recurso repetitivo. A interposição de agravo em recurso especial constitui falha inescusável que impede a aplicação do princípio da fungibilidade recursal. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.153.611/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/11/2017, DJe 1º1/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITE RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC/15. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. Agravo em recurso especial que está sujeito às normas do CPC/15.
+2. Conforme determinação expressa contida no art. 1.030, I, "b", e §2º c/c 1.042, "caput", do CPC/15, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo.
+3. A interposição de agravo em recurso especial constitui erro grosseiro, porquanto inexiste dúvida objetiva, ante a expressa previsão legal do recurso adequado.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.126.721/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/10/2017, DJe 7/11/2017)
+Deve-se ressaltar ainda que, como a decisão de inadmissibilidade do recurso especial foi publicada na vigência do novo Código de Processo Civil, aplica-se ao caso o Enunciado Administrativo n. 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Destarte, é incabível o conhecimento do recurso nesse ponto, ante a evidente inadequação.
+Desse modo, diante da ausência de recurso adequado nesse fundamento, forçosa é a incidência do disposto no art. 932, III, do CPC (correspondente ao art. 544, § 4º, I, do CPC/1973), segundo o qual não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada, nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifo acrescido)
+Nesse sentido, ainda, os seguintes precedentes: AgInt no AREsp 880.709/PR, Segunda Turma, Rel. Ministro Mauro Campbell Marques, DJe 17/6/2016; AgRg no AREsp 575.696/MG, Terceira Turma, Rel. Ministro Paulo de Tarso Sanseverino, DJe 13/5/2016; AgRg no AREsp 825.588/RJ, Quarta Turma, Rel. Ministro Luis Felipe Salomão, DJe 12/4/2016; AgRg no REsp 1.575.325/SC, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 1º/6/2016; e AgRg nos EDcl no AREsp 743.800/SC, Sexta Turma, Rel. Ministra Maria Thereza de Assis Moura, DJe 13/6/2016.
+Confiram-se, ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus dos Agravantes. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt nos EAREsp 594.062/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 14/9/2016, DJe 20/9/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. PROCEDIMENTO FORA DO ROL DA ANS. CIRURGIA REALIZADA NA DATA PREVIAMENTE MARCADA. AUSÊNCIA DE DANO MORAL INDENIZÁVEL. MATÉRIA QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Autora submeteu-se, na data previamente marcada por seu médico, e sem qualquer atraso, ao ato cirúrgico de que necessitava, não despontando do cenário dano moral indenizável, mas mero aborrecimento, irrelevante para o direito.
+2. O acolhimento da pretensão recursal a fim de afastar as conclusões do aresto estadual demandaria incontornável incursão no conjunto fático-probatório dos autos, o que esbarra na Súmula n. 7 do STJ.
+3. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, não tendo procedido à impugnação específica ao óbice da Súmula 7/STJ, fundamento para o não provimento recursal. Incidência da Súmula 182/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 819.041/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/12/2015, DJe 1º/2/2016)
+PROCESSUAL CIVIL. TEMPESTIVIDADE DO RECURSO ESPECIAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. RECONSIDERAÇÃO. AGRAVO CONTRA DECISÃO QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL LASTREADA NO ART. 543-C, § 7º, I, DO CPC. NÃO CABIMENTO. EXEGESE DOS ARTS. 543 E 544 DO CPC. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182 DO STJ.
+1. A Corte Especial, por maioria, entendeu não ser cabível o agravo de instrumento contra decisão que nega seguimento ao recurso especial lastreada no art. 543-C, § 7º, I, do CPC, pois o acórdão recorrido estaria no mesmo sentido daquele proferido em recurso representativo de controvérsia por este Superior Tribunal.
+2. Ademais, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. Agravo regimental improvido.
+(AgRg no AgRg no AREsp 687.133/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 27/10/2015, DJe 12/11/2015)
+Ante o exposto, com fulcro no art. 932, inc. III, do CPC/2015, c/c o art. 253, parágrafo único, inc. I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
