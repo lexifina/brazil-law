@@ -1,0 +1,54 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo nos próprios autos e de Recurso Especial, ambos interpostos pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que inadmitiu Recurso Especial e contra acórdão assim ementado (fls. 137/142e):
+ACIDENTE DO TRABALHO. PROCESSUAL CIVIL. AGRAVO. EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE QUE O VALOR DA RENDA INICIAL A SER IMPLANTADA NÃO PODERIA SER O MESMO APURADO NO CÁLCULO DAS PRESTAÇÕES EM ATRASO. TEMA JÁ ABORDADO EM ACÓRDÃO COM TRÂNSITO EM JULGADO. DEDUÇÃO DE DEFESA CONTRA FATO INCONTROVERSO. OBTENÇÃO DE INDEVIDA SUSPENSÃO DO PROCESSO. MÁ-FÉ CARACTERIZADA.
+Os embargos de declaração de fls. 147/154e não foram conhecidos (fls. 159/162e) e os de fls. 169/171e foram rejeitados (fls. 176/179e).
+Com amparo no art. 105, III, a, da Constituição da República, o INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS aponta, no Recurso Especial de fls. 183/189e, ofensa aos dispositivos a seguir relacionados, alegando, em síntese, que:
+(i) arts. 458, II, e 535, II, do Código de Processo Civil de 1973 - " q uando os julgadores recusam-se a analisar as normas pertinentes, cerceiam a defesa da autarquia, negando-lhe o direito de ver prequestionada a matéria e, consequentemente, fulminando as chances de recursos dirigidos às instâncias superiores. Há que se ressaltar, no entanto, que, pragmaticamente, ficou clara a posição dos julgadores acerca do tema, especialmente reforçada quando rejeitaram os segundos embargos declaratórios, fincando posição no sentido de não reconhecer a data de juntada como o início da contagem do prazo" (fl. 185e); e
+(ii) art. 241, II, do Código de Processo Civil de 1973 - o tribunal de origem "considerou intempestivos os Embargos de Declaração do INSS, fazendo contar o prazo processual não da juntada aos autos do mandado cumprido, como reza a lei, mas sim, da data em que o foi aposto o ciente pelo procurador no mesmo mandado" (fl. 185e, destaque do original); " a  intimação pessoal, feita em cumprimento de mandado outorgado a Oficial de Justiça, rege-se pela norma do artigo 241, inciso II do Código de Processo Civil, não havendo margem a qualquer outra interpretação plausível, diante da literal idade do comando processual" (fl. 186e).
+ No Recurso Especial de fls. 252/261e, com amparo no mesmo permissivo constitucional, o INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS aponta ofensa aos dispositivos a seguir relacionados, alegando, em síntese, que:
+(i) art. 535 do Código de Processo Civil de 1973 - "foram opostos Embargos Declaratórios para que se discutisse a questão da ausência do elemento subjetivo para a imposição ao Instituto de multa por litigância de má-fé. Os embargos foram rejeitados, sem que houvesse adequado tratamento da matéria suscitada pela Autarquia" (fl. 254e);
+(ii) arts. 131, 132, § 1º, e 133 da Lei n. 8.213/1991 - o defensor do INSS tem o dever legal de recorrer;
+(iii) art. 17 do Código de Processo Civil de 1973 - " n o caso dos autos, não há como enquadrar a atuação da autarquia em qualquer das situações previstas no artigo supra-transcrito, nem como afirmar uma suposta intenção em procrastinar o feito ou provocar prejuízo à parte" (fl. 259e); " r essalte-se que o E. Superior Tribunal de Justiça vem entendendo que, para a configuração da litigância de má-fé, além da conduta maliciosa da parte, é necessário que esta tenha causado efetivo prejuízo à parte adversária e que, além de tudo, seja-lhe concedida a oportunidade de defesa. Ademais, em razão do princípio da indisponibilidade do patrimônio público, princípio de ordem pública que pode ser alegado em qualquer fase do processo e em qualquer grau de jurisdição, faz-se mister seja afastada a aplicação da mesma. Isso porque, a imposição de multa ao INSS, revertendo-se em favor da parte autora, configura-se verdadeiro enriquecimento sem causa às custas do erário, fato esse completamente vedado pelo ordenamento jurídico pátrio" (fl. 260e).
+Com contrarrazões (fls. 192/201e e 264/277e), o Recurso Especial de fls. 183/189e foi admitido (fl. 212/213e) e inadmitido o Recurso Especial de fls. 252/261e (fls. 279/280e), o que ensejou o Agravo em Recurso Especial, no qual o INSS sustenta estarem presentes os pressupostos de admissibilidade do recurso especial (fls. 284/294e).
+Com contraminuta (fls. 297/313e), os autos foram encaminhados a esta Corte.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 544, § 4º, II, b, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a conhecer do Agravo para negar seguimento ao Recurso Especial manifestamente inadmissível, prejudicado ou em confronto com súmula ou jurisprudência dominante do Tribunal.
+Preenchidos os requisitos de admissibilidade do Agravo, passo à análise dos Recursos Especiais.
+De acordo com o art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+A jurisprudência desta Corte firmou entendimento no sentido de que os recursos manifestamente incabíveis como, por exemplo, embargos de declaração intempestivos, não interrompem ou suspendem o prazo para a interposição de outros recursos.
+Nesse sentido:
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DOIS RECURSOS INTERPOSTOS. MESMA DECISÃO RECORRIDA. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGOU SEGUIMENTO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. RECURSO CABÍVEL: AGRAVO INTERNO/REGIMENTAL. RECURSO INTERPOSTO MANIFESTAMENTE INCABÍVEL. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO.
+1. Interpostos dois agravos em recurso extraordinário contra a mesma decisão, não se conhece do segundo recurso em face da preclusão consumativa e do princípio da unirrecorribilidade recursal. Precedentes.
+2. Insurge-se a parte agravante contra decisão que negou seguimento ao recurso extraordinário em razão da aplicação da sistemática da repercussão geral.
+3. Caberá agravo interno/regimental contra decisão que negar seguimento a recurso extraordinário que discuta questão constitucional sobre a qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou que esteja em conformidade com entendimento daquela Corte exarado no regime de repercussão geral (§ 2º do art. 1.030 do CPC).
+4. No caso dos autos, a interposição do agravo em recurso extraordinário consubstancia erro grave. Não incidência do princípio da fungibilidade.
+5. "Não terá seguimento pedido ou recurso dirigido ao Supremo Tribunal Federal, quando manifestamente incabível, ou apresentado fora do prazo, ou quando for evidente a incompetência do Tribunal" (Súmula 322/STF).
+6. O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso. Precedentes: ARE 813.750 AgR, Relatora Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 28/10/2016, publicado em 22/11/2016; ARE 823.947 ED, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 15/12/2015, publicado em 19/2/2016; ARE 819.651 ED, Relator Min. LUIZ FUX, Primeira Turma, julgado em 9/9/2014, publicado em 10/10/2014.
+Agravo em recurso extraordinário não conhecido com determinação de certificação do trânsito em julgado.
+(ARE nos EDcl no RE nos EDcl no AREsp 956.894/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 17/05/2017, DJe 26/05/2017, destaque meu).
+MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. INDEFERIMENTO LIMINAR.
+1. A posição adotada no aresto em questão é consentânea com a jurisprudência desta Corte Superior, no sentido de que os embargos de declaração extemporâneos não interrompem o prazo para a interposição de outros recursos.
+2. Ademais, consignou a Quinta Turma "quanto à alegação de que o Tribunal local operou em erro ao considerar os embargos de declaração intempestivos, não comporta conhecimento nesta Corte por estar acobertada pelo manto da imutabilidade, uma vez que não há notícia nos presentes autos de ter sido objeto de recurso na instância ordinária".
+3. O acórdão atacado está em consonância com a jurisprudência desta Corte, mostrando-se inviável o processamento do presente mandamus, tendo em vista que a impetração de mandado de segurança contra ato judicial somente é cabível quando a decisão for teratológica ou de flagrante ilegalidade, o que não é o caso dos autos.
+4. Agravo regimental não provido.
+(AgRg no MS 21.786/SP, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 01/07/2015, DJe 06/08/2015, destaque meu).
+A fim de aferir-se a tempestividade dos recursos interpostos, necessária a análise das informações a seguir:
+  acórdão recorrido (fls. 137/142e);
+  juntada aos autos do mandado de intimação - 26/06/2009 (fl. 146e);
+  Embargos de Declaração de fls. 147/154e opostos em 28/05/2009;
+  acórdão que NÃO CONHECEU dos primeiros Embargos de Declaração (fls. 159/162e);
+  juntada aos autos do mandado de intimação - 28/12/2009 (fl. 168e);
+  Embargos de Declaração de fls. 169/171e opostos em 27/10/2009;
+  acórdão dos segundos Embargos de Declaração (fls. 176/179e);
+  juntada aos autos do mandado de intimação - 07/07/2010 (fl. 182e);
+  Recurso Especial de fls. 183/189e interposto em 28/05/2010;
+  Recurso Especial de fls. 252/261e interposto em 18/09/2013;
+  decisão de inadmissibilidade do Recurso Especial de fls. 252/261e (fls. 279/280e);
+  juntada aos autos do mandado de intimação - 16/11/2015 (fl. 283e);
+  Agravo em Recurso Especial de fls. 284/294e interposto em 27/07/2015.
+Com efeito, considerando que a juntada, aos autos, do mandado de intimação do acórdão recorrido (fls. 137/142e), deu-se em 26/06/2009 (fl. 146e) e que os Embargos de Declaração de fls. 147/154e não foram conhecidos por intempestividade, não ocorreu a interrupção do prazo recursal para a interposição dos recursos subsequentes, inclusive dos Embargos de Declaração de fls. 169/171e.
+Desse modo, iniciada a contagem do prazo legal de 30 (trinta) dias para a interposição de recurso especial (art. 188 combinado com o art. 536 do Código de Processo Civil de 1973), tem-se seu término em 28.07.2009. Ocorre que os Recursos Especiais de fls. 183/189e e 252/261e foram apresentados, respectivamente, em 28/05/2010 e 18/09/2013, portanto, extemporaneamente.
+Isto posto, com fundamento nos arts. 544, § 4º, II, b, e 557 do Código de Processo Civil, CONHEÇO do Agravo e NEGO SEGUIMENTO aos Recursos Especiais.
+Publique-se e intimem-se.
