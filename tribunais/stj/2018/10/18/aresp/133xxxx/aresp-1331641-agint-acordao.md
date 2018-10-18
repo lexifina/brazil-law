@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONTRATO DE CONSIGNAÇÃO COM FORNECIMENTO DE LIVROS PARA VENDA PELA FRANQUEADA DA AGRAVANTE. INCIDÊNCIA DOS ARTS. 187 E 927 DO CÓDIGO CIVIL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA 283/STF, POR ANALOGIA. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA NO CAPÍTULO IMPUGNADO E, EM NOVO EXAME, CONHECER DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Esbarra no óbice da Súmula 283/STF, aplicada por analogia, o recurso especial que não infirma fundamento autônomo e suficiente para manter, por si só, o v. acórdão estadual.
+2. Na hipótese, o apelo nobre não infirmou fundamento autônomo e nodal do acórdão recorrido que reconheceu a responsabilidade civil da ora agravante, com arrimo nos arts. 187 e 927 do Código Civil.
+3. Agravo interno provido para reconsiderar a decisão agravada no capítulo impugnado, e, em novo exame, conhecer do agravo para não conhecer do recurso especial nessa parte, ante a incidência da Súmula 283/STF.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, dar provimento ao agravo interno, para reconsiderar a decisão agravada no capítulo impugnado, e, em novo exame, conhecer do agravo para não conhecer do recurso especial nessa parte, ante a incidência da Súmula 283/STF, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por LIVRARIA NOBEL S/A contra decisão (fls. 332-336) que conheceu do agravo para não conhecer do recurso especial, sob os seguintes fundamentos: a) ausência de violação aos arts. 489, § 1º, II e IV, e 1.022 do CPC/2015; e b) a pretensão de modificação do entendimento trazido pela eg. Corte de Apelação estaria obstada pela Súmula 83/STJ.
+Nas razões recursais, LIVRARIA NOBEL S/A sustenta, em síntese, que "o v. Acórdão recorrido aplicou indevidamente o Código de Defesa do Consumidor para responsabilizar a Franqueadora do Sistema de Franquias Nobel, ora Recorrente, por ilícito contratual cometido por seu Franqueado LLM em um contrato de consignação e fornecimento de livros celebrado com a Agravada Damaris" (fl. 333).
+Ao final, requer a reconsideração da decisão agravada ou, se mantida, seja o presente recurso levado a julgamento perante a eg. Quarta Turma.
+Sem impugnação do agravo interno (vide certidão à fl. 339).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Registre-se, inicialmente, que no agravo interno não foi impugnado o fundamento da decisão agravada de ausência de violação aos arts. 489, § 1º, II e IV, e 1.022 do CPC/2015. Desse modo, opera-se a preclusão quanto ao ponto.
+Por sua vez, na parte em que foi impugnada, qual seja, no tocante à aplicação da Súmula 83/STJ, o presente recurso merece prosperar, com reconsideração da decisão agravada, devendo ser afastada a incidência do referido enunciado sumular.
+Com efeito, os precedentes trazidos na decisão monocrática cuidavam de responsabilidade solidária entre franqueada e franqueadora, por danos causados a terceiros, consumidores, em razão da prestação do serviço de franquia, o que pressupunha relação de consumo da franqueada com o terceiro prejudicado.
+Contudo, o caso dos autos trata de contrato de consignação entabulado entre a ora agravada, que forneceu, em regime de consignação, livros de sua autoria para venda pela franqueada, LLM SIQUEIRA LIVRARIA LTDA, da franqueadora ora agravante. Na ação de cobrança, a promovente reclama o pagamento de quantia remanescente, decorrente do ajuste comercial firmado, contrato do qual a franqueadora, ora agravante, não participou, como se depreende da leitura do substrato fático-probatório descrito tanto pelo v. acórdão estadual (fls. 245-249) como pela r. sentença de fls. 150-155.
+Nesse contexto, o presente agravo deve ser provido para reconsiderar a decisão agravada na parte em que impugnada, ou seja, incidência do Código de Defesa do Consumidor. Ato contínuo, em prestígio ao princípio da celeridade processual, passa-se ao novo exame do recurso especial, nessa parte.
+Na detida leitura dos autos, verifica-se que o v. acórdão recorrido reiterou os fundamentos da r. sentença, como se infere da seguinte transcrição (fl. 248):
+ "A tudo isto, acrescento, reiterando, as fundamentações bem lançadas na r. sentença combatida. Para tanto, valho-me do artigo 252 do Regimento Interno deste Egrégio Tribunal de Justiça. Referido dispositivo estabelece que "Nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver de mantê-la".
+ O COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA tem prestigiado este entendimento quando predominantemente reconhece "a viabilidade de o órgão julgador adotar ou ratificar o juízo de valor firmado na sentença, inclusive transcrevendo-a no acórdão, sem que tal medida encerre omissão ou ausência de fundamentação no decisum" (REsp nº 662.272-RS, 2ª Turma, Rel.Min. João Otávio de Noronha, j. de 4.9.2007; REsp nº 641.963-ES, 2ª Turma, Rel. Min. Castro Meira, j. de 21.11.2005; REsp nº 592.092-AL, 2ª Turma, Rel. Min. Eliana Calmon, j. 17.12.2004 e REsp nº 265.534- DF, 4ª Turma, Rel. Min. Fernando Gonçalves, j de 1.12.2003)." (destaques no original)
+Infere-se, assim, que o v. acórdão estadual, ao negar provimento à apelação da ora agravante, também está fundamentado na motivação apresentada na r. sentença, da qual se decalca o seguinte excerto (fl. 152):
+ "Posto isso, é indiferente à resolução da contenda a caracterização da parte autora, reputada vítima do evento, como consumidora ou não pois o que rege a espécie é a regra da responsabilização civil objetiva, que está tanto albergada no Código de Defesa do Consumidor (artigos 14 e 17), quanto no Código Civil (artigos 187 e 927)."
+Por sua vez, nas razões postas no apelo nobre, infere-se que a ora recorrente não impugnou a aplicação dos arts. 187 e 927 do Código Civil de 2002, fundamento autônomo e nodal para o desate da presente contenda.
+Nesse cenário, havendo fundamento autônomo e suficiente, por si só, para manter o v. acórdão estadual, o apelo nobre encontra óbice na Súmula 283 do STF, aplicada por analogia. Nessa mesma linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. PRETENSÃO DE COMPLEMENTAÇÃO DO LAUDO PERICIAL E JUNTADA DE DOCUMENTOS. NECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA COM O INTUITO DE ESCLARECER QUESTÕES ATINENTES ÀS AMORTIZAÇÕES REALIZADAS. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF.
+(..)
+2. É inadmissível o recurso especial que não impugna os fundamentos do acórdão recorrido, suficientes, por si só, à manutenção da conclusão a que chegou o Tribunal de origem (Súmula n. 283/STF).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 451.336/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/06/2017, DJe de 08/06/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM" RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.035.112/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/05/2017, DJe de 12/05/2017 - grifou-se)
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada no capítulo impugnado e, em novo exame, conhecer do agravo para não conhecer do recurso especial nessa parte, ante a incidência da Súmula 283/STF.
+É como voto.
