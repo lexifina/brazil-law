@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 72, II, da Lei n. 8.245/1991 e 379 do Código de Processo Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 365):
+PROCESSO CIVIL - AGRAVO RETIDO - Laudo pericial que não apresenta os elementos impugnados pela autora - Prova pericial que adequadamente se utilizou de imóveis semelhantes ao locado e presentes na mesma região - Desnecessidade de intimação da perita para esclarecimentos - Ausência de questionamentos específicos e objetivos - Precedente deste E. Tribunal de Justiça - Preliminar rejeitada.
+CIVIL - LOCAÇÃO COMERCIAL - AÇÃO RENOVATÓRIA DE LOCAÇÃO - Laudo pericial que equacionou adequadamente o novo valor a ser atribuído ao contrato de locação - Valor em consonância com os demais imóveis da região - Valor apurado pela perícia que deve ser reajustado para a época da renovação - Demais cláusulas que não comportam modificação, tendo-se em vista o pedido inicial da autora - Honorários recursais não fixados - Sentença mantida - Recurso desprovido.
+Sustenta, em síntese, que o perito judicial deixou de observar o disposto no art. 72, II, da Lei n. 8.245/1991, ao avaliar o imóvel da agravante.
+Assim delimitada a controvérsia, passo a decidir.
+Observo que a Corte de origem negou provimento ao recurso de apelação interposto pela empresa agravante, assim discorrendo (fls. 367/368):
+(..)
+No mérito, observe-se que a prova pericial produzida (fls. 183/211), visando elucidar o valor adequado à renovação do contrato de locação, aplicou método da renda, avaliando o aluguel de acordo com os demais imóveis da região.
+Desse modo, adequada e razoável a quantia fixada pela r. sentença para a renovação da locação, não havendo reparos a serem feitos, até mesmo porque o novo valor (R$ 2.800,00 - dois mil e oitocentos reais) mostra-se compatível e condizente em relação à quantia estabelecida no contrato de locação celebrado em 29.06.2005 (R$ 1.300,00 - mil e trezentos reais - fls. 25/33).
+Ademais, conforme consignado na r. sentença, uma vez que o novo valor de aluguel apurado se deu em relação a 30.12.2011, deve ele "sofrer desconto do valor acumulado da correção monetária, pelo índice IPCA, no período entre Julho de 2010 a dezembro de 2011, para se apurar o valor correspondente à data da renovação (1º de julho de 2010, incidindo a partir de então as correções anuais, pelo índice IPCA, nos termos do contrato renovado" (fl. 290), por ser essa a melhor forma de se averiguar o aluguel correto à época da renovação, não havendo, também, qualquer inadequação no laudo pericial e na r. sentença nesse aspecto.
+Por oportuno, destaque-se, ainda, que os reajustes aplicáveis, bem como a periodicidade correspondente, devem ser os mesmos já praticados, conforme cláusula 6ª do contrato do locação renovado, pois esse foi o pleito inicialmente formulado pela autora: "a Requerente propõe seja o contrato renovado sob as mesmas cláusulas, com exceção do item 5.1 da cláusula 5 - "Valor da Locação" (fl. 05).
+(..)
+Com efeito, anoto que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo contratual e fático dos autos, o que encontra óbice nos enunciados n. 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
