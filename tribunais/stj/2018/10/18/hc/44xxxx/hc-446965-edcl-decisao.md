@@ -1,0 +1,18 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. 25 TROUXINHAS DE MACONHA. REDIMENSIONAMENTO DA PENA. PEDIDO DE PRISÃO DOMICILIAR OU ABRANDAMENTO DO REGIME. AUSÊNCIA DE DEBATE NO ACÓRDÃO HOSTILIZADO.
+Embargos de declaração rejeitados, devendo, no entanto, ser verificada, pelo Juízo da Execução, a possibilidade de abrandamento do regime de cumprimento da pena do ora embargante, a depender do seu comportamento.
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão deste Relator que concedeu a ordem de habeas corpus a fim de redimensionar a pena do ora embargante para 5 anos e 6 meses de reclusão. Esta foi a ementa do julgado (fl. 323):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. 25 TROUXINHAS, CONTENDO MACONHA. ALEGAÇÃO DE NULIDADE NA INTERCEPTAÇÃO TELEFÔNICA. REEXAME FÁTICO E PROBATÓRIO. ESTABILIDADE E PERMANÊNCIA DA ASSOCIAÇÃO. PEDIDO DE REVISÃO DA DOSIMETRIA. REDIMENSIONAMENTO DA PENA.
+Ordem concedida nos termos do dispositivo.
+Aponta o embargante omissão na decisão, que não teria se manifestado sobre o pedido de prisão domiciliar. Sustenta ter sido vítima de uma tentativa de homicídio, vindo a perder ambas as visões, ficando cego e necessitando do auxílio de terceiros (fl. 332).
+Aduz não possuir condições de ser submetido ao cárcere, fazendo jus à prisão domiciliar, conforme o art. 117, II, da Lei de Execução Penal.
+Afirma, ainda, que, caso não seja concedida a prisão domiciliar, pela quantidade de pena a que foi condenado, deveria ser fixado o regime intermediário ou o aberto, e não o fechado.
+É o relatório.
+O pedido da defesa sobre a prisão domiciliar não está prequestionado e verifica-se que tal questão também não foi apontada em sede de embargos de declaração (fls. 170/180), em que a defesa de [NOME] pediu apenas a revisão da pena e a fixação de regime diverso do fechado.
+No julgamento da apelação ministerial, a pena-base foi fixada em 6 anos de reclusão, e 1.400 dias-multa, tendo em vista o número de integrantes da associação criminosa, a natureza, a diversidade e a grande quantidade de droga apreendida, certamente menor do que a quadrilha costumava movimentar, bem como a patente reprovabilidade diferenciada que emerge do contexto delitivo em apreço, cujo tráfico de drogas se estendida para outras cidades vizinhas de Guariba (fl. 162).
+Tratando-se de 25 trouxinhas de maconha, em conhecido local de comercialização para o tráfico, entendeu este Relator que a extensão do tráfico já faz parte do próprio tipo penal de associação, mostrando-se razoável que seja considerada a quantidade de droga apreendida. Assim, no julgamento do habeas corpus, foi feito o redimensionamento da pena para 5 anos e 6 meses de reclusão pelo crime de associação.
+Na decisão, ficaram mantidos os demais termos do acórdão hostilizado. Vê-se que o Julgador considerou o regime fechado por não se mostrar socialmente recomendável o intermediário ou o aberto, a ponto de coibir a grave infração penal praticada pelo réu (fls. 163/164), além de não haver nos autos nenhuma informação acerca de seu comportamento carcerário no período em que esteve preso cautelarmente.
+Nesses termos, considerando a ausência de debate a respeito da prisão domiciliar e o fato de não constar dos autos maiores informações sobre o comportamento carcerário, não há omissão na decisão embargada.
+Ante o exposto, rejeito os embargos de declaração, devendo, no entanto, ser verificada, pelo Juízo da Execução, a possibilidade de abrandamento do regime de cumprimento da pena do ora embargante, a depender do seu comportamento.
+Publique-se.
