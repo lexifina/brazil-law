@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATEUS FARIA DUARTE, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi preso em flagrante (prisão convertida em preventiva), pela prática, em tese, das condutas tipificadas nos arts. 33 e 35, ambos da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou habeas corpus perante a Corte de origem, tendo o Desembargador relator indeferido o pedido liminar, aos 11/10/2018, nestes termos:
+" ..
+Indefiro a liminar.
+Após o exame sumário dos argumentos expostos, vislumbra- se, ao menos por ora, prova da existência do crime e indícios suficientes de autoria.
+O PACIENTE teve sua prisão em flagrante convertida em preventiva, por ter, em tese, cometido os crimes graves previstos na Lei nº 11.343/06, art. 33, caput, e 35, caput, pois, segundo a denúncia, "(..) policiais militares receberam a informação de que MATEUS prepararia drogas em sua residência para serem comercializadas, bem como que ERICA mantinha em depósito, em sua casa, drogas e objetos, os quais pertenceriam ao denunciado e à pessoa de [NOME], vulgo "Nego". De posse de tais informações, os citados agentes públicos foram, primeiramente, à residência de MATEUS, o qual, ao perceber que eles ingressavam no imóvel, dispensou certa quantidade de "cocaína" que se encontrava no interior de um pequeno saco. Em buscas pela citada residência, os agentes encontraram ali sessenta e oito eppendorfs vazios, uma peneira e um copo de liquidificador, ambos contendo resquícios de "cocaína" (laudos periciais de fls. 88/90 e 91/92) e uma embalagem contendo fermento em pó, objetos usados para o preparo de entorpecentes. Após a apreensão de tais objetos, part iram os policiais para a residência de ERICA, onde inicialmente apenas se encontrava a testemunha [NOME], a qual lhes franqueou entrada. No interior do imóvel, os agentes localizaram dez sacos plásticos, cada qual contendo mil pequenos eppendorfs vazios, além de outros cinco sacos plásticos, cada um contendo também mil eppendorfs vazios, porém grandes, além da quantia de cento e trinta reais, dez eppendorfs em cujo interior havia "cocaína" e uma faca com resquícios de "maconha" (laudo pericial de fls. 93/94)" (fls. 124/126).
+Tais dados sugerem, pelo menos a princípio, personalidade fora dos padrões sociais, justificando-se a manutenção da prisão cautelar para garantia da ordem, conveniência da instrução e aplicação da lei penal, reservando-se, à Douta Turma Julgadora, a solução da questão em toda a sua extensão, inclusive quanto à alegada desproporcionalidade da custódia cautelar.
+Por outro lado, ilações acerca de possíveis irregularidades na busca efetuada, demandam análise de matéria de mérito, incognoscíveis da via estreita desta ação.
+Processe-se, requisitando-se informações à AUTORIDADE COATORA e, oportunamente, dê-se vista à PROCURADORIA-GERAL DE JUSTIÇA.
+(..)"(e-STJ fls. 139-140)
+Nesta impetração, alega a impetrante, em síntese, "A prisão preventiva do indiciado é lastreada em uma prisão em flagrante ilegal, uma vez que houve violação de domicílio, calcada em suposta delação anônima. Narra o boletim de ocorrência que alguém não identificado à polícia militar teria dito que o indiciado teria em sua residência drogas com intuito mercantil. Imediatamente, teriam os milicianos se deslocado para a residência do indiciado, sem qualquer autorização judicial ou particular para entrar na residência." (e-STJ, fl. 6).
+Ao final, requer a concessão da ordem, liminarmente e no mérito, para que "seja concedida a ordem para se reconhecer como ilegal a prisão em flagrante, por violação do domicílio, bem como sejam descartadas as provas advindas dessa violação" (e-STJ, fl. 9).
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU O PLEITO LIMINAR FORMULADO EM SEDE DE REVISÃO CRIMINAL. ENUNCIADO SUMULAR N.º 691 DO STF. EXCEPCIONALIDADE NÃO CARACTERIZADA. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTA CORTE. PRETENSÃO DE AGUARDAR O JULGAMENTO DO PEDIDO REVISIONAL EM LIBERDADE. IMPOSSIBILIDADE. INEXISTÊNCIA DE EFEITO SUSPENSIVO. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. AGRAVO IMPROVIDO.
+1. Segundo a orientação pacificada neste Superior Tribunal, é incabível habeas corpus contra indeferimento de medida liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de incidir-se em indevida supressão de instância (Enunciado n.º 691 da Súmula do STF).
+2. Encontrando-se a decisão da autoridade impetrada suficientemente motivada, não há como se afastar o óbice ao conhecimento do remédio constitucional, imposto pelo enunciado n.º 691 da Súmula do STF.
+3. Ainda que superada a incompetência desta Corte Superior para a apreciação da matéria, não seria possível acolher a pretensão do agravante, tendo em vista que a revisão criminal, por não ter efeito suspensivo, não revela-se hábil para autorizar a interrupção da execução da pena.
+4. Agravo regimental improvido." (AgRg no HC 285.647/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 25/08/2014).
+"PROCESSUAL PENAL. HABEAS CORPUS CONTRA INDEFERIMENTO DE LIMINAR EM PRÉVIO WRIT. NEGATIVA DE SEGUIMENTO. SÚMULA 691 DO STF. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo entendimento interativo desta Corte, secundado pela Súmula 691 do STF, não cabe habeas corpus contra indeferimento de liminar em prévio writ, por importar em verdadeira supressão de instância.
+2. Inexistência na espécie de flagrante teratologia, apta a fazer relevar a impropriedade da via.
+3. Não há ofensa ao princípio da colegialidade quando a decisão monocrática é proferida em obediência ao art. 210 do RISTJ que autoriza o relator a indeferir liminarmente pedidos manifestamente incabíveis, como no caso dos autos.
+4. Agravo regimental não provido." (AgRg no HC 321.554/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 13/05/2015).
+No caso dos autos, não verifico a ocorrência de flagrante ilegalidade ou teratologia na decisão impugnada, de modo a justificar o processamento da presente ordem.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+Sem recurso, arquivem-se os autos.
