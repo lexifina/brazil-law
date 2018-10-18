@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Turma Cível e Criminal do Colégio Recursal - Osasco, ementado nos seguintes termos:
+    “RECURSO INOMINADO. Auxílio-alimentação. Servidora Estadual convocada para prestar serviços junto à Justiça Eleitoral. Cessão de servidor que não configura afastamento. Benefício devido. Inteligência do artigo 9º, da Lei Federal nº 6.999/82. sentença mantida. NEGADO PROVIMENTO”. (eDOC 20, p. 3).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 61, II, “c”, do texto constitucional.
+    Nas razões recursais, alega-se a ocorrência de aumento de vencimento de servidor público, com fundamento no princípio da isonomia.
+    Aduz ainda que o Colégio Recursal feriu a autonomia concedida ao ente estadual, infringindo o pacto federativo.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 6.999/82 e Lei 7.524/91) e o conjunto probatório constante dos autos, consignou que a servidora faz jus ao recebimento do auxílio-alimentação no período em que desempenhou atividade perante à Justiça Eleitoral. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A sentença de primeiro grau foi muito bem proferida e encontra-se em consonância com o ordenamento jurídico.
+    Anoto que não se trata de pagamento de benefício ‘auxílio-alimentação’ em período em que a servidora esteve afastada de suas funções, mas sim de receber auxílio em período em que desempenhou atividade perante à Justiça Eleitoral, em razão de requisição de cunho obrigatório, nos termos do art. 4º, inciso IV, da Lei nº 7.524/91. Verba alimentar devida a teor do que dispõe o art. 9º, da Lei Federal nº 6.999/82”. (eDOC 20, p. 3).
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REAJUSTE DE AUXÍLIO ALIMENTAÇÃO. CONTROVÉRSIA INFRACONSTITUCIONAL. 1. Para dissentir da conclusão firmada pelo Tribunal de origem, seria necessária a análise da legislação infraconstitucional aplicada ao caso (Leis nºs 8.460/1992 e 9.527/1997 e Decreto nº 3.887/2001), providência vedada neste momento processual. Precedentes. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”. (RE 1071478 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 14.12.2017).
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público. Policial civil. Auxílio alimentação. Lei nº 1.041/02 do Estado de Rondônia. Direito local. Ofensa reflexa. Precedentes. 1. O controle, pelo Poder Judiciário, de ato administrativo eivado de ilegalidade ou abusividade não viola o princípio da separação dos poderes. 2. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do Código de Processo Civil, pois o agravado não apresentou contrarrazões”. (ARE 990946 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 28.3.2017)
+     Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF) e majoro, em 10%, o valor da verba honorária fixada pela origem (eDOC 20, p. 3), observados os limites previstos nos parágrafos 2º e 3º do artigo 85 do CPC, ressalvada a concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 18 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
