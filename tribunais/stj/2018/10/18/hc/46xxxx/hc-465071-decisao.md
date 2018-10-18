@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JUNIOR CLAUDIO CANOFF, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o Juízo de Direito da 3ª Vara Criminal da Comarca de Chapecó(SC) reconheceu a prática de falta grave pelo apenado, em razão de suposto delito cometido no curso de execução da pena, e, em consequência, regrediu o regime, alterou a data-base para futuros benefícios a partir da dia do cometimento da falta, bem como determinou a perda de 1/3 dos dias remidos.
+Inconformada, a Defensoria Pública estadual interpôs agravo em execução perante o Tribunal de origem, que lhe negou provimento (e-STJ, fls. 118-123).
+Eis a ementa:
+"AGRAVO EM EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO DE REGIME. PERDA DE PARTE DA REMIÇÃO E ALTERAÇÃO DA DATA-BASE. INSURGÊNCIA DEFENSIVA. IMPOSSIBILIDADE DE DISCUSSÃO SOBRE O MÉRITO DA CONDUTA. PRECEDENTES. PRÁTICA DE NOVOS CRIMES DOLOSOS DURANTE O CUMPRIMENTO DA PENA. PRESCINDIBILIDADE DO TRÂNSITO EM JULGADO. PAD QUE RESPEITOU OS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA. DECISÃO IMPUGNADA QUE SE LIMITA A ANÁLISE DA LEGALIDADE DO PROCEDIMENTO ADMINISTRATIVO. PROVIDÊNCIA CORRETA E EM CONSONÂNCIA COM A JURISPRUDÊNCIA. PERDA DA REMIÇÃO NO GRAU MÁXIMO. JUSTIFICATIVA PLAUSÍVEL. GRAVIDADE DA CONDUTA FALTOSA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO." (e-STJ, fl. 119).
+Neste writ, a impetrante alega, em síntese, que o Tribunal a quo, "ao ratificar a posição do Magistrado de primeiro grau  nada mais fez do que negar vigência ao art. 57 da LEP, porquanto tomou como parâmetro tão somente o fato de o paciente ter cometido uma falta extremamente grave, qual seja, a suposta prática de novo fato doloso e, por esse motivo, desprezou a determinação legal de analisar casuisticamente os motivos, circunstâncias e consequências do fato" (e-STJ, fl. 8).
+Aponta "ausência de fundamentação válida para determinar a perda dos dias remidos em grau máximo" (e-STJ, fl. 10).
+Requer a concessão da ordem para "declarar a ilegalidade da fração de 1/3 referente à perda dos dias remidos para, desde logo, adequá-la ou, subsidiariamente, anular a decisão, determinando-se ao Juízo de primeiro grau que promova a adequação da sanção, desta feita de forma fundamentada e com estrita observância aos arts. 127 e 57 da LEP e ao art. 93, IX, da CRFB/88" (e-STJ, fl. 11).
+A liminar foi indeferida (e-STJ, fl. 495).
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem (e-STJ, fls. 562-566).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a possibilidade de concessão do habeas corpus de ofício.
+A jurisprudência desta Corte Superior é firme no sentido de que a perda de até 1/3 dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a própria legislação de regência, segundo a qual devem ser observadas as diretrizes elencadas no art. 57 da LEP (a saber: "a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão").
+A propósito:
+"1. É pacífica a jurisprudência do STF e deste STJ de que o cometimento de falta grave durante a execução da pena poderá ensejar a perda dos dias remidos pelo trabalho, nos termos do art. 127 da Lei de Execução Penal. A partir da Lei 12.433, de 29/6/2011, que alterou a redação do art. 127 da Lei de Execução Penal, a revogação dos dias remidos ficou limitada à fração máxima de 1/3 (um terço).
+2. Nos termos da orientação desta Corte, a escolha da fração de perda dos dias remidos em razão da prática de falta grave deve ser fundamentada pelo Magistrado, consoante disposição expressa do art. 57 da Lei de Execuções Penais.
+ .. ."
+(AgRg no AREsp 674.125/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/6/2015, DJe 29/6/2015).
+"- O art. 127 da Lei n. 7.210/84, com a nova redação dada pela Lei n. 12.433/11, concede ao juízo da execução a discricionariedade para determinar o patamar de perda do tempo remido, observados os parâmetros do art. 57 da LEP (a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão).
+- Na hipótese dos autos, o juízo da execução declarou a perda de 1/3 do tempo remido, mas não apresentou fundamentação, com base nos parâmetros do art. 57 da LEP, que justifique a escolha desse patamar, o que configura patente ilegalidade. Precedentes: HC n. 282.265/RS, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/5/2014; HC n. 299.308/RS, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe 3/10/2014."
+(HC 312.977/RS, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJ/SP, SEXTA TURMA, julgado em 18/6/2015, DJe 30/6/2015).
+No caso, a decisão do Juízo da 3ª Vara Criminal da Comarca de Chapecó/SC decretou a perda de 1/3 dos dias remidos, nos seguintes termos:
+"Como corolário da homologação do PAD e regressão de regime do apenado, resta analisar a revogação do tempo remido, observadas as previsões contidas nos artigos 57 e 127, ambos da LEP, assim redigidos:
+Art. 127. Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar.
+Art. 57. Na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão.
+Parágrafo único. Nas faltas graves, aplicam-se as sanções previstas nos incisos III a V do art. 53 desta Lei.
+O caso é sim de revogação de parte dos dias remidos.
+Isto porque as práticas de novos crimes representam faltas de naturezas graves, que encontram apoio na nítida intenção de burla do cumprimento da pena (motivos), geralmente praticada às escondidas, mediante quebra das condições e benefícios estabelecidos, como no caso em tela, que o apenado praticou o delito durante saída temporária (circunstâncias), sendo suas consequências extremamente nefastas ao Sistema Prisional e aos demais cidadãos de bem, pois aflige a coletividade, que se vê sujeita ao convívio de pessoa que deveria estar detida, tanto que cometeu novo crime durante o período que estava na rua. Não bastasse, a pessoa do faltoso representa risco social, já que envolvido em vários crimes (pessoa do faltoso), possuindo, ainda, tempo de prisão a resgatar, agora agravado pela nova falta cometida.
+Devido a essas condições, revogo 1/3 (um terço) dos dias remidos e anteriores ao evento novo crime (e posteriores à última falta grave, caso existente), recomeçando a contagem da remição à partir da data da falta" (e-STJ, fls. 539-540).
+O Tribunal a quo, por sua vez, ratificou a referida decisão, tecendo para tanto os seguintes fundamentos:
+"A respeito da perda da remição, tem-se que está devidamente justificada a revogação de 1/3 (um terço) dos dias remidos, pois numa escala de gravidade das infrações disciplinares consideradas graves pela Lei de Execução Penal, a prática de novo crime doloso durante o cumprimento da pena é, talvez, a pior delas, exigindo uma punição condizente.
+Neste aspecto, são válidos os fundamentos da decisão impugnada:
+
+Portanto, vislumbra-se ser impossível a reforma da decisão de primeiro grau, uma vez que se encontra em consonância com a jurisprudência deste Tribunal e do Superior Tribunal de Justiça" (e-STJ, fls. 549/550, grifou-se).
+Como se vê, a perda dos dias remidos na fração de 1/3 encontra-se devidamente fundamentada em elementos concretos, notadamente na espécie de falta grave praticada (delito doloso) e nas circunstâncias em que cometida (durante a saída temporária).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
