@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo regimental interposto em face de decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, ao fundamento de que incide o teor da Súmula 115/STJ.
+Sustenta o agravante que, no julgamento dos Embargos de Divergência em AgRg no REsp 798.496, esta Corte Superior adotou o entendimento de que a nomeação judicial do Núcleo de Prática Jurídica para patrocinar a defesa do réu, todavia, dispensa a juntada de procuração, por não haver atuação provocada pelo assistido, mas sim exercício do munus público por determinação judicial, sendo, portanto, afastada a incidência da Súmula (fl. 167).
+É o relatório.
+Decido.
+Assiste razão ao agravante.
+Com efeito, a questão relativa ao advogado integrante do Núcleo de Prática Jurídica no sentido de que estaria dispensado de apresentar procuração ou ato de nomeação judicial, foi submetida a julgamento pela 3ª Seção, no julgamento do EAREsp nº 798.496, DJ 13/03/2018, in verbis:
+PROCESSO PENAL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NOMEAÇÃO DO NÚCLEO DE PRÁTICA JURÍDICA EM JUÍZO. PROCURAÇÃO. DESNECESSIDADE. INAPLICABILIDADE DA SÚMULA 115/STJ. PRECEDENTES DO STJ. EMBARGOS ACOLHIDOS.
+1. O Núcleo de Prática Jurídica, por não se tratar de entidade de direito público, não se exime da apresentação de instrumento de mandato quando constituído pelo réu hipossuficiente a quem cabe a livre escolha do seu defensor, em consonância com o princípio da confiança.
+2. A nomeação judicial do Núcleo de Prática Jurídica para patrocinar a defesa do réu, todavia, dispensa a juntada de procuração, por não haver atuação provocada pelo assistido, mas sim exercício do munus público por determinação judicial, sendo, portanto, afastada a incidência da Súmula 115/STJ. Precedentes do STJ.
+3. Embargos de divergência acolhidos.
+Desse modo, devidamente demonstrado que no caso em questão ocorreu a nomeação judicial, desnecessária a juntada de procuração, sendo inaplicável a Súmula 115/STJ.
+Superado o óbice de não conhecimento do agravo, prossigo no seu julgamento.
+Sustenta a defesa violação dos arts. 52 e 111 da Lei de Execuções Penais, alegando que a data-base a ser considerada para fins de aquisição de benefícios da execução, em razão da unificação de penas, é data da última prisão.
+Requer, assim, seja considerada a data da última prisão como marco para a concessão de novos benefícios.
+A controvérsia cinge-se à fixação da data-base para a aquisição de benefícios da execução penal, tendo em vista a unificação das penas decorrente de nova condenação.
+O acórdão do Tribunal de origem restou assim ementado (fl. 57):
+RECURSO DE AGRAVO. EXECUÇÃO PENAL. CONCESSÃO DE NOVOS BENEFÍCIOS. UNIFICAÇÃO DE PENAS. NOVO MARCO TEMPORAL. TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO. RECURSO PROVIDO.
+O marco inicial para a concessão de novos benefícios na execução penal, após a unificação das penas, é a data do trânsito em julgado da nova sentença condenatória. Precedentes do STF e do STJ.
+A questão foi submetida a julgamento pela Terceira Seção, no REsp 1.557.461/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, na sessão de 22/2/2018, oportunidade em que se firmou a orientação de que a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem, adotando-se, assim, como data-base da unificação a data da prisão provisória, única ou última, nos termos da seguinte ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018).
+Impõe-se, portanto, a reforma do acórdão recorrido, porquanto em discordância com o entendimento desta Corte.
+Ante o exposto, reconsidero a decisão de fls. 158/159 para conhecer do agravo e dar provimento ao recurso especial, a fim de restabelecer a decisão do magistrado a quo (fls. 17/19) que fixou, como data-base da unificação das penas, a data da prisão, última ou única.
+Publique-se.
+Intimem-se.
