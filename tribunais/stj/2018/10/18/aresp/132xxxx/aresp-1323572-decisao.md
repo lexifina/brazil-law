@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO EM NOMINADA "AÇÃO DE COBRANÇA PELO RITO ORDINÁRIO C/C INDENIZAÇÃO POR DANO MORAL". AUTOR E RÉU QUE TRANSACIONARAM, NADA MENCIONANDO O ACORDO SOBRE O PAGAMENTO DAS DESPESAS PROCESSUAIS. DECISÃO AGRAVADA QUE RECONHECEU A "ILEGITIMIDADE" DO RÉU PARA O PAGAMENTO DOS HONORÁRIOS PERICIAIS. RECURSO INTERPOSTO PELO EXPERT. DESPESAS PROCESSUAIS QUE, EM CASOS COMO O DOS AUTOS, DEVEM SER "DIVIDIDAS IGUALMENTE" PELAS PARTES - ART. 26, §22, DO CPC/1973 E ART. 90, §22, DO CPC/2015. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO QUANTO À ANÁLISE DE FUNDAMENTOS EXPOSTOS EM CONTRARRAZÕES. DIFERENCIAÇÃO ENTRE CUSTAS E DESPESAS PROCESSUAIS PELO COLEGIADO QUE NÃO ALTERARIAM O CONTEÚDO DA DECISÃO. "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão" (EDcI no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 32 REGIÃO, PRIMEIRA SEÇÃO, j. 08/06/2016, DJe 15/06/2016). ALEGADA OMISSÃO QUANTO À PRESCRIÇÃO DA PRETENSÃO DO RECORRENTE. HONORÁRIOS PERICIAIS JÁ DEPOSITADOS DISCUSSÃO ACERCA DA RESPONSABILIDADE DO SEU PAGAMENTO APÓS ACORDO REALIZADO PELAS PARTES - INAPLICABILIDADE DO PRAZO DO ART. 206, §12, DO CC. EMBARGOS CONHECIDOS E PARCIALMENTE ACOLHIDOS, SEM ATRIBUIÇÃO DE EFEITO INFRINGENTE.
+Nas razões do especial, aponta a parte agravante violação ao artigo 33 do CPC/73, ante a ilegitimidade passiva, no tocante ao pagamento dos honorários periciais.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+O Tribunal de origem, com base nos fatos e provas dos autos, assim consignou acerca da responsabilidade das despesas processuais:
+ ..
+Como mencionado, o acordo celebrado por autor e réu nada dispôs acerca do pagamento dos honorários periciais (mov. 1.119 e 1.120).
+Por isso, tratando-se de despesa processuall, em casos como o dos autos, os honorários periciais, conforme disposto no art. 26, §29., do CPC/19732 (cuja regra foi repetida nos mesmos termos no art. 90, §22, do CPC/2015) devem ser igualmente divididos pelas partes:
+"Art. 90. Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu.
+§ 22 Havendo transação e nada tendo as partes disposto quanto às despesas, estas serão divididas igualmente" (destaquei).
+Neste ponto, a despeito das alegações do recorrido SAP SCHULTZ ADVENTURE PRODUCTS INDÚSTRIA E COMÉRCIO LTDA E OUTRO de que "a responsabilidade pelo adimplemento dos honorários são de quem requereu a perícia" (f. 51), o que o CPC estabelece é que as despesas são adiantadas pela parte que requereu a realização do ato, o que não se confunde com a responsabilidade pelo pagamento das despesas processuais decorrente da sucumbência, como é o caso.
+A decisão que reconheceu a "ilegitimidade" da parte requerida para o pagamento dos honorários periciais, portanto, merece reforma, vez que, diante do silêncio do acordo celebrado pelas partes sobre o pagamento das despesas processuais, o CPC estabelece que "serão divididas igualmente".
+Portanto, voto por dar provimento ao recurso, reformando- se a decisão agravada, para o fim de que as despesas processuais sejam incumbidas às partes conforme disposto no art. 90, §22, do CPC/2015.
+O acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE EM INTERIOR DE ÔNIBUS. VALOR DA INDENIZAÇÃO. REVISÃO. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. GRAU DE SUCUMBÊNCIA. VERIFICAÇÃO. REEXAME DE PROVA.
+1. Em sede de recurso especial, a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, torna-se incabível examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência do enunciado da Súmula 7/STJ.
+2. O termo inicial dos juros de mora na condenação por dano moral é a partir da citação ou do evento danoso, conforme se trate de responsabilidade contratual ou extracontratual, respectivamente, o que afasta a alegação de incidência a partir do arbitramento da indenização.
+3. A verificação do grau de sucumbência de cada parte, para fins de distribuição das despesas processuais e honorários advocatícios, enseja incursão à seara fático-probatória dos autos, vedada pelo enunciado da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1023507/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/06/2017, DJe 27/06/2017)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
