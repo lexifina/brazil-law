@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE COLOMBO contra decisão que inadmitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal de Justiça do Paraná assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. IPTU. EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DO MÉRITO. PRESCRIÇÃO AFERIDA. CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DAS CUSTAS PROCESSUAIS. FORMAL INCONFORMISMO. CUSTAS DEVIDAS. INAPLICABILIDADE DO ART. 39 DA LEF. ISENÇÃO HETERÔNOMA. VEDAÇÃO CONSTITUCIONAL (ART. 151, III, CF). EXCLUÍDO O VALOR DA TAXA JUDICIÁRIA. ART. 3º, "I" DO DECRETO ESTADUAL Nº 962/1932. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do especial, alega violação do art. 39 da LEF e dissídio jurisprudencial, sustentando que a Fazenda Pública não deve arcar com o pagamento das custas judiciais, independentemente da estatização da serventia em que o processo executivo fiscal tenha tramitado.
+Não foram apresentadas contrarrazões ao recurso especial, que foi inadmitido ante a aplicação da Súmula 83 do STJ, fundamento que não concorda o agravante.
+Contraminuta não foi apresentada pela parte agravada.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, cabe ressaltar que o recurso especial originou-se de execução fiscal ajuizada pela municipalidade em desfavor do agravado, tendo por objeto débito referente a ISSQN.
+O Juízo da 1ª Vara Cível do Foro Regional de Colombo - PR extinguiu o feito executivo, ante o reconhecimento, de ofício, da prescrição do crédito tributário, condenando o exequente ao pagamento das custas processuais.
+Irresignada, a municipalidade interpôs recurso de apelação, que fora parcialmente provido pelo TJ/PR apenas para afastar a condenação ao pagamento da taxa judiciária. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 36/39):
+O pleito de afastamento da condenação ao pagamento das custas processuais, tendo em vista o art. 39 da Lei de Execução Fiscal, não comporta acolhimento.
+O mencionado artigo dispõe: (..)
+Em que pese a redação do art. 39 da Lei no 6.830/80, cumpre esclarecer que a Primeira Seção do Superior Tribunal de Justiça, ao julgar os Embargos de Divergência n. 889.558, uniformizou o entendimento acerca do tema, passando a considerar que a Fazenda Pública está sujeita ao pagamento das custas destinadas às varas não estatizadas. O julgado restou assim ementado: (..)
+Frise-se que a Primeira Seção do STJ, ao examinar outros embargos de divergência com o mesmo objeto, reiterou o entendimento anteriormente mencionado, sempre para reafirmar a necessidade de se observar a particularidade dos cartórios não oficializados, casos em que serão devidas as custas pela Fazenda Pública. Confira-se: EREsp 891.763/PR, Rel. Min. Denise Arruda, DJe 16-11-2009 e EREsp 979.784/PR, Rel. Min. Castro Meira, DJe 11-6-2010. No mesmo sentido: AgRg no REsp no 1180324/PR, Rel. Min. Luiz Fux, 1a Turma, DJe 3-8-2010.
+Nestes termos, esta câmara julgadora convencionou o posicionamento acerca da possibilidade de condenação da Fazenda Pública ao pagamento das custas processuais, em caso de serventia não oficializada na qual o feito tramitou integralmente, o que se coaduna à hipótese vertente, tendo em vista que a remessa dos autos à Vara da Fazenda Pública, serventia estatizada, ocorreu após a prolação da sentença e a interposição de recurso de apelação.
+Por fim, verifica-se que a Constituição Federal veda expressamente a isenção heterônoma, que consiste na outorga de isenção por quem não é competente para a criação do tributo (CF, art. 151, III). Essa garantia advém do pacto federativo, com o fito de assegurar a autonomia dos entes públicos.
+Nas adequações da lei ao caso concreto, o norte é apontado: (..)
+Diante da vedada isenção heterônoma, deve ser mantida a condenação do município ao pagamento das custas processuais.
+Tratando-se, pois, de serventia não oficializada, deve a Fazenda Pública arcar com o pagamento de custas processuais, excluindo-se, somente, o valor da taxa judiciária, conforme dispõe o artigo 3º, alínea "i", do Decreto n. 962/1932.
+Pois bem.
+Não obstante a existência de fundamento constitucional, conforme pode se observar na leitura do acórdão impugnado, o agravante limitou-se a interpor recurso especial, deixando de interpor o extraordinário, de competência do Supremo Tribunal Federal, o que atrai a incidência da Súmula 126 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
