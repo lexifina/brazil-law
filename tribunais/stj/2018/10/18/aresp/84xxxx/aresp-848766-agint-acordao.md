@@ -1,0 +1,69 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. PRECEDENTES. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Constou expressamente na decisão agravada que nos termos da jurisprudência do Superior Tribunal de Justiça as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias. Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MOURA RIBEIRO (Relator):
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que DELFIN RIO S.A. CRÉDITO IMOBILIÁRIO (DELFIN RIO) ajuizou ação de execução contra CLASSE A AUTOMÓVEIS DA TIJUCA LTDA. (LOCATÁRIA) e dos fiadores REGINALDO GONZALEZ GONZALEZ e IVONNE COUTINHO GONZALEZ (FIADORES) com base em contrato de locação firmado aos 29/9/1994.
+Os FIADORES ofereceram exceção de pré-executividade pretendendo o reconhecimento da prescrição da ação por não terem sido cientificados da ação de despejo por falta de pagamento.
+A exceção de pré-executividade não foi provida em virtude da existência de fiança solidária no contrato de locação, nos termos do acórdão proferido no Agravo de Instrumento nº 2008.002.20138.
+Após o julgamento daquele agravo, os FIADORES pleitearam, novamente, a análise da prescrição aduzindo a existência de aditamento contratual firmado aos 28/8/1995, no qual a fiança foi prestada sem a solidariedade.
+Assim, pleitearam, em primeiro grau, o reconhecimento da prescrição sustentando que esta somente foi interrompida contra a LOCATÁRIA.
+O d. Juízo de piso indeferiu o pedido, afastando o reconhecimento da prescrição, ao sustentar que como o aditamento não alterou a fiança inicialmente prestada, permanece solidária a obrigação assumida e, portanto, subsiste a dívida (e-STJ, fls. 22/24).
+Contra essa decisão interlocutória, os FIADORES interpuseram agravo de instrumento sustentando que não obstante a decisão proferida no Agravo de Instrumento nº 2008.002.20138, a prescrição foi arguida por outro fundamento, isto é, de que quando foi celebrado o aditivo contratual, o novo contrato afastou a solidariedade dos fiadores.
+O Tribunal de origem deu provimento ao recurso em acórdão assim ementado:
+Execução de título extrajudicial. Prescrição rejeitada anteriormente em sede de exceção de pré-executividade. Possibilidade de revisitar essa questão de ordem pública, porque insuscetível de preclusão (AR 3.286/SC, 3ª SEÇÃO, julgado em 29/02/2012, DJe 20/03/2012). Possível ofensa ao art. 471 do CPC. Inocorrência. Regra processual que só se aplicaria contra as questões dispositivas. Interrupção da prescrição promovida em face do devedor solidário que, por força de lei, prejudicaria o fiador (CC/1916, art. 176, §3º). Regra cuja intelecção deve ser mitigada, em compasso com a natureza benéfica do contrato de fiança. Precedentes do STJ (REsp 259132/MG, 5ª Turma, Dje 24.04.2001; REsp 869.357/RJ, 6ª Turma, Dje 28.09/2009). Recurso provido para, reconhecendo a prescrição, extinguir a execução promovida em face dos fiadores (e-STJ, fl. 137).
+Os embargos de declaração opostos pela DELFIN RIO foram rejeitados (e-STJ, fls. 158/161).
+Irresignada, a DELFIN RIO interpôs recurso especial com fulcro no art. 105, III, a e c, da CF alegando a violação dos arts. 471 e 473 do CPC/73 e existência de dissídio jurisprudencial quanto a preclusão consumativa que se aplica, inclusive, à prescrição.
+O apelo nobre não foi admitido em virtude da ausência de violação do art. 535 do CPC/73 e da incidência da Súmula nº 83 do STJ.
+Seguiu-se o agravo em recurso especial interposto pela DELFIN RIO que foi conhecido para dar provimento ao recurso especial em decisão monocrática de minha relatoria assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO (e-STJ, fl. 244).
+Os embargos de declaração opostos pelos FIADORES foram rejeitados em decisão monocrática de minha relatoria assim ementada:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS DE DECLARAÇÃO REJEITADOS (e-STJ, fl. 244).
+Nas razões deste agravo interno, os FIADORES (1) reiteram a violação do art. 471 do CPC/73 porque, sendo a prescrição matéria de ordem pública, pode ser alegada a qualquer tempo e não se sujeita à preclusão; e, (2) alegaram que a exceção de pré-executividade foi interposta contra o primeiro contrato de locação que possuía a cláusula de fiança solidária, mas que em relação ao segundo contrato não houve debate quanto a prescrição.
+Houve impugnação (e-STJ, fls. 322/326).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. PRECEDENTES. SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Constou expressamente na decisão agravada que nos termos da jurisprudência do Superior Tribunal de Justiça as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias. Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa
+VOTO
+O EXMO. SR. MINISTRO MOURA RIBEIRO (Relator):
+O inconformismo não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de fundamentos para a reforma da decisão agravada
+Nas razões deste agravo interno, os FIADORES (1) reiteram a violação do art. 471 do CPC/73 porque sendo a prescrição matéria de ordem pública pode ser alegada a qualquer tempo e não se sujeita à preclusão; e, (2) alegaram que a exceção de pré-executividade foi interposta contra o primeiro contrato de locação que possuía a cláusula de fiança solidária, mas que em relação ao segundo contrato não houve debate quanto a prescrição.
+Constou expressamente na decisão agravada que a prescrição já havia sido julgada pelo Tribunal de origem o que faz incidir à espécie o instituto da preclusão, sendo inadmissível o ressurgimento da controvérsia, confira-se:
+É incontroverso nos autos que os FIADORES já haviam interposto exceção de pré-executividade pleiteando o reconhecimento da prescrição, matéria esta julgada improcedente, nos termos do acórdão proferido pelo Tribunal de origem no agravo de instrumento nº 2008.002.20138.
+O art. 471 do CPC/73 é peremptório ao prescrever que nenhum juiz decidirá de novo as questões já decididas, já o art. 473 determina que é defeso discutir as questões já decididas a cujo respeito se operou a preclusão, in verbis:
+ ..
+No caso dos autos, a prescrição já havia sido julgada pelo Tribunal de origem o que faz incidir à espécie o instituto da preclusão, sendo inadmissível o ressurgimento da controvérsia  ..  (e-STJ, fls. 244/248).
+A decisão agravada, portanto, está em consonância com o entendimento desta Corte, que já firmou entendimento no sentido de que as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias.
+Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno.
+Nesse sentido, confiram-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA DAS SÚMULAS 284/STF E 7/STJ. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. PRESCRIÇÃO. QUESTÃO ANTERIORMENTE DECIDIDA, NO CURSO DA AÇÃO. PRECLUSÃO. AÇÃO AJUIZADA DENTRO DO PRAZO PRESCRICIONAL. ARTS. 23, II, DA LEI 8.429/92 E 142, I, § 1º, DA LEI 8.112/90. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+IV. Nos termos da jurisprudência do Superior Tribunal de Justiça, "as matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias.
+Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno" (STJ, AgInt no REsp 1.447.224/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 26/02/2018).
+V. Ainda que assim não fosse, no caso, os fatos tornaram-se conhecidos da Administração em agosto de 2002. Já a presente Ação Civil Pública foi ajuizada em 19/12/2006, dentro do prazo prescricional previsto nos arts. 23, II, da Lei 8.429/92 e 142, I, § 1º, da Lei 8.112/90.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no REsp 1.584.287/DF, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, j. 15/5/2018, DJe 21/5/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. MATÉRIA PRECLUSA. PRONUNCIAMENTO JUDICIAL ANTERIOR. SEGUNDA APELAÇÃO. REDISCUSSÃO DO PRAZO PRESCRICIONAL. IMPOSSIBILIDADE.
+1. A controvérsia consiste em definir a ocorrência, ou não, de preclusão consumativa no tocante ao prazo prescricional.
+2. As matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas a qualquer tempo nas instâncias ordinárias. Todavia, existindo decisão anterior, opera-se a preclusão consumativa se não houver impugnação no momento processual oportuno.
+3. Agravo interno não provido.
+(AgInt no REsp 1.447.224/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 20/2/2018, DJe 26/2/2018)
+Dessa forma, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Considerando anterior advertência quanto a incidência das normas do NCPC, inclusive no que tange ao cabimento de multa, e verificada a improcedência do presente agravo interno, condeno REGINALDO GONZALEZ GONZALEZ e IVONNE COUTINHO GONZALEZ (FIADORES) ao pagamento da multa de 3% sobre o valor atualizado da causa, nos termos do art. 1.021, § 4º, do NCPC.
+Por fim, conforme o art. 1.021, § 5º, do NCPC, a interposição de qualquer outro recurso fica condicionada ao depósito prévio da respectiva quantia.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno, com aplicação de multa.
+Advirto que eventual recurso interposto contra este acórdão estará sujeito ao possível cabimento de nova multa (arts. 77, §§ 1º e 2º, 1.021, § 4º, e 1.026, § 2º, todos do NCPC).
