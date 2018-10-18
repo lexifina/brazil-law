@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência em execução fiscal proposta pela FAZENDA NACIONAL contra POTRICH MATERIAIS PARA CONSTRUCAO EIRELI.
+A ação foi ajuizada originalmente no Juízo Federal da 4ª Vara de Santa Maria - SJ/RS, que, de ofício, após manifestação de concordância da exequente, determinou a remessa dos autos para o Juízo Federal do Estado de São Paulo, distribuído o feito para a 3ª Vara de Execuções Fiscais da Seção Judiciária do Estado de São Paulo, que, por sua vez, suscitou o conflito, alegando que a competência é relativa, devendo o feito ser mantido no juízo originário.
+É o relatório. Decido.
+Segundo entendimento sedimentado a partir da interpretação do art. 112 do CPC/73, que resultou na Súmula n. 33/STJ, incumbe às partes a arguição da incompetência relativa, por meio de exceção, sob pena de prorrogação da competência.
+No novo Código de Processo Civil, o art. 43 prevê que a competência é determinada no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta. Por sua vez, o art. 337, § 5º, excetua a incompetência relativa entre aquelas matérias que o juiz pode conhecer de ofício.
+Finalmente, observa-se que será prorrogada a competência relativa se o réu não alegar a incompetência em preliminar de contestação, a teor do art. 65 do CPC/2015.
+Nesse panorama, proposta a execução fiscal, a mudança de domicílio do devedor não tem o condão de deslocar a competência, sendo tal entendimento cristalizado pela Súmula n. 58/STJ.
+No mesmo diapasão, confira-se, ainda, in verbis:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. DOMICÍLIO DO DEVEDOR. COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFICIO. SÚMULA 33/STJ. AUSÊNCIA DE EXCEÇÃO DE INCOMPETÊNCIA. SÚMULA 58/STJ.
+1. O foro competente para o ajuizamento da execução fiscal será o domicílio do réu, consoante a disposição contida no artigo 578, caput, do Código de Processo Civil. Por se tratar de competência relativa, a competência territorial não pode ser declarada ex officio pelo Juízo. Esse entendimento se consolidou com a Súmula 33 do Superior tribunal de Justiça, in verbis: "A incompetência relativa não pode ser declarada de oficio."
+2. Na hipótese de execução fiscal proposta fora do domicílio do devedor, compete exclusivamente ao executado se valer da exceção de incompetência, para afastar a competência de Juízo relativamente incompetente.
+3. Ademais, a posterior mudança de domicílio do executado não influi para fins de alteração de competência, conforme teor da Súmula 58 do Superior Tribunal de Justiça, in verbis: "Proposta a execução fiscal, a posterior mudança de domicilio do executado não desloca a competência já fixada."
+4. Conflito de competência conhecido para declarar a competência do Juízo Federal de Sinop - SJ/MT, o suscitado (CC 101.222/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 11/3/2009, DJe de 23/3/2009).
+Nesse sentido, vejam-se ainda as seguintes decisões monocráticas: CC 141.646/DF, Relator Ministro Sérgio Kukina, DJe de 12/5/2016; CC 144.221/MG, Relatora Ministra Assusete Magalhães, DJe de 4/5/2016; CC 144.714/SP, Relator Ministro Gurgel de Faria, DJe de 2/5/2016.
+Ante o exposto, com esteio no art. 955, parágrafo único, inciso I, do CPC/2015, conheço do conflito e declaro competente para processar e julgar a ação o JUÍZO FEDERAL DA 4ª VARA DE SANTA MARIA - SJ/RS.
+Publique-se Intimem-se.
