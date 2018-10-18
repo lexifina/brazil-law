@@ -1,0 +1,78 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE TRANSPORTE DE PASSAGEIRO. 1. ACIDENTE. RESPONSABILIDADE CIVIL OBJETIVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 2. CULPA EXCLUSIVA DA VÍTIMA OU CULPA CONCORRENTE. NÃO OCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. 3. REPARAÇÃO MORAL. DECURSO DO TEMPO. INFLUÊNCIA NA EXISTÊNCIA DO DIREITO. NÃO OCORRÊNCIA. SÚMULA 83/STJ. INTERFERÊNCIA NO QUANTUM INDENIZATÓRIO. CABIMENTO. PRECEDENTES. 4. DANOS MORAIS E ESTÉTICOS. CUMULAÇÃO. POSSIBILIDADE. SÚMULA 387/STJ. 5. DANOS ESTÉTICOS. MONTANTE FIXADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 6. PENSIONAMENTO MENSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 7. RESPONSABILIDADE EXTRACONTRATUAL. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO. SÚMULA 54/STJ. 8. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por Companhia Brasileira de Trens Urbanos contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Trigésima Sétima Câmara de Direito Privado do Tribunal de Justiça de São Paulo negou provimento ao agravo regimental interposto pela ora agravante, conforme ementa abaixo colacionada (e-STJ, fl. 442):
+DANO MORAL - Ocorrência - Contrato de transporte de passageiro - Acidente sofrido em veículo de transporte ferroviário - Indenização fixada em R$ 50.000,00 - Adequação, tendo em vista as particularidades do caso concreto - Decisão que negou provimento à apelação mantida - Agravo regimental improvido.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do recurso especial, a insurgente indicou violação aos arts. 405 e 944 do CC; e 14, § 3º, II, do CDC.
+Argumentou que não teria sido comprovada a sua culpa, sendo o caso de culpa exclusiva da vítima ou, ao menos, culpa concorrente.
+Relatou que a demanda foi ajuizada quase 20 (vinte) anos após o acidente, "momento em que os reflexos do possível sofrimento já não podiam ser mais sentidos, pelo menos não na mesma intensidade" (e-STJ, fl. 495), razão pela qual a reparação moral deveria ser afastada, ou ao menos reduzida.
+Defendeu que seria impossível a cumulação de danos morais e estéticos e que, ainda que se entenda por essa possibilidade, os valores dos danos estéticos deveriam ser reduzidos.
+Afirmou que o acidente não impediu o desenvolvimento de atividades laborativas pelo recorrido, razão pela qual não poderia ser condenada ao pagamento de pensão mensal e que, mesmo que se entenda o contrário, seria o caso de fixar a pensão em patamar não superior a 1/3 (um terço) do salário mínimo, considerando-se ainda a expectativa de vida do brasileiro.
+Asseverou que os juros de mora deveriam incidir a partir da citação.
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+De início, verifica-se que o Tribunal de origem concluiu que não seria necessária a demonstração de culpa da ora recorrente para a sua responsabilização, bem como não teria sido comprovada a culpa exclusiva da vítima, ou mesmo a concorrente, conforme trecho abaixo transcrito (e-STJ, fls. 443-444):
+Com efeito, a responsabilidade do transportador por seus passageiros é tida pela doutrina e jurisprudência como contratual, uma vez que se tem como inerente ao contrato a chamada cláusula de incolumidade na qual se obriga o transportador a levar os passageiros, sem qualquer dano, ao seu destino.
+(..)
+Logo, a violação de tal cláusula, por qualquer que seja o motivo, acarreta no inadimplemento da obrigação e no conseqüente dever de indenizar.
+Tal dever, como se sabe, para fatos anteriores à Constituição Federal de 1988, está disciplinado pelo Decreto nº 2.681/12, cuja aplicação foi estendida ao transporte rodoviário pela jurisprudência (STF  1" T - RE 84.146-6  Rei. Soares Mufioz - j. 10.10.78 - DJU 27.10.78, p. 8.483, "in" "Responsabilidade civil e sua interpretação jurisprudencial", Rui Stoco, RT, 2* ed., 1995, p. 139).
+De acordo com o art. 17 do Decreto, "As estradas de ferro responderão pelos desastres que nas suas linhas sucederem aos viajantes e de que resulte a morte, ferimento ou lesão corpórea", sendo admitidas apenas as excludentes de responsabilidade fundadas em caso fortuito ou força maior e em culpa exclusiva da vítima.
+Trata-se, pois, de responsabilidade fundada na teoria do risco da atividade na qual não se indaga sobre culpa, bastando ação ou omissão, dano e nexo causal.
+(..)
+Tem-se, então, que a existência ou não de culpa da apelante é irrelevante para sua responsabilização pelos danos sofridos pelo apelado.
+No que toca às excludentes, isto é, alegação de culpa exclusiva do apelado, a verdade é que disso não há prova nos autos, tanto mais porque a apelante não cuidou de indicar exatamente no que consistiria, limitando-se a alegações genéricas.
+Exatamente por esse motivo não há igualmente falar em culpa concorrente, o que, de resto, somente teria relevância para fixação do "quantum" indenizatório.
+No que tange ao primeiro ponto, o entendimento acima externado se harmoniza com a orientação jurisprudencial pacífica desta Corte, segundo a qual, em se tratando de danos produzidos no desempenho de atividade de transporte, a responsabilidade civil deve ser aferida pela teoria objetiva, configurando-se independentemente de culpa, isto é, "sendo atribuído ao transportador o dever reparatório quando demonstrado o nexo causal entre o defeito do serviço e o acidente de consumo, do qual somente é passível de isenção quando houver culpa exclusiva do consumidor ou uma das causas excludentes de responsabilidade genéricas (arts. 734 e 735 do Código Civil)" (REsp n. 1.354.369/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/5/2015, DJe 25/5/2015).
+Já em relação às teses de culpa exclusiva ou concorrente da vítima, tem-se que o seu eventual acolhimento demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do Enunciado sumular n. 7 do STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). DANO. RESPONSABILIDADE. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACIDENTE FERROVIÁRIO. CULPA DA VÍTIMA OU CULPA CONCORRENTE. EXCLUDENTE DE RESPONSABILIDADE NÃO VERIFICADA. REVISÃO. DANO MORAL. REDUÇÃO DO QUANTUM. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(AgInt no AREsp 897.653/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017)
+No que diz respeito aos danos morais, verifica-se que o Tribunal de origem, considerando as peculiaridades do caso concreto, reputou adequada a fixação do quantum indenizatório em R$ 50.000,00 (cinquenta mil reais), desconsiderando o tempo transcorrido entre o acidente e o ajuizamento da presente demanda.
+A propósito, confira-se o excerto abaixo transcrito (e-STJ, fls. 406-407):
+No que se refere ao "quantum" da indenização pelos danos morais, assinala-se que deve se ter presente a moderação recomendada na doutrina e na jurisprudência, tanto para que se evite enriquecimento indevido de uma parte em detrimento de outra como, ainda, para que se observem os limites geralmente aceitos em casos análogos, de modo a que se chegue a um valor que, compensando a dor moral sofrida, contenha componente de punição e desestímulo, sem excesso nem aviltamento.
+(..)
+No caso, e levando-se em conta tais parâmetros e circunstâncias, bem como precedentes desta C. Câmara, e, particularmente, o fato de as lesões sofridas serem permanentes e na face - houve necessidade de neurocirurgia em razão de traumatismo cranioencefálico, internação em unidade de tratamento intensivo por quarenta e cinco dias, diversas fraturas pelo corpo e realização de nova cirurgia para colocação de placas de titânio -, considera-se que a quantia fixada na r. sentença - R$-50.000,00 (cinqüenta mil reais) - foi adequada, pouco importando o tempo transcorrido, motivo pelo qual fica mantida; esse valor deverá ser monetariamente atualizado e acrescido de juros de mora desde hoje (Súmula nº 362) e do evento danoso (Súmula nº 54 do STJ e AgRg no AREsp nº 515.471).
+Sobre o tema, a jurisprudência desta Corte Superior se firmou no sentido de que "o direito à indenização em decorrência do dano moral sofrido, salvo se prescrito, não desaparece com o decurso do tempo, mas o tempo é fato a ser considerado na fixação do quantum quando há demora na propositura da ação" (REsp 1.133.033/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 07/08/2012, DJe 15/08/2012).
+Nessa mesma linha:
+PROCESSUAL CIVIL. DIREITO CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CIRURGIA PLÁSTICA. COMPLICAÇÕES PÓS-CIRÚRGICAS. MORTE DA PACIENTE. PENSÃO MENSAL. BENEFÍCIO PREVIDENCIÁRIO. CUMULAÇÃO. POSSIBILIDADE. REDUÇÃO DA INDENIZAÇÃO. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS. DIVERGÊNCIA NÃO DEMONSTRADA. OFENSA AOS ARTS. 165, 458, II, E 535, II, DO CPC. NÃO CONFIGURADA.
+(..)
+2. O direito à indenização por dano moral não se extingue com o decurso de tempo, desde que não transcorrido o lapso prescricional, mas deve ser considerado na fixação do quantum indenizatório.
+(..)
+5. Agravo regimental desprovido.
+(AgRg no REsp 703.017/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/04/2013, DJe 16/04/2013)
+Assim, embora o decurso de um longo período entre o evento danoso e o ajuizamento da demanda não seja suficiente para extinguir a pretensão indenizatória, quando não transcorrido o prazo prescricional, é certo que ele influencia no quantum reparatório, já que o tempo ameniza a dor sentida pela vítima.
+Nesse sentido, considerando-se que o acidente ocorreu em julho de 1978 e que a ação indenizatória foi proposta pelo autor, ora recorrido, somente em outubro de 1997, ou seja, 19 (dezenove) anos após o evento, tem-se que esse considerável período é condição que deve influir no montante fixado a título de danos morais, mostrando-se imperiosa, portanto, a redução do valor fixado ao patamar de R$ 25.000,00 (vinte e cinco mil reais).
+Em relação aos danos estéticos, impende registrar que a sua cumulação com danos morais é plenamente aceita pela jurisprudência desta Corte Superior, que, inclusive, foi consolidada no Enunciado sumular n. 387/STJ.
+Já no que tange à pretensão de alteração do montante fixado a esse título, saliente-se que a intervenção deste Superior Tribunal apenas se justifica nas hipóteses em que os valores estabelecidos pelas instâncias ordinárias se mostrem ínfimos ou exorbitantes.
+Por oportuno:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. TRANSPORTE FERROVIÁRIO. ACIDENTE. DANOS MATERIAIS, MORAIS E ESTÉTICOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. PAGAMENTO DE PENSÃO. DANO. REPARAÇÃO INTEGRAL. CONSTITUIÇÃO DE CAPITAL. ART. 475-Q, § 2º, DO CPC/1973. SUBSTITUIÇÃO. FOLHA DE PAGAMENTO. INCLUSÃO DE BENEFICIÁRIO. FACULDADE DO JUÍZO. INDENIZAÇÃO POR DANOS MORAIS. RAZOABILIDADE. HONORÁRIOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 284/STF.
+(..)
+5. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado os montantes fixados a título de indenização por danos morais e estéticos apenas quando se revelem irrisórios ou exorbitantes, circunstâncias inexistentes no presente caso, em que, diante de suas especificidades, não se pode afirmar desarrazoado o arbitramento da indenização no valor de R$ 75.000,00 (setenta e cinco mil reais).
+(..)
+8. Agravo interno não provido.
+(AgInt no REsp 1655626/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/10/2017, DJe 30/10/2017)
+No caso, levando-se em consideração as circunstâncias do caso concreto, verifica-se que a quantia indenizatória, fixada em R$ 30.000,00 (trinta mil reais), não pode ser considerada exorbitante, e a sua revisão implicaria, inevitavelmente, no revolvimento do conjunto fático-probatório dos autos, medida defesa em recurso especial, por incidir a Súmula n. 7/STJ.
+Quanto à almejada exclusão do pensionamento mensal, observa-se que, embora o voto vencido tenha feito menção ao referido tema, consignando que o autor não teria ficado incapacitado para o trabalho em decorrência do acidente, é certo que o pagamento de tal verba foi garantido na sentença em razão de uma "incapacidade parcial" (e-STJ, fl. 366), ponto que não foi debatido no acórdão objurgado.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por vulnerado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Dessa forma, incide a Súmula 211 do Superior Tribunal de Justiça, porquanto, a despeito da oposição de embargos de declaração, a questão jurídica aventada não teve o competente juízo de valor aferido.
+Sobre o tema, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE SIMILITUDE FÁTICA. MATÉRIA QUE DEMANDA REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS ESTATUTÁRIAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. MATÉRIA QUE DEMANDA REEXAME DE PROVAS E DA RELAÇÃO CONTRATUAL FIRMADA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Não houve debate sobre a questão inserta no art. 20, § 3º, do CPC/1973, situação esta que inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial, devido a falta de prequestionamento. Incidência da Súmula 211 do STJ.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 708.777/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/09/2017, DJe 02/10/2017)
+O mesmo óbice se aplica às demais pretensões relacionadas ao pensionamento mensal, porquanto tais questões, apesar de suscitadas nos aclaratórios, não foram examinadas no acórdão estadual.
+Por fim, no que tange aos juros moratórios, a jurisprudência consolidada desta Corte Superior entende que, tratando-se de responsabilidade extracontratual, como no caso em exame, os juros moratórios incidem desde a data do evento danoso, nos termos da Súmula 54 deste Superior Tribunal de Justiça.
+A título exemplificativo:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE EXTRACONTRATUAL. SÚMULA N. 54/STJ. DECISÃO MANTIDA. INOVAÇÃO RECURSAL. DESCABIMENTO.
+(..)
+3. Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual (Súmula n. 54/STJ).
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 862.889/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe 30/10/2017)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, dar-lhe parcial provimento a fim de reduzir o montante fixado a título de danos morais para o patamar de R$ 25.000,00 (vinte e cinco mil reais).
+Publique-se.
