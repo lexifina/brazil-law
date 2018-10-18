@@ -1,0 +1,131 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. NECESSIDADE, SEGUNDO O TRIBUNAL A QUO. ALEGADA VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, o Tribunal a quo, ao julgar Agravo de Instrumento interposto pelo ora agravante, negou-lhe provimento, a fim de manter a decisão de 1º Grau, que não conhecera de Exceção de Pré-executividade, ao fundamento de que as questões deduzidas demandariam dilação probatória, providência incompatível com o presente meio processual de defesa.
+III. Não há falar, na hipótese, em violação ao art. 1.022, inciso II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Herman Benjamin (Presidente), Og Fernandes e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno, interposto por SUPERMERCADO BOM DIA SÃO PAULO LTDA., contra decisão de minha lavra, publicada em 16/08/2018, assim fundamentada, in verbis:
+"Trata-se de Agravo em Recurso Especial interposto por SUPERMERCADO BOM DIA SÃO PAULO LTDA., na vigência do CPC/2015, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento. Execução fiscal. ICMS. Exceção de pré-executividade. Ocorrência do fato gerador que deu ensejo ao crédito tributário e legalidade da apuração de inconsistências no recolhimento de ICMS por intermédio de informações prestadas por operadoras de cartão de crédito e de débito. Questões que demandam dilação probatória em sede de embargos à execução. Decisão que não conheceu da exceção de pré-executividade.
+Agravo não provido" (fl. 194e).
+Opostos Embargos de Declaração, restaram assim decididos:
+"Embargos de declaração. Ausência de omissão, contradição ou obscuridade. Nítido caráter infringente. Impossibilidade de rediscussão da matéria em sede de embargos de declaração. Embargos rejeitados" (fl. 207e).
+No Recurso Especial, interposto pela alínea a do permissivo constitucional, a parte recorrente alega negativa de vigência ao art. 1.022, II, do CPC/2015. Para tanto, afirma que:
+"II. DO CABIMENTO DO PRESENTE RECURSO (CPC/15, art. 1.029)
+O presente é cabível, nos termos do art. 1.029 do Código de Processo Civil, quando a decisão não enfrentar matérias tratadas nos embargos de declaração.
+Não se propõe aqui o reexame fático ou do acervo probatório dos autos, mas sim a correta leitura da legislação infraconstitucional.
+Dispõe o inciso III, alínea "a", do art. 105 da CF/88:
+(..)
+Busca-se na instância superior debater a incompletude da prestação jurisdicional por parte do Tribunal a quo, já que uma vez provocada a se manifestar, a Colenda 2ª Câmara, quedou-se silente, não entregando a devida prestação jurisdicional.
+Reforçando o cabimento do presente Recurso Especial, é mister trazer à colação aresto do STJ:
+(..)
+IV. DAS RAZÕES DO PEDIDO DE REFORMA DA DECISÃO RECORRIDA (CPC, art. 1.029, III)
+DA VIOLAÇÃO A LEI FEDERAL
+Com a devida vênia o v. acórdão atacado violou lei federal, qual seja Lei n.º 13.105, de 16/3/2015 (Código de Processo Civil) notadamente o art. 1.022, inciso II.
+Em sede de Embargos de Declaração o recorrente prequestionou a matéria para eventual interposição de Recurso Especial, no entanto, o v. acórdão proferido, se limitou a declarar que inexistem vícios, e mais, que os embargos de declaração evidenciam o inconformismo da embargante.
+Entretanto, em sucinta análise, verifica-se que houve omissão clara que afronta o entendimento dos Tribunais Superiores, conforme precedentes abaixo colacionados:
+(..)
+Na verdade, o que está ocorrendo é uma anomalia recorrente, já observada por diversos doutrinadores, dentre eles Luís Eduardo Simardi Fernandes, in Embargos de Declaração, 3ª ed. Editora Revista dos Tribunais, 2012, págs. 268-270 que discorre sobre o tema:
+(..)
+Trata-se, portanto, da situação análoga ao caso concreto, em que a Colenda 2ª Câmara do Tribunal de Justiça de São Paulo se recusa a sanar a omissão apontada.
+Prossegue o eminente processualista:
+(..)
+No caso concreto observou-se omissão no v. acórdão, que impede o correto julgamento. Assim, a oposição dos embargos declaratórios teve o objetivo de integrar a r. decisão, bem como prequestionar expressamente todas as matérias de competência daquele E. Tribunal, devendo ter expresso debate à luz da lei federal indicada, porque os pontos alegados são fundamentais para o deslinde da controvérsia" (fls. 217/224e).
+Ao final, requer "seja dado PROVIMENTO ao presente Recurso Especial, para fins de cassar o v. acórdão recorrido e, ato contínuo, seja determinado o retorno dos autos ao Tribunal de origem, para que os Embargos de Declaração sejam julgados pelo mérito, com o intuito de serem supridas as omissões, em especial para que sejam detidamente analisadas todas as provas acostadas aos autos, em obediência à Lei Federal (CPC/15, art. 1.022, II), ao devido processo legal, a ampla defesa e ao exercício do contraditório (CF, art. 5º, incisos LIV e LV)" (fls. 224/225e).
+Contrarrazões apresentadas (fls. 229/231e), foi o Recurso Especial inadmitido pelo Tribunal de origem (fls. 232/233e), ensejando a interposição do presente Agravo (fls. 235/247e).
+Sem razão a parte recorrente.
+Na origem, trata-se de "exceção de pré-executividade oposta pelo agravante nos autos da execução fiscal que lhe move a Fazenda do Estado de São Paulo para cobrança de débito tributário consignado na CDA nº 1.128.372.690" (fl. 195e).
+O Tribunal de origem assim decidiu a questão:
+"Cuida-se de exceção de pré-executividade oposta pelo agravante nos autos da execução fiscal que lhe move a Fazenda do Estado de São Paulo para cobrança de débito tributário consignado na CDA nº 1.128.372.690 (fls. 16/34).
+O E. Juízo de origem não conheceu da objeção, decisão que deu ensejo ao presente agravo.
+A exceção de pré-executividade deriva de construção doutrinária, admitida em hipóteses excepcionais, quando suscitada questão de ordem pública ou matéria exclusivamente de direito, incabível a dilação probatória.
+No caso dos autos, a aferição da ocorrência ou não do fato gerador que deu ensejo ao crédito tributário em cobrança, bem assim a legalidade da apuração de inconsistências no recolhimento de ICMS por intermédio de informações prestadas por operadoras de cartão de crédito e de débito, são matérias próprias de embargos do devedor, necessária regular instrução, incabível sua análise na estreita via da objeção de pré-executividade, acertada a decisão agravada que não conheceu da exceção.
+Confira-se, a respeito:
+(..)
+Para fins de acesso às Instâncias Superiores, considero prequestionada toda a matéria debatida, relativa à Constituição e à Lei Federal, desnecessária a menção específica a cada um dos dispositivos constitucionais e infraconstitucionais invocados e pertinentes aos temas em discussão.
+Ante o exposto, pelo meu voto, NEGO PROVIMENTO ao recurso, mantendo a r. decisão agravada" (fls. 195/196e).
+Da leitura dos excertos transcritos, verifica-se que o acórdão recorrido não incorreu em qualquer omissão, como ora alega a parte recorrente, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da lide, dando-lhes, contudo, solução jurídica diversa da pretendida pelo agravante.
+Assim, o acórdão de 2º Grau contou com motivação suficiente e não deixou de se manifestar sobre a matéria cujo conhecimento lhe competia, permitindo, por conseguinte, a exata compreensão e resolução da controvérsia, não havendo falar em descumprimento ao art. 1.022 do CPC/2015.
+Nesse contexto, "a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015" (STJ, REsp 1.669.441/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+A propósito, ainda:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTA DO ARTIGO 1.021, §4º, DO CPC/2015. EXCLUSÃO. INADMISSIBILIDADE OU IMPROCEDÊNCIA DO AGRAVO INTERNO INTERPOSTO NA ORIGEM. NÃO VERIFICAÇÃO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. IMPOSIÇÃO DE MULTA. EXCLUSÃO. PROPÓSITO DE PREQUESTIONAMENTO. SÚMULA 98/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. O acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão do recorrente, não havendo, portanto, omissão ensejadora de oposição de embargos de declaração, pelo que, deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+(..)
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido" (STJ, REsp 1.672.822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017).
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO RECORRIDO QUE DECIDE COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. EMBARGOS PROTELATÓRIOS. VIOLAÇÃO AO ART. 1.026, § 2º, DO CPC/2015. MULTA AFASTADA.
+1. Inicialmente, quanto à alegação de violação ao artigo 1.022 do CPC/2015, cumpre asseverar que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em Embargos de Declaração apenas pelo fato de a Corte ter decidido de forma contrária à pretensão do recorrente.
+2. Quanto à questão de fundo, isto é, a revisão do benefício previdenciário observando os valores dos tetos estabelecidos nas Emendas Constitucionais 20/1998 e 41/2003, o recurso não merece que dela se conheça. Com efeito, verifica-se que o acórdão recorrido negou provimento à apelação com fundamento em precedentes do Supremo Tribunal Federal. Dessa forma, dada a natureza estritamente constitucional do decidido pelo Tribunal de origem, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. A irresignação merece acolhida em relação à alegada ofensa ao art. 1.026, § 2º, do CPC/2015 nos termos da Súmula 98 do STJ, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". No caso dos autos, os Embargos de Declaração ofertados na origem tiverem tal propósito, de maneira que deve ser excluída a multa fixada com base no supracitado dispositivo legal.
+4. Recurso Especial parcialmente provido" (STJ, REsp 1.669.867/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+Portanto, ao contrário do pretende fazer crer a parte recorrente, não há que se falar em negativa de prestação jurisdicional.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários" (fls. 264/268e).
+Inconformada, sustenta a parte agravante que:
+"Em apertada síntese, ao analisar o mérito da decisão agravada, entendeu a eminente Relatora que o v. acórdão recorrido não incorreu em qualquer omissão "uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da lide, dando-lhes, contudo, solução jurídica diversa da pretendida pelo agravante" (g.n.).
+Não obstante, conforme fundamentado no recurso especial, cotejando o requerido por meio do dos embargos de declaração prequestionadores e o v. acórdão proferido pela Colenda 2ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, observa-se que este não se manifestou sobre:
+a) os documentos juntados, demonstrando a confissão da Fazenda Pública acerca da quebra de sigilo bancário, obtidos irregularmente através da administradora de cartão de crédito;
+b) a ilegalidade e irregularidade do AIIM, baseado em documentos obtidos sem autorização judicial (com quebra de sigilo), ferindo de uma só vez as garantias constitucionais positivadas nos incisos X e XII, art. 5º, da Constituição Federal;
+c) que o entendimento do próprio Tribunal de Justiça do Estado de São Paulo é no sentido de considerar nulo o AIIM quando fundado em documentos obtidos por meio de quebra de sigilo ilegal (desacompanhado de ordem judicial).
+Assim, observa-se primo ictu oculi que há omissão sobre tema essencial ao deslinde da controvérsia, cujo enfrentamento modificaria o resultado do julgamento.
+Ademais, vê-se claramente que a Colenda 2ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo chegou à errônea conclusão de ser incabível a exceção de pré-executividade apresentada pelo agravante por não ter analisado as provas acostadas aos autos, que comprovam de plano os pontos referidos acima, suficientes ao acolhimento da pretensão junto ao Tribunal a quo, sem qualquer necessidade de dilação probatória.
+Há que se notar, ainda, que o tema de fundo é matéria de ordem pública (conhecível de ofício em todos os graus de jurisdição) devido à patente violação ao artigo 5º, incisos X e XII, da Constituição Federal - violação ao sigilo e à intimidade.
+Nessa esteira, observa-se que no presente caso, bastaria análise dos documentos acostados aos autos para evidenciar a possibilidade da oposição de exceção de pré-executividade, pois a matéria tratada é de ordem pública, cognoscível de ofício pelo juiz, existindo inclusive prova da confissão da excepta de que o crédito tributário discutido fora constituído com base em informações fornecidas pelas empresas de cartões de crédito e/ou débito, sem qualquer fundamento na efetiva ocorrência do fato gerador do tributo e sem qualquer ordem judicial para a quebra do sigilo bancário do excipiente.
+(..)
+Data maxima venia, observa-se nos autos que o E. Tribunal de Justiça do Estado de São Paulo não se pronunciou sobre os argumentos principais deduzidos pelo agravante, incorrendo em patente ofensa aos artigos 489 e 1.022, ambos do CPC/2015.
+Deve-se, portanto, ser anulado o v. acórdão proferido para que outro seja prolatado em seu lugar, nos mesmos termos do que vem entendendo essa Colenda Segunda Turma do Egrégio Superior Tribunal de Justiça, in verbis:
+(..)
+Portanto, em que pese a r. decisão entender pelo não conhecimento do recurso especial interposto, requer o agravante a reconsideração do julgado e após ultrapassada a barreira do conhecimento, seja dado provimento do recurso especial, ou, caso assim não entenda essa eminente Relatora, submeta prontamente o presente agravo interno à apreciação do C. Órgão Colegiado competente para que dele conheça e lhe dê provimento" (fls. 283/285e).
+Ao final, requer seja reconsiderada a decisão agravada ou, caso assim não entenda, seja submetido o presente Agravo interno "à apreciação do C. Órgão Colegiado competente para que dele conheça e lhe dê provimento" (fl. 285e).
+A parte agravada apresentou impugnação (fls. 291/293e).
+É o relatório.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): A presente irresignação não merece acolhida.
+Não obstante os argumentos da parte agravante, as razões deduzidas neste recurso não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+O Tribunal de Justiça do Estado de São Paulo, ao julgar Agravo de Instrumento interposto pelo ora agravante, negou-lhe provimento, a fim de manter a decisão de 1º Grau, que não conhecera da Exceção de Pré-executividade, ao fundamento de que as questões deduzidas demandariam dilação probatória, providência incompatível com o presente meio processual de defesa.
+Eis a ementa do acórdão:
+"Agravo de instrumento. Execução fiscal. ICMS. Exceção de pré-executividade. Ocorrência do fato gerador que deu ensejo ao crédito tributário e legalidade da apuração de inconsistências no recolhimento de ICMS por intermédio de informações prestadas por operadoras de cartão de crédito e de débito. Questões que demandam dilação probatória em sede de embargos à execução. Decisão que não conheceu da exceção de pré-executividade.
+Agravo não provido" (fl. 194e).
+Na hipótese, prevaleceram os seguintes fundamentos, no que interessa:
+"Cuida-se de exceção de pré-executividade oposta pelo agravante nos autos da execução fiscal que lhe move a Fazenda do Estado de São Paulo para cobrança de débito tributário consignado na CDA nº 1.128.372.690 (fls. 16/34).
+O E. Juízo de origem não conheceu da objeção, decisão que deu ensejo ao presente agravo.
+A exceção de pré-executividade deriva de construção doutrinária, admitida em hipóteses excepcionais, quando suscitada questão de ordem pública ou matéria exclusivamente de direito, incabível a dilação probatória.
+No caso dos autos, a aferição da ocorrência ou não do fato gerador que deu ensejo ao crédito tributário em cobrança, bem assim a legalidade da apuração de inconsistências no recolhimento de ICMS por intermédio de informações prestadas por operadoras de cartão de crédito e de débito, são matérias próprias de embargos do devedor, necessária regular instrução, incabível sua análise na estreita via da objeção de pré-executividade, acertada a decisão agravada que não conheceu da exceção.
+Confira-se, a respeito:
+(..)
+Para fins de acesso às Instâncias Superiores, considero prequestionada toda a matéria debatida, relativa à Constituição e à Lei Federal, desnecessária a menção específica a cada um dos dispositivos constitucionais e infraconstitucionais invocados e pertinentes aos temas em discussão.
+Ante o exposto, pelo meu voto, NEGO PROVIMENTO ao recurso, mantendo a r. decisão agravada" (fls. 195/196e).
+Insatisfeita, a ora embargante opôs Embargos de Declaração, que foram rejeitados, conforme a seguinte ementa:
+"Embargos de declaração. Ausência de omissão, contradição ou obscuridade. Nítido caráter infringente. Impossibilidade de rediscussão da matéria em sede de embargos de declaração.
+Embargos rejeitados" (fl. 207e).
+Por ocasião do julgamento dos segundos Embargos Declaratórios, o Órgão colegiado acrescentou:
+"Nos termos do art. 1.022, do NCPC, cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e para corrigir erro material.
+No caso, não existem vícios no julgado, evidenciando o presente recurso o inconformismo do embargante em relação ao decidido por esta Turma Julgadora.
+Como constou do v. acórdão embargado, a apreciação acerca da ocorrência ou não do fato gerador que deu ensejo ao crédito tributário em cobrança, bem como da legalidade da apuração de inconsistências no recolhimento de ICMS por intermédio de informações prestadas por operadoras de cartão de crédito e de débito, são matérias próprias de embargos do devedor, necessária regular instrução, incabível sua análise na estreita via da objeção de pré-executividade.
+Ausente contradição, obscuridade ou omissão a justificar os presentes embargos declaratórios, o recurso, com nítido caráter infringente, não pode ser acolhido.
+Ante o exposto, pelo meu voto, REJEITO os embargos de declaração" (fls.207/208e).
+Da leitura dos excertos transcritos, constata-se o Tribunal de origem asseverou que "a aferição da ocorrência ou não do fato gerador que deu ensejo ao crédito tributário em cobrança, bem assim a legalidade da apuração de inconsistências no recolhimento de ICMS por intermédio de informações prestadas por operadoras de cartão de crédito e de débito, são matérias próprias de embargos do devedor" (fl. 195e).
+Nesse contexto, o acórdão recorrido manifestou-se expressamente sobre os temas deduzidos, os quais, por demandarem dilação probatória, seriam insusceptíveis de apreciação em sede de Exceção de Pré-executividade. Cabe ressaltar que, ao assim decidir, atuou em harmonia com a orientação desta Corte, consolidada na Súmula 393/STJ, in verbis: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+Com efeito, verifica-se que o acórdão recorrido não incorreu em omissão, como ora alega a parte recorrente, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da lide, dando-lhes, contudo, solução jurídica diversa da pretendida pelo agravante.
+Assim, o acórdão de 2º Grau conta com motivação suficiente e não deixou de se manifestar sobre a matéria cujo conhecimento lhe competia, permitindo, por conseguinte, a exata compreensão e resolução da controvérsia, não havendo falar em descumprimento ao art. 1.022, inciso II, do CPC/2015.
+Nesse contexto, "a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015" (STJ, REsp 1.669.441/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+A propósito, ainda:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTA DO ARTIGO 1.021, §4º, DO CPC/2015. EXCLUSÃO. INADMISSIBILIDADE OU IMPROCEDÊNCIA DO AGRAVO INTERNO INTERPOSTO NA ORIGEM. NÃO VERIFICAÇÃO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. IMPOSIÇÃO DE MULTA. EXCLUSÃO. PROPÓSITO DE PREQUESTIONAMENTO. SÚMULA 98/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. O acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão do recorrente, não havendo, portanto, omissão ensejadora de oposição de embargos de declaração, pelo que, deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+(..)
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido" (STJ, REsp 1.672.822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017).
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO RECORRIDO QUE DECIDE COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. EMBARGOS PROTELATÓRIOS. VIOLAÇÃO AO ART. 1.026, § 2º, DO CPC/2015. MULTA AFASTADA.
+1. Inicialmente, quanto à alegação de violação ao artigo 1.022 do CPC/2015, cumpre asseverar que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em Embargos de Declaração apenas pelo fato de a Corte ter decidido de forma contrária à pretensão do recorrente.
+2. Quanto à questão de fundo, isto é, a revisão do benefício previdenciário observando os valores dos tetos estabelecidos nas Emendas Constitucionais 20/1998 e 41/2003, o recurso não merece que dela se conheça. Com efeito, verifica-se que o acórdão recorrido negou provimento à apelação com fundamento em precedentes do Supremo Tribunal Federal. Dessa forma, dada a natureza estritamente constitucional do decidido pelo Tribunal de origem, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. A irresignação merece acolhida em relação à alegada ofensa ao art. 1.026, § 2º, do CPC/2015 nos termos da Súmula 98 do STJ, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". No caso dos autos, os Embargos de Declaração ofertados na origem tiverem tal propósito, de maneira que deve ser excluída a multa fixada com base no supracitado dispositivo legal.
+4. Recurso Especial parcialmente provido" (STJ, REsp 1.669.867/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+Portanto, ao contrário do pretende fazer crer a parte embargante, não há que se falar em negativa de prestação jurisdicional.
+Assim, incensurável a decisão ora agravada, que deve ser mantida, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao Agravo interno.
+É como voto.
