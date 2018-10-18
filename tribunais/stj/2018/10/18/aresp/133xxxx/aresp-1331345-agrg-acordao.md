@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. ART. 306 DO CTB. DELITO PRATICADO SOB A ÉGIDE DA LEI N. 12.760/2012. DESPICIENDA A SUBMISSÃO DO ACUSADO A TESTE DE ETILÔMETRO. ADMISSÃO DE QUALQUER MEIO DE PROVA. EMBRIAGUEZ DEMONSTRADA PELO DEPOIMENTO POLICIAL E PELO ATESTADO MÉDICO. CAPACIDADE PSICOMOTORA AFETADA EM DECORRÊNCIA DA DIABETES. ALEGAÇÃO AFASTADA. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Importa assinalar que o delito foi praticado sob a égide da Lei n. 12.760/2012. Assim, não há reparo a ser feito no aresto impugnado, pois a jurisprudência do STJ se firmou no sentido de que, com o advento da Lei n. 12.760/2012, que modificou o art. 306 do Código de Trânsito, foi reconhecido ser despicienda a submissão do acusado a teste de etilômetro, tendo passado a ser admitida a comprovação da embriaguez por vídeo, testemunhos ou outros meios de prova em direito admitidos, observado o direito à contraprova. Precedentes.
+2. A Corte local asseverou que a embriaguez se encontra demonstrada pelo depoimento policial e pelo atestado médico que a confirmou.
+2.1. O Tribunal de origem rechaçou a tese de que a capacidade psicomotora teria sido afetada em decorrência da diabetes. Além disso, a Corte originária assentou "que o "relatório médico", exarado dois anos e quatro meses depois, reporta sim, de modo singelo, diabetes sob controle, o que não quer dizer estivesse em surto da doença na noite dos fatos, já que a prova oral, reiteradamente, afirma "hálito etílico"".
+2.2. Registre-se que, no sistema de valoração das provas do processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente.
+2.3. Ciente disso, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Cuida-se de agravo regimental interposto por [NOME] contra a decisão de fls. 413-416 (e-STJ), que conheceu do agravo para não conhecer do recurso especial.
+Nas razões do inconformismo (e-STJ, fls. 422-427), o insurgente alega não ser o caso de incidir a Súmula 283 do STF, pois impugnou devidamente todos os fundamentos do aresto combatido.
+Obtempera que, "se a comprovação da embriaguez pode dar-se nos termos da decisão da qual se agrava, sendo apta a produção probatória neste sentido para uma condenação, por qual razão a RESOLUÇÃO 206/06 do CONTRAN teria sido expressamente revogada pela RESOLUÇÃO 432/13, a qual deu novos contornos à Resolução revogada, DISCIPLINANDO A FORMA DE AFERIÇÃO DE EMBRIAGUEZ, adequando-a ao disposto na supracitada lei 12760/12, que deu a redação atual do art. 306 do CTB " (e-STJ, fl. 424).
+Requer a reconsideração da decisão agravada ou submissão do inconformismo ao Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. ART. 306 DO CTB. DELITO PRATICADO SOB A ÉGIDE DA LEI N. 12.760/2012. DESPICIENDA A SUBMISSÃO DO ACUSADO A TESTE DE ETILÔMETRO. ADMISSÃO DE QUALQUER MEIO DE PROVA. EMBRIAGUEZ DEMONSTRADA PELO DEPOIMENTO POLICIAL E PELO ATESTADO MÉDICO. CAPACIDADE PSICOMOTORA AFETADA EM DECORRÊNCIA DA DIABETES. ALEGAÇÃO AFASTADA. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Importa assinalar que o delito foi praticado sob a égide da Lei n. 12.760/2012. Assim, não há reparo a ser feito no aresto impugnado, pois a jurisprudência do STJ se firmou no sentido de que, com o advento da Lei n. 12.760/2012, que modificou o art. 306 do Código de Trânsito, foi reconhecido ser despicienda a submissão do acusado a teste de etilômetro, tendo passado a ser admitida a comprovação da embriaguez por vídeo, testemunhos ou outros meios de prova em direito admitidos, observado o direito à contraprova. Precedentes.
+2. A Corte local asseverou que a embriaguez se encontra demonstrada pelo depoimento policial e pelo atestado médico que a confirmou.
+2.1. O Tribunal de origem rechaçou a tese de que a capacidade psicomotora teria sido afetada em decorrência da diabetes. Além disso, a Corte originária assentou "que o "relatório médico", exarado dois anos e quatro meses depois, reporta sim, de modo singelo, diabetes sob controle, o que não quer dizer estivesse em surto da doença na noite dos fatos, já que a prova oral, reiteradamente, afirma "hálito etílico"".
+2.2. Registre-se que, no sistema de valoração das provas do processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente.
+2.3. Ciente disso, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+3. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (RELATOR):
+A pretensão recursal não merece êxito, pois a parte agravante não apresentou fundamentos capazes de modificar o entendimento anteriormente adotado.
+Ainda que se possa assentir que o ora agravante tenha impugnado todos os fundamentos do acórdão impugnado, há na decisão agravada motivos suficientes para sustentar a sua manutenção.
+Na origem, [NOME] foi condenado à pena de 07 (sete) meses de detenção, em regime semiaberto, e 11 (onze) dias-multa pela prática do delito previsto no art. 306 do CTB.
+Inconformada, a defesa apelou para o Tribunal de Justiça bandeirante que, por sua vez, manteve a condenação.
+Daí o recurso especial defensivo interposto na origem, o qual não foi admitido pela Corte originária.
+Importa assinalar que o delito foi praticado sob a égide da Lei n. 12.760/2012. Assim, não há reparo a ser feito no aresto impugnado, pois a jurisprudência do STJ se firmou no sentido de que, com o advento da Lei n. 12.760/2012, que modificou o art. 306 do Código de Trânsito, foi reconhecido ser despicienda a submissão do acusado a teste de etilômetro, tendo passado a ser admitida a comprovação da embriaguez por vídeo, testemunhos ou outros meios de prova em direito admitidos, observado o direito à contraprova.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. VIOLAÇÃO DO ART. 155 DO CPP. INEXISTÊNCIA. SÚMULA 568/STJ. PROVAS PARA CONDENAÇÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O depoimento dos policiais na fase de inquérito está em harmonia com os demais meios de prova, notadamente o teste de alcoolemia que narra que "o acusado possuía olhos vermelhos e odor de álcool no hálito.." (e-STJ fl. 205) 2. O policial militar, quando ouvido em juízo tenha afirmado não se lembrar dos fatos, reconheceu ter sido ele próprio quem confeccionou o referido exame (e-STJ fl. 205)
+3. A jurisprudência desta Corte, firme no sentido de que "A Lei n. 12.760/2012, que alterou o art. 306 do CTB, ampliou os meios de prova, pois permite, agora, que, na ausência de exames de alcoolemia - sangue ou bafômetro -, outros elementos possam ser utilizados para atestar a embriaguez e a alteração da capacidade psicomotora do motorista, como vídeos, testemunhas ou quaisquer meios de prova em direito admitidos, respeitada a contraprova" (ut, AgInt no REsp 1675592/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 06/11/2017).
+ ..
+5. Agravo regimental não provido. (AgRg no AREsp 1226785/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/04/2018, DJe 18/04/2018)
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. CONDENAÇÃO BASEADA EM DEPOIMENTO DE POLICIAIS MILITARES. POSSIBILIDADE. VIOLAÇÃO À CONSTITUIÇÃO FEDERAL. NÃO CABIMENTO. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NÃO APRESENTAÇÃO DO ROL DE TESTEMUNHAS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. RECURSO IMPROVIDO.
+1. O crime de embriaguez ao volante é de perigo abstrato, dispensando-se a demonstração da efetiva potencialidade lesiva da conduta daquele que conduz veículo em via pública com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência.
+2. Com o advento da Lei 12.760/2012, o combate à embriaguez ao volante tornou-se ainda mais rígido, tendo o legislador previsto a possibilidade de comprovação do crime por diversos meios de prova, conforme se infere da redação do § 2º incluído no artigo 306 do Código de Trânsito Brasileiro.
+ ..
+6. Agravo regimental a que se nega provimento. (AgRg no AgRg no AREsp 1204893/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/04/2018, DJe 20/04/2018)
+No mais, a Corte paulista asseverou que a embriaguez se encontra demonstrada pelo depoimento policial e pelo atestado médico que a confirmou (e-STJ, fl. 233).
+Além disso, o Tribunal de Justiça de São Paulo rechaçou a tese de que a capacidade psicomotora teria sido afetada em decorrência da diabetes. A Corte originária assentou "que o "relatório médico", exarado dois anos e quatro meses depois, reporta sim, de modo singelo, diabetes sob controle, o que não quer dizer estivesse em surto da doença na noite dos fatos, já que a prova oral, reiteradamente, afirma "hálito etílico"" (e-STJ, fls. 254-255).
+Registre-se que, no sistema de valoração das provas do processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente.
+Ciente disso, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
