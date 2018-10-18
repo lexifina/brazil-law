@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por [NOME] e outra em face da decisão acostada a fls. 304-309, e-STJ, que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 222-230, e-STJ, proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL E AGRAVO RETIDO. PROMESSA DE COMPRA E VENDA. BEM IMÓVEL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA.
+DESCUMPRIMENTO CONTRATUAL. RESCISÃO DO CONTRATO. CULPA EXCLUSIVA DO VENDEDOR. INCIDÊNCIA DOS JUROS DE MORA QUE DEVE CONTAR DA NOTIFICAÇÃO EXTRAJUDICIAL. MANUTENÇÃO DA SENTENÇA.
+Agravo retido. Inocorrente o cerceamento de defesa arguindo, uma vez que a prova testemunhal postulada em nada contribuiria ao deslinde da questão. Mérito. Demandada não comprovou o fato impeditivo, modificativo ou extintivo do direito da parte autora, conforme art. 373, II, do CPC/2015, no sentido de comprovar a entrega da documentação necessária a obtenção do financiamento. Juros de mora. Havendo cláusula resolutiva do contrato, por descumprimento de qualquer outra ali disposta, restam as partes em mora desde a sua falta, no caso, a notificação extrajudicial que deu ciência ao réu do desinteresse na manutenção da contratação em razão do inadimplemento.
+NEGARAM PROVIMENTO AOS RECURSOS.
+Opostos embargos de declaração (fls. 233-240, e-STJ), restaram desacolhidos na origem (fls. 242-246, e-STJ).
+Nas razões de recurso especial, alegaram os insurgentes que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 1.022, inc. I e II, do CPC/15, porquanto a decisão seria omissa, contraditória e obscura; (ii) artigos 130, 131, 400 e 402, inc. I, do CPC/73, em razão do indeferimento da produção de prova testemunhal, que teria cerceado seu direito de defesa. Aduziram, ainda, haver dissídio jurisprudencial em seu favor.
+Contrarrazões a fls. 287-302, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem negou seguimento ao apelo nobre indicando a suficiência de fundamentação da decisão recorrida, por aplicação da súmula 7/STJ, bem como por encontrar-se a decisão recorrida em consonância com a jurisprudência desta Corte.
+Inconformados, interpuseram o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada a fls. 311-330, e-STJ, por meio do qual pretendem ver admitido o recurso especial.
+Contraminuta a fls. 338-340, e-STJ.
+É o relatório
+Decide-se.
+A pretensão recursal deve prosperar parcialmente.
+1. Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULO EXTRAJUDICIAL - DUPLICATA EMITIDA SEM AS FORMALIDADES LEGAIS - ACÓRDÃO DESTE ÓRGÃO COLEGIADO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO HÍGIDA A INADMISSÃO DO RECURSO ESPECIAL.
+INSURGÊNCIA DO AUTOR.
+ ..
+Violação ao artigo 535 do CPC configurada. Acórdão do Tribunal de origem que deixou de se manifestar sobre pontos imprescindíveis ao adequado desenredo da contenda.
+ ..
+(EDcl no AgRg no REsp 1021214/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/04/2015, DJe 24/04/2015)
+Confiram-se, ainda, os seguintes precedentes: REsp 1438639/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 27/03/2014, DJe 29/04/2014; AgRg no REsp 1221403/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/08/2016, DJe 23/08/2016; AgInt no REsp 1599987/AP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/09/2016, DJe 07/10/2016; AgInt no REsp 1564400/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/08/2016, DJe 26/08/2016; EDcl no REsp 1227601/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/09/2016, DJe 13/09/2016.
+Nas razões do recurso especial, aventou a recorrente, preliminarmente, a configuração de negativa de prestação jurisdicional - violação ao artigo 1.022, inc. I e II, do CPC/15 -, ante a rejeição dos aclaratórios e a subsistência de omissão, contradição e obscuridade no acórdão recorrido, quais sejam: (i) omissão, por não ter sido apreciada preliminar formulada na apelação, de nulidade da sentença, por conter obscuridade; (ii) contradição, pois teria concluído que a oitiva dos corretores seria desnecessária e, ao mesmo tempo, que os insurgentes não teriam comprovado fato impeditivo, modificativo ou extintivo do direito; e, (iii) obscuridade, pois não teriam sido especificados quais documentos não teriam sido apresentados, nem os prazos em que o deveriam ter sido.
+Afasta-se, de início, a alegação de contradição e obscuridade, notadamente porque a Corte de origem concluiu, de forma fundamentada, que os depoimentos dos corretores, no caso, não seriam capazes de modificar os fatos demonstrados por prova documental, bem como por ter feito referência aos e-mails trocados entre as partes, de onde se extraiu que haviam documentos pendentes - ou seja, ainda que não listados, na decisão, os documentos faltantes são aqueles dos quais trataram os e-mails, e que não foram apresentados em tempo hábil para possibilitar a obtenção do financiamento, no prazo contratual.
+Já em relação à omissão apontada, tem-se que assiste razão aos insurgentes.
+Foram opostos, na origem, embargos de declaração (fls. 233-240, e-STJ) para que a Corte a quo se manifestasse acerca de alegação preliminar - aventada no recurso de apelação (fls. 196-198, e-STJ) - de que a sentença estaria eivada de obscuridade.
+Na presente hipótese, embora tenha o Tribunal de origem sido instigado a se manifestar sobre o ponto tido como omisso, limitou-se a declarar que os embargantes, ora agravantes, pretendiam modificar o julgado. Entretanto, sequer analisou a alegação preliminar de obscuridade da sentença - nem por ocasião do julgamento da apelação, nem dos embargos de declaração.
+Observa-se, assim, que, ao não apreciar a preliminar alegada, incorreu o acórdão em omissão, constituindo efetiva violação ao artigo 1.022 do CPC/15.
+Isto porque, caberia ao Tribunal a quo enfrentar as teses invocadas pelos recorrentes, ainda que para expressamente não as admitir ou refutá-las, uma vez que é direito da parte ter sanadas eventuais omissões e/ou obscuridades nas decisões, a fim de, inclusive, possibilitar o eventual ingresso às instâncias superiores.
+Assim sendo, "impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que sejam sanadas as omissões suscitadas, tendo-se como prejudicadas as demais questões suscitadas no presente recurso" (REsp 1683791/AC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/09/2017, DJe 22/09/2017).
+2. Ante o reconhecimento da negativa de prestação jurisdicional e a necessidade de retorno dos autos à Corte local para correção do vício inferido - omissão - fica prejudicada a análise das demais questões veiculadas no recurso especial.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, conhece-se do agravo e, de plano, dá-se parcial provimento ao recurso especial, para cassar o acórdão proferido em sede de embargos de declaração, determinando que outro seja proferido, sanando-se a omissão apontada.
+Publique-se.
+Intimem-se.
