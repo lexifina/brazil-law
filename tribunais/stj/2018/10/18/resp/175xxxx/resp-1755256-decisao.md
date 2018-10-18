@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 229):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. INOCORRÊNCIA. TETOS. EMENDAS 20/98 E 41/03.
+1. Não há decadência para os casos de revisão em função de questões não discutidas na via administrativa relativas a reconhecimento de tempo de serviço ou tempo qualificado, tampouco em relação a elementos externos ao ato de concessão do benefício.
+2. As contribuições e os benefícios previdenciários encontravam-se sujeitos a dois limitadores distintos: a) limite máximo do salário de contribuição (atualizado por diferentes índices utilizados para corrigir as contribuições pagas pelos segurados); b) teto máximo do salário de benefício (em valor nominal até 2/2004), sendo em vários períodos maior a correção do primeiro, do que a correção do segundo. Como limitador do benefício, esse segundo teto somente pode incidir sobre a quantia paga e não sobre o cálculo do montante devido. Pode assim ser calculado como devido montante de benefício superior ao limitador de seu pagamento, o que fará com que sejam pagos benefícios até esse teto, enquanto não majorado por nova atualização - momento em que o quantum pago pode ser elevado até o novo teto ou até o quantum devido.
+3. Deliberação sobre índices de correção monetária e taxas de juros diferida para a fase de cumprimento de sentença, de modo a racionalizar o andamento do processo, e diante da pendência , nos tribunais superiores, de decisão sobre o tema com caráter geral e vinculante. Nova orientação proveniente da 2- Seção deste Tribunal.
+Opostos embargos de declaração, foram rejeitados (fl. 359).
+Aponta o recorrente violação aos arts. 40 do Decreto 82.080/79, 21, 23 e 25 do Decreto 89.312/84, 6º do LICC 29, § 2º e 144 da Lei 8.213/91, afirmando que "fica impossibilitada a concessão da readequação do benefício concedido antes da Constituição Federal de 1988 aos tetos estabelecidos nas Emendas Constitucionais n. 20/1998 e Emenda Constitucional n. 41/2003" (fl. 371).
+Sem contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+Isso porque, no que diz respeito à tese de que não seriam aplicáveis os tetos constitucionais ao caso concreto, muito embora haja, no apelo nobre, a alegação de ofensa a dispositivo infraconstitucional, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em recurso especial.
+Do exposto, não conheço do recurso especial. Impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
