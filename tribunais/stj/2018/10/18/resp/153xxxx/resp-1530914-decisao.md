@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE COMPLEMENTAÇÃO ACIONÁRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 165 E 458, II, DO CPC. INOCORRÊNCIA. [NOME]. DIFERENÇA ACIONÁRIA DEFERIDA EM DEMANDA ANTERIOR. COISA JULGADA. JURISPRUDÊNCIA CONSOLIDADA DO STJ.
+1. Cumprimento de sentença em ação de complementação acionária.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 165 e 458, II, do CPC.
+4. Os juros sobre capital próprio e os dividendos deverão ser calculados de acordo com o valor patrimonial da ação definido em demanda anterior, sob pena de violação da coisa julgada
+5. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por DALEIA REGINA DA CRUZ OLIVEIRA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 12/02/2015.
+Atribuído ao gabinete em: 25/08/2016.
+Ação: Agravo de instrumento em cumprimento de sentença em ação de complementação acionária.
+Decisão interlocutória: julgou parcialmente procedente a impugnação ao cumprimento de sentença, mantendo como critério para apuração do valor patrimonial da ação o mesmo utilizado em demanda pretérita, bem como consignando que o termo final para o cálculo dos dividendos é o trânsito em julgado do processo.
+Acórdão: deu parcial provimento ao agravo de instrumento nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM S/A.
+1. DIVIDENDOS E JUROS SOBRE CAPITAL PRÓPRIO. AÇÕES CELULAR CRT. DEMANDA PRETÉRITA.
+O cálculo dos dividendos e juros sobre capital próprio oriundos das ações da Celular CRT deve seguir o critério do balancete mensal, uma vez que o titulo transitado em julgado, neste feito, nada mencionou acerca do tema.
+2. TERMO FINAL DOS DIVIDENDOS.
+A data do trânsito em julgado do feito é o momento mais adequado para que a obrigação relativa aos dividendos cesse, eis que, além de ser alheia ao arbítrio das partes, é quando a obrigação se torna exigível. Precedentes jurisprudenciais.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO." (fl. 42, e-STJ)
+Embargos de Declaração: foram rejeitados.
+Recurso especial: alega violação dos arts. 128, 458, II, 460, 467, 475-G e 535, II, do CPC/73, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que deve ser utilizado como critério para cálculo dos dividendos o valor patrimonial da ação adotado em processo anterior que versou sobre a complementação acionária em si.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/73.
+- Da violação do art. 535 do CPC/73
+Nas razões do recurso especial o Recorrente fundamentou a negativa de prestação jurisdicional na necessidade de prequestionamento da matéria e legislação contida na petição de embargos de declaração sem qualquer especificação do contido na referida peça recursal.
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, na hipótese, a Súmula 284/STF.
+- Da violação dos arts. 128 e 458, II, do CPC/73
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 126 e 458, II, do CPC/73.
+- Da orientação consolidada do STJ.
+A jurisprudência do STJ, a respeito da matéria impugnada pelo recorrente, firmou-se no sentido de que os juros sobre capital próprio e os dividendos deverão ser calculados de acordo com o valor patrimonial da ação definido em demanda anterior, sob pena de violação da coisa julgada. Confira-se os seguintes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO. DECISÃO TRANSITADA EM JULGADO. IMUTABILIDADE. DIVIDENDOS. CÁLCULO COM BASE NO NÚMERO DE AÇÕES DEFINIDO EM DEMANDA ANTERIOR. AGRAVO INTERNO DESPROVIDO. 1. É inviável, na fase de cumprimento de sentença, modificar o valor patrimonial das ações definido expressamente no título executivo, sob pena de ofensa à coisa julgada. 2. Os dividendos e juros sobre capital próprio deverão ser calculados proporcionalmente à quantidade de ações cujo direito à subscrição foi judicialmente reconhecido em demanda anterior, transitada em julgado. 3. Agravo interno a que se nega provimento." (AgInt no REsp n. 1.308.933/RS, QUARTA TURMA, julgado em 14/3/2017, DJe 27/3/2017.)
+"AGRAVO REGIMENTAL. AGRAVO. DIVIDENDOS. JUROS SOBRE CAPITAL PRÓPRIO. CUMULAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS STF/283 E 284. DIFERENÇA DE AÇÕES RECONHECIDA E DETERMINADA EM DEMANDA ANTERIOR. VIOLAÇÃO DO ART. 170, § 1º, DA LEI N. 6.404/76. INOCORRÊNCIA. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO. 1.- O Acórdão recorrido não trouxe à discussão a questão da cumulação do pagamento de dividendos e de juros sobre capital próprio, ao contrário restou consignado que são devidos tanto os dividendos quanto os juros sobre capital próprio gerados pelas ações que deveriam ter sido subscritas e não foram. 2.- Não basta à parte alegar a ocorrência das hipóteses do permissivo constitucional, sendo indispensável que seja deduzida a necessária fundamentação, com a finalidade de demonstrar o cabimento do recurso e o desacerto do acórdão impugnado. Incidente, por analogia, os enunciados 283 e 284 da Súmula do excelso Supremo Tribunal Federal. 3.- Na presente hipótese, o Tribunal de origem deixou assente que, em ação anterior, a Brasil Telecom restou condenada ao pagamento da diferença das ações em quantidade correspondente ao seu valor na data da integralização e a dobra acionária, sendo pagos os valores equivalentes a 1.987.666 ações da ré e 40.928 da Celular CRT. Na presente ação, a autora visa a receber os dividendos e os juros sobre o capital próprio das ações não subscritas pelas duas empresas, cujo valor patrimonial já foi determinado anteriormente, não havendo portanto, que se falar em violação ao art. 170, § 1º, da Lei n. 6.404/76, sob pena de ofensa à coisa julgada. 4.- A agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos. 5.- Agravo Regimental improvido." (AgRg no AREsp n. 74.420/RS, TERCEIRA TURMA, julgado em 22/5/2012, DJe 31/5/2012.)
+Logo, merece reforma o acórdão recorrido.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO para determinar que, o cálculo dos juros sobre capital próprio e dividendos referentes às ações da telefonia celular, deve obedecer o valor patrimonial da ação deve obedecer o critério estabelecido na demanda anterior em que foi deferida a diferença acionária.
+Publique-se. Intimem-se.
