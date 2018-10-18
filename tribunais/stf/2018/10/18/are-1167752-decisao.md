@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Resoluções UNESP 32/2011 e 42/2012 – Paridade de vencimentos entre servidores ativos e inativos – Inaplicabilidade a casos específicos e individuais – Aumento de 5% previsto apenas aos servidores que houverem sido promovidos sem alteração salarial – Autor que já estava aposentado à época, não se podendo falar em promoção. Recurso provido.” (eDOC 6, p. 5)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 40, § 8º, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “o Poder Público deve conceder ao servidor aposentado tudo aquilo que concede ao servidor da ativa, não podendo haver nenhum tipo de discriminação, sob pena de violar o princípio da isonomia”.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Resoluções Unesp 32/2011 e 70/2008), consignou que a parte reclamante não faz jus à majoração de seu provento pelo índice concedido aos servidores em atividade. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso presente, autor pretende a majoração de seu provento pelo mesmo índice concedido a servidores em atividade. Contudo, tal índice refere-se à situação específica do servidor que obtiver promoção na carreira, conforme se vê pela menção aos artigos 7º e 8º da Resolução Unesp 37/98 e artigo 5º da Resolução Unesp 70/2008. Exige-se o interstício mínimo de exercício, o desempenho do servidor, ou a mudança do nível de escolaridade ou a obtenção de títulos, o que, evidentemente, deve se dar enquanto o servidor estiver em atividade.
+    Não poderia o aposentado pleitear o mesmo aumento ao dado àquele que se promoveu, pois é situação individual e não geral.” (eDOC 6, p. 5,6)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. EXAME DA ADMISSIBILIDADE DE RECURSOS DE COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. RE 598.365-RG/MG (REL. MIN. AYRES BRITTO, TEMA 181). ANÁLISE DE NORMAS LOCAIS. LEI ESTADUAL 952/76, DECRETO ESTADUAL 20.833/83, RESOLUÇÕES/UNESP 30 e 33/87 34/94, 129/98, 63/92 e PORTARIA/UNESP 240/94. INVIABILIDADE. SÚMULA 280/STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE-AgR 735.704, Rel. Min. Teori Zavascki, Segunda Turma, julgado em 05.11.2013)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Inativos. Equiparação. Vantagem de caráter geral concedida. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE-AgR 1.038.486, de minha relatoria, Segunda Turma, DJe de 6.9.17).
+    Cito ainda, as seguintes decisões monocráticas: ARE 1.156.954, Rel. Min. Dias Toffoli, DJe 11.9.2018; ARE 1.077.768, Rel. Min. Luiz Fux, DJe 4.10.2017.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 18 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
