@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial por incidência da Súmula 7/STJ.
+Nas razões recursais, sustenta o agravante violação do art. 59 do Código Penal, ao argumento de que inidôneos os fundamentos para a valoração negativa das circunstâncias judiciais da culpabilidade e das circunstâncias do crime, por serem ínsitos ao tipo penal do furto qualificado, além de ser desproporcional o quantum de aumento imposto.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+O objeto do presente recurso diz respeito ao apenamento fixado na primeira fase da dosimetria da pena, ao argumento de que os fundamentos utilizados para o desvalor da culpabilidade e circunstâncias do delitos seriam ínsitos ao tipo penal em questão.
+Manifestou-se o Tribunal a quo, quanto às referidas questões, nos seguintes termos (fls. 182/186):
+a) Culpabilidade
+De plano, observo que a circunstância judicial da culpabilidade foi considerada negativa somente quanto apelante Carlos Alberto.
+Quanto ao apelante [NOME] foi mencionada da seguinte forma:
+ ..
+Já quanto a culpabilidade do apelante Carlos Alberto, o Juiz sentenciante assim fez consignar:
+"A culpabilidade do acusado está evidenciada nos autos, tendo agido de forma voluntária, consciente e livre, portanto, com dolo. A reprovabilidade não é normal à espécie. Como se vê do depoimento do adolescente, o acusado premeditou o delito, sendo tal circunstância suficiente a majorar a reprimenda. (..) Assim sendo, considerando que das oito circunstâncias judiciais duas desfavorecem, fixo a pena base do acusado pela prática do crime furto qualificado, em 04 (quatro) anos de reclusão."
+Não obstante o recorrente tenha articulado razões para afastar a carga prejudicial da culpabilidade imposta na sentença, tenho que merece ser mantida.
+Lembro que ao analisar mencionada circunstância judicial deve o juiz, nessa oportunidade, dimensionar a culpabilidade pelo grau de intensidade da reprovação penal, expondo sempre os fundamentos que lhe formaram o convencimento, e de fato, o fez.
+Quando expôs seus fundamentos, o magistrado viu como de acentuada censurabilidade e reprovabilidade acima do normal à espécie, o fato de que no depoimento do adolescente corrompido, este afirmou que o acusado Carlos Alberto premeditou o delito, sendo tal circunstância suficiente a majorar a reprimenda.
+A fundamentação é idônea, encontra respaldo nos autos e por isso deve ser mantida.
+b) Circunstâncias do crime de furto.
+Na análise quanto às circunstâncias do crime, segundo o [NOME], deve o magistrado analisar: "o lugar do crime, o tempo de sua duração, o relacionamento existente entre autor e vítima, a atitude assumida pelo delinqüente no decorrer da realização do fato criminoso". Ao analisar a questão, o juízo singelo assim fundamentou para ambos os apelantes:
+"As circunstâncias devem prejudicar. O acusado praticou o delito de madrugada, quando a vítima pernoitava, sendo tal circunstância suficiente para majorar a reprimenda"
+Com relação às circunstâncias em que o crime foi cometido, vale lembrar que não integram a estrutura do tipo penal. São, portanto, elementos acidentais ou secundários, "como o modo de execução do crime, os instrumentos empregados em sua prática, as condições de tempo e local em que ocorreu o ilícito penal, o relacionamento entre o agente e o ofendido etc.", devendo ser levadas em consideração quando da fixação da pena.
+Aqui, de fato, como bem assentou na sentença, os fatos ocorreram na residência da vítima e no período da madrugada, quando esta dormia, período de maior vulnerabilidade para a residência. Assim, mantenho a carga negativa.
+Como bem pontuado pelo membro do Ministério Público, a jurisprudência é uníssona em manifestar-se, que em havendo duas ou mais qualificadoras de um delito, quando da dosimetria da pena, devem ser consideradas pelo julgador a primeira como qualificadora delitiva, e as demais excedentes, como agravantes genéricas ou circunstâncias judiciais.
+Nesse sentido colaciono julgados do Superior Tribunal de Justiça e desta Corte, denotando sua pacífica jurisprudência sobre o tema:
+ ..
+Assim, improcede a pretensão reformista neste particular.
+Quanto à culpabilidade, observa-se que o fundamento da premeditação é apto a justificar o recrudescimento da pena, por evidenciar maior reprovabilidade da conduta, conforme jurisprudência firmada por esta Corte, não havendo motivo, portanto, para afastá-la: AgRg no HC 373.415/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/03/2017, DJe 27/03/2017, HC 295.911/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/06/2016, DJe 17/06/2016, HC 221.761/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/06/2013, DJe 14/06/2013.
+No tocante às circunstâncias do delito, verifica-se que foram valoradas negativamente pelo fato de ter sido praticado o furto durante repouso noturno, tendo o Tribunal a quo concluído pela sua validade sob o fundamento de que havendo duas ou mais qualificadoras de um delito, quando da dosimetria da pena, devem ser consideradas pelo julgador a primeira como qualificadora delitiva, e as demais excedentes, como agravantes genéricas ou circunstâncias judiciais.
+De fato, nos termos da jurisprudência desta Corte, admite-se a utilização de majorante ou qualificadora sobejantes, não utilizadas para aumentar a pena na terceira fase da dosimetria, como circunstância judicial do art. 59 do Código Penal - AgRg no AREsp 1211369/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/05/2018, DJe 21/05/2018.
+Destaque-se que, embora no presente caso não haja duas qualificadoras ou majorantes excedentes, mas apenas uma qualificadora - concurso de agentes - e uma causa especial de aumento da pena - crime praticado durante o período noturno - para que pudesse se justificar a utilização do repouso noturno para a exasperação da pena-base, havendo, pois, inversão no sistema trifásico de aplicação da pena, nos termos do art. 68 do Código Penal, nota-se que a apontada atecnia revelou-se benéfica ao agravante, pois o aumento na terceira fase pela referida causa de aumento, de 1/3, seria superior ao aplicado na primeira fase, motivo pelo qual mostra-se inviável a reforma da decisão, sob pena de violação do princípio do non reformatio in pejus. Nesse sentido: HC 390.827/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/05/2018, DJe 01/06/2018.
+Quanto à alegada desproporcionalidade na aplicação da pena, conquanto a jurisprudência desta Corte seja no sentido de que a lei não fixa parâmetros aritméticos para a exasperação da pena-base, cabe ao magistrado, à luz do princípio da discricionariedade motivada e da razoabilidade e proporcionalidade, fixar o patamar que melhor se adeque à espécie.
+Conforme se verifica na sentença, mantida pelo acórdão recorrido, pelo desvalor de duas circunstâncias judiciais, a pena-base foi exasperada em 2 anos, sendo fixada em 4 anos de reclusão, sendo, pois, flagrantemente desproporcional, sem se considerando o mínimo e máximo da pena abstratamente cominada ao tipo penal, de 2 a 8 anos de reclusão, significando um aumento superior a 1/3 para cada circunstância judicial desfavorável. Nesse sentido, mutatis mutandis:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. QUANTUM DE AUMENTO NA SEGUNDA FASE DA DOSIMETRIA DA PENA. FRAÇÃO DE 1/6 PARA CADA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. PERCENTUAL EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. COMPENSAÇÃO DA PRIMARIEDADE COM AS CONSEQUÊNCIAS DO DELITO. BONS ANTECEDENTES RECONHECIDOS. BIS IN IDEM. AGRAVO NÃO PROVIDO.
+1. A majoração da pena-base em 1/6 para cada circunstância judicial desfavorável, como adotado pelo Tribunal de origem, está em harmonia com o entendimento pacificado nesta Corte de Justiça, a atrair a incidência da Súmula n. 83 do STJ.
+2. A primariedade do réu já foi admitida na primeira fase da dosimetria da pena que reconheceu como imaculados os seus antecedentes.
+3. A utilização de um mesmo elemento para sopesar positivamente duas circunstâncias judiciais caracteriza-se como bis in idem.
+4. Agravo regimental não provido.
+(AgRg no AREsp 811.666/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/05/2016, DJe 19/05/2016)
+Passo assim, ao redimensionamento da pena pelo crime de furto qualificado.
+Consoante já salientado, reduzo a pena-base a 2 anos, 8 meses e 20 dias de reclusão, a qual se aumenta em 16 meses pela incidência do art. 62, I, do Código Penal - organizava a cooperação do delito - e do art. 62, II, do Código Penal - perfazendo 4 anos e 20 dias de reclusão, reduzindo-se de 1 ano, em razão da menoridade relativa, totalizando 3 anos e 20 dias de reclusão, à míngua de outras causas modificativas.
+Considerando o concurso material do crime de furto qualificado com o de corrupção de menores, em que foi condenado à pena de 1 ano de reclusão, torna-se a pena definitiva em 4 anos e 20 dias de reclusão.
+Quanto ao regime prisional, mesmo com a redução ora implementada, mantem-se o regime semiaberto, nos termos do art. 33, § 2º, b, do Código Penal
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de reduzir a pena do agravante a 4 anos e 20 dias de reclusão, mantendo, no mais, o acórdão recorrido.
+Publique-se.
+Intimem-se.
