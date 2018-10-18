@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. POR DANO AMBIENTAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INVERSÃO DINÂMICA E HONORÁRIOS RECURSAIS. REEXAME DE PROVA. SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE [NOME] [NOME].
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Paraná que não admitiu o recurso especial apresentado por [NOME], com base no art. 105, III, a, da CF, desafiando acórdão assim ementado (e-STJ, fl. 605):
+AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ESTAÇÃO DE TRATAMENTO DE ESGOTO. SUPOSTO DANO AMBIENTAL. PEDIDO IMPROCEDENTE. INSURGÊNCIA DA AUTORA. JULGAMENTO DA LIDE NA FASE EM QUE SE ENCONTRA. INVIABILIDADE. DILAÇÃO PROBATÓRIA NECESSÁRIA. DECISÃO ANULADA DE OFICIO. RECURSO PREJUDICADO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 627-631).
+Nas razões do recurso especial (e-STJ, fls. 636-648), o recorrente apontou a violação dos arts. 6º, 85, 373 e 1.022 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ausência de prestação jurisdicional, a omissão quanto à inversão dinâmica e aos honorários recursais.
+Foram apresentadas contrarrazões (e-STJ, fls. 695-710).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da ausência de violação dos dispositivos apontados; da falta de impugnação dos fundamentos do acórdão recorrido, incidindo a Súmula n. 283 do STF; e da aplicação da Súmula n. 83/STJ (e-STJ, fls. 712-717).
+Brevemente relatado, decido.
+Preliminarmente, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, registro que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE. IMPOSIÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Os segundos Embargos Declaratórios opostos com o intuito de modificar o julgado, inovando com argumentos preclusos, revela nítido caráter procrastinatório, pelo que é admissível a aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgRg no AREsp n. 822.269/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 8/11/2016, DJe 17/11/2016).
+Quanto ao mérito, o Tribunal de origem consignou o seguinte (e-STJ, fls. 607-610):
+(..)
+2.1) Trata-se de ação de indenização por dano moral fundada em suposto ilícito ambiental perpetrado pela ré, consistente na precariedade da manutenção da Estação de Tratamento de Esgoto São Jorge (ETE São Jorge). O autor aduz que reside na vizinhança da ETE e que, pelas precárias instalações e falta de manutenção adequada desta, sofre com os putrefatos odores gerados pela poluição local, que impedem a moradia digna, o convívio familiar, a alimentação e o bom sono, além de ocasionarem doenças diversas.
+Juntou documentos consubstanciando sua alegação, em que se verifica o odor putrefato presente no meio-ambiente daquela região (moV. 1.5).
+Ademais, demonstrou-se que o referido problema não é exclusivo da mencionada ETE, existindo outras estações que padecem dos mesmos problemas.
+Em contestação a ré aduziu que a ETE São Jorge não exala mau - cheiro, tampouco compromete a saudável convivência na região circunvizinha. Ainda, que há sistema de controle de odores com análise dos sulfetos duas vezes por dia, a fim de manter a operação adequada aos padrões internacionais de funcionamento. Não juntou documentos que comprovem suas alegações.
+A ré especificou as provas que pretendia produzir, especificamente perícia técnica e depoimento da parte autora. O autor também requereu a prova oral, além das provas já pleiteadas na inicial (prova pericial e inspeção judicial).
+O feito foi julgado no estando em que se encontra. Ressaltou o magistrado a desnecessidade de produção de outras provas. Consignou, em suma, que:
+(i) ainda que tomados por verdadeiros os fatos aduzidos pelo autor, estão eles justificados pelo interesse público (consubstanciado pela Lei de Zoneamento e de Uso e Ocupação do Solo do Município e o Plano Diretor Municipal), que impõe ao proprietário um sacrifício em prol da coletividade; (ii) a pretensão mandamental, de impor obrigação de fazer à ré, é de natureza coletiva, não sendo oponível pela via individual.
+A sentença tomou o interesse público inerente à função da empresa ré como fundamento a exclusão de sua responsabilidade. Enfatizou que a Lei de Zoneamento e o Plano Diretor Municipal permitem a instalação da ETE, nos moldes como ocorreram, e que a operação se desenvolve em beneficio da coletividade. No entanto, tais conclusões se fizeram em abstrato, visto que não há qualquer elemento de prova em que se demonstre a regularidade da instalação ou de sua manutenção.
+Não pode o interesse público fornecer subsidio ao desenvolvimento ilícito de atividades, sobretudo no que toca ao meio-ambiente. Isso porque a própria proteção do meio-ambiente também representa manifestação do interesse público.
+A compreensão exarada pelo sentenciante fornece verdadeira "carta branca" às empresas desenvolvedoras de atividades de interesse público, viabilizando a poluição ilegal com base na natureza de sua atividade.
+(..)
+A falta de prova suficiente para a solução da lide não pode prejudicar nenhuma das partes, eis que ambas solicitaram a dilação probatória (com prova oral, pericial e inspeção judicial), e não houve apreciação em decisão saneadora.
+Não se encontrando o feito em condições de julgamento, por carência de elementos de convicção suficientes, resta claro o cerceamento de defesa, impondo-se a realização de adequada dilação probatória, conforme orientação do Superior Tribunal de Justiça: "Segundo a jurisprudência desta ,Corte, é lícito ao Tribunal local, identificando error in procedendo consubstanciado no julgamento antecipado da lide, determinar o retorno dos autos à instância inferior para julgamento com dilação probatória, não havendo espaço para falar em preclusão" (AgRg no REsp 1.172.705/AL, Terceira Turma, Rel. Min. Ricardo Villas Bôas Cueva, DJe 20/02/2014).
+2.2) Diante do exposto, voto no sentido de anular a sentença, de oficio, para que sejam produzidas as provas postuladas pelas partes (oral e pericial), restando prejudicada a apelação da autora. (Sem grifo no original).
+E dos embargos de declaração extrai-se o seguinte excerto (e-STJ, fls. 629-630):
+(..)
+Quanto aos honorários recursais supostamente cabíveis nos termos do art. 85, § 1º, do Código de Processo Civil, tampouco podem ser arbitrados nesta via, seja porque o apelo foi interposto em 09/03/2015 (mov. 93) - sob a égide do Código de Processo Civil revogado - seja porque não houve decaimento de qualquer das partes, eis que o apelo restou prejudicado ante a anulação da sentença.
+Em relação ao reconhecimento da responsabilidade civil objetiva da ré com base na teoria do risco integral, perfaz questão de mérito que não pode ser apreciada neste momento, eis que ainda pendente da análise da existência do dano sofrido, que a propósito constitui tópico autônomo em relação a suposta desnecessidade da demonstração da culpa do ofensor. (Sem grifo no original).
+Dessa forma, rever a conclusão do aresto impugnado e acolher a pretensão recursal demandaria o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Além disso, verifica-se que o recorrente não se desincumbiu de demonstrar as razões pelas quais considera violadas as normas legais apontadas e tampouco impugnou o fundamento do acórdão recorrido - "é lícito ao Tribunal local, identificando error in procedendo consubstanciado no julgamento antecipado da lide, determinar o retorno dos autos à instância inferior para julgamento com dilação probatória" -, incidindo, por analogia, os enunciados n. 283 e 284 do STF, que dispõem respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de [NOME] [NOME].
+Publique-se.
