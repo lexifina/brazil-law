@@ -1,0 +1,32 @@
+DECISÃO
+A Fazenda Pública do Estado de São Paulo ajuizou ação regressiva contra o Hospital e Maternidade São Marcos Ltda. sustentando ter assumido as atividades empresariais do respectivo nosocômio após a imissão na posse por força de desapropriação, tendo sido acionada a responder, subsidiariamente, por dívida trabalhista.
+ A ação foi julgada procedente (fls. 346-350), decisão reformada pelo Tribunal de Justiça do Estado de São Paulo, em razão do reconhecimento da prescrição, nos termos da seguinte ementa (fl. 457):
+RESPONSABILIDADE CIVIL - INDENIZAÇÃO - DANO MATERIAL -Autora que busca o ressarcimento do valor por ela pago a ex-funcionários do Hospital requerido em ação de regresso - Tema prejudicial - Prescrição - Ação proposta após o decurso de prazo de cinco anos - Inteligência, na espécie, do Dec. n. 20.910/32 - Ação, na origem, julgada procedente - Sentença reformada para o fim de julgar, com base no artigo 269, IV, do CPC, extinto o processo, arcando a apelada com as custas, despesas processuais e verba honorária (R$ 1.000,00) a teor do disposto no artigo 20, § 4º, do CPC - Sentença reformada para o fim de acolher a prescrição do direito da autora (Dec. n. 20/910/32 e art. 269, inciso IV, do CPC) - Recurso provido para este fim.
+Os embargos de declaração opostos foram rejeitados (fls. 476-481).
+O Estado interpõe recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando que o decisum violou o art. 177 do Código Civil de 1916 c/c o art. 2.028 do Código Civil/2002, sustentando não ser o caso de aplicação do Decreto n. 20.910/32, o qual só incide em pretensões voltadas contra as Fazendas, no que o prazo prescricional na hipótese, não seria o quinquenal.
+Contrarrazões ofertadas (fls. 509-520).
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+A controvérsia se encontra estabelecida quanto ao prazo prescricional de ação regressiva ajuizada pela Fazenda de São Paulo.
+Ao reformar o acórdão recorrido, e assim reconhecer a prescrição, o Tribunal a quo argumentou:
+Ao que consta dos autos, após os recursos interpostos pela apelada, houve a quitação do débito da ação trabalhista fato ocorrido em data de 28/12/2004 (cf. certidão de objeto e pé de fl. 13), sendo que a presente ação somente foi proposta em 29/09/2011.
+Nesse sentido, julgamento de caso análogo que teve como relator o E. Des. Rebouças de Carvalho, quando do julgamento da apelação n. 0009546-11.8.26.0191:
+Referido prazo da ação em comento está disciplinado no art. 1º, do Decreto n. 20.910132, quando dispõe que o prazo prescricional de todo e qualquer direito ou ação da Fazenda Federal, Estadual ou Municipal, seja qual for sua natureza, é de cinco anos.
+Vê-se que o decisum não enfrentou o tema à luz dos dispositivos de lei federal invocados no inconformismo especial, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos enunciados sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282. É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Ademais, ainda que assim não fosse, o entendimento preconizado pelo acórdão recorrido não destoa da jurisprudência desta Corte de Justiça no sentido de que, pelo princípio da isonomia, ações ajuizadas pela Fazenda Pública devem obedecer o disposto no referido dispositivo do Decreto n. 20.910/32 em relação ao prazo prescricional, in verbis:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ACIDENTE DE TRABALHO. AÇÃO REGRESSIVA DO INSS CONTRA O EMPREGADOR. PRINCÍPIO DA ISONOMIA. PRESCRIÇÃO.
+1. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.251.993/PR, submetido à sistemática do art. 543-C do CPC, assentou a orientação de que o prazo prescricional nas ações indenizatórias contra a Fazenda Pública é quinquenal, conforme previsto no art. 1º do Decreto-Lei 20.910/1932, e não trienal, nos termos do art. 206, § 3º, V, do CC/2002.
+2. A jurisprudência é firme no sentido de que, pelo princípio da isonomia, o mesmo prazo deve ser aplicado nos casos em que a Fazenda Pública é autora, como nas ações de regresso acidentária. Precedentes: AgRg no REsp 1.423.088/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 19.5.2014; AgRg no AREsp 523.412/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 26.9.2014; e AgRg no REsp 1.365.905/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25.11.2014.
+3. "A natureza ressarcitória de tal demanda afasta a aplicação do regime jurídico-legal previdenciário, não se podendo, por isso, cogitar de imprescritibilidade de seu ajuizamento em face do empregador" (AgRg no REsp 1.493.106/PB, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 15.12.2014).
+4. Recurso Especial não provido.
+(REsp n. 1.519.386/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/5/2015, DJe 5/8/2015.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO REGRESSIVA. FAZENDA PÚBLICA. EXAME DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRAZO PRESCRICIONAL. APLICAÇÃO DO DECRETO N.º 20.910/32. PRECEDENTES.
+1. A análise de suposta violação a dispositivos e princípios da Lei Maior é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+2. Em razão da aplicação do princípio da isonomia, impõe-se a incidência do prazo prescricional previsto no Decreto n.º 20.910/32, nas pretensões deduzidas pela Fazenda Pública em face do particular.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp n. 1.349.090/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/9/2014, DJe 19/9/2014.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
