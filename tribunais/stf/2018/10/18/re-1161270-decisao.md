@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto com fundamento no art. 102, III, da Constituição Federal, em face de sentença que, ao julgar embargos infringentes, consoante o art. 34 da Lei 6.830/1980, extinguiu a execução fiscal em razão do pequeno valor cobrado.
+    Nas razões recursais, com fundamento no art. 102, III, “a”, da Constituição, a parte recorrente alega ter o acórdão recorrido violado dispositivos constitucionais.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    Observe-se, ainda, que, mesmo a CORTE já tendo reconhecido, em processo distinto, a transcendência geral da matéria discutida, o recorrente não se exime de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), desde que a intimação da decisão que se pretende impugnar tenha ocorrido a partir de 3 de maio de 2007, data da publicação da Emenda Regimental 21, de 30 de abril de 2007 (AI 664.567-QO, Rel. Min. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe de 6/9/2007), como na presente hipótese.
+    Ademais, trata-se, na verdade, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+     Nesse sentido, citem-se as seguintes decisões desta CORTE proferidas em casos idênticos: ARE 918.670, Relator(a): Min. DIAS TOFFOLI, DJe de 9/11/2015); e ARE 922.214 AgR, Relator(a): Min. ROBERTO BARROSO, DJe de 20/2/2017).
+    Ressalte-se, ainda, que não se aplica ao presente processo o entendimento firmado por esta CORTE no julgamento do RE 591.033, Rel. Min. ELLEN GRACIE, Tema 109 da Repercussão Geral (Adoção pelo Poder Judiciário de critérios normativos estaduais como fundamento para extinguir ações de execução fiscal ajuizadas pelo Município), tendo em vista que o Juízo de origem não fundamentou sua decisão em legislação estadual.
+    Efetivamente, a questão assemelha-se ao decidido pelo Pleno do STF no exame do RE 611.231-RG (Rel. Min. ELLEN GRACIE, Tema 292), no qual se entendeu pela ausência de repercussão geral da matéria referente à extinção da execução fiscal por falta de interesse de agir, em razão do valor irrisório do débito.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 18 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
