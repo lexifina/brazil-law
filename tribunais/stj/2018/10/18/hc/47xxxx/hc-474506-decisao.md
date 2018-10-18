@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, que negou provimento ao recurso de Apelação n. 00631094220178260050.
+Consta dos autos que o paciente foi condenado, em primeiro grau, às penas de 5 anos de reclusão, no regime inicial fechado, além do pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (55,2 g de maconha, 16,5 g de cocaína e 3,8 g de crack).
+Postula-se com a presente impetração a aplicação do art. 33, § 4º, da Lei n. 11.343/2006, em seu patamar máximo, bem como a fixação do regime prisional semiaberto.
+É o relatório.
+As apontadas ilegalidades na dosimetria não ocorreram.
+A pena-base foi fixada no mínimo legal. Já a figura do tráfico privilegiado foi afastada na espécie, pois o paciente já responde a processo também por tráfico de drogas na 23a vara criminal por crime praticado 03 meses antes de ser preso neste crime, indicando se dedicar a atividades criminosas (fl. 18), o que constitui fundamentação idônea. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE REDUÇÃO DAS PENAS-BASE APLICADAS. INVIABILIDADE. QUANTIDADE E NOCIVIDADE DAS DROGAS APREENDIDAS QUE JUSTIFICAM A EXASPERAÇÃO. REPRIMENDA MANTIDA. NÃO APLICAÇÃO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006 EM RELAÇÃO A UM DOS PACIENTES. CIRCUNSTÂNCIAS CONCRETAS QUE EMBASAM A CONCLUSÃO DE QUE HÁ DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PLEITOS DE ABRANDAMENTO DO REGIME PRISIONAL E APLICAÇÃO DO ART. 44 DO CP PREJUDICADOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. -
+-  ..
+- Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+- No julgamento do EREsp 1431091/SP, a Terceira Seção desta Corte pacificou o entendimento segundo o qual é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/06 . - Na espécie, infere-se que a Corte local conferiu legalidade ao não reconhecimento do privilégio em favor do acusado Wallyson, ao fundamentar que há dedicação às atividades criminosas, ante a condenação provisória que pesa contra ele, também pelo delito de tráfico de entorpecentes, entendimento que se alinha à jurisprudência desta Corte. Modificar tal conclusão requer o revolvimento fático-probatório, inviável na estreita via do habeas corpus. Precedentes.
+- Inalterada a pena corporal do paciente Wallyson, restam prejudicados os pedidos de fixação do regime inicial aberto e de aplicação do art. 44 do CP, pois a sanção de 6 anos e 6 meses de reclusão não comporta os benefícios, nos termos, respectivamente, dos arts. 33, § 2º, "c", e 44, I, ambos do CP.
+- Habeas corpus não conhecido.
+(HC n. 428.602/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/3/2018).
+Com relação ao regime prisional, tanto a sentença quanto o acórdão da apelação fixaram o mais gravoso apenas em razão da gravidade abstrata do tráfico de drogas, o que não constitui fundamentação suficiente, consoante amplo e pacífico entendimento jurisprudencial desta Corte. Observo, ainda, que trata-se de paciente primário.
+Fixada a pena definitiva em 5 anos de reclusão, é possível a imposição do regime inicial semiaberto (art. 33, § 2º, b, do CP).
+Ante o exposto, concedo a ordem apenas para fixar o regime inicial semiaberto ao paciente.
+Comunique-se.
+Publique-se.
