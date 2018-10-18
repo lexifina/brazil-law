@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. AÇÃO DE COBRANÇA. DIREITO AO RECEBIMENTO DE VENCIMENTOS RELATIVOS AO PERÍODO COMPREENDIDO ENTRE A PUBLICAÇÃO DO REGIME JURÍDICO ÚNICO DOS SERVIDORES DE IPU (17/03/2009) ATÉ SUA EFETIVA REINTEGRAÇÃO. ART. 884 DO CÓDIGO CIVIL. AUSÊNCIA DE COMANDO CAPAZ DE INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão da Corte de origem que inadmitiu o recurso especial.
+O apelo nobre obstado enfrenta acórdão, assim ementado (e-STJ fls. 128-129):
+DIREITO ADMINISTRATIVO. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO MUNICIPAL. JUSTIÇA DO TRABALHO. NULIDADE DO ATO EXONERATÓRIO. DECISÃO TRANSITADA EM JULGADO. DIREITO AO RECEBIMENTO DE VENCIMENTOS RELATIVOS AO PERÍODO COMPREENDIDO ENTRE A PUBLICAÇÃO DO REGIME JURÍDICO ÚNICO DOS SERVIDORES DE IPU (17/03/2009) ATÉ SUA EFETIVA REINTEGRAÇÃO. ENRIQUECIMENTO ILÍCITO DO SERVIDOR. NÃO OCORRÊNCIA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA MANTIDA.
+1. O autor/apelado, servidor público municipal, ajuizou a ação declaratória de nulidade de ato jurídico c/c cobrança em desfavor do parte ora corrente, alegando que foi nomeada e empossada no cargo para o qual foi aprovada em 2005, por meio de concurso público, porém, foi afastada em 02/01/2009, pelo Decreto nº 001/2009 (doc. fl. 14/15), cuja motivação foi o fato de que as nomeações do referido certame teriam sido procedidas durante o período eleitoral.
+2. Importante registrar que a decisão da Justiça Laboral, nos autos do Processo nº. 0000143-33.2010.05.07.0029, que decretou a nulidade do Decreto Municipal nº. 001/2009, determinando, ainda, a reintegração da parte ora apelada, transitou em julgado (certidão à fl. 54).
+3. A imutabilidade da coisa julgada material da decisão proferida pela Justiça do Trabalho impede, no presente momento, qualquer debate acerca da legalidade ou não do ato de nomeação da servidora apelada ou do decreto que a afastou.
+4. O servidor público afastado ilegalmente do seu cargo possui o direito de perceber os seus vencimentos referentes ao período compreendido entre a exoneração e a sua reintegração, tendo em vista o reconhecimento judicial da ilegalidade do ato da administração pública e a anulação do seu ato exoneratório. PRECEDENTES STJ.
+5. Sendo irrefutável a ilegalidade do ato exoneratório, impõe-se que seja providenciada a restituição dos vencimentos da servidora ora apelada no período compreendido entre 17/03/2009 e a sua efetiva reintegração, com os consectários legais, acrescidos de juros e correção monetária, tal como estabelecido na sentença ora vergastada.
+REEXAME NECESSÁRIO E RECURSO DE APELAÇÃO CONHECIDOS E NÃO PROVIDOS.
+No apelo especial, a parte recorrente alega que houve violação do art. 884 do Código Civil. Sustenta, em síntese, que, "garantir ao servidor o direito à reintegração e recebimento das verbas remuneratórias durante o período em que esteve legalmente afastado do serviço público, configura um verdadeiro enriquecimento ilícito em detrimento da municipalidade, uma vez que não prestou serviços durante o período em que esteve fora do serviço público" (e-STJ fl. 153).
+Contrarrazões não apresentadas (e-STJ fl. 168).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Contraminuta não apresentada (e-STJ fl. 190).
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O recurso não merece prosperar.
+O Tribunal, com base no acervo fático-probatório, concluiu que (e-STJ fls. 131-134):
+O autor/apelado, servidor público municipal, ajuizou a ação declaratória de nulidade de ato jurídico c/c cobrança em desfavor do parte ora corrente, alegando que foi nomeada e empossada no cargo para o qual foi aprovada em 2005, por meio de concurso público, porém, foi afastada em 02/01/2009, pelo Decreto nº 001/2009 (doc. fl. 14/15), cuja motivação foi o fato de que as nomeações do referido certame teriam sido procedidas durante o período eleitoral.
+De logo, importante registrar que a decisão da Justiça Laboral, nos autos do Processo nº. 0000143-33.2010.05.07.0029, que decretou a nulidade do Decreto Municipal nº. 001/2009, determinando, ainda, a reintegração da parte ora apelada, transitou em julgado (certidão à fl. 54).
+Diante da imutabilidade da coisa julgada material da retromencionada decisão, não cabe, no presente momento, qualquer debate acerca da legalidade ou não do ato de nomeação da servidora apelada ou do decreto que a afastou.
+Portanto, a controvérsia instalada nos presentes autos diz respeito ao direito ou não da parte apelada em receber os salários não pagos desde a data da vigência do Regime Jurídico Único do Município da Ipu-Ce (17/03/2009) até a data da sua efetiva reintegração ao quadro de servidores do Município de Ipu-Ce.
+Como é de geral sabença, o servidor público afastado ilegalmente do seu cargo possui o direito de perceber os seus vencimentos referentes ao período compreendido entre a exoneração e a sua reintegração, tendo em vista o reconhecimento judicial da ilegalidade do ato da administração pública e a anulação do seu ato exoneratório.
+ ..
+Desse modo, sendo irrefutável a ilegalidade do ato exoneratório, impõe-se que seja providenciada a restituição dos vencimentos da servidora ora apelada no período compreendido entre 17/03/2009 e a sua efetiva reintegração, com os consectários legais, acrescidos de juros e correção monetária, tal como estabelecido na sentença ora vergastada.
+Desse modo, acerca da possível violação do art. 884 do Código Civil, constata-se que o artigo não contém comando normativo para alterar a fundamentação do voto condutor. Incidência da Súmula 284/STF.
+Ademais, a revisão das conclusões da Corte de origem, na linha das razões recursais, demandaria exame de provas e fatos, vedado em recurso especial, à luz da Súmula 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+Com o mesmo entendimento:
+ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. PROCESSUAL CIVIL. OMISSÃO. FINS DE PREQUESTIONAMENTO. NÃO OCORRÊNCIA. INTIMAÇÃO. NULIDADE. PROCURADORES ATUANTES NO FEITO. SÚMULA 7/STJ. DECISÃO DE REMESSA À CONTADORIA. CRITÉRIOS DE CÁLCULO. CONTEÚDO DECISÓRIO.
+1. A rejeição de embargos declaratórios com fins meramente de prequestionamento não enseja nulidade do julgado por omissão.
+2. A Corte estadual entendeu, diante das circunstâncias fáticas dos autos, que a intimação foi feita em nome dos procuradores efetivamente atuantes no feito. Revisar tais conclusões incide na vedação da Súmula 7/STJ.
+3. O ato de remessa do feito à contadoria possui conteúdo decisório se fixa critérios de cálculo, operando-se preclusão caso não impugnado oportunamente.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido. (REsp 1.125.569/SP, Relator Ministro Og Fernandes, Segunda Turma, DJe 13/3/2018)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
