@@ -1,0 +1,11 @@
+DECISÃO
+O paciente acoima de ilegal despacho proferido pelo Desembargador relator no Agravo em Execução n. 0006869-89.2018.8.24.0038, em que foi indeferido o pedido de nova intimação para fins de sustentação oral.
+Consoante apontado no despacho, " o  presente recurso foi encaminhado para julgamento na Sessão de 9-10-2018. O mesmo defensor, em 2-10-2019, vem aos autos indicar a ciência da pauta, mas postula o adiamento, em razão de uma audiência anteriormente designada" (fl. 10).
+Em razão do pedido defensivo, " o s autos não são levados a julgamento no dia 9-10-2018, restando, óbvio, mesmo porque não retirados de pauta, que o exame do recurso restou postergado para a sessão imediatamente seguinte" (fl. 10, grifei).
+Irresignada com a ausência de nova intimação, "a Defesa do Paciente, em petição acostada no dia 11/10/2018, requereu a exclusão da pauta - pelo fato de não ter sido intimada - e afirmou que há intenção de sustentar oralmente, ou seja, deveria o TJSC acolher o pedido e designar nova data, ante a não intimação do Defensor e, principalmente, pelo fato de ter consignado a vontade de sustentar" (fl. 8).
+Entretanto, consoante a jurisprudência consolidada deste Tribunal Superior, " n ão há que se cogitar de nulidade do julgado, na medida em que o adiamento do julgamento traz como consequência sua inclusão em pauta na primeira sessão subsequente, sem que seja necessária nova intimação das partes, nova inclusão em pauta ou outra providência" (EDcl no MS n. 21.766/DF, Rel. Ministro Og Fernandes, 1ª S., DJe 30/8/2017, grifei).
+No mesmo sentido:
+ ..
+1. "Na linha de precedentes desta Corte, após o processo ter sido regularmente incluído em pauta, tendo sido as partes devidamente intimadas da data da sessão de julgamento que, contudo, não se realiza na data designada em razão de adiamento indicado pelo relator, não se cogita de sua reinclusão em pauta ou nova intimação das partes, mormente quando o feito é levado a julgamento na sessão imediatamente subsequente" (EDcl no REsp 951.510/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 22/6/2009) (HC n. 406.661/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 6/10/2017).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
