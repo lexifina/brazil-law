@@ -1,0 +1,25 @@
+EMENTA
+RECLAMAÇÃO. PENAL. HC N.º 455.575/SP. EXECUÇÃO PROVISÓRIA. SOBRESTAMENTO. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. RECURSO ESPECIAL INTERPOSTO. EXAURIMENTO CONFIGURADO. PERDA DO OBJETO. RECLAMAÇÃO PREJUDICADA.
+DECISÃO
+A então Relatora, Ministra MARIA THEREZA DE ASSIS MOURA, ao deferir o pedido de liminar, assim sintetizou a presente reclamação (fls. 78-79):
+"Trata-se de reclamação ajuizada por [NOME], com fundamento no art. 105, I, "f", da Constituição Federal, tendo em vista o decidido por esta Corte nos autos do HC 455575/SP, cuja ementa restou assim redigida:
+PROCESSO PENAL. HABEAS CORPUS. ESTELIONATO. SENTENÇA CONDENATÓRIA. APELO EM LIBERDADE. APELAÇÃO JULGADA. EXPEDIÇÃO DO MANDADO DE PRISÃO. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXECUÇÃO PROVISÓRIA DA PENA. OFENSA À PRESUNÇÃO DE INOCÊNCIA. NÃO OCORRÊNCIA. CONDENAÇÃO AINDA NÃO CONFIRMADA POR COLEGIADO DE SEGUNDO GRAU. EXPEDIÇÃO DO MANDADO DE PRISÃO OBSTADA. ORDEM CONCEDIDA.
+1. O Pleno do Supremo Tribunal Federal, em 5.10.2016, no julgamento das medidas cautelares nas ações diretas de constitucionalidade 43 e 44, por maioria de votos, confirmou entendimento antes adotado no julgamento do HC 126292, no sentido de que a execução provisória da pena não afronta o princípio constitucional da presunção de inocência, de modo que, confirmada a condenação por colegiado em segundo grau, e ainda que pendentes de julgamento recursos de natureza extraordinária (recurso especial e/ou extraordinário), a pena poderá, desde já, ser executada. Ressalva do entendimento da Relatora.
+2. Esse posicionamento foi reafirmado no Plenário Virtual do Supremo Tribunal Federal, por ocasião da análise do ARE 964246, que teve repercussão geral reconhecida. Assim, a tese firmada pelo Pretório Excelso deve ser aplicada nos processos em curso nas demais instâncias.
+3. Embora determinado o imediato cumprimento da pena, nota-se que ainda não houve o esgotamento da jurisdição ordinária, o que impede, por ora, a expedição da ordem de prisão, uma vez que ainda não confirmada a condenação por colegiado de segundo grau.
+4. Ordem concedida a fim de que o paciente possa aguardar em liberdade o julgamento de seus recursos pelo Tribunal de segundo grau, com o consequente esgotamento da jurisdição ordinária, se por outro motivo não estiver preso.
+Alega o reclamante que "ao julgar a apelação, o Tribunal de origem determinou a expedição de mandado prisional "com a prolação deste acórdão", antes mesmo do esgotamento da via ordinária, o que não coaduna com a jurisprudência do Superior Tribunal de Justiça e em desrespeito a liminar já informada ao tribunal a quo" (fl. 6).
+Sustenta que deve ser afastada a execução provisória da pena porque ainda não exaurida a instância ordinária.
+Requer, em sede liminar, seja determinada a suspensão dos efeitos da decisão impugnada. No mérito, "seja julgada procedente a presente reclamação para que seja determinado a expedição do contramandado de prisão ou alvará de soltura, medida que com toda certeza fará valer a decisão do Habeas Corpus 455575/SP" (fl. 8)."
+As informações foram prestadas às fls. 92-107.
+O Ministério Público Federal opinou no sentido da perda do objeto da Reclamação, em parecer assim ementado (fl. 109):
+"RECLAMAÇÃO. HABEAS CORPUS CONCEDIDO PELO STJ, PARA IMPEDIR A EXECUÇÃO PROVISÓRIA DA PENA, DEPOIS DA CONDENAÇÃO EM SEGUNDA INSTÂNCIA, ATÉ O ESGOTAMENTO DA VIA ORDINÁRIA. INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA ACÓRDÃO DO TRIBUNAL A QUO. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. PARECER PELA DECLARAÇÃO DA PERDA DO OBJETO DA RECLAMAÇÃO E CONSEQUENTE CASSAÇÃO DA LIMINAR CONCEDIDA."
+É o relatório.
+Decido.
+A presente reclamação tem por escopo o cumprimento da decisão proferida no Habeas Corpus n.º 455.575/SP, por meio da qual se deferiu a liminar "para que o paciente possa aguardar em liberdade o julgamento dos seus recursos pelo Tribunal de segundo grau, com o consequente esgotamento da jurisdição ordinária, se por outro motivo não estiver preso."
+Ocorre que o Tribunal apontado como coator prestou as seguintes informações (fl. 93):
+"Diante da v. decisão proferida nos embargos de declaração pela Oitava Câmara de Direito Criminal deste Tribunal, que anulou o v. acórdão prolatado na Apelação Criminal nº 0001837-02.2012.8.26.0445, tendo em vista que o patrono atuante à época do julgamento estava inativo/licenciado para o exercício da advocacia, a Turma Julgadora, aos 02 de agosto de 2018, em novo julgamento, sem discrepância de votos, negou-lhe provimento, determinando a expedição de mandado de prisão.
+Anoto ainda que há registro de protocolo de interposição de recurso especial pela Defesa, o qual aguarda juntada para processamento."
+Como se verifica, após o novo julgamento da Apelação, a Defesa já manifestou Recurso Especial. Sendo assim, constata-se ter havido o esgotamento das instâncias ordinárias, o que fez com que ficasse exaurida a ordem concedida no HC n.º 455.575/SP, cuja decisão é apontada como descumprida. Sendo assim, perdeu-se o objeto da presente reclamação.
+Ante o exposto, JULGO PREJUDICADA a reclamação, cessando os efeitos da liminar deferida.
+Publique-se. Intimem-se.
