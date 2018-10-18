@@ -1,0 +1,18 @@
+Decisão: 1. Nos autos epigrafados, ante a urgência sinalizada pela Interpol, lastreada na informação de que o nacional britânico Dean Paul William Jones desembarcaria no Brasil em 17.8.2018, decretei a prisão preventiva para fins de extradição, aqui visada, antes mesmo da oitiva da Procuradoria-Geral da República.
+    Após o implemento da custódia na exata data prognosticada pelas autoridades, veio manifestação do órgão ministerial (fls. 44-46), na qual assenta que, a seu sentir, afigurar-se-iam preenchidos todos os requisitos da medida extrema “seja os da Lei 13.445/2017, seja do Decreto 2.347, que promulgou o Tratado de Extradição entre Brasil e o Reino Unido da Grã Bretanha e Irlanda do Norte, aplicáveis na espécie. (fl. 46)”.
+    Outrossim, no citado parecer, foi salientada a indispensabilidade dessa segregação para assegurar a executoriedade do pleito de extradição (art. 84, caput, da Lei 13.445/2017), seja pela gravidade dos crimes imputados ao requerido, seja pela insuficiência da imposição de medidas cautelares diversas da prisão para debelar o risco de fuga.
+    No ofício aportado à fl. 48, o Ministério da Justiça informa que o Estado Requerente foi cientificado, pela via diplomática, em 22.8.2018, razão pela qual determinei a permanência do feito em cartório pelo prazo de lei, ou até sobrevirem os documentos formalizadores.
+    Posteriormente, em 15.10.2018, foi registrada, nesta Corte Suprema, a extradição propriamente dita (“EXT 1.562”).
+    Nessa mesma data, o estrangeiro, por meio de seus advogados, pleiteou a imediata revogação da custódia decretada na presente PPE, sustentando que (fls. 51-54): i) “o prazo final para a distribuição do pedido de extradição do REQUERENTE seria o dia 15 de outubro de 2018 [grifei], o sexagésimo dia de sua prisão”; ii) “a regra legal prevista no Tratado de Extradição entre Brasil e Reino Unido da Grã-Betanha leva em consideração a quantidade de dias de efetiva prisão, obviamente, aplica-se para a contagem do prazo a regra prevista no art. 10 do Código Penal (O dia do começo inclui-se no cômputo) e iii) “mesmo já tendo sido ultrapassado o lapso previsto no referido pacto, o REINO UNIDO DA GRÃ-BRETANHA ainda não pleiteou a extradição do REQUERENTE”.
+    2. Como se vê, a pretensão de soltura está lastreada exclusivamente na alegada inobservância, pelo Estado Requerente, do dies ad quem para apresentação dos documentos formalizadores, que, na visão da defesa do estrangeiro, seria 15.10.2018.
+    Entretanto, repiso, a extradição correspondente a este pedido de prisão foi autuada e distribuída precisamente na data acima aludida (EXT 1.562), sendo certo que os autos deste procedimento ainda não foram apensados àqueles tão somente pelo aporte do petitório sub examine.
+    Nessa ordem de ideias, conclui-se pela inexistência de qualquer substrato apto a albergar o pleito.
+    3. À luz do exposto, acolhendo o parecer da Procuradoria-Geral da República (fls. 44-47), e pelos fundamentos já lançados às fls. 17-20, aos quais me reporto, mantenho a prisão preventiva do estrangeiro.
+    Cumpra-se o “item 2” do despacho à fl. 50, com a regular habilitação dos advogados nos autos da EXT 1.562.
+    No mais, aguarde-se a realização do interrogatório já aprazado para o dia 13.11.2018, às 16 horas.
+    Torno disponível à defesa constituída o inteiro teor dos feitos, determinando a integral digitalização (EXT 1.562 e PPE 872).
+    Cumpridas todas as diligências, inclusive as ordenadas nos autos principais (EXT 1.562), cientifique-se o Ministério Público Federal.
+    Publique-se. Intimem-se.
+    Brasília, 18 de outubro de 2018.
+Ministro Edson Fachin
+Relator - Documento assinado digitalmente
