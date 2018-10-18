@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Eis os fundamentos do acórdão recorrido:
+    A controvérsia recursal gira em torno do suposto direito do autor à convocação ao Curso Especial de Formação de Cabos. Da detida análise dos autos, constata-se que o referido Concurso interno foi aberto pelo Edital nº 001/CEFC PM – 2016/2017, nos moldes da Lei Estadual 5.940/69, alterada pela Lei nº 18.591/2015, onde dispunha de 95 (noventa e cinco) vagas a serem preenchidas, com convocação dos 130 (cento e trinta) Soldados com maior antiguidade absoluta.
+    Assim, é cristalino o supramencionado edital, em seu item 2 ao trazer que a 1ª Fase do Concurso se daria por meio de , na qual a linha de corte se deu em Divulgação da antiguidade absoluta 25 anos, 6 meses e 26 dias, conforme Edital n° 002/CEFC PM – 2016/2017, não enquadrando desta forma o autor, que possuía na época 15 anos, 7 meses e 21 dias de serviço (ev. 1.7).
+    Ao ingressar com a ação, pretendia-se a confirmação da existência de direito subjetivo no tocante a participação no curso em comento. Contudo, cabe esclarecer que não há qualquer garantia em lei acerca da convocação daqueles que se encontram fora dos limites expostos pelo Edital, vez que como extraído do artigo 44, §5° da Lei 5.940/69, a matricula e a frequência no Curso Especial de Formação de Cabos e no Curso Especial de Formação de Sargento dar-se-ão mediante convocação, de acordo com os critérios estabelecidos nesta Lei, respeitando os requisitos do edital e o número de vagas determinadas pelo Comandante-Geral.
+    Deste modo, o número total de vagas ofertadas para o curso sob análise é disponibilizado de acordo com a necessidade do serviço e considerando as possibilidades da Administração em oferecê-las, observada a disponibilidade orçamentária, o número de vagas em aberto, dentre outros critérios, e qualquer entendimento diverso iria de encontro a seara da discricionariedade administrativa, não cabendo ao Poder Judiciário se imiscuir, sob pena de violação ao Princípio da Separação dos Poderes.
+    Nesse sentido, é a jurisprudência:
+    AGRAVO DE INSTRUMENTO. FAZENDA PÚBLICA. CONCURSO INTERNO PMPR. CURSO ESPECIAL PARA FORMAÇÃO DE CABOS. 130 VAGAS OFERTADAS AOS SOLDADOS COM MAIOR ANTIGUIDADE ABSOLUTA. ELIMINAÇÃO NA PRIMEIRA FASE. TUTELA PROVISÓRIA DE URGÊNCIA CONCEDIDA PELO JUÍZO DE ORIGEM. SOLDADO QUE NÃO PREENCHE A EXIGÊNCIA INICIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE AMBOS OS REQUISITOS AUTORIZADORES PARA A CONCESSÃO DE TUTELA DE URGÊNCIA. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO. (TJPR - 4ª Turma Recursal - DM92 - 0000380-75.2017.8.16.9000 - Umuarama - Rel.: Manuela Tallão Benke - J. 19.06.2017)
+    Insta salientar que, mesmo o autor tendo preenchido os demais requisitos para participar do Curso Especial de Formação de Cabos, evidente que o primeiro requisito essencial presente no Edital não foi alcançado, eis que dentro do critério de antiguidade absoluta, lhe falta tempo substancial para alcançar o ultimo candidato classificado para a segunda fase do certame interno.
+    Da mesma forma, faz-se mister evidenciar que em se tratando de concurso público, mesmo que interno, a regra geral é a da aplicação do princípio da vinculação ao edital, não cabendo entendimento diverso deste.
+    Diante disto, reformo a sentença combatida para que seja julgado improcedente o pleito inicial.
+    Somente pela análise do quadro fático e da legislação de regência seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    2. Nego seguimento ao extraordinário.
+    3. Publiquem.
+Brasília, 18 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
