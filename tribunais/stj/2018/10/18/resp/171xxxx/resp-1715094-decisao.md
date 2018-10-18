@@ -1,0 +1,8 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INTERPRETAÇÃO EXTENSIVA DO DISPOSTO NO ART. 1.015 DO CÓDIGO FUX. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS (RECURSOS ESPECIAIS REPRESENTATIVOS DA CONTROVÉRSIA N. 1.696.396/MT E 1.704.520/MT; TEMA N. 988/STJ). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do TRF da 2a. Região.
+2. Verifica-se que a matéria discutida nos autos - possibilidade de interpretação extensiva do disposto no art. 1.015 do Código Fux - encontra-se afetada à 2a. Seção do STJ como representativo da controvérsia e aguarda julgamento (Recursos Especiais representativos da controvérsia n. 1.696.396/MT e 1.704.520/MT; Tema n. 988/STJ).
+3. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+4. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do Código Fux.
+5. Publique-se.
+6. Intimações necessárias.
