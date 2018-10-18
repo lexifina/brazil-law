@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. FUNDAMENTAÇÃO DA DECISÃO AGRAVADA FAVORÁVEL À AGRAVANTE. EQUÍVOCO NA PARTE DISPOSITIVA. AGRAVO INTERNO RECEBIDO COMO EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA SANAR A CONTRADIÇÃO, COM EFEITOS INFRINGENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] contra decisão de e-STJ fls. 453/457, por meio da qual reconsiderei a decisão de fls. 418/422 e, por equívoco na parte dispositiva, neguei provimento ao recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. LIMITAÇÃO PELA JORNADA DE TRABALHO SEMANAL. IMPOSSIBILIDADE. PRECEDENTE DO STF. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões de agravo interno, a agravante reitera os argumentos já expendidos no agravo interno de fls. 429/443, alegando, em síntese, que seria possível a acumulação dos cargos públicos, havendo compatibilidade de horário.
+Requer, assim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado, para que seja dado provimento ao recurso especial.
+Impugnação ao agravo interno apresentada às e-STJ fls. 501/503.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo interno deve ser recebido como embargos de declaração, em razão de notória contradição entre a fundamentação da decisão agravada, inteiramente favorável à agravante, e a parte dispositiva do decisum, que por equívoco, negou provimento ao recurso especial.
+Tal medida é possível já que o agravo interno foi protocolado em 05/09/2018 (e-STJ fl. 462), ou seja, no último dia do prazo para a oposição dos embargos de declaração, restando autorizada a fungibilidade recursal.
+Verifica-se dos autos que, inicialmente, havia negado provimento ao recurso especial, entendendo ser descabida a acumulação de cargos públicos quando a jornada de trabalho fosse superior a 60 horas semanais, nos termos da decisão publicada em 17/02/2015 (e-STJ fls. 418/422).
+Interposto o agravo interno de e-STJ fls. 429/443, realizei juízo de retratação para admitir a acumulação dos cargos públicos, nos termos da fundamentação constante da decisão ora agravada (e-STJ fls. 453/457).
+Contudo, por equívoco, neguei provimento ao recurso especial na parte dispositiva da decisão agravada, o que configura notória contradição com a fundamentação do decisum, inteiramente favorável à tese defendida pela agravante no recurso especial.
+Ante o exposto, considerando a fundamentação apresentada na decisão agravada, no sentido de admitir a acumulação de cargos públicos, recebo o presente agravo interno como embargos de declaração, conferindo-lhes efeitos infringentes para modificar a parte dispositiva do decisum e, por conseguinte, dar provimento ao recurso especial, nos termos da fundamentação da decisão de e-STJ fls. 453/457.
+Publique-se. Intimem-se.
