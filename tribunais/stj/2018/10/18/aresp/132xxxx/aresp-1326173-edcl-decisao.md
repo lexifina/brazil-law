@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por THIAGO GARCIA PIRES à decisão de fls. 455/456, que não conheceu do recurso.
+Sustenta a parte embargante que "havia suspensão dos prazos processuais, no âmbito do Tribunal de Justiça de Santa Catarina, até 20 de janeiro de 2018, sendo, via de consequência tempestivo o presente Recurso protocolado em 05 de fevereiro de 2018".
+Assevera, ainda, que "a Corte Especial desse [NOME] admitiu a comprovação, a posteriori, de feriado local ou suspensão de expediente forense no tribunal de origem que implique prorrogação do prazo para interposição do Recurso Especial" (fls. 465/466).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, deve-se esclarecer que "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp n. 1.070.415/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22/5/2017).
+Além disso, a jurisprudência referente ao CPC de 1973 admitia a comprovação posterior da tempestividade (AgInt no AREsp n. 829.932/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13/10/2016; e AgInt no AREsp n. 886.498/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/9/2016).
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
