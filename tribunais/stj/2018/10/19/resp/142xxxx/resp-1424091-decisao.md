@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO AMAZONAS, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local assim ementado (e-STJ fl. 426/427):
+EMENTA: DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. LIQUIDAÇÃO POR ARTIGOS. DESNECESSIDADE. AUSÊNCIA DE FATOS NOVOS. EXCESSO NA EXECUÇÃO. AUSÊNCIA DE MEMÓRIA DE CÁLCULOS APRESENTADA PELO EMBARGANTE. DESCUMPRIMENTO DO QUE DITA O §5.º DO ART. 739- A, DO CPC. DECISÃO MANTIDA.
+I - Para que seja admitida a liquidação nesta modalidade é necessária a comprovação de fato novo (art. 475-E, do CPC), que é aquele que não foi objeto de análise e decisão no processo no qual foi formado o título executivo que se busca liquidar.
+II - No caso dos autos, não há fato novo a ser alegado e aprovado e, por conseguinte, desnecessária a liquidação por artigos.
+III - No mais, as teses defendidas pelo Apelante referem-se à suposto excesso na execução, sendo certo que, por ocasião da oposição dos Embargos à Execução, o Apelante, por expressa determinação legal, deveria ter apresentado memória de cálculo. Inteligência do §5.º do art. 739-A, do CPC. Precedentes do STJ.
+IV - Apelação improvida.
+Nas suas razões, a parte recorrente aponta violação dos arts. 618, I e 475-E do CPC/1973. Sustenta a iliquidez do título que deu origem à execução e a necessidade de análise de fatos novos para apuração do quantum devido pela Fazenda. Aduz a necessidade de liquidação por artigos.
+Sem contrarrazões.
+ Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 464/466.
+Passo a decidir.
+ Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feitas essas considerações, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, a alteração das conclusões adotadas pela Corte de origem a fim de que se entenda pela necessidade da liquidação por artigos tal como colocada a questão nas razões recursais, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. RAZÕES RECURSAIS DISSOCIADAS DO ARESTO DO TRIBUNAL DE ORIGEM. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NS. 283 E 284/STF. DEFINIÇÃO DE TODOS OS ELEMENTOS DE LIQUIDAÇÃO PELA CORTE DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..  V - In casu, rever o entendimento do Tribunal de origem, no sentido de que foram definidos todos os elementos da liquidação, não se justificando a realização de liquidação por artigos, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+  ..  VII - Agravo Interno improvido. (AgInt no REsp 1.618.914/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 6/6/2017, DJe 12/6/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. LIQUIDAÇÃO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC/1973. INEXISTÊNCIA. ARBITRAMENTO E ARTIGOS. NECESSIDADE DE COMPROVAÇÃO DE FATOS NOVOS. SÚMULA 7 DO STJ.
+  ..  2. Para a apuração do montante da indenização devida, por vezes, há a necessidade de se alegar e provar fatos novos, ainda não discutidos na ação de conhecimento, caso em que se revela adequado o uso da liquidação por artigos, prevista no art. 475-E do CPC/1973.
+3. Tendo o acórdão recorrido concluído pela desnecessidade de comprovação de fato novo, rever seus fundamentos importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal, ante o óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido. (AgInt no REsp 1.336.014/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/3/2017, DJe 16/3/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. EFEITO SUSPENSIVO. SITUAÇÃO EXCEPCIONAL. NÃO É O CASO DOS AUTOS. 2. ALEGADA ILEGITIMIDADE ATIVA DA RECORRIDA E PEDIDO DE LIQUIDAÇÃO POR ARTIGOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 3. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. 4. AGRAVO IMPROVIDO.
+ ..  3. No tocante ao modo de se proceder à liquidação do título executivo judicial, verifico que a pretensão recursal demanda o reexame das provas dos autos, a fim de se concluir que haja necessidade ou não de apuração de fatos novos.
+ ..  5. Agravo interno a que se nega provimento. (AgInt no AREsp 1.036.804/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/9/2017, DJe 15/9/2017)
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+ Publique-se. Intimem-se.
