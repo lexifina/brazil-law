@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “PROCESSUAL CIVIL. APELAÇÃO. EXECUÇÃO FISCAL. IPTU. CAIXA ECONÔMICA FEDERAL. ILEGITIMIDADE. ALIENAÇÃO FIDUCIÁRIA. RECURSO IMPROVIDO.
+    - A alienação fiduciária de bem imóvel é a operação através da qual o devedor (fiduciante), visando à garantia de determinada obrigação frente ao credor fiduciário, concede a este a propriedade resolúvel de um imóvel, cuja posse fica desdobrada entre o devedor, que passa a ser possuidor direto, e o credor que se torna possuidor indireto do bem, nos termos do art. 23 da Lei nº 9.514/97.
+    - O artigo 27, § 8º do diploma legal supracitado dispõe que: "responde o fiduciante pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse tenha sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse".
+    - Tal previsão, ao atribuir ao devedor fiduciante a responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel, quando no exercício da posse direta, constitui-se em exceção à regra exposta no artigo 123 do Código Tributário Nacional.
+    - O credor fiduciário não pode ser considerado como proprietário do imóvel para fins de sujeição passiva do IPTU, na medida em que proprietário, como definido na lei civil - artigo 1.228 do Código Civil -, é aquele possuidor dos direitos de uso, gozo e disposição do bem, o que não ocorre no caso de propriedade fiduciária, onde não se fazem presentes nenhum desses direitos.
+    - A posse apta a ensejar a incidência do IPTU, é aquela qualificada pelo animus domini, não incidindo sobre a posse exercida de forma precária e que não tem por objeto a efetiva aquisição da propriedade, tal como acontece nos casos do credor fiduciário.
+    - A análise da Certidão de Dívida Ativa revela que a Caixa Econômica Federal é credora fiduciária do imóvel objeto da cobrança do crédito tributário.
+    - Flagrante a ilegitimidade passiva da Caixa Econômica Federal - CEF para figurar no polo passivo da execução fiscal uma vez que ostenta tão somente a condição de credora fiduciária.
+    - Apelação improvida.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 146, III, a, da CF. Sustenta que o art. 27, § 8°, da Lei n° 9.514/1997 não poderia inovar e alterar o sujeito passivo do IPTU e das taxas incidentes sobre o imóvel nos contratos de alienação fiduciária.
+    A pretensão recursal não merece prosperar, tendo em vista que dissentir das conclusões adotadas demandaria tão somente o exame da legislação infraconstitucional pertinente à hipótese a Lei n° 9.514/1997 e o Código Tributário Nacional, providência vedada nesta via processual. Incide na hipótese a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário nos casos em que o deslinde da controvérsia depende previamente do exame de legislação infraconstitucional. Confiram-se:
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTOS INCIDENTES SOBRE BEM IMÓVEL (IPTU E TAXAS MUNICIPAIS). EXCLUSÃO DA CAIXA ECONÔMICA FEDERAL (CREDORA FIDUCIÁRIA) DO POLO PASSIVO DO FEITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve anterior condenação em honorários advocatícios.” (ARE 991.704-AgR, Relª. Minª. Rosa Weber)
+    DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPTU. TAXA DE LIXO. CONTRIBUINTE. ALIENAÇÃO FIDUCIÁRIA. LEI Nº 9.514/1997. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES.
+    1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes.
+    2. Inaplicável o art. 85, §11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios.
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4 º, do CPC/2015.” (ARE 1012527 AgR, sob a minha relatoria)
+    No mesmo sentido,confiram-se as seguintes decisões monocráticas: RE 1.082.362, Rel. Min. Celso de Mello; RE 1.081.745, Rel. Min. Edson Fachin; RE 1.085.364, Rel. Min. Dias Toffoli; e RE 1.074.749, Rel. Min. Alexandre de Moraes.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 19 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
