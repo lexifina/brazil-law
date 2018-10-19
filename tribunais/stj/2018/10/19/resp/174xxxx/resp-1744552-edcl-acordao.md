@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO DE PENAS. DECRETO PRESIDENCIAL N. 8.380/2014. NATUREZA DECLARATÓRIA DA SENTENÇA CONCESSIVA DO BENEFÍCIO. AUSÊNCIA DE MANIFESTAÇÃO DO PATRONO CONSTITUÍDO. INEXISTÊNCIA DE NULIDADE. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO EXISTENTES.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP, não se prestando ao reexame de questões já analisadas.
+2. Verifica-se que esta Corte Superior posicionou-se de forma clara, adequada e suficiente, ao concluir, no que tange à ausência de manifestação do advogado constituído, que, conforme previsto no artigo 11, § 5º, do Decreto Presidencial n. 8.380/2014, foram ouvidos o Ministério Público e o Conselho Penitenciário, em caráter opinativo, ou seja, uma vez que o acusado preencheu os requisitos para a concessão do benefício do indulto, este deve ser concedido, como feito no caso, não havendo qualquer prejuízo pela não participação do patrono habilitado, tendo a sentença que concede o indulto natureza declaratória.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração opostos por [NOME] (e-STJ fls. 576/591) contra acórdão desta relatoria cuja ementa é a seguinte (e-STJ fl. 563):
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO DE PENAS. DECRETO PRESIDENCIAL N. 8.380/2014. NATUREZA DECLARATÓRIA DA SENTENÇA CONCESSIVA DO BENEFÍCIO. AUSÊNCIA DE PEDIDO E MANIFESTAÇÃO DO PATRONO CONSTITUÍDO. INEXISTÊNCIA DE NULIDADE.
+1. Não se pode falar na ocorrência de nulidade, em decorrência do indulto presidencial ter sido requerido pelo Conselho Penitenciário, além da ausência de manifestação prévia do patrono constituído pelo envolvido para sua concessão.
+2. O art. 11, §2º, do Decreto Presidencial n. 8.380/2014, dispõe que o procedimento para a concessão de indulto ou comutação de pena pode ser iniciado, de ofício, pelo magistrado executor ou por qualquer das pessoas legitimadas, dentre as quais inclui-se o Patronato do Conselho Penitenciária. Dessa forma, há autorização legal para que o referido Conselho realize o requerimento de indulto do apenado, não havendo qualquer ilegalidade.
+3. No que tange à ausência de manifestação do advogado constituído, conforme previsto no artigo 11, §5º, do Decreto Presidencial n. 8.380/2014, foram ouvidos o Ministério Público e o Conselho Penitenciário, em caráter opinativo, ou seja, tendo o acusado preenchido os requisitos para a concessão do benefício do indulto, o mesmo deve ser concedido, como feito no caso, não havendo qualquer prejuízo pela não participação do patrono habilitado.
+4. A jurisprudência desta Corte Superior de Justiça é no sentido de que a sentença que concede o indulto tem natureza declaratória, não havendo como impedir a concessão do benefício ao sentenciado, se cumpridos todos os requisitos exigidos.
+5. Agravo regimental não provido.
+Sustenta a parte embargante que esta Corte Superior de Justiça: (i) foi omissa, ao não dispor os motivos legais que relativizaram o § 5º do Artigo 11 do Decreto Presidencial nº 8380/14, e 112, §§ 1º e 2º, da Lei de Execuções Penais, em total desrespeito a competência do Presidente da República prevista no art. 84, inciso XII, da Constituição Federal; (ii) foi contraditória, ao relativizar os requisitos do Decreto Presidencial nº 8380/14, amparado no art. 84, inciso XII, da Constituição Federal; (iii) foi obscura, por não esclarecer porque ao patrono do Embargante não foi oportunizada a manifestação acerca do pleito formulado pela advogada do Patronato, descumprindo o previsto no § 5º do Artigo 11 do Decreto Presidencial nº 8.380/2014, em total desrespeito a competência exclusiva do Presidente da República, prevista no art. 84, XII, da Constituição Federal de 1988 e 112. §§1º e 2º, da Lei de Execuções Penais.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP, não se prestando ao reexame de questões já analisadas.
+Verifica-se que esta Corte Superior posicionou-se de forma clara, adequada e suficiente, ao concluir, no que tange à ausência de manifestação do advogado constituído, que, conforme previsto no artigo 11, §5º, do Decreto Presidencial n. 8.380/2014, foram ouvidos o Ministério Público e o Conselho Penitenciário, em caráter opinativo, ou seja, uma vez que o acusado preencheu os requisitos para a concessão do benefício do indulto, este deve ser concedido, como feito no caso, não havendo qualquer prejuízo pela não participação do patrono habilitado, tendo a sentença que concede o indulto natureza declaratória.
+Assim, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
