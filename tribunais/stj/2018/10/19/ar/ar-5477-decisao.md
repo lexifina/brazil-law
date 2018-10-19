@@ -1,0 +1,52 @@
+DECISÃO
+Vistos, etc.
+Trata-se de ação rescisória proposta por [NOME] contra a Fundação de Aposentadorias e Pensões dos Servidores do Estado de Pernambuco e outros, com a finalidade de desconstituir decisão proferida pelo STJ no julgamento do AREsp 103.820/PE.
+Narra a inicial que foi ajuizada ação ordinária com o objetivo de obrigar a parte ré a promover a ascensão funcional do autor ao cargo de Procurador do Estado de Pernambuco. A demanda foi julgada conjuntamente com outra ação conexa que fora promovida por pessoas que não integravam o quadro funcional do IPSEP. O Tribunal de origem, por sua vez, extinguiu o feito, sem resolução do mérito, sob o fundamento de que os demandantes seriam carecedores do direito de ação.
+A parte autora alega a existência de erro de fato e violação de literal disposição de lei, na medida em que o acórdão proferido Tribunal de Justiça do Estado de Pernambuco, integralizado pela decisão desta Corte Superior, afastou o interesse de agir sem examinar as particularidades da ação que foi especificamente por ela ajuizada. Explicita o seguinte (e-STJ, fls. 5-6):
+O primeiro erro passou despercebido pelo julgador que, ao decidir os recursos conjuntamente, considerou todos os apelantes na mesma plana e na mesma condição de carecedores do direito, apesar do ora autor ser, à época, - repete-se - Assessor Jurídico e preencher todos os requisitos legais para a ascensão funcional e o conseqüente enquadramento no cargo de procurador da autarquia. Este erro decorreu do fato de que os autores da outra ação, ao aforarem uma "ação ordinária" com pedido de nulidade da Portaria 516/90, e requererem, antagonicamente, a investidura nos cargos objeto desta mesma portaria que queriam anular, terminaram por propor, via transversa, uma ação popular pela qual não restaria nenhuma utilidade prática para esses autores, sendo, por isto, julgados carecedores do direito da ação proposta, em face da impropriedade da via eleita, processualmente falando. E ao julgar os dois apelos por conexão, o Relator estadual incluiu, no mesmo decisum, o autor, estigmatizando-o como também sendo carecedor do direito, cometendo inequívoco erro material, passível de correção via da ação rescisória, nos termos do predito art. 485, caput, § 1.º , do CPC.
+ Aduz que a decisão rescindenda fez indevida referência à ilegitimidade de parte, quando, na realidade, o TJPE concluiu pela carência de ação.
+Requer a procedência da ação rescisória, a fim de que seja desconstituída a decisão ora impugnada.
+[NOME] apresentou contestação às e-STJ, fls. 132-138.
+A defesa de [NOME] foi protocolizada às e-STJ, fls. 140-145.
+[NOME] contestou às e-STJ, fls. 153-164.
+O Ministério Público Federal opinou pela improcedência da ação rescisória.
+Decido.
+Inicialmente, tem-se que a presente rescisória foi proposta em 20/10/14, isto é, quando ainda vigente o CPC/1973.
+Nos termos da Súmula 515/STF: "A competência para a ação rescisória não é do Supremo Tribunal Federal, quando a questão federal, apreciada no recurso extraordinário ou no agravo de instrumento, seja diversa da que foi suscitada no pedido rescisório."
+No caso, a decisão indicada como rescindenda, ao examinar o AREsp 103.820/PE, limitou-se a: a) afastar a existência de afronta ao art. 535 do CPC/1973; b) reconhecer o descabimento do apelo especial para a análise da apontada ofensa a dispositivo constitucional; c) aplicar o óbice da Súmula 7/STJ para aferir a suscitada ilegitimidade de parte.
+Nesse contexto, deve-se afastar a competência desta Corte Superior para o exame da ação rescisória, porquanto manteve-se a decisão que inadmitiu o apelo especial na origem, não tendo havido pronunciamento do STJ sobre a matéria deduzida na ação rescisória.
+A propósito:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. ART. 485 CPC/1973. AUSÊNCIA DE DECISÃO DE MÉRITO PROFERIDA PELO STJ. INCABIMENTO. INCIDÊNCIA DO ENUNCIADO N. 515 DA SÚMULA DO STF. COMPETÊNCIA DO TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO PARA RESCINDIR ESTA DECISÃO .
+I - Segundo a jurisprudência desta Corte, o cabimento da ação rescisória com fundamento no artigo 485, do CPC, é restrita às hipóteses em que o julgado rescindendo tenha enfrentado o mérito da demanda.
+II - No que se refere à ação rescisória de competência originária deste tribunal, exige-se a existência de decisão de mérito proferida por esta Corte Superior, o que não ocorreu na presente hipótese.
+III - É que a decisão monocrática proferida nesta e. Corte (fls.
+49/58), e que se pretende rescindir, apenas manteve a decisão agravada por seus próprios fundamentos, porquanto o Recurso Especial interposto não superou o juízo de admissibilidade, tendo tido o seguimento negado, mantendo-se incólume o acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que julgou o mérito da ação.
+IV - Importante considerar que a simples interposição de recurso especial não transfere a este Superior Tribunal a competência para processar e julgar eventual ação rescisória.
+V - Para que surja a competência do STJ em matéria de causa submetida à tramitação de Recurso Especial é necessário que a questão federal (mérito) tenha in concreto sido apreciada e dirimida pela instância extraordinária. Incide, portanto, a Súmula 515/STF.
+VI - Assim, fica claro que o interesse da autora é a rescisão de decisão proferida pelo Tribunal a quo que julgou o mérito da ação e não o acórdão proferido por esta Corte. Neste caso, a competência para rescindir essa decisão de mérito é do Tribunal Regional Federal da 4ª Região.
+VII - Agravo interno improvido.
+(AgInt na AR 5.000/PR, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 26/9/2018, DJe 3/10/2018)
+Por outro lado, no âmbito do CPC/1973, não havia previsão expressa no sentido de conferir-se à parte autora a oportunidade de emendar a petição inicial da ação rescisória para pleitear a rescisão do julgado proferido na origem.
+Em razão disso, a jurisprudência do STJ firmou-se no sentido de não ser possível a remessa dos autos do feito rescisório ao juízo tido por competente. Confiram-se:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. ART. 485, V, VI e VII, DO CPC/73. APOSENTADORIA ESPECIAL. AGENTES INSALUBRES. DOCUMENTO NOVO (PPP). EXPOSIÇÃO AO HIDROCARBONETO. TEMA NÃO APRECIADO PELA DECISÃO RESCINDENDA. NÃO CABIMENTO. SÚMULA 515/STF. REMESSA DOS AUTOS AO JUÍZO COMPETENTE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Hipótese em que se busca a reforma da decisão que negou seguimento ao pleito rescisório, em face da incompetência desta Corte para processar e julgar o feito.
+2. A jurisprudência desta Corte Superior consolidou-se no sentido de que "não cabe ação rescisória quando o pedido formulado nesta ação se refere a matéria diversa da que foi tratada no julgado rescidendo" (AR 3.543/MG, Rel.
+Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 11/12/2013, DJe 19/12/2013).
+3. No caso em exame, consoante consignado na decisão agravada, o julgado o qual se quer rescindir não decidiu sobre a exposição do autor ao agente químico "hidrocarbonetos aromáticos", conforme consta no documento novo apresentado, razão pela qual não há como examinar o tema que sequer foi objeto da demanda originária, sob pena de infringência às regras constitucionais de competência.
+4. "O Superior Tribunal de Justiça tem entendido que, proposta equivocadamente a ação rescisória, é incabível a remessa dos autos ao juízo competente, porquanto é impossível a modificação judicial do pedido do autor, que busca a rescisão do julgado apontado na inicial" (AgRg na AR 2.214/CE, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, DJ de 14/6/2006).
+5. Agravo não provido.
+(AgInt nos EDcl na AR 4.887/RS, Rel. Min. RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 23/5/2018, DJe 30/5/2018)
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO FEDERAL. ART. 485, IV, DO CÓDIGO DE PROCESSO CIVIL. OFENSA A COISA JULGADA. EX-COMBATENTE. ACÓRDÃO RESCINDENDO QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA EM RAZÃO DA APLICABILIDADE DA SÚMULA 7/STJ. INCOMPETÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 515/STF. PEDIDO SUBSIDIÁRIO. REMESSA DOS AUTOS AO JUÍZO COMPETENTE. IMPOSSIBILIDADE. INICIAL QUE SE INSURGE CONTRA ACÓRDÃO EQUIVOCADO. PRECEDENTES. AÇÃO RESCISÓRIA EXTINTA SEM RESOLUÇÃO DE MÉRITO.
+1. Não tendo havido o exame do mérito pelo STJ, na medida que o acórdão rescindendo limitou-se a aplicar o óbice da Súmula 7/STJ, patente é a sua incompetência para processar e julgar a presente demanda rescisória, a qual deve se voltar contra o acórdão do Tribunal regional. Incidência da Súmula 515/STF.
+2. O pedido subsidiário não merece acolhida, porquanto o STJ perfilha entendimento no sentido de que, proposta equivocadamente a rescisória, é incabível a remessa dos autos ao juízo competente, na medida em que a inicial se insurge contra acórdão equivocado, caso em que não poderia o relator corrigir o mérito do pedido.
+3. Ação rescisória extinta sem resolução de mérito.
+(AR 4.515/RN, Rel. Min. MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 11/3/2015, DJe 19/3/2015)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. QUESTÃO DIVERSA. SÚMULA Nº 515/STF. REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM. INVIABILIDADE. PRECEDENTES.
+1. Segundo a aplicação analógica da Súmula nº 515/STF, a competência para a ação rescisória não é do Superior Tribunal de Justiça quando a questão federal apreciada no recurso especial seja diversa daquela suscitada no pedido rescisório.
+2. No caso, a matéria objeto da presente ação rescisória - configuração ou não dos requisitos da responsabilidade civil - não foi analisada no acórdão rescindendo.
+3. Não é possível a remessa dos autos ao Tribunal local quando o autor se insurge na inicial contra acórdão equivocado, tendo em vista a inviabilidade de correção do pedido e da causa de pedir articulados.
+4. Agravo regimental não provido.
+(AgRg nos EDcl na AR 4.573/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 11/2/2015, DJe 13/2/2015)
+Ante o exposto, com fundamento no art 34, XVIII, do RISTJ, c/c o art. 485, IV, do CPC/2015, julgo extinta a ação rescisória, sem resolução de mérito.
+Condeno a parte autora ao pagamento de honorários advocatícios fixados em R$ 2.000,00 (dois mil reais), ficando a referida condenação suspensa por cinco anos, uma vez que a parte vencida é beneficiária da justiça gratuita, em conformidade com o art. 85, § 8º, c/c o art. 98, § 3º, do CPC/2015.
+Publique-se. Intimem-se.
