@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial com base no óbice da Súmula 284 do STF.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado com amparo na alínea "a" do permissivo constitucional contra acórdão assim ementado (e-STJ, fl. 244):
+Agravo Interno. Decisão monocrática que negou seguimento à Apelação Cível. Ação de Procedimento Comum Ordinário, por meio da objetivou o autor o recebimento de indenização por danos material e moral, por furto de veículo em logradouro público. Sentença de improcedência. Inconfonnismo do autor. O entendimento que restou assentado no Superior Tribunal de Justiça é no sentido de que o Poder Público deve assumir a guarda e responsabilidade do automóvel quando estacionado em estabelecimento público, somente quando dotado de vigilância especializada para esse fim. In casu, a área se trata de um parque público, cujo estacionamento é gratuito, não havendo no local qualquer serviço de vigilância e de guarda dos veículos. Inexistência de contrato de depósito.
+Precedentes desta Corte de Justiça. Pretensão de rediscussão da matéria, já devidamente apreciada na decisão recorrida, cuja manutenção se impõe, por seus próprios fundamentos. Recurso a que se nega provimento.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 260-263).
+Em suas razões, postula a parte interessada, em síntese, a reforma do aresto combatido, a fim de que seja reconhecida a responsabilidade civil da parte recorrida pelos danos materiais e morais decorrentes do crime de furto de automóvel em estacionamento público.
+Contrarrazões às e-STJ, fls. 312-316.
+É o relatório.
+Registro, de início, que, em virtude da publicação do acórdão impugnado ainda na vigência do CPC/1973, deve ser aplicado, ao caso, o Enunciado Administrativo do STJ n. 2: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+O presente recurso não possui condições de ser conhecido.
+A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica.
+Dessa forma, levando em conta que o recorrente apresentou a sua insurgência quanto ao entendimento proferido pela instância de origem acerca da controvérsia, sem indicar, de forma clara e precisa, os dispositivos legais que teriam sido supostamente afrontados pelo acórdão combatido, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia, nos termos da Súmula 284/STF.
+A propósito, destaco que "a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame" (AgInt no REsp 1.474.836/GO, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 7/8/2018, DJe 14/8/2018).
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM RECURSO ESPECIAL - DESISTÊNCIA DA DESAPROPRIAÇÃO - DIVERGÊNCIA JURISPRUDENCIAL _ NÃO INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO _ INCIDÊNCIA DO VERBETE DA SÚMULA 284 DO STF - POSSIBILIDADE DE DESISTÊNCIA.
+1. Incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo quando o recurso foi interposto pela alínea "c" do permissivo constitucional.
+2. A desistência da expropriação pode ser feita até o pagamento integral e, no caso dos autos, apenas algumas parcelas foram pagas. Precedente. Agravo regimental improvido (AgREsp 1.090.549/SP, Rel. Min. Humberto Martins, DJe 23/10/2009)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
