@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário com agravo cujo objeto é acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (eDOC 03, p. 70):
+    “Apelação. Ação declaratória de inexistência de relação jurídico-tributária com pedido cumulado de repetição de indébito. Imposto sobre serviços de qualquer natureza. Não incidência. Locação de bens móveis. Obrigação de dar. Inexistência de prestação de serviço. Inteligência da Súmula Vinculante 31 do Supremo Tribunal Federal.
+    Imposto sobre serviços de qualquer natureza. Possibilidade de transferência do encargo financeiro. Necessidade de provar que este foi suportado por quem pleiteia restituição de indébito. Inteligência do artigo 166 do Código Tributário Nacional. Precedentes do Superior Tribunal de Justiça. Falta de elementos a comprovar quem, de fato, suportou o pagamento do tributo. Ônus da autora. Inteligência do artigo 333, I do Código de Processo Civil. Pedido de repetição de indébito improcedente. Recurso parcialmente provido.”
+    Foram rejeitados os embargos de declaração (eDOC 03, p. 94).
+    No recurso extraordinário interposto com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 93, IX e 145, §1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se que o ISS constitui tributo direto e tal caráter torna admissível o pedido de repetição de indébito (eDOC 03, p. 166).
+    A Presidência do TJSP inadmitiu o recurso com base na Súmula 282, do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem, quando do julgamento da apelação asseverou:
+    “No caso sub cogitatione inexistem elementos indicadores de que a demandante deixou de repassar aos locatários de bens móveis o encargo financeiro do tributo, tampouco de que estes últimos hajam autorizado aquela a receber a restituição. Daí por que improcede o pedido respectivo: faltam provas para que possa acolher a pretensão de devolução do dinheiro pago a título de ISS.”
+     Como se depreende dos fundamentos do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e, sobretudo, de provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Ademais, a discussão referente à comprovação da exação indevida para efeitos de repetição de indébito revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ISS. LOCAÇÃO DE bens MÓVEIS. REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. OFENSA REFLEXA. TEMA 752. SÚMULA 279 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA. I É inconstitucional a incidência do Imposto sobre Serviços de Qualquer Natureza – iss sobre operações de locação de bens móveis (Súmula Vinculante 31 do STF e Tema 212 RE 626.706) II A parte agravante sucumbiu apenas no pedido de repetição de indébito, em face da interpretação que o Tribunal de origem fez do art. 166 do CTN, e do exame das provas produzidas nos autos. III O STF já afirmou, por se tratar de matéria infraconstitucional, a ausência de repercussão geral da controvérsia sobre a legitimidade para ajuizar, nos termos do art. 166 do CTN, ação de repetição de indébito. (Tema 752 RE 753.681 RG). Incidência do óbice previsto na Súmula 279 do STF. IV Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4º, do CPC).” (RE 974325 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 17.11.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. ISS. 4. locação de bens móveis. Não incidência. Repetição de indébito. Ausência de comprovação quanto ao repasse do ônus financeiro. 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE 743694 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 24.11.2016).
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a, do CPC.
+    Publique-se.
+    Brasília, 19 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
