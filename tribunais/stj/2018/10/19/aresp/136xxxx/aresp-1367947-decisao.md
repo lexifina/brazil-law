@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado pela Universidade Federal de Santa Catarina - UFSC contra decisão, que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 71):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. [NOME]. SISU. PNE.
+- A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Intelecto do art. 300 do novo CPC.
+- Como a validação da autodeclaração de cada categoria de ingresso deve ser realizada posteriormente em comissão constituída para tal desiderato no âmbito administrativo, não fica impedida, por ora, a participação do candidato no SISU - Sistema de Seleção Unificada.
+- Hipótese na qual não restou comprovado, em sede de juízo de cognição sumária, o enquadramento do autor nos requisitos da Lei nº 12.711/2012, com redação conferida pela Lei nº 13.406/2016.
+- Não obstante, deve ser permitida a inscrição do autor pelo SISU na condição de pessoa com deficiência, possibilitando a sua participação na disputa com os demais candidatos da sua categoria.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 98/103).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 300, 489, 492 e 1.022 do CPC/2015; 6º do Decreto-Lei n. 4.657/1942; 44, II e § 1º, da Lei n. 9.394/1996; e 1º, 2º, 3º, 11, 12, 14 e 15 da Portaria n. 21/2012. Sustenta que a Corte recorrida prestou tutela jurisdicional deficitária ao não se manifestar sobre todas as alegações apresentadas pela parte.
+Aduz, ainda, não estar presente na espécie a probabilidade do direito para fins de concessão da tutela acautelatória, devendo a mesma ser revogada.
+É o relatório.
+De início, cabe dizer que o recurso especial foi interposto no bojo do agravo de instrumento aviado contra decisão do Juízo da 2ª Vara Federal de Florianópolis/SC, proferida nos autos de ação ordinária, que indeferiu o pedido de tutela de urgência que objetivava reserva de vaga no curso de medicina.
+Em consulta realizada no sítio eletrônico do Tribunal Regional Federal da 4ª Região, pode-se verificar que foi proferida sentença de improcedência na ação principal (5000787-30.2017.4.04.7200/SC).
+Nesse panorama, cumpre destacar que, nos termos da jurisprudência desta Corte Superior de Justiça, fica prejudicado, ante a perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verificar a prolação da sentença de mérito, haja vista que nela a cognição é exauriente.
+A esse respeito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RESP. APELO RARO INTERPOSTO CONTRA O ACÓRDÃO DO TRF DA 1a REGIÃO QUE CONFIRMOU DECISÃO QUE INDEFERIU MEDIDA CAUTELAR DE BLOQUEIO PATRIMONIAL EM AÇÃO DE IMPROBIDADE. SENTENÇA CONDENATÓRIA SUPERVENIENTE. PERDA DE OBJETO DO NOBRE APELO PROCLAMADA PELA DECISÃO AGRAVADA. PRETENSÃO A QUE SEJA APRECIADO O APELO RARO, AO ARGUMENTO DE QUE A SENTENÇA DE PROCEDÊNCIA NÃO GERA PERDA DE OBJETO DO APELO RARO. CONTUDO, PROFERIDA A SENTENÇA DE MÉRITO, A MATÉRIA ATRELADA AO PLEITO CAUTELAR SE DESLOCA PARA A EVENTUAL APELAÇÃO. AGRAVO REGIMENTAL DO AUTOR DESPROVIDO.
+1. Esta Corte Superior tem a diretriz de que a superveniência de sentença de mérito, seja de procedência ou improcedência, acarreta a perda de objeto do recurso especial, interposto contra decisão interlocutória que decide pedido de liminar ou antecipação dos efeitos da tutela, porquanto o provimento dotado de cognição exauriente absorve os efeitos da medida antecipatória, cumprindo às partes impugnar a sentença, e não mais o deferimento ou indeferimento da liminar ou antecipação dos efeitos da tutela (AgRg no AREsp 728.557/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 20.11.2015).
+2. Bem por isso, o pronunciamento exauriente contido em sentença está submetido à forja pelo Tribunal, devolvendo-se ao recurso de Apelação toda matéria discutida em Primeiro Grau.
+3. Na espécie, conforme assinalou a decisão agravada, o Recurso Especial foi interposto contra aresto do Tribunal de origem que, em sede de Agravo de Instrumento, negou provimento ao recurso, mantendo o indeferimento do bloqueio de bens dos réus. Constatou-se, além disso, que houve prolação de sentença de parcial procedência da pretensão em 29.10.12 (fls. 181). O Apelo Raro perdeu objeto.
+4. Agravo Regimental do autor desprovido.
+(AgRg no REsp 1.343.337/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/5/2018, DJe 22/5/2018)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INIBITÓRIA CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DO OBJETO.
+1. A jurisprudência desta Corte Superior firmou entendimento no sentido de que resta prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação da sentença de mérito, tendo em vista ser esta de cognição exauriente.
+2. Agravo interno não provido.
+(AgInt na PET no AREsp 1.114.938/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/4/2018, DJe 13/4/2018)
+Ante o exposto, julgo prejudicado o recurso, tendo em vista a perda superveniente do seu objeto.
+Publique-se.
