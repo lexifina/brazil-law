@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o Juízo da Vara do Trabalho de Manhuaçu-MG, suscitante, e o Juízo de Direito de Ipanema-MG, suscitado.
+Ação: de reintegração de posse com pedido liminar proposta perante a Justiça Comum, por [NOME] e OUTRA em face de GENIVALDO [NOME] DA COSTA e OUTROS, na qual pretenderam a posse do imóvel localizado no Córrego Palmital, Zona Rural, do Município de Pocrane-MG, o qual mede 1.61,37 hectares, bem como o despejo dos réus e a condenação ao pagamento de indenização, na base de 50% (cinquenta por cento) do salário mínimo a título de aluguel mensal.
+Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, sob o argumento de que a ação foi "ajuizada em face dos sucessores do empregado, que ocupam o imóvel pertencente ao empregador, em função de contrato de trabalho, sendo que resta incontroverso no caderno processual, a existência de uma relação de trabalho, além do fato de o imóvel objeto da possessória ter sido entregue ao empregado em virtude deste contrato." (fl. 210).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, ao fundamento de que "as questões postas versam essencialmente sobre a existência de doação verbal do imóvel ao Sr. [NOME]; sucessivamente, usucapião; e por fim, existência de contrato de comodato entre o primeiro requerente e o Sr. [NOME], em nenhum momento é mencionada a prestação laboral em prol dos ora requerentes" (fl. 331), motivo pelo qual, a competência seria da Justiça Comum.
+É o relatório.
+Decide-se.
+1. Registre-se, preliminarmente, que o presente incidente se apresenta pronto para julgamento, haja vista que são dispensáveis maiores esclarecimentos pelos juízos conflitantes e que a hipótese dos autos não se enquadra em nenhuma daquelas previstas no artigo 178 do Código de Processo Civil de 2015, dispensando-se também o parecer do Ministério Público Federal, a teor do que dispõe o parágrafo único do artigo 951 do CPC/2015.
+2. A competência para o julgamento de uma demanda é fixada em razão da natureza da causa, que por sua vez é definida pelo pedido e pela causa de pedir deduzidos na petição inicial.
+Das razões apresentadas na inicial, destaca-se o seguinte trecho (fls. 10-17):
+1.1 - Em 02/04/2000, o Notificante pactuou com o falecido [NOME], contrato de comodato, para o empréstimo sem ônus de 3,0 (três) hectares de terras localizado na propriedade do Notificante, tendo este contrato sido realizado pelo prazo de 20 anos ou indeterminado (até que Francisco viesse a falecer), fato este ocorrido na data de 02/10/2014. (cópia em anexo)
+1.2 - Tal comodato ocorreu devido à um reconhecimento pelos serviços prestados pelo falecido [NOME], ao pai do requerente, logo após a morte deste. Como não tinha onde morar, o requerente emprestou sem ônus os 3,0 hectares de terras dentro de sua propriedade para que Francisco residisse com sua companheira e filhos até sua morte ou até que Francisco escolhesse outro local para viver e ter seu sustento.
+1.3 - Assim, habitou uma casa já existente, com plantações ao redor que inclusive utiliza da mesma energia elétrica do padrão do requerente, o qual controla o consumo por meio de um medidor de energia instalado na entrada da área. Desde o inicio do comodato, o consumo anotado era pago pontualmente pelo Sr. [NOME].
+1.4 - O comodato foi formalizado pelas partes, época, nas instalações do Sindicato dos Trabalhadores Rurais de Pocrane em -2 de abril de 2000 e na presença de 02 testemunhas, ainda vivas. Para o reconhecimento das assinaturas das partes, foram as mesmas reconhecidas posteriormente pelo Cartório Único de Notas de Pocrane - MG, em 20 de outubro de 2006.
+1.5 - Com o falecimento de [NOME], o Requerente procurou a atual companheira do finado, [NOME] e lhe mostrou o contrato, solicitando que a mesma deixasse o local assim que pudesse, pois sabia que esta não residiria mais naquela localidade, haja vista que tal manifestação já tinha sido feita mesmo durante a vida de Francisco.
+1.6 - A principio a companheira do de cajus, informou que dentro de 60 dias deixaria o local e que iria mudar para a "rua", mas passados uns 30 dias, o que aconteceu é que realmente [NOME] deixou o local mas tomaram posse do mesmo, seus filhos, [NOME] e Genivaldo.
+1.7 - Procurados para saber o que tinha acontecido, o Requerente e sua esposa receberam a noticia de que não mais deixariam a propriedade e que não conheciam nenhum comodato entre o falecido e o Requerente.
+ ..
+A turbação ou o esbulho praticado pelo réu
+O esbulho é demonstrado pela permanência dos Requeridos na posse do imóvel, após a morte do comodatário e notificação judicial dos sucessores, comprovada com a cópia da certidão do oficial de justiça.
+ ..
+Quanto ao pleito formulado, verifica-se, na hipótese dos autos, que se voltaram exclusivamente às pretensões de reintegração de posse e da indenização devida pelo esbulho possessório sofrido, litteris (fls. 14 e 15):
+3.1 - DA LIMINAR
+A posse do requeridos é totalmente injusta e caracterizado o esbulho possessório, estando provado o fumus boni iuris o periculum in mora, pois a manutenção da posse dos requeridos poderá vir a ensejar a cobrança de
+benfeitorias não autorizadas e ou a destruição da casa de colono existente no local.
+A pretensão autoral em sede de liminar, prende-se à necessidade de resguardar o direito dos REQUERENTES, em ter a segurança jurídica reaver um imóvel emprestado por ato de caridade e voltarem a usufruir todos os poderes inerentes à posse, dentre eles de alugá-lo para quem bem entenderem, e não serem molestado por ninguém, mesmo que tal pessoa acredite que, por ter um imóvel próximo ao outro, também será dono de toda a área que confronta.
+ ..
+3.2 - DOS DEMAIS PEDIDOS:
+ ..
+Seja ao final JULGADA PROCEDENTE A PRESENTE AÇÃO POSSESSÓRIA, com a confirmação da liminar, reintegrando definitivamente os requerentes na posse do imóvel e condenando os Requeridos nas custas, honorários de sucumbência, honorários de contratação, despesas de aluguel do imóvel, na base de 50% do salário mínimo mensal enquanto durar a posse e demais cominações da espécie.
+Nesse contexto, verifica-se que tanto a causa de pedir, quanto os pedidos dizem respeito ao contrato de comodato celebrado entre o autor da reintegratória e o pai e companheiro dos réus, denotando a natureza eminentemente civil da lide.
+Tal situação, de acordo com a pacífica jurisprudência deste Superior Tribunal de Justiça, deixa clara a competência da Justiça Estadual, pois não se verifica controvérsia envolvendo o reconhecimento de relação empregatícia ou o pagamento de verbas daí decorrentes, de modo a atrair a competência para a Justiça do Trabalho.
+Ressalte-se que, especificamente, em se tratando de ação possessória decorrente de contrato de comodato, esta Corte Superior tem se posicionado no sentido da competência da Justiça comum, haja vista a ausência de relação entre o proprietário do imóvel e seu ocupante mediante contrato de comodato vinculado à relação de trabalho vigente.
+A propósito, confira-se o seguinte precedente:
+CONFLITO NEGATIVO DE COMPETÊNCIA. USUCAPIÃO EXTRAORDINÁRIA. JUÍZO CÍVEL E JUÍZO DO TRABALHO. PRÉVIA EXTINÇÃO DO CONTRATO DE TRABALHO.
+1. A competência da Justiça do Trabalho para julgar ações possessórias decorre da concomitância entre o comodato existente com imóvel do empregador e o contrato de trabalho entre as partes. Precedentes.
+2. Conflito de competência conhecido para declarar a competência do Juízo de Direito da 2ª Vara Cível de Mafra/SC.
+(CC 143.869/SC, Relator Ministro Luis Felipe Salomão, DJe de 04.12.2015 - sem destaque no original).
+E ainda, os seguintes julgados monocráticos: CC 143347/SC, Rel. o Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 17/06/2016; CC 142633/SC, Rel. o Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 17/06/2016; CC 145116/SC, Rel. o Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 17/05/2016; CC 143869/SC, Rel. o Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 04/12/2015; CC 143215/SC, Rel. o Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 16/11/2015.
+3. Do exposto, com fundamento no art. 955, do NCPC c/c Súmula 568/STJ conheço do conflito para declarar a competência do r. juízo suscitado.
+Publique-se. Intimem-se.
