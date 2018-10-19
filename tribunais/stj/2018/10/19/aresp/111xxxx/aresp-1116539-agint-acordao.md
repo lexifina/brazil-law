@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 2. CONCORRÊNCIA DESLEAL. COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 3. EXCESSO NO VALOR ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS NÃO VERIFICADO. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. INVIABILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. 4. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 5. AGRAVO INTERNO IMPROVIDO.
+1. O art. 489, IV, do NCPC não foi analisado pelo Tribunal local, carecendo do necessário prequestionamento para a análise da matéria em recurso especial. Incidem as Súmulas n. 282 e 356 do STF.
+2. O Tribunal de Justiça, soberano no exame do acervo fático-probatório dos autos, concluiu pela ausência de configuração da concorrência desleal e pela conduta ilícita da requerida. A análise das razões apresentadas pela recorrente demandaria o reexame das circunstâncias fáticas da causa, o que é vedado em recurso especial, ante o disposto no enunciado n. 7 da Súmula do STJ.
+3. No que se refere aos honorários sucumbenciais, é cediço o entendimento desta Corte de que o redimensionamento de verba honorária exige o revolvimento de fatos e provas dos autos, providência esta vedada no recurso especial, em virtude do óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça, compreensão esta relativizada apenas quando o valor fixado se mostrar irrisório ou exorbitante, o que não é o caso dos autos.
+4. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno improvido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por Chiaperini Industrial Ltda. contra decisão desta relatoria assim ementada (e-STJ, fl. 733):
+DIREITO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. CONCORRÊNCIA DESLEAL. COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. EXCESSO NO VALOR ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS NÃO VERIFICADO. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. INVIABILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais, o agravante alega a inaplicabilidade da Súmula n. 7 do STJ. Sustenta que não houve o enfrentamento do ponto nevrálgico do processo que é a configuração da concorrência desleal, haja vista que a empresa agravada se utilizou de registro do desenho industrial, que ela sabia ser NULO, que já tinha caído em domínio público, para prejudicar e eliminar seu principal concorrente, havendo ilegalidade no ato praticado pela violação direta e frontal da Convenção da União de Paris.
+Apontou que a apreciação do apelo não implica em reexame de prova, mas na revaloração da matéria de direito.
+Pleiteia a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação às fls. 759-761 (e-STJ), com pedido de aplicação da multa do art. 1.021, § 4º, do NCPC.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 2. CONCORRÊNCIA DESLEAL. COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 3. EXCESSO NO VALOR ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS NÃO VERIFICADO. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. INVIABILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. 4. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 5. AGRAVO INTERNO IMPROVIDO.
+1. O art. 489, IV, do NCPC não foi analisado pelo Tribunal local, carecendo do necessário prequestionamento para a análise da matéria em recurso especial. Incidem as Súmulas n. 282 e 356 do STF.
+2. O Tribunal de Justiça, soberano no exame do acervo fático-probatório dos autos, concluiu pela ausência de configuração da concorrência desleal e pela conduta ilícita da requerida. A análise das razões apresentadas pela recorrente demandaria o reexame das circunstâncias fáticas da causa, o que é vedado em recurso especial, ante o disposto no enunciado n. 7 da Súmula do STJ.
+3. No que se refere aos honorários sucumbenciais, é cediço o entendimento desta Corte de que o redimensionamento de verba honorária exige o revolvimento de fatos e provas dos autos, providência esta vedada no recurso especial, em virtude do óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça, compreensão esta relativizada apenas quando o valor fixado se mostrar irrisório ou exorbitante, o que não é o caso dos autos.
+4. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno improvido.
+
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Em que pese aos argumentos expendidos pela parte insurgente, verifica-se que o art. 489, IV, do NCPC não foi analisado pelo Tribunal local, carecendo do necessário prequestionamento para a análise da matéria em recurso especial.
+Dessa forma, não tendo a matéria sido enfrentada pelo acórdão recorrido (ausência de fundamentação do acórdão recorrido), obsta o conhecimento do recurso especial por ofensa ao artigo indicado. Nesse ponto, incidem as Súmulas n. 282 e 356 do STF, respectivamente:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Ademais, embora a recorrente tenha oposto embargos de declaração, verifica-se que não alegou omissão quanto ao dispositivo ora indicado como violado.
+No mais, a análise das razões apresentadas pela recorrente demandaria o reexame das circunstâncias fáticas da causa, o que é vedado em recurso especial, ante o disposto no enunciado n. 7 da Súmula do STJ.
+Isso porque o Tribunal de Justiça, soberano no exame do acervo fático-probatório dos autos, concluiu pela ausência de configuração da concorrência desleal e pela conduta ilícita da requerida, assim fundamentando (e-STJ, fls. 590-591):
+No caso em tela, a arguição provada pela empresa embargante, que sustenta vício de omissão no acórdão acerca da ausência de manifestação expressa sobre a concorrência desleal, tem propósito nítido de rediscussão do mérito, mormente que devidamente apresentado no corpo da fundamentação:
+"Entretanto, percebe-se que a Notitificação Judicial foi feita em maio de 2003 e a anulação do D.I. 5501293-0 deu-se em maio de 2004, restando claro que, quando da Notificação, o registro ainda estava vigente, o que a torna um mero exercício regular de direito (art. 188, II, CC), cuja finalidade é manter exclusividade sobre o objeto do registro, não havendo conduta ilícita ensejadora de reparação, seja de dano moral, ou dano material." (fls, 506/507).
+Por derradeiro, no que se refere aos honorários sucumbenciais, é cediço o entendimento desta Corte de que o redimensionamento de verba honorária exige o revolvimento de fatos e provas dos autos, providência esta vedada no recurso especial, em virtude do óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça, compreensão esta relativizada apenas quando o valor fixado se mostrar irrisório ou exorbitante, o que não é o caso dos autos.
+Na hipótese, constata-se que o Tribunal de origem manteve os honorários advocatícios fixados no montante de R$ 12.000,00 (doze mil reais), assim fundamentando (e-STJ, fl. 570):
+Isto porque, considerando os parâmetros contidos na norma processual (art. 20, § 3º e 4 do CPC/73), deve-se ater para o grau de zelo, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Levando em consideração os critérios acima referidos, considero desnecessária eventual alteração na verba honorária, uma vez que atende ao disposto na lei processual.
+Desta maneira, rejeito o pedido de minoração dos honorários advocatícios.
+Assim, o quadro fático delineado no acórdão justifica a quantia fixada, e refutar as conclusões fáticas alcançadas pelo Tribunal de origem exige o reexame de provas, o que é defeso a esta Corte haja vista o disposto no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. IMPOSSIBILIDADE SÚMULA 7/STJ.
+1. O STJ pacificou a orientação de que o quantum da verba honorária está sujeito a critérios de valoração previstos na lei processual e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática. Nesses casos, o STJ atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura. Portanto, inafastável a conclusão de que o reexame das razões de fato que conduziram a Corte de origem a tal entendimento significaria usurpação da competência das instâncias ordinárias. Aplica-se o óbice da Súmula 7/STJ.
+2. Agravo Regimental não provido. (AgRg no REsp 1.461.675/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 10/3/2015, DJe 6/4/2015)
+Relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo imperioso para tal que seja nítido o descabimento do recurso.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. DECISÃO PUBLICADA A PARTIR DE 18/MAR/16. ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Nos termos do Enunciado Administrativo nº 7/STJ, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes. (EDcl no AgInt no REsp 1480859/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/04/2017, DJe 03/05/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
