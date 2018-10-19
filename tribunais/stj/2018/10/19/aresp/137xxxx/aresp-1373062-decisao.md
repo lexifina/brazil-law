@@ -1,0 +1,39 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO MINISTERIAL DE AFASTAMENTO DA MINORANTE. IMPOSSIBILIDADE. SÚMULA 7/STJ. PREJUDICADO OS PEDIDOS ATINENTES À FIXAÇÃO DE REGIME MAIS RIGOROSO E AFASTAMENTO DA SUBSTITUIÇÃO DA PENA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O juízo singular condenou os agravados como incurso nas sanções dos artigos 33 e 35, ambos da Lei n. 11.343/2006, às penas de, cada um, 8 (oito) anos de reclusão e 1.200 (mil e duzentos) dias-multa (fls. 204-219).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, os recursos dos agravados Tarcízio, Allan e Paulo foram parcialmente providos para absolvê-los do delito previsto no artigo 35 da Lei n. 11.343/2006, reconhecendo de ofício em relação ao recorrido Allan, Tarcízio e Paulo a minorante inserta no artigo 33, § 4º, da Lei n. 11.343/2006, redimensionando as penas de cada um ao patamar de 3 (três) anos e 4 (quatro) meses de reclusão, no regime inicial aberto, e operando-se, na ocasião, a substituição da pena privativa de liberdade por restritiva de direitos (fls. 314-337).
+Os embargos de declaração opostos foram rejeitados (fls. 369-376).
+No recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a defesa alega ofensa aos artigos 33, § 4º, 44, inciso III, e 59, todos do Código Penal; e artigos 33, caput e § 4º, e 42, ambos da Lei n. 11.343/2006, aos argumentos de que:
+(i) "o Tribunal a quo violou o disposto no artigo 33, § 4º, da Lei de Tóxicos, porquanto os recorridos não preenchem todas as condições para a concessão da benesse nele insculpida" (fl. 394);
+(ii) "os acusados não fazem jus à minorante do § 4º, do art. 33, da Lei de Tóxicos, pois se dedicam, com habitualidade, à prática de atividades criminosas, sendo inadequado o regime aberto à repressão do ilícito, dada a especial gravidade da conduta praticada" (fls. 404-405);
+(iii) "a partir de uma interpretação conjugada dos artigos 42, da Lei n. 11.343/06, e 59. do Código Penal, infere-se que as balizas definidas na legislação de tóxicos devem servir de parâmetro não só na graduação da sanção corporal, mas também na fixação do regime inicial de cumprimento de pena (..) considerando-se a dedicação dos réus à prática de atividades criminosas e a apreensão de expressiva quantidade de entorpecente (mais de 700 gramas de maconha - fl. 257-v), conforme supramencionado, conclui-se que, ao fixar o regime inicial aberto, o Tribunal de Justiça mineiro violou o disposto nos artigos mencionados" (fl. 405).
+Contrarrazões às fls. 431-437.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula 7 do STJ (fls. 462-463).
+Nas razões do presente agravo, a parte alega que não incidem os referidos óbices (fls. 466-479).
+O Ministério Público Federal opinou pelo parcial provimento do agravo (fls. 510-519).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+Busca a parte recorrente, em princípio, nas suas razões recursais, o afastamento da minorante inserta no artigo 33, § 4º, da Lei n. 11.343/2006 em desfavor dos recorridos.
+Confira-se, oportunamente, trecho do v. acórdão ora vergastado sobre o tema, verbis:
+"O art. 33, §4º, da Lei nº 11.343/06 dispõe que "nos delitos definidos no caput e no §1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Embora existam elementos no sentido de que os acusados estivessem envolvidos com a comercialização de drogas, eles são primários, de bons antecedentes (CAC"s - fl. 66/68; 69; 70/73) e não há provas claras do envolvimento habitual com a prática delituosa ou que integrem alguma organização criminosa" (fl. 335)
+Com efeito, o recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários (Súmula 7/STJ e Súmula 279/STF).
+No presente recurso especial, à conta de violação ao art. 33, § 4º, da Lei 11.343/06, pretendia o recorrente a não aplicação do benefício da redutora prevista no normativo referenciado quanto aos recorridos.
+No ponto, contudo, é de se realçar que a instância ordinária, ao aplicar a minorante do art. 33, § 4º, da Lei 11.343/06 no patamar de 1/6 (um sexto), considerou as diretrizes estabelecidas no art. 42 da Lei de Drogas, e, notadamente, que "não há provas claras do envolvimento habitual com a prática delituosa ou que integrem alguma organização criminosa" (fl. 335 - grifei).
+Assim, não é viável o afastamento da redutora, uma vez que tal procedimento demanda a análise do caso concreto sob ângulos distintos que se mesclam: por um prisma, ofensa ao princípio do livre convencimento motivado, dada a fixação de patamares ou afastamento da minorante com base em elementos fático-probatórios, atraindo, por outro vértice, igualmente, a Súmula 7/STJ, dada a vedação da sua análise pela via eleita.
+Nesse sentido:
+"REGIMENTAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. AFASTAMENTO DO BENEFÍCIO PREVISTO NO ARTIGO 33, §4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO DO ACUSADO EM ATIVIDADE CRIMINOSA. NÃO RECONHECIMENTO, NA ESPÉCIE. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de impedir a aplicação da minorante prevista no artigo 33, § 4º, da Lei de Drogas quando as circunstâncias dos autos indicarem que o acusado se dedica à atividades criminosas, condição não verificada na espécie.
+2. Desconstituir o entendimento do Tribunal de origem, para reconhecer que o acusado se dedica a atividade criminosa, exige o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento." (AgRg no REsp 1.534.562/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 20/09/2017 - grifei)
+"PROCESSUAL PENAL E PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. DOSIMETRIA. MINORANTE DO § 4º DO ART. 33 DA LEI 11.343/06. NÃO DEDICAÇÃO À ATIVIDADE CRIMINOSA RECONHECIDA PELO TRIBUNAL A QUO. REVERSÃO. SÚMULA 7/STJ. REDUÇÃO DA FRAÇÃO DA MINORANTE. IMPOSSIBILIDADE. QUANTIDADE DA DROGA RECONHECIDA COMO VETORIAL NEGATIVA NA PENA-BASE. BIS IN IDEM. AGRAVO IMPROVIDO.
+1. A quantidade da droga pode justificar a não incidência da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, quando evidenciada a dedicação à atividade criminosa.
+2. Reconhecido pelo Tribunal de origem o preenchimento dos requisitos legais do art. 33, § 4º, da Lei 11.343/2006, porquanto não comprovada a dedicação do réu à atividade criminosa, a despeito da quantidade de droga apreendida, a reversão das premissas fáticas adotadas no acórdão encontra óbice na Súmula 7/STJ.
+3. A pretensão de reduzir a fração da minorante do § 4º do art. 33 da Lei 11.343/06, aplicando-a em 1/6, configura vedado bis in idem, quando a quantidade da droga já foi utilizada como vetorial negativa no cálculo da pena-base.
+4. Agravo regimental improvido." (AgRg no REsp 1.373.277/MG, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 25/05/2016 - grifei)
+Tendo em vista a manutenção das penas no termos postos pelo Tribunal de origem, prejudicado os pedidos atinentes à fixação de regime mais rigoroso e afastamento de substituição da pena.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+P. e I.
