@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul que confirmou a sentença a qual declarou a inexigibilidade de contribuição previdenciária e imposto de renda sobre a bolsa paga a residentes em decorrência de participação em programa de extensão de estudos (eDOC 30).
+    Nas razões do extraordinário, interposto com fundamento no artigo 102, III, a, do permissivo constitucional, aponta-se a violação aos artigos 2º; 5º, II; 150, I e 195, I, da Constituição Federal.
+    Sustenta-se que inexiste lei isentando de contribuições previdenciárias as bolsas pagas para fins de participação de programa de extensão de preceptoria de residência médica (eDOC 33).
+    A Presidência das Turmas Recursais do Rio Grande do Sul inadmitiu o recurso por considerar inexistente violação direta ao Texto Constitucional (eDOC 37).
+    É o relatório.
+    De plano, convém reproduzir o assentado pelo Tribunal de origem (eDOC 30):
+    “No que se refere à incidência de imposto de renda sobre os valores recebidos, a Turma Regional de Uniformização da 4ª Região (TRU4) já firmou entendimento no sentido de que se aplica a isenção prevista no art. 26 da Lei nº 9.250/1995 às verbas percebidas a título de bolsa de extensão, fornecida pela Fundação Médica do Rio Grande do Sul. Transcrevo a ementa:
+    PEDIDO DE UNIFORMIZAÇÃO REGIONAL. TRIBUTÁRIO. ISENÇÃO DO IMPOSTO DE RENDA. ARTIGO 26 DA LEI Nº. 9.250/1995. BOLSA DE EXTENSÃO. PROFESSOR PRECEPTOR DE RESIDÊNCIA MÉDICA NA UFRGS JUNTO AO HCPA. POSSIBILIDADE. INCIDENTE DE UNIFORMIZAÇÃO CONHECIDO E PROVIDO.
+    1. Aplica-se a isenção do imposto de renda prevista no art. 26 da Lei nº. 9.250/1996 às verbas percebidas a título de bolsa de extensão, pagas pela Fundação Médica do Rio Grande do Sul, a professor preceptor vinculado ao Programa de docência em Residência Médica e Assistência à Saúde junto ao Hospital de Clínicas de Porto Alegre, uma vez que a atividade desenvolvida é de estudo e pesquisa.
+    2. Precedentes do STJ, no sentido de são isentas do imposto de renda as bolsas de estudo e de pesquisa caracterizadas como doação, quando recebidas exclusivamente para proceder a estudos ou pesquisas e desde que os resultados dessas atividades não representem vantagem para o doador, nem importem contraprestação de serviços.
+    3. Incidente conhecido e provido. (TRU4, 5026530-56.2014.404.7100, Rel. João Batista Lazzari, j. 03/09/2015)
+    De fato, as verbas recebidas a título de bolsa de extensão não têm natureza salarial, não se incorporando aos proventos de aposentadoria.
+    Conforme pontuado na tese uniformizada, as bolsas de estudo e de pesquisa são caracterizadas como doação. Desse modo, não sofrem incidência de contribuição. Seguindo esse raciocínio, este Colegiado já teve a oportunidade de afastar a incidência de contribuição previdenciária sobre a verba em questão, quando do julgamento do RI nº 5010531-92.2016.404.7100.”
+    Sendo assim, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente, notadamente a Lei 9.250/1996. Desse modo, a discussão referente à natureza jurídica da verba e eventual incorporação nos proventos da aposentadoria revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Confira-se, a propósito, o seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. ISENÇÃO. LEI N. 9.250/1995 E DECRETO N. 3.000/1999. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. LIMITES OBJETIVOS DA COISA JULGADA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 884781 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 03.08.2015)
+    Acerca dos valores concedidos à bolsa de extensão recebidos pelos professores preceptores de residência médica, cito as seguintes decisões: ARE 1.109.190, de minha relatoria, DJe 08.03.2018; ARE 1.109.726, de relatoria do Ministro Dias Toffoli, DJe 04.04.2018; ARE 1.109.194, de relatoria do Ministro Marco Aurélio, DJe 10.04.2018; e ARE 1.109.198, de relatoria do Ministro Gilmar Mendes, DJe 05.03.2018.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
