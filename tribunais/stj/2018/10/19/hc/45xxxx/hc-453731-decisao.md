@@ -1,0 +1,8 @@
+DECISÃO
+1. Trata-se de HABEAS CORPUS por meio do qual se pretende, em síntese, a revogação da segregação decretada em desfavor de MONIKE GAVINA GOULART.
+2. Entretanto, das informações colhidas na origem, verifica-se que, em 12-7-2018, sobreveio a prolação de sentença condenatória, ocasião em que a paciente restou condenada ao cumprimento de 4 (quatro) anos, 5 (cinco) meses e 10 (dez) dias de reclusão, mais multa, em regime inicial semiaberto, por violação ao art. 158, parágrafo 1º c/c artigo 29, todos do Código Penal, oportunidade em que lhe foi negado o apelo em liberdade.
+Na hipótese, resta prejudicado o presente mandamus voltado a abordar a legalidade da prisão provisória aplicada ao paciente, visto que os fundamentos utilizados pelo Juízo singular são diversos daqueles mencionados na ordem constritiva originária, isto é, trata-se de decisão diversa da questionada na presente impetração, sendo, portanto, novo título cuja legalidade ainda não foi examinada pelo Tribunal originário.
+Por fim, no que tange a tese superveniente de nulidade absoluta do processo em razão da ausência de publicação da sentença condenatória, verifica-se que não há como se examinar tal questão, sob pena de indevida supressão de instância.
+Ante o exposto, com fulcro, respectivamente, no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julga-se prejudicado o alegado excesso de prazo para o encerramento da instrução e, em relação à nulidade, não se conhece do presente mandamus.
+Publique-se e intimem-se.
+Após ciência do Ministério Público Federal e o trânsito em julgado desta decisão, arquivem-se os autos.
