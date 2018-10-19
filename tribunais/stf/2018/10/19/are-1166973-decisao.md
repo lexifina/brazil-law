@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional da 3ª Região, ementado nos seguintes termos:
+    “PENAL. SONEGAÇÃO FISCAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. LEI 8.137/1990, ARTIGO 1º, INCISCO I. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. INEXIGIBILIDADE DE CONDUTA DIVERSA NÃO CONFIGURADA. CONDENAÇÃO MANTIDA. DOSIMETRIA DAS PENAS. RECURSO PROVIDO EM PARTE.” (eDOC 49, p. 5)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XLVI, do texto constitucional.
+    Nas razões recursais, alega-se que o recorrente, pessoa pobre, não obteve qualquer vantagem ou lucro com a suposta conduta criminosa. (eDOC 53, p. 6)
+    Sustenta que a fixação da pena pecuniária viola o dispositivo constitucional da individualização da pena. (eDOC 53, p. 8)
+    Requer o afastamento da pena pecuniária ou a fixação de acordo com as condições econômicas do recorrente. (eDOC 53, p. 9)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, manteve a prestação pecuniária estabelecida na sentença. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A prestação pecuniária, fixada em R$ 10.000 (dez mil reais) não poderia ser mantida nesses termos, uma vez que o artigo 45 do Código Penal determina que ela seja estabelecida em número de salários mínimos – entre um e trezentos e sessenta.
+    Ocorre que, observada a usual proporção de um salário mínimo por mês de pena substituída, chegar-se-ia a um valor superior ao estabelecido pelo MM. Juiz de primeiro grau, acarretando reformatio in pejus. Assim, mantenho a prestação pecuniária no importe estabelecido na sentença.
+    Observa-se, de outra parte, que, cuidando-se de sonegação de tributos federais, a prestação pecuniária deve ser revestida à União e, uma vez paga, abatida no valor devido, nos termos do artigo 45, §1º, do Código Penal.” (eDOC 49, p. 4)
+    Assim, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIAS COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO. AGRAVO DESPROVIDO.” (ARE 967.498/SP, Rel. Min. Luiz Fux, DJe 9.6.2017)
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ- LA. SENTENÇA CONDENATÓRIA. DOSIMETRIA DA PENA. DIRETRIZES PARA FIXAÇÃO DO VALOR UNITÁRIO DA PENA DE MULTA E DA PRESTAÇÃO PECUNIÁRIA. CAPACIDADE ECONÔMICA DO CONDENADO. REVOLVIMENTO DOS FATOS E DAS PROVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. Orientação da jurisprudência do Supremo Tribunal Federal que assinala que o juízo revisional da dosimetria da pena fica circunscrito à motivação (formalmente idônea) de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão. 3. Em se tratando do cômputo do valor unitário da pena de multa e da prestação pecuniária, é pertinente a avaliação de aspectos inerentes à capacidade econômica do condenado (artigos 45, 49 e 60 do CP), matéria de conteúdo eminentemente fático e que se submete ao crivo do Juiz natural sob a ótica da suficiência e adequação da pena. 4. É inviável a utilização do habeas corpus, ação desprovida do direito ao contraditório, para reexaminar fatos e provas com vistas a refutar a conclusão fixada pelas instâncias ordinárias relativamente à extensão do dano causado e à capacidade econômica do acusado (HC 122.563, Rel. Min. TEORI ZAVASCKI, Segunda Turma, Dje 16.9.2014). 5. Agravo regimental desprovido.” (HC-AgR 137.755/SP, Rel. Min. Edson Fachin).
+    Ademais, verifico que os assuntos versados no recurso extraordinário correspondem ao tema 660 da sistemática da repercussão geral, cujo paradigma é o ARE-RG 748.371, DJe 1.8.2013, de minha relatoria.
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
