@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTIANO [NOME] contra a decisão de fls. 2.101-2.103 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no artigo 105, inciso III, alínea a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (n. 0020523-21.2008.8.26.0562) assim ementado (e-STJ, fl. 1.993):
+NULIDADE - (Recurso do réu Cristiano) - Alegação de inépcia da denúncia e de cerceamento de defesa, em razão do indeferimento de diligências postuladas em primeiro grau - Desacolhimento - Inicial acusatória que preenche os requisitos legais - Diligências requeridas tardiamente pela defesa, após o encerramento da instrução criminal, e que de todo modo não teriam aptidão para influenciar o resultado do julgamento.
+PRELIMINARES REJEITADAS.
+CRIME DE TORTURA - Pretensão dos acusados de se verem absolvidos - Condenação do corréu Cristiano, investigador de polícia, que está bem amparada no conjunto probatório - Vítima que, sem hesitar, indicou-o como um dos executores da tortura - Materialidade do crime, ademais, devidamente comprovada - Pena e regime prisional inalterados - Insuficiência do quadro probatório, todavia, em relação à ré Gabriela - Autoridade policial que se encontrava de plantão na delegacia - Elementos de convicção que não permitem afirmar tivesse ciência das agressões praticadas pelos agentes - Delito que somente admite punição a título de dolo - Absolvição com base no artigo 386, inciso VII, do estatuto processual.
+RECURSO DE CRISTIANO [NOME] DESPROVIDO.
+RECURSO DE GABRIELA DE CARVALHO PROVIDO.
+Os aclaratórios opostos (e-STJ, fls. 2.011-2.027) foram rejeitados (e-STJ, fls. 2.031-2.036).
+Nas razões do recurso especial (e-STJ, fls. 2.039-2.069), o insurgente apontou violação aos arts. 5º, LV, da CF; 41, 158, 159, 381, 564, III, c, IV, e 619 do CPP; 59 do CP; e 1º, § 4º, da Lei n. 9.455/1997.
+Em síntese, alegou negativa de prestação jurisdicional.
+Sustentou ser inepta a denúncia, pois ela não narra a conduta de cada corréu de forma pormenorizada.
+Defendeu não haver prova suficiente para a condenação, sobretudo diante das declarações imprecisas e contraditórias da vítima.
+Aduziu não haver laudo conclusivo a respeito da lesão corporal, sendo a sua gravidade calcada em mera conjectura.
+Ponderou ter ocorrido bis in idem na dosimetria da pena, porquanto os mesmos elementos levados a efeito para caracterizar as circunstâncias e as consequências do crime foram usados para fazer incidir a qualificadora.
+Afirmou que a causa de aumento de pena prevê a exasperação da sanção em até 1/3 (um terço), mas a reprimenda foi majorada em 1/2 (um meio).
+Requereu a reforma do acórdão recorrido.
+Contrarrazões às fls. 2.086-2.090 (e-STJ).
+A Corte de origem deixou de admitir o recurso especial ante a ausência de negativa de prestação jurisdicional e a incidência das Súmulas 7 do STJ e 282, 284 e 356 do STF.
+O Subprocurador-Geral da República, [NOME], opinou pelo conhecimento parcial do inconformismo e, nesta extensão, pelo seu provimento (e-STJ, fls. 2.153-2.158).
+É o relatório.
+Na origem, [NOME] foi condenado à pena de 10 (dez) anos e 06 (seis) meses de reclusão pela prática do delito previsto no art. 1º, I, a, II, § § 3º e 4º, I, da Lei n. 9.455/1997.
+Instado a se manifestar, o Tribunal de Justiça bandeirante manteve a pena do ora recorrente.
+Daí a defesa interpôs recurso especial, o qual foi inadmitido na origem.
+Inicialmente, convém destacar que o recurso especial não é a via própria para o deslinde de controvérsia relativa à matéria constitucional, pois a análise de questão dessa natureza não é de competência desta Corte; mas, sim, do Supremo Tribunal Federal, conforme preceitua a Lei Fundamental.
+No mais, observa-se que não há negativa de prestação jurisdicional, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Na verdade, apenas resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorre nos autos.
+Nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. EIVA INEXISTENTE. ACÓRDÃO REGIONAL QUE DECIDIU A QUESTÃO DE FORMA FUNDAMENTADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. A parte pretende a declaração de nulidade do acórdão recorrido por ofensa ao art. 619 do CPP, ao argumento de que o Tribunal a quo não teria se manifestado em relação às teses arguidas em sede de apelação.
+2. É cediço que o puro e simples inconformismo do recorrente com a solução dada pela Corte de origem à controvérsia não dá ensejo à oposição de embargos de declaração.
+3. Na hipótese, não se vislumbra a aventada negativa de prestação jurisdicional pela Corte a quo no julgamento dos embargos declaratórios, uma vez que todas as teses aventadas foram analisadas no julgamento da apelação.
+ ..
+3. Agravo regimental improvido. (AgRg no AREsp 528.420/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/02/2018, DJe 02/03/2018)
+Quanto à inépcia da exordial acusatória, o Tribunal de Justiça paulista asseverou que "a denúncia descreveu clara e detalhadamente a conduta criminosa dos réus, possibilitando-lhes amplo exercício do direito de defesa" (e-STJ, fl. 1.995).
+Desse modo, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+Ademais, "a superveniência da sentença penal condenatória torna esvaída a análise do pretendido reconhecimento de inépcia da denúncia, isso porque o exercício do contraditório e da ampla defesa foi viabilizado em sua plenitude durante a instrução criminal" (AgRg no AREsp 537.770/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2015, DJe 18/08/2015).
+No que diz respeito à prova a embasar o juízo condenatório, a Corte local, atenta as provas carreadas aos autos - depoimento da vítima e das testemunhas - e a dinâmica dos fatos, conclui que o ora recorrente foi responsável pela prática delitiva (e-STJ, fls. 2000-2003):
+5. Quanto à autoria, analisa-se primeiramente o apelo ofertado por Cristiano.
+A responsabilidade deste corréu está devidamente comprovada, não havendo falar em absolvição.
+ ..
+Sucede que, após ser atendido no pronto socorro (cerca de cinquenta minutos depois), Wagner retornou ao distrito policial e, porque ainda continuava "agitado" (cf. disseram os policiais militares Anderson e Walter - fls. 321 e 323), veio a ser recolocado na mesma cela, situada nos fundos do estabelecimento. Neste local, já durante o fim da madrugada, veio a ser torturado pelo falecido escrivão Emmanuel e também pelo investigador Cristiano, na forma descrita na inicial.
+Interrogado, Cristiano sempre negou a prática do crime, afirmando não ter conhecimento do ocorrido (196-198, 391 e 1402-1410).
+Todavia, sem hesitar, o ofendido Wagner apontou-o como um dos executores da terrível agressão, asseverando que tudo aconteceu porque não queria fornecer seus dados qualificativos (fls.152, 256-257, 259 e 1033-1051). Destaque-se que, sob o crivo do contraditório, Wagner acentuou que, em razão do uso excessivo de crack, estava muito alterado na oportunidade e, por isso, desde que o momento de sua chegada à delegacia Cristiano e Emanuel passaram a agredi-lo fisicamente, com o propósito de obter sua qualificação, inclusive. Em determinado momento, foi levado pelos milicianos (os mesmos que o prenderam) ao hospital, onde foi atendido pela Dra. [NOME] não quis "tomar injeção" (fls. 1035).Então, retornou à delegacia, onde foi recolocado na mesma cela, tendo o acusado Cristiano afirmado: "daqui a pouco, você vai ver (..)" (fls. 1035). Logo após, os dois policiais civis voltaram, sendo que Emmanuel o segurou, impossibilitando-o de oferecer resistência, enquanto o recorrente introduziu um pedaço de madeira em seu ânus. Na ocasião, ninguém mais estava no interior da cela: apenas ele, Cristiano e Emmanuel.
+Também incriminando Cristiano, os milicianos Anderson e Walter informaram que, após retornarem do pronto socorro com Wagner, este foi recolocado na cela e continuou a fazer barulho, tumultuando o ambiente. A partir daí, nenhum policial militar ingressou na carceragem, sendo que "os únicos que lá entraram foram os policiais civis Emmanuel e Cristiano" (fls. 321 e 323).
+Saliente-se que o tumulto reinante na delegacia em nada beneficia este réu, justamente por ser o autor das sevícias.
+Anota-se ainda que, nas duas fases da persecução penal, o médico [NOME] salientou que, na manhã seguinte (6h25), chamado para realizar "exame cautelar" em Wagner, visando sua transferência para um presídio, encontrou-o na sala principal da repartição, momento em que este, abaixando a bermuda e expondo a região glútea, que tinha uma pequena saída de sangue, exclamou: "olha o que fizeram comigo" (fls. 21). Na ocasião, Wagner também reclamou de dores abdominais, razão pela qual informou o fato à Delegada plantonista Gabriela, afirmando ser o caso de encaminhamento da vítima para o hospital - o que veio a ser feito. Depois, por intermédio de relatório médico, teve conhecimento que o ofendido foi submetido a cirurgia, sendo necessária a "suturado reto" (fls. 900).
+6. Enfim, diante de tais elementos robustos de prova, não resta a menor dúvida: a condenação do réu Cristiano, nos termos da denúncia, era mesmo de rigor.
+Ciente disso, não é possível acolher a pretensão recursal sem o reexame das provas dos autos. Incide, portanto, a Súmula 7 do STJ.
+Veja-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARESP QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. VIOLAÇÃO AOS ARTS. 158, CAPUT E 167, AMBOS DO CPP. (I) - TORTURA PSICOLÓGICA. EXAME PERICIAL. DESNECESSIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. (II) - TORTURA FÍSICA. COMPROVAÇÃO. DESNECESSIDADE. TORTURA PSICOLÓGICA É SUFICIENTE PARA A CONDENAÇÃO. (III) - ABSOLVIÇÃO. VEDAÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático probatório a fim de analisar a existência de provas suficientes a embasar o decreto condenatório, ou a ensejar a absolvição. Incidência da Súmula 7 deste Tribunal.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 466.067/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/10/2014, DJe 04/11/2014)
+No que concerne à qualificadora, o Tribunal a quo assentou que "do crime resultou lesão corporal de natureza grave (perigo de vida), conforme atestado por laudos periciais (fls. 147 e 385) (e-STJ, fl. 2.003).
+Desta feita, não é possível assentir com a argumentação traçada na via excepcional sem a incursão indevida no acervo fático probatório dos autos, conforme preceitua a orientação sumula n. 7 do STJ.
+No que tange à alegação de bis in idem na dosimetria da pena, sem razão a defesa.
+A qualificadora prevista no art. 1º, § 3º, da Lei n. 9.455/1997 incide se ocorre lesão grave ou gravíssima por ocasião da tortura. Segundo o art. 129, § 1º, II, o perigo de vida caracteriza lesão corporal grave. E, por causa do perigo de vida atestado em laudo pericial, as instâncias ordinárias fizeram incidir a referida qualificadora.
+De outro lado, as consequências dos crime foram consideradas desfavoráveis por ter a vítima, mais de 01 (um) ano depois do fato, necessitado usar bolsa de colostomia e apresentando problemas para evacuar (e-STJ, fl. 2.003).
+Além disso, a sentença, que fora encampada pelo acórdão recorrido, considerou desfavoráveis as circunstâncias do delito, uma vez que a tortura foi realizada por meio bárbaro denominado empalamento que causou intenso sofrimento (e-STJ, fls. 1.808).
+Destarte, não há se falar em bis in idem, pois os fatos considerados para qualificar o delito e para negativar as circunstâncias judiciais são distintos.
+De mais a mais, assinale-se que "a dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC 400.119/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+Por fim, em relação à causa de aumento de pena prevista no § 4º do art. 1º da Lei n. 9.455/1997, melhor sorte assiste à defesa.
+De fato, o acréscimo legal deve se dar entre 1/6 (um sexto) e 1/3 (um terço). Contudo, a sanção foi exasperada em 1/2 (um meio), em franco descompasso com o preceito legal.
+Passo a redimensionar a reprimenda.
+Mantenho o cálculo da sanção penal operada pelas instâncias ordinárias até a segunda fase da dosimetria da pena: 07 (sete) anos de reclusão.
+Por ocasião da terceira etapa, majoro a sanção em 1/3 (um terço), tendo em vista a causa de aumento de pena prevista no art. 1º, § 4º, I, da Lei n. 9.455/1997, motivo pelo qual a reprimenda alcança o patamar de 09 (nove) anos e 04 (quatro) meses de reclusão.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, dar-lhe provimento, a fim de redimensionar a pena do réu - [NOME] - em 09 (nove) anos e 04 (quatro) meses de reclusão.
+Publique-se. Intimem-se.
