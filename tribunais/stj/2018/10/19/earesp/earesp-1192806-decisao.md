@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo em recurso especial em desfavor de decisão que inadmitiu o recurso especial, interposto com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal.
+Consta dos autos que o réu foi denunciado pela prática do crime do art. 334 (contrabando), § 3º, do Código Penal, porque iludiu, no todo, o pagamento dos tributos incidentes sobre a entrada de mercadorias que trouxe para o País, tendo sido condenado à pena privativa de liberdade de 4 (quatro) anos de reclusão, a ser cumprida inicialmente em regime prisional aberto.
+A pena privativa de liberdade foi substituída por duas penas restritivas de direitos, quais sejam: (i) prestação pecuniária, a ser revertida a entidade pública ou privada com destinação social (indicada oportunamente pelo Juízo da Execução), no valor de R$50.000,00 (cinqüenta mil reais), a ser atualizado desde a data desta sentença; e (ii) prestação de serviços à comunidade ou entidade pública pelo período de 1.460 horas, a serem cumpridas no período mínimo de 2 anos e no período máximo de 4 anos, nos termos e condições a serem especificados oportunamente pelo Juízo da Execução. Ademais, o magistrado de piso, nos termos do art. 92, inciso I, alínea a, do Código Penal, decretou a perda do cargo público do réu.
+Interposto recurso, foi este desprovido pelo Tribunal Regional Federal da 3ª Região, por acórdão assim ementado (e-STJ, fl. 763):
+PENAL. PROCESSUAL PENAL. ART. 334, 3º, DO CÓDIGO PENAL. PRELIMINAR. NULIDADE DO PROCESSO. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. MATERIALIDADE E AUTORIA COMPROVADAS. ABSOLVIÇÃO. NÃO CABIMENTO. DOSIMETRIA. DESCAMINHO PRATICADO EM TRANSPORTE AÉREO. CÓDIGO PENAL, ART. 334, § 3". APLICABILIDADE. PERDA DO CARGO PÚBLICO. APELAÇÃO DESPROVIDA.
+1. A defesa requer, preliminarmente, que o processo seja anulado, devido ao cerceamento de defesa caracterizado pelo indeferimento da expedição de carta rogatória para a oitiva de testemunha de defesa na Itália. Não lhe assiste razão. O pedido mencionado foi indeferido porque tal prova é, evidentemente, prescindível, uma vez que as negociações havidas entre o réu e a testemunha residente no exterior poderiam ser comprovadas por documentos. Ademais, informações sobre como o acusado adquiriu os produtos na Europa são irrelevantes para a configuração do crime, pois, para tanto, basta a ilusão dos tributos devidos quando da entrada das mercadorias no Brasil.
+2. Materialidade e autoria comprovadas.
+3. As declarações do acusado são notoriamente inconsistentes e contraditórias, não foram provadas e restaram isoladas nos autos. Ressalte-se, ainda, que o réu é empresário e, como mostram as cópias de seu passaporte, já havia realizado numerosas viagens ao exterior, tudo a esvaziar sua alegação de ignorância quanto à Declaração de Bagagem Acompanhada da Receita Federal. Assim, comprovadas a materialidade e a autoria, deve a condenação ser mantida.
+4. A pena do delito de contrabando ou descaminho praticado em transporte aéreo deve ser aplicada em dobro, nos exatos termos na norma penal, que não estabeleceu qualquer distinção entre voo regular e clandestino. Precedentes.
+5. As circunstâncias do delito são muito desfavoráveis ao acusado, pois ele, investigador de polícia, tentou introduzir no País, sem o pagamento de tributos, 150kg (cento e cinquenta quilos) de mercadorias, avaliadas em mais de R$ 300.000,00 (trezentos mil reais). Desse modo, cabível a fixação da pena -base acima do mínimo legal. Ademais, não há dúvida de que os produtos foram trazidos pelo réu em um voo comercial internacional, não havendo que se falar, portanto, no afastamento da causa de aumento do art. 334, § 3", do Código Penal.
+6. Deve prevalecer como efeito da condenação a perda do cargo público decretada na sentença, uma vez que é evidente a violação de deveres, por parte do acusado, para com a Administração Pública. Nesse sentido, o Juízo a quo pertinentemente destacou que o réu infringiu o art. 62, II e III, da Lei Orgânica da Polícia do Estado de São Paulo (Lei Complementar n. 207/79), que preveem, respectivamente, que o policial civil deve "ser leal às instituições" e "cumprir as normas legais e regulamentares". Além disso, a sentença também apontou que, segundo uma das testemunhas de acusação, o réu tentou se livrar da fiscalização valendo-se do fato de ser investigador de polícia, o que configura abuso do poder - situação igualmente prevista no art. 91, II, "a", do Código Penal.
+7. Apelação desprovida.
+Opostos embargos de declaração, foram estes rejeitados (e-STJ, fls. 784/791).
+Na petição de recurso especial, a parte recorrente alega violação ao art. 222-A, do Código de Processo Penal, sob a tese de indeferimento extemporâneo de carta rogatória para inquirição de testemunha. Afirma que, uma vez proferida a decisão de deferimento da expedição de carta rogatória, e ausente qualquer recurso das partes, impossível se proceder a sua reconsideração.
+Postula a absolvição, sustentando a negativa de autoria e a ofensa ao art. 386, incisos III e VII, do Código de Processo Penal.
+Aponta divergência jurisprudencial quanto à inaplicabilidade do art. 334, § 3º, do Código Penal, sustentando se tratar de vôo regular e a inexistência de meio que dificultaria a prática fiscalizatória, requerendo o afastamento da causa de aumento.
+Requer a revisão da pena-base fixada, alegando ofensa ao art. 59, do Código Penal e ao princípio da razoabilidade.
+Por fim, afirma a violação ao art. 92, alíneas a e b, do Código penal, postulando que seja afastada a perda do cargo público imposta, tendo em vista a ausência de motivação e razoabilidade a decisão proferida.
+Decisão de inadmissibilidade do recurso especial às fls. 901/917 afirmando que se encontram presentes os óbices das Súmulas n. 7 e n. 83/STJ.
+Agravo em recurso especial às fls. 919/926.
+Contraminuta ao agravo em recurso especial às fls. 932/951.
+Parecer ministerial proferido nos seguintes termos (e-STJ, fl. 962):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. DESCAMINHO (ART. 334 C/C § 3º DO CÓDIGO PENAL). RECURSO ESPECIAL NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA 07/STJ. PLEITO DE ABSOLVIÇÃO, REVISÃO DA DOSIMETRIA E AFASTAMENTO DA PERDA DA FUNÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. APLICAÇÃO DO ENUNCIADO DA SÚMULA N. 07 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTE. PARECER PELO NÃO PROVIMENTO DO AGRAVO.
+É o relatório. Decido.
+Conheço do agravo eis que tempestivo e impugnou os fundamentos da decisão recorrida.
+Passo à análise do recurso especial.
+Não merece provimento a pretensão recursal.
+Primeiramente a parte recorrente postula que o processo seja anulado, diante do indeferimento da expedição de carta rogatória para a oitiva de testemunha de defesa na Itália.
+Quanto ao tema, a decisão vergastada destacou (e-STJ, fl. 757):
+Preliminar. Nulidade do processo. Cerceamento de defesa. Não configurado. A defesa requer, preliminarmente, que o processo seja anulado, devido ao cerceamento de defesa caracterizado pelo indeferimento da expedição de carta rogatória para a oitiva de testemunha de defesa na Itália.
+Não lhe assiste razão.
+O pedido mencionado foi indeferido porque tal prova é, evidentemente, prescindível, uma vez que as negociações havidas entre o réu e a testemunha residente no exterior poderiam ser comprovadas por documentos.
+Ademais, informações sobre como o acusado adquiriu os produtos na Europa são irrelevantes para a configuração do crime, pois, para tanto, basta a ilusão dos tributos devidos quando da entrada das mercadorias no Brasil.
+Destarte, a existência de fundamento inatacado no julgado, suficiente para manter o decisum - tal como na hipótese de ter o Tribunal de origem tratado da prescindibilidade da prova e sua justificativa - atrai o óbice da Súmula n. 283/STF, aplicável por analogia.
+Assim, não se conhece o recurso especial para determinada alegação de violação legal, quando o acórdão recorrido está assentado em mais de um fundamento suficiente e o recurso não abrange todos eles. É o que se extrai da aplicação da Súmula n. 283/STF.
+Ademais, rever o entendimento do Tribunal de origem a respeito da prescindibilidade da prova implicaria em revolvimento fático-probatório dos autos.
+Quanto ao pleito relativo à absolvição , não assiste melhor sorte a parte recorrente, tendo o Tribunal de origem destacado (e-STJ, fl. 757):
+Autoria. Está autoria delitiva está demonstrada pelo conjunto probatório.
+As declarações das testemunhas de acusação corroboram a descrição fálica que consta na denúncia e são coerentes e harmônicas com relação às circunstâncias do crime.
+(..)
+A defesa recorre para que o réu seja absolvido, com fundamento no art. 386, III ou VII, do Código de Processo Penal.
+Não lhe assiste razão.
+As declarações do acusado são notoriamente inconsistentes e contraditórias, não foram provadas e restaram isoladas nos autos.
+Ressalte-se, ainda, que o réu é empresário e, como mostram as cópias de seu passaporte (fls. 16/21), já havia realizado numerosas viagens ao exterior, tudo a esvaziar sua alegação de ignorância quanto à Declaração de Bagagem Acompanhada da Receita Federal.
+Assim, comprovadas a materialidade e a autoria, deve a condenação ser mantida.
+Com efeito, a decisão vergastada baseou seu posicionamento no conjunto fático-probatório da demanda e, rever o referido posicionamento esbarra diretamente no óbice da Súmula n. 7/STJ.
+Neste diapasão:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE CONTRABANDO. CAÇA-NÍQUEIS. INEXISTÊNCIA DE JUSTA CAUSA. PROVA DA MATERIALIDADE E AUTORIA. REVISÃO DO JULGADO. EXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+- A análise das razões recursais no sentido de aferir a inexistência de justa causa para a ação penal demanda o revolvimento de matéria fático-probatória, inviável em recurso especial, ex vi do verbete n. 7 da Súmula desta Corte.
+Agravo regimental desprovido.
+(AgRg no AREsp 498.253/RJ, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, julgado em 20/05/2014, DJe 05/06/2014)
+No que tange a inaplicabilidade do art. 334, § 3º, do Código Penal, também não merece ser provido o apelo nobre.
+Isso porque a jurisprudência deste Sodalício tem entendimento assente no sentido de que "o acórdão proferido em habeas corpus, por não guardar o mesmo objeto/natureza e a mesma extensão material almejados no recurso especial, não serve para fins de comprovação de divergência jurisprudencial, ainda que se trate de dissídio notório" (AgRg no REsp n. 1469363/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 13/10/2014).
+Quanto à pena-base fixada, a decisão destacou (e-STJ,fl. 761):
+Do caso dos autos. As circunstâncias do delito são muito desfavoráveis ao acusado, pois ele, investigador de polícia, tentou introduzir no País, sem o pagamento de tributos, 150kg (cento e cinquenta quilos) de mercadorias, avaliadas em mais de R$ 300.000,00 (trezentos mil reais). Desse modo, cabível a fixação da pena -base em 2 (dois) anos de reclusão.
+Na hipótese, o Tribunal de origem fundamentou concretamente a majoração da pena-base nos termos explicitados, não havendo que se falar em revisão.
+Ademais, o Superior Tribunal de Justiça tem entendido " ..  não ser possível mensurar matematicamente o aumento da pena-base, de forma a se atribuir igual acréscimo de pena para cada circunstância judicial considerada negativa. A lei confere ao julgador certo grau de discricionariedade na análise das circunstâncias judiciais, sendo assim, o que deve ser avaliado é se a fundamentação exposta é proporcional e autoriza a fixação da pena-base no patamar escolhido" (HC n. 343.787/RJ, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 8/9/2016).
+Por fim, quanto à perda do cargo público imposta ao recorrente, o acórdão ressaltou em fl. 761:
+Deve prevalecer como efeito da condenação a perda do cargo público decretada na sentença, uma vez que é evidente a violação de deveres, por parte do acusado, para com a Administração Pública.
+Nesse sentido, o Juízo a quo pertinentemente destacou que o réu infringiu o art. 62, II e III, da Lei Orgânica da Polícia do Estado de São Paulo (Lei Complementar n. 207/79), que preveem, respectivamente, que o policial civil deve "ser leal às instituições" e "cumprir as normas legais e regulamentares".
+Além disso, a sentença também apontou que, segundo uma das testemunhas de acusação, o réu tentou se livrar da fiscalização valendo-se do fato de ser investigador de polícia, o que configura abuso do poder - situação igualmente prevista no art. 91, II, "a", do Código Penal.
+Com efeito, o posicionamento do Tribunal de origem coaduna-se com o desta Corte Especial de que "a perda do cargo público, efeito extrapenal específico previsto no artigo 92, inciso I, alínea "a", do Código Penal, não se restringe aos denominados crimes funcionais, aplicando-se a todos os crimes praticados com abuso de poder ou violação de dever para com a Administração Pública." (REsp 1710157/RO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+Destarte, não merece provimento a pretensão recursal.
+Ante o exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
