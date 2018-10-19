@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra a decisão proferida no âmbito do Tribunal de Justiça do Estado de Mato Grosso do Sul que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea c, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado a 14 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado, pelo crime previsto no art. 157, § 3º, na forma do inciso II do art. 14, ambos do Código Penal (latrocínio tentado).
+O Tribunal de origem deu parcial provimento ao apelo do réu para reduzir a pena para 13 anos, 2 meses e 8 dias de reclusão. Eis a respectiva ementa (e-STJ fl. 574):
+APELAÇÃO CRIMINAL - LATROCÍNIO TENTADO - PRETENDIDA A ABSOLVIÇÃO - INVIABILIDADE - PROVAS ROBUSTAS - CONDENAÇÃO MANTIDA - DESCLASSIFICAÇÃO PARA O CRIME DE ROUBO QUALIFICADO PELA LESÃO GRAVE - IMPOSSIBILIDADE - PENA-BASE - REDUÇÃO - CIRCUNSTÂNCIAS JUDICIAIS MAL SOPESADAS - PENA ABRANDADA - RECURSO PARCIALMENTE PROVIDO.
+I - Mantém-se a condenação pela prática do crime de latrocínio tentado, pois comprovado o dolo de subtrair e o desígnio de matar a vítima, sendo que o resultado morte somente não ocorreu por circunstâncias alheias à vontade do agente.
+II - Não há motivo para desclassificação do latrocínio tentado para roubo qualificado por lesão corporal quando os disparos foram efetuados contra a vítima de roubo que ofereceu resistência, tendo o réu assumido o risco do resultado morte, em especial pelo local em que a vítima foi atingida, provocando incapacidade permanente de membro.
+III - No campo da conduta social deve-se analisar o comportamento do agente no meio social em que vive, na família e no trabalho. Aqui não se emprega atividades caracterizadas como criminosas, pois estas são objeto de outras moduladoras.
+IV - Decota-se aumento da pena-base imposto pela valoração negativa das moduladoras da conduta social e das circunstâncias do crime se não são concretamente analisadas e não apresentam nenhum "plus" que justifique tal juízo.
+V - No que toca ao vetor conseqüências do crime, sabe-se que são os efeitos que o delito provocou na vítima, de natureza material ou moral, que não integram o tipo penal. Para que seja prejudicial ao agente exige-se demonstração de um plus que derive do ato ilícito praticado, estranho aos do próprio tipo. No caso do delito de latrocínio tentado revela-se correta a negativação da moduladora se comprovado que a vítima convive, "até hoje, com um projétil alojado em sua cabeça e, por conta dos fatos, ficou muito abalado e abandonou a profissão de caminhoneiro".
+VI - Recurso parcialmente provido. Em parte com o parecer.
+Nas razões do recurso especial, o recorrente sustenta dissídio jurisprudencial a respeito da interpretação dada ao § 3º do art. 157 do Código Penal. Defende a desclassificação para o crime de roubo qualificado por lesão grave.
+Contrarrazões às e-STJ fls. 633/641.
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal opinou pelo não conhecimento do agravo (e-STJ fls. 676/677).
+É o relatório. Decido.
+Verifica-se que não foi realizado o cotejo analítico entre os acórdãos paradigmas e o aresto impugnado, o que representa desatenção ao disposto no art. 255, § 1º, do Regimento Interno desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. JULGADO PROFERIDO EM HABEAS CORPUS. PARADIGMA. IMPOSSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. PENA-BASE. MAUS ANTECEDENTES. PERÍODO DEPURADOR. AGRAVO NÃO PROVIDO.
+1. O recurso especial não pode ser conhecido sob a alínea "c" do permissivo constitucional, pois o aresto colacionado como paradigma foi proferido em habeas corpus, além de não ter sido realizado o imprescindível cotejo analítico.
+2. Consoante entendimento deste Superior Tribunal, decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não possa prevalecer para fins de reincidência, pode ser, em princípio, sopesada a título de maus antecedentes. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp 924.453/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/09/2016, DJe 15/09/2016, grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 214, C/C O ART. 224, ALÍNEA A, DO CÓDIGO PENAL. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. HABEAS CORPUS COMO PARADIGMA. INADEQUAÇÃO. INÉPCIA DA DENÚNCIA. NÃO INDICAÇÃO DA DATA PRECISA DO FATO DELITUOSO. ALEGADA NULIDADE PELO NÃO RECOLHIMENTO DE CUSTAS, PELA DEFESA, PARA REALIZAÇÃO DE DILIGÊNCIA. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. INVIABILIDADE.
+I - O recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ).
+II - Ademais, a jurisprudência deste eg. Superior Tribunal de Justiça é pacífica no sentido de que acórdãos proferidos em julgamento de habeas corpus não servem como paradigma para demonstração do dissídio jurisprudencial.
+III - Esta Corte firmou orientação no sentido de que a não indicação precisa da data em que ocorreram os fatos criminosos não gera, por si só, a inépcia da exordial acusatória, mormente in casu, quando a denúncia aponta o período em que os delitos teriam sido praticados - entre 1995 e 1999. (Precedentes).
+IV - Aplica-se o óbice previsto no Enunciado n. 283 da Súmula do col. Supremo Tribunal Federal na hipótese em que o recorrente deixa de impugnar especificamente fundamento que, por si só, é suficiente para manter a decisão recorrida.
+Agravo regimental desprovido. (AgRg no REsp 1.390.846/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/08/2016, DJe 26/08/2016)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
