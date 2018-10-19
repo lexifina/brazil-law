@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Estado do Rio Grande do Sul contra decisão de fls. 437/441, pela qual foi determinado o retorno dos autos ao Tribunal de origem para que seja exercido o juízo de conformação do julgado recorrido com o entendimento do Supremo Tribunal Federal, em repercussão geral, no RE 614.406/RG - Tema 368.
+Aponta o embargante que estaria configurado o vício de omissão, pois a questão trazida no recurso especial do embargado estaria adstrita aos requisitos para a repetição de indébito, na forma do art. 165 do CTN, não havendo debate acerca do regime de incidência do imposto de renda sobre pagamentos acumulados, referentes à URV, matéria tratada na repercussão geral apontada.
+Impugnação às fls. 454/464.
+É o relatório.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+Com efeito, o Tribunal de Justiça do Estado do Rio Grande do Sul, ao enfrentar a questão concernente à forma de cálculo do imposto de renda, registrou, expressamente, que "os documentos acostados ao feito não demonstram a existência de prejuízo, a despeito de restar inequívoco que a retenção se deu mediante o regime de caixa" (fl. 187). Consignou, também, que "ainda que atestada a forma equivocada de retenção do IR (realizada sob o regime de caixa), a falta de prova do prejuízo desautoriza a pretensão repetitória" (fl. 190).
+Nesse contexto, não há falar em distinguishing, uma vez que a decisão de origem enfrentou a questão tratada no RE 614.406/RG - Tema 368, cuja ementa segue abaixo:
+IMPOSTO DE RENDA - PERCEPÇÃO CUMULATIVA DE VALORES - ALÍQUOTA. A percepção cumulativa de valores há de de ser considerada, para efeito de fixação de alíquotas, presentes, individualmente, os exercícios envolvidos.
+(RE 614406, Relator(a): Min. ROSA WEBER, Relator(a) p/ Acórdão: Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 23/10/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-233 DIVULG 26-11-2014 PUBLIC 27-11-2014)
+Como se vê, não se observa a omissão no julgado embargado capaz de abrir pórtico para o cabimento dos embargos aclaratórios. Aliás, da própria fundamentação do recurso aclaratório apresentado pelo embargante, vê-se que sua intenção é apontar a existência de error in judicando, propósito esse incompatível com a via integrativa.
+Assim, inexistente qualquer obscuridade, contradição, erro material ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeito os embargos declaratórios.
+Publique-se.
