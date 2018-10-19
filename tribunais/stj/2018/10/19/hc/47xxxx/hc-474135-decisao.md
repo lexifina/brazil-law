@@ -1,0 +1,17 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. AUDIÊNCIA DE JUSTIFICAÇÃO. AUSÊNCIA DE DEFESA TÉCNICA. NULIDADE. REGRESSÃO DEFINITIVA DE REGIME. ILEGALIDADE. PRECEDENTES.
+Ordem concedida liminarmente nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que não conheceu do writ ali impetrado (fls. 52/59 - Habeas Corpus n. 2131171-22.2018.8.26.0000), mantendo decisão do Juízo de Direito da 2ª Vara de Execuções Criminais da comarca de Presidente Prudente/SP, que determinou a regressão do paciente ao regime fechado e a perda de 1/3 dos dias remidos, em razão do descumprimento das condições impostas, pois descumpriu de modo injustificado o recolhimento domiciliar (fl. 48 - Execução n. 801.088).
+Daí a presente impetração, em que se alega constrangimento ilegal consistente no cerceamento de defesa em razão da realização de audiência de justificação sem a presença de defesa técnica e do Ministério Público.
+Sustenta, em síntese, que houve regressão de regime após audiência às portas fechadas com o paciente, sem lhe ser oportunizada a assistência de defesa ou a presença do Ministério Público (fl. 10).
+Postula, então, a concessão liminar da ordem para anular a decisão que regrediu o paciente ao regime fechado,  ..  reestabelecendo-se o regime aberto para cumprimento da pena até que outra seja proferida após audiência especialmente designada, com intimação da defesa e do Ministério Público (fl. 11).
+É o relatório.
+Busca a impetração que seja anulada decisão que regrediu o regime de cumprimento de pena do paciente, ao argumento de cerceamento de defesa em razão da ausência de defensor na audiência de justificação.
+Da análise dos autos, tem-se que o Juízo da execução assentou que não há que se falar em nulidade da audiência porque realizada sem a presença da defensoria pública pura e simplesmente porque esta não estava no edifício do Fórum para atender o expediente forense (fl. 47).
+Por sua vez, o Tribunal a quo entendeu que a respeitável decisão ora atacada, que manteve sustado cautelarmente o regime aberto até a definição de sua situação processual (fls. 28/29), está devidamente fundamentada e encontra amparo na doutrina e jurisprudência, que a admitem em razão do poder geral de cautela do juiz e da possibilidade do contraditório diferido ou postergado, de sorte que o referido decisum não pode ser taxado de ilegal, abusivo ou teratológico (fl. 59).
+No entanto, esta Corte Superior entende que a regressão definitiva de regime do paciente, após a sua oitiva em audiência de justificação, sem que fosse oportunizada a manifestação de sua defesa técnica, acarreta a nulidade do ato, sob pena de ofensa aos princípios do contraditório e da ampla defesa (HC n. 315.844/PR, Ministro Felix Fischer, Quinta Turma, DJe 1º/10/2015).
+Ademais, a Suprema Corte também considera imprescindível o acompanhamento de defesa técnica (RHC n. 104.584, Ministro Gilmar Mendes, Segunda Turma, DJe 6/6/2011).
+Em razão disso, concedo liminarmente a ordem para anular a decisão que regrediu o paciente ao regime fechado, restabelecendo o regime aberto para cumprimento da pena até que outra seja proferida após audiência especialmente designada, com intimação da defesa e do Ministério Público, referente à Execução n. 801.088, da 2ª Vara de Execuções Criminais da comarca de Presidente Prudente/SP.
+Comunique-se com urgência.
+Publique-se.
