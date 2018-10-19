@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Caraguatatuba contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 113):
+AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO DECORRENTE DE BURACO EM VIA PÚBLICA. AUSENTE COMPROVAÇÃO DE CULPA EXCLUSIVA OU MESMO CONCORRENTE DA AUTORA. EVIDENCIADO NOS AUTOS QUE O ACIDENTE DECORREU DO MAU FUNCIONAMENTO DO SERVIÇO PÚBLICO E QUE A MUNICIPALIDADE SE OMITIU NA FISCALIZAÇÃO E NA REALIZAÇÃO DOS SERVIÇOS DE SUA RESPONSABILIDADE. DANO MORAL CONFIGURADO. VALOR DA CONDENAÇÃO MANTIDO. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS APLICADOS EM CONFORMIDADE COM A INTERPRETAÇÃO DADA AO ART. 1º-F DA LEI  9.494/97. MANUTENÇÃO DA DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SENTENÇA MANTIDA.
+Recurso de apelação improvido.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 2º da Lei 12.153/2009.
+Sustenta que o acórdão recorrido violou a legislação federal ao deixar de reconhecer a incompetência absoluta da Justiça Comum.
+É o relatório.
+O inconformismo não comporta êxito.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o Município agravante não comprovou haver efetiva instalação do Juizado Especial da Fazenda Pública na Comarca, o que inviabiliza a aplicação irrestrita do art. 2º da Lei 12.153/2009, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+ Ante o exposto, nego provimento ao agravo. Por fim, levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
