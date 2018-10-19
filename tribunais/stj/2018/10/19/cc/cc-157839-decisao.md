@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o Tribunal de Justiça do Estado de Minas Gerais, suscitante, e o Juízo da Vara do Trabalho de Ituiutaba-MG, suscitado.
+Ação: de restabelecimento de pagamento de auxílio-alimentação, ajuizada perante a Justiça do Trabalho, por [NOME] em face da CEMIG DISTRIBUIÇÃO S.A. em que postulou a inclusão do auxílio cesta alimentação em seus respectivos proventos de aposentadoria.
+Decisão do Juízo suscitado: declinou da competência em favor do juízo suscitante, sob o argumento de que "(..) Tendo em vista o julgamento do Supremo Tribunal Federal nos recursos extraordinários de nº 586453 e 583050, proferido em 20.02.2013, com repercussão geral entendeu pela incompetência da Justiça do Trabalho nos litígios que envolvem aposentadoria complementar, e que o presente caso versa apenas sobre a integração do auxílio alimentação no benefício da aposentadoria complementar do reclamante". (fl. 20).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, ao fundamento de que em razão da pretensão autoral se referir a consectário decorrente da relação de trabalho, a competência para processar e julgar o feito seria da Justiça Especializada.
+É o relatório.
+Decide-se.
+1. Registre-se, preliminarmente, que o presente incidente se apresenta pronto para julgamento, haja vista que são dispensáveis maiores esclarecimentos pelos juízos conflitantes e que a hipótese dos autos não se enquadra em nenhuma daquelas previstas no artigo 178 do Código de Processo Civil de 2015, dispensando-se, assim, o parecer do Ministério Público Federal, a teor do que dispõe o parágrafo único do artigo 951 do CPC/2015.
+2. A jurisprudência desta eg. Corte Superior caminha no sentido de que compete à Justiça Comum Estadual processar e julgar pedidos de inclusão do auxílio cesta-alimentação nos proventos de complementação de aposentadoria adimplidos por entidades fechadas de previdência complementar. Nesse sentido, confira-se: REsp 1.207.071/RJ, Rel. Min. Maria Isabel Gallotti, Dje de 08/08/2012; AgInt nos EDcl no CC 154250 / RJ, Rel. Min. Lázaro Guimarães, DJe de 13/11/2017; EDcl nos EREsp 1079030 / RS, Rel. Min. Antonio Carlos Ferreira, DJe de 29/04/2014.
+A situação dos autos, todavia, demonstra que o pedido de reinclusão do benefício foi formulado em face da ex-empregadora do autor-interessado, evidenciando, assim, pedido decorrente da relação laboral estabelecida entre as partes.
+A propósito, no mesmo sentido a questão já foi julgada nesta Corte:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E TRABALHISTA. EMPREGADO APOSENTADO DA CEF. PEDIDO DE RESTABELECIMENTO DE DIREITO GARANTIDO PELO EX-EMPREGADOR EM CONTRATO DE TRABALHO A SEUS EMPREGADOS MESMO APÓS A APOSENTADORIA. AUXÍLIO-ALIMENTAÇÃO. PRECEDENTES.
+1. Compete à Justiça Especializada processar e julgar Reclamação Trabalhista proposta por empregados aposentados da Caixa Econômica Federal, visando, unicamente, o restabelecimento de direitos trabalhistas cuja vigência fora garantida, pelo contrato de trabalho, mesmo após a aposentação.
+2. Conflito conhecido, para declarar a competência do Juízo Trabalhista, o suscitado.
+(3ª Seção, CC 19.818/DF, Rel. Ministro EDSON VIDIGAL, unânime, DJU de 19.3.2001)
+Em situação idêntica a dos autos: CC 143.506/MG, Segunda Seção, rel. Ministra MARIA IZABEL GALLOTTI, DJe. 15/04.2016.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ conheço do presente conflito e, por conseguinte, declaro a competência do Tribunal de Justiça do Estado de Minas Gerais, (juízo suscitante).
+Publique-se. Intimem-se. Oficie-se.
