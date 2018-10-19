@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE COMPROMISSO DE COMPRA E VENDA. CONTRATO PRELIMINAR. VINCULAÇÃO ÀS SUAS CLÁUSULAS AINDA QUE NÃO REPETIDAS NO CONTRATO DEFINITIVO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Incorporadora M Rodrigues e Filho Ltda. opôs embargos à execução promovida por [NOME] alegando a nulidade do título executivo e a sua iliquidez.
+O Magistrado de primeiro grau julgou improcedentes os pedidos. Interposta apelação pela embargante, a Décima Terceira Câmara Cível do Tribunal de Justiça do Paraná deu parcial provimento à insurgência para determinar que os juros de mora incidam a partir da citação na ação de execução.
+O acórdão está assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CONTRATO COMPROMISSO DE COMPRA E VENDA.
+SENTENÇA PELA IMPROCEDÊNCIA.
+APELAÇÃO CÍVEL DA EMBARGANTE. ALEGAÇÃO DE PERDA DE VALIDADE DO CONTRATO DE COMPROMISSO DE COMPRA E VENDA PELA ESCRITURA DEFINITIVA. IMPERTINÊNCIA. EXEGESE DO ARTIGO 1417 DO CC. CONTRATO DE PROMESSA APTO A GERAR DIREITOS PESSOAIS E OBRIGAÇÕES ENTRE AS PARTES. POSSIBILIDADE DE EXECUÇÃO. TÍTULO LÍQUIDO, CERTO E EXIGÍVEL. JUROS DE MORA. TERMO INICIAL DA CITAÇÃO. MODIFICAÇÃO DA SUCUMBÊNCIA. PLEITO PELA MINORAÇÃO DOS HONORÁRIOS. IMPERTINÊNCIA.
+RECURSO DE APELAÇÃO CÍVEL CONHECIDO E PARCIALMENTE PROVIDO.
+A incorporadora interpôs recurso especial, fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 463 e 1.417 do CC; e 784, III, e 803, I, do CPC/2015. Sustentou, em síntese, a inexistência de título executivo, pois o contrato preliminar deixou de ser líquido, certo e exigível depois da formalização da escritura.
+Contrarrazões às fls. 383-389 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidir a Súmula 7/STJ.
+Irresignada, a recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Sem contraminuta.
+Brevemente relatado, decido.
+Com efeito, o contrato preliminar passa a configurar ato jurídico perfeito a partir do acordo de vontade das partes, cuja validade, inclusive de suas cláusulas, é aferida no momento de sua celebração.
+Portanto, a promessa de compra e venda e respectivas cláusulas remanescerão válidas e eficazes, ainda que não sejam transcritas no pacto definitivo objeto da escritura pública, pois, haja vista a força obrigatória do contrato, não se revela possível falar em renúncia tácita da cláusula de multa moratória que não tenha sido repetida na escritura pública do contrato definitivo.
+A propósito:
+RECURSO ESPECIAL. EMBARGOS DE DEVEDOR. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PROMESSA DE COMPRA E VENDA. CLÁUSULA DE RETROVENDA NÃO REPETIDA NA ESCRITURA PÚBLICA DO PACTO DEFINITIVO. NECESSÁRIA RENÚNCIA EXPRESSA. MULTA POR EMBARGOS PROCRASTINATÓRIOS. DESCABIMENTO.
+1. A promessa de compra e venda de imóvel consubstancia contrato preliminar bilateral, figura autônoma, que materializa relação jurídica de natureza patrimonial, em que as partes se obrigam a concluir certo conteúdo, pronto e acabado, qual seja o fato de realização da compra e venda, mediante outorga da respectiva escritura pública.
+2. Tal pacto - perfectibilizado em instrumento público ou particular, registrado ou não em cartório de imóveis - tem caráter autônomo e vinculativo em relação às partes, que ficam, recíproca e irretratavelmente, submetidas às obrigações e condições expressamente estipuladas, salvo se prevista cláusula de arrependimento do comprador ou se ocorrido posterior distrato (resilição).
+3. No momento em que ocorrido o acordo de vontades entre o promitente vendedor e o promissário comprador, o contrato preliminar passa a configurar ato jurídico perfeito, cuja validade, inclusive de suas cláusulas, é aferida ao tempo de sua celebração. Desse modo, uma vez constatada a capacidade das partes e a ausência de quaisquer vícios ao tempo da exteriorização da manifestação de vontade, a promessa de compra e venda e respectivas cláusulas remanescerão válidas e eficazes, ainda que não sejam transcritas no pacto definitivo objeto da escritura pública.
+4. Diante da força obrigatória e consequente eficácia vinculativa da promessa de compra e venda válida, não se revela possível falar em renúncia tácita da cláusula de retrovenda (a qual não se confunde com a cláusula de arrependimento) que não fora repetida na escritura pública do contrato definitivo.
+5. Isso porque, uma vez exigida a manifestação expressa das partes para a instituição de cláusulas especiais na compra e venda (direito de retrovenda, entre outros), sua renúncia deve observar o mesmo rigor, tendo em vista o princípio do paralelismo das formas encartado no artigo 472 do Código Civil. Com efeito, o direito obrigacional, titularizado pelo vendedor, enquanto não for suprimido, de comum acordo, deverá ser observado por ambas as partes contratantes, ainda que a escritura pública silencie a respeito.
+6. No tocante ao tempo para o exercício do direito potestativo da retrovenda, o caput do artigo 505 do Código Civil prevê o prazo decadencial "máximo" de três anos, o que não impede que as partes convencionem período inferior, situação que se configurou na hipótese dos autos.
+7. Desse modo, conquanto se afigure impositiva a reforma do fundamento do acórdão estadual no sentido da renúncia tácita da cláusula de retrovenda, é de se manter a improcedência da pretensão autoral, uma vez caduco o exercício do direito requerido pelos promitentes vendedores após o decurso do prazo decadencial expressamente estipulado na promessa de compra e venda. 8. Nos termos da Súmula 98/STF, os embargos de declaração opostos com nítido propósito de prequestionamento não tem caráter protelatório, motivo pelo qual descabida a multa do parágrafo único do artigo 538 do CPC de 1973.
+9. Recurso especial parcialmente provido. (REsp 1364272/MG, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 08/05/2018, DJe 12/06/2018)
+Alinhando-se a esse entendimento, o acórdão recorrido, após acurada análise do contrato e das provas carreadas aos autos, asseverou que o contrato de promessa de compra e venda de unidade imobiliária previu multa em caso de atraso na entrega da obra, sendo possível a sua execução ainda que não tenha havido previsão expressa no contrato definitivo.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% sobre o valor da causa.
+Publique-se.
