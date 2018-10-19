@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por WILLIAN TORRES BEZERRA, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, no writ n. 2162757-77.2018.8.26.0000.
+Aduz a Defesa, nas razões do presente recurso, em síntese, que o recorrente foi condenado à pena de 4 (quatro) anos e 2 (dois) meses de reclusão, no regime fechado, pela prática do crime de tráfico de drogas.
+Afirma que o regime inicial fechado foi estabelecido, sem fundamentação, em contrariedade ao art. 33, § 2º, alínea "b" do Código Penal, bem como ao teor das Súmulas 718 e 719 do Supremo Tribunal Federal, pois foram desconsiderados os elementos subjetivos do paciente, e as quantidades insignificantes de substâncias apreendidas.
+Alega que requereu a mudança de regime de cumprimento de pena ao Juízo da Vara das Execuções, mas o pleito foi indeferido, sob o fundamento de não ter competência para tal (fls. 07-08).
+Irresignada, a Defesa impetrou habeas corpus, requerendo a modificação do regime prisional, mas o eg. Tribunal indeferiu liminarmente o writ, sob o fundamento da inadequação da via eleita para a discussão de matérias afetas à execução penal, conforme v. acórdão assim ementado (fl. 33):
+"HABEAS CORPUS Execução Criminal Meio inadequado de discussão. Obtenção de detração penal. O habeas corpus impetrado no Tribunal não é meio adequado para exame de pedido que deve ser dirigido ao Juízo da Execução Criminal Aplicação do artigo 663 do CPP c.c. o artigo 248 do RITJSP - Indeferimento liminar do writ."
+Neste recurso, pleiteia-se o reconhecimento do constrangimento ilegal na fixação do regime fechado "determinando, liminarmente, a soltura do Paciente, reconhecendo a abusividade da colocação deste em regime mais gravoso do que aquele orientado pela lei, por ser este primário, com bons antecedentes, residência fixa, ocupação lícita e família constituída, fazendo jus aos beneplácitos da Lei Penal e da Constituição Federal, dando efetividade à letra da Lei e às orientações pretorianas, determinando sua imediata colocação em regime semi-aberto, e, assim, ao final, convolando-se a decisão liminar em definitiva, CONCEDENDO A ORDEM DE HABEAS CORPUS, por ser medida de Justiça." (fl. 45).
+Requer, ao final, o provimento do recurso, liminarmente, nos termos delineados na petição recursal.
+É o relatório.
+Decido.
+O presente recurso ordinário não pode ser conhecido, porquanto interposto por advogados sem procuração nos autos.
+Incide, no caso, o óbice previsto na Súmula n. 115/STJ: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+Com efeito, não obstante se considere que na impetração de habeas corpus não se exija a produção de instrumento de mandato, uma vez que qualquer pessoa pode impetrar o writ, tal faculdade não se estende à interposição do respectivo recurso ordinário, caso em que, de acordo com o enunciado da Súmula n. 115 desta Corte, o recurso é inexistente.
+Nesse sentido, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ART.932, III, CPC. ART. 34, XVIII, "A", E XX, DO RISTJ. AUSÊNCIA DA PROCURAÇÃO. SÚMULA N. 115 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.
+decisão vergastada pelos próprios fundamentos.
+II - Inexiste ofensa ao princípio da colegialidade na decisão monocrática que não conhece de "recurso inadmissível", nos termos do art. 932, III, do CPC, e do art. 34, inc. XVIII, "a" e XX, " do RISTJ.
+III - "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" - enunciado n. 115 da Súmula deste Tribunal - A comprovação da capacidade postulatória somente é dispensada na hipótese em que o leigo impetra o habeas corpus e contra a decisão do writ, ele próprio interpõe recurso ordinário. Remanescendo o mesmo vício que impediu o conhecimento do recurso ordinário, ou seja, a ausência de procuração outorgada aos advogados do ora agravante, o presente agravo não pode ser conhecido.
+Agravo regimental não conhecido." (AgRg no RHC 69.183/AM, Quinta Turma, de minha relatoria, DJe 18/10/2017)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO TENTADO. PETIÇÃO SUBSCRITA POR ADVOGADO. AUSÊNCIA DE JUNTADA DA PROCURAÇÃO. INCIDÊNCIA DO VERBETE N. 115/STJ. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. RÉU REINCIDENTE ESPECÍFICO. NECESSIDADE DA PRISÃO PARA ASSEGURAR A ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. PRECEDENTES. RECURSO NÃO CONHECIDO.
+1. Não há como conhecer do recurso em habeas corpus, porquanto não foi juntada aos autos a procuração dos causídicos que o subscrevem. Note-se que, cuidando-se de petição subscrita por advogado constituído, imprescindível a juntada da procuração, sob pena de incidir no caso o enunciado n. 115 da Súmula do Superior Tribunal de Justiça, segundo o qual, "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos".
+ ..
+4. Recurso não conhecido." (RHC 81.704/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 15/05/2017, grifei)
+Ante o exposto, com fulcro no art. 34, inciso XVIII, "a", art. 210 e art. 246, todos do RISTJ, indefiro liminarmente o processamento do presente recurso ordinário.
+P. e I.
