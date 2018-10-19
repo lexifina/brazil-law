@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com base na alínea "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado, verbis:
+"AGRAVO EM EXECUÇÃO. INSURGÊNCIA MINISTERIAL. SUPERVENIÊNCIA DE CONDENAÇÃO CRIMINAL. SOMA DAS PENAS. ALTERAÇÃO DA DATA-BASE DE BENEFÍCIOS. DATA DO TRÂNSITO EM JULGADO DA NOVA CONDENAÇÃO.
+- Entendimento consolidado no âmbito do Supremo Tribunal Federal e do Superior Tribunal de Justiça, no sentido de ser devida a alteração da data-base quando da soma de penas, independentemente da data de cometimento do fato que deu origem à nova condenação (se anterior ou posterior à execução penal em andamento) e independentemente da ocorrência de alteração de regime prisional. A medida de alteração da data-base, no âmbito da superveniência de nova condenação na execução penal, é simples derivação da lógica que orienta a unificação de penas no sistema pátrio, ao se proceder à soma das reprimendas com o desprezo do que já foi cumprido. Alteração da data-base que se justifica diante do cadastro da nova condenação, ainda que provisória, com a soma das penas. A nova data-base deve corresponder à data do trânsito em julgado da nova condenação (05.07.2017).
+Agravo ministerial provido" (e-STJ, fl. 106).
+O recorrente aduz divergência jurisprudencial em relação ao RESp 1.557.461/SC que assinalou que "assinalou que "Se a condenação definitiva por delito praticado após o início da execução da pena não se presta a ensejar a modificação da data-base para concessão de novos benefícios, com maior razão não pode o trânsito em julgado de sentença condenatória prolatada em face de delito anterior implicar o reinicio do marco temporal, porquanto se trata de fato que nem sequer fora praticado no curso do resgate das reprimendas impostas ao reeducando" (e-STJ fl. 119.)
+Requer que a data-base mantenha-se inalterada.
+Contrarrazões às fls. 129-131 (e-STJ).
+Decisão de admissão às fls. 133-137 (e-STJ).
+O Ministério Público Federal opina pelo provimento do apelo especial (e-STJ, fls. 154-158).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Ressalte-se, desde logo, que as Turmas que compõem a Terceira Seção desta Corte Superior tinham, ambas, pacífico entendimento de que, em caso de superveniente condenação definitiva imposta ao sentenciado, decorrente de fato anterior ou posterior ao início da execução penal, a contagem do prazo para concessão de benefícios seria interrompida e deveria ser feito novo cálculo, com base no somatório das penas.
+Tal posicionamento jurisprudencial estabelecia como termo a quo para concessão de futuros benefícios, a data do trânsito em julgado da última sentença condenatória.
+Contudo, recentemente, no julgamento do REsp 1.557.461/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, a Terceira Seção deste Superior Tribunal de Justiça modificou sua linha jurisprudencial sobre o tema, passando a adotar parâmetro distinto, conforme revela a ementa:
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto.
+Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado.
+As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido".
+(REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018)
+Extrai-se do julgado, a seguinte tese:
+"A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta disciplinar grave, configura excesso de execução."
+Assim, o acórdão impugnado está em dissonância do entendimento sedimentado pela Terceira Seção do Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para que a unificação de penas não enseje a alteração do termo a quo para a concessão de benefícios ao apenado.
+Publique-se. Intimem-se.
