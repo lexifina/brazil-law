@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 4, p. 105):
+    “APELAÇÃO CÍVEL – Embargos à Execução opostos pelo Município em face de obrigação de fazer – Procedimento dos arts. 730 e ss., CPC – Previsão de citação – Apresentação espontânea, com os embargos – Suprida eventual irregularidade – Art. 21, § 1º, CPC – Possibilidade Possibilidade de execução provisória Recursos extremos sem efeito suspensivo Art. 497, CPC - Desnecessidade de liquidação Arts. 461, §1º, CPC - Alegação de litispendência e coisa julgada - Inocorrência Obrigação de fazer se limita a data da opção pelo novo Plano de Cargos e Salários – Embargos acolhidos em parte para excluir os servidores com vínculos posteriormente formados - Sentença mantida - Recursos desprovidos.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 18, caput; 30, inciso I; 37, incisos X e XIII; 61, § 1º, inciso II, alínea ‘a’; artigos 5º, inciso VII e 8º, incisos I e II; e artigos 18, caput; 30, inciso I; 37, incisos X e XIII; e 39, caput e § 1º, todos da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a inconstitucionalidade do título executivo que se pretende executar, eis que, segundo o recorrente, não se pode vincular os vencimentos de servidores públicos estaduais e municipais a índices de correção monetária federais; ausência da observância do princípio da unicidade sindical, bem como a não comprovação de que a entidade recorrida representa categoria profissional; além da falta de legitimidade da entidade associativa para promover execução (eDOC 6, pp. 57/61 e 7, pp. 1/13).
+    O Presidente da Seção de Direito Público do TJSP inadmitiu o recurso com fundamento na Súmula 282 do STF (eDOC 8, p. 28).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    De plano, constata-se que as razões recursais não demonstram o ponto em que o acórdão recorrido teria ofendido os dispositivos constitucionais evocados, o que torna aplicável ao caso a Súmula 284 desta Corte.
+    Com efeito, o acórdão recorrido foi proferido em sede de embargos à execução de obrigação de fazer. A matéria de fundo, ora impugnada - qual seja: os índices de correção monetária a incidirem sobre os reajustes concedidos pela sentença exequenda - não foi decidida pelo acórdão recorrido, mas objeto de decisão anterior, na ação de conhecimento.
+    No bojo dos embargos de execução, o que decidiu o tribunal a quo foi: a ilegalidade, ou não, da citação do Município; a indispensabilidade, ou não, de liquidação da sentença; a existência, ou não, de litispendência; o fato gerador do direito pleiteado e o alcance, ou não, desse direito para alguns dos embargados (eDOC 4, pp. 107/112 e 5, pp. 1/6).
+    Verifica-se, portanto, que o Recurso Extraordinário traz à discussão matéria relativa ao processo de conhecimento, enquanto que o acórdão recorrido, prolatado em sede de embargos à execução, não analisou o conteúdo impugnado pelo presente recurso extraordinário.
+    Por fim, verifica-se que o Tribunal de origem, dirimiu a lide mediante a aplicação de normas legais. Desse modo, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação infraconstitucional aplicável à espécie (arts. 214; 301; 461, § 1º; 497; 730 e seguintes do CPC; e Lei 11.722/95), o que inviabiliza o processamento do apelo extremo.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
