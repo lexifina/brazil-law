@@ -1,0 +1,75 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. CIRCUNSTÂNCIAS DA PRÁTICA DELITIVA. DEDICAÇÃO DO AGRAVANTE À ATIVIDADE CRIMINOSA. REQUISITOS NÃO PREENCHIDOS. REVISÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N.º 7 DESTA CORTE. PRECEDENTES. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO EM ELEMENTOS CONCRETOS EXTRAÍDOS DOS AUTOS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu recurso especial interposto com fundamento na alínea a do permissivo constitucional (Apelação Criminal n.º 0030965-49.2016.8.26.0050).
+Consta dos autos que o Agravante foi preso em flagrante, no dia 23/04/2016, e denunciado pela prática do crime de tráfico de drogas, porque trazia consigo, para fim de mercancia e entrega a terceiros, 273 (duzentos e setenta e três) porções de maconha pesando 714,9 gramas, 199 (cento e noventa e nove) porções de cocaína em forma de crack, pesando 49,3 gramas, e 100 (cem) porções de cocaína, pesando 65,6 gramas.
+O Juiz de primeiro grau condenou o réu como incurso no art. 33, caput, da Lei n.º 11.343/2006, à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 166 (cento e sessenta e seis) dias-multa, no piso legal.
+O Tribunal a quo deu provimento ao recurso ministerial para afastar o redutor previsto no § 4.º do art. 33 da Lei n.º 11.343/2006, restando a pena do acusado em 5 (cinco) anos de reclusão, em regime fechado, e 500 (quinhentos) dias-multa, no patamar mínimo, nos termos da seguinte ementa (fl. 187):
+"APELAÇÃO - TRÁFICO ILICITO DE ENTORPECENTES Preliminar Nulidade da sentença por ausência de análise de tese defensiva Inocorrência - Sentença devidamente fundamentada Desnecessidade de se mencionar todas as teses defensivas se já encontrou o julgador elementos suficientes para basear sua decisão - Preliminar rejeitada - Mérito - Quadro probatório que se mostra seguro e coeso para evidenciar materialidade e autoria - Prova extremamente bem examinada pelo D. Magistrado, não havendo dúvida quanto à autoria e materialidade Absolvição Impossibilidade Dosimetria Aumento da pena base Possibilidade - Aplicação do redutor do §4º do art. 33 da Lei de Drogas - Impossibilidade quantidade de drogas e circunstâncias que indicam a dedicação do acusado à atividade criminosa - Substituição da pena privativa de liberdade por penas restritivas de direitos que se mostra inviável Regime fechado mantido Recurso defensivo desprovido e recurso ministerial provido."
+Embargos de declaração foram opostos e rejeitados (fls. 213-217).
+Inconformada, a Defesa interpôs recurso especial (fls. 490-499) alegando violação do § 4.º do art. 33 da Lei de Drogas porque "durante toda instrução criminal não houve qualquer elemento capaz de comprovar que o recorrente se dedique a atividades criminosas e nem integrava organização criminosa" (fl. 227).
+Defendeu, ainda, contrariedade ao que dispõe o art. 33, § 2º, alínea b, do Código Penal, pois "a pena foi imposta no mínimo legal, todavia, somente pela gravidade do crime foi eleito o regime fechado" (fl. 230).
+Requereu, assim, o provimento do recurso para "(i) reformar a decisão combatida restabelecer a sentença, ou seja, aplicar o §4º, do artigo 33, da Lei 11.343/06 e ou (ii) que seja modificando o regime inicial para o semiaberto" (fl. 233).
+Contrarrazões às fls. 238-250.
+Inadmitido o recurso na origem (fls. 253-254), adveio o presente agravo (fls. 256-268).
+O Ministério Público Federal manifestou-se às fls. 318-322, opinando pelo desprovimento do agravo.
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 192-200; sem grifos no original):
+"A materialidade delitiva restou comprovada pelo auto de prisão em flagrante de fls. 02/03, boletim de ocorrência de fls. 09/12, auto de exibição e apreensão de fls. 13/14, laudo de constatação prévia (fls. 14), exame químico toxicológico de fls. 71/73 e pela prova oral produzida nos autos.
+O réu, na Polícia, preferiu o silêncio (fls. 06).
+Em Juízo, disse que um cara pediu para levar uma mochila para ele e para isso ganharia R$ 400,00.
+Inicialmente não sabia que era droga e aceitou o serviço.
+ ..  os policiais que o prenderam disseram que ele prontamente confessou que transportava droga em troca de dinheiro, mas jamais afirmou qualquer coisa no sentido de que estaria sendo coagido a fazer isto.
+E nem se alegue que não poderia recorrer ao aparelho estatal, sendo evidente que, tivesse comunicado o fato à polícia, as providências cabíveis teriam sido tomadas.
+Desse modo, temos que a presença da excludente de culpabilidade não restou demonstrada, não bastando a mera alegação de estar sofrendo a coação moral a que não podia resistir.
+Fosse isso possível, bastaria a qualquer acusado de tráfico alegar que praticava o crime por estar sendo ameaçado, absolvendo-se indistintamente qualquer um que invocasse a presença da excludente.
+Diante desse quadro, sua condenação por tráfico ilícito de entorpecentes era medida de rigor.
+Com relação dosimetria penal, a r. sentença merece reparo, devendo ser provido o recurso ministerial.
+A pena base foi fixada no mínimo legal, ou seja, 05 anos de reclusão, mais 500 dias -multa.
+Entretanto, deveria ter sofrido acréscimo em razão da quantidade e natureza das drogas com ele encontradas.
+O art. 42 da Lei 11.343/06 determina que a quantidade e a natureza da substância entorpecente apreendida, bem como a conduta social do agente, devem ser consideras na fixação da pena base, inclusive com preponderância sobre os ditames do art. 59 do Código Penal.
+Assim, no presente caso, tendo o réu sido surpreendido na posse de 273 porções de maconha, 199 porções de crack e 100 porções de cocaína, a pena deve ser majorada em 1/6.
+Ocorre que, diante da menoridade (fls. 22), as penas serão diminuídas no mesmo patamar, ou seja, 05 anos de reclusão, mais 500 dias-multa.
+Na derradeira fase, o magistrado de primeiro grau entendeu presentes os requisitos para a aplicação do redutor previsto no §4º do art. 33 da Lei 11.343/06, pretendendo o Ministério Público o seu afastamento.
+Com razão, não agiu com acerto o Juiz de primeiro grau ao aplicar a causa especial de diminuição de pena prevista no parágrafo 4º do art. 33 da Lei 11.343/06, já que no presente caso, além das circunstâncias indicarem a dedicação do acusado à atividade criminosa, ele trazia grande quantidade de drogas variadas.
+ ..
+Ocorre que, no caso dos autos foram apreendidas mais de 500 porções de drogas, tendo ele confessado que não era a primeira vez que transportava os entorpecentes de um bairro para outro, em troca de dinheiro.
+Tais fatos, obviamente, indicam que o réu se dedicava à atividade criminosa.
+ ..
+De se notar, por fim, que o regime inicial fechado é o único compatível com a gravidade dos fatos, observando, ainda, a quantidade de penas fixadas, além de ser o único necessário e suficiente para reprovação e prevenção do crime (art. 33, §3º c.c. art. 59 do Código Penal), principalmente no caso dos autos em que o réu traficava significativa quantidade de drogas."
+São condições para que o Condenado faça jus à diminuição da pena prevista no § 4.º, do art. 33, da Lei n.º 11.343/06: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+Ora, se não estão preenchidos conjuntamente todos os requisitos legais - como no caso, no qual se concluiu que o Agravante se dedicava à atividade criminosa -, não é legítimo reclamar a aplicação da minorante.
+Por oportuno, ressalto que:
+ "Este Superior Tribunal de Justiça firmou entendimento no sentido de que a elevada quantidade de drogas, aliada às circunstâncias da sua apreensão, tem o condão de caracterizar que o agente se dedica a atividades criminosas, não fazendo jus à benesse da redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/06." (AgRg no REsp 1.584.298/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/05/2018, DJe 23/05/2018).
+A propósito:
+"HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS. PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INTEGRAÇÃO EM ORGANIZAÇÃO CRIMINOSA. BIS IN IDEM. INTERESTADUALIDADE DO DELITO. QUANTUM DE AUMENTO DE PENA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. ORDEM PARCIALMENTE CONCEDIDA.
+1. Nos termos do art. 42 da Lei n. 11.343/2006, mostra-se devido o aumento da reprimenda na primeira fase da dosimetria, com base na elevada quantidade de drogas apreendidas.
+2. Tanto o Supremo Tribunal Federal quanto esta Corte Superior de Justiça firmaram o entendimento de que a apreensão de grande quantidade de drogas, a depender das peculiaridades do caso concreto, é hábil a denotar a dedicação do acusado a atividades criminosas ou mesmo a sua integração em organização criminosa e, consequentemente, a impedir a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, porque indica maior envolvimento do agente com o mundo das drogas.
+ .. " (HC 373.523/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 21/08/2018.)
+Friso que, no caso concreto, a quantidade de droga não foi o único fundamento utilizado para afastar a minorante do tráfico privilegiado, pois o acórdão expressamente ressaltou que os demais elementos contidos nos autos demonstram que o acusado se dedicava a atividade criminosa.
+Outrossim, não é possível afastar a conclusão da Corte de origem quanto à dedicação do condenado à atividade criminosa, o que imprescindiria de aprofundado exame do conjunto fático-probatório dos autos, o que é vedado pelo enunciado da Súmula n.º 7 do Superior Tribunal de Justiça.
+ No mesmo sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECONHECIMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem entendeu indevida a incidência da minorante com base não só na quantidade de droga (33 quilos de maconha), mas também, no modus operandi e na sofisticação do esquema criminoso, circunstâncias essas que inviabilizam a aplicação da minorante, em razão da existência de elementos concretos que indicam a dedicação do recorrente a atividades criminosas, notadamente ao tráfico de drogas.
+2. Para acolher o pleito defensivo e fazer incidir a referida minorante, seria necessário o revolvimento do contexto fático-probatório dos autos.
+3. Agravo regimental não provido." (AgRg no AREsp 715.651/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018; sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. ART. 42 DA LEI N. 11.343/2006. QUANTIDADE DA DROGA E CIRCUNSTÂNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. ART. 33, § 4º, DA LEI N. 11.343/2006. PEDIDO DE INCIDÊNCIA. INVIABILIDADE. CIRCUNSTÂNCIAS DO FATO. CONVERGÊNCIA DE VONTADES NO TRANSPORTE DE ELEVADA QUANTIDADE DE ENTORPECENTE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE OFENSA AO PRIMADO DO NE BIS IN IDEM. REVISÃO. DESCABIMENTO. SÚMULA 7/STJ.
+ ..
+3. Outrossim, o Superior Tribunal de Justiça tem decidido que a quantidade, a variedade e a nocividade da droga, bem como as circunstâncias nas quais foi apreendida, são elementos que permitem concluir pela dedicação do acusado a atividades criminosas e, em decorrência, embasar o não reconhecimento da minorante do § 4º do art. 33 da Lei n. 11.343/2006. Precedentes.
+4. Na espécie, não foi reconhecida a figura do tráfico privilegiado, dentre outras razões, ante à forma em que ocorreu o transporte da droga, com demonstração da convergência de vontades, esforços e divisão de tarefas na consecução da prática delitiva, o que denota a dedicação do acusado à atividade criminosa. Modificar tal conclusão requer o revolvimento fático-probatório, inviável na via do recurso especial (Súmula 7/STJ).
+5. Agravo regimental improvido." (AgInt no AREsp 1.254.604/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/06/2018, DJe 02/08/2018; sem grifos no original.)
+Com efeito, o pleito de reforma do julgado para entender que o condenado faz jus à causa de diminuição prevista no § 4º do art. 33 da Lei n.º 11.343/2006, implicaria, necessariamente, o reexame de todo o conjunto fático-probatório, o que não se coaduna com a via eleita, consoante jurisprudência uníssona do Superior Tribunal de Justiça.
+Por outro lado, é sabido que, para a fixação do regime inicial de cumprimento da pena privativa de liberdade, deve o julgador observar o disposto no art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal. Nos crimes de droga, também deverá ser considerado o art. 42 da Lei n.º 11.343/2006, que preceitua que " o  juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente."
+Logo, a quantidade e a natureza da droga, circunstâncias judiciais desfavoráveis , embora não tenham sido utilizadas para aumentar a pena-base (fixada no mínimo legal), podem justificar o regime prisional mais gravoso.
+No mesmo sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI DE DROGAS. INVIABILIDADE DE INCIDÊNCIA DO REDUTOR. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME PRISIONAL FECHADO. POSSIBILIDADE. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+5. O regime de cumprimento de pena mais gravoso do que a pena comporta pode ser estabelecido, desde que haja fundamentação específica, com base em elementos concretos extraídos dos autos, a teor das Súmulas 440/STJ e 718 e 719/STF.
+6. No caso, a quantidade e natureza da droga apreendida justificam a fixação do regime fechado.
+5. Habeas corpus não conhecido" (HC 408.684/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/12/2017, DJe 13/12/2017.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME FECHADO. GRAVIDADE CONCRETA DO CRIME (MAIS DE UMA TONELADA DE MACONHA). FUNDAMENTO IDÔNEO. PRECEDENTES. AUSÊNCIA DE FUNDAMENTOS A INFIRMAR A DECISÃO AGRAVADA.
+1. O Superior Tribunal de Justiça possui o entendimento de que a natureza e a quantidade da droga apreendida constituem elementos idôneos a justificar a imposição do regime prisional mais gravoso do que o cabível em razão da sanção imposta.
+2. Agravo regimental improvido." (AgRg no HC 414.345/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 07/12/2017, DJe 15/12/2017.)
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
