@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL FERREIRA AGOSTINHO contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática do crime previsto no art. 155, § 4º, II, c/c art. 14, II, ambos do Código Penal.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 21):
+HABEAS CORPUS. FURTO QUALIFICADO PELO CONCURSO DE PESSOAS (ART. 155, §4º, II, DO CP). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA E INDEFERIMENTO DE SUA REVOGAÇÃO.
+ALEGADA AUSÊNCIA DOS REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. INOCORRÊNCIA. DECRETO DEVIDAMENTE FUNDAMENTADO NA GARANTIA DA ORDEM PÚBLICA, DIANTE DA PERICULOSIDADE CONCRETA DOS PACIENTES. DELITO PRATICADO COM EMPREGO DE SOFISTICADO EQUIPAMENTO EMPREGADO PARA DESATIVAR ALARMES (CHAPOLIN). ALÉM DISSO, AUSÊNCIA DE VÍNCULOS COM O DISTRITO DA CULPA QUANTO A AMBOS OS ACUSADOS E RISCO DE REITERAÇÃO DELITIVA EM RELAÇÃO A UM DELES, HAJA VISTA SER ESTE MULTIRREINCIDENTE EM DELITOS CONTRA O PATRIMÔNIO E O OUTRO TER CONTRA SI PROCESSO SUSPENSO POR INCIDÊNCIA DO ART. 366 DO CPP. ARGUMENTOS CONCRETOS QUE JUSTIFICAM A SEGREGAÇÃO CAUTELAR. NECESSIDADE DE SE ACAUTELAR O MEIO SOCIAL. PRESSUPOSTOS E REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL ESPECIFICADOS. SUBSTITUIÇÃO DA PRISÃO POR MEDIDA CAUTELAR DIVERSA. LEGALIDADE DA ORDEM A IMPEDIR, POR DECORRÊNCIA LÓGICA, O ACOLHIMENTO DO PEDIDO. BONS PREDICADOS DOS PACIENTES. IRRELEVÂNCIA, DIANTE DA PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ALEGADA POSSIBILIDADE DE CUMPRIMENTO DE PENA EM REGIME MAIS BRANDO QUE O FECHADO. SITUAÇÃO HIPOTÉTICA QUE NÃO OBSTA A PRISÃO. WRIT CONHECIDO. ORDEM DENEGADA.
+Na presente oportunidade, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea do decreto de prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando que a gravidade abstrata do delito não pode servir como fundamento para a manutenção da medida constritiva.
+Destaca que o crime foi apenas tentado e não houve emprego de violência ou grave ameaça, de forma que a custódia cautelar se mostra desproporcional no caso concreto, uma vez que, em caso de eventual condenação, o acusado fará jus à fixação de regime prisional menos gravoso que o fechado, não se podendo desconsiderar, por fim, a possibilidade de imposição de medidas cautelares diversas da prisão.
+Diante disso, requer, liminarmente e no mérito, o afastamento da prisão preventiva, mediante expedição do alvará de soltura.
+O pleito urgente foi indeferido (e-STJ fls. 33/36).
+Prestadas as informações (e-STJ fls. 44/47), o Ministério Público Federal manifestou-se pela extinção do processo sem julgamento do mérito (e-STJ fls. 50/52).
+É o relatório. Decido.
+Consoante informações colhidas do site do Tribunal de origem, em 19/9/2018 foi concedida a liberdade provisória ao acusado, ora paciente, momento em que foi determinada a expedição de alvará de soltura em seu favor.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar do paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique. Intime-se.
