@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que DIEGO DIAS FRANCO foi denunciado pela prática do delito tipificado no art. 157, §2º, incisos I, II e V, do CP (roubo majorado), e condenado às penas de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, além do pagamento de 13 (treze) dias-multa, conforme a sentença de fls. 321/339.
+A defesa apelou, pleiteando a absolvição do réu por insuficiência probatória para a condenação (fls. 356/367).
+O Tribunal de origem negou provimento ao recurso defensivo, conforme o acórdão assim ementado:
+APELAÇÕES CRIMINAIS - ROUBO MAJORADO - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - RECURSOS DESPROVIDOS - MANDADO DE PRISÃO - NECESSIDADE DE EXAURIMENTO DA COGNIÇÃO FÁTICO-PROBATÓRIA NESTA INSTÂNCIA.
+1 - Comprovadas a materialidade e autoria do delito de roubo pelas declarações das vitimas, corroboradas por outras provas colhidas nos autos, imperiosa a manutenção do decreto condenatório.
+2 - A expedição do mandado de prisão em desfavor do réu deve ser condicionada ao exaurimento da cognição fático-probatória nesta instância e à inexistência de recurso com efeito suspensivo para instância superior.
+V.V. 1 - O processo penal deve ter utilidade e as decisões proferidas devem possuir efetividade, de modo que, postergar a expedição de um mandado de prisão até a eventual interposição de recursos nesta instância é o mesmo que incentivar a eternização de um processo.
+2 - A fim de garantir a efetividade da condenação do acusado, a determinação da expedição do mandado de prisão, de forma imediata, é medida que se impõe (fl. 408).
+Foram opostos embargos de declaração (fls. 422/429), os quais foram rejeitados (fls. 455/460).
+Em sede de recurso especial (fls. 463/476), a defesa requereu, preliminarmente, a suspensão da expedição do mandado de prisão por não haver determinação expressa para a execução provisória na sentença, alegando ainda que o recorrente respondeu a maior parte do processo em liberdade e foi condenado ao modo inicial semiaberto, além de já ter cumprido mais de 1/6 (um sexto) da reprimenda, podendo progredir para o regime prisional aberto.
+No mérito, alegou violação dos arts. 155 e 156, caput, e 386, IV, V e VII, do Código de Processo Penal.
+Sustenta, em síntese, a inexistência de provas para a autoria delitiva pois "a sentença proferida teve como base tão somente trechos dos depoimentos testemunhais colhidos durante a investigação criminal, os quais são muito duvidosos por serem um cópia do outro" (fl. 469), além de o aresto impugnado ter sido omisso quanto às provas apresentadas pela defesa que atestam a inocência do recorrente.
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência das Súmula n. 83 e n. 7 desta Corte (fls. 518/519).
+Contraminuta às fls. 537/538.
+O Ministério Público Federal opinou pelo não conhecimento do agravo e, se conhecido pelo seu improvimento (fls. 556/560).
+É o relatório. Decido.
+Conheço do agravo em recurso especial, visto que atacados os fundamentos da decisão agravada.
+O recurso não merece provimento.
+Preliminarmente, no que se refere à execução provisória da reprimenda imposta, a pretensão recursal não encontra amparo na jurisprudência desta Corte, que é pacifica no sentido de que "não há qualquer ilegalidade na execução provisória da pena imposta ao agravante, porquanto, esgotada a instância ordinária, os recursos especial e extraordinário não são dotados de efeito suspensivo" (AgRg nos EDcl nos EDcl no AREsp 1.058.456/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 04/05/2018).
+No mais, para se chegar à conclusão diversa do Tribunal de origem, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Confiram-se, nesse sentido, os precedentes desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. NEGATIVA DE VIGÊNCIA AOS ARTS. 28 E 33, AMBOS DA LEI N.º 11.343/06 E AO ART. 386, VII, DO CPP. PLEITO DE ABSOLVIÇÃO. PLEITO DE DESCLASSIFICAÇÃO DO CRIME DE TRÁFICO DE DROGAS PARA O DELITO DE POSSE DE ENTORPECENTES PARA CONSUMO PRÓPRIO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp 871.789/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 14.6.2016).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. FALTA DE PROVAS. ART. 155, 226 E 386, VII, TODOS DO CPP. VERIFICAÇÃO. DOSIMETRIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em negativa de vigência ao art. 226 do Código de Processo Penal, pois a orientação do Tribunal a quo está em consonância com a jurisprudência desta Corte sobre o tema, no sentido de que "o reconhecimento pessoal isolado não anula o ato, sendo que a presença de outras pessoas junto ao réu é uma recomendação legal e, não, uma exigência" (HC 41.813/GO, Ministro Gilson Dipp, Quinta Turma, DJ 30/5/2005).
+2. Para alterar a conclusão a que chegou as instâncias ordinárias, no sentido de se verificar a inexistência de elementos de autoria e de materialidade suficientes a desconstituir o decreto condenatório, ou se houve acerto ou desacerto no estabelecimento da dosimetria da pena, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Agravo regimental não provido (AgRg no AREsp 651.631/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/12/2015).
+Diante do exposto, com fundamento no art. 932, inc. IV, do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
