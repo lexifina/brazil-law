@@ -1,0 +1,6 @@
+DECISÃO
+Chamo o feito à ordem.
+Na decisão de fls. 171/174e, em que foi determinada a inclusão do presente feito para julgamento em conjunto com o REsp 1.358.837/SP, já afetado monocraticamente como representativo de controvérsia repetitiva, asseverou-se que "a presente afetação é realizada por meio de decisão monocrática, pois o Tema 961/STJ já se encontrava afetado antes da entrada em vigor do CPC/2015" (fl. 174e). No entanto, há evidente erro material nesse ponto, corrigível de ofício, com base no art. 494, I, do CPC/2015, porquanto o tema em tela fora afetado em 27/09/2016, por meio de decisão publicada em 03/10/2016, ou seja, na vigência do CPC/2015.
+Cabe registrar que a correção desse erro material não afasta a possibilidade de afetação por decisão monocrática, na medida em que, à época da prolação daquele decisum, ainda não havia entrado em vigor a Emenda Regimental 24, de 28/09/2016, publicada em 14/10/2016, que, ao conferir nova redação ao artigo 257-A do RISTJ, passou a prever o julgamento colegiado da proposta de afetação.
+Ante o exposto, corrijo o erro material, para assentar que o Tema 961/STJ fora afetado na vigência do CPC/2015, mas antes da entrada em vigor da Emenda Regimental 24, de 28/09/2016, sem atribuir efeitos infringentes à decisão de fls. 171/174e.
+I.
