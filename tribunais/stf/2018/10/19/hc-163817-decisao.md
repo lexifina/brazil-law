@@ -1,0 +1,27 @@
+Decisão : Trata-se de habeas corpus com pedido de liminar, impetrado por Joallyson Guedes Resende, em favor de Nirleide do Nascimento, contra decisão proferida por Ministro Relator do STJ, nos autos do RHC 95.958/PB.
+    Colho o relatório da decisão impugnada:
+    “Trata-se de recurso em habeas corpus interposto por NIRLEIDE DO NASCIMENTO contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, que denegou a ordem visada no writ de n.º 0806349-02.2017.8.15.0000, mantendo a segregação cautelar da recorrente, nos autos da ação penal em que restou condenada, em primeira instância, ao cumprimento de 7 (sete) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, mais o pagamento de 1.263 dias-multa, em razão do cometimento dos crimes previstos no art. 35, c/c o art. 40, inc. III, IV e VI, da Lei 11.343/06, sendo-lhe vedada a possibilidade de recorrer em liberdade.
+    Sustenta a recorrente a ocorrência de constrangimento ilegal, sob o argumento de que não teriam sido apresentados fundamentos idôneos pelas instâncias de origem para que lhe fosse retirado o direito de apelar em liberdade da condenação.
+    Requereu o conhecimento e o provimento do reclamo para que seja restituída a liberdade à recorrente, expedindo-se o competente alvará de soltura, mediante a fixação de medidas cautelares, se for o caso.
+    Não houve contrarrazões e os autos ascenderam a este Superior Tribunal de Justiça.
+    Informações prestadas.
+    O Ministério Público Federal manifestou-se pelo improvimento do recurso.” (eDOC 4, p. 1)
+    No STJ, o recurso foi improvido, mas foi concedida a ordem, de ofício, para determinar a inserção da paciente no regime semiaberto, em virtude da maior gravidade da prisão cautelar.
+    Nesta Corte, a defesa requer seja garantido o direito de a paciente recorrer em liberdade.
+    É o relatório.
+    Passo a decidir.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Além disso, cumpre destacar que sequer foi interposto agravo regimental contra a decisão monocrática.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação desses entendimentos jurisprudenciais pode ser afastada na ocorrência de patente constrangimento ilegal ou abuso de poder, o que não verifico no presente caso.
+    É o STJ, ao negar provimento ao recurso interposto pela paciente, registrou que ela teria descumprido as condições da prisão domiciliar, razão por que foi decretada a prisão preventiva, verbis:
+    “Com efeito, nas informações prestadas, esclareceu o Juízo sentenciante que ‘quando da prolação da sentença, por entender que acoimada encontrava-se em lugar incerto e não sabido, tendo descumprido há muito a prisão domiciliar antes deferida, porquanto mudou de endereço sem nenhuma comunicação ao juízo, vislumbrei elementos justificadores da manutenção da prisão cautelar e indeferi o direito de recorrer em liberdade’ (e-STJ fl. 300).
+    Irresignada com a manutenção da custódia antecipada, a defesa impetrou habeas corpus perante o Tribunal Estadual que, considerando suficiente e fundamentada a decisão singular, denegou a ordem quanto ao ponto, salientando que:
+    A decisão atacada encontra-se suficientemente fundamentada com elemento concreto dos autos, ou seja, o fato de existir um mandado de prisão, ainda pendente de cumprimento, decorrente da prisão preventiva decretada após o descumprimento da prisão domiciliar, ou seja, depois de constatado que a paciente encontrava-se foragida. Ademais, na análise das circunstâncias judiciais restou evidente a periculosidade da paciente, dada a quantidade e diversidade de drogas apreendidas (material suficiente para confeccionar cerca de 428 cigarros de maconha e 5.000 pequenas pedras de crack), e o seu papel fundamental na organização criminosa, já que vendia diretamente os entorpecentes (e-STJ fls. 236-237).
+    Delineado o contexto fático, verifica-se que NIRLEIDE DO NASCIMENTO teve a prisão em flagrante convertida em preventiva e assim permaneceu durante grande parte da instrução criminal e, proferida a sentença condenatória, negou-se-lhe o direito de recorrer em liberdade porquanto remanescentes os motivos ensejadores da sua segregação cautelar originária que, como visto, foi suficientemente fundamentada, com base nas circunstâncias do caso concreto, indicativas da imprescindibilidade da medida extrema para a preservação da ordem pública e para assegurar a lei penal, dada a sua condição de foragida.” (eDOC 4, p. 6)
+    Da leitura do excerto acima, não vislumbro constrangimento ilegal a autorizar a concessão da ordem, porquanto a prisão preventiva foi decretada para assegurar a aplicação da lei penal, exatamente porque a paciente descumpriu as condições da prisão domiciliar e se evadiu do distrito da culpa, no curso da instrução.
+    Ante o exposto, nego seguimento ao presente habeas corpus. (artigo 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 19 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
