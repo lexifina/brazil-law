@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Claro S. A., com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1804):
+AGRAVO REGIMENTAL - NEGATIVA DE SEGUIMENTO AO AGRAVO DE INSTRUMENTO - RECURSO MANIFESTAMENTE IMPROCEDENTE - CONDIÇÕES DO ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL EXISTENTES - POSIÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA - MANUTENÇÃO DA DECISÃO. Se a pretensão deduzida pelo réu na via da agravo mostra-se manifestamente conflitante com posição do Superior Tribunal de Justiça, legítima a decisão do Relator que negou seguimento ao recurso aviado. Não provido.
+A parte recorrente aponta, além de divergência jurisprudencial, violação ao art. 32, § 2º, da Lei 6.830/80. Sustenta, em síntese, que não é possível o levantamento de valor dado em garantia aos embargos do devedor na hipótese em que ainda não ocorreu o trânsito em julgado da sentença que julgou improcedentes esses embargos.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação merece prosperar, pois este Superior Tribunal de Justiça já manifestou o entendimento de que "nos termos do art. 32, § 2º, da LEF, somente após o trânsito em julgado será possível a conversão ou o levantamento da garantia, seja pelo exequente, seja pelo executado" (REsp 891.616/RJ, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 03/08/2010, DJe 17/08/2010).
+No mesmo sentido, confiram-se os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR NÃO RECEBIDOS NO EFEITO SUSPENSIVO. CONVERSÃO OU LEVANTAMENTO DA GARANTIA. NECESSIDADE DE TRÂNSITO EM JULGADO. SÚMULA 83 DO STJ. AGRAVO DO ESTADO DE PERNAMBUCO DESPROVIDO.
+1. Nos termos do art. 32, § 2º da Lei 6.830/80, somente após o trânsito em julgado é possível a conversão do depósito em renda ou o levantamento da garantia.
+2. Agravo Regimental do ESTADO DE PERNAMBUCO desprovido.
+(AgRg no Ag 1317089/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/4/2014, DJe 26/5/2014)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. GARANTIA. LEVANTAMENTO DA QUANTIA DEPOSITADA CONDICIONADO AO TRÂNSITO EM JULGADO DA SENTENÇA.
+1. O STJ possui entendimento jurisprudencial sedimentado no sentido de que somente após o trânsito em julgado será possível o levantamento da fiança bancária.
+2. O tema já foi analisado pela Segunda Turma, em acórdão relatado pelo Ministro Castro Meira, no REsp. 891.616/RJ. Naquela oportunidade, ficou assentado que, ante a especificidade do art. 32, § 2º, da Lei 6.830/1980, somente se permite à Fazenda levantar as quantias garantidoras do juízo após o trânsito em julgado.
+3. Dessa forma, diante da especificidade da norma em comento, a cautela relativa aos valores depositados em garantia não implica contrariedade ao disposto na Súmula 317/STJ, segundo a qual a execução de título extrajudicial é definitiva, mesmo que seja apresentada apelação contra sentença que julga improcedentes os Embargos do Devedor.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 123.976/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/06/2012, DJe 01/08/2012)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXECUÇÃO GARANTIDA POR MEIO DE DEPÓSITO EM DINHEIRO. COBRANÇA DO TRIBUTO QUESTIONADA EM SEDE DE EMBARGOS À EXECUÇÃO. LEVANTAMENTO OU CONVERSÃO EM RENDA QUE SE SUJEITA AO TRÂNSITO EM JULGADO DA DECISÃO QUE RECONHEÇA OU AFASTE A LEGITIMIDADE DA EXAÇÃO.
+1. Por força da regra contida no art. 32, § 2º, da Lei 6.830/80, o levantamento de depósito judicial ou a sua conversão em renda da Fazenda Pública, sujeita-se ao trânsito em julgado da decisão que reconheceu ou afastou a legitimidade da exação.
+2. O art. 32, § 2º, da Lei 6.830/80 é norma especial, que deve prevalecer sobre o disposto no art. 587 do CPC, de modo que a conversão em renda do depósito em dinheiro efetuado para fins de garantia da execução fiscal somente é viável após o trânsito em julgado da decisão que reconheceu a legitimidade da exação. Em virtude desse caráter especial da norma, não há falar na aplicação do entendimento consolidado na Súmula 317/STJ.
+3. Embargos de divergência providos.
+(EREsp 734.831/MG, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 10/11/2010, DJe 18/11/2010)
+No caso, o acórdão recorrido autorizou o levantamento da garantia oferecida nos autos de embargos à execução fiscal antes do trânsito em julgado da sentença ali proferida, em descompasso com a jurisprudência do STJ. Assim, o acórdão recorrido não merece subsistir.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se.
