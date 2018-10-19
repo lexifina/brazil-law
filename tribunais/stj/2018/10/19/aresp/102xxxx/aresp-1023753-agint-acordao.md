@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO À COISA JULGADA. JUROS DE MORA. TERMO INICIAL. INCIDÊNCIA APÓS O 30º DIA DO ENCERRAMENTO DO GRUPO. ENTENDIMENTO EM CONSONÂNCIA COM RECURSO JULGADO SOB O RITO DO REPETITIVO. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. DESCONTO/ABATIMENTO DOS VALORES JÁ PAGOS ADMINISTRATIVAMENTE QUE CONSTAM DA SENTENÇA EXEQUENDA. VIOLAÇÃO À COISA JULGADA. INOCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. PRINCÍPIO DA VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. AGRAVO DESPROVIDO.
+
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Moura Ribeiro.
+RELATÓRIO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO(Relator):
+Trata-se de agravo interno interposto por [NOME], em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO À COISA JULGADA. JUROS DE MORA. TERMO INICIAL. INCIDÊNCIA APÓS O 30º DIA DO ENCERRAMENTO DO GRUPO. ENTENDIMENTO EM CONSONÂNCIA COM RECURSO JULGADO SOB O RITO DO REPETITIVO. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. DESCONTO/ABATIMENTO DOS VALORES JÁ PAGOS ADMINISTRATIVAMENTE QUE CONSTAM DA SENTENÇA EXEQUENDA. VIOLAÇÃO À COISA JULGADA. INOCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. PRINCÍPIO DA VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. AGRAVO DESPROVIDO.
+Nas razões do agravo, a parte agravante alega que impugnou os fundamento da decisão recorrida sustentando, em síntese, violação à coisa julgada ao argumento de que a matéria foi decidida em consonância com a jurisprudência dominante do STJ, mas a decisão transitada em julgado dizia outra coisa em relação aos juros; que a inviolabilidade da coisa julgada está acima do princípio do enriquecimento sem causa e inaplicabilidade da Súmula nº 7/STJ ao caso concreto.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO À COISA JULGADA. JUROS DE MORA. TERMO INICIAL. INCIDÊNCIA APÓS O 30º DIA DO ENCERRAMENTO DO GRUPO. ENTENDIMENTO EM CONSONÂNCIA COM RECURSO JULGADO SOB O RITO DO REPETITIVO. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. DESCONTO/ABATIMENTO DOS VALORES JÁ PAGOS ADMINISTRATIVAMENTE QUE CONSTAM DA SENTENÇA EXEQUENDA. VIOLAÇÃO À COISA JULGADA. INOCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. PRINCÍPIO DA VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. EXISTÊNCIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283 DO STF. AGRAVO DESPROVIDO.
+
+VOTO
+EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO(Relator):
+Eminentes colegas, a irresignação não merece acolhida.
+Com efeito, percebe-se que as razões trazidas no agravo interno, sustentando que impugnou os fundamento da decisão recorrida; violação à coisa julgada ao argumento de que a matéria foi decidida em consonância com a jurisprudência dominante do STJ, mas a decisão transitada em julgado dizia outra coisa em relação aos juros; que a inviolabilidade da coisa julgada está acima do princípio do enriquecimento sem causa e inaplicabilidade da Súmula nº 7/STJ ao caso concreto, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+ Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, o Tribunal de origem, no que concerne à incidência dos juros de mora, decidiu a matéria em consonância com o entendimento consolidado no julgamento do repetitivo, REsp 1.119.300/RS, Rel. Ministro Luis Felipe Salomão, julgado em 14/04/2010, afastando assim qualquer ofensa à coisa julgada.
+Contudo, contra esse fundamento a parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, que a decisão proferida na fase de conhecimento manda computar juros de mora a partir do término do grupo de consórcio e não após 30 dias de encerramento do grupo consorcial.
+Assim, verifica-se que o referido fundamento, por si só, se mostra suficiente a manter o acórdão recorrido quanto ao ponto, incidindo, portanto, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No que tange à alegada impossibilidade de compensação de valores pagos anteriormente à formação do título exequendo, devendo ser afastada a tentativa de desconto não provado na fase de conhecimento, o Tribunal de origem assim se manifestou:
+Na mesma linha, não se vislumbra violação à coisa julgada quanto aos descontos comprovados e considerados.
+Constou da sentença: "O "quantum" devido será procedido de liquidação na forma do 604, par. 2º do CPC, valendo-se a parte do cálculo do perito já produzido nos autos, e, deduzindo-se, ainda, eventuais importâncias já pagas", fl. 84.
+Vê-se que a sentença exequenda foi clara e expressa em relação à dedução de eventuais valores já pagos. A comprovação ocorreria, como, de fato, ocorreu, na fase de liquidação/cumprimento.
+Ademais, apegam-se os agravantes a questão formal momento da prova, mas não negam, propriamente, os pagamentos.
+O desconto/abatimento dos valores já pagos administrativamente, além de constar da sentença exequenda, vai ao encontro do princípio da vedação do enriquecimento sem causa. (e-STJ fls. 243/244).
+Nos termos acima, restou consignado no acórdão recorrido que o desconto/abatimento do valores já pagos administrativamente constaram da sentença exequenda. Desse modo, afastar a conclusão do Tribunal de origem, demandaria a análise do contexto fático probatório dos autos o que encontra óbice na Súmula nº 7/STJ.
+Ademais, restou consignado que o desconto/abatimento vai ao encontro do princípio da vedação do enriquecimento sem causa.
+Contudo, contra esse fundamento a parte não se manifestou nas razões do recurso especial, limitando-se a alegar, em síntese, impossibilidade de compensação de valores pagos anteriormente à formação do título exequendo, devendo ser afastada a tentativa de desconto não provado na fase de conhecimento.
+Assim, verifica-se que o referido fundamento, por si só, se mostra suficiente a manter o acórdão recorrido quanto ao ponto, incidindo, portanto, por analogia, o enunciado nº 283 da Súmula do Supremo Tribunal Federal.
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
