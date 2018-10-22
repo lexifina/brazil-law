@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que a paciente foi condenada à pena de 4 (quatro) anos e 8 (oito) meses de reclusão, em regime inicial fechado, como incursa nas sanções do artigo 155, § 4º, inciso II, do Código Penal.
+No julgamento da apelação, o Tribunal de origem deu provimento parcial ao recurso da defesa, a fim de redimensionar a reprimenda para 3 (três) anos de reclusão, em regime inicial semiaberto.
+Sustenta o impetrante, em síntese, que a gravidade do delito, por si só, não seria fundamento idôneo para a fixação do regime inicial semiaberto.
+Requer, ao final, a fixação do regime prisional aberto para início do cumprimento da pena pela paciente.
+A liminar foi indeferida às fls. 30-31.
+As informações foram prestadas às fls. 49-76.
+O MPF, às fls. 78-80, manifestou-se pela denegação do writ.
+É o relatório.
+Cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105 da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+A propósito:
+PENAL E PROCESSUAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. NECESSIDADE DA CUSTÓDIA DEMONSTRADA. ACUSADO FORAGIDO. GARANTIA DA APLICAÇÃO DA LEI PENAL.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, exceto quando a ilegalidade apontada for flagrante, hipótese em se concede a ordem de ofício.
+(..)
+5. Habeas corpus não conhecido.
+(HC 302.771/PI, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 11/11/2014, DJe 19/11/2014)
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+No que tange ao regime inicial, verifica-se que o acórdão recorrido fixou o semiaberto, sob a seguinte fundamentação (e-STJ fl. 22):
+"Considerando tanto as circunstâncias judiciais desfavoráveis, acima delineadas, e o montante de pena imposto, suficiente a fixação do regime inicial semiaberto, como inclusive ponderado pelo parecer ministerial em Segunda Instância."
+Na presente hipótese, verifica-se que não obstante a pena final cominada a paciente seja inferior a 4 (quatro) anos, a presença de circunstância judicial desfavorável, na primeira fase da dosimetria, impede a fixação do modo aberto para o resgate da sanção reclusiva, nos termos do art. 33, § 2º, letra c e § 3º, do Código Penal.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. FURTO CIRCUNSTANCIADO. COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DE CONFISSÃO ESPONTÂNEA E A AGRAVANTE DE REINCIDÊNCIA. IMPOSSIBILIDADE. RÉU MULTIRREINCIDENTE. COMPENSAÇÃO PARCIAL. AUSÊNCIA DE ILEGALIDADE. PENA-BASE MAJORADA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA INFERIOR A 4 ANOS. RÉU REINCIDENTE. REGIME INICIAL FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. POSSIBILIDADE DE FIXAÇÃO DE REGIME INTERMEDIÁRIO. INTELIGÊNCIA DO ART. 33, § 3º, DO CÓDIGO PENAL - CP. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.  ..
+3. Embora o quantum da pena (art. 33, § 2º, "c", do CP) permita, em tese, a fixação do regime aberto, a existência de circunstâncias judiciais desfavoráveis (art. 59 do CP) utilizada para majorar a pena-base acima do mínimo legal, bem como o fato do paciente ser reincidente, justifica a imposição de regime prisional mais gravoso, que no caso é o semiaberto, de acordo com o disposto no § 3º do art. 33 do Código Penal, bem como em consonância com esta Quinta Turma. Precedentes.
+Habeas corpus não conhecido. Ordem concedida de ofício para fixar o regime inicial semiaberto. (HC 444.116/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 12/06/2018, DJe 25/06/2018)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. ART. 306 DO CTB. SENTENÇA CONDENATÓRIA. APELAÇÃO JULGADA. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXECUÇÃO PROVISÓRIA DA PENA. OFENSA À PRESUNÇÃO DE INOCÊNCIA. NÃO OCORRÊNCIA. DOSIMETRIA. PENA-BASE. CULPABILIDADE. CONCRETIZAÇÃO DO RISCO. ACIDENTE AUTOMOBILÍSTICO COM DANOS MATERIAIS A BEM DE TERCEIROS. ELEMENTOS QUE EXTRAPOLAM O TIPO PENAL VIOLADO. FUNDAMENTAÇÃO IDÔNEA. MAUS ANTECEDENTES. FATOS ANTERIORES. TRÂNSITO EM JULGADO POSTERIOR. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. CONDUTA SOCIAL E PERSONALIDADE. BIS IN IDEM. OCORRÊNCIA. EXASPERAÇÃO.
+QUANTUM DE AUMENTO. ADEQUAÇÃO. REGIME INICIAL SEMIABERTO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. SURSIS PENAL. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. ORDEM DENEGADA.
+ ..
+3. O crime descrito no art. 306 do Código de Trânsito Brasileiro - CTB classifica-se como delito de perigo abstrato, de maneira que, para sua caracterização, basta que o motorista esteja com a capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa. Dito de outra forma, o perigo de dano a outras pessoas ou bens é presumido por lei. Nesse diapasão, se da conduta perpetrada pelo agente advém acidente automobilístico a ocasionar dano material a bem de terceiro, tal qual no caso concreto, há a efetiva concretização do risco, que por escapar à previsão do tipo penal standard concretiza um plus com aptidão a amparar a majoração da pena básica.
+4. Configuram-se maus antecedentes se, na data da sentença, o paciente possuía condenação definitiva por delito anterior. A exigência de que o trânsito em julgado preceda o cometimento do crime atual é apenas para a caracterização da reincidência.
+Precedentes.
+5. Nos termos da Jurisprudência solidificada desta Corte, não há óbice à utilização de condenações anteriores transitadas em julgado como fundamento para fixação da pena-base acima do mínimo legal a título de maus antecedentes, conduta social ou personalidade, desde que se arrolem condenações distintas, sob pena de se incorrer em bis in idem. Na espécie, foi referenciada para fins de negativação da conduta social e personalidade a mesma condenação outrora empregada a título de maus antecedentes, sendo de rigor o decréscimo sancionatório.
+6. Não há ilegalidade na primeira fase da dosimetria da pena se instâncias de origem apontam motivos concretos para a fixação das penas no patamar estabelecido. Em sede de habeas corpus não se afere o quantum aplicado, desde que devidamente fundamentado, como ocorre na espécie, sob pena de revolvimento fático-probatório.
+7. Não obstante a reprimenda final seja inferior a 4 anos de reclusão, é inviável a imposição do regime aberto, haja vista que a pena-base foi fixada acima do mínimo legal, diante da existência de circunstâncias judiciais desfavoráveis. De rigor, pois, a manutenção do regime inicial semiaberto.
+8. Não obstante a presença dos limites objetivos previstos nos art. 44, I e 77, caput, do Código Penal, a existência de circunstâncias judiciais desfavoráveis não se compagina com o disposto no art. 44, III e art. 77, II, do referido diploma legal.
+9. Ordem parcialmente concedida, apenas para reduzir a reprimenda imposta à paciente ao patamar de 9 meses de detenção, mantidos os demais termos do édito condenatório. (HC 419.100/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/03/2018, DJe 05/04/2018)
+Desse modo, estabelecida a pena em patamar inferior a 4 (quatro) anos, mas ostentando circunstância judicial desfavorável, proporcional a manutenção do regime inicial semiaberto.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno deste Superior Tribunal, não conheço do habeas corpus.
+Publique-se.
