@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. SUPOSTAS OMISSÕES NÃO ESPECIFICADAS. SÚM. 284/STJ. LEGITIMIDADE DO PENSIONISTA PARA PLEITEAR O PAGAMENTO DE VALORES NÃO RECEBIDOS EM VIDA PELO SERVIDOR. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial de MARIA DE LOURDES ALVES fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ATUALIZAÇÃO MONETÁRIA. JUROS DE MORA. LEGITIMIDADE. EXEQUENTE. VALORES QUE SERIAM RECEBIDOS EM VIDA PELO INSTITUIDOR. HABILITADOS À PENSÃO.
+1. Os juros de mora e a correção monetária são consectários legais da condenação, possuindo natureza eminentemente processual. Assim, as alterações legais nos critérios de cálculo das referidas verbas tem aplicação imediata, devendo, contudo, incidir somente no período de tempo de sua vigência (REsp. 1.205.946/SP, julgado sob o rito do art. 543-C do CPC).
+2. Contudo, o Superior Tribunal de Justiça, por sua Primeira Seção, no julgamento do REsp nº 1.270.439, consolidou entendimento de que o STF, ao julgar a ADI 4357/DFD, declarou a inconstitucionalidade parcial, por arrastamento, do art. 1º-F da Lei 9.494/97, com a redação da Lei 11.960/09, afastando a aplicação da TR como índice de correção monetária, devendo-se utilizar índices que reflitam a inflação acumulada do período. Quanto aos juros moratórios, restou mantido o entendimento de que estes serão equivalentes aos índices oficiais de remuneração básica e juros aplicáveis à caderneta de poupança, exceto quando a dívida ostentar natureza tributária, para a qual prevalecerão as regras específicas.
+3. É descabida a manutenção da correção monetária pela TR até a data estabelecida como marco da modulação do efeito prospectivo da ADI 4.357/DF, eis que o efeito prospectivo estipulado na referida modulação se aplica somente quando houver a expedição do precatório  AgRg no AREsp 535.403/RS, Rei. Ministro NAPOLEÃO NUNES MALA FILHO, PRIMEIRA TURMA, julgado em 23/06/2015, DJe 04/08/2015).
+4. O pensionista somente possui legitimidade ativa para pleitear em juízo o pagamento de parcelas vencimentais devidas a partir da instituição do benefício. Os valores não recebidos em vida pelo servidor não podem ser pagos aos seus dependentes habilitados à pensão por morte, devendo-se observar a sistemática da sucessão civil.
+Os embargos de declaração foram rejeitados.
+No recurso especial, além da divergência jurisprudencial, a parte recorrente aponta a violação dos seguintes dispositivos: (a) 1.022, II, do CPC/2015, aduzindo que não foram sanados os vícios de omissão no acórdão recorrido; (b) arts. 1º, II, e 2º, do Dec. n. 85.845/1981, alegando fazer jus ao recebimento das parcelas não recebidas em vida pelo instituidor da pensão.
+Houve contrarrazões (e-STJ fls. 222/22).
+O recurso foi admitido (e-STJ fl. 268).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não prospera.
+O recurso não merece conhecimento quanto a apontada violação do art. 1.022, II, do CPC/2015, pois o recorrente quedou-se inerte quanto a demonstração das razões pelas quais teria esse sido violado pelo acórdão a quo. O que se observa, a partir da leitura do recurso, é que o recorrente nem sequer indicou qual seriam as supostas contradições ou obscuridades, e nem tampouco comprovou que haveria omissão quanto à tese fundamental à conclusão do julgado. Incide, pois, o óbice da Súm. 284 do Supremo Tribunal Federal, segundo o qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Prosseguindo, a parte recorrente aponta a violação dos arts. 1º, II, e 2º, do Dec. n. 85.845/1981, alegando fazer jus à auferição das parcelas não recebidas em vida pelo instituidor da pensão. No ponto, assiste razão à recorrente.
+Isso porque, a Corte de origem destoou da jurisprudência consolidada no âmbito do Superior Tribunal de Justiça ao assentar que os valores não pagos em vida para o servidor instituidor da pensão não podem ser recebidos por seus dependentes habilitados à pensão por morte e que deve ser observada a sistemática da sucessão civil. A propósito:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. HABILITAÇÃO DOS HERDEIROS PARA O RECEBIMENTOS DOS VALORES NÃO PAGOS EM VIDA AO SEGURADO. ARTIGO 112 DA LEI 8.213/1991. RECURSO ESPECIAL NÃO PROVIDO.
+1. A aplicação do artigo 112 da Lei 8.213/1991 não se restringe à Administração Pública, sendo aplicável também no âmbito judicial.
+Precedentes.
+2. O valor não recebido em vida pelo segurado só será pago aos seus sucessores na forma da lei civil, na falta de dependentes habilitados à pensão por morte. Inteligência do artigo 112 da Lei nº 8.213/1991.
+3. Recurso especial não provido.
+(REsp 1596774/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. PENSÃO ESPECIAL DE EX-COMBATENTE. PERCEPÇÃO DE VALORES NÃO RECEBIDOS EM VIDA. LEGITIMIDADE. DEPENDENTES OU SUCESSORES.
+1. Os dependentes ou sucessores de ex-titular de benefício previdenciário têm legitimidade processual para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens. Precedentes do STJ.
+2. Regimental não provido.
+(AgRg no REsp 1.197.447/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 2.2.2011)
+No caso, incide a Súm. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema"
+Diante do exposto, com base no art. 932, III e V, do CPC/2015 c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, nos termos da fundamentação, para reconhecer a legitimidade da recorrente para pleitear os valores não recebidos em vida pelo instituidor da pensão.
+Publique-se. Intimem-se.
