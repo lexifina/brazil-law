@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de DIEGO ERICK DIAS ISRAEL, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente foi preso em flagrante, em 6/1/2018, pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, sendo-lhe deferido o benefício da liberdade provisória.
+Dessa decisão, foi interposto recurso em sentido estrito pelo Parquet perante a Corte de origem, o qual restou provido para decretar a prisão preventiva do réu, considerando a necessidade de resguardar a ordem pública.
+Neste writ, a impetrante alega ausência de fundamentação idônea apta a amparar o decreto prisional, pugnando pela revogação da medida constritiva de liberdade imposta ao ora paciente.
+Liminar indeferida (e-STJ, fls. 91-93).
+O Ministério Público Federal opina pela denegação da ordem (e-STJ, fls. 129-130).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+O acórdão recorrido, ao dar provimento ao recurso do Ministério Público, revogando o benefício da liberdade provisória concedida ao ora paciente pelo juízo de primeiro grau e reconstituindo a sua prisão preventiva, o fez sob os seguintes fundamentos:
+"No que tange ao periculum libertatis, verifico que foi encontrada vasta quantidade de entorpecentes, sendo 90 ( noventa ) invólucros de plástico de crack pesando 47,9g ( quarenta e sete gramas e nove centigramas ), uma porção de maconha pesando 17,1g ( dezessete gramas e uma centigrama ) e 44 ( quarenta e quatro ) microtubos de cocaína pesando 37,5g ( trinta e sete gramas e cinco centigramas ), bem como a quantia total em dinheiro de R$495,00 ( quatrocentos e noventa reais ) e, além de ter um adolescente envolvido na prática criminosa. Pontua-se ainda que o recorrido empreendeu em fuga quando avistou a aproximação dos policiais militares, violando dois domicílios, valendo-se de escalada.
+Dessa forma, entendo que a liberdade do paciente representa patente ameaça à ordem pública" (fls. 82).
+Consta dos autos que, quando da prisão em flagrante do paciente, foi apreendida grande quantidade de drogas - o que autoriza sua segregação cautelar, para garantia da ordem pública, consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+Sobre o tema, confiram-se os seguintes precedentes:
+"HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. CIRCUNSTÂNCIAS DO DELITO. DIVERSIDADE E NÚMERO DE PORÇÕES DE MATERIAL TÓXICO APREENDIDO. POTENCIALIDADE LESIVA DA INFRAÇÃO. PERICULOSIDADE SOCIAL DO RÉU. GARANTIA DA ORDEM E SAÚDE PÚBLICA. DESPROPORCIONALIDADE DA PRISÃO. INOCORRÊNCIA. CUSTÓDIA JUSTIFICADA E NECESSÁRIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. COAÇÃO ILEGAL NÃO DEMONSTRADA. WRIT NÃO CONHECIDO.
+1. O STF passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício.
+2. Não há coação na manutenção da prisão preventiva quando demonstrado, com base em fatores concretos, que a medida se mostra necessária, dada a gravidade concreta do delito denunciado, indicativa do periculum libertatis.
+3. A variedade - cocaína e maconha - a natureza altamente lesiva da primeira substância citada e a quantidade de material tóxico apreendido, somadas à sua forma de acondicionamento - em embalagens individuais, prontas para revenda -, são fatores que indicam envolvimento maior do agente com a narcotraficância, autorizando a preventiva.
+4. Não há como, em sede de habeas corpus, concluir que o réu será beneficiado com a aplicação do redutor do § 4º do art. 33 da Lei de Drogas, sobretudo em se considerando as circunstâncias adjacentes ao delito.
+5. Condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade.
+6. Indevida a aplicação de medidas cautelares alternativas quando a segregação encontra-se justificada e mostra-se imprescindível para evitar que o réu continue praticando crimes, evidenciando que providências menos gravosas não seriam suficientes para garantir a ordem pública.
+7. Habeas corpus não conhecido."
+(HC 338.485/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/03/2016, DJe 14/03/2016.)
+"HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE, NATUREZA E VARIEDADE DAS DROGAS APREENDIDAS. MANIFESTA ILEGALIDADE NÃO CONFIGURADA. PARECER ACOLHIDO.
+1. Tanto a quantidade como a variedade e a natureza das drogas apreendidas servem de justificativa para a prisão cautelar para a garantia da ordem pública, por revelar a gravidade concreta da ação.
+2. Ordem denegada."
+(HC 324.676/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA
+TURMA, julgado em 30/06/2015, DJe de 04/08/2015.)
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa e a periculosidade do paciente indicam que a ordem pública não estaria acautelada com sua soltura. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
