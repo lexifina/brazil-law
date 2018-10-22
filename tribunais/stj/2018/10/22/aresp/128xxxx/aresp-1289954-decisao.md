@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. NÃO CABIMENTO. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Tendo havido a devida prestação jurisdicional pelo Tribunal de origem, deve ser afastada a violação do art. 1022 do CPC.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido, com majoração dos honorários.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FCA FIAT CHRYSLER AUTOMÓVEIS BRASIL LTDA., contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 23/10/2017.
+Concluso ao gabinete em: 10/08/2018.
+Ação: de indenização por danos materiais e morais ajuizada por RAIMUNDO DE ROSSI, em face de CHRYSLER GROUP BRASIL COMÉRCIO DE VEÍCULOS LTDA. e GRREN STAR - PEÇAS E VEÍCULOS LTDA, em razão da inadequada prestação de serviço de manutenção do veículo do recorrido realizado pelas rés.
+Sentença: julgou procedente os pedidos da inicial para condenar as rés ao pagamento dos danos materiais e morais suportados pelo recorrido.
+Acórdão: deu parcial provimento aos recursos de apelação interpostos pelas rés, nos termos da ementa a seguir:
+RECURSOS DE APELAÇÃO CÍVEL  AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS C/C PEDIDO DE TUTELA ANTECIPADA  PRELIMINARES DE ILEGITIMIDADE PASSIVA E CERCEAMENTO DE DEFESA  REJEITADAS  COMPRA DE VEÍCULO ZERO QUILÔMETRO  VICIO NO PRODUTO NÃO SANADO NO PRAZO LEGAL  ATO ILÍCITO CONFIGURADO  RESTITUIÇÃO DO VALOR PAGO  POSSIBILIDADE  DANO MATERIAL E MORAL CONFIGURAÇÃO  DEVER DE INDENIZAR  QUANTUM INDENIZATÓRIO FIXADO  REDUÇÃO  NECESSIDADE  CONCESSIONÁRIA E FABRICANTE  RESPONSABILIDADE SOLIDÁRIA  PRIMEIRO E SEGUNDO APELOS PROVIDOS PARCIALMENTE.
+A relação estabelecida entre as partes é tipicamente de consumo, incide à espécie o artigo 18 da Legislação Consumerista, que estabelece a responsabilidade solidária dos fornecedores pelos vícios do produto.
+Ao Julgador incumbe verificar a necessidade, ou não, da produção de provas pelas partes, segundo o ensinamento extraído da norma contida no artigo 130 do Código de Processo Civi1/1973. Não ocorre cerceamento de defesa quando prescindível a produção de prova.
+A jurisprudência do STJ é no sentido de que "a responsabilidade do fabricante e da concessionária por vício do produto é solidária, de modo que o consumidor pode acionar qualquer um dos coobrigados." (STJ, AgRg no REsp 863.919/MT, Rel. Ministro RICARDO VILLAS B6AS CUEVA, TERCEIRA TURMA, julgado em 04/12/2012, DJe 11/12/2012) Não havendo a empresa sanado o vício do produto no prazo legal, faculta-se ao consumidor o direito de pleitear a rescisão do contrato e a restituição da quantia paga, nos termos do artigo 18 do CDC.
+O dano moral restou configurado, não se tratando de simples descumprimento contratual, uma vez que, não é razoável que um produto novo, apresente defeitos dentro do prazo de garantia, tampouco que o consumidor tenha que esperar indefinidamente pela correção dos vícios apresentados.
+O valor da indenização decorrente de dano moral deve ser feito de acordo com os aspectos do caso, sempre com moderação e razoabilidade, atentando-se à proporcionalidade com relação ao grau de culpa, extensão e repercussão dos danos e à capacidade econômica das partes (e-STJ fls. 389/390).
+Embargos de Declaração: opostos pela ora recorrente, foram parcialmente acolhidos, sem efeitos infringentes (e-fls. 460/475).
+Recurso Especial: alega violação dos arts. 355, I, 370, 373, II, 156, 375, 464, § 1º e 1022, II, do CPC; 12, § 3º e 50 do CDC e 186 do CC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que houve cerceamento de defesa pela negativa de produção de provas periciais e por rejeitar a prova unilateral da recorrente; que não houve comprovação de existência de vício de fabricação a ensejar a indeniação; que houve a legítima perda da garantia do veículo em razão da culpa exclusiva do recorrido; e que os danos morais foram fixados em valores exorbitantes.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1022 do CPC/2015
+ É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível a hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018 (PARA O CPC/15)
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das questões atinentes ao cerceamento de defesa, à não comprovação da existência de vício de fabricação e à perda de garantia contratual em razão da culpa exclusiva do consumidor (e-STJ fls. 389/411 e 460/475), de maneira que os embargos de declaração oposto pela agravante, de fato, não comportavam acolhimento
+Assim, observado o entendimento dominante nessa Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incindindo, quanto ao ponto, a Súmula 568/STJ
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado acerca da não configuração do cerceamento de defesa em razão do indeferimento da produção de prova pericial; da não demonstração da culpa exclusiva do recorrido; e da inexistência da perda de garantia, devido a não comprovação de que o agravado teria efetuado a troca de óleo fora da rede credenciada, demandaria o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Dos Danos Morais
+A jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 06/09/2016, e AgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/09/2016.
+Na presente hipótese, o Tribunal de origem ao apreciar a questão entendeu que:
+ No caso em análise, em que pese se esteja diante de responsabilidade contratual, os transtornos decorrentes dos vícios no automóvel foram suficientes à caracterização do dano moral, posto que, ultrapassam o liame do mero dissabor.
+Não obstante tenha adquirido carro zero quilômetro - situação a qual se pressupõe a inexistência de vícios, aparentes ou ocultos -, foi compelido a levar o automóvel à concessionária GREEN STAR (fls. 06-TJMT) de onde, pelo que se verifica dos autos, o veículo nunca mais saiu (e-STJ fls. 405/406).
+(..)
+No que diz respeito ao quantum, a reparação do dano deve corresponder à realidade dos fatos concretos, eis que, consabido, tem por finalidade compensar os prejuízos da vítima/consumidor, bem como evitar a prática reiterada dos atos lesivos.
+Para isto, devem ser observados certos fatores, quais sejam: a compensação pelo ilícito, que visa a amenizar os efeitos do dano, os quais são, pela sua natureza, a gravidade, ligada ao fato e que pode ser avaliada pela forma de agir do ofensor e o alcance da repercussão; e, por fim, o de maior relevância, que corresponde à situação econômico-financeira dos ofensores.
+Deste modo, tenho como medida justa para o caso, a redução do valor compensatório, arbitrado pelo juízo a quo em R$30.000,00 (trinta mil reais) para R$ 20.000,00 (vinte mil reais) (e-STJ - fl. 409).
+E, rever a convicção do julgador a quo, acerca de tal questão, também, demandaria o reexame de fatos, o que não é possível ante a incidência do referido óbice sumular.
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio. Nesse sentido: AgRg no REsp 1579618/PR, 3ª Turma, DJe de 01/07/2016; AgRg no RESP 1283930/SC, 4ª Turma, DJe de 14/06/2016; e, AgRg no REsp 1.346.588/DF, Corte Especial, DJe de 17/03/2014.
+Além disso, a incidência da Súmula 7 desta Corte acerca da fixação do valor arbitrado em danos morais, que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 5% (cinco) por cento sobre o valor da condenação.
+Publique-se. Intimem-se.
