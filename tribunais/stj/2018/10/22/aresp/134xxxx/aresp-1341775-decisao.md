@@ -1,0 +1,22 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMBARGOS À EXECUÇÃO IMPROCEDÊNCIA - CÉDULA DE CRÉDITO BANCÁRIO PRETENSÃO DE REFORMA - DESCABIMENTO - Os embargos são uma ação incidental que se presta a desconstituir o título executivo que não possua higidez, não sendo o meio hábil para discussão de contratos eventualmente encadeados antes da formação do título executivo. A análise dos embargos do devedor deve ficar limitada às práticas reputadas abusivas tão-somente no próprio contrato exequendo, facultado à devedora postular, em ação autônoma, a revisão dos contratos anteriores. Por conseguinte, a não apresentação de documentos pelo exequente relativos aos contratos anteriores à cédula de crédito exequenda, não retira a certeza, liquidez e exigibilidade do título executivo. Sentença mantida. Recurso desprovido." (e-STJ, fl. 178)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o agravante alega violação dos arts. 917, VI, 1.022 do CPC/15 e divergência jurisprudencial, sustentando, em síntese, que (a) o acórdão recorrido foi omisso e, (b) é possível discutir abusividades de contratos anteriores ao objeto da execução em sede de embargos do devedor.
+É o relatório. Decido.
+Não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+A renegociação de contrato bancário ou a confissão de dívida não impedem que se discutam eventuais abusividades dos contratos anteriores, em vista do disposto na Súmula 286/STJ, ainda que em sede de embargos do devedor. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. ART. 557 DO CPC/1973. PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO. OFENSA INEXISTENTE. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA Nº 284/STF. CONTRATOS BANCÁRIOS. RENEGOCIAÇÃO. REVISÃO. POSSIBILIDADE.
+1. O julgamento monocrático da causa pelo relator, utilizando-se dos poderes processuais do art. 557 do CPC/1973, não ofende o princípio do duplo grau de jurisdição se o recurso é manifestamente inadmissível ou improcedente, sendo certo que eventual mácula fica superada com o julgamento colegiado do recurso pelo órgão competente.
+2. É inadmissível o recurso especial que não indica com precisão o dispositivo de lei federal supostamente violado ou deixa de especificar de que forma ele teria sido contrariado pelo acórdão recorrido, de acordo com a Súmula nº 284/STF.
+3. Nos termos da Súmula nº 286/STJ, a renegociação de contrato bancário ou a confissão da dívida não impede a possibilidade de discussão sobre eventuais ilegalidades dos contratos anteriores, ainda que em embargos à execução.
+4. Agravo interno não provido."
+(AgInt no AREsp 564.102/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/08/2016, DJe 06/09/2016)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE CONFISSÃO DE DÍVIDA. EMBARGOS À EXECUÇÃO. DISCUSSÃO DE CONTRATOS ANTERIORES. POSSIBILIDADE. ÔNUS DA PROVA DA EXIBIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A renegociação de contrato bancário ou a confissão da dívida não impede a discussão sobre eventuais ilegalidades dos contratos anteriores, consoante dicção da Súmula 286/STJ.
+2. O prequestionamento é indispensável ao conhecimento da matéria veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1108606/AC, de minha relatoria, QUARTA TURMA, julgado em 12/04/2016, DJe 22/04/2016)
+Dessarte, com fundamento na Súmula 568/STJ, merece reforma o acórdão recorrido, em virtude de seu dissenso com o entendimento do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de admitir a possibilidade de se examinarem eventuais ilegalidades dos contratos que deram origem ao contrato executado e, assim, determinar a remessa dos autos ao TJ/SP para que se prossiga no julgamento dos embargos do devedor.
+Publique-se.
