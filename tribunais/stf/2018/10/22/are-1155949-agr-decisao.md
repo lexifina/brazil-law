@@ -1,0 +1,10 @@
+DECISÃO: O ato judicial que faz incidir a regra inscrita no art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, não possui conteúdo decisório nem se reveste de lesividade, pois traduz mera consequência – admitida pela própria jurisprudência plenária do Supremo Tribunal Federal firmada ainda sob a égide de CPC/73 (AI 715.423-QO/RS, Rel. Min. ELLEN GRACIE, e RE 540.410-QO/RS, Rel. Min. CEZAR PELUSO) – que resulta do reconhecimento da existência de repercussão geral de determinada controvérsia constitucional suscitada em sede recursal extraordinária, tal como sucede no caso ora em exame.
+    A ausência de gravame, no caso em análise, decorre da circunstância de que, julgado o mérito do apelo extremo em que reconhecida a repercussão geral, aplicar-se-á os preceitos inscritos no art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007.
+    A inadmissibilidade de recurso, em tal situação, deriva da circunstância – processualmente relevante – de que o ato em causa não consubstancia, seja a solução da própria controvérsia constitucional, seja a resolução de qualquer questão incidente.
+    Tratando-se, pois, de manifestação que não se ajusta, em face do seu próprio teor, ao perfil normativo dos atos de conteúdo sentencial (CPC, art. 203, § 1º) ou de caráter decisório (CPC, art. 203, § 2º), resulta evidente a irrecorribilidade do ato que meramente ordenou, como no caso, a devolução dos presentes autos ao Tribunal de origem, nos termos e para os fins do art. 1.040 do CPC.
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questões virtualmente idênticas à que ora se examina (AI 630.083-AgR-AgR/PR, Rel. Min. RICARDO LEWANDOWSKI – AI 705.038-AgR/MS, Rel. Min. ELLEN GRACIE – AI 735.918-AgR/RJ, Rel. Min. EROS GRAU, v.g.).
+    Sendo assim, e em face das razões expostas, não conheço, por inadmissível, do presente agravo interno.
+    Publique-se.
+    Brasília, 22 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
