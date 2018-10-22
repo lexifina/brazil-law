@@ -1,0 +1,31 @@
+Trata-se de habeas corpus impetrado contra decisão do Ministro Felix Fischer, do Superior Tribunal de Justiça – STJ, que indeferiu liminarmente o HC 470.041/SP.
+    Consta dos autos (documento eletrônico 2) que o paciente foi preso em flagrante e denunciado pela suposta prática do crime de tráfico interestadual de drogas (art. 33 combinado com o art. 40, V, da Lei 11.343/2006). Em audiência de custódia, o flagrante foi convertido em prisão preventiva.
+    Questionando os fundamentos da prisão processual, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo – TJSP, ocasião em que o Desembargador Relator indeferiu o pedido de liminar. Na sequência, manejou outro HC no Superior Tribunal de Justiça, mas o Ministro Relator indeferiu liminarmente a impetração (documento eletrônico 4).
+    É contra essa decisão que se insurge o impetrante neste habeas corpus.
+    Sustenta, inicialmente, que “o contexto apresentado [no decreto de prisão preventiva] não se refere a qualquer causa necessária que justifique a prisão com base no artigo 312 do código de processo penal” (pág. 3 da petição inicial).
+    Argumenta, em seguida, que “a decisão que denegou a liminar carece de idoneidade uma vez que trouxe traços iminentemente próximos de generalidade, uma vez que as decisões pautadas em ações que buscam a liberdade merecem um trato fino dada a importância da ação e ao direito pleiteado que é a liberdade” (pág. 4 da petição inicial).
+    Explica, por fim, que deve preponderar, no caso, “o fato de o paciente ser pessoa primária, de bons antecedentes, […] que trabalha, é micro empresário (doc. anexo), possui residência fixa” (pág. 5 da petição inicial).
+    Requer, ao final, liminarmente, que seja “revogada a prisão do paciente, com a imediata expedição de alvará de soltura em favor deste. Requer, outrossim, seja o presente pedido de habeas corpus julgado procedente ao final, confirmando-se a decisão liminar” (pág. 14 da petição inicial).
+    É o relatório necessário. Decido.
+    A presente impetração volta-se contra decisão monocrática de Ministro do Superior Tribunal de Justiça que que indeferiu liminarmente o HC 470.041/SP, com base na Súmula 691/STF. Eis os fundamentos expostos por Sua Excelência:
+    “Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de WALMIR ALVES DE OLIVEIRA, contra r. decisum de em. Desembargador do eg. Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar pleiteada em writ naquela Corte impetrado.
+    Depreende-se dos autos que o ora paciente teve sua prisão em flagrante convertida em preventiva pela prática, em tese, do delito de tráfico de drogas.
+    Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva do paciente. O em. Desembargador Relator indeferiu a liminar.
+    Daí o presente mandamus, no qual o impetrante alega, em síntese, a necessidade de afastamento do óbice imposto pela Súmula nº 691/STF, ante a existência de constrangimento ilegal em razão da ausência de fundamentação da r. decisão que decretou a segregação cautelar.
+    Requer, assim, a revogação da prisão preventiva do paciente e, subsidiariamente, a substituição da prisão por medida cautelar diversa.
+    É o relatório.
+    Decido.
+    Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. Sobre o tema, contudo, insta consignar que a jurisprudência desta eg. Corte há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heroico em situação como a presente, sob pena de ensejar indevida supressão de instância.
+    Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado sumular nº 691/STF, in verbis: ‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar’.
+    Na hipótese, não verifico, da análise da r. decisão do e. Desembargador Relator que indeferiu o pedido liminar deduzido no habeas corpus originário (fls. 20-22), a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido, razão pela qual o indeferimento liminar do presente writ é medida que se impõe.
+    […]
+    Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+    No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+    Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ” (grifos no original).
+    Desse modo, este pleito não merece igualmente seguimento, uma vez que o exame da questão implicaria indevida supressão de instância e extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o seguimento do habeas corpus nesta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 22 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
