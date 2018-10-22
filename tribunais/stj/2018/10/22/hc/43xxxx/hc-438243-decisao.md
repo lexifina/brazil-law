@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WILLIAN DOS SANTOS LOURENÇO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o juízo competente determinou a sustação cautelar da permanência do paciente em prisão albergue domiciliar, por descumprimento das condições impostas.
+A Corte de origem deu parcial provimento ao agravo em execução da defesa tão somente para manter o paciente em regime semiaberto cautelarmente, até eventual decisão de regressão (fls. 59/67).
+O impetrante alega que o paciente foi induzido a erro pela D. Cartorária, ao afirmar que sua pena iria terminar em novembro de 2016 e não necessitaria comparecer novamente.
+Sustenta que não se justifica a regressão de regime, pois é primário, possui residência fixa, não havendo elementos que justifiquem a sua regressão de regime.
+Afirma, ainda, que deve ser aplicado o indulto nos termos do Decreto n.º 9.246/2017, por entender preenchidos os requisitos, com a extinção de sua punibilidade nos termos do art. 107, II, do CP.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para que o paciente possa responder ao processo em regime aberto, com a expedição de contramandado de prisão.
+Liminar indeferida à fl. 195.
+Prestadas as informações às fls. 200/226, 229/249 e 251/264.
+Parecer ministerial às fls. 266/268.
+É o relatório.
+A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio, tendo em vista a impetração se destinar a atacar acórdão contra o qual seria cabível a interposição de recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal.
+Nesses termos, o entendimento pacífico no âmbito deste Sodalício:
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO. SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. PENA-BASE ESTABELECIDA
+NO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO. POSSIBILIDADE, EM TESE. ANÁLISE DE CADA CASO. FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO.
+AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO. MATÉRIA
+AFETADA À SEÇÃO.
+1. Tratando-se de habeas corpus substitutivo de recurso próprio, inviável o seu conhecimento, cabendo a análise de flagrante ilegalidade.  ..
+3. Hipótese em que não há flagrante ilegalidade, haja vista que a Corte estadual invocou concretamente as circunstâncias do delito para justificar o regime prisional fechado, em consonância com a jurisprudência deste Superior Tribunal de Justiça e do Supremo Tribunal Federal. Foi indicada a concreta gravidade do crime (tentativa de matar mulher grávida de 4 meses, valendo-se das relações domésticas, mediante meio cruel e motivo fútil, inclusive na presença do filho de 4 anos da vítima e mediante "roleta russa").
+4. Writ não conhecido.
+(HC 362.535/MG, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO,
+julgado em 14/12/2016, DJe 08/03/2017)
+Entretanto, o constrangimento apontado na inicial será analisado, a fim de se verificar a existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+Durante a execução da pena do paciente, ficou constatada a prática de falta grave, pois descumpriu condição do regime aberto (art. 50, V da LEP). Foi determinada a sustação cautelar da prisão albergue, bem como a regressão para o regime semaberto.
+Inconformada, a defesa interpôs agravo em execução, o qual restou parcialmente provido pelo Tribunal de origem, nos seguintes termos (fls. 182/185):
+ ..
+Como é cediço, o cometimento de falta grave pelo condenado pode levar à sustação cautelar do regime carcerário em que se encontra.
+Isto porque, diante da notícia de que o agravante praticou falta disciplinar de natureza grave, o Juízo das Execuções Criminais não poderia se furtar de determinar, de pronto, a sustação cautelar do regime menos rigoroso. Essa providência, aliás, decorre do poder geral de cautela, inerente à atividade jurisdicional.
+ ..
+Destarte, embora realmente não exista uma previsão expressa de tal medida, o MM0. Juízo das Execuções, atuando nos limites de seu poder geral de cautela, tem permissão para determinar a sustação cautelar do regime prisional daquele que cometeu falta grave, que se mostrou necessária e suficiente para a presente hipótese.
+ ..
+Entretanto, a determinação de mantença do agravante em regime fechado cautelarmente, até decisão de eventual regressão, mostra-se desarrazoável, eis que o mesmo é primário (fls. 72/73), demonstrou possuir residência fixa (fls. 132/135) e ter ocupação lícita (136/137), de modo que seria mais justo e proporcional mantê-lo em regime semiaberto cautelarmente, até decisão de eventual regressão.
+Ante o exposto, DÁ-SE PARCIAL PROVIMENTO ao presente agravo tão somente para que o sentenciado WILLIAN DOS SANTOS LOURENÇO seja mantido em regime semiaberto cautelarmente, até decisão de eventual regressão.
+Dessa forma, constata-se que a conduta perpetrada, no presente caso, caracteriza a falta grave pelo descumprimento de condições obrigatórias, apta a autorizar a aplicação de sanção disciplinar, nos termos em que procedidos.
+Portanto, em que pese os argumentos apresentados neste mandamus, não merece acolhida a insurgência defensiva.
+Ademais, conforme jurisprudência vigente nesta Corte Superior de Justiça, é incabível a emissão de juízo de valor acerca da gravidade das práticas indisciplinares imputadas ao condenado, ante o necessário revolvimento fático-probatório, vedado por meio de habeas corpus. Nesse sentido, confira-se:
+
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FALTA GRAVE. INOBSERVÂNCIA DE DEVERES PELA APENADA. PEDIDO DE DESCLASSIFICAÇÃO PARA FALTA MÉDIA. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. CONSTATADA ILEGALIDADE FLAGRANTE NA FRAÇÃO APLICADA DE PERDA DOS DIAS REMIDOS. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem de ofício. II - "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 7/3/2014).  ..  Ordem concedida, de ofício, apenas para determinar que a instância a quo decrete a perda de dias remidos - até o limite de 1/3 (um terço) -, de modo fundamentado, com esteio na atual redação do art. 127 da LEP, conferida pela Lei 12.433/2011. (HC 380.500/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/03/2017, DJe 04/04/2017)
+ AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE HOMOLOGADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO. NOVA OITIVA DO APENADO. DESNECESSIDADE. ATIPICIDADE DA CONDUTA OU SUA DESCLASSIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. 1. Segundo a jurisprudência desta corte, "é desnecessária nova oitiva do apenado em juízo antes da homologação da falta grave se a ele foi oportunizado manifestar-se no âmbito do procedimento administrativo instaurado para apuração da infração disciplinar, devidamente acompanhado de defesa técnica" (HC n. 321.366/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 3/8/2015). 2. A discussão sobre a configuração da infração disciplinar ou até mesmo a sua desclassificação para falta de natureza média ou leve demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. (grifo nosso) 3. Agravo regimental desprovido. (AgRg no HC 356.071/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017).
+Logo, com base nos argumentos acima delimitados, constata-se ser descabida a verificação acerca da gravidade dos fatos imputados a ora paciente, a fim de concluir-se pela existência ou não da falta grave.
+Com relação à concessão de indulto ao paciente nos termos do Decreto n.º 9.246/2017, verifica-se que a matéria não foi analisada pela Corte de origem, o que implicaria em indevida supressão de instância o exame do tema por esta Corte Superior de Justiça.
+Desse modo, não evidenciada a suscitada coação, com amparo no art. 34, XX, do RISTJ, não se conhece do writ.
+Publique-se.
