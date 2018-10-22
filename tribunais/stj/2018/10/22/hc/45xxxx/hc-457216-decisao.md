@@ -1,0 +1,20 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. EXCESSO DE PRAZO PARA A APRECIAÇÃO DA APELAÇÃO INTERPOSTA NO TRIBUNAL A QUO. JULGAMENTO DO RECURSO. PERDA DE OBJETO.
+1. Fica sem objeto o habeas corpus impetrado por eventual demora na apreciação de recurso de apelação interposto na Corte a quo, em razão de seu julgamento. Precedentes.
+2. Writ prejudicado.
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] e [NOME] (ou [NOME]), contra acórdão do Tribunal de Justiça da Bahia, assim ementado (fl. 47):
+PENAL. PROCESSO PENAL. HABEAS CORPUS LIBERATÓRIO. EXTORSÃO MEDIANTE SEQUESTRO QUALIFICADA E ROUBO MAJORADO. SENTENÇA CONDENATÓRIA.
+IMPOSIÇÃO DA PENA CORPORAL FINAL DE 18 ANOS E 06 MESES DE RECLUSÃO, EM REGIME FECHADO, PARA CADA RÉU. NEGATIVA DO DIREITO DE OS CONDENADOS RECORREREM EM LIBERDADE.
+ALEGAÇÃO DE EXCESSO PRAZAL NA CUSTÓDIA CAUTELAR DOS PACIENTES. NÃO CONHECIMENTO. RECURSO DE APELAÇÃO JÁ REMETIDO A ESTE TRIBUNAL DE JUSTIÇA E DISTRIBUÍDO POR PREVENÇÃO NESTA TURMA CRIMINAL. INCOMPETÊNCIA ABSOLUTA DA CORTE PARA A APRECIAÇÃO DA PRESENTE TESE DE EXCESSO DE PRAZO. INTELIGÊNCIA DA NORMA CONTIDA NO ARTIGO 649, CAPUT, C/C O ARTIGO 650, § 1.º DO CPPB. REMESSA AO ÓRGÃO JURISDICIONAL QUE NÃO FIGURA NECESSARIAMENTE MAIS BENÉFICA AO PACIENTE EM FACE DO RITO SUMÁRIO DO HABEAS CORPUS.
+AUSÊNCIA DE NOTÓRIO CONSTRANGIMENTO ILEGAL A SER SANADO DE OFÍCIO. EVENTUAL IMPETRAÇÃO ORIGINÁRIA NO STJ QUE GARANTIRIA EXERCÍCIO MAIS AMPLO DA GARANTIA CONSTITUCIONAL EM APREÇO.
+ASSERTIVAS DE AUSÊNCIA DE FUNDAMENTOS IDÔNEOS À MANUTENÇÃO DAS SEGREGAÇÕES PREVENTIVAS E DE INEXISTÊNCIA DOS REQUISITOS PREVISTOS NO ARTIGO 312 DO CPPB. COAÇÃO ILEGAL NÃO DEMONSTRADA.
+SENTENÇA CONDENATÓRIA QUE DELINEOU ELEMENTOS APTOS A DEMONSTRAR A NECESSIDADE DA CONSTRIÇÃO CAUTELAR DOS PACIENTES. RÉUS QUE PERMANECERAM PRESOS DURANTE TODO O PROCESSO, PERSISTINDO OS MOTIVOS QUE ENSEJARAM AS SEGREGAÇÕES. MEDIDA EXTREMA ADEQUADA E PROPORCIONAL AO CASO CONCRETO, DENTRO DOS LIMITES LEGAIS DOS ARTIGOS 282 E 312 DO CPP, VISANDO RESGUARDAR A ORDEM PÚBLICA.
+ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+Defendem os impetrantes excesso de prazo no julgamento da apelação, tendo em vista que os pacientes foram condenados em 3 de maio de 2018 e "estão presos desde o dia 05 de junho de 2013, por suposta prática dos crimes elencados nos arts. 148, § 1º, IV c/c 159, § 1º c/c 288 e 297 todos do Código Penal, de modo que experimentam o ergástulo há mais de 5 (cinco) anos" (fl. 2). Busca, liminarmente e no mérito, a concessão de alvará de soltura aos pacientes.
+Liminar indeferida (fls. 67/69), informações prestadas (fls. 75/88), o Ministério Público Federal opinou pelo não conhecimento do writ e concessão de ordem de ofício em menor extensão para determinar imediato julgamento da apelação no Tribunal de Justiça local (fls. 90/92).
+Informações complementares às fls. 111/153.
+É o relatório.
+As informações complementares prestadas pela Desembargadora Ivone Ribeiro Gonçalves Bessa Ramos, da Primeira Turma da Primeira Câmara Criminal do Tribunal de Justiça da Bahia, dão conta de que, Em sessão de julgamento realizada no dia 02.10.2018, a 1ª Turma da Primeira Câmara Criminal deste Egrégio Tribunal de Justiça deu parcial provimento às Apelações, a fim de afastar a qualificadora prevista no art. 159, § 1º, do CP, e deferir o benefício da gratuidade da justiça, modificando-se, de ofício, o patamar de incidência da atenuante da confissão espontânea e a fração de aumento relativa às majorantes do crime de roubo, com o consequente redimensionamento das reprimendas reclusivas e pecuniárias impostas aos ora Apelantes (cópia do Acórdão anexa). O v. Acórdão foi disponibilizado no Diário de Justiça Eletrônico em 11.10.2018, considerando-se publicado no primeiro dia útil seguinte (Apelação n. 0305333-40.2013.8.05.0113 - fl. 113).
+Tal o contexto, nos termos dos arts. 659 do Código de Processo Penal, 38 da Lei n. 8.038/1990, e 34, XI, do RISTJ, julgo prejudicado o presente writ, por perda superveniente de seu objeto.
+Publique-se.
