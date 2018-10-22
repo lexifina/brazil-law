@@ -1,0 +1,28 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. IMPETRAÇÃO DIRIGIDA CONTRA ACÓRDÃO QUE DENEGOU A ORDEM PARA REVOGAR A PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE DECISÃO QUE RELAXOU A PRISÃO PREVENTIVA EM RAZÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. RECURSO ORDINÁRIO PREJUDICADO.
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por DIEGO SENRA ZAMBONI, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no julgamento do writ n.º 0066938-79.2017.8.19.0000.
+Consta dos autos que o Recorrente foi preso em flagrante delito, em 14/11/2017, pela suposta prática dos ilícitos tipificados no art. 180, § 1.º, do Código Penal, art. 56 da Lei n.º 9.605/1998 e 2.º da Lei n.º 12.850/2013, em concurso material, pois teria sido surpreendido, em coautoria, transportando, cada qual, uma carreta contendo 30 (trinta) mil litros de óleo cru (petróleo), sem autorização para realizarem o transporte (fl. 207). A segregação flagrancial foi convertida em preventiva às fls. 94-95.
+O Tribunal estadual denegou a ordem de habeas corpus em acórdão, assim ementado (fls. 37-38):
+"HABEAS CORPUS. CRIMES DE RECEPTAÇÃO QUALIFICADA, DE ORGANIZAÇÃO CRIMINOSA E CRIME CONTRA O MEIO AMBIENTE. DECRETO DE CUSTÓDIA CAUTELAR. IMPETRAÇÃO QUE SUSTENTA A AUSÊNCIA DOS PRESSUPOSTOS DA PRISÃO PREVENTIVA. ALEGADAS CONDIÇÕES PESSOAIS FAVORÁVEIS A INDUZIR A DESNECESSIDADE DA CONSTRIÇÃO CORPORAL.
+Consigna-se que o feito não é simples, uma vez que trata de acusação dirigida a dois réus pelo cometimento de três crimes, os quais, em tese, concernem à suposta quadrilha de furto e desvio de combustíveis. As noticiadas circunstâncias do delito denotam periculosidade concreta da ação, visto que não consta no inquérito sequer a necessária habilitação e treinamento do paciente para o transporte do material explosivo. Diante disso, uma análise cuidadosa da situação pessoal de cada envolvido é imprescindível, devendo, por isso o julgador se revestir de maiores cautelas
+nesse exame.
+Quanto à alegada falta dos pressupostos da prisão preventiva percebe-se que a decisão que determinou o recolhimento cautelar do paciente e do corréu restou adequadamente motivada.
+Em que pese o princípio da presunção de inocência seja manto protetor do indivíduo até o trânsito em julgado de eventual condenação, não se pode perder de vista que a cautelar extrema poderá ser imposta, desde que demonstrada imperiosa necessidade e respeitada a excepcionalidade e provisoriedade da medida, como fê-lo a autoridade coatora. Isso porque o princípio da presunção de inocência nesses casos é cotejado com outros também de quilate constitucional, como o da segurança. Portanto, conclui-se que a decisão que decretou a prisão preventiva foi suficientemente fundamentada em dados concretos, restando observado o disposto no artigo 93, inciso IX, da Constituição da República, artigos 312 e 315, do Código de Processo Penal.
+Alegadas condições pessoais favoráveis que não constituem óbice à imposição da medida extrema, desde que presentes os motivos autorizadores, conforme se vislumbra na hipótese em apreço. Nesse sentido orientação tranqüila deste Colegiado: HC 0011647-94.2017.8.19.0000 - Des. SIDNEY ROSA DA SILVA e HC 0065518- 73.2016.8.19.0000 - Des(a). [NOME].
+ORDEM QUE SE DENEGA."
+O Recorrente, nas presentes razões, reitera as alegações do writ originário de que: (i) é primário, possui residência fixa e várias anotações de trabalho lícito em sua carteira de trabalho; e (ii) não estão estão presentes os pressupostos autorizadores da preventiva na hipótese.
+Requer, em medida liminar e no mérito, a revogação da preventiva e, subsidiariamente, sua substituição por cautelares diversas.
+O pedido liminar foi indeferido às fls. 162-164.
+O Juízo de primeiro grau e o Tribunal de origem prestaram informações imprescindíveis à elucidação do feito, respectivamente, às fls. 195-208 e fls. 175-179.
+O Ministério Público Federal se manifestou pelo desprovimento do recurso às fls. 181-183.
+É o relatório inicial.
+Passo a decidir.
+Em consulta ao site oficial que o Tribunal de Origem mantém na internet, constatei a superveniência de decisão, datada de 19/06/2018, que relaxou a prisão do Recorrente em virtude do reconhecimento de excesso de prazo para a formação da culpa, impondo-lhe a medida cautelar de comparecimento mensal em juízo para informar e justificar as atividades e de manutenção do endereço atualizado nos autos.
+Por tal razão, fica superada a análise das teses constantes na presente impetração, que se insurgia contra o acórdão ora impugnado, conforme jurisprudência desta Corte:
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE ABSTRATA DOS FATOS. CONSEQUÊNCIAS NEFASTAS DO DELITO. ARGUMENTOS GENÉRICOS. MERAS PRESUNÇÕES. DISCURSO JUDICIAL PURAMENTE TEÓRICO. CONDIÇÕES PESSOAIS FAVORÁVEIS. CONSTRANGIMENTO ILEGAL CONFIGURADO. SUPERVENIENTE CONCESSÃO DE LIBERDADE PROVISÓRIA PELO JUÍZO SINGULAR. PEDIDO PREJUDICADO.
+ ..
+4. De toda sorte, ainda que assim não fosse, supervenientemente à presente impetração, a Magistrada singular reconheceu, de ofício, o excesso de prazo para o término da instrução processual e, por conseguinte, concedeu ao paciente liberdade provisória mediante o cumprimento de medidas cautelares diversas da prisão.
+5. Habeas corpus prejudicado, pela superveniente perda de objeto, com fulcro no art. 34, inciso XX, do Regimento Interno desta Corte Superior." (HC 357.896, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 13/12/2018; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, inciso XI, do RISTJ, JULGO PREJUDICADO o recurso ordinário.
+Publique-se. Intimem-se.
