@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de AMAURI PEREIRA MANZANO JUNIOR contra acórdão do Tribunal de Justiça do Estado do Paraná (HC n. 0000443-03.2018.8.16.0000).
+Consta dos autos que o paciente foi preso em flagrante em 21/7/2017 (prisão convertida em preventiva), por suposta prática dos crimes previstos nos artigos 157, § 2º, I e II, e § 3º, c/c art. 14, II; e art. 288, todos do Código Penal, porque (e-STJ fl. 12):
+ ..  o ora paciente foi preso dentro de um carro em frente a um restaurante, denominado Mapy, quando seus comparsas supostamente armados se preparavam para praticar o roubo daquele estabelecimento comercial.
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando (e-STJ fl. 10):
+a prisão preventiva do paciente foi decretada em 21/07/2017 sem que fossem demonstrados os requisitos do art. 312 do Código de Processo Penal, com fundamento somente no fato de o suposto crime ter sido cometido com uso de arma de fogo, embora não haja nos autos qualquer informação de que o paciente estivesse armado. Alegou que o paciente é trabalhador autônomo e responsável pelo sustento de dois filhos menores e de sua avó, sendo claro que a prisão do paciente trará consequências de toda ordem para a família. Ressaltou que o paciente desconhecia a intenção criminosa dos demais envolvidos e somente no momento da abordagem teve conhecimento de que um deles portava uma arma. Aduziu que a fase investigativa já se encontra superada, não havendo necessidade do acautelamento do paciente.
+O Tribunal de origem, contudo, denegou a ordem. A decisão colegiada recebeu a seguinte ementa (e-STJ fl. 9):
+HABEAS CORPUS. ROUBO E LATROCÍNIO NA FORMA TENTADA E ASSOCIAÇÃO CRIMINOSA (ART. 157, § 2º, I E II; § 3º, IN FINE , C/C ART. 14, II; E ART. 288, TODOS DO CÓDIGO PENAL). ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DE AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA. IMPROCEDÊNCIA. EVIDENCIADOS O FUMUS COMISSI DELICTI E O PERICULUM LIBERTATIS. DECISÃO FUNDAMENTADA NA GRAVIDADE CONCRETA DO CRIME E NA GARANTIA DA ORDEM PÚBLICA. INVIÁVEL A APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. DECISÃO MANTIDA. ORDEM DENEGADA.
+Na presente oportunidade, o impetrante alega que o paciente não portava arma de fogo, não realizou nenhum disparo e não sabia do plano criminoso dos corréus. Reitera, ainda, a ausência dos requisitos autorizadores da medida cautelar extrema, bem como afirma ter residência fixa, trabalho lícito e é o responsável pela subsistência de sua família.
+Diante do exposto, pede, liminarmente e no mérito, a substituição da prisão preventiva por medidas cautelares diversas da prisão. Requer, também, que em eventual sentença condenatória, seja garantido a direito de apelar em liberdade.
+O pleito urgente foi indeferido (e-STJ fls. 30/32).
+Prestadas as informações (e-STJ fls. 45/47), o Ministério Público Federal manifestou-se pela prejudicialidade da impetração (e-STJ fl. 50).
+É o relatório. Decido.
+Consoante as informações prestadas pelo Juiz a quo, sobreveio sentença absolutória nos autos da ação penal originária, tendo sido expedido alvará de soltura em favor do acusado (e-STJ fl. 46).
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar do ora paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique. Intime-se.
