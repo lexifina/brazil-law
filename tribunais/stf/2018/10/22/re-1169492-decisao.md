@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Distrito Federal, assim ementado:
+    “TRIBUTÁRIO E ADMINISTRATIVO. INCIDÊNCIA DE CONTRIBUIÇÃO SOCIAL. GRATIFICAÇÕES DE DESEMPENHO. INCIDÊNCIA APENAS SOBRE OS VALORES INCORPORÁVEIS AOS PROVENTOS DE INATIVIDADE. CARÁTER CONTRIBUTIVO E SOLIDÁRIO DO SISTEMA PREVIDENCIÁRIO. STF - ADI 2010 E ADI 3105. SENTENÇA REFORMADA. RECURSO PROVIDO. “ (eDOC 1)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a” e “b”, da Constituição Federal, aponta-se violação aos artigos (arts. 194; 195; 201, caput e §11, do texto constitucional.
+    Nas razões recursais sustenta-se, em síntese, a obrigatoriedade da incidência da contribuição previdenciária sobre o valor da Gratificação de Desempenho da Carreira da Previdência, Saúde e Trabalho (GDPST), em observância ao princípio da solidariedade.
+    É o relatório.
+    Decido.
+    A irresignação recursal não merece prosperar.
+    O Tribunal de origem, ao analisar o conjunto fático-probatório dos autos e a legislação aplicável (Lei 11.355/2006) , assim decidiu:
+    “No caso concreto, os critérios para fins de incorporação da Gratificação de Desempenho percebida pela parte autora aos proventos de aposentadoria ou às pensões estão elencados na Lei nº 11.355/2006 e determinam que a incorporação da gratificação corresponderá a, no máximo, 50 (cinquenta) pontos.  Tendo em vista que a incorporação, para os inativos, é limitada ao máximo de 50 (cinquenta) pontos, também sua contribuição social deveria ser limitada à parte incorporável aos proventos de aposentadoria. Os descontos de contribuição previdenciária, todavia, ocorrem sobre a integralidade dos valores recebidos a título de gratificação de desempenho, ou seja, inclusive sobre percentual não incorporável aos proventos de inatividade, fato este que, pelas razões já expostas, já se mostra suficiente para configurar o pagamento a maior do mencionado tributo no período em que o autor fez jus ao recebimento da referida gratificação.
+    No julgamento do PEDILEF nº 0503329-74.2013.4.05.8101 (realizado no dia 19/11/2015), a TNU utilizou os mesmos fundamentos aqui apresentados, asseverando que a União não deve – a título de contribuição previdenciária – descontar valores sobre os quais incidam pontuação de gratificação de desempenho que ultrapassa a que será incorporada na aposentadoria. ”(eDOC 12, p. 2)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ainda, divergir do entendimento adotado pelo tribunal de origem demandaria o revolvimento do conjunto fático-probatório dos autos, o que também inviabiliza o processamento do presente recurso extraordinário, diante da incidência da Súmula 279 do STF.
+    Nesse sentido, confiram-se os seguintes julgados de ambas as Turmas:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO GDPST. 1. A discussão relativa à incidência de contribuição previdenciária sobre gratificação cinge-se ao âmbito infraconstitucional. Precedentes. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC/15. (ARE 968.443 AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 4.11.2016)
+    Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Contribuição previdenciária. GDPST - Gratificação de Desempenho da Carreira da Previdência, Saúde e Trabalho. Parcela não incorporável à remuneração. 4. Matéria infraconstitucional. Ofensa reflexa. Precedentes. 5. Agravo regimental a que se nega provimento. (ARE 968.468 AgR, minha relatoria, Segunda Turma, DJe 24.5.2017)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO GDPST: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 783.377 AgR, Min. Cármen Lúcia, Segunda Turma, DJe 24.2.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
