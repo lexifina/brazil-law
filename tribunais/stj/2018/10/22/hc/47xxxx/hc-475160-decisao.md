@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça Miliar de São Paulo (Apelação n. 000025636720179260040) - fl. 12:
+POLICIAL MILITAR - CORRUPÇÃO PASSIVA - SENTENÇA CONDENATÓRIA - APELO MINISTERIAL REQUERENDO A REGRESSÃO PARA O REGIME FECHADO - PRELIMINARES DEFENSIVAS DE ILEGALIDADE E, NO MÉRITO, CONDENAÇÃO CONTRÁRIA ÀS PROVAS E EXASPERAÇÃO DA PENA IMPOSTA- AS PROVAS REVELARAM A CONDUTA CRIMINOSA DO RÉU - APELO MINISTERIAL PROVIDO E RECURSO DEFENSIVO IMPROVIDO
+Policial militar denunciado pela prática do crime de corrupção passiva (art. 308, CPM) foi condenado em primeiro grau, com imposição de regime menos gravoso. O apelo ministerial procede, pois as alegações invocadas subsistem, haja vista que o regime fechado é o único capaz de reparar o dano provocado pela atividade criminosa do condenado. Preliminares defensivas afastadas, ss conversas degravadas, assim como os depoimentos das testemunhas, constituem os elementos mais que suficientes para a certeza absoluta da autoria e da materialidade do grave delito imputado ao Apelante, o qual mantinha contatos freqüentes com os integrantes da quadrilha, tornando o pleito de absolvição improcedente.
+Consta dos autos que o paciente foi condenado à pena de 7 anos e 6 meses de reclusão, no regime inicial semiaberto, como incurso no arts. 308, §1º, e 309, parágrafo único, ambos do Código Penal Militar.
+O recurso de apelação do Ministério Público foi provido para impor o regime inicial fechado.
+Alega o impetrante que a fixação do regime fechado implica em constrangimento ilegal, em face da primariedade, dos bons antecedentes, do trabalho lícito (ainda exercido na PM) e das circunstâncias judiciais favoráveis (fl. 4).
+Requer a concessão da ordem para que seja mantida a fixação do regime inicial semiaberto, garantindo-se a continuidade do cumprimento da pena no aberto, tendo em vista que já houve a progressão.
+É o relatório.
+A ilegalidade apontada não ficou configurada.
+Observado o quantum da pena e as circunstâncias judiciais desfavoráveis, além da pena-base acima do mínimo legal, verifica-se regular a fundamentação do acórdão ao impor o regime inicial mais gravoso (fl. 19):
+Conforme bem salientou o representante do Ministério Público, a sentença recorrida exasperou a pena imposta destacando a reiteração na conduta; a intensidade no dolo; a ambição financeira do réu em prejuízo da honra, dignidade e deveres de sua função; o uso expressivo do tempo, particularmente de horas de serviço, dedicados à empreitada criminosa;a indiferença e o pouco caso do réu para com a segurança pública, desenvolvendo suas condutas delitivas na área da própria OPM em que atuava e o grande perigo de dano em sua conduta. Assim sendo e com base na própria fundamentação do aumento de pena, não é admissível a manutenção de regime menos gravoso que o fechado, para quem acarretou tanto prejuízo à coletividade.
+
+Ademais, consta dos autos que o Magistrado de primeiro grau, ao dar cumprimento ao acórdão ora impugnado, considerou o tempo de pena já cumprido e o lapso temporal para progressão e determinou o recolhimento do ora paciente no regime semiaberto (fl. 21).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
