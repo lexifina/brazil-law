@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 1.074/1.075, que não conheceu do recurso.
+A parte embargante sustenta que a decisão recorrida foi proferida com base em "premissa fática equivocada", pois, foi o " ROC protocolado em 19.02.2018, devidamente acompanhado do comprovante (idôneo e dotado de fé pública) de que os dias 12, 13 e 14 de fevereiro de 2018 foram feriados forenses na Justiça Estadual do Ceará" (fl. 1.081).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Ocorre que, o início tardio ou o encerramento antecipado do expediente forense não torna esse dia "não-útil", ou seja, a disciplina desse fato processual não está regulada no art. 216 do CPC, mas sim, no art. 224, § 1º, do mesmo diploma processual, o qual sustenta que se "o expediente forense for encerrado antes ou iniciado depois da hora normal" os "dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte".
+É o que aconteceu nos autos no que concerne ao dia 14/2/2018 (fl. 338, Portaria n. 137/2018).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
