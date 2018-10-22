@@ -1,0 +1,34 @@
+DECISÃO
+ELCIO RODRIGUES [NOME] alega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0003195-80.2014.8.26.0073.
+Nesta Corte, a defesa sustenta, em resumo, a ausência de motivação idônea para exasperar a pena-base, além de reputar desproporcional o acréscimo estabelecido, bem como para fixar a fração máxima de aumento pela interestadualidade do crime. Assere, ainda, que não foi realizada a detração do período de prisão preventiva a fim de estabelecer o regime inicial de cumprimento da pena.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impugnado. No mérito, postula pela redução da pena.
+Indeferida a liminar (fls. 234-235), o Ministério Público Federal manifestou-se pela concessão de habeas corpus, de ofício (fls. 239-244).
+Decido.
+O paciente foi condenado à pena de 8 anos e 4 meses de reclusão, no regime inicial fechado, e 1.943 dias-multa, como incurso no art. 35, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006. A reprimenda foi assim individualizada (fls. 82-83, grifei):
+ ..
+08. Em relação ao acusado [NOME], na primeira fase da dosimetria, atendendo ao disposto no artigo 59 do Código Penal e analisando com preponderância as circunstâncias previstas no artigo 42 da Lei 11.343/06, entendo que as circunstâncias judiciais são desfavoráveis, vez que integrava uma complexa organização criminosa, a qual desemprenhava (sic) uma intensa movimentação de entorpecente, comercializado entre vários Estados da Federação, bem como possui mais antecedentes (certidão de fls. 21 apenso próprio). Deste modo, fixo a pena base acima do mínimo legal, para resultar em 05 (cinco) anos de reclusão, bem como o pagamento de 1.166 (um mil cento e sessenta e seis) dias-multa.
+Na segunda fase, não há circunstâncias agravantes ou atenuantes.
+Na terceira fase, está presente a causa de aumento prevista no artigo 40, inciso V, da Lei 11.343/06, portanto, tendo em vista que o delito atingem diversos estados da Federação, majoro a pena em 2/3, para resultar cm 08 (oito) anos e 04 (quatro) meses de reclusão, bem como o pagamento de 1943 (um mil e novecentos e quarenta e três) dias-multa.
+Fixo o regime fechado como o inicial para o cumprimento da pena, tendo em vista o montante da pena, bem como as circunstâncias judiciais desfavoráveis, nos termos do artigo 33 do Código Penal.
+Quanto à pena-base, cumpre salientar que a sua fixação é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+No caso, o Juízo singular - no que foi acompanhado pela Corte estadual - ressaltou a complexidade e o grande alcance da associação integrada pelo réu, além dos seus maus antecedentes, para exasperar a pena-base.
+Conforme a jurisprudência desta Corte Superior, elementos indicativos do nível de organização do grupo voltado ao comércio de drogas ou à extensão territorial por ele atendida são idôneos para justificar a exasperação da pena-base. Do mesmo modo, o registro de condenação definitiva anterior, ainda que ultrapassado o período depurador previsto no art. 64, I, do Código Penal.
+Ilustrativamente:
+ ..
+I - A fixação da pena-base se revela proporcional e fundamentada, uma vez que as instâncias ordinárias ao invocar as circunstâncias desfavoráveis em relação aos vetores acima indicados, assim fizeram em harmonia com o entendimento jurisprudencial desta Corte, notadamente porque levada em consideração a complexidade da associação criminosa, atuante em 3 (três) municípios, portanto, fundamentado o aumento com elementos que extrapolam o tipo penal.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.107.918/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 28/2/2018, grifei)
+ ..
+8. À luz do art. 64, inciso I, do Código Penal, ultrapassado o lapso temporal superior a 5 anos entre a data do cumprimento ou extinção da pena e a infração posterior, as condenações penais anteriores não prevalecem para fins de reincidência. Podem, contudo, ser consideradas como maus antecedentes, nos termos do art. 59 do Código Penal. Conquanto não se desconheça o conteúdo da decisão da Segunda Turma do Supremo Tribunal Federal, tomada por maioria de votos nos autos do HC n. 126.315/SP, de Relatoria do Min. Gilmar Mendes (julgado em 15.9.2015 e publicado em 7.12.2015), o tema não se encontra pacificado no âmbito daquela Corte, sendo objeto de repercussão geral (RE n. 593.818).
+ ..
+11. Ordem parcialmente concedida, a fim de reduzir a reprimenda imposta ao paciente ao patamar de 5 anos, 2 meses e 15 dias de reclusão, mais o pagamento de 520 dias-multa, mantidos os demais termos da condenação.
+(HC n. 416.800/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 9/4/2018, destaquei)
+Desse modo, não identifico ilegalidade no decisum impugnado.
+No entanto, como evidenciado pelo Subprocurador-Geral da República [NOME], a mesma circunstância - abrangência territorial da associação delitiva - foi utilizada para exasperar a pena-base e estabelecer a fração de aumento na terceira etapa da dosimetria, o que configura indevido bis in idem.
+Como a ilegalidade adveio de ato emanado do Juízo de primeiro grau, caberá a ele realizar nova dosimetria da pena, com a menção a tais circunstâncias em somente uma das etapas da dosimetria.
+Ainda, as instâncias antecedentes nada disseram sobre o período em que o réu esteve cautelarmente privado de sua liberdade, ao estabelecerem o regime inicial de cumprimento da pena. Nos termos do art. 387, § 2º, do Código de Processo Penal, modificado pela Lei n. 12.736/2012, o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade, o que não se confunde com progressão de regime.
+De acordo com a jurisprudência deste Superior Tribunal, a verificação da ocorrência de detração penal, em sentença proferida após a vigência da Lei n. 12.736/2012 - como no caso dos autos, em que o decreto condenatório foi prolatado em 29/3/2016 (fl. 85) -, é matéria afeta ao Juiz sentenciante.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para determinar o retorno dos autos ao Juízo monocrático, a fim de que proceda à nova dosimetria da pena, em face do indevido bis in idem, com a utilização dos elementos relacionados à complexidade da associação integrada pelo paciente em somente uma das etapas da dosimetria, bem como para aplicar o instituto da detração.
+Comunique-se, com urgência, o inteiro teor deste decisum às instâncias ordinárias.
+Publique-se e intimem-se.
