@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de WANDERSON DUARTE PENICHE, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Na origem, o paciente foi condenado à pena de 1 ano e 8 meses de reclusão e ao pagamento de 166 dias-multa, no valor unitário mínimo legal, em regime inicial fechado, pela prática do crime de que trata o art. 33, caput, da Lei n. 11.343/2006.
+O TJSP negou provimento ao apelo defensivo.
+Neste writ, a defesa sustenta constrangimento ilegal diante da fixação de regime mais severo, embora preenchidos os parâmetros legais que permitem a expiação da pena em regime aberto.
+Requer, inclusive liminarmente, a fixação do regime aberto, a substituição da pena por restritivas de direitos, bem como pugna para que o paciente aguarde em liberdade o julgamento do recurso especial interposto.
+A liminar foi deferida (e-STJ, fls. 61-64).
+O Ministério Público opinou pelo não conhecimento do writ e pela concessão da ordem de ofício, para fixação do regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direito (e-STJ, fls. 90-97).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem de ofício.
+Como é cediço, a obrigatoriedade do cumprimento da pena em regime inicial fechado aos sentenciados por crimes hediondos e a eles equiparados não mais subsiste diante da declaração de inconstitucionalidade, incidenter tantum, do § 1º do art. 2º da Lei n. 8.072/1990, pelo STF, no julgamento do HC n. 111.840/ES, em 27/7/2012.
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal e, na hipótese de condenado por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais descritas no art. 59 do Código Penal.
+Com efeito, a teor da Súmula n. 440 do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+No mesmo sentido, as Súmulas n. 718 e 719 do STF estabelecem o seguinte:
+Súmula n. 718 do STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Súmula n. 719 do STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+No caso, o Tribunal de origem justificou o modo mais gravoso de cumprimento de pena tão somente na hediondez e na gravidade abstrata do delito de tráfico de drogas. Entretanto, tendo sido fixada a pena definitiva em 1 ano e 8 meses de reclusão, verificada a primariedade do réu e sendo favoráveis as circunstâncias do art. 59 do CP, o paciente deve iniciar o cumprimento da pena reclusiva em regime aberto (sobretudo quando considerada a pequena quantidade de entorpecentes apreendidos 13,6g de maconha, 3,7g de cocaína e 1,7g de crack).
+Nesse sentido, veja-se este precedente:
+" ..
+2. O Plenário do Supremo Tribunal Federal, em 27/7/2012, ao julgar o HC 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a redação que lhe foi dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+3. Para a imposição de regime prisional mais gravoso do que a pena comporta é necessário fundamentação específica, com base em elementos concretos extraídos dos autos.
+4. Sendo o paciente primário, com circunstâncias judiciais favoráveis, e a quantidade e a diversidade dos entorpecentes apreendidos (128g de maconha e 26g de cocaína), justificam a fixação do regime legal, ou seja, o modo aberto. O regime inicial fechado, excessivamente mais severo do que a pena de 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, revela-se desproporcional.
+5. Do mesmo modo, o indeferimento da substituição da pena privativa de liberdade por restritivas de direitos não se justifica, mormente porque preenchidos todos os requisitos do art. 44 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida de ofício, para fixar o regime inicial aberto e determinar a substituição da pena de liberdade por duas restritivas de direitos, a serem fixadas pelo Juízo das Execuções Penais." (HC 378.720/SP, rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, j. 7/2/2017, DJe 10/2/2017).
+Por fim, pelas mesmas razões acima alinhavadas (primariedade do agente e circunstâncias judiciais favoráveis), é cabível a substituição da pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo de execução, valendo-se anotar que o Superior Tribunal de Justiça e o Supremo Tribunal Federal entendem que não existe óbice na Lei de Drogas para a concessão do citado benefício quando preenchidos os requisitos legais do art. 44 do Código Penal.
+Cito, a propósito, o seguinte precedente:
+" ..
+4. Com base no julgamento do HC 97.256/RS pelo STF, declarando incidentalmente a inconstitucionalidade do § 4º do art. 33 e do art. 44, ambos da Lei n. 11.343/2006, o benefício da substituição da pena passou a ser concedido aos condenados pelo crime de tráfico de drogas, desde que preenchidos os requisitos insertos no art. 44 do Código Penal.
+5. Hipótese em que a sentença, mantida pelo acórdão que julgou a apelação, referiu-se apenas à gravidade abstrata do tráfico de drogas para fixar o regime inicial fechado e negar a substituição da pena privativa de liberdade por restritiva de direitos.
+6. O quantum da condenação (1 ano e 8 meses), a primariedade e a análise favorável das circunstâncias judiciais permitem à paciente iniciar o cumprimento da pena privativa de liberdade no regime aberto, conforme art. 33, § 2º, alínea c, do CP, além da substituição por restritiva de direitos.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial aberto, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo da Vara de Execuções Criminais." (HC 377.765/SP, rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, j. 6/6/2017, DJe 13/6/2017.)
+Ante o exposto, nos termos do art. 34, XX, do RISTJ, não conheço do habeas corpus. Contudo, concedo a ordem de ofício, para, confirmando a liminar, fixar o regime aberto e substituir a pena privativa de liberdade por restritivas de direito a ser estabelecida pelo Juízo de execução.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, arquivem-se os autos.
