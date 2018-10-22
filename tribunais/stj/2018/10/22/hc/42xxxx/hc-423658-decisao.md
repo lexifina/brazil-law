@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente teve indeferido o pedido de comutação de penas com base no Decreto n.º 8.615/2015, porque ausente o requisito objetivo, vez que o paciente, reincidente, não teria cumprido 1/3 (um terço) da pena remanescente até 25/12/2015, a contar do último delito (23/03/2014) (fl. 11).
+A Corte de origem não conheceu o agravo em execução interposto por entender estar o mandamus instruído indevidamente, pois ausente o cálculo de liquidação pelo qual se baseou o Juízo de 1º grau para indeferir o pedido (fls. 43/47).
+Sustenta a impetrante que o paciente, reincidente, cumpriu 1/3 (um terço) da pena antes de 24/12/2015, bem como não há anotação de falta disciplinar em seu desfavor nos doze meses anteriores ao Decreto.
+Alega que o lapso de 1/3 (um terço) das penas pode ser facilmente constatado por meio do cálculo de liquidação de penas contido na folha de antecedentes criminais que instrui o agravo em execução.
+Aduz que, na verdade, a irresignação consiste na premissa adotada para a elaboração do referido cálculo, qual seja, o último delito praticado pelo sentenciado (23/03/2014) constitui marco interruptivo do lapso para fins de comutação. Ou seja, o Juízo da VEC entendeu que a prática de crime no curso do cumprimento da pena interrompe o lapso para fins de indulto/comutação.
+Defende que a aplicação de sanção por falta grave não interrompe a contagem do lapso temporal para obtenção de indulto ou comutação de penas.
+Requer a concessão da ordem, para que seja reformada a decisão prolatada, determinando-se a aplicação da comutação com fundamento no Decreto Presidencial n.º 8.615/2015.
+A liminar foi indeferida à fl. 67.
+As informações foram prestadas às fls. 74/93 e 95/101.
+O Ministério Público Federal manifestou-se à fl. 103.
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, não sendo cabível a impetração de habeas corpus em substituição aos recursos e ações cabíveis, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+Ademais, no presente caso, verifica-se a ausência de debate da tese discutida neste writ  concessão de comutação de penas  , pois a Corte de origem entendeu que o recurso de agravo em execução não estaria devidamente instruído.
+Este Superior Tribunal de Justiça possui pacífica jurisprudência no sentido de que, inexistindo discussão, pelo Tribunal de origem, acerca da tese debatida, fica impedida sua análise no presente writ, sob pena de haver nítida supressão de instância.
+A propósito, confiram-se os seguintes precedentes das Turmas que compõem a Terceira Seção:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI DA CONDUTA. TENTATIVA DE EVASÃO DO DISTRITO DA CULPA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO ORDINÁRIO EM HABEAS CORPUS PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e dos requisitos previstos no art. 312 do Código de Processo Penal. Deve, ainda, ser mantida a prisão antecipada do agente apenas quando não for possível a aplicação de medida cautelar diversa, nos termos do previsto no art. 319 do CPP.
+2. Na hipótese em exame, a prisão preventiva foi adequadamente motivada, como garantia da ordem pública, com base em elementos concretos extraídos dos autos, restando demonstrada a extrema gravidade dos fatos, evidenciada no modus operandi da conduta. In casu, o recorrente e sua comparsa teriam simulado ser clientes de um estabelecimento comercial para então render uma funcionária e subtrair, mediante ameaça de um revolver os produtos da loja. Após os fatos, tentaram evadir-se do local dos fatos, empreendendo fuga, sendo alcançados e presos pela Polícia Militar.
+3. Esta Corte Superior possui entendimento firme no sentido de que a presença de condições pessoais favoráveis do agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+4. É "indevida a aplicação de medidas cautelares diversas da prisão quando esta encontra-se justificada na gravidade concreta do delito e na periculosidade social do réu, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública" (HC 315.151/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 28/4/2015, DJe de 25/5/2015).
+5. A matéria relativa ao excesso de prazo para a formação da culpa não foi objeto de análise pelo Tribunal de origem, razão pela qual não pode ser examinada por esta Corte, sob pena de indevida supressão de instância. (grifo nosso)
+6. Recurso ordinário em habeas corpus parcialmente conhecido e desprovido.
+(RHC 80.053/CE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/03/2017, DJe 27/03/2017)
+Ante o exposto, com fundamento no artigo 34, inciso XX, do RI/STJ, não se conhece do habeas corpus.
+Publique-se. Intime-se.
