@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, letras "a" e "c" da Constituição Federal, contra acórdão do Eg. Tribunal de Justiça do Estado de Rondônia, assim ementado:
+"EMENTA
+Apelação cível. Serviços de telefonia. Conduta negligente. Inscrição indevida. Danos morais. Quantum indenizatório. Termo de atualização monetária dos danos morais.
+Comprovado o ato ilícito decorrente de conduta negligente da empresa de telefonia que acarretou a inscrição indevida no Serasa é cabível indenização pelos danos morais suportados pelo consumidor.
+No tocante ao quantum indenizatório, é sabido que, deve o julgador, valendo-se de seu bom senso prático e adstrito ao caso concreto, arbitrar, pautado nos princípios da razoabilidade e proporcionalidade, um valor justo ao ressarcimento do dano extrapatrimonial.
+Nas condenações por dano moral, a atualização monetária e os juros de mora são devidos a partir da data do arbitramento - Súmula 362-STJ.." (e-STJ, fl. 112)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 133/140)
+Nas razões recursais, a ora agravante aponta, além de dissídio jurisprudencial, violação aos artigos 489, §1º, 1.022, do CPC, 4º , V e VI e 6º, VI, do CDC e 398, do CC. Sustenta, em síntese, violação de direito básico do consumidor por fixar valor de dano moral em valor não razoável de R$ 7.000,00 (sete mil reais). Requer a majoração de referida verba indenizatória.
+Pugna, ainda, que "que a sentença seja modificada nesta parte para que os juros de mora tenha seu termo a quo na data da ocorrência do dano ou seja do registro indevido." (e-STJ, fl. 153)
+É o relatório. Decido.
+Não prospera a alegada ofensa aos arts. 489 e 1.022, do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+Por seu turno, o Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+Com efeito, somente é possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame. Isso, porque o valor da indenização por danos morais, arbitrado R$ 7.000,00 (sete mil reais), não é irrisório nem desproporcional aos danos sofridos pelo agravante, que, conforme mencionado pelas instâncias ordinárias, apesar de ter seu nome inscrito nos órgão de proteção ao crédito foi excluído de forma administrativa. (e-STJ, fl. 69)
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DECLARATÓRIA DE COBRANÇA INDEVIDA C/C REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE MÁ PRESTAÇÃO DE SERVIÇO DE TELEFONIA - INSCRIÇÃO INDEVIDA EM CADASTRO SD INADIMPLENTES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO. INSURGÊNCIA DA RÉ.
+1. O tema relativo ao termo inicial dos juros moratórios foi ventilado tão somente nas razões do agravo regimental, configurando-se, portanto, inovação recursal, cuja análise é incabível no presente recurso em razão da preclusão consumativa.
+2. Incidência do óbice da súmula 7/STJ no tocante à tese de afastamento da responsabilidade civil. Tribunal local que, com amparo nos elementos de convicção dos autos, entendeu estar provado o fato constitutivo do direito do autor, decidindo pela presença dos requisitos ensejadores da reparação civil. Impossibilidade de reexame de fatos e provas.
+3. A indenização por danos morais, fixada em quantum sintonizado ao princípio da razoabilidade, não enseja a possibilidade de interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesta excessividade ou irrisoriedade do valor arbitrado.
+Incidência da Súmula n. 7/STJ. Precedentes.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 724.307/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/02/2016, DJe 24/02/2016)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPARATÓRIA POR DANOS MORAIS. EFETIVO ENVIO DA NOTIFICAÇÃO PRÉVIA. RESPONSABILIDADE DO ARQUIVISTA.INEXISTÊNCIA. REDUÇÃO DO QUANTUM INDENIZATÓRIO IMPOSSIBILIDADE. VALOR RAZOÁVEL. JUROS MORATÓRIOS. TERMO INICIAL. SÚMULA 54/STJ.
+1. Descabe falar em responsabilidade do arquivista quando a notificação prévia foi efetivamente remetida ao endereço informado pelo credor.
+2. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em tela.
+3. Os juros moratórios, em se tratando de responsabilidade civil extracontratual, fluem da data do evento danoso, conforme estabelecido na Súmula nº 54/STJ.
+4. Agravo regimental não provido."
+(AgRg no REsp 1265943/RS, desta Relatoria, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DANO MORAL. PRESUNÇÃO. SÚMULA 83/STJ. INDENIZAÇÃO. REVISÃO DO VALOR.
+IMPOSSIBILIDADE. JUROS DE MORA. TERMO INICIAL.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao art. 535 do Código de Processo Civil.
+2. O Tribunal de origem, com base nos fatos e provas dos autos, concluiu que houve inscrição indevida do consumidor em órgão de proteção ao crédito. A análise das razões do recurso, a fim de alterar tal entendimento, encontra óbice no verbete 7 da Súmula desta Corte.
+3. A jurisprudência pacífica deste Superior Tribunal de Justiça entende que o dano moral, oriundo de inscrição ou manutenção indevida em cadastro de inadimplentes, prescinde de prova, configurando-se in re ipsa, visto que é presumido e decorre da própria ilicitude do fato.
+4. Valor da indenização fixado com proporcionalidade e adequação não passível de revisão na instância especial.
+5. Os juros de mora devem ser mantidos nos termos em que determinado pelo Tribunal estadual não se aplicando, especificamente, ao caso o enunciado 54 da Súmula do STJ, em virtude do princípio que veda a reformatio in pejus.
+6. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 402.123/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2013, DJe 04/02/2014)
+Em relação ao termo inicial dos juros de mora, o acórdão recorrido encontra-se em desconformidade com a orientação jurisprudencial deste Sodalício, a qual estabelece que, em se tratando de responsabilidade extracontratual, os juros moratórios incidem desde a data do evento danoso, ou seja, da inscrição do nome da autora nos órgãos de proteção ao crédito. Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE ANULAÇÃO DE RESTRITIVOS DE CRÉDITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS - FRAUDE PERPETRADA POR TERCEIROS MEDIANTE USO DE DOCUMENTO FALSO - RESPONSABILIDADE OBJETIVA - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA FINANCEIRA.
+1. A indenização por danos morais fixada em quantum sintonizado com o princípio da razoabilidade não autoriza a interposição do recurso especial, dada a necessidade de exame de elementos de ordem fática, cabendo sua revisão apenas em casos de manifesto excesso ou irrisoriedade do valor arbitrado, o que não se evidencia no presente caso. Aplicação da Súmula 7/STJ.
+(..)
+3. Impossibilidade de análise de divergência jurisprudencial no tocante à reavaliação do quantum fixado a título de danos morais, uma vez que se verifica a impossibilidade de, relativamente ao acórdão confrontado, estabelecer-se juízo de valor acerca da relevância e semelhança dos pressupostos fáticos inerentes a cada uma das situações retratadas nos acórdãos confrontados que acabaram por determinar a aplicação do direito à espécie.
+4. Em se tratando de responsabilidade extracontratual, os juros de mora a serem acrescidos à indenização por danos morais têm incidência a partir do evento danoso, consoante entendimento consolidado na Súmula 54/STJ.
+5. Agravo regimental desprovido."
+(AgRg no REsp 1526457/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/08/2015, DJe 02/09/2015)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. FRAUDE. TERCEIRO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. DEVER DE INDENIZAR CONFIGURADO. EXISTÊNCIA DE INSCRIÇÕES ANTERIORES. IRRELEVÂNCIA. HIPÓTESE EM QUE NÃO SE APLICA A SÚMULA 385/STJ. JUROS MORATÓRIOS. TERMO INICIAL. RESPONSABILIDADE EXTRACONTRATUAL. INCIDÊNCIA DA SÚMULA 54/STJ.
+1. A incidência da Súmula 385 do Superior Tribunal de Justiça somente é aplicável às hipóteses em que a indenização é pleiteada em face do órgão mantenedor do cadastro de proteção ao crédito, que deixa de providenciar a notificação prevista no art. 43, § 2º, do CDC, antes de efetivar a anotação do nome do devedor no cadastro.
+2. "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual" (Súmula 54/STJ).
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1360338/MG, desta Relatoria, QUARTA TURMA, julgado em 16/05/2013, DJe 24/06/2013)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, para determinar a incidência dos juros de mora a partir do evento danoso (Súmula 54/STJ).
+Publique-se.
