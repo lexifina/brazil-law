@@ -1,0 +1,9 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em seu direito de locomoção, em decorrência de decisão do Desembargador relator do HC n. 43514-55.2018.8.16.0000, em trâmite no Tribunal de Justiça do Estado do Paraná, que, deixando de reconhecer o excesso de prazo, manteve a sua prisão preventiva.
+Consta dos autos que o paciente - denunciado, no âmbitoda "Operação Alexandria", pelo crime descrito no art. 2º, caput, c/c os §§ 2º e 4º, IV, da Lei n. 12.850/2013 - teve a segregação cautelar decretada pelo Juízo de Direito da 8ª Vara Criminal, do Foro Central, da Comarca da Região Metropolitana de Curitiba.
+Neste mandamus, o impetrante alega que há excesso de prazo para a formação da culpa. Aduz que o Supremo Tribunal Federal já reconheceu o mesmo constrangimento ilegal em relação a outro corréu. Diante disso, requer a extensão do benefício. Pede, inclusive liminarmente, a revogação da prisão preventiva.
+Decido.
+Inicialmente, destaco que as matérias aventadas na presente ordem de habeas corpus não foram objeto de análise pelo Tribunal de origem, ficando, assim, impedida sua admissão, sob pena de incidir-se na indevida supressão de instância.
+Todavia, sequer é o caso de investigar a existência de teratologia a justificar a superação da Súmula n. 691 do STF, visto que o STJ não tem competência para analisar pedido de extensão de decisão originalmente proferida por outro órgão jurisdicional, máxime do Colendo Supremo Tribunal Federal. Nesse sentido, mutatis mutandis: RHC n. 70.232/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/5/2017; HC n. 71.162/RJ, Rel. Ministro Jorge Mussi, 5ª T., DJe 1º/2/2017; HC n. 20.706/TO, Rel. Ministro Vicente Leal, 6ª T., DJ 19/8/2002.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
