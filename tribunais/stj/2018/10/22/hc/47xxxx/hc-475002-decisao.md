@@ -1,0 +1,12 @@
+DECISÃO
+CLAUDEMIR DOS SANTOS DE MELLO alega sofrer coação ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro no Agravo em Execução n. 0051989-13.2018.8.19.0001.
+A Defensoria Pública alega não ser razoável e proporcional a regressão do paciente ao regime semiaberto, que cumpria a pena em casa de albergado e empreendeu fuga. A impetrante sustenta que o apenado não praticou novo delito durante o tempo em que permaneceu evadido do sistema prisional e que a lei não exige a regressão de regime diante da prática de falta grave.
+Requer, por isso, o restabelecimento da decisão do Juízo das Execuções.
+Decido.
+O paciente cumpria pena em regime aberto e na data de 17/1/2017 evadiu-se do estabelecimento penal onde cumpria pena, sendo recapturado em 5/7/2017.
+O Juízo das execuções entendeu não estarem presentes as causas para a regressão ao modo intermediário, pois "este vem cumprindo sua pena regularmente na Casa de Albergado há mais de 4 meses, já tendo, inclusive, sido ouvido no curso do Procedimento Disciplinar" (fl. 20).
+Irresignado, o Ministério Público interpôs agravo em execução, qual foi dado provimento, porquanto "conforme farta jurisprudência desta corte  ..  expressão "forma regressiva" inserida neste dispositivo não alcança somente a modificação do regime para um mais severo, mas deve atingir até aqueles casos em que o condenado já cumpre o regime mais severo" (fl. 68).
+Não há nenhuma ilegalidade no aresto estadual, a atrair a concessão do habeas corpus. A pretensão da defesa vai de encontro à jurisprudência dominante deste Superior Tribunal, de que: "A prática de falta grave autoriza a regressão de regime prisional, conforme reza o art. 118, I, da Lei de Execução Penal. Importa, ainda, na alteração da data-base para a progressão de regime" (HC n. 438.756/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 11/6/2018).
+Ademais, a Sexta Turma já decidiu que "mostra-se inviável o reconhecimento de desproporcionalidade da regressão de regime do paciente pelo cometimento de falta grave, ante a justificativa para a não apresentação perante o Juízo no curso de execução de pena em regime mais brando (AgRg no HC n. 303.477/SC, Ministro Felix Fischer, Quinta Turma, DJe 1º/10/2015) 3. Agravo regimental improvido" (AgInt no HC n. 399.635/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/8/2017).
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego, in limine, este habeas corpus.
+Publique-se e intimem-se.
