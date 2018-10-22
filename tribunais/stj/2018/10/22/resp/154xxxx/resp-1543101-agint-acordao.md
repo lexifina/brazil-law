@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO IMPUGNADO. FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126 DO STJ. APLICAÇÃO. FUNDAMENTO INATACADO. SÚMULA 283 DO STF. INCIDÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. É manifestamente inadmissível o recurso especial manejado contra acórdão assentado em fundamentos constitucional e infraconstitucional, ambos suficientes e autônomas à preservação do decisum, quando a parte vencida não interpõe recurso extraordinário. Inteligência da Súmula 126 do STJ.
+3. Incide a Súmula 283 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por [NOME] e OUTRAS contra a decisão de e-STJ fls. 360/362, na qual não conheci do recurso especial ante a incidência das Súmulas 126 do STJ e 283 do STF.
+Em suas razões, a parte agravante reitera o teor do recurso especial não conhecido, sustentando que "não há que se falar em aplicação do teor das Súmulas nº 283 e 126 do STF ao presente caso, haja vista que os dispositivos apontados estabelecem com exatidão toda a controvérsia, qual seja a necessidade de reforma do acórdão do Tribunal de origem para que seja afastada a ocorrência de prescrição do fundo de direito" (e-STJ fl. 372).
+Requer, ao final, a reforma da decisão monocrática para que seja dado provimento ao recurso especial.
+Impugnação às e-STJ fls. 379/381.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito o registro, tem-se que a insurgência não merece prosperar.
+Com relação à incidência do óbice das Súmulas 126 do STJ e 283 do STF, extrai-se do acórdão prolatado pela Corte a quo (e-STJ fls. 320/321):
+ ..
+Não fosse isso, a pretensão das autoras estaria ainda impedida pela vedação do art. 7º, IV, da Constituição Federal, e da Súmula Vinculante nº 4, tratando-se de efetiva vinculação da remuneração ao salário mínimo. Do pedido de fls. 19 e tabelas de fls. 12/13 depreende-se que as autoras pretendem a fixação do salário mínimo no equivalente a aproximadamente 199% do salário da classe inicial, que por sua vez teria que ser fixado no piso de 2,5 salários mínimos. Chega-se a pretensão salarial equivalente a 4,98 salários míninos, que, a seguir o raciocínio das autoras, teria que ser revista a cada atualização do salário mínimo, em respeito ao piso salarial combinado com a manutenção das diferenças percentuais entre as classes.
+Com efeito, observo que o Tribunal de origem decidiu a questão mediante fundamentos constitucional e infraconstitucional, suficientes e autônomos à preservação do decisum.
+Todavia, a parte recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial manejado, sendo este manifestamente inadmissível nos termos da Súmula 126 do STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL ACOLHIDOS COM EFEITOS MODIFICATIVOS. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. CUMPRIMENTO DE SENTENÇA. REQUERIMENTO DA UNIÃO DE INGRESSO NO FEITO NA QUALIDADE DE ASSISTENTE SIMPLES. REMESSA DOS AUTOS À JUSTIÇA FEDERAL. IMPOSSIBILIDADE. PRINCÍPIOS DA CELERIDADE E ECONOMIA PROCESSUAL. ART. 5º, LXXVIII, DA CONSTITUIÇÃO. INCIDÊNCIA DA SÚMULA 126/STJ.
+1. Hipótese em que a União (Fazenda Nacional), após transitada em julgado há anos a sentença que condenara Centrais Elétricas Brasileiras S/A - Eletrobrás ao pagamento de juros remuneratórios referentes a cessões de créditos do empréstimo compulsório sobre o consumo de energia elétrica, requereu o seu ingresso na execução, na qualidade de assistente simples.
+2. O Tribunal de origem manteve a decisão que indeferiu a remessa dos autos à Justiça Federal ao fundamento de que o feito já tramita há mais de 11 (onze) anos e a determinação de nova diligência, com a remessa dos autos e conseqüente postergação do julgamento, poderia ocasionar prejuízo ao exequente, que conta com mais de 70 (setenta anos) de idade.
+3. A conclusão do acórdão recorrido está fundamentada nos princípios da celeridade e economia processual (art. 5º, LXXVIII, da Constituição), de modo que competia à União (Fazenda Nacional) interpor o recurso extraordinário.
+4. Se o acórdão tem fundamentos constitucional e infraconstitucional e não foi atacado por recurso extraordinário, incide a Súmula 126 do Superior Tribunal de Justiça. Razões dos agravos regimentais sem aptidão para infirmar a motivação da decisão agravada.
+5. Agravos regimentais da Eletrobrás e da União (Fazenda Nacional) desprovidos. (AgRg EDcl REsp 1.435.877/MG, Rel. Min. OLINDO DE MENEZES  Desembargador Convocado do TRF 1ª Região  , Primeira Turma, DJe 05/02/2016)
+PROCESSUAL CIVIL. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O Tribunal a quo decidiu a causa com base em argumentos constitucionais e infraconstitucionais. No entanto, a parte recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, perante o excelso Supremo Tribunal Federal.
+2. Aplica-se, na espécie, o teor da Súmula 126 do colendo Superior Tribunal de Justiça, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+3. A revisão da verba honorária implica, como regra, reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ). Excepciona-se apenas a hipótese de valor irrisório ou exorbitante, o que não se configura neste caso.
+4. Recurso Especial de que não se conhece. (REsp 1.703.178/SP, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 19/12/2017).
+Ademais, observa-se, quanto ao ponto, que as ora agravantes não se insurgiram nas razões do apelo nobre contra o referido fundamento do acórdão recorrido - vedação do art. 7º, IV, da Constituição Federal -, o que acaba por atrair a aplicação da Súmula 283 do STF, que dispõe que "é inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
