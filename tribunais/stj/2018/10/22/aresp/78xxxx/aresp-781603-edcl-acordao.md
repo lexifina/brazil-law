@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015).
+2. Hipótese em que o acórdão embargado foi claro ao assentar que infirmar o entendimento alcançado pelo Tribunal de origem, a fim de acolher os argumentos defendidos pela parte recorrente, encontra óbice na Súmula 7 do STJ.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de embargos de declaração opostos pelo ESTADO DE MATO GROSSO DO SUL contra acórdão que negou provimento a agravo interno, assim ementado (e-STJ fl. 4.347):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Infirmar o entendimento alcançado pela Corte de origem, a fim de acolher as teses suscitadas pelo recorrente, demandaria o reexame do conjunto fático-probatório dos autos, inviável na via de recurso especial (Súmula 7 do STJ).
+3. Agravo interno desprovido
+A parte embargante sustenta, em síntese, que a decisão proferida pelo Vice-Presidente do TJMS, após o aviamento deste apelo nobre, evidencia as gravíssimas falhas jurídicas que contaminam o acórdão recorrido.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material no julgado.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Com efeito, conforme firmado no aresto combatido, infirmar o entendimento alcançado pelo Tribunal de origem, a fim de acolher as teses defendidas - "o cerne da controvérsia está na forma do cálculo para apuração da vantagem pessoal. O adicional de função é uma verba complexa de ser calculada, composta de parcela fixa e outra variável, sendo a variável obtida pela multiplicação de um dos percentuais dos Decretos n. 10.611/01 e 12.076/06 sobre o vencimento base da carreira inicial, e a parcela fixa é um valor nominal invariável incluso no adicional de função" (e-STJ fl. 4.136) - encontra óbice na Súmula 7 do STJ.
+A propósito, confiram-se, no que interessa, os seguintes trechos do acórdão prolatado pela Corte a quo (e-STJ fls. 4.119):
+O v. acórdão proferido nos embargos à execução, cuja rescisão se postula nestes autos, é límpido em atestar que o laudo pericial, não impugnado devidamente pelo autor desta rescisória, deveria ser mantido posto que baseado no comando exarado na sentença mandamental.
+Nessa vertente, se a execução opera-se como instrumento de efetividade da sentença mandamental, entendo que deve seguir rigorosamente os limites impostos pelo julgado, que, no caso, assegurou aos impetrantes, ora requeridos o direito à inclusão da parcela denominada "vantagem pessoal", na base de cálculo do adicional de função, conforme bem delineado no acórdão rescindendo: "(..) Vê-se do laudo o critério de aplicação dos percentuais previstos para a rubrica "vantagem pessoal", sendo certo que, a meu ver a metodologia aplicada mostra-se correta, não havendo razões para não acolher o laudo técnico, com o qual concordou os credores e que o embargante não contestou de forma a demonstrar eventual erro nos cálculos. (..)" Assim, a pretensão para que se reconheça que o v. acórdão prolatado nos embargos à execução violou o disposto no artigo 37, inciso X, da Constituição Federal; artigo 105, inciso III, "1" da Lei n.º 1.102/90 c/c Decretos n.º 10.611/2011 e n.º 12.076/2006, não prospera, pois, nestes, segundo o decidido no v. acórdão rescindendo, somente foram confirmados os cálculos que observaram os critérios definidos nos autos do mandado de segurança transitado em julgado, sem que houvesse sido ajuizada ação rescisória para desconstituição do título executivo.
+Nesta ação, em momento algum o autor alegou que os cálculos acolhidos se divorciaram do título executivo, o que certamente ensejaria a rescisão do julgado para adequá-lo aos ditames da decisão exequenda mas, sim, insiste na tese de que a decisão rescindenda chancelou valores efetuados com percentuais superiores aos constantes em Legislação vigente à época da prolação da sentença mandamental.
+Impende consignar que, diversamente do alegado pela parte embargante, a Corte de origem inadmitiu o recurso especial, em decorrência da censura da Súmula 7 do STJ (e-STJ fls. 4.172/4.176).
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
