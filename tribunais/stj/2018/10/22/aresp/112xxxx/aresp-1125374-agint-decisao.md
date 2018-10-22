@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PRESCRIÇÃO. CORREÇÃO MONETÁRIA. EXPURGOS. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. A prescrição da demanda de revisão do benefício de previdência privada não atinge o próprio fundo de direito, mas apenas as diferenças não reclamadas de datas prévias aos 5 anos imediatamente anteriores à propositura da ação. Súmula 568/STJ.
+4. A Súmula 289/STJ, a qual dispõe que a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda, aplica-se apenas às hipóteses em que houve o rompimento definitivo do vínculo contratual entre o participante e a entidade de previdência privada complementar. Precedentes do STJ.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e parcialmente provido.
+DECISÃO
+Em virtude das razões apresentadas no agravo interno (fls. 448/463 e-STJ), reconsidero a decisão agravada e passo a nova análise do agravo em recurso especial interposto por FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL - REFER, contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/04/2017.
+Concluso ao gabinete em: 10/07/2017.
+Ação: de cobrança ajuizada por CLAIS MARIA BITTERNCORT DO VALE em face da agravante, visando a correção de benefício previdenciário percebido.
+Sentença: julgou procedente a demanda para condenar a agravante no pagamento dos valores atrasados referentes aos índices expurgados, relativos ao IPC de 84,32% de março de 1990, 44,80% de abril de 1990, 7,87% de maio de 1990, 21,87% de fevereiro de 1991 e 11,79% de março de 1991.
+Acórdão: acolheu parcialmente a preliminar de prescrição da apelação e negou provimento ao mérito.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 1022 do CPC 489, I, II, e III, §1º, III e IV e §3º do CPC/2015, 3º, parágrafo único, e 75 da LC 108/2001, 1º e 18, caput e §3º, da LC 109/2001, 178, §10, II e III, do CC/1916, 103 da Lei 8.213/91, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta a ocorrência da prescrição, uma vez que a pretensão teria nascido há mais de vinte anos antes do ajuizamento da ação, que por sua vez, ocorreu após 6 anos do recebimento do primeiro benefício. Aduz que os reajustes dos benefícios não sofrem a influência dos expurgos requeridos, mas sim dos critérios estabelecidos nos regulamentos.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos supostos pontos omissos e contraditórios, relativos ao direito da incidência do reajuste com base nos expurgos inflacionários, ainda que em gozo do benefício (fls. 282 e 285/286, e-STJ), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, em especial, sobre o cabimento da correção monetária sobre as contribuições vertidas e acumuladas em razão dos expurgos inflacionários, encotnra-se fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não havendo que se falar em violação do art. 489 do CPC/2015.
+- Da prescrição. Súmula 568/STJ
+O acórdão recorrido acolheu parcialmente a preliminar de prescrição para aplicar o prazo quinquenal à hipotese dos autos, não incidindo a prescrição sobre o fundo de direito.
+Assim, tem-se que a Corte de origem decidiu em conformidade com a jurisprudência do STJ no sentido de que a prescrição da pretensão de revisão do benefício previdenciário não atinge o fundo de direito, aplicando-se às parcelas vencidas há mais de 5 anos contados da propositura da ação. Nesse sentido: AgInt no AgInt no AgRg no REsp 1292546/SP, 4ª Turma, DJe 05/10/2018; REsp 1691075/RS, 4ª Turma, DJe 13/08/2018; REsp 1698667/RS, 3ª Turma, DJe 12/03/2018; AgInt no AREsp 829.903/SC, 3ª Turma, DJe 01/07/2016, e AgInt no AREsp 907.000/MG, 2ª Turma, DJe 29/09/2016.
+- Da correção monetária do benefício previdenciário. Súmula 568/STJ
+O acórdão recorrido decidiu que era cabível a recomposição pelo expurgos inflacionários do valor do benefício previdenciário, no caso da percepção do benefício previdenciário, como se vê do seguinte trecho:
+"Assim, não há dúvida de que é devida a incidência de correção monetária sobre as contribuições vertidas e acumuladas em plano de previdência privada. E tal raciocínio se aplica a ambos os casos: tanto quando o beneficiário opta pelo resgate total das parcelas, quanto quando ele opta pela conversão do seu saldo em um benefício mensal (aposentadoria/pensão).
+E o raciocínio é bem simples: mesmo se o saldo do fundo de reserva vier a ser convertido em aposentadoria, deve contemplar a correção plena já que, o referido valor total influencia diretamente no valor da parcela que será recebida pelo beneficiário do plano de previdência. Trata-se de conclusão lógica, decorrente dos cálculos atuariais que envolvem os benefícios concedidos" (fl. 286, e-STJ).
+Tal entendimento não se coaduna com a orientação firmada na jurisprudência do STJ no sentido de que deve haver recomposição plena somente para os casos de resgate das contribuição vertidas. Nesse sentido: AgInt no REsp 1616170/MG, 4ª Turma, DJe 26/09/2018, AgInt no AREsp 1120678/RJ, 4ª Turma, DJe 18/12/2017 e AgInt no REsp 1695561/MG, 3ª Turma, DJe 15/12/2017.
+Assim, merece provimento o recurso neste particular, nos termos da Súmula 568/STJ.
+Forte nessas razões, reconsidero a decisão de fls. 443/444 (e-STJ) e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do agravo em recurso especial para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, DAR-LHE PARCIAL PROVIMENTO determinando o retorno dos autos à origem para que o tribunal julgue a lide, aplicando o entendimento pacificado do STJ.
+Publique-se. Intimem-se.
