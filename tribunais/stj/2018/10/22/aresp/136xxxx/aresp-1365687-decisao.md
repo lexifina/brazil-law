@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. MANDADO DE SEGURANÇA. TRANSPORTE DE MADEIRA. GUIA FLORESTAL QUE NÃO ABRANGE TOTALIDADE DA CARGA. VIOLAÇÃO AOS DISPOSITIVOS DA LEI Nº 9.605/98 E DECRETO 6.514/2008. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA em face de decisão proferida pelo Tribunal Regional Federal da 1ª Região, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado (e-STJ fl. 263):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. IBAMA. TRANSPORTE DE MADEIRA. GUIA FLORESTAL REFERENTE APENAS A PARTE DA TOTALIDADE DA CARGA. LIBERAÇÃO DA PARTE REGULAR. REDUÇÃO. MULTA. POSSIBILIDADE. SENTENÇA MANTIDA.
+1. Esta Corte possui entendimento no sentido de ser indevida a apreensão da totalidade da carga de produto florestal, quando divisível, se parte dela estava coberta por guia florestal. Precedentes: AC 2006.36.00.005491-0/MT, Quinta Turma, Rel. Desembargador Federal João Batista Moreira 18/04/2012 e-DJF1 P. 16 e AC 0012335-56.2010.4.01.4100/RO, Sexta Turma, Rel. Desembargador Federal Kassio Nunes Marques, 28/02/2014 e-DJF1 [NOME].
+2. No caso dos autos, em que pese a constatação de que determinada quantidade de madeira estaria sendo comercializada sem autorização legal, verifica-se que parte da carga possuía permissão para transporte e comercialização (16.442m  de madeira de diversas essências), razão pela qual não merece reparos a sentença que autorizou a restituição da madeira acobertada pela respectiva documentação, bem como determinou para que a autoridade impetrada promova a redução proporcional da multa imposta no Auto de Infração n. 660150-D.
+3. Apelação do IBAMA e remessa necessária a que se nega provimento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, o recorrente aponta violação aos arts. 25, caput e 46, parágrafo único, da Lei 9.605/98, e 47, § 3º, do Decreto nº 6.514/2008.
+Em síntese, sustenta que os dispositivos indicados como violados amparam integralmente a apreensão pelo recorrente da totalidade da madeira transportada.
+A inadmissão do recurso especial se fez à consideração de que rever a posição adotada demandaria revolvimento do acervo fático-probatório, atraindo a incidência da Súmula 7/STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+Parecer do Ministério Público Federal (e-STJ fls. 320/324) pelo não conhecimento do recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+A pretensão não merece prosperar.
+Isso porque a controvérsia dos autos está em saber se a apreensão de toda a madeira é correta, tendo em vista que a licença em posse do transportador ou comerciante é insuficiente para acobertar e legitimar a posse de todo o material lenhoso encontrado pela fiscalização.
+O Tribunal a quo entendeu que é indevida a apreensão da totalidade da carga de produto florestal, quando divisível, se a parte dela estava coberta por guia florestal.
+Verifica-se que os comandos normativos indicados como violados não comportam exame no âmbito desta Corte de Justiça, porquanto ausente o necessário prequestionamento.
+É bem verdade que, enfrentada a questão/tese pelo Tribunal a quo, haverá prequestionamento. No entanto, se a questão não houver sido examinada por esse, não obstante ter sido instado a se manifestar - ainda que em sede de embargos declaratórios - é dever da parte recorrente interpor recurso especial por violação ao art. 1022 do CPC/2015, demonstrando em qual ponto o exame de tais dispositivos seria capaz de comprometer a verdade posta nos autos. Quedando-se inerte quanto a tal providência, incide, sim, à espécie o enunciado sumular nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AÇÕES COLETIVA E INDIVIDUAL. 1. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 2. EXISTÊNCIA DE LITISPENDÊNCIA. NECESSIDADE DO PEDIDO DE SOBRESTAMENTO DA AÇÃO INDIVIDUAL. EFEITOS DA COISA JULGADA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. 3. AGRAVO IMPROVIDO.
+1. Não enseja interposição de recurso especial matéria que não tenha sido ventilada no aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou, tampouco houve alegação, por parte do interessado, de ofensa ao art. 535 do Código de Processo Civil/1973 (1.022 do CPC/2015). Incidência da Súmula 211 do Superior Tribunal de Justiça.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 946.209/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2017, DJe 07/03/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PROTESTO DE TÍTULO. NULIDADE. PEDIDO DE DILIGÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NECESSÁRIO REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+(..)
+4. Incabível a alegação de divergência jurisprudencial sem a citação de acórdão paradigma. Incidência da Súmula 284 do STF.
+5. Agravo regimental a que se nega provimento
+(AgRg no AREsp 431.782/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/5/2014, DJe 12/5/2014)
+Ademais, observa-se que o Tribunal de origem concluiu expressamente "ser indevida a apreensão da totalidade da carga de produto florestal, quando divisível, se parte dela estava coberta por guia florestal."
+Nota-se, pois, que tal convencimento foi formado a partir do cotejo entre o auto de apreensão e a guia florestal para transporte da madeira. Alterar referida conclusão, implica em revolvimento de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. TRANSPORTE DE MADEIRA. PARTE REGULAR E PARTE IRREGULAR. UTILIZAÇÃO DA MADEIRA REGULAR COMO ACOBERTAMENTO DA IRREGULAR. APREENSÃO TOTAL. POSSIBILIDADE, EM TESE. SITUAÇÃO NÃO CONSTATÁVEL NOS AUTOS. REVISÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 1. Não obstante a razoabilidade da tese do Ibama de que é possível a apreensão da totalidade da carga quando a madeira transportada regularmente é usada para acobertar madeiras em desacordo com a legislação ambiental, na presente hipótese não é possível abstrair tais conclusões. 2. A pretensão de revisão do entendimento proferido na origem acerca da regularidade de parte das madeiras transportadas implica, no caso, reexame da matéria fático-probatória dos autos, o que é vedado em Recurso Especial, conforme Súmula 7/STJ. 3. Recurso Especial não conhecido. (REsp 1651673/RR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/03/2017, DJe 24/04/2017)
+Por fim, inviável a análise de eventual contrariedade ao Decreto n. 6.514/2008, pois o Decreto Regulamentar não se enquadra no conceito de lei federal, "o que inviabiliza sua discussão na via excepcional" (STJ, AgRg no REsp 1.421.807/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/03/2014).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+Publique-se.
