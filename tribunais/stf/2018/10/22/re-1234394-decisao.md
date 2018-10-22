@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro confirmou o entendimento do Juízo quanto à improcedência do pedido de invalidade de ato administrativo que implicou a eliminação de candidato na fase de exame físico de concurso público. No extraordinário, a recorrente aponta a violação dos artigos 5º, cabeça, e 37, cabeça e incisos I e II, da Constituição Federal. Diz contrariado o princípio da isonomia. Discorre sobre a nulidade da alteração unilateral de regras do edital, considerado o silêncio quanto ao prazo mínimo entre a convocação e a realização do teste de aptidão física.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    APELAÇAO CÍVEL – CONCURSO PÚBLICO – CONVOCAÇÃO PARA TESTE DE APTIÃO FÍSICA – CANDIDATA RECORRENTE QUE ALEGA TER CONTADO COM TEMPO EXÍGUO PARA A PREPARAÇÃO DA FASE DO CONCURSO – REJEIÇÃO DA TESE – CONVOCAÇÃO PARA ALUDIDO TESTE QUE SE DEU EM RAZÃO DE CUMPRIMENTO DE ORDEM JUDICIAL – CIÊNCIA DA RECORRENTE DA REALIZAÇÃO DE TAL TESTE QUE DECORRE DO PROVIMENTO JUDICIAL QUE ELA MESMA DEMANDOU – PARECER MINISTERIAL A CORROBORAR AS CONCLUSÕES CONSTANTES A SENTENÇA RECORRIDA – PRAZO DE CINCO DIAS DE ANTECEDÊNCIA PARA A CONVOCAÇÃO PARA O EXAME FÍSICO TIDO COMO RAZOÁVEL NA MEDIDA “...O CARGO PRETENDIDO PELA CANDIDATA, EM QUE O ESFORÇO FÍSICO É CONDIÇÃO INERENTE AO DESEMPENHO DA FUNÇÃO E QUE A CANDIDATA JÁ DEVERIA CONTAR COM A APTIDÃO FÍSICA NA EXECUÇÃO DOS EXERCÍCIOS DESDE SEMPRE...” – AUSÊNCIA, POIS, DE QUALQUER ILEGALIDADE A SER SANADA - NEGA-SE PROVIMENTO AO RECURSO.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 22 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
