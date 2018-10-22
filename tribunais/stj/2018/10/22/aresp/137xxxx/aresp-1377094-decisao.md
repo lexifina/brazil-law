@@ -1,0 +1,14 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. SENTENÇA DE PRONÚNCIA. PLEITO DE EXCLUSÃO DA QUALIFICADORA MOTIVO FÚTIL. PRESENÇA DE ELEMENTOS MÍNIMOS CARACTERIZADORES DE SUA PRESENÇA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE.
+Agravo conhecido para desprover o recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu o recurso especial interposto pela alínea a do permissivo constitucional dirigido contra o acórdão proferido pelo Tribunal de Justiça de São Paulo proferido nos autos do Recurso em Sentido Estrito n. 0006455-19.2014.8.26.0348, que manteve a sentença de pronúncia do acusado como incurso no art. 121, § 2º, II, c/c o ar. 14, II, do Código Penal (fls. 307/315).
+Nas razões do especial (fls. 326/332), a defesa sustenta que houve violação do art. 121, § 2º, II, do Código Penal. Pretende, em suma,  ..  o afastamento da qualificadora consistente no motivo fútil, tendo em vista que, com base nas provas já produzidas, não é possível exarar que o motivo do crime fora o inconformismo com o término do relacionamento (fl. 332).
+Apresentadas contrarrazões (fls. 334/348), o recurso especial foi inadmitido pela Corte de origem, por aplicação da Súmula 7/STJ (fl. 351). Contra tal decisão foi manejado o agravo em análise (fls. 364/366), com contraminuta ofertada às fls. 368/376.
+O Ministério Público Federal opina pelo desprovimento do recurso (fl. 389).
+É o relatório.
+Sem razão o recorrente quanto ao pleito de exclusão da qualificadora motivo fútil, dado que o julgado combatido categoricamente afirmou que o motivo fútil  ..  mostra-se aceitável à luz do que informam os relatos angariados, no sentido de que o atentado à vida de [NOME] decorreu de sentimento de indignação de [NOME] em face, ao que parece, da recusa da vítima em retomar o relacionamento amoroso (fl. 315).
+Da sentença de pronúncia, colhe-se a afirmação no sentido de que  ..  há relatos nos autos de que o acusado intentou contra a vida da vítima por conta do término do relacionamento. Este motivo, em tese, é de natureza fútil, em razão da desproporção entre a tal motivação e a conduta, fato, obviamente, que deve ser verificado pelos Jurados (fl. 262).
+Nesse contexto, observo que o acórdão está diretamente amparado na jurisprudência desta Corte, para a qual, inclusive,  ..  a presença de elementos mínimos caracterizadores da qualificadora impõe a sua manutenção na sentença de pronúncia, mesmo diante da existência de versão diversa para os fatos, sob pena de usurpação da competência constitucional do Tribunal do Júri (AgRg no Ag n. 1.317.326/RJ, Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 21/9/2012).
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
