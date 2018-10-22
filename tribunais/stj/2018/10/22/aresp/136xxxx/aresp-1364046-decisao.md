@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REGRESSO. ACIDENTE DE TRÂNSITO. PRETENSÃO DE RESSARCIMENTO DO VALOR DA CONDENAÇÃO PAGO À VÍTIMA DO EVENTO DANOSO. PRESCRIÇÃO ÂNUA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO DA DEMANDA INDENIZATÓRIA. PRINCÍPIO DA ACTIO NATA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA ANÁLISE DA QUESTÃO SOB O ENTENDIMENTO DESTA CORTE. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o processamento do recurso especial.
+Compulsando os autos, verifica-se que a ação de regresso ajuizada pela recorrente em desfavor de Sompo Seguros S.A. foi julgada improcedente, porquanto reconhecida a prescrição da pretensão de cobertura securitária.
+A Vigésima Nona Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo negou provimento à apelação interposta pela autora, nos termos do acórdão recorrido assim ementado (e-STJ, fl. 265):
+SEGURO FACULTATIVO - Veículo - Ação de cobrança de indenização securitária - Sentença que reconhece a prescrição - Apelo da autora - Lapso prescricional de 1 (um) ano - Artigo 206, § 1a, inciso II, "b", combinado com o artigo 189, ambos do Código Civil - Princípio da "actio nata" - Ciência acerca da recusa de cobertura - Caracterização da prescrição também à luz da regra do artigo 206, § 1º, inciso II, "a", do Código Civil (citação da segurada em ação de indenização proposta por terceiro) - Sentença mantida - Apelação desprovida
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a recorrente alegou a existência de divergência jurisprudencial e de afronta ao art. 206, § 1º, II, b, do Código Civil de 2002, sustentando, em suma, não estar prescrito o pedido deduzido na respectiva demanda de regresso (de recebimento de indenização securitária), uma vez que o termo inicial, na hipótese, é a data do pagamento do valor da condenação, na ação indenizatória, ao terceiro prejudicado em razão de acidente de trânsito.
+Contrarrazões apresentadas (e-STJ, fls. 308-314).
+O processamento do recurso especial foi denegado pelo Tribunal de origem, o que levou a parte insurgente à interposição do presente agravo.
+Brevemente relatado, decido.
+Com efeito, nas ações regressivas, ajuizadas pelo segurado no intuito de ressarcimento da indenização paga à vítima de acidente automobilístico, o curso do prazo prescricional inicia-se a partir do trânsito em julgado da ação indenizatória, segundo preconiza o princípio da actio nata, pois é esse o momento em que se efetiva o dano ao direito material, sendo que, anteriormente à imutabilidade da condenação, era incerto o dever de indenizar do segurado.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. AÇÃO REGRESSIVA. PRAZO PRESCRICIONAL ÂNUO. VIOLAÇÃO AO ART. 535 DO CPC. NÃO CARACTERIZAÇÃO. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO.REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil quado o Tribunal resolve todas as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Nas ações regressivas de segurado contra seguradora, o termo inicial do prazo prescricional ânuo é a data do trânsito em julgado da sentença, que fixou definitivamente o quantum da obrigação patrimonial devida ao terceiro. Inteligência do Art. 178, § 6º, II, do Código Civil de 1916.Incidência da Súmula 83/STJ 3. A alteração do entendimento da decisão agravada acerca do termo inicial da prescrição fixado na origem, demandaria a revisão dos fatos e provas, providência vedada pela Súmula n. 7/STJ 4. Agravo interno não provido.
+(AgInt no AREsp 882.301/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2016, DJe 16/09/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO. AÇÃO DE REGRESSO. TERMO INICIAL DO PRAZO PRESCRICIONAL. PRINCÍPIO DA ACTIO NATA. TRÂNSITO EM JULGADO DA AÇÃO INDENIZATÓRIA. TERMO A QUO. PRESCRIÇÃO. SÚMULA N. 7/STJ. AFASTAMENTO.
+1. O lapso prescricional da ação regressiva que objetiva o ressarcimento de pagamento de indenização a vítima de acidente automobilístico inicia-se no momento da efetiva lesão do direito material (princípio da actio nata), a saber, na data do trânsito em julgado da sentença em ação indenizatória, e não na data do efetivo pagamento do valor da condenação.
+2. A fixação do termo inicial do prazo prescricional da ação regressiva não demanda o necessário reexame de provas, o que afasta a aplicação da Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 707.342/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 04/02/2016, DJe 18/02/2016)
+RECURSO ESPECIAL. SEGURO. VEÍCULO. AÇÃO REGRESSIVA. PRESCRIÇÃO. TERMO INICIAL.
+- Nas ações regressivas de segurado contra seguradora, o termo inicial do prazo prescricional ânuo é a data do trânsito em julgado da sentença, que fixou definitivamente o quantum da obrigação patrimonial devida ao terceiro. Inteligência do Art. 178, § 6º, II, do Código Beviláqua.
+(REsp 869.465/MS, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 06/03/2008, DJe 16/05/2008)
+Na hipótese, embora a cognição da Corte de origem esteja em descompasso com a jurisprudência desta Casa, não há, nos autos, elementos suficientes à aferição da consumação ou não da prescrição, sobretudo quanto à data do trânsito em julgado da ação indenizatória que deu ensejo à propositura da respectiva demanda de regresso.
+Desse modo, de rigor o retorno dos autos à origem para que, aplicando o entendimento supracitado, aprecie outra vez a prescrição.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de determinar a devolução do feito à origem para que julgue novamente a prescrição sob a concepção desta Corte.
+Publique-se.
