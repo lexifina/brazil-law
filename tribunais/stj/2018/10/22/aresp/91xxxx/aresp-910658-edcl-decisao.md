@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interpostos por Bunge Fertilizantes S.A. contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ, fls. 334-336).
+Aduz a embargante que a decisão recorrida é nula, pois não permitiu a realização de sustentação oral com fundamento no art. 1.042, § 5º, do CPC/2015.
+Sustenta a existência de contradição, porquanto ficou consignado que não há violação do art. 535 do CPC/1973 no acórdão proferido pela Corte Local, contudo não se reconheceu o prequestionamento do art. 10 da Lei n. 6.938/1981.
+Alega a existência de omissão, uma vez que não pretende o reexame de provas, mas sim sua valoração.
+É o relatório.
+Os embargos de declaração, como dispõe o art. 1.022 do CPC/2015, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+Não há qualquer omissão, obscuridade, contradição na decisão combatida.
+Primeiramente, registre-se que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No caso em apreço, o agravo em recurso especial atacava decisão proferida sob a égide do CPC/1973.
+Dessa forma, todos os requisitos de admissibilidade e interpretações dada ao recurso especial interposto observaram as regras do CPC/1973. Assim, não se aplica ao caso o art. 1.042, § 5º, do CPC/2015.
+De outro lado, segundo consignado na decisão ora recorrida (e-STJ, fls. 334-336) não há violação do art. 535 do CPC/1973 no acórdão proferido pela Corte local, uma vez que foi fundamentado, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pela recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento. Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Acresça-se, por oportuno, não haver contradição entre as assertivas de escorreita prestação jurisdicional e de falta de prequestionamento de dispositivos legais pretensamente violados, uma vez que a suficiente solução dada à controvérsia pela origem prescindiu da análise de tais dispositivos (AgRg no AREsp 674.022/SP, Rel. Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Segunda Turma, julgado em 24/5/2016, DJe 31/5/2016; AgRg no REsp 1.382.859/DF, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 16/2/2016, DJe 24/2/2016).
+Relativamente à responsabilidade da embargante e à existência do nexo de causalidade, verifico que os temas foram analisados pelo Tribunal de origem com base nas provas dos autos. Dessa forma, a revisão das conclusões da instância ordinária implica o reexame dos elementos probatórios, o que é defeso em recurso especial, conforme o disposto na Súmula 7/STJ.
+Ressalto, ainda, que a insurgente não desconstitui esses fundamentos e nem demonstra como não seria o caso da aplicação da mencionado verbete sumular.
+Percebe-se que a embargante maneja os presentes aclaratórios em virtude tão somente de seu inconformismo com a decisão ora combatida, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil a inquinar tal decisum.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
