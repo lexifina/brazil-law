@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME], fundamentado nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra a suspensão do processo pela admissão como recurso representativo de controvérsia do REsp 1.361.799/SP pelo STJ.
+O acórdão recorrido (e-STJ fls. 108) negou provimento ao agravo de instrumento do recorrente ao fundamento de que, "observo que a questão atinente à legitimidade ativa de não associado para a liquidação/cumprimento da sentença coletiva é objeto da controvérsia no primeiro grau de jurisdição, conforme se infere da contestação. Logo, acertadamente, a MM. Juíza de primeira instância determinou a suspensão do feito pelo prazo de um ano, sendo que, em caso de pronunciamento do Superior Tribunal de Justiça antes desse lapso temporal, os autos deverão ser conclusos."
+Contudo, na sessão realizada no dia 27.9.2017, a Segunda Seção deste Tribunal Superior, ao apreciar o REsp 1.438.263/SP e o REsp 1.361.799/SP, decidiu pela desafetação do recurso especial, em questão de ordem, fato que ocasiona a perda superveniente do objeto deste recurso, visto que não mais subsistem os efeitos do acórdão recorrido.
+Forte nessas razões, JULGO PREJUDICADO o recurso especial, por perda superveniente de objeto, nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
