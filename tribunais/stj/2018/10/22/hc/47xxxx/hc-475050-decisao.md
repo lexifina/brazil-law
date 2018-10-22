@@ -1,0 +1,16 @@
+DECISÃO
+ [NOME] alega sofrer coação ilegal ante a execução imediata de acórdão proferido pelo Tribunal Regional Federal da 1ª Região (Apelação n. 0008720-64.2010.4.01.3807/MG).
+O impetrante aponta a ocorrência "da prescrição retroativa" (fl. 4). Afirma que, de acordo com a pena em concreto, o prazo prescricional de 8 anos foi ultrapassado, uma vez que "os fatos imputados ocorreram em 2002", a denúncia "foi recebida em 6 de julho de 2011" (fl. 4) e não é possível aplicar ao réu a nova redação do art. 110, § 1º, CP, ante a irretroatividade da lei penal mais gravosa.
+Para a defesa, é ilegal a execução da pena antes do trânsito em julgado da condenação. Ademais, é irrazoável que o sentenciado tenha que aguardar a jurisdição do Superior Tribunal de Justiça preso, se ao final sua pena estará prescrita.
+Requer a suspensão da "execução provisória, em decorrência da iminente extinção da punibilidade do réu," (fl. 8).
+Decido.
+A análise da liminar deve ser realizada tendo em vista a tutela de mérito requerida no próprio habeas corpus.
+O paciente foi condenado por incursão no art. 1º, I, do Decreto-Lei n. 201/1967, em continuidade delitiva. O Tribunal fixou sua pena privativa de liberdade em 5 anos de reclusão (3 anos  2/3), a ser cumprida no regime semiaberto. O Ministério Público interpôs recurso especial e pediu o aumento da reprimenda.
+Os fatos ocorreram até 31/12/2002, a denúncia foi recebida em 6/7/2011 e, em 10/1/2013, publicou-se o decreto condenatório.
+O pedido de reconhecimento da prescrição intercorrente não foi deduzido perante a jurisdição ordinária (supressão de instância) e está baseado na alegação de futuro e incerto desprovimento do REsp do Ministério Público (ato de hipótese, mera conjectura). Ilustrativamente: "não cabe ação de habeas corpus contra o assim chamado "ato de hipótese"" (AgRg no RHC n. 73.598/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 12/3/2018).
+A matéria não pode ser conhecida de ofício, pois a aplicação do art. 110, § 1º, do CP pressupõe o trânsito em julgado para a acusação ou o não provimento de seu recurso especial. Ademais, inexiste documentação para verificar a improbabilidade de êxito da insurgência ministerial.
+De mais a mais, o Plenário Virtual do Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, decidiu ser cabível a execução do acórdão de segundo grau antes do trânsito em julgado da condenação, na pendência de recursos especial e/ou extraordinário, os quais não possuem efeito suspensivo, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados, uma vez que, esgotada a discussão sobre matéria fática, a providência não implicaria em violação do princípio da presunção de inocência.
+O entendimento deve ser aplicado aos processos em curso e, portanto, esgotada a jurisdição ordinária, não há ilegalidade alguma a ser sanada na via do remédio heroico.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus, in limine.
+Não há prejuízo de que a defesa requeira tutela provisória vinculada ao recurso especial do Ministério Público, a fim de evitar perigo de lesão irreparável ao direito de ir e vir do condenado.
+Publique-se e intimem-se.
