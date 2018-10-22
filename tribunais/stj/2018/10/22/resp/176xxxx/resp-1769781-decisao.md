@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por EUNICE CARMO DOS SANTOS, com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, que deu parcial provimento ao apelo defensivo, porém deixou de reconhecer a incidência da atenuante da confissão espontânea, mantendo a condenação da recorrente pela prática do crime previsto no artigo 171, § 3º, do Código Penal à pena de 1 ano, 9 meses e 10 dias de reclusão e 17 dias-multa, em regime aberto. A pena foi substituída por duas restritivas de direitos.
+Nas razões recursais, a defesa aponta violação ao artigo 65, III, "d", do Código Penal, ao argumento de que, a despeito da confissão da recorrente ter sido usada para embasar o édito condenatório, não foi reconhecida em favor dela a atenuante da confissão espontânea, tendo a Corte local contrariado o teor da Súmula n. 545 deste Sodalício. Aduz que, apesar da recorrente ter retratado, em juízo, sua confissão extrajudicial, é cabível a redução da pena na segunda fase da dosimetria.
+Requer, assim, o provimento do recurso, a fim de que o acórdão recorrido seja reformado, reconhecendo-se a atenuante da confissão espontânea na dosimetria da pena.
+Contrarrazões apresentadas (e-STJ, 542-550).
+O Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ, fls. 573-577).
+É o relatório.
+Decido.
+No que tange à alegada ofensa ao artigo 65, III, "d", do Código Penal, com razão a recorrente.
+No caso, o Tribunal de origem deixou de aplicar a atenuante da confissão espontânea sob a seguinte motivação:
+"Na segunda fase de dosimetria, entendo ausentes atenuantes e agravantes, haja vista que, a despeito de a acusada admitir os fatos descritos pela denúncia, não admitiu a prática delitiva, haja vista ter imputado o crime exclusivamente ao corréu [NOME], sustentando a tese de que desconhecia a profundidade dos fatos por ela perpetrado (cfr. mídia audiovisual à fl. 349)." (e-STJ, fl. 523)
+No entanto, consoante entendimento firmado na Súmula 545 desta Corte, "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal", sendo indiferente que a admissão da autoria criminosa seja parcial, qualificada ou acompanhada de alguma causa excludente de ilicitude ou culpabilidade (AgRg no REsp 1.516.358/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 5/11/2015, AgRg no REsp 1.450.875/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+In casu, tendo sido utilizada a confissão da recorrente para subsidiar o édito condenatório (e-STJ, fl. 435), é de rigor a incidência da atenuante do art. 65, III, "d", do CP.
+Passo, portanto, ao redimensionamento da pena, porém a partir da segunda fase.
+A pena-base foi estabelecida pela Corte local em 1 ano e 4 meses de reclusão, mais 13 dias-multa. Na segunda fase, reconheço a incidência da atenuante da confissão espontânea e reduzo a pena em 1/6, ficando a pena intermediária no patamar de 1 ano, 1 mês e 10 dias de reclusão e 10 dias-multa.
+Na terceira fase, mantém-se o reconhecimento da causa de aumento prevista no § 3º do artigo 171 do Código Penal, majorando-se a pena em 1/3, resultando a pena definitiva em 1 ano, 5 meses e 23 dias de reclusão e 13 dias-multa.
+Por fim, mantém-se o regime aberto para o cumprimento da pena, bem como a substituição da pena privativa de liberdade por duas restritivas de direitos, quais sejam, a prestação de serviços à comunidade e a prestação pecuniária, nos termos estabelecidos no acórdão recorrido.
+Ante o exposto, nos termos do art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para reconhecer a atenuante da confissão espontânea e reduzir a pena definitiva da recorrente ao patamar de 1 ano, 5 meses e 23 dias de reclusão e 13 dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
