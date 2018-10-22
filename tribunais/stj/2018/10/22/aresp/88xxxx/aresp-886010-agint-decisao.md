@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL. RESSARCIMENTO DOS VALORES DESPENDIDOS COM A CONTRATAÇÃO DE ADVOGADO. COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AFASTAMENTO DA CONCLUSÃO DA DECISÃO AGRAVADA ACERCA DA QUESTÃO. IMPOSSIBILIDADE DE INCLUSÃO DOS HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS NO VALOR DEVIDO A TÍTULO DE REPARAÇÃO POR PERDAS E DANOS. ENTENDIMENTO FIRMADO PELA CORTE ESPECIAL DO STJ. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
+DECISÃO
+Trata-se de agravo interno interposto por Gafisa S.A. contra decisão desta relatoria, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. INADIMPLEMENTO CONTRATUAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO DEMONSTRADA. PRETENSÃO DE REVISÃO DA INDENIZAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULAS 7 DESTA CORTE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO IMPROVIDO. (e-STJ, fl. 673)
+Nas razões do recurso, argumenta a agravante que a questão envolvendo a impossibilidade de inclusão dos honorários advocatícios contratuais na apuração do valor devido a título de indenização por danos materiais independe de nova dilação probatória para o seu deslinde.
+Aduz, ademais, que o entendimento do acórdão proferido pelo Tribunal de origem sobre a matéria diverge da jurisprudência desta Corte, além de contrariar os arts. 389, 395 e 404 do Código Civil.
+Acrescenta que "expôs detalhadamente os motivos pelos quais os dispositivos em tela foram violados, inclusive por meio de cotejo entre o acórdão e a orientação sufragada pelo STJ" (e-STJ, fl. 686), de modo que não há razão para a aplicação da Súmula 284/STF.
+Busca, assim, seja reformada a decisão agravada a fim de afastar a indenização relativa à contratação de advogado para a propositura de ação judicial ou que o feito seja submetido a julgamento pelo órgão colegiado.
+Contraminuta ao agravo apresentada às fls. 695-699 (e-STJ).
+Brevemente relatado, decido.
+Como alega a agravante, constata-se que o dissídio jurisprudencial, quanto à impossibilidade de inclusão dos honorários advocatícios contratuais nas perdas e danos, foi devidamente comprovado, matéria, aliás, que não exige o reexame do contexto fático-probatório para o seu deslinde, estando apto o apelo extremo para ser analisado quanto a essa questão.
+Com efeito, extrai-se dos autos que, em ação de obrigação de fazer cumulada com indenização ajuizada por [NOME] e [NOME] em desfavor da ora agravante, a ré foi condenada ao pagamento, entre outros valores, de R$ 10.500,00 (dez mil e quinhentos reais) pelos honorários contratuais desembolsados pelos autores com os advogados para a propositura da ação.
+No particular, o Tribunal de origem assim dispôs:
+Os honorários advocatícios devidos pela contratação de advogado para representação em juízo, ou mesmo para a fase pré judicial, devem compor a indenização pelo dano material, quando este for comprovado e reconhecido pela sentença, para que a indenização seja completa. (e-STJ, fl. 489)
+Ocorre que a Corte Especial do STJ assentou que "cabe ao perdedor da ação arcar com os honorários de advogado fixados pelo Juízo em decorrência da sucumbência (Código de Processo Civil de 1973, art. 20, e Novo Código de Processo Civil, art. 85), e não os honorários decorrentes de contratos firmados pela parte contrária e seu procurador, em circunstâncias particulares totalmente alheias à vontade do condenado" (EREsp 1.507.864/RS, Relatora a Ministra Laurita Vaz, DJe de 11/5/2016).
+A propósito, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. IMPOSSIBILIDADE DE INCLUSÃO NAS PERDAS E DANOS. SÚMULA 83/STJ. MAJORAÇÃO DA INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp 914.889/RO, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 8/3/2018)
+Assim, merece reforma o acórdão proferido pelo Tribunal de origem, porquanto em desconformidade com a jurisprudência desta Corte.
+Fica mantido o decisum agravado no tocante às demais matérias, diante da falta de impugnação.
+Ante o exposto, mediante juízo de reconsideração, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar do montante indenizatório a ser pago pela ora agravante o valor referente aos honorários contratuais desembolsados pelos agravados.
+Publique-se.
