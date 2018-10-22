@@ -1,0 +1,20 @@
+DECISÃO
+Relatório.
+Cuida-se de mandado de segurança, com pedido de antecipação de tutela, impetrado por [NOME], que indica, como autoridade impetrada, o Ministro de Estado da Segurança Pública.
+Do relato veiculado pela peça exordial extrai-se que o impetrante participou das duas primeiras etapas do concurso público para provimento de cargos de Delegado de Polícia Federal, e justifica a presente impetração afirmando que ".. nesse momento do certame, o direito de continuar na prova é líquido e certo, pois a pontuação atual do impetrante é superior ao 16.º convocado em sua modalidade PcD, bem como, a autoridade que tem atribuição para corrigir a lesão a direito líquido e certo é do Ministro da Segurança Pública, (responsável pelo certame)." (sic. fl. 6).
+Há também pedido de liminar, qual seja:
+a) Requer, liminarmente, com fulcro no art. 311 do CPC, na Lei Federal 12.016/09, em seus art. 1o a 6ºe s., art. 5o, inc. LXIX e art. 102, inc. I letra d da CF/88 que o impetrado seja obrigado a garantir a participação do candidato/impetrante, por ora, em todas as etapas até o trânsito em julgado das impugnações das questões, definição da nota final do impetrante (em debate nos autos de conhecimento 50425482520184047000 da 6a VF de Curitiba-PR), que seja determinada e tomadas providências para que o candidato/impetrante possa avançar e concorrer nas etapas seguintes, isto é, não seja eliminado/impedido de participar das demais etapas porque não teria atingido, supostamente, a nota mínima, pois, nesse momento, o impetrante, tem 77 acertos e nota superior ao 16º convocado para a 3a etapa (etapa prevista para 03 a 04/11/2018), comprovado, de plano, a preterição na classificação e possível homologção pelo Ministro da Segurança Pública de candidato com nota inferior;
+(fl. 9).
+No mérito, requer apenas a concessão da ordem para tornar definitiva a liminar concedida nos termos acima.
+Benefício de gratuidade deferido pela Presidência (fl. 601).
+O impetrante advoga em causa própria (fls. 3, 13 e 14).
+Decisão.
+Consoante dispõe o art. 10 da Lei n. 12.016/2009, "a inicial será desde logo indeferida, por decisão fundamentada, quando não for o caso de mandado de segurança ou lhe faltar algum dos requisitos legais ou quando decorrido o prazo legal para a impetração".
+No presente caso, muitas são as razões a justificar o pronto indeferimento da exordial.
+De saída, não há ato atribuível à autoridade impetrada. Nota-se que a afirmação feita pelo impetrante, de atribuir ao Ministro de Estado da Segurança Pública a responsabilidade pelo certame, não é corroborada pelas provas documentais apresentadas, as quais, quando muito, permitiriam inferir ser do Diretor de Gestão de Pessoal tal atribuição. Nesse sentido, o edital às fls. 26 a 68.
+Depois, consoante prevê o art. 1º da lei de regência, o mandado de segurança é instrumento destinado à proteção de direito líquido e certo nas hipóteses em que, ilegalmente ou com abuso de poder, qualquer pessoa sofra violação de direito líquido e certo. Não se presta, portanto, como meio para obter, exclusivamente, a tutela de evidência de que cuida o art. 311 do CPC. Mormente em hipótese - como a que agora denuncia o impetrante - de que idêntico pedido foi feito em ação ordinária ainda em curso (fl. 92).
+A propósito, eis aí mais uma razão para o indeferimento liminar da presente segurança: o impetrante é, conforme ele mesmo noticiou (fls. 4 e 9) o autor da ação ordinária 50425482520184047000, em curso perante a 6.ª Vara Federal da Seção Judiciária Federal do Paraná, ação na qual discute a sua sorte no certame.
+Em suma, não se justifica a impetração. Não é caso de mandado de segurança.
+Por todo o exposto, impõe-se, desde logo, o indeferimento liminar da petição inicial, com fundamento no art. 10, caput, da Lei n. 12.016/2009 e a consequente denegação da segurança, sem resolução de mérito, com fundamento nos artigos 6º, § 5.º, da Lei n. 12.016/2009 e 34, XIX, do RISTJ.
+Caberá ao impetrante, querendo, socorrer-se da faculdade que lhe é assegurada pelo art. 19 da Lei n. 12.016/2009 para buscar, na ação própria e na instância competente, o direito que julga ter.
+Publique-se.
