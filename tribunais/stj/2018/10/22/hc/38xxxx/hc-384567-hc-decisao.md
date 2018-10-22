@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido formulado por [NOME], de extensão dos efeitos do v. acórdão de fls. 190-211, que concedeu a ordem de habeas corpus, de ofício, para reconhecer a configuração de falsidade grosseira, a fim de absolver JOSELYR BENEDITO SILVESTRE da imputação da prática do crime tipificado no art. 297 c/c art. 304 c/c art. 29, todos do Código Penal.
+Argumenta o requerente que respondeu à mesma ação penal que o paciente, sendo condenado em razão dos mesmos fatos, de modo que está configurada a idêntica situação processual entre as partes.
+Sustenta que está "em vias de ser intimado para início de cumprimento da pena imposta", de modo que requer urgência na apreciação do presente pedido, o que faz nos termos do art. 580 do Código de Processo Penal.
+É o breve relatório do necessário.
+Decido.
+O art. 580 do Código de Processo Penal estabelece, in verbis: "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros."
+Com efeito, vislumbra-se similaridade nas condições do paciente e do peticionário, uma vez que ambos foram denunciados e condenados na mesma ação penal, em razão dos mesmos fatos (fls. 25-27 e 32-41).
+Nesse compasso, havendo identidade na situação fático-processual, cabe, a teor do art. 580 do Código de Processo Penal, deferir o pedido de extensão de benefício obtido por um dos réus.
+Nesse sentido, colaciono os seguintes arestos desta Corte:
+"PEDIDO DE EXTENSÃO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E ESTELIONATOS TENTADOS E CONSUMADOS. SIMILITUDE DA SITUAÇÃO FÁTICO-PROCESSUAL A JUSTIFICAR A EXTENSÃO DA ORDEM. DENÚNCIA QUE NÃO APONTA ATIVIDADES REITERADAS OU DE PROEMINÊNCIA NA QUADRILHA. PARECER MINISTERIAL FAVORÁVEL. PEDIDO DEFERIDO.
+1. A teor do art. 580 do Código de Processo Penal, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado.
+2. Quanto ao ora peticionário, são semelhantes as circunstâncias, o que impõe a aplicação do art. 580 do CPP. Não obstante a existência de indícios de que o requerente, assim como o paciente, participava dos crimes de estelionato, não ressai dos autos situação que demonstre a imprescindibilidade da medida extrema, uma vez não caracterizada proeminência ou posição de liderança na quadrilha, maus antecedentes ou reincidência, sendo possível, portanto, a aplicação de medidas cautelares alternativas.
+3. Pedido de extensão deferido, na esteira do parecer ministerial."
+(HC 382.796/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 01/08/2017).
+"HABEAS CORPUS. PEDIDO DE EXTENSÃO. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. REDUZIDA QUANTIDADE DE MATERIAL TÓXICO APREENDIDO. CONDIÇÕES PESSOAIS FAVORÁVEIS. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. ART. 319 DO CPP. ADEQUAÇÃO E SUFICIÊNCIA. CONSTRANGIMENTO ILEGAL EM PARTE EVIDENCIADO. RECONHECIMENTO AO CORRÉU. SIMILITUDE FÁTICO-PROCESSUAL. EXEGESE DO ART. 580 DO CPP. PLEITO DE EXTENSÃO DEFERIDO.
+1. A aplicação de medidas cautelares, aqui incluída a prisão preventiva, requer análise, pelo julgador, de sua necessidade e adequação, a teor do art. 282 do CPP, observando-se, ainda, se a constrição é proporcional ao gravame resultante de eventual condenação.
+2. A prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar e quando realmente se mostre necessária e adequada às circunstâncias em que cometido o delito e às condições pessoais do agente. Exegese do art. 282, § 6º, do CPP.
+3. No caso, mostra-se devida e suficiente a imposição de medidas cautelares alternativas, dada a apreensão de reduzida quantidade de estupefacientes e as condições favoráveis pessoais dos agentes.
+4. Verificada a identidade fático-processual entre a situação dos pacientes beneficiados com a concessão da ordem de habeas corpus e o corréu requerente - já que continuaram segregados em decorrência dos mesmos inidôneos fundamentos, mencionados por ocasião da conversão da prisão em flagrante em preventiva - e que o pleito não se encontra fundado em motivos de caráter pessoal, devida a aplicação do disposto no art. 580 do CPP.
+5. Pedido de extensão deferido, concedendo-se a ordem de ofício, nos termos do art. 654, § 2º, do CPP, também ao ora peticionário, para revogar a sua custódia preventiva, mediante a imposição das medidas alternativas à prisão previstas no art. 319, I, IV e V, do Código de Processo Penal."
+(HC 390.292/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 14/06/2017).
+Ante o exposto, defiro o pedido de extensão para reconhecer se tratar de falsidade grosseira, a fim de absolver o peticionário [NOME] [NOME] da imputação da prática do crime tipificado no art. 297 c/c art. 304 c/c art. 29, todos do Código Penal.
+[NOME]
