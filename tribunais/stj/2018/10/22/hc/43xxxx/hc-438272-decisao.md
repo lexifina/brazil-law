@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de MATEUS NASCIMENTO DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem visada no HC n. 2229867-30.2017.8.26.0000, mantendo a prisão preventiva decretada em desfavor do paciente nos autos da ação penal em que foi pronunciado pela prática do crime previsto no art. 121, § 2º, incisos I e IV, na forma do art. 29, todos do Código Penal.
+Realça incialmente o impetrante as condições pessoais favoráveis do paciente, que seria primário, sem antecedentes, com ocupação lícita e residência no distrito da culpa há mais de 10 anos.
+Sustenta, por outro lado, que não existe, "em hipótese alguma, indícios suficientes de que o paciente fora o autor da prática criminosa que lhe é apontada, apenas reconhecimento fotográfico de testemunhas protegidas e depoimentos contraditórios quanto a reconhecimento o que não é suporte para prisão preventiva" (e-STJ fl. 4).
+Além disso, alega que não restou demonstrado de que forma, em liberdade, poderia o custodiado colocar em risco a ordem pública, a instrução criminal ou a aplicação da lei penal, requisitos necessários para a decretação da custódia antecipada, nos termos do art. 312 do Código de Processo Penal.
+Argumenta, ainda, a desproporcionalidade da medida extrema, uma vez que, "mesmo que seja acatada in totum a pretensão do Estado formalizada contra o paciente, ainda assim o apenamento não ultrapassará oito anos, o que importará na concessão de regime semi-aberto" (e-STJ fl. 11).
+Assim, requer a concessão da ordem para que possa o paciente responder em liberdade, com ou sem medidas cautelares diversas da prisão.
+A liminar foi indeferida.
+Informações prestadas.
+O Ministério Público manifestou-se pelo não conhecimento do writ.
+Informações obtidas no sítio do Tribunal de origem dão conta de que a decisão de pronúncia transitou em julgado para defesa em 27/2/2018, sendo determinada a redistribuição dos autos ao Tribunal do Júri.
+É o breve relatório.
+A insurgência não merece acolhimento.
+Prima facie, impende frisar que o Supremo Tribunal Federal, no bojo do HC n. 109.956/PR, colimando-se dar efetividade às normas previstas no art. 102, inciso II, alínea "a", da Constituição Federal, e nos arts. 30 a 32 da Lei n. 8.038/90, passou a não mais admitir o manejo do habeas corpus originário perante aquela Corte, em substituição ao recurso ordinário cabível, entendimento ora chancelado por este Superior Tribunal de Justiça, a fim de que seja restabelecida a organicidade da prestação jurisdicional que envolve a tutela do direito de locomoção.
+Sobre tema, é remansosa a jurisprudência das Cortes de superposição na esteira de que "não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado" (HC 430.992/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2018, DJe 2/4/2018).
+Assim, a presente impetração, ao se insurgir contra acórdão exarado pelo Tribunal local, denegatório da ordem pleiteada em anterior remédio heroico, afigura-se incabível, pois manejado perante este Sodalício de forma originária, sem qualquer subsunção às hipóteses autorizadoras elencadas no art. 105, inciso I, alínea "c", da Constituição Federal, logo, não logra conhecimento.
+Noutra perspectiva, além da incidência do óbice suso, verifica-se que o presente mandamus foi impetrado desprovido de documentação indispensável ao exame da lide, qual seja, o decreto preventivo primevo, cujos fundamentos foram reafirmados pelo Juiz processante quando da pronúncia.
+Como é cediço, o rito do habeas corpus e do recurso ordinário em habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca e tempestiva, por meio de documentação que evidencie a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia.
+Nessa direção, orienta-se a jurisprudência pacífica desta colenda Corte Superior de Justiça:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO INTERPOSTO CONTRA INDEFERIMENTO LIMINAR DO WRIT. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+I - A jurisprudência desta Corte Superior firmou-se no sentido de que a ação mandamental de habeas corpus exige a apresentação de prova pré-constituída, recaindo sobre o impetrante o ônus de instruir corretamente o mandamus, a fim de que seja possível identificar o alegado constrangimento ilegal.
+II - No presente caso, o impetrante não juntou aos autos cópia das decisões que estariam trazendo constrangimento ilegal aos Pacientes, apenas colaciona links de sítios eletrônicos de portais de notícias, em que este relator poderia acessar o conteúdo das decisões, tornando inviável a análise da quaestio.
+Agravo Regimental desprovido.
+(AgRg no HC 438.187/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/03/2018, DJe 27/03/2018)
+PROCESSUAL. PETIÇÃO CONTRA INDEFERIMENTO DE RECONSIDERAÇÃO DE DECISÃO QUE INDEFERIU LIMINARMENTE HABEAS CORPUS POR AUSÊNCIA DE INSTRUÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MANTIDA. AUSÊNCIA TOTAL DE INSTRUÇÃO. SENHA PARA ACESSO DAS INFORMAÇÕES PROCESSUAIS CONTIDAS NO SÍTIO DO TRIBUNAL DE ORIGEM.
+INSUFICIÊNCIA. AGRAVO NÃO PROVIDO.
+1. Em homenagem aos princípios da instrumentalidade das formas e da fungibilidade recursal, e tendo em vista o teor do petitório apresentado pela defesa - na qual se volta contra decisão que indeferiu pleito de reconsideração do indeferimento liminar de writ -, é possível o recebimento da insurgência como agravo regimental, quando interposta no quinquídio legal.
+2. O mero fornecimento, pelo impetrante, de senha para acesso das informações processuais no sítio eletrônico do Tribunal de origem não o exime da obrigação de devidamente instruir o writ, sob pena de transferir ao Poder Judiciário ônus pertencente à defesa, mormente quando se trata de advogado constituído.
+3. Agravo regimental a que se nega provimento.
+(PET no HC 392.865/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/04/2017, DJe 08/05/2017)
+Ante o exposto, nos termos do art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não se conhece do habeas corpus.
+Publique-se e intimem-se.
