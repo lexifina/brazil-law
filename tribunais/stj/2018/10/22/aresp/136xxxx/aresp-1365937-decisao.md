@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"APELAÇÃO CÍVEL. PLANO DE ASSISTÊNCIA À SAÚDE. RESILIÇÃO UNILATERAL PELA OPERADORA. ADMINISTRADORA DE BENEFÍCIOS. RESPONSABILIDADE SOLIDÁRIA. AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO DO BENEFICIÁRIO. NECESSIDADE DE OFERECIMENTO DE OUTRA MODALIDADE DE PLANO DE SAÚDE COM AS MESMAS CARACTERÍSTICAS, SEM PRAZO DE CARÊNCIA. RESOLUÇÃO Nº 19/1999 DO CONSELHO DE SAÚDE SUPLEMENTAR. REPETIÇÃO EM DOBRO DO INDÉBITO. ART. 42, PARÁGRAFO ÚNICO, CDC. DANO MORAL. CONFIGURAÇÃO. QUANTUM INDENIZATÓRIO. CRITÉRIO PEDAGÓGICO -PUNITIVO.
+A exegese da legislação consumerista denota que a solidariedade entre os diversos participantes da cadeia de fornecimento decorre do próprio sistema de proteção ao consumidor, consoante o regramento contido no art. 7º, do CDC, razão pela qual a pretensa ilegitimidade passiva ad causam da operadora ou da administradora de plano de saúde não merece ser reconhecida.
+Nos termos do entendimento pacificado nesta Corte de Justiça, é obrigatório o oferecimento de plano de assistência à saúde individual ou familiar aos beneficiários em caso de resilição do contrato de plano de saúde coletivo (art. 1º, da Res. nº 19/1999, do CONSU).
+Demonstrado, no caso especifico, ser injustificada a cobrança, a repetição do indébito dá-se em dobro, nos termos do art. 42,parágrafo único, do CDC.
+A ruptura do serviço de assistência à saúde, sem a observância da notificação no prazo legal, bem como o oferecimento de plano diverso, com cobertura restrita, que deixa o beneficiário desamparado, sobeja o que se pode interpretar como mero desconforto ou aborrecimento.
+A jurisprudência pátria tem consagrado a dupla função do quantum devido a título de danos morais como compensatória e penalizante, devendo-se levar em consideração, na suai" fixação, o grau de culpa do agente, o dano suportado pela w vitima e a condição econômica de ambas as partes.
+Diante desse contexto, a compensação não deve ser estabelecida em quantia ínfima, incapaz de coibir a reiteração da conduta, e tampouco arbitrada em patamar excessivo, a ponto de gerar enriquecimento sem causa daquele que suportou as consequências do dano perpetrado." (e-STJ, fls. 868/869)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a agravante alega violação dos arts. 188, I, do CC/02 e 16 e 18 da Lei 9.656/98 e divergência jurisprudencial, sustentando, em síntese, que (a) a administradora de benefícios agiu em exercício regular de direito, tendo em vista que é proibida de comercializar planos de saúde individual ou familiar, não sendo dela a obrigação de manter o plano de saúde da agravada e, (b) é admitida a resilição unilateral de plano de saúde, mediante prévia notificação.
+É o relatório. Decido.
+Quanto à alegada violação do art. 188, I, do CC/02, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de
+embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em
+recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Embora a agravante sustente ser possível a resilição unilateral de contrato de plano de saúde mediante prévia notificação, o Tribunal de origem concluiu que não houve a notificação exigida, expressamente consignando o seguinte:
+"Isso porque, de uma análise dos documentos que instruem o feito, tem-se que não foram observadas as normas que regem a matéria, que estabelecem a necessidade de prévia comunicação da rescisão contratual.
+(..)
+Desse modo, ausente comprovação nos autos de que as requeridas cumpriram os requisitos legais para a rescisão do contrato coletivo, notadamente a prévia notificação e a oferta de plano de saúde equivalente, resta configurado o dano moral e correta a r. sentença ao determinar que haja a manutenção do plano saúde até que se cumpra o dever de notificação efetiva da beneficiária." (e-STJ, fl. 881)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Ademais, impossível conhecer da alegada divergência, pois a incidência do Verbete n. 7 da Súmula do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Nessa linha, observam-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - ALEGADA NÃO COMPROVAÇÃO DA CAUSA PARA EMISSÃO DE DUPLICATAS - SENTENÇA E ACÓRDÃO QUE RECONHECERAM A VALIDADE DOS TÍTULOS - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DO DEMANDANTE.
+1. Demonstrado que o acolhimento das razões do recurso especial torna imprescindível o reexame do conjunto fático-probatório dos autos, incide o enunciado nº 7 da Súmula do STJ.
+2. A incidência do enunciado nº 7 da Súmula do STJ impede o conhecimento do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. O dissídio jurisprudencial deve ser minuciosamente demonstrado por meio do cotejo analítico entre o acórdão recorrido e os acórdãos apontados como paradigmas, procedimento não observado pela parte insurgente.
+4. Agravo regimental desprovido."
+(AgRg no REsp 1137530/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/06/2014, DJe 24/06/2014)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INCLUSÃO INDEVIDA NO CADASTRO . REVISÃO DO VALOR. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+2. Segundo a jurisprudência desta Corte, o óbice da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 486.941/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/05/2014, DJe 12/06/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
