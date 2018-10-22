@@ -1,0 +1,23 @@
+DEICISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente defende a constitucionalidade dos juros moratórios previstos na Lei estadual nº 13.918/2009.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[…]
+    No entanto, o recurso não merece trânsito.
+    Ao que se infere, os argumentos expendidos não são suficientes para infirmar as conclusões do v. Acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato à norma constitucional enunciada.
+          Ademais, o exame de dispositivos de lei federal é inviável em sede de recurso extraordinário porque exorbita dos limites da competência da Corte Suprema constitucionalmente estabelecidos. Nesse sentido: ARE 917.089 AgR/PR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 24/11/2015; ARE 871.247 ED/PB, Primeira Turma, Rel. Min. Rosa Weber, DJe de 25/11/2015.
+    Por derradeiro, o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local. Atuante a Súmula 280 do Colendo Supremo Tribunal Federal.
+    Inadmito, pois, o recurso extraordinário com fundamento no inciso V do art. 1.030 do Código de Processo Civil”.
+    A pretensão recursal não merece prosperar. A jurisprudência do Supremo Tribunal Federal (STF) firmou-se no sentido de que o índice de atualização monetária adotado pelo ente federado deve ser igual ou inferior ao utilizado pela legislação federal – no caso, a Selic. Nesse sentido, confiram-se os seguintes julgados:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 113 DA LEI N. 6.374, DE 1º DE MARÇO DE 1.989, DO ESTADO DE SÃO PAULO. CRIAÇÃO DA UNIDADE FISCAL DO ESTADO DE SÃO PAULO – UFESP. ATUALIZAÇÃO MONETÁRIA PELO ÍNDICE DE PREÇO AO CONSUMIDOR – IPC. UNIDADE FISCAL DO ESTADO DE SÃO PAULO COMO FATOR DE ATUZALIZAÇÃO DOS CRÉDITOS TRIBUTÁRIOS. ARTIGO 24, INCISO I, DA CONSTITUIÇÃO DO BRASIL. INCONSTITUCIONALIDADE PARCIAL. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO.
+    1. Esta Corte, em oportunidades anteriores, firmou o entendimento de que, embora os Estados-membros sejam incompetentes para fixar índices de correção monetária superiores aos fixados pela União para o mesmo fim, podem defini-los em patamares inferiores --- incentivo fiscal. Precedentes.
+    2. A competência dos Estados-membros para fixar índices de correção monetária de créditos fiscais é tema que também foi examinado por este Tribunal. A União e Estados-membros detêm competência legislativa concorrente para dispor sobre matéria financeira, nos termos do disposto no artigo 24, inciso I, da CB/88.
+    3. A legislação paulista é compatível com a Constituição de 1988, desde que o fator de correção adotado pelo Estado-membro seja igual ou inferior ao utilizado pela União.
+    4. Pedido julgado parcialmente procedente para conferir interpretação conforme ao artigo 113 da Lei n. 6.374/89 do Estado de São Paulo, de modo que o valor da UFESP não exceda o valor do índice de correção dos tributos federais.” (ADI 442, Rel. Min. Eros Grau)
+    “Agravo regimental no agravo de instrumento. Tributos de competência do Estado. Correção monetária pela UFESP. Legitimidade declarada pelo Plenário do Tribunal. Parâmetro para atualização da unidade fiscal: índice fixado pelo Governo Federal. 1. A Corte consolidou o entendimento de que são válidos os decretos do Estado de São Paulo que determinaram a correção monetária do débito tributário antes do vencimento da obrigação, acentuando, contudo, que tal correção deve ser feita com base em índice que não supere aquele utilizado na atualização dos tributos federais. 2. Ademais, no julgamento da ADI nº 442/SP, da relatoria do Ministro Eros Grau, esta Corte teve a oportunidade de reafirmar esse posicionamento. 3. Agravo regimental não provido.” (AI 231.875-AgR, Rel. Min. Dias Toffoli)
+    É relevante destacar que a jurisprudência do STF considera válida a legislação estadual que fixa índices para atualização monetária de débitos tributários, desde que tais índices não superem aquele utilizado na atualização dos débitos tributários federais.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 22 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
