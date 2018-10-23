@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por [NOME], em face de decisão que não admitiu recurso especial (fls. 582-598, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 485-495, e-STJ):
+EMENTA: DUPLA APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. DANOS MATERIAIS. PLANO DE SAÚDE. TRATAMENTO ONCOLÓGICO. DANOS MATERIAIS. RESTITUIÇÃO. I - É sabido que para que o usuário de plano de saúde tenha direito ao custeio das despesas médicas fora da área de abrangência contratada é fundamental que esteja comprovado real estado de urgência e emergência, impossibilidade de utilização da rede contratada, bem como a necessidade de realização do procedimento de forma célere, sob pena de colocar em risco a saúde do usuário. II - Os contratos de planos de saúde estão indiscutivelmente submetidos às normas da Lei n.º 8.078/90 - CDC, consoante o que dispõe a Súmula nº 469 do STJ. III - A prestação de serviços médicos e hospitalares, mesmo celebrado antes da vigência da Lei nº 9.656/98, por refletir obrigações de trato sucessivo, além de corresponder a interesse social, está submetida às disposições do Código de Defesa do Consumidor. IV- Conforme cláusula 6.1 do contrato pactuado entre as partes, verifica-se que a patologia do autor se encontra no rol das doenças cobertas, sendo portanto objeto do negócio firmado, não cabendo a seguradora estabelecer quais os tratamentos serão utilizados, sob pena de ferir o objetivo do contrato, qual seja a saúde do segurado. APELAÇÕES CÍVEIS CONHECIDAS E DESPROVIDAS.
+SENTENÇA MANTIDA.
+Opostos embargos de declaração (fls. 504-510, e-STJ), esses foram rejeitados (fls. 535-541, e-STJ).
+Nas razões do recurso especial (fls. 547-560, e-STJ), o recorrente aponta violação aos artigos 1022, I, do CPC/2015; 14 e 20 do CDC; 12 e 35-C da Lei 9.656/98; e 884 e 944 do CC/2002.
+Sustenta, em síntese, que: a) o acórdão é omisso quanto à existência de documentação que comprova a urgência do tratamento médico demandado; b) o tratamento médico demandado não poderia ser prestado por hospital integrante da rede conveniada, conforme atestado pelo médico responsável pelo acompanhamento do recorrente; c) o hospital para onde foi removido o recorrente integra a rede conveniada de outra unidade integrante do sistema Unimed; d) o quadro clínico apresentado pelo recorrente era de urgência; e) a negativa de reembolso gera enriquecimento sem causa da recorrida.
+Contrarrazões às fls. 569-573, e-STJ.
+Em juízo de admissibilidade (fls. 578-579, e-STJ), negou-se o processamento do recurso especial, sob o fundamento de que incidiriam ao caso o enunciado nº 5 e 7 da Súmula do STJ, e 282 e 284 da Súmula do STF.
+Irresignado, aduz o agravante, em suma, que o reclamo merece trânsito, uma vez que: a) a decisão de admissibilidade, ao apreciar o mérito do recurso, usurpa competência do STJ; b) o acórdão recorrido possui vício de fundamentação; c) as suscitadas ofensas a dispositivos infraconstitucionais estão devidamente expostas; e d) o exame pretensão não demanda reanálise da matéria de fato.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, aponta-se inexistir usurpação de competência do Superior Tribunal de Justiça pela Corte Estadual, ao argumento de que se vislumbraria, no caso, ingresso indevido no mérito do recurso especial, por ocasião do juízo de admissibilidade.
+Com efeito, a teor da Súmula 123/STJ, constitui atribuição do Tribunal a quo, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. ANÁLISE DO MÉRITO DO APELO EXTREMO POR PARTE DO TRIBUNAL DE JUSTIÇA. POSSIBILIDADE. SÚMULA N. 123/STJ. 2. FUNDAMENTAÇÃO DEFICIENTE DO ACÓRDÃO. INEXISTÊNCIA. 3. AUSÊNCIA DOS REQUISITOS DA RESPONSABILIDADE CIVIL. SÚMULA N. 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de Justiça pode incursionar no mérito do recurso especial, quando necessária à análise dos pressupostos constitucionais de admissibilidade do apelo. Súmula n. 123/STJ.
+2. Não há omissão ou deficiência de fundamentação quando o Tribunal adota fundamentação suficiente, embora diversa da pretendida pela parte agravante, para a solução integral da controvérsia.
+3. A alteração do entendimento adotado pela Corte de origem - acerca da ausência dos requisitos autorizadores da responsabilidade civil no presente caso - demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1119469/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/05/2018, DJe 18/05/2018)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. O STJ possui entendimento pacífico no sentido de que não há falar em usurpação de competência pela Corte a quo, sob o argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, porquanto constitui atribuição do Tribunal local, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia, a teor da Súmula 123 do STJ.
+2. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 535 do CPC/73, vigente à época. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes.
+3. Para infirmar a conclusão a que chegou o Tribunal de origem sobre a inexistência de litisconsórcio passivo necessário na hipótese, seria inevitável o revolvimento do contexto fático-probatório dos autos, procedimento vedado nesta instância especial, a teor da Súmula 7 do STJ. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 539.954/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+2. No que toca à alegada violação ao art. 1.022 do CPC/2015, melhor razão não assiste ao insurgente.
+Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem expressamente reconheceu a inexistência de provas da urgência do tratamento médico demandado pelo ora agravante, bem como da impossibilidade de que fosse prestado por unidade integrante da rede conveniada do plano de saúde (fl. 488, e-STJ):
+Conforme se depreende dos documentos juntados aos autos, verifica-se que o encaminhamento do recorrente para consulta em São Paulo se deu para avaliação de uma segunda opinião e que a doença se encontrava estável. Desta feita, é sabido que para que o usuário de plano de saúde tenha direito ao custeio das despesas médicas fora da área de abrangência contratada é fundamental que esteja comprovado real estado de urgência e emergência, impossibilidade de utilização da rede contratada, bem como a necessidade de realização do procedimento de forma célere, sob pena de colocar em risco a saúde do usuário.
+Nesse contexto, concluiu que, nos termos do art. 12 da Lei 9.656/98, bem como da jurisprudência do STJ, não seria devido o reembolso de tais despesas médicas (fl. 489, e-STJ):
+Destarte, entendo que o procedimento realizado pelo primeiro apelante não se caracteriza como tratamento de urgência ou emergência (diante da falta de provas nesse sentido), não havendo que se falar em falha do serviço prestado, sendo a manutenção da sentença nesse ponto, medida acertada.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação à apreciação jurídica das provas acostadas aos autos, a qual levou ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO A DELIBERAÇÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO.
+INSURGÊNCIA DO EXEQUENTE.
+1. Violação ao artigo 535 do CPC/73, atual 1.022 do NCPC, não configurada. Acórdão desta Corte Superior que analisou detidamente todos os pontos necessários ao deslinde da controvérsia. Recurso dotado de caráter meramente infringente.
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS DECORRENTE DE ACORDO JUDICIAL INADIMPLIDO. 1.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 20, §§ 3º E 4º, DO CPC/1973. CRITÉRIO DE EQUIDADE. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1254843/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/05/2018, DJe 01/06/2018)
+3. Em relação ao dever de reembolso dos valores despendidos com o tratamento médico realizado em São Paulo, melhor razão não assiste ao recorrente.
+De acordo com a jurisprudência desta Corte, a providência ora pretendida, prevista no art. 12, VI, da Lei 9.656/98, tem natureza excepcional, cabível somente nas hipóteses de urgência ou emergência, quando não for possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO - PLANO DE SAÚDE - REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+(..)
+2. Nos termos da jurisprudência desta Corte, à luz do disposto no artigo 12, inciso VI, da Lei 9.656/98, o reembolso das despesas efetuadas pelo usuário do plano de saúde com internação em hospital não conveniado somente é admitido em casos excepcionais (situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada, entre outros).
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 943.700/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/06/2017, DJe 12/06/2017)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OFENSA AO ART. 1.022 DO NCPC. NÃO CARACTERIZAÇÃO. OPÇÃO POR EQUIPE MULTIDISCIPLINAR NÃO CREDENCIADA À OPERADORA DE SAÚDE. EXISTÊNCIA DE HIPÓTESES DE EXCEPCIONALIDADE. REEMBOLSO DAS DESPESAS. CABIMENTO. REVOLVIMENTO DE ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. A jurisprudência desta Corte entende que o reembolso das despesas efetuadas pelo tratamento médico realizado com profissional não credenciado é admitido apenas em casos especiais (inexistência de estabelecimento credenciado no local, recusa do hospital conveniado em receber o paciente, urgência da internação).
+3. No caso, o Tribunal de origem, diante da situação em que a autora/paciente se encontrava, acometida de lesões metastáticas no fígado e necessitando de tratamento oncológico e cirúrgico urgentes, determinou o reembolso integral das despesas médico-hospitalares da ora agravada, porquanto a rede credenciada da agravante não possuía a estrutura e os equipamentos necessários para tratamento da doença da paciente.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 881.469/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018)  grifou-se
+No caso em tela, conforme se depreende dos excertos do acórdão recorrido já citados na presente decisão, o Tribunal de origem, após cognição exauriente acerca dos elementos fático-probatórios contidos nos autos, consignou que as despesas realizadas em hospitais não conveniados ao plano, localizados em São Paulo, não possuíam natureza urgente.
+Ressalte-se, por oportuno, que tais conclusões, porquanto ligadas a matéria fático-probatória e contratual, não são sindicáveis em sede de recurso especial, haja vista os óbices contidos nas Súmulas 5/STJ e 7/STJ. Sobre o tema:
+AGRAVO INTERNO EM AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - PLANO DE SAÚDE - REEMBOLSO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA OPERADORA DO PLANO DE SAÚDE.
+1. Reembolso de despesas efetuadas por usuário do plano de saúde com internação em hospital não conveniado. Artigo 12, inciso VI, da Lei 9.656/98. Ressarcimento admitido apenas em casos excepcionais: situação de urgência ou emergência, inexistência de estabelecimento credenciado no local e/ou impossibilidade de utilização dos serviços próprios da operadora em razão de recusa injustificada, entre outros.
+1.1 Acórdão estadual que, com base nas circunstâncias fáticas dos autos, considerou configuradas as referidas hipóteses. Necessário reexame do contexto fático-probatório dos autos e interpretação das cláusulas do contrato de plano de saúde para suplantar a cognição da instância ordinária. Incidência das Súmulas 5 e 7 desta Corte.
+(..)
+3. Agravo interno desprovido.
+(AgInt no AgRg no AREsp 476.411/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/11/2016, DJe 18/11/2016)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. INEXISTÊNCIA DE HIPÓTESE DE EXCEPCIONALIDADE. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que o reembolso das despesas efetuadas pela internação em hospital não conveniado é admitido apenas em casos especiais (inexistência de estabelecimento credenciado no local, recusa do hospital conveniado em receber o paciente, urgência da internação).
+2. No caso, não ficou demonstrada nenhuma hipótese de excepcionalidade. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como proceder à interpretação de cláusulas contratuais, o que é defeso a esta Corte Superior ante o teor das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 964.617/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2016, DJe 01/12/2016)  grifou-se
+Nesses termos, inarredável a aplicação da Súmula 83/STJ ao caso, uma vez que o acórdão recorrido encontra-se em consonância com o entendimento fixado pelo Superior Tribunal de Justiça.
+4. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo. Por conseguinte, majoro a condenação ao pagamento de honorários advocatícios imposta ao ora recorrente pelas instâncias ordinárias, nos termos do art. 85, § 11, do CPC/2015, em R$ 150,00 (cento e cinquenta reais), observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
