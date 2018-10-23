@@ -1,0 +1,31 @@
+DECISÃO
+Inicialmente verifica-se que o representante do embargado KRISWILL INDUSTRIA E COMERCIO DE CONFECCOES E BOLSAS LTDA, o advogado Dr. SEBASTIÃO DA SILVA FERREIRA, comunica que renunciou ao mandato que lhe foi outorgado nestes autos e apresenta documento que comprova a ciência da parte (fls. 958/971).
+Nos termos do art. 112, caput, do CPC, compete à parte mandante, tendo sido devidamente notificada da renúncia de seu mandatário e inexistindo outros advogados habilitados, nomear procurador que suceda aquele que renunciou.
+No caso, apesar de ter sido o mandante devidamente cientificado, conforme documentos de fls. 958/971, não houve nomeação de novos causídicos para representá-lo.
+Conforme a jurisprudência do Superior Tribunal de Justiça, quando o advogado renuncia ao mandato e comunica o fato ao outorgante, cabe a este providenciar a constituição de novo patrono, independentemente da expedição de intimação pelo Poder Judiciário.
+Confira-se precedente da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. AGRAVO DESPROVIDO.
+I - Inexiste nulidade quando proferida decisão monocrática, embora incluído o processo em pauta, porquanto não há falar em preclusão pro judicato nos termos da pacífica orientação desta Corte (precedentes).
+II - A atual jurisprudência da Corte Superior se firmou no sentido de ser prescindível a intimação da parte para constituição de novo advogado, quando comprovada a notificação pelo causídico da renúncia dos poderes, conforme artigo 45 do antigo Código de Processo Civil (artigo 112 do NCPC).
+III - Aplica-se, portanto, a súmula 168/STJ, para indeferimento dos Embargos de Divergência, mantendo-se a decisão agravada conforme proferida.
+Agravo interno desprovido. (AgInt nos EAREsp n. 510.287/SP, relator Ministro Felix Fischer, Corte Especial, DJe de 27/3/2017.)
+Logo, não remanescendo advogado que represente a parte KRISWILL INDUSTRIA E COMERCIO DE CONFECCOES E BOLSAS LTDA, conforme certificado à fl. 972, o feito terá regular prosseguimento independente de sua intimação, já que, devidamente notificada, não constituiu novo patrono.
+Assim, considero perfectibilizado o ato de renúncia e determino a retificação da autuação para que não constem advogados da parte embargada KRISWILL INDUSTRIA E COMERCIO DE CONFECCOES E BOLSAS LTDA, tendo em vista a renúncia ao mandato realizada nos moldes do art. 112 do Código de Processo Civil.
+No mais, prossigo na análise dos autos.
+Trata-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por SERVTEC INSTALAÇÕES E MANUTENÇÃO LTDA. com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os julgados REsp n. 856.755/SP; REsp n. 1.001.503/MA e REsp n. 389.879/MG, todos proferidos pela Quarta Turma, e REsp n. 299.655/SP, da Terceira Turma, relativa ao entendimento de que, para a negativação do nome, " .. a responsabilidade dos bancos de dados é solidária ao fornecedor dos dados incorretos, por tratar-se de solidariedade resultante da cadeia de causalidade  .. ." (fl. 911)
+Requer, desse modo, o provimento dos embargos de divergência e a reforma do acórdão para que os honorários advocatícios sejam suportados somente pela embargada, Nova América, que deu causa à presente demanda. (fl. 917)
+É o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da falta de impugnação específica dos fundamentos da decisão agravada, fazendo incidir, na hipótese, a Súmula n. 182/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. QUESTÕES DE ADMISSIBILIDADE. NÃO CABIMENTO. SÚMULAS 283/STF; 7, 182 E 211/STJ. VIOLAÇÃO DO ART. 535 DO CPC/73. NECESSIDADE DE CONFRONTO DE HIPÓTESES IDÊNTICAS, CIRCUNSTÂNCIA NÃO VERIFICADA NO CASO EM APREÇO. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. São incabíveis Embargos de Divergência para discutir questões de admissibilidade, conforme orientação da Súmula 315/STJ.
+2. Ocasião em que o Recurso Especial teve seu seguimento negado em razão da incidência do óbice das Súmulas 283/STF; 7, 182 e 211/STJ, enquanto os julgados paradigmas apontados ultrapassaram a admissibilidade e apreciaram o mérito da causa.
+ ..
+4. Agravo Interno do particular desprovido.
+(AgInt nos EREsp 1345680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 5/4/2017, DJe de 19/4/2017).
+Mencione-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EAREsp 315.046/SP, relator Ministro Herman Benjamin, Corte Especial, julgado em 5/4/2017, DJe de 25/4/2017; AgInt nos EAg 1357322/DF, relator Ministro Felix Fischer, Corte Especial, julgado em 7/12/2016, DJe de 15/12/2016; EAREsp 559.766/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe de 22/11/2016; AgInt nos EREsp 1226477/RS, relator Ministro Humberto Martins, Corte Especial, julgado em 19/10/2016, DJe de 26/10/2016.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c.c. art. 266-C, do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 15% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
