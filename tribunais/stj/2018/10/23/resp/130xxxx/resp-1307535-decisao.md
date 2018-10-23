@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (e-STJ fl. 474):
+ADMINISTRATIVO. CONSTITUCIONAL. SERVIDOR PÚBLICO. POLICIAL FEDERAL. REGIME ESPECIAL DA LEI Nº 4.878/65. APLICAÇÃO SUBSIDIÁRIA DA LEI Nº 8.112/90. SINDICÂNCIA.
+APLICAÇÃO DE PENALIDADE DISCIPLINAR. SUSPENSÃO POR 13 (TREZE) DIAS. SINDICÂNCIA CONDUZIDA POR UM ÚNICO SERVIDOR. DEVIDO PROCESSO LEGAL. INOBSERVÂNCIA.
+NULIDADE. PROVIMENTO DA APELAÇÃO.
+0 policial federal se encontra submetido ao regime de norma especial da Lei nº 4.878/65, aplicando-se subsidiariamente as normas da Lei nº 8.112/90 nos casos de procedimento administrativo disciplinar.
+Da conclusão da sindicância que resultar em aplicação de penalidade disciplinar, incidem as normas da Lei nº 8.112/90, relativamente ao processo administrativo disciplinar (Precedente: STJ, Resp 509318, processo nº 200300282299/PR, Sexta Turma, Relatora: Min. Maria Thereza de Assis Moura, julgado em 17.02.2009, publicado no DJE de 02.03.2009) Nulidade do procedimento de sindicância que resultou em penalidade disciplinar, vez que conduzido por um único servidor, em menosprezo ao principio da legalidade e do devido processo legal.
+Provimento da apelação para reformar a sentença e julgar procedente o pedido para anular o procedimento de sindicância que aplicou a penalidade de suspensão de 13 (treze) dias, extinguindo o processo, na forma do artigo 269, I, do CPC. Honorários advocaticios de sucumbência invertidos
+Os aclaratórios foram rejeitados.
+Nas suas razões, a parte recorrente aponta violação do art. 52 da Lei n. 4878/1965, sustentado que "a aplicação de penalidade aos policiais civis da União e do Distrito Federal assume contornos típicos, em razão da disciplina específica a que estão submetidos. Ora, tais agentes públicos são responsáveis pela segurança pública! Destarte, inaplicável à hipótese o tratamento do processo disciplinar previsto pela Lei 8.112/90" (e-STJ fl. 508).
+Recurso foi admitido por força de agravo (e-STJ fls. 519).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito esse registro, observa-se que a pretensão recursal não merece prosperar.
+Com efeito, a Lei n. 4878/1965, que dispõe sobre o regime jurídico peculiar dos funcionários policiais civis da União e do Distrito Federal, prevê expressamente:
+Art. 62. Aos funcionários do Serviço de Polícia Federal e do Serviço Policial Metropolitano aplicam-se as disposições da legislação relativa ao funcionalismo civil da União no que não colidirem com as desta Lei.
+Quanto ao tema, assim consignou o Tribunal de origem (e-STJ fl. 470):
+O policial federal se encontra submetido ao regime de norma especial, no caso a Lei nº4.878/65. Evidentemente, subsidiariamente, pode ser aplicada a Lei nº8.112/90, quando a lei de natureza especial não tratar sobre a matéria.
+Quanto A questão discutida nos autos, a norma especial (Lei nº 4.878/65) não dispôs acerca da sindicância, prevendo apenas a instauração de processo disciplinar, conforme abaixo:
+Art. 52. A autoridade que tiver ciência de qualquer irregularidade ou transgressão a preceitos disciplinares é obrigada a providenciar a imediata apuração em processo disciplinar no qual será assegurada ampla defesa.
+(grifei e sublinhei)
+Art. 53. (..)
+§ 1º Promoverá o processo disciplinar uma Comissão Permanente de Disciplina, composta de três membros de preferência bacharéis em Direito, designada pelo Diretor-Geral do Departamento Federal de Segurança Pública ou pelo Secretário de Segurança Pública do Distrito Federal, conforme o caso.
+Por sua vez, a Lei nº 8.112/90 é expressa quanto â possibilidade de instauração de sindicância, inclusive a aplicação de penalidade de até 30 (trinta) dias de suspensão, se observado os princípios da ampla defesa e do contraditório, vale dizer, se instaurada a sindicância e, ao final, ser aplicada penalidade, é indispensável ser observado os princípios ora referidos.
+Assim, se possível a aplicação de penalidade através de sindicância, as mesmas regras previstas ao processo administrativo disciplinar deverão ser aplicadas ã sindicância se desta decorrer aplicação de penalidade.
+Com efeito, considerando que a sindicância instaurada redundou em aplicação de penalidade ao Recorrente, não poderia esta ser composta por apenas um servidor, pois devem ser aplicados os princípios que regem o processo administrativo disciplinar, em especial da ampla defesa, do contraditório, da impessoalidade e da imparcialidade, o que não foi observado no presente caso, pois o documento à fl. 34 demonstra que a sindicância objeto de análise foi composta por um único servidor.
+O aresto recorrido está em conformidade com o entendimento desta Corte de que a existência de legislação específica inerente aos policiais federais - Lei n. 4.878/1965 - não afasta a aplicação subsidiária da Lei n. 8.112/1990, quando a lei especial não tratar da matéria. Nesse sentido:
+DIREITO SANCIONADOR. POLICIAL FEDERAL. PAD. COMISSÃO DISCIPLINAR CONSTITUÍDA POST FACTUM. OFENSA AOS PRINCÍPIOS DO JUIZ NATURAL E DO JUSTO PROCESSO. ENTENDIMENTO CONSOLIDADO PELA PRIMEIRA SEÇÃO. INAPLICABILIDADE DA LEI 8.112/90. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Esta Corte consolidou a orientação de que havendo expressa previsão legal na lei que institui o Estatuto dos Policiais Federais acerca da necessidade de os Processos Administrativos Disciplinares serem conduzidos por uma comissão permanente, não há falar em aplicação subsidiária da Lei 8.112/90 como fundamento para autorizar a constituição de uma comissão processante temporária. Precedentes: REsp. 1.185.375/RJ, Rel. Min. CASTRO MEIRA, DJe 4.4.2011; MS 13.821/DF, Rel. Min. ARNALDO ESTEVES LIMA, DJe 9.4.2010; AgRg no MS 14.310/DF, Rel. Min. OG FERNANDES, DJe 24.9.2009; MS 13.250/DF, Rel. Min. FELIX FISCHER, DJe 2.2.2009.
+2. Agravo Interno da UNIÃO a que se nega provimento. (AgInt no REsp 1611614/DF, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 23/03/2017)
+RECURSO ESPECIAL. PROCESSO CIVIL. ADMINISTRATIVO. VIOLAÇÃO DO ART. 535, II, DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. POLICIAL FEDERAL. FALTA DISCIPLINAR PUNIDA COM SUSPENSÃO POR 4 (QUATRO) DIAS. APURAÇÃO POR SINDICÂNCIA. POSSIBILIDADE.
+1. Não ocorre ofensa ao art. 535, II, do Código de Processo Civil quando o acórdão recorrido utiliza fundamentação suficiente para solucionar a lide, sem incorrer em omissão, obscuridade ou contradição, não obstante decida de forma contrária ao interesse da parte recorrente.
+2. O art. 62 da Lei nº 4.878/65, que dispõe sobre o regime jurídico dos policiais civis da União, permite a aplicação subsidiária do Estatuto do Servidor Público Federal (Lei nº 8.112/90).
+3. Assim, nos termos do art. 146 da Lei nº 8.112/90, para apuração de responsabilidades funcionais de servidor público que possibilitem aplicação de penas de advertência ou suspensão de até 30 (trinta) dias, o mecanismo legal é a sindicância, enquanto para as penalidades mais graves exige-se o processo administrativo disciplinar, sendo certo que, em ambos, deve ser assegurado o direito de defesa do acusado.
+4. Recurso especial parcialmente provido. (REsp 1173455/RS, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 19/09/2011)
+Assim, aplica-se, na hipótese, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+ Publique-se. Intimem-se.
