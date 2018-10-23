@@ -1,0 +1,60 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO INTERNACIONAL DE DROGAS. ATUAÇÃO COMO MULA. 7.701 G DE COCAÍNA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI DE DROGAS. FRAÇÃO DE REDUÇÃO. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. REFERÊNCIA, LANÇADA NA DECISÃO AGRAVADA, ACERCA DA QUANTIDADE DE DROGAS. TESE DE QUE SERIA VEDADO TAL ACRÉSCIMO. IMPROCEDÊNCIA. ARGUMENTO OBITER DICTUM. POSSIBILIDADE DE APLICAÇÃO DO DIREITO NO JULGAMENTO DO RECURSO ESPECIAL. ART. 1.034 DO CPC. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] e [NOME] contra decisão monocrática às fls. 542/548, por meio da qual conheci do agravo para conhecer, em parte, do recurso especial por eles interposto e, nessa extensão, negar-lhe provimento. Eis a ementa respectiva (fl. 542):
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS INTERNACIONAL. 7.701g DE COCAÍNA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI DE DROGAS. FRAÇÃO DE REDUÇÃO. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. MANUTENÇÃO DO PATAMAR DE 1/6. ALTERAÇÃO DO REGIME E SUBSTITUIÇÃO DAS PENAS. PEDIDOS PREJUDICADOS.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões, a defesa alega que deve ser aplicada a minorante legal em sua fração máxima (2/3), pois os agravantes preenchem todos os requisitos para o recebimento da benesse em seu grau máximo.
+Afirma que pacificada a questão por este Tribunal, assim como pela Suprema Corte, que as mulas do tráfico não integram a organização criminosa, assim não pode tal condição por si só ser utilizada para fixar o redutor do art. 33, § 4º em seu grau mínimo (fl. 555).
+Defende, ainda, que esta Corte superior não pode em acréscimo de fundamentação querer justificar a fração do redutor fixada no mínimo legal com argumentos não apresentados nas instâncias anteriores (fl. 555).
+Pede que a decisão seja reconsiderada ou que o recurso seja submetido ao Colegiado a fim de ser dado provimento ao recurso da defesa para reconhecer a hipótese de aplicação do § 4º do art. 33 da Lei n. 11.343/2006, em seu grau máximo, aplicado o redutor de 2/3 na pena imposta aos agravantes, ainda se adequando o regime de cumprimento de pena, e observada a substituição da pena corporal por restritiva de direitos (fl. 557).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A decisão agravada deve ser mantida.
+Na hipótese, o Tribunal de origem refez a dosimetria da reprimenda imposta pelo Magistrado singular, de modo a reduzir a elevação da pena-base na primeira fase e aplicar, quando da terceira fase, a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 1/6.
+Por sua vez, pretende a defesa a aplicação da minorante legal em sua fração máxima (2/3).
+Eis os termos do acórdão quanto ao ponto (fl. 405):
+ ..  Portanto, os réus fazem jus à aplicação da referida causa de diminuição, entretanto, no percentual mínimo de 1/6 (um sexto), pois se associaram, de maneira eventual e esporádica, a uma organização criminosa de tráfico internacional de drogas, cumprindo papel de importância para o êxito da citada organização  .. .
+No que se refere ao patamar de redução aplicado em decorrência do tráfico privilegiado, entendo que a diminuição da pena em 1/6 se encontra fundamentada dentro de critérios razoáveis de proporcionalidade, dadas as circunstâncias concretas a envolver o caso em questão, valendo registrar que, ainda que os agravantes preencham as circunstâncias legais do art. 33, § 4º, da Lei n. 11.343/2006, não está o magistrado obrigado a aplicar a redução em seu patamar máximo, desde que o faça de forma devidamente fundamentada, como se constata no presente caso.
+Conforme, inclusive, afirmei monocraticamente, o julgador possui discricionariedade para reduzir a reprimenda no quantum que entender suficiente e necessário para a prevenção e a repressão do delito perpetrado.
+Isso porque o legislador não delimitou parâmetros para a redução da pena pela causa de diminuição prevista na Lei de Drogas, de forma que o quantum de diminuição fica adstrito ao prudente arbítrio do magistrado, que deve observar o princípio do livre convencimento motivado (AgRg no REsp n. 1.407.114/SP, Ministra Laurita Vaz, Quinta Turma, DJe 2/9/2014).
+Ademais, embora a atuação como mula não obste, por si só, a incidência do redutor, tal aspecto pode ser sopesado na fixação da fração do redutor:
+ ..
+1. Considerando os argumentos colacionados pelo Tribunal de Justiça para justificar a fração de 1/6 para aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 (fl. 188), nada há de ser reconsiderado, mormente, porque se firmou também no Pretório Excelso o entendimento de que a atuação na condição de mula, embora não seja suficiente para denotar que integre, de forma estável e permanente, organização criminosa, configura circunstância concreta e elemento idôneo para valorar negativamente a conduta do agente, na terceira fase da dosimetria, modulando-se a aplicação da ocorre na espécie.
+ ..
+(AgRg no HC n. 410.698/SP, de minha relatoria, Sexta Turma, DJe 16/10/2017 - grifo nosso)
+ ..
+3. A jurisprudência desta Corte, acompanhando o atual posicionamento do STF, entende que a simples atuação do agente como "mula", por si só, não induz que esse integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade. Contudo, embora o desempenho dessa função não seja suficiente para denotar que o paciente faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez que se reveste de maior gravidade.
+4. Considerando que o recorrente conscientemente atuou em favor da organização criminosa, aplicável o referido redutor na fração de 1/6 (um sexto).
+ ..
+(AgRg no AREsp n. 564.567/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/9/2018)
+ ..
+2. Até recentemente, a jurisprudência desta Corte Superior estava consolidada no sentido de que o agente transportador de drogas, na qualidade de mula do tráfico, integra organização criminosa, não fazendo jus, portanto, à causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+3. No julgamento do AgRg no AREsp n. 784.082/MS, da relatoria do Ministro Ribeiro Dantas, a Quinta Turma, lastreada na jurisprudência recente do Supremo Tribunal Federal, passou a adotar entendimento diverso acerca do tema, no sentido de que a simples atuação como mula, por si só, não induz que o réu integre organização criminosa, de forma estável e permanente, não constituindo, pois, fundamento idôneo para afastar a aplicação do redutor; ressalvando, no entanto, a possibilidade de que tal elemento subsidie a modulação do redutor, considerando que o réu, enquanto transportador, tem conhecimento de que auxilia o crime organizado no tráfico internacional.
+4. Como o novo entendimento encontra ressonância na jurisprudência recente do Supremo Tribunal Federal, não há motivo para insistir na manutenção da tese contrária, que até então vinha sendo acatada na Sexta Turma.
+5. No caso dos autos, além da condição de mula, o juízo processante não indicou nenhum elemento concreto que evidenciasse que a ora agravante integrasse organização criminosa ou se dedicasse ao tráfico de drogas, circunstância expressamente reconhecida no acórdão da apelação, que entendeu pela incidência do redutor especial no patamar mínimo (1/6); fração que deve ser mantida, considerando que o fundamento utilizado pelo acórdão - calcado na forma de acondicionamento da droga (oculta em amplificadores de som) - efetivamente indica um tráfico mais sofisticado, consubstanciado fundamento idôneo para a fixação do redutor no mínimo legal.
+6. Agravo regimental provido em parte, apenas para estabelecer que a ora agravante faz jus ao redutor especial da pena (art. 33, § 4º, da Lei n. 11.343/2006), no patamar originalmente fixado (1/6), sem reflexos na dosimetria da pena estabelecida na decisão agravada.
+(AgRg no AREsp n. 1.052.075/SP, de minha relatoria, Sexta Turma, DJe 1º/8/2017)
+É certo, pois, que há fundamentação idônea no acórdão da origem para fixação da fração estipulada.
+Em relação à referência lançada na decisão agravada acerca da quantidade de droga (mais de 7 kg de cocaína), não há falar em proibição do mencionado acréscimo.
+Primeiro, porque tal referência consubstanciou mero argumento obiter dictum.
+Ademais, a atuação desta Corte, no julgamento do recurso especial, não se restringe ao papel de um tribunal de cassação, pois há disposição legal que autoriza a aplicação do direito no julgamento de mérito do recurso especial (art. 1.034 do CPC):
+Art. 1.034. Admitido o recurso extraordinário ou o recurso especial, o Supremo Tribunal Federal ou o Superior Tribunal de Justiça julgará o processo, aplicando o direito.
+Com efeito, superado o juízo de admissibilidade, o recurso especial comporta efeito devolutivo amplo, de modo que esta Corte pode aplicar o direito, inclusive se valendo de fundamentos não ventilados na instância ordinária.
+Nesse sentido, destaco que:
+ ..
+2. É possível a aplicação do direito à espécie, sendo autorizado ao julgador adotar fundamento diverso do invocado pelo recorrente, a teor dos arts. 1.034 do CPC/2015 e 255, § 5º, do RISTJ, bem como da Súmula nº 456/STF, os quais procuram dar efetividade à prestação jurisdicional sem deixar de atentar para o devido processo legal, coadunando-se com a nova tendência de primazia das decisões de mérito, adotada no art. 4º do CPC/2015.
+ ..
+(AgInt no AREsp n. 178.910/MG, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 25/6/2018)
+Tal compreensão, aliás, é anterior ao advento no novo Código de Processo Civil, como se verifica no seguinte precedente:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. APLICAÇÃO DO DIREITO À ESPÉCIE. ART. 257 DO RISTJ. INEXISTÊNCIA DE SUPRESSÃO DE INSTÂNCIA. PREQUESTIONAMENTO. MITIGAÇÃO. CELERIDADE DA PRESTAÇÃO JURISDICIONAL.
+1. Superado o juízo de admissibilidade, o recurso especial comporta efeito devolutivo amplo, o que implica o julgamento da causa e a aplicação do direito à espécie, nos termos do art. 257 do RISTJ, que procura dar efetividade à prestação jurisdicional, sem deixar de atender para o devido processo legal.
+2. Precedentes: AgRg no REsp 1.065.763/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 10.3.2009, DJe 14.4.2009; REsp 1.080.808/MG, Rel. Min. Luiz Fux, Primeira Turma, julgado em 12.5.2009, DJe 3.6.2009; AgRg no Ag 1.195.857/MG, Rel. Min. Jorge Mussi, Quinta Turma, julgado em 9.3.2010, DJe 12.4.2010.
+3. "Na aplicação do direito à espécie o STJ poderá mitigar o requisito do prequestionamento, valendo-se de questões não apreciadas diretamente pelo 1º e 2º grau de jurisdição, tampouco ventiladas no recurso especial. Não há como limitar as funções deste Tribunal aos termos de um modelo restritivo de prestação jurisdicional, compatível apenas com uma eventual Corte de Cassação." (EREsp 41614/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, DJe 30.11.2009).
+4. A aplicação do direito à espécie constitui-se instrumento de celeridade na prestação jurisdicional (art. 5º, LXXVIII, da CF/88), não sendo incompatível com o requisito do prequestionamento, tampouco atentando contra o duplo grau de jurisdição ou o devido processo legal.
+Ação rescisória improcedente.
+(AR n. 4.373/SP, Ministro Humberto Martins, Primeira Turma, DJe 6/5/2011)
+Ante o exposto, nego provimento ao agravo regimental.
