@@ -1,0 +1,9 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra decisão monocrática proferida pelo Juiz Federal Presidente da Terceira Turma Recursal dos Juizados Especiais Federais do Estado de Pernambuco, que não admitiu Pedido de Uniformização de Jurisprudência.
+    O recurso extraordinário não deve ser provido, tendo em vista que não foram exauridas as vias recursais nas instâncias ordinárias, o que atrai a incidência da Súmula 281/STF. Confira-se, nessa linha, a ementa do ARE 953.700-AgR, Relª Minª Cármen Lúcia, Plenário, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO CONTRA DECISÃO MONOCRÁTICA DE INCIDENTE DE UNIFORMIZAÇÃO. AUSÊNCIA DE ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 23 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
