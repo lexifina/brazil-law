@@ -1,0 +1,8 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS (TESES REPETITIVAS 126, 184, 280, 281, 282 E 283 E SÚMULA 408 DO STJ - RESP 1.328.993/CE). RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CÓDIGO FUX.
+1. Trata-se de Recurso Especial interposto pela CONCESSIONARIA ECOVIAS DOS IMIGRANTES S.A., com fundamento no art. 105, III, a e c da Constituição Federal, contra acórdão do TJ/SP.
+2. Verifica-se que a matéria discutida nos autos - incidência dos juros compensatórios na ação de desapropriação - encontra-se afetada à 1a. Seção do STJ como representativo da controvérsia e aguarda julgamento (teses repetitivas 126, 184, 280, 281, 282 e 283 e Súmula 408 do STJ - Resp. 1.328.993/CE).
+3. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 1.040 do Código Fux.
+4. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do Código Fux.
+5. Publique-se.
+6. Intimações necessárias.
