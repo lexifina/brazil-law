@@ -1,0 +1,21 @@
+Decisão:
+Ementa: Processual penal. Habeas Corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Felix Fischer, assim ementado:
+    “PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. RECEPTAÇÃO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONTUMÁCIA DELITIVA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. HABEAS CORPUS NÃO CONHECIDO.
+    I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+    II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+    III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados extraídos dos autos, notadamente a habitualidade do paciente em condutas delitivas, pois ‘responde a dois crimes contra a vida embora tenha mencionado a existência de um. Assim, em que pese tecnicamente primário, é inegável a periculosidade do indiciado, pois apesar da pouca idade, 21 anos, já responde a dois crimes contra a vida, como já afirmado, e compra uma arma de fogo, em circunstância absolutamente censurável e criminosa’, circunstâncias aptas a justificar a imposição da segregação cautelar como garantia da ordem pública em virtude do fundado receio de reiteração delitiva. (Precedentes do STF e do STJ).
+    Habeas Corpus não conhecido.”
+    2.  Extrai-se dos autos que o paciente foi preso em flagrante delito em 22.03.2018, pela suposta prática dos crimes previstos no artigo 16 da Lei 10.826/03 e no artigo 180, caput, do Código Penal. O Juízo da Vara Plantão da Comarca de Taubaté/SP, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça, não conhecido.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a manutenção da custódia cautelar e requer a concessão da ordem a fim de revogar a prisão processual do acionante.
+    Decido.
+    5. O habeas corpus não deve ser concedido.
+    6. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a fundada probabilidade de reiteração criminosa justifica a decretação da custódia cautelar para a garantia da ordem pública (vg. HC 141.170-AgR, Rel. Min. Dias Toffoli; HC 140.215-AgR, Rel. Min. Dias Toffoli; HC 132.220, Rel. Min. Ricardo Lewandowski; RHC 138.369, Rel. Min. Gilmar Mendes).
+    7. No caso de que se trata, a autoridade impetrada não divergiu desse entendimento ao assentar que “o decreto prisional encontra-se devidamente fundamentado em dados extraídos dos autos, notadamente a habitualidade do paciente em condutas delitivas, pois ‘responde a dois crimes contra a vida embora tenha mencionado a existência de um. Assim, em que pese tecnicamente primário, é inegável a periculosidade do indiciado, pois apesar da pouca idade, 21 anos, já responde a dois crimes contra a vida, como já afirmado, e compra uma arma de fogo, em circunstância absolutamente censurável e criminosa’, circunstâncias aptas a justificar a imposição da segregação cautelar como garantia da ordem pública em virtude do fundado receio de reiteração delitiva” (os grifos são do original).
+    8. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 23 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
