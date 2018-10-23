@@ -1,0 +1,36 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS POR ENTE PÚBLICO. REPERCUSSÃO GERAL RECONHECIDA. DEVOLUÇÃO E SOBRESTAMENTO DO RECURSO ESPECIAL NA CORTE DE ORIGEM. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. Em relação ao fornecimento de medicamentos por ente público, ressalta-se a existência de repercussão geral reconhecida pelo Supremo Tribunal Federal quanto ao "Dever do Estado de fornecer medicamento de alto custo a portador de doença grave que não possui condições financeiras para comprá-lo." - Tema 6 e ao "Dever do Estado de fornecer medicamento não registrado pela ANVISA" - Tema 500.
+2. Assim, de rigor o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos que tratarão a respeito dos referidos Temas.
+3. Embargos de declaração acolhidos, com efeitos modificativos.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de embargos de declaração opostos pela UNIÃO contra acórdão proferido pela Eg. Primeira Turma deste STJ, assim ementado (fl. 432):
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTO. IMPRESCINDIBILIDADE DO FÁRMACO. INVERSÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Rever as conclusões adotadas pela Corte de origem, no sentido da imprescindibilidade da medicação e que a excepcionalidade do caso justificaria tal medida, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+A parte embargante, em suas razões recursais, sustenta que o acórdão embargado quedou silente a respeito da seguinte questão: "mesmo sendo imprescindível para a saúde do autor, é possível deferir o fornecimento de um medicamento não registrado na ANVISA " (fl. 440).
+O prazo para impugnação transcorreu in albis (fl. 445).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação merece acolhida.
+Quanto à matéria de fundo, qual seja, o fornecimento de medicamentos por ente público, ressalta-se a existência de repercussão geral reconhecida pelo Supremo Tribunal Federal quanto ao "Dever do Estado de fornecer medicamento de alto custo a portador de doença grave que não possui condições financeiras para comprá-lo." - Tema 6.
+Do mesmo modo, a Suprema Corte também reconheceu repercussão geral quanto ao "Dever do Estado de fornecer medicamento não registrado pela ANVISA" - Tema 500.
+Nesse contexto, mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos que tratarão a respeito dos referidos Temas.
+Confira-se, a propósito, os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMULAÇÃO DE CLÁUSULA PENAL E LUCROS CESSANTES. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. DECISÃO IRRECORRÍVEL. AGRAVO NÃO CONHECIDO.
+1. Verificada a identidade das questões discutidas no recurso especial e nos recursos representativos de controvérsia, deve ser observado o procedimento previsto no art. 256-L do RISTJ, o qual, para os recursos distribuídos, determina a devolução dos autos à Corte de origem, a fim de que ali aguardem, suspensos, o julgamento definitivo da matéria repetitiva.
+2. Conforme entendimento sedimentado no STJ, é irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem, a fim de aguardar o julgamento de matéria submetida ao rito dos recursos repetitivos. Precedentes.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 411.892/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONCEITO DE INSUMO PARA FINS DE TRIBUTAÇÃO DO PIS E DA COFINS. MATÉRIA AFETADA COMO TEMA REPETITIVO. NECESSÁRIA DEVOLUÇÃO AO TRIBUNAL DE ORIGEM. PRECEDENTES.
+1. O tema afetado no Superior Tribunal de Justiça faz referência ao conceito de insumo para definir o direito ou não ao creditamento do PIS e da COFINS, nos termos das Leis n. 10.637/2002 e 10.833/2003.
+2. Muito embora a contribuinte busque estender uma hipótese de creditamento prevista em tratados internacionais para não cumulatividade às contribuições do PIS e da COFINS na importação, observa-se claramente que a controvérsia perpassa pelo conceito de insumo, pois a Corte local escorou-se na omissão das leis acerca de tal conceito para negar o direito postulado.
+3. Encontrando-se a matéria afetada ao rito dos recursos repetitivos, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso especial afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015. Em situações semelhantes, os precedentes: AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017; AgInt no AgInt no REsp 1.366.363/ES, de minha relatoria, Segunda Turma, DJe 23/8/2017; EDcl no AgInt no AgRg no REsp 1.399.836/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 3/8/2017.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgRg nos EDcl no REsp 1345683/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+Nesse contexto, impõe-se o aguardo do exaurimento da jurisdição do Tribunal de origem, a qual apenas se esgotará após decidido o tema afetado como de repercussão geral, oportunidade em que a Corte local, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, acolhem-se os embargos declaratórios, com efeitos modificativos, para tornar sem efeito as decisões de fls. 383/388 e 426/432, determinando-se a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos que tratarão dos temas 6 e 500 da repercussão geral do STF, seja observado, daí em diante, o iter delineado nos arts. 1.040 e 1.041 do CPC/2015.
+É o voto.
