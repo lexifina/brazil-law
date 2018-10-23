@@ -1,0 +1,44 @@
+DECISÃO
+RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. ART. 525 DO CPC/1973. AUSÊNCIA DE CERTIDÃO DE INTIMAÇÃO. CASO EM QUE O TRIBUNAL LOCAL ENTENDEU PELA IMPOSSIBILIDADE DE AFERIÇÃO DA TEMPESTIVIDADE POR OUTROS MEIOS. CONCLUSÃO DIVERSA QUE IMPLICARIA O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME] e OUTROS, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECURSO ESPECIAL  REPERCUSSÃO GERAL  JUÍZO DE RETRATAÇÃO  ART. 543-C § 7º, DO CPC  AGRAVO DE INSTRUMENTO AUSÊNCIA DE PEÇA OBRIGATÓRIA NÃO CONHECIMENTO O agravo de instrumento previsto no artigo 522 do Código de Processo Civil pressupõe a juntada das peças obrigatórias, nos termos do artigo 525, I, do CPC, de modo que a ausência de tais obsta o conhecimento do agravo  Manutenção do julgado  Inaplicabilidade do entendimento. Acórdão mantido.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Alegam os recorrentes a necessidade de se cientificar o recorrente da necessidade de complementação dos autos, sanando eventual deficiência, conforme orientação que teria sido firmada a partir do REsp. 1.102.467/RJ. Defendem, também, a possibilidade de aferição da tempestividade do Agravo de Instrumento por documento diverso constante dos autos, qual seja, a publicação de fls. 329.
+4. Contrarrazões às fls. 457/464.
+5. Ouvido, opinou o Ministério Público Federal pelo não conhecimento do recurso.
+6. É o relatório.
+7. Consoante a firme jurisprudência assentada pela Corte Especial deste Tribunal Superior, a interposição do Recurso Especial, tanto pela alínea a quanto pela alínea c, não dispensa a indicação do dispositivo de Lei Federal que o Tribunal de origem teria violado ou dado interpretação divergente daquela firmada por outros tribunais.
+8. No caso, os recorrentes deixaram de indicar o artigo de Lei Federal alvo de afronta.
+9. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo a incidência do contido na Súmula 284/STF. A propósito, confiram-se os seguintes precedentes:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO INCISO III DO ART. 105 DA CF/88. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA, NOS TERMOS DO ART. 541, PARÁGRAFO ÚNICO, DO CPC E DO ART. 255, §§ 1o. E 2o., DO RISTJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL AO QUAL TERIA SIDO DADA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284 DO STF. PRECEDENTE DA CORTE ESPECIAL DO STJ. ILEGITIMIDADE ATIVA RECONHECIDA, PELO TRIBUNAL A QUO, COM FUNDAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. O conhecimento do Recurso Especial, pela alínea c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal, tal como ocorreu, no caso dos autos. Precedentes do STJ.
+(..).
+V. Agravo Regimental improvido (AgRg no AgRg no AREsp. 477.730/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 17.3.2016).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇA OBRIGATÓRIA. ART. 525, I, DO CPC. NÃO CONHECIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+(..).
+V - Agravo Regimental improvido (AgRg no REsp. 1.365.477/MS, Rel. Min. REGINA HELENA COSTA, DJe 4.2.2016).
+10. Ainda que assim não fosse, na hipótese dos autos o Tribunal de origem consignou expressamente que os Agravantes não juntaram qualquer documento comprobatório da tempestividade recursal.
+11. Tendo o Tribunal de origem consignado expressamente a inexistência de outros meios para a aferição da tempestividade do recurso, o acolhimento das alegações deduzidas no Apelo Nobre ensejaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DOCUMENTO OBRIGATÓRIO. ART. 525, I, DO CPC/1973. CERTIDÃO DE INTIMAÇÃO. AUSÊNCIA. NECESSIDADE DE CERTIDÃO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência desta Corte, não basta, para justificar a ausência de documento obrigatório previsto no art. 525, I, do CPC/1973, a alegação de que o agravo de instrumento foi formado com a cópia integral dos autos, sendo necessário juntada de certidão que ateste a inexistência da aludida peça.
+2. O recurso especial não comporta exame de temas que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso, o agravo não foi instruído com a certidão de intimação e ficou expressamente consignado, no acórdão recorrido, não ser possível aferir a tempestividade do recurso pelos elementos constantes nos autos. Alterar tal conclusão é inviável em especial ante o óbice da mencionada súmula.
+4. A Corte local manteve a desconsideração da personalidade jurídica, à luz do art. 28, § 5º, do CDC. A falta de análise do conteúdo normativo dos dispositivos legais invocados (arts. 50 e 187 do Código Civil de 2002) torna inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211/STJ).
+5. Agravo interno a que se nega provimento (AgInt no AREsp. 1.019.605/PE, Rel. Min. ANTONIO CARLOS FERREIRA, DJe 2.4.2018).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 525, I, DO ANTIGO CPC. CERTIDÃO DE INTIMAÇÃO. PEÇA OBRIGATÓRIA. NÃO APRESENTAÇÃO. SÚMULA 83. INTEMPESTIVIDADE DO AGRAVO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte estadual assentou a intempestividade do recurso com amparo nos elementos de prova colacionados nos autos. A reforma do julgado encontra óbice na Súmula nº 7/STJ. A propósito: 2. Nos termos da jurisprudência desta Corte Superior, a certidão de intimação, peça obrigatória do agravo de instrumento (art. 525, I, do antigo CPC), não pode ser substituída por documentos que não sejam idôneos para comprovar a tempestividade do recurso. Súmula 83 do STJ.
+3. Agravo interno não provido (AgInt no AREsp. 1.088.138/AL, Rel. Min. LUIS FELIPE SALOMÃO, DJe 29.9.2017).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ARTIGO 525, I, DO CPC/1973. AUSÊNCIA DE PEÇA OBRIGATÓRIA. CERTIDÃO DE INTIMAÇÃO DA PARTE AGRAVANTE. DEFICIÊNCIA NA FORMAÇÃO. NÃO CONHECIMENTO.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ. 2. É firme nesta Corte o entendimento de que a juntada das peças obrigatórias previstas no artigo 525, I, do CPC/1973 é indispensável para o conhecimento do agravo, competindo à parte zelar pela correta formação do instrumento. Precedente: AgRg no REsp 1.365.477/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4/2/2016.
+3. Agravo interno não provido (AgInt no REsp. 1.433.514/AL, Rel. Min. BENEDITO GONÇALVES, DJe 2.8.2017).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FORMAÇÃO DO INSTRUMENTO. PEÇA OBRIGATÓRIA. ÔNUS DO AGRAVANTE. EXTRATO DE ANDAMENTOS ELETRÔNICOS. AUSÊNCIA DE VALOR PROBATÓRIO. RECURSO NÃO PROVIDO.
+1. É indispensável o traslado de todas as peças obrigatórias à formação do agravo de instrumento na origem (CPC, art. 525), importando a ausência de qualquer delas o não conhecimento do recurso.
+2. O extrato de andamento eletrônico, franqueado no sítio do Eg. Tribunal de Justiça não pode ser reconhecido como meio eficaz de comprovação da tempestividade recursal, porquanto o referido documento não é dotado de fé pública. Nesse sentido: AgRg no AREsp 76.935/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/10/2012, DJe de 31/10/2012 3. Agravo regimental a que se nega provimento (AgRg no AREsp. 279.891/RS, Rel. Min. RAUL ARAÚJO, DJe 25.10.2013).
+12. Ante o exposto, nega-se seguimento ao Recurso Especial interposto por [NOME] e OUTROS.
+13. Publique-se.
+14. Intimações necessárias.
