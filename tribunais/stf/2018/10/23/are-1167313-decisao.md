@@ -1,0 +1,28 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença parcialmente confirmada pelo Colegiado de origem o seguinte trecho:
+    Alega o autor que não teria sido corretamente enquadrado em seu cargo, para fins de recebimento de proventos de aposentadoria quando da implantação do Quadro Próprio de Pessoal do IAPAR, através da Lei Estadual nº. 15.179/2006.
+    Assiste-lhes parcial razão.
+    A referida lei regulou através de seus arts. 29, 30, 31 e 33, a forma de enquadramento funcional dos servidores na ativa e aposentados do IAPAR, dispondo que em um primeiro momento dever-se-ia proceder ao enquadramento funcional na forma do Anexo II - fls. 52/54 (art. 29). Após, deveria ser realizado o enquadramento salarial, tomando como base o valor imediatamente superior à soma dos seus vencimentos básicos, acrescido do abono concedido pelo Decreto Estadual nº. 5.631/2005 (art. 30).
+    Em seguida, deveria ser realizado o enquadramento por escolaridade, na classe e função correspondentes ao grau de instrução de cada um dos servidores ativos e inativos. conforme o Anexo V da lei (art. 31 ).
+    Segundo o disposto no anexo V (fl. 57), os pesquisadores (função exercida pelo autor quando de sua aposentadoria), titulados com mestrado, deveriam ser enquadrados na “Classe B”, enquanto os com doutorado deveriam ser enquadrados na “Classe C".
+    No entanto, verifica-se no mesmo anexo que houve a equiparação, para fins salariais, dos mestres com pelo menos 24 anos de pesquisa básica e os portadores de título de doutorado.
+    Por intermédio dos documentos colacionados às fls. 59/62, vê-se claramente que o autor possuía à época da vigência da Lei nº 15.179/2006 o título de mestre e os 24 anos, ou mais, de pesquisa básica.
+    No entanto, embora preenchidos os requisitos para o autor
+    integrar a Classe “C”, colhe-se que o IAPAR, ao proceder ao seu enquadramento, o inseriu na “Classe B" (fl. 62), considerando terceira fase do enquadramento, com progressão horizontal por referências salariais em razão do tempo de titulação, conforme art. 33 c/c anexo V, tendo efetivado a transposição para a “Classe C" devido à sua equiparação com os doutores.
+    A operação foi realizada, portanto, em desacordo com as diretrizes traçadas pela Lei Estadual de regência e seus anexos.
+    Ao ser realizado o enquadramento por escolaridade do autor, deveria o IAPAR, em um primeiro momento, inseri-lo na “Classe C", e após deveria ter sido realizada a progressão horizontal por referências salariais, considerando que o autor faria jus ao cômputo de uma referência salarial e cada 04 anos de mestrado após os 24 anos de pesquisa básica, o que inocorreu no caso dos autos.
+    Se permanecesse o enquadramento feito pelo IAPAR (Classe B), o autor deixaria de auferir os acréscimos em seus proventos, em razão da progressão salarial por referência a cada 04 anos de mestrado, além da progressão para “classe C", por possuir 24 anos ou mais de pesquisa básica, o que representa considerável diminuição de seus proventos.
+    Ao enquadrar autor como pesquisador e alocá-lo por escolaridade na “Classe B', computando a progressão por tempo de titulação nesta classe, para só então inseri-lo na 'Classe C', o IAPAR acabou por realizar uma quarta etapa no procedimento do enquadramento (transposição final do autor para a “Classe C”), o que não foi previsto na lei que instituiu a nova carreira.
+    Desta forma, levando em consideração o enquadramento na forma delineada pelos arts. 29 a 33 da Lei nº. 15.179/2006 tenho que o autor faz jus ao enquadramento na Classe “C” referência salarial “8".
+    Em razão disso, devido e o pagamento das diferenças de proventos decorrentes do erro de enquadramento do autor. conforme acima delineado, desde a data de vigência da Lei Estadual nº. 15.179/2006 que se deu em 30.06.2006.
+    Sobre essas diferenças deverão incidir os reflexos salariais apenas sobre o décimo terceiro salário uma vez que, quando da edição da lei estadual, o autor já se encontrava na inatividade (Decreto n. 2.491/84 - fl. 79), não fazendo jus aos benefícios de férias mais um terço, adicional por tempo de serviço e demais verbas remuneratórias atribuíveis apenas aos servidos em atividade.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise da Lei Estadual nº. 15.179/2006. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 23 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
