@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. PRÁTICA DISCIPLINAR DE NATUREZA GRAVE. INTERRUPÇÃO DO LAPSO PARA A AQUISIÇÃO DE BENEFÍCIOS. EXCEÇÃO PARA LIVRAMENTO CONDICIONAL, COMUTAÇÃO E INDULTO. INTELIGÊNCIA DA SÚMULA 441/STJ. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida liminarmente para cassar o acórdão impugnado e afastar a interrupção da contagem do lapso, pelo cometimento de falta disciplinar de natureza grave, no que se refere aos benefícios do livramento condicional, da comutação e do indulto de penas.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] - cumprindo pena privativa de liberdade no montante de 9 anos, 3 meses e 19 dias de reclusão -, contra acórdão do Tribunal de Justiça de São Paulo que negou provimento ao agravo de execução penal n. 0004257-11.2018.8.26.0496 interposto pela defesa, mantendo a decisão do Juízo da Vara de Execuções Criminais da Comarca de Ribeirão Preto/SP, que homologou a falta disciplinar de natureza grave consistente em posse de droga, declarou a perda de 1/3 dos dias remidos e determinou o recálculo do lapso para todos os benefícios execucionais (Processo n. 0002171-04.2017.8.26.0496 - fls. 8/18). Eis a ementa (fl. 33):
+Agravo. Prática de falta disciplinar grave. Pedido de absolvição por falta de provas. Conduta suficientemente comprovada. Perda dos dias remidos bem fixada e justificada. Interrupção de contagem do prazo para a obtenção de benefícios da execução. Entendimento pacificado do C. STF. Agravo desprovido.
+
+Neste Tribunal Superior, o defensor público almeja, em síntese, seja reconhecida a ilegalidade da decisão que manteve a interrupção dos lapsos para livramento condicional, a fim de fazer prevalecer a jurisprudência sumulada por essa colenda Corte de Justiça (fl. 4).
+É o relatório.
+Do detido exame dos autos, constato a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem in limine.
+Isso porque as decisões das instâncias ordinárias se encontram em total dissonância com a jurisprudência pacificada neste Superior Tribunal, no sentido de que A prática de falta grave não resulta em novo marco interruptivo para concessão de livramento condicional. Inteligência da Súmula n. 441 do STJ (HC n. 380.048/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/3/2017).
+De igual modo, os seguintes precedentes: AgRg no REsp n. 1752822/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 30/8/2018, HC n. 373.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 7/3/2017 e HC n. 364.570/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 30/9/2016.
+Cabe mencionar, outrossim, que ainda que se trate de unificação de penas, a superveniência de condenação, seja por fato anterior ou posterior ao início do cumprimento da pena, não altera a data-base para a concessão dos benefícios do livramento condicional, comutação de pena e indulto (HC n. 450.713/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/8/2018).
+Sob esta moldura, concedo liminarmente a ordem para cassar o acórdão impugnado e afastar a interrupção da contagem do lapso, pelo cometimento de falta disciplinar de natureza grave, no que se refere aos benefícios do livramento condicional, da comutação e do indulto de penas.
+Comunique-se, com urgência.
+Publique-se.
