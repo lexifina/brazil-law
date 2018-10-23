@@ -1,0 +1,47 @@
+EMENTA
+RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. 35 G DE COCAÍNA. CAUSA DE DIMINUIÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. SENTENÇA E ACÓRDÃO A QUO QUE APLICARAM O REDUTOR. PLEITO PELO DECOTE DA CAUSA DE DIMINUIÇÃO EM RAZÃO DA EXISTÊNCIA DE AÇÕES PENAIS EM ANDAMENTO. TRIBUNAL DE ORIGEM ENTENDEU QUE A ACUSAÇÃO NÃO COMPROVOU A EXISTÊNCIA DE AÇÕES PENAIS EM CURSO. REGRA NÃO ABSOLUTA. FLEXIBILIZAÇÃO. CABIMENTO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Recurso especial improvido.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de São Paulo, com fundamento na alínea c do permissivo constitucional, contra acórdão do Tribunal de Justiça local que manteve a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas, alterando, por sua vez, o patamar de redução de 1/2 para 2/3 (fl. 270):
+Tráfico de drogas - Autoria e materialidade devidamente comprovadas pelo conjunto probatório Absolvição por insuficiência de provas. Impossibilidade - Penas merecedoras de reparos - Aplicação do redutor previsto no artigo 33, § 4º, da Lei 11.343/06 na fração máxima. Cabimento. Aplicação do artigo 387, § 2º, do CPP - Hipótese - Parcial provimento ao apelo.
+Recurso ministerial buscando o afastamento do redutor privilegiado - Apelo não provido.
+No presente recurso (fls. 303/324), alega o recorrente a existência de dissídio jurisprudencial fundado na interpretação do art. 33, § 4º, da Lei n. 11.343/2006. Sustenta ser indevida a aplicação da benesse diante da comprovação nos autos de que existem ações penais em andamento em desfavor do réu.
+Defende que, do que se verifica dos autos, o réu, além de ostentar péssimos antecedentes criminais por receptação (tis. 15, 20, 64, 66, 143, 84), furto (fls. 15, 19, 22, 65, 66, 83, 85), furto qualificado (fls. 15,19/23, 65, 66, 68, 86), e em continuidade delitiva (fls. 20, 67) e porte ilegal de arma (fls. 15), roubo (fls. 15, 65, 66), possui condenação no Feito n. 0004056-04.2013.8.26.0590 - Foro de São Vicente, ao cumprimento da pena de 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão pela prática de tentativa roubo (fls. 87). Logo, não faz jús à causa redutora prevista na Lei de Drogas; ou, ao menos, não no patamar máximo como deferido (fl. 308).
+Pede que seja decotada a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, ou que seja diminuída a fração de redução ao percentual mínimo, com observância dos reflexos correspondentes na dosimetria da pena.
+Oferecidas contrarrazões (fls. 350/356), o recurso foi admitido na origem (fl. 361).
+O Ministério Público Federal opina pelo provimento do recurso (fls. 372/376):
+RECURSO ESPECIAL. PENAL. AFASTAMENTO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. POSSIBILIDADE. MAUS ANTECEDENTES. AÇÕES PENAIS EM CURSO. PLEITO DE MODIFICAÇÃO DO REGIME INICIAL APLICADO. FUNDAMENTAÇÃO INIDÔNEA. PROVIMENTO DO RECURSO.
+- "No julgamento do EREsp 1431091/SP, a Terceira Seção desta Corte pacificou o entendimento segundo o qual é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, §4º, da Lei 11.343/06."(HC 428.602/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/03/2018, DJe 12/03/2018)
+- Parecer pelo conhecimento e provimento do recurso.
+É o relatório.
+O recorrente pretende, em suma, que seja afastada a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, ou, subsidiariamente, que seja reduzida sua fração.
+Ao aplicar a minorante, o Juiz singular teceu os seguintes fundamentos (fls. 176/177):
+ ..
+Na terceira fase, presente a causa de diminuição encartada no art. 33, §4º, da Lei 11.343/06, eis que se trata de réu primário e, ainda que esteja o réu respondendo a outros processos, a ele pode ser alcançado o favor legal, pois em seu prol milita a presunção de inocência (art. 5, LVII, CF), razão pela qual, considerando a natureza das drogas apreendidas (HC 178.964/DF, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 09/08/2011, DJe 22/08/2011), reduzo a pena em 1/2 (um terço), resultando em uma reprimenda final de 02 (dois) anos e 06 (seis) meses de reclusão e multa de 250 (duzentos e cinquenta) dias -multa. Descabe a aplicação do redutor pelo máximo, especialmente em virtude da natureza do entorpecente, já que se trata de cocaína, droga com alto potencial vulnerante.
+ ..
+O Tribunal de origem, por sua vez, ao julgar a apelação e os embargos de declaração, entendeu, respectivamente, que (fls. 272 e 293/294):
+ ..
+Depois, preenchidos os requisitos do artigo 33, § 4º da Lei Antidrogas, foi aplicado o redutor em metade (1/2), no entanto, o abatimento mais adequado é na fração de 2/3 (máxima), pois o acusado é primário, não possui antecedentes criminais e foi surpreendido com pequena quantidade de entorpecente (35 gramas); daí resultam um (01) ano e oito (08) meses de reclusão e pagamento de cento e sessenta e seis dias (166) dias -multa.
+ ..
+No entanto, não se verificou o vício apontado, uma vez que processo em andamento não pode ser considerado óbice à incidência do redutor, não sendo informação constante na folha de antecedentes empecilho para a aplicação do referido benefício, já que isso implicaria em afronta ao princípio da presunção de inocência.
+Observa-se, ainda, que deixar de aplicar a aludida causa de diminuição apenas mencionando o fato de o acusado ter sido denunciado por outro crime, não apontando qualquer certidão judicial, de igual modo, fere o aludido princípio.
+ ..
+Inicialmente, vê-se dos trechos acima colacionados que o fundamento apresentado pela instância ordinária é idôneo.
+Sabe-se que a jurisprudência desta Corte se alinha no sentido de que é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o réu se dedica a atividades criminosas, de modo a afastar o benefício legal previsto no art. 33, § 4º, da Lei n. 11.343/2006 (EREsp n. 1.431.091/SP).
+Contudo, in casu, o Tribunal de origem afirma que não pode aplicar o redutor, porque a acusação não trouxe aos autos certidão judicial comprovando que o acusado tenha sido denunciado por outros crimes.
+Sendo assim, uma vez que o Tribunal local não confirma que o recorrido está sendo processado por outros crimes, não há como se aplicar a tese defendida pela acusação - de que ações penais em andamento afastam a aplicação do redutor.
+Ademais, é possível a flexibilização da aludida regra à luz das peculiaridades do caso concreto, não sendo absoluto o mandamento de que basta uma ação penal em andamento para que fique obstada a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas.
+Nesse sentido: HC n. 359.795/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 6/6/2018 e HC n. 359.813/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/6/2018.
+Ainda que assim não fosse, se tanto o Juiz singular como a Corte de origem entenderam que não há prova efetiva de que o réu se dedicava a atividades criminosas, nem que integrava organização criminosa e, por isso, aplicou o redutor, para rever tal posicionamento, entendendo, como pretende o recorrente, que o réu estava envolvido em atividades criminosas - o que entende estar constatado em razão da existência de ações penais em andamento pelo delito de tráfico -, demandaria o reexame de matéria fático-probatória, vedado em recurso especial, por força da Súmula 7/STJ.
+Nesse sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/06. MAUS ANTECEDENTES. NÃO OCORRÊNCIA. TECNICAMENTE PRIMÁRIO. COMPROVAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7, STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Eg. Tribunal "a quo", amparado na interpretação do arcabouço probatório dos autos, concluiu, de forma fundamentada, ser possível a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei Antidrogas no patamar máximo, por ser o acusado considerado tecnicamente primário, sendo incabível a desconstituição de tal conclusão, em razão do óbice constante da Súmula 7, do STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 472.816/GO, Ministro Moura Ribeiro, Sexta Turma, DJe 2/4/2014)
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PRETENSÃO QUE ALMEJA A EXCLUSÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/2006). INVIABILIDADE. PLEITO QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Se o Tribunal a quo, por ocasião do julgamento do recurso de apelação, reconheceu a causa especial de diminuição de pena (art. 33, § 4º, da Lei n. 11.343/2006) em favor do acusado, por constatar, após o exame dos autos, que não há prova cabal de que se dedicasse ao crime de tráfico de drogas, inviável conclusão em contrário por este Tribunal Superior, em recurso especial, diante do óbice previsto na Súmula 7/STJ.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 274.176/MG, de minha relatoria, Sexta Turma, DJe 28/10/2013)
+Também incide a Súmula 7/STJ para alterar a fração de redução pela incidência do redutor, uma vez que a Corte a quo concluiu que o patamar de 2/3 seria suficiente.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
