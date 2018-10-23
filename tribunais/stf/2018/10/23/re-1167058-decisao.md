@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Concurso público. Ingresso na carreira de soldado da Polícia Militar. Reprovação por inaptidão em avaliação psicológica. Caráter eliminatório. Insurgência quanto aos critérios adotados para a realização dos exames psicológicos. Inadmissibilidade. Discricionariedade da Administração para estabelecer as regras do concurso e critérios de julgamento. Legalidade. Critérios previstos no edital. Cerceamento de defesa inexistente. Preliminar afastada. Sentença de improcedência mantida. Recurso não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, 37, I e II, 42, § 1º, e 142, § 3º, X, da CF, bem como à Súmula Vinculante 44.
+    O recurso não deve ser provido. O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes – Tema 660).
+    Ademais, as instâncias ordinárias firmaram entendimento no sentido da existência de lei instituidora do exame psicológico, no caso, a Lei nº 4.375/1964. Veja-se, nessa linha, o seguinte trecho da sentença, mantida pelo Tribunal de origem por seus próprios fundamentos:
+    “[...]
+    Todavia, é necessário destacar que a Lei 4.375/64 regulamenta o serviço militar em todo Brasil ao dispor no parágrafo único do seu art. 4º que ‘O Serviço prestado nas Polícias Militares, Corpos de Bombeiros e outras corporações encarregadas da segurança pública será considerado de interesse militar. O ingresso nessas corporações dependerá de autorização de autoridade militar competente e será fixado na regulamentação desta Lei’. Nesse contexto, não se pode afastar o seu art. 13, que estabelece o exame psicológico.
+    Assim, quando o Decreto 41.113/96 estabelece o exame psicológico, o faz diante de expressa previsão normativa.
+    Não poderia ser diferente, pois o serviço de segurança do país não pode ser prestado por aqueles que não reúnam condições mínimas e a questão psicológica é central.
+    Em outras palavras, fosse o exame psicológico entendido como ilegal, o resultado, no caso de seleção para a Polícia Militar, seria a anulação de todos os concursos, mas nunca, em afronta ao princípio constitucional da segurança, a permissão para que pessoas sem o suporte psicológico mínimo adentrassem a corporação.
+    Não é preciso que se vá tão longe, contudo, pois, além da disposição em Decreto, que é lei em sentido amplo, a lei federal 4.375/64 por ora supre a competência e prevê tal exame para seleção de novos integrantes das polícias militares.
+    De outra parte, prevista a forma da prova na lei e no edital, poderia o autor ter contestado a metodologia do exame, já que não havendo avaliação objetiva e padronizada ou não sendo as técnicas utilizadas científicas lhe seria um direito a invalidação do exame a partir de impugnação específica. Todavia, não o fez, limitando-se a alegar a ilegalidade da realização do concurso, rechaçada de plano, razão pela qual é de rigor a improcedência da ação.”
+    Como se vê, não ocorreu descumprimento da orientação do Supremo Tribunal Federal, emanada do julgamento do AI 758.533-QO-RG (Tema 338 da repercussão geral), e da Súmula Vinculante 44.
+    Ademais, para dissentir da conclusão adotada pelo Tribunal de origem, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso, assim como o reexame do conjunto fático-probatório dos autos (Súmula 279/STF) e de cláusulas contratuais (Súmula 454/STF), o que torna inviável o processamento do recurso extraordinário. Precedentes: ARE 1.119.326-AgR, Rel. Min. Alexandre de Moraes; e ARE 1.104.732, Rel. Min. Dias Toffoli.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 23 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
