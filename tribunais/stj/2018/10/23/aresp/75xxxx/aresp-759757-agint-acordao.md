@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO NÃO CONHECIDO.
+1. Não se conhece do pedido formulado, quanto à alegada nulidade absoluta do processo, sob pena de supressão de instância. Somente as instâncias ordinárias podem se pronunciar, de ofício, sobre matéria de ordem pública. Na instância especial não há como se dispensar o necessário debate acerca da questão controvertida.
+2. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+4. Agravo interno não conhecido, com aplicação de multa.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, não conhecer do agravo interno, com aplicação de multa, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Luis Felipe Salomão votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por [NOME] contra decisão que conheceu do agravo para negar provimento ao recurso especial do agravante, com os seguintes fundamentos: a) não se verifica cerceamento de defesa pelo julgamento antecipado da lide, sem a realização da pretendida produção de prova oral; b) a alteração da conclusão de que não houve cerceamento de defesa pelo indeferimento de prova tida como desnecessária demandaria o reexame de matéria fática, a incidir o disposto na Súmula 7 do STJ; c) aplicação da Súmula 283 do STF; d) incidência da Súmula 7 do STJ, para aferir as afirmativas de que os Bancos agravados tinham manifesta ciência da promessa de compra e venda e foram devidamente notificados, antes da escritura pública de compra e venda do imóvel em favor de GEMARCA.
+Em suas razões, o agravante sustenta, preliminarmente, nulidade absoluta do processo, pois, ao contrário do entendimento do Tribunal a quo, o feito não se encontrava devidamente instruído. Explica que a cedente, que constou como anuente no ato da lavratura da escritura na qual se baseou a instância ordinária para julgar improcedente, àquela época encontrava-se sob o regime de recuperação judicial, ou seja, não poderia o representante da empresa praticar atos de alienação de propriedade, como ocorreu, caracterizando nulidade absoluta daquela escritura indevidamente outorgada.
+Assevera ser inequívoca a ocorrência de cerceamento de defesa, pois o decreto de improcedência da ação de adjudicação compulsória decorreu do fato de o autor não poder deduzir provas acerca da invalidade daquela escritura, o que somente se poderia demonstrar por meio da abertura da instrução probatória, como requerido e indeferido.
+Os agravados apresentaram impugnação (e-STJ, fls. 490/508, 510/523 e 524/527).
+É o relatório.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Preliminarmente, não conheço do pedido formulado, quanto à alegada nulidade absoluta do processo, sob pena de supressão de instância. Sem que tenha havido prévia manifestação, a questão deve ser devidamente submetida à consideração das instâncias ordinárias pelas vias processuais cabíveis. A propósito, registra-se que somente as instâncias ordinárias podem se pronunciar, de ofício, sobre matéria de ordem pública. Na instância especial, não há como se dispensar o necessário debate acerca da questão controvertida.
+No mérito, observa-se que a parte agravante manejou o agravo interno, sem, contudo, se ater aos fundamentos da decisão agravada, limitando-se a reiterar argumentos relativos ao cerceamento de defesa pelo julgamento antecipado da lide, deixando de impugnar especificamente as razões que conduziram ao não provimento do recurso especial, quanto à incidência das Súmulas 283 do STF e 7 do STJ.
+Com efeito, de um simples perscrutar das razões do agravo interno, percebe-se que o inconformismo sob análise não observa a regra expressa prevista no art. 1.021, § 1º, do novo Código de Processo Civil, que estabelece:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Ressalta-se, por oportuno, que o respeito à regra contida no dispositivo em questão não se trata de mero formalismo processual, mas decorre do princípio processual da dialeticidade, visto que, sem o específico ataque aos fundamentos da decisão agravada, estes permanecem incólumes, tornando inviável a reforma pleiteada nas razões do recurso.
+Desse modo, diante da ausência de impugnação específica dos fundamentos da decisão agravada, constata-se a manifesta inadmissibilidade do agravo interno, ensejando não só o seu não conhecimento, mas também a aplicação da multa pecuniária prevista no § 4º do art. 1.021 do CPC/2015, que dispõe:
+Art. 1.021. (..)
+§ 4º Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie a Súmula 182/STJ.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. Agravo regimental não conhecido, com aplicação de multa."
+(AgRg no AREsp 842.889/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe de 11/04/2016)
+Ante o exposto, não conheço do agravo interno e aplico à parte agravante a multa do art. 1.021, § 4º, do CPC/2015, no importe de 1% (um por cento) sobre o valor atualizado da causa, ressaltando que a interposição de qualquer outro recurso está condicionada ao depósito prévio da respectiva quantia, na forma do § 5º do mesmo dispositivo legal.
+É como voto.
