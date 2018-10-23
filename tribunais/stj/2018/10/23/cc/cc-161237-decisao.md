@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DA VARA DO TRABALHO DE PARNAÍBA - PI, suscitante, e o JUÍZO DE DIREITO DA VARA ÚNICA DE COCAL - PI, suscitado, nos autos da reclamação trabalhista ajuizada por [NOME] em face do Município de Cocal, visando o recebimento de verbas trabalhistas.
+O juízo suscitado declarou-se incompetente para o julgamento do feito, conforme demonstra o seguinte fundamento (fl. 69):
+Recentemente o TRT 22ª Região decidiu pela nulidade da Lei Municipal que instituiu o REGIME JURÍDICO ÚNICO dos Servidores do Município de COCAL-Pf, mantendo assina competência da Justiça do Trabalho para julgar os feitos. Senão vejamos:
+ESTATUTO DOS SERVIDORES PÚBLICOS MUNICIPAIS - LEI MUNICIPAL - OBRIGATORIEDADE DE PUBLICAÇÃO EM DIÁRIO OFICIAL - COMPETÊNCIA DA JUSTIÇA DO TRABALHO - segundo o principio constitucional da publicidade (CF, art. 37, caput), bem como o art. 1º da LICC, é formalidade essencial para eficácia e vigência da lei a publicação no órgão oficial, não dispensada em razão da fixação da Lei Municipal no átrio da Prefeitura. Afastada a aplicação do Estatuto Municipal, flagrante a competência desta Justiça Especializada (ROº 001561-64.2010.5.22.0101 - Recorrente: MARIA DE LOURDES CARDOSO DE BRITO - Recorrido: MUNICÍPIO DE COCAL-PI, Rel. Desª LIANA CHAIB).
+Assim a teor do artigo 114, "caput", inciso I, da Constituição Federal que assim estatui, "compete a justiça do trabalho processar e julgar as ações da relação de trabalho,, abrangidos os entes de direito público externo e do administração pública direta e indireta da Unido, dos Estados e do Distrito Federal e dos Municípios".
+Por entender que a competência para julgamento do presente feito segundo o artigo 114, inciso I, da Constituição Federal é da Justiça Especializada. Determino a remessa dos presentes autos a VARA DO TRABALHO da cidade PARNAÍBA-PI com as homenagens deste juízo
+O juízo suscitante instaurou o conflito negativo, aduzindo, em síntese, o que se segue (fls. 31 e 154):
+É incontroverso nos autos que a contratação da parte autora foi precedida de prévia aprovação em concurso público, o que torna o seu contrato com o ente municipal regular, porque atendida a exigência prevista no art. 37, II, da CF/88.
+Outrossim, encontra-se arquivada na Secretaria deste Juízo cópia da Lei Municipal nº 281, de 10/11/93, que instituiu o Regime Jurídico Único do Município de Cocai e de suas autarquias e fundações públicas.
+(..)
+É certo que a Magistrada em atuação na Vara Única da Comarca de Cocal-PI, ao concluir pela incompetência material daquele Juízo, deveria ter suscitado o conflito de competência, de conformidade com o que estatui o art. 953, I, do Novo CPC (art. 118 do CPC de 1973).
+Porém, objetivando evitar mais delongas na marcha processual, decido suscitar o conflito negativo de competência, pelo que determino o encaminhamento dos autos ao Colendo STJ, nos termos do art. 105, I, "d", da Constituição Federal de outubro de 1988, de maneira que o insigne Pretório ofereça justo desate ao dito conflito.
+É o relatório. Decido.
+Inicialmente, o conflito comporta conhecimento, vez que se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, inciso I, alínea d, da Magna Carta.
+Sobre a questão, a Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal - STF suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores.
+In casu, a parte reclamante defende ter sido aprovada em concurso público para ocupar o cargo de vigia, iniciando os trabalhos em 03/03/2008, permanecendo desde então vinculada à Municipalidade.
+Consta dos autos que o regime de contratação teria sido o estatutário, nos termos do que dispõe o art. 1º, parágrafo único, da Lei Municipal n. 281/93:
+Art. 1º. Esta lei institui o regime jurídico único e o Estatuto dos servidores públicos do Município de Cocal e de suas autarquias e fundações.
+Parágrafo único. O regime de que trata este artigo fica sujeito às normas de direito público.
+O que se observa é que o Município de Cocal instituiu o Regime Jurídico Único, submetendo todos os servidores ao Regime Estatutário, nos termos da Lei Local supramencionada, inclusive o próprio reclamante, haja vista o termo de compromisso e posse acostado aos autos corroborar sua condição de servidor efetivo (fl. 12).
+Desse modo, falece competência à Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público.
+A orientação desta Corte Superior se firmou no sentido de que a contratação regular com o poder público - aquela realizada em conformidade com as exigências do art. 37, II, da CRFB/88 - é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes, o que permite incidir sobre o presente conflito a Súmula n. 137/STJ, que estabelece que "compete à Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos a vínculo estatutário".
+Confira-se:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM FEDERAL E TRABALHISTA. REGISTRO SINDICAL. RELAÇÃO ADMINISTRATIVA. INAPLICABILIDADE DO ART. 114, III, DA CONSTITUIÇÃO FEDERAL. PRECEDENTE DA PRIMEIRA SEÇÃO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Não há que se falar em competência da Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público. Precedentes.
+(..)
+(AgInt no CC 145.536/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 21/09/2016)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. SERVIDOR REGIDO POR VÍNCULO ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO REGIMENTAL. IMPROVIMENTO.
+(..)
+2. O Município ora agravado, a partir de 2007, submeteu os ocupantes dos cargos de Agente Comunitário de Saúde ao Regime Estatutário do Município, razão pela qual a competência para o processo e o julgamento do feito é do Juízo Comum.
+(..)
+(AgRg no CC 135.046/PB, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 25/11/2015, DJe 01/12/2015)
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR MUNICIPAL. VÍNCULO JURÍDICO ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Discute-se qual a natureza do vínculo existente entre o ente municipal e a reclamante, quanto ao cargo de agente comunitário de saúde, visando-se decidir qual o Juízo competente para o processamento e julgamento da demanda.
+2. Fez-se juntar o "Termo de Posse", provando que, à época, a reclamante estava sob o regime jurídico único, nos termos da Lei Orgânica Municipal n. 04/1990, incidindo, na espécie, o verbete sumular n. 137: "Compete à Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos ao vínculo estatutário".
+3. Agravo regimental não provido.
+(AgRg no CC 134.288/MA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 10/12/2014, DJe 16/12/2014)
+Quanto à suposta nulidade da Lei n. 281/93, acertada a alegação do Município de Cocal à fl. 83, segundo a qual:
+Data vênia, também não cabe à Justiça do Trabalho decidir sobre a validade da lei que institui o regime jurídico único no município, eis que, repita-se, cabe à Justiça Comum pronunciar-se sobre a existência, validade e eficácia do regime jurídico alegado pelo reclamado.
+Assim como já decidiu o Supremo Tribunal Federal, qualquer possível nulidade existente em Lei Local que discipline o regime jurídico único aplicável aos servidores, bem como os efeitos correspondentes, devem ser analisados pela Justiça Comum. A propósito, confira-se o citado julgamento e a jurisprudência desta Corte Superior:
+Agravo regimental na reclamação - Administrativo e Processual Civil - Dissídio entre servidor e o poder público - ADI nº 3.395/DF-MC - Cabimento da reclamação - Incompetência da Justiça do Trabalho.
+1. A reclamação é meio hábil para conservar a autoridade do Supremo Tribunal Federal e a eficácia de suas decisões. Não se reveste de caráter primário ou se transforma em sucedâneo recursal quando é utilizada para confrontar decisões de juízos e tribunais que afrontam o conteúdo do acórdão do STF na ADI nº 3.395/DF-MC.
+2. Compete à Justiça comum pronunciar-se sobre a existência, a validade e a eficácia das relações entre servidores e o poder público fundadas em vínculo jurídico-administrativo. O problema da publicação da lei local que institui o regime jurídico único dos servidores públicos ultrapassa os limites objetivos da espécie sob exame.
+3. Não descaracteriza a competência da Justiça comum, em tais dissídios, o fato de se requerer verbas rescisórias, FGTS e outros encargos de natureza símile, dada a prevalência da questão de fundo, que diz respeito à própria natureza da relação jurídico-administrativa, posto que desvirtuada ou submetida a vícios de origem, como fraude, simulação ou ausência de concurso público. Nesse último caso, ultrapassa o limite da competência do STF a investigação sobre o conteúdo dessa causa de pedir específica.
+4. A circunstância de se tratar de relação jurídica nascida de lei local, anterior ou posterior à Constituição de 1988, não tem efeito sobre a cognição da causa pela Justiça comum.
+5. Alegação de vício na publicidade da lei local não é matéria de exame na via da reclamação e, ainda que assim o fosse, caberia à Justiça comum dizer sobre a ocorrência de defeito no título jurídico que fez originar a relação administrativa entre o servidor e o poder público.
+6. Agravo regimental provido para declarar a competência da Justiça comum.
+(Rcl 6.959 AgR. No mesmo sentido: Rcl 10.256 AgR, Rcl 9.931 AgR, Rcl 9.716 AgR, Rcl 9.041 AgR, Rcl 9.715 AgR, Rcl 9.609 AgR, Rel. p/ o acórdão Min. Dias Toffoli - dest. acresc.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO LABORAL. RECLAMAÇÃO TRABALHISTA. CONTROVÉRSIA SOBRE A VALIDADE DE LEI LOCAL QUE TRANSMUDOU O REGIME CELETISTA PARA O ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte firmou posicionamento segundo o qual é da competência da Justiça Estadual decidir sobre a validade da norma local que cria ou modifica regime jurídico de natureza estatutária para os servidores públicos municipais (..)
+(AgRg no CC 134.906/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 24/06/2015, DJe 04/08/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. CONTROVÉRSIA SOBRE A VALIDADE DE LEI LOCAL, QUE TRANSMUDOU O REGIME CELETISTA PARA O ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. A reclamante objetiva invalidar eficácia de lei local. Nesse contexto, esta Corte Superior já firmou compreensão de que é da Justiça Comum deliberar acerca da validade da norma local que cria ou modifica regime jurídico de natureza estatutária para os servidores públicos municipais. Com mesma conclusão, envolvendo os mesmos Juízos: CC n. 135.534/RN, Rel. Min. Sérgio Kukina, DJe: 26/08/2014; CC n. 135.541/RN, Rel. Min. Napoleão Nunes Maia Filho, DJe: 14/05/2015; CC n. 137.088/RN, Rel. Ministra Assusete Magalhães, DJe: 25/02/2015.
+2. Agravo regimental não provido.
+(AgRg no CC 137.422/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 24/06/2015, DJe 01/07/2015)
+Ante o exposto, conheço do presente conflito para declarar competente para processamento e julgamento da causa o JUÍZO DE DIREITO DA VARA ÚNICA DE COCAL - PI.
+Comunique-se aos Juízos Suscitante e Suscitado.
+Publique-se. Intime-se.
