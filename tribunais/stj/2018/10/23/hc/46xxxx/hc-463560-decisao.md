@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de EDIMAR PEREIRA DO NASCIMENTO FILHO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 9000895-22.2018.8.26.0050).
+Consta dos autos que o Juízo da Execução Penal indeferiu a comutação da pena do ora paciente por ausência do requisito subjetivo. O Tribunal a quo, por sua vez, negou provimento ao agravo em execução da defesa.
+No presente writ, a impetrante afirma que o paciente preencheu todos os requisitos exigidos pelo Decreto n. 8.615/15, especialmente o não cometimento de falta grave nos doze meses anteriores à publicação do Decreto.
+O pedido liminar foi deferido às fls. 20/23, para que o pedido seja reexaminado apenas com base nos requisitos previstos na norma de regência.
+Prestadas as informações pela autoridade coatora, o Ministério Público Federal opinou pela concessão da ordem, nos termos da seguinte ementa:
+HABEAS CORPUS. EXECUÇÃO PENAL.
+INDULTO. DECRETO N.º 8.615/2015. PEDIDO INDEFERIDO COM BASE NA AUSÊNCIA DE SATISFAÇÃO DO REQUISITO SUBJETIVO, EM VISTA DE FALTA GRAVE PRATICADA PELO PACIENTE APÓS A EDIÇÃO DO REFERIDO DECRETO. IMPOSSIBILIDADE. INFRAÇÃO COMETIDA FORA DO PERÍODO DE DOZE MESES ANTERIORES À DATA DA PUBLICAÇÃO DO ATO PRESIDENCIAL. CONSTRANGIMENTO ILEGAL.
+PARECER PELA CONCESSÃO DA ORDEM, CONFIRMANDO-SE A LIMINAR, PARA DETERMINAR AO JUÍZO DAS EXECUÇÕES QUE REAPRECIE O PEDIDO DE INDULTO EM OBSERVÂNCIA ÀS DISPOSIÇÕES DO DECRETO 8.615/2015 (fl. 58).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, o benefício foi indeferido por ausência de requisito subjetivo, tendo o Magistrado se baseado em fato ocorrido em 1/11/2016, ou seja, após a publicação do Decreto n. 8.615/15, consoante se extrai do seguinte trecho:
+ ..
+No caso em apreço, foi reconhecida em decisão desta data falta grave praticada em 01/11/2016, ocasião em que foi apreendido com o sentenciado uma faca de cozinha, falo que resultou na perda de 1/3 dos dias remidos por trabalho e/ou estudo.
+O cometimento da falta de natureza grave, embora seja posterior ao Decreto, é extremamente recente, de modo que não pode tal falta, por conta disso, ser totalmente desconsiderada, sob pena de ofensa aos princípios constitucionais da razoabilidade e proporcionalidade.
+As circunstâncias evidenciam que o sentenciado não ostenta bom comportamento carcerário e não está plenamente adaptado à terapêutica prisional.
+Seria ilógico conceder benefício tão amplo, que implica cm perdão de vários anos de pena, para quem não possui mérito, sob pena de se estimular transgressões por parte de presos que por ora estão aderindo à terapêutica prisional, porque vislumbram que este é o único caminho a ser trilhado por quem pretende abreviar o tempo de cárcere.
+Cumpre consignar, ainda, que conceder benefício para quem não ostenta bom comportamento carcerário resulta em inegável violação aos princípios da individualização da pena e da igualdade, na medida em que se confere tratamento idêntico a presos que ostentam comportamentos distintos (fl. 11).
+Acontece que, na análise do indulto, devem ser observados apenas as exigências previstas no Decreto, o qual, em seus arts. 5º e 10º prevê, como requisito subjetivo, que o condenado não tenha registro de falta grave nos últimos 12 meses, a contar da data da publicação do mencionado ato normativo.
+Nesse sentido:
+
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO. INDULTO. GRAVIDADE DOS DELITOS PERPETRADOS. PERICULOSIDADE DO AGENTE. EXAME CRIMINOLÓGICO DESFAVORÁVEL. REQUISITOS NÃO PREVISTOS NO DECRETO N. 8.615/15. FLAGRANTE ILEGALIDADE EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. O Decreto n. 8.615/15, em seu art. 5º e art. 10º, apenas exige, como requisito subjetivo para a concessão de indulto, que o condenado não tenha registro de falta grave nos últimos doze meses, a contar da data da publicação do mencionado ato normativo. Assim, não há previsão para condicionar o indulto a requisitos não previstos no decreto presidencial, por ser competência privativa do Presidente da República definir quais os critérios para concessão da benesse, sob pena de afronta aos princípios da legalidade e da separação dos poderes. Precedentes.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar ao Juízo das Execuções que analise o pedido de indulto do paciente, observando os requisitos estabelecidos no Decreto n. 8.615/15. (HC 392.066/SP, de minha relatoria, QUINTA TURMA, julgado em 16/05/2017, DJe 24/05/2017)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. INDULTO. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. EXIGÊNCIA DE REQUISITO SUBJETIVO QUE EXTRAPOLA OS LIMITES DO DECRETO PRESIDENCIAL. FLAGRANTE ILEGALIDADE CONFIGURADA. CONCESSÃO DA ORDEM DE OFÍCIO.
+ ..
+2. A jurisprudência desta Corte é pacífica no sentido de que, em termos de indulto e comutação de penas, devem ser observados, tão somente, os requisitos elencados no decreto presidencial respectivo, não competindo ao juiz criar novas regras ou estabelecer outras condições além daquelas já previstas na referida norma. Tal proceder ofende o princípio da legalidade, competindo exclusivamente ao Presidente da República a tarefa de estabelecer os limites para a concessão das benesses.
+3. Na espécie, o Juízo das Execuções Criminais indeferiu o indulto postulado em favor do paciente, por ausência do requisito subjetivo, com base no parecer contrário de exame criminológico - condição não prevista no decreto presidencial - decidindo, portanto, em dissonância com o entendimento deste Superior Tribunal de Justiça. A Corte de origem , por sua vez, indeferiu liminarmente a petição inicial do writ lá impetrado, sob a alegação de que o recurso cabível seria o agravo em execução penal. Fica evidente, portanto, o constrangimento ilegal a ser sanado de ofício.
+4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício, para determinar ao Juízo da Vara de Execuções Criminais que promova nova análise do pedido de indulto formulado pelo paciente, restringindo-se aos requisitos do Decreto Presidencial n. 8.615/2015. (HC 385.638/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/04/2017, DJe 05/05/2017)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para determinar ao Juízo da Vara de Execuções Criminais que promova nova análise do pedido de indulto formulado pelo paciente, restringindo-se aos requisitos do Decreto Presidencial n. 8.615/15, confirmando a liminar deferida.
+Publique-se.
+Intimações necessárias.
