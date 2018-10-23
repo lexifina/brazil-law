@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio de Janeiro, está assim ementado:
+    “Ação de cobrança de ‘pecúlio post mortem’. Sentença de procedência da ação. Apelação do instituto réu. Decisão que deu parcial provimento ao recurso, porque a incidência de juros moratórios está regulada pela Lei nº 9.494/97, com as alterações oriundas da Lei nº 11.960/09, único aspecto a ser modificado na sentença. Agravo Interno. A lei federal mostra-se contrária ao Pacto Federativo configurado na Constituição Federal, vez que invade a competência exclusiva do Estado. O art. 195, § 1º, da Constituição Federal assegura a cada ente federativo a possibilidade de instituir seus sistemas previdenciários. A natureza contributiva do sistema previdenciário afasta a vedação contida no art. 5º da lei federal, porque o servidor falecido contribuiu durante sua atividade para eventual gozo do benefício. Tratando-se de matéria concorrente, não tem a Lei federal o condão de revogar, por si só, o benefício previsto na legislação estadual. Lei estadual posterior que reconheceu a sua responsabilidade pelo pagamento do pecúlio. O Decreto é norma regulamentar emanada do Poder Executivo que não tem o condão de alterar as normas do ordenamento jurídico infraconstitucional. Recurso a que se nega provimento.”
+    A parte agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXVI, 24, XXII, § 4º, e 40, § 12, todos da Constituição da República.
+    Cabe enfatizar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impõe-se registrar, ainda, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 701.096-AgR/RJ, Rel. Min. CÁRMEN LÚCIA – ARE 700.035-AgR/RJ, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “DIREITO PREVIDENCIÁRIO. PECÚLIO ‘POST MORTEM’. LEGISLAÇÃO ESTADUAL. APLICAÇÃO DA SÚMULA 280/STF. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO 14.9.2012.
+    Controvérsia limitada à aplicação de legislação local a inviabilizar o reexame da matéria na via extraordinária. Aplicação da Súmula 280/STF: ‘Por ofensa a direito local não cabe recurso extraordinário’. Precedentes.
+    Agravo regimental conhecido e não provido.”
+    (ARE 760.475-AgR/RJ, Rel. Min. ROSA WEBER)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 23 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
