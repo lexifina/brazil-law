@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AGENTE PENITENCIÁRIO CONTRATADO POR MEIO DE PROCESSO SELETIVO SIMPLIFICADO - PSS. EDITAL Nº 08/2006 - GS/SEJU. PLEITO DE EQUIPARAÇÃO SALARIAL COM SERVIDORES DO QUADRO PRÓPRIO DO PODER EXECUTIVO. IMPOSSIBILIDADE. ADMISSÃO DE PESSOAL POR TEMPO DETERMINADO, PARA ATENDER À NECESSIDADE TEMPORÁRIA DE EXCEPCIONAL INTERESSE PÚBLICO. MONTANTE SALARIAL PERCEBIDO PELO CONTRATADO QUE RESPEITOU O DISPOSTO NA LEI COMPLEMENTAR Nº 108/2005. OBSERVÂNCIA DO PRINCÍPIO DA LEGALIDADE. ADICIONAL POR ATIVIDADE PENITENCIÁRIA - AAP. DEVIDO AO SERVIDOR. EXTENSÃO DO BENEFÍCIO AOS SERVIDORES TEMPORÁRIOS. ART. 8º, IV, DA LEI COMPLEMENTAR ESTADUAL 108/2005. ÔNUS SUCUMBENCIAIS READEQUADOS.
+1. O processo seletivo realizado pelo autor não possui as características de concurso público. É, em verdade, teste simplificado com previsão de temporariedade da contratação, ou seja, perdura conforme o excepcional interesse público.
+2. Constata-se, assim, que o montante salarial percebido pelo contratado respeitou o disposto na Lei Complementar nº 108/2005, em observância ao princípio da legalidade, bem como se deu nos exatos termos contratados, conforme análise do instrumento contratual celebrado.
+3. Em que pese o art. 18, inciso I da Lei nº 13.666/02, conferir o adicional pretendido, apenas aos agentes penitenciários efetivos, a edição da Lei Complementar Estadual nº 108/2005 permite a extensão de tal benefício aos servidores contratados por período determinado.
+RECURSO PARCIALMENTE PROVIDO. REEXAME NECESSÁRIO PREJUDICADO.
+Foram rejeitados os embargos declaratórios opostos.
+Na origem, trata-se de ação ordinária em que se pleiteia equiparação salarial entre os cargos temporários e efetivo de agente penitenciário. Deu-se à causa do valor de R$ 10.000,00 (dez mil reais).
+No recurso especial, o recorrente aponta violação do art. 41 da Lei nº 8.666/93.
+Sustenta, em síntese, que o acórdão viola o direito concedido pelo Edital de recebimento de equivalência de remuneração bruta por todo o contrato (fl. 300), ofendendo, assim, ao princípio da vinculação ao instrumento convocatório.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com base na Súmula nº 126/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Verifica-se que a controvérsia foi dirimida com base em fundamentos de índole constitucional e infraconstitucional, ambos suficientes para manter o julgado, conforme se pode constatar dos seguintes excertos extraídos do aresto objurgado, litteris:
+Assim, o primeiro fato que se constata é que a contratação do autor pela Administração Pública não ocorreu via concurso público de provas e títulos, conforme preceitua a Constituição Federal, art. 37, inciso II:
+(..)
+Ademais, o processo seletivo realizado pelo autor não possui as características de concurso público. É, em verdade, teste simplificado com previsão de temporariedade da contratação, ou seja, perdura conforme o excepcional interesse público:
+(..)
+A Lei Complementar Estadual nº 108/2005, que regulamentou a contratação do autor, dispõe sobre a contratação de pessoal por tempo determinado, para atender à necessidade temporária de excepcional interesse público, nos órgãos da Administração Direta e Autárquica do Poder Executivo.
+O texto legal é claro ao prever a contratação de forma excepcional e por prazo determinado:
+(..)
+Dessa forma, analisando o caso concreto, não se verifica qualquer irregularidade na contratação de [NOME]. Nesse sentido, o fato de exercer as mesmas funções de um Agente Penitenciário integrante dos quadros da Administração, não autoriza a equiparação salarial pretendida.
+Sobre a remuneração a Lei prevê:
+(..)
+Portanto, evidente a impossibilidade da efetivação da equiparação salarial pretendida pelo autor, por se tratar de regimes jurídicos diversos, principalmente no que se relaciona à celebração do contrato temporário de prestação extraordinária de serviços.
+Nesse sentido, é de se dizer que a antiga redação do §1º, do art. 39 da Constituição Federal assegurava, aos servidores da administração direta, a isonomia de vencimentos, para cargos de atribuições iguais ou assemelhadas.
+No entanto, tal dispositivo foi revogado pela Emenda Constitucional nº 19, de 4 de junho de 1998, que passou a conter a seguinte redação:
+(..)
+Emenda constitucional esta que foi responsável pela alteração do texto do art. 37 da Carta Magna. Portanto, tem-se que a equiparação de salários entre cargos de funções assemelhadas, dentro do mesmo ou de Poder diverso, deixou de se tratar de regra constitucional, somente sendo permitida em casos excepcionais, o que não se trata do direito da parte autora.
+Isso porque, conforme visto, o autor pretende equiparar seu salário de empregado contratado, em caráter de urgência, pela Administração, com servidor efetivo do quadro. No entanto, deve ser mantido o entendimento de que, enquanto o primeiro recebe remuneração conforme o contratado, possuindo cargo temporário e nos termos da Consolidação das Leis do Trabalho - CLT, o segundo se trata de cargo efetivo dos quadros da Administração, com remuneração prevista em lei e submetido ao regime estatutário.
+Contudo, não obstante o fato de a equiparação salarial não ser possível, é de se constatar o direito do autor, ora apelado, o recebimento do Adicional por Atividade Penitenciária - AAP. Adicional este que foi requerido quando do ajuizamento da inicial, mas não tratado especificamente pela r. sentença.
+Assim, necessário dispor especificamente sobre tal adicional e a sua aplicabilidade no caso concreto. (fls. 254-260)
+Todavia, considerando que não foi interposto recurso extraordinário contra o julgado vergastado, verificou-se o trânsito em julgado do fundamento constitucional, o que faz com que na hipótese incida o enunciado da Súmula n. 126 do Superior Tribunal de Justiça, inviabilizando a análise do recurso especial.
+Nesse sentido, transcrevo os seguintes julgados desta Corte de Justiça, in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. FUNDAÇÃO PÚBLICA. DISPENSA DO CEBAS PARA FRUIÇÃO DA IMUNIDADE PREVISTA NO ART. 195, § 7º, DA CONSTITUIÇÃO FEDERAL. FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 126 DO STJ.
+1. O acórdão recorrido reconheceu que a fundação pública autora, na qualidade de entidade filantrópica declarada como de utilidade pública pelo Município de Brusque/SC e pelo Estado de Santa Catarina, preenche todos os requisitos previstos no art. 55 da Lei nº 8.212/1991 para fins de gozo do benefício de imunidade de contribuições sociais, à exceção do certificado CEBAS. A despeito disso, entendeu que a imunidade prevista no § 7º do art. 195 da Constituição Federal de 1988 dispensaria o requisito do certificado CEBAS na hipótese, uma vez que, por se tratar de entidade de caráter público, não havia possibilidade de registro da fundação no órgão que concede o CEBAS, pois o art. 18, III, da Lei nº 8.742/1993 somente previa concessão do CEBAS às instituição privadas, ou seja, jamais seria possível à autora preencher tal requisito. Assim, invocando o art. 195, § 7º, e o postulado normativo-aplicativo da razoabilidade, entendeu que, na falta de regramento específico acerca dos requisitos formais para obtenção, pelas entidades beneficentes de direito público, da imunidade prevista no supracitado dispositivo Constitucional, o disposto no art. 55 da Lei nº 8.212/1991, inclusive após a entrada em vigor do art. 29 da Lei nº 12.101/2009, seria aplicável apenas no que couber.
+2. O fundamento constitucional do acórdão recorrido, que é suficiente para mantê-lo, não foi impugnado através de recurso extraordinário, o que impossibilita o conhecimento do recurso especial no que tange à legislação infraconstitucional em razão da incidência da Súmula nº 126 do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1.636.295/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/4/2017, DJe 4/5/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO MENSAL DOS JUROS. LEGITIMIDADE. FUNDAMENTOS CONSTITUCIONAL E LEGAL. AUSÊNCIA DE INTERPOSIÇÃO SIMULTÂNEA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. COMUNICAÇÃO AO SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL. REQUISITO DE VALIDADE DO CONTRATO. NÃO OBRIGATORIEDADE. JULGADO CALCADO EM RESOLUÇÕES E CIRCULARES. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTIGOS 932, INCISO III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+1. É inviável o recurso especial se a parte deixa de impugnar, pela via processual adequada, fundamento constitucional do acórdão recorrido (Súmula 126 do STJ).
+2. O recurso especial não comporta a análise de resoluções, portarias, circulares e demais atos normativos de hierarquia inferior à do Decreto, que não se inserem no conceito de lei federal.
+3. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil de 2015 e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 952.691/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/4/2017, DJe 3/5/2017).
+
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro o percentual de honorários em 2 pontos adicionais, elevando o percentual para 17%, do valor corrigido da causa, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Por ser o autor beneficiário de AJG, os valores de sucumbência a cargo dele só poderão ser exigidos com a comprovação de que deixou de existir a situação de insuficiência de recursos que justificou a concessão de gratuidade, nos termos do art. 98, §3º, do CPC/2015.
+Publique-se. Intime-se.
