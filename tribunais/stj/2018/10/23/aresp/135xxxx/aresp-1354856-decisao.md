@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO DE DESPEJO C. C. COBRANÇA. CUMPRIMENTO DE SENTENÇA. Decisão que autorizou o levantamento dos valores depositados pela executada, mas não a penhora de quantia bloqueada nos termos do art. 854 do Código de Processo Civil, permitindo, ainda, o ingresso de terceiro no feito. Notícia de mandado de penhora no rosto dos autos emitido por Vara do Trabalho, a despeito de ser a empregadora a executada nesta demanda. Suspensão do trâmite que não se justifica, mormente diante da impossibilidade de dar cumprimento àquela decisão. Não há crédito, nestes autos, em favor do reclamado da demanda trabalhista. Situação em que. de qualquer forma, não se extrairia interesse jurídico do terceiro que justificasse seu ingresso no feito.
+Recurso provido para determinar o regular prosseguimento, conforme rito previsto em lei, para a penhora em dinheiro.
+Os embargos de declaração opostos foram rejeitados (fls. 145-148, e-STJ).
+Nas razões de recurso especial, alega o ora agravante violação dos artigos 908, § 1º, do Código de Processo Civil de 2015, 449, § 1º, da Consolidação das Leis do Trabalho e 186 do Código Tributário.
+Sustenta, em síntese, a preferência de recebimento dos haveres trabalhistas em seu favor, a fim de que seja determinada a penhora no rosto dos autos.
+Apresentadas contrarrazões pela parte contrária (fls. 166-171, e-STJ), pugnando pelo não provimento do recurso.
+O recurso especial não foi admitido na origem, nos termos da decisão de fls 172-173, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O posicionamento do STJ é no entendimento de que este possui jurisprudência consolidada no sentido de que "no concurso de credores estabelecem-se duas ordens de preferência: os créditos trabalhistas, os da Fazenda Federal, Estadual e Municipal e os com garantia real, nesta ordem; em um segundo momento, a preferência se estabelece em favor dos credores com penhora antecedente ao concurso, observando-se entre eles a ordem cronológica da constrição" REsp 594.491/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 2/6/2005, DJ 8/8/2005).
+O agravante trabalhador pretende ver mantida sua inclusão no processo, na qualidade de terceiro interessado, em razão de crédito decorrente de reclamação trabalhista n. 1000006-30.2014.5.02.0709, com o deferimento de penhora no rosto dos autos em seu favor.
+Anoto que a penhora no rosto dos autos não se ajusta ao caso, pois aquela se presta à penhora dos créditos a serem recebidos pelo executado em outro processo.
+Desse modo, o Tribunal de origem não destoou desse entendimento ao determinar o regular prosseguimento do procedimento tendente à penhora da quantia bloqueada em aplicação financeira. Isso porque, ainda que se cuide de haveres trabalhistas do agravante em outro processo, no caso inexiste crédito da empresa empregadora. Pelo contrário, cuida-se de condenação ao levantamento de valores depositados nos autos pela devedora no âmbito do cumprimento de sentença que lhe foi desfavorável em ação de despejo c/c cobrança de aluguéis com a determinação de penhora on-line.
+Ademais, verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Intimem-se.
