@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos :
+    “PROCESSUAL CIVIL. AGRAVO. ART. 557, § 1º, DO CPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE PARCELAMENTO. MANIFESTAÇÃO FAZENDÁRIA AFIRMANDO A EXIGIBILIDADE DO DÉBITO FISCAL.
+    I – A teor do artigo 557, “caput”, do CPC, o relator, procedendo ao cotejo da decisão recorrida com súmula ou jurisprudência dominante do Tribunal respectivo ou de Tribunal Superior, negará seguimento ao recurso manifestamente improcedente, inadmissível ou prejudicado.
+    II – O parcelamento não extingue a execução, só a suspende.
+    IV – Agravo desprovido.” (eDOC 2, p. 64)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, inciso LV; 37, do texto constitucional.
+    Nas razões recursais, alega-se, em suma, que a recusa de análise dos documentos fiscais juntados pelo recorrente configura-se desrespeito ao devido processo legal. Assevera-se, ainda, que a manifestação da Receita Federal no sentido de afirmar a exibilidade das inscrições configura-se desrespeito à moralidade administrativa.
+    Decido.
+    A irresignação não merece prosperar.
+    Preliminarmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    Quanto à alegada ofensa ao art. 5º, inciso LV, da Constituição Federal, é firme a jurisprudência do Supremo Tribunal Federal no sentido de que a afronta aos princípios constitucionais do contraditório, da ampla defesa, do devido processo legal, e dos limites da coisa julgada, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário. A repercussão geral da matéria foi rejeitada no julgamento do ARE 748.371 RG, de minha relatoria, tema 660 da sistemática da repercussão geral, assim ementado:
+     “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Além disso, verifico que o Tribunal de origem, ao examinar conjunto probatório constante dos autos, consignou que não foi demonstrada a inexigibilidade do título executivo. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A decisão, ora agravada, foi proferida nos seguintes termos:
+    Sabe-se que a denominada ‘exceção de pre-executividade’ admite a defesa do executado sem a garantia do juízo somente e nas hipóteses excepcionais de pagamento ou ilegitimidade de parte documentalmente comprovados, cancelamento de débito, anistia, remissão e outras situações reconhecíveis de plano, ou seja, a sua admissibilidade deve se basear em prova inequívoca não sendo cabível nos casos em que há necessidade de produção de provas.
+    A defesa deve estar acompanhada de prova pré-constituída, uma vez que se tratando de processo executivo, não há como se abrir a debate qualquer alegação que demande dilação probatória ou enseje maior controvérsia pelas partes. A execução tem, ccmo fito único, a satisfação do título judicial ou extrajudicial, com força executiva, não comportando discussões.
+    In casu, a documentação acostada aos autos pela agravante é insuficiente para infirmar a decisão impugnada, uma vez que os valores discriminados à fl. 56, relativamente às competências de janeiro a março de 1997, não correspondem, exatamente, aos débitos em cobrança. Além disso, já houve manifestação da Receita Federal, no sentido de afirmar a exigibilidade das inscrições. ”. (eDOC 2, p. 61-62)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. Direito Processual Civil. 3. Execução fiscal. Alegação de não ocorrência da prescrição no âmbito da exceção de pré-executividade. 4. Impossibilidade de análise de legislação infraconstitucional e de reexame de matéria fático-probatória. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. (ARE 1091396 AgR, minha relatoria, Segunda Turma, DJe 26.4.2018)”
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMUNIDADE. ADMISSIBILIDADE DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 688.548, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.5.2009)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) .
+    Publique-se.
+    Brasília, 23 de outubro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
