@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E DIREITO PROCESSUAL PENAL. PREPARO. RECOLHIMENTO. ENUNCIADOS ADMINISTRATIVOS DO STJ N. 2 E 3. RECOLHIMENTO SOB RUBRICA DIVERSA. DESERÇÃO. OCORRÊNCIA.
+1. Nos termos dos enunciados administrativos do STJ n. 2 e 3, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+2. A parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do tipo de ação ou recurso escolhido, ou seja, em vez de recolher as custas do recurso especial, fez o recolhimento sob a rubrica diversa.
+3. Este Superior Tribunal consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - no ato da interposição do recurso especial - caracteriza a sua deserção, sendo inviável a posterior retificação.
+4. Inexistindo elementos capazes de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente agravo.
+5. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra a decisão às fls. 1.120 e 1.121, por meio da qual, a então Presidente deste Superior Tribunal, Ministra Laurita Vaz, não conheceu do recurso especial do ora agravante porque o recurso especial não foi devida e oportunamente preparado (fl. 1.121).
+Sustenta o agravante, além de repisar argumentos dispostos em seu recurso especial, que tendo em mente que o orçamento desse Superior Tribunal de Justiça é único e que o pagamento de ambas as guias iria para a mesma Fonte de Receita (FR), ou seja, "27  Custas e Emolumentos  Poder Judiciário", o agravante gerou a guia correta, porém deixou de efetivar o respectivo recolhimento, sob pena de pagar duas vezes o mesmo valor (fl. 1.128).
+Aduz que o comando indubitavelmente merece reforma, pois em que pese o preenchimento equivocado da rubrica na primeira vez em que emitida a GRU, não houve qualquer prejuízo a essa Corte que justificasse o não recebimento do reclamo, já que a receita foi devidamente recebida e inclusive sob a mesma fonte, possibilitando assim ao Poder Judiciário que efetue a prestação jurisdicional pleiteada (fls. 1.128 e 1.129).
+Requer, assim, o provimento de sua insurgência (fls. 1.125/1.232).
+Dispensou-se a oitiva da parte contrária.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O inconformismo do agravante não merece abrigo, impondo-se, por isso, a manutenção da decisão agravada pelos seus próprios fundamentos.
+De início, nos termos dos enunciados administrativos do STJ n. 2 e 3, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Erigida essa premissa, mediante análise dos autos, verifica-se que o recolhimento efetuado, a título de custas judiciais, foi realizado em desacordo com o disposto na Resolução STJ vigente à época da interposição do recurso, a qual dispunha que, no momento do preenchimento da GRU Cobrança deverão ser indicadas obrigatoriamente as informações exigidas no formulário eletrônico disponível no portal eletrônico do Tribunal (http://www.stj.jus.br), de acordo com o tipo de ação ou recurso escolhido.
+De fato, a parte fez a indicação errônea, no momento do preenchimento do formulário eletrônico, do tipo de ação ou recurso escolhido, ou seja, em vez de recolher as custas do recurso especial, fez o recolhimento sob a rubrica diversa.
+O Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção, sendo inviável a posterior retificação. Nesse sentido, os seguintes precedentes: AgRg no AREsp 225.202/RJ, Terceira Turma, Ministro Ricardo Villas Bôas Cueva, DJe de 17/12/2012; e AgRg no AREsp 44.218/SP, Quarta Turma, Ministra Maria Isabel Gallotti, DJe 30/11/2012.
+Assim, não se verifica o atendimento da exigência contida no art. 511, caput, do CPC/1973, que assim dispunha: no ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+Ademais, percebeu-se, neste Superior Tribunal, a irregularidade no recolhimento do preparo, razão pela qual houve a intimação da parte agravante para que o referido vício fosse sanado. Apesar disso, mesmo sendo regularmente intimada para efetuar o saneamento, a parte não regularizou.
+Não se desconhece a petição às fls. 1.114/1.115, trazida aos autos em razão do despacho oportunizando a regularização do feito. No entanto, ela não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato. Dessa forma, o recurso especial não foi devida e oportunamente preparado.
+Diante disso, não merece reforma o decisum singular, o qual determinou (fl. 1.121):
+ ..  Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+ ..
+Desse modo, inexistindo elementos capazes de alterar os fundamentos da decisão agravada, subsiste incólume o entendimento nela firmado, não merecendo prosperar o presente agravo.
+Em face do exposto, nego provimento ao agravo regimental.
