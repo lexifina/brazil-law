@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu parcial provimento ao apelo defensivo.
+Sustenta o recorrente contrariedade e negativa de vigência aos arts. 14, II, e 33, §§ 2º, alínea c, e 3º, ambos do Código Penal, ao fundamento de que a quantum da pena imposta autoriza a fixação do regime inicial de cumprimento mais brando.
+Requer o provimento do recurso especial a fim de fixar o regime aberto para o inicio do cumprimento da pena.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+Decido.
+O recorrente foi condenado à pena de 4 anos de reclusão, a ser cumprida inicialmente em regime semiaberto, e ao pagamento de 10 dias-multa, como incurso no art. 157, caput, do Código Penal.
+No tocante ao regime inicial de cumprimento, o Tribunal de origem assim se pronunciou (fl. 180):
+O regime inicial, contudo, poderia ser o intermediário. Considerando que não há circunstâncias judiciais desfavoráveis, que o roubo foi cometido sem violência real nem arma de qualquer espécie, que se tratava de pessoa primária e sem registro de antecedentes e que assumiu a responsabilidade por sua conduta, não havia justificativa para imposição do regime mais severo.
+Como se vê, inexiste razão para a fixação do regime mais gravoso do que aquele cabível para a reprimenda imposta - não superior a 4 anos -, na medida em que se trata de réu primário, cuja pena-base foi fixada no mínimo legal, não tendo sido indicada nenhuma circunstância apta a justificar o recrudescimento do regime prisional, fazendo jus o recorrente ao regime aberto, em atenção ao disposto no art. 33, §§ 2º, c, do Código Penal, e ao enunciado da Súmula 440/STJ. Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. TENTATIVA DE ROUBO. PENA INFERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE EM ABSTRATO DO DELITO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA-BASE NO MÍNIMO LEGAL. REGIME INICIAL ABERTO. SUBMISSÃO A TRATAMENTO PSIQUIÁTRICO E AMBULATORIAL DURANTE O CUMPRIMENTO DA PENA. PACIENTE QUE É MORADOR DE RUA E DEPENDENTE QUÍMICO. MAIORES CONDIÇÕES DE RESSOCIALIZAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal. - O regime fechado, mais severo do que o quantum de pena comporta, fixado sem fundamentação idônea e baseado apenas na gravidade em abstrato do delito, afronta o disposto no art. 93, IX, da Constituição da República e na Súmula n. 440/STJ.
+- No caso, tendo em vista a aplicação de pena inferior a 4 anos de reclusão e a ausência de circunstâncias judiciais desfavoráveis, é cabível o regime aberto, a teor do art. 33, §§ 2º, "c", e 3º, do Código Penal.
+ ..
+(AgRg no HC 422783 / SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. ROUBO E FALSA IDENTIDADE. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE CRIMINOSA INTENSA. AÇÕES PENAIS EM ANDAMENTO. SÚMULA 444/STJ. FUNDAMENTAÇÃO IDÔNEA. REGIME INICIAL MAIS BRANDO. POSSIBILIDADE.
+1. O atual entendimento adotado no Supremo Tribunal Federal e no Superior Tribunal de Justiça é no sentido de que não se tem mais admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais.
+2. Esta Corte Superior de Justiça firmou entendimento no sentido de que inquéritos policiais ou ações penais em andamento não podem, em razão do princípio constitucional do estado presumido de inocência, ser considerados para agravar a situação do condenado, seja a título de maus antecedentes, conduta social negativa ou perwsonalidade voltada para o crime (Súmula 444/STJ). Precedentes.
+3. Haja vista a ausência de fundamentação concreta para se manter o paciente em regime inicial mais gravoso do que a sanção imposta permite, vê-se, na decisão impugnada, a presença de manifesto constrangimento ilegal.
+4. Writ não conhecido. Ordem concedida de ofício para redimensionar a pena do paciente para 4 anos de reclusão, em regime inicial aberto, e 10 dias-multa para o crime de roubo, e para 3 meses de detenção, em regime inicial aberto, para o crime de falsa identidade. (HC 335782 / SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2016, DJe 08/03/2016, grifei).
+Ante o exposto, dou provimento ao recurso especial para fixar o regime aberto para o início do cumprimento da pena imposta.
+Publique-se.
+Intimem-se.
