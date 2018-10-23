@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. SUSPENSÃO DA INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SISCON. CONSTATAÇÃO DE QUE O ATUAL GESTOR TOMOU AS PROVIDÊNCIAS NECESSÁRIAS PARA REGULARIZAR A SITUAÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ. SÚMULA 83/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO REGIMENTAL DO ESTADO DO PIAUÍ A QUE SE NEGA PROVIMENTO.
+1. É firme o entendimento desta Corte Superior de que deve ser liberada do cadastro de inadimplência a Prefeitura administrada pelo Prefeito que sucedeu o administrador faltoso, quando tomadas as providências necessárias para regularizar a situação. Incide, na espécie, o óbice da Súmula 83/STJ
+2. Ademais, havendo argumento suficiente à manutenção do Acórdão objurgado que não foi alvo de impugnação nas razões de Recurso Especial, deve incidir o disposto na Súmula 283/STF.
+3. Agravo Regimental do ESTADO DO PIAUÍ a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Regimental interposto pelo ESTADO DO PIAUÍ contra decisão que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO INTERLOCUTÓRIA. TUTELA ANTECIPADA. SUSPENSÃO DA INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SISCON, EM RAZÃO DA CONSTATAÇÃO DE QUE O ATUAL GESTOR TOMOU PROVIDÊNCIAS PARA SANAR FALTAS DO ANTIGO ADMINISTRADOR. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ. FUNDAMENTO IN ATACADO. SÚMULA 283/STF. AGRAVO DESPROVIDO (fls. 186).
+2. Essa decisão confirmou o entendimento firmado pelo Tribunal de origem, assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA COM PEDIDO DE TUTELA ANTECIPADA. INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SISCON POR ATOS DA GESTÃO ANTERIOR. ADOÇÃO DE PROVIDENCIAS PELA ATUAL GESTÃO. SUSPENSÃO DA INSCRIÇÃO. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. A inscrição do nome do Município junto ao SISCON, motivada pela constatação de irregularidades cometidas por gestores anteriores, cuja administração houvera findado, deve ser suspensa nas hipóteses em que evidenciada a adoção das providências cabíveis pelo atual gestor para sanar as faltas do antigo administrador.
+2. Aplicação, na hipótese, da Súmula 230 do Tribunal de Contas da União e do artigo 11, § 5o. da Instrução Normativo Conjunta SEPLAN/SEFAZ/CGE n. 001/2009.
+3. Recurso conhecido e improvido (fls. 101).
+3. A parte agravante sustenta, em síntese, que ocorreu afronta ao artigo 25, § 3o. LC 101/2000, visto que a liberação para o município firmar novos ajustes não é absoluta, compreendendo tão somente as áreas de saúde, educação e assistência social para eventuais transferências voluntárias. Também afirma não incidir ao caso a Súmula 283/STF, uma vez que houve a impugnação de todos os fundamentos essenciais da decisão.
+4. Desse modo, pugna pela reconsideração da decisão ora agravada ou, caso assim não aconteça, que o recurso seja levado à Turma competente. É o relatório.
+VOTO
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. SUSPENSÃO DA INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SISCON. CONSTATAÇÃO DE QUE O ATUAL GESTOR TOMOU AS PROVIDÊNCIAS NECESSÁRIAS PARA REGULARIZAR A SITUAÇÃO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ. SÚMULA 83/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO REGIMENTAL DO ESTADO DO PIAUÍ A QUE SE NEGA PROVIMENTO.
+1. É firme o entendimento desta Corte Superior de que deve ser liberada do cadastro de inadimplência a prefeitura administrada pelo prefeito que sucedeu o administrador faltoso, quando tomadas as providências necessárias para regularizar a situação. Incide, na espécie, o óbice da Súmula 83/STJ
+2. Ademais, havendo argumento suficiente à manutenção do Acórdão objurgado que não foi alvo de impugnação nas razões de Recurso Especial, deve incidir o disposto na Súmula 283/STF.
+3. Agravo Regimental do Estado do Piauí a que se nega provimento.
+1. A despeito das alegações da parte agravante, razão não lhe assiste.
+2. Conforme destacado anteriormente, o acórdão recorrido está em consonância com a jurisprudência desta Corte, firmada em que deve ser liberada do cadastro de inadimplência a prefeitura administrada pelo prefeito que sucedeu o administrador faltoso, quando tomadas todas as providências necessárias para regularizar a situação. Incide, na espécie, o óbice da Súmula 83/STJ. Nesse sentido:
+PROCESSUAL CIVIL. INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SIAFI POR ATOS DA GESTÃO ANTERIOR. IMPOSSIBILIDADE. PROVIDÊNCIAS QUE OBJETIVAM O RESSARCIMENTO AO ERÁRIO. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça entende que, em se tratando de inadimplência cometida por gestão municipal anterior, em que o atual prefeito tomou providências para regularizara situação, não deve o nome do Município ser inscrito no cadastro de inadimplentes. Precedentes do STJ.
+2. Hipótese em que o Tribunal de origem concluiu, com base na prova dos autos, que há de ser liberada a inscrição de municipalidade no cadastro do SIAFI (..) se a administração que sucedeu o ex-gestor faltoso adota as providências tendentes ao ressarcimento ao erário, se fazendo expresso, outrossim, no sentido de entender enquadrada nesse entendimento a hipótese em causa. A revisão dessa orientação implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+3. Agravo Regimental não provido (AgRg no AREsp. 134.472/DF, Rei. Min. HERMAN BENJAMIN, DJe 22.5.2012).
+
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INSCRIÇÃO DE MUNICÍPIO NO CADASTRO DO SIAFI POR ATOS DA GESTÃO ANTERIOR. IMPOSSIBILIDADE. PROVIDÊNCIAS OBJETIVANDO O RESSARCIMENTO AO ERÁRIO. SÚMULA 93/STJ. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça, em diversos precedentes, vem se manifestando no sentido de que, em se tratando de inadimplência cometida por gestão municipal anterior, em que o atual prefeito tomou providências para regularizar a situação, não deve o nome do Município ser inscrito no cadastro de inadimplentes.
+2. Estando o acórdão recorrido em sintonia com o referido entendimento, não merece prosperar a irresignação, incidindo o comando inserto na Súmula 83/STJ, aplicável também aos recursos interpostos pela alínea a.
+3. Agravo regimental não provido (AgRg no Ag 1.241.532/DF, Rei. Min. ARNALDO ESTEVES LIMA, DJe 17.02.2011).
+
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MUNICÍPIO. PRESTAÇÃO DE CONTAS. INSCRIÇÃO NO CADASTRO DO SIAFI. IMPOSSIBILIDADE. PROVIDÊNCIAS OBJETIVANDO O RESSARCIMENTO AO ERÁRIO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme em que deve ser liberada da inadimplência a prefeitura administrada pelo prefeito que sucedeu o administrador faltoso, quando tomadas as providências objetivando o ressarcimento ao erário, em conformidade com os parágrafos 2o. e 3o. do artigo 5o. da Instrução Normativa 1/STN.
+2. Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida. (Súmula do STJ, Enunciado 83).
+3. Agravo regimental improvido (AgRg no Ag 1.202.092/PI, Rei. Min. HAMILTON CARVALHIDO, DJe 14.4.2010).
+3. Ademais, a parte recorrente não impugnou o fundamento adotado pela Corte de origem, de que o Município adotou as providências legais objetivando o ressarcimento ao erário para a responsabilização do ex-prefeito e de que tal entendimento reflete a jurisprudência dos Tribunais Pátrios, suficiente para a manutenção do acórdão, o que atrai a incidência da Súmula 283/STF.
+4. Diante do exposto, nega-se provimento ao Agravo Regimental do Estado do Piauí. É o voto.
