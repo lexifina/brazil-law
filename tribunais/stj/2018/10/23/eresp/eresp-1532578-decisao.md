@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Divergência, interpostos pelo SINDICATO DAS EMPRESAS DE COMÉRCIO EXTERIOR DO ESTADO DE SANTA CATARINA, com base nos arts. 546 do Código de Processo Civil e 266 do Regimento Interno desta Corte, contra acórdão proferido pela 2ª Turma assim ementado (fl. 428e):
+TRIBUTÁRIO. CRÉDITO PRESUMIDO DE ICMS. BASE DE CÁLCULO DO IRPJ E DA CSLL. POSSIBILIDADE. PRECEDENTES.
+O crédito presumido de ICMS configura "benefício fiscal", que ao ser lançado na escrita contábil da empresa promove, indiretamente, a majoração de seu lucro e impacta, consequentemente, na base de cálculo do IRPJ e da CSLL. Nesse sentido: EDcl no REsp 1.463.241/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 2/6/2015, DJe 15/6/2015; AgRg no REsp 1.402.204/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 26/5/2015, DJe 2/6/2015; AgRg nos EDcl no REsp 1.465.870/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/3/2015, DJe 31/3/2015; AgRg no REsp 1.448.693/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/8/2014, DJe 12/8/2014.
+Agravo regimental improvido.
+Alega o Embargante, em síntese, a existência de dissenso caracterizado pelo precedente formado pela 1ª Turma desta Corte, no julgamento do AgRg no Resp n. 1.210.941/RS e no AgRg no Resp n. 1.227.578/RS AREsp 348.551/RS.
+Nas razões recursais, alega-se, em síntese a não inclusão do crédito presumido de ICMS na base de cálculo do IRPF e da CSLL.
+Requer o provimento dos presentes embargos para uniformização da jurisprudência.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ao julgar os EREsp n. 1.517.492/PR, da minha relatoria, a 1ª Seção deste Superior Tribunal assentou a inviabilidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e do CSLL, porquanto entendimento contrário sufragaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou.
+Nessa linha:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ICMS. CRÉDITOS PRESUMIDOS CONCEDIDOS A TÍTULO DE INCENTIVO FISCAL. INCLUSÃO NAS BASES DE CÁLCULO DO IMPOSTO SOBRE A RENDA DA PESSOA JURÍDICA - IRPJ E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. INVIABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - Ao julgar os EREsp n. 1.517.492/PR, da minha relatoria (acórdão pendente de publicação), a 1ª Seção deste Superior Tribunal assentou a inviabilidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e do CSLL, porquanto entendimento contrário sufragaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1671906/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 15/12/2017).
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CRÉDITO PRESUMIDO DE ICMS. INCLUSÃO NA BASE DE CÁLCULO DO IRPJ E DA CSLL. IMPOSSIBILIDADE. ERESP 1.517.492/PR. PRECEDENTES.
+1. A Primeira Seção do STJ ao julgar os EREsp n. 1.517.492/PR (Rel. Min. Regina Helena Costa), assentou a inviabilidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e do CSLL, porquanto entendimento contrário sufragaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou. Precedentes: AgInt no REsp 1.671.906/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 15/12/2017; AgInt no REsp 1400947/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/12/2017.
+2. Agravo interno não provido.
+(AgInt no REsp 1708901/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/04/2018, DJe 02/05/2018).
+TRIBUTÁRIO. CRÉDITO PRESUMIDO DE ICMS. INCLUSÃO DE BASE DE CÁLCULO DO IRPJ E DA CSLL. IMPOSSIBILIDADE.
+1. É pacífico o entendimento desta Corte Superior no sentido de que os créditos presumidos do ICMS não integram a base de cálculo do IRPJ e da CSLL porque constituem incentivo voltado à redução de custos. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp 1222846/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/04/2018, DJe 05/06/2018).
+Isto posto, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO aos Embargos de divergência para dar provimento ao Recurso Especial, reconhecendo que os créditos presumidos do ICMS não integram a base de cálculo do IRPJ e da CSLL, e determino o retorno dos autos à origem para análise dos demais pleitos da impetração.
+Publique-se e intimem-se.
