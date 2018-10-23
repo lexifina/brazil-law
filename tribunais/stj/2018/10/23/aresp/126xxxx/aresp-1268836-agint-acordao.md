@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AFRONTA AOS ARTS. 141, 492 E 503 DO CÓDIGO DE PROCESSO CIVIL/2015. NÃO INTERPOSIÇÃO DE OFENSA AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 (535 DO CÓDIGO DE PROCESSO CIVIL/1973). ENUNCIADO 211 DA SÚMULA DO STJ. CÁLCULO REALIZADO PELA CONTADORIA. VALIDADE. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não tendo havido o prequestionamento do tema posto em debate nas razões do recurso especial e não tendo sido apontada ofensa ao art. 1.022 do Código de Processo Civil/2015 (535 do Código de Processo Civil/1973), incidente o enunciado 211 da Súmula do STJ.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Luis Felipe Salomão e Raul Araújo votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por OI S/A (sociedade empresária em recuperação judicial), tendo por objeto reforma de decisão proferida às fls. 210/213.
+A agravante refuta a decisão agravada, combatendo a aplicação das Súmulas 7 e 211/STJ. Afirma que não pretende o reexame de fatos e provas; e que devidamente prequestionada a matéria posta em discussão no especial.
+Requer, outrossim, a retratação desta Relatora ou o provimento do recurso pelo órgão colegiado.
+Intimada à fl. 222, não houve impugnação da parte agravada (certidão de fl. 224).
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não merece provimento.
+Os argumentos jurídicos trazidos nas razões do agravo interno não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida (fls. 210/213):
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL, em face de acórdão assim ementado (fls. 141/142):
+AGRAVO DE INSTRUMENTO - AÇÃO DE ADIMPLEMENTO CONTRATUAL EM FASE DE CUMPRIMENTO DE SENTENÇA - INTERLOCUTÓRIA QUE DETERMINOU A APLICAÇÃO DA MULTA DO ART. 475-J DO CÓDIGO DE PROCESSO CIVIL DE 1973 (ART. 523, §2º DO CPC/2015) ALÉM DE CONSIGNAR DEVIDA A COBRANÇA DOS VALORES REFERENTES À RESERVA DE ÁGIO - INSURGÊNCIA DA EMPRESA DE TELEFONIA.
+PLEITO DE SOBRESTAMENTO DO FEITO - ARGUIÇÃO NÃO SUSCITADA E ANALISADA PELO JUÍZO "A QUO" - IMPOSSIBILIDADE DE MANIFESTAÇÃO POR ESTA CORTE DE JUSTIÇA, SOB PENA DE SUPRESSÃO DE INSTÂNCIA - NÃO CONHECIMENTO NO PONTO.
+O objeto do recurso de agravo de instrumento está adstrito ao parâmetros da decisão impugnada, impossibilitando a discussão acerca de matéria não analisada pelo juízo "a quo", sob pena de supressão de instância.
+Na hipótese, não houve apreciação da tese de necessidade de suspensão do feito, razão pela qual deixa-se de conhecê-la em grau recursal.
+MULTA DO ART. 475-J DO CPC/1973 (ART. 523, §2º DO CPC/2015) - PEDIDO DE AFASTAMENTO - AFIRMAÇÃO DE GARANTIA DO JUÍZO, A QUAL ILIDE A COBRANÇA DA PENALIDADE - DEPÓSITO REALIZADO APENAS COM A INTENÇÃO DE OFERTAR IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA - AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO - SANÇÃO DEVIDA - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE - IMPROCEDÊNCIA NO PONTO.
+O Superior Tribunal de Justiça pacificou o entendimento de que "Iniciado o cumprimento de sentença, a realização do depósito, a depender de sua finalidade, pode ou não ilidir a multa de 10% prevista no art. 475-J do CPC/1973. Se o depósito tiver por propósito o pagamento do débito, inaplicável a aludida sanção. Todavia, caso o depósito tenha o escopo, único e exclusivo, de garantir o juízo, a fim de viabilizar a apresentação de impugnação, desta data se inicia o prazo para a apresentação de sua defesa, sem, contudo, ilidir a referida sanção. Precedentes" (STJ, AgInt no REsp n. 1597623/PA, rel. Min. Marco Aurélio Bellizze, Terceira Turma, j. em 20/9/2016).
+EXCESSO DE EXECUÇÃO - REQUERIMENTO DE AFASTAMENTO DA DISTRIBUIÇÃO DE RESERVA DE ÁGIO - IMPOSSIBILIDADE - DECORRÊNCIA DA SUBSCRIÇÃO ACIONÁRIA - PRESCINDIBILIDADE DE PREVISÃO EXPRESSA NO TÍTULO EXECUTIVO JUDICIAL - [NOME].
+"A reserva especial de ágio é decorrência lógica da condenação à subscrição de ações. Isso porque, "se trata, mais precisamente, de benefício conferido a todos acionistas - exceto se expressamente disposto de modo diverso no protocolo e justificação de incorporação -, pelo aumento do capital da companhia advindo da incorporação de parcela da reserva especial de ágio, isto é, pela capitalização da mencionada reserva na exata medida da amortização, quando da obtenção de benefícios fiscais, do ágio pago ao ensejo da aquisição do controle de outra companhia aberta" (TJSC, AI n. 2012.010988-6, Des. Túlio Pinheiro, j. 28.02.2013) (Agravo de Instrumento n. 2011.018866-9, Rel. Des. Getúlio Corrêa, j. 18/2/2014).
+Os embargos de declaração opostos na origem foram rejeitados (fls. 161/171).
+Nas razões do especial, a ora agravante alega afronta aos arts. 141, 492 e 503 do Código de Processo Civil/2015 (arts. 128, 460 e 468 do Código de Processo Civil/1973) afirmando que os cálculos da contadoria foram "elaborados em desrespeito aos parâmetros estabelecidos no título executivo" (fl. 180).
+Passo a decidir.
+Inicialmente, quanto à análise de ofensa aos arts. 141, 492 e 503 do Código de Processo Civil/2015 observa-se que, embora opostos embargos de declaração, os temas não foram debatidos pela Corte de origem. Assim, não levantada a negativa de vigência ao art. 1.022 do Código de Processo Civil/2015 (535 do Código de Processo Civil/1973) nas razões do especial, incidente o enunciado 211 da Súmula do STJ, por ausência de prequestionamento.
+Ainda que assim não fosse, o Tribunal de origem concluiu pela validade dos cálculos apresentados pela Contadoria, com base nos fatos e provas dos autos, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CÁLCULOS. CONTADORIA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. Não se verifica, também, no caso, a alegada vulneração dos artigos 11 e 489 do Código de Processo Civil, uma vez que a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. Assim, o teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+2. As conclusões do acórdão recorrido sobre a veracidade e legalidade dos cálculos elaborados pela contadoria judicial não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1180983/RO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/03/2018, DJe 06/03/2018)
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
+Verifique-se que os temas constantes dos arts. 141, 492 e 503 do Código de Processo Civil/2015 não foram debatidos pela Corte e, em face da não arguição de afronta ao art. 1.022 do Código de Processo Civil/2015 (535 do Código de Processo Civil/1973), o recurso esbarra no óbice da Súmula 211/STJ.
+Acrescente-se que inviável a apreciação dos fatos e provas constantes dos autos, bem como a conclusão da origem acerca destes, a fim de verificar a validade, ou não, dos cálculos apresentados pela Contadoria, por exigir o reexame fático e esbarrar no óbice da Súmula 7/STJ.
+Em face do exposto, não havendo o que se reformar, nego provimento ao agravo interno.
+É como voto.
