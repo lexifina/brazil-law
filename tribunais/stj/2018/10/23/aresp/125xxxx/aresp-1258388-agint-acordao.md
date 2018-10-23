@@ -1,0 +1,89 @@
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE OFENSA À COISA JULGADA SEM IMPUGNAÇÃO AOS CÁLCULOS DO LAUDO PERICIAL. FUNDAMENTOS NÃO IMPUGNADOS. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, não conheceu do agravo interno, nos termos da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Luis Felipe Salomão e Raul Araújo votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno contra a decisão de fls. 838-844, e-STJ, que negou provimento ao agravo.
+Em suas razões, o agravante refuta a aplicação da Súmula 7 do STJ, repisando a tese de violação dos arts. 359, 471 e 473 do Código de Processo Civil de 1973 e de divergência jurisprudencial.
+Sustenta que o recurso trata de matéria exclusivamente de direito - impossibilidade de alteração dos critérios adotados na parte dispositiva da sentença condenatória após o trânsito em julgado, sob pena de ofensa à coisa julgada.
+Apresentada impugnação pela parte contrária (fls. 880-886, e-STJ), requerendo o não provimento do recurso.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não prospera.
+Transcrevo, por oportuno, os fundamentos da decisão agravada:
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+
+"AGRAVO DE INSTRUMENTO - AÇÃO DE REVISÃO CONTRATUAL - LIQUIDAÇÃO DE SENTENÇA - ARTIGOS 359 OU 475-B, §2º. AMBOS DO CPC/73 - ARTIGOS 400 E 524. §5º AMBOS DO NCPC - PRESUNÇÃO RELATIVA DE VERACIDADE - POSSIBILIDADE DEREFUTAÇÃO PELO JUÍZO - Nos termos dos artigos 370 e 524. §§1º e 2º, ambos do NCPC, a memória de cálculos apresentada pelo credor, com fulcro no §5º do último dispositivo mencionado, possui, tão somente, presunção relativa de veracidade. - Não há óbice para que o magistrado remota os cálculos à Contadoria Judicial ou. ainda, determine a realização de prova pericial sobre o crivo do contraditório quando entender que os valores indicados pelo exequente estão em aparente violação ao titulo judicial.
+Nas razões de recurso especial, alega o agravante, em suma, divergência jurisprudencial e violação dos arts. 359, 471, 473 e 475-G do Código de Processo Civil de 1973.
+Sustenta a ocorrência de ofensa à coisa julgada, ao argumento de que a data do início da vigência do contrato considerada pela sentença executada seria 1991/2011.
+Apresentadas contrarrazões (fls. 786-806 e-STJ), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 808-809 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+A Corte estadual manteve a sentença que acolheu a impugnação ao cumprimento de sentença oposta pela parte agravada, ao fixar valor do débito exequendo nos seguintes termos:
+Cinge-se a controvérsia em aferir acertamento à decisão que acolheu a impugnação ao cumprimento de sentença oposta pelo agravado e fixou o valor de R$1.741,82 (um mil setecentos e quarenta e um reais e oitenta e dois centavos) como sendo o valor por ele devido (fls. 635/640-TJ).
+Pode-se dizer que os requisitos avaliados no juizo de admissibilidade do recurso se dividem em dois grupos, quais sejam, requisitos intrínsecos (cabimento, legitimação, interesse e inexistência de fato impeditivo ou extintivo do poder de recorrer) e extrinsecos (recorribilidade da decisão e a adequação, a singularidade, o preparo e a tempestividade, a regularidade formal e a motivação do recurso).
+Em relação, mais especificamente, aos requisitos extrinsecos que dizem respeito à recorribilidade da decisão e a adequação, esclareço que, estando a ação de origem em fase de cumprimento de sentença, tem-se que a decisão agravada se encontra, de maneira clara, no rol taxativo do artigo 1.015 do Novo Código de Processo Civil.
+(..)
+Feitas essas considerações, conheço do recurso, eis que presentes os pressupostos intrínsecos e extrinsecos de admissibilidade.
+Necessário, primeiramente, tecer alguns breves comentários acerca da lide de origem.
+Como relatado, o agravante / autor ingressou com a ação de origem com o objetivo de revisar as cláusulas do contrato outrora avençado com o banco agravado (nº. 0352-01814-7), consideradas como abusivas (fls. 26/33-TJ); e, em razão do fato de não estar de posse desse contrato, tampouco dos respectivos extratos de movimentação bancária, pugnou pela exibição incidental dos mencionados documentos, informando, na petição que instruiu a demanda de origem, que o período de vigência do respectivo contrato de conta corrente se deu entre os anos de 1990 a 2011.
+Percebe-se dos autos que, ainda na fase de conhecimento, o MM. Magistrado a quo concedeu diversos prazos ao agravado para colacionar aos autos os documentos necessários à realização de perícia contábil; e em razão de não ter o agravado cumprido mencionada determinação judicial, aplicou ao feito de origem a previsão inseria no artigo 359 do CPC/73, proferindo, consequentemente, sentença de parcial procedência (fls. 78/83-TJ).
+Confira-se o seu respectivo conteúdo:
+(..) Diante dessas considerações e nos termos do artigo 269, I, da Lei Processual Civil. JULGO PARCIALMENTE PROCEDENTES os pedidos iniciais para condenar o banco réu a restituir ao autor, de forma simples, as quantias descontadas em sua conta corrente, a titulo de juros capitalizados mensalmente, no período compreendido entre 06/10/1991 e 2011, atualizados pelos Índices da Corregedoria-Geral de Justiça, mais juros de 1% ao mês, ficando mantida, por outro lado, a taxa de juros pactuada.
+Por conseqüência, condeno o banco réu ao pagamento de 50% das custas processuais e honorários advocaticios que arbitro em R$1.000.00. na forma do artigo 20, §4º. do CPC. O autor arcará com o restante das custas processuais e honorários de R$1.000,00, suspensos pelo prazo previsto no artigo 12, da Lei 1.060/50, permitida a compensação.
+(..)
+Mencionada sentença foi reformada parcialmente por este eg. Tribunal, quando do julgamento do recurso de Apelação de nº. 1.0145.11.052493-4/001, somente no que tange aos honorários advocaticios (fls. 84/90-TJ). Vejamos:
+(..) Pelo exposto, DOU PARCIAL PROVIMENTO AO 1o RECURSO, apenas para fixar os honorários advocaticios em 15% sobre o valor da condenação, e NEGO PROVIMENTO AO 2o RECURSO. (..)
+Iniciada a respectiva fase de liquidação da sentença, com, inclusive, a nomeação de perito para aferir o valor do débito exequendo, o banco, mais uma vez, quedou-se inerte diante das diversas concessões de prazo para juntada dos documentos necessários à realização dos cálculos, limitando-se a colacionar aos autos apenas parcela de referida documentação.
+Diante desse cenário, o agravante interpôs o Agravo de Instrumento de nº. 1.0145.11.052493-4/002 (fls. 172/175-TJ). ao qual foi dado provimento em sua integralidade, tendo sido reconhecido o excesso de prazos concedidos pelo d. Juízo de origem ao agravado para a juntada dos pertinentes documentos nos autos de origem.
+Confira-se:
+(..) Dessa forma, constata-se que a instituição financeira colacionou apenas parte dos documentos e vem se furtando ao cumprimento da ordem judicial que determinou a exibição dos contratos de todo o período requerido pelo autor.
+Ora. não se pode negligenciar que o Diploma Processual Civil consagrou dentre os deveres do magistrado a responsabilidade por velar pela rápida
+solução do litígio. Isso significa que o devido processo legal há de ser observado, com amplo espaço para a produção probatória, o contraditório e a amplitude de defesa. Contudo, deve-se coibir o desperdício de atos processuais inócuos, o dispêndio desproporcional de tempo e a atuação abusiva das partes e dos demais envolvidos visando dilatar excessivamente a duração do processo. (..)
+Como se não bastasse, insta salientar que o direito do jurisdicionado de obter do Judiciário uma resposta justa e no tempo oportuno quanto  pretensão ajuizada está calcado em norma constitucional, conforme se extrai do art. 5o. LXXVIII, da CRFB/88, (..).
+Nesse diapasão, levando-se em conta que a primeira intimação para o cumprimento da decisão de exibição ocorreu em agosto de 2012, o decurso de mais de três anos sem o seu atendimento qualifica-se como desproporcional e injustificável, devendo o recurso ser provido ante o lapso temporal já transcorrido e o claro intuito protelatório do agravado.
+Ressalto que a conduta do banco poderia até mesmo constituir litigáncia de má-fé, nos termos do art. 17, IV, do CPC.
+Compete, contudo, ao MM. magistrado a quo aplicar o disposto no art. 359, do CPC, que dispõe: (..)
+Por fim, entendo não ser o caso de cassar a decisão haja vista que o prazo de 15 (quinze) dias concedido por meio da publicação de fls. 216/TJ, já se extinguiu, devendo o MM. Magistrado primevo determinar que a duração razoável do processo seja observada, coibindo-se atos protelatórios e comprometedores do adequado andamento do feito. Por conseguinte, descumprida a determinação de exibição, o banco requerido deverá suportar os efeitos explicitados no art. 359, do CPC, ficando vedado o deferimento de nova dilação de prazo.
+Isso posto, DOU PROVIMENTO AO RECURSO. (..)
+Em razão do provimento do Agravo de Instrumento, e da vedação de novo prazo para a juntada de novos documentos, apresentou os cálculos de fls. 177/183-TJ, referentes, até mesmo, a período não contemplado nos documentos apresentados anteriormente pelo agravado nos autos de origem, concluindo como valor exequendo a importância de R$8.765.141.15 (oito milhões setecentos e sessenta e cinco mil cento e quarenta e um reais e quinze centavos).
+Consta dos autos que o banco agravado apresentou Impugnação ao Cumprimento de Sentença, afirmando que haveria excesso de execução (fls. 488/549-TJ).
+Informa o agravante, na petição que instruiu que o presente recurso, que após refutar in totum referida impugnação ao cumprimento de sentença, e requerer expressamente o desentranhamento dos documentos juntados de maneira extemporânea pelo banco agravado, mencionado pedido não foi apreciado, limitando-se a secretaria do juízo de primeira instância publicar equivocada intimaçáo para especificação de provas.
+Acrescenta que, ato contínuo, informou que, em razão da decisão proferida por este egrégio Tribunal nos autos do recurso de Aqravo de Instrumento nº. 1.0145.11.052493-4/003, não produziria outras provas, eis que já teria diligenciado no sentido de produzi-las anteriormente; e que, em contrapartida, o agravado pugnou pela produção de prova pericial.
+O d. Juízo de origem, no entanto, entendeu, por bem, determinar a produção de nova perícia contábil (fls. 474-TJ), tendo o II. Perito apresentado os respectivos cálculos (fls. 509/586-TJ), e concluindo como valor total da condenação a importância de R$1.741,83 (um mil setecentos e quarenta e um reais e oitenta e três centavos).
+Posteriormente, de posse desse novo laudo pericial, o d. Juízo de primeira instância proferiu o decisum que ora se discute, oportunidade na qual entendeu, por bem, acolher a impugnação ao cumprimento de sentença apresentada pelo banco agravado. Vejamos os fundamentos por ele utilizados (fls. 635/640-TJ):
+(..) Colho maduro o processo para julgamento, uma vez existente nos autos prova mais do que suficiente para a formação do meu juízo sobre o mérito da demanda.
+Compulsando os autos, verifico que o Impugnante se insurge, fundamentalmente, contra um suposto excesso de execução.
+Pois bem, após análise acurada dos elementos insertos nos fólios da lide, denoto que subsiste o argumento invocado pelo Impugnante/Executado.
+No caso em comento, dessumo que. de fato, há o alegado excesso de execução, já que o cálculo apresentado pelo expert nomeado, sob o crivo do contraditório e da ampla defesa, demonstrou que o débito exequendo é, na verdade, de R$1.741,82 (um mil setecentos e quarenta e um reais e oitenta e dois centavos), consoante se infere do contido às páginas 897/911.
+No caso em exame, após leitura atenta dos documentos acostados aos autos, infere-se que, realmente, o banco agravado quedou-se inerte diante das diversas determinações judiciais no sentido de que apresentasse os documentos necessários à real apuração do débito exequendo, tendo somente apresentado-os em momento posterior.
+Todavia, em verdade, tem-se que a realização da perícia contábil nos autos de origem foi determinada, por provocação do banco agravado, pelo il. Julgador de primeiro grau, forte no fundamento de que o caso dos autos merecia um melhor esclarecimento.
+(..)
+Assevero, ainda, que não há que se falar em violação ao instituto da coisa julgada no que se refere ao período de vigência da conta corrente de titularidade do agravante n 0352-01814-7), uma vez que. conforme também brilhantemente consignado pelo MM. Magistrado de primeira instância, quando da prolação que ora se discute, nos termos do laudo pericial de fls. 509/586-TJ, acostado aos autos originários, "o início do relacionamento comercial entre as partes se deu no ato da abertura da conta corrente, isto é, 01/07/1998" (fl. 514-TJ).
+Ora, tem-se, realmente, como inadmissível uma interpretação que permitisse a realização de um cálculo totalmente hipotético e inverossímil, sem qualquer lastro probatório, tão somente pelo fato de o título executivo judicial exequendo ter partido da premissa, induzida pela própria narrativa inicial, no que concerne a determinado lapso temporal, após ser verificado que a conta corrente da lide teve como data de abertura, em verdade, o dia 01/07/1998, e não o dia 06/10/1991.
+(..)
+Por fim, considerando-se que o agravante limita-se, em sua extensa petição recursal, a impugnar a decisão agravada ao argumento de que essa teria violado o instituto da coisa julgada, não tendo, em momento algum, impugnado os cálculos elaborados pelo II. Perito nomeado pelo d. Juízo de origem em si, entendo que a decisão vergastada que os homologou, não merece reparos, pelos próprios fundamentos exarados ao longo do presente voto. (Grifou-se)
+A revisão da premissa fática firmada pelo acórdão recorrido, a partir da análise das provas, no tocante ao período de vigência contratual à luz do que foi disposto na sentença, esbarra no óbice da Súmula 7 do STJ.
+A incidência da Súmula 7 do STJ impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+Em face do exposto, nego provimento ao agravo.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
+Os embargos de declaração opostos foram rejeitados por decisão ( fls. 863-864, e-STJ) de seguinte teor:
+Trata-se de embargos de declaração opostos em face da decisão de fls. 838-844, que negou provimento ao agravo em recurso especial.
+Sustenta erro de fato quanto à aplicação da Súmula 7 do STJ, tendo em vista que não "requer a revisão de premissa fática ou do conjunto probatório dos autos, se tratando a matéria exclusivamente de direito, notadamente à ofensa à coisa julgada" (fl. 851, e-STJ).
+Aduz, sob o mesmo fundamento, a comprovação do alegado dissídio jurisprudencial.
+Intimada para se manifestar acerca da interposição do presente recurso, a parte contrária apresentou impugnação (fls. 855-860, e-STJ), pugnando a rejeição.
+Assim delimitada a questão, aprecio os argumentos.
+Verifico que não estão presentes os vícios elencados no art. 1.022 do atual Código de Processo Civil, pois os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição ou for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+A tese do embargante de inaplicabilidade da Súmula 7 do STJ ao recurso interposto por ambas as alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, a pretexto de erro de fato, objetiva a reversão do resultado do julgado que lhe foi desfavorável.
+Os apontados vícios, além de inexistentes, objetivam, na verdade a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+Conforme se verifica nas razões do agravo interno, o agravante limitou-se a esgrimir argumentação genérica e teses meritórias, sem, contudo, refutar, especificamente, os fundamentos da decisão agravada.
+O enunciado 182 da Súmula do STJ, contudo, refere-se à impugnação precisa de todas as razões da decisão impugnada, pois, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sob pena de não conhecimento por ausência de cumprimento dos requisitos exigidos pelo art. 1.021, § 1º, do Código de Processo Civil/2015.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
