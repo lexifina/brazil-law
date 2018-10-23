@@ -1,0 +1,25 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. LEGITIMIDADE SINDICAL. BENEFICIA A TODOS OS MEMBROS DA CATEGORIA NA BASE TERRITORIAL DA RESPECTIVA ENTIDADE SINDICAL.
+    A parte apelante não comprovou fazer parte do grupo de substituídos pelo autor do processo de conhecimento, ou seja, não comprovou vínculo com o sindicato. Os efeitos da coisa julgada beneficiam somente os trabalhadores da categoria domiciliados na região. Precedentes.”
+    A parte recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Passo, desse modo, a apreciar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe registrar, ainda, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    Com efeito, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 4ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-  -probatórios:
+    “ A parte apelante não comprovou fazer parte do grupo de substituídos pelo autor do processo de conhecimento, ou seja, não comprovou vínculo com o sindicato. Os efeitos da coisa julgada beneficiam somente os trabalhadores da categoria domiciliados na região.
+    A jurisprudência desta Corte indica que considerando o princípio constitucional da unicidade sindical (art. 8º, II, da CF/88), a coisa julgada formada na ação coletiva promovida por sindicato beneficia a todos os membros da categoria profissional, nos limites da base territorial do sindicato, e não da circunscrição do órgão prolator da sentença (TRF, Primeira Turma, 50054753820174047102, Rel. Alexandre Rossato da Silva Ávila, j. 25abr.2018).
+    Não havendo coerência territorial entre a atividade profissional do pretendente do cumprimento da sentença proferida em ação coletiva e o autor desse instrumento processual, não pode ele se beneficiar da coisa julgada material formada.”
+    Impende acentuar, por necessário, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Corte (RE 468.140-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI – RE 788.989-AgR/DF, Rel. Min. LUIZ FUX – RE 1.154.048/PR, Rel. Min. DIAS TOFFOLI, v.g.):
+    “Agravo regimental no recurso extraordinário. Processual civil. Prequestionamento. Ausência. Ação coletiva. Limites territoriais da eficácia da decisão. Legislação infraconstitucional. Ofensa reflexa. Reexame. Impossibilidade. Violação do princípio da reserva de plenário. Inexistência. Precedentes.
+    1. Inadmissível o recurso extraordinário se o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF.
+    2. A questão sobre a limitação territorial da eficácia da decisão proferida em ação coletiva proposta por sindicato restringe-se ao âmbito infraconstitucional.
+    3. Agravo regimental não provido.”
+    (RE 862.020-AgR/DF, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 23 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
