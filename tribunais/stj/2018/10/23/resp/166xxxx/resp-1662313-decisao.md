@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+AGRAVO (ART. 557, § 1º, DO CPC). PREVIDENCIÁRIO. APLICABILIDADE DO ART. 557 DO CPC. ASSISTÊNCIA SOCIAL. BENEFÍCIO PREVISTO NO ART. 203, INC. V, DA CONSTITUIÇÃO FEDERAL. TERMO INICIAL FIXADO NA DATA DA CITAÇÃO. DECISÃO MANTIDA.
+I- In casu, o termo inicial de concessão do benefício deve ser mantido na data da citação. Isso porque, malgrado haver requerimento administrativo, da leitura da exordial, verifica-se que o pedido restringe-se à concessão do benefício a partir da data da citação. Por sua vez, no recurso de apelação, a parte autora requereu o provimento do recurso para "conceder o Beneficio Assistencial de Prestação Continuada à Autora nos termos inicialmente propostos" (fls. 158). A concessão do benefício em período não pleiteado na exordial configura julgamento ultra petita.
+II- Conforme dispõe o artigo 128 do Código de Processo Civil, o juiz decidirá a lide nos limites em que foi proposta. Igualmente, o artigo 460 do mesmo diploma legal trata da correlação entre o pedido e a sentença.
+III- O art. 557, caput, do CPC, confere poderes ao Relator para, monocraticamente, negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior, sendo que o § 1º-A, do mencionado art. 557, confere poderes para dar provimento ao recurso interposto contra o decisum que estiver em manifesto confronto com súmula ou jurisprudência das Cortes Superiores. Considerando que, no agravo, não foi apresentado nenhum fundamento apto a alterar a decisão impugnada, forçoso manter-se o posicionamento adotado, o qual se encontra em consonância com a jurisprudência dominante do C. STJ.
+IV- A confirmação de decisão monocrática pelo órgão colegiado supera eventual violação do art. 557 do Código de Processo Civil, consoante jurisprudência pacífica do C. STJ.
+V- Agravo improvido.
+No presente recurso especial, o recorrente aponta violação do art. 43, § 1º, b, da Lei n. 8.213/91.
+Sustenta, em síntese, a possibilidade de alteração, de ofício, do termo inicial do benefício para a data do requerimento administrativo, de modo a suprir a omissão da parte autoria, pois trata-se de pessoa com deficiência e incapaz sendo, portanto, matéria de ordem pública, o que independe de recurso da parte autora.
+É o relatório. Decido.
+Tenho que assiste razão ao recorrente.
+Esta Corte consolidou o entendimento de que havendo requerimento administrativo, como no caso, este é o marco inicial dos efeitos financeiros do benefício assistencial.
+Neste sentido, in verbis:
+PREVIDENCIÁRIO. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. APOSENTADORIA POR TEMPO DE SERVIÇO. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. COMPROVAÇÃO DO TEMPO ESPECIAL DURANTE A INSTRUÇÃO PROCESSUAL. IRRELEVÂNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - In casu, conforme asseverado pelo tribunal de origem, na data do requerimento administrativo o segurado já havia adquirido direito à aposentadoria por tempo de serviço, ainda que parte do tempo especial necessário para a concessão do benefício somente tenha sido reconhecido durante a instrução processual.
+III - A comprovação extemporânea do tempo de serviço especial não afasta o direito do segurado à concessão da aposentadoria por tempo de serviço na data do requerimento administrativo, quando preenchidos os requisitos para a concessão do benefício previdenciário.
+IV - Recurso Especial do segurado provido.
+(REsp 1610554/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/04/2017, DJe 02/05/2017)
+PREVIDENCIÁRIO. TERMO INICIAL. CONCESSÃO. APOSENTADORIA ESPECIAL. REQUERIMENTO ADMINISTRATIVO. IRRELEVÂNCIA DA COMPROVAÇÃO EXTEMPORÂNEA. PRECEDENTE DA PRIMEIRA SEÇÃO DO STJ.
+1. A parte recorrente ajuizou ação para ver reconhecido o seu direito a concessão de aposentadoria especial. Contudo, apesar de possuir tempo suficiente para aposentação na data do requerimento administrativo, somente com o laudo pericial se comprovou que a atividade que exercia era especial.
+2. A Primeira Seção do STJ, no julgamento da Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria".
+3. Recurso Especial provido.
+(REsp 1615494/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/09/2016, DJe 06/10/2016)
+PREVIDENCIÁRIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA.
+APOSENTADORIA ESPECIAL. TERMO INICIAL: DATA DO REQUERIMENTO ADMINISTRATIVO, QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA PROVIDO.
+1. O art. 57, § 2o., da Lei 8.213/91 confere à aposentadoria especial o mesmo tratamento dado para a fixação do termo inicial da aposentadoria por idade, qual seja, a data de entrada do requerimento administrativo para todos os segurados, exceto o empregado.
+2. A comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+3. In casu, merece reparos o acórdão recorrido que, a despeito de reconhecer que o segurado já havia implementado os requisitos para a concessão de aposentadoria especial na data do requerimento administrativo, determinou a data inicial do benefício em momento posterior, quando foram apresentados em juízo os documentos comprobatórios do tempo laborado em condições especiais.
+4. Incidente de uniformização provido para fazer prevalecer a orientação ora firmada.
+(Pet 9.582/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 26/08/2015, DJe 16/09/2015)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial do Ministério Público Federal para fixar o termo inicial do beneficio assistencial na data do requerimento administrativo.
+Publique-se. Intimem-se.
