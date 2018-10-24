@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 98277, de 8 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2106.90.10 Mercadoria: Preparação à base de suco concentrado de limão, água, açúcar e aditivos para elaboração de refresco, mediante a diluição em água, na proporção de uma parte da preparação para três partes de água, apresentada em garrafa PET de 250 ml. DISPOSITIVOS LEGAIS: RGI 1, RGI 6 e RGC 1 da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº1.788, de 2018.
+[arquivo anexo: SC COSIT nº 98.277-2018.pdf]
