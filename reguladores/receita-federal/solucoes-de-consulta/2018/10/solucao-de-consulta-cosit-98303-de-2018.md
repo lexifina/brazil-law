@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98303, de 19 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Revisa a Solução de Consulta nº 98.133, de 25 de maio de 2018. Código NCM: 3002.15.90 Mercadoria: Dispositivo para auto-teste de gravidez na urina, constituído por uma tira de teste que contém um reagente de diagnóstico à base de anticorpos, alojada em um invólucro de plástico na forma aproximada de uma caneta. O resultado é indicado pelo aparecimento de 1 linha azul (não grávida) ou 2 linhas azuis (grávida) na tira de teste. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 30.02 e Nota 2 do Capítulo 30), RGI 3-b, RGI 6 (texto das subposições 3002.1 e 3002.15) e RGC 1 (texto do item 3002.15.90), da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e alterações posteriores.
+.
+[arquivo anexo: SC COSIT nº 98.303-2018.pdf]
