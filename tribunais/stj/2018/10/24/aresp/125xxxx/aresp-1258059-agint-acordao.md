@@ -1,0 +1,76 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. DEMANDA ORDINÁRIA OBJETIVANDO FORNECIMENTO DE MEDICAMENTOS. DISPENSABILIDADE DE PERÍCIA TÉCNICA. LAUDO EXPEDIDO PELO MÉDICO CARACTERIZADO COMO PROVA PRÉ-CONSTITUÍDA SUFICIENTE PARA A CONCESSÃO DA SEGURANÇA PLEITEADA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Trata-se, na origem de mandado de segurança com pedido de liminar, impetrado pelo Ministério Público do Estado de Goiás na qualidade de substituto processual de [NOME], contra ato inquinado coator atribuído ao Secretário de Estado de Saúde, consubstanciado em negativa de fornecimento de medicamento para tratamento de saúde. No Tribunal a quo a segurança foi concedida.
+II - Sem olvidar das restrições inerentes aos mandados de segurança, cabe ressaltar que "o juiz é o destinatário final da prova, a quem cumpre a análise da conveniência e necessidade de sua produção" (AgInt no REsp 1.646.673/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20/10/2017).
+III - Em demandas ordinárias que objetivam o fornecimento de medicamentos, esta Corte já se manifestou quanto à dispensabilidade da realização de perícia técnica.
+IV - A irresignação do recorrente acerca da inadequação do mandado de segurança para o presente pleito vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que os documentos que acompanharam a inicial, notadamente o laudo expedido pelo médico que acompanha a parte recorrida, caracterizavam-se como prova pré-constituída suficiente à concessão da segurança pleiteada. Desse modo, estava demonstrada, portanto, a propriedade do writ.
+V - Para rever tal posição e interpretar o dispositivo legal indicado como violado, a fim de se perquirir sobre a adequação do mandado de segurança para caso em apreço, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado n. 7 da Súmula do STJ.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto, com fundamento no art. 105, III, a, da Constituição Federal, com o objetivo de reformar acórdão proferido pelo Tribunal de Justiça Estadual, assim ementado (fls. 108-109):
+MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTOS. OITIVA DA CÂMARA DE SAÚDE. FACULDADE. PROVA PRÉ-CONSTITUÍDA. VIA ELEITA ADEQUADA. ATO COATOR. MEDICAMENTO NÃO PREVISTO NA LISTA DO SUS. IRRELEVÂNCIA. POSSIBILIDADE DE SUBSTITUIÇÃO DO MEDICAMENTO POR GENÉRICO E/OU SIMILAR. RENOVAÇÃO PERIÓDICA DO RELATÓRIO MÉDICO. ENUNCIADO DE SAÚDE PÚBLICA Nº 02, CNJ. MULTA DIÁRIA AFASTADA. DIREITO LÍQUIDO E CERTO DEMONSTRADO.
+1. A oitiva da Câmara de Saúde do Judiciário, além de meramente opcional, mostra-se incompatível com o rito do mandado de segurança, máxime porque suficientes os elementos de convicção carreados aos autos, aptos a ensejar o julgamento seguro do pleito mandamental.
+2. O receituário médico elaborado por médico habilitado, ainda que particular, é prova que, produzida de plano na impetração do mandamus, justifica e ampara a concessão da segurança pleiteada.
+4. A alegação de que a paciente não atende às exigências das portarias baixadas pelo Ministério da Saúde não pode servir como entrave para o cumprimento das políticas públicas definidas pela Constituição Federal, considerando que o direito à vida se sobrepõe a qualquer outro.
+5. A prescrição de medicamento sem a ressalva de impossibilidade de substituição por outro genérico e/ ou similar, permite a sua substituição, desde que respeitada a idêntica composição, o mesmo princípio ativo e a quantidade prescrita pelo profissional competente. Entretanto, se o paciente demonstrar que o medicamento genérico e/ou similar não tem o mesmo efeito daquele prescrito no receituário médico, torna-se imperioso admitir a dispensa do medicamento específico.
+6. O fornecimento de medicamentos pelo Estado é direito fundamental, sendo que a prescrição médica tem a força probante necessária para atestar a sua necessidade e, uma vez comprovada a existência do direito líquido e certo aventado, a concessão da segurança é medida que se impõe.
+7. É inadmissível a fixação de multa diária neste momento processual, para o caso de descumprimento da ordem mandamental, visto que a Lei nº 12.016/2009 já contempla mecanismos aptos a conferir efetividade à ordem dela emanada, podendo incidir sanções administrativas em desfavor da autoridade coatora que, inclusive, poderá responder por crime de desobediência.
+8. É pertinente a renovação periódica do receituário médico pela parte substituída junto ao órgão estadual competente, a cada 03 (três) meses, para demonstrar a necessidade e eficácia do tratamento prescrito, nos moldes do Enunciado de Saúde Pública nº 02, do Conselho Nacional de Justiça.
+Segurança concedida.
+Em suas razões especiais (fls. 120-129), a parte recorrente aponta a violação do art. 1º da Lei n. 12.016/2009.
+Sustenta, em síntese, a inadequação do mandado de segurança para as demandas que envolvam o direito à saúde, mormente nas hipóteses de "pedidos não contemplados pela rede pública". Nesse sentido, afirma que o ente público demandado teria o seu direito à ampla defesa mitigado pela impossibilidade de dilação probatória em tal via processual.
+Isso porque, em hipóteses como a presente, onde se busca o fornecimento de medicamento não incorporado pelo SUS, seria imprescindível a realização de perícia técnica, destinada à orientação do juízo quanto à real necessidade do medicamento; à ineficácia do tratamento ofertado pela rede pública; a sua adequação ao tratamento da doença; bem como à possibilidade de substituição por um fármaco genérico.
+Por essa razão, pugna para que seja reconhecido o "não cabimento do mandado de segurança na espécie" e, consequentemente, extinto o feito.
+Após o oferecimento de contrarrazões (fl. 152-154), o Tribunal de origem inadmitiu o recurso (fls. 156-158), o que ensejou a interposição do presente agravo (fls. 168-172).
+A decisão monocrática tem o seguinte dispositivo:"Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Inicialmente, sem olvidar das restrições inerentes aos mandados de segurança, cabe ressaltar que "o juiz é o destinatário final da prova, a quem cumpre a análise da conveniência e necessidade de sua produção" (AgInt no REsp 1.646.673/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20/10/2017).
+Nesse sentido, em demandas ordinárias que objetivam o fornecimento de medicamentos, esta Corte já se manifestou quanto à dispensabilidade da realização de perícia técnica, in verbis:
+ PROCESSO CIVIL. FORNECIMENTO DE MEDICAMENTO. DISPENSA DA PROVA PERICIAL.
+ A tutela judicial seria nenhuma se quem precisa de medicamentos dependesse de prova pericial para obtê-los do Estado, à vista da demora daí resultante; basta para a procedência do pedido a receita fornecida pelo médico.
+ Agravo regimental desprovido.
+(AgRg no AREsp 96.554/RS, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 21/11/2013, DJe 27/11/2013)
+Tecidas essas breves considerações, observa-se que o acórdão recorrido, ao tratar sobre o cabimento do mandado de segurança para o caso em análise, assim dispôs (fls. 99-101, g.n.) :
+ ..
+De início, registro que o mandado de segurança é a via adequada para reclamar o controle jurisdicional de atos comissivos ou omissivos, ilegais e eivados de abuso de poder, praticados por autoridade da Administração Pública, observado o prazo decadencial de 120 (cento e vinte) dias, a teor do art. 23 da Lei nº 12.016/2009.
+ ..
+Por certo, o mandado de segurança constitui ação de índole constitucional, sendo o remédio adequado à espécie. Tal assertiva revela a importância dada pelo legislador ao remédio destinado a proteger o cidadão dos atos ilegais ou cometidos com abuso de autoridade.
+Preleciona o artigo 5º, inciso LXIX, da Constituição Federal que "conceder- se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuição do Poder Público".
+ ..
+In casu, denota-se que a prescrição do medicamento por receituário médico/relatório médico é prova suficiente e pré-constituídas ao atendimento da pretensão da parte substituída, diante da verificação da necessidade de fornecimento da terapia pugnada para o tratamento da paciente, a saber, "Tracolimo 1 mg", dispensando-se, na hipótese, dilação probatória.
+Ora, a prescrição de medicamentos elaborada por médicos, ainda que particulares, é prova que, produzida de plano, na impetração do mandamus, justifica a concessão da segurança pleiteada.  ..
+Verifica-se, assim, que a irresignação do recorrente acerca da inadequação do mandado de segurança para o presente pleito vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que os documentos que acompanharam a inicial, notadamente o laudo expedido pelo médico que acompanha a parte recorrida, caracterizavam-se como prova pré-constituída suficiente à concessão da segurança pleiteada. Desse modo, estava demonstrada, portanto, a propriedade do writ.
+Nesse diapasão, para rever tal posição e interpretar o dispositivo legal indicado como violado, a fim de se perquirir sobre a adequação do mandado de segurança para caso em apreço, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Por oportuno, destaco os seguintes precedentes em tal sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONCESSÃO DE MEDICAMENTO. PRELIMINARES DE INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL E INADEQUAÇÃO DA VIA ELEITA NÃO CONFIGURADAS. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. OMISSÃO. INEXISTÊNCIA. PROVAS DE DIREITO LÍQUIDO E CERTO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INTERPRETAÇÃO DE PORTARIA. IMPOSSIBILIDADE. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF.
+ ..
+3. Quanto ao argumento de inadequação da via eleita, a Corte estadual, com base no substrato fático-probatório, asseverou que a documentação acostada aos autos era suficiente para comprovar o direito líquido e certo reclamado, ou seja, a necessidade do tratamento pleiteado, e a reforma de tal entendimento esbarraria na Súmula 7/STJ.
+4. Referentemente ao mérito, conquanto o STJ já venha se posicionando sobre a possibilidade de serem fornecidos medicamentos mesmo que não presentes na lista do SUS (REsp. 1.585.522/RO), percebe-se que, in casu, o acolhimento da pretensão recursal demandaria, num primeiro momento, interpretação da Portaria 2.577 do Ministério da Saúde, o que não se admite por não se estar diante de lei federal, e, num segundo momento, exame de questão constitucional, visto que o Tribunal a quo deferiu o pleito com supedâneo nos arts. 26, XI, e 196 da Constituição Federal.
+5. Agravo Interno não provido.
+(AgInt no REsp 1614872/PI, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2017, DJe 24/04/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. MANDADO DE SEGURANÇA. AÇÃO MOVIDA CONTRA O ESTADO. CHAMAMENTO AO PROCESSO DOS DEMAIS ENTES FEDERATIVOS. ART. 77, III, DO CPC. DESNECESSIDADE. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. DIREITO LÍQUIDO E CERTO RECONHECIDO PELO TRIBUNAL DE ORIGEM. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. Na origem, trata-se de Mandado de Segurança, impetrado pela parte ora agravada, em face do Estado do Piauí, alegando que é portadora de câncer de pele (melanoma), necessitando fazer uso do medicamento YERVOY 200mg. O Tribunal de origem, reconhecendo a presença de direito líquido e certo, concedeu a segurança pleiteada.
+ ..
+V. A aferição da alegada inadequação da via eleita, ante a inexistência de direito líquido e certo para a concessão da segurança, por ausência de prova pré-constituída, demanda - ao contrário do que ora se alega - a incursão no conteúdo fático-probatório dos autos, o que implica reexame de provas, inviável, em Recurso Especial, nos termos da Súmula 7 do STJ. No mesmo sentido, em caso análogo: STJ, AgRg no AgRg no AREsp 614.091/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/03/2015.
+VI. Agravo interno improvido.
+(AgInt no REsp 1612893/PI, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 06/10/2016, DJe 04/11/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA ALEGADA INADEQUAÇÃO DA VIA ELEITA. INCIDÊNCIA DA SÚMULA 211 DO STJ. EXISTÊNCIA DE PROVA PRÉ CONSTITUÍDA. NECESSIDADE E URGÊNCIA DA MEDIDA. SÚMULA 7 DO STJ. FORNECIMENTO DE MEDICAMENTO. É DEVER DO ESTADO GARANTIR O DIREITO À SAÚDE. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS PELO FUNCIONAMENTO DO SISTEMA ÚNICO DE SAÚDE. AGRAVO REGIMENTAL DO ESTADO DO CEARÁ DESPROVIDO.
+1. O Tribunal local não se manifestou acerca da tese de inadequação do Mandado de Segurança por ter sido impetrado pelo Ministério Público, em substituição à Ação Civil Pública. Assim, ante a ausência de prequestionamento, incide a Súmula 211 desta Corte.
+2. Ademais, é assente o entendimento desta Corte de que a aferição da inadequação da via eleita e a existência ou não de direito líquido e certo para a concessão da segurança demanda a incursão no conteúdo fático-probatório dos autos, o que implica reexame de provas - inviável em Recurso Especial, nos termos da Súmula 7 do STJ.
+ ..
+4. Agravo Regimental do ESTADO DO CEARÁ desprovido.
+(AgRg no AREsp 264.840/CE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/05/2015, DJe 10/06/2015)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
