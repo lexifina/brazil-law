@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REINTEGRAÇÃO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTÊNCIA.
+I - Trata-se de embargos de declaração opostos contra acórdão que manteve a decisão monocrática de não conhecimento do agravo em recurso especial diante da ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade do recurso especial na origem.
+II - Os aclaratórios somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de ação rescisória ajuizada pelo Estado do Amazonas em desfavor de [NOME], objetivando a desconstituição do acórdão proferido pela Segunda Câmara Cível do Tribunal de Justiça do Estado do Amazonas que determinou a reintegração da servidora no cargo de agente fazendário.
+No Tribunal de Justiça do Estado do Amazonas, foi dado provimento à ação rescisória em acórdão assim ementado:
+DIREITO ADMINISTRATIVO. AÇÃO RESCISÓRIA. PENALIDADE ADMINISTRATIVA. VIOLAÇÃO À LITERAL DISPOSIÇÃO DE LEI. ABANDONO DE CARGO. DEMISSÃO. PEDIDO RESCINDENDO PROCEDENTE. APELAÇÃO CÍVEL. AUSÊNCIA DO SERVIÇO POR MAIS DE 30 (TRINTA) DIAS SEM JUSTIFICATIVA. LICENÇA MATERNIDADE INDEFERIDA. INEXISTÊNCIA DE PEDIDO DE LICENÇA ESPECIAL. ABANDONO DE CARGO CONFIGURADO. APLICAÇÃO DE PENA. ATO ADMINISTRATIVO VINCULADO. DEMISSÃO. ART. 161, II, DA LEI N.º 1.762 (ESTATUTO DOS FUNCIONÁRIOS PÚBLICOS CIVIS DO ESTADO DO AMAZONAS). APELAÇÃO, EM JUÍZO RESCISÓRIO, CONHECIDA E DESPROVIDA. I - Incorre em violação literal à disposição de lei, sendo passível de rescisão, o ato judicial que, reconhecendo o abandono de cargo de servidor público, afasta a pena de demissão aplicada pela Administração Pública após regular procedimento administrativo disciplinar, visto que a lei estipula a penalidade a ser aplicada diante da infração funcional, inexistindo qualquer dissenso interpretativo nesse aspecto. II - Configura abandono de cargo, na forma do art. 161, § 1.º, da Lei n.º 1.762/86, a ausência injustificada do servidor públicos por mais de 30 (trinta) dias, como é o caso dos autos em que a servidora - Requerida deixou de exercer as funções de seu cargo nos meses de dezembro/01 e fevereiro a junho/02. III - Sendo indeferido pedido de licença maternidade, eis que ainda não havia adotado menor, e não havendo provas de que a servidora protocolou pedido de licença especial, cujo deferimento adentra no juízo de discricionariedade da Administração, ficam afastadas as justificativas para as faltas registradas. IV - Nos termos da jurisprudência do Superior Tribunal de Justiça, a aplicação de pena é ato vinculado, razão pela qual, havendo previsão legal de demissão para o servidor que incorrer em abandono de cargo, descabe avaliar a conveniência e oportunidade da pena. V - Pedido rescindendo julgado procedente para, em juízo rescisório, conhecer e negar provimento à apelação interposta. Sentença mantida.
+Opostos embargos de declaração, foram rejeitados.
+[NOME] interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, cujo seguimento foi obstado pelo Tribunal de origem, ensejando a interposição de agravo nos próprios autos.
+Recebidos os autos pelo Superior Tribunal de Justiça, foi proferida decisão monocrática que não conheceu do agravo em recurso especial, sendo confirmada no julgamento do agravo interno pela Segunda Turma, nos seguintes termos da ementa do acórdão:
+PROCESSUAL CIVIL. ADMINISTRATIVO. REINTEGRAÇÃO. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Negou-se seguimento ao recurso especial na origem sob os seguintes fundamentos: não cabimento de REsp alegando violação a norma constitucional, deficiência de fundamentação - Súmula 284/STF e Súmula 7/STJ. Agravo nos próprios autos que não impugna o fundamento da decisão recorrida.
+II - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem, não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+III - Agravo interno improvido.
+Opostos os presentes embargos de declaração, a parte alega em síntese que o acórdão foi omisso quanto ao fato de que todos os fundamentos do acórdão regional recorrido foram impugnados, in verbis (fl. 1.295):
+ ..
+A Embargante impugnou especificamente e sucessivamente na Contestação, no Recurso Especial, no Recurso Extraordinário, no Agravo em Recurso Especial, no Agravo em Recurso Extraordinário, no Agravo Interno, especialmente a afronta a coisa julgada e a preclusão já consumada, além da desobediência a Súmula nº 343 do Supremo Tribunal Federal.
+Apresentada impugnação, a parte embargada requer a rejeição dos embargos.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre o qual o juiz devia se pronunciar de ofício ou a requerimento; e/ou corrigir erro material.
+Ao contrário do que alega a parte embargante, o acórdão foi claro e fundamentado ao manter o não conhecimento do agravo em recurso especial em razão da ausência de impugnação aos fundamentos da decisão de inadmissibilidade do recurso especial na origem. Esclareceu-se que, apesar das alegações em agravo interno, a parte recorrente deixou de demonstrar como teria feito essa impugnação, conforme é possível verificar no excerto do acórdão (fl. 1.280):
+Alega a parte agravante que impugnou os fundamentos da decisão recorrida e que por isso não seria caso de aplicação do art. 932, inciso III, do Código de Processo Civil de 2015 para não conhecer do agravo nos próprios autos. Entretanto, deixa de demonstrar como teria feito essa impugnação.
+Assim, as alegações são insuficientes para modificar a decisão que não conheceu do agravo nos próprios autos por falta de impugnação do fundamento de: não cabimento de REsp alegando violação a norma constitucional e Súmula 7/STJ.
+Não existindo impugnação à decisão que negou seguimento ao recurso especial, correta a aplicação do art. 544, § 4º, inciso I, do Código de Processo Civil de 1973 (atual art. 932, inciso III, do Código de Processo Civil de 2015), para não conhecer do agravo nos próprios autos.
+ ..
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017).
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre o qual o juiz de ofício ou a requerimento devia se pronunciar, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
