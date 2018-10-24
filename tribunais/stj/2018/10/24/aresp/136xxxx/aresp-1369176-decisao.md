@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo MINISTÉRIO PÚBLICO FEDERAL, em 04/04/2018, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. ISENÇÃO PARA A EXPEDIÇÃO DE REGISTRO DE PERMANÊNCIA E CÉDULA DE IDENTIDADE DE ESTRANGEIRO. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. APELAÇÃO IMPROVIDA.
+1. A parte impetrante busca a isenção da taxa para expedição de Registro de Permanência e Cédula de Identidade de Estrangeiro.
+2. A entrada e permanência de estrangeiros no país são atos relacionados à soberania nacional (conforme artigo 1º, inciso I, da CF), sendo de competência privativa da União legislar sobre emigração e imigração, entrada, extradição e expulsão de estrangeiros (artigo 22, inciso XV da Constituição Federal), devendo o interessado cumprir todos os requisitos previstos, na legislação brasileira.
+3. A cobrança de taxas para a emissão de CIE é legitima, até porque devidamente amparada em lei. Com efeito, o Estatuto do estrangeiro (Lei 6.815/1980), em seu art. 33, determina que a emissão de documentos de identidade está sujeita ao pagamento de taxa.
+4. Desse modo, pretender a isenção de tais cobranças, ainda que a parte seja hipossuficiente, importaria em conceder benefícios sem autorização legal para tanto, uma vez contraria o disposto no § 6º do artigo 150 da Constituição Federal.
+5. Apelação improvida" (fl. 109e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 95 da Lei 6.815/80 e 1º, IV, da Lei 9.265/96, sob os seguintes fundamentos: a) "o decisum ora recorrido, ao negar provimento à apelação, deixando assim de afastar o pedido de isenção do pagamento de taxas administrativas cobradas para a expedição da segunda via do registro nacional de estrangeiro, violou dispositivos de leis federais que estabelecem tratamento isonômico entre brasileiros e estrangeiros" (fl. 125e); b) "sendo os impetrantes pessoas comprovadamente hipossuficientes, o conjunto normativo formado pelo artigo 95, do Estatuto do Estrangeiro (reprodução da norma constitucional do caput, do artigo 5º, da CF) e o artigo 1º, inciso V, da Lei nº 9.265/96, permite concluir pela existência de um comando normativo de isenção para as taxas relativas ao registro e identificação do estrangeiro com residência permanente no país, especialmente quando hipossuficiente" (fl. 129e).
+Por fim, requer o conhecimento e provimento do Recurso Especial.
+Não foram apresentadas contrarrazões.
+Negado seguimento ao Recurso Especial (fls. 133/134e), foi interposto o presente Agravo (fls. 136/143e).
+Não foi apresentada contraminuta.
+A irresignação não merece conhecimento.
+Na origem, trata-se de Mandado de Segurança impetrado pelas partes ora recorridas, com o objetivo de obter a isenção de taxa para expedição de segunda via de documento de identificação de estrangeiro.
+Julgada improcedente a demanda, recorreram os autores, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"A cobrança de taxas para a emissão de CIE é legitima, até porque devidamente amparada em lei. Com efeito, o Estatuto do estrangeiro (Lei 6.815/1980), em seu art. 33, determina que a emissão de documentos de identidade está sujeita ao pagamento de taxa.
+(..)
+Desse modo, pretender a isenção de tais cobranças, ainda que a parte seja hipossuficiente, importaria em conceder benefícios sem autorização legal para tanto, uma vez contraria o disposto no § 6º do artigo 150 da Constituição Federal" (fls. 105/106e).
+Do exposto, verifica-se que a parte recorrente não atacou, via Recurso Extraordinário, o referido fundamento constitucional. Assim, existindo fundamento de índole constitucional, suficiente para manutenção do aresto recorrido, cabia à parte recorrente a interposição do mencionado Agravo, de modo a desconstituí-lo, ausente essa providência, o conhecimento do Especial esbarra na censura da Súmula 126/STJ, segundo a qual, "é inadmissível Recurso Especial, quando o acórdão recorrido assenta-se em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, já que, conforme orientação fixada pela Súmula 105/STJ, não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança.
+I.
