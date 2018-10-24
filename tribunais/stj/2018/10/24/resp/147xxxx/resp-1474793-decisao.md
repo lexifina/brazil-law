@@ -1,0 +1,33 @@
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ATOS COOPERATIVOS PRATICADOS ENTRE A COOPERATIVA DE CONSUMO E SEUS ASSOCIADOS. NÃO COM TERCEIROS NÃO ASSOCIADOS. PRECEDENTES. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF3, assim ementado (fl. 217):
+TRIBUTÁRIO. REEXAME NECESSÁRIO. COOPERATIVA DE CONSUMO. ART. 69 DA LEI 9.532/97.
+1. Destarte, o art. 69 da lei nº 9532/97, ao compelir que as sociedades de consumo receberão o mesmo tratamento tributário das demais pessoas jurídicas quando fornecerem bens aos consumidores, tão somente esclareceu que os atos praticados entre a cooperativa e o consumidor, não cooperado, são atos não-cooperativos e, por isso, passíveis da incidência de tributos.
+2. Com isso, a cooperativa ao auferir ganhos com a prática de atos não cooperativos, equipara-se as demais pessoas jurídicas.
+3. Por outro lado, não se aplica o dispositivo em relação ao fornecimento de bens aos cooperados, sendo um ato cooperativo, isento da incidência tributária.
+4. Remessa oficial a que se nega provimento.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a (às) questão (ões) de fundo, sustenta ofensa ao(s) artigos 85, 86, 88 e 111 da Lei nº 5.764/71 e dos arts. 176 e 178 do CTN e dissídio jurisprudencial, sob os seguintes argumentos: (a) os atos das cooperativas ficam sujeitos à tributação, afastando-se categoricamente a tese da Recorrente, considerando que os arts. 176 e 178 do CTN autorizam a revogação da isenção a qualquer tempo (fl. 247); (b) ao decidir pela não incidência de tributos em relação aos atos cooperativos próprios praticados pelas cooperativas de consumo, contrariou frontalmente a disposição presente no art. 111 da Lei 5.764/71, na medida em que, estando as cooperativas sujeitas ao ordenamento jurídico tributário, acabaram por também serem abrangidas na norma prevista na Medida Provisória nº 1.858-10/99 (artigo 35, inciso II, alínea "a") que revogou expressamente o artigo 6º, inciso I, da Lei Complementar nº 70/91 (fl. 247).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 273.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Não se conhece da suposta afronta ao artigo 535 do CPC/1973, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Quanto ao mérito, observa-se que o acórdão recorrido entendeu que os atos praticados entre a cooperativa e o consumidor, não cooperado, são atos não-cooperativos e, portanto, sujeitos à incidência de tributos. Contudo, por outro lado, os atos praticados entre as cooperativas e seus associados ou entre cooperativas, são atos cooperativos e, portanto, não abertos à tributação.
+A orientação prevalecente na origem está em conformidade com o entendimento do STJ sobre a temática. Nesse sentido - grifado:
+TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2 DO STJ. NÃO INCIDÊNCIA DE PIS, COFINS, IRPJ E CSLL, NOS ATOS COOPERATIVOS PRATICADOS ENTRE A COOPERATIVA DE CONSUMO E SEUS ASSOCIADOS. NÃO COM TERCEIROS NÃO ASSOCIADOS. PRECEDENTE EM SEDE DE RECURSO ESPECIAL REPETITIVO. (RESP 1.141.667/RS, REL. MINISTRO NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJE 04/05/2016).
+1. Impossibilidade de análise de ofensa a princípios e dispositivos constitucionais em sede de recurso especial, sob pena de usurpação da competência do STF no âmbito do recuso extraordinário.
+2. No caso dos autos, verifica-se do acórdão recorrido (fls. 715 e-STJ) que se trata de ato cooperativo típico, promovido por cooperativa de consumo apenas em relação às operações entre seus próprios associados, e não de receitas relativas à operações realizadas com terceiros não associados.
+3. Devidamente caracterizado o objeto da lide pelo acórdão recorrido (prestação de serviços e distribuir bens exclusivamente aos próprios associados da cooperativa de consumo), não há que se falar em incidência da Súmula nº 7 do STJ na hipótese, mas sim de valoração jurídica dos fatos já consignados no acórdão recorrido. Portanto, em relação aos atos cooperativos típico (praticados entre as cooperativas e seus associados), deve ser reconhecida a não incidência das contribuições destinadas ao PIS e a COFINS, bem como do IRPJ e da CSLL, consoante a orientação adotada por esta Corte nos autos do REsp 1.141.667/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 04/05/2016, representativo da controvérsia, tendo em vista que o parágrafo único do art. 79 da Lei nº o art. 79 da Lei nº 5.764/1971 alerta que o ato cooperativo não implica operação de mercado, nem contrato de compra e venda de produto ou mercadoria.
+4. Agravo interno não provido.
+(AgInt no REsp 1741675/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. COOPERATIVA DE CONSUMO. OPERAÇÃO DE VENDA DE BENS A TERCEIROS NÃO-COOPERADOS. ATO MERCANTIL. CSLL. INCIDÊNCIA.
+1. O ato cooperativo típico, nos termos do art. 79, parágrafo único, da Lei 5.764/1971, não implica operação de mercado nem contrato de compra e venda de produto ou mercadoria, o que afasta a incidência do PIS e da COFINS sobre o resultado de tal atividade.
+2. A operação de venda de bens a terceiros por sociedade cooperativa de consumo se reveste de natureza mercantilista. O resultado positivo advindo dessa atividade, por conseguinte, submete-se à incidência da CSLL. Precedentes do STJ.
+4. Agravo Regimental parcialmente provido.
+(AgRg no REsp 653.489/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/09/2009, DJe 24/09/2009)
+Incide à hipótese a Súmula 83/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
