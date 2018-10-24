@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 4ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado (eDOC 8, p. 179/180):
+    “EMENTA: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SERVIDORAS PÚBLICAS DO MAGISTÉRIO MUNICIPAL. PRELIMINAR DE NECESSIDADE DE PRONUNCIAMENTO DO ÓRGÃO ESPECIAL DESTE TRIBUNAL DE JUSTIÇA ACERCA DA INCONSTITUCIONALIDADE DO ARTIGO 44 DA LEI MUNICIPAL N.º 181/02. TESE NÃO ACEITA. SUBMISSÃO DA QUESTÃO CONDICIONADA AO PRÉVIO ACOLHIMENTO DA ARGUIÇÃO PELO ÓRGÃO FRACIONÁRIO. EXEGESE DOS ARTIGOS 948 E 949 DO NOVO CÓDIGO DE PROCESSO CIVIL E DO ARTIGO 270 DO REGIMENTO INTERNO DESTA CORTE DE JUSTIÇA. DOBRA DE JORNADA DE TRABALHO EM RAZÃO DE ADERIR AO REGIME DIFERENCIADO DE TRABALHO (RDT). SITUAÇÃO QUE NÃO SE EQUIPARA A SERVIÇO EXTRAORDINÁRIO. NOVO CONTRATO DE TRABALHO NO QUAL O AUMENTO DA CARGA HORÁRIA DECORRE DE EXPRESSA AUTORIZAÇÃO LEGAL. ARTIGO 44 E SEGUINTES DA LEI MUNICIPAL N.º 181/02. PEDIDO DE RECEBIMENTO DE HORAS EXTRAS INCABÍVEL. DECISÃO ESCORREITA.
+    RECURSO DESPROVIDO.”
+    Os embargos de declaração foram rejeitados (eDOC 8, p. 223-234).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos art. 7º, XVI, e 39, § 3º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, a inconstitucionalidade da Lei Municipal 181/2002 e que o regime diferenciado de trabalho (RDT), por ela criado “é sinônimo de serviço extraordinário ou jornada extraordinária, pois representa labor excedente à jornada normal de trabalho do servidor” (eDOC 9, p. 35-42).
+    A Primeira Vice-Presidência do TJ/PR inadmitiu o recurso assentando a incidência do óbice da Súmula 280 do STF (eDOC 9, p. 96-100).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 8, p. 183-185):
+    “5. No mérito, consoante se infere da análise do caderno processual, as autoras ingressaram no serviço público municipal no cargo de professor com jornada de trabalho 20 (vinte) horas semanais, e durante certos períodos tiveram suas cargas horárias majoradas para 40 (quarenta) horas semanais, em razão de aderirem ao Regime Diferenciado de Trabalho previsto no artigo 44 e seguintes da Lei Municipal nº 181/02:
+    (...)
+    Com efeito, a carga horária reduzida de 20 (vinte) horas semanais, permitiu que as autoras, nos termos dos referidos dispositivos, laborassem em regime diferenciado de trabalho durante alguns anos, conforme se denota da ficha financeira acostada aos Ref. Mov. 1.4 e 1.7 e 1.10-PROJUDI, dobrando suas jornadas de trabalho com o intuito de complementarem suas rendas salariais, já que perceberiam remuneração correspondente ao respectivo cargo ocupado acrescidos dos adicionais para tempo de serviço.
+    Assim, diferentemente do que pretende fazer crer as servidoras, as aulas ministradas sob o regime diferenciado de trabalho não se confundem com o serviço prestado em tempo excedente ao da duração normal das suas jornadas de trabalho, uma vez que se trata de um novo contrato de trabalho firmado no qual o aumento da carga horária decorre de expressa autorização legal, podendo ser interrompido a qualquer tempo por interesse da Administração e/ou quando cessar a necessidade que o ensejou.
+    Ademais, se as autoras não tivessem optado pelo regime diferenciado de trabalho, perfazendo jornada integral, dificilmente trabalhariam em horas extraordinárias todos os meses, em todos esses anos, e em quantidade idêntica às horas acrescidas na jornada de trabalho dos demais servidores que optaram por este regime.
+    Ora, somente seria devido o pagamento de horas extras às servidoras, ora apelantes, caso tivessem optado pelo regime diferenciado de trabalho e a jornada de trabalho tivesse ultrapassado a jornada de 40 (quarenta) horas semanais.
+    Ressalta-se, ainda que o Regime Diferenciado de Trabalho em razão das peculiaridades da situação, o professor concursado exerce carga horária dobrada a sua jornada inicial assumindo a as aulas/turmas que estejam disponíveis, já o trabalho prestado a título de horas extras não pode exceder duas horas diárias a sua jornada normal, o que corrobora a descaracterização do regime diferenciado como serviço extraordinário.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, das cláusulas contratuais, bem como o exame da legislação local aplicável à espécie (Lei Municipal 181/2002), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279, 454 e 280 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 24 de outubro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
