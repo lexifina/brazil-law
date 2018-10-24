@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de Agravo Interno interposto em face de decisão monocrática que negou seguimento ao Recurso Extraordinário com Agravo sob o fundamento de que o acórdão recorrido está em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL.
+    Em suas razões, sustenta a agravante, em suma, que o precedente indicado (a) não expressa a posição dominante da CORTE em relação a imunidade absoluta de execução em desfavor de Estados estrangeiros; e (b) apresenta debate distinto do caso em análise, uma vez que, naquela hipótese, discutia-se a imunidade de jurisdição. No mais, renova as razões de mérito suscitadas no Apelo extremo.
+    Intimada para apresentar contrarrazões, a parte agravada requer o desprovimento do Agravo.
+      É o relatório. Decido.
+    É caso de reconsideração da decisão em apreço.
+    Por sua exatidão, cite-se a decisão proferida pelo ilustre Min. RICARDO LEWANDOWSKI, em caso análogo, por ocasião do exame do ARE 665.050/BA (DJe de 24/6/2014):
+    “Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    REMESSA EX OFFICIO. MANDADO DE SEGURANÇA. NÃO CABIMENTO. Os artigos 1º, caput e inciso V, do Decreto-lei nº 779/69 e 475, inciso I, do Código de Processo Civil não contemplam a remessa de ofício de decisão contrária a Estado estrangeiro, em que a União atua na qualidade de assistente simples. Precedentes desta Subseção. Remessa ex officio de que não se conhece.
+    RECURSO ORDINÁRIO EM AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. ESTADO ESTRANGEIRO. IMUNIDADE RELATIVA DA EXECUÇÃO. BEM AFETO À MISSÃO DIPLOMÁTICA. A decisão impugnada foi exarada em sintonia com os recentes julgados deste Tribunal, na esteira da jurisprudência das nossas Cortes Superiores, as quais reconhecem que a imunidade de execução dos Estados estrangeiros alcança os bens afetos à missão diplomática ou consular, em respeito ao disposto no artigo 22, item 3, da Convenção de Viena de 1961, da qual o Brasil é signatário. Por outro lado, faz-se possível a execução direta, na medida em que a transmissão de carta rogatória constitui faculdade de cada Estado signatário do Convênio de Cooperação Judiciária firmado. Portanto, não há violação de direito líquido e certo, ilegalidade ou abuso de poder, no ato atacado. Recurso ordinário a que se nega provimento (fl. 1.235).
+    No RE, sustentou-se, em suma, a imunidade de execução do Reino da Espanha em matéria trabalhista.
+    A Procuradoria Geral da República manifestou-se pelo desprovimento do recurso (fls. 1.320-1.324).
+    A pretensão recursal merece acolhida.
+    Verifica-se que o acórdão recorrido dissentiu do entendimento do Supremo Tribunal Federal. No julgamento do RE 222.368-AgR/PE, Rel. Min. Celso de Mello, foi fixado o entendimento de que o Estado estrangeiro possui o privilégio diplomático de imunidade à execução, ainda que se trate de causa de matéria trabalhista, litteris:
+    IMUNIDADE DE JURISDIÇÃO RECLAMAÇÃO TRABALHISTA LITÍGIO ENTRE ESTADO ESTRANGEIRO E EMPREGADO BRASILEIRO EVOLUÇÃO DO TEMA NA DOUTRINA, NA LEGISLAÇÃO COMPARADA E NA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL: DA IMUNIDADE JURISDICIONAL ABSOLUTA À IMUNIDADE JURISDICIONAL MERAMENTE RELATIVA RECURSO EXTRAORDINÁRIO NÃO CONHECIDO .
+    OS ESTADOS ESTRANGEIROS NÃO DISPÕEM DE IMUNIDADE DE JURISDIÇÃO, PERANTE O PODER JUDICIÁRIO BRASILEIRO, NAS CAUSAS DE NATUREZA TRABALHISTA, POIS ESSA PRERROGATIVA DE DIREITO INTERNACIONAL PÚBLICO TEM CARÁTER MERAMENTE RELATIVO.
+    - O Estado estrangeiro não dispõe de imunidade de jurisdição, perante órgãos do Poder Judiciário brasileiro, quando se trata de causa de natureza trabalhista . Doutrina. Precedentes do STF ( RTJ 133/159 e RTJ 161/643-644).
+    - Privilégios diplomáticos não podem ser invocados, em processos trabalhistas, para coonestar o enriquecimento sem causa de Estados estrangeiros, em inaceitável detrimento de trabalhadores residentes em território brasileiro, sob pena de essa prática consagrar censurável desvio ético-jurídico, incompatível com o princípio da boa-fé e inconciliável com os grandes postulados do direito internacional.
+    O PRIVILÉGIO RESULTANTE DA IMUNIDADE DE EXECUÇÃO NÃO INIBE A JUSTIÇA BRASILEIRA DE EXERCER JURISDIÇÃO NOS PROCESSOS DE CONHECIMENTO INSTAURADOS CONTRA ESTADOS ESTRANGEIROS.
+    - A imunidade de jurisdição, de um lado, e a imunidade de execução, de outro, constituem categorias autônomas, juridicamente inconfundíveis, pois ainda que guardem estreitas relações entre si traduzem realidades independentes e distintas, assim reconhecidas quer no plano conceitual, quer, ainda, no âmbito de desenvolvimento das próprias relações internacionais.
+    A eventual impossibilidade jurídica de ulterior realização prática do título judicial condenatório, em decorrência da prerrogativa da imunidade de execução, não se revela suficiente para obstar, só por si, a instauração, perante Tribunais brasileiros, de processos de conhecimento contra Estados estrangeiros, notadamente quando se tratar de litígio de natureza trabalhista. Doutrina. Precedentes. (grifos do original).
+    No mesmo sentido, em relação à imunidade de execução em litigio de natureza trabalhista: RE 739.032/DF, Rel. Min. Cármen Lúcia; ARE 678.785/SP, Rel. Min. Dias Toffoli.
+    Isso posto, dou provimento ao recurso (CPC, art. 557, § 1º-A) para reconhecer a imunidade de execução ao Reino da Espanha em matéria trabalhista. Sem Honorários (Súmula 512 do STF).”
+    No mesmo sentido, citem-se, ainda, as seguintes decisões monocráticas: ARE 678.785, Rel. Min. DIAS TOFFOLI, DJe de 6/3/2013; e ARE 739.032, Rel. Min. CÁRMEN LÚCIA, DJe de 4/4/2014.
+    Diante do exposto, reconsidero a decisão agravada e, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, conheço do agravo para DAR PROVIMENTO AO RECURSO EXTRAORDINÁRIO para reconhecer a imunidade de execução aos Estados Unidos da América em matéria trabalhista.
+    Publique-se.
+    Brasília, 24 de outubro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
