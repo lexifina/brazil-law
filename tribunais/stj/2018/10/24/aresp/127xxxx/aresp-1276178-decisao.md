@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. DOENÇA INCAPACITANTE PREEXISTENTE À FILIAÇÃO NO [NOME]. NÃO PREENCHIDOS OS REQUISITOS LEGAIS. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+O apelo nobre obstado foi interposto com espeque na alínea "a" do art. 105, III, da CF contra acórdão assim ementado (e-STJ, fl. 268):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO -DOENÇA. [NOME]. REQUISITOS LEGAIS NÃO PREENCHIDOS.
+1. São requisitos dos benefícios postulados a incapacidade laboral, a qualidade de segurado e a carência, esta fixada em 12 contribuições mensais, nos termos do art. 25 e seguintes da Lei nº 8.213/91.
+2. No caso dos autos, em razão do óbito da parte autora, foi realizada perícia médica indireta. Segundo concluiu o Perito, a autora, à época da realização da perícia (02/07/2015), era portadora de insuficiência renal crônica e possuía incapacidade total e permanente. Fixou ainda o início da incapacidade como sendo em 07/03/2005 (fls. 179/195).
+3. Por seu turno, o documento de fl. 213 (extrato do CNIS), aponta a existência de contribuições apenas a partir de junho de 2007. Assim, considerando que a presença de uma doença não é necessariamente sinônimo de incapacidade laboral, bem como analisando o conjunto probatório e os dados constantes do extrato do CNIS, a parte autora não faz jus à concessão do benefício pleiteado, por se tratar de doença pré -existente à filiação ao [NOME], nos termos do § 2º do artigo 42 da Lei 8.213/91.
+4. Apelação desprovida.
+No recurso especial o recorrente alega ofensa aos art. 151 da Lei n. 8.213/1991, que dispensa a carência no caso de nefropatia grave; e parágrafo único do art. 59 da Lei n. 8.213/1991, porque a incapacidade teria ocorrido por motivo de progressão.
+Aduz, em suma, que "faz jus ao percebimento do benefício previdenciário almejado, visto que fora constatado pelo laudo que a sua incapacidade é total, bem como possui qualidade de segurada posto que houve progressão de suas doenças, sem que isso implique em violação à súmula n. 7 do STJ".
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Sem contraminuta.
+Parecer do Ministério Público, opinando pelo conhecimento do agravo e provimento do recurso especial (fls. 301-307).
+É o relatório. Decido.
+Registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+Por primeiro, registra-se que quanto à alegada ofensa ao art. 151 da Lei n. 8.213/1991, o recurso especial não deve ser conhecido porquanto a matéria não foi apreciada pela Corte de origem, sequer tendo sido opostos embargos de declaração com intuito de prequestionamento, o que autoriza a aplicação analógica das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Quanto ao mais, a Corte de origem dirimiu a controvérsia afastando a condição de segurada da parte autora, pois à época do início da incapacidade, atestado pelo laudo pericial indireto, não havia registro de contribuição à previdência social, sendo que após passados dois anos do início da incapacidade é que a parte autora restabeleceu o vínculo com a Previdência Social. Confira-se (264 -266):
+" ..
+No caso dos autos, em razão do óbito da parte autora, foi realizada perícia médica indireta. Segundo concluiu o Perito, a autora, à época da realização da perícia (02/07/2015), era portadora de insuficiência renal crônica e possuía incapacidade total e permanente. Fixou ainda o início da incapacidade como sendo em 07/03/2005 (fls. 179/195).
+Por seu turno, o documento de fl. 213 (extrato do CNIS), aponta a existência de contribuições apenas a partir de junho de 2007.
+Assim, considerando que a presença de uma doença não é necessariamente sinônimo de incapacidade laboral, bem como analisando o conjunto probatório e os dados constantes do extrato do CNIS, a parte autora não faz jus à concessão do benefício pleiteado.
+Nestes termos, cumpre-nos observar que a autora não preencheu os requisitos da Lei nº 8.213/91, não fazendo jus aos benefícios pretendidos, por se tratar de doença pré-existente à filiação ao [NOME], nos termos do §2º do artigo 42 da mencionada lei. Note-se que esse é o entendimento pacífico deste Egrégio Tribunal:
+ ..
+Logo, considerando que a parte autora não comprovou que detinha a qualidade de segurada no momento da eclosão da incapacidade para o trabalho, torna-se despicienda a análise dos demais requisitos.
+Incabível o pedido de condenação do réu à reparação de danos morais, porquanto a 10ª Turma desta Colenda Corte tem adotado o entendimento segundo o qual o mero indeferimento do pedido na via administrativa não é suficiente à demonstração do alegado dano à esfera extrapatrimonial, devendo restar devidamente comprovado nos autos a atuação do agente público em afronta aos princípios da legalidade, impessoalidade, moralidade e eficiência. (grifamos)
+Do excerto transcrito verifica-se que a convicção a que chegou o acórdão recorrido acerca da não implementação do principal requisito legal exigido para a concessão de qualquer dos benefícios buscados nestes autos - doença preexistente à filiação ao [NOME]-, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+No mesmo sentido consolidou-se a jurisprudência desta Corte, confira-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. DOENÇA PREEXISTENTE. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. O Tribunal de origem concluiu, com base nas provas dos autos, que a incapacidade laborativa da parte autora foi preexistente à sua filiação ao regime geral de previdência social, afastando-se, destarte, a concessão do benefício de aposentadoria por invalidez, nos termos do art. 42, § 2º, primeira parte, da Lei n. 8.213/1991, de modo que a inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido. (AgInt no AREsp 832.079/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 2/2/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SIMPLES REITERAÇÃO DAS ALEGAÇÕES VEICULADAS NO RECURSO ANTERIOR. [NOME]. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA.
+I - In casu, rever o entendimento do Tribunal de origem, no sentido de inexistência de incapacidade preexistente à refiliação, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+II - O Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, reiterando apenas as alegações veiculadas no recurso anterior.
+III - Agravo regimental improvido. (AgRg no AREsp 717961/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 28/9/2015 - grifamos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. AUSÊNCIA DOS REQUISITOS, CONFORME CONCLUSÃO DO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. RECURSO DO QUAL NÃO SE CONHECE.
+1. O Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que a incapacidade laborativa atingiu a parte autora anteriormente ao seu reingresso ao [NOME].
+2. Rever o entendimento consignado pela Corte local quanto ao momento em que surgiu a capacidade laborativa da parte autora requer revolvimento do conjunto fático-probatório, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal entendimento. Assim, a análise dessa questão demanda o reexame de provas, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+3. Recurso Especial não conhecido. (REsp 1.656.463/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 2/5/2017) .
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. DOENÇA PREEXISTENTE À FILIAÇÃO AO [NOME]. AUSÊNCIA DE COMPROVAÇÃO DO AGRAVAMENTO DA MOLÉSTIA. RAZÕES RECURSAIS QUE NÃO IMPUGNAM TODOS OS FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula 182/STJ).
+2. No caso, o agravante deixou de se insurgir contra os fundamentos da decisão agravada de ausência de violação ao artigo 535, do CPC e não comprovação do dissídio jurisprudencial.
+3. De acordo com a jurisprudência do Superior Tribunal de Justiça, a análise da preexistência ou não de patologia à época da filiação do agravante ao [NOME] e/ou a análise da progressão ou agravamento da patologia que o agravante é portador implica, necessariamente, o reexame do quadro fático-probatório delineado nas instâncias ordinárias, providência esta vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp 852.856/SP, Rel. Min. Alderita Ramos de Oliveira, Sexta Turma, DJe 11/10/2012).
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. ART. 42, § 2º, DA LEI Nº 8.213/1991. DOENÇA PREEXISTENTE À FILIAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL. REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA 7/STJ.
+(..)
+2. Rever o entendimento do Tribunal de origem quanto a existência da incapacidade laborativa do autor, antes mesmo de sua filiação junto ao Regime Geral de Previdência Social - [NOME], demandaria o reexame do conjunto fático-probatório, providência sabidamente incompatível com a via estreita do recurso especial. (Súmula nº 7/STJ).
+3. Agravo regimental a que se nega provimento. (AgRg no Ag 1.329.970/SP, Rel. Min. Marco Aurélio Bellizze, Quinta Turma, DJe 31/5/2012).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
