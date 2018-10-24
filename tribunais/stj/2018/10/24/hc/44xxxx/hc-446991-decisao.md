@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que julgou o HC n. 1.0000.18.013209-4/000.
+Infere-se dos autos que o paciente foi preso preventivamente sob acusação de prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/06 (de tráfico e associação para o tráfico de drogas).
+Irresignada, a defesa impetrou o habeas corpus originário, cuja ordem foi denegada, nos termos da seguinte ementa:
+EMENTA: HABEAS CORPUS - TRÁFICO ILÍCITO DE DROGAS E ORGANIZAÇÃO CRIMINOSA - TRANCAMENTO DA AÇÃO PENAL - AUSÊNCIA DE JUSTA CAUSA NÃO VISLUMBRADA - INÉPCIA DA DENÚNCIA - VIOLAÇÃO AO ART. 41 DO CPP - INOCORRÊNCIA - OMISSÃO DAS DATAS DOS FATOS - MERA IRREGULARIDADE - INDICADO O PERÍODO EM QUE OS CRIMES TERIAM OCORRIDO - INSUFICIÊNCIA DE PROVAS DA AUTORIA DELITIVA-VIA INADEQUADA - REVOGAÇÃO DA PRISÃO PREVENTIVA - PRESENÇA DOS ELEMENTOS ENSEJADORES DA CUSTÓDIA CAUTELAR - DECISÃO DEVIDAMENTE FUNDAMENTADA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. A ausência de justa causa só pode ser reconhecida quando se comprove, de plano, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou ausência de indícios de autoria ou de prova sobre a materialidade do delito, mesmo porque o exame aprofundado das provas não tem cabimento no restrito âmbito do Habeas Corpus. Se a denúncia satisfaz as exigências do art. 41 do CPP e tem suporte nas provas colhidas no inquérito, não há falar em inépcia. Se indicado o período em que teria ocorrido o crime - mês e/ou ano, a omissão da data é mera irregularidade. A estreita via do Habeas Corpus não comporta diiação probatória, não podendo ser analisada provas e valorados depoimentos. A decretação da custódia cautelar, independentemente de qualquer providência cautelar anterior, apenas deverá ocorrer em situações absolutamente necessárias, a saber, caso se encontre provada a presença dos requisitos do art. 312 do CPP, quais sejam, risco à ordem pública, econômica, conveniência da instrução criminal ou para assegurar o cumprimento da lei penal, aliada às circunstâncias do art 313 do CPP. Se o MM. Juiz fundamenta a decisão com as suas razões de decidir se sustentando em dados concretos dos autos demonstrando a necessidade da segregação, não há que se falar em constrangimento ilegal (fls. 25).
+No presente writ, alega inépcia da denúncia, a qual teria sido baseada exclusivamente em depoimento de outro denunciado. Sustenta a inexistência de materialidade delitiva e afirma a desnecessidade de prisão preventiva, decretada quatro anos após o fato delituoso.
+Assevera a falta de fundamentação do decreto de prisão preventiva, ressaltando o caráter excepcional da custódia.
+Pretende, em liminar e no mérito, a expedição de alvará de soltura.
+Indeferida a liminar (fls. 200/202) e informações prestadas (fls. 207/208 e 238/240), o Ministério Público Federal opinou pela denegação da ordem (fls. 228/236).
+É o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso porque, de acordo com os informes trazidos pelo Juízo singular, foi declarada extinta a punibilidade do paciente, em razão da sua morte (fls. 249).
+Desse modo, constata-se a perda superveniente do objeto do presente mandamus.
+ Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
