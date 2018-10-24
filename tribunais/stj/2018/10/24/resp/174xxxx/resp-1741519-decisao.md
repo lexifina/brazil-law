@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANO MORAL E REPARAÇÃO POR DANO MATERIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. JUROS DE MORA. INCIDÊNCIA. EVENTO DANOSO. CORREÇÃO MONETÁRIA. CABIMENTO. JUROS DE MORA. IMPOSSIBILIDADE. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de compensação por dano moral e reparação por dano material na qual alega o recorrido ter sido vítima de acidente de trânsito.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/15.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Em caso de responsabilidade extracontratual, os juros moratórios fluem a partir do evento danoso, a teor do que dispõe a Súmula 54/STJ.
+6. É entendimento desta Corte que é devida a correção monetária, mesmo em regime de liquidação extrajudicial, e não há fluência de juros enquanto não integralmente pago o passivo. Por conseguinte, "após a satisfação do passivo aos credores habilitados, e havendo passivo que os suportem, serão pagos os juros contratuais e os legais vencidos durante o período do processamento da falência ou liquidação extrajudicial" (REsp 1.102.850/PE, Quarta Turma, Dje de 13/11/2014).
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Recurso especial parcialmente conhecido e, nessa parte, provido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por COMPANHIA MUTUAL DE SEGUROS - EM LIQUIDAÇÃO, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de compensação por dano moral e reparação por dano material, ajuizada por JAKSON FERNANDES FERREIRA, em face de EXPRESSO NOSSA SENHORA DE FÁTIMA LTDA (interessada) e da recorrente, na qual alega ter sido vítima de acidente de trânsito causado por EXPRESSO NOSSA SENHORA DE FÁTIMA LTDA. Pleiteia seja a recorrente e a interessada condenadas ao pagamento de reparação por dano material e compensação por dano moral.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar a recorrente ao pagamento da quantia de R$ 20.000,00 (vinte mil reais) a título de compensação por danos morais, abatendo-se da condenação o valor recebido pelo recorrido a título de seguro DPVAT.
+Acórdão: negou provimento à apelação interposta pela recorrente e pela interessada e deu provimento à apelação interposta pelo ESTADO DO PARANÁ, nos termos da seguinte ementa:
+AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL, MORAL E LUCROS CESSANTES. ACIDENTE DE TRÂNSITO. PEDIDO JULGADO PARCIALMENTE PROCEDENTE. INSURGÊNCIA DAS PARTES E DO ENTE ESTATAL CONDENADO AO PAGAMENTO DE METADE DOS HONORÁRIOS DO PERITO.
+APELAÇÕES DA RÉ E DA LITISDENUNCIADA.
+(A) ELEMENTOS DE INFORMAÇÃO QUE DEMONSTRAM, SEM DÚVIDA ALGUMA, QUE A CAUSA PRIMÁRIA E EFETIVA DO SINISTRO FOI A INVASÃO DA PISTA DE ROLAMENTO POR ONDE TRAFEGAVA O AUTOR, SEM QUE TIVESSE ESTE CONTRIBUÍDO PARA A REALIZAÇÃO DO EVENTO DANOSO, NÃO HAVENDO QUE SE FALAR EM CONCORRÊNCIA DE CULPA.
+(B) DANO MORAL. CARACTERIZAÇÃO. INDENIZAÇÃO FIXADA EM VINTE MIL REAIS. VALOR QUE NÃO SE MOSTRA EXAGERADO E SIM ADEQUADO E COMPATÍVEL COM O SOFRIMENTO FÍSICO-PSÍQUICO PELO QUAL PASSOU O AUTOR.
+(C) ESTÁ PACIFICADO NA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE O VALOR DA INDENIZAÇÃO POR DANO MORAL DEVE SER CORRIGIDO MONETARIAMENTE DESDE A SUA FIXAÇÃO (SÚMULA 362) E QUE OS JUROS DE MORA INCIDEM A PARTIR DA DATA DO EVENTO DANOSO (SÚMULA 54).
+APELAÇÃO DO ENTE ESTATAL. CONDENAÇÃO AO PAGAMENTO DE METADE DOS HONORÁRIOS PERICIAIS. INVIABILIDADE. O FATO DE O AUTOR SER BENEFICIÁRIO DA GRATUIDADE, NO PRESENTE CASO, NÃO IMPORTA EM TAL RESPONSABILIZAÇÃO. REGULAMENTAÇÃO PELO CONSELHO NACIONAL DE JUSTIÇA E POR ESTE TRIBUNAL ACERCA DA FORMA E MODO DO PAGAMENTO DE TAL DESPESA POR ESTE TRIBUNAL. OBSERVÂNCIA.
+RECURSOS DA RÉ E DENUNCIADA NÃO PROVIDOS.
+RECURSO DO ESTADO DO PARANÁ PROVIDO. (e-STJ Fls. 730/731)
+Embargos de declaração: interpostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 98, 99, 489, § 1º, e 1.022 do CPC/15; 407 do CC; 18, "d" e "f", da Lei nº 6.024/74, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que, diante da decretação da liquidação extrajudicial da recorrente, os juros e a correção monetária somente devem ser pagos após o pagamento de todo passivo. Aduz que o termo inicial para a incidência dos juros sobre a condenação para compensar dano moral é a data do arbitramento do valor. Afirma fazer jus ao benefício de gratuidade de justiça.
+Relatado o processo, decide-se.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da possibilidade de tramitação do processo, bem como em relação à incidência dos juros e correção monetária (e-STJ fls. 811/812), de maneira que os embargos de declaração opostos pela recorrente de fato não comportavam acolhimento. Confira-se:
+(..)
+"A embargante, que foi denunciada à lide, por meio dos declaratórios, sustenta: (a) "questão de ordem pública" consistente na decretação de sua liquidação extrajudicial, (b) necessidade de suspensão do feito após o trânsito em julgado, (c) não fluência de juros e correção monetária e (c) gratuidade da justiça.
+Quando do julgamento das apelações (da embargante, do Estado do Paraná e do Expresso Nossa Senhora de Fátima Ltda) essas matérias não foram apreciadas pela simples razão de que não foram objeto de nenhuma delas, especificamente da embargante. E por isso não há no julgado omissão alguma a ser sanada nesta oportunidade.
+A decretação da liquidação extrajudicial da embargante não inviabiliza ou impede a tramitação do processo de conhecimento, apresentando-se, portanto, nesta oportunidade, juridicamente irrelevante esse fato.
+Essa condição deverá ser analisada, observada e decidida por ocasião do cumprimento de sentença, ocasião em que as partes, especificamente a credora, deverá ser manifestar a respeito dos efeitos dessa situação no caso concreto, como, por exemplo, se em relação a ela o processo deve ter regular prosseguimento ou se haverá necessidade de habilitação do crédito naquele procedimento, com sujeição e restrição, ou não, acerca de juros e correção monetária.
+Também em relação a eventual isenção dás custas e despesas processuais o momento processual adequado para a deliberação é na fase de cumprimento de sentença, e não nesta instância, tendo, inclusive, a embargante efetuado o preparo recursal, conforme anotado no acórdão no item 2.1". (e-STJ Fls. 811/812)
+(..)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/15.
+- Do reexame de fatos e provas
+Quanto ao benefício da gratuidade judiciária, a jurisprudência desta Corte entende que o simples fato de a empresa ter entrado em liquidação extrajudicial não implica, automaticamente, sua concessão, e que a alteração das premissas estabelecidas no acórdão recorrido para seu indeferimento não é possível em sede de recurso especial, em razão do óbice da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. 1. A PESSOA JURÍDICA EM LIQUIDAÇÃO EXTRAJUDICIAL OU EM ESTADO FALIMENTAR DEVE COMPROVAR A IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS E CUSTAS PROCESSUAIS. 1.1. IMPOSSIBILIDADE DE ALTERAR O ENTENDIMENTO FIRMADO NO ARESTO IMPUGNADO. SÚMULA 7 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. "O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie" (AgInt no REsp 1619682/RO, Quarta Turma, julgado em 15/12/2016, DJe 7/2/2017).
+1.2. O acolhimento do inconformismo, segundo as alegações vertidas nas razões do apelo nobre, demanda revolvimento do acervo fático-probatório dos autos, situação interditada pela Súmula 7 do STJ.
+2. Agravo interno improvido. (AgInt no AREsp 1077667/DF, Terceira Turma, DJe 10.8.2017);
+AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA EM REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. HIPOSSUFICIÊNCIA NÃO COMPROVADA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta eg. Corte entende que é possível a concessão da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade.
+2. O direito à gratuidade da justiça da pessoa jurídica em regime de liquidação extrajudicial ou de falência depende de demonstração de sua impossibilidade de arcar com os encargos processuais, o que não ficou afigurado na espécie. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1619682/RO, Quarta Turma, DJe 7.2.2017).
+- Da Súmula 568/STJ
+O TJ/PR, ao decidir que o termo inicial dos juros moratórios, no caso de vítima de acidente de trânsito, é a data do evento danoso, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: REsp 1422873/SP, Terceira Turma, Dje de 20/03/2018 e AgInt no Ag 1346054/SP, Quarta Turma, Dje de 22/06/2017.
+- Da fluência de juros e correção monetária no regime de liquidação extrajudicial
+O TJ/PR, ao decidir que a sujeição acerca de juros e correção monetária deve ser decidida por ocasião do cumprimento de sentença, contrariou o entendimento do STJ no sentido de que é devida a correção monetária, mesmo em regime de liquidação extrajudicial, e não há fluência de juros enquanto não integralmente pago o passivo (AgInt no AREsp 1243943/GO, Terceira Turma, Dje de 05/10/2018 e AgInt no REsp 1655361/RS, Quarta Turma, Dje de 26/09/2018).
+Logo, no ponto, o acórdão recorrido merece reforma.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, DOU-LHE PROVIMENTO, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, para determinar que não haja a fluência de juros enquanto não for pago integralmente o passivo.
+Nos termos do art. 85, § 11, do CPC/15, condeno a parte recorrida, a título de honorários recursais, ao pagamento de R$ 500,00 (quinhentos reais) em favor do procurador da parte recorrente. Contudo, isento-a do pagamento por ser beneficiária da gratuidade de justiça.
+Publique-se. Intimem-se.
