@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98287, de 10 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3921.90.19 Mercadoria: Lona plástica para impressão digital ou serigrafia, não alveolar nem autoadesiva, apresentada em rolos com 3,20 m de largura e 50 m de comprimento, constituída por trama de fios de poliéster com revestimento de poli(cloreto de vinila) perceptível em ambas as faces à vista desarmada. DISPOSITIVOS LEGAIS: RGI 1 (Nota 10 do Capítulo 39 e texto da posição 39.21), RGI 6 (texto da subposição 3921.90) e RGC 1 (textos do item 3921.90.1 e do subitem 3921.90.19) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC COSIT nº 98.287-2018.pdf]
