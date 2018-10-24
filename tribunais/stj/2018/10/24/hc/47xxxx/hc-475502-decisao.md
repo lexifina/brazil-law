@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais que indeferiu o pleito emergencial no HC n. 1103938-30-2018.8.13.0000.
+Infere-se dos autos que o paciente foi denunciado por suposta infração ao art. 2º, § 2º, da Lei n. 12.850/2013 e ao 180, §§ 1º e 2º, do Código Penal, por fazer parte, em tese, de organização criminosa especializada em roubo de carga no Município de Araxá/MG.
+Irresignada com a decretação de sua prisão preventiva, a defesa impetrou habeas corpus perante o Tribunal de origem, que indeferiu o pleito liminar.
+Na presente impetração, a defesa alega, em síntese, que o paciente não participa da citada organização criminosa e não tem participação em nenhum outro crime. Afirma que a conduta que lhe é imputada subsume-se à receptação de 25 baterias que supostamente teriam sido furtadas.
+Defende ser o paciente "apenas funcionário da empresa "RD autopeças", trabalhando como atendente de balcão na loja de auto peças" (e-STJ fl. 5) e que se apresentou espontaneamente no processo.
+Assevera a nulidade do decreto prisional pois fundamentou-se apenas no fato de não terem conseguido contato telefônico com o paciente e na prática de assalto, sendo que tal delito não é imputado ao paciente. Além disso, acrescenta que no dispositivo do decreto prisional, conta a conversão de prisão temporária em preventiva, mas o paciente não testava preso temporariamente.
+Sustenta, não estarem presentes os requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP e acredita ser suficiente, no caso, a aplicação de medidas cautelares alternativas.
+Sublinha ser o réu estudante universitário, primário, com predicados pessoais favoráveis, razão pela qual defende que, no caso de eventual condenação, fará jus ao regime prisional mais brando, mostrando-se desproporcional a manutenção da custódia cautelar.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do paciente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas, tudo com superação da Súmula n. 691/STF.
+É o relatório. Decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP), Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015), o que não se verifica na espécie.
+No caso, em que pese a extensão dos presentes autos com a juntada de diversos documentos, verifica-se uma instrução probatória deficitária dos autos, sobretudo porque não foi juntada cópia da decisão que indeferiu pedido liminar ora impugnada, indispensável à compreensão da controvérsia, impossibilitando assim, uma análise mais extensa da apontada ilegalidade.
+Entendo não haver ilegalidade manifesta que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte.
+As questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Publique-se.
