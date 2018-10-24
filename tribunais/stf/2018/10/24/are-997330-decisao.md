@@ -1,0 +1,23 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “RECURSO INOMINADO. QUINQUÊNIO - ADICIONAL POR TEMPO DE SERVIÇO. Ação ajuizada por servidora pública estadual, auxiliar de enfermagem, objetivando o reconhecimento do direito ao adicional por tempo de serviço calculado na base sobre as vantagens pecuniárias habitualmente pagas incorporadas ou não. Sentença. Possibilidade da incidência dos pleiteados benefícios sobre os valores de todas as gratificações, salvo as de caráter eventual. Reflexos sobre Gratificação Especial de Atividade - GEA. Gratificação de Atividade Hospitalar - GEAH, Gratificação Geral e Gratificação Executiva. Precedentes jurisprudenciais. Sentença mantida. RECURSO NÃO PROVIDO” (págs. 118 do documento eletrônico 2).
+    Os embargos de declaração opostos, foram desprovidos. Referido acórdão recebeu a seguinte ementa:
+    “COLÉGIO RECURSAL. EMBARGOS DECLARATÓRIOS EM RECURSO INOMINADO. QUESTIONAMENTO DE JUROS E CORREÇÃO MONETÁRIA SOB O ENFOQUE DA REPERCUSSÃO GERAL NO RE 870.947 - TEMA 810, SUSTENTANDO A FAZENDA PÚBLICA EMBARGANTE SE TRATAR DE MATÉRIA DE ORDEM PÚBLICA. MATÉRIA QUE NÃO FOI OBJETO DE RECURSO INOMINADO. FAZENDA PÚBLICA CONFORMOU-SE COM A SENTENÇA NESTE TÓPICO, TENDO HAVIDO TRÂNSITO EM JULGADO. CONFORME RE 730.462, TAMBÉM COM REPERCUSSÃO GERAL, O EFEITO VINCULANTE É FUTURO, COMEÇA A OPERAR A PARTIR DA DECISÃO DO STF, NÃO ATINGINDO ATOS ANTERIORES. INDISPENSABILIDADE DA ADOÇÃO DE RECURSO PRÓPRIO OU MESMO PROPOSITURA DE AÇÃO RESCISÓRIA, SE O CASO. EMBARGOS DECLARATÓRIOS RE.JEITADOS" (pág. 137 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se violação dos arts. 37; 97; e 100, § 12, da mesma Carta.
+    Após o Tribunal de origem negar provimento ao agravo interposto contra a decisão que não admitiu recurso extraordinário (pág. 8 do documento eletrônico 11), os autos retornaram a esta Suprema Corte em razão da procedência do pedido formulado na Rcl 28.582, de minha relatoria, na qual determinei o processamento do recurso (conforme explicitado pela decisão proferida pela Presidência do STF às págs. 1-2 do documento eletrônico 13).
+    A pretensão recursal não merece acolhida.
+    Observa-se que o acórdão impugnado, ao rejeitar os embargos de declaração opostos pelo Estado de São Paulo, afirmou que
+    “[…]
+    A r.sentença [sic] foi mantida pela turma recursal e dela consta incidência de correção monetária desde a data em que as parcelas se tornaram devidas, calculada pelo IPCA, além de juros de mora regidos pelo artigo 1°-F da Lei 9494/97, incidentes desde a citação, nos termos do artigo 219 do CPC.
+    O recurso inominado nada disse a respeito dos juros e correção monetária, conformando-se a Fazenda Pública com o conteúdo da sentença a respeito do tema.
+    Sem provocação em tempo oportuno, certo que uma sentença, naquilo que não foi objeto de recurso, portanto, transita em julgado, não sofre os efeitos de repercussão geral reconhecida.
+    Em julgamento do RE 730.462, também com repercussão geral, o Ministro Relator Teori Zavascki destacou, em seu voto, que o efeito vinculante ‘não nasce da inconstitucionalidade em si’, mas sim da decisão que a declara. Dessa forma, o efeito vinculante é futuro, ou seja, começa a operar a partir da decisão do STF, não atingindo atos anteriores.
+    Dito de outra forma, sentenças transitadas em julgado com base em norma posteriormente declarada inconstitucional pelo Supremo Tribunal Federal não podem ser reformadas automaticamente, mesmo que a decisão anterior tenha adotado diferenciado entendimento, sendo indispensável a adoção de recurso próprio ou mesmo propositura de ação rescisória.” (págs. 137-138 do documento eletrônico 2. Destaquei).
+    Nas razões do recurso extraordinário, no entanto, o recorrente não refutou, especificamente, os fundamentos adotados pelo acórdão que rejeitou os embargos de declaração, limitando-se a defender que
+     “[...] todos os índices constantes do artigo 1°-F. da Lei 9.494/1997, com a redação dada pela Lei Federal n° 11.960/2009, sejam aplicados até a expedição do precatório/RPV” (pág. 155 do documento eletrônico 2).
+    Ora, conforme entendimento pacífico desta Corte, é deficiente a fundamentação do recurso extraordinário cujas razões estão dissociadas do que decidido no acórdão recorrido, a teor da Súmula 284/STF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) os honorários advocatícios anteriormente fixados pelo Juízo de origem, observados os limites legais.
+    Publique-se.
+    Brasília, 24 de outubro de 2018.
+Ministro Ricardo Lewandowski
+Relator
