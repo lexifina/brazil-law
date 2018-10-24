@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO DE APELO INTERPOSTO CONTRA A SENTENÇA QUE JULGOU PROCEDENTE EM PARTE O PEDIDO FORMULADO NOS EMBARGOS DO DEVEDOR, PARA DETERMINAR QUE O CÁLCULO DO DÉBITO CONSIDERE A INCIDÊNCIA DE JUROS DE 1% AO MÊS E DE CORREÇÃO PELA TAXA REFERENCIAL VIGENTE À ÉPOCA (CONFORME CONTRATOS, CLÁUSULA 5:1) SOBRE CADA PARCELA INADIMPLIDA A CONTAR DE CADA VENCIMENTO, ALÉM DE MULTA CONTRATUAL DE 2% (DOIS POR CENTO). DETERMINOU AINDA O RATEIO DAS CUSTAS E À COMPENSAÇÃO DOS HONORÁRIOS. AGRAVO INTERNO REPISANDO A TESE DO APELO NO SENTIDO DE QUE NÃO HOUVE SUCUMBÊNCIA RECÍPROCA, HAJA VISTA QUE A PRETENSÃO DOS EMBARGOS FOI INTEGRALMENTE RECHAÇADA. NÃO ASSISTE RAZÃO AO RECORRENTE QUE, NA VERDADE, PRETENDE QUE A INCIDÊNCIA DE JUROS SE DÊ SOBRE O MONTANTE TOTAL DA DÍVIDA DESDE A PRIMEIRA PARCELA INADIMPLIDA, ANTE A ANTECIPAÇÃO DO VENCIMENTO DAS PARCELAS VINCENDAS POR FORÇA DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SENTENÇA ESCORREITA QUE DETERMINOU A INCIDÊNCIA DE JUROS NA FORMA CONTRATADA. HIPÓTESE DOS AUTOS QUE NÃO SE COMPATIBILIZA COM OS CASOS PREVISTOS NO ART. 333, DO CCB. ADEMAIS O TÉRMINO DO CONTRATO ESTAVA PREVISTO PARA 24/07/2010 E A RESPECTIVA AÇÃO EXECUTIVA SOMENTE FOI AJUIZADA EM 20/09/2011. DEMORA NA PROPOSITURA DA AÇÃO QUE CAUSARIA EXTREMA. VANTAGEM AO CREDOR CASO SE CONSIDERASSE VÁLIDA A ANTECIPAÇÃO DO VENCIMENTO DA DÍVIDA. MITIGAÇÃO DO PACTA SUNT SERVANDA. FUNÇÃO SOCIAL DO CONTRATO. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. A. CORRETA A SENTENÇA DE EXTINÇÃO, RAZÃO PELA QUAL MERECE SER MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 481-489, e-STJ).
+Nas razões de recurso especial, alega a ora agravante violação dos artigos 333, 395 e 397 do Código Civil e; 20, 21 e 535 do Código de Processo Civil de 1973.
+Sustenta nulidade por negativa de prestação jurisdicional.
+Defende, em síntese, a inexistência de excesso de execução, a fim de que os juros de mora incidam sobre o montante devido a partir de 23.10.2008, momento em que se constatou o primeiro inadimplemento da parte agravada.
+Requer a condenação da parte contrária ao pagamentos dos honorários advocatícios diante da sucumbência mínima.
+Apresentadas contrarrazões pela parte contrária (fls. 536-543, e-STJ), pugnando pelo não provimento do recurso.
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 545-550, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016, desta Corte.
+No tocante às alegações de ofensa ao artigo 535 do Código de Processo Civil de 1973, verifico que não merecem prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Com efeito, não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Desse modo, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos dos acórdãos cujas ementas transcrevo abaixo:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS. MATÉRIA DE FATO. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016)
+O Tribunal de origem manteve a sentença que julgou procedente em parte o pedido dos embargos do devedor para determinar que sobre o débito incidam juros de 1% (um por cento) ao mês sobre cada parcela inadimplida, a contar de cada vencimento, além de multa contratual de 2% (dois por cento), pelos seguintes fundamentos:
+Na verdade, o que pretende o recorrente é que os juros de mora recaiam Sobre o valor total da dívida desde o vencimento da primeira parcela inadimplida, haja vista que as parcelas vincendas foram antecipadas em virtude de clausula contratual, enquanto a sentença e os cálculos realizados consideraram a incidência de juros sobre cada parcela inadimplida mês a mês, método que acabou por resultar em uma diferença de mais ou menos 25% do valor que o recorrente entende devido.
+Assim, a análise da correção da sentença em segundo grau se limita a verificar se os juros devem incidir, conforme já constou do decisum sobre cada parcela, de acordo com o respectivo vencimento ou se o percentual dever ser aplicado no valor total desde o primeiro inadimplemento, ante o vencimento antecipado da dívida previsto no contrato.
+- Primeiramente, esclareço que, em que pese a existência de cláusula contratual prevendo o vencimento antecipado da dívida, o caso dos autos não se enquadra nas hipóteses previstas no código civil para tanto, senão vejamos:
+(..)
+Assim, embora se reconheça que ao interpretar o contrato deve-se respeitar ao máximo o que foi livremente"pactuado, as avenças devem respeitar os limites da lei.
+Também importante frisar que não se deve esquecer que tal interpretação jamais deve ser afastar da obrigatoriedade de se levar em conta a função social do pacto, assim como a boa-fé objetiva e tantos outros princípios de ordem social trazidos.pelo novel código.
+A propósito, o art. 421, do CCB, in verbis:
+(..)
+In casu, proceder como pretende o recorrente, trará evidente e desproporcional onerosidade para o devedor que, diga-se de passagem, celebrou 11 contratos na mesma data e nas mesmas condições, cumprindo a contento 10 deles, quedando-se inadimplente apenas com relação ao contrato tratado nesses embargos.
+Não é despiciendo lembrar que, independente da análise da legalidade de inserção de cláusula prevendo o referido vencimento antecipado da dívida em contrato como o dos autos, o fato é que, do teor do pacto, não se extrai como seria tratada a questão dos juros, vez que ao dispor sobre o assunto os contratantes falaram apenas acerca do percentual.
+Por fim, não é demais lembrar que seria no mínimo estranho, se falar em vencimento antecipado da dívida, na medida em que o prazo estipulado para o pagamento da última parcela seria 24/07/2010, conforme se vê de folhas 19, sendo certo que a execução de Título Executivo Extrajudicial. foi inaugurada apenas 20/09/2011, consoante consulta disponível no site deste TJRJ, ou seja, mais de um ano após o termo ad quem para cumprimento da avença.
+Assim, a meu ver, ainda que a cláusula autorizativa do vencimento antecipado do débito fosse válida, a demora na propositura da ação executiva representaria extrema vantagem ao credor, o que é inadmissível.
+Com efeito, para o provimento do recurso, de modo a se afastar as conclusões do acórdão recorrido sobre o excesso de execução, exigiria o reexame de provas e cláusulas contratuais, o que esbarraria nos óbices das Súmulas 5 e 7, ambas do STJ.
+Do mesmo modo, a reforma do julgado quanto ao redimensionamento da sucumbência demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Intimem-se.
