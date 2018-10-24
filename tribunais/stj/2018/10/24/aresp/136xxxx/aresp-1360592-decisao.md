@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por Companhia Excelsior de Seguros contra decisão do Magistrado de primeiro grau que, nos autos da ação de responsabilidade obrigacional ajuizada por [NOME] e outros, rejeitou as preliminares, aplicou o CDC, inverteu o ônus da prova e determinou as provas a serem produzidas.
+A Nona Câmara Cível do Tribunal de Justiça do Paraná negou provimento à insurgência, em acórdão assim ementado (e-STJ, fl. 599):
+AGRAVO DE INSTRUMENTO - AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA - INAPLICABILIDADE DO CDC - MATÉRIA ALHEIA AO ROL DO ART. 1.015 DO NCPC - IMPOSSIBILIDADE DE CONHECIMENTO - PRESCRIÇÃO - NÃO EVIDENCIADA - INVERSÃO DO ÔNUS DA PROVA - POSSIBILIDADE - PRESENÇA DOS REQUISITOS - DECISÃO MANTIDA RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+Nas razões do recurso especial, a seguradora apontou violação dos arts. 206, § 1º, II, e 458 do Código Civil.
+Alegou, em síntese, a ocorrência da prescrição ânua, a inaplicabilidade do Código de Defesa do Consumidor e o não cabimento da inversão do ônus da prova.
+Contrarrazões apresentadas às fls. 656-670 (e-STJ).
+O Tribunal de origem negou seguimento ao apelo nobre sob o fundamento de incidir as Súmula n. 7 do STJ e 283 e 284 do STF, o que ensejou a interposição do presente agravo.
+Contraminuta às fls. 691-698 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, é dever da parte combater especificamente todos os fundamentos da decisão agravada, demonstrando o desacerto do decisum que negou seguimento à irresignação especial, nos termos do art. 932, III, do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DA VICE-PRESIDÊNCIA DO TRIBUNAL "A QUO" QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, CPC/15. RAZÕES DO REGIMENTAL. FALTA DE FUNDAMENTOS CAPAZES DE INFIRMAR AS CONCLUSÕES TIRADAS PELO DECISUM OBJURGADO. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp n. 562.157/SP, Relator o Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/8/2016, DJe 23/8/2016.)
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, §4º, DO CPC/2015 . 1. O agravo interno não merece prosperar. O agravante esgrime contra decisão sem atacar seus fundamentos. De observar que, estando calcado o decisório na aplicação da Súmula n. 284/STF, o recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto e não apenas reiterar o especial. 2. Segundo o art. 932, III, do CPC/2015, incumbe ao relator não conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida. Do mesmo modo a Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". 3. O recurso que não ataca especificamente os fundamentos da decisão recorrida é manifestamente inadmissível, devendo ser penalizado com a multa de 1%, sobre o valor atualizado da causa, prevista no art. 1.021, § 4º, do CPC/2015. 4. Agravo interno não provido. (AgInt no AREsp n. 891.137/DF, Relator o Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/8/2016, DJe 26/8/2016)
+No caso, a agravante não infirma, nas razões do agravo em recurso especial, o fundamento da decisão de inadmissibilidade concernente à incidência da Súmula n. 283/STJ, o que inviabiliza o conhecimento do agravo.
+Diante do exposto, não conheço do agravo em recurso especial.
+Publique-se.
