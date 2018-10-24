@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de DANIEL ABNER DE OLIVEIRA contra o acórdão do Tribunal de Justiça do Estado de São Paulo que deu provimento ao recurso do Ministério Público para afastar a progressão de regime prisional deferida pelo Juízo da Execução Penal.
+A impetrante argumenta que o acórdão está contrário ao entendimento desta Corte de que a progressão de regime nas condenações por tráfico privilegiado deve observar as frações exigidas para os delitos comuns, pois a incidência do § 4º do art. 33 da Lei n. 11.343/06 afasta a hediondez do delito.
+Requer, assim, em liminar e no mérito, o restabelecimento da decisão de primeiro grau que deferiu a progressão ao regime aberto.
+Indeferido o pedido liminar e prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem, nos termos da seguinte ementa:
+HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS PRIVILEGIADO. ART. 33, §4º, DA LEI 11.343/06. CRIME NÃO EQUIPARADO A HEDIONDO. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DESSA E. CORTE. PARECER PELA CONCESSÃO DA ORDEM, PARA QUE, AFASTADA A HEDIONDEZ DO DELITO DE TRÁFICO DE DROGAS EM SUA FORMA PRIVILEGIADA, SEJA RESTABELECIDO O CÁLCULO ELABORADO COM BASE NAS FRAÇÕES DE CUMPRIMENTO DEFINIDAS PARA OS CRIMES COMUNS E A DECISÃO CONCESSIVA DA PROGRESSÃO DE REGIME (fl. 115).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Na hipótese, a instância ordinária entendeu que a previsão contida no § 4º do art. 33 da Lei n. 11.343/06 trata apenas de causa especial de redução da pena, não disciplinando delito autônomo. Confira-se:
+Assiste razão ao representante ministerial quanto às frações de contagem.
+Com vênia dos entendimentos contrários, a figura prevista no § 4º, art. 33, da Lei de Drogas, impropriamente denominada privilégio, integra mesmo o tipo penal básico, isto é, não passa de mera causa especial de diminuição da pena cominada para o crime de tráfico ilícito de substâncias entorpecentes.
+A propósito, o próprio legislador - que positivou o benefício - cuidou de limitar sua aplicação aos delitos definidos no "caput" e no § 1º do art. 33 da Lei n.º 11.343/06, ou seja, ao tráfico de entorpecentes.
+Logo, não se deve idealizar, a princípio, todos os tráficos privilegiados como comuns, já que a conduta de traficar substância entorpecente, em qualquer circunstância, é flagrantemente prejudicial, perniciosa ao bem juridicamente tutelado pela norma proibitiva, isto é, à saúde pública. A denominada traficância eventual, na medida em que também dissemina a droga no meio social, não se mostra menos nociva à coletividade.
+De qualquer forma e aqui bate o ponto o julgado referido pelo agravante (HC 118.533/MS) foi proferido em sede de controle difuso e a abstrativização dos efeitos das decisões não é aceita pelo próprio STF, sob pena de se usurpar função do legislativo.
+Assim, por não ter efeito erga omnes e, não tendo sido editada nenhuma resolução pelo Senado Federal suspendendo a execução da referida lei, no todo ou em parte, tal entendimento não vincula o Judiciário.
+Ademais, o precedente invocado da Suprema Corte não vincula os demais órgãos do Poder Judiciário. Trata-se afinal de precedente isolado, que contou com a divergência de parte dos ministros do Plenário (Luiz Fux, Dias Toffoli e Marco Aurélio).
+Nestes termos, deve o agravado cumprir 2/5 da pena, se primária, ou 3/5, caso reincidente, para obter a progressão de regime (art. 2º, § 2º, da Lei nº 8.072/90) e primeiro saldar 2/3 das penas, antes de pretender o livramento condicional (art. 83, V, do CP, e art. 44, § único, da Lei nº 11.343/06).
+Dessa forma, impõe-se a elaboração e homologação de novos cálculos de liquidação, considerando o delito como equiparado a hediondo.
+Pelo exposto, dou provimento ao agravo interposto para cassar a concessão do benefício e determinar que novos cálculos sejam realizados considerando o delito praticado pela sentenciado como equiparado a hediondo (fls. 76/78).
+Entretanto, o Pretório Excelso, em julgamento realizado pelo Tribunal Pleno, afastou o caráter hediondo do tráfico de drogas realizado na forma do art. 33, § 4º, da Lei n. 11.343/06, divulgando em seu Informativo n. 831 não serem exigíveis requisitos mais severos para o livramento condicional (Lei 11.343/2006, art. 44, parágrafo único) e tampouco incide a vedação à progressão de regime (Lei 8.072/1990, art. 2º, § 2º) para os casos em que aplicada a causa de diminuição prevista no art. 33, §4º, Lei 11.343/2006.
+Cito precedente:
+HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA LEI N. 8.072/90 AO TRÁFICO DE ENTORPECENTES PRIVILEGIADO: INVIABILIDADE. HEDIONDEZ NÃO CARACTERIZADA. ORDEM CONCEDIDA.
+1. O tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos.
+2. O tratamento penal dirigido ao delito cometido sob o manto do privilégio apresenta contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa.
+3. Há evidente constrangimento ilegal ao se estipular ao tráfico de entorpecentes privilegiado os rigores da Lei n. 8.072/90.
+4. Ordem concedida (HC 1185.33, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe-199 DIVULG 16-09-2016 PUBLIC. 19-09-2016).
+Acompanhando o entendimento do Supremo Tribunal Federal - STF e uma vez preenchidos os requisitos objetivos e subjetivos previstos na norma de regência, deve ser restabelecida a decisão que concedeu progressão de regime ao paciente proferida pelo Juízo de primeiro grau.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para restabelecer a decisão de primeiro grau.
+Publique-se.
+Intimações necessárias.
