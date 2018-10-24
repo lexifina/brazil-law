@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. O reexame de fatos e provas em recurso especial é inadmissível.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANHANGUERA EDUCACIONAL PARTICIPACOES S/A e ANHANGUERA EDUCACIONAL LTDA contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/08/2018.
+Concluso ao gabinete em: 05/10/2018.
+Ação: de obrigação de fazer e declaratória de inexistência de débito c/c repetição de indébito e compensação por danos morais e materiais ajuizada por JULIANO BRITO DOS SANTOS contra as ora agravantes, na qual alega que em meados de fevereiro de 2013 iniciou seus estudos na instituição, obtendo bolsa integral do ProUni. No final de 2013 recebeu notificação para comparecimento na secretaria da agravante para atualizar sua bolsa e assim o fez, obtendo a informação de que não havia nada de diferente no seu caso, razão pela qual devia fazer a atualização de sua bolsa como de rotina. Expõe também que no dia 24 de outubro de 2013 recebeu outra notificação para comparecer à instituição e assim novamente procedeu, apresentando a documentação que lhe fora solicitada. Salienta, todavia, que no início de 2014 foi surpreendido com a cobrança de duas mensalidades referentes a dezembro e janeiro e descobriu que sua bolsa havia sido cancelada. Reforça no sentido de que o motivo do cancelamento foi a suposta não entrega de documentação comprovando a exclusão do vínculo com a UFMS, mas, frisa, que entregou a referida documentação. Insiste no sentido de que a agravante se recusou a fornecer uma declaração de cancelamento da bolsa, razão pela qual foi novamente até a UFMS, conseguiu mais uma vez o documento e o entregou à parte agravante, sendo informado que não era necessário se preocupar, já que sua bolsa seria efetivada. Reforça, ainda, no sentido de que desde então está impedido de realizar sua matrícula e está sendo cobrado por mensalidades que não deve, culminando com a inclusão de seu nome nos órgãos de proteção ao crédito. Por fim, postula que a agravante seja condenada a renovar sua matrícula e sua bolsa de estudos, a arcar com os custos de seu curso até o final ou então a perdas e danos, bem como a reparar os danos morais que sofrera.
+Sentença: julgou procedente o pedido para condenar as agravantes ao pagamento de compensação por danos morais no valor de R$ 10.000,00 reais. Quanto ao pedido obrigacional, houve perda de objeto.
+Acórdão: negou provimento ao recurso de apelação interposto pelas agravantes, nos termos da seguinte ementa:
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER E DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - SUSPENSÃO DE BOLSA DO PROUNI - DOCUMENTO DE DESLIGAMENTO DE UNIVERSIDADE PÚBLICA - COBRANÇA DE MENSALIDADES - AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO - ÔNUS DA PROVA - DANOS MORAIS IN RE IPSA - RECURSO CONHECIDO E IMPROVIDO.
+Sofre dano moral o discente que tem a bolsa ProUni suspensa sob a justificativa de ausência de entrega de documento necessário à continuidade do benefício, quando comprova que compareceu à IES no tempo aprazado e forneceu os documentos solicitados.
+A ausência de prévia notificação sobre a insuficiência dos documentos apresentados, bem como da suspensão do benefício, e a cobrança das mensalidades posteriores corroboram a alegação de dano moral presumido.
+Recurso conhecido e improvido. Sentença mantida.
+Embargos de declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alega violação do art. 884 do Código Civil, bem como dissídio jurisprudencial. Sustenta a desproporcionalidade do valor fixado a título de danos morais, ante a inexistência de descumprimento contratual. Defende que o referido valor destoa dos parâmetros fixados pelo Superior Tribunal de Justiça e gera enriquecimento sem causa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O Tribunal de origem, ao julgar o recurso de apelação, decidiu o seguinte (e-STJ fls. 252/253):
+Preambularmente, convém consignar que o dano moral deve ser arbitrado quando a ofensa é capaz de gerar lesão a direitos intrínsecos à personalidade do indivíduo, violando, por exemplo, sua intimidade, honra e imagem. Sendo assim, para que haja caracterização do dever de indenizar, é imprescindível a evidência de uma circunstância gravemente injuriosa, relevante o suficiente para ocasionar ao ofendido dano em seu patrimônio moral.
+ ..
+Dessa forma, para que haja condenação à reparação pretendida, é necessário que o autor comprove o fato constitutivo de seu direito, devendo acostar aos autos elementos que demonstrem o fato e o suposto dano sofrido, salvo nos casos em que o dano é presumido, considerado inerente ao fato narrado. E entendo que esse é o caso dos autos.
+O autor certamente experimentou uma série de transtornos que extrapolaram os limites do que é considerado mero aborrecimento. Isso porque, embora tenha entregue a documentação solicitada pela IES ré, ainda assim o autor se viu diante
+É evidente que o transtorno causado ao autos extrapola os limites do mero aborrecimento. O autor despendeu tempo e foi obrigado a ingressar com uma ação judicial para solucionar a pendenga.
+Assim, alterar o decidido no acórdão impugnado, quanto ao referido ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ademais, a jurisprudência do STJ é pacífica no sentido de que a modificação do valor fixado a título de danos morais somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo.
+ - Da divergência jurisprudencial
+Constata-se, da leitura das razões do recurso especial, que quanto à divergência jurisprudencial, o agravante não apontou qualquer confronto entre acórdãos, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 3% os honorários fixados anteriormente.
+Publique-se. Intimem-se.
