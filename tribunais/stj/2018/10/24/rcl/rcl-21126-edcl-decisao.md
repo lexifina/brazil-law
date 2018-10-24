@@ -1,0 +1,50 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] e outro contra decisão que não conheceu da reclamação.
+Os embargantes alegam a existência de contradição e omissão da decisão ora impugnada, sob o fundamento de que a reclamatória foi apreciada à luz do recurso especial manejado ainda na fase de conhecimento e não daquele que apreciou os honorários sucumbenciais no cumprimento do julgado.
+Explicitam o seguinte (e-STJ, fls. 200-201):
+O reclamante, inconformado com a decisão do egrégio TRF da 5ª Região, interpôs o seu recurso especial a esse colendo Superior Tribunal de Justiça - não é aquele referido por Vossa Excelência - mas o que decidiu, finalmente, acerca daquela decisão da lavra do Juiz Eduardo José da Fonseca Costa que extirpou os nossos honorários advocatícios sucumbenciais atropelando a coisa julgada.
+O recurso especial foi distribuído ao também eminente Ministro Humberto Martins que decidiu determinando que, a sentença de embargos à execução supra referida - nos autos do processo sob o nº 0004750- 45.2007.4.05.8400, transitada em julgado, modificada por mero despacho de expediente - fosse restaurada incólume, tendo recebido o seguinte dispositivo:
+"Ante o exposto com fundamento no art. 544, § 4º, inciso II, alínea "c" do CPC, conheço do agravo para dar provimento ao recurso especial a fim de restabelecer a sentença de embargos à execução de modo que seja novamente incluída na ordem cronológica o precatório referente ao pagamento dos honorários advocatícios sucumbenciais.  .. " (nosso grifo).
+A União ingressou com embargos declaratórios, argumentando de forma idêntica a motivação exposta por Vossa Excelência, os quais foram rejeitados. A decisão foi mantida incólume e transitada em julgado.
+DA DECISÃO QUE ENSEJOU A PRESENTE RECLAMAÇÃO
+Tendo os autos de agravo de instrumento - em fase executória - retornados ao douto juízo de 1º grau para cumprimento da decisão dessa colenda Corte, ou seja, para o cumprimento da decisão que mandou restaurar a execução, veio outra novamente decisão indeferir o processamento do precatório também por idêntica motivação, agora da lavra do Juiz Renato Coelho Borelli.
+O reclamante, anteriormente, recorreu até que, esse colendo Superior Tribunal de Justiça, decidiu favoravelmente de acordo com tudo supra exposto.
+A decisão do Juiz Renato Coelho Borelli é totalmente desrespeitosa a esse colenda Corte, pois descumpre e desafia a decisão transitada em julgado que apreciou exatamente a motivação de sua decisão.
+A situação é de um juiz substituto de 1º grau descumprindo a decisão de um Ministro do Superior Tribunal de Justiça!
+Logicamente, não caberia mais a este reclamante percorrer novamente o caminho anterior trilhado, pois o Judiciário não decide questões já decididas.
+No momento em que Vossa Excelência, sempre com a mais profunda vênia, equivocamente, achou ter encontrado o fio da meada para o deslinde do caso, fazendo referência àquele recurso especial ainda da fase de conhecimento, incorreu em contradição.
+A omissão, também sempre com a mais profunda vênia, é flagrante, pois, tal qual já alegado, no momento em que Vossa Excelência se refere apenas ao recurso especial da fase de conhecimento, foi omisso quanto ao ponto crucial ao deslinde do caso, o recurso especial que definiu a execução dos honorários na fase de execução. Isto é o que interessa. O cumprimento do julgado.
+Assim, também, não poderia mais, em sede de reclamação, em competência originária, discutir o mérito acerca do pagamento dos honorários advocatícios, mas decidir sobre o descumprimento da decisão desse colendo Superior Tribunal de Justiça.
+Pleiteiam o acolhimento dos embargos de declaração, com efeitos infringentes, a fim de que a reclamação seja julgada procedente.
+Foi apresentada impugnação às e-STJ, fls. 215-216.
+É o relatório.
+Inicialmente, não conheço dos embargos de declaração que foram opostos às e-STJ, fls. 204-209, em razão da preclusão consumativa. Não se admite que a parte ingresse com dois recursos contra a mesma decisão.
+Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+No caso, não há qualquer vício de fundamentação na decisão embargada.
+A reclamação foi apreciada nos termos dos fundamentos expostos na inicial, tendo sido examinados todos os pontos necessários ao deslinde da questão.
+Os reclamantes indicaram que a decisão proferida pelo Juízo de 1º Grau descumpriu o julgado proferido pelo STJ nos autos do AREsp 307.180/RN. Confira-se o seguinte excerto da inicial (e-STJ, fl. 2):
+In casu, o Relator-prolator da decisão que está sendo descumprida é o eminente Ministro Humberto Martins - agravo de instrumento supra referido ab initio - (Agravo em recurso especial nº 307.180-RN (2013/0059718-6), a quem deve ser distribuído a reclamação, vênia.
+A decisão que não conheceu da reclamação, por sua vez, analisou os fundamentos da decisão do STJ tida por descumprida, explicitando que a autoridade reclamada observou o mandamento contido no título judicial exarado por esta Corte Superior. Confira-se, a propósito, o seguinte trecho da decisão embargada (e-STJ, fls. 192-194):
+Não assiste razão aos reclamantes.
+A decisão prolatada no julgamento do AREsp 307.180/RN apenas concluiu que o provimento do recurso de apelação inverteu automaticamente os honorários sucumbenciais fixados na sentença, os quais representam o montante de 10% sobre o valor atualizado da causa.
+Confiram-se, a propósito, excertos da decisão proferida pelo STJ:
+Cinge-se a controvérsia a saber se o provimento da apelação tem o efeito de inverter automaticamente a verba honorária advocatícia fixada.
+Em síntese, a sentença de primeiro grau julgou o pleito improcedente, condenando a parte autora ao pagamento das custas e honorários de sucumbência fixados em 10% sobre o valor atualizado da causa (documento de fl. 46, e-STJ), em sede de apelação a mesma foi parcialmente reformada a fim de considerar procedente a demanda (fl. 56, e-STJ), restando omissa quanto à inversão dos honorários.
+Na fase executiva, quando do julgamento dos embargos à execução, o magistrado, considerando a existência de erro material, houve por bem promover a retirada da verba honorária sob o entendimento de que não houve condenação em sucumbência nos autos principais.
+Nesse contexto, o acórdão recorrido merece reforma.
+A jurisprudência do Superior Tribunal de Justiça entende que o provimento de recurso interposto tem o condão de inverter de modo automático os honorários anteriormente fixados. "Dispõe o art. 294 do Código de Processo Civil que os honorários advocatícios, como consectários da sucumbência, integram o conteúdo implícito do pedido. A fortiori, provido o recurso, reformando-se a decisão ad quem, e quedando-se omisso o acórdão quanto aos ônus da sucumbência, é de se entender que tenha, por igual, invertido a condenação neste aspecto" (REsp 545.065/SE, Rel. Min. Luiz Fux, Primeira Turma, julgado em 7.10.2003, DJ 3.11.2003, p. 278).
+Em nenhum momento se afirmou que a parte ora reclamante teria direito ao recebimento de honorários sucumbenciais com base no valor da condenação, o que resultaria na quantia de R$ 46.876,29 (quarenta e seis mil, oitocentos e setenta e seis reais e vinte e nove centavos). Esse ponto, ademais, foi devidamente esclarecido no julgamento dos embargos de declaração.
+No aspecto:
+Ressalte-se que a verba honorária sucumbencial deixou de ser inclusa na conta de liquidação, por inobservância de inversão automática e dado o seu caráter irrisório (10% sobre R$ 20,00 - vinte reais - valor este que seria atualizado), de modo que, impende necessária a inclusão no precatório da citada verba, no respectivo molde, se assim for do interesse da parte recorrente.
+Dessa forma foi delineada e resolvida a controvérsia, para que o Tribunal observe a inversão automática da verba honorária sucumbencial, nos termos do definido na sentença de fl. 46, e-STJ.
+Cumpre esclarecer que, os honorários advocatícios requeridos na execução por parte da ora embargada no valor de R$ 46.876,29 (quarenta e seis mil, oitocentos e setenta e seis reais e vinte e nove centavos), inclusos no precatório e posteriormente retirados, não observou o critério de inversão automática da sucumbência, ao que parece, está firmado em outra base de cálculo que não o valor atualizado da causa.
+Esclarecidas as questões, não há ponto omisso, contraditório ou obscuro a ser sanado.
+Nesse contexto, não houve descumprimento da decisão proferida pelo Superior Tribunal de Justiça nos autos do AREsp 307.180/RN, sendo descabida a reclamação como mero sucedâneo recursal.
+Destaco, na mesma linha, o parecer ofertado pelo Ministério Público Federal, que bem sintetizou a controvérsia (e-STJ, fl. 166):
+Temos, assim, que a presente reclamação deve ser julgada improcedente. Observa-se que a parte se utiliza da presente Reclamação como meio de desconstituir decisão judicial que lhe foi desfavorável. Decisão, inclusive, que executa decisão já transitada em julgado.
+Ora, no presente caso, diferente do que se exige em hipóteses de reclamação, não se demonstrou que o Juízo da 5ª Vara da Seção Judiciária do Rio Grande do Norte tenha contrariado decisão específica da Corte Superior de Justiça.
+Ao contrário. O que busca o ora Reclamante é modificar a forma de cálculo dos honorários, já em fase de execução.
+Inexistindo qualquer omissão ou contradição no julgado, a decisão embargada deve ser mantida, não sendo os embargos declaratórios o instrumento recursal adequado para rediscutir o mérito das questões já devidamente decididas por esta Corte Superior.
+Ante o exposto, rejeito os embargos de declaração de e-STJ, fls. 198-203. Embargos de declaração de e-STJ, fls. 204-209 não conhecidos.
+Publique-se. Intimem-se.
