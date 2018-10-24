@@ -1,0 +1,25 @@
+DECISÃO
+[NOME] interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que negou provimento à Apelação Criminal n. 1.0016.17.003211-0/001.
+Nas razões recursais, o recorrente aponta violação dos arts. 1º e 155, do Código Penal, bem como art. 386, III, do Código de Processo Penal, ao argumento de que a conduta praticada é atípica por incidência do princípio da insignificância, que não deve ser afastado em razão de sua reincidência.
+Requer o provimento do recurso para que seja absolvido.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 349-350), o que ensejou a interposição deste agravo (fls. 353-361).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 378-384).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+Quanto ao recurso especial, observo que suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade do recurso especial (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razões pelas quais avanço na análise de mérito da controvérsia.
+A Corte de origem confirmou os termos da sentença condenatória e afastou a incidência do princípio da insignificância, "pela comprovada reincidência do acusado, inclusive em três delitos patrimoniais (CAC de fls. 48/50)" (fl. 311, grifei).
+Consoante já assentado pelo Supremo Tribunal Federal, o princípio da insignificância deve ser analisado em correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, no sentido de excluir ou afastar a própria tipicidade da conduta, examinada em seu caráter material, observando-se, ainda, a presença dos seguintes vetores: (I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da ação; (III) ínfimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica ocasionada (conforme decidido nos autos do HC n. 84.412/SP, de relatoria do Ministro Celso de Mello, DJU 19/4/2004).
+Aliás, tenho externado, em diversos votos e decisões monocráticas, minha posição favorável à possibilidade de, a despeito da subsunção formal de determinada conduta humana a um tipo penal, concluir-se pela atipicidade material da conduta, por diversos motivos, entre os quais, a ausência de ofensividade penal do comportamento verificado. Isso porque, além da adequação típica formal, deve haver uma atuação seletiva, subsidiária e fragmentária do Direito Penal, conferindo-se, desse modo, maior relevância à proteção de valores tidos como indispensáveis à ordem social, a exemplo da vida, da liberdade, da propriedade, do patrimônio etc., quando efetivamente ofendidos.
+No caso vertente, há componentes significativos que revelam a acentuada reprovabilidade do comportamento do réu, a indicar a necessidade da atividade punitiva estatal.
+Com efeito, não há como reconhecer a irrelevância penal da conduta, por ausência do reduzido grau de reprovabilidade do comportamento do agente, haja vista que as instâncias ordinárias reconheceram a reincidência do réu, que ostenta condenações anteriores por furto e roubo (fls. 51-55), o que afasta a aplicação do princípio da insignificância ao caso.
+Nesse sentido:
+ ..
+2. A conduta perpetrada pelo acusado - que é reincidente específico e ostenta condenação definitiva por um crime de roubo tentado -, apesar do pequeno valor dos objetos subtraídos, não se revela de escassa ofensividade penal e social, pois a lesão jurídica provocada não pode ser considerada insignificante.
+3. O simples fato de os bens haverem sido restituídos à vítima não constitui, por si só, razão suficiente para a aplicação do princípio da insignificância.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 754.797/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 11/12/2015)
+Dessa forma, a Corte de origem, ao afastar a incidência do princípio da insignificância, decidiu consoante a jurisprudência do Superior Tribunal de Justiça.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Em tempo, determino o envio de cópia dos autos ao Juízo de primeiro grau, para que expeça o mandado de prisão e encaminhe a guia de recolhimento provisório ao Juízo da VEC, dando efetivo início à execução da pena imposta ao recorrente. A determinação deve ser desconsiderada caso o réu cumpra, atualmente, a reprimenda.
+Publique-se e intimem-se.
