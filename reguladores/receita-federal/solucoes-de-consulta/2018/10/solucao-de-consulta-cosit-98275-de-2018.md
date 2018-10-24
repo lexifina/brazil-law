@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98275, de 8 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8504.40.21 Mercadoria: Conversor elétrico estático de corrente alternada em corrente contínua (retificador), com tensão de entrada normal variando de 110 a 240 VAC e tensão normal de saída de 12 VDC, com potência de saída variando de 12 a 37 W, à base de semicondutores, próprio para roteadores, impressoras, modems, monitores, leitores de CD/DVD, entre outros. DISPOSITIVOS LEGAIS: RGI-1, RGI-6 e RGC-1 da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC COSIT nº 98.275-2018.pdf]
