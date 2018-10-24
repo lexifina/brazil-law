@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], em 02/03/2012, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"SERVIDOR PÚBLICO MUNICIPAL - Recálculo dos vencimentos com a conversão da URV (LF 8.880/94) - Entre a data do fato que gerou o direito e a distribuição da ação decorreu prazo bem superior a cinco anos, não constando ter havido qualquer interrupção desse prazo prescricional - Reconhecimento da ocorrência da prescrição (art. 269, IV, do CPC) -E ainda que assim não fosse, o autor não tem o direito pleiteado (art. 269, I, do CPC) - Implementação, pela Administração, de regras para cumprimento à LF 8.880/94 que foram mais benéficas aos servidores - Sentença de improcedência mantida, também por outro fundamento - Recurso não provido" (fl. 75e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, b e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 22 da Lei Federal 8.880/94 e ao art. 3º do Decreto 20.910/32, sustentando que "as obrigações de trato sucessivo decorrem de uma situação jurídica fundamental previamente reconhecida pela Administração Pública, cujo direito ao quantum renova-se de tempo a tempo, recomeçando o prazo prescricional no vencimento de cada parcela, conforme é o caso" (fl. 94e).
+Por fim, requer "seja dado provimento ao Presente Recurso, reformando- se o V., Acórdão no sentido de julgar procedente a ação nos termos do pedido inicial, para que se restabeleça a determinação da Lei Federal violada, e para afastar a prescrição" (fl. 110e).
+Contrarrazões a fls. 213/226e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 298/299e).
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação Ordinária ajuizada pela parte ora recorrente, visando ao recálculo de seus vencimentos com a conversão para URV, na forma determinada pelo artigo 22 da Lei Federal 8.880/94.
+Julgada improcedente a demanda, recorreu o autor, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Verifica-se que ao analisar a controvérsia, concluiu o tribunal de origem, in verbis:
+"Correta, pois, a r. sentença que reconheceu a prescrição do fundo de direito (artigo 269, IV, do CPC).
+E ainda que não se admita a tese ora desenvolvida, a improcedência do pedido era de rigor.
+Alega o autor que teria sofrido perda salarial com a não conversão em URV, que representou aumento real de 324,71%, enquanto que os reajustes que obteve, no mesmo período, foram na ordem de 295,43%.
+No entanto, o autor não comprovou o prejuízo que teria sofrido.
+De acordo com as alegação da ré, a Administração procedeu ao repasse dos índices de correção no período reclamado, tendo em vista a evolução dos vencimentos dos servidores municipais naquele período.
+Com efeito, conforme aduzido nas contrarrazões, "cumpre salientar que embora não tenham sido convertidos os vencimentos dos servidores municipais em URV, estes continuaram sendo mensal e automaticamente corrigidos, segundo a inflação apurada na moeda então vigente - cruzeiro real - nos termos das Leis Municipais nºs. 10.688/88 e 10.722/89, não havendo, destarte, qualquer diferença a ser paga.
+Na eventual hipótese de serem consideradas aplicáveis as disposições da Lei federal nº 8.880/94 à Municipalidade, constata-se que mesmo assim não houve prejuízo ao autor com a ausência de conversão, uma vez que havia, à época, correção dos salários com base na inflação apurada.
+Dessa forma, considerando que o autor não comprovou nenhum prejuízo com a ausência, de conversão e diante da necessidade de cotejo entre as duas sistemáticas de atualização monetária - federal e municipal - a fim de evitar o bis in idem, fica evidente que também por esse motivo não merece prosperar o pedido do autor" (fl. 55)
+E tal assertiva não foi infirmada pelo apelante, além de ter sido bem embasada em amplo estudo, ou seja, o autor não se desincumbiu do ônus que lhe competia de comprovar que teria sofrido prejuízos.
+Não bastasse isso, há de estar presente o fato de, tivesse ocorrido a conversão em URV, haveria repercussão na despesa com pessoal, direcionando reajustes posteriores. Os reajustes demonstrados pela apelada deram-se diante de certos números, sem contar a conversão em URV e cabia ao autor demonstrar que, mesmo com a sucessão de reajustes, ou com compensações, ainda haveria prejuízo financeiro" (fls. 78/79e).
+Do exame do excerto, verifica-se que o Tribunal a quo concluiu que o autor não comprovou o prejuízo que teria sofrido. O recorrente, no entanto, no Recurso Especial, não cuidou de impugnar o acórdão quanto às afirmações acima demonstradas, limitando-se a irresignação ao afastamento da prescrição do fundo de direito.
+Considerando que a decisão baseou-se em mais de um fundamento, a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Logo, sendo o fundamento suficiente para manter o julgado, fica inviabilizado o Recurso. A esse respeito, aplicável, por analogia, a Súmula 283/STF, que assim dispõe:
+"É INADMISSÍVEL O RECURSO EXTRAORDINÁRIO, QUANDO A DECISÃO RECORRIDA ASSENTA EM MAIS DE UM FUNDAMENTO SUFICIENTE E O RECURSO NÃO ABRANGE TODOS ELES".
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
