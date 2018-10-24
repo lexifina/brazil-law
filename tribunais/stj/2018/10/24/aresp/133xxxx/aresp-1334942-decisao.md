@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA ESTELA SANTOS LIMA DO NASCIMENTO contra decisão que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 224):
+Apelação cível. Direito do consumidor. Ação de Consignação em Pagamento de valores devidos pelo efetivo consumo de energia elétrica e contribuição de iluminação, excetuando o parcelamento embutido na conta resultado de emissão de Termo de Ocorrência e Inspeção. Sentença de procedência. Apelo da ré. Reforma da sentença da ação conexa em grau recursal para se considerar regular a cobrança, diante do constatado em prova pericial.
+Reforma da sentença que se impõe, para se julgar parcialmente procedente o pedido, diante da insuficiência dos depósitos realizados. Provimento parcial do recurso.
+Embargos de declaração foram desprovidos (e-STJ fls. 242/244).
+No especial obstaculizado, a ora agravante apontou violação dos arts. 1.022 e 372 do CPC/2015, bem como dos arts. 39, V, e 51, X, do CDC.
+Alegou que o acórdão recorrido teria sido omisso quanto à irregularidade do débito que lhe foi imputado, apurado unilateralmente pela agravada, e também em relação ao fato de a prova pericial não ter esclarecido acerca da ocorrência de fraude no medidor ou defeito técnico.
+No mérito, aduziu que a concessionária não se desincumbiu de seu ônus probatório, pois a prova pericial não teria demonstrado fraude no relógio, impondo-se, assim, a declaração de nulidade do TOI. Sustentou, ainda, que a conduta da agravada é abusiva e arbitrária, em ofensa aos dispositivos da lei consumerista (e-STJ fls. 248/261).
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 268/272), o que desafiou a interposição do presente agravo (e-STJ fls. 278/285).
+Contraminuta consta às e-STJ fls. 298/305.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Considerado isso, tenho que a irresignação não merece prosperar.
+Trata-se, na origem, de ação de consignação de pagamento ajuizada pela agravante em que pretende quitar débito referente ao consumo de energia, sem que sejam incluídas as parcelas da dívida apurada em TOI pela empresa concessionária, contestada em ação própria, conexa à presente.
+O Tribunal estadual dirimiu a controvérsia pelos seguintes fundamentos (e-STJ fls. 226/227):
+No caso em tela, pugnou a apelada pelo direito de depositar em juízo os valores referentes apenas ao efetivo consumo de energia elétrica e contribuição de iluminação, excetuando o parcelamento embutido na conta resultado de Termo de Ocorrência e Inspeção que apurou irregularidade em seu relógio medidor, impondo cobrança no valor de R$ 764,22 parcelado em 36 vezes.
+Em primeira instância, nos autos da ação em apenso (0004615-72.2012.8.19.0207), o TOI foi declarado nulo e a cobrança relativa à recuperação do consumo foi declarada inexistente.
+Ocorre que, em grau recursal, a sentença foi reformada, para se declarar válida a emissão do TOI e a cobrança, pois o laudo elaborado pelo perito atestou a incompatibilidade entre a carga instalada e o consumo faturado na residência da apelada no período em que a apelante sinalizou haver irregularidade.
+Ressaltou-se que evidenciado o desvio de energia elétrica por meio de prova pericial, tal fato, por óbvio, deve se sobrepor à irregularidade administrativa perpetrada pela empresa recorrente.
+Assim, forçoso concluir que os valores depositados são insuficientes, o que não conduz, entretanto, à improcedência do pedido, nos termos do art. 899 §1º do CPC/73, de idêntico teor ao art. 545 §2º CPC/16.
+Sendo claro que são devidos os valores depositados relativos às constas de consumo de energia, fato incontroverso, estes devem ser levantados pelo apelante, servindo como amortização da dívida.
+(..)
+Ante o exposto, dou provimento parcial ao apelo para julgar procedente em parte a ação, tendo em vista a insuficiência do valor depositado, autorizando o apelante a levantar os valores incontroversos depositados em juízo. (Grifos acrescidos).
+Pois bem, quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se observa nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+Com efeito, os pontos indicados pela recorrente como omissos dizem respeito ao objeto da ação em que se discute a legalidade da inspeção feita pela agravada, de modo que o acórdão recorrido apreciou a presente demanda dentro dos limites da pretensão consignatória, não havendo que se falar em negativa de prestação jurisdicional.
+Quanto aos demais dispositivos tidos como violados, verifica-se que a insurgência também está relacionada ao mérito da ação conexa que, em grau de recurso e com base em prova lá produzida, concluiu pela regularidade do TOI e, consequentemente, pela legalidade da cobrança.
+Assim, em que pese a influência daquele resultado na solução do presente feito, cuida-se de objetos distintos, de modo que as razões recursais, como delineadas, estão dissociadas dos fundamentos do aresto impugnado, o que denota a deficiência de fundamentação, a atrair, por analogia, a incidência da Súmula 284 do STF.
+Ademais, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado, reconhecendo a insuficiência dos valores depositados, demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, desiderato incompatível com a via especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo. Suspensa a exigibilidade por tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se.
+Intimem-se.
