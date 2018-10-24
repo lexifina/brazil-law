@@ -1,0 +1,27 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação n. 2016.01.1.112146-9.
+Nas razões recursais, a defesa aponta violação do art. 65, III, "d", do Código Penal, ao argumento de que a confissão extrajudicial também configura a circunstância atenuante e enseja a compensação com a reincidência.
+Requer, dessa forma, o provimento do recurso para reduzir a pena imposta ao réu.
+A Corte local não admitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do pedido.
+Decido.
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, observo que também comporta conhecimento.
+Com efeito, a questão atinente à dosimetria da pena foi apreciada pelo Tribunal de origem no julgamento da apelação, a evidenciar o devido prequestionamento. Além disso, o recurso apresenta argumentação suficiente para permitir a compreensão da tese e a sua apreciação prescinde de reexame de provas.
+O ora agravante foi condenado, em primeira instância, à pena de 8 anos de reclusão, em regime inicial fechado, e 800 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo, sob a seguinte motivação (fls. 294-298, grifei):
+Destarte, considerando a confissão extrajudicial do apelante e os depoimentos das testemunhas policiais, bem como a quantidade da droga apreendida, mantenho a condenação do apelante pelo crime previsto no artigo 33, "caput", da Lei n. 11.343/06; e afasto a tese de desclassificação para o tipo do art. 28 da mesma Lei.
+ ..
+Na segunda fase, o Magistrado "a quo" reconheceu a configuração da multirreincidência (fls. 132 e 144) e fixou a pena em 8 (oito) anos e 800 (oitocentos) dias-multa.
+Nada a reparar, pois, ainda que se considere que o apelante confessou a prática do crime na fase extrajudicial, bem como que esta foi empregada na sentença para fundamentar a condenação; o fato de ser multirreincidente, obsta a compensação integral entre a agravante da reincidência e a atenuante da confissão.
+Pela leitura do excerto transcrito, observo que o acórdão impugnado reconheceu a aplicação da circunstância atenuante, mas deixou de compensá-la com a agravante da reincidência por haver mais de uma condenação pretérita definitiva contra o réu.
+Acerca da compensação entre as circunstâncias agravante e atenuante reconhecidas, a matéria foi pacificada no julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT. No primeiro, julgado em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal" (destaquei).
+Ainda, a Terceira Seção do Superior Tribunal de Justiça afirmou a possibilidade de compensação entre a reincidência específica e a confissão, ao julgar o HC n. 365.963/SP (Rel. Ministro Felix Fischer, 3ª S., DJe 23/11/2017, grifei).
+Todavia, reafirmou, naquela oportunidade, não ser possível tal compensação quando se trata de réu multirreincidente. No ponto, confira-se excerto do voto condutor do acórdão:
+Ocorre que ao se possibilitar a compensação entre as respectivas
+circunstâncias, denota-se que sequer foi anunciada ou mesmo ressalvada a aplicabilidade de quaisquer das espécies de reincidência, vale dizer, possibilitou-se, ainda que tacitamente, e para os referidos fins, que fossem viabilizados tanto o seu viés genérico, quanto o específico.
+Nesse sentido, não obstante a existência de arestos nesta Corte edificados em premissas diversas, entendo que a melhor hermenêutica a ser implementada na ocasião, até mesmo para se evitar descompasso e afronta à proporcionalidade, deverá ser aquela voltada à possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multireincidência, conforme os precedentes emanados por este Tribunal Superior:  .. .
+No caso em exame, como já delineado, a Corte distrital destacou o registro de duas condenações definitivas pretéritas em desfavor do réu, circunstância que inviabiliza a compensação pleiteada, nos termos da jurisprudência desta Corte Superior.
+Ante o esgotamento das instâncias ordinárias - como no caso -, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena caso o acusado não a cumpra atualmente.
+Publique-se e intimem-se.
