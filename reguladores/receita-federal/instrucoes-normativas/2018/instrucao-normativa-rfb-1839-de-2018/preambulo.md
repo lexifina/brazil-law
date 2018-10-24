@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1839, de 23 de outubro de 2018
+Altera a Instrução Normativa RFB nº 1.685, de 19 de janeiro de 2017, que estabelece normas sobre a Escrituração Fiscal Digital (EFD) a ser elaborada pelos contribuintes do Imposto sobre Produtos Industrializados situados no Distrito Federal.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no Decreto nº6.022, de 22 de janeiro de 2007, no art. 453 do Decreto nº 7.212, de 15 de junho de 2010 e no Ajuste Sinief nº 2, de 3 de abril de 2009, resolve:
