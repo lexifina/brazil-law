@@ -1,0 +1,3 @@
+Art. 9º Anualmente, a renda líquida total de um dos testes da Loteria Esportiva Federal será destinada ao Comitê Olímpico Brasileiro-COB, para treinamento e competições preparatórias das equipes olímpicas nacionais.
+§ 1º Nos anos de realização dos Jogos Olímpicos e dos Jogos Pan-Americanos, a renda líquida de um segundo teste da Loteria Esportiva Federal será destinada ao Comitê Olímpico Brasileiro-COB, para o atendimento da participação de delegações nacionais nesses eventos.
+§ 2º Ao Comitê Paraolímpico Brasileiro serão concedidas as rendas líquidas de testes da Loteria Esportiva Federal nas mesmas condições estabelecidas neste artigo para o Comitê Olímpico Brasileiro-COB.
