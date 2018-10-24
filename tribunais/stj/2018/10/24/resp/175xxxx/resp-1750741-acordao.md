@@ -1,0 +1,58 @@
+EMENTA
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. PRESCRIÇÃO E ÍNDICE DE CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ.
+I - Na origem, cuida-se de ação ajuizada em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando o restabelecimento de auxílio-doença acidentário, a concessão de auxílio-acidente ou de aposentadoria por invalidez.
+II - A alegação genérica de ofensa ao art. 1.022, II, do CPC/2015, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice do enunciado n. 284 da Súmula do STF.
+III - A ausência de prequestionamento impede a ascensão da matéria à instância extraordinária por meio de recurso especial, incidindo o óbice do enunciado n. 211 da Súmula do STJ :"Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+IV - Recurso especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, cuida-se de ação ajuizada por [NOME] em desfavor do Instituto Nacional do Seguro Social - INSS, objetivando o restabelecimento de auxílio-doença acidentário, a concessão de auxílio-acidente ou de aposentadoria por invalidez.
+Na primeira instância, os pedidos formulados na inicial foram julgados improcedentes. No Tribunal de Justiça do Distrito Federal e Territórios, a sentença foi parcialmente reformada em acórdão assim ementado:
+APELAÇÃO CÍVEL. AUXÍLIO-DOENÇA ACIDENTÁRIO - NEXO ENTRE A PATOLOGIA E AS ATIVIDADES LABORAIS. DEVER DE PAGAR AUXÍLIO DOENÇA - INCAPACIDADE LABORAL TEMPORÁRIA - COMPROVADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O auxílio-doença acidentário é o benefício devido ao segurado que ficar incapacitado para o trabalho ou para a atividade habitual, por mais de 15 dias, em razão de acidente do trabalho, doença profissional e doença do trabalho.
+2. Para o reconhecimento do direito ao recebimento do auxílio-doença acidentário é necessário que haja nexo de causalidade entre a doença ou a lesão desenvolvida pelo segurado bem como ausência de capacidade laboral.
+3. No caso dos autos a prova produzida demonstrou a incapacidade temporáriada segurada para o seu trabalho ou sua atividade habitual por mais de quinze dias consecutivos, decorrente de acidente do trabalho.
+4. Assim, constatada incapacidade laborai temporária, porquanto, em uma primeira perícia realizada pelo Juízo, o perito concluiu pela presença de seqüelas decorrente de acidente de trabalho, que incapacitou a segurada para atividades braçais, e provado que a segurada desenvolve serviços braçais, deve ser pago a ela auxílio-doença até a data da segunda perícia que aferiu não restar mais seqüelas e estar a segurada apta para o trabalho.
+5. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+O INSS interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal por ofensa ao art. 1.022 do CPC/2015; ao art. 1º-F da Lei n. 9.494/97, com redação dada pela Lei n. 11.960/09; ao art. 103, parágrafo único, da Lei n. 8.213/91.
+Alega que o Tribunal de origem, ao rejeitar os embargos de declaração com fundamentação genérica, violou o art. 1.022 do CPC/2015.
+Em relação ao mérito, alega que deve ser reconhecida a prescrição das parcelas vencidas antes do quinquênio que antecedeu o ajuizamento da ação, conforme prevê o art. 103 da Lei n. 8.213/91.
+Aduz que o acórdão contraria o artigo lº-F da Lei n. 9.494/97, com redação dada pela Lei n. 11.960/09, uma vez que estipula a incidência de correção monetária e juros de forma diversa da legal, ao determinar a aplicação do IPCA-E, após referido diploma legal.
+Apresentadas contrarrazões, a parte recorrida requer o desprovimento do recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Em relação à alegada violação ao art. 1.022, II, do CPC/2015, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, o fazendo de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa ao art. 1.022, II, do CPC/2015 atrai o comando do enunciado n. 284 da Súmula do STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp 962.465/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/4/2017, DJe 19/4/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 446.627/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+Quanto à matéria constante nos arts. 1º-F da Lei n. 9.494/97 e 103, parágrafo único, da Lei n. 8.213/91, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que dispõe ser "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ressalte-se que a falta de exame de questão constante de normativo legal apontado pelo recorrente nos embargos de declaração não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não é abordada pelo Sodalício, e o recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa.
+Sobre o assunto, destacam-se os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AVIAÇÃO AGRÍCOLA. ANOTAÇÃO DE RESPONSABILIDADE TÉCNICA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. INVIABILIDADE DA ANÁLISE DE RESOLUÇÃO DE CONSELHO PROFISSIONAL.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem apreciou integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+3. A Corte de origem nada teceu a respeito dos arts. 2º, § 2º, do Decreto-Lei 917/69. 2º, 5º, 6º, II, 15, do Decreto 86.765/81, apesar de instado a fazê-lo pelos embargos de declaração, razão pela qual incide o óbice da Súmula 211/STJ. "Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado" (AgRg no REsp 1386843/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 24/2/2014) 4. A matéria pertinente ao art. 97, I, do CTN também não foi objeto dos embargos declaratórios opostos perante o Tribunal a quo. Assim, não prospera o argumento tecido pela parte agravante para o afastamento do óbice previsto na Súmula 282/STF.
+5. O exame de eventual violação dos demais dispositivos tidos por contrariados pela agravante exigiria a análise das Resoluções do CONFEA, pretensão insuscetível de ser apreciada em recurso especial. Isso porque tais resoluções não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.035.738/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/2/2017, DJe 23/2/2017).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. APROVAÇÃO DE CANDIDATO EM CADASTRO DE RESERVA. PRETERIÇÃO. MANUTENÇÃO DE SERVIDORES CONTRATADOS IRREGULARMENTE. PRESTAÇÃO JURISDICIONAL INADEQUADA. DESCARACTERIZAÇÃO DA OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. CONTRADIÇÃO EXTERNA. HIPÓTESE DE CABIMENTO INEXISTENTE PARA OS EMBARGOS DE DECLARAÇÃO. DISCUSSÃO ACERCA DA NECESSIDADE DE PROVA PERICIAL. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. VIOLAÇÃO A NORMAS FEDERAIS. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. SÚMULA 284/STF.
+ ..
+6. O prequestionamento advém do debate da temática processual à luz de determinado preceito legal federal, ou seja, é forçoso que o Tribunal da origem interprete os fatos processuais e sobre eles proceda juízo de valor para adequa-los ou não a determinado preceptivo federal, realizando assim a subsunção do fato à norma, o que absolutamente inexistiu no acórdão da origem, que não se sustentou nos arts. 130, 131, 331, § 2.º, 333, inciso I, 436, 437, 438 e 439, todos do [PLACA], mas apenas na Lei 8.112/1990 e na Constituição da República.
+7. O prequestionamento não é a indicação do preceito legal, mas o debate de determinada tese de acordo com certa norma jurídica (inscrita no preceito), de maneira a que a falta de apontamento de lei não importa a falta de prequestionamento, mas tampouco a ausência de debate significa o prequestionamento ""implícito"".
+8. Agravo regimental não provido.
+(AgRg no REsp 1.581.104/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/4/2016, DJe 15/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+É o voto.
