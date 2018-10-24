@@ -1,0 +1,70 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/1973). DANO MORAL. INSCRIÇÃO INDEVIDA DO NOME DO CONSUMIDOR NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. DANOS MORAIS PRESUMIDOS. AUSÊNCIA DE COMPROVAÇÃO DA REGULARIDADE DA COBRANÇA EFETUADA. REVISÃO. SÚMULA Nº 7/STJ. VALOR. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por CENTRO NACIONAL DE AUXILIO AO SERVIDOR PUBLICO - CENASP, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que restou assim ementado:
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO NÃO FIRMADO. RESTRIÇÃO INDEVIDA. DANO MORAL. OCORRÊNCIA. VERBETE N. 89 DA SÚMULA DO TJRJ. MAJORAÇÃO DA VERBA REPARATÓRIA A TÍTULO DE DANO MORAL. PRECEDENTES DESTA CORTE. RECURSO DESPROVIDO. DECISÃO MANTIDA.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 251/254).
+Em seu recurso especial, o recorrente alega violação aos arts. 14, caput e § 3º, I do CDC e 944, parágrafo único do CC, sustentando ausência de ilícito a ensejar a indenização por dano moral, haja vista a regularidade da cobrança do débito, e excesso no valor arbitrado à título de indenização.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece provimento.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+Quanto ao dano moral, o Tribunal de origem concluiu pela injusta restrição cadastral, haja vista a ausência de provas da existência de vínculo contratual que desse origem a cobrança efetuada e autorizasse a restrição, in verbis:
+A hipótese é de negar-se provimento ao presente agravo, na medida em que a recorrente não trouxe nenhum argumento que não fora analisado quando da apreciação do recurso, tampouco assertiva nova a ensejar a modificação da convicção exarada, pelo que se impõe a manutenção do decisum, lançado nos seguintes termos:
+ .. .
+O documento de fl. 13 demonstra o efetivo apontamento negativo mencionado.
+A parte ré, por sua vez, não logrou êxito em comprovar a origem do débito, limitando-se a afirmar que não praticou ato ilícito a ensejar a condenação que lhe fora imposta, não se desincumbindo do ônus imposto pelo art. 333, II, do CPC.
+Prova de fácil produção, podendo instruir a ação com a cópia de contrato em que figure a autora como parte devedora e inadimplente, o que não fez.
+Correta, nesse aspecto, a solução apresentada pela sentença recorrida, uma vez que aquela magistrada consignou: " ..  Mesmo que não seja enquadrada a relação jurídica entre as partes no CDC, fato é que a ré comportou-se na forma do art.
+333, II do CPC e lhe caberia o ônus da prova de demonstrar que a autora era, ou é sua filiada, o que não ocorreu, eis que a ré não requereu prova alguma em sua contestação. Ora, não fez a parte Ré qualquer prova documental idônea da existência de vínculo contratual que desse origem à cobrança efetuada e autorizasse o lançamento do nome da parte Autora no rol de maus pagadores.".
+No que tange à reparação a título de danos morais, o simples fato de ter o nome incluído em cadastro de inadimplente acarreta descrédito econômico, causando reflexo na esfera moral da pessoa, que se sente humilhada, diminuída, então gera, independentemente de prova, dano moral passível de indenização. (e-STJ fls. 234/235).
+Acerca da questão, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a inscrição indevida em cadastro negativo de crédito caracteriza, por si só, dano in re ipsa, ou seja, presumido, em que não se exige a comprovação do abalo psicológico sofrido pela vítima. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. 1. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO IN RE IPSA. IMPOSSIBILIDADE DE FIXAÇÃO DO QUANTUM. APLICAÇÃO DA SÚMULA N. 385 DO STJ. 2. REQUERIMENTO DA PARTE AGRAVADA PARA APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. IMPROCEDÊNCIA. 3. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com a jurisprudência desta Casa, a "inscrição indevida em cadastro negativo de crédito, bem como o protesto indevido caracterizam, por si sós, dano in re ipsa, o que implica responsabilização por danos morais".
+2. Entretanto, no caso em questão, o recorrente não justificou as outras ocorrências existentes em seu nome, em razão de débitos não pagos, o que atrai a aplicação da Súmula n. 385 do STJ: "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento."
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno improvido.
+(AgInt no AREsp 1.030.394/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/04/2017, DJe 18/04/2017).
+RECURSO ESPECIAL. DANO MORAL. CADASTRO DE INADIMPLENTES. TÍTULO QUITADO. INSCRIÇÃO INDEVIDA. INDENIZAÇÃO. AFASTAMENTO OU REDUÇÃO. INVIABILIDADE. SÚMULA Nº 7/STJ. DANO MATERIAL. MÚTUO. NEGÓCIO FRUSTRADO. VALOR OBJETO DO CONTRATO NÃO APERFEIÇOADO. RESSARCIMENTO. EFETIVO PREJUÍZO. AUSÊNCIA. DANO EMERGENTE. INEXISTÊNCIA.
+1. A inscrição ou manutenção indevida do nome do devedor no cadastro de inadimplentes acarreta, conforme jurisprudência reiterada deste Tribunal, o dano moral in re ipsa, ou seja, dano vinculado à própria existência do fato ilícito, cujos resultados são presumidos.
+Precedentes.
+2. (..)
+6. Recurso especial parcialmente provido.
+(REsp 1.369.039/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+Dessa forma, correta está a condenação da parte recorrente ao pagamento de indenização à recorrida a título de danos morais em razão da indevida inscrição do seu nome no cadastro de inadimplentes.
+Ademais, verifica-se que o Tribunal a quo reconheceu estar configurada a responsabilidade, haja vista a ausência de comprovação pela parte Recorrente de vínculo contratual que desse origem à cobrança efetuada e autorizasse o lançamento do recorrido no rol de maus pagadores.
+Em vista disso, a reforma do acórdão recorrido é inviável, eis que para elidir a conclusão a que chegou o Tribunal de origem, a respeito da regularidade da cobrança efetuada, seria necessário reexaminar provas e fatos, o que é vedado em sede de recurso especial.
+Aplica-se, portanto, na espécie, a Súmula nº 7 deste Superior Tribunal de Justiça. Sobre o tema, confira-se os seguintes precedentes desta Corte Superior:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. SÚMULA 385 DO STJ. APLICABILIDADE. DEVER DE INDENIZAR. AUSÊNCIA. INSCRIÇÕES PRETÉRITAS. PESSOA DIVERSA DA PARTE RECORRENTE. REEXAME DE MATÉRIA DE FATO. PREQUESTIONAMENTO. INEXISTÊNCIA.
+1. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (enunciado 385 da Súmula do STJ).
+2. A tese defendida no recurso especial demanda o reexame do conjunto fático e probatório dos autos, vedado pelo enunciado 7 da Súmula do STJ.
+3. A ausência de prequestionamento dos dispositivos legais tidos por violados impede o conhecimento do recurso especial (enunciados 282 e 356 da Súmula do STF).
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 645.529/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 18/3/2015).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. 1. SUSPENSÃO DO PROCESSO. ART. 543-C DO CPC. DESNECESSIDADE. 2. EXISTÊNCIA DE OUTROS DÉBITOS VENCIDOS E NÃO PAGOS. SÚMULA 385/STJ. 3. DANO MORAL NÃO CONFIGURADO. REVISÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. AGRAVO REGIMENTAL IMPROVIDO.
+1. Ao que se refere a submissão da matéria ao rito do art. 543-C do CPC, é certo que a suspensão do feito só alcança os processos que ainda não ascenderam aos tribunais superiores.
+2. É assente o entendimento no STJ, refletido na Súmula 385 desta Corte, de que a ocorrência de inscrições pretéritas legítimas em cadastro de inadimplentes obsta a concessão de indenização por dano moral em virtude de inscrição posterior, ainda que esta seja irregular.
+3. A alteração do julgado com relação a existência, ou não, do nome do recorrente em cadastro de inadimplentes em razão de outros débitos, ocasionaria o revolvimento de fatos e provas, providência vedada em recurso especial, nos termos do enunciado n. 7/STJ.
+4. Agravo regimental improvido. (AgRg no REsp 1.502.587/MG, Relator Ministro MARCO AURÉLIO BELIZZE, TERCEIRA TURMA, julgado em 03/03/2016, DJe 14/3/2016).
+No que diz respeito ao quantum, o Superior Tribunal de Justiça pacificou entendimento segundo o qual "a revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo" (AgRg no AREsp 453.912/MS, Relator Ministro João Otávio de Noronha, DJe de 25/08/2014).
+Na espécie, verifica-se que o tribunal a quo fixou em R$ 10.000,00 (dez mil reais) a indenização por danos morais, que não se revela elevada e guarda consonância com os princípios da razoabilidade e da proporcionalidade, além de estar em perfeita harmonia com a jurisprudência desta Corte.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO MORAL CONFIGURADO. MODIFICAÇÃO DO QUANTUM FIXADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. DIVERGÊNCIA JURISPRUDENCIAL. NÃO OCORRÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA. 3. TERMO INICIAL. JUROS DE MORA. SÚMULA N. 54 DO STJ. 4. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se revela possível alterar o valor fixado a título de danos morais sem esbarrar no óbice da Súmula 7/STJ, valendo ressaltar que o Superior Tribunal de Justiça, nesses casos, apenas atua na hipótese de manifesta desproporcionalidade, o que não ocorre na espécie.
+2. Em regra, esta Corte não admite recurso especial pela alínea c com o objetivo de alterar o quantum indenizatório, em razão das peculiaridades de cada caso. Precedentes.
+3. Os juros de mora contam-se desde o evento danoso, nas hipóteses de responsabilidade civil extracontratual. Enunciado n. 54/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 738.576/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2015, DJe 27/11/2015) - (valor indenizatório fixado: R$ 7.000,00).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRAUDE PRATICADA POR TERCEIROS COM DOCUMENTOS DA AUTORA. RESPONSABILIDADE OBJETIVA DAS INSTITUIÇÕES FINANCEIRAS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. RELAÇÃO EXTRACONTRATUAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. AGRAVO IMPROVIDO.
+1. No julgamento do Recurso Especial Repetitivo nº 1.197.929/PR (Rel. Min. Luis Felipe Salomão, DJe de 12/9/2011), processado nos moldes do art. 543-C do CPC, foi firmado o entendimento de que "as instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno".
+2. A Corte de origem, mediante análise do conjunto fático-probatório dos autos, concluiu que ficou comprovado que não foi a autora quem contratou com a requerida, mas sim terceira pessoa por ela se fazendo passar. Nesse contexto, a alteração das premissas fáticas adotadas pela Corte de origem demandaria o reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. É possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame. Isso, porque o valor da indenização por danos morais em razão da inscrição indevida do nome da autora em cadastro de inadimplentes, arbitrado em R$ 10.000,00 (dez mil reais), não é desproporcional ou desarrazoado.
+4. A jurisprudência das Turmas que integram a Segunda Seção deste Tribunal é uníssona no sentido de que "os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual", sejam os danos morais ou materiais (incidência da Súmula 54/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 889.334/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/12/2016, DJe 19/12/2016).
+À vista disso, constata-se a impossibilidade de revisão do quantum indenizatório por este Superior Tribunal de Justiça, porquanto imprescindível, para tanto, a revisão fático-probatória, o que é vedado a teor da Súmula nº. 7/STJ.
+Destarte, a pretensão recursal não merece prosperar.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intime-se.
