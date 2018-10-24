@@ -1,0 +1,19 @@
+DECISÃO
+DIREITO PREVIDENCIÁRIO E PROCESSUAL PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGAÇÃO DE INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL PARA JULGAR O FEITO. NÃO CONFIGURAÇÃO DA NATUREZA ACIDENTÁRIA DA AÇÃO. MATÉRIA DE ORDEM PÚBLICA SUSCITADA NA CORTE DE ORIGEM. EMBARGOS DE DECLARAÇÃO DO INSS ACOLHIDOS.
+1. Cuida-se de Embargos de Declaração ajuizados pelo INSS em face da decisão que negou seguimento ao seu Recurso Especial ao fundamento de que não há qualquer omissão no acórdão recorrido que justifique o reconhecimento da violação ao art. 535 do CPC/1973.
+2. Sustenta a Autarquia que a questão levantada como omissa diz respeito à incompetência do Juízo, matéria de ordem pública que pode ser levantada a qualquer tempo, inclusive em sede de Embargos de Declaração na origem.
+3. É o relatório.
+4. Assiste razão à Autarquia.
+5. O que se verifica da leitura do acórdão da petição de Embargos de Declaração às fls. 140/145, é que a Autarquia, ainda quando em trâmite a ação nas instâncias ordinárias, suscitou a questão da incompetência do Juízo, matéria de ordem pública, que deveria ter sido devidamente enfrentada pela Corte de origem.
+6. Confirmando tal orientação, os seguintes julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. APELAÇÃO CÍVEL E EFEITO TRANSLATIVO DA REMESSA NECESSÁRIA. QUESTÃO DE ORDEM PÚBLICA. LEGITIMIDADE PASSIVA DO SÓCIO. MATÉRIA RELEVANTE. ACÓRDÃO RECORRIDO. OMISSÃO. CONTRARIEDADE AO ART. 535, II, DO CPC/1973. NULIDADE.
+1. A análise das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos da Fazenda Nacional, revela que houve omissão no acórdão combatido quanto à ilegitimidade passiva. Por tratar-se de uma das condições da ação, é matéria de ordem pública cognoscível a qualquer tempo e grau, sendo insuscetível de preclusão nas instâncias ordinárias.
+2. Não havendo a Corte local se pronunciado a respeito de referida alegativa, caracteriza-se afronta ao art. 535 do CPC/1973 e impõe-se a anulação da decisão proferida nos embargos, a fim de que outra seja prolatada com apreciação da questão.
+3. Agravo interno a que se nega provimento (AgInt no REsp. 1.448.327/SP, Rel. Min. OG FERNANDES,DJe 22.8.2018).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE ASTREINTES. IMPUGNAÇÃO. MULTA FIXADA EM CUMPRIMENTO DE SENTENÇA DE HOMOLOGAÇÃO DE ACORDO DE ALIMENTOS. ENTREGA DE BEM IMÓVEL. OBRIGAÇÃO INCERTA. AUSÊNCIA DE INDIVIDUALIZAÇÃO DA COISA. INEXIGIBILIDADE DA MULTA. MATÉRIA SUSCITADA EM EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. INEXISTÊNCIA. QUESTÃO DE ORDEM PÚBLICA. EXIGIBILIDADE DO TÍTULO EXECUTIVO. CONDIÇÃO DA AÇÃO EXECUTIVA. OMISSÃO RELEVANTE (CPC/73, ART. 535). AGRAVO PROVIDO.
+1. Arguida, em embargos de declaração, a inexigibilidade da multa (astreintes) fixada em sede de cumprimento de sentença de homologação de acordo, em razão da ausência de individualização do bem imóvel a ser entregue pelo devedor, a Corte local limitou-se a afirmar que se tratava de inovação recursal e supressão de instâncias, ignorando tratar-se de questão de ordem pública, relativa à própria exigibilidade do título executivo.
+2. As matérias de ordem pública, conhecíveis de ofício pelas instâncias ordinárias, ainda que suscitadas apenas em embargos de declaração, devem ser examinadas pelo Tribunal de origem, sob pena de omissão.
+3. Agravo interno provido, para dar provimento ao recurso especial (AgInt no AREsp. 660.837/CE, Rel. Min. LUIS FELIPE SALOMÃO, Rel. p/Acórdão Min. RAUL ARAÚJO, DJe 16.5.2017).
+7. Nestes termos, acolhem-se os Embargos de Declaração do INSS para dar provimento ao seu Recurso Especial, determinando-se o retorno dos autos à origem para que prossiga no julgamento analisando a omissão apontada, à luz das provas carreadas aos autos.
+8. Publique-se. Intimações necessárias.
