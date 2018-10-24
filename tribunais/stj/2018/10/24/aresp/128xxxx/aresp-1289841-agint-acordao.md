@@ -1,0 +1,40 @@
+EMENTA
+TRIBUTÁRIO. EXECUÇÃO FISCAL. BACENJUD. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DOS ENUNCIADOS N. 211 DA SÚMULA DO STJ, E 282 E 356 DA SÚMULA DO STF. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem trata-se de agravo de instrumento contra decisão que, nos autos de execução fiscal, indeferiu o pedido para que fossem bloqueados os ativos financeiros indisponibilizados via Bacenjud. Negou-se provimento ao agravo, no Tribunal a quo.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ : "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1234093/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 03/05/2018; AgInt no AREsp 1173531/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/03/2018, DJe 26/03/2018.
+IV - Relativamente à demais alegações de violação a dispositivos infraconstitucionais, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial".
+V - Ressalte-se ainda que a incidência do enunciado n. 7 quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+VI - Ainda que assim não fosse, o dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+VII - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu agravo em recurso especial interposto por AUTO RENOVADORA BOFF LTDA contra decisão que negou seguimento ao recurso especial na origem. O recurso especial foi interposto contra julgado do E. TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, com a seguinte ementa:
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL ATIVOS FINANCEIROS BACENJUD PESSOA JURÍDICA IMPENHORABILIDADE NÃO COMPROVAÇÃO
+Aponta a parte recorrente violação de dispositivos infraconstitucionais e constitucionais.
+Negou-se seguimento ao recurso especial com base nos seguintes fundamentos: Súmula 7/STJ.
+Foi interposto agravo em recurso especial.
+A decisão monocrática tem o seguinte dispositivo:"Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo em recurso especial, para não conhecer do recurso especial. ".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Nos termos do enunciado n. 568 da Súmula desta Corte Superior e do art. 255, § 4º, inciso III, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Assim, não há que se falar em ilegalidade relativamente a este ponto.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ : "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1234093/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2018, DJe 03/05/2018; AgInt no AREsp 1173531/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/03/2018, DJe 26/03/2018.
+Relativamente à demais alegações de violação a dispositivos infraconstitucionais, a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial".
+Ressalte-se ainda que a incidência do enunciado n. 7 quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇO DE AUDITORIA FINANCEIRA. AÇÃO MONITÓRIA. HONORÁRIOS AD EXITUM. PRODUÇÃO DE PROVAS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Segundo jurisprudência do STJ, ao juiz, como distinatário da prova, cabe indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa. Incidência da Súmula 7 do STJ.
+2. A incidência da Súmula 7 do STJ impede o exame da divergência, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.044.194/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/10/2017, DJe 27/10/2017).
+Ainda que assim não fosse, o dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
