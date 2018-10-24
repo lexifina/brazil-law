@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 233):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DO INDÉBITO E INDENIZATÓRIA. TARIFA DE ESGOTO. COBRANÇA CONDICIONADA À EFETIVA PRESTAÇÃO DO SERVIÇO. INOBSERVÂNCIA DO ARTIGO 3º, DA LEI Nº 11.445/2007. REPETIÇÃO DO INDÉBITO. PRAZO PRESCRICIONAL DECENAL. ARTIGO 205 DO CÓDIGO CIVIL. PRETENSÃO FUNDADA NA COBRANÇA, PELO FORNECEDOR, DE VALORES INDEVIDOS. PRECEDENTES JURISPRUDENCIAIS DO STJ E DESTE TRIBUNAL DE JUSTIÇA. DESPROVIMENTO DO RECURSO. DECISÃO MANTIDA.
+Embargos de declaração rejeitados (e-STJ fls. 250/253).
+No especial obstaculizado, o ora agravante, além de divergência jurisprudencial, apontou violação do art. 45 da Lei n. 11.445/2007 e do art. 9º do Decreto n. 7.217/2010.
+Alegou, inicialmente, que o caso discutido se subsume àquele decidido no recurso repetitivo n. 1.339.313/RJ (Tema n. 565 do STJ). Defendeu a legalidade da cobrança da tarifa de esgoto, a impossibilidade de devolução das quantias pagas e o prazo prescricional para restituição de eventual indébito.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que desafiou a interposição do presente agravo.
+Contraminuta.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Considerado isso, observa-se que a matéria em debate foi examinada pela sistemática dos recursos repetitivos, a partir do julgamento do REsp 1.339.313/RJ (Tema n. 565), no qual foi firmada a tese de que a legislação que rege a matéria dá suporte para a cobrança da tarifa de esgoto mesmo ausente o tratamento final dos dejetos, principalmente porque não estabelece que o serviço público de esgotamento sanitário somente existirá quando todas as etapas forem efetivadas, tampouco proíbe a cobrança da tarifa pela prestação de uma só ou de algumas dessas atividades.
+Nos termos do art. 543-C, § 7º, II, c/c o § 8º do CPC/1973, uma vez publicado o acórdão do Superior Tribunal de Justiça proferido no julgamento de representativo de controvérsia, os recursos especiais sobrestados na origem serão novamente examinados pelo Tribunal a quo, na hipótese de o julgado recorrido divergir da tese firmada e de ser mantida a decisão divergente pelo colegiado, far-se-á o exame de admissibilidade do apelo nobre.
+Já o art. 1.030, II c/c V, "c", do Novel Diploma Processual determina que caberá ao Presidente ou ao Vice-Presidente do Tribunal recorrido encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Superior Tribunal de Justiça exarado no regime de recursos repetitivos e, se refutado o juízo de retratação, realizar a admissibilidade do recurso.
+Na hipótese, a Terceira Vice-Presidência da Corte a quo decidiu nos seguintes termos (e-STJ fl. 331):
+Quando do julgamento do mérito do REsp nº 1.339.313/RJ, paradigma do Tema nº 565, o Superior Tribunal de Justiça se pronunciou de acordo com a seguinte ementa: "(..)"
+(..)
+Ocorre que o acórdão recorrido não contraria propriamente os termos da tese, vez que o julgado não reconhece qualquer das fases do serviço de esgotamento.
+Neste caso, o mérito do recurso depende da apreciação do contexto fático-probatório, o que é vedado pelo Verbete nº 7 da Súmula do STJ ("A PRETENSÃO DE SIMPLES REEXAME DE PROVA NÃO ENSEJA RECURSO ESPECIAL"; Corte Especial; julgado em 28/06/1990; DJ 03/07/1990).
+Na medida em que o recurso envolve valoração dos fatos, o que é inadmissível em sede de recurso especial, resta prejudicada sua admissibilidade igualmente com base na alínea "c" do artigo 105, III, da Constituição Federal, vez que impedida a análise dos fundamentos a propiciar a confrontação dos julgados.
+(..)
+Por fim, apesar da referência que o recorrente faz à inaplicabilidade do artigo 42, parágrafo único, do CDC, é certo que sua condenação não determinou a dobra do indébito, sendo que, estando o argumento dissociado dos termos do acórdão recorrido, é de se reconhecer sua inépcia, neste ponto (Súmula 284 do STF).
+Pelo exposto, na forma do art. 1.030, V, do Código de Processo Civil, INADMITO o recurso.
+Como se vê, não houve a prévia submissão do recurso ao órgão colegiado competente para exercer o juízo de conformidade antes de se proceder à análise dos pressupostos de admissibilidade recursal.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que exerça o juízo de conformidade nos termos do art. 543-C, § 7º, II, do CPC/1973, então vigente.
+Publique-se. Intimem-se.
