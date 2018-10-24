@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interpostos por Instituto de Previdência de Itajaí - IPI contra decisão que negou provimento ao recurso especial (e-STJ, fls. 400-403).
+Aduz o embargante que há obscuridade na decisão ora recorrida, uma vez foi decidida monocraticamente com fundamento no art. 932 do CPC/2015, contudo a jurisprudência que fundamenta a decisão não é uníssona e nem está firmada em grau de repetitivo ou de súmula.
+Sustenta que fundamentou corretamente as razões do recurso especial e apresentou jurisprudência que permite que o pagamento da pensão se dê da habilitação efetiva em juízo e não na instância administrativa.
+É o relatório.
+Os embargos de declaração, como dispõe o art. 1.022 do CPC/2015, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+Não há qualquer omissão, obscuridade, contradição na decisão combatida.
+Segundo consignado na decisão ora recorrida (e-STJ, fls. 400-403), foi negado provimento ao pleito recursal, uma vez que a decisão firmada pela Corte local está em harmonia com a orientação do STJ.
+O embargante, nas razões do recurso especial, entende que o pagamento deve ocorrer do ajuizamento da ação, uma vez que a condição de segurada foi reconhecida nos autos.
+Contudo, o Tribunal de origem, na análise dos elementos dos autos, entendeu que a embargada já havia apresentados os documentos na habilitação administrativa, na qual houve a negativa. E, dessa forma, este era o momento que deveria ter ocorrido a habilitação (e-STJ, fls. 328-329):
+Por esse motivo, tendo em vista que lei local de regência não prevê o pagamento desde a data do requerimento neste caso, mas da data da habili- tação, esta deve ser observada, assim considerado o dia em que houve a nega- tiva administrativa, visto que nesta ocasião - após a apreciação dos documentos apresentados - deveria ter ocorrido a habilitação.
+ ..  Nesse panorama, dá-se provimento parcial ao apelo da autora para(,) determinar que o pagamento da pensão por morte seja efetuado a partir do dia em que o réu indeferiu o pedido de habilitação (negativa administrativa).
+Ocorre que a decisão recorrida encontra-se em harmonia com a orientação firmada por esta Corte Superior de que, comprovada a qualidade de companheira à época do requerimento administrativo, o benefício previdenciário é devido desde a data do indeferimento do pedido.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. TESE CONTRÁRIA AO DO EMBARGANTE. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. FALTA. SERVIDOR PÚBLICO CIVIL. PENSÃO POR MORTE. COMPANHEIRA. REDUÇÃO DA PENSÃO VITALÍCIA DA EX-ESPOSA. TERMO INICIAL DO BENEFÍCIO. DATA DO REQUERIMENTO NA VIA ADMINISTRATIVA. 1. Esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. 2. Nos termos dos artigos 215, 218, parágrafo único, 219, parágrafo único, da Lei n. 8.112/1990, uma vez concedida integralmente a pensão por morte de servidor público a outros beneficiários já habilitados, a posterior habilitação que incluir novo dependente produz efeitos a partir de seu requerimento, sobretudo tendo em vista a presunção de que naquela oportunidade houve a ciência da Administração sobre o fato gerador a ensejar a concessão do benefício. Precedentes. 3. Recurso especial não provido. (REsp 1.348.823/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 18/2/2013 - grifos acrescidos)
+Esclareça-se, por oportuno, que os precedentes indicados pelo embargante não se amoldam perfeitamente ao caso, já que, na hipótese, houve o indeferimento administrativo do pedido da embargada.
+Ressalte-se, ainda, que a Corte Especial do STJ aprovou em 16/3/2016 o enunciado n. 568 da Súmula do STJ que possui a seguinte redação: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Desse modo, não há qualquer impropriedade no fato de a decisão embargada ter sido decidida monocraticamente.
+Percebe-se que o embargante maneja os presentes aclaratórios em virtude tão somente de seu inconformismo com a decisão ora combatida, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil a inquinar tal decisum.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
