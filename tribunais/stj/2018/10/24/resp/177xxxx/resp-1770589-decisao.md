@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Consta dos autos que os réus foram condenados como incursos no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas), às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 dias-multa, e de 7 (sete) anos de reclusão, em regime inicial fechado, e 700 dias-multa, respectivamente, conforme a sentença de fls. 273-286.
+A acusação interpôs recurso de apelação, pleiteando a aplicação da causa de aumento do art. 40, V, da Lei Antidrogas.
+Os réus/sentenciados também apelaram, pretendendo o primeiro recorrido o reconhecimento do tráfico privilegiado, com a alteração do regime prisional e a substituição da pena privativa de liberdade por restritiva de direitos, e o afastamento da natureza hedionda do crime; o segundo recorrido alegou preliminar de nulidade e, no mérito, o reconhecimento do tráfico privilegiado, a alteração do regime prisional e a substituição da pena privativa de liberdade por restritiva de direitos, além do afastamento da natureza hedionda do crime.
+O Tribunal de origem deu provimento ao recurso ministerial e parcial provimento aos apelos defensivos, conforme o acórdão assim ementado:
+APELAÇÕES CRIMINAIS - TRÁFICO DE ENTORPECENTES - INTERPOSIÇÃO DEFENSIVA. PRELIMINAR - NULIDADE DO PROCESSO POR DEFICIÊNCIA DE DEFESA - PREFACIAL AFASTADA. ABSOLVIÇÃO - PROVAS DE AUTORIA E MATERIALIDADE DELITIVA - CONDENAÇÃO MANTIDA. INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DE PENA - TRÁFICO PRIVILEGIADO - REQUISITOS PREENCHIDOS - BENEFÍCIO CONCEDIDO. CARÁTER HEDIONDO - AFASTAMENTO. CONFISSÃO ESPONTÂNEA - BENESSE INDEVIDA. ALTERAÇÃO DO REGIME PRISIONAL - CONDIÇÕES QUE JUSTIFICAM A FIXAÇÃO DO REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS - REQUISITOS NÃO PREENCHIDOS. RECURSOS PARCIALMENTE PROVIDOS.
+I - Verificando-se, na hipótese, que o apelante esteve assistido por seu advogado em todos os atos praticados no processo, não se observando, ademais, nenhuma teratologia nas teses de direito apresentadas, afasta-se a preliminar de nulidade por deficiência de defesa.
+II - A teor do disposto pelo artigo 155 do CPP, a convicção do juiz deve formar-se pela livre apreciação das provas produzidas sob a égide do contraditório judicial. Depoimentos de policiais, tomados na fase inquisitorial, confirmados em Juízo e que mantém coerência com outros elementos de prova existentes nos autos são aptos para justificar decreto condenatório.
+III - O fato de os agentes transportarem significativa quantidade de substância entorpecente (3 Kg de cocaína) não obsta, por si só, a incidência da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/2006, quando as demais circunstâncias não demonstram participação em atividades próprias de organização criminosa e tampouco dedicação a atividades ilícitas.
+IV - O reconhecimento do tráfico privilegiado, previsto pelo § 4º do artigo 33 da Lei nº 11.343/06, afasta o caráter hediondo do crime de tráfico de entorpecentes.
+V - Inaplicável a atenuante da confissão espontânea quando o acusado, em nenhum momento, confessou a autoria do ilícito.
+VI - Possível a fixação do regime semiaberto quando se trata de tráfico privilegiado, com penas fixadas em patamar abaixo de 08 anos.
+VII - Impossível a substituição da pena privativa de liberdade por restritiva de direitos, quando a pena definitiva ultrapassa o limite de 04 (quatro) anos, nos termos previstos pelo art. 44 do CP.
+VIII - Recursos defensivos parcial providos, em parte com o parecer.
+INTERPOSIÇÃO MINISTERIAL - CAUSA DE AUMENTO DE PENA - ART. 40, V, DA LEI 11.343/2006 - DESNECESSIDADE DE TRANSPOSIÇÃO DE FRONTEIRAS ENTRE UNIDADES DA FEDERAÇÃO - ELEMENTO VOLITIVO - SUFICIÊNCIA. RECURSO PROVIDO.
+I - Para a incidência da majorante prevista no artigo 40, inciso V, da Lei n.º 11.343/06 é desnecessária a efetiva transposição de fronteiras entre unidades da Federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual. Reconhece-se a interestadualidade do tráfico quando a prova demonstra, com suficiência, que a intenção era a de transportar a substância entorpecente apreendida para o Estado do Paraná.
+II - Recurso ministerial provido, com o parecer (fls. 543-544).
+No presente recurso a acusação alega violação do art. 33, § 4º, da Lei n. 11.343/2006 e divergência jurisprudencial.
+Sustenta que "os recorridos incorrem na proibição de se dedicar às atividades criminosas, tendo em vista a quantidade e natureza de droga apreendida (3 kg de cocaína), o transporte interestadual, e ainda a confissão de que pagaram R$ 26.000,00 pela droga na cidade de Ponta Porã. Confessaram ainda que foram contratados em Foz do Iguaçu/PR para levar a droga" (fl. 574).
+Alega que a grande quantidade de droga transportada entres Estados da Federação e o seu valor afastam a possibilidade de serem tratados como "mulas", não estando preenchidos os requisitos exigidos para a aplicação da benesse.
+As contrarrazões foram apresentadas às fls. 607-617. Admitido o recurso especial (fls. 619-621), os autos vieram a esta Corte.
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 632-633).
+É o relatório. Decido.
+O recurso é tempestivo e a matéria foi prequestionada.
+A irresignação merece provimento.
+Na operação dosimétrica o Juízo de primeiro grau não aplicou o redutor previsto no art. 33, § 4º da Lei n. 11.343/06, sob o fundamento da grande quantidade de droga (fls. 282-283).
+Por sua vez, o acórdão recorrido aplicou a causa de diminuição, consignando:
+No caso, os apelantes não registram antecedentes, e tiveram o benefício negado em primeira instância ao fundamento de que (f. 310-311) "tendo em vista que a grande quantidade de droga apreendida evidencia que o réu se dedica às atividades criminosas, não restando preenchidos os requisitos para aplicação do instituto do tráfico privilegiado".
+Ou seja, foi exclusivamente por conta da quantidade do produto apreendido que a sentença considerou que a apelante faz parte de organização criminosa.
+Entretanto, a quantidade da droga, isoladamente, não basta para demonstrar a integração do agente a organização criminosa nem a dedicação a atividade criminosa; exige-se presença de outros elementos de prova que, somados, excluam qualquer dúvida acerca da configuração desse tipo de comportamento.
+ ..
+No caso dos autos, entretanto, não se vislumbra a presença de outros elementos seguros a apontar integração a organização criminosa ou dedicação a atividade criminosa.
+Consoante acima mencionado, os apelantes uniram-se para buscar a droga em Ponta Porã para, posteriormente, revendê-la em Foz de Iguaçu-PR, não havendo outras provas a demonstrar que integrassem organização criminosa, ou mesmo se dedicassem à atividade criminosa, parecendo-me, mais, que são neófitos na prática de tal empreitada ilícita, de maneira que, com base em ilações, não se pode negar o benefício pleiteado.
+De tal sorte, reconhece-se em favor da apelante o benefício previsto pelo § 4º do artigo 33 da Lei nº 11.343/06.
+O quantum a ser reduzido deve ser o mínimo previsto pela norma em razão de a quantidade ser relevante (fls. 551-553).
+Contudo, registra-se que "esta Corte Superior tem decidido que a quantidade, a variedade e a nocividade das drogas apreendidas, aliadas às circunstâncias em que ocorreu o delito, evidenciam a dedicação à atividade criminosa e, em decorrência, podem embasar o não reconhecimento da minorante do § 4º do art. 33 da Lei n. 11.343/2006. Precedentes" (HC 306.019/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 22/6/2016).
+Assim, deve ser reformado o acórdão recorrido que aplicou o redutor da pena, pois o réu foi apreendido com 3 Kg de cocaína. Sobre o tema:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. VIA INADEQUADA. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. NATUREZA E QUANTIDADE DE ENTORPECENTES. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INOCORRÊNCIA. PRÁTICA DE ATIVIDADE CRIMINOSA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA.
+ ..
+4. Hipótese em que o Tribunal de origem justificou o quantum de exasperação da pena-base, em razão da quantidade e da natureza das drogas apreendidas (30 buchas de maconha, 2,286kg de pasta base para cocaína, 599g de maconha, 18g de farelo de crack e maconha, 28g de crack). Descabe falar em flagrante constrangimento ilegal a ser sanado, porque a fixação da fração fundou-se em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+5. Para a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 a 2/3, a depender das circunstâncias do caso concreto.
+ ..
+7. No caso, o Tribunal a quo afastou a incidência da minorante por entender que a paciente se dedicava à atividade criminosa, diante da quantidade de drogas apreendidas e da confissão de que realizava a traficância há 1 ano.
+8. A diversidade de entorpecentes justifica a fixação de regime mais severo, nos termos dos arts. 33 e 59 do Código Penal, c/c o art. 42 da Lei n. 11.343/2006.
+9. Habeas corpus não conhecido (HC 344.032/ES, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 15/3/2016).
+Passo ao refazimento da pena dos ora recorridos.
+[NOME]:
+Mantida a pena-base fixada na sentença em 7 anos de reclusão e aplicada a atenuante da confissão e da menoridade, fica a pena em 5 anos de reclusão. Na terceira fase, incide a causa de aumento prevista no art. 40, V, da Lei de Drogas, em 1/6 como aplicado pelo acórdão, ficando a pena em 5 anos e 10 meses de reclusão e pagamento de 584 dias-multa.
+[NOME]:
+Mantida a pena-base fixada na sentença e considerando ausentes atenuantes ou agravantes, fica a pena em 7 anos de reclusão. Na terceira fase, incide a causa de aumento prevista no art. 40, V, da Lei de Drogas, em 1/6 como aplicado pelo acórdão, ficando a pena em 8 anos e 2 meses de reclusão e pagamento de 816 dias-multa.
+Desse modo, quanto ao regime inicial de cumprimento de pena em relação ao recorrente [NOME], fixo o regime fechado, tendo em vista o quantum de pena, nos termos do art. 33, § 2º, "a", do Código Penal.
+Diante do exposto, com fundamento no art. 932, inc. V, "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, dou provimento ao recurso, nos termos da fundamentação.
+Publique-se. Intimem-se.
