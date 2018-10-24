@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de pedido de tutela de urgência, apresentado por PAULO EMÍLIO DE MORAES GARCIA, com o objetivo de atribuição de efeito suspensivo ao Recurso Especial interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, "ainda pendente de juízo de admissibilidade naquela Corte" (fl. 3e).
+Alega, para tanto, que:
+"O Requerente ajuizou Ação Popular 1 objetivando anular atos administrativos da Administração do Tribunal de Contas do Estado de Santa Catarina (TCE/SC) concedentes de vantagens pecuniárias aos [NOME]-Substitutos daquela Corte de Contas - férias e licenças-prêmios não usufruídas indenizadas --, que vêm sendo concedidas com base em normativos inconstitucionais que indevidamente equiparam os [NOME]-Substitutos aos juízes de direito do TJ/SC, em termos de vencimentos e vantagens.
+Para tanto, o autor popular pleiteou a declaração incidental desses dispositivos como causa de pedir, providência viabilizadora da desconstituição daqueles atos administrativos, bem como da condenação dos beneficiários, e autores deles, ao ressarcimento dos montantes já percebidos. A ação popular foi instruída com documentação pré-constituída dos pagamentos até então efetuados dessas vantagens.
+No bojo da ação, o autor popular pleiteou, ainda, o deferimento de tutela provisória da evidência, a fim de suspender o pagamento daquelas vantagens, enquanto pendente a resolução do mérito da causa. O autor juntou aos autos acórdãos integrais representativos da vasta e pacífica jurisprudência do Pretório Excelso, todos prolatados em sede de ações diretas de inconstitucionalidade 2 , as quais declararam inconstitucional toda e qualquer equiparação entre [NOME] e juízes de direito dos TJ"s, quanto a vencimentos e vantagens.
+A tutela provisória foi deferida, nos termos em que pleiteada.
+Os réus da ação popular agravaram por instrumento ao TJ/SC, constituindo dois desses recursos, os quais restaram desprovidos.
+Diante do insucesso desses agravos de instrumento, e somente depois disso, o TCE/SC entendeu por bem entrar em cena, resolvendo acudir os réus, ajuizando perante o TJ/SC processo de suspensão da tutela provisória, nos termos do art. 4.º da Lei n.º 8.437/1992.
+(..)
+Irresignado com a suspensão da tutela provisória da evidência, o recorrente interpôs agravo interno, com pedido de efeitos suspensivos - os quais foram negados -- que, submetido à apreciação do Órgão Especial, restou ao final, no mérito, desprovido.
+(..)
+Diante de tais circunstâncias fáticas, o requerente, em face desse acórdão acima transcrito, interpôs na data de hoje, 18/10/2018, recurso especial, ainda pendente de juízo de admissibilidade pelo Tribunal a quo.
+(..)
+Desta forma, considerando que o eminente risco em razão da continuidade de pagamento de vantagens indevidas aos [NOME]-Substitutos, cuja recuperação pode-se mostrar posteriormente muito difícil, ou até inviável, podendo, assim, provocar danos irreparáveis ao Erário catarinense, e tendo em vista a plausibilidade da tese jurídica sustentada, conforme sobejamente abaixo demonstrado, vem o recorrente requerer que Vossa Excelência conceda o efeito suspensivo ao vertente Recurso Especial" (fls. 3/10e).
+A presente pretensão não merece ser conhecida.
+Isso porque, nos termo do art. 1.029 do CPC/2015, compete ao Presidente ou ao Vice-Presidente do Tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, a análise do pedido de concessão de efeito suspensivo a Recurso Extraordinário ou a Recurso Especial.
+Confira-se a exata dicção legal:
+"Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+I - a exposição do fato e do direito;
+II - a demonstração do cabimento do recurso interposto;
+III - as razões do pedido de reforma ou de invalidação da decisão recorrida.
+ ..
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo; (Redação dada pela Lei nº 13.256, de 2016)
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037. (Redação dada pela Lei nº 13.256, de 2016)
+A hipótese dos autos não permite o enquadramento do presente pedido de tutela provisória no referido dispositivo, de vez que o Recurso Especial em questão ainda pende do juízo de admissibilidade.
+Nesse sentido:
+"ADMINISTRATIVO. RECURSO ESPECIAL. EFEITO SUSPENSIVO. CONDIÇÃO. CABIMENTO AO TRIBUNAL SUPERIOR. RECURSO ESPECIAL PENDENTE DE JUÍZO DE ADMISSIBILIDADE. DECISÃO DE ORIGEM NÃO CONSIDERADA COMO TERATOLÓGICA.
+I - Consoante o Código de Processo Civil de 2015, é cabível ao tribunal superior conferir efeito suspensivo ao recurso especial na seguinte condição (g.n.): Art. 1029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou vice-presidente do tribunal recorrido, em petições distintas que conterão:  ..  § 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido; I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo.
+II - A hipótese dos autos não permite o enquadramento do presente pedido de tutela provisória no referido dispositivo, uma vez que o recurso especial em questão ainda pende do juízo de admissibilidade. Neste sentido: AgInt no TP 265/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017); AgInt no TP 41/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/02/2017, DJe 20/02/2017; TP n. 1166/SC, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 14/02/2018.
+III - Essa é a hipótese dos autos, não havendo como fugir à regra constante no citado dispositivo, situação admissível somente em casos de decisão teratológica, considerada como tal aquela verdadeiramente absurda.
+IV - O acórdão recorrido especialmente considerou a existência do contrato de concessão existente entre as partes em litígio para conceder a ordem pleiteada, mostrando-se distante de se caracterizar como teratológico.
+V - Agravo interno improvido" (STJ, AgInt no TP 1.464/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 13/08/2018).
+"AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - AGRAVO DE INSTRUMENTO NOS AUTOS DE AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE CONTRATO VERBAL DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE INDEFERIU O PLEITO LIMINAR ANTE A AUSÊNCIA DOS REQUISITOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA. IRRESIGNAÇÃO DOS AGRAVANTES.
+1. Nos termos do art. 1029, § 5º, III, do CPC/2015, é da competência do Presidente ou do Vice-Presidente do Tribunal de origem atribuir efeito suspensivo a recurso especial no período compreendido entre a interposição do recurso e a publicação da decisão de admissibilidade do reclamo. Incidência, por analogia, das Súmulas 634 e 635 do STF.
+2. Nesses casos, apenas em situações excepcionais esta Corte Superior tem admitido a apreciação de medida cautelar/tutela de urgência que vise à concessão do efeito suspensivo a recurso especial, condicionando sua procedência à demonstração da presença concomitante dos requisitos do fumus boni iuris e periculum in mora: o primeiro relativo à plausibilidade, aferida em juízo sumário, da pretensão recursal veiculada no apelo extremo (sua probabilidade de êxito) e o segundo consubstanciado no risco de dano irreparável que, em uma análise objetiva, revele-se concreto e real.
+3. Na hipótese, não restou demonstrada a presença concomitante dos requisitos referidos, ante a inexistência de omissões no acórdão recorrido e a ausência de prequestionamento do artigo 23 do CPC/73 (incidência da Súmula 211/STJ).
+4. Agravo interno desprovido" (STJ, AgInt no TP 265/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 10/05/2017).
+Desse modo, o pedido de concessão de efeito suspensivo ativo deverá ser protocolado, pela parte ora requerente, no Tribunal de Justiça do Estado de Santa Catarina, enquanto não processado.
+Ante o exposto, não conheço do pedido.
+I.
