@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOABE TAVARES PESSOA contra decisão monocrática do Relator, proferida no âmbito do Tribunal de Justiça do Estado de São Paulo, indeferitória da liminar (e-STJ fls. 111/112).
+Na presente impetração, narra a defesa que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão em regime inicial semiaberto, tendo início de cumprimento em 12/3/2018, sem qualquer interrupção.
+Aponta que a defesa do sentenciado protocolou o pedido de progressão de regime no dia 3/8/2018, ocasião em que juntou o Boletim Informativo do paciente e atestado de trabalho e estudo para fins de remição. E, no dia 22/8/2018, a defesa juntou aos autos nova petição demonstrando através da planilha de cálculo do CNJ, que a data para progressão de regime do paciente se daria em 7/9/2018 (e-STJ fl. 4).
+Alega inércia do Juízo de 1º grau em analisar o pedido de progressão, tendo vem vista que "embora o paciente já tenha alcançado o requisito temporal para progressão de regime e não há nos autos nada que impeça a sua progressão ao regime aberto, vale frisar que, a decisão que julgou o pedido de remissão, concedeu ao paciente 32 dias de pena remida, exatamente conforme pleiteado pela defesa, e tendo em vista o cálculo de pena apresentado em fls. 81 - 83 dos autos em anexo (planilha do CNJ), fica demonstrando que o paciente já deveria estar cumprindo sua pena em regime aberto desde 07/09/2018" (e-STJ fl. 6).
+Sustenta morosidade do sistema justiça ao argumento de que "O paciente encontra-se detido desde o dia 12 de março de 2018, sem que houvesse qualquer interrupção em sua reprimenda, e, tendo cumprido 1/6 de sua pena, com o abatimento dos dias remidos, fica evidente que o paciente cumpre pena em regime mais gravoso desde 07/09/2018" (e-STJ fl. 8).
+Requer, liminarmente e no mérito, seja concedida a ordem para que o paciente cumpra de imediato sua pena no regime aberto, haja vista que é possuidor dos dois requisitos, objetivo e subjetivo desde 7/9/2018.
+É o relatório. Decido.
+O presente mandamus merece ser indeferido de plano.
+Isso porque é assente a jurisprudência do Superior Tribunal de Justiça no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira do enunciado da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo se demonstrada flagrante ilegalidade. A propósito:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. Não se admite, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em sede de writ impetrado na origem, sob pena de se configurar indevida supressão de instância. (Enunciado 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese. Agravo regimental desprovido. (AgRg no HC n. 306.319/CE, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/06/2015, DJe 19/06/2015).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DE HABEAS CORPUS. APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO DO PRÓPRIO WRIT.AGRAVO REGIMENTAL PREJUDICADO.
+1. Tratando-se de impetração contra decisão monocrática, proferida por Desembargador Relator do Tribunal Estadual, que indeferiu pedido de liminar, em que não se observa teratologia ou falta de fundamentação, não há que ser mitigada a aplicação da Súmula n. 691 do STF.
+2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do writ originário, impetrado em 2º Grau, torna prejudicada a análise do habeas corpus, impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste writ, pelo julgamento do habeas corpus na origem.
+4. Agravo Regimental prejudicado. (AgRg no HC n. 288.056/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/05/2015, DJe 26/05/2015).
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, de minha relatoria, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Não é o que ocorre na espécie.
+Consoante se observa dos autos, a decisão que indeferiu o pedido liminar na origem não ostenta ilegalidade evidente e apta a desafiar controle antecipado por este Superior Tribunal, pois, sob a cognição sumária, está devidamente fundamentada, in verbis (e-STJ fls. 111/112):
+ ..
+Pois bem. De uma análise perfunctória do exposto neste Habeas Corpus, em que pesem os argumentos defendidos pelo impetrante, não se evidencia o fumus boni iuris e o periculum in mora necessários para a concessão da liminar.
+A medida liminar em habeas corpus é medida excepcional, reservada para os casos em que seja detectado de imediato a ilegalidade do ato impugnado.
+No caso em comento, nesta fase de cognição sumária, não se encontra presente a existência de constrangimento ilegal aferível de plano.
+Logo, imperioso que se aguarde a chegada das informações e o regular desenvolvimento do processo para que seja possível avaliar com maior profundidade a conveniência e oportunidade do requerimento.
+Posto isso, indefere-se a medida liminar reclamada.
+Comunique-se ao insigne Juízo impetrado, requisitando-se informações, instruindo-se o ofício com as cópias necessárias.
+Após a prestação de informações pela autoridade coatora, remetam-se os autos à douta Procuradoria Geral de Justiça, na forma do § 2º, do artigo 1º do Decreto-lei nº 552/1969.
+A seguir, tornem os autos conclusos.
+Com efeito, a análise perfunctória do writ não evidencia a ocorrência de constrangimento ilegal hábil a permitir a concessão da ordem de ofício.
+Ademais, as questões suscitadas pela defesa do sentenciado serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula n. 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Sem recurso, arquivem-se os autos.
