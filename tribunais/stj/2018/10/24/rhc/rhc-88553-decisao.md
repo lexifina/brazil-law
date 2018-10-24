@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Ceará.
+O recorrente pleiteia, em síntese, a revogação de sua prisão preventiva.
+É o relatório.
+O recurso perdeu seu objeto diante da alteração fática dos autos.
+Segundo o ofício n. 1.094/2018, enviado pelo Juízo da 2ª Vara de Delitos de Tráfico de Drogas (Ação Penal n. 0019907-23.2017.8.06.0001), em 7.3.2018, foi prolatada sentença condenatória (e-STJ, fls. 237-249), dando o recorrente como incurso nos delitos de tráfico de drogas, de associação para o tráfico, de posse de arma de fogo e de corrupção de menores, à uma pena de 15 anos de reclusão e 1 ano e 3 meses de detenção, mais pagamento de 1.900 dias-multa.
+De acordo com o entendimento da Quinta Turma do Superior Tribunal de Justiça, "a superveniência de sentença de pronúncia ou condenatória não constituirá "título novo", de modo a prejudicar o conhecimento do habeas corpus, se a ela nenhum fundamento novo for acrescentado" (HC 288.176/SP, rel. Ministro NEWTON TRISOTTO - DESEMBARGADOR CONVOCADO DO TJ/SC, j. 25/11/2014).
+No caso, o magistrado sentenciante inovou nos fundamentos para manutenção da prisão cautelar, acrescentando que:
+"Nego ao réu o direito de apelar em liberdade, pois vislumbro a presença dos motivos ensejadores do decreto de prisão preventiva, previstos no art. 312, do CPP, mormente para garantir a ordem pública, em razão da grande quantidade de droga encontrada com o acusado (24 trouxinhas e 02 pedras grandes de cocaína, de aproximadamente 70g; cerca de 73g de crack e 01 pé de maconha), além de uma arma de fogo e vasta munição, e porque o delito de tráfico de drogas produz um efeito nefasto em nossa sociedade, que se encontra atormentada pelos altos índices de criminalidade que assolam o Município de Fortaleza, já que tal conduta é catalisadora da prática de novos crimes, geralmente de furtos e roubos, por parte dos usuários que buscam, desta forma, manter o seu vício, além de homicídios provocados por disputas entre traficantes e em razão da cobrança de dívidas de usuários" (e-STJ, fl. 245).
+Portanto, por configurar a sentença condenatória um novo título judicial, a discussão acerca da legalidade do decreto de prisão preventiva deve ser submetida ao prévio exame do Tribunal a quo, sob pena desta Corte incorrer em indevida supressão de instância.
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
