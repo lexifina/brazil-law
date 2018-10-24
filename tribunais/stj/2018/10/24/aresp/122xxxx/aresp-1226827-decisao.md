@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que GECELIO PAZ DA SILVA foi denunciado pela prática dos delitos tipificados no art. 157, caput, c/c o art. 14, II e no art. 147, caput, na forma do art. 69 do Código Penal (roubo simples, na forma tentada e ameaça, ambos em concurso formal), e absolvido por falta de provas para a condenação, de acordo com a sentença de fls. 146/147.
+Irresignado, o Ministério Público interpôs recurso de apelação (fls. 160/175), sob a alegação de que haveria provas da autoria e materialidade suficientes para embasar o decreto condenatório contra o acusado.
+A Corte de origem, negou provimento ao apelo, de acordo com os termos da seguinte ementa:
+APELAÇÃO CRIMINAL. RECURSO MINISTERIAL PLEITEANDO A CONDENAÇÃO DO APELADO. MATERIALIDADE NÃO COMPROVADA. AUSÊNCIA DE INÍCIO DOS ATOS EXECUTÓRIOS. ABSOLVIÇÃO MANTIDA.
+1. A condenação do apelado somente pode surgir diante de uma certeza quanto à existência do fato punível, da autoria e da culpabilidade do acusado, uma prova deficiente, incompleta ou contraditória, gera a dúvida e com ela a obrigatoriedade da absolvição, pois milita em favor do apelado uma presunção relativa de inocência.
+2. Recurso a que se nega provimento (fls. 210/215).
+Em sede de recurso especial, a acusação alega violação do disposto no art. 157, caput, c/c o art. 14, II e art. 147, caput, todos do Código Penal, sob o argumento de que "a conduta incontroversa do réu, descrita na sentença recorrida, configura os crimes de roubo tentado (duas vezes), e ameaça (duas vezes), sendo irrelevante que as vítimas não se intimidaram diante da conduta do réu" (fl. 243).
+A r. decisão agravada inadmitiu o recurso especial, haja vista a concreta motivação do acórdão impugnado com base na jurisprudência dos Tribunais Superiores e a intenção de rediscussão do feito com a análise de matéria probatória pela parte recorrente, o que é vedado pelo enunciado de n. 7 da Súmula deste STJ (fls. 280/281).
+Contraminuta às fls. 301/304. O Ministério Público Federal opinou pelo parcial provimento do agravo e pelo desprovimento do recurso especial (fls. 317/322).
+É o relatório. Decido.
+Conheço do agravo em recurso especial, visto que atacados os fundamentos da decisão agravada.
+Passo à análise do recurso especial.
+Quanto à alegação do Ministério Público de que haveria provas para a condenação do acusado, veja-se a manifestação do Tribunal de origem:
+A sentença deve ser mantida.
+A materialidade do delito perpetrado pelo acusado não restou o provado, eis que o apelante não iniciou os atos executórios, consistente em iniciar a subtração do bem mediante violência ou grave ameaça, conforme narrado no primeiro fato.
+As vítimas e testemunhas afirmam que o réu, com a mão por de baixo da camisa, ordenou que elas lhes passassem os celulares, não tendo o acusado obtido sucesso, pois, de imediato, foi imobilizado pelas vitimas, até a chegada da polícia.
+Assim, entendo que não tendo o apelante realizado nenhum ato de subtração, não há que se falar em tentativa, já que os atos executórios sequer se iniciaram.
+Tenho que a ação do agente não chegou a se concretizar na ação típica delineada no verbo do tipo penal insculpido na denúncia.
+ ..
+Assim, pelos depoimentos das testemunhas presenciais, quando ouvidas em Juízo, vê-se que as mesmas não se sentiram temerosas quando da presença do acusado, tanto é verdade que deteram o mesmo, e aguardaram a chegada da polícia.
+Ademais, segundo as vítimas e o policial que atendeu a ocorrência, o apelante encontrava-se visivelmente embriagado, o que de certa forma, compromete a seriedade de uma ameaça exigida pelo referido tipo penal, tento é verdade que mesmo o apelante simulado que tinha uma arma sob a camisa, as vítimas não se sentiram intimidadas, e reagiram prontamente dominando o mesmo até a chega dos policiais.
+Para se configurar a grave ameaça, não se faz necessário o uso de arma de fogo, bastando que a vítima sinta o temor no momento do crime, o que não foi o caso relatado nestes autos, já que as vítimas, vendo que o acusado encontrava-se embriagado, o deteram e chamaram a polícia.
+Portanto, para que se configure a grave ameaça, não se faz necessário o uso de arma de fogo, bastando que a vítima sinta o temor no momento dos fatos, o que não foi o caso desses autos, pois as vítimas não foram gravemente ameaçadas e ausentes umas das elementares do tipo, não há falar-se em condenação.  ..
+Destarte, a verdade é que em relação à conduta atribuída ao recorrido contra as vítimas, infere-se unicamente a existência de uma suposta motivação para o crime, nada mais do que isso, não tendo, portanto, iniciado os atos executórios, este sim, passível de punição.
+Com tais considerações, razão não assiste ao Parquet no que concerne ao pedido de condenação do apelado em relação à conduta narrada na denúncia, devendo ser mantida a decisão de primeiro grau nos moldes em que foi prolatada. (fls. 212/215).
+Dos excertos colacionados acima, verifica-se que a Corte estadual, assim como o Juízo primevo, não entendeu presentes os requisitos necessários para configuração dos delitos de roubo simples (na forma tentada) e de ameaça. Assim, para que se chegar à conclusão diversa da obtida pelas instâncias de origem, seria necessária a incursão no conteúdo fático-probatório dos autos, providência inviável em sede de recurso especial, por incidência da vedação contida no enunciado de n. 7 da Súmula deste STJ.
+Nessa linha:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. FALTA DE PROVAS. ART. 155, 226 E 386, VII, TODOS DO CPP. VERIFICAÇÃO. DOSIMETRIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 7 E 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em negativa de vigência ao art. 226 do Código de Processo Penal, pois a orientação do Tribunal a quo está em consonância com a jurisprudência desta Corte sobre o tema, no sentido de que "o reconhecimento pessoal isolado não anula o ato, sendo que a presença de outras pessoas junto ao réu é uma recomendação legal e, não, uma exigência" (HC 41.813/GO, Ministro Gilson Dipp, Quinta Turma, DJ 30/5/2005).
+2. Para alterar a conclusão a que chegou as instâncias ordinárias, no sentido de se verificar a inexistência de elementos de autoria e de materialidade suficientes a desconstituir o decreto condenatório, ou se houve acerto ou desacerto no estabelecimento da dosimetria da pena, demandaria, necessariamente, revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Agravo regimental não provido (AgRg no AREsp 651.631/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/12/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. VIOLAÇÃO AO ART. 402 DO CPP. NULIDADE. INEXISTÊNCIA DE COMPROVAÇÃO DOS PREJUÍZOS SUPORTADOS PELO RÉU. EIVA NÃO CONFIGURADA. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. INCIDÊNCIA DO ENUNCIADO N.º 83 DA SÚMULA DO STJ.
+ ..
+DESCLASSIFICAÇÃO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA. ENUNCIADO SUMULAR N.º 7/STJ. INSURGÊNCIA DESPROVIDA.
+1. A pretendida desclassificação da conduta imputada ao recorrente para a infração penal de estelionato ou de furto mediante fraude é questão que demanda aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via eleita. Óbice do Enunciado n.º 7 da Súmula desta Corte Superior.
+2. Insurgência desprovida (AgRg no AREsp 959.515/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 18/11/2016).
+Diante do exposto, com fundamento no art. 932, inciso IV, "a", do Código de Processo Civil c/c o art. 3º do Código de Processo Penal, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
