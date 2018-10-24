@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MUNICÍPIO DE SÃO PAULO, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/73, assim ementado:
+"Embargos infringentes. Anulatória de lançamento fiscal. IPTU. Imunidade. Falta de comprovação pelo Município de que o bem não é utilizado para as finalidades sociais da entidade. Embargos infringentes rejeitados" (fl. 260e).
+Opostos embargos de declaração (fls. 265/267e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente violação aos arts. 333, incisos I e II, 334, inciso IV, e 535 do CPC/73, sustentando, em síntese, além de negativa de prestação jurisdicional, que o ônus de provar que a autora faria jus ao benefício da imunidade é dela própria.
+Apresentadas contrarrazões às fls. 313/328e, foi o Recurso Especial inadmitido na origem (fls. 334/335e), daí a interposição do presente Agravo (fls. 353/357e).
+Contraminuta às fls. 367/370e.
+A irresignação não merece acolhimento.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+Quanto ao mérito, verifica-se que o Tribunal de origem proferiu acórdão em consonância com o entendimento dominante desta Corte Superior, firmado no sentido de que "tratando-se a recorrida de entidade assistencial, de acordo com o art. 150, inciso VI, alínea c, da CR/88, há presunção relativa de que a renda auferida com o aluguel do imóvel gerador do débito é revertida para as suas finalidades essenciais. Assim é que caberia à Fazenda Pública, nos termos do artigo 333, inciso II, do CPC, apresentar prova de que a renda em comento estaria desvinculada da destinação institucional" (AgRg no AREsp 239.268/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/12/2012).
+Ainda nesse sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IPTU. IMUNIDADE TRIBUTÁRIA. ENTIDADE DE ASSISTÊNCIA SOCIAL. PREENCHIMENTO DOS REQUISITOS DO ART. 14 DO CTN. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A Corte regional, com base nos elementos de cognição dos autos, concluiu que a recorrida faz jus ao benefício.
+2. Para modificar o acórdão recorrido, como pretende o recorrente, no sentido de que estariam ausentes os requisitos legais para a concessão da imunidade tributária, seria necessário o reexame do contexto fático-probatório dos autos, o que é defeso ao STJ, em vista do óbice da Súmula 7/STJ.
+3. No que se refere à questão do ônus probatório, verifica-se que o acórdão recorrido está em sintonia com o entendimento do STJ.
+4. Recurso Especial não provido" (STJ, REsp 1.724.401/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/05/2018).
+Dessa forma, incide à espécie a Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para conhecer em parte do Recurso Especial e, nesta extensão, negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
