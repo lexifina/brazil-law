@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por [NOME], em 08/10/2018, contra decisão de minha lavra, publicada em 02/10/2018, que não conheceu Recurso Especial interposto, diante da incidência das Súmulas 283/STF, 284/STF e 7/STJ.
+Inconformada, indica a parte embargante erro material na aplicação da Súmula 284/STF, pois, consoante verificado pelo juízo de admissibilidade feito na origem, bem como indicado nas razões do Recurso Especial, em seu item 01, a insurgência foi interposta com base na alínea a do permissivo constitucional.
+Por fim, requer o conhecimento e acolhimento dos Embargos de Declaração, "com o devido e regular processamento do recurso especial interposto" (fl. 101e).
+Sem impugnação (fl. 102e).
+Os Embargos de Declaração não merecem prosperar.
+Com efeito, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Na hipótese, não há falar em erro material. Isso porque constou da decisão embargada que, embora a parte recorrente defenda que, ao alegar negativa de vigência a dispositivo de lei federal, ainda que implicitamente, implica a demonstração de que o recurso foi interposto com base na alínea a do permissivo constitucional, a jurisprudência do STJ entende que "a não indicação da alínea do permissivo constitucional embasador da irresignação do recurso especial revela a deficiência das razões do mesmo, atraindo, por analogia, a incidência da Súmula 284/STF" (STJ, AgInt no AREsp 920.625/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 26/04/2017).
+No mesmo sentido, confiram-se:
+"PROCESSO CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. JURISPRUDÊNCIA PACÍFICA. SÚMULA 168/STJ. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 315 DO STJ.
+1. Não prospera a pretensão recursal, na medida em que a jurisprudência se firmou no mesmo sentido do acórdão embargado, qual seja, que a ausência de indicação da alínea do permissivo constitucional em que se fundamenta o recurso especial, impede a apreciação do recurso especial. Precedentes: AgRg no AREsp 551.606/PB, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 06/10/2015, DJe 03/02/2016; AgRg no Ag 760.867/PE, Rel. Min. José Delgado, Primeira Turma, julgado em 07/11/2006, DJ 23/11/2006, p. 221; AgRg no REsp 1244392/AL, Rel. Min. Massami Uyeda, Terceira Turma, julgado em 20/10/2011, DJe 08/11/2011.
+2. In casu, incide a Súmula 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+3. Os agravantes pleiteiam rever acórdão que aplicou o entendimento de que "a falta de indicação do dispositivo constitucional em que se funda o recurso especial implica deficiência de fundamentação recursal, o que atrai (por analogia) o óbice contido no enunciado da Súmula 284 do STF"". Porém, revela-se inviável rever - em embargos de divergência - o conhecimento do recurso especial. Precedentes: AgRg nos EAREsp 681.574/SP, Rel. Min. Reynaldo Soares da Fonseca, Terceira Seção, julgado em 25/02/2016, DJe 02/03/2016; AgRg nos EAg 1.421.413/MG, Rel. Min. Og Fernandes, Corte Especial, julgado em 02/12/2015, DJe 18/12/2015; AgRg nos EDcl nos EAREsp 204.278/MG, Rel. Min. Luis Felipe Salomão, Corte Especial, julgado em 04/11/2015, DJe 18/11/2015.
+4. Aplica-se ao caso dos autos a Súmula 315/STJ, que assim dispõe: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Agravo regimental improvido" (STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 06/05/2016).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PERMISSIVO CONSTITUCIONAL NÃO INDICADO NO ESPECIAL. RECURSO INADMISSÍVEL. SÚMULA 284/STF.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+2. Agravo interno no recurso especial não provido" (STJ, AgInt no REsp 1.631.109/RR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 31/03/2017).
+Observa-se, portanto, que o que deseja a parte embargante, em seu recurso, é a rediscussão da matéria de fundo, e não a correção dos vícios que permitem a oposição dos Embargos Declaratórios.
+Deve-se ressaltar que, seja à luz do CPC/73 ou do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. RESOLUÇÃO STJ N. 12/2009. OMISSÃO. ACOLHIMENTO.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Embargos declaratórios acolhidos sem efeitos infringentes" (STJ, EDcl nos EDcl na Rcl 28.977/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe de 11/03/2016).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados" (STJ, EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (Desembargadora Convocada do TRF/3ª Região), PRIMEIRA SEÇÃO, DJe de 04/03/2016).
+Ante o exposto, à míngua de vícios, rejeito os Embargos de Declaração.
+I.
