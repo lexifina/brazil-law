@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL, contra decisão proferida pela Vice-Presidência do Tribunal do Tribunal de Justiça do Estado do Mato Grosso do Sul que não admitiu seu apelo nobre.
+Consta dos autos que o Ministério Público ofereceu denúncia contra o agravado [NOME] pela prática do crime tipificado nos arts. 38 e 48 da Lei 9.605/98, pois foi acusado de dificultar a regeneração de floresta natural em área de preservação.
+Recebida a denúncia e devidamente processado, o magistrado singular, com base no art. 395, inciso III, do CPP, rejeito a inicial acusatória, por constatar a ausência de justa causa.
+Inconformado, o Órgão da Acusação interpôs recurso em sentido estrito, alegando existir comprovação da autoria e materialidade para fins de recebimento da inicial acusatória.
+Analisando os argumentos do Parquet, o Tribunal de origem desproveu da insurgência, mantendo a decisão que rejeitara a denúncia.
+Irresignada, a acusação interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a", da CF, sustentando violação aos artigos 41 e 395, inciso III, do CPP, bem como ao art. 109, caput, do CP.
+Ao ser analisada a admissibilidade da insurgência, o Tribunal a quo reconheceu estar impedida a análise do mérito recursal, em virtude da questão debatida esbarrar no óbice previsto na Súmula 7/STJ.
+Diante desta decisão, a acusação interpõe o presente agravo, no qual sustenta que o óbice indicado na decisão objurgada não incidiria no caso em tela.
+Afirma que não houve fundamentação na decisão que entendeu incidir a aplicação da Súmula 7/STJ.
+Argumenta que o recurso especial interposto versa sobre matéria estritamente jurídica.
+Assevera que a proibição de reexame de provas no apelo nobre não impede a verificação dos fatos postos a julgamento.
+Alega ser indevido o reconhecimento da prescrição da pretensão punitiva virtual, sob pena de violação à Súmula 438/STJ.
+Desse modo, requer o provimento do agravo para que seja admitido o recurso especial interposto.
+O Ministério Público Federal, na condição de custos legis, opinou pelo provimento do recurso (fls. 1.745/1.751).
+É o relatório.
+No apelo nobre, interposto com base na alínea "a" do permissivo constitucional, alega o recorrente violação aos artigos 41 e 395, inciso III, do CPP, bem como ao art. 109, caput, do CP.
+No caso em exame, o ora agravante alegou no recurso especial violação à legislação federal, insurgindo-se contra teor do acórdão proferido na origem, o qual, ao desprover recurso em sentido estrito, manteve decisão singular que entendeu inexistir justa causa para recebimento da denúncia oferecida contra o agravado.
+Afirma o Ministério Público que a via eleita pelo acusado para debater a inépcia da denúncia não comporta qualquer dilação probatória, sendo, portanto, impossível a análise da existência ou inexistência da referida justa causa.
+Acerca do tema, confiram-se trechos do acórdão objurgado (fls. 1.522/1.525):
+ ..
+II. Dos requisitos do art. 41, do CPP.
+ Quanto ao mérito, propriamente dito, da decisão impugnada, também há um desacerto, eis que a denúncia preenche os requisitos contidos no art. 41, do CPP.
+ Consoante prescreve o citado artigo a denúncia ou queixa deve conter "a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol de testemunhas" e, no caso, estão presentes todos os requisitos.
+ Doutrina e a jurisprudência orientam que a denúncia somente deve ser repelida quando não houver indícios da existência de crime; quando puder ser reconhecida, de plano, a inocência do agente; quando não houver indícios de participação do agente no evento criminoso noticiado; ou quando estiver extinta a punibilidade do agente.
+ Da leitura da denúncia depreende-se que o objeto da persecução é a edificação e ampliação de uma Casa de Veraneio dentro de uma área de preservação permanente, localizadas às margens do Rio Ivinhema, no Município de Nova Andradina.
+ A denúncia, ainda que de maneira sucinta, descreve os fatos e circunstâncias que, em tese, configuram os crimes tipificados nos arts. 38 e 48 da Lei 9.605/98.
+ ..
+ Importante registrar que a denúncia está instruída com o relatório de Vistoria do IBAMA/MS que indicam a utilização da área com infringência das normas de proteção ambiental e com o laudo pericial n. 3508 emitido pela Núcleo Regional de Perícia da Secretaria de Justiça e Segurança Pública que analisou a área (rachos localizados na margem do Rio Ivinhema no Município de Nova Andradina - f. 1200).
+ Inquestionável que a peça está lastreada em um mínimo de prova, sendo suficientemente indicados os indícios de autoria e materialidade dos fatos delituosos, requisitos que bastam para efeitos de início da ação penal.
+ ..
+III. Da prescrição em perspectiva.
+ Quando à alegada "prescrição antecipada", que também foi utilizada como argumento para rejeição da denúncia, tal fundamento não encontra respaldo em nosso sistema penal.
+ A denominada prescrição antecipada ou virtual ou em perspectiva surgiu com o propósito de encontrar uma forma de extinção da punibilidade com base em evento futuro.
+ Trata-se de ficção criada pela doutrina que entendeu ser possível antever que o crime estaria prescrito, podendo ser aplicada de plano a extinção da punibilidade com base no princípio de pena mínima, da economia processual e monetária, de forma a implementar a utilização da máquina judiciária para a resolução e julgamento de crimes mais complexos.
+ Embora a doutrina se esforce no sentido da admissão da prescrição em perspectiva, essa figura fictícia é repelida em nosso ordenamento jurídico O Supremo Tribunal Federal, em mais de uma oportunidade, repeliu sua aplicação:
+ ..
+ A questão já foi inclusive sumulado pelo Superior Tribunal de Justiça na Súmula 438, que enfatiza:
+"É inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética, independentemente da existência ou sorte do processo penal. (Súmula 438)"
+ Assim, entendo ser inadmissível a rejeição da denúncia pelo reconhecimento da extinção da punibilidade em decorrência da denominada prescrição antecipada, virtual ou em perspectiva, em razão da sua não previsão no ordenamento jurídico penal vigente e por considerar afronta aos princípios constitucionais.
+ Ademais, a prescrição virtual não guarda correlação com a justa causa. É que a justa causa é ligada à falta de condições da ação ou falta de comprovação da materialidade delitiva ou de indício de autoria do delito, requisitos estes preenchidos como foi acima debatido.
+ ..
+Por sua vez, o voto divergente assim se manifestou (fls. 1.530/1.532):
+ ..
+ Referida decisão deve ser mantida por seus próprios fundamentos.
+ Recentemente, já me manifestei em caso análogo oriundo da mesma Comarca (a título de exemplo - Recurso em Sentido Estrito n. 0802376-40.2015), favorável a extinção do processo por falta de justa causa para o prosseguimento da ação penal, mesmo após o recebimento da denúncia.
+ Referida decisão encontra respaldo na lei e no posicionamento da jurisprudência pátria.
+ ..
+ Ademais, referido entendimento preserva, sobretudo, a dignidade da pessoa humana em ver o recorrido processado criminalmente por um fato que, data máxima vênia, resta evidente, que a ação penal será julgada improcedente, pois o magistrado a quo já externou que considera o laudo pericial que atesta a existência do crime inconclusivo, e caso, hipoteticamente, seja julgada procedente, restará fuminado ao final pela prescrição.
+ Ad argumentandum tantum, aquele que presta a jurisdição tem o poder e o dever de preservar a dignidade do ser humano em casos assim, sendo louvável a postura do magistrado a quo.
+ É reconhecido pela jurisprudência pátria e inclusive recomendável que, uma vez verificadas hipóteses elencadas nos incisos do art. 395 do Código de Processo Penal, é licito ao juiz rejeitar a denúncia, posto que não haveria razão de se movimentar a máquina pública somente para ver o cidadão processado, sem possibilidade de êxito ao final.
+ ..
+ Tecidas tais considerações, é que mantenho irretocável a decisão recorrida.
+ Por todo exposto, contra o parecer, acompanho a e. relatora para afastar as preliminares, todavia, no mérito, divirjo para negar provimento ao recurso ministerial.
+Dos excertos acima transcritos, constata-se que o Tribunal de origem, no voto divergente, ao analisar a questão referente ao trancamento da ação penal, constatou, com base nos elementos existentes nos autos, que a justa causa, necessária para o prosseguimento da ação não se mostrava presente, sendo insuficientes os elementos probatórios para demonstração da materialidade delitiva e dos indícios suficientes de autoria.
+Dessa forma, entendendo a Corte originária que o início da ação penal não se encontra lastreada em justa causa, desconstituir tais fundamentos, por meio do recurso especial, mostra-se inviável por exigir do julgador uma análise mais profunda dos elementos existentes nos autos, incabível nos termos da Súmula 7/STJ.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ARTS. 90 E 92 DA LEI 8.666/93. FRAUDE AO CARÁTER COMPETITIVO DA LICITAÇÃO. COMPROVAÇÃO DE DANO AO ERÁRIO. DESNECESSIDADE. INÉPCIA DA DENÚNCIA. ART. 41 DO CPP. DESCRIÇÃO DE FATOS CONCRETOS E DE INDIVIDUALIZAÇÃO DAS CONDUTAS IMPUTADAS AO DENUNCIADO. PREJUÍZO À AMPLA DEFESA E AO CONTRADITÓRIO NÃO VERIFICADA. I - Não há que se falar em inépcia quando a exordial acusatória atende aos requisitos determinados pelo art. 41 do CPC, possibilitando a ampla defesa.
+II - Na esteira do assentado pelo eg. Tribunal a quo, a denúncia expõe de forma suficiente e adequada o nexo de causalidade entre as condutas do denunciado, ora agravante, e os delitos a ele imputados, com detalhamento acerca dos procedimentos licitatórios que teriam sido direcionados para que a segunda denunciada fosse beneficiada, bem como faz menção aos contratos aditados sem observância às normas legais. Assim, conclui-se pela presença de indícios mínimos de autoria e materialidade, estando a peça acusatória em conformidade com os requisitos exigidos no art. 41 do CPP e de forma a possibilitar o exercício do contraditório e da ampla defesa.
+III - O trancamento da ação penal constitui medida de exceção, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, ou a ausência de indícios mínimos de autoria ou prova de materialidade. Precedentes do STJ e do STF.
+IV - O delito do art. 90 da Lei 8.666/93 prescinde da existência de prejuízo ao erário, "haja vista que o dano se revela pela simples quebra do caráter competitivo entre os licitantes interessados em contratar, ocasionada com a frustração ou com a fraude no procedimento licitatório" (REsp n. 1.484.415/DF, Sexta Turma, Rel.
+Ministro Rogério Schietti Cruz, DJe de 22/2/2016). Precedentes do STF e do STJ.
+V - Na hipótese, infirmar as conclusões a que chegaram as instâncias ordinárias, no sentido de que estão presentes os indícios mínimos necessários para a persecução penal, implicaria em revolvimento aprofundado do acervo fático-probatório, o encontra óbice na Súmula 7/STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp 1088099/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/02/2018, DJe 16/02/2018)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 89 DA LEI N. 8.666/1993. FRAUDE À LICITAÇÃO. DESVIOS DE VERBAS PÚBLICAS FEDERAIS. CESSÃO ILEGAL DE CONTRATOS. ACUSADO MERO PROCURADOR DA EMPRESA. TRANCAMENTO DA AÇÃO PENAL PELO TRIBUNAL A QUO. INDÍCIOS DE AUTORIA E MATERIALIDADE. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ.
+1. Esta Corte de Justiça admite o trancamento de ação penal em sede de habeas corpus quando demonstrada, de plano, a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de provas da existência do crime e de indícios de autoria.
+2. É certo que, para o oferecimento da denúncia, não se exige prova conclusiva acerca da autoria delitiva, mas apenas indícios desta.
+Entretanto, deve haver lastro probatório mínimo para a instauração da persecutio criminis in iudicio em desfavor do acusado, sob pena de ofensa aos princípios constitucionais da ampla defesa e do contraditório.
+3. No caso, diante do quadro delineado pela instância ordinária, não resta dúvida que a análise da tese de que o recorrido tinha ciência das irregularidades nas licitações, estando configurada a co-autoria delitiva e que, dessa forma, haveria justa causa para a propositura da ação penal, demandaria o reexame de matéria fática, inviável em recurso especial, por força da Súmula 7 desta Corte, mormente considerando que o acusado não integrava o quadro societário da empresa, tendo assinado o contrato na qualidade de mero procurador, nos estritos limites dos poderes a ele outorgados.
+4. De notar, ainda, que o Superior Tribunal de Justiça, acompanhando o entendimento do Supremo Tribunal Federal manifestado no julgamento do Inquérito n. 2.482/MG, em 15/09/2011, tem firme o posicionamento de que a consumação do crime previsto no art. 89 da Lei n. 8.666/1993 exige a demonstração do dolo específico do agente de causar dano ao erário e a efetiva ocorrência de prejuízo aos cofres públicos. Incidência da Súmula 83 deste Tribunal.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1430842/PB, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 16/06/2015, DJe 03/08/2015)
+No tocante à tese referente à prescrição virtual, constata-se que o voto divergente, em nenhum momento, se manifestou acerca do tema, apenas abordando a ausência de justa causa para prosseguimento da ação penal instaurada contra o recorrido.
+Na verdade, o tema da prescrição virtual foi abordado pelo voto proferido pelo relator, o qual reconheceu a sua inaplicabilidade, por ausência de previsão legal e jurisprudencial a respeito, mencionando, inclusive, a Súmula 438 deste Superior Tribunal de Justiça.
+Dessa forma, tendo o Ministério Público alegado violação ao art. 109 do CP, constata-se inexistir a mencionada ilegalidade, pois, ao julgar o recurso em sentido estrito manejado pelo parquet, o Tribunal de origem não desrespeitou o ordenamento jurídico vigente.
+Logo, não havendo qualquer debate pela Corte originária acerca da tese referente à possibilidade de reconhecimento da prescrição virtual, descabe a este Superior Tribunal de Justiça manifestar-se a respeito do tema, ante a constatação da ausência de prequestionamento, incidindo ao caso, o teor da Súmula 211/STJ.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ABSOLVIÇÃO. PROVAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. VALOR PROBANTE DA PALAVRA DA VÍTIMA. AGRAVO NÃO PROVIDO.
+1. A despeito da oposição dos embargos de declaração, verifica-se que as questões relativas ao reconhecimento do crime continuado (art. 71 do Código Penal), da detração penal e da inépcia da denúncia não foram examinadas pelo acórdão recorrido, faltando-lhes assim o requisito indispensável do prequestionamento. Aplica-se na espécie o óbice da Súmula 211/STJ.
+2. O Tribunal de origem, soberano na análise fática dos autos, concluiu ser suficiente o conjunto probatório para a condenação do recorrente. Desse modo, no caso, a revisão desse entendimento encontra óbice no Enunciado Sumular n. 7 desta Corte.
+3. A jurisprudência é assente no sentido de que, nos delitos contra liberdade sexual, por frequentemente não deixarem testemunhas ou vestígios, a palavra da vítima tem valor probante diferenciado, desde que esteja em consonância com as demais provas que instruem o feito.
+4. Agravo regimental não provido.
+(AgRg no AREsp 1094328/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/12/2017, DJe 19/12/2017)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 4º, CAPUT, DA LEI Nº 7.492/86, E 62, I, DO CP. TESE JURÍDICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VIOLAÇÃO AOS ARTS. 4º, CAPUT, E 25, AMBOS DA LEI Nº 7.492/86. CRIME DE GESTÃO FRAUDULENTA. POSSIBILIDADE DE PARTICIPAÇÃO DE TERCEIRO NO DELITO. ART. 29 DO CÓDIGO PENAL. ARESTO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. CONTRARIEDADE AO ART. 59 DO CP. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INEXISTÊNCIA DE ILEGALIDADE. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. (AgRg no AREsp 454.427/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 19/02/2015)
+2. A jurisprudência deste Tribunal Superior é pacífica no sentido de que o delito de gestão fraudulenta de instituição financeira classifica-se como crime próprio, exigindo-se do sujeito ativo a condição especial constante no artigo 25 da Lei nº 7.492/86 (controladores, administradores, diretores, gerentes e equiparados).
+Todavia, tal situação não impede que, mediante a norma de extensão prevista no artigo 29 do Código Penal, a condição especial do gestor da instituição financeira se comunique a terceiros estranhos a ela, desde que tal circunstância de caráter pessoal, por ser elementar do tipo (artigo 30 do CP), seja conhecida dos demais comparsas estranhos à diretoria.
+3. "Não se reconhece, na espécie, a arguida violação ao art. 59 do Código Penal, pois, com exceção das hipóteses de flagrante ilegalidade ou abuso de poder, não cabe a esta Egrégia Corte o reexame da dosimetria da pena, haja vista a necessidade de análise acurada dos elementos dos autos". (REsp 620.624/RS, Rel. Min. LAURITA VAZ, Quinta Turma, DJ 29/11/04) 5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1061456/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017)
+Por tais razões, afigurando-se inadmissível o apelo nobre, conhece-se do agravo para não conhecer o recurso especial, nos termos do artigo 34, inciso VII, combinado com o artigo 253, parágrafo único, inciso II, alínea "a", ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
