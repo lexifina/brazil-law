@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] à decisão de fls. 305/306, que não conheceu do recurso.
+Sustenta a parte embargante que "Por força do Art. 230 do CPC c/c Art. 5º Lei nº 11.419/2006, o prazo para a interposição do respectivo agravo começa a fluir a partir da INTIMAÇÃO e não da publicação" (fl. 313).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta dos autos certidão de publicação à fl. 270. Quando há intimação eletrônica e publicação, prevalece a última, pois, "nos termos da legislação citada a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais" (AgRg no AREsp n. 726.124/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/7/2016).
+Confiram-se ainda estes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INTEMPESTIVIDADE. PREVALÊNCIA DA PUBLICAÇÃO DO DIÁRIO DA JUSTIÇA ELETRÔNICO. EMBARGOS REJEITADOS.
+1. Não merecem acolhimento os embargos de declaração opostos sem a indicação de obscuridade, contradição, omissão ou erro material (CPC/2015, arts. 1.022 e 1.023), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no aresto embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Havendo intimação eletrônica e publicação da decisão no Diário da Justiça Eletrônico, prevalece a última, porquanto a Lei 11.419/2006 dispõe que a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 861.128/RJ, rlator Ministro Raul Araújo, Quarta Turma, DJe de 3/5/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. LEI Nº 11.419/2006. INTIMAÇÃO TÁCITA. PREVALÊNCIA DA PUBLICAÇÃO DO DIÁRIO DE JUSTIÇA ELETRÔNICO.
+1. Ocorrendo a intimação eletrônica e a publicação da decisão no Diário de Justiça eletrônico, prevalece esta última, uma vez que nos termos da legislação, a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais.
+2. Agravo interno não provido. (AgInt no AREsp n. 945.234/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/3/2017.)
+A disposição da Lei n. 11.419/06 de que a publicação no Diário da Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais foi acolhida pelo Conselho Nacional de Justiça quando da edição da Resolução n. 234, de 13 de julho de 2016, que regulamenta as publicações e intimações na vigência do CPC de 2015.
+Referido normativo estabelece, no art. 5º, § 1º, que "a publicação do DJEN substitui qualquer outro meio de publicação oficial, para fins de intimação, à exceção dos casos em que a lei exija vista ou intimação pessoal". Assim, é irrelevante haver intimação eletrônica nos autos, uma vez que há certidão de publicação.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
