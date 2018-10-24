@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal de Justiça do Estado de São Paulo, excluindo a paridade, confirmou o entendimento do Juízo quanto à aposentadoria especial de policial civil, observada a integralidade. No extraordinário, os recorrentes alegam violação do artigo 40, § 1º, § 3º, § 4º, § 8º e § 17, da Constituição Federal. Discorrem sobre a Lei Complementar nº 51/1985. Afirmam não cumpridos os requisitos previstos nas Emendas Constitucionais nº 41/03 e nº 47/05. Sustentam a inexistência do direito à integralidade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese da decisão recorrida:
+    APELAÇÃO. MANDADO DE SEGURANÇA PREVENTIVO. APOSENTADORIA ESPECIAL. INTEGRALIDADE E PARIDADE. Inteligência do art. 40, § 4º, III, da Constituição Federal, e da Lei Complementar Federal n. 51/85, esta complementada, e não restringida, pela Lei Complementar Estadual n. 1.062/2008. Impetrante com mais de 30 anos de contribuição e 20 anos de atividade estritamente policial. Direito à aposentadoria especial, e com proventos integrais, tudo conforme o art. 1º da Lei Complementar Federal n. 51/85. Pedido de paridade, todavia, improcedente. Direito à paridade extinto pela Emenda Constitucional n. 41/03. Regras de transição previstas pela própria Emenda Constitucional n. 41/03 e pela Emenda Constitucional n. 47/05, não atendidas pelo impetrante. Redução de classe, por não ter o servidor completado cinco anos de efetivo exercício na classe em que se encontrava antes da aposentadoria. Impossibilidade. Sentença de extinção sem resolução do mérito reformada. Recurso parcialmente provido, com observação.
+    A decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao recurso extraordinário.
+    4. Publiquem.
+Brasília, 24 de outubro de 2018.
+Ministro MARCO AURÉLIO
+Relator
