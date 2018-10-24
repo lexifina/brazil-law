@@ -1,0 +1,27 @@
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. TERCEIRIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA EM CASO DE INADIMPLEMENTO DE OBRIGAÇÕES TRABALHISTAS POR PARTE DA EMPRESA CONTRATADA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL PREJUDICADO. INSUBSISTÊNCIA DO ATO RECLAMADO. PERDA SUPERVENIENTE DO OBJETO. RECLAMAÇÃO PREJUDICADA.
+    Trata-se de agravo regimental interposto contra decisão de minha relatoria, a qual restou assim ementada:
+    “RECLAMAÇÃO. ALEGAÇÃO DE OFENSA AO TEOR DA SÚMULA VINCULANTE Nº 10 E À DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL NA ADC 16. MATÉRIA EM DISCUSSÃO NO RE 760.931-RG. UTILIZAÇÃO DA VIA RECLAMATÓRIA COMO SUCEDÂNEO DE RECURSO. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.“
+    O agravante sustenta a inexigibilidade do exaurimento de instâncias ordinárias para o ajuizamento da reclamação, uma vez que o pronunciamento judicial está em desconformidade com o que decidido no julgamento da ADC 16.
+    Em sede de agravo regimental, repisa as razões expendidas na inicial, argumentando que “o acórdão da 1ª Turma do Tribunal Regional do Trabalho da 1ª Região, adotou como premissa a conclusão a que pretendeu chegar. Proferiu condenação intitulada por ‘automática’ aonde apenas tem por base não a prova contida nos autos e ou na moldura fática e na normativa, mas, tão-somente, o simples fato da contratação ou o simples fato da existência da dívida, fato que autoriza a seguinte a assertiva: EM HAVENDO DÍVIDA PRESUME-SE A CULPA IN VIGILANDO ET CONTRAHENDO, vez que na visão da decisão regional, a contrário senso e por dedução, a efetiva fiscalização ocasionaria a inexistência da referida dívida. Teria sido esta a autêntica base/fundamentação para a manutenção da condenação no v. acórdão regional e não a prova produzida ou deixada de ser produzida dos autos como declarado por ele” (Doc. 24, fls. 2-3).
+    Ao final, requer a reconsideração da decisão ora agravada e o provimento da reclamação.
+    À luz da argumentação exposta, RECONSIDERO a decisão ora agravada, tornando-a sem efeito, e, por conseguinte, JULGO PREJUDICADO o agravo regimental interposto pelo Município de Queimados.
+    Passo à nova análise da reclamação.
+    Trata-se de reclamação, com pedido de liminar, ajuizada pelo Município de Queimados contra decisão do Tribunal Regional do Trabalho da 1ª Região, sob alegação de ofensa ao que foi decidido na ADC 16 e ao enunciado da Súmula Vinculante 10.
+    Colhe-se dos autos que a decisão reclamada apresenta a seguinte ementa:
+    “RECURSO ORDINÁRIO. A) PRELIMINAR DE NULIDADE DA SENTENÇA. Não há qualquer vício na sentença de primeiro grau, porquanto a MM. Magistrada a quo prestou a jurisdição completa. Recurso desprovido. B) RESPONSABILIDADE SUBSIDIÁRIA. TERCEIRIZAÇÃO. ENTE PÚBLICO.
+    1. O ente público tomador de serviços responde, subsidiariamente, pelas verbas trabalhistas inadimplidas por empresa interposta, quando não comprovada a efetiva fiscalização do contrato de trabalho, nos termos da Súmula nº 331, V, do c. TST.
+    2. Nos termos da Súmula nº 331, VI, do C. TST, ‘a responsabilidade subsidiária do tomador de serviços abrange todas as verbas decorrentes da condenação referentes ao período da prestação laboral’.
+    3. Outrossim, incide a multa do art. 467, da CLT, quando inexiste controvérsia válida a suprimir a sanção em análise, bem como a multa do art. 477, da CLT, ainda que o vínculo tenha sido reconhecido somente em juízo, nos termos da Súmula nº 30, deste Egrégio Tribunal. Recurso desprovido.”
+    Alega o reclamante, em síntese, que “a decisão atacada, ao condenar subsidiariamente a Administração Pública ao pagamento de verbas rescisórias e parcelas trabalhistas devidas pelo seu contratado, feriu o preceptivo contido no art. 71, § 1º, da Lei nº 8.666/93, além de desrespeitar os efeitos vinculantes da decisão proferida pelo STF no julgamento da ADC nº 16/DF, que reconhece como constitucional a norma legal contida no dispositivo retrocitado, que preceitua a impossibilidade jurídica de responsabilização da Administração em casos como o aqui exposto”.
+    Assevera, ainda, que se negou vigência ao artigo 71, § 1º, da Lei 8.666/1993 sem observância à cláusula de reserva de plenário, o que violaria o enunciado da Súmula Vinculante 10.
+    Requer, liminarmente, a suspensão da tramitação do processo em que foi proferida a decisão reclamada. No mérito, postula a cassação do acórdão reclamado.
+    É o relatório. DECIDO.
+    Ab initio, constato, de plano, a ocorrência de fato capaz de ensejar a prejudicialidade da presente reclamação.
+    Com efeito, em consulta ao sítio eletrônico do Tribunal Superior do Trabalho, verifico que aquela Corte, ao julgar matéria de sua competência, deu provimento ao Recurso de Revista 100930-51.2016.5.01.0571, Rel. Min. Alexandre de Souza Agra Belmonte, interposto pelo ora reclamante, para julgar improcedente o pedido de responsabilização subsidiária em relação ao Município de Queimados.
+    Releva notar que o trânsito em julgado da aludida decisão, em 22/10/2018, a qual foi favorável à parte ora reclamante, provocou a perda do objeto da presente reclamação.
+    Ex positis, RECONSIDERO a decisão ora agravada, tornando-a sem efeito, e JULGO PREJUDICADOS o AGRAVO REGIMENTAL interposto e a presente RECLAMAÇÃO, nos termos do artigo 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 24 de outubro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
