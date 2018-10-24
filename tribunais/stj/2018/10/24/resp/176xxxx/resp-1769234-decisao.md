@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo MUNICÍPIO DE MACEIÓ, na vigência do CPC/73, contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+"DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. APELAÇÃO CÍVEL EM AÇÃO DE EXECUÇÃO FISCAL DA DÍVIDA ATIVA. PRELIMINAR AFASTADA. PRESCRIÇÃO CONFIGURADA. ARTIGO 174 DO CÓDIGO TRIBUTÁRIO NACIONAL. RECURSO CONHECIDO E IMPROVIDO. UNANIMIDADE.
+1. A teor do artigo 174 do CTN: "a ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva". A constituição definitiva ocorre: a) com o lançamento ou no 31º dia após este, ou, b) com a decisão administrativa da qual não cabe mais recurso;
+2. Observa-se que o(s) crédito(s) presente(s) na respectiva certidão da dívida ativa se encontra(m) prescrito(s), transcorrido o prazo legal de 05 anos.
+3. Confirmada a prescrição, resta prejudicada a apreciação das outras matérias trazidas para debate;
+4. Precedentes do Superior Tribunal de Justiça;
+5. Recurso conhecido e não provido. Unanimidade" (fl. 42e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 174, parágrafo único, I, do CTN e 219, § 1º, do CPC/73, sustentando, em síntese, que não está consumada a prescrição do crédito tributário, porquanto "até a prolação da sentença não houve despacho algum por parte do magistrado singular, tampouco houve a efetiva citação do réu. Assim, não se havendo cogitar da presença de causa interruptiva, não se pode falar em prescrição intercorrente, da forma alinhavada na sentença" (fl. 61e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 75/78e).
+A irresignação merece prosperar.
+Na origem, trata-se de Ação de Execução Fiscal ajuizada pela parte ora recorrente, em 12/11/2003, com o objetivo de cobrança da TLLF (Taxa de Licença para Localização e Funcionamento) dos exercícios de 2000 e 2002, inscrita em dívida ativa em 31/12/2000 (fls. 1/2e).
+O Juízo de 1º grau reconheceu a extinção dos créditos executados pela prescrição, ao entendimento de que decorrera o decurso do prazo de 5 anos contados da constituição do crédito, e julgou extinto o processo com resolução do mérito (fls. 3/5e).
+ Recorreu a Fazenda Pública, restando mantida a sentença, pelo Tribunal local, pelos seguintes fundamentos:
+"No caso dos autos, observa-se que o(s) crédito(s) presente(s) na respectiva certidão da dívida ativa se encontra(m) prescrito(s), tendo transcorrido o prazo legal de 05 (cinco) anos.
+É cediço que, para as ações ajuizadas antes da alteração da Lei Complementar nº 118/05 ao Código Tributário Nacional (artigo 174, I), o marco interruptivo da prescrição era a citação válida; para aquelas ajuizadas após essa data, o marco passou a ser o despacho que ordena a citação.
+No caso dos autos, porém, vê-se que o primeiro ato do juiz corresponde a sentença, prolatada após o prazo quinquenal previsto no artigo 174 do CTN, estando prescrito(s), portanto, o(s) crédito(s).
+Dessa forma, sendo a prescrição uma das formas de extinção do crédito tributário, o juízo singular sentenciou o caso acertadamente, razão pela qual a decisão não merece maiores reparos.
+Por fim, tem-se como inaplicável à hipótese versada o conteúdo da Súmula nº 106 do Superior Tribunal de Justiça, cujo conteúdo afirma que proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência, tendo em vista que o reconhecimento da prescrição se deu, exclusivamente, em virtude da desídia da própria Fazenda Pública Municipal" (fl. 48e - negritei).
+Como visto, no caso dos autos, o Tribunal de origem reconheceu que a execução fiscal fora ajuizada dentro do prazo legal e que a citação não fora determinada pelo magistrado, o que implicou no transcurso do prazo prescricional. Contudo, não reconheceu o vício do procedimento e atribuiu a culpa pela demora na prática do ato citatório à parte exequente.
+Portanto, a situação fática restou delineada no acórdão de origem e revela a desídia na prática de ato processual a cargo do Poder Judiciário, por impulso oficial e não da parte exequente.
+Neste sentido, os seguintes precedentes:
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. INEXISTÊNCIA DE DESPACHO DE CITAÇÃO. PRESCRIÇÃO. INEXISTÊNCIA.
+1. A Primeira Seção desta Corte Superior, ao julgar o REsp 1.102.431/RJ, na sistemática dos recursos repetitivos, sedimentou entendimento segundo o qual "a perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário. Inteligência da Súmula 106/STJ".
+2. Hipótese em que a situação fática delineada pelas instâncias ordinárias é suficiente para revelar a desídia na prática de ato processual a cargo do Poder Judiciário, por impulso oficial (art. 262 do CPC/1973), e não da parte exequente, pois, ajuizada a execução fiscal antes de esgotado o prazo prescricional, não se poderia tê-la extinto com o pretexto da ausência de citação, se esta não foi determinada.
+3. Agravo interno não provido" (STJ, AgInt nos EDcl no REsp 1.630.651/AM, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/06/2017).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. LEI 6.830/80.
+AUSÊNCIA DE DESPACHO CITATÓRIO. NULIDADE ABSOLUTA DOS ATOS PRATICADOS. PROVIDÊNCIA INDISPENSÁVEL AO REGULAR ANDAMENTO DO PROCESSO.
+1. Tanto a Lei de Execuções Fiscais quanto o Código de Processo Civil impõem ao magistrado o dever de despachar a petição inicial. Trata-se do exercício de típica atividade de cognição, imprescindível ao regular andamento do processo e que não pode ser delegada.
+2. "A nulidade absoluta é vício insanável, podendo ser reconhecida, de ofício ou mediante requerimento das partes, a qualquer tempo, durante o processo." (CÂMARA, Alexandre Freitas. "Lições de Direito Processual Civil", Vol. I, 9ª ed., Rio de Janeiro: Lumen Juris, 2003, pág. 251) 3. Recurso especial provido" (STJ, REsp 663.061/RJ, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJ de 11/06/2007).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, para determinar o retorno dos autos ao Juízo da Execução, para o prosseguimento do feito.
+I.
