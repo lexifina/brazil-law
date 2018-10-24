@@ -1,0 +1,29 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele estado (Apelação Criminal n. 0038030-09.2013.8.19.0014).
+Consta dos autos que o recorrido - [NOME] - foi condenado à pena de 1 ano e 10 meses de reclusão, em regime inicial aberto, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006, substituída a pena privativa de liberdade por duas restritivas de direitos.
+Nas razões do recurso especial, o ora recorrente alega violação do art. 33, § 4º, da Lei n. 11.343/2006, "uma vez que  o acórdão recorrido  considerou a elementar não se dedicar a atividades criminosas como a circunstância do réu não ter praticado crimes diversos do tráfico de entorpecentes, olvidando para a correta interpretação formulava pelo STJ, no sentido de que, na verdade, esta elementar estabelece a distinção entre traficante ocasional e habitual, com base nos elementos do próprio caso, dentre os quais assumem relevo a quantidade e qualidade da droga e as circunstâncias nas quais o tráfico de entorpecentes era praticado" (fl. 579, grifo no original).
+Requer o provimento do recurso, para que seja afastada a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Contrarrazões às fls. 584-591 e decisão de admissibilidade às fls. 594-597.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+Decido.
+O recurso é tempestivo e preencheu os demais requisitos de admissibilidade. Com efeito, as questões suscitadas foram examinadas pelo Tribunal a quo no julgamento da apelação, a evidenciar o prequestionamento.
+A Corte estadual deu parcial provimento à apelação interposta pela defesa, para reconhecer a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 em relação ao ora recorrido, pelos seguintes fundamentos (fls. 483-484, grifei):
+Vislumbra-se que não há prova nos autos de que os acusados se dediquem à atividades criminosas, nem que integrem organização criminosa.
+A atividade criminosa que se refere a legislação não pode ser relativa ao próprio tráfico, sob pena de nenhuma pessoa que venha a ser presa traficando ter direito ao aludido benefício.
+A lei exige, para impedir a redução da pena, o envolvimento com outras atividades criminosas ou a participação em quadrilha ou bando, o que não é a hipótese dos autos, eis que afastada a condenação pelo delito de associação para o tráfico.
+A aplicação do princípio da presunção de inocência nos remete à conclusão de que a acusação assume o ônus de provar a existência da investigação anterior que aponte o vínculo do apelante com organização criminosa ou o mesmo se dedique habitualmente às atividades criminosas. Se determinado fato alegado não é provado pelo Ministério Público deve ser considerado inexistente.
+ ..
+Já o réu [NOME] é primário e de bons antecedentes, razão pela qual importa no reconhecimento da presença dos requisitos previstos no § 4º do art. 33 da Lei 11343/06, autorizando a redução da pena.
+Preenchendo os requisitos legais, não há discricionariedade do juiz em aplicar ou não a causa de diminuição. É direito do réu de ter sua pena diminuída.
+Com efeito, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+No caso, constata-se que o Tribunal de origem entendeu devidamente preenchidos todos os requisitos autorizadores da redução da pena, havendo salientado que, além de tecnicamente primário e possuidor de bons antecedentes, não há elementos concretos nos autos que permitam a conclusão de que o recorrido se dedicasse a atividades delituosas ou de que integrasse organização criminosa.
+Dessa maneira, para entender de modo diverso, acolhendo a alegação de que o acusado se dedicaria a atividades delituosas ou de que integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência essa vedada em recurso especial, consoante o disposto na Súmula n. 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+ ..
+- Tendo o Tribunal a quo, ao apreciar a apelação, entendido que o agravante preenche os requisitos necessários para a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas, chegar a conclusão diversa implica em exame aprofundado de provas, vedado em sede de especial, a teor da Súmula n. 7 do STJ.
+- A alteração do que restou consignado na instância ordinária, de maneira a permitir a readequação do redutor, demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via especial.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 425.613/PR, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 17/4/2015).
+Ainda, menciono o seguinte trecho de julgado desta Corte Superior de Justiça, em que se afirmou: " ..  demanda sim a esmerilação de fatos e provas a superação do entendimento da Corte estadual no sentido de que o agravante se dedicava diuturnamente ao tráfico de drogas de larga escala, de modo a não fazer jus ao benefício do art. 33, § 4º, da Lei n. 11.343/2006" (AgRg no AREsp n. 859.031/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 25/5/2016).
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 34, XVIII, "a", do RISTJ, não conheço do recurso especial.
+Publique-se e intimem-se.
