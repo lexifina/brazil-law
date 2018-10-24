@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98291, de 15 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9019.20.20 Mercadoria: Aparelho de plástico denominado vulgarmente “inalador”, utilizado na aerossolterapia de bronquite, com formato tubular em L, com bocal e tampa, para ser acoplado ao frasco com mecanismo de aerossol contendo o medicamento para, em conjunto e por acionamento manual, criar o aerossol dosado e direcionado para o paciente aspirar. DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 2 do Capítulo 90 e texto da posição 90.19), RGI/SH 6 (texto da subposição 9019.20) e RGC/NCM 1 (Nota 2 do Capítulo 90 e texto do item 9019.20.20) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016.
+.
+[arquivo anexo: SC COSIT nº 98.291-2018.pdf]
