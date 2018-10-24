@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL.
+1. Para viabilizar o conhecimento do agravo em recurso especial, é necessário que o recorrente impugne especificamente todos fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. Tal circunstância atrai a incidência do disposto no art. 932, III, do Código de Processo Civil de 2015 e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+2. Nesse sentido, ainda, os seguintes precedentes: AgInt no AREsp 880.709/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/06/2016, DJe 17/06/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/05/2016, DJe 13/05/2016; AgRg no AREsp 825.588/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe 12/04/2016; AgRg no AREsp 809.829/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016; e, AgRg no AREsp 905.869/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 14/06/2016.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Herman Benjamin (Presidente) e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de Agravo Interno interposto (e-STJ fls. 301/334) contra a decisão que negou provimento Recurso Especial, assim ementada (e-STJ fl. 293):
+DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. ENUNCIADO ADMINISTRATIVO 2/STJ. ARGUMENTO NÃO COMBATIDO. IMPOSSIBLIDADE. SÚMULA 283/STF. RECURSO ESPECIAL
+Sustenta a Agravante, em síntese, que o acórdão recorrido está em desacordo com o entendimento desta Corte Superior.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL.
+1. Para viabilizar o conhecimento do agravo em recurso especial, é necessário que o recorrente impugne especificamente todos fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. Tal circunstância atrai a incidência do disposto no art. 932, III, do Código de Processo Civil de 2015 e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+2. Nesse sentido, ainda, os seguintes precedentes: AgInt no AREsp 880.709/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/06/2016, DJe 17/06/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/05/2016, DJe 13/05/2016; AgRg no AREsp 825.588/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe 12/04/2016; AgRg no AREsp 809.829/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016; e, AgRg no AREsp 905.869/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 14/06/2016.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O recurso não merece prosperar.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Este agravo interno, além de reiterar novamente as razões do apelo extremo, impugna genericamente as razões da decisão monocrática, essa prática incorrendo na reincidência da propalada irregularidade formal.
+Na decisão monocrática ficou assentado que:
+No que diz respeito ao mérito recurso, o recorrente sustenta, em síntese, que o presente caso não necessita de liquidação por artigos, porquanto o valor da condenação pode ser apurado mediante a realização de meros cálculos aritméticos.
+Ao analisar o acórdão e as razões recursais percebe-se que o primeiro aduziu que:
+No entanto, o que se constata é que a parte exequente propõe uma execução individual de valor não liquidado apresentando planilha relativa ao servidor, desacompanhada de qualquer memória de cálculos ou esclarecimento sobre como foi feita a apuração dos valores ali constantes, objetivando, talvez, com isso, superar a necessidade de prévia liquidação do julgado, como determinando nos dispositivos legais anteriormente transcritos.
+Assim, a pretexto de suplantar a necessidade de haver uma liquidação de sentença condenatória genérica - que, inclusive, deverá, conforme defende a doutrina, fazer-se por artigos, como previa o vetado § único do Artigo 97 do CDC -, liquidação esta novamente mencionada no § 1º, do Artigo 98, do CDC, que menciona como instrumento necessário à instrução da execução coletiva a certidão das sentenças de liquidação, da qual deverá constar a ocorrência ou não do trânsito em julgado, pretende o Exequente, ora Embargante, apenas indicar valores que, ao que parece, decorrem de sua apuração unilateral, não havendo, sequer, memória de cálculos que, evidentemente, deveria ser aferida pelo Juízo da execução.
+Em sede de processo coletivo, em que a sentença condenatória é necessariamente genérica (Artigo 95 do CDC), não é possível prescindir, para que a execução possa se iniciar, da apuração de um valor líquido e exigível, sendo esta apuração feita através de um processo de liquidação, com induvidoso respeito ao contraditório e à ampla defesa, em que o ente público executado deva contribuir de forma efetiva, não sendo razoável transferir para o âmbito dos embargos à execução a possibilidade de impugnação dos critérios de cálculo unilateralmente adotados como forma de evitar esta liquidação, em evidente subversão do processo coletivo. (grifo nosso)
+Depreende-se da leitura do acórdão impugnado e das razões recursais que o insurgente não rebateu todos os argumentos utilizados pelo Tribunal de origem a fim de formar sua decisão.
+Sendo assim, como a fundamentação utilizada pelo Tribunal a quo para formar seu convencimento é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF.
+Acontece que o agravante somente rebateu, novamente, o acórdão do Tribunal a quo e não guerreou o argumentou trazido à baila na decisão monocrática, o que faz com que a fundamentação utilizada mantenha os seus efeitos.
+Para viabilizar o conhecimento do agravo em recurso especial, é necessário que o recorrente impugne especificamente todos fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. Tal circunstância atrai a incidência do disposto no art. 932, III, do Código de Processo Civil de 2015 e no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido, ainda, os seguintes precedentes: AgInt no AREsp 880.709/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/06/2016, DJe 17/06/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/05/2016, DJe 13/05/2016; AgRg no AREsp 825.588/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe 12/04/2016; AgRg no AREsp 809.829/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2016, DJe 29/06/2016; e, AgRg no AREsp 905.869/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 02/06/2016, DJe 14/06/2016.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
