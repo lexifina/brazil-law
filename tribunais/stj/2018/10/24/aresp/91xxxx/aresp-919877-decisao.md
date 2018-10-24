@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE LONDRINA contra decisão que inadmitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal de Justiça do Paraná, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO - IPTU - LEGITIMIDADE DA PROMITENTE COMPRADORA, POSSUIDORA DO IMÓVEL DESDE 2004 E RESPONSÁVEL PELO PAGAMENTO DO TRIBUTO - PRECEDENTES DO STJ - EFEITO DA COISA JULGADA QUE SE ESTENDE ENQUANTO PERMANECER A MESMA SITUAÇÃO JURÍDICA - SENTENÇA MANTIDA - RECURSO A QUE SE NEGA PROVIMENTO.
+Nas razões do especial, alega violação do art. 6º do CPC/1973 e dos arts. 5º, 6º, 7º e 8º da Lei n. 10.257/2001, sustentando as seguintes teses:
+a) ilegitimidade do promitente comprador para o ajuizamento de ação que visa à repetição de valores pagos a título de IPTU;
+b) legalidade da cobrança do imposto de forma progressiva.
+Apresentaram-se contrarrazões ao recurso especial, que não foi admitido, pela aplicação das Súmulas 282 e 284 do STF - fundamentos com os quais não concorda o agravante.
+Contraminuta foi apresentada pela parte agravada.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de ação ajuizada pela agravada em desfavor do ente municipal, em que pleiteia a desconstituição de lançamento de IPTU, bem como a repetição do indébito fiscal, tendo em vista a aplicação ilegal de progressividade na alíquota do imposto.
+Em primeiro grau de jurisdição, o Juízo da 1ª Vara da Fazenda Pública de Londrina - PR julgou parcialmente procedentes os pedidos, para declarar a inconstitucionalidade e inexigibilidade da forma de cobrança progressiva do IPTU do imóvel questionado, determinando, ainda, a restituição à agravada dos valores por ela pagos a maior - ou seja, o que excedeu à alíquota de 3% do valor venal - que estiverem comprovados com a juntada do extrato dos documentos idôneos até a data da liquidação, acrescidos de correção monetária e juros de mora.
+Irresignada, a municipalidade interpôs recurso de apelação, que foi desprovido pelo TJ/PR.
+Pois bem.
+a) Legitimidade do promitente comprador para o ajuizamento de ação de repetição de indébito fiscal
+Sobre o ponto, importa transcrever, de início, a fundamentação adotada pelo Tribunal de origem na oportunidade em que enfrentada a discussão (e-STJ fls. 336/341):
+Em razão da matéria tratada no apelo e tendo em vista os efeitos descritos no art. 515, CPC, cinge-se a controvérsia acerca da legitimidade ou não dá autora em requerer a repetição de indébito, nos termos da inicial, bem como ao efeito prospectivo concedido no decisum, tendo em vista a declaração incidental de inconstitucionalidade e inexigibilidade da forma de cobrança progressiva de IPTU, determinando a redução da alíquota para 3% (três por cento) do valor venal do imóvel.
+Conforme se observa dos documentos contidos às fls. 36/37-TJ, desde, 17/05/2004 a autora é promitente compradora do imóvel urbano não edificado, situado no lote nº 15 da quadra nº 2, do loteamento denominado "Parque Residencial Liberdade", em Londrina-PR, com área total de 373 m2 (trezentos e setenta e três metros quadrados) (Matricula de nº 49.263 do CRI - 2º Ofício daquela Comarca).
+Diante desses elementos, os quais foram afirmados também pelo Poder Público, resta evidente que a apelada detém a posse do imóvel desde aquela data ou seja, em momento anterior ao período que pretende a restituição, demonstrando que suportou o ônus financeiro do tributo (documentos contidos as fls..1.72/187-TJ), sendo, consequentemente, parte legítima para buscar a repetição de indébito.
+Sobre o assunto, já existe entendimento pacificado perante o STJ, senão vejamos:
+(..)
+Portanto, deve ser afastada a alegação de ilegitimidade ativa da apelada.
+Da leitura do excerto supra, verifica-se que a questão relativa à legitimidade não foi decidida à luz do art. 6º do CPC, tido como violado pelo acórdão recorrido. Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação analógica da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ainda que assim não fosse, tem-se que a tese adotada pelo TJ/PR se alinha à pacífica jurisprudência desta Corte, segundo a qual, o promitente comprador é parte legítima para pleitear a repetição de indébito fiscal.
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. IPTU. LEGITIMIDADE DO PROMITENTE COMPRADOR DO IMÓVEL. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça está pacificada no sentido de que detém legitimidade para ajuizar ação de repetição de indébito de IPTU o promitente comprador do imóvel.
+2. Agravo regimental improvido.
+(AgRg no REsp 935.945/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 05/08/2010, DJe 19/08/2010).
+TRIBUTÁRIO - PROCESSO CIVIL - IPTU - ACÓRDÃO - CONTRADIÇÃO E OMISSÃO - DEFICIÊNCIA DE FUNDAMENTAÇÃO - INEXISTÊNCIA DE VÍCIO - ARTS. 4º E 66 DO CTN E ART. 1403 DO CC/2002 - PREQUESTIONAMENTO: AUSÊNCIA - SÚMULA 211/STJ - COMPENSAÇÃO - INEXISTÊNCIA DE LEI AUTORIZATIVA - SÚMULA 280/STF - REPETIÇÃO DE INDÉBITO - PRESCRIÇÃO - TERMO INICIAL DO PRAZO - DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA - SÚMULA 83/STJ - ILEGITIMIDADE PASSIVA - PROMITENTE-COMPRADOR - ART. 34 DO CTN - JURISPRUDÊNCIA PACIFICADA - PRESCRIÇÃO QUINQUENAL OBSERVADA.
+1. É deficiente o recurso que não arrola os fundamentos da existência de violação à legislação federal. Aplicação da Súmula 284/STF.
+2. Inexiste omissão se o acórdão embargado expressamente refere-se à questão federal suscitada.
+3. A irrelevância na aplicação de enunciados normativos à solução do litígio não autoriza a declaração de nulidade do aresto embargado, com fundamento na Súmula 211/STJ.
+4. Afirmado pelo acórdão recorrido a inexistência de lei autorizativa da compensação pleiteada descabe a esta Corte conhecer da matéria por envolver análise de direito local, nos termos da Súmula 280/STF.
+5. Prejudicado o dissídio jurisprudencial concernente ao termo inicial do prazo para o exercício da pretensão repetitória por haver esta Corte sedimentado o entendimento segundo o qual a declaração de inconstitucionalidade do tributo é irrelevante para a contagem do lustro da ação repetitória. Precedentes.
+6. A jurisprudência desta Corte firmou-se no sentido de que o promitente comprador pode ser considerado contribuinte do IPTU, conjuntamente com o proprietário do imóvel, responsável pelo seu pagamento. Precedentes.
+7. O prazo prescricional da ação anulatória e da ação de repetição de indébito tributário é quinquenal. Precedentes.
+8. Recurso especial dos particulares conhecido em parte e, nessa parte, não provido.
+9. Recurso especial da Fazenda Pública municipal não provido.
+(REsp 980.001/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 18/08/2009, DJe 03/09/2009).
+Dessa forma, aplica-se à espécie a Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cabe salientar que o paradigma colacionado nas razões do especial trata de situação diversa a dos presentes autos, qual seja, a legitimidade do locatário para a propositura de demanda de natureza repetitória. Essa hipótese já foi pacificada pela Primeira Seção do STJ, no julgamento do AgRg no REsp 836.089/SP - oportunidade em que se definiu que o locatário não ostenta condição de contribuinte ou de responsável tributário, para pleitear a repetição de indébito fiscal.
+b) Legalidade da cobrança do imposto de forma progressiva
+Quanto ao ponto, observa-se claramente que a instância ordinária não emitiu juízo de valor expresso sobre os arts. 5º, 6º, 7º e 8º da Lei n. 10.257/2001. Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação analógica da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A bem da verdade, o acórdão recorrido limitou-se a analisar a questão referente aos efeitos prospectivos da sentença, que reconheceu a inconstitucionalidade e inexigibilidade do IPTU. Vejamos, no que interessa, o que está consignado no voto condutor (e-STJ fls. 342/345):
+Por outro lado, afirma o Município que não pode ter efeito futuro a declaração incidental de inconstitucionalidade e inexigibilidade de cobrança progressiva de IPTU, com determinação de redução da alíquota para 3% (três por cento) sobre o valor venal do imóvel.
+Todavia, novamente sem razão.
+Necessário consignar a diferença entre sentenças que regram ocasiões que ainda não se consumaram (nulas por falta de interesse processual), daquelas que recaiam sobre situações futuras mas vinculadas a circunstâncias presentes iá discutidas e decididas.
+Nas palavras de Fredie Didier Jr. (Curso de Direito Processual Civil - Introdução ao Direito Processual Civil e Processo de Conhecimento. Volume 2; 7ª Edição. Jus Povium. 2012. P. 442):
+(..)
+Ao contrário do que entende o Fisco Municipal, a decisão declaratória de inexigibilidade de cobrança de IPTU progressivo, com redução para alíquota de 3% (três por cento), se trata de ato jurisdicional prescritivo, que torna indiscutível a situação posta quando não caiba mais nenhum recurso, sob pena de afronta a coisa julgada.
+Em sendo assim, enquanto permanecer a mesma situação jurídica e tática descrita na petição inicial (causa de pedir), a norma individualizadora descrita no dispositivo da sentença deve ser aplicada, protraindo-se no tempo, exceto no caso de superveniência de outra norma no sentido diverso.
+É nesse sentido que o art. 301, § 2º e § 3º, CPC, como condição de validade do processo, proíbe a reprodução de ação anteriormente decidida por sentença de que não caiba recurso, quando há as mesmas partes, causa de pedir e pedido, também reproduzido no caput do art. 471 do mesmo codex.
+Nesses termos, consignou o TJ/PR que, enquanto permanecer a mesma situação fático-jurídica relacionada à causa de pedir da presente ação declaratória, a norma dispositiva lançada na sentença deve ser aplicada. Até porque esse comando judicial só perde a sua eficácia no caso de superveniência de outro em sentido diverso.
+Esse fundamento, aliás, nem sequer foi impugnado nas razões do apelo extremo, razão pela qual também deve incidir o óbice disposto na Súmula 283 do STF, segundo a qual: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
