@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98285, de 10 de outubro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 6815.99.19 Mercadoria: Blocos refratários, não cozidos, à base de alumina e carbeto de silício eletrofundidos, além de carbono, aditivos e ligantes, em que a alumina eletrofundida predomina com teor entre 80% e 85%, instalados principalmente em carros torpedos e panelas de gusa utilizados no processo produtivo de aço. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 68.15), RGI 6 (textos da subposição de primeiro nível 6815.9 e de segundo nível 6815.99) e RGC-1 (textos do item 6815.99.1 e do subitem 6815.99.19) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC COSIT nº 98.285-2018.pdf]
