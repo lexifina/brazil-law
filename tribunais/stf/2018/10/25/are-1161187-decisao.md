@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo interposto contra acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “Ação direito de inconstitucionalidade. Lei Municipal da Urbe de Carira. Fixação de Subsídio de Prefeito, Vice prefeito e secretário municipais. Respeito aos limites constitucionais delineados na Constituição Federal. Inaplicabilidade das diretrizes contidas na Carta Estadual, ante a ausência de similitude normativa. Pleito autoral julgado improcedente.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta que o Tribunal de origem ofendeu o art. 37 da Constituição, ao considerar razoável lei municipal impugnada.
+    A pretensão recursal não merece prosperar. A recorrente não indicou, nas razões do recurso extraordinário, os dispositivos constitucionais supostamente violados, limitando-se a manifestar sua irresignação contra o julgado. Além disso, a parte recorrente não demonstrou em que sentido a Lei Municipal violou o princípio da razoabilidade, sendo deficiente a fundamentação do recurso. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF. Confiram-se os julgados:
+          “Agravo regimental no recurso extraordinário. Não indicação dos dispositivos constitucionais violados. Incidência da Súmula nº 284 desta Corte. Precedentes. 1. O recorrente não indicou, nas suas razões recursais, os dispositivos constitucionais que, porventura, teriam sido violados pelo acórdão recorrido. Incidência da Súmula nº 284 do Supremo Tribunal Federal. 2. Agravo regimental não provido.” (RE 590.336-AgR, Rel. Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. 1. RECURSO EXTRAORDINÁRIO NO QUAL NÃO HÁ A INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS TIDOS POR OFENDIDOS: DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. 2. REMESSA NECESSÁRIA: CÓDIGO DE PROCESSO CIVIL. QUESTÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO.” (AI 705.593-AgR, Relª. Minª. Cármen Lúcia)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 25 de outubro de 2018.
+Ministro Luís Roberto Barroso
+Relator
