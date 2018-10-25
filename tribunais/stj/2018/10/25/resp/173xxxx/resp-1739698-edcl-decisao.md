@@ -1,0 +1,30 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS DO ARTIGO 619. OCORRÊNCIA. EMBARGOS ACOLHIDOS PARA ATRIBUIR-LHES EFEITOS INFRINGENTES.
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão de fls. 472-476 que negou provimento ao recurso especial.
+Nas razões dos presentes embargos de declaração, a parte embargante sustenta que houve contradição no julgamento do recurso porquanto se fundou no sentido pretendido pela parte recorrente e, ao final, restou desprovido o recurso interposto.
+É o relatório.
+Decido.
+São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada.
+Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Há, na hipótese, qualquer vício a ser sanado.
+De fato, conforme assentado na decisão ora embargada, fixada a pena acima de 4 anos e existindo circunstância judicial desfavorável, é possível a fixação de regime fechado para início de cumprimento da pena, nos termos do artigo 33, §§ 2º e 3º, do Código Penal, mormente se levada em considerada a quantidade e natureza da droga apreendida em poder do recorrido/embargado (97,8g de cocaína e 50,1g de crack).
+A propósito:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE FATOS. INCABÍVEL. INOVAÇÃO NOS FUNDAMENTOS PELA CORTE DE ORIGEM EM RECURSO EXCLUSIVO DA DEFESA. POSSIBILIDADE. PROFUNDIDADE DO EFEITO DEVOLUTIVO. NÃO OCORRÊNCIA DE REFORMATIO IN PEJUS. REGIME PRISIONAL. QUANTIDADE E DIVERSIDADE DA DROGA APREENDIDA. MODO FECHADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. WRIT NÃO CONHECIDO.
+ ..
+2. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+3. Concluído pelas instâncias antecedentes, com fulcro nas circunstâncias fáticas do delito e no registro de outras condenações não definitivas, que o paciente se dedica a atividades criminosas, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. Precedentes.
+4. A existência de outros processos criminais, pendentes de definitividade, embora não sirvam para a negativa valoração da reincidência e dos antecedentes (Súmula n. 444 do STJ), podem afastar a incidência da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, quando permitirem concluir que o agente se dedica a atividades criminosas ou integra organização criminosa.
+5. O princípio do non reformatio in pejus não obsta que o Tribunal de origem, exercendo sua soberania para dizer o direito, encontre nova fundamentação para manter afastada a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, desde que respeitada a imputação deduzida pelo órgão de acusação e o limite da pena imposta no Juízo de origem.
+6. Na identificação do modo inicial de cumprimento de pena, o magistrado deve observar às regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, também o art. 42 da Lei de Drogas.
+7. Embora o paciente seja tecnicamente primário e a pena aplicada seja de 6 anos de reclusão, revela-se adequado o regime inicial fechado para o cumprimento da pena reclusiva, diante da quantidade, da natureza e da variedade de droga apreendida (8 porções de maconha, pesando 2,900 kg e 8 porções de cocaína, pesando 16g), conforme assentado no acórdão impugnado (art. 33, § 3º, do Código Penal c/c o art. 42 da Lei n. 11.343/2006).
+8. Habeas corpus não conhecido" (HC n. 386.940/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/3/2017 , grifei).
+"HABEAS CORPUS. SUBSTITUTIVO DO RECURSO PRÓPRIO. IMPROPRIEDADE DA UTILIZAÇÃO DO REMÉDIO HERÓICO. (I) DOIS PACIENTES. CONDENAÇÃO. TRÁFICO ILÍCITO DE DROGAS (PARA AMBOS). POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (APENAS PARA UM DELES). (II) REGIME INICIAL FECHADO. NATUREZA HEDIONDA DO DELITO. FUNDAMENTO INIDÔNEO. INCONSTITUCIONALIDADE DECLARADA PELO STF. GRAVIDADE ABSTRATA DOS FATOS. PACIENTES PRIMÁRIOS E DE BONS ANTECEDENTES. PENA-BASE FIXADA NO MÍNIMO LEGAL. (III) SUBSTITUIÇÃO DA PENA CORPORAL. VARIEDADE E NOCIVIDADE DOS ENTORPECENTES APREENDIDOS. INVIABILIDADE.
+ ..
+3. Caso em que o Tribunal de Justiça estabeleceu o regime mais gravoso para o início do cumprimento da pena dos pacientes, com fulcro na gravidade abstrata do delito e no dispositivo da Lei de Crimes Hediondos considerado inconstitucional pela Suprema Corte.
+4. Conquanto a reprimenda final da paciente virago tenha sido fixada em 3 anos e 4 meses, revela-se inviável a fixação do regime inicial aberto, diante da natureza e variedade das drogas apreendidas (51 microtubos contendo crack, 16 pedras de cocaína e 48 trouxinhas de maconha).
+ ..
+6. A nocividade e a diversidade das drogas apreendidas recomendam a fixação do regime inicial intermediário e a negativa à substituição da pena corporal pelas restritivas de direitos, para ambos os acusados (Precedentes).
+7. Habeas corpus não conhecido. Ordem concedida de ofício, a fim de restabelecer o regime semiaberto para o cumprimento pelos pacientes da pena privativa de liberdade" (HC n. 364.275/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 11/11/2016, grifei).
+Ante o exposto, conheço dos embargos para atribuir-lhes efeitos infringentes e, com isso, dar provimento ao recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL e fixar o regime inicial fechado para resgate da reprimenda imposta ao recorrido.
+P. e I.
