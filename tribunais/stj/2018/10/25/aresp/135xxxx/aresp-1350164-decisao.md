@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. REQUISITOS.
+Reunidos os requisitos de qualidade de segurado e carência, mesmo que embora possível, teoricamente, o exercício de outra atividade pelo segurado, ainda assim a inativação por invalidez deve ser outorgada nos casos em que, na prática, for difícil a reabilitação, seja pela natureza da doença ou das atividades normalmente desenvolvidas, seja pela idade avançada.
+Foram rejeitados os embargos declaratórios opostos.
+Alega o recorrente, inicialmente, violação ao art. 1.022 do CPC/15.
+Sustenta que o acórdão recorrido foi omisso na apreciação da legislação que fixa a distribuição da verba honorária entre partes vencida e vencedora, bem como quanto à ausência de incapacidade, mesmo ante a oposição de embargos declaratório.
+Sustenta ainda, violação dos arts. 42 e 43 §1º da Lei n. 8.213/91e art. 156 e 375 do CPC, ao argumento de que o requisito incapacidade não foi comprovado in casu porquanto a perícia realizada não concluiu pela incapacidade laboral, não havendo motivos relevantes para o magistrado afastar o laudo pericial, o qual só poderia ser afastado em decisão fundamentada sob pena de ofensa ao princípio do contraditório.
+Em contrarrazões, [NOME] alega a autarquia pretende a análise da prova, vedado pela Súmula n. 7 do STJ.
+O recurso especial foi inadmitido com base na Súmula nº 7 do STJ, a qual prevê que a pretensão de simples reexame de prova não enseja recurso especial.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Conforme delimitado no art. 1.022 do CPC/2015, os embargos de declaração, além da correção de erro material, têm o desiderato de escoimar contradição, omissão ou obscuridade, de ponto ou questão sobre a qual devia o julgador se pronunciar. Não está incluída dentre as finalidades dos embargos a imposição ao magistrado de examinar todos os dispositivos legais indicados pelas partes, mesmo que para os fins de prequestionamento.
+Nesse panorama, a oposição dos embargos declaratórios contra acórdão que enfrentou a controvérsia de forma integral e fundamentada, caracteriza, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Com efeito, a Corte considerou o recorrido incapaz para o trabalho, tendo em vista a moléstia que lhe acomete combinada com suas condições pessoais.
+Quanto à questão dos honorários, esta nem ao menos está na peça dos embargos.
+Descaracterizada, portanto, a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1.022 do CPC/15, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO. SERVIDOR PÚBLICO. EX-CELETISTA. ADIANTAMENTO DO PCCS. NATUREZA SALARIAL RECONHECIDA PELA JUSTIÇA DO TRABALHO. REAJUSTE. REFLEXOS SOBRE O PERÍODO ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015.
+1. De acordo com a norma prevista no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1611355/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/02/2017, DJe 24/02/2017)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. OMISSÃO NO JULGADO EMBARGADO. NÃO OCORRÊNCIA. PRETENSÃO VISANDO AO DEBATE ACERCA DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL EM ACLARATÓRIOS. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios são recurso de fundamentação vinculada às hipóteses de cabimento previstas no incisos I e II do art. 535 do antigo CPC (atual art. 1.022 do novo CPC), portanto, restrito às situações de existência de obscuridade, contradição ou omissão no julgado. Eles não se prestam ao rejulgamento da lide, mas apenas à elucidação ou ao aperfeiçoamento do decisum caso se verifiquem as situações acima descritas.
+2. No caso dos autos, nota-se que não ocorre nenhuma dessas hipóteses. Com efeito, o julgado embargado está devidamente fundamentado, inclusive com suporte na jurisprudência desta Corte; ademais, o julgador não está obrigado a enfrentar e rebater todos os argumentos da parte, mas apenas a declinar os fundamentos de seu convencimento de forma motivada.
+3. "Nos termos do art. 105, inciso III, da Constituição Federal, não compete a esta Corte o exame de dispositivos constitucionais em sede de embargos de declaração, ainda que manejados para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal" (EDcl no AgInt no AREsp 833.296/MT, Rel.
+Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/9/2016, DJe 4/10/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 713.546/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 25/11/2016)
+
+No que pertine à matéria de fundo, qual seja, a concessão do benefício de aposentadoria por invalidez observando aos requisitos dispostos no art. 42 da Lei n. 8.213/91, verifico que, o Tribunal a quo, com base no conjunto fático-probatório, consignou que, in casu, pode-se concluir que a autora, ora recorrida, está definitivamente incapacitada para a atividade que exercia anteriormente, o que, em conjunto com suas condições pessoais, lhe dá direito ao recebimento do benefício.
+Tal entendimento é consoante com jurisprudência desta e. Corte, a qual entende que na análise da concessão de aposentadoria por invalidez, o magistrado, para aferir a incapacidade do segurado, pode levar em consideração aspectos culturais e sócio-econômicos.
+Nesse sentido, in verbis:
+PROCESSUAL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. ACÓRDÃO EMBASADO EM OUTROS ELEMENTOS ALÉM DO LAUDO PERICIAL. POSSIBILIDADE.
+1. Na análise da concessão da aposentadoria por invalidez, o magistrado não está adstrito ao laudo pericial, devendo considerar também aspectos socioeconômicos, profissionais e culturais do segurado a fim de aferir-lhe a possibilidade ou não de retorno ao trabalho. A invalidez laborativa não decorre de mero resultado de uma disfunção orgânica, mas da somatória das condições de saúde e pessoais de cada indivíduo. Precedentes. grifo nosso
+2. O Tribunal a quo admitiu estar comprovado que a ora agravada ficou incapacitada de modo permanente e definitivo para exercer suas atividades laborativas, não obstante o laudo pericial ter concluído pela incapacidade apenas parcial. Inteligência da Súmula 83/STJ.
+3. A revisão do conjunto conjunto fático-probatório dos autos que levou o Tribunal a quo a conclusão acerca da incapacidade laboral do segurado exige análise de provas e fatos, o que inviabiliza a realização de tal procedimento pelo STJ, no recurso especial, nos termos da Súmula 07/STJ.
+4. Agravo regimental não provido. (AgRg no AREsp 196.053/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 25/09/2012, DJe 04/10/2012)
+AGRAVO REGIMENTAL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. NÃO VINCULAÇÃO AO LAUDO PERICIAL. OUTROS ELEMENTOS CONSTANTES DOS AUTOS. PRINCÍPIO DO LIVRE CONVENCIMENTO. INCAPACIDADE DEFINITIVA. CUMPRIMENTO DE REQUISITO LEGAL. SÚMULA Nº 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o magistrado não está adstrito ao laudo, devendo considerar também aspectos sócio-econômicos, profissionais e culturais do segurado a fim de aferir-lhe a possibilidade ou não, de retorno ao trabalho, ou de sua inserção no mercado de trabalho, mesmo porque a invalidez laborativa não é meramente o resultado de uma disfunção orgânica, mas uma somatória das condições de saúde e pessoais de cada indivíduo.(grifo nosso)
+2. Havendo a Corte regional concluído pela presença das condições necessárias à concessão do benefício, com base em outros elementos constantes dos autos, suficientes à formação de sua convicção, modificar tal entendimento, importaria em desafiar a orientação fixada pela Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 81.329/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 14/02/2012, DJe 01/03/2012)
+Desconstituir tais fundamentos esbarraria no óbice constante na Súmula 7/STJ, a qual veda o reexame fático-probatório em sede de recurso especial.
+Com fundamento no art. 85, §11, do CPC/2015, majoro os honorários advocatícios fixados na instância ordinária em 1% (um por cento).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
