@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. PENHORA. ALIENAÇÃO DO BEM. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 655):
+AGRAVO DE INSTRUMENTO. FRAÇÃO IDEAL DE IMÓVEL. PENHORA. BAIXA EXPECTATIVA DE INTERESSADOS NA ARREMATAÇÃO. INDEFERIMENTO.
+Tratando-se de pequena fração ideal de lote urbano, adquirido em condomínio por diversas pessoas, tem-se que as circunstâncias do caso concreto indicam a baixa probabilidade de eventuais interessados na arrematação do imóvel, razão pela qual se mostra adequada a decisão monocrática que indeferiu a penhora, em face dos princípios da proporcionalidade, razoabilidade e efetividade do processo.
+Os embargos de declaração foram rejeitados, conforme ementa de fl. 670.
+No apelo especial, a parte recorrente alega, preliminarmente, violação do art. 1.022, II, do CPC/2015, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+Quanto ao juízo de reforma, aduz ofensa aos arts. 10 da Lei 6.830/80 e art. 612 do CPC/1973. Sustenta, em síntese, que "a suposta irrisoriedade do valor do bem a ser penhorado não é argumento hábil a afastar a penhora sobre o mesmo".
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 689
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+O Tribunal de origem em suas razões de decidir consignou que (fls. 653-654):
+Conforme se infere da decisão monocrática, após reconhecer a ocorrência de fraude à execução, o Juiz indeferiu o pedido de penhora, porque, entre outros motivos, "a alienação atinge pequena fração ideal de um imóvel, adquirido em condomínio por várias pessoas, o que torna a penhora pouco viável sob o ponto de vista da alienação judicial do bem, uma vez que de difícil comercialização".
+Fundamentou, ainda, que "ponderando que a penhora requerida, por um lado, movimentará toda a máquina judiciária (..), ao mesmo tempo em que trará pouca utilidade à satisfação do crédito, a medida, por razões de razoabilidade e proporcionalidade, não deve ser deferida, tendo em vista que apenas trará ônus às partes".
+Pois bem, o argumento trazido pela agravante, no sentido de que o imóvel em questão é, em verdade, uma unidade condominial autônoma, perfeitamente individualizada, não condiz com os elementos probatórios constantes nos autos.
+Do cotejo da decisão monocrática com as informações constantes nas contrarrazões do agravado, bem como com os documentos juntados (ev. 15), depreende-se que a área em tela é um lote de terras urbano, adquirido pelo condomínio Firenze, para fins de construção de uma garagem do edifício, inexistindo divisão individualizada da propriedade, tratando-se, portanto, de fração ideal de imóvel.
+Assim, tendo em vista que as circunstâncias indicam a baixa probabilidade de haver interessados na arrematação do bem, agiu bem o julgador singular ao indeferir o pedido de penhora, com base no princípio da razoabilidade, proporcionalidade e efetividade do processo (..)
+ ..
+A parte recorrente, ao direcionar a sua tese no sentido de que a suposta irrisoriedade do valor do bem a ser penhorado não é argumento hábil a afastar a penhora sobre o mesmo, deixa de impugnar o fundamento do acórdão recorrido de que a área em tela é um lote de terras urbano, adquirido pelo condomínio Firenze, para fins de construção de uma garagem do edifício, inexistindo divisão individualizada da propriedade, tratando-se, portanto, de fração ideal de imóvel, ou seja, as circunstâncias indicam a baixa probabilidade de haver interessados na arrematação do bem. Tal situação dá ensejo a aplicação, por analogia, da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles".
+Além do mais, rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal acerca da viabilidade da constrição sobre o bem em exame, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
