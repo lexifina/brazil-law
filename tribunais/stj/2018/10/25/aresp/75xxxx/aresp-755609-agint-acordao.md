@@ -1,0 +1,68 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE RÉ.
+1. Incide o óbice recursal da Súmula n. 282 do STF na hipótese em que os dispositivos legais apontados como violados - artigos 475, 476, 477, 491, 495 e 885, todos do Código Civil - não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. Não se vislumbra o vício de julgamento "ultra petita" suscitado, quando o provimento jurisdicional recorrido traduz interpretação lógico-sistemática da causa de pedir formulada. Precedentes.
+3. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por AUTOTEX INDÚSTRIA E COMÉRCIO TÊXTIL LTDA em face de decisão monocrática da lavra deste signatário (fls. 341/344, e-STJ) que negou provimento ao agravo (art. 544 do CPC/1973).
+Trata-se, na origem, de ação de rescisão contratual cumulada com indenizatória ajuizada por CLICK PLAY PROMOÇÕES E EVENTOS LTDA, ora agravante, em face de [NOME] LTDA E OUTRO.
+O juízo de primeiro grau, em sentença proferida às fls. 150/152, e-STJ, julgou improcedente o pedido da inicial, condenando a recorrente ao pagamento dos ônus da sucumbência.
+Interposto recurso de apelação, o Tribunal de Justiça do Estado de São Paulo negou provimento ao apelo, em acórdão assim ementado (fl. 194, e-STJ):
+Processual cível. Cerceamento do direito de defesa. Inocorrência. Desinteresse na produção de outras provas manifestado em audiência de instrução e julgamento. Preliminar rejeitada.
+Apelação cível. Contrato de compra-e-venda de carpete/tapete. Ação declaratória de rescisão contratual cumulada com devolução de valores. Asseverada revelia decorrente de irregularidade em representação processual. Vício sanado - inocorrência. Fato extraordinário e imprevisível a impossibilitar o cumprimento do contrato. Lei n. 9.981/2000, com vigência a partir de 31 de dezembro de 2001 - vedação legal de atividade envolvendo exploração de jogo de bingo. Contrato celebrado em março de 2007. Interdição de estabelecimento por falta de alvará de funcionamento - evento previsível. Contrato hígido, sem qualquer marca de onerosidade excessiva - artigo 478 do Código Civil - com a só nota de que devida a entrega do produto, evitado, assim, o enriquecimento sem causa do fornecedor. Sentença mantida. Recurso improvido, com observação.
+Opostos embargos de declaração, esses foram rejeitados (fls. 208/215, e-STJ).
+Em suas razões de recurso especial (fls. 239/250, e-STJ), fundado na alínea "a" do permissivo constitucional, a recorrente apontou violação aos arts. 515, §§ 1º e 2º, 516, 517 e 535, inciso I, do Código de Processo Civil de 1973; 475, 476, 477, 491, 495 e 885, do Código Civil, além dissídio jurisprudencial.
+Sustentou, em síntese: a) a existência de contradição na decisão recorrida; b) "que não há enriquecimento sem causa com a manutenção do produto, pois foram gastos valores com fabricação, importação e alocação do produto"; c) "para que fosse legítima a entrega do produto à recorrida, deveria, necessariamente arcar com a contraprestação, qual seja, pagamento da outra metade do valor ajustado, o que não ocorrera"; e d) "não houve pedido da entrega do produto, mas somente da devolução do valor pago, a título de indenização, verifica-se, pois, que o julgamento do acórdão foi ultra petita".
+Contrarrazões apresentadas às fls. 271/275, e-STJ.
+Diante da negativa de seguimento ao apelo extremo, em juízo provisório de admissibilidade, interpôs a parte recorrente o respectivo agravo (art. 544 do CPC/73), em cujas razões pugnou pelo processamento de seu recurso especial.
+Em decisão monocrática (fls. 341/344, e-STJ), este signatário negou provimento ao agravo, sob os seguintes fundamentos: a) inexistência de violação ao art. 535, inc. I, do CPC/73, quanto à alegação de contradição, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia; b) incidência do óbice da Súmula 282/STF, ante a falta de prequestionamento do disposto nos arts. 475, 476, 477, 491, 495 e 885 do Código Civil; e c) o acolhimento da pretensão recursal, quanto à alegação de julgamento "ultra petita", demandaria o reexame do suporte fático dos autos, atraindo a incidência da Súmula 07 do STJ.
+No presente agravo interno (fls. 352/362, e-STJ), a parte insurgente refuta a aplicação da Súmula 07 do STJ, sob a afirmação de que "a agravante não pretendeu o reexame das provas discutidas no processo, mas tão somente a correta aplicação da legislação vigente, notadamente porque o julgamento foi ultra petita".
+No mérito, aduz que os arts. 475, 476, 477, 491, 495 e 885, todos do Código Civil, foram prequestionados, reiterando as razões recursais expostas na petição de recurso especial.
+Por fim, requer a reforma da decisão agravada.
+Impugnação apresentada às fls. 368/375, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE RÉ.
+1. Incide o óbice recursal da Súmula n. 282 do STF na hipótese em que os dispositivos legais apontados como violados - artigos 475, 476, 477, 491, 495 e 885, todos do Código Civil - não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. Não se vislumbra o vício de julgamento "ultra petita" suscitado, quando o provimento jurisdicional recorrido traduz interpretação lógico-sistemática da causa de pedir formulada. Precedentes.
+3. Agravo interno desprovido.
+
+ VOTO
+O SR. MINISTRO MARCO BUZZI (Relator): O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado.
+1. No que tange à aventada contrariedade aos arts. 475, 476, 477, 491, 495 e 885, todos do Código Civil, a parte agravante aduz que houve o devido prequestionamento da matéria, reiterando as razões recursais expostas na petição de recurso especial.
+No entanto, conforme afirmado na decisão agravada, no que respeita à afronta ao disposto nos artigos 475, 476, 477, 491, 495 e 885, do Código Civil, incide, na espécie, o Enunciado n. 282, da Súmula do STF, ante a ausência de prequestionamento da tese jurídica, porquanto os referidos dispositivos não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Observa-se, de fato, que a Corte local não tratou da tese sustentada pela parte ora recorrente nessa parte, no sentido de que "para que fosse legítima a entrega do produto à recorrida, deveria, necessariamente arcar com a contraprestação, qual seja, pagamento da outra metade do valor ajustado, o que não ocorrera".
+Desse modo, forçoso o reconhecimento da ausência de prequestionamento.
+2. No mais, com relação à alegação recursal de que foi proferida decisão "ultra petita", a parte agravante refuta a aplicação da Súmula 07/STJ.
+Nas razões do recurso especial, a ora recorrente alegou que foi proferida decisão diversa do pedido constante da inicial, uma vez que "não houve pedido da entrega do produto, mas somente da devolução do valor pago, a título de indenização".
+O Tribunal de origem, por sua vez, quando do julgamento dos embargos declaratórios, entendeu que não há se falar em julgamento "ultra petita", pronunciando-se nos seguintes termos (fls. 211/212, e-STJ):
+A turma julgadora chancelou a manutenção integral da r. sentença editada em primeira instância, é dizer, preservou o hígido contrato celebrado pelas partes, impondo, apenas, de passagem, em conseqüência mesmo natural, a necessária entrega do produto como condição ao contingente exercício do direito de cobrança, relevando lembrar, no atinente, de um lado o caráter sinalagmático da avença, e de outro a inibição do enriquecimento sem causa.
+Nessa ordem de idéias nota de [NOME]: Nos contratos sinalagmáticos, como apontamos alhures, nenhum dos contratantes poderá, antes de cumprir a sua obrigação, exigir a do outro (CC, 476, caput). Isto é assim porque nesses contratos há uma dependência recíproca das prestações que, por serem simultâneas, são exigíveis no mesmo momento;  ..  logo, cada contraente poderá recusar-se a cumprir a sua obrigação, opondo a exceptio non adimpleti contractus, mas se não cumpriu o dever contraído, lícito não lhe será exigir que o outro cumpra o seu"1.
+Não há cogitar-se, destarte, "data venia", em julgamento "ultra petita". (grifo nosso)
+Sobre o tema, observa-se que a jurisprudência do STJ é firme no sentido de que o vício de julgamento extra petita não se configura quando o provimento jurisdicional representar decorrência lógica do pedido, compreendido como "aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica "dos pedidos"" (REsp 120.299/ES, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 25.06.1998, DJ 21.09.1998).
+No mesmo sentido:
+AGRAVO REGIMENTAL - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - JULGAMENTO EXTRA PETITA - INOCORRÊNCIA - VIOLAÇÃO AOS ARTS. 471 E 473 DO CPC - AUSÊNCIA DE INTERESSE RECURSAL - DEPÓSITO JUDICIAL - CORREÇÃO MONETÁRIA E JUROS - RESPONSABILIDADE DO BANCO DEPOSITÁRIO - MULTA DO ART. 475-J DO CPC - FUNDAMENTO INATACADO - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- O v. Acórdão deu solução pertinente ao caso, já que o efeito devolutivo pretendido se refere a quantia indevidamente cobrada pela exequente e não com relação às penas previstas no artigo 940 do Código Civil, é o que se extrai da seguinte passagem da petição de Agravo de Instrumento, in verbis: a Agravada por duas vezes requereu o pagamento via execução de reajuste de débito já efetiva e integralmente pago, o que afasta a "mais mínima" boa-fé na prática da cobrança indevida (e-STJ fls. 16). A Jurisprudência desta Corte entende que o pedido e a causa de pedir devem ser extraídos a partir de uma interpretação lógico-sistemática de toda a petição inicial, sendo desnecessário a sua formulação expressa na parte final desse documento, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame.
+(..)
+6.- Agravo Regimental improvido. (AgRg no REsp 1.236.431/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 23.10.2012, DJe 08.11.2012)
+PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO ACIONÁRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 5º, I, DA CF/88. ÍNDOLE CONSTITUCIONAL. JULGAMENTO EXTRA PETITA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+(..)
+- Não há julgamento extra petita quando a decisão representa mera consequência lógica do julgado, estando seus contornos dentro do limite da prestação jurisdicional.
+(..)
+- Agravo não provido. (AgRg no AREsp 113.792/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26.06.2012, DJe 02.08.2012)
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/1973) - CUMPRIMENTO DE SENTENÇA - AÇÃO DE COMPLEMENTAÇÃO ACIONÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA REQUERIDA.
+1. A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. Não há falar em julgamento extra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco concede providência jurisdicional diversa da requerida, respeitando o princípio da congruência. Ademais, os pedidos formulados devem ser examinados a partir de uma interpretação lógico-sistemática. (REsp 1605466/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/08/2016, DJe 28/10/2016). 2.1. No caso concreto, o Tribunal de origem examinou o recurso da parte adversa dentro dos limites do pedido formulado, uma vez que a incidência de correção monetária é decorrência lógica do pedido e a imposição de multa do artigo 457-J sobre o saldo remanescente decorre da aplicação da lei.
+3. Agravo interno desprovido.
+(AgInt no AgRg no AREsp 345.313/RS, de minha relatoria, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+No caso em análise, o Tribunal de origem refutou a tese de julgamento "ultra petita", concluindo que a entrega do produto convencionado seria condição necessária para o exercício do direito de cobrança pelo credor, isto é, não poderia a parte ora recorrente exigir a contraprestação da outra parte, pagamento integral do valor ajustado, sem antes cumprir com sua obrigação de entregar o produto contratado.
+Destarte, não se vislumbra o vício de julgamento "ultra petita" suscitado, na medida em que o provimento jurisdicional recorrido traduz interpretação lógico-sistemática da causa de pedir formulada.
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
