@@ -1,0 +1,84 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TELEFONIA. ADEQUAÇÃO DA COBRANÇA DAS FATURAS TELEFÔNICAS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. DISSÍDIO NÃO DEMONSTRADO. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Trata-se, na origem, de Ação de Indenização, ajuizada pela parte agravante em face de OI S/A. O acórdão do Tribunal de origem reformou a sentença, para julgar improcedente o pedido.
+III. O entendimento firmado pelo Tribunal a quo, no sentido da adequação da cobrança das faturas telefônicas, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+IV. Descabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a do permissivo constitucional, servem de justificativa quanto à sua alínea c.
+V. Agravo Regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo Regimental, interposto por [NOME], em 08/10/2015, contra decisão de minha lavra, publicada em 05/10/2015, assim fundamentada, in verbis:
+"Trata-se de Recurso Especial interposto por [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 344e):
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE COBRANÇA C/C REPETIÇÃO DE INDÉBITO, DANO MORAL E RESPONSABILIDADE CIVIL DISSUASÓRIA. PRELIMINAR DE PRESCRIÇÃO. A PRETENSÃO DE RESTITUIÇÃO DOS VALORES COBRADOS INDEVIDAMENTE NAS CONTAS TELEFÔNICAS DEVE OBSERVAR O PRAZO PRESCRICIONAL PREVISTO NO ART. 27, DO CÓDIGO DE DEFESA DO CONSUMIDOR. SERVIÇOS DE TELEFONIA. IMPUGNAÇÃO DE SERVIÇOS. INCIDÊNCIA DE CÓDIGO DE DEFESA DO CONSUMIDOR. CONSIDERANDO A PRESUNÇÃO DE VERACIDADE DAS FATURAS TELEFÔNICAS E DOS DEMAIS DOCUMENTOS TRAZIDOS PELA REQUERIDA AOS AUTOS, NÃO DERRUBADA PELA PARTE AUTORA, RESTA DEMONSTRADO QUE OS SERVIÇOS EM QUESTÃO FORAM EFETIVAMENTE PRESTADOS. RESTITUIÇÃO DE VALORES E DANOS MORAIS. DEMONSTRADA A ADEQUAÇÃO DAS COBRANÇAS, DESCABIDA A REPETIÇÃO DE VALORES E A INDENIZAÇÃO POR DANOS MORAIS. SUCUMBÊNCIA. CONSIDERANDO O RESULTADO DA DEMANDA, DEVEM SER INVERTIDOS OS ÔNUS DA SUCUMBÊNCIA, REDEFINIDA A VERBA HONORÁRIA. AFASTADA A PRELIMINAR, DERAM PROVIMENTO AO APELO DA RÉ, PREJUDICADO O EXAME DO RECURSO DA AUTORA. UNÂNIME".
+Nas razões do Recurso Especial, aponta-se, além do dissídio jurisprudencial, ofensa aos arts. 6º, IV e VIII, 39, III, 42, parágrafo único, do CDC e 333, II, do CPC.
+Afirma ser devido o ressarcimento em dobro dos valores cobrados e pagos indevidamente, não havendo que se falar em necessidade de o consumidor comprovar que não contratou o serviço, por se tratar de fato incontroverso.
+Aduz, em seguida, o dissídio jurisprudencial na interpretação dos arts. 186, 187 e 927 do Código Civil, sob o fundamento de que a inserção de serviços sem prévia solicitação e contratação acarreta dano moral in re ipsa, em que independe a prova do resultado lesivo, bastando existir o ato ilícito para que surja o dever de indenizar.
+A insurgência não merece prosperar.
+O Tribunal de origem, ao entender pela inexistência de obrigação de repetição do indébito, bem como pela não configuração de dano moral à recorrente e pelo consequente descabimento do pedido indenizatório, o fez a partir das peculiaridades do caso. A propósito, confira-se a seguir:
+"No caso concreto, a documentação trazida aos autos pela demandada, ao que entendo, demonstra que os serviços impugnados pela parte autora foram efetivamente prestados, não havendo registro de falha de cadastro, tarifação ou bilhete de efeito no período contestado, nem bloqueio ou plano que impeça ou isente as chamadas originadas neste terminal.
+Ademais, diante da presunção de veracidade de tais conclusões e faturas, cabia à parte autora trazer aos autos provas contundentes de que não teria se beneficiado e/ou usufruído dos serviços contratados.
+Logo, entendo por devida a cobrança procedida.
+Em consequência, demonstrada a adequação das cobranças impugnadas, vai rejeitado o pedido de restituição dos valores pagos, bem como de indenização por danos morais, fluência dos juros moratórios e correção monetária e majoração dos honorários advocatícios" (fls. 349/350e).
+Assim, para rever a conclusão do Tribunal a quo, como pretende a recorrente, demandaria o reexame do conteúdo fático-probatório dos autos, vedado pela Súmula 7/STJ, óbice que se aplica também ao dissídio jurisprudencial.
+Ante o exposto, com fundamento no art. 557, caput, do Código de Processo Civil, nego seguimento ao Recurso Especial" (fls. 441/442e).
+Inconformada, sustenta a parte agravante que:
+"III.I - DA INAPLICABILIDADE DO ENUNCIADO SUMULAR 7/STJ. QUESTÕES FÁTICAS DELINEADAS NA SENTENÇA E NO ACÓRDÃO
+Como resta claro tanto a SENTENÇA quanto o ACÓRDÃO consignam de maneira explicita o fato de que a empresa OI S.A. não produziu a prova de que a recorrente teria contratado os serviços.
+Portanto, ILUSTRES MINISTROS, não havendo qualquer notícia da contratação, é totalmente impossível, ao menos no microssistema consumerista que as cobranças dos serviços indevidos sejam convalidadas, sob a justificativa de que as faturas possuem presunção de veracidade e que o consumidor deveria ter comprovado que não os usufruiu.
+Isto porque, haverá, e há, DIRETA VIOLAÇÃO ao artigo 39, III e parágrafo único do CDC, pois os serviços que são enviados sem solicitação são equiparados à amostra grátis, sendo expressamente vedada a sua cobrança! A SENTENÇA (p.03) demonstrou claramente a ausência de prova da contratação:
+(..)
+ILUSTRES MINISTROS, a decisão do acórdão, todavia, de maneira totalmente TERATOLÓGICA, CONVALIDOU AS COBRANÇAS, em notória violação ao artigo 39, III e parágrafo único do CDC:
+(..)
+Ademais, é totalmente contraditória do ponto de vista lógico e jurídico, pois alega que as faturas detém presunção de veracidade. Presunção somente do que fora cobrado, o que não possui nenhuma relação com a contratação.
+(..)
+Os parâmetros de julgamento (causas fáticas) estão delineados nos autos, de modo que não há que se falar no óbice da súmula 7. A análise de mérito da violação ao Art. 39, parágrafo único do CDC é totalmente possível, justamente pelo fato de que a corte de origem convalida as cobranças indevidas sob a pífia justificativa de que o consumidor deveria ter provado que não utilizou os serviços.
+(..)
+Destarte, estando todas as premissas fáticas delineadas no acórdão recorrido, é plenamente possível ao Excelso STJ analisar e prover tal direito que não requer mínima análise fática, pois o cerne da discussão reside no fato de reconhecer a IMPOSSIBILIDADE DE TORNAR CONVALIDADA A INSERÇÃO ABUSIVA DOS SERVIÇOS NÃO SOLICITADOS/AUTORIZADOS.
+Forte em tais motivos Nobres Julgadores, não obstante o notório saber dos Eméritos Desembargadores do Tribunal a quo, tem-se, no caso, de forma flagrante que os mesmos laboraram em equívoco, na medida em que julgaram o feito improcedente, sob a tese de possibilidade de convalidação das cobranças.
+III.II - DA INAPLICABILIDADE DO ENUNCIADO SUMULAR 7/STJ. POSSIBILIDADE DE ANÁLISE DO COTEJO ANALÍTICO
+Como resta claro tanto o acórdão recorrido quanto o paradigma reclamam a mesma tese jurídica. Ambos delineiam todas as informações para o deslinde do julgado, ou seja, demonstram a semelhança (cobranças abusivas de dissabor)
+(..)
+Por tais motivos, EXCELÊNCIAS, que é plenamente possível a análise da divergência, porquanto tanto o acórdão paradigma, trazem as circunstâncias fáticas no seu teor, e no caso dos autos, um defende a necessidade de prova do dano sofrido e o outro não, e sendo incontroverso o ilícito praticado - cobrança abusiva, reiterada de serviços não contratados e ausência de cancelamento após inúmeros pedidos, É PLENAMENTE POSSÍVEL A ANÁLISE DA DIVERGÊNCIA.
+Destarte, estando todas as premissas fáticas delineadas no acórdão recorrido, bem como dos paradigmas, é juridicamente possível ao Excelso STJ analisar e prover tal direito que não requer mínima análise fática, pois o cerne da discussão reside no fato de conhecer a abusividade praticada como DANO MORAL IN RE IPSA" (fls. 447/451e).
+Por fim, requer o "provimento deste Agravo Regimental (afastando-se os óbices levantados), a fim de que, reformada a r. decisão agravada, sendo dado provimento ao Recurso Especial para: a) Reconhecer a impossibilidade de tornar "convalidada a cobrança de serviços indevidos/não contratados, sob a antijurídica tese de que as faturas possuem presunção de veracidade da contratação" pela patente violação aos Arts. 6º, IV, VIII, 39, III, IV e P. único do CDC e Art. 333, II do CPC. b) CONDENAR a agravada à indenizar a recorrente, indenização à título de danos morais e responsabilidade civil dissuasória, pela abusividade e falha na prestação de um serviço público essencial, haja vista a cobrança reiterada de serviços não contratados, VISANDO especialmente o caráter punitivo/pedagógico, nos termos do Recurso Especial" (fls. 451/452e).
+É o relatório.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo Regimental não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Na origem, trata-se de Ação de Indenização, ajuizada pela parte agravante em face de OI S/A.
+O acórdão do Tribunal de origem reformou a sentença, para julgar improcedente o pedido.
+Nas razões do Recurso Especial, aponta-se, além do dissídio jurisprudencial, ofensa aos arts. 6º, IV e VIII, 39, III, 42, parágrafo único, do CDC e 333, II, do CPC.
+Afirma ser devido o ressarcimento, em dobro, dos valores cobrados e pagos indevidamente, não havendo que se falar em necessidade de o consumidor comprovar que não contratou o serviço, por se tratar de fato incontroverso.
+Aduz, em seguida, o dissídio jurisprudencial na interpretação dos arts. 186, 187 e 927 do Código Civil, sob o fundamento de que a inserção de serviços, sem prévia solicitação e contratação, acarreta dano moral in re ipsa, que independe da prova do resultado lesivo, bastando existir o ato ilícito, para que surja o dever de indenizar.
+Como destacou a decisão ora agravada, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, entendeu devida a cobrança procedida, como se infere do seguinte excerto do acórdão:
+"No caso concreto, a documentação trazida aos autos pela demandada, ao que entendo, demonstra que os serviços impugnados pela parte autora foram efetivamente prestados, não havendo registro de falha de cadastro, tarifação ou bilhete de efeito no período contestado, nem bloqueio ou plano que impeça ou isente as chamadas originadas neste terminal.
+Ademais, diante da presunção de veracidade de tais conclusões e faturas, cabia à parte autora trazer aos autos provas contundentes de que não teria se beneficiado e/ou usufruído dos serviços contratados.
+Logo, entendo por devida a cobrança procedida.
+Em consequência, demonstrada a adequação das cobranças impugnadas, vai rejeitado o pedido de restituição dos valores pagos, bem como de indenização por danos morais, fluência dos juros moratórios e correção monetária e majoração dos honorários advocatícios" (fls. 349/350e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL. OFENSA AOS ARTS. 458 E 535 DO CPC NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA E NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO.
+1. A Corte local manteve a sentença que julgou parcialmente procedente os Embargos para reconhecer o excesso de execução determinando que ela prosseguisse no valor da diferença devida a título de IRPJ, em conformidade com o laudo pericial, e foi categórica ao consignar que não é devida a condenação da União em honorários advocatícios porque a referida cobrança somente ocorreu em razão de a executada ter feito com erro o preenchimento da sua DCTF.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. O STJ não pode reexaminar os fatos e as provas produzidas nos autos, sob pena de infringir a Súmula 7 do STJ.
+(..)
+6. Agravo Interno não provido" (STJ, AgInt no REsp 1.592.074/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/10/2016).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DA PROVA. SÚMULA 7/STJ.
+1. Os arts. 2º, caput e parágrafo único, VII, e 50 da Lei n. 9.784/99 não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, nos termos do que preceituam as Súmulas 282 e 356 do STF.
+2. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 912.470/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/10/2016).
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. SÚMULA 83/STJ. APLICABILIDADE AOS RECURSOS ESPECIAIS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. EXECUÇÃO DEFLAGRADA PELO DEVEDOR. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. NÃO CABIMENTO.
+1. Não se mostra passível de acolhimento os argumentos da parte recorrente que demandam o reexame de matéria fático-probatória, tendo em vista o óbice previsto na Súmula 7/STJ.
+(..)
+5. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 803.101/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/05/2016).
+Registre-se, ainda, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, do permissivo constitucional, servem de justificativa quanto à sua alínea c.
+Nesse sentido, confira-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. OFERECIMENTO DE DEBÊNTURES E AÇÕES. CANCELAMENTO DA INSCRIÇÃO NO CADIN ESTADUAL. FUNDAMENTO DA EXEGESE DO ARTIGO 151 DO CTN NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido, os quais são suficientes para mantê-lo, enseja o não conhecimento do recurso, incidindo o enunciado da Súmula 283/STF.
+2. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+3. Agravo interno não provido" (STJ, AgInt no AREsp 938.760/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/09/2016).
+Cumpre ressaltar, por fim, que não há se falar em subsunção do caso dos autos à hipótese a ser examinada no Recurso Especial 1.525.174/RS, admitido como representativo da controvérsia, porquanto, além de o acórdão ter considerado a adequação da cobrança das faturas telefônicas, de forma a prejudicar o exame de todas as questões remanescentes, o presente recurso não ultrapassa a barreira do conhecimento, em face da incidência da Súmula 7/STJ.
+Assim, não se divisam, nas razões do Agravo Regimental, argumentos capazes de desconstituir a decisão agravada, que deve ser mantida, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao Agravo Regimental.
+É o voto.
