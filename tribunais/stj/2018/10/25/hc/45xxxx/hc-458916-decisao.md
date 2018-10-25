@@ -1,0 +1,45 @@
+EMENTA
+HABEAS CORPUS. POSSE DE 26 MUNIÇÕES. ATIPICIDADE. DISCUSSÃO. PRINCÍPIOS DA INSIGNIFICÂNCIA E DA OFENSIVIDADE. NÃO APLICAÇÃO. PRECEDENTES. ABSOLVIÇÃO. IMPOSSIBILIDADE.
+Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus impetrado por [NOME], no qual se aponta como órgão coator o Tribunal de Justiça de Santa Catarina (Apelação n. 0004682-70.2015.8.24.0020 - fls. 197/205).
+Colhe-se dos autos que o Tribunal de origem manteve a sentença proferida pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Criciúma/SC que condenou o ora paciente como incurso no art. 12 da Lei n. 10.826/03, à pena de 1 ano e 2 meses de detenção, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 10 dias-multa (fls. 117/129). O acórdão foi assim ementado (fl. 197):
+APELAÇÃO CRIMINAL. CRIME CONTRA A INCOLUMIDADE PÚBLICA. POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO (ART. 12 DA LEI N. 10.826/2003). RÉU QUE POSSUÍA E MANTINHA SOB SUA GUARDA 25 (VINTE E CINCO) MUNIÇÕES CALIBRE .22 E 1 (UMA) MUNIÇÃO CALIBRE 1.2. SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO.
+PEDIDO DE ABSOLVIÇÃO. ALEGADA INSUFICIÊNCIA PROBATÓRIA. INVIABILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. DEPOIMENTOS DOS POLICIAIS MILITARES SUFICIENTES PARA DEMONSTRAR QUE AS MUNIÇÕES APREENDIDAS PERTENCIAM AO RÉU. PLEITO SUBSIDIÁRIO. RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. NÃO ACOLHIMENTO. DELITO DE MERA CONDUTA E DE PERIGO ABSTRATO. RESULTADO LESIVO À ORDEM PÚBLICA PRESUMIDO. CONDENAÇÃO MANTIDA.
+SÚPLICA DE ALTERAÇÃO DO REGIME DE CUMPRIMENTO DA PENA PARA O ABERTO. INVIABILIDADE. PENA ARBITRADA ABAIXO DE 4 (QUATRO) ANOS. CONTUDO, RÉU REINCIDENTE. MANUTENÇÃO DO REGIME SEMIABERTO QUE SE IMPÕE.
+POSSIBILIDADE DA EXECUÇÃO DA PENA, DE ACORDO COM A ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. SENTENÇA CONDENATÓRIA CONFIRMADA EM SEGUNDA INSTÂNCIA QUE PERMITE O IMEDIATO CUMPRIMENTO DA REPRIMENDA. DETERMINAÇÃO DE OFÍCIO.
+RECURSO CONHECIDO E DESPROVIDO.
+Daí o presente writ, no qual a Defensoria Pública pretende, em suma, a absolvição do paciente, mediante a aplicação do princípio da insignificância, ou em reconhecimento de que a conduta era ex ante destituída de possibilidade de perigo, nos termos do art. 386, III, do CPP (fl. 17), já que se trata de posse de 26 munições de uso permitido, desacompanhadas de arma de fogo e de demais acessórios.
+Liminar indeferida (fls. 214/216), informações prestadas (fls. 219/251), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, em parecer assim ementado (fl. 256):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. ARTIGO 12 DA LEI 10.826/03. POSSE ILEGAL DE 26 MUNIÇÕES. TIPICIDADE FORMAL E MATERIAL. LESIVIDADE DA CONDUTA. OCORRÊNCIA. INEXISTÊNCIA DE ARMA DE FOGO. IRRELEVÂNCIA PARA A CONFIGURAÇÃO DO DELITO.
+1. É inadmissível a impetração de habeas corpus como substitutivo de recurso próprio.
+2. Reveste-se de tipicidade formal e material a conduta de possuir ou manter sob guarda 26 munições, sem autorização e em desacordo com determinação legal e regulamentar, ainda que não haja apreensão de arma de fogo, por tratar-se de delito de mera conduta e perigo abstrato, em que se pressupõe a lesão aos bens jurídicos tutelados pela norma (segurança pública e paz social). Precedentes.
+3. Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+Não vislumbro a existência de constrangimento ilegal a ser sanado.
+Com efeito, esta Corte, alinhando-se ao Supremo Tribunal Federal, tem entendido pela possibilidade da aplicação do princípio da insignificância aos crimes previstos na Lei 10.826/03, a despeito de serem delitos de mera conduta, afastando, assim, a tipicidade material da conduta, quando evidenciada flagrante desproporcionalidade da resposta penal (AgRg no AgRg no REsp n. 1.481.532/GO, Ministro Nefi Cordeiro, Sexta Turma, DJe 04/10/2018).
+A propósito:
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 12 DA LEI N. 10.826/2003. POSSE IRREGULAR DE MUNIÇÃO. ABSOLVIÇÃO. EXCEPCIONALIDADE NA VIA ELEITA. CRIME DE PERIGO ABSTRATO. ATIPICIDADE MATERIAL DA CONDUTA EVIDENCIADA. CINCO MUNIÇÕES APREENDIDAS. AUSÊNCIA DE DISPOSITIVO DE DISPARO. EMBARGOS ACOLHIDOS.
+1. A jurisprudência deste Superior Tribunal de Justiça aponta que os crimes previstos nos arts. 12, 14 e 16 da Lei n. 10.826/2003 são de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta, porquanto o objeto jurídico tutelado não é a incolumidade física e sim a segurança pública e a paz social, colocadas em risco com a posse de munição, ainda que desacompanhada de arma de fogo, revelando-se despicienda a comprovação do potencial ofensivo do artefato através de laudo pericial. Por esses motivos, via de regra, inaplicável, nos termos da jurisprudência desta Corte, o princípio da insignificância aos crimes de posse e de porte de arma de fogo ou munição, sendo irrelevante inquirir a quantidade de munição apreendida.
+2. O Supremo Tribunal Federal, em recente julgado, analisando as circunstâncias do caso concreto, reconheceu ser possível aplicar a bagatela na hipótese de apreensão de apenas uma munição de uso permitido desacompanhada de arma de fogo, tendo concluído pela total inexistência de perigo à incolumidade pública (RHC 143.449/MS, Rel. Ministro Ricardo Lewandowski, Segunda Turma, Dje 9/10/2017).
+3.  ..
+4. Embargos de declaração acolhidos, para dar provimento ao agravo regimental, a fim de negar provimento ao recurso especial.
+(EDcl no AgRg no REsp n. 1.700.630/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/10/2018 - grifo nosso).
+Nesses termos, tem-se entendido que, em casos que tratam de posse de pequena quantidade de munições, sem a existência de arma de fogo, os princípios da bagatela ou o da ofensividade podem, em tese, ser aplicados.
+No entanto, aqui se trata de posse de 25 munições de calibre 22 e 1 munição de calibre 12 (fl. 204), o que, nos termos da jurisprudência desta Corte, não pode ser considerado insignificante nem inofensivo.
+A propósito:
+PENAL. HABEAS CORPUS. ART. 12 DA LEI 10.826/03. ATIPICIDADE DA CONDUTA. CRIME DE MERA CONDUTA E DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ORDEM DENEGADA.
+ ..
+2. O caso em exame não comporta qualquer flexibilização, tendo em vista que o paciente mantinha sob sua guarda 19 munições calibre 32. Ademais, os elementos constantes dos autos indicam o envolvimento do agente com atividades espúrias, sendo certo que apresenta dupla reincidência, além de ter sido encontrada também em sua residência mercadoria roubada, dando ensejado à condenação pelo crime de receptação, tudo a evidenciar a inaplicabilidade do princípio da insignificância.
+3. Ordem denegada.
+(HC n. 41.752/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/06/2018 - grifo nosso).
+PENAL E PROCESSO PENAL. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO. NÃO CABIMENTO. PORTE DE MUNIÇÕES. AUSÊNCIA DE ARMA. IRRELEVÂNCIA. CRIME DE PERIGO ABSTRATO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. PEQUENA QUANTIDADE DE MUNIÇÃO. AUSÊNCIA DE ARTEFATO. PRECEDENTES DO STF E DO STJ. ENTENDIMENTO QUE NÃO PODE LEVAR À PROTEÇÃO DEFICIENTE. NECESSIDADE DE ANÁLISE DO CASO CONCRETO.  ..
+1.  ..
+2. Não há se falar em atipicidade em virtude da apreensão da munição desacompanhada de arma de fogo, porquanto a conduta narrada preenche não apenas a tipicidade formal mas também a material, uma vez que "o tipo penal visa à proteção da incolumidade pública, não sendo suficiente a mera proteção à incolumidade pessoal" (AgRg no REsp n. 1.434.940/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 4/2/2016). Nesse contexto, verifico que permanece hígida a jurisprudência do Superior Tribunal de Justiça, bem como do Supremo Tribunal Federal, no sentido de que a posse de munição, mesmo desacompanhada de arma apta a deflagrá-la, continua a preencher a tipicidade penal, não podendo ser considerada atípica a conduta.
+3. Passou-se a admitir, no entanto, a incidência do princípio da insignificância quando se tratar de posse de pequena quantidade de munição, desacompanhada de armamento capaz de deflagrá-la, uma vez que ambas as circunstâncias conjugadas denotam a inexpressividade da lesão jurídica provocada. Precedentes do STF e do STJ.
+4. A possibilidade de incidência do princípio da insignificância não pode levar à situação de proteção deficiente ao bem jurídico tutelado. Portanto, não se deve abrir muito o espectro de sua incidência, que deve se dar apenas quando efetivamente mínima a quantidade de munição apreendida, em conjunto com as circunstâncias do caso concreto, a denotar a inexpressividade da lesão. Com efeito, analisando os precedentes, verifico que a insignificância se apresenta em situações nas quais se portava de 1 a 7 munições. Outrossim, a Quinta Turma já considerou que a apreensão de 20 projéteis não autorizava a aplicação do mencionado princípio.
+5.  ..
+6. Habeas corpus não conhecido. Ordem concedida de ofício para absolver o paciente pelo crime tipificado no art. 14 da Lei nº 10.826/03.
+(HC n. 458.189/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/09/2018 - grifo nosso).
+Ante o exposto, denego a ordem.
+Publique-se.
