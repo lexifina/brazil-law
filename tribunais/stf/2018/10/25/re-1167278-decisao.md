@@ -1,0 +1,24 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Welbdo Kleber de Souza contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de Mato Grosso, está assim ementado:
+    “REEXAME NECESSÁRIO – AÇÃO DE OBRIGAÇÃO DE FAZER – DIREITO À SAÚDE – CIRURGIA ELETIVA – AUSÊNCIA DE COMPROVAÇÃO DA URGÊNCIA E PRIORIDADE DA PRETENSÃO – IMPOSSIBILIDADE DE INGERÊNCIA DO JUDICIÁRIO – IMPROCEDÊNCIA – SENTENÇA RETIFICADA.
+    A ingerência do Poder Judiciário no sentido de dar efetividade ao direito à saúde deve se dar de forma criteriosa, com a comprovação da urgência e prioridade do atendimento, sob pena de caracterizar desrespeito ao princípio da isonomia.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido no apelo extremo, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do recurso extraordinário, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios:
+    “Dito isso, analisado o caso concreto, verifica-se que o assistido é portador de lesão cortante em zona flexora do polegar esquerdo e afirma necessitar da cirurgia descrita na exordial.
+    Contudo, no caso específico dos autos, em atento exame das provas, percebi que o assistido pretende a realização de uma cirurgia, que lhe foi prescrita, não sendo declarada, porém, a urgência do tratamento.
+    Além disso, o parecer emitido pelo Núcleo de Apoio Técnico – NAT concluiu que inexiste urgência, já que se trata de cirurgia de caráter eletivo (fls. 31/32-TJ).
+    E mais, consoante informação do Gerente de Internação/CER/SMS da Secretaria Municipal de Saúde, noticia que ‘o paciente está regulado sob o nº 000.650.885 autorizado pela central de regulação onde o mesmo aguarda vaga para agendamento da cirurgia (fls. 24 e 27-TJ).
+    Ainda, extrai-se dos autos que a lesão ocorreu um ano antes do ajuizamento da demanda e protocolo de solicitação de procedimento junto ao SUS datado em 09/04/2014 (fls. 23-TJ).
+    Com efeito, os procedimentos eletivos fornecidos pelo Sistema Único de Saúde devem ser agendados e possuem uma lista de espera, que precisa ser respeitada, sob pena de se impor desequilíbrio do Sistema Público e malferimento dos Princípios da Isonomia e da Impessoalidade, diretrizes asseguradas no artigo 37 da CRFB/88.”
+    Vê-se, portanto, que a pretensão deduzida pela parte parte ora recorrente revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 953.770/RN, Rel. Min. EDSON FACHIN – ARE 956.017/RN, Rel. Min. DIAS TOFFOLI – ARE 1.131.296/RN, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.131.303/RN, Rel. Min. ROBERTO BARROSO – RE 1.109.528/RN, Rel. Min. MARCO AURÉLIO, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo e Constitucional. Saúde. Cirurgia a ser realizada pelo Sistema Único de Saúde. 3. Inexistência de urgência a justificar a prioridade do procedimento cirúrgico pleiteado. 4. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.”
+    (ARE 943.547-AgR/RN, Rel. Min. GILMAR MENDES)
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 25 de outubro de 2018.
+Ministro CELSO DE MELLO
+Relator
